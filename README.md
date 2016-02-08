@@ -10,6 +10,7 @@ BCB420 class project to identify "identity defining" transcription factors for c
 * Dmitry Horodetsky (biodim)
 * Christopher Li  (cL9821)
 * Kartikay Chadha (kartikaychadha)
+* Fupan Yao (gosuzombie)
 * NN etc.
 
 
