@@ -11,6 +11,7 @@ BCB420 class project to identify "identity defining" transcription factors for c
 * Christopher Li  (cL9821)
 * Kartikay Chadha (kartikaychadha)
 * Fupan Yao (gosuzombie)
+* Shivani Kamdar (SKamdar1)
 * NN etc.
 
 
