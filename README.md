@@ -8,6 +8,7 @@ BCB420 class project to identify "identity defining" transcription factors for c
 * Boris Steipe
 * Julian Mazzitelli (thejmazz)
 * Dmitry Horodetsky (biodim)
+* Christopher Li  (cL9821)
 * NN etc.
 
 
