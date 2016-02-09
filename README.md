@@ -18,6 +18,7 @@ BCB420 class project to identify "identity defining" transcription factors for c
 * Anam Qudrat (anamqu)
 * Abhishek Patel (ap-patel)
 * Jialun Tom Chen (JialunC)
+* Tamara Kleiman (dagna)
 * NN etc.
 
 
