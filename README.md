@@ -13,6 +13,7 @@ BCB420 class project to identify "identity defining" transcription factors for c
 * Fupan Yao (gosuzombie)
 * Shivani Kamdar (SKamdar1)
 * Julia Kitaygorodsky (jkitaygorodsky)
+* Dan Litovitz (ontoscoper)
 * NN etc.
 
 
