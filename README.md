@@ -17,6 +17,7 @@ BCB420 class project to identify "identity defining" transcription factors for c
 * Howard Wu (sonarestis)
 * Anam Qudrat (anamqu)
 * Abhishek Patel (ap-patel)
+* Jialun Tom Chen (JialunC)
 * NN etc.
 
 
