@@ -22,6 +22,7 @@ BCB420 class project to identify "identity defining" transcription factors for c
 * Ryoga Li (RyogaLi)
 * Eugenia Barkova (eugeniabarkova)
 * Burton Mendonca (burtonlm)
+* Phil Fradkin (MonumentalJ)
 * NN etc.
 
 
