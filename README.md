@@ -19,6 +19,7 @@ BCB420 class project to identify "identity defining" transcription factors for c
 * Abhishek Patel (ap-patel)
 * Jialun Tom Chen (JialunC)
 * Tamara Kleiman (dagna)
+* Ryoga Li (RyogaLi)
 * NN etc.
 
 
