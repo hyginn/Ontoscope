@@ -20,6 +20,7 @@ BCB420 class project to identify "identity defining" transcription factors for c
 * Jialun Tom Chen (JialunC)
 * Tamara Kleiman (dagna)
 * Ryoga Li (RyogaLi)
+* Eugenia Barkova (eugeniabarkova)
 * NN etc.
 
 
