@@ -12,7 +12,6 @@ BCB420 class project to identify "identity defining" transcription factors for c
 * Kartikay Chadha (kartikaychadha)
 * Fupan Yao (gosuzombie)
 * Shivani Kamdar (SKamdar1)
-* Julia Kitaygorodsky (jkitaygorodsky)
 * Dan Litovitz (ontoscoper)
 * Howard Wu (sonarestis)
 * Anam Qudrat (anamqu)
@@ -24,6 +23,6 @@ BCB420 class project to identify "identity defining" transcription factors for c
 * Eugenia Barkova (eugeniabarkova)
 * Burton Mendonca (burtonlm)
 * Phil Fradkin (MonumentalJ)
-* NN etc.
+
 
 
