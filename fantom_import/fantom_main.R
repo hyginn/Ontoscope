@@ -1,6 +1,6 @@
 # Purpose:   Access the Fantom Database and Extract the Relevant Counts/Annotation for Requested Cells
-# Version:   0.5
-# Date:      2016-02-26
+# Version:   0.5.1
+# Date:      2016-02-27
 # Author:    Dmitry Horodetsky
 #
 # Input:     string
@@ -10,7 +10,8 @@
 # ToDo:      Implement all the other functions (as seen in the wiki)
 # Notes:     
 #
-# V 0.1:     has fantomImport, fantomSearch, fantomList
+# V 0.5:     has fantomImport, fantomSearch, fantomList
+# V 0.5.1    fantomDirect added
 
 
 #Libraries
@@ -70,6 +71,53 @@ fantomImport <- function(keyword){
 
 }
 
+#fantomDirect here
+#This code is similar to the fantomImport function
+#I've decided against combining them to avoid a  code mess
+
+
+fantomDirect <- function(fantom_access_numbers) {
+  #Check Whether Samples_DB is Loaded (in the working Directory)
+  if (file.exists("Sample_DB.txt")){
+    print ('Sample_DB Loaded!')
+  } else { stop("Sample_DB not found. Please put it in your working directory")
+    
+  }
+  
+  #shout out to http://stackoverflow.com/a/17009777
+  number_list <-unique(na.omit(as.numeric(unlist(strsplit(
+    unlist(fantom_access_numbers),"[^0-9]+")))))
+  
+  #boundary check
+  if (max(number_list) <= 895 & min(number_list) >=7) {
+    
+    fantom_access_numbers <- c(number_list)
+    length_of_FANs <- length(fantom_access_numbers)
+    iterator_counter <- icount(length_of_FANs)
+    
+    message(paste(length_of_FANs, "Search Result(s) Were Found. Loading..."))
+    
+    for(i in fantom_access_numbers)
+    {
+      current_count <- nextElem(iterator_counter)
+      message((paste("Loading Results from Fantom Access Number",i,
+                     "(",current_count,"/",length_of_FANs,")","...")))
+      fantomResults[[current_count]] <<- 
+      {
+        fantom_df <- fread(
+          paste0(URL1,as.character(i),URL2),
+          sep="\t", header=TRUE, stringsAsFactors = FALSE, showProgress = FALSE)
+      }
+      message((paste("Results from Fantom Access Number",i, "Loaded!")))
+    }
+    message(paste("All results have been loaded into fantomResults")) 
+    
+  }
+  
+  else{
+    stop("Fantom Access Numbers must be between 7 and 895")
+  }
+}
 
 fantomSearch <- function(x){
   #Check Whether Samples_DB is Loaded (in the working Directory)
