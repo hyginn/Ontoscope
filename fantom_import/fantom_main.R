@@ -34,7 +34,7 @@ fantom_samples <- read.table('Sample_DB.txt')
 URL1 <- "http://fantom.gsc.riken.jp/5/tet/search/?c=0&c=1&c=4&c=5&c=6&c="
 URL2 <- "&filename=hg19.cage_peak_counts_ann_decoded.osc.txt.gz&q=&skip=0"
 
-fantomResults <-- list() #Global Assignment
+fantomResults <- list() #Global Assignment
 
 fantomImport <- function(keyword){
   #Check Whether Samples_DB is Loaded (in the working Directory)
