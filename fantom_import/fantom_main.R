@@ -35,7 +35,7 @@ fantom_samples <- read.table('Sample_DB.txt')
 URL1 <- "http://fantom.gsc.riken.jp/5/tet/search/?c=0&c=1&c=4&c=5&c=6&c="
 URL2 <- "&filename=hg19.cage_peak_counts_ann_decoded.osc.txt.gz&q=&skip=0"
 
-fantomResults <- list() #Global Assignment
+fantomResults <- list() 
 
 fantomImport <- function(keyword){
   #Check Whether Samples_DB is Loaded (in the working Directory)
@@ -44,6 +44,9 @@ fantomImport <- function(keyword){
   } else { stop("Sample_DB not found. Please put it in your working directory")
     
   }
+  
+  #Clear the list
+  resetFantom()
   
   #Main Function
   query_results <- fantom_samples[ grep(keyword, fantom_samples$V1) , ]
@@ -83,6 +86,9 @@ fantomDirect <- function(fantom_access_numbers) {
   } else { stop("Sample_DB not found. Please put it in your working directory")
     
   }
+  
+  #Clear the list
+  resetFantom()
   
   #shout out to http://stackoverflow.com/a/17009777
   number_list <-unique(na.omit(as.numeric(unlist(strsplit(
@@ -141,3 +147,7 @@ fantomList <- function(){
    return(fantom_samples)
 }
 
+resetFantom <- function(){
+  fantomResults[] <<- NULL
+  
+}
