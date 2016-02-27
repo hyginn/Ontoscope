@@ -1,20 +1,24 @@
 ﻿## Fantom Import Module
 
-Version: **0.5.1**
+Version: **0.5.2**
 
 **Recent Changes:**
 
- - added fantomDirect
+ - Improved code readability
 
 **Features:**
 
- - fantomImport
+ - fantomImport()
 
- - fantomDirect
+ - fantomDirect()
 
- - fantomSearch 
+ - fantomSearch()
 
- - fantomList
+ - fantomList()
+
+**To Do:**
+ - fantomOntology()
+ - Dataframe Processing
 
 Instructions:
 -------------
@@ -79,7 +83,7 @@ With fantomDirect, you can avoid keyword-based limitations. For example you can 
 3 Search Result(s) Were Found. Loading...
 ```
 
-This results in 3 Samples: #528, #529 and #530. If you want to load only #528 and #530:
+This results is 3 Samples: #528, #529 and #530. If you want to load only #528 and #530:
 
 ```
 >fantomDirect("528, 530")
@@ -97,7 +101,7 @@ If you want to explore the FANTOM 5 database, but not load any samples, this is 
 ```
 >fantomSearch("CD8")
 ```
-The output will give you the entries in the Fantom Database, along with the access number and tissue type. Future releases of the Fantom Import module will have a filter by tissue feature as well as direct selection. You can use this function to find relevant Fantom Access Numbers.
+The output will give you the entries in the Fantom Database, along with the access number and tissue type. You can use this function to find relevant Fantom Access Numbers.
 
 fantomList
 ----------
@@ -105,6 +109,6 @@ fantomList
 ```
 >fantomList()
 ```
-returns all Sample, Cell Type and Fantom Access Numbers
+Returns all Sample, Cell Type and Fantom Access Numbers available in the Fantom Database
 
 
