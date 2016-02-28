@@ -1,9 +1,9 @@
 # Purpose:   Access the Fantom Database and Extract the Relevant Counts/Annotation for Requested Cells
-# Version:   0.5.2
-# Date:      2016-02-27
+# Version:   0.7
+# Date:      2016-02-28
 # Author:    Dmitry Horodetsky
 #
-# Input:     string
+# Input:     string/list
 # Output:    list of dataframes
 # Depends:
 #
@@ -12,7 +12,7 @@
 #
 # V 0.5:     has fantomImport, fantomSearch, fantomList
 # V 0.5.1:   fantomDirect added
-# V 0.5.2:   Code Readability Improved
+# V 0.7:   fantomImport is replaced by fantomKeyword. fantomOntology Added
 
 
 #Libraries Install
@@ -24,16 +24,21 @@ if (!require(iterators, quietly=TRUE)) {
   install.packages("data.table")
 }
 
+if (!require(iterators, quietly=TRUE)) {
+  install.packages("stringr.")
+}
+
 #Libraries Load
 library(data.table)
 library(iterators)
+library(stringr)
 
 #Load Sample_DB
 fantom_samples <- read.table('Sample_DB.txt')
 
 
 URL1 <- "http://fantom.gsc.riken.jp/5/tet/search/?c=0&c=1&c=4&c=5&c=6&c="
-URL2 <- "&filename=hg19.cage_peak_counts_ann_decoded.osc.txt.gz&q=&skip=0"
+URL2 <- "&filename=hg19.cage_peak_counts_ann_decoded.osc.txt.gz"
 
 fantomResults <- list() 
 
@@ -41,7 +46,7 @@ fantomResults <- list()
 #MAIN FUNCTIONS
 ####################
 
-fantomImport <- function(keyword){
+fantomKeyword <- function(keywords){
   #Check Whether Samples_DB is Loaded (in the working Directory)
   if (file.exists("Sample_DB.txt")){
     print ('Sample_DB Loaded!')
@@ -53,12 +58,19 @@ fantomImport <- function(keyword){
   .resetFantom()
   
   #Prepare the Input for the Main Function
-  query_results <- fantom_samples[ grep(keyword, fantom_samples$V1) , ]
-  fantom_access_numbers <- c(query_results[,3])
+
+  #This is to fix inconsistant comma spacing
+  keyword_list1 <- gsub(" ", "", keywords, fixed = TRUE)
+  keyword_list2 <- c(str_split(keyword_list1, pattern = ','))
   
-  #Main Function
-  .fantomMain(fantom_access_numbers)
+  final_FAN_list <- list()
   
+  for (i in keyword_list2[[1]]){
+    query_results <- fantom_samples[ grep(i, fantom_samples$V1) , ]
+    processed_results <- c(query_results[,3])
+    final_FAN_list <- c(processed_results, final_FAN_list)
+  }
+  .fantomImport((unlist((unique(final_FAN_list)))))
 }
 
 fantomDirect <- function(fantom_access_numbers) {
@@ -80,7 +92,7 @@ fantomDirect <- function(fantom_access_numbers) {
     
     #Pass to Main Function
     fantom_access_numbers <- c(user_query)
-    .fantomMain(fantom_access_numbers)
+    .fantomImport(unique(fantom_access_numbers))
   }
   
   else{
@@ -88,26 +100,46 @@ fantomDirect <- function(fantom_access_numbers) {
   }
 }
 
-fantomSearch <- function(x){
+fantomOntology <- function(ontology_IDs){
   #Check Whether Samples_DB is Loaded (in the working Directory)
   if (file.exists("Sample_DB.txt")){
     print ('Sample_DB Loaded!')
   } else { stop("Sample_DB not found. Please put it in your working directory")
     
   }
-  query_results <- fantom_samples[ grep(x, fantom_samples$V1) , ]
-  return (query_results)
   
-}
-
-fantomList <- function(){
-  #Check Whether Samples_DB is Loaded (in the working Directory)
-  if (file.exists("Sample_DB.txt")){
-    print ('Sample_DB Loaded!')
-  } else { stop("Sample_DB not found. Please put it in your working directory")
+  #Clear the list
+  .resetFantom()
+  
+  #Processing for fantomImport
+  ontology_list1 <- gsub(" ", "", ontology_IDs, fixed = TRUE)
+  ontology_list2 <- c(str_split(ontology_list1, pattern = ','))
+  
+  list_of_IDs <- list()
+  for (i in ontology_list2[[1]])
+  {
+    if (substr(i,start = 1, stop = 3) == "FF:"){
+      query_results <- fantom_samples[ grep(i, fantom_samples$FANTOM.5.Ontology.ID) , ]
+      if (length(row.names(query_results)) == 0){
+        list_of_IDs[i] <- NULL
+      } else {
+        list_of_IDs[i] <- c(query_results[,3])
+      }
+    } else {
+      stop("Ontology IDs must be in a FF:XXXXX format")
+    }
   }
   
-  return(fantom_samples)
+  fantom_access_numbers <- as.numeric(list_of_IDs)
+  
+  match_num <- length(fantom_access_numbers)
+  match_denom <- length(ontology_list2[[1]])
+  
+  #Matching Message
+  message(paste("MATCHED:",match_num,"of",match_denom))
+  
+  #Load the Main Function
+  .fantomImport(unique(fantom_access_numbers))
 }
 
 ##########################
@@ -139,7 +171,7 @@ fantomList <- function(){
 
 #Most other functions just prepare the input for this function
 
-.fantomMain <- function(fantom_access_numbers) {
+.fantomImport <- function(fantom_access_numbers) {
   length_of_FANs <- length(fantom_access_numbers)
   iterator_counter <- icount(length_of_FANs)
   
