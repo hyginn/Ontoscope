@@ -1,5 +1,5 @@
 # Purpose:   Access the Fantom Database and Extract the Relevant Counts/Annotation for Requested Cells
-# Version:   0.7
+# Version:   0.7.5
 # Date:      2016-02-28
 # Author:    Dmitry Horodetsky
 #
@@ -12,7 +12,9 @@
 #
 # V 0.5:     has fantomImport, fantomSearch, fantomList
 # V 0.5.1:   fantomDirect added
-# V 0.7:   fantomImport is replaced by fantomKeyword. fantomOntology Added
+# V 0.7:     fantomImport is replaced by fantomKeyword. fantomOntology Added
+# V 0.7.5:   FANTOM Phase 2 Support Added (now we have both phase 1 and phase 2)
+#            added a mode switch (return_counts)      
 
 
 #Libraries Install
@@ -36,10 +38,13 @@ library(stringr)
 #Load Sample_DB
 fantom_samples <- read.table('Sample_DB.txt')
 
+#THIS SETS THE MODE
+#return_counts <- TRUE returns Counts
+#return_counts <- FALSE returns NORMALIZED COUNTS
 
-URL1 <- "http://fantom.gsc.riken.jp/5/tet/search/?c=0&c=1&c=4&c=5&c=6&c="
-URL2 <- "&filename=hg19.cage_peak_counts_ann_decoded.osc.txt.gz"
+return_counts <- TRUE
 
+#Initiate List
 fantomResults <- list() 
 
 ####################
@@ -53,6 +58,9 @@ fantomKeyword <- function(keywords){
   } else { stop("Sample_DB not found. Please put it in your working directory")
     
   }
+  
+  #Check Mode (counts or normalized)
+  .modeSelect()
   
   #Clear the list
   .resetFantom()
@@ -84,11 +92,14 @@ fantomDirect <- function(fantom_access_numbers) {
   #Clear the list
   .resetFantom()
   
+  #Check Mode (counts or normalized)
+  .modeSelect()
+  
   #Prepare the input for the Main Function
   user_query <- .character_to_numbers(fantom_access_numbers)
   
   #Boundary Check
-  if (max(user_query) <= 895 & min(user_query) >=7) {
+  if (max(user_query) <= 1835 & min(user_query) >=7) {
     
     #Pass to Main Function
     fantom_access_numbers <- c(user_query)
@@ -96,7 +107,7 @@ fantomDirect <- function(fantom_access_numbers) {
   }
   
   else{
-    stop("Fantom Access Numbers must be between 7 and 895")
+    stop("Fantom Access Numbers must be between 7 and 1835")
   }
 }
 
@@ -110,6 +121,9 @@ fantomOntology <- function(ontology_IDs){
   
   #Clear the list
   .resetFantom()
+  
+  #Check Mode (counts or normalized)
+  .modeSelect()
   
   #Processing for fantomImport
   ontology_list1 <- gsub(" ", "", ontology_IDs, fixed = TRUE)
@@ -141,6 +155,31 @@ fantomOntology <- function(ontology_IDs){
   #Load the Main Function
   .fantomImport(unique(fantom_access_numbers))
 }
+
+fantomSearch <- function(x){
+  #Check Whether Samples_DB is Loaded (in the working Directory)
+  if (file.exists("Sample_DB.txt")){
+    print ('Sample_DB Loaded!')
+  } else { stop("Sample_DB not found. Please put it in your working directory")
+    
+  }
+  query_results <- fantom_samples[ grep(x, fantom_samples$V1) , ]
+  return (query_results)
+  
+}
+
+fantomList <- function(){
+  #Check Whether Samples_DB is Loaded (in the working Directory)
+  if (file.exists("Sample_DB.txt")){
+    print ('Sample_DB Loaded!')
+  } else { stop("Sample_DB not found. Please put it in your working directory")
+  }
+  
+  return(fantom_samples)
+}
+
+
+
 
 ##########################
 #INTERNAL HELPER FUNCTIONS
@@ -191,6 +230,19 @@ fantomOntology <- function(ontology_IDs){
     message((paste("Results from Fantom Access Number",i, "Loaded!")))
   }
   message(paste("All results have been loaded into fantomResults")) 
+  
+}
+
+.modeSelect <- function(){
+  if (as.logical(return_counts) == TRUE) {
+    message ("Returning RAW COUNTS")
+    URL1 <<- "http://fantom.gsc.riken.jp/5/tet/search/?c=0&c=1&c=4&c=5&c=6&c="
+    URL2 <<- "&filename=hg19.cage_peak_phase1and2combined_counts_ann_decoded.osc.txt.gz"
+  } else {
+    message (("Returning RLE NORMALIZED COUNTS"))
+    URL1 <<- "http://fantom.gsc.riken.jp/5/tet/search/?c=0&c=1&c=4&c=5&c=6&c="
+    URL2 <<- "&filename=hg19.cage_peak_phase1and2combined_tpm_ann_decoded.osc.txt.gz"
+  }
   
 }
   
