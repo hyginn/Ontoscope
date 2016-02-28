@@ -16,8 +16,6 @@ Version: **0.7.5**
 **To Do:**
 
  - Dataframe Processing
- - add Phase 2 peaks to fantomDatabase
- - Implement a function that will allow you to retrieve either the raw counts or the (FANTOM) normalized data
 
 Introduction:
 -------------
@@ -65,6 +63,7 @@ fantomKeyword
 ```
 >fantomKeyword("brain")
 [1] "Sample_DB Loaded!"
+Returning RAW COUNTS
 3 Search Result(s) Were Found. Loading...
 Loading Results from Fantom Access Number 528 ( 1 / 3 ) ...
 Results from Fantom Access Number 528 Loaded!
@@ -98,6 +97,7 @@ fantomDirect
 ```
 >fantomDirect("23,45,677,34,56,67")
 [1] "Sample_DB Loaded!"
+Returning RAW COUNTS
 6 Search Result(s) Were Found. Loading...
 Loading Results from Fantom Access Number 23 ( 1 / 6 ) ...
 Results from Fantom Access Number 23 Loaded!
