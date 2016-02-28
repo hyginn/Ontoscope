@@ -1,15 +1,17 @@
 ﻿## Fantom Import Module
 
-Version: **0.7**
+Version: **0.7.5**
 
 **Recent Changes:**
 
- - Added fantomOntology()
+ - Added Phase 2 Support
+ - Added Option to return both RAW and RLE NORMALIZED Counts
 
 **Features:**
 
  - Import from fantomKeyword(), fantomOntology(), fantomDirect()
  - Seach using fantomSearch() and fantomList()
+ - Return RAW or Normalized Counts
 
 **To Do:**
 
@@ -19,7 +21,7 @@ Version: **0.7**
 
 Introduction:
 -------------
-The Fantom Import Module allows you to import data from Fantom5 based on Keywords, Fantom Ontology, or using your your own method via fantomDirect(). Currently it only supports phase1 results("hg19.cage_peak_counts_ann_decoded.osc"). But phase 2 is coming soon!
+The Fantom Import Module allows you to import data from Fantom5 based on Keywords, Fantom Ontology, or using your your own method via fantomDirect(). Currently it supports phase1 and phase2 results. You can also return both RAW or RLE NORMALIZED Counts
 
 Using fantomKeyword(), fantomOntology() or fantomDirect() generates a list of dataframes: fantomResults. This is subsettable. You can view each individual result:
 
@@ -40,7 +42,24 @@ Instructions:
 
 Make sure you have transfered the "Sample_DB.txt" to your working directory, not the default fantom_import directory
 
-fantomKeyword()
+Selecting Your Mode:
+-------------
+You can return results either as RAW COUNTS or RLE NORMALIZED. By default the function returns RAW COUNTS. If you want to return RLE NORMALIZED. Type this into your console before executing any function (but make sure your source fantom_main.R first):
+
+```
+return_counts <- FALSE
+```
+
+The function will now return RLE NORMALIZED counts. If you want to switch it back to RAW COUNTS:
+
+```
+return_counts <- TRUE
+```
+
+
+
+
+fantomKeyword
 ------------
 
 ```
@@ -111,6 +130,7 @@ This results is 3 Samples: #528, #529 and #530. If you want to load only #528 an
 ```
 >fantomDirect("528, 530")
 [1] "Sample_DB Loaded!"
+Returning RAW COUNTS
 2 Search Result(s) Were Found. Loading...
 ```
 
@@ -120,11 +140,12 @@ Take Note: The Argument is fantomDirect("x,y,z"), not fantomDirect("x","y","z")
 fantomOntology
 ------------
 
-If you know the relevant Fantom Ontology IDs (ie "FF:10198-103E9"), you can import your data using them. Note the argument notation.
+If you know the relevant Fantom Ontology IDs (ie "FF:10198-103E9"), you can import your data using it. Note the argument notation.
 
 ```
 > fantomOntology("FF:10198-103E9, FF:10549-107H9, FF:946436346, FF:28")
 [1] "Sample_DB Loaded!"
+Returning RAW COUNTS
 MATCHED: 2 of 4
 2 Search Result(s) Were Found. Loading...
 Loading Results from Fantom Access Number 608 ( 1 / 2 ) ...
