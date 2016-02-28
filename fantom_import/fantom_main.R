@@ -17,23 +17,22 @@
 #            added a mode switch (return_counts)      
 
 
-#Libraries Install
+#Libraries Install and Load
 if (!require(iterators, quietly=TRUE)) {
   install.packages("iterators")
+  library(iterators)
 }
 
-if (!require(iterators, quietly=TRUE)) {
+if (!require(data.table, quietly=TRUE)) {
   install.packages("data.table")
+  library(data.table)
 }
 
-if (!require(iterators, quietly=TRUE)) {
+if (!require(stringr, quietly=TRUE)) {
   install.packages("stringr.")
+  library(stringr)
 }
 
-#Libraries Load
-library(data.table)
-library(iterators)
-library(stringr)
 
 #Load Sample_DB
 fantom_samples <- read.table('Sample_DB.txt')
@@ -53,11 +52,7 @@ fantomResults <- list()
 
 fantomKeyword <- function(keywords){
   #Check Whether Samples_DB is Loaded (in the working Directory)
-  if (file.exists("Sample_DB.txt")){
-    print ('Sample_DB Loaded!')
-  } else { stop("Sample_DB not found. Please put it in your working directory")
-    
-  }
+  .checkDB()
   
   #Check Mode (counts or normalized)
   .modeSelect()
@@ -66,7 +61,7 @@ fantomKeyword <- function(keywords){
   .resetFantom()
   
   #Prepare the Input for the Main Function
-
+  
   #This is to fix inconsistant comma spacing
   keyword_list1 <- gsub(" ", "", keywords, fixed = TRUE)
   keyword_list2 <- c(str_split(keyword_list1, pattern = ','))
@@ -83,11 +78,7 @@ fantomKeyword <- function(keywords){
 
 fantomDirect <- function(fantom_access_numbers) {
   #Check Whether Samples_DB is Loaded (in the working Directory)
-  if (file.exists("Sample_DB.txt")){
-    print ('Sample_DB Loaded!')
-  } else { stop("Sample_DB not found. Please put it in your working directory")
-    
-  }
+  .checkDB()
   
   #Clear the list
   .resetFantom()
@@ -113,11 +104,7 @@ fantomDirect <- function(fantom_access_numbers) {
 
 fantomOntology <- function(ontology_IDs){
   #Check Whether Samples_DB is Loaded (in the working Directory)
-  if (file.exists("Sample_DB.txt")){
-    print ('Sample_DB Loaded!')
-  } else { stop("Sample_DB not found. Please put it in your working directory")
-    
-  }
+  .checkDB()
   
   #Clear the list
   .resetFantom()
@@ -245,5 +232,10 @@ fantomList <- function(){
   }
   
 }
-  
-  
+
+.checkDB <- function(){
+  if (file.exists("Sample_DB.txt")){
+    print ('Sample_DB Loaded!')
+  } else { stop("Sample_DB not found. Please put it in your working directory")
+    }
+}
