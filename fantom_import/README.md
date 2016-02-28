@@ -15,6 +15,7 @@ Version: **0.7**
 
  - Dataframe Processing
  - add Phase 2 peaks to fantomDatabase
+ - Implement a function that will allow you to retrieve either the raw counts or the (FANTOM) normalized data
 
 Introduction:
 -------------
