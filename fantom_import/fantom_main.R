@@ -1,7 +1,8 @@
 # Purpose:   Access the Fantom Database and Extract the Relevant Counts/Annotation for Requested Cells
-# Version:   0.7.5
-# Date:      2016-02-28
-# Author:    Dmitry Horodetsky
+# Version:   0.7.7
+# Date:      2016-02-29
+# Author(s): Dmitry Horodetsky
+#            Dan Litovitz
 #
 # Input:     string/list
 # Output:    list of dataframes
@@ -11,10 +12,18 @@
 # Notes:     
 #
 # V 0.5:     has fantomImport, fantomSearch, fantomList
+#
 # V 0.5.1:   fantomDirect added
+#
 # V 0.7:     fantomImport is replaced by fantomKeyword. fantomOntology Added
+#
 # V 0.7.5:   FANTOM Phase 2 Support Added (now we have both phase 1 and phase 2)
-#            added a mode switch (return_counts)      
+#            added a mode switch (return_counts)  
+#
+# V 0.7.7:   added fantomSummarize(), added Dan to authors
+
+
+
 
 
 #Libraries Install and Load
@@ -145,11 +154,8 @@ fantomOntology <- function(ontology_IDs){
 
 fantomSearch <- function(x){
   #Check Whether Samples_DB is Loaded (in the working Directory)
-  if (file.exists("Sample_DB.txt")){
-    print ('Sample_DB Loaded!')
-  } else { stop("Sample_DB not found. Please put it in your working directory")
-    
-  }
+  .checkDB()
+  
   query_results <- fantom_samples[ grep(x, fantom_samples$V1) , ]
   return (query_results)
   
@@ -157,18 +163,47 @@ fantomSearch <- function(x){
 
 fantomList <- function(){
   #Check Whether Samples_DB is Loaded (in the working Directory)
-  if (file.exists("Sample_DB.txt")){
-    print ('Sample_DB Loaded!')
-  } else { stop("Sample_DB not found. Please put it in your working directory")
-  }
+  .checkDB()
   
   return(fantom_samples)
 }
 
+###############
+##BETA FUNCTION. MIGHT BREAK AT ANY TIME
+###############
+
+fantomSummarize <- function(){
+  if(length(fantomResults) < 1)
+    stop("action skipped: fantomResults cannot be empty")
+  
+  deleteEmpty()
+  fixID()
+  #Copy
+  fantomCounts <<- list()
+  
+  #Prepare the Gene IDs
+  fantomCounts[[1]] <<- fantomResults[[1]][3]
+  fantomCounts[[2]] <<- fantomResults[[1]][4]
+  
+  iterator_counter2 <- icount(length((fantomResults)))
+  
+  for (k in fantomResults){
+    current_count3 <- nextElem(iterator_counter2)
+    fantomCounts[[2+current_count3]] <<- k[6]
+    
+  }
+  fantomCounts <<- data.frame(fantomCounts)
+  message("Your results have been summarized in: fantomCounts")
+  
+}
+
+#################################
+
+
 loop_fantom_list <- function(call_func){
   if(length(fantomResults) < 1)
     stop("action skipped: fantomResults cannot be empty")
-
+  
   IDENTIFIERS = c("entrezgene_id", "hgnc_id", "uniprot_id")
   ID_KEY_VALUE_LINK = ":"
   for(loop_index in 1:length(fantomResults))
@@ -261,5 +296,5 @@ fixID <- function(){
   if (file.exists("Sample_DB.txt")){
     print ('Sample_DB Loaded!')
   } else { stop("Sample_DB not found. Please put it in your working directory")
-    }
+  }
 }
