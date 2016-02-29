@@ -178,6 +178,30 @@ fantomList <- function(){
   return(fantom_samples)
 }
 
+loop_fantom_list <- function(call_func){
+  if(length(fantomResults) < 1)
+    stop("action skipped: fantomResults cannot be empty")
+
+  IDENTIFIERS = c("entrezgene_id", "hgnc_id", "uniprot_id")
+  ID_KEY_VALUE_LINK = ":"
+  for(loop_index in 1:length(fantomResults))
+    call_func(loop_index, IDENTIFIERS, ID_KEY_VALUE_LINK)
+}
+
+deleteEmpty <- function(){
+  loop_fantom_list(function(i, IDENTIFIERS, ID_KEY_VALUE_LINK){
+    fantomResults[[i]] <<- fantomResults[[i]][apply(fantomResults[[i]][, IDENTIFIERS], 1, function(x){length(grep("[[:alnum:]]", x)) > 0}), ]
+    rownames(fantomResults[[i]]) <<- NULL
+  })
+}
+
+fixID <- function(){
+  loop_fantom_list(function(i, IDENTIFIERS, ID_KEY_VALUE_LINK){
+    replace_str = paste("(?<![[:word:]])[[:word:]]+?", ID_KEY_VALUE_LINK, sep = "")
+    fantomResults[[i]][, IDENTIFIERS] <<- apply(fantomResults[[i]][, IDENTIFIERS], 2, function(x){gsub(replace_str, x, perl = TRUE, replacement = "")})
+  })
+}
+
 
 
 
@@ -225,7 +249,7 @@ fantomList <- function(){
     {
       fantom_df <- fread(
         paste0(URL1,as.character(i),URL2),
-        sep="\t", header=TRUE, stringsAsFactors = FALSE, showProgress = FALSE)
+        sep="\t", header=TRUE, stringsAsFactors = FALSE, showProgress = FALSE, data.table = FALSE)
     }
     message((paste("Results from Fantom Access Number",i, "Loaded!")))
   }
