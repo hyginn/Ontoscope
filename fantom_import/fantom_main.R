@@ -176,12 +176,16 @@ fantomSummarize <- function(){
   if(length(fantomResults) < 1)
     stop("action skipped: fantomResults cannot be empty")
   
+  message("Filtering Relevant Results")
   deleteEmpty()
+  
+  message("Fixing IDs")
   fixID()
-  #Copy
+  
   fantomCounts <<- list()
   
-  #Prepare the Gene IDs
+  #Prepare list
+  message("Preparing the Genes")
   fantomCounts[[1]] <<- fantomResults[[1]][3]
   fantomCounts[[2]] <<- fantomResults[[1]][4]
   
@@ -190,6 +194,7 @@ fantomSummarize <- function(){
   for (k in fantomResults){
     current_count3 <- nextElem(iterator_counter2)
     fantomCounts[[2+current_count3]] <<- k[6]
+    message(paste0("Summaryzing:",colnames(k[6])))
     
   }
   fantomCounts <<- data.frame(fantomCounts)
