@@ -42,18 +42,18 @@ to check the size of your Results (and how many times you can subset it)
 Instructions:
 -------------
 
-Make sure you have transfered the "Sample_DB.txt" to your working directory, not the default fantom_import directory
+Make sure you have transfered the "Sample_DB.txt" to your working directory, not the default fantom_import directory. Make sure you have a working Internet connection
 
 Sample Workflow
 -------------
 1. Decide whether you want to return RAW or RLE NORMALIZED Counts
 2. Import your data with either fantomKeyword("keyword1, keyword2") or with fantomOntology("FF:X, FF:Y, FF:Z")
 3. Importing your data automatically generates a list of dataframes: fantomResults. It contains: Genetic annotation, Peak Number, Gene Name, entrezgene ID, HGNC ID, Uniprot ID and the counts for EVERY sample. So if you requested 5 samples, you will get a list of 5 dataframes
-4. (Optionally) Summarize your results with fantomSummarize(). This will return a SINGLE dataframe (fantomCounts) of entrez gene IDs and HGNC ID and the counts for all your samples. You can view this dataframe with:
+(Optionally) Summarize your results with fantomSummarize(). This will return a SINGLE dataframe (fantomCounts) of entrez gene IDs and HGNC ID and the counts for all your samples. You can view this dataframe with:
 ```
 view(fantomCounts)
 ```
-5. (Optionally) Export your fantomCounts with exportCounts(). This will return a "fantomCounts.csv" file with HGNC as gene ID, which you can load into other modules (deseq2)
+(Optionally) Export your fantomCounts with exportCounts(). This will return a "fantomCounts.csv" file with HGNC as gene ID, which you can load into other modules (deseq2)
 
 Selecting Your Mode:
 -------------
