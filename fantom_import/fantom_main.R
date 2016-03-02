@@ -204,6 +204,27 @@ fantomSummarize <- function(){
 
 #################################
 
+exportCounts <-function(){
+  if(length(fantomResults) < 1)
+    stop("fantomResults cannot be empty") else{
+      if (length(fantomCounts) < 1)
+        stop ("fantomCounts not present. Please use fantomSummarize() to generate") else {
+          
+          #select your ID Column
+          #gene_to_null <- 1 ; return HGNC
+          #gene_to_null <- 2; return entrez
+          #default is HGNC
+          
+          gene_to_null <- 1
+          fantomCounts[gene_to_null] <- NULL
+          
+          message("Generating fantomCounts.csv ...")
+          write.csv(fantomCounts, "fantomCounts.csv", row.names=FALSE)
+          message("fantomCounts.csv generated (in your working directory)!")
+        }
+    } 
+}
+
 
 loop_fantom_list <- function(call_func){
   if(length(fantomResults) < 1)
