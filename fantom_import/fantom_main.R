@@ -1,5 +1,5 @@
 # Purpose:   Access the Fantom Database and Extract the Relevant Counts/Annotation for Requested Cells
-# Version:   0.7.7
+# Version:   0.7.8
 # Date:      2016-02-29
 # Author(s): Dmitry Horodetsky
 #            Dan Litovitz
@@ -21,6 +21,8 @@
 #            added a mode switch (return_counts)  
 #
 # V 0.7.7:   added fantomSummarize(), added Dan to authors
+#
+# V 0.7.8:   added exportCounts()
 
 
 
