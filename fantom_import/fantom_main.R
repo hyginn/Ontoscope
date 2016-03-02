@@ -207,7 +207,7 @@ fantomSummarize <- function(){
 exportCounts <-function(export_type){
   
   if (missing (export_type)){
-    export_type <- ".Rdata"
+    export_type <- ".RData"
   }
   
   if(length(fantomResults) < 1)
