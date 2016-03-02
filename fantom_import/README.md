@@ -1,10 +1,10 @@
 ﻿## Fantom Import Module
 
-Version: **0.7.7**
+Version: **0.7.8**
 
 **Recent Changes:**
 
- - fantomSummarize() BETA added
+ - exportCounts() added
 
 **Features:**
 
@@ -16,6 +16,11 @@ Version: **0.7.7**
 **To Do:**
 
  - Dataframe Processing
+
+
+**Bugs**
+
+ - ending on a comma fantomKeyword("liver, brain,") will return the entire database
 
 Introduction:
 -------------
@@ -44,10 +49,11 @@ Sample Workflow
 1. Decide whether you want to return RAW or RLE NORMALIZED Counts
 2. Import your data with either fantomKeyword("keyword1, keyword2") or with fantomOntology("FF:X, FF:Y, FF:Z")
 3. Importing your data automatically generates a list of dataframes: fantomResults. It contains: Genetic annotation, Peak Number, Gene Name, entrezgene ID, HGNC ID, Uniprot ID and the counts for EVERY sample. So if you requested 5 samples, you will get a list of 5 dataframes
-4. Optionally Summarize your results with fantomSummarize(). This will return a SINGLE dataframe (fantomCounts) of entrez gene IDs and HGNC ID and the counts for all your samples. You can view this dataframe with:
+4. (Optionally) Summarize your results with fantomSummarize(). This will return a SINGLE dataframe (fantomCounts) of entrez gene IDs and HGNC ID and the counts for all your samples. You can view this dataframe with:
 ```
 view(fantomCounts)
 ```
+5. (Optionally) Export your fantomCounts with exportCounts(). This will return a "fantomCounts.csv" file with HGNC as gene ID, which you can load into other modules (deseq2)
 
 Selecting Your Mode:
 -------------
@@ -170,6 +176,14 @@ Takes your fantomResults and generates a single dataframe (fantomCounts). This d
 ```
 view(fantomCounts)
 ```
+
+exportCounts()
+------------
+
+```
+>exportCounts()
+```
+Generates a fantomCounts.csv file. You must have a fantomCounts file in R (you can get it by running fantomSummarize())
 
 
 
