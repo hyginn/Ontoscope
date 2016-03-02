@@ -4,7 +4,7 @@ Version: **0.7.8**
 
 **Recent Changes:**
 
- - exportCounts() added
+ - added .RData export capability (and set it as default)
 
 **Features:**
 
@@ -12,6 +12,7 @@ Version: **0.7.8**
  - Seach using fantomSearch() and fantomList()
  - Return RAW or Normalized Counts
  - Summarize results with fantomSummarize()
+ - Export your data as .RData or a .csv
 
 **To Do:**
 
@@ -26,35 +27,45 @@ Introduction:
 -------------
 The Fantom Import Module allows you to import data from Fantom5 based on Keywords, Fantom Ontology, or using your your own method via fantomDirect(). Currently it supports phase1 and phase2 results. You can also return both RAW or RLE NORMALIZED Counts
 
-Using fantomKeyword(), fantomOntology() or fantomDirect() generates a list of dataframes: fantomResults. This is subsettable. You can view each individual result:
-
-```
-View(fantomResults[1])
-```
-
-You can use:
-```
-length(fantomResults)
-```
-
-to check the size of your Results (and how many times you can subset it)
+Using fantomKeyword(), fantomOntology() or fantomDirect() generates a list of dataframes: fantomResults. This is subsettable. 
 
 Instructions:
 -------------
 
-Make sure you have transfered the "Sample_DB.txt" to your working directory, not the default fantom_import directory. Make sure you have a working Internet connection
+Make sure you have transfered the "Sample_DB.txt" to your working directory, not the default fantom_import directory. You also need to have a working Internet connection
 
-Sample Workflow
+Workflow
 -------------
 1. Decide whether you want to return RAW or RLE NORMALIZED Counts
 2. Import your data with either fantomKeyword("keyword1, keyword2") or with fantomOntology("FF:X, FF:Y, FF:Z")
-3. Importing your data automatically generates a list of dataframes: fantomResults. It contains: Genetic annotation, Peak Number, Gene Name, entrezgene ID, HGNC ID, Uniprot ID and the counts for EVERY sample. So if you requested 5 samples, you will get a list of 5 dataframes
+3. Importing your data automatically generates a list of dataframes: fantomResults. It contains: Genetic annotation, Peak Number, Gene Name, entrezgene ID, HGNC ID, Uniprot ID and the counts for EVERY sample. So if you requested 5 samples, you will get a SINGLE list of 5 dataframes
 
 (Optionally) Summarize your results with fantomSummarize(). This will return a SINGLE dataframe (fantomCounts) of entrez gene IDs and HGNC ID and the counts for all your samples. You can view this dataframe with:
 ```
 view(fantomCounts)
 ```
-(Optionally) Export your fantomCounts with exportCounts(). This will return a "fantomCounts.csv" file with HGNC as gene ID, which you can load into other modules (deseq2)
+(Optionally) Export your fantomCounts with exportCounts(). This will return a "fantomCounts.RData" file with HGNC as gene ID, which you can load into other modules (deseq2). You can also return a "fantomCounts.csv"
+
+Sample Workflow
+-------------
+Let's say you want the relevant counts for FF:10444-106F3, FF:10465-106H6, FF:10201-103F3. Here is a sample workflow:
+
+```
+fantomOntology("FF:10444-106F3, FF:10465-106H6, FF:10201-103F3")
+fantomSummarize()
+exportCounts()
+```
+This will generate a fantomCounts.RData file. You can then
+
+```
+load("fantomCounts.RData")
+```
+in your module and perform the necessary modifications
+
+
+
+
+
 
 Selecting Your Mode:
 -------------
@@ -178,14 +189,18 @@ Takes your fantomResults and generates a single dataframe (fantomCounts). This d
 view(fantomCounts)
 ```
 
-exportCounts()
+exportCounts
 ------------
 
 ```
 >exportCounts()
 ```
-Generates a fantomCounts.csv file. You must have a fantomCounts file in R (you can get it by running fantomSummarize())
+Generates a fantomCounts.RData file
 
+```
+>exportCounts(".csv")
+```
+Generates a fantomCounts.csv file
 
 
 fantomSearch
