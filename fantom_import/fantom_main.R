@@ -1,6 +1,6 @@
 # Purpose:   Access the Fantom Database and Extract the Relevant Counts/Annotation for Requested Cells
-# Version:   0.7.8
-# Date:      2016-02-29
+# Version:   0.7.9
+# Date:      2016-03-02
 # Author(s): Dmitry Horodetsky
 #            Dan Litovitz
 #
@@ -23,10 +23,8 @@
 # V 0.7.7:   added fantomSummarize(), added Dan to authors
 #
 # V 0.7.8:   added exportCounts()
-
-
-
-
+#
+# V 0.7.9:   added .RData export capability (and set it as default)
 
 #Libraries Install and Load
 if (!require(iterators, quietly=TRUE)) {
@@ -178,7 +176,7 @@ fantomSummarize <- function(){
   if(length(fantomResults) < 1)
     stop("action skipped: fantomResults cannot be empty")
   
-  message("Filtering Relevant Results")
+  message("Filtering Relevant Results. This step takes awhile ...")
   deleteEmpty()
   
   message("Fixing IDs")
@@ -206,27 +204,47 @@ fantomSummarize <- function(){
 
 #################################
 
-exportCounts <-function(){
+exportCounts <-function(export_type){
+  
+  if (missing (export_type)){
+    export_type <- ".Rdata"
+  }
+  
   if(length(fantomResults) < 1)
     stop("fantomResults cannot be empty") else{
       if (exists("fantomCounts")){
-        #select your ID Column
-        #gene_to_null <- 1 ; return HGNC
-        #gene_to_null <- 2; return entrez
-        #default is HGNC
+        
+        #select your Gene Column
+        #gene_to_null <- 1 ; return HGNC IDs
+        #gene_to_null <- 2; return entrez gene IDs
+        #default is HGNC IDs
         
         gene_to_null <- 1
         fantomCounts[gene_to_null] <- NULL
         
-        message("Generating fantomCounts.csv ...")
-        write.csv(fantomCounts, "fantomCounts.csv", row.names=FALSE)
-        message("fantomCounts.csv generated (in your working directory)!")
+        if (export_type == ".csv") {
+          message("Generating fantomCounts.csv ...")
+          write.csv(fantomCounts, "fantomCounts.csv", row.names=FALSE)
+          message("fantomCounts.csv generated (in your working directory)!")
+        } 
         
-        } else {
-          message(("fantomCounts not present. Please use fantomSummarize() to generate"))
+        if (export_type == ".RData"){
+          message("Generating fantomCounts.RData ...")
+          save(fantomCounts, file = "fantomCounts.RData", compress = TRUE)
+          message("fantomCounts.RData generated (in your working directory)!")
           }
+          
+        if (export_type != ".RData" & export_type != ".csv"){
+          message("Only two arguments are supported \".csv\" or \".RData\"")
+        }
+        
+        
+      } else {
+        message(("fantomCounts not present. Please use fantomSummarize() to generate"))
+      }
     } 
 }
+
 
 loop_fantom_list <- function(call_func){
   if(length(fantomResults) < 1)
