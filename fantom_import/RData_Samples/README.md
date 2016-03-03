@@ -21,3 +21,11 @@ fantomSummarize()
 exportCounts()
 
 ```
+fantomCounts_73.RData
+-------------
+```
+fantomKeyword("Fibroblast")
+fantomSummarize()
+exportCounts()
+
+```
