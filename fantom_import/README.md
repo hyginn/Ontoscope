@@ -1,10 +1,15 @@
 ﻿## Fantom Import Module
 
-Version: **0.7.8**
+Version: **0.8.5** 
+
+**Major Release:**
+
+**Module retrieves relevant information (normalized gene names and their counts) and exports it for other modules in a flexible .RData format. Refer to Sample Workflow for an example of module use**
+
 
 **Recent Changes:**
 
- - added .RData export capability (and set it as default)
+ - FantomSummarize() returns Normalized gene names along with the relevant counts
 
 **Features:**
 
@@ -60,11 +65,7 @@ This will generate a fantomCounts.RData file. You can then
 ```
 load("fantomCounts.RData")
 ```
-in your module and perform the necessary modifications
-
-
-
-
+in your module and perform the necessary modifications. The fantomCounts.RData file contains normalized gene names and the relevant counts for all the keywords that you have selected.
 
 
 Selecting Your Mode:
@@ -183,7 +184,7 @@ fantomSummarize
 >fantomSummarize()
 ```
 
-Takes your fantomResults and generates a single dataframe (fantomCounts). This dataframe will have entrez gene IDs and HGNC ID and the counts for all your samples. Both entrez gene and HGNC ID were chosen because some entries had one, but were missing the other. Note: You must import fantom Data (and have a fantomResults file), before you can create a summary. View the dataframe with:
+Takes your fantomResults and generates a single dataframe (fantomCounts). This dataframe will have normalized gene names and the counts for all your samples.  Note: You must import fantom Data (and have a fantomResults file), before you can create a summary. View the dataframe with:
 
 ```
 view(fantomCounts)
