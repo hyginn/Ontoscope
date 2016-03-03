@@ -1,5 +1,5 @@
 # Purpose:   Access the Fantom Database and Extract the Relevant Counts/Annotation for Requested Cells
-# Version:   0.7.9
+# Version:   0.8.5
 # Date:      2016-03-02
 # Author(s): Dmitry Horodetsky
 #            Dan Litovitz
@@ -25,6 +25,10 @@
 # V 0.7.8:   added exportCounts()
 #
 # V 0.7.9:   added .RData export capability (and set it as default)
+#
+# V 0.8.5:   MAJOR RELEASE
+#             fantomSummarize() upgraded. 
+#             Returns [FANTOM] normalized gene names
 
 #Libraries Install and Load
 if (!require(iterators, quietly=TRUE)) {
@@ -38,8 +42,13 @@ if (!require(data.table, quietly=TRUE)) {
 }
 
 if (!require(stringr, quietly=TRUE)) {
-  install.packages("stringr.")
+  install.packages("stringr")
   library(stringr)
+}
+
+if (!require(plyr, quietly=TRUE)) {
+  install.packages("plyr")
+  library(plyr)
 }
 
 
@@ -178,27 +187,45 @@ fantomSummarize <- function(){
   
   message("Filtering Relevant Results. This step takes awhile ...")
   deleteEmpty()
-  
-  message("Fixing IDs")
-  fixID()
-  
+
   fantomCounts <<- list()
   
   #Prepare list
   message("Preparing the Genes")
-  fantomCounts[[1]] <<- fantomResults[[1]][3]
-  fantomCounts[[2]] <<- fantomResults[[1]][4]
+  fantomCounts[[1]] <<- fantomResults[[1]][2]
   
   iterator_counter2 <- icount(length((fantomResults)))
   
   for (k in fantomResults){
     current_count3 <- nextElem(iterator_counter2)
-    fantomCounts[[2+current_count3]] <<- k[6]
-    message(paste0("Summaryzing:",colnames(k[6])))
+    fantomCounts[[1+current_count3]] <<- k[6]
+    message(paste0("Summarizing:",colnames(k[6])))
     
   }
+  
   fantomCounts <<- data.frame(fantomCounts)
-  message("Your results have been summarized in: fantomCounts")
+  
+  message("Preparing Normalized Gene Names")
+  
+  iterator_counter3 <- icount(length((fantomCounts[[1]])))
+  
+  for (i in fantomCounts[[1]]){
+    current_count4 <- nextElem(iterator_counter3)
+    fantomCounts[current_count4,1] <<- gsub(".+@", "",fantomCounts[current_count4,1])
+    if (current_count4 %% 1000 == 0){
+      message(paste("Normalized:",current_count4,"/",length((fantomCounts[[1]])), "Genes"))
+    }
+  }
+  
+  message ("All Genes Normalized!")
+  
+  message("Fixing Duplicates ...")
+  #Shout out to Ben Bolker @
+  #http://stackoverflow.com/a/10180178
+  
+  fantomCounts <<- ddply(fantomCounts,"short_description",numcolwise(sum))
+  
+  message("Your results have been summarized in: fantomCounts!")
   
 }
 
@@ -213,15 +240,7 @@ exportCounts <-function(export_type){
   if(length(fantomResults) < 1)
     stop("fantomResults cannot be empty") else{
       if (exists("fantomCounts")){
-        
-        #select your Gene Column
-        #gene_to_null <- 1 ; return HGNC IDs
-        #gene_to_null <- 2; return entrez gene IDs
-        #default is HGNC IDs
-        
-        gene_to_null <- 1
-        fantomCounts[gene_to_null] <- NULL
-        
+
         if (export_type == ".csv") {
           message("Generating fantomCounts.csv ...")
           write.csv(fantomCounts, "fantomCounts.csv", row.names=FALSE)
@@ -232,8 +251,8 @@ exportCounts <-function(export_type){
           message("Generating fantomCounts.RData ...")
           save(fantomCounts, file = "fantomCounts.RData", compress = TRUE)
           message("fantomCounts.RData generated (in your working directory)!")
-          }
-          
+        }
+        
         if (export_type != ".RData" & export_type != ".csv"){
           message("Only two arguments are supported \".csv\" or \".RData\"")
         }
