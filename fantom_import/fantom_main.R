@@ -1,6 +1,6 @@
 # Purpose:   Access the Fantom Database and Extract the Relevant Counts/Annotation for Requested Cells
 # Version:   0.9.0
-# Date:      2016-03-02
+# Date:      2016-03-04
 # Author(s): Dmitry Horodetsky
 #            Dan Litovitz
 #
@@ -309,6 +309,12 @@ filterTFs <- function(){
     }
   }
   message("Filtering ...")
+  
+  #Remove the Null Results
+  #Shoutout @ Wookai
+  #http://stackoverflow.com/a/6437778
+  fantomTFs <<- fantomTFs[rowSums(is.na(fantomTFs)) == 0,]
+  
   save(fantomTFs, file = "fantomTFs.RData", compress = TRUE)
   message("1. fantomTFs dataframe created!")
   message("-and-")
@@ -316,11 +322,7 @@ filterTFs <- function(){
   
   
   
-  #Remove the Null Results
-  #Shoutout @ Wookai
-  #http://stackoverflow.com/a/6437778
-  
-  fantomTFs <<- fantomTFs[rowSums(is.na(fantomTFs)) == 0,]
+
 }     
         
         
