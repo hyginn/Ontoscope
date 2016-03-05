@@ -1,15 +1,15 @@
 ﻿## Fantom Import Module
 
-Version: **0.8.5** 
+Version: **0.9.0** 
 
-**Major Release:**
 
-**Module retrieves relevant information (normalized gene names and their counts) and exports it for other modules in a flexible .RData format. Refer to Sample Workflow for an example of module use**
+
+**Refer to Sample Workflow for an example of module use**
 
 
 **Recent Changes:**
 
- - FantomSummarize() returns Normalized gene names along with the relevant counts
+ - filterTFs() added to return ONLY genes that code for transcription factors
 
 **Features:**
 
@@ -17,6 +17,7 @@ Version: **0.8.5**
  - Seach using fantomSearch() and fantomList()
  - Return RAW or Normalized Counts
  - Summarize results with fantomSummarize()
+ - return transcription factor coding genes with filterTFs()
  - Export your data as .RData or a .csv
 
 **To Do:**
@@ -45,11 +46,13 @@ Workflow
 2. Import your data with either fantomKeyword("keyword1, keyword2") or with fantomOntology("FF:X, FF:Y, FF:Z")
 3. Importing your data automatically generates a list of dataframes: fantomResults. It contains: Genetic annotation, Peak Number, Gene Name, entrezgene ID, HGNC ID, Uniprot ID and the counts for EVERY sample. So if you requested 5 samples, you will get a SINGLE list of 5 dataframes
 
-(Optionally) Summarize your results with fantomSummarize(). This will return a SINGLE dataframe (fantomCounts) of entrez gene IDs and HGNC ID and the counts for all your samples. You can view this dataframe with:
+(**Optionally**) Summarize your results with fantomSummarize(). This will return a SINGLE dataframe (fantomCounts) of normalized gene names and the counts for all your samples. You can view this dataframe with:
 ```
 view(fantomCounts)
 ```
-(Optionally) Export your fantomCounts with exportCounts(). This will return a "fantomCounts.RData" file with HGNC as gene ID, which you can load into other modules (deseq2). You can also return a "fantomCounts.csv"
+(**Optionally**) Export your fantomCounts with exportCounts(). This will return a "fantomCounts.RData" file with HGNC as gene ID, which you can load into other modules (deseq2). You can also return a "fantomCounts.csv"
+
+(**Optionally**) Filter your gene list (with the relevant sample counts) for only transcription factor coding genes with filterTFs()
 
 Sample Workflow
 -------------
@@ -189,6 +192,15 @@ Takes your fantomResults and generates a single dataframe (fantomCounts). This d
 ```
 view(fantomCounts)
 ```
+
+filterTFs
+------------
+
+```
+>filterTFs()
+```
+Use this to return **only transcription factor coding genes** from your fantomCounts file (~20,000 total genes -> ~600 transcription factor coding genes). This command will automatically create a fantomTFs dataframe **AND** save a fantomTFs.RData in your working directory. This function was created using Shivani Kamdar's Transcription Factor algorithm
+
 
 exportCounts
 ------------
