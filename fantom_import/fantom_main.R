@@ -1,5 +1,5 @@
 # Purpose:   Access the Fantom Database and Extract the Relevant Counts/Annotation for Requested Cells
-# Version:   0.8.5
+# Version:   0.9.0
 # Date:      2016-03-02
 # Author(s): Dmitry Horodetsky
 #            Dan Litovitz
@@ -29,6 +29,8 @@
 # V 0.8.5:   MAJOR RELEASE
 #             fantomSummarize() upgraded. 
 #             Returns [FANTOM] normalized gene names
+#
+# V 0.9.0    added filterTFs()
 
 #Libraries Install and Load
 if (!require(iterators, quietly=TRUE)) {
@@ -65,7 +67,7 @@ return_counts <- TRUE
 fantomResults <- list() 
 
 ####################
-#MAIN FUNCTIONS
+#FantomKeyword()
 ####################
 
 fantomKeyword <- function(keywords){
@@ -94,6 +96,10 @@ fantomKeyword <- function(keywords){
   .fantomImport((unlist((unique(final_FAN_list)))))
 }
 
+#########################
+#fantomDirect()
+#########################
+
 fantomDirect <- function(fantom_access_numbers) {
   #Check Whether Samples_DB is Loaded (in the working Directory)
   .checkDB()
@@ -119,6 +125,10 @@ fantomDirect <- function(fantom_access_numbers) {
     stop("Fantom Access Numbers must be between 7 and 1835")
   }
 }
+
+################
+#fantomOntology()
+################
 
 fantomOntology <- function(ontology_IDs){
   #Check Whether Samples_DB is Loaded (in the working Directory)
@@ -161,6 +171,10 @@ fantomOntology <- function(ontology_IDs){
   .fantomImport(unique(fantom_access_numbers))
 }
 
+###############
+#fantomSearch()
+###############
+
 fantomSearch <- function(x){
   #Check Whether Samples_DB is Loaded (in the working Directory)
   .checkDB()
@@ -170,6 +184,10 @@ fantomSearch <- function(x){
   
 }
 
+###############
+#fantomList()
+###############
+
 fantomList <- function(){
   #Check Whether Samples_DB is Loaded (in the working Directory)
   .checkDB()
@@ -177,9 +195,9 @@ fantomList <- function(){
   return(fantom_samples)
 }
 
-###############
-##BETA FUNCTION. MIGHT BREAK AT ANY TIME
-###############
+###################
+#fantomSummarize()
+###################
 
 fantomSummarize <- function(){
   if(length(fantomResults) < 1)
@@ -187,7 +205,7 @@ fantomSummarize <- function(){
   
   message("Filtering Relevant Results. This step takes awhile ...")
   deleteEmpty()
-
+  
   fantomCounts <<- list()
   
   #Prepare list
@@ -229,41 +247,87 @@ fantomSummarize <- function(){
   
 }
 
-#################################
+###########################
+#exportCounts()
+###########################
 
 exportCounts <-function(export_type){
+  
+  #Check whether fantomCounts exist
+  .checkFantomCounts()
   
   if (missing (export_type)){
     export_type <- ".RData"
   }
   
-  if(length(fantomResults) < 1)
-    stop("fantomResults cannot be empty") else{
-      if (exists("fantomCounts")){
+  if (export_type == ".csv") {
+    message("Generating fantomCounts.csv ...")
+    write.csv(fantomCounts, "fantomCounts.csv", row.names=FALSE)
+    message("fantomCounts.csv generated (in your working directory)!")
+  } 
+  
+  if (export_type == ".RData"){
+    message("Generating fantomCounts.RData ...")
+    save(fantomCounts, file = "fantomCounts.RData", compress = TRUE)
+    message("fantomCounts.RData generated (in your working directory)!")
+  }
+  
+  if (export_type != ".RData" & export_type != ".csv"){
+    message("Only two arguments are supported: \".csv\" or \".RData\"")
+  }
+  
+} 
 
-        if (export_type == ".csv") {
-          message("Generating fantomCounts.csv ...")
-          write.csv(fantomCounts, "fantomCounts.csv", row.names=FALSE)
-          message("fantomCounts.csv generated (in your working directory)!")
-        } 
-        
-        if (export_type == ".RData"){
-          message("Generating fantomCounts.RData ...")
-          save(fantomCounts, file = "fantomCounts.RData", compress = TRUE)
-          message("fantomCounts.RData generated (in your working directory)!")
-        }
-        
-        if (export_type != ".RData" & export_type != ".csv"){
-          message("Only two arguments are supported \".csv\" or \".RData\"")
-        }
-        
-        
-      } else {
-        message(("fantomCounts not present. Please use fantomSummarize() to generate"))
-      }
+##############
+#filterTFs()
+##############
+
+filterTFs <- function(){
+  #Load the Transcription Factor datbases
+  .TFdatabaseLoad()
+  
+  #Check whether fantomCounts exist
+  .checkFantomCounts()
+  
+  #convert TF database to a vector
+  TF_vector <- TF_database[,1]
+  
+  #Clone fantomCounts
+  fantomTFs <<-fantomCounts
+  
+  #yet another loop
+  iterator_counter7 <- icount(length((fantomCounts[[1]])))
+  
+  #Goal is to "blank out" Genes that don't exist in TF_database
+  for (m in fantomCounts[[1]]){
+    current_count7 <- nextElem(iterator_counter7)
+    if (m %in% TF_vector == FALSE) {
+      fantomTFs[current_count7,] <<- NA
     } 
-}
+    if (current_count7 %% 1000 == 0){
+      message(paste("Processed:",current_count7,"/",length((fantomCounts[[1]])), "Genes")) 
+    }
+  }
+  message("Filtering ...")
+  save(fantomTFs, file = "fantomTFs.RData", compress = TRUE)
+  message("1. fantomTFs dataframe created!")
+  message("-and-")
+  message("2. fantomTFs.RData saved to your working directory")
+  
+  
+  
+  #Remove the Null Results
+  #Shoutout @ Wookai
+  #http://stackoverflow.com/a/6437778
+  
+  fantomTFs <<- fantomTFs[rowSums(is.na(fantomTFs)) == 0,]
+}     
+        
+        
 
+###############
+#Processing Functions
+###############
 
 loop_fantom_list <- function(call_func){
   if(length(fantomResults) < 1)
@@ -361,5 +425,24 @@ fixID <- function(){
   if (file.exists("Sample_DB.txt")){
     print ('Sample_DB Loaded!')
   } else { stop("Sample_DB not found. Please put it in your working directory")
+  }
+}
+
+## File created thanks to Shivani Kamdar
+.TFdatabaseLoad <- function(){
+  
+  if (file.exists("TF_database.RData")){
+    load("TF_database.RData", envir = globalenv())
+    message("TF_database Loaded!")
+    
+  } else {
+    message("You are missing the \"TF_database.RData\" file. Please put it in your working directory")
+  }
+}
+
+.checkFantomCounts <- function(){
+  if (exists("fantomCounts") == FALSE){
+    message("fantomCounts does not exist. Please use fantomSummarize() to generate it") & stop()
+  } else { message("fantomCounts Loaded!")
   }
 }
