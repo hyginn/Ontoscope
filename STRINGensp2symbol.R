@@ -1,9 +1,9 @@
 # STRINGensp2symbol.R
 #
 # Purpose:   Covert ENSP IDs to HGNC symbols in a STRING file
-# Version:   1.0
+# Version:   1.1
 # Date:      2016-03-01
-# Author:    Boris Steipe
+# Author:    Boris Steipe, Fupan Yao
 #
 # Input:     STRING file, first two columns are ENSP IDs
 # Output:    STRING file, first two columns are HGNC IDs
@@ -16,11 +16,13 @@
 #            replaced with UNKSYM0000 or UNKENS0000 symbols. These 
 #            need to be seperately retrieved from HGNC in case we
 #            need them.
+#            Some problems with directory and relative paths   
 # Notes:     The STRING files can be downloaded from 
 #                http://string.embl.de/newstring_cgi/show_download_page.pl
 #            They are large! For sure choose an organism restriction.
 #
-# V 1.0:     First code 
+# V 1.0:     First code
+# V 1.1:     Shifted From Regular protein links file to detailed, kept initial values instead of replacement, throws NA instead of default code
 # ====================================================================
 
 setwd(DEVDIR)
@@ -28,7 +30,9 @@ setwd(DEVDIR)
 # ====  PARAMETERS  ==================================================
 #
 
-STRINGsource <- file.path("../data/STRING", "9606.protein.links.v10.txt")
+output <- "hgnc_symbol"
+
+STRINGsource <- file.path("./WEAVE", "9606.protein.links.detailed.v10.txt")
                 # STRING graph edges. One header line. Values separated by
                 # a single blank character. 8,548,003 lines.
                 # 
@@ -37,7 +41,7 @@ STRINGsource <- file.path("../data/STRING", "9606.protein.links.v10.txt")
                 # 9606.ENSP00000000233 9606.ENSP00000003100 215
                 # [...]
 
-STRINGnew <- file.path("../data/STRING", "9606.HGNC.links.v10.txt")
+STRINGnew <- file.path("./WEAVE", "curatedOutput.RData")
                 # output file name
                 # STRING graph edges. One header line. Values separated by
                 # a single blank character. 8,548,003 lines. HGNC
@@ -84,8 +88,10 @@ currMem()  # src has ~ 174 MB
 
 
 # ====  Remove "9606." prefix (~ 8 sec. each)
-src$protein1 <- gsub("^9606\\.", "", src$protein1)
-src$protein2 <- gsub("^9606\\.", "", src$protein2)
+src[, "cprotein1"] <- NA
+src[, "cprotein2"] <- NA
+src$cprotein1 <- gsub("^9606\\.", "", src$protein1)
+src$cprotein2 <- gsub("^9606\\.", "", src$protein2)
 head(src)
 
 
@@ -93,19 +99,20 @@ head(src)
 # The key here is that we assign the ENSP IDs as rownames so we can then
 # do fast lookup by subsetting.
 
-IDmap <- unique(c(unique(src$protein1), unique(src$protein2)))
+IDmap <- unique(c(unique(src$cprotein1), unique(src$cprotein2)))
 IDmap <- data.frame(ENSP = IDmap, HGNC = "", stringsAsFactors=FALSE)
 rownames(IDmap) <- IDmap$ENSP
 head(IDmap)
 nrow(IDmap) # 19247
 
 
-# ====  Create vector of HGNC symbols
-ensembl <- useMart("ensembl", dataset="hsapiens_gene_ensembl")
+# ====  Create vector of HGNC symbols ====
+ensembl <- useMart("ensembl")
+ensembl <- useMart("ENSEMBL_MART_ENSEMBL",dataset="hsapiens_gene_ensembl", host = "www.ensembl.org")
 
 ptm <- proc.time() # Start the stopwatch...
 BMmap <- getBM(filters = "ensembl_peptide_id",   # (  (~ 30 sec.))
-               attributes = c("ensembl_peptide_id", "hgnc_symbol"),
+               attributes = c("ensembl_peptide_id", output),
                values = IDmap$ENSP,
                mart = ensembl)
 proc.time() - ptm  # How long did we take?  35.5 sec. on my machine ...
@@ -151,24 +158,28 @@ cat(sprintf("%d ENSP IDs not recognized in BioMart\n", iUnkEns - 1))
 
 
 # ====  Replace the proteinID columns in the 8 million row data frame
-
-src$protein1 <- IDmap[src$protein1, "HGNC"]
-src$protein2 <- IDmap[src$protein2, "HGNC"]
+src[, "hgnc_1"] <- NA
+src[, "hgnc_2"] <- NA
+src$hgnc_1 <- IDmap[src$cprotein1, "HGNC"]
+src$hgnc_2 <- IDmap[src$cprotein2, "HGNC"]
 # Fast, isn't it? Subsetting FTW
 
+# ==== general cleanup 
+
+src <- src[, c(13,14,1,2,3,4,5,6,7,8,9,10,11,12)]
 
 # ====  Write to output file (~10 sec.)
 
-ptm <- proc.time() # Start the stopwatch...
-write.table(src,
-            file = STRINGnew,
-            quote = FALSE,
-            sep = " ",
-            row.names = FALSE,
-            col.names = TRUE)
-proc.time() - ptm  # How long did we take?  8.4 sec. on my machine ...
+# ptm <- proc.time() # Start the stopwatch...
+# write.table(src,
+#             file = STRINGnew,
+#             quote = FALSE,
+#             sep = " ",
+#             row.names = FALSE,
+#             col.names = TRUE)
+# proc.time() - ptm  # How long did we take?  8.4 sec. on my machine ...
 
-
+save(src, file = STRINGnew)
 
 # DONE
 
