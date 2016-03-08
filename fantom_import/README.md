@@ -1,6 +1,6 @@
 ﻿## Fantom Import Module
 
-Version: **0.9.0** 
+Version: **0.9.1** 
 
 
 
@@ -9,7 +9,7 @@ Version: **0.9.0**
 
 **Recent Changes:**
 
- - filterTFs() added to return ONLY genes that code for transcription factors
+ - Significant Speed Improvements to fantomSummarize() and filterTFs()
 
 **Features:**
 
@@ -50,7 +50,7 @@ Workflow
 ```
 view(fantomCounts)
 ```
-(**Optionally**) Export your fantomCounts with exportCounts(). This will return a "fantomCounts.RData" file with HGNC as gene ID, which you can load into other modules (deseq2). You can also return a "fantomCounts.csv"
+(**Optionally**) Export your fantomCounts with exportCounts(). This will export fantomCounts by creating a "fantomCounts.RData" file, which you can load into other modules (deseq2). You can also return a "fantomCounts.csv"
 
 (**Optionally**) Filter your gene list (with the relevant sample counts) for only transcription factor coding genes with filterTFs()
 
