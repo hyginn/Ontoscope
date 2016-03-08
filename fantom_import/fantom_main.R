@@ -1,6 +1,6 @@
 # Purpose:   Access the Fantom Database and Extract the Relevant Counts/Annotation for Requested Cells
-# Version:   0.9.0
-# Date:      2016-03-04
+# Version:   0.9.1
+# Date:      2016-03-07
 # Author(s): Dmitry Horodetsky
 #            Dan Litovitz
 #
@@ -31,6 +31,9 @@
 #             Returns [FANTOM] normalized gene names
 #
 # V 0.9.0    added filterTFs()
+#
+# V 0.9.1    significantly improved the speed of fantomSummarize() and filterTFs()
+#             (replaced for-loop with apply())
 
 #Libraries Install and Load
 if (!require(iterators, quietly=TRUE)) {
@@ -223,21 +226,16 @@ fantomSummarize <- function(){
   
   fantomCounts <<- data.frame(fantomCounts)
   
-  message("Preparing Normalized Gene Names")
+  message("Preparing Normalized Gene Names ...")
   
-  iterator_counter3 <- icount(length((fantomCounts[[1]])))
-  
-  for (i in fantomCounts[[1]]){
-    current_count4 <- nextElem(iterator_counter3)
-    fantomCounts[current_count4,1] <<- gsub(".+@", "",fantomCounts[current_count4,1])
-    if (current_count4 %% 1000 == 0){
-      message(paste("Normalized:",current_count4,"/",length((fantomCounts[[1]])), "Genes"))
-    }
-  }
+  #Shout out to RoyalTS @
+  #http://stackoverflow.com/a/22656776
+  fantomCounts[1] <<- apply(fantomCounts[1],2,function(x) gsub(".+@",'',x))
   
   message ("All Genes Normalized!")
   
   message("Fixing Duplicates ...")
+  
   #Shout out to Ben Bolker @
   #http://stackoverflow.com/a/10180178
   
@@ -295,37 +293,17 @@ filterTFs <- function(){
   #Clone fantomCounts
   fantomTFs <<-fantomCounts
   
-  #yet another loop
-  iterator_counter7 <- icount(length((fantomCounts[[1]])))
-  
-  #Goal is to "blank out" Genes that don't exist in TF_database
-  for (m in fantomCounts[[1]]){
-    current_count7 <- nextElem(iterator_counter7)
-    if (m %in% TF_vector == FALSE) {
-      fantomTFs[current_count7,] <<- NA
-    } 
-    if (current_count7 %% 1000 == 0){
-      message(paste("Processed:",current_count7,"/",length((fantomCounts[[1]])), "Genes")) 
-    }
-  }
   message("Filtering ...")
   
-  #Remove the Null Results
-  #Shoutout @ Wookai
-  #http://stackoverflow.com/a/6437778
-  fantomTFs <<- fantomTFs[rowSums(is.na(fantomTFs)) == 0,]
+  tf_found <- (fantomTFs[1][,] %in% TF_vector)
+  fantomTFs <<- fantomTFs[tf_found,]
   
   save(fantomTFs, file = "fantomTFs.RData", compress = TRUE)
   message("1. fantomTFs dataframe created!")
   message("-and-")
   message("2. fantomTFs.RData saved to your working directory")
   
-  
-  
-
 }     
-        
-        
 
 ###############
 #Processing Functions
