@@ -14,12 +14,13 @@ profile <- function(func, ...) {
   func(...)
   Rprof(NULL)
   prof_data <- summaryRprof(tmp, memory = "both")
+
   selected_data <- data.frame(transpose(list(prof_data$by.self$mem.total, prof_data$by.self$self.pct)))
   colnames(selected_data) <- gsub("^\"|\"$", "", rownames(prof_data$by.self))
   rownames(selected_data) <- c("mem_pct", "time_pct")
   mem_allocs <- sum(selected_data["mem_pct",])
   if(mem_allocs != 0)
-      selected_data["mem_pct", ] <- selected_data["mem_pct", ] * 100 / mem_allocs
+    selected_data["mem_pct", ] <- selected_data["mem_pct", ] * 100 / mem_allocs
 
   color_scheme <- c("blue", "purple")
   barplot(as.matrix(selected_data), beside = TRUE, horiz = TRUE,
