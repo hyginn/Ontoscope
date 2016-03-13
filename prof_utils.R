@@ -14,6 +14,7 @@ profile <- function(func, ...) {
   func(...)
   Rprof(NULL)
   prof_data <- summaryRprof(tmp, memory = "both")
+
   selected_data <- data.frame(transpose(list(prof_data$by.self$mem.total, prof_data$by.self$self.pct)))
   colnames(selected_data) <- gsub("^\"|\"$", "", rownames(prof_data$by.self))
   rownames(selected_data) <- c("mem_pct", "time_pct")
