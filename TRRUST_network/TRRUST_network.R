@@ -1,9 +1,14 @@
 # Purpose:   Import the TRRUST network and allow Easy Filtering and Visualization
-# Version:   0.5.0
-# Date:      2016-03-16
+# Version:   0.7.0
+# Date:      2016-03-17
 # Author(s): Dmitry Horodetsky
 # 
-# Verson     1.0 - initial commit
+# Version     0.5.0 - initial commit
+#
+#             0.7.0 - added weighing capability, added clustering capability
+#                     added randomGene() selection
+#
+#             
 
 
 
@@ -119,6 +124,23 @@ genGeneChar<-function(){
 }
 
 ####
+#Pick Random Genes
+####
+
+#x is your trrust dataframe
+#type = either 1 (TF genes) or 2 (non TF Genes)
+#number is how many random Genes you'd like to select
+
+randomGenes <-function(x,type,number){
+  if (type != as.numeric(1) & type != as.numeric(2)){
+    message("the type must either be '1' (TF Coding genes) or '2' (non-TF Coding genes)")
+  } else {
+    
+  }
+    return(as.character(sample(x[,type],number)))
+}
+
+####
 #Filter Genes using a generated "character" file
 ####
 
@@ -139,6 +161,11 @@ filterGenes <- function(x,type,gene_char){
 #*NODE AND EDGE FUNCTIONS*#
 ###########################
 
+#HUGE shoutout to Nicole White from rneo4j.com
+#Some of the clustering and weighing were based on her ideas
+
+
+
 ###
 #Get Edges
 ###
@@ -148,9 +175,6 @@ filterGenes <- function(x,type,gene_char){
 getEdges <-function(x){
   igraph_object <- graph.data.frame(x)
   edges <- data.frame(get.edgelist(igraph_object))
-  
-  #Add a weight Column and Set it to 1
-  edges$weight <- 1
   
   #Fix the Column Names
   colnames(edges)[1] <- "from"
@@ -172,7 +196,7 @@ getEdges <-function(x){
 getNodes <- function(x){
   nodelist_1 <- as.character(unique(x[,1]))
   nodelist_2 <- as.character(unique(x[,2]))
-  nodelist_final <- c(nodelist_1,nodelist_2)
+  nodelist_final <- unique(c(nodelist_1,nodelist_2))
   
   length <- length(nodelist_final)
   
@@ -185,7 +209,30 @@ getNodes <- function(x){
   return (nodes)
 }
 
+####
+#Use 'Centrality' to generate weights
+####
 
+#Note: You use the "edges" data.frame to generate centrality values
+#BUT you assign these values to the "nodes" data.frame
+
+getWeights <- function(nodes,edges){
+  igraph_edges <-graph_from_data_frame(edges)
+  nodes$value = betweenness(igraph_edges, directed = FALSE)
+  return (nodes)
+  
+}
+
+####
+#Use Centrality to Cluster by Colour
+####
+
+getClusters <- function(nodes,edges){
+  igraph_edges = graph_from_data_frame(edges, directed=FALSE)
+  clusters = cluster_edge_betweenness(igraph_edges)
+  nodes$group = clusters$membership
+  return(nodes)
+}
 
 #####################################
 #Visualization via visNetwork
