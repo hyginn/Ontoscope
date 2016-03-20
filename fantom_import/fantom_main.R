@@ -333,9 +333,6 @@ fixID <- function(){
 
 #Most other functions just prepare the input for this function
 
-.antomImport <- function(fantom_access_numbers) {
-}
-
 .fantomImport <- function(raw_fantom_query, get_fantom_access_numbers) {
   #Check Whether Samples_DB is Loaded (in the working Directory)
   .checkDB()
@@ -411,7 +408,7 @@ fixID <- function(){
 
 .flatten_split_str_vec <- function(vector_in){
   vector_out <- paste(vector_in, collapse = ",")
-  vector_out <- strsplit(vector_out, "\\s*,\\s*", perl = TRUE)[[1]]
+  vector_out <- strsplit(vector_out, ",")[[1]]
   vector_out <- unique(toupper(str_trim(vector_out)))
   return(vector_out[vector_out != ""])
 }
