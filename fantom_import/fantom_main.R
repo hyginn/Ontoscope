@@ -74,29 +74,19 @@ fantomResults <- list()
 ####################
 
 fantomKeyword <- function(keywords){
-  #Check Whether Samples_DB is Loaded (in the working Directory)
-  .checkDB()
-  
-  #Check Mode (counts or normalized)
-  .modeSelect()
-  
-  #Clear the list
-  .resetFantom()
-  
-  #Prepare the Input for the Main Function
-  
-  #This is to fix inconsistant comma spacing
-  keyword_list1 <- gsub(" ", "", keywords, fixed = TRUE)
-  keyword_list2 <- c(str_split(keyword_list1, pattern = ','))
-  
-  final_FAN_list <- list()
-  
-  for (i in keyword_list2[[1]]){
-    query_results <- fantom_samples[ grep(i, fantom_samples$V1) , ]
-    processed_results <- c(query_results[,3])
-    final_FAN_list <- c(processed_results, final_FAN_list)
-  }
-  .fantomImport((unlist((unique(final_FAN_list)))))
+  .fantomImport(keywords, function(fantom_query){ #Prepare the Input for the Main Function
+
+    final_FAN_list <- list()
+
+    for (i in fantom_query){
+      query_results <- fantom_samples[ grep(i, fantom_samples$V1, ignore.case = TRUE) , ]
+      processed_results <- c(query_results[,3])
+      final_FAN_list <- c(processed_results, final_FAN_list)
+    }
+
+    return(unlist(final_FAN_list))
+
+  })
 }
 
 #########################
@@ -104,29 +94,17 @@ fantomKeyword <- function(keywords){
 #########################
 
 fantomDirect <- function(fantom_access_numbers) {
-  #Check Whether Samples_DB is Loaded (in the working Directory)
-  .checkDB()
+  .fantomImport(fantom_access_numbers, function(fantom_query){ #Prepare the Input for the Main Function
+
+    user_query <- strtoi(fantom_query)
   
-  #Clear the list
-  .resetFantom()
-  
-  #Check Mode (counts or normalized)
-  .modeSelect()
-  
-  #Prepare the input for the Main Function
-  user_query <- .character_to_numbers(fantom_access_numbers)
-  
-  #Boundary Check
-  if (max(user_query) <= 1835 & min(user_query) >=7) {
-    
-    #Pass to Main Function
-    fantom_access_numbers <- c(user_query)
-    .fantomImport(unique(fantom_access_numbers))
-  }
-  
-  else{
-    stop("Fantom Access Numbers must be between 7 and 1835")
-  }
+    #Boundary Check
+    if (max(user_query) <= 1835 & min(user_query) >=7)
+      return(user_query)
+    else
+      stop("Fantom Access Numbers must be between 7 and 1835")
+
+  })
 }
 
 ################
@@ -134,44 +112,34 @@ fantomDirect <- function(fantom_access_numbers) {
 ################
 
 fantomOntology <- function(ontology_IDs){
-  #Check Whether Samples_DB is Loaded (in the working Directory)
-  .checkDB()
-  
-  #Clear the list
-  .resetFantom()
-  
-  #Check Mode (counts or normalized)
-  .modeSelect()
-  
-  #Processing for fantomImport
-  ontology_list1 <- gsub(" ", "", ontology_IDs, fixed = TRUE)
-  ontology_list2 <- c(str_split(ontology_list1, pattern = ','))
-  
-  list_of_IDs <- list()
-  for (i in ontology_list2[[1]])
-  {
-    if (substr(i,start = 1, stop = 3) == "FF:"){
-      query_results <- fantom_samples[ grep(i, fantom_samples$FANTOM.5.Ontology.ID) , ]
-      if (length(row.names(query_results)) == 0){
-        list_of_IDs[i] <- NULL
+  .fantomImport(ontology_IDs, function(fantom_query){ #Prepare the Input for the Main Function  
+
+    list_of_IDs <- list()
+    for (i in fantom_query)
+    {
+      if (substr(i,start = 1, stop = 3) == "FF:"){
+        query_results <- fantom_samples[ grep(i, fantom_samples$FANTOM.5.Ontology.ID, ignore.case = TRUE) , ]
+        if (length(row.names(query_results)) == 0){
+          list_of_IDs[i] <- NULL
+        } else {
+          list_of_IDs[i] <- c(query_results[,3])
+        }
       } else {
-        list_of_IDs[i] <- c(query_results[,3])
+        stop("Ontology IDs must be in a FF:XXXXX format")
       }
-    } else {
-      stop("Ontology IDs must be in a FF:XXXXX format")
     }
-  }
-  
-  fantom_access_numbers <- as.numeric(list_of_IDs)
-  
-  match_num <- length(fantom_access_numbers)
-  match_denom <- length(ontology_list2[[1]])
-  
-  #Matching Message
-  message(paste("MATCHED:",match_num,"of",match_denom))
-  
-  #Load the Main Function
-  .fantomImport(unique(fantom_access_numbers))
+
+    fantom_access_numbers <- as.numeric(list_of_IDs)
+
+    match_num <- length(fantom_access_numbers)
+    match_denom <- length(fantom_query)
+
+    #Matching Message
+    message(paste("MATCHED:",match_num,"of",match_denom))
+
+    #Load the Main Function
+    return(fantom_access_numbers)
+  })
 }
 
 ###############
@@ -182,7 +150,7 @@ fantomSearch <- function(x){
   #Check Whether Samples_DB is Loaded (in the working Directory)
   .checkDB()
   
-  query_results <- fantom_samples[ grep(x, fantom_samples$V1) , ]
+  query_results <- fantom_samples[ grep(x, fantom_samples$V1, ignore.case = TRUE) , ]
   return (query_results)
   
 }
@@ -365,7 +333,21 @@ fixID <- function(){
 
 #Most other functions just prepare the input for this function
 
-.fantomImport <- function(fantom_access_numbers) {
+.antomImport <- function(fantom_access_numbers) {
+}
+
+.fantomImport <- function(raw_fantom_query, get_fantom_access_numbers) {
+  #Check Whether Samples_DB is Loaded (in the working Directory)
+  .checkDB()
+
+  #Clear the list
+  .resetFantom()
+
+  #Check Mode (counts or normalized)
+  .modeSelect()
+
+  fantom_access_numbers <- get_fantom_access_numbers(.flatten_split_str_vec(raw_fantom_query))
+
   length_of_FANs <- length(fantom_access_numbers)
   iterator_counter <- icount(length_of_FANs)
   
@@ -425,4 +407,11 @@ fixID <- function(){
     message("fantomCounts does not exist. Please use fantomSummarize() to generate it") & stop()
   } else { message("fantomCounts Loaded!")
   }
+}
+
+.flatten_split_str_vec <- function(vector_in){
+  vector_out <- paste(vector_in, collapse = ",")
+  vector_out <- strsplit(vector_out, "\\s*,\\s*", perl = TRUE)[[1]]
+  vector_out <- unique(toupper(str_trim(vector_out)))
+  return(vector_out[vector_out != ""])
 }
