@@ -108,6 +108,11 @@ for (id in head(term_ids)) {
     i <- i+1 
 }
 
+
+# ========================================
+# using igraph methods instead to remove edges/vertices
+# =======================================
+
 # OBOCollection comes with the slots .stanza, .subset, and .kv
 # and methods `as` to convert b/w graphNEL and OBOCollection
 # see: http://svitsrv25.epfl.ch/R-doc/library/GSEABase/html/OBOCollection-class.html
@@ -115,6 +120,38 @@ gNEL <- as(fantom, "graphNEL")
 
 # lets take the graphNEl and bring it into igraph
 G <- igraph.from.graphNEL(gNEL, name=TRUE, weight=TRUE, unlist.attrs=TRUE)
+edges <- as.data.frame(get.edgelist(G))
+
+# length(V(G)) # 6170 
+# length(edges$V1) # 12292
+
+# edge weights
+# E(G)$weight
+# sum(E(G)$weight)
+
+clean_graph <- function (g) {
+    # Delete edges with weight=0
+    g <- delete.edges(g, which(E(G)$weight == 0))
+    # Remove vertices with degree=0
+    g <- delete.vertices(g, which(igraph::degree(g) == 0))
+
+    return(g)
+}
+
+filter_graph <- function (g, regex, inv=TRUE) {
+    edges <- as.data.frame(get.edgelist(g))
+
+    g <- delete.edges(g, grep(regex, edges$V1, invert=inv))
+    g <- clean_graph(g)
+}
+
+
+# gg <- G
+# gg <- delete.edges(gg, grep("^CHEBI:", edges$V1, invert=TRUE) )
+# gg <- clean_graph(gg)
+
+gf <- filter_graph(G, "^FF:[A-Za-z0-9]+-[A-Za-z0-9]")
+make_plotly(gf)
 
 # === Static Plotting ===
 
@@ -136,44 +173,46 @@ plot(G, vertex.size=0.01, vertex.label=NA, edge.arrow.width=0)
 # === Interactive plotly ===
 # see: https://plot.ly/r/network-graphs/
 
-# L <- layout.circle(G)
-L <- layout_as_tree(G)
+make_plotly <- function(G) {
+    # L <- layout.circle(G)
+    L <- layout_as_tree(G)
 
-# vertices and edges
-vs <- V(G)
-es <- as.data.frame(get.edgelist(G))
+    # vertices and edges
+    vs <- V(G)
+    es <- as.data.frame(get.edgelist(G))
 
-Nv <- length(vs)
-Ne <- length(es[1]$V1)
+    Nv <- length(vs)
+    Ne <- length(es[1]$V1)
 
-Xn <- L[,1]
-Yn <- L[,2]
+    Xn <- L[,1]
+    Yn <- L[,2]
 
-network <- plot_ly(type="scatter", x=Xn, y=Yn, mode="markers", text=vs$label, hoverinfo="text")
+    network <- plot_ly(type="scatter", x=Xn, y=Yn, mode="markers", text=vs$name, hoverinfo="text")
 
-edge_shapes <- list()
-for(i in 1:Ne) {
-  v0 <- es[i,]$V1
-  v1 <- es[i,]$V2
+    edge_shapes <- list()
+    for(i in 1:Ne) {
+      v0 <- es[i,]$V1
+      v1 <- es[i,]$V2
 
-  edge_shape = list(
-    type = "line",
-    line = list(color = "#030303", width = 0.3),
-    x0 = Xn[v0],
-    y0 = Yn[v0],
-    x1 = Xn[v1],
-    y1 = Yn[v1]
-  )
+      edge_shape = list(
+        type = "line",
+        line = list(color = "#030303", width = 0.3),
+        x0 = Xn[v0],
+        y0 = Yn[v0],
+        x1 = Xn[v1],
+        y1 = Yn[v1]
+      )
 
-  edge_shapes[[i]] <- edge_shape
+      edge_shapes[[i]] <- edge_shape
+    }
+
+    network <- layout(
+      network,
+      title = 'FANTOM Network',
+      shapes = edge_shapes,
+      xaxis = list(title = "", showgrid = FALSE, showticklabels = FALSE, zeroline = FALSE),
+      yaxis = list(title = "", showgrid = FALSE, showticklabels = FALSE, zeroline = FALSE)
+    )
+
+    return(network)
 }
-
-network <- layout(
-  network,
-  title = 'FANTOM Network',
-  shapes = edge_shapes,
-  xaxis = list(title = "", showgrid = FALSE, showticklabels = FALSE, zeroline = FALSE),
-  yaxis = list(title = "", showgrid = FALSE, showticklabels = FALSE, zeroline = FALSE)
-)
-
-network
