@@ -6,18 +6,22 @@
 # Author:    Zhen Hao (Howard) Wu
 #
 # Input:     TFNorm: ["Gene.Symbol", "Protein Ensemble ID", "Gene Ensemble ID"]
-#            GeneNorm: TBD
-#            String Database: From 9606.protein.links.detailed.v10.txt
+#            GeneNorm: Integrated into outputCrated.RData
+#            String Database: From outputCurated.RData, originating from 9606.protein.links.detailed.v10.txt
 #            Other Database: TBD
 #
-# Output:    igraph object using STRING and Undetermined Database AND neighborhood around given TF
+# Output:    igraph object using STRING and Undetermined Database AND neighborhood around given TF if needed
 #
 # Depends:
 #
-# ToDo:      Need Protein Name to Ensemble Protein ID table -- Kinda solved by biomaRt
-# Notes:
+# ToDo:      Need Protein Name to Ensemble Protein ID table -- Solved by STRINGensp2symbol.R
+#            Need to integrate TFNorm if needed.
+#            
+# Notes:     Please run STRINGensp2symbol.R to preprocess data FIRST before running this module
 #
 # V 0.1:     Extracted data from STRING database and put into igraph object. Attempted table manipulation but too slow.
+# V 0.2:     Nodes now named by HGNC symbol. Also implemented Subgraph function to get a subgraph centered around TF of interest.
+#            Code significantly simplified due to preprocessing by STRINGensp2symbol.R
 # ====================================================================
 
 setwd(paste(DEVDIR, "/WEAVE", sep="")) # Modify to your working directory
@@ -25,7 +29,8 @@ setwd(paste(DEVDIR, "/WEAVE", sep="")) # Modify to your working directory
 # ====  PARAMETERS  ==================================================
 # Don't put "magic numbers" and files in your code. Place them here,
 # assign them to a well-named variable and explain the meaning!
-#
+
+
 
 
 
@@ -68,39 +73,9 @@ if (!require(biomaRt)) {
 #
 
 
-
-# Following code too slow on entire dataset
-# SplitP1 <- strsplit(as.character(STRINGDB[,1]), ".", fixed=TRUE)
-# SplitP2 <- strsplit(as.character(STRINGDB[,2]), ".", fixed=TRUE)
-# 
-# for(i in 1:nrow(STRINGDB) ) {
-#   STRINGDB[i,1] <- SplitP1[[i]][2]
-#   STRINGDB[i,2] <- SplitP2[[i]][2]
-# }
-
 getTFSubgraph <- function(TF, order=1, GRAPH=STRGRAPH) {
-  # Gets all ENSP Ensemble codes for given TF in HGNC symbol.
-  ensembl <- useMart("ensembl", dataset="hsapiens_gene_ensembl")
   
-  TFENSP <- getBM(filters = "hgnc_symbol",
-                  attributes = c("hgnc_symbol", "ensembl_peptide_id"),
-                  values = TF,
-                  mart = ensembl)
-  
-  # Appends "9606." to start of ensembl id to match vertex name in GRAPH.
-  for(i in 1:nrow(TFENSP)) {
-    TFENSP[i,2] <- paste("9606.", TFENSP[i,2], sep="")
-  }
-  
-  # Gets all ensembl ids used by GRAPH
-  VInGraph <- TFENSP[TFENSP[,2] %in% V(STRGRAPH)$name,2]
-  
-  # Returns neighborhood of TF using GRAPH.
-  for (i in 1:length(VInGraph)) {
-    Subgraph<-neighborhood(GRAPH, order, nodes=i)
-  }
-  
-  return(Subgraph)
+  return(make_ego_graph(GRAPH, order, TF))
 }
 
 
@@ -118,13 +93,13 @@ getTFSubgraph <- function(TF, order=1, GRAPH=STRGRAPH) {
 # Result <- unique(RefList[RefList$Gene.Symbol %in% TFList,c(1,3,4)])
 
 # source("./TFNORM/NormalizeTF.R") # Can't source directly if in different folders...
-STRINGDB <- read.delim("9606.protein.links.detailed.v10.txt", header=TRUE, sep = " ")
-STRINGDB$protein1 <- as.character(STRINGDB[,1]) # Values initially int; changed to string to find subgraph nodes
-STRINGDB$protein2 <- as.character(STRINGDB[,2])
 
-STRGRAPH <- graph_from_data_frame(STRINGDB, directed = FALSE)
+load("curatedOutput.Rdata")
 
-getTFSubgraph("MYC")
+
+STRGRAPH <- graph_from_data_frame(src, directed = FALSE)
+
+SubgraphList<-getTFSubgraph("MYC")
 
 
 
