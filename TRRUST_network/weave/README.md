@@ -1,7 +1,10 @@
-## .RData for Weave
+## .RData for WEAVE/RANK
 
 IMPORTANT!
 -------------
+
+**NOTE 1:**
+
 I **do not** recommend using centrality scores of the GLOBAL Network. Instead the RANK/WEAVE module should use centrality score for a **LOCAL** network. This means:
 
 1) Have a set of "important" genes (eg transcription factor coding genes)
@@ -13,6 +16,8 @@ I **do not** recommend using centrality scores of the GLOBAL Network. Instead th
 
 If you go through the workflow you should be able to do this (and automate it), but contact me and I will write up a workflow/function to help you out
 
+**NOTE 2:**
+If we decide to use centrality scores as weights, then think of the TRRUST network as a **BOOST** network. Most TFs will have a centrality/betweeness score of zero. Using the network as a BOOST, means that a zero betweeness score WILL NOT affect the "total" score (that is score that is calculated from other networks [ie string]/sources). A zero centrality score will be neutral. However a positive centrality score will be a boost to the "total" score. Its up to you to quantify how big this boost will be (1%? 5%? 10%?)
 
 
 Each .RData file contains the nodes, edges and the original dataframe. The nodes have betweeness centrality applied to them
