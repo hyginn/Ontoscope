@@ -145,6 +145,32 @@ filter_graph <- function (g, regex, inv=TRUE) {
     g <- clean_graph(g)
 }
 
+# head(fantom@.kv[fantom@.kv$key=="is_a"], n=50L)
+get_cols <- function(df, colName) {
+    return(df[df$key==colName,])
+}
+
+# gettings is_as for an ID
+# is_as <- get <- cols(ff, "is_a")
+# is_as[which(is_as$stanza_id == "CHEBI:23367"),]
+# is_as[which(is_as$stanza_id == "CHEBI:23367"),]$value #on everything, this can give out degree for each node
+
+
+keyTypes <- unique(ff$key)
+
+
+# TODO
+# Summarize an arbitrary ID. 
+# - out/in edges
+# - number of other nodes with same ID:
+# - ID types of parents
+#summarizeID <- function() {}
+
+# TODO
+# Summarize an arbitrary key.
+# - how many others exist (rel. to total?)
+# - what types of IDs they exist in
+#summarizeKey <- function() {}
 
 # gg <- G
 # gg <- delete.edges(gg, grep("^CHEBI:", edges$V1, invert=TRUE) )
