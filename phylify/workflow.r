@@ -29,3 +29,12 @@ G <- makeAdjMatrix(fantom)
 
 # Get the is_a's of a term
 getTermParents(G, "CHEBI:24532")
+
+
+# Get FFIDs by category
+humanSamples <- getHumanSamples()
+# Different categories
+# tissues, cell lines, primary cells, time courses, fractionations and pertubations
+# levels(humanSamples$Category)
+# Now we can get IDs by their categorie(s):
+bad <- getHumanFFByCategory(humanSamples, c("time courses", "fractionations and perturbations"))

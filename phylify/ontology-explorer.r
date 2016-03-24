@@ -1,7 +1,7 @@
 # ontology-explorer.r
 #
 # Purpose: Tools to aid heuristic subsetting of an OBO ontology
-# Version: v0.1.0
+# Version: v0.2.0
 # Date: Mar 23 2016
 # Author: Julian Mazzitelli <mazzitelli.julian@gmail.com>
 #
@@ -18,6 +18,8 @@
 # Changelog:
 # v0.1.0
 #   - initial draft
+# v0.2.0:
+#   - add human samples, to filter out by category
 
 # === Packages ===
 # Gene set enrichment data structures and methods
@@ -167,4 +169,22 @@ makeAdjMatrix <- function (obo) {
 
 getTermParents <- function (G, termID) {
   return(G[termID, G[termID,]==1])
+}
+
+# === Human Samples ===
+
+getHumanSamples <- function () {
+  # Use HumanSamples CSV to help subset
+  humanSamples <- read.csv("HumanSamples2.0.sdrf.csv")
+
+  # Yes, they spelt characteristics wrong. two ways wrong.
+  colnames(humanSamples) <- gsub(".$", "", gsub("Cha?rac?teristics..", "", colnames(humanSamples)))
+
+  return(humanSamples)
+}
+
+getHumanFFByCategory <- function (humanSamples, category) {
+  ffIDs <- humanSamples$ff_ontology[(humanSamples$Category %in% category)]
+
+  return(ffIDs)
 }
