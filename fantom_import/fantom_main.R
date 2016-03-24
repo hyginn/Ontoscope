@@ -1,6 +1,6 @@
 # Purpose:   Access the Fantom Database and Extract the Relevant Counts/Annotation for Requested Cells
-# Version:   0.9.1
-# Date:      2016-03-07
+# Version:   0.9.5
+# Date:      2016-03-24
 # Author(s): Dmitry Horodetsky
 #            Dan Litovitz
 #
@@ -34,6 +34,11 @@
 #
 # V 0.9.1    significantly improved the speed of fantomSummarize() and filterTFs()
 #             (replaced for-loop with apply())
+#
+# V 0.9.5    improved code readability/refactoring, can now pass lists/vectors into the module,
+#            fantomSummarize() now takes threshold values
+#
+#
 
 #Libraries Install and Load
 if (!require(iterators, quietly=TRUE)) {
@@ -75,17 +80,17 @@ fantomResults <- list()
 
 fantomKeyword <- function(keywords){
   .fantomImport(keywords, function(fantom_query){ #Prepare the Input for the Main Function
-
+    
     final_FAN_list <- list()
-
+    
     for (i in fantom_query){
       query_results <- fantom_samples[ grep(i, fantom_samples$V1, ignore.case = TRUE) , ]
       processed_results <- c(query_results[,3])
       final_FAN_list <- c(processed_results, final_FAN_list)
     }
-
+    
     return(unlist(final_FAN_list))
-
+    
   })
 }
 
@@ -95,15 +100,15 @@ fantomKeyword <- function(keywords){
 
 fantomDirect <- function(fantom_access_numbers) {
   .fantomImport(fantom_access_numbers, function(fantom_query){ #Prepare the Input for the Main Function
-
+    
     user_query <- strtoi(fantom_query)
-  
+    
     #Boundary Check
     if (max(user_query) <= 1835 & min(user_query) >=7)
       return(user_query)
     else
       stop("Fantom Access Numbers must be between 7 and 1835")
-
+    
   })
 }
 
@@ -113,7 +118,7 @@ fantomDirect <- function(fantom_access_numbers) {
 
 fantomOntology <- function(ontology_IDs){
   .fantomImport(ontology_IDs, function(fantom_query){ #Prepare the Input for the Main Function  
-
+    
     list_of_IDs <- list()
     for (i in fantom_query)
     {
@@ -128,15 +133,15 @@ fantomOntology <- function(ontology_IDs){
         stop("Ontology IDs must be in a FF:XXXXX format")
       }
     }
-
+    
     fantom_access_numbers <- as.numeric(list_of_IDs)
-
+    
     match_num <- length(fantom_access_numbers)
     match_denom <- length(fantom_query)
-
+    
     #Matching Message
     message(paste("MATCHED:",match_num,"of",match_denom))
-
+    
     #Load the Main Function
     return(fantom_access_numbers)
   })
@@ -170,9 +175,13 @@ fantomList <- function(){
 #fantomSummarize()
 ###################
 
-fantomSummarize <- function(){
+fantomSummarize <- function(threshold){
   if(length(fantomResults) < 1)
     stop("action skipped: fantomResults cannot be empty")
+  
+  if (missing(threshold)){
+    threshold <- NA
+  }
   
   message("Filtering Relevant Results. This step takes awhile ...")
   deleteEmpty()
@@ -208,6 +217,12 @@ fantomSummarize <- function(){
   #http://stackoverflow.com/a/10180178
   
   fantomCounts <<- ddply(fantomCounts,"short_description",numcolwise(sum))
+  
+  message("Applying Threshold ...")
+  
+  #Shout out to deseq2 manual and 
+  #akrun @ http://stackoverflow.com/a/30967066
+  fantomCounts <<- fantomCounts[!rowSums(fantomCounts <= (threshold-1), 2:ncol(fantomCounts)),]
   
   message("Your results have been summarized in: fantomCounts!")
   
@@ -336,15 +351,15 @@ fixID <- function(){
 .fantomImport <- function(raw_fantom_query, get_fantom_access_numbers) {
   #Check Whether Samples_DB is Loaded (in the working Directory)
   .checkDB()
-
+  
   #Clear the list
   .resetFantom()
-
+  
   #Check Mode (counts or normalized)
   .modeSelect()
-
+  
   fantom_access_numbers <- get_fantom_access_numbers(.flatten_split_str_vec(raw_fantom_query))
-
+  
   length_of_FANs <- length(fantom_access_numbers)
   iterator_counter <- icount(length_of_FANs)
   

@@ -12,6 +12,14 @@ load("fantomCounts.RData")
 
 If you did a particularly taxing computation, consider uploading your fantomCounts.RData here
 
+fantomCounts_filtered.RData
+-------------
+```
+fantomKeyword("brain")
+fantomSummarize(2)
+exportCounts()
+
+```
 
 fantomCounts_11.RData
 -------------
