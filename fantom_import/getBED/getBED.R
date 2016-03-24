@@ -13,14 +13,14 @@
 
 #Check whether the BED_DB file is present
 
-.checkDB <- function(){
+.check_BED_DB <- function(){
   if (file.exists("BED_DB.RData")){
     load("BED_DB.RData",envir = globalenv())
     message ('BED_DB Loaded!')
   } else { stop("BED_DB not found. Please put it in your working directory")
   }
 }
-.checkDB()
+.check_BED_DB()
 
 #Main Function
 getBED <- function(IDs){
