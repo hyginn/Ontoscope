@@ -10,7 +10,7 @@ Version: **0.9.5**
 **Recent Changes:**
 
  - Code Refactored. Module is now more friendly with other modules (can accept lists as input)
- - fantomSummarize now takes a threshold value as an argument. Default is no threshold
+ - fantomSummarize() can now take a threshold value as an argument. Default is no threshold
 
 **Features:**
 
@@ -28,7 +28,7 @@ Version: **0.9.5**
 
 **Bugs**
 
- - ending on a comma fantomKeyword("liver, brain,") will return the entire database
+ - Submit Bugs via the Issues Tab
 
 Introduction:
 -------------
