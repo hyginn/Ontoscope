@@ -13,23 +13,28 @@
 # Notes:     Tested on window OS7x64bits and R version 3.1.3
 #
 # V 0.1:     Calculating Gsx score
+#
+# v 0.2:     Updated with bugs fixed- library load cmd fixed
+# Date-rel:  24-March-2016
 
 #-----------LOAD FILE---------------------------------------
 
 #Reference code
 #colData <- read.csv("coldata.csv", row.names=1, header=T)
+#
+#Load "sample1_contrast.RData"
 
 #-----------contrast function-----------------
 
-contrast_v1 <- function(countData){
+contrast_v2 <- function(countData){
   
   if("DESeq2" %in% rownames(installed.packages()) == FALSE) #loading DESeq2 package 
   {
     source("http://bioconductor.org/biocLite.R")
     biocLite("DESeq2")
-    library("DESeq2")
+   
   }
-
+  library("DESeq2")
 #Creating the column discription file
 #Column 1 is the sample target and rest all columns are background cell lines 
 
