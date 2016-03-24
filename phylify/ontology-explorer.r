@@ -112,23 +112,6 @@ getTermsMatched <- function (obo, regex, invert=FALSE) {
   return(matched)
 }
 
-makeAdjMatrix <- function (obo) {
-  termIDs <- getTermIDs(obo)
-  N <- length(termIDs)
-
-  G <- matrix(numeric(N*N), ncol=N)
-  rownames(G) <- termIDs
-  colnames(G) <- termIDs
-
-  # for (i in 1:N-1) {
-  #   for (j in (i+1):N) {
-  #     print(G[i, j])
-  #   }
-  # }
-
-  return(G)
-}
-
 # summarizeOBO(<OBOCollection>) -> named list
 # @param <OBOCollection> obo
 # @returns named list
@@ -156,4 +139,32 @@ summarizeOBO <- function (obo, head=FALSE, n=20L) {
   )
 
   return(summary)
+}
+
+makeAdjMatrix <- function (obo) {
+  termIDs <- getTermIDs(obo)
+  keyVals <- getOBOKeyVals(obo)
+  N <- length(termIDs)
+
+  G <- matrix(numeric(N*N), ncol=N)
+  rownames(G) <- termIDs
+  colnames(G) <- termIDs
+
+  for (term in as.list(termIDs)) {
+    # key:vals for current term
+    termKV <- keyVals[keyVals$stanza == term,]
+
+    # get is_a values for this term
+    is_a <- termKV$value[termKV$key == IS_A]
+
+    for (parent in as.list(is_a)) {
+      G[term, parent] = 1
+    }
+  }
+
+  return(G)
+}
+
+getTermParents <- function (G, termID) {
+  return(G[termID, G[termID,]==1])
 }

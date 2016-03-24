@@ -24,4 +24,8 @@ fantomSummary <- summarizeOBO(fantom)
 getTermsMatched(fantom, "^EFO")
 head(getTermsMatched(fantom, "^FF", invert=TRUE))
 
-G <- makeAdjMatrix(fantom) 
+# Make an adjacency matrix
+G <- makeAdjMatrix(fantom)
+
+# Get the is_a's of a term
+getTermParents(G, "CHEBI:24532")
