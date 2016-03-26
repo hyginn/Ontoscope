@@ -1,5 +1,5 @@
 # Purpose:   Access the Fantom Database and etrieve the Relevant .bed files
-# Version:   1.0.1
+# Version:   1.0.0
 # Date:      2016-03-21
 # Author(s): Dmitry Horodetsky
 #  
@@ -8,8 +8,9 @@
 # Output:    .bed files downloaded
 #
 #
-# V 1.0.0     Initial Commit
-
+# V 1.0.0    Initial Commit
+#
+# V 1.2.0    Fixed the 1 fantomID, 2 matches bug, new naming convention 
 
 #Check whether the BED_DB file is present
 
@@ -27,10 +28,13 @@ getBED <- function(IDs){
   for (i in IDs){
     if (substr(i,start = 1, stop = 3) == "FF:"){
       fixed_ID <- gsub("FF:","",i)
-      dl_index <- grep(fixed_ID,BED_DB[,1])[1]
-      message(paste("Downloading...",i))
-      download.file(as.character(BED_DB[dl_index,1]),paste0(fixed_ID,".bed.gz"))
-      message(paste(i,"Saved!"))
+      dl_index <- grep(fixed_ID,BED_DB[,1])
+      
+      for (j in dl_index){
+        message(paste("Downloading...",i))
+        download.file(as.character(BED_DB[j,1]),paste0(j,"_",fixed_ID,".bed.gz"))
+        message(paste0(j,"_",fixed_ID,".bed.gz"," Saved!"))
+      }
     } else {
       stop("Ontology IDs must be in a FF:XXXXX format")
     }
