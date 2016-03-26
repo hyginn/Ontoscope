@@ -1,6 +1,7 @@
 ## getBED.R
 
 Version: **1.2.0**
+
 **Fixed the one ID, multiple matches bug**
 
 Features: Given a list/character vector of Fantom Ontologies, download the  relevant .bed files
