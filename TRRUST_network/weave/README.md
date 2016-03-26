@@ -1,4 +1,4 @@
-## .RData for WEAVE/RANK
+## Notes for WEAVE/RANK
 
 IMPORTANT!
 -------------
@@ -20,7 +20,7 @@ If you go through the workflow you should be able to do this (and automate it), 
 If we decide to use centrality scores as weights, then think of the TRRUST network as a **BOOST** network. Most TFs will have a centrality/betweeness score of zero. Using the network as a BOOST, means that a zero betweeness score WILL NOT affect the "total" score (that is score that is calculated from other networks [ie string]/sources). A zero centrality score will be neutral. However a positive centrality score will be a boost to the "total" score. Its up to you to quantify how big this boost will be (1%? 5%? 10%?)
 
 
-Each .RData file contains the nodes, edges and the original dataframe. The nodes have betweeness centrality applied to them
+Here are some .RData files. Each one contains the nodes, edges and the original dataframe. The nodes have betweeness centrality applied to them
 
 trrust_1.RData
 -------------
