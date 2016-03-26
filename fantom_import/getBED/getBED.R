@@ -1,6 +1,6 @@
 # Purpose:   Access the Fantom Database and etrieve the Relevant .bed files
-# Version:   1.0.0
-# Date:      2016-03-21
+# Version:   1.2.0
+# Date:      2016-03-26
 # Author(s): Dmitry Horodetsky
 #  
 #
