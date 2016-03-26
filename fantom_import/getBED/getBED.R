@@ -1,5 +1,5 @@
 # Purpose:   Access the Fantom Database and etrieve the Relevant .bed files
-# Version:   1.0.0
+# Version:   1.0.1
 # Date:      2016-03-21
 # Author(s): Dmitry Horodetsky
 #  
@@ -27,7 +27,7 @@ getBED <- function(IDs){
   for (i in IDs){
     if (substr(i,start = 1, stop = 3) == "FF:"){
       fixed_ID <- gsub("FF:","",i)
-      dl_index <- grep(fixed_ID,BED_DB[,1])
+      dl_index <- grep(fixed_ID,BED_DB[,1])[1]
       message(paste("Downloading...",i))
       download.file(as.character(BED_DB[dl_index,1]),paste0(fixed_ID,".bed.gz"))
       message(paste(i,"Saved!"))
@@ -37,7 +37,6 @@ getBED <- function(IDs){
   }
 }
 
-    
 
 
 
