@@ -44,6 +44,9 @@ if (!require(visNetwork, quietly=TRUE)) install.packages("visNetwork")
 # JSON <-> data frame
 if (!require(jsonlite, quietly=TRUE)) install.packages("jsonlite")
 
+# === Modules ===
+source("fantom_ont_conv/fantom_ont_conv.R")
+
 # === Constants ===
 CHARACTER <- "character"
 OBO_COLLECTION <- "OBOCollection"
@@ -193,10 +196,13 @@ getHumanFFByCategory <- function (humanSamples, category) {
 }
 
 getMogrifyIDs <- function() {
-  return(fromJSON("mogrify-cellIDs.json"))
+  return(fromJSON("./getMogrifyCells/mogrify-cellIDs.json"))
 }
 
 getMogrifyCNhsIDs <- function(source, target) {
   cmd <- paste("node getMogrifyCNhs/get.js", source, target)
-  return(fromJSON(system(cmd, intern=TRUE)))
+  df <- fromJSON(system(cmd, intern=TRUE))
+  df$val <- lapply(df$val, convertIDs)
+
+  return(df)
 }

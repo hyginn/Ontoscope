@@ -59,8 +59,9 @@ G2 <- delete_vertices(G, termIDs[grep("^FF:[0-9]+$", termIDs, invert=TRUE)])
 
 # Get IDs that are on mogrify
 mogrifyIDs <- getMogrifyIDs()
-# Get CNhsIDs
+# Get CNhsIDs as FF:A-B Ids
 CNhsIDs <- getMogrifyCNhsIDs(source="FF:0000004", target="FF:0010019")
+
 
 # Get FFIDs by category
 humanSamples <- getHumanSamples()
