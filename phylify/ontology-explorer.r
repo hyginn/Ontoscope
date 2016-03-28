@@ -164,8 +164,8 @@ makeVisNetwork <- function (graph) {
 
   edges <- as_data_frame(graph, what="edges")
   visNetwork(nodes, edges, width = "100%") %>%
-    visIgraphLayout(layout = "layout_as_tree") %>%
-    # visIgraphLayout() %>%
+    # visIgraphLayout(layout = "layout_as_tree") %>%
+    visIgraphLayout() %>%
     visNodes(size=5) %>%
     visEdges(arrows="to")
 }

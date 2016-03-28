@@ -3,8 +3,10 @@
 # Tools for exploring (via subsetting) ontology
 source("ontology-explorer.r")
 
+FFP2 <- "ff-phase2-140729.obo"
+
 # get an OBOCollection class object
-fantom <- getOBO("ff-phase2-140729.obo")
+fantom <- getOBO(FFP2)
 
 # We can print out a quick summary to the console
 # numTerms; numEdges; termIDS; termTypes with counts
@@ -23,6 +25,19 @@ rownames(fantom@.stanza)[which(fantom@.stanza$value == TERM)][grep("^EFO", rowna
 # and
 fantomSummary$termIDs[grep("^EFO", fantomSummary$termIDs)]
 # is getTermsMatched good? Or unneccessary grep wrapping leading to requiring extra API knowledge..
+
+# using ontoCAT
+fantomCAT <- getOntology(normalizePath(FFP2))
+
+for (id in as.list(getAllTermIds(fantomCAT))) {
+  def <- getTermDefinitionsById(fantomCAT, id[1])
+
+  if (length(def) != 0) {
+    print(def)
+  }
+}
+
+
 
 termIDs <- getTermIDs(fantom)
 bads <- termIDs[grep("^CHEBI", termIDs, invert=TRUE)]
