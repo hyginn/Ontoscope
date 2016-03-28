@@ -39,6 +39,9 @@ if (!require(igraph, quietly=TRUE)) install.packages("igraph")
 # talk to vis.js, with igraph!
 if (!require(visNetwork, quietly=TRUE)) install.packages("visNetwork")
 
+# JSON <-> data frame
+if (!require(jsonlite, quietly=TRUE)) install.packages("jsonlite")
+
 # === Constants ===
 CHARACTER <- "character"
 OBO_COLLECTION <- "OBOCollection"
@@ -185,4 +188,8 @@ getHumanFFByCategory <- function (humanSamples, category) {
   ffIDs <- humanSamples$ff_ontology[(humanSamples$Category %in% category)]
 
   return(ffIDs)
+}
+
+getMogrifyIDs <- function() {
+  return(fromJSON("mogrify-cellIDs.json"))
 }

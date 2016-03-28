@@ -29,14 +29,6 @@ fantomSummary$termIDs[grep("^EFO", fantomSummary$termIDs)]
 # using ontoCAT
 fantomCAT <- getOntology(normalizePath(FFP2))
 
-for (id in as.list(getAllTermIds(fantomCAT))) {
-  def <- getTermDefinitionsById(fantomCAT, id[1])
-
-  if (length(def) != 0) {
-    print(def)
-  }
-}
-
 
 
 termIDs <- getTermIDs(fantom)
@@ -64,6 +56,9 @@ V(G2)[igraph::degree(G2) == 0] %in% good_ids2
 
 # With only FF:X
 G2 <- delete_vertices(G, termIDs[grep("^FF:[0-9]+$", termIDs, invert=TRUE)])
+
+# Get IDs that are on mogrify
+mogrifyIDs <- getMogrifyIDs()
 
 # Get FFIDs by category
 humanSamples <- getHumanSamples()

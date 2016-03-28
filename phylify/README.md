@@ -143,12 +143,8 @@ EFO_0000001 experimental factor
 ----EFO_0002090 technical replicate
 ----EFO_0002091 biological replicate
 
-> # 134 terms have definitions
-> for (id in as.list(getAllTermIds(fantomCAT))) {
-+   def <- getTermDefinitionsById(fantomCAT, id[1])
-+
-+   if (length(def) != 0) {
-+     print(paste(id[1], ": ", def))
-+   }
-+ }
+> getRootIds(fantomCAT)
+ [1] "BFO_0000040"                     "DOID_4"                          "Disposition"                     "EFO_0000001"                    
+ [5] "FF_0000001"                      "GO_0005575"                      "MaterialEntity"                  "NCBITaxon_1"                    
+ [9] "ProcessualEntity"                "Role"                            "SpecificallyDependentContinuant" "UBERON_0001062"
 ```
