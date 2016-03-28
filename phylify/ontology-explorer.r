@@ -1,7 +1,7 @@
 # ontology-explorer.r
 #
 # Purpose: Tools to aid heuristic subsetting of an OBO ontology
-# Version: v0.2.0
+# Version: v0.3.0
 # Date: Mar 23 2016
 # Author: Julian Mazzitelli <mazzitelli.julian@gmail.com>
 #
@@ -20,6 +20,8 @@
 #   - initial draft
 # v0.2.0:
 #   - add human samples, to filter out by category
+# v0.3.0
+#   - gets source,target FF and CNHs IDs from mogrify site source
 
 getBioconductorPackage <- function (packageName) {
   source("https://bioconductor.org/biocLite.R")
@@ -192,4 +194,9 @@ getHumanFFByCategory <- function (humanSamples, category) {
 
 getMogrifyIDs <- function() {
   return(fromJSON("mogrify-cellIDs.json"))
+}
+
+getMogrifyCNhsIDs <- function(source, target) {
+  cmd <- paste("node getMogrifyCNhs/get.js", source, target)
+  return(fromJSON(system(cmd, intern=TRUE)))
 }
