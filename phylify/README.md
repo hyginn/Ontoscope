@@ -9,10 +9,14 @@ javascript:(() => { const styles=document.createElement('style');  styles.innerH
 
 Then you can click it whenever you are viewing a visNetwork.
 
-The code is a *self-executing anonymous function*, not in one line:
+The code is a *self-executing anonymous function*. Here it is formatted properly:
 ```js
 (() => {
   const styles = document.createElement('style');
-  styles.innerHTML = 'body { padding: 0 !important; } html, body, #htmlwidget_container, .visNetwork { height: 100% !important; }';   document.body.appendChild(styles)
+  styles.innerHTML = 'body { padding: 0 !important; } html, body, #htmlwidget_container, .visNetwork { height: 100% !important; }';
+  document.body.appendChild(styles)
 })()
 ```
+
+Quite simple and clean, just a little CSS, though it seems visNetwork authors want you to specifiy specific height..
+
