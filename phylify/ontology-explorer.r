@@ -21,13 +21,23 @@
 # v0.2.0:
 #   - add human samples, to filter out by category
 
+getBioconductorPackage <- function (packageName) {
+  source("https://bioconductor.org/biocLite.R")
+  biocLite(packageName)
+}
+
 # === Packages ===
 # Gene set enrichment data structures and methods
-if (!require(GSEABase, quietly=TRUE)) {
-  # try http:// if https:// URLs are not supported
-  source("https://bioconductor.org/biocLite.R")
-  biocLite("GSEABase")
-}
+if (!require(GSEABase, quietly=TRUE)) getBioconductorPackage("GSEABase")
+
+# basic operations with ontologies
+if (!require(ontoCAT, quietly=TRUE)) getBioconductorPackage("ontoCAT")
+
+# R bindings to C based network analysis package igraph
+if (!require(igraph, quietly=TRUE)) install.packages("igraph")
+
+# talk to vis.js, with igraph!
+if (!require(visNetwork, quietly=TRUE)) install.packages("visNetwork")
 
 # === Constants ===
 CHARACTER <- "character"
@@ -143,36 +153,24 @@ summarizeOBO <- function (obo, head=FALSE, n=20L) {
   return(summary)
 }
 
-makeAdjMatrix <- function (obo) {
-  termIDs <- getTermIDs(obo)
-  keyVals <- getOBOKeyVals(obo)
-  N <- length(termIDs)
-
-  G <- matrix(numeric(N*N), ncol=N)
-  rownames(G) <- termIDs
-  colnames(G) <- termIDs
-
-  for (term in as.list(termIDs)) {
-    # key:vals for current term
-    termKV <- keyVals[keyVals$stanza == term,]
-
-    # get is_a values for this term
-    is_a <- termKV$value[termKV$key == IS_A]
-
-    for (parent in as.list(is_a)) {
-      G[term, parent] = 1
-    }
-  }
-
-  return(G)
+getIgraph <- function (obo) {
+  return(igraph.from.graphNEL(as(obo, "graphNEL"), name=TRUE, weight=TRUE, unlist.attrs=TRUE))
 }
 
-getTermParents <- function (G, termID) {
-  return(G[termID, G[termID,]==1])
+makeVisNetwork <- function (graph) {
+  nodes <- as_data_frame(graph, what="vertices")
+  # colnames(nodes) <- c("id")
+  nodes <- data.frame(id=nodes$name, label=nodes$name)
+
+  edges <- as_data_frame(graph, what="edges")
+  visNetwork(nodes, edges, width = "100%") %>%
+    visIgraphLayout(layout = "layout_as_tree") %>%
+    # visIgraphLayout() %>%
+    visNodes(size=5) %>%
+    visEdges(arrows="to")
 }
 
 # === Human Samples ===
-
 getHumanSamples <- function () {
   # Use HumanSamples CSV to help subset
   humanSamples <- read.csv("HumanSamples2.0.sdrf.csv")
