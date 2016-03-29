@@ -1,23 +1,25 @@
 # REGNET.R
 #
 # Purpose:   REGNET: Create GRN using REGNETWORK database
-# Version:   0.1
-# Date:      2016-03-22
+# Version:   0.2
+# Date:      2016-03-29
 # Author:    Zhen Hao (Howard) Wu, Fupan Yao
 #
 # Input:     REGNET_HIGH_CONF - All high confidence edges from REGNETWORK
 #            REGNET_MEDIUM_CONF - All medium confidence edges from REGNETWORK
 #            REGNET_LOW_CONF - All low confidence edges from REGNETWORK
 #
-# Output:    igraph object using REGNETWORK database
+# Output:    igraph object using filtered and normalized REGNETWORK database
 #
 # Depends:
 #
-# ToDo:      Filter out miRNA data from database and include only normalized gene names.
+# ToDo:      Filter out miRNA data from database and include only normalized gene names. -- DONE
 #
 # Notes:
 #
-# V 0.1:     Crated igraph object using raw REGNETWORK database
+# V 0.1:     Created igraph object using raw REGNETWORK database
+# V 0.2:     Filtered out miRNA data from raw database and created igraph object from it.
+#            Data is already normalized by HGNC symbols as cited in paper, but some symbols are outdated.
 # ====================================================================
 
 setwd(paste(DEVDIR, "/REGNET", sep="")) # Modify to your working directory
@@ -77,7 +79,24 @@ LOWCONF <- read.csv("REGNET_LOW_CONF.csv", header=TRUE, sep= ",")
 REGNETDB <- rbind(HIGHCONF, MEDIUMCONF, LOWCONF)
 REGNETDB <- REGNETDB[, c(1,3,2,4,5,6,7)]
 
-REGNETGRAPH <- graph_from_data_frame(REGNETDB, directed = TRUE)
+
+
+miRNADB <- c("microT", "miRanda", "miRBase", "miRecords", "miRTarBase", "PicTar", "Tarbase", "TargetScan", "transmir")
+
+filteredDB <- REGNETDB
+
+
+
+for (db in miRNADB) {
+  filteredDB<-filteredDB[ grep(db, filteredDB$database, invert=TRUE), ]
+  if (nrow(filteredDB) == 0) {
+    print("ERROR in subsetting")
+  } else {
+    print(paste(db, ": SUCCESS"))
+  }
+}
+
+REGNETGRAPH <- graph_from_data_frame(filteredDB, directed = TRUE)
 
 
 
@@ -85,20 +104,16 @@ REGNETGRAPH <- graph_from_data_frame(REGNETDB, directed = TRUE)
 
 # ====  TESTS  =======================================================
 #
+# To test whether names in miRNADB appear in original database
 
-# NOTE: Database manipulation works on small subset of graph but too slow on entire graph
-# STRINGDB_Subset <- STRINGDB[c(1:100),c(1,2,10)]
-# STRINGDB_Subset$protein1 <- as.character(STRINGDB_Subset[,1])
-# STRINGDB_Subset$protein2 <- as.character(STRINGDB_Subset[,2])
-# 
-# Split1 <- strsplit(as.character(STRINGDB_Subset[,1]), ".", fixed=TRUE)
-# Split2 <- strsplit(as.character(STRINGDB_Subset[,2]), ".", fixed=TRUE)
-# 
-# for(i in 1:nrow(STRINGDB_Subset) ) {
-#   STRINGDB_Subset[i,1] <- Split1[[i]][2]
-#   STRINGDB_Subset[i,2] <- Split2[[i]][2]
+# for (db in miRNADB) {
+#   test<-REGNETDB[ grep(db, REGNETDB$database, invert=FALSE), ]
+#   if (nrow(test) == 0) {
+#     print("not found")
+#   } else {
+#     print(db)
+#   }
 # }
-
 
 
 # [END]
