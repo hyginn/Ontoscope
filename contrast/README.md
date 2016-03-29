@@ -14,6 +14,7 @@ Version: **0.1**
 **To Do:**
 
  - Prepare input FANTOM gene sample expression file in specific format (sample.csv) 
+ - Use the sample1_contrast.RData to load the sample files 
 
 Introduction:
 -------------
@@ -28,5 +29,28 @@ Instructions:
 -Make sure you have the sample file in the current working directory 
  Use the following command to load the sample file. 
  colData <- read.csv("coldata.csv", row.names=1, header=T)
--Load the file and run to creat the function- contrast_v1
--Run using contrast_v1(<filename>)
+-Load the file and run to creat the function- contrast_<latestversion>
+-Run using contrast_<latestversion>(<filename>)
+
+NOTEBOOK:
+----------
+
+24 MARCH 2016
+
+ - small update to v1. v2 released.
+ - sample .RData files now  available- "sample1_contrast.RData"
+ -Copy of email : 
+To work out yourself, you can load this file to your Rstudio.   Here are the data-frame info contained within:
+{These dataframes are subset of Dmitry's file}
+fantomCounts_10Kg_6s : Raw counts of 10,000 genes in 6 samples
+fantomCounts_500g_5s : Raw counts of 500 genes in 5 samples
+
+Running time is far much better! 
+
+fantomCounts_10Kg_6s : 7.58sec
+fantomCounts_500g_5s : 1.87sec
+
+Other data-frames: 
+
+gsx_fantomCounts_10Kg_6s : Gsx score corresponding to the file
+gsx_fantomCounts_500g_5s : Gsx score corresponding to the file  

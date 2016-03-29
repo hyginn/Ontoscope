@@ -1,3 +1,6 @@
+#Version 2.0
+
+
 #If you want to understand the workflow you should go through this step by step
 
 ############################
@@ -18,6 +21,19 @@ trrust <- fixColumns(trrust)
 ############################
 #Filtering
 ############################
+
+
+##########IMPORTANT!#############
+#First we need to decide which Mode we want to use
+#Mode 1: Have a list of TFs and want to find out what genes they affect
+#Mode 2: Have a list of genes and want to find all TFs which affect those genes 
+##########IMPORTANT!#############
+
+#Lets do Mode 1
+
+setMode(1)
+
+
 #Lets pick our genes. The module takes genes as a character file
 
 #We have 3 ways of getting picking genes:
@@ -26,25 +42,25 @@ trrust <- fixColumns(trrust)
 #2) We can use genGeneChar(), an interactive module to help you generate the character file
 #3) We can geta random selection using randomGenes()
 
-#Lets use 3
+#Lets use 3)
 
-#First let's decide what gene type we need. We can either select for genes
-#in column 1 - transcription factors/reg elements or column 2. Genes that get affected by TF elements
-
-#In this case I want to select for genes which get affected by transcription elements
-#This means that my type = 2
 
 #x is your trrust dataframe
 
 #number is how many random Genes you'd like to select
 
-genes <- randomGenes(trrust,2,15)
+genes <- randomGenes(trrust,2)
 
 #Now lets select the type of interaction we want these genes to display
 #the TRRUST database has "Activation", "Repression" and "Unknown"
-#For this example let's just use "Activation" and remove all other types
 
-trrust <- typeSelect(trrust,"Activation")
+#If you want to use "Activation" and remove all other types
+
+#trrust <- typeSelect(trrust,"Activation")
+
+#This wil filter out all other interactions from the trrust database
+
+#In this example I want all interactions
 
 ####PROTIP!###########
 #Let's say you want to remove all Unknown Interactions
@@ -54,15 +70,13 @@ trrust <- typeSelect(trrust,"Activation")
 #So you don't have to specify this everytime
 ####PROTIP!###########
 
-#Our trrust dataframe has ALL ACTIVATION interactions.
-#Lets filter out, so we get activation interactions that are only relevant
-#to our gene file
+
+#Lets filter the trrust database so it only contains our genes of interest
 
 #x is the name of the dataframe which has your TRRUST network data
 #gene_char is your genes in a 'character' format
-#type = either 1 (TF genes) or 2 (non TF Genes)
 
-trrust <- filterGenes(trrust,2,genes)
+trrust <- filterGenes(trrust,genes)
 
 ############################
 #Visualization
@@ -87,6 +101,15 @@ nodes <- getWeights(nodes,edges)
 
 nodes <- getClusters(nodes,edges)
 
+#Lets add "PMIDs" to all interactions. These appear when you hover over the edge
+
+edges <- getPMIDs(edges,trrust)
+
+#Lets add a label to the edges so we know what type of interaction it is
+
+edges <- getAction(edges,trrust)
+
+
 
 
 #######################
@@ -101,7 +124,7 @@ visGraph(nodes,edges)
 
 #and if you want to export:
 
-exportVis("workflow")
+exportVis("workflow_new")
 
 #this will save a workflow.html in your working directory
 

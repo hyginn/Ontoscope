@@ -2,18 +2,18 @@
 #
 # Purpose:   To validate the ranked trancription factor list for a specific cell conversion produced by RANK module against 
 #            published transcription factor data for that cell conversion
-# Version:   0.1
+# Version:   0.2
 # Date:      2016-02-20
-# Author:    Burton Mendonca
+# Author:    Burton Mendonca and Ryoga Li
 #
-# Input:     Ranked TF list of top 8(?) transcription factors required for a specific cell conversion
-# Output:    TBC
+# Input:     Ranked TF list of top 8 transcription factors required for a specific cell conversion
+# Output:    The validated reuslt is output to a .csv file. Sample content of that file can be found on VALIDATE page
 # Depends:
 #
 # ToDo:      <list bugs, issues and enhancements>
 # Notes:     <more notes>
 #
-# V 0.1:     First code <List key changes for versions>
+# V 0.2:     First code <List key changes for versions>
 # ====================================================================
 
 setwd(DEVDIR)
@@ -27,6 +27,18 @@ setwd(DEVDIR)
 
 # ====  FUNCTIONS  ===================================================
 # Define functions or source external files
+
+getTFList <- function(datasets, cellFrom, cellTo){
+  # return a list of TF in a datasets when given 'cellTo' and 'cellFrom'
+  TFList <- c()
+  for(i in 1:nrow(datasets)){
+    row <- datasets[i,]
+    if(row$CellTo == cellTo & row$CellFrom == cellFrom){
+      TFList <- append(TFList, toString(row$TFList))
+    }
+  }
+  return(TFList)
+}
 
 fractionRecovery <- function(TFList, referenceTFList){
   #Calculates the fraction of items in a "reference" transcription factor list that are recovered/matched in another transcription factor list
@@ -53,7 +65,7 @@ averageTFRank <- function(TFList, referenceTFList){
   
   #If no TFs are recovered, then return NULL for the average TF rank
   if(length(recoveredTFList) == 0){
-    return(NULL)
+    return(0)
   }
   
   #Initialize sum of the ranks of recovered transcription factors
@@ -61,9 +73,9 @@ averageTFRank <- function(TFList, referenceTFList){
   
   #Go through every transcription factor in the recovered TF list
   for(transcriptionFactor in recoveredTFList){
-      sum <- sum + grep(transcriptionFactor, TFList)
+    sum <- sum + grep(transcriptionFactor, TFList)
   }
-
+  
   return(sum/length(recoveredTFList))
   
 }
@@ -85,16 +97,90 @@ averageOverlap <- function(list1, list2){
   return(mean(agreementArray))
 }
 
+
+
+
 # ====  ANALYSIS  ====================================================
-# This is the main working section of the script where you use the
-# functions to process data.
+# Output a data frame for the validation results for each conversion
+# A sample out put looks like the one showing on the Validate Page
+# load data files 
+load("MARADataset.rdata")
+load("dDataset.rdata")
+load("mDataset.rdata")
+load("publishedConversions.RData")
+load("STRINGDataset.rdata")
+# load a file from RANK module
+# mydata <- load("rankOutput.rdata")
+# myList <- mydata$TFList
+# Here I used a random list to test the code 
+# assume we are looking at Bcell to Macrophage
+myList <- c("MITF", "CEBPA", "MAFB", "DBP", "SNAI3")
+# get published conversions
+refList <- c("CEBPA", "SPI1")
+# get corresponding TF lists from different sources we want to validate
+MARAList <- getTFList(maraConversions, "Bcell", "Macrophage")
+STRINGList <- getTFList(stringConversions, "Bcell", "Macrophage")
+mogrifyList <- getTFList(mogrifyConversions, "Bcell", "Macrophage")
+DList <- getTFList(dDataset, "Bcell", "Macrophage")
+
+# Average rank of TFs
+averageRank <- c(NA,
+                 averageTFRank(myList, refList), 
+                 averageTFRank(MARAList, refList),
+                 averageTFRank(STRINGList, refList),
+                 averageTFRank(mogrifyList, refList),
+                 averageTFRank(DList, refList))
+averageRank
+
+# % TF from publication retrieved
+fracRetrived <- c(NA,
+                  fractionRecovery(myList, refList)*100, 
+                  fractionRecovery(MARAList, refList)*100,
+                  fractionRecovery(STRINGList, refList)*100,
+                  fractionRecovery(mogrifyList, refList)*100,
+                  fractionRecovery(DList, refList)*100)
+fracRetrived
+
+# assume we are looking at Bcell to Macrophage
+# Source Cell Type
+# cellFrom <- mydata$CellFrom
+cellFrom <- c("Bcell")
+
+# Target Cell Type
+# cellTo <- mydata$CellTo
+cellTo <- c("Macrophage")
+
+
+# create a data frame for all the TF ranks
+max.len = max(length(refList), length(myList),
+              length(MARAList), length(STRINGList), 
+              length(mogrifyList), length(DList))
+ref <- c(refList, rep(NA, max.len - length(refList)))
+on <- c(myList, rep(NA, max.len - length(myList)))
+MARA <- c(MARAList, rep(NA, max.len - length(MARAList)))
+STRING <- c(STRINGList, rep(NA, max.len - length(STRINGList)))
+mogrify <- c(mogrifyList, rep(NA, max.len - length(mogrifyList)))
+DL <- c(DList, rep(NA, max.len - length(DList)))
+
+allTF <- data.frame(ref, on, MARA, STRING, mogrify, DL)
+colnames(allTF) <- c("Published","Ontoscope", "MARA", "STRING", "Mogrify", "D\'Alessio")
+allTF
+
+# combine all the information into one data frame
+ValidationOutput <- rbind(averageRank, fracRetrived, cellFrom, cellTo)
+colnames(ValidationOutput) <- c("Published","Ontoscope", "MARA", "STRING", "Mogrify", "D\'Alessio")
+combined <- rbind(ValidationOutput, allTF)
+combined
+
+write.csv(combined, file = "output.csv")
+
 
 # ====  TESTS  =======================================================
 
 myTFList <- c("MITF", "SPI1", "CEBPA", "MAFB", "DBP", "ETS2", "SNAI3", "HMGA1")
 refTFList <- c("SPI1", "CEBPA","")
 celNetTFList <- c()
-  
+
 fractionRecovery(myTFList, refTFList)
 averageTFRank(myTFList, refTFList)
 

@@ -1,6 +1,6 @@
 ﻿## Fantom Import Module
 
-Version: **0.9.1** 
+Version: **0.9.5** 
 
 
 
@@ -9,7 +9,8 @@ Version: **0.9.1**
 
 **Recent Changes:**
 
- - Significant Speed Improvements to fantomSummarize() and filterTFs()
+ - Code Refactored. Module is now more friendly with other modules (can accept lists as input)
+ - fantomSummarize() can now take a threshold value as an argument. Default is no threshold
 
 **Features:**
 
@@ -27,7 +28,7 @@ Version: **0.9.1**
 
 **Bugs**
 
- - ending on a comma fantomKeyword("liver, brain,") will return the entire database
+ - Submit Bugs via the Issues Tab
 
 Introduction:
 -------------
@@ -46,7 +47,7 @@ Workflow
 2. Import your data with either fantomKeyword("keyword1, keyword2") or with fantomOntology("FF:X, FF:Y, FF:Z")
 3. Importing your data automatically generates a list of dataframes: fantomResults. It contains: Genetic annotation, Peak Number, Gene Name, entrezgene ID, HGNC ID, Uniprot ID and the counts for EVERY sample. So if you requested 5 samples, you will get a SINGLE list of 5 dataframes
 
-(**Optionally**) Summarize your results with fantomSummarize(). This will return a SINGLE dataframe (fantomCounts) of normalized gene names and the counts for all your samples. You can view this dataframe with:
+(**Optionally**) Summarize your results with fantomSummarize(). This will return a SINGLE dataframe (fantomCounts) of normalized gene names and the counts for all your samples. **If you use a positive integer as an argument, all genes whose count is below that integer value are filtered out.** You can view this dataframe with:
 ```
 view(fantomCounts)
 ```
@@ -60,15 +61,15 @@ Let's say you want the relevant counts for FF:10444-106F3, FF:10465-106H6, FF:10
 
 ```
 fantomOntology("FF:10444-106F3, FF:10465-106H6, FF:10201-103F3")
-fantomSummarize()
+fantomSummarize(2)
 exportCounts()
 ```
-This will generate a fantomCounts.RData file. You can then
+This will generate a fantomCounts.RData file.  You can then
 
 ```
 load("fantomCounts.RData")
 ```
-in your module and perform the necessary modifications. The fantomCounts.RData file contains normalized gene names and the relevant counts for all the keywords that you have selected.
+in your module and perform the necessary modifications. The fantomCounts.RData file contains normalized gene names and the relevant counts for all the keywords that you have selected. Genes with RAW counts less than 2 are filtered out
 
 
 Selecting Your Mode:
@@ -184,7 +185,7 @@ fantomSummarize
 ------------
 
 ```
->fantomSummarize()
+>fantomSummarize(threshold)
 ```
 
 Takes your fantomResults and generates a single dataframe (fantomCounts). This dataframe will have normalized gene names and the counts for all your samples.  Note: You must import fantom Data (and have a fantomResults file), before you can create a summary. View the dataframe with:
@@ -192,6 +193,9 @@ Takes your fantomResults and generates a single dataframe (fantomCounts). This d
 ```
 view(fantomCounts)
 ```
+
+Pass a positive integer as a threshold value to filter out all genes whose counts are below the integer value. Default (ie fantomSummarize()) is no threshold
+
 
 filterTFs
 ------------

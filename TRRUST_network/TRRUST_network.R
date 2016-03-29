@@ -1,12 +1,15 @@
 # Purpose:   Import the TRRUST network and allow Easy Filtering and Visualization
-# Version:   0.7.0
-# Date:      2016-03-17
+# Version:   1.0.0
+# Date:      2016-03-25
 # Author(s): Dmitry Horodetsky
 # 
 # Version     0.5.0 - initial commit
 #
 #             0.7.0 - added weighing capability, added clustering capability
 #                     added randomGene() selection
+#             
+#             1.0.0 - added PMID labeling, added action (Activation, Repression, Unknown) labeling
+#                     added a "freeze" graphing mode for large graphs        
 #
 #             
 
@@ -128,16 +131,12 @@ genGeneChar<-function(){
 ####
 
 #x is your trrust dataframe
-#type = either 1 (TF genes) or 2 (non TF Genes)
 #number is how many random Genes you'd like to select
 
-randomGenes <-function(x,type,number){
-  if (type != as.numeric(1) & type != as.numeric(2)){
-    message("the type must either be '1' (TF Coding genes) or '2' (non-TF Coding genes)")
-  } else {
-    
-  }
-    return(as.character(sample(x[,type],number)))
+randomGenes <-function(x,number){
+  
+  .checkMode()
+  return(as.character(sample(x[,as.numeric(trrust_network_mode[1])],number)))
 }
 
 ####
@@ -146,15 +145,12 @@ randomGenes <-function(x,type,number){
 
 #x is the name of the dataframe which has your TRRUST network data
 #gene_char is your genes in a 'character' format
-#type = either 1 (TF genes) or 2 (non TF Genes)
 
-filterGenes <- function(x,type,gene_char){
-  if (type != as.numeric(1) & type != as.numeric(2)){
-    message("the type must either be '1' (TF Coding genes) or '2' (non-TF Coding genes)")
-  } else {
-    filtered_genes <- which(x[type][,] %in% gene_char)
-    return (x[filtered_genes,])
-  }
+filterGenes <- function(x,gene_char){
+  
+  .checkMode()
+  filtered_genes <- which(x[as.numeric(trrust_network_mode[1])][,] %in% gene_char)
+  return (x[filtered_genes,])
 }
 
 ###########################
@@ -234,23 +230,92 @@ getClusters <- function(nodes,edges){
   return(nodes)
 }
 
-#####################################
-#Visualization via visNetwork
-#####################################
+###
+#Add PMIDs to Edges
+###
+
+#You need the edges file and your TRRUST network
+
+getPMIDs <- function(edges,trrust){
+  #Remove Multiple PMIDs (for neatness) and add a "PMID:" prefix
+  title <- apply(trrust[4], 2, function (x) as.character(gsub(";.*$","",x)))
+  title <- apply(title, 2, function (x) paste0("PMID:",x))
+  
+  edges$title <- c(title)
+  
+  return(edges)
+}
+
+getAction <- function(edges,trrust){
+  trrust[3] <- apply(trrust[3], 2, function (x) as.character(gsub("Activation","[A]",x)))
+  trrust[3] <- apply(trrust[3], 2, function (x) as.character(gsub("Repression","[R]",x)))
+  trrust[3] <- apply(trrust[3], 2, function (x) as.character(gsub("Unknown","[N/A]",x)))
+  
+  label <- c(trrust[,3])
+  
+  edges$label <- label
+
+  return(edges)
+}
+
+
+##############################
+#Visualization via visNetwork#
+##############################
 
 visGraph <-function(nodes,edges){
-  visNetwork(nodes, edges, width = "100%") %>% visEdges(arrow = 'to')
+  visNetwork(nodes, edges, width = "100%") %>% visEdges(arrow = trrust_network_mode[2], font = list(align = "middle", size = "9", smooth = FALSE)) %>%
+    visPhysics(solver = "forceAtlas2Based")
+}
+
+visGraph_f <-function(nodes,edges){
+  visNetwork(nodes, edges, width = "100%") %>% visEdges(arrow = trrust_network_mode[2], font = list(align = "middle", size = "9", smooth = FALSE)) %>%
+    visPhysics(solver = "forceAtlas2Based") %>% visIgraphLayout()
 }
 
 exportVis <- function(name){
   #write a check for nodes and edges later HERE
   network <- visGraph(nodes, edges)
   htmlwidgets::saveWidget(network, paste0(name,".html"))
-  
+}
+
+exportVis_f <- function(name){
+  #write a check for nodes and edges later HERE
+  network <- visGraph_f(nodes, edges)
+  htmlwidgets::saveWidget(network, paste0(name,".html"))
 }
   
+###################
+#Helper Functions #
+###################
+setMode <- function(mode_num){
+  if (mode_num == 1){
+    trrust_network_mode <<- c(1,"to")
+    message("Mode 1 - Search genes by known Tfs, Set!")
+  }
   
+  if (mode_num == 2){
+    trrust_network_mode <<- c(2,"to")
+    message("Mode 2 - Search TFs by known genes, Set!")
+  }
   
-  
+  if ((mode_num != 2) & (mode_num != 1)) {
+    message("ERROR!")
+    message("Please Select the Proper Mode, using 'setMode():")
+    message("setMode(1) - Have a list of TFs and want to find out what genes they affect")
+    message("setMode(2) - Have a list of genes and want to find all TFs which affect those genes ")
+  }
+}
+
+.checkMode <- function(){
+  if (!exists("trrust_network_mode")){
+    message("ERROR!")
+    message("Please Select the Proper Mode, using 'setMode():")
+    message("setMode(1) - Have a list of TFs and want to find out what genes they affect")
+    message("setMode(2) - Have a list of genes and want to find all TFs which affect those genes ")
+  }
+}
+
+message("Don't forget to use setMode(mode_num) before filtering!")
 
 
