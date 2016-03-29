@@ -1,5 +1,9 @@
 # phylify
 
+## OBO Parsing Heuristics
+
+See [here](https://github.com/hyginn/Ontoscope/blob/master/phylify/obo-heuristic.md).
+
 ## visNetwork
 
 To make visNetwork full screen, create a bookmark on your bookmarks bar and put

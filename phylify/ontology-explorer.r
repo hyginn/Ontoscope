@@ -1,7 +1,7 @@
 # ontology-explorer.r
 #
 # Purpose: Tools to aid heuristic subsetting of an OBO ontology
-# Version: v0.3.0
+# Version: v0.4.0
 # Date: Mar 23 2016
 # Author: Julian Mazzitelli <mazzitelli.julian@gmail.com>
 #
@@ -22,6 +22,10 @@
 #   - add human samples, to filter out by category
 # v0.3.0
 #   - gets source,target FF and CNHs IDs from mogrify site source
+# v0.4.0
+#   - add propertyTypes to summarizeOBO
+#   - get human OR mouse samples
+#   - getMogrifyReplicasForID(ID) -> character vector 
 
 getBioconductorPackage <- function (packageName) {
   source("https://bioconductor.org/biocLite.R")
@@ -144,6 +148,7 @@ summarizeOBO <- function (obo, head=FALSE, n=20L) {
   termIDs <- getTermIDs(obo)
   # And there types?
   termTypes <- getTermTypes(termIDs)
+  propertyTypes <- unique(obo@.kv$key)
 
   # head() the longer ones if desired
   if (head) {
@@ -155,7 +160,8 @@ summarizeOBO <- function (obo, head=FALSE, n=20L) {
     numTerms=numTerms,
     numEdges=numEdges,
     termIDs=termIDs,
-    termTypes=termTypes
+    termTypes=termTypes,
+    propertyTypes=propertyTypes
   )
 
   return(summary)
@@ -179,24 +185,31 @@ makeVisNetwork <- function (graph) {
 }
 
 # === Human Samples ===
-getHumanSamples <- function () {
+getSamples <- function (file) {
   # Use HumanSamples CSV to help subset
-  humanSamples <- read.csv("HumanSamples2.0.sdrf.csv")
+  samples <- read.csv(file)
 
   # Yes, they spelt characteristics wrong. two ways wrong.
-  colnames(humanSamples) <- gsub(".$", "", gsub("Cha?rac?teristics..", "", colnames(humanSamples)))
+  colnames(samples) <- gsub(".$", "", gsub("Cha?rac?teristics..", "", colnames(samples)))
 
-  return(humanSamples)
+  return(samples)
+}
+getHumanSamples <- function() {
+  return(getSamples("./samples/HumanSamples2.0.sdrf.csv"))
+}
+getMouseSamples <- function() {
+  return(getSamples("./samples/MouseSamples2.0.sdrf.csv"))
 }
 
-getHumanFFByCategory <- function (humanSamples, category) {
+
+getFFByCategory <- function (humanSamples, category) {
   ffIDs <- humanSamples$ff_ontology[(humanSamples$Category %in% category)]
 
   return(ffIDs)
 }
 
 getMogrifyIDs <- function() {
-  return(fromJSON("./getMogrifyCells/mogrify-cellIDs.json"))
+  return(fromJSON("./getMogrifyCells/mogrify-cellIDs.json")$ID)
 }
 
 getMogrifyCNhsIDs <- function(source, target) {
@@ -205,4 +218,11 @@ getMogrifyCNhsIDs <- function(source, target) {
   df$val <- lapply(df$val, convertIDs)
 
   return(df)
+}
+
+getMogrifyReplicasForID <- function (ID) {
+  df <- getMogrifyCNhsIDs(source=ID, target="FF:0000592")
+  IDs <- df[df$type == "source",]$val
+
+  return(as.character(IDs))
 }

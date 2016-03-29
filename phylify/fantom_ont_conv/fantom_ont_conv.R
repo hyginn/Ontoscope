@@ -24,8 +24,8 @@
 convertIDs <- function (IDs) {
   result <- c()
 
-  for (i in IDs){
-    index <- grep(i,ID_database[,2])
+  for (i in IDs) {
+    index <- grep(i, ID_database[,2])
     result <- c(result, ID_database[index,1])
   }
   return (unique(as.character(result)))

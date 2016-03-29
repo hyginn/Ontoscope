@@ -1,18 +1,19 @@
 # Read_Gsx.R
 #
-# Purpose:   To read gene expression scores (Gsx; s=sample, x=gene) in R and look at it.
-# Version:   0.1
-# Date:      2016-03-20
+# Purpose:   To read gene expression scores (Gsx; s=sample, x=gene) in R, determine cutoff and export as .txt.
+# Version:   0.2
+# Date:      2016-03-29
 # Author:    Anam Qudrat
 #
-# Input:     Gsx scores ( = Lsx X (-log10(Psx))).
-# Output:    Data matrix
+# Input:     Gsx scores ( = Lsx X (-log10(Psx))). These scores are always positive.
+# Output:    Text file of Gsx scores above cutoff.
 # Depends:   NA
 #
-# ToDo:      How to generate a combined expression set for Gsx and cTF (transcription factor) data?
-# Notes:     Need actual dataset. Do we even need the data as an ExpressionSet?
+# ToDo:      Test with working dataset.
+# Notes:     Do we even need the data as an ExpressionSet?
 #
 # V 0.1:     First code
+# V 0.2:     Determining a cutoff and writing the file to .txt
 # ====================================================================
 
 # ====  PARAMETERS  ==================================================
@@ -45,6 +46,12 @@ exprs <- as.matrix(read.table(exprsFile, header=TRUE, sep="\t", #the argument be
                               row.names=1,
                               as.is=TRUE))
 
+# Dermining a cutoff: Setting alpha = 0.05 and a log fold change score of at least 2, the cutoff is for scores greater than +2.6.
+cov <- exprs[exprs>0] # extract all values greater than cutoff = 2.6. Testing with the value 0 here from the sample dataset.
+sorted <- sort(cov, decreasing = TRUE) # sort in descending order
+cat(sorted,file="cov.txt",sep="\t") # write file to .txt
+file.show("cov.txt")
+
 # ====  TESTS  =======================================================
 
 #Check whether Read matches your expectations
@@ -53,13 +60,8 @@ dim(exprs)
 colnames(exprs)
 head(exprs[,1])
 
-#Create a minimal expression set
-Set1 <- ExpressionSet(genes=exprs)
-
-#Look at the Gsx data using a histogram. This will lead us into classfication and determining a cutoff.
-png('exprs.histogram.png')
-hist(exprs,breaks=100,col='yellow',main='Histogram of gene expression levels',xlab='Expression level')
-dev.off()
+#Create a minimal expression set. This is useful if combining this gene expression data with other details. Otherwise skip.
+#Set1 <- ExpressionSet(genes=exprs)
 
 # [END]
 

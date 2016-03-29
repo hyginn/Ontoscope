@@ -27,11 +27,47 @@ fantomSummary$termIDs[grep("^EFO", fantomSummary$termIDs)]
 # is getTermsMatched good? Or unneccessary grep wrapping leading to requiring extra API knowledge..
 
 # using ontoCAT
+# most useful for getAllTerm(Parents|Children)ById
 fantomCAT <- getOntology(normalizePath(FFP2))
 
-
-
+# Term IDs
 termIDs <- getTermIDs(fantom)
+
+# Get FF IDs, FF:X IDs, and FF:A-B IDs
+FFs <- termIDs[grep("^FF:", termIDs)]
+FFNumsRegex <- "^FF:[0-9]{7}"
+FFNums <- FFs[grep(FFNumsRegex, FFs)]
+FFDashesRegex <- "^FF:[0-9]+-[0-9]+[A-Z][0-9]$"
+FFDashes <- FFs[grep(FFDashesRegex, FFs)]
+length(FFs) == length(FFNums) + length(FFDashes)
+
+# Get IDs that are on mogrify
+mogrifyIDs <- getMogrifyIDs()
+length(mogrifyIDs) # 279
+# Everything is an FFNum
+length(mogrifyIDs[grep(FFNumsRegex, mogrifyIDs)]) == length(mogrifyIDs)
+
+# Get CNhsIDs as FF:A-B Ids
+CNhsIDs <- getMogrifyCNhsIDs(source="FF:0000062", target="FF:0000592")
+# Wraps around above to give back a character vector of "replicas" for an ID
+myReplicas <- getMogrifyReplicasForID("FF:0000062")
+# NOTE! These likely match (exactly) the incoming  edges to the FFNum ID
+
+# Get FFIDs by species and category
+humanSamples <- getHumanSamples()
+# Different categories
+# tissues, cell lines, primary cells, time courses, fractionations and pertubations
+# levels(humanSamples$Category)
+# Now we can get IDs by their categorie(s):
+bads_human <- getFFByCategory(humanSamples, c("time courses", "fractionations and perturbations"))
+goods_human <- getFFByCategory(humanSamples, c("cell lines", "primary cells"))
+# and mouse:
+mouseSamples <- getMouseSamples()
+bads_mouse <- getFFByCategory(mouseSamples, c("time courses", "fractionations and perturbations"))
+goods_mouse <- getFFByCategory(mouseSamples, c("cell lines", "primary cells"))
+
+
+
 bads <- termIDs[grep("^CHEBI", termIDs, invert=TRUE)]
 
 # igraph
@@ -57,20 +93,6 @@ V(G2)[igraph::degree(G2) == 0] %in% good_ids2
 # With only FF:X
 G2 <- delete_vertices(G, termIDs[grep("^FF:[0-9]+$", termIDs, invert=TRUE)])
 
-# Get IDs that are on mogrify
-mogrifyIDs <- getMogrifyIDs()
-# Get CNhsIDs as FF:A-B Ids
-CNhsIDs <- getMogrifyCNhsIDs(source="FF:0000004", target="FF:0010019")
-
-
-# Get FFIDs by category
-humanSamples <- getHumanSamples()
-# Different categories
-# tissues, cell lines, primary cells, time courses, fractionations and pertubations
-# levels(humanSamples$Category)
-# Now we can get IDs by their categorie(s):
-bad <- getHumanFFByCategory(humanSamples, c("time courses", "fractionations and perturbations"))
-goods_human <- getHumanFFByCategory(humanSamples, c("cell lines", "primary cells"))
 
 length(good_ids) # 1596
 sum(good_ids %in% goods_human) # 765
