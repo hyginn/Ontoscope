@@ -1,5 +1,5 @@
 # Purpose:   Access the Fantom Database and Extract the Relevant Counts/Annotation for Requested Cells
-# Version:   0.9.5
+# Version:   1.0.0
 # Date:      2016-03-24
 # Author(s): Dmitry Horodetsky
 #            Dan Litovitz
@@ -38,7 +38,7 @@
 # V 0.9.5    improved code readability/refactoring, can now pass lists/vectors into the module,
 #            fantomSummarize() now takes threshold values
 #
-#
+# V 1.0.0    MAJOR [Will add notes later]
 
 #Libraries Install and Load
 if (!require(iterators, quietly=TRUE)) {
@@ -68,7 +68,7 @@ if (!require(tidyr, quietly=TRUE)) {
 
 
 #Load Sample_DB
-fantom_samples <- read.table('Sample_DB.txt')
+fantom_samples <- read.table('fantom_import/Sample_DB.txt')
 
 #THIS SETS THE MODE
 #return_counts <- TRUE returns Counts
@@ -158,7 +158,7 @@ fantomOntology <- function(ontology_IDs){
 
 fantomSearch <- function(x){
   #Check Whether Samples_DB is Loaded (in the working Directory)
-  .checkDB()
+  .checkfantomDB()
   
   query_results <- fantom_samples[ grep(x, fantom_samples$V1, ignore.case = TRUE) , ]
   return (query_results)
@@ -171,7 +171,7 @@ fantomSearch <- function(x){
 
 fantomList <- function(){
   #Check Whether Samples_DB is Loaded (in the working Directory)
-  .checkDB()
+  .checkfantomDB()
   
   return(fantom_samples)
 }
@@ -189,7 +189,7 @@ fantomSummarize <- function(threshold){
   }
   
   message("Filtering Relevant Results. This step takes awhile ...")
-  deleteEmpty()
+  .deleteEmpty_old()
   
   fantomCounts <<- list()
   
@@ -334,6 +334,37 @@ fantomProcess <- function(){
   fixID(IDENTIFIERS, ID_KEY_VALUE_LINK)
 }
 
+########
+#OLD Processing Functions
+########
+
+#Old functions are used until the bugs with the newer ones are fixed
+#Will be DELETED once the new ones are good
+
+
+.loop_fantom_list_old <- function(call_func){
+  if(length(fantomResults) < 1)
+    stop("action skipped: fantomResults cannot be empty")
+  
+  IDENTIFIERS = c("entrezgene_id", "hgnc_id", "uniprot_id")
+  ID_KEY_VALUE_LINK = ":"
+  for(loop_index in 1:length(fantomResults))
+    call_func(loop_index, IDENTIFIERS, ID_KEY_VALUE_LINK)
+}
+
+.deleteEmpty_old <- function(){
+  .loop_fantom_list_old(function(i, IDENTIFIERS, ID_KEY_VALUE_LINK){
+    fantomResults[[i]] <<- fantomResults[[i]][apply(fantomResults[[i]][, IDENTIFIERS], 1, function(x){length(grep("[[:alnum:]]", x)) > 0}), ]
+    rownames(fantomResults[[i]]) <<- NULL
+  })
+}
+
+
+
+
+
+
+
 ##########################
 #INTERNAL HELPER FUNCTIONS
 ##########################
@@ -365,7 +396,7 @@ fantomProcess <- function(){
 
 .fantomImport <- function(raw_fantom_query, get_fantom_access_numbers) {
   #Check Whether Samples_DB is Loaded (in the working Directory)
-  .checkDB()
+  .checkfantomDB()
   
   #Clear the list
   .resetFantom()
@@ -410,10 +441,10 @@ fantomProcess <- function(){
   
 }
 
-.checkDB <- function(){
-  if (file.exists("Sample_DB.txt")){
+.checkfantomDB <- function(){
+  if (file.exists("fantom_import/Sample_DB.txt")){
     print ('Sample_DB Loaded!')
-  } else { stop("Sample_DB not found. Please put it in your working directory")
+  } else { stop("Sample_DB not found. 'Ontoscope' should be your working directory and Sample_DB.txt should be in the 'fantom_import' folder")
   }
 }
 
@@ -462,3 +493,8 @@ fantomProcess <- function(){
   vector_out <- unique(toupper(str_trim(vector_out)))
   return(vector_out[vector_out != ""])
 }
+
+
+
+
+
