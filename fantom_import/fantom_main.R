@@ -61,6 +61,11 @@ if (!require(plyr, quietly=TRUE)) {
   library(plyr)
 }
 
+if (!require(tidyr, quietly=TRUE)) {
+  install.packages("tidyr")
+  library(tidyr)
+}
+
 
 #Load Sample_DB
 fantom_samples <- read.table('Sample_DB.txt')
@@ -292,32 +297,42 @@ filterTFs <- function(){
 #Processing Functions
 ###############
 
-loop_fantom_list <- function(call_func){
-  if(length(fantomResults) < 1)
-    stop("action skipped: fantomResults cannot be empty")
-  
-  IDENTIFIERS = c("entrezgene_id", "hgnc_id", "uniprot_id")
-  ID_KEY_VALUE_LINK = ":"
-  for(loop_index in 1:length(fantomResults))
-    call_func(loop_index, IDENTIFIERS, ID_KEY_VALUE_LINK)
-}
-
-deleteEmpty <- function(){
-  loop_fantom_list(function(i, IDENTIFIERS, ID_KEY_VALUE_LINK){
-    fantomResults[[i]] <<- fantomResults[[i]][apply(fantomResults[[i]][, IDENTIFIERS], 1, function(x){length(grep("[[:alnum:]]", x)) > 0}), ]
+deleteEmpty <- function(identifiers){
+  .loop_fantom_list(function(i){
+    fantomResults[[i]] <<- fantomResults[[i]][apply(fantomResults[[i]][, identifiers, drop = FALSE], 1, function(x){length(grep("[[:alnum:]]", x)) > 0}), ]
     rownames(fantomResults[[i]]) <<- NULL
   })
 }
 
-fixID <- function(){
-  loop_fantom_list(function(i, IDENTIFIERS, ID_KEY_VALUE_LINK){
-    replace_str = paste("(?<![[:word:]])[[:word:]]+?", ID_KEY_VALUE_LINK, sep = "")
-    fantomResults[[i]][, IDENTIFIERS] <<- apply(fantomResults[[i]][, IDENTIFIERS], 2, function(x){gsub(replace_str, x, perl = TRUE, replacement = "")})
+fixID <- function(identifiers, id_key_value_link){
+  .remove_pattern(paste("(?<![[:word:]])[[:word:]]+?", id_key_value_link, sep = ""), identifiers)
+}
+
+fixAnnotation <- function(annotation_column){
+  .split_column(annotation_column, ":|,|\\.\\.", c("Chr", "Start", "End", "Strand"))
+  .remove_pattern("chr", "Chr")
+}
+
+fixDescription <- function(description_column){
+  .split_column(description_column, "@", c("Peak", "Gene"))
+  .remove_pattern("p", "Peak")
+  .loop_fantom_list(function(i){
+    fantomResults[[i]] <<- fantomResults[[i]] %>% unnest(short_description = strsplit(short_description, ","))
+    fantomResults[[i]][apply(fantomResults[[i]][, "Peak", drop = FALSE], 1, function(x){length(grep("^\\s*$", x)) > 0}), c("Peak", "Gene")] <<- c(NA, NA)
   })
 }
 
+fantomProcess <- function(){
+  IDENTIFIERS = c("entrezgene_id", "hgnc_id", "uniprot_id")
+  ID_KEY_VALUE_LINK = ":"
+  ANNOTATION_COL = "00Annotation"
+  DESCRIPTION_COL = "short_description"
 
-
+  deleteEmpty(IDENTIFIERS)
+  fixAnnotation(ANNOTATION_COL)
+  fixDescription(DESCRIPTION_COL)
+  fixID(IDENTIFIERS, ID_KEY_VALUE_LINK)
+}
 
 ##########################
 #INTERNAL HELPER FUNCTIONS
@@ -419,6 +434,26 @@ fixID <- function(){
     message("fantomCounts does not exist. Please use fantomSummarize() to generate it") & stop()
   } else { message("fantomCounts Loaded!")
   }
+}
+
+.loop_fantom_list <- function(call_func){
+  if(length(fantomResults) < 1)
+    stop("action skipped: fantomResults cannot be empty")
+
+  for(loop_index in 1:length(fantomResults))
+    call_func(loop_index)
+}
+
+.remove_pattern <- function(perl_regex, col_names){
+  .loop_fantom_list(function(i){
+    fantomResults[[i]][, col_names] <<- apply(fantomResults[[i]][, col_names, drop = FALSE], 2, function(x){gsub(perl_regex, x, perl = TRUE, replacement = "")})
+  })
+}
+
+.split_column <- function(col_name, separator_regex, new_col_names){
+  .loop_fantom_list(function(i){
+    fantomResults[[i]] <<- separate_(fantomResults[[i]], col_name, new_col_names, separator_regex)
+  })
 }
 
 .flatten_split_str_vec <- function(vector_in){
