@@ -107,3 +107,32 @@ COdat <- filterByGood(G, c(mogrifyIDs, DESeqable))
 makeVisNetwork(COdat)
 
 save(COdat, file="COdat.RData")
+
+
+# === mini gather ===
+
+# as_ids not working with neighborhood, which is too bad b/c order is nice
+as_ids(neighborhood(COdat, order=2, "FF:0000592", mode="out"))
+# but does with neighbours
+as_ids(neighbors(COdat, "FF:0000592", mode="out"))
+
+makeDashesBg <- function(G, FFID) {
+  # takes one level out
+  makeNumList <- function (G, id, closeDepth, farDepth) {
+    ids <- as_ids(neighbors(G, id, mode="out"))
+
+    return(ids)
+  }
+
+  dashes <- c()
+  for (id in as.list(nums)) {
+    ins <- as_ids(neighbors(COdat, id, mode="in"))
+    insDashes <- ins[grep(FFDashesRegex, ins)]
+
+    dashes <- c(dashes, insDashes)
+  }
+
+  return(dashes)
+}
+
+makeDashesBg(COdat, "FF:0000592")
