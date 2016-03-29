@@ -16,7 +16,7 @@
 # V 0.2:     First code <List key changes for versions>
 # ====================================================================
 
-setwd(DEVDIR)
+setwd(paste(DEVDIR, "/VALIDATE", sep=""))
 
 # ====  PARAMETERS  ==================================================
 
@@ -104,11 +104,11 @@ averageOverlap <- function(list1, list2){
 # Output a data frame for the validation results for each conversion
 # A sample out put looks like the one showing on the Validate Page
 # load data files 
-load("MARADataset.rdata")
+load("maraConversions.rdata")
 load("dDataset.rdata")
-load("mDataset.rdata")
+load("mogrifyConversions.rdata")
 load("publishedConversions.RData")
-load("STRINGDataset.rdata")
+load("stringConversions.rdata")
 # load a file from RANK module
 # mydata <- load("rankOutput.rdata")
 # myList <- mydata$TFList

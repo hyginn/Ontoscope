@@ -66,33 +66,44 @@ mouseSamples <- getMouseSamples()
 bads_mouse <- getFFByCategory(mouseSamples, c("time courses", "fractionations and perturbations"))
 goods_mouse <- getFFByCategory(mouseSamples, c("cell lines", "primary cells"))
 
-
-
-bads <- termIDs[grep("^CHEBI", termIDs, invert=TRUE)]
+# Load up the fantom_import module
+source("../fantom_import/fantom_main.R")
+# Get all the FFDash IDs that we can pull samples for
+DESeqable <- as.character(fantom_samples[!is.na(fantom_samples[,2]),2])
+# But not everything in there is good!
+length(DESeqable) # 1596
+sum(DESeqable %in% goods_human) # 765
+DESeqable <- DESeqable[DESeqable %in% goods_human]
 
 # igraph
 G <- getIgraph(fantom)
 
-# Load up the fantom_import module
-source("../fantom_import/fantom_main.R")
+# COdat is a filtered version of G
 
-good_ids <- as.character(fantom_samples[!is.na(fantom_samples[,2]),2])
+# We can first try taking only the DESeqable IDs, but this gives 0 edges
+COdat <- filterByGood(G, DESeqable)
+makeVisNetwork(COdat)
 
-# This gives 0 edges
-#G2 <- delete_vertices(G, termIDs[!(termIDs %in% good_ids)])
+# Taking all FFNums and FFDashes
+COdat <- filterByGood(G, termIDs[grep("^FF", termIDs)])
+COdat <- filterByBad(G, termIDs[grep("^FF", termIDs, invert=TRUE)])
+makeVisNetwork(COdat, customLayout="layout_as_tree")
+makeVisNetwork(COdat)
 
-G2 <- delete_vertices(G, termIDs[grep("^FF", termIDs, invert=TRUE)])
-makeVisNetwork(G2)
+# Taking all FFNums
+COdat <- filterByGood(G, FFNums)
+makeVisNetwork(COdat)
 
-FFxs <- termIDs[grep("^FF:[0-9]+$", termIDs)]
-good_ids2 <- c(good_ids, FFxs)
-G2 <- delete_vertices(G, termIDs[!(termIDs %in% good_ids2)])
-# This leaves us with less vertices with no edges:
-V(G2)[igraph::degree(G2) == 0] %in% good_ids2
+# Taking all FFNums and DESeqable FFDashes
+COdat <- filterByGood(G, c(FFNums, DESeqable))
+makeVisNetwork(COdat)
 
-# With only FF:X
-G2 <- delete_vertices(G, termIDs[grep("^FF:[0-9]+$", termIDs, invert=TRUE)])
+# Taking only mogrifyIDs
+COdat <- filterByGood(G, mogrifyIDs)
+makeVisNetwork(COdat)
 
+# Taking mogrifyIDs and DESeqables
+COdat <- filterByGood(G, c(mogrifyIDs, DESeqable))
+makeVisNetwork(COdat)
 
-length(good_ids) # 1596
-sum(good_ids %in% goods_human) # 765
+save(COdat, file="COdat.RData")
