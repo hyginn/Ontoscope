@@ -163,12 +163,12 @@ mogrify <- c(mogrifyList, rep(NA, max.len - length(mogrifyList)))
 DL <- c(DList, rep(NA, max.len - length(DList)))
 
 allTF <- data.frame(ref, on, MARA, STRING, mogrify, DL)
-colnames(allTF) <- c("Published","Ontology", "MARA", "STRING", "Mogrify", "D\'Alessio")
+colnames(allTF) <- c("Published","Ontoscope", "MARA", "STRING", "Mogrify", "D\'Alessio")
 allTF
 
 # combine all the information into one data frame
 ValidationOutput <- rbind(averageRank, fracRetrived, cellFrom, cellTo)
-colnames(ValidationOutput) <- c("Published","Ontology", "MARA", "STRING", "Mogrify", "D\'Alessio")
+colnames(ValidationOutput) <- c("Published","Ontoscope", "MARA", "STRING", "Mogrify", "D\'Alessio")
 combined <- rbind(ValidationOutput, allTF)
 combined
 
