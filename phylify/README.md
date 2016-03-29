@@ -1,8 +1,21 @@
 # phylify
 
+## COdat
+
+See [workflow](https://github.com/hyginn/Ontoscope/blob/master/phylify/workflow.r)
+for how to make your own `COdat.RData`. The current version takes all `FF:X` IDs
+from the Mogrify website, plus all "cell lines"+"primary cells" categories
+in humans from the set of `FF:A-B` IDs for which we can pull samples to run
+through DESeq.
+
 ## OBO Parsing Heuristics
 
 See [here](https://github.com/hyginn/Ontoscope/blob/master/phylify/obo-heuristic.md).
+(Summarized update coming soon)
+
+## ontology-explorer
+
+API overview coming soon..For now read [workflow](https://github.com/hyginn/Ontoscope/blob/master/phylify/workflow.r)
 
 ## visNetwork
 
@@ -26,7 +39,14 @@ The code is a *self-executing anonymous function*. Here it is formatted properly
 
 Quite simple and clean, just a little CSS, though it seems visNetwork authors want you to specifiy specific height..
 
+## Plots
+
+Some visNetwork plots as images [here]([workflow](https://github.com/hyginn/Ontoscope/blob/master/phylify/plots).
+TODO: export html plots.
+
 ## ontoCAT
+
+ontoCAT provides methods that can be useful for filtering the ontology.
 
 **Note!** ontoCAT converts `:` into `_` for term IDs. For example,
 `FF:11436-118H5` becomes `FF_11436-118H5`. There already apparently unique

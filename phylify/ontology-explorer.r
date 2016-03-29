@@ -25,7 +25,7 @@
 # v0.4.0
 #   - add propertyTypes to summarizeOBO
 #   - get human OR mouse samples
-#   - getMogrifyReplicasForID(ID) -> character vector 
+#   - getMogrifyReplicasForID(ID) -> character vector
 
 getBioconductorPackage <- function (packageName) {
   source("https://bioconductor.org/biocLite.R")
@@ -171,15 +171,14 @@ getIgraph <- function (obo) {
   return(igraph.from.graphNEL(as(obo, "graphNEL"), name=TRUE, weight=TRUE, unlist.attrs=TRUE))
 }
 
-makeVisNetwork <- function (graph) {
+makeVisNetwork <- function (graph, customLayout="layout_nicely") {
   nodes <- as_data_frame(graph, what="vertices")
   # colnames(nodes) <- c("id")
   nodes <- data.frame(id=nodes$name, label=nodes$name)
 
   edges <- as_data_frame(graph, what="edges")
   visNetwork(nodes, edges, width = "100%") %>%
-    # visIgraphLayout(layout = "layout_as_tree") %>%
-    visIgraphLayout() %>%
+    visIgraphLayout(layout = customLayout) %>%
     visNodes(size=5) %>%
     visEdges(arrows="to")
 }
@@ -225,4 +224,14 @@ getMogrifyReplicasForID <- function (ID) {
   IDs <- df[df$type == "source",]$val
 
   return(as.character(IDs))
+}
+
+filterByGood <- function (G, goods) {
+  set <- as_ids(V(G))
+
+  return(delete_vertices(G, set[!(set %in% goods)]))
+}
+
+filterByBad <- function(G, bad) {
+  return(delete_vertices(G, bad))
 }
