@@ -23,19 +23,48 @@
 # ====================================================================
 # PREP
 # set working directory indicate your own directory
-setwd("C:/Users/Lenovo/Desktop/BCB420/Ontoscope/WEAVE")
+setwd(paste(DEVDIR, "/WEAVE", sep=""))
 
 source("WEAVE-STRING.R") 
 
-setwd("C:/Users/Lenovo/Desktop/BCB420/Ontoscope/Asses")
+setwd(paste(DEVDIR, "/Assess", sep="")) 
 
 # load required data: Transcription factor list, STRGRAPH (for getTFSubgraph()), Gsx score list
 
 TF_List = read.table("Transcription Factor List.txt")
 # read gene scores Gsx TO ADD
 
+load(paste(DEVDIR, "/contrast/sample1_contrast.RData", sep="")) 
+
 # ====================================================================
-#load packages
+#functions
+
+getTFscore <- function(TF, order=1) {
+  
+  #plot subgraph using tf
+  sub_s = getTFSubgraph(tf)
+  #assume that one subgraph is created. Will figure out later for multiple cases
+  sub = sub_s[[1]]
+  #use the subgraph to go through every gene in transcription factor's sphere of influence 
+  
+  
+  for (j in 1:length(V(sub)$name)){
+    #find every individual gene
+    gene = V(sub)$name[j]
+    #acquire gene from Gsx score table
+    Gsx = gsx_fantomCounts_500g_5s$gsx[levels(gsx_fantomCounts_500g_5s$gene)== j]
+    #Find the distance away from TF
+    Lrn = shortest.paths(graph = sub, v = gene, to = TF)[1]
+    #Find the parent of gene distance from TF
+    Orn = length(neighbors(sub, tf, mode = 1))
+    #calculate score
+    Gene_score = Gsx * (1/Lrn) * (1/Orn)
+    
+    #attach the Gene score to subgraph data frame
+    
+  }
+  
+}
 
 
 # ====================================================================
@@ -44,13 +73,14 @@ TF_List = read.table("Transcription Factor List.txt")
    #acquire transcription factor 
    tf = levels(TF_List[,])[i]
    #plot subgraph using tf
-   subgraph = getTFSubgraph(tf)
-   
+   sub_s = getTFSubgraph(tf)
+   #assume that one subgraph is created. Will figure out later for multiple cases
+   sub = sub_s[[1]]
    #use the subgraph to go through every gene in transcription factor's sphere of influence 
    
-   for (j in 1:length(subgraph[,1])){
+   for (j in 1:length(V(sub)$name)){
      #find every individual gene
-     gene = subgraph(,2)[i]
+     gene = V(sub)$name[j]
      #acquire gene from Gsx score table
      Gsx = 1
      #Find the distance away from TF
