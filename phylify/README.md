@@ -41,7 +41,7 @@ Quite simple and clean, just a little CSS, though it seems visNetwork authors wa
 
 ## Plots
 
-Some visNetwork plots as images [here]([workflow](https://github.com/hyginn/Ontoscope/blob/master/phylify/plots).
+Some visNetwork plots as images [here](https://github.com/hyginn/Ontoscope/blob/master/phylify/plots).
 TODO: export html plots.
 
 ## ontoCAT
