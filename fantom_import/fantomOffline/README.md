@@ -1,7 +1,7 @@
 ﻿## fantomOffline
 
 **Important**:
- - the downloaded fantom files must be located in **this** fantomOntology folder ("Ontoscope/fantom_import/fantomOffline")
+ - the downloaded fantom files must be located in **this** fantomOffline folder ("Ontoscope/fantom_import/fantomOffline")
  - you must set your work directory to the "Ontoscope" folder
  - the naming scheme of the downloaded files should follow the naming scheme of the two sample files given
  - The examples given in this README work with the two sample files provided
