@@ -68,7 +68,7 @@ if (!require(tidyr, quietly=TRUE)) {
 
 
 #Load Sample_DB
-fantom_samples <- read.table('fantom_import/Sample_DB.txt')
+fantom_samples <- read.table('Sample_DB.txt')
 
 #THIS SETS THE MODE
 #return_counts <- TRUE returns Counts
@@ -442,7 +442,7 @@ fantomProcess <- function(){
 }
 
 .checkfantomDB <- function(){
-  if (file.exists("fantom_import/Sample_DB.txt")){
+  if (file.exists("Sample_DB.txt")){
     print ('Sample_DB Loaded!')
   } else { stop("Sample_DB not found. 'Ontoscope' should be your working directory and Sample_DB.txt should be in the 'fantom_import' folder")
   }
@@ -487,7 +487,7 @@ fantomProcess <- function(){
   })
 }
 
-+#pre-condition: there is not a column "temp_col" in fantomResults[[i]]
+#pre-condition: there is not a column "temp_col" in fantomResults[[i]]
 .split_col_across_rows <- function(col_name, separator_regex){
   .loop_fantom_list(function(i){
     fantomResults[[i]] <<- fantomResults[[i]] %>% unnest(temp_col = strsplit(fantomResults[[i]][, col_name], separator_regex))
