@@ -88,9 +88,22 @@ load("MARA.RData")
 # needs code here that builds a network for the cell-types we are working with.
 # ....
 
-# using tools from TRRUST_netwoprk to load TRRUST GRN
-# ... then...
-GRNGRAPH <- graph_from_data_frame(edges, directed = TRUE)
+
+# using tools from TRRUST_network to load TRRUST GRN
+#works if ontoscope is the working directory
+#This is the entire TRRUST network with no subsetting
+#Directed from Transcription Factor to Gene
+
+source("./TRRUST_network/TRRUST_network.R")
+trrust <- loadTRRUST()
+setMode(1)
+genes <- trrust[,1]
+trrust_nodes <- getNodes(trrust)
+trrust_edges <- getEdges (trrust)
+trrust_nodes <- getWeights(trrust_nodes,trrust_edges)
+
+TRRUST_GRNGRAPH <- graph_from_data_frame(trrust_edges, directed = TRUE)
+
 
 
 # [END]
