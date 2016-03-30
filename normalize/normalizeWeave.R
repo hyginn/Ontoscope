@@ -165,6 +165,7 @@ src$hgnc_2 <- IDmap[src$cprotein2, "HGNC"]
 # Fast, isn't it? Subsetting FTW
 
 # ==== general cleanup 
+# Rearrange the columns to move the HGNC IDs into the first two columns
 
 src <- src[, c(13,14,1,2,3,4,5,6,7,8,9,10,11,12)]
 
