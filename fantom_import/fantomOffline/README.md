@@ -1,54 +1,66 @@
 ﻿## fantomOffline
 
-Version: **1.0**
-
-Input:
-
-a character/list of fantom Ontology IDs (FF:A-B)
-
-Output:
-
-a fantomResults data.frame
-
-To Do:
-
- - integrate fantomSummarize() to produce a CBX file
- - write a renaming bash script
-
-Important:
-the downloaded fantom files must be located in the 'fantom_files' folder and be properly named to work. Refer to the sample files in that folder
-
+**Important**:
+ - the downloaded fantom files must be located in **this** fantomOntology folder ("Ontoscope/fantom_import/fantomOffline")
+ - you must set your work directory to the "Ontoscope" folder
+ - the naming scheme of the downloaded files should follow the naming scheme of the two sample files given
+ - The examples given in this README work with the two sample files provided
 
 Introduction:
 -------------
-For Large Queries (>20), using an internet based retrieval is slow (1-2 minutes per file). It is recommended to pre-download the files and use the fantomOffline function (6-10 **seconds** per file). Compare given the sample files:
+For Large Queries (>20), using an internet based retrieval is slow (1-2 minutes per file). It is recommended to pre-download the files and use the offline capabilities of the three fantom retrieval functions(fantomKeyword, fantomDirect, fantomOntology)
+
+Normally this command:
 
 ```r
-Preliminary
+fantom_IDs <- c("FF:13663-147C9", "FF:11408-118E4")
+fantomOntology(fantom_IDs)
+```
+
+Will connect to the Fantom Servers and retrieve the relevant counts. However, if you predownload the files and put them in this "fantomOntology" folder, you can run the same command, but set online retrieval to 'FALSE':
+
+
+```r
+fantom_IDs <- c("FF:13663-147C9", "FF:11408-118E4")
+fantomOntology(fantom_IDs, online=FALSE)
+```
+
+This also works for fantomDirect and fantomKeyword:
+
+```r
+fantomDirect("57, 89", online=FALSE)
+```
+
+
+Profiling
+---------
+
+```r
 
 fantom_IDs <- c("FF:13663-147C9", "FF:11408-118E4")
 source("prof_utils.R")
 
 #Slow
 >time(fantomOntology, fantom_IDs)
-[1] "78.86 seconds"
+[1] "80.04 seconds"
 
 #Fast
-time(fantomOffline, fantom_IDs)
-[1] "1.97 seconds"
+time(fantomOntology, fantom_IDs, online = FALSE)
+[1] "1.82 seconds"
 
 ```
 
 Workflow to generate a CBX file
 -------------
 
-1. Transfer all the pre-downloaded fantom files to "Ontoscope/fantom_import/fantomOffline/fantom_files"
-2. Run the script to fix their names
-3. Generate a character/list of your IDs of interest
-4. Run:
+1. Transfer all the pre-downloaded fantom files to "Ontoscope/fantom_import/fantomOffline/"
+2. Generate a character/list of your IDs of interest
+3. Run:
 
 ```r
-fantomOffline(fantom_IDs)
+fantomOntology(fantom_IDs, online=FALSE)
+#Or fantomKeyword Or fantomDirect
+
 
 fantomSummarize(2)
 exportCounts()

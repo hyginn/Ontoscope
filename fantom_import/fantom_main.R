@@ -1,6 +1,6 @@
 # Purpose:   Access the Fantom Database and Extract the Relevant Counts/Annotation for Requested Cells
 # Version:   1.0.0
-# Date:      2016-03-24
+# Date:      2016-03-30
 # Author(s): Dmitry Horodetsky
 #            Dan Litovitz
 #
@@ -8,7 +8,7 @@
 # Output:    list of dataframes
 # Depends:
 #
-# ToDo:      Implement all the other functions (as seen in the wiki)
+# ToDo:      N/A
 # Notes:     
 #
 # V 0.5:     has fantomImport, fantomSearch, fantomList
@@ -38,7 +38,12 @@
 # V 0.9.5    improved code readability/refactoring, can now pass lists/vectors into the module,
 #            fantomSummarize() now takes threshold values
 #
-# V 1.0.0    MAJOR [Will add notes later]
+# V 1.0.0    MAJOR Release
+#               -Offline Mode added to all fantom retrieval functions
+#               -Processing Functions Improved
+#               
+#
+#
 
 #Libraries Install and Load
 if (!require(iterators, quietly=TRUE)) {
@@ -68,7 +73,21 @@ if (!require(tidyr, quietly=TRUE)) {
 
 
 #Load Sample_DB
-fantom_samples <- read.table('Sample_DB.txt')
+
+#Try the 'default' directory load or 'Ontology' directory load
+
+#Shout out to Jonathan Callahan @
+#http://mazamascience.com/WorkingWithData/?p=912
+
+fantom_samples <- tryCatch({
+  read.table('Sample_DB.txt')
+}, error = function(e){
+  read.table('./fantom_import/Sample_DB.txt')
+}, warning = function(w){
+  read.table('./fantom_import/Sample_DB.txt')
+}
+
+)
 
 #THIS SETS THE MODE
 #return_counts <- TRUE returns Counts
@@ -83,8 +102,11 @@ fantomResults <- list()
 #FantomKeyword()
 ####################
 
-fantomKeyword <- function(keywords){
-  .fantomImport(keywords, function(fantom_query){ #Prepare the Input for the Main Function
+fantomKeyword <- function(keywords, online){
+  if (missing(online)){
+    online <- TRUE
+  }
+  .fantomImport(online, keywords, function(fantom_query){ #Prepare the Input for the Main Function
     
     final_FAN_list <- list()
     
@@ -103,8 +125,12 @@ fantomKeyword <- function(keywords){
 #fantomDirect()
 #########################
 
-fantomDirect <- function(fantom_access_numbers) {
-  .fantomImport(fantom_access_numbers, function(fantom_query){ #Prepare the Input for the Main Function
+fantomDirect <- function(fantom_access_numbers, online) {
+  if (missing(online)){
+    online <- TRUE
+  }
+  
+  .fantomImport(online,fantom_access_numbers, function(fantom_query){ #Prepare the Input for the Main Function
     
     user_query <- strtoi(fantom_query)
     
@@ -121,8 +147,12 @@ fantomDirect <- function(fantom_access_numbers) {
 #fantomOntology()
 ################
 
-fantomOntology <- function(ontology_IDs){
-  .fantomImport(ontology_IDs, function(fantom_query){ #Prepare the Input for the Main Function  
+fantomOntology <- function(ontology_IDs, online){
+  if (missing(online)){
+    online <- TRUE
+  }
+  
+  .fantomImport(online, ontology_IDs, function(fantom_query){ #Prepare the Input for the Main Function  
     
     list_of_IDs <- list()
     for (i in fantom_query)
@@ -188,8 +218,11 @@ fantomSummarize <- function(threshold){
     threshold <- NA
   }
   
+  
   message("Filtering Relevant Results. This step takes awhile ...")
-  .deleteEmpty_old()
+  
+  IDENTIFIERS = c("entrezgene_id", "hgnc_id", "uniprot_id")
+  deleteEmpty(IDENTIFIERS)
   
   fantomCounts <<- list()
   
@@ -334,37 +367,6 @@ fantomProcess <- function(){
   fixAnnotation(ANNOTATION_COL)
 }
 
-########
-#OLD Processing Functions
-########
-
-#Old functions are used until the bugs with the newer ones are fixed
-#Will be DELETED once the new ones are good
-
-
-.loop_fantom_list_old <- function(call_func){
-  if(length(fantomResults) < 1)
-    stop("action skipped: fantomResults cannot be empty")
-  
-  IDENTIFIERS = c("entrezgene_id", "hgnc_id", "uniprot_id")
-  ID_KEY_VALUE_LINK = ":"
-  for(loop_index in 1:length(fantomResults))
-    call_func(loop_index, IDENTIFIERS, ID_KEY_VALUE_LINK)
-}
-
-.deleteEmpty_old <- function(){
-  .loop_fantom_list_old(function(i, IDENTIFIERS, ID_KEY_VALUE_LINK){
-    fantomResults[[i]] <<- fantomResults[[i]][apply(fantomResults[[i]][, IDENTIFIERS], 1, function(x){length(grep("[[:alnum:]]", x)) > 0}), ]
-    rownames(fantomResults[[i]]) <<- NULL
-  })
-}
-
-
-
-
-
-
-
 ##########################
 #INTERNAL HELPER FUNCTIONS
 ##########################
@@ -394,7 +396,7 @@ fantomProcess <- function(){
 
 #Most other functions just prepare the input for this function
 
-.fantomImport <- function(raw_fantom_query, get_fantom_access_numbers) {
+.fantomImport <- function(online, raw_fantom_query, get_fantom_access_numbers) {
   #Check Whether Samples_DB is Loaded (in the working Directory)
   .checkfantomDB()
   
@@ -416,13 +418,39 @@ fantomProcess <- function(){
     current_count <- nextElem(iterator_counter)
     message((paste("Loading Results from Fantom Access Number",i,
                    "(",current_count,"/",length_of_FANs,")","...")))
-    fantomResults[[current_count]] <<- 
-    {
-      fantom_df <- fread(
-        paste0(URL1,as.character(i),URL2),
-        sep="\t", header=TRUE, stringsAsFactors = FALSE, showProgress = FALSE, data.table = FALSE)
+    
+    #The default online mode
+    if (online == TRUE){
+      fantomResults[[current_count]] <<- 
+      {
+        fantom_df <- fread(
+          paste0(URL1,as.character(i),URL2),
+          sep="\t", header=TRUE, stringsAsFactors = FALSE, showProgress = FALSE, data.table = FALSE)
+      }
+      message((paste("Results from Fantom Access Number",i, "Loaded!")))
     }
-    message((paste("Results from Fantom Access Number",i, "Loaded!")))
+    
+    #offline mode
+    if (online == FALSE){
+      file_directory <- "fantom_import/fantomOffline/"
+      file_prefix <- "?c=0&c=1&c=4&c=5&c=6&c="
+      file_suffix <- "&filename=hg19.cage_peak_phase1and2combined_counts_ann_decoded.osc.txt.gz"
+      file_to_import <- paste0(file_directory,file_prefix,i,file_suffix)
+      
+      if (file.exists(file_to_import)){
+        fantomResults[[current_count]] <<- 
+        {
+          fantom_df <- fread(file_to_import,
+                             sep="\t", header=TRUE, stringsAsFactors = FALSE, showProgress = FALSE, data.table = FALSE)
+        }
+        message((paste("Results from Fantom Access Number",i, "Loaded!")))
+      } else {
+        message(paste("WARNING: file",file_to_import,"does not exist"))
+        message("#####################")
+        message("Reminder: OFFLINE functionality ONLY works if 'ontoscope' is set as the work directory and your offline files are in 'Ontoscope/fantom_import/fantomOffline'")
+        message("#####################")
+        }
+      }
   }
   message(paste("All results have been loaded into fantomResults")) 
   
@@ -442,7 +470,7 @@ fantomProcess <- function(){
 }
 
 .checkfantomDB <- function(){
-  if (file.exists("Sample_DB.txt")){
+  if (exists("fantom_samples")){
     print ('Sample_DB Loaded!')
   } else { stop("Sample_DB not found. 'Ontoscope' should be your working directory and Sample_DB.txt should be in the 'fantom_import' folder")
   }

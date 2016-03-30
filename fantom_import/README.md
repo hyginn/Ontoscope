@@ -1,6 +1,6 @@
 ﻿## Fantom Import Module
 
-Version: **0.9.5** 
+Version: **1.0.0 Major** 
 
 
 
@@ -9,21 +9,22 @@ Version: **0.9.5**
 
 **Recent Changes:**
 
- - Code Refactored. Module is now more friendly with other modules (can accept lists as input)
- - fantomSummarize() can now take a threshold value as an argument. Default is no threshold
+ - Offline Retrieval is now supported (ctrl+f "Offline Retrieval")
+ - Fantom Processing Functions Expanded
 
 **Features:**
 
  - Import from fantomKeyword(), fantomOntology(), fantomDirect()
+ - Retrieve data Offline or Online
  - Seach using fantomSearch() and fantomList()
  - Return RAW or Normalized Counts
  - Summarize results with fantomSummarize()
- - return transcription factor coding genes with filterTFs()
+ - Return transcription factor coding genes with filterTFs()
  - Export your data as .RData or a .csv
 
 **To Do:**
 
- - Dataframe Processing
+ - N/A
 
 
 **Bugs**
@@ -39,7 +40,7 @@ Using fantomKeyword(), fantomOntology() or fantomDirect() generates a list of da
 Instructions:
 -------------
 
-Make sure you have transfered the "Sample_DB.txt" to your working directory, not the default fantom_import directory. You also need to have a working Internet connection
+Make sure you have transfered the "Sample_DB.txt" to your working directory. You also need to have a working Internet connection
 
 Workflow
 -------------
@@ -237,5 +238,27 @@ fantomList
 >fantomList()
 ```
 Returns all Sample, Fantom Ontology and Fantom Access Numbers available in the Fantom Database
+
+Offline Retrieval
+----------
+
+All 3 retrieval functions now support offline retrieval if you pre-download the files and put them in the fantomOffline folder. To access offline functionality you have to set online to FALSE
+
+
+```
+#Normal 'ONLINE' retrieval
+
+fantomKeyword(keywords)
+fantomOntology(fantom_ids)
+fantomDirect(ids)
+
+#OFFLINE retrieval
+fantomKeyword(keywords, online=FALSE)
+fantomOntology(fantom_ids, online=FALSE)
+fantomDirect(ids, online=FALSE)
+
+``
+
+refer to the fantomOffline folder for more details
 
 
