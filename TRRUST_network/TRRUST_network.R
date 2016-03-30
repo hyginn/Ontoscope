@@ -11,7 +11,7 @@
 #             1.0.0 - added PMID labeling, added action (Activation, Repression, Unknown) labeling
 #                     added a "freeze" graphing mode for large graphs        
 #
-#             
+#                            
 
 
 
@@ -38,8 +38,10 @@ if (!require(visNetwork, quietly=TRUE)) {
 ####
 #Check whether the 'trrust_rawdata.txt' file exists in Work Directory
 ####
+
+#Preparing this check for "Load" Mode
 .checkTRRUST <- function(){
-  if (file.exists("trrust_rawdata.txt") == FALSE){
+  if ((file.exists("trrust_rawdata.txt") == FALSE) & (file.exists("./TRRUST_network/trrust_rawdata.txt") == FALSE)){
     message("The 'trrust_rawdata.txt' file is missing from your Work Directory ") & stop()
   }
 }
@@ -49,8 +51,23 @@ if (!require(visNetwork, quietly=TRUE)) {
 #Function to Load the TRRUST network into a (user-defined) dataframe
 ####
 
+#This load works with either the function's working directory or the overall 'Ontoscope' Working Directory
+
+#Shout out to Jonathan Callahan @
+#http://mazamascience.com/WorkingWithData/?p=912
+
+
+
 loadTRRUST <- function(){
-  fread("trrust_rawdata.txt", header=FALSE, stringsAsFactors = FALSE, showProgress = FALSE, data.table = FALSE)
+  tryCatch({
+    fread("trrust_rawdata.txt", header=FALSE, stringsAsFactors = FALSE, showProgress = FALSE, data.table = FALSE)
+  }, error = function(e){
+    fread("./TRRUST_network/trrust_rawdata.txt", header=FALSE, stringsAsFactors = FALSE, showProgress = FALSE, data.table = FALSE)
+  }, warning = function(w){
+    fread("./TRRUST_network/trrust_rawdata.txt", header=FALSE, stringsAsFactors = FALSE, showProgress = FALSE, data.table = FALSE)
+  }
+  
+  )
 }
 
 ####
