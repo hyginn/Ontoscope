@@ -314,10 +314,10 @@ fixAnnotation <- function(annotation_column){
 }
 
 fixDescription <- function(description_column){
+  .split_col_across_rows(description_column, ",")
   .split_column(description_column, "@", c("Peak", "Gene"))
   .remove_pattern("p", "Peak")
   .loop_fantom_list(function(i){
-    fantomResults[[i]] <<- fantomResults[[i]] %>% unnest(short_description = strsplit(short_description, ","))
     fantomResults[[i]][apply(fantomResults[[i]][, "Peak", drop = FALSE], 1, function(x){length(grep("^\\s*$", x)) > 0}), c("Peak", "Gene")] <<- c(NA, NA)
   })
 }
@@ -325,13 +325,13 @@ fixDescription <- function(description_column){
 fantomProcess <- function(){
   IDENTIFIERS = c("entrezgene_id", "hgnc_id", "uniprot_id")
   ID_KEY_VALUE_LINK = ":"
-  ANNOTATION_COL = "00Annotation"
+  ANNOTATION_COL = "X00Annotation"
   DESCRIPTION_COL = "short_description"
 
   deleteEmpty(IDENTIFIERS)
-  fixAnnotation(ANNOTATION_COL)
-  fixDescription(DESCRIPTION_COL)
   fixID(IDENTIFIERS, ID_KEY_VALUE_LINK)
+  fixDescription(DESCRIPTION_COL)
+  fixAnnotation(ANNOTATION_COL)
 }
 
 ########
@@ -484,6 +484,16 @@ fantomProcess <- function(){
 .split_column <- function(col_name, separator_regex, new_col_names){
   .loop_fantom_list(function(i){
     fantomResults[[i]] <<- separate_(fantomResults[[i]], col_name, new_col_names, separator_regex)
+  })
+}
+
++#pre-condition: there is not a column "temp_col" in fantomResults[[i]]
+.split_col_across_rows <- function(col_name, separator_regex){
+  .loop_fantom_list(function(i){
+    fantomResults[[i]] <<- fantomResults[[i]] %>% unnest(temp_col = strsplit(fantomResults[[i]][, col_name], separator_regex))
+    fantomResults[[i]] <<- data.frame(fantomResults[[i]])
+    set(fantomResults[[i]], j = col_name, value = NULL)
+    colnames(fantomResults[[i]])[colnames(fantomResults[[i]]) == "temp_col"] <<- col_name
   })
 }
 
