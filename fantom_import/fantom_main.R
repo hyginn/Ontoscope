@@ -1,6 +1,6 @@
 # Purpose:   Access the Fantom Database and Extract the Relevant Counts/Annotation for Requested Cells
-# Version:   1.0.0
-# Date:      2016-03-30
+# Version:   1.0.1
+# Date:      2016-04-01
 # Author(s): Dmitry Horodetsky
 #            Dan Litovitz
 #
@@ -42,7 +42,7 @@
 #               -Offline Mode added to all fantom retrieval functions
 #               -Processing Functions Improved
 #               
-#
+# V 1.0.1   Reverse Search Implemented (Given FF:A-B, return name)
 #
 
 #Libraries Install and Load
@@ -186,12 +186,30 @@ fantomOntology <- function(ontology_IDs, online){
 #fantomSearch()
 ###############
 
-fantomSearch <- function(x){
+fantomSearch <- function(query, type){
   #Check Whether Samples_DB is Loaded (in the working Directory)
-  .checkfantomDB()
+  #.checkfantomDB()
   
-  query_results <- fantom_samples[ grep(x, fantom_samples$V1, ignore.case = TRUE) , ]
-  return (query_results)
+  if (missing(type)){
+    type <- TRUE
+  }
+  
+  if (type == TRUE){
+    query_results <- fantom_samples[ grep(query, fantom_samples$V1, ignore.case = TRUE) , ]
+    return (query_results)
+  }
+  
+  if (type == FALSE){
+    indexes <- c(1:length(query))
+    results <- c()
+    
+    for (i in indexes){
+      query_results <- fantom_samples[grep(query[i], fantom_samples$FANTOM.5.Ontology.ID), ]
+      results[i] <- c(as.character(query_results[[1]]))
+    }
+    return (results)
+  }
+
   
 }
 

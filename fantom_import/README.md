@@ -1,6 +1,6 @@
 ﻿## Fantom Import Module
 
-Version: **1.0.0 Major** 
+Version: **1.0.1** 
 
 
 
@@ -11,6 +11,7 @@ Version: **1.0.0 Major**
 
  - Offline Retrieval is now supported (ctrl+f "Offline Retrieval")
  - Fantom Processing Functions Expanded
+ - fantomSearch() can now return "keywords" given FantomID(s) input
 
 **Features:**
 
@@ -230,6 +231,26 @@ If you want to explore the FANTOM 5 database, but not load any samples, this is 
 >fantomSearch("CD8")
 ```
 The output will give you the entries in the Fantom Database, along with the FANTOM access number and FANTOM Ontology. You can use this function to find relevant Fantom Access Numbers.
+
+If you have a Fantom ID (eg FF:11402-118D7) and you want to return the real "name" then just pass the FALSE argument:
+
+```
+> fantomSearch("FF:11402-118D7",FALSE)
+[1] "Mesothelial Cells, donor3"
+```
+
+It also works if you have a character/list of IDs:
+
+```
+list_of_ids <- c("FF:10696-109G3", "FF:10028-101E1", "FF:10191-103E2", "FF:10057-101H3")
+>fantomSearch(list_of_ids,FALSE)
+[1] "mesodermal tumor cell line:HIRS-BM"
+[2] "thyroid, adult, pool1"
+[3] "vein, adult"
+[4] "umbilical cord, fetal, donor1"
+```
+
+
 
 fantomList
 ----------
