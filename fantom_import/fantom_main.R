@@ -236,12 +236,6 @@ fantomSummarize <- function(threshold){
     threshold <- NA
   }
   
-  
-  message("Filtering Relevant Results. This step takes awhile ...")
-  
-  IDENTIFIERS = c("entrezgene_id", "hgnc_id", "uniprot_id")
-  deleteEmpty(IDENTIFIERS)
-  
   fantomCounts <<- list()
   
   #Prepare list
@@ -259,23 +253,21 @@ fantomSummarize <- function(threshold){
   
   fantomCounts <<- data.frame(fantomCounts)
   
+  message("Filtering Relevant Results. This step takes awhile ...")
+  fantomCounts <<- .keep_or_delete(fantomCounts, "short_description", "p@chr", keep_NOTdelete = FALSE)
+
   message("Preparing Normalized Gene Names ...")
-  
   #Shout out to RoyalTS @
   #http://stackoverflow.com/a/22656776
   fantomCounts[1] <<- apply(fantomCounts[1],2,function(x) gsub(".+@",'',x))
-  
   message ("All Genes Normalized!")
   
   message("Fixing Duplicates ...")
-  
-  #Shout out to Ben Bolker @
-  #http://stackoverflow.com/a/10180178
-  
-  fantomCounts <<- ddply(fantomCounts,"short_description",numcolwise(sum))
+  colnames(fantomCounts)[2] <<- "Count"
+  fantomCounts <<- data.table(fantomCounts)[,sum(Count),by=short_description]
+  fantomCounts <<- data.frame(fantomCounts)
   
   message("Applying Threshold ...")
-  
   #Shout out to deseq2 manual and 
   #akrun @ http://stackoverflow.com/a/30967066
   fantomCounts <<- fantomCounts[!rowSums(fantomCounts <= (threshold-1), 2:ncol(fantomCounts)),]
@@ -350,8 +342,7 @@ filterTFs <- function(){
 
 deleteEmpty <- function(identifiers){
   .loop_fantom_list(function(i){
-    fantomResults[[i]] <<- fantomResults[[i]][apply(fantomResults[[i]][, identifiers, drop = FALSE], 1, function(x){length(grep("[[:alnum:]]", x)) > 0}), ]
-    rownames(fantomResults[[i]]) <<- NULL
+    fantomResults[[i]] <<- .keep_or_delete(fantomResults[[i]], identifiers, "[[:alnum:]]", keep_NOTdelete = TRUE)
   })
 }
 
@@ -550,6 +541,11 @@ fantomProcess <- function(){
   return(vector_out[vector_out != ""])
 }
 
+.keep_or_delete <- function(dataframe, columns, regex_pattern, keep_NOTdelete){
+  dataframe <- dataframe[apply(dataframe[, columns, drop = FALSE], 1, function(x){xor(keep_NOTdelete, length(grep(regex_pattern, x)) == 0)}), ]
+  rownames(dataframe) <- NULL
+  return(dataframe)
+}
 
 
 
