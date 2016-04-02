@@ -1,6 +1,6 @@
 ## Contrast Module
 
-Version: **0.3**
+Version: **0.1**
 
 
 **Features:**
@@ -9,12 +9,12 @@ Version: **0.3**
  - Runs DESeq2 to calculate differential expressions
  - Return Gsx score (s = sample ; x = gene)
  
+ Note : Current version contains function to perform analysis on one sample. 
 
 **To Do:**
 
  - Prepare input FANTOM gene sample expression file in specific format (sample.csv) 
  - Use the sample1_contrast.RData to load the sample files 
- - To run, source the contrast.R and use function "contrast(dataframename,n)" to run DESeq2. Where n is the nth first columns of dataframe (raw count) having source/target samples. The function takes 1st nth columns as source/target and the rest as background. 
 
 Introduction:
 -------------
@@ -30,7 +30,7 @@ Instructions:
  Use the following command to load the sample file. 
  colData <- read.csv("coldata.csv", row.names=1, header=T)
 -Load the file and run to creat the function- contrast_<latestversion>
--Run using contrast(dataframename,n)
+-Run using contrast_<latestversion>(<filename>)
 
 NOTEBOOK:
 ----------
@@ -54,14 +54,3 @@ Other data-frames:
 
 gsx_fantomCounts_10Kg_6s : Gsx score corresponding to the file
 gsx_fantomCounts_500g_5s : Gsx score corresponding to the file  
-
-
-
-2-April-2016
-
- - Inculded parameter to specify 1st nth columns as source/targets and the rest are automatically taken as background. 
- - Output dataframe type (stringsAsFactors = F) done
- - Fucntion name is now "contrast"
-
-
-Please email me at kartikay.chadha2011@gmail.com for any questions : )
