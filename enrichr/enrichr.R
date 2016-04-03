@@ -106,9 +106,16 @@ GetFeatures <- function(input, descri){
 }
 
 # ====  TESTS  =======================================================
+# === quantitative set
 
+input <- c("Nsun3", "0.2","Polrmt", "0.4","Nlrx1","0.6", "Sfxn5","0.9",
+           "Zc3h12c", "0.8","Slc25a39", "0.3","Arsg", "0.6","Defb29","0.35",
+           "Ndufb6", "0.6","Zfand1","0.67788", "Tmem77","0.45")
+GetFeatures(input, "test-quant")
 
+# === regular set 
 input <- c("Nsun3", "Polrmt", "Nlrx1", "Sfxn5",
            "Zc3h12c", "Slc25a39", "Arsg", "Defb29",
            "Ndufb6", "Zfand1", "Tmem77")
-GetFeatures(input, "testv4")
+GetFeatures(input, "test-reg")
+
