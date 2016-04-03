@@ -1,8 +1,15 @@
 # Example workflow using ontology-explorer.r
 
+# BS> Missing author etc...
+# BS> Not clear what the purpose is: what are the parameters to
+# BS> create what (kind of) object? Should the output be
+# BS> saved? Loaded later (where)? Why is this necessary? What
+# BS> are the use cases ... etc. etc.
+
 # Tools for exploring (via subsetting) ontology
 source("ontology-explorer.r")
 
+# BS> Missing comment: what is this file?
 FFP2 <- "ff-phase2-140729.obo"
 
 # get an OBOCollection class object
@@ -16,6 +23,10 @@ summarizeOBO(fantom, head=TRUE, n=10L)
 # The idea is that anything relevant can be pulled out of the summary,
 # like oboSummary$termIDs for example
 fantomSummary <- summarizeOBO(fantom)
+
+
+# BS> I don't get what's happening below. Whay one or the other? What
+# BS> are the use cases? What are the options? How does one choose?
 
 # We can use the getTermsMatched function to grab IDs matching a regex
 getTermsMatched(fantom, "^EFO")
@@ -80,8 +91,15 @@ G <- getIgraph(fantom)
 
 # COdat is a filtered version of G
 
+# BS> Not sure this should happen here, rather than filtering for valid nodes
+# BS> and edges before the graph is built ...
+
 # We can first try taking only the DESeqable IDs, but this gives 0 edges
 COdat <- filterByGood(G, DESeqable)
+
+
+# BS> What does makeVisNetwork() return? Or do?
+# BS> (Not documented in your code.)
 makeVisNetwork(COdat)
 
 # Taking all FFNums and FFDashes
@@ -136,3 +154,6 @@ makeDashesBg <- function(G, FFID) {
 }
 
 makeDashesBg(COdat, "FF:0000592")
+
+
+# [End]

@@ -27,13 +27,18 @@
 #   - get human OR mouse samples
 #   - getMogrifyReplicasForID(ID) -> character vector
 
+# BS> Ok - but biocLite really only needs to be sourced once per session ...
 getBioconductorPackage <- function (packageName) {
   source("https://bioconductor.org/biocLite.R")
   biocLite(packageName)
 }
 
 # === Packages ===
+
+# BS> Missing comment: Why are these packages installed?What functions do they provide?
+
 # Gene set enrichment data structures and methods
+# BS> Especially here: this provides getOBOCollection. I would have looked for it in ontoCAT
 if (!require(GSEABase, quietly=TRUE)) getBioconductorPackage("GSEABase")
 
 # basic operations with ontologies
@@ -66,6 +71,9 @@ IS_A <- "is_a"
 getOBO <- function (source) {
   if (typeof(source) != CHARACTER) {
     return("Please provide an atomic character: getOBO(<string>)")
+# BS> I think it would be better to treat this as an exception, i.e. stop()
+# BS> with appropriate error message. 
+
   }
 
   return(getOBOCollection(source))
@@ -74,6 +82,13 @@ getOBO <- function (source) {
 # notOBOErr() -> string
 # just to avoid repeat error messages
 notOBOErr <- function() { return("Please pass in a valid OBOCollection") }
+
+# BS> Generally: structure your error messages as: expected..., got..., disposition (usually: Aborting.). 
+
+# BS> Defensive programming would not be required for many of these. getOBO() should
+# BS> confirm success and since all consuming functions are your own, and don't
+# BS> you can make stringer assumptions about imput validity.
+
 
 # Some wrappers around slots just to make code more readable
 getOBOStanzas <- function (obo) {
@@ -235,3 +250,6 @@ filterByGood <- function (G, goods) {
 filterByBad <- function(G, bad) {
   return(delete_vertices(G, bad))
 }
+
+
+# [END]
