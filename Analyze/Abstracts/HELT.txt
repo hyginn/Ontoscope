@@ -1,0 +1,2131 @@
+
+61. Conf Proc IEEE Eng Med Biol Soc. 2006;1:6233-6.
+
+Instrumentation system upgrade supports mobile personalized healthcare delivery.
+
+Ellingson RM(1), Helt WJ, Kelt PV, Fausti SA.
+
+Author information: 
+(1)Nat. Center for Rehabilitative Auditory Res., Portland, OR 97207, USA.
+Roger.Ellingson@med.va.gov
+
+Clinicians and patients need mobile tools to detect ototoxic change early and
+prevent hearing loss. We report on the development of an upgrade of our existing 
+desktop-based clinical-audiological instrumentation into a mobile instrument
+platform which efficiently supports personalized ototoxicity monitoring on the
+hospital wards as well as clinic by a trained clinician. Our new wireless-enabled
+system also serves as the instrumentation platform for the next phase of our work
+which is remote healthcare delivery with patient-guided at-home ototoxicity
+monitoring using an evidence-based individualized SRO protocol.
+
+PMID: 17945947  [PubMed - indexed for MEDLINE]
+
+
+62. Phys Biol. 2007 May 18;4(2):R1-17.
+
+Oscillations and temporal signalling in cells.
+
+Tiana G(1), Krishna S, Pigolotti S, Jensen MH, Sneppen K.
+
+Author information: 
+(1)Department of Physics, University of Milano and INFN, Milano, Italy.
+
+The development of new techniques to quantitatively measure gene expression in
+cells has shed light on a number of systems that display oscillations in protein 
+concentration. Here we review the different mechanisms which can produce
+oscillations in gene expression or protein concentration using a framework of
+simple mathematical models. We focus on three eukaryotic genetic regulatory
+networks which show 'ultradian' oscillations, with a time period of the order of 
+hours, and involve, respectively, proteins important for development (Hes1),
+apoptosis (p53) and immune response (NF-kappaB). We argue that underlying all
+three is a common design consisting of a negative feedback loop with time delay
+which is responsible for the oscillatory behaviour.
+
+PMID: 17664651  [PubMed - indexed for MEDLINE]
+
+
+63. J Rehabil Res Dev. 2002 Sep-Oct;39(5):567-74.
+
+An efficient test protocol for identification of a limited, sensitive frequency
+test range for early detection of ototoxicity.
+
+Vaughan NE(1), Fausti SA, Chelius S, Phillips D, Helt W, Henry JA.
+
+Author information: 
+(1)Department of Veterans Affairs, Rehabilitation Research and Development
+National Center for Rehabilitative Auditory Research, Portland Veterans Affairs
+Medical Center, Portland, OR 97207, USA. vaughann@ohsu.edu
+
+A primary focus of research at the National Center for Rehabilitative Auditory
+Research (NCRAR) has been to develop methodology for rapid and efficient early
+detection of ototoxicity. It has been shown that an individualized, limited
+frequency range can be identified, which is sensitive to early ototoxic changes
+in the auditory system. In this study, a rapid identification protocol for
+identifying the uppermost target frequency within this sensitive range of
+ototoxicity (SRO) was investigated. In 36 of 42 ears, the target frequency found 
+with the rapid identification protocol was the same as that found with the
+full-frequency baseline testing. Where differences occurred, target frequencies
+obtained by the two methods did not differ by more than one-half octave. This
+rapid identification protocol results in considerable time savings in ototoxicity
+monitoring, which will result in the capability to include more patients in a
+monitoring program.
+
+PMID: 17642021  [PubMed - indexed for MEDLINE]
+
+
+64. Int J Oncol. 2007 Aug;31(2):461-6.
+
+Integrative genomic analyses on HES/HEY family: Notch-independent HES1, HES3
+transcription in undifferentiated ES cells, and Notch-dependent HES1, HES5, HEY1,
+HEY2, HEYL transcription in fetal tissues, adult tissues, or cancer.
+
+Katoh M(1), Katoh M.
+
+Author information: 
+(1)M&M Medical BioInformatics, Hongo 113-0033, Japan. mkatoh-kkr@umin.ac.jp
+
+Notch signaling pathway maintains stem cells through transcriptional activation
+of HES/HEY family members to repress tissue-specific transcription factors. Here,
+comparative integromic analyses on HES/HEY family members were carried out. HES3 
+gene encodes two isoforms due to alternative promoters. Complete coding sequence 
+of HES3 variant 2 was determined by curating CX755241.1 EST. Refined phylogenetic
+analysis using HES3 variant 2 instead of variant 1 revealed that mammalian bHLH
+transcription factors with Orange domain were grouped into HES subfamily (HES1,
+HES2, HES3, HES4, HES5, HES6, HES7) and HEY subfamily (HEY1, HEY2, HEYL,
+HESL/HELT, DEC1/BHLHB2, DEC2/BHLHB3). Eight amino-acid residues were added to the
+C-terminal WRPW motif in human HES3 due to lineage specific T to G nucleotide
+change at stop codon of chimpanzee, rat, and mouse HES3 orthologs. HES1 and HES3 
+were expressed in undifferentiated embryonic stem (ES) cells. HES1 was also
+expressed in fetal tissues, and regenerating liver. HES1, HEY1 and HEY2 were
+expressed in endothelial cells. HES1, HES4 and HES6 were expressed in gastric
+cancer, HES1 and DEC1 in pancreatic cancer, HES1, HES2, HES4, HES6 and DEC2 in
+colorectal cancer. HES6 was also expressed in other tumors, such as brain tumors,
+melanoma, small cell lung cancer, retinoblastoma, ovarian cancer, and breast
+cancer. Double NANOG-binding sites, CSL/RBPSUH-binding site and TATA-box in HES1 
+promoter, NANOG-, SOX2-, POU5F1/OCT3/OCT4-binding sites and TATA-box in HES3
+promoter, double CSL-binding sites in HES5 promoter, SOX2-, POU-binding sites and
+TATA-box in HES6 promoter, and CSL-binding site in HEY1, HEY2 and HEYL promoters 
+were evolutionarily conserved. However, double CSL-binding sites in mouse Hes7
+promoter were not conserved in human HES7 promoter. Together these facts indicate
+that HES1 and HES3 were target genes of the ES cell-specific network of
+transcription factors, and that HES1, HES5, HEY1, HEY2 and HEYL were target genes
+of Notch signaling pathway.
+
+PMID: 17611704  [PubMed - indexed for MEDLINE]
+
+
+65. Development. 2007 Aug;134(15):2783-93. Epub 2007 Jul 4.
+
+Helt determines GABAergic over glutamatergic neuronal fate by repressing Ngn
+genes in the developing mesencephalon.
+
+Nakatani T(1), Minaki Y, Kumai M, Ono Y.
+
+Author information: 
+(1)KAN Research Institute Inc., KobeMI R&D Center, 6-7-3 Minatojima-minamimachi, 
+Chuo-ku, Kobe, Hyogo 650-0047, Japan.
+
+The mechanism underlying the determination of neurotransmitter phenotype in the
+developing mesencephalon, particularly GABAergic versus glutamatergic fate,
+remains largely unknown. Here, we show in mice that the basic helix-loop-helix
+transcriptional repressor gene Helt (also known as Megane and Heslike) functions 
+as a selector gene that determines GABAergic over glutamatergic fate in the
+mesencephalon. Helt was coincidently expressed in all the progenitor domains for 
+mesencephalic GABAergic neurons. In the mesencephalon of Helt-deficient embryos, 
+GABAergic neurons were mostly absent and glutamatergic neurons emerged instead.
+Conversely, ectopically expressed Helt suppressed glutamatergic formation and
+induced GABAergic neurogenesis. However, the Helt mutants showed normal
+progenitor domain formation. In consequence, postmitotic expression of the
+homeodomain factor Nkx2.2, which was specifically expressed by GABAergic
+populations in wild-type embryos, was maintained despite the transmitter
+phenotype conversion from GABAergic to glutamatergic in the Helt mutants,
+suggesting that Helt is not involved in neuronal identity specification.
+Furthermore, we identified proneural genes Ngn1 and Ngn2, which were selectively 
+expressed in glutamatergic progenitors in the developing mesencephalon and had
+the ability to confer the glutamatergic fate, as downstream target genes of Helt.
+These results suggest that Helt determines GABAergic over glutamatergic fate, at 
+least in part, by repressing Ngn (Neurog) genes and that basic helix-loop-helix
+transcription factor networks involving Helt and Ngns are commonly used in the
+mesencephalon for determination of the GABAergic versus glutamatergic transmitter
+phenotype.
+
+PMID: 17611227  [PubMed - indexed for MEDLINE]
+
+
+66. Science. 2007 Jun 8;316(5830):1484-8. Epub 2007 May 17.
+
+RNA maps reveal new RNA classes and a possible function for pervasive
+transcription.
+
+Kapranov P(1), Cheng J, Dike S, Nix DA, Duttagupta R, Willingham AT, Stadler PF, 
+Hertel J, Hackermüller J, Hofacker IL, Bell I, Cheung E, Drenkow J, Dumais E,
+Patel S, Helt G, Ganesh M, Ghosh S, Piccolboni A, Sementchenko V, Tammana H,
+Gingeras TR.
+
+Author information: 
+(1)Affymetrix Laboratory, Affymetrix, Inc., 3420 Central Expressway, Santa Clara,
+CA, 95051, USA.
+
+Significant fractions of eukaryotic genomes give rise to RNA, much of which is
+unannotated and has reduced protein-coding potential. The genomic origins and the
+associations of human nuclear and cytosolic polyadenylated RNAs longer than 200
+nucleotides (nt) and whole-cell RNAs less than 200 nt were investigated in this
+genome-wide study. Subcellular addresses for nucleotides present in detected RNAs
+were assigned, and their potential processing into short RNAs was investigated.
+Taken together, these observations suggest a novel role for some unannotated RNAs
+as primary transcripts for the production of short RNAs. Three potentially
+functional classes of RNAs have been identified, two of which are syntenically
+conserved and correlate with the expression state of protein-coding genes. These 
+data support a highly interleaved organization of the human transcriptome.
+
+PMID: 17510325  [PubMed - indexed for MEDLINE]
+
+
+67. Cold Spring Harb Symp Quant Biol. 2006;71:101-10.
+
+Transcriptional landscape of the human and fly genomes: nonlinear and
+multifunctional modular model of transcriptomes.
+
+Willingham AT(1), Dike S, Cheng J, Manak JR, Bell I, Cheung E, Drenkow J, Dumais 
+E, Duttagupta R, Ganesh M, Ghosh S, Helt G, Nix D, Piccolboni A, Sementchenko V, 
+Tammana H, Kapranov P; ENCODE Genes And Transcripts Group, Gingeras TR.
+
+Author information: 
+(1)Affymetrix, Inc., Santa Clara, California 95051, USA.
+
+Regions of the genome not coding for proteins or not involved in cis-acting
+regulatory activities are frequently viewed as lacking in functional value.
+However, a number of recent large-scale studies have revealed significant
+regulated transcription of unannotated portions of a variety of plant and animal 
+genomes, allowing a new appreciation of the widespread transcription of large
+portions of the genome. High-resolution mapping of the sites of transcription of 
+the human and fly genomes has provided an alternative picture of the extent and
+organization of transcription and has offered insights for biological functions
+of some of the newly identified unannotated transcripts. Considerable portions of
+the unannotated transcription observed are developmental or cell-type-specific
+parts of protein-coding transcripts, often serving as novel, alternative 5'
+transcriptional start sites. These distal 5' portions are often situated at
+significant distances from the annotated gene and alternatively join with or
+ignore portions of other intervening genes to comprise novel unannotated
+protein-coding transcripts. These data support an interlaced model of the genome 
+in which many regions serve multifunctional purposes and are highly modular in
+their utilization. This model illustrates the underappreciated organizational
+complexity of the genome and one of the functional roles of transcription from
+unannotated portions of the genome.
+
+PMID: 17480199  [PubMed - indexed for MEDLINE]
+
+
+68. Clin Child Fam Psychol Rev. 2007 Sep;10(3):253-74.
+
+Theoretical models of affectionate versus affectionless control in anxious
+families: a critical examination based on observations of parent-child
+interactions.
+
+DiBartolo PM(1), Helt M.
+
+Author information: 
+(1)Department of Psychology, Clark Science Center, Smith College, Northampton, MA
+01063, USA. pdibarto@email.smith.edu
+
+Psychosocial theories focused on the intrafamilial transmission of anxiety often 
+concentrate on specific parenting behaviors that increase risk of anxiety
+disorders in children. Two such theories--affectionate versus affectionless
+control--both implicate parenting, although differently, in the pathogenesis of
+childhood anxiety. The present article reviews observational studies that focus
+on interactions between parents and children in anxious families in order to
+examine critically each of these two models. We divide these observational
+studies into two groups: those that seek to characterize the behavior of anxious 
+parents (top-down studies) versus parents of anxious children (bottom-up
+studies). This approach reveals that there is a consistent relationship between
+controlling parental behavior in families with anxiety-disordered children as
+well as a consistent relationship between parental behavior low in warmth and
+families with anxiety-disordered parents. The present article discusses the
+implications of the pattern that unfolds from the observational studies of the
+last decade and provides suggestions for future research in the area.
+
+PMID: 17394060  [PubMed - indexed for MEDLINE]
+
+
+69. Psychon Bull Rev. 2006 Oct;13(5):813-9.
+
+Stereotype susceptibility narrows the gender gap in imagined self-rotation
+performance.
+
+Wraga M(1), Duncan L, Jacobs EC, Helt M, Church J.
+
+Author information: 
+(1)Department of Psychology, Smith College, Northampton, MA 01063, USA.
+mwraga@smith.edu
+
+Erratum in
+    Psychon Bull Rev. 2007 Feb;14(1):184.
+
+Three studies examined the impact of stereotype messages on men's and women's
+performance of a mental rotation task involving imagined self-rotations.
+Experiment 1 established baseline differences between men and women; women made
+12% more errors than did men. Experiment 2 found that exposure to a positive
+stereotype message enhanced women's performance in comparison with that of
+another group of women who received neutral information. In Experiment 3, men who
+were exposed to the same stereotype message emphasizing a female advantage made
+more errors than did male controls, and the magnitude of error was similar to
+that for women from Experiment 1. The results suggest that the gender gap in
+mental rotation performance is partially caused by experiential factors,
+particularly those induced by sociocultural stereotypes.
+
+PMID: 17328378  [PubMed - indexed for MEDLINE]
+
+
+70. Transl Oncogenomics. 2007 Dec 10;2:107-20. Print 2007.
+
+bHLH-Orange Transcription Factors in Development and Cancer.
+
+Sun H(1), Ghaffari S, Taneja R.
+
+Author information: 
+(1)Department of Molecular, Cell, and Developmental Biology, Mount Sinai School
+of Medicine, New York, NY. ; Nelson Institute of Environmental Medicine, NYU
+School of Medicine, Tuxedo, NY.
+
+Basic helix-loop-helix (bHLH) proteins are a large superfamily of transcription
+factors that play critical roles in many physiological processes including
+cellular differentiation, cell cycle arrest and apoptosis. Based on structural
+and phylogenetic analysis, mammalian bHLH-Orange (bHLH-O) proteins, which
+constitute the repressor family of bHLH factors, can be grouped into four
+subfamilies: Hes, Hey, Helt and Stra13/Dec. In addition to the bHLH domain that
+mediates DNA-binding and protein dimerization, all members of this family are
+characterized by a distinctive motif called the "Orange domain" which is present 
+exclusively in these factors. Genetic studies using targeted mutagenesis in mice 
+have revealed essential roles for many bHLH-O genes in embryonic development,
+cell fate decisions, differentiation of a number of cell types and in apoptosis. 
+Furthermore, growing evidence of crosstalk between bHLH-O proteins with the tumor
+suppressors p53 and hypoxia-inducible factor, have started to shed light on their
+possible roles in oncogenesis. Consistently, deregulated expression of several
+bHLH-O factors is associated with various human cancers. Here, we review the
+structure and biological functions of bHLH-O factors, and discuss recent studies 
+that suggest a potential role for these factors in tumorigenesis and tumor
+progression.
+
+PMCID: PMC3634620
+PMID: 23641148  [PubMed]
+
+
+71. Development. 2006 Oct;133(19):3847-57.
+
+Megane/Heslike is required for normal GABAergic differentiation in the mouse
+superior colliculus.
+
+Guimera J(1), Weisenhorn DV, Wurst W.
+
+Author information: 
+(1)GSF-National Research Center for Environment and Health, Institute of
+Developmental Genetics, 35/8006, Ingolstädter Landstrasse, 1, Neuherberg,
+Germany. guimera@gsf.de
+
+The mouse Mgn protein (Helt) is structurally related to the neurogenic Drosophila
+hairy and Enhancer of split [h/E(spl)] proteins, but its unique structural
+properties distinguish it from other members of the family. Mgn expression shows 
+a spatiotemporal correlation with GABAergic markers in several brain regions. We 
+report here that homozygous Mgn-null mice die between the second and the fifth
+postnatal week of age, and show a complete depletion of Gad65 and Gad67
+expression in the superior colliculus and a reduction in the inferior colliculus.
+Other brain regions, as well as other neural systems, are not affected. The
+progenitor GABAergic cells appear to be generated in right numbers but fail to
+become GABAergic neurons. The phenotype of the mice is consistent with reduced
+GABAergic activity. Thus, our in vivo study provides evidence that Mgn is the key
+regulator of GABAergic neurons, controlling their specification in the dorsal
+midbrain. Another conclusion from our results is that the function of Mgn shows a
+previously unrecognized role for h/E(spl)-related transcription factors in the
+dorsal midbrain GABAergic cell differentiation. Vertebrate h/E(spl)-related genes
+can no longer be regarded solely as a factors that confer generic neurogenic
+properties, but as key components for the subtype-neuronal identity in the
+mammalian CNS.
+
+PMID: 16968817  [PubMed - indexed for MEDLINE]
+
+
+72. Free Radic Biol Med. 2006 Aug 15;41(4):601-9. Epub 2006 May 23.
+
+p21(Cip1/Waf1/Sdi1) protects against hyperoxia by maintaining expression of
+Bcl-X(L).
+
+Staversky RJ(1), Vitiello PF, Gehen SC, Helt CE, Rahman A, Keng PC, O'Reilly MA.
+
+Author information: 
+(1)Department of Pediatrics, The University of Rochester, Rochester, NY 14642,
+USA.
+
+p21(Cip1/WAF1/Sdi1) is a major transcriptional target of p53 that promotes
+survival of cells exposed to continuous oxidative stress caused by hyperoxia.
+Because p21 can protect against genotoxic stress by reducing p53-dependent
+transcription of the proapoptotic proteins PUMA and Bax, the current study uses
+genetically modified lines of HCT116 colon carcinoma cells to investigate whether
+p21-mediated protection against hyperoxia involves attenuation of the p53
+apoptotic pathway. Hyperoxia stimulated p53-dependent expression of p21 and Bax. 
+Genetic ablation of p21 increased cell death, and loss of Bax or PUMA increased
+cell survival. Unlike damage caused by adriamycin, whereby p21 sensitivity could 
+be rescued by removal of p53, PUMA, or Bax, increased sensitivity of
+p21-deficient cells to hyperoxia could not be rescued by additional loss of these
+genes. Instead, expression of the antiapoptotic protein Bcl-X(L) declined in
+p21-deficient cells exposed to hyperoxia, but when genetically restored,
+increased their survival. Conversely, siRNA knockdown of Bcl-X(L) in parental
+HCT116 cells increased hyperoxia-induced cell death. These findings reveal that
+p21-mediated protection against hyperoxia does not involve attenuation of
+p53-dependent apoptosis, but rather functions to maintain Bcl-X(L) expression
+during periods of persistent oxidative stress.
+
+PMID: 16863993  [PubMed - indexed for MEDLINE]
+
+
+73. J Am Chem Soc. 2006 Jul 26;128(29):9371-7.
+
+Stamping patterns of insulated gold nanowires with self-organized ultrathin
+polymer films.
+
+Helt JM(1), Drain CM, Bazzan G.
+
+Author information: 
+(1)Department of Chemistry, College of Staten Island and the Graduate Center of
+the City University of New York, 2800 Victory Boulevard, Staten Island, New York 
+10314, USA. cdrain@hunter.cuny.edu
+
+A thermal contact transfer technique is presented for the fabrication of
+nanoscaled to microscaled patterns of polymer-insulated metal structures on
+ceramic surfaces using metal-coated, thermoplastic stamps. The thermally
+activated formation of polymer-metal-polymer (PMP) heterostructures occurs
+spontaneously when a metal-coated thermoplastic stamp is compressed against a
+ceramic substrate and subsequently heated. The presented technique exploits the
+dynamics of ultrathin polymer films localized at interfaces and interfacial
+forces to prompt local reorganization of polymer stamp materials during
+processing. Intercalation of polymer stamp materials into the metal-substrate
+interface yields a cohesive polymer layer that binds the metal layer to the
+substrate. Disproportionate adhesion between the bulk polymer and the polymer
+layer at the stamp-metal interface leaves a capping layer upon separation of the 
+stamp from the substrate. Here we demonstrate this technique with single use,
+bilevel polymer stamps which afford transfer of two distinct general products.
+The transfer of insulated submicrometer wide wires from the raised stamp features
+affords patterns of trilayered PMP structures with uniform wire dimensions.
+Concomitant transfer from the recessed stamp features allows fabrication of
+multilayered PMP architectures with sub-100 nm spacing from microstructured
+polymer stamps. Thus, patterns with two different insulated nanowire widths are
+readily fabricated in a single stamping process. A variety of ceramic substrates,
+thermoplastic materials, and metals can be used; e.g., inexpensive gold-coated CD
+or DVD media can be used as stamps, where the combination of materials dictates
+the relative interfacial forces and the processing parameters.
+
+PMID: 16848472  [PubMed]
+
+
+74. Biochem Biophys Res Commun. 2006 Aug 18;347(1):232-7. Epub 2006 Jun 21.
+
+The Rad9 protein enhances survival and promotes DNA repair following exposure to 
+ionizing radiation.
+
+Brandt PD(1), Helt CE, Keng PC, Bambara RA.
+
+Author information: 
+(1)Department of Biochemistry and Biophysics, School of Medicine and Dentistry,
+The University of Rochester, NY 14642, USA.
+
+Following DNA damage cells initiate cell cycle checkpoints to allow time to
+repair sustained lesions. Rad9, Rad1, and Hus1 proteins form a toroidal complex, 
+termed the 9-1-1 complex, that is involved in checkpoint signaling. 9-1-1 shares 
+high structural similarity to the DNA replication protein proliferating cell
+nuclear antigen (PCNA) and 9-1-1 has been shown in vitro to stimulate steps of
+the repair process known as long patch base excision repair. Using a system that 
+allows conditional repression of the Rad9 protein in human cell culture, we show 
+that Rad9, and by extension, the 9-1-1 complex, enhances cell survival, is
+required for efficient exit from G2-phase arrest, and stimulates the repair of
+damaged DNA following ionizing radiation. These data provide in vivo evidence
+that the human 9-1-1 complex participates in DNA repair in addition to its
+previously described role in DNA damage sensing.
+
+PMID: 16814252  [PubMed - indexed for MEDLINE]
+
+
+75. Langmuir. 2006 Jul 4;22(14):6130-41.
+
+Implications of the contact radius to line step (CRLS) ratio in AFM for
+nanotribology measurements.
+
+Helt JM(1), Batteas JD.
+
+Author information: 
+(1)Department of Chemistry, College of Staten Island and the Graduate Center of
+The City University of New York, Staten Island, New York 10314, USA.
+
+Investigating the mechanisms of defect generation and growth at surfaces on the
+nanometer scale typically requires high-resolution tools such as the atomic force
+microscope (AFM). To accurately assess the kinetics and activation parameters of 
+defect production over a wide range of loads (F(z)), the AFM data should be
+properly conditioned. Generally, AFM wear trials are performed over an area
+defined by the length of the slow (L(sscan)) and fast scan axes. The ratio of
+L(sscan) to image resolution (res, lines per image) becomes an important
+experimental parameter in AFM wear trials because it defines the magnitude of the
+line step (LS = L(sscan)/res), the distance the AFM tip steps along the slow scan
+axis. Comparing the contact radius (a) to the line step (LS) indicates that the
+overlap of successive scans will result unless the contact radius-line step ratio
+(CRLS) is < or =(1)/(2). If this relationship is not considered, then the scan
+history (e.g., contact frequency) associated with a single scan is not equivalent
+at different loads owing to the scaling of contact radius with load (a
+proportional variant F(z)(1/3)). Here, we present a model in conjunction with
+empirical wear tests on muscovite mica to evaluate the effects of scan overlap on
+surface wear. Using the Hertz contact mechanics definition of a, the CRLS model
+shows that scan overlap pervades AFM wear trials even under low loads. Such
+findings indicate that simply counting the number of scans (N(scans)) in an
+experiment underestimates the full history conveyed to the surface by the tip and
+translates into an error in the actual extent to which a region on the surface is
+contacted. Utilizing the CRLS method described here provides an approach to
+account for image scan history accurately and to predict the extent of surface
+wear. This general model also has implications for any AFM measurement where one 
+wishes to correlate scan-dependent history to image properties as well as feature
+resolution in scanned probe lithographies.
+
+PMID: 16800668  [PubMed]
+
+
+76. Gene. 2006 Aug 1;377:65-76. Epub 2006 Mar 18.
+
+Molecular characterization, structure and developmental expression of Megane bHLH
+factor.
+
+Guimera J(1), Vogt Weisenhorn D, Echevarría D, Martínez S, Wurst W.
+
+Author information: 
+(1)GSF-National Research Center for Environment and Health, Institute of
+Developmental Genetics, Neuherberg, Germany. guimera@gsf.de
+
+We report here the full-length sequence identification, molecular
+characterization, detailed demarcation expression analysis relevant to
+morphological marker genes and mapping of a bHLH transcription gene, referred to 
+as Megane (Mgn). Mgn protein is structurally related to the neurogenic Drosophila
+hairy and Enhancer of split (h/E(spl)) proteins. The unique structural properties
+of Mgn factor in several characteristic residues define the gene as related to
+h/E(spl), but distinguish it from previously identified mammalian members of the 
+family. Mgn is a single copy gene on mouse chromosome 8 and encodes a 27kDa
+protein that functions in the nucleus. First expression of Mgn is detected at
+mouse embryonic day 9.5 within the most rostral part of the cephalic flexure of
+the developing midbrain. Later, Mgn expression extends into other alar areas of
+the midbrain and forebrain, developmentally controlled in a regional specific
+pattern.
+
+PMID: 16644143  [PubMed - indexed for MEDLINE]
+
+
+77. J Rehabil Res Dev. 2005 Jul-Aug;42(4 Suppl 2):45-62.
+
+Hearing health and care: the need for improved hearing loss prevention and
+hearing conservation practices.
+
+Fausti SA(1), Wilmington DJ, Helt PV, Helt WJ, Konrad-Martin D.
+
+Author information: 
+(1)Department of Veterans Affairs (VA) Rehabilitation Research and Development
+Service, National Center for Rehabilitative Auditory Research, Portland VA
+Medical Center, Portland, OR 97239, USA. stephen.fausti@med.va.gov
+
+Hearing loss affects 31 million Americans, particularly veterans who were exposed
+to harmful levels of noise during military functions. Many veterans also receive 
+treatment with ototoxic medications, which may exacerbate preexisting hearing
+loss. Thus, hearing loss is the most common and tinnitus the third most common
+service-connected disability among veterans. Poor implementation of hearing
+protection programs and a lack of audiometric testing during medical treatment
+leave veterans vulnerable to unrecognized and untreated hearing loss until speech
+communication is impaired. Individualized audiometric testing techniques,
+including assessment of high frequencies, can be used in clinical and
+occupational settings to detect early hearing loss. Antioxidants also may
+alleviate cochlear damage caused by noise and ototoxicity. Ultimately, hearing
+loss prevention requires education on reducing occupational and recreational
+noise exposure and counseling on the risks and options available to patients.
+Technological advances will improve monitoring, allow better noise engineering
+controls, and lead to more effective hearing protection.
+
+PMID: 16470464  [PubMed - indexed for MEDLINE]
+
+
+78. J Virol. 2005 Nov;79(21):13218-30.
+
+S-phase-dependent enhancement of dengue virus 2 replication in mosquito cells,
+but not in human cells.
+
+Helt AM(1), Harris E.
+
+Author information: 
+(1)Division of Infectious Diseases, School of Public Health, University of
+California, Berkeley, 140 Warren Hall, Berkeley, CA 94720-7360, USA.
+
+Dengue virus (DEN) is the most prevalent cause of arthropod-borne viral illness
+in humans. We determined the influence of cellular growth state on DEN type 2
+(DEN2) replication in mosquito and human cells, based on the hypothesis that
+manipulation of cellular growth state will facilitate identification of viral and
+cellular determinants of productive infection. Comparison of density-arrested and
+cycling C6/36 Aedes albopictus cells infected with a low-passage DEN2 isolate
+revealed that cycling cells generated higher virus titers per cell. When C6/36
+cells were stalled in S-phase via a thymidine (THY) block, titers of low-passage 
+DEN2 isolates and a high-passage strain, 16681, were increased approximately
+30-fold and 10-fold, respectively. Moreover, virus release was earlier in
+THY-treated cells than in asynchronously cycling cells. Adsorption, entry, genome
+uncoating, and translation were not responsible for increased titers of virus
+from S-phase C6/36 cells. In contrast to the 30-fold increase in virus titers,
+intracellular levels of viral RNA were increased approximately 2-fold, suggesting
+that the S-phase-responsive step is late in the DEN2 replication cycle. Analysis 
+of viral RNA and protein released from the cells indicated that enhanced DEN2
+assembly is largely responsible for increased virus titers produced during
+S-phase. In contrast to C6/36 cells, DEN2 titers from S-phase human hepatoma
+cells or primary human fibroblasts were not increased. These results demonstrate 
+a differential response of DEN2 to the mosquito and human cell cycle and provide 
+a framework for detailed studies into the mechanisms mediating virus assembly.
+
+PMCID: PMC1262621
+PMID: 16227245  [PubMed - indexed for MEDLINE]
+
+
+79. J Rehabil Res Dev. 2005 May-Jun;42(3):353-61.
+
+Evaluation of insert earphones for high-frequency bedside ototoxicity monitoring.
+
+Gordon JS(1), Phillips DS, Helt WJ, Konrad-Martin D, Fausti SA.
+
+Author information: 
+(1)Department of Veterans Affairs Rehabilitation Research and Development
+National Center for Rehabilitative Auditory Research, Portland VA Medical Center,
+Portland, OR 97239, USA.
+
+Ototoxic hearing loss is usually detected earliest through monitoring of the
+highest audible frequencies in individuals administered ototoxic medications.
+Conducting ototoxicity monitoring may require testing patients in the hospital
+room. This study evaluated the use of insert earphones for obtaining reliable
+threshold responses at bedside. Twenty adult subjects were tested during two
+different sessions in the sound booth and on the ward. Thresholds were obtained
+for frequencies from 5 to 16 kHz and at 2 kHz with the use of the KOSS Pro/4X
+Plus earphones and Etymotic ER-4B MicroPro insert earphones. Results indicate
+that ER-4B insert earphones are as reliable as KOSS earphones for testing on the 
+ward for high-frequency ototoxicity monitoring.
+
+PMID: 16187247  [PubMed - indexed for MEDLINE]
+
+
+80. Genome Res. 2005 Jul;15(7):987-97.
+
+Examples of the complex architecture of the human transcriptome revealed by RACE 
+and high-density tiling arrays.
+
+Kapranov P(1), Drenkow J, Cheng J, Long J, Helt G, Dike S, Gingeras TR.
+
+Author information: 
+(1)Affymetrix Inc., Santa Clara, California 95051, USA.
+philipp_kapranov@affymetrix.com
+
+Recently, we mapped the sites of transcription across approximately 30% of the
+human genome and elucidated the structures of several hundred novel transcripts. 
+In this report, we describe a novel combination of techniques including the rapid
+amplification of cDNA ends (RACE) and tiling array technologies that was used to 
+further characterize transcripts in the human transcriptome. This technical
+approach allows for several important pieces of information to be gathered about 
+each array-detected transcribed region, including strand of origin, start and
+termination positions, and the exonic structures of spliced and unspliced coding 
+and noncoding RNAs. In this report, the structures of transcripts from 14
+transcribed loci, representing both known genes and unannotated transcripts taken
+from the several hundred randomly selected unannotated transcripts described in
+our previous work are represented as examples of the complex organization of the 
+human transcriptome. As a consequence of this complexity, it is not unusual that 
+a single base pair can be part of an intricate network of multiple isoforms of
+overlapping sense and antisense transcripts, the majority of which are
+unannotated. Some of these transcripts follow the canonical splicing rules,
+whereas others combine the exons of different genes or represent other types of
+noncanonical transcripts. These results have important implications concerning
+the correlation of genotypes to phenotypes, the regulation of complex interlaced 
+transcriptional patterns, and the definition of a gene.
+
+PMCID: PMC1172043
+PMID: 15998911  [PubMed - indexed for MEDLINE]
+
+
+81. J Virol. 2005 Jun;79(12):7291-9.
+
+Dendritic cell precursors are permissive to dengue virus and human
+immunodeficiency virus infection.
+
+Kwan WH(1), Helt AM, Marañón C, Barbaroux JB, Hosmalin A, Harris E, Fridman WH,
+Mueller CG.
+
+Author information: 
+(1)INSERM U255, IFR58 Centre de Recherches Biomédicales des Cordeliers,
+Université Pierre et Marie Curie, Paris 6, 15 Rue de l'Ecole de Médecine, 75006
+Paris, France.
+
+CD14(+) interstitial cells reside beneath the epidermis of skin and mucosal
+tissue and may therefore play an important role in viral infections and the
+shaping of an antiviral immune response. However, in contrast to dendritic cells 
+(DC) or blood monocytes, these antigen-presenting cells (APC) have not been well 
+studied. We have previously described long-lived CD14(+) cells generated from
+CD34(+) hematopoietic progenitors, which may represent model cells for
+interstitial CD14(+) APC. Here, we show that these cells carry DC-SIGN and
+differentiate into immature DC in the presence of granulocyte-macrophage
+colony-stimulating factor. We have compared the CD14(+) cells and the DC derived 
+from these cells with respect to dengue virus and human immunodeficiency virus
+type 1 (HIV-1) infection. Both cell types are permissive to dengue virus
+infection, but the CD14(+) cells secrete the anti-inflammatory cytokine
+interleukin 10 and no tumor necrosis factor alpha. Regarding HIV, the CD14(+)
+cells are permissive to HIV-1, release higher p24 levels than the derived DC, and
+more efficiently activate HIV Pol-specific CD8(+) memory T cells. The CD14(+) DC 
+precursors infected with either virus retain their DC differentiation potential. 
+The results suggest that interstitial CD14(+) APC may contribute to HIV-1 and
+dengue virus infection and the shaping of an antiviral immune response.
+
+PMCID: PMC1143643
+PMID: 15919883  [PubMed - indexed for MEDLINE]
+
+
+82. Cell Cycle. 2005 Apr;4(4):529-32. Epub 2005 Apr 10.
+
+Evidence that DNA damage detection machinery participates in DNA repair.
+
+Helt CE(1), Wang W, Keng PC, Bambara RA.
+
+Author information: 
+(1)Department of Radiation Oncology, School of Medicine and Dentistry, The
+University of Rochester, Rochester, New York 14642, USA.
+
+The toroidal Rad9-Rad1-Hus1 checkpoint complex (9-1-1) is structurally similar to
+the proliferating cell nuclear antigen (PCNA), which serves as a sliding clamp
+platform for DNA replication and repair. 9-1-1 has been characterized as a sensor
+of DNA damage that functions in concert with the checkpoint control proteins ATM 
+and ATR. However, recent data suggest that the 9-1-1 complex and its individual
+Rad9 component serve different and multiple functions in cells by sensing DNA
+damage, stimulating apoptosis, and regulating gene transcription. Recently it was
+reported that 9-1-1 interacts with and/or stimulates components of the base
+excision repair (BER) pathway including the S. pombe MutY homolog (MYH), human
+polymerase beta (Polbeta), and flap endonuclease 1 (FEN1). Furthermore,
+preliminary results indicate a stimulation of DNA ligase I. In this review, the
+likely direct participation of 9-1-1 in DNA repair is discussed.
+
+PMID: 15876866  [PubMed - indexed for MEDLINE]
+
+
+83. Proc IEEE Comput Soc Bioinform Conf. 2002;1:321-6.
+
+Visualization techniques for genomic data.
+
+Loraine AE(1), Helt GA.
+
+Author information: 
+(1)Affymetrix, Inc., Emeryville, CA 94608, USA. ann_loraine@affymetrix.com
+
+In order to take full advantage of the newly available public human genome
+sequence data and associated annotations, biologists require visualization tools 
+that can accommodate the high frequency of alternative splicing in human genes
+and other complexities. In this article, we describe techniques for presenting
+human genomic sequence data and annotations in an interactive, graphical format, 
+with the aim of providing developers with a guide to what features are most
+likely to meet biologists' needs. These techniques include: one-dimensional
+semantic zooming to show sequence data alongside gene structures; moveable,
+adjustable tiers; visual encoding of translation frame to show how alternative
+transcript structure affects encoded proteins; and display of protein domains in 
+the context of genomic sequence to show how alternative splicing impacts protein 
+structure and function.
+
+PMID: 15838148  [PubMed - indexed for MEDLINE]
+
+
+84. Proc IEEE Comput Soc Bioinform Conf. 2002;1:118-24.
+
+Protein-based analysis of alternative splicing in the human genome.
+
+Loraine AE(1), Helt GA, Cline MS, Siani-Rose MA.
+
+Author information: 
+(1)Affymetrix, Inc., Emeryville, CA 94608, USA. ann_loraine@affymetrix.com
+
+Understanding the functional significance of alternative splicing and other
+mechanisms that generate RNA transcript diversity is an important challenge
+facing modern-day molecular biology. Using homology-based, protein sequence
+analysis methods, it should be possible to investigate how transcript diversity
+impacts protein structure and function. To test this, a data mining technique
+("DiffHit") was developed to identify and catalog genes producing protein
+isoforms which exhibit distinct profiles of conserved protein motifs. We found
+that out of a test set of over 1,300 alternatively spliced genes with solved
+genomic structure, over 30% exhibited a differential profile of conserved
+InterPro and/or Blocks protein motifs across distinct isoforms. These results
+suggest that motif databases such as Blocks and InterPro are potentially useful
+tools for investigating how alternative transcript structure affects gene
+function.
+
+PMID: 15838129  [PubMed - indexed for MEDLINE]
+
+
+85. Science. 2005 May 20;308(5725):1149-54. Epub 2005 Mar 24.
+
+Transcriptional maps of 10 human chromosomes at 5-nucleotide resolution.
+
+Cheng J(1), Kapranov P, Drenkow J, Dike S, Brubaker S, Patel S, Long J, Stern D, 
+Tammana H, Helt G, Sementchenko V, Piccolboni A, Bekiranov S, Bailey DK, Ganesh
+M, Ghosh S, Bell I, Gerhard DS, Gingeras TR.
+
+Author information: 
+(1)Affymetrix Inc., Santa Clara, CA 95051, USA.
+
+Sites of transcription of polyadenylated and nonpolyadenylated RNAs for 10 human 
+chromosomes were mapped at 5-base pair resolution in eight cell lines.
+Unannotated, nonpolyadenylated transcripts comprise the major proportion of the
+transcriptional output of the human genome. Of all transcribed sequences, 19.4,
+43.7, and 36.9% were observed to be polyadenylated, nonpolyadenylated, and
+bimorphic, respectively. Half of all transcribed sequences are found only in the 
+nucleus and for the most part are unannotated. Overall, the transcribed portions 
+of the human genome are predominantly composed of interlaced networks of both
+poly A+ and poly A- annotated transcripts and unannotated transcripts of unknown 
+function. This organization has important implications for interpreting
+genotype-phenotype associations, regulation of gene expression, and the
+definition of a gene.
+
+PMID: 15790807  [PubMed - indexed for MEDLINE]
+
+
+86. Am J Clin Oncol. 2005 Feb;28(1):43-50.
+
+p53 modulates radiation sensitivity independent of p21 transcriptional
+activation.
+
+Mazzatti DJ(1), Lee YJ, Helt CE, O'Reilly MA, Keng PC.
+
+Author information: 
+(1)Department of Pathology and Laboratory Medicine, University of Rochester
+School of Medicine and Dentistry, Rochester, New York, USA.
+
+Cellular sensitivity to ionizing radiation (IR) treatment is a complex biologic
+phenomenon that is affected by several processes, namely the ability of the cell 
+to detect and repair DNA damage, regulate cell cycle division, and execute
+apoptosis. Because the p53 tumor suppressor protein is implicated in the
+regulation of each of these processes, radiation sensitivity of H1299 p53-null
+human lung carcinoma cells was evaluated after restoration of wild-type p53.
+Expression of wild-type p53 in radiation-resistant H1299 cells reinstated a
+radiation-sensitive phenotype that was not fully explained by cell death
+resulting from p53-mediated apoptosis. In addition, we show that p53 alters
+radiation sensitivity only in the G1 phase of the cell cycle, whereas S- and
+G2/M-phase cells were unaffected by p53 status. To determine the mechanism of
+p53-induced G1-phase radiation sensitivity, we investigated the G1/S checkpoint
+response to IR in H1299/p53 cells. We show that H1299/p53 cells arrest in the G1 
+phase in a p53-dependent manner as a result of transcriptional activation of
+p21WAF1/Cip1. To determine if p53-induced radiation sensitivity was the result of
+a reproductive death from accumulated p21 protein expression, p21 was
+independently induced in H1299 parental cells. However, induction of p21 was not 
+sufficient to account for the enhanced radiation sensitivity in H1299/p53 cells. 
+Together, these data indicate that p53 modulates radiation sensitivity in the G1 
+phase of the cell cycle through mechanisms independent of p53-mediated
+transcriptional activation of p21 and cell cycle arrest.
+
+PMID: 15685034  [PubMed - indexed for MEDLINE]
+
+
+87. Langmuir. 2005 Jan 18;21(2):633-9.
+
+Wear of mica under aqueous environments:direct observation of defect nucleation
+by AFM.
+
+Helt JM(1), Batteas JD.
+
+Author information: 
+(1)Department of Chemistry, The City University of New York, College of Staten
+Island and The Graduate Center, 2800 Victory Boulevard, Staten Island, New York
+10314, USA.
+
+The generation of defects at surfaces in sliding contacts is the catalyst for the
+eventual wear of the materials. Here, the wear of muscovite mica has been
+investigated under aqueous environments using atomic force microscopy (AFM).
+Through concomitant acquisition of topography, friction, and adhesion data under 
+controlled pH conditions, defect nucleation on the atomic scale prior to gross
+wear may be directly observed. Nucleation is found to present itself initially as
+charging of the surface due to stress-induced tribochemical bond scission as OH- 
+breaks open the surface terminating Si-O-Si or Si-O-Al bonds. As the surface
+bonds are continually cleaved, an ensemble of defects (e.g., Si-OH/Al-OH and
+Si-O-) contribute to a crystal lattice reconstruction (from approximately 5.2 to 
+approximately 3 A), as observed in AFM topographic and frictional force
+micrographs. Following lattice restructuring, displacement/abstraction of mica
+surface materials ensues, yielding readily discernible wear scars ranging from
+approximately 2 to 10 A in depth. The environmental OH- concentration profoundly 
+affects the efficacy of this sequence of events leading to wear and is
+illustrated by the acceleration or inhibition of wear with adjustment of pH under
+identical load and scan conditions.
+
+PMID: 15641833  [PubMed]
+
+
+88. J Biol Chem. 2005 Jan 14;280(2):1186-92. Epub 2004 Nov 8.
+
+Ataxia telangiectasia mutated (ATM) and ATM and Rad3-related protein exhibit
+selective target specificities in response to different forms of DNA damage.
+
+Helt CE(1), Cliby WA, Keng PC, Bambara RA, O'Reilly MA.
+
+Author information: 
+(1)Department of Environmental Medicine, School of Medicine and Dentistry, the
+University of Rochester, Rochester, New York 14642, USA.
+
+The ataxia telangiectasia mutated (ATM) and ATR (ATM and Rad3-related) protein
+kinases exert cell cycle delay, in part, by phosphorylating Checkpoint kinase
+(Chk) 1, Chk2, and p53. It is well established that ATR is activated following UV
+light-induced DNA damage such as pyrimidine dimers and the
+6-(1,2)-dihydro-2-oxo-4-pyrimidinyl-5-methyl-2,4-(1H,3H)-pyrimidinediones,
+whereas ATM is activated in response to double strand DNA breaks. Here we clarify
+the activation of these kinases in cells exposed to IR, UV, and hyperoxia, a
+condition of chronic oxidative stress resulting in clastogenic DNA damage.
+Phosphorylation on Chk1(Ser-345), Chk2(Thr-68), and p53(Ser-15) following
+oxidative damage by IR involved both ATM and ATR. In response to ultraviolet
+radiation-induced stalled replication forks, phosphorylation on Chk1 and p53
+required ATR, whereas Chk2 required ATM. Cells exposed to hyperoxia exhibited
+growth delay in G1, S, and G2 that was disrupted by wortmannin. Consistent with
+ATM or ATR activation, hyperoxia induced wortmannin-sensitive phosphorylation of 
+Chk1, Chk2, and p53. By using ATM- and ATR-defective cells, phosphorylation on
+Chk1, Chk2, and p53 was found to be ATM-dependent, whereas ATR also contributed
+to Chk1 phosphorylation. These data reveal activated ATM and ATR exhibit
+selective substrate specificity in response to different genotoxic agents.
+
+PMID: 15533933  [PubMed - indexed for MEDLINE]
+
+
+89. Int J Mol Med. 2004 Oct;14(4):747-51.
+
+Identification and characterization of human HESL, rat Hesl and rainbow trout
+hesl genes in silico.
+
+Katoh M(1), Katoh M.
+
+Author information: 
+(1)M&M Medical BioInformatics, Narashino 275-0022, Japan. mkatoh@ncc.go.jp
+
+Activation of Notch signaling pathway leads to nuclear translocation of Notch
+intracellular domain (NIC), and transcriptional activation of target genes
+through the interaction between CSL proteins (RBPSUH or RBPSUHL) and NIC. HES1,
+HES5, HEY1 and HEY2 are Notch target genes. Mammalian HES/HEY family proteins as 
+well as Drosophila Hairy and Enhancer of split are implicated in the cell fate
+determination. We have previously identified and characterized human HES2, HES3
+and HES5 genes. Here, we identified and characterized human HES-like (HESL), rat 
+Fesl, and rainbow trout fesl genes by using bioinformatics. Human HESL gene,
+located within AC093824.3 genome sequence, was mapped to human chromosome 4q35.1 
+between ACSL1 and SLC25A4 genes. Rat Fesl gene, located within AC111303.4 genome 
+sequence, was mapped to rat chromosome 16q11. EST BX875070.2 was the
+representative rainbow trout fesl cDNA. HESL-ACSL1 locus was conserved among
+human, rat, mouse, and zebrafish genomes. Human HESL (241 aa) showed 92.9%
+total-amino-acid identity with rat Hesl (240 aa), 92.1% total-amino-acid identity
+with mouse Hesl (240 aa), and 68.0% total-amino-acid identity with rainbow trout 
+hesl (235 aa). HESL orthologs consist of basic Helix-loop-helix (bHLH) domain and
+ORANGE domain. C-terminal region of HESL orthologs were divergent from that of
+HES, HEY, and DEC homologs. Phylogenetic analyses revealed that bHLH
+transcription factors with ORANGE domain were classified into the following three
+groups: (group I) HES1, HES2, HES4 and HES6 orthologs; (group II) HESL, HES5,
+HES7, HEY1, HEY2 and HEYL orthologs; (group III) HES3, DEC1/BHLHB2 and
+DEC2/BHLHB3 orthologs.
+
+PMID: 15375612  [PubMed - indexed for MEDLINE]
+
+
+90. J Bioinform Comput Biol. 2003 Jul;1(2):289-306.
+
+Exploring alternative transcript structure in the human genome using blocks and
+InterPro.
+
+Loraine AE(1), Helt GA, Cline MS, Siani-Rose MA.
+
+Author information: 
+(1)Bioinformatics Department, Affymetrix, 6550 Vallejo St, Emeryville, CA 94530
+USA. ann_loraine@affymetrix.com
+
+Understanding how alternative splicing affects gene function is an important
+challenge facing modern-day molecular biology. Using homology-based, protein
+sequence analysis methods, it should be possible to investigate how transcript
+diversity impacts protein function. To test this, high-quality exon-intron
+structures were deduced for over 8000 human genes, including over 1300 (17
+percent) that produce multiple transcript variants. A data mining technique
+(DiffMotif) was developed to identify genes in which transcript variation
+coincides with changes in conserved motifs between variants. Applying this
+method, we found that 30 percent of the multi-variant genes in our test set
+exhibited a differential profile of conserved InterPro and/or BLOCKS motifs
+across different mRNA variants. To investigate these, a visualization tool
+(ProtAnnot) that displays amino acid motifs in the context of genomic sequence
+was developed. Using this tool, genes revealed by the DiffMotif method were
+analyzed, and when possible, hypotheses regarding the potential role of
+alternative transcript structure in modulating gene function were developed.
+Examples of these, including: MEOX1, a homeobox-containing protein; AIRE,
+involved in auto-immune disease; PLAT, tissue type plasminogen activator; and
+CD79b, a component of the B-cell receptor complex, are presented. These results
+demonstrate that amino acid motif databases like BLOCKS and InterPro are useful
+tools for investigating how alternative transcript structure affects gene
+function.
+
+PMID: 15290774  [PubMed - indexed for MEDLINE]
+
+
+91. J Neurosci. 2004 Apr 7;24(14):3672-82.
+
+Identification of a novel basic helix-loop-helix gene, Heslike, and its role in
+GABAergic neurogenesis.
+
+Miyoshi G(1), Bessho Y, Yamada S, Kageyama R.
+
+Author information: 
+(1)Institute for Virus Research, Kyoto University, Kyoto 606-8507, Japan.
+
+Neuronal subtype specification depends on multiple transcription factors such as 
+basic helix-loop-helix (bHLH) factors. However, transcription factor codes for
+most neurons remain to be determined. Here, we report identification of a novel
+mouse bHLH factor, termed Heslike, that has Hes1-like bHLH domain and
+transcriptional repressor activity. Heslike is coexpressed with the bHLH factor
+Mash1 in brain regions that give rise to GABAergic neurons. In the mesencephalon 
+and the caudal diencephalon, coexpression of Heslike and Mash1 is initially
+restricted to small regions but expanded dorsally from embryonic day 9.5 onward, 
+and this expansion of coexpression is followed by GABAergic neurogenesis.
+Misexpression of Heslike in mouse embryos generates ectopic GABAergic neurons
+only from the Mash1(+) region. In contrast, in the mesencephalon and the caudal
+diencephalon of Mash1-null mice, GABAergic neurons are almost completely missing 
+and, instead, other neurons are generated, although Heslike is still expressed.
+Furthermore, coexpression of Heslike and Mash1 significantly promotes formation
+of GABAergic neurons, compared with each gene alone, in neural precursor cell
+culture. Thus, Heslike or Mash1 alone is not sufficient, but their coexpression
+may be important for generation of GABAergic neurons. These results suggest that 
+combinations of distinct bHLH factors promote formation of distinct neuronal
+subtypes, thereby increasing neuronal diversity.
+
+PMID: 15071116  [PubMed - indexed for MEDLINE]
+
+
+92. Genome Res. 2004 Mar;14(3):331-42.
+
+Novel RNAs identified from an in-depth analysis of the transcriptome of human
+chromosomes 21 and 22.
+
+Kampa D(1), Cheng J, Kapranov P, Yamanaka M, Brubaker S, Cawley S, Drenkow J,
+Piccolboni A, Bekiranov S, Helt G, Tammana H, Gingeras TR.
+
+Author information: 
+(1)Affymetrix, Santa Clara, California 95051, USA. dione_kampa@affymetrix.com
+
+In this report, we have achieved a richer view of the transcriptome for
+Chromosomes 21 and 22 by using high-density oligonucleotide arrays on cytosolic
+poly(A)(+) RNA. Conservatively, only 31.4% of the observed transcribed
+nucleotides correspond to well-annotated genes, whereas an additional 4.8% and
+14.7% correspond to mRNAs and ESTs, respectively. Approximately 85% of the known 
+exons were detected, and up to 21% of known genes have only a single isoform
+based on exon-skipping alternative expression. Overall, the expression of the
+well-characterized exons falls predominately into two categories, uniquely or
+ubiquitously expressed with an identifiable proportion of antisense transcripts. 
+The remaining observed transcription (49.0%) was outside of any known annotation.
+These novel transcripts appear to be more cell-line-specific and have lower and
+less variation in expression than the well-characterized genes. Novel transcripts
+were further characterized based on their distance to annotations, transcript
+size, coding capacity, and identification as antisense to intronic sequences. By 
+RT-PCR, 126 novel transcripts were independently verified, resulting in a 65%
+verification rate. These observations strongly support the argument for a
+re-evaluation of the total number of human genes and an alternative term for
+"gene" to encompass these growing, novel classes of RNA transcripts in the human 
+genome.
+
+PMCID: PMC353210
+PMID: 14993201  [PubMed - indexed for MEDLINE]
+
+
+93. Cell. 2004 Feb 20;116(4):499-509.
+
+Unbiased mapping of transcription factor binding sites along human chromosomes 21
+and 22 points to widespread regulation of noncoding RNAs.
+
+Cawley S(1), Bekiranov S, Ng HH, Kapranov P, Sekinger EA, Kampa D, Piccolboni A, 
+Sementchenko V, Cheng J, Williams AJ, Wheeler R, Wong B, Drenkow J, Yamanaka M,
+Patel S, Brubaker S, Tammana H, Helt G, Struhl K, Gingeras TR.
+
+Author information: 
+(1)Affymetrix, 3380 Central Expressway, Santa Clara, CA 95051, USA.
+
+Using high-density oligonucleotide arrays representing essentially all
+nonrepetitive sequences on human chromosomes 21 and 22, we map the binding sites 
+in vivo for three DNA binding transcription factors, Sp1, cMyc, and p53, in an
+unbiased manner. This mapping reveals an unexpectedly large number of
+transcription factor binding site (TFBS) regions, with a minimal estimate of
+12,000 for Sp1, 25,000 for cMyc, and 1600 for p53 when extrapolated to the full
+genome. Only 22% of these TFBS regions are located at the 5' termini of
+protein-coding genes while 36% lie within or immediately 3' to well-characterized
+genes and are significantly correlated with noncoding RNAs. A significant number 
+of these noncoding RNAs are regulated in response to retinoic acid, and
+overlapping pairs of protein-coding and noncoding RNAs are often coregulated.
+Thus, the human genome contains roughly comparable numbers of protein-coding and 
+noncoding genes that are bound by common transcription factors and regulated by
+common environmental signals.
+
+PMID: 14980218  [PubMed - indexed for MEDLINE]
+
+
+94. EMBO J. 2004 Mar 10;23(5):1133-43. Epub 2004 Feb 19.
+
+DNA damage induces downregulation of histone gene expression through the G1
+checkpoint pathway.
+
+Su C(1), Gao G, Schneider S, Helt C, Weiss C, O'Reilly MA, Bohmann D, Zhao J.
+
+Author information: 
+(1)Department of Biomedical Genetics, University of Rochester Medical Center,
+Rochester, NY 14642, USA.
+
+Activation of the G(1) checkpoint following DNA damage leads to inhibition of
+cyclin E-Cdk2 and subsequent G(1) arrest in higher eucaryotes. Little, however,
+is known about the molecular events downstream of cyclin E-Cdk2 inhibition. Here 
+we show that, in addition to the inhibition of DNA synthesis, ionizing radiation 
+induces downregulation of histone mRNA levels in mammalian cells. This
+downregulation occurs at the level of transcription and requires functional p53
+and p21(CIP1/WAF1) proteins. We demonstrate that DNA damage induced by ionizing
+radiation results in the suppression of phosphorylation of NPAT, an in vivo
+substrate of cyclin E-Cdk2 kinase and an essential regulator of histone gene
+transcription, and its dissociation from histone gene clusters in a
+p53/p21-dependent manner. Inhibition of Cdk2 activity by specific inhibitors in
+the absence of DNA damage similarly disperses NPAT from histone gene clusters and
+represses histone gene expression. Our results thus suggest that inhibition of
+Cdk2 activity following DNA damage results in the downregulation of histone gene 
+transcription through dissociation of NPAT from histone gene clusters.
+
+PMCID: PMC380976
+PMID: 14976556  [PubMed - indexed for MEDLINE]
+
+
+95. J Biol Chem. 2004 Apr 16;279(16):16356-67. Epub 2004 Feb 4.
+
+Helt, a novel basic-helix-loop-helix transcriptional repressor expressed in the
+developing central nervous system.
+
+Nakatani T(1), Mizuhara E, Minaki Y, Sakamoto Y, Ono Y.
+
+Author information: 
+(1)KAN Research Institute Inc., 93 Chudoji-Awata-cho, Shimogyo-ku, Kyoto
+600-8815, Japan.
+
+Neuronal differentiation is regulated by many basic-helix-loop-helix (bHLH)
+family transcriptional activators and repressors, and the balance of activity
+between these factors is important for the differentiation process. Here, we
+report the identification of a novel transcriptional repressor, designated Helt. 
+Helt encoded a Hey-related bHLH protein containing the bHLH and Orange domains.
+Helt could homodimerize, and heterodimerize with Hes5 or Hey2. Both the bHLH and 
+Orange domains were involved in the homodimerization. In contrast, only the bHLH 
+domain was required for the heterodimerization with Hey2, whereas only the Orange
+domain mediated the interaction between Helt and Hes5. Thus, Helt has two
+dimerization domains, and these domains independently select a partner.
+Identification of preferred recognition sequences by CASTing experiments revealed
+that Helt bound to the E box, which was distinct from the Hes1 optimal sequence
+around the E box core. Not only the core sequence but also sequences flanking the
+E box were essential for the recognition by Helt and Hes1. Furthermore, Helt
+repressed transcription from an artificial promoter through binding to the
+optimal E box elements, as well as transcription from its own promoter. Using in 
+situ hybridization and immunohistochemistry, Helt expression in embryos was
+investigated. Helt was mainly expressed in undifferentiated neural progenitors in
+some of the developing brain regions, including the mesencephalon and
+diencephalon, at the neurogenesis stage. These results suggest that Helt acts as 
+a transcriptional repressor to regulate neuronal differentiation and/or identity.
+
+PMID: 14764602  [PubMed - indexed for MEDLINE]
+
+
+96. J Am Chem Soc. 2004 Jan 21;126(2):628-34.
+
+A benchtop method for the fabrication and patterning of nanoscale structures on
+polymers.
+
+Helt JM(1), Drain CM, Batteas JD.
+
+Author information: 
+(1)Department of Chemistry, College of Staten Island and the Graduate Center of
+the City University of New York, 2800 Victory Boulevard, Staten Island, New York 
+10314, USA.
+
+A benchtop method for the facile production of nanoscale metal structures on
+polymers is demonstrated. This approach allows for the design and patterning of a
+wide range of metallic structures on inexpensive polymer surfaces, affording the 
+fabrication of nanoscaled platforms for use in the design of sensors, actuators, 
+and disposable electronic and photonic devices. Numerous structures, from simple 
+nanowires to multilayered metallic gratings, are demonstrated, with sizes ranging
+from microns to the nanoscale. The process involves molding a malleable metal
+film deposited on a rigid substrate such as mica, by the compression of a plastic
+polymer stamp with the desired pattern against the metal film. While under
+compression, an etchant is then used to modify the metal. Upon separation of the 
+stamp from the support, micro- to nanoscaled metallic structures are found on the
+stamp and/or on the substrate. The sizes of the structures formed depend on the
+sizes of the features on the stamp but can be fine-tuned by about 4-fold through 
+variations in both pressure and duration of etching. Also, depending on the
+processing, multiple dimension metallic structures can be obtained simultaneously
+in a single stamping procedure. The metallic structures formed on the stamp can
+also be subsequently transferred to another surface allowing for the construction
+of multilayered materials such as band gap gratings or the application of
+electrical contacts. Using this approach, fabrication of both simple and complex 
+micro- to nanoscaled structures can be accomplished by most any researcher as
+even the grating structure of commercial compact disks may be used as stamps,
+eliminating the requirement of expensive lithographic processes to form simple
+structures.
+
+PMID: 14719962  [PubMed]
+
+
+97. Obes Res. 2003 Dec;11(12):1449-55.
+
+Effects of different dietary fat types on postprandial appetite and energy
+expenditure.
+
+Flint A(1), Helt B, Raben A, Toubro S, Astrup A.
+
+Author information: 
+(1)Department of Human Nutrition, Center for Advanced Food Studies, The Royal
+Veterinary and Agricultrual University, Frederiksberg C, Denmark. afl@kvl.dk
+
+OBJECTIVE: Observational studies suggest that monounsaturated (MUFA) and trans
+fatty acids (TRANS) are more fattening than polyunsaturated fatty acids (PUFA).
+Therefore, the aim of this study was to investigate the acute effect of intake of
+PUFA, MUFA, or TRANS on appetite and energy expenditure (EE).
+RESEARCH METHODS AND PROCEDURES: Three test meals were randomly given in a
+cross-over design to 19 overweight (BMI: 26.8 +/- 0.4 kg/m2), young (25.2 +/- 0.7
+years) men. The fat-rich breakfasts (0.8 g fat/kg body weight, 60% energy from
+fat) varied only in the source of C:18-fat. EE was measured continuously in a
+respiration chamber, and appetite sensations were rated by visual analog scales
+before and every 30 minutes, for 5 hours, after the meal. After 5 hours, an ad
+libitum meal was served, and energy intake was registered. Sensory evaluations of
+all meals were given using visual analog scales. Data were analyzed by two-way
+ANOVA.
+RESULTS: There were no differences in basal or postprandial values of appetite
+ratings and EE, in subsequent ad libitum energy intake, or in the sensory
+evaluation of the test meals among the 3 test days.
+DISCUSSION: Giving acutely large amounts of MUFA, PUFA, or TRANS did not impose
+any differences in appetite and EE in overweight humans. However, studies with
+extended protocols and other subject groups are warranted to investigate the
+long-term effect of dietary fat quality on the regulation of energy balance and
+body weight.
+
+PMID: 14694208  [PubMed - indexed for MEDLINE]
+
+
+98. J Am Acad Audiol. 2003 Oct;14(8):444-50.
+
+Early detection of ototoxicity using 1/6th-octave steps.
+
+Fausti SA(1), Helt WJ, Phillips DS, Gordon JS, Bratt GW, Sugiura KM, Noffsinger
+D.
+
+Author information: 
+(1)VA RR&D National Center for Rehabilitative Auditory Research, Portland VA
+Medical Center, Portland, Oregon 97239, USA. Stephen.fausti@med.va.gov
+
+The National Center for Rehabilitative Auditory Research has developed a protocol
+to provide early identification of ototoxicity for patients receiving ototoxic
+medications. The initial work involved patients with relatively good
+high-frequency hearing and resulted in the use of an individualized, sensitive
+frequency range separated by 1/6th-octave intervals. This protocol tested
+pure-tone frequencies at 1/6th-octave steps above 9 kHz, but only conventional
+audiometric frequencies were tested below 9 kHz. More recently, the testing
+protocol was expanded to include 1/6th-octave testing below 9 kHz. The primary
+question of interest was to determine whether adding 1/6th-octave test
+frequencies below 9 kHz would increase the ototoxicity detection rate for
+patients with poorer hearing. Results indicated 76 of the 210 (36.2%) ears that
+demonstrated initial ototoxic hearing change would have been missed or detected
+later if only conventional frequency testing was conducted.Therefore, for
+individuals with poorer hearing, expanding the use of the 1/6th-octave test
+protocol provides earlier identification of ototoxicity.
+
+PMID: 14655957  [PubMed - indexed for MEDLINE]
+
+
+99. Am J Physiol Lung Cell Mol Physiol. 2004 Mar;286(3):L506-13. Epub 2003 Aug 22.
+
+The Cdk and PCNA domains on p21Cip1 both function to inhibit G1/S progression
+during hyperoxia.
+
+Helt CE(1), Staversky RJ, Lee YJ, Bambara RA, Keng PC, O'Reilly MA.
+
+Author information: 
+(1)Department of Enviromental Medicine, School of Medicine and Dentistry, The
+University of Rochester, Rochester, NY 14642, USA.
+michael_oreilly@urmc.rochester.edu
+
+This study investigates molecular mechanisms underlying cell cycle arrest when
+cells are exposed to high levels of oxygen (hyperoxia). Hyperoxia has previously 
+been shown to increase expression of the cell cycle regulators p53 and p21. In
+the current study, we found that p53-deficient human lung adenocarcinoma H1299
+cells failed to induce p21 or growth arrest in G(1) when exposed to 95% oxygen.
+Instead, cells arrested in S and G(2). Stable expression of p53 restored
+induction of p21 and G(1) arrest without affecting mRNA expression of the other
+Cip or INK4 G(1) kinase inhibitors. To confirm the role of p21 in G(1) arrest, we
+created H1299 cells with tetracycline-inducible expression of enhanced green
+fluorescent protein (EGFP), EGFP fused to p21 (EGFp21), or EGFP fused to p27
+(EGFp27), a related cell cycle inhibitor. The amino terminus of p21 and p27 bind 
+cyclin-dependent kinases (Cdk), whereas the carboxy terminus of p21 binds the
+sliding clamp proliferating cell nuclear antigen (PCNA). EGFp21 or EGFp27, but
+not EGFP by itself, restored G(1) arrest during hyperoxia. When separately
+overexpressed, the amino-terminal Cdk and carboxy-terminal PCNA binding domains
+of p21 each prevented cells from exiting G(1) during exposure. These findings
+demonstrate that exposure in vitro to hyperoxia exerts G(1) arrest through
+p53-dependent induction of p21 that suppresses Cdk and PCNA activity. Because
+PCNA also participates in DNA repair, these results raise the possibility that
+p21 also affects repair of oxidized DNA.
+
+PMID: 12936910  [PubMed - indexed for MEDLINE]
+
+
+100. J Parasitol. 2003 Apr;89(2):346-50.
+
+Phyllodistomum funduli n. sp. (Trematoda: Gorgoderidae) from Fundulus sciadicus
+Cope from Cedar Creek in western Nebraska.
+
+Helt J(1), Janovy J Jr, Ubelaker J.
+
+Author information: 
+(1)School of Biological Sciences, University of Nebraska-Lincoln, Lincoln,
+Nebraska 68588, USA. jhelt1@bigred.unl.edu
+
+Phyllodistomum funduli n. sp. is described from the urinary bladder and ureters
+of the plains topminnow, Fundulus sciadicus, from Cedar Creek in Keith County,
+Nebraska (41 degrees 11.18'N, 101 degrees 21.77'W). Phyllodistomum funduli
+differs from most other Phyllodistomum species reported in possessing an oral
+sucker that is larger than the acetabulum. Currently, 7 other species of
+Phyllodistomum have been reported to possess this trait. A comparison of P.
+funduli with these 7 other species indicates that P. funduli is a distinct
+species, lacking notches, posterior body folds, caudal projections, or cephalic
+glands found in some congeners. There is no published report on parasites other
+than monogeneans inhabiting the plains topminnow, and there is no other report of
+members from the Gorgoderidae inhabiting any members of the Fundulidae.
+
+PMID: 12760652  [PubMed - indexed for MEDLINE]
+
+
+101. Carcinogenesis. 2003 Feb;24(2):159-69.
+
+Mechanisms by which DNA tumor virus oncoproteins target the Rb family of pocket
+proteins.
+
+Helt AM(1), Galloway DA.
+
+Author information: 
+(1)Division of Human Biology, Fred Hutchinson Cancer Research Center and
+Department of Microbiology, University of Washington, Seattle, USA.
+
+Small DNA tumor viruses have evolved different mechanisms to abrogate the
+function of the retinoblastoma tumor suppressor (pRb). Studies of these viruses
+have been invaluable in uncovering the central role of the Rb family of pocket
+proteins in cell cycle control. While the molecular mechanisms by which the viral
+oncoproteins inactivate the Rb family are still being elucidated, it is clear
+that targeting of this family is required both for viral replication and for
+virus-induced transformation of mammalian cells. This review compares and
+contrasts the approaches DNA tumor viruses have evolved to antagonize Rb family
+members--ranging from relatively simple equilibrium dissociation of pRb from
+cellular pRb-binding factors to chaperone-mediated alterations in pocket protein 
+stability and phosphorylation levels. The review will focus on the viral
+oncoproteins adenovirus E1A, human papillomavirus E7 and the large T antigens of 
+several polyomaviruses. An understanding of these mechanisms may provide further 
+insight into the regulation and functions of Rb family members as well as uncover
+new targets for the development of novel anti-viral agents, particularly against 
+human papillomavirus, which is a significant cause of human cancer.
+
+PMID: 12584163  [PubMed - indexed for MEDLINE]
+
+
+102. J Virol. 2002 Oct;76(20):10559-68.
+
+Inactivation of both the retinoblastoma tumor suppressor and p21 by the human
+papillomavirus type 16 E7 oncoprotein is necessary to inhibit cell cycle arrest
+in human epithelial cells.
+
+Helt AM(1), Funk JO, Galloway DA.
+
+Author information: 
+(1)Division of Human Biology, Fred Hutchinson Cancer Research Center, 1100
+Fairview Avenue N., Seattle, WA 98109, USA.
+
+The human papillomavirus (HPV) type 16 E7 oncoprotein must inactivate the
+retinoblastoma tumor suppressor (Rb) pathway to bypass G(1) arrest. However, E7
+C-terminal mutants that were able to inactivate Rb were unable to bypass DNA
+damage-induced G(1) arrest and keratinocyte senescence, suggesting that the E7 C 
+terminus may target additional G(1) regulators. The E7 C-terminal mutant proteins
+E7 CVQ68-70AAA and E7 Delta79-83 (deletion of positions 79 through 83) were
+further tested in several models of cell cycle arrest associated with elevated
+levels of p21. C-terminal mutations rendered E7 unable to induce S phase and
+endoreduplication in differentiated keratinocytes and rendered it less efficient 
+in delaying senescence of human mammary epithelial cells. Interestingly, when
+cell cycle arrest was induced with a peptide form of p21, the E7 C-terminal
+mutants were deficient in overcoming arrest, whereas a mutant defective in Rb
+binding was competent in inhibiting G(1) arrest. These results suggest that the
+inactivation of both p21 and Rb by E7 contributes to subversion of cell cycle
+control in normal human epithelia but that neither p21 nor Rb inactivation alone 
+is sufficient.
+
+PMCID: PMC136576
+PMID: 12239337  [PubMed - indexed for MEDLINE]
+
+
+103. BMC Bioinformatics. 2002 Jul 30;3:19.
+
+Visualizing the genome: techniques for presenting human genome data and
+annotations.
+
+Loraine AE(1), Helt GA.
+
+Author information: 
+(1)Bioinformatics Department, Affymetrix, Inc, 6550 Vallejo Street, Ste 100,
+Emeryville, CA 94608, USA. ann_loraine@affymetrix.com
+
+BACKGROUND: In order to take full advantage of the newly available public human
+genome sequence data and associated annotations, biologists require visualization
+tools ("genome browsers") that can accommodate the high frequency of alternative 
+splicing in human genes and other complexities.
+RESULTS: In this article, we describe visualization techniques for presenting
+human genomic sequence data and annotations in an interactive, graphical format. 
+These techniques include: one-dimensional, semantic zooming to show sequence data
+alongside gene structures; color-coding exons to indicate frame of translation;
+adjustable, moveable tiers to permit easier inspection of a genomic scene; and
+display of protein annotations alongside gene structures to show how alternative 
+splicing impacts protein structure and function. These techniques are illustrated
+using examples from two genome browser applications: the Neomorphic GeneViewer
+annotation tool and ProtAnnot, a prototype viewer which shows protein annotations
+in the context of genomic sequence.
+CONCLUSION: By presenting techniques for visualizing genomic data, we hope to
+provide interested software developers with a guide to what features are most
+likely to meet the needs of biologists as they seek to make sense of the rapidly 
+expanding body of public genomic data and annotations.
+
+PMCID: PMC119855
+PMID: 12149135  [PubMed - indexed for MEDLINE]
+
+
+104. Toxicol Sci. 2001 Oct;63(2):214-22.
+
+p53-dependent induction of p21(Cip1/WAF1/Sdi1) protects against oxygen-induced
+toxicity.
+
+Helt CE(1), Rancourt RC, Staversky RJ, O'Reilly MA.
+
+Author information: 
+(1)Departments of Pediatrics and Environmental Medicine, The University of
+Rochester, Rochester, New York 14642, USA.
+
+The beneficial effects of supplemental oxygen delivered to patients suffering
+from acute respiratory distress is offset by its reduction to genotoxic reactive 
+oxygen species (ROS) that inhibit proliferation and kill pulmonary cells. Cells
+respond to oxygen-induced damage by expressing the tumor suppressor p53 and the
+cyclin-dependent kinase inhibitor p21(Cip1/WAF1/Sdi1) (p21), which limits
+proliferation by blocking entry into S phase. Since preventing DNA synthesis
+during genotoxic stress may enhance survival, the current study examines whether 
+hyperoxia induces p21 through a p53-dependent pathway and whether p21 protects
+cells from the toxic effects of oxygen. HCT116 colon carcinoma cells and clonal
+lines lacking p53 or p21were used in this study because they allow direct
+cytotoxic comparisons between isogenic cells, without complications arising from 
+unknown genetic differences between nonhomologous cell lines. Hyperoxia (95% O2, 
+5% CO2) increased p53 abundance, phosphorylation of p53 on serine 15, and p21
+mRNA and protein in parental HCT116 cells that ceased proliferation. In contrast,
+p21 was not detected in either p53- or p21-deficient HCT116 cells, which exited
+the G1 compartment and were arrested in S and G2/M phases during hyperoxia.
+Trypan blue-dye exclusion revealed that induction of p21 markedly enhanced
+survival during exposure and colony survival assays showed that p21 enhanced the 
+ability to resume proliferation during recovery in room air. The observation that
+p53-dependent induction of p21 prevents exit from G1 and promotes survival during
+hyperoxia is consistent with the importance of limiting DNA replication during
+genotoxic stress caused by oxygen exposure.
+
+PMID: 11568365  [PubMed - indexed for MEDLINE]
+
+
+105. Microsc Res Tech. 2001 Sep 1;54(5):298-308.
+
+Effects of age and GDNF on noradrenergic innervation of the hippocampal
+formation: studies from intraocular grafts.
+
+Granholm AC(1), Helt C, Srivastava N, Backman C, Gerhardt GA.
+
+Author information: 
+(1)Department of Physiology and Neuroscience, Medical University of South
+Carolina, Charleston, South Carolina 29425, USA. granholm@musc.edu
+
+Recent studies have suggested that factors in the target tissue influence the
+degree of plasticity and regeneration following aging and/or specific insults. We
+have investigated whether young or aged targets differ in their noradrenergic
+innervation from fetal locus coeruleus (LC) neurons, and also if a specific
+growth factor, glial cell line-derived neurotrophic factor (GDNF) can affect this
+innervation pattern. Tissue pieces of fetal brainstem and young (3 months) or old
+(18 months) iris tissue were transplanted simultaneously into the anterior
+chamber of the eye of adult hosts. We found that aged iris transplants became
+innervated to a significantly lesser degree by the cografted LC neurons than
+young iris transplants. Fetal hippocampal tissue was then grafted to adult hosts,
+and a fetal brainstem graft containing LC neurons was placed adjacent to the
+first graft, either at 3 or 21 months post-grafting. Thus, old/young chimeras of 
+the noradrenergic coeruleo-hippocampal pathway were created. Aged hippocampal
+grafts received a much less dense innervation from co-grafted LC neurons than
+young hippocampal grafts. Tyrosine hydroxylase-positive-immunoreactive
+innervation was only found in the outskirts of aged grafts, while the young
+hippocampal grafts contained an even innervation pattern. The innervation density
+of hippocampal grafts was significantly enhanced by GDNF treatment. These
+findings demonstrate that target-derived factors may regulate neuronal
+plasticity, and that the age of the target is more important for innervation
+properties than the age of the neuron innervating a particular target.
+
+Copyright 2001 Wiley-Liss, Inc.
+
+PMID: 11514986  [PubMed - indexed for MEDLINE]
+
+
+106. Exp Neurol. 2001 Aug;170(2):258-69.
+
+Neuroprotection of grafted neurons with a GDNF/caspase inhibitor cocktail.
+
+Helt CE(1), Hoernig GR, Albeck DS, Gerhardt GA, Ickes B, Reyland ME, Quissell DO,
+Strömberg I, Granholm AC.
+
+Author information: 
+(1)Department of Basic Science, University of Colorado Health Sciences Center,
+Denver, Colorado 80262, USA.
+
+Transplantation of fetal ventral mesencephalic (VM) tissue shows great promise as
+an experimental therapy for patients with Parkinson's disease. However, cell
+survival in brain tissue grafts is poor, with survival rates of only 5-15%. We
+have utilized a combination of the caspase inhibitor bocaspartyl
+(OMe)-fluoromethylketone (BOC-ASP-CH2F) and glial cell line-derived neurotrophic 
+factor (GDNF) to enhance survival of grafted dopamine neurons. The VM tissue was 
+dissected from embryonic day 13-15 rat fetuses, incubated in different doses of
+BOC-ASP-CH2F and GDNF, and transplanted to the anterior chamber of the eye of
+adult rats. Growth of the tissue was assessed through the translucent cornea.
+Doses of 50 and 100 micromolar of the general caspase inhibitor appeared to have 
+detrimental effects on mesencephalic tissue, while 20 micromolar had beneficial
+effects on overall transplant growth. A combination of the caspase inhibitor and 
+GDNF appeared to have more prominent effects on cell survival as well as
+dopaminergic fiber density than either agent by itself. The transplants doubled
+in size when they were treated with a combination of BOC-ASP-CH2F and GDNF, and
+cell death markers were significantly reduced at both 48 h and 4-6 days
+postgrafting. This is, to our knowledge, the first combined approach using
+apoptotic blockers with trophic factors, and demonstrates a viable strategy for
+protection of developing neurons, since several different aspects of graft
+function may be addressed simultaneously.
+
+Copyright 2001 Academic Press.
+
+PMID: 11476591  [PubMed - indexed for MEDLINE]
+
+
+107. J Virol. 2001 Aug;75(15):6737-47.
+
+Destabilization of the retinoblastoma tumor suppressor by human papillomavirus
+type 16 E7 is not sufficient to overcome cell cycle arrest in human
+keratinocytes.
+
+Helt AM(1), Galloway DA.
+
+Author information: 
+(1)Division of Human Biology, Fred Hutchinson Cancer Research Center, Seattle,
+Washington 98109, USA.
+
+The E7 oncoprotein of human papillomavirus type 16 promotes cell proliferation in
+the presence of antiproliferative signals. Mutagenesis of E7 has revealed that
+this activity requires three regions, conserved regions 1 and 2 and a C-terminal 
+zinc finger. Binding to the retinoblastoma tumor repressor (Rb) through an LxCxE 
+motif in conserved region 2 is necessary, but not sufficient, for E7 to induce
+proliferation. We tested the hypothesis that binding to Rb is not sufficient
+because conserved region 1 and/or the C terminus are required for E7 to
+functionally inactivate Rb and thus induce proliferation. One mechanism proposed 
+for how E7 inactivates Rb is by blocking Rb-E2F binding. Either conserved region 
+1 or the C terminus was necessary, in combination with the LxCxE motif, for E7 to
+block Rb-E2F binding in vitro. While all full-length E7 proteins with mutations
+outside of the LxCxE motif inhibited Rb-E2F binding, some failed to abrogate cell
+cycle arrest, demonstrating that blocking Rb-E2F binding is not sufficient for
+abrogating antiproliferative signals. Another mechanism proposed for how E7
+inactivates Rb is by promoting the destabilization of Rb protein. Mutations in
+conserved region 1 or the LxCxE motif prevented E7 from reducing the half-life of
+Rb. Though no specific C-terminal residues of E7 were essential for destabilizing
+Rb, a novel class of mutations that uncouple the destabilization of Rb from the
+deregulation of keratinocyte proliferation was discovered. Destabilization of Rb 
+correlated with the abrogation of Rb-induced quiescence but was not sufficient
+for overriding DNA damage-induced cell cycle arrest or for increasing
+keratinocyte life span. Finally, the same regions of E7 required for
+destabilizing Rb were required for reducing p107 and p130 levels. Together, these
+results suggest that inactivation of all three Rb family members is not
+sufficient to deregulate keratinocyte cell cycle control.
+
+PMCID: PMC114400
+PMID: 11435552  [PubMed - indexed for MEDLINE]
+
+
+108. Am J Physiol Lung Cell Mol Physiol. 2001 Apr;280(4):L617-26.
+
+The role of p21(CIP1/WAF1) in growth of epithelial cells exposed to hyperoxia.
+
+Rancourt RC(1), Keng PC, Helt CE, O'Reilly MA.
+
+Author information: 
+(1)Department of Environmental Medicine, University of Rochester, Rochester, NY
+14642, USA.
+
+Previous studies have shown that hyperoxia inhibits proliferation and increases
+the expression of the tumor suppressor p53 and its downstream target, the
+cyclin-dependent kinase inhibitor p21(CIP1/WAF1), which inhibits proliferation in
+the G1 phase of the cell cycle. To determine whether growth arrest was mediated
+through activation of the p21-dependent G1 checkpoint, the kinetics of cell cycle
+movement during exposure to 95% O2 were assessed in the Mv1Lu and A549 pulmonary 
+adenocarcinoma cell lines. Cell counts, 5-bromo-2'-deoxyuridine incorporation,
+and cell cycle analyses revealed that growth arrest of both cell lines occurred
+in S phase, with A549 cells also showing evidence of a G1 arrest. Hyperoxia
+increased p21 in A549 but not in Mv1Lu cells, consistent with the activation of
+the p21-dependent G1 checkpoint. The ability of p21 to exert the G1 arrest was
+confirmed by showing that hyperoxia inhibited proliferation of HCT 116 colon
+carcinoma cells predominantly in G1, whereas an isogenic line lacking p21
+arrested in S phase. The cell cycle arrest in S phase appears to be a
+p21-independent process caused by a gradual reduction in the rate of DNA strand
+elongation. Our data reveal that hyperoxia inhibits proliferation in G1 and S
+phase and demonstrate that p53 and p21 retain their ability to affect G1
+checkpoint control during exposure to elevated O2 levels.
+
+PMID: 11238001  [PubMed - indexed for MEDLINE]
+
+
+109. Proc Int Conf Intell Syst Mol Biol. 2000;8:239-50.
+
+An evaluation of ontology exchange languages for bioinformatics.
+
+McEntire R(1), Karp P, Abernethy N, Benton D, Helt G, DeJongh M, Kent R, Kosky A,
+Lewis S, Hodnett D, Neumann E, Olken F, Pathak D, Tarczy-Hornoch P, Toldo L,
+Topaloglou T.
+
+Author information: 
+(1)SmithKline Beecham Pharmaceuticals, King of Prussia, PA 19406, USA.
+Robin_A_McEntire@sbphrd.com
+
+Ontologies are specifications of the concepts in a given field, and of the
+relationships among those concepts. The development of ontologies for
+molecular-biology information and the sharing of those ontologies within the
+bioinformatics community are central problems in bioinformatics. If the
+bioinformatics community is to share ontologies effectively, ontologies must be
+exchanged in a form that uses standardized syntax and semantics. This paper
+reports on an effort among the authors to evaluate alternative ontology-exchange 
+languages, and to recommend one or more languages for use within the larger
+bioinformatics community. The study selected a set of candidate languages, and
+defined a set of capabilities that the ideal ontology-exchange language should
+satisfy. The study scored the languages according to the degree to which they
+satisfied each capability. In addition, the authors performed several
+ontology-exchange experiments with the two languages that received the highest
+scores: OML and Ontolingua. The result of those experiments, and the main
+conclusion of this study, was that the frame-based semantic model of Ontolingua
+is preferable to the conceptual graph model of OML, but that the XML-based syntax
+of OML is preferable to the Lisp-based syntax of Ontolingua.
+
+PMID: 10977085  [PubMed - indexed for MEDLINE]
+
+
+110. Am J Audiol. 2000 Jun;9(1):36-49.
+
+Computer-automated clinical technique for tinnitus quantification.
+
+Henry JA(1), Fausti SA, Flick CL, Helt WJ, Ellingson RM.
+
+Author information: 
+(1)Veterans Affairs RR&D National Center for Rehabilitative Auditory Research,
+Portland VA Medical Center, OR, USA. henryj@ohsu.edu
+
+This study addresses the need for uniformity in techniques for clinical
+quantification of tinnitus. Because automation can be an effective means to
+achieve standardization, this laboratory is developing techniques to perform
+computer-automated tinnitus testing. The present study was conducted to
+demonstrate the feasibility of obtaining reliable tinnitus measures using a fully
+automated system. A computer-controlled psychoacoustical system was developed to 
+quantify tinnitus loudness and pitch using a tone-matching technique. Hearing
+thresholds were also obtained as part of the procedure. The system generated test
+stimuli and simultaneously controlled a notebook computer positioned in the sound
+chamber facing the patient. The notebook computer displayed instructions for
+responding and relayed response choices through on-screen "buttons" that the
+patient touched with a pen device. Twenty individuals with tinnitus were
+evaluated with the technique over two sessions, and responses were analyzed for
+test-retest reliability. Analyses revealed good reliability of thresholds,
+loudness matches, and pitch matches. These results demonstrate that use of a
+fully automated system to obtain reliable measurements of tinnitus loudness and
+pitch is feasible for clinical application.
+
+PMID: 10943023  [PubMed - indexed for MEDLINE]
+
+
+111. Science. 2000 Mar 24;287(5461):2185-95.
+
+The genome sequence of Drosophila melanogaster.
+
+Adams MD, Celniker SE, Holt RA, Evans CA, Gocayne JD, Amanatides PG, Scherer SE, 
+Li PW, Hoskins RA, Galle RF, George RA, Lewis SE, Richards S, Ashburner M,
+Henderson SN, Sutton GG, Wortman JR, Yandell MD, Zhang Q, Chen LX, Brandon RC,
+Rogers YH, Blazej RG, Champe M, Pfeiffer BD, Wan KH, Doyle C, Baxter EG, Helt G, 
+Nelson CR, Gabor GL, Abril JF, Agbayani A, An HJ, Andrews-Pfannkoch C, Baldwin D,
+Ballew RM, Basu A, Baxendale J, Bayraktaroglu L, Beasley EM, Beeson KY, Benos PV,
+Berman BP, Bhandari D, Bolshakov S, Borkova D, Botchan MR, Bouck J, Brokstein P, 
+Brottier P, Burtis KC, Busam DA, Butler H, Cadieu E, Center A, Chandra I, Cherry 
+JM, Cawley S, Dahlke C, Davenport LB, Davies P, de Pablos B, Delcher A, Deng Z,
+Mays AD, Dew I, Dietz SM, Dodson K, Doup LE, Downes M, Dugan-Rocha S, Dunkov BC, 
+Dunn P, Durbin KJ, Evangelista CC, Ferraz C, Ferriera S, Fleischmann W, Fosler C,
+Gabrielian AE, Garg NS, Gelbart WM, Glasser K, Glodek A, Gong F, Gorrell JH, Gu
+Z, Guan P, Harris M, Harris NL, Harvey D, Heiman TJ, Hernandez JR, Houck J,
+Hostin D, Houston KA, Howland TJ, Wei MH, Ibegwam C, Jalali M, Kalush F, Karpen
+GH, Ke Z, Kennison JA, Ketchum KA, Kimmel BE, Kodira CD, Kraft C, Kravitz S, Kulp
+D, Lai Z, Lasko P, Lei Y, Levitsky AA, Li J, Li Z, Liang Y, Lin X, Liu X, Mattei 
+B, McIntosh TC, McLeod MP, McPherson D, Merkulov G, Milshina NV, Mobarry C,
+Morris J, Moshrefi A, Mount SM, Moy M, Murphy B, Murphy L, Muzny DM, Nelson DL,
+Nelson DR, Nelson KA, Nixon K, Nusskern DR, Pacleb JM, Palazzolo M, Pittman GS,
+Pan S, Pollard J, Puri V, Reese MG, Reinert K, Remington K, Saunders RD, Scheeler
+F, Shen H, Shue BC, Sidén-Kiamos I, Simpson M, Skupski MP, Smith T, Spier E,
+Spradling AC, Stapleton M, Strong R, Sun E, Svirskas R, Tector C, Turner R,
+Venter E, Wang AH, Wang X, Wang ZY, Wassarman DA, Weinstock GM, Weissenbach J,
+Williams SM, WoodageT, Worley KC, Wu D, Yang S, Yao QA, Ye J, Yeh RF, Zaveri JS, 
+Zhan M, Zhang G, Zhao Q, Zheng L, Zheng XH, Zhong FN, Zhong W, Zhou X, Zhu S, Zhu
+X, Smith HO, Gibbs RA, Myers EW, Rubin GM, Venter JC.
+
+The fly Drosophila melanogaster is one of the most intensively studied organisms 
+in biology and serves as a model system for the investigation of many
+developmental and cellular processes common to higher eukaryotes, including
+humans. We have determined the nucleotide sequence of nearly all of the
+approximately 120-megabase euchromatic portion of the Drosophila genome using a
+whole-genome shotgun sequencing strategy supported by extensive clone-based
+sequence and a high-quality bacterial artificial chromosome physical map. Efforts
+are under way to close the remaining gaps; however, the sequence is of sufficient
+accuracy and contiguity to be declared substantially complete and to support an
+initial analysis of genome structure and preliminary gene annotation and
+interpretation. The genome encodes approximately 13,600 genes, somewhat fewer
+than the smaller Caenorhabditis elegans genome, but with comparable functional
+diversity.
+
+PMID: 10731132  [PubMed - indexed for MEDLINE]
+
+
+112. Ear Hear. 1999 Dec;20(6):497-505.
+
+An individualized, sensitive frequency range for early detection of ototoxicity.
+
+Fausti SA(1), Henry JA, Helt WJ, Phillips DS, Frey RH, Noffsinger D, Larson VD,
+Fowler CG.
+
+Author information: 
+(1)VA RR&D National Center for Rehabilitative Auditory Research, Department of
+Veterans Affairs Medical Center, Portland, Oregon.
+
+OBJECTIVE: The aim of this study was to identify auditory frequencies at which
+serial threshold testing would provide the greatest sensitivity for early
+detection of ototoxicity. The overall objective is to develop a more
+time-efficient ototoxicity monitoring protocol.
+DESIGN: Threshold data were analyzed from 370 hospitalized patients treated with 
+aminoglycoside antibiotics (AMGs) or cisplatin (CDDP) who received serial
+auditory monitoring before, during, and after treatment at conventional (0.25 to 
+8 kHz) and high (9 to 20 kHz) frequencies.
+RESULTS: For patients showing hearing changes due to ototoxicity, a frequency
+range was identified for its apparent high sensitivity to initial ototoxicity.
+This sensitive range is identified according to an individual's hearing threshold
+configuration, and is, therefore, unique for each patient. The range consists of 
+five frequencies, generally separated by 1/6 octave, e.g., 8, 9, 10, 11.2, and
+12.5 kHz. To determine frequencies and combinations of frequencies that were most
+often involved in ototoxicity detection, threshold data in the sensitive range
+were analyzed in detail. This analysis suggests that patients receiving treatment
+with AMG or CDDP can be monitored for hearing thresholds at only five
+frequencies, resulting in an 84% detection rate for AMG and 94% for CDDP compared
+with monitoring at all conventional and high frequencies.
+CONCLUSIONS: This comprehensive analysis supports earlier observations that a
+sensitive, limited frequency range exists in which serial threshold monitoring
+will provide early warning of ototoxicity before effects in the speech frequency 
+range. This finding is now being evaluated in a prospective investigation.
+
+PMID: 10613387  [PubMed - indexed for MEDLINE]
+
+
+113. CMAJ. 1999 May 4;160(9):1299-302.
+
+Prevalence of gestational diabetes mellitus among Swampy Cree women in Moose
+Factory, James Bay.
+
+Godwin M(1), Muirhead M, Huynh J, Helt B, Grimmer J.
+
+Author information: 
+(1)Department of Family Medicine, Queen's University, Kingston, Ont.
+godwinm@post.queensu.ca
+
+Comment in
+    CMAJ. 1999 May 4;160(9):1315-6.
+
+BACKGROUND: Although high rates of gestational diabetes mellitus have been
+documented in native populations, few studies have examined rates of the disease 
+among native Indians in Canada. The authors conducted a study to estimate the
+prevalence of gestational diabetes among Swampy Cree women, to identify factors
+predictive of the occurrence of gestational diabetes, and to identify delivery
+and infant outcomes related to the presence of the disease.
+METHODS: Information on Swampy Cree women who gave birth at Weeneebayko Hospital,
+Moose Factory, James Bay, Ont., between 1987 and 1995 was obtained from medical
+charts. Patients with and without gestational diabetes were compared. Logistic
+regression analysis was used to identify independent predictors of gestational
+diabetes. Delivery and infant outcomes that occurred secondary to gestational
+diabetes were also identified by means of logistic regression.
+RESULTS: A total of 1401 deliveries occurred at Weeneebayko Hospital over the
+study period, of which 1298 were included in the study. Gestational diabetes was 
+diagnosed in 110 (8.5% [95% confidence interval (CI) 6.9%-9.9%]) of the 1298
+pregnancies. Factors predictive of gestational diabetes were age 35 years or more
+(relative risk [RR] 4.1, 95% CI 1.5-11.7), a history of gestational diabetes in a
+previous pregnancy (RR 6.4, 95% CI 3.5-11.7), diastolic blood pressure of 80 mm
+Hg or higher at the first prenatal visit (RR 1.7, 95% CI 1.1-2.8), weight greater
+than 80 kg at the first prenatal visit (RR 4.9, 95% CI 1.8-12.9) and having a
+first-degree relative with diabetes (RR 3.0, 95% CI 1.4-6.1). The only delivery
+outcome independently associated with the presence of gestational diabetes was an
+increased likelihood of needing assisted delivery (forceps or vacuum extraction) 
+(RR 2.8, 95% CI 1.1-7.0). Shoulder dystocia was indirectly associated with
+gestational diabetes owing to increased infant birth weight. Infant outcomes
+associated with the presence of gestational diabetes were birth weight greater
+than 4500 g (RR 2.4, 95% CI 1.4-3.8), hyperbilirubinemia (RR 2.9, 95% CI
+1.4-6.1), hypoglycemia (RR 7.3, 95% CI 3.7-14.4) and hypocalcemia (RR 8.9, 95% CI
+2.3-33.7).
+INTERPRETATION: Gestational diabetes occurred in a significant minority of Swampy
+Cree women and was associated with a number of adverse outcomes.
+
+PMCID: PMC1230311
+PMID: 10333831  [PubMed - indexed for MEDLINE]
+
+
+114. Nucleic Acids Res. 1999 Jan 1;27(1):85-8.
+
+The FlyBase database of the Drosophila Genome Projects and community literature.
+
+FlyBase Consortium(1).
+
+Collaborators: Gelbart WM, Crosby M, Matthews B, Chillemi J, Twombly SR, Emmert
+D, Bayraktaroglu L, Smutniak F, Kossida S, Ashburner M, Drysdale RA, Whitfield
+EJ, Millburn GH, de Grey A, Kaufman T, Matthews K, Gilbert D, Strelets V,
+Grumbling G, Tolstoshev C, Rubin GM, Lewis S, Helt G, Misra S, Harris N,
+Brokstein P, Loraine A, Simas D, Benos T.
+
+Author information: 
+(1)FlyBase, The Biological Laboratories, Harvard University, 16 Divinity Avenue, 
+Cambridge, MA 02138, USA.
+
+The FlyBase Drosophila genetics database and the public interfaces of the
+Berkeley Drosophila Genome Project (BDGP) and European Drosophila Genome Project 
+(EDGP) are in the process of integrating. At present, the data of these projects 
+are available from independent, but hyperlinked, WWW sites (FlyBase URL,
+http://flybase. bio.indiana.edu/; BDGP URL, http://fruitfly.berkeley.edu/; EDGP
+URL, http://edgp.ebi.ac.uk/ ). Because of the considerable overlap of data
+classes between the contributions of the Drosophila genome projects and the
+Drosophila community, the new and enlarged FlyBase consortium views the
+implementation of a single integrated Drosophila genomics/genetics server as
+essential to the scientific community. This integration will occur in a stepwise 
+fashion over the next 1-2 years. In this report, the salient features of the
+current databases and how to interrogate and navigate the extensive data sets are
+discussed.
+
+PMCID: PMC148103
+PMID: 9847148  [PubMed - indexed for MEDLINE]
+
+
+115. Genome Res. 1998 Mar;8(3):291-305.
+
+BioViews: Java-based tools for genomic data visualization.
+
+Helt GA(1), Lewis S, Loraine AE, Rubin GM.
+
+Author information: 
+(1)Berkeley Drosophila Genome Project (BDGP), Department of Molecular and Cell
+Biology, University of California Berkeley, Berkeley, California 94720-3200, USA.
+
+Visualization tools for bioinformatics ideally should provide universal access to
+the most current data in an interactive and intuitive graphical user interface.
+Since the introduction of Java, a language designed for distributed programming
+over the Web, the technology now exists to build a genomic data visualization
+tool that meets these requirements. Using Java we have developed a prototype
+genome browser applet (BioViews) that incorporates a three-level graphical view
+of genomic data: a physical map, an annotated sequence map, and a DNA sequence
+display. Annotated biological features are displayed on the physical and
+sequence-based maps, and the different views are interconnected. The applet is
+linked to several databases and can retrieve features and display hyperlinked
+textual data on selected features. In addition to browsing genomic data,
+different types of analyses can be performed interactively and the results of
+these analyses visualized alongside prior annotations. Our genome browser is
+built on top of extensible, reusable graphic components specifically designed for
+bioinformatics. Other groups can (and do) reuse this work in various ways. Genome
+centers can reuse large parts of the genome browser with minor modifications,
+bioinformatics groups working on sequence analysis can reuse components to build 
+front ends for analysis programs, and biology laboratories can reuse components
+to publish results as dynamic Web documents.
+
+PMCID: PMC310693
+PMID: 9521932  [PubMed - indexed for MEDLINE]
+
+
+116. Radiat Res. 1996 Sep;146(3):267-75.
+
+Radiation inactivation of human prostate cancer cells: the role of apoptosis.
+
+Algan O(1), Stobbe CC, Helt AM, Hanks GE, Chapman JD.
+
+Author information: 
+(1)Department of Radiation Oncology, Fox Chase Cancer Center, Philadelphia,
+Pennsylvania 19111, USA.
+
+Radiation-induced apoptosis detected by gel electrophoresis was measured in cells
+of three human prostate carcinoma cell lines (TSU, PC-3 and DU-145) and compared 
+to their intrinsic radiosensitivities as measured by clonogenic assays. The
+intrinsic radiosensitivities of each cell line were defined by their alpha and
+beta coefficients and their surviving fraction at 2 Gy, derived from complete
+survival curves. The temporal expression and kinetics of radiation-induced
+apoptosis for DU-145 cells, the human prostate carcinoma cell line which
+expressed the highest rate of radiation-induced apoptosis, was characterized
+further by differential sedimentation and the immunofluorescence assay (Apoptag) 
+which was specific for 3'-OH ends in cellular DNA. Cell viability was measured
+microscopically with trypan blue staining. Cell survival after various doses was 
+computer-fitted to either a simple linear or a linear-quadratic equation.
+Twenty-four hours after a 10-Gy dose of 137Cs gamma rays, DNA fragmentation to
+nucleosome multimers was strongly expressed in only DU-145 cells. In this cell
+line, when centrifugation at 12,000g for 10 min was used to separate fragmented
+from large molecular weight DNA, the proportion of DNA in the supernatant
+increased to a maximum of approximately 17% of the total by 10-12 h after
+radiation treatment. Cell death 24 h after irradiation measured by trypan blue
+exclusion assays followed single-hit kinetics up to 80 Gy. The proportion of
+cells which were labeled with Apoptag displayed single-hit kinetics and yielded
+the same inactivation coefficient as measured by trypan blue. Together, these
+data indicate that the rapid (24 h) inactivation of irradiated DU-145 cells
+results from apoptosis and accounts for about 5% of the single-hit killing
+measured by clonogenic assay. Temporal studies of radiation-induced killing of
+DU-145 cells distinguished this rapid mechanism of cell death from the major
+mechanism (72-144 h). These may correlate with apoptosis and proliferative cell
+death, respectively. Of the three prostate cancer cell lines investigated, only
+DU-145 cells displayed significant levels of radiation-induced DNA fragmentation 
+and rapid cell death, with characteristics of apoptosis. This mechanism of cell
+death was complete by 24 h after irradiation and was well separated in time from 
+the death of cells by the major mechanisms which occurred after 72 h, and
+accounted for about 5% of cell inactivation by a single-hit mechanism.
+
+PMID: 8752304  [PubMed - indexed for MEDLINE]
+
+
+117. Biochemistry. 1996 May 7;35(18):5719-25.
+
+Cellular and in vitro transport of glutathione conjugates by MRP.
+
+Shen H(1), Paul S, Breuninger LM, Ciaccio PJ, Laing NM, Helt M, Tew KD, Kruh GD.
+
+Author information: 
+(1)Department of Pharmacology, Fox Chase Cancer Center, Philadelphia,
+Pennsylvania 19111, USA.
+
+Retraction in
+    Biochemistry. 1997 Nov 11;36(45):13972.
+
+MRP is a recently identified ATP-binding cassette transporter. We previously
+established that MRP confers resistance to a spectrum of natural product
+cytotoxic drugs [Kruh, G.D., (1994) Cancer Res. 54, 1649-1652], that expression
+of MRP is associated with enhanced drug efflux [Breuninger, L.M., (1995) Cancer
+Res. 55, 5342-5347], and that MRP transcript is widely expressed in human tissues
+and solid tumor cell lines [Kruh, G.D., (1995) J. Natl. Cancer Inst. 87,
+1256-1258]. In the present study the relationship between MRP and drug
+glutathione S-conjugates was examined. We observed that MRP was labeled by
+azidophenacylglutathione (APA-SG), a photoaffinity analog of glutathione, and
+that inside-out membrane vesicles prepared from MRP-overexpressing HL60/ADR cells
+transported this compound. Transport into membrane vesicles was ATP-dependent,
+sensitive to osmolarity, and saturable with regard to APA-SG and ATP
+concentrations, with Km values of 15 and 61 microM, respectively. APA-SG
+transport was competitively inhibited by the natural product cytotoxic drugs
+daunorubicin, vincristine, and etoposide, with Ki values of 4.8, 3.8, and 5.5
+microM, respectively. Oxidized glutathione, the drug-glutathione S-conjugate
+DNP-SG, the LTD4 antagonist MK571 and arsenate were also competitive inhibitors, 
+with Ki values of 9.0, 23.4, 1.1, and 15.0 microM, respectively. Analysis of the 
+fate of monochlorobimane in MRP transfectants revealed reduced intracellular
+concentrations of drug-glutathione S-conjugates associated with enhanced efflux
+and altered intracellular distribution. These results indicate that MRP can
+transport glutathione conjugates in vitro and in living cells and suggest the
+possibility that the transporter may represent a link between cellular resistance
+to some classes of cytotoxic drugs and glutathione-mediated mechanisms of
+resistance. In addition, the observation that both mildly cationic or neutral
+natural product cytotoxic drugs and anionic compounds such as DNP-SG, MK571, and 
+arsenate are competitive inhibitors of MRP action suggests that the substrate
+specificity of the transporter is quite broad.
+
+PMID: 8639531  [PubMed - indexed for MEDLINE]
+
+
+118. Neurourol Urodyn. 1996;15(1):17-29.
+
+Levator ani muscle in women with genitourinary prolapse: indirect assessment by
+muscle histopathology.
+
+Helt M(1), Benson JT, Russell B, Brubaker L.
+
+Author information: 
+(1)University of Louisville, School of Medicine, Louisville, Kentucky, USA.
+
+The objective of this study was to assess the state of innervation in levator ani
+muscle sites using muscle histopathology. Asymptomatic women and patients with
+genitourinary prolapse were included. Histopathologic analysis allows indirect
+assessment of a muscle's innervation. Therefore, levator ani muscle was collected
+in a standardized fashion during abdominal surgery and frozen in the operating
+room using isopentane slush cooled by liquid nitrogen. Serial sections of levator
+ani muscle in cross-section were studied with standard histochemical and
+immunohistochemical techniques. The staining patterns from these histochemical
+techniques allowed quantitative determination of the ratios of fiber types I,
+IIA, and IIB and their fiber diameters. Objective assessment of fiber type
+grouping was performed. The distribution of both fiber type percentage and
+diameter were non-parametric. Therefore, the Mann-Whitney U-test was used to
+analyze the data for statistical differences between the means for these
+variables. There was no statistical difference in levator ani muscle fiber type
+percentage and diameter in patients with prolapse and/or urinary incontinence
+when compared to asymptomatic women. Levator ani muscles have a higher proportion
+of slow fibers (66%) than found in other human female muscle (48%). There was no 
+evidence for denervation/reinnervation in any of the biopsy specimens. In this
+study, levator ani muscle biopsies from incontinent and/or prolapse patients were
+neither denervated nor reinnervated.
+
+PMID: 8696353  [PubMed - indexed for MEDLINE]
+
+
+119. Cancer Lett. 1994 May 16;79(2):213-9.
+
+A sensitive assay for taxol and other microtubule-stabilizing agent.
+
+Smith CD(1), Mooberry SL, Zhang X, Helt AM.
+
+Author information: 
+(1)Department of Pharmacology, Fox Chase Cancer Center, Philadelphia, PA 19111.
+
+The ability of taxol to protect microtubules in cultured human ovarian carcinoma 
+cells from drug- and cold-induced depolymerization was characterized as a
+functional assay for microtubule stabilizing agents. Treatment of the cells with 
+concentrations of vinblastine or colchicine of 50 nM or greater, or incubation at
+4 degrees C resulted in complete depolymerization of cytoplasmic microtubules.
+Pretreatment with taxol for 3 h enabled the cells to maintain substantial numbers
+of microtubules following the application of vinblastine or colchicine. This
+protective effect was easily observed at 50 nM taxol, whereas taxol-induced
+microtubule bundling was observed only at concentrations of 500 nM or greater.
+Concentrations of taxol as low as 10 nM stabilized microtubules against
+cold-induced depolymerization. Therefore, protection of microtubules from drug-
+and cold-induced depolymerization provides a sensitive functional assay for
+taxol. These systems should be similarly effective in identifying novel compounds
+which stabilize microtubules.
+
+PMID: 7912646  [PubMed - indexed for MEDLINE]
+
+
+120. J Vasc Nurs. 1993 Jun;11(2):58.
+
+Vertebral artery reconstruction in a setting of extensive cerebrovascular
+disease.
+
+Helt J.
+
+PMID: 8274381  [PubMed - indexed for MEDLINE]
+
+
+121. Neuropatol Pol. 1992;30(1):13-28.
+
+Influence of short-term ischemia on the ultrastructure of hippocampal gyrus in
+Mongolian gerbil. III. Synapses in late stage of the pathological process.
+
+Gajkowska B(1), Gadamski R, Mossakowski MJ.
+
+Author information: 
+(1)Department of Neuropathology, Medical Research Centre, Polish Academy of
+Sciences, Warsaw.
+
+Electron microscope analysis of the CA1 Ammon's horn sector was performed in
+Mongolian gerbils three days after an incident of short-term ischemia of the
+forebrain. CA1 pyramidal neurons showed advanced disintegration. Some GABA-ergic 
+interneurons revealed ultrastructural alteration of variable degree. The latter
+finding contradicts the generally helt view on the relative resistance of CA1
+sector interneurons to the ischemic injury. Synapses localized in all cortical
+layers of the CA1 sector exhibited ultrastructural abnormalities involving both
+pre- and postsynaptic parts. They consisted in marked swelling and accumulation
+of unbound electron dense material, considered as calcium deposits. Presynaptic
+parts revealed additionally reduced number of synaptic vesicles and their
+abnormal distribution. Contrary to the early postischemic period, the most severe
+synaptic alterations appeared in stratum pyramidale, radiatum and oriens,
+involving both small dendritic branchings and their spines as well as large
+shafts of both basal and apical pyramidal dendrites. Synaptic alterations
+especially features of the postsynaptic damage correspond to those indicating
+excitotoxic neuronal lesions. Presynaptic alterations may indicate both cessation
+of neurotransmission function as well as direct ischemic damage. The presence of 
+calcium deposition seems to favour the former possibility.
+
+PMID: 1484606  [PubMed - indexed for MEDLINE]
+
+
+122. J Vasc Nurs. 1991 Dec;9(4):2-8.
+
+Foot care and footwear to prevent amputation.
+
+Helt J.
+
+PMID: 1772772  [PubMed - indexed for MEDLINE]
+
+
+123. J Child Adolesc Psychiatr Ment Health Nurs. 1989 Jul-Sep;2(3):110-2.
+
+Simultaneous parent and child post-discharge groups.
+
+Roy B, Helt A.
+
+PMID: 2769585  [PubMed - indexed for MEDLINE]
+
+
+124. Nurs Manage. 1988 Jun;19(6):36-8, 42, 46-8.
+
+In the wake of cost cutting, nursing productivity and quality improve.
+
+Helt EH, Jelinek RC.
+
+PMID: 3380483  [PubMed - indexed for MEDLINE]
+
+
+125. Arch Phys Med Rehabil. 1985 Jun;66(6):365-8.
+
+Deep venous thrombosis: diagnosis in spinal cord injured patients.
+
+Chu DA, Ahn JH, Ragnarsson KT, Helt J, Folcarelli P, Ramirez A.
+
+Because the acute spinal cord injured patient is at high risk for the development
+of deep venous thrombosis (DVT), accurate diagnosis is critical. Clinical
+evaluation is unreliable 50% of the time, however, and the two highly accurate
+diagnostic procedures--venography and 125I-labelled fibrinogen scanning--are
+invasive and present serious drawbacks. The literature concerning the
+effectiveness of the two most widely used noninvasive diagnostic alternatives
+(Doppler ultrasound and venous occlusion plethysmography [VOP]) is equivocal. In 
+our systematic evaluation of a series of 21 patients, using clinical examination,
+Doppler ultrasound and VOP, all patients who developed DVT were identified by all
+three methods. Overall accuracy, sensitivity and specificity were 100%.
+
+PMID: 3890800  [PubMed - indexed for MEDLINE]
+
+
+126. J Agric Food Chem. 1983 Mar-Apr;31(2):220-3.
+
+Determination of carbosulfan and carbofuran residues in plants, soil, and water
+by gas chromatography.
+
+Leppert BC, Markle JC, Helt RC, Fujie GH.
+
+PMID: 6853851  [PubMed - indexed for MEDLINE]
+
+
+127. Am J Public Health. 1975 May;65(3):284-90.
+
+Quality: medical care's answer to Madison Avenue.
+
+Helt EH, Pelikan JA.
+
+PMCID: PMC1778038
+PMID: 1115294  [PubMed - indexed for MEDLINE]
+
+
+128. Int J Health Serv. 1973;3(3):475-85.
+
+Economic determinism: a model of the political economy of medical care.
+
+Helt EH.
+
+PMID: 4747175  [PubMed - indexed for MEDLINE]
+
+
+129. J Med Chem. 1972 Oct;15(10):1024-7.
+
+Amidines. 3. Thioureas possessing antihypertensive activity.
+
+Loev B, Bender PE, Bowman H, Helt A, McLean R, Jen T.
+
+PMID: 5069768  [PubMed - indexed for MEDLINE]
+
+
+130. J Med Chem. 1972 Jul;15(7):727-31.
+
+Amidines. 2. A new class of antihypertensive agents.
+1,2,3,5-Tetrahydroimidazo(2,1-b)quinazolines.
+
+Jen T, Dienel B, Bowman H, Petta J, Helt A, Loev B.
+
+PMID: 5043872  [PubMed - indexed for MEDLINE]
+
+

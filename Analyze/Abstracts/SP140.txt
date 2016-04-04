@@ -1,0 +1,1155 @@
+
+1. Sleep. 2015 Dec 4. pii: sp-00049-15. [Epub ahead of print]
+
+Whole Genome DNA Methylation Analysis of Obstructive Sleep Apnea: IL1R2/ NPR2/
+AR/ SP140 Methylation and Clinical Phenotype.
+
+Chen YC, Chen TW, Su MC, Chen CJ, Chen KD, Liou CW, Tang P, Wang TY, Chang JC,
+Wang CC, Lin HC, Chin CH, Huang KT, Lin MC, Hsiao CC.
+
+STUDY OBJECTIVES: We hypothesized that DNA methylation patterns may contribute to
+disease severity or the development of hypertension and excessive daytime
+sleepiness (EDS) in patients with obstructive sleep apnea (OSA).
+METHODS: Illumina's (San Diego, CA, USA) DNA methylation 27-K assay was used to
+identify differentially methylated loci (DML). DNA methylation levels were
+validated by pyrosequencing. A discovery cohort of 15 patients with OSA and 6
+healthy subjects, and a validation cohort of 72 patients with sleep disordered
+breathing (SDB).
+RESULTS: Microarray analysis identified 636 DMLs in patients with OSA versus
+healthy subjects, and 327 DMLs in patients with OSA and hypertension versus those
+without hypertension. In the validation cohort, no significant difference in DNA 
+methylation levels of six selected genes was found between the primary snoring
+subjects and OSA patients (primary outcome). However, a secondary outcome
+analysis showed that interleukin-1 receptor 2 (IL1R2) promoter methylation (-114 
+cytosine followed by guanine dinucleotide sequence [CpG] site) was decreased and 
+IL1R2 protein levels were increased in the patients with SDB with an oxygen
+desaturation index > 30. Androgen receptor (AR) promoter methylation (-531 CpG
+site) and AR protein levels were both increased in the patients with SDB with an 
+oxygen desaturation index > 30. Natriuretic peptide receptor 2 (NPR2) promoter
+methylation (-608/-618 CpG sites) were decreased, whereas levels of both NPR2 and
+serum C type natriuretic peptide protein were increased in the SDB patients with 
+EDS. Speckled protein 140 (SP140) promoter methylation (-194 CpG site) was
+increased, and SP140 protein levels were decreased in the patients with SDB and
+EDS.
+CONCLUSIONS: IL1R2 hypomethylation and AR hypermethylation may constitute an
+important determinant of disease severity, whereas NPR2 hypomethylation and SP140
+hypermethylation may provide a biomarker for vulnerability to EDS in OSA.
+
+Copyright © 2015 Associated Professional Sleep Societies, LLC. All rights
+reserved.
+
+PMID: 26888452  [PubMed - as supplied by publisher]
+
+
+2. Inflamm Bowel Dis. 2016 Mar;22 Suppl 1:S1. doi:
+10.1097/01.MIB.0000480040.50582.81.
+
+O-002 Genes in IBD-Associated Risk Loci Demonstrate Genotype-, Tissue-, and
+Inflammation-Specific Patterns of Expression in Terminal Ileum and Colon Mucosal 
+Tissue.
+
+Peloquin J(1), Goel G, Huang H, Haritunians T, Sartor R, Daly M, Newberry R,
+McGovern D, Lira S, Xavier R.
+
+Author information: 
+(1)*The Johns Hopkins University School of Medicine, Baltimore, Maryland
+†Massachusetts General Hospital, Boston, Massachusetts ‡Cedars Sinai Medical
+Center, Los Angeles, California §University of North Carolina at Chapel Hill,
+Chapel Hill, North Carolina <U+2016>Washington University in St Louis, St. Louis,
+Missouri ¶Mount Sinai School of Medicine, New York, New York; and **Division of
+Gastroenterology, Massachusetts General Hospital, Boston, Massachusetts.
+
+BACKGROUND: Genome-wide association studies have linked single nucleotide
+polymorphisms (SNPs) to risk of inflammatory bowel disease (IBD). Yet, the
+majority of IBD-associated risk SNPs tag non-coding regions of the genome, with
+more than 1000 genes encoded within the risk loci. In addition to ongoing fine
+mapping of risk loci and exome sequencing studies, the study of gene expression
+and characterization of expression quantitative trait loci (eQTL) help to refine 
+candidate genes in risk loci. Because the genetic effects are likely to be
+disease context-specific, we examined gene expression in biopsies and resected
+tissue from uninflamed and inflamed terminal ileum (TI) and colon from genotyped 
+patients with Crohn's disease (CD) and ulcerative colitis (UC).
+METHODS: We designed a custom probe set on the NanoString digital gene expression
+platform capturing 678 genes encoded within IBD-associated risk loci and profiled
+1100 tissue samples (including 178 paired uninflamed and inflamed samples) from
+593 patients and healthy controls. Patients were genotyped on the Illumina
+ImmunoChip array, and we performed focused analysis of IBD-associated risk loci. 
+We developed and applied an analytical framework including principal components
+analysis, differential expression, machine learning algorithms, and eQTL analysis
+to characterize inflammation signatures for CD and UC (specific or common to CD
+and UC), gene-gene interactions, and significant SNP-gene associations.
+RESULTS: Differential expression of a subset of our genes readily discriminated
+TI and colon tissues, with FAM55A, a gene encoded in a UC-specific risk loci,
+most highly differentially expressed (180-190 fold relative expression in the
+colon compared to TI). Genes with the lowest variance in expression across
+healthy controls were the same genes with the greatest variance in patients,
+suggesting that mechanisms exist to tightly regulate the expression of these
+genes in homeostasis and increased variance of expression in disease states may
+reflect a loss of such regulatory mechanisms. Unique and shared inflammatory
+signatures between CD and UC were identified, including genes that exhibit a
+continuous gradient of increasing expression from healthy controls to uninflamed 
+and inflamed IBD tissues (e.g., SLC11A1, CCL11, CDH3). Examining patterns of gene
+co-expression, we found a network of 41 genes, enriched for B cell signaling,
+with conserved co-expression across TI and colon, CD and UC, and inflammation
+subtypes, highlighting possible novel interactions between a subset of risk
+genes, including SP140 and PTPRC. In addition to cis- and trans-eQTLs specific to
+CD and UC, paired uninflamed and inflamed tissues from the same patient allowed
+characterization of fold-change eQTLs, demonstrating how IBD-associated risk SNPs
+may contribute to risk of disease through the modulation of a gene expression
+change under inflammatory conditions.
+CONCLUSIONS: This study demonstrated colon/TI-, CD/UC-, and inflammation-specific
+expression of IBD-associated risk genes, and, for a subset of genes,
+genotype-specific patterns of expression. These data prioritize candidate genes
+for functional characterization in 60% of IBD-associated risk loci. This
+analytical framework has relevance for the study of genetic variation associated 
+with other complex, polygenic autoimmune and inflammatory diseases, underscoring 
+the value of study in disease-relevant tissues and in the context of active
+disease.
+
+PMID: 26849719  [PubMed - in process]
+
+
+3. J Natl Cancer Inst. 2015 Nov 13;108(2). pii: djv323. doi: 10.1093/jnci/djv323.
+
+Hypomethylation of TET2 Target Genes Identifies a Curable Subset of Acute Myeloid
+Leukemia.
+
+Yamazaki J(1), Taby R(1), Jelinek J(1), Raynal NJ(1), Cesaroni M(1), Pierce
+SA(1), Kornblau SM(1), Bueso-Ramos CE(1), Ravandi F(1), Kantarjian HM(1), Issa
+JP(2).
+
+Author information: 
+(1)Fels Institute for Cancer Research and Molecular Biology, Temple University,
+Philadelphia, PA (JY, JJ, NJMR, MC, JPJI); Department of Leukemia (JY, RT, JJ,
+NJMR, SAP, SMK, FR, HMK, JPJI) and Department of Hematopathology (CEBR), The
+University of Texas MD Anderson Cancer Center, Houston, TX. (2)Fels Institute for
+Cancer Research and Molecular Biology, Temple University, Philadelphia, PA (JY,
+JJ, NJMR, MC, JPJI); Department of Leukemia (JY, RT, JJ, NJMR, SAP, SMK, FR, HMK,
+JPJI) and Department of Hematopathology (CEBR), The University of Texas MD
+Anderson Cancer Center, Houston, TX. jpissa@temple.edu.
+
+BACKGROUND: Acute myeloid leukemia (AML) is curable in a subset of cases. The DNA
+methylation regulator TET2 is frequently mutated in AML, and we hypothesized that
+studying TET2-specific differentially methylated CpGs (tet2-DMCs) improves AML
+classification.
+METHODS: We used bisulfite pyrosequencing to analyze the methylation status of
+four tet2-DMCs (SP140, MCCC1, EHMT1, and MTSS1) in a test group of 94 consecutive
+patients and a validation group of 92 consecutive patients treated with
+cytarabine-based chemotherapy. Data were analyzed with hierarchical clustering,
+Cox proportional hazards regression, and Kaplan-Meier analyses. All statistical
+tests were two-sided.
+RESULTS: In the test cohort, hierarchical clustering analysis identified low
+levels of tet2-DMC methylation in 31 of 94 (33%) cases, and these had markedly
+longer overall survival (median survival 72+ vs 14 months, P = .002). Similar
+results were seen in the validation cohort. tet2-DMC-low status was shown to be
+an independent predictor of overall survival (hazard ratio = 0.29, P = .0002). In
+The Cancer Genome Atlas (TCGA) dataset where DNA methylation was analyzed by a
+different platform, tet2-DMC-low methylation was also associated with improved
+outcome (median survival = 55 vs 15 months, P = .0003) and was a better predictor
+of survival than mutations in TET2, IDH1, or IDH2, individually or combined.
+CONCLUSIONS: Low levels of tet2-DMC methylation define a subgroup of AML that is 
+highly curable and cannot be identified solely by genetic and cytogenetic
+analyses.
+
+© The Author 2015. Published by Oxford University Press. All rights reserved. For
+Permissions, please e-mail: journals.permissions@oup.com.
+
+PMID: 26568194  [PubMed - indexed for MEDLINE]
+
+
+4. J Immunol Res. 2015;2015:526518. doi: 10.1155/2015/526518. Epub 2015 Aug 11.
+
+SP140L, an Evolutionarily Recent Member of the SP100 Family, Is an Autoantigen in
+Primary Biliary Cirrhosis.
+
+Saare M(1), Hämarik U(1), Venta R(2), Panarina M(3), Zucchelli C(4), Pihlap M(1),
+Remm A(1), Kisand K(1), Toots U(5), Möll K(5), Salupere R(6), Musco G(4), Uibo
+R(3), Peterson P(1).
+
+Author information: 
+(1)Molecular Pathology Group, Institute of Biomedicine and Translational
+Medicine, University of Tartu, 50411 Tartu, Estonia. (2)Institute of Technology, 
+University of Tartu, 50411 Tartu, Estonia. (3)Department of Immunology, Institute
+of Biomedicine and Translational Medicine, University of Tartu, 50411 Tartu,
+Estonia. (4)Biomolecular NMR Laboratory, Dulbecco Telethon Institute c/o S.
+Raffaele Scientific Institute, 20132 Milan, Italy. (5)Icosagen AS, 61713
+Tartumaa, Estonia. (6)Department of Internal Medicine, Tartu University Hospital,
+51014 Tartu, Estonia.
+
+The SP100 family members comprise a set of closely related genes on chromosome
+2q37.1. The widely expressed SP100 and the leukocyte-specific proteins SP110 and 
+SP140 have been associated with transcriptional regulation and various human
+diseases. Here, we have characterized the SP100 family member SP140L. The genome 
+sequence analysis showed the formation of SP140L gene through rearrangements of
+the two neighboring genes, SP100 and SP140, during the evolution of higher
+primates. The SP140L expression is interferon-inducible with high transcript
+levels in B cells and other peripheral blood mononuclear cells. Subcellularly,
+SP140L colocalizes with SP100 and SP140 in nuclear structures that are devoid of 
+SP110, PML, or p300 proteins. Similarly to SP100 and SP140 protein, we detected
+serum autoantibodies to SP140L in patients with primary biliary cirrhosis using
+luciferase immunoprecipitation system and immunoblotting assays. In conclusion,
+our results show that SP140L is phylogenetically recent member of SP100 proteins 
+and acts as an autoantigen in primary biliary cirrhosis patients.
+
+PMCID: PMC4548144
+PMID: 26347895  [PubMed - in process]
+
+
+5. Hum Mol Genet. 2015 Oct 1;24(19):5619-27. doi: 10.1093/hmg/ddv256. Epub 2015 Jul 
+7.
+
+A functional variant that affects exon-skipping and protein expression of SP140
+as genetic mechanism predisposing to multiple sclerosis.
+
+Matesanz F(1), Potenciano V(2), Fedetz M(3), Ramos-Mozo P(4), Abad-Grau Mdel
+M(5), Karaky M(3), Barrionuevo C(3), Izquierdo G(6), Ruiz-Peña JL(6),
+García-Sánchez MI(6), Lucas M(7), Fernández Ó(8), Leyva L(8), Otaegui D(9),
+Muñoz-Culla M(9), Olascoaga J(9), Vandenbroeck K(10), Alloza I(10), Astobiza
+I(11), Antigüedad A(12), Villar LM(13), Álvarez-Cermeño JC(13), Malhotra S(14),
+Comabella M(14), Montalban X(14), Saiz A(15), Blanco Y(15), Arroyo R(16), Varadé 
+J(4), Urcelay E(4), Alcina A(1).
+
+Author information: 
+(1)Department of Cell Biology and Immunology, Instituto de Parasitología y
+Biomedicina López Neyra (IPBLN), CSIC, Granada, Spain, lindo@ipb.csic.es
+pulgoso@ipb.csic.es. (2)Department of Cell Biology and Immunology, Instituto de
+Parasitología y Biomedicina López Neyra (IPBLN), CSIC, Granada, Spain, Department
+of Computer Languages and Systems-CITIC, Universidad de Granada, Granada, Spain. 
+(3)Department of Cell Biology and Immunology, Instituto de Parasitología y
+Biomedicina López Neyra (IPBLN), CSIC, Granada, Spain. (4)Department of
+Immunology and. (5)Department of Computer Languages and Systems-CITIC,
+Universidad de Granada, Granada, Spain. (6)Unidad de Esclerosis Múltiple,
+Hospital Universitario Virgen Macarena, Sevilla, Spain. (7)Servicio de Biología
+Molecular, Facultad de Medicina, Hospital Virgen Macarena, Sevilla, Spain.
+(8)Unidad de Gestión Clínica de Neurociencias, Instituto de Biomedicina de Málaga
+(IBIMA), Hospital Regional Universitario de Málaga, Málaga, Spain. (9)Área de
+Neurociencias, Inst. Investigación Sanitaria Biodonostia, San Sebastián, Spain.
+(10)Neurogenomiks Group, Universidad del País Vasco (UPV/EHU), Leioa, Spain,
+Achucarro Basque Center for Neuroscience, Zamudio, Spain, IKERBASQUE, Basque
+Foundation for Science, Bilbao, Spain. (11)Neurogenomiks Group, Universidad del
+País Vasco (UPV/EHU), Leioa, Spain, Achucarro Basque Center for Neuroscience,
+Zamudio, Spain. (12)Servicio de Neurología, Hospital de Basurto, Bilbao, Spain.
+(13)Department of Immunology, Department of Neurology. MS Unit. (IRYCIS),
+Hospital Ramon y Cajal, Madrid, Spain. (14)Servei de Neurologia-Neuroimmunologia,
+Centre D'Esclerosi Múltiple de Catalunya, Cemcat, Hospital Universitari Vall
+d'Hebron, Barcelona, Spain and. (15)Neurology Service, Hospital Clinic and I.
+d'Investigació Biomèdica Pi iSunyer (IDIBAPS), Barcelona, Spain. (16)Multiple
+Sclerosis Unit, Hospital Clínico San Carlos. Instituto de Investigación Sanitaria
+del Hospital Clínico San Carlos (IdISSC), Madrid, Spain.
+
+Several variants in strong linkage disequilibrium (LD) at the SP140 locus have
+been associated with multiple sclerosis (MS), Crohn's disease (CD) and chronic
+lymphocytic leukemia (CLL). To determine the causal polymorphism, we have
+integrated high-density data sets of expression quantitative trait loci (eQTL),
+using GEUVADIS RNA sequences and 1000 Genomes genotypes, with MS-risk variants of
+the high-density Immunochip array performed by the International Multiple
+Sclerosis Genetic Consortium (IMSGC). The variants most associated with MS were
+also correlated with a decreased expression of the full-length RNA isoform of
+SP140 and an increase of an isoform lacking exon 7. By exon splicing assay, we
+have demonstrated that the rs28445040 variant was the causal factor for skipping 
+of exon 7. Western blots of peripheral blood mononuclear cells from MS patients
+showed a significant allele-dependent reduction of the SP140 protein expression. 
+To confirm the association of this functional variant with MS and to compare it
+with the best-associated variant previously reported by GWAS (rs10201872), a
+case-control study including 4384 MS patients and 3197 controls was performed.
+Both variants, in strong LD (r(2) = 0.93), were found similarly associated with
+MS [P-values, odds ratios: 1.9E-9, OR = 1.35 (1.22-1.49) and 4.9E-10, OR = 1.37
+(1.24-1.51), respectively]. In conclusion, our data uncover the causal variant
+for the SP140 locus and the molecular mechanism associated with MS risk. In
+addition, this study and others previously reported strongly suggest that this
+functional variant may be shared with other immune-mediated diseases as CD and
+CLL.
+
+© The Author 2015. Published by Oxford University Press. All rights reserved. For
+Permissions, please email: journals.permissions@oup.com.
+
+PMID: 26152201  [PubMed - in process]
+
+
+6. Ann Hematol. 2015 Jul;94(7):1205-11. doi: 10.1007/s00277-015-2344-9. Epub 2015
+Mar 7.
+
+Longitudinal analysis of 25 sequential sample-pairs using a custom multiple
+myeloma mutation sequencing panel (M(3)P).
+
+Kortüm KM(1), Langer C, Monge J, Bruins L, Zhu YX, Shi CX, Jedlowski P, Egan JB, 
+Ojha J, Bullinger L, Kull M, Ahmann G, Rasche L, Knop S, Fonseca R, Einsele H,
+Stewart AK, Braggio E.
+
+Author information: 
+(1)Division of Hematology - Oncology, Mayo Clinic, Scottsdale, AZ, USA.
+
+Recent advances in genomic sequencing technologies now allow results from deep
+next-generation sequencing to be obtained within clinically meaningful
+timeframes, making this an attractive approach to better guide personalized
+treatment strategies. No multiple myeloma-specific gene panel has been
+established so far; we therefore designed a 47-gene-targeting gene panel,
+containing 39 genes known to be mutated in =3 % of multiple myeloma cases and
+eight genes in pathways therapeutically targeted in multiple myeloma (MM). We
+performed targeted sequencing on tumor/germline DNA of 25 MM patients in which we
+also had a sequential sample post treatment. Mutation analysis revealed KRAS as
+the most commonly mutated gene (36 % in each time point), followed by NRAS (20
+and 16 %), TP53 (16 and 16 %), DIS3 (16 and 16 %), FAM46C (12 and 16 %), and
+SP140 (12 and 12 %). We successfully tracked clonal evolution and identified
+mutation acquisition and/or loss in FAM46C, FAT1, KRAS, NRAS, SPEN, PRDM1, NEB,
+and TP53 as well as two mutations in XBP1, a gene associated with bortezomib
+resistance. Thus, we present the first longitudinal analysis of a MM-specific
+targeted sequencing gene panel that can be used for individual tumor
+characterization and for tracking clonal evolution over time.
+
+PMCID: PMC4655812 [Available on 2016-07-01]
+PMID: 25743686  [PubMed - indexed for MEDLINE]
+
+
+7. Clin Exp Immunol. 2014 Jul;177(1):203-11. doi: 10.1111/cei.12327.
+
+CD84 is markedly up-regulated in Kawasaki disease arteriopathy.
+
+Reindel R(1), Bischof J, Kim KY, Orenstein JM, Soares MB, Baker SC, Shulman ST,
+Perlman EJ, Lingen MW, Pink AJ, Trevenen C, Rowley AH.
+
+Author information: 
+(1)Department of Pediatrics, Northwestern University Feinberg School of Medicine,
+Ann and Robert H. Lurie Children's Hospital of Chicago, Chicago, USA.
+
+The major goals of Kawasaki disease (KD) therapy are to reduce inflammation and
+prevent thrombosis in the coronary arteries (CA), but some children do not
+respond to currently available non-specific therapies. New treatments have been
+difficult to develop because the molecular pathogenesis is unknown. In order to
+identify dysregulated gene expression in KD CA, we performed high-throughput RNA 
+sequencing on KD and control CA, validated potentially dysregulated genes by
+real-time reverse transcription-polymerase chain reaction (RT-PCR) and localized 
+protein expression by immunohistochemistry. Signalling lymphocyte activation
+molecule CD84 was up-regulated 16-fold (P<U+2009><<U+2009>0·01) in acute KD CA (within 2 months
+of onset) and 32-fold (P<U+2009><<U+2009>0·01) in chronic CA (5 months to years after onset).
+CD84 was localized to inflammatory cells in KD tissues. Genes associated with
+cellular proliferation, motility and survival were also up-regulated in KD CA,
+and immune activation molecules MX2 and SP140 were up-regulated in chronic KD.
+CD84, which facilitates immune responses and stabilizes platelet aggregates, is
+markedly up-regulated in KD CA in patients with acute and chronic arterial
+disease. We provide the first molecular evidence of dysregulated inflammatory
+responses persisting for months to years in CA significantly damaged by KD.
+
+© 2014 British Society for Immunology.
+
+PMCID: PMC4089169
+PMID: 24635044  [PubMed - indexed for MEDLINE]
+
+
+8. Nat Commun. 2014;5:2997. doi: 10.1038/ncomms3997.
+
+Heterogeneity of genomic evolution and mutational profiles in multiple myeloma.
+
+Bolli N(1), Avet-Loiseau H(2), Wedge DC(3), Van Loo P(4), Alexandrov LB(3),
+Martincorena I(3), Dawson KJ(3), Iorio F(5), Nik-Zainal S(6), Bignell GR(3),
+Hinton JW(3), Li Y(3), Tubio JM(3), McLaren S(3), O' Meara S(3), Butler AP(3),
+Teague JW(3), Mudie L(3), Anderson E(3), Rashid N(7), Tai YT(7), Shammas MA(8),
+Sperling AS(7), Fulciniti M(7), Richardson PG(7), Parmigiani G(9), Magrangeas
+F(10), Minvielle S(10), Moreau P(11), Attal M(12), Facon T(13), Futreal PA(14),
+Anderson KC(7), Campbell PJ(1), Munshi NC(8).
+
+Author information: 
+(1)1] Cancer Genome Project, Wellcome Trust Sanger Institute, Hinxton CB10 1SA,
+UK [2] Department of Haematology, University of Cambridge, CIMR, Cambridge CB2
+0XY, UK. (2)1] Unité de Génomique du Myélome, CHU Rangueil, Toulouse 31059,
+France [2] CRCT, INSERM U1037, Toulouse 31400, France. (3)Cancer Genome Project, 
+Wellcome Trust Sanger Institute, Hinxton CB10 1SA, UK. (4)1] Cancer Genome
+Project, Wellcome Trust Sanger Institute, Hinxton CB10 1SA, UK [2] Department of 
+Human Genetics, VIB and University of Leuven, Leuven 3000, Belgium. (5)1] Cancer 
+Genome Project, Wellcome Trust Sanger Institute, Hinxton CB10 1SA, UK [2]
+European Molecular Biology Laboratory-European Bioinformatics Institute, Hinxton 
+CB10 1SA, UK. (6)1] Cancer Genome Project, Wellcome Trust Sanger Institute,
+Hinxton CB10 1SA, UK [2] Department of Medical Genetics, Addenbrooke's Hospital
+NHS Trust, Cambridge CB2 0QQ, UK. (7)Lebow Institute of Myeloma Therapeutics and 
+Jerome Lipper Multiple Myeloma Center, Dana-Farber Cancer Institute, Harvard
+Medical School, Boston, Massachusetts 02115, USA. (8)1] Lebow Institute of
+Myeloma Therapeutics and Jerome Lipper Multiple Myeloma Center, Dana-Farber
+Cancer Institute, Harvard Medical School, Boston, Massachusetts 02115, USA [2]
+Boston Veterans Administration Healthcare System, West Roxbury, Massachusetts
+02132, USA. (9)Dana-Farber Cancer Institute and Harvard School of Public Health, 
+Boston, Massachusetts 02115, USA. (10)1] Center for Cancer Research
+Nantes-Angers, UMR 892 Inserm-6299 CNRS-University of Nantes, IRS-UN, Nantes
+4407, France [2] UMGC, University Hospital, Nantes 44093, France. (11)Department 
+of Hematology, University Hospital, Nantes 44093, France. (12)Department of
+Hematology, University Hospital and CRCT, INSERM U1037, Toulouse 31400, France.
+(13)Department of Hematology, University Hospital, Lille 59045, France. (14)1]
+Cancer Genome Project, Wellcome Trust Sanger Institute, Hinxton CB10 1SA, UK [2].
+
+Multiple myeloma is an incurable plasma cell malignancy with a complex and
+incompletely understood molecular pathogenesis. Here we use whole-exome
+sequencing, copy-number profiling and cytogenetics to analyse 84 myeloma samples.
+Most cases have a complex subclonal structure and show clusters of subclonal
+variants, including subclonal driver mutations. Serial sampling reveals diverse
+patterns of clonal evolution, including linear evolution, differential clonal
+response and branching evolution. Diverse processes contribute to the mutational 
+repertoire, including kataegis and somatic hypermutation, and their relative
+contribution changes over time. We find heterogeneity of mutational spectrum
+across samples, with few recurrent genes. We identify new candidate genes,
+including truncations of SP140, LTB, ROBO1 and clustered missense mutations in
+EGR1. The myeloma genome is heterogeneous across the cohort, and exhibits
+diversity in clonal admixture and in dynamics of evolution, which may impact
+prognostic stratification, therapeutic approaches and assessment of disease
+response to treatment.
+
+PMCID: PMC3905727
+PMID: 24429703  [PubMed - indexed for MEDLINE]
+
+
+9. Biochim Biophys Acta. 2014 Feb;1842(2):326-37. doi: 10.1016/j.bbadis.2013.11.020.
+Epub 2013 Nov 22.
+
+The biophysical and biochemical properties of the autoimmune regulator (AIRE)
+protein.
+
+Perniola R(1), Musco G(2).
+
+Author information: 
+(1)Department of Pediatrics - Neonatal Intensive Care, V. Fazzi Regional
+Hospital, Piazza F. Muratore, I-73100, Lecce, Italy. Electronic address:
+rperniola@hotmail.com. (2)Biomolecular NMR Laboratory, Center of Translational
+Genomics and Bioinformatics, Dulbecco Telethon Institute at San Raffaele
+Scientific Institute, Via Olgettina 58, I-20132, Milan, Italy. Electronic
+address: musco.giovanna@hsr.it.
+
+AIRE (for autoimmune regulator) is a multidomain protein that performs a
+fundamental function in the thymus and possibly in the secondary lymphoid organs:
+the regulation, especially in the sense of activation, of the process of gene
+transcription in cell lines deputed to the presentation of self-antigens to the
+maturing T lymphocytes. The apoptosis of the elements bearing T-cell receptors
+with critical affinity for the exhibited self-antigens prevents the escape of
+autoreactive clones and represents a simple and efficient mechanism of deletional
+self-tolerance. However, AIRE action relies on an articulated complex of
+biophysical and biochemical properties, in most cases attributable to single
+subspecialized domains. Here a thorough review of the matter is presented, with a
+privileged look at the pathogenic changes of AIRE that interfere with such
+properties and lead to the impairment in its chief function.
+
+Copyright © 2013 The Authors. Published by Elsevier B.V. All rights reserved.
+
+PMID: 24275490  [PubMed - indexed for MEDLINE]
+
+
+10. FEBS J. 2014 Jan;281(1):216-31. doi: 10.1111/febs.12588. Epub 2013 Nov 25.
+
+Structure of human Sp140 PHD finger: an atypical fold interacting with Pin1.
+
+Zucchelli C(1), Tamburri S, Quilici G, Palagano E, Berardi A, Saare M, Peterson
+P, Bachi A, Musco G.
+
+Author information: 
+(1)Dulbecco Telethon Institute, c/o Biomolecular NMR Laboratory, S. Raffaele
+Scientific Institute, Milano, Italy.
+
+Sp140 is a nuclear leukocyte-specific protein involved in primary biliary
+cirrhosis and a risk factor in chronic lymphocytic leukemia. The presence of
+several chromatin related modules such as plant homeodomain (PHD), bromodomain
+and SAND domain suggests a role in chromatin-mediated regulation of gene
+expression; however, its real function is still elusive. Herein we present the
+solution structure of Sp140-PHD finger and investigate its role as epigenetic
+reader in vitro. Sp140-PHD presents an atypical PHD finger fold which does not
+bind to histone H3 tails but is recognized by peptidylprolyl isomerase Pin1. Pin1
+specifically binds to a phosphopeptide corresponding to the L3 loop of Sp140-PHD 
+and catalyzes cis-trans isomerization of a pThr-Pro bond. Moreover
+co-immunoprecipitation experiments demonstrate FLAG-Sp140 interaction with
+endogenous Pin1 in vivo. Overall these data include Sp140 in the list of the
+increasing number of Pin1 binders and expand the regulatory potential of PHD
+fingers as versatile structural platforms for diversified interactions.
+
+© 2013 FEBS.
+
+PMID: 24267382  [PubMed - indexed for MEDLINE]
+
+
+11. Genome Biol. 2013 Jul 22;14(7):R74. doi: 10.1186/gb-2013-14-7-r74.
+
+GLiMMPS: robust statistical model for regulatory variation of alternative
+splicing using RNA-seq data.
+
+Zhao K, Lu ZX, Park JW, Zhou Q, Xing Y.
+
+To characterize the genetic variation of alternative splicing, we develop
+GLiMMPS, a robust statistical method for detecting splicing quantitative trait
+loci (sQTLs) from RNA-seq data. GLiMMPS takes into account the individual
+variation in sequencing coverage and the noise prevalent in RNA-seq data.
+Analyses of simulated and real RNA-seq datasets demonstrate that GLiMMPS
+outperforms competing statistical models. Quantitative RT-PCR tests of 26
+randomly selected GLiMMPS sQTLs yielded a validation rate of 100%. As
+population-scale RNA-seq studies become increasingly affordable and popular,
+GLiMMPS provides a useful tool for elucidating the genetic variation of
+alternative splicing in humans and model organisms.
+
+PMCID: PMC4054007
+PMID: 23876401  [PubMed - indexed for MEDLINE]
+
+
+12. Int J Oncol. 2013 Aug;43(2):561-5. doi: 10.3892/ijo.2013.1966. Epub 2013 May 27.
+
+Genetic differences between Asian and Caucasian chronic lymphocytic leukemia.
+
+Kawamata N(1), Moreilhon C, Saitoh T, Karasawa M, Bernstein BK, Sato-Otsubo A,
+Ogawa S, Raynaud S, Koeffler HP.
+
+Author information: 
+(1)Hematology/Oncology, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA. 
+kawamatan@cshs.org
+
+Chronic lymphocytic leukemia (CLL) is a common hematological malignancy in
+Western countries. However, this disease is very rare in Asian countries. It is
+not clear whether the mechanisms of development of CLL in Caucasians and Asians
+are the same. We compared genetic abnormalities in Asian and Caucasian CLL using 
+250k GeneChip arrays. Both Asian and Caucasian CLL had four common genetic
+abnormalities: deletion of 13q14.3, trisomy 12, abnormalities of ATM (11q) and
+abnormalities of 17p. Interestingly, trisomy 12 and deletion of 13q14.3 were
+mutually exclusive in both groups. We also found that deletions of miR 34b/34c
+(11q), caspase 1/4/5 (11q), Rb1 (13q) and DLC1 (8p) are common in both ethnic
+groups. Asian CLL more frequently had gain of 3q and 18q. These suggest that
+classic genomic changes in the Asian and Caucasina CLL are same. Further, we
+found amplification of IRF4 and deletion of the SP140/SP100 genes; these genes
+have been reported as CLL-associated genes by previous genome-wide-association
+study. We have found classic genomic abnormalities in Asian CLL as well as novel 
+genomic alteration in CLL.
+
+PMCID: PMC3775563
+PMID: 23708256  [PubMed - indexed for MEDLINE]
+
+
+13. Am J Manag Care. 2012 May;18(3 Spec No.):SP140-3.
+
+On the horizon for multiple myeloma.
+
+Mohundro MM(1), Mohundro BL.
+
+Author information: 
+(1)Our Lady of the Lake Regional Medical Center, Baton Rouge, LA, USA.
+
+Treatment of multiple myeloma (MM) remains highly individualized, with multiple
+factors that play a role in determining the best course of therapy.
+Patient-specific criteria such as age of onset, whether the patient is
+symptomatic at the time of diagnosis, and any detected high-risk cytogenic
+abnormalities are all considerations when selecting a regimen. Newer agents such 
+as bortezomib and lenalidomide in combination with low-dose steroids have
+replaced more toxic chemotherapeutic regimens for primary induction and have led 
+to significant increases in progression-free survival. Depending on duration of
+response prior to relapse, patients may be rechallenged with the same regimen,
+switched to an alternative, or may undergo hematopoietic cell transplant (HCT),
+which remains a highly effective treatment option for patients who are
+candidates. However, the cost of transplantation remains high and some patients
+may require a second transplantation if the initial response is incomplete. With 
+the availability of newer agents for salvage therapies in refractory or relapsed 
+patients, the reliance on HCT may decrease, potentially lowering healthcare
+costs. In addition, the availability of orally active agents may decrease the
+need for outpatient infusions, thus decreasing the overall costs associated with 
+treatment and improving patient satisfaction. Finally, combination regimens that 
+use lower doses may prove to be less toxic as well as more effective. Even though
+MM only accounts for approximately 1% of all cancers in the United States, with
+75 million “baby boomers” now reaching the median age of diagnosis, the increased
+number of cases could have a substantial impact on healthcare costs.
+
+PMID: 22642285  [PubMed - indexed for MEDLINE]
+
+
+14. Epigenetics. 2012 Feb;7(2):201-7. doi: 10.4161/epi.7.2.19015.
+
+Effects of TET2 mutations on DNA methylation in chronic myelomonocytic leukemia.
+
+Yamazaki J(1), Taby R, Vasanthakumar A, Macrae T, Ostler KR, Shen L, Kantarjian
+HM, Estecio MR, Jelinek J, Godley LA, Issa JP.
+
+Author information: 
+(1)Department of Leukemia, The University of Texas MD Anderson Cancer Center,
+Houston, TX, USA.
+
+TET2 enzymatically converts 5-methyl-cytosine to 5-hydroxymethyl-cytosine,
+possibly leading to loss of DNA methylation. TET2 mutations are common in myeloid
+leukemia and were proposed to contribute to leukemogenesis through DNA
+methylation. To expand on this concept, we studied chronic myelomonocytic
+leukemia (CMML) samples. TET2 missense or nonsense mutations were detected in 53%
+(16/30) of patients. In contrast, only 1/30 patient had a mutation in IDH1 or
+IDH2, and none of them had a mutation in DNMT3A in the sites most frequently
+mutated in leukemia. Using bisulfite pyrosequencing, global methylation measured 
+by the LINE-1 assay and DNA methylation levels of 10 promoter CpG islands
+frequently abnormal in myeloid leukemia were not different between TET2 mutants
+and wild-type CMML cases. This was also true for 9 out of 11 gene promoters
+reported by others as differentially methylated by TET2 mutations. We found that 
+two non-CpG island promoters, AIM2 and SP140, were hypermethylated in patients
+with mutant TET2. These were the only two gene promoters (out of 14,475 genes)
+previously found to be hypermethylated in TET2 mutant cases. However, total
+5-methyl-cytosine levels in TET2 mutant cases were significantly higher than TET2
+wild-type cases (median = 14.0% and 9.8%, respectively) (p = 0.016). Thus, TET2
+mutations affect global methylation in CMML but most of the changes are likely to
+be outside gene promoters.
+
+PMCID: PMC3335912
+PMID: 22395470  [PubMed - indexed for MEDLINE]
+
+
+15. PLoS One. 2012;7(1):e29632. doi: 10.1371/journal.pone.0029632. Epub 2012 Jan 3.
+
+Post-GWAS functional characterization of susceptibility variants for chronic
+lymphocytic leukemia.
+
+Sillé FC(1), Thomas R, Smith MT, Conde L, Skibola CF.
+
+Author information: 
+(1)Division of Environmental Health Sciences, School of Public Health, University
+of California, Berkeley, California, United States of America.
+
+Recent genome-wide association studies (GWAS) have identified several gene
+variants associated with sporadic chronic lymphocytic leukemia/small lymphocytic 
+lymphoma (CLL/SLL). Many of these CLL/SLL susceptibility loci are located in
+non-coding or intergenic regions, posing a significant challenge to determine
+their potential functional relevance. Here, we review the literature of all
+CLL/SLL GWAS and validation studies, and apply eQTL analysis to identify
+putatively functional SNPs that affect gene expression that may be causal in the 
+pathogenesis of CLL/SLL. We tested 12 independent risk loci for their potential
+to alter gene expression through cis-acting mechanisms, using publicly available 
+gene expression profiles with matching genotype information. Sixteen SNPs were
+identified that are linked to differential expression of SP140, a putative tumor 
+suppressor gene previously associated with CLL/SLL. Three additional SNPs were
+associated with differential expression of DACT3 and GNG8, which are involved in 
+the WNT/ß-catenin- and G protein-coupled receptor signaling pathways,
+respectively, that have been previously implicated in CLL/SLL pathogenesis. Using
+in silico functional prediction tools, we found that 14 of the 19 significant
+eQTL SNPs lie in multiple putative regulatory elements, several of which have
+prior implications in CLL/SLL or other hematological malignancies. Although
+experimental validation is needed, our study shows that the use of existing GWAS 
+data in combination with eQTL analysis and in silico methods represents a useful 
+starting point to screen for putatively causal SNPs that may be involved in the
+etiology of CLL/SLL.
+
+PMCID: PMC3250464
+PMID: 22235315  [PubMed - indexed for MEDLINE]
+
+
+16. Am J Physiol Cell Physiol. 2011 Nov;301(5):C1093-103. doi:
+10.1152/ajpcell.00122.2011. Epub 2011 Jul 27.
+
+Matriptase is inhibited by extravascular antithrombin in epithelial cells but not
+in most carcinoma cells.
+
+Chou FP(1), Xu H, Lee MS, Chen YW, Richards OX, Swanson R, Olson ST, Johnson MD, 
+Lin CY.
+
+Author information: 
+(1)Greenebaum Cancer Center, University of Maryland, Baltimore, MD 21201, USA.
+
+Antithrombin, a major anticoagulant, is robustly transported into extravascular
+compartments where its target proteases are largely unknown. This serpin was
+previously detected in human milk as complexes with matriptase, a membrane-bound 
+serine protease broadly expressed in epithelial and carcinoma cells, and under
+tight regulation by hepatocyte growth factor activator inhibitor (HAI)-1, a
+transmembrane Kunitz-type serine protease inhibitor that forms heat-sensitive
+complexes with active matriptase. In the current study, we detect, in addition to
+matriptase-HAI-1 complexes, heat-resistant matriptase complexes generated by
+nontransformed mammary, prostate, and epidermal epithelial cells that we show to 
+be matriptase-antithrombin complexes. These findings suggest that in addition to 
+HAI-1, interstitial antithrombin participates in the regulation of matriptase
+activity in epithelial cells. This physiological mechanism appears, however, to
+largely be lost in cancer cells since matriptase-antithrombin complexes were not 
+detected in all but two of a panel of seven breast, prostate, and ovarian cancer 
+cell lines. Using purified active matriptase, we further characterize the
+formation of matriptase-antithrombin complex and show that heparin can
+significantly potentiate the inhibitory potency of antithrombin against
+matriptase. Second-order rate constants for the inhibition were determined to be 
+3.9 × 10(3) M(-1)s(-1) in the absence of heparin and 1.2 × 10(5) M(-1)s(-1) in
+the presence of heparin, a 30-fold increase, consistent with the established role
+of heparin in activating antithrombin function. Taken together these data suggest
+that normal epithelial cells employ a dual mechanism involving HAI-1 and
+antithrombin to control matriptase and that the antithrombin-based mechanism
+appears lost in the majority of carcinoma cells.
+
+PMCID: PMC3213911
+PMID: 21795523  [PubMed - indexed for MEDLINE]
+
+
+17. Eur J Haematol. 2010 Dec;85(6):492-5. doi: 10.1111/j.1600-0609.2010.01518.x.
+
+Genetic susceptibility for chronic lymphocytic leukemia among Chinese in Hong
+Kong.
+
+Lan Q(1), Au WY, Chanock S, Tse J, Wong KF, Shen M, Siu LP, Yuenger J, Yeager M, 
+Hosgood HD 3rd, Purdue MP, Liang R, Rothman N.
+
+Author information: 
+(1)Division of Cancer Epidemiology and Genetics, National Cancer Institute,
+Bethesda, MD 20892-7240, USA. qingl@mail.nih.gov
+
+The genetic basis of chronic lymphocytic leukemia (CLL) has not been fully
+elucidated to date. Although it is the most common haematological malignancy in
+Caucasians, it is uncommon among Asians. A recent genome-wide scan of CLL in
+Caucasians, which was carried out in the UK, identified six variants showing
+strong association. We attempted to replicate these findings in 71 patients with 
+CLL and 1273 controls in Hong Kong Chinese. Three of the six variants were
+significantly associated with CLL. The rs872071 variant (Odds Ratio (95%
+Confidence Interval) = 1.78 (1.25-2.53), P = 0.0013) in the IRF4 gene region
+showed the strongest association, similar to that reported in the UK study.
+Polymorphisms in SP140 and ACOXL were also associated with risk of CLL. Further, 
+the mean allele frequencies of the six variants were moderately (59%) to
+extremely (0.5%) lower in the Chinese population compared with Caucasians. These 
+results suggest that variants in three loci may contribute to risk of CLL among
+Chinese.
+
+© 2010 John Wiley & Sons A/S.
+
+PMCID: PMC2980583
+PMID: 20731705  [PubMed - indexed for MEDLINE]
+
+
+18. Am J Gastroenterol. 2010 Jan;105(1):125-31. doi: 10.1038/ajg.2009.596. Epub 2009 
+Oct 27.
+
+PML nuclear body component Sp140 is a novel autoantigen in primary biliary
+cirrhosis.
+
+Granito A(1), Yang WH, Muratori L, Lim MJ, Nakajima A, Ferri S, Pappas G,
+Quarneti C, Bianchi FB, Bloch DB, Muratori P.
+
+Author information: 
+(1)Dipartimento di Medicina Clinica, Alma Mater Studiorum University of Bologna, 
+Italy. alessandro.granito@unibo.it
+
+OBJECTIVES: Some patients with primary biliary cirrhosis (PBC) have antinuclear
+antibodies (ANAs). These ANAs include the "multiple nuclear dots" (MND) staining 
+pattern, targeting promyelocytic leukemia protein (PML) nuclear body (NB)
+components, such as "speckled 100-kD" protein (Sp100) and PML. A new PML NB
+protein, designated as Sp140, was identified using serum from a PBC patient. The 
+aim of this study was to analyze the immune response against Sp140 protein in PBC
+patients.
+METHODS: We studied 135 PBC patients and 157 pathological controls with type 1
+autoimmune hepatitis, primary sclerosing cholangitis, and systemic lupus
+erythematosus. We used indirect immunofluorescence and a neuroblastoma cell line 
+expressing Sp140 for detecting anti-Sp140 antibodies, and a commercially
+available immunoblot for detecting anti-Sp100 and anti-PML antibodies.
+RESULTS: Anti-Sp140 antibodies were present in 20 (15%) PBC patients but not in
+control samples, with a higher frequency in antimitochondrial antibody
+(AMA)-negative cases (53 vs. 9%, P<0.0001). Anti-Sp140 antibodies were found
+together with anti-Sp100 antibodies in all but one case (19 of 20, 90%) and with 
+anti-PML antibodies in 12 (60%) cases. Anti-Sp140 positivity was not associated
+with a specific clinical feature of PBC.
+CONCLUSIONS: Our study identifies Sp140 as a new, highly specific autoantigen in 
+PBC for the first time. The very frequent coexistence of anti-Sp140, anti-Sp100
+and anti-PML antibodies suggests that the NB is a multiantigenic complex in PBC
+and enhances the diagnostic significance of these reactivities, which are
+particularly useful in AMA-negative cases.
+
+PMID: 19861957  [PubMed - indexed for MEDLINE]
+
+
+19. Nat Genet. 2008 Oct;40(10):1204-10. doi: 10.1038/ng.219. Epub 2008 Aug 31.
+
+A genome-wide association study identifies six susceptibility loci for chronic
+lymphocytic leukemia.
+
+Di Bernardo MC(1), Crowther-Swanepoel D, Broderick P, Webb E, Sellick G, Wild R, 
+Sullivan K, Vijayakrishnan J, Wang Y, Pittman AM, Sunter NJ, Hall AG, Dyer MJ,
+Matutes E, Dearden C, Mainou-Fowler T, Jackson GH, Summerfield G, Harris RJ,
+Pettitt AR, Hillmen P, Allsup DJ, Bailey JR, Pratt G, Pepper C, Fegan C, Allan
+JM, Catovsky D, Houlston RS.
+
+Author information: 
+(1)Section of Cancer Genetics, Institute of Cancer Research, Sutton, Surrey, UK.
+
+We conducted a genome-wide association study of 299,983 tagging SNPs for chronic 
+lymphocytic leukemia (CLL) and performed validation in two additional series
+totaling 1,529 cases and 3,115 controls. We identified six previously unreported 
+CLL risk loci at 2q13 (rs17483466; P = 2.36 x 10(-10)), 2q37.1 (rs13397985,
+SP140; P = 5.40 x 10(-10)), 6p25.3 (rs872071, IRF4; P = 1.91 x 10(-20)), 11q24.1 
+(rs735665; P = 3.78 x 10(-12)), 15q23 (rs7176508; P = 4.54 x 10(-12)) and
+19q13.32 (rs11083846, PRKD2; P = 3.96 x 10(-9)). These data provide the first
+evidence for the existence of common, low-penetrance susceptibility to a
+hematological malignancy and new insights into disease causation in CLL.
+
+PMID: 18758461  [PubMed - indexed for MEDLINE]
+
+
+20. Zhonghua Er Bi Yan Hou Tou Jing Wai Ke Za Zhi. 2007 Dec;42(12):934-8.
+
+[Identification of tumor-associated proteins in laryngeal squamous cell carcinoma
+by proteomics].
+
+[Article in Chinese]
+
+Zhou JR(1), Fu ZX, Wei LZ, Li YP, Li JC.
+
+Author information: 
+(1)Department of Otorhinolaryngology, First Affiliated Hospital of Chongqing
+Medical University, Chongqing 400016, China.
+
+OBJECTIVE: To establish two-dimensional electrophoresis profiles from human
+laryngeal squamous cell carcinoma tissue and paired normal tumor-adjacent mucosa 
+epithelia tissue, and to identify differential expression proteins.
+METHODS: The total proteins of human laryngeal squamous carcinoma tissue and
+paired normal tumor-adjacent mucosa epithelia tissue were separated by
+immobilized pH gradient-based two-dimensional gel electrophoresis (2-DE). The
+differential expression proteins were analyzed using image analysis software,
+then identified using mass spectrometry and database searching.
+RESULTS: Well-resolved, reproducible 2-DE patterns of laryngeal squamous cell
+carcinoma and adjacent normal mucosa epithelial were obtained. Differential
+protein spots were defined as spots in 2-DE gels. Thirteen proteins were
+preliminarily identified, naming which 10 proteins were upregulated in laryngeal 
+cancer tissue. Such as cofilin-1, nuclear body protein SP140, GRP94, HSP 90,
+GSTP1-1, superoxide dismutase [Mn], cyclophilin A, proteasome activator complex
+subunit 2, apolipoprotein A-I precursor, CaM-like protein and so on. There were 3
+proteins downregulated in laryngeal cancer tissue, which were fatty acid-binding 
+protein, calgranulin A and calgranulin B.
+CONCLUSIONS: Thirteen proteins which are associated with the tumorigenesis of the
+laryngeal squamous cell carcinoma were characterized. These extensive protein
+variations indicate that multiple protein molecules should be simultaneously
+targeted as an effective strategy to counter the disease. It is better for
+understanding of the oncogenesis and pathogenesis in a global way, which in turn 
+is a basis-for the rational designs of diagnostic and therapeutic methods.
+
+PMID: 18335753  [PubMed - indexed for MEDLINE]
+
+
+21. J Virol. 2002 Nov;76(21):11133-8.
+
+Implication of the lymphocyte-specific nuclear body protein Sp140 in an innate
+response to human immunodeficiency virus type 1.
+
+Madani N(1), Millette R, Platt EJ, Marin M, Kozak SL, Bloch DB, Kabat D.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, Oregon Health and Science
+University, Portland, Oregon 97201-3098, USA.
+
+The viral infectivity factor (Vif) of human immunodeficiency virus type 1 (HIV-1)
+neutralizes an unidentified antiviral pathway that occurs only in nonpermissive
+(NP) cells. Using a yeast two-hybrid screen of a human lymphocyte cDNA library,
+we identified several potential Vif partners. One, the nuclear body protein
+Sp140, was found specifically in all NP cells (n = 12 cell lines tested; P < or =
+0.001), and HIV-1 infection induced its partial dispersal from nuclear bodies
+into cytosolic colocalization with Vif. Our results implicate Sp140 in a response
+to HIV-1 that may be related to or coordinated with the pathway that inactivates 
+HIV-1 lacking vif.
+
+PMCID: PMC136615
+PMID: 12368356  [PubMed - indexed for MEDLINE]
+
+
+22. Oncogene. 2001 Oct 29;20(49):7274-86.
+
+Role and fate of PML nuclear bodies in response to interferon and viral
+infections.
+
+Regad T(1), Chelbi-Alix MK.
+
+Author information: 
+(1)UPR 9045 CNRS, Institut André Lwoff, 7 rue Guy Moquet 94801, Villejuif, Cedex,
+France.
+
+Interferons (IFNs) are a family of secreted proteins with antiviral,
+antiproliferative and immunomodulatory activities. The different biological
+actions of IFN are believed to be mediated by the products of specifically
+induced cellular genes in the target cells. The promyelocytic leukaemia (PML)
+protein localizes both in the nucleoplasm and in matrix-associated multi-protein 
+complexes known as nuclear bodies (NBs). PML is essential for the proper
+formation and the integrity of the NBs. Modification of PML by the Small
+Ubiquitin MOdifier (SUMO) was shown to be required for its localization in NBs.
+The number and the intensity of PML NBs increase in response to interferon (IFN).
+Inactivation of the IFN-induced PML gene by its fusion to retinoic acid receptor 
+alpha alters the normal localization of PML from the punctuate nuclear patterns
+of NBs to micro-dispersed tiny dots and results in uncontrolled growth in Acute
+Promyelocytic Leukaemia. The NBs-associated proteins, PML, Sp100, Sp140, Sp110,
+ISG20 and PA28 are induced by IFN suggesting that nuclear bodies could play a
+role in IFN response. Although the function of PML NBs is still unclear, some
+results indicate that they may represent preferential targets for viral
+infections and that PML could play a role in the mechanism of the antiviral
+action of IFNs. Viruses, which require the cellular machinery for their
+replication, have evolved different ways to counteract the action of IFN by
+inhibiting IFN signalling, by blocking the activities of specific antiviral
+mediators or by altering PML expression and/or localization on nuclear bodies.
+
+PMID: 11704856  [PubMed - indexed for MEDLINE]
+
+
+23. EMBO J. 2000 Aug 1;19(15):4123-33.
+
+Regulation of matrix attachment region-dependent, lymphocyte-restricted
+transcription through differential localization within promyelocytic leukemia
+nuclear bodies.
+
+Zong RT(1), Das C, Tucker PW.
+
+Author information: 
+(1)Department of Molecular Genetics and The Institute for Cellular and Molecular 
+Biology, University of Texas at Austin, Austin, TX 78712, USA.
+
+Bright (B cell regulator of IgH transcription) transactivates the immunoglobulin 
+heavy chain (IgH) intronic enhancer, Emicro, by binding to matrix attachment
+regions (MARs), sites necessary for DNA attachment to the nuclear matrix. Here we
+report that Bright interacts with the ubiquitous autoantigen Sp100, a component
+of promyelocytic leukemia nuclear bodies (PML NBs), and with LYSp100B/Sp140, the 
+lymphoid-restricted homolog of Sp100. Both in intact cells and in nuclear matrix 
+preparations, the majority of Bright and Sp100 colocalize within PML NBs. In
+contrast, Bright colocalizes with only a small fraction of LYSp100B while
+inducing a redistribution of the majority of LYSp100B from its associated nuclear
+domains (LANDs) into nucleoplasm and cytoplasm. Sp100 represses the MAR-binding
+and transactivation activity of Bright. LYSp100B interacts more weakly with
+Bright but requires significantly higher levels than Sp100 to inhibit MAR
+binding. However, it strongly stimulates Bright transactivation through E mu. We 
+suggest that Sp100 and LYSp100B interactions with Bright have different
+consequences for IgH transcription, potentially through differential association 
+of E mu MARs with nuclear matrix- associated PML NBs and LANDs.
+
+PMCID: PMC306587
+PMID: 10921892  [PubMed - indexed for MEDLINE]
+
+
+24. Mol Cell Biol. 2000 Aug;20(16):6138-46.
+
+Sp110 localizes to the PML-Sp100 nuclear body and may function as a nuclear
+hormone receptor transcriptional coactivator.
+
+Bloch DB(1), Nakajima A, Gulick T, Chiche JD, Orth D, de La Monte SM, Bloch KD.
+
+Author information: 
+(1)Department of Medicine, Harvard Medical School, Massachusetts General
+Hospital, Boston, Massachusetts, USA. bloch@helix.mgh.harvard.edu
+
+The nuclear body is a multiprotein complex that may have a role in the regulation
+of gene transcription. This structure is disrupted in a variety of human
+disorders including acute promyelocytic leukemia and viral infections, suggesting
+that alterations in the nuclear body may have an important role in the
+pathogenesis of these diseases. In this study, we identified a cDNA encoding a
+leukocyte-specific nuclear body component designated Sp110. The N-terminal
+portion of Sp110 was homologous to two previously characterized components of the
+nuclear body (Sp100 and Sp140). The C-terminal region of Sp110 was homologous to 
+the transcription intermediary factor 1 (TIF1) family of proteins. High levels of
+Sp110 mRNA were detected in human peripheral blood leukocytes and spleen but not 
+in other tissues. The levels of Sp110 mRNA and protein in the human promyelocytic
+leukemia cell line NB4 increased following treatment with all-trans retinoic acid
+(ATRA), and Sp110 localized to PML-Sp100 nuclear bodies in ATRA-treated NB4
+cells. Because of the structural similarities between Sp110 and TIF1 proteins,
+the effect of Sp110 on gene transcription was examined. An Sp110 DNA-binding
+domain fusion protein activated transcription of a reporter gene in transfected
+mammalian cells. In addition, Sp110 produced a marked increase in ATRA-mediated
+expression of a reporter gene containing a retinoic acid response element. Taken 
+together, the results of this study demonstrate that Sp110 is a member of the
+Sp100/Sp140 family of nuclear body components and that Sp110 may function as a
+nuclear hormone receptor transcriptional coactivator. The predominant expression 
+of Sp110 in leukocytes and the enhanced expression of Sp110 in NB4 cells treated 
+with ATRA raise the possibility that Sp110 has a role in inducing differentiation
+of myeloid cells.
+
+PMCID: PMC86089
+PMID: 10913195  [PubMed - indexed for MEDLINE]
+
+
+25. Int J Biol Macromol. 1999 Mar-Apr;24(2-3):89-101.
+
+High molecular mass complexes of aquatic silk proteins.
+
+Case ST(1), Thornton JR.
+
+Author information: 
+(1)Department of Biochemistry, The University of Mississippi Medical Center,
+Jackson 39216-4505, USA. stcase@biochem.umsmed.edu
+
+Little is known about specific protein protein associations that take place
+during formation of Chironomus tentans silk. The aim of this study was to learn
+if C. tentans salivary glands contain biochemically discrete silk protein
+complexes. Examination of native extracts by non-denaturing agarose gel
+electrophoresis and immunoblotting revealed two SDS-resistant complexes: C1a,
+nominally containing silk proteins spIa, sp185 and sp140, and C1b, containing
+spIb, sp185 and sp140. The data also implied that C1a and C1b can further
+associate into SDS-sensitive homo- or hetero-oligomers. Sedimentation of extracts
+in preparative glycerol gradients resulted in a heterogeneous distribution of C1a
+and C1b centered near 30S. Examination of gradient fractions by denaturing
+polyacrylamide gel electrophoresis and immunoblotting indicated that C1a and C1b 
+co-sediment with spIs, sp185, and sp140; however, these fractions also contained 
+sp40, sp17 and sp12. In contrast, two other silk proteins sedimented throughout
+the gradient. Electron micrographs of a complex-containing fraction showed
+discrete, sometimes oligomeric lattice-like structures that, over time, assembled
+in vitro into multistranded beaded fibers. It is proposed that C1a and C1b are
+quaternary structures that are intermediates in the assembly pathway of C.
+tentans silk.
+
+PMID: 10342752  [PubMed - indexed for MEDLINE]
+
+
+26. Mol Cell Biol. 1999 Jun;19(6):4423-30.
+
+Structural and functional heterogeneity of nuclear bodies.
+
+Bloch DB(1), Chiche JD, Orth D, de la Monte SM, Rosenzweig A, Bloch KD.
+
+Author information: 
+(1)Department of Medicine, Harvard Medical School, Massachusetts General
+Hospital, Boston, Massachusetts. bloch@helix.mgh.harvard
+
+The nuclear body is a cellular structure that appears to be involved in the
+pathogenesis of acute promyelocytic leukemia and viral infection. In addition,
+the nuclear body is a target of autoantibodies in patients with the autoimmune
+disease primary biliary cirrhosis. Although the precise function of the nuclear
+body in normal cellular biology is unknown, this structure may have a role in the
+regulation of gene transcription. In a previous investigation, we identified a
+leukocyte-specific, gamma interferon (IFN-gamma)-inducible autoantigen designated
+Sp140. The objectives of the present study were to investigate the cellular
+location of Sp140 with respect to the nuclear-body components PML and Sp100 and
+to examine the potential role of Sp140 in the regulation of gene transcription.
+We used adenovirus-mediated gene transfer to express Sp140 in human cells and
+observed that the protein colocalized with PML and Sp100 in resting cells and
+associated with structures containing PML during mitosis. In cells infected with 
+the adenovirus expressing Sp140 and incubated with IFN-gamma, the number of
+PML-Sp100 nuclear bodies per cell increased but immunoreactive Sp140 was not
+evenly distributed among the nuclear bodies. Sp140 associated with a subset of
+IFN-gamma-induced PML-Sp100 nuclear bodies. To examine the potential effect of
+Sp140 on gene transcription, a plasmid encoding Sp140 fused to the DNA-binding
+domain of GAL4 was cotransfected into COS cells with a chloramphenicol
+acetyltransferase (CAT) reporter gene containing five GAL4-binding sites and a
+simian virus 40 enhancer region. The GAL4-Sp140 fusion protein increased the
+expression of the reporter gene. In contrast, Sp100 fused to the GAL4 DNA-binding
+domain inhibited CAT activity in transfected mammalian cells. The results of this
+study demonstrate that Sp140 associates with a subset of PML-Sp100 nuclear bodies
+in IFN-gamma-treated cells and that Sp140 may activate gene transcription. Taken 
+together, these observations suggest that the nuclear bodies within a cell may be
+heterogeneous with respect to both composition and function.
+
+PMCID: PMC104401
+PMID: 10330182  [PubMed - indexed for MEDLINE]
+
+
+27. J Biol Chem. 1996 Nov 15;271(46):29198-204.
+
+Identification and characterization of a leukocyte-specific component of the
+nuclear body.
+
+Bloch DB(1), de la Monte SM, Guigaouri P, Filippov A, Bloch KD.
+
+Author information: 
+(1)Department of Medicine, Harvard Medical School, Massachusetts General
+Hospital, Boston, Massachusetts 02129, USA. bloch@helix.mgh.harvard.edu
+
+The nuclear body (NB) is a cellular organelle that is involved in the
+pathogenesis of acute promyelocytic leukemia and viral infection. The NB is also 
+a target of antibodies in the serum of patients with the autoimmune disease
+primary biliary cirrhosis. In this study, serum from a patient with primary
+biliary cirrhosis was used to identify a cDNA encoding a novel component of the
+NB, a 140-kDa protein designated Sp140. The predicted amino acid sequence of the 
+amino-terminal portion of Sp140 was similar to Sp100, a previously identified NB 
+protein. The carboxyl portion of Sp140 contained a zinc-finger domain and a
+bromodomain, motifs that are present in proteins regulating gene transcription.
+High levels of Sp140 mRNA were detected in human spleen and peripheral blood
+leukocytes, but not other human tissues. The level of SP140 mRNA in myeloid
+precursor cell lines HL60 and NB4 markedly increased in response to chemically
+induced cellular differentiation. Immunohistochemical techniques were used to
+demonstrate that SP140 localized to the NB in differentiated HL60 and NB4 cells. 
+The location of Sp140 in the NB, and expression of this gene in cells involved in
+host defense, suggest that Sp140 may be involved in the pathogenesis of acute
+promyelocytic leukemia and viral infection.
+
+PMID: 8910577  [PubMed - indexed for MEDLINE]
+
+
+28. Blood. 1996 Aug 15;88(4):1423-6.
+
+LYSP100-associated nuclear domains (LANDs): description of a new class of
+subnuclear structures and their relationship to PML nuclear bodies.
+
+Dent AL(1), Yewdell J, Puvion-Dutilleul F, Koken MH, de The H, Staudt LM.
+
+Author information: 
+(1)Metabolism Branch, National Cancer Institute, National Institutes of Health,
+Bethesda, MD 20892, USA.
+
+The PML gene is fused to the retinoic acid receptor alpha (RAR alpha) gene in
+t(15;17) acute promyelocytic leukemia (APL), creating a PML-RAR alpha fusion
+oncoprotein. The PML gene product has been localized to subnuclear dot-like
+structures variously termed PODs, ND10s, Kr bodies, or PML nuclear bodies (PML
+NBs). The present study describes the cloning of a lymphoid-restricted gene,
+LYSP100, that is homologous to another protein that localizes to PML NBs, SP100. 
+In addition to SP100 homology regions, one LYSP100 cDNA isoform contains a
+bromodomain and a PHD/TTC domain, which are present in a variety of
+transcriptional regulatory proteins. By immunofluorescence, LYSP100 was localized
+to nuclear dots that were surprisingly largely nonoverlapping with PML NBs.
+However, a minority of LYSP100 nuclear dots exactly colocalized with PML and
+SP100. We term the LYSP100 structures "LANDs," for LYSP100-associated nuclear
+domains. Although LYSP100 is expressed only in lymphoid cells, LANDs could be
+visualized in HeLa cells by transfection of a LYSP100 cDNA. Immunoelectron
+microscopy revealed LANDs to be globular, electron-dense structures
+morphologically distinct from the annular structures characteristic of PML NBs.
+LANDs were most often found in the nucleoplasm, but were also found at the
+nuclear membrane and in the cytoplasm, suggesting that these structures may
+traffic between the cytoplasm and the nucleus. By double-immunogold labeling of
+PML and LYSP100, some LANDs were shown to contain both PML and LYSP100. Thus, PML
+is localized to a second subnuclear domain that is morphologically and
+biochemically distinct from PML NBs.
+
+PMID: 8695863  [PubMed - indexed for MEDLINE]
+
+
+29. Gene. 1990 Apr 16;88(2):133-40.
+
+Balbiani ring 3 in Chironomus tentans encodes a 185-kDa secretory protein which
+is synthesized throughout the fourth larval instar.
+
+Dignam SS(1), Case ST.
+
+Author information: 
+(1)Department of Biochemistry, University of Mississippi Medical Center, Jackson 
+39216-4505.
+
+We have continued to map and identify genes encoding a family of secretory
+proteins. These proteins are synthesized in larval salivary glands of the midge, 
+Chironomus tentans, and assemble in vivo into insoluble silk-like threads. The
+genes for several secretory proteins exist in Balbiani rings (BRs) on
+salivary-gland polytene chromosomes. A randomly primed cDNA clone, designated
+pCt185, hybridized in situ to BR3 and was shown on Northern blots to originate
+from a salivary gland-specific 6-kb poly(A) + RNA. The partial cDNA sequence
+contained 483 nucleotides including one open reading frame (ORF) encoding 160
+amino acids (aa). A striking feature of the ORF was the periodic distribution of 
+cysteine residues (Cys-X-Cys-X-Cys-X6-Cys) which occurred approximately every 22 
+aa. A cDNA-encoded 18-aa sequence was selected for chemical peptide synthesis.
+When affinity-purified antipeptide antibodies were incubated with a Western blot 
+containing salivary-gland proteins they reacted specifically with a 185-kDa
+secretory protein (sp185). Developmental studies showed that sp185 and its mRNA
+were present in salivary glands throughout the fourth larval instar. Thus sp185
+and a family of 1000-kDa secretory proteins are encoded by a class of genes that 
+are expressed throughout the fourth instar. This contrasts with the
+developmentally regulated expression of the sp140 and sp195 genes whose
+expression is maximal during the prepupal stages of larval development.
+
+PMID: 2189782  [PubMed - indexed for MEDLINE]
+
+
+30. J Biol Chem. 1989 Jun 5;264(16):9444-52.
+
+Identification of a developmentally regulated gene for a 140-kDa secretory
+protein in salivary glands of Chironomus tentans larvae.
+
+Dignam SS(1), Yang L, Lezzi M, Case ST.
+
+Author information: 
+(1)Department of Biochemistry, University of Mississippi Medical Center, Jackson 
+39216-4505.
+
+Secretory proteins are synthesized in salivary glands of the insect, Chironomus
+tentans, and assemble in vivo into silk-like threads which aquatic larvae use to 
+construct tubes for filter feeding and pupation. Thus far, all known secretory
+protein genes contain repetitious protein-coding sequences and are located in
+cytological structures known as Balbiani rings, giant puffs found on polytene
+secretory cell chromosomes. In this paper we describe the identification of
+another secretory protein gene which is comprised of repeated sequences; however,
+this gene is not located in a Balbiani ring. Two partial cDNA clones from a
+3.6-kilobase pair poly(A)+ RNA were sequenced and found to contain two open
+reading frames for protein synthesis. Antibodies were raised against synthetic
+oligopeptides whose sequences were derived from these two open reading frames. An
+immunoaffinity-purified antibody for one of these peptides bound specifically to 
+a 140-kDa secretory protein (sp140). The cDNA sequences contain tandem repeats of
+42 base pairs which encode a repeat of 14 amino acids with a composition and
+oligopeptide sequence similar to other secretory proteins. The C. tentans genome 
+contains about 70 copies of this 42-base pair repeat organized as a contiguous
+block of 3 kilobase pairs or less. The sp140 gene was mapped by in situ
+hybridization to polytene chromosome band I-17-B. Developmental studies of
+protein accumulation, steady-state levels of mRNA, and relative transcription
+rate suggested that the sp140 gene is developmentally regulated so that maximal
+expression is achieved during the prepupal stages of the fourth larval instar.
+Based upon these results we proposed that sp140 gene belongs to a prepupal class 
+of secretory protein genes. While the sp140 gene shares structural and expression
+characteristics with other secretory protein genes, its unique chromosomal
+location shows that this multigene family is not restricted to Balbiani rings.
+
+PMID: 2470756  [PubMed - indexed for MEDLINE]
+
+

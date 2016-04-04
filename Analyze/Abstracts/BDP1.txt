@@ -1,0 +1,2005 @@
+
+1. Parasitology. 2015 Nov;142(13):1563-73. doi: 10.1017/S0031182015001122. Epub 2015
+Sep 4.
+
+BRF1, a subunit of RNA polymerase III transcription factor TFIIIB, is essential
+for cell growth of Trypanosoma brucei.
+
+Vélez-Ramírez DE(1), Florencio-Martínez LE(1), Romero-Meza G(1), Rojas-Sánchez
+S(1), Moreno-Campos R(1), Arroyo R(2), Ortega-López J(3), Manning-Cela R(4),
+Martínez-Calvillo S(1).
+
+Author information: 
+(1)Unidad de Biomedicina, Facultad de Estudios Superiores Iztacala,Universidad
+Nacional Autónoma de México,Av. De los Barrios 1,Col. Los Reyes
+Iztacala,Tlalnepantla,Edo. de México,CP 54090,México. (2)Departamento de
+Infectómica y Patogénesis Molecular,Centro de Investigación y de Estudios
+Avanzados del IPN,Av. IPN 2508,México,D.F.,CP 07360,México. (3)Departamento de
+Biotecnología y Bioingeniería,Centro de Investigación y de Estudios Avanzados del
+IPN,Av. IPN 2508,México,D.F.,CP 07360,México. (4)Departamento de Biomedicina
+Molecular,Centro de Investigación y de Estudios Avanzados del IPN,Av. IPN
+2508,México,D.F.,CP 07360,México.
+
+RNA polymerase III (Pol III) synthesizes small RNA molecules that are essential
+for cell viability. Accurate initiation of transcription by Pol III requires
+general transcription factor TFIIIB, which is composed of three subunits:
+TFIIB-related factor BRF1, TATA-binding protein and BDP1. Here we report the
+molecular characterization of BRF1 in Trypanosoma brucei (TbBRF1), a parasitic
+protozoa that shows distinctive transcription characteristics. In silico analysis
+allowed the detection in TbBRF1 of the three conserved domains located in the
+N-terminal region of all BRF1 orthologues, namely a zinc ribbon motif and two
+cyclin repeats. Homology modelling suggested that, similarly to other BRF1 and
+TFIIB proteins, the TbBRF1 cyclin repeats show the characteristic structure of
+five a-helices per repeat, connected by a short random-coiled linker. As expected
+for a transcription factor, TbBRF1 was localized in the nucleus. Knock-down of
+TbBRF1 by RNA interference (RNAi) showed that this protein is essential for the
+viability of procyclic forms of T. brucei, since ablation of TbBRF1 led to growth
+arrest of the parasites. Nuclear run-on and quantitative real-time PCR analyses
+demonstrated that transcription of all the Pol III-dependent genes analysed was
+reduced, at different levels, after RNAi induction.
+
+PMID: 26337955  [PubMed - in process]
+
+
+2. Mol Cell Biol. 2015 Aug;35(16):2831-40. doi: 10.1128/MCB.00263-15. Epub 2015 Jun 
+8.
+
+A Region of Bdp1 Necessary for Transcription Initiation That Is Located within
+the RNA Polymerase III Active Site Cleft.
+
+Hu HL(1), Wu CC(2), Lee JC(2), Chen HT(3).
+
+Author information: 
+(1)Department of Life Sciences and Institute of Genome Sciences, National
+Yang-Ming University, Taipei, Taiwan, Republic of China Institute of Molecular
+Biology, Academia Sinica, Taipei, Taiwan, Republic of China. (2)Institute of
+Molecular Biology, Academia Sinica, Taipei, Taiwan, Republic of China.
+(3)Institute of Molecular Biology, Academia Sinica, Taipei, Taiwan, Republic of
+China htchen012@gate.sinica.edu.tw.
+
+The RNA polymerase III (Pol III)-specific transcription factor Bdp1 is crucial to
+Pol III recruitment and promoter opening in transcription initiation, yet
+structural information is sparse. To examine its protein-binding targets within
+the preinitiation complex at the residue level, photoreactive amino acids were
+introduced into Saccharomyces cerevisiae Bdp1. Mutations within the highly
+conserved SANT domain cross-linked to the transcription factor IIB
+(TFIIB)-related transcription factor Brf1, consistent with the findings of
+previous studies. In addition, we identified an essential N-terminal region that 
+cross-linked with the Pol III catalytic subunit C128 as well as Brf1. Closer
+examination revealed that this region interacted with the C128 N-terminal region,
+the N-terminal half of Brf1, and the C-terminal domain of the C37 subunit,
+together positioning this region within the active site cleft of the
+preinitiation complex. With our functional data, our analyses identified an
+essential region of Bdp1 that is positioned within the active site cleft of Pol
+III and necessary for transcription initiation.
+
+Copyright © 2015, American Society for Microbiology. All Rights Reserved.
+
+PMCID: PMC4508317
+PMID: 26055328  [PubMed - indexed for MEDLINE]
+
+
+3. PLoS One. 2015 May 13;10(5):e0127225. doi: 10.1371/journal.pone.0127225.
+eCollection 2015.
+
+Differential Phosphorylation of RNA Polymerase III and the Initiation Factor
+TFIIIB in Saccharomyces cerevisiae.
+
+Lee J(1), Moir RD(1), Willis IM(2).
+
+Author information: 
+(1)Department of Biochemistry, Albert Einstein College of Medicine, Bronx, New
+York, United States of America. (2)Department of Biochemistry, Albert Einstein
+College of Medicine, Bronx, New York, United States of America; Department of
+Systems and Computational Biology, Albert Einstein College of Medicine, Bronx,
+New York, United States of America.
+
+The production of ribosomes and tRNAs for protein synthesis has a high energetic 
+cost and is under tight transcriptional control to ensure that the level of RNA
+synthesis is balanced with nutrient availability and the prevailing environmental
+conditions. In the RNA polymerase (pol) III system in yeast, nutrients and stress
+affect transcription through a bifurcated signaling pathway in which protein
+kinase A (PKA) and TORC1 activity directly or indirectly, through downstream
+kinases, alter the phosphorylation state and function of the Maf1 repressor and
+Rpc53, a TFIIF-like subunit of the polymerase. However, numerous lines of
+evidence suggest greater complexity in the regulatory network including the
+phosphoregulation of other pol III components. To address this issue, we
+systematically examined all 17 subunits of pol III along with the three subunits 
+of the initiation factor TFIIIB for evidence of differential phosphorylation in
+response to inhibition of TORC1. A relatively high stoichiometry of
+phosphorylation was observed for several of these proteins and the Rpc82 subunit 
+of the polymerase and the Bdp1 subunit of TFIIIB were found to be differentially 
+phosphorylated. Bdp1 is phosphorylated on four major sites during exponential
+growth and the protein is variably dephosphorylated under conditions that inhibit
+tRNA gene transcription. PKA, the TORC1-regulated kinase Sch9 and protein kinase 
+CK2 are all implicated in the phosphorylation of Bdp1. Alanine substitutions at
+the four phosphosites cause hyper-repression of transcription indicating that
+phosphorylation of Bdp1 opposes Maf1-mediated repression. The new findings
+suggest an integrated regulatory model for signaling events controlling pol III
+transcription.
+
+PMCID: PMC4430316
+PMID: 25970584  [PubMed - indexed for MEDLINE]
+
+
+4. Genome Res. 2015 Feb;25(2):155-66. doi: 10.1101/gr.176925.114. Epub 2015 Jan 5.
+
+BRF1 mutations alter RNA polymerase III-dependent transcription and cause
+neurodevelopmental anomalies.
+
+Borck G(1), Hög F(2), Dentici ML(3), Tan PL(4), Sowada N(5), Medeira A(6),
+Gueneau L(7), Thiele H(8), Kousi M(4), Lepri F(3), Wenzeck L(2), Blumenthal I(9),
+Radicioni A(10), Schwarzenberg TL(11), Mandriani B(12), Fischetto R(13),
+Morris-Rosendahl DJ(14), Altmüller J(15), Reymond A(7), Nürnberg P(16), Merla
+G(17), Dallapiccola B(3), Katsanis N(4), Cramer P(18), Kubisch C(19).
+
+Author information: 
+(1)Institute of Human Genetics, University of Ulm, 89081 Ulm, Germany;
+guntram.borck@uni-ulm.de. (2)Gene Center Munich and Department of Biochemistry,
+Center for Integrated Protein Science CIPSM, Ludwig-Maximilians-Universität
+München, 81377 Munich, Germany; (3)Bambino Gesù Children's Hospital, IRCCS, 00165
+Rome, Italy; (4)Center for Human Disease Modeling, Duke University, Durham, North
+Carolina 27710, USA; (5)Institute of Human Genetics, University of Ulm, 89081
+Ulm, Germany; (6)Serviço de Genética, Departamento de Pediatria, Hospital S.
+Maria, CHLN, 1649-035 Lisboa, Portugal; (7)Center for Integrative Genomics,
+University of Lausanne, 1015 Lausanne, Switzerland; (8)Cologne Center for
+Genomics (CCG), University of Cologne, 50931 Cologne, Germany; (9)Molecular
+Neurogenetics Unit and Psychiatric and Neurodevelopmental Genetics Unit, Center
+for Human Genetic Research, Massachusetts General Hospital, Boston, Massachusetts
+02114, USA; (10)Department of Experimental Medicine, Sapienza University, 00161
+Rome, Italy; (11)Department of Neonatology, Sapienza University, 00161 Rome,
+Italy; (12)IRCCS Casa Sollievo Della Sofferenza, Medical Genetics Unit, 71013 San
+Giovanni Rotondo, Italy; PhD Program, Molecular Genetics applied to Medical
+Sciences, University of Brescia, 25121 Brescia, Italy; (13)U.O. Malattie
+Metaboliche PO Giovanni XXIII, AOU Policlinico Consorziale, 70120 Bari, Italy;
+(14)Genomic Medicine, National Heart and Lung Institute, Imperial College, London
+SW3 6LY, United Kingdom; (15)Cologne Center for Genomics (CCG), University of
+Cologne, 50931 Cologne, Germany; Institute for Human Genetics, University of
+Cologne, 50931 Cologne, Germany; (16)Cologne Center for Genomics (CCG),
+University of Cologne, 50931 Cologne, Germany; Cologne Excellence Cluster on
+Cellular Stress Responses in Aging-Associated Diseases (CECAD), University of
+Cologne, 50674 Cologne, Germany; Center for Molecular Medicine Cologne (CMMC),
+University of Cologne, 50931 Cologne, Germany; (17)IRCCS Casa Sollievo Della
+Sofferenza, Medical Genetics Unit, 71013 San Giovanni Rotondo, Italy; (18)Max
+Planck Institute for Biophysical Chemistry, Department of Molecular Biology,
+37077 Göttingen, Germany; (19)Institute of Human Genetics, University of Ulm,
+89081 Ulm, Germany; Institute of Human Genetics, University Medical Center
+Hamburg-Eppendorf, 20246 Hamburg, Germany.
+
+Erratum in
+    Genome Res. 2015 Apr;25(4):609.
+
+RNA polymerase III (Pol III) synthesizes tRNAs and other small noncoding RNAs to 
+regulate protein synthesis. Dysregulation of Pol III transcription has been
+linked to cancer, and germline mutations in genes encoding Pol III subunits or
+tRNA processing factors cause neurogenetic disorders in humans, such as
+hypomyelinating leukodystrophies and pontocerebellar hypoplasia. Here we describe
+an autosomal recessive disorder characterized by cerebellar hypoplasia and
+intellectual disability, as well as facial dysmorphic features, short stature,
+microcephaly, and dental anomalies. Whole-exome sequencing revealed biallelic
+missense alterations of BRF1 in three families. In support of the pathogenic
+potential of the discovered alleles, suppression or CRISPR-mediated deletion of
+brf1 in zebrafish embryos recapitulated key neurodevelopmental phenotypes; in
+vivo complementation showed all four candidate mutations to be pathogenic in an
+apparent isoform-specific context. BRF1 associates with BDP1 and TBP to form the 
+transcription factor IIIB (TFIIIB), which recruits Pol III to target genes. We
+show that disease-causing mutations reduce Brf1 occupancy at tRNA target genes in
+Saccharomyces cerevisiae and impair cell growth. Moreover, BRF1 mutations reduce 
+Pol III-related transcription activity in vitro. Taken together, our data show
+that BRF1 mutations that reduce protein activity cause neurodevelopmental
+anomalies, suggesting that BRF1-mediated Pol III transcription is required for
+normal cerebellar and cognitive development.
+
+© 2015 Borck et al.; Published by Cold Spring Harbor Laboratory Press.
+
+PMCID: PMC4315290
+PMID: 25561519  [PubMed - indexed for MEDLINE]
+
+
+5. Hum Hered. 2014;77(1-4):175-82. doi: 10.1159/000360475. Epub 2014 Jul 29.
+
+Consanguinity and hereditary hearing loss in Qatar.
+
+Girotto G(1), Mezzavilla M, Abdulhadi K, Vuckovic D, Vozzi D, Khalifa Alkowari M,
+Gasparini P, Badii R.
+
+Author information: 
+(1)Department of Medical Sciences, University of Trieste, Trieste, Italy.
+
+Qatar is a sovereign state located on the Eastern coast of the Arabian Peninsula 
+in the Persian Gulf. Its native population consists of 3 major subgroups: people 
+of Arabian origin or Bedouins, those from an Eastern or Persian ancestry and
+individuals with African admixture. Historically, all types of consanguineous
+marriages have been and still are common in the Qatari population, particularly
+among first and double-first cousins. Thus, there is a higher risk for most
+inherited diseases including hereditary hearing loss (HHL). In particular, a
+hearing loss prevalence of 5.2% has been reported in Qatar, with parental
+consanguinity being more common among affected individuals as compared with
+unaffected ones. Our recent molecular results confirm a high homogeneity and
+level of inbreeding in Qatari HHL patients. Among all HHL genes, GJB2, the major 
+player worldwide, accounts for a minor proportion of cases and at least 3
+additional genes have been found to be mutated in Qatari patients. Interestingly,
+one gene, BDP1, has been described to cause HHL only in this country. These
+results point towards an unexpected level of genetic heterogeneity despite the
+high level of inbreeding. This review provides an up-to-date picture of HHL in
+Qatar and of the impact of consanguinity on this disease.
+
+© 2014 S. Karger AG, Basel.
+
+PMID: 25060281  [PubMed - indexed for MEDLINE]
+
+
+6. BMC Genomics. 2014 Jun 24;15:519. doi: 10.1186/1471-2164-15-519.
+
+Transcriptional regulation and spatial interactions of head-to-head genes.
+
+Chen Y, Li Y, Wei J(1), Li YY.
+
+Author information: 
+(1)Shanghai Center for Bioinformation Technology, Shanghai, P R China.
+Jenny.Wei@astrazeneca.com.
+
+BACKGROUND: In eukaryotic genomes, about 10% of genes are arranged in a
+head-to-head (H2H) orientation, and the distance between the transcription start 
+sites of each gene pair is closer than 1 kb. Two genes in an H2H pair are prone
+to co-express and co-function. There have been many studies on bidirectional
+promoters. However, the mechanism by which H2H genes are regulated at the
+transcriptional level still needs further clarification, especially with regard
+to the co-regulation of H2H pairs. In this study, we first used the Hi-C data of 
+chromatin linkages to identify spatially interacting H2H pairs, and then
+integrated ChIP-seq data to compare H2H gene pairs with and without evidence of
+spatial interactions in terms of their binding transcription factors (TFs). Using
+ChIP-seq and DNase-seq data, histones and DNase associated with H2H pairs were
+identified. Furthermore, we looked into the connections between H2H genes in a
+human co-expression network.
+RESULTS: We found that i) Similar to the behaviour of two genes within an H2H
+pair (intra-H2H pair), a gene pair involving two distinct H2H pairs (inter-H2H
+pair) which interact with each other spatially, share common transcription
+factors (TFs); ii) TFs of intra- and inter-H2H pairs are distributed differently.
+Factors such as HEY1, GABP, Sin3Ak-20, POL2, E2F6, and c-MYC are essential for
+the bidirectional transcription of intra-H2H pairs; while factors like CTCF,
+BDP1, GATA2, RAD21, and POL3 play important roles in coherently regulating
+inter-H2H pairs; iii) H2H gene blocks are enriched with hypersensitive DNase and 
+modified histones, which participate in active transcriptions; and iv) H2H genes 
+tend to be highly connected compared with non-H2H genes in the human
+co-expression network.
+CONCLUSIONS: Our findings shed new light on the mechanism of the transcriptional 
+regulation of H2H genes through their linear and spatial interactions. For
+intra-H2H gene pairs, transcription factors regulate their transcriptions through
+bidirectional promoters, whereas for inter-H2H gene pairs, transcription factors 
+are likely to regulate their activities depending on the spatial interaction of
+H2H gene pairs. In this way, two distinctive groups of transcription factors
+mediate intra- and inter-H2H gene transcriptions respectively, resulting in a
+highly compact gene regulatory network.
+
+PMCID: PMC4089025
+PMID: 24962804  [PubMed - indexed for MEDLINE]
+
+
+7. Anim Genet. 2014 Oct;45(5):674-84. doi: 10.1111/age.12184. Epub 2014 Jun 24.
+
+Comprehensive analysis of the whole transcriptomes from two different pig breeds 
+using RNA-Seq method.
+
+Ropka-Molik K(1), Zukowski K, Eckert R, Gurgul A, Piórkowska K, Oczkowicz M.
+
+Author information: 
+(1)Laboratory of Genomics, National Research Institute of Animal Production,
+Krakowska 1, 32-083, Balice, Poland.
+
+Next-generation sequencing RNA-Seq technology is a powerful tool that creates new
+possibilities for whole-transcriptome analysis. In our study, the RNA-Seq method 
+was applied to analyze global changes in transcriptome from muscle tissue (m.
+semimembranosus) in two pig breeds (Pietrain and Polish Landrace, PL). The breeds
+differ in terms of muscularity, growth rate and reproduction traits. Using three 
+different approaches (deseq, cufflinks and edger) and taking into account the
+most restrictive criteria, 35 genes differentially expressed between Pietrain and
+PL pigs were identified. In both breeds, the most abundant were transcripts
+encoding ribosomal and cytoskeletal proteins (TPM3, TCAP, TMOD4, TPM2, TNNC1) and
+calcium-binding proteins involved in muscle contraction, calcium-mediated
+signaling or cation transport (CASQ1, MLC2V, SLC25A4, MYL3). In PL pigs, we
+identified up-regulation of several genes that play crucial roles in
+reproduction: female gamete generation (BDP1, PTPN21, USP9X), fertilization
+(EGFR) and embryonic development (CPEB4). In the Pietrain breed, only seven genes
+were over-expressed (CISH, SPP1, TUBA8, ATP6V1C2, IGKC, predicted LOC100510960
+and LOC100626400), and they play important roles in, for example, negative
+regulation of apoptosis, immune response, cell-cell signaling, cell growth and
+migration as well as the metabolic process. The functions of the majority of
+selected genes were consistent with phenotypic variation in investigated breeds; 
+thus, we proposed a new panel of candidate genes that can be associated with
+economically important pig traits.
+
+© 2014 Stichting International Foundation for Animal Genetics.
+
+PMID: 24961663  [PubMed - indexed for MEDLINE]
+
+
+8. PLoS One. 2013 Dec 2;8(12):e80323. doi: 10.1371/journal.pone.0080323. eCollection
+2013.
+
+Linkage study and exome sequencing identify a BDP1 mutation associated with
+hereditary hearing loss.
+
+Girotto G(1), Abdulhadi K, Buniello A, Vozzi D, Licastro D, d'Eustacchio A,
+Vuckovic D, Alkowari MK, Steel KP, Badii R, Gasparini P.
+
+Author information: 
+(1)Department of Medical Sciences, University of Trieste, Trieste, Italy.
+
+Nonsyndromic Hereditary Hearing Loss is a common disorder accounting for at least
+60% of prelingual deafness. GJB2 gene mutations, GJB6 deletion, and the A1555G
+mitochondrial mutation play a major role worldwide in causing deafness, but there
+is a high degree of genetic heterogeneity and many genes involved in deafness
+have not yet been identified. Therefore, there remains a need to search for new
+causative mutations. In this study, a combined strategy using both linkage
+analysis and sequencing identified a new mutation causing hearing loss. Linkage
+analysis identified a region of 40 Mb on chromosome 5q13 (LOD score 3.8) for
+which exome sequencing data revealed a mutation (c.7873 T>G leading to
+p.*2625Gluext*11) in the BDP1 gene (B double prime 1, subunit of RNA polymerase
+III transcription initiation factor IIIB) in patients from a consanguineous
+Qatari family of second degree, showing bilateral, post-lingual, sensorineural
+moderate to severe hearing impairment. The mutation disrupts the termination
+codon of the transcript resulting in an elongation of 11 residues of the BDP1
+protein. This elongation does not contain any known motif and is not conserved
+across species. Immunohistochemistry studies carried out in the mouse inner ear
+showed Bdp1 expression within the endothelial cells in the stria vascularis, as
+well as in mesenchyme-derived cells surrounding the cochlear duct. The
+identification of the BDP1 mutation increases our knowledge of the molecular
+bases of Nonsyndromic Hereditary Hearing Loss and provides new opportunities for 
+the diagnosis and treatment of this disease in the Qatari population.
+
+PMCID: PMC3846559
+PMID: 24312468  [PubMed - indexed for MEDLINE]
+
+
+9. Mol Cell Biol. 2014 Feb;34(3):551-9. doi: 10.1128/MCB.00910-13. Epub 2013 Nov 25.
+
+Mapping the protein interaction network for TFIIB-related factor Brf1 in the RNA 
+polymerase III preinitiation complex.
+
+Khoo SK(1), Wu CC, Lin YC, Lee JC, Chen HT.
+
+Author information: 
+(1)Molecular and Cell Biology, Taiwan International Graduate Program, Graduate
+Institute of Life Sciences, National Defense Medical Center, Taipei, Taiwan,
+Republic of China.
+
+TFIIB-related factor Brf1 is essential for RNA polymerase (Pol) III recruitment
+and open-promoter formation in transcription initiation. We site specifically
+incorporated a nonnatural amino acid cross-linker into Brf1 to map its protein
+interaction targets in the preinitiation complex (PIC). Our cross-linking
+analysis in the N-terminal domain of Brf1 indicated a pattern of multiple protein
+interactions reminiscent of TFIIB in the Pol active-site cleft. In addition to
+the TFIIB-like protein interactions, the Brf1 cyclin repeat subdomain is in
+contact with the Pol III-specific C34 subunit. With site-directed hydroxyl
+radical probing, we further revealed the binding between Brf1 cyclin repeats and 
+the highly conserved region connecting C34 winged-helix domains 2 and 3. In
+contrast to the N-terminal domain of Brf1, the C-terminal domain contains
+extensive binding sites for TBP and Bdp1 to hold together the TFIIIB complex on
+the promoter. Overall, the domain architecture of the PIC derived from our
+cross-linking data explains how individual structural subdomains of Brf1
+integrate the protein network from the Pol III active center to the promoter for 
+transcription initiation.
+
+PMCID: PMC3911497
+PMID: 24277937  [PubMed - indexed for MEDLINE]
+
+
+10. J Mol Model. 2013 Oct;19(10):4239-49. doi: 10.1007/s00894-013-1862-4. Epub 2013
+Jun 9.
+
+Optical chemosensors for Cu(II) ion based on BODIPY derivatives: an experimental 
+and theoretical study.
+
+Keawwangchai T(1), Wanno B, Morakot N, Keawwangchai S.
+
+Author information: 
+(1)The Center of Excellence for Innovation in Chemistry (PERCH-CIC) and
+Supramolecular Chemistry Research Unit, Department of Chemistry, Faculty of
+Science, Mahasarakham University, Maha Sarakham, 44150, Thailand,
+k.tasawan@gmail.com.
+
+Two BODIPY derivatives for Cu(2+) ion chemosensors containing
+4-[2-(diethylamino)-2-oxoethoxy]phenyl (BDP1) and
+3,4-bis[2-(diethylamino)-2-oxoethoxy]phenyl (BDP2) were synthesized by coupling
+appropriate N,N-diethyl-2-(4-formylphenoxy)acetamide and 2,4-dimethylpyrrole
+moieties in the presence of trifluoroacetic acid and anhydrous dichloromethane at
+room temperature. The binding abilities between these chemosensors and 50
+equivalents of Na(+), K(+), Ag(+), Ca(2+), Fe(2+), Ni(2+), Cu(2+), Zn(2+),
+Cd(2+), Hg(2+) and Pb(2+) ions were studied using UV-vis and fluorescence
+spectrophotometry. The results show that, compared to other ions, both the UV-vis
+absorption and fluorescence emission intensity of BDP2 decreased dramatically
+when Cu(2+) ion was added. To explain this behavior, ab initio quantum chemical
+calculations were performed using correlated second-order Møller-Plesset
+perturbation theory (MP2/LanL2DZ). The calculated orbital energies indicated that
+the decrease in UV-vis absorption intensity and the quenching of fluorescene
+emission were due to the single-electron reduction of Cu(2+) to Cu(+) ion.
+
+PMID: 23748557  [PubMed]
+
+
+11. Nucleic Acids Res. 2013 May;41(9):4743-54. doi: 10.1093/nar/gkt178. Epub 2013 Mar
+21.
+
+Translating mRNAs strongly correlate to proteins in a multivariate manner and
+their translation ratios are phenotype specific.
+
+Wang T(1), Cui Y, Jin J, Guo J, Wang G, Yin X, He QY, Zhang G.
+
+Author information: 
+(1)Key Laboratory of Functional Protein Research of Guangdong Higher Education
+Institutes, Institute of Life and Health Engineering, College of Life Science and
+Technology, Jinan University, Guangzhou 510632, China. tongwang@jnu.edu.cn
+
+As a well-known phenomenon, total mRNAs poorly correlate to proteins in their
+abundances as reported. Recent findings calculated with bivariate models
+suggested even poorer such correlation, whereas focusing on the translating mRNAs
+(ribosome nascent-chain complex-bound mRNAs, RNC-mRNAs) subset. In this study, we
+analysed the relative abundances of mRNAs, RNC-mRNAs and proteins on genome-wide 
+scale, comparing human lung cancer A549 and H1299 cells with normal human
+bronchial epithelial (HBE) cells, respectively. As discovered, a strong
+correlation between RNC-mRNAs and proteins in their relative abundances could be 
+established through a multivariate linear model by integrating the mRNA length as
+a key factor. The R(2) reached 0.94 and 0.97 in A549 versus HBE and H1299 versus 
+HBE comparisons, respectively. This correlation highlighted that the mRNA length 
+significantly contributes to the translational modulation, especially to the
+translational initiation, favoured by its correlation with the mRNA translation
+ratio (TR) as observed. We found TR is highly phenotype specific, which was
+substantiated by both pathway analysis and biased TRs of the splice variants of
+BDP1 gene, which is a key transcription factor of transfer RNAs. These findings
+revealed, for the first time, the intrinsic and genome-wide translation
+modulations at translatomic level in human cells at steady-state, which are
+tightly correlated to the protein abundance and functionally relevant to cellular
+phenotypes.
+
+PMCID: PMC3643591
+PMID: 23519614  [PubMed - indexed for MEDLINE]
+
+
+12. BMC Genomics. 2012 Dec 26;13:728. doi: 10.1186/1471-2164-13-728.
+
+Genomic insights of protein arginine methyltransferase Hmt1 binding reveals novel
+regulatory functions.
+
+Milliman EJ(1), Hu Z, Yu MC.
+
+Author information: 
+(1)Department of Biological Sciences, State University of New York at Buffalo,
+Buffalo, NY 14260, USA.
+
+BACKGROUND: Protein arginine methylation is a post-translational modification
+involved in important biological processes such as transcription and RNA
+processing. This modification is catalyzed by both type I and II protein arginine
+methyltransferases (PRMTs). One of the most conserved type I PRMTs is PRMT1, the 
+homolog of which is Hmt1 in Saccharomyces cerevisiae. Hmt1 has been shown to play
+a role in various gene expression steps, such as promoting the dynamics of
+messenger ribonucleoprotein particle (mRNP) biogenesis, pre-mRNA splicing, and
+silencing of chromatin. To determine the full extent of Hmt1's involvement during
+gene expression, we carried out a genome-wide location analysis for Hmt1.
+RESULTS: A comprehensive genome-wide binding profile for Hmt1 was obtained by
+ChIP-chip using NimbleGen high-resolution tiling microarrays. Of the
+approximately 1000 Hmt1-binding sites found, the majority fall within or proximal
+to an ORF. Different occupancy patterns of Hmt1 across genes with different
+transcriptional rates were found. Interestingly, Hmt1 occupancy is found at a
+number of other genomic features such as tRNA and snoRNA genes, thereby
+implicating a regulatory role in the biogenesis of these non-coding RNAs. RNA
+hybridization analysis shows that Hmt1 loss-of-function mutants display higher
+steady-state tRNA abundance relative to the wild-type. Co-immunoprecipitation
+studies demonstrate that Hmt1 interacts with the TFIIIB component Bdp1,
+suggesting a mechanism for Hmt1 in modulating RNA Pol III transcription to
+regulate tRNA production.
+CONCLUSIONS: The genome-wide binding profile of Hmt1 reveals multiple potential
+new roles for Hmt1 in the control of eukaryotic gene expression, especially in
+the realm of non-coding RNAs. The data obtained here will provide an important
+blueprint for future mechanistic studies on the described occupancy relationship 
+for genomic features bound by Hmt1.
+
+PMCID: PMC3568405
+PMID: 23268696  [PubMed - indexed for MEDLINE]
+
+
+13. Mol Cell Biol. 2011 Jul;31(13):2715-28. doi: 10.1128/MCB.05151-11. Epub 2011 May 
+2.
+
+The TFIIF-like Rpc37/53 dimer lies at the center of a protein network to connect 
+TFIIIC, Bdp1, and the RNA polymerase III active center.
+
+Wu CC(1), Lin YC, Chen HT.
+
+Author information: 
+(1)Department of Life Sciences and Institute of Genome Sciences, National
+Yang-Ming University, Taipei, Taiwan, Republic of China.
+
+Eukaryotic RNA polymerase III (Pol III) relies on a transcription factor
+TFIIF-like Rpc37/53 subcomplex for promoter opening, elongation, termination, and
+reinitiation. By incorporating the photoreactive amino acid
+p-benzoyl-L-phenylalanine (BPA) into Rpc37, Rpc53, and the Rpc2 subunit of Pol
+III, we mapped protein-protein interactions, revealing the position of Rpc37/53
+within the Pol III preinitiation complex (PIC). BPA photo-cross-linking was
+combined with site-directed hydroxyl radical probing to localize the Rpc37/53
+dimerization module on the lobe/external 2 domains of Rpc2, in similarity to the 
+binding of TFIIF on Pol II. N terminal to the dimerization domain, Rpc53 binds
+the Pol III-specific subunits Rpc82 and Rpc34, the Pol III stalk, and the
+assembly factor TFIIIC, essential for PIC formation. The C-terminal domain of
+Rpc37 interacts extensively with Rpc2 and Rpc34 and contains binding sites for
+initiation factor Bdp1. We also located the C-terminal domain of Rpc37 within the
+Pol III active center in the ternary elongation complex, where it likely
+functions in accurate termination. Our work explains how the Rpc37/53 dimer is
+anchored on the Pol III core and acts as a hub to integrate a protein network for
+initiation and termination.
+
+PMCID: PMC3133384
+PMID: 21536656  [PubMed - indexed for MEDLINE]
+
+
+14. Nucleic Acids Res. 2011 Apr;39(8):3331-9. doi: 10.1093/nar/gkq1257. Epub 2010 Dec
+7.
+
+Different sequence signatures in the upstream regions of plant and animal tRNA
+genes shape distinct modes of regulation.
+
+Zhang G(1), Lukoszek R, Mueller-Roeber B, Ignatova Z.
+
+Author information: 
+(1)Department of Biochemistry, Institute of Biochemistry and Biology, University 
+of Potsdam, Karl-Liebknecht-Str 24-25, 14476 Potsdam, Potsdam, Germany.
+
+In eukaryotes, the transcription of tRNA genes is initiated by the concerted
+action of transcription factors IIIC (TFIIIC) and IIIB (TFIIIB) which direct the 
+recruitment of polymerase III. While TFIIIC recognizes highly conserved,
+intragenic promoter elements, TFIIIB binds to the non-coding 5'-upstream regions 
+of the tRNA genes. Using a systematic bioinformatic analysis of 11 multicellular 
+eukaryotic genomes we identified a highly conserved TATA motif followed by a
+CAA-motif in the tRNA upstream regions of all plant genomes. Strikingly, the
+5'-flanking tRNA regions of the animal genomes are highly heterogeneous and lack 
+a common conserved sequence signature. Interestingly, in the animal genomes the
+tRNA species that read the same codon share conserved motifs in their upstream
+regions. Deep-sequencing analysis of 16 human tissues revealed multiple splicing 
+variants of two of the TFIIIB subunits, Bdp1 and Brf1, with tissue-specific
+expression patterns. These multiple forms most likely modulate the TFIIIB-DNA
+interactions and explain the lack of a uniform signature motif in the tRNA
+upstream regions of animal genomes. The anticodon-dependent 5'-flanking motifs
+provide a possible mechanism for independent regulation of the tRNA transcription
+in various human tissues.
+
+PMCID: PMC3082873
+PMID: 21138970  [PubMed - indexed for MEDLINE]
+
+
+15. BMC Mol Biol. 2010 Mar 12;11:21. doi: 10.1186/1471-2199-11-21.
+
+Regulation of TFIIIB during F9 cell differentiation.
+
+Athineos D(1), Marshall L, White RJ.
+
+Author information: 
+(1)Beatson Institute for Cancer Research, Garscube Estate, Switchback Road,
+Bearsden, Glasgow G61 1BD, UK.
+
+BACKGROUND: Differentiation of F9 embryonal carcinoma (EC) cells into parietal
+endoderm (PE) provides a tractable model system for studying molecular events
+during early and inaccessible stages of murine development. PE formation is
+accompanied by extensive changes in gene expression both in vivo and in culture. 
+One of the most dramatic is the ~10-fold decrease in transcriptional output by
+RNA polymerase (pol) III. This has been attributed to changes in activity of
+TFIIIB, a factor that is necessary and sufficient to recruit pol III to
+promoters. The goal of this study was to identify molecular changes that can
+account for the low activity of TFIIIB following F9 cell differentiation.
+RESULTS: Three essential subunits of TFIIIB decrease in abundance as F9 cells
+differentiate; these are Brf1 and Bdp1, which are pol III-specific, and TBP,
+which is also used by pols I and II. The decreased levels of Brf1 and Bdp1
+proteins can be explained by reduced expression of the corresponding mRNAs.
+However, this is not the case for TBP, which is regulated post-transcriptionally.
+In proliferating cells, pol III transcription is stimulated by the proto-oncogene
+product c-Myc and the mitogen-activated protein kinase Erk, both of which bind to
+TFIIIB. However, c-Myc levels fall during differentiation and Erk becomes
+inactive through dephosphorylation. The diminished abundance of TFIIIB is
+therefore likely to be compounded by changes to these positive regulators that
+are required for its full activity. In addition, PE cells have elevated levels of
+the retinoblastoma protein RB, which is known to bind and repress TFIIIB.
+CONCLUSION: The low activity of TFIIIB in PE can be attributed to a combination
+of changes, any one of which could be sufficient to inhibit pol III
+transcription. Declining levels of essential TFIIIB subunits and of activators
+that are required for maximal TFIIIB activity are accompanied by an increase in a
+potent repressor of TFIIIB. These events provide fail-safe guarantees to ensure
+that pol III output is appropriate to the diminished metabolic requirements of
+terminally differentiated cells.
+
+PMCID: PMC2842266
+PMID: 20226026  [PubMed - indexed for MEDLINE]
+
+
+16. Proc Natl Acad Sci U S A. 2009 Aug 4;106(31):12682-7. doi:
+10.1073/pnas.0904843106. Epub 2009 Jul 20.
+
+The JNKs differentially regulate RNA polymerase III transcription by coordinately
+modulating the expression of all TFIIIB subunits.
+
+Zhong S(1), Johnson DL.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, Keck School of Medicine,
+University of Southern California, Norris Comprehensive Cancer Center, 2011 Zonal
+Avenue, Los Angeles, CA 90033, USA.
+
+RNA polymerase (pol) III-dependent transcription is subject to stringent
+regulation by tumor suppressors and oncogenic proteins and enhanced RNA pol III
+transcription is essential for cellular transformation and tumorigenesis. Since
+the c-Jun N-terminal kinases (JNKs) display both oncogenic and tumor suppressor
+properties, the roles of these proteins in regulating RNA pol III transcription
+were examined. In both mouse and human cells, loss or reduction in JNK1
+expression represses RNA pol III transcription. In contrast, loss or reduction in
+JNK2 expression induces transcription. The JNKs coordinately regulate expression 
+of all 3 TFIIIB subunits. While JNK1 positively regulates TBP expression, the RNA
+pol III-specific factors, Brf1 and Bdp1, JNK2 negatively regulates their
+expression. Brf1 is coregulated with TBP through the JNK target, Elk-1. Reducing 
+Elk-1 expression decreases Brf1 expression. Decreasing JNK1 expression reduces
+Elk-1 occupancy at the Brf1 promoter, while decreasing JNK2 expression enhances
+recruitment of Elk-1 to the Brf1 promoter. In contrast, regulation of Bdp1 occurs
+through JNK-mediated alterations in TBP expression. Altered TBP expression mimics
+the effect of reduced JNK1 or JNK2 levels on Bdp1 expression. Decreasing JNK1
+expression reduces the occupancy of TBP at the Bdp1 promoter, while decreasing
+JNK2 expression enhances recruitment of TBP to the Bdp1 promoter. Together, these
+results provide a molecular mechanism for regulating RNA pol III transcription
+through the coordinate control of TFIIIB subunit expression and elucidate
+opposing functions for the JNKs in regulating a large class of genes that dictate
+the biosynthetic capacity of cells.
+
+PMCID: PMC2722300
+PMID: 19620725  [PubMed - indexed for MEDLINE]
+
+
+17. J Mol Biol. 2009 Apr 3;387(3):523-31. doi: 10.1016/j.jmb.2009.02.008. Epub 2009
+Feb 11.
+
+Inhibition of RNA polymerase III transcription by BRCA1.
+
+Veras I(1), Rosen EM, Schramm L.
+
+Author information: 
+(1)Department of Biological Sciences, St John's University, Queens, NY 11439,
+USA.
+
+RNA polymerase III (RNA pol III) transcribes structural RNAs involved in RNA
+processing (U6 snRNA) and translation (tRNA), thereby regulating the growth rate 
+of cells. Proper initiation by RNA pol III requires the transcription factor
+TFIIIB. Gene-external U6 snRNA transcription requires TFIIIB consisting of Bdp1, 
+TBP, and Brf2. Transcription from the gene-internal tRNA promoter requires TFIIIB
+composed of Bdp1, TBP, and Brf1. TFIIIB is a target of tumor suppressors,
+including PTEN, ARF, p53, and RB, and RB-related pocket proteins. Breast cancer
+susceptibility gene 1 (BRCA1) tumor suppressor plays a role in DNA repair, cell
+cycle regulation, apoptosis, genome integrity, and ubiquitination. BRCA1 has a
+conserved amino-terminal RING domain, an activation domain 1 (AD1), and an acidic
+carboxyl-terminal domain (BRCA1 C-terminal region). In Saccharomyces cerevisiae, 
+TFIIB interacts with the BRCA1 C-terminal region domain of Fcp1p, an RNA
+polymerase II phosphatase. The TFIIIB subunits Brf1 and Brf2 are structurally
+similar to TFIIB. Hence, we hypothesize that RNA pol III may be regulated by
+BRCA1 via the TFIIB family members Brf1 and Brf2. Here we report that: (1) BRCA1 
+inhibits both VAI (tRNA) and U6 snRNA RNA pol III transcription; (2) the AD1 of
+BRCA1 is responsible for inhibition of U6 snRNA transcription, whereas the RING
+domain and AD1 of BRCA1 are required for VAI transcription inhibition; and (3)
+overexpression of Brf1 and Brf2 alleviates inhibition of U6 snRNA and VAI
+transcription by BRCA1. Taken together, these data suggest that BRCA1 is a
+general repressor of RNA pol III transcription.
+
+PMID: 19361418  [PubMed - indexed for MEDLINE]
+
+
+18. Biochemistry. 2008 Dec 16;47(50):13197-206. doi: 10.1021/bi801406z.
+
+Structural characterization of the interaction between TFIIIB components Bdp1 and
+Brf1.
+
+Saïda F(1).
+
+Author information: 
+(1)Center for Molecular Genetics, University of California at San Diego, 9500
+Gilman Drive, La Jolla, California 92093, USA. fsaida@biomail.ucsd.edu
+
+Transcription factor TFIIIB plays key roles in transcription by RNA polymerase
+III. Its three components (TBP, Brf1, and Bdp1) participate in crucial molecular 
+events that include RNA polymerase recruitment, formation of the open initiation 
+complex, and recycling of transcription. Although the details of the interaction 
+among DNA, TBP, and Brf1 have been, in part, revealed through the crystal
+structure of their ternary complex, structural details of the Brf1-Bdp1
+interaction are lacking. In this paper, nuclear magnetic resonance (NMR) is used 
+to map the interaction interface between Bdp1 and Brf1 at single-amino acid
+resolution, using minimal functional segments of the two proteins. An NMR-derived
+structural model shows that the principal anchorage site of Brf1 is located on a 
+convex surface of Bdp1 that encompasses helix 1 and helix 3 of its conserved SANT
+domain. The main Bdp1 anchorage site is provided by a small set of residues
+belonging to a Brf1 segment of residues 470-495.
+
+PMID: 19086269  [PubMed - indexed for MEDLINE]
+
+
+19. BMC Mol Biol. 2008 Aug 12;9:74. doi: 10.1186/1471-2199-9-74.
+
+Differential expression of the TFIIIB subunits Brf1 and Brf2 in cancer cells.
+
+Cabarcas S(1), Jacob J, Veras I, Schramm L.
+
+Author information: 
+(1)Department of Biological Sciences, St, John's University, 8000 Utopia Parkway,
+Queens, NY 11439, USA. stephanie.cabarcas05@stjohns.edu
+
+BACKGROUND: RNA polymerase (pol) III transcription is specifically elevated in a 
+variety of cancers and is a target of regulation by a variety of tumor
+suppressors and oncogenes. Accurate initiation by RNA pol III is dependent on
+TFIIIB. In higher eukaryotes, two forms of TFIIIB have been characterized. TFIIIB
+required for proper initiation from gene internal RNA pol III promoters is
+comprised of TBP, Bdp1, and Brf1. Proper initiation from gene external RNA pol
+III promoters requires TBP, Bdp1, and Brf2. We hypothesized that deregulation of 
+RNA polymerase III transcription in cancer may be a consequence of altered TFIIIB
+expression
+RESULTS: Here, we report: (1) the TFIIIB subunits Brf1 and Brf2 are
+differentially expressed in a variety of cancer cell lines: (2) the Brf1 and Brf2
+promoters differ in activity in cancer cell lines, and (3) VAI transcription is
+universally elevated, as compared to U6, in breast, prostate and cervical cancer 
+cells.
+CONCLUSION: Deregulation of TFIIIB-mediated transcription may be an important
+step in tumor development. We demonstrate that Brf1 and Brf2 mRNA are
+differentially expressed in a variety of cancer cells and that the Brf2 promoter 
+is more active than the Brf1 promoter in all cell lines tested. We also
+demonstrate, that Brf1-dependent VAI transcription was significantly higher than 
+the Brf2-dependent U6 snRNA transcription in all cancer cell lines tested. The
+data presented suggest that Brf2 protein expression levels correlate with U6
+promoter activity in the breast, cervical and prostate cell lines tested.
+Interestingly, the Brf1 protein levels did not vary considerably in HeLa, MCF-7
+and DU-145 cells, yet Brf1 mRNA expression varied considerably in breast,
+prostate and cervical cancer cell lines tested. Thus, Brf1 promoter activity and 
+Brf1 protein expression levels did not correlate well with Brf1-dependent
+transcription levels. Taken together, we reason that deregulation of Brf1 and
+Brf2 expression could be a key mechanism responsible for the observed
+deregulation of RNA pol III transcription in cancer cells.
+
+PMCID: PMC2533013
+PMID: 18700021  [PubMed - indexed for MEDLINE]
+
+
+20. Mol Cell Biol. 2008 Sep;28(18):5764-76. doi: 10.1128/MCB.01262-07. Epub 2008 Jul 
+21.
+
+Different functional modes of p300 in activation of RNA polymerase III
+transcription from chromatin templates.
+
+Mertens C(1), Roeder RG.
+
+Author information: 
+(1)Laboratory of Biochemistry and Molecular Biology, The Rockefeller University, 
+1230 York Ave., New York, NY 10021, USA.
+
+Transcriptional coactivators that regulate the activity of human RNA polymerase
+III (Pol III) in the context of chromatin have not been reported. Here, we
+describe a completely defined in vitro system for transcription of a human tRNA
+gene assembled into a chromatin template. Transcriptional activation and histone 
+acetylation in this system depend on recruitment of p300 by general initiation
+factor TFIIIC, thus providing a new paradigm for recruitment of histone-modifying
+coactivators. Beyond its role as a chromatin-modifying factor, p300 displays an
+acetyltransferase-independent function at the level of preinitiation complex
+assembly. Thus, direct interaction of p300 with TFIIIC stabilizes binding of
+TFIIIC to core promoter elements and results in enhanced transcriptional activity
+on histone-free templates. Additional studies show that p300 is recruited to the 
+promoters of actively transcribed tRNA and U6 snRNA genes in vivo. These studies 
+identify TFIIIC as a recruitment factor for p300 and thus may have important
+implications for the emerging concept that tRNA genes or TFIIIC binding sites act
+as chromatin barriers to prohibit spreading of silenced heterochromatin domains.
+
+PMCID: PMC2546916
+PMID: 18644873  [PubMed - indexed for MEDLINE]
+
+
+21. Mol Cell Biol. 2008 Jun;28(12):4204-14. doi: 10.1128/MCB.01912-07. Epub 2008 Apr 
+7.
+
+PTEN represses RNA polymerase III-dependent transcription by targeting the TFIIIB
+complex.
+
+Woiwode A(1), Johnson SA, Zhong S, Zhang C, Roeder RG, Teichmann M, Johnson DL.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, University of Southern
+California, Keck School of Medicine and the Norris Comprehensive Cancer Center,
+Los Angeles, California 90033, USA.
+
+PTEN, a tumor suppressor whose function is frequently lost in human cancers,
+possesses a lipid phosphatase activity that represses phosphatidylinositol
+3-kinase (PI3K) signaling, controlling cell growth, proliferation, and survival. 
+The potential for PTEN to regulate the synthesis of RNA polymerase (Pol) III
+transcription products, including tRNAs and 5S rRNAs, was evaluated. The
+expression of PTEN in PTEN-deficient cells repressed RNA Pol III transcription,
+whereas decreased PTEN expression enhanced transcription. Transcription
+repression by PTEN was uncoupled from PTEN-mediated effects on the cell cycle and
+was independent of p53. PTEN acts through its lipid phosphatase activity,
+inhibiting the PI3K/Akt/mTOR/S6K pathway to decrease transcription. PTEN, through
+the inactivation of mTOR, targets the TFIIIB complex, disrupting the association 
+between TATA-binding protein and Brf1. Kinetic analysis revealed that PTEN
+initially induces a decrease in the serine phosphorylation of Brf1, leading to a 
+selective reduction in the occupancy of all TFIIIB subunits on tRNA(Leu) genes,
+whereas prolonged PTEN expression results in the enhanced serine phosphorylation 
+of Bdp1. Together, these results demonstrate a new class of genes regulated by
+PTEN through its ability to repress the activation of PI3K/Akt/mTOR/S6K
+signaling.
+
+PMCID: PMC2423115
+PMID: 18391023  [PubMed - indexed for MEDLINE]
+
+
+22. J Biol Chem. 2007 Sep 21;282(38):27887-96. Epub 2007 Aug 1.
+
+The protein kinase CK2 phosphorylates SNAP190 to negatively regulate SNAPC DNA
+binding and human U6 transcription by RNA polymerase III.
+
+Gu L(1), Husain-Ponnampalam R, Hoffmann-Benning S, Henry RW.
+
+Author information: 
+(1)Department of Biochemistry & Molecular Biology, Michigan State University,
+East Lansing, Michigan 48824, USA.
+
+Human U6 small nuclear RNA gene transcription by RNA polymerase III requires the 
+general transcription factor SNAP(C), which binds to human small nuclear RNA core
+promoter elements and nucleates pre-initiation complex assembly with the
+Brf2-TFIIIB complex. Multiple components in this pathway are phosphorylated by
+the protein kinase CK2, including the Bdp1 subunit of the Brf2-TFIIIB complex,
+and RNA polymerase III, with negative and positive outcomes for U6 transcription,
+respectively. However, a role for CK2 phosphorylation of SNAP(C) in U6
+transcription has not been defined. In this report, we investigated the role of
+CK2 in modulating the transcriptional properties of SNAP(C) and demonstrate that 
+within SNAP(C), CK2 phosphorylates the N-terminal half of the SNAP190 subunit at 
+two regions (amino acids 20-63 and 514-545) that each contain multiple CK2
+consensus sites. SNAP190 phosphorylation by CK2 inhibits both SNAP(C) DNA binding
+and U6 transcription activity. Mutational analyses of SNAP190 support a model
+wherein CK2 phosphorylation triggers an allosteric inhibition of the SNAP190 Myb 
+DNA binding domain.
+
+PMID: 17670747  [PubMed - indexed for MEDLINE]
+
+
+23. Mol Cell. 2007 May 11;26(3):367-79.
+
+Mammalian Maf1 is a negative regulator of transcription by all three nuclear RNA 
+polymerases.
+
+Johnson SS(1), Zhang C, Fromm J, Willis IM, Johnson DL.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, Keck School of Medicine and 
+the Norris Comprehensive Cancer Center, University of Southern California, 2011
+Zonal Avenue, Los Angeles, CA 90033, USA.
+
+Most eukaryotic transcriptional regulators act in an RNA polymerase
+(Pol)-selective manner. Here we show that the human Maf1 protein negatively
+regulates transcription by all three nuclear Pols. Changes in Maf1 expression
+affect Pol I- and Pol III-dependent transcription in human glioblastoma lines.
+These effects are mediated, in part, through the ability of Maf1 to repress
+transcription of the TATA binding protein, TBP. Maf1 targets an Elk-1-binding
+site in the TBP promoter, and its occupancy of this region is reciprocal with
+that of Elk-1. Similarly, Maf1 occupancy of Pol III genes is inversely correlated
+with that of the initiation factor TFIIIB and Pol III. The phenotypic
+consequences of reducing Maf1 expression include changes in cell morphology and
+the accumulation of actin stress fibers, whereas Maf1 overexpression suppresses
+anchorage-independent growth. Together with the ability of Maf1 to reduce
+biosynthetic capacity, these findings support the idea that Maf1 regulates the
+transformation state of cells.
+
+PMID: 17499043  [PubMed - indexed for MEDLINE]
+
+
+24. Nucleic Acids Res. 2006;34(19):5585-93. Epub 2006 Oct 6.
+
+The Saccharomyces cerevisiae RNA polymerase III recruitment factor subunits Brf1 
+and Bdp1 impose a strict sequence preference for the downstream half of the TATA 
+box.
+
+Tsihlis ND(1), Grove A.
+
+Author information: 
+(1)Department of Biological Sciences, Louisiana State University, Baton Rouge, LA
+70803, USA.
+
+Association of the TATA-binding protein (TBP) with its cognate site within
+eukaryotic promoters is key to accurate and efficient transcriptional initiation.
+To achieve recruitment of Saccharomyces cerevisiae RNA polymerase III, TBP is
+associated with two additional factors, Brf1 and Bdp1, to form the initiation
+factor TFIIIB. Previous data have suggested that the structure or dynamics of the
+TBP-DNA complex may be altered upon entry of Brf1 and Bdp1 into the complex. We
+show here, using the altered specificity TBP mutant TBPm3 and an iterative in
+vitro selection assay, that entry of Brf1 and Bdp1 into the complex imposes a
+strict sequence preference for the downstream half of the TATA box. Notably, the 
+selected sequence (TGTAAATA) is a perfect match to the TATA box of the RNA
+polymerase III-transcribed U6 small nuclear RNA (SNR6) gene. We suggest that the 
+selected T*A base pair step at the downstream end of the 8 bp TBP site may
+provide a DNA flexure that promotes TFIIIB-DNA complex formation.
+
+PMCID: PMC1636458
+PMID: 17028095  [PubMed - indexed for MEDLINE]
+
+
+25. J Cell Sci. 2006 Oct 15;119(Pt 20):4235-46. Epub 2006 Sep 19.
+
+The adaptor protein Dab2 sorts LDL receptors into coated pits independently of
+AP-2 and ARH.
+
+Maurer ME(1), Cooper JA.
+
+Author information: 
+(1)Molecular and Cellular Biology Program, Fred Hutchinson Cancer Research
+Center, 1100 Fairview Avenue N, Seattle, WA 98109, USA.
+
+Clathrin-mediated endocytosis requires cargo-specific adaptor proteins that
+recognize specific receptors and recruit them into coated pits. ARH [also called 
+low-density lipoprotein receptor (LDLR) adaptor protein] serves as an adaptor for
+LDLR endocytosis in liver. However, ARH is dispensable for LDL uptake by some
+other cell types. Here, we show that the adaptor Dab2 plays a major role in LDLR 
+internalization in HeLa cells and fibroblasts. Dab2 mediates internalization of
+LDLRs but not transferrin receptors independently of ARH and the classic clathrin
+adaptor AP-2. If Dab2 is absent, ARH can mediate LDLR endocytosis, but its action
+requires AP-2. Furthermore, the rate of LDLR endocytosis is decreased when Dab2
+is absent and Dab2, but not ARH, catalyzes the efficient clustering of LDLR into 
+coated pits. Dab2 activity requires its binding to clathrin, LDLR and
+phospholipids. Dab2 is also involved in moving LDLRs off filopodia. We suggest
+that Dab2 is a cargo-specific endocytic adaptor protein, stably associating with 
+phospholipids and clathrin to sort LDLR to nascent-coated pits, whereas ARH might
+accelerate later steps in LDLR endocytosis in cooperation with AP-2.
+
+PMID: 16984970  [PubMed - indexed for MEDLINE]
+
+
+26. J Biol Chem. 2006 Nov 10;281(45):33871-80. Epub 2006 Sep 6.
+
+Epstein-Barr virus induces cellular transcription factors to allow active
+expression of EBER genes by RNA polymerase III.
+
+Felton-Edkins ZA(1), Kondrashov A, Karali D, Fairley JA, Dawson CW, Arrand JR,
+Young LS, White RJ.
+
+Author information: 
+(1)Institute of Biomedical and Life Sciences, Division of Biochemistry and
+Molecular Biology, Davidson Building, University of Glasgow, Glasgow G12 8QQ,
+United Kingdom.
+
+The EBER genes of Epstein-Barr virus (EBV) are transcribed by RNA polymerase
+(pol) III to produce untranslated RNAs that are implicated in oncogenesis. These 
+EBER transcripts are the most highly expressed viral gene products in
+EBV-transformed cells. We have identified changes to the cellular transcription
+machinery that may contribute to the high levels of EBER RNA. These include
+phosphorylation of ATF2, which interacts with EBER promoters. A second is
+induction of TFIIIC, a pol III-specific factor that activates EBER genes; all
+five subunits of TFIIIC are overexpressed in EBV-positive cells. In addition, EBV
+induces BDP1, a subunit of the pol III-specific factor TFIIIB. Although BDP1 is
+the only TFIIIB subunit induced by EBV, its induction is sufficient to stimulate 
+EBER expression in vivo, implying a limiting function. The elevated levels of
+BDP1 and TFIIIC in EBV-positive cells stimulate production of tRNA, 7SL, and 5S
+rRNA. Abnormally high expression of these cellular pol III products may
+contribute to the ability of EBV to enhance growth potential.
+
+PMID: 16956891  [PubMed - indexed for MEDLINE]
+
+
+27. Mol Cell Biol. 2006 Aug;26(16):5946-56.
+
+Interactions of Brf1 peptides with the tetratricopeptide repeat-containing
+subunit of TFIIIC inhibit and promote preinitiation complex assembly.
+
+Liao Y(1), Moir RD, Willis IM.
+
+Author information: 
+(1)Department of Biochemistry, Albert Einstein College of Medicine, 1300 Morris
+Park Ave., Bronx, NY 10461, USA.
+
+The binding of Brf1 to the tetratricopeptide repeat (TPR)-containing
+transcription factor IIIC (TFIIIC) subunit (Tfc4) represents a rate-limiting step
+in the ordered assembly of the RNA polymerase III initiation factor TFIIIB. Tfc4 
+contains multiple binding sites for Brf1 within its amino terminus and adjacent
+TPR arrays, but the access of Brf1 to these sites is limited by autoinhibition.
+Moreover, the Brf1 binding sites in Tfc4 overlap with sites important for the
+subsequent recruitment of another TFIIIB subunit, Bdp1, implying that
+repositioning of Brf1 is required after its initial interaction with Tfc4. As a
+starting point for dissecting the steps in TFIIIC-directed assembly of TFIIIB, we
+conducted yeast two-hybrid screens of Brf1 peptide libraries against different
+TPR-containing Tfc4 fragments. Short, biochemically active peptides were
+identified in three distinct regions of Brf1. Two peptides defined conserved but 
+distal regions of Brf1 that participate in stable binding of Brf1 to TFIIIC-DNA. 
+Remarkably, a third peptide that binds specifically to TPR6-9 of Tfc4 was found
+to promote the formation of both TFIIIC-DNA and Brf1-TFIIIC-DNA complexes and to 
+reduce the mobility of these complexes in native gels. The data are consistent
+with this peptide causing a conformational change in TFIIIC that overcomes Tfc4
+autoinhibition of Brf1 binding and suggest a structural model for the Brf1-Tfc4
+interaction.
+
+PMCID: PMC1592789
+PMID: 16880507  [PubMed - indexed for MEDLINE]
+
+
+28. Gene. 2006 Aug 1;377:96-108. Epub 2006 May 20.
+
+A role for Yin Yang-1 (YY1) in the assembly of snRNA transcription complexes.
+
+Emran F(1), Florens L, Ma B, Swanson SK, Washburn MP, Hernandez N.
+
+Author information: 
+(1)Stony Brook University, Graduate Program in Molecular and Cellular
+Pharmacology, Stony Brook, NY 11794, USA.
+
+The RNA polymerase (pol) II and III human small nuclear RNA (snRNA) genes have
+very similar promoters and recruit a number of common factors. In particular,
+both types of promoters utilize the small nuclear RNA activating protein complex 
+(SNAP(c)) and the TATA box binding protein (TBP) for basal transcription, and are
+activated by Oct-1. We find that SNAP(c) purified from cell lines expressing
+tagged SNAP(c) subunits is associated with Yin Yang-1 (YY1), a factor implicated 
+in both activation and repression of transcription. Recombinant YY1 accelerates
+the binding of SNAP(c) to the proximal sequence element, its target within snRNA 
+promoters. Moreover, it enhances the formation of a complex on the pol III U6
+snRNA promoter containing all the factors (SNAP(c), TBP, TFIIB-related factor 2
+(Brf2), and B double prime 1 (Bdp1)) that are sufficient to direct in vitro U6
+transcription when complemented with purified pol III, as well as that of a
+subcomplex containing TBP, Brf2, and Bdp1. YY1 is found on both the RNA
+polymerase II U1 and the RNA polymerase III U6 promoters as determined by
+chromatin immunoprecipitations. Thus, YY1 represents a new factor that
+participates in transcription complexes formed on both pol II and III promoters.
+
+PMID: 16769183  [PubMed - indexed for MEDLINE]
+
+
+29. J Biol Chem. 2006 May 19;281(20):14321-9. Epub 2006 Mar 21.
+
+Mapping the principal interaction site of the Brf1 and Bdp1 subunits of
+Saccharomyces cerevisiae TFIIIB.
+
+Kassavetis GA(1), Driscoll R, Geiduschek EP.
+
+Author information: 
+(1)Division of Biological Sciences and Center for Molecular Genetics, University 
+of California, San Diego, La Jolla, California 92093-0634, USA.
+gak@biomail.ucsd.edu
+
+The Brf1 subunit of the central RNA polymerase (pol) III transcription initiation
+factor TFIIIB is bipartite; its N-terminal TFIIB-related half is principally
+responsible for recruiting pol III to the promoter and for promoter opening near 
+the transcriptional start site, whereas its pol III-specific C-terminal half
+contributes most of the affinities that hold the three subunits of TFIIIB
+together. Here, the principal attachment site of Brf1 for the Bdp1 subunit of
+TFIIIB has been mapped by a combination of structure-informed, site-directed
+mutagenesis and photochemical protein-DNA cross-linking. A 66-amino acid segment 
+of Brf1 is shown to serve as a two-sided adhesive surface, with the side chains
+projecting away from its extended interface with TATA-binding protein anchoring
+Bdp1 binding. An extensive collection of N-terminal, C-terminal, and internal
+deletion proteins has been used to demarcate the interacting Bdp1 domain to a
+66-amino acid segment that includes the SANT domain of this subunit and is
+phylogenetically the most conserved region of Bdp1.
+
+PMID: 16551611  [PubMed - indexed for MEDLINE]
+
+
+30. Biol Chem. 2006 Mar;387(3):277-84.
+
+The zinc finger protein ZNF297B interacts with BDP1, a subunit of TFIIIB.
+
+Schoenen F(1), Wirth B.
+
+Author information: 
+(1)Institute of Human Genetics, University of Cologne, D-50674 Cologne, Germany.
+
+The human gene BDP1, localized on chromosome 5q13 in close proximity to the
+spinal muscular atrophy determining gene SMN, encodes a large protein consisting 
+of 2254 amino acids (aa). In the first third of the gene, the subunit of the RNA 
+polymerase III (Pol III) transcription factor complex (TFIIIB alpha/beta) is
+encoded. To further characterize the function of BDP1, we carried out a yeast
+two-hybrid screen using various parts of BDP1. With the clone BDP1-(1-640) we
+identified a novel interaction partner, ZNF297B. The ZNF297B gene is localized on
+chromosome 9q24 and encodes a zinc finger protein of 467 aa possessing the
+typical structure of a transcription factor. The interaction found in yeast was
+confirmed by co-immunoprecipitation and refined to the N-terminal region of
+ZNF297B-(1-127) containing the BTB/POZ domain and the N-terminal end of
+BDP1-(1-299). The ZNF297B transcript is 5.7 kb in length and ubiquitously
+expressed, with highest levels found in muscles. Immunofluorescence staining
+revealed a speckled pattern in the nuclei of HEK293 cells. Due to the essential
+role of BDP1 in Pol III transcription, we propose that ZNF297B may also regulate 
+these transcriptional pathways.
+
+PMID: 16542149  [PubMed - indexed for MEDLINE]
+
+
+31. Anal Biochem. 2006 May 1;352(1):135-41. Epub 2006 Feb 3.
+
+High-throughput fluorescence polarization assay to identify small molecule
+inhibitors of BRCT domains of breast cancer gene 1.
+
+Lokesh GL(1), Rachamallu A, Kumar GD, Natarajan A.
+
+Author information: 
+(1)Chemical Biology Program, Department of Pharmacology and Toxicology,
+University of Texas Medical Branch, Galveston, TX 77555, USA.
+
+The C-terminus region of the 1863 residue early onset of breast cancer gene 1
+(BRCA1) nuclear protein contains a tandem globular carboxy terminus domain termed
+BRCT. The BRCT repeats in BRCA1 are phosphoserine- and/or
+phosphothreonine-specific binding modules. The interaction of the BRCT(BRCA1)
+domains with phosphorylated BRCA1-associated carboxyl terminal helicase (BACH1)
+is cell cycle regulated and is essential for DNA damage-induced checkpoint
+control during the transition from the G(2) phase to the M phase of the cell
+cycle. Development of a competitive, homogeneous, high-throughput fluorescence
+polarization (FP) assay to identify small molecule inhibitors of
+BRCT(BRCA1)-BACH1 interaction is reported here. The FP assay was used for
+measuring binding affinities and inhibition constants of BACH1 peptides and small
+molecule inhibitors of BRCT(BRCA1) domains, respectively. A fluorescently labeled
+wild-type BACH1 decapeptide (BDP1) containing the critical phosphoserine, a
+phenylalanine at (P+3), and a GST-BRCT fusion protein were used to establish the 
+FP assay. BDP1 has a dissociation constant (K(d)) of 1.58+/-0.01microM and a
+dynamic range (DeltamP) of 164.9+/-1.9. The assay tolerates 20% dimethyl
+sulfoxide, which enables screening poorly soluble compounds. Under optimized
+conditions, a Z' factor of 0.87 was achieved in a 384-well format for
+high-throughput screening.
+
+PMID: 16500609  [PubMed - indexed for MEDLINE]
+
+
+32. Mol Cell Biol. 2005 Nov;25(21):9406-18.
+
+Structure-function analysis of the human TFIIB-related factor II protein reveals 
+an essential role for the C-terminal domain in RNA polymerase III transcription.
+
+Saxena A(1), Ma B, Schramm L, Hernandez N.
+
+Author information: 
+(1)Genetics Program, Stony Brook University, Stony Brook, NY 11794, USA.
+
+The transcription factors TFIIB, Brf1, and Brf2 share related N-terminal zinc
+ribbon and core domains. TFIIB bridges RNA polymerase II (Pol II) with the
+promoter-bound preinitiation complex, whereas Brf1 and Brf2 are involved, as part
+of activities also containing TBP and Bdp1 and referred to here as Brf1-TFIIIB
+and Brf2-TFIIIB, in the recruitment of Pol III. Brf1-TFIIIB recruits Pol III to
+type 1 and 2 promoters and Brf2-TFIIIB to type 3 promoters such as the human U6
+promoter. Brf1 and Brf2 both have a C-terminal extension absent in TFIIB, but
+their C-terminal extensions are unrelated. In yeast Brf1, the C-terminal
+extension interacts with the TBP/TATA box complex and contributes to the
+recruitment of Bdp1. Here we have tested truncated Brf2, as well as Brf2/TFIIB
+chimeric proteins for U6 transcription and for assembly of U6 preinitiation
+complexes. Our results characterize functions of various human Brf2 domains and
+reveal that the C-terminal domain is required for efficient association of the
+protein with U6 promoter-bound TBP and SNAP(c), a type 3 promoter-specific
+transcription factor, and for efficient recruitment of Bdp1. This in turn
+suggests that the C-terminal extensions in Brf1 and Brf2 are crucial to specific 
+recruitment of Pol III over Pol II.
+
+PMCID: PMC1265830
+PMID: 16227591  [PubMed - indexed for MEDLINE]
+
+
+33. Proc Natl Acad Sci U S A. 2005 Oct 25;102(43):15406-11. Epub 2005 Oct 14.
+
+Reconfiguring the connectivity of a multiprotein complex: fusions of yeast
+TATA-binding protein with Brf1, and the function of transcription factor IIIB.
+
+Kassavetis GA(1), Soragni E, Driscoll R, Geiduschek EP.
+
+Author information: 
+(1)Division of Biological Sciences, University of California at San Diego, 9500
+Gilman Drive, La Jolla, CA 92093-0634, USA. gak@biomail.ucsd.edu
+
+Transcription factor (TF) IIIB, the central transcription initiation factor of
+RNA polymerase III (pol III), is composed of three subunits, Bdp1, Brf1 and
+TATA-binding protein (TBP), all essential for normal function in vivo and in
+vitro. Brf1 is a modular protein: Its N-proximal half is related to TFIIB and
+binds similarly to the C-terminal stirrup of TBP; its C-proximal one-third
+provides most of the affinity for TBP by binding along the entire length of the
+convex surface and N-terminal lateral face of TBP. A structure-informed triple
+fusion protein, with TBP core placed between the N- and C-proximal domains of
+Brf1, has been constructed. The Brf1-TBP triple fusion protein effectively
+replaces both Brf1 and TBP in TFIIIC-dependent and -independent transcription in 
+vitro, and forms extremely stable TFIIIB-DNA complexes that are indistinguishable
+from wild-type TFIIIB-DNA complexes by chemical nuclease footprinting. Unlike
+Brf1 and TBP, the triple fusion protein is able to recruit pol III for TATA
+box-directed transcription of linear and supercoiled DNA in the absence of Bdp1. 
+The Brf1-TBP triple fusion protein also effectively replaces Brf1 function in
+vivo as the intact protein, creating a TBP paralogue in yeast that is privatized 
+for pol III transcription.
+
+PMCID: PMC1266137
+PMID: 16227432  [PubMed - indexed for MEDLINE]
+
+
+34. Genes Dev. 2005 Apr 15;19(8):955-64.
+
+TFIIIB subunit Bdp1p is required for periodic integration of the Ty1
+retrotransposon and targeting of Isw2p to S. cerevisiae tDNAs.
+
+Bachman N(1), Gelbart ME, Tsukiyama T, Boeke JD.
+
+Author information: 
+(1)The Johns Hopkins University School of Medicine, Department of Molecular
+Biology and Genetics, Baltimore, Maryland 21205, USA.
+
+Retrotransposons are RNA elements that reverse transcribe their RNA genomes and
+make a cDNA copy that is inserted back into a new genomic location by the
+element-encoded integrase protein. Ty1 is a long terminal repeat (LTR)
+retrotransposon in Saccharomyces cerevisiae that inserts into an approximately
+700-bp integration window upstream of tRNA genes with a periodicity of
+approximately 80 bp. ATP-dependent chromatin remodeling by Isw2 upstream of tRNA 
+genes leads to changes in chromatin structure and Ty1 integration site selection.
+We show that the N terminus of Bdp1p, a component of the RNA polymerase III
+transcription factor TFIIIB, is required for periodic integration of Ty1 into the
+integration window. Deletion of the Bdp1p N terminus and mutation of ISW2 result 
+in similar disruption of nucleosome positioning upstream of some tRNA genes, and 
+the N-terminal domain of Bdp1p is required for targeting of Isw2 complex to tRNA 
+genes. This study provides the first example for recruitment of an ATP-dependent 
+chromatin-remodeling factor by a general transcription factor in vivo.
+
+PMCID: PMC1080134
+PMID: 15833918  [PubMed - indexed for MEDLINE]
+
+
+35. Mol Cell. 2004 Oct 8;16(1):81-92.
+
+CK2 phosphorylation of Bdp1 executes cell cycle-specific RNA polymerase III
+transcription repression.
+
+Hu P(1), Samudre K, Wu S, Sun Y, Hernandez N.
+
+Author information: 
+(1)Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724, USA.
+
+RNA polymerase III (pol III) transcription from the human U6 snRNA promoter can
+be reconstituted with the recombinant factors SNAPc and Brf2-TFIIIB combined with
+purified pol III. In this system, CK2 treatment of the pol III complex is
+required for transcription, whereas treatment of Brf2-TFIIIB is inhibitory. Here 
+we show that CK2 inhibits Brf2-TFIIIB by specifically phosphorylating its Bdp1
+component. Bdp1 is phosphorylated by CK2 during mitosis, and this is accompanied 
+by Bdp1 dissociation from the U6 promoter and from chromatin in general and by
+transcription repression. Remarkably, whereas inhibition of CK2 in mitotic
+extracts restores pol III transcription, inhibition of CK2 in active S phase
+extracts debilitates transcription. Thus, CK2 is directed to phosphorylate
+different targets within the basal pol III transcription machinery at different
+times during the cell cycle, with opposite transcriptional effects.
+
+PMID: 15469824  [PubMed - indexed for MEDLINE]
+
+
+36. Proc Natl Acad Sci U S A. 2004 Sep 14;101(37):13442-7. Epub 2004 Sep 3.
+
+Distinct roles of transcription factors TFIIIB and TFIIIC in RNA polymerase III
+transcription reinitiation.
+
+Ferrari R(1), Rivetti C, Acker J, Dieci G.
+
+Author information: 
+(1)Dipartimento di Biochimica e Biologia Molecolare, Università degli Studi di
+Parma, Parco Area delle Scienze 23/A, 43100 Parma, Italy.
+
+Eukaryotic RNA polymerase (Pol) III is recruited to target promoters by a stable 
+preinitiation complex containing transcription factors TFIIIC and TFIIIB. After
+the first transcription cycle, reinitiation proceeds through facilitated
+recycling, a process by which the terminating Pol III rapidly reloads onto the
+same transcription unit. Here, we show that Pol III is repeatedly recaptured in
+vitro by the first transcribed gene, even in the presence of a juxtaposed
+competitor promoter complex, thus suggesting that facilitated recycling is not
+merely due to a stochastic reassociation process favored by the small size of
+class III genes. The transcription factor requirements for facilitated
+reinitiation were investigated by taking advantage of Pol III templates that
+support both TFIIIC-dependent and TFIIIC-independent transcription. A TFIIIC-less
+transcription system, in which TFIIIB was reconstituted from recombinant TATA
+box-binding protein and Brf1 proteins and a crude fraction containing the Bdp1
+component, was sufficient to direct efficient Pol III recycling on short (
+approximately 100 bp) class III genes. Unexpectedly, however, on longer (>300 bp)
+transcription units, reinitiation in the presence of TFIIIB alone was
+compromised, and TFIIIC was further required to reestablish a high reinitiation
+rate. Transcription reinitiation was also severely impaired when recombinant Bdp1
+protein replaced the corresponding crude fraction in reconstituted TFIIIB. The
+data reveal an unexpected complexity in the Pol III reinitiation mechanism and
+suggest the existence of a handing-back network between Pol III, TFIIIC, and
+TFIIIB on actively transcribed class III genes.
+
+PMCID: PMC518776
+PMID: 15347814  [PubMed - indexed for MEDLINE]
+
+
+37. J Biol Chem. 2004 Jun 25;279(26):27022-9. Epub 2004 Apr 19.
+
+Transcription factor (TF)-like nuclear regulator, the 250-kDa form of Homo
+sapiens TFIIIB", is an essential component of human TFIIIC1 activity.
+
+Weser S(1), Gruber C, Hafner HM, Teichmann M, Roeder RG, Seifart KH, Meissner W.
+
+Author information: 
+(1)Institut für Molekularbiologie und Tumorforschung, Philipps Universität
+Marburg, Lahnstrasse 3, D-35037 Marburg, Germany.
+
+The general human RNA polymerase III transcription factor (TF) IIIC1 has hitherto
+been ill defined with respect to the polypeptides required for reconstitution of 
+its activity. Here we identify Homo sapiens TFIIIB" (HsBdp1) as an essential
+component of hTFIIIC1 and hTFIIIC1-like activities. Several forms of HsBdp1 are
+described. The 250-kDa form of HsBdp1, also designated the "transcription
+factor-like nuclear regulator," strictly co-eluted with TFIIIC1 activity over
+multiple chromatographic purification steps as revealed by Western blot with
+anti-HsBdp1 antibodies and by MALDI-TOF analysis. In addition, TFIIIC1 activity
+could be depleted from partially purified fractions with anti-HsBdp1 antibodies
+but not with control antibodies. Moreover, highly purified recombinant HsBdp1
+could replace TFIIIC1 activity in reconstituted transcription of the VAI gene in 
+vitro. Furthermore, smaller proteins of approximately 90-150 kDa that were
+recognized by anti-HsBdp1 antibodies co-eluted with TFIIIC1-like activity.
+Finally, cytoplasmic extracts from differentiated mouse F9 fibroblast cells that 
+lacked TFIIIC1 activity could be made competent for transcription of the VA1 gene
+by the addition of TFIIIC1, TFIIIC1-like, or recombinant HsBdp1. These results
+suggest that HsBdp1 proteins represent essential components of TFIIIC1 and
+TFIIIC1-like activities.
+
+PMID: 15096501  [PubMed - indexed for MEDLINE]
+
+
+38. Mol Biol Cell. 2004 May;15(5):2143-55. Epub 2004 Feb 20.
+
+A role for sorting nexin 2 in epidermal growth factor receptor down-regulation:
+evidence for distinct functions of sorting nexin 1 and 2 in protein trafficking.
+
+Gullapalli A(1), Garrett TA, Paing MM, Griffin CT, Yang Y, Trejo J.
+
+Author information: 
+(1)Department of Pharmacology, Cardiovascular Biology Center, Lineberger
+Comprehensive Cancer Center, School of Medicine, University of North Carolina at 
+Chapel Hill, Chapel Hill, NC 27599-7365, USA.
+
+Sorting nexin 1 (SNX1) and SNX2, homologues of the yeast vacuolar protein-sorting
+(Vps)5p, contain a phospholipid-binding motif termed the phox homology (PX)
+domain and a carboxyl terminal coiled-coil region. A role for SNX1 in trafficking
+of cell surface receptors from endosomes to lysosomes has been proposed; however,
+the function of SNX2 remains unknown. Toward understanding the function of SNX2, 
+we first examined the distribution of endogenous protein in HeLa cells. We show
+that SNX2 resides primarily in early endosomes, whereas SNX1 is found partially
+in early endosomes and in tubulovesicular-like structures distributed throughout 
+the cytoplasm. We also demonstrate that SNX1 interacts with the mammalian
+retromer complex through its amino terminal domain, whereas SNX2 does not.
+Moreover, activated endogenous epidermal growth factor receptor (EGFR)
+colocalizes markedly with SNX2-positive endosomes, but minimally with
+SNX1-containing vesicles. To assess SNX2 function, we examined the effect of a PX
+domain-mutated SNX2 that is defective in vesicle localization on EGFR
+trafficking. Mutant SNX2 markedly inhibited agonist-induced EGFR degradation,
+whereas internalization remained intact. In contrast, SNX1 PX domain mutants
+failed to effect EGFR degradation, whereas a SNX1 deletion mutant significantly
+inhibited receptor down-regulation. Interestingly, knockdown of SNX1 and SNX2
+expression by RNA interference failed to alter agonist-induced EGFR
+down-regulation. Together, these findings suggest that both SNX1 and SNX2 are
+involved in regulating lysosomal sorting of internalized EGFR, but neither
+protein is essential for this process. These studies are the first to demonstrate
+a function for SNX2 in protein trafficking.
+
+PMCID: PMC404011
+PMID: 14978220  [PubMed - indexed for MEDLINE]
+
+
+39. J Biol Chem. 2004 Mar 26;279(13):12110-6. Epub 2003 Dec 2.
+
+Negative regulation of HER2 signaling by the PEST-type protein-tyrosine
+phosphatase BDP1.
+
+Gensler M(1), Buschbeck M, Ullrich A.
+
+Author information: 
+(1)Department of Molecular Biology, Max-Planck-Institute of Biochemistry, Am
+Klopferspitz 18a, D-82152 Martinsried, Germany.
+
+Signaling by receptor tyrosine kinases (RTK) mediates a variety of complex
+cellular functions and in case of deregulation can contribute to
+pathophysiological processes. A tight and finely tuned control of RTK activity is
+therefore critical for the cell. We investigated the role of the PEST-type
+protein-tyrosine phosphatase BDP1 in the regulation of HER2, a member of the
+epidermal growth factor receptor (EGFR) family of RTKs. Here we demonstrate that 
+HER2 signaling is highly sensitive to BDP1 activity. Overexpression of BDP1
+inhibited ligand-induced activation of HER2 but not that of the closely related
+EGFR. On the other hand, suppression of endogenous BDP1 expression increased the 
+phosphorylation state of HER2. In addition, BDP1 was able to interfere with
+downstream signaling events by inhibiting the phosphorylation of the adaptor
+protein Gab1 and reducing mitogen-activated protein kinase activation. Supported 
+by the finding that BDP1 is coexpressed with HER2 in breast cancer cells, we
+suggest that BDP1 is an important regulator of HER2 activity and thus the first
+protein-tyrosine phosphatase shown to be involved in HER2 signal attenuation.
+
+PMID: 14660651  [PubMed - indexed for MEDLINE]
+
+
+40. EMBO J. 2003 Nov 3;22(21):5841-50.
+
+TFIIIB is phosphorylated, disrupted and selectively released from tRNA promoters 
+during mitosis in vivo.
+
+Fairley JA(1), Scott PH, White RJ.
+
+Author information: 
+(1)Institute of Biomedical and Life Sciences, Division of Biochemistry and
+Molecular Biology, Davidson Building, University of Glasgow, Glasgow G12 8QQ, UK.
+
+Mitosis involves a generalized repression of gene expression. In the case of RNA 
+polymerase III transcription, this is due to phosphorylation-mediated
+inactivation of TFIIIB, an essential complex comprising the TATA-binding protein 
+TBP and the TAF subunits Brf1 and Bdp1. In HeLa cells, this repression is
+mediated by a mitotic kinase other than cdc2-cyclin B and is antagonized by
+protein phosphatase 2A. Brf1 is hyperphosphorylated in metaphase-arrested cells, 
+but remains associated with promoters in condensed chromosomes, along with TBP.
+In contrast, Bdp1 is selectively released. Repression can be reversed by raising 
+the concentration of Brf1 or Bdp1. The data support a model in which
+hyperphosphorylation disrupts TFIIIB during mitosis, compromising its ability to 
+support transcription.
+
+PMCID: PMC275401
+PMID: 14592981  [PubMed - indexed for MEDLINE]
+
+
+41. Mol Cell. 2003 Sep;12(3):699-709.
+
+A minimal RNA polymerase III transcription system from human cells reveals
+positive and negative regulatory roles for CK2.
+
+Hu P(1), Wu S, Hernandez N.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Cold Spring Harbor Laboratory, Cold Spring
+Harbor, NY 11724, USA .
+
+In higher eukaryotes, RNA polymerase (pol) III is known to use different
+transcription factors to recognize three basic types of promoters, but in no case
+have these transcription factors been completely defined. We show that a highly
+purified pol III complex combined with the recombinant transcription factors
+SNAP(c), TBP, Brf2, and Bdp1 directs multiple rounds of transcription initiation 
+and termination from the human U6 promoter. The pol III complex contains traces
+of CK2, and CK2 associates with the U6 promoter region in vivo. Transcription
+requires CK2 phosphorylation of the pol III complex. In contrast, CK2
+phosphorylation of TBP, Brf2, and Bdp1 combined is inhibitory. The results define
+a minimum core machinery, the ultimate target of regulatory mechanisms, capable
+of directing all steps of the transcription process-initiation, elongation, and
+termination-by a metazoan RNA polymerase, and suggest positive and negative
+regulatory roles for CK2 in transcription by pol III.
+
+PMID: 14527415  [PubMed - indexed for MEDLINE]
+
+
+42. EMBO J. 2003 Oct 1;22(19):5115-24.
+
+A common site on TBP for transcription by RNA polymerases II and III.
+
+Schröder O(1), Bryant GO, Geiduschek EP, Berk AJ, Kassavetis GA.
+
+Author information: 
+(1)Division of Biological Sciences, Center for Molecular Genetics, University of 
+California, San Diego, 9500 Gilman Drive, La Jolla, CA 92093-0634, USA.
+olivers@biomail.ucsd.edu
+
+The TATA-binding protein (TBP) is involved in all nuclear transcription. We show 
+that a common site on TBP is used for transcription initiation complex formation 
+by RNA polymerases (pols) II and III. TBP, the transcription factor IIB
+(TFIIB)-related factor Brf1 and the pol III-specific factor Bdp1 constitute
+TFIIIB. A photochemical cross-linking approach was used to survey a collection of
+human TBP surface residue mutants for their ability to form TFIIIB-DNA complexes 
+reliant on only the TFIIB-related part of Brf1. Mutations impairing complex
+formation and transcription were identified and mapped on the surface of TBP. The
+most severe effects were observed for mutations in the C-terminal stirrup of TBP,
+which is the principal site of interaction between TBP and TFIIB. Structural
+modeling of the Brf1-TBP complex and comparison with its TFIIB-TBP analog further
+rationalizes the close resemblance of the TBP interaction with the N-proximal
+part of Brf1 and TFIIB, and establishes the conserved usage of a TBP surface in
+pol II and pol III transcription for a conserved function in the initiation of
+transcription.
+
+PMCID: PMC204460
+PMID: 14517249  [PubMed - indexed for MEDLINE]
+
+
+43. Cell Cycle. 2003 Sep-Oct;2(5):442-4.
+
+The TATA-binding protein as a regulator of cellular transformation.
+
+Johnson SA(1), Dubeau L, White RJ, Johnson DL.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, Keck School of Medicine and 
+Norris Comprehensive Cancer Center, University of Southern California, Los
+Angeles, California 90033, USA.
+
+The TATA-binding protein, TBP, is used by all three RNA polymerases and is
+therefore central to the process of gene expression. TBP associates with several 
+subsets of proteins, called TATA-binding protein-associated factors (TAFs). This 
+results in the formation of at least three distinct complexes, SL1, TFIID, and
+TFIIIB, which dictates whether TBP functions in RNA polymerase (pol) I, pol II,
+or pol III transcription, respectively. The regulation of gene expression has
+focused largely on proteins that serve to modulate the efficiency by which the
+general transcription components, such as TBP, interact with promoters. The
+possibility of a basal transcription factor, itself, being regulated, and
+influencing cellular homeostasis, has not been extensively considered. However,
+recent studies have indicated that TBP is indeed regulated, and that modulation
+of its cellular concentration has a profound, and surprisingly selective, impact 
+on gene expression that can mediate the normal proliferative responses of cells
+to growth stimuli as well as the transformation potential of cells.
+
+PMID: 12963838  [PubMed - indexed for MEDLINE]
+
+
+44. J Biol Chem. 2003 Nov 7;278(45):44467-74. Epub 2003 Aug 20.
+
+The Brf1 and Bdp1 subunits of transcription factor TFIIIB bind to overlapping
+sites in the tetratricopeptide repeats of Tfc4.
+
+Liao Y(1), Willis IM, Moir RD.
+
+Author information: 
+(1)Department of Biochemistry, Albert Einstein College of Medicine, Bronx, New
+York 10461, USA.
+
+The RNA polymerase III initiation factor TFIIIB is assembled onto DNA through
+interactions involving the Tfc4 subunit of the assembly factor TFIIIC and two
+subunits of TFIIIB, Brf1 and Bdp1. Tfc4 contains two arrays of tetratricopeptide 
+repeats (TPRs), each of which provides a binding site for Brf1. Dominant
+mutations in the ligand binding channel of the first TPR array, TPRs1-5, and on
+the back side of this array, increase Brf1 binding by Tfc4. Here we examine the
+biological importance of the second TPR array, TPRs6 -9. Radical mutations at
+phylogenetically conserved residues in the ligand binding channel of TPRs6 -9
+impair pol III reporter gene transcription. Biochemical studies on one such
+mutation, L469K in TPR7, revealed a defect in the recruitment of Brf1 into
+TFIIIB-TFIIIC-DNA complexes and diminished the direct interaction between Tfc4
+and Brf1. Multicopy suppression analysis implicates TPR9 in Brf1 binding and
+TPRs7 and 8 in binding to more than one ligand. Indeed, the L469K mutation also
+decreased the binding affinity for Bdp1 incorporation into TFIIIB-TFIIIC-DNA
+complexes and inhibited binary interactions between Bdp1 and Tfc4. The Bdp1
+binding domain in Tfc4 was mapped to TPRs1-9, a domain that contains both TPR
+arrays and thus overlaps two of the known binding sites for Brf1. The properties 
+of the L469K mutation identify both Brf1 and Bdp1 as ligands for the second TPR
+array.
+
+PMID: 12930823  [PubMed - indexed for MEDLINE]
+
+
+45. FEBS Lett. 2003 Jul 31;548(1-3):33-6.
+
+A gene-specific effect of an internal deletion in the Bdp1 subunit of the RNA
+polymerase III transcription initiation factor TFIIIB.
+
+Ishiguro A(1), Kassavetis GA.
+
+Author information: 
+(1)Division of Biological Sciences and Center for Molecular Genetics, University 
+of California, San Diego, 9500 Gilman Drive, La Jolla, CA 92093-0634, USA.
+akiraishiguro@brain.riken.go.jp
+
+The Saccharomyces cerevisiae RPR1 gene encodes the RNA subunit of its RNase P,
+which processes RNA polymerase (pol) III primary transcripts. RPR1, which is
+transcribed by pol III, has been isolated as a multicopy suppressor of a specific
+small internal deletion (amino acids 253-269) in the Bdp1 subunit of
+transcription factor TFIIIB, the core pol III transcription factor. The selective
+effect of this Bdp1 deletion on RPR1 transcription has been analyzed in vitro. It
+is shown that TFIIIC-dependent assembly of TFIIIB on the RPR1 promoter is
+specifically sensitive to this Bdp1 deletion, leading to gene-specifically
+defective single-round and multiple-round transcription.
+
+PMID: 12885403  [PubMed - indexed for MEDLINE]
+
+
+46. Nature. 2003 Apr 3;422(6931):534-9. Epub 2003 Mar 26.
+
+Crystal structure of a transcription factor IIIB core interface ternary complex.
+
+Juo ZS(1), Kassavetis GA, Wang J, Geiduschek EP, Sigler PB.
+
+Author information: 
+(1)Department of Molecular Biophysics & Biochemistry, Yale University, 266
+Whitney Avenue, New Haven, Connecticut 06520-8114, USA. juo@csb.yale.edu
+
+Transcription factor IIIB (TFIIIB), consisting of the TATA-binding protein (TBP),
+TFIIB-related factor (Brf1) and Bdp1, is a central component in basal and
+regulated transcription by RNA polymerase III. TFIIIB recruits its polymerase to 
+the promoter and subsequently has an essential role in the formation of the open 
+initiation complex. The amino-terminal half of Brf1 shares a high degree of
+sequence similarity with the polymerase II general transcription factor TFIIB,
+but it is the carboxy-terminal half of Brf1 that contributes most of its binding 
+affinity with TBP. The principal anchoring region is located between residues 435
+and 545 of yeast Brf1, comprising its homology domain II. The same region also
+provides the primary interface for assembling Bdp1 into the TFIIIB complex. We
+report here a 2.95 A resolution crystal structure of the ternary complex
+containing Brf1 homology domain II, the conserved region of TBP and 19 base pairs
+of U6 promoter DNA. The structure reveals the core interface for assembly of
+TFIIIB and demonstrates how the loosely packed Brf1 domain achieves remarkable
+binding specificity with the convex and lateral surfaces of TBP.
+
+PMID: 12660736  [PubMed - indexed for MEDLINE]
+
+
+47. J Biol Chem. 2003 May 16;278(20):17912-7. Epub 2003 Mar 10.
+
+The role of transcription initiation factor IIIB subunits in promoter opening
+probed by photochemical cross-linking.
+
+Kassavetis GA(1), Han S, Naji S, Geiduschek EP.
+
+Author information: 
+(1)Division of Biological Sciences and the Center for Molecular Genetics,
+University of California, San Diego, La Jolla, California 92093-0634, USA.
+gak@uscd.edu
+
+The core transcription initiation factor (TF) IIIB recruits its conjugate RNA
+polymerase (pol) III to the promoter and also plays an essential role in promoter
+opening. TFIIIB assembled with certain deletion mutants of its Brf1 and Bdp1
+subunits is competent in pol III recruitment, but the resulting preinitiation
+complex does not open the promoter. Whether Brf1 and Bdp1 participate in opening 
+the promoter by direct DNA interaction (as sigma subunits of bacterial RNA
+polymerases do) or indirectly by their action on pol III has been approached by
+site-specific photochemical protein-DNA cross-linking of TFIIIB-pol III-U6 RNA
+gene promoter complexes. Brf1, Bdp1, and several pol III subunits can be
+cross-linked to the nontranscribed strand of the U6 promoter at base pair -9/-8
+and +2/+3 (relative to the transcriptional start as +1), respectively the
+upstream and downstream ends of the DNA segment that opens up into the
+transcription bubble. Cross-linking of Bdp1 and Brf1 is detected at 0 degrees C
+in closed preinitiation complexes and at 30 degrees C in complexes that are
+partly open, but also it is detected in mutant TFIIIB-pol III-DNA complexes that 
+are unable to open the promoter. In contrast, promoter opening-defective TFIIIB
+mutants generate significant changes of cross-linking of polymerase subunits. The
+weight of this evidence argues in favor of an indirect mode of action of TFIIIB
+in promoter opening.
+
+PMID: 12637540  [PubMed - indexed for MEDLINE]
+
+
+48. J Neurosci. 2002 Nov 15;22(22):9776-84.
+
+Rab11a and myosin Vb regulate recycling of the M4 muscarinic acetylcholine
+receptor.
+
+Volpicelli LA(1), Lah JJ, Fang G, Goldenring JR, Levey AI.
+
+Author information: 
+(1)Center for Neurodegenerative Disease and Department of Neurology, Emory
+University School of Medicine, Atlanta, Georgia 30322, USA.
+
+Agonist-induced internalization followed by subsequent return to the cell surface
+regulates G-protein-coupled receptor (GPCR) activity. Because the cellular
+responsiveness to ligand depends on the balance between receptor degradation and 
+recycling, it is crucial to identify the molecules involved in GPCR recovery to
+the cell surface. In this study, we identify mechanisms involved in the recycling
+of the M4 subtype of muscarinic acetylcholine receptor. M4 is highly expressed in
+the CNS, plays a role in locomotor activity, and is a novel therapeutic target
+for neurologic and psychiatric disorders. Previous studies show that, after
+cholinergic stimulation, M4 internalizes from the cell surface to endosomes in
+cell culture and the rat brain. Here, we show that, after activation, M4 traffics
+to transferrin receptor- and Rab11a-positive perinuclear endosomes. Expression of
+the constitutively GDP-bound, inactive mutant Rab11aS25N inhibits M4 trafficking 
+to recycling endosomes. Expression of the C-terminal tail of myosin Vb, a Rab11a 
+effector, enhances M4 accumulation in perinuclear endosomes. Both Rab11aS25N and 
+the myosin Vb tail impair M4 recycling. The results demonstrate that GPCR
+recycling is mediated through a discrete pathway using both Rab11a and myosin Vb.
+
+PMID: 12427833  [PubMed - indexed for MEDLINE]
+
+
+49. Mol Cell Biol. 2002 Nov;22(22):8067-78.
+
+Redundant cooperative interactions for assembly of a human U6 transcription
+initiation complex.
+
+Ma B(1), Hernandez N.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Cold Spring Harbor Laboratory, Cold Spring
+Harbor, New York 11724, USA.
+
+The core human U6 promoter consists of a proximal sequence element (PSE) located 
+upstream of a TATA box. The PSE is recognized by the snRNA-activating protein
+complex (SNAP(c)), which consists of five types of subunits, SNAP190, SNAP50,
+SNAP45, SNAP43, and SNAP19. The TATA box is recognized by TATA box binding
+protein (TBP). In addition, basal U6 transcription requires the SANT domain
+protein Bdp1 and the transcription factor IIB-related factor Brf2. SNAP(c) and
+mini-SNAP(c), which consists of just SNAP43, SNAP50, and the N-terminal third of 
+SNAP190, bind cooperatively with TBP to the core U6 promoter. By generating
+complexes smaller than mini-SNAP(c), we have identified a 50-amino-acid region
+within SNAP190 that is (i) required for cooperative binding with TBP in the
+context of mini-SNAP(c) and (ii) sufficient for cooperative binding with TBP when
+fused to a heterologous DNA binding domain. We show that derivatives of
+mini-SNAP(c) lacking this region are active for transcription and that with such 
+complexes, TBP can still be recruited to the U6 promoter through cooperative
+interactions with Brf2. Our results identify complexes smaller than mini-SNAP(c) 
+that are transcriptionally active and show that there are at least two redundant 
+mechanisms to stably recruit TBP to the U6 transcription initiation complex.
+
+PMCID: PMC134731
+PMID: 12391172  [PubMed - indexed for MEDLINE]
+
+
+50. EMBO J. 2002 Oct 15;21(20):5508-15.
+
+Effects of DNA strand breaks on transcription by RNA polymerase III: insights
+into the role of TFIIIB and the polarity of promoter opening.
+
+Kassavetis GA(1), Grove A, Geiduschek EP.
+
+Author information: 
+(1)Division of Biological Sciences and Center for Molecular Genetics, University 
+of California, San Diego, 9500 Gilman Drive, La Jolla, CA 92093-0634, USA.
+gak@ucsd.edu or agrove@lsu.edu
+
+Certain deletion mutants of the Brf1 and Bdp1 subunits of transcription factor
+(TF) IIIB retain the ability to recruit RNA polymerase (pol) III to its
+promoters, but fail to support promoter opening: deletions within an internal
+Bdp1 segment interfere with initiation of DNA strand separation, and an
+N-terminal Brf1 deletion blocks propagation of promoter opening past the
+transcriptional start site. The ability of DNA strand breaks to restore pol III
+transcription activity to these defective TFIIIB assemblies has been analyzed
+using U6 snRNA gene constructs. Breaks in a 21 bp segment spanning the
+transcriptional start rescue transcription in DNA strand-specific and
+subunit/mutation-specific patterns. A cluster of Bdp1 internal deletions also
+reverses the inactivation of transcription with wild-type TFIIIB generated by
+certain transcribed (template) strand breaks near the transcriptional start site.
+A structure-based model and topological considerations interpret these
+observations, explain how Bdp1 and Brf1 help to enforce the general upstream-->
+downstream polarity of promoter opening and specify requirements for polarity
+reversal.
+
+PMCID: PMC129065
+PMID: 12374751  [PubMed - indexed for MEDLINE]
+
+
+51. J Biol Chem. 2002 Dec 13;277(50):48182-91. Epub 2002 Oct 4.
+
+Multiple mechanisms contribute to the activation of RNA polymerase III
+transcription in cells transformed by papovaviruses.
+
+Felton-Edkins ZA(1), White RJ.
+
+Author information: 
+(1)Institute of Biomedical and Life Sciences, Division of Biochemistry and
+Molecular Biology, Davidson Building, University of Glasgow, United Kingdom.
+
+RNA polymerase (pol) III transcription is abnormally active in fibroblasts
+transformed by polyomavirus (Py) or simian virus 40 (SV40). Several distinct
+mechanisms contribute to this effect. In untransformed fibroblasts, the basal pol
+III transcription factor (TF) IIIB is repressed through association with the
+retinoblastoma protein RB; this restraint is overcome by large T antigens of Py
+and SV40. Furthermore, cells transformed by these papovaviruses overexpress the
+BDP1 subunit of TFIIIB, at both the protein and mRNA levels. Despite the
+overexpression of BDP1, the abundance of the other TFIIIB components is
+unperturbed following papovavirus transformation. In contrast, mRNAs encoding all
+five subunits of the basal factor TFIIIC2 are found at elevated levels in
+fibroblasts transformed by Py or SV40. Thus, both papovaviruses stimulate pol III
+transcription by boosting production of selected components of the basal
+machinery. Py differs from SV40 in encoding a highly oncogenic middle T antigen
+that localizes outside the nucleus and activates several signal transduction
+pathways. Middle T can serve as a potent activator of a pol III reporter in
+transfected cells. Several distinct mechanisms therefore contribute to the high
+levels of pol III transcription that accompany transformation by Py and SV40.
+
+PMID: 12370195  [PubMed - indexed for MEDLINE]
+
+
+52. Mol Cell Biol. 2002 Sep;22(17):6131-41.
+
+A gain-of-function mutation in the second tetratricopeptide repeat of TFIIIC131
+relieves autoinhibition of Brf1 binding.
+
+Moir RD(1), Puglia KV, Willis IM.
+
+Author information: 
+(1)Department of Biochemistry, Albert Einstein College of Medicine, Bronx, New
+York 10461, USA.
+
+The interaction between the tetratricopeptide repeat (TPR)-containing subunit of 
+TFIIIC, TFIIIC131, and the TFIIB-related factor Brf1 represents a limiting step
+in the assembly of the RNA polymerase III (pol III) initiation factor TFIIIB.
+This assembly reaction is facilitated by dominant mutations that map in and
+around TPR2. Structural modeling of TPR1 to TPR3 from TFIIIC131 shows that one
+such mutation, PCF1-2, alters a residue in the ligand-binding groove of the TPR
+superhelix whereas another mutation, PCF1-1, changes a surface-accessible residue
+on the back side of the TPR superhelix. In this work, we show that the PCF1-1
+mutation (H190Y) increases the binding affinity for Brf1, but does not affect the
+binding affinity for Bdp1, in the TFIIIC-dependent assembly of TFIIIB.
+Interestingly, binding studies with TFIIIC131 fragments indicate that Brf1 does
+not interact directly at the site of the PCF1-1 mutation. Rather, the data
+suggest that the mutation overcomes the previously documented autoinhibition of
+Brf1 binding. These findings together with the results from site-directed
+mutagenesis support the hypothesis that gain-of-function mutations at amino acid 
+190 in TPR2 stabilize an alternative conformation of TFIIIC131 that promotes its 
+interaction with Brf1.
+
+PMCID: PMC134014
+PMID: 12167707  [PubMed - indexed for MEDLINE]
+
+
+53. J Biol Chem. 2002 Jul 19;277(29):25920-8. Epub 2002 May 6.
+
+Mutational analysis of the transcription factor IIIB-DNA target of Ty3
+retroelement integration.
+
+Yieh L(1), Hatzis H, Kassavetis G, Sandmeyer SB.
+
+Author information: 
+(1)Department of Microbiology and Molecular Genetics, University of California,
+Irvine, California 92697-1700, USA.
+
+The Ty3 retrovirus-like element inserts preferentially at the transcription
+initiation sites of genes transcribed by RNA polymerase III. The requirements for
+transcription factor (TF) IIIC and TFIIIB in Ty3 integration into the two
+initiation sites of the U6 gene carried on pU6LboxB were previously examined. Ty3
+integrates at low but detectable frequencies in the presence of TFIIIB subunits
+Brf1 and TATA-binding protein. Integration increases in the presence of the third
+subunit, Bdp1. TFIIIC is not essential, but the presence of TFIIIC specifies an
+orientation of TFIIIB for transcriptional initiation and directs integration to
+the U6 gene-proximal initiation site. In the current study, recombinant wild type
+TATA-binding protein, wild type and mutant Brf1, and Bdp1 proteins and highly
+purified TFIIIC were used to investigate the roles of specific protein domains in
+Ty3 integration. The amino-terminal half of Brf1, which contains a TFIIB-like
+repeat, contributed more strongly than the carboxyl-terminal half of Brf1 to Ty3 
+targeting. Each half of Bdp1 split at amino acid 352 enhanced integration. In the
+presence of TFIIIB and TFIIIC, the pattern of integration extended downstream by 
+several base pairs compared with the pattern observed in vitro in the absence of 
+TFIIIC and in vivo, suggesting that TFIIIC may not be present on genes targeted
+by Ty3 in vivo. Mutations in Bdp1 that affect its interaction with TFIIIC
+resulted in TFIIIC-independent patterns of Ty3 integration. Brf1 zinc ribbon and 
+Bdp1 internal deletion mutants that are competent for polymerase III recruitment 
+but defective in promoter opening were competent for Ty3 integration irrespective
+of the state of DNA supercoiling. These results extend the similarities between
+the TFIIIB domains required for transcription and Ty3 integration and also reveal
+requirements that are specific to transcription.
+
+PMID: 11994300  [PubMed - indexed for MEDLINE]
+
+
+54. Mol Cell Biol. 2002 May;22(10):3264-75.
+
+Essential roles of Bdp1, a subunit of RNA polymerase III initiation factor
+TFIIIB, in transcription and tRNA processing.
+
+Ishiguro A(1), Kassavetis GA, Geiduschek EP.
+
+Author information: 
+(1)Division of Biology and Center for Molecular Genetics, University of
+California, San Diego, La Jolla, California 92093-0634, USA.
+ishiguro@biomail.ucsd.edu
+
+The essential Saccharomyces cerevisiae gene BDP1 encodes a subunit of RNA
+polymerase III (Pol III) transcription factor (TFIIIB); TATA box binding protein 
+(TBP) and Brf1 are the other subunits of this three-protein complex. Deletion
+analysis defined three segments of Bdp1 that are essential for viability. A
+central segment, comprising amino acids 327 to 353, was found to be dispensable, 
+and cells making Bdp1 that was split within this segment, at amino acid 352, are 
+viable. Suppression of bdp1 conditional viability by overexpressing SPT15 and
+BRF1 identified functional interactions of specific Bdp1 segments with TBP and
+Brf1, respectively. A Bdp1 deletion near essential segment I was synthetically
+lethal with overexpression of PCF1-1, a dominant gain-of-function mutation in the
+second tetracopeptide repeat motif (out of 11) of the Tfc4 (tau(131)) subunit of 
+TFIIIC. The analysis also identifies a connection between Bdp1 and
+posttranscriptional processing of Pol III transcripts. Yeast genomic library
+screening identified RPR1 as the specific overexpression suppressor of very slow 
+growth at 37 degrees C due to deletion of Bdp1 amino acids 253 to 269. RPR1 RNA, 
+a Pol III transcript, is the RNA subunit of RNase P, which trims pre-tRNA
+transcript 5' ends. Maturation of tRNA was found to be aberrant in bdp1-Delta
+253-269 cells, and RPR1 transcription with the highly resolved Pol III
+transcription system in vitro was also diminished when recombinant Bdp1 Delta
+253-269 replaced wild-type Bdp1. Physical interaction of RNase P with Bdp1 was
+demonstrated by coimmunoprecipitation and pull-down assays.
+
+PMCID: PMC133792
+PMID: 11971960  [PubMed - indexed for MEDLINE]
+
+
+55. Neurosci Lett. 2001 Dec 4;316(1):41-4.
+
+Calpain proteolysis of alpha II-spectrin in the normal adult human brain.
+
+Huh GY(1), Glantz SB, Je S, Morrow JS, Kim JH.
+
+Author information: 
+(1)Department of Pathology, Yale University School of Medicine, 310 Cedar Street,
+New Haven, CT 06520-8023, USA.
+
+The proteolysis of alphaII-spectrin by calpain may be physiologically involved
+with synaptic remodeling, long-term potentiation, and memory formation. Calpain
+activation may also mediate neuronal apoptosis, responses to hypoxic insult, and 
+excitotoxic injury. Surprisingly little is known of the activity of these
+calpain-mediated processes in the adult human brain. Using an antibody that
+specifically recognizes calpain-cleaved alphaII-spectrin, we have mapped the
+topographic distribution of the major alphaII-spectrin break-down product
+(alphaII-bdp1) in six adult brains examined post-mortem. All brains were from
+patients without evident neurological disease. Focally positive alphaII-bdp1 was 
+consistently detected in the neuropil of the cortical gray matter, in occasional 
+pyramidal neurons, and in rare reactive astrocytes in the cerebral cortex and
+hippocampus. Cerebellar Purkinje cells were more frequently, and more intensely, 
+immunopositive. In all fields, staining was most intense in the soma and
+dendrites of neurons. There was no correlation of the frequency of positive cells
+with the postmortem interval or clinical condition. While these findings do not
+rigorously exclude contributions from postmortem calpain activation, they do
+suggest that a low-level of calpain processing of alphaII-spectrin is likely to
+be a constitutive process in the adult human brain.
+
+PMID: 11720774  [PubMed - indexed for MEDLINE]
+
+
+56. Genomics. 2000 Dec 15;70(3):315-26.
+
+The transcription factor-like nuclear regulator (TFNR) contains a novel
+55-amino-acid motif repeated nine times and maps closely to SMN1.
+
+Kelter AR(1), Herchenbach J, Wirth B.
+
+Author information: 
+(1)Institute of Human Genetics, Wilhelmstrasse 31, Bonn, D-53111, Germany.
+
+The transcription factor-like nuclear regulator (TFNR) is a novel human gene that
+maps on 5q13, distal to the duplicated region that includes SMN1, the spinal
+muscular atrophy (SMA) determining gene. The location of TFNR allowed us to
+design an evolutionary model of the SMA region. The 9.5-kb TFNR transcript is
+highly expressed in cerebellum and weakly in all other tissues tested. TFNR
+encodes a protein of 2254 amino acids (aa) and contains nine repeats of a novel
+55-aa motif, of yet unknown function. The coding region is organized in 32 exons.
+Alternative splicing of exon 15 results in a truncated protein of 796 aa. TFNR
+comprises a series of polypeptides that range from 55 to 250 kDa.
+Immunocytological studies showed that the TFNR protein is present exclusively in 
+the nucleus, where it is concentrated in several nuclear structures. Amino acids 
+155-474 show significant homology to TFC5, a subunit of the yeast transcription
+factor TFIIIB, suggesting that TFNR is a putative transcription factor. Based on 
+its proximity to SMN1 and its expression pattern, TFNR may be a candidate gene
+for atypical forms of SMA with cerebral atrophy and axonal neuropathy that have
+been shown to carry large deletions in the SMA region.
+
+PMID: 11161782  [PubMed - indexed for MEDLINE]
+
+
+57. J Clin Microbiol. 2000 Jun;38(6):2043-50.
+
+An analytical model applied to a multicenter pneumococcal enzyme-linked
+immunosorbent assay study.
+
+Plikaytis BD(1), Goldblatt D, Frasch CE, Blondeau C, Bybel MJ, Giebink GS,
+Jonsdottir I, Käyhty H, Konradsen HB, Madore DV, Nahm MH, Schulman CA, Holder PF,
+Lezhava T, Elie CM, Carlone GM.
+
+Author information: 
+(1)Division of Bacterial and Mycotic Diseases, National Center for Infectious
+Diseases, Centers for Disease Control and Prevention, Atlanta, Georgia, USA.
+bdp1@cdc.gov
+
+Pneumococcal conjugate vaccines will eventually be licensed after favorable
+results from phase III efficacy trials. After licensure of a conjugate vaccine
+for invasive pneumococcal disease in infants, new conjugate vaccines will likely 
+be licensed primarily on the basis of immunogenicity data rather than clinical
+efficacy. Analytical methods must therefore be developed, evaluated, and
+validated to compare immunogenicity results accurately within and between
+laboratories for different vaccines. At present no analytical technique is
+uniformly accepted and used in vaccine evaluation studies to determine the
+acceptable level of agreement between a laboratory result and the assigned value 
+for a given serum sample. This multicenter study describes the magnitude of
+agreement among 12 laboratories quantifying an identical series of 48
+pneumococcal serum specimens from 24 individuals (quality-control sera) by a
+consensus immunoglobulin G (IgG) enzyme-linked immunosorbent assay (ELISA)
+developed for this study. After provisional or trial antibody concentrations were
+assigned to the quality-control serum samples for this study, four methods for
+comparison of a series of laboratory-determined values with the assigned
+concentrations were evaluated. The percent error between assigned values and
+laboratory-determined concentrations proved to be the most informative of the
+four methods. We present guidelines that a laboratory may follow to analyze a
+series of quality-control sera to determine if it can reproduce the assigned
+antibody concentrations within an acceptable level of tolerance. While this study
+focused on a pneumococcal IgG ELISA, the methods that we describe are easily
+generalizable to other immunological assays.
+
+PMCID: PMC86724
+PMID: 10834951  [PubMed - indexed for MEDLINE]
+
+
+58. Oncogene. 1996 Nov 21;13(10):2275-9.
+
+Characterization of the PEST family protein tyrosine phosphatase BDP1.
+
+Kim YW(1), Wang H, Sures I, Lammers R, Martell KJ, Ullrich A.
+
+Author information: 
+(1)Department of Molecular Biology, Max-Planck-Institut für Biochemie,
+Martinsried, Germany.
+
+Using a polymerase chain reaction (PCR) amplification strategy, we identified a
+novel protein tyrosine phosphatase (PTPase) designated Brain Derived Phosphatase 
+(BDP1). The full length sequence encoded an open reading frame of 459 amino acids
+with no transmembrane domain and had a calculated molecular weight of 50 kDa. The
+predicted amino acid sequence contained a PEST motif and accordingly, BDP1 shared
+the greatest homology with members of the PTP-PEST family. When transiently
+expressed in 293 cells BDP1 hydrolyzed p-Nitrophenylphosphate, confirming it as a
+functional protein tyrosine phosphatase. Northern blot analysis indicated that
+BDP1 was expressed not only in brain, but also in colon and several different
+tumor-derived cell lines. Furthermore, BDP1 was found to differentially
+dephosphorylate autophosphorylated tyrosine kinases which are known to be
+overexpressed in tumor tissues.
+
+PMID: 8950995  [PubMed - indexed for MEDLINE]
+
+

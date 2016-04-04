@@ -1,0 +1,1882 @@
+
+1. Nat Commun. 2016 Mar 22;7:11102. doi: 10.1038/ncomms11102.
+
+Zbtb20 promotes astrocytogenesis during neocortical development.
+
+Nagao M(1), Ogata T(1), Sawada Y(1), Gotoh Y(2).
+
+Author information: 
+(1)Department of Rehabilitation for the Movement Functions, Research Institute,
+National Rehabilitation Center for Persons with Disabilities, 4-1 Namiki,
+Tokorozawa, Saitama 359-8555, Japan. (2)Graduate School of Pharmaceutical
+Sciences, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan.
+
+Multipotent neural precursor cells (NPCs) generate astrocytes at late stages of
+mammalian neocortical development. Many signalling pathways that regulate
+astrocytogenesis directly induce the expression of GFAP, a marker of terminally
+differentiated astrocytes. However, astrocyte specification occurs before GFAP
+expression and essential factors for the specification step have remained
+elusive. Here we show that Zbtb20 regulates astrocyte specification in the mouse 
+neocortex. Zbtb20 is highly expressed in late-stage NPCs and their astrocytic
+progeny. Overexpression and knockdown of Zbtb20 promote and suppress
+astrocytogenesis, respectively, although Zbtb20 does not directly activate the
+Gfap promoter. Astrocyte induction by Zbtb20 is suppressed by knockdown of Sox9
+or NFIA. Furthermore, in the astrocyte lineage, Zbtb20 directly represses the
+expression of Brn2, which encodes a protein necessary for upper-layer neuron
+specification. Zbtb20 is thus a key determinant of astrocytogenesis, in which it 
+collaborates with Sox9 and NFIA, and acts in part through direct repression of
+Brn2 expression.
+
+PMCID: PMC4804180
+PMID: 27000654  [PubMed - in process]
+
+
+2. Oncotarget. 2016 Feb 16. doi: 10.18632/oncotarget.7425. [Epub ahead of print]
+
+Zinc finger protein ZBTB20 is an independent prognostic marker and promotes tumor
+growth of human hepatocellular carcinoma by repressing FoxO1.
+
+Kan H(1), Huang Y(1), Li X(1), Liu D(2), Chen J(1), Shu M(1).
+
+Author information: 
+(1)Department of Hepatobiliary Surgery, Nanfang Hospital, Southern Medical
+University, Guangzhou 510515, China. (2)Department of Infectious Disease, Nanfang
+Hospital, Southern Medical University, Guangzhou 510515, China.
+
+Zinc finger and BTB domain-containing 20 (ZBTB20) is a new BTB/POZ-domain gene
+and a member of the POK family of transcriptional repressors. Notably, the role
+of ZBTB20 and its underlying mechanisms involved in hepatocarcinogenesis are
+poorly investigated. In this study, the expression of ZBTB20 was significantly
+overexpressed in hepatocellular carcinoma (HCC) tissues. The positive expression 
+of ZBTB20 was associated with large tumor size, high Edmondson-Steiner grading
+and advanced tumor-node-metastasis (TNM) tumor stage. Additionally, HCC patients 
+with positive expression of ZBTB20 had a poorer 5-year survival. Multivariate
+analyses revealed that ZBTB20 overexpression was an independent prognostic factor
+for HCC. Gain- and loss-of-function experiments demonstrated that ZBTB20 promoted
+HCC cell viability, proliferation, tumorigenicity, and cell cycle progression.
+Mechanistically, Cyclin D1 and Cyclin E were increased, while p21 and p27 were
+decreased by ZBTB20 in HCC cells. FoxO1 was inversely correlated with ZBTB20
+protein expression in the same cohort of HCC specimens. We further revealed that 
+FoxO1 was transcriptionally repressed by ZBTB20 in HCC. Moreover, restoration of 
+FoxO1 expression partially abrogated ZBTB20-induced HCC cell proliferation and
+growth entry in vitro and in vivo. Collectively, these results indicate that
+ZBTB20 may serve as a prognostic marker and promotes tumor growth of HCC via
+transcriptionally repressing FoxO1.
+
+PMID: 26893361  [PubMed - as supplied by publisher]
+
+
+3. Genet Mol Res. 2015 Dec 21;14(4):17622-9. doi: 10.4238/2015.December.21.35.
+
+Effect of transcription factor ZBTB20 on mouse pituitary development.
+
+Dong Q(1,)(2), Chen XY(2), Li GM(1).
+
+Author information: 
+(1)Department of Pediatrics, Shandong Provincial Hospital. (2)Department of
+Pediatrics, Central Hospital of Tai'an, Tai'an, Shandong, China.
+
+Pituitary, a critical component in the neuroendocrine system, plays an
+indispensable role in the regulation of body growth. The transcriptional factor
+ZBTB20 is widely expressed in brain tissues and participates in hippocampal
+development; however, the detailed molecular mechanism remains unknown.
+Therefore, the aim of this study was to investigate the effect of ZBTB20 on mouse
+pituitary development and related mechanisms in ZBTB20 gene knockout mice. The
+expressional profiles of ZBTB20 in various neuroendocrinal cells during the
+different developmental stages (from E10 to P0) were described by
+immunofluorescence staining. A ZBTB20 gene knockout mouse model was then
+generated. Real-time polymerase chain reaction and western blotting assays were
+used to detect the levels of five hormones: growth hormone (GH), prolactin (PRL),
+luteinizing hormone (LH), follicle-stimulating hormone (FSH), and
+thyroid-stimulating hormone (TSH). ZBTB20 protein expression was identified from 
+E14 until birth. A majority of the pituitary endocrinal cells were
+ZBTB20-positive. In ZBTB20 knockout mice, the level of GH decreased by half and
+PRL expression was eliminated. No significant change was observed in the other
+three hormones (LH, FSH, and TSH). ZBTB20, an important transcriptional factor in
+pituitary development, is mainly responsible for the terminal differentiation of 
+prolactin-secreting cells, thereby regulating the secretion of the pituitary
+hormones.
+
+PMID: 26782407  [PubMed - in process]
+
+
+4. Nat Commun. 2015 Nov 17;6:8896. doi: 10.1038/ncomms9896.
+
+Generation of functional hippocampal neurons from self-organizing human embryonic
+stem cell-derived dorsomedial telencephalic tissue.
+
+Sakaguchi H(1,)(2,)(3), Kadoshima T(1), Soen M(1), Narii N(1), Ishida Y(1),
+Ohgushi M(1), Takahashi J(3), Eiraku M(1,)(2), Sasai Y(1).
+
+Author information: 
+(1)Laboratory for Organogenesis and Neurogenesis, RIKEN Center for Developmental 
+Biology, 2-2-3 Minatojima-Minamimachi, Chuo-ku, Kobe 650-0047, Japan.
+(2)Laboratory for in vitro Histogenesis, RIKEN Center for Developmental Biology, 
+2-2-3 Minatojima-Minamimachi, Chuo-ku, Kobe 650-0047, Japan. (3)Department of
+Clinical Application, Center for iPS Cell Research and Application, Kyoto
+University, 53 Kawahara-cho, Shogoin, Sakyo-ku, Kyoto 606-8507, Japan.
+
+The developing dorsomedial telencephalon includes the medial pallium, which goes 
+on to form the hippocampus. Generating a reliable source of human hippocampal
+tissue is an important step for cell-based research into hippocampus-related
+diseases. Here we show the generation of functional hippocampal granule- and
+pyramidal-like neurons from self-organizing dorsomedial telencephalic tissue
+using human embryonic stem cells (hESCs). First, we develop a hESC culture method
+that utilizes bone morphogenetic protein (BMP) and Wnt signalling to induce
+choroid plexus, the most dorsomedial portion of the telencephalon. Then, we find 
+that titrating BMP and Wnt exposure allowed the self-organization of medial
+pallium tissues. Following long-term dissociation culture, these dorsomedial
+telencephalic tissues give rise to Zbtb20(+)/Prox1(+) granule neurons and
+Zbtb20(+)/KA1(+) pyramidal neurons, both of which were electrically functional
+with network formation. Thus, we have developed an in vitro model that
+recapitulates human hippocampus development, allowing the generation of
+functional hippocampal granule- and pyramidal-like neurons.
+
+PMCID: PMC4660208
+PMID: 26573335  [PubMed - in process]
+
+
+5. Cell Physiol Biochem. 2015;36(5):1725-34.
+
+Human Dental Pulp Stem Cells via the NF-<U+03BA>B Pathway.
+
+Gu S, Ran S, Qin F, Cao D, Wang J, Liu B, Liang J.
+
+BACKGROUND/AIMS: Odontogenic differentiation of human dental pulp stem cells
+(HDPSCs) is regulated by multiple factors and signaling molecules. However, their
+regulatory mechanisms are not completely understood. In this study, we
+investigated the role of Zinc finger and BTB domain-containing 20 (ZBTB20) in
+odontoblastic differentiation of HDPSCs.
+METHODS: HDPSCs were obtained from human third molars and ZBTB20 expression was
+examined by qRT-PCR and western blot. Their osteo/odontogenic differentiation and
+the involvement of NF-<U+03BA>B pathway were subsequently investigated.
+RESULTS: The expression of ZBTB20 is upregulated in a time-dependent manner
+during odontogenic differentiation of hDPSCs. Inhibition of ZBTB20 reduced
+osteogenic medium (OM)-induced odontogenic differentiation, reflected in
+decreased alkaline phosphatase (ALP) activity, mineralized nodule formation and
+mRNA expression of odonto/osteogenic marker genes. In contrast, overexpression of
+ZBTB20 enhanced ALP activity, mineralization and the expression of
+differentiation marker genes. Furthermore, the expression of I<U+03BA>Ba was increased
+by ZBTB20 silencing in HDPSCs, whereas ZBTB20 overexpression decreased I<U+03BA>Ba and
+enhanced nuclear NF-<U+03BA>B p65. Inhibition of the NF-<U+03BA>B pathway significantly
+suppressed the odontogenic differentiation of HDPSCs induced by ZBTB20.
+CONCLUSION: This study shows for the first time that ZBTB20 plays an important
+role during odontoblastic differentiation of HDPSCs and may have clinical
+implications for regenerative endodontics.
+
+ight © 2015 S. Karger AG, Basel
+
+PMID: 26183640  [PubMed - in process]
+
+
+6. Sci Rep. 2015 Jul 15;5:11979. doi: 10.1038/srep11979.
+
+ZBTB20 is a sequence-specific transcriptional repressor of alpha-fetoprotein
+gene.
+
+Zhang H(1), Cao D(1), Zhou L(1), Zhang Y(2), Guo X(2), Li H(2), Chen Y(2), Spear 
+BT(3), Wu JW(4), Xie Z(2), Zhang WJ(2).
+
+Author information: 
+(1)1] Department of Pathophysiology, Second Military Medical University, 800
+Xiangyin Road, Shanghai 200433, China [2]. (2)Department of Pathophysiology,
+Second Military Medical University, 800 Xiangyin Road, Shanghai 200433, China.
+(3)Department of Microbiology, Immunology &Molecular Genetics, University of
+Kentucky College of Medicine, 800 Rose Street, Lexington, KY 40536, USA. (4)MOE
+Key Laboratory for Bioinformatics, School of Life Sciences, Tsinghua University, 
+Beijing 100084, China.
+
+Alpha-fetoprotein (AFP) represents a classical model system to study
+developmental gene regulation in mammalian cells. We previously reported that
+liver ZBTB20 is developmentally regulated and plays a central role in AFP
+postnatal repression. Here we show that ZBTB20 is a sequence-specific
+transcriptional repressor of AFP. By ELISA-based DNA-protein binding assay and
+conventional gel shift assay, we successfully identified a ZBTB20-binding site at
+-104/-86 of mouse AFP gene, flanked by two HNF1 sites and two C/EBP sites in the 
+proximal promoter. Importantly, mutation of the core sequence in this site fully 
+abolished its binding to ZBTB20 in vitro, as well as the repression of AFP
+promoter activity by ZBTB20. The unique ZBTB20 site was highly conserved in rat
+and human AFP genes, but absent in albumin genes. These help to explain the
+autonomous regulation of albumin and AFP genes in the liver after birth.
+Furthermore, we demonstrated that transcriptional repression of AFP gene by
+ZBTB20 was liver-specific. ZBTB20 was dispensable for AFP silencing in other
+tissues outside liver. Our data define a cognate ZBTB20 site in AFP promoter
+which mediates the postnatal repression of AFP gene in the liver.
+
+PMCID: PMC4648434
+PMID: 26173901  [PubMed - in process]
+
+
+7. Curr Opin Immunol. 2015 Apr;33:64-9. doi: 10.1016/j.coi.2015.01.017. Epub 2015
+Feb 9.
+
+Differentiation and maintenance of long-lived plasma cells.
+
+Kometani K(1), Kurosaki T(2).
+
+Author information: 
+(1)Laboratory for Lymphocyte Differentiation, RIKEN Center for Integrative
+Medical Sciences (IMS), Tsurumi-ku, Yokohama, Kanagawa 230-0045, Japan.
+(2)Laboratory of Lymphocyte Differentiation, WPI Immunology Frontier Research
+Center, and Graduate School of Frontier Biosciences, Osaka University, 3-1
+Yamada-oka, Suita, Osaka 565-0871, Japan; Laboratory for Lymphocyte
+Differentiation, RIKEN Center for Integrative Medical Sciences (IMS), Tsurumi-ku,
+Yokohama, Kanagawa 230-0045, Japan. Electronic address:
+kurosaki@ifrec.osaka-u.ac.jp.
+
+Long-lived plasma cells, which mostly reside in the bone marrow have been shown
+to be vital for protection from recurrent infections. Recent gene-targeting and
+cell-ablation experiments have solidified the concept that their survival depends
+on both cell-intrinsic programs and extrinsic factors. The BTB transcription
+factor ZBTB20, which is expressed at high levels in long-lived plasma cells, is
+critical for their survival. On the other hand, eosinophils, megakaryocytes and
+monocytes function to establish a niche for long-lived plasma cells by secreting 
+cytokines and growth factors such as APRIL and IL6.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+PMID: 25677584  [PubMed - indexed for MEDLINE]
+
+
+8. J Transl Med. 2015 Jan 27;13:24. doi: 10.1186/s12967-015-0383-6.
+
+Berberine ameliorates nonalcoholic fatty liver disease by a global modulation of 
+hepatic mRNA and lncRNA expression profiles.
+
+Yuan X(1), Wang J(2), Tang X(3), Li Y(4), Xia P(5), Gao X(6).
+
+Author information: 
+(1)Department of Endocrinology and Metabolism, Zhongshan Hospital, Fudan
+University, Shanghai, China. yuanxinlu1982@126.com. (2)Key Laboratory of Systems 
+Biology, Shanghai Institutes for Biological Sciences, University of Chinese
+Academy of Sciences, Shanghai, China. msswjw@163.com. (3)Key Laboratory of
+Systems Biology, Shanghai Institutes for Biological Sciences, University of
+Chinese Academy of Sciences, Shanghai, China. tangxy@sibs.ac.cn. (4)Key
+Laboratory of Systems Biology, Shanghai Institutes for Biological Sciences,
+University of Chinese Academy of Sciences, Shanghai, China. yxli@sibs.ac.cn.
+(5)Department of Endocrinology and Metabolism, Zhongshan Hospital, Fudan
+University, Shanghai, China. xiapu_fudan@163.com. (6)Department of Endocrinology 
+and Metabolism, Zhongshan Hospital, Fudan University, Shanghai, China.
+happy20061208@126.com.
+
+BACKGROUND: Nonalcoholic fatty liver disease (NAFLD) is a common liver disorder
+that currently lacks effective treatment. Berberine (BBR), a botanic compound
+isolated from traditional Chinese medicine, exhibits a potent therapeutic
+potential for the metabolic disease. The current study aimed to understand the
+mechanisms underlying the therapeutic effect of BBR in NAFLD.
+METHODS: We performed systematical analyses on hepatic expression profiles of
+mRNAs and long noncoding RNAs (lncRNAs) in a high-fat diet (HFD)-induced
+steatotic animal model with or without BBR treatment. The study was conducted by 
+using the methods of bioinformatics, including hierarchical clustering, gene
+enrichment and gene co-expression networks analysis. The effect of BBR on the
+expression profile of some interesting genes was confirmed by quantitative RT-PCR
+and further studied in a human hepatic cell line, Huh7.
+RESULTS: We found that a large group of genes including 881 mRNAs and 538 lncRNAs
+whose expression in the steatotic liver was reversed by BBR treatment, suggesting
+a global effect of BBR in modulating hepatic gene expression profiles. Among the 
+BBR-regulated genes, we identified several modules and numerous significant genes
+that were associated with liver metabolism and NAFLD-related functions.
+Specifically, a conserved lncRNA, MRAK052686, was found strongly correlated with 
+the antioxidant factor Nrf2, and both genes were down-regulated by the steatotic 
+liver. Moreover, the reduced expression of MRAK052686 and Nrf2 was completely
+reversed by BBR treatment, suggesting a new mechanism accounting for the
+therapeutic effect of BBR.
+CONCLUSIONS: The findings for the first time provide a new genetic insight into
+the pharmaceutical mechanism of BBR in protecting against NAFLD.
+
+PMCID: PMC4316752
+PMID: 25623289  [PubMed - indexed for MEDLINE]
+
+
+9. Development. 2015 Jan 15;142(2):385-93. doi: 10.1242/dev.108530.
+
+Zbtb20 regulates the terminal differentiation of hypertrophic chondrocytes via
+repression of Sox9.
+
+Zhou G(1), Jiang X(1), Zhang H(1), Lu Y(2), Liu A(3), Ma X(2), Yang G(4), Yang
+R(2), Shen H(5), Zheng J(6), Hu Y(7), Yang X(4), Zhang WJ(8), Xie Z(9).
+
+Author information: 
+(1)Department of Pathophysiology, Second Military Medical University, Shanghai
+200433, China Department of Pathophysiology, Second Military Medical University, 
+Shanghai 200433, China. (2)Department of Pathophysiology, Second Military Medical
+University, Shanghai 200433, China. (3)Department of Pathophysiology, Second
+Military Medical University, Shanghai 200433, China Department of Cell Biology,
+Second Military Medical University, Shanghai 200433, China. (4)Genetic Laboratory
+of Development and Diseases, Institute of Biotechnology, Beijing 100071, China.
+(5)Department of Orthopedics, Changhai Hospital, Shanghai 200433, China.
+(6)Department of Pathology, Changhai Hospital, Shanghai 200433, China.
+(7)Department of Cell Biology, Second Military Medical University, Shanghai
+200433, China. (8)Department of Pathophysiology, Second Military Medical
+University, Shanghai 200433, China wzhang@smmu.edu.cn xiezf@smmu.edu.cn.
+(9)Department of Pathophysiology, Second Military Medical University, Shanghai
+200433, China Department of Cell Biology, Second Military Medical University,
+Shanghai 200433, China wzhang@smmu.edu.cn xiezf@smmu.edu.cn.
+
+The terminal differentiation of hypertrophic chondrocytes is a tightly regulated 
+process that plays a pivotal role in endochondral ossification. As a negative
+regulator, Sox9 is essentially downregulated in terminally differentiated
+hypertrophic chondrocytes. However, the underlying mechanism of Sox9 silencing is
+undefined. Here we show that the zinc finger protein Zbtb20 regulates the
+terminal differentiation of hypertrophic chondrocytes by repressing Sox9. In the 
+developing skeleton of the mouse, Zbtb20 protein is highly expressed by
+hypertrophic chondrocytes from late embryonic stages. To determine its
+physiological role in endochondral ossification, we have generated
+chondrocyte-specific Zbtb20 knockout mice and demonstrate that disruption of
+Zbtb20 in chondrocytes results in delayed endochondral ossification and postnatal
+growth retardation. Zbtb20 deficiency caused a delay in cartilage vascularization
+and an expansion of the hypertrophic zone owing to reduced expression of Vegfa in
+the hypertrophic zone. Interestingly, Sox9, a direct suppressor of Vegfa
+expression, was ectopically upregulated at both mRNA and protein levels in the
+late Zbtb20-deficient hypertrophic zone. Furthermore, knockdown of Sox9 greatly
+increased Vegfa expression in Zbtb20-deficient hypertrophic chondrocytes. Our
+findings point to Zbtb20 as a crucial regulator governing the terminal
+differentiation of hypertrophic chondrocytes at least partially through
+repression of Sox9.
+
+© 2015. Published by The Company of Biologists Ltd.
+
+PMID: 25564625  [PubMed - indexed for MEDLINE]
+
+
+10. Sci Rep. 2014 Nov 14;4:7062. doi: 10.1038/srep07062.
+
+Specific deficiency of Plzf paralog, Zbtb20, in Sertoli cells does not affect
+spermatogenesis and fertility in mice.
+
+Jiang X(1), Zhang H(1), Yin S(1), Zhang Y(1), Yang W(1), Zheng W(1), Wang L(1),
+Wang Z(1), Bukhari I(1), Cooke HJ(2), Iqbal F(1), Shi Q(1).
+
+Author information: 
+(1)Laboratory of Molecular and Cell Genetics, CAS Key Laboratory of Innate
+Immunity and Chronic Disease, CAS Hefei Institutes of Physical Science, Hefei
+National Laboratory for Physical Sciences at Microscale, School of Life Sciences,
+University of Science &Technology of China, Hefei, China. (2)1] Laboratory of
+Molecular and Cell Genetics, CAS Key Laboratory of Innate Immunity and Chronic
+Disease, CAS Hefei Institutes of Physical Science, Hefei National Laboratory for 
+Physical Sciences at Microscale, School of Life Sciences, University of Science
+&Technology of China, Hefei, China [2] MRC Human Genetics Unit and Institute of
+Genetics and Molecular Medicine, University of Edinburgh, Edinburgh, United
+Kingdom.
+
+Ztbt20 is a POK family transcription factor and primarily functions through its
+conserved C2H2 Krüppel type zinc finger and BTB/POZ domains. The present study
+was designed to define the function of the Zbtb20, in vivo, during mouse
+spermatogenesis. Immunohistochemical studies revealed that ZBTB20 protein was
+localized specifically in the nuclei of Sertoli cells in seminiferous tubules. To
+investigate its role during spermatogenesis, we crossed Amh-Cre transgenic mice
+with Zbtb20 floxp mice to generate conditionally knockout mice (cKO) in which
+Zbtb20 was specifically deleted in Sertoli cells. The cKO mice were fertile and
+did not show any detectable abnormalities in spermatogenesis. Taken together,
+though specific deletion of transcription factor Zbtb20 in Sertoli cells has no
+apparent influence on spermatogenesis, its specific localization in Sertoli cells
+makes Zbtb20 a useful marker for the identification of Sertoli cells in
+seminiferous tubules.
+
+PMCID: PMC4231391
+PMID: 25395169  [PubMed - indexed for MEDLINE]
+
+
+11. Nat Commun. 2014 Nov 5;5:4984. doi: 10.1038/ncomms5984.
+
+ZBTB20 regulates nociception and pain sensation by modulating TRP channel
+expression in nociceptive sensory neurons.
+
+Ren AJ(1), Wang K(1), Zhang H(1), Liu A(2), Ma X(1), Liang Q(1), Cao D(1), Wood
+JN(3), He DZ(4), Ding YQ(5), Yuan WJ(6), Xie Z(2), Zhang WJ(1).
+
+Author information: 
+(1)Department of Pathophysiology, Second Military Medical University, Shanghai
+200433, China. (2)1] Department of Pathophysiology, Second Military Medical
+University, Shanghai 200433, China [2] Department of Cell Biology, Second
+Military Medical University, Shanghai 200433, China. (3)Biology Department,
+University College London, Gower Street, London WC1E 6BT, UK. (4)Department of
+Biomedical Sciences, Creighton University School of Medicine, Omaha, Nebraska
+68102, USA. (5)Department of Anatomy and Neurobiology, Tongji University School
+of Medicine, Shanghai 200092, China. (6)Department of Physiology and
+Neurobiology, Key Lab of Ministry of Education in Fertility Preservation and
+Maintenance, Ningxia Medical University, Yinchuan 750004, China.
+
+In mammals, pain sensation is initiated by the detection of noxious stimuli
+through specialized transduction ion channels and receptors in nociceptive
+sensory neurons. Transient receptor potential (TRP) channels are the key sensory 
+transducers that confer nociceptors distinct sensory modalities. However, the
+regulatory mechanisms about their expression are poorly defined. Here we show
+that the zinc-finger protein ZBTB20 regulates TRP channels expression in
+nociceptors. ZBTB20 is highly expressed in nociceptive sensory neurons of dorsal 
+root ganglia. Disruption of ZBTB20 in nociceptors led to a marked decrease in the
+expression levels of TRPV1, TRPA1 and TRPM8 and the response of calcium flux and 
+whole-cell currents evoked by their respective specific agonists. Phenotypically,
+the mice lacking ZBTB20 specifically in nociceptors showed a defect in
+nociception and pain sensation in response to thermal, mechanical and
+inflammatory stimulation. Our findings point to ZBTB20 as a critical regulator of
+nociception and pain sensation by modulating TRP channels expression in
+nociceptors.
+
+PMID: 25369838  [PubMed - indexed for MEDLINE]
+
+
+12. FEBS Lett. 2014 Dec 20;588(24):4536-42. doi: 10.1016/j.febslet.2014.10.005. Epub 
+2014 Oct 13.
+
+Zinc finger protein ZBTB20 promotes cell proliferation in non-small cell lung
+cancer through repression of FoxO1.
+
+Zhao JG(1), Ren KM(2), Tang J(2).
+
+Author information: 
+(1)Department of Thoracic Surgery, Shengjing Hospital of China Medical
+University, Shenyang 110004, Liaoning Province, China. Electronic address:
+Zjungang_12@163.com. (2)Department of Thoracic Surgery, Shengjing Hospital of
+China Medical University, Shenyang 110004, Liaoning Province, China.
+
+In the present study, we found that ZBTB20, a member of the POK (POZ and Krüppel)
+family of transcriptional repressors, was significantly up-regulated in lung
+cancer tissues, compared with adjacent normal tissues. Our in vitro studies
+further found that ZBTB20 overexpression promoted, while its inhibition using
+small interfering RNA suppressed cell proliferation. Consistently, key regulators
+in cell-cycle progression, such as Cyclin D1, Cyclin E, P21 and P27, were also
+regulated by ZBTB20. At the molecular level, we further revealed that FoxO1, a
+tumor suppressor in multiple human cancers, was transcriptionally repressed by
+ZBTB20. Therefore, our results highlight an important role for ZBTB20 in
+controlling NSCLC development, which might be helpful to identify potential
+therapeutic targets for its treatment.
+
+Copyright © 2014 Federation of European Biochemical Societies. Published by
+Elsevier B.V. All rights reserved.
+
+PMID: 25311537  [PubMed - indexed for MEDLINE]
+
+
+13. J Med Genet. 2014 Sep;51(9):605-13. doi: 10.1136/jmedgenet-2014-102535. Epub 2014
+Jul 25.
+
+Neurodevelopmental disorders associated with dosage imbalance of ZBTB20 correlate
+with the morbidity spectrum of ZBTB20 candidate target genes.
+
+Rasmussen MB(1), Nielsen JV(2), Lourenço CM(3), Melo JB(4), Halgren C(1), Geraldi
+CV(3), Marques W Jr(3), Rodrigues GR(3), Thomassen M(5), Bak M(1), Hansen C(1),
+Ferreira SI(6), Venâncio M(7), Henriksen KF(1), Lind-Thomsen A(1), Carreira
+IM(4), Jensen NA(2), Tommerup N(1).
+
+Author information: 
+(1)Department of Cellular and Molecular Medicine, Faculty of Health Sciences,
+Wilhelm Johannsen Centre for Functional Genome Research, University of
+Copenhagen, Copenhagen, Denmark. (2)Department of Neurobiology Research,
+Institute of Molecular Medicine, University of Southern Denmark, Odense C,
+Denmark. (3)Neurogenetics Unit, Department of Neuroscience and Behavioral
+Sciences, Ribeirão Preto Medical School, University of São Paulo, Ribeirão
+Preto-São Paulo, Brazil. (4)Laboratório de Citogenética e Genómica and CIMAGO,
+Faculdade de Medicina, Universidade de Coimbra, Coimbra, Portugal. (5)Department 
+of Clinical Genetics, Odense University Hospital, Odense C, Denmark.
+(6)Laboratório de Citogenética e Genómica, Faculdade de Medicina, Universidade de
+Coimbra, Coimbra, Portugal. (7)Serviço de Genética Médica, Centro Hospitalar e
+Universitário de Coimbra, Coimbra, Portugal Faculdade de Medicina, Universidade
+de Coimbra, Coimbra, Portugal.
+
+BACKGROUND: Recently, a number of patients have been described with structural
+rearrangements at 3q13.31, delineating a novel microdeletion syndrome with common
+clinical features including developmental delay and other neurodevelopmental
+disorders (NDD). A smallest region of overlapping deletions (SRO) involved five
+RefSeq genes, including the transcription factor gene ZBTB20 and the dopamine
+receptor gene DRD3, considered as candidate genes for the syndrome.
+METHODS AND RESULTS: We used array comparative genomic hybridization and
+next-generation mate-pair sequencing to identify key structural rearrangements
+involving ZBTB20 in two patients with NDD. In a patient with developmental delay,
+attention-deficit hyperactivity disorder, psychosis, Tourette's syndrome and
+autistic traits, a de novo balanced t(3;18) translocation truncated ZBTB20. The
+other breakpoint did not disrupt any gene. In a second patient with developmental
+delay and autism, we detected the first microdeletion at 3q13.31, which truncated
+ZBTB20 but did not involve DRD3 or the other genes within the previously defined 
+SRO. Zbtb20 directly represses 346 genes in the developing murine brain. Of the
+342 human orthologous ZBTB20 candidate target genes, we found 68 associated with 
+NDD. Using chromatin immunoprecipitation and quantitative PCR, we validated the
+in vivo binding of Zbtb20 in evolutionary conserved regions in six of these genes
+(Cntn4, Gad1, Nrxn1, Nrxn3, Scn2a, Snap25).
+CONCLUSIONS: Our study links dosage imbalance of ZBTB20 to a range of
+neurodevelopmental, cognitive and psychiatric disorders, likely mediated by
+dysregulation of multiple ZBTB20 target genes, and provides new knowledge on the 
+genetic background of the NDD seen in the 3q13.31 microdeletion syndrome.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not
+already granted under a licence) please go to
+http://group.bmj.com/group/rights-licensing/permissions.
+
+PMID: 25062845  [PubMed - indexed for MEDLINE]
+
+
+14. Nat Genet. 2014 Aug;46(8):815-7. doi: 10.1038/ng.3035. Epub 2014 Jul 13.
+
+Mutations in ZBTB20 cause Primrose syndrome.
+
+Cordeddu V(1), Redeker B(2), Stellacci E(3), Jongejan A(4), Fragale A(5), Bradley
+TE(6), Anselmi M(7), Ciolfi A(3), Cecchetti S(8), Muto V(3), Bernardini L(9),
+Azage M(10), Carvalho DR(11), Espay AJ(12), Male A(13), Molin AM(14), Posmyk
+R(15), Battisti C(16), Casertano A(17), Melis D(17), van Kampen A(4), Baas F(6), 
+Mannens MM(18), Bocchinfuso G(7), Stella L(7), Tartaglia M(1), Hennekam RC(19).
+
+Author information: 
+(1)1] Dipartimento di Ematologia, Oncologia e Medicina Molecolare, Istituto
+Superiore di Sanità, Rome, Italy. [2]. (2)1] Department of Clinical Genetics,
+Academic Medical Center, University of Amsterdam, Amsterdam, the Netherlands.
+[2]. (3)Dipartimento di Ematologia, Oncologia e Medicina Molecolare, Istituto
+Superiore di Sanità, Rome, Italy. (4)Department of Clinical Epidemiology,
+Biostatistics and Bioinformatics, Academic Medical Center, University of
+Amsterdam, Amsterdam, the Netherlands. (5)Dipartimento di Malattie Infettive,
+Parassitarie e Immunomediate, Istituto Superiore di Sanità, Rome, Italy.
+(6)Department of Genome Analysis, Academic Medical Center, University of
+Amsterdam, Amsterdam, the Netherlands. (7)Dipartimento di Scienze e Tecnologie
+Chimiche, Università 'Tor Vergata', Rome, Italy. (8)Dipartimento di Biologia
+Cellulare e Neuroscienze, Istituto Superiore di Sanità, Rome, Italy.
+(9)Laboratorio Mendel, Fondazione Casa Sollievo della Sofferenza, San Giovanni
+Rotondo, Italy. (10)Department of Medical Genetics, Children's Hospital of
+Pittsburgh, Pittsburgh, Pennsylvania, USA. (11)Medical Genetic Unit, SARAH
+Network of Rehabilitation Hospitals, Brasilia, Brazil. (12)Department of
+Neurology, University of Cincinnati, Gardner Family Center for Parkinson's
+Disease and Movement Disorders, Cincinnati, Ohio, USA. (13)Clinical Genetics
+Department, Great Ormond Street Hospital for Children National Health Service
+(NHS) Foundation Trust, London, UK. (14)Department of Animal Breeding and
+Genetics, Swedish University of Agricultural Sciences, Uppsala, Sweden.
+(15)Podlaskie Center of Clinical Genetics, Bialystok, Poland. (16)Dipartimento di
+Scienze Neurologiche, Neurochirurgiche e del Comportamento, Università degli
+Studi di Siena, Policlinico Le Scotte, Siena, Italy. (17)Dipartimento di
+Pediatria, Facoltà di Medicina e Chirurgia, Università 'Federico II', Naples,
+Italy. (18)Department of Pediatrics, Academic Medical Center, University of
+Amsterdam, Amsterdam, the Netherlands. (19)1] Department of Clinical Genetics,
+Academic Medical Center, University of Amsterdam, Amsterdam, the Netherlands. [2]
+Department of Pediatrics, Academic Medical Center, University of Amsterdam,
+Amsterdam, the Netherlands. [3].
+
+Primrose syndrome and 3q13.31 microdeletion syndrome are clinically related
+disorders characterized by tall stature, macrocephaly, intellectual disability,
+disturbed behavior and unusual facial features, with diabetes, deafness,
+progressive muscle wasting and ectopic calcifications specifically occurring in
+the former. We report that missense mutations in ZBTB20, residing within the
+3q13.31 microdeletion syndrome critical region, underlie Primrose syndrome. This 
+finding establishes a genetic link between these disorders and delineates the
+impact of ZBTB20 dysregulation on development, growth and metabolism.
+
+PMID: 25017102  [PubMed - indexed for MEDLINE]
+
+
+15. Cancer. 2014 Oct 1;120(19):3040-8. doi: 10.1002/cncr.28792. Epub 2014 Jun 24.
+
+Genetic and intermediate phenotypic susceptibility markers of gastric cancer in
+Hispanic Americans: a case-control study.
+
+Sun Y(1), Gu J, Ajani JA, Chang DW, Wu X, Stroehlein JR.
+
+Author information: 
+(1)Department of Epidemiology, The University of Texas MD Anderson Cancer Center,
+Houston, Texas; Department of Obstetrics and Gynecology, The First Affiliated
+Hospital of Harbin Medical University, Harbin, China.
+
+BACKGROUND: Hispanics are the largest nonwhite ethnic group in the US population,
+and they have higher incidence and mortality rates for gastric cancer (GC) than
+whites and Asians. Studies have identified several genetic susceptibility loci
+and intermediate phenotypic biomarkers for GC in whites and Asians. No studies
+have evaluated genetic susceptibility and intermediate phenotypic biomarkers in
+Hispanics.
+METHODS: In a case-control study of 132 Hispanic patients with GC (cases) and a
+control group of 125 Hispanics (controls), the authors evaluated the association 
+of 5 single nucleotide polymorphisms (SNPs) that predispose whites and/or Asians 
+to GC and of 2 intermediate phenotypic markers in peripheral blood leukocytes,
+ie, telomere length and mitochondrial DNA (mtDNA) copy number, with the GC risk.
+RESULTS: The variant C allele of the reference SNP rs2294008 in the PSCA gene was
+associated with a significantly reduced risk of GC (per allele-adjusted odds
+ratio [aOR], 0.51; 95% confidence interval [CI], 0.33-0.77; P =<U+2009>.002). Leukocyte 
+mtDNA copy numbers were significantly lower in GC cases (mean ± standard
+deviation, 0.91 ± 0.28) than in controls (1.29 ± 0.42; P <<U+2009>.001). When
+individuals were dichotomized into high and low mtDNA copy number groups based on
+the median mtDNA copy number value in the controls, those who had a low mtDNA
+copy number had a significantly increased risk of GC (aOR, 11.00; 95% CI,
+4.79-25.23; P <<U+2009>.001) compared with those who had a high mtDNA copy number.
+Telomere length was not associated significantly with the risk of GC (aOR, 1.21; 
+95% CI, 0.65-2.27; P =<U+2009>.551).
+CONCLUSIONS: Hispanics share certain genetic susceptibility loci and intermediate
+phenotypic GC biomarkers with whites and Asians and may also have distinct
+genetic susceptibility factors.
+
+© 2014 American Cancer Society.
+
+PMID: 24962126  [PubMed - indexed for MEDLINE]
+
+
+16. J Exp Med. 2014 May 5;211(5):744. doi: 10.1084/jem.2115insight1.
+
+Programming plasma cell survival.
+
+Klein U(1).
+
+Author information: 
+(1)Columbia University.
+
+Comment on
+    J Exp Med. 2014 May 5;211(5):841-56.
+    J Exp Med. 2014 May 5;211(5):827-40.
+
+PMCID: PMC4010909
+PMID: 24799529  [PubMed - indexed for MEDLINE]
+
+
+17. J Exp Med. 2014 May 5;211(5):827-40. doi: 10.1084/jem.20131831. Epub 2014 Apr 7.
+
+The BTB-ZF transcription factor Zbtb20 is driven by Irf4 to promote plasma cell
+differentiation and longevity.
+
+Chevrier S(1), Emslie D, Shi W, Kratina T, Wellard C, Karnowski A, Erikci E,
+Smyth GK, Chowdhury K, Tarlinton D, Corcoran LM.
+
+Author information: 
+(1)Molecular Immunology Division, 2 Bioinformatics Division, 3 Immunology
+Division, The Walter and Eliza Hall Institute, Parkville, Victoria 3052,
+Australia.
+
+Comment in
+    J Exp Med. 2014 May 5;211(5):744.
+
+The transcriptional network regulating antibody-secreting cell (ASC)
+differentiation has been extensively studied, but our current understanding is
+limited. The mechanisms of action of known "master" regulators are still unclear,
+while the participation of new factors is being revealed. Here, we identify
+Zbtb20, a Bcl6 homologue, as a novel regulator of late B cell development. Within
+the B cell lineage, Zbtb20 is specifically expressed in B1 and germinal center B 
+cells and peaks in long-lived bone marrow (BM) ASCs. Unlike Bcl6, an inhibitor of
+ASC differentiation, ectopic Zbtb20 expression in primary B cells facilitates
+terminal B cell differentiation to ASCs. In plasma cell lines, Zbtb20 induces
+cell survival and blocks cell cycle progression. Immunized Zbtb20-deficient mice 
+exhibit curtailed humoral responses and accelerated loss of antigen-specific
+plasma cells, specifically from the BM pool. Strikingly, Zbtb20 induction does
+not require Blimp1 but depends directly on Irf4, acting at a newly identified
+Zbtb20 promoter in ASCs. These results identify Zbtb20 as an important player in 
+late B cell differentiation and provide new insights into this complex process.
+
+PMCID: PMC4010913
+PMID: 24711583  [PubMed - indexed for MEDLINE]
+
+
+18. J Exp Med. 2014 May 5;211(5):841-56. doi: 10.1084/jem.20131821. Epub 2014 Apr 7.
+
+Adjuvant-specific regulation of long-term antibody responses by ZBTB20.
+
+Wang Y(1), Bhattacharya D.
+
+Author information: 
+(1)Department of Pathology and Immunology, Washington University in St. Louis
+School of Medicine, St. Louis, MO 63110.
+
+Comment in
+    J Exp Med. 2014 May 5;211(5):744.
+
+The duration of antibody production by long-lived plasma cells varies with the
+type of immunization, but the basis for these differences is unknown. We
+demonstrate that plasma cells formed in response to the same immunogen engage
+distinct survival programs depending on the adjuvant. After alum-adjuvanted
+immunization, antigen-specific bone marrow plasma cells deficient in the
+transcription factor ZBTB20 failed to accumulate over time, leading to a
+progressive loss of antibody production relative to wild-type controls. Fetal
+liver reconstitution experiments demonstrated that the requirement for ZBTB20 was
+B cell intrinsic. No defects were observed in germinal center numbers, affinity
+maturation, or plasma cell formation or proliferation in ZBTB20-deficient
+chimeras. However, ZBTB20-deficient plasma cells expressed reduced levels of MCL1
+relative to wild-type controls, and transgenic expression of BCL2 increased serum
+antibody titers. These data indicate a role for ZBTB20 in promoting survival in
+plasma cells. Strikingly, adjuvants that activate TLR2 and TLR4 restored
+long-term antibody production in ZBTB20-deficient chimeras through the induction 
+of compensatory survival programs in plasma cells. Thus, distinct lifespans are
+imprinted in plasma cells as they are formed, depending on the primary activation
+conditions. The durability of vaccines may accordingly be improved through the
+selection of appropriate adjuvants.
+
+PMCID: PMC4010912
+PMID: 24711582  [PubMed - indexed for MEDLINE]
+
+
+19. Genome Biol. 2014 Apr 2;15(4):R56. doi: 10.1186/gb-2014-15-4-r56.
+
+Hypermethylation in the ZBTB20 gene is associated with major depressive disorder.
+
+Davies MN, Krause L, Bell JT, Gao F, Ward KJ, Wu H, Lu H, Liu Y, Tsai PC, Collier
+DA, Murphy T, Dempster E, Mill J; UK Brain Expression Consortium, Battle A,
+Mostafavi S, Zhu X, Henders A, Byrne E, Wray NR, Martin NG, Spector TD, Wang J.
+
+BACKGROUND: Although genetic variation is believed to contribute to an
+individual's susceptibility to major depressive disorder, genome-wide association
+studies have not yet identified associations that could explain the full etiology
+of the disease. Epigenetics is increasingly believed to play a major role in the 
+development of common clinical phenotypes, including major depressive disorder.
+RESULTS: Genome-wide MeDIP-Sequencing was carried out on a total of 50
+monozygotic twin pairs from the UK and Australia that are discordant for
+depression. We show that major depressive disorder is associated with significant
+hypermethylation within the coding region of ZBTB20, and is replicated in an
+independent cohort of 356 unrelated case-control individuals. The twins with
+major depressive disorder also show increased global variation in methylation in 
+comparison with their unaffected co-twins. ZBTB20 plays an essential role in the 
+specification of the Cornu Ammonis-1 field identity in the developing
+hippocampus, a region previously implicated in the development of major
+depressive disorder.
+CONCLUSIONS: Our results suggest that aberrant methylation profiles affecting the
+hippocampus are associated with major depressive disorder and show the potential 
+of the epigenetic twin model in neuro-psychiatric disease.
+
+PMCID: PMC4072999
+PMID: 24694013  [PubMed - indexed for MEDLINE]
+
+
+20. Mol Cytogenet. 2014 Mar 20;7(1):23. doi: 10.1186/1755-8166-7-23.
+
+Adult expression of a 3q13.31 microdeletion.
+
+Lowther C, Costain G, Melvin R, Stavropoulos DJ, Lionel AC, Marshall CR, Scherer 
+SW, Bassett AS(1).
+
+Author information: 
+(1)Clinical Genetics Research Program, Centre for Addiction and Mental Health,
+Toronto, ON, Canada. anne.bassett@utoronto.ca.
+
+BACKGROUND: The emerging 3q13.31 microdeletion syndrome appears to encompass
+diverse neurodevelopmental conditions. However, the 3q13.31 deletion is rare and 
+few adult cases have yet been reported. We examined a cohort with schizophrenia
+(n<U+2009>=<U+2009>459) and adult control subjects (n<U+2009>=<U+2009>26,826) using high-resolution
+microarray technology for deletions and duplications at the 3q13.31 locus.
+RESULTS: We report on the extended adult phenotype associated with a 3q13.31
+microdeletion in a 41-year-old male proband with schizophrenia and a nonverbal
+learning disability. He was noted to have a speech impairment, delayed motor
+skills, and other features consistent with the 3q13.31 microdeletion syndrome.
+The 2.06 Mb deletion overlapped two microRNAs and seven RefSeq genes, including
+GAP43, LSAMP, DRD3, and ZBTB20. No overlapping 3q13.31 deletions or duplications 
+were identified in control subjects.
+CONCLUSIONS: Later-onset conditions like schizophrenia are increasingly
+associated with rare copy number variations and associated genomic disorders like
+the 3q13.31 microdeletion syndrome. Detailed phenotype information across the
+lifespan facilitates genotype-phenotype correlations, accurate genetic
+counselling, and anticipatory care.
+
+PMCID: PMC4022390
+PMID: 24650298  [PubMed]
+
+
+21. Hepatobiliary Pancreat Dis Int. 2014 Feb;13(1):48-54.
+
+ZBTB20 is involved in liver regeneration after partial hepatectomy in mouse.
+
+Weng MZ(1), Zhuang PY, Hei ZY, Lin PY, Chen ZS, Liu YB, Quan ZW, Tang ZH.
+
+Author information: 
+(1)Department of General Surgery, Xinhua Hospital, Shanghai Jiaotong University
+School of Medicine, Shanghai 200092, China. tangzhaohui@yahoo.com.
+
+BACKGROUND: A better understanding of the molecular mechanisms in liver
+regeneration holds promise for exploring the new potential therapy for liver
+failure. The present study was to investigate the role of zinc finger and BTB
+domain-containing protein 20 (ZBTB20), a potential factor associated with liver
+regeneration, in a model of 70% hepatectomy in mice.
+METHODS: Parameters for liver proliferation such as liver/body ratio and BrdU
+positivity were obtained via direct measurement and immunohistochemistry. The
+levels of zinc fingers and homeoboxes 2 (ZHX2), ZBTB20, alpha-fetoprotein (AFP)
+and glypican 3 (GPC3) transcripts in the regenerating liver tissue of a 70%
+hepatectomy rodent model were monitored by real-time PCR analysis at different
+time points. Knockdown of ZBTB20 was performed to characterize its regulatory
+function.
+RESULTS: A negatively regulating relationship between ZHX2, ZBTB20 and AFP, GPC3 
+was revealed from 24 to 72 hours after 70% hepatectomy. ZBTB20 appears to
+negatively regulate AFP and GPC3 transcription since the knockdown of ZBTB20
+promoted the proliferation of hepatocytes and the expression of AFP and GPC3.
+CONCLUSION: In addition to AFP, GPC3 and ZHX2, ZBTB20 is a new regulator in liver
+regeneration and the decrease of ZBTB20 expression following 70% hepatectomy
+promotes AFP and GPC3 expression.
+
+PMID: 24463079  [PubMed - indexed for MEDLINE]
+
+
+22. Am J Med Genet A. 2014 Mar;164A(3):666-70. doi: 10.1002/ajmg.a.36346. Epub 2013
+Dec 20.
+
+Microduplication 3q13.2q13.31 identified in a male with dysmorphic features and
+multiple congenital anomalies.
+
+Karavitakis E(1), Kitsiou-Tzeli S, Xaidara A, Kosma K, Makrythanasis P, Apazidou 
+E, Kanavakis E, Tzetis M.
+
+Author information: 
+(1)Neonatal Special Care Unit, General Hospital of Chania, Crete, Greece.
+
+Constitutional microdeletions affecting 3q13.2q13.31 are rare and attempts for
+genotype-phenotype correlations have only recently been made in a cohort of 28
+patients. The major phenotypic features of this rare syndrome are hypotonia,
+developmental delay, and facial anomalies. In this study, we report on a male
+infant with a novel reciprocal 3.671<U+2009>Mb microduplication at the genomic region
+3q13.2q13.31 associated with dysmorphic features and multiple congenital
+anomalies. The current patient was investigated by high-resolution array
+comparative genomic hybridization (aCGH). This is the first report of a
+microduplication 3q13.2q13.31 that shares a lot of common clinical features with 
+those carrying the microdeletion. The 3q13.2q13.31 duplicated region in our
+patient contains nine dosage sensitive genes, amongst them the genes ATG3,
+CCDC80, KIAA2018, NAA50, ZDHHC23, DRD3, ZBTB20, GAP43, LSAMP. As it is the case
+for many other well-described reciprocal deletion/duplication syndromes, some
+have very different clinical features (Williams-Beuren deletion syndrome, WBS/WBS
+triplication) [Somerville et al. (2005); N Engl J Med 353:1694-1701], while
+others share similar phenotypic features (22q11.2 microdeletion/microduplication)
+[Portnoi (2009); Eur J Med Genet 52:88-93]. In conclusion, we describe the main
+phenotypic features of a possibly novel microduplication 3q13.2q13.31 syndrome.
+Additionally five of the dosage-sensitive genes and BOC gene are suggested to be 
+responsible for the main phenotypic features. Evaluation of multiple patients
+with the microduplication is needed for full delineation of this syndrome.
+
+© 2013 Wiley Periodicals, Inc.
+
+PMID: 24375959  [PubMed - indexed for MEDLINE]
+
+
+23. Mol Genet Metab. 2013 Sep-Oct;110(1-2):90-7. doi: 10.1016/j.ymgme.2013.07.013.
+Epub 2013 Jul 20.
+
+Expanding the clinical phenotype at the 3q13.31 locus with a new case of
+microdeletion and first characterization of the reciprocal duplication.
+
+Vuillaume ML(1), Delrue MA, Naudion S, Toutain J, Fergelot P, Arveiler B, Lacombe
+D, Rooryck C.
+
+Author information: 
+(1)CHU Bordeaux, Service de Génétique Médicale, Place Amélie Raba Léon, Bordeaux,
+France. marie-laure.vuillaume@chu-bordeaux.fr
+
+Congenital deletions at the 3q13.31 locus have been recently described as a novel
+microdeletion syndrome characterized by developmental delay, postnatal
+overgrowth, hypoplastic male genitalia and characteristic facial features. A
+common critical region of overlapping of 580kb was delineated including two
+strong candidate genes for developmental delay: DRD3 and ZBTB20. In this report, 
+we describe a new case of 3q13.31 microdeletion identified by array-CGH in a
+16year-old girl sharing clinical features commonly observed in the 3q13.31
+microdeletion syndrome. This girl had a microdeletion of 7.39Mb spanning the
+common critical region of overlapping. More interestingly, we report for the
+first time the existence of a microduplication reciprocal to the microdeletion
+syndrome. This familial 2.76Mb microduplication identified by array-CGH was
+carried by two brothers and their father. The phenotype shared by the brothers
+resembled the phenotype related to the 3q13.31 microdeletion syndrome including
+especially severe intellectual disability, developmental delay, behavioral
+abnormalities and obesity. This microduplication involves three strong candidate 
+genes for the developmental delay ZBTB20, LSAMP and GAP43. Further molecular
+characterization showed that DRD3, another strong candidate gene for
+developmental delay, was not included in the duplicated region. However, a dosage
+alteration of this gene cannot be completely excluded as the duplication was
+inverted at proximity of this gene, as revealed by FISH analysis. Finally, we
+hypothesized that the phenotype shared by the two brothers could be related to a 
+gene dosage imbalance even if gene expression could not be measured in relevant
+tissues such as brain or adipocytes.
+
+© 2013.
+
+PMID: 23920044  [PubMed - indexed for MEDLINE]
+
+
+24. Hum Mutat. 2013 Oct;34(10):1415-23. doi: 10.1002/humu.22384. Epub 2013 Aug 13.
+
+Recurrent HERV-H-mediated 3q13.2-q13.31 deletions cause a syndrome of hypotonia
+and motor, language, and cognitive delays.
+
+Shuvarikov A(1), Campbell IM, Dittwald P, Neill NJ, Bialer MG, Moore C, Wheeler
+PG, Wallace SE, Hannibal MC, Murray MF, Giovanni MA, Terespolsky D, Sodhi S,
+Cassina M, Viskochil D, Moghaddam B, Herman K, Brown CW, Beck CR, Gambin A,
+Cheung SW, Patel A, Lamb AN, Shaffer LG, Ellison JW, Ravnan JB, Stankiewicz P,
+Rosenfeld JA.
+
+Author information: 
+(1)Signature Genomic Laboratories, PerkinElmer, Inc, Spokane, Washington.
+
+We describe the molecular and clinical characterization of nine individuals with 
+recurrent, 3.4-Mb, de novo deletions of 3q13.2-q13.31 detected by chromosomal
+microarray analysis. All individuals have hypotonia and language and motor
+delays; they variably express mild to moderate cognitive delays (8/9), abnormal
+behavior (7/9), and autism spectrum disorders (3/9). Common facial features
+include downslanting palpebral fissures with epicanthal folds, a slightly bulbous
+nose, and relative macrocephaly. Twenty-eight genes map to the deleted region,
+including four strong candidate genes, DRD3, ZBTB20, GAP43, and BOC, with
+important roles in neural and/or muscular development. Analysis of the breakpoint
+regions based on array data revealed directly oriented human endogenous
+retrovirus (HERV-H) elements of ~5 kb in size and of >95% DNA sequence identity
+flanking the deletion. Subsequent DNA sequencing revealed different deletion
+breakpoints and suggested nonallelic homologous recombination (NAHR) between
+HERV-H elements as a mechanism of deletion formation, analogous to HERV-I-flanked
+and NAHR-mediated AZFa deletions. We propose that similar HERV elements may also 
+mediate other recurrent deletion and duplication events on a genome-wide scale.
+Observation of rare recurrent chromosomal events such as these deletions helps to
+further the understanding of mechanisms behind naturally occurring variation in
+the human genome and its contribution to genetic disease.
+
+© 2013 WILEY PERIODICALS, INC.
+
+PMCID: PMC4599348
+PMID: 23878096  [PubMed - indexed for MEDLINE]
+
+
+25. Mol Carcinog. 2013 Nov;52 Suppl 1:E155-60. doi: 10.1002/mc.22063. Epub 2013 Jul
+17.
+
+Genetic variations in the PRKAA1 and ZBTB20 genes and gastric cancer
+susceptibility in a Korean population.
+
+Song HR(1), Kim HN, Kweon SS, Choi JS, Shim HJ, Cho SH, Chung IJ, Park YK, Kim
+SH, Choi YD, Joo KW, Shin MH.
+
+Author information: 
+(1)Department of Preventive Medicine, Chonnam National University Medical School,
+Gwangju, Korea.
+
+A recent genome-wide association study (GWAS) identified new susceptibility
+single-nucleotide polymorphisms (SNPs) rs13361707 (PRKAA1 and PTGER4 gene on
+5p13.1) and rs9841504 (ZBTB20 gene on 3q13.31) that were significantly associated
+with non-cardia gastric cancer. The aim of this study was to determine whether
+rs13361707 and rs9841504 polymorphisms are associated with the risk of gastric
+cancer in a Korean population. We conducted a large-scale case-control study of
+3245 gastric cancer patients and 1700 controls. The allele frequencies for
+rs13361707 C and rs9841504 G were 53.5% and 18.3% among gastric cancer cases,
+compared with 47.1% and 17.2% among controls, respectively. We found that
+rs13361707 TC and CC genotypes were associated with increased risk for gastric
+cancer (odds ratios [OR] = 1.29; 95% confidence interval [CI] = 1.11-1.51 for TC 
+vs. TT and 1.68; 1.41-2.01 for CC vs. TT). However, we found no significant
+association between rs9841504 and gastric cancer risk (OR = 1.11; 0.97-1.28 for
+CG vs. CC; OR = 1.09; 0.77-1.53 for GG vs. CC). We observed no significant
+interactions between rs13361707 and rs9841504 polymorphisms and age, gender,
+smoking habit, alcohol consumption, and clinicopathologic characteristics such as
+anatomical tumor location and histological type. Our study showed that the
+rs13361707 polymorphism was associated with increased risk of gastric cancer in a
+Korean population. This finding provides further evidence that genetic variant of
+PRKAA1 and PTGER4 genes may contribute to the gastric carcinogenesis. However, we
+found no association between rs9841504 and gastric cancer risk.
+
+© 2013 Wiley Periodicals, Inc.
+
+PMID: 23861218  [PubMed - indexed for MEDLINE]
+
+
+26. Gene. 2013 Oct 10;528(2):261-6. doi: 10.1016/j.gene.2013.06.064. Epub 2013 Jul
+13.
+
+Regulation of cell proliferation and migration in gallbladder cancer by zinc
+finger X-chromosomal protein.
+
+Tan Z(1), Zhang S, Li M, Wu X, Weng H, Ding Q, Cao Y, Bao R, Shu Y, Mu J, Ding Q,
+Wu W, Yang J, Zhang L, Liu Y.
+
+Author information: 
+(1)Research Institute of Biliary Tract Disease, Affiliated to Shanghai Jiao Tong 
+University, School of Medicine, Shanghai, China.
+
+Gallbladder carcinoma (GBC) is one of the mostly aggressive and fatal
+malignancies. However, little is known about the oncogenic genes that contributed
+to the development of GBC. Zinc finger X-chromosomal protein (ZFX) was a novel
+member of the Krueppel C2H2-type zinc-finger protein family and its
+down-regulation led to impaired cell growth in human laryngeal squamous cell
+carcinoma. Here, we aim to investigate the function of ZFX in GBC cell
+proliferation and migration. Loss of function analysis was performed on GBC cell 
+line (GBC-SD) using lentivirus-mediated siRNA against ZFX. The proliferation, in 
+vitro tumorigenesis (colony-formation) ability as well as cell migration was
+significantly suppressed after GBC-SD cells which were infected with
+ZFX-siRNA-expressing lentivirus (Lv-shZFX). Our finding suggested that ZFX
+promoted the growth and migration of GBC cells and could present a potential
+molecular target for gene therapy of GBC.
+
+© 2013.
+
+PMID: 23860324  [PubMed - indexed for MEDLINE]
+
+
+27. Proc Natl Acad Sci U S A. 2013 Jul 2;110(27):11097-102. doi:
+10.1073/pnas.1301257110. Epub 2013 Jun 17.
+
+Zinc finger protein ZBTB20 promotes Toll-like receptor-triggered innate immune
+responses by repressing I<U+03BA>Ba gene transcription.
+
+Liu X(1), Zhang P, Bao Y, Han Y, Wang Y, Zhang Q, Zhan Z, Meng J, Li Y, Li N,
+Zhang WJ, Cao X.
+
+Author information: 
+(1)National Key Laboratory of Medical Immunology and Institute of Immunology,
+Second Military Medical University, Shanghai 200433, China.
+
+Toll-like receptor (TLR) signaling is critical in innate response against
+invading pathogens. However, the molecular mechanisms for full activation of
+TLR-triggered innate immunity need to be fully elucidated. The broad complex
+tramtrack bric-a-brac/poxvirus and zinc finger (BTB/POZ) family is a class of
+transcription factors involved in many biological processes. However, few BTB/POZ
+proteins were reported to function in innate immune response. Zinc finger and BTB
+domain-containing 20 (ZBTB20), a member of BTB/POZ family, functions in
+neurogenesis and represses a-fetoprotein gene transcription in liver. However,
+the immunological functions of ZBTB20 remain unknown. Here, we found that myeloid
+cell-specific ZBTB20 KO mice were resistant to endotoxin shock and Escherichia
+coli-caused sepsis. ZBTB20 deficiency attenuated TLR-triggered production of
+proinflammatory cytokines and type I IFN in macrophages, which attributed to
+higher abundance of I<U+03BA>Ba protein and impaired activity of NF-<U+03BA>B. Furthermore,
+ChIP and next generation high-throughput DNA sequencing assay showed that ZBTB20 
+specifically bound to I<U+03BA>Ba gene promoter (+1 to +60 region) after TLR activation.
+ZBTB20 could inhibit I<U+03BA>Ba gene transcription, govern I<U+03BA>Ba protein expression, and
+then promote NF-<U+03BA>B activation. Therefore, transcriptional repressor ZBTB20 is
+needed to promote full activation of TLR signaling and TLR-triggered innate
+immune response by selectively suppressing the suppressor I<U+03BA>Ba gene
+transcription.
+
+PMCID: PMC3704009
+PMID: 23776228  [PubMed - indexed for MEDLINE]
+
+
+28. Ann Rheum Dis. 2014 Jun;73(6):1240-5. doi: 10.1136/annrheumdis-2012-202675. Epub 
+2013 Jun 5.
+
+Ethnic specificity of lupus-associated loci identified in a genome-wide
+association study in Korean women.
+
+Lee HS(1), Kim T, Bang SY, Na YJ, Kim I, Kim K, Kim JH, Chung YJ, Shin HD, Kang
+YM, Shim SC, Suh CH, Park YB, Kim JS, Kang C, Bae SC.
+
+Author information: 
+(1)Department of Rheumatology, Hanyang University Hospital for Rheumatic
+Diseases, , Seoul, Korea.
+
+OBJECTIVES: To identify novel genetic candidates for systemic lupus erythematosus
+(SLE) in the Korean population, and to validate the risk loci for SLE identified 
+in previous genome-wide association studies (GWAS).
+METHODS: We performed a GWAS in 400 Korean female SLE patients and 445 controls. 
+Selected single-nucleotide polymorphisms (SNP) were then replicated in an
+independent cohort of 385 SLE patients and 583 controls (replication cohort 1),
+and in a further 811 SLE patients and 1502 controls (replication cohort 2).
+RESULTS: In the GWAS phase, rs9275428 located near HLA-DQB1 showed the strongest 
+association with SLE (OR 0.50, false discovery rate (FDR) p=3.07×10(-6)).
+Although no loci reached genome-wide significance outside major
+histocompatibility complex (MHC), C8orf13-BLK, STAT4, CSMD1, DIAPH3, GLDC and
+TNFSF4 showed FDR p<U+2009><<U+2009>0.05. Our results suggest that STAT4, BLK, IRF5,
+PTTG1-miR-146a, UBE2L3 and TNFAIP3 are shared susceptibility loci among
+Caucasians and Asians, while ETS1, IKZF1, SLC15A4 are likely to be Asian-specific
+loci. In a combined analysis of 1596 SLE patients and 2540 controls for selected 
+22 candidate SNP, STAT4 and BLK as positive controls showed a strong association 
+with SLE (FDR p=9.85×10(-13) and 2.28×10(-8), respectively). Of these, 16
+candidates (PEX5L, TRAJ50, MYO18B, SOS1, ARHGAP26, SMURF1, CADPS, HAND1, FAM78B, 
+DIAPH3, TBL1XR1, CSMD1, ZBTB20, C3orf21, HIPK1 and AP001042.1) showed only
+nominal significance (7.05×10(-4)=FDR p=4.38×10(-2)).
+CONCLUSIONS: There are similarities and differences in genetic susceptibility for
+SLE between Caucasian and Asian ethnic groups. Although 16 putative novel loci
+for SLE have been suggested in the Korean population, further research on a
+larger sample is required to discriminate truth from error.
+
+PMID: 23740238  [PubMed - indexed for MEDLINE]
+
+
+29. Pigment Cell Melanoma Res. 2013 Jul;26(4):487-98. doi: 10.1111/pcmr.12106. Epub
+2013 May 13.
+
+Genetic modulation of the iris transillumination defect: a systems genetics
+analysis using the expanded family of BXD glaucoma strains.
+
+Swaminathan S(1), Lu H, Williams RW, Lu L, Jablonski MM.
+
+Author information: 
+(1)Department of Ophthalmology, Hamilton Eye Institute, University of Tennessee
+Health Science Center, Memphis, TN, USA.
+
+We investigated the contributions of Tyrp1 and Gpnmb to the iris
+transillumination defect (TID) in five age cohorts of BXD mice. Using systems
+genetics, we also evaluated the role of other known pigmentation genes (PGs).
+Mapping studies indicate that Tyrp1 contributes to the phenotype at all ages, yet
+the TID maps to Gpnmb only in the oldest cohort. Composite interval mapping
+reveals secondary loci viz. Oca2, Myo5a, Prkcz, and Zbtb20 that modulate the
+phenotype in the age groups up to 10-13 months. The contributions of Tyrp1 and
+Gpnmb were highly significant in all age cohorts. Moreover, in young mice, all
+six gene candidates had substantial interactions in our model. Our model
+accounted for 71-88% of the explained variance of the TID phenotype across the
+age bins. These results demonstrate that along with Tyrp1 and Gpnmb, Oca2, Myo5a,
+Prkcz, and Zbtb20 modulate the TID in an age-dependent manner.
+
+© 2013 The Authors. Pigment Cell & Melanoma Research published by John Wiley &
+Sons Ltd.
+
+PMCID: PMC3752936
+PMID: 23582180  [PubMed - indexed for MEDLINE]
+
+
+30. Hepatol Res. 2013 Aug;43(8):820-5. doi: 10.1111/hepr.12052. Epub 2013 Jan 25.
+
+Recent topics on a-fetoprotein.
+
+Nakao K(1), Ichikawa T.
+
+Author information: 
+(1)Department of Gastroenterology and Hepatology, Graduate School of Biomedical
+Sciences, Nagasaki University, Nagasaki, Japan.
+
+Zinc-fingers and homeoboxes 2 (ZHX2) and zinc-finger and BTB domain containing 20
+(ZBTB20) repress the postnatal expression of a-fetoprotein (AFP) by interacting
+with the AFP gene promoter regions. ZHX2 inhibits the expression of AFP and
+cyclins A and E. ZBTB20 is negatively regulated by CUX1, which promotes
+cell-cycle progression, suggesting that AFP reactivation is closely linked to
+hepatocyte proliferation. A slight elevation in the serum AFP level often occurs 
+in patients with chronic hepatitis C in the absence of hepatocellular carcinoma
+(HCC) and is an independent risk factor for HCC development to complement the
+fibrosis stage. In addition, the sustained elevation of AFP after interferon
+therapy is a risk factor of HCC development. AFP levels are clinically useful in 
+predicting the outcomes of liver transplantation and sorafenib therapy for HCC
+patients. A low preoperative AFP level is a predictor of long-term survival and
+is associated with a low recurrence rate of HCC after liver transplantation. AFP 
+response (=20% decrease in AFP during 6-8 weeks of treatment) rather than
+radiological outcomes is a significant prognostic factor for survival in
+sorafenib-treated HCC patients. Highly sensitive Lens culinaris
+agglutinin-reactive AFP (AFP-L3) is 5-10 times more sensitive than conventional
+AFP-L3, and useful for early detection of HCC in patients with total AFP below
+20<U+2009>ng/mL.
+
+© 2013 The Japan Society of Hepatology.
+
+PMID: 23347387  [PubMed]
+
+
+31. Cereb Cortex. 2014 May;24(5):1216-29. doi: 10.1093/cercor/bhs400. Epub 2013 Jan
+2.
+
+Zbtb20 defines a hippocampal neuronal identity through direct repression of genes
+that control projection neuron development in the isocortex.
+
+Nielsen JV(1), Thomassen M, Møllgård K, Noraberg J, Jensen NA.
+
+Author information: 
+(1)Department of Neurobiology Research, Institute of Molecular Medicine,
+University of Southern Denmark, DK-5000 Odense C, Denmark.
+
+Hippocampal pyramidal neurons are important for encoding and retrieval of spatial
+maps and episodic memories. While previous work has shown that Zbtb20 is a cell
+fate determinant for CA1 pyramidal neurons, the regulatory mechanisms governing
+this process are not known. In this study, we demonstrate that Zbtb20 binds to
+genes that control neuronal subtype specification in the developing isocortex,
+including Cux1, Cux2, Fezf2, Foxp2, Mef2c, Rorb, Satb2, Sox5, Tbr1, Tle4, and
+Zfpm2. We show that Zbtb20 represses these genes during ectopic CA1 pyramidal
+neuron development in transgenic mice. These data reveal a novel regulatory
+mechanism by which Zbtb20 suppresses the acquisition of an isocortical fate
+during archicortical neurogenesis to ensure commitment to a CA1 pyramidal neuron 
+fate. We further show that the expression pattern of Zbtb20 is evolutionary
+conserved in the fetal human hippocampus, where it is complementary to the
+expression pattern of the Zbtb20 target gene Tbr1. Therefore, the disclosed
+Zbtb20-mediated transcriptional repressor mechanism may be involved in
+development of the human archicortex.
+
+PMID: 23283686  [PubMed - indexed for MEDLINE]
+
+
+32. Proc Natl Acad Sci U S A. 2012 Dec 18;109(51):21122-7. doi:
+10.1073/pnas.1215366110. Epub 2012 Dec 3.
+
+In vivo localization and identification of SUMOylated proteins in the brain of
+His6-HA-SUMO1 knock-in mice.
+
+Tirard M(1), Hsiao HH, Nikolov M, Urlaub H, Melchior F, Brose N.
+
+Author information: 
+(1)Department of Molecular Neurobiology, Max Planck Institute of Experimental
+Medicine, 37075 Göttingen, Germany.
+
+SUMOylation, an essential posttranslational protein modification, is involved in 
+many eukaryotic cellular signaling pathways. The identification of SUMOylated
+proteins is difficult, because SUMOylation sites in proteins are hard to predict,
+SUMOylated protein states are transient in vivo and labile in vitro, only a small
+substrate fraction is SUMOylated in vivo, and identification tools for natively
+SUMOylated proteins are rare. To solve these problems, we generated knock-in mice
+expressing His(6)-HA-SUMO1. By anti-HA immunostaining, we show that SUMO1
+conjugates in neurons are only detectable in nuclei and annulate lamellae. By
+anti-HA affinity purification, we identified several hundred candidate SUMO1
+substrates, of which we validated Smchd1, Ctip2, TIF1<U+03B3>, and Zbtb20 as novel
+substrates. The knock-in mouse represents an excellent mammalian model for
+studies on SUMO1 localization and screens for SUMO1 conjugates in vivo.
+
+PMCID: PMC3529052
+PMID: 23213215  [PubMed - indexed for MEDLINE]
+
+
+33. Eur J Hum Genet. 2013 Jun;21(6):620-5. doi: 10.1038/ejhg.2012.219. Epub 2012 Oct 
+3.
+
+Application of custom-designed oligonucleotide array CGH in 145 patients with
+autistic spectrum disorders.
+
+Wisniowiecka-Kowalnik B(1), Kastory-Bronowska M, Bartnik M, Derwinska K,
+Dymczak-Domini W, Szumbarska D, Ziemka E, Szczaluba K, Sykulski M, Gambin T,
+Gambin A, Shaw CA, Mazurczak T, Obersztyn E, Bocian E, Stankiewicz P.
+
+Author information: 
+(1)Department of Medical Genetics, Institute of Mother and Child, Warsaw, Poland.
+
+Autism spectrum disorders (ASDs) are a heterogeneous group of neurodevelopmental 
+disorders, including childhood autism, atypical autism, and Asperger syndrome,
+with an estimated prevalence of 1.0-2.5% in the general population. ASDs have a
+complex multifactorial etiology, with genetic causes being recognized in only
+10-20% of cases. Recently, copy-number variants (CNVs) have been shown to
+contribute to over 10% of ASD cases. We have applied a custom-designed
+oligonucleotide array comparative genomic hybridization with an exonic coverage
+of over 1700 genes, including 221 genes known to cause autism and autism
+candidate genes, in a cohort of 145 patients with ASDs. The patients were
+classified according to ICD-10 standards and the Childhood Autism Rating Scale
+protocol into three groups consisting of 45 individuals with and 69 individuals
+without developmental delay/intellectual disability (DD/ID), and 31 patients, in 
+whom DD/ID could not be excluded. In 12 patients, we have identified 16
+copy-number changes, eight (5.5%) of which likely contribute to ASDs. In addition
+to known recurrent CNVs such as deletions 15q11.2 (BP1-BP2) and 3q13.31
+(including DRD3 and ZBTB20), and duplications 15q13.3 and 16p13.11, our analysis 
+revealed two novel genes clinically relevant for ASDs: ARHGAP24 (4q21.23q21.3)
+and SLC16A7 (12q14.1). Our results further confirm the diagnostic importance of
+array CGH in detection of CNVs in patients with ASDs and demonstrate that CNVs
+are an important cause of ASDs as a heterogeneous condition with a variety of
+contributory genes.
+
+PMCID: PMC3658201
+PMID: 23032108  [PubMed - indexed for MEDLINE]
+
+
+34. J Physiol. 2012 Oct 1;590(19):4917-32. doi: 10.1113/jphysiol.2012.234187. Epub
+2012 Jul 9.
+
+Regulation of hippocampus-dependent memory by the zinc finger protein Zbtb20 in
+mature CA1 neurons.
+
+Ren A(1), Zhang H, Xie Z, Ma X, Ji W, He DZ, Yuan W, Ding YQ, Zhang XH, Zhang WJ.
+
+Author information: 
+(1)Department of Pathophysiology, Second Military Medical University, Shanghai
+200433, China.
+
+The mammalian hippocampus harbours neural circuitry that is crucial for
+associative learning and memory. The mechanisms that underlie the development and
+regulation of this complex circuitry are not fully understood. Our previous study
+established an essential role for the zinc finger protein Zbtb20 in the
+specification of CA1 field identity in the developing hippocampus. Here, we show 
+that conditionally deleting Zbtb20 specifically in mature CA1 pyramidal neurons
+impaired hippocampus-dependent memory formation, without affecting hippocampal
+architecture or the survival, identity and basal excitatory synaptic activity of 
+CA1 pyramidal neurons. We demonstrate that mature CA1-specific Zbtb20 knockout
+mice exhibited reductions in long-term potentiation (LTP) and NMDA receptor
+(NMDAR)-mediated excitatory post-synaptic currents. Furthermore, we show that
+activity-induced phosphorylation of ERK and CREB is impaired in the hippocampal
+CA1 of Zbtb20 mutant mice. Collectively, these results indicate that Zbtb20 in
+mature CA1 plays an important role in LTP and memory by regulating NMDAR
+activity, and activation of ERK and CREB.
+
+PMCID: PMC3487045
+PMID: 22777671  [PubMed - indexed for MEDLINE]
+
+
+35. Hippocampus. 2012 Nov;22(11):2144-56. doi: 10.1002/hipo.22035. Epub 2012 Jun 11.
+
+Regulation of archicortical arealization by the transcription factor Zbtb20.
+
+Rosenthal EH(1), Tonchev AB, Stoykova A, Chowdhury K.
+
+Author information: 
+(1)Max Planck Institute for Biophysical Chemistry, Am Fassberg, Goettingen,
+Germany.
+
+The molecular mechanisms of regionalization of the medial pallium (MP), the
+anlage of the hippocampus, and transitional (cingulate and retrosplenial)
+cortices are largely unknown. Previous analyses have outlined an important role
+of the transcription factor (TF) Zbtb20 for hippocampal CA1 field specification
+(Nielsen et al. (2007) Development 134:1133-1140; Nielsen et al. (2010) Cereb
+Cortex 20:1904-1914; Xie et al. (2010) Proc Natl Acad Sci USA 107:6510-6515).
+Here, we present novel data showing that Zbtb20 exhibits a
+ventral(high)-to-dorsal(low) gradient of expression in MP progenitors as well as 
+an expression in postmitotic cells at the transitional cortex/neocortex border.
+Our detailed pattern analysis revealed that in Zbtb20 loss-of-function the
+molecular borders between neocortical, transitional, and hippocampal fields are
+progressively shifted ventrally, leading to an ectopic positioning of all dorsal 
+fields into the neighboring ventrally located areas. Thus, in addition to its
+known importance for the specification of the hippocampal CA1 sector, the graded 
+expression of TF Zbtb20 in ventricular zone of MP appears to translate early
+positional information for establishment of all developing MP fields. Our data
+also suggest that the signaling factor Wnt3a is a putative molecular partner of
+TF Zbtb20 in this patterning process.
+
+Copyright © 2012 Wiley Periodicals, Inc.
+
+PMID: 22689450  [PubMed - indexed for MEDLINE]
+
+
+36. Gastroenterology. 2012 Jun;142(7):1571-1580.e6. doi:
+10.1053/j.gastro.2012.02.043. Epub 2012 Feb 25.
+
+The zinc finger protein ZBTB20 regulates transcription of
+fructose-1,6-bisphosphatase 1 and ß cell function in mice.
+
+Zhang Y(1), Xie Z, Zhou L, Li L, Zhang H, Zhou G, Ma X, Herrera PL, Liu Z, Grusby
+MJ, Zhang WJ.
+
+Author information: 
+(1)Department of Pathophysiology, Second Military Medical University, Shanghai,
+China.
+
+BACKGROUND & AIMS: Fructose-1,6-bisphosphatase (FBP)-1 is a gluconeogenic enzyme 
+that regulates glucose metabolism and insulin secretion in ß cells, but little is
+known about how its transcription is controlled. The zinc finger protein ZBTB20
+regulates glucose homeostasis, so we investigated its effects on expression of
+FBP-1.
+METHODS: We analyzed gene expression using real-time reverse-transcription
+polymerase chain reaction, immunoblotting, and immunohistochemistry. We generated
+mice with ß cell-specific disruption of Zbtb20 using Cre/LoxP technology.
+Expression of Zbtb20 in ß cells was reduced using small interfering RNAs, and
+promoter occupancy and transcriptional regulation were analyzed by chromatin
+immunoprecipitation and reporter assays.
+RESULTS: ZBTB20 was expressed at high levels by ß cells and other endocrine cells
+in islets of normal mice; expression levels were reduced in islets from diabetic 
+db/db mice. Mice with ß cell-specific knockout of Zbtb20 had normal development
+of ß cells but had hyperglycemia, hypoinsulinemia, glucose intolerance, and
+impaired glucose-stimulated insulin secretion. Islets isolated from these mice
+had impaired glucose metabolism, adenosine triphosphate production, and insulin
+secretion after glucose stimulation in vitro, although insulin secretion returned
+to normal levels in the presence of KCl. ZBTB20 knockdown with small interfering 
+RNAs impaired glucose-stimulated insulin secretion in the ß cell line MIN6.
+Expression of Fbp1 was up-regulated in ß cells with ZBTB20 knockout or knockdown;
+impairments to glucose-stimulated insulin secretion were restored by inhibition
+of FBPase activity. ZBTB20 was recruited to the Fbp1 promoter and repressed its
+transcription in ß cells.
+CONCLUSIONS: The transcription factor ZBTB20 regulates ß cell function and
+glucose homeostasis in mice. It might be a therapeutic target for type 2 diabetes
+mellitus.
+
+Copyright © 2012 AGA Institute. Published by Elsevier Inc. All rights reserved.
+
+PMID: 22374165  [PubMed - indexed for MEDLINE]
+
+
+37. J Med Genet. 2012 Feb;49(2):104-9. doi: 10.1136/jmedgenet-2011-100534. Epub 2011 
+Dec 17.
+
+A novel microdeletion syndrome at 3q13.31 characterised by developmental delay,
+postnatal overgrowth, hypoplastic male genitals, and characteristic facial
+features.
+
+Molin AM(1), Andrieux J, Koolen DA, Malan V, Carella M, Colleaux L, Cormier-Daire
+V, David A, de Leeuw N, Delobel B, Duban-Bedu B, Fischetto R, Flinter F,
+Kjaergaard S, Kok F, Krepischi AC, Le Caignec C, Ogilvie CM, Maia S,
+Mathieu-Dramard M, Munnich A, Palumbo O, Papadia F, Pfundt R, Reardon W, Receveur
+A, Rio M, Ronsbro Darling L, Rosenberg C, Sá J, Vallee L, Vincent-Delorme C,
+Zelante L, Bondeson ML, Annerén G.
+
+Author information: 
+(1)Department of Immunology, Genetics and Pathology, Science for Life Laboratory,
+Uppsala University, Uppsala, Sweden. anna-maja.nystrom@slu.se
+
+BACKGROUND: Congenital deletions affecting 3q11q23 have rarely been reported and 
+only five cases have been molecularly characterised. Genotype-phenotype
+correlation has been hampered by the variable sizes and breakpoints of the
+deletions. In this study, 14 novel patients with deletions in 3q11q23 were
+investigated and compared with 13 previously reported patients.
+METHODS: Clinical data were collected from 14 novel patients that had been
+investigated by high resolution microarray techniques. Molecular investigation
+and updated clinical information of one cytogenetically previously reported
+patient were also included.
+RESULTS: The molecular investigation identified deletions in the region
+3q12.3q21.3 with different boundaries and variable sizes. The smallest studied
+deletion was 580 kb, located in 3q13.31. Genotype-phenotype comparison in 24
+patients sharing this shortest region of overlapping deletion revealed several
+common major characteristics including significant developmental delay, muscular 
+hypotonia, a high arched palate, and recognisable facial features including a
+short philtrum and protruding lips. Abnormal genitalia were found in the majority
+of males, several having micropenis. Finally, a postnatal growth pattern above
+the mean was apparent. The 580 kb deleted region includes five RefSeq genes and
+two of them are strong candidate genes for the developmental delay: DRD3 and
+ZBTB20.
+CONCLUSION: A newly recognised 3q13.31 microdeletion syndrome is delineated which
+is of diagnostic and prognostic value. Furthermore, two genes are suggested to be
+responsible for the main phenotype.
+
+PMCID: PMC3261728
+PMID: 22180640  [PubMed - indexed for MEDLINE]
+
+
+38. Nat Genet. 2011 Oct 30;43(12):1215-8. doi: 10.1038/ng.978.
+
+A genome-wide association study identifies new susceptibility loci for non-cardia
+gastric cancer at 3q13.31 and 5p13.1.
+
+Shi Y(1), Hu Z, Wu C, Dai J, Li H, Dong J, Wang M, Miao X, Zhou Y, Lu F, Zhang H,
+Hu L, Jiang Y, Li Z, Chu M, Ma H, Chen J, Jin G, Tan W, Wu T, Zhang Z, Lin D,
+Shen H.
+
+Author information: 
+(1)Bio-X Institutes, Ministry of Education Key Laboratory for the Genetics of
+Developmental and Neuropsychiatric Disorders, Shanghai Jiao Tong University,
+China. shiyongyong@gmail.com
+
+Gastric cancer, including the cardia and non-cardia types, is the second leading 
+cause of cancer-related deaths worldwide. To identify genetic risk variants for
+non-cardia gastric cancer, we performed a genome-wide association study in 3,279 
+individuals (1,006 with non-cardia gastric cancer and 2,273 controls) of Chinese 
+descent. We replicated significant associations in an additional 6,897 subjects
+(3,288 with non-cardia gastric cancer and 3,609 controls). We identified two new 
+susceptibility loci for non-cardia gastric cancer at 5p13.1 (rs13361707 in the
+region including PTGER4 and PRKAA1; odds ratio (OR) = 1.41; P = 7.6 × 10(-29))
+and 3q13.31 (rs9841504 in ZBTB20; OR = 0.76; P = 1.7 × 10(-9)). Imputation
+analyses also confirmed previously reported associations of rs2294008 and
+rs2976392 on 8q24, rs4072037 on 1q22 and rs13042395 on 20p13 with non-cardia
+gastric cancer susceptibility in the Han Chinese population.
+
+PMID: 22037551  [PubMed - indexed for MEDLINE]
+
+
+39. BMC Cancer. 2011 Jun 25;11:271. doi: 10.1186/1471-2407-11-271.
+
+Zinc finger protein ZBTB20 expression is increased in hepatocellular carcinoma
+and associated with poor prognosis.
+
+Wang Q(1), Tan YX, Ren YB, Dong LW, Xie ZF, Tang L, Cao D, Zhang WP, Hu HP, Wang 
+HY.
+
+Author information: 
+(1)International Cooperation Laboratory on Signal Transduction, Eastern
+Hepatobiliary Surgery Institute, the Second Military Medical University, 225
+Changhai Road, Shanghai, 200433, PR China.
+
+BACKGROUND: Our previous studies showed that ZBTB20, a new BTB/POZ-domain gene,
+could negatively regulate a feto-protein and other liver-specific genes,
+concerning such as bio-transformation, glucose metabolism and the regulation of
+the somatotropic hormonal axis. The aim of this study is to determine the
+potential clinical implications of ZBTB20 in hepatocellular carcinoma (HCC).
+METHODS: Quantitative real-time RT-PCR and Western blot analyses were used to
+detect expression levels of ZBTB20 in 50 paired HCC tumorous and nontumorous
+tissues and in 20 normal liver tissues. Moreover, expression of ZBTB20 was
+assessed by immunohistochemistry of paired tumor and peritumoral liver tissue
+from 102 patients who had undergone hepatectomy for histologically proven HCC.
+And its relationship with clinicopathological parameters and prognosis was
+investigated.
+RESULTS: Both messenger RNA and protein expression levels of ZBTB20 were elevated
+significantly in HCC tissues compared with the paired non-tumor tissues and
+normal liver tissues. Overexpressed ZBTB20 protein in HCC was significantly
+associated with vein invasion (P=0.016). Importantly, the recurrence or
+metastasis rates of HCCs with higher ZBTB20 expression were markedly greater than
+those of HCCs with lower expression (P=0.003, P=0.00015, respectively).
+Univariate and multivariate analyses revealed that ZBTB20 overexpression was an
+independent prognostic factor for HCC. The disease-free survival period and
+over-all survival period in patients with overexpressed ZBTB20 in HCC was
+significantly reduced.
+CONCLUSIONS: The expression of ZBTB20 is increased in HCC and associated with
+poor prognosis in patients with HCC, implicating ZBTB20 as a candidate prognostic
+marker in HCC.
+
+© 2011 Wang et al; licensee BioMed Central Ltd.
+
+PMCID: PMC3145616
+PMID: 21702992  [PubMed - indexed for MEDLINE]
+
+
+40. Nat Commun. 2011 Jun 7;2:338. doi: 10.1038/ncomms1345.
+
+MicroRNA122 is a key regulator of a-fetoprotein expression and influences the
+aggressiveness of hepatocellular carcinoma.
+
+Kojima K(1), Takata A, Vadnais C, Otsuka M, Yoshikawa T, Akanuma M, Kondo Y, Kang
+YJ, Kishikawa T, Kato N, Xie Z, Zhang WJ, Yoshida H, Omata M, Nepveu A, Koike K.
+
+Author information: 
+(1)Department of Gastroenterology, Graduate School of Medicine, The University of
+Tokyo, Tokyo 113-8655, Japan.
+
+Erratum in
+    Nat Commun. 2012;3:985.
+
+Comment in
+    Cell Mol Immunol. 2012 Jan;9(1):7-8.
+
+a-fetoprotein (AFP) is not only a widely used biomarker in hepatocellular
+carcinoma (HCC) surveillance, but is also clinically recognized as linked with
+aggressive tumour behaviour. Here we show that deregulation of microRNA122, a
+liver-specific microRNA, is a cause of both AFP elevation and a more biologically
+aggressive phenotype in HCC. We identify CUX1, a direct target of microRNA122, as
+a common central mediator of these two effects. Using liver tissues from
+transgenic mice in which microRNA122 is functionally silenced, an orthotopic
+xenograft tumour model, and human clinical samples, we further demonstrate that a
+microRNA122/CUX1/microRNA214/ZBTB20 pathway regulates AFP expression. We also
+show that the microRNA122/CUX1/RhoA pathway regulates the aggressive
+characteristics of tumours. We conclude that microRNA122 and associated
+signalling proteins may represent viable therapeutic targets, and that serum AFP 
+levels in HCC patients may be a surrogate marker for deregulated intracellular
+microRNA122 signalling pathways in HCC tissues.
+
+PMID: 21654638  [PubMed - indexed for MEDLINE]
+
+
+41. Semin Cancer Biol. 2011 Feb;21(1):21-7. doi: 10.1016/j.semcancer.2011.01.001.
+Epub 2011 Jan 7.
+
+Zhx2 and Zbtb20: novel regulators of postnatal alpha-fetoprotein repression and
+their potential role in gene reactivation during liver cancer.
+
+Peterson ML(1), Ma C, Spear BT.
+
+Author information: 
+(1)Department of Microbiology, Immunology & Molecular Genetics and Markey Cancer 
+Center, University of Kentucky, Lexington, KY 40536, USA.
+
+The mouse alpha-fetoprotein (AFP) gene is abundantly expressed in the fetal
+liver, normally silent in the adult liver but is frequently reactivated in
+hepatocellular carcinoma. The basis for AFP expression in the fetal liver has
+been studied extensively. However, the basis for AFP reactivation during
+hepatocarcinogenesis is not well understood. Two novel factors that control
+postnatal AFP repression, Zhx2 and Zbtb20, were recently identified. Here, we
+review the transcription factors that regulate AFP in the fetal liver, as well as
+Zhx2 and Zbtb20, and raise the possibility that the loss of these postnatal
+repressors may be involved in AFP reactivation in liver cancer.
+
+Copyright © 2011 Elsevier Ltd. All rights reserved.
+
+PMCID: PMC3313486
+PMID: 21216289  [PubMed - indexed for MEDLINE]
+
+
+42. Proc Natl Acad Sci U S A. 2010 Apr 6;107(14):6510-5. doi:
+10.1073/pnas.0912315107. Epub 2010 Mar 22.
+
+Zbtb20 is essential for the specification of CA1 field identity in the developing
+hippocampus.
+
+Xie Z(1), Ma X, Ji W, Zhou G, Lu Y, Xiang Z, Wang YX, Zhang L, Hu Y, Ding YQ,
+Zhang WJ.
+
+Author information: 
+(1)Department of Pathophysiology, Second Military Medical University, Shanghai
+200433, China.
+
+The development of hippocampal circuitry depends on the proper assembly of
+correctly specified and fully differentiated hippocampal neurons. Little is known
+about factors that control the hippocampal specification. Here, we show that zinc
+finger protein Zbtb20 is essential for the specification of hippocampal CA1 field
+identity. We found that Zbtb20 expression was initially activated in the
+hippocampal anlage at the onset of corticogenesis, and persisted in immature
+hippocampal neurons. Targeted deletion of Zbtb20 in mice did not compromise the
+progenitor proliferation in the hippocampal and adjacent transitional ventricular
+zone, but led to the transformation of the hippocampal CA1 field into a
+transitional neocortex-like structure, as evidenced by cytoarchitectural,
+neuronal migration, and gene expression phenotypes. Correspondingly, the
+subiculum was ectopically located adjacent to the CA3 in mutant. Although the
+field identities of the mutant CA3 and dentate gyrus (DG) were largely
+maintained, their projections were severely impaired. The hippocampus of Zbtb20
+null mice was reduced in size, and exhibited increased apoptotic cell death
+during postnatal development. Our data establish an essential role of Zbtb20 in
+the specification of CA1 field identity by repressing adjacent transitional
+neocortex-specific fate determination.
+
+PMCID: PMC2851958
+PMID: 20308569  [PubMed - indexed for MEDLINE]
+
+
+43. Cereb Cortex. 2010 Aug;20(8):1904-14. doi: 10.1093/cercor/bhp261. Epub 2009 Dec
+2.
+
+Zbtb20-induced CA1 pyramidal neuron development and area enlargement in the
+cerebral midline cortex of mice.
+
+Nielsen JV(1), Blom JB, Noraberg J, Jensen NA.
+
+Author information: 
+(1)Molecular Neurobiology Laboratory, Medical Biotechnology Center, Department of
+Molecular Medicine, University of Southern Denmark, J.B. Winslows Vej 25, DK-5000
+Odense C, Denmark.
+
+Expression of the transcriptional repressor Zbtb20 is confined to the hippocampal
+primordium of the developing dorsal midline cortex in mice. Here, we show that
+misexpression of Zbtb20 converts projection neurons of the subiculum and
+postsubiculum (dorsal presubiculum) to CA1 pyramidal neurons that are innervated 
+by Schaffer collateral projections in ectopic strata oriens and radiatum. The
+Zbtb20-transformed neurons express Bcl11B, Satb2, and Calbindin-D28k, which are
+markers of adult CA1 pyramidal neurons. Downregulation of Zbtb20 expression by
+RNA interference impairs the normal maturation of CA1 pyramidal neurons resulting
+in deficiencies in Calbindin-D28k expression and in reduced apical dendritic
+arborizations in stratum lacunosum moleculare. Overall, the results show that
+Zbtb20 is required for various aspects of CA1 pyramidal neuron development such
+as the postnatal extension of apical dendritic arbors in the distal target zone
+and the subtype differentiation of Calbindin-D28k-positive subsets. They further 
+suggest that Zbtb20 plays a role in arealization of the midline cortex.
+
+PMID: 19955470  [PubMed - indexed for MEDLINE]
+
+
+44. Biol Psychiatry. 2010 Feb 1;67(3):263-9. doi: 10.1016/j.biopsych.2009.08.030.
+Epub 2009 Oct 22.
+
+Identification of novel candidate genes for treatment response to risperidone and
+susceptibility for schizophrenia: integrated analysis among pharmacogenomics,
+mouse expression, and genetic case-control association approaches.
+
+Ikeda M(1), Tomita Y, Mouri A, Koga M, Okochi T, Yoshimura R, Yamanouchi Y,
+Kinoshita Y, Hashimoto R, Williams HJ, Takeda M, Nakamura J, Nabeshima T, Owen
+MJ, O'Donovan MC, Honda H, Arinami T, Ozaki N, Iwata N.
+
+Author information: 
+(1)MRC, Centre for Neuropsychiatric Genetics and Genomics, Department of
+Psychological Medicine and Neurology, School of Medicine, Cardiff University,
+Cardiff, United Kingdom.
+
+BACKGROUND: Pharmacogenomic approaches based on genomewide sets of single
+nucleotide polymorphisms (SNPs) are now feasible and offer the potential to
+uncover variants that influence drug response.
+METHODS: To detect potential predictor gene variants for risperidone response in 
+schizophrenic subjects, we performed a convergent analysis based on 1) a
+genomewide (100K SNP) SNP pharmacogenetic study of risperidone response and 2) a 
+global transcriptome study of genes with mRNA levels influenced by risperidone
+exposure in mouse prefrontal cortex.
+RESULTS: Fourteen genes were highlighted as of potential relevance to risperidone
+activity in both studies: ATP2B2, HS3ST2, UNC5C, BAG3, PDE7B, PAICS, PTGFRN,
+NR3C2, ZBTB20, ST6GAL2, PIP5K1B, EPHA6, KCNH5, and AJAP1. The SNPs related to
+these genes that were associated in the pharmacogenetic study were further
+assessed for evidence for association with schizophrenia in up to three
+case-control series comprising 1564 cases and 3862 controls in total (Japanese
+[JPN] 1st and 2nd samples and UK sample). Of 14 SNPs tested, one (rs9389370) in
+PDE7B showed significant evidence for association with schizophrenia in a
+discovery sample (p(allele) = .026 in JPN_1st, two-tailed). This finding
+replicated in a joint analysis of two independent case-control samples
+(p(JPN_2nd+UK) = .008, one-tailed, uncorrected) and in all combined data sets
+(p(all) = .0014, two-tailed, uncorrected and p(all) = .018, two-tailed,
+Bonferroni correction).
+CONCLUSIONS: We identified novel candidate genes for treatment response to
+risperidone and provide evidence that one of these additionally may confer
+susceptibility to schizophrenia. Specifically, PDE7B is an attractive candidate
+gene, although evidence from integrated methodology, including pharmacogenomics, 
+pharmacotranscriptomic, and case-control association approaches.
+
+Copyright 2010 Society of Biological Psychiatry. Published by Elsevier Inc. All
+rights reserved.
+
+PMID: 19850283  [PubMed - indexed for MEDLINE]
+
+
+45. Mol Cell Biol. 2009 May;29(10):2804-15. doi: 10.1128/MCB.01667-08. Epub 2009 Mar 
+9.
+
+Zinc finger protein Zbtb20 is essential for postnatal survival and glucose
+homeostasis.
+
+Sutherland AP(1), Zhang H, Zhang Y, Michaud M, Xie Z, Patti ME, Grusby MJ, Zhang 
+WJ.
+
+Author information: 
+(1)Department of Immunology and Infectious Diseases, Harvard School of Public
+Health, 651 Huntington Ave., Boston, MA 02115, USA.
+
+Zbtb20 is a member of the POK family of proteins, which function primarily as
+transcriptional repressors via interactions mediated by their conserved C(2)H(2) 
+Krüppel type zinc finger and BTB/POZ domains. To define the function of Zbtb20 in
+vivo, we generated knockout mice by homologous recombination. Zbtb20 null mice
+display a stark phenotype characterized by postnatal growth retardation,
+metabolic dysfunction, and lethality. Zbtb20 knockout mice displayed abnormal
+glucose homeostasis, hormonal responses, and depletion of energy stores,
+consistent with an energetic deficit. Additionally, increased serum bilirubin and
+alanine aminotransferase levels were suggestive of liver dysfunction. To identify
+potential liver-specific Zbtb20 target genes, we performed transcript profiling
+studies on liver tissue from Zbtb20 knockout mice and wild-type littermate
+controls. These studies identified sets of genes involved in growth, metabolism, 
+and detoxification that were differentially regulated in Zbtb20 knockout liver.
+Transgenic mice expressing Zbtb20 in the liver were generated and crossed onto
+the Zbtb20 knockout background, which resulted in no significant normalization of
+growth or glucose metabolism but a significant increase in life span compared to 
+controls. These data indicate that the phenotype of Zbtb20 knockout mice results 
+from liver-dependent and -independent defects, suggesting that Zbtb20 plays
+nonredundant roles in multiple organ systems.
+
+PMCID: PMC2682054
+PMID: 19273596  [PubMed - indexed for MEDLINE]
+
+
+46. Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10859-64. doi:
+10.1073/pnas.0800647105. Epub 2008 Jul 31.
+
+Zinc finger protein ZBTB20 is a key repressor of alpha-fetoprotein gene
+transcription in liver.
+
+Xie Z(1), Zhang H, Tsai W, Zhang Y, Du Y, Zhong J, Szpirer C, Zhu M, Cao X,
+Barton MC, Grusby MJ, Zhang WJ.
+
+Author information: 
+(1)Department of Pathophysiology, Second Military Medical University, 800
+Xiangyin Road, Shanghai 200433, China.
+
+The alpha-fetoprotein (AFP) gene is highly activated in fetal liver but is
+dramatically repressed shortly after birth. The mechanisms that underlie AFP
+transcriptional repression in postpartum liver are not well understood. AFP
+enhancer, repressor region, and promoter are implicated to be involved in AFP
+postnatal repression, but the major transcriptional repressor remains undefined. 
+We previously identified a zinc finger protein gene ZBTB20. To determine its
+physiological functions in vivo, we have generated hepatocyte-specific ZBTB20
+knockout mice by the Cre/loxP approach and demonstrated here that ZBTB20 ablation
+in liver led to dramatic derepression of the AFP gene in entire liver throughout 
+adult life, although the hepatocytes were normally under nonproliferating status.
+Furthermore, we found that ZBTB20 was a transcriptional repressor capable of
+specifically inhibiting AFP promoter-driven transcriptional activity. Liver
+chromatin immunoprecipitation and mobility shift assays showed that ZBTB20 bound 
+to AFP promoter directly. ZBTB20 was developmentally activated in liver after
+birth and inversely correlated with its AFP gene expression, suggesting that
+activated ZBTB20 expression in liver mediated AFP gene repression. Our data point
+to ZBTB20 as a key regulator governing AFP gene transcription and postulate a new
+model for the postnatal gene repression of AFP in liver.
+
+PMCID: PMC2504784
+PMID: 18669658  [PubMed - indexed for MEDLINE]
+
+
+47. Arthritis Rheum. 2007 Jul;56(7):2371-81.
+
+Altered gene expression in mice with lupus treated with edratide, a peptide that 
+ameliorates the disease manifestations.
+
+Elmann A(1), Sharabi A, Dayan M, Zinger H, Ophir R, Mozes E.
+
+Author information: 
+(1)The Weizmann Institute of Science, Rehovot, Israel.
+
+OBJECTIVE: To identify genes that are differently expressed in (NZB x NZW)F(1)
+mice with established lupus compared with healthy controls, and to determine how 
+gene expression is affected by treatment with hCDR1 (Edratide), a peptide
+synthesized on the basis of the sequence of the first complementarity-determining
+region (CDR1) of an autoantibody.
+METHODS: RNA was extracted from spleen cells of young, disease-free mice and of
+older mice with systemic lupus erythematosus (SLE) that were treated with hCDR1
+or with vehicle alone. Gene expression was assessed using the DNA microarray
+technique and verified by real-time reverse transcriptase-polymerase chain
+reaction (RT-PCR).
+RESULTS: In mice with SLE, numerous genes showed increased or decreased
+expression relative to that in the disease-free controls. Treatment with hCDR1
+restored the expression of many of these genes to control levels. Real-time
+RT-PCR verified that in diseased mice RNA transcripts of Tnfsf4, Il5ra, Zbtb20,
+and Nid1 were up-regulated, while transcripts of Tfpi and S100a8 were
+down-regulated, and confirmed the effects of hCDR1 on the expression of those
+genes. Kidney immunostaining demonstrated that the up-regulated expression of
+OX40 ligand, which is a protein product of the gene tumor necrosis factor
+(ligand) superfamily member 4, in diseased mice was reduced by hCDR1.
+CONCLUSION: Expression of numerous genes in mice with SLE differs from that in
+young, disease-free control mice. Treatment with hCDR1 restores the expression of
+22% of these genes to levels similar to those in controls. Thus, one of the
+mechanisms by which hCDR1 exerts its beneficial effects on the clinical symptoms 
+of SLE is through regulation of gene expression.
+
+PMID: 17599765  [PubMed - indexed for MEDLINE]
+
+
+48. Leuk Lymphoma. 2007 May;48(5):912-22.
+
+Expression level of lipoprotein lipase and dystrophin genes predict survival in
+B-cell chronic lymphocytic leukemia.
+
+Nikitin EA(1), Malakho SG, Biderman BV, Baranova AV, Lorie YY, Shevelev AY, Peklo
+MM, Vlasik TN, Moskalev EA, Zingerman BV, Vorob'ev IA, Poltaraus AB, Sudarikov
+AB, Vorobjev AI.
+
+Author information: 
+(1)Hematology Research Center of Russia, Moscow, Russia. eugene_nikitin@mail.ru
+
+Mutational status of immunoglobulin variable region genes (VH-genes) is known as 
+the strongest predictor of long term prognosis in B-CLL. However, applications in
+the routine clinical practice are time consuming, and therefore some other
+predictions are required. In this study, we have compared prognostic values of
+real time PCR quantification of the expression levels of four genes previously
+shown to be differentially expressed in V(H)-unmutated and mutated B-CLL
+subtypes: ZAP-70, ZBTB20, DMD and LPL. The study included 134 B-CLL patients.
+Expression levels of LPL and DMD genes were significantly correlated to
+mutational status, while expression levels of of ZAP-70 gene correlated only in
+CD19+ selected cases (N = 40). No correlation was observed for ZBTB20 gene.
+Expression levels of LPL and DMD predicted overall survival in the entire cohort 
+of patients. Prognostic values of LPL gene expression levels were significant
+even for CLL patients with stage A. Quantitative RT-PCR assays for measuring LPL 
+gene expression are robust enough to be introduced into routine clinical
+practice.
+
+PMID: 17487735  [PubMed - indexed for MEDLINE]
+
+
+49. Development. 2007 Mar;134(6):1133-40. Epub 2007 Feb 14.
+
+Hippocampus-like corticoneurogenesis induced by two isoforms of the BTB-zinc
+finger gene Zbtb20 in mice.
+
+Nielsen JV(1), Nielsen FH, Ismail R, Noraberg J, Jensen NA.
+
+Author information: 
+(1)Molecular Neurobiology Laboratory, Medical Biotechnology Center, University of
+Southern Denmark, J. B. Winslowsvej 25, DK-5000 Odense C, Denmark.
+
+Hippocampus-associated genes that orchestrate the formation of the compact
+stratum pyramidale are largely unknown. The BTB (broad complex, tramtrack,
+bric-a-brac)-zinc finger gene Zbtb20 (also known as HOF, Znf288, Zfp288) encodes 
+two protein isoforms, designated Zbtb20(S) and Zbtb20(L), which are expressed in 
+newborn pyramidal neurons of the presumptive hippocampus in mice. Here, we have
+generated transgenic mice with ectopic expression of Zbtb20(S) and Zbtb20(L) in
+immature pyramidal neurons differentiated from multipotent non-hippocampal
+precursors. The subiculum and posterior retrosplenial areas in these mice were
+transformed into a three-layered hippocampus-like cortex with a compact
+homogenous pyramidal cell layer. Severe malformations of lamination occur in
+neocortical areas, which coincide with a deficiency in expression of cortical
+lamination markers. The alterations in cortical cytoarchitecture result in
+behavioral abnormalities suggestive of a deficient processing of visual and
+spatial memory cues in the cerebral cortex of adult Zbtb20 transgenic mice.
+Overall, our in vivo data suggest that Zbtb20 functions as a molecular switch for
+a pathway that induces invariant pyramidal neuron morphogenesis and suppression
+of cell fate transitions in newborn neurons.
+
+PMID: 17301088  [PubMed - indexed for MEDLINE]
+
+
+50. J Biol Chem. 2002 Mar 1;277(9):7598-609. Epub 2001 Dec 13.
+
+Characterization of two novel nuclear BTB/POZ domain zinc finger isoforms.
+Association with differentiation of hippocampal neurons, cerebellar granule
+cells, and macroglia.
+
+Mitchelmore C(1), Kjaerulff KM, Pedersen HC, Nielsen JV, Rasmussen TE, Fisker MF,
+Finsen B, Pedersen KM, Jensen NA.
+
+Author information: 
+(1)Laboratory of Mammalian Molecular Genetics, The Panum Institute 6.5,
+University of Copenhagen, Blegdamsvej 3, DK-2200 Copenhagen N.
+
+BTB/POZ (broad complex tramtrack bric-a-brac/poxvirus and zinc finger) zinc
+finger factors are a class of nuclear DNA-binding proteins involved in
+development, chromatin remodeling, and cancer. However, BTB/POZ domain zinc
+finger factors linked to development of the mammalian cerebral cortex,
+cerebellum, and macroglia have not been described previously. We report here the 
+isolation and characterization of two novel nuclear BTB/POZ domain zinc finger
+isoforms, designated HOF(L) and HOF(S), that are specifically expressed in early 
+hippocampal neurons, cerebellar granule cells, and gliogenic progenitors as well 
+as in differentiated glia. During embryonic development of the murine cerebral
+cortex, HOF expression is restricted to the hippocampal subdivision. Expression
+coincides with early differentiation of presumptive CA1 and CA3 pyramidal neurons
+and dentate gyrus granule cells, with a sharp decline in expression at the
+CA1/subicular border. By using bromodeoxyuridine labeling and
+immunohistochemistry, we show that HOF expression coincides with immature
+non-dividing cells and is down-regulated in differentiated cells, suggesting a
+role for HOF in hippocampal neurogenesis. Consistent with the postulated role of 
+the POZ domain as a site for protein-protein interactions, both HOF isoforms are 
+able to dimerize. The HOF zinc fingers bind specifically to the binding site for 
+the related promyelocytic leukemia zinc finger protein as well as to a newly
+identified DNA sequence.
+
+PMID: 11744704  [PubMed - indexed for MEDLINE]
+
+
+51. Biochem Biophys Res Commun. 2001 Apr 13;282(4):1067-73.
+
+Identification and characterization of DPZF, a novel human BTB/POZ zinc finger
+protein sharing homology to BCL-6.
+
+Zhang W(1), Mi J, Li N, Sui L, Wan T, Zhang J, Chen T, Cao X.
+
+Author information: 
+(1)Institute of Immunology, Second Military Medical University, 800 Xiangyin
+Road, Shanghai, 200433, People's Republic of China.
+
+The C2H2 zinc finger protein family is one of the largest families of
+transcription factors. We identified a novel BTB/POZ zinc finger gene from human 
+dendritic cells (DC), which encodes a 733-residue protein with a BTB/POZ domain
+at the N-terminal and 4 C2H2 zinc fingers at C-terminal. It was designated
+dendritic cell-derived BTB/POZ zinc finger (DPZF). DPZF protein shares closest
+homology to BCL-6, with the highest homology present in the BTB/POZ and zinc
+finger domains. Like BCL-6, DPZF gene is localized on chromosome 3. It is widely 
+expressed in hematopoietic tissues, including DC, monocytes, B cells, and T
+cells. DPZF protein expression is detectable in lymphoid neoplasm with a
+molecular mass of 100 kD, especially in B lymphoma. These indicate that DPZF may 
+be a transcription factor closely related to BCL-6, and may be involved in
+hematopoiesis, oncogenesis, and immune responses.
+
+Copyright 2001 Academic Press.
+
+PMID: 11352661  [PubMed - indexed for MEDLINE]
+
+

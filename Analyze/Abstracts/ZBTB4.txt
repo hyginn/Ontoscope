@@ -1,0 +1,868 @@
+
+1. EBioMedicine. 2015 Jul 29;2(9):1133-44. doi: 10.1016/j.ebiom.2015.07.017.
+eCollection 2015.
+
+Integration of copy number and transcriptomics provides risk stratification in
+prostate cancer: A discovery and validation cohort study.
+
+Ross-Adams H(1), Lamb AD(2), Dunning MJ(1), Halim S(1), Lindberg J(3), Massie
+CM(1), Egevad LA(4), Russell R(1), Ramos-Montoya A(1), Vowler SL(1), Sharma
+NL(5), Kay J(6), Whitaker H(6), Clark J(7), Hurst R(7), Gnanapragasam VJ(8), Shah
+NC(9), Warren AY(10), Cooper CS(7), Lynch AG(1), Stark R(1), Mills IG(11),
+Grönberg H(12), Neal DE(13); CamCaP Study Group.
+
+Author information: 
+(1)Cancer Research UK Cambridge Institute, University of Cambridge, Cambridge CB2
+0RE, UK. (2)Cancer Research UK Cambridge Institute, University of Cambridge,
+Cambridge CB2 0RE, UK ; Department of Urology, Addenbrooke's Hospital, Cambridge 
+CB2 2QQ, UK ; Academic Urology Group, University of Cambridge, Cambridge, CB2
+0QQ, UK. (3)Department of Medical Epidemiology and Biostatistics, Karolinska
+Institutet, Stockholm, Sweden. (4)Department of Oncology-Pathology, Karolinska
+Institutet, Stockholm, Sweden. (5)Nuffield Department of Surgical Sciences,
+University of Oxford, Roosevelt Drive, Oxford, UK. (6)Cancer Research UK
+Cambridge Institute, University of Cambridge, Cambridge CB2 0RE, UK ; Molecular
+Diagnostics and Therapeutics Group, University College London, WC1E 6BT, UK.
+(7)University of East Anglia, Norwich Research Park, Norwich NR4 7TJ, UK.
+(8)Department of Urology, Addenbrooke's Hospital, Cambridge CB2 2QQ, UK ;
+Academic Urology Group, University of Cambridge, Cambridge, CB2 0QQ, UK.
+(9)Department of Urology, Addenbrooke's Hospital, Cambridge CB2 2QQ, UK.
+(10)Department of Pathology, Addenbrooke's Hospital, Cambridge CB2 2QQ, UK.
+(11)Cancer Research UK Cambridge Institute, University of Cambridge, Cambridge
+CB2 0RE, UK ; Prostate Cancer Research Group, Centre for Molecular Medicine
+Norway, Nordic EMBL Partnership, University of Oslo and Oslo University Hospital,
+N-0318 Oslo, Norway ; Department of Molecular Oncology, Institute of Cancer
+Research, Oslo University Hospitals, N-0424 Oslo, Norway ; Prostate Cancer
+UK/Movember Centre of Excellence for Prostate Cancer Research, Centre for Cancer 
+Research and Cell Biology, Queen's University, Belfast, UK. (12)Academic Urology 
+Group, University of Cambridge, Cambridge, CB2 0QQ, UK. (13)Cancer Research UK
+Cambridge Institute, University of Cambridge, Cambridge CB2 0RE, UK ; Department 
+of Urology, Addenbrooke's Hospital, Cambridge CB2 2QQ, UK.
+
+BACKGROUND: Understanding the heterogeneous genotypes and phenotypes of prostate 
+cancer is fundamental to improving the way we treat this disease. As yet, there
+are no validated descriptions of prostate cancer subgroups derived from
+integrated genomics linked with clinical outcome.
+METHODS: In a study of 482 tumour, benign and germline samples from 259 men with 
+primary prostate cancer, we used integrative analysis of copy number alterations 
+(CNA) and array transcriptomics to identify genomic loci that affect expression
+levels of mRNA in an expression quantitative trait loci (eQTL) approach, to
+stratify patients into subgroups that we then associated with future clinical
+behaviour, and compared with either CNA or transcriptomics alone.
+FINDINGS: We identified five separate patient subgroups with distinct genomic
+alterations and expression profiles based on 100 discriminating genes in our
+separate discovery and validation sets of 125 and 103 men. These subgroups were
+able to consistently predict biochemical relapse (p = 0.0017 and p = 0.016
+respectively) and were further validated in a third cohort with long-term
+follow-up (p = 0.027). We show the relative contributions of gene expression and 
+copy number data on phenotype, and demonstrate the improved power gained from
+integrative analyses. We confirm alterations in six genes previously associated
+with prostate cancer (MAP3K7, MELK, RCBTB2, ELAC2, TPD52, ZBTB4), and also
+identify 94 genes not previously linked to prostate cancer progression that would
+not have been detected using either transcript or copy number data alone. We
+confirm a number of previously published molecular changes associated with high
+risk disease, including MYC amplification, and NKX3-1, RB1 and PTEN deletions, as
+well as over-expression of PCA3 and AMACR, and loss of MSMB in tumour tissue. A
+subset of the 100 genes outperforms established clinical predictors of poor
+prognosis (PSA, Gleason score), as well as previously published gene signatures
+(p = 0.0001). We further show how our molecular profiles can be used for the
+early detection of aggressive cases in a clinical setting, and inform treatment
+decisions.
+INTERPRETATION: For the first time in prostate cancer this study demonstrates the
+importance of integrated genomic analyses incorporating both benign and tumour
+tissue data in identifying molecular alterations leading to the generation of
+robust gene sets that are predictive of clinical outcome in independent patient
+cohorts.
+
+PMCID: PMC4588396
+PMID: 26501111  [PubMed]
+
+
+2. Curr Pharmacol Rep. 2015 Apr;1(2):73-78. Epub 2015 Jan 11.
+
+MicroRNA-Specificity Protein (Sp) Transcription Factor Interactions and
+Significance in Carcinogenesis.
+
+Safe S(1).
+
+Author information: 
+(1)Department of Veterinary Physiology and Pharmacology, Texas A&M University,
+4466 TAMU, College Station, TX 77843-4466 USA, Tel: 979-845-5989, ,
+ssafe@cvm.tamu.edu.
+
+Specificity protein (Sp) transcription factors (TFs) such as Sp1, Sp3 and Sp4 are
+overexpressed in tumors and Sp1 is a negative prognostic factor for multiple
+tumor types. Sp TFs regulate expression of pro-oncogenic factors important for
+cell proliferation, survival, angiogenesis, migration/invasion and inflammation
+and the high expression of Sp TFs in tumors is primarily due to miRNAs. For
+example, expression of tumor-suppressor-like miRNAs such as miR-200b/c, miR-335, 
+miR-22, miR-149 and others that inactivate Sp1 expression is low in many tumor
+types. Research in our laboratory has also demonstrated that high expression of
+Sp TFs is also due to miRNA-dependent inhibition of the transcriptional
+repressors ZBTB10 and ZBTB4 by miR-27a and miR-20a/miR-17p, respectively. Thus,
+miRNAs play a critical role in maintaining high levels of Sp1, Sp3, Sp4 and
+pro-oncogenic Sp-regulated genes in tumors and cancer cells, and there is ample
+evidence that anticancer agents targeting the miRNASp TF axis can be highly
+effective for cancer chemotherapy.
+
+PMCID: PMC4596546
+PMID: 26457240  [PubMed]
+
+
+3. Mol Cancer Ther. 2015 Sep;14(9):2143-53. doi: 10.1158/1535-7163.MCT-15-0148. Epub
+2015 Jul 10.
+
+Histone Deacetylase Inhibitors Inhibit Rhabdomyosarcoma by Reactive Oxygen
+Species-Dependent Targeting of Specificity Protein Transcription Factors.
+
+Hedrick E(1), Crose L(2), Linardic CM(3), Safe S(4).
+
+Author information: 
+(1)Department of Veterinary Physiology and Pharmacology, Texas A&M University,
+College Station, Texas. (2)Department of Pediatrics, Duke University Medical
+Center, Durham, North Carolina. (3)Department of Pediatrics, Duke University
+Medical Center, Durham, North Carolina. Department of Pharmacology and Cancer
+Biology, Duke University Medical Center, Durham, North Carolina. (4)Department of
+Veterinary Physiology and Pharmacology, Texas A&M University, College Station,
+Texas. Institute of Biosciences and Technology, Texas A&M Health Sciences Center,
+Houston, Texas. ssafe@cvm.tamu.edu.
+
+The two major types of rhabdomyosarcoma (RMS) are predominantly diagnosed in
+children, namely embryonal (ERMS) and alveolar (ARMS) RMS, and patients are
+treated with cytotoxic drugs, which results in multiple toxic side effects later 
+in life. Therefore, development of innovative chemotherapeutic strategies is
+imperative, and a recent genomic analysis suggested the potential efficacy of
+reactive oxygen species (ROS)-inducing agents. Here, we demonstrate the efficacy 
+of the potent histone deacetylase (HDAC) inhibitors, panobinostat and vorinostat,
+as agents that inhibit RMS tumor growth in vivo, induce apoptosis, and inhibit
+invasion of RD and Rh30 RMS cell lines. These effects are due to epigenetic
+repression of cMyc, which leads to decreased expression of cMyc-regulated
+miRs-17, -20a, and -27a; upregulation of ZBTB4, ZBTB10, and ZBTB34; and
+subsequent downregulation of Sp transcription factors. We also show that
+inhibition of RMS cell growth, survival and invasion, and repression of Sp
+transcription factors by the HDAC inhibitors are independent of histone
+acetylation but reversible after cotreatment with the antioxidant glutathione.
+These results show a novel ROS-dependent mechanism of antineoplastic activity for
+panobinostat and vorinostat that lies outside of their canonical HDAC-inhibitory 
+activity and demonstrates the potential clinical utility for treating RMS
+patients with ROS-inducing agents.
+
+©2015 American Association for Cancer Research.
+
+PMCID: PMC4618474 [Available on 2016-09-01]
+PMID: 26162688  [PubMed - in process]
+
+
+4. Curr Colorectal Cancer Rep. 2013 Dec;9(4):350-357.
+
+REACTIVE OXYGEN SPECIES AND COLORECTAL CANCER.
+
+Sreevalsan S(1), Safe S(2).
+
+Author information: 
+(1)VMR 1197, Room 413, Texas A&M University, College Station, TX, 77843
+979-845-9182 ssreevalsan@cvm.tamu.edu. (2)VMR 1197, Room 410, Texas A&M
+University, College Station, TX, 77843 979-845-5988.
+
+Several agents used for treatment of colon and other cancers induce reactive
+oxygen species (ROS) and this plays an important role in their anticancer
+activities. In addition to the well-known proapoptotic effects of ROS inducers,
+these compounds also decrease expression of specificity protein (Sp)
+transcription factors Sp1, Sp3 and Sp4 and several pro-oncogenic Spregulated
+genes important for cancer cell proliferation, survival and metastasis. The
+mechanism of these responses involve ROS-dependent downregulation of microRNA-27a
+(miR-27a) or miR-20a (and paralogs) and induction of two Sp-repressors, ZBTB10
+and ZBTB4 respectively. This pathway significantly contributes to the anticancer 
+activity of ROS inducers and should be considered in development of drug
+combinations for cancer chemotherapy.
+
+PMCID: PMC4288935
+PMID: 25584043  [PubMed]
+
+
+5. Neoplasia. 2014 Dec;16(12):1059-69. doi: 10.1016/j.neo.2014.09.011.
+
+The transcriptional repressor ZBTB4 regulates EZH2 through a
+MicroRNA-ZBTB4-specificity protein signaling axis.
+
+Yang WS(1), Chadalapaka G(2), Cho SG(3), Lee SO(4), Jin UH(4), Jutooru I(2), Choi
+K(5), Leung YK(1), Ho SM(1), Safe S(6), Kim K(1).
+
+Author information: 
+(1)Department of Environmental Health, University of Cincinnati, College of
+Medicine, 3223 Eden Ave., Cincinnati, OH 45267. (2)Department of Veterinary
+Physiology and Pharmacology, Texas A&M University, 4466 Texas A&M University,
+College Station, TX 77843. (3)Department of Preventive Medicine, College of
+Korean Medicine, Kyung Hee University, 1 Hoegi, Dongdaemun-gu, Seoul 130-701,
+Republic of Korea. (4)Institute of Biosciences and Technology, Texas A&M Health
+Science Center, 2121 W. Holcombe Blvd., Houston, TX 77030. (5)Division of
+Experimental Biology and Cancer Biology, Cincinnati Children's Hospital medical
+Center, Cincinnati, OH 45229. (6)Department of Veterinary Physiology and
+Pharmacology, Texas A&M University, 4466 Texas A&M University, College Station,
+TX 77843; Institute of Biosciences and Technology, Texas A&M Health Science
+Center, 2121 W. Holcombe Blvd., Houston, TX 77030.
+
+ZBTB4 is a transcriptional repressor and examination of publically-available
+microarray data sets demonstrated an inverse relationship in the prognostic value
+and expression of ZBTB4 and the histone methyltransferase EZH2 in tumors from
+breast cancer patients. The possibility of functional interactions between EZH2
+and ZBTB4 was investigated in breast cancer cells and the results showed that
+EZH2 is directly suppressed by ZBTB4 which in turn is regulated (suppressed) by
+miR-106b and other paralogues from the miR-17-92, miR-106b-25 and miR-106a-363
+clusters that are highly expressed in breast and other tumors. ZBTB4 also acts a 
+suppressor of specificity protein (Sp) transcription factors Sp1, Sp3 and Sp4,
+and RNA interference studies show that Sp proteins are required for EZH2
+expression. The prediction analysis results from breast cancer patient array data
+sets confirm an association of Sp1-dependent EZH2 gene signature with decreased
+survival of breast cancer patients. Disruption of oncogenic miR-ZBTB4 signaling
+axis by anticancer agent such as betulinic acid that induce down-regulation of Sp
+proteins in breast cancer cells resulted in inhibition of tumor growth and
+colonization of breast cancer cells in a mouse model. Thus, EZH2 is reciprocally 
+regulated by a novel signaling network consisting of Sp proteins, oncogenic miRs 
+and ZBTB4, and modulation of this gene network is a novel therapeutic approach
+for treatment of breast cancer and possibly other cancers.
+
+Published by Elsevier Inc.
+
+PMCID: PMC4309261
+PMID: 25499219  [PubMed - indexed for MEDLINE]
+
+
+6. Mol Cell Biol. 2014 Jul;34(13):2382-95. doi: 10.1128/MCB.01602-13. Epub 2014 Apr 
+14.
+
+Mechanism of action of phenethylisothiocyanate and other reactive oxygen
+species-inducing anticancer agents.
+
+Jutooru I(1), Guthrie AS(2), Chadalapaka G(1), Pathi S(1), Kim K(3), Burghardt
+R(4), Jin UH(5), Safe S(6).
+
+Author information: 
+(1)Department of Veterinary Physiology and Pharmacology, Texas A&M University,
+College Station, Texas, USA. (2)Department of Biochemistry & Biophysics, Texas
+A&M University, College Station, Texas, USA. (3)Department of Environmental
+Health, University of Cincinnati, Cincinnati, Ohio, USA. (4)Department of
+Veterinary Integrative Biosciences, Texas A&M University, College Station, Texas,
+USA. (5)Institute of Biosciences & Technology, Texas A&M Health Science Center,
+Houston, Texas, USA. (6)Department of Veterinary Physiology and Pharmacology,
+Texas A&M University, College Station, Texas, USA Institute of Biosciences &
+Technology, Texas A&M Health Science Center, Houston, Texas, USA
+ssafe@cvm.tamu.edu.
+
+Reactive oxygen species (ROS)-inducing anticancer agents such as
+phenethylisothiocyanate (PEITC) activate stress pathways for killing cancer
+cells. Here we demonstrate that PEITC-induced ROS decreased expression of
+microRNA 27a (miR-27a)/miR-20a:miR-17-5p and induced miR-regulated ZBTB10/ZBTB4
+and ZBTB34 transcriptional repressors, which, in turn, downregulate specificity
+protein (Sp) transcription factors (TFs) Sp1, Sp3, and Sp4 in pancreatic cancer
+cells. Decreased expression of miR-27a/miR-20a:miR-17-5p by PEITC-induced ROS is 
+a key step in triggering the miR-ZBTB Sp cascade leading to downregulation of Sp 
+TFs, and this is due to ROS-dependent epigenetic effects associated with
+genome-wide shifts in repressor complexes, resulting in decreased expression of
+Myc and the Myc-regulated miRs. Knockdown of Sp1 alone by RNA interference also
+induced apoptosis and decreased pancreatic cancer cell growth and invasion,
+indicating that downregulation of Sp transcription factors is an important common
+mechanism of action for PEITC and other ROS-inducing anticancer agents.
+
+Copyright © 2014, American Society for Microbiology. All Rights Reserved.
+
+PMCID: PMC4054319
+PMID: 24732804  [PubMed - indexed for MEDLINE]
+
+
+7. PLoS One. 2012;7(12):e51205. doi: 10.1371/journal.pone.0051205. Epub 2012 Dec 12.
+
+Kaiso directs the transcriptional corepressor MTG16 to the Kaiso binding site in 
+target promoters.
+
+Barrett CW(1), Smith JJ, Lu LC, Markham N, Stengel KR, Short SP, Zhang B, Hunt
+AA, Fingleton BM, Carnahan RH, Engel ME, Chen X, Beauchamp RD, Wilson KT, Hiebert
+SW, Reynolds AB, Williams CS.
+
+Author information: 
+(1)Division of Gastroenterology, Department of Medicine, Vanderbilt University
+Medical Center, Nashville, TN, USA.
+
+Myeloid translocation genes (MTGs) are transcriptional corepressors originally
+identified in acute myelogenous leukemia that have recently been linked to
+epithelial malignancy with non-synonymous mutations identified in both MTG8 and
+MTG16 in colon, breast, and lung carcinoma in addition to functioning as negative
+regulators of WNT and Notch signaling. A yeast two-hybrid approach was used to
+discover novel MTG binding partners. This screen identified the Zinc fingers,
+C2H2 and BTB domain containing (ZBTB) family members ZBTB4 and ZBTB38 as MTG16
+interacting proteins. ZBTB4 is downregulated in breast cancer and modulates p53
+responses. Because ZBTB33 (Kaiso), like MTG16, modulates Wnt signaling at the
+level of TCF4, and its deletion suppresses intestinal tumorigenesis in the
+Apc(Min) mouse, we determined that Kaiso also interacted with MTG16 to modulate
+transcription. The zinc finger domains of Kaiso as well as ZBTB4 and ZBTB38 bound
+MTG16 and the association with Kaiso was confirmed using co-immunoprecipitation. 
+MTG family members were required to efficiently repress both a heterologous
+reporter construct containing Kaiso binding sites (4×KBS) and the known Kaiso
+target, Matrix metalloproteinase-7 (MMP-7/Matrilysin). Moreover, chromatin
+immunoprecipitation studies placed MTG16 in a complex occupying the Kaiso binding
+site on the MMP-7 promoter. The presence of MTG16 in this complex, and its
+contributions to transcriptional repression both required Kaiso binding to its
+binding site on DNA, establishing MTG16-Kaiso binding as functionally relevant in
+Kaiso-dependent transcriptional repression. Examination of a large multi-stage
+CRC expression array dataset revealed patterns of Kaiso, MTG16, and MMP-7
+expression supporting the hypothesis that loss of either Kaiso or MTG16 can
+de-regulate a target promoter such as that of MMP-7. These findings provide new
+insights into the mechanisms of transcriptional control by ZBTB family members
+and broaden the scope of co-repressor functions for the MTG family, suggesting
+coordinate regulation of transcription by Kaiso/MTG complexes in cancer.
+
+PMCID: PMC3521008
+PMID: 23251453  [PubMed - indexed for MEDLINE]
+
+
+8. BMC Cancer. 2012 Nov 30;12:564. doi: 10.1186/1471-2407-12-564.
+
+Curcumin and synthetic analogs induce reactive oxygen species and decreases
+specificity protein (Sp) transcription factors by targeting microRNAs.
+
+Gandhy SU(1), Kim K, Larsen L, Rosengren RJ, Safe S.
+
+Author information: 
+(1)College of Medicine, Texas A&M Health Science Center, Houston, TX 77030, USA.
+
+BACKGROUND: Curcumin inhibits growth of several cancer cell lines, and studies in
+this laboratory in bladder and pancreatic cancer cells show that curcumin
+downregulates specificity protein (Sp) transcription factors Sp1, Sp3 and Sp4 and
+pro-oncogenic Sp-regulated genes. In this study, we investigated the anticancer
+activity of curcumin and several synthetic cyclohexanone and piperidine analogs
+in colon cancer cells.
+METHODS: The effects of curcumin and synthetic analogs on colon cancer cell
+proliferation and apoptosis were determined using standardized assays. The
+changes in Sp proteins and Sp-regulated gene products were analysed by western
+blots, and real time PCR was used to determine microRNA-27a (miR-27a), miR-20a,
+miR-17-5p and ZBTB10 and ZBTB4 mRNA expression.
+RESULTS: The IC50 (half-maximal) values for growth inhibition (24 hr) of colon
+cancer cells by curcumin and synthetic cyclohexanone and piperidine analogs of
+curcumin varied from 10 µM for curcumin to 0.7 µM for the most active synthetic
+piperidine analog RL197, which was used along with curcumin as model agents in
+this study. Curcumin and RL197 inhibited RKO and SW480 colon cancer cell growth
+and induced apoptosis, and this was accompanied by downregulation of specificity 
+protein (Sp) transcription factors Sp1, Sp3 and Sp4 and Sp-regulated genes
+including the epidermal growth factor receptor (EGFR), hepatocyte growth factor
+receptor (c-MET), survivin, bcl-2, cyclin D1 and NF<U+03BA>B (p65 and p50). Curcumin and
+RL197 also induced reactive oxygen species (ROS), and cotreatment with the
+antioxidant glutathione significantly attenuated curcumin- and RL197-induced
+growth inhibition and downregulation of Sp1, Sp3, Sp4 and Sp-regulated genes. The
+mechanism of curcumin-/RL197-induced repression of Sp transcription factors was
+ROS-dependent and due to induction of the Sp repressors ZBTB10 and ZBTB4 and
+downregulation of microRNAs (miR)-27a, miR-20a and miR-17-5p that regulate these 
+repressors.
+CONCLUSIONS: These results identify a new and highly potent curcumin derivative
+and demonstrate that in cells where curcumin and RL197 induce ROS, an important
+underlying mechanism of action involves perturbation of miR-ZBTB10/ZBTB4,
+resulting in the induction of these repressors which downregulate Sp
+transcription factors and Sp-regulated genes.
+
+PMCID: PMC3522018
+PMID: 23194063  [PubMed - indexed for MEDLINE]
+
+
+9. Mol Cancer Ther. 2012 Sep;11(9):1852-62. doi: 10.1158/1535-7163.MCT-12-0181. Epub
+2012 Jun 29.
+
+Induction of the transcriptional repressor ZBTB4 in prostate cancer cells by
+drug-induced targeting of microRNA-17-92/106b-25 clusters.
+
+Kim K(1), Chadalapaka G, Pathi SS, Jin UH, Lee JS, Park YY, Cho SG,
+Chintharlapalli S, Safe S.
+
+Author information: 
+(1)Institute of Biosciences and Technology, Texas A&M Health Science Center, MD
+Anderson Cancer Center, The University of Texas, Houston, USA.
+
+Androgen-insensitive DU145 and PC3 human prostate cancer cells express high
+levels of specificity protein (Sp) transcription factors Sp1, Sp3, and Sp4, and
+treatment of cells with methyl 2-cyano-3,11-dioxo-18ß-olean-1,12-dien-30-oate
+(CDODA-Me) inhibited cell growth and downregulated Sp1, Sp3, and Sp4 expression. 
+CDODA-Me (15 mg/kg/d) was a potent inhibitor of tumor growth in a mouse xenograft
+model (PC3 cells) and also decreased expression of Sp transcription factors in
+tumors. CDODA-Me-mediated downregulation of Sp1, Sp3, and Sp4 was due to
+induction of the transcriptional repressor ZBTB4, which competitively binds and
+displaces Sp transcription factors from GC-rich sites in Sp1-, Sp3-, Sp4-, and
+Sp-regulated gene promoters. ZBTB4 levels are relatively low in DU145 and PC3
+cells due to suppression by miR paralogs that are members of the miR-17-92
+(miR-20a/17-5p) and miR-106b-25 (miR-106b/93) clusters. Examination of publically
+available prostate cancer patient array data showed an inverse relationship
+between ZBTB4 and miRs-20a/17-5p/106b/93 expression, and increased ZBTB4 in
+patients with prostate cancer was a prognostic factor for increased survival.
+CDODA-Me induces ZBTB4 in prostate cancer cells through disruption of miR-ZBTB4
+interactions, and this results in downregulation of pro-oncogenic Sp
+transcription factors and Sp-regulated genes.
+
+©2012 AACR.
+
+PMCID: PMC3632183
+PMID: 22752225  [PubMed - indexed for MEDLINE]
+
+
+10. Anticancer Agents Med Chem. 2012 Dec;12(10):1211-20.
+
+Unifying mechanisms of action of the anticancer activities of triterpenoids and
+synthetic analogs.
+
+Safe SH(1), Prather PL, Brents LK, Chadalapaka G, Jutooru I.
+
+Author information: 
+(1)Department of Veterinary Physiology and Pharmacology, Texas A&M University,
+4466 TAMU, College Station, TX 77843-4466, USA. ssafe@cvm.tamu.edu
+
+Triterpenoids such as betulinic acid (BA) and synthetic analogs of oleanolic acid
+[2-cyano-3,12-dioxooleana-1,9-dien-28-oic acid (CDDO)] and glycyrrhetinic acid
+[2-cyano-3,11-dioxo-18ß-oleana-1,12-dien-30-oc acid (CDODA)] are potent
+anticancer agents that exhibit antiproliferative, antiangiogenic,
+anti-inflammatory and pro-apoptotic activities. Although their effects on
+multiple pathways have been reported, unifying mechanisms of action have not been
+reported. Studies in this laboratory have now demonstrated that several
+triterpenoids including BA and some derivatives, celastrol, methyl ursolate,
+ß-boswellic acid derivatives, and the synthetic analogs CDDO, CDODA and their
+esters decreased expression of specificity protein (Sp) transcription factors and
+several pro-oncogenic Sp-regulated genes in multiple cancer cell lines. The
+mechanisms of this response are both compound- and cell context-dependent and
+include activation of both proteasome-dependent and -independent pathways.
+Triterpenoid-mediated induction of reactive oxygen species (ROS) has now been
+characterized as an important proteasome-independent pathway for downregulation
+of Sp transcription factors. ROS decreases expression of microRNA-27a (miR-27a)
+and miR-20a/miR-17-5p and this results in the induction of the transcriptional
+"Sp-repressors" ZBTB10 and ZBTB4, respectively, which in turn downregulate Sp and
+Sp-regulated genes. Triterpenoids also activate or deactive nuclear receptors and
+G-protein coupled receptors, and these pathways contribute to their
+antitumorigenic activity and may also play a role in targeting Sp1, Sp3 and Sp4
+which are highly overexpressed in multiple cancers and appear to be important for
+maintaining the cancer phenotype.
+
+PMCID: PMC3532564
+PMID: 22583404  [PubMed - indexed for MEDLINE]
+
+
+11. Dev Dyn. 2012 Jun;241(6):1062-75. doi: 10.1002/dvdy.23787. Epub 2012 Apr 25.
+
+Biphasic wnt8a expression is achieved through interactions of multiple regulatory
+inputs.
+
+Narayanan A(1), Lekven AC.
+
+Author information: 
+(1)Department of Biology, Texas A&M University, College Station, Texas
+77843-3258, USA.
+
+BACKGROUND: Vertebrate axis development depends upon wnt8a transcription in a
+dynamic pool of mesoderm progenitors at the posterior pole of the gastrulating
+embryo. The transcriptional mechanisms controlling wnt8a expression are not
+understood, but previous studies identified two phases of wnt8a expression in
+zebrafish: Nodal-dependent activation during early gastrulation (phase I) and No 
+tail (Ntl)-dependent regulation from mid gastrula stages (phase II).
+RESULTS: We identified two upstream cis-regulatory regions, proximal and distal, 
+each of which possesses a promoter. The proximal regulatory region contains a
+margin-specific enhancer that is required for both the Nodal and Ntl responses.
+Phase I expression requires Nodal activation of the margin enhancer in
+combination with the transcription factor Zbtb4 and the distal regulatory region.
+Phase II expression requires Ntl regulation of the margin enhancer in the context
+of the proximal regulatory region. An additional mechanism is required to ensure 
+the transition from phase I to phase II regulation. Analysis of stickleback wnt8a
+suggests this mechanism of regulation may be conserved.
+CONCLUSIONS: The seemingly simple wnt8a expression pattern reflects complex
+interactions of multiple regulatory inputs.
+
+Copyright © 2012 Wiley Periodicals, Inc.
+
+PMID: 22473868  [PubMed - indexed for MEDLINE]
+
+
+12. Leukemia. 2012 Jul;26(7):1584-93. doi: 10.1038/leu.2012.44. Epub 2012 Feb 20.
+
+The miR-17~92 family regulates the response to Toll-like receptor 9 triggering of
+CLL cells with unmutated IGHV genes.
+
+Bomben R(1), Gobessi S, Dal Bo M, Volinia S, Marconi D, Tissino E, Benedetti D,
+Zucchetto A, Rossi D, Gaidano G, Del Poeta G, Laurenti L, Efremov DG, Gattei V.
+
+Author information: 
+(1)Clinical and Experimental Onco-Hematology Unit, Centro di Riferimento
+Oncologico, I.R.C.C.S., Aviano (PN), Italy.
+
+Chronic lymphocytic leukemia (CLL) cells from clinically aggressive cases have a 
+greater capacity to respond to external microenvironmental stimuli, including
+those transduced through Toll-like-receptor-9 (TLR9). Concomitant microRNA and
+gene expression profiling in purified CLL cells (n=17) expressing either
+unmutated (UM) or mutated (M) IGHV genes selected microRNAs from the miR-17~92
+family as significantly upregulated and in part responsible for modifications in 
+the gene expression profile of UM CLL cells stimulated with the TLR9 agonist CpG.
+Notably, the stable and sustained upregulation of miR-17~92 microRNAs by CpG was 
+preceded by a transient induction of the proto-oncogene MYC. The enforced
+expression of miR-17, a major member from this family, reduced the expression of 
+the tumor suppressor genes E2F5, TP53INP1, TRIM8 and ZBTB4, and protected cells
+from serum-free-induced apoptosis (P = 0.05). Consistently, transfection with
+miR-17~92 family antagomiRs reduced Bromo-deoxy-uridine incorporation in
+CpG-stimulated UM CLL cells. Finally, miR-17 expression levels, evaluated in 83
+CLL samples, were significantly higher in UM (P=0.03) and ZAP-70(high) (P=0.02)
+cases. Altogether, these data reveal a role for microRNAs of the miR-17~92 family
+in regulating pro-survival and growth-promoting responses of CLL cells to TLR9
+triggering. Overall, targeting of this pathway may represent a novel therapeutic 
+option for management of aggressive CLL.
+
+PMID: 22343732  [PubMed - indexed for MEDLINE]
+
+
+13. Carcinogenesis. 2012 Apr;33(4):886-94. doi: 10.1093/carcin/bgs102. Epub 2012 Feb 
+14.
+
+Celastrol decreases specificity proteins (Sp) and fibroblast growth factor
+receptor-3 (FGFR3) in bladder cancer cells.
+
+Chadalapaka G(1), Jutooru I, Safe S.
+
+Author information: 
+(1)Department of Veterinary Physiology and Pharmacology, Texas A&M University,
+4466 TAMU, Vet Res Bldg 410, College Station, TX 77843, USA.
+
+Celastrol (CSL) is a naturally occurring triterpenoid acid that exhibits
+anticancer activity, and in KU7 and 253JB-V bladder cells, CSL induced apoptosis,
+inhibited growth, colony formation and migration and CSL decreased bladder tumor 
+growth in vivo. CSL also decreased expression of specificity protein (Sp)
+transcription factors Sp1, Sp3 and Sp4 and several Sp-regulated genes/proteins
+including vascular endothelial growth factor, survivin and cyclin D1 and
+fibroblast growth factor receptor-3, a potential drug target for bladder cancer
+therapy, has now been characterized as an Sp-regulated gene downregulated by CSL.
+The mechanism of Sp downregulation by CSL was cell context-dependent due to
+activation of proteosome-dependent (KU7) and -independent (253JB-V) pathways. In 
+253JB-V cells, CSL induced reactive oxygen species (ROS) and inhibitors of ROS
+blocked CSL-induced growth inhibition and repression of Sp1, Sp3 and Sp4. This
+response was due to induction of the Sp repressors ZBTB10 and ZBTB4 and
+downregulation of miR-27a and miR-20a/17-5p, respectively, which regulate
+expression of these transcriptional repressors. Thus, the anticancer activity of 
+CSL in 253JB-V cells is due to induction of ROS and ROS-mediated induction of Sp 
+repressors (ZBTB4/ZBTB10) through downregulation of miR-27a and miR-20a/17-5p.
+
+PMCID: PMC3324448
+PMID: 22334592  [PubMed - indexed for MEDLINE]
+
+
+14. Acta Pharmacol Sin. 2011 Nov;32(11):1411-8. doi: 10.1038/aps.2011.121. Epub 2011 
+Oct 3.
+
+Yeast two-hybrid screening of proteins interacting with plasmin receptor subunit:
+C-terminal fragment of annexin A2.
+
+Li Q(1), Laumonnier Y, Syrovets T, Simmet T.
+
+Author information: 
+(1)Joint Laboratory of Vascular Biology, Ruijin Hospital, Health Science Center, 
+Shanghai, China. liqun@sibs.ac.cn
+
+AIM: To identify proteins that interact with the C-terminal fragment of annexin
+A2 (A2IC), generated by plasmin cleavage of the plasmin receptor, a
+heterotetramer (AA2t) containing annexin A2.
+METHODS: The gene that encodes the A2IC fragment was obtained from PCR-amplified 
+cDNA isolated from human monocytes, and was ligated into the pBTM116 vector using
+a DNA ligation kit. The resultant plasmid (pBTM116-A2IC) was sequenced with an
+ABI PRISM 310 Genetic Analyzer. The expression of an A2IC bait protein fused with
+a LexA-DNA binding domain (BD) was determined using Western blot analysis. The
+identification of proteins that interact with A2IC and are encoded in a human
+monocyte cDNA library was performed using yeast two-hybrid screening. The DNA
+sequences of the relevant cDNAs were determined using an ABI PRISM BigDye
+terminator cycle sequencing ready reaction kit. Nucleotide sequence databases
+were searched for homologous sequences using BLAST search analysis
+(http://www.ncbi.nlm.nih.gov). Confirmation of the interaction between the
+protein LexA-A2IC and each of cathepsin S and SNX17 was conducted using a
+small-scale yeast transformation and X-gal assay.
+RESULTS: The yeast transformed with plasmids encoding the bait proteins were
+screened with a human monocyte cDNA library by reconstituting full-length
+transcription factors containing the GAL4-active domain (GAL4-AD) as the prey in 
+a yeast two-hybrid approach. After screening 1×10(7) clones, 23 independent
+ß-Gal-positive clones were identified. Sequence analysis and a database search
+revealed that 15 of these positive clones matched eight different proteins
+(SNX17, ProCathepsin S, RPS2, ZBTB4, OGDH, CCDC32, PAPD4, and actin which was
+already known to interact with annexin A2).
+CONCLUSION: A2IC A2IC interacts with various proteins to form protein complexes, 
+which may contribute to the molecular mechanism of monocyte activation induced by
+plasmin. The yeast two-hybrid system is an efficient approach for investigating
+protein interactions.
+
+PMCID: PMC4002734
+PMID: 21963895  [PubMed - indexed for MEDLINE]
+
+
+15. Oncogene. 2012 Feb 23;31(8):1034-44. doi: 10.1038/onc.2011.296. Epub 2011 Jul 18.
+
+Identification of oncogenic microRNA-17-92/ZBTB4/specificity protein axis in
+breast cancer.
+
+Kim K(1), Chadalapaka G, Lee SO, Yamada D, Sastre-Garau X, Defossez PA, Park YY, 
+Lee JS, Safe S.
+
+Author information: 
+(1)Institute of Biosciences and Technology, Texas A&M Health Science Center,
+Houston, TX 77843, USA.
+
+The human POK family members are transcription factors with a POZ domain and
+zinc-fingers that act primarily as transcriptional repressors. Several members of
+this family are involved in oncogenesis and this prompted us to assess whether
+expression levels of individual POK family members are associated with clinical
+outcomes in cancer. We have observed that ZBTB4 (zinc-finger and BTB domain
+containing 4) is downregulated in breast cancer patients, and that its expression
+is significantly correlated with relapse-free survival. Further integrative
+analysis of mRNA and microRNA (miR) expression data from the NCI-60 cell lines
+revealed an inverse correlation between ZBTB4 and oncogenic miRs derived from the
+miR-17-92 cluster and its paralogs. The experimental results using MDA-MB-231 and
+MCF-7 human breast cancer cells confirm that miRNAs derived from these clusters, 
+containing miR-17-5p, miR-20a, miR-106a, miR-106b and miR-93, negatively regulate
+ZBTB4 expression. Overexpression of ZBTB4 or restoration of ZBTB4 by using an
+antagomir inhibit growth and invasion of breast cancer cells, and this effect is 
+due, in part, to ZBTB4-dependent repression of the specificity protein 1 (Sp1),
+Sp3 and Sp4 genes, and subsequent downregulation of several Sp-dependent
+oncogenes, in part, through competition between ZBTB4 and Sp transcription
+factors for GC-rich promoter sequences. These results confirm that ZBTB4
+functions as a novel tumor-suppressor gene with prognostic significance for
+breast cancer survival, and the oncogenic miR-17-92/ZBTB4/Sp axis may be a
+potential therapeutic target.
+
+PMCID: PMC3288192
+PMID: 21765466  [PubMed - indexed for MEDLINE]
+
+
+16. PLoS One. 2010 Dec 31;5(12):e15747. doi: 10.1371/journal.pone.0015747.
+
+The molecular evolution of the p120-catenin subfamily and its functional
+associations.
+
+Carnahan RH(1), Rokas A, Gaucher EA, Reynolds AB.
+
+Author information: 
+(1)Department of Cancer Biology, Vanderbilt University, Nashville, Tennessee,
+United States of America.
+
+BACKGROUND: p120-catenin (p120) is the prototypical member of a subclass of
+armadillo-related proteins that includes d-catenin/NPRAP, ARVCF, p0071, and the
+more distantly related plakophilins 1-3. In vertebrates, p120 is essential in
+regulating surface expression and stability of all classical cadherins, and
+directly interacts with Kaiso, a BTB/ZF family transcription factor.
+METHODOLOGY/PRINCIPAL FINDINGS: To clarify functional relationships between these
+proteins and how they relate to the classical cadherins, we have examined the
+proteomes of 14 diverse vertebrate and metazoan species. The data reveal a single
+ancient d-catenin-like p120 family member present in the earliest metazoans and
+conserved throughout metazoan evolution. This single p120 family protein is
+present in all protostomes, and in certain early-branching chordate lineages.
+Phylogenetic analyses suggest that gene duplication and functional
+diversification into "p120-like" and "d-catenin-like" proteins occurred in the
+urochordate-vertebrate ancestor. Additional gene duplications during early
+vertebrate evolution gave rise to the seven vertebrate p120 family members. Kaiso
+family members (i.e., Kaiso, ZBTB38 and ZBTB4) are found only in vertebrates,
+their origin following that of the p120-like gene lineage and coinciding with the
+evolution of vertebrate-specific mechanisms of epigenetic gene regulation by CpG 
+island methylation.
+CONCLUSIONS/SIGNIFICANCE: The p120 protein family evolved from a common
+d-catenin-like ancestor present in all metazoans. Through several rounds of gene 
+duplication and diversification, however, p120 evolved in vertebrates into an
+essential, ubiquitously expressed protein, whereas loss of the more selectively
+expressed d-catenin, p0071 and ARVCF are tolerated in most species. Together with
+phylogenetic studies of the vertebrate cadherins, our data suggest that the
+p120-like and d-catenin-like genes co-evolved separately with non-neural (E- and 
+P-cadherin) and neural (N- and R-cadherin) cadherin lineages, respectively. The
+expansion of p120 relative to d-catenin during vertebrate evolution may reflect
+the pivotal and largely disproportionate role of the non-neural cadherins with
+respect to evolution of the wide range of somatic morphology present in
+vertebrates today.
+
+PMCID: PMC3013132
+PMID: 21209830  [PubMed - indexed for MEDLINE]
+
+
+17. Nucleic Acids Res. 2010 Aug;38(15):5015-22. doi: 10.1093/nar/gkq280. Epub 2010
+Apr 19.
+
+Sequence-specific recognition of methylated DNA by human zinc-finger proteins.
+
+Sasai N(1), Nakao M, Defossez PA.
+
+Author information: 
+(1)CNRS UMR7216, Université Paris-Diderot, Paris, France.
+
+DNA methylation is an essential epigenetic mark. Three classes of mammalian
+proteins recognize methylated DNA: MBD proteins, SRA proteins and the zinc-finger
+proteins Kaiso, ZBTB4 and ZBTB38. The last three proteins can bind either
+methylated DNA or unmethylated consensus sequences; how this is achieved is
+largely unclear. Here, we report that the human zinc-finger proteins Kaiso, ZBTB4
+and ZBTB38 can bind methylated DNA in a sequence-specific manner, and that they
+may use a mode of binding common to other zinc-finger proteins. This suggests
+that many other sequence-specific methyl binding proteins may exist.
+
+PMCID: PMC2926618
+PMID: 20403812  [PubMed - indexed for MEDLINE]
+
+
+18. Chem Biol Interact. 2010 Apr 15;185(1):42-52. doi: 10.1016/j.cbi.2010.02.002.
+Epub 2010 Feb 6.
+
+Factors determining sensitivity or resistance of tumor cell lines towards
+artesunate.
+
+Sertel S(1), Eichhorn T, Sieber S, Sauer A, Weiss J, Plinkert PK, Efferth T.
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head & Neck Surgery, University of
+Heidelberg, Heidelberg, Germany.
+
+Clinical oncology is still challenged by the development of drug resistance of
+tumors that result in poor prognosis for patients. There is an urgent necessity
+to understand the molecular mechanisms of resistance and to develop novel therapy
+strategies. Artesunate (ART) is an anti-malarial drug, which also exerts profound
+cytotoxic activity towards cancer cells. We first applied a gene-hunting approach
+using cluster and COMPARE analyses of microarray-based transcriptome-wide mRNA
+expression profiles. Among the genes identified by this approach were genes from 
+diverse functional groups such as structural constituents of ribosomes (RPL6,
+RPL7, RPS12, RPS15A), kinases (CABC1, CCT2, RPL41), transcriptional and
+translational regulators (SFRS2, TUFM, ZBTB4), signal transducers (FLNA), control
+of cell growth and proliferation (RPS6), angiogenesis promoting factors (ITGB1), 
+and others (SLC25A19, NCKAP1, BST1, DBH, FZD7, NACA, MTHFD2). Furthermore, we
+applied a candidate gene approach and tested the role of resistance mechanisms
+towards established anti-cancer drugs for ART resistance. By using transfected or
+knockout cell models we found that the tumor suppressor p16(INK4A) and the
+anti-oxidant protein, catalase, conferred resistance towards ART, while the
+oncogene HPV-E6 conferred sensitivity towards ART. The tumor suppressor p53 and
+its downstream protein, p21, as well as the anti-oxidant manganese-dependent
+superoxide dismutase did not affect cellular response to ART. In conclusion, our 
+pharmacogenomic approach revealed that response of tumor cells towards ART is
+multi-factorial and is determined by gene expression associated with either ART
+sensitivity or resistance. At least some of the functional groups of genes (e.g. 
+angiogenesis promoting factors, cell growth and proliferation-associated genes
+signal transducers and kinases) are also implicated in clinical responsiveness of
+tumors towards chemotherapy. It merits further investigation, whether ART is
+responsive in clinically refractory tumors and whether the genes identified in
+the present study also determine clinical responsiveness towards ART.
+
+Copyright 2010 Elsevier Ireland Ltd. All rights reserved.
+
+PMID: 20144594  [PubMed - indexed for MEDLINE]
+
+
+19. Oncogene. 2009 Jul 9;28(27):2535-44. doi: 10.1038/onc.2009.109. Epub 2009 May 18.
+
+The human protein kinase HIPK2 phosphorylates and downregulates the
+methyl-binding transcription factor ZBTB4.
+
+Yamada D(1), Pérez-Torrado R, Filion G, Caly M, Jammart B, Devignot V, Sasai N,
+Ravassard P, Mallet J, Sastre-Garau X, Schmitz ML, Defossez PA.
+
+Author information: 
+(1)CNRS UMR218, Institut Curie, Paris, France.
+
+HIPK2 is a eukaryotic Serine-Threonine kinase that controls cellular
+proliferation and survival in response to exogenous signals. Here, we show that
+the human transcription factor ZBTB4 is a new target of HIPK2. The two proteins
+interact in vitro, colocalize and associate in vivo, and HIPK2 phosphorylates
+several conserved residues of ZBTB4. Overexpressing HIPK2 causes the degradation 
+of ZBTB4, whereas overexpressing a kinase-deficient mutant of HIPK2 has no
+effect. The chemical activation of HIPK2 also decreases the amount of ZBTB4 in
+cells. Conversely, the inhibition of HIPK2 by drugs or by RNA interference causes
+a large increase in ZBTB4 levels. This negative regulation of ZBTB4 by HIPK2
+occurs under normal conditions of cell growth. In addition, the degradation is
+increased by DNA damage. These findings have two consequences. First, we have
+recently shown that ZBTB4 inhibits the transcription of p21. Therefore, the
+activation of p21 by HIPK2 is two-pronged: stimulation of the activator p53, and 
+simultaneous repression of the inhibitor ZBTB4. Second, ZBTB4 is also known to
+bind methylated DNA and repress methylated sequences. Consequently, our findings 
+raise the possibility that HIPK2 might influence the epigenetic regulation of
+gene expression at loci that remain to be identified.
+
+PMID: 19448668  [PubMed - indexed for MEDLINE]
+
+
+20. EMBO J. 2008 Jun 4;27(11):1563-74. doi: 10.1038/emboj.2008.85. Epub 2008 May 1.
+
+Zbtb4 represses transcription of P21CIP1 and controls the cellular response to
+p53 activation.
+
+Weber A(1), Marquardt J, Elzi D, Forster N, Starke S, Glaum A, Yamada D, Defossez
+PA, Delrow J, Eisenman RN, Christiansen H, Eilers M.
+
+Author information: 
+(1)Institute of Molecular Biology and Tumour Research (IMT), Marburg, Germany.
+
+In response to stimuli that activate p53, cells can undergo either apoptosis or
+cell cycle arrest, depending on the precise pattern of p53 target genes that is
+activated. We show here that Zbtb4, a transcriptional repressor protein,
+associates with the Sin3/histone deacetylase co-repressor and represses
+expression of P21CIP1 as part of a heterodimeric complex with Miz1. In vivo,
+expression of ZBTB4 is downregulated in advanced stages of multiple human
+tumours. In cell culture, depletion of ZBTB4 promotes cell cycle arrest in
+response to activation of p53 and suppresses apoptosis through regulation of
+P21CIP1, thereby promoting long-term cell survival. Our data suggest that Zbtb4
+is a critical determinant of the cellular response to p53 activation and
+reinforce the notion that p21Cip1 can provide an essential survival signal in
+cells with activated p53.
+
+PMCID: PMC2426723
+PMID: 18451802  [PubMed - indexed for MEDLINE]
+
+
+21. Biotechniques. 2008 Jan;44(1):66, 68.
+
+Assessment of sera for chromatin-immunoprecipitation.
+
+Nguyen J(1), Yamada D, Schultz DC, Defossez PA.
+
+Author information: 
+(1)Centre National de la Recherche Scientifique, Paris, France.
+
+Chromatin-immunoprecipitation (ChIP) is a powerful technique for mapping the
+protein-DNA interactions that occur in living cells. The critical technical
+determinant for successful ChIP is the availability of an appropriate,
+"ChIP-grade" serum. Here we present a technique designed to assess whether sera
+are suitable for ChIP, and to quantify their efficiency relative to a positive
+internal reference. This approach is useful as a first step toward ChIP-on-chip
+or ChIP-sequencing, especially in the case of recently identified proteins for
+which no binding sites are yet known.
+
+PMID: 18254381  [PubMed - indexed for MEDLINE]
+
+
+22. Anal Biochem. 2006 Oct 1;357(1):156-8. Epub 2006 Aug 4.
+
+Using reverse electrophoretic mobility shift assay to measure and compare
+protein-DNA binding affinities.
+
+Filion GJ(1), Fouvry L, Defossez PA.
+
+Author information: 
+(1)CNRS UMR218, Institut Curie, Section recherche, 75248 Paris Cedex 05, France.
+
+PMID: 16914111  [PubMed - indexed for MEDLINE]
+
+
+23. Mol Cell Biol. 2006 Jan;26(1):169-81.
+
+A family of human zinc finger proteins that bind methylated DNA and repress
+transcription.
+
+Filion GJ(1), Zhenilo S, Salozhin S, Yamada D, Prokhortchouk E, Defossez PA.
+
+Author information: 
+(1)Institut Curie, CNRS UMR218, Paris 75248, France.
+
+In vertebrates, densely methylated DNA is associated with inactive transcription.
+Actors in this process include proteins of the MBD family that can recognize
+methylated CpGs and repress transcription. Kaiso, a structurally unrelated
+protein, has also been shown to bind methylated CGCGs through its three
+Krüppel-like C2H2 zinc fingers. The human genome contains two uncharacterized
+proteins, ZBTB4 and ZBTB38, that contain Kaiso-like zinc fingers. We report that 
+ZBTB4 and ZBTB38 bind methylated DNA in vitro and in vivo. Unlike Kaiso, they can
+bind single methylated CpGs. When transfected in mouse cells, the proteins
+colocalize with foci of heavily methylated satellite DNA and become delocalized
+upon loss of DNA methylation. Chromatin immunoprecipitation suggests that both of
+these proteins specifically bind to the methylated allele of the H19/Igf2
+differentially methylated region. ZBTB4 and ZBTB38 repress the transcription of
+methylated templates in transfection assays. The two genes have distinct
+tissue-specific expression patterns, but both are highly expressed in the brain. 
+Our results reveal the existence of a family of Kaiso-like proteins that bind
+methylated CpGs. Like proteins of the MBD family, they are able to repress
+transcription in a methyl-dependent manner, yet their tissue-specific expression 
+pattern suggests nonoverlapping functions.
+
+PMCID: PMC1317629
+PMID: 16354688  [PubMed - indexed for MEDLINE]
+
+

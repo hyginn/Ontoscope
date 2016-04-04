@@ -1,0 +1,1468 @@
+
+1. Jpn J Clin Oncol. 2016 Mar;46(3):209-21. doi: 10.1093/jjco/hyv185. Epub 2016 Jan 
+4.
+
+Forkhead box protein k1 recruits TET1 to act as a tumor suppressor and is
+associated with MRI detection.
+
+Sun T(1), Wang H(2), Li Q(3), Qian Z(4), Shen C(5).
+
+Author information: 
+(1)Department of Radiology, International Peace Maternity and Child Health
+Hospital, Shanghai Jiaotong University, Shanghai. (2)Department of Rheumatology, 
+Gansu Provincial Hospital, Lanzhou, Gansu. (3)Department of Cardiology, Ningbo
+NO.7 Hospital, Ningbo, Zhejiang. (4)Department of Radiology, International Peace 
+Maternity and Child Health Hospital, Shanghai Jiaotong University, Shanghai
+shenzihai1101@126.com zhaoxiaqian002@126.com. (5)Department of Cardiology, Ningbo
+NO.7 Hospital, Ningbo, Zhejiang shenzihai1101@126.com zhaoxiaqian002@126.com.
+
+OBJECTIVE: Today, more and more evidence suggests that Foxk proteins (Foxk1 and
+Foxk2) work as transcriptional repressors in different kinds of cancer, but
+whether Foxk1 has a role in mediating tumorigenesis in breast cancer, the
+evidence is rare.
+METHODS: MCF-7 cells transfected with shFoxk1 displayed a mesenchymal morphology 
+and reduced the expression of E-cadherin, and increased the expression of
+N-cadherin. Transwell invasion assay and living imaging assay show that the
+overexpression of Foxk1 could inhibit metastasis in vitro and in vivo.
+Ribonucleic acid sequencing revealed that the knockdown of Foxk1 resulted in the 
+up-regulation of different oncogenes, which was implicated in metastasis and
+tumor angiopoiesis. Quantitative chromatin immunoprecipitation, chromatin
+immunoprecipitation and Luciferase reporter assays suggested that Foxk1 could
+bind to the promoter of epithelial-mesenchymal transition inducer Twist and
+vascular endothelial growth factor, VEGF. Mass Spectrometry,
+co-immunoprecipitation assays and glutathione-S-transferase pull-down assay
+detected that Foxk1 was physically associated with Ten-eleven translocation 1,
+TET1, in vivo and in vitro.
+RESULTS: We reported that the mean expression level of Foxk1 in breast cancer was
+significantly lower than the adjacent noncarcinoma tissue. The higher Foxk1
+expression was associated with better prognosis. Endothelial tube formation
+assays indicated that Foxk1 might regulate breast cancer angiogenesis through
+transcriptional repression of vascular endothelial growth factor. Furthermore, in
+vivo magnetic resonance imaging revealed the overexpression of Foxk1 could
+enhance the detection of the tumors. Further, a strong negative correlation was
+observed between Foxk1 and Twsit or between Foxk1 and vascular endothelial growth
+factor, and the higher Foxk1 expression is correlated with better over all
+survivals and better relapse-free survivals.
+CONCLUSIONS: Together, our data indicated the function of Foxk1 as a tumor
+suppressor in facilitating angiogenesis and metastasis in breast cancer.
+
+© The Author 2016. Published by Oxford University Press. All rights reserved. For
+Permissions, please email: journals.permissions@oup.com.
+
+PMID: 26732382  [PubMed - in process]
+
+
+2. J Biol Chem. 2015 Dec 4;290(49):29617-28. doi: 10.1074/jbc.M115.664649. Epub 2015
+Oct 14.
+
+JNK-associated Leucine Zipper Protein Functions as a Docking Platform for
+Polo-like Kinase 1 and Regulation of the Associating Transcription Factor
+Forkhead Box Protein K1.
+
+Ramkumar P(1), Lee CM(1), Moradian A(2), Sweredoski MJ(2), Hess S(2), Sharrocks
+AD(3), Haines DS(4), Reddy EP(5).
+
+Author information: 
+(1)From the Department of Oncological Sciences, Icahn School of Medicine at Mount
+Sinai, New York, New York 10029. (2)the Proteome Exploration Laboratory, Beckman 
+Institute, California Institute of Technology, Pasadena, California 91125, and.
+(3)the Faculty of Life Sciences, University of Manchester, Manchester M13 9PL,
+United Kingdom. (4)the Fels Institute for Cancer Research and Molecular Biology, 
+Temple University, Philadelphia, Pennsylvania 19122. (5)From the Department of
+Oncological Sciences, Icahn School of Medicine at Mount Sinai, New York, New York
+10029, ep.reddy@mssm.edu.
+
+JLP (JNK-associated leucine zipper protein) is a scaffolding protein that
+interacts with various signaling proteins associated with coordinated regulation 
+of cellular process such as endocytosis, motility, neurite outgrowth, cell
+proliferation, and apoptosis. Here we identified PLK1 (Polo-like kinase 1) as a
+novel interaction partner of JLP through mass spectrometric approaches. Our
+results indicate that JLP is phospho-primed by PLK1 on Thr-351, which is
+recognized by the Polo box domain of PLK1 leading to phosphorylation of JLP at
+additional sites. Stable isotope labeling by amino acids in cell culture and
+quantitative LC-MS/MS analysis was performed to identify PLK1-dependent
+JLP-interacting proteins. Treatment of cells with the PLK1 kinase inhibitor
+BI2536 suppressed binding of the Forkhead box protein K1 (FOXK1) transcriptional 
+repressor to JLP. JLP was found to interact with PLK1 and FOXK1 during mitosis.
+Moreover, knockdown of PLK1 affected the interaction between JLP and FOXK1. FOXK1
+is a known transcriptional repressor of the CDK inhibitor p21/WAF1, and knockdown
+of JLP resulted in increased FOXK1 protein levels and a reduction of p21
+transcript levels. Our results suggest a novel mechanism by which FOXK1 protein
+levels and activity are regulated by associating with JLP and PLK1.
+
+© 2015 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+PMCID: PMC4705960 [Available on 2016-12-04]
+PMID: 26468278  [PubMed - in process]
+
+
+3. MBio. 2015 Apr 7;6(2). pii: e02509-14. doi: 10.1128/mBio.02509-14.
+
+The transcription factor FoxK participates with Nup98 to regulate antiviral gene 
+expression.
+
+Panda D(1), Gold B(1), Tartell MA(1), Rausch K(1), Casas-Tinto S(2), Cherry S(3).
+
+Author information: 
+(1)Department of Microbiology, University of Pennsylvania, Philadelphia,
+Pennsylvania, USA. (2)Molecular, Cellular, and Developmental Neurobiology
+Department, Instituto Cajal, Madrid, Spain. (3)Department of Microbiology,
+University of Pennsylvania, Philadelphia, Pennsylvania, USA
+cherrys@mail.med.upenn.edu.
+
+Upon infection, pathogen recognition leads to a rapidly activated gene expression
+program that induces antimicrobial effectors to clear the invader. We recently
+found that Nup98 regulates the expression of a subset of rapidly activated
+antiviral genes to restrict disparate RNA virus infections in Drosophila by
+promoting RNA polymerase occupancy at the promoters of these antiviral genes. How
+Nup98 specifically targets these loci was unclear; however, it is known that
+Nup98 participates with transcription factors to regulate developmental-gene
+activation. We reasoned that additional transcription factors may facilitate the 
+Nup98-dependent expression of antiviral genes. In a genome-wide RNA interference 
+(RNAi) screen, we identified a relatively understudied forkhead transcription
+factor, FoxK, as active against Sindbis virus (SINV) in Drosophila. Here we find 
+that FoxK is active against the panel of viruses that are restricted by Nup98,
+including SINV and vesicular stomatitis virus (VSV). Mechanistically, we show
+that FoxK coordinately regulates the Nup98-dependent expression of antiviral
+genes. Depletion of FoxK significantly reduces Nup98-dependent induction of
+antiviral genes and reduces the expression of a forkhead response
+element-containing luciferase reporter. Together, these data show that
+FoxK-mediated activation of gene expression is Nup98 dependent. We extended our
+studies to mammalian cells and found that the mammalian ortholog FOXK1 is
+antiviral against two disparate RNA viruses, SINV and VSV, in human cells.
+Interestingly, FOXK1 also plays a role in the expression of antiviral genes in
+mammals: depletion of FOXK1 attenuates virus-inducible interferon-stimulated
+response element (ISRE) reporter expression. Overall, our results demonstrate a
+novel role for FOXK1 in regulating the expression of antiviral genes, from
+insects to humans.IMPORTANCE: Innate immunity is characterized by rapid gene
+expression programs, from insects to mammals. Furthermore, we find that Nup98,
+known for its roles in the nuclear pore, plays a noncanonical role in binding the
+promoters and poising a subset of loci for rapid antiviral gene induction. It was
+unclear how Nup98 accesses these specific genes, and we here demonstrate that
+Nup98 cooperates with the transcription factor FoxK to regulate this gene
+expression program. Depletion of FoxK specifically reduces the induction of
+Nup98-dependent genes. Further, we find that the antiviral function of FoxK is
+conserved, as the human ortholog FOXK1 is also antiviral and regulates gene
+expression from virus-induced promoters. Although other forkhead transcription
+factors have been implicated in immunity, a role for FoxK in antiviral defense
+was previously unappreciated. Our findings reveal a conserved and novel role for 
+FoxK in coordinating with Nup98 to promote a robust and complex antiviral
+transcriptional response.
+
+Copyright © 2015 Panda et al.
+
+PMCID: PMC4453567
+PMID: 25852164  [PubMed - indexed for MEDLINE]
+
+
+4. Dev Cell. 2015 Mar 23;32(6):707-18. doi: 10.1016/j.devcel.2015.01.031.
+
+FOXKs promote Wnt/ß-catenin signaling by translocating DVL into the nucleus.
+
+Wang W(1), Li X(1), Lee M(2), Jun S(1), Aziz KE(1), Feng L(1), Tran MK(1), Li
+N(1), McCrea PD(2), Park JI(1), Chen J(3).
+
+Author information: 
+(1)Department of Experimental Radiation Oncology, The University of Texas MD
+Anderson Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030, USA.
+(2)Department of Genetics, The University of Texas MD Anderson Cancer Center,
+1515 Holcombe Boulevard, Houston, TX 77030, USA. (3)Department of Experimental
+Radiation Oncology, The University of Texas MD Anderson Cancer Center, 1515
+Holcombe Boulevard, Houston, TX 77030, USA. Electronic address:
+jchen8@mdanderson.org.
+
+Dishevelled (DVL) proteins serve as crucial regulators that transduce canonical
+Wnt signals to the GSK3ß-destruction complex, resulting in the stabilization of
+ß-catenin. Emerging evidence underscores the nuclear functions of DVLs, which are
+critical for Wnt/ß-catenin signaling. However, the mechanism underlying DVL
+nuclear localization remains poorly understood. Here we discovered two Forkhead
+box (FOX) transcription factors, FOXK1 and FOXK2, as bona fide DVL-interacting
+proteins. FOXK1 and FOXK2 positively regulate Wnt/ß-catenin signaling by
+translocating DVL into the nucleus. Moreover, FOXK1 and FOXK2 protein levels are 
+elevated in human colorectal cancers and correlate with DVL nuclear localization.
+Conditional expression of Foxk2 in mice induced intestinal hyper-proliferation
+that featured enhanced DVL nuclear localization and upregulated Wnt/ß-catenin
+signaling. Together, our results not only reveal a mechanism by which DVL is
+translocated into the nucleus but also suggest unexpected roles of FOXK1 and
+FOXK2 in regulating Wnt/ß-catenin signaling.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+PMCID: PMC4374128
+PMID: 25805136  [PubMed - indexed for MEDLINE]
+
+
+5. J Biol Chem. 2015 Jan 16;290(3):1580-91. doi: 10.1074/jbc.M114.609834. Epub 2014 
+Dec 1.
+
+BRCA1-associated protein 1 (BAP1) deubiquitinase antagonizes the
+ubiquitin-mediated activation of FoxK2 target genes.
+
+Okino Y(1), Machida Y(1), Frankland-Searby S(2), Machida YJ(3).
+
+Author information: 
+(1)From the Departments of Oncology and. (2)Molecular Pharmacology and
+Experimental Therapeutics, Mayo Clinic, Rochester, Minnesota 55905. (3)From the
+Departments of Oncology and Molecular Pharmacology and Experimental Therapeutics,
+Mayo Clinic, Rochester, Minnesota 55905 machida.yuichi@mayo.edu.
+
+BRCA1-associated protein 1 (BAP1), which is frequently mutated in cancer,
+functions as a deubiquitinase (DUB) for histone H2A. Although BAP1 interacts with
+a transcriptional regulator, HCF-1, and transcription factors FoxK1 and FoxK2,
+how BAP1 controls gene expression remains unclear. This study investigates the
+importance of BAP1 DUB activity and the interactions with FoxK2 and HCF-1 in the 
+regulation of FoxK2 target genes. We show that FoxK2 recruits BAP1 to the target 
+genes through the forkhead-associated domain, which interacts with Thr(P)-493 on 
+BAP1. BAP1, in turn, recruits HCF-1, thereby forming a ternary complex in which
+BAP1 bridges FoxK2 and HCF-1. BAP1 represses FoxK2 target genes, and this effect 
+requires BAP1 DUB activity but not interaction with HCF-1. Importantly, BAP1
+depletion causes up-regulation of FoxK2 target genes only in the presence of the 
+Ring1B-Bmi1 complex, an E3 ubiquitin ligase for histone H2A, indicating an
+antagonizing role of BAP1 against Ring1B-Bmi1. Our findings suggest that BAP1
+deficiency causes increased expression of target genes in a Ring1B-Bmi1-dependent
+manner.
+
+© 2015 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+PMCID: PMC4340404
+PMID: 25451922  [PubMed - indexed for MEDLINE]
+
+
+6. Nat Cell Biol. 2014 Dec;16(12):1202-14. doi: 10.1038/ncb3062. Epub 2014 Nov 17.
+
+Foxk proteins repress the initiation of starvation-induced atrophy and autophagy 
+programs.
+
+Bowman CJ(1), Ayer DE(2), Dynlacht BD(1).
+
+Author information: 
+(1)Department of Pathology, New York University Cancer Institute, New York
+University School of Medicine, New York, New York 10016, USA. (2)Department of
+Oncological Sciences, Huntsman Cancer Institute, University of Utah, Salt Lake
+City, Utah 84112, USA.
+
+Autophagy is the primary catabolic process triggered in response to starvation.
+Although autophagic regulation within the cytosolic compartment is well
+established, it is becoming clear that nuclear events also regulate the induction
+or repression of autophagy. Nevertheless, a thorough understanding of the
+mechanisms by which sequence-specific transcription factors modulate expression
+of genes required for autophagy is lacking. Here, we identify Foxk proteins
+(Foxk1 and Foxk2) as transcriptional repressors of autophagy in muscle cells and 
+fibroblasts. Interestingly, Foxk1/2 serve to counter-balance another forkhead
+transcription factor, Foxo3, which induces an overlapping set of autophagic and
+atrophic targets in muscle. Foxk1/2 specifically recruits Sin3A-HDAC complexes to
+restrict acetylation of histone H4 and expression of critical autophagy genes.
+Remarkably, mTOR promotes the transcriptional activity of Foxk1 by facilitating
+nuclear entry to specifically limit basal levels of autophagy in nutrient-rich
+conditions. Our study highlights an ancient, conserved mechanism whereby
+nutritional status is interpreted by mTOR to restrict autophagy by repressing
+essential autophagy genes through Foxk-Sin3-mediated transcriptional control.
+
+PMCID: PMC4250422
+PMID: 25402684  [PubMed - indexed for MEDLINE]
+
+
+7. J Ovarian Res. 2014 Jan 21;7:9. doi: 10.1186/1757-2215-7-9.
+
+Risk miRNA screening of ovarian cancer based on miRNA functional synergistic
+network.
+
+Ying H(1), Lyu J, Ying T, Li J, Jin S, Shao J, Wang L, Xu H.
+
+Author information: 
+(1)Department of Gynecology and Obstetrics, Shengjing Hospital of China Medical
+University, No,36, Sanhao Street, Heping District, Shenyang, Liaoning Province
+110004, China. huanchunying2@hotmail.com.
+
+Retraction in
+    J Ovarian Res. 2015;8(1):17.
+
+BACKGROUND: miRNAs are proved to have causal roles in tumorgenesis involving
+various types of human cancers, but the mechanism is not clear. We aimed to
+explore the effect of miRNAs on the development of ovarian cancer and the
+underlying mechanism.
+METHODS: The miRNA expression profile GSE31801 was downloaded from GEO (Gene
+Expression Omnibus) database. Firstly, the differentially expressed miRNAs were
+screened. Target genes of the miRNAs were collected from TargetScan, PicTar,
+miRanda, and DIANA-microT database, then the miRNA-miRNA co-regulating network
+was constructed using miRNA pairs with common regulated target genes. Next, the
+functional modules in the network were studied, the miRNA pairs regulated at
+least one modules were enriched to form the miRNA functional synergistic network 
+(MFSN).
+RESULTS: Risk miRNA were selected in MFSN according to the topological structure.
+Transcript factors (TFs) in MFSN were identified, followed by the
+miRNA-transcript factor networks construction. Totally, 42 up- and 61
+down-regulated differentially expressed miRNAs were identified, of which 68
+formed 2292 miRNA pairs in the miRNA-miRNA co-regulating network. GO: 0007268
+(synaptic transmission) and GO: 0019226 (transmission of nerve impulse) were the 
+two common functions of miRNAs in MFSN, and hsa-miR-579 (36), hsa-miR-942 (31),
+hsa-miR-105 (31), hsa-miR-150 (34), and hsa-miR-27a* (32) were selected as the
+hub nodes in MFSN.
+CONCLUSIONS: In all, 17 TFs, including CREM, ERG, and CREB1 were screened as the 
+cancer related TFs in MFSN. Other TFs, such as BIN1, FOXN3, FOXK1, FOXP2, and
+ESRRG with high degrees may be inhibited in ovarian cancer. MFSN gave us a new
+shed light on the mechanism studies in ovarian cancer.
+
+PMCID: PMC3902002
+PMID: 24444095  [PubMed]
+
+
+8. Genome Biol. 2013;14(10):R119.
+
+A screen for hydroxymethylcytosine and formylcytosine binding proteins suggests
+functions in transcription and chromatin regulation.
+
+Iurlaro M, Ficz G, Oxley D, Raiber EA, Bachman M, Booth MJ, Andrews S,
+Balasubramanian S, Reik W.
+
+BACKGROUND: DNA methylation (5mC) plays important roles in epigenetic regulation 
+of genome function. Recently, TET hydroxylases have been found to oxidise 5mC to 
+hydroxymethylcytosine (5hmC), formylcytosine (5fC) and carboxylcytosine (5caC) in
+DNA. These derivatives have a role in demethylation of DNA but in addition may
+have epigenetic signaling functions in their own right. A recent study identified
+proteins which showed preferential binding to 5-methylcytosine (5mC) and its
+oxidised forms, where readers for 5mC and 5hmC showed little overlap, and
+proteins bound to further oxidation forms were enriched for repair proteins and
+transcription regulators. We extend this study by using promoter sequences as
+baits and compare protein binding patterns to unmodified or modified cytosine
+using DNA from mouse embryonic stem cell extracts.
+RESULTS: We compared protein enrichments from two DNA probes with different CpG
+composition and show that, whereas some of the enriched proteins show specificity
+to cytosine modifications, others are selective for both modification and target 
+sequences. Only a few proteins were identified with a preference for 5hmC (such
+as RPL26, PRP8 and the DNA mismatch repair protein MHS6), but proteins with a
+strong preference for 5fC were more numerous, including transcriptional
+regulators (FOXK1, FOXK2, FOXP1, FOXP4 and FOXI3), DNA repair factors (TDG and
+MPG) and chromatin regulators (EHMT1, L3MBTL2 and all components of the NuRD
+complex).
+CONCLUSIONS: Our screen has identified novel proteins that bind to 5fC in genomic
+sequences with different CpG composition and suggests they regulate transcription
+and chromatin, hence opening up functional investigations of 5fC readers.
+
+PMCID: PMC4014808
+PMID: 24156278  [PubMed - indexed for MEDLINE]
+
+
+9. Virology. 2013 Sep 1;443(2):313-20. doi: 10.1016/j.virol.2013.05.018. Epub 2013
+Jun 5.
+
+Interaction of CtBP with adenovirus E1A suppresses immortalization of primary
+epithelial cells and enhances virus replication during productive infection.
+
+Subramanian T(1), Zhao LJ, Chinnadurai G.
+
+Author information: 
+(1)Institute for Molecular Virology, Saint Louis University Health Sciences
+Center, Doisy Research Center, 1100 South Grand Blvd., Saint Louis, MO 63104,
+USA.
+
+Adenovirus E1A induces cell proliferation, oncogenic transformation and promotes 
+viral replication through interaction with p300/CBP, TRRAP/p400 multi-protein
+complex and the retinoblastoma (pRb) family proteins through distinct domains in 
+the E1A N-terminal region. The C-terminal region of E1A suppresses E1A/Ras
+co-transformation and interacts with FOXK1/K2, DYRK1A/1B/HAN11 and CtBP1/2 (CtBP)
+protein complexes. To specifically dissect the role of CtBP interaction with E1A,
+we engineered a mutation (DL<U+2192>AS) within the CtBP-binding motif, PLDLS, and
+investigated the effect of the mutation on immortalization and Ras cooperative
+transformation of primary cells and viral replication. Our results suggest that
+CtBP-E1A interaction suppresses immortalization and Ras co-operative
+transformation of primary rodent epithelial cells without significantly
+influencing the tumorigenic activities of transformed cells in immunodeficient
+and immunocompetent animals. During productive infection, CtBP-E1A interaction
+enhances viral replication in human cells. Between the two CtBP family proteins, 
+CtBP2 appears to restrict viral replication more than CtBP1 in human cells.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+PMCID: PMC3732182
+PMID: 23747199  [PubMed - indexed for MEDLINE]
+
+
+10. Gene Expr Patterns. 2013 Oct;13(7):280-6. doi: 10.1016/j.gep.2013.05.003. Epub
+2013 May 25.
+
+The transcription factor Foxk1 is expressed in developing and adult mouse
+neuroretina.
+
+Sel S(1), Münzenberg C, Nass N, Kalinski T, Datan M, Auffarth GU, Töteberg-Harms 
+M, Zenkel M, Kruse FE, Paulsen F, Schicht M.
+
+Author information: 
+(1)Department of Ophthalmology, University Erlangen-Nuremberg, Erlangen, Germany.
+saadettinsel@googlemail.com
+
+The forkhead transcription factor Foxk1 is an important regulator of myogenic
+progenitor cells. Since our previous data from mouse retina revealed that Foxk1
+is upregulated in Ptf1a-deficient mice we investigated the spatial and temporal
+expression of Foxk1 during development of mouse retina. Expression of Foxk1 was
+analyzed on both mRNA and protein level. To identify Foxk1 transcripts, retina
+and cerebrum (positive control) of adult animals (postnatal day 90 (P90)) was
+subjected to reverse transcription polymerase chain reaction (RT-PCR) and
+sequencing of the amplified cDNA. The Foxk1 protein was analyzed in adult retina 
+by Western blotting and in developing eyes at embryonic day (E) 13, 15, E17, P0, 
+P4, P7, P10 and P90 by immunohistochemistry. Localization of Foxk1 expression was
+determined using cell-specific markers by double labelling. Foxk1 transcripts
+were detected in adult retina by RT-PCR and confirmed by sequencing. Western blot
+analysis confirmed the expression of Foxk1 protein in the adult retina.
+Immunohistochemical examination of developing eyes localized the protein to
+bipolar, amacrine and ganglion cells with an onset of Foxk1 expression from E15
+onwards. The expression pattern during development suggests that Foxk1 may have
+an important role in retinal cells.
+
+Copyright © 2013 Elsevier B.V. All rights reserved.
+
+PMID: 23714736  [PubMed - indexed for MEDLINE]
+
+
+11. J Cell Sci. 2012 Nov 15;125(Pt 22):5329-37. doi: 10.1242/jcs.105239. Epub 2012
+Sep 6.
+
+Foxk1 promotes cell proliferation and represses myogenic differentiation by
+regulating Foxo4 and Mef2.
+
+Shi X(1), Wallis AM, Gerard RD, Voelker KA, Grange RW, DePinho RA, Garry MG,
+Garry DJ.
+
+Author information: 
+(1)Lillehei Heart Institute, University of Minnesota-Twin Cities, Minneapolis, MN
+55455, USA.
+
+In response to severe injury, adult skeletal muscle exhibits a remarkable
+regenerative capacity due to a resident muscle stem/progenitor cell population.
+While a number of factors are expressed in the muscle progenitor cell (MPC)
+population, the molecular networks that govern this cell population remain an
+area of active investigation. In this study, utilizing knockdown techniques and
+overexpression of Foxk1 in the myogenic lineage, we observed dysregulation of
+Foxo and Mef2 downstream targets. Utilizing an array of technologies, we
+establish that Foxk1 represses the transcriptional activity of Foxo4 and Mef2 and
+physically interacts with Foxo4 and Mef2, thus promoting MPC proliferation and
+antagonizing the myogenic lineage differentiation program, respectively.
+Correspondingly, knockdown of Foxk1 in C2C12 myoblasts results in cell cycle
+arrest, and Foxk1 overexpression in C2C12CAR myoblasts retards muscle
+differentiation. Collectively, we have established that Foxk1 promotes MPC
+proliferation by repressing Foxo4 transcriptional activity and inhibits myogenic 
+differentiation by repressing Mef2 activity. These studies enhance our
+understanding of the transcriptional networks that regulate the MPC population
+and muscle regeneration.
+
+PMCID: PMC3561855
+PMID: 22956541  [PubMed - indexed for MEDLINE]
+
+
+12. Mol Biol Cell. 2012 Aug;23(16):3079-93. doi: 10.1091/mbc.E11-02-0170. Epub 2012
+Jun 27.
+
+Live-cell monitoring of periodic gene expression in synchronous human cells
+identifies Forkhead genes involved in cell cycle control.
+
+Grant GD(1), Gamsby J, Martyanov V, Brooks L 3rd, George LK, Mahoney JM, Loros
+JJ, Dunlap JC, Whitfield ML.
+
+Author information: 
+(1)Department of Genetics, Geisel School of Medicine at Dartmouth, Hanover, NH
+03755, USA.
+
+We developed a system to monitor periodic luciferase activity from cell
+cycle-regulated promoters in synchronous cells. Reporters were driven by a
+minimal human E2F1 promoter with peak expression in G1/S or a basal promoter with
+six Forkhead DNA-binding sites with peak expression at G2/M. After cell cycle
+synchronization, luciferase activity was measured in live cells at 10-min
+intervals across three to four synchronous cell cycles, allowing unprecedented
+resolution of cell cycle-regulated gene expression. We used this assay to screen 
+Forkhead transcription factors for control of periodic gene expression. We
+confirmed a role for FOXM1 and identified two novel cell cycle regulators, FOXJ3 
+and FOXK1. Knockdown of FOXJ3 and FOXK1 eliminated cell cycle-dependent
+oscillations and resulted in decreased cell proliferation rates. Analysis of
+genes regulated by FOXJ3 and FOXK1 showed that FOXJ3 may regulate a network of
+zinc finger proteins and that FOXK1 binds to the promoter and regulates DHFR,
+TYMS, GSDMD, and the E2F binding partner TFDP1. Chromatin immunoprecipitation
+followed by high-throughput sequencing analysis identified 4329 genomic loci
+bound by FOXK1, 83% of which contained a FOXK1-binding motif. We verified that a 
+subset of these loci are activated by wild-type FOXK1 but not by a FOXK1 (H355A) 
+DNA-binding mutant.
+
+PMCID: PMC3418304
+PMID: 22740631  [PubMed - indexed for MEDLINE]
+
+
+13. Biochem J. 2012 Sep 15;446(3):349-57. doi: 10.1042/BJ20120563.
+
+Foxk1 recruits the Sds3 complex and represses gene expression in myogenic
+progenitors.
+
+Shi X(1), Seldin DC, Garry DJ.
+
+Author information: 
+(1)Lillehei Heart Institute, University of Minnesota-Twin Cities, Minneapolis, MN
+55455, USA.
+
+Previous studies have established that Foxk1 (forkhead box k1) plays an important
+role in skeletal muscle regeneration. Foxk1 regulates the cell-cycle progression 
+of myogenic progenitors by repressing the cell-cycle inhibitor gene p21. However,
+the underlying mechanism is not well understood. In the present study, we report 
+the identification of Sds3 (suppressor of defective silencing 3) as an adaptor
+protein that recruits the Sin3 [SWI (switch)-independent 3]-HDAC (histone
+deacetylase) repression complex and binds Foxk1. Using GST (glutathione
+transferase) pull-down assays, we defined the interaction between the Foxk1 FHA
+(forkhead-associated domain) domain and phospho-Thr(49) in Sds3. We demonstrated 
+that the transcriptional repression of Foxk1 is dependent on the Sin3-Sds3
+repression complex, and knockdown of Sds3 results in cell-cycle arrest. We
+further identified the protein kinase CK2 as the protein kinase for Sds3 Thr(49) 
+and demonstrated that the protein kinase activity of CK2 is required for proper
+cell-cycle progression. Analysis of CK2 mutant mice reveals perturbation of
+skeletal muscle regeneration due to the dysregulation of cell-cycle kinetics.
+Overall, these studies define a CK2-Sds3-Foxk1 cascade that modulates gene
+expression and regulates skeletal muscle regeneration.
+
+PMCID: PMC4494662
+PMID: 22716292  [PubMed - indexed for MEDLINE]
+
+
+14. Mol Cell Biochem. 2012 Jul;366(1-2):251-8. doi: 10.1007/s11010-012-1302-2. Epub
+2012 Apr 4.
+
+Sin3 interacts with Foxk1 and regulates myogenic progenitors.
+
+Shi X(1), Garry DJ.
+
+Author information: 
+(1)Lillehei Heart Institute, University of Minnesota-Twin Cities, 4-108 NHH, 312 
+Church St SE, Minneapolis, MN 55455, USA.
+
+We have previously reported Foxk1 as an important transcription factor in the
+myogenic progenitors. SWI-independent-3 (Sin3) has been identified as a Foxk1
+binding candidate using a yeast two-hybrid screen. In the present study, we have 
+identified the Foxk1 N-terminal (1-40) region as the Sin3 interacting domain
+(SID), and the PAH2 of Sin3 as the Foxk1 binding domain utilizing yeast
+two-hybrid and GST pull-down assays. Further studies revealed that knockdown of
+Sin3a or Sin3b results in cell cycle arrest and upregulation of cell cycle
+inhibitor genes. In summary, our present studies have shown that Foxk1 interacts 
+with Sin3 through the SID and that Sin3 has an important role in the regulation
+of cell cycle kinetics of the MPC population. The results of these studies
+continue to define and assemble the networks that regulate the MPCs and muscle
+regeneration.
+
+PMCID: PMC4494651
+PMID: 22476904  [PubMed - indexed for MEDLINE]
+
+
+15. Biochem Cell Biol. 2012 Apr;90(2):153-63. doi: 10.1139/o11-080. Epub 2012 Jan 31.
+
+The C-terminal region of E1A: a molecular tool for cellular cartography.
+
+Yousef AF(1), Fonseca GJ, Cohen MJ, Mymryk JS.
+
+Author information: 
+(1)Department of Microbiology, The University of Western Ontario, London Regional
+Cancer Program, London, ON N6A 4L6, Canada.
+
+The adenovirus E1A proteins function via protein-protein interactions. By making 
+many connections with the cellular protein network, individual modules of this
+virally encoded hub reprogram numerous aspects of cell function and behavior.
+Although many of these interactions have been thoroughly studied, those mediated 
+by the C-terminal region of E1A are less well understood. This review focuses on 
+how this region of E1A affects cell cycle progression, apoptosis, senescence,
+transformation, and conversion of cells to an epithelial state through
+interactions with CTBP1/2, DYRK1A/B, FOXK1/2, and importin-a. Furthermore, novel 
+potential pathways that the C-terminus of E1A influences through these
+connections with the cellular interaction network are discussed.
+
+PMID: 22292450  [PubMed - indexed for MEDLINE]
+
+
+16. J Hum Hypertens. 2011 Sep;25(9):560-4. doi: 10.1038/jhh.2010.93. Epub 2010 Oct 7.
+
+Further study of chromosome 7p22 to identify the molecular basis of familial
+hyperaldosteronism type II.
+
+Carss KJ(1), Stowasser M, Gordon RD, O'Shaughnessy KM.
+
+Author information: 
+(1)Clinical Pharmacology Unit, Department of Medicine, University of Cambridge,
+Cambridge, UK.
+
+Familial hyperaldosteronism type II (FH-II) is an inherited form of
+hyperaldosteronism associated with hypertension in most patients. The mutations
+that cause FH-II are unknown, but linkage analysis has mapped them to chromosome 
+7p22. As FH-II is clinically indistinguishable from sporadic primary
+aldosteronism, a common and treatable condition, unravelling the cause of FH-II
+has important implications for these sporadic cases. To investigate whether FH-II
+is caused by large deletions or insertions, we examined the virtual karyotype of 
+four pairs of affected and unaffected individuals using high-density bead chips. 
+We also sequenced the coding regions of five 7p22 candidate genes that were
+prioritized because of their putative role in cell growth. We found no evidence
+of single-nucleotide polymorphism (SNP) copy number variation between pairs, and 
+from the widest gap on the chip, chromosome 7p22 deletions or insertions
+exceeding ~50 kb in these pedigrees can be excluded. We found 15 SNPs (two of
+which were novel), but none of them were non-synonymous and segregated with the
+disease in the FH-II pedigrees. We have been able to exclude large genomic
+deletions or insertions at 7p22 and refine the candidate gene list for this
+locus, but the mutations causing FH-II remain elusive.
+
+PMID: 20927129  [PubMed - indexed for MEDLINE]
+
+
+17. Hum Genet. 2010 Aug;128(2):213-20. doi: 10.1007/s00439-010-0847-y. Epub 2010 Jun 
+11.
+
+Genetic mapping of a novel hypotrichosis locus to chromosome 7p21.3-p22.3 in a
+Pakistani family and screening of the candidate genes.
+
+Basit S(1), Ali G, Wasif N, Ansar M, Ahmad W.
+
+Author information: 
+(1)Department of Biochemistry, Faculty of Biological Sciences, Quaid-i-Azam
+University, Islamabad, Pakistan.
+
+Hereditary hypotrichosis is a heterogeneous group of inherited hair loss
+disorders characterized by diffused or localized thinning or absence of hair
+affecting scalp, eyebrows and eyelashes, and other body parts. Over the past few 
+years, at least four autosomal dominant and six autosomal recessive forms of
+hypotrichosis have been described. All these ten forms of hypotrichosis have been
+mapped on different human chromosomes and the corresponding genes have been
+identified in most of these cases. In the present study, we have described a
+six-generation Pakistani consanguineous family with an autosomal recessive
+transmission of hereditary hypotrichosis. All the five affected individuals of
+the family showed complete absence of scalp hair and sparse eyebrows and
+eyelashes. They were born with complete absence of scalp hairs. Facial hair of
+beard and mustaches were present in all the affected adult male individuals.
+Papules were observed only on scalp of the affected individuals. A scalp biopsy
+from an affected individual showed markedly reduced number of hair follicles.
+Human genome scan using polymorphic microsatellite markers mapped the disease
+locus on chromosome 7p21.3-p22.3, flanked by markers D7S1532 and D7S3047. A
+maximum two-point LOD score of 4.74 (theta = 0.00) was obtained at marker D7S481.
+The linkage interval spans 15.69 cM, which corresponds to 6.59 Mb according to
+the sequence-based physical map (Build 36.2). Mutation analysis of five potential
+candidate genes (GNA12, FOXK1, DAGLB, ZNF12, ACTB), located in the linkage
+interval, did not reveal any functional sequence variant.
+
+PMID: 20544222  [PubMed - indexed for MEDLINE]
+
+
+18. J Virol. 2010 Mar;84(6):2719-31. doi: 10.1128/JVI.02119-09. Epub 2010 Jan 6.
+
+Adenovirus type 5 E1A and E6 proteins of low-risk cutaneous beta-human
+papillomaviruses suppress cell transformation through interaction with FOXK1/K2
+transcription factors.
+
+Komorek J(1), Kuppuswamy M, Subramanian T, Vijayalingam S, Lomonosova E, Zhao LJ,
+Mymryk JS, Schmitt K, Chinnadurai G.
+
+Author information: 
+(1)Institute for Molecular Virology, Saint Louis University School of Medicine,
+Doisy Research Center, 1100 South Grand Boulevard, Saint Louis, Missouri 63104,
+USA.
+
+The adenovirus (Adv) oncoprotein E1A stimulates cell proliferation and inhibits
+differentiation. These activities are primarily linked to the N-terminal region
+(exon 1) of E1A, which interacts with multiple cellular protein complexes. The C 
+terminus (exon 2) of E1A antagonizes these processes, mediated in part through
+interaction with C-terminal binding proteins 1 and 2 (CtBP1/2). To identify
+additional cellular E1A targets that are involved in the modulation of E1A
+C-terminus-mediated activities, we undertook tandem affinity purification of
+E1A-associated proteins. Through mass spectrometric analysis, we identified
+several known E1A-interacting proteins as well as novel E1A targets, such as the 
+forkhead transcription factors, FOXK1/K2. We identified a Ser/Thr-containing
+sequence motif in E1A that mediated interaction with FOXK1/K2. We demonstrated
+that the E6 proteins of two beta-human papillomaviruses (HPV14 and HPV21)
+associated with epidermodysplasia verruciformis also interacted with FOXK1/K2
+through a motif similar to that of E1A. The E1A mutants deficient in interaction 
+with FOXK1/K2 induced enhanced cell proliferation and oncogenic transformation.
+The hypertransforming activity of the mutant E1A was suppressed by HPV21 E6. An
+E1A-E6 chimeric protein containing the Ser/Thr domain of the E6 protein in E1A
+interacted efficiently with FOXK1/K2 and inhibited cell transformation. Our
+results suggest that targeting FOXK1/K2 may be a common mechanism for certain
+beta-HPVs and Adv5. E1A exon 2 mutants deficient in interaction with the
+dual-specificity kinases DYRK1A/1B and their cofactor HAN11 also induced
+increased cell proliferation and transformation. Our results suggest that the E1A
+C-terminal region may suppress cell proliferation and oncogenic transformation
+through interaction with three different cellular protein complexes: FOXK1/K2,
+DYRK(1A/1B)/HAN11, and CtBP1/2.
+
+PMCID: PMC2826030
+PMID: 20053746  [PubMed - indexed for MEDLINE]
+
+
+19. Stem Cells. 2010 Mar 31;28(3):462-9. doi: 10.1002/stem.274.
+
+Fhl2 interacts with Foxk1 and corepresses Foxo4 activity in myogenic progenitors.
+
+Shi X(1), Bowlin KM, Garry DJ.
+
+Author information: 
+(1)Lillehei Heart Institute, University of Minnesota-Twin Cities, Minneapolis,
+Minnesota 55455, USA.
+
+Adult skeletal muscle has a remarkable regenerative capacity because of a
+myogenic progenitor cell population. Using a gene disruption strategy, we
+determined that Foxk1 regulates myogenic progenitor cell activation and muscle
+regeneration. In this study, we undertook a yeast two hybrid screen to identify
+Foxk1 interacting proteins. We identified the LIM-only protein, Fhl2, as a Foxk1 
+interacting protein. Using transcriptional assays, we observed that Fhl2, in a
+dose-dependent fashion, promotes Foxk1 transcriptional repression of Foxo4
+activity. Using histochemical and immunohistochemical assays, we further
+established that Fhl2 is expressed in the myogenic progenitor cell population.
+Fhl2 knockdown results in cell cycle arrest, and mice lacking Fhl2 have perturbed
+skeletal muscle regeneration. Collectively, these studies define a Fhl2-Foxk1
+cascade that regulates the myogenic progenitor cell activity in adult skeletal
+muscle and enhances our understanding of muscle regeneration.
+
+PMID: 20013826  [PubMed - indexed for MEDLINE]
+
+
+20. J Neurol Sci. 2010 Feb 15;289(1-2):119-22. doi: 10.1016/j.jns.2009.08.026. Epub
+2009 Sep 22.
+
+Immunohistochemical, volumetric, and functional neuroimaging studies in patients 
+with idiopathic Parkinson's disease.
+
+Hummel T(1), Witt M, Reichmann H, Welge-Luessen A, Haehner A.
+
+Author information: 
+(1)Smell & Taste Clinic, Department of Otorhinolaryngology, University of Dresden
+Medical School, Dresden, Germany. thummel@mail.zih.tu-dresden.de
+
+Idiopathic Parkinson's disease (PD) is closely associated with olfactory loss.
+Deficits in the sense of smell may precede clinical motor symptoms by years.
+Although there is more and more evidence from recent studies to support this
+view, it remains unclear which substrates would cause the olfactory deficit.
+Studies based on biopsies from the olfactory epithelium did not reveal specific
+changes in the nasal mucosa of PD patients compared to patients who were hyposmic
+for other reasons. Thus, PD-related olfactory impairment seems not to be directly
+associated with specific changes in the olfactory epithelium. With regard to
+volumetrics of the olfactory bulb (OB) results indicated that there is little or 
+no difference between PD patients and healthy controls in terms of OB volume.
+Again, these data support the idea that olfactory loss in PD is not a consequence
+of damage to the olfactory epithelium but rather results from central-nervous
+changes. Finally, studies based on functional MRI suggested that neuronal
+activity in the amygdala and hippocampus is reduced in PD patients compared to
+controls which may specifically impact on olfactory function. In addition,
+neuronal activity in components of cortico-striatal loops appears to be
+up-regulated indicating compensatory processes involving the dopaminergic system.
+Thus, it seems that cerebral changes, and not changes at the level of the
+olfactory epithelium, are the basis of the olfactory loss observed in PD
+patients.
+
+PMID: 19775703  [PubMed - indexed for MEDLINE]
+
+
+21. Mov Disord. 2009 Apr 30;24(6):906-14. doi: 10.1002/mds.22464.
+
+Biopsies of olfactory epithelium in patients with Parkinson's disease.
+
+Witt M(1), Bormann K, Gudziol V, Pehlke K, Barth K, Minovi A, Hähner A, Reichmann
+H, Hummel T.
+
+Author information: 
+(1)Department of Anatomy, University of Rostock, Gertrudenstrasse 9, Rostock,
+Germany. martin.witt@med.uni-rostock.de
+
+Parkinson's disease (PD) is a neurodegenerative disorder involving several
+neuronal systems. Impaired olfactory function may constitute one of the earliest 
+symptoms of PD. However, it is still unclear to what degree changes of the
+olfactory epithelium may contribute to dysosmia and if these changes are
+different from those of other hyposmic or anosmic patients. This study aimed to
+investigate the hypothesis that olfactory loss in PD is a consequence of specific
+PD-related damage of olfactory epithelium. Biopsies of 7 patients diagnosed with 
+PD were taken. Six patients with PD were hyposmic, one anosmic. As non-PD
+controls served 9 patients with hyposmia, 9 with anosmia, and 7 normosmic
+individuals. Further, nasal mucosa of 4 postmortem individuals was investigated. 
+Immunohistochemical examinations were performed with antibodies against olfactory
+marker protein (OMP), protein gene product 9.5 (PGP 9.5), beta-tubulin, (BT),
+proliferation-associated antigen (Ki 67), the stem cell marker nestin,
+cytokeratin, p75NGFr, and alpha-synuclein. Most of the biopsy specimens exhibited
+irregular areas of olfactory-like, dysplastic epithelium positive for either PGP 
+9.5 or BT, but negative for OMP. No major histochemical differences in either the
+expression or distribution of these proteins were observed in the olfactory
+epithelium of patients with PD compared with controls. Reverse transcription PCR 
+(RT-PCR) data indicated mRNA for OMP in almost all subjects, independently of
+their olfactory performance. These data support the idea that olfactory loss in
+Parkinson's disease is not a consequence of damage to the olfactory epithelium
+but rather results from distinct central-nervous abnormalities.
+
+(c) 2009 Movement Disorder Society.
+
+PMID: 19205070  [PubMed - indexed for MEDLINE]
+
+
+22. Mol Cells. 2008 Oct 31;26(4):338-43. Epub 2008 Jul 23.
+
+Gene discovery analysis from mouse embryonic stem cells based on time course
+microarray data.
+
+Suh YJ(1), Cho SA, Shim JH, Yook YJ, Yoo KH, Kim JH, Park EY, Noh JY, Lee SH,
+Yang MH, Jeong HS, Park JH.
+
+Author information: 
+(1)Division of Biological Science, The Research Institute of Natural Sciences,
+Sookmyung Women's University, Seoul, Korea.
+
+An embryonic stem cell is a powerful tool for investigation of early development 
+in vitro. The study of embryonic stem cell mediated neuronal differentiation
+allows for improved understanding of the mechanisms involved in embryonic
+neuronal development. We investigated expression profile changes using time
+course cDNA microarray to identify clues for the signaling network of neuronal
+differentiation. For the short time course microarray data, pattern analysis
+based on the quadratic regression method is an effective approach for
+identification and classification of a variety of expressed genes that have
+biological relevance. We studied the expression patterns, at each of 5 stages,
+after neuronal induction at the mRNA level of embryonic stem cells using the
+quadratic regression method for pattern analysis. As a result, a total of 316
+genes (3.1%) including 166 (1.7%) informative genes in 8 possible expression
+patterns were identified by pattern analysis. Among the selected genes associated
+with neurological system, all three genes showing linearly increasing pattern
+over time, and one gene showing decreasing pattern over time, were verified by
+RT-PCR. Therefore, an increase in gene expression over time, in a linear pattern,
+may be associated with embryonic development. The genes: Tcfap2c, Ttr, Wnt3a,
+Btg2 and Foxk1 detected by pattern analysis, and verified by RT-PCR
+simultaneously, may be candidate markers associated with the development of the
+nervous system. Our study shows that pattern analysis, using the quadratic
+regression method, is very useful for investigation of time course cDNA
+microarray data. The pattern analysis used in this study has biological
+significance for the study of embryonic stem cells.
+
+PMID: 18648220  [PubMed - indexed for MEDLINE]
+
+
+23. J Exp Biol. 2007 Oct;210(Pt 19):3461-72.
+
+FoxK1 splice variants show developmental stage-specific plasticity of expression 
+with temperature in the tiger pufferfish.
+
+Fernandes JM(1), MacKenzie MG, Kinghorn JR, Johnston IA.
+
+Author information: 
+(1)School of Biology, University of St Andrews, St Andrews, Fife KY16 8LB, UK.
+
+FoxK1 is a member of the highly conserved forkhead/winged helix (Fox) family of
+transcription factors and it is known to play a key role in mammalian muscle
+development and myogenic stem cell function. The tiger pufferfish (Takifugu
+rubripes) orthologue of mammalian FoxK1 (TFoxK1) has seven exons and is located
+in a region of conserved synteny between pufferfish and mouse. TFoxK1 is
+expressed as three alternative transcripts: TFoxK1-alpha, TFoxK1-gamma and
+TFoxK1-delta. TFoxK1-alpha is the orthologue of mouse FoxK1-alpha, coding for a
+putative protein of 558 residues that contains the forkhead and
+forkhead-associated domains typical of Fox proteins and shares 53% global
+identity with its mammalian homologue. TFoxK1-gamma and TFoxK1-delta arise from
+intron retention events and these transcripts translate into the same 344-amino
+acid protein with a truncated forkhead domain. Neither are orthologues of mouse
+FoxK1-beta. In adult fish, the TFoxK1 splice variants were differentially
+expressed between fast and slow myotomal muscle, as well as other tissues, and
+the FoxK1-alpha protein was expressed in myogenic progenitor cells of fast
+myotomal muscle. During embryonic development, TFoxK1 was transiently expressed
+in the developing somites, heart, brain and eye. The relative expression of
+TFoxK1-alpha and the other two alternative transcripts varied with the incubation
+temperature regime for equivalent embryonic stages and the differences were
+particularly marked at later developmental stages. The developmental expression
+pattern of TFoxK1 and its localisation to mononuclear myogenic progenitor cells
+in adult fast muscle indicate that it may play an essential role in myogenesis in
+T. rubripes.
+
+PMID: 17873000  [PubMed - indexed for MEDLINE]
+
+
+24. Nucleic Acids Res. 2007;35(15):5203-12. Epub 2007 Aug 1.
+
+Functional interactions between the Forkhead transcription factor FOXK1 and the
+MADS-box protein SRF.
+
+Freddie CT(1), Ji Z, Marais A, Sharrocks AD.
+
+Author information: 
+(1)Faculty of Life Sciences, University of Manchester, Michael Smith Building,
+Oxford Road, Manchester, M13 9PT, UK.
+
+The combinatorial control of gene expression by the association of members of
+different families of transcription factors is a common theme in eukaryotic
+transcriptional control. The MADS-box transcription factors SRF and Mcm1
+represent paradigms for such regulation through their interaction with numerous
+partner proteins. For example, in Saccharomyces cerevisiae, Mcm1 interacts with
+the forkhead transcription factor Fkh2. Here, we identify a novel interaction
+between SRF and the Forkhead transcription factor FOXK1 in human cells. The
+importance of this interaction is shown for the regulation of the SRF target
+genes SM alpha-actin and PPGB. The binding of FOXK1 to the SM alpha-actin and
+PPGB promoters requires the presence of SRF on the promoter. FOXK1 acts as a
+transcriptional repressor and it represses SM alpha-actin and PPGB expression.
+Thus FOXK1 represents an additional member of the growing repertoire of
+transcription factors that can interact with SRF and modulate the transcriptional
+output from SRF-regulated promoters.
+
+PMCID: PMC1976435
+PMID: 17670796  [PubMed - indexed for MEDLINE]
+
+
+25. EMBO J. 2007 Apr 4;26(7):1902-12. Epub 2007 Mar 15.
+
+Sox15 and Fhl3 transcriptionally coactivate Foxk1 and regulate myogenic
+progenitor cells.
+
+Meeson AP(1), Shi X, Alexander MS, Williams RS, Allen RE, Jiang N, Adham IM,
+Goetsch SC, Hammer RE, Garry DJ.
+
+Author information: 
+(1)Department of Internal Medicine, University of Texas Southwestern Medical
+Center, 5323 Harry Hines Boulevard, Dallas, TX 75390, USA.
+
+The regulation of myogenic progenitor cells during muscle regeneration is not
+clearly understood. We have previously shown that the Foxk1 gene, a member of the
+forkhead/winged helix family of transcription factors, is expressed in myogenic
+progenitor cells in adult skeletal muscle. In the present study, we utilize
+transgenic technology and demonstrate that the 4.6 kb upstream fragment of the
+Foxk1 gene directs beta-galactosidase expression to the myogenic progenitor cell 
+population. We further establish that Sox15 directs Foxk1 expression to the
+myogenic progenitor cell population, as it binds to an evolutionarily conserved
+site and recruits Fhl3 to transcriptionally coactivate Foxk1 gene expression.
+Knockdown of endogenous Sox15 results in perturbed cell cycle kinetics and
+decreased Foxk1 expression. Furthermore, Sox15 mutant mice display perturbed
+skeletal muscle regeneration, due in part to decreased numbers of satellite cells
+and decreased Foxk1 expression. These studies demonstrate that Sox15, Fhl3 and
+Foxk1 function to coordinately regulate the myogenic progenitor cell population
+and skeletal muscle regeneration.
+
+PMCID: PMC1847663
+PMID: 17363903  [PubMed - indexed for MEDLINE]
+
+
+26. Stem Cell Rev. 2006;2(1):37-42.
+
+Molecular signatures define myogenic stem cell populations.
+
+Martin CM(1), Russell JL, Ferdous A, Garry DJ.
+
+Author information: 
+(1)Department of Internal Medicine, UT Southwestern Medical Center, Dallas, TX
+75390, USA.
+
+Developmental and regenerative mechanisms are directed by stem cell populations. 
+Skeletal muscle is a dynamic tissue that is capable of adapting to stress and
+severe injury due to a resident somatic stem cell population. In response to a
+severe injury that destroys upward of 90% of the tissue, skeletal muscle
+efficiently and reproducibly regenerates damaged tissue and restores the cellular
+architecture within a 2-wk period. Recent studies have localized and examined the
+molecular regulation of skeletal muscle stem cell populations using emerging
+molecular biological technologies. These studies enhance the understanding of the
+regulatory mechanisms that direct the somatic stem cell populations and the role 
+they play in development and regeneration. Furthermore, these basic science
+studies will serve as a platform for future therapies directed toward patients
+with myopathic diseases.
+
+PMID: 17142885  [PubMed - indexed for MEDLINE]
+
+
+27. Brain Res. 2006 Jan 12;1068(1):23-33. Epub 2005 Dec 27.
+
+Identification of forkhead transcription factors in cortical and dopaminergic
+areas of the adult murine brain.
+
+Wijchers PJ(1), Hoekman MF, Burbach JP, Smidt MP.
+
+Author information: 
+(1)Rudolf Magnus Institute of Neuroscience, Department of Pharmacology and
+Anatomy, University Medical Center Utrecht, Universiteitsweg 100, 3584 CG
+Utrecht, The Netherlands.
+
+The murine forkhead family of transcription factors consists of over 30 members, 
+the vast majority of which is important in embryonic development. Implicated in
+processes such as proliferation, differentiation and survival, forkhead factors
+show highly restricted expression patterns. In search for forkhead genes
+expressed in specific neural systems, we identified multiple family members. We
+performed a detailed expression analysis for Foxj2, Foxk1 and the murine
+orthologue of the human ILF1 gene, which show a remarkable preference for complex
+cortical structures. In addition, a comprehensive examination of forkhead gene
+expression in dopamine neurons of the ventral tegmental area and substantia nigra
+pars compacta, revealed Ilf1 as a novel transcriptional regulator in midbrain
+dopamine neurons. These forkhead transcription factors may play a role in
+maintenance and survival of developing and adult neurons.
+
+PMID: 16376864  [PubMed - indexed for MEDLINE]
+
+
+28. Stem Cells. 2004;22(7):1305-20.
+
+Cellular and molecular regulation of skeletal muscle side population cells.
+
+Meeson AP(1), Hawke TJ, Graham S, Jiang N, Elterman J, Hutcheson K, Dimaio JM,
+Gallardo TD, Garry DJ.
+
+Author information: 
+(1)Department of Internal Medicine, University of Texas Southwestern Medical
+Center, Dallas, Texas, USA.
+
+Muscle progenitor cells (satellite cells) function in the maintenance and repair 
+of adult skeletal muscle. Side population (SP) cells are enriched in repopulating
+activity and also reside in adult skeletal muscle. In this study, we observed
+that Abcg2 is a determinant of the SP cell phenotype. Using reverse transcription
+polymerase chain reaction and immunohistochemical techniques, we localized
+Abcg2-expressing cells in the interstitium and in close approximation to the
+vasculature of adult skeletal muscle. Muscle SP cells are able to differentiate
+into myotubes and increase in number after cardiotoxin-induced muscle injury.
+Similar to myogenic progenitor cells, muscle SP cells express Foxk1 and are
+decreased in number in Foxk1 mutant skeletal muscle. Using emerging technologies,
+we examine the molecular signature of muscle SP cells from normal, injured, and
+Foxk1 mutant skeletal muscle to define common and distinct molecular programs. We
+propose that muscle SP cells are progenitor cells that participate in repair and 
+regeneration of adult skeletal muscle.
+
+PMID: 15579648  [PubMed - indexed for MEDLINE]
+
+
+29. J Exp Biol. 2004 Dec;207(Pt 25):4343-60.
+
+Rapid evolution of muscle fibre number in post-glacial populations of Arctic
+charr Salvelinus alpinus.
+
+Johnston IA(1), Abercromby M, Vieira VL, Sigursteindóttir RJ, Kristjánsson BK,
+Sibthorpe D, Skúlason S.
+
+Author information: 
+(1)Gatty Marine Laboratory, School of Biology, University of St Andrews, St
+Andrews, Fife, KY16 8LB, Scotland, UK. iaj@st-andrews.ac.uk
+
+Thingvallavatn, the largest and one of the oldest lakes in Iceland, contains four
+morphs of Arctic charr Salvelinus alpinus. Dwarf benthic (DB), large benthic
+(LB), planktivorous (PL) and piscivorous (PI) morphs can be distinguished and
+differ markedly in head morphology, colouration and maximum fork length
+(FL(max)), reflecting their different resource specialisations within the lake.
+The four morphs in Thingvallavatn are thought to have been isolated for
+approximately 10 000 years, since shortly after the end of the last Ice Age. We
+tested the null hypothesis that the pattern of muscle fibre recruitment was the
+same in all morphs, reflecting their recent diversification. The cross-sectional 
+areas of fast and slow muscle fibres were measured at 0.7 FL in 46 DB morphs, 23 
+LB morphs, 24 PL morphs and 22 PI morphs, and the ages of the charr were
+estimated using sacculus otoliths. In fish larger than 10 g, the maximum fibre
+diameter scaled with body mass (M(b))(0.18) for both fibre types in all morphs.
+The number of myonuclei per cm fibre length increased with fibre diameter, but
+was similar between morphs. On average, at 60 mum diameter, there were 2264
+nuclei cm(-1) in slow fibres and 1126 nuclei cm(-1) in fast fibres. The absence
+of fibres of diameter 4-10 mum was used to determine the FL at which muscle fibre
+recruitment stopped. Slow fibre number increased with body length in all morphs, 
+scaling with M(b)(0.45). In contrast, the recruitment of fast muscle fibres
+continued until a clearly identifiable FL, corresponding to 18-19 cm in the dwarf
+morph, 24-26 cm in the pelagic morph, 32-33 cm in the large benthic morph and
+34-35 cm in the piscivorous morph. The maximum fast fibre number (FN(max)) in the
+dwarf morph (6.97x10(4)) was 56.5% of that found in the LB and PI morphs combined
+(1.23x10(5)) (P<0.001). Muscle fibre recruitment continued until a threshold body
+size and occurred at a range of ages, starting at 4+ years in the DB morph and 7+
+years in the LB and PI morphs. Our null hypothesis was therefore rejected for
+fast muscle and it was concluded that the dwarf condition was associated with a
+reduction in fibre number. We then investigated whether variations in development
+temperature associated with different spawning sites and periods were responsible
+for the observed differences in muscle cellularity between morphs. Embryos from
+the DB, LB and PL morphs were incubated at temperature regimes simulating cold
+subterranean spring-fed sites (2.2-3.2 degrees C) and the general lakebed (4-7
+degrees C). Myogenic progenitor cells (MPCs) were identified using specific
+antibodies to Paired box protein 7 (Pax 7), Forkhead box protein K1-alpha
+(FoxK1-alpha), MyoD and Myf-5. The progeny showed no evidence of developmental
+plasticity in the numbers of either MPCs or muscle fibres. Juveniles and adult
+stages of the DB and LB morphs coexist and have a similar diet. We therefore
+conclude that the reduction in FN(max) in the dwarf morph probably has a genetic 
+basis and that gene networks regulating myotube production are under high
+selection pressure. To explain these findings we propose that there is an optimal
+fibre size, and hence number, which varies with maximum body size and reflects a 
+trade-off between diffusional constraints on fibre diameter and the energy costs 
+of maintaining ionic gradients. The predictions of the optimal fibre size
+hypothesis and its consequences for the adaptive evolution of muscle architecture
+in fishes are briefly discussed.
+
+PMID: 15557021  [PubMed - indexed for MEDLINE]
+
+
+30. Int J Oncol. 2004 Nov;25(5):1495-500.
+
+Human FOX gene family (Review).
+
+Katoh M(1), Katoh M.
+
+Author information: 
+(1)M&M Medical BioInformatics, Hongo 113-0033, Japan. mkatoh@ncc.go.jp
+
+Human Forkhead-box (FOX) gene family consists of at least 43 members, including
+FOXA1, FOXA2, FOXA3, FOXB1, FOXC1, FOXC2, FOXD1, FOXD2, FOXD3, FOXD4, FOXD5
+(FOXD4L1), FOXD6 (FOXD4L3), FOXE1, FOXE2, FOXE3, FOXF1, FOXF2, FOXG1 (FOXG1B),
+FOXH1, FOXI1, FOXJ1, FOXJ2, FOXJ3, FOXK1, FOXK2, FOXL1, FOXL2, FOXM1, FOXN1,
+FOXN2 (HTLF), FOXN3 (CHES1), FOXN4, FOXN5 (FOXR1), FOXN6 (FOXR2), FOXO1 (FOXO1A),
+FOXO2 (FOXO6), FOXO3 (FOXO3A), FOXO4 (MLLT7), FOXP1, FOXP2, FOXP3, FOXP4, and
+FOXQ1. FOXE3-FOXD2 (1p33), FOXQ1-FOXF2-FOXC1 (6p25.3), and FOXF1-FOXC2-FOXL1
+(16q24.1) loci are FOX gene clusters within the human genome. Members of FOX
+subfamilies A-G, I-L and Q were grouped into class 1 FOX proteins, while members 
+of FOX subfamilies H and M-P were grouped into class 2 FOX proteins. C-terminal
+basic region within the FOX domain was the common feature of class 1 FOX
+proteins. FOXH1 and FOXO1 mRNAs are expressed in human embryonic stem (ES) cells.
+FOXC1, FOXC2, FOXE1, FOXE3, FOXL2, FOXN1, FOXP2 and FOXP3 genes are mutated in
+human congenital disorders. FOXA1 gene is amplified and over-expressed in
+esophageal and lung cancer. FOXM1 gene is up-regulated in pancreatic cancer and
+basal cell carcinoma due to the transcriptional regulation by Sonic Hedgehog
+(SHH) pathway. FOXO1 gene is fused to PAX3 or PAX7 genes in rhabdomyosarcoma.
+FOXO3 and FOXO4 genes are fused to MLL gene in hematological malignancies.
+Deregulation of FOX family genes leads to congenital disorders, diabetes
+mellitus, or carcinogenesis. Expression profiles, genetic alterations and
+epigenetic changes of FOX family genes as well as binding proteins and target
+genes of FOX family transcription factors should be comprehensively investigated 
+to develop novel therapeutics and preventives for human diseases.
+
+PMID: 15492844  [PubMed - indexed for MEDLINE]
+
+
+31. Int J Oncol. 2004 Sep;25(3):751-7.
+
+Identification and characterization of a novel human FOXK1 gene in silico.
+
+Huang JT(1), Lee V.
+
+Author information: 
+(1)Department of Neurobiology, Babraham Institute, Cambridge CB2 4AT, UK.
+jeffrey.huang@bbsrc.ac.uk
+
+We describe here the identification and characterization of a human forkhead box 
+gene, FOXK1, that encodes predicted proteins most homologous to the mouse myocyte
+nuclear factor (MNF)/forkhead box K1 (FoxK1). Human FOXK1 is located at the
+chromosomal position 7p22. Two transcript variants, FOXK1a and FOXK1b, containing
+the divergent 5'-ends are identified. Sequence comparison indicated that the
+human FOXK1 proteins share 66-74% amino acid identity (99% identity in the
+forkhead domain) with their mouse ortholog. The in silico expression analysis
+showed FOXK1 expression in immature tissues of brain, eye, heart, lung and
+thymus. In adults, FOXK1 was predominantly expressed in many malignant tissues,
+in particular in the tumors of brain, colon and lymph node. This gene is
+therefore implicated in the process of both normal and neoplastic development.
+
+PMID: 15289879  [PubMed - indexed for MEDLINE]
+
+
+32. Int J Mol Med. 2004 Jul;14(1):127-32.
+
+Identification and characterization of human FOXK1 gene in silico.
+
+Katoh M(1), Katoh M.
+
+Author information: 
+(1)M&M Medical BioInformatics, Narashino 275-0022, Japan. mkatoh@ncc.go.jp
+
+Forkhead-box (FOX) family transcription factors are implicated in carcinogenesis 
+and embryogenesis. Here, we identified and characterized the human FOXK1 gene by 
+using bioinformatics. Complete coding sequence of human FOXK1 cDNA was determined
+by assembling CB959941 EST, AW206906 EST, and 5'-truncated FLJ16099 (AK122663.1) 
+cDNA. FOXK1 gene, consisting of nine exons, was mapped to human chromosome
+7p22.1. Mouse Foxk1 (NM_199068.1) was an aberrant cDNA with frame shifts due to
+multiple insertions and deletions, while mouse IMAGE6853263 (BC060238.1) was a
+Foxk1 cDNA with a frame shift due to two base deletions. Complete coding sequence
+of mouse Foxk1 cDNA was determined by inserting CA nucleotides between nucleotide
+position 1628 and 1629 of BC060238.1. Foxk1 gene, consisting of nine exons, was
+mapped to mouse chromosome 5G2. Because interleukin enhancer-binding factor 1
+(ILF1) gene at human chromosome 17q25.3 was the paralog of FOXK1 gene, ILF1 gene 
+was designated the FOXK2 gene. Xenopus BC046369.1 cDNA was Foxk2 ortholog rather 
+than Foxk1 ortholog. Human FOXK1 (733 aa) showed 88.7% total amino-acid identity 
+with mouse Foxk1 (719 aa), 48.7% total amino-acid identity with human FOXK2, and 
+47.5% total amino-acid identity with Xenopus Foxk2. Forkhead associated (FHA)
+domain and FOX domain were conserved among human FOXK1, FOXK2, mouse FoxK1, and
+Xenopus Foxk2. At least 42 FOX family genes, including FOXK1, FOXN5 (FOXR1) and
+FOXN6 (FOXR2), have been identified within the human genome.
+
+PMID: 15202027  [PubMed - indexed for MEDLINE]
+
+
+33. Dev Genes Evol. 2004 Apr;214(4):200-5. Epub 2004 Feb 18.
+
+Isolation and developmental expression of Xenopus FoxJ1 and FoxK1.
+
+Pohl BS(1), Knöchel W.
+
+Author information: 
+(1)Department of Biochemistry, University of Ulm, Albert Einstein-Allee 11,
+89081, Ulm, Germany.
+
+xFoxJ1 and xFoxK1, two novel members of the fork head/winged helix family of
+transcription factors in Xenopus, have been identified by sequence homology to
+their mammalian orthologues. We here report the complete amino acid sequences of 
+xFoxJ1, its pseudo-allelic version xFoxJ1', and of xFoxK1, the latter also
+comprising a fork-head-associated (FHA) domain. We have further analysed the
+temporal and spatial expression of both genes. xFoxJ1 transcripts were detected
+during gastrulation in the dorsal blastopore lip and in the animal half. A
+predominant feature of xFoxJ1 expression until the tailbud stage is its spotty
+pattern within the epidermis. xFoxK1 is maternally expressed and localized within
+the animal half during early cleavage stages. Zygotic transcription starts during
+neurulation and is initially restricted to neuroectoderm. As development
+proceeds, xFoxK1 is expressed in ectoderm- and mesoderm-derived tissues, like the
+branchial arches, brain, eye, otic vesicle, pronephros, somites and abdominal
+muscle precursors.
+
+Copyright 2004 Springer-Verlag
+
+PMID: 14986136  [PubMed - indexed for MEDLINE]
+
+
+34. J Biomol NMR. 2002 Sep;24(1):75-6.
+
+1H, 15N and 13C resonance assignments for the DNA-binding domain of myocyte
+nuclear factor (Foxk1).
+
+Chuang WJ, Yeh IJ, Hsieh YH, Liu PP, Chen SW, Jeng WY.
+
+PMID: 12449423  [PubMed - indexed for MEDLINE]
+
+
+35. J Biol Chem. 2003 Feb 7;278(6):4015-20. Epub 2002 Nov 21.
+
+Absence of p21CIP rescues myogenic progenitor cell proliferative and regenerative
+capacity in Foxk1 null mice.
+
+Hawke TJ(1), Jiang N, Garry DJ.
+
+Author information: 
+(1)Departments of Internal Medicine and Molecular Biology, University of Texas
+Southwestern Medical Center, Dallas 75390-8573, USA.
+
+Foxk1 is a forkhead/winged helix transcription factor that is restricted to
+myogenic progenitor cells in adult skeletal muscle. Mice lacking Foxk1 (Foxk1-/-)
+display growth retardation and a severe impairment in skeletal muscle
+regeneration following injury. Here we show that myogenic progenitor cells from
+Foxk1-/- mice are reduced in number and have perturbed cell cycle progression
+(G(0)/G(1) arrest). Molecular analysis of Foxk1-/- myogenic progenitor cells
+revealed increased expression of the cyclin-dependent kinase inhibitor, p21(CIP),
+independent of changes in other cell cycle inhibitors, including p53.
+Combinatorial mating of Foxk1-/- mice with p21(CIP)-/- mice, to generate double
+mutant progeny, resulted in a complete restoration of the growth deficit,
+skeletal muscle regeneration, myogenic progenitor cell number, and cell cycle
+progression that characterized the Foxk1-/- mice. We conclude that Foxk1 is
+essential for regulating cell cycle progression in the myogenic progenitor cell
+and that the cyclin-dependent kinase inhibitor, p21(CIP), may be a downstream
+target of Foxk1.
+
+PMID: 12446708  [PubMed - indexed for MEDLINE]
+
+
+36. J Cell Biol. 2000 Sep 4;150(5):1085-100.
+
+Clonal isolation of muscle-derived cells capable of enhancing muscle regeneration
+and bone healing.
+
+Lee JY(1), Qu-Petersen Z, Cao B, Kimura S, Jankowski R, Cummins J, Usas A, Gates 
+C, Robbins P, Wernig A, Huard J.
+
+Author information: 
+(1)Growth and Development Laboratory, Department of Orthopaedic Surgery,
+Children's Hospital and University of Pittsburgh, Pittsburgh, Pennsylvania 15261,
+USA.
+
+Several recent studies suggest the isolation of stem cells in skeletal muscle,
+but the functional properties of these muscle-derived stem cells is still
+unclear. In the present study, we report the purification of muscle-derived stem 
+cells from the mdx mouse, an animal model for Duchenne muscular dystrophy. We
+show that enrichment of desmin(+) cells using the preplate technique from mouse
+primary muscle cell culture also enriches a cell population expressing CD34 and
+Bcl-2. The CD34(+) cells and Bcl-2(+) cells were found to reside within the basal
+lamina, where satellite cells are normally found. Clonal isolation and
+characterization from this CD34(+)Bcl-2(+) enriched population yielded a putative
+muscle-derived stem cell, mc13, that is capable of differentiating into both
+myogenic and osteogenic lineage in vitro and in vivo. The mc13 cells are c-kit
+and CD45 negative and express: desmin, c-met and MNF, three markers expressed in 
+early myogenic progenitors; Flk-1, a mouse homologue of KDR recently identified
+in humans as a key marker in hematopoietic cells with stem cell-like
+characteristics; and Sca-1, a marker for both skeletal muscle and hematopoietic
+stem cells. Intramuscular, and more importantly, intravenous injection of mc13
+cells result in muscle regeneration and partial restoration of dystrophin in mdx 
+mice. Transplantation of mc13 cells engineered to secrete osteogenic protein
+differentiate in osteogenic lineage and accelerate healing of a skull defect in
+SCID mice. Taken together, these results suggest the isolation of a population of
+muscle-derived stem cells capable of improving both muscle regeneration and bone 
+healing.
+
+PMCID: PMC2175240
+PMID: 10973997  [PubMed - indexed for MEDLINE]
+
+
+37. Proc Natl Acad Sci U S A. 2000 May 9;97(10):5416-21.
+
+Myogenic stem cell function is impaired in mice lacking the forkhead/winged helix
+protein MNF.
+
+Garry DJ(1), Meeson A, Elterman J, Zhao Y, Yang P, Bassel-Duby R, Williams RS.
+
+Author information: 
+(1)Department of Internal Medicine, University of Texas Southwestern Medical
+Center, Dallas, TX 75390, USA. garry@ryburn.swmed.edu
+
+Myocyte nuclear factor (MNF) is a winged helix transcription factor that is
+expressed selectively in myogenic stem cells (satellite cells) of adult animals. 
+Using a gene knockout strategy to generate a functional null allele at the Mnf
+locus, we observed that mice lacking MNF are viable, but severely runted.
+Skeletal muscles of Mnf-/- animals are atrophic, and satellite cell function is
+impaired. Muscle regeneration after injury is delayed and incomplete, and the
+normal timing of expression of cell cycle regulators and myogenic determination
+genes is dysregulated. Mnf mutant mice were intercrossed with mdx mice that lack 
+dystrophin and exhibit only a subtle myopathic phenotype. In contrast, mdx mice
+that also lack MNF die in the first few weeks of life with a severe myopathy.
+Haploinsufficiency at the Mnf locus (Mnf+/-) also exacerbates the mdx phenotype
+to more closely resemble Duchenne's muscular dystrophy in humans. We conclude
+that MNF acts to regulate genes that coordinate the proliferation and
+differentiation of myogenic stem cells after muscle injury. Animals deficient in 
+MNF may prove useful for evaluation of potential therapeutic interventions to
+promote muscle regeneration for patients having Duchenne's muscular dystrophy.
+
+PMCID: PMC25843
+PMID: 10792059  [PubMed - indexed for MEDLINE]
+
+
+38. Biochem J. 2000 Jan 15;345 Pt 2:335-43.
+
+The winged-helix/forkhead protein myocyte nuclear factor beta (MNF-beta) forms a 
+co-repressor complex with mammalian sin3B.
+
+Yang Q(1), Kong Y, Rothermel B, Garry DJ, Bassel-Duby R, Williams RS.
+
+Author information: 
+(1)Department of Internal Medicine, University of Texas Southwestern Medical
+Center, 5323 Harry Hines Blvd., NB11.200, Dallas, TX 75390-8573, USA.
+
+Winged-helix/forkhead proteins regulate developmental events in both invertebrate
+and vertebrate organisms, but biochemical functions that establish a mechanism of
+action have been defined for only a few members of this extensive gene family.
+Here we demonstrate that MNF (myocyte nuclear factor)-beta, a winged-helix
+protein expressed selectively and transiently in myogenic precursor cells of the 
+heart and skeletal muscles, collaborates with proteins of the mammalian Sin3
+(mSin3) family to repress transcription. Mutated forms of MNF-beta that fail to
+bind mSin3 are defective in transcriptional repression and in negative growth
+regulation, an overexpression phenotype revealed in oncogenic transformation
+assays. These data extend the known repertoire of transcription factors with
+which mSin3 proteins can function as co-repressors to include members of the
+winged-helix gene family. Transcriptional repression by MNF-beta-mSin3 complexes 
+may contribute to the co-ordination of cellular proliferation and terminal
+differentiation of myogenic precursor cells.
+
+PMCID: PMC1220762
+PMID: 10620510  [PubMed - indexed for MEDLINE]
+
+
+39. Gene Expr. 1999;8(2):85-103.
+
+Dual tandem promoter elements containing CCAC-like motifs from the
+tetrodotoxin-resistant voltage-sensitive Na+ channel (rSkM2) gene can
+independently drive muscle-specific transcription in L6 cells.
+
+Zhang H(1), Maldonado MN, Barchi RL, Kallen RG.
+
+Author information: 
+(1)Department of Biochemistry and Biophysics, University of Pennsylvania School
+of Medicine, Philadelphia 19104-6059, USA.
+
+cis-Elements in the -129/+124 promoter segment of the rat tetrodotoxin-resistant 
+voltage-gated sodium channel (rSkM2) gene that are responsible for reporter gene 
+expression in cultured muscle cells were identified by deletion and scanning
+mutations. Nested 5' deletion constructs, assayed in L6 myotubes and NIH3T3
+cells, revealed that the minimum promoter allowing muscle-specific expression is 
+contained within the -57 to +1 segment relative to the major transcription
+initiation site. In the context of the -129/+1 construct, however, scanning
+mutations in the -69/+1 segment failed to identify any critical promoter
+elements. In contrast, identical mutations in a minimal promoter (-57/+124)
+showed that all regions except -29/-20 are essential for expression, especially
+the -57/-40 segment, consistent with the 5' deletion analysis. Further
+experiments showed that the distal (-129/-58) and proximal promoter (-57/+1)
+elements can independently drive reporter expression in L6 myotubes, but not in
+NIH3T3 fibroblasts. This pair of elements is similar in sequence and contains Sp1
+sites (CCGCCC), CCAC-like motifs, but no E-boxes or MEF-2 sites. The two segments
+form similarly migrating complexes with L6 myotube nuclear extracts in gel-shift 
+assays. Critical elements within the distal promoter element were defined by 10
+base pair scanning mutations in the -119 to -60 region in the context of the
+-129/+1 segment containing a mutated -59/-50 segment that inactivates the
+proximal promoter. Nucleotides in the -119/-90 region, especially -109/-100, were
+the most important regions for distal promoter function. We conclude that the
+-129/+1 segment contains two tandem promoter elements, each of which can
+independently drive muscle-specific transcription. Supershifts with antibodies to
+Sp1 and myocyte nuclear factor (MNF) implicate the involvement of Sp1, MNF, and
+other novel factors in the transcriptional regulation of rSkM2 gene expression.
+
+PMID: 10551797  [PubMed - indexed for MEDLINE]
+
+
+40. Mol Cell Biol. 1997 Sep;17(9):5236-43.
+
+Transient expression of a winged-helix protein, MNF-beta, during myogenesis.
+
+Yang Q(1), Bassel-Duby R, Williams RS.
+
+Author information: 
+(1)Department of Internal Medicine, University of Texas Southwestern Medical
+Center, Dallas 75235-8573, USA.
+
+A novel winged-helix transcription factor, MNF-beta, is expressed coincidentally 
+with cell cycle withdrawal and differentiation of skeletal myogenic cells.
+MNF-beta is closely related to the myocyte nuclear factor (MNF) protein
+previously described (now termed MNF-alpha), but expression of the two isoforms
+is differentially regulated, and they exhibit distinctive functional properties
+with respect to DNA binding in vitro and transcriptional regulatory activity in
+transient-transfection assays. A DNA sequence motif binding MNF-beta with high
+affinity was selected from a library of random oligonucleotides and was found to 
+be similar to but distinct from the cognate binding site for HNF-3beta, a more
+distantly related winged-helix protein. The temporal pattern of MNF-beta
+expression and the presence of MNF binding motifs within conserved promoter
+elements of several genes that modulate cell cycle progression support a working 
+hypothesis that MNF proteins may modulate proliferation of myogenic precursor
+cells during development and muscle regeneration.
+
+PMCID: PMC232374
+PMID: 9271401  [PubMed - indexed for MEDLINE]
+
+
+41. Dev Biol. 1997 Aug 15;188(2):280-94.
+
+Persistent expression of MNF identifies myogenic stem cells in postnatal muscles.
+
+Garry DJ(1), Yang Q, Bassel-Duby R, Williams RS.
+
+Author information: 
+(1)Department of Internal Medicine, University of Texas Southwestern Medical
+Center, Dallas, Texas, 75235, USA.
+
+Skeletal muscles contain an undifferentiated myogenic stem cell pool (satellite
+cells) that can be mobilized to regenerate myofibers in response to injury. We
+have determined that the winged helix transcription factor MNF is expressed
+selectively in quiescent satellite cells, which do not express known regulators
+of the myogenic program. Following muscle injury, MNF is present transiently in
+proliferating satellite cells and in centralized nuclei of regenerating
+myofibers, but expression declines as these fibers mature, until only the
+residual stem cell pool continues to express detectable levels of MNF. MNF also
+is expressed selectively but transiently at embryonic stages of myogenesis in the
+developing myotome, limb bud precursors, and heart tube, but by late fetal stages
+of development, MNF is down-regulated within differentiated cardiac and skeletal 
+myocytes, and persistently high expression is observed only in satellite cells.
+These data identify MNF as a marker of quiescent satellite cells and suggest that
+downstream genes controlled by MNF serve to modulate proliferative growth or
+differentiation in this unique cell population.
+
+PMID: 9268575  [PubMed - indexed for MEDLINE]
+
+
+42. Mol Cell Biol. 1994 Jul;14(7):4596-605.
+
+Myocyte nuclear factor, a novel winged-helix transcription factor under both
+developmental and neural regulation in striated myocytes.
+
+Bassel-Duby R(1), Hernandez MD, Yang Q, Rochelle JM, Seldin MF, Williams RS.
+
+Author information: 
+(1)Department of Internal Medicine, University of Texas Southwestern Medical
+Center, Dallas 75235.
+
+A sequence motif (CCAC box) within an upstream enhancer region of the human
+myoglobin gene is essential for transcriptional activity in both cardiac and
+skeletal muscle. A cDNA clone, myocyte nuclear factor (MNF), was isolated from a 
+murine expression library on the basis of sequence-specific binding to the
+myoglobin CCAC box motif and was found to encode a novel member of the
+winged-helix or HNF-3/fork head family of transcription factors. Probes based on 
+this sequence identify two mRNA species that are upregulated during myocyte
+differentiation, and antibodies raised against recombinant MNF identify proteins 
+of approximately 90, 68, and 65 kDa whose expression is regulated following
+differentiation of myogenic cells in culture. In addition, the 90-kDa form of MNF
+is phosphorylated and is upregulated in intact muscles subjected to chronic motor
+nerve stimulation, a potent stimulus to myoglobin gene regulation. Amino acid
+residues 280 to 389 of MNF demonstrate 35 to 89% sequence identity to the
+winged-helix domain from other known members of this family, but MNF is otherwise
+divergent. A proline-rich amino-terminal region (residues 1 to 206) of MNF
+functions as a transcriptional activation domain. These studies provide the first
+evidence that members of the winged-helix family of transcription factors have a 
+role in myogenic differentiation and in remodeling processes of adult muscles
+that occur in response to physiological stimuli.
+
+PMCID: PMC358832
+PMID: 8007964  [PubMed - indexed for MEDLINE]
+
+

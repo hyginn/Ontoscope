@@ -1,0 +1,438 @@
+
+1. Eur Rev Med Pharmacol Sci. 2014 Nov;18(22):3504-10.
+
+Both genes and lncRNAs can be used as biomarkers of prostate cancer by using high
+throughput sequencing data.
+
+Cheng WS(1), Tao H, Hu EP, Liu S, Cai HR, Tao XL, Zhang L, Mao JJ, Yan DL.
+
+Author information: 
+(1)Department of Urology, Taizhou Municipal Hospital, Taizhou, Zhejiang, China.
+dongliangyan123@126.com.
+
+OBJECTIVE: To investigate prostate cancer-related genes and lncRNAs by using a
+high throughput sequencing dataset.
+MATERIALS AND METHODS: RNA-seq data were obtained from the sequencing read
+archive database, including both benign and malignant tumor samples. After
+aligning the RNA-seq reads to human genome reference, gene expression profile as 
+well as lncRNA expression profile was obtained. Next, student's t-test was used
+to screen both the differentially expressed genes (DEGs) and lncRNAs (DELs)
+between benign and malignant samples. Finally, goseq was used to conduct the
+functional annotation of DEGs.
+RESULTS: A total of 7112 DEGs were screened, such as ZNF512B, UCKL1, STMN3,
+GMEB2, and PTK6. The top 10 enriched functions of DEGs were mainly related to
+organism development, including multi-cellular development, system development
+and anatomical structure development. Also, we discovered 26 differentially
+expressed lncRNAs.
+CONCLUSIONS: The analysis used in this study is reliable in screening prostate
+cancer markers including both genes and lncRNAs by using RNA-seq data, which
+provides new insight into the understanding of molecular mechanism of prostate
+cancer.
+
+PMID: 25491628  [PubMed - indexed for MEDLINE]
+
+
+2. Immunobiology. 2012 Jan;217(1):118-23. doi: 10.1016/j.imbio.2011.07.018. Epub
+2011 Jul 23.
+
+IL-12 inhibits glucocorticoid-induced T cell apoptosis by inducing GMEB1 and
+activating PI3K/Akt pathway.
+
+Kawabe K(1), Lindsay D, Braitch M, Fahey AJ, Showe L, Constantinescu CS.
+
+Author information: 
+(1)Division of Clinical Neurology, University of Nottingham, United Kingdom.
+
+Interleukin (IL)-12 is an important pro-inflammatory cytokine that has been shown
+to play a role in T cell survival, at least in part by activating the PI3K/Akt
+pathway. Glucocorticoid modulatory element binding protein (GMEB)1 and 2 are
+closely related proteins that modify the glucocorticoid receptor binding locus
+and thus modulate glucocorticoid-mediated gene induction effects, including
+apoptosis. GMEB1 associates with caspases and prevents apoptosis of cells in the 
+nervous system. We have observed, in preliminary studies, that IL-12 up-regulates
+GMEB mRNA in human T cells, and postulated that this may contribute to the
+anti-apoptotic effect of IL-12 on T cells, in particular with regard to
+glucocorticoid induced apoptosis. Here, we confirm that IL-12 rescue of
+dexamethasone induced T cell apoptosis involves the PI3K/Akt pathway and that
+IL-12 induces GMEB1 and GMEB2. A siRNA knockdown of GMEB1 reverses the protective
+effect of IL-12 on dexamethasone induced T cell apoptosis. Thus, IL-12 protects T
+cells from glucocorticoid induced apoptosis via PI3K/Akt pathway and via
+induction of GMEB1, which is likely to reduce transactivation of the
+glucocorticoid receptor and induction of apoptotic genes. As glucocorticoid
+induced apoptosis occurs both in physiological and pathological/therapeutic
+situations, and IL-12 is actively involved in a variety of inflammatory and
+immune responses, the ability of IL-12 to inhibit steroid responses and increase 
+T cell survival through GMEB1 has wide ranging implications. Manipulating GMEB
+may be used therapeutically to enhance the resistance or the sensitivity to
+steroids.
+
+Copyright © 2011 Elsevier GmbH. All rights reserved.
+
+PMID: 21840619  [PubMed - indexed for MEDLINE]
+
+
+3. Hippocampus. 2012 Feb;22(2):128-40. doi: 10.1002/hipo.20869. Epub 2010 Oct 6.
+
+Microarray analysis of rat hippocampus exposed to excitotoxicity: reversal
+Na(+)/Ca(2+) exchanger NCX3 is overexpressed in glial cells.
+
+Ortuño-Sahagún D(1), Rivera-Cervantes MC, Gudiño-Cabrera G, Junyent F, Verdaguer 
+E, Auladell C, Pallàs M, Camins A, Beas-Zárate C.
+
+Author information: 
+(1)Laboratorio de Desarrollo y Regeneración Neural, Instituto de Neurobiología,
+C.U.C.B.A, Universidad de Guadalajara, Guadalajara, Jalisco, México.
+
+Multiple factors are involved in the glutamate-induced excitotoxicity phenomenon,
+such as overload of ionotropic and metabotropic receptors, excess Ca(2+) influx, 
+nitric oxide synthase activation, oxidative damage due to increase in free
+radicals, and release of endogenous polyamine, among others. In order to attempt 
+a more integrated approach to address this issue, we established, by microarray
+analysis, the hippocampus gene expression profiles under glutamate-induced
+excitotoxicity conditions. Increased gene expression is mainly related to
+excitotoxicity (CaMKII, glypican 2, GFAP, NCX3, IL-2, and Gmeb2) or with cell
+damage response (dynactin and Ecel1). Several genes that augmented their
+expression are related to glutamatergic system modulation, in particular with
+NMDA receptor modulation and calcium homeostasis (IL-2, CaMKII, acrosin, Gmeb2,
+hAChE, Slc83a, and SP1 factor). Conversely, among genes that diminished their
+expression, we found the Syngap 1, which is downregulated by CaMKII, and the MHC 
+II, which is downregulated by glutamate. Changes observed in gene expression
+induced by monosodium glutamate (MSG) neonatal treatment in the hippocampus are
+consistent with the activation of the mechanisms that modulate NMDA receptor
+function as well as with the implementation of plastic response to cell damage
+and intracellular calcium homeostasis. Regarding this aspect, we report here that
+NCX3/Slc8a3, a Na(+)/Ca(2+) membrane exchanger, is highly expressed in
+astrocytes, both in vitro and in vivo, in response to glutamate-induced
+excitotoxicity. Hence, the results of this analysis present a broad view of the
+expression profile elicited by MSG neonatal treatment, and lead us to suggest the
+possible molecular pathways of action and reaction involved under this
+experimental model of excitotoxicity.
+
+Copyright © 2010 Wiley Periodicals, Inc.
+
+PMID: 20928830  [PubMed - indexed for MEDLINE]
+
+
+4. Biochemistry. 2004 Jan 13;43(1):245-55.
+
+Structure/activity relationships for GMEB-2: the second member of the
+glucocorticoid modulatory element-binding complex.
+
+Chen J(1), He Y, Simons SS Jr.
+
+Author information: 
+(1)Steroid Hormones Section, NIDDK/LMCB, National Institutes of Health, U.S.
+Department of Health and Human Services, Bethesda, MD, USA.
+
+The position of the dose-response curve of agonist complexes of glucocorticoid
+receptors (GRs), and the partial agonist activity of GR-antagonist complexes, can
+be modulated by two proteins (GMEB-1 and -2), which bind as oligomers to a DNA
+element that is called a glucocorticoid modulatory element, or GME. This element 
+is active when located upstream of the glucocorticoid response element that
+controls the expression of a reporter gene. Here, we report the
+structure/activity relationships of GMEB-2 and compare them to our previous
+findings for GMEB-1. Most of the activities of GMEB-2, such as homo- and
+heterooligomerization, binding to GR and to CBP, DNA binding, and modulation of
+the above GR transcriptional properties, require large regions of the protein.
+Only the intrinsic transactivation activity could be localized to a small region 
+of the protein. These studies shed light on the mechanism of action of GMEB-2 and
+further support our previous conclusion that the ability of factors to modulate
+the position of the dose-response curve, and the partial agonist activity, of GR 
+complexes is unrelated to effects on the total levels of GR-induced gene
+expression. These studies also identify regions of GMEB-2 possessing yet
+unidentified properties that are critical for several activities. Finally, as the
+domain organization of GMEB-2 and -1 is extremely similar, we conclude that the
+quantitative differences in activities derive from variations in amino acid
+sequence rather than more global features of protein structure.
+
+PMID: 14705952  [PubMed - indexed for MEDLINE]
+
+
+5. Mol Endocrinol. 2003 Jul;17(7):1283-95. Epub 2003 Apr 17.
+
+Crystal structure and nuclear magnetic resonance analyses of the SAND domain from
+glucocorticoid modulatory element binding protein-1 reveals deoxyribonucleic acid
+and zinc binding regions.
+
+Surdo PL(1), Bottomley MJ, Sattler M, Scheffzek K.
+
+Author information: 
+(1)European Molecular Biology Laboratory, Structural and Computational Biology
+Programme, 69117 Heidelberg, Germany.
+
+The glucocorticoid-modulatory element-binding proteins, GMEB1 and GMEB2, are
+ubiquitous, multifunctional DNA-binding proteins with important roles in the
+modulation of transcription upon steroid hormone activation. The GMEB proteins
+have intrinsic transactivation ability, but also control the glucocorticoid
+response via direct binding to the glucocorticoid receptor. They are also
+mandatory host proteins for Parvovirus replication. Here we present the 1.55 A
+resolution crystal structure of a central portion of GMEB1, encompassing its SAND
+domain, which shares 80% sequence identity with the GMEB2 SAND domain. We
+demonstrate that this domain, also present in numerous proteins implicated in
+chromatin-associated transcriptional regulation, is necessary and sufficient to
+bind the glucocorticoid-modulatory element (GME) DNA target. We use nuclear
+magnetic resonance (NMR) and binding studies to map the DNA recognition surface
+to an alpha-helical region exposing the conserved KDWK motif. Using site-directed
+mutagenesis, key residues for DNA binding are identified. In contrast to the
+previously determined NMR structure of the Sp100b SAND domain, we find that the
+GMEB1 SAND domain also comprises a zinc-binding motif. Although the zinc ion is
+not necessary for DNA binding, it is found to determine the C-terminal
+conformation of the GMEB1 SAND domain. We also show that homologous zinc-binding 
+motifs exist in a subset of SAND domain proteins and probe the roles of this
+novel motif.
+
+PMID: 12702733  [PubMed - indexed for MEDLINE]
+
+
+6. Mol Endocrinol. 2000 Jul;14(7):1010-27.
+
+Properties of the glucocorticoid modulatory element binding proteins GMEB-1 and
+-2: potential new modifiers of glucocorticoid receptor transactivation and
+members of the family of KDWK proteins.
+
+Kaul S(1), Blackford JA Jr, Chen J, Ogryzko VV, Simons SS Jr.
+
+Author information: 
+(1)Steroid Hormones Section, National Institute of Diabetes and Digestive and
+Kidney Diseases/Laboratory of Molecular and Cellular Biology, National Institutes
+of Health, Bethesda, Maryland 20892-0805, USA.
+
+An important component of glucocorticoid steroid induction of tyrosine
+aminotransferase (TAT) gene expression is the glucocorticoid modulatory element
+(GME), which is located at -3.6 kb of the rat TAT gene. The GME both mediates a
+greater sensitivity to hormone, due to a left shift in the dose-response curve of
+agonists, and increases the partial agonist activity of antiglucocorticoids.
+These properties of the GME are intimately related to the binding of a
+heteromeric complex of two proteins (GMEB-1 and -2). We previously cloned the rat
+GMEB-2 as a 67-kDa protein. We now report the cloning of the other member of the 
+GME binding complex, the 88-kDa human GMEB-1, and various properties of both
+proteins. GMEB-1 and -2 each possess an intrinsic transactivation activity in
+mammalian one-hybrid assays, consistent with our proposed model in which they
+modify glucocorticoid receptor (GR)-regulated gene induction. This hypothesis is 
+supported by interactions between GR and both GMEB-1 and -2 in mammalian
+two-hybrid and in pull-down assays. Furthermore, overexpression of GMEB-1 and -2,
+either alone or in combination, results in a reversible right shift in the
+dose-response curve, and decreased agonist activity of antisteroids, as expected 
+from the squelching of other limiting factors. Additional mechanistic details
+that are compatible with the model of GME action are suggested by the
+interactions in a two-hybrid assay of both GMEBs with CREB-binding protein (CBP) 
+and the absence of histone acetyl transferase (HAT) activity in both proteins.
+GMEB-1 and -2 share a sequence of 90 amino acids that is 80% identical. This
+region also displays homology to several other proteins containing a core
+sequence of KDWK. Thus, the GMEBs may be members of a new family of factors with 
+interesting transcriptional properties.
+
+PMID: 10894151  [PubMed - indexed for MEDLINE]
+
+
+7. Nucleic Acids Res. 2000 Apr 15;28(8):1819-29.
+
+Genomic organization of human GMEB-1 and rat GMEB-2: structural conservation of
+two multifunctional proteins.
+
+Zeng H(1), Kaul S, Simons SS Jr.
+
+Author information: 
+(1)Steroid Hormones Section, Building 8, Room B2A-07, NIDDK/LMCB, National
+Institutes of Health, Bethesda, MD 20892, USA.
+
+The glucocorticoid modulatory element binding proteins 1 and 2 (GMEB-1 and
+GMEB-2) are of interest both for their multiple activities (e.g. modulation of
+transactivation by the glucocorticoid receptor and initiation of parvovirus
+replication) and their membership in the emerging family of KDWK proteins. The
+genomic sequence of these proteins was desired in order to begin studies on the
+control of GMEB expression and to pursue previous evidence for significant
+homologies between the GMEBs. We now report the genomic sequence of human GMEB-1 
+and rat GMEB-2. The structure of both genes, including portions of the introns,
+is highly conserved. However, GMEB-1 and GMEB-2 were found to reside on
+chromosomes 1 and 20, respectively, demonstrating that they are encoded by
+distinctly different genes. Several isoforms of the GMEBs have been reported or
+detected in this study, and the splicing patterns were determined. The tissue
+distribution of each GMEB is not the same and is highest in fetal and developing 
+tissues, consistent with previous suggestions that both homo- and
+hetero-oligomers may possess biological activity. The promoter region of both
+genes has been identified and both display high levels of transcription activity 
+in transiently transfected cells when fused upstream of a promoterless reporter. 
+These results indicate that the GMEBs are proteins that evolved from a single
+parent gene, have been highly conserved since the divergence of rats and humans
+and probably play important roles in development and differentiation.
+
+PMCID: PMC102812
+PMID: 10734202  [PubMed - indexed for MEDLINE]
+
+
+8. FEBS Lett. 2000 Feb 25;468(2-3):203-10.
+
+Cloning of a mouse glucocorticoid modulatory element binding protein, a new
+member of the KDWK family.
+
+Jimenez-Lara AM(1), Heine MJ, Gronemeyer H.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/ULP, P.O. Box 163, 67404, Illkirch, France.
+
+A mouse cDNA that encodes a nuclear DNA binding protein was identified by yeast
+two-hybrid screening using the activation domain 2 of the nuclear receptor
+coactivator TIF2 as a bait. BLAST analysis revealed that the identified cDNA
+encodes a KDWK domain and contains sequences almost identical to three tryptic
+peptides of rat GMEB-1 which together with the GMEB-2 heterodimeric partner binds
+to the GME/CRE sequence (glucocorticoid modulatory element) of the tyrosine
+aminotransferase (TAT) promoter. Mouse GMEB-1 is ubiquitously expressed in all
+the tissues examined. In vitro translated mGMEB-1 bound specifically to GME
+oligonucleotides, either alone or as a heterodimer with rGMEB-2. Transient
+transfection experiments with TAT promoter reporter genes suggest a potential
+role for mGMEB-1 as a transcriptional regulator of the TAT promoter.
+
+PMID: 10692587  [PubMed - indexed for MEDLINE]
+
+
+9. FEBS Lett. 1999 Jun 11;452(3):170-6.
+
+Cloning and characterization of hGMEB1, a novel glucocorticoid modulatory element
+binding protein.
+
+Thériault JR(1), Charette SJ, Lambert H, Landry J.
+
+Author information: 
+(1)Centre de recherche en cancérologie de l'Université Laval, L'Hôtel-Dieu de
+Québec, Que., Canada.
+
+A 21-bp element called glucocorticoid modulatory element (GME) modulates the
+glucocorticoid receptor-mediated responses via the binding of an as yet poorly
+characterized transacting complex of proteins containing the 88-kDa GMEB1 and the
+67-kDa GMEB2. Using heat shock protein 27 (HSP27) as bait in the yeast two-hybrid
+assay, we cloned a 1.83-kb cDNA encoding a novel 573-amino acid protein called
+human GMEB1 (hGMEB1). hGMEB1 possesses a KDWK domain, contains sequences almost
+identical (36/38) to three tryptic peptides of rat GMEB1 and shares 38% identity 
+with rat GMEB2. hGMEB1 is ubiquitously expressed as a 85-kDa protein in all cell 
+lines and tissues examined. In vitro translated hGMEB1 bound specifically to GME 
+oligonucleotides yielding a complex of similar size to the complex obtained using
+rat liver nuclear extracts. Both complexes were supershifted with an antibody
+specific to hGMEB1. Co-immunoprecipitation experiments confirmed the in vivo
+interaction of HSP27 with hGMEB1.
+
+PMID: 10386584  [PubMed - indexed for MEDLINE]
+
+
+10. J Biol Chem. 1998 Jul 10;273(28):17756-62.
+
+Cloning and characterization of a novel binding factor (GMEB-2) of the
+glucocorticoid modulatory element.
+
+Zeng H(1), Jackson DA, Oshima H, Simons SS Jr.
+
+Author information: 
+(1)Steroid Hormones Section, NIDDK/LMCB, National Institutes of Health, Bethesda,
+Maryland 20892, USA.
+
+The 21-base pair glucocorticoid modulatory element (GME) of the rat tyrosine
+aminotransferase gene is the only cis-acting element known to modulate the
+transcriptional activity of receptors bound to glucocorticoid response elements. 
+Specifically, the GME increases the activity of complexes bound both by
+physiological concentrations of glucocorticoids, due to a left shift in the
+dose-response curve, and by saturating concentrations of anti-glucocorticoids.
+For this reason, the nuclear protein(s) that has been demonstrated to bind to the
+GME is of major interest as a possible transcription factor with hitherto
+undescribed properties. Subsequent studies indicated that not one but two
+proteins of 88 and 67 kDa (= GMEB-1 and -2, respectively) formed a heteromeric
+complex with double-stranded GME oligonucleotides in gel shift assays and
+participated in the expression of GME activity (Oshima, H., Szapary, D., and
+Simons, S. S., Jr. (1995) J. Biol. Chem. 270, 21893-21910). Here, we report the
+use of polymerase chain reaction of degenerate oligonucleotides and 5'- and
+3'-rapid amplification of cDNA ends to clone two cDNAs of 2. 0 and 1.9 kilobase
+pairs that probably result from alternative splicing. Both cDNAs encoded open
+reading frames containing all four previously sequenced peptides. The longer
+2.0-kilobase pair cDNA encoded an open reading frame for an acidic, 529-amino
+acid protein and afforded a major 67-kDa and a minor 58-kDa protein after in
+vitro transcription/translation. Both proteins were recognized by a mono-epitopic
+antibody raised against a peptide of GMEB-2. The in vitro translated protein
+bound to GME DNA in gel shift assays. However, the binding to GME DNA increased
+markedly after mixing with authentic GMEB-1 to give a gel-shifted complex that
+was similar to that derived from HTC cell cytosol. GMEB-2 shares a unique domain 
+(KDWKR) with proteins derived from diverse organisms as follows: Drosophila
+(DEAF-I), rat (Suppressin), and Caenorhabditis elegans (three unknown open
+reading frames). Collectively, these data suggest that the 67-kDa GMEB-2 not only
+is an important factor for the modulation of glucocorticoid receptor bound to
+glucocorticoid response elements but also may belong to a novel family of
+transcription factors.
+
+PMID: 9651376  [PubMed - indexed for MEDLINE]
+
+
+11. J Biol Chem. 1995 Sep 15;270(37):21893-901.
+
+The factor binding to the glucocorticoid modulatory element of the tyrosine
+aminotransferase gene is a novel and ubiquitous heteromeric complex.
+
+Oshima H(1), Szapary D, Simons SS Jr.
+
+Author information: 
+(1)Steroid Hormones Section, NIDDK/Laboratory of Molecular and Cellular Biology, 
+National Institutes of Health, Bethesda, Maryland 20892, USA.
+
+Glucocorticoid induction of the tyrosine aminotransferase gene deviates from that
+of many glucocorticoid-responsive genes by having a lower EC50 and displaying
+more agonist activity with a given antiglucocorticoid. A cis-acting element,
+located 3646 base pairs upstream of the start of tyrosine aminotransferase gene
+transcription, has been found to be sufficient to reproduce these variations with
+heterologous genes and promoters (Oshima, H., and Simons, S.S., Jr. (1992) Mol.
+Endocrinol. 6, 416-428). This element has been called a glucocorticoid modulatory
+element, or GME. Others have called this sequence a cyclic AMP-responsive element
+(CRE) due to the binding of the cyclic AMP response element binding protein
+(CREB). We now report the partial purification and characterization of two new
+proteins (GMEB1 and -2) of 88 and 67 kDa that bind to the GME/CRE as a
+heteromeric complex. This purification was followed by the formation of a
+previously characterized, biologically relevant band in gel shift assays. By
+several biochemical criteria, the GMEBs differed from many of the previously
+described CREB/CREM/ATF family members. Partial peptide sequencing revealed that 
+the sequences of these two proteins have not yet been described. Size exclusion
+chromatography and molecular weight measurements of the gel-shifted band
+demonstrated that the GMEBs bound to the GME as a macromolecular complex of about
+550 kDa that could be dissociated by deoxycholate. Similar experiments showed
+that CREB bound to the GME as heteromeric complexes of about 310 and 360 kDa. As 
+determined from gel shift assays, GMEB1 and -2 are not restricted to rat liver
+cells but appear to be ubiquitous. Thus, these novel GMEBs may participate in a
+similar modulation of other glucocorticoid-inducible genes in a variety of cells.
+
+PMID: 7665613  [PubMed - indexed for MEDLINE]
+
+
+12. Receptor. 1995 Fall;5(3):133-43.
+
+Purification of the glucocorticoid receptor-mineralocorticoid receptor
+modulator-2 from rabbit liver.
+
+Bodine PV(1), Litwack G.
+
+Author information: 
+(1)Women's Health Research Institute, Wyeth-Ayerst Laboratories, Radnor, PA
+19087, USA.
+
+Modulators-1 and -2 are endogenous low-mol-wt regulators of glucocorticoid and
+mineralocorticoid receptors and protein kinase C. Structural analysis of
+apparently purified modulators suggested that these molecules were novel ether
+aminophosphoglycerides. Subsequent X-ray crystallography and NMR spectroscopy
+indicated that the ultra-large scale modulator preparations were contaminated
+with glutamate and aspartate, although these amino acids lacked modulator
+activity. In this article, we describe the purification of modulator-2 from
+rabbit liver cytosol and the separation of this phosphoglyceride from these amino
+acids. This purification was similar to the ultra-large scale version (Bodine,
+P.V. and Litwack, G. [1990] J. Biol. Chem. 265, 9544-9554), but involved the
+chromatography of trypsinized rabbit liver cytosol on the 7-L bed volume Sephadex
+G-15 gel-filtration column. As before, two peaks of modulator activity
+(modulator-1 and -2), as well as a DNA-binding inhibitor (peak-3), eluted from
+the gel-filtration column. The resulting modulator-2 pool was incubated with
+glutamate decarboxylase and treated batch-wise with Dowex-50W cation-exchange
+resin and Chelex-100 resin. This enzyme/resin-treated modulator-2 preparation was
+then chromatographed on a Dowex-1 anion-exchange column. Finally, modulator-2 was
+purified by preparative silica TLC. This last purification step resulted in the
+separation of modulator-2 from glutamate, aspartate, and gamma-aminobutyrate. In 
+summary, rabbit liver cytosol appears to be a reasonable source of modulator-2.
+In addition, treatment of the preparation with glutamate decarboxylase seems to
+facilitate the subsequent separation of modulator-2 from the contaminating amino 
+acids.
+
+PMID: 8729193  [PubMed - indexed for MEDLINE]
+
+

@@ -1,0 +1,2973 @@
+
+1. Dev Dyn. 2016 Mar 25. doi: 10.1002/dvdy.24407. [Epub ahead of print]
+
+Inhibiting Smad2/3 signaling in pluripotent mouse embryonic stem cells enhances
+endoderm formation by increasing transcriptional priming of lineage-specifying
+target genes.
+
+Dahle Ø(1), Kuehn MR(1).
+
+Author information: 
+(1)Basic Research Laboratory, National Cancer Institute, National Institutes of
+Health, Frederick, Maryland.
+
+BACKGROUND: Pluripotent embryonic stem cells (ESCs) offer great potential for
+regenerative medicine. However, efficient in vitro generation of specific desired
+cell types is still a challenge. We previously established that Smad2/3
+signaling, essential for endoderm formation, regulates target gene expression by 
+counteracting epigenetic repression mediated by Polycomb Repressive Complex 2
+(PRC2). Although this mechanism has been demonstrated during differentiation and 
+reprogramming, little is known of its role in pluripotent cells.
+RESULTS: Chromatin immunoprecipitation-deep sequencing of undifferentiated mouse 
+ESCs inhibited for Smad2/3 signaling identified Prdm14, important for protecting 
+pluripotency, as a target gene. Although Prdm14 accumulates the normally
+repressive PRC2 deposited histone modification H3K27me3 under these conditions,
+surprisingly expression increases. Analysis indicates that increased H3K27me3
+leads to increased binding of PRC2 accessory component Jarid2 and recruitment of 
+RNA polymerase II. Similar increases were found at the Nodal endoderm target gene
+Eomesodermin, but it remained unexpressed in pluripotent cells as normal. Upon
+differentiation, however, Eomesodermin expression was significantly higher than
+in cells that had not been inhibited for signaling prior to differentiation. In
+addition, endoderm formation was markedly increased.
+CONCLUSIONS: Blocking Smad2/3 signaling in pluripotent stem cells results in
+epigenetic changes that enhance the capacity for endoderm differentiation. This
+article is protected by copyright. All rights reserved.
+
+© 2016 Wiley Periodicals, Inc.
+
+PMID: 27012147  [PubMed - as supplied by publisher]
+
+
+2. Curr Top Dev Biol. 2016;117:471-96. doi: 10.1016/bs.ctdb.2015.11.007. Epub 2016
+Feb 18.
+
+Developmental Competence for Primordial Germ Cell Fate.
+
+Günesdogan U(1), Surani MA(2).
+
+Author information: 
+(1)Wellcome Trust/Cancer Research UK Gurdon Institute, University of Cambridge,
+Cambridge, United Kingdom; Department of Physiology, Development and
+Neuroscience, University of Cambridge, Cambridge, United Kingdom. Electronic
+address: u.gunesdogan@gurdon.cam.ac.uk. (2)Wellcome Trust/Cancer Research UK
+Gurdon Institute, University of Cambridge, Cambridge, United Kingdom; Department 
+of Physiology, Development and Neuroscience, University of Cambridge, Cambridge, 
+United Kingdom. Electronic address: a.surani@gurdon.cam.ac.uk.
+
+During mammalian embryonic development, the trophectoderm and primitive endoderm 
+give rise to extraembryonic tissues, while the epiblast differentiates into all
+somatic lineages and the germline. Remarkably, only a few classes of signaling
+pathways induce the differentiation of these progenitor cells into diverse
+lineages. Accordingly, the functional outcome of a particular signal depends on
+the developmental competence of the target cells. Thus, developmental competence 
+can be defined as the ability of a cell to integrate intrinsic and extrinsic cues
+to execute a specific developmental program toward a specific cell fate.
+Downstream of signaling, there is the combinatorial activity of transcription
+factors and their cofactors, which is modulated by the chromatin state of the
+target cells. Here, we discuss the concept of developmental competence, and the
+factors that regulate this state with reference to the specification of mammalian
+primordial germ cells.
+
+© 2016 Elsevier Inc. All rights reserved.
+
+PMID: 26969996  [PubMed - in process]
+
+
+3. Epigenetics. 2016 Mar 1:0. [Epub ahead of print]
+
+Quantitative genome-wide methylation analysis of high-grade non-muscle invasive
+bladder cancer.
+
+Kitchen MO(1,)(2), Bryan RT(3), Emes RD(4), Glossop JR(1), Luscombe C(2), Cheng
+K(3), Zeegers MP(3,)(5,)(6,)(7), James ND(8), Devall AJ(3), Mein CA(9),
+Gommersall L(2), Fryer AA(1), Farrell WE(1).
+
+Author information: 
+(1)a Institute for Science and Technology in Medicine, Keele University , UK.
+(2)b Urology Department , University Hospitals of North Midlands NHS Trust , UK. 
+(3)c Institute of Cancer and Genomic Sciences, University of Birmingham , UK.
+(4)d Advanced Data Analysis Centre, University of Nottingham , UK. (5)e
+Department of Complex Genetics , Maastricht University Medical Centre , The
+Netherlands. (6)f NUTRIM School of Nutrition and Translational Research in
+Metabolism, Maastricht University Medical Centre , The Netherlands. (7)g CAPHRI
+School for Public Health and Primary Care, Maastricht University Medical Centre ,
+The Netherlands. (8)h Cancer Research Unit, University of Warwick , UK. (9)i The 
+Genome Centre, Barts and the London School of Medicine and Dentistry , London ,
+UK.
+
+High-grade non-muscle invasive bladder cancer (HG-NMIBC) is a clinically
+unpredictable disease with greater risks of recurrence and progression relative
+to their low-intermediate-grade counterparts. The molecular events, including
+those affecting the epigenome, that characterize this disease entity in the
+context of tumor development, recurrence, and progression, are incompletely
+understood. We therefore interrogated genome-wide DNA methylation using
+HumanMethylation450 BeadChip arrays in 21 primary HG-NMIBC tumors relative to
+normal bladder controls. Using strict inclusion-exclusion criteria we identified 
+1,057 hypermethylated CpGs within gene promoter-associated CpG islands,
+representing 256 genes. We validated the array data by bisulphite pyrosequencing 
+and examined 25 array-identified candidate genes in an independent cohort of 30
+HG-NMIBC and 18 low-intermediate-grade NMIBC. These analyses revealed
+significantly higher methylation frequencies in high-grade tumors relative to
+low-intermediate-grade tumors for the ATP5G2, IRX1 and VAX2 genes (P<0.05), and
+similarly significant increases in mean levels of methylation in high-grade
+tumors for the ATP5G2, VAX2, INSRR, PRDM14, VSX1, TFAP2b, PRRX1, and HIST1H4F
+genes (P<0.05). Although inappropriate promoter methylation was not invariantly
+associated with reduced transcript expression, a significant association was
+apparent for the ARHGEF4, PON3, STAT5a, and VAX2 gene transcripts (P<0.05).
+Herein, we present the first genome-wide DNA methylation analysis in a unique
+HG-NMIBC cohort, showing extensive and discrete methylation changes relative to
+normal bladder and low-intermediate-grade tumors. The genes we identified hold
+significant potential as targets for novel therapeutic intervention either alone,
+or in combination, with more conventional therapeutic options in the treatment of
+this clinically unpredictable disease.
+
+PMID: 26929985  [PubMed - as supplied by publisher]
+
+
+4. Zhongguo Fei Ai Za Zhi. 2016 Feb 20;19(2):93-7. doi:
+10.3779/j.issn.1009-3419.2016.02.06.
+
+[Research Progress of PR Domain Zinc Finger Protein 14].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Han Y(1), Lin Q(1).
+
+Author information: 
+(1)Department of Thoracic Surgery, Shanghai General Hospital, Shanghai Jiao Tong 
+University, School of Medicine, Shanghai 200080, China.
+
+PR domain zinc finger protein 14 (PRDM14) is an important member of the PRDM
+family, PRDM14 plays a key role in the maintenance of cell integrity and
+differentiation, growth and apoptosis of the cell. It also plays an critical role
+in the formation of primordial germ cells, the maintenance of the totipotency of 
+stem cells and the formation of tissues and organs. PRDM14 bears a single PR
+domain and six tandemly repeated zinc <U+FB01>ngers, which is involved in the process of
+the deacetylation and methylation of the histone, and is involved in the
+formation of tumor trough the change level of methylation in the promoter region.
+The abnormal methylation of PRDM14 can change the chromatin structure, DNA
+conformation and the interaction mode of DNA and protein, it can suppress
+transcription and expression of the gene, which caused the occurrence,
+development and metastasis of tumor. The research progress of PRDM14 is reviewed 
+based on the relevant literatures published in China and abroad.
+
+Publisher: Abstract available from the publisher.
+PMID: 26903163  [PubMed - in process]
+
+
+5. Nature. 2016 Jan 21;529(7586):403-7. doi: 10.1038/nature16480. Epub 2016 Jan 11.
+
+NANOG alone induces germ cells in primed epiblast in vitro by activation of
+enhancers.
+
+Murakami K(1,)(2,)(3,)(4,)(5), Günesdogan U(1,)(2,)(3), Zylicz JJ(1,)(2,)(3),
+Tang WW(1,)(2,)(3), Sengupta R(1,)(2,)(3), Kobayashi T(1,)(2,)(3), Kim
+S(1,)(2,)(3), Butler R(1), Dietmann S(3), Surani MA(1,)(2,)(3).
+
+Author information: 
+(1)Wellcome Trust/Cancer Research UK Gurdon Institute, University of Cambridge,
+Tennis Court Road, Cambridge CB2 1QN, UK. (2)Department of Physiology,
+Development and Neuroscience, University of Cambridge, Downing Street, Cambridge 
+CB2 3DY, UK. (3)Wellcome Trust Medical Research Council Stem Cell Institute,
+University of Cambridge, Tennis Court Road, Cambridge CB2 1QR, UK. (4)Laboratory 
+for Pluripotent Cell Studies, Center for Developmental Biology, RIKEN, 2-2-3
+Minatojima-minamimachi, Chuo-ku, Kobe, Hyogo 650-0047, Japan. (5)Laboratory for
+Molecular and Cellular Biology, Faculty of Advanced Life Science, Hokkaido
+University, Kita21 Nishi11, Kita-ku, Sapporo, Hokkaido 001-0021, Japan.
+
+Nanog, a core pluripotency factor in the inner cell mass of blastocysts, is also 
+expressed in unipotent primordial germ cells (PGCs) in mice, where its precise
+role is yet unclear. We investigated this in an in vitro model, in which naive
+pluripotent embryonic stem (ES) cells cultured in basic fibroblast growth factor 
+(bFGF) and activin A develop as epiblast-like cells (EpiLCs) and gain competence 
+for a PGC-like fate. Consequently, bone morphogenetic protein 4 (BMP4), or
+ectopic expression of key germline transcription factors Prdm1, Prdm14 and
+Tfap2c, directly induce PGC-like cells (PGCLCs) in EpiLCs, but not in ES cells.
+Here we report an unexpected discovery that Nanog alone can induce PGCLCs in
+EpiLCs, independently of BMP4. We propose that after the dissolution of the naive
+ES-cell pluripotency network during establishment of EpiLCs, the epigenome is
+reset for cell fate determination. Indeed, we found genome-wide changes in
+NANOG-binding patterns between ES cells and EpiLCs, indicating epigenetic
+resetting of regulatory elements. Accordingly, we show that NANOG can bind and
+activate enhancers of Prdm1 and Prdm14 in EpiLCs in vitro; BLIMP1 (encoded by
+Prdm1) then directly induces Tfap2c. Furthermore, while SOX2 and NANOG promote
+the pluripotent state in ES cells, they show contrasting roles in EpiLCs, as Sox2
+specifically represses PGCLC induction by Nanog. This study demonstrates a
+broadly applicable mechanistic principle for how cells acquire competence for
+cell fate determination, resulting in the context-dependent roles of key
+transcription factors during development.
+
+PMCID: PMC4724940 [Available on 2016-07-21]
+PMID: 26751055  [PubMed - in process]
+
+
+6. Stem Cells. 2016 Feb;34(2):322-33. doi: 10.1002/stem.2243. Epub 2015 Nov 26.
+
+Combined Overexpression of JARID2, PRDM14, ESRRB, and SALL4A Dramatically
+Improves Efficiency and Kinetics of Reprogramming to Induced Pluripotent Stem
+Cells.
+
+Iseki H(1,)(2), Nakachi Y(1,)(3), Hishida T(4,)(2), Yamashita-Sugahara Y(1),
+Hirasaki M(4), Ueda A(4), Tanimoto Y(5), Iijima S(5), Sugiyama F(5), Yagami K(5),
+Takahashi S(2,)(5), Okuda A(4,)(2), Okazaki Y(1,)(3,)(2).
+
+Author information: 
+(1)Division of Functional Genomics and Systems Medicine, Saitama Medical
+University, Saitama, Japan. (2)CREST, Japan Science and Technology Agency (JST), 
+Saitama, Japan. (3)Division of Translational Research, Saitama Medical
+University, Saitama, Japan. (4)Division of Developmental Biology, Research Center
+for Genomic Medicine, Saitama Medical University, Saitama, Japan. (5)Laboratory
+Animal Resource Center, University of Tsukuba, Ibaraki, Japan.
+
+Identification of a gene set capable of driving rapid and proper reprogramming to
+induced pluripotent stem cells (iPSCs) is an important issue. Here we show that
+the efficiency and kinetics of iPSC reprogramming are dramatically improved by
+the combined expression of Jarid2 and genes encoding its associated proteins. We 
+demonstrate that forced expression of JARID2 promotes iPSC reprogramming by
+suppressing the expression of Arf, a known reprogramming barrier, and that the
+N-terminal half of JARID2 is sufficient for such promotion. Moreover, JARID2
+accelerated silencing of the retroviral Klf4 transgene and demethylation of the
+Nanog promoter, underpinning the potentiating activity of JARID2 in iPSC
+reprogramming. We further show that JARID2 physically interacts with ESRRB,
+SALL4A, and PRDM14, and that these JARID2-associated proteins synergistically and
+robustly facilitate iPSC reprogramming in a JARID2-dependent manner. Our findings
+provide an insight into the important roles of JARID2 during reprogramming and
+suggest that the JARID2-associated protein network contributes to overcoming
+reprogramming barriers. Stem Cells 2016;34:322-333.
+
+© 2015 AlphaMed Press.
+
+PMID: 26523946  [PubMed - in process]
+
+
+7. Elife. 2015 Nov 2;4. pii: e10150. doi: 10.7554/eLife.10150.
+
+ETO family protein Mtgr1 mediates Prdm14 functions in stem cell maintenance and
+primordial germ cell formation.
+
+Nady N(1), Gupta A(2), Ma Z(1), Swigut T(1), Koide A(2), Koide S(2), Wysocka
+J(1,)(3,)(4,)(5).
+
+Author information: 
+(1)Department of Chemical and Systems Biology, Stanford University School of
+Medicine, Stanford, United States. (2)Department of Biochemistry and Molecular
+Biology, University of Chicago, Chicago, United States. (3)National Institute of 
+Environmental Health Sciences, , United States. (4)Department of Developmental
+Biology, Stanford University School of Medicine, Stanford, United States.
+(5)Institute of Stem Cell Biology and Regenerative Medicine, Stanford University 
+School of Medicine, Stanford, United States.
+
+Prdm14 is a sequence-specific transcriptional regulator of embryonic stem cell
+(ESC) pluripotency and primordial germ cell (PGC) formation. It exerts its
+function, at least in part, through repressing genes associated with epigenetic
+modification and cell differentiation. Here, we show that this repressive
+function is mediated through an ETO-family co-repressor Mtgr1, which tightly
+binds to the pre-SET/SET domains of Prdm14 and co-occupies its genomic targets in
+mouse ESCs. We generated two monobodies, synthetic binding proteins, targeting
+the Prdm14 SET domain and demonstrate their utility, respectively, in
+facilitating crystallization and structure determination of the Prdm14-Mtgr1
+complex, or as genetically encoded inhibitor of the Prdm14-Mtgr1 interaction.
+Structure-guided point mutants and the monobody abrogated the Prdm14-Mtgr1
+association and disrupted Prdm14's function in mESC gene expression and PGC
+formation in vitro. Altogether, our work uncovers the molecular mechanism
+underlying Prdm14-mediated repression and provides renewable reagents for
+studying and controlling Prdm14 functions.
+
+PMCID: PMC4749557
+PMID: 26523391  [PubMed - in process]
+
+
+8. Oncogene. 2015 Oct 26. doi: 10.1038/onc.2015.405. [Epub ahead of print]
+
+Sleeping Beauty transposon screen identifies signaling modules that cooperate
+with STAT5 activation to induce B-cell acute lymphoblastic leukemia.
+
+Heltemes-Harris LM(1,)(2,)(3), Larson JD(3,)(4), Starr TK(3,)(4,)(5,)(6), Hubbard
+GK(1,)(2,)(3), Sarver AL(3), Largaespada DA(3,)(6,)(7), Farrar MA(1,)(2,)(3).
+
+Author information: 
+(1)Center for Immunology, University of Minnesota, Minneapolis, MN, USA.
+(2)Department of Laboratory Medicine and Pathology, University of Minnesota,
+Minneapolis, MN, USA. (3)Masonic Cancer Center, University of Minnesota,
+Minneapolis, MN, USA. (4)Department of Genetics, Cell Biology, and Development,
+University of Minnesota, Minneapolis, MN, USA. (5)Department of Obstetrics,
+Gynecology and Women's Health, University of Minnesota, Minneapolis, MN, USA.
+(6)Center for Genome Engineering, University of Minnesota, Minneapolis, MN, USA. 
+(7)Department of Pediatrics, University of Minnesota, Minneapolis, MN, USA.
+
+Signal transducer and activator of transcription 5 (STAT5) activation occurs
+frequently in human progenitor B-cell acute lymphoblastic leukemia (B-ALL). To
+identify gene alterations that cooperate with STAT5 activation to initiate
+leukemia, we crossed mice expressing a constitutively active form of STAT5
+(Stat5b-CA) with mice in which a mutagenic Sleeping Beauty transposon (T2/Onc)
+was mobilized only in B cells. Stat5b-CA mice typically do not develop B-ALL (<2%
+penetrance); in contrast, 89% of Stat5b-CA mice in which the T2/Onc transposon
+had been mobilized died of B-ALL by 3 months of age. High-throughput sequencing
+approaches were used to identify genes frequently targeted by the T2/Onc
+transposon; these included Sos1 (74%), Kdm2a (35%), Jak1 (26%), Bmi1 (19%),
+Prdm14 or Ncoa2 (13%), Cdkn2a (10%), Ikzf1 (8%), Caap1 (6%) and Klf3 (6%).
+Collectively, these mutations target three major cellular processes: (i) the
+Janus kinase/STAT5 pathway (ii) progenitor B-cell differentiation and (iii) the
+CDKN2A tumor-suppressor pathway. Transposon insertions typically resulted in
+altered expression of these genes, as well as downstream pathways including
+STAT5, extracellular signal-regulated kinase (Erk) and p38. Importantly,
+expression of Sos1 and Kdm2a, and activation of p38, correlated with survival,
+further underscoring the role these genes and associated pathways have in
+B-ALL.Oncogene advance online publication, 26 October 2015;
+doi:10.1038/onc.2015.405.
+
+PMID: 26500062  [PubMed - as supplied by publisher]
+
+
+9. Sci Rep. 2015 Sep 25;5:14347. doi: 10.1038/srep14347.
+
+Dynamic expression of chromatin modifiers during developmental transitions in
+mouse preimplantation embryos.
+
+Nestorov P(1,)(2), Hotz HR(1), Liu Z(1), Peters AH(1,)(2).
+
+Author information: 
+(1)Friedrich Miescher Institute for Biomedical Research, 4058 Basel, Switzerland.
+(2)Faculty of Sciences, University of Basel, 4056 Basel, Switzerland.
+
+During mouse preimplantation development, major changes in cell fate are
+accompanied by extensive alterations of gene expression programs. Embryos first
+transition from a maternal to zygotic program and subsequently specify the
+pluripotent and the trophectodermal cell lineages. These processes are regulated 
+by key transcription factors, likely in cooperation with chromatin modifiers that
+control histone and DNA methylation. To characterize the spatiotemporal
+expression of chromatin modifiers in relation to developmental transitions, we
+performed gene expression profiling of 156 genes in individual oocytes and single
+blastomeres of developing mouse embryos until the blastocyst stage. More than
+half of the chromatin modifiers displayed either maternal or zygotic expression. 
+We also detected lineage-specific expression of several modifiers, including
+Ezh1, Prdm14, Scmh1 and Tet1 underscoring possible roles in cell fate decisions. 
+Members of the SET-domain containing SMYD family showed differential gene
+expression during preimplantation development. We further observed co-expression 
+of genes with opposing biochemical activities, such as histone methyltransferases
+and demethylases, suggesting the existence of a dynamic chromatin steady-state
+during preimplantation development.
+
+PMCID: PMC4585904
+PMID: 26403153  [PubMed - in process]
+
+
+10. Biochem Biophys Res Commun. 2015 Oct 9;466(1):138-45. doi:
+10.1016/j.bbrc.2015.08.122. Epub 2015 Aug 29.
+
+PRDM14 maintains pluripotency of embryonic stem cells through TET-mediated active
+DNA demethylation.
+
+Okashita N(1), Sakashita N(2), Ito K(2), Mitsuya A(2), Suwa Y(2), Seki Y(3).
+
+Author information: 
+(1)Department of Biomedical Science, School of Science and Technology, Kwansei
+Gakuin University, 2-1 Gakuen, Sanda, Hyogo 669-1337, Japan; Research Center for 
+Environmental Bioscience, Kwansei Gakuin University, 2-1 Gakuen, Sanda, Hyogo
+669-1337, Japan. (2)Department of Biomedical Science, School of Science and
+Technology, Kwansei Gakuin University, 2-1 Gakuen, Sanda, Hyogo 669-1337, Japan. 
+(3)Department of Biomedical Science, School of Science and Technology, Kwansei
+Gakuin University, 2-1 Gakuen, Sanda, Hyogo 669-1337, Japan; Research Center for 
+Environmental Bioscience, Kwansei Gakuin University, 2-1 Gakuen, Sanda, Hyogo
+669-1337, Japan. Electronic address: yseki@kwansei.ac.jp.
+
+Pluripotency and self-renewal of mouse embryonic stem cells (ESCs) depend on a
+network of transcription factors maintained by exogenous leukaemia inhibitory
+factor (LIF). PR-domain containing transcriptional regulator 14 (PRDM14), is
+essential for maintenance of ESC self-renewal when the cells are cultured in
+serum plus LIF, but not in 2i medium plus LIF. Here, we show that pluripotency of
+ESCs is maintained by enforced expression of PRDM14 at a high level, as observed 
+in ESCs in 2i plus LIF and developing primordial germ cells in the absence of
+LIF. Constitutive expression of PRDM14 represses de novo DNA methylation in
+pluripotency-associated genes, resulting in the maintenance of gene expression
+after withdrawal of LIF, while also repressing the upregulation of
+differentiation markers. Further, knockdown of Tet1/Tet2 and administration of
+base excision repair (BER) pathway inhibitors impairs the PRDM14-induced
+resistance of ESCs to differentiation. We conclude that, in the absence of LIF,
+PRDM14 governs the retention of pluripotency-associated genes through the
+regulation of TET functions in the BER-mediated active demethylation pathway,
+while acting to exert TET-independent transcriptional repressive activity of
+several differentiation markers.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+PMID: 26325469  [PubMed - indexed for MEDLINE]
+
+
+11. Fish Physiol Biochem. 2015 Dec;41(6):1545-56. doi: 10.1007/s10695-015-0106-1.
+Epub 2015 Aug 7.
+
+Spermatogonial stem cells specific marker identification in channel catfish,
+Ictalurus punctatus and blue catfish, I. furcatus.
+
+Shang M(1,)(2), Su B(3,)(4), Lipke EA(5), Perera DA(3,)(6), Li C(3,)(7), Qin
+Z(3), Li Y(3), Dunn DA(5,)(8), Cek S(3,)(9), Peatman E(3), Dunham RA(10).
+
+Author information: 
+(1)School of Fisheries, Aquaculture, and Aquatic Sciences, Auburn University,
+Auburn, AL, 36849, USA. mzs0040@tigermail.auburn.edu. (2)Key Laboratory of
+Freshwater Aquatic Biotechnology and Genetic Breeding, Heilongjiang Fisheries
+Research Institute, Chinese Academy of Fishery Sciences, Ministry of Agriculture,
+Harbin, 150070, China. mzs0040@tigermail.auburn.edu. (3)School of Fisheries,
+Aquaculture, and Aquatic Sciences, Auburn University, Auburn, AL, 36849, USA.
+(4)Key Laboratory of Freshwater Aquatic Biotechnology and Genetic Breeding,
+Heilongjiang Fisheries Research Institute, Chinese Academy of Fishery Sciences,
+Ministry of Agriculture, Harbin, 150070, China. (5)Department of Chemical
+Engineering, Auburn University, Auburn, AL, 36849, USA. (6)Gus R. Douglass
+Land-Grant Institute, West Virginia State University, Institute, WV, 25112, USA. 
+(7)Marine Science and Engineering College, Qingdao Agricultural University,
+Qingdao, 266109, China. (8)Department of Biological Sciences, State University of
+New York at Oswego, Oswego, NY, 13126-3599, USA. (9)Faculty of Marine Science and
+Technology, Mustafa Kemal University, 31200, Iskenderun, Hatay, Turkey.
+(10)School of Fisheries, Aquaculture, and Aquatic Sciences, Auburn University,
+Auburn, AL, 36849, USA. dunhara@auburn.edu.
+
+Testicular germ cells of channel catfish, Ictalurus punctatus, and blue catfish, 
+I. furcatus were separated into four layers with Percoll density gradient
+centrifugation, containing different cell types (40% in the first layer were
+spermatogonial stem cells, SSCs). Expression of seventeen genes was analyzed for 
+cells from different layers by real-time quantitative PCR. Pfkfb4, Urod, Plzf,
+Integrin6, IntegrinV, Thy1 and Cdh1 genes showed the same expression change
+pattern in both channel and blue catfish as these genes were down-regulated in
+the spermatocytes and even more so in spermatids. Plzf and Integrin6 had
+especially high expression in SSCs and can be used as SSCs specific markers. Sox2
+gene was up-regulated in spermatocytes and even more highly up-regulated in
+spermatids, which indicated it could be a spermatid marker. In contrast to
+channel catfish, Id4, Smad5 and Prdm14 gene expressions were strongly
+down-regulated in spermatocyte cells, but up-regulated in spermatid cells in blue
+catfish. Smad5 gene was down-regulated in spermatocytes, but up-regulated in both
+spermatogonia and spermatids, allowing identification as a marker for
+spermatocytes in blue catfish. Oct4, Id4, Gfra2, Pum2 and Prdm14 genes showed
+different expression patterns in the testicular germ cells of channel and blue
+catfish. This may be a partial explanation to the differing responses of channel 
+catfish and blue catfish to induced spawning technologies. The SSCs specific
+markers can be used for further SSCs labeling, which can increase the SSCs
+sorting efficiency and be applied in various studies involving SSCs and other
+germ cells.
+
+PMID: 26251285  [PubMed - in process]
+
+
+12. J Chin Med Assoc. 2015 Aug;78(8):438-45. doi: 10.1016/j.jcma.2015.05.002. Epub
+2015 Jun 13.
+
+Epithelial-mesenchymal transition-related factors in solid tumor and
+hematological malignancy.
+
+Chou YS(1), Yang MH(2).
+
+Author information: 
+(1)Institute of Clinical Medicine, National Yang-Ming University School of
+Medicine, Taipei, Taiwan, ROC; Division of Hematology and Oncology, Department of
+Medicine, Taipei Veterans General Hospital, Taipei, Taiwan, ROC; Division of
+Hematology and Oncology, Department of Medicine, Lo-Hsu Foundation, Lotung Poh-Ai
+Hospital, Luodong, Yilan, Taiwan, ROC. (2)Institute of Clinical Medicine,
+National Yang-Ming University School of Medicine, Taipei, Taiwan, ROC; Division
+of Hematology and Oncology, Department of Medicine, Taipei Veterans General
+Hospital, Taipei, Taiwan, ROC. Electronic address: mhyang2@vghtpe.gov.tw.
+
+The epithelial-mesenchymal transition (EMT) process plays pivotal roles in
+regulatory mechanisms of embryogenesis and wound healing physiologically, and
+organ fibrosis, cancer progression, and metastasis pathologically. EMT is
+classified as primary, secondary, and tertiary during embryonic development. EMT 
+contributes to repair of tissue injury and fibrogenesis by re-epithelialization
+and regeneration of fibroblasts, respectively. The hallmarks of EMT include loss 
+of contact inhibition, remodeling of extracellular matrix, and reorganization of 
+cytoskeleton, along with expression of mesenchymal markers and reduction of
+epithelial markers. Cancer cells acquire stemness, migration and invasive
+capability, evade apoptosis, and initiate metastasis to distant organs. Several
+EMT regulators including Snail, Zeb1, Zeb2, and Twist in solid tumor and Sox4,
+distal-less homeobox gene 4 (DLX4), Prdm14, Bmi1, and the forkhead box family in 
+hematological malignancy are reviewed with regard to their signaling pathways,
+regulatory mechanisms, and clinical interactions.
+
+Copyright © 2015. Published by Elsevier Taiwan.
+
+PMID: 26078096  [PubMed - in process]
+
+
+13. PLoS One. 2015 May 20;10(5):e0125626. doi: 10.1371/journal.pone.0125626.
+eCollection 2015.
+
+Histone demethylation maintains Prdm14 and Tsix expression and represses xIst in 
+embryonic stem cells.
+
+Kamikawa YF(1), Donohoe ME(1).
+
+Author information: 
+(1)Burke Medical Research Institute, White Plains, New York, United States of
+America; Department of Neuroscience Brain Mind Research Institute, Weill Cornell 
+Medical College, New York, New York, United States of America; Department of Cell
+& Development, Weill Cornell Medical College, New York, New York, United States
+of America.
+
+Epigenetic reprogramming is exemplified by the remarkable changes observed in
+cellular differentiation and X-chromosome inactivation (XCI) in mammalian female 
+cells. Histone 3 lysine 27 trimethylation (H3K27me3) is a modification that
+suppresses gene expression in multiple contexts including embryonic stem cells
+(ESCs) and decorates the entire inactive X-chromosome. The conversion of female
+somatic cells to induced pluripotency is accompanied by X-chromosome reactivation
+(XCR) and H3K27me3 erasure. Here, we show that the H3K27-specific demethylase Utx
+regulates the expression of the master regulators for XCI and XCR: Prdm14, Tsix, 
+and Xist. Female ESC transcriptome analysis using a small molecule inhibitor for 
+H3K27 demethylases, GSK-J4, identifies novel targets of H3K27 demethylation.
+Consistent with a recent report that GSK-J4 can inhibit other histone
+demethylase, we found that elevated H3K4me3 levels are associated with increased 
+gene expression including Xist. Our data suggest multiple regulatory mechanisms
+for XCI via histone demethylation.
+
+PMCID: PMC4439117
+PMID: 25993097  [PubMed - indexed for MEDLINE]
+
+
+14. Cell Cycle. 2015;14(10):1596-610. doi: 10.1080/15384101.2015.1026485.
+
+Destabilization of pluripotency in the absence of Mad2l2.
+
+Pirouz M(1), Rahjouei A, Shamsi F, Eckermann KN, Salinas-Riester G, Pommerenke C,
+Kessel M.
+
+Author information: 
+(1)a Department of Molecular Cell Biology ; Max Planck Institute for Biophysical 
+Chemistry ; Goettingen ; Germany.
+
+The induction and maintenance of pluripotency requires the expression of several 
+core factors at appropriate levels (Oct4, Sox2, Klf4, Prdm14). A subset of these 
+proteins (Oct4, Sox2, Prdm14) also plays crucial roles for the establishment of
+primordial germ cells (PGCs). Here we demonstrate that the Mad2l2 (MAD2B, Rev7)
+gene product is not only required by PGCs, but also by pluripotent embryonic stem
+cells (ESCs), depending on the growth conditions. Mad2l2(-/-) ESCs were unstable 
+in LIF/serum medium, and differentiated into primitive endoderm. However, they
+could be stably propagated using small molecule inhibitors of MAPK signaling.
+Several components of the MAPK cascade were up- or downregulated even in
+undifferentiated Mad2l2(-/-) ESCs. Global levels of repressive histone H3
+variants were increased in mutant ESCs, and the epigenetic signatures on
+pluripotency-, primitive endoderm-, and MAPK-related loci differed. Thus, H3K9me2
+repressed the Nanog promoter, while the promoter of Gata4 lost H3K27me3 and
+became de-repressed in LIF/serum condition. Promoters associated with genes
+involved in MAPK signaling also showed misregulation of these histone marks. Such
+epigenetic modifications could be indirect consequences of mutating Mad2l2.
+However, our previous observations suggested the histone methyltransferases as
+direct (G9a) or indirect (Ezh2) targets of Mad2l2. In effect, the intricate
+balance necessary for pluripotency becomes perturbed in the absence of Mad2l2.
+
+PMCID: PMC4614513 [Available on 2016-04-30]
+PMID: 25928475  [PubMed - indexed for MEDLINE]
+
+
+15. Int J Mol Sci. 2015 Apr 23;16(5):9097-118. doi: 10.3390/ijms16059097.
+
+Identification and Characterization of a PRDM14 Homolog in Japanese Flounder
+(Paralichthys olivaceus).
+
+Fan L(1), Jiang J(2), Gao J(3), Song H(4), Liu J(5), Yang L(6), Li Z(7), Chen
+Y(8), Zhang Q(9), Wang X(10).
+
+Author information: 
+(1)Key Laboratory of Marine Genetics and Breeding (Ocean University of China),
+Ministry of Education, Qingdao 266003, China. fanlin_lynne@sina.cn. (2)Key
+Laboratory of Marine Genetics and Breeding (Ocean University of China), Ministry 
+of Education, Qingdao 266003, China. j15964239284@163.com. (3)Key Laboratory of
+Marine Genetics and Breeding (Ocean University of China), Ministry of Education, 
+Qingdao 266003, China. gjn.1127@163.com. (4)Key Laboratory of Marine Genetics and
+Breeding (Ocean University of China), Ministry of Education, Qingdao 266003,
+China. song.huayu@163.com. (5)Key Laboratory of Marine Genetics and Breeding
+(Ocean University of China), Ministry of Education, Qingdao 266003, China.
+ljkmn911@outlook.com. (6)Key Laboratory of Marine Genetics and Breeding (Ocean
+University of China), Ministry of Education, Qingdao 266003, China.
+yanglikun0320@126.com. (7)Key Laboratory of Marine Genetics and Breeding (Ocean
+University of China), Ministry of Education, Qingdao 266003, China.
+xiumei0210@163.com. (8)Key Laboratory of Marine Genetics and Breeding (Ocean
+University of China), Ministry of Education, Qingdao 266003, China.
+gtpeng@163.com. (9)Key Laboratory of Marine Genetics and Breeding (Ocean
+University of China), Ministry of Education, Qingdao 266003, China.
+qzhang@ouc.edu.cn. (10)Key Laboratory of Marine Genetics and Breeding (Ocean
+University of China), Ministry of Education, Qingdao 266003, China.
+wangxubo@ouc.edu.cn.
+
+PRDM14 is a PR (PRDI-BF1-RIZ1 homologous) domain protein with six zinc fingers
+and essential roles in genome-wide epigenetic reprogramming. This protein is
+required for the establishment of germ cells and the maintenance of the embryonic
+stem cell ground state. In this study, we cloned the full-length cDNA and genomic
+DNA of the Paralichthys olivaceus prdm14 (Po-prdm14) gene and isolated the 5'
+regulatory region of Po-prdm14 by whole-genome sequencing. Peptide sequence
+alignment, gene structure analysis, and phylogenetic analysis revealed that
+Po-PRDM14 was homologous to mammalian PRDM14. Results of real-time quantitative
+polymerase chain reaction amplification (RT-qPCR) and in situ hybridization (ISH)
+in embryos demonstrated that Po-prdm14 was highly expressed between the morula
+and late gastrula stages, with its expression peaking in the early gastrula
+stage. Relatively low expression of Po-prdm14 was observed in the other
+developmental stages. ISH of gonadal tissues revealed that the transcripts were
+located in the nucleus of the oocytes in the ovaries but only in the
+spermatogonia and not the spermatocytes in the testes. We also presume that the
+Po-prdm14 transcription factor binding sites and their conserved binding region
+among vertebrates. The combined results suggest that Po-PRDM14 has a conserved
+function in teleosts and mammals.
+
+PMCID: PMC4463580
+PMID: 25915026  [PubMed - indexed for MEDLINE]
+
+
+16. Int J Mol Med. 2015 May;35(5):1219-29. doi: 10.3892/ijmm.2015.2132. Epub 2015 Mar
+11.
+
+Stem cells derived from human first-trimester umbilical cord have the potential
+to differentiate into oocyte-like cells in vitro.
+
+Hu X(1), Lu H(1), Cao S(1), Deng YL(1), Li QJ(1), Wan Q(1), Yie SM(1).
+
+Author information: 
+(1)Department of Gynecology and Obstetrics, The Second Medical College/Teaching
+Hospital, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan
+610041, P.R. China.
+
+Compared to stem cells derived from human term umbilical cord, stem cells derived
+from human first-trimester umbilical cord (hFTUC) exhibit a significantly greater
+proliferative potential, and more efficiency in terms of their in vitro
+differentiation. In the present study, we investigated whether hFTUC-derived stem
+cells are able to differentiate into germ cells. The hFTUC-derived stem cells
+were first isolated, expanded and then cultured in differentiation medium
+containing human follicular fluid, follicle-stimulating hormone (FSH)/luteinizing
+hormone (LH) and estradiol for 24 days. During the period of induction, a
+subpopulation of the cultured cells appeared that had a morphological resemblance
+to primordial germ cells (PGCs) and cumulus-oocyte complex (COC)-like cells, and 
+oocyte-like cells (OLCs). The PGC-like cells expressed specific markers
+indicative of germ cell formation such as octamer-binding transcription factor 4 
+(OCT4), stage-specific embryonic antigen 1 (SSEA1), B lymphocyte-induced
+maturation protein-1 (Blimp1), PR domain containing 14 (Prdm14), transcription
+factor AP-2 gamma (Tfap2C), VASA, STELLA, deleted in azoospermia-like (DAZL) and 
+interferon-induced transmembrane protein 3 (IFITM3). The OLCs, which contained a 
+single germinal vesicle, expressed oocyte-specific markers, such as synaptonemal 
+complex protein 3 (SCP3), growth/differentiation factor-9 (GDF9), GDF9B and zona 
+pellucida (ZP)1, ZP2 and ZP3. The COC-like cells secreted estradiol, vascular
+endothelial growth factor and leukemia inhibitory factor. Thus, our findings
+suggest that hFTUC-derived stem cells have an intrinsic ability to differentiate 
+into OLCs, which may provide an in vitro model for the identification of factors 
+involved in germ cell formation and differentiation.
+
+PMCID: PMC4380121
+PMID: 25760093  [PubMed - indexed for MEDLINE]
+
+
+17. EMBO J. 2015 Apr 15;34(8):1009-24. doi: 10.15252/embj.201488049. Epub 2015 Mar 6.
+
+Human primordial germ cell commitment in vitro associates with a unique PRDM14
+expression profile.
+
+Sugawa F(1), Araúzo-Bravo MJ(2), Yoon J(1), Kim KP(1), Aramaki S(1), Wu G(1),
+Stehling M(1), Psathaki OE(1), Hübner K(1), Schöler HR(3).
+
+Author information: 
+(1)Department of Cell and Developmental Biology, Max Planck Institute for
+Molecular Biomedicine, Münster, Germany. (2)Department of Cell and Developmental 
+Biology, Max Planck Institute for Molecular Biomedicine, Münster, Germany Group
+of Computational Biology and Bioinformatics, Biodonostia Health Research
+Institute, San Sebastián, Spain IKERBASQUE, Basque Foundation for Science,
+Bilbao, Spain. (3)Department of Cell and Developmental Biology, Max Planck
+Institute for Molecular Biomedicine, Münster, Germany Medical Faculty, University
+of Münster, Münster, Germany office@mpi-muenster.mpg.de.
+
+Comment in
+    EMBO J. 2015 Apr 15;34(8):975-7.
+
+Primordial germ cells (PGCs) develop only into sperm and oocytes in vivo. The
+molecular mechanisms underlying human PGC specification are poorly understood due
+to inaccessibility of cell materials and lack of in vitro models for tracking the
+earliest stages of germ cell development. Here, we describe a defined and
+stepwise differentiation system for inducing pre-migratory PGC-like cells
+(PGCLCs) from human pluripotent stem cells (PSCs). In response to cytokines, PSCs
+differentiate first into a heterogeneous mesoderm-like cell population and then
+into PGCLCs, which exhibit minimal PRDM14 expression. PGC specification in humans
+is similar to the murine process, with the sequential activation of mesodermal
+and PGC genes, and the suppression of neural induction and of de novo DNA
+methylation, suggesting that human PGC formation is induced via epigenesis, the
+process of germ cell specification via inductive signals from surrounding somatic
+cells. This study demonstrates that PGC commitment in humans shares key features 
+with that of the mouse, but also highlights key differences, including
+transcriptional regulation during the early stage of human PGC development (3-6
+weeks). A more comprehensive understanding of human germ cell development may
+lead to methodology for successfully generating PSC-derived gametes for
+reproductive medicine.
+
+© 2015 The Authors. Published under the terms of the CC BY NC ND 4.0 license.
+
+PMCID: PMC4406649
+PMID: 25750208  [PubMed - indexed for MEDLINE]
+
+
+18. Br J Cancer. 2015 Mar 17;112(6):1105-13. doi: 10.1038/bjc.2014.636.
+
+DNA hypermethylation analysis in sputum for the diagnosis of lung cancer:
+training validation set approach.
+
+Hubers AJ(1), Heideman DA(1), Burgers SA(2), Herder GJ(3), Sterk PJ(4), Rhodius
+RJ(4), Smit HJ(5), Krouwels F(6), Welling A(7), Witte BI(8), Duin S(1), Koning
+R(1), Comans EF(9), Steenbergen RD(1), Postmus PE(10), Meijer GA(1), Snijders
+PJ(1), Smit EF(10), Thunnissen E(1).
+
+Author information: 
+(1)Department of Pathology, VU University Medical Center, De Boelelaan 1117,
+Amsterdam 1081 HV, The Netherlands. (2)Department of Thoracic Oncology,
+NKI-Antoni van Leeuwenhoek Hospital, Amsterdam, The Netherlands. (3)Department of
+Pulmonary Diseases, Sint Antonius Hospital, Nieuwegein, The Netherlands.
+(4)Department of Pulmonary Diseases, Academic Medical Center, Amsterdam, The
+Netherlands. (5)Department of Pulmonary Diseases, Sint Lucas Andreas Hospital,
+Amsterdam, The Netherlands. (6)Department of Pulmonary Diseases, Spaarne
+Hospital, Hoofddorp, The Netherlands. (7)Department of Pulmonary Diseases,
+Medisch Centrum Alkmaar, Alkmaar, The Netherlands. (8)Department of Epidemiology 
+and Biostatistics, VU University Medical Center, Amsterdam, The Netherlands.
+(9)Department of Nuclear Medicine, VU University Medical Center, Amsterdam, The
+Netherlands. (10)Department of Pulmonary Diseases, VU University Medical Center, 
+Amsterdam, The Netherlands.
+
+BACKGROUND: Lung cancer has the highest mortality of all cancers. The aim of this
+study was to examine DNA hypermethylation in sputum and validate its diagnostic
+accuracy for lung cancer.
+METHODS: DNA hypermethylation of RASSF1A, APC, cytoglobin, 3OST2, PRDM14, FAM19A4
+and PHACTR3 was analysed in sputum samples from symptomatic lung cancer patients 
+and controls (learning set: 73 cases, 86 controls; validation set: 159 cases, 154
+controls) by quantitative methylation-specific PCR. Three statistical models were
+used: (i) cutoff based on Youden's J index, (ii) cutoff based on fixed
+specificity per marker of 96% and (iii) risk classification of post-test
+probabilities.
+RESULTS: In the learning set, approach (i) showed that RASSF1A was best able to
+distinguish cases from controls (sensitivity 42.5%, specificity 96.5%). RASSF1A, 
+3OST2 and PRDM14 combined demonstrated a sensitivity of 82.2% with a specificity 
+of 66.3%. Approach (ii) yielded a combination rule of RASSF1A, 3OST2 and PHACTR3 
+(sensitivity 67.1%, specificity 89.5%). The risk model (approach iii) distributed
+the cases over all risk categories. All methods displayed similar and consistent 
+results in the validation set.
+CONCLUSIONS: Our findings underscore the impact of DNA methylation markers in
+symptomatic lung cancer diagnosis. RASSF1A is validated as diagnostic marker in
+lung cancer.
+
+PMCID: PMC4366885
+PMID: 25719833  [PubMed - indexed for MEDLINE]
+
+
+19. J Cancer. 2015 Jan 20;6(3):270-5. doi: 10.7150/jca.10638. eCollection 2015.
+
+Amplification of chromosome 8 genes in lung cancer.
+
+Baykara O(1), Bakir B(1), Buyru N(1), Kaynak K(2), Dalay N(3).
+
+Author information: 
+(1)1. Department of Medical Biology, Cerrahpasa Medical Faculty, Istanbul
+University, Turkey. (2)2. Department of Chest Surgery, Cerrahpasa Medical
+Faculty, Istanbul University, Turkey. (3)3. Department of Basic Oncology, I.U.
+Oncology Institute, Istanbul University, Turkey.
+
+Chromosomal alterations are frequent events in lung carcinogenesis and usually
+display regions of focal amplification containing several overexpressed
+oncogenes. Although gains and losses of chromosomal loci have been reported copy 
+number changes of the individual genes have not been analyzed in lung cancer. In 
+this study 22 genes were analyzed by MLPA in tumors and matched normal tissue
+samples from 82 patients with non-small cell lung cancer. Gene amplifications
+were observed in 84% of the samples. Chromosome 8 was found to harbor the most
+frequent copy number alterations. The most frequently amplified genes were
+ZNF703, PRDM14 and MYC on chromosome 8 and the BIRC5 gene on chromosome 17. The
+frequency of deletions were much lower and the most frequently deleted gene was
+ADAM9. Amplification of the ZNF703, PRDM14 and MYC genes were highly correlated
+suggesting that the genes displaying high copy number changes on chromosome 8
+collaborate during lung carcinogenesis.
+
+PMCID: PMC4317763
+PMID: 25663945  [PubMed]
+
+
+20. Chin Med J (Engl). 2015 Feb 5;128(3):373-7. doi: 10.4103/0366-6999.150109.
+
+PRDM14 promotes the migration of human non-small cell lung cancer through
+extracellular matrix degradation in vitro.
+
+Bi HX, Shi HB, Zhang T(1), Cui G.
+
+Author information: 
+(1)Department of Pathology, Program in Molecular and Translational Medicine,
+School of Medicine, Huzhou University, Huzhou, Zhejiang 313000, China.
+
+BACKGROUND: As a novel molecular markerof non-small cell lung cancer (NSCLC),
+PRDI-BF1 and RIZ homology domain containing protein 14 (PRDM14) is over-expressed
+in NSCLC tumor tissues. Extracellular matrix degradation mediated by the balance 
+between matrix metalloproteinases (MMPs) and tissue inhibitor of
+metalloproteinases (TIMPs) is one of the most important mechanism in lung cancer 
+metastasis. This study aimed to determine if PRDM14 promoted the migration of
+NSCLC cells through extracellular matrix degradation mediated by change of
+MMP/TIMP expression.
+METHODS: The expression of PRDM14 was down-regulated in human cell line A 549
+after transfection with lentiviral vector-mediated short-hairpin ribonucleic
+acids (shRNAs) which targeted the PRDM14 promoter. Cellular migration of
+shRNA-infected cells was detected by a scratch wound healing assay and transwell 
+cell migration assay. Expression levels of MMP1, MMP2, TIMP1, and TIMP2 were
+measured by quantitative real-time polymerase chain reaction (RT-PCR).
+RESULTS: Migration of PRDM14-shRNA-infected cells was significantly inhibited
+relative to control cells as measured by the scratch wound healing (P < 0.05) and
+transwell cell migration assays (P < 0.01). The expression of MMP1 in A549 cells 
+infected by PRDM14-shRNA was down-regulated significantly (P < 0.01), whereas the
+expression of TIMP1 and TIMP2 was up-regulated significantly (P < 0.01).
+CONCLUSIONS: PRDM14 accelerates A549 cells migration in vitro through
+extracellular matrix degradation. PRDM14 is considered as a potential therapeutic
+target in metastatic NSCLC.
+
+PMID: 25635434  [PubMed - indexed for MEDLINE]
+
+
+21. Epigenetics. 2015;10(1):73-81. doi: 10.4161/15592294.2014.990787. Epub 2015 Jan
+23.
+
+Longitudinal assessment of DNA methylation changes during HPVE6E7-induced
+immortalization of primary keratinocytes.
+
+Schütze DM(1), Kooter JM, Wilting SM, Meijer CJ, Quint W, Snijders PJ,
+Steenbergen RD.
+
+Author information: 
+(1)a Department of Pathology; Unit of Molecular Pathology ; VU University Medical
+Center ; Amsterdam , The Netherlands.
+
+High-risk human papillomavirus (hrHPV)-induced immortalization and malignant
+transformation are accompanied by DNA methylation of host genes. To determine
+when methylation is established during cell immortalization and whether it is
+hrHPV-type dependent, DNA methylation was studied in a large panel of
+HPVE6E7-immortalized keratinocyte cell lines. These cell lines displayed
+different growth behaviors, i.e., continuous growth versus crisis period prior to
+immortalization, reflecting differential immortalization capacities of the 7
+HPV-types (16/18/31/33/45/66/70) studied. In this study, cells were monitored for
+hypermethylation of 14 host genes (APC, CADM1, CYGB, FAM19A4, hTERT, mir124-1,
+mir124-2, mir124-3, MAL, PHACTR3, PRDM14, RASSF1A, ROBO3, and SFRP2) at 4
+different stages during immortalization. A significant increase in overall
+methylation levels was seen with progression through each stage of
+immortalization. At stage 1 (pre-immortalization), a significant increase in
+methylation of hTERT, mir124-2, and PRDM14 was already apparent, which continued 
+over time. Methylation of ROBO3 was significantly increased at stage 2 (early
+immortal), followed by CYGB (stage 3) and FAM19A4, MAL, PHACTR3, and SFRP2 (stage
+4). Methylation patterns were mostly growth behavior independent. Yet, hTERT
+methylation levels were significantly increased in cells that just escaped from
+crisis. Bisulfite sequencing of hTERT confirmed increased methylation in immortal
+cells compared to controls, with the transcription core and known repressor sites
+remaining largely unmethylated. In conclusion, HPV-induced immortalization is
+associated with a sequential and progressive increase in promoter methylation of 
+a subset of genes, which is mostly independent of the viral immortalization
+capacity.
+
+PMCID: PMC4622457
+PMID: 25580631  [PubMed - in process]
+
+
+22. Philos Trans R Soc Lond B Biol Sci. 2014 Dec 5;369(1657). pii: 20130543. doi:
+10.1098/rstb.2013.0543.
+
+Primordial germ cell specification: a context-dependent cellular differentiation 
+event [corrected].
+
+Günesdogan U(1), Magnúsdóttir E(2), Surani MA(3).
+
+Author information: 
+(1)Wellcome Trust/Cancer Research UK Gurdon Institute, University of Cambridge,
+Tennis Court Road, Cambridge CB2 1QN, UK Department of Physiology, Development
+and Neuroscience, University of Cambridge, Downing St., Cambridge CB2 3DY, UK
+Wellcome Trust Medical Research Council Stem Cell Institute, University of
+Cambridge, Tennis Court Road, Cambridge CB2 1QR, UK. (2)Department of
+Biochemistry and Molecular Biology, BioMedical Center, University of Iceland, 101
+Reykjavík, Iceland. (3)Wellcome Trust/Cancer Research UK Gurdon Institute,
+University of Cambridge, Tennis Court Road, Cambridge CB2 1QN, UK Department of
+Physiology, Development and Neuroscience, University of Cambridge, Downing St.,
+Cambridge CB2 3DY, UK Wellcome Trust Medical Research Council Stem Cell
+Institute, University of Cambridge, Tennis Court Road, Cambridge CB2 1QR, UK
+a.surani@gurdon.cam.ac.uk.
+
+Erratum in
+    Philos Trans R Soc Lond B Biol Sci. 2014 Dec 19;369(1658):20140314.
+
+During embryonic development, the foundation of the germline is laid by the
+specification of primordial germ cells (PGCs) from the postimplantation epiblast 
+via bone morphogenetic protein (BMP) and WNT signalling. While the majority of
+epiblast cells undergo differentiation towards somatic cell lineages, PGCs
+initiate a unique cellular programme driven by the cooperation of the
+transcription factors BLIMP1, PRDM14 and AP2<U+03B3>. These factors synergistically
+suppress the ongoing somatic differentiation and drive the re-expression of
+pluripotency and germ cell-specific genes accompanied by global epigenetic
+changes. However, an unresolved question is how postimplantation epiblast cells
+acquire the developmental competence for the PGC fate downstream of BMP/WNT
+signalling. One emerging concept is that transcriptional enhancers might play a
+central role in the establishment of developmental competence and the execution
+of cell fate determination. Here, we discuss recent advances on the specification
+and reprogramming of PGCs thereby highlighting the concept of enhancer function.
+
+PMCID: PMC4216466
+PMID: 25349452  [PubMed - indexed for MEDLINE]
+
+
+23. Arkh Patol. 2014 Jul-Aug;76(4):15-7.
+
+[Numerical impairments in genes in breast cancer: a multiplex ligation-dependent 
+probe amplification study].
+
+[Article in Russian]
+
+Matsionis AE, Petrov AV, Gorelik MZ, Zavalishina LE.
+
+OBJECTIVE: To analyze breast cancer samples using the new technique multiplex
+ligation-dependent probe amplification (MLPA) assay. MATERIAL AND METHODS;
+Formalin-fixed paraffin-embedded breast carcinoma samples from 65 patients were
+examined. After manual microdissection, DNA was isolated using a commercial kit
+("QIAGEN") and analyzed with SALSA MLPA KIT P078-B1 Breast Tumour
+("MRC-Holland"). Capillary electrophoresis provided results.
+RESULTS: MLPA assay was successful in all examined samples. The amplification and
+deletion frequencies of the analyzed genes were in line with the literature data.
+The technique requires conventional work-related skills in a molecular genetic
+laboratory and, as a whole, presents no problems with its usage. The
+interpretation of results is devoid of subjective meaning due to exclusively
+their mathematical analysis. MLPA assay provides an insight into numerical
+impairments in the following genes: ERBB2, MYC, TRAF4, C11orf30 (EMSY), ADAM9,
+IKBKB, CCNE1, TOP2A, CDH1, CDC6, ESR1, CPD, EGFR, MTDH, CCND1, BIRC5, MED1,
+FGFR1, MAPT, PRDM14, and AURKA.
+CONCLUSION: MLPA is an easy-to-use and promising method for multiplex genetic
+analysis of tumor cells in breast cancer.
+
+PMID: 25306619  [PubMed - indexed for MEDLINE]
+
+
+24. Cell Rep. 2014 Oct 9;9(1):234-47. doi: 10.1016/j.celrep.2014.08.055. Epub 2014
+Sep 26.
+
+Control of embryonic stem cell identity by BRD4-dependent transcriptional
+elongation of super-enhancer-associated pluripotency genes.
+
+Di Micco R(1), Fontanals-Cirera B(2), Low V(2), Ntziachristos P(3), Yuen SK(2),
+Lovell CD(2), Dolgalev I(4), Yonekubo Y(2), Zhang G(5), Rusinova E(5),
+Gerona-Navarro G(5), Cañamero M(6), Ohlmeyer M(5), Aifantis I(3), Zhou MM(5),
+Tsirigos A(7), Hernando E(8).
+
+Author information: 
+(1)Department of Pathology, New York University School of Medicine, and
+Perlmutter Cancer Center, New York, NY 10016, USA; Helen L. and Martin S. Kimmel 
+Center for Stem Cell Biology, NYU Langone Medical Center, New York, NY 10016,
+USA. Electronic address: raffaella.dimicco@nyumc.org. (2)Department of Pathology,
+New York University School of Medicine, and Perlmutter Cancer Center, New York,
+NY 10016, USA; Helen L. and Martin S. Kimmel Center for Stem Cell Biology, NYU
+Langone Medical Center, New York, NY 10016, USA. (3)Department of Pathology, New 
+York University School of Medicine, and Perlmutter Cancer Center, New York, NY
+10016, USA; Helen L. and Martin S. Kimmel Center for Stem Cell Biology, NYU
+Langone Medical Center, New York, NY 10016, USA; Howard Hughes Medical Institute 
+and NYU Cancer Institute, New York University School of Medicine, New York, NY
+10016, USA. (4)Genome Technology Center, Office for Collaborative Science, NYU
+Medical Center, New York, NY 10016, USA. (5)Department of Structural and Chemical
+Biology, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA.
+(6)Histopathology Core Unit, Biotechnology Program, Centro Nacional de
+Investigaciones Oncológicas (CNIO), 28029 Madrid, Spain. (7)Department of
+Pathology, New York University School of Medicine, and Perlmutter Cancer Center, 
+New York, NY 10016, USA; Center for Health Informatics and Bioinformatics, NYU
+School of Medicine, New York, NY 10016, USA. Electronic address:
+aristotelis.tsirigos@nyumc.org. (8)Department of Pathology, New York University
+School of Medicine, and Perlmutter Cancer Center, New York, NY 10016, USA; Helen 
+L. and Martin S. Kimmel Center for Stem Cell Biology, NYU Langone Medical Center,
+New York, NY 10016, USA. Electronic address: eva.hernando-monge@nyumc.org.
+
+Transcription factors and chromatin-remodeling complexes are key determinants of 
+embryonic stem cell (ESC) identity. Here, we demonstrate that BRD4, a member of
+the bromodomain and extraterminal domain (BET) family of epigenetic readers,
+regulates the self-renewal ability and pluripotency of ESCs. BRD4 inhibition
+resulted in induction of epithelial-to-mesenchymal transition (EMT) markers and
+commitment to the neuroectodermal lineage while reducing the ESC
+multidifferentiation capacity in teratoma assays. BRD4 maintains transcription of
+core stem cell genes such as OCT4 and PRDM14 by occupying their super-enhancers
+(SEs), large clusters of regulatory elements, and recruiting to them Mediator and
+CDK9, the catalytic subunit of the positive transcription elongation factor b
+(P-TEFb), to allow Pol-II-dependent productive elongation. Our study describes a 
+mechanism of regulation of ESC identity that could be applied to improve the
+efficiency of ESC differentiation.
+
+Copyright © 2014 The Authors. Published by Elsevier Inc. All rights reserved.
+
+PMCID: PMC4317728
+PMID: 25263550  [PubMed - indexed for MEDLINE]
+
+
+25. Carcinogenesis. 2014 Nov;35(11):2611-8. doi: 10.1093/carcin/bgu197. Epub 2014 Sep
+18.
+
+Methylation-mediated repression of PRDM14 contributes to apoptosis evasion in
+HPV-positive cancers.
+
+Snellenberg S(1), Cillessen SA(1), Van Criekinge W(2), Bosch L(1), Meijer CJ(1), 
+Snijders PJ(1), Steenbergen RD(3).
+
+Author information: 
+(1)Department of Pathology, Unit of Molecular Pathology, VU University Medical
+Center, Amsterdam, The Netherlands and. (2)Department of Pathology, Unit of
+Molecular Pathology, VU University Medical Center, Amsterdam, The Netherlands and
+BioBix, Department of Mathematical Modelling, Statistics and Bioinformatics,
+Ghent University, Ghent, Belgium. (3)Department of Pathology, Unit of Molecular
+Pathology, VU University Medical Center, Amsterdam, The Netherlands and
+r.steenbergen@vumc.nl.
+
+Promoter methylation of the transcription factor PRDM14 (PRDI-BF1 and RIZ domain 
+containing 14) represents a highly frequent event in human papillomavirus
+(HPV)-induced cervical cancers and cancer precursor lesions. Here, we aimed to
+assess the functional consequences of PRDM14 promoter methylation in HPV-induced 
+carcinogenesis. PRDM14 promoter methylation, expression and consequences of
+ectopic PRDM14 expression were studied in HPV16-positive cervical and oral cancer
+cell lines (SiHa, CaSki and 93VU147T), human embryonic kidney 293 (HEK293T) cells
+and primary human foreskin keratinocytes (HFK). PRDM14 mRNA expression was
+restricted to HEK293T and HFK cells, and could be upregulated in SiHa cells upon 
+DNA methylation inhibition. Ectopic expression of PRDM14 in SiHa, CaSki and
+93VU147T cells resulted in significantly more apoptotic cells, as measured by
+annexin V labelling, compared to HEK293T and HFK cells. MRNA profiling of 41
+apoptosis regulators identified NOXA and PUMA as candidate target genes involved 
+in PRDM14-mediated apoptosis induction. Full-length PRDM14 transactivated both
+NOXA and PUMA promoters. Transactivation was abolished upon deletion of the
+PRDM14 DNA binding domain. This suggests that NOXA and PUMA expression is
+directly regulated by PRDM14, which in case of NOXA was linked to a consensus
+PRDM14 binding motif in the promoter region. Taken together, these results
+suggest that PRDM14 acts as a regulator of NOXA and PUMA-mediated apoptosis
+induction, thereby providing evidence for a tumour suppressive role in
+HPV-induced carcinogenesis. The contribution of methylation-mediated gene
+silencing of PRDM14 to apoptosis evasion in HPV-positive cancer cells offers
+novel therapeutic options for HPV-induced cancers.
+
+© The Author 2014. Published by Oxford University Press. All rights reserved. For
+Permissions, please email: journals.permissions@oup.com.
+
+PMID: 25233927  [PubMed - indexed for MEDLINE]
+
+
+26. RNA Biol. 2014;11(7):798-807. doi: 10.4161/rna.29779. Epub 2014 Aug 19.
+
+Coupling of X-chromosome reactivation with the pluripotent stem cell state.
+
+Payer B(1), Lee JT(1).
+
+Author information: 
+(1)Howard Hughes Medical Institute; Department of Molecular Biology;
+Massachusetts General Hospital; Department of Genetics; Harvard Medical School;
+Boston, MA USA.
+
+X-chromosome inactivation (XCI) in female mammals is a dramatic example of
+epigenetic gene regulation, which entails the silencing of an entire chromosome
+through a wide range of mechanisms involving noncoding RNAs,
+chromatin-modifications, and DNA-methylation. While XCI is associated with the
+differentiated cell state, it is reversed by X-chromosome reactivation (XCR) ex
+vivo in pluripotent stem cells and in vivo in the early mouse embryo and the
+germline. Critical in the regulation of XCI vs. XCR is the X-inactivation center,
+a multigene locus on the X-chromosome harboring several long noncoding RNA genes 
+including, most prominently, Xist and Tsix. These genes, which sit at the top of 
+the XCI hierarchy, are by themselves controlled by pluripotency factors, coupling
+XCR with the naïve pluripotent stem cell state. In this point-of-view article we 
+review the latest findings regarding this intricate relationship between cell
+differentiation state and epigenetic control of the X-chromosome. In particular, 
+we discuss the emerging picture of complex multifactorial regulatory mechanisms, 
+ensuring both a fine-tuned and robust X-reactivation process.
+
+PMCID: PMC4179954
+PMID: 25137047  [PubMed - indexed for MEDLINE]
+
+
+27. J Clin Pathol. 2014 Aug;67(8):707-11. doi: 10.1136/jclinpath-2014-202414. Epub
+2014 Jun 10.
+
+Combined sputum hypermethylation and eNose analysis for lung cancer diagnosis.
+
+Hubers AJ(1), Brinkman P(2), Boksem RJ(2), Rhodius RJ(2), Witte BI(3), Zwinderman
+AH(4), Heideman DA(1), Duin S(1), Koning R(1), Steenbergen RD(1), Snijders PJ(1),
+Smit EF(5), Sterk PJ(2), Thunnissen E(1).
+
+Author information: 
+(1)Department of Pathology, VU University Medical Center, Amsterdam, The
+Netherlands. (2)Department of Respiratory Medicine, Academic Medical Centre,
+University of Amsterdam, Amsterdam, The Netherlands. (3)Department of
+Epidemiology and Biostatistics, VU University Medical Center, Amsterdam, The
+Netherlands. (4)Department of Clinical Epidemiology and Biostatistics, Academic
+Medical Center, Amsterdam, The Netherlands. (5)Department of Pulmonary Diseases, 
+VU University Medical Center, Amsterdam, The Netherlands.
+
+AIMS: The aim of this study is to explore DNA hypermethylation analysis in sputum
+and exhaled breath analysis for their complementary, non-invasive diagnostic
+capacity in lung cancer.
+METHODS: Sputum samples and exhaled breath were prospectively collected from 20
+lung cancer patients and 31 COPD controls (Set 1). An additional 18 lung cancer
+patients and 8 controls only collected exhaled breath as validation set (Set 2). 
+DNA hypermethylation of biomarkers RASSF1A, cytoglobin, APC, FAM19A4, PHACTR3,
+3OST2 and PRDM14 was considered, and breathprints from exhaled breath samples
+were created using an electronic nose (eNose).
+RESULTS: Both DNA hypermethylation markers in sputum and eNose were independently
+able to distinguish lung cancer patients from controls. The combination of
+RASSF1A and 3OST2 hypermethylation had a sensitivity of 85% with a specificity of
+74%. eNose had a sensitivity of 80% with a specificity of 48%. Sensitivity for
+lung cancer diagnosis increased to 100%, when RASSF1A hypermethylation was
+combined with eNose, with specificity of 42%. Both methods showed to be
+complementary to each other (p=0.011). eNose results were reproducible in Set 2.
+CONCLUSIONS: When used in concert, RASSF1A hypermethylation in sputum and exhaled
+breath analysis are complementary for lung cancer diagnosis, with 100%
+sensitivity in this series. This finding should be further validated.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not
+already granted under a licence) please go to
+http://group.bmj.com/group/rights-licensing/permissions.
+
+PMID: 24915850  [PubMed - indexed for MEDLINE]
+
+
+28. Trends Biochem Sci. 2014 Jun;39(6):289-98. doi: 10.1016/j.tibs.2014.04.003. Epub 
+2014 May 5.
+
+PRDM14: a unique regulator for pluripotency and epigenetic reprogramming.
+
+Nakaki F(1), Saitou M(2).
+
+Author information: 
+(1)Department of Anatomy and Cell Biology, Graduate School of Medicine, Kyoto
+University, Yoshida-Konoe-cho, Sakyo-ku, Kyoto 606-8501, Japan; JST, ERATO,
+Yoshida-Konoe-cho, Sakyo-ku, Kyoto 606-8501, Japan. (2)Department of Anatomy and 
+Cell Biology, Graduate School of Medicine, Kyoto University, Yoshida-Konoe-cho,
+Sakyo-ku, Kyoto 606-8501, Japan; Center for iPS Cell Research and Application,
+Kyoto University, 53 Kawahara-cho, Shogoin Yoshida, Sakyo-ku, Kyoto 606-8507,
+Japan; JST, ERATO, Yoshida-Konoe-cho, Sakyo-ku, Kyoto 606-8501, Japan; Institute 
+for Integrated Cell-Material Sciences, Kyoto University, Yoshida-Ushinomiya-cho, 
+Sakyo-ku, Kyoto 606-8501, Japan. Electronic address:
+saitou@anat2.med.kyoto-u.ac.jp.
+
+PRDM14 belongs to the PR domain-containing (PRDM) transcriptional regulators.
+Among the PRDM family members, PRDM14 shows specific expression in
+preimplantation embryos, primordial germ cells (PGCs), and embryonic stem cells
+(ESCs) in vitro, and accordingly plays a key role in the regulation of their
+pluripotency and epigenetic reprogramming, most notably, genome-wide DNA
+demethylation. The function of PRDM14 appears to be conserved between mice and
+humans, but it shows several characteristic differences between the two species. 
+A precise understanding of the function of PRDM14 in mice and humans would shed
+new light on the regulation of pluripotency and the epigenome in these two
+species, providing a foundation for better control of stem cell fates in a
+broader context.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+PMID: 24811060  [PubMed - indexed for MEDLINE]
+
+
+29. Mol Cells. 2014 Jan;37(1):31-5. doi: 10.14348/molcells.2014.2212. Epub 2014 Jan
+27.
+
+Ground-state conditions promote robust Prdm14 reactivation and maintain an active
+Dlk1-Dio3 region during reprogramming.
+
+Habib O(1), Habib G, Moon SH, Hong KS, Do JT, Choi Y, Chang SW, Chung HM.
+
+Author information: 
+(1)Department of Stem Cell Biology, School of Medicine, Konkuk University, Seoul 
+143-701, Korea ; Stem Cell Research Laboratory, CHA Stem Cell Institute, CHA
+University, Seoul 135-907, Korea.
+
+Induced pluripotent stem cells (iPSCs) are capable of unlimited self-renewal and 
+can give rise to all three germ layers, thereby providing a new platform with
+which to study mammalian development and epigenetic reprogramming. However, iPSC 
+generation may result in subtle epigenetic variations, such as the aberrant
+methylation of the Dlk1-Dio3 locus, among the clones, and this heterogeneity
+constitutes a major drawback to harnessing the full potential of iPSCs. Vitamin C
+has recently emerged as a safeguard to ensure the normal imprinting of the
+Dlk1-Dio3 locus during reprogramming. Here, we show that vitamin C exerts its
+effect in a manner that is independent of the reprogramming kinetics. Moreover,
+we demonstrate that reprogramming cells under 2i conditions leads to the early
+upregulation of Prdm14, which in turn results in a highly homogeneous population 
+of authentic pluripotent colonies and prevents the abnormal silencing of the
+Dlk1-Dio3 locus.
+
+PMCID: PMC3907008
+PMID: 24552707  [PubMed - indexed for MEDLINE]
+
+
+30. Stem Cell Reports. 2013 Dec 17;1(6):518-31. doi: 10.1016/j.stemcr.2013.11.010.
+eCollection 2013.
+
+Synergistic mechanisms of DNA demethylation during transition to ground-state
+pluripotency.
+
+Hackett JA(1), Dietmann S(2), Murakami K(1), Down TA(3), Leitch HG(4), Surani
+MA(1).
+
+Author information: 
+(1)Wellcome Trust/Cancer Research UK Gurdon Institute, University of Cambridge,
+Cambridge CB2 1QN, UK ; Wellcome Trust/MRC Stem Cell Institute, University of
+Cambridge, Cambridge CB2 1QR, UK ; Department of Physiology, Development and
+Neuroscience, University of Cambridge, Cambridge CB2 3EG, UK. (2)Wellcome
+Trust/MRC Stem Cell Institute, University of Cambridge, Cambridge CB2 1QR, UK.
+(3)Wellcome Trust/Cancer Research UK Gurdon Institute, University of Cambridge,
+Cambridge CB2 1QN, UK. (4)Wellcome Trust/Cancer Research UK Gurdon Institute,
+University of Cambridge, Cambridge CB2 1QN, UK ; Wellcome Trust/MRC Stem Cell
+Institute, University of Cambridge, Cambridge CB2 1QR, UK.
+
+Pluripotent stem cells (PSCs) occupy a spectrum of reversible molecular states
+ranging from a naive ground-state in 2i, to metastable embryonic stem cells
+(ESCs) in serum, to lineage-primed epiblast stem cells (EpiSCs). To investigate
+the role of DNA methylation (5mC) across distinct pluripotent states, we mapped
+genome-wide 5mC and 5-hydroxymethycytosine (5hmC) in multiple PSCs. Ground-state 
+ESCs exhibit an altered distribution of 5mC and 5hmC at regulatory elements and
+dramatically lower absolute levels relative to ESCs in serum. By contrast, EpiSCs
+exhibit increased promoter 5mC coupled with reduced 5hmC, which contributes to
+their developmental restriction. Switch to 2i triggers rapid onset of both the
+ground-state gene expression program and global DNA demethylation.
+Mechanistically, repression of de novo methylases by PRDM14 drives DNA
+demethylation at slow kinetics, whereas TET1/TET2-mediated 5hmC conversion
+enhances both the rate and extent of hypomethylation. These processes thus act
+synergistically during transition to ground-state pluripotency to promote a
+robust hypomethylated state.
+
+PMCID: PMC3871394
+PMID: 24371807  [PubMed - indexed for MEDLINE]
+
+
+31. Development. 2014 Jan;141(2):269-80. doi: 10.1242/dev.099622. Epub 2013 Dec 11.
+
+PRDM14 promotes active DNA demethylation through the ten-eleven translocation
+(TET)-mediated base excision repair pathway in embryonic stem cells.
+
+Okashita N(1), Kumaki Y, Ebi K, Nishi M, Okamoto Y, Nakayama M, Hashimoto S,
+Nakamura T, Sugasawa K, Kojima N, Takada T, Okano M, Seki Y.
+
+Author information: 
+(1)Department of Bioscience, School of Science and Technology, Kwansei Gakuin
+University, 2-1 Gakuen, Sanda, Hyogo 669-1337, Japan.
+
+Ten-eleven translocation (TET) proteins oxidize 5-methylcytosine (5mC) to
+5-hydroxymethylcytosine (5hmC), 5-formylcytosine (5fC) and 5-carboxylcytosine
+(5caC). 5fC and 5caC can be excised and repaired by the base excision repair
+(BER) pathway, implicating 5mC oxidation in active DNA demethylation. Genome-wide
+DNA methylation is erased in the transition from metastable states to the ground 
+state of embryonic stem cells (ESCs) and in migrating primordial germ cells
+(PGCs), although some resistant regions become demethylated only in gonadal PGCs.
+Understanding the mechanisms underlying global hypomethylation in naive ESCs and 
+developing PGCs will be useful for realizing cellular pluripotency and
+totipotency. In this study, we found that PRDM14, the PR domain-containing
+transcriptional regulator, accelerates the TET-BER cycle, resulting in the
+promotion of active DNA demethylation in ESCs. Induction of Prdm14 expression
+transiently elevated 5hmC, followed by the reduction of 5mC at
+pluripotency-associated genes, germline-specific genes and imprinted loci, but
+not across the entire genome, which resembles the second wave of DNA
+demethylation observed in gonadal PGCs. PRDM14 physically interacts with TET1 and
+TET2 and enhances the recruitment of TET1 and TET2 at target loci. Knockdown of
+TET1 and TET2 impaired transcriptional regulation and DNA demethylation by
+PRDM14. The repression of the BER pathway by administration of pharmacological
+inhibitors of APE1 and PARP1 and the knockdown of thymine DNA glycosylase (TDG)
+also impaired DNA demethylation by PRDM14. Furthermore, DNA demethylation induced
+by PRDM14 takes place normally in the presence of aphidicolin, which is an
+inhibitor of G1/S progression. Together, our analysis provides mechanistic
+insight into DNA demethylation in naive pluripotent stem cells and developing
+PGCs.
+
+PMID: 24335252  [PubMed - indexed for MEDLINE]
+
+
+32. Dev Cell. 2013 Dec 9;27(5):516-29. doi: 10.1016/j.devcel.2013.11.001.
+
+A mesodermal factor, T, specifies mouse germ cell fate by directly activating
+germline determinants.
+
+Aramaki S(1), Hayashi K(2), Kurimoto K(1), Ohta H(1), Yabuta Y(1), Iwanari H(3), 
+Mochizuki Y(3), Hamakubo T(3), Kato Y(4), Shirahige K(4), Saitou M(5).
+
+Author information: 
+(1)Department of Anatomy and Cell Biology, Graduate School of Medicine, Kyoto
+University, Yoshida-Konoe-cho, Sakyo-ku, Kyoto 606-8501, Japan; Exploratory
+Research for Advanced Technology, Japan Science and Technology Agency,
+Yoshida-Konoe-cho, Sakyo-ku, Kyoto 606-8501, Japan. (2)Department of Anatomy and 
+Cell Biology, Graduate School of Medicine, Kyoto University, Yoshida-Konoe-cho,
+Sakyo-ku, Kyoto 606-8501, Japan; Precursory Research for Embryonic Science and
+Technology, Japan Science and Technology Agency, Yoshida-Konoe-cho, Sakyo-ku,
+Kyoto 606-8501, Japan; Center for iPS Cell Research and Application, Kyoto
+University, 53 Kawahara-cho, Shogoin Yoshida, Sakyo-ku, Kyoto 606-8507, Japan.
+(3)Department of Quantitative Biology and Medicine, Research Center for Advanced 
+Science and Technology, The University of Tokyo, Komaba 4-6-1, Meguro-ku, Tokyo
+153-8904, Japan. (4)Laboratory of Genome Structure and Function, Center for
+Epigenetic Disease, Institute of Molecular and Cellular Biosciences,
+The University of Tokyo, Yayoi 1-1-1, Bunkyo-ku, Tokyo 113-0032, Japan.
+(5)Department of Anatomy and Cell Biology, Graduate School of Medicine, Kyoto
+University, Yoshida-Konoe-cho, Sakyo-ku, Kyoto 606-8501, Japan; Exploratory
+Research for Advanced Technology, Japan Science and Technology Agency,
+Yoshida-Konoe-cho, Sakyo-ku, Kyoto 606-8501, Japan; Center for iPS Cell Research 
+and Application, Kyoto University, 53 Kawahara-cho, Shogoin Yoshida, Sakyo-ku,
+Kyoto 606-8507, Japan; Institute for Integrated Cell-Material Sciences, Kyoto
+University, Yoshida-Ushinomiya-cho, Sakyo-ku, Kyoto 606-8501, Japan. Electronic
+address: saitou@anat2.med.kyoto-u.ac.jp.
+
+Comment in
+    Dev Cell. 2013 Dec 9;27(5):485-7.
+
+Germ cells ensure reproduction and heredity. In mice, primordial germ cells
+(PGCs), the precursors for spermatozoa and oocytes, are induced in pluripotent
+epiblast by BMP4 and WNT3, yet the underlying mechanism remains unclear. Here,
+using an in vitro PGC specification system, we show that WNT3 induces many
+transcription factors associated with mesoderm in epiblast-like cells through
+ß-CATENIN. Among these, T (BRACHYURY), a classical and conserved mesodermal
+factor, was essential for robust activation of Blimp1 and Prdm14, two of the
+germline determinants. T, but not SMAD1 or TCF1, binds distinct regulatory
+elements of both Blimp1 and Prdm14 and directly upregulates these genes,
+delineating the downstream PGC program. Without BMP4, a program induced by WNT3
+prevents T from activating Blimp1 and Prdm14, demonstrating a permissive role of 
+BMP4 in PGC specification. These findings establish the key signaling mechanism
+for, and a fundamental role of a mesodermal factor in, mammalian PGC
+specification.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+PMID: 24331926  [PubMed - indexed for MEDLINE]
+
+
+33. Mol Cell. 2013 Dec 26;52(6):805-18. doi: 10.1016/j.molcel.2013.10.023. Epub 2013 
+Nov 21.
+
+Tsix RNA and the germline factor, PRDM14, link X reactivation and stem cell
+reprogramming.
+
+Payer B(1), Rosenberg M(1), Yamaji M(2), Yabuta Y(2), Koyanagi-Aoi M(3), Hayashi 
+K(4), Yamanaka S(5), Saitou M(6), Lee JT(7).
+
+Author information: 
+(1)Howard Hughes Medical Institute, Boston, MA 02114, USA; Department of
+Genetics, Harvard Medical School, Boston, MA 02114, USA; Department of Molecular 
+Biology, Massachusetts General Hospital, Boston, MA 02114, USA. (2)Department of 
+Anatomy and Cell Biology, Graduate School of Medicine, Kyoto University,
+Yoshida-Konoe-cho, Sakyo-ku, Kyoto 606-8501, Japan; JST, ERATO,
+Yoshida-Konoe-cho, Sakyo-ku, Kyoto 606-8501, Japan. (3)Center for iPS Cell
+Research and Application, Kyoto University, 53 Kawahara-cho, Shogoin Yoshida,
+Sakyo-ku, Kyoto 606-8507, Japan. (4)Department of Anatomy and Cell Biology,
+Graduate School of Medicine, Kyoto University, Yoshida-Konoe-cho, Sakyo-ku,
+Kyoto 606-8501, Japan; Center for iPS Cell Research and Application, Kyoto
+University, 53 Kawahara-cho, Shogoin Yoshida, Sakyo-ku, Kyoto 606-8507, Japan;
+JST, PRESTO, Yoshida-Konoe-cho, Sakyo-ku, Kyoto 606-8501, Japan. (5)Center for
+iPS Cell Research and Application, Kyoto University, 53 Kawahara-cho, Shogoin
+Yoshida, Sakyo-ku, Kyoto 606-8507, Japan; Gladstone Institute of Cardiovascular
+Disease, San Francisco, CA 94158, USA. (6)Department of Anatomy and Cell Biology,
+Graduate School of Medicine, Kyoto University, Yoshida-Konoe-cho, Sakyo-ku,
+Kyoto 606-8501, Japan; JST, ERATO, Yoshida-Konoe-cho, Sakyo-ku, Kyoto 606-8501,
+Japan; Center for iPS Cell Research and Application, Kyoto University, 53
+Kawahara-cho, Shogoin Yoshida, Sakyo-ku, Kyoto 606-8507, Japan; Institute for
+Integrated Cell-Material Sciences, Kyoto University, Yoshida-Ushinomiya-cho,
+Sakyo-ku, Kyoto 606-8501, Japan. (7)Howard Hughes Medical Institute, Boston, MA
+02114, USA; Department of Genetics, Harvard Medical School, Boston, MA 02114,
+USA; Department of Molecular Biology, Massachusetts General Hospital, Boston, MA 
+02114, USA. Electronic address: lee@molbio.mgh.harvard.edu.
+
+Transitions between pluripotent and differentiated states are marked by dramatic 
+epigenetic changes. Cellular differentiation is tightly linked to X chromosome
+inactivation (XCI), whereas reprogramming to induced pluripotent stem cells
+(iPSCs) is associated with X chromosome reactivation (XCR). XCR reverses the
+silent state of the inactive X, occurring in mouse blastocysts and germ cells. In
+spite of its importance, little is known about underlying mechanisms. Here, we
+examine the role of the long noncoding Tsix RNA and the germline factor, PRDM14. 
+In blastocysts, XCR is perturbed by mutation of either Tsix or Prdm14. In iPSCs, 
+XCR is disrupted only by PRDM14 deficiency, which also affects iPSC derivation
+and maintenance. We show that Tsix and PRDM14 directly link XCR to pluripotency: 
+first, PRDM14 represses Rnf12 by recruiting polycomb repressive complex 2;
+second, Tsix enables PRDM14 to bind Xist. Thus, our study provides functional and
+mechanistic links between cellular and X chromosome reprogramming.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+PMCID: PMC3950835
+PMID: 24268575  [PubMed - indexed for MEDLINE]
+
+
+34. Pediatr Blood Cancer. 2014 Apr;61(4):593-600. doi: 10.1002/pbc.24833. Epub 2013
+Nov 19.
+
+Genome-wide analysis of DNA copy number alterations and loss of heterozygosity in
+intracranial germ cell tumors.
+
+Terashima K(1), Yu A, Chow WY, Hsu WC, Chen P, Wong S, Hung YS, Suzuki T,
+Nishikawa R, Matsutani M, Nakamura H, Ng HK, Allen JC, Aldape KD, Su JM, Adesina 
+AM, Leung HC, Man TK, Lau CC.
+
+Author information: 
+(1)Department of Pediatrics, Texas Children's Cancer and Hematology Centers,
+Baylor College of Medicine, Houston, Texas.
+
+BACKGROUNDS: Intracranial germ cell tumors (GCTs) are rare and heterogeneous with
+very little is known about their pathogenesis and underlying genetic
+abnormalities.
+PROCEDURES: In order to identify candidate genes and pathways which are involved 
+in the pathogenesis of these tumors, we have profiled 62 intracranial GCTs for
+DNA copy number alterations (CNAs) and loss of heterozygosity (LOH) by using
+single nucleotide polymorphism (SNP) array and quantitative real time PCR (qPCR).
+RESULTS: Initially 27 cases of tumor tissues with matched blood samples were
+fully analyzed by SNP microarray and qPCR. Statistical analysis using the genomic
+identification of significant targets in cancer (GISTIC) tool identified 10
+regions of significant copy number gain and 11 regions of significant copy number
+loss. While overall pattern of genomic aberration was similar between germinoma
+and nongerminomatous germ cell tumors (NGGCTs), a few subtype-specific peak
+regions were identified. Analysis by SNP array and qPCR was replicated using an
+independent cohort of 35 cases.
+CONCLUSIONS: Frequent aberrations of CCND2 (12p13) and RB1 (13q14) suggest that
+Cyclin/CDK-RB-E2F pathway might play a critical role in the pathogenesis of
+intracranial GCTs. Frequent gain of PRDM14 (8q13) implies that transcriptional
+regulation of primordial germ cell specification might be an important factor in 
+the development of this tumor.
+
+© 2013 Wiley Periodicals, Inc.
+
+PMID: 24249158  [PubMed - indexed for MEDLINE]
+
+
+35. Cancer Lett. 2014 Mar 1;344(1):138-46. doi: 10.1016/j.canlet.2013.10.025. Epub
+2013 Oct 30.
+
+Genomic evolution from primary breast carcinoma to distant metastasis: Few copy
+number changes of breast cancer related genes.
+
+Moelans CB(1), van der Groep P(2), Hoefnagel LD(3), van de Vijver MJ(4),
+Wesseling P(5), Wesseling J(6), van der Wall E(7), van Diest PJ(3).
+
+Author information: 
+(1)Department of Pathology, University Medical Center Utrecht, Utrecht, The
+Netherlands. Electronic address: cmoelans@umcutrecht.nl. (2)Department of
+Pathology, University Medical Center Utrecht, Utrecht, The Netherlands; Division 
+of Internal Medicine and Dermatology, University Medical Center, Utrecht, The
+Netherlands. (3)Department of Pathology, University Medical Center Utrecht,
+Utrecht, The Netherlands. (4)Department of Pathology, Academic Medical Center,
+Amsterdam, The Netherlands. (5)Department of Pathology, Radboud University
+Medical Centre, Nijmegen, The Netherlands; Department of Pathology, VU University
+Medical Center, Amsterdam, The Netherlands; Department of Pathology, Canisius
+Wilhelmina Hospital, Nijmegen, The Netherlands. (6)Department of Pathology, The
+Netherlands Cancer Institute, Amsterdam, The Netherlands. (7)Division of Internal
+Medicine and Dermatology, University Medical Center, Utrecht, The Netherlands.
+
+Cancer initiation and progression is characterized by (epi)genetic aberrations.
+However, little is known about the changes that occur during breast cancer
+metastasis. In the present study, multiplex ligation-dependent probe
+amplification was used to compare copy numbers of 21 established oncogenes and
+tumor suppressor genes between 55 primary breast cancer samples and corresponding
+distant metastases. Distant breast cancer metastases generally showed similar
+gene copy number aberrations compared to their corresponding primary tumors. The 
+few genes that showed differences between primary tumor and metastasis (PRDM14,
+MED1, CCNE1, TRAF4, MTDH, CDH1) have been implicated in the development of
+therapy resistance.
+
+Copyright © 2013 Elsevier Ireland Ltd. All rights reserved.
+
+PMID: 24184827  [PubMed - indexed for MEDLINE]
+
+
+36. Cell Rep. 2013 Nov 14;5(3):687-701. doi: 10.1016/j.celrep.2013.09.044. Epub 2013 
+Oct 31.
+
+Single-cell profiling of epigenetic modifiers identifies PRDM14 as an inducer of 
+cell fate in the mammalian embryo.
+
+Burton A(1), Muller J, Tu S, Padilla-Longoria P, Guccione E, Torres-Padilla ME.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire, CNRS/INSERM
+U964, Université de Strasbourg, F-67404 Illkirch, CU de Strasbourg, France.
+
+Cell plasticity or potency is necessary for the formation of multiple cell types.
+The mechanisms underlying this plasticity are largely unknown. Preimplantation
+mouse embryos undergo drastic changes in cellular potency, starting with the
+totipotent zygote through to the formation of the pluripotent inner cell mass
+(ICM) and differentiated trophectoderm in the blastocyst. Here, we set out to
+identify and functionally characterize chromatin modifiers that define the
+transitions of potency and cell fate in the mouse embryo. Using a quantitative
+microfluidics approach in single cells, we show that developmental transitions
+are marked by distinctive combinatorial profiles of epigenetic modifiers.
+Pluripotent cells of the ICM are distinct from their differentiated trophectoderm
+counterparts. We show that PRDM14 is heterogeneously expressed in 4-cell-stage
+embryos. Forced expression of PRDM14 at the 2-cell stage leads to increased
+H3R26me2 and can induce a pluripotent ICM fate. Our results shed light on the
+epigenetic networks that govern cellular potency and identity in vivo.
+
+Copyright © 2013 The Authors. Published by Elsevier Inc. All rights reserved.
+
+PMID: 24183668  [PubMed - indexed for MEDLINE]
+
+
+37. Dis Model Mech. 2013 Nov;6(6):1494-506. doi: 10.1242/dmm.012575. Epub 2013 Sep 5.
+
+A mouse model for inducible overexpression of Prdm14 results in rapid-onset and
+highly penetrant T-cell acute lymphoblastic leukemia (T-ALL).
+
+Carofino BL(1), Ayanga B, Justice MJ.
+
+Author information: 
+(1)Interdepartmental Program in Translational Biology and Molecular Medicine,
+Baylor College of Medicine, One Baylor Plaza, Houston, TX 77030, USA.
+
+PRDM14 functions in embryonic stem cell (ESC) maintenance to promote the
+expression of pluripotency-associated genes while suppressing differentiation
+genes. Expression of PRDM14 is tightly regulated and typically limited to ESCs
+and primordial germ cells; however, aberrant expression is associated with tumor 
+initiation in a wide variety of human cancers, including breast cancer and
+leukemia. Here, we describe the generation of a Cre-recombinase-inducible mouse
+model for the spatial and temporal control of Prdm14 misexpression [ROSA26
+floxed-stop Prdm14 (R26PR)]. When R26PR is mated to either of two Cre lines,
+Mx1-cre or MMTV-cre, mice develop early-onset T-cell acute lymphoblastic leukemia
+(T-ALL) with median overall survival of 41 and 64 days for R26PR;Mx1-cre and
+R26PR;MMTV-cre, respectively. T-ALL is characterized by the accumulation of
+immature single-positive CD8 cells and their widespread infiltration. Leukemia is
+preceded by a dramatic expansion of cells resembling hematopoietic stem cells and
+lymphoid-committed progenitors prior to disease onset, accompanied by a blockage 
+in B-cell differentiation at the early pro-B stage. Rapid-onset PRDM14-induced
+T-ALL requires factors that are present in stem and progenitor cells:
+R26PR;dLck-cre animals, which express Prdm14 starting at the double-positive
+stage of thymocyte development, do not develop disease. PRDM14-induced leukemic
+cells contain high levels of activated NOTCH1 and downstream NOTCH1 targets,
+including MYC and HES1, and are sensitive to pharmacological inhibition of NOTCH1
+with the <U+03B3>-secretase inhibitor DAPT. Greater than 50% of human T-ALLs harbor
+activating mutations in NOTCH1; thus, our model carries clinically relevant
+molecular aberrations. The penetrance, short latency and involvement of the
+NOTCH1 pathway will make this hematopoietic R26PR mouse model ideal for future
+studies on disease initiation, relapse and novel therapeutic drug combinations.
+Furthermore, breeding R26PR to additional Cre lines will allow for the continued 
+development of novel cancer models.
+
+PMCID: PMC3820272
+PMID: 24046360  [PubMed - indexed for MEDLINE]
+
+
+38. Nat Cell Biol. 2013 Oct;15(10):1141-52. doi: 10.1038/ncb2839. Epub 2013 Sep 8.
+
+SON connects the splicing-regulatory network with pluripotency in human embryonic
+stem cells.
+
+Lu X(1), Göke J, Sachs F, Jacques PÉ, Liang H, Feng B, Bourque G, Bubulya PA, Ng 
+HH.
+
+Author information: 
+(1)1] Gene Regulation Laboratory, Genome Institute of Singapore, 138672,
+Singapore [2] Department of Biological Sciences, National University of
+Singapore, 117543, Singapore [3].
+
+Comment in
+    EMBO J. 2013 Nov 13;32(22):2903-4.
+
+Human embryonic stem cells (hESCs) harbour the ability to undergo
+lineage-specific differentiation into clinically relevant cell types.
+Transcription factors and epigenetic modifiers are known to play important roles 
+in the maintenance of pluripotency of hESCs. However, little is known about
+regulation of pluripotency through splicing. In this study, we identify the
+spliceosome-associated factor SON as a factor essential for the maintenance of
+hESCs. Depletion of SON in hESCs results in the loss of pluripotency and cell
+death. Using genome-wide RNA profiling, we identified transcripts that are
+regulated by SON. Importantly, we confirmed that SON regulates the proper
+splicing of transcripts encoding for pluripotency regulators such as OCT4,
+PRDM14, E4F1 and MED24. Furthermore, we show that SON is bound to these
+transcripts in vivo. In summary, we connect a splicing-regulatory network for
+accurate transcript production to the maintenance of pluripotency and
+self-renewal of hESCs.
+
+PMCID: PMC4097007
+PMID: 24013217  [PubMed - indexed for MEDLINE]
+
+
+39. Nature. 2013 Sep 12;501(7466):222-6. doi: 10.1038/nature12417. Epub 2013 Aug 4.
+
+Induction of mouse germ-cell fate by transcription factors in vitro.
+
+Nakaki F(1), Hayashi K, Ohta H, Kurimoto K, Yabuta Y, Saitou M.
+
+Author information: 
+(1)Department of Anatomy and Cell Biology, Graduate School of Medicine, Kyoto
+University, Yoshida-Konoe-cho, Sakyo-ku, Kyoto 606-8501, Japan.
+
+The germ-cell lineage ensures the continuity of life through the generation of
+male and female gametes, which unite to form a totipotent zygote. We have
+previously demonstrated that, by using cytokines, embryonic stem cells and
+induced pluripotent stem cells can be induced into epiblast-like cells (EpiLCs)
+and then into primordial germ cell (PGC)-like cells with the capacity for both
+spermatogenesis and oogenesis, creating an opportunity for understanding and
+regulating mammalian germ-cell development in both sexes in vitro. Here we show
+that, without cytokines, simultaneous overexpression of three transcription
+factors, Blimp1 (also known as Prdm1), Prdm14 and Tfap2c (also known as AP2<U+03B3>),
+directs EpiLCs, but not embryonic stem cells, swiftly and efficiently into a PGC 
+state. Notably, Prdm14 alone, but not Blimp1 or Tfap2c, suffices for the
+induction of the PGC state in EpiLCs. The transcription-factor-induced PGC state,
+irrespective of the transcription factors used, reconstitutes key transcriptome
+and epigenetic reprogramming in PGCs, but bypasses a mesodermal program that
+accompanies PGC or PGC-like-cell specification by cytokines including bone
+morphogenetic protein 4. Notably, the transcription-factor-induced PGC-like cells
+contribute to spermatogenesis and fertile offspring. Our findings provide a new
+insight into the transcriptional logic for PGC specification, and create a
+foundation for the transcription-factor-based reconstitution and regulation of
+mammalian gametogenesis.
+
+PMID: 23913270  [PubMed - indexed for MEDLINE]
+
+
+40. Nat Cell Biol. 2013 Aug;15(8):905-15. doi: 10.1038/ncb2798. Epub 2013 Jul 14.
+
+A tripartite transcription factor network regulates primordial germ cell
+specification in mice.
+
+Magnúsdóttir E(1), Dietmann S, Murakami K, Günesdogan U, Tang F, Bao S, Diamanti 
+E, Lao K, Gottgens B, Azim Surani M.
+
+Author information: 
+(1)Wellcome Trust/Cancer Research UK Gurdon Institute, University of Cambridge,
+Tennis Court Road, Cambridge CB2 1QN, UK.
+
+Transitions in cell states are controlled by combinatorial actions of
+transcription factors. BLIMP1, the key regulator of primordial germ cell (PGC)
+specification, apparently acts together with PRDM14 and AP2<U+03B3>. To investigate
+their individual and combinatorial functions, we first sought an in vitro system 
+for transcriptional readouts and chromatin immunoprecipitation sequencing
+analysis. We then integrated this data with information from single-cell
+transcriptome analysis of normal and mutant PGCs. Here we show that BLIMP1 binds 
+directly to repress somatic and cell proliferation genes. It also directly
+induces AP2<U+03B3>, which together with PRDM14 initiates the PGC-specific fate. We
+determined the occupancy of critical genes by AP2<U+03B3>-which, when computed
+altogether with those of BLIMP1 and PRDM14 (both individually and cooperatively),
+reveals a tripartite mutually interdependent transcriptional network for PGCs. We
+also demonstrate that, in principle, BLIMP1, AP2<U+03B3> and PRDM14 are sufficient for
+PGC specification, and the unprecedented resetting of the epigenome towards a
+basal state.
+
+PMCID: PMC3796875
+PMID: 23851488  [PubMed - indexed for MEDLINE]
+
+
+41. Cell Stem Cell. 2013 Sep 5;13(3):351-9. doi: 10.1016/j.stem.2013.06.004. Epub
+2013 Jul 11.
+
+FGF signaling inhibition in ESCs drives rapid genome-wide demethylation to the
+epigenetic ground state of pluripotency.
+
+Ficz G(1), Hore TA, Santos F, Lee HJ, Dean W, Arand J, Krueger F, Oxley D, Paul
+YL, Walter J, Cook SJ, Andrews S, Branco MR, Reik W.
+
+Author information: 
+(1)Epigenetics Programme, The Babraham Institute, Cambridge, CB22 3AT, UK.
+gabriella.ficz@babraham.ac.uk
+
+Genome-wide erasure of DNA methylation takes place in primordial germ cells
+(PGCs) and early embryos and is linked with pluripotency. Inhibition of Erk1/2
+and Gsk3ß signaling in mouse embryonic stem cells (ESCs) by small-molecule
+inhibitors (called 2i) has recently been shown to induce hypomethylation. We show
+by whole-genome bisulphite sequencing that 2i induces rapid and genome-wide
+demethylation on a scale and pattern similar to that in migratory PGCs and early 
+embryos. Major satellites, intracisternal A particles (IAPs), and imprinted genes
+remain relatively resistant to erasure. Demethylation involves oxidation of
+5-methylcytosine (5mC) to 5-hydroxymethylcytosine (5hmC), impaired maintenance of
+5mC and 5hmC, and repression of the de novo methyltransferases (Dnmt3a and
+Dnmt3b) and Dnmt3L. We identify a Prdm14- and Nanog-binding cis-acting regulatory
+region in Dnmt3b that is highly responsive to signaling. These insights provide a
+framework for understanding how signaling pathways regulate reprogramming to an
+epigenetic ground state of pluripotency.
+
+Copyright © 2013 The Authors. Published by Elsevier Inc. All rights reserved.
+
+PMCID: PMC3765959
+PMID: 23850245  [PubMed - indexed for MEDLINE]
+
+
+42. EMBO Rep. 2013 Jul;14(7):583-4. doi: 10.1038/embor.2013.81. Epub 2013 Jun 14.
+
+Rejuvenating tithonus.
+
+Loh KM(1), Lim B.
+
+Author information: 
+(1)Department of Developmental Biology, Stanford University School of Medicine,
+Stanford, California, USA.
+
+PMCID: PMC3701247
+PMID: 23764924  [PubMed - indexed for MEDLINE]
+
+
+43. BMC Med. 2013 Jun 11;11:146. doi: 10.1186/1741-7015-11-146.
+
+Phenotype, donor age and gender affect function of human bone marrow-derived
+mesenchymal stromal cells.
+
+Siegel G(1), Kluba T, Hermanutz-Klein U, Bieback K, Northoff H, Schäfer R.
+
+Author information: 
+(1)Institute of Clinical and Experimental Transfusion Medicine (IKET), University
+Hospital Tübingen, Otfried-Müller-Strasse 4/1, Tübingen, D-72076, Germany.
+
+BACKGROUND: Mesenchymal stromal cells (MSCs) are attractive for cell-based
+therapies ranging from regenerative medicine and tissue engineering to
+immunomodulation. However, clinical efficacy is variable and it is unclear how
+the phenotypes defining bone marrow (BM)-derived MSCs as well as donor
+characteristics affect their functional properties.
+METHODS: BM-MSCs were isolated from 53 (25 female, 28 male; age: 13 to 80 years) 
+donors and analyzed by: (1) phenotype using flow cytometry and cell size
+measurement; (2) in vitro growth kinetics using population doubling time; (3)
+colony formation capacity and telomerase activity; and (4) function by in vitro
+differentiation capacity, suppression of T cell proliferation, cytokines and
+trophic factors secretion, and hormone and growth factor receptor expression.
+Additionally, expression of Oct4, Nanog, Prdm14 and SOX2 mRNA was compared to
+pluripotent stem cells.
+RESULTS: BM-MSCs from younger donors showed increased expression of MCAM, VCAM-1,
+ALCAM, PDGFRß, PDL-1, Thy1 and CD71, and led to lower IL-6 production when
+co-cultured with activated T cells. Female BM-MSCs showed increased expression of
+IFN-<U+03B3>R1 and IL-6ß, and were more potent in T cell proliferation suppression.
+High-clonogenic BM-MSCs were smaller, divided more rapidly and were more frequent
+in BM-MSC preparations from younger female donors. CD10, ß1integrin, HCAM, CD71, 
+VCAM-1, IFN-<U+03B3>R1, MCAM, ALCAM, LNGFR and HLA ABC were correlated to BM-MSC
+preparations with high clonogenic potential and expression of IFN-<U+03B3>R1, MCAM and
+HLA ABC was associated with rapid growth of BM-MSCs. The mesodermal
+differentiation capacity of BM-MSCs was unaffected by donor age or gender but was
+affected by phenotype (CD10, IFN-<U+03B3>R1, GD2). BM-MSCs from female and male donors
+expressed androgen receptor and FGFR3, and secreted VEGF-A, HGF, LIF,
+Angiopoietin-1, basic fibroblast growth factor (bFGF) and NGFB. HGF secretion
+correlated negatively to the expression of CD71, CD140b and Galectin 1. The
+expression of Oct4, Nanog and Prdm14 mRNA in BM-MSCs was much lower compared to
+pluripotent stem cells and was not related to donor age or gender. Prdm14 mRNA
+expression correlated positively to the clonogenic potential of BM-MSCs.
+CONCLUSIONS: By identifying donor-related effects and assigning phenotypes of
+BM-MSC preparations to functional properties, we provide useful tools for assay
+development and production for clinical applications of BM-MSC preparations.
+
+PMCID: PMC3694028
+PMID: 23758701  [PubMed - indexed for MEDLINE]
+
+
+44. Med Oncol. 2013;30(3):605. doi: 10.1007/s12032-013-0605-9. Epub 2013 May 21.
+
+High expression of PRDM14 correlates with cell differentiation and is a novel
+prognostic marker in resected non-small cell lung cancer.
+
+Zhang T(1), Meng L, Dong W, Shen H, Zhang S, Liu Q, Du J.
+
+Author information: 
+(1)Institute of Oncology, Provincial Hospital Affiliated to Shandong University, 
+Shandong University, 324 Jingwu Road, Jinan 250021, People's Republic of China.
+
+PR (PRDI-BF1 and RIZ) domain containing proteins (PRDM) have been indicated to
+play important roles in several human cancers. The objectives of this study were 
+to determine the frequency and prognostic significance of PRDM1 and PRDM14
+expression in a cohort of surgically resected non-small cell lung cancer (NSCLC) 
+patients. Immunohistochemistry and Western blotting was used to detect the
+expression status of PRDM1 in primary tumors and PRDM14 for both primary lung
+cancers and matched lymph node metastases. Univariate and multivariate analysis
+were performed to determine the association between PRDM expression and
+prognosis. PRDM1 expression was observed in all NSCLC patients' tumor samples.
+PRDM14 was found to be increased expression in 35.65 % cases (46/129) for primary
+tumors and 39.68 % cases (25/63) for paired metastatic lymph nodes. Increased
+expression of PRDM14 correlated with differentiation of tumor cells significantly
+(P = 0.008). Western blotting analysis verified that PRDM14 associated with cell 
+differentiation in NSCLC. The overall survival rates of patients with high PRDM14
+expression and low PRDM14 expression were 41.30 and 65.06 %, respectively (hazard
+ratio: 3.051, 95 % CI: 1.752, 5.312, P < 0.0001). The progression-free survival
+rates were 34.78 % for patients in the high expression group and 59.03 % for
+patients in the low OLC1 expression group (hazard ratio: 2.775, 95 % CI: 1.648,
+4.675, P < 0.0001). Thus, our study showed that increased expression of PRDM14
+correlated with cell differentiation of NSCLC cells. PRDM14 was a potential
+biomarker for predicting unfavorable prognosis in NSCLC.
+
+PMID: 23690269  [PubMed - indexed for MEDLINE]
+
+
+45. J Pathol. 2013 Sep;231(1):53-62. doi: 10.1002/path.4210. Epub 2013 Jul 8.
+
+Methylation-specific digital karyotyping of HPV16E6E7-expressing human
+keratinocytes identifies novel methylation events in cervical carcinogenesis.
+
+Steenbergen RD(1), Ongenaert M, Snellenberg S, Trooskens G, van der Meide WF,
+Pandey D, Bloushtain-Qimron N, Polyak K, Meijer CJ, Snijders PJ, Van Criekinge W.
+
+Author information: 
+(1)Department of Pathology, VU University Medical Centre, Amsterdam, The
+Netherlands. r.steenbergen@vumc.nl
+
+Transformation of epithelial cells by high-risk human papillomavirus (hrHPV)
+types can lead to anogenital carcinomas, particularly cervical cancer, and
+oropharyngeal cancers. This process is associated with DNA methylation
+alterations, often affecting tumour suppressor gene expression. This study aimed 
+to comprehensively unravel genome-wide DNA methylation events linked to a
+transforming hrHPV-infection, which is driven by deregulated expression of the
+viral oncogenes E6 and E7 in dividing cells. Primary human keratinocytes
+transduced with HPV16E6E7 and their untransduced counterparts were subjected to
+methylation-specific digital karyotyping (MSDK) to screen for genome-wide
+DNA-methylation changes at different stages of HPV-induced transformation.
+Integration of the obtained methylation profiles with genome-wide gene expression
+patterns of cervical carcinomas identified 34 genes with increased methylation in
+HPV-transformed cells and reduced expression in cervical carcinomas. For 12 genes
+(CLIC3, CREB3L1, FAM19A4, LFNG, LHX1, MRC2, NKX2-8, NPTX-1, PHACTR3, PRDM14, SOST
+and TNFSF13) specific methylation in HPV-containing cell lines was confirmed by
+semi-quantitative methylation-specific PCR. Subsequent analysis of FAM19A4, LHX1,
+NKX2-8, NPTX-1, PHACTR3 and PRDM14 in cervical tissue specimens showed increasing
+methylation levels for all genes with disease progression. All six genes were
+frequently methylated in cervical carcinomas, with highest frequencies (up to
+100%) seen for FAM19A4, PHACTR3 and PRDM14. Analysis of hrHPV-positive cervical
+scrapes revealed significantly increased methylation levels of the latter three
+genes in women with high-grade cervical disease compared to controls. In
+conclusion, MSDK analysis of HPV16-transduced keratinocytes at different stages
+of HPV-induced transformation resulted in the identification of novel DNA
+methylation events, involving FAM19A4, LHX1, NKX2-8, PHACTR3 and PRDM14 genes in 
+cervical carcinogenesis. These genes may provide promising triage markers to
+assess the presence of (pre)cancerous cervical lesions in hrHPV-positive women.
+
+Copyright © 2013 Pathological Society of Great Britain and Ireland. Published by 
+John Wiley & Sons, Ltd.
+
+PMID: 23674368  [PubMed - indexed for MEDLINE]
+
+
+46. EMBO Rep. 2013 Jul;14(7):629-37. doi: 10.1038/embor.2013.67. Epub 2013 May 14.
+
+Prdm14 promotes germline fate and naive pluripotency by repressing FGF signalling
+and DNA methylation.
+
+Grabole N(1), Tischler J, Hackett JA, Kim S, Tang F, Leitch HG, Magnúsdóttir E,
+Surani MA.
+
+Author information: 
+(1)Wellcome Trust/Cancer Research UK Gurdon Institute, Department of Physiology, 
+Development and Neuroscience, University of Cambridge, Tennis Court Road,
+Cambridge CB2 1QN, UK.
+
+Primordial germ cells (PGCs) and somatic cells originate from postimplantation
+epiblast cells in mice. As pluripotency is lost upon differentiation of somatic
+lineages, a naive epigenome and the pluripotency network are re-established
+during PGC development. Here we demonstrate that Prdm14 contributes not only to
+PGC specification, but also to naive pluripotency in embryonic stem (ES) cells by
+repressing the DNA methylation machinery and fibroblast growth factor (FGF)
+signalling. This indicates a critical role for Prdm14 in programming PGCs and
+promoting pluripotency in ES cells.
+
+PMCID: PMC3701237
+PMID: 23670199  [PubMed - indexed for MEDLINE]
+
+
+47. Nat Genet. 2013 Jun;45(6):686-9. doi: 10.1038/ng.2635. Epub 2013 May 12.
+
+Identification of nine new susceptibility loci for testicular cancer, including
+variants near DAZL and PRDM14.
+
+Ruark E(1), Seal S, McDonald H, Zhang F, Elliot A, Lau K, Perdeaux E, Rapley E,
+Eeles R, Peto J, Kote-Jarai Z, Muir K, Nsengimana J, Shipley J; UK Testicular
+Cancer Collaboration (UKTCC), Bishop DT, Stratton MR, Easton DF, Huddart RA,
+Rahman N, Turnbull C.
+
+Author information: 
+(1)Division of Genetics and Epidemiology, Institute of Cancer Research, Sutton,
+UK.
+
+Comment in
+    Nat Rev Urol. 2013 Jul;10(7):370.
+
+Testicular germ cell tumor (TGCT) is the most common cancer in young men and is
+notable for its high familial risks. So far, six loci associated with TGCT have
+been reported. From genome-wide association study (GWAS) analysis of 307,291 SNPs
+in 986 TGCT cases and 4,946 controls, we selected for follow-up 694 SNPs, which
+we genotyped in a further 1,064 TGCT cases and 10,082 controls from the UK. We
+identified SNPs at nine new loci (1q22, 1q24.1, 3p24.3, 4q24, 5q31.1, 8q13.3,
+16q12.1, 17q22 and 21q22.3) showing association with TGCT (P < 5 × 10(-8)), which
+together account for an additional 4-6% of the familial risk of TGCT. The loci
+include genes plausibly related to TGCT development. PRDM14, at 8q13.3, is
+essential for early germ cell specification, and DAZL, at 3p24.3, is required for
+the regulation of germ cell development. Furthermore, PITX1, at 5q31.1, regulates
+TERT expression and is the third TGCT-associated locus implicated in telomerase
+regulation.
+
+PMCID: PMC3680037
+PMID: 23666240  [PubMed - indexed for MEDLINE]
+
+
+48. J Ovarian Res. 2013 Apr 9;6:24. doi: 10.1186/1757-2215-6-24. eCollection 2013.
+
+Small SSEA-4-positive cells from human ovarian cell cultures: related to
+embryonic stem cells and germinal lineage?
+
+Virant-Klun I(1), Stimpfel M(1), Cvjeticanin B(1), Vrtacnik-Bokal E(1), Skutella 
+T(2).
+
+Author information: 
+(1)Department of Obstetrics and Gynecology, University Medical Centre Ljubljana, 
+Slajmerjeva 3, Ljubljana, 1000, Republic of Slovenia. (2)Institute for Anatomy
+and Cell Biology, Medical Faculty, University of Heidelberg, Im Neuenheimer Feld 
+307, Heidelberg, 69120, Germany.
+
+BACKGROUND: It has already been found that very small embyronic-like stem cells
+(VSELs) are present in adult human tissues and organs. The aim of this study was 
+to find if there exists any similar population of cells in cell cultures of
+reproductive tissues and embryonic stem cells, and if these cells have any
+relation to pluripotency and germinal lineage.
+METHODS AND RESULTS: Here we report that a population of small SSEA-4-positive
+cells with diameters of up to 4 µm was isolated by fluorescence-activated cell
+sorting (FACS) from the human ovarian cell cultures after enzymatic degradation
+of adult cortex tissues. These small cells - putative ovarian stem cells - were
+also observed during cell culturing of up to 6 months and more. In general, small
+putative ovarian stem cells, isolated by FACS, showed a relatively low gene
+expression profile when compared to human embryonic stem cells (hESCs) and human 
+adult fibroblasts; this may reflect the quiescent state of these cells. In spite 
+of that, small putative ovarian stem cells expressed several genes related to
+primordial germ cells (PGCs), pluripotency and germinal lineage, including VASA. 
+The PGC-related gene PRDM1 was strongly expressed in small putative ovarian stem 
+cells; in both hESCs and fibroblasts it was significantly down-regulated. In
+addition, putative ovarian stem cells expressed other PGC-related genes, such as 
+PRDM14 and DPPA3. Most of the pluripotency and germinal lineage-related genes
+were up-regulated in hESCs (except VASA). When compared to fibroblasts, there
+were several pluripotency-related genes, which were up-regulated in small
+putative ovarian stem cells. Similar populations of small cells were also
+isolated by FACS from human testicular and hESC cultures.
+CONCLUSIONS: Our results confirm the potential embryonic-like character of small 
+putative stem cells isolated from human adult ovaries and their possible relation
+to germinal lineage.
+
+PMCID: PMC3660272
+PMID: 23570331  [PubMed]
+
+
+49. Cancers (Basel). 2012 Dec 1;4(4):1050-1066. Epub 2012 Oct 18.
+
+Mouse Lymphoblastic Leukemias Induced by Aberrant Prdm14 Expression Demonstrate
+Widespread Copy Number Alterations Also Found in Human ALL.
+
+Simko SJ(1), Voicu H, Carofino BL, Justice MJ.
+
+Author information: 
+(1)Baylor College of Medicine, Department of Pediatrics, Texas Children's Cancer 
+and Hematology Centers, One Baylor Plaza, Houston, TX 77030, USA.
+
+Aberrant expression and activation of oncogenes in somatic cells has been
+associated with cancer initiation. Required for reacquisition of pluripotency in 
+the developing germ cell, PRDM14 initiates lymphoblastic leukemia when
+misexpressed in murine bone marrow. Activation of pluripotency in somatic cells
+can lead to aneuploidy and copy number alterations during iPS cell generation,
+and we hypothesized that PRDM14-induced lymphoblastic leukemias would demonstrate
+significant chromosomal damage. High-resolution oligo array comparative genomic
+hybridization demonstrated infrequent aneuploidy but frequent amplification and
+deletion, with amplifications occurring in a 5:1 ratio with deletions. Many
+deletions (i.e., Cdkn2a, Ebf1, Pax5, Ikzf1) involved B-cell development genes and
+tumor suppressor genes, recapitulating deletions occurring in human leukemia.
+Pathways opposing senescence were frequently deactivated via Cdkn2a deletion or
+Tbx2 amplification, with corollary gene expression. Additionally, gene expression
+studies of abnormal pre-leukemic B-precursors showed downregulation of genes
+involved in chromosomal stability (i.e., Xrcc6) and failure to upregulate DNA
+repair pathways. We propose a model of leukemogenesis, triggered by pluripotency 
+genes like Prdm14, which involves ongoing DNA damage and failure to activate
+non-homologous end-joining secondary to aberrant gene expression.
+
+PMCID: PMC3593237
+PMID: 23487523  [PubMed]
+
+
+50. Mol Reprod Dev. 2013 Aug;80(8):590-609. doi: 10.1002/mrd.22151. Epub 2013 Feb 28.
+
+Lessons for inductive germline determination.
+
+Seervai RN(1), Wessel GM.
+
+Author information: 
+(1)Department of Molecular Biology, Cell Biology and Biochemistry, Brown
+University, Providence, Rhode Island, 02192, USA.
+
+Formation of the germline in an embryo marks a fresh round of reproductive
+potential, yet the developmental stage and location within the embryo where the
+primordial germ cells (PGCs) form differs wildly among species. In most animals, 
+the germline is formed either by an inherited mechanism, in which maternal
+provisions within the oocyte drive localized germ-cell fate once acquired in the 
+embryo, or an inductive mechanism that involves signaling between cells that
+directs germ-cell fate. The inherited mechanism has been widely studied in model 
+organisms such as Drosophila melanogaster, Caenorhabditis elegans, Xenopus
+laevis, and Danio rerio. Given the rapid generation time and the effective
+adaptation for laboratory research of these organisms, it is not coincidental
+that research on these organisms has led the field in elucidating mechanisms for 
+germline specification. The inductive mechanism, however, is less well understood
+and is studied primarily in the mouse (Mus musculus). In this review, we compare 
+and contrast these two fundamental mechanisms for germline determination,
+beginning with the key molecular determinants that play a role in the formation
+of germ cells across all animal taxa. We next explore the current understanding
+of the inductive mechanism of germ-cell determination in mice, and evaluate the
+hypotheses for selective pressures on these contrasting mechanisms. We then
+discuss the hypothesis that the transition between these determination
+mechanisms, which has happened many times in phylogeny, is more of a continuum
+than a binary change. Finally, we propose an analogy between germline
+determination and sex determination in vertebrates-two of the milestones of
+reproduction and development-in which animals use contrasting strategies to
+activate similar pathways.
+
+© 2013 Wiley Periodicals, Inc.
+
+PMCID: PMC4366005
+PMID: 23450642  [PubMed - indexed for MEDLINE]
+
+
+51. Nat Struct Mol Biol. 2013 Mar;20(3):311-6. doi: 10.1038/nsmb.2510. Epub 2013 Feb 
+17.
+
+Naive pluripotency is associated with global DNA hypomethylation.
+
+Leitch HG(1), McEwen KR, Turp A, Encheva V, Carroll T, Grabole N, Mansfield W,
+Nashun B, Knezovich JG, Smith A, Surani MA, Hajkova P.
+
+Author information: 
+(1)Wellcome Trust/Medical Research Council Stem Cell Institute, University of
+Cambridge, Cambridge, UK.
+
+Comment in
+    Nat Struct Mol Biol. 2013 Mar;20(3):249-51.
+
+Naive pluripotent embryonic stem cells (ESCs) and embryonic germ cells (EGCs) are
+derived from the preimplantation epiblast and primordial germ cells (PGCs),
+respectively. We investigated whether differences exist between ESCs and EGCs, in
+view of their distinct developmental origins. PGCs are programmed to undergo
+global DNA demethylation; however, we find that EGCs and ESCs exhibit equivalent 
+global DNA methylation levels. Inhibition of MEK and Gsk3b by 2i conditions leads
+to pronounced reduction in DNA methylation in both cell types. This is driven by 
+Prdm14 and is associated with downregulation of Dnmt3a and Dnmt3b. However,
+genomic imprints are maintained in 2i, and we report derivation of EGCs with
+intact genomic imprints. Collectively, our findings establish that culture in 2i 
+instills a naive pluripotent state with a distinctive epigenetic configuration
+that parallels molecular features observed in both the preimplantation epiblast
+and nascent PGCs.
+
+PMCID: PMC3591483
+PMID: 23416945  [PubMed - indexed for MEDLINE]
+
+
+52. Cell Stem Cell. 2013 Mar 7;12(3):368-82. doi: 10.1016/j.stem.2012.12.012. Epub
+2013 Jan 17.
+
+PRDM14 ensures naive pluripotency through dual regulation of signaling and
+epigenetic pathways in mouse embryonic stem cells.
+
+Yamaji M(1), Ueda J, Hayashi K, Ohta H, Yabuta Y, Kurimoto K, Nakato R, Yamada Y,
+Shirahige K, Saitou M.
+
+Author information: 
+(1)Department of Anatomy and Cell Biology, Graduate School of Medicine, Kyoto
+University, Yoshida-Konoe-cho, Sakyo-ku, Kyoto 606-8501, Japan.
+
+In serum, mouse embryonic stem cells (mESCs) fluctuate between a naive inner cell
+mass (ICM)-like state and a primed epiblast-like state, but when cultured with
+inhibitors of the mitogen-activated protein kinase (MAPK) and glycogen synthase
+kinase 3 pathways (2i), they are harnessed exclusively in a distinct naive
+pluropotent state, the ground state, that more faithfully recapitulates the ICM. 
+Understanding the mechanism underlying this naive pluripotent state will be
+critical for realizing the full potential of ESCs. We show here that PRDM14, a
+PR-domain-containing transcriptional regulator, ensures naive pluripotency
+through a dual mechanism: antagonizing activation of the fibroblast growth factor
+receptor (FGFR) signaling by the core pluripotency transcriptional circuitry, and
+repressing expression of de novo DNA methyltransferases that modify the epigenome
+to a primed epiblast-like state. PRDM14 exerts these effects by recruiting
+polycomb repressive complex 2 (PRC2) specifically to key targets and repressing
+their expression.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+PMID: 23333148  [PubMed - indexed for MEDLINE]
+
+
+53. Stem Cells. 2013 Apr;31(4):682-92. doi: 10.1002/stem.1307.
+
+A PRC2-dependent repressive role of PRDM14 in human embryonic stem cells and
+induced pluripotent stem cell reprogramming.
+
+Chan YS(1), Göke J, Lu X, Venkatesan N, Feng B, Su IH, Ng HH.
+
+Author information: 
+(1)Gene Regulation Laboratory, Genome Institute of Singapore, Singapore,
+Singapore.
+
+PRDM14 is an important determinant of the human embryonic stem cell (ESC)
+identity and works in concert with the core ESC regulators to activate
+pluripotency-associated genes. PRDM14 has been previously reported to exhibit
+repressive activity in mouse ESCs and primordial germ cells; and while PRDM14 has
+been implicated to suppress differentiation genes in human ESCs, the exact
+mechanism of this repressive activity remains unknown. In this study, we provide 
+evidence that PRDM14 is a direct repressor of developmental genes in human ESCs. 
+PRDM14 binds to silenced genes in human ESCs and its global binding profile is
+enriched for the repressive trimethylation of histone H3 lysine 27 (H3K27me3)
+modification. Further investigation reveals that PRDM14 interacts directly with
+the chromatin regulator polycomb repressive complex 2 (PRC2) and PRC2 binding is 
+detected at PRDM14-bound loci in human ESCs. Depletion of PRDM14 reduces PRC2
+binding at these loci and the concomitant reduction of H3K27me3 modification.
+Using reporter assays, we demonstrate that gene loci bound by PRDM14 exhibit
+repressive activity that is dependent on both PRDM14 and PRC2. In reprogramming
+human fibroblasts into induced pluripotent stem cells (iPSCs), ectopically
+expressed PRDM14 can repress these developmental genes in fibroblasts. In
+addition, we show that PRDM14 recruits PRC2 to repress a key mesenchymal gene
+ZEB1, which enhances mesenchymal-to-epithelial transition in the initiation event
+of iPSC reprogramming. In summary, our study reveals a repressive role of PRDM14 
+in the maintenance and induction of pluripotency and identifies PRDM14 as a new
+regulator of PRC2.
+
+Copyright © 2013 AlphaMed Press.
+
+PMID: 23280602  [PubMed - indexed for MEDLINE]
+
+
+54. Development. 2012 Dec;139(24):4591-600. doi: 10.1242/dev.083055. Epub 2012 Nov 7.
+
+Prdm14 acts upstream of islet2 transcription to regulate axon growth of primary
+motoneurons in zebrafish.
+
+Liu C(1), Ma W, Su W, Zhang J.
+
+Author information: 
+(1)State Key Laboratory of Molecular Developmental Biology, Institute of Genetics
+and Developmental Biology, Chinese Academy of Sciences, Beijing 100101, China.
+
+The precise formation of three-dimensional motor circuits is essential for
+movement control. Within these circuits, motoneurons (MNs) are specified from
+spinal progenitors by dorsoventral signals and distinct transcriptional programs.
+Different MN subpopulations have stereotypic cell body positions and show
+specific spatial axon trajectories. Our knowledge of MN axon outgrowth remains
+incomplete. Here, we report a zebrafish gene-trap mutant, short lightning (slg), 
+in which prdm14 expression is disrupted. slg mutant embryos show shortened axons 
+in caudal primary (CaP) MNs resulting in defective embryonic movement. Both the
+CaP neuronal defects and behavior abnormality of the mutants can be phenocopied
+by injection of a prdm14 morpholino into wild-type embryos. By removing a copy of
+the inserted transposon from homozygous mutants, prdm14 expression and normal
+embryonic movement were restored, confirming that loss of prdm14 expression
+accounts for the observed defects. Mechanistically, Prdm14 protein binds to the
+promoter region of islet2, a known transcription factor required for CaP
+development. Notably, disruption of islet2 function caused similar CaP axon
+outgrowth defects as observed in slg mutant embryos. Furthermore, overexpression 
+of islet2 in slg mutant embryos rescued the shortened CaP axon phenotypes.
+Together, these data reveal that prdm14 regulates CaP axon outgrowth through
+activation of islet2 expression.
+
+PMID: 23136389  [PubMed - indexed for MEDLINE]
+
+
+55. Cell Stem Cell. 2012 Jul 6;11(1):110-7. doi: 10.1016/j.stem.2012.02.023.
+
+The germ cell determinant Blimp1 is not required for derivation of pluripotent
+stem cells.
+
+Bao S(1), Leitch HG, Gillich A, Nichols J, Tang F, Kim S, Lee C, Zwaka T, Li X,
+Surani MA.
+
+Author information: 
+(1)Wellcome Trust/Cancer Research UK Gurdon Institute of Cancer and Developmental
+Biology, University of Cambridge, Tennis Court Road, Cambridge, CB2 1QN, UK.
+
+Comment in
+    Cell Stem Cell. 2012 Jul 6;11(1):1-2.
+
+Blimp1 (Prdm1), the key determinant of primordial germ cells (PGCs), plays a
+combinatorial role with Prdm14 during PGC specification from postimplantation
+epiblast cells. They together initiate epigenetic reprogramming in early germ
+cells toward an underlying pluripotent state, which is equivalent to embryonic
+stem cells (ESCs). Whereas Prdm14 alone can promote reprogramming and is
+important for the propagation of the pluripotent state, it is not known whether
+Blimp1 is similarly involved. By using a genetic approach, we demonstrate that
+Blimp1 is dispensable for the derivation and maintenance of ESCs and
+postimplantation epiblast stem cells (epiSCs). Notably, Blimp1 is also
+dispensable for reprogramming epiSCs to ESCs. Thus, although Blimp1 is obligatory
+for PGC specification, it is not required for the reversion of epiSCs to ESCs and
+for their maintenance thereafter. This study suggests that reprogramming,
+including that of somatic cells to ESCs, may not entail an obligatory route
+through a Blimp1-positive PGC-like state.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+PMCID: PMC3391686
+PMID: 22770244  [PubMed - indexed for MEDLINE]
+
+
+56. EMBO J. 2012 May 16;31(10):2247-8. doi: 10.1038/emboj.2012.117. Epub 2012 Apr 20.
+
+Epigenetic reprogramming: Prdm14 hits the accelerator.
+
+Geijsen N(1).
+
+Author information: 
+(1)Hubrecht Institute KNAW, School of Veterinary Medicine, Utrecht University,
+Utrecht, The Netherlands. n.geijsen@hubrecht.eu
+
+Comment on
+    Cell Stem Cell. 2012 Apr 6;10(4):425-39.
+
+PMCID: PMC3364742
+PMID: 22522701  [PubMed]
+
+
+57. Cell Stem Cell. 2012 Apr 6;10(4):425-39. doi: 10.1016/j.stem.2012.01.020.
+
+Epiblast stem cell-based system reveals reprogramming synergy of germline
+factors.
+
+Gillich A(1), Bao S, Grabole N, Hayashi K, Trotter MW, Pasque V, Magnúsdóttir E, 
+Surani MA.
+
+Author information: 
+(1)Wellcome Trust/Cancer Research UK Gurdon Institute, University of Cambridge,
+UK.
+
+Comment in
+    EMBO J. 2012 May 16;31(10):2247-8.
+
+Epigenetic reprogramming in early germ cells is critical toward the establishment
+of totipotency, but investigations of the germline events are intractable. An
+objective cell culture-based system could provide mechanistic insight on how the 
+key determinants of primordial germ cells (PGCs), including Prdm14, induce
+reprogramming in germ cells to an epigenetic ground state. Here we show a
+Prdm14-Klf2 synergistic effect that can accelerate and enhance reversion of mouse
+epiblast stem cells (epiSCs) to a naive pluripotent state, including X
+reactivation and DNA demethylation. Notably, Prdm14 alone has little effect on
+epiSC reversion, but it enhances the competence for reprogramming and potentially
+PGC specification. Reprogramming of epiSCs by the combinatorial effect of
+Prdm14-Klf2 involves key epigenetic changes, which might have an analogous role
+in PGCs. Our study provides a paradigm toward a systematic analysis of how other 
+key genes contribute to complex and dynamic events of reprogramming in the
+germline.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+PMCID: PMC3343665
+PMID: 22482507  [PubMed - indexed for MEDLINE]
+
+
+58. PLoS One. 2011;6(12):e28960. doi: 10.1371/journal.pone.0028960. Epub 2011 Dec 15.
+
+Single cell analysis facilitates staging of Blimp1-dependent primordial germ
+cells derived from mouse embryonic stem cells.
+
+Vincent JJ(1), Li Z, Lee SA, Liu X, Etter MO, Diaz-Perez SV, Taylor SK, Gkountela
+S, Lindgren AG, Clark AT.
+
+Author information: 
+(1)Department of Molecular Cell and Developmental Biology, University of
+California Los Angeles, Los Angeles, California, United States of America.
+
+The cell intrinsic programming that regulates mammalian primordial germ cell
+(PGC) development in the pre-gonadal stage is challenging to investigate. To
+overcome this we created a transgene-free method for generating PGCs in vitro
+(iPGCs) from mouse embryonic stem cells (ESCs). Using labeling for SSEA1 and
+cKit, two cell surface molecules used previously to isolate presumptive iPGCs, we
+show that not all SSEA1+/cKit+ double positive cells exhibit a PGC identity.
+Instead, we determined that selecting for cKit(bright) cells within the SSEA1+
+fraction significantly enriches for the putative iPGC population. Single cell
+analysis comparing SSEA1+/cKit(bright) iPGCs to ESCs and embryonic PGCs
+demonstrates that 97% of single iPGCs co-express PGC signature genes Blimp1,
+Stella, Dnd1, Prdm14 and Dazl at similar levels to e9.5-10.5 PGCs, whereas 90% of
+single mouse ESC do not co-express PGC signature genes. For the 10% of ESCs that 
+co-express PGC signature genes, the levels are significantly lower than iPGCs.
+Microarray analysis shows that iPGCs are transcriptionally distinct from ESCs and
+repress gene ontology groups associated with mesoderm and heart development. At
+the level of chromatin, iPGCs contain 5-methyl cytosine bases in their DNA at
+imprinted and non-imprinted loci, and are enriched in histone H3 lysine 27
+trimethylation, yet do not have detectable levels of Mvh protein, consistent with
+a Blimp1-positive pre-gonadal PGC identity. In order to determine whether iPGC
+formation is dependent upon Blimp1, we generated Blimp1 null ESCs and found that 
+loss of Blimp1 significantly depletes SSEA1/cKit(bright) iPGCs. Taken together,
+the generation of Blimp1-positive iPGCs from ESCs constitutes a robust model for 
+examining cell-intrinsic regulation of PGCs during the Blimp1-positive stage of
+development.
+
+PMCID: PMC3240638
+PMID: 22194959  [PubMed - indexed for MEDLINE]
+
+
+59. Cell Oncol (Dordr). 2011 Oct;34(5):475-82. doi: 10.1007/s13402-011-0043-7. Epub
+2011 May 6.
+
+Molecular differences between ductal carcinoma in situ and adjacent invasive
+breast carcinoma: a multiplex ligation-dependent probe amplification study.
+
+Moelans CB(1), de Wegers RA, Monsuurs HN, Maess AH, van Diest PJ.
+
+Author information: 
+(1)Department of Pathology, University Medical Center Utrecht, Heidelberglaan
+100, PO Box 85500, 3508 GA, Utrecht, The Netherlands. cmoelans@umcutrecht.nl
+
+Erratum in
+    Cell Oncol (Dordr). 2011 Oct;34(5):509-10.
+
+Republished from
+    Anal Cell Pathol (Amst). 2010;33(3):165-73.
+
+BACKGROUND: Ductal carcinoma in situ (DCIS) accounts for approximately 20% of
+mammographically detected breast cancers. Although DCIS is generally highly
+curable, some women with DCIS will develop life-threatening invasive breast
+cancer, but the determinants of progression to infiltrating ductal cancer (IDC)
+are largely unknown.
+METHODS: In the current study, we used multiplex ligation-dependent probe
+amplification (MLPA), a multiplex PCR-based test, to compare copy numbers of 21
+breast cancer related genes between laser-microdissected DCIS and adjacent IDC
+lesions in 39 patients. Genes included in this study were ESR1, EGFR, FGFR1,
+ADAM9, IKBKB, PRDM14, MTDH, MYC, CCND1, EMSY, CDH1, TRAF4, CPD, MED1, HER2, CDC6,
+TOP2A, MAPT, BIRC5, CCNE1 and AURKA.
+RESULTS: There were no significant differences in copy number for the 21 genes
+between DCIS and adjacent IDC. Low/intermediate-grade DCIS showed on average 6
+gains/amplifications versus 8 in high-grade DCIS (p<U+2009>=<U+2009>0.158). Furthermore,
+alterations of AURKA and CCNE1 were exclusively found in high-grade DCIS, and
+HER2, PRDM14 and EMSY amplification was more frequent in high-grade DCIS than in 
+low/intermediate-grade DCIS. In contrast, the average number of alterations in
+low/intermediate and high grade IDC was similar, and although EGFR alterations
+were exclusively found in high grade IDC compared to low/intermediate-grade IDC, 
+there were generally fewer differences between low/intermediate-grade and
+high-grade IDC than between low/intermediate-grade and high-grade DCIS.
+CONCLUSION: In conclusion, there were no significant differences in copy number
+for 21 breast cancer related genes between DCIS and adjacent IDC, indicating that
+DCIS is genetically as advanced as its invasive counterpart. However, high grade 
+DCIS showed more copy number changes than low/intermediate grade DCIS with
+specifically involved genes, supporting a model in which different histological
+grades of DCIS are associated with distinct genomic changes that progress to IDC 
+in different routes. These high grade DCIS specific genes may be potential
+targets for treatment and/or predict progression.
+
+PMCID: PMC3219861
+PMID: 21547576  [PubMed]
+
+
+60. Nature. 2011 May 19;473(7347):398-402. doi: 10.1038/nature10008. Epub 2011 Apr 3.
+
+Dynamic regulation of 5-hydroxymethylcytosine in mouse ES cells and during
+differentiation.
+
+Ficz G(1), Branco MR, Seisenberger S, Santos F, Krueger F, Hore TA, Marques CJ,
+Andrews S, Reik W.
+
+Author information: 
+(1)Laboratory of Developmental Genetics and Imprinting, The Babraham Institute,
+Cambridge CB22 3AT, UK.
+
+Comment in
+    Nature. 2011 May 19;473(7347):293-4.
+
+Methylation at the 5' position of cytosine in DNA has important roles in genome
+function and is dynamically reprogrammed during early embryonic and germ cell
+development. The mammalian genome also contains 5-hydroxymethylcytosine (5hmC),
+which seems to be generated by oxidation of 5-methylcytosine (5mC) by the TET
+family of enzymes that are highly expressed in embryonic stem (ES) cells. Here we
+use antibodies against 5hmC and 5mC together with high throughput sequencing to
+determine genome-wide patterns of methylation and hydroxymethylation in mouse
+wild-type and mutant ES cells and differentiating embryoid bodies. We find that
+5hmC is mostly associated with euchromatin and that whereas 5mC is
+under-represented at gene promoters and CpG islands, 5hmC is enriched and is
+associated with increased transcriptional levels. Most, if not all, 5hmC in the
+genome depends on pre-existing 5mC and the balance between these two
+modifications is different between genomic regions. Knockdown of Tet1 and Tet2
+causes downregulation of a group of genes that includes pluripotency-related
+genes (including Esrrb, Prdm14, Dppa3, Klf2, Tcl1 and Zfp42) and a concomitant
+increase in methylation of their promoters, together with an increased propensity
+of ES cells for extraembryonic lineage differentiation. Declining levels of TETs 
+during differentiation are associated with decreased hydroxymethylation levels at
+the promoters of ES cell-specific genes together with increased methylation and
+gene silencing. We propose that the balance between hydroxymethylation and
+methylation in the genome is inextricably linked with the balance between
+pluripotency and lineage commitment.
+
+PMID: 21460836  [PubMed - indexed for MEDLINE]
+
+
+61. Oncogene. 2011 Jun 23;30(25):2859-73. doi: 10.1038/onc.2011.12. Epub 2011 Feb 21.
+
+Prdm14 initiates lymphoblastic leukemia after expanding a population of cells
+resembling common lymphoid progenitors.
+
+Dettman EJ(1), Simko SJ, Ayanga B, Carofino BL, Margolin JF, Morse HC 3rd,
+Justice MJ.
+
+Author information: 
+(1)Department of Molecular and Human Genetics, Baylor College of Medicine,
+Houston, TX, USA.
+
+Understanding the heterogeneous genetic mechanisms of tumor initiation in
+lymphoid leukemias (LL) will lead to improvements in prognostic classification
+and treatment regimens. In previous studies of mouse leukemias, we showed that
+retroviral insertion at the ecotropic viral insertion site 32 locus leads to
+increased expression of Prdm14, a pluripotency gene implicated in the
+self-renewal capacity of embryonic stem cells and the early stages of breast
+cancer. Here, we show that PRDM14 is also overexpressed in ~25% of human lymphoid
+neoplasms, with increased frequencies in T-cell acute LL and hyperdiploid
+precursor B-cell acute LL. To test if Prdm14 overexpression could initiate
+leukemia, mice were transduced with bone marrow cells transfected with a Prdm14
+expression vector. LLs developed in 96% of female mice and 42% of male mice.
+Before the onset of leukemia, differentiation of transduced cells was biased up
+to 1000-fold toward cells with features of common lymphoid progenitors (CLPs),
+and lymphoid differentiation showed a relative block at the pro-B stage.
+Microarray gene expression analysis of expanded CLP-like cells before the onset
+of leukemia demonstrated upregulation of genes involved in pluripotency, tumor
+initiation, early B-lineage commitment, Wnt/Ras signaling and the
+epithelial-to-mesenchymal transition. Among the dysregulated genes were imprinted
+genes and non-coding RNAs including Dlk1 and Meg3, which are also key
+pluripotency mediators. Heightened expression of the estrogen-dependent oncogene,
+Myb, in tumors suggests a basis for the increased frequency of cancer in female
+mice. These data provide the first direct evidence for the association of Prdm14 
+with cancer initiation in an in vivo mouse model and in human lymphoid
+malignancies, while suggesting mechanisms for Prdm14's mode of action.
+
+PMCID: PMC3121925
+PMID: 21339739  [PubMed - indexed for MEDLINE]
+
+
+62. J Biol Chem. 2011 Mar 25;286(12):10641-8. doi: 10.1074/jbc.M110.216390. Epub 2011
+Jan 26.
+
+A germ cell-specific gene, Prmt5, works in somatic cell reprogramming.
+
+Nagamatsu G(1), Kosaka T, Kawasumi M, Kinoshita T, Takubo K, Akiyama H, Sudo T,
+Kobayashi T, Oya M, Suda T.
+
+Author information: 
+(1)Department of Cell Differentiation, The Sakaguchi Laboratory, School of
+Medicine, Keio University, Tokyo 160-8582, Japan. gonag@sc.itc.keio.ac.jp
+
+Germ cells possess the unique ability to acquire totipotency during development
+in vivo as well as give rise to pluripotent stem cells under the appropriate
+conditions in vitro. Recent studies in which somatic cells were experimentally
+converted into pluripotent stem cells revealed that genes expressed in primordial
+germ cells (PGCs), such as Oct3/4, Sox2, and Lin28, are involved in this
+reprogramming. These findings suggest that PGCs may be useful for identifying
+factors that successfully and efficiently reprogram somatic cells into toti-
+and/or pluripotent stem cells. Here, we show that Blimp-1, Prdm14, and Prmt5,
+each of which is crucial for PGC development, have the potential to reprogram
+somatic cells into pluripotent stem cells. Among them, Prmt5 exhibited remarkable
+reprogramming of mouse embryonic fibroblasts into which Prmt5, Klf4, and Oct3/4
+were introduced. The resulting cells exhibited pluripotent gene expression,
+teratoma formation, and germline transmission in chimeric mice, all of which were
+indistinguishable from those induced with embryonic stem cells. These data
+indicate that some of the factors that play essential roles in germ cell
+development are also active in somatic cell reprogramming.
+
+PMCID: PMC3060515
+PMID: 21270127  [PubMed - indexed for MEDLINE]
+
+
+63. Nat Struct Mol Biol. 2011 Feb;18(2):120-7. doi: 10.1038/nsmb.2000. Epub 2010 Dec 
+23.
+
+Sequence-specific regulator Prdm14 safeguards mouse ESCs from entering
+extraembryonic endoderm fates.
+
+Ma Z(1), Swigut T, Valouev A, Rada-Iglesias A, Wysocka J.
+
+Author information: 
+(1)Department of Chemical and Systems Biology, Stanford University School of
+Medicine, Stanford, California, USA.
+
+Prdm14 is a PR-domain and zinc-finger protein whose expression is restricted to
+the pluripotent cells of the early embryo, embryonic stem cells (ESCs), and germ 
+cells. Here, we show that Prdm14 safeguards mouse ESC (mESC) maintenance by
+preventing induction of extraembryonic endoderm (ExEn) fates. Conversely, Prdm14 
+overexpression impairs ExEn differentiation during embryoid body formation.
+Prdm14 occupies and represses genomic loci encoding ExEn differentiation factors,
+while also binding to and promoting expression of genes associated with mESC
+self-renewal. Prdm14-associated genomic regions substantially overlap those
+occupied by Nanog and Oct4, are enriched in a chromatin signature associated with
+distal regulatory elements and contain a unique DNA-sequence motif recognized by 
+Prdm14 in vitro. Our work identifies a new member of the mESC transcriptional
+network, Prdm14, which plays a dual role as a context-dependent transcriptional
+repressor or activator.
+
+PMID: 21183938  [PubMed - indexed for MEDLINE]
+
+
+64. PLoS One. 2010 Oct 29;5(10):e13703. doi: 10.1371/journal.pone.0013703.
+
+The LARGE principle of cellular reprogramming: lost, acquired and retained gene
+expression in foreskin and amniotic fluid-derived human iPS cells.
+
+Wolfrum K(1), Wang Y, Prigione A, Sperling K, Lehrach H, Adjaye J.
+
+Author information: 
+(1)Molecular Embryology and Aging Group, Department of Vertebrate Genomics, Max
+Planck Institute for Molecular Genetics, Berlin, Germany.
+
+Human amniotic fluid cells (AFCs) are routinely obtained for prenatal diagnostics
+procedures. Recently, it has been illustrated that these cells may also serve as 
+a valuable model system to study developmental processes and for application in
+regenerative therapies. Cellular reprogramming is a means of assigning greater
+value to primary AFCs by inducing self-renewal and pluripotency and, thus,
+bypassing senescence. Here, we report the generation and characterization of
+human amniotic fluid-derived induced pluripotent stem cells (AFiPSCs) and
+demonstrate their ability to differentiate into the trophoblast lineage after
+stimulation with BMP2/BMP4. We further carried out comparative transcriptome
+analyses of primary human AFCs, AFiPSCs, fibroblast-derived iPSCs (FiPSCs) and
+embryonic stem cells (ESCs). This revealed that the expression of key
+senescence-associated genes are down-regulated upon the induction of pluripotency
+in primary AFCs (AFiPSCs). By defining distinct and overlapping gene expression
+patterns and deriving the LARGE (Lost, Acquired and Retained Gene Expression)
+Principle of Cellular Reprogramming, we could further highlight that AFiPSCs,
+FiPSCs and ESCs share a core self-renewal gene regulatory network driven by OCT4,
+SOX2 and NANOG. Nevertheless, these cell types are marked by distinct gene
+expression signatures. For example, expression of the transcription factors,
+SIX6, EGR2, PKNOX2, HOXD4, HOXD10, DLX5 and RAXL1, known to regulate
+developmental processes, are retained in AFiPSCs and FiPSCs. Surprisingly,
+expression of the self-renewal-associated gene PRDM14 or the developmental
+processes-regulating genes WNT3A and GSC are restricted to ESCs. Implications of 
+this, with respect to the stability of the undifferentiated state and long-term
+differentiation potential of iPSCs, warrant further studies.
+
+PMCID: PMC2966395
+PMID: 21060825  [PubMed - indexed for MEDLINE]
+
+
+65. Nanomedicine. 2011 Jun;7(3):315-23. doi: 10.1016/j.nano.2010.10.004. Epub 2010
+Nov 2.
+
+Delivery of siRNA into breast cancer cells via phage fusion protein-targeted
+liposomes.
+
+Bedi D(1), Musacchio T, Fagbohun OA, Gillespie JW, Deinnocentes P, Bird RC,
+Bookbinder L, Torchilin VP, Petrenko VA.
+
+Author information: 
+(1)Department of Pathobiology, College of Veterinary Medicine, Auburn University,
+Auburn, Alabama, USA.
+
+Efficacy of siRNAs as potential anticancer therapeutics can be increased by their
+targeted delivery into cancer cells via tumor-specific ligands. Phage display
+offers a unique approach to identify highly specific and selective ligands that
+can deliver nanocarriers to the site of disease. In this study, we proved a novel
+approach for intracellular delivery of siRNAs into breast cancer cells through
+their encapsulation into liposomes targeted to the tumor cells with preselected
+intact phage proteins. The targeted siRNA liposomes were obtained by a fusion of 
+two parental liposomes containing spontaneously inserted siRNA and fusion phage
+proteins. The presence of pVIII coat protein fused to a MCF-7 cell-targeting
+peptide DMPGTVLP in the liposomes was confirmed by Western blotting. The novel
+phage-targeted siRNA-nanopharmaceuticals demonstrate significant down-regulation 
+of PRDM14 gene expression and PRDM14 protein synthesis in the target MCF-7 cells.
+This approach offers the potential for development of new anticancer siRNA-based 
+targeted nanomedicines.FROM THE CLINICAL EDITOR: In this study, the authors
+report a novel approach for targeted intracellular delivery of siRNAs into breast
+cancer cells through encapsulation into liposomes targeted to the tumor cells
+with preselected intact phage proteins.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+PMCID: PMC3108001
+PMID: 21050894  [PubMed - indexed for MEDLINE]
+
+
+66. Anal Cell Pathol (Amst). 2010;33(3):165-73. doi: 10.3233/ACP-CLO-2010-0546.
+
+Molecular differences between ductal carcinoma in situ and adjacent invasive
+breast carcinoma: a multiplex ligation-dependent probe amplification study.
+
+Moelans CB(1), de Weger RA, Monsuur HN, Maes AH, van Diest PJ.
+
+Author information: 
+(1)Department of Pathology, University Medical Center Utrecht, Utrecht, The
+Netherlands. cmoelans@umcutrecht.nl
+
+Republished in
+    Cell Oncol (Dordr). 2011 Oct;34(5):475-82.
+
+Ductal carcinoma in situ (DCIS) accounts for approximately 20% of
+mammographically detected breast cancers. Although DCIS is generally highly
+curable, some women with DCIS will develop life-threatening invasive breast
+cancer, but the determinants of progression to infiltrating ductal cancer (IDC)
+are largely unknown. In the current study, we used multiplex ligation-dependent
+probe amplification (MLPA), a multiplex PCR-based test, to compare copy numbers
+of 21 breast cancer related genes between laser-microdissected DCIS and adjacent 
+IDC lesions in 39 patients. Genes included in this study were ESR1, EGFR, FGFR1, 
+ADAM9, IKBKB, PRDM14, MTDH, MYC, CCND1, EMSY, CDH1, TRAF4, CPD, MED1, HER2, CDC6,
+TOP2A, MAPT, BIRC5, CCNE1 and AURKA.There were no significant differences in copy
+number for the 21 genes between DCIS and adjacent IDC. Low/intermediate-grade
+DCIS showed on average 6 gains/amplifications versus 8 in high-grade DCIS
+(p=0.158). Furthermore, alterations of AURKA and CCNE1 were exclusively found in 
+high-grade DCIS, and HER2, PRDM14 and EMSY amplification was more frequent in
+high-grade DCIS than in low/intermediate-grade DCIS. In contrast, the average
+number of alterations in low/intermediate and high-grade IDC was similar, and
+although EGFR alterations were exclusively found in high-grade IDC compared to
+low/intermediate-grade IDC, there were generally fewer differences between
+low/intermediate-grade and high-grade IDC than between low/intermediate-grade and
+high-grade DCIS.In conclusion, there were no significant differences in copy
+number for 21 breast cancer related genes between DCIS and adjacent IDC,
+indicating that DCIS is genetically as advanced as its invasive counterpart.
+However, high-grade DCIS showed more copy number changes than
+low/intermediate-grade DCIS with specifically involved genes, supporting a model 
+in which different histological grades of DCIS are associated with distinct
+genomic changes that progress to IDC in different routes. These high-grade DCIS
+specific genes may be potential targets for treatment and/or predict progression.
+
+PMCID: PMC4605452
+PMID: 20978320  [PubMed - indexed for MEDLINE]
+
+
+67. Nature. 2010 Nov 11;468(7321):316-20. doi: 10.1038/nature09531. Epub 2010 Oct 17.
+
+A genome-wide RNAi screen reveals determinants of human embryonic stem cell
+identity.
+
+Chia NY(1), Chan YS, Feng B, Lu X, Orlov YL, Moreau D, Kumar P, Yang L, Jiang J, 
+Lau MS, Huss M, Soh BS, Kraus P, Li P, Lufkin T, Lim B, Clarke ND, Bard F, Ng HH.
+
+Author information: 
+(1)Gene Regulation Laboratory, Genome Institute of Singapore, 60 Biopolis Street,
+Singapore 138672.
+
+The derivation of human ES cells (hESCs) from human blastocysts represents one of
+the milestones in stem cell biology. The full potential of hESCs in research and 
+clinical applications requires a detailed understanding of the genetic network
+that governs the unique properties of hESCs. Here, we report a genome-wide RNA
+interference screen to identify genes which regulate self-renewal and
+pluripotency properties in hESCs. Interestingly, functionally distinct complexes 
+involved in transcriptional regulation and chromatin remodelling are among the
+factors identified in the screen. To understand the roles of these potential
+regulators of hESCs, we studied transcription factor PRDM14 to gain new insights 
+into its functional roles in the regulation of pluripotency. We showed that
+PRDM14 regulates directly the expression of key pluripotency gene POU5F1 through 
+its proximal enhancer. Genome-wide location profiling experiments revealed that
+PRDM14 colocalized extensively with other key transcription factors such as OCT4,
+NANOG and SOX2, indicating that PRDM14 is integrated into the core
+transcriptional regulatory network. More importantly, in a gain-of-function
+assay, we showed that PRDM14 is able to enhance the efficiency of reprogramming
+of human fibroblasts in conjunction with OCT4, SOX2 and KLF4. Altogether, our
+study uncovers a wealth of novel hESC regulators wherein PRDM14 exemplifies a key
+transcription factor required for the maintenance of hESC identity and the
+reacquisition of pluripotency in human somatic cells.
+
+PMID: 20953172  [PubMed - indexed for MEDLINE]
+
+
+68. Zhongguo Fei Ai Za Zhi. 2010 Sep;13(9):867-72. doi:
+10.3779/j.issn.1009-3419.2010.09.06.
+
+[Relationship between the expression of PRDM14 in non-small cell lung cancer and 
+the clinicopathologic characteristics].
+
+[Article in Chinese]
+
+Liu B(1), Zhang S, Hui L, Qiu X, Cui Z.
+
+Author information: 
+(1)The Center of Laboratory Technology and Experimental Medicine, Shenyang
+110001, China.
+
+BACKGROUND AND OBJECTIVE: The positive regulatory domain proteins (PRDM) are
+family of transcriptional regulation related to the formation of human tumor
+factor and play key roles in the cell differentiation and malignant
+transformation. PRDM14 is a member of the PRDM family. The aim of this study is
+to detect the expression of PRDM14 in non-small cell lung cancer (NSCLC) tissues,
+and analyze its relationship with clinicopathologic characteristics of NSCLC.
+METHODS: PRDM14 expression was detected in 70 NSCLC specimens and 7 paracancerous
+tissues using the immunohistochemistry (SP method). The PRDM14 protein expression
+was determined in 42 NSCLC specimens and 42 paracancerous tissues by Western
+blot.
+RESULTS: Among 70 NSCLC specimens, 8 specimens showed weak expression of PRDM14
+(11.43%, 8/70), 62 specimens showed moderate to strong staining of PRDM14
+(88.57%, 62/70), whereas 7 paracancerous specimens showed weak staining extent.
+PRDM14 expression level was positively correlated with differentiation (P=0.046) 
+and histological type (P=0.047). The positive cytoplasmic expression of PRDM14 in
+highly differentiated NSCLC, the low expression of PRDM14 in poorly
+differentiated NSCLC. The results of Western blot showed that there were
+significant difference between the two groups (P<0.001); expression of PRDM14 was
+conspicuous in NSCLC specimens but low in paracancerous tissues. PRDM14
+expression level was positively correlated with differentiation (P=0.017). The
+positive cytoplasmic expression of PRDM14 in highly differentiated NSCLC, the low
+expression of PRDM14 in poorly differentiated NSCLC.
+CONCLUSIONS: The high expression of PRDM14 in NSCLC is associated with
+differentiation and histological type. The PRDM14 may play an important role in
+the development of NSCLC.
+
+PMID: 20840815  [PubMed - indexed for MEDLINE]
+
+
+69. Mod Pathol. 2010 Jul;23(7):1029-39. doi: 10.1038/modpathol.2010.84. Epub 2010 May
+14.
+
+Molecular profiling of invasive breast cancer by multiplex ligation-dependent
+probe amplification-based copy number analysis of tumor suppressor and oncogenes.
+
+Moelans CB(1), de Weger RA, Monsuur HN, Vijzelaar R, van Diest PJ.
+
+Author information: 
+(1)Department of Pathology, University Medical Centre Utrecht, Utrecht, The
+Netherlands. cmoelans@umcutrecht.nl
+
+Several oncogenes and tumor-suppressor genes have been shown to be implicated in 
+the development, progression and response to therapy of invasive breast cancer.
+The phenotypic uniqueness (and thus the heterogeneity of clinical behavior) among
+patients' tumors may be traceable to the underlying variation in gene copy number
+of these genes. To obtain a more complete view of gene copy number changes and
+their relation to phenotype, we analyzed 20 breast cancer-related genes in 104
+invasive breast cancers with the use of multiplex ligation-dependent probe
+amplification (MLPA). We identified MYC gene amplification in 48% of patients,
+PRDM14 in 34%, topoisomerase IIalpha (TOP2A) in 32%, ADAM9 in 32%, HER2 in 28%,
+cyclin D1 (CCND1) in 26%, EMSY in 25%, IKBKB in 21%, AURKA in 17%, FGFR1 in 17%, 
+estrogen receptor alpha (ESR1) in 16%, CCNE1 in 12% and EGFR in 9% of patients.
+There was a significant correlation between the number of amplified genes and the
+histological grade and mitotic index of the tumor. Gene amplifications of EGFR,
+CCNE1 and HER2 were negatively associated with estrogen receptor status whereas
+FGFR1, ADAM9, IKBKB and TOP2A revealed a positive association. Amplifications of 
+ESR1, PRDM14, MYC and HER2 were associated with a high mitotic index, and PRDM14 
+and HER2 amplifications with high histological grade. MYC amplification was
+detected more frequently in ductal tumors and high-level MYC amplifications were 
+significantly associated with large tumor size. HER2/MYC, HER2/CCNE1 and EGFR/MYC
+co-amplified tumors were significantly larger than tumors with either of these
+amplifications. Gene loss occurred most frequently in E-cadherin (CDH1) (20%) and
+FGFR1 (10%). In conclusion, MLPA analysis with this 'breast cancer kit' allowed
+to simultaneously assess copy numbers of 20 important breast cancer genes,
+providing an overview of the most frequent (co)amplifications as well as
+interesting phenotypic correlations, and thereby data on the potential importance
+of these genes in breast cancer.
+
+PMID: 20473280  [PubMed - indexed for MEDLINE]
+
+
+70. Reproduction. 2010 Feb;139(2):381-93. doi: 10.1530/REP-09-0373. Epub 2009 Oct 27.
+
+Functional reconstruction of NANOS3 expression in the germ cell lineage by a
+novel transgenic reporter reveals distinct subcellular localizations of NANOS3.
+
+Yamaji M(1), Tanaka T, Shigeta M, Chuma S, Saga Y, Saitou M.
+
+Author information: 
+(1)Laboratory for Mammalian Germ Cell Biology, RIKEN Center for Developmental
+Biology, 2-2-3 Minatojima-Minamimachi, Chuo-ku, Kobe 650-0047, Japan.
+
+Mutations of RNA-binding proteins such as NANOS3, TIAL1, and DND1 in mice have
+been known to result in the failure of survival and/or proliferation of
+primordial germ cells (PGCs) soon after their fate is specified (around embryonic
+day (E) 8.0), leading to the infertility of these animals. However, the
+mechanisms of actions of these RNA-binding proteins remain largely unresolved. As
+a foundation to explore the role of these RNA-binding proteins in germ cells, we 
+established a novel transgenic reporter strain that expresses NANOS3 fused with
+EGFP under the control of Nanos3 regulatory elements. NANOS3-EGFP exhibited
+exclusive expression in PGCs as early as E7.25, and continued to be expressed in 
+female germ cells until around E14.5 and in male germ cells throughout the fetal 
+period with declining expression levels after E16.5. NANOS3-EGFP resumed strong
+expression in postnatal spermatogonia and continued to be expressed in
+undifferentiated spermatogonial cells in adults. Importantly, the Nanos3-EGFP
+transgene rescued the sterile phenotype of Nanos3 homozygous mutants,
+demonstrating the functional equivalency of NANOS3-EGFP with endogenous NANOS3.
+We found that throughout germ cell development, a predominant amount of
+NANOS3-EGFP co-localized with TIAL1 (also known as TIAR) and phosphorylated
+eukaryotic initiation factor 2alpha, markers for the stress granules, whereas a
+fraction of it showed co-localization with DCP1A, a marker for the processing
+bodies. On the other hand, NANOS3-EGFP did not co-localize with Tudor
+domain-containing protein 1, a marker for the intermitochondrial cements, in
+spermatogenic cells. These findings unveil the presence of distinct
+posttranscriptional regulations in PGCs soon after their specification, for which
+RNA-binding proteins such as NANOS3 and TIAL1 would play critical functions.
+
+PMID: 19861488  [PubMed - indexed for MEDLINE]
+
+
+71. Curr Opin Genet Dev. 2009 Aug;19(4):386-95. doi: 10.1016/j.gde.2009.06.003. Epub 
+2009 Jul 16.
+
+Germ cell specification in mice.
+
+Saitou M(1).
+
+Author information: 
+(1)Department of Anatomy and Cell Biology, Graduate School of Medicine, Kyoto
+University, Yoshida-Konoe-cho, Sakyo-ku, Kyoto 606-8501, Japan.
+saitou@anat2.med.kyoto-u.ac.jp
+
+Specification of germ cell fate is vital to development and heredity. In mice,
+germ cell fate is induced in a subset of pluripotent epiblast cells during early 
+gastrulation. Reflecting the function of the germ line as the transducer of
+genetic information, germ cell specification integrates at least three key
+events: repression of the somatic program, re-acquisition of potential
+pluripotency, and ensuing genome-wide epigenetic reprogramming. Blimp1 and Prdm14
+are the two critical transcriptional regulators that orchestrate these events.
+The recent clarification of the mechanism by which signaling activities confer
+the germ cell fate to the epiblast cells underscores the feasibility of
+generating the mammalian germ cell lineage in vitro.
+
+PMID: 19616424  [PubMed - indexed for MEDLINE]
+
+
+72. Cell. 2009 May 1;137(3):571-84. doi: 10.1016/j.cell.2009.03.014.
+
+A signaling principle for the specification of the germ cell lineage in mice.
+
+Ohinata Y(1), Ohta H, Shigeta M, Yamanaka K, Wakayama T, Saitou M.
+
+Author information: 
+(1)Center for Developmental Biology, RIKEN Kobe Institute,
+Minatojima-Minamimachi, Chuo-ku, Japan.
+
+Comment in
+    Cell. 2009 May 1;137(3):398-400.
+
+Specification of the germ cell lineage is vital to development and heredity. In
+mice, the germ cell fate is induced in pluripotent epiblast cells by signaling
+molecules, yet the underlying mechanism remains unknown. Here we demonstrate that
+germ cell fate in the epiblast is a direct consequence of Bmp4 signaling from the
+extraembryonic ectoderm (ExE), which is antagonized by the anterior visceral
+endoderm (AVE). Strikingly, Bmp8b from the ExE restricts AVE development, thereby
+contributing to Bmp4 signaling. Furthermore, Wnt3 in the epiblast ensures its
+responsiveness to Bmp4. Serum-free, defined cultures revealed that, in response
+to Bmp4, competent epiblast cells uniformly expressed key transcriptional
+regulators Blimp1 and Prdm14 and acquired germ-cell properties, including
+genome-wide epigenetic reprogramming, in an orderly fashion. Notably, the induced
+cells contributed to both spermatogenesis and fertility of offspring. By
+identifying a signaling principle in germ cell specification, our study
+establishes a robust strategy for reconstituting the mammalian germ cell lineage 
+in vitro.
+
+PMID: 19410550  [PubMed - indexed for MEDLINE]
+
+
+73. Nat Rev Mol Cell Biol. 2009 Feb;10(2):91-103. doi: 10.1038/nrm2618. Epub 2009 Jan
+8.
+
+Making a commitment: cell lineage allocation and axis patterning in the early
+mouse embryo.
+
+Arnold SJ(1), Robertson EJ.
+
+Author information: 
+(1)Sir William Dunn School of Pathology, University of Oxford, South Parks Road, 
+Oxford, OX1 3RE, UK.
+
+Genetic studies have identified the key signalling pathways and developmentally
+regulated transcription factors that govern cell lineage allocation and axis
+patterning in the early mammalian embryo. Recent advances have uncovered details 
+of the molecular circuits that tightly control cell growth and differentiation in
+the mammalian embryo from the blastocyst stage, through the establishment of
+initial anterior-posterior polarity, to gastrulation, when the germ cells are set
+aside and the three primary germ layers are specified. Relevant studies in lower 
+vertebrates indicate the conservation and divergence of regulatory mechanisms for
+cell lineage allocation and axis patterning.
+
+PMID: 19129791  [PubMed - indexed for MEDLINE]
+
+
+74. PLoS One. 2008;3(11):e3823. doi: 10.1371/journal.pone.0003823. Epub 2008 Nov 27.
+
+The zinc finger SET domain gene Prdm14 is overexpressed in lymphoblastic
+lymphomas with retroviral insertions at Evi32.
+
+Dettman EJ(1), Justice MJ.
+
+Author information: 
+(1)Department of Molecular and Human Genetics, Baylor College of Medicine,
+Houston, Texas, United States of America.
+
+BACKGROUND: AKXD recombinant inbred strains of mice have proven to be very useful
+in the identification of potential oncogenes and tumor suppressors involved in
+the development of lymphoid and myeloid malignancies. In these tumors, the
+hematopoietic insertion of an active AKV murine leukemia virus (MuLV) is
+associated with the onset of disease. Common sites of retroviral insertion (CIS) 
+identify genes causally associated with the development or initiation of
+lymphoma.
+METHODOLOGY: In the present study, we analyzed a previously uncharacterized CIS, 
+Ecotropic Viral Integration Site 32 (Evi32), which is located on mouse chromosome
+1. We analyzed candidate genes in the region to identify those involved in Evi32 
+mediated oncogenesis.
+RESULTS: Here we show that proviral insertion at Evi32 correlates with
+significant overexpression of a putative transcription factor, PR-domain
+containing 14 (Prdm14). Tumors with insertions at Evi32 are consistently lymphoid
+in nature. Prdm14 is normally expressed early in embryonic development with the
+highest expression in undifferentiated embryonic stem (ES) cells. This study
+implicates Prdm14 as a proto-oncogene involved in lymphoblastic lymphoma
+formation.
+
+PMCID: PMC2584371
+PMID: 19043588  [PubMed - indexed for MEDLINE]
+
+
+75. Cell Cycle. 2008 Nov 15;7(22):3514-8. Epub 2008 Nov 12.
+
+Specification of the germ cell lineage in mice: a process orchestrated by the
+PR-domain proteins, Blimp1 and Prdm14.
+
+Kurimoto K(1), Yamaji M, Seki Y, Saitou M.
+
+Author information: 
+(1)Laboratory for Mammalian Germ Cell Biology, RIKEN Center for Developmental
+Biology, Chuo-ku, Kobe, Japan.
+
+Germ cell specification in mice, which generates primordial germ cells (PGCs),
+the common source of the oocytes and spermatozoa, from the epiblast, integrates
+three key events: repression of the somatic program, re-acquisition of potential 
+pluripotency, and genome-wide epigenetic reprogramming. A PR-domain containing
+protein, Blimp1 (also known as Prdm1), has been identified as a critical factor
+for PGC specification. Using a highly representative single-cell microarray
+technology, we identified a complex but highly ordered genome-wide transcription 
+dynamics associated with PGC specification. This analysis not only demonstrated a
+dominant role of Blimp1 for the repression of the genes normally downregulated in
+PGCs relative to their somatic neighbors, but also revealed the presence of gene 
+expression programs initiating independently from Blimp1. Among such programs, we
+identified Prdm14, another PR-domain containing protein, as a key regulator for
+the re-acquisition of potential pluripotency and genome-wide epigenetic
+reprogramming. The launch of the germ cell lineage in mice, therefore, is
+orchestrated by two independently acquired, PR domain-containing transcriptional 
+regulators, Blimp1 and Prdm14.
+
+PMID: 19001867  [PubMed - indexed for MEDLINE]
+
+
+76. Nat Genet. 2008 Aug;40(8):1016-22. doi: 10.1038/ng.186. Epub 2008 Jul 11.
+
+Critical function of Prdm14 for the establishment of the germ cell lineage in
+mice.
+
+Yamaji M(1), Seki Y, Kurimoto K, Yabuta Y, Yuasa M, Shigeta M, Yamanaka K,
+Ohinata Y, Saitou M.
+
+Author information: 
+(1)Laboratory for Mammalian Germ Cell Biology, Center for Developmental Biology, 
+RIKEN Kobe Institute, 2-2-3 Minatojima-Minamimachi, Chuo-ku, Kobe 650-0047,
+Japan.
+
+Comment in
+    Nat Genet. 2008 Aug;40(8):934-5.
+
+Specification of germ cell fate is fundamental in development and heredity.
+Recent evidence indicates that in mice, specification of primordial germ cells
+(PGCs), the common source of both oocytes and spermatozoa, occurs through the
+integration of three key events: repression of the somatic program, reacquisition
+of potential pluripotency and ensuing genome-wide epigenetic reprogramming. Here 
+we provide genetic evidence that Prdm14, a PR domain-containing transcriptional
+regulator with exclusive expression in the germ cell lineage and pluripotent cell
+lines, is critical in two of these events, the reacquisition of potential
+pluripotency and successful epigenetic reprogramming. In Prdm14 mutants, the
+failure of these two events manifests even in the presence of Prdm1 (also known
+as Blimp1), a key transcriptional regulator for PGC specification. Our combined
+evidence demonstrates that Prdm14 defines a previously unknown genetic pathway,
+initiating independently from Prdm1, for ensuring the launching of the mammalian 
+germ cell lineage.
+
+PMID: 18622394  [PubMed - indexed for MEDLINE]
+
+
+77. Biochem Biophys Res Commun. 2008 Mar 21;367(4):899-905. doi:
+10.1016/j.bbrc.2007.12.189. Epub 2008 Jan 14.
+
+PRDM14 suppresses expression of differentiation marker genes in human embryonic
+stem cells.
+
+Tsuneyoshi N(1), Sumi T, Onda H, Nojima H, Nakatsuji N, Suemori H.
+
+Author information: 
+(1)Laboratory of Embryonic Stem Cell Research, Stem Cell Research Center,
+Institute for Frontier Medical Sciences, Kyoto University, 53 Kawahara-cho,
+Shogoin, Sakyo-ku, Kyoto 606-8507, Japan.
+
+PRDM14 was identified by microarray analysis and was expressed in specifically
+undifferentiated human ES cells. PRDM14 protein is thought to regulate gene
+transcription in human ES cells, as it contains a PR domain, a subtype of the SET
+domain which catalyzes histone methylation. To analyze the function of PRDM14, we
+performed knock-down and forced expression of PRDM14 in human ES cells.
+Knock-down of PRDM14 by siRNA induced expression of early differentiation marker 
+genes. Forced expression of PRDM14 suppressed expression of differentiation
+marker genes in the embryoid body. These results suggest that PRDM14 is involved 
+in the maintenance of the self-renewal of human ES cells by suppression of gene
+expression.
+
+PMID: 18194669  [PubMed - indexed for MEDLINE]
+
+
+78. Cancer Res. 2007 Oct 15;67(20):9649-57.
+
+Gene amplification and overexpression of PRDM14 in breast cancers.
+
+Nishikawa N(1), Toyota M, Suzuki H, Honma T, Fujikane T, Ohmura T, Nishidate T,
+Ohe-Toyota M, Maruyama R, Sonoda T, Sasaki Y, Urano T, Imai K, Hirata K, Tokino
+T.
+
+Author information: 
+(1)Department of Molecular Biology, Cancer Research Institute, Sapporo Medical
+University, Sapporo, Japan.
+
+Several genes that encode PR (PRDI-BF1 and RIZ) domain proteins (PRDM) have been 
+linked to human cancers. To explore the role of the PR domain family genes in
+breast carcinogenesis, we examined the expression profiles of 16 members of the
+PRDM gene family in a panel of breast cancer cell lines and primary breast cancer
+specimens using semiquantitative real-time PCR. We found that PRDM14 mRNA is
+overexpressed in about two thirds of breast cancers; moreover,
+immunohistochemical analysis showed that expression of PRDM14 protein is also
+up-regulated. Analysis of the gene copy number revealed that PRDM14 is a target
+of gene amplification on chromosome 8q13, which is a region where gene
+amplification has frequently been detected in various human tumors. Introduction 
+of PRDM14 into cancer cells enhanced cell growth and reduced their sensitivity to
+chemotherapeutic drugs. Conversely, knockdown of PRDM14 by siRNA induced
+apoptosis in breast cancer cells and increased their sensitivity to
+chemotherapeutic drugs, suggesting that up-regulated expression of PRDM14 may
+play an important role in the proliferation of breast cancer cells. That little
+or no expression of PRDM14 is seen in noncancerous tissues suggests that PRDM14
+could be an ideal therapeutic target for the treatment of breast cancer.
+
+PMID: 17942894  [PubMed - indexed for MEDLINE]
+
+

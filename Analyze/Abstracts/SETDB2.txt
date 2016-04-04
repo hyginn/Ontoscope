@@ -1,0 +1,849 @@
+
+1. J Ovarian Res. 2016 Mar 15;9(1):15. doi: 10.1186/s13048-016-0225-z.
+
+Changes in gene expression of histone modification enzymes in rat granulosa cells
+undergoing luteinization during ovulation.
+
+Maekawa R(1), Lee L(1), Okada M(1), Asada H(1), Shinagawa M(1), Tamura I(1), Sato
+S(1), Tamura H(1), Sugino N(2).
+
+Author information: 
+(1)Department of Obstetrics and Gynecology, Yamaguchi University Graduate School 
+of Medicine, Minamikogushi 1-1-1, Ube, 755-8505, Japan. (2)Department of
+Obstetrics and Gynecology, Yamaguchi University Graduate School of Medicine,
+Minamikogushi 1-1-1, Ube, 755-8505, Japan. sugino@yamaguchi-u.ac.jp.
+
+BACKGROUND: The ovulatory LH surge rapidly alters the expression of
+steroidogenesis-related genes such as steroidogenic acute regulatory protein
+(StAR) in granulosa cells (GCs) undergoing luteinization. We recently reported
+that histone modifications contribute to these changes. Histone modifications are
+regulated by a variety of histone modification enzymes. This study investigated
+the changes in gene expression of histone modification enzymes in rat GCs
+undergoing luteinization after the induction of ovulation. The extracellular
+regulated kinase (ERK)-1/2 is a mediator in the intracellular signaling pathway
+stimulated by the ovulatory LH surge and regulates the expression of a number of 
+genes in GCs. We further investigated whether ERK-1/2 is involved in the
+regulation of the histone modification at the StAR promoter region in GCs
+undergoing luteinization.
+RESULTS: GCs were obtained from rats treated with equine chorionic gonadotropin
+(CG) before (0 h) and after human (h) CG injection. The expressions of 84 genes
+regulating histone modifications or DNA methylation were measured using a PCR
+array. Five genes (HDAC4, HDAC10, EZH2, SETDB2, and CIITA) were identified as
+histone acetylation- or histone methylation-related genes, and were significantly
+altered after hCG injection. None of the genes were related to DNA methylation.
+mRNA levels of EZH2, SETDB2, HDAC4, and HDAC10 decreased and CIITA mRNA levels
+increased 4 or 12 h after hCG injection. GCs isolated after eCG injection were
+incubated with hCG for 4 h to induce luteinization. StAR mRNA levels were
+significantly increased by hCG accompanied by the increase in H3K4me3 of the StAR
+promoter region. StAR mRNA expression was inhibited by the ERK inhibitor with the
+significant decrease of H3K4me3. These results suggest that hCG increases StAR
+gene expression through the ERK-1/2-mediated signaling which is also associated
+with histone modification of the promoter region.
+CONCLUSIONS: Gene expressions of histone modification enzymes change in GCs
+undergoing luteinization after ovulation induction. This change may play
+important roles in regulating the expression of various genes during the early
+stage of luteinization, which may be critical for the subsequent corpus luteum
+formation.
+
+PMCID: PMC4793631
+PMID: 26979106  [PubMed - in process]
+
+
+2. PLoS Pathog. 2015 Dec 28;11(12):e1005338. doi: 10.1371/journal.ppat.1005338.
+eCollection 2015.
+
+Type I Interferon Induced Epigenetic Regulation of Macrophages Suppresses Innate 
+and Adaptive Immunity in Acute Respiratory Viral Infection.
+
+Kroetz DN(1), Allen RM(1), Schaller MA(1), Cavallaro C(1), Ito T(2), Kunkel
+SL(1).
+
+Author information: 
+(1)Department of Pathology, University of Michigan, Ann Arbor, Michigan, United
+States of America. (2)Department of Immunology, Nara Medical University, Nara,
+Japan.
+
+Influenza A virus (IAV) is an airborne pathogen that causes significant morbidity
+and mortality each year. Macrophages (M<U+03D5>) are the first immune population to
+encounter IAV virions in the lungs and are required to control infection. In the 
+present study, we explored the mechanism by which cytokine signaling regulates
+the phenotype and function of M<U+03D5> via epigenetic modification of chromatin. We
+have found that type I interferon (IFN-I) potently upregulates the lysine
+methyltransferase Setdb2 in murine and human M<U+03D5>, and in turn Setdb2 regulates
+M<U+03D5>-mediated immunity in response to IAV. The induction of Setdb2 by IFN-I was
+significantly impaired upon inhibition of the JAK-STAT signaling cascade, and
+chromatin immunoprecipitation revealed that both STAT1 and interferon regulatory 
+factor 7 bind upstream of the transcription start site to induce expression. The 
+generation of Setdb2LacZ reporter mice revealed that IAV infection results in
+systemic upregulation of Setdb2 in myeloid cells. In the lungs, alveolar M<U+03D5>
+expressed the highest level of Setdb2, with greater than 70% lacZ positive on day
+4 post-infection. Silencing Setdb2 activity in M<U+03D5> in vivo enhanced survival in
+lethal IAV infection. Enhanced host protection correlated with an amplified
+antiviral response and less obstruction to the airways. By tri-methylating H3K9, 
+Setdb2 silenced the transcription of Mx1 and Isg15, antiviral effectors that
+inhibit IAV replication. Accordingly, a reduced viral load in knockout mice on
+day 8 post-infection was linked to elevated Isg15 and Mx1 transcript in the
+lungs. In addition, Setdb2 suppressed the expression of a large number of other
+genes with proinflammatory or immunomodulatory function. This included Ccl2, a
+chemokine that signals through CCR2 to regulate monocyte recruitment to
+infectious sites. Consistently, knockout mice produced more CCL2 upon IAV
+infection and this correlated with a 2-fold increase in the number of
+inflammatory monocytes and alveolar M<U+03D5> in the lungs. Finally, Setdb2 expression
+by M<U+03D5> suppressed IL-2, IL-10, and IFN-<U+03B3> production by CD4+ T cells in vitro, as
+well as proliferation in IAV-infected lungs. Collectively, these findings
+identify Setdb2 as a novel regulator of the immune system in acute respiratory
+viral infection.
+
+PMCID: PMC4692439
+PMID: 26709698  [PubMed - in process]
+
+
+3. Genet Mol Res. 2015 Dec 8;14(4):16169-77. doi: 10.4238/2015.December.8.6.
+
+Single nucleotide polymorphisms associated with growth traits in Jinghai yellow
+chickens.
+
+Abdalhag MA(1), Zhang T(1), Fan QC(1), Zhang XQ(1), Zhang GX(1), Wang JY(1), Wei 
+Y(1), Wang YJ(2).
+
+Author information: 
+(1)College of Animal Science and Technology, Yangzhou University, Yangzhou,
+Jiangsu, China. (2)Jiangsu Jinghai Poultry Group Co., Ltd., Nantong, Jiangsu,
+China.
+
+Body weight is one of the most important economic traits in the poultry industry.
+In the present study, a custom SNP Beadchip was used to analyze the association
+between those 15 SNPs and 12 growth traits of Jinghai yellow chickens, and other 
+important genetic parameters were also calculated and analyzed. The results
+indicated that nine of the 15 SNPs were associated with growth traits in Jinghai 
+yellow chickens (P < 0.05), and the identified SNPs were also in linkage
+disequilibrium. Five of the nine identified SNPs were mainly associated with all 
+of the growth traits, which indicated that those five SNPs might have significant
+influence on Jinghai yellow chicken growth traits. Polymorphism information
+content (PIC) analyses indicated that five of the nine SNPs exhibited moderate
+polymorphism (0.25 < PIC < 0.5), which reflected intermediate genetic diversity. 
+Six candidate genes surrounding the significant SNPs were obtained and subjected 
+to Gene Ontology annotation analyses and pathway analyses. The functions of six
+important candidate genes (SETDB2, ATP7B, INTS6, KPNA3, DLEU7, and FOXO1A) were
+discussed. The present study provided basic data for marker-assisted selection in
+Jinghai yellow chickens.
+
+PMID: 26662409  [PubMed - in process]
+
+
+4. Mol Neurobiol. 2015 Nov 16. [Epub ahead of print]
+
+Left-Right Axis Differentiation and Functional Lateralization: a Haplotype in the
+Methyltransferase Encoding Gene SETDB2 Might Mediate Handedness in Healthy
+Adults.
+
+Ocklenburg S(1), Arning L(2), Gerding WM(2), Hengstler JG(3), Epplen JT(2,)(4),
+Güntürkün O(5), Beste C(6), Akkad DA(2).
+
+Author information: 
+(1)Institute of Cognitive Neuroscience, Biopsychology, Department of Psychology, 
+Ruhr-University, 44780, Bochum, Germany. sebastian.ocklenburg@rub.de.
+(2)Department of Human Genetics, Ruhr-University, 44780, Bochum, Germany.
+(3)Leibniz Research Centre for Working Environment and Human Factors (IfADo),
+44139, Dortmund, Germany. (4)Faculty of Health, University Witten-Herdecke,
+58448, Witten, Germany. (5)Institute of Cognitive Neuroscience, Biopsychology,
+Department of Psychology, Ruhr-University, 44780, Bochum, Germany. (6)Cognitive
+Neurophysiology, Department of Child and Adolescent Psychiatry, Faculty of
+Medicine of the TU Dresden, 01309, Dresden, Germany.
+
+Handedness is a multifactorial trait, and genes contributing to the
+differentiation of the left-right axis during embryogenesis have been identified 
+as a major gene group associated with this trait. The methyltransferase SETDB2
+(SET domain, bifurcated 2) has been shown to regulate structural left-right
+asymmetry in the vertebrate central nervous system by suppressing fgf8
+expression. Here, we investigated the relation of genetic variation in SETDB2-and
+its paralogue SETDB1-with different handedness phenotypes in 950 healthy adult
+participants. We identified a haplotype on SETDB2 for which homozygous
+individuals showed a significantly lower lateralization quotient for handedness
+than the rest of the cohort after correction for multiple comparisons. Moreover, 
+direction of handedness was significantly associated with genetic variation in
+this haplotype. This effect was mainly, but not exclusively, driven by the
+sequence variation rs4942830, as individuals homozygous for the A allele of this 
+single nucleotide polymorphism had a significantly lower lateralization quotient 
+than individuals with at least one T allele. These findings further confirm a
+role of genetic pathways relevant for structural left-right axis differentiation 
+for functional lateralization. Moreover, as the protein encoded by SETDB2
+regulates gene expression epigenetically by histone H3 methylation, our findings 
+highlight the importance of investigating the role of epigenetic modulations of
+gene expression in relation to handedness.
+
+PMID: 26572639  [PubMed - as supplied by publisher]
+
+
+5. Canine Genet Epidemiol. 2015 Apr 18;2:5. doi: 10.1186/s40575-015-0018-5.
+eCollection 2015.
+
+Homozygosity mapping and sequencing identify two genes that might contribute to
+pointing behavior in hunting dogs.
+
+Akkad DA(1), Gerding WM(1), Gasser RB(2), Epplen JT(3).
+
+Author information: 
+(1)Human Genetics, Ruhr University Bochum, Universitaetsstrasse 150, Bochum,
+44801 Germany. (2)Faculty of Veterinary and Agricultural Sciences, The University
+of Melbourne, Parkville, Victoria 3010 Australia. (3)Human Genetics, Ruhr
+University Bochum, Universitaetsstrasse 150, Bochum, 44801 Germany ; Faculty of
+Health, University Witten-Herdecke, Alfred-Herrhausen-Strasse 50, Witten, 58448
+Germany.
+
+BACKGROUND: The domestic dog represents an important model for studying the
+genetics of behavior. In spite of technological advances in genomics and
+phenomics, the genetic basis of most specific canine behaviors is largely
+unknown. Some breeds of hunting dogs exhibit a behavioral trait called "pointing"
+(a prolonged halt of movement to indicate the position of a game animal). Here,
+the genomes of pointing dogs (Large Munsterlander and Weimaraner) were compared
+with those of behaviorally distinct herding dogs (Berger des Pyrenées and
+Schapendoes). We assumed (i) that these four dog breeds initially represented
+inbred populations and (ii) that selective breeding for pointing behavior
+promotes an enrichment of the genetic trait in a homozygous state.
+RESULTS: The homozygosity mapping of 52 dogs (13 of each of the four breeds)
+followed by subsequent interval resequencing identified fixed genetic differences
+on chromosome 22 between pointers and herding dogs. In addition, we identified
+one non-synonomous variation in each of the coding genes SETDB2 and CYSLTR2 that 
+might have a functional consequence. Genetic analysis of additional hunting and
+non-hunting dogs revealed consistent homozygosity for these two variations in six
+of seven pointing breeds.
+CONCLUSIONS: Based on the present findings, we propose that, together with other 
+genetic, training and/or environmental factors, the nucleotide and associated
+amino acid variations identified in genes SETDB2 and CYSLTR2 contribute to
+pointing behavior.
+
+PMCID: PMC4579392
+PMID: 26401333  [PubMed]
+
+
+6. Genes Immun. 2015 Oct;16(7):488-94. doi: 10.1038/gene.2015.36. Epub 2015 Sep 17.
+
+A functional AT/G polymorphism in the 5'-untranslated region of SETDB2 in the IgE
+locus on human chromosome 13q14.
+
+Holt RJ(1), Vandiedonck C(1), Willis-Owen SA(2), Knight JC(1), Cookson WO(2),
+Moffatt MF(2), Zhang Y(2).
+
+Author information: 
+(1)Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, UK.
+(2)Molecular Genomics and Genetics Group, National Heart and Lung Institute,
+Imperial College London, London, UK.
+
+The immunoglobulin E (IgE)-associated locus on human chromosome 13q14 influencing
+asthma-related traits contains the genes PHF11 and SETDB2. SETDB2 is located in
+the same linkage disequilibrium region as PHF11 and polymorphisms within SETDB2
+have been shown to associate with total serum IgE levels. In this report, we
+sequenced the 15 exons of SETDB2 and identified a single previously ungenotyped
+mutation (AT/G, rs386770867) in the 5'-untranslated region of the gene. The
+polymorphism was found to be significantly associated with serum IgE levels in
+our asthma cohort (P=0.0012). Electrophoretic mobility shift assays revealed that
+the transcription factor Ying Yang 1 binds to the AT allele, whereas SRY (Sex
+determining Region Y) binds to the G allele. Allele-specific transcription
+analysis (allelotyping) was performed in 35 individuals heterozygous for
+rs386770867 from a panel of 200 British families ascertained through probands
+with severe stage 3 asthma. The AT allele was found to be significantly
+overexpressed in these individuals (P=1.26×10(-21)). A dual-luciferase assay with
+the pGL3 luciferase reporter gene showed that the AT allele significantly affects
+transcriptional activities. Our results indicate that the IgE-associated AT/G
+polymorphism (rs386770867) regulates transcription of SETDB2.
+
+PMCID: PMC4763160
+PMID: 26378653  [PubMed - in process]
+
+
+7. PLoS One. 2015 Apr 13;10(4):e0119234. doi: 10.1371/journal.pone.0119234.
+eCollection 2015.
+
+Epigenetic modulations in activated cells early after HIV-1 infection and their
+possible functional consequences.
+
+Maricato JT(1), Furtado MN(2), Takenaka MC(1), Nunes ER(2), Fincatti P(2), Meliso
+FM(3), da Silva ID(2), Jasiulionis MG(3), Cecília de Araripe Sucupira M(2), Diaz 
+RS(2), Janini LM(4).
+
+Author information: 
+(1)Department of Microbiology, Immunology and Parasitology, Paulista Medical
+School, Federal University of São Paulo, São Paulo, Brazil. (2)Department of
+Medicine, Federal University of São Paulo, São Paulo, Brazil. (3)Department of
+Pharmacology, Federal University of São Paulo, São Paulo, Brazil. (4)Department
+of Microbiology, Immunology and Parasitology, Paulista Medical School, Federal
+University of São Paulo, São Paulo, Brazil; Department of Medicine, Federal
+University of São Paulo, São Paulo, Brazil.
+
+Epigenetic modifications refer to a number of biological processes which alter
+the structure of chromatin and its transcriptional activity such as DNA
+methylation and histone post-translational processing. Studies have tried to
+elucidate how the viral genome and its products are affected by epigenetic
+modifications imposed by cell machinery and how it affects the ability of the
+virus to either, replicate and produce a viable progeny or be driven to latency. 
+The purpose of this study was to evaluate epigenetic modifications in PBMCs and
+CD4+ cells after HIV-1 infection analyzing three approaches: (i) global DNA-
+methylation; (ii) qPCR array and (iii) western blot. HIV-1 infection led to
+methylation increases in the cellular DNA regardless the activation status of
+PBMCs. The analysis of H3K9me3 and H3K27me3 suggested a trend towards
+transcriptional repression in activated cells after HIV-1 infection. Using a qPCR
+array, we detected genes related to epigenetic processes highly modulated in
+activated HIV-1 infected cells. SETDB2 and RSK2 transcripts showed highest
+up-regulation levels. SETDB2 signaling is related to transcriptional silencing
+while RSK2 is related to either silencing or activation of gene expression
+depending on the signaling pathway triggered down-stream. In addition, activated 
+cells infected by HIV-1 showed lower CD69 expression and a decrease of IL-2,
+IFN-<U+03B3> and metabolism-related factors transcripts indicating a possible functional
+consequence towards global transcriptional repression found in HIV-1 infected
+cells. Conversely, based on epigenetic markers studied here, non-stimulated cells
+infected by HIV-1, showed signs of global transcriptional activation. Our results
+suggest that HIV-1 infection exerts epigenetic modulations in activated cells
+that may lead these cells to transcriptional repression with important functional
+consequences. Moreover, non-stimulated cells seem to increase gene transcription 
+after HIV-1 infection. Based on these observations, it is possible to speculate
+that the outcome of viral infections may be influenced by the cellular activation
+status at the moment of infection.
+
+PMCID: PMC4395311
+PMID: 25875202  [PubMed - in process]
+
+
+8. Oncotarget. 2015 Feb 10;6(4):2466-82.
+
+Genetic alterations of histone lysine methyltransferases and their significance
+in breast cancer.
+
+Liu L(1), Kimball S(1), Liu H(1), Holowatyj A(1), Yang ZQ(1).
+
+Author information: 
+(1)Department of Oncology, Karmanos Cancer Institute, Wayne State University,
+Detroit, MI, USA.
+
+Histone lysine methyltransferases (HMTs), a large class of enzymes that catalyze 
+site-specific methylation of lysine residues on histones and other proteins, play
+critical roles in controlling transcription, chromatin architecture, and cellular
+differentiation. However, the genomic landscape and clinical significance of HMTs
+in breast cancer remain poorly characterized. Here, we conducted a meta-analysis 
+of approximately 50 HMTs in breast cancer and identified associations among
+recurrent copy number alterations, mutations, gene expression, and clinical
+outcome. We identified 12 HMTs with the highest frequency of genetic alterations,
+including 8 with high-level amplification, 2 with putative homozygous deletion,
+and 2 with somatic mutation. Different subtypes of breast cancer have different
+patterns of copy number and expression for each HMT gene. In addition, chromosome
+1q contains four HMTs that are concurrently or independently amplified or
+overexpressed in breast cancer. Copy number or mRNA expression of several HMTs
+was significantly associated with basal-like breast cancer and shorter patient
+survival. Integrative analysis identified 8 HMTs (SETDB1, SMYD3, ASH1L, SMYD2,
+WHSC1L1, SUV420H1, SETDB2, and KMT2C) that are dysregulated by genetic
+alterations, classifying them as candidate therapeutic targets. Together, our
+findings provide a strong foundation for further mechanistic research and
+therapeutic options using HMTs to treat breast cancer.
+
+PMCID: PMC4385864
+PMID: 25537518  [PubMed - indexed for MEDLINE]
+
+
+9. Nat Immunol. 2015 Jan;16(1):67-74. doi: 10.1038/ni.3046. Epub 2014 Nov 24.
+
+The methyltransferase Setdb2 mediates virus-induced susceptibility to bacterial
+superinfection.
+
+Schliehe C(1), Flynn EK(2), Vilagos B(1), Richson U(1), Swaminathan S(3), Bosnjak
+B(4), Bauer L(1), Kandasamy RK(1), Griesshammer IM(1), Kosack L(1), Schmitz F(3),
+Litvak V(5), Sissons J(3), Lercher A(1), Bhattacharya A(1), Khamina K(1), Trivett
+AL(2), Tessarollo L(2), Mesteri I(6), Hladik A(7), Merkler D(8), Kubicek S(1),
+Knapp S(7), Epstein MM(4), Symer DE(9), Aderem A(3), Bergthaler A(1).
+
+Author information: 
+(1)CeMM Research Center for Molecular Medicine of the Austrian Academy of
+Sciences, Vienna, Austria. (2)Center for Cancer Research, National Cancer
+Institute, Frederick, Maryland, USA. (3)Seattle Biomedical Research Institute,
+Seattle, Washington, USA. (4)Department of Dermatology, DIAID, Experimental
+Allergy, Medical University of Vienna, Vienna, Austria. (5)University of
+Massachusetts, Worcester, Massachusetts, USA. (6)Department of Pathology, Medical
+University of Vienna, Vienna, Austria. (7)1] CeMM Research Center for Molecular
+Medicine of the Austrian Academy of Sciences, Vienna, Austria. [2] Department of 
+Medicine 1, Medical University of Vienna, Vienna, Austria. (8)1] Department of
+Pathology and Immunology, Division of Clinical Pathology, University &University 
+Hospital of Geneva, Geneva, Switzerland. [2] Department of Neuropathology,
+Georg-August-University Goettingen, Germany. (9)1] Center for Cancer Research,
+National Cancer Institute, Frederick, Maryland, USA. [2] Human Cancer Genetics
+Program, Department of Molecular Virology, Immunology and Medical Genetics, and
+Department of Internal Medicine, Ohio State University Comprehensive Cancer
+Center, Columbus, Ohio, USA.
+
+Comment in
+    Nat Immunol. 2015 Jan;16(1):6-8.
+
+Immune responses are tightly regulated to ensure efficient pathogen clearance
+while avoiding tissue damage. Here we report that Setdb2 was the only protein
+lysine methyltransferase induced during infection with influenza virus. Setdb2
+expression depended on signaling via type I interferons, and Setdb2 repressed
+expression of the gene encoding the neutrophil attractant CXCL1 and other genes
+that are targets of the transcription factor NF-<U+03BA>B. This coincided with occupancy
+by Setdb2 at the Cxcl1 promoter, which in the absence of Setdb2 displayed
+diminished trimethylation of histone H3 Lys9 (H3K9me3). Mice with a hypomorphic
+gene-trap construct of Setdb2 exhibited increased infiltration of neutrophils
+during sterile lung inflammation and were less sensitive to bacterial
+superinfection after infection with influenza virus. This suggested that a
+Setdb2-mediated regulatory crosstalk between the type I interferons and NF-<U+03BA>B
+pathways represents an important mechanism for virus-induced susceptibility to
+bacterial superinfection.
+
+PMCID: PMC4320687
+PMID: 25419628  [PubMed - indexed for MEDLINE]
+
+
+10. Mamm Genome. 2014 Dec;25(11-12):573-82. doi: 10.1007/s00335-014-9535-x. Epub 2014
+Aug 5.
+
+Functional analysis of a novel ENU-induced PHD finger 11 (Phf11) mouse mutant.
+
+Zhang Y(1), Dean C, Chessum L, Nguyen D, Stewart M, Taylor M, Cookson WO, Moffatt
+MF.
+
+Author information: 
+(1)Molecular Genetics and Genomics Group, Division of Respiratory Sciences,
+National Heart and Lung Institute, Imperial College London, Dovehouse Street,
+London, SW3 6LY, UK, y.zhang@imperial.ac.uk.
+
+Previously, human genetic studies have shown association between polymorphisms
+within the gene encoding plant homeodomain zinc finger protein 11 (PHF11) and
+asthma-related phenotypes. Initial functional studies have suggested that PHF11
+may be involved in the immune response through regulation of T cell activities.
+In order to study further the gene's functions, we have investigated the mouse
+Phf11 locus. We have established and characterised a mouse line harbouring a
+point mutation in the PHD domain of Phf11. Full-length mouse cDNA for Phf11 was
+obtained by applying rapid amplification of cDNA ends (RACE). All five exons
+encoding the PHD domain of Phf11 were directly sequenced in 3840 mouse DNA
+samples from the UK MRC Harwell ENU (N-ethyl-N-nitrosourea)-mutagenised DNA
+archive. Mice harbouring a valine to alanine substitution, predicted to have a
+significant functional impact on the PHD zinc finger domain, were re-derived.
+These Phf11 mutant mice were outcrossed to C3H mice and then backcrossed for ten 
+generations in order to establish a congenic line harbouring the single point
+mutation in Phf11. Macroscopic examination, haematology and histological
+examination of lung structure revealed no significant differences between mutant 
+and wild-type mice. After administration of lipopolysaccharide, the level of
+expression of Il2, NF-kB and Setdb2 were significantly increased in Phf11 mutant 
+homozygous lungs compared to control littermates. Our results provide evidence
+that Phf11 can operate as a Th1 cell regulator in immune responses. Moreover, our
+data indicate that these mice may provide a useful model for future studies on
+Phf11.
+
+PMCID: PMC4239810
+PMID: 25091723  [PubMed - indexed for MEDLINE]
+
+
+11. Hum Pathol. 2014 Aug;45(8):1674-81. doi: 10.1016/j.humpath.2014.04.013. Epub 2014
+Apr 24.
+
+Frameshift mutation of a histone methylation-related gene SETD1B and its regional
+heterogeneity in gastric and colorectal cancers with high microsatellite
+instability.
+
+Choi YJ(1), Oh HR(1), Choi MR(1), Gwak M(1), An CH(2), Chung YJ(3), Yoo NJ(1),
+Lee SH(4).
+
+Author information: 
+(1)Department of Pathology, College of Medicine, The Catholic University of
+Korea, Seoul 137-701, Korea. (2)Department of General Surgery, College of
+Medicine, The Catholic University of Korea, Seoul 137-701, Korea. (3)Department
+of Microbiology, College of Medicine, The Catholic University of Korea, Seoul
+137-701, Korea. (4)Department of Pathology, College of Medicine, The Catholic
+University of Korea, Seoul 137-701, Korea. Electronic address:
+suhulee@catholic.ac.kr.
+
+Histone methyltransferase (HMT), which catalyzes a histone methylation, is
+frequently altered in cancers at mutation and expression levels. The aims of this
+study were to explore whether SETD1B, SETDB2, and SETD2, SET domain-containing
+HMT genes, are mutated and expressionally altered in gastric (GC) and colorectal 
+cancers (CRC). In a public database, we found that SETD1B, SETDB2, and SETD2 had 
+mononucleotide repeats in coding sequences that might be mutation targets in
+cancers with microsatellite instability (MSI). We analyzed the mutations in 76
+GCs and 93 CRCs and found SETD1B (38.7% of GC and 35.6% of CRC with high MSI
+[MSI-H]), SETDB2 (11.1% of CRC with MSI-H), and SETD2 frameshift mutations (6.7% 
+of CRC with MSI-H). These mutations were not found in stable MSI/low MSI. In
+addition, we analyzed intratumoral heterogeneity (ITH) of SETD1B mutation in 6
+CRCs and found that 2 CRCs harbored regional ITH of SETD1B. We also analyzed
+SETD1B expression in GC and CRC by immunohistochemistry. Loss of SETD1B
+expression was identified in 15% to 55% of the GC and CRC with respect to the MSI
+status. Of note, the loss of expression was more common in those with SETD1B
+mutations than those with wild-type SETD1B. We identified alterations of SET
+domain-containing HMT at various levels (frameshift mutations, genetic ITH, and
+expression loss), which together might play a role in tumorigenesis of GC and CRC
+with MSI-H. Our data suggest that mutation analysis in multiple regions is needed
+for a better evaluation of mutation status in CRC with MSI-H.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+PMID: 24925220  [PubMed - indexed for MEDLINE]
+
+
+12. Dev Biol. 2014 Aug 15;392(2):233-44. doi: 10.1016/j.ydbio.2014.05.022. Epub 2014 
+Jun 2.
+
+Setdb2 controls convergence and extension movements during zebrafish gastrulation
+by transcriptional regulation of dvr1.
+
+Du TT(1), Xu PF(2), Dong ZW(3), Fan HB(3), Jin Y(1), Dong M(3), Chen Y(1), Pan
+WJ(3), Ren RB(1), Liu TX(4), Deng M(5), Huang QH(6).
+
+Author information: 
+(1)State Key Laboratory for Medical Genomics, Shanghai Institute of Hematology,
+RuiJin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai,
+China. (2)Department of Cell Biology, University of Virginia, Charlottesville,
+VA, USA. (3)Key Laboratory of Stem Cell Biology, Institute of Health Sciences,
+Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences,
+Shanghai, China. (4)State Key Laboratory for Medical Genomics, Shanghai Institute
+of Hematology, RuiJin Hospital, Shanghai Jiao Tong University School of Medicine,
+Shanghai, China; Key Laboratory of Stem Cell Biology, Institute of Health
+Sciences, Shanghai Institutes for Biological Sciences, Chinese Academy of
+Sciences, Shanghai, China. (5)Key Laboratory of Stem Cell Biology, Institute of
+Health Sciences, Shanghai Institutes for Biological Sciences, Chinese Academy of 
+Sciences, Shanghai, China. Electronic address: mdeng@sibs.ac.cn. (6)State Key
+Laboratory for Medical Genomics, Shanghai Institute of Hematology, RuiJin
+Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.
+Electronic address: HQH10632@rjh.com.cn.
+
+As the primary driving forces of gastrulation, convergence and extension (C&E)
+movements lead to a medio-lateral narrowing and an anterior-posterior elongation 
+of the embryonic body axis. Histone methylation as a post-translational
+modification plays a critical role in early embryonic development, but its
+functions in C&E movements remain largely unknown. Here, we show that the
+setdb2-dvr1 transcriptional cascade plays a critical role in C&E movements during
+zebrafish gastrulation. Knockdown of Setdb2, a SET domain-containing protein
+possessing a potential histone H3K9 methyltransferase activity, induced abnormal 
+C&E movements, resulting in anterior-posterior shortening and medio-lateral
+expansion of the embryonic axis, as well as abnormal notochord cell polarity.
+Furthermore, we found that Setdb2 functions through fine-tuning the expression of
+dvr1, a ligand of the TGF-ß superfamily, to an appropriate level to ensure proper
+C&E movements in a non-cell-autonomous manner. In addition, both overexpression
+and knockdown of Dvr1 at the one-cell stage resulted in defects at epiboly and
+C&E. These data demonstrate that Setdb2 is a novel regulator for C&E movements
+and acts by modulating the expression level of dvr1, suggesting that Dvr1 acts as
+a direct and essential mediator for C&E cell movements.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+PMID: 24892953  [PubMed - indexed for MEDLINE]
+
+
+13. Autism Res. 2012 Dec;5(6):385-97. doi: 10.1002/aur.1251. Epub 2012 Oct 10.
+
+The expanding role of MBD genes in autism: identification of a MECP2 duplication 
+and novel alterations in MBD5, MBD6, and SETDB1.
+
+Cukier HN(1), Lee JM, Ma D, Young JI, Mayo V, Butler BL, Ramsook SS, Rantus JA,
+Abrams AJ, Whitehead PL, Wright HH, Abramson RK, Haines JL, Cuccaro ML,
+Pericak-Vance MA, Gilbert JR.
+
+Author information: 
+(1)John P. Hussman Institute for Human Genomics, University of Miami, Miller
+School of Medicine, Miami, FL 33136, USA.
+
+The methyl-CpG-binding domain (MBD) gene family was first linked to autism over a
+decade ago when Rett syndrome, which falls under the umbrella of autism spectrum 
+disorders (ASDs), was revealed to be predominantly caused by MECP2 mutations.
+Since that time, MECP2 alterations have been recognized in idiopathic ASD
+patients by us and others. Individuals with deletions across the MBD5 gene also
+present with ASDs, impaired speech, intellectual difficulties, repetitive
+behaviors, and epilepsy. These findings suggest that further investigations of
+the MBD gene family may reveal additional associations related to autism. We now 
+describe the first study evaluating individuals with ASD for rare variants in
+four autosomal MBD family members, MBD5, MBD6, SETDB1, and SETDB2, and expand our
+initial screening in the MECP2 gene. Each gene was sequenced over all coding
+exons and evaluated for copy number variations in 287 patients with ASD and an
+equal number of ethnically matched control individuals. We identified 186
+alterations through sequencing, approximately half of which were novel (96
+variants, 51.6%). We identified 17 ASD specific, nonsynonymous variants, four of 
+which were concordant in multiplex families: MBD5 Tyr1269Cys, MBD6 Arg883Trp,
+MECP2 Thr240Ser, and SETDB1 Pro1067del. Furthermore, a complex duplication
+spanning of the MECP2 gene was identified in two brothers who presented with
+developmental delay and intellectual disability. From our studies, we provide the
+first examples of autistic patients carrying potentially detrimental alterations 
+in MBD6 and SETDB1, thereby demonstrating that the MBD gene family potentially
+plays a significant role in rare and private genetic causes of autism.
+
+© 2012 International Society for Autism Research, Wiley Periodicals, Inc.
+
+PMCID: PMC3528798
+PMID: 23055267  [PubMed - indexed for MEDLINE]
+
+
+14. Leukemia. 2011 Mar;25(3):489-97. doi: 10.1038/leu.2010.288. Epub 2010 Dec 10.
+
+13q deletion anatomy and disease progression in patients with chronic lymphocytic
+leukemia.
+
+Parker H(1), Rose-Zerilli MJ, Parker A, Chaplin T, Wade R, Gardiner A, Griffiths 
+M, Collins A, Young BD, Oscier DG, Strefford JC.
+
+Author information: 
+(1)Cancer Genomics Group, Cancer Sciences Division, School of Medicine,
+University of Southampton, Southampton, UK.
+
+Historically, genes targeted by recurrent chromosomal deletions have been
+identified within the smallest genomic region shared in all patients, the
+minimally deleted region (MDR). However, deletions this small do not occur in all
+patients and are a simplification of the impact larger heterogeneous deletions
+have during carcinogenesis. We use the example of 13q14 deletions in chronic
+lymphocytic leukemia to show that genes outside MDRs are associated with disease 
+progression. Genomic profiling of 224 patients identified 205 copy number
+alterations on chromosome 13 in 132 cases. Deletions including DLEU2 were
+heterogeneous (845<U+2009>Kb-96.2<U+2009>Mb) and identified two breakpoint cluster regions
+within short interspersed nuclear elements proximal to DLEU2 and within long
+interspersed nuclear elements/L1 repeats distal to GUCY1B2. After defining a
+deletion class on the basis of size and location, we show that (a) at diagnosis, 
+larger deletions (class II) were associated with a significantly increased risk
+of disease progression (odds ratio=12.3; P=0.005), (b) in progressive patients,
+class II deletions were enriched (P=0.02) and (c) this association was
+independent of IgVH mutational status, ZAP70 expression and ATM/TP53 deletion.
+Deletion of a 1<U+2009>Mb gene cluster (48.2-49.2<U+2009>Mb), including SETDB2, PHF11 and
+RCBTB1, was significantly associated (P<0.01) with disease progression. Here, we 
+show that the deletion of genes outside MDRs can influence clinical outcome.
+
+PMID: 21151023  [PubMed - indexed for MEDLINE]
+
+
+15. Biol Reprod. 2011 Jan;84(1):34-42. doi: 10.1095/biolreprod.110.086215. Epub 2010 
+Sep 8.
+
+Identification and expression of potential regulators of the mammalian
+mitotic-to-meiotic transition.
+
+Hogarth CA(1), Mitchell D, Evanoff R, Small C, Griswold M.
+
+Author information: 
+(1)School of Molecular Biosciences and The Center for Reproductive Biology,
+Washington State University, Pullman, Washington 99164, USA.
+
+Meiosis is unique to germ cells and occurs in a sex-specific manner. The genes
+regulating meiotic initiation in either sex are yet to be fully elucidated.
+Recent studies have revealed the importance of retinoic acid and one of its
+target genes, Stra8, in meiotic initiation in both sexes. Microarray analysis of 
+whole murine embryonic ovary and postnatal testis time course data revealed a
+single peak of Stra8 expression in each organ at the onset of meiosis; at
+Embryonic Day 14.5 in the ovary and 10 days postpartum in the testis. In order to
+identify other genes involved in the initiation of meiosis in mammals, murine
+testis and ovary microarray data were examined more closely for transcripts with 
+expression profiles similar to Stra8. Three such candidates include establishment
+of cohesion 1 homolog 2 (Esco2), encoding a protein essential for sister
+chromatid cohesion; SET domain, bifurcated 2 (Setdb2), the mouse ortholog of
+Eggless, which is essential for oogenesis in Drosophila; and ubiquitin-activating
+enzyme 6 (Uba6), a gene with fivefold higher expression in human and mouse testes
+than any other organ. In situ hybridization and immunohistochemistry or
+immunofluorescence were performed to localize Esco2, Setbd2, and Uba6 expression 
+in the developing testis. The cellular expression pattern localized all three of 
+these transcripts and their respective proteins to germ cells transitioning from 
+mitosis to meiosis, hence supporting the hypothesis of their involvement in the
+initiation of meiosis. Future research will be directed at determining a specific
+role for these three proteins in germ cell differentiation.
+
+PMCID: PMC3012562
+PMID: 20826732  [PubMed - indexed for MEDLINE]
+
+
+16. J Biol Chem. 2010 Jun 25;285(26):20234-41. doi: 10.1074/jbc.M109.052399. Epub
+2010 Apr 19.
+
+CLLD8/KMT1F is a lysine methyltransferase that is important for chromosome
+segregation.
+
+Falandry C(1), Fourel G, Galy V, Ristriani T, Horard B, Bensimon E, Salles G,
+Gilson E, Magdinier F.
+
+Author information: 
+(1)Laboratoire de Biologie Moléculaire de la Cellule, CNRS Unité Mixte de
+Recherche (UMR) 5239, Ecole Normale Supérieure de Lyon (ENS) Lyon, Université
+Claude Bernard Lyon 1 (UCBL1), Institut Fédératìf de Recherche (IFR)128, Faculté 
+de Médecine Lyon Sud, F-69600 Oullins, France.
+
+Proteins bearing a SET domain have been shown to methylate lysine residues in
+histones and contribute to chromatin architecture. Methylation of histone H3 at
+lysine 9 (H3K9) has emerged as an important player in the formation of
+heterochromatin, chromatin condensation, and transcriptional repression. Here, we
+have characterized a previously undescribed member of the histone H3K9
+methyltransferase family named CLLD8 (or SETDB2 or KMT1F). This protein
+contributes to the trimethylation of both interspersed repetitive elements and
+centromere-associated repeats and participates in the recruitment of
+heterochromatin protein 1 to centromeres. Consistently, depletion in CLLD8/KMT1F 
+coincides with a loss of CENP proteins and delayed mitosis, suggesting that this 
+protein participates in chromosome condensation and segregation. Altogether, our 
+results provide evidence that CLLD8/KMT1F is recruited to heterochromatin regions
+and contributes in vivo to the deposition of trimethyl marks in concert with
+SUV39H1/KMT1A.
+
+PMCID: PMC2888436
+PMID: 20404330  [PubMed - indexed for MEDLINE]
+
+
+17. Proc Natl Acad Sci U S A. 2010 Feb 9;107(6):2521-6. doi: 10.1073/pnas.0914396107.
+Epub 2010 Jan 21.
+
+Setdb2 restricts dorsal organizer territory and regulates left-right asymmetry
+through suppressing fgf8 activity.
+
+Xu PF(1), Zhu KY, Jin Y, Chen Y, Sun XJ, Deng M, Chen SJ, Chen Z, Liu TX.
+
+Author information: 
+(1)State Key Laboratory of Medical Genomics, Shanghai Institute of Hematology,
+RuiJin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai
+200025, China.
+
+Dorsal organizer formation is one of the most critical steps in early embryonic
+development. Several genes and signaling pathways that positively regulate the
+dorsal organizer development have been identified; however, little is known about
+the factor(s) that negatively regulates the organizer formation. Here, we show
+that Setdb2, a SET domain-containing protein possessing potential histone H3K9
+methyltransferase activity, restricts dorsal organizer development and regulates 
+left-right asymmetry by suppressing fibroblast growth factor 8 (fgf8) expression.
+Knockdown of Setdb2 results in a massive expansion of dorsal organizer markers
+floating head (flh), goosecoid (gsc), and chordin (chd), as well as a significant
+increase of fgf8, but not fgf4 mRNAs. Consequently, disrupted midline patterning 
+and resultant randomization of left-right asymmetry are observed in
+Setdb2-deficient embryos. These characteristic changes induced by Setdb2
+deficiency can be nearly corrected by either overexpression of a
+dominant-negative fgf receptor or knockdown of fgf8, suggesting an essential role
+for Setdb2-Fgf8 signaling in restricting dorsal organizer territory and
+regulating left-right asymmetry. These results provide unique evidence that a SET
+domain-containing protein potentially involved in the epigenetic control
+negatively regulates dorsal organizer formation during early embryonic
+development.
+
+PMCID: PMC2823908
+PMID: 20133783  [PubMed - indexed for MEDLINE]
+
+
+18. Retrovirology. 2008 May 22;5:40. doi: 10.1186/1742-4690-5-40.
+
+Lysine methylation of HIV-1 Tat regulates transcriptional activity of the viral
+LTR.
+
+Van Duyne R(1), Easley R, Wu W, Berro R, Pedati C, Klase Z, Kehn-Hall K, Flynn
+EK, Symer DE, Kashanchi F.
+
+Author information: 
+(1)The George Washington University Medical Center, Department of Biochemistry
+and Molecular Biology, Washington, DC 20037, USA. bcmrvv@gwumc.edu
+
+BACKGROUND: The rate of transcription of the HIV-1 viral genome is mediated by
+the interaction of the viral protein Tat with the LTR and other transcriptional
+machinery. These specific interactions can be affected by the state of
+post-translational modifications on Tat. Previously, we have shown that Tat can
+be phosphorylated and acetylated in vivo resulting in an increase in the rate of 
+transcription. In the present study, we investigated whether Tat could be
+methylated on lysine residues, specifically on lysine 50 and 51, and whether this
+modification resulted in a decrease of viral transcription from the LTR.
+RESULTS: We analyzed the association of Tat with histone methyltransferases of
+the SUV39-family of SET domain containing proteins in vitro. Tat was found to
+associate with both SETDB1 and SETDB2, two enzymes which exhibit
+methyltransferase activity. siRNA against SETDB1 transfected into cell systems
+with both transient and integrated LTR reporter genes resulted in an increase in 
+transcription of the HIV-LTR in the presence of suboptimal levels of Tat. In
+vitro methylation assays with Tat peptides containing point mutations at lysines 
+50 and 51 showed an increased incorporation of methyl groups on lysine 51,
+however, both residues indicated susceptibility for methylation.
+CONCLUSION: The association of Tat with histone methyltransferases and the
+ability for Tat to be methylated suggests an interesting mechanism of
+transcriptional regulation through the recruitment of chromatin remodeling
+proteins to the HIV-1 promoter.
+
+PMCID: PMC2412914
+PMID: 18498648  [PubMed - indexed for MEDLINE]
+
+
+19. Am J Respir Crit Care Med. 2007 Nov 1;176(9):849-57. Epub 2007 Aug 16.
+
+Comprehensive testing of positionally cloned asthma genes in two populations.
+
+Hersh CP(1), Raby BA, Soto-Quirós ME, Murphy AJ, Avila L, Lasky-Su J, Sylvia JS, 
+Klanderman BJ, Lange C, Weiss ST, Celedón JC.
+
+Author information: 
+(1)Channing Laboratory and Center for Genomic Medicine, Brigham and Women's
+Hospital, Boston, Massachusetts 02115, USA. craig.hersh@channing.harvard.edu
+
+RATIONALE: Replication of gene-disease associations has become a requirement in
+complex trait genetics.
+OBJECTIVES: In studies of childhood asthma from two different ethnic groups, we
+attempted to replicate associations with five potential asthma susceptibility
+genes previously identified by positional cloning.
+METHODS: We analyzed two family-based samples ascertained through an asthmatic
+proband: 497 European-American children from the Childhood Asthma Management
+Program and 439 Hispanic children from the Central Valley of Costa Rica. We
+genotyped 98 linkage disequilibrium-tagging single-nucleotide polymorphisms
+(SNPs) in five genes: ADAM33, DPP10, GPR154 (HUGO name: NPSR1), HLA-G, and the
+PHF11 locus (includes genes SETDB2 and RCBTB1). SNPs were tested for association 
+with asthma and two intermediate phenotypes: airway hyperresponsiveness and total
+serum immunoglobulin E levels.
+MEASUREMENTS AND MAIN RESULTS: Despite differing ancestries, linkage
+disequilibrium patterns were similar in both cohorts. Of the five evaluated
+genes, SNP-level replication was found only for GPR154 (NPSR1). In this gene,
+three SNPs were associated with asthma in both cohorts, although the opposite
+alleles were associated in either study. Weak evidence for locus-level
+replication with asthma was found in the PHF11 locus, although there was no
+overlap in the associated SNP across the two cohorts. No consistent associations 
+were observed for the three other genes.
+CONCLUSIONS: These results provide some further support for the role of genetic
+variation in GPR154 (NPSR1) and PHF11 in asthma susceptibility and also highlight
+the challenges of replicating genetic associations in complex traits such as
+asthma, even for genes identified by linkage analysis.
+
+PMCID: PMC2048676
+PMID: 17702965  [PubMed - indexed for MEDLINE]
+
+
+20. Curr Opin Allergy Clin Immunol. 2005 Apr;5(2):141-5.
+
+The role of genetics in the development of asthma and atopy.
+
+Blumenthal MN(1).
+
+Author information: 
+(1)Medicine, Pediatrics, and Laboratory Medicine and Pathology, University of
+Minnesota, Minneapolis, Minnesota 55455, USA. blume001@umn.edu
+
+PURPOSE OF REVIEW: The mapping of complex traits such as asthma and atopy is one 
+of the most important and central areas of human genetics. This article will
+present an overview of the current status of genetic studies of asthma and atopy 
+using genome screens and association studies that have occurred in the literature
+since January 2003.
+RECENT FINDINGS: Many regions of the genome have been found to have linkage with 
+the phenotypes of asthma and atopy. Over 70 variants in candidate genes have been
+reported to be associated with these phenotypes. The main regions these variants 
+have been found are on chromosomes 2q, 5q, 6p, 11q, 12q, 16q and 17q. Five
+potential asthma susceptibility genes or complexes have been identified using a
+positional approach. These are ADAM33, DPP10, PHF11 and SETDB2, GPRA and SPINK5. 
+It is evident that environmental factors will influence the expression of genes
+and the ultimate clinical phenotype of asthma and atopy.
+SUMMARY: The development of asthma and atopy involves many genes and
+environmental factors. An understanding of their genetic basis has great
+implications for their management.
+
+PMID: 15764904  [PubMed - indexed for MEDLINE]
+
+
+21. Genes Immun. 2005 May;6(3):262-4.
+
+Polymorphisms within the PHF11 gene at chromosome 13q14 are associated with
+childhood atopic dermatitis.
+
+Jang N(1), Stewart G, Jones G.
+
+Author information: 
+(1)Institute for Immunology and Allergy Research (Westmead Millennium Institute),
+University of Sydney, Westmead Hospital, Westmead, NSW, Australia.
+
+Atopic dermatitis is an increasingly common and debilitating childhood disorder
+that is often accompanied by asthma and allergic rhinitis. Although the pathology
+of these disorders is distinct, the majority of cases are atopic, typified by
+elevated serum IgE. A new locus at chromosome 13q14 centred on the genes SETDB2
+and PHF11 and associated with increased total serum IgE has recently been
+identified. Although the precise functions of SETDB2 and PHF11 are not known,
+both proteins are expressed in cells of the immune system and include conserved
+domains that suggest a role in chromatin remodelling or transcriptional
+regulation, respectively. In a family-based association study across the SETDB2
+and PHF11 genes, we have identified two single-nucleotide polymorphisms in the
+PHF11 gene significantly associated with childhood atopic dermatitis in an
+Australian cohort. These results provide further evidence that this locus is a
+novel and important regulator of human atopic disease.
+
+PMID: 15674390  [PubMed - indexed for MEDLINE]
+
+

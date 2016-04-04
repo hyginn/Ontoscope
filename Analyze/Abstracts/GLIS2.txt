@@ -1,0 +1,1179 @@
+
+1. J Exp Med. 2016 Mar 7;213(3):433-49. doi: 10.1084/jem.20150806. Epub 2016 Feb 15.
+
+Functional screen identifies regulators of murine hematopoietic stem cell
+repopulation.
+
+Holmfeldt P(1), Ganuza M(1), Marathe H(1), He B(2), Hall T(1), Kang G(3), Moen
+J(3), Pardieck J(1), Saulsberry AC(1), Cico A(1), Gaut L(1), McGoldrick D(4),
+Finkelstein D(4), Tan K(5), McKinney-Freeman S(6).
+
+Author information: 
+(1)Department of Hematology, St. Jude Children's Research Hospital, Memphis, TN
+38105. (2)Interdisciplinary Graduate Program in Genetics, University of Iowa,
+Iowa City, IA 52242. (3)Department of Biostatistics, St. Jude Children's Research
+Hospital, Memphis, TN 38105. (4)Department of Computational Biology, St. Jude
+Children's Research Hospital, Memphis, TN 38105. (5)Department of Internal
+Medicine, University of Iowa, Iowa City, IA 52242. (6)Department of Hematology,
+St. Jude Children's Research Hospital, Memphis, TN 38105
+shannon.mckinney-freeman@stjude.org.
+
+Understanding the molecular regulation of hematopoietic stem and progenitor cell 
+(HSPC) engraftment is paramount to improving transplant outcomes. To discover
+novel regulators of HSPC repopulation, we transplanted >1,300 mice with
+shRNA-transduced HSPCs within 24 h of isolation and transduction to focus on
+detecting genes regulating repopulation. We identified 17 regulators of HSPC
+repopulation: Arhgef5, Armcx1, Cadps2, Crispld1, Emcn, Foxa3, Fstl1, Glis2,
+Gprasp2, Gpr56, Myct1, Nbea, P2ry14, Smarca2, Sox4, Stat4, and Zfp251. Knockdown 
+of each of these genes yielded a loss of function, except in the cases of Armcx1 
+and Gprasp2, whose loss enhanced hematopoietic stem cell (HSC) repopulation. The 
+discovery of multiple genes regulating vesicular trafficking, cell surface
+receptor turnover, and secretion of extracellular matrix components suggests
+active cross talk between HSCs and the niche and that HSCs may actively condition
+the niche to promote engraftment. We validated that Foxa3 is required for HSC
+repopulating activity, as Foxa3(-/-) HSC fails to repopulate ablated hosts
+efficiently, implicating for the first time Foxa genes as regulators of HSPCs. We
+further show that Foxa3 likely regulates the HSC response to hematologic stress. 
+Each gene discovered here offers a window into the novel processes that regulate 
+stable HSPC engraftment into an ablated host.
+
+© 2016 Holmfeldt et al.
+
+PMID: 26880577  [PubMed - in process]
+
+
+2. Eur J Hum Genet. 2015 Sep 16. doi: 10.1038/ejhg.2015.199. [Epub ahead of print]
+
+The C175R mutation alters nuclear localization and transcriptional activity of
+the nephronophthisis NPHP7 gene product.
+
+Ramachandran H(1), Yakulov TA(1), Engel C(1), Müller B(1), Walz G(1,)(2).
+
+Author information: 
+(1)Renal Division, Freiburg University Medical Center, Freiburg, Germany.
+(2)Center for Biological Signaling Studies (BIOSS), Albertstraße 19, Freiburg,
+Germany.
+
+Nephronophthisis (NPH) is a rare autosomal ciliopathy, but the leading cause for 
+hereditary end-stage renal disease in children. Most NPH family members form
+large protein networks, which appear to participate in structural elements of the
+cilium and/or function to restrict access of molecules to the ciliary
+compartment. The zinc-finger protein GLIS2/NPHP7 represents an exception as it
+has been implicated in transcriptional regulation; only two families with
+GLIS2/NPHP7 mutations and typical NPH manifestations have been identified so far.
+We describe here that the recently identified GLIS2/NPHP7(C175R) point mutation
+abolished the nuclear localization of GLIS2/NPHP7. Forced nuclear import did not 
+rescue the transcriptional defects of GLIS2/NPHP7(C175R), indicating additional
+defects as DNA-binding protein. We further observed that wild type, but not
+GLIS2/NPHP7(C175R), prevented the cyst formation caused by depletion of nphp7 in 
+zebrafish embryos. Taken together, our findings indicate that the C175R mutation 
+affects both localization and function of GLIS2/NPHP7, supporting a role of this 
+mutation in NPH, but questioning the direct involvement of GLIS2/NPHP7 in ciliary
+functions.European Journal of Human Genetics advance online publication, 16
+September 2015; doi:10.1038/ejhg.2015.199.
+
+PMID: 26374130  [PubMed - as supplied by publisher]
+
+
+3. Blood. 2015 Aug 20;126(8):943-9. doi: 10.1182/blood-2015-05-567859. Epub 2015 Jul
+17.
+
+The biology of pediatric acute megakaryoblastic leukemia.
+
+Gruber TA(1), Downing JR(2).
+
+Author information: 
+(1)Department of Oncology and Department of Pathology, St. Jude Children's
+Research Hospital, Memphis, TN. (2)Department of Pathology, St. Jude Children's
+Research Hospital, Memphis, TN.
+
+Acute megakaryoblastic leukemia (AMKL) comprises between 4% and 15% of newly
+diagnosed pediatric acute myeloid leukemia patients. AMKL in children with Down
+syndrome (DS) is characterized by a founding GATA1 mutation that cooperates with 
+trisomy 21, followed by the acquisition of additional somatic mutations. In
+contrast, non-DS-AMKL is characterized by chimeric oncogenes consisting of genes 
+known to play a role in normal hematopoiesis. CBFA2T3-GLIS2 is the most frequent 
+chimeric oncogene identified to date in this subset of patients and confers a
+poor prognosis.
+
+© 2015 by The American Society of Hematology.
+
+PMCID: PMC4551356
+PMID: 26186939  [PubMed - indexed for MEDLINE]
+
+
+4. PLoS One. 2015 Jul 7;10(7):e0131102. doi: 10.1371/journal.pone.0131102.
+eCollection 2015.
+
+Novel Human Embryonic Stem Cell Regulators Identified by Conserved and Distinct
+CpG Island Methylation State.
+
+Pells S(1), Koutsouraki E(2), Morfopoulou S(2), Valencia-Cadavid S(2), Tomlinson 
+SR(2), Kalathur R(3), Futschik ME(3), De Sousa PA(1).
+
+Author information: 
+(1)MRC Centre for Regenerative Medicine, School of Clinical Studies, University
+of Edinburgh, Edinburgh, EH16 4SB, United Kingdom; Centre for Clinical Brain
+Sciences, University of Edinburgh, Edinburgh, EH16 4SB, United Kingdom. (2)MRC
+Centre for Regenerative Medicine, School of Clinical Studies, University of
+Edinburgh, Edinburgh, EH16 4SB, United Kingdom. (3)Centre for Molecular and
+Structural Biomedicine, University of Algarve, 8005-139, Faro, Portugal.
+
+Human embryonic stem cells (hESCs) undergo epigenetic changes in vitro which may 
+compromise function, so an epigenetic pluripotency "signature" would be
+invaluable for line validation. We assessed Cytosine-phosphate-Guanine Island
+(CGI) methylation in hESCs by genomic DNA hybridisation to a CGI array, and saw
+substantial variation in CGI methylation between lines. Comparison of hESC CGI
+methylation profiles to corresponding somatic tissue data and hESC mRNA
+expression profiles identified a conserved hESC-specific methylation pattern
+associated with expressed genes. Transcriptional repressors and activators were
+over-represented amongst genes whose associated CGIs were methylated or
+unmethylated specifically in hESCs, respectively. Knockdown of candidate
+transcriptional regulators (HMGA1, GLIS2, PFDN5) induced differentiation in
+hESCs, whereas ectopic expression in fibroblasts modulated iPSC colony formation.
+Chromatin immunoprecipitation confirmed interaction between the candidates and
+the core pluripotency transcription factor network. We thus identify novel
+pluripotency genes on the basis of a conserved and distinct epigenetic
+configuration in human stem cells.
+
+PMCID: PMC4495055
+PMID: 26151932  [PubMed - in process]
+
+
+5. PLoS One. 2015 Jun 17;10(6):e0130275. doi: 10.1371/journal.pone.0130275.
+eCollection 2015.
+
+SUMOylation Blocks the Ubiquitin-Mediated Degradation of the Nephronophthisis
+Gene Product Glis2/NPHP7.
+
+Ramachandran H(1), Herfurth K(1), Grosschedl R(2), Schäfer T(1), Walz G(3).
+
+Author information: 
+(1)Department of Medicine, Renal Division, University of Freiburg Medical Center,
+79106 Freiburg, Germany. (2)Max-Planck-Institute of Immunobiology and
+Epigenetics, Stübeweg 51, D-79108 Freiburg, Germany. (3)Department of Medicine,
+Renal Division, University of Freiburg Medical Center, 79106 Freiburg, Germany;
+BIOSS Center for Biological Signaling Studies, 79108 Freiburg, Germany.
+
+Glis2/NPHP7 is a transcriptional regulator mutated in type 7 nephronophthisis, an
+autosomal recessive ciliopathy associated with cystic and fibrotic kidney disease
+as well as characteristic extrarenal manifestations. While most
+ciliopathy-associated molecules are found in the cilium, Glis2/NPHP7 presumably
+localizes to the nucleus. However, the detection of endogenous Glis2/NPHP7 has
+remained unsuccessful, potentially due to its ubiquitylation-dependent rapid
+degradation. We report now that Glis2/NPHP7 is also SUMOylated, preferentially by
+PIAS4, which conjugates Glis2/NPHP7 to SUMO3. SUMOylation interferes with
+ubiquitylation and degradation of Glis2/NPHP7, suggesting that Glis2/NPHP7
+protein levels are regulated by competing ubiquitylation/ SUMOylation.
+SUMOylation also alters the transcriptional activity of Glis2/NPHP7. While
+Glis2/NPHP7 activates the mouse insulin-2-promotor (mIns2), SUMOylated
+Glis2/NPHP7 lacks this property, and seems to act as a repressor. Taken together,
+our data reveal that Glis2/NPHP7 is extensively modified by post-translational
+modifications, suggesting that a tight control of this transcriptional regulator 
+is required for normal development and tissue homeostasis.
+
+PMCID: PMC4471195
+PMID: 26083374  [PubMed - in process]
+
+
+6. Cell Mol Neurobiol. 2015 Apr;35(3):345-54. doi: 10.1007/s10571-014-0130-1. Epub
+2014 Nov 5.
+
+Up-regulation of Glis2 involves in neuronal apoptosis after intracerebral
+hemorrhage in adult rats.
+
+Ke K(1), Song Y, Shen J, Niu M, Zhang H, Yuan D, Ni H, Zhang Y, Liu X, Dai A, Cao
+M.
+
+Author information: 
+(1)Department of Neurology, Affiliated Hospital of Nantong University, Nantong,
+226001, Jiangsu Province, People's Republic of China.
+
+The novel Krüppel-like zinc finger protein Gli-similar 2 (Glis2), one member of
+the transcription factors, is involved in controlling the flow of genetic
+information and the modulation of diverse cellular activities. Accumulating
+evidence has demonstrated its important roles in adult development and several
+diseases. However, information regarding the regulation and possible function of 
+Glis2 in the central nervous system is still limited. In this study, we explored 
+the roles of Glis2 during the pathophysiological process of intracerebral
+hemorrhage (ICH). An ICH rat model was established and assessed by behavioral
+tests. Expression of Glis2 was significantly up-regulated in brain areas
+surrounding the hematoma following ICH. Immunofluorescence showed that Glis2 was 
+strikingly increased in neurons, but not astrocytes or microglia. Up-regulation
+of Glis2 was found to be accompanied by the increased expression of active
+caspase-3 and Bax and decreased expression of Bcl-2 in vivo and vitro studies.
+Moreover, knocking down Glis2 by RNA-interference in PC12 cells reduced active
+caspase-3 and Bax expression while increased Bcl-2. Collectively, we speculated
+that Glis2 might exert pro-apoptotic function in neurons following ICH.
+
+PMID: 25370802  [PubMed - indexed for MEDLINE]
+
+
+7. Mol Carcinog. 2015 Nov;54(11):1376-86. doi: 10.1002/mc.22213. Epub 2014 Sep 11.
+
+Detection of coding microsatellite frameshift mutations in DNA mismatch
+repair-deficient mouse intestinal tumors.
+
+Woerner SM(1,)(2), Tosti E(3), Yuan YP(4,)(2), Kloor M(1,)(2,)(5), Bork P(4,)(2),
+Edelmann W(3), Gebert J(1,)(2,)(5).
+
+Author information: 
+(1)Department of Applied Tumor Biology, Institute of Pathology, University
+Hospital Heidelberg, Heidelberg, Germany. (2)Molecular Medicine Partnership Unit,
+University of Heidelberg and European Molecular Biology Laboratory, Heidelberg,
+Germany. (3)Department of Cell Biology, Albert Einstein College of Medicine, New 
+York, NY. (4)Structural and Computational Biology Unit, European Molecular
+Biology Laboratory, Heidelberg, Germany. (5)Clinical Cooperation Unit Applied
+Tumor Biology, DKFZ Heidelberg, Germany.
+
+Different DNA mismatch repair (MMR)-deficient mouse strains have been developed
+as models for the inherited cancer predisposing Lynch syndrome. It is completely 
+unresolved, whether coding mononucleotide repeat (cMNR) gene mutations in these
+mice can contribute to intestinal tumorigenesis and whether MMR-deficient mice
+are a suitable molecular model of human microsatellite instability
+(MSI)-associated intestinal tumorigenesis. A proof-of-principle study was
+performed to identify mouse cMNR-harboring genes affected by insertion/deletion
+mutations in MSI murine intestinal tumors. Bioinformatic algorithms were
+developed to establish a database of mouse cMNR-harboring genes. A panel of five 
+mouse noncoding mononucleotide markers was used for MSI classification of
+intestinal matched normal/tumor tissues from MMR-deficient (Mlh1(-/-) , Msh2(-/-)
+, Msh2(LoxP/LoxP) ) mice. cMNR frameshift mutations of candidate genes were
+determined by DNA fragment analysis. Murine MSI intestinal tumors but not normal 
+tissues from MMR-deficient mice showed cMNR frameshift mutations in six candidate
+genes (Elavl3, Tmem107, Glis2, Sdccag1, Senp6, Rfc3). cMNRs of mouse Rfc3 and
+Elavl3 are conserved in type and length in their human orthologs that are known
+to be mutated in human MSI colorectal, endometrial and gastric cancer. We provide
+evidence for the utility of a mononucleotide marker panel for detection of MSI in
+murine tumors, the existence of cMNR instability in MSI murine tumors, the
+utility of mouse subspecies DNA for identification of polymorphic repeats, and
+repeat conservation among some orthologous human/mouse genes, two of them showing
+instability in human and mouse MSI intestinal tumors. MMR-deficient mice hence
+are a useful molecular model system for analyzing MSI intestinal carcinogenesis.
+
+© 2014 Wiley Periodicals, Inc.
+
+PMID: 25213383  [PubMed - indexed for MEDLINE]
+
+
+8. J Biol Chem. 2014 Mar 21;289(12):8390-401. doi: 10.1074/jbc.M113.534024. Epub
+2014 Feb 5.
+
+Interaction with the Bardet-Biedl gene product TRIM32/BBS11 modifies the
+half-life and localization of Glis2/NPHP7.
+
+Ramachandran H(1), Schäfer T, Kim Y, Herfurth K, Hoff S, Lienkamp SS,
+Kramer-Zucker A, Walz G.
+
+Author information: 
+(1)From the Department of Medicine, Renal Division, University of Freiburg
+Medical Center, 79106 Freiburg, Germany.
+
+Although the two ciliopathies Bardet-Biedl syndrome and nephronophthisis share
+multiple clinical manifestations, the molecular basis for this overlap remains
+largely unknown. Both BBS11 and NPHP7 are unusual members of their respective
+gene families. Although BBS11/TRIM32 represents a RING finger E3 ubiquitin ligase
+also involved in hereditary forms of muscular dystrophy, NPHP7/Glis2 is a
+Gli-like transcriptional repressor that localizes to the nucleus, deviating from 
+the ciliary localization of most other ciliopathy-associated gene products. We
+found that BBS11/TRIM32 and NPHP7/Glis2 can physically interact with each other, 
+suggesting that both proteins form a functionally relevant protein complex in
+vivo. This hypothesis was further supported by the genetic interaction and
+synergist cyst formation in the zebrafish pronephros model. However, contrary to 
+our expectation, the E3 ubiquitin ligase BBS11/TRIM32 was not responsible for the
+short half-life of NPHP7/Glis2 but instead promoted the accumulation of mixed
+Lys(48)/Lys(63)-polyubiquitylated NPHP7/Glis2 species. This modification not only
+prolonged the half-life of NPHP7/Glis2, but also altered the subnuclear
+localization and the transcriptional activity of NPHP7/Glis2. Thus, physical and 
+functional interactions between NPHP and Bardet-Biedl syndrome gene products,
+demonstrated for Glis2 and TRIM32, may help to explain the phenotypic
+similarities between these two syndromes.
+
+PMCID: PMC3961664
+PMID: 24500717  [PubMed - indexed for MEDLINE]
+
+
+9. Oncotarget. 2013 Oct;4(10):1712-20.
+
+DHH-RHEBL1 fusion transcript: a novel recurrent feature in the new landscape of
+pediatric CBFA2T3-GLIS2-positive acute myeloid leukemia.
+
+Masetti R(1), Togni M, Astolfi A, Pigazzi M, Manara E, Indio V, Rizzari C,
+Rutella S, Basso G, Pession A, Locatelli F.
+
+Author information: 
+(1)Department of Pediatrics, "Lalla Seràgnoli", Hematology-Oncology Unit,
+University of Bologna, Italy.
+
+Childhood Acute Myeloid Leukemia (AML) is a clinically and genetically
+heterogeneous malignant disease. Despite improvements in outcome over the past
+decades, the current survival rate still is approximately 60-70%. Cytogenetic,
+recurrent genetic abnormalities and early response to induction treatment are the
+main factors predicting clinical outcome. While the majority of children carry
+recurrent chromosomal translocations, 20% of patients do not show any
+recognizable cytogenetic alteration and are defined to have cytogenetically
+normal AML (CN-AML). This subset of patients is characterized by a significant
+heterogeneity in clinical outcome, which is influenced by factors only recently
+started to be identified. In this respect, genome-wide analyses have been used
+with the aim of defining the full array of genetic lesions in CN-AML. Recently,
+through whole-transcriptome massively parallel sequencing of seven cases of
+pediatric CN-AML, we identified a novel recurrent CBFA2T3-GLIS2 fusion,
+predicting poorer outcome. However, since the expression of CBFA2T3-GLIS2 fusion 
+in mice is not sufficient for leukemogenesis, we speculated that further unknown 
+abnormalities could contribute to both cancer transformation and response to
+treatment. Thus, we analyzed, by whole-transcriptome sequencing, 4
+CBFA2T3-GLIS2-positive patients, as well as 4 CN-AML patients. We identified a
+new fusion transcript in the CBFA2T3-GLIS2-positive patients, involving Desert
+Hedgehog (DHH), a member of Hedgehog family, and Ras Homologue Enrich in Brain
+Like 1 (RHEBL1), a gene coding for a small GTPase of the Ras family. Through the 
+screening of a validation cohort of 55 additional pediatric AML patients, we
+globally detected DHH-RHEBL1 fusion in 8 out of 20 (40%) CBFA2T3-GLIS2-rearranged
+patients. Gene expression analysis performed on RNA-seq data revealed that
+DHH-RHEBL1-positive patients exhibited a specific signature. These 8 patients had
+an 8-year overall survival worse than that of the remaining 12
+CBFA2T3-GLIS2-rearranged patients not harboring DHH-RHEBL1 fusion (25% vs 55%,
+respectively, P=0.1). Taken together, these findings are unprecedented and
+indicate that the DHH-RHEBL1 fusion transcript is a novel recurrent feature in
+the changing landscape of CBFA2T3-GLIS2-positive childhood AML. Moreover, it
+could be instrumental in the identification of a subgroup of
+CBFA2T3-GLIS2-positive patients with a very poor outcome.
+
+PMCID: PMC3858557
+PMID: 24127550  [PubMed - indexed for MEDLINE]
+
+
+10. Hum Genet. 2013 Aug;132(8):865-84. doi: 10.1007/s00439-013-1297-0. Epub 2013 Apr 
+5.
+
+Identification of 99 novel mutations in a worldwide cohort of 1,056 patients with
+a nephronophthisis-related ciliopathy.
+
+Halbritter J(1), Porath JD, Diaz KA, Braun DA, Kohl S, Chaki M, Allen SJ, Soliman
+NA, Hildebrandt F, Otto EA; GPN Study Group.
+
+Author information: 
+(1)Department of Pediatrics, University of Michigan Health System, 8220A MSRB
+III, 1150 West Medical Center Drive, Ann Arbor, MI 48109-5646, USA.
+
+Nephronophthisis-related ciliopathies (NPHP-RC) are autosomal-recessive cystic
+kidney diseases. More than 13 genes are implicated in its pathogenesis to date,
+accounting for only 40 % of all cases. High-throughput mutation screenings of
+large patient cohorts represent a powerful tool for diagnostics and
+identification of novel NPHP genes. We here performed a new high-throughput
+mutation analysis method to study 13 established NPHP genes (NPHP1-NPHP13) in a
+worldwide cohort of 1,056 patients diagnosed with NPHP-RC. We first applied
+multiplexed PCR-based amplification using Fluidigm Access-Array™ technology
+followed by barcoding and next-generation resequencing on an Illumina platform.
+As a result, we established the molecular diagnosis in 127/1,056 independent
+individuals (12.0 %) and identified a single heterozygous truncating mutation in 
+an additional 31 individuals (2.9 %). Altogether, we detected 159 different
+mutations in 11 out of 13 different NPHP genes, 99 of which were novel.
+Phenotypically most remarkable were two patients with truncating mutations in
+INVS/NPHP2 who did not present as infants and did not exhibit extrarenal
+manifestations. In addition, we present the first case of Caroli disease due to
+mutations in WDR19/NPHP13 and the second case ever with a recessive mutation in
+GLIS2/NPHP7. This study represents the most comprehensive mutation analysis in
+NPHP-RC patients, identifying the largest number of novel mutations in a single
+study worldwide.
+
+PMCID: PMC4643834
+PMID: 23559409  [PubMed - indexed for MEDLINE]
+
+
+11. Leukemia. 2013 Dec;27(12):2280-8. doi: 10.1038/leu.2013.87. Epub 2013 Mar 27.
+
+NUP98/JARID1A is a novel recurrent abnormality in pediatric acute
+megakaryoblastic leukemia with a distinct HOX gene expression pattern.
+
+de Rooij JD(1), Hollink IH, Arentsen-Peters ST, van Galen JF, Berna Beverloo H,
+Baruchel A, Trka J, Reinhardt D, Sonneveld E, Zimmermann M, Alonzo TA, Pieters R,
+Meshinchi S, van den Heuvel-Eibrink MM, Zwaan CM.
+
+Author information: 
+(1)Department of Pediatric Hematology/Oncology, Erasmus MC-Sophia Children's
+Hospital, Rotterdam, The Netherlands.
+
+Cytogenetic abnormalities and early response to treatment are the main prognostic
+factors in acute myeloid leukemia (AML). Recently, NUP98/NSD1 (t(5; 11)(q35;
+p15)), a cytogenetically cryptic fusion, was described as recurrent event in AML,
+characterized by dismal prognosis and HOXA/B gene overexpression. Using
+split-signal fluorescence in situ hybridization, other NUP98-rearranged pediatric
+AML cases were identified, including several acute megakaryoblastic leukemia
+(AMKL) cases with a cytogenetically cryptic fusion of NUP98 to JARID1A
+(t(11;15)(p15;q35)). In this study we screened 105 pediatric AMKL cases to
+analyze the frequency of NUP98/JARID1A and other recurrent genetic abnormalities.
+NUP98/JARID1A was identified in 11/105 patients (10.5%). Other abnormalities
+consisted of RBM15/MKL1 (n=16), CBFA2T3/GLIS2 (n=13) and MLL-rearrangements
+(n=13). Comparing NUP98/JARID1A-positive patients with other pediatric AMKL
+patients, no significant differences in sex, age and white blood cell count were 
+found. NUP98/JARID1A was not an independent prognostic factor for 5-year overall 
+(probability of overall survival (pOS)) or event-free survival (probability of
+event-free survival (pEFS)), although the 5-year pOS for the entire AMKL cohort
+was poor (42 ± 6%). Cases with RBM15/MLK1 fared significantly better in terms of 
+pOS and pEFS, although this was not independent from other risk factors in
+multivariate analysis. NUP98/JARID1A cases were characterized by HOXA/B gene
+overexpression, which is a potential druggable pathway. In conclusion,
+NUP98/JARID1A is a novel recurrent genetic abnormality in pediatric AMKL.
+
+PMID: 23531517  [PubMed - indexed for MEDLINE]
+
+
+12. Blood. 2013 Apr 25;121(17):3469-72. doi: 10.1182/blood-2012-11-469825. Epub 2013 
+Feb 13.
+
+CBFA2T3-GLIS2 fusion transcript is a novel common feature in pediatric,
+cytogenetically normal AML, not restricted to FAB M7 subtype.
+
+Masetti R(1), Pigazzi M, Togni M, Astolfi A, Indio V, Manara E, Casadio R,
+Pession A, Basso G, Locatelli F.
+
+Author information: 
+(1)Department of Pediatrics, Lalla Seràgnoli, Hematology-Oncology Unit,
+University of Bologna, Italy.
+
+Pediatric cytogenetically normal acute myeloid leukemia (CN-AML) is a
+heterogeneous subgroup of myeloid clonal disorders that do not harbor known
+mutations. To investigate the mutation spectrum of pediatric CN-AML, we performed
+whole-transcriptome massively parallel sequencing on blasts from 7 CN-AML
+pediatric patients. In 3 patients we identified a recurrent cryptic inversion of 
+chromosome 16, encoding a CBFA2T3-GLIS2 fusion transcript. In a validation cohort
+of 230 pediatric CN-AML samples we identified 17 new cases. Among a total of 20
+patients with CBFA2T3-GLIS2 fusion transcript out of 237 investigated (8.4%), 10 
+patients (50%) did not belong to the French-American-British (FAB) M7 subgroup.
+The 5-year event-free survival for these 20 children was worse than that for the 
+other CN-AML patients (27.4% vs 59.6%; P = .01). These data suggest that the
+presence of CBFA2T3-GLIS2 fusion transcript is a novel common feature of
+pediatric CN-AML, not restricted to the FAB M7 subtype, predicting poorer
+outcome.
+
+PMID: 23407549  [PubMed - indexed for MEDLINE]
+
+
+13. PLoS One. 2013;8(1):e53780. doi: 10.1371/journal.pone.0053780. Epub 2013 Jan 10.
+
+Parallel analysis of mRNA and microRNA microarray profiles to explore functional 
+regulatory patterns in polycystic kidney disease: using PKD/Mhm rat model.
+
+Dweep H(1), Sticht C, Kharkar A, Pandey P, Gretz N.
+
+Author information: 
+(1)Medical Faculty Mannheim, Medical Research Center, University of Heidelberg,
+Mannheim, Germany.
+
+Autosomal polycystic kidney disease (ADPKD) is a frequent monogenic renal
+disease, characterised by fluid-filled cysts that are thought to result from
+multiple deregulated pathways such as cell proliferation and apoptosis. MicroRNAs
+(miRNAs) are small non-coding RNAs that regulate the expression of many genes
+associated with such biological processes and human pathologies. To explore the
+possible regulatory role of miRNAs in PKD, the PKD/Mhm (cy/+) rat, served as a
+model to study human ADPKD. A parallel microarray-based approach was conducted to
+profile the expression changes of mRNAs and miRNAs in PKD/Mhm rats. 1,573 up- and
+1,760 down-regulated genes were differentially expressed in PKD/Mhm. These genes 
+are associated with 17 pathways (such as focal adhesion, cell cycle, ECM-receptor
+interaction, DNA replication and metabolic pathways) and 47 (e.g., cell
+proliferation, Wnt and Tgfß signaling) Gene Ontologies. Furthermore, we found the
+similar expression patterns of deregulated genes between PKD/Mhm (cy/+) rat and
+human ADPKD, PKD1(L3/L3), PKD1(-/-), Hnf1a-deficient, and Glis2(lacZ/lacZ)
+models. Additionally, several differentially regulated genes were noted to be
+target hubs for miRNAs. We also obtained 8 significantly up-regulated miRNAs
+(rno-miR-199a-5p, -214, -146b, -21, -34a, -132, -31 and -503) in diseased kidneys
+of PKD/Mhm rats. Additionally, the binding site overrepresentation and pathway
+enrichment analyses were accomplished on the putative targets of these 8 miRNAs. 
+7 out of these 8 miRNAs and their possible interactions have not been previously 
+described in ADPKD. We have shown a strong overlap of functional patterns
+(pathways) between deregulated miRNAs and mRNAs in the PKD/Mhm (cy/+) rat model. 
+Our findings suggest that several miRNAs may be associated in regulating pathways
+in ADPKD. We further describe novel miRNAs and their possible targets in ADPKD,
+which will open new avenues to understand the pathogenesis of human ADPKD.
+Furthermore they could serve as a useful resource for anti-fibrotic therapeutics.
+
+PMCID: PMC3542345
+PMID: 23326503  [PubMed - indexed for MEDLINE]
+
+
+14. Med Sci (Paris). 2012 Nov;28(11):1013-6. doi: 10.1051/medsci/20122811025. Epub
+2012 Nov 12.
+
+[Novel ETO2-GLIS2 fusion and therapeutic strategy in acute megakaryoblastic
+leukemia].
+
+[Article in French]
+
+Thiollier C(1), Pflumio F, Ballerini P, Crispino JD, Bernard O, Mercher T.
+
+Author information: 
+(1)Université Paris Diderot, Paris, France.
+
+PMID: 23171910  [PubMed - indexed for MEDLINE]
+
+
+15. Cancer Cell. 2012 Nov 13;22(5):683-97. doi: 10.1016/j.ccr.2012.10.007.
+
+An Inv(16)(p13.3q24.3)-encoded CBFA2T3-GLIS2 fusion protein defines an aggressive
+subtype of pediatric acute megakaryoblastic leukemia.
+
+Gruber TA(1), Larson Gedman A, Zhang J, Koss CS, Marada S, Ta HQ, Chen SC, Su X, 
+Ogden SK, Dang J, Wu G, Gupta V, Andersson AK, Pounds S, Shi L, Easton J, Barbato
+MI, Mulder HL, Manne J, Wang J, Rusch M, Ranade S, Ganti R, Parker M, Ma J,
+Radtke I, Ding L, Cazzaniga G, Biondi A, Kornblau SM, Ravandi F, Kantarjian H,
+Nimer SD, Döhner K, Döhner H, Ley TJ, Ballerini P, Shurtleff S, Tomizawa D,
+Adachi S, Hayashi Y, Tawa A, Shih LY, Liang DC, Rubnitz JE, Pui CH, Mardis ER,
+Wilson RK, Downing JR.
+
+Author information: 
+(1)Department of Oncology, St. Jude Children's Research Hospital, Memphis, TN
+38105, USA.
+
+Comment in
+    Cancer Cell. 2012 Nov 13;22(5):567-8.
+
+To define the mutation spectrum in non-Down syndrome acute megakaryoblastic
+leukemia (non-DS-AMKL), we performed transcriptome sequencing on diagnostic
+blasts from 14 pediatric patients and validated our findings in a
+recurrency/validation cohort consisting of 34 pediatric and 28 adult AMKL
+samples. Our analysis identified a cryptic chromosome 16 inversion
+(inv(16)(p13.3q24.3)) in 27% of pediatric cases, which encodes a CBFA2T3-GLIS2
+fusion protein. Expression of CBFA2T3-GLIS2 in Drosophila and murine
+hematopoietic cells induced bone morphogenic protein (BMP) signaling and resulted
+in a marked increase in the self-renewal capacity of hematopoietic progenitors.
+These data suggest that expression of CBFA2T3-GLIS2 directly contributes to
+leukemogenesis.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+PMCID: PMC3547667
+PMID: 23153540  [PubMed - indexed for MEDLINE]
+
+
+16. J Exp Med. 2012 Oct 22;209(11):2017-31. doi: 10.1084/jem.20121343. Epub 2012 Oct 
+8.
+
+Characterization of novel genomic alterations and therapeutic approaches using
+acute megakaryoblastic leukemia xenograft models.
+
+Thiollier C(1), Lopez CK, Gerby B, Ignacimouttou C, Poglio S, Duffourd Y, Guégan 
+J, Rivera-Munoz P, Bluteau O, Mabialah V, Diop M, Wen Q, Petit A, Bauchet AL,
+Reinhardt D, Bornhauser B, Gautheret D, Lecluse Y, Landman-Parker J, Radford I,
+Vainchenker W, Dastugue N, de Botton S, Dessen P, Bourquin JP, Crispino JD,
+Ballerini P, Bernard OA, Pflumio F, Mercher T.
+
+Author information: 
+(1)Institut National de la Santé et de la Recherche Médicale (INSERM) Unité 985, 
+94805 Villejuif, France.
+
+Acute megakaryoblastic leukemia (AMKL) is a heterogeneous disease generally
+associated with poor prognosis. Gene expression profiles indicate the existence
+of distinct molecular subgroups, and several genetic alterations have been
+characterized in the past years, including the t(1;22)(p13;q13) and the trisomy
+21 associated with GATA1 mutations. However, the majority of patients do not
+present with known mutations, and the limited access to primary patient leukemic 
+cells impedes the efficient development of novel therapeutic strategies. In this 
+study, using a xenotransplantation approach, we have modeled human pediatric AMKL
+in immunodeficient mice. Analysis of high-throughput RNA sequencing identified
+recurrent fusion genes defining new molecular subgroups. One subgroup of patients
+presented with MLL or NUP98 fusion genes leading to up-regulation of the HOX A
+cluster genes. A novel CBFA2T3-GLIS2 fusion gene resulting from a cryptic
+inversion of chromosome 16 was identified in another subgroup of 31% of non-Down 
+syndrome AMKL and strongly associated with a gene expression signature of
+Hedgehog pathway activation. These molecular data provide useful markers for the 
+diagnosis and follow up of patients. Finally, we show that AMKL xenograft models 
+constitute a relevant in vivo preclinical screening platform to validate the
+efficacy of novel therapies such as Aurora A kinase inhibitors.
+
+PMCID: PMC3478932
+PMID: 23045605  [PubMed - indexed for MEDLINE]
+
+
+17. Oncogene. 2013 Mar 21;32(12):1594-600. doi: 10.1038/onc.2012.151. Epub 2012 May
+7.
+
+The Trop-2 signalling network in cancer growth.
+
+Guerra E(1), Trerotola M, Aloisi AL, Tripaldi R, Vacca G, La Sorda R, Lattanzio
+R, Piantelli M, Alberti S.
+
+Author information: 
+(1)Unit of Cancer Pathology, Department of Oncology and Experimental Medicine and
+CeSI, Foundation University 'G. d'Annunzio', Chieti, Italy.
+
+Our findings show that upregulation of a wild-type Trop-2 has a key controlling
+role in human cancer growth, and that tumour development is quantitatively driven
+by Trop-2 expression levels. However, little is known about the regulation of
+expression of the TROP2 gene. Hence, we investigated the TROP2 transcription
+control network. TROP2 expression was shown to depend on a highly interconnected 
+web of transcription factors: TP63/TP53L, ERG, GRHL1/Get-1 (grainyhead-like
+epithelial transactivator), HNF1A/TCF-1 (T-cell factor), SPI1/PU.1, WT (Wilms'
+tumour)1, GLIS2, AIRE (autoimmune regulator), FOXM1 (forkhead box M1) and FOXP3, 
+with HNF4A as the major network hub. TROP2 upregulation was shown to subsequently
+drive the expression and activation of CREB1 (cyclic AMP-responsive-element
+binding protein), Jun, NF-<U+03BA>B, Rb, STAT1 and STAT3 through induction of the cyclin
+D1 and ERK (extracellular signal regulated kinase)/MEK (MAPK/ERK kinase)
+pathways. Growth-stimulatory signalling through NF-<U+03BA>B, cyclin D1 and ERK was
+shown to require an intact Trop-2 cytoplasmic tail. Network hubs and interacting 
+partners are co-expressed with Trop-2 in primary human tumours, supporting a role
+of this signalling network in cancer growth.
+
+PMID: 22562244  [PubMed - indexed for MEDLINE]
+
+
+18. Vitam Horm. 2012;88:141-71. doi: 10.1016/B978-0-12-394622-5.00007-9.
+
+Gli-similar proteins: their mechanisms of action, physiological functions, and
+roles in disease.
+
+Lichti-Kaiser K(1), ZeRuth G, Kang HS, Vasanth S, Jetten AM.
+
+Author information: 
+(1)Cell Biology Section, Division of Intramural Research, National Institute of
+Environmental Health Sciences, National Institutes of Health, Research Triangle
+Park, North Carolina, USA.
+
+Gli-similar (Glis) 1-3 proteins constitute a subfamily of Krüppel-like
+zinc-finger proteins that are closely related to members of the Gli family. Glis 
+proteins have been implicated in several pathologies, including cystic kidney
+disease, diabetes, hypothyroidism, fibrosis, osteoporosis, psoriasis, and cancer.
+In humans, a mutation in the Glis2 gene has been linked to the development of
+nephronophthisis (NPHP), a recessive cystic kidney disease, while mutations in
+Glis3 lead to an extended multisystem phenotype that includes the development of 
+neonatal diabetes, polycystic kidneys, congenital hypothyroidism, and facial
+dysmorphism. Glis3 has also been identified as a risk locus for type-1 and type-2
+diabetes and additional studies have revealed a role for Glis3 in pancreatic
+endocrine development, ß-cell maintenance, and insulin regulation. Similar to
+Gli1-3, Glis2 and 3 have been reported to localize to the primary cilium. These
+studies appear to suggest that Glis proteins are part of a primary
+cilium-associated signaling pathway(s). It has been hypothesized that Glis
+proteins are activated through posttranslational modifications and subsequently
+translocate to the nucleus where they regulate transcription by interacting with 
+Glis-binding sites in the promoter regions of target genes. This chapter
+summarizes the current state of knowledge regarding mechanisms of action of the
+Glis family of proteins, their physiological functions, as well as their roles in
+disease.
+
+Copyright Â© 2012 Elsevier Inc. All rights reserved.
+
+PMCID: PMC3799816
+PMID: 22391303  [PubMed - indexed for MEDLINE]
+
+
+19. Hum Mol Genet. 2011 Nov 1;20(21):4155-66. doi: 10.1093/hmg/ddr339. Epub 2011 Aug 
+4.
+
+Increased hedgehog signaling in postnatal kidney results in aberrant activation
+of nephron developmental programs.
+
+Li B(1), Rauhauser AA, Dai J, Sakthivel R, Igarashi P, Jetten AM, Attanasio M.
+
+Author information: 
+(1)Department of Internal Medicine, University of Texas Southwestern Medical
+Center, Dallas, TX 75390, USA.
+
+Hedgehog (Hh) is a core signaling pathway implicated in fundamental processes
+during embryonic kidney development. We previously found that loss-of-function
+mutations in the transcription factor GLIS2, a putative vertebrate ortholog of
+Drosophila Ci, cause nephronophthisis type 7 in humans and mice. Kidney tubular
+cells in Glis2-knockout mice acquire mesenchymal phenotype, but the cellular
+mechanisms of this transition are unknown. Here, we demonstrate that Glis2 is a
+functional component of Hh signaling and is necessary to suppress this pathway in
+the postnatal kidney. In the epithelial compartment, Glis2 opposes Gli1 activity 
+by binding cis-acting regulatory sequences in the 5' flanking regions of Snai1
+and Wnt4, thereby inhibiting de-differentiation of tubular cells. We conclude
+that Glis2 is necessary to inhibit Hh signaling and to maintain the mature
+tubular epithelial phenotype in the adult kidney. This is the first description
+of a molecular mechanism that links the Hh signaling pathway to cystic kidney
+diseases and can open new avenues for the treatment of diverse ciliopathies.
+
+PMCID: PMC3188992
+PMID: 21816948  [PubMed - indexed for MEDLINE]
+
+
+20. J Biol Chem. 2011 Feb 11;286(6):4749-59. doi: 10.1074/jbc.M110.165951. Epub 2010 
+Dec 2.
+
+Identification of nuclear localization, DNA binding, and transactivating
+mechanisms of Kruppel-like zinc finger protein Gli-similar 2 (Glis2).
+
+Vasanth S(1), ZeRuth G, Kang HS, Jetten AM.
+
+Author information: 
+(1)Cell Biology Section, Division of Intramural Research, Laboratory of
+Respiratory Biology, NIEHS, National Institutes of Health, Research Triangle
+Park, North Carolina 27709, USA.
+
+Gli-similar 1-3 (Glis1-3) constitute a subfamily of Krüppel-like zinc finger (ZF)
+transcription factors that are closely related to the Gli protein family.
+Mutations in GLIS2 are linked to nephronophthisis, a chronic kidney disease
+characterized by renal fibrosis and atrophy in children and young adults.
+Currently, very little information exists about the mechanism of action of Glis2,
+its target genes, or the signaling pathways that regulate its activity. In this
+study, we show that a region within ZF3 is required for the nuclear localization 
+of Glis2. Analysis of Glis2 DNA binding demonstrated that Glis2 binds effectively
+to the consensus Glis binding sequence (GlisBS) (G/C)TGGGGGGT(A/C). Although
+Glis2 was unable to induce transactivation of a GlisBS-dependent reporter, it
+effectively inhibited the GlisBS-mediated transactivation by Gli1. Mutations that
+disrupt the tetrahedral configuration of each ZF within Glis2 abolished Glis2
+binding to GlisBS and also abrogated its inhibition of Gli1-mediated
+transactivation. In contrast, Glis2 was able to activate the murine insulin-2
+(Ins2) promoter by binding directly to two GlisBS elements located at -263 and
+-99 within the Ins2 promoter. Phosphomimetic mutation of Ser(245) inhibited the
+binding of Glis2 to GlisBS and dramatically affected its transactivation of the
+Ins2 promoter and its ability to inhibit GlisBS-dependent transactivation by
+Gli1. In this study, we demonstrate that Glis2 can function as a transcriptional 
+activator and that post-translational modification within its DNA-binding domain 
+can regulate its transcriptional activity. This control may play a critical role 
+in the Glis2-dependent regulation of target genes and renal function.
+
+PMCID: PMC3039324
+PMID: 21127075  [PubMed - indexed for MEDLINE]
+
+
+21. J Med Genet. 2011 Feb;48(2):105-16. doi: 10.1136/jmg.2010.082552. Epub 2010 Nov
+10.
+
+Mutation analysis of 18 nephronophthisis associated ciliopathy disease genes
+using a DNA pooling and next generation sequencing strategy.
+
+Otto EA(1), Ramaswami G, Janssen S, Chaki M, Allen SJ, Zhou W, Airik R, Hurd TW, 
+Ghosh AK, Wolf MT, Hoppe B, Neuhaus TJ, Bockenhauer D, Milford DV, Soliman NA,
+Antignac C, Saunier S, Johnson CA, Hildebrandt F; GPN Study Group.
+
+Collaborators: Bergmann C, Zerres K, Gellermann J, Münch A, Neumann L, Schürmann 
+MJ, Franke I, Beck B, Josefiak K, Michalk D, Stapenhorst, Ronda T, Weber M, Erler
+T, Weidner B, Bonzel KE, Wingen AM, Dippell J, Kirschner J, Korinthenberg R, Mall
+M, Omran H, Wolff G, Fuchs S, Gal A, van Husen M, Lüttgen S, Müller-Wiefel DE,
+Drube J, Ehrich JH, Fründ S, Strehlau J, Hoffmann JF, Kiepe D, Kneppo C, Rieger
+S, Tönshoff B, Bambauer R, Klüte R, Heckel M, Greiner A, Jeck N, Roos R, Bulla M,
+Fründ S, Frye B, Harms E, Kuwertz-Broeking E, Wittwer B, Sanwald R, Stolpe HJ,
+Höpfner J, Holder M, Leichter HE, Baynam G, Edwards C, Peters H, Jones C, Janecke
+A, Sunder-Plassmann G, Devriendt K, Chow J, Trnka P, Ounap K, Apostolou T, Afroze
+B, Lock Hock N, Eccles M, Dixon JW, Hashmi S, Drozdz D, Pogan A, Peco-Antic A,
+Milosevic B, Stojanovic V, Holmberg E, Kern I, Axwijk PH, Knoers N, Ozaltin F,
+Besbas N, Koyun M, Nayir A, Kayserili H, Ozturk S, Pehlivan D, Farrington R,
+Raymond FL, Sandford R, Whittaker J, Kerr B, Cadnapaphornchai M, Hidalgo G,
+Andreoli S, Mills B, Bendel-Stenzel M, Stover N, Weleber R, DeBeukelaer M, Kozma 
+C, Schonberg R, Bitzan M.
+
+Erratum in
+    J Med Genet. 2015 Dec;52(12):866.
+
+BACKGROUND: Nephronophthisis associated ciliopathies (NPHP-AC) comprise a group
+of autosomal recessive cystic kidney diseases that includes nephronophthisis
+(NPHP), Senior-Loken syndrome (SLS), Joubert syndrome (JBTS), and Meckel-Gruber
+syndrome (MKS). To date, causative mutations in NPHP-AC have been described for
+18 different genes, rendering mutation analysis tedious and expensive. To
+overcome the broad genetic locus heterogeneity, a strategy of DNA pooling with
+consecutive massively parallel resequencing (MPR) was devised.
+METHODS: In 120 patients with severe NPHP-AC phenotypes, five pools of genomic
+DNA with 24 patients each were prepared which were used as templates in order to 
+PCR amplify all 376 exons of 18 NPHP-AC genes (NPHP1, INVS, NPHP3, NPHP4, IQCB1, 
+CEP290, GLIS2, RPGRIP1L, NEK8, TMEM67, INPP5E, TMEM216, AHI1, ARL13B, CC2D2A,
+TTC21B, MKS1, and XPNPEP3). PCR products were then subjected to MPR on an
+Illumina Genome-Analyser and mutations were subsequently assigned to their
+respective mutation carrier via CEL I endonuclease based heteroduplex screening
+and confirmed by Sanger sequencing.
+RESULTS: For proof of principle, DNA from patients with known mutations was used 
+and detection of 22 out of 24 different alleles (92% sensitivity) was
+demonstrated. MPR led to the molecular diagnosis in 30/120 patients (25%) and 54 
+pathogenic mutations (27 novel) were identified in seven different NPHP-AC genes.
+Additionally, in 24 patients only single heterozygous variants of unknown
+significance were found.
+CONCLUSIONS: The combined approach of DNA pooling followed by MPR strongly
+facilitates mutation analysis in broadly heterogeneous single gene disorders. The
+lack of mutations in 75% of patients in this cohort indicates further extensive
+heterogeneity in NPHP-AC.
+
+PMCID: PMC3913043
+PMID: 21068128  [PubMed - indexed for MEDLINE]
+
+
+22. Histol Histopathol. 2010 Nov;25(11):1481-96.
+
+Gli-similar (Glis) Krüppel-like zinc finger proteins: insights into their
+physiological functions and critical roles in neonatal diabetes and cystic renal 
+disease.
+
+Kang HS(1), ZeRuth G, Lichti-Kaiser K, Vasanth S, Yin Z, Kim YS, Jetten AM.
+
+Author information: 
+(1)Division of Intramural Research, Cell Biology Section, National Institute of
+Environmental Health Sciences, National Institutes of Health, Research Triangle
+Park, NC, USA.
+
+GLI-similar (Glis) 1-3 proteins constitute a subfamily of the Krüppel-like zinc
+finger transcription factors that are closely related to the Gli family. Glis1-3 
+play critical roles in the regulation of a number of physiological processes and 
+have been implicated in several pathologies. Mutations in GLIS2 have been linked 
+to nephronophthisis, an autosomal recessive cystic kidney disease. Loss of Glis2 
+function leads to renal atrophy and fibrosis that involves epithelial-mesenchymal
+transition (EMT) of renal tubule epithelial cells. Mutations in human GLIS3 have 
+been implicated in a syndrome characterized by neonatal diabetes and congenital
+hypothyroidism (NDH) and in some patients accompanied by polycystic kidney
+disease, glaucoma, and liver fibrosis. In addition, the GLIS3 gene has been
+identified as a susceptibility locus for the risk of type 1 and 2 diabetes. Glis3
+plays a key role in pancreatic development, particularly in the generation of
+ß-cells and in the regulation of insulin gene expression. Glis2 and Glis3
+proteins have been demonstrated to localize to the primary cilium, a signaling
+organelle that has been implicated in several pathologies, including cystic renal
+diseases. This association suggests that Glis2/3 are part of primary
+cilium-associated signaling pathways that control the activity of Glis proteins. 
+Upon activation in the primary cilium, Glis proteins may translocate to the
+nucleus where they subsequently regulate gene transcription by interacting with
+Glis-binding sites in the promoter regulatory region of target genes. In this
+review, we discuss the current knowledge of the Glis signaling pathways, their
+physiological functions, and their involvement in several human pathologies.
+
+PMCID: PMC2996882
+PMID: 20865670  [PubMed - indexed for MEDLINE]
+
+
+23. Clin Cancer Res. 2010 Aug 15;16(16):4165-77. doi: 10.1158/1078-0432.CCR-10-0066. 
+Epub 2010 Aug 3.
+
+Gene array and fluorescence in situ hybridization biomarkers of activity of
+saracatinib (AZD0530), a Src inhibitor, in a preclinical model of colorectal
+cancer.
+
+Arcaroli JJ(1), Touban BM, Tan AC, Varella-Garcia M, Powell RW, Eckhardt SG,
+Elvin P, Gao D, Messersmith WA.
+
+Author information: 
+(1)Division of Medical Oncology, University of Colorado, Denver, Colorado, USA.
+
+PURPOSE: To evaluate the efficacy of saracatinib (AZD0530), an oral Src
+inhibitor, in colorectal cancer (CRC) and to identify biomarkers that predict
+antitumor activity.
+EXPERIMENTAL DESIGN: Twenty-three CRC cell lines were exposed to saracatinib, and
+baseline gene expression profiles of three sensitive and eight resistant cell
+lines in vitro and in vivo were used to predict saracatinib sensitivity in an
+independent group of 10 human CRC explant tumors using the gene array K-Top
+Scoring Pairs (K-TSP) method. In addition, fluorescence in situ hybridization
+(FISH) and immunoblotting determined both Src gene copy number and activation of 
+Src, respectively.
+RESULTS: Two of 10 explant tumors were determined to be sensitive to saracatinib.
+The K-TSP classifier (TOX>GLIS2, TSPAN7>BCAS4, and PARD6G>NXN) achieved 70% (7 of
+10) accuracy on the test set. Evaluation of Src gene copy number by FISH showed a
+trend toward significance (P = 0.066) with respect to an increase in Src gene
+copy and resistance to saracatinib. Tumors sensitive to saracatinib showed an
+increase in the activation of Src and FAK when compared with resistant tumors.
+CONCLUSIONS: Saracatinib significantly decreased tumor growth in a subset of CRC 
+cell lines and explants. A K-TSP classifier (TOX>GLIS2, TSPAN7>BCAS4, and
+PARD6G>NXN) was predictive for sensitivity to saracatinib. In addition, increased
+activation of the Src pathway was associated with sensitivity to saracatinib.
+These results suggest that FISH, a K-TSP classifier, and activation of the Src
+pathway have potential in identifying CRC patients that would potentially benefit
+from treatment with saracatinib.
+
+PMCID: PMC3805460
+PMID: 20682712  [PubMed - indexed for MEDLINE]
+
+
+24. PLoS One. 2009 Jul 17;4(7):e6299. doi: 10.1371/journal.pone.0006299.
+
+Polycystic kidney disease in the medaka (Oryzias latipes) pc mutant caused by a
+mutation in the Gli-Similar3 (glis3) gene.
+
+Hashimoto H(1), Miyamoto R, Watanabe N, Shiba D, Ozato K, Inoue C, Kubo Y, Koga
+A, Jindo T, Narita T, Naruse K, Ohishi K, Nogata K, Shin-I T, Asakawa S, Shimizu 
+N, Miyamoto T, Mochizuki T, Yokoyama T, Hori H, Takeda H, Kohara Y, Wakamatsu Y.
+
+Author information: 
+(1)Bioscience and Biotechnology Center, Nagoya University, Nagoya, Japan.
+hsshsmt@bio.nagoya-u.ac.jp
+
+Polycystic kidney disease (PKD) is a common hereditary disease in humans. Recent 
+studies have shown an increasing number of ciliary genes that are involved in the
+pathogenesis of PKD. In this study, the Gli-similar3 (glis3) gene was identified 
+as the causal gene of the medaka pc mutant, a model of PKD. In the pc mutant, a
+transposon was found to be inserted into the fourth intron of the pc/glis3 gene, 
+causing aberrant splicing of the pc/glis3 mRNA and thus a putatively truncated
+protein with a defective zinc finger domain. pc/glis3 mRNA is expressed in the
+epithelial cells of the renal tubules and ducts of the pronephros and
+mesonephros, and also in the pancreas. Antisense oligonucleotide-mediated
+knockdown of pc/glis3 resulted in cyst formation in the pronephric tubules of
+medaka fry. Although three other glis family members, glis1a, glis1b and glis2,
+were found in the medaka genome, none were expressed in the embryonic or larval
+kidney. In the pc mutant, the urine flow rate in the pronephros was significantly
+reduced, which was considered to be a direct cause of renal cyst formation. The
+cilia on the surface of the renal tubular epithelium were significantly shorter
+in the pc mutant than in wild-type, suggesting that shortened cilia resulted in a
+decrease in driving force and, in turn, a reduction in urine flow rate. Most
+importantly, EGFP-tagged pc/glis3 protein localized in primary cilia as well as
+in the nucleus when expressed in mouse renal epithelial cells, indicating a
+strong connection between pc/glis3 and ciliary function. Unlike human patients
+with GLIS3 mutations, the medaka pc mutant shows none of the symptoms of a
+pancreatic phenotype, such as impaired insulin expression and/or diabetes,
+suggesting that the pc mutant may be suitable for use as a kidney-specific model 
+for human GLIS3 patients.
+
+PMCID: PMC2706989
+PMID: 19609364  [PubMed - indexed for MEDLINE]
+
+
+25. J Am Soc Nephrol. 2009 Jan;20(1):23-35. doi: 10.1681/ASN.2008050456. Epub 2008
+Dec 31.
+
+Nephronophthisis: disease mechanisms of a ciliopathy.
+
+Hildebrandt F(1), Attanasio M, Otto E.
+
+Author information: 
+(1)Department of Pediatrics, Howard Hughes Medical Institute, University of
+Michigan Health System, 8220C MSRB III, 1150 West Medical Center Drive, Ann
+Arbor, MI 48109-5646, USA. fhilde@umich.edu
+
+Nephronophthisis (NPHP), a recessive cystic kidney disease, is the most frequent 
+genetic cause of end-stage kidney disease in children and young adults.
+Positional cloning of nine genes (NPHP1 through 9) and functional
+characterization of their encoded proteins (nephrocystins) have contributed to a 
+unifying theory that defines cystic kidney diseases as "ciliopathies." The theory
+is based on the finding that all proteins mutated in cystic kidney diseases of
+humans or animal models are expressed in primary cilia or centrosomes of renal
+epithelial cells. Primary cilia are sensory organelles that connect
+mechanosensory, visual, and other stimuli to mechanisms of epithelial cell
+polarity and cell-cycle control. Mutations in NPHP genes cause defects in
+signaling mechanisms that involve the noncanonical Wnt signaling pathway and the 
+sonic hedgehog signaling pathway, resulting in defects of planar cell polarity
+and tissue maintenance. The ciliary theory explains the multiple organ
+involvement in NPHP, which includes retinal degeneration, cerebellar hypoplasia, 
+liver fibrosis, situs inversus, and mental retardation. Positional cloning of
+dozens of unknown genes that cause NPHP will elucidate further signaling
+mechanisms involved. Nephrocystins are highly conserved in evolution, thereby
+allowing the use of animal models to develop future therapeutic approaches.
+
+PMCID: PMC2807379
+PMID: 19118152  [PubMed - indexed for MEDLINE]
+
+
+26. Mol Cell Biol. 2008 Apr;28(7):2358-67. doi: 10.1128/MCB.01722-07. Epub 2008 Jan
+28.
+
+Kruppel-like zinc finger protein Glis2 is essential for the maintenance of normal
+renal functions.
+
+Kim YS(1), Kang HS, Herbert R, Beak JY, Collins JB, Grissom SF, Jetten AM.
+
+Author information: 
+(1)Division of Intramural Research, Cell Biology Section, National Institute of
+Environmental Health Sciences, National Institutes of Health, Research Triangle
+Park, NC 27709, USA.
+
+To obtain insight into the physiological functions of the Krüppel-like zinc
+finger protein Gli-similar 2 (Glis2), mice deficient in Glis2 expression were
+generated. Glis2 mutant (Glis2(mut)) mice exhibit significantly shorter life
+spans than do littermate wild-type (WT) mice due to the development of
+progressive chronic kidney disease with features resembling nephronophthisis.
+Glis2(mut) mice develop severe renal atrophy involving increased cell death and
+basement membrane thickening in the proximal convoluted tubules. This development
+is accompanied by infiltration of lymphocytic inflammatory cells and
+interstitial/glomerular fibrosis. The severity of the fibrosis, inflammatory
+infiltrates, and glomerular and tubular changes progresses with age. Blood urea
+nitrogen and creatinine increase, and Glis2(mut) mice develop proteinuria and
+ultimately die prematurely of renal failure. A comparison of the gene expression 
+profiles of kidneys from 25-day-old/60-day-old WT and Glis2(mut) mice by
+microarray analysis showed increased expressions of many genes involved in immune
+responses/inflammation and fibrosis/tissue remodeling in kidneys of Glis2(mut)
+mice, including several cytokines and adhesion and extracellular matrix proteins.
+Our data demonstrate that a deficiency in Glis2 expression leads to tubular
+atrophy and progressive fibrosis, similar to nephronophthisis, that ultimately
+results in renal failure. Our study indicates that Glis2 plays a critical role in
+the maintenance of normal kidney architecture and functions.
+
+PMCID: PMC2268411
+PMID: 18227149  [PubMed - indexed for MEDLINE]
+
+
+27. Nat Genet. 2007 Aug;39(8):1018-24. Epub 2007 Jul 8.
+
+Loss of GLIS2 causes nephronophthisis in humans and mice by increased apoptosis
+and fibrosis.
+
+Attanasio M(1), Uhlenhaut NH, Sousa VH, O'Toole JF, Otto E, Anlag K, Klugmann C, 
+Treier AC, Helou J, Sayer JA, Seelow D, Nürnberg G, Becker C, Chudley AE,
+Nürnberg P, Hildebrandt F, Treier M.
+
+Author information: 
+(1)Department of Pediatrics, University of Michigan, Ann Arbor, Michigan 48109,
+USA.
+
+Nephronophthisis (NPHP), an autosomal recessive kidney disease, is the most
+frequent genetic cause of end-stage renal failure in the first three decades of
+life. Positional cloning of the six known NPHP genes has linked its pathogenesis 
+to primary cilia function. Here we identify mutation of GLIS2 as causing an
+NPHP-like phenotype in humans and mice, using positional cloning and mouse
+transgenics, respectively. Kidneys of Glis2 mutant mice show severe renal atrophy
+and fibrosis starting at 8 weeks of age. Differential gene expression studies on 
+Glis2 mutant kidneys demonstrate that genes promoting epithelial-to-mesenchymal
+transition and fibrosis are upregulated in the absence of Glis2. Thus, we
+identify Glis2 as a transcription factor mutated in NPHP and demonstrate its
+essential role for the maintenance of renal tissue architecture through
+prevention of apoptosis and fibrosis.
+
+PMID: 17618285  [PubMed - indexed for MEDLINE]
+
+
+28. Mol Biol Cell. 2007 May;18(5):1918-27. Epub 2007 Mar 7.
+
+The transcriptional repressor Glis2 is a novel binding partner for p120 catenin.
+
+Hosking CR(1), Ulloa F, Hogan C, Ferber EC, Figueroa A, Gevaert K, Birchmeier W, 
+Briscoe J, Fujita Y.
+
+Author information: 
+(1)Medical Research Council Laboratory for Molecular Cell Biology and Cell
+Biology Unit, Department of Biology, University College London, London WC1E 6BT, 
+UK.
+
+In epithelial cells, p120 catenin (p120) localizes at cell-cell contacts and
+regulates adhesive function of the cadherin complex. In addition, p120 has been
+reported to localize in the nucleus, although the nuclear function of p120 is not
+fully understood. Here, we report the identification of Gli-similar 2 (Glis2) as 
+a novel binding protein for p120. Glis2 is a Krüppel-like transcriptional
+repressor with homology to the Gli family, but its physiological function has not
+been well characterized. In this study, we show that coexpression of Glis2 and
+Src induces nuclear translocation of p120. Furthermore, p120 induces the
+C-terminal cleavage of Glis2, and this cleavage is further enhanced by Src. The
+cleaved form of Glis2 loses one of its five zinc finger domains, but it is still 
+able to bind DNA. Functional studies in chick neural tube indicate that
+full-length Glis2 can affect neuronal differentiation, whereas the cleaved form
+requires coexpression of p120 to have a similar effect. These data indicate that 
+p120 has additional novel functions in the nucleus together with Glis2.
+
+PMCID: PMC1855037
+PMID: 17344476  [PubMed - indexed for MEDLINE]
+
+
+29. FEBS Lett. 2007 Mar 6;581(5):858-64. Epub 2007 Feb 2.
+
+The Krüppel-like zinc finger protein Glis2 functions as a negative modulator of
+the Wnt/beta-catenin signaling pathway.
+
+Kim YS(1), Kang HS, Jetten AM.
+
+Author information: 
+(1)Cell Biology Section, LRB, Division of Intramural Research, National Institute
+of Environmental Health Sciences, National Institutes of Health, Research
+Triangle Park, NC 27709, USA.
+
+To gain insight into the mechanism by which Gli-similar 2 (Glis2) regulates
+transcription, we performed yeast-two hybrid cDNA library screening using Glis2
+as bait. This screening identified beta-catenin as a potential Glis2-interacting 
+protein. Mammalian two-hybrid, co-immunoprecipitation, and GST-pulldown analyses 
+supported the interaction between Glis2 and beta-catenin. Pulldown analyses with 
+several Glis2 deletion mutants indicated that the 1st zinc finger motif of Glis2 
+is critical for its interaction with beta-catenin, while the armadillo repeats of
+beta-catenin are important in its interaction with Glis2. Reporter analyses
+showed that Glis2 represses T-cell factor (TCF)-mediated transcriptional
+activation. In addition, Glis2 represses the expression of the TCF target gene
+cyclin D1. Our results indicate that Glis2 interacts with beta-catenin and
+suggest that Glis2 functions as a negative modulator of beta-catenin/TCF-mediated
+transcription.
+
+PMCID: PMC1838965
+PMID: 17289029  [PubMed - indexed for MEDLINE]
+
+
+30. Nucleic Acids Res. 2005 Dec 2;33(21):6805-15. Print 2005.
+
+Krüppel-like zinc finger protein Gli-similar 2 (Glis2) represses transcription
+through interaction with C-terminal binding protein 1 (CtBP1).
+
+Kim SC(1), Kim YS, Jetten AM.
+
+Author information: 
+(1)Cell Biology Section, Division of Intramural Research, National Institute of
+Environmental Health Sciences, National Institutes of Health, Research Triangle
+Park, NC 27709, USA.
+
+Glis2 is a member of the Gli-similar (Glis) subfamily of Krüppel-like zinc finger
+transcription factors. It functions as an activator and repressor of gene
+transcription. To identify potential co-activators or co-repressors that mediate 
+these actions of Glis2, we performed yeast two-hybrid analysis using Glis2 as
+bait. C-terminal binding protein 1 (CtBP1) was identified as one of the proteins 
+that interact with Glis2. This interaction was confirmed by mammalian two-hybrid 
+analysis. CtBP1 did not interact with other members of the Glis subfamily
+suggesting that this interaction is specific for Glis2. Pulldown analysis with
+GST-CtBP1 demonstrated that CtBP1 physically interacts with Glis2. Analysis of
+CtBP1 and Glis2 deletion mutants identified several regions important for this
+interaction. CtBP1 repressed transcriptional activation induced by Glis2(1-171). 
+Repression by Glis2 appears to involve the recruitment of both CtBP1 and histone 
+deacetylase 3 (HDAC3). Confocal microscopic analysis demonstrated that Glis2
+localized to nuclear speckles while in most cells CtBP1 was found diffusely in
+both cytoplasm and nucleus. However, when CtBP1 and Glis2 were co-expressed,
+CtBP1 was restricted to nuclear speckles and co-localized with Glis2. Our
+observations suggest that the co-repressor CtBP1 and HDAC3 are part of
+transcription silencing complex that mediates the transcriptional repression by
+Glis2.
+
+PMCID: PMC1301595
+PMID: 16326862  [PubMed - indexed for MEDLINE]
+
+
+31. J Biol Chem. 2002 Mar 22;277(12):10139-49. Epub 2001 Dec 12.
+
+Characterization of Glis2, a novel gene encoding a Gli-related, Krüppel-like
+transcription factor with transactivation and repressor functions. Roles in
+kidney development and neurogenesis.
+
+Zhang F(1), Nakanishi G, Kurebayashi S, Yoshino K, Perantoni A, Kim YS, Jetten
+AM.
+
+Author information: 
+(1)Cell Biology Section Division of Intramural Research, NIEHS, National
+Institutes of Health, Research Triangle Park, North Carolina 27709, USA.
+
+In this study, we describe the characterization of a gene encoding a novel
+Krüppel-like protein, named Glis2. Glis2 encodes a relatively proline-rich, basic
+55.8-kDa protein. Its five tandem Cys(2)-His(2) zinc finger motifs exhibit the
+highest homology to those of members of the Gli and Zic subfamilies of
+Krüppel-like proteins. Confocal microscopic analysis demonstrated that Glis2
+localizes to the nucleus. Analysis of the genomic structure of the Glis2 gene
+showed that it is composed of 6 exons separated by 5 introns spanning a genomic
+region of more than 7.5 kb. Fluorescence in situ hybridization mapped the mouse
+Glis2 gene to chromosome 16A3-B1. Northern blot analysis showed that the Glis2
+gene encodes a 3.8-kb transcript that is most abundant in adult mouse kidney. By 
+in situ hybridization, expression was localized to somites and neural tube, and
+during metanephric development predominantly to the ureteric bud, precursor of
+the collecting duct, and inductor of nephronic tubule formation. One-hybrid
+analysis using Glis2 deletion mutants identified a novel activation function (AF)
+at the N terminus. The activation of transcription through this AF domain was
+totally suppressed by two repressor functions just downstream from the AF. One of
+the repressor functions is contained within the first zinc finger motif. The
+level of transcriptional activation and repression varied with the cell line
+tested, which might be due to differences in cell type-specific expression of
+co-activators and co-repressors. Our results suggest that Glis2 behaves as a
+bifunctional transcriptional regulator. Both the activation and repressor
+functions may play an important role in the regulation of gene expression during 
+embryonic development.
+
+PMID: 11741991  [PubMed - indexed for MEDLINE]
+
+
+32. Gene. 2001 Dec 12;280(1-2):49-57.
+
+Genomic structure of the gene encoding the human GLI-related, Krüppel-like zinc
+finger protein GLIS2.
+
+Zhang F(1), Jetten AM.
+
+Author information: 
+(1)Cell Biology Section, Division of Intramural Research, National Institute of
+Environmental Health Sciences, National Institutes of Health Research, Triangle
+Park, NC 27709, USA.
+
+In this study, we describe the sequence and genomic structure of the human GLIS2 
+gene, encoding a new member of the Krüppel-like zinc finger protein family. GLIS2
+is a relatively proline-rich, basic protein of 55.7 kDa in size. It contains five
+tandem Cys(2)-His(2) zinc finger motifs consisting of the consensus sequence
+X-Cys-X(2,4)-Cys-X(12,15)-His-X(3,4)-His-X. The sequence of the zinc finger
+domain exhibits highest homology with those of members of the GLI and ZIC
+subfamilies of Krüppel-like proteins. The zinc finger domain of GLIS2 exhibits
+highest (58%) homology with that of GLI-1. The human GLIS2 gene consists of six
+exons and five introns, and spans more than 7.5 kb. Primer extension identified
+several putative transcription initiation sites. GLIS2 mRNA is most abundantly
+expressed in human kidney suggesting a role in the regulation of certain kidney
+functions. The GLIS2 gene maps to human chromosome 16p13.3, a locus implicated in
+several human kidney diseases. The sequence and structure of human GLIS2 will be 
+useful tools to study the regulation of GLIS2 and its potential role in human
+disease.
+
+PMID: 11738817  [PubMed - indexed for MEDLINE]
+
+

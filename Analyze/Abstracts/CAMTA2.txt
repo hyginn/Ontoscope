@@ -1,0 +1,282 @@
+
+1. J Hypertens. 2016 May;34(5):942-9. doi: 10.1097/HJH.0000000000000873.
+
+A functional variant in the coding region of CAMTA2 is associated with left
+ventricular hypertrophy by affecting the activation of Nkx2.5-dependent
+transcription.
+
+Song WH(1), Lin YH, Sun K, Zhang YH, Song Y, Hou LB, Zhang CN, Hui RT, Chen JZ.
+
+Author information: 
+(1)aInternal Medicine bSino-German Laboratory for Molecular Medicine cNational
+Clinical Research Center of Cardiovascular Diseases, State Key Laboratory of
+Cardiovascular Disease, Fuwai Hospital, National Center for Cardiovascular
+Diseases, Chinese Academy of Medical Sciences and Peking Union Medical College,
+Beijing, People's Republic of China *Wei-hua Song and Ya-hui Lin contributed
+equally to the writing of this article.
+
+OBJECTIVE: The calmodulin-binding transcription activator 2 (CAMTA2) promotes
+transcription of genes involved in cardiac hypertrophy through its interaction
+with Nkx2.5 and is an indispensable transcription coactivator for cardiac
+hypertrophy. We hypothesized that variants in the coding region of CAMTA2 would
+affect its function and confer a risk of cardiac hypertrophy.
+METHODS: The effects of the variant rs238234 on the activity of the atrial
+natriuretic factor promoter and on the cardiomyocytes hypertrophy were assessed
+in the H9C2 cell line and primary neonatal rat cardiomyocytes, respectively.
+Furthermore, the association of this variant with left ventricular hypertrophy
+(LVH) was tested in hypertensive patients with and without hypertrophy (N<U+200A>=<U+200A>325
+and 697), and this analysis was replicated in an independent population of 987
+hypertensive patients without hypertrophy and 463 hypertensive patients with
+hypertrophy.
+RESULTS: We found that the G allele of rs238234 activated the atrial natriuretic 
+factor promoter more strongly than the C allele. The cell size of cardiomyocytes 
+was larger in the presence of the Ad-CAMTA2 G allele, and the G allele was
+associated with significantly increased susceptibility to LVH in hypertensive
+[odds ratio (OR), 1.29; P<U+200A>=<U+200A>0.009]. In the discovery cohort, after adjusting for 
+age and sex, the GG genotype was significantly associated with increased LVH risk
+(OR, 1.75; P<U+200A>=<U+200A>0.015). There was little attenuation of the ORs (1.62; P<U+200A><<U+200A>0.05)
+when adjusting for BMI, heart rate, blood pressure, smoking, and drinking and
+further adjusting all covariates including lipid levels and other major risk
+factors. However, the GC genotype did not show any association with LVH using
+three regressive models. Replication in the second study yielded similar results.
+CONCLUSION: Our results provide evidence that the rs238234 GG genotype in the
+coding region of CAMTA2 may increase the risk of LVH by affecting the activation 
+of Nkx2.5-dependent transcription.
+
+PMID: 26886562  [PubMed - in process]
+
+
+2. PLoS One. 2014 Dec 11;9(12):e114616. doi: 10.1371/journal.pone.0114616.
+eCollection 2014.
+
+Identification of genomic alterations in pancreatic cancer using array-based
+comparative genomic hybridization.
+
+Liang JW(1), Shi ZZ(2), Shen TY(2), Che X(1), Wang Z(1), Shi SS(3), Xu X(4), Cai 
+Y(4), Zhao P(1), Wang CF(1), Zhou ZX(1), Wang MR(4).
+
+Author information: 
+(1)Department of Abdominal Surgical Oncology, Cancer Hospital and Institute,
+Chinese Academy of Medical Sciences, Peking Union Medical College, Beijing,
+China. (2)Faculty of Medicine, Kunming University of Science and Technology,
+Kunming, China. (3)Department of Pathology, Cancer Hospital and Institute,
+Chinese Academy of Medical Sciences, Peking Union Medical College, Beijing,
+China. (4)State Key Laboratory of Molecular Oncology, Cancer Hospital and
+Institute, Chinese Academy of Medical Sciences, Peking Union Medical College,
+Beijing, China.
+
+BACKGROUND: Genomic aberration is a common feature of human cancers and also is
+one of the basic mechanisms that lead to overexpression of oncogenes and
+underexpression of tumor suppressor genes. Our study aims to identify frequent
+genomic changes in pancreatic cancer.
+MATERIALS AND METHODS: We used array comparative genomic hybridization (array
+CGH) to identify recurrent genomic alterations and validated the protein
+expression of selected genes by immunohistochemistry.
+RESULTS: Sixteen gains and thirty-two losses occurred in more than 30% and 60% of
+the tumors, respectively. High-level amplifications at 7q21.3-q22.1 and 19q13.2
+and homozygous deletions at 1p33-p32.3, 1p22.1, 1q22, 3q27.2, 6p22.3, 6p21.31,
+12q13.2, 17p13.2, 17q21.31 and 22q13.1 were identified. Especially, amplification
+of AKT2 was detected in two carcinomas and homozygous deletion of CDKN2C in other
+two cases. In 15 independent validation samples, we found that AKT2 (19q13.2) and
+MCM7 (7q22.1) were amplified in 6 and 9 cases, and CAMTA2 (17p13.2) and PFN1
+(17p13.2) were homozygously deleted in 3 and 1 cases. AKT2 and MCM7 were
+overexpressed, and CAMTA2 and PFN1 were underexpressed in pancreatic cancer
+tissues than in morphologically normal operative margin tissues. Both GISTIC and 
+Genomic Workbench software identified 22q13.1 containing APOBEC3A and APOBEC3B as
+the only homozygous deletion region. And the expression levels of APOBEC3A and
+APOBEC3B were significantly lower in tumor tissues than in morphologically normal
+operative margin tissues. Further validation showed that overexpression of PSCA
+was significantly associated with lymph node metastasis, and overexpression of
+HMGA2 was significantly associated with invasive depth of pancreatic cancer.
+CONCLUSION: These recurrent genomic changes may be useful for revealing the
+mechanism of pancreatic carcinogenesis and providing candidate biomarkers.
+
+PMCID: PMC4263743
+PMID: 25502777  [PubMed - indexed for MEDLINE]
+
+
+3. Proc Natl Acad Sci U S A. 2014 Aug 5;111(31):11521-6. doi:
+10.1073/pnas.1411251111. Epub 2014 Jul 21.
+
+Ataxia and Purkinje cell degeneration in mice lacking the CAMTA1 transcription
+factor.
+
+Long C(1), Grueter CE(1), Song K(1), Qin S(1), Qi X(1), Kong YM(1), Shelton
+JM(2), Richardson JA(3), Zhang CL(1), Bassel-Duby R(1), Olson EN(1).
+
+Author information: 
+(1)Departments of Molecular Biology. (2)Internal Medicine, and. (3)Pathology,
+University of Texas Southwestern Medical Center, Dallas, TX 75390.
+
+Members of the calmodulin-binding transcription activator (CAMTA) family of
+proteins function as calcium-sensitive regulators of gene expression in
+multicellular organisms ranging from plants to humans. Here, we show that global 
+or nervous system deletion of CAMTA1 in mice causes severe ataxia with Purkinje
+cell degeneration and cerebellar atrophy, partially resembling the consequences
+of haploinsufficiency of the human CAMTA1 locus. Gene-expression analysis
+identified a large collection of neuronal genes that were dysregulated in the
+brains of CAMTA1-mutant mice, and elucidation of a consensus sequence for binding
+of CAMTA proteins to DNA revealed the association of CAMTA-binding sites with
+many of these genes. We conclude that CAMTA1 plays an essential role in the
+control of Purkinje cell function and survival. CAMTA1-mutant mice provide a
+model to study the molecular mechanisms of neurodegenerative diseases and for
+screening potential therapeutic interventions for such disorders.
+
+PMCID: PMC4128133
+PMID: 25049392  [PubMed - indexed for MEDLINE]
+
+
+4. Plant J. 2013 Aug;75(3):364-76. doi: 10.1111/tpj.12205. Epub 2013 May 11.
+
+Roles of CAMTA transcription factors and salicylic acid in configuring the
+low-temperature transcriptome and freezing tolerance of Arabidopsis.
+
+Kim Y(1), Park S, Gilmour SJ, Thomashow MF.
+
+Author information: 
+(1)MSU-DOE Plant Research Laboratory, Michigan State University, East Lansing, MI
+48824, USA.
+
+Previous studies in Arabidopsis thaliana established roles for CALMODULIN BINDING
+TRANSCRIPTION ACTIVATOR 3 (CAMTA3) in the rapid cold induction of CRT/DRE BINDING
+FACTOR (CBF) genes CBF1 and CBF2, and the repression of salicylic acid (SA)
+biosynthesis at warm temperature. Here we show that CAMTA1 and CAMTA2 work in
+concert with CAMTA3 at low temperature (4°C) to induce peak transcript levels of 
+CBF1, CBF2 and CBF3 at 2 h, contribute to up-regulation of approximately 15% of
+the genes induced at 24 h, most of which fall outside the CBF pathway, and
+increase plant freezing tolerance. In addition, CAMTA1, CAMTA2 and CAMTA3
+function together to inhibit SA biosynthesis at warm temperature (22°C). However,
+SA levels increase in Arabidopsis plants that are exposed to low temperature for 
+more than 1 week. We show that this chilling-induced SA biosynthesis proceeds
+through the isochorismate synthase (ICS) pathway, with cold induction of ICS1
+(which encodes ICS), and two genes encoding transcription factors that positively
+regulate ICS1 - CBP60g and SARD1 -, paralleling SA accumulation. The three CAMTA 
+proteins effectively repress the accumulation of ICS1, CBP60g and SARD1
+transcripts at warm temperature but not at low temperature. This impairment of
+CAMTA function may involve post-transcriptional regulation, as CAMTA transcript
+levels did not decrease at low temperature. Salicylic acid biosynthesis at low
+temperature did not contribute to freezing tolerance, but had a major role in
+configuring the transcriptome, including the induction of 'defense response'
+genes, suggesting the possible existence of a pre-emptive defense strategy
+programmed by prolonged chilling temperatures.
+
+© 2013 The Authors The Plant Journal © 2013 John Wiley & Sons Ltd.
+
+PMID: 23581962  [PubMed - indexed for MEDLINE]
+
+
+5. Rev Neurol. 2011 Feb 1;52(3):189-91.
+
+[Deletion of the LIS1, ASPA, TRPV1 and CAMTA2 genes in region 17p13.3 in a
+patient with Miller-Dieker syndrome].
+
+[Article in Spanish]
+
+Laurito S, Goldschmidt E, Marquez M, Roque M.
+
+PMID: 21287497  [PubMed - indexed for MEDLINE]
+
+
+6. FEBS Lett. 2007 Aug 21;581(21):3893-8. Epub 2007 Aug 1.
+
+CAMTAs: calmodulin-binding transcription activators from plants to human.
+
+Finkler A(1), Ashery-Padan R, Fromm H.
+
+Author information: 
+(1)Department of Plant Sciences, Faculty of Life Sciences, Tel Aviv University,
+Tel Aviv 69978, Israel.
+
+Recently, a novel family of calmodulin-binding transcription activators (CAMTAs) 
+was reported in various eukaryotes. All CAMTAs share a similar domain
+organization, with a novel type of sequence-specific DNA-binding domain
+(designated CG-1). This domain could bind DNA directly and activate
+transcription, or interact with other transcription factors, not through DNA
+binding, thus acting as a co-activator of transcription. Investigations of CAMTAs
+in various organisms imply a broad range of functions from sensory mechanisms to 
+embryo development and growth control, highlighted by the apparent involvement of
+mammalian CAMTA2 in cardiac growth, and of CAMTA1 in tumor suppression and memory
+performance.
+
+PMID: 17689537  [PubMed - indexed for MEDLINE]
+
+
+7. Curr Opin Cell Biol. 2006 Dec;18(6):715-22. Epub 2006 Oct 12.
+
+Coactivator control of cardiovascular growth and remodeling.
+
+Liu N(1), Olson EN.
+
+Author information: 
+(1)Department of Molecular Biology, University of Texas Southwestern Medical
+Center at Dallas, 6000 Harry Hines Blvd., Dallas, TX 75390, USA.
+
+Transcriptional coactivators enhance gene expression by associating with
+sequence-specific transcription factors and serve as the primary targets of
+developmental and physiological signals in diverse biological processes. Recent
+studies have revealed key roles for transcriptional coactivators in the control
+of gene expression during development, growth and remodeling of the
+cardiovascular system. Based on the importance of the cardiovascular coactivators
+identified to date, coactivator control is emerging as a central regulatory
+mechanism in development and homeostasis of the cardiovascular system and other
+tissues.
+
+PMID: 17046230  [PubMed - indexed for MEDLINE]
+
+
+8. Cell. 2006 May 5;125(3):453-66.
+
+The transcriptional coactivator CAMTA2 stimulates cardiac growth by opposing
+class II histone deacetylases.
+
+Song K(1), Backs J, McAnally J, Qi X, Gerard RD, Richardson JA, Hill JA,
+Bassel-Duby R, Olson EN.
+
+Author information: 
+(1)Department of Molecular Biology, The University of Texas Southwestern Medical 
+Center at Dallas, 6000 Harry Hines Blvd., Dallas, TX 75390, USA.
+
+Comment in
+    Cell. 2006 May 5;125(3):427-9.
+
+Postnatal cardiac myocytes respond to diverse signals by hypertrophic growth and 
+activation of a fetal gene program. In an effort to discover regulators of
+cardiac hypertrophy, we performed a eukaryotic expression screen for activators
+of the atrial natriuretic factor (ANF) gene, a cardiac-specific marker of
+hypertrophic signaling. We discovered that a family of transcriptional
+coactivators, called CAMTAs, promotes cardiomyocyte hypertrophy and activates the
+ANF gene, at least in part, by associating with the cardiac homeodomain protein
+Nkx2-5. The transcriptional activity of CAMTAs is governed by association with
+class II histone deacetylases (HDACs), which negatively regulate cardiac growth. 
+Mice homozygous for a mutation in a CAMTA gene are defective in cardiac growth in
+response to pressure overload and neurohumoral signaling, whereas mice lacking
+HDAC5, a class II HDAC, are sensitized to the prohypertrophic actions of CAMTA.
+These findings reveal a transcriptional regulatory mechanism that modulates
+cardiac growth and gene expression by linking hypertrophic signals to the cardiac
+genome.
+
+PMID: 16678093  [PubMed - indexed for MEDLINE]
+
+
+9. Cell. 2006 May 5;125(3):427-9.
+
+CAMTA in cardiac hypertrophy.
+
+Schwartz RJ(1), Schneider MD.
+
+Author information: 
+(1)The Institute of Biosciences and Technology, The Texas A&M University System
+Health Science Center, Houston, TX 77030, USA. rschwartz@ibt.tamhsc.edu
+
+Comment on
+    Cell. 2006 May 5;125(3):453-66.
+
+In this issue of Cell, the Calmodulin binding transcription activator 2 (CAMTA2),
+is shown by Song et al. (2006) to be an indispensable transcription coactivator
+for cardiac hypertrophy. CAMTA2 is activated by the dissociation of class II
+histone deacetylase 5 and promotes transcription of genes involved in cardiac
+hypertrophy through its interaction with Nkx2-5.
+
+PMID: 16678087  [PubMed - indexed for MEDLINE]
+
+

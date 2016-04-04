@@ -1,0 +1,3058 @@
+
+1. Oncotarget. 2016 Mar 8. doi: 10.18632/oncotarget.7988. [Epub ahead of print]
+
+ChIP-on-chip analysis of thyroid hormone-regulated genes and their physiological 
+significance.
+
+Chung IH(1), Liu H(1,)(2,)(3), Lin YH(1), Chi HC(1), Huang YH(4), Yang CC(2,)(5),
+Yeh CT(4), Tan BC(2,)(5,)(6), Lin KH(1,)(4).
+
+Author information: 
+(1)Department of Biochemistry, College of Medicine, Chang Gung University,
+Taoyuan, Taiwan. (2)Molecular Medicine Research Center, Chang Gung University,
+Taoyuan, Taiwan. (3)Colorectal Section, Chang Gung Memorial Hospital, Linkou,
+Taoyuan, Taiwan. (4)Liver Research Center, Chang Gung Memorial Hospital, Linkou, 
+Taoyuan, Taiwan. (5)Department of Biomedical Sciences, College of Medicine, Chang
+Gung University, Taoyuan, Taiwan. (6)Department of Neurosurgery, Chang Gung
+Memorial Hospital, Taoyuan, Taiwan.
+
+Triiodothyronine (T3) and its receptor (TR) modulate several physiological
+processes, including cell development, proliferation, differentiation and
+metabolism. The regulatory mechanism of T3/TR involves binding to the thyroid
+hormone response element (TRE) within the target gene promoter. However, the
+number of target genes directly regulated by TRa1 and the specific pathways of
+TR-regulated target genes remain largely unknown. Here, we expressed TRa1 in a
+HepG2 cell line and used chromatin immunoprecipitation coupled with microarray to
+determine the genes that are directly regulated by TRa1 and also involved in cell
+metabolism and proliferation. Our analysis identified E74-like factor 2 (ELF2), a
+transcription factor associated with tumor growth, as a direct target
+downregulated by T3/TR. Overexpression of ELF2 enhanced tumor cell proliferation,
+and conversely, its knockdown suppressed tumor growth. Additionally, ELF2
+restored the proliferative ability of hepatoma cells inhibited by T3/TR. Our
+findings collectively support a potential role of T3/TR in tumor growth
+inhibition through regulation of ELF2.
+
+PMID: 26968954  [PubMed - as supplied by publisher]
+
+
+2. Cancer Res. 2016 Feb 26. [Epub ahead of print]
+
+Mutational Landscape and Antiproliferative Functions of ELF Transcription Factors
+in Human Cancer.
+
+Ando M(1), Kawazu M(2), Ueno T(3), Koinuma D(4), Ando K(5), Koya J(6), Kataoka
+K(6), Yasuda T(3), Yamaguchi H(3), Fukumura K(3), Yamato A(3), Soda M(3), Sai
+E(2), Yamashita Y(3), Asakage T(7), Miyazaki Y(5), Kurokawa M(6), Miyazono K(4), 
+Nimer SD(8), Yamasoba T(7), Mano H(9).
+
+Author information: 
+(1)Department of Cellular Signaling, Graduate School of Medicine, The University 
+of Tokyo, Tokyo, Japan. Department of Otolaryngology and Head and Neck Surgery,
+Graduate School of Medicine, The University of Tokyo, Tokyo, Japan. (2)Department
+of Medical Genomics, Graduate School of Medicine, The University of Tokyo, Tokyo,
+Japan. (3)Department of Cellular Signaling, Graduate School of Medicine, The
+University of Tokyo, Tokyo, Japan. (4)Department of Molecular Pathology, Graduate
+School of Medicine, The University of Tokyo, Tokyo, Japan. (5)Department of
+Hematology, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki,
+Japan. (6)Department of Hematology and Oncology, Graduate School of Medicine, The
+University of Tokyo, Tokyo, Japan. (7)Department of Otolaryngology and Head and
+Neck Surgery, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan.
+(8)Sylvester Comprehensive Cancer Center, University of Miami, Miami, Florida.
+(9)Department of Cellular Signaling, Graduate School of Medicine, The University 
+of Tokyo, Tokyo, Japan. Strategic Basic Research Program, Japan Science and
+Technology Agency, Saitama, Japan. hmano@m.u-tokyo.ac.jp.
+
+ELF4 (also known as MEF) is a member of the ETS family of transcription factors. 
+An oncogenic role for ELF4 has been demonstrated in hematopoietic malignancies,
+but its function in epithelial tumors remains unclear. Here, we show that ELF4
+can function as a tumor suppressor and is somatically inactivated in a wide range
+of human tumors. We identified a missense mutation affecting the transactivation 
+potential of ELF4 in oral squamous cell carcinoma cells. Restoration of the
+transactivation activity through introduction of wild-type ELF4 significantly
+inhibited cell proliferationin vitroand tumor xenograft growth. Furthermore, we
+found that ELF1 and ELF2, closely related transcription factors to ELF4, also
+exerted antiproliferative effects in multiple cancer cell lines. Mutations in
+ELF1 and ELF2, as in ELF4, were widespread across human cancers, but were almost 
+all mutually exclusive. Moreover, chromatin immunoprecipitation coupled with
+high-throughput sequencing revealed ELF4-binding sites in genomic regions
+adjacent to genes related to cell-cycle regulation and apoptosis. Finally, we
+provide mechanistic evidence that the antiproliferative effects of ELF4 were
+mediated through the induction of HRK, an activator of apoptosis, and DLX3, an
+inhibitor of cell growth. Collectively, our findings reveal a novel subtype of
+human cancer characterized by inactivating mutations in the ELF subfamily of
+proteins, and warrant further investigation of the specific settings where ELF
+restoration may be therapeutically beneficial.Cancer Res; 76(7); 1-11. ©2016
+AACR.
+
+©2016 American Association for Cancer Research.
+
+PMID: 26921333  [PubMed - as supplied by publisher]
+
+
+3. BMC Dev Biol. 2015 Dec 18;15:49. doi: 10.1186/s12861-015-0096-3.
+
+Transcriptome profiling of bovine inner cell mass and trophectoderm derived from 
+in vivo generated blastocysts.
+
+Hosseini SM(1,)(2), Dufort I(3), Caballero J(4), Moulavi F(5), Ghanaei HR(6),
+Sirard MA(7).
+
+Author information: 
+(1)Department of Reproductive Biotechnology, Reproductive Biomedicine Research
+Center, Royan Institute for Biotechnology, ACECR, Isfahan, Iran.
+smhosseini@royaninstitute.org. (2)Centre de Recherche en Biologie de la
+Reproduction, Faculté des Sciences de l'Agriculture et de l'Alimentation,
+Département des Sciences Animales, Pavillon INAF, Université Laval, Québec, QC,
+G1V 0A6, Canada. smhosseini@royaninstitute.org. (3)Centre de Recherche en
+Biologie de la Reproduction, Faculté des Sciences de l'Agriculture et de
+l'Alimentation, Département des Sciences Animales, Pavillon INAF, Université
+Laval, Québec, QC, G1V 0A6, Canada. Isabelle.dufort@fsaa.ulaval.ca. (4)Centre de 
+Recherche en Biologie de la Reproduction, Faculté des Sciences de l'Agriculture
+et de l'Alimentation, Département des Sciences Animales, Pavillon INAF,
+Université Laval, Québec, QC, G1V 0A6, Canada. Julieta.caballero.1@ulaval.ca.
+(5)Department of Reproductive Biotechnology, Reproductive Biomedicine Research
+Center, Royan Institute for Biotechnology, ACECR, Isfahan, Iran.
+f_moulavi@yahoo.com. (6)Department of Reproductive Biotechnology, Reproductive
+Biomedicine Research Center, Royan Institute for Biotechnology, ACECR, Isfahan,
+Iran. hamidghanai@yahoo.co.uk. (7)Centre de Recherche en Biologie de la
+Reproduction, Faculté des Sciences de l'Agriculture et de l'Alimentation,
+Département des Sciences Animales, Pavillon INAF, Université Laval, Québec, QC,
+G1V 0A6, Canada. Marc-Andre.Sirard@fsaa.ulaval.ca.
+
+BACKGROUND: This study describes the generation and analysis of the
+transcriptional profile of bovine inner cell mass (ICM) and trophectoderm (TE),
+obtained from in vivo developed embryos by using a bovine-embryo specific array
+(EmbryoGENE) containing 37,238 probes.
+RESULTS: A total of 4,689 probes were differentially expressed between ICM and
+TE, among these, 2,380 and 2,309 probes were upregulated in ICM and TE tissues,
+respectively (P = 0.01, FC = 2.0, FDR: 2.0). Ontological classification of the
+genes predominantly expressed in ICM emerged a range of functional categories
+with a preponderance of genes involved in basal and developmental signaling
+pathways including P53, TGFß, IL8, mTOR, integrin, ILK, and ELF2 signalings.
+Cross-referencing of microarray data with two available in vitro studies
+indicated a marked reduction in ICM vs. TE transcriptional difference following
+in vitro culture of bovine embryos. Moreover, a great majority of genes that were
+found to be misregulated following in vitro culture of bovine embryos were known 
+genes involved in epigenetic regulation of pluripotency and cell differentiation 
+including DNMT1, GADD45, CARM1, ELF5 HDAC8, CCNB1, KDM6A, PRDM9, CDX2, ARID3A,
+IL6, GADD45A, FGFR2, PPP2R2B, and SMARCA2. Cross-species referencing of
+microarray data revealed substantial divergence between bovine and mouse and
+human in signaling pathways involved in early lineage specification.
+CONCLUSIONS: The transcriptional changes occur during ICM and TE lineages
+specification in bovine is greater than previously understood. Therefore, this
+array data establishes a standard to evaluate the in vitro imprint on the
+transcriptome and to hypothesize the cross-species differences that allow in
+vitro acquisition of pluripotent ICM in human and mice but hinder that process in
+bovine.
+
+PMCID: PMC4683974
+PMID: 26681441  [PubMed - in process]
+
+
+4. Exp Eye Res. 2015 Nov;140:130-8. doi: 10.1016/j.exer.2015.08.022. Epub 2015 Sep
+9.
+
+Correlation of ER stress and retinal degeneration in tubby mice.
+
+Cai X(1), Chen L(2), McGinnis JF(3).
+
+Author information: 
+(1)Department of Ophthalmology, Dean McGee Eye Institute, University of Oklahoma 
+Health Sciences Center, Oklahoma City, OK 73104, United States. Electronic
+address: xue-cai@ouhsc.edu. (2)Department of Ophthalmology, Dean McGee Eye
+Institute, University of Oklahoma Health Sciences Center, Oklahoma City, OK
+73104, United States. (3)Department of Ophthalmology, Dean McGee Eye Institute,
+University of Oklahoma Health Sciences Center, Oklahoma City, OK 73104, United
+States; Department of Cell Biology, University of Oklahoma Health Sciences
+Center, Oklahoma City, OK 73104, United States; Oklahoma Center for Neuroscience,
+University of Oklahoma Health Sciences Center, Oklahoma City, OK 73104, United
+States. Electronic address: james-mcginnis@ouhsc.edu.
+
+Mutation of the Tub gene results in the mislocalization of photoreceptor-specific
+proteins and eventually retinal degeneration. However, the exact mechanism
+underlying the retinal degeneration remains largely unknown. In this study, we
+discovered that the expression of endoplasmic reticulum (ER) stress markers,
+IRE1, ATF6, eIF2a, GRP78/BiP, and XBP-1, is up regulated during tubby retinal
+development. The dynamics of the expression of these genes are time-dependent and
+coincided with the time-course of photoreceptor death. Our data also demonstrated
+that ER stress triggers apoptosis via down-regulation of Bcl2, up-regulation of
+CHOP and the activation of NF-<U+043A>B signaling.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+PMCID: PMC4624508 [Available on 2016-11-01]
+PMID: 26325328  [PubMed - indexed for MEDLINE]
+
+
+5. Sci Rep. 2015 Jun 25;5:11555. doi: 10.1038/srep11555.
+
+Endoplasmic reticulum stress impairment in the spinal dorsal horn of a
+neuropathic pain model.
+
+Zhang E(1), Yi MH(2), Shin N(2), Baek H(2), Kim S(2), Kim E(2), Kwon K(2), Lee
+S(3), Kim HW(4), Chul Bae Y(5), Kim Y(6), Kwon OY(2), Lee WH(3), Kim DW(2).
+
+Author information: 
+(1)1] Department of Anatomy, Brain Research Institute, Chungnam National
+University School of Medicine, Daejeon 301-747, South Korea [2] Department of
+Anesthesiology, Yanbian University Hospital, Yanbian, 133000, China.
+(2)Department of Anatomy, Brain Research Institute, Chungnam National University 
+School of Medicine, Daejeon 301-747, South Korea. (3)Department of Anesthesia and
+Pain Medicine, Chungnam National University Hospital, Daejeon 301-721, South
+Korea. (4)Department of Physiology, Brain Research Institute, Chungnam National
+University School of Medicine, Daejeon 301-747, South Korea. (5)Department of
+Oral Anatomy and Neurobiology, School of Dentistry, Kyungpook National
+University, Daegu 700-412, South Korea. (6)Department of Chemical and Biological 
+Engineering, The University of Alabama, Tuscaloosa, AL, USA.
+
+Endoplasmic reticulum (ER) stress has been implicated in neurodegenerative
+diseases, but its role in neuropathic pain remains unclear. In this study, we
+examined the ER stress and the unfolded protein response (UPR) activation in a L5
+spinal nerve ligation (SNL)-induced rat neuropathic pain model. SNL-induced
+neuropathic pain was assessed behaviorally using the CatWalk system, and
+histologically with microglial activation in the dorsal spinal horn. L5 SNL
+induced BIP upregulation in the neuron of superficial laminae of dorsal spinal
+horn. It also increased the level of ATF6 and intracellular localization into the
+nuclei in the neurons. Moreover, spliced XBP1 was also markedly elevated in the
+ipsilateral spinal dorsal horn. The PERK-elF2 pathway was activated in astrocytes
+of the spinal dorsal horn in the SNL model. In addition, electron microscopy
+revealed the presence of swollen cisternae in the dorsal spinal cord after SNL.
+Additionally, inhibition of the ATF6 pathway by intrathecal treatment with ATF6
+siRNA reduced pain behaviors and BIP expression in the dorsal horn. The results
+suggest that ER stress might be involved in the induction and maintenance of
+neuropathic pain. Furthermore, a disturbance in UPR signaling may render the
+spinal neurons vulnerable to peripheral nerve injury or neuropathic pain stimuli.
+
+PMCID: PMC4479804
+PMID: 26109318  [PubMed - in process]
+
+
+6. Proteomics. 2015 Aug;15(15):2716-29. doi: 10.1002/pmic.201400508. Epub 2015 May
+19.
+
+Extensive differential protein phosphorylation as intraerythrocytic Plasmodium
+falciparum schizonts develop into extracellular invasive merozoites.
+
+Lasonder E(1), Green JL(2), Grainger M(2), Langsley G(3,)(4), Holder AA(2).
+
+Author information: 
+(1)School of Biomedical and Healthcare Sciences, Plymouth University, Drake
+Circus, Plymouth, Devon, UK. (2)The Francis Crick Institute, Mill Hill
+Laboratory, The Ridgeway, Mill Hill, London, UK. (3)Laboratoire de Biologie
+Cellulaire Comparative des Apicomplexes, Faculté de Médicine, Université Paris
+Descartes - Sorbonne Paris Cité, France. (4)Inserm U1016, CNRS UMR8104, Institut 
+Cochin, Paris, France.
+
+Pathology of the most lethal form of malaria is caused by Plasmodium falciparum
+asexual blood stages and initiated by merozoite invasion of erythrocytes. We
+present a phosphoproteome analysis of extracellular merozoites revealing 1765
+unique phosphorylation sites including 785 sites not previously detected in
+schizonts. All MS data have been deposited in the ProteomeXchange with identifier
+PXD001684 (http://proteomecentral.proteomexchange.org/dataset/PXD001684). The
+observed differential phosphorylation between extra and intraerythrocytic
+life-cycle stages was confirmed using both phospho-site and phospho-motif
+specific antibodies and is consistent with the core motif [K/R]xx[pS/pT] being
+highly represented in merozoite phosphoproteins. Comparative bioinformatic
+analyses highlighted protein sets and pathways with established roles in
+invasion. Within the merozoite phosphoprotein interaction network a subnetwork of
+119 proteins with potential roles in cellular movement and invasion was
+identified and suggested that it is coregulated by a further small subnetwork of 
+protein kinase A (PKA), two calcium-dependent protein kinases (CDPKs), a
+phosphatidyl inositol kinase (PI3K), and a GCN2-like elF2-kinase with a predicted
+role in translational arrest and associated changes in the ubquitinome. To test
+this notion experimentally, we examined the overall ubiquitination level in
+intracellular schizonts versus extracellular merozoites and found it highly
+upregulated in merozoites. We propose that alterations in the phosphoproteome and
+ubiquitinome reflect a starvation-induced translational arrest as intracellular
+schizonts transform into extracellular merozoites.
+
+© 2015 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+PMID: 25886026  [PubMed - in process]
+
+
+7. Oncotarget. 2015 Feb 10;6(4):2250-62.
+
+Inhibition of HIF-1a by PX-478 enhances the anti-tumor effect of gemcitabine by
+inducing immunogenic cell death in pancreatic ductal adenocarcinoma.
+
+Zhao T(1), Ren H(1), Jia L(2), Chen J(1), Xin W(1), Yan F(1), Li J(1), Wang X(1),
+Gao S(1), Qian D(1), Huang C(1), Hao J(1).
+
+Author information: 
+(1)Tianjin Medical University Cancer Institute and Hospital, National Clinical
+Research Center for Cancer, Key Laboratory of Cancer Prevention and Therapy,
+Department of Pancreatic Cancer, Tianjin, China. (2)Centre for Haemato-Oncology, 
+Barts Cancer Institute, Queen Mary University of London, London, EC1M 6BQ, UK.
+
+Pancreatic ductal adenocarcinoma (PDAC) is the worst prognoses among all the
+malignancies. Now, gemcitabine (Gem) is the first line chemotherapeutic drug for 
+advanced pancreatic cancer. However, Gem is usually ineffective to the PDAC
+because of high degree of drug resistance. Hypoxia and immune suppressive milieu 
+are the best-described hallmarks of PDAC; therefore, we investigated the impact
+of hypoxia inducible factor-1 (HIF-1) inhibitor, PX-478, in combination with Gem 
+on the induction of immunogenic cell death (ICD). We verified that combined
+treatment with Gem/PX-478 significantly enhanced the anti-tumor effect and
+increased proportion of tumor infiltrating T-lymphocytes in Panc02-bearing
+immune-competent but not in immune-deficient mice. Vaccination using Panc02 cell 
+line treated with single agent or in combination showed significant anti-tumor
+effects. Pancreatic cell lines treated with Gem and PX-478 can induce an increase
+in eIF2a phosphorylation was correlated with down-regulation of HIF-1a and
+elicited exposure of CRT and release of HMGB1 and ATP. Only co-treated cells
+induced DC maturation/phagocytosis and IFN-<U+03B3> secretion by cytotoxic T
+lymphocytes. Altogether, combined treatment with Gem/PX-478 showed significantly 
+inhibition on tumor growth and anti-tumor immunization. We propose that
+inhibition HIF-1a elicits Gem-induced immune response and eliminates PDAC cells
+by inducing ICD.
+
+PMCID: PMC4385849
+PMID: 25544770  [PubMed - indexed for MEDLINE]
+
+
+8. Digestion. 2014;90(3):167-78.
+
+Inhibition of the dephosphorylation of eukaryotic initiation factor 2a
+ameliorates murine experimental colitis.
+
+Okazaki T, Nishio A, Takeo M, Sakaguchi Y, Fukui T, Uchida K, Okazaki K.
+
+BACKGROUND/AIMS: Endoplasmic reticulum (ER) stress in the intestine is closely
+associated with the development of inflammatory bowel disease (IBD). However, the
+role of the protein kinase RNA-like ER kinase in this disease is not fully known.
+We studied whether an inhibitor of the dephosphorylation of eukaryotic initiation
+factor 2a, salubrinal, improves murine experimental colitis through the
+amelioration of ER stress.
+METHODS: Colitis was induced by the administration of 3% dextran sulfate sodium
+(DSS) for 5 days. Mice were injected salubrinal intraperitoneally from the
+commencement of DSS treatment and were sacrificed on day 10. The severity of
+colitis was evaluated histologically using a scoring system.Myeloperoxidase
+activity and the expression of proinflammatory cytokine genes in the colon were
+analyzed. The expression levels of ER stress-related proteins were evaluated by
+Western blotting.
+RESULTS: The administration of salubrinal significantly attenuated body weight
+loss and improved colitis, as assessed histologically. The elevation of
+myeloperoxidase activity and the expression of proinflammatory cytokine genes
+were suppressed in salubrinal-treated mice. The expression of glucose-regulated
+protein 78, activating translation factor 4, and heat-shock protein 70 was
+elevated in mice treated with salubrinal.
+CONCLUSION: The amelioration of ER stress may be a therapeutic target for the
+treatment of IBD.
+
+PMID: 25339182  [PubMed - indexed for MEDLINE]
+
+
+9. Environ Toxicol Pharmacol. 2014 Nov;38(3):783-91. doi:
+10.1016/j.etap.2014.09.009. Epub 2014 Sep 28.
+
+The role of nitric oxide synthase signaling pathway in the Zn-induced cellular
+responses in MCF-7 cells.
+
+Zhong L(1), Wang L(2), Xu L(2), Liu Q(2), Jiang L(3), Zhi Y(2), Lu W(4), Zhou
+P(5).
+
+Author information: 
+(1)School of Environmental Science and Engineering, Shanghai Jiao Tong
+University, Shanghai 200240, PR China; School of Agriculture and Biology,
+Shanghai Jiao Tong University, Shanghai 200240, PR China; Bor S. Luh Food Safety 
+Research Center, Shanghai 200240, PR China. (2)School of Agriculture and Biology,
+Shanghai Jiao Tong University, Shanghai 200240, PR China; Key Laboratory of Urban
+Agriculture (South) of Ministry of Agriculture, Shanghai 200240, PR China; Bor S.
+Luh Food Safety Research Center, Shanghai 200240, PR China. (3)School of
+Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, PR
+China; Key Laboratory of Urban Agriculture (South) of Ministry of Agriculture,
+Shanghai 200240, PR China; Bor S. Luh Food Safety Research Center, Shanghai
+200240, PR China; Shanghai Food Safety Engineering Research Center, Shanghai
+200240, PR China. (4)School of Agriculture and Biology, Shanghai Jiao Tong
+University, Shanghai 200240, PR China; Key Laboratory of Urban Agriculture
+(South) of Ministry of Agriculture, Shanghai 200240, PR China; Bor S. Luh Food
+Safety Research Center, Shanghai 200240, PR China. Electronic address:
+weilu@sjtu.edu.cn. (5)School of Agriculture and Biology, Shanghai Jiao Tong
+University, Shanghai 200240, PR China; Key Laboratory of Urban Agriculture
+(South) of Ministry of Agriculture, Shanghai 200240, PR China; Bor S. Luh Food
+Safety Research Center, Shanghai 200240, PR China. Electronic address:
+peizhousjtu@163.com.
+
+Trace amount zinc plays key roles in biological systems, while in excessive
+amount it causes toxic effects. Evidence shows that there exists a crosstalk
+between NO and Zn apoptotic signal transduction pathway. However, the potential
+mechanism of Zn-induced cellular responses through the NOS signaling pathway has 
+not been determined yet. In this research, trace amount ZnCl2 (1nM) could induce 
+the NO production, however it appears that this influence does not extend to
+genetic level in MCF-7 cells. Whereas, excess ZnCl2 (100µM, 1mM) could lead to a 
+decreased NO production first with the release of Ca(2+), and then induce the NO 
+production with the transcriptional and translational activation of NOSs. The ROS
+generation was also induced by excess ZnCl2, causing the elF2a phosphorylation.
+The alleviation effect of N-acetyl-l-cysteine or l-arginine on the Zn-induced ROS
+generation and apoptosis suggested that Zn-induced apoptosis was associated with 
+the NOS-mediated oxidative stress.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+PMID: 25305739  [PubMed - indexed for MEDLINE]
+
+
+10. Zhejiang Da Xue Xue Bao Yi Xue Ban. 2014 Jul;43(4):413-9.
+
+[Correlation of PBX2/ELF2 expression with prognosis of non-small cell lung
+cancer].
+
+[Article in Chinese]
+
+Jin SQ(1), Pu YF(1), Qiu Y(2), Aozasa K(3), Morii E(3).
+
+Author information: 
+(1)Department of Medicine, Tongji University, Shanghai 200092, China.
+(2)Department of Pathology, Tsinghua University, Beijing 100084, China.
+(3)Department of Pathology, Graduate School of Medicine, Osaka University 2-2
+Yamadaoka, Osaka 565-0871, Japan.
+
+OBJECTIVE: To investigate the relationship between pre B cell leukemia
+transcription factor 2 (PBX2)/Ets domain transcription factor 2 (ELF2) expression
+with prognosis of non-small cell lung cancer (NSCLC).
+METHODS: Expressions of ELF2 and PBX2 were examined in 206 patients of NSCLC by
+immunohistochemistry. The correlation of PBX2/ELF2 expression with
+valosin-containing protein (VCP) expression and clinicopathologic factors of
+NSCLC patients was analyzed. Chi-square test, Fisher's exact test and Cox's
+regression were used for statistical analysis.
+RESULTS: The level of PBX2/ELF2 expression was associated with VCP expression
+(P=0.0126). Univariate analysis showed that 5-y disease free survival and overall
+survival (OS) of NSCLC were correlated with expression of PBX2, PBX2/ELF2 and
+VCP, tumor size, histological differentiation, visceral pleural invasion, N and T
+in pTNM grades, and clinical stages (P<0.05). The 5-y OS was also related to
+vascular invasion (P=0.0322). Multivariate analysis revealed that the expression 
+level of PBX2/ELF2 and histological differentiation were independent predictors
+for NSCLC.
+CONCLUSION: The level of PBX2/ELF2 expression is related to VCP expression,
+indicating that PBX2/ELF2-VCP pathway may be associated with the prognosis of
+NSCLC patients.
+
+PMID: 25187455  [PubMed - indexed for MEDLINE]
+
+
+11. J Alzheimers Dis. 2015;43(4):1413-27. doi: 10.3233/JAD-140216.
+
+Chronic copper exposure causes spatial memory impairment, selective loss of
+hippocampal synaptic proteins, and activation of PKR/eIF2a pathway in mice.
+
+Ma Q(1), Ying M(2), Sui X(3), Zhang H(3), Huang H(3), Yang L(3), Huang X(3),
+Zhuang Z(3), Liu J(3), Yang X(3).
+
+Author information: 
+(1)Key Laboratory of Modern Toxicology of Shenzhen, Shenzhen Center for Disease
+Control and Prevention, Shenzhen, China College of Life Sciences, Shenzhen
+University, Shenzhen, China. (2)College of Life Sciences, Shenzhen University,
+Shenzhen, China. (3)Key Laboratory of Modern Toxicology of Shenzhen, Shenzhen
+Center for Disease Control and Prevention, Shenzhen, China.
+
+Copper is an essential element for human growth and development; however,
+excessive intake of copper could contribute to neurotoxicity. Here we show that
+chronic exposure to copper in drinking water impaired spatial memory with
+simultaneous selective loss of hippocampal pre-synaptic protein synapsin 1, and
+post-synaptic density protein (PSD)-93/95 in mice. Copper exposure was shown to
+elevate the levels of nitrotyrosine and 8-hydroxydeoxyguanosine (8-OHdG) in
+hippocampus, two markers of oxidative stress. Concurrently, we also found that
+copper exposure activated double stranded RNA-dependent protein kinase (PKR) as
+evidenced by increased ratio of phosphorylated PKR at Thr451 and total PKR and
+increased the phosphorylation of its downstream signaling molecule eukaryotic
+initiation factor 2a (eIF2a) at Ser51 in hippocampus. Consistent with activation 
+of PKR/eIF2a signaling pathway which was shown to mediate synaptic deficit and
+cognitive impairment, the levels of activating transcription factor 4 (ATF-4), a 
+downstream signaling molecule of eIF2a and a repressor of CREB-mediated gene
+expression, were significantly increased, while the activity of cAMP response
+elements binding protein (CREB) was inactivated as suggested by decreased
+phosphorylation of CREB at Ser133 by copper exposure. In addition, the expression
+of the pro-apoptotic target molecule C/EBP homology protein (CHOP) of ATF-4 was
+upregulated and hippocampal neuronal apoptosis was induced by copper exposure.
+Taken together, we propose that chronic copper exposure might cause spatial
+memory impairment, selective loss of synaptic proteins, and neuronal apoptosis
+through the mechanisms involving activation of PKR/eIF2a signaling pathway.
+
+PMID: 25159668  [PubMed - indexed for MEDLINE]
+
+
+12. Int J Neuropsychopharmacol. 2014 Sep;17(9):1453-63. doi:
+10.1017/S1461145714000443. Epub 2014 May 6.
+
+Impaired endoplasmic reticulum stress response in bipolar disorder: cellular
+evidence of illness progression.
+
+Pfaffenseller B(1), Wollenhaupt-Aguiar B(1), Fries GR(1), Colpo GD(1), Burque
+RK(1), Bristot G(1), Ferrari P(1), Ceresér KM(1), Rosa AR(1), Klamt F(1),
+Kapczinski F(1).
+
+Author information: 
+(1)Instituto Nacional de Ciência e Tecnologia - Translacional em Medicina (INCT),
+Hospital de Clínicas de Porto Alegre,Universidade Federal do Rio Grande do
+Sul,Porto Alegre, RS,Brazil.
+
+Bipolar disorder (BD) is a severe chronic psychiatric disorder that has been
+associated with cellular dysfunctions related to mitochondria, neurotrophin
+levels, and oxidative stress. Evidence has shown that endoplasmic reticulum (ER) 
+stress may be a common pathway of the cellular changes described in BD. In the
+present study we assessed unfolded protein response (UPR) and the effects of this
+cellular process on lymphocytes from patients with BD. We also evaluated whether 
+the stage of chronicity of BD was associated with changes in UPR parameters.
+Cultured lymphocytes from 30 patients with BD and 32 age- and sex-matched
+controls were treated with tunicamycin, an ER stressor, for 12 or 24 h to measure
+levels of UPR-related proteins (GRP78, eIF2a-P, and CHOP) using flow cytometry,
+and for 48 h to analyse ER stress-induced cell death. In healthy controls but not
+in patients we found an increase in levels of GRP78, eIF2a-P, and CHOP after ER
+stress induction. In addition, tunicamycin-induced cell death was significantly
+higher in patients compared to controls. More importantly, early-stage patients
+did not differ from controls while the late-stage patients showed an impaired ER 
+stress response. Thus, dysfunction in ER-related stress response may be
+associated with decreased cellular resilience in BD and illness progression.
+
+PMID: 24800824  [PubMed - indexed for MEDLINE]
+
+
+13. Learn Mem. 2014 Apr 16;21(5):298-304. doi: 10.1101/lm.032219.113.
+
+The eIF2a kinase PERK limits the expression of hippocampal metabotropic glutamate
+receptor-dependent long-term depression.
+
+Trinh MA(1), Ma T, Kaphzan H, Bhattacharya A, Antion MD, Cavener DR, Hoeffer CA, 
+Klann E.
+
+Author information: 
+(1)Center for Neural Science, New York University, New York, New York 10003, USA.
+
+The proper regulation of translation is required for the expression of
+long-lasting synaptic plasticity. A major site of translational control involves 
+the phosphorylation of eukaryotic initiation factor 2 a (eIF2a) by PKR-like
+endoplasmic reticulum (ER) kinase (PERK). To determine the role of PERK in
+hippocampal synaptic plasticity, we used the Cre-lox expression system to
+selectively disrupt PERK expression in the adult mouse forebrain. Here, we
+demonstrate that in hippocampal area CA1, metabotropic glutamate receptor
+(mGluR)-dependent long-term depression (LTD) is associated with increased eIF2a
+phosphorylation, whereas stimulation of early- and late-phase long-term
+potentiation (E-LTP and L-LTP, respectively) is associated with decreased eIF2a
+phosphorylation. Interesting, although PERK-deficient mice exhibit exaggerated
+mGluR-LTD, both E-LTP and L-LTP remained intact. We also found that mGluR-LTD is 
+associated with a PERK-dependent increase in eIF2a phosphorylation. Our findings 
+are consistent with the notion that eIF2a phosphorylation is a key site for the
+bidirectional control of persistent forms of synaptic LTP and LTD and suggest a
+distinct role for PERK in mGluR-LTD.
+
+PMCID: PMC3994503
+PMID: 24741110  [PubMed - indexed for MEDLINE]
+
+
+14. PLoS One. 2014 Feb 13;9(2):e89021. doi: 10.1371/journal.pone.0089021. eCollection
+2014.
+
+Ampelopsin induces cell growth inhibition and apoptosis in breast cancer cells
+through ROS generation and endoplasmic reticulum stress pathway.
+
+Zhou Y(1), Shu F(1), Liang X(1), Chang H(1), Shi L(1), Peng X(1), Zhu J(1), Mi
+M(1).
+
+Author information: 
+(1)Research Center for Nutrition and Food Safety, Institute of Military
+Preventive Medicine, Third Military Medical University, Chongqing Key Laboratory 
+of Nutrition and Food Safety, Research Center for Medical Nutrition, Chongqing,
+P.R. China.
+
+Ampelopsin (AMP), a major bioactive constituent of Ampelopsis grossedentata,
+exerts a number of biological effects. In this study, we investigated its
+anti-cancer activity in human breast cancer cell lines, and explored the
+underlying mechanism of this action. Our results showed that treatment with AMP
+dose-dependently inhibited cell viability and induced apoptosis in MCF-7 and
+MDA-MB-231 breast cancer cells without cytotoxicity in human normal breast
+epithelial cells MCF-10A. Meanwhile, AMP dose- dependently triggered reactive
+oxygen species (ROS) generation in both breast cancer cells. The ROS scavenger
+N-acetyl-L-cysteine (NAC) strongly attenuated AMP-induced ROS production, along
+with cell growth inhibition and apoptosis. Furthermore, AMP was observed to
+activate endoplasmic reticulum (ER) stress, as evidenced by the up-regulation of 
+ER stress-related proteins, including GRP78, p-PERK, p-elF2a, cleaved ATF6a and
+CHOP, while knockdown of ATF6a or PERK markedly down-regulated AMP-induced CHOP
+expression. Blocking ER stress using 4-phenylbutyric acid not only down-regulated
+AMP-induced GRP78 and CHOP expression, but also significantly decreased
+AMP-induced cell growth inhibition and apoptosis, whereas ER stress inducer
+thapsigargin played opposing effects. Additionally, NAC inhibited AMP-induced ER 
+stress by down-regulating GRP78 and CHOP expression. Conversely, blocking ER
+stress using CHOP siRNA decreased AMP-induced ROS production and cell apoptosis. 
+Taken together, these results demonstrate that AMP has anti-tumor effects against
+breast cancer cells through ROS generation and ER stress pathway, which therefore
+provide experimental evidences for developing AMP as a new therapeutic drug for
+breast cancer.
+
+PMCID: PMC3923868
+PMID: 24551210  [PubMed - indexed for MEDLINE]
+
+
+15. Neuron. 2014 Jan 22;81(2):333-48. doi: 10.1016/j.neuron.2013.12.009.
+
+Neuronal matrix metalloproteinase-9 is a determinant of selective
+neurodegeneration.
+
+Kaplan A(1), Spiller KJ(1), Towne C(2), Kanning KC(1), Choe GT(1), Geber A(1),
+Akay T(3), Aebischer P(2), Henderson CE(4).
+
+Author information: 
+(1)Center for Motor Neuron Biology and Disease, Columbia University Medical
+Center, New York, NY 10032, USA; Departments of Rehabilitation and Regenerative
+Medicine, Pathology and Cell Biology, Neurology, and Neuroscience, Columbia Stem 
+Cell Initiative, and Columbia Translational Neuroscience Initiative, Columbia
+University, New York, NY 10032, USA. (2)Brain Mind Institute, Ecole Polytechnique
+Fédérale de Lausanne, 1015 Lausanne, Switzerland. (3)Center for Motor Neuron
+Biology and Disease, Columbia University Medical Center, New York, NY 10032, USA;
+Department of Neurological Surgery, College of Physicians and Surgeons, Columbia 
+University, New York, NY 10032, USA. (4)Center for Motor Neuron Biology and
+Disease, Columbia University Medical Center, New York, NY 10032, USA; Departments
+of Rehabilitation and Regenerative Medicine, Pathology and Cell Biology,
+Neurology, and Neuroscience, Columbia Stem Cell Initiative, and Columbia
+Translational Neuroscience Initiative, Columbia University, New York, NY 10032,
+USA. Electronic address: ch2331@columbia.edu.
+
+Comment in
+    Nat Rev Drug Discov. 2014 Apr;13(4):256.
+
+Selective neuronal loss is the hallmark of neurodegenerative diseases. In
+patients with amyotrophic lateral sclerosis (ALS), most motor neurons die but
+those innervating extraocular, pelvic sphincter, and slow limb muscles exhibit
+selective resistance. We identified 18 genes that show >10-fold differential
+expression between resistant and vulnerable motor neurons. One of these, matrix
+metalloproteinase-9 (MMP-9), is expressed only by fast motor neurons, which are
+selectively vulnerable. In ALS model mice expressing mutant superoxide dismutase 
+(SOD1), reduction of MMP-9 function using gene ablation, viral gene therapy, or
+pharmacological inhibition significantly delayed muscle denervation. In the
+presence of mutant SOD1, MMP-9 expressed by fast motor neurons themselves
+enhances activation of ER stress and is sufficient to trigger axonal die-back.
+These findings define MMP-9 as a candidate therapeutic target for ALS. The
+molecular basis of neuronal diversity thus provides significant insights into
+mechanisms of selective vulnerability to neurodegeneration.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+PMID: 24462097  [PubMed - indexed for MEDLINE]
+
+
+16. Nature. 2013 Nov 14;503(7475):272-6. doi: 10.1038/nature12599. Epub 2013 Oct 2.
+
+Paneth cells as a site of origin for intestinal inflammation.
+
+Adolph TE(1), Tomczak MF, Niederreiter L, Ko HJ, Böck J, Martinez-Naves E,
+Glickman JN, Tschurtschenthaler M, Hartwig J, Hosomi S, Flak MB, Cusick JL, Kohno
+K, Iwawaki T, Billmann-Born S, Raine T, Bharti R, Lucius R, Kweon MN, Marciniak
+SJ, Choi A, Hagen SJ, Schreiber S, Rosenstiel P, Kaser A, Blumberg RS.
+
+Author information: 
+(1)1] Division of Gastroenterology and Hepatology, Department of Medicine,
+Addenbrooke's Hospital, University of Cambridge, Cambridge CB2 0QQ, UK [2].
+
+The recognition of autophagy related 16-like 1 (ATG16L1) as a genetic risk factor
+has exposed the critical role of autophagy in Crohn's disease. Homozygosity for
+the highly prevalent ATG16L1 risk allele, or murine hypomorphic (HM) activity,
+causes Paneth cell dysfunction. As Atg16l1(HM) mice do not develop spontaneous
+intestinal inflammation, the mechanism(s) by which ATG16L1 contributes to disease
+remains obscure. Deletion of the unfolded protein response (UPR) transcription
+factor X-box binding protein-1 (Xbp1) in intestinal epithelial cells, the human
+orthologue of which harbours rare inflammatory bowel disease risk variants,
+results in endoplasmic reticulum (ER) stress, Paneth cell impairment and
+spontaneous enteritis. Unresolved ER stress is a common feature of inflammatory
+bowel disease epithelium, and several genetic risk factors of Crohn's disease
+affect Paneth cells. Here we show that impairment in either UPR (Xbp1(<U+0394>IEC)) or
+autophagy function (Atg16l1(<U+0394>IEC) or Atg7(<U+0394>IEC)) in intestinal epithelial cells
+results in each other's compensatory engagement, and severe spontaneous
+Crohn's-disease-like transmural ileitis if both mechanisms are compromised.
+Xbp1(<U+0394>IEC) mice show autophagosome formation in hypomorphic Paneth cells, which
+is linked to ER stress via protein kinase RNA-like endoplasmic reticulum kinase
+(PERK), elongation initiation factor 2a (eIF2a) and activating transcription
+factor 4 (ATF4). Ileitis is dependent on commensal microbiota and derives from
+increased intestinal epithelial cell death, inositol requiring enzyme 1a
+(IRE1a)-regulated NF-<U+03BA>B activation and tumour-necrosis factor signalling, which
+are synergistically increased when autophagy is deficient. ATG16L1 restrains
+IRE1a activity, and augmentation of autophagy in intestinal epithelial cells
+ameliorates ER stress-induced intestinal inflammation and eases NF-<U+03BA>B
+overactivation and intestinal epithelial cell death. ER stress, autophagy
+induction and spontaneous ileitis emerge from Paneth-cell-specific deletion of
+Xbp1. Genetically and environmentally controlled UPR function within Paneth cells
+may therefore set the threshold for the development of intestinal inflammation
+upon hypomorphic ATG16L1 function and implicate ileal Crohn's disease as a
+specific disorder of Paneth cells.
+
+PMCID: PMC3862182
+PMID: 24089213  [PubMed - indexed for MEDLINE]
+
+
+17. Biochim Biophys Acta. 2013 Nov;1830(11):5316-25. doi:
+10.1016/j.bbagen.2013.07.030. Epub 2013 Aug 3.
+
+Oxidative stress-induced cyclin D1 depletion and its role in cell cycle
+processing.
+
+Pyo CW(1), Choi JH, Oh SM, Choi SY.
+
+Author information: 
+(1)Department of Life Sciences, School of Life Sciences and Biotechnology, Korea 
+University, Seoul 136-701, Korea.
+
+BACKGROUND: Cyclin D1 is immediately down-regulated in response to reactive
+oxygen species (ROS) and implicated in the induction of cell cycle arrest in G2
+phase by an unknown mechanism. Either treatment with a protease inhibitor alone
+or expression of protease-resistant cyclin D1 T286A resulted in only a partial
+relief from the ROS-induced cell cycle arrest, indicating the presence of an
+additional control mechanism.
+METHODS: Cells were exposed to hydrogen peroxide (H2O2), and analyzed to assess
+the changes in cyclin D1 level and its effects on cell cycle processing by kinase
+assay, de novo synthesis, gene silencing, and polysomal analysis, etc.
+RESULTS: Exposure of cells to excessive H2O2 induced ubiquitin-dependent
+proteasomal degradation of cyclin D1, which was subsequently followed by
+translational repression. This dual control mechanism was found to contribute to 
+the induction of cell cycle arrest in G2 phase under oxidative stress. Silencing 
+of an eIF2a kinase PERK significantly retarded cyclin D1 depletion, and
+contributed largely to rescuing cells from G2 arrest. Also the cyclin D1 level
+was found to be correlated with Chk1 activity.
+CONCLUSIONS: In addition to an immediate removal of the pre-existing cyclin D1
+under oxidative stress, the following translational repression appear to be
+required for ensuring full depletion of cyclin D1 and cell cycle arrest.
+Oxidative stress-induced cyclin D1 depletion is linked to the regulation of G2/M 
+transit via the Chk1-Cdc2 DNA damage checkpoint pathway.
+GENERAL SIGNIFICANCE: The control of cyclin D1 is a gate keeping program to
+protect cells from severe oxidative damages.
+
+© 2013.
+
+PMID: 23920145  [PubMed - indexed for MEDLINE]
+
+
+18. BMC Genomics. 2013 May 29;14:358. doi: 10.1186/1471-2164-14-358.
+
+Mining genes involved in the stratification of Paris polyphylla seeds using
+high-throughput embryo transcriptome sequencing.
+
+Qi J, Zheng N, Zhang B, Sun P, Hu S, Xu W, Ma Q, Zhao T, Zhou L, Qin M, Li X.
+
+BACKGROUND: Paris polyphylla var. yunnanensis is an important medicinal plant.
+Seed dormancy is one of the main factors restricting artificial cultivation. The 
+molecular mechanisms of seed dormancy remain unclear, and little genomic or
+transcriptome data are available for this plant.
+RESULTS: In this study, massive parallel pyrosequencing on the Roche 454-GS FLX
+Titanium platform was used to generate a substantial sequence dataset for the P. 
+polyphylla embryo. 369,496 high quality reads were obtained, ranging from 50 to
+1146 bp, with a mean of 219 bp. These reads were assembled into 47,768 unigenes, 
+which included 16,069 contigs and 31,699 singletons. Using BLASTX searches of
+public databases, 15,757 (32.3%) unique transcripts were identified. Gene
+Ontology and Cluster of Orthologous Groups of proteins annotations revealed that 
+these transcripts were broadly representative of the P. polyphylla embryo
+transcriptome. The Kyoto Encyclopedia of Genes and Genomes assigned 5961 of the
+unique sequences to specific metabolic pathways. Relative expression levels
+analysis showed that eleven phytohormone-related genes and five other genes have 
+different expression patterns in the embryo and endosperm in the seed
+stratification process.
+CONCLUSIONS: Gene annotation and quantitative RT-PCR expression analysis
+identified 464 transcripts that may be involved in phytohormone catabolism and
+biosynthesis, hormone signal, seed dormancy, seed maturation, cell wall growth
+and circadian rhythms. In particular, the relative expression analysis of sixteen
+genes (CYP707A, NCED, GA20ox2, GA20ox3, ABI2, PP2C, ARP3, ARP7, IAAH, IAAS, BRRK,
+DRM, ELF1, ELF2, SFR6, and SUS) in embryo and endosperm and at two temperatures
+indicated that these related genes may be candidates for clarifying the molecular
+basis of seed dormancy in P. polyphlla var. yunnanensis.
+
+PMCID: PMC3679829
+PMID: 23718911  [PubMed - indexed for MEDLINE]
+
+
+19. PLoS One. 2013 Apr 30;8(4):e63205. doi: 10.1371/journal.pone.0063205. Print 2013.
+
+Ablation of C/EBP homologous protein does not protect T17M RHO mice from retinal 
+degeneration.
+
+Nashine S(1), Bhootada Y, Lewin AS, Gorbatyuk M.
+
+Author information: 
+(1)Department of Cell Biology and Anatomy, University of North Texas Health
+Science Center, Fort Worth, Texas, United States of America.
+
+Despite the proposed link between ablation of the CHOP protein and delay of the
+onset of ER stress-mediated disorders including diabetes, Alzheimer Disease, and 
+cardiac hypertrophy, the role of CHOP protein in photoreceptor cell death
+associated with Autosomal Dominant Retinitis Pigmentosa (ADRP) has not been
+investigated. T17M RHO transgenic mice carry a mutated human rhodopsin transgene,
+the expression of which in retina leads to protein misfolding, activation of UPR 
+and progressive retinal degeneration. The purpose of this study is to investigate
+the role of CHOP protein in T17M RHO retina. Wild-type, CHOP-/-, T17M RHO and
+T17M RHO CHOP-/-mice were used in the study. Evaluation of the impact of CHOP
+ablation was performed using electroretinography (ERG), spectral-domain optical
+coherence tomography (SD-OCT), quantitative Real-Time PCR (qRT-PCR) and western
+blot analysis. Dark-adapted ERG analysis demonstrated that by 1 month, the T17M
+RHO CHOP-/- mice had a 70% reduction of the a-wave amplitude compared to the T17M
+RHO mice. The loss of function in T17M RHO CHOP-/- photoreceptors was associated 
+with a 22-24% decline in the thickness of the outer nuclear layer. These mice had
+significant reduction in the expression of transcription factors, Crx and Nrl,
+and also in mouse Rho, and human RHO. The reduction was associated with an 8-fold
+elevation of the UPR marker, p-eIf2a protein and 30% down-regulation of sXbp1
+protein. In addition, the histone deacetylase 1 (Hdac1) protein was 2-fold
+elevated in the T17M RHO CHOP-/- retina. The ablation of CHOP led to a reduction 
+in the expression of photoreceptor-specific transcriptional factors, and both
+endogenous and exogenous RHO mRNA. Thus, despite its role in promoting apoptosis,
+CHOP protects rod photoreceptors carrying an ADRP mutation.
+
+PMCID: PMC3640035
+PMID: 23646198  [PubMed - indexed for MEDLINE]
+
+
+20. Mol Cell. 2012 Nov 9;48(3):353-64. doi: 10.1016/j.molcel.2012.08.025. Epub 2012
+Sep 27.
+
+miR-211 is a prosurvival microRNA that regulates chop expression in a
+PERK-dependent manner.
+
+Chitnis NS(1), Pytel D, Bobrovnikova-Marjon E, Pant D, Zheng H, Maas NL,
+Frederick B, Kushner JA, Chodosh LA, Koumenis C, Fuchs SY, Diehl JA.
+
+Author information: 
+(1)The Abramson Family Cancer Research Institute, University of Pennsylvania,
+Philadelphia, PA 19104, USA.
+
+MicroRNAs typically function at the level of posttranscriptional gene silencing
+within the cytoplasm; however, increasing evidence suggests that they may also
+function in nuclear, Argonaut-containing complexes, to directly repress target
+gene transcription. We have investigated the role of microRNAs in mediating
+endoplasmic reticulum (ER) stress responses. ER stress triggers the activation of
+three signaling molecules: Ire-1a/ß, PERK, and ATF6, whose function is to
+facilitate adaption to the ensuing stress. We demonstrate that PERK induces
+miR-211, which in turn attenuates stress-dependent expression of the proapoptotic
+transcription factor chop/gadd153. MiR-211 directly targets the proximal
+chop/gadd153 promoter, where it increases histone methylation and represses chop 
+expression. Maximal chop accumulation ultimately correlates with miR-211
+downregulation. Our data suggest a model in which PERK-dependent miR-211
+induction prevents premature chop accumulation and thereby provides a window of
+opportunity for the cell to re-establish homeostasis prior to apoptotic
+commitment.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+PMCID: PMC3496065
+PMID: 23022383  [PubMed - indexed for MEDLINE]
+
+
+21. PLoS One. 2012;7(8):e42636. doi: 10.1371/journal.pone.0042636. Epub 2012 Aug 10.
+
+Dysregulation of autophagy in murine fibroblasts resistant to HSV-1 infection.
+
+Le Sage V(1), Banfield BW.
+
+Author information: 
+(1)Department of Biomedical and Molecular Sciences, Queen's University, Kingston,
+Ontario, Canada.
+
+The mouse L cell mutant, gro29, was selected for its ability to survive infection
+by herpes simplex virus type 1 (HSV-1). gro29 cells are fully susceptible to
+HSV-1 infection, however, they produce 2000-fold less infectious virus than
+parental L cells despite their capacity to synthesize late viral gene products
+and assemble virions. Because productive HSV-1 infection is presumed to result in
+the death of the host cell, we questioned how gro29 cells might survive
+infection. Using time-lapse video microscopy, we demonstrated that a fraction of 
+infected gro29 cells survived infection and divided. Electron microscopy of
+infected gro29 cells, revealed large membranous vesicles that contained virions
+as well as cytoplasmic constituents. These structures were reminiscent of
+autophagosomes. Autophagy is an ancient cellular process that, under nutrient
+deprivation conditions, results in the degradation and catabolism of cytoplasmic 
+components and organelles. We hypothesized that enhanced autophagy, and resultant
+degradation of virions, might explain the ability of gro29 to survive HSV-1
+infection. Here we demonstrate that gro29 cells have enhanced basal autophagy as 
+compared to parental L cells. Moreover, treatment of gro29 cells with
+3-methyladenine, an inhibitor of autophagy, failed to prevent the formation of
+autophagosome-like organelles in gro29 cells indicating that autophagy was
+dysregulated in these cells. Additionally, we observed robust co-localization of 
+the virion structural component, VP26, with the autophagosomal marker, GFP-LC3,
+in infected gro29 cells that was not seen in infected parental L cells.
+Collectively, these data support a model whereby gro29 cells prevent the release 
+of infectious virus by directing intracellular virions to an autophagosome-like
+compartment. Importantly, induction of autophagy in parental L cells did not
+prevent HSV-1 production, indicating that the relationship between autophagy,
+virus replication, and survival of HSV-1 infection by gro29 cells is complex.
+
+PMCID: PMC3416809
+PMID: 22900036  [PubMed - indexed for MEDLINE]
+
+
+22. Biochem Biophys Res Commun. 2012 May 11;421(3):578-84. doi:
+10.1016/j.bbrc.2012.04.048. Epub 2012 Apr 14.
+
+The chemical chaperone 4-phenylbutyric acid attenuates pressure-overload cardiac 
+hypertrophy by alleviating endoplasmic reticulum stress.
+
+Park CS(1), Cha H, Kwon EJ, Sreenivasaiah PK, Kim do H.
+
+Author information: 
+(1)School of Life Sciences and Systems Biology Research Center, Gwangju Institute
+of Science and Technology, 123 Cheomdan-gwagiro (1 Oryong-dong), Buk-gu, Gwangju 
+500-712, Republic of Korea.
+
+Evidence has shown that endoplasmic reticulum stress (ERS) is associated with the
+pathogenesis of cardiac hypertrophy. The aim of this study was to investigate
+whether direct alleviation of ER stress by 4-phenylbutyric acid (PBA), a known
+chemical chaperone drug, could attenuate pressure-overload cardiac hypertrophy in
+mice. The effects of orally administered PBA (100mg/kg body weight daily for a
+week) were examined using mice undergoing transverse aortic constriction
+(TAC-mice), an animal model to produce pressure overload. TAC application for 1
+week led to a 1.8-fold increase in the ratio of the heart weight over body weight
+(HW/BW) and up-regulation of the hypertrophy markers ANF and BNF accompanied by
+up-regulation of ERS markers (GRP78, p-PERK, and p-elF2a). The oral
+administration of PBA to the TAC-mice reduced hypertrophy (19%) and severely
+downregulated the fibrosis-related genes (transforming growth factor-ß1,
+phospho-smad2, and pro-collagen isoforms). We conclude that ERS is induced as a
+consequence of remodeling during pathological hypertrophy and that PBA may help
+to relieve ERS and play a protective role against cardiac hypertrophy and
+possibly heart failure. We suggest PBA as a novel therapeutic agent for cardiac
+hypertrophy and fibrosis.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+PMID: 22525677  [PubMed - indexed for MEDLINE]
+
+
+23. J Biol Chem. 2012 May 4;287(19):15580-9. doi: 10.1074/jbc.M111.315218. Epub 2012 
+Mar 16.
+
+Chaperone insufficiency links TLR4 protein signaling to endoplasmic reticulum
+stress.
+
+Coope A(1), Milanski M, Arruda AP, Ignacio-Souza LM, Saad MJ, Anhê GF, Velloso
+LA.
+
+Author information: 
+(1)Laboratory of Cell Signaling, University of Campinas, 13084-761, Campinas SP, 
+Brazil.
+
+Inflammation plays an important pathogenic role in a number of metabolic diseases
+such as obesity, type 2 diabetes, and atherosclerosis. The activation of
+inflammation in these diseases depends at least in part on the combined actions
+of TLR4 signaling and endoplasmic reticulum stress, which by acting in concert
+can boost the inflammatory response. Defining the mechanisms involved in this
+phenomenon may unveil potential targets for the treatment of
+metabolic/inflammatory diseases. Here we used LPS to induce endoplasmic reticulum
+stress in the human monocyte cell-line, THP-1. The unfolded protein response,
+produced after LPS, was dependent on CD14 activity but not on RNA-dependent
+protein kinase and could be inhibited by an exogenous chemical chaperone. The
+induction of the endoplasmic reticulum resident chaperones, GRP94 and GRP78, by
+LPS was of a much lower magnitude than the effect of LPS on TLR4 and MD-2
+expression. In face of this apparent insufficiency of chaperone expression, we
+induced the expression of GRP94 and GRP78 by glucose deprivation. This approach
+completely reverted endoplasmic reticulum stress. The inhibition of either GRP94 
+or GRP78 with siRNA was sufficient to rescue the protective effect of glucose
+deprivation on LPS-induced endoplasmic reticulum stress. Thus, insufficient
+LPS-induced chaperone expression links TLR4 signaling to endoplasmic reticulum
+stress.
+
+PMCID: PMC3346100
+PMID: 22427667  [PubMed - indexed for MEDLINE]
+
+
+24. PLoS One. 2012;7(1):e29816. doi: 10.1371/journal.pone.0029816. Epub 2012 Jan 4.
+
+Identifying and characterizing alternative molecular markers for the symbiotic
+and free-living dinoflagellate genus Symbiodinium.
+
+Pochon X(1), Putnam HM, Burki F, Gates RD.
+
+Author information: 
+(1)Hawai'i Institute of Marine Biology, School of Ocean and Earth Science and
+Technology, University of Hawai'i, Kane'ohe, Hawai'i, United States of America.
+pochon@hawaii.edu
+
+Dinoflagellates in the genus Symbiodinium are best known as endosymbionts of
+corals and other invertebrate as well as protist hosts, but also exist
+free-living in coastal environments. Despite their importance in marine
+ecosystems, less than 10 loci have been used to explore phylogenetic
+relationships in this group, and only the multi-copy nuclear ribosomal Internal
+Transcribed Spacer (ITS) regions 1 and 2 have been used to characterize
+fine-scale genetic diversity within the nine clades (A-I) that comprise the
+genus. Here, we describe a three-step molecular approach focused on 1)
+identifying new candidate genes for phylogenetic analysis of Symbiodinium spp.,
+2) characterizing the phylogenetic relationship of these candidate genes from DNA
+samples spanning eight Symbiodinium clades (A-H), and 3) conducting in-depth
+phylogenetic analyses of candidate genes displaying genetic divergences equal or 
+higher than those within the ITS-2 of Symbiodinium clade C. To this end, we used 
+bioinformatics tools and reciprocal comparisons to identify homologous genes from
+55,551 cDNA sequences representing two Symbiodinium and six additional
+dinoflagellate EST libraries. Of the 84 candidate genes identified, 7
+Symbiodinium genes (elf2, coI, coIII, cob, calmodulin, rad24, and actin) were
+characterized by sequencing 23 DNA samples spanning eight Symbiodinium clades
+(A-H). Four genes displaying higher rates of genetic divergences than ITS-2
+within clade C were selected for in-depth phylogenetic analyses, which revealed
+that calmodulin has limited taxonomic utility but that coI, rad24, and actin
+behave predictably with respect to Symbiodinium lineage C and are potential
+candidates as new markers for this group. The approach for targeting candidate
+genes described here can serve as a model for future studies aimed at identifying
+and testing new phylogenetically informative genes for taxa where transcriptomic 
+and genomics data are available.
+
+PMCID: PMC3251599
+PMID: 22238660  [PubMed - indexed for MEDLINE]
+
+
+25. J Med Virol. 2011 Oct;83(10):1727-32. doi: 10.1002/jmv.21959.
+
+Mutations in two PKR-binding domains in chronic hepatitis C of genotype 3a and
+correlation with viral loads and interferon responsiveness.
+
+Yokozaki S(1), Katano Y, Hayashi K, Ishigami M, Itoh A, Hirooka Y, Nakano I, Goto
+H.
+
+Author information: 
+(1)Department of Gastroenterology, Nagoya University Graduate School of Medicine,
+Nagoya, Japan.
+
+Interferon (IFN) induces the double-stranded RNA-dependent protein kinase (PKR)
+to inhibit viral replication. Two motifs of the PKR-binding domain exist in the
+E2 and the NS5A regions of the hepatitis C virus (HCV). These regions are called 
+the PKR-eukaryotic transcription factor (elF2-alpha) phosphorylation homology
+domain (PePHD), and the IFN sensitivity-determining region (ISDR). Both regions
+are inhibited by PKR. Thus, several studies have reported the relationship
+between these regions and IFN responsiveness and the HCV viral load. However, the
+data obtained from these studies remain controversial. The aim of this study was 
+to investigate the genomic heterogeneity of the PePHD and the ISDR in patients
+with genotype 3a and how this impacts HCV replication and the response to IFN
+therapy. Twenty-one male patients infected with HCV genotype 3a were studied. The
+PePHD was well conserved, and mutations were found in only one amino acid
+position in two patients. Patients with three or more mutations in the ISDR had
+lower viral loads than those with fewer than two mutations (192.2<U+2009>±<U+2009>176.7 vs.
+1279.4<U+2009>±<U+2009>997.6<U+2009>KIU/ml, P<U+2009>=<U+2009>0.0277). Ten (71.4%) of 14 patients achieved a
+sustained virological response to IFN therapy. No specific amino acid
+substitutions in the PePHD and the ISDR were associated with IFN responsiveness; 
+however, the number of mutations in the ISDR was significantly associated with
+the HCV viral load. The findings from this study suggest that the ISDR plays an
+important role in regulating viral replication in patients infected with HCV
+genotype 3a.
+
+Copyright © 2011 Wiley-Liss, Inc.
+
+PMID: 21837788  [PubMed - indexed for MEDLINE]
+
+
+26. J Neurosci Res. 2011 Oct;89(10):1586-95. doi: 10.1002/jnr.22693. Epub 2011 Jun
+17.
+
+A deregulated integrated stress response promotes interferon-<U+03B3>-induced
+medulloblastoma.
+
+Lin W(1), Lin Y, Li J, Harding HP, Ron D, Jamison S.
+
+Author information: 
+(1)Department of Cell Biology and Neuroscience, University of South Alabama
+College of Medicine, Mobile, Alabama, USA. wlin@usouthal.edu
+
+Endoplasmic reticulum (ER) stress activates pancreatic ER kinase (PERK), which
+coordinates an adaptive program known as the integrated stress response (ISR) by 
+phosphorylating translation initiation factor 2a (eIF2a). There is evidence that 
+the ISR is involved in tumor development. Recent studies also show that the ISR
+stimulates the expression of vascular endothelial growth factor A (VEGF-A), a
+master regulator of angiogenesis. Our previous studies have demonstrated that
+enforced expression of interferon-<U+03B3> (IFN<U+03B3>) in the central nervous system during
+development induces sonic hedgehog expression and leads to cerebellar dysplasia
+or medulloblastoma. Here we report that PERK was activated in cerebellar
+dysplasia and medulloblastoma in IFN<U+03B3>-expressing mice. We found that inactivation
+of the growth arrest and DNA damage 34 (GADD34) gene, encoding the
+stress-inducible regulatory subunit of a phosphatase complex that
+dephosphorylates eIF2a, enhanced ISR signaling and facilitated medulloblastoma
+formation in IFN<U+03B3>-expressing mice. Moreover, we found that the induction of
+VEGF-A and enhanced angiogenesis were associated with medulloblastoma formation
+in IFN<U+03B3>-expressing mice on the GADD34 mutation background. Thus, our data provide
+genetic evidence that the ISR facilitates medulloblastoma development.
+
+Copyright © 2011 Wiley-Liss, Inc.
+
+PMID: 21688289  [PubMed - indexed for MEDLINE]
+
+
+27. Virol J. 2011 May 5;8:204. doi: 10.1186/1743-422X-8-204.
+
+Positional effect of phosphorylation sites 266 and 267 in the cytoplasmic domain 
+of the E2 protein of hepatitis C virus 3a genotype: interferon resistance
+analysis via sequence alignment.
+
+Rafique S(1), Idrees M, Ilyas M, Hussain A, Ali M, Ali L, Butt S, Afzal S, Ur
+Rehman I, Saleem S.
+
+Author information: 
+(1)Division of Molecular Virology & Molecular Diagnostics, National Centre of
+Excellence in Molecular Biology, Thokar Niaz Baig Lahore-53700, University of the
+Punjab Lahore, Pakistan.
+
+BACKGROUND: Interferon is well thought-out as the key defence against all
+infections including HCV. The only treatment for HCV infection is pegylated
+interferon alpha (IFN-a) but unluckily more than half of the infected individuals
+do not act in response to the cure and become chronic HCV carriers. The mechanism
+how HCV induce interferon resistance is still elusive. It is recently reported
+that HCV envelope protein 2 interacts with PKR which is the interferon-inducible 
+protein kinase and which in turn blocks the activity of its target molecule
+called eukaryotic initiation factor elF2. Sequence analysis of Envelope protein
+reveals it contains a domain homologous to phosphorylation sites of PKR andthe
+translation initiation factor eIF2alpha. Envelope protein competes for
+phosphorylation with PKR. Inhibition of kinase activity of PKR is postulated as a
+mechanism of to interferon (IFN) resistance.
+RESULTS: Present study involves the insilico investigation of possible role of
+potential phosphorylation in envelope 2 protein of 3a genotype in interferon
+resistance. Envelope protein coding genes were isolated from local HCV isolates, 
+cloned and sequenced. Phylogenetic analysis was done and tertiary structure of
+envelope gene was predicted. Visualization of phosphorylation in tertiary
+structure reveals that residue 266 and 267 of envelope gene 2 are surface exposed
+and their phosphorylation may compete with the phosphorylation of PKR protein and
+possibly involved in mediating Interferon Resistance.
+CONCLUSION: A hybrid in-silico and wet laboratory approach of motif prediction,
+evolutionary and structural analysis has pointed out serine 266 and 267 of the
+HCV E2 gene as a hopeful claimant for the serine phosphorylation. Recognition of 
+these nucleotide variations may assist to propose genotype precise therapy to
+avoid and resolve HCV infections.
+
+PMCID: PMC3098807
+PMID: 21545731  [PubMed - indexed for MEDLINE]
+
+
+28. Exp Mol Med. 2010 Dec 31;42(12):811-22.
+
+Baicalein protects HT22 murine hippocampal neuronal cells against endoplasmic
+reticulum stress-induced apoptosis through inhibition of reactive oxygen species 
+production and CHOP induction.
+
+Choi JH(1), Choi AY, Yoon H, Choe W, Yoon KS, Ha J, Yeo EJ, Kang I.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, School of Medicine, Medical 
+Science and Engineering Research Center for Bioreaction to Reactive Oxygen
+Species, Biomedical Science Institute, Kyung Hee University, Seoul 130-701,
+Korea.
+
+Baicalein is one of the major flavonoids in Scutellaria baicalensis Georgi and
+possesses various effects, including cytoprotection and anti-inflammation.
+Because endoplasmic reticulum (ER) stress has been implicated in
+neurodegenerative diseases, such as Alzheimer's disease, Parkinson's disease, and
+cerebral ischemia, we investigated the effects of baicalein on apoptotic death of
+HT22 mouse hippocampal neuronal cells induced by thapsigargin (TG) and brefeldin 
+A (BFA), two representative ER stress inducers. Apoptosis, reactive oxygen
+species (ROS) production, and mitochondrial membrane potential (MMP) were
+measured by flow cytometry. Expression level and phosphorylation status of ER
+stress-associated proteins and activation and cleavage of apoptosis-associated
+proteins were analyzed by Western blot. Baicalein reduced TG- and BFA-induced
+apoptosis of HT22 cells and activation and cleavage of apoptosis-associated
+proteins, such as caspase-12 and -3 and poly(ADP-ribose) polymerase. Baicalein
+also reduced the TG- and BFA-induced expression of ER stress-associated proteins,
+including C/EBP homologous protein (CHOP) and glucose-regulated protein 78, the
+cleavage of X-box binding protein-1 and activating transcription factor 6a, and
+the phosphorylation of eukaryotic initiation factor-2a and mitogen-activated
+protein kinases, such as p38, JNK, and ERK. Knock-down of CHOP expression by
+siRNA transfection and specific inhibitors of p38 (SB203580), JNK (SP600125), and
+ERK (PD98059) as well as anti-oxidant (N-acetylcysteine) reduced TG- or
+BFA-induced cell death. Baicalein also reduced TG- and BFA-induced ROS
+accumulation and MMP reduction. Taken together, these results suggest that
+baicalein could protect HT22 neuronal cells against ER stress-induced apoptosis
+by reducing CHOP induction as well as ROS accumulation and mitochondrial damage.
+
+PMCID: PMC3015155
+PMID: 20959717  [PubMed - indexed for MEDLINE]
+
+
+29. Free Radic Biol Med. 2010 Dec 15;49(12):2068-77. doi:
+10.1016/j.freeradbiomed.2010.10.686. Epub 2010 Oct 27.
+
+Cardiac-specific overexpression of catalase attenuates paraquat-induced
+myocardial geometric and contractile alteration: role of ER stress.
+
+Ge W(1), Zhang Y, Han X, Ren J.
+
+Author information: 
+(1)Department of Geriatrics, Fourth Military Medical University, Xi'an, China.
+
+Erratum in
+    Free Radic Biol Med. 2011 Jan 1;50(1):217. Ge, We [corrected to Ge, Wei].
+
+Paraquat, a quaternary nitrogen herbicide, is a highly toxic pro-oxidant that
+causes multiorgan failure including that of the heart via generation of reactive 
+oxygen species, although the underlying mechanism has not been well elucidated.
+This study examined the influence of cardiac-specific overexpression of catalase,
+an antioxidant detoxifying H(2)O(2), on paraquat-induced myocardial geometric and
+functional alterations, with a focus on ER stress. FVB and catalase transgenic
+mice were administered paraquat for 48h. Myocardial geometry, contractile
+function, apoptosis, and ER stress were evaluated using echocardiography, edge
+detection, caspase-3 activity, and immunoblotting. Our results revealed that
+paraquat treatment significantly enlarged left ventricular (LV) end diastolic and
+systolic diameters; increased LV mass and resting myocyte length; reduced
+fractional shortening, cardiomyocyte peak shortening, and maximal velocity of
+shortening/relengthening; and prolonged relengthening duration in the FVB group. 
+Whereas the catalase transgene itself did not alter myocardial geometry and
+function, it mitigated or significantly attenuated paraquat-elicited myocardial
+geometric and functional changes. Paraquat promoted overt apoptosis and ER stress
+as evidenced by increased caspase-3 activity, apoptosis, and ER stress markers
+including Bax, Bcl-2, GADD153, calregulin, and phosphorylated JNK, IRE1a, and
+eIF2a; all were ablated by the catalase transgene. Paraquat-induced cardiomyocyte
+dysfunction was mitigated by the ER stress inhibitor tauroursodeoxycholic acid.
+Moreover, the JNK inhibitor SP600125 reversed paraquat-induced ER stress as
+evidenced by enhanced GADD153 and IRE1a phosphorylation. Taken together, these
+data revealed that catalase may rescue paraquat-induced myocardial geometric and 
+functional alteration possibly by alleviating JNK-mediated ER stress.
+
+Copyright © 2010 Elsevier Inc. All rights reserved.
+
+PMCID: PMC3005836
+PMID: 20937379  [PubMed - indexed for MEDLINE]
+
+
+30. PLoS One. 2010 Aug 5;5(8):e11925. doi: 10.1371/journal.pone.0011925.
+
+Calcineurin interacts with PERK and dephosphorylates calnexin to relieve ER
+stress in mammals and frogs.
+
+Bollo M(1), Paredes RM, Holstein D, Zheleznova N, Camacho P, Lechleiter JD.
+
+Author information: 
+(1)Instituto de Investigación Médica Mercedes y Martín Ferreyra (INIMEC CONICET),
+Córdoba, Argentina.
+
+BACKGROUND: The accumulation of misfolded proteins within the endoplasmic
+reticulum (ER) triggers a cellular process known as the Unfolded Protein Response
+(UPR). One of the earliest responses is the attenuation of protein translation.
+Little is known about the role that Ca2+ mobilization plays in the early UPR.
+Work from our group has shown that cytosolic phosphorylation of calnexin (CLNX)
+controls Ca2+ uptake into the ER via the sarco-endoplasmic reticulum Ca2+-ATPase 
+(SERCA) 2b.
+METHODOLOGY/PRINCIPAL FINDINGS: Here, we demonstrate that calcineurin (CN), a
+Ca2+ dependent phosphatase, associates with the (PKR)-like ER kinase (PERK), and 
+promotes PERK auto-phosphorylation. This association, in turn, increases the
+phosphorylation level of eukaryotic initiation factor-2 alpha (eIF2-alpha) and
+attenuates protein translation. Data supporting these conclusions were obtained
+from co-immunoprecipitations, pull-down assays, in-vitro kinase assays, siRNA
+treatments and [35S]-methionine incorporation measurements. The interaction of CN
+with PERK was facilitated at elevated cytosolic Ca2+ concentrations and involved 
+the cytosolic domain of PERK. CN levels were rapidly increased by ER stressors,
+which could be blocked by siRNA treatments for CN-Aalpha in cultured astrocytes. 
+Downregulation of CN blocked subsequent ER-stress-induced increases in
+phosphorylated elF2-alpha. CN knockdown in Xenopus oocytes predisposed them to
+induction of apoptosis. We also found that CLNX was dephosphorylated by CN when
+Ca2+ increased. These data were obtained from [gamma32P]-CLNX
+immunoprecipitations and Ca2+ imaging measurements. CLNX was dephosphorylated
+when Xenopus oocytes were treated with ER stressors. Dephosphorylation was
+pharmacologically blocked by treatment with CN inhibitors. Finally, evidence is
+presented that PERK phosphorylates CN-A at low resting levels of Ca2+. We further
+show that phosphorylated CN-A exhibits decreased phosphatase activity, consistent
+with this regulatory mechanism being shut down as ER homeostasis is
+re-established.
+CONCLUSIONS/SIGNIFICANCE: Our data suggest two new complementary roles for CN in 
+the regulation of the early UPR. First, CN binding to PERK enhances inhibition of
+protein translation to allow the cell time to recover. The induction of the early
+UPR, as indicated by increased P-elF2alpha, is critically dependent on a
+translational increase in CN-Aalpha. Second, CN dephosphorylates CLNX and likely 
+removes inhibition of SERCA2b activity, which would aid the rapid restoration of 
+ER Ca2+ homeostasis.
+
+PMCID: PMC2916823
+PMID: 20700529  [PubMed - indexed for MEDLINE]
+
+
+31. Cell Death Differ. 2011 Jan;18(1):133-44. doi: 10.1038/cdd.2010.82. Epub 2010 Jul
+9.
+
+The TSC1 and TSC2 tumor suppressors are required for proper ER stress response
+and protect cells from ER stress-induced apoptosis.
+
+Kang YJ(1), Lu MK, Guan KL.
+
+Author information: 
+(1)Department of Pharmacology and Moores Cancer Center, University of California 
+at San Diego, La Jolla, CA 92093, USA.
+
+Tuberous sclerosis complex (TSC)1 and TSC2 are tumor suppressors that inhibit
+cell growth and mutation of either gene causes benign tumors in multiple tissues.
+The TSC1 and TSC2 gene products form a functional complex that has
+GTPase-activating protein (GAP) activity toward Ras homolog enriched in brain
+(Rheb) to inhibit mammalian target of rapamycin complex 1 (mTORC1), which is
+constitutively activated in TSC mutant tumors. We found that cells with mutation 
+in either TSC1 or TSC2 are hypersensitive to endoplasmic reticulum (ER) stress
+and undergo apoptosis. Although the TSC mutant cells show elevated eIF2a
+phosphorylation, an early ER stress response marker, at both basal and induced
+conditions, induction of other ER stress response markers, including ATF4, ATF6
+and C/EBP homologous protein (CHOP), is severely compromised. The defects in ER
+stress response are restored by raptor knockdown but not by rapamycin treatment
+in the TSC mutant cells, indicating that a rapamycin-insensitive mTORC function
+is responsible for the defects in ER stress response. Consistently, activation of
+Rheb sensitizes cells to ER stress. Our data show an important role of TSC1/TSC2 
+and Rheb in unfolded protein response and cell survival. We speculate that an
+important physiological function of the TSC1/2 tumor suppressors is to protect
+cells from harmful conditions. These observations indicate a potential
+therapeutic application of using ER stress agents to selectively kill TSC1 or
+TSC2 mutant cells for TSC treatment.
+
+PMCID: PMC3131877
+PMID: 20616807  [PubMed - indexed for MEDLINE]
+
+
+32. J Neurosci. 2010 May 26;30(21):7358-68. doi: 10.1523/JNEUROSCI.5358-09.2010.
+
+Activity-dependent augmentation of spontaneous neurotransmission during
+endoplasmic reticulum stress.
+
+Nosyreva E(1), Kavalali ET.
+
+Author information: 
+(1)Department of Neuroscience, University of Texas Southwestern Medical Center,
+Dallas, Texas 75390-9111, USA.
+
+The endoplasmic reticulum (ER) is an essential cellular compartment responsible
+for Ca(2+) sequestration, signaling, protein translation, folding as well as
+transport. Several acute and chronic disease conditions impair ER function
+leading to ER stress. To study the impact of ER stress on synaptic transmission
+we applied tunicamycin (TM) or thapsigargin (TG) to hippocampal neurons, which
+triggered sustained elevation of key ER stress markers. We monitored evoked and
+spontaneous neurotransmission during 4 d of TM or TG treatment and detected only 
+a 20% increase in paired pulse depression suggesting an increase in
+neurotransmitter release probability. However, the treatments did not
+significantly affect the number of active synapses or the size of the total
+recycling vesicle pool as measured by uptake and release of styryl dye FM1-43. In
+contrast, under the same conditions, we observed a dramatic fourfold increase in 
+spontaneous excitatory transmission, which could be reversed by chronic treatment
+with the NMDA receptor blocker AP-5 or by treatment with salubrinal, a selective 
+inhibitor of eukaryotic translation initiation factor 2 (eIF2alpha)
+dephosphorylation. Furthermore, ER stress caused NMDA receptor-dependent
+suppression of eukaryotic elongation factor-2 (eEF2) phosphorylation thus
+reversing downstream signaling mediated by spontaneous release. Together, these
+findings suggest that chronic ER stress augments spontaneous excitatory
+neurotransmission and reverses its downstream signaling in a NMDA
+receptor-dependent manner, which may contribute to neuronal circuitry
+abnormalities that precede synapse degeneration in several neurological
+disorders.
+
+PMCID: PMC2892630
+PMID: 20505103  [PubMed - indexed for MEDLINE]
+
+
+33. AJNR Am J Neuroradiol. 2010 Sep;31(8):1418-23. doi: 10.3174/ajnr.A2108. Epub 2010
+Apr 29.
+
+Clinical and neuroimaging findings of Cree leukodystrophy: a retrospective case
+series.
+
+Harder S(1), Gourgaris A, Frangou E, Hopp K, Huntsman R, Lowry N, Seshia S,
+Lemire E, Robinson C, Tynan J.
+
+Author information: 
+(1)Department of Radiology, Loma Linda University Medical Center, Loma Linda, CA,
+USA.
+
+BACKGROUND AND PURPOSE: CLD is a rapidly progressive and invariably fatal
+neurodegenerative disorder. We describe clinical and neuroimaging findings in 5
+infants with CLD.
+MATERIALS AND METHODS: Retrospective review of medical records of infants with
+CLD from the past 11 years at our institution was performed. Relevant clinical
+and demographic data were recorded. Specific attention was directed toward
+postmortem examination findings and genetic testing. CT and MR imaging results
+were reviewed.
+RESULTS: Five Cree infants were diagnosed with CLD. CT demonstrated bilateral
+symmetric hypoattenuation of the white matter and globus pallidus. MR imaging
+demonstrated corresponding T2 hyperintensity in these regions and abnormal signal
+intensity in the thalami and substantia nigra. Symmetric restricted diffusion in 
+the deep white matter was seen. MRS demonstrated decreased NAA, elevated choline,
+and the presence of lactate. Postmortem examination in 1 infant showed
+corresponding poor myelination in the brain stem, cerebellum, deep gray
+structures, and the cerebral hemispheres. Genetic testing in 2 infants revealed
+homozygous mutations in the eIF2B5 gene.
+CONCLUSIONS: Neuroimaging in CLD is striking and is an important tool in
+diagnosing CLD. Extensive white matter involvement as well as involvement of the 
+globus pallidus and patchy involvement of the thalami and substantia nigra are
+characteristic. MRS findings are compatible with destruction of normal brain
+parenchyma with evidence of anaerobic metabolism in the regions of demyelination.
+Clinical suspicion of VWM in a Native American infant from this region should
+prompt the consideration of CLD with appropriate imaging work-up and genetic
+testing.
+
+PMID: 20430848  [PubMed - indexed for MEDLINE]
+
+
+34. J Hepatol. 2010 Apr;52(4):586-93. doi: 10.1016/j.jhep.2010.01.003. Epub 2010 Feb 
+13.
+
+Palmitoleate attenuates palmitate-induced Bim and PUMA up-regulation and
+hepatocyte lipoapoptosis.
+
+Akazawa Y(1), Cazanave S, Mott JL, Elmi N, Bronk SF, Kohno S, Charlton MR, Gores 
+GJ.
+
+Author information: 
+(1)Division of Gastroenterology and Hepatology, Mayo Clinic College of Medicine, 
+Rochester, MN 55905, USA.
+
+BACKGROUND & AIMS: Saturated free fatty acids induce hepatocyte lipoapoptosis.
+This lipotoxicity involves an endoplasmic reticulum stress response, activation
+of JNK, and altered expression and function of Bcl-2 proteins. The
+mono-unsaturated free fatty acid palmitoleate is an adipose-derived lipokine
+which suppresses free fatty acid-mediated lipotoxicity by unclear mechanisms.
+Herein we examined the mechanisms responsible for cytoprotection.
+METHODS: We employed isolated human and mouse primary hepatocytes, and the Huh-7 
+and Hep 3B cell lines for these studies. Cells were incubated in presence and
+absence of palmitate (16:0), stearate (18:0), and or palmitoleate (16:1, n-7).
+RESULTS: Palmitoleate significantly reduced lipoapoptosis by palmitate or
+stearate in both primary cells and cell lines. Palmitoleate accentuated
+palmitate-induced steatosis in Huh-7 cells excluding inhibition of steatosis as a
+mechanism for reduced apoptosis. Palmitoleate inhibited palmitate induction of
+the endoplasmic reticulum stress response as demonstrated by reductions in CHOP
+expression, eIF2-alpha phosphorylation, XBP-1 splicing, and JNK activation.
+Palmitate increased expression of the BH3-only proteins PUMA and Bim, which was
+attenuated by palmitoleate. Consistent with its inhibition of PUMA and Bim
+induction, palmitoleate prevented activation of the downstream death mediator
+Bax.
+CONCLUSIONS: These data suggest palmitoleate inhibits lipoapoptosis by blocking
+endoplasmic reticulum stress-associated increases of the BH3-only proteins Bim
+and PUMA.
+
+PMCID: PMC2847010
+PMID: 20206402  [PubMed - indexed for MEDLINE]
+
+
+35. Br J Pharmacol. 2010 Jan 1;159(2):428-37. doi: 10.1111/j.1476-5381.2009.00544.x. 
+Epub 2009 Dec 15.
+
+A unique modulator of endoplasmic reticulum stress-signalling pathways: the novel
+pharmacological properties of amiloride in glial cells.
+
+Hosoi T(1), Kume A, Otani K, Oba T, Ozawa K.
+
+Author information: 
+(1)Department of Pharmacotherapy, Graduate School of Biomedical Sciences,
+Hiroshima University, Kasumi, Minami-ku, Hiroshima, Japan.
+
+BACKGROUND AND PURPOSE: Stress on the endoplasmic reticulum (ER) can trigger
+rescuer responses such as the unfolded protein response (UPR). However,
+pharmacological modulators of these ER-regulated stress responses are not well
+understood. In the present study, we found that amiloride, a potassium-sparing
+diuretic, has unique properties relating to such stress.
+EXPERIMENTAL APPROACH: We treated mouse primary cultured glial cells with
+amiloride, in the absence and presence of the ER stress-inducing reagents
+tunicamycin (Tm) or dithiothreitol, and measured UPR and ER stress-induced cell
+death. IRE1alpha phosphorylation, eIF2alpha phosphorylation, X-box binding
+protein 1 (XBP1) splicing, glucose regulated protein 78 (GRP78) and
+CCAAT/enhancer-binding protein homologous protein (CHOP) expression by reverse
+transcription-polymerase chain reaction and Western blotting were used to assess 
+UPR and lactate dehydrogenase activity was determined to measure ER
+stress-induced cell death.
+KEY RESULTS: Amiloride completely inhibited ER stress-induced activation of
+IRE1alpha, an ER-localized stress sensor protein, splicing of XBP1, and
+subsequent expression of GRP78 at the mRNA and protein levels. ER stress induces 
+the phosphorylation of eIF2alpha, leading to the expression of CHOP or an
+attenuation of translation in cells. Surprisingly, treatment with amiloride alone
+markedly promoted the phosphorylation but actually inhibited ER stress-induced
+CHOP expression. Finally, we found that amiloride (200 microM) synergistically
+enhanced ER stress-induced cell death, which was mediated through caspases. On
+the other hand, a low dose of amiloride (20 microM) significantly prevented
+Tm-induced cell death.
+CONCLUSIONS AND IMPLICATIONS: These results suggest that amiloride can modulate
+UPR. They also suggest amiloride to be an important pharmacological agent and
+provide basic information for understanding and preventing ER stress-related
+diseases.
+
+PMCID: PMC2825364
+PMID: 20015086  [PubMed - indexed for MEDLINE]
+
+
+36. Int J Cancer. 2010 May 15;126(10):2268-81. doi: 10.1002/ijc.25102.
+
+Ras inhibits endoplasmic reticulum stress in human cancer cells with amplified
+Myc.
+
+Yaari-Stark S(1), Shaked M, Nevo-Caspi Y, Jacob-Hircsh J, Shamir R, Rechavi G,
+Kloog Y.
+
+Author information: 
+(1)Department of Neurobiology, The George S. Wise Faculty of Life Sciences,
+Tel-Aviv University, Tel-Aviv, Israel.
+
+In neuroblastoma LAN-1 cells harboring an amplified MycN gene, disruption of
+cooperation between Ras and MycN proteins by the Ras inhibitor
+farnesylthiosalicylic acid (FTS, Salirasib) reportedly arrests cell growth. Our
+aim was to establish whether this is a general phenomenon. We examined the
+effects of FTS on gene-expression profiles, growth and death of NCIH929 myeloma
+cells and K562 leukemia cells, which-like LAN-1 cells-exhibit Myc gene
+amplification and harbor active Ras. Under specified conditions, FTS reduced Ras 
+and Myc and induced cell growth arrest and death in all Myc-amplified cell lines 
+but not in SHEP, a neuroblastoma cell line without Myc gene amplification.
+Gene-expression analysis revealed a common pattern of FTS-induced endoplasmic
+reticulum (ER) stress, known as the unfolded protein response (UPR), in
+Myc-amplified cells, but not in SHEP. Thus, Ras negatively regulates ER stress in
+cells with amplified Myc. ER stress was also inducible by dominant-negative
+(DN)-Ras or shRNA to Ras isoforms, all of which induced an increase in BIP (the
+master regulator of ER stress) and its downstream targets Nrf2 and eIF2alpha,
+both regulated by active p-PERK. FTS also induced an increase in p-PERK, while
+small interfering RNA to PERK reduced Nrf2 and ATF4 and rescued cells from
+FTS-induced death. BIP and its downstream targets were also increased by
+inhibitors of MAPK p38 and MEK. Ras, acting through MAPK p38 and MEK, negatively 
+regulates the ER stress cascades BIP/PERK/Nrf2 and eIF2alpha/ATF4/ATF3. These
+findings can explain the Ras-dependent protection of Myc-amplified cells from ER 
+stress-associated death.
+
+PMID: 19998334  [PubMed - indexed for MEDLINE]
+
+
+37. Adv Gerontol. 2009;22(2):223-7.
+
+[The mechanism of phenoptosis: I. Age-dependent decrease of the overall rate of
+protein synthesis is caused by the programmed attenuation of bio-energetics].
+
+[Article in Russian]
+
+Trubitsyn AG.
+
+The age-dependent degradation of all vital processes of an organism can be result
+of influences of destructive factors (the stochastic mechanism of aging), or
+effect of realizations of the genetic program (phenoptosis). The stochastic
+free-radical theory of aging dominating now contradicts the set of empirical
+data, and the semicentenial attempts to create the means to slow down aging did
+not give any practical results. It makes obvious that the stochastic mechanism of
+aging is incorrect. At the same time, the alternative mechanism of the programmed
+aging is not developed yet but preconditions for it development have already been
+created. It is shown that the genes controlling process of aging exist (contrary 
+to the customary opinion) and the increase in the level of damaged macromolecules
+(basic postulate of the free-radical theory) can be explained by programmed
+attenuation of bio-energetics. As the bio-energetics is a driving force of all
+vital processes, decrease of its level is capable to cause degradation of all
+functions of an organism. However to transform this postulate into a basis of the
+theory of phenoptosis it is necessary to show, that attenuation of bio-energetics
+predetermines such fundamental processes accompanying aging as decrease of the
+overall rate of protein biosynthesis, restriction of cellular proliferations
+(Hayflick limit), loss of telomeres etc. This article is the first step in this
+direction: the natural mechanism of interaction of overall rate of protein
+synthesis with a level of cellular bio-energetics is shown. This is built-in into
+the translation machine and based on dependence of recirculation rate of
+eukaryotic initiation factor 2 (elF2) from ATP/ADP value that is created by
+mitochondrial bio-energetic machine.
+
+PMID: 19947384  [PubMed - indexed for MEDLINE]
+
+
+38. Neurosci Res. 2010 Jan;66(1):124-30. doi: 10.1016/j.neures.2009.10.005. Epub 2009
+Oct 14.
+
+Endogenous catecholamine enhances the dysfunction of unfolded protein response
+and alpha-synuclein oligomerization in PC12 cells overexpressing human
+alpha-synuclein.
+
+Ito S(1), Nakaso K, Imamura K, Takeshima T, Nakashima K.
+
+Author information: 
+(1)Department of Neurology, Institute of Neurological Sciences, Faculty of
+Medicine, Tottori University, Japan. s-itou@med.tottori-u.ac.jp
+
+Parkinson's disease (PD) is a neurodegenerative disorder characterized by the
+selective loss of dopaminergic neurons and the presence of Lewy bodies.
+alpha-Synuclein is a major component of Lewy bodies. Recently, many studies have 
+focused on the interaction between alpha-synuclein and catecholamine in the
+pathogenesis of PD. However, no detailed relationship between cathecholamine and 
+alpha-synuclein cytotoxicity has been elucidated. Therefore, this study
+established PC12 cell lines which overexpress human alpha-synuclein in a
+tetracycline-inducible manner. The overexpression of human alpha-synuclein
+increased the number of apoptotic cells in a long-term culture. Moreover, human
+alpha-synuclein expressing PC12 cells demonstrated an increased vulnerability to 
+several stressors in a short culture period. Thapsigargin increased the SDS
+soluble oligomers of alpha-synuclein associated with catecholamine-quinone. The
+unfolded protein response (UPR) study showed that thapsigargin increased
+eIF2alpha phosphorylation and nuclear GADD153/CHOP induction under
+alpha-synuclein overexpressed conditions. The activities of the ATF6alpha and
+IRE1alpha pathways decreased. These findings suggest that an overexpression of
+alpha-synuclein partly inactivates the UPR. alpha-Methyltyrosine inhibited the
+dysfunction of the UPR caused by an overexpression of human alpha-synuclein.
+Therefore, these findings suggest that the coexistence of human alpha-synuclein
+with catecholamine enhances the endoplasmic reticulum stress-related toxicity in 
+PD pathogenesis.
+
+Copyright 2009 Elsevier Ireland Ltd and the Japan Neuroscience Society. All
+rights reserved.
+
+PMID: 19835916  [PubMed - indexed for MEDLINE]
+
+
+39. Neurobiol Dis. 2009 May;34(2):357-65. doi: 10.1016/j.nbd.2009.02.005. Epub 2009
+Feb 20.
+
+Inhibition of mitochondrial function induces an integrated stress response in
+oligodendroglia.
+
+Silva JM(1), Wong A, Carelli V, Cortopassi GA.
+
+Author information: 
+(1)Department of Molecular Biosciences, University of California, Davis, 95616,
+USA.
+
+Maternal inheritance of a pathogenic point mutation within complex I of the
+mitochondrial genome causes Leber's hereditary optic neuropathy (LHON), resulting
+in the neurodegeneration and demyelination of the optic nerve. The integrated
+stress response (ISR), a signaling pathway that responds to various stresses by
+activating a common set of genes, has been linked to both mitochondrial defects
+and demyelinating diseases. Therefore, we wanted to determine whether
+mitochondrial dysfunction induced by complex I inhibition with rotenone can
+activate the ISR, specifically by the ER kinase PERK, in oligodendroglial cells. 
+Our complex I-deficient oligodendroglial model reproduced similar biochemical
+defects as in LHON by decreasing ATP synthesis and ATP levels. The same doses of 
+rotenone that reduced ATP production also induced dose-dependent increases in
+PERK and eIF2alpha phosphorylation as well as activated the ISR stress genes,
+ATF4 and CHOP. In addition, complex I inhibition at these same concentrations
+induced a PERK-dependent activation of the cell death kinase, JNK, and inhibited 
+oligodendroglial proliferation. Taken together, our results demonstrate that
+activation of the ISR may be one example of mitochondrial retrograde signaling in
+response to complex I deficiency and we suggest that this response mechanism may 
+be relevant to the pathophysiology of LHON.
+
+PMID: 19233273  [PubMed - indexed for MEDLINE]
+
+
+40. Neuron. 2008 Dec 26;60(6):988-1009. doi: 10.1016/j.neuron.2008.10.047.
+
+Phosphorylation of the translation initiation factor eIF2alpha increases BACE1
+levels and promotes amyloidogenesis.
+
+O'Connor T(1), Sadleir KR, Maus E, Velliquette RA, Zhao J, Cole SL, Eimer WA,
+Hitt B, Bembinster LA, Lammich S, Lichtenthaler SF, Hébert SS, De Strooper B,
+Haass C, Bennett DA, Vassar R.
+
+Author information: 
+(1)Department of Cell and Molecular Biology, Northwestern University Feinberg
+School of Medicine, Chicago, IL 60611, USA.
+
+Comment in
+    Neuron. 2008 Dec 26;60(6):941-3.
+
+beta-site APP cleaving enzyme-1 (BACE1), the rate-limiting enzyme for
+beta-amyloid (Abeta) production, is elevated in Alzheimer's disease (AD). Here,
+we show that energy deprivation induces phosphorylation of the translation
+initiation factor eIF2alpha (eIF2alpha-P), which increases the translation of
+BACE1. Salubrinal, an inhibitor of eIF2alpha-P phosphatase PP1c, directly
+increases BACE1 and elevates Abeta production in primary neurons. Preventing
+eIF2alpha phosphorylation by transfection with constitutively active PP1c
+regulatory subunit, dominant-negative eIF2alpha kinase PERK, or PERK inhibitor
+P58(IPK) blocks the energy-deprivation-induced BACE1 increase. Furthermore,
+chronic treatment of aged Tg2576 mice with energy inhibitors increases levels of 
+eIF2alpha-P, BACE1, Abeta, and amyloid plaques. Importantly, eIF2alpha-P and
+BACE1 are elevated in aggressive plaque-forming 5XFAD transgenic mice, and BACE1,
+eIF2alpha-P, and amyloid load are correlated in humans with AD. These results
+strongly suggest that eIF2alpha phosphorylation increases BACE1 levels and causes
+Abeta overproduction, which could be an early, initiating molecular mechanism in 
+sporadic AD.
+
+PMCID: PMC2667382
+PMID: 19109907  [PubMed - indexed for MEDLINE]
+
+
+41. Cardiovasc Res. 2009 Jan 1;81(1):148-58. doi: 10.1093/cvr/cvn262. Epub 2008 Sep
+24.
+
+Salvianolic acid B protects human endothelial cells from oxidative stress damage:
+a possible protective role of glucose-regulated protein 78 induction.
+
+Wu HL(1), Li YH, Lin YH, Wang R, Li YB, Tie L, Song QL, Guo DA, Yu HM, Li XJ.
+
+Author information: 
+(1)Department of Pharmacology, School of Basic Medical Sciences, Health Science
+Center, Peking University, Xueyuan Road, Haidian District, Beijing 100083, PR
+China.
+
+AIMS: The purposes of the present study were to both evaluate the protective
+effects of Salvianolic acid B (Sal B) and to determine the possible molecular
+mechanisms by which Sal B protects endothelial cells from damage caused by
+oxidative stress.
+METHODS AND RESULTS: Pretreatment with Sal B markedly attenuated H(2)O(2)-induced
+viability loss, lactate dehydrogenase leakage and apoptosis in human umbilical
+vein endothelial cells (HUVECs). The mechanism of Sal B protection was studied
+using two-dimensional gel electrophoresis coupled with hybrid quadrupole
+time-of-flight mass spectrometry. Database searching implicated that
+glucose-regulated protein 78 (GRP78), a central regulator for endoplasmic
+reticulum (ER) stress, was up-regulated in Sal B-exposed HUVECs. GRP78 expression
+regulation was confirmed by western blot and RT-PCR (reverse
+transcription-polymerase chain reaction) analyses. Additionally, GRP94, which
+shares significant sequence homology with GRP78, was also up-regulated in Sal
+B-treated cells. Sal B caused pancreatic ER kinase (PKR)-like ER kinase (PERK)
+activation followed by the phosphorylation of eukaryotic translation initiation
+factor 2 alpha (eIF2 alpha) and the expression of activating transcription factor
+4 (ATF4). Knockdown of endogenous ATF4 expression partially repressed Sal
+B-induced GRP78 induction. Further investigation showed that ATF6 was also
+activated by Sal B. Knockdown of GRP78 by siRNA significantly reduced the
+protective effects of Sal B.
+CONCLUSION: The results suggest that Sal B induces the expression of GRP78 by
+activating ATF6 and the PERK-eIF2 alpha-ATF4 pathway. Furthermore, up-regulation 
+of GRP78 by Sal B may play an important role in protecting human endothelial
+cells from oxidative stress-induced cellular damage.
+
+PMID: 18815184  [PubMed - indexed for MEDLINE]
+
+
+42. Exp Mol Pathol. 2008 Jun;84(3):226-9. doi: 10.1016/j.yexmp.2008.04.004. Epub 2008
+May 7.
+
+E74-like factor 2 transactivates valosin-containing protein gene, a gene involved
+in cancer growth.
+
+Qiu Y(1), Morii E, Zhang B, Tomita Y, Aozasa K.
+
+Author information: 
+(1)Department of Pathology, Osaka University Graduate School of Medicine, Suita, 
+Osaka, Japan.
+
+Enhanced expression of valosin-containing protein (VCP) correlates with
+invasiveness and metastatic potential of cancer cells; therefore its
+transcriptional regulation could be a new target for cancer therapy. Here, the
+mechanism for transactivation of VCP promoter by E74-like factor 2 (ELF2), a
+transcription factor which enhances VCP transcription, was investigated. There
+was a highly conserved region among species in VCP promoter with one proven motif
+for ELF2 binding. However, the mutation at this motif did not obviously change
+the promoter activity. Further survey revealed another ELF2 binding motif in the 
+upstream of the conserved region. The promoter activity was modestly reduced when
+this upstream motif was mutated, and completely abolished when both upstream and 
+downstream motifs were mutated. Chromatin immunoprecipitation assay revealed that
+ELF2 bound both upstream and downstream motifs. These findings indicate that ELF2
+transactivates VCP promoter through binding to two motifs, with a predominant
+contribution of the upstream one.
+
+PMID: 18544453  [PubMed - indexed for MEDLINE]
+
+
+43. Toxicol Sci. 2008 Mar;102(1):1-2. doi: 10.1093/toxsci/kfm299.
+
+Nonanimal alternatives for skin sensitization: a step forward?
+
+Basketter DA(1).
+
+Author information: 
+(1)St John's Institute of Dermatology, St Thomas Hospital, London SE1 7EH, UK.
+david.basketter@ukonline.co.uk
+
+Comment in
+    Toxicol Sci. 2008 Dec;106(2):572-4; author reply 575.
+
+Comment on
+    Toxicol Sci. 2008 Mar;102(1):110-9.
+
+PMID: 18256044  [PubMed - indexed for MEDLINE]
+
+
+44. Zhonghua Yi Xue Za Zhi. 2007 Aug 28;87(32):2245-8.
+
+[Full-length cloning of a novel gene, ELF2C, related to familial acute
+myelogenous leukemia].
+
+[Article in Chinese]
+
+Wang CY(1), Wang SY, Lin X, Zhang YW, Li JG.
+
+Author information: 
+(1)Fujian Institute of Hematology, Department of Hematology, Union Hospital,
+Fujian Medical University, Fuzhou 350001, China.
+
+OBJECTIVE: To clone the full-length cDNA of a novel gene of familial acute
+myelogenous leukemia and to explain the molecular mechanism of the disease at the
+gene level.
+METHODS: Based on a EST sequence (zywb4) from a subtractive cDNA library of
+specially or differentially expressed genes constructed in familial acute
+myelogenous leukemia, electronic cDNA cloning and SMART-rapid amplification of
+cDNA ends (SMART-RACE) were used to clone the full-length cDNA of a novel
+associated gene of familial acute myelogenous leukemia.
+RESULTS: One sequence of 2257 bp was obtained, which obeyed Kozak rules, and
+contained an open reading frame (ORF) and a polyA tail. BLAST analysis showed
+that it may be a novel gene. The new sequence was submitted to GenBank with the
+accession number: DQ359746 and designated as ELF2C.
+CONCLUSION: A full- length cDNA of a novel gene (ELF2C) related to familial acute
+myelogenous leukemia is obtained, which is helpful to further investigation of
+its function in familial acute myelogenous leukemia.
+
+PMID: 18001542  [PubMed - indexed for MEDLINE]
+
+
+45. Virology. 2008 Feb 5;371(1):71-85. Epub 2007 Oct 22.
+
+Development of plaque assays for hepatitis C virus-JFH1 strain and isolation of
+mutants with enhanced cytopathogenicity and replication capacity.
+
+Sekine-Osajima Y(1), Sakamoto N, Mishima K, Nakagawa M, Itsui Y, Tasaka M,
+Nishimura-Sakurai Y, Chen CH, Kanai T, Tsuchiya K, Wakita T, Enomoto N, Watanabe 
+M.
+
+Author information: 
+(1)Department of Gastroenterology and Hepatology, Tokyo Medical and Dental
+University, Tokyo, Japan.
+
+HCV culture in vitro results in massive cell death, which suggests the presence
+of HCV-induced cytopathic effects. Therefore, we investigated its mechanisms and 
+viral nucleotide sequences involved in this effect using HCV-JFH1 cell culture
+and a newly developed HCV plaque assay technique. The plaque assay developed
+cytopathic plaques, depending on the titer of the inoculum. In the virus-infected
+cells, the ER stress markers, GRP78 and phosphorylated eIF2-alpha, were
+overexpressed. Cells in the plaques were strongly positive for an apoptosis
+marker, annexin V. Isolated virus subclones from individual plaque showed greater
+replication efficiency and cytopathogenicity than the parental virus. The
+plaque-purified virus had 9 amino acid substitutions, of which 5 were clustered
+in the C terminal of the NS5B region. Taken together, the cytopathic effect of
+HCV infection involves ER-stress-induced apoptotic cell death. Certain HCV
+genomic structures may determine the viral replication capacity and
+cytopathogenicity.
+
+PMID: 17949770  [PubMed - indexed for MEDLINE]
+
+
+46. Toxicol Sci. 2008 Mar;102(1):110-9. Epub 2007 Oct 11.
+
+Skin sensitizers induce antioxidant response element dependent genes: application
+to the in vitro testing of the sensitization potential of chemicals.
+
+Natsch A(1), Emter R.
+
+Author information: 
+(1)Givaudan Schweiz AG, Ueberlandstrasse 138, CH-8600 Duebendorf, Switzerland.
+andreas.natsch@givaudan.com
+
+Comment in
+    Toxicol Sci. 2008 Mar;102(1):1-2.
+    Toxicol Sci. 2008 Dec;106(2):572-4; author reply 575.
+
+Tests for skin sensitization are required prior to the market launch of new
+cosmetic ingredients and in vitro tests are needed to replace the current animal 
+tests. Protein reactivity is the common feature of skin sensitizers and it is a
+crucial question whether a cellular in vitro assay can detect protein reactivity 
+of diverse test chemicals. The signaling pathway involving the repressor protein 
+Keap1 and the transcription factor nuclear factor-erythroid 2-related factor 2,
+which binds to the antioxidant response element (ARE) in the promoter of many
+phase II detoxification genes, is a potential cellular marker because Keap1 had
+been shown to be covalently modified by electrophiles which leads to activation
+of ARE-dependent genes. To evaluate whether this regulatory pathway can be used
+to develop a predictive cellular in vitro test for sensitization, 96 different
+chemicals of known skin sensitization potential were added to Hepa1C1C7 cells and
+the induction of the ARE-regulated quinone reductase (QR) activity was
+determined. In parallel, 102 chemicals were tested on the reporter cell line
+AREc32, which contains an eightfold repeat of the ARE sequence upstream of a
+luciferase gene. Among the strong/extreme skin sensitizers 14 out of 15 and 30
+out of 34 moderate sensitizers induced the ARE-dependent luciferase activity and 
+in many cases this response was paralleled by an induction of QR activity in
+Hepa1C1C7 cells. Sixty percent of the weak sensitizers also induced luciferase
+activity, and the overall accuracy of the assay was 83 percent. Only four of 30
+tested nonsensitizers induced low levels of luciferase activity, indicating a
+high specificity of the assay. Thus, measurement of the induction of this
+signaling pathway provides an interesting in vitro test to screen for the skin
+sensitization potential of novel chemicals.
+
+PMID: 17932397  [PubMed - indexed for MEDLINE]
+
+
+47. Methods Enzymol. 2007;429:163-83.
+
+In vivo stabilization of preinitiation complexes by formaldehyde cross-linking.
+
+Valásek L(1), Szamecz B, Hinnebusch AG, Nielsen KH.
+
+Author information: 
+(1)Institute of Microbiology, AS CR, Prague, Czech Republic.
+
+Translation initiation starts with the formation of the 43S preinitiation complex
+(PIC) consisting of several soluble factors, including the ternary complex (TC;
+elF2-GTP-Met-tRNA(i)(Met)), which associate with the small ribosomal subunit. In 
+the next step, mRNA is recruited to form the 48S PIC and the entire machinery
+starts scanning the 5' untranslated region of the mRNA until the AUG start codon 
+is encountered. The most widely used method to separate 40S and 60S ribosomal
+subunits from soluble factors, monosomes and polysomes, is sucrose density
+centrifugation (SDC). Since PICs are intrinsically unstable complexes that cannot
+withstand the forces imposed by SDC, a stabilization agent must be employed to
+detect the association of factors with the 40S subunit after SDC. This was
+initially achieved by adding heparin (a highly sulfated glycosaminoglycan)
+directly to the breaking buffer of cells treated with cycloheximide (a
+translation elongation inhibitor). However, the mechanism of stabilization is not
+understood and, moreover, there are indications that the use of heparin may lead 
+to artifactual factor associations that do not reflect the factor occupancy of
+the 43S/48S PICs in the cell at the time of lysis. Therefore, we developed an
+alternative method for PIC stabilization using formaldehyde (HCHO) to cross-link 
+factors associated with 40S ribosomal subunits in vivo before the disruption of
+the yeast cells. Results obtained using HCHO stabilization strongly indicate that
+the factors detected on the 43S/48S PIC after SDC approximate a real-time in vivo
+"snapshot" of the 43S/48S PIC composition. In this chapter, we will present the
+protocol for HCHO cross-linking in detail and demonstrate the difference between 
+heparin and HCHO stabilization procedures. In addition, different conditions for 
+displaying the polysome profile or PIC analysis by SDC, used to address different
+questions, will be outlined.
+
+PMID: 17913623  [PubMed - indexed for MEDLINE]
+
+
+48. Dev Cell. 2007 Sep;13(3):322-4.
+
+Coping with stress: ATF6alpha takes the stage.
+
+Bobrovnikova-Marjon E(1), Diehl JA.
+
+Author information: 
+(1)The Leonard and Madlyn Abramson Family Cancer Research Institute, University
+of Pennsylvania Cancer Center, Philadelphia, PA 19104, USA. adiehl@mail.upenn.edu
+
+Comment on
+    Dev Cell. 2007 Sep;13(3):365-76.
+    Dev Cell. 2007 Sep;13(3):351-64.
+
+In this issue of Developmental Cell, two groups, Yamamoto et al. and Wu et al.,
+describe the generation of mice with targeted deletion of the ATF6alpha gene.
+While ATF6alpha is nonessential for embryonic and postnatal development, deletion
+has a profound effect on the transcriptional program elicited by endoplasmic
+reticulum stress, revealing a broader than anticipated role for ATF6 in this
+signaling network.
+
+PMID: 17765676  [PubMed - indexed for MEDLINE]
+
+
+49. Neurol Res. 2007 Dec;29(8):767-71.
+
+Increased ER stress during motor neuron degeneration in a transgenic mouse model 
+of amyotrophic lateral sclerosis.
+
+Nagata T(1), Ilieva H, Murakami T, Shiote M, Narai H, Ohta Y, Hayashi T, Shoji M,
+Abe K.
+
+Author information: 
+(1)Department of Neurology, Graduate School of Medicine and Dentistry, Okayama
+University, Japan. ktnagata@cc.okayama-u.ac.jp
+
+The endoplasmic reticulum (ER), which plays important roles in apoptosis, is
+susceptible to oxidative stress. ER stress is also thought to be involved in the 
+pathogenesis of neurodegenerative diseases. In this study, we investigated
+whether ER stress is involved in the pathogenesis of amyotrophic lateral
+sclerosis (ALS) using the anterior part of the lumbar spinal cord of transgenic
+mice carrying a mutation (G93A) in the superoxide dismutase 1 (SOD1) gene.
+Western blot and immunohistochemical analyses demonstrated that the expressions
+of p-PERK and p-eIF2alpha were increased in the microsome fraction (P3) of the
+lumbar spinal cord at the pre-symptomatic age of 12 weeks (12W), while the
+expression of activated caspase-12 was increased in the cytoplasmic fraction (S3)
+of the lumbar spinal cord at both the pre-symptomatic age of 12W and the late
+symptomatic age of 20W. In contrast, GRP78 did not show any increases in the
+microsome fraction (P3) of the lumbar spinal cord at either the pre-symptomatic
+or symptomatic ages. Thus, the present results strongly suggest that the balance 
+between anti- and pro-apoptotic proteins related to ER stress is impaired from
+the pre-symptomatic stage in this ALS mouse model, and that this imbalance may be
+related to the pathogenesis of motor neuron degeneration in ALS.
+
+PMID: 17672929  [PubMed - indexed for MEDLINE]
+
+
+50. Leukemia. 2007 Jun;21(6):1232-8. Epub 2007 Apr 5.
+
+Complex MLL rearrangements in t(4;11) leukemia patients with absent AF4.MLL
+fusion allele.
+
+Kowarz E(1), Burmeister T, Lo Nigro L, Jansen MW, Delabesse E, Klingebiel T,
+Dingermann T, Meyer C, Marschalek R.
+
+Author information: 
+(1)Institute of Pharmaceutical Biology, ZAFES, DCAL, JWG-University Frankfurt,
+Biocenter, Frankfurt, Main, Germany.
+
+The human mixed lineage leukemia (MLL) gene is frequently involved in genetic
+rearrangements with more than 55 different translocation partner genes, all
+associated with acute leukemia. Reciprocal chromosomal translocations generate
+two MLL fusion alleles, where 5'- and 3'-portions of MLL are fused to gene
+segments of given fusion partners. In case of t(4;11) patients, about 80% of all 
+patients exhibit both reciprocal fusion alleles, MLL.AF4 and AF4.MLL,
+respectively. By contrast, 20% of all t(4;11) patients seem to encode only the
+MLL.AF4 fusion allele. Here, we analyzed these 'MLL.AF4(+)/AF4.MLL(-)' patients
+at the genomic DNA level to unravel their genetic situation. Cryptic
+translocations and three-way translocations were found in this group of t(4;11)
+patients. Reciprocal MLL fusions with novel translocation partner genes, for
+example NF-KB1 and RABGAP1L, were identified and actively transcribed in leukemic
+cells. In other patients, the reciprocal 3'-MLL gene segment was fused
+out-of-frame to PBX1, ELF2, DSCAML1 and FXYD6. The latter rearrangements caused
+haploinsufficiency of genes that are normally expressed in hematopoietic cells.
+Finally, patients were identified that encode only solitary 3'-MLL gene segments 
+on the reciprocal allele. Based on these data, we propose that all t(4;11)
+patients exhibit reciprocal MLL alleles, but due to the individual recombination 
+events, provide different pathological disease mechanisms.
+
+PMID: 17410185  [PubMed - indexed for MEDLINE]
+
+
+51. Biochem Biophys Res Commun. 2007 May 11;356(3):536-41. Epub 2007 Mar 9.
+
+E74-like factor 2 regulates valosin-containing protein expression.
+
+Zhang B(1), Tomita Y, Qiu Y, He J, Morii E, Noguchi S, Aozasa K.
+
+Author information: 
+(1)Department of Pathology, Osaka University Graduate School of Medicine, Suita, 
+Osaka 565-0871, Japan.
+
+Enhanced expression of valosin-containing protein (VCP) correlates with invasion 
+and metastasis of cancers. To clarify the transcription mechanism of VCP, human
+and mouse genomic sequence was compared, revealing a 260 bp DNA sequence in the
+5'-flanking region of VCP gene to be highly conserved between the two, in which
+binding motif of E74-like factor 2/new Ets-related factor (ELF2/NERF) was
+identified. Chromatin immunoprecipitation assay showed binding of ELF2/NERF to
+the 5'-flanking region of VCP gene. Knock-down of ELF2/NERF by siRNA decreased
+expression level of VCP. Viability of cells under tumor necrosis factor-alpha
+treatment significantly reduced in ELF2/NERF-knock-down breast cancer cell line. 
+Immunohistochemical analysis on clinical breast cancer specimens showed a
+correlation of nuclear ELF2/NERF expression with VCP expression and proliferative
+activity of cells shown by Ki-67 immunohistochemistry. These findings indicate
+that ELF2/NERF promotes VCP transcription and that ELF2/NERF-VCP pathway might be
+important for cell survival and proliferation under cytokine stress.
+
+PMID: 17368566  [PubMed - indexed for MEDLINE]
+
+
+52. Ment Retard Dev Disabil Res Rev. 2006;12(2):123-8.
+
+Vanishing white matter disease: a review with focus on its genetics.
+
+Pronk JC(1), van Kollenburg B, Scheper GC, van der Knaap MS.
+
+Author information: 
+(1)Department of Human Genetics, VU University Medical Center, Amsterdam, The
+Netherlands.
+
+Leukoencephalopathy with vanishing white matter (VWM) is an autosomal recessive
+brain disorder, most often with a childhood onset. Magnetic resonance imaging and
+spectroscopy indicate that, with time, increasing amounts of cerebral white
+matter vanish and are replaced by fluid. Autopsy confirms white matter
+rarefaction and cystic degeneration. The process of localization and
+identification of the first two genes related to VWM, EIF2B5 and EIF2B2, was
+facilitated by two founder effects in the Dutch population. EIF2B5 and EIF2B2
+encode the epsilon and beta subunits of translation initiation factor eIF2B. Soon
+it was shown that mutations in all five eIF2B subunit genes can cause VWM. EIF2B 
+is essential for the initiation of translation of RNA into protein and is
+involved in regulation of the process, especially under stress conditions, which 
+may explain the sensitivity to stress conditions observed in VWM patients. The
+pathophysiology of the disease is still poorly understood.
+
+PMID: 16807905  [PubMed - indexed for MEDLINE]
+
+
+53. Biochem Biophys Res Commun. 2006 Apr 28;343(1):135-43. Epub 2006 Mar 3.
+
+Absence of typical unfolded protein response in primary cultured cystic fibrosis 
+airway epithelial cells.
+
+Nanua S(1), Sajjan U, Keshavjee S, Hershenson MB.
+
+Author information: 
+(1)Department of Pediatrics and Communicable Diseases, University of Michigan,
+Ann Arbor, MI 48109-0688, USA.
+
+We examined whether the unfolded protein response is activated in cells
+expressing incorrectly folded cystic fibrosis transmembrane conductance
+regulator. Airway epithelial cells from three control and three CF patients
+homozygous for the deltaF508 mutation were tested. There were no differences in
+protein expression of the pro-apoptotic factor C/EBP homologous protein (CHOP) or
+the endoplasmic reticulum (ER) chaperone binding Ig protein. Nor were there
+differences in phosphorylation of protein kinase R-like ER kinase or eukaryotic
+initiation factor-2alpha, or the splicing of X-box binding protein (XBP)-1.
+However, CF cells showed increased mRNA expression of CHOP and XBP-1. A
+proteasome inhibitor increased CHOP expression in CF cells, suggesting that
+enhanced proteasome activation is responsible for the observed
+post-transcriptional regulation. Finally, CF cells were resistant to apoptosis,
+suggesting that post-transcriptional regulation of CHOP prevents apoptosis. While
+CHOP and XBP-1 mRNA expression is increased in CF cells, the classic UPR is not
+present.
+
+PMID: 16530168  [PubMed - indexed for MEDLINE]
+
+
+54. Trends Mol Med. 2005 Aug;11(8):347-50.
+
+A new pharmacology--drugging stressed folding pathways.
+
+Wiseman RL(1), Balch WE.
+
+Author information: 
+(1)Department of Chemistry and The Skaggs Institute of Chemical Biology, The
+Scripps Research Institute, 10550 N. Torrey Pines Rd, MB-6, La Jolla, CA 92037,
+USA.
+
+Folding in the endoplasmic reticulum (ER) must couple protein-synthesis pathways 
+operating outside of the compartment with ER-assisted folding (ERAF) pathways in 
+the lumen. Chaperone-mediated folding imbalances that are associated with
+numerous misfolding diseases, including diabetes, trigger the unfolded-protein
+response (UPR), using both transcriptional and translational pathways to correct 
+the problem. Recent work suggests that small-molecule inhibitors could be useful 
+to help rebalance protein synthesis with ERAF pathways through the ribosomal
+initiating factor eIF2alpha. Reprogramming stress pathways with drugs provides a 
+potential new approach for balancing ER-protein load with cellular-folding
+capacity, thus correcting disease.
+
+PMID: 16005683  [PubMed - indexed for MEDLINE]
+
+
+55. Cancer Res. 2004 Sep 1;64(17):6091-100.
+
+TEL2, an ETS factor expressed in human leukemia, regulates monocytic
+differentiation of U937 Cells and blocks the inhibitory effect of TEL1 on
+ras-induced cellular transformation.
+
+Kawagoe H(1), Potter M, Ellis J, Grosveld GC.
+
+Author information: 
+(1)Department of Genetics, St. Jude Children's Research Hospital, Memphis,
+Tennessee 38105, USA.
+
+TEL2 is a member of the ETS family of transcription factors, which is highly
+similar to TEL1/ETV6. It binds to DNA via the ETS domain and interacts with
+itself or TEL1 via the pointed domain. The expression of TEL2 in normal and
+leukemic hematopoietic cells suggests a role in hematopoietic development. In
+this article, we describe the role of TEL2 in hematopoietic differentiation and
+cellular transformation. Quantitative reverse transcription-PCR showed that the
+expression of TEL2 mRNA was down-regulated during monocytic differentiation of
+U937 and HL60 induced by 1,25-(OH)2 vitamin D3 and 12-O-tetradecanoylphorbol
+13-acetate, respectively. Overexpression of TEL2 in U937 cells inhibited
+differentiation induced by vitamin D3. In contrast, overexpression of a TEL2
+mutant lacking either the pointed domain or a functional ETS domain induced both 
+differentiation of U937 cells and inhibited their growth in vitro and in vivo. In
+addition, these mutants blocked TEL2-mediated transcriptional repression of a
+synthetic promoter containing TEL2 binding sites. These data suggest that
+dominant-negative inhibition of TEL2 might cause differentiation. Quantitative
+reverse transcription-PCR demonstrated that TEL2 is expressed at higher level in 
+some primary human leukemia samples than in normal bone marrow. Furthermore,
+overexpression of TEL2 in NIH3T3-UCLA cells blocked the inhibitory effect of TEL1
+on Ras-induced cellular transformation. These results suggest that TEL2 may play 
+an important role in hematopoiesis and oncogenesis.
+
+PMID: 15342392  [PubMed - indexed for MEDLINE]
+
+
+56. Exp Dermatol. 2004 Sep;13(9):529-34.
+
+Characterization of Ets-binding sequence of human transglutaminase 3 gene
+promoter.
+
+Kim CD(1), Seo EY, Sung YH, Kim HW, Seo YJ, Park JK, Lee JH.
+
+Author information: 
+(1)Department of Dermatology, School of Medicine, Chungnam National University,
+640 Daesa-dong, Daejeon, 301-040, South Korea.
+
+The Ets- and Sp1-transcription factors have been implicated in the epithelial
+specific expression of transglutaminase 3 gene (TGM3) in vitro. By
+electrophoretic mobility shift assay (EMSA), the core motif of Ets-binding
+sequence of TGM3 was determined as ACAGGAAT (-118 to -111 bp from transcriptional
+start site). However, a sequence extending from -120 to +10 of TGM3 proximal
+promoter region failed to induce the expression of CAT reporter in transfected
+normal human epidermal keratinocytes (NHEKs). In contrast, a construct extending 
+from -126 to +10 bp showed the highest expression of CAT gene, indicating the
+presence of an important element(s) between -126 and -120 bp that affects TGM3
+expression in NHEKs. To find the critical sequences in this promoter region, we
+performed EMSA analysis with competitor oligonucleotides, in which the upstream
+nucleotides of Ets core motif were mutated. The results showed that the mutation 
+of A at -125 dramatically reduced the binding of Ets to its recognition sequence.
+Transient transfection assay revealed that the mutation in this nucleotide
+greatly diminished the expression of CAT reporter gene in NHEKs. Together, these 
+results suggest that the upstream sequence of Ets core motif is critical for the 
+expression of TGM3 in NHEKs cultured in vitro.
+
+PMID: 15335352  [PubMed - indexed for MEDLINE]
+
+
+57. Learn Mem. 2004 Jul-Aug;11(4):365-72. Epub 2004 Jul 14.
+
+Synaptic plasticity and translation initiation.
+
+Klann E(1), Antion MD, Banko JL, Hou L.
+
+Author information: 
+(1)Department of Molecular Physiology and Biophysics, Baylor College of Medicine,
+Houston, Texas 77030, USA. eklann@bcm.tmc.edu
+
+It is widely accepted that protein synthesis, including local protein synthesis
+at synapses, is required for several forms of synaptic plasticity. Local protein 
+synthesis enables synapses to control synaptic strength independent of the cell
+body via rapid protein production from pre-existing mRNA. Therefore, regulation
+of translation initiation is likely to be intimately involved in modulating
+synaptic strength. Our understanding of the translation-initiation process has
+expanded greatly in recent years. In this review, we discuss various aspects of
+translation initiation, as well as signaling pathways that might be involved in
+coupling neurotransmitter and neurotrophin receptors to the translation machinery
+during various forms of synaptic plasticity.
+
+PMID: 15254214  [PubMed - indexed for MEDLINE]
+
+
+58. Exp Cell Res. 2004 May 1;295(2):448-59.
+
+Identification of the protein Zibra, its genomic organization, regulation, and
+expression in breast cancer cells.
+
+Thompson HG(1), Harris JW, Lin L, Brody JP.
+
+Author information: 
+(1)Department of Biomedical Engineering, University of California-Irvine, Irvine,
+CA 92697-2715, USA.
+
+The mRNA that encodes zibra (zinc, in-between-ring finger, ubiquitin-associated
+domain), previously known as hypothetical protein FLJ10111, or RNF31 is expressed
+in several distinct cancers. Little is known about the genomic organization,
+expression, or regulation of zibra. Using RNA ligase-mediated rapid amplification
+of cDNA ends (RLM-RACE), we cloned the full-length zibra cDNA from a transformed 
+breast cell line. We identified a novel exon, the 5' untranslated region
+including the +1 start site, and three alternatively spliced zibra transcripts.
+The zibra protein contains three zinc ring-finger motifs, an ubiquitin-associated
+domain, and an in-between-ring-finger domain, characteristic of ubiquitin
+ligases. We obtained an antibody to zibra and confirmed the presence of
+translated zibra protein for the first time. Promoter studies localized a core
+element responsible for basal activity to a 14-bp region in the 5' untranslated
+region. Although there are numerous consensus Ets factor binding sites in the
+zibra promoter, we found no affect on promoter activity from Ets-1, PDEF, or
+PEA-3/E1A-F. Treatment of cells with the proteasome inhibitor I (PSI) decreased
+zibra protein to an undetectable level after 8 h. Zibra remained undetectable
+even after 32 h, while mRNA levels remained essentially unchanged. In conclusion,
+zibra is a translationally regulated putative ubiquitin ligase that is frequently
+overexpressed in different forms of cancer.
+
+PMID: 15093743  [PubMed - indexed for MEDLINE]
+
+
+59. J Cell Biochem. 2004 Apr 1;91(5):896-903.
+
+Ets proteins in biological control and cancer.
+
+Hsu T(1), Trojanowska M, Watson DK.
+
+Author information: 
+(1)Department of Pathology and Laboratory Medicine, Hollings Cancer Center,
+Medical University of South Carolina, South Carolina, USA.
+
+The Ets family consists of a large number of evolutionarily conserved
+transcription factors, many of which have been implicated in tumor progression.
+Extensive studies on this family of proteins have focused so far mainly on the
+biochemical properties and cellular functions of individual factors. Since most
+of the Ets factors can bind to the core consensus DNA sequence GGAA/T in vitro,
+it has been a challenge to differentiate redundant from specific functions of
+various Ets proteins in vivo. Recent findings, however, suggest that such
+apparent redundancy may in fact be a central component of a network of
+differentially regulated specific Ets factors, resulting in distinct biological
+and pathological consequences. The programmed "Ets conversion" appears to play a 
+critical role during tumor progression, especially in control of cellular changes
+during epithelial-mesenchymal transition and metastasis. Coordination of multiple
+Ets gene functions also mediates interactions between tumor and stromal cells. As
+such, these new insights may provide a novel view of the Ets gene family as well 
+as a focal point for studying the complex biological control involved in tumor
+progression.
+
+Copyright 2004 Wiley-Liss, Inc.
+
+PMCID: PMC2265084
+PMID: 15034925  [PubMed - indexed for MEDLINE]
+
+
+60. Neurosci Lett. 2004 Mar 11;357(3):191-4.
+
+Phosphorylation of translation initiation factor eIF2alpha in the brain during
+pilocarpine-induced status epilepticus in mice.
+
+Carnevalli LS(1), Pereira CM, Longo BM, Jaqueta CB, Avedissian M, Mello LE,
+Castilho BA.
+
+Author information: 
+(1)Departamento de Microbiologia, Imunologia e Parasitologia, Escola Paulista de 
+Medicina, Universidade Federal de São Paulo, Rua Botucatu 862, 5 andar, São
+Paulo, SP 04023-062, Brazil.
+
+In this work, we show extensive phosphorylation of the alpha subunit of
+translation initiation factor 2 (eIF2alpha) occurring in the brain of mice
+subjected to 30 min of status epilepticus induced by pilocarpine. eIF2alpha(P)
+immunoreactivity was detected in the hippocampal pyramidal layer CA1 and CA3,
+cortex layer V, thalamus and amygdala. After 2 h of recovery, there was a marked 
+decrease in total brain eIF2alpha(P), with the cortex layer V showing the most
+pronounced loss of anti-eIF2alpha(P) labeling, whereas the CA1 subregion had a
+significant increase in eIF2alpha(P). These results indicate that inhibition of
+protein synthesis in experimental models of epilepsy might be due to low levels
+of eIF2-GTP caused by the phosphorylation of eIF2alpha, and suggest that
+translational control may contribute to cell fate in the affected areas.
+
+PMID: 15003282  [PubMed - indexed for MEDLINE]
+
+
+61. J Biol Chem. 2004 May 7;279(19):19512-22. Epub 2004 Feb 17.
+
+Isoforms of the Ets transcription factor NERF/ELF-2 physically interact with AML1
+and mediate opposing effects on AML1-mediated transcription of the B
+cell-specific blk gene.
+
+Cho JY(1), Akbarali Y, Zerbini LF, Gu X, Boltax J, Wang Y, Oettgen P, Zhang DE,
+Libermann TA.
+
+Author information: 
+(1)BIDMC Genomics Center and the New England Baptist Bone and Joint Institute,
+Beth Israel Deaconess Medical Center, 4 Blackfan Circle, Boston, MA 02115, USA.
+
+We previously isolated different isoforms of a new Ets transcription factor
+family member, NERF/ELF-2, NERF-2, NERF-1a, and NERF-1b. In contrast to the
+inhibitory isoforms NERF-1a and NERF-1b, NERF-2 acts as a transactivator of the B
+cell-specific blk promoter. We now report that NERF-2 and NERF-1 physically
+interact with AML1 (RUNX1), a frequent target for chromosomal translocations in
+leukemia. NERF-2 bound to AML1 via an interaction site located in a basic region 
+upstream of the Ets domain. This is in contrast to most other Ets factors such as
+Ets-1 that bind to AML1 via the Ets domain, suggesting that different Ets factors
+utilize different domains for interaction with AML1. The interaction between AML1
+and NERF-2 led to cooperative transactivation of the blk promoter, whereas the
+interaction between AML1 and NERF-1a led to repression of AML1-mediated
+transactivation. To delineate the differences in function of the different NERF
+isoforms, we determined that the transactivation domain of NERF-2 is encoded by
+the N-terminal 100 amino acids, which have been replaced in NERF-1a by a 19-amino
+acid transcriptionally inactive sequence. Furthermore, acidic domains A and B,
+which are conserved in NERF-2 and the related proteins ELF-1 and MEF/ELF-4, but
+not in NERF-1a, are largely responsible for NERF-2-mediated transactivation.
+Because translocation of the Ets factor Tel to AML1 is a frequent event in
+childhood pre-B leukemia, understanding the interaction of Ets factors with AML1 
+in the context of a B cell-specific promoter might help to determine the function
+of Ets factors and AML1 in leukemia.
+
+PMID: 14970218  [PubMed - indexed for MEDLINE]
+
+
+62. J Biol Chem. 2004 Mar 19;279(12):11281-92. Epub 2003 Dec 8.
+
+Changes in the expression of many Ets family transcription factors and of
+potential target genes in normal mammary tissue and tumors.
+
+Galang CK(1), Muller WJ, Foos G, Oshima RG, Hauser CA.
+
+Author information: 
+(1)Oncodevelopmental Biology Program, The Burnham Institute, La Jolla, California
+92037, USA.
+
+Interfering with Ets transcription factor function reverses multiple aspects of
+the transformed phenotype of mouse or human tumor cells. However, the unknown
+number of individual Ets factors expressed in any cellular context and the
+similar DNA binding specificities of Ets family members complicates the
+identification of those that mediate transformation. By utilizing quantitative
+PCR assays for 25 mouse Ets factors, we analyzed the expression of essentially
+the entire Ets family in normal mammary tissue, mammary-related cell lines, and
+mammary tumors. In normal mammary tissue, 24 Ets factors were expressed. Even
+clonal derived cell lines expressed 14-20 Ets members. The most abundant Ets
+factor mRNAs measured in normal mammary tissue were Elk4, Elf1, and Ets2.
+Subtractive analysis of mammary tissue identified which Ets factors were
+predominantly expressed in the myeloid/lymphoid or epithelial cell compartments. 
+Comparison of Ets factor expression in normal mammary tissue and mammary tumors
+identified significantly elevated expression of Pse/PDEF, Ese2/Elf5, Ese3/Ehf,
+TEL/Etv6, and Elf2/NERF in mammary tumors and confirmed previously reported
+alterations in expression of Ese1/Elf3 and the PEA3 subfamily. Expression of 13
+Ets target genes, implicated in various aspects of tumor progression, was also
+analyzed. Altered expression of particular Ets target genes was significantly
+correlated with particular Ets factors (e.g. maspin and Ese2), suggesting
+specific in vivo regulatory roles. Together, this comprehensive analysis revealed
+unexpectedly diverse Ets family gene expression, characterized novel Ets factor
+changes in mammary tumors, and implicated specific Ets factors in the regulation 
+of multiple genes involved in mammary tumor progression.
+
+PMID: 14662758  [PubMed - indexed for MEDLINE]
+
+
+63. J Virol. 2003 May;77(9):5507-11.
+
+Activation of PKR by Bunyamwera virus is independent of the viral interferon
+antagonist NSs.
+
+Streitenfeld H(1), Boyd A, Fazakerley JK, Bridgen A, Elliott RM, Weber F.
+
+Author information: 
+(1)Abteilung Virologie, Institut für Medizinische Mikrobiologie und Hygiene,
+Universität Freiburg, Germany.
+
+Double-stranded RNA (dsRNA) is a by-product of viral RNA polymerase activity, and
+its recognition is one mechanism by which the innate immune system is activated. 
+Cellular responses to dsRNA include induction of alpha/beta interferon (IFN)
+synthesis and activation of the enzyme PKR, which exerts its antiviral effect by 
+phosphorylating the eukaryotic initiation factor eIF-2 alpha, thereby inhibiting 
+translation. We have recently identified the nonstructural protein NSs of
+Bunyamwera virus (BUNV), the prototype of the family Bunyaviridae, as a virulence
+factor that blocks the induction of IFN by dsRNA. Here, we investigated the
+potential of NSs to inhibit PKR. We show that wild-type (wt) BUNV that expresses 
+NSs triggered PKR-dependent phosphorylation of eIF-2 alpha to levels similar to
+those of a recombinant virus that does not express NSs (BUNdelNSs virus).
+Furthermore, the sensitivity of viruses in cell culture to IFN was independent of
+PKR and was not determined by NSs. PKR knockout mice, however, succumbed to
+infection approximately 1 day earlier than wt mice or mice deficient in
+expression of RNase L, another dsRNA-activated antiviral enzyme. Our data
+indicate that (i) bunyaviruses activate PKR, but are only marginally sensitive to
+its antiviral effect, and (ii) NSs is different from other IFN antagonists, since
+it inhibits dsRNA-dependent IFN induction but has no effect on the
+dsRNA-activated PKR and RNase L systems.
+
+PMCID: PMC153953
+PMID: 12692253  [PubMed - indexed for MEDLINE]
+
+
+64. Leuk Res. 2003 May;27(5):387-92.
+
+The level of MEF but not ELF-1 correlates with FAB subtype of acute myeloid
+leukemia and is low in good prognosis cases.
+
+Fukushima T(1), Miyazaki Y, Tsushima H, Tsutsumi C, Taguchi J, Yoshida S,
+Kuriyama K, Scadden D, Nimer S, Tomonaga M.
+
+Author information: 
+(1)Department of Hematology and Molecular Medicine Unit, Atomic Bomb Disease
+Institute, Nagasaki University School of Medicine, Nagasaki, Japan.
+
+ETS proteins (such as PU.1, Fli-1 and ETS-1) have been shown to play important
+roles in normal and abnormal hematopoiesis. We examined the expression of the ELF
+subfamily of ETS genes (ELF-1, MEF and NERF) in acute myeloid leukemia (AML)
+cells using Northern blot analysis. ELF-1 and MEF were expressed in all samples, 
+whereas NERF was not. The relative expression (RE) of MEF, but not ELF-1, was
+significantly lower (P<0.0001) in AML with t(8;21) and t(15;17) compared with AML
+with normal karyotype. The pattern of MEF expression was not uniform among cells 
+with CD34(+)/CD33(+). It is suggested that the low RE of MEF might be part of a
+gene expression profile characterizing AML with a good prognosis.
+
+PMID: 12620289  [PubMed - indexed for MEDLINE]
+
+
+65. Arterioscler Thromb Vasc Biol. 2002 Jul 1;22(7):1106-12.
+
+Opposing functions of the Ets factors NERF and ELF-1 during chicken blood vessel 
+development.
+
+Gaspar J(1), Thai S, Voland C, Dube A, Libermann TA, Iruela-Arispe ML, Oettgen P.
+
+Author information: 
+(1)Cardiology Division, New England Baptist Bone and Joint Institute, Beth Israel
+Deaconess Medical Center and Harvard Medical School, Boston, Mass, USA.
+
+OBJECTIVE: The purpose of this study was to evaluate the role of the Ets factor
+NERF in the regulation of the Tie1 and Tie2 genes during chicken blood vessel
+development.
+METHODS AND RESULTS: We have isolated the full-length cDNA for the chicken
+homologue of the human Ets factor NERF2 (cNERF2). Northern blot analysis and in
+situ hybridization demonstrate that cNERF2 is enriched in the developing blood
+vessels of the chicken chorioallantoic membrane. Interestingly, cNERF2 functions 
+as a competitive inhibitor of a highly related Ets factor cELF-1, which we have
+previously shown to be enriched in chicken blood vessel development. Although in 
+vitro-translated cELF-1 and cNERF2 can bind equally well to conserved Ets binding
+sites in the promoters of the Tie1 and Tie2 genes, cELF-1 preferentially binds to
+the Ets sites in these promoters during early stages of chicken blood vessel
+development, suggesting that cNERF may bind during later stages of blood vessel
+development and vascular remodeling.
+CONCLUSIONS: cNERF2 is enriched during embryonic and extraembryonic blood vessel 
+development in the chicken and facilitates tight control of Tie1 and Tie2 gene
+regulation.
+
+PMID: 12117724  [PubMed - indexed for MEDLINE]
+
+
+66. RNA. 2002 Mar;8(3):382-97.
+
+Development and characterization of a reconstituted yeast translation initiation 
+system.
+
+Algire MA(1), Maag D, Savio P, Acker MG, Tarun SZ Jr, Sachs AB, Asano K, Nielsen 
+KH, Olsen DS, Phan L, Hinnebusch AG, Lorsch JR.
+
+Author information: 
+(1)Department of Biophysics and Biophysical Chemistry, Johns Hopkins University
+School of Medicine, Baltimore, Maryland 21205-2185, USA.
+
+To provide a bridge between in vivo and in vitro studies of eukaryotic
+translation initiation, we have developed a reconstituted translation initiation 
+system using components from the yeast Saccharomyces cerevisiae. We have purified
+a minimal set of initiation factors (elFs) that, together with yeast 80S
+ribosomes, GTP, and initiator methionyl-tRNA, are sufficient to assemble active
+initiation complexes on a minimal mRNA template. The kinetics of various steps in
+the pathway of initiation complex assembly and the formation of the first peptide
+bond in vitro have been explored. The formation of active initiation complexes in
+this system is dependent on ribosomes, mRNA, Met-tRNAi, GTP hydrolysis, elF1,
+elF1A, elF2, elF5, and elF5B. Our data indicate that elF1 and elF1A both
+facilitate the binding of the elF2 x GTP x Met-tRNAi complex to the 40S ribosomal
+subunit to form the 43S complex. elF5 stimulates a step after 43S complex
+formation, consistent with its proposed role in activating GTP hydrolysis by elF2
+upon initiation codon recognition. The presence of elF5B is required for the
+joining of the 40S and 60S subunits to form the 80S initiation complex. The step 
+at which each of these factors acts in this reconstituted system is in agreement 
+with previous data from in vivo studies and work using reconstituted mammalian
+systems, indicating that the system recapitulates fundamental events in
+translation initiation in eukaryotic cells. This system should allow us to couple
+powerful yeast genetic and molecular biological experiments with in vitro kinetic
+and biophysical experiments, yielding a better understanding of the molecular
+mechanics of this central, complex process.
+
+PMCID: PMC1370259
+PMID: 12008673  [PubMed - indexed for MEDLINE]
+
+
+67. J Cell Biochem. 2002;85(3):505-15.
+
+NERF2, a member of the Ets family of transcription factors, is increased in
+response to hypoxia and angiopoietin-1: a potential mechanism for Tie2 regulation
+during hypoxia.
+
+Christensen RA(1), Fujikawa K, Madore R, Oettgen P, Varticovski L.
+
+Author information: 
+(1)Division of Cardiovascular Research, St. Elizabeth's Medical Center, Boston,
+Massachusetts, USA.
+
+Vascular endothelial growth factor (VEGF) and angiopoietins regulate endothelial 
+cell survival and migration and are essential for angiogenesis. Considerable
+progress has been made towards understanding hypoxia-mediated regulation of VEGF 
+and its receptors. In contrast, little is known about the regulation of
+angiopoietins and their receptors in hypoxic cells. Using RT-PCR, RNAase
+protection assay, and Western blotting, we found that Tie1 and Tie2 mRNA and
+protein levels increased in response to hypoxia in human umbilical vein
+endothelial cells. Previously, we have shown that NERF2, a member of Ets family
+of transcription factors that is specifically expressed in endothelial cells,
+binds to the promoter region of Tie2 and transactivates Tie2 expression. In this 
+study, we show that expression of NERF2 was increased under hypoxia and that this
+increase temporally correlated with the increase in Tie2 expression.
+Hypoxia-induced expression of NERF2 and Tie2 was blocked by angiopoietin-2, a
+competitive inhibitor of angiopoietin-1, and by recombinant soluble extracellular
+domain of Tie2 but not by VEGF-neutralizing antibodies. In addition,
+angiopoietin-1 directly induced expression of NERF2 in quiescent cells. These
+novel findings suggest that angiopoietin-1 regulates expression of NERF2 and its 
+own receptor in hypoxic cells.
+
+Copyright 2002 Wiley-Liss, Inc.
+
+PMID: 11967990  [PubMed - indexed for MEDLINE]
+
+
+68. Circ Res. 2001 Feb 2;88(2):237-44.
+
+Elf-1 is a transcriptional regulator of the Tie2 gene during vascular
+development.
+
+Dube A(1), Thai S, Gaspar J, Rudders S, Libermann TA, Iruela-Arispe L, Oettgen P.
+
+Author information: 
+(1)Cardiology Division, Beth Israel Deaconess Medical Center and Harvard Medical 
+School, Boston, MA, USA.
+
+Comment in
+    Circ Res. 2001 Feb 2;88(2):127-8.
+
+Vascular development requires the tightly coordinated expression of several
+growth factors and their receptors. Among these are the Tie1 and Tie2 receptors, 
+which are almost exclusively endothelial cell-specific. The critical
+transcriptional regulators of vascular-specific gene expression remain largely
+unknown. The Ets factors are a family of evolutionarily conserved transcription
+factors that regulate genes involved in cellular growth and differentiation. We
+have recently shown that the Ets factor NERF is a strong transactivator of the
+Tie1 and Tie2 genes. To extend these studies, we have begun to identify the Ets
+factors that are expressed in developing blood vessels of the chicken
+chorioallantoic membrane (CAM), a highly vascular embryonic network. RNA was
+extracted from microdissected CAM blood vessels, and reverse
+transcriptase-polymerase chain reaction was performed using oligonucleotides
+encoding conserved amino acids within the Ets domain. One of the polymerase chain
+reaction fragments was subcloned and identified as the chicken homologue of the
+Ets factor ELF-1, cELF-1. ELF-1 is most closely related to the Ets factor NERF.
+In situ hybridization and immunohistochemistry demonstrate that cELF-1 is
+enriched in developing chicken blood vessels. cELF-1 is also a strong
+transactivator of the Tie1 and Tie2 genes and can bind to conserved Ets sites
+within the promoters of these genes. A complex of similar size forms when gel
+shifts are performed with cellular extracts derived from the CAM blood vessels,
+which is recognized by an antibody against cELF-1. In summary, ELF-1 belongs to a
+subset of Ets factors that regulate vascular-specific gene expression during
+blood vessel development.
+
+PMID: 11157678  [PubMed - indexed for MEDLINE]
+
+
+69. Mol Cell. 2000 Aug;6(2):269-79.
+
+Uncharged tRNA activates GCN2 by displacing the protein kinase moiety from a
+bipartite tRNA-binding domain.
+
+Dong J(1), Qiu H, Garcia-Barrio M, Anderson J, Hinnebusch AG.
+
+Author information: 
+(1)Laboratory of Eukaryotic Gene Regulation, National Institute of Child Health
+and Human Development, Bethesda, Maryland 20892, USA.
+
+Protein kinase GCN2 regulates translation in amino acid-starved cells by
+phosphorylating elF2. GCN2 contains a regulatory domain related to histidyl-tRNA 
+synthetase (HisRS) postulated to bind multiple deacylated tRNAs as a general
+sensor of starvation. In accordance with this model, GCN2 bound several
+deacylated tRNAs with similar affinities, and aminoacylation of tRNAphe weakened 
+its interaction with GCN2. Unexpectedly, the C-terminal ribosome binding segment 
+of GCN2 (C-term) was required in addition to the HisRS domain for strong tRNA
+binding. A combined HisRS+ C-term segment bound to the isolated protein kinase
+(PK) domain in vitro, and tRNA impeded this interaction. An activating mutation
+(GCN2c-E803V) that weakens PK-C-term association greatly enhanced tRNA binding by
+GCN2. These results provide strong evidence that tRNA stimulates the GCN2 kinase 
+moiety by preventing an inhibitory interaction with the bipartite tRNA binding
+domain.
+
+PMID: 10983975  [PubMed - indexed for MEDLINE]
+
+
+70. Plant Cell Physiol. 1999 Jul;40(7):702-8.
+
+Late-flowering genes interact with early-flowering genes to regulate flowering
+time in Arabidopsis thaliana.
+
+Chou ML(1), Yang CH.
+
+Author information: 
+(1)Graduate Institute of Agricultural Biotechnology, National Chung Hsing
+University, Taichung, Taiwan, ROC.
+
+To investigate the genetic mechanisms regulating the transition from the
+vegetative to reproductive growth in Arabidopsis, double mutants between three
+different early-flowering mutants, early flowering 1-1, 2-1, 3-1, (elf 1-1, 2-1, 
+3-1) and five different late-flowering mutants, gi-1, ft-1, fwa-1, ld-1, and
+fca-9, were constructed and phenotypes analyzed. Double mutants in all
+combinations displayed the late-flowering phenotypes which resembled their
+respective late-flowering parents in both flowering time and the number of
+vegetative leaves produced. The results indicate that five late-flowering mutants
+are epistatic to all three early-flowering mutants tested here. This epistatic
+relationship suggests that ELF1, ELF2, and ELF3 genes function upstream of these 
+five late-flowering genes no matter if they are functioning in autonomous or
+photoperiod pathways. These three early-flowering genes may negatively modify the
+activity of most late-flowering genes to influence the time of the
+vegetative-to-reproductive transition in Arabidopsis.
+
+PMID: 10501030  [PubMed - indexed for MEDLINE]
+
+
+71. J Biol Chem. 1999 Jun 4;274(23):16126-34.
+
+A potential role for Elf-1 in CD4 promoter function.
+
+Sarafova S(1), Siu G.
+
+Author information: 
+(1)Integrated Program in Cellular, Molecular, and Biophysical Studies, Columbia
+University, College of Physicians and Surgeons, New York, New York 10032, USA.
+
+The control of CD4 gene expression is believed to be linked directly to the
+signaling events that mediate T cell development and is directly dependent on the
+CD4 promoter. We have previously determined that this promoter contains four
+factor-binding sites important for its function. One of these sites, referred to 
+as the P4 site, contains an Ets consensus recognition sequence. Using functional 
+and biochemical analyses, we determine that Elf-1 binds to this site and
+specifically activates the CD4 promoter, indicating that Elf-1 is playing an
+important role in CD4 promoter function. In addition, a second nuclear factor
+binds to this region. Although there are consensus recognition sites for other
+factors, we demonstrate that none of these factors binds to the P4 site, nor do
+other known members of the Ets family. Thus, a novel transcription factor may
+bind to the CD4 promoter and help mediate its function.
+
+PMID: 10347164  [PubMed - indexed for MEDLINE]
+
+
+72. Circ Res. 1999 May 28;84(10):1177-85.
+
+Role of the Ets transcription factors in the regulation of the vascular-specific 
+Tie2 gene.
+
+Dube A(1), Akbarali Y, Sato TN, Libermann TA, Oettgen P.
+
+Author information: 
+(1)New England Baptist Bone and Joint Institute, Beth Israel Deaconess Medical
+Center, Boston, MA, USA.
+
+Comment in
+    Circ Res. 1999 May 28;84(10):1234-5.
+
+The Tie2 gene encodes a vascular endothelium-specific receptor tyrosine kinase
+that is required for normal vascular development and is also upregulated during
+angiogenesis. The regulatory regions of the Tie2 gene that are required for
+endothelium-specific gene expression in vivo have been identified. However, the
+transcription factors required for Tie2 gene expression remain largely unknown.
+We have identified highly conserved binding sites for Ets transcription factors
+in the Tie2 promoter. Mutations in 2 particular binding sites lead to a 50%
+reduction in the endothelium-specific activity of the promoter. We have compared 
+the ability of several members of the Ets family to transactivate the Tie2
+promoter. Our results demonstrate that 1 of 3 distinct isoforms of the novel Ets 
+transcription factor NERF, NERF2, is expressed in endothelial cells and can
+strongly transactivate the regulatory regions of the Tie2 gene in comparison to
+other Ets factors, which have little or no effect. NERF2 can bind to the Tie2
+promoter Ets sites in electrophoretic mobility shift assays. These studies
+support a role for Ets factors in the regulation of vascular-specific gene
+expression and suggest that the novel Ets factor NERF2 may be a critical
+transcription factor in specifying the expression of the Tie2 gene in vascular
+endothelial cells.
+
+PMID: 10347092  [PubMed - indexed for MEDLINE]
+
+
+73. Shock. 1999 Apr;11(4):235-41.
+
+Mechanism of IL-1 induced inhibition of protein synthesis in skeletal muscle.
+
+Cooney RN(1), Maish GO 3rd, Gilpin T, Shumate ML, Lang CH, Vary TC.
+
+Author information: 
+(1)Department of Surgery, Pennsylvania State University, College of Medicine,
+Hershey 17033, USA.
+
+Chronic interleukin (IL)-1 administration is associated with negative nitrogen
+balance and the loss of lean body mass. To elucidate the molecular mechanism(s)
+by which IL-1 modulates protein metabolism in muscle, we investigated the effects
+of chronic (6 day) IL-1alpha infusion on protein synthesis in Individual muscles 
+(gastrocnemius, soleus, heart) compared with saline-infused control rats. IL-1
+significantly decreased muscle weight, protein content, and the rate of protein
+synthesis in gastrocnemius (fast-twitch muscle). IL-1 had no effect on these
+parameters in the heart, whereas only the rate of protein synthesis was reduced
+in soleus (slow-twitch muscle). The reduction in gastrocnemius protein synthesis 
+was not the result of a decrease in total RNA content, but was associated with a 
+diminished translational efficiency. The diminished translational efficiency
+correlated with a 40% reduction in the epsilon-subunit of eukaryotic initiation
+factor 2B (elF2Bepsilon) in gastrocnemius from IL-1 -treated animals. However,
+the content of the alpha-subunit of elF2 (elF2alpha) was unaffected. In contrast,
+the elF2alpha content in heart was increased by IL-1, although elF2Bepsilon
+levels were unchanged. Reductions in skeletal muscle protein synthesis were not
+associated with a concomitant reduction in circulating or tissue content of
+insulin-like growth factor I. In summary, the IL-1-induced decrease in
+gastrocnemius protein synthesis appears to be regulated at the level of RNA
+translation via a reduction in elF2Bepsilon. These findings support a regulatory 
+role for IL-1 as a mediator of muscle protein synthesis and the alterations in
+body composition observed in catabolic states where this cytokine is
+overexpressed.
+
+PMID: 10220298  [PubMed - indexed for MEDLINE]
+
+
+74. Plant J. 1998 Jul;15(2):231-42.
+
+FLD interacts with genes that affect different developmental phase transitions to
+regulate Arabidopsis shoot development.
+
+Chou ML(1), Yang CH.
+
+Author information: 
+(1)Graduate Institute of Agricultural Biotechnology, National Chung Hsing
+University, Taichung, Taiwan, R.O.C.
+
+A new fld mutant allele, fld-2, which significantly delayed flowering, was
+isolated and characterized in Arabidopsis thaliana. Even under long-day
+conditions after more than 100 days in the greenhouse, the majority of fld-2
+mutant plants had not bolted. In addition, mutant inflorescences produced more
+than 10 co-florescences that were subtended by a high number of rosette-like
+leaves before giving rise to flowers. The late-flowering phenotype of the fld-2
+mutation could be partially overcome by both vernalization and GA treatment but
+it was not influenced by 5-azaC treatment. Phenotypic analyses of double mutants 
+indicated that fld-2 is epistatic to early flowering mutants elf1, elf2 and elf3.
+In addition, fld-2 could enhance vegetative characteristics in embryonic flower 1
+(emf1) mutants by causing many small sessile leaves in fld-2 emf1 double mutants.
+The relief of the terminal flower 1 (tfl1) mutant phenotype in fld-2 tfl1 double 
+mutants, and the enhancement of leafy (lfy) and apetala1 (ap1) mutant phenotypes 
+in fld-2 lfy and fld-2 ap1 double mutants, suggest that FLD is also likely to be 
+involved in the floral transition. Our results strongly suggest that the FLD gene
+plays a key role in regulating the reproductive competence of the shoot and
+results in different developmental phase transitions in Arabidopsis.
+
+PMID: 9721681  [PubMed - indexed for MEDLINE]
+
+
+75. Plant Mol Biol. 1998 Aug;37(6):897-910.
+
+Eucalyptus has a functional equivalent of the Arabidopsis floral meristem
+identity gene LEAFY.
+
+Southerton SG(1), Strauss SH, Olive MR, Harcourt RL, Decroocq V, Zhu X, Llewellyn
+DJ, Peacock WJ, Dennis ES.
+
+Author information: 
+(1)CSIRO Plant Industry, Canberra, ACT, Australia.
+
+Two genes cloned from Eucalyptus globulus, Eucalyptus LeaFy (ELF1 and ELF2), have
+sequence homology to the floral meristem identity genes LEAFY from Arabidopsis
+and FLORICAULA from Antirrhinum. ELF1 is expressed in the developing eucalypt
+floral organs in a pattern similar to LEAFY while ELF2 appears to be a pseudo
+gene. ELF1 is expressed strongly in the early floral primordium and then
+successively in the primordia of sepals, petals, stamens and carpels. It is also 
+expressed in the leaf primordia and young leaves and adult and juvenile trees.
+The ELF1 promoter coupled to a GUS reporter gene directs expression in transgenic
+Arabidopsis in a temporal and tissue-specific pattern similar to an equivalent
+Arabidopsis LEAFY promoter construct. Strong expression is seen in young flower
+buds and then later in sepals and petals. No expression was seen in rosette
+leaves or roots of flowering plants or in any non-flowering plants grown under
+long days. Furthermore, ectopic expression of the ELF1 gene in transgenic
+Arabidopsis causes the premature conversion of shoots into flowers, as does an
+equivalent 35S-LFY construct. These data suggest that ELF1 plays a similar role
+to LFY in flower development and that the basic mechanisms involved in flower
+initiation and development in Eucalyptus are similar to those in Arabidopsis.
+
+PMID: 9700063  [PubMed - indexed for MEDLINE]
+
+
+76. Methods. 1997 Apr;11(4):403-17.
+
+Using GCN4 as a reporter of eIF2 alpha phosphorylation and translational
+regulation in yeast.
+
+Dever TE(1).
+
+Author information: 
+(1)Laboratory of Eukaryotic Gene Regulation, National Institute of Child Health
+and Human Development, National Institutes of Health, Bethesda, Maryland 20892,
+USA.
+
+Molecular genetic analyses in yeast are a powerful method to study gene
+regulation. Conservation of the mechanism and regulation of protein synthesis
+between yeast and mammalian cells makes yeast a good model system for the
+analysis of translation. One of the most common mechanisms of translational
+regulation in mammalian cells is the phosphorylation of serine-51 on the alpha
+subunit of the translation initiation factor elF2, which causes an inhibition of 
+general translation. In contrast, in the yeast Saccharomyces cerevisiae
+phosphorylation of elF2 alpha on serine-51 by the GCN2 protein kinase mediates
+the translational induction of GCN4 expression. The unique structure of the GCN4 
+mRNA makes GCN4 expression especially sensitive to elF2 alpha phosphorylation,
+and the simple microbiological tests developed in yeast to analyze GCN4
+expression serve as good reporters of elF2 alpha phosphorylation. It is
+relatively simple to express heterologous proteins in yeast, and it has been
+shown that the mammalian elF2 alpha kinases will functionally substitute for
+GCN2. Structure-function analyses of translation factors or translational
+regulators can also be performed by assaying for effects on general and
+GCN4-specific translation. Three tests can be used to study elF2 alpha
+phosphorylation and/or translational activity in yeast. First, general
+translation can be monitored by simple growth tests, while GCN4 expression can be
+analyzed using sensitive replicaplating tests. Second, GCN4 translation can be
+quantitated by measuring expression from GCN4-lacZ reporter constructs. Finally, 
+isoelectric focusing gels can be used to directly monitor in vivo phosphorylation
+of elF2 alpha in yeast.
+
+PMID: 9126554  [PubMed - indexed for MEDLINE]
+
+
+77. RNA. 1997 Apr;3(4):438-48.
+
+Surprising specificity of PKR binding to delta agent genomic RNA.
+
+Circle DA(1), Neel OD, Robertson HD, Clarke PA, Mathews MB.
+
+Author information: 
+(1)Program in Biochemistry and Structural Biology, Cornell University Medical
+College, New York 10021, USA.
+
+A direct, ribonuclease T1 protection assay was employed to study the binding of a
+delta agent genomic RNA transcript containing the conserved domain to the
+double-stranded RNA- (dsRNA-) dependent protein kinase of mammalian cells, PKR
+(also known as DAI, p1-elF2, or p68 kinase). In a control reaction, this assay
+identified a major portion of the same PKR binding site in VA RNA as deduced
+previously using a footprinting technique (Clarke PA, Mathews MB, 1995, RNA
+1:1-20). Although delta agent RNA contains extensive secondary structure
+throughout the conserved region, we found a remarkable specificity in its PKR
+binding. The same region was protected by intact PKR and by a 184-amino acid
+fragment thereof containing the two RNA-binding motifs (dsRBMs) but lacking
+kinase activity. Two specific opposed, continuous segments of delta agent RNA
+(extending about 65-70 bases) were obtained reproducibly. Each is more than twice
+as long as those protected in VA RNA (about 25 bases), suggesting the involvement
+of PKR dimers in delta RNA binding. The PKR-protected region of delta agent RNA
+also contains a characteristic tertiary structural element that may be involved
+in binding specificity.
+
+PMCID: PMC1369495
+PMID: 9085850  [PubMed - indexed for MEDLINE]
+
+
+78. Leukemia. 1997 Jan;11(1):86-96.
+
+Elf-2, a rhombotin-2 binding ets transcription factor: discovery and potential
+role in T cell leukemia.
+
+Wilkinson DA(1), Neale GA, Mao S, Naeve CW, Goorha RM.
+
+Author information: 
+(1)Department of Virology and Molecular Biology, St Jude Children's Research
+Hospital, University of Tennessee, Memphis 38101, USA.
+
+Rhombotin-2 (RBTN-2) is a proto-oncogene only in the context of T lymphocytes. We
+postulated that the oncogenic effect of RBTN-2 in T cells is likely mediated by
+binding protein(s) with T cell-specific expression. By screening a T cell cDNA
+library, we identified a novel ets transcription factor that binds RBTN-2. This
+protein was named elf-2 because its DNA-binding domain is virtually identical to 
+that of ets family member elf-1. Northern analyses showed similar levels of two
+elf-2 transcripts (3.5 kb and 3.8 kb) in all tissues except thymus. Thymocytes
+expressed four- to 10-fold greater amounts of the 3.5 kb transcript than other
+tissues. Sequence analyses of cDNA clones indicated that these transcripts encode
+proteins differing only at their amino termini, and likely represent
+alternatively spliced isoforms. These isoforms (elf-2a and elf-2b) contain
+identical RBTN-2 binding regions and DNA-binding domains. Elf-2b lacks a putative
+transactivation domain. The expression patterns suggest that RBTN-2 normally
+interacts equally with elf-2a and elf-2b. In contrast, when RBTN-2 is
+inappropriately expressed in T cells, RBTN-2 would interact predominantly with
+elf-2b; this interaction may lead to T cell proliferation.
+
+PMID: 9001422  [PubMed - indexed for MEDLINE]
+
+
+79. Mol Cell Biol. 1996 Sep;16(9):5091-106.
+
+Characterization of NERF, a novel transcription factor related to the Ets factor 
+ELF-1.
+
+Oettgen P(1), Akbarali Y, Boltax J, Best J, Kunsch C, Libermann TA.
+
+Author information: 
+(1)Department of Medicine, Beth Israel Hospital, Boston, Massachusetts 02215,
+USA.
+
+We have cloned the gene for a novel Ets-related transcription factor, new
+Ets-related factor (NERF), from human spleen, fetal liver, and brain. Comparison 
+of the deduced amino acid sequence of NERF with those of other members of the Ets
+family reveals that the level of homology to ELF-1, which is involved in the
+regulation of several T- and B-cell-specific genes, is highest. Homologies are
+clustered in the putative DNA binding domain in the middle of the protein, a
+basic domain just upstream of this domain, and several shorter stretches of
+homology towards the amino terminus. The presence of two predominant NERF
+transcripts in various fetal and adult human tissues is due to at least three
+alternative splice products, NERF-1a, NERF-1b, and NERF-2, which differ in their 
+amino termini and their expression in different tissues. Only NERF-2 and ELF-1,
+and not NERF-1a and NERF-1b, function as transcriptional activators of the lyn
+and blk gene promoters, although all isoforms of NERF bind with affinities
+similar to those of ELF-1 to a variety of Ets binding sites in, among others, the
+blk, lck, lyn, mb-1, and immunoglobulin H genes and are expressed at similar
+levels. Since NERF and ELF-1 are coexpressed in B and T cells, both might be
+involved in the regulation of the same genes.
+
+PMCID: PMC231510
+PMID: 8756667  [PubMed - indexed for MEDLINE]
+
+
+80. Mol Cell Neurosci. 1996 Aug;8(2/3):199-209.
+
+Similarities and Differences in the Way Transmembrane-Type Ligands Interact with 
+the Elk Subclass of Eph Receptors
+
+Brambilla R(1), Br&uuml;ckner K, Orioli D, Bergemann AD, Flanagan JG, Klein R.
+
+Author information: 
+(1)European Molecular Biology Laboratory, Meyerhofstrasse 1, Heidelberg, 69117,
+Germany
+
+The Eph family of receptor tyrosine kinases and their cell surface bound ligands 
+have been implicated in a number of developmental processes, including axon
+pathfinding and fasciculation, as well as patterning in the central nervous
+system. To better understand the complex signaling events taking place, we have
+undertaken a comparative analysis of ligand-receptor interactions between a
+subset of ligands, those that are tethered to the cell surface via a
+transmembrane domain, and a subset of Eph receptors, the so-called Elk subclass. 
+Based on binding characteristics, receptor autophosphorylation, and cellular
+transformation assays, we find that the transmembrane-type ligands Lerk2 and Elf2
+have common and specific receptors within the Elk subclass of receptors. The
+common receptors Cek10 and Elk bind and signal in response to Lerk2 and Elf2,
+whereas the Myk1 receptor is specific for Elf2. Elf2, however, fails to signal
+through Cek5 in a cellular transformation assay, suggesting that Lerk2 may be the
+preferred Cek5 ligand in vivo. A recently identified third transmembrane-type
+ligand, Elf3, specifically, but weakly, binds Cek10 and only induces focus
+formation when activated by C-terminal truncation. This suggests that the
+physiological Elf3 receptor may have yet to be identified. Knowledge regarding
+functional ligand-receptor interactions as presented in this study will be
+important for the design and interpretation of in vivo experiments, e.g.,
+loss-of-function studies in transgenic mice.
+
+PMID: 8954633  [PubMed - as supplied by publisher]
+
+
+81. Mol Cell Neurosci. 1996;8(2-3):199-209.
+
+Similarities and differences in the way transmembrane-type ligands interact with 
+the Elk subclass of Eph receptors.
+
+Brambilla R(1), Brückner K, Orioli D, Bergemann AD, Flanagan JG, Klein R.
+
+Author information: 
+(1)European Molecular Biology Laboratory, Heidelberg, Germany.
+
+The Eph family of receptor tyrosine kinases and their cell surface bound ligands 
+have been implicated in a number of developmental processes, including axon
+pathfinding and fasciculation, as well as patterning in the central nervous
+system. To better understand the complex signaling events taking place, we have
+undertaken a comparative analysis of ligand-receptor interactions between a
+subset of ligands, those that are tethered to the cell surface via a
+transmembrane domain, and a subset of Eph receptors, the so-called Elk subclass. 
+Based on binding characteristics, receptor autophosphorylation, and cellular
+transformation assays, we find that the transmembrane-type ligands Lerk2 and Elf2
+have common and specific receptors within the Elk subclass of receptors. The
+common receptors Cek10 and Elk bind and signal in response to Lerk2 and Elf2,
+whereas the Myk1 receptor is specific for Elf2. Elf2, however, fails to signal
+through Cek5 in a cellular transformation assay, suggesting that Lerk2 may be the
+preferred Cek5 ligand in vivo. A recently identified third transmembrane-type
+ligand, Elf3, specifically, but weakly, binds Cek10 and only induces focus
+formation when activated by C-terminal truncation. This suggests that the
+physiological Elf3 receptor may have yet to be identified. Knowledge regarding
+functional ligand-receptor interactions as presented in this study will be
+important for the design and interpretation of in vivo experiments, e.g.,
+loss-of-function studies in transgenic mice.
+
+PMID: 8918835  [PubMed - indexed for MEDLINE]
+
+
+82. Virology. 1995 Dec 20;214(2):653-9.
+
+Human PKR transfected into murine cells stimulates expression of genes under
+control of the HIV1 or HTLV-I LTR.
+
+Meurs EF(1), McMillan N, Williams BR, Hovanessian AG, Southern PJ.
+
+Author information: 
+(1)Department of Microbiology, University of Minnesota, Minneapolis 55455-0312,
+USA.
+
+Erratum in
+    Virology 1998 Jul 20;247(1):125.
+
+We have analyzed the effect of transfection into murine NIH/3T3 cells of the
+human dsRNA-activated kinase PKR on the expression of the beta-galactosidase
+reporter gene, placed under control of the HIV1 or the HTLV-I LTR.
+beta-Galactosidase expression is stimulated when the reporter plasmids are
+cotransfected with wild-type PKR but inhibited when cotransfected with a
+catalytically inactive mutant PKR. In the case of HIV1, beta-galactosidase
+expression was not stimulated when cotransfection was carried out with PKR
+harboring mutations in the dsRNA binding domains, indicating that stimulation
+depends on the classical mode of PKR activation through dsRNA binding. In
+contrast, the dsRNA binding mutants of PKR could still partially stimulate
+beta-galactosidase expression from the HTLV-I LTR, suggesting that PKR activation
+in this case may involve different/additional mechanisms. These results show
+that, in addition to the known down-regulation of protein synthesis through elF2 
+phosphorylation, PKR can also positively stimulate gene expression in vivo, most 
+probably through phosphorylation of a substrate distinct from elF2.
+
+PMID: 8553571  [PubMed - indexed for MEDLINE]
+
+
+83. Virology. 1995 Dec 1;214(1):222-8.
+
+Binding of the influenza virus NS1 protein to double-stranded RNA inhibits the
+activation of the protein kinase that phosphorylates the elF-2 translation
+initiation factor.
+
+Lu Y(1), Wambach M, Katze MG, Krug RM.
+
+Author information: 
+(1)Department of Molecular Biology and Biochemistry, Rutgers, State University of
+New Jersey, Piscataway 08855, USA.
+
+The NS1 protein of influenza A virus binds not only to poly(A) and a stem-bulge
+region in U6 small nuclear RNA (snRNA), but also to double-stranded (ds) RNA.
+Binding assays with NS1 protein mutants established that the previously
+identified RNA-binding domain of the NS1 protein is required for binding to ds
+RNA as well as for binding to poly(A) and U6 snRNA. In addition, dsRNA competed
+with U6 snRNA for binding to the NS1 protein, consistent with both RNAs sharing
+the same binding site on the protein. As a consequence of its binding to dsRNA,
+the NS1 protein blocks the activation of the dsRNA-activated protein kinase (PKR)
+in vitro. This kinase phosphorylates the alpha subunit of eukaryotic translation 
+initiation factor 2 (elF-2 alpha), leading to a decrease in the rate of
+initiation of translation. Assays using purified PKR and purified elF2
+demonstrated that the NS1 protein blocks the dsRNA activation of PKR, and
+experiments using reticulocyte extracts showed that the NS1 protein blocks the
+inhibition of translation caused by dsRNA activation of PKR. The implications of 
+these results for control mechanisms occurring in influenza virus-infected cells 
+are discussed.
+
+PMID: 8525619  [PubMed - indexed for MEDLINE]
+
+
+84. Dev Biol. 1995 Jun;169(2):421-35.
+
+Genetic regulation of shoot development in Arabidopsis: role of the EMF genes.
+
+Yang CH(1), Chen LJ, Sung ZR.
+
+Author information: 
+(1)Department of Plant Biology, University of California at Berkeley 94720, USA.
+
+To investigate the genetic mechanism regulating Arabidopsis shoot maturation and 
+development, we characterized eight emf mutants that bypassed the vegetative
+phase of the life cycle. Genetic complementation studies identified two EMF loci;
+both mapped to chromosome five. Double mutant analysis showed that the early- and
+late-flowering mutants, co, fb, elf1, elf2, and elf3, could not rescue vegetative
+development in the emf mutants, confirming the need for both EMF gene activities 
+for rosette development. A series of phenotypes involving successive loss of
+reproductive organs was also observed in emf single mutants, in emf1-1/emf1-2
+transheterozygotes, and in emf1 emf2 double mutants, suggesting that the EMF
+genes not only specify the rosette (vegetative) but also are involved in
+inflorescence and flower (reproductive) development. Phenotypic analysis of
+double mutants between emf and tfl1, lfy, and ag indicated interactions between
+EMF and genes regulating inflorescence meristem development and floral organ
+identity. A model depicting the role of the EMF genes in regulating shoot
+maturation and their interaction with genes that affect phase transitions is
+presented.
+
+PMID: 7781888  [PubMed - indexed for MEDLINE]
+
+

@@ -1,0 +1,2220 @@
+
+1. Mol Cell Biol. 2015 Dec;35(24):4135-46. doi: 10.1128/MCB.00477-15. Epub 2015 Sep 
+28.
+
+Genomic Determinants of THAP11/ZNF143/HCFC1 Complex Recruitment to Chromatin.
+
+Vinckevicius A(1), Parker JB(2), Chakravarti D(3).
+
+Author information: 
+(1)Division of Reproductive Science in Medicine, Department of Obstetrics and
+Gynecology, Feinberg School of Medicine, Northwestern University, Chicago,
+Illinois, USA Driskill Graduate Program in Life Sciences, Feinberg School of
+Medicine, Northwestern University, Chicago, Illinois, USA. (2)Division of
+Reproductive Science in Medicine, Department of Obstetrics and Gynecology,
+Feinberg School of Medicine, Northwestern University, Chicago, Illinois, USA.
+(3)Division of Reproductive Science in Medicine, Department of Obstetrics and
+Gynecology, Feinberg School of Medicine, Northwestern University, Chicago,
+Illinois, USA Driskill Graduate Program in Life Sciences, Feinberg School of
+Medicine, Northwestern University, Chicago, Illinois, USA Department of
+Pharmacology, Feinberg School of Medicine, Northwestern University, Chicago,
+Illinois, USA Robert H. Lurie Comprehensive Cancer Center, Feinberg School of
+Medicine, Northwestern University, Chicago, Illinois, USA debu@northwestern.edu.
+
+The THAP11 and ZNF143 transcription factors recognize overlapping DNA sequences
+and are reported to exhibit signs of both competitive and cooperative binding.
+HCFC1 serves as a scaffold protein, bridging interactions between transcription
+factors, including THAP11 and ZNF143, and transcriptional coregulators. The exact
+mechanism of how DNA sequences guide the recruitment of the THAP11/ZNF143/HCFC1
+complex to chromatin is still controversial. In this study, we use chromosomally 
+integrated synthetic constructs and clustered regularly interspaced short
+palindromic repeat (CRISPR)-Cas9-mediated approaches in intact cells to elucidate
+the role of the DNA sequence in the recruitment of this complex and to establish 
+its biological relevance. We show that the ACTACA submotif, shared by both THAP11
+and ZNF143, directs the recruitment of THAP11 and HCFC1 to ZNF143-occupied loci. 
+Importantly, its position, spacing, and orientation relative to the ZNF143 core
+motif are critical for this action. CRISPR-Cas9-mediated alterations of the
+ACTACA submotif at endogenous promoters recapitulated results obtained with
+synthetic constructs and resulted in altered gene transcription and histone
+modifications at targeted promoters. Our in vivo approaches provide strong
+evidence for the molecular role of the ACTACA submotif in THAP11, ZNF143, and
+HCFC1 cooperative recruitment to chromatin and its biological role in target gene
+expression.
+
+Copyright © 2015, American Society for Microbiology. All Rights Reserved.
+
+PMCID: PMC4648815 [Available on 2016-06-01]
+PMID: 26416877  [PubMed - in process]
+
+
+2. BMC Genomics. 2015 Sep 15;16(1):691. doi: 10.1186/s12864-015-1883-8.
+
+Transcriptome analysis of complex I-deficient patients reveals distinct
+expression programs for subunits and assembly factors of the oxidative
+phosphorylation system.
+
+van der Lee R(1), Szklarczyk R(2,)(3), Smeitink J(4), Smeets HJ(5), Huynen MA(6),
+Vogel R(7).
+
+Author information: 
+(1)Centre for Molecular and Biomolecular Informatics, Radboud Institute for
+Molecular Life Sciences, Radboud university medical center, PO BOX 9101, 6500 HB,
+Nijmegen, The Netherlands. Robin.vanderLee@radboudumc.nl. (2)Centre for Molecular
+and Biomolecular Informatics, Radboud Institute for Molecular Life Sciences,
+Radboud university medical center, PO BOX 9101, 6500 HB, Nijmegen, The
+Netherlands. radek.szklarczyk@maastrichtuniversity.nl. (3)Department of Clinical 
+Genetics, Unit Clinical Genomics, Maastricht University Medical Centre, 6200 MD, 
+Maastricht, The Netherlands. radek.szklarczyk@maastrichtuniversity.nl.
+(4)Nijmegen Center for Mitochondrial Disorders, Department of Pediatrics, Radboud
+Institute for Molecular Life Sciences, Radboud university medical center, PO BOX 
+9101, 6500 HB, Nijmegen, The Netherlands. jan.smeitink@radboudumc.nl. (5)Unit
+Clinical Genomics, Department of Genetics and Cell Biology, School for Growth and
+Development and for Cardiovascular Research, Maastricht University Medical
+Centre, Maastricht, The Netherlands. bert.smeets@maastrichtuniversity.nl.
+(6)Centre for Molecular and Biomolecular Informatics, Radboud Institute for
+Molecular Life Sciences, Radboud university medical center, PO BOX 9101, 6500 HB,
+Nijmegen, The Netherlands. Martijn.Huijnen@radboudumc.nl. (7)Nijmegen Center for 
+Mitochondrial Disorders, Department of Pediatrics, Radboud Institute for
+Molecular Life Sciences, Radboud university medical center, PO BOX 9101, 6500 HB,
+Nijmegen, The Netherlands. rutger.vogel@radboudumc.nl.
+
+BACKGROUND: Transcriptional control of mitochondrial metabolism is essential for 
+cellular function. A better understanding of this process will aid the
+elucidation of mitochondrial disorders, in particular of the many genetically
+unsolved cases of oxidative phosphorylation (OXPHOS) deficiency. Yet, to date
+only few studies have investigated nuclear gene regulation in the context of
+OXPHOS deficiency. In this study we performed RNA sequencing of two control and
+two complex I-deficient patient cell lines cultured in the presence of compounds 
+that perturb mitochondrial metabolism: chloramphenicol, AICAR, or resveratrol. We
+combined this with a comprehensive analysis of mitochondrial and nuclear gene
+expression patterns, co-expression calculations and transcription factor binding 
+sites.
+RESULTS: Our analyses show that subsets of mitochondrial OXPHOS genes respond
+opposingly to chloramphenicol and AICAR, whereas the response of nuclear OXPHOS
+genes is less consistent between cell lines and treatments. Across all samples
+nuclear OXPHOS genes have a significantly higher co-expression with each other
+than with other genes, including those encoding mitochondrial proteins. We found 
+no evidence for complex-specific mRNA expression regulation: subunits of
+different OXPHOS complexes are similarly (co-)expressed and regulated by a common
+set of transcription factors. However, we did observe significant differences
+between the expression of nuclear genes for OXPHOS subunits versus assembly
+factors, suggesting divergent transcription programs. Furthermore, complex I
+co-expression calculations identified 684 genes with a likely role in OXPHOS
+biogenesis and function. Analysis of evolutionarily conserved transcription
+factor binding sites in the promoters of these genes revealed almost all known
+OXPHOS regulators (including GABP, NRF1/2, SP1, YY1, E-box factors) and a set of 
+novel candidates (ELK1, KLF7, SP4, EHF, ZNF143, and TEL2).
+CONCLUSIONS: OXPHOS genes share an expression program distinct from other genes
+encoding mitochondrial proteins, indicative of targeted nuclear regulation of a
+mitochondrial sub-process. Within the subset of OXPHOS genes we established a
+difference in expression between mitochondrial and nuclear genes, and between
+nuclear genes encoding subunits and assembly factors. Most transcription
+regulators of genes that co-express with complex I are well-established factors
+for OXPHOS biogenesis. For the remaining six factors we here suggest for the
+first time a link with transcription regulation in OXPHOS deficiency.
+
+PMCID: PMC4570683
+PMID: 26369791  [PubMed - in process]
+
+
+3. Bioinformatics. 2015 Oct 1;31(19):3092-8. doi: 10.1093/bioinformatics/btv336.
+Epub 2015 Jun 1.
+
+Mango: a bias-correcting ChIA-PET analysis pipeline.
+
+Phanstiel DH(1), Boyle AP(2), Heidari N(1), Snyder MP(1).
+
+Author information: 
+(1)Department of Genetics, Stanford University School of Medicine, Stanford, CA
+94305 and. (2)Department of Computational Medicine & Bioinformatics, University
+of Michigan, Ann Arbor, MI 48109, USA.
+
+MOTIVATION: Chromatin Interaction Analysis by Paired-End Tag sequencing
+(ChIA-PET) is an established method for detecting genome-wide looping
+interactions at high resolution. Current ChIA-PET analysis software packages
+either fail to correct for non-specific interactions due to genomic proximity or 
+only address a fraction of the steps required for data processing. We present
+Mango, a complete ChIA-PET data analysis pipeline that provides statistical
+confidence estimates for interactions and corrects for major sources of bias
+including differential peak enrichment and genomic proximity.
+RESULTS: Comparison to the existing software packages, ChIA-PET Tool and ChiaSig 
+revealed that Mango interactions exhibit much better agreement with
+high-resolution Hi-C data. Importantly, Mango executes all steps required for
+processing ChIA-PET datasets, whereas ChiaSig only completes 20% of the required 
+steps. Application of Mango to multiple available ChIA-PET datasets permitted the
+independent rediscovery of known trends in chromatin loops including enrichment
+of CTCF, RAD21, SMC3 and ZNF143 at the anchor regions of interactions and strong 
+bias for convergent CTCF motifs.
+AVAILABILITY AND IMPLEMENTATION: Mango is open source and distributed through
+github at https://github.com/dphansti/mango.
+CONTACT: mpsnyder@standford.edu
+SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics
+online.
+
+© The Author 2015. Published by Oxford University Press. All rights reserved. For
+Permissions, please e-mail: journals.permissions@oup.com.
+
+PMCID: PMC4592333 [Available on 2016-10-01]
+PMID: 26034063  [PubMed - in process]
+
+
+4. Nat Commun. 2015 Apr 9;6:6793. doi: 10.1038/ncomms7793.
+
+Whole-exome SNP array identifies 15 new susceptibility loci for psoriasis.
+
+Zuo X(1), Sun L(1), Yin X(1), Gao J(2), Sheng Y(2), Xu J(3), Zhang J(4), He C(5),
+Qiu Y(6), Wen G(4), Tian H(7), Zheng X(2), Liu S(2), Wang W(2), Li W(2), Cheng
+Y(2), Liu L(2), Chang Y(2), Wang Z(2), Li Z(2), Li L(2), Wu J(2), Fang L(2), Shen
+C(2), Zhou F(2), Liang B(2), Chen G(2), Li H(2), Cui Y(8), Xu A(9), Yang X(10),
+Hao F(11), Xu L(12), Fan X(2), Li Y(13), Wu R(14), Wang X(15), Liu X(16), Zheng
+M(17), Song S(18), Ji B(19), Fang H(20), Yu J(21), Sun Y(22), Hui Y(23), Zhang
+F(7), Yang R(24), Yang S(2), Zhang X(1).
+
+Author information: 
+(1)1] Institute of Dermatology and Department of Dermatology, No. 1 Hospital,
+Anhui Medical University, Hefei, Anhui 230022, China [2] Department of
+Dermatology, Huashan Hospital, Fudan University, Shanghai 200040, China [3]
+Department of Dermatology, No.2 Hospital, Anhui Medical University, Hefei, Anhui 
+230022, China [4] Collaborative Innovation Center of Complex and Severe Skin
+Disease, Anhui Medical University, Hefei, Anhui 230032, China [5] State Key Lab
+Incubation of Dermatology, Ministry of Science and Technology, Hefei, Anhui
+230032, China [6] Key Lab of Dermatology, Ministry of Education, Hefei, Anhui
+230032, China [7] Key Lab of Gene Resources Utilization for Severe Inherited
+Disorders, Anhui 230032, China. (2)1] Institute of Dermatology and Department of 
+Dermatology, No. 1 Hospital, Anhui Medical University, Hefei, Anhui 230022, China
+[2] Collaborative Innovation Center of Complex and Severe Skin Disease, Anhui
+Medical University, Hefei, Anhui 230032, China [3] State Key Lab Incubation of
+Dermatology, Ministry of Science and Technology, Hefei, Anhui 230032, China [4]
+Key Lab of Dermatology, Ministry of Education, Hefei, Anhui 230032, China [5] Key
+Lab of Gene Resources Utilization for Severe Inherited Disorders, Anhui 230032,
+China. (3)1] Department of Dermatology, Huashan Hospital, Fudan University,
+Shanghai 200040, China [2] Collaborative Innovation Center of Complex and Severe 
+Skin Disease, Anhui Medical University, Hefei, Anhui 230032, China. (4)Department
+of Dermatology, Peking University People's Hospital, Beijing 100044, China.
+(5)Department of Dermatology, No.1 Hospital of China Medical University,
+Shenyang, Liaoning 110001, China. (6)Department of Dermatology, Jining No. 1
+People's Hospital, Jining, Shandong 272011, China. (7)Shandong Provincial
+Institute of Dermatology and Venereology, Jinan, Shandong 250022, China. (8)1]
+Collaborative Innovation Center of Complex and Severe Skin Disease, Anhui Medical
+University, Hefei, Anhui 230032, China [2] State Key Lab Incubation of
+Dermatology, Ministry of Science and Technology, Hefei, Anhui 230032, China [3]
+Key Lab of Dermatology, Ministry of Education, Hefei, Anhui 230032, China [4] Key
+Lab of Gene Resources Utilization for Severe Inherited Disorders, Anhui 230032,
+China. (9)The Third People's Hospital of Hangzhou, Hangzhou, Zhejiang 310009,
+China. (10)Department of Dermatology, General Hospital of PLA Air Force, Beijing 
+100036, China. (11)Department of Dermatology, Southwest Hospital, Third Military 
+Medical University, Chongqing 400038, China. (12)Department of Dermatology,
+Tianjin Changzheng Hospital, Tianjin 300106, China. (13)Department of
+Dermatology, Second Affiliated Hospital of Harbin Medical University, Harbin,
+Heilongjiang 150000, China. (14)Department of Dermatology, The Affiliated
+Hospital of Inner Mongolia Medical College, Huhehot, Inner Mongolia 010050,
+China. (15)Shanghai Skin Diseases and STD Hospital, Shanghai 200050, China.
+(16)Department of Dermatology, The First Affiliated Hospital of Dalian Medical
+University, Dalian, Liaoning 116011, China. (17)Department of Dermatology, The
+Second Affiliated Hospital, Zhejiang University School of Medicine, Zhenjiang
+310009, China. (18)Department of Dermatology, Dalian Dermatosis Hosptial,
+Liaoning 116011, China. (19)Department of Dermatology, Yijishan Hospital of
+Wannan Medical College, Wuhu, Anhui 241000, China. (20)Department of Dermatology,
+The First Affiliated Hospital of Zhejiang University School of Medicine,
+Zhenjiang 310006, China. (21)Department of Dermatology, The First Affiliated
+Hospital of Zhengzhou University, Zhengzhou, Henan 450052, China. (22)Department 
+of Dermatology, Anshan Tanggangzi hosptial, Liaoning 210300, China.
+(23)Department of Dermatology, First Affiliated Hospital of Xinjiang Medical
+University, Xinjiang 830054, China. (24)Department of Dermatology, General
+Hospital of Beijing Military Command, Beijing 100010, China.
+
+Genome-wide association studies (GWASs) have reproducibly associated ~40
+susceptibility loci with psoriasis. However, the missing heritability is evident 
+and the contributions of coding variants have not yet been systematically
+evaluated. Here, we present a large-scale whole-exome array analysis for
+psoriasis consisting of 42,760 individuals. We discover 16 SNPs within 15 new
+genes/loci associated with psoriasis, including C1orf141, ZNF683, TMC6, AIM2,
+IL1RL1, CASR, SON, ZFYVE16, MTHFR, CCDC129, ZNF143, AP5B1, SYNE2, IFNGR2 and
+3q26.2-q27 (P<5.00 × 10(-08)). In addition, we also replicate four known
+susceptibility loci TNIP1, NFKBIA, IL12B and LCE3D-LCE3E. These susceptibility
+variants identified in the current study collectively account for 1.9% of the
+psoriasis heritability. The variant within AIM2 is predicted to impact protein
+structure. Our findings increase the number of genetic risk factors for psoriasis
+and highlight new and plausible biological pathways in psoriasis.
+
+PMCID: PMC4403312
+PMID: 25854761  [PubMed - in process]
+
+
+5. Nat Commun. 2015 Feb 3;2:6186. doi: 10.1038/ncomms7186.
+
+ZNF143 provides sequence specificity to secure chromatin interactions at gene
+promoters.
+
+Bailey SD(1), Zhang X(2), Desai K(2), Aid M(3), Corradin O(4), Cowper-Sal Lari
+R(5), Akhtar-Zaidi B(6), Scacheri PC(6), Haibe-Kains B(7), Lupien M(8).
+
+Author information: 
+(1)1] The Princess Margaret Cancer Centre-University Health Network, Toronto,
+Ontario, Canada M5G 1L7 [2] Department of Medical Biophysics, University of
+Toronto, Toronto, Ontario, Canada M5G 1L7. (2)Department of Genetics, Norris
+Cotton Cancer Center, Dartmouth Medical School, Lebanon, New Hampshire 03755,
+USA. (3)Bioinformatics and Computational Genomics Laboratory, Institut de
+Recherches Cliniques de Montréal (IRCM), Montreal, Quebec, Canada H2W 1R7.
+(4)Department of Genetics and Genome Sciences, Case Western Reserve University,
+Cleveland, Ohio 44106, USA. (5)The Princess Margaret Cancer Centre-University
+Health Network, Toronto, Ontario, Canada M5G 1L7. (6)1] Department of Genetics
+and Genome Sciences, Case Western Reserve University, Cleveland, Ohio 44106, USA 
+[2] Case Comprehensive Cancer Center, Case Western Reserve University, Cleveland,
+Ohio 44106, USA. (7)1] The Princess Margaret Cancer Centre-University Health
+Network, Toronto, Ontario, Canada M5G 1L7 [2] Department of Medical Biophysics,
+University of Toronto, Toronto, Ontario, Canada M5G 1L7 [3] Bioinformatics and
+Computational Genomics Laboratory, Institut de Recherches Cliniques de Montréal
+(IRCM), Montreal, Quebec, Canada H2W 1R7. (8)1] The Princess Margaret Cancer
+Centre-University Health Network, Toronto, Ontario, Canada M5G 1L7 [2] Department
+of Medical Biophysics, University of Toronto, Toronto, Ontario, Canada M5G 1L7
+[3] Ontario Institute for Cancer Research, Toronto, Ontario, Canada M5G 1L7.
+
+Chromatin interactions connect distal regulatory elements to target gene
+promoters guiding stimulus- and lineage-specific transcription. Few factors
+securing chromatin interactions have so far been identified. Here, by integrating
+chromatin interaction maps with the large collection of transcription
+factor-binding profiles provided by the ENCODE project, we demonstrate that the
+zinc-finger protein ZNF143 preferentially occupies anchors of chromatin
+interactions connecting promoters with distal regulatory elements. It binds
+directly to promoters and associates with lineage-specific chromatin interactions
+and gene expression. Silencing ZNF143 or modulating its DNA-binding affinity
+using single-nucleotide polymorphisms (SNPs) as a surrogate of site-directed
+mutagenesis reveals the sequence dependency of chromatin interactions at gene
+promoters. We also find that chromatin interactions alone do not regulate gene
+expression. Together, our results identify ZNF143 as a novel chromatin-looping
+factor that contributes to the architectural foundation of the genome by
+providing sequence specificity at promoters connected with distal regulatory
+elements.
+
+PMCID: PMC4431651
+PMID: 25645053  [PubMed - in process]
+
+
+6. Cell Rep. 2014 Nov 6;9(3):967-82. doi: 10.1016/j.celrep.2014.09.051. Epub 2014
+Oct 30.
+
+Host cell factor-1 recruitment to E2F-bound and cell-cycle-control genes is
+mediated by THAP11 and ZNF143.
+
+Parker JB(1), Yin H(2), Vinckevicius A(2), Chakravarti D(3).
+
+Author information: 
+(1)Division of Reproductive Science in Medicine, Department of Obstetrics and
+Gynecology, Feinberg School of Medicine, Northwestern University, Chicago, IL
+60611, USA. (2)Division of Reproductive Science in Medicine, Department of
+Obstetrics and Gynecology, Feinberg School of Medicine, Northwestern University, 
+Chicago, IL 60611, USA; Driskill Graduate Program in Life Sciences, Northwestern 
+University, Chicago, IL 60611, USA. (3)Division of Reproductive Science in
+Medicine, Department of Obstetrics and Gynecology, Feinberg School of Medicine,
+Northwestern University, Chicago, IL 60611, USA; Robert H. Lurie Comprehensive
+Cancer Center, Feinberg School of Medicine, Northwestern University, Chicago, IL 
+60611, USA. Electronic address: debu@northwestern.edu.
+
+Host cell factor-1 (HCF-1) is a metazoan transcriptional coregulator essential
+for cell-cycle progression and cell proliferation. Current models suggest a
+mechanism whereby HCF-1 functions as a direct coregulator of E2F proteins,
+facilitating the expression of genes necessary for cell proliferation. In this
+report, we show that HCF-1 recruitment to numerous E2F-bound promoters is
+mediated by the concerted action of zinc finger transcription factors THAP11 and 
+ZNF143, rather than E2F proteins directly. THAP11, ZNF143, and HCF-1 form a
+mutually dependent complex on chromatin, which is independent of E2F occupancy.
+Disruption of the THAP11/ZNF143/HCF-1 complex results in altered expression of
+cell-cycle control genes and leads to reduced cell proliferation, cell-cycle
+progression, and cell viability. These data establish a model in which a
+THAP11/ZNF143/HCF-1 complex is a critical component of the transcriptional
+regulatory network governing cell proliferation.
+
+Copyright © 2014 The Authors. Published by Elsevier Inc. All rights reserved.
+
+PMCID: PMC4250832
+PMID: 25437553  [PubMed - indexed for MEDLINE]
+
+
+7. Genome Res. 2014 Dec;24(12):1905-17. doi: 10.1101/gr.176586.114. Epub 2014 Sep
+16.
+
+Genome-wide map of regulatory interactions in the human genome.
+
+Heidari N(1), Phanstiel DH(1), He C(2), Grubert F(1), Jahanbani F(1), Kasowski
+M(3), Zhang MQ(4), Snyder MP(5).
+
+Author information: 
+(1)Department of Genetics, Stanford University School of Medicine, Stanford,
+California 94305, USA; (2)MOE Key Laboratory of Bioinformatics and Bioinformatics
+Division, Center for Synthetic and System Biology, TNLIST/Department of
+Automation, Tsinghua University, Beijing 100084, China; (3)Department of
+Genetics, Stanford University School of Medicine, Stanford, California 94305,
+USA; Department of Molecular, Cellular, and Developmental Biology, Yale
+University, New Haven, Connecticut 06520, USA; (4)MOE Key Laboratory of
+Bioinformatics and Bioinformatics Division, Center for Synthetic and System
+Biology, TNLIST/Department of Automation, Tsinghua University, Beijing 100084,
+China; Department of Molecular and Cell Biology, Center for Systems Biology, The 
+University of Texas at Dallas, Richardson, Texas 75080-3021, USA. (5)Department
+of Genetics, Stanford University School of Medicine, Stanford, California 94305, 
+USA; mpsnyder@stanford.edu.
+
+Increasing evidence suggests that interactions between regulatory genomic
+elements play an important role in regulating gene expression. We generated a
+genome-wide interaction map of regulatory elements in human cells (ENCODE tier 1 
+cells, K562, GM12878) using Chromatin Interaction Analysis by Paired-End Tag
+sequencing (ChIA-PET) experiments targeting six broadly distributed factors.
+Bound regions covered 80% of DNase I hypersensitive sites including 99.7% of TSS 
+and 98% of enhancers. Correlating this map with ChIP-seq and RNA-seq data sets
+revealed cohesin, CTCF, and ZNF143 as key components of three-dimensional
+chromatin structure and revealed how the distal chromatin state affects gene
+transcription. Comparison of interactions between cell types revealed that
+enhancer-promoter interactions were highly cell-type-specific. Construction and
+comparison of distal and proximal regulatory networks revealed stark differences 
+in structure and biological function. Proximal binding events are enriched at
+genes with housekeeping functions, while distal binding events interact with
+genes involved in dynamic biological processes including response to stimulus.
+This study reveals new mechanistic and functional insights into regulatory region
+organization in the nucleus.
+
+© 2014 Heidari et al.; Published by Cold Spring Harbor Laboratory Press.
+
+PMCID: PMC4248309
+PMID: 25228660  [PubMed - indexed for MEDLINE]
+
+
+8. Acta Neuropathol Commun. 2014 Sep 4;2:93. doi: 10.1186/s40478-014-0093-y.
+
+Integrated multi-cohort transcriptional meta-analysis of neurodegenerative
+diseases.
+
+Li MD, Burns TC, Morgan AA, Khatri P.
+
+INTRODUCTION: Neurodegenerative diseases share common pathologic features
+including neuroinflammation, mitochondrial dysfunction and protein aggregation,
+suggesting common underlying mechanisms of neurodegeneration. We undertook a
+meta-analysis of public gene expression data for neurodegenerative diseases to
+identify a common transcriptional signature of neurodegeneration.
+RESULTS: Using 1,270 post-mortem central nervous system tissue samples from 13
+patient cohorts covering four neurodegenerative diseases, we identified 243
+differentially expressed genes, which were similarly dysregulated in 15
+additional patient cohorts of 205 samples including seven neurodegenerative
+diseases. This gene signature correlated with histologic disease severity.
+Metallothioneins featured prominently among differentially expressed genes, and
+functional pathway analysis identified specific convergent themes of
+dysregulation. MetaCore network analyses revealed various novel candidate hub
+genes (e.g. STAU2). Genes associated with M1-polarized macrophages and reactive
+astrocytes were strongly enriched in the meta-analysis data. Evaluation of genes 
+enriched in neurons revealed 70 down-regulated genes, over half not previously
+associated with neurodegeneration. Comparison with aging brain data (3 patient
+cohorts, 221 samples) revealed 53 of these to be unique to neurodegenerative
+disease, many of which are strong candidates to be important in neuropathogenesis
+(e.g. NDN, NAP1L2). ENCODE ChIP-seq analysis predicted common upstream
+transcriptional regulators not associated with normal aging (REST, RBBP5, SIN3A, 
+SP2, YY1, ZNF143, IKZF1). Finally, we removed genes common to neurodegeneration
+from disease-specific gene signatures, revealing uniquely robust immune response 
+and JAK-STAT signaling in amyotrophic lateral sclerosis.
+CONCLUSIONS: Our results implicate pervasive bioenergetic deficits, M1-type
+microglial activation and gliosis as unifying themes of neurodegeneration, and
+identify numerous novel genes associated with neurodegenerative processes.
+
+PMCID: PMC4167139
+PMID: 25187168  [PubMed - indexed for MEDLINE]
+
+
+9. Biochimie. 2014 Sep;104:137-46. doi: 10.1016/j.biochi.2014.06.008. Epub 2014 Jun 
+18.
+
+ZNF143 is regulated through alternative 3'UTR isoforms.
+
+Ngondo RP(1), Carbon P(2).
+
+Author information: 
+(1)Architecture et Réactivité de l'ARN, Université de Strasbourg, CNRS, IBMC, 15 
+rue René Descartes, 67084 Strasbourg, France. (2)Architecture et Réactivité de
+l'ARN, Université de Strasbourg, CNRS, IBMC, 15 rue René Descartes, 67084
+Strasbourg, France. Electronic address: p.carbon@ibmc-cnrs.unistra.fr.
+
+ZNF143 is a ubiquitously expressed transcription factor conserved in all
+vertebrates, regulating genes involved in primary metabolism and cell growth. It 
+is therefore crucial to tightly maintain the adequate level of this factor in the
+cell. Although ZNF143 expression is auto-regulated at the transcriptional level, 
+nothing is known about the post-transcriptional events influencing its
+expression. In this work, performed in mammalian cells, we show that ZNF143
+expresses different 3'-untranslated regions (3'-UTR) as a result of alternative
+polyadenylation. These 3'UTR isoforms have a diverse impact on the ZNF143
+transcript fate. Indeed, we show that the longest isoform, unlike the short one, 
+contains a destabilizing AU-Rich element and is targeted by the miRNA 590-3p.
+Additionally we observed a correlation between ZNF143 downregulation and
+miR-590-3p up-regulation in retinoic acid treated teratocarcinoma cells. This
+strongly suggests that ZNF143 post-transcriptional regulation depends on the long
+3'UTR isoform during teratocarcinoma cells differentiation. Finally we evidenced 
+that the alternative polyadenylation site usage is independent of the previously 
+identified ZNF143 transcriptional auto-regulation.
+
+Copyright © 2014 Elsevier Masson SAS. All rights reserved.
+
+PMID: 24952353  [PubMed - indexed for MEDLINE]
+
+
+10. BMC Genomics. 2014 Jun 13;15:472. doi: 10.1186/1471-2164-15-472.
+
+Improving analysis of transcription factor binding sites within ChIP-Seq data
+based on topological motif enrichment.
+
+Worsley Hunt R, Mathelier A, Del Peso L, Wasserman WW(1).
+
+Author information: 
+(1)Centre for Molecular Medicine and Therapeutics, Child and Family Research
+Institute, Department of Medical Genetics, University of British Columbia,
+Vancouver, BC, Canada. wyeth@cmmt.ubc.ca.
+
+BACKGROUND: Chromatin immunoprecipitation (ChIP) coupled to high-throughput
+sequencing (ChIP-Seq) techniques can reveal DNA regions bound by transcription
+factors (TF). Analysis of the ChIP-Seq regions is now a central component in gene
+regulation studies. The need remains strong for methods to improve the
+interpretation of ChIP-Seq data and the study of specific TF binding sites
+(TFBS).
+RESULTS: We introduce a set of methods to improve the interpretation of ChIP-Seq 
+data, including the inference of mediating TFs based on TFBS motif
+over-representation analysis and the subsequent study of spatial distribution of 
+TFBSs. TFBS over-representation analysis applied to ChIP-Seq data is used to
+detect which TFBSs arise more frequently than expected by chance. Visualization
+of over-representation analysis results with new composition-bias plots reveals
+systematic bias in over-representation scores. We introduce the BiasAway
+background generating software to resolve the problem. A heuristic procedure
+based on topological motif enrichment relative to the ChIP-Seq peaks' local
+maximums highlights peaks likely to be directly bound by a TF of interest. The
+results suggest that on average two-thirds of a ChIP-Seq dataset's peaks are
+bound by the ChIP'd TF; the origin of the remaining peaks remaining undetermined.
+Additional visualization methods allow for the study of both inter-TFBS spatial
+relationships and motif-flanking sequence properties, as demonstrated in case
+studies for TBP and ZNF143/THAP11.
+CONCLUSIONS: Topological properties of TFBS within ChIP-Seq datasets can be
+harnessed to better interpret regulatory sequences. Using GC content corrected
+TFBS over-representation analysis, combined with visualization techniques and
+analysis of the topological distribution of TFBS, we can distinguish peaks likely
+to be directly bound by a TF. The new methods will empower researchers for
+exploration of gene regulation and TF binding.
+
+PMCID: PMC4082612
+PMID: 24927817  [PubMed - indexed for MEDLINE]
+
+
+11. Biochim Biophys Acta. 2014 Jul;1839(7):579-91. doi: 10.1016/j.bbagrm.2014.05.007.
+Epub 2014 May 19.
+
+The transcriptional repression activity of STAF65<U+03B3> is facilitated by promoter
+tethering and nuclear import of class IIa histone deacetylases.
+
+Hsieh FS(1), Chen NT(1), Yao YL(2), Wang SY(1), Chen JJ(1), Lai CC(1), Yang
+WM(3).
+
+Author information: 
+(1)Institute of Molecular Biology, National Chung Hsing University, Taichung
+40227, Taiwan. (2)Department of Biotechnology, Asia University, Taichung 41354,
+Taiwan. (3)Institute of Molecular Biology, National Chung Hsing University,
+Taichung 40227, Taiwan; Rong Hsing Research Center for Translational Medicine,
+National Chung Hsing University, Taichung 40227, Taiwan. Electronic address:
+yangwm@nchu.edu.tw.
+
+Aberrant expression levels of transcriptional regulators result in alterations in
+transcriptional control. STAF65<U+03B3> is a structural subunit of the GCN5
+transcriptional co-activator complex. Reports showed that STAF65<U+03B3> is highly
+expressed in several human cancer cells, but the consequences of this aberrant
+expression pattern remain elusive. Here, we show that the STAF65<U+03B3> protein is
+highly expressed in lung adenocarcinoma patients and high levels of STAF65<U+03B3>
+correlate with poor prognosis. High levels of STAF65<U+03B3> cause repression of the
+c-Myc oncogene through physical association with transcription factor YY1 and
+co-repressors HDACs. Physical interactions between STAF65<U+03B3> and class IIa HDACs
+facilitate nuclear enrichment and regulate the assembly of HDAC complexes.
+Moreover, SUMOylation of STAF65<U+03B3> is necessary for maintaining the co-repressor
+complex containing YY1 and class IIa HDACs at the promoter. Our findings reveal a
+distinct role of STAF65<U+03B3> in nuclear import, transcriptional repression, and cell 
+cycle regulation at high levels of expression, which is associated with poor
+clinical outcomes of lung adenocarcinoma.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+PMID: 24852358  [PubMed - indexed for MEDLINE]
+
+
+12. Br J Cancer. 2014 May 13;110(10):2583-92. doi: 10.1038/bjc.2014.202. Epub 2014
+Apr 15.
+
+The combination of strong expression of ZNF143 and high MIB-1 labelling index
+independently predicts shorter disease-specific survival in lung adenocarcinoma.
+
+Kawatsu Y(1), Kitada S(2), Uramoto H(3), Zhi L(4), Takeda T(1), Kimura T(1),
+Horie S(1), Tanaka F(3), Sasaguri Y(5), Izumi H(6), Kohno K(7), Yamada S(8).
+
+Author information: 
+(1)Department of Health Policy and Management, Institute of Industrial Ecological
+Sciences, University of Occupational and Environmental Health, Kitakyushu
+807-8555, Japan. (2)1] Department of Pathology and Cell Biology, School of
+Medicine, University of Occupational and Environmental Health, Kitakyushu
+807-8555, Japan [2] Department of Urology, School of Medicine, University of
+Occupational and Environmental Health, Kitakyushu 807-8555, Japan. (3)Department 
+of Second Department of Surgery, School of Medicine, University of Occupational
+and Environmental Health, Kitakyushu 807-8555, Japan. (4)1] Department of
+Pathology and Cell Biology, School of Medicine, University of Occupational and
+Environmental Health, Kitakyushu 807-8555, Japan [2] Department of Medical
+Oncology, The First Hospital of China Medical University, Shenyang 110001,
+People's Republic of China. (5)1] Department of Pathology and Cell Biology,
+School of Medicine, University of Occupational and Environmental Health,
+Kitakyushu 807-8555, Japan [2] Laboratory of Pathology, Fukuoka Wajiro Hospital, 
+Fukuoka 811-0213, Japan. (6)Department of Occupational Pneumology, School of
+Medicine, University of Occupational and Environmental Health, Kitakyushu
+807-8555, Japan. (7)The President Laboratory, School of Medicine, University of
+Occupational and Environmental Health, Kitakyushu 807-8555, Japan. (8)Department 
+of Pathology and Cell Biology, School of Medicine, University of Occupational and
+Environmental Health, Kitakyushu 807-8555, Japan.
+
+BACKGROUND: The transcription factor, zinc finger protein 143 (ZNF143),
+positively regulates many cell-cycle-related genes. The ZNF143 would show high
+expression of multiple solid tumours related closely to cancer cell growth,
+similar to the widely accepted Ki67 (MIB-1) protein, but the underlying
+mechanisms for ZNF143 remain unclear. We investigated the association of ZNF143
+expression with clinicopathological features and prognoses of patients with lung 
+adenocarcinoma.
+METHODS: Expressions of ZNF143 and MIB-1 were immunohistochemically analysed in
+183 paraffin-embedded tumour samples of patients with lung adenocarcinoma. The
+ZNF143 expression was considered to be strong when >30% of the cancer cells
+demonstrated positive staining.
+RESULTS: Strong ZNF143+ expression showed a significantly close relationship to
+pathologically moderate to poor differentiation and highly invasive
+characteristics. The ZNF143 positivity potentially induced cell growth of lung
+adenocarcinoma, correlated significantly with high MIB-1 labelling index (<U+2A7E>10%). 
+Univariate and multivariate analyses demonstrated that both strong ZNF143+ and
+the high MIB-1 index group have only and significantly worse survival rates.
+CONCLUSIONS: The combination of strong ZNF143 expression and high MIB-1 index
+potentially predicts high proliferating activity and poor prognosis in patients
+with lung adenocarcinoma, and may offer a therapeutic target against ZNF143.
+
+PMCID: PMC4021533
+PMID: 24736586  [PubMed - indexed for MEDLINE]
+
+
+13. Nucleic Acids Res. 2014 Feb;42(4):2171-84. doi: 10.1093/nar/gkt1136. Epub 2013
+Nov 14.
+
+Transcription factor abundance controlled by an auto-regulatory mechanism
+involving a transcription start site switch.
+
+Ngondo RP(1), Carbon P.
+
+Author information: 
+(1)Architecture et Réactivité de l'ARN, Université de Strasbourg, CNRS, IBMC, 15 
+Rue René Descartes, 67084 Strasbourg, France.
+
+A transcriptional feedback loop is the simplest and most direct means for a
+transcription factor to provide an increased stability of gene expression. In
+this work performed in human cells, we reveal a new negative auto-regulatory
+mechanism involving an alternative transcription start site (TSS) usage. Using
+the activating transcription factor ZNF143 as a model, we show that the ZNF143
+low-affinity binding sites, located downstream of its canonical TSS, play the
+role of protein sensors to induce the up- or down-regulation of ZNF143 gene
+expression. We uncovered that the TSS switch that mediates this regulation
+implies the differential expression of two transcripts with an opposite protein
+production ability due to their different 5' untranslated regions. Moreover, our 
+analysis of the ENCODE data suggests that this mechanism could be used by other
+transcription factors to rapidly respond to their own aberrant expression level.
+
+PMCID: PMC3936768
+PMID: 24234445  [PubMed - indexed for MEDLINE]
+
+
+14. Proc Natl Acad Sci U S A. 2013 Nov 12;110(46):18537-42. doi:
+10.1073/pnas.1317608110. Epub 2013 Oct 28.
+
+Epstein-Barr virus nuclear antigen leader protein localizes to promoters and
+enhancers with cell transcription factors and EBNA2.
+
+Portal D(1), Zhou H, Zhao B, Kharchenko PV, Lowry E, Wong L, Quackenbush J,
+Holloway D, Jiang S, Lu Y, Kieff E.
+
+Author information: 
+(1)Department of Medicine, Brigham and Women's Hospital, and Department of
+Microbiology and Immunobiology, Harvard University, Boston, MA 02115.
+
+Epstein-Barr virus (EBV) nuclear antigens EBNALP (LP) and EBNA2 (E2) are
+coexpressed in EBV-infected B lymphocytes and are critical for lymphoblastoid
+cell line outgrowth. LP removes NCOR and RBPJ repressive complexes from
+promoters, enhancers, and matrix-associated deacetylase bodies, whereas E2
+activates transcription from distal enhancers. LP ChIP-seq analyses identified
+19,224 LP sites of which ~50% were ± 2 kb of a transcriptional start site. LP
+sites were enriched for B-cell transcription factors (TFs), YY1, SP1, PAX5, BATF,
+IRF4, ETS1, RAD21, PU.1, CTCF, RBPJ, ZNF143, SMC3, NF<U+03BA>B, TBLR, and EBF. E2 sites 
+were also highly enriched for LP-associated cell TFs and were more highly
+occupied by RBPJ and EBF. LP sites were highly marked by H3K4me3, H3K27ac, H2Az, 
+H3K9ac, RNAPII, and P300, indicative of activated transcription. LP sites were
+29% colocalized with E2 (LP/E2). LP/E2 sites were more similar to LP than to E2
+sites in associated cell TFs, RNAPII, P300, and histone H3K4me3, H3K9ac, H3K27ac,
+and H2Az occupancy, and were more highly transcribed than LP or E2 sites. Gene
+affected by CTCF and LP cooccupancy were more highly expressed than genes
+affected by CTCF alone. LP was at myc enhancers and promoters and of MYC
+regulated ccnd2, 23 med complex components, and MYC regulated cell survival
+genes, igf2r and bcl2. These data implicate LP and associated TFs and DNA looping
+factors CTCF, RAD21, SMC3, and YY1/INO80 chromatin-remodeling complexes in
+repressor depletion and gene activation necessary for lymphoblastoid cell line
+growth and survival.
+
+PMCID: PMC3832032
+PMID: 24167291  [PubMed - indexed for MEDLINE]
+
+
+15. Mol Carcinog. 2014 Feb;53 Suppl 1:E161-8. doi: 10.1002/mc.22083. Epub 2013 Sep 5.
+
+A role of zinc-finger protein 143 for cancer cell migration and invasion through 
+ZEB1 and E-cadherin in colon cancer cells.
+
+Paek AR(1), Lee CH, You HJ.
+
+Author information: 
+(1)Cancer Cell and Molecular Biology Branch, Division of Cancer Biology, National
+Cancer Center, Goyang, Gyeonggi, South Korea.
+
+To investigate the role of zinc-finger protein 143 in cancer cells, we stably
+introduced ZNF143 expression knockdown by infecting colon cancer cells with short
+hairpin (sh) RNA-lentiviral particles against ZNF143 (HCT116 sh-ZNF143). Compared
+to sh-control cells, HCT116 sh-ZNF143 cells showed faster wound healing,
+increased migration through Transwell chambers, and increased invasion through
+Matrigel in Transwell chambers. ZNF143 knockdown increased transcriptional
+expression of ZEB1. Additionally, ZNF143 regulated E-cadherin transcriptional
+expression. Small interfering-RNA-mediated silencing of ZEB1 expression affected 
+motility in HCT116 sh-ZNF143 cells. These data suggest that ZNF143 is involved in
+cellular motility through a ZEB1-E-cadherin-linked pathway in colon cancer cells.
+
+© 2013 Wiley Periodicals, Inc.
+
+PMID: 24009065  [PubMed - indexed for MEDLINE]
+
+
+16. BMC Genomics. 2013 May 25;14:349. doi: 10.1186/1471-2164-14-349.
+
+NEXT-peak: a normal-exponential two-peak model for peak-calling in ChIP-seq data.
+
+Kim NK(1), Jayatillake RV, Spouge JL.
+
+Author information: 
+(1)Mathematics and Statistics Department, Old Dominion University, Norfolk, VA
+23529, USA. nxkim@odu.edu
+
+BACKGROUND: Chromatin immunoprecipitation followed by high-throughput sequencing 
+(ChIP-seq) can locate transcription factor binding sites on genomic scale.
+Although many models and programs are available to call peaks, none has dominated
+its competition in comparison studies.
+RESULTS: We propose a rigorous statistical model, the normal-exponential two-peak
+(NEXT-peak) model, which parallels the physical processes generating the
+empirical data, and which can naturally incorporate mappability information. The 
+model therefore estimates total strength of binding (even if some binding
+locations do not map uniquely into a reference genome, effectively censoring
+them); it also assigns an error to an estimated binding location. The comparison 
+study with existing programs on real ChIP-seq datasets (STAT1, NRSF, and ZNF143) 
+demonstrates that the NEXT-peak model performs well both in calling peaks and
+locating them. The model also provides a goodness-of-fit test, to screen out
+spurious peaks and to infer multiple binding events in a region.
+CONCLUSIONS: The NEXT-peak program calls peaks on any test dataset about as
+accurately as any other, but provides unusual accuracy in the estimated location 
+of the peaks it calls. NEXT-peak is based on rigorous statistics, so its model
+also provides a principled foundation for a more elaborate statistical analysis
+of ChIP-seq data.
+
+PMCID: PMC3672025
+PMID: 23706083  [PubMed - indexed for MEDLINE]
+
+
+17. Genome Res. 2013 Jun;23(6):907-16. doi: 10.1101/gr.150078.112. Epub 2013 Mar 28.
+
+HCFC1 is a common component of active human CpG-island promoters and coincides
+with ZNF143, THAP11, YY1, and GABP transcription factor occupancy.
+
+Michaud J(1), Praz V, James Faresse N, Jnbaptiste CK, Tyagi S, Schütz F, Herr W.
+
+Author information: 
+(1)Center for Integrative Genomics, University of Lausanne, Génopode, 1015
+Lausanne, Switzerland.
+
+In human transcriptional regulation, DNA-sequence-specific factors can associate 
+with intermediaries that orchestrate interactions with a diverse set of
+chromatin-modifying enzymes. One such intermediary is HCFC1 (also known as
+HCF-1). HCFC1, first identified in herpes simplex virus transcription, has a
+poorly defined role in cellular transcriptional regulation. We show here that, in
+HeLa cells, HCFC1 is observed bound to 5400 generally active CpG-island
+promoters. Examination of the DNA sequences underlying the HCFC1-binding sites
+revealed three sequence motifs associated with the binding of (1) ZNF143 and
+THAP11 (also known as Ronin), (2) GABP, and (3) YY1 sequence-specific
+transcription factors. Subsequent analysis revealed colocalization of HCFC1 with 
+these four transcription factors at ~90% of the 5400 HCFC1-bound promoters. These
+studies suggest that a relatively small number of transcription factors play a
+major role in HeLa-cell transcriptional regulation in association with HCFC1.
+
+PMCID: PMC3668359
+PMID: 23539139  [PubMed - indexed for MEDLINE]
+
+
+18. Nucleic Acids Res. 2013 Apr;41(7):4000-14. doi: 10.1093/nar/gkt088. Epub 2013 Feb
+13.
+
+Modulation of gene expression via overlapping binding sites exerted by ZNF143,
+Notch1 and THAP11.
+
+Ngondo-Mbongo RP(1), Myslinski E, Aster JC, Carbon P.
+
+Author information: 
+(1)Architecture et Réactivité de l'ARN, Université de Strasbourg, CNRS, IBMC, 15 
+rue René Descartes, 67084 Strasbourg, France.
+
+ZNF143 is a zinc-finger protein involved in the transcriptional regulation of
+both coding and non-coding genes from polymerase II and III promoters. Our study 
+deciphers the genome-wide regulatory role of ZNF143 in relation with the two
+previously unrelated transcription factors Notch1/ICN1 and thanatos-associated
+protein 11 (THAP11) in several human and murine cells. We show that two distinct 
+motifs, SBS1 and SBS2, are associated to ZNF143-binding events in promoters of
+>3000 genes. Without co-occupation, these sites are also bound by Notch1/ICN1 in 
+T-lymphoblastic leukaemia cells as well as by THAP11, a factor involved in
+self-renewal of embryonic stem cells. We present evidence that ICN1 binding
+overlaps with ZNF143 binding events at the SBS1 and SBS2 motifs, whereas the
+overlap occurs only at SBS2 for THAP11. We demonstrate that the three factors
+modulate expression of common target genes through the mutually exclusive
+occupation of overlapping binding sites. The model we propose predicts that the
+binding competition between the three factors controls biological processes such 
+as rapid cell growth of both neoplastic and stem cells. Overall, our study
+establishes a novel relationship between ZNF143, THAP11 and ICN1 and reveals
+important insights into ZNF143-mediated gene regulation.
+
+PMCID: PMC3627581
+PMID: 23408857  [PubMed - indexed for MEDLINE]
+
+
+19. PLoS Genet. 2012;8(11):e1003028. doi: 10.1371/journal.pgen.1003028. Epub 2012 Nov
+15.
+
+Genomic study of RNA polymerase II and III SNAPc-bound promoters reveals a gene
+transcribed by both enzymes and a broad use of common activators.
+
+James Faresse N(1), Canella D, Praz V, Michaud J, Romascano D, Hernandez N.
+
+Author information: 
+(1)Center for Integrative Genomics, Faculty of Biology and Medicine, University
+of Lausanne, Lausanne, Switzerland.
+
+SNAP(c) is one of a few basal transcription factors used by both RNA polymerase
+(pol) II and pol III. To define the set of active SNAP(c)-dependent promoters in 
+human cells, we have localized genome-wide four SNAP(c) subunits, GTF2B (TFIIB), 
+BRF2, pol II, and pol III. Among some seventy loci occupied by SNAP(c) and other 
+factors, including pol II snRNA genes, pol III genes with type 3 promoters, and a
+few un-annotated loci, most are primarily occupied by either pol II and GTF2B, or
+pol III and BRF2. A notable exception is the RPPH1 gene, which is occupied by
+significant amounts of both polymerases. We show that the large majority of
+SNAP(c)-dependent promoters recruit POU2F1 and/or ZNF143 on their enhancer
+region, and a subset also recruits GABP, a factor newly implicated in
+SNAP(c)-dependent transcription. These activators associate with pol II and III
+promoters in G1 slightly before the polymerase, and ZNF143 is required for
+efficient transcription initiation complex assembly. The results characterize a
+set of genes with unique properties and establish that polymerase specificity is 
+not absolute in vivo.
+
+PMCID: PMC3499247
+PMID: 23166507  [PubMed - indexed for MEDLINE]
+
+
+20. Cell Death Dis. 2012 Nov 15;3:e422. doi: 10.1038/cddis.2012.156.
+
+ZNF143 transcription factor mediates cell survival through upregulation of the
+GPX1 activity in the mitochondrial respiratory dysfunction.
+
+Lu W(1), Chen Z, Zhang H, Wang Y, Luo Y, Huang P.
+
+Author information: 
+(1)Department of Molecular Pathology, The University of Texas MD Anderson Cancer 
+Center, Houston, TX 77030, USA. wqlu@mdanderson.org
+
+Mitochondrial respiratory dysfunction has intimate relationship with redox
+regulation. The key mechanism about how the mitochondrial respiration-defective
+cells survive oxidative stress is still elusive. Here, we report that
+transcription factor zinc-finger protein 143 (ZNF143) expression and glutathione 
+peroxidase (GPX) activity are markedly increased in the mitochondrial
+respiratory-defective cells induced by dominant-negative DNA polymerase <U+03B3>
+(POLGdn). In this work, investigation of the cellular antioxidant glutathione
+(GSH) and enzyme GPX activity in the mitochondrial dysfunction revealed the
+presence of an increased synthesis of GSH through the activation of GCLC
+(glutamate-cysteine ligase catalytic subunit) and GCLM (glutamate-cysteine ligase
+regulatory subunit) gene expression, and also a positive upregulation of
+glutathione peroxidase 1 (GPX1) activity by the transcription factor ZNF143.
+Significant increase in gene expression of SepSecS, the key enzyme responsible
+for selenocysteine transfer RNA (tRNA) synthesis, further confirmed the
+activation of the selenocysteine synthesis pathway. By using both GPX1 and ZNF143
+knockdown, we provided insight into the involvement of ZNF143 in promoting GPX1
+activity and protecting cells from oxidative damage and cisplatin treatment in
+the mitochondrial dysfunction. Furthermore, we reported the possible regulation
+of mitochondrial transcription factor A (TFAM) in the mitochondrial dysfunction. 
+Our findings delineate an important antioxidant survival pathway that allows the 
+mitochondrial-defective cells to survive oxidative stress and cisplatin
+treatment.
+
+PMCID: PMC3542592
+PMID: 23152058  [PubMed - indexed for MEDLINE]
+
+
+21. BMC Mol Biol. 2012 Jan 23;13:3. doi: 10.1186/1471-2199-13-3.
+
+The transcriptional activator ZNF143 is essential for normal development in
+zebrafish.
+
+Halbig KM(1), Lekven AC, Kunkel GR.
+
+Author information: 
+(1)Department of Biochemistry and Biophysics, Texas A&M University, College
+Station, TX 77843-2128, USA.
+
+BACKGROUND: ZNF143 is a sequence-specific DNA-binding protein that stimulates
+transcription of both small RNA genes by RNA polymerase II or III, or
+protein-coding genes by RNA polymerase II, using separable activating domains. We
+describe phenotypic effects following knockdown of this protein in developing
+Danio rerio (zebrafish) embryos by injection of morpholino antisense
+oligonucleotides that target znf143 mRNA.
+RESULTS: The loss of function phenotype is pleiotropic and includes a broad array
+of abnormalities including defects in heart, blood, ear and midbrain hindbrain
+boundary. Defects are rescued by coinjection of synthetic mRNA encoding
+full-length ZNF143 protein, but not by protein lacking the amino-terminal
+activation domains. Accordingly, expression of several marker genes is affected
+following knockdown, including GATA-binding protein 1 (gata1), cardiac myosin
+light chain 2 (cmlc2) and paired box gene 2a (pax2a). The zebrafish pax2a gene
+proximal promoter contains two binding sites for ZNF143, and reporter gene
+transcription driven by this promoter in transfected cells is activated by this
+protein.
+CONCLUSIONS: Normal development of zebrafish embryos requires ZNF143.
+Furthermore, the pax2a gene is probably one example of many protein-coding gene
+targets of ZNF143 during zebrafish development.
+
+PMCID: PMC3282657
+PMID: 22268977  [PubMed - indexed for MEDLINE]
+
+
+22. Mol Cells. 2011 Nov;32(5):415-9. doi: 10.1007/s10059-011-0078-7. Epub 2011 Sep 5.
+
+GAIP-interacting protein, C-terminus is involved in the induction of zinc-finger 
+protein 143 in response to insulin-like growth factor-1 in colon cancer cells.
+
+Paek AR(1), You HJ.
+
+Author information: 
+(1)Carcinogenesis Branch, Division of Cancer Biology, Research Institute National
+Cancer Center, Goyang 410-769, Korea.
+
+Previously, we reported that the expression of zinc-finger protein 143 (ZNF143)
+was induced by insulin-like growth factor-1 (IGF-1) via reactive oxygen species
+(ROS)- and phosphatidylinositide-3-kinase (PI3-kinase)-linked pathways in colon
+cancer cells. Here, we investigated whether GAIP-interacting protein, C-terminus 
+(GIPC), a binding partner of IGF-1R, is involved in ZNF143 expression through
+IGF-1 and IGF-1R signaling in colon cancer cells. The knockdown of GIPC in colon 
+cancer cells reduced ZNF143 expression in response to IGF-1. IGF-1 signaling
+through its receptor, leading to the phosphorylation and activation of the
+PI3-kinase-Akt pathway and mitogenactivated protein kinases (MAPKs) was
+unaffected by the knockdown of GIPC, indicating the independence of the
+GIPC-linked pathway from PI3-kinase- and MAPK-linked signaling in IGF-1-induced
+ZNF143 expression. In accordance with previous results in breast cancer cells
+(Choi et al., 2010), the knockdown of GIPC reduced ROS production in response to 
+IGF-1 in colon cancer cells. Furthermore, the knockdown of GIPC reduced the
+expression of Rad51, which is regulated by ZNF143, in response to IGF-1 in colon 
+cancer cells. Taken together, these data suggest that GIPC is involved in IGF-1
+signaling leading to ZNF143 expression through the regulation of ROS production, 
+which may play a role for colon cancer tumorigenesis.
+
+PMCID: PMC3887697
+PMID: 21909943  [PubMed - indexed for MEDLINE]
+
+
+23. Proc Natl Acad Sci U S A. 2011 Sep 6;108(36):14908-13. doi:
+10.1073/pnas.1109023108. Epub 2011 Jul 7.
+
+Genome-wide analysis reveals conserved and divergent features of Notch1/RBPJ
+binding in human and murine T-lymphoblastic leukemia cells.
+
+Wang H(1), Zou J, Zhao B, Johannsen E, Ashworth T, Wong H, Pear WS, Schug J,
+Blacklow SC, Arnett KL, Bernstein BE, Kieff E, Aster JC.
+
+Author information: 
+(1)Department of Pathology, Brigham and Women's Hospital, Boston, MA 02115, USA.
+
+Comment in
+    Proc Natl Acad Sci U S A. 2011 Sep 6;108(36):14715-6.
+
+Notch1 regulates gene expression by associating with the DNA-binding factor RBPJ 
+and is oncogenic in murine and human T-cell progenitors. Using ChIP-Seq, we find 
+that in human and murine T-lymphoblastic leukemia (TLL) genomes Notch1 binds
+preferentially to promoters, to RBPJ binding sites, and near imputed ZNF143, ETS,
+and RUNX sites. ChIP-Seq confirmed that ZNF143 binds to ~40% of Notch1 sites.
+Notch1/ZNF143 sites are characterized by high Notch1 and ZNF143 signals, frequent
+cobinding of RBPJ (generally through sites embedded within ZNF143 motifs), strong
+promoter bias, and relatively low mean levels of activating chromatin marks. RBPJ
+and ZNF143 binding to DNA is mutually exclusive in vitro, suggesting RBPJ/Notch1 
+and ZNF143 complexes exchange on these sites in cells. K-means clustering of
+Notch1 binding sites and associated motifs identified conserved Notch1-RUNX,
+Notch1-ETS, Notch1-RBPJ, Notch1-ZNF143, and Notch1-ZNF143-ETS clusters with
+different genomic distributions and levels of chromatin marks. Although Notch1
+binds mainly to gene promoters, ~75% of direct target genes lack promoter binding
+and are presumably regulated by enhancers, which were identified near MYC, DTX1, 
+IGF1R, IL7R, and the GIMAP cluster. Human and murine TLL genomes also have many
+sites that bind only RBPJ. Murine RBPJ-only sites are highly enriched for imputed
+REST (a DNA-binding transcriptional repressor) sites, whereas human RPBJ-only
+sites lack REST motifs and are more highly enriched for imputed CREB sites. Thus,
+there is a conserved network of cis-regulatory factors that interacts with Notch1
+to regulate gene expression in TLL cells, as well as unique classes of divergent 
+RBPJ-only sites that also likely regulate transcription.
+
+PMCID: PMC3169118
+PMID: 21737748  [PubMed - indexed for MEDLINE]
+
+
+24. Biochem J. 2011 May 15;436(1):133-43. doi: 10.1042/BJ20101798.
+
+Adhesion-dependent Skp2 transcription requires selenocysteine tRNA gene
+transcription-activating factor (STAF).
+
+Hernández-Negrete I(1), Sala-Newby GB, Perl A, Kunkel GR, Newby AC, Bond M.
+
+Author information: 
+(1)Bristol Heart Institute, University of Bristol, Bristol Royal Infirmary,
+Bristol BS2 8HW, UK.
+
+Cell adhesion is essential for cell cycle progression in most normal cells. Loss 
+of adhesion dependence is a hallmark of cellular transformation. The F-box
+protein Skp2 (S-phase kinase-associated protein 2) controls G(1)-S-phase
+progression and is subject to adhesion-dependent transcriptional regulation,
+although the mechanisms are poorly understood. We identify two cross-species
+conserved binding elements for the STAF (selenocysteine tRNA gene
+transcription-activating factor) in the Skp2 promoter that are essential for Skp2
+promoter activity. Endogenous STAF specifically binds these elements in EMSA
+(electrophoretic mobility-shift assay) and ChIP (chromatin immunoprecipitation)
+analysis. STAF is sufficient and necessary for Skp2 promoter activity since
+exogenous STAF activates promoter activity and expression and STAF siRNA (small
+interfering RNA) inhibits Skp2 promoter activity, mRNA and protein expression and
+cell proliferation. Furthermore, ectopic Skp2 expression completely reverses the 
+inhibitory effects of STAF silencing on proliferation. Importantly, STAF
+expression and binding to the Skp2 promoter is adhesion-dependent and associated 
+with adhesion-dependent Skp2 expression in non-transformed cells. Ectopic STAF
+rescues Skp2 expression in suspension cells. Taken together, these results
+demonstrate that STAF is essential and sufficient for Skp2 promoter activity and 
+plays a role in the adhesion-dependent expression of Skp2 and ultimately cell
+proliferation.
+
+PMCID: PMC3105252
+PMID: 21352097  [PubMed - indexed for MEDLINE]
+
+
+25. Cancers (Basel). 2011 Oct 19;3(4):3909-20. doi: 10.3390/cancers3043909.
+
+Forced Expression of ZNF143 Restrains Cancer Cell Growth.
+
+Izumi H(1), Yasuniwa Y, Akiyama M, Yamaguchi T, Kuma A, Kitamura N, Kohno K.
+
+Author information: 
+(1)Department of Molecular Biology, School of Medicine, University of
+Occupational and Environmental Health, 1-1 Iseigaoka, Yahatanishi-ku, Kitakyushu 
+807-8555, Japan. h-izumi@med.uoeh-u.ac.jp.
+
+We previously reported that the transcription factor Zinc Finger Protein 143
+(ZNF143) regulates the expression of genes associated with cell cycle and cell
+division, and that downregulation of ZNF143 induces cell cycle arrest at G2/M. To
+assess the function of ZNF143 expression in the cell cycle, we established two
+cells with forced expression of ZNF143 derived from PC3 prostate cancer cell
+lines. These cell lines overexpress genes associated with cell cycle and cell
+division, such as polo-like kinase 1 (PLK1), aurora kinase B (AURKB) and some
+minichromosome maintenance complex components (MCM). However, the doubling time
+of cells with forced expression of ZNF143 was approximately twice as long as its 
+control counterpart cell line. Analysis following serum starvation and re-seeding
+showed that PC3 cells were synchronized at G1 in the cell cycle. Also, ZNF143
+expression fluctuated, and was at its lowest level in G2/M. However, PC3 cells
+with forced expression of ZNF143 synchronized at G2/M, and showed lack of cell
+cycle-dependent fluctuation of nuclear expression of MCM proteins. Furthermore,
+G2/M population of both cisplatin-resistant PCDP6 cells over-expressing ZNF143
+(derived from PC3 cells) and cells with forced expression of ZNF143 was
+significantly higher than that of each counterpart, and the doubling time of
+PCDP6 cells is about 2.5 times longer than that of PC3 cells. These data
+suggested that fluctuations in ZNF143 expression are required both for gene
+expression associated with cell cycle and for cell division.
+
+PMCID: PMC3763402
+PMID: 24213117  [PubMed]
+
+
+26. Nucleic Acids Res. 2011 Apr;39(8):3116-27. doi: 10.1093/nar/gkq1301. Epub 2010
+Dec 21.
+
+Genome-wide evidence for an essential role of the human Staf/ZNF143 transcription
+factor in bidirectional transcription.
+
+Anno YN(1), Myslinski E, Ngondo-Mbongo RP, Krol A, Poch O, Lecompte O, Carbon P.
+
+Author information: 
+(1)Department of Structural Biology and Genomics, Institut de Génétique et de
+Biologie Moléculaire et Cellulaire, The Centre National de la Recherche
+Scientifique, UMR7104, F-67400 Illkirch, France.
+
+In the human genome, ~ 10% of the genes are arranged head to head so that their
+transcription start sites reside within <1 kbp on opposite strands. In this
+configuration, a bidirectional promoter generally drives expression of the two
+genes. How bidirectional expression is performed from these particular promoters 
+constitutes a puzzling question. Here, by a combination of in silico and
+biochemical approaches, we demonstrate that hStaf/ZNF143 is involved in
+controlling expression from a subset of divergent gene pairs. The binding sites
+for hStaf/ZNF143 (SBS) are overrepresented in bidirectional versus unidirectional
+promoters. Chromatin immunoprecipitation assays with a significant set of
+bidirectional promoters containing putative SBS revealed that 93% of them are
+associated with hStaf/ZNF143. Expression of dual reporter genes directed by
+bidirectional promoters are dependent on the SBS integrity and requires
+hStaf/ZNF143. Furthermore, in some cases, functional SBS are located in
+bidirectional promoters of gene pairs encoding a noncoding RNA and a protein
+gene. Remarkably, hStaf/ZNF143 per se exhibits an inherently bidirectional
+transcription activity, and together our data provide the demonstration that
+hStaf/ZNF143 is indeed a transcription factor controlling the expression of
+divergent protein-protein and protein-non-coding RNA gene pairs.
+
+PMCID: PMC3082894
+PMID: 21177654  [PubMed - indexed for MEDLINE]
+
+
+27. Cancer Sci. 2010 Dec;101(12):2538-45. doi: 10.1111/j.1349-7006.2010.01725.x. Epub
+2010 Sep 23.
+
+Role of ZNF143 in tumor growth through transcriptional regulation of DNA
+replication and cell-cycle-associated genes.
+
+Izumi H(1), Wakasugi T, Shimajiri S, Tanimoto A, Sasaguri Y, Kashiwagi E,
+Yasuniwa Y, Akiyama M, Han B, Wu Y, Uchiumi T, Arao T, Nishio K, Yamazaki R,
+Kohno K.
+
+Author information: 
+(1)Department of Molecular Biology Otorhinolaryngology Pathology and Cell
+Biology, School of Medicine, University of Occupational and Environmental Health,
+Kitakyushu, Japan.
+
+The cell cycle is strictly regulated by numerous mechanisms to ensure cell
+division. The transcriptional regulation of cell-cycle-related genes is poorly
+understood, with the exception of the E2F family that governs the cell cycle.
+Here, we show that a transcription factor, zinc finger protein 143 (ZNF143),
+positively regulates many cell-cycle-associated genes and is highly expressed in 
+multiple solid tumors. RNA-interference (RNAi)-mediated knockdown of ZNF143
+showed that expression of 152 genes was downregulated in human prostate cancer
+PC3 cells. Among these ZNF143 targets, 41 genes (27%) were associated with cell
+cycle and DNA replication including cell division cycle 6 homolog (CDC6),
+polo-like kinase 1 (PLK1) and minichromosome maintenance complex component (MCM) 
+DNA replication proteins. Furthermore, RNAi of ZNF143 induced apoptosis following
+G2/M cell cycle arrest. Cell growth of 10 lung cancer cell lines was
+significantly correlated with cellular expression of ZNF143. Our data suggest
+that ZNF143 might be a master regulator of the cell cycle. Our findings also
+indicate that ZNF143 is a member of the growing list of non-oncogenes that are
+promising cancer drug targets.
+
+© 2010 Japanese Cancer Association.
+
+PMID: 20860770  [PubMed - indexed for MEDLINE]
+
+
+28. Exp Mol Med. 2010 Oct 31;42(10):696-702.
+
+IGF-1 induces expression of zinc-finger protein 143 in colon cancer cells through
+phosphatidylinositide 3-kinase and reactive oxygen species.
+
+Paek AR(1), Kim SH, Kim SS, Kim KT, You HJ.
+
+Author information: 
+(1)Carcinogenesis Branch, Division of Cancer Biology, Research Institute National
+Cancer Center, Goyang 410-769, Korea.
+
+Expression of zinc-finger protein 143 (ZNF143), a human homolog of the Xenopus
+transcriptional activator protein Staf, is induced by various DNA-damaging agents
+including etoposide, doxorubicin, and gamma-irradiation. ZNF143 binds to
+cisplatin-modified DNA, and its levels are increased in cancer cells that are
+resistant to anticancer drugs, including cisplatin, suggesting that it plays a
+role in carcinogenesis and cancer cell survival. However, the mechanism of ZNF143
+induction in cancer cells remains unclear. Both insulin-like growth factor-1
+(IGF-1) and its receptor (IGF-1R) have been reported to be overexpressed in
+cancer cells and to be related to anticancer drug resistance, but the identity of
+the relevant signaling mediators is still being investigated. In the present
+study, we observed that IGF-1 was able to induce ZNF143 expression in HCT116
+human colon cancer cells and that wortmannin, an inhibitor of
+phosphatidylinositide 3- kinase (PI3-kinase), inhibited this induction, as did
+diphenyleneiodonium (DPI), an NADPH oxidase inhibitor, and monodansylcardavarine 
+(MDC), a receptor internalization inhibitor. Treatment with MDC decreased the
+IGF-1-stimulated generation of reactive oxygen species. Taken together, these
+data suggest that IGF-1 induces ZNF143 expression in cancer cells via PI3-kinase 
+and reactive oxygen species generation during receptor internalization.
+
+PMCID: PMC2966743
+PMID: 20733350  [PubMed - indexed for MEDLINE]
+
+
+29. Biochem Biophys Res Commun. 2010 Feb 26;393(1):111-7. doi:
+10.1016/j.bbrc.2010.01.094. Epub 2010 Jan 29.
+
+Transcriptional regulation of the human establishment of cohesion 1 homolog 2
+gene.
+
+Nishihara M(1), Yamada M, Nozaki M, Nakahira K, Yanagihara I.
+
+Author information: 
+(1)Department of Developmental Medicine, Osaka Medical Center and Research
+Institute for Maternal and Child Health, Izumi, Osaka 594-1101, Japan.
+
+Transcriptional regulation of human establishment of cohesion 1 homolog 2
+(ESCO2), the causative gene of Roberts syndrome, was investigated. Deletion and
+mutation analyses of the ESCO2 promoter indicated that the selenocysteine
+tRNA-activating factor (Staf) binding site (SBS) is an essential element for
+transcriptional activation of ESCO2. Electrophoretic mobility shift assay (EMSA) 
+and chromatin immunoprecipitation (ChIP) assay revealed that the zinc finger
+protein 143 (ZNF143), a human homolog of Xenopus Staf, bound to the ESCO2
+promoter. The ACTACAN submotif, adjacent to SBS, also contributed to
+transcriptional activation of ESCO2. EMSA indicated that the ACTACAN submotif was
+not involved in binding of ZNF143 to SBS. S phase-specific expression of the
+ESCO2 gene was confirmed by real-time reverse transcriptase-polymerase chain
+reaction (RT-PCR), but EMSA revealed binding of ZNF143 to SBS in G1/S and G2/M
+phases. These results demonstrated that SBS functioned as the basal
+transcriptional activator of the S phase-specific gene ESCO2, but other
+mechanisms are required for cell cycle-dependent expression.
+
+Copyright 2010 Elsevier Inc. All rights reserved.
+
+PMID: 20116366  [PubMed - indexed for MEDLINE]
+
+
+30. Rinsho Byori. 2009 Oct;57(10):978-86.
+
+[Cisplatin sensitivity transcriptional factor and mitochondrial DNA maintenance
+protein].
+
+[Article in Japanese]
+
+Uchiumi T(1), Knag D.
+
+Author information: 
+(1)Department of Clinical Chemistry and Laboratory Medicine, Graduated School of 
+Medical Sciences, Kyushu University, Fukuoka 812-8582, Japan.
+uchiumi@cclm.med.kyushu-u.ac.jp
+
+Cisplatin is one of the most commonly used chemotherapeutic agents, with
+demonstrated activity against a diverse spectrum of malignancies, including
+testicular cancer, ovarian carcinoma, and head/neck tumors. However, the
+therapeutic efficacy of the drug is limited by the severity of its side effects
+and the potential progression of tumor cells to a cisplatin-resistant state. We
+found that the transcription factors of genes involved in cisplatin resistance
+are often overexpressed or activated in cisplatin-resistant cells. In this paper,
+we describe ATF4, Clock, ZNF143, and YB-1 as cisplatin resistance genes. Clock
+and the ATF4 transcription system might play an important role in multidrug
+resistance through the glutathione-dependent redox system, and the physiological 
+potential of the Clock-controlled redox system might be important to better
+understand oxidative stress-associated disorders including cancer and systemic
+chronotherapy. We also describe the basis for understanding the effects of
+cisplatin on mitochondrial activity and the mechanisms of cellular toxicity and
+resistance caused by this drug.
+
+PMID: 19928495  [PubMed - indexed for MEDLINE]
+
+
+31. Nucleic Acids Res. 2010 Jan;38(2):370-81. doi: 10.1093/nar/gkp988. Epub 2009 Nov 
+11.
+
+The scaRNA2 is produced by an independent transcription unit and its processing
+is directed by the encoding region.
+
+Gérard MA(1), Myslinski E, Chylak N, Baudrey S, Krol A, Carbon P.
+
+Author information: 
+(1)Architecture et Réactivité de l'ARN, Université de Strasbourg, CNRS, IBMC, 15 
+rue René Descartes, 67084 Strasbourg, France.
+
+The C/D box scaRNA2 is predicted to guide specific 2'-O-methylation of U2 snRNA. 
+In contrast to other SCARNA genes, SCARNA2 appears to be independently
+transcribed. By transient expression of SCARNA2-reporter gene constructs, we have
+demonstrated that this gene is transcribed by RNA polymerase II and that the
+promoter elements responsible for its transcription are contained within a 161 bp
+region upstream of the transcription start site. In mammals, we have identified
+four cross species conserved promoter elements, a TATA motif, an hStaf/ZNF143
+binding site and two novel elements that are required for full promoter activity.
+Binding of the human hStaf/ZNF143 transcription factor to its target sequence is 
+required for promoter activity, suggesting that hStaf/ZNF143 is a fundamental
+regulator of the SCARNA2 gene. We also showed that RNA polymerase II continues
+transcription past the 3'-end of the mature RNA, irrespective of the identity of 
+the Pol II promoter. The 3'-end processing and accumulation are governed by the
+sole information contained in the scaRNA2 encoding region, the maturation
+occurring via a particular pathway incompatible with that of mRNA or snRNA
+production.
+
+PMCID: PMC2811027
+PMID: 19906720  [PubMed - indexed for MEDLINE]
+
+
+32. Gene. 2008 Sep 15;421(1-2):89-94. doi: 10.1016/j.gene.2008.06.019. Epub 2008 Jun 
+21.
+
+Zebrafish U6 small nuclear RNA gene promoters contain a SPH element in an unusual
+location.
+
+Halbig KM(1), Lekven AC, Kunkel GR.
+
+Author information: 
+(1)Department of Biochemistry and Biophysics, Texas A&M University, College
+Station, TX 77843-2128, USA.
+
+Promoters for vertebrate small nuclear RNA (snRNA) genes contain a relatively
+simple array of transcriptional control elements, divided into proximal and
+distal regions. Most of these genes are transcribed by RNA polymerase II (e.g.,
+U1, U2), whereas the U6 gene is transcribed by RNA polymerase III. Previously
+identified vertebrate U6 snRNA gene promoters consist of a proximal sequence
+element (PSE) and TATA element in the proximal region, plus a distal region with 
+octamer (OCT) and SphI postoctamer homology (SPH) elements. We have found that
+zebrafish U6 snRNA promoters contain the SPH element in a novel proximal position
+immediately upstream of the TATA element. The zebrafish SPH element is recognized
+by SPH-binding factor/selenocysteine tRNA gene transcription activating
+factor/zinc finger protein 143 (SBF/Staf/ZNF143) in vitro. Furthermore, a
+zebrafish U6 promoter with a defective SPH element is inefficiently transcribed
+when injected into embryos.
+
+PMID: 18619527  [PubMed - indexed for MEDLINE]
+
+
+33. Gene. 2008 Jan 31;408(1-2):72-84. Epub 2007 Nov 1.
+
+Deciphering the cis-regulatory elements of co-expressed genes in PCOS by in
+silico analysis.
+
+Sarkar C(1), Maitra A.
+
+Author information: 
+(1)Department of Molecular Endocrinology, National Institute for Research in
+Reproductive Health (ICMR), Mumbai-400012, Parel, India.
+
+Erratum in
+    Gene. 2009 Feb 15;431(1-2):95.
+
+In recent times, the focus of research in polycystic ovary syndrome (PCOS) has
+shifted from candidate gene(s) approach to whole genome analysis for deciphering 
+its molecular pathophysiology. In this regard, several microarray studies have
+been published, showing differential expression of genes between normal and PCOS 
+states. Co-expression of genes as obtained in microarray experiments can also
+imply co-regulation at the transcriptional level by various transcription
+factors. In order to identify such transcription factors, the in silico
+elucidation of Transcription Factor Binding Sites (TFBS) is emerging as an
+important tool. With this hypothesis, we looked for TFBS over-representation in a
+PCOS microarray gene set (n=130) using in silico tools. We extracted 1000 bps
+upstream and 200 bps downstream regions from all these genes and identified 4
+different TFBS, which were over-represented as compared to a human promoter
+background model. These four transcription factors are Staf, E47, CCAAT and
+CRE-BP1/c-jun. The role of these transcription factors and their compatible
+members in PCOS pathophysiology is described in details in the text. The factors 
+might provide a novel insight into the pathophysiology of PCOS.
+
+PMID: 18055135  [PubMed - indexed for MEDLINE]
+
+
+34. Mol Cell Biol. 2008 Jan;28(1):108-21. Epub 2007 Oct 29.
+
+STAGA recruits Mediator to the MYC oncoprotein to stimulate transcription and
+cell proliferation.
+
+Liu X(1), Vorontchikhina M, Wang YL, Faiola F, Martinez E.
+
+Author information: 
+(1)Department of Biochemistry, University of California, Riverside, Riverside, CA
+92521, USA.
+
+Activation of eukaryotic gene transcription involves the recruitment by
+DNA-binding activators of multiprotein histone acetyltransferase (HAT) and
+Mediator complexes. How these coactivator complexes functionally cooperate and
+the roles of the different subunits/modules remain unclear. Here we report
+physical interactions between the human HAT complex STAGA
+(SPT3-TAF9-GCN5-acetylase) and a "core" form of the Mediator complex during
+transcription activation by the MYC oncoprotein. Knockdown of the STAF65gamma
+component of STAGA in human cells prevents the stable association of TRRAP and
+GCN5 with the SPT3 and TAF9 subunits; impairs transcription of MYC-dependent
+genes, including MYC transactivation of the telomerase reverse transcriptase
+(TERT) promoter; and inhibits proliferation of MYC-dependent cells. STAF65gamma
+is required for SPT3/STAGA interaction with core Mediator and for MYC recruitment
+of SPT3, TAF9, and core Mediator components to the TERT promoter but is
+dispensable for MYC recruitment of TRRAP, GCN5, and p300 and for acetylation of
+nucleosomes and loading of TFIID and RNA polymerase II on the promoter. These
+results suggest a novel STAF65gamma-dependent function of STAGA-type complexes in
+cell proliferation and transcription activation by MYC postloading of TFIID and
+RNA polymerase II that involves direct recruitment of core Mediator.
+
+PMCID: PMC2223283
+PMID: 17967894  [PubMed - indexed for MEDLINE]
+
+
+35. Mol Cell Biol. 2007 Dec;27(24):8729-38. Epub 2007 Oct 15.
+
+CHD8 associates with human Staf and contributes to efficient U6 RNA polymerase
+III transcription.
+
+Yuan CC(1), Zhao X, Florens L, Swanson SK, Washburn MP, Hernandez N.
+
+Author information: 
+(1)Stony Brook University, Graduate Program in Molecular and Cellular Biology,
+Stony Brook, New York 11794, USA.
+
+Chromatin remodeling and histone modification are essential for eukaryotic
+transcription regulation, but little is known about chromatin-modifying
+activities acting on RNA polymerase III (Pol III)-transcribed genes. The human U6
+small nuclear RNA promoter, located 5' of the transcription start site, consists 
+of a core region directing basal transcription and an activating region that
+recruits the transcription factors Oct-1 and Staf (ZNF143). Oct-1 activates
+transcription in part by helping recruit core binding factors, but nothing is
+known about the mechanisms of transcription activation by Staf. We show that Staf
+activates U6 transcription from a preassembled chromatin template in vitro and
+associates with several proteins linked to chromatin modification, among them
+chromodomain-helicase-DNA binding protein 8 (CHD8). CHD8 binds to histone H3 di- 
+and trimethylated on lysine 4. It resides on the human U6 promoter as well as the
+mRNA IRF3 promoter in vivo and contributes to efficient transcription from both
+these promoters. Thus, Pol III transcription from type 3 promoters uses some of
+the same factors used for chromatin remodeling at Pol II promoters.
+
+PMCID: PMC2169411
+PMID: 17938208  [PubMed - indexed for MEDLINE]
+
+
+36. Gene. 2007 Oct 15;401(1-2):145-53. Epub 2007 Jul 21.
+
+Transcription factor hStaf/ZNF143 is required for expression of the human TFAM
+gene.
+
+Gérard MA(1), Krol A, Carbon P.
+
+Author information: 
+(1)Architecture et Réactivité de l'ARN, Université Louis Pasteur de Strasbourg,
+CNRS, IBMC, 15 rue René Descartes, 67084 Strasbourg, France.
+
+The mitochondrial transcription factor A (Tfam) is essential for transcription
+initiation and replication of mitochondrial DNA. It was previously reported that 
+transcription factors Sp1, NRF-1, NRF-2 were critical for maintaining the normal 
+transcription levels of the mammalian TFAM gene. In this work, investigation of
+the transcriptional regulation of the human TFAM gene revealed the presence of
+two cross-species conserved binding sites for the transcription factor
+hStaf/ZNF143. By using promoter binding assays, transient expression of mutant
+TFAM reporter gene constructs and chromatin immunoprecipitation experiments, we
+provided insight into the involvement of hStaf/ZNF143 in promoter activity.
+Furthermore, we reported the identification of two other functionally important
+elements. Altogether, our data led to the conclusion that the promoter of the
+human TFAM gene harbors a complex organization with at least six transcriptional 
+regulatory elements.
+
+PMID: 17707600  [PubMed - indexed for MEDLINE]
+
+
+37. Nucleic Acids Res. 2007;35(10):3453-64. Epub 2007 May 3.
+
+Transcription of the human cell cycle regulated BUB1B gene requires hStaf/ZNF143.
+
+Myslinski E(1), Gérard MA, Krol A, Carbon P.
+
+Author information: 
+(1)Architecture et Réactivité de l'ARN, Université Louis Pasteur de Strasbourg,
+CNRS, IBMC, 15 rue René Descartes, 67084 Strasbourg, France.
+
+BubR1 is a key protein mediating spindle checkpoint activation. Loss of this
+checkpoint control results in chromosomal instability and aneuploidy. The
+transcriptional regulation of the cell cycle regulated human BUB1B gene, which
+encodes BubR1, was investigated in this report. A minimal BUB1B gene promoter
+containing 464 bp upstream from the translation initiation codon was sufficient
+for cell cycle regulated promoter activity. A pivotal role for transcription
+factor hStaf/ZNF143 in the expression of the BUB1B gene was demonstrated through 
+gel retardation assays, transient expression of mutant BUB1B promoter-reporter
+gene constructs and chromatin immunoprecipitation assay. Two phylogenetically
+conserved hStaf/ZNF143-binding sites (SBS) were identified which are
+indispensable for BUB1B promoter activity. In addition, we found that the domain 
+covering the transcription start sites contains conserved boxes homologous to
+initiator (Inr), cell cycle dependent (CDE) and cell cycle genes homology regions
+(CHR) elements. Mutations within the CDE and CHR elements led to diminished cell 
+cycle regulation of BUB1B transcription. These results demonstrate that BUB1B
+gene transcription is positively regulated by hStaf/ZNF143, a ubiquitously
+expressed factor, and that the CDE-CHR tandem element was essential for
+G2/M-specific transcription of the BUB1B gene.
+
+PMCID: PMC1904299
+PMID: 17478512  [PubMed - indexed for MEDLINE]
+
+
+38. Oncogene. 2007 Aug 9;26(36):5194-203. Epub 2007 Feb 12.
+
+ZNF143 interacts with p73 and is involved in cisplatin resistance through the
+transcriptional regulation of DNA repair genes.
+
+Wakasugi T(1), Izumi H, Uchiumi T, Suzuki H, Arao T, Nishio K, Kohno K.
+
+Author information: 
+(1)Department of Molecular Biology, School of Medicine, University of
+Occupational and Environmental Health, Kitakyushu, Japan.
+
+Zinc-finger protein 143 (ZNF143) is a human homolog of Xenopus transcriptional
+activator staf that is involved in selenocystyl tRNA transcription. We previously
+showed that ZNF143 expression is induced by treatment with DNA-damaging agents
+and that it preferentially binds to cisplatin-modified DNA. In this study, the
+potential function of ZNF143 was investigated. ZNF143 was overexpressed in
+cisplatin-resistant cells. ZNF143 knockdown in prostate cancer caused increased
+sensitivity for cisplatin, but not for oxaliplatin, etoposide and vincristine. We
+also showed that ZNF143 is associated with tumor suppressor gene product p73 but 
+not with p53. p73 could stimulate the binding of ZNF143 to both ZNF143 binding
+site and cisplatin-modified DNA, and modulate the function of ZNF143. We provide 
+a direct evidence that both Rad51 and flap endonuclease-1 are target genes of
+ZNF143 and overexpressed in cisplatin-resistant cells. Taken together, these
+experiments demonstrate that an interplay of ZNF143, p73 and ZNF143 target genes 
+is involved in DNA repair gene expression and cisplatin resistance.
+
+PMID: 17297437  [PubMed - indexed for MEDLINE]
+
+
+39. J Biol Chem. 2006 Dec 29;281(52):39953-62. Epub 2006 Nov 7.
+
+A genome scale location analysis of human Staf/ZNF143-binding sites suggests a
+widespread role for human Staf/ZNF143 in mammalian promoters.
+
+Myslinski E(1), Gérard MA, Krol A, Carbon P.
+
+Author information: 
+(1)Institut de Biologie Moléculaire et Cellulaire, UPR CNRS Architecture et
+Réactivité de l'ARN, Université Louis Pasteur, 15 Rue René Descartes, 67084
+Strasbourg Cedex, France.
+
+Staf was originally identified as the transcriptional activator of Xenopus
+tRNA(Sec) and small nuclear (sn) RNA-type genes. Recently, transcription of seven
+human (h) protein coding genes was reported to be activated by the human ortholog
+hStaf/ZNF143. Here we have used a combined in silico and biochemical approach to 
+identify 1175 conserved hStaf/ZNF143-binding sites (SBS) distributed in 938
+promoters of four mammalian genomes. The SBS shows a significant positional
+preference and occurs mostly within 200 bp upstream of the transcription start
+site. Chromatin immunoprecipitation assays with 295 of the promoters established 
+that 90% contain bona fide SBS. By extrapolating the values of this mapping to
+the full sizes of the mammalian genomes, we can infer the existence of at least
+2500 SBS distributed in 2000 promoters. This unexpected large number strongly
+suggests that SBS constitutes one of the most widespread transcription
+factor-binding sites in mammalian promoters. Furthermore, we demonstrated that
+the presence of the SBS alone is sufficient to direct expression of a luciferase 
+reporter gene, suggesting that hStaf/ZNF143 can recruit per se the transcription 
+machinery.
+
+PMID: 17092945  [PubMed - indexed for MEDLINE]
+
+
+40. Curr Med Chem Anticancer Agents. 2005 Jan;5(1):15-27.
+
+Cisplatin resistance and transcription factors.
+
+Torigoe T(1), Izumi H, Ishiguchi H, Yoshida Y, Tanabe M, Yoshida T, Igarashi T,
+Niina I, Wakasugi T, Imaizumi T, Momii Y, Kuwano M, Kohno K.
+
+Author information: 
+(1)Department of Molecular Biology, University of Occupational and Environmental 
+Health, School of Medicine, 1-1 Iseigaoka, Yahatanishi-ku, Kitakyushu, Fukuoka
+807-8555, Japan.
+
+Cisplatin is one of the most potent and widely used anti-cancer agents in the
+treatment of various solid tumors. However, the development of resistance to
+cisplatin is a major obstacle in clinical treatment. Several mechanisms are
+thought to be involved in cisplatin resistance, including decreased intracellular
+drug accumulation, increased levels of cellular thiols, increased nucleotide
+excision-repair activity and decreased mismatch-repair activity. In general, the 
+molecules responsible for each mechanism are upregulated in cisplatin-resistant
+cells; this indicates that the transcription factors activated in response to
+cisplatin might play crucial roles in drug resistance. It is known that the
+tumor-suppressor proteins p53 and p73, and the oncoprotein c-Myc, which function 
+as transcription factors, influence cellular sensitivity to cisplatin. So far, we
+have identified several transcription factors involved in cisplatin resistance,
+including Y-box binding protein-1 (YB-1), CCAAT-binding transcription factor 2
+(CTF2), activating transcription factor 4 (ATF4), zinc-finger factor 143 (ZNF143)
+and mitochondrial transcription factor A (mtTFA). Two of these-YB-1 and
+ZNF143-lack the high-mobility group (HMG) domain and can bind preferentially to
+cisplatin-modified DNA in addition to HMG domain proteins or DNA repair proteins,
+indicating that these transcription factors may also participate in DNA repair.
+In this review, we summarize the mechanisms of cisplatin resistance and focus on 
+transcription factors involved in the genomic response to cisplatin.
+
+PMID: 15720258  [PubMed - indexed for MEDLINE]
+
+
+41. Int J Cancer. 2004 Oct 10;111(6):900-9.
+
+ZNF143 activates gene expression in response to DNA damage and binds to
+cisplatin-modified DNA.
+
+Ishiguchi H(1), Izumi H, Torigoe T, Yoshida Y, Kubota H, Tsuji S, Kohno K.
+
+Author information: 
+(1)Department of Molecular Biology, University of Occupational and Environmental 
+Health, School of Medicine, Fukuoka, Japan.
+
+We have identified a cisplatin-inducible gene, the mitochondrial ribosomal
+protein S11 (MRP S11) gene, by means of mRNA differential display. Functional
+analysis of the MRP S11 promoter showed that a Staf binding site in the promoter 
+is required for both basal promoter activity and cisplatin-inducible activity. We
+also found that Staf binding activity is significantly increased in nuclear
+extracts from cells treated with cisplatin. ZNF 143 and ZNF 76 are human
+homologues of the Xenopus transcriptional activator, Staf. ZNF 143 expression is 
+induced by cisplatin but ZNF 76 expression is not. However, ZNF 143 expression is
+not induced by transplatin, which is clinically ineffective. ZNF143 is an
+inducible gene by other DNA damaging agents such as gamma-irradiation, etoposide 
+and adriamycin. ZNF 143 also binds preferentially to cisplatin-modified DNA.
+These results suggest that ZNF 143 participates in cellular responses to DNA
+damage.
+
+PMID: 15300802  [PubMed - indexed for MEDLINE]
+
+
+42. J Biol Chem. 2004 Mar 26;279(13):12190-205. Epub 2003 Dec 31.
+
+ZNF143 mediates basal and tissue-specific expression of human transaldolase.
+
+Grossman CE(1), Qian Y, Banki K, Perl A.
+
+Author information: 
+(1)Department of Medicine, State University of New York, Upstate Medical
+University, College of Medicine, 750 East Adams Street, Syracuse, NY 13210, USA.
+
+Transaldolase regulates redox-dependent apoptosis through controlling NADPH and
+ribose 5-phosphate production via the pentose phosphate pathway. The minimal
+promoter sufficient to drive chloramphenicol acetyltransferase reporter gene
+activity was mapped to nucleotides -49 to -1 relative to the transcription start 
+site of the human transaldolase gene. DNase I footprinting with nuclear extracts 
+of transaldolase-expressing cell lines unveiled protection of nucleotides -29 to 
+-16. Electrophoretic mobility shift assays identified a single dominant
+DNA-protein complex that was abolished by consensus sequence for transcription
+factor ZNF143/76 or mutation of the ZNF76/143 motif within the transaldolase
+promoter. Mutation of an AP-2alpha recognition sequence, partially overlapping
+the ZNF143 motif, increased TAL-H promoter activity in HeLa cells, without
+significant impact on HepG2 cells, which do not express AP-2alpha. Cooperativity 
+of ZNF143 with AP-2alpha was supported by supershift analysis of HeLa cells where
+AP-2 may act as cell type-specific repressor of TAL promoter activity. However,
+overexpression of full-length ZNF143, ZNF76, or dominant-negative DNA-binding
+domain of ZNF143 enhanced, maintained, or abolished transaldolase promoter
+activity, respectively, in HepG2 and HeLa cells, suggesting that ZNF143 initiates
+transcription from the transaldolase core promoter. ZNF143 overexpression also
+increased transaldolase enzyme activity. ZNF143 and transaldolase expression
+correlated in 21 different human tissues and were coordinately upregulated 14-
+and 34-fold, respectively, in lactating mammary glands compared with nonlactating
+ones. Chromatin immunoprecipitation studies confirm that ZNF143/73 associates
+with the transaldolase promoter in vivo. Thus, ZNF143 plays a key role in basal
+and tissue-specific expression of transaldolase and regulation of the metabolic
+network controlling cell survival and differentiation.
+
+PMID: 14702349  [PubMed - indexed for MEDLINE]
+
+
+43. J Biol Chem. 2004 Feb 27;279(9):7734-9. Epub 2003 Dec 12.
+
+Human synaptobrevin-like 1 gene basal transcription is regulated through the
+interaction of selenocysteine tRNA gene transcription activating factor-zinc
+finger 143 factors with evolutionary conserved cis-elements.
+
+Di Leva F(1), Ferrante MI, Demarchi F, Caravelli A, Matarazzo MR, Giacca M,
+D'Urso M, D'Esposito M, Franzé A.
+
+Author information: 
+(1)Institute of Genetics and Biophysics A. Buzzati Traverso, Consiglio Nazionale 
+delle Ricerche, 80131 Naples, Italy.
+
+The synaptobrevin-like 1 (SYBL1) gene is ubiquitously expressed and codes for an 
+unusual member of the v-SNAREs molecules implicated in cellular exocytosis. This 
+X-linked gene has the peculiarity of also being present on the Y chromosome in a 
+transcriptional inactive status. Moreover, although ubiquitous, the function of
+SYBL1 is prominent in specific tissues, such as brain. As a first insight into
+the molecular mechanisms controlling SYBL1 expression, in this report we describe
+the extent and role of SYBL1 upstream regions and characterize the binding of
+trans-acting factors. In vivo foot-printing experiments identify three protected 
+regions. Band shift and transient reporter gene assays indicate a strong role of 
+two of these evolutionary conserved regions in regulating SYBL1 transcription.
+Because one site is the classical CAAT box, we characterized the binding to the
+other site of the mammalian homologues of the selenocysteine tRNA gene
+transcription activating factor (Staf) family, zinc-finger transcription factors,
+and their role in regulating SYBL1 expression. The results reported here clarify 
+that a Staf-zinc finger family factor, together with the CAAT factor, is the
+major nuclear protein bound to the SYBL1 promoter region and is responsible for
+its regulation in HeLa cells, thus identifying the basic control of SYBL1
+transcription. In vivo binding of Staf proteins to the SYBL1 promoter is
+confirmed by chromatin immunoprecipitation assays. Our results identify a fourth 
+mRNA promoter stimulated by a member of the Staf-zinc finger family, the function
+of which on mRNA polymerase II promoters is still very poorly understood.
+
+PMID: 14672948  [PubMed - indexed for MEDLINE]
+
+
+44. Genomics. 2004 Jan;83(1):119-29.
+
+Regulation of aldehyde reductase expression by STAF and CHOP.
+
+Barski OA(1), Papusha VZ, Kunkel GR, Gabbay KH.
+
+Author information: 
+(1)Harry B. & Aileen Gordon Diabetes Research Laboratory, Molecular Diabetes &
+Metabolism Section, Department of Pediatrics, Baylor College of Medicine,
+Houston, TX 77030, USA. obarski@bcm.tmc.edu
+
+Aldehyde reductase is involved in the reductive detoxification of reactive
+aldehydes that can modify cellular macromolecules. To analyze the mechanism of
+basal regulation of aldehyde reductase expression, we cloned the murine gene and 
+adjacent regulatory region and compared it to the human gene. The mouse enzyme
+exhibits substrate specificity similar to that of the human enzyme, but with a
+2-fold higher catalytic efficiency. In contrast to the mouse gene, the human
+aldehyde reductase gene has two alternatively spliced transcripts. A fragment of 
+57 bp is sufficient for 25% of human promoter activity and consists of two
+elements. The 3' element binds transcription factors of the Sp1 family. Gel-shift
+assays and chromatin immunoprecipitation as well as deletion/mutation analysis
+reveal that selenocysteine tRNA transcription activating factor (STAF) binds to
+the 5' element and drives constitutive expression of both mouse and human
+aldehyde reductase. Aldehyde reductase thus becomes the fourth protein-encoding
+gene regulated by STAF. The human, but not the mouse, promoter also binds C/EBP
+homologous protein (CHOP), which competes with STAF for the same binding site.
+Transfection of the human promoter into ethoxyquin-treated mouse 3T3 cells
+induces a 3.5-fold increase in promoter activity and a CHOP-C/EBP band appears on
+gel shifts performed with the 5' probe from the human aldehyde reductase
+promoter. Induction is attenuated in similar transfection studies of the mouse
+promoter. Mutation of the CHOP-binding site in the human promoter abolishes CHOP 
+binding and significantly reduces ethoxyquin induction, suggesting that CHOP
+mediates stimulated expression in response to antioxidants in the human. This
+subtle difference in the human promoter suggests a further evolution of the
+promoter toward responsiveness to exogenous stress and/or toxins.
+
+PMID: 14667815  [PubMed - indexed for MEDLINE]
+
+
+45. J Biol Chem. 2002 Jul 12;277(28):25798-814. Epub 2002 Apr 17.
+
+Complex regulation of human neuronal nitric-oxide synthase exon 1c gene
+transcription. Essential role of Sp and ZNF family members of transcription
+factors.
+
+Saur D(1), Seidler B, Paehge H, Schusdziarra V, Allescher HD.
+
+Author information: 
+(1)Department of Internal Medicine II, Technische Universität München, Germany.
+Saur@lrz.tu-muenchen.de
+
+Neuronal nitric-oxide synthase (nNOS) is expressed in a variety of human tissues 
+and shows a complex transcriptional regulation with the presence of nine
+alternative first exons (1a-1i) resulting in nNOS transcripts with differing
+5'-untranslated regions. We previously demonstrated that nNOS exon 1c, one of the
+predominant transcripts in the human gastrointestinal tract, is driven by a
+separate promoter (Saur, D., Paehge, H., Schusdziarra, V., and Allescher, H. D.
+(2000) Gastroenterology 118, 849-858). The present study focused on the
+quantitative expression of nNOS first exon variants in different human tissues
+and the characterization of the basal nNOS exon 1c promoter. In human brain,
+skeletal muscle, colon, and TGW-nu-I neuroblastoma cells, first exon expression
+patterns were analyzed by quantitative real-time reverse transcription-PCR. In
+these tissues/cells exon 1c was one of the most abundant first exons of nNOS. By 
+transient transfections of TGW-nu-I and HeLa cells with reporter plasmids
+containing a series of 5' and 3' deletions in the exon 1c regulatory region, the 
+minimal TATA-less promoter was localized within 44 base pairs. Gel mobility shift
+assays of this cis-regulatory region revealed a high complexity of the basal
+promoter with a cooperative binding of several transcription factors, like Sp and
+ZNF family members. When the Sp binding site of the minimal promoter construct
+was mutated, promoter activity was completely abolished in both cell lines,
+whereas mutation of the common binding site of ZNF76 and ZNF143 resulted in a
+decrease of 53% in TGW-nu-I and 37% in HeLa cells. In Drosophila Schneider cells 
+expression of Sp1, the long Sp3 isoform, ZNF76 and ZNF143 potently transactivated
+the nNOS exon 1c promoter. These results identify the critical regulatory region 
+for the nNOS exon 1c basal promoter and stress the functional importance of
+multiple protein complexes involving Sp and ZNF families of transcription factors
+in regulating nNOS exon 1c transcription.
+
+PMID: 11960979  [PubMed - indexed for MEDLINE]
+
+
+46. J Biol Chem. 2002 Feb 15;277(7):4853-8. Epub 2001 Nov 27.
+
+The Small RNA gene activator protein, SphI postoctamer homology-binding
+factor/selenocysteine tRNA gene transcription activating factor, stimulates
+transcription of the human interferon regulatory factor-3 gene.
+
+Mach CM(1), Hargrove BW, Kunkel GR.
+
+Author information: 
+(1)Department of Biochemistry and Biophysics, Texas A&M University, College
+Station, Texas 77843-2128, USA.
+
+Many small nuclear RNA gene promoters are activated by SphI postoctamer homology 
+(SPH)-binding factor/selenocysteine tRNA gene transcription activating factor
+(SBF/Staf). Whereas this transcription factor was initially identified by its
+ability to bind to SPH elements in such promoters, it was more recently shown to 
+have the capacity to activate transcription of a synthetic mRNA gene promoter
+through a distinct activation domain. Here, we show that the human interferon
+regulatory factor-3 (IRF-3) gene promoter contains a functional SPH element that 
+is bound by SBF/Staf in vitro and in transfected cells.
+
+PMID: 11724783  [PubMed - indexed for MEDLINE]
+
+
+47. Cytogenet Cell Genet. 2001;93(3-4):277-83.
+
+Comparative architectural aspects of regions of conserved synteny on human
+chromosome 11p15.3 and mouse chromosome 7 (including genes WEE1 and LMO1).
+
+Cichutek A(1), Brueckmann T, Seipel B, Hauser H, Schlaubitz S, Prawitt D, Hankeln
+T, Schmidt ER, Winterpacht A, Zabel BU.
+
+Author information: 
+(1)Department of Pediatrics, University of Mainz, Mainz, Germany.
+
+Human chromosome 11p15.3 is associated with chromosome aberrations in the
+Beckwith Wiedemann Syndrome and implicated in the pathogenesis of different tumor
+types including lung cancer and leukemias. To date, only single tumor-relevant
+genes with linkage to this region (e.g. LMO1) have been found suggesting that
+this region may harbor additional potential disease associated genes. Although
+this genomic area has been studied for years, the exact order of genes/chromosome
+markers between D11S572 and the WEE1 gene locus remained unclear. Using the FISH 
+technique and PAC clones of the flanking markers we determined the order of the
+genomic markers. Based on these clones we established a PAC contig of the
+respective region. To analyse the chromosome area in detail the synteny of the
+orthologous region on distal mouse chromosome 7 was determined and a
+corresponding mouse clone contig established, proving the conserved order of the 
+genes and markers in both species: "cen-WEE1-D11S2043-ZNF143-RANBP7-CEGF1-
+ST5-D11S932-LMO1-D11S572-TUB-tel", with inverted order of the murine genes with
+respect to the telomere/centromere orientation. The region covered by these
+contigs comprises roughly 1.6 MB in human as well as in mouse. The genomic
+sequence of the two subregions (around WEE1 and LMO1) in both species was
+determined using a shotgun sequencing strategy. Comparative sequence analysis
+techniques demonstrate that the content of repetitive elements seems to decline
+from centromere to telomere (52.6% to 34.5%) in human and in the corresponding
+murine region from telomere to centromere (41.87% to 27.82%). Genomic
+organisation of the regions around WEE1 and LMO1 was conserved, although the
+length of gene regions varied between the species in an unpredictable ratio. CpG 
+islands were found conserved in putative promoter regions of the known genes but 
+also in regions which so far have not been described as harboring expressed
+sequences.
+
+Copyright 2001 S. Karger AG, Basel
+
+PMID: 11528126  [PubMed - indexed for MEDLINE]
+
+
+48. Nucleic Acids Res. 2001 Jun 15;29(12):2502-9.
+
+An unusually compact external promoter for RNA polymerase III transcription of
+the human H1RNA gene.
+
+Myslinski E(1), Amé JC, Krol A, Carbon P.
+
+Author information: 
+(1)UPR 9002 du CNRS 'Structure des Macromolécules Biologiques et Mécanismes de
+Reconnaissance', Institut de Biologie Moléculaire et Cellulaire, 15 rue René
+Descartes, 67084 Strasbourg Cedex, France.
+
+H1 RNA, the RNA component of the human nuclear RNase P, is encoded by a unique
+gene transcribed by RNA polymerase III (Pol III). In this work, cis-acting
+elements and trans-acting factors involved in human H1 gene transcription were
+characterized by transcription assays of mutant templates and DNA binding assays 
+of recombinant proteins. Four elements, lying within 100 bp of 5'-flanking
+sequences, were defined to be essential for maximal in vitro and in vivo
+expression, consisting of the octamer, Staf, proximal sequence element (PSE) and 
+TATA motifs. These are also encountered in the promoter elements of vertebrate
+snRNA genes, where the first two constitute the distal sequence element (DSE). In
+all the genes examined so far, the DSE is distant from the PSE and TATA box that 
+compose the basal promoter. However, we observed a fundamental difference in the 
+organization of the H1 RNA and snRNA gene promoters with respect to the relative 
+spacing of the DSE and PSE. Indeed, the H1 promoter is unusually compact, with
+the octamer motif and Staf binding site adjacent to the PSE and TATA motifs. It
+thus appears that the human RNase P RNA gene has adopted a unique promoter
+strategy placing the DSE immediately adjacent to the basal promoter.
+
+PMCID: PMC55750
+PMID: 11410657  [PubMed - indexed for MEDLINE]
+
+
+49. J Biol Chem. 2000 Sep 15;275(37):28641-8.
+
+Transcriptional regulation of the mouse cytosolic chaperonin subunit gene
+Ccta/t-complex polypeptide 1 by selenocysteine tRNA gene transcription activating
+factor family zinc finger proteins.
+
+Kubota H(1), Yokota S, Yanagi H, Yura T.
+
+Author information: 
+(1)HSP Research Institute, Kyoto Research Park, Shimogyo-ku, Kyoto 600-8813,
+Japan. hkubota@frontier.kyoto-u.ac.jp
+
+The chaperonin containing t-complex polypeptide 1 (CCT) is a molecular chaperone 
+assisting in the folding of proteins in eukaryotic cytosol, and the Ccta
+(encoding the alpha subunit of CCT)/t-complex polypeptide 1 gene encodes the
+alpha subunit of CCT. We show here that transcription of the mouse Ccta gene is
+regulated by selenocysteine tRNA gene transcription activating factor (Staf)
+family zinc-finger transcription factors ZNF143 and ZNF76. Reporter gene assay
+using HeLa cells indicated that the Ccta gene promoter contains two 18-base
+pair-long cis-acting elements with similar sequences at -70 and -20 base pairs
+(designated CCT alpha subunit gene transcription activating element 1 (CAE1) and 
+CAE2, respectively). By yeast one-hybrid screening of CAE1-binding factors, we
+isolated human ZNF143, which is known to activate transcription of selenocysteine
+tRNA and small nuclear RNA genes. DNA binding domains of ZNF143 and ZNF76
+produced in E. coli recognized CAE1 and CAE2 elements in electrophoretic mobility
+shift assay. HeLa cell nuclear extract contained a protein that specifically
+binds to CAE1 and CAE2 and recognized by anti-ZNF143 antibody. Transcription from
+a minimal Ccta promoter containing CAE2 element in HeLa cells was enhanced by
+overexpression of full-length ZNF143 and ZNF76 but inhibited by that of their DNA
+binding domains alone. These results demonstrate that the Staf family proteins
+control transcription of at least one of the chaperone-encoding genes besides
+that of tRNA and small nuclear RNA genes. These RNA and chaperone genes are
+suggested to be coregulated to facilitate synthesis of mature proteins during
+active cell growth.
+
+PMID: 10893243  [PubMed - indexed for MEDLINE]
+
+
+50. Gene. 2000 Apr 18;247(1-2):33-44.
+
+In vivo footprinting studies suggest a role for chromatin in transcription of the
+human 7SK gene.
+
+Boyd DC(1), Greger IH, Murphy S.
+
+Author information: 
+(1)Chemical Pathology Unit, Sir William Dunn School of Pathology, University of
+Oxford, South Parks Road, Oxford, UK.
+
+Mutation and deletion analyses of mammalian class III small nuclear RNA genes
+transcribed by RNA polymerase (pol) III have defined three functional promoter
+elements: a distal sequence element (DSE) at around -220, a proximal sequence
+element (PSE) at around -60 and a TATA box at around -30. Although binding
+studies have identified factors that bind to these sites in vitro, it is not
+known exactly how proteins interact with the promoters of these genes in vivo. In
+this study, we have used dimethyl sulphate and DNase I treatment of HeLa cells
+and nuclei, respectively, followed by linker-mediated polymerase chain reaction, 
+to obtain in vivo footprints of proteins binding to the promoter of the Pol
+III-transcribed 7SK gene. Our results show that most of the characterised
+promoter elements of this gene are protected in vivo in these cells, and the
+pattern of DNase I protection suggests that a nucleosome lies between the DSE and
+the PSE. Methylation protection was also seen upstream of the DSE over a sequence
+corresponding to the binding site of a POZ domain-containing protein, ZID, which 
+interacts with components of histone deacetylase complexes. These findings
+suggest that chromatin structure plays a role in the cascade of protein-DNA
+interactions that regulate expression of this pol III-transcribed gene.
+
+PMID: 10773442  [PubMed - indexed for MEDLINE]
+
+
+51. Nucleic Acids Res. 2000 May 15;28(10):2114-21.
+
+Structural organization of Staf-DNA complexes.
+
+Schaub M(1), Krol A, Carbon P.
+
+Author information: 
+(1)UPR 9002 du CNRS 'Structure des Macromolécules Biologiques et Mécanismes de
+Reconnaissance', IBMC, 15 rue René Descartes, 67084 Strasbourg Cedex, France.
+
+The transactivator Staf, which contains seven contiguous zinc fingers of the
+C(2)-H(2)type, exerts its effects on gene expression by binding to specific
+targets in vertebrate small nuclear RNA (snRNA) and snRNA-type gene promoters.
+Here, we have investigated the interaction of the Staf zinc finger domain with
+the optimal Xenopus selenocysteine tRNA (xtRNA(Sec)) and human U6 snRNA (hU6)
+Staf motifs. Generation of a series of polypeptides containing increasing numbers
+of Staf zinc fingers tested in binding assays, by interference techniques and by 
+binding site selection served to elucidate the mode of interaction between the
+zinc fingers and the Staf motifs. Our results provide strong evidence that zinc
+fingers 3-6 represent the minimal zinc finger region for high affinity binding to
+Staf motifs. Furthermore, we show that the binding of Staf is achieved through a 
+broad spectrum of close contacts between zinc fingers 1-6 and xtRNA(Sec)or
+optimal sites or between zinc fingers 3-6 and the hU6 site. Extensive DNA major
+groove contacts contribute to the interaction with Staf that associates more
+closely with the non-template than with the template strand. Based on these
+findings and the structural information provided by the solved structures of
+other zinc finger-DNA complexes, we propose a model for the interaction between
+Staf zinc fingers and the xtRNA(Sec), optimal and hU6 sites.
+
+PMCID: PMC105361
+PMID: 10773080  [PubMed - indexed for MEDLINE]
+
+
+52. J Biol Chem. 1999 Aug 27;274(35):25042-50.
+
+Maximization of selenocysteine tRNA and U6 small nuclear RNA transcriptional
+activation achieved by flexible utilization of a Staf zinc finger.
+
+Schaub M(1), Myslinski E, Krol A, Carbon P.
+
+Author information: 
+(1)"Structure des Macromolécules Biologiques et Mécanismes de Reconnaissance,"
+UPR 9002 du CNRS, Institut de Biologie Moléculaire et Cellulaire, 15 rue René
+Descartes, 67084 Strasbourg Cedex, France.
+
+Transcriptional activators Staf and Oct-1 play critical roles in the activation
+of small nuclear RNA (snRNA) and snRNA-type gene transcription. Recently, we
+established that Staf binding to the human U6 snRNA (hU6) and Xenopus
+selenocysteine tRNA (xtRNA(Sec)) genes requires different sets of the seven C2-H2
+zinc fingers. In this work, using a combination of oocyte microinjection,
+electrophoretic mobility shift assays, and missing nucleoside experiments with
+wild-type and mutant promoters, we demonstrate that the hU6 gene requires zinc
+fingers 2-7 for Staf binding and Oct-1 for maximal transcriptional activity. In
+contrast, the xtRNA(Sec) gene needs the binding of the seven Staf zinc fingers,
+but not Oct-1, for optimal transcriptional capacity. Mutation in the binding site
+for Staf zinc finger 1 in the tRNA(Sec) promoter reduced both Staf binding and
+transcriptional activity. Conversely, introduction of a zinc finger 1 binding
+site in the hU6 promoter increased Staf binding but interfered with the
+simultaneous Staf and Oct-1 binding, thus reducing transcriptional activity.
+Collectively, these results show that the differential utilization of Staf zinc
+finger 1 represents a new, critical determinant of the transcriptional activation
+mechanism for the Xenopus tRNA(Sec) and human U6 snRNA genes.
+
+PMID: 10455183  [PubMed - indexed for MEDLINE]
+
+
+53. J Biol Chem. 1999 Aug 20;274(34):24241-9.
+
+Flexible zinc finger requirement for binding of the transcriptional activator
+staf to U6 small nuclear RNA and tRNA(Sec) promoters.
+
+Schaub M(1), Krol A, Carbon P.
+
+Author information: 
+(1)UPR 9002 du CNRS Structure des Macromolécules Biologiques et Mécanismes de
+Reconnaissance, IBMC, 15 rue René Descartes, 67084 Strasbourg Cedex, France.
+
+The transactivator Staf, which contains seven zinc finger motifs, exerts its
+effect on gene expression by binding to specific targets in small nuclear RNA
+(snRNA) and snRNA-type gene promoters. In this work, binding site selection
+allowed us to identify the 21-base pair ATTACCCATAATGCATYGCGG sequence as the
+high affinity consensus binding site for Staf. It shows a high sequence
+divergence with Staf-responsive elements in the Xenopus selenocysteine tRNA
+(tRNA(Sec)) and human U6 snRNA promoters. By using a combination of approaches,
+we analyzed the interaction of wild-type and truncated Staf zinc finger domains
+with the consensus, Xenopus tRNA(Sec), and human U6 sites. Two main conclusions
+emerged from our data. First, the data clearly indicate that zinc finger 7 does
+not establish base-specific contacts in Staf-DNA complexes. The second conclusion
+concerns zinc finger 1, which is required for the binding to the Xenopus
+tRNA(Sec) site but is dispensable in the case of the human U6 site. Taking into
+account the sequence differences in the two sites, these findings demonstrate
+that Staf utilizes zinc finger 1 in a rather flexible manner, illustrating how a 
+protein can interact with DNAs containing targets of different sequences.
+
+PMID: 10446199  [PubMed - indexed for MEDLINE]
+
+
+54. Nucleic Acids Res. 1998 Nov 1;26(21):4846-52.
+
+Molecular cloning of a cDNA encoding human SPH-binding factor, a conserved
+protein that binds to the enhancer-like region of the U6 small nuclear RNA gene
+promoter.
+
+Rincon JC(1), Engler SK, Hargrove BW, Kunkel GR.
+
+Author information: 
+(1)Department of Biochemistry and Biophysics, Texas A&M University, College
+Station, TX 77843-2128, USA.
+
+Many vertebrate small nuclear RNA gene promoters contain an SPH motif in their
+distal control regions that can confer transcriptional stimulation by RNA
+polymerase II or RNA polymerase III. Using the human U6 gene SPH motif as a
+probe, we isolated a cDNA encoding human SPH-binding factor (hSBF) from a HeLa
+cell expression library. The coding region of hSBF is almost identical to ZNF143,
+a 626 amino acid, seven zinc finger protein of previously unknown function.
+Furthermore, the predicted amino acid sequence of hSBF is highly homologous to
+Xenopus laevis and mouse Staf proteins, that bind to SPH motifs and stimulate
+transcription of selenocysteine tRNA gene promoters. Recombinant hSBF expressed
+in vitro or from Escherichia coli bound specifically to the human U6 gene SPH
+motif as shown by DNase I footprinting and electrophoretic mobility shift assays 
+using various mutant SPH sites as competitors. Antibodies prepared against
+recombinant hSBF inhibited assembly of native SBF-DNA complexes. Immunodepleted
+HeLa S100 transcription extract no longer supported elevated levels of
+transcription by RNA polymerase III from a U6 promoter containing an SPH motif,
+whereas addition of recombinant hSBF protein to the immunodepleted extract
+reconstituted stimulated transcription.
+
+PMCID: PMC147939
+PMID: 9776743  [PubMed - indexed for MEDLINE]
+
+
+55. J Biol Chem. 1998 Aug 21;273(34):21998-2006.
+
+ZNF76 and ZNF143 are two human homologs of the transcriptional activator Staf.
+
+Myslinski E(1), Krol A, Carbon P.
+
+Author information: 
+(1)UPR 9002 du CNRS "Structure des Macromolécules Biologiques et Mécanismes de
+Reconnaissance," IBMC, 15, rue René Descartes, 67084 Strasbourg Cedex, France.
+
+The transcriptional activator Staf, originally identified in Xenopus laevis, is
+implicated in the enhanced transcription of small nuclear RNA (snRNA) and
+snRNA-type genes by RNA polymerases II (Pol II) and III (Pol III). This zinc
+finger protein also possesses the capacity to stimulate expression from a Pol II 
+mRNA promoter. Here, we report a study on two human proteins, ZNF76 and ZNF143,
+that are 64 and 84% identical to their Xenopus counterpart, respectively.
+Northern blot analysis revealed that ZNF76 and ZNF143 mRNAs were expressed in all
+normal adult tissues examined. By using in vivo and in vitro assays, we have
+analyzed the DNA binding capacities and transcriptional properties of ZNF76 and
+ZNF143. The binding affinities of ZNF76 and ZNF143 for Staf divergent responsive 
+elements were determined by gel shift assays, which revealed that the two
+proteins bound a same DNA motif with similar affinities. Also, polypeptide
+sequences containing the seven zinc fingers of ZNF76 and ZNF143 could efficiently
+repress in vivo the activated transcription from an snRNA-type promoter.
+Transfection experiments in Drosophila cells showed that ZNF76 and ZNF143 can
+activate transcription from an mRNA promoter through the Staf binding site.
+Finally, chimeric ZNF76 and ZNF143 proteins, carrying a heterologous DNA binding 
+domain, are able to activate a Pol II mRNA promoter and snRNA Pol II and Pol III 
+promoters in Xenopus oocytes, through the heterologous DNA binding site. Taken
+together, these findings demonstrate that ZNF76 and ZNF143 are two members of a
+same family of transactivator proteins. ZNF143 constitutes the human ortholog of 
+the Xenopus Staf, and ZNF76 is a novel DNA binding protein related to Staf and
+ZNF143.
+
+PMID: 9705341  [PubMed - indexed for MEDLINE]
+
+
+56. J Biol Chem. 1998 Apr 10;273(15):8598-606.
+
+Molecular cloning and characterization of the murine staf cDNA encoding a
+transcription activating factor for the selenocysteine tRNA gene in mouse mammary
+gland.
+
+Adachi K(1), Saito H, Tanaka T, Oka T.
+
+Author information: 
+(1)Laboratory of Molecular and Cellular Biology, NIDDK, National Institutes of
+Health, Bethesda, Maryland 20892, USA.
+
+We have isolated and characterized a cDNA encoding a transcription activating
+factor for the mouse selenocysteine tRNA (tRNAsec) gene from mouse mammary gland.
+The full-length cDNA, designated m-Staf, has a 1878-base pair open reading frame 
+encoding 626 amino acids. The predicted amino acid sequence of m-Staf is highly
+homologous to that of Staf, another selenocysteine tRNA gene transcription
+activating factor of Xenopus laevis. Like Staf, m-Staf contains seven tandemly
+repeated zinc fingers and four repeated motifs. Gel shift assays indicated that
+the recombinant m-Staf specifically bound to the activator element region in the 
+mouse tRNAsec gene. Transient co-transfection experiments in Drosophila Schneider
+cells, which lack endogenous Staf-like binding activity, showed that m-Staf
+increased the mouse tRNAsec gene transcription about 15-fold, whereas it
+stimulated Pol II-dependent thymidine kinase promoter only 2-fold. Northern blot 
+analysis detected the presence of a 3.4-kilobase pair m-Staf transcript, which
+was widely but differentially expressed in various murine tissues. The binding
+activity of m-Staf in mouse mammary gland was undetectable during virgin and
+postlactating periods but increased markedly in parallel with the increase of
+tRNAsec transcript during the periods of pregnancy and lactation, when the gland 
+undergoes growth and development. These results indicate that m-Staf is a
+transcriptional activator of the mouse tRNAsec gene and that its binding activity
+in the mammary gland undergoes developmental alterations.
+
+PMID: 9535833  [PubMed - indexed for MEDLINE]
+
+
+57. Mol Cell Biol. 1998 May;18(5):2650-8.
+
+Two distinct domains in Staf to selectively activate small nuclear RNA-type and
+mRNA promoters.
+
+Schuster C(1), Krol A, Carbon P.
+
+Author information: 
+(1)UPR 9002 du CNRS Structure des Macromolécules Biologiques et Mécanismes de
+Reconnaissance, IBMC, Strasbourg, France.
+
+Staf is a transcriptional activator of prime importance for enhanced
+transcription of small nuclear (snRNA) and snRNA-type genes transcribed by RNA
+polymerases II and III (Pol II and III). In addition to this activity, it also
+possesses the capacity to stimulate expression from an RNA polymerase II mRNA
+promoter. This promiscuous activator thus provides a useful model system for
+studying the mechanism by which one single transcription factor can activate a
+large variety of promoters. Here, we report the use of in vivo assays to identify
+the Staf activation domains involved in promoter selectivity. Analysis of Staf
+mutants reveals the existence of two physically and functionally distinct
+regions, outside of the DNA binding domain, responsible for mediating selective
+transcriptional activation. While a 93-amino-acid domain, with the striking
+presence of four repeated units, is specialized for transcriptional activation of
+an mRNA promoter, a segment of only 18 amino acids, with a critical Leu-213
+residue, acts specifically on Pol II and Pol III snRNA and snRNA-type promoters. 
+In addition, this study disclosed the fundamental importance of invariant leucine
+and aspartic acid residues located in each repeat unit of the mRNA activation
+domain. Staf is therefore the first transcriptional activator described so far to
+harbor two physically and functionally distinct activator domains. This finding
+suggests that the same activator can contact different, specialized transcription
+complexes formed on different types of basal promoters through promoter-specific 
+transactivation pathways.
+
+PMCID: PMC110644
+PMID: 9566884  [PubMed - indexed for MEDLINE]
+
+
+58. EMBO J. 1997 Jan 2;16(1):173-81.
+
+Staf, a promiscuous activator for enhanced transcription by RNA polymerases II
+and III.
+
+Schaub M(1), Myslinski E, Schuster C, Krol A, Carbon P.
+
+Author information: 
+(1)UPR 9002 du CNRS Structure des Macromolécules Biologiques et Mécanismes de
+Reconnaissance, IBMC, Strasbourg, France.
+
+Staf is a zinc finger protein that we recently identified as the transcriptional 
+activator of the RNA polymerase III-transcribed selenocysteine tRNA gene. In this
+work we demonstrate that enhanced transcription of the majority of vertebrate
+snRNA and snRNA-type genes, transcribed by RNA polymerases II and III, also
+requires Staf. DNA binding assays and microinjection of mutant genes into Xenopus
+oocytes showed the presence of Staf-responsive elements in the genes for human
+U4C, U6, Y4 and 7SK, Xenopus U1b1, U2, U5 and MRP and mouse U6 RNAs. Using
+recombinant Staf, we established that it mediates the activating properties of
+Staf-responsive elements on RNA polymerase II and III snRNA promoters in vivo.
+Lastly a 19 bp consensus sequence for the Staf binding site,
+YY(A/T)CCC(A/G)N(A/C)AT(G/C)C(A/C)YY-RCR, was derived by binding site selection. 
+It enabled us to identify 23 other snRNA and snRNA-type genes carrying potential 
+Staf binding sites. Altogether, our results emphasize the prime importance of
+Staf as a novel activator for enhanced transcription of snRNA and snRNA-type
+genes.
+
+PMCID: PMC1169624
+PMID: 9009278  [PubMed - indexed for MEDLINE]
+
+
+59. EMBO J. 1995 Aug 1;14(15):3777-87.
+
+Staf, a novel zinc finger protein that activates the RNA polymerase III promoter 
+of the selenocysteine tRNA gene.
+
+Schuster C(1), Myslinski E, Krol A, Carbon P.
+
+Author information: 
+(1)UPR 9002 du CNRS Structure des Macromolécules Biologiques et Mécanismes de
+Reconnaissance, IBMC, Strasbourg, France.
+
+The selenocysteine tRNA gene (tRNA(Sec)) is atypical. Though transcribed by RNA
+polymerase III like all other tRNA genes, its basal promoter elements are
+distinct and reside essentially upstream of the coding region. In addition,
+transcription from the basal promoter is activated by a 15 bp activator element. 
+In this report we describe the cloning and functional characterization of Staf
+(selenocysteine tRNA gene transcription activating factor), a novel Xenopus
+laevis transcription factor which binds to the tRNA(Sec) activator element and
+mediates its activation properties. The 600 amino acid Staf protein contains
+seven zinc fingers and a separate acidic activation domain. Seven highly
+conserved regions were detected between Staf and human ZNF76, a protein of
+unknown function, thereby aiding in predicting the locations of the functional
+domains of Staf. With the use of a novel expression assay in X.laevis oocytes we 
+succeeded in demonstrating that Staf can activate the RNA polymerase III promoter
+of the tRNA(Sec) gene. This constitutes the first demonstration of the capacity
+of a cloned factor to activate RNA polymerase III transcription in vivo.
+
+PMCID: PMC394452
+PMID: 7641696  [PubMed - indexed for MEDLINE]
+
+
+60. Genomics. 1995 May 20;27(2):259-64.
+
+Isolation and fine mapping of 16 novel human zinc finger-encoding cDNAs identify 
+putative candidate genes for developmental and malignant disorders.
+
+Tommerup N(1), Vissing H.
+
+Author information: 
+(1)Danish Center for Human Genome Research, John F. Kennedy Institute, Glostrup.
+
+We have isolated and chromosomally fine-mapped 16 novel genes belonging to the
+human zinc finger Krüppel family (ZNF131-140, 142, 143, 148, 151, 154, and 155), 
+including 1 of the GLI type (ZNF143) and 3 containing a KRAB (Krüppel-associated 
+box) segment (ZNF133, 136, and 140). Based on their map position, several of
+these ZNF genes are putative candidate genes for both developmental and malignant
+disorders: ZNF138, ZNF139, and ZNF143 were localized to 7q11.2, 7q21.3-q22.1, and
+11p15.3-p15.4, regions involved in deletions and/or translocations associated
+with Williams syndrome, split hand and foot disease (SHFD1), and
+Beckwith-Wiedemann syndrome, respectively. ZNF133 was localized to 20p11.2, close
+to, but probably distinct from, the region deleted in Alagille syndrome. Zinc
+finger genes mapping to regions commonly deleted in solid tumors included ZNF132,
+134, 135, 137, 154, and 155, all located on 19q13 (thyroid adenoma), and ZNF151, 
+at 1p36.1-p36.2 (neuroblastoma, colon cancer, and other tumors). In addition,
+several of the ZNFs mapped to regions implicated in recurrent chromosomal
+rearrangements in hematological malignancies (ZNF139, 7q21.3-q22.1; ZNF148,
+3q21-q22; ZNF151, 1p36.1-p36.2). The study indicates that the number of ZNF genes
+in human is large and that systematic isolation and mapping of ZNF genes is a
+straightforward approach for the identification of novel candidate disease genes.
+
+PMID: 7557990  [PubMed - indexed for MEDLINE]
+
+

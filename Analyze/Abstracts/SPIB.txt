@@ -1,0 +1,2095 @@
+
+61. J Virol. 2006 Nov;80(22):11200-8. Epub 2006 Sep 6.
+
+Epstein-Barr virus EBNA-3C is targeted to and regulates expression from the
+bidirectional LMP-1/2B promoter.
+
+Jiménez-Ramírez C(1), Brooks AJ, Forshell LP, Yakimchuk K, Zhao B, Fulgham TZ,
+Sample CE.
+
+Author information: 
+(1)Department of Biochemistry, MS 340, 332 North Lauderdale Street, Memphis, TN
+38105, USA.
+
+Epstein-Barr virus (EBV) nuclear antigen 3C (EBNA-3C) is essential for
+EBV-mediated immortalization of human B lymphocytes and regulates both the cell
+cycle and transcription. Transient reporter gene assays have implicated a pivotal
+role for EBNA-3C in the regulation of transcription of the majority of
+latency-associated genes expressed during the EBV growth program, including the
+viral oncoprotein LMP-1. To examine the regulation of latency gene expression by 
+EBNA-3C, we generated an EBV-positive cell line that inducibly expresses EBNA-3C.
+This cell line allowed us to examine expression from the endogenous latency gene 
+promoters in the context of an actual latent infection and the presence of other 
+EBNA proteins, in particular EBNA-2, which is presumed to coregulate
+transcription with EBNA-3C. EBNA-3C induced the expression of both LMP-1 and
+LMP-2B mRNAs from the bidirectional LMP-1/LMP-2B promoter. In contrast, no effect
+was seen on expression from the common EBNA promoter Cp, which is responsive to
+EBNA-3C in reporter assays. Activation of LMP expression was not the consequence 
+of increases in EBNA-2, PU.1 or Spi-B transcription factors, all of which are
+believed to be critical for activation of LMP-1. Chromatin immunoprecipitation
+assays furthermore indicated that EBNA-3C is present at the bidirectional
+LMP-1/LMP-2B promoter. These results indicate that EBNA-3C directly activates the
+expression of LMP-1 and LMP-2B but is unlikely to significantly regulate EBNA
+expression via Cp under normal growth conditions.
+
+PMCID: PMC1642179
+PMID: 16956945  [PubMed - indexed for MEDLINE]
+
+
+62. Proc Natl Acad Sci U S A. 2006 Aug 1;103(31):11665-70. Epub 2006 Jul 21.
+
+The Ets factor Spi-B is a direct critical target of the coactivator OBF-1.
+
+Bartholdy B(1), Du Roure C, Bordon A, Emslie D, Corcoran LM, Matthias P.
+
+Author information: 
+(1)Friedrich Miescher Institute for Biomedical Research, Novartis Research
+Foundation, Maulbeerstrasse 66, CH-4058 Basel, Switzerland.
+
+OBF-1 (Bob.1, OCA-B) is a lymphoid-specific transcriptional coactivator that
+associates with the transcription factors Oct-1 or Oct-2 on the conserved octamer
+element present in the promoters of several ubiquitous and lymphoid-specific
+genes. OBF-1-deficient mice have B cell-intrinsic defects, lack germinal centers,
+and have severely impaired immune responses to T cell-dependent antigens. Crucial
+genes that are regulated by OBF-1 and that might explain the observed phenotype
+of OBF-1 deficiency have remained elusive to date. Here we have generated
+transgenic mice expressing OBF-1 specifically in T cells and examined these
+together with mice lacking OBF-1 to discover transcriptional targets of this
+coactivator. Using microarray analysis, we have identified the Ets transcription 
+factor Spi-B as a direct target gene critically regulated by OBF-1 that can help 
+explain the phenotype of OBF-1-deficient mice. Spi-B has been implicated in
+signaling pathways downstream of the B cell receptor and is essential for
+germinal center formation and maintenance. The present findings establish a
+hierarchy between these two factors and provide a molecular link between OBF-1
+and B cell receptor signaling.
+
+PMCID: PMC1513538
+PMID: 16861304  [PubMed - indexed for MEDLINE]
+
+
+63. Arch Immunol Ther Exp (Warsz). 2006 May-Jun;54(3):149-63. Epub 2006 May 2.
+
+ETS transcription factors and regulation of immunity.
+
+Gallant S(1), Gilkeson G.
+
+Author information: 
+(1)Department of Medicine, Division of Rheumatolog, Medical University of South
+Carolina, 96 Jonathan Lucas St. Suite 912, PO Box 250637, Charleston, SC 29425,
+USA. gallant@musc.edu
+
+The ETS family is a diverse group of transcription factors that control the
+expressions of genes that participate in an array of cellular activities, ranging
+from mitosis to apoptosis. As a consequence of regulating these processes, most
+ETS factors are oncogenic. However, there is growing evidence that ETS factors
+are also essential to regulation of the immune system. Of the 29 recognized ETS
+factors, nine are known to regulate genes involved in immunity, including Ets1,
+Ets2, GABP, Fli1, Elf1, MEF, ESE1, PU.1, and SpiB. These ETS factors typically
+activate the transcription of genes associated with pathogen and tumor defense,
+but several also demonstrate ability to repress transcription. Ets1 and PU.1
+appear to have the greatest impact on immunity, primarily through their control
+of immune cell development. Alterations of Fli1 and Elf1 expression are
+associated with autoimmunity, emphasizing the role of ETS factors as not only
+positive, but also negative regulators of immunity. This review summarizes the
+roles of ETS factors in development of the immune system, defense against
+pathogens and malignancies, and self-tolerance.
+
+PMID: 16652219  [PubMed - indexed for MEDLINE]
+
+
+64. Immunol Rev. 2006 Feb;209:212-36.
+
+Progression of regulatory gene expression states in fetal and adult pro-T-cell
+development.
+
+David-Fung ES(1), Yui MA, Morales M, Wang H, Taghon T, Diamond RA, Rothenberg EV.
+
+Author information: 
+(1)Division of Biology, California Institute of Technology, Pasadena, CA 91125,
+USA.
+
+Precursors entering the T-cell developmental pathway traverse a progression of
+states characterized by distinctive patterns of gene expression. Of particular
+interest are regulatory genes, which ultimately control the dwell time of cells
+in each state and establish the mechanisms that propel them forward to subsequent
+states. Under particular genetic and developmental circumstances, the transitions
+between these states occur with different timing, and environmental feedbacks may
+shift the steady-state accumulations of cells in each state. The fetal transit
+through pro-T-cell stages is faster than in the adult and subject to somewhat
+different genetic requirements. To explore causes of such variation, this review 
+presents previously unpublished data on differentiation gene activation in pro-T 
+cells of pre-T-cell receptor-deficient mutant mice and a quantitative comparison 
+of the profiles of transcription factor gene expression in pro-T-cell subsets of 
+fetal and adult wildtype mice. Against a background of consistent gene
+expression, several regulatory genes show marked differences between fetal and
+adult expression profiles, including those encoding two basic helix-loop-helix
+antagonist Id factors, the Ets family factor SpiB and the Notch target gene
+Deltex1. The results also reveal global differences in regulatory alterations
+triggered by the first T-cell receptor-dependent selection events in fetal and
+adult thymopoiesis.
+
+PMCID: PMC4157939
+PMID: 16448545  [PubMed - indexed for MEDLINE]
+
+
+65. Blood. 2006 Mar 15;107(6):2446-52. Epub 2005 Nov 29.
+
+Delta-like1-induced Notch1 signaling regulates the human plasmacytoid dendritic
+cell versus T-cell lineage decision through control of GATA-3 and Spi-B.
+
+Dontje W(1), Schotte R, Cupedo T, Nagasawa M, Scheeren F, Gimeno R, Spits H, Blom
+B.
+
+Author information: 
+(1)Department of Cell Biology and Histology of the AMC, University of Amsterdam, 
+The Netherlands.
+
+Human early thymic precursors have the potential to differentiate into multiple
+cell lineages, including T cells and plasmacytoid dendritic cells (pDCs). This
+decision is guided by the induction or silencing of lineage-specific
+transcription factors. The ETS family member Spi-B is a key regulator of pDC
+development, whereas T-cell development is critically dependent on GATA-3. Here
+we show that triggering of the Notch1 signaling pathway by Delta-like1 controls
+the T/pDC lineage decision by regulating the balance between these factors. CD34+
+CD1a- thymic progenitor cells express Notch1, but down-regulate this receptor
+when differentiating into pDCs. On coculture with stromal cell lines expressing
+either human Delta-like1 (DL1) or Jagged1 (Jag1) Notch ligands, thymic precursors
+express GATA-3 and develop into CD4+ CD8+ TCRalphabeta+ T cells. On the other
+hand, DL1, but not Jag1, down-regulates Spi-B expression, resulting in impaired
+development of pDCs. The Notch1-induced block in pDC development can be relieved 
+through the ectopic expression of Spi-B. These data indicate that DL1-induced
+activation of the Notch1 pathway controls the lineage commitment of early thymic 
+precursors by altering the levels between Spi-B and GATA-3.
+
+PMID: 16317090  [PubMed - indexed for MEDLINE]
+
+
+66. Leuk Res. 2006 Jun;30(6):665-76. Epub 2005 Nov 17.
+
+The chemosensitivity to therapy of childhood early B acute lymphoblastic leukemia
+could be determined by the combined expression of CD34, SPI-B and BCR genes.
+
+Talby L(1), Chambost H, Roubaud MC, N'Guyen C, Milili M, Loriod B, Fossat C,
+Picard C, Gabert J, Chiappetta P, Michel G, Schiff C.
+
+Author information: 
+(1)Centre d'Immunologie de Marseille-Luminy (CIML), CNRS-INSERM-Univ.
+Méditerranée, Campus de Luminy, Case 906, 13288 Marseille Cedex 09, France.
+
+We have identified genes differentially expressed in childhood early B acute
+lymphoblastic leukemia at diagnosis, according to chemosensitivity.
+Chemosensitive (M1) and chemoresistant (M3) patients present <5% and >25% of
+residual leukemic blasts at 21 days of treatment, respectively. The expression
+profiles of 4205 genes for 32 patients included in the FRALLE93 protocol have
+been determined using microarray. From differential analysis, CD34, SPI-B and BCR
+distinguished M1 from M3 patients using microarray and RT-PCR data. Linear
+discriminant analysis (LDA) and cross-validation show that the combined
+expression of these three genes classify and predict correctly around 90% and 80%
+of patients, respectively.
+
+PMID: 16297978  [PubMed - indexed for MEDLINE]
+
+
+67. J Biol Chem. 2005 Dec 30;280(52):43264-71. Epub 2005 Nov 1.
+
+c-Myb and members of the c-Ets family of transcription factors act as molecular
+switches to mediate opposite steroid regulation of the human glucocorticoid
+receptor 1A promoter.
+
+Geng CD(1), Vedeckis WV.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology and Stanley S. Scott Cancer
+Center, Louisiana State University Health Sciences Center, New Orleans, Louisiana
+70112, USA.
+
+Steroid auto-regulation of the human glucocorticoid receptor (hGR) 1A promoter in
+lymphoblast cells resides largely in two DNA elements (footprints 11 and 12). We 
+show here that c-Myb and c-Ets family members (Ets-1/2, PU.1, and Spi-B) control 
+hGR 1A promoter regulation in T- and B-lymphoblast cells. Two T-lymphoblast
+lines, CEM-C7 and Jurkat, contain high levels of c-Myb and low levels of PU.1,
+whereas the opposite is true in IM-9 B-lymphoblasts. In Jurkat cells,
+overexpression of c-Ets-1, c-Ets-2, or PU.1 effectively represses
+dexamethasone-mediated up-regulation of an hGR 1A promoter-luciferase reporter
+gene, as do dominant negative c-Myb (c-Myb DNA-binding domain) or Ets proteins
+(Ets-2 DNA-binding domain). Overexpression of c-Myb in IM-9 cells confers
+hormone-dependent up-regulation to the hGR 1A promoter reporter gene. Chromatin
+immunoprecipitation assays show that hormone treatment causes the recruitment of 
+hGR and c-Myb to the hGR 1A promoter in CEM-C7 cells, whereas hGR and PU.1 are
+recruited to this promoter in IM-9 cells. These observations suggest that the
+specific transcription factor that binds to footprint 12, when hGR binds to the
+adjacent footprint 11, determines the direction of hGR 1A promoter
+auto-regulation. This leads to a "molecular switch" model for auto-regulation of 
+the hGR 1A promoter.
+
+PMID: 16263717  [PubMed - indexed for MEDLINE]
+
+
+68. Gene. 2005 Jun 20;353(1):134-46.
+
+Spi-1 and Spi-B control the expression of the Grap2 gene in B cells.
+
+Garrett-Sinha LA(1), Hou P, Wang D, Grabiner B, Araujo E, Rao S, Yun TJ, Clark
+EA, Simon MC, Clark MR.
+
+Author information: 
+(1)Department of Biochemistry, State University of New York at Buffalo, 140
+Farber Hall, 3435 Main Street, Buffalo, NY 14214, USA. leesinha@buffalo.edu
+
+The Ets family members Spi-1 and Spi-B have been implicated in the regulation of 
+genes important for B cell antigen receptor (BCR) signaling. Mice deficient in
+Spi-B exhibit reduced B cell proliferation in response to BCR cross-linking and
+impaired T cell-dependent immune responses. This defect is exacerbated in the
+presence of Spi-1 haplo-insufficiency (Spi1+/- SpiB-/-). Tyrosine phosphorylation
+and calcium mobilization induced by BCR engagement is diminished in Spi1+/-
+SpiB-/- B lymphocytes, although many key BCR signaling proteins are expressed,
+suggesting that Spi-1 and Spi-B regulate expression of additional, unidentified
+signaling molecules. We now demonstrate that expression of the adaptor protein
+Grap2 is impaired in Spi1+/- SpiB+/- and Spi1+/- SpiB-/- B lymphocytes. Analysis 
+of two alternate murine Grap2 promoters revealed a functionally important Spi-1
+and Spi-B DNA binding element located in the downstream promoter. Ectopic
+expression of Grap2 in Grap2-deficient B cells reduced the recruitment of BLNK to
+Igalpha and the phosphorylation of specific substrates. Regulation of BLNK
+recruitment was dependent upon the Grap2 proline-rich domain, while modulation of
+phosphorylation was dependent upon both the proline-rich and SH2 domains. These
+data indicate that Spi-1 and Spi-B directly regulate the expression of Grap2 and 
+that Grap2 functions to modulate BCR signaling, but that reduced Grap2 expression
+is unlikely to account for the BCR signaling defects observed in Spi1+/- SpiB-/- 
+B cells.
+
+PMID: 15936902  [PubMed - indexed for MEDLINE]
+
+
+69. J Immunol. 2005 May 15;174(10):6184-94.
+
+Enforced expression of Spi-B reverses T lineage commitment and blocks
+beta-selection.
+
+Lefebvre JM(1), Haks MC, Carleton MO, Rhodes M, Sinnathamby G, Simon MC,
+Eisenlohr LC, Garrett-Sinha LA, Wiest DL.
+
+Author information: 
+(1)Immunobiology Working Group, Division of Basic Sciences, Fox Chase Cancer
+Center, Philadelphia, PA 19111, USA.
+
+The molecular changes that restrict multipotent murine thymocytes to the T cell
+lineage and render them responsive to Ag receptor signals remain poorly
+understood. In this study, we report our analysis of the role of the Ets
+transcription factor, Spi-B, in this process. Spi-B expression is acutely induced
+coincident with T cell lineage commitment at the CD4(-)CD8(-)CD44(-)CD25(+) (DN3)
+stage of thymocyte development and is then down-regulated as thymocytes respond
+to pre-TCR signals and develop beyond the beta-selection checkpoint to the
+CD4(-)CD8(-)CD44(-)CD25(-) (DN4) stage. We found that dysregulation of Spi-B
+expression in DN3 thymocytes resulted in a dose-dependent perturbation of
+thymocyte development. Indeed, DN3 thymocytes expressing approximately five times
+the endogenous level of Spi-B were arrested at the beta-selection checkpoint, due
+to impaired induction of Egr proteins, which are important molecular effectors of
+the beta-selection checkpoint. T lineage-committed DN3 thymocytes expressing even
+higher levels of Spi-B were diverted to the dendritic cell lineage. Thus, we
+demonstrate that the prescribed modulation of Spi-B expression is important for T
+lineage commitment and differentiation beyond the beta-selection checkpoint; and 
+we provide insight into the mechanism underlying perturbation of development when
+that expression pattern is disrupted.
+
+PMID: 15879115  [PubMed - indexed for MEDLINE]
+
+
+70. Toxicol Rev. 2004;23(3):135-43.
+
+Digoxin-specific antibody fragments: how much and when?
+
+Bateman DN(1).
+
+Author information: 
+(1)National Poisons Information Service (Edinburgh Centre), Scottish Poisons
+Information Bureau, Royal Infirmary of Edinburgh, Edinburgh, Scotland.
+spib@luht.scot.nhs.uk
+
+Digitalis glycoside poisoning is an important clinical problem and the
+development of digoxin-specific antibody fragments (Fab) 30 years ago has changed
+clinical practice. Nevertheless, doubts still exist as to the appropriate dose
+indications for therapy. This paper reviews relevant literature, describes the
+difficulties associated with current treatment protocols and proposes an approach
+to therapy, which is based on theoretical principles and evidence gleaned from
+currently available clinical data sets. In patients with 'acute' poisoning, serum
+digoxin concentrations do not equate to the total body burden, as tissue
+distribution will not have occurred, and the calculations for present protocols, 
+which use serum concentrations, are therefore likely to result in too much
+antibody being administered. Since a therapeutic quantity of digoxin will have
+little effect in a normal individual, complete neutralisation of all digoxin is
+also unnecessary. The pharmacokinetic and dynamic logic of using a smaller
+initial loading dose than predicted from total body calculations is rational. It 
+is recommended that half the calculated loading dose, either based on serum
+concentration or history, should be administered and the impact on clinical
+features observed. If a clinical response is not seen within 1-2 hours, a further
+similar dose should be given. In the event of a full response, patients should be
+monitored for 6-12 hours; a second dose should only be given in the event of
+recurrence of toxicity. In patients with 'chronic' digoxin poisoning, the serum
+digoxin concentration will reflect the total body load. However, since such
+patients are invariably receiving digoxin for therapeutic purposes, full
+neutralisation is again not indicated. In addition, tissue redistribution of
+digoxin from deeper stores will occur following the binding of biologically
+active digoxin in the circulation. This process will occur over a number of hours
+and if the total calculated dose of antibody is administered in a single bolus,
+significant quantities will be excreted prior to redistribution of digoxin.
+Pharmacokinetic logic, therefore, suggests that half the calculated loading dose,
+based on serum concentration, should be administered and the impact on clinical
+features observed; a second dose should be given in the event of recurrence of
+toxicity.
+
+PMID: 15862081  [PubMed - indexed for MEDLINE]
+
+
+71. J Immunol. 2005 Jan 1;174(1):367-75.
+
+Tracing the pre-B to immature B cell transition in human leukemia cells reveals a
+coordinated sequence of primary and secondary IGK gene rearrangement, IGK
+deletion, and IGL gene rearrangement.
+
+Klein F(1), Feldhahn N, Mooster JL, Sprangers M, Hofmann WK, Wernet P, Wartenberg
+M, Müschen M.
+
+Author information: 
+(1)Laboratory for Molecular Stem Cell Biology, Center for Biomedical Research and
+Institute for Transplantation Diagnostics and Cell Therapeutics,
+Heinrich-Heine-Universität Düsseldorf, 40225 Düsseldorf, Germany.
+
+The BCR-ABL1 kinase expressed in acute lymphoblastic leukemia (ALL) drives
+malignant transformation of pre-B cells and prevents further development. We
+studied whether inhibition of BCR-ABL1 kinase activity using STI571 can relieve
+this differentiation block. STI571 treatment of leukemia patients induced
+expression of the Ig L chain-associated transcription factors IRF4 and SPIB,
+up-regulation of RAG1 and RAG2, Ckappa and Clambda germline transcription, and
+rearrangement of Ig kappa L chain (IGK) and Ig lambda L chain (IGL) genes.
+However, STI571-treated pre-B ALL cells expressed lambda L, but almost no kappa L
+chains. This could be explained by STI571-induced rearrangement of the
+kappa-deleting element (KDE), which can delete productively rearranged
+Vkappa-Jkappa joints. Amplifying double-strand breaks at recombination signal
+sequences within the IGK, KDE, and IGL loci revealed a coordinated sequence of
+rearrangement events induced by STI571: recombination of IGK gene segments was
+already initiated within 1 h after STI571 treatment, followed by KDE-mediated
+deletion of Vkappa-Jkappa joints 6 h later and, ultimately, IGL gene
+rearrangement after 12 h. Consistently, up-regulation of Ckappa and Clambda
+germline transcripts, indicating opening of IGK and IGL loci, was detected after 
+1 and 6 h for IGK and IGL, respectively. Continued activity of the recombination 
+machinery induced secondary IGK gene rearrangements, which shifted preferential
+usage of upstream located Jkappa- to downstream Jkappa-gene segments. Thus,
+inhibition of BCR-ABL1 in pre-B ALL cells 1) recapitulates early B cell
+development, 2) directly shows that IGK, KDE, and IGL genes are rearranged in
+sequential order, and 3) provides a model for Ig L chain gene regulation in the
+human.
+
+PMID: 15611260  [PubMed - indexed for MEDLINE]
+
+
+72. J Exp Med. 2004 Dec 6;200(11):1503-9.
+
+The ETS transcription factor Spi-B is required for human plasmacytoid dendritic
+cell development.
+
+Schotte R(1), Nagasawa M, Weijer K, Spits H, Blom B.
+
+Author information: 
+(1)Department of Cell Biology and Histology, Academic Medical Center, University 
+of Amsterdam, Meibergdreef 15, 1105 AZ Amsterdam, Netherlands.
+
+A number of transcription factors that act as molecular switches for
+hematopoietic lineage decisions have been identified. We recently described the
+ETS transcription factor Spi-B to be exclusively expressed in plasmacytoid
+dendritic cells (pDCs), but not in myeloid DCs. To assess whether Spi-B is
+required for pDC development we used an RNA interference knock down approach to
+specifically silence Spi-B protein synthesis in CD34(+) precursor cells. We
+observed that a knock down of Spi-B mRNA strongly inhibited the ability of
+CD34(+) precursor cells to develop into pDCs in both in vitro assays as well as
+in vivo upon injection into recombination activating gene 2(-/-) gamma
+common(-/-) mice. The observed effects were restricted to the pDC lineage as the 
+differentiation of pro-B cells and CD14(+) myeloid cells was not inhibited but
+slightly elevated by Spi-B knock down. Knock down of the related ETS factor PU.1 
+also inhibited in vitro development of CD34(+) cells into pDCs. However, in
+contrast to Spi-B, PU.1 knock down inhibited B cell and myeloid cell development 
+as well. These results identify Spi-B as a key regulator of human pDC
+development.
+
+PMCID: PMC2211952
+PMID: 15583020  [PubMed - indexed for MEDLINE]
+
+
+73. Eur J Clin Pharmacol. 2004 May;60(3):221-4. Epub 2004 Apr 9.
+
+Are selective serotonin re-uptake inhibitors associated with an increased risk of
+self-harm by antidepressant overdose?
+
+Bateman DN(1), Chick J, Good AM, Kelly CA, Masterton G.
+
+Author information: 
+(1)Scottish Poisons Information Bureau (NPIS Edinburgh), Royal Infirmary of
+Edinburgh, 51 Little France Crescent, EH10 4SA Edinburgh, Scotland.
+spib@luht.scot.nhs.uk
+
+Erratum in
+    Eur J Clin Pharmacol. 2005 Mar;61(1):73.
+
+OBJECTIVE: To investigate likelihood of self-harm by overdose with antidepressant
+drugs of different types by examining hospital admission data and poisons
+inquiries and relating them to prescribing.
+DESIGN: Retrospective analysis of prospectively collected data on overdose
+admissions, poisons inquiries and prescribing of antidepressants in Edinburgh and
+Scotland.
+SETTING: Poisons treatment unit of the Royal Infirmary of Edinburgh and its
+surrounding catchment for overdose cases and Scotland for poisons inquiries.
+PARTICIPANTS: All patients admitted to the Royal Infirmary of Edinburgh between 1
+January 2000 and 31 December 2002 with an overdose involving an antidepressant.
+MAIN OUTCOME MEASURES: Overdose admissions (patients) in relation to prescribing 
+in Edinburgh and poisons inquiries in relation to prescription rates in Scotland.
+RESULTS: There were 1656 admissions involving 1343 patients. The likelihood of
+admission for an individual patient in relation to volume of prescribing
+(likelihood ratio: 95%CI) in the catchment was somewhat smaller for amitriptyline
+(0.83:0.74-0.92) and sertraline (0.79:0.63-0.99), and somewhat greater for
+mirtazapine (1.99:1.57-2.51), trazadone (1.30:1.09-1.54) and venlafaxine
+(0.97:1.81-1.16) [corrected] For poisons inquiries in Scotland, the excess for
+venlafaxine and mirtazapine was confirmed and likelihood of an inquiry lowest for
+selective serotonin re-uptake inhibitors (SSRIs).
+CONCLUSIONS: There was no evidence of an excess likelihood of presentation with
+overdose with SSRIs, and the likelihood was reduced with sertraline. There was a 
+small excess of both admissions and poisons inquiries for mirtazapine and
+venlafaxine. This is a concern in view of the increased toxicity of venlafaxine
+in overdose in comparison with SSRIs.
+
+PMID: 15083251  [PubMed - indexed for MEDLINE]
+
+
+74. J Immunol. 2004 Jan 1;172(1):144-54.
+
+Analysis of gene expression and Ig transcription in PU.1/Spi-B-deficient
+progenitor B cell lines.
+
+Schweitzer BL(1), DeKoter RP.
+
+Author information: 
+(1)Department of Molecular Genetics, Biochemistry, and Microbiology, University
+of Cincinnati College of Medicine, Medical Sciences Building 3006, 231 Albert
+Sabin Way, Cincinnati, OH 45267, USA.
+
+A number of presumptive target genes for the Ets-family transcription factor PU.1
+have been identified in the B cell lineage. However, the precise function of PU.1
+in B cells has not been studied because targeted null mutation of the PU.1 gene
+results in a block to lymphomyeloid development at an early developmental stage. 
+In this study, we take advantage of recently developed PU.1(-/-)Spi-B(-/-) IL-7
+and stromal cell-dependent progenitor B (pro-B) cell lines to analyze the
+function of PU.1 and Spi-B in B cell development. We show that contrary to
+previously published expectations, PU.1 and/or Spi-B are not required for Ig H
+chain (IgH) gene transcription in pro-B cells. In fact, PU.1(-/-)Spi-B(-/-) pro-B
+cells have increased levels of IgH transcription compared with wild-type pro-B
+cells. In addition, high levels of Igkappa transcription are induced after IL-7
+withdrawal of wild-type or PU.1(-/-)Spi-B(-/-) pro-B cells. In contrast, we found
+that Iglambda transcription is reduced in PU.1(-/-)Spi-B(-/-) pro-B cells
+relative to wild-type pro-B cells after IL-7 withdrawal. These results suggest
+that Iglambda, but not IgH or Igkappa, transcription, is dependent on PU.1 and/or
+Spi-B. The PU.1(-/-)Spi-B(-/-) pro-B cells have other phenotypic changes relative
+to wild-type pro-B cells including increased proliferation, increased CD25
+expression, decreased c-Kit expression, and decreased RAG-1 expression. Taken
+together, our observations suggest that reduction of PU.1 and/or Spi-B activity
+in pro-B cells promotes their differentiation to a stage intermediate between
+late pro-B cells and large pre-B cells.
+
+PMID: 14688320  [PubMed - indexed for MEDLINE]
+
+
+75. Genome Res. 2003 Dec;13(12):2708-16.
+
+Toward a functional annotation of the human genome using artificial transcription
+factors.
+
+Lee DK(1), Park JW, Kim YJ, Kim J, Lee Y, Kim J, Kim JS.
+
+Author information: 
+(1)ToolGen, Inc., Yuseong-gu, Daejeon, South Korea, 305-390.
+
+We have developed a novel, high-throughput approach to collecting randomly
+perturbed gene-expression profiles from the human genome.A human 293 cell library
+that stably expresses randomly chosen zinc-finger transcription factors was
+constructed, and the expression profile of each cell line was obtained using cDNA
+microarray technology.Gene expression profiles from a total of 132 cell lines
+were collected and analyzed by (1) a simple clustering method based on
+expression-profile similarity, and (2) the shortest-path analysis method. These
+analyses identified a number of gene groups, and further investigation revealed
+that the genes that were grouped together had close biological relationships. The
+artificial transcription factor-based random genome perturbation method thus
+provides a novel functional genomic tool for annotation and classification of
+genes in the human genome and those of many other organisms.
+
+PMCID: PMC403813
+PMID: 14656973  [PubMed - indexed for MEDLINE]
+
+
+76. Br J Clin Pharmacol. 2003 Jun;55(6):596-603.
+
+Effects of licence change on prescribing and poisons enquiries for antipsychotic 
+agents in England and Scotland.
+
+Bateman DN(1), Good AM, Afshari R, Kelly CA.
+
+Author information: 
+(1)Scottish Poisons Information Bureau, Royal Infirmary of Edinburgh, Edinburgh, 
+UK. spib@luht.scot.nhs.uk
+
+AIMS: To examine the effect of licence change for thioridazine at the end of 2000
+on the prescription of antipsychotic drugs in England and Scotland, and
+investigate changes in poisons information inquiries and, for Edinburgh, poisons 
+admissions.
+METHODS: Prescription data for antipsychotic drugs were obtained for England and 
+Scotland and quarterly trends examined for 2000 and 2001. Accesses to the UK
+National Poisons Information Service website TOXBASE for antipsychotic products
+were examined for the same period. For Scotland telephone enquiry data, and
+admission data to the Edinburgh Poisons Unit were also evaluated. Trends in
+poisonings were compared with prescribing change.
+RESULTS: In England prescriptions for thioridazine fell rapidly in 2001 from
+approximately 35% of market share to less than 5%, and were replaced by
+risperidone, chlorpromazine and olanzapine. TOXBASE accesses fell from 39.3% of
+antipsychotics to 4.4%. Accesses for chlorpromazine, olanzapine and risperidone
+increased. In Scotland prescribing of thioridazine was similar to changes in
+England, but it was principally replaced by chlorpromazine. These changes were
+mirrored by TOXBASE accesses, telephone enquiries and in-patient admissions. The 
+ratio of TOXBASE accesses for thioridazine to prescription numbers for the drug
+increased after the licence change.
+CONCLUSIONS: Licence change produced rapid change in prescribing behaviour within
+3 months. Prescribing behaviour in England and Scotland was different. Changes in
+prescribing were mirrored by changes in accesses for poisons information in both 
+England and Scotland, and in Edinburgh by hospital admissions. The increase in
+the ratio of TOXBASE accesses to prescriptions for thioridazine suggests doctors 
+may have become more aware of its potential toxicity.
+
+PMCID: PMC1884257
+PMID: 12814455  [PubMed - indexed for MEDLINE]
+
+
+77. Oncogene. 2003 May 15;22(19):2882-96.
+
+Identification and characterization of a PU.1/Spi-B binding site in the bovine
+leukemia virus long terminal repeat.
+
+Dekoninck A(1), Calomme C, Nizet S, de Launoit Y, Burny A, Ghysdael J, Van Lint
+C.
+
+Author information: 
+(1)Laboratoire de Virologie Moléculaire, Service de Chimie Biologique, Institut
+de Biologie et de Médecine Moléculaires (IBMM), Université Libre de Bruxelles,
+Rue des Profs Jeener et Brachet 12, 6041 Gosselies, Belgium.
+
+Bovine leukemia virus (BLV) is a B-lymphotropic oncogenic retrovirus whose
+transcriptional promoter is located in the viral 5' long terminal repeat (LTR).
+To date, no B-lymphocyte-specific cis-regulatory element has been identified in
+this region. Since ETS proteins are known to regulate transcription of numerous
+retroviruses, we searched for the presence in the BLV promoter region of binding 
+sites for PU.1/Spi-1, a B-cell- and macrophage-specific ETS family member. In
+this report, nucleotide sequence analysis of the viral LTR identified a PUbox
+located at -95/-84 bp. We demonstrated by gel shift and supershift assays that
+PU.1 and the related Ets transcription factor Spi-B interacted specifically with 
+this PUbox. A 2-bp mutation (GGAA-->CCAA) within this motif abrogated PU.1/Spi-B 
+binding. This mutation caused a marked decrease in LTR-driven basal gene
+expression in transient transfection assays of B-lymphoid cell lines, but did not
+impair the responsiveness of the BLV promoter to the virus-encoded transactivator
+Tax(BLV). Moreover, ectopically expressed PU.1 and Spi-B proteins transactivated 
+the BLV promoter in a PUbox-dependent manner. Taken together, our results provide
+the first demonstration of regulation of the BLV promoter by two B-cell-specific 
+Ets transcription factors, PU.1 and Spi-B. The PU.1/Spi-B binding site identified
+here could play an important role in BLV replication and B-lymphoid tropism.
+
+PMID: 12771939  [PubMed - indexed for MEDLINE]
+
+
+78. J Virol. 2003 May;77(10):5639-48.
+
+Transcriptional regulatory properties of Epstein-Barr virus nuclear antigen 3C
+are conserved in simian lymphocryptoviruses.
+
+Zhao B(1), Dalbiès-Tran R, Jiang H, Ruf IK, Sample JT, Wang F, Sample CE.
+
+Author information: 
+(1)Department of Biochemistry, St. Jude Children's Research Hospital, Memphis,
+Tennessee 38105, USA.
+
+Epstein-Barr virus (EBV) nuclear antigen 3C (EBNA-3C) is a large transcriptional 
+regulator essential for EBV-mediated immortalization of B lymphocytes. We
+previously identified interactions between EBNA-3C and two cellular transcription
+factors, J kappa and Spi proteins, through which EBNA-3C regulates transcription.
+To better understand the contribution of these interactions to EBNA-3C function
+and EBV latency, we examined whether they are conserved in the homologous
+proteins of nonhuman primate lymphocryptoviruses (LCVs), which bear a strong
+genetic and biological similarity to EBV. The homologue of EBNA-3C encoded by the
+LCV that infects baboons (BaLCV) was found to be only 35% identical in sequence
+to its EBV counterpart. Of particular significance, this homology localized
+predominantly to the N-terminal half of the molecule, which encompasses the
+domains in EBNA-3C that interact with J kappa and Spi proteins. Like EBNA-3C,
+both BaLCV and rhesus macaque LCV (RhLCV) 3C proteins bound to J kappa and
+repressed transcription mediated by EBNA-2 through its interaction with J kappa. 
+Both nonhuman primate 3C proteins were also able to activate transcription
+mediated by the Spi proteins in the presence of EBNA-2. Like EBNA-3C, a domain
+encompassing the putative basic leucine zipper motif of the BaLCV-3C protein
+directly interacted with both Spi-1 and Spi-B. Surprisingly, a recently
+identified motif in EBNA-3C that mediates repression was not identifiable in the 
+BaLCV-3C protein. Finally, although the C terminus of BaLCV-3C bears minimal
+homology to EBNA-3C, it nonetheless contains a C-terminal domain rich in
+glutamine and proline that was able to function as a potent transcriptional
+activation domain, as does the C terminus of EBNA-3C. The conservation of these
+functional motifs despite poor overall homology among the LCV 3C proteins
+strongly suggests that the interactions of EBNA-3C with J kappa and Spi do indeed
+play significant roles in the life cycle of EBV.
+
+PMCID: PMC154039
+PMID: 12719556  [PubMed - indexed for MEDLINE]
+
+
+79. QJM. 2003 Feb;96(2):125-32.
+
+Changes in paracetamol, antidepressants and opioid poisoning in Scotland during
+the 1990s.
+
+Bateman DN(1), Bain M, Gorman D, Murphy D.
+
+Author information: 
+(1)Scottish Poisons Information Bureau, Royal Infirmary of Edinburgh, UK.
+spib@luht.scot.nhs.uk
+
+BACKGROUND: Overdose is one of the commonest causes of medical admissions to UK
+hospitals. In Scotland (pop. 5.1 million), all NHS hospital discharge data is
+uniquely linked to enable identification of individuals re-presenting with the
+same diagnosis.
+AIM: To examine trends in discharges for poisoning, in particular paracetamol,
+antidepressants and opioids from 1990-99.
+DESIGN: Retrospective analysis.
+METHODS: Discharge data from the Scottish Morbidity Record (SMR01) and mortality 
+data from the General Register Office for Scotland (GROS) were analysed for
+1990-99 by age and gender for the relevant codes.
+RESULTS: Overall discharge rates increased until 1997, after which they fell.
+This pattern was seen in paracetamol-related discharges, but not for
+antidepressants or for opioids. Overdose was more common in females, except for
+opioids. Discharges related to opioids increased in an exponential manner over
+the decade, five-fold in women and six-fold in men in 10 years.
+DISCUSSION: Increases in opioid-related presentations are of major concern.
+Changes in paracetamol pack-size have been associated with reduced discharge
+rates. In Scotland the age group with the highest rate of discharge (15-24 years)
+with paracetamol overdose is not the one with the highest mortality.
+
+PMID: 12589010  [PubMed - indexed for MEDLINE]
+
+
+80. Nat Immunol. 2003 Jan;4(1):31-7. Epub 2002 Dec 2.
+
+A small molecule Abl kinase inhibitor induces differentiation of Abelson
+virus-transformed pre-B cell lines.
+
+Muljo SA(1), Schlissel MS.
+
+Author information: 
+(1)University of California, Department of Molecular & Cell Biology, Division of 
+Immunology, 439 Life Sciences Addition, Berkeley, CA 94720-3200, USA.
+
+Abelson murine leukemia virus-transformed cell lines have provided a critical
+model system for studying the regulation of B cell development. However,
+transformation by v-Abl blocks B cell development, resulting in the arrest of
+these transformants in an early pre-B cell-like state. We report here that
+treatment of Abelson virus-transformed pre-B cell lines with the small molecule
+Abl kinase inhibitor (STI571) results in their differentiation to a late pre-B
+cell-like state characterized by induction of immunoglobulin (Ig) light chain
+gene rearrangement. DNA microarray analyses enabled us to identify two genes
+inhibited by v-Abl that encode the Igk 3' enhancer-binding transcription factors 
+Spi-B and IRF-4. We show that enforced expression of these two factors is
+sufficient to induce germline Igk transcription in Abelson-transformed pro-B cell
+lines. This suggests a key role for these factors, and perhaps for c-Abl itself, 
+in the regulated activation of Ig light chain gene rearrangement.
+
+PMID: 12469118  [PubMed - indexed for MEDLINE]
+
+
+81. Mol Immunol. 2003 Jan;39(10):577-83.
+
+The transcription factor Spi-B is not required for somatic hypermutation.
+
+Kim N(1), Martin TE, Simon MC, Storb U.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, University of Chicago,
+Chicago, IL 60637, USA.
+
+Mice with a homozygous inactivation of the transcription factor gene Spi-B(-)/(-)
+have abnormal B cell functions and a defect in germinal center (GC) formation. We
+report here that somatic hypermutation (SHM) of VH1 and VH11 genes is not
+diminished in Peyer's patches of Spi-B(-)/(-) mice. However, the mutation pattern
+shows an increase in the ratio of replacement to silent mutations in the
+framework sequences of the variable regions, suggesting that selection of mutated
+B cells based on functionality is affected. In support of this, two of the six
+sequences from Spi-B mutant mice have a point mutation in the framework which
+introduces predicted steric clashes with another amino acid in the variable
+region. This mutation (Leu81Phe) has not been observed in 120 mutated VH1 or VH11
+genes of germinal center B cells from Spi-B wildtype mice. The mutation also does
+not exist in any of 136 published heavy chain proteins of the same VH family. The
+mutations causing the change to Phe are transitions which are favored by the SHM 
+process over transversions. Clearly, Phe-81 must arise relatively frequently, but
+is not selected in Spi-B wildtype mice.
+
+PMID: 12431391  [PubMed - indexed for MEDLINE]
+
+
+82. Blood. 2003 Feb 1;101(3):1015-23. Epub 2002 Sep 19.
+
+The transcription factor Spi-B is expressed in plasmacytoid DC precursors and
+inhibits T-, B-, and NK-cell development.
+
+Schotte R(1), Rissoan MC, Bendriss-Vermare N, Bridon JM, Duhen T, Weijer K,
+Brière F, Spits H.
+
+Author information: 
+(1)Division of Immunology of the Netherlands Cancer Institute, Amsterdam, The
+Netherlands.
+
+Human plasmacytoid dendritic cells (pDCs), also called type 2 dendritic cell
+precursors or natural interferon (IFN)-producing cells, represent a cell type
+with distinctive phenotypic and functional features. They are present in the
+thymus and probably share a common precursor with T and natural killer (NK)
+cells. In an effort to identify genes that control pDC development we searched
+for genes of which the expression is restricted to human pDC using a cDNA
+subtraction technique with activated monocyte-derived DCs (Mo-DCs) as competitor.
+We identified the transcription factor Spi-B to be expressed in pDCs but not in
+Mo-DCs. Spi-B expression in pDCs was maintained on in vitro maturation of pDCs.
+Spi-B was expressed in early CD34(+)CD38(-) hematopoietic progenitors and in
+CD34(+)CD1a(-) thymic precursors. Spi-B expression is down-regulated when
+uncommitted CD34(+)CD1a(-) thymic precursors differentiate into committed
+CD34(+)CD1a(+) pre-T cells. Overexpression of Spi-B in hematopoietic progenitor
+cells resulted in inhibition of development of T cells both in vitro and in vivo.
+In addition, development of progenitor cells into B and NK cells in vitro was
+also inhibited by Spi-B overexpression. Our results indicate that Spi-B is
+involved in the control of pDC development by limiting the capacity of progenitor
+cells to develop into other lymphoid lineages.
+
+PMID: 12393575  [PubMed - indexed for MEDLINE]
+
+
+83. Blood. 2002 Nov 1;100(9):3295-303.
+
+Subtractive hybridization reveals the expression of immunoglobulin-like
+transcript 7, Eph-B1, granzyme B, and 3 novel transcripts in human plasmacytoid
+dendritic cells.
+
+Rissoan MC(1), Duhen T, Bridon JM, Bendriss-Vermare N, Péronne C, de Saint Vis B,
+Brière F, Bates EE.
+
+Author information: 
+(1)Laboratory for Immunological Research, Schering-Plough, 27 Chemin des
+Peupliers, BP11, 69571 Dardilly, France.
+
+Recent studies in humans have highlighted the importance of a distinct cellular
+entity, the plasmacytoid dendritic cell (PDC). To identify genes for which
+expression is restricted to human PDCs, a cDNA subtraction technique was applied 
+using cDNA from activated monocyte-derived DCs (MDDCs) as competitor. In the 650 
+sequences analyzed, 25% were for B-cell transcripts. We also found
+lymphoid-related genes, immunoglobulinlike transcript 7 (ILT7), granzyme B (GrB),
+Spi-B, and the receptor tyrosine kinase Eph-B1. Granzyme B was up-regulated on
+activation, and protein was detected only in PDCs. Eph-B1 protein was expressed
+in the cytoplasm and the nuclei of PDCs and MDDCs, respectively. Interestingly,
+several novel molecules have been identified that were predicted to encode for a 
+type 2 transmembrane protein (BRI(3)), a putative cytokine (C-15, a
+cysteine-rich-secreted protein), and a type 1 leucine-rich repeat protein (MAPA).
+The identification of genes expressed in PDCs provides new insights into their
+function and origin.
+
+PMID: 12384430  [PubMed - indexed for MEDLINE]
+
+
+84. J Toxicol Clin Toxicol. 2002;40(5):567-9.
+
+Delivery of poisons information to health professionals: telephone or Internet?
+The Scottish experience.
+
+Bateman DN(1), Good AM, Kelly CA, Laing WJ.
+
+Author information: 
+(1)NPIS Edinburgh Centre, Scottish Poisons Information Bureau, Royal Infirmary of
+Edinburgh, UK. spib@luht.scot.nhs.uk
+
+PMID: 12215052  [PubMed - indexed for MEDLINE]
+
+
+85. Ann Clin Biochem. 2002 Jul;39(Pt 4):328-39.
+
+Laboratory analyses for poisoned patients: joint position paper.
+
+National Poisons Information Service; Association of Clinical Biochemists.
+
+To enable consistency of investigation and the establishment of best practice
+standards, consensus guidelines have been formulated jointly by the UK National
+Poisons Information Service (NPIS) and the Association of Clinical Biochemists
+(ACB). The types of laboratory investigation required for poisoned patients were 
+categorized as either (a) essential common laboratory investigations or (b)
+specific toxicological assays, and also as either (i) common or (ii) specialist
+or infrequent. Tests in categories (a) and (bi) are expected to be available 24 h
+per day, with a maximum turnaround time of 2 h. For the specialist assays, i.e.
+category (bii), availability and turnaround times have been specified
+individually. The basis for selection of these times has been clinical utility.
+The adoption of these guidelines, along with the use of the NPIS online poisons
+information resource TOXBASE (www.spib.axl.co.uk), will enable the poisoned
+patient to receive appropriate, 'best practice' investigations according to their
+clinical needs and will avoid the use of unnecessary investigations.
+
+PMID: 12117436  [PubMed - indexed for MEDLINE]
+
+
+86. EMBO J. 2002 May 1;21(9):2220-30.
+
+Spi-B can functionally replace PU.1 in myeloid but not lymphoid development.
+
+Dahl R(1), Ramirez-Bergeron DL, Rao S, Simon MC.
+
+Author information: 
+(1)Abramson Family Cancer Research Institute and Howard Hughes Medical Institute,
+University of Pennsylvania, School of Medicine, Philadelphia, PA 19104, USA.
+
+Mature macrophages, neutrophils and lymphoid cells do not develop in PU.1(-/-)
+mice. In contrast, mice lacking the highly related protein Spi-B generate all
+hematopoietic lineages but display a B-cell receptor signaling defect. These
+distinct phenotypes could result from functional differences between PU.1 and
+Spi-B or their unique temporal and tissue-specific expression (PU.1: myeloid and 
+B cells; Spi-B: B cells only). To address this question, we introduced the Spi-B 
+cDNA into the murine PU.1 locus by homologous recombination. In the absence of
+PU.1, Spi-B rescued macrophage and granulocyte development when assayed by in
+vitro differentiation of embryonic stem cells. Adherent, CD11b(+)/F4/80(+) cells 
+capable of phagocytosis were detected in PU.1(Spi-B/Spi-B) embryoid bodies, and
+myeloid colonies were present in hematopoietic progenitor assays. Despite its
+ability to rescue myeloid differentiation, Spi-B did not rescue lymphoid
+development in a RAG-2(-/-) complementation assay. These results demonstrate an
+important difference between PU.1 and Spi-B. Careful comparison of these Ets
+factors will delineate important functional domains of PU.1 involved in
+lymphocyte lineage commitment and/or maturation.
+
+PMCID: PMC125373
+PMID: 11980719  [PubMed - indexed for MEDLINE]
+
+
+87. Br J Ophthalmol. 2002 May;86(5):551-4.
+
+The effects of new topical treatments on management of glaucoma in Scotland: an
+examination of ophthalmological health care.
+
+Bateman DN(1), Clark R, Azuara-Blanco A, Bain M, Forrest J.
+
+Author information: 
+(1)Scottish Poisons Information Bureau, Royal Infirmary of Edinburgh, Scotland.
+spib@luht.scot.nhs.uk
+
+BACKGROUND: The management of glaucoma has been changed in the past decade by the
+introduction of new drugs. The impact of these changes on clinical care of
+patients was examined by examining operation and prescribing rates for glaucoma
+in four geographical areas of Scotland for the years 1994 to 1999.
+METHODS: A retrospective analysis of national health statistics: primary care
+prescribing data, hospital derived operation rates, consultant numbers,
+optometrist numbers, and eye test data, expressed by estimated population at risk
+of glaucoma. The outcome measures were prescribing volume and cost for glaucoma
+medications, and operation rates, corrected for population estimated to be at
+risk of glaucoma (PEG), for trabeculectomy, for Scotland as a whole, and for four
+geographical "regions" (north east, south east, central, and south west
+Scotland).
+RESULTS: Prescribed items per 1000 population estimated to have glaucoma (PEG)
+increased by 24.9% between 1994 and 1999. This was above the general increase in 
+prescribing in Scotland (17.8%). This increase varied in the four health regions 
+evaluated (14.3% to 31.9%). Prescribing of topical beta blockers increased little
+(6.4%), but there was a large increase in the use of new products (topical
+prostaglandins, carbonic anhydrase inhibitors, and alpha(2) agonists), at the
+expense of miotics (47.7% fall), and older sympathomimetics. This change in
+prescribing pattern was accompanied by a 61.5% increase in cost (range 42.2% to
+73.4% in the four regions). New drugs accounted for more than half of total
+glaucoma expenditure in 1999. Operation rates (corrected for PEG) fell by 45.9%
+(range 43.1 to 58.6%) between 1994 and 1999. Other indicators suggested increased
+activity in ophthalmic areas (for example, cataract operations, eye tests,
+numbers of optometrists and ophthalmic surgeons all increased). Within north east
+Scotland operation rates decreased and prescribing increased less than in other
+regions, both from lowest regional baseline in 1994.
+CONCLUSIONS: The introduction of new drug classes has had dramatic effects on the
+prescribing of glaucoma treatments. There has been a decline in older treatments 
+and an increase in new agents, which has been associated with a large reduction
+in operation rates for glaucoma in Scotland over 6 years. Comparison of
+prescribing and operation data indicates regional differences in healthcare
+delivery for glaucoma.
+
+PMCID: PMC1771141
+PMID: 11973253  [PubMed - indexed for MEDLINE]
+
+
+88. Immunity. 2002 Feb;16(2):297-309.
+
+PU.1 regulates expression of the interleukin-7 receptor in lymphoid progenitors.
+
+DeKoter RP(1), Lee HJ, Singh H.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Department of Molecular Genetics and Cell
+Biology, The University of Chicago, 5841 S. Maryland Ave., MC1028, Chicago, IL
+60637, USA.
+
+Development of the lymphoid system is dependent on the Ets family transcription
+factor PU.1. We demonstrate that PU.1(-/-) hematopoietic progenitors fail to
+express IL-7Ralpha transcripts. Promoter and chromatin crosslinking analyses
+suggest that PU.1 directly regulates transcription of the IL-7Ralpha gene.
+Retroviral transduction of IL-7Ralpha into PU.1(-/-) progenitors restores
+IL-7-dependent proliferation and induces, at low frequency, the generation of
+pro-B cells undergoing an apparently normal program of differentiation. Although 
+the related factor Spi-B can substitute for PU.1 in early B cell development, it 
+is not required. These results demonstrate that PU.1 functions to regulate early 
+B cell development in part by controlling the expression of the IL-7Ralpha gene.
+
+PMID: 11869689  [PubMed - indexed for MEDLINE]
+
+
+89. Cell Growth Differ. 2002 Feb;13(2):69-75.
+
+Interaction between the hematopoietic Ets transcription factor Spi-B and the
+coactivator CREB-binding protein associated with negative cross-talk with c-Myb.
+
+Yamamoto H(1), Kihara-Negishi F, Yamada T, Suzuki M, Nakano T, Oikawa T.
+
+Author information: 
+(1)Department of Cell Genetics, Sasaki Institute, Tokyo 101-0062, Japan.
+
+We have previously shown that the hematopoietic Ets transcription factor PU.1
+interacts with the transcriptional coactivator CREB-binding protein (CBP). In
+this study, we further investigated whether Spi-B, another hematopoietic Ets
+transcription factor, also interacts with CBP. Direct physical interaction of
+Spi-B with CBP was demonstrated by glutathione S-transferase binding assay.
+Analysis using several deletion mutants of Spi-B and CBP revealed that the
+NH2-terminal region including the activation domain of Spi-B interacted with the 
+region spanning amino acid residues 1283-1915 of CBP in vitro. The interaction of
+Spi-B with CBP was also observed in vivo. CBP potentiated Spi-B-mediated
+transcription of the reporter gene driven by the multimerized PU.1/Spi-B binding 
+sites. This transcriptional activation by Spi-B and CBP was inhibited by
+expression of c-Myb, and the transcriptional activation by c-Myb and CBP was
+inhibited by expression of Spi-B, suggesting competition for CBP between these
+two transcription factors. Our results suggest that CBP acts as a transcriptional
+coactivator of Spi-B and mediates synergistic or antagonistic interactions
+between other transcription factors.
+
+PMID: 11864910  [PubMed - indexed for MEDLINE]
+
+
+90. Br J Haematol. 2002 Feb;116(2):429-35.
+
+Expression of transcription factors Pu.1, Spi-B, Blimp-1, BSAP and oct-2 in
+normal human plasma cells and in multiple myeloma cells.
+
+Nagy M(1), Chapuis B, Matthes T.
+
+Author information: 
+(1)Division of Hematology, University Hospital Geneva, Geneva, Switzerland.
+
+Differentiation of B lymphocytes into plasma cells is regulated by the
+interaction of distinct transcription factors (TFs) which activate gene
+expression in a lineage- and stage-specific pattern. Using reverse transcription 
+polymerase chain reaction, we studied the expression of five TFs (octamer binding
+factor oct-2, ets family members PU.1 and Spi-B, pax gene family member BSAP, and
+Blimp-1) in (1) human cell lines with a plasma cell phenotype, (2) primary
+malignant plasma cells [obtained from patients with plasma cell leukaemia (PCL)
+and multiple myeloma], and (3) normal human plasma cells generated in vitro or
+isolated from normal bone marrows. The expression pattern was compared with TFs
+expressed by normal CD19+ B lymphocytes and by B cells from chronic lymphocytic
+leukaemia patients. Our results showed that plasma cells expressed a restricted
+set of TFs compared with CD19+ B lymphocytes, with continued expression of Spi-B 
+and oct-2, increased Blimp-1 expression, and downregulation of BSAP and PU.1.
+Cells from PCL lost Spi-B and PU.1 expression completely and expressed only oct-2
+and Blimp-1, and thus resembled plasma cell lines. Human plasma cell
+differentiation therefore seems to be positively regulated by Blimp-1; whether
+this TF has any oncogenic potential will have to be analysed in future studies.
+
+PMID: 11841448  [PubMed - indexed for MEDLINE]
+
+
+91. Emerg Med J. 2002 Jan;19(1):31-4.
+
+TOXBASE: poisons information on the internet.
+
+Bateman DN(1), Good AM, Laing WJ, Kelly CA.
+
+Author information: 
+(1)National Poisons Information Service (Edinburgh), Scottish Poisons Information
+Bureau, Royal Infirmary, Edinburgh, UK. spib@luht.scot.nhs.uk
+
+OBJECTIVES: To assess the uptake, usage and acceptability of TOXBASE, the
+National Poisons Information Service internet toxicology information service.
+METHODS: An observational study of database usage, and a questionnaire of users
+were undertaken involving users of TOXBASE within the UK between August 1999,
+when the internet site was launched, and May 2000. The main outcome measures were
+numbers of registered users, usage patterns on the database, responses to user
+satisfaction questionnaire.
+RESULTS: The number of registered users increased from 567 to 1500. There was a
+68% increase in accident and emergency departments registered, a 159% increase in
+general practitioners, but a 324% increase in other hospital departments. Between
+January 2000 and the end of May there had been 60 281 accesses to the product
+database, the most frequent to the paracetamol entry (7291 accesses). Ecstasy was
+the seventh most frequent entry accessed. Altogether 165 of 330 questionnaires
+were returned. The majority came from accident and emergency departments, the
+major users of the system. Users were generally well (>95%) satisfied with ease
+and speed of access. A number of suggestions for improvements were put forward.
+CONCLUSIONS: TOXBASE has been extensively accessed since being placed on the
+internet (http://www.spib.axl.co.uk). The pattern of enquiries mirrors clinical
+presentation with poisoning. The system seems to be easily used. It is a model
+for future delivery of treatment guidelines at the point of patient care.
+
+PMCID: PMC1725757
+PMID: 11777868  [PubMed - indexed for MEDLINE]
+
+
+92. Immunity. 2001 Oct;15(4):545-55.
+
+PU.1/Spi-B regulation of c-rel is essential for mature B cell survival.
+
+Hu CJ(1), Rao S, Ramirez-Bergeron DL, Garrett-Sinha LA, Gerondakis S, Clark MR,
+Simon MC.
+
+Author information: 
+(1)Abramson Family Cancer Research Institute, University of Pennsylvania School
+of Medicine, Philadelphia, PA 19104, USA.
+
+PU.1(+/-)Spi-B(-/-) mice exhibit reduced numbers of immature and mature B
+lymphocytes, which exhibit severe defects in response to BCR-mediated stimulation
+and poor survival. We found that expression of c-rel, a member of the
+Rel/NF-kappa B family, is dramatically reduced in PU.1(+/-)Spi-B(-/-) splenic B
+cells. Analysis of the murine c-rel promoter identified three PU.1/Spi-B binding 
+sites critical for c-rel promoter activity. Furthermore, reintroduction of Rel
+protein restored wild-type B cell numbers to mice reconstituted with
+PU.1(+/-)Spi-B(-/-) bone marrow. These findings are the first to demonstrate that
+a member of the Rel/NF-kappa B family is directly regulated by Ets proteins and
+dissect the molecular basis for the function of two Ets factors, PU.1 and Spi-B, 
+in promoting B lymphocyte survival.
+
+PMID: 11672537  [PubMed - indexed for MEDLINE]
+
+
+93. Blood. 2001 May 1;97(9):2908-12.
+
+PU.1 exhibits partial functional redundancy with Spi-B, but not with Ets-1 or
+Elf-1.
+
+Garrett-Sinha LA(1), Dahl R, Rao S, Barton KP, Simon MC.
+
+Author information: 
+(1)Department of Medicine and Pathology, University of Chicago, IL, USA.
+
+Previously it was shown that the Ets proteins, PU.1 and Spi-B, exhibit functional
+redundancy in B lymphocytes. To investigate the possibility that PU.1 or Spi-B or
+both share overlapping roles with Ets-1 or Elf-1, PU.1(+/-)Ets-1(-/-),
+PU.1(+/-)Elf-1(-/-), and Spi-B(-/-)Ets-1(-/-) animals were generated. No blood
+cell defects were observed in these animals except those previously reported for 
+Ets-1(-/-) mice. Therefore, no genetic overlap was detected between PU.1 or Spi-B
+with Ets-1 or Elf-1. In contrast, the results confirmed functional redundancy for
+PU.1 and Spi-B in that PU.1(+/-)Spi-B(-/-) bone marrow progenitors yielded
+smaller colonies in methylcellulose cultures than did wild-type, PU.1(+/-) or
+Spi-B(-/-) progenitors. In addition, PU.1(+/-)Spi-B(+/+), PU.1(+/-)Spi-B(+/-),
+and PU.1(+/-) Spi-B(-/-) mice displayed extramedullary splenic hematopoiesis. In 
+summary, PU.1 and Spi-B regulate common target genes required for proliferation
+of hematopoietic progenitors or their committed descendants, whereas Ets-1 or
+Elf-1 do not appear to regulate shared target genes with PU.1 or Spi-B.
+
+PMID: 11313289  [PubMed - indexed for MEDLINE]
+
+
+94. Oncogene. 2000 Dec 18;19(55):6443-54.
+
+Mouse models in the study of the Ets family of transcription factors.
+
+Bartel FO(1), Higuchi T, Spyropoulos DD.
+
+Author information: 
+(1)Center for Molecular and Structural Biology, Medical University of South
+Carolina, Charleston, South Carolina, SC 29425, USA.
+
+The Ets family of transcription factors is one of a growing number of master
+regulators of development. This family was originally defined by the presence of 
+a conserved DNA binding domain, the Ets domain. To date, nearly 30 members of
+this family have been identified and implicated in a wide range of physiological 
+and pathological processes. Despite the likely importance of Ets-family members, 
+each of their precise roles has not been delineated. Herein, we describe the
+elucidation of essential functions of a few of these family members in vivo using
+knockout mouse models. Of the knockouts generated to date, the majority shows
+important functions in hematopoiesis, ranging from PU.1, a principle regulator of
+myelo-lymphopoiesis, to Spi-B which regulates the proper function of terminally
+differentiated cells. Ets1 was shown to be of intermediate importance as a
+regulator of pan-lymphoid development. Other Ets family members such as Fli1 and 
+TEL1 display distinct and/or overlapping functions in vasculo/angiogenesis,
+hemostasis and hematopoiesis. The remaining knockouts generated, Ets2 and Er81,
+show non-hematopoietic defects related to extraembryonic development and
+neurogenesis, respectively. The pioneering group of knockout models described
+reveals only the most distinct functions of each of these Ets family members. A
+better understanding of the roles and hierarchies of Ets family members in
+cellular differentiation will come with the generation of new null alleles in
+previously untargeted family members, more mutant alleles in members already
+disrupted, double knockouts, ES cell differentiation and chimera rescue
+experiments, and tissue-specific inducible knockouts.
+
+PMID: 11175360  [PubMed - indexed for MEDLINE]
+
+
+95. Proc Natl Acad Sci U S A. 2001 Jan 16;98(2):553-8. Epub 2001 Jan 9.
+
+Evolution of hematopoiesis: Three members of the PU.1 transcription factor family
+in a cartilaginous fish, Raja eglanteria.
+
+Anderson MK(1), Sun X, Miracle AL, Litman GW, Rothenberg EV.
+
+Collaborators: Rothenberg EV(1).
+
+Author information: 
+(1)Stowers Institute for Medical Research, Kansas City, MO 64110, USA.
+
+T lymphocytes and B lymphocytes are present in jawed vertebrates, including
+cartilaginous fishes, but not in jawless vertebrates or invertebrates. The
+origins of these lineages may be understood in terms of evolutionary changes in
+the structure and regulation of transcription factors that control lymphocyte
+development, such as PU.1. The identification and characterization of three
+members of the PU.1 family of transcription factors in a cartilaginous fish, Raja
+eglanteria, are described here. Two of these genes are orthologs of mammalian
+PU.1 and Spi-C, respectively, whereas the third gene, Spi-D, is a different
+family member. In addition, a PU.1-like gene has been identified in a jawless
+vertebrate, Petromyzon marinus (sea lamprey). Both DNA-binding and
+transactivation domains are highly conserved between mammalian and skate PU.1, in
+marked contrast to lamprey Spi, in which similarity is evident only in the
+DNA-binding domain. Phylogenetic analysis of sequence data suggests that the
+appearance of Spi-C may predate the divergence of the jawed and jawless
+vertebrates and that Spi-D arose before the divergence of the cartilaginous fish 
+from the lineage leading to the mammals. The tissue-specific expression patterns 
+of skate PU.1 and Spi-C suggest that these genes share regulatory as well as
+structural properties with their mammalian orthologs.
+
+PMCID: PMC14625
+PMID: 11149949  [PubMed - indexed for MEDLINE]
+
+
+96. Proc Natl Acad Sci U S A. 2000 Jun 20;97(13):7417-22.
+
+Do lampreys have lymphocytes? The Spi evidence.
+
+Shintani S(1), Terzic J, Sato A, Saraga-Babic M, O'hUigin C, Tichy H, Klein J.
+
+Author information: 
+(1)Max-Planck-Institut für Biologie, Abteilung Immungenetik, Correnstrasse 42,
+D-7076 Tübingen, Germany.
+
+Comment in
+    Proc Natl Acad Sci U S A. 2000 Jun 20;97(13):6924-6.
+
+It is generally accepted that living jawless vertebrates (lampreys and hagfishes)
+lack the capability of mounting an adaptive immune response. At the same time,
+however, there are reports describing histological evidence for the presence in
+agnathan tissues of lymphocytes, the key players in adaptive immunity. The
+question therefore arises whether the cells identified morphologically as
+lymphocytes are true lymphocytes in terms of their genetic developmental program.
+In this study, evidence is provided that the lampreys express a member of the
+purine box 1 (PU.1)/spleen focus-forming virus integration B (Spi-B) gene family 
+known to be critically and specifically involved in the differentiation of
+lymphocytes in jawed vertebrates. The lamprey gene is expressed in the
+lymphocyte-like cells of the digestive tract and inexplicably also in the ovary.
+
+PMCID: PMC16560
+PMID: 10840049  [PubMed - indexed for MEDLINE]
+
+
+97. J Biol Chem. 2000 Aug 4;275(31):23674-84.
+
+Involvement of STAT-1 and ets family members in interferon-gamma induction of
+CD40 transcription in microglia/macrophages.
+
+Nguyen VT(1), Benveniste EN.
+
+Author information: 
+(1)Department of Cell Biology, The Univeristy of Alabama at Birmingham,
+Birmingham, Alabama 35294-0005, USA.
+
+Cluster of differentiation (CD)-40 is a cell surface receptor belonging to the
+tumor necrosis factor receptor family that plays a critical role in the
+regulation of immune responses. We have previously shown that the cytokine
+interferon (IFN)-gamma induces CD40 expression in microglia. Herein, we have
+elucidated the molecular mechanisms underlying IFN-gamma induction of CD40 gene
+expression in microglia/macrophages. IFN-gamma up-regulates CD40 expression at
+the transcriptional level, and this regulation involves the STAT-1alpha
+transcription factor. Microglia from STAT-1alpha-deficient mice were refractive
+to IFN-gamma induction of CD40 expression, illustrating the importance of
+STAT-1alpha in this response. Functional analysis of the CD40 promoter indicates 
+that two gamma activated sequence elements as well as two Ets elements are
+involved in IFN-gamma induction of CD40 promoter activity. STAT-1alpha binds to
+the gamma activated sequence elements, whereas PU.1 and/or Spi-B bind to the Ets 
+elements. The expression of PU.1 and Spi-B, in conjuction with STAT-1alpha
+activation, correlates with IFN-gamma inducibility of CD40 expression.
+Collectively, our data demonstrate the involvement of STAT-1alpha, PU.1, and
+Spi-B in IFN-gamma induction of CD40 gene expression in cells of the macrophage
+lineage.
+
+PMID: 10823830  [PubMed - indexed for MEDLINE]
+
+
+98. J Virol. 2000 Jun;74(11):5151-60.
+
+Epstein-barr virus nuclear antigen 3C activates the latent membrane protein 1
+promoter in the presence of Epstein-Barr virus nuclear antigen 2 through
+sequences encompassing an spi-1/Spi-B binding site.
+
+Zhao B(1), Sample CE.
+
+Author information: 
+(1)Program in Viral Oncogenesis and Tumor Immunology, Department of Virology and 
+Molecular Biology, St. Jude Children's Research Hospital, Memphis, Tennessee
+38105, USA.
+
+The Epstein-Barr virus (EBV) nuclear antigen 3C (EBNA-3C) protein is a
+transcriptional regulator of viral and cellular genes that is essential for
+EBV-mediated immortalization of B lymphocytes in vitro. EBNA-3C can inhibit
+transcription through an association with the cellular DNA-binding protein
+Jkappa, a function shared by EBNA-3A and EBNA-3B. Here, we report a mechanism by 
+which EBNA-3C can activate transcription from the EBV latent membrane protein 1
+(LMP-1) promoter in conjunction with EBNA-2. Jkappa DNA-binding sites were not
+required for this activation, and a mutant EBNA-3C protein unable to bind Jkappa 
+activated transcription as efficiently as wild-type EBNA-3C, indicating that
+EBNA-3C can regulate transcription through a mechanism that is independent of
+Jkappa. Furthermore, activation of the LMP-1 promoter is a unique function of
+EBNA-3C, not shared by EBNA-3A and EBNA-3B. The DNA element through which EBNA-3C
+activates the LMP-1 promoter includes a Spi-1/Spi-B binding site, previously
+characterized as an important EBNA-2 response element. Although this element has 
+considerable homology to mouse immunoglobulin light chain promoter sequences to
+which the mouse homologue of Spi-1 binds with its dimerization partner IRF4, we
+demonstrate that the IRF4-like binding sites in the LMP-1 promoter do not play a 
+role in EBNA-3C-mediated activation. Both EBNA-2 and EBNA-3C were required for
+transcription mediated through a 41-bp region of the LMP-1 promoter encompassing 
+the Spi binding site. However, EBNA-3C had no effect on transcription mediated in
+conjunction with the EBNA-2 activation domain fused to the GAL4 DNA-binding
+domain, suggesting that it does not function as an adapter between EBNA-2 and the
+cellular transcriptional machinery. Like EBNA-2, EBNA-3C bound directly to both
+Spi-1 and Spi-B in vitro. This interaction was mediated by a region of EBNA-3C
+encompassing a likely basic leucine zipper (bZIP) domain and the ets domain of
+Spi-1 or Spi-B, reminiscent of interactions between bZIP and ets domains of other
+transcription factors that result in their targeting to DNA. There are many
+examples of regulation of the hematopoietic-specific Spi transcription factors
+through protein-protein interactions, and a similar regulation by EBNA-3C, in
+conjunction with EBNA-2, is likely to be an important and unique contribution of 
+EBNA-3C to EBV-mediated immortalization.
+
+PMCID: PMC110868
+PMID: 10799590  [PubMed - indexed for MEDLINE]
+
+
+99. J Toxicol Clin Toxicol. 2000;38(2):107-9.
+
+Management of pyrethroid exposure.
+
+Bateman DN(1).
+
+Author information: 
+(1)Scottish Poisons Information Bureau, Edinburgh, United Kingdom.
+spib@compuserve.com
+
+OVERVIEW: Severe pyrethroid insecticide poisoning is uncommon in the developed
+world, but more common in developing countries because of its wide use in
+agriculture. This short review proposes a management strategy for pyrethroid
+poisoning based on the present literature. It also mentions an experimental
+approach, which will require further study in animals and may have eventual
+relevance for man.
+
+PMID: 10778906  [PubMed - indexed for MEDLINE]
+
+
+100. FEBS Lett. 1999 Dec 31;464(3):164-8.
+
+Phosphorylation of the Spi-B transcription factor reduces its intrinsic
+stability.
+
+Ray-Gallet D(1), Moreau-Gachelin F.
+
+Author information: 
+(1)INSERM, Unité 248, Institut Curie, 26 rue díUlm, 75248, Paris, France.
+
+The Spi-B transcription factor is an Ets protein expressed in B lymphoid cells
+and closely related to the Spi-1/PU.1 oncoprotein. By mutational analysis, we
+showed that Spi-B is phosphorylated by casein kinase II in vitro on four serine
+residues. Mutation of these four serines to alanines prevented the
+phosphorylation of Spi-B in vivo, increased the ability of Spi-B to transactivate
+expression of a reporter gene and led to a decrease of Spi-B stability. We
+propose that the phosphorylation of Spi-B may participate in the modulation of
+Spi-B functional activity by controlling its intracellular protein level.
+
+PMID: 10618498  [PubMed - indexed for MEDLINE]
+
+
+101. J Biol Chem. 1999 Nov 26;274(48):34245-52.
+
+The Ets factors PU.1 and Spi-B regulate the transcription in vivo of P2Y10, a
+lymphoid restricted heptahelical receptor.
+
+Rao S(1), Garrett-Sinha LA, Yoon J, Simon MC.
+
+Author information: 
+(1)Department of Pathology, The University of Chicago, Chicago, Illinois 60637,
+USA.
+
+To investigate the in vivo functions of PU.1 and Spi-B, two highly related Ets
+transcription factors, we previously generated PU. 1(+/+)Spi-B(-/-) and
+PU.1(+/-)Spi-B(-/-) mice and demonstrated a significant decrease in B-cell
+receptor (BCR) signaling in mutants. Major components of BCR signaling appear to 
+be expressed at normal levels in these mice, implying that PU.1 and Spi-B
+cooperate in the transcription of additional target genes important for antigen
+receptor signaling. We used subtractive hybridization to identify novel in vivo
+PU.1/Spi-B target genes and determined that the expression of a heptahelical
+receptor, P2Y10, is dramatically reduced in PU.1(+/-)Spi-B(-/-) B-cells. Further 
+analysis shows that P2Y10 expression is restricted to lymphoid cells and
+parallels that of Spi-B in B-lymphocytes. Lastly, the P2Y10 promoter contains a
+PU. 1/Spi-B binding site functionally required for efficient transcription in
+B-cells. Thus, P2Y10 is likely to be a direct in vivo transcriptional target for 
+PU.1 and Spi-B and provides a unique model to explore transcriptional regulation 
+by this Ets factor subfamily. Furthermore, P2Y10 suggests an intriguing
+connection between heterotrimeric G-proteins and BCR signaling.
+
+PMID: 10567398  [PubMed - indexed for MEDLINE]
+
+
+102. Int Immunol. 1999 Sep;11(9):1423-9.
+
+Prf, a novel Ets family protein that binds to the PU.1 binding motif, is
+specifically expressed in restricted stages of B cell development.
+
+Hashimoto S(1), Nishizumi H, Hayashi R, Tsuboi A, Nagawa F, Takemori T, Sakano H.
+
+Author information: 
+(1)Department of Biophysics and Biochemistry, Graduate School of Science,
+University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan.
+
+During the development of lymphocytes, expression of the Ig genes is strictly
+regulated in a tissue-specific manner and in a time-ordered fashion. We have
+previously shown that the PU.1 binding motif in the Igkappa 3' enhancer
+(kappaE3') and a novel Ets family protein other than PU.1 may be possibly
+involved in the control of V(kappa)-J(kappa) joining. In the attempt to isolate
+the novel Ets family protein, we have screened cDNA libraries with the yeast
+one-hybrid method and identified a new PU.1-related factor, Prf. This novel Ets
+family protein is shown to interact with the PU.1 binding sequences in various
+promoters and enhancers, including kappaE3'. It was found that expression of the 
+prf gene is predominant in the B-lineage cells, with the exception of immature B 
+cells. Since Prf does not exhibit functions of transcriptional activity, this
+novel protein may act as an antagonist against other Ets family proteins, e.g.
+PU.1 and Spi-B. Possible roles of Prf with respect to the B cell differentiation 
+are discussed.
+
+PMID: 10464163  [PubMed - indexed for MEDLINE]
+
+
+103. Infect Immun. 1999 Sep;67(9):4879-85.
+
+Contribution of Salmonella typhimurium virulence factors to diarrheal disease in 
+calves.
+
+Tsolis RM(1), Adams LG, Ficht TA, Bäumler AJ.
+
+Author information: 
+(1)Department of Veterinary Pathobiology, College of Veterinary Medicine, Texas
+A&M University, College Station, Texas 77843-4467, USA.
+
+Limited knowledge is available about the virulence mechanisms responsible for
+diarrheal disease caused by Salmonella typhimurium. To assess the contribution to
+diarrheal disease of virulence determinants identified in models of infection, we
+tested a collection of S. typhimurium mutants for their ability to cause
+enteritis in calves. S. typhimurium strains carrying mutations in the virulence
+plasmid (spvR), Salmonella pathogenicity island 2 (SPI-2) (spiB), or SPI-5 (sopB)
+caused mortality and acute diarrhea in calves. An S. typhimurium rfaJ mutant,
+which is defective for lipopolysaccharide outer core biosynthesis, was of
+intermediate virulence. Mutations in SPI-1 (hilA and prgH) or aroA markedly
+reduced virulence and the severity of diarrhea. Furthermore, histopathological
+examination of calves infected with SPI-1 or aroA mutants revealed a marked
+reduction or absence of intestinal lesions. These data suggest that virulence
+factors, such as SPI-1, which are required during intestinal colonization are
+more important for pathogenicity in calves than are genes required during the
+systemic phase of S. typhimurium infection, including SPI-2 or the spv operon.
+This is in contrast to the degree of attenuation caused by these mutations in the
+mouse.
+
+PMCID: PMC96822
+PMID: 10456944  [PubMed - indexed for MEDLINE]
+
+
+104. Development. 1999 Jun;126(14):3131-48.
+
+Precise developmental regulation of Ets family transcription factors during
+specification and commitment to the T cell lineage.
+
+Anderson MK(1), Hernandez-Hoyos G, Diamond RA, Rothenberg EV.
+
+Author information: 
+(1)Stowers Institute for Medical Research, Kansas City, MO 64110, USA.
+evroth@its.caltech.edu
+
+Ets family transcription factors control the expression of a large number of
+genes in hematopoietic cells. Here we show strikingly precise differential
+expression of a subset of these genes marking critical, early stages of mouse
+lymphocyte cell-type specification. Initially, the Ets family member factor Erg
+was identified during an arrayed cDNA library screen for genes encoding
+transcription factors expressed specifically during T cell lineage commitment.
+Multiparameter fluorescence-activated cell sorting for over a dozen cell surface 
+markers was used to isolate 18 distinct primary-cell populations representing
+discrete T cell and B cell developmental stages, pluripotent lymphoid precursors,
+immature NK-like cells and myeloid hematopoietic cells. These populations were
+monitored for mRNA expression of the Erg, Ets-1, Ets-2, Fli-1, Tel, Elf-1,
+GABPalpha, PU.1 and Spi-B genes. The earliest stages in T cell differentiation
+show particularly dynamic Ets family gene regulation, with sharp transitions in
+expression correlating with specification and commitment events. Ets, Spi-B and
+PU.1 are expressed in these stages but not by later T-lineage cells. Erg is
+induced during T-lineage specification and then silenced permanently, after
+commitment, at the beta-selection checkpoint. Spi-B is transiently upregulated
+during commitment and then silenced at the same stage as Erg. T-lineage
+commitment itself is marked by repression of PU.1, a factor that regulates B-cell
+and myeloid genes. These results show that the set of Ets factors mobilized
+during T-lineage specification and commitment is different from the set that
+maintains T cell gene expression during thymocyte repertoire selection and in all
+classes of mature T cells.
+
+PMID: 10375504  [PubMed - indexed for MEDLINE]
+
+
+105. Int J Biol Macromol. 1999 Mar-Apr;24(2-3):89-101.
+
+High molecular mass complexes of aquatic silk proteins.
+
+Case ST(1), Thornton JR.
+
+Author information: 
+(1)Department of Biochemistry, The University of Mississippi Medical Center,
+Jackson 39216-4505, USA. stcase@biochem.umsmed.edu
+
+Little is known about specific protein protein associations that take place
+during formation of Chironomus tentans silk. The aim of this study was to learn
+if C. tentans salivary glands contain biochemically discrete silk protein
+complexes. Examination of native extracts by non-denaturing agarose gel
+electrophoresis and immunoblotting revealed two SDS-resistant complexes: C1a,
+nominally containing silk proteins spIa, sp185 and sp140, and C1b, containing
+spIb, sp185 and sp140. The data also implied that C1a and C1b can further
+associate into SDS-sensitive homo- or hetero-oligomers. Sedimentation of extracts
+in preparative glycerol gradients resulted in a heterogeneous distribution of C1a
+and C1b centered near 30S. Examination of gradient fractions by denaturing
+polyacrylamide gel electrophoresis and immunoblotting indicated that C1a and C1b 
+co-sediment with spIs, sp185, and sp140; however, these fractions also contained 
+sp40, sp17 and sp12. In contrast, two other silk proteins sedimented throughout
+the gradient. Electron micrographs of a complex-containing fraction showed
+discrete, sometimes oligomeric lattice-like structures that, over time, assembled
+in vitro into multistranded beaded fibers. It is proposed that C1a and C1b are
+quaternary structures that are intermediates in the assembly pathway of C.
+tentans silk.
+
+PMID: 10342752  [PubMed - indexed for MEDLINE]
+
+
+106. Immunity. 1999 Apr;10(4):399-408.
+
+PU.1 and Spi-B are required for normal B cell receptor-mediated signal
+transduction.
+
+Garrett-Sinha LA(1), Su GH, Rao S, Kabak S, Hao Z, Clark MR, Simon MC.
+
+Author information: 
+(1)Howard Hughes Medical Institute, University of Chicago, Illinois 60637, USA.
+
+PU.1 and Spi-B have previously been implicated in the regulation of genes
+encoding B cell receptor (BCR) signaling components. Spi-B-/- B lymphocytes
+respond poorly to BCR stimulation; PU.1-/- mice, however, lack B cells,
+precluding an analysis of BCR responses. We now show that PU.1+/- Spi-B-/- B
+cells exhibit more extensive defects than Spi-B-/- B cells, indicating that both 
+PU.1 and Spi-B are required for normal BCR signaling. Strikingly, BCR
+cross-linking results in substantially reduced protein tyrosine phosphorylation
+in mutant B cells. Further analysis shows that Igalpha is phosphorylated and syk 
+is recruited and becomes phosphorylated but that BLNK and PLCgamma
+phosphorylation are defective in mutant cells. Our data support the existence of 
+a novel component coupling syk to downstream targets.
+
+PMID: 10229183  [PubMed - indexed for MEDLINE]
+
+
+107. J Biol Chem. 1999 Apr 16;274(16):11115-24.
+
+SPI-B activates transcription via a unique proline, serine, and threonine domain 
+and exhibits DNA binding affinity differences from PU.1.
+
+Rao S(1), Matsumura A, Yoon J, Simon MC.
+
+Author information: 
+(1)Department of Pathology, the University of Chicago, Chicago, Illinois 60637,
+USA.
+
+SPI-B is a B lymphocyte-specific Ets transcription factor that shares a high
+degree of similarity with PU.1/SPI-1. In direct contrast to PU.1(-/-) mice that
+die in utero and lack monocytes, neutrophils, B cells, and T cells, Spi-B-/- mice
+are viable and exhibit a severe B cell proliferation defect. Since PU.1 is
+expressed at wild type levels in Spi-B-/- B cells, the mutant mice provide
+genetic evidence that SPI-B and PU.1 have at least some non-redundant roles in B 
+lymphocytes. To begin to understand the molecular basis for these defects, we
+delineated functional domains of SPI-B for comparison to those of PU.1. By using 
+a heterologous co-transfection system, we identified two independent
+transactivation domains in the N terminus of SPI-B. Interestingly, only one of
+these domains (amino acids 31-61), a proline/serine/threonine-rich region, unique
+among Ets proteins, is necessary for transactivation of the immunoglobulin lambda
+light chain enhancer. This transactivation motif is in marked contrast to PU.1,
+which contains acidic and glutamine-rich domains. In addition, we describe a
+functional PU.1 site within the c-FES promoter which SPI-B fails to bind
+efficiently and transactivate. Finally, we show that SPI-B interacts with the
+PU.1 cofactors Pip, TBP, c-Jun and with lower affinity to nuclear factor
+interleukin-6beta and retinoblastoma. Taken together, these data suggest that
+SPI-B binds DNA with a different affinity for certain sites than PU.1 and harbors
+different transactivation domains. We conclude that SPI-B may activate unique
+target genes in B lymphocytes and interact with unique, although currently
+unidentified, cofactors.
+
+PMID: 10196196  [PubMed - indexed for MEDLINE]
+
+
+108. J Bacteriol. 1998 Sep;180(17):4370-9.
+
+Pas, a novel protein required for protein secretion and attaching and effacing
+activities of enterohemorrhagic Escherichia coli.
+
+Kresse AU(1), Schulze K, Deibel C, Ebel F, Rohde M, Chakraborty T, Guzmán CA.
+
+Author information: 
+(1)Division of Microbiology, GBF-National Research Centre for Biotechnology,
+D-38124 Braunschweig, Germany.
+
+Enterohemorrhagic Escherichia coli (EHEC) exhibits a pattern of localized
+adherence to host cells, with the formation of microcolonies, and induces a
+specific histopathological phenotype collectively known as the attaching and
+effacing lesion. The genes encoding the products responsible for this phenotype
+are located on a 35-kb pathogenicity island designated the locus of enterocyte
+effacement, which is also shared by enteropathogenic E. coli. We have identified 
+an open reading frame (ORF) which is located upstream of the espA, espB, and espD
+genes on the complementary strand and which exhibits high homology to the genes
+spiB from Salmonella, yscD from Yersinia, and pscD from Pseudomonas. Localization
+studies showed that the encoded product is present in the cytoplasmic and inner
+membrane fractions of EHEC. The construction and characterization of a
+recombinant clone containing an in-frame deletion of this ORF demonstrated that
+the encoded product is a putative member of a type III system required for
+protein secretion. Disruption of this ORF, designated pas (protein associated
+with secretion), abolished the secretion of Esp proteins. The mutant adhered only
+poorly and lost its capacities to trigger attaching and effacing activity and to 
+invade HeLa cells. These results demonstrate that Pas is a virulence-associated
+factor that plays an essential role in EHEC pathogenesis.
+
+PMCID: PMC107443
+PMID: 9721271  [PubMed - indexed for MEDLINE]
+
+
+109. J Toxicol Clin Toxicol. 1998;36(4):277-85.
+
+Mechanism of action and value of N-acetylcysteine in the treatment of early and
+late acetaminophen poisoning: a critical review.
+
+Jones AL(1).
+
+Author information: 
+(1)Scottish Poisons Information Bureau, Royal Infirmary of Edinburgh, Scotland.
+SPIB@compuserve.com
+
+INTRODUCTION: The mechanism of action of N-acetylcysteine in early acetaminophen 
+poisoning is well understood, but much remains to be learned of the mechanism of 
+its possible benefit in acetaminophen poisoning presenting beyond 15 hours.
+METHODS: Selective review of medical literature. N-acetylcysteine should be used 
+in all cases of early acetaminophen poisoning where the plasma acetaminophen
+concentration lies "above the line;" which line is chosen depends on individual
+preference and whether enzyme induction is suspected. Particular care should be
+taken with the use of the nomogram for patients with chronic excess ingestion of 
+acetaminophen or for those who have taken slow-release formulations.
+CONCLUSIONS: While there is a trend suggesting a beneficial effect of
+N-acetylcysteine in some patients presenting beyond 15 hours, further research is
+necessary to establish just how effective N-acetylcysteine is, particularly in
+patients presenting with fulminant hepatic failure. Candidate mechanisms for a
+beneficial effect in-clude improvement of liver blood flow, glutathione
+replenishment, modification of cytokine production, and free radical or oxygen
+scavenging. Hemody-namic and oxygen delivery and utilization parameters must be
+monitored carefully during delayed N-acetylcysteine treatment of patients with
+fulminant hepatic failure, as unwanted vasodilation may be deleterious to the
+maintenance of mean arterial blood pressure.
+
+PMID: 9711192  [PubMed - indexed for MEDLINE]
+
+
+110. Gene. 1998 Jan 30;207(2):209-18.
+
+Two promoters direct expression of the murine Spi-B gene, an Ets family
+transcription factor.
+
+Chen HM(1), Gonzalez DA, Radomska HS, Voso MT, Sun Z, Zhang P, Zhang DE, Tenen
+DG.
+
+Author information: 
+(1)Department of Medicine, Beth Israel Deaconess Medical Center, Boston, MA
+02215, USA.
+
+Spi-B and PU.1 (Spi-1) comprise the most divergent subfamily of the Ets
+transcription factor family. Spi-B and PU.1 bind to similar DNA sequences, and
+can activate the same B-cell and myeloid promoters in vitro. However, PU.1
+knockout mice demonstrate defective hematopoietic development of multiple
+hematopoietic lineages, indicating that Spi-B was not able to compensate for loss
+of PU.1. One explanation for these results is that, in contrast to PU.1, which is
+expressed in myeloid and B-cell lines, Spi-B expression is restricted to B-cells.
+In order to begin to understand the control of regulation of the Spi-B gene,
+murine Spi-B cDNA and genomic clones were isolated. The exon/intron organization 
+and transcriptional start sites were determined; two major transcriptional start 
+sites were detected. The two Spi-B promoters were isolated and characterized, and
+displayed differential activity in B-cell lines matching that of the endogenous
+gene. Further study of the two Spi-B promoters will provide insight into the
+molecular events regulating the tissue-specific and developmental stage-specific 
+expression of Spi-B in B-cells.
+
+PMID: 9511763  [PubMed - indexed for MEDLINE]
+
+
+111. EMBO J. 1997 Dec 1;16(23):7118-29.
+
+Defective B cell receptor-mediated responses in mice lacking the Ets protein,
+Spi-B.
+
+Su GH(1), Chen HM, Muthusamy N, Garrett-Sinha LA, Baunoch D, Tenen DG, Simon MC.
+
+Author information: 
+(1)Committee on Immunology, University of Chicago, Chicago IL 60637, USA.
+
+Spi-B is a hematopoietic-specific Ets family transcription factor closely related
+to PU.1. Previous gene targeting experiments have shown that PU.1 is essential
+for the production of both lymphocytes and monocytes. We have now generated mice 
+with a null mutation at the Spi-B locus. Unlike PU.1 mutant mice, Spi-B-/- mice
+are viable, fertile and possess mature B and T lymphocytes. However, Spi-B-/-
+mice exhibit severe abnormalities in B cell function and selective T
+cell-dependent humoral immune responses. First, although Spi-B-/- splenic B cells
+respond normally to lipopolysaccharide stimulation in vitro, these B cells
+proliferate poorly and die in response to B cell receptor (surface IgM)
+cross-linking. Secondly, Spi-B-/- mice display abnormal T-dependent antigenic
+responses in vivo and produce low levels of antigen-specific IgG1, IgG2a and
+IgG2b after immunization. Finally, Spi-B-/- mice show a dramatic defect in
+germinal center formation and maintenance. In contrast to wild-type animals,
+germinal centers in Spi-B-/- mice are smaller and short-lived with significantly 
+increased numbers of apoptotic B cells. Taken together, these results demonstrate
+that Spi-B is essential for antigen-dependent expansion of B cells, T-dependent
+immune responses and maturation of normal germinal centers in vivo.
+
+PMCID: PMC1170313
+PMID: 9384589  [PubMed - indexed for MEDLINE]
+
+
+112. Mamm Genome. 1997 Jun;8(6):452-3.
+
+The gene encoding the transcription factor Spi-B maps to mouse chromosome 7.
+
+Peters LL(1), Ciciotte SL, Su GH, Simon MC.
+
+Author information: 
+(1)The Jackson Laboratory, 600 Main Street, Bar Harbor, ME 04609, USA.
+
+PMID: 9166596  [PubMed - indexed for MEDLINE]
+
+
+113. Oncogene. 1996 Nov 7;13(9):1955-64.
+
+Cell specific expression of human Bruton's agammaglobulinemia tyrosine kinase
+gene (Btk) is regulated by Sp1- and Spi-1/PU.1-family members.
+
+Müller S(1), Sideras P, Smith CI, Xanthopoulos KG.
+
+Author information: 
+(1)Center for BioTechnology, Karolinska Institute, Department of Bioscience at
+NOVUM, Huddinge, Sweden.
+
+Bruton's agammaglobulinemia tyrosine kinase (Btk) is a cytoplasmic tyrosine
+kinase involved in the human disease X-linked agammaglobulinemia (XLA). The gene 
+is expressed in all hematopoietic cells with the exception of T-cells and plasma 
+cells. For this expression pattern the first 280 bp upstream of the major
+transcriptional start site seems to be sufficient. In vitro footprinting analysis
+within this part of the promoter revealed two Sp1 binding sites as well as a
+PU-box. The transcription factor Spi-1/PU.1 as well as the closely related factor
+Spi-B bound to the PU-box in B-cells. In the erythroleukemia cell line K562, due 
+to the absence of Spi-B, only PU.1 bound to the Btk promoter. Mutation of either 
+site reduced the expression in transient transfection experiments. However,
+mutation of the PU box had no effect in the T-cell line Jurkat, where none of the
+Spi-1 family members is expressed. In addition Spi-B as well as PU.1 were able to
+transactivate Btk expression. In fetal liver of PU.1-/- mice, which lack lymphoid
+and myeloid cells, expression of Btk was reduced two- to threefold but not
+abolished. Collectively this study shows that expression of the Btk gene is
+regulated by the combined action of Sp1- and PU.1-family members.
+
+PMID: 8934542  [PubMed - indexed for MEDLINE]
+
+
+114. Proc Natl Acad Sci U S A. 1996 Jul 23;93(15):7800-4.
+
+Identification of a pathogenicity island required for Salmonella survival in host
+cells.
+
+Ochman H(1), Soncini FC, Solomon F, Groisman EA.
+
+Author information: 
+(1)Department of Biology, University of Rochester, NY 14627, USA.
+
+We have identified a region unique to the Salmonella typhimurium chromosome that 
+is essential for virulence in mice. This region harbors at least three genes: two
+(spiA and spiB) encode products that are similar to proteins found in type III
+secretion systems, and a third (spiR) encodes a putative regulator. A strain with
+a mutation in spiA was unable to survive within macrophages but displayed
+wild-type levels of epithelial cell invasion. The culture supernatants of the spi
+mutants lacked a modified form of flagellin, which was present in the supernatant
+of the wild-type strain. This suggests that the Spi secretory apparatus exports a
+protease, or a protein that can alter the activity of a secreted protease. The
+"pathogenicity island" harboring the spi genes may encode the virulence
+determinants that set Salmonella apart from other enteric pathogens.
+
+PMCID: PMC38828
+PMID: 8755556  [PubMed - indexed for MEDLINE]
+
+
+115. J Exp Med. 1996 Jul 1;184(1):203-14.
+
+The Ets protein Spi-B is expressed exclusively in B cells and T cells during
+development.
+
+Su GH(1), Ip HS, Cobb BS, Lu MM, Chen HM, Simon MC.
+
+Author information: 
+(1)Department of Medicine, University of Chicago, Illinois 60637, USA.
+
+Spi-B and PU.1 are hematopoietic-specific transcription factors that constitute a
+subfamily of the Ets family of DNA-binding proteins. Here we show that contrary
+to previous reports, PU.1 and Spi-B have very different expression patterns. PU.1
+is expressed at high levels in B cells, mast cells, megakaryocytes, macrophages, 
+neutrophils, and immature erythroid cells and at lower levels in mature
+erythrocytes. PU.1 is completely absent from peripheral T cells and most T cell
+lines based on sensitive RT-PCR assays. In contrast, Spi-B is expressed
+exclusively in lymphoid cells and can be detected in early fetal thymus and
+spleen. In situ hybridizations of adult murine tissues demonstrate Spi-B mRNA in 
+the medulla of the thymus, the white pulp of the spleen, and the germinal centers
+of lymph nodes. Spi-B expression is very abundant in B cells and both Spi-B mRNA 
+and protein are detected in some T cells. In situ hybridization and Northern blot
+analysis suggest that Spi-B gene expression increases during B cell maturation
+and decreases during T cell maturation. Gel-retardation experiments show that
+Spi-B can bind to all putative PU.1 binding sites, but do not reveal any
+preferred Spi-B binding site. Finally, both PU.1 and Spi-B function as
+transcriptional activators of the immunoglobulin light-chain enhancer E lambda
+2.4 when coexpressed with Pip (PU.1-interaction partner) in NIH-3T3 cells. Taken 
+together, these data suggest that differences in patterns of expression between
+Spi-B and PU.1 distinguish the function of each protein during development of the
+immune system.
+
+PMCID: PMC2192671
+PMID: 8691135  [PubMed - indexed for MEDLINE]
+
+
+116. Biochem Biophys Res Commun. 1996 Jun 14;223(2):257-63.
+
+An alternatively spliced isoform of the Spi-B transcription factor.
+
+Ray-Gallet D(1), Tavitian A, Moreau-Gachelin F.
+
+Author information: 
+(1)INSERM U.248, Institut Curie, Paris, France.
+
+Spi-B is an Ets transcription factor related to the oncoprotein Spi-1/PU.1 and
+highly expressed in B lymphoid cells. The Ets proteins share a conserved Ets
+domain that mediates specific DNA binding. Spi-B binds DNA sequences containing a
+core 5'-GGAA-3' and activates transcription through this motif. Up to date, the
+biological function of Spi-B remains unknown. Here, we describe the
+characterization of an alternatively spliced variant of Spi-B, named deltaSpi-B, 
+which has lost the Ets domain. In B lymphoid cells, deltaspi-B and spi-B mRNAs
+were present simultaneously in a ratio of around 10%. DeltaSpi-B product was not 
+able to bind DNA and was recovered in cytoplasmic cellular extracts. We raise the
+hypothesis that delta Spi-B might affect Spi-B function by recruiting factors
+involved in Spi-B activity.
+
+PMID: 8670269  [PubMed - indexed for MEDLINE]
+
+
+117. Oncogene. 1996 Feb 15;12(4):863-73.
+
+Differential phosphorylations of Spi-B and Spi-1 transcription factors.
+
+Mao C(1), Ray-Gallet D, Tavitian A, Moreau-Gachelin F.
+
+Author information: 
+(1)Unité INSERM 248, Faculté de Médecine Lariboisière-Saint Louis, Paris, France.
+
+Spi-1/PU-1 and Spi-B are hematopoietic transcription factors, which, in vitro,
+display similar affinities for DNA target sequences containing the consensus
+binding site 5'-GGAA-3'. While the role of Spi-1 in the transcriptional
+regulation of B cell and myeloid specific genes has been largely demonstrated,
+the biological function of Spi-B still remains to be elucidated. Since Spi-B and 
+Spi-1 are very divergent in their transactivator domain, these domains might
+acquire functional specificity in vivo by interacting with different co-factors
+and/or by undergoing different phosphorylations. First, we observed that casein
+kinase II phosphorylates Spi-B as well as Spi-1, in vitro. Then, by affinity
+chromatographies and in vitro kinase assays with fusion proteins between
+glutathione-S-transferase and the transactivator domain of Spi-B, two kinases
+were identified on their ability to interact and phosphorylate this domain; the
+MAP kinase ERK1 and the stress activated protein kinase JNK1. The Threonine 56
+was defined as the ERK1 phosphorylation site by using phosphoamino-acid analyses 
+and a Spi-B mutant version with the substitution T56 to A56. Strikingly, ERK1
+failed to phosphorylate Spi-1, in vitro, whereas JNK1, like CK II, phosphorylated
+Spi-B and Spi-1. In addition, other purified Spi-B-kinase activities,
+unidentified as yet, display similar specificity than ERK1 for Spi-B versus
+Spi-1. Furthermore, the evident interaction of pRb protein with the
+transactivator domain of Spi-B in an unphosphorylated state disappeared when this
+domain was first phosphorylated in vitro either by ERK1 or by the purified
+Spi-B-kinase activities. Our data revealed multiple phosphorylation sites within 
+Spi-B whose some of them appeared specific for Spi-B versus Spi-1 and which may
+account for differential regulation of their activities.
+
+PMID: 8632909  [PubMed - indexed for MEDLINE]
+
+
+118. Oncogene. 1995 Oct 19;11(8):1549-60.
+
+PU.1 (Spi-1) autoregulates its expression in myeloid cells.
+
+Chen H(1), Ray-Gallet D, Zhang P, Hetherington CJ, Gonzalez DA, Zhang DE,
+Moreau-Gachelin F, Tenen DG.
+
+Author information: 
+(1)Department of Medicine, Beth Israel Hospital, Harvard Medical School, Boston, 
+Massachusetts 02215, USA.
+
+PU.1 (Spi-1), a member of the Ets transcription factor family, is predominantly
+expressed in myeloid (granulocytes, monocytes and macrophages) and B cells. PU.1 
+is upregulated early during commitment of multipotential progenitors to the
+myeloid lineages and inhibition of PU.1 function in human CD34+ progenitors prior
+to this upregulation blocks myeloid colony formation. Since PU.1 expression
+appears to play a role in hematopoietic development, we characterized the PU.1
+promoter. Here we report that the murine PU.1 promoter, as well as the human
+promoter, demonstrate tissue-specific reporter gene expression in myeloid cell
+lines but not in T cells and HeLa (non-hematopoietic cells) cells. Deletion
+analysis of the PU.1 promoter indicates that tissue-specific functional elements 
+are encoded in the -61 to -39 bp and -7 to +34 bp regions. The first region
+contains a functional octamer (Oct) site at -54 bp and an Sp1 site at -39 bp. The
+second contains a binding site at +20 bp for both PU.1 itself and the related ets
+family member Spi-B. In vivo footprinting assays demonstrate that a
+hypersensitive band was detected at the PU.1 site in myeloid cells but not in
+HeLa. A mutation of the PU.1 site which abolished PU.1 binding caused a
+significant decrease in promoter activity. Mutation of the Oct and/or Sp1 site
+results in a lesser decrease of promoter activity in myeloid cells.
+Co-transfection of PU.1 or Spi-B in cells lacking PU.1 and Spi-B specifically
+transactivated a minimal promoter containing the PU.1 binding site, indicating
+that PU.1 can activate its own promoter elements in an autoregulatory loop.
+Positive autoregulation of the PU.1 promoter may play an important role in the
+function of PU.1 in myeloid cells.
+
+PMID: 7478579  [PubMed - indexed for MEDLINE]
+
+
+119. Oncogene. 1995 Jul 20;11(2):303-13.
+
+DNA binding specificities of Spi-1/PU.1 and Spi-B transcription factors and
+identification of a Spi-1/Spi-B binding site in the c-fes/c-fps promoter.
+
+Ray-Gallet D(1), Mao C, Tavitian A, Moreau-Gachelin F.
+
+Author information: 
+(1)Unité 248 INSERM, Faculté de Médecine Lariboisière Saint-Louis, Paris, France.
+
+Spi-1/PU.1 and Spi-B encode hematopoietic-specific transcription factors that are
+the most distantly related members of the Ets family. The Ets proteins share a
+conserved 85 amino acids DNA binding domain, the Ets domain and recognize various
+DNA target sites around a common core 5'-GGAA/T-3'. The DNA binding specificities
+of Spi-1 and Spi-B were investigated by using the method of polymerase chain
+reaction (PCR)-mediated random site selection. The deduced Spi-1 and Spi-B
+consensus binding sites are very similar suggesting that the functional
+activities of Spi-1 and Spi-B cannot be distinguished on the basis of their DNA
+binding specificities. We identified a putative Spi-1/Spi-B binding site in the
+promoter region of the c-fes/c-fps protooncogene which encodes a tyrosine kinase 
+expressed predominantly in myeloid cells. In vitro translated Spi-1 and Spi-B
+proteins were capable to bind this site similarly and to activate the c-fes
+promoter in HeLa transfected cells. We showed that Spi-1 binds the Spi-1/Spi-B
+binding site of c-fes in HL-60 cells suggesting that Spi-1 may be involved in the
+regulation of c-fes transcription in myeloid cells. Intriguingly, we detected
+only Spi-1 binding to this site in the Raji cell line which express both Spi-1
+and Spi-B proteins. This suggests that Spi-1 and Spi-B exhibit different DNA
+binding activities in vivo although they share similar DNA binding specificities 
+in vitro.
+
+PMID: 7624145  [PubMed - indexed for MEDLINE]
+
+
+120. Blood. 1995 May 15;85(10):2918-28.
+
+Neutrophils and monocytes express high levels of PU.1 (Spi-1) but not Spi-B.
+
+Chen HM(1), Zhang P, Voso MT, Hohaus S, Gonzalez DA, Glass CK, Zhang DE, Tenen
+DG.
+
+Author information: 
+(1)Department of Medicine, Beth Israel Hospital, Harvard Medical School, Boston, 
+MA 02215, USA.
+
+PU.1 (the Spi-1 oncogene) and Spi-B are closely related members of the ets
+transcription factor family, sharing similar DNA binding specificities mediated
+by similar DNA binding domains. PU.1 and Spi-B have been previously described as 
+being predominantly expressed coordinately in macrophages and B cells, but their 
+expression in early hematopoietic stages and during the course of myeloid
+differentiation to monocytes and macrophages or to neutrophils has not been
+extensively investigated. Here, we report that PU.1 mRNA is upregulated during
+myeloid differentiation of human purified CD34+ cells and murine multipotential
+FDCP-mix A4 cells, suggesting that PU.1 is upregulated as an early event during
+differentiation of multipotential progenitor cells. PU.1 expression is maintained
+at stable levels during differentiation of myeloid cell lines U937 and HL-60 to
+monocytic and neutrophilic cells. PU.1 is expressed at highest levels in mature
+human monocytes and human peripheral blood neutrophils. In contrast to PU.1,
+significant levels of Spi-B mRNA and protein are found only in some B-cell lines 
+and spleen but are not found in myeloid cell lines, neutrophils, or macrophages. 
+In vitro translated Spi-B protein can bind to PU.1 binding sites in myeloid
+promoters and transactivate these promoters in nonmyeloid cells. Therefore,
+although PU.1 and Spi-B may bind to similar DNA control elements and have
+redundancy of transactivation function in vitro, the lack of significant levels
+of Spi-B in myeloid cells makes it unlikely that Spi-B plays a significant role
+in myeloid lineage development and gene expression. In contrast, PU.1 is
+expressed at high levels not only in monocytes and macrophages but also in
+neutrophils, indicating that PU.1 can activate gene expression in both major
+myeloid lineages.
+
+PMID: 7742552  [PubMed - indexed for MEDLINE]
+
+
+121. EMBO J. 1994 Dec 1;13(23):5624-32.
+
+The Spi-1/PU.1 and Spi-B ets family transcription factors and the recombination
+signal binding protein RBP-J kappa interact with an Epstein-Barr virus nuclear
+antigen 2 responsive cis-element.
+
+Laux G(1), Adam B, Strobl LJ, Moreau-Gachelin F.
+
+Author information: 
+(1)Institut für Klinische Molekularbiologie und Tumorgenetik,
+GSF-Forschungszentrum für Umwelt und Gesundheit GmbH, München, Germany.
+
+Epstein-Barr virus (EBV) immortalizes resting human B cells very efficiently in
+vitro. The EBV nuclear protein EBNA2 is absolutely required for this process. It 
+also activates transcription of cellular, as well as viral, genes. It is assumed 
+that EBNA2 contributes to B cell immortalization by its transactivating
+potential, since its transforming and transactivating functions could not be
+separated. Mutational analysis of the 80 bp EBNA2 responsive cis-element within
+the viral bidirectional LMP/TP2 promoter region identified two sequence elements,
+which are both essential for transactivation by EBNA2. These sequences harbour
+putative consensus binding sites for Spi-1 oncoprotein and recombination signal
+binding protein RBP-J kappa, the homologue of Drosophila Suppressor of Hairless. 
+Electrophoretic mobility shift assays demonstrated the high affinity binding of
+Spi-1 and Spi-B, both members of the Ets family of transcription factors, to one 
+sequence element. The other element bound RBP-J kappa with low affinity. In
+addition, co-transfections showed that the replacement of the Spi-1/Spi-B binding
+site in the bi-directional LMP/TP2 promoter by the analogous SV40 Spi-1
+responsive element did not impair its function on EBNA2-mediated transactivation.
+It is concluded that the transcriptional regulators Spi-1 and Spi-B as well as
+RBP-J kappa play an essential role in transactivating the LMP/TP2 promoter by
+EBNA2 and therefore in the immortalization of B cells by EBV.
+
+PMCID: PMC395527
+PMID: 7988559  [PubMed - indexed for MEDLINE]
+
+
+122. Brain Res. 1992 Oct 23;594(1):75-83.
+
+Developmental expression of brain beta-spectrin isoform messenger RNAs.
+
+Zimmer WE(1), Ma Y, Zagon IS, Goodman SR.
+
+Author information: 
+(1)Department of Structural and Cellular Biology, College of Medicine, University
+of South Alabama, Mobile 36688.
+
+We have investigated the expression of brain beta SpIIa and beta SpIb (previously
+referred to as the beta-subunits of brain spectrin (240/235) and brain spectrin
+(240/235E), respectively) during mouse brain development. The 9 kb transcript
+which encodes beta SpIIa is present in fetal mouse brain tissue and increases to 
+a maximal level in a 30-day-old mouse. There is a coordinate accumulation of the 
+7.8 kb alpha SpIIa mRNA (with beta SpIIa) during mouse brain development. The
+coordinate expression of alpha SpIIa and beta SpIIa at the mRNA and protein level
+allows formation of (alpha SpIIa/beta SpIIa)2 tetramers (brain spectrin(240/235))
+early in premitotic neuronal development; and avoids turnover of unassembled
+alpha and beta-subunits. An 11 kb transcript which encodes beta SpIb is not
+produced in embryonic tissue, and is first seen in a 6-day-old mouse. The protein
+translation products beta SpIIa and beta SpIb have previously been demonstrated
+by our laboratory to first appear in fetal mouse brain tissue and at postnatal
+day 6-8, respectively [J. Neurosci., 7 (1987) 864-874]. The expression of beta
+SpIb mRNA on postnatal day 6-8, and the appearance of brain spectrin(240/235E) in
+postmitotic and postmigratory neurons of the cerebellum at this same time;
+suggests that brain spectrin(240/235E) is involved in differentiated functions of
+the neuron (formation of cell-cell contacts, formation of dendritic processes and
+postsynaptic contacts). Thus, the data from the present study demonstrates that
+the expression of these two neuronal beta-spectrin isoforms is regulated at the
+level of mRNA expression.
+
+PMID: 1467942  [PubMed - indexed for MEDLINE]
+
+
+123. Mol Cell Biol. 1992 Oct;12(10):4297-304.
+
+Characterization of Spi-B, a transcription factor related to the putative
+oncoprotein Spi-1/PU.1.
+
+Ray D(1), Bosselut R, Ghysdael J, Mattei MG, Tavitian A, Moreau-Gachelin F.
+
+Author information: 
+(1)Faculté de Médecine Lariboisière Saint-Louis, INSERM U-248, Paris, France.
+
+We have cloned a human cDNA from a new gene, spi-B, on the basis of its homology 
+with the DNA-binding domain of the Spi-1/PU.1 putative oncogene product. spi-B
+codes for a protein of 262 amino acids presenting 43% overall identity with
+Spi-1. Its highly basic carboxy-terminal region exhibits 34% sequence identity
+with the DNA-binding domain of the Ets-1 protein. We showed that the Spi-B
+protein is able to bind the purine-rich sequence (PU box) recognized by
+Spi-1/PU.1 and to activate transcription of a reporter plasmid containing PU
+boxes. Chromosome in situ hybridization allowed us to map spi-B to the
+19q13.3-19q13.4 region of the human genome. spi-B, like spi-1, was found to be
+expressed in various murine and human hematopoietic cell lines except T lymphoid 
+cell lines.
+
+PMCID: PMC360353
+PMID: 1406622  [PubMed - indexed for MEDLINE]
+
+
+124. Chromosoma. 1989 Dec;98(6):428-32.
+
+Identification of the spI products of Balbiani ring genes in Chironomus thummi.
+
+Cortés E(1), Botella LM, Barettino D, Díez JL.
+
+Author information: 
+(1)Centro de Investigaciones Biológicas (C.S.I.C.), Madrid, Spain.
+
+The spI fraction of high molecular weight secretory proteins was analysed in
+Chironomus thummi. These proteins are encoded by giant Balbiani ring (BR) genes
+which develop specifically in salivary gland cells. Each component of the spI
+fraction was studied electrophoretically from early and middle 4th instar larvae 
+and prepupae, as well from galactose-treated larvae where changes in the relative
+puffing pattern of BR1 and BR2 are known to occur. The spI fraction consists of
+at least two bands with electrophoretic mobilities slower than those of the spI
+components of Camptochironomus. The slow migrating component remains throughout
+the 4th larval instar, while the amount of the faster component changes, being
+abundant in early 4th instar and prepupae, but not present (or very weak) in
+middle 4th instar. The correlated shifts in BR puffing pattern during these
+developmental stages suggest that the slow and fast components are encoded by BR2
+and BR1. The spI fraction is modified by galactose treatment, the fast component 
+being induced in parallel with a decrease in the slow component. These changes
+are correlated with changes in the steady-state levels of RNA: an increase in BR1
+RNA and a decrease in BR2 RNA, and of proteins. These proteins could correspond
+to the spIb and spIa fractions allocated to BR2 and BR1, respectively, in
+Camptochironomus. After galactose treatment a new faster band sometimes appears, 
+that could correspond to the spIc fraction of Camptochironomus. A possible spId
+equivalent was also identified. In conclusion the main features of the spI family
+in C. thummi are similar to those of spI in Camptochironomus.
+
+PMID: 2627801  [PubMed - indexed for MEDLINE]
+
+
+125. Am J Ment Defic. 1977 May;81(6):603-5.
+
+Reliability and validity of the Social and Prevocational Information Battery for 
+mildly retarded individuals.
+
+Irvin LK, Halpern AS.
+
+The reliability and validity of the Social and Prevocational Information Battery 
+(SPIB) for EMR individuals was evaluated with samples other than those on whom
+the battery was developed. Results substantiated initially reported reliability
+and validity indices and provided encouraging evidence for the general
+appropriateness of the SPIB for use with mildly retarded adolescents and young
+adults.
+
+PMID: 868930  [PubMed - indexed for MEDLINE]
+
+

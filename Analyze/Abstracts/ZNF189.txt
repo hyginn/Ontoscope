@@ -1,0 +1,177 @@
+
+1. ScientificWorldJournal. 2012;2012:721313. doi: 10.1100/2012/721313. Epub 2012 Jun
+4.
+
+Correlation of dynamic PET and gene array data in patients with gastrointestinal 
+stromal tumors.
+
+Strauss LG(1), Dimitrakopoulou-Strauss A, Koczan D, Pan L, Hohenberger P.
+
+Author information: 
+(1)Medical PET Group, Biological Imaging, CCU Nuclear Medicine, German Cancer
+Research Center, 69120 Heidelberg, Germany. lgs@ads-lgs.de
+
+INTRODUCTION: The results obtained with dynamic PET (dPET) were compared to gene 
+expression data obtained in patients with gastrointestinal stromal tumors (GIST).
+The primary aim was to assess the association of the dPET results and gene
+expression data.
+MATERIAL AND METHODS: dPET was performed following the injection of
+F-18-fluorodeoxyglucose (FDG) in 22 patients with GIST. All patients were
+examined prior to surgery for staging purpose. Compartment and noncompartment
+models were used for the quantitative evaluation of the dPET examinations. Gene
+array data were based on tumor specimen obtained by surgery after the PET
+examinations.
+RESULTS: The data analysis revealed significant correlations for the dPET
+parameters and the expression of zinc finger genes (znf43, znf85, znf91, znf189).
+Furthermore, the transport of FDG (k1) was associated with VEGF-A. The cell cycle
+gene cyclin-dependent kinase inhibitor 1C was correlated with the maximum tracer 
+uptake (SUVmax) in the tumors.
+CONCLUSIONS: The data demonstrate a dependency of the tracer kinetics on genes
+associated with prognosis in GIST. Furthermore, angiogenesis and cell
+proliferation have an impact on the tracer uptake.
+
+PMCID: PMC3373132
+PMID: 22701369  [PubMed - indexed for MEDLINE]
+
+
+2. PLoS One. 2010 Jul 9;5(7):e11493. doi: 10.1371/journal.pone.0011493.
+
+Maternal genes and facial clefts in offspring: a comprehensive search for genetic
+associations in two population-based cleft studies from Scandinavia.
+
+Jugessur A(1), Shi M, Gjessing HK, Lie RT, Wilcox AJ, Weinberg CR, Christensen K,
+Boyles AL, Daack-Hirsch S, Nguyen TT, Christiansen L, Lidral AC, Murray JC.
+
+Author information: 
+(1)Division of Epidemiology, Norwegian Institute of Public Health, Oslo, Norway.
+
+BACKGROUND: Fetal conditions can in principle be affected by the mother's
+genotype working through the prenatal environment.
+METHODOLOGY/PRINCIPAL FINDINGS: Genotypes for 1536 SNPs in 357 cleft candidate
+genes were available from a previous analysis in which we focused on fetal gene
+effects. After data-cleaning, genotypes for 1315 SNPs in 334 autosomal genes were
+available for the current analysis of maternal gene effects. Two complementary
+statistical methods, TRIMM and HAPLIN, were used to detect multi-marker effects
+in population-based samples from Norway (562 case-parent and 592 control-parent
+triads) and Denmark (235 case-parent triads). We analyzed isolated cleft lip with
+or without cleft palate (iCL/P) and isolated cleft palate only (iCP) separately
+and assessed replication by looking for genes detected in both populations by
+both methods. In iCL/P, neither TRIMM nor HAPLIN detected more genes than
+expected by chance alone; furthermore, the selected genes were not replicated
+across the two methods. In iCP, however, FLNB was identified by both methods in
+both populations. Although HIC1 and ZNF189 did not fully satisfy our stringency
+criterion for replication, they were strongly associated with iCP in TRIMM
+analyses of the Norwegian triads.
+CONCLUSION/SIGNIFICANCE: Except for FLNB, HIC1 and ZNF189, maternal genes did not
+appear to influence the risk of clefting in our data. This is consistent with
+recent epidemiological findings showing no apparent difference between
+mother-to-offspring and father-to-offspring recurrence of clefts in these two
+populations. It is likely that fetal genes make the major genetic contribution to
+clefting risk in these populations, but we cannot rule out the possibility that
+maternal genes can affect risk through interactions with specific teratogens or
+fetal genes.
+
+PMCID: PMC2901336
+PMID: 20634891  [PubMed - indexed for MEDLINE]
+
+
+3. J Pathol. 2001 May;194(1):76-80.
+
+The chromosome 9q genes TGFBR1, TSC1, and ZNF189 are rarely mutated in bladder
+cancer.
+
+van Tilborg AA(1), de Vries A, Zwarthoff EC.
+
+Author information: 
+(1)Josephine Nefkens Institute, Department of Pathology, PO Box 1738, 3000 DR
+Rotterdam, The Netherlands.
+
+This study assessed a series of bladder tumours and bladder tumour cell lines for
+sequence variation in the Krüppel-like zinc finger gene ZNF189, the tuberous
+sclerosis complex gene 1 (TSC1), and the TGF beta receptor type I (TGFBR1). All
+three genes have been mapped to 9q regions commonly deleted in transitional cell 
+carcinoma of the bladder. Mutation analysis of the coding sequence of these genes
+revealed several variant bands that were shown to represent polymorphisms.
+Mutation analysis of the ZNF189 gene in bladder cancer cell lines identified one 
+amino acid substitution (lysine-->isoleucine) at position 323 in exon 4. For the 
+TSC1 gene, two mutations were identified in two out of 27 independent cell lines.
+Both mutations result in a truncated protein. Furthermore, one out of 36 bladder 
+tumours had a frameshift mutation in exon 7 of the TSC1 gene. No tumour-specific 
+mutations were found in the TGFBR1 gene. The length of the polyalanine tract
+present in exon 1 of the TGFBR1 gene was also investigated. It has been suggested
+that the allele with six alanines (6A) is more frequent in patients with bladder 
+and other cancers, so bladder cancer patients were compared with normal controls.
+In both groups, the percentage of heterozygotes was 17%. These data do not
+support a role for the 6A allele in bladder cancer susceptibility.
+
+Copyright 2001 John Wiley & Sons, Ltd.
+
+PMID: 11329144  [PubMed - indexed for MEDLINE]
+
+
+4. Gene. 1999 Jul 22;235(1-2):103-9.
+
+Context-dependent Taq-polymerase-mediated nucleotide alterations, as revealed by 
+direct sequencing of the ZNF189 gene: implications for mutation detection.
+
+Odeberg J(1), Ahmadian A, Williams C, Uhlén M, Pontén F, Lundeberg J.
+
+Author information: 
+(1)Department of Biotechnology, KTH Royal Institute of Technology, Teknikringen
+30, S-10044, Stockholm, Sweden.
+
+We have recently reported on the genetic organisation of a novel Krüppel-like
+zinc finger, ZNF189, located to 9q22-q31. In that study we found no mutations in 
+the coding sequence when using ZNF189 as a candidate gene for sporadic basal cell
+cancer and squamous cell cancer. Here, by direct sequencing of the proximal
+promotor of ZNF189, mutations were found to appear in a small hot-spot region in 
+over 50% of analysed tumour samples, the majority being G to A substitutions. The
+hot-spot region spans a 24bp G-rich region. Repeated analyses of the original
+sample lysates fail to confirm each of these mutations; and frequently new
+mutations appear at neighbouring positions. Subsequent analysis with serial
+dilutions of genomic DNA and a cosmid harbouring the wild-type ZNF189 gene
+demonstrate that these sequence-specific alterations arise in the outer
+PCR-amplification when 50 copies or less of template are used. Although the
+mechanism of how these context-specific alterations arise is not proven, the
+results demonstrate a previously unreported type of PCR-mediated
+sequence-specific alteration that easily could have been interpreted as being of 
+clinical relevance. The phenomena observed show that mutations detected by direct
+sequencing can be caused by PCR-introduced alterations. Consequently, this should
+be of general caution in mutation analysis of disease gene candidates when using 
+small amounts of template, such as microdissected biopsies.
+
+PMID: 10415338  [PubMed - indexed for MEDLINE]
+
+
+5. Genomics. 1998 Jun 1;50(2):213-21.
+
+Cloning and characterization of ZNF189, a novel human Krüppel-like zinc finger
+gene localized to chromosome 9q22-q31.
+
+Odeberg J(1), Røsok O, Gudmundsson GH, Ahmadian A, Roshani L, Williams C, Larsson
+C, Pontén F, Uhlén M, Asheim HC, Lundeberg J.
+
+Author information: 
+(1)Department of Biochemistry, Royal Institute of Technology (KTH), Stockholm,
+Sweden.
+
+A 3-kb-long cDNA encoding a Krüppel-like human zinc finger protein was isolated
+and mapped to chromosome 9q22-q31. The ZNF189 gene encodes a protein with 16 zinc
+fingers at its C-terminus and belongs to the Krüppel-associated box
+(KRAB)-containing group of zinc finger proteins. Four differently spliced cDNA
+transcripts, differing at the 5' coding region where a KRAB A repressor domain is
+encoded, were isolated. In addition, Northern blot analysis indicates the
+presence of two additional unidentified splice variants. Comparison of cDNA and
+genomic sequences shows that the ZNF189 gene spans approximately 11 kb and is
+organized into at least four exons, the large 3'-end exon coding for the complete
+zinc finger domain and the 3' untranslated region. ZNF189 is expressed in all
+tissues and cell types currently investigated, at varying levels, but with a
+tissue- or cell-type-restricted expression pattern for the different splice
+variants. ZNF189 is conserved in the genome of several mammalian species. Direct 
+sequencing of the ZNF189 gene in microdissected tumor biopsies of sporadic basal 
+cell carcinoma and squamous cell carcinoma reveals no mutations in the coding
+sequence or at exon/intron boundaries.
+
+PMID: 9653648  [PubMed - indexed for MEDLINE]
+
+

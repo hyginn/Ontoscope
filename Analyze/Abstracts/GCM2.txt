@@ -1,0 +1,3606 @@
+
+1. Sci Rep. 2016 Feb 22;6:21630. doi: 10.1038/srep21630.
+
+GATA3 inhibits GCM1 activity and trophoblast cell invasion.
+
+Chiu YH(1,)(2), Chen H(1,)(2).
+
+Author information: 
+(1)Graduate Institute of Biochemical Sciences, National Taiwan University, Taipei
+106, Taiwan. (2)Institute of Biological Chemistry, Academia Sinica, Nankang,
+Taipei 115, Taiwan.
+
+Development of human placenta involves the invasion of trophoblast cells from
+anchoring villi into the maternal decidua. Placental transcription factor GCM1
+regulates trophoblast cell invasion via transcriptional activation of HtrA4 gene,
+which encodes a serine protease enzyme. The GATA3 transcription factor regulates 
+trophoblast cell differentiation and is highly expressed in invasive murine
+trophoblast giant cells. The regulation of trophoblastic invasion by GCM1 may
+involve novel cellular factors. Here we show that GATA3 interacts with GCM1 and
+inhibits its activity to suppress trophoblastic invasion. Immunohistochemistry
+demonstrates that GATA3 and GCM1 are coexpressed in villous cytotrophoblast
+cells, syncytiotrophoblast layer, and extravillous trophoblast cells of human
+placenta. Interestingly, GATA3 interacts with GCM1, but not the GCM2 homologue,
+through the DNA-binding domain and first transcriptional activation domain in
+GCM1 and the transcriptional activation domains and zinc finger 1 domain in
+GATA3. While GATA3 did not affect DNA-binding activity of GCM1, it suppressed
+transcriptional activity of GCM1 and therefore HtrA4 promoter activity.
+Correspondingly, GATA3 knockdown elevated HtrA4 expression in BeWo and JEG-3
+trophoblast cell lines and enhanced the invasion activities of both lines. This
+study uncovered a new GATA3 function in placenta as a negative regulator of GCM1 
+activity and trophoblastic invasion.
+
+PMCID: PMC4761948
+PMID: 26899996  [PubMed - in process]
+
+
+2. Mol Cell Endocrinol. 2016 Feb 15;422:93-102. doi: 10.1016/j.mce.2015.12.001. Epub
+2015 Dec 8.
+
+Cortisol regulates sodium homeostasis by stimulating the transcription of
+sodium-chloride transporter (NCC) in zebrafish (Danio rerio).
+
+Lin CH(1), Hu HJ(2), Hwang PP(3).
+
+Author information: 
+(1)Institute of Cellular and Organismic Biology, Academia Sinica, Taipei 115,
+Taiwan; National Institute for Basic Biology, National Institutes of Natural
+Sciences, Okazaki, Aichi 444-8787, Japan. (2)Institute of Cellular and Organismic
+Biology, Academia Sinica, Taipei 115, Taiwan. (3)Institute of Cellular and
+Organismic Biology, Academia Sinica, Taipei 115, Taiwan. Electronic address:
+pphwang@gate.sinica.edu.tw.
+
+In mammals, sodium/hydrogen exchanger (NHE) and sodium-chloride cotransporter
+(NCC) are expressed in renal tubules, and exhibit functional redundancy and
+mutual compensation in Na(+) uptake. In teleosts, the gills of the adult and skin
+of the embryonic stage function as external kidneys, and ionocytes are
+responsible for ionoregulation in these tissues. NHE- and NCC-expressing
+ionocytes mutually cooperate to adjust Na(+) uptake, which is analogous to the
+activity of the mammalian kidney. Cortisol is a hormone that controls Na(+)
+uptake through regulating NCC expression and activity in mammals; however,
+cortisol-mediated control of NCC expression is little understood in non-mammalian
+vertebrates, such as teleosts. It is essential for our understanding of the
+evolution of such regulation to determine whether cortisol has a conserved effect
+on NCC in vertebrates. In the present study, we treated zebrafish embryos with
+low Na(+) medium (LNa, 0.04 mM Na(+)) for 3 d to stimulate the mRNA expression of
+nhe3b, ncc, and cyp11b1 (a cortisol-synthesis enzyme) and whole body cortisol
+level. Exogenous cortisol treatment (20 mg/l, 3 d) resulted in an elevation of
+whole-body Na(+) content, ncc expression, and the density of ncc-expressing cells
+in zebrafish larvae. In loss-of-function experiments, microinjection of
+glucocorticoid receptor (gr) morpholino (MO) suppressed sodium content, ncc
+expression, and the density of ncc-expressing cells, but injection of mr MO had
+no such effects. In addition, exogenous cortisol treatment and gr MO injection
+also altered ncc expression and the density of ncc-expressing cells in gcm2
+morphant larvae. Taken together, cortisol and GR appear to regulate Na(+)
+absorption through stimulating ncc expression and the differentiation of
+ncc-expressing ionocytes, providing new insights into the actions of cortisol on 
+Na(+) uptake.
+
+Copyright © 2015 Elsevier Ireland Ltd. All rights reserved.
+
+PMID: 26678829  [PubMed - in process]
+
+
+3. Dev Dyn. 2015 Jul;244(7):888-902. doi: 10.1002/dvdy.24290. Epub 2015 Jun 18.
+
+Evidence for two distinct waves of epidermal ionocyte differentiation during
+medaka embryonic development.
+
+Trayer V(1), Séjourné N(1), Gay S(1), Thermes V(1).
+
+Author information: 
+(1)INRA, UR1037 LPGP Fish Physiology and Genomics, Campus de Beaulieu, Rennes,
+France.
+
+BACKGROUND: The fish epidermis contains specific cells, or ionocytes, that are
+specialized in ion transport and contribute to the osmoregulatory function.
+Besides the zebrafish model, the medaka (Oryzias latipes) has recently emerged as
+an important model for osmoregulation studies because it possesses a particularly
+high adaptability to salinity changes. However, hindering the progress of
+research on embryonic ionocytes is the lack of a comprehensive view of their
+developmental dynamic.
+RESULTS: Using EdU integrations and the foxi3 and NKA markers, we characterized
+the proliferating progenitors of ionocytes (here called ionoblastes) and we
+quantified them, along with ionocytes, during embryogenesis. While progenitors of
+the vitellin zone promptly differentiate in a synchronous manner, progenitors of 
+the lateral zone differentiate progressively and asynchronously. Furthermore, we 
+evidenced that nhe3 is expressed in differentiated ionocytes of both zones,
+whereas ecac, ncc, and gcm2 are strictly specific of the lateral zone. We also
+evidenced that the two zones are differentially regulated in distilled water and 
+seawater.
+CONCLUSIONS: Our data led us to propose a model timeline, which provides evidence
+for the expansion of two successive and distinct populations of ionocytes. This
+model opens the way for new studies related to epidermal development, plasticity 
+and osmoregulation ontogeny.
+
+© 2015 Wiley Periodicals, Inc.
+
+PMID: 25963515  [PubMed - indexed for MEDLINE]
+
+
+4. Mol Cell Endocrinol. 2015 Aug 15;411:113-20. doi: 10.1016/j.mce.2015.04.018. Epub
+2015 Apr 24.
+
+Gata3 cooperates with Gcm2 and MafB to activate parathyroid hormone gene
+expression by interacting with SP1.
+
+Han SI(1), Tsunekage Y(1), Kataoka K(2).
+
+Author information: 
+(1)Laboratory of Molecular Medical Bioscience, Graduate School of Medical Life
+Science, Yokohama City University, 1-7-29 Suehiro-cho, Tsurumi-ku, Yokohama
+230-0045, Japan. (2)Laboratory of Molecular Medical Bioscience, Graduate School
+of Medical Life Science, Yokohama City University, 1-7-29 Suehiro-cho,
+Tsurumi-ku, Yokohama 230-0045, Japan. Electronic address:
+kkataoka@tsurumi.yokohama-cu.ac.jp.
+
+Haploinsufficiency of the Gata3 gene, which encodes a zinc-finger transcription
+factor, is associated with the disorder hypoparathyroidism, deafness, and renal
+dysplasia (HDR) syndrome in humans. However, the roles of Gata3 in
+transcriptional regulation in the parathyroid glands are not well-understood. In 
+this study, we show that Gata3 activates transcription of parathyroid hormone
+(PTH), which is secreted from parathyroid glands and is critical for regulating
+serum calcium and phosphate homeostasis. Gata3 interacted with Gcm2 and MafB, two
+known transcriptional regulators of parathyroid development, and synergistically 
+stimulated the PTH promoter. An SP1-binding element (GC box) located within the
+PTH-promoter proximal region was critical for activating transcription by Gata3. 
+In addition, the ubiquitous transcription factor SP1 also interacted with Gata3
+as well as MafB and Gcm2, and HDR syndrome-associated Gata3 mutants were
+defective in activating the PTH promoter. These results suggest that Gata3 is a
+critical regulator of PTH gene expression.
+
+Copyright © 2015 Elsevier Ireland Ltd. All rights reserved.
+
+PMID: 25917456  [PubMed - indexed for MEDLINE]
+
+
+5. Endocrinology. 2015 Jul;156(7):2384-94. doi: 10.1210/en.2014-1968. Epub 2015 Apr 
+14.
+
+An Essential Role for Parathyroid Hormone in Gill Formation and Differentiation
+of Ion-Transporting Cells in Developing Zebrafish.
+
+Kwong RW(1), Perry SF(1).
+
+Author information: 
+(1)Department of Biology, University of Ottawa, Ottawa, Ontario, Canada K1N 6N5.
+
+In vertebrates, parathyroid hormone (PTH) is important for skeletogenesis and
+Ca(2+) homeostasis. However, little is known about the molecular mechanisms by
+which PTH regulates skeleton formation and Ca(2+) balance during early
+development. Using larval zebrafish as an in vivo model system, we determined
+that PTH1 regulates the differentiation of epithelial cells and the development
+of craniofacial cartilage. We demonstrated that translational gene knockdown of
+PTH1 decreased Ca(2+) uptake at 4 days after fertilization. We also observed that
+PTH1-deficient fish exhibited reduced numbers of epithelial Ca(2+) channel
+(ecac)-expressing cells, Na(+)/K(+)-ATPase-rich cells, and H(+)-ATPase-rich
+cells. Additionally, the density of epidermal stem cells was decreased
+substantially in the fish experiencing PTH1 knockdown. Knockdown of PTH1 caused a
+shortening of the jaw and impeded the development of branchial arches. Results
+from in situ hybridization suggested that the expression of collagen 2a1a (marker
+for proliferating chondrocytes) was substantially reduced in the cartilage that
+forms the jaw and branchial aches. Disorganization of chondrocytes in
+craniofacial cartilage also was observed in PTH1-deficient fish. The results of
+real-time PCR demonstrated that PTH1 morphants failed to express the
+transcription factor glial cell missing 2 (gcm2). Coinjection of PTH1 morpholino 
+with gcm2 capped RNA rescued the phenotypes observed in the PTH1 morphants,
+suggesting that the defects in PTH1-deficient fish were caused, at least in part,
+by the suppression of gcm2. Taken together, the results of the present study
+reveal critical roles for PTH1 in promoting the differentiation of epidermal stem
+cells into mature ionocytes and cartilage formation during development.
+
+PMID: 25872007  [PubMed - indexed for MEDLINE]
+
+
+6. J Clin Endocrinol Metab. 2014 Dec;99(12):E2794-8. doi: 10.1210/jc.2014-2857.
+
+Increased prevalence of the GCM2 polymorphism, Y282D, in primary
+hyperparathyroidism: analysis of three Italian cohorts.
+
+D'Agruma L(1), Coco M, Guarnieri V, Battista C, Canaff L, Salcuni AS, Corbetta S,
+Cetani F, Minisola S, Chiodini I, Eller-Vainicher C, Spada A, Marcocci C,
+Guglielmi G, Zini M, Clemente R, Wong BY, de Martino D, Scillitani A, Hendy GN,
+Cole DE.
+
+Author information: 
+(1)Medical Genetics, Endocrinology, Pathology and Radiology (L.D., M.C., V.G.,
+C.B., A.S.S. G.G., R.C., D.d.M., A.Sc.), Istituto di Ricovero e Cura a Carattere 
+Scientifico (IRCCS) "Casa Sollievo della Sofferenza," 71013 San Giovanni Rotondo 
+(FG), Italy; Endocrine and Diabetology Unit (I.C., C.E.-V., A.Sp.) Department of 
+Medical Sciences, University of Milan and IRCCS Policlinico San Donato (S.C.),
+San Donato Milanese, Milan, Italy; Departments of Endocrinology and Metabolism
+(F.C., C.M.), University of Pisa, Pisa, Italy; Department of Internal Medicine
+and Medical Disciplines (S.M.), "Sapienza" Rome University, Rome, Italy;
+Endocrine Unit (M.Z.), Arcispedale S. Maria Nuova IRCCS, Reggio Emilia, Italy;
+Departments of Medicine, Physiology and Human Genetics (L.C., G.N.H.), McGill
+University, and Calcium Research Laboratory, and Hormones and Cancer Research
+Unit, Royal Victoria Hospital, Montreal, Quebec, H3A 1A1 Canada; and Departments 
+of Laboratory Medicine and Pathobiology, Medicine and Genetics (B.Y.L.W.,
+D.E.C.C.), University of Toronto, Ontario, M4N 3M5 Canada.
+
+CONTEXT: Glial cells missing-2 (GCM2) is key for parathyroid gland organogenesis.
+Its persistent expression in the adult parathyroid raises the possibility that
+overactive forms play a role in the evolution of parathyroid hyperactivity or
+tumorigenesis. A GCM2 c.844T <U+2192> G; p.Y282D missense variant has been described
+within a transactivation inhibitory domain (amino acids 263-352).
+OBJECTIVE: The aims of the study were to 1) assess the frequency of Y282D in
+Italian primary hyperparathyroidism (PHPT) and control (C) populations, 2) test
+for association of 282D with PHPT and its phenotypic features, and 3) compare the
+transactivation potency of GCM2 282D relative to wild-type Y282.
+SUBJECTS AND METHODS: Subjects included a large southern Italian cohort (310 PHPT
+and 433 C) and 2 replication cohorts from northern Italy. Association of 282D
+with PHPT was tested in all cohorts and with phenotypic features in the larger
+PHPT cohort. An in vitro GCM promoter-luciferase reporter assay was conducted in 
+HEK293 cells.
+RESULTS: 282D was significantly increased in the PHPT group, with a minor allele 
+frequency of 0.066 compared with 0.029 in the C group (P = .0008), in the
+discovery cohort and was more prevalent in the replication cohorts. Combined
+analysis (510 PHPT and 665 C) yielded a likelihood ratio of 2.27 (95% confidence 
+interval = 1.50-3.42; P < .0001). The 282D variant was not associated with serum 
+calcium, phosphate, creatinine, or PTH levels or with bone mineral density,
+fractures, or renal stones in the PHPT group. The 282D variant had significantly 
+greater transcriptional activity than the wild-type Y282 (17× basal vs 12× basal;
+P < 0.05).
+CONCLUSION: The higher frequency of GCM2 282D in PHPT and enhanced
+transcriptional activity of this variant supports the notion that it could
+contribute causally to parathyroid tumorigenesis.
+
+PMID: 25279501  [PubMed - indexed for MEDLINE]
+
+
+7. Development. 2014 Oct;141(19):3697-708. doi: 10.1242/dev.110833. Epub 2014 Sep 5.
+
+Multiple roles for HOXA3 in regulating thymus and parathyroid differentiation and
+morphogenesis in mouse.
+
+Chojnowski JL(1), Masuda K(1), Trau HA(1), Thomas K(2), Capecchi M(3), Manley
+NR(4).
+
+Author information: 
+(1)Department of Genetics, Paul D. Coverdell Center, 500 DW Brooks Drive,
+University of Georgia, Athens, GA 30602, USA. (2)Division of Hematology and
+Program in Molecular Medicine, University of Utah School of Medicine, Salt Lake
+City, UT 84132, USA. (3)Department of Human Genetics, Howard Hughes Medical
+Institute, University of Utah School of Medicine, Salt Lake City, UT 84132, USA. 
+(4)Department of Genetics, Paul D. Coverdell Center, 500 DW Brooks Drive,
+University of Georgia, Athens, GA 30602, USA nmanley@uga.edu.
+
+Hoxa3 was the first Hox gene to be mutated by gene targeting in mice and is
+required for the development of multiple endoderm and neural crest cell
+(NCC)-derived structures in the pharyngeal region. Previous studies have shown
+that the Hoxa3 null mutant lacks third pharyngeal pouch derivatives, the thymus
+and parathyroids by E18.5, and organ-specific markers are absent or downregulated
+during initial organogenesis. Our current analysis of the Hoxa3 null mutant shows
+that organ-specific domains did undergo initial patterning, but the location and 
+timing of key regional markers within the pouch, including Tbx1, Bmp4 and Fgf8,
+were altered. Expression of the parathyroid marker Gcm2 was initiated but was
+quickly downregulated and differentiation failed; by contrast, thymus markers
+were delayed but achieved normal levels, concurrent with complete loss through
+apoptosis. To determine the cell type-specific roles of Hoxa3 in third pharyngeal
+pouch development, we analyzed tissue-specific mutants using endoderm and/or
+NCC-specific Cre drivers. Simultaneous deletion with both drivers resulted in
+athymia at E18.5, similar to the null. By contrast, the individual
+tissue-specific Hoxa3 deletions resulted in small, ectopic thymi, although each
+had a unique phenotype. Hoxa3 was primarily required in NCCs for morphogenesis.
+In endoderm, Hoxa3 temporally regulated initiation of the thymus program and was 
+required in a cell-autonomous manner for parathyroid differentiation.
+Furthermore, Hoxa3 was required for survival of third pharyngeal pouch-derived
+organs, but expression in either tissue was sufficient for this function. These
+data show that Hoxa3 has multiple complex and tissue-specific functions during
+patterning, differentiation and morphogenesis of the thymus and parathyroids.
+
+© 2014. Published by The Company of Biologists Ltd.
+
+PMCID: PMC4197593
+PMID: 25249461  [PubMed - indexed for MEDLINE]
+
+
+8. J Clin Endocrinol Metab. 2014 Nov;99(11):E2421-8. doi: 10.1210/jc.2014-2174. Epub
+2014 Aug 19.
+
+Comprehensive next-generation sequencing analyses of hypoparathyroidism:
+identification of novel GCM2 mutations.
+
+Mitsui T(1), Narumi S, Inokuchi M, Nagasaki K, Nakazawa M, Sasaki G, Hasegawa T.
+
+Author information: 
+(1)Department of Pediatrics (T.M., S.N., M.I., T.H.), Keio University School of
+Medicine, Tokyo 160-8582, Japan; Division of Pediatrics (K.N.), Department of
+Homeostatic Regulation and Development, Niigata University Graduate School of
+Medicine and Dental Sciences, Niigata 951-8510, Japan; Department of Pediatrics
+(M.N.), Tokyo Metropolitan Ohtsuka Hospital, Tokyo 170-8476, Japan; and
+Department of Pediatrics (G.S.), Tokyo Dental College Ichikawa General Hospital, 
+Chiba 272-8513, Japan.
+
+CONTEXT: In most patients with hypoparathyroidism (HP), the etiology is not
+defined clinically. Eight genes (AIRE, CASR, CLDN16, GATA3, GCM2, PTH, TBCE, and 
+TRPM6) are known to be responsible genes associated with HP; however, no previous
+study has screened the eight responsible genes comprehensively in HP patients.
+OBJECTIVES: This study was conducted to determine the genetic defect in HP
+patients. We also described clinical and molecular findings of two HP patients
+with novel GCM2 mutations.
+SUBJECTS AND METHODS: We enrolled 20 nonconsanguineous Japanese patients with
+child-onset permanent HP without 22q11 deletion. Mutations and genomic
+rearrangements involving the eight genes were screened by targeted
+next-generation sequencing (NGS). We also screened genetic rearrangements by
+array comparative genomic hybridization (aCGH) in the mutation-negative patients.
+A putative deletion, which was suspected by NGS, was additionally analyzed by
+droplet digital PCR (ddPCR) and junction PCR. Identified novel nucleotide-level
+GCM2 mutants were characterized in vitro.
+RESULTS: We identified seven patients with a single gene disorder, including a
+CASR mutation, GATA3 mutations, and novel GCM2 mutations (R367Tfs*15, T370M, and 
+the deletion encompassing exon 1). This submicroscopic deletion, which had been
+suspected by NGS, could not be detected by aCGH and was confirmed by ddPCR and
+junction PCR. Functional studies of R367Tfs*- and T370M-GCM2 demonstrated a
+reduction of target gene transactivation in both.
+CONCLUSIONS: Using comprehensive NGS analyses, we identified the genetic defect
+in 35% of HP patients in our cohort and discovered novel GCM2 mutations including
+submicroscopic deletion that was undetectable by aCGH.
+
+PMID: 25137426  [PubMed - indexed for MEDLINE]
+
+
+9. Development. 2014 Aug;141(15):2950-8. doi: 10.1242/dev.111641.
+
+Ectopic TBX1 suppresses thymic epithelial cell differentiation and proliferation 
+during thymus organogenesis.
+
+Reeh KA(1), Cardenas KT(1), Bain VE(1), Liu Z(2), Laurent M(1), Manley NR(2),
+Richie ER(3).
+
+Author information: 
+(1)Department of Molecular Carcinogenesis, University of Texas, M.D. Anderson
+Cancer Center, Science Park Research Division, Smithville, TX 78957, USA.
+(2)Department of Genetics, Paul D. Coverdell Center, 500 DW Brooks Drive,
+University of Georgia, Athens, GA 30602, USA. (3)Department of Molecular
+Carcinogenesis, University of Texas, M.D. Anderson Cancer Center, Science Park
+Research Division, Smithville, TX 78957, USA erichie@mdanderson.org.
+
+The thymus and parathyroid glands arise from a shared endodermal primordium in
+the third pharyngeal pouch (3rd pp). Thymus fate is specified in the ventral 3rd 
+pp between E9.5 and E11, whereas parathyroid fate is specified in the dorsal
+domain. The molecular mechanisms that specify fate and regulate thymus and
+parathyroid development are not fully delineated. Previous reports suggested that
+Tbx1 is required for thymus organogenesis because loss of Tbx1 in individuals
+with DiGeorge syndrome and in experimental Tbx1 deletion mutants is associated
+with thymus aplasia or hypoplasia. However, the thymus phenotype is likely to be 
+secondary to defects in pharyngeal pouch formation. Furthermore, the absence of
+Tbx1 expression in the thymus-fated domain of the wild-type 3rd pp suggested that
+Tbx1 is instead a negative regulator of thymus organogenesis. To test this
+hypothesis, we generated a novel mouse strain in which expression of a
+conditional Tbx1 allele was ectopically activated in the thymus-fated domain of
+the 3rd pp. Ectopic Tbx1 expression severely repressed expression of Foxn1, a
+transcription factor that marks the thymus-fated domain and is required for
+differentiation and proliferation of thymic epithelial cell (TEC) progenitors. By
+contrast, ectopic Tbx1 did not alter the expression pattern of Gcm2, a
+transcription factor restricted to the parathyroid-fated domain and required for 
+parathyroid development. Ectopic Tbx1 expression impaired TEC proliferation and
+arrested TEC differentiation at an early progenitor stage. The results support
+the hypothesis that Tbx1 negatively regulates TEC growth and differentiation, and
+that extinction of Tbx1 expression in 3rd pp endoderm is a prerequisite for
+thymus organogenesis.
+
+© 2014. Published by The Company of Biologists Ltd.
+
+PMCID: PMC4197657
+PMID: 25053428  [PubMed - indexed for MEDLINE]
+
+
+10. Dis Model Mech. 2014 Jul;7(7):847-56. doi: 10.1242/dmm.016576.
+
+The zebrafish merovingian mutant reveals a role for pH regulation in hair cell
+toxicity and function.
+
+Stawicki TM(1), Owens KN(2), Linbo T(3), Reinhart KE(3), Rubel EW(4), Raible
+DW(5).
+
+Author information: 
+(1)Department of Biological Structure, University of Washington, Seattle, WA
+98195, USA. Virginia Merrill Bloedel Hearing Research Center, University of
+Washington, Seattle, WA 98195, USA. (2)Department of Biological Structure,
+University of Washington, Seattle, WA 98195, USA. Virginia Merrill Bloedel
+Hearing Research Center, University of Washington, Seattle, WA 98195, USA.
+Department of Otolaryngology, Head and Neck Surgery, University of Washington,
+Seattle, WA 98195, USA. (3)Department of Biological Structure, University of
+Washington, Seattle, WA 98195, USA. (4)Virginia Merrill Bloedel Hearing Research 
+Center, University of Washington, Seattle, WA 98195, USA. Department of
+Otolaryngology, Head and Neck Surgery, University of Washington, Seattle, WA
+98195, USA. (5)Department of Biological Structure, University of Washington,
+Seattle, WA 98195, USA. Virginia Merrill Bloedel Hearing Research Center,
+University of Washington, Seattle, WA 98195, USA. draible@u.washington.edu.
+
+Control of the extracellular environment of inner ear hair cells by ionic
+transporters is crucial for hair cell function. In addition to inner ear hair
+cells, aquatic vertebrates have hair cells on the surface of their body in the
+lateral line system. The ionic environment of these cells also appears to be
+regulated, although the mechanisms of this regulation are less understood than
+those of the mammalian inner ear. We identified the merovingian mutant through
+genetic screening in zebrafish for genes involved in drug-induced hair cell
+death. Mutants show complete resistance to neomycin-induced hair cell death and
+partial resistance to cisplatin-induced hair cell death. This resistance is
+probably due to impaired drug uptake as a result of reduced mechanotransduction
+ability, suggesting that the mutants have defects in hair cell function
+independent of drug treatment. Through genetic mapping we found that merovingian 
+mutants contain a mutation in the transcription factor gcm2. This gene is
+important for the production of ionocytes, which are cells crucial for whole body
+pH regulation in fish. We found that merovingian mutants showed an acidified
+extracellular environment in the vicinity of both inner ear and lateral line hair
+cells. We believe that this acidified extracellular environment is responsible
+for the defects seen in hair cells of merovingian mutants, and that these mutants
+would serve as a valuable model for further study of the role of pH in hair cell 
+function.
+
+© 2014. Published by The Company of Biologists Ltd.
+
+PMCID: PMC4073274
+PMID: 24973752  [PubMed - indexed for MEDLINE]
+
+
+11. Pflugers Arch. 2015 Apr;467(4):651-64. doi: 10.1007/s00424-014-1550-y. Epub 2014 
+Jun 18.
+
+Hydrogen sulfide inhibits Na+ uptake in larval zebrafish, Danio rerio.
+
+Kumai Y(1), Porteus CS, Kwong RW, Perry SF.
+
+Author information: 
+(1)Department of Biology, University of Ottawa, 30 Marie Curie, Ottawa, ON, K1N
+6N5, Canada.
+
+The present study investigated the role of hydrogen sulfide (H2S) in regulating
+Na(+) uptake in larval zebrafish, Danio rerio. Waterborne treatment of larvae at 
+4 days post-fertilization (dpf) with Na2S or GYY-4137 (chemicals known to
+generate H2S) significantly reduced Na(+) uptake. Exposure of larvae to water
+enriched with NaCl (1 mM NaCl) caused a pronounced reduction in Na(+) uptake
+which was prevented by pharmacological inhibition of cystathionine ß-synthase
+(CBS) or cystathionine <U+03B3>-lyase (CSE), two key enzymes involved in the endogenous 
+synthesis of H2S. Furthermore, translational gene knockdown of CSE and CBSb
+significantly increased the basal rate of Na(+) uptake. Waterborne treatment with
+Na2S significantly decreased whole-body acid excretion and reduced Na(+) uptake
+in larval zebrafish preexposed to acidic (pH 4.0) water (a condition shown to
+promote Na(+) uptake via Na(+)-H(+)-exchanger 3b, NHE3b). However, Na2S did not
+affect Na(+) uptake in larvae depleted of NHE3b-containing ionocytes (HR cells)
+after knockdown of transcription factor glial cell missing 2 (gcm2) in which
+Na(+) uptake occurs predominantly via Na(+)-Cl(-) co-transporter (NCC)-containing
+cells. These observations suggest that Na(+) uptake via NHE3b, but not NCC, is
+regulated by H2S. Whole-mount immunohistochemistry demonstrated that ionocytes
+expressing NHE3b also express CSE. These data suggests a physiologically relevant
+role of H2S as a mechanism to lower Na(+) uptake in zebrafish larvae, probably
+through its inhibitory action on NHE3b.
+
+PMID: 24939700  [PubMed - indexed for MEDLINE]
+
+
+12. Pflugers Arch. 2015 Apr;467(4):753-65. doi: 10.1007/s00424-014-1544-9. Epub 2014 
+Jun 5.
+
+A role for transcription factor glial cell missing 2 in Ca2+ homeostasis in
+zebrafish, Danio rerio.
+
+Kumai Y(1), Kwong RW, Perry SF.
+
+Author information: 
+(1)Department of Biology, University of Ottawa, 30 Marie Curie, Ottawa, ON, K1N 6
+N5, Canada.
+
+The present study investigated the role of the transcription factor, glial cell
+missing 2 (gcm2), in Ca(2+) regulation in zebrafish larvae. Translational gene
+knockdown of gcm2 decreased Ca(2+) uptake and the density of ionocytes expressing
+the epithelial Ca(2+) channel (ecac), and disrupted the overall Ca(2+) balance.
+Ca(2+) uptake and the expression of gcm2 messenger RNA (mRNA) were significantly 
+elevated in larvae acclimated to low Ca(2+) water (25 µM); the stimulation of
+Ca(2+) uptake was not observed in fish experiencing gcm2 knockdown. Acclimation
+to acidic water (pH 4) significantly reduced whole-body Ca(2+) content owing to
+reduced Ca(2+) uptake and increased Ca(2+) efflux. However, ecac mRNA levels and 
+the density of ecac-expressing ionocytes were increased in fish acclimated to
+acidic water, and maximal Ca(2+) uptake capacity (J MAX) was significantly
+increased when measured in control water (pH ~7.4). Acclimation of larvae to
+acidic water significantly increased gcm2 mRNA expression, and in gcm2 morphants,
+no such stimulation in Ca(2+) uptake was observed after their return to control
+water. Overexpression of gcm2 mRNA resulted in a significant increase in the
+numbers of ecac-expressing ionocytes and Ca(2+) uptake. These observations reveal
+a critical role for gcm2 in Ca(2+) homeostasis in zebrafish larvae.
+
+PMID: 24893788  [PubMed - indexed for MEDLINE]
+
+
+13. J Clin Endocrinol Metab. 2014 Sep;99(9):E1774-83. doi: 10.1210/jc.2014-1029. Epub
+2014 May 13.
+
+Autosomal dominant hypoparathyroidism caused by germline mutation in GNA11:
+phenotypic and molecular characterization.
+
+Li D(1), Opas EE, Tuluc F, Metzger DL, Hou C, Hakonarson H, Levine MA.
+
+Author information: 
+(1)Center for Applied Genomics (D.L., C.H., H.H.), Division of Endocrinology and 
+Diabetes (E.E.O., M.A.L.), Division of Allergy and Immunology (F.T.), Division of
+Pulmonary Medicine (H.H.), and Center for Bone Health (M.A.L.), The Children's
+Hospital of Philadelphia; and Department of Pediatrics (H.H., M.A.L.), University
+of Pennsylvania Perelman School of Medicine, Philadelphia, Pennsylvania 19104;
+and Endocrinology and Diabetes Unit (D.L.M.), British Columbia Children's
+Hospital, and Department of Pediatrics (D.L.M.), University of British Columbia, 
+Vancouver, British Columbia, Canada V5Z 4H4.
+
+CONTEXT: Most cases of autosomal dominant hypoparathyroidism (ADH) are caused by 
+gain-of-function mutations in CASR or dominant inhibitor mutations in GCM2 or
+PTH.
+OBJECTIVE: Our objectives were to identify the genetic basis for ADH in a
+multigenerational family and define the underlying disease mechanism.
+SUBJECTS: Here we evaluated a multigenerational family with ADH in which affected
+subjects had normal sequences in these genes and were shorter than unaffected
+family members.
+METHODS: We collected clinical and biochemical data from 6 of 11 affected
+subjects and performed whole-exome sequence analysis on DNA from two affected
+sisters and their affected father. Functional studies were performed after
+expression of wild-type and mutant Ga11 proteins in human embryonic
+kidney-293-CaR cells that stably express calcium-sensing receptors.
+RESULTS: Whole-exome-sequencing followed by Sanger sequencing revealed a
+heterozygous mutation, c.179G>T; p.R60L, in GNA11, which encodes the a-subunit of
+G11, the principal heterotrimeric G protein that couples calcium-sensing
+receptors to signal activation in parathyroid cells. Functional studies of Ga11
+R60L showed increased accumulation of intracellular concentration of free calcium
+in response to extracellular concentration of free calcium with a significantly
+decreased EC50 compared with wild-type Ga11. By contrast, R60L was significantly 
+less effective than the oncogenic Q209L form of Ga11 as an activator of the MAPK 
+pathway. Compared to subjects with CASR mutations, patients with GNA11 mutations 
+lacked hypercalciuria and had normal serum magnesium levels.
+CONCLUSIONS: Our findings indicate that the germline gain-of-function mutation of
+GNA11 is a cause of ADH and implicate a novel role for GNA11 in skeletal growth.
+
+PMCID: PMC4154081
+PMID: 24823460  [PubMed - indexed for MEDLINE]
+
+
+14. Transgenic Res. 2014 Aug;23(4):631-41. doi: 10.1007/s11248-014-9799-7. Epub 2014 
+Apr 16.
+
+Generation of mice encoding a conditional null allele of Gcm2.
+
+Yuan Z(1), Opas EE, Vrikshajanani C, Libutti SK, Levine MA.
+
+Author information: 
+(1)Department of Surgery, Albert Einstein College of Medicine, Yeshiva
+University, Bronx, NY, 10461, USA.
+
+Glial cells missing homolog 2 (GCM2) is a transcription factor that is expressed 
+predominately in the pharyngeal pouches and, at later stages, in the developing
+and mature parathyroid glands. In humans, loss of GCM2 function, either through
+recessive apomorphic mutations or dominant inhibitor mutations in the human GCM2 
+gene, leads to isolated hypoparathyroidism. In mice, homozygous disruption of
+Gcm2 by conventional gene targeting results in parathyroid aplasia and
+hypoparathyroidism. In this study, we report the generation and functional
+characterization of mice encoding a conditional null allele of Gcm2. We
+demonstrate the functional integrity of the conditional Gcm2 allele and report
+successful in vivo deletion of exon 2 using Cre recombinase. The mice with
+conditional deletion of Gcm2 displayed phenotypes similar to those previously
+described for a conventional Gcm2 knockout, including perinatal lethality,
+hypocalemia, low or undetectable serum levels of parathyroid hormone, and absent 
+parathyroid glands. The production of a conditional mutant allele for Gcm2
+represents a valuable resource for the study of the temporal- and
+spatial-specific roles for Gcm2, and for understanding the postnatal activities
+of GCM2 protein.
+
+PMCID: PMC4086301
+PMID: 24736975  [PubMed - indexed for MEDLINE]
+
+
+15. Endocrinology. 2013 Dec;154(12):4469-82. doi: 10.1210/en.2013-1627. Epub 2013 Oct
+18.
+
+Calcium regulates FGF-23 expression in bone.
+
+David V(1), Dai B, Martin A, Huang J, Han X, Quarles LD.
+
+Author information: 
+(1)MD, Coleman College of Medicine Building, Suite B226, University of Tennessee 
+Health Science Center, 956 Court Avenue, Memphis Tennessee 38163.
+dquarles@uthsc.edu.
+
+Calcium has recently been shown to regulate fibroblast growth factor 23 (FGF-23),
+a bone-derived phosphate and vitamin D-regulating hormone. To better understand
+the regulation of FGF-23 by calcium, phosphorus, 1,25 dihydroxyvitamin D3
+[1,25(OH)2D], and PTH, we examined FGF-23 expression under basal conditions and
+in response to PTH, doxercalciferol, or high-calcium diet treatment in Gcm2(-/-) 
+and Cyp27b1(-/-) mutant mice. Gcm2(-/-) mice exhibited low serum PTH and
+1,25(OH)2D concentrations, hypocalcemia, and hyperphosphatemia, whereas
+Cyp27b1(-/-) mice had high PTH, undetectable 1,25(OH)2D, hypocalcemia, and
+hypophosphatemia. Serum FGF-23 levels were decreased in both mutant models.
+Doxercalciferol administration increased serum FGF-23 levels in both mutant
+models. PTH administration to Gcm2(-/-) mice also increased serum FGF-23 levels, 
+in association with an increase in both 1,25(OH)2D and calcium concentrations.
+Multiple regression analysis of pooled data indicated that changes in FGF-23 were
+positively correlated with serum calcium and 1,25(OH)2D but not related to
+changes in serum phosphate concentrations. A high-calcium diet also increased
+serum FGF-23 concentrations in Cyp27b1(-/-) mice in the absence of 1,25(OH)2D and
+in Gcm2(-/-) mice with low PTH. The addition of calcium to the culture media also
+stimulated FGF-23 message expression in MC3T3-E1 osteoblasts. In addition, FGF-23
+promoter activity in cultured osteoblasts was inhibited by the L-calcium-channel 
+inhibitor nifedipine and stimulated by calcium ionophores. The effects of chronic
+low calcium to prevent 1,25(OH)2D and PTH stimulation of FGF-23 in these mutant
+mouse models suggest that suppression of FGF-23 plays an important physiological 
+adaptive response to hypocalcemia.
+
+PMCID: PMC3836077
+PMID: 24140714  [PubMed - indexed for MEDLINE]
+
+
+16. J Korean Med Sci. 2013 Oct;28(10):1489-95. doi: 10.3346/jkms.2013.28.10.1489.
+Epub 2013 Sep 25.
+
+Genetic and clinical characteristics of korean patients with isolated
+hypoparathyroidism: from the Korean hypopara registry study.
+
+Park SY(1), Eom YS, Choi B, Yi HS, Yu SH, Lee K, Jin HS, Chung YS, Jung TS, Lee
+S.
+
+Author information: 
+(1)Department of Internal Medicine, Cheil General Hospital, Kwandong University
+College of Medicine, Seoul, Korea.
+
+Isolated hypoparathyroidism (IH) shows heterogeneous phenotypes and can be caused
+by defects in a variety of genes. The goal of our study was to determine the
+clinical features and to analyze gene mutations in a large cohort of Korean
+patients with sporadic or familial IH. We recruited 23 patients. They showed a
+broad range of onset age and various values of biochemical data. Whole exome
+sequencing was performed on two affected cases and one unaffected individual in a
+family. All coding exons and exon-intron borders of GCMB, CASR, and prepro-PTH
+were sequenced using PCR-amplified DNA. In one family who underwent the whole
+exome sequencing analysis, approximately 300 single nucleotide changes emerged as
+candidates for genetic alteration. Among them, we identified a functional
+mutation in exon 2 of GCMB (C106R) in two affected cases. Besides, heterozygous
+gain-of-function mutations in the CASR gene were found in other subjects; D410E
+and P221L. We also found one single nucleotide polymorphism (SNP) in the
+prepro-PTH gene, five SNPs in the CASR gene, and four SNPs in the GCMB gene. The 
+current study represents a variety of biochemical phenotypes in IH patients with 
+the molecular genetic diagnosis of IH.
+
+PMCID: PMC3792604
+PMID: 24133354  [PubMed - indexed for MEDLINE]
+
+
+17. Clin Epigenetics. 2013 Sep 13;5(1):16. doi: 10.1186/1868-7083-5-16.
+
+Methylation profiling and evaluation of demethylating therapy in renal cell
+carcinoma.
+
+Ricketts CJ(1), Morris MR, Gentle D, Shuib S, Brown M, Clarke N, Wei W, Nathan P,
+Latif F, Maher ER.
+
+Author information: 
+(1)Centre for Rare Diseases and Personalised Medicine, School of Clinical and
+Experimental Medicine, College of Medical and Dental Sciences, University of
+Birmingham, Birmingham B15 2TT, UK. erm1000@medschl.cam.ac.uk.
+
+BACKGROUND: Despite therapeutic advances in targeted therapy, metastatic renal
+cell carcinoma (RCC) remains incurable for the vast majority of patients. Key
+molecular events in the pathogenesis of RCC include inactivation of the VHL
+tumour suppressor gene (TSG), inactivation of chromosome 3p TSGs implicated in
+chromatin modification and remodelling and de novo tumour-specific promoter
+methylation of renal TSGs. In the light of these observations it can be proposed 
+that, as in some haematological malignancies, demethylating agents such as
+azacitidine might be beneficial for the treatment of advanced RCC.
+RESULTS: Here we report that the treatment of RCC cell lines with azacitidine
+suppressed cell proliferation in all 15 lines tested. A marked response to
+azacitidine therapy (>50% reduction in colony formation assay) was detected in
+the three cell lines with VHL promoter methylation but some RCC cell lines
+without VHL TSG methylation also demonstrated a similar response suggesting that 
+multiple methylated TSGs might determine the response to demethylating therapies.
+To identify novel candidate methylated TSGs implicated in RCC we undertook a
+combined analysis of copy number and CpG methylation array data. Candidate novel 
+epigenetically inactivated TSGs were further prioritised by expression analysis
+of RCC cell lines pre and post-azacitidine therapy and comparative expression
+analysis of tumour/normal pairs. Thus, with subsequent investigation two
+candidate genes were found to be methylated in more than 25% of our series and in
+the TCGA methylation dataset for 199 RCC samples: RGS7 (25.6% and 35.2% of
+tumours respectively) and NEFM in (25.6% and 30.2%). In addition three candidate 
+genes were methylated in >10% of both datasets (TMEM74 (15.4% and 14.6%), GCM2
+(41.0% and 14.6%) and AEBP1 (30.8% and 13.1%)). Methylation of GCM2 (P = 0.0324),
+NEFM (P = 0.0024) and RGS7 (P = 0.0067) was associated with prognosis.
+CONCLUSIONS: These findings provide preclinical evidence that treatment with
+demethylating agents such as azacitidine might be useful for the treatment of
+advanced RCC and further insights into the role of epigenetic changes in the
+pathogenesis of RCC.
+
+PMCID: PMC3848591
+PMID: 24034811  [PubMed]
+
+
+18. Kidney Int. 2013 Aug;84(2):277-84. doi: 10.1038/ki.2013.137. Epub 2013 Apr 24.
+
+The calcium sensing receptor modulates fluid reabsorption and acid secretion in
+the proximal tubule.
+
+Capasso G(1), Geibel PJ, Damiano S, Jaeger P, Richards WG, Geibel JP.
+
+Author information: 
+(1)Department of Nephrology, Second University of Naples, Naples, Italy.
+
+Comment in
+    Kidney Int. 2013 Aug;84(2):228-30.
+
+The proximal tubule uses a complex process of apical acid secretion and
+basolateral bicarbonate absorption to regulate both luminal acidification and
+fluid absorption. One of the primary regulators of apical acid secretion is the
+luminal sodium-hydrogen exchanger expressed along the apical membrane of the
+proximal tubule. Similarly, the calcium-sensing receptor (CaSR) is also located
+along the luminal membrane of the proximal tubule. Here we investigated the role 
+of CaSR in proton secretion and fluid reabsorption in proximal tubules by
+modulating luminal calcium concentration, using both in vivo micropuncture in
+rats and in vitro perfused mouse proximal tubules. Using CaSR knockout mice and a
+calcimimetic agent, we found that increased proton secretion and fluid
+reabsorption were CaSR dependent. Activating CaSR by either raising the luminal
+calcium ion concentration or by the calcimimetic caused a concomitant increase in
+sodium-dependent proton extrusion and fluid reabsorption, whereas in proximal
+tubules isolated from CaSR knockout mice varying calcium ion concentration had no
+effect. Application of a calcimimetic in lower concentrations of calcium ion
+stimulated these processes in vitro and in vivo. Thus, in both rats and mice,
+increased luminal calcium concentration leads to enhanced fluid reabsorption in
+the proximal tubule, a process related to activation of CaSR.
+
+PMID: 23615500  [PubMed - indexed for MEDLINE]
+
+
+19. Dev Dyn. 2013 Feb;242(2):164-78. doi: 10.1002/dvdy.23905. Epub 2012 Dec 5.
+
+Early development of the thymus in Xenopus laevis.
+
+Lee YH(1), Williams A, Hong CS, You Y, Senoo M, Saint-Jeannet JP.
+
+Author information: 
+(1)Department of Oral Anatomy, School of Dentistry and Institute of Oral
+Biosciences, Chonbuk National University, Jeonju, Republic of Korea.
+
+BACKGROUND: Although Xenopus laevis has been a model of choice for comparative
+and developmental studies of the immune system, little is known about
+organogenesis of the thymus, a primary lymphoid organ in vertebrates. Here we
+examined the expression of three transcription factors that have been
+functionally associated with pharyngeal gland development, gcm2, hoxa3, and
+foxn1, and evaluated the neural crest contribution to thymus development.
+RESULTS: In most species Hoxa3 is expressed in the third pharyngeal pouch
+endoderm where it directs thymus formation. In Xenopus, the thymus primordium is 
+derived from the second pharyngeal pouch endoderm, which is hoxa3-negative,
+suggesting that a different mechanism regulates thymus formation in frogs. Unlike
+other species foxn1 is not detected in the epithelium of the pharyngeal pouch in 
+Xenopus, rather, its expression is initiated as thymic epithelial cell starts to 
+differentiate and express MHC class II molecules. Using transplantation
+experiments we show that while neural crest cells populate the thymus primordia, 
+they are not required for the specification and initial development of this organ
+or for T-cell differentiation in frogs.
+CONCLUSIONS: These studies provide novel information on early thymus development 
+in Xenopus, and highlight a number of features that distinguish Xenopus from
+other organisms.
+
+Copyright © 2012 Wiley Periodicals, Inc., a Wiley company.
+
+PMCID: PMC3640628
+PMID: 23172757  [PubMed - indexed for MEDLINE]
+
+
+20. J Pediatr Endocrinol Metab. 2012;25(7-8):741-6.
+
+A novel mutation in the GCM2 gene causing severe congenital isolated
+hypoparathyroidism.
+
+Doyle D(1), Kirwin SM, Sol-Church K, Levine MA.
+
+Author information: 
+(1)Division of Endocrinology, Nemours/Alfred I. duPont Hospital for Children,
+P.O. Box 269, Wilmington, DE 19803, USA. ddoyle@nemours.org
+
+OBJECTIVE: To investigate the GCM2 gene in three siblings with congenital
+hypoparathyroidism and perform functional analysis.
+MATERIALS AND METHODS: We sequenced the GCM2 gene by PCR and analyzed the
+functional consequence of the mutation by transient transfection studies.
+Haplotype analysis was performed.
+RESULTS: We identified a nucleotide change, c.408C>A, in exon 3 that is predicted
+to truncate the Gcm2 protein (p.Tyr136Ter). All three affected siblings were
+homozygous and both parents were heterozygous for the mutation. Transfection
+studies revealed the mutant mRNA but not expression of the Gcm2 protein.
+Haplotype analysis revealed that the two mutant GCM2 alleles shared genotypes on 
+chromosome 6p24.2.
+CONCLUSIONS: We describe the first GCM2 mutation in exon 3 in patients with
+severe congenital hypoparathyroidism. Informative genetic markers could not
+exclude identity by descent for the mutant alleles. Gcm2 protein was not detected
+after transfection, suggesting that complete lack of Gcm2 action accounts for
+severe hypoparathyroidism.
+
+PMCID: PMC3694175
+PMID: 23155703  [PubMed - indexed for MEDLINE]
+
+
+21. J Clin Endocrinol Metab. 2012 Aug;97(8):E1499-505. doi: 10.1210/jc.2011-3366.
+Epub 2012 May 14.
+
+Differential gene expression by oxyphil and chief cells of human parathyroid
+glands.
+
+Ritter CS(1), Haughey BH, Miller B, Brown AJ.
+
+Author information: 
+(1)Renal Division, Washington University School of Medicine, Barnes Jewish
+Hospital, St Louis, Missouri 63110, USA.
+
+CONTEXT: Parathyroid oxyphil cells, whose function is unknown, are thought to be 
+derived from chief cells. Oxyphil cells increase in number in parathyroid glands 
+of patients with chronic kidney disease (CKD) and are even more abundant in
+patients receiving treatment for hyperparathyroidism with calcitriol and/or the
+calcimimetic cinacalcet.
+OBJECTIVE: We examined oxyphil and chief cells of parathyroid glands of CKD
+patients for differential expression of genes important to parathyroid function.
+DESIGN/SETTING/PARTICIPANTS: Parathyroid tissue from CKD patients with refractory
+hyperparathyroidism was immunostained for gene expression studies.
+MAIN OUTCOME MEASURE: Immunostaining for PTH, PTHrP, calcium-sensing receptor,
+glial cells missing 2, vitamin D receptor, 25-hydroxyvitamin D-1a-hydroxylase,
+and cytochrome c was quantified and expression reported for oxyphil and chief
+cells.
+RESULTS: Expression of all proteins analyzed, except for the vitamin D receptor, 
+was higher in oxyphil cells than in chief cells.
+CONCLUSION: Human parathyroid oxyphil cells express parathyroid-relevant genes
+found in the chief cells and have the potential to produce additional
+autocrine/paracrine factors, such as PTHrP and calcitriol. Additional studies are
+warranted to define the secretory properties of these cells and clarify their
+role in parathyroid pathophysiology.
+
+PMCID: PMC3591682
+PMID: 22585091  [PubMed - indexed for MEDLINE]
+
+
+22. J Endocrinol Invest. 2011 Jul;34(7 Suppl):27-34.
+
+Genetics of hypoparathyroidism and pseudohypoparathyroidism.
+
+Brandi ML(1).
+
+Author information: 
+(1)Unit of Bone and Mineral Metabolism, Department of Internal Medicine,
+University of Florence, Medical School, Viale Pieraccini, 6 - 50139 Florence,
+Italy. m.brandi@dmi.unifi.it
+
+Congenital hypoparathyroidism encompasses a series of disorders chracterized by
+the common biochimical feature of symptomatic hypocalcemia with concomitant
+hypophosphoremia. Clinical features differ among the various parathyroid-related 
+hypocalcemic syndromes, as understandable on the basis of disorder-specific
+genetics. The present article reviews the various disorders related to both
+hypoparathyroid and pseudohypoparathyroid conditions, with a detailed report of
+the recent discoveries in term of the genetics of these syndromes.
+
+PMID: 21985977  [PubMed - indexed for MEDLINE]
+
+
+23. Ann N Y Acad Sci. 2011 Nov;1237:24-38. doi: 10.1111/j.1749-6632.2011.06221.x.
+
+Transcription factors in parathyroid development: lessons from hypoparathyroid
+disorders.
+
+Grigorieva IV(1), Thakker RV.
+
+Author information: 
+(1)Academic Endocrine Unit, Nuffield Department of Clinical Medicine, Oxford
+Centre for Diabetes, Endocrinology, and Metabolism, Churchill Hospital,
+University of Oxford, Headington, Oxford, United Kingdom.
+
+Parathyroid developmental anomalies, which result in hypoparathyroidism, are
+common and may occur in one in 4,000 live births. Parathyroids, in man, develop
+from the endodermal cells of the third and fourth pharyngeal pouches, whereas, in
+the mouse they develop solely from the endoderm of the third pharyngeal pouches. 
+In addition, neural crest cells that arise from the embryonic mid- and hindbrain 
+also contribute to parathyroid gland development. The molecular signaling
+pathways that are involved in determining the differentiation of the pharyngeal
+pouch endoderm into parathyroid cells are being elucidated by studies of patients
+with hypoparathyroidism and appropriate mouse models. These studies have revealed
+important roles for a number of transcription factors, which include Tbx1, Gata3,
+Gcm2, Sox3, Aire1 and members of the homeobox (Hox) and paired box (Pax)
+families.
+
+© 2011 New York Academy of Sciences.
+
+PMID: 22082362  [PubMed - indexed for MEDLINE]
+
+
+24. Clin Endocrinol (Oxf). 2012 May;76(5):625-33. doi:
+10.1111/j.1365-2265.2011.04256.x.
+
+Identification and characterization of C106R, a novel mutation in the DNA-binding
+domain of GCMB, in a family with autosomal-dominant hypoparathyroidism.
+
+Yi HS(1), Eom YS, Park IeB, Lee S, Hong S, Jüppner H, Mannstadt M, Lee S.
+
+Author information: 
+(1)Department of Internal Medicine and Laboratory of Molecular Endocrinology,
+Gachon University School of Medicine, Incheon, Korea.
+
+OVERVIEW: Glial cells missing B (GCMB) is a transcription factor that is
+expressed in the parathyroid hormone (PTH)-secreting cells of the parathyroid
+glands. Several mutations in GCMB have been reported to cause hypoparathyroidism 
+(HP). We identified a family with two individuals in two generations (mother and 
+son), who are affected by autosomal-dominant hypoparathyroidism (AD-HP). A novel 
+heterozygous mutation in exon 2 of GCMB was identified in both affected
+individuals that changes cysteine at position 106 of the putative DNA-binding
+domain of GCMB to arginine (C106R).
+METHODS: We performed mutational analysis of the genes encoding GCMB, pre-pro
+PTH, GATA3 and CaSR using polymerase chain reaction (PCR)-amplified genomic DNA. 
+The identified GCMB mutant was characterized by functional studies including
+nuclear localization, electrophoretic mobility shift assays (EMSA) and luciferase
+reporter assays, and homology modelling was performed to generate a
+three-dimensional structural model for the DNA-binding domain of GCMB to predict 
+the structural consequences of the identified mutation.
+RESULTS: The C106R mutant of GCMB failed to interact with the DNA consensus
+recognition motif, as determined by EMSA. Furthermore, in comparison with
+wild-type GCMB, the C106R mutant demonstrated reduced transactivation in
+luciferase reporter assays; however, the mutant GCMB failed to reduce the
+activity of the wild-type protein. Consistent with the EMSA findings, homology
+modelling analysis suggested that replacement of cysteine 106 with arginine would
+interfere with DNA binding.
+CONCLUSIONS: We have identified a novel GCMB mutation that may explain AD-HP in
+our family. However, the exact mechanism by which this heterozygous mutation
+leads to the disease in the described family remains to be elucidated.
+
+© 2012 Blackwell Publishing Ltd.
+
+PMCID: PMC3701386
+PMID: 22066718  [PubMed - indexed for MEDLINE]
+
+
+25. Dev Biol. 2012 Jan 15;361(2):208-19. doi: 10.1016/j.ydbio.2011.10.022. Epub 2011 
+Oct 28.
+
+Modulation of Bmp4 signalling in the epithelial-mesenchymal interactions that
+take place in early thymus and parathyroid development in avian embryos.
+
+Neves H(1), Dupin E, Parreira L, Le Douarin NM.
+
+Author information: 
+(1)CNRS UPR3294 Laboratoire Neurobiologie et Développement, Institut de
+Neurobiologie Alfred Fessard, Avenue de la Terrasse 91190 Gif-sur-Yvette Cedex,
+France. hneves@fm.ul.pt
+
+Epithelial-mesenchymal interactions are crucial for the development of the
+endoderm of the pharyngeal pouches into the epithelia of thymus and parathyroid
+glands. Here we investigated the dynamics of epithelial-mesenchymal interactions 
+that take place at the earliest stages of thymic and parathyroid organogenesis
+using the quail-chick model together with a co-culture system capable of
+reproducing these early events in vitro. The presumptive territories of thymus
+and parathyroid epithelia were identified in three-dimensionally preserved
+pharyngeal endoderm of embryonic day 4.5 chick embryos on the basis of the
+expression of Foxn1 and Gcm2, respectively: the thymic rudiment is located in the
+dorsal domain of the third and fourth pouches, while the parathyroid rudiment
+occupies a more medial/anterior pouch domain. Using in vitro quail-chick tissue
+associations combined with in ovo transplantations, we show that the
+somatopleural but not the limb bud mesenchyme, can mimic the role of neural
+crest-derived pharyngeal mesenchyme to sustain development of these glands up to 
+terminal differentiation. Furthermore, mesenchymal-derived Bmp4 appears to be
+essential to promote early stages of endoderm development during a short window
+of time, irrespective of the mesenchymal source. In vivo studies using the
+quail-chick system and implantation of growth factor soaked-beads further showed 
+that expression of Bmp4 by the mesenchyme is necessary during a 24 h-period of
+time. After this period however, Bmp4 is no longer required and another
+signalling factor produced by the mesenchyme, Fgf10, influences later
+differentiation of the pouch endoderm. These results show that morphological
+development and cell differentiation of thymus and parathyroid epithelia require 
+a succession of signals emanating from the associated mesenchyme, among which
+Bmp4 plays a pivotal role for triggering thymic epithelium specification.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+PMID: 22057081  [PubMed - indexed for MEDLINE]
+
+
+26. PLoS One. 2011;6(8):e23746. doi: 10.1371/journal.pone.0023746. Epub 2011 Aug 17.
+
+Acquisition of glial cells missing 2 enhancers contributes to a diversity of
+ionocytes in zebrafish.
+
+Shono T(1), Kurokawa D, Miyake T, Okabe M.
+
+Author information: 
+(1)Department of Anatomy, The Jikei University School of Medicine, Tokyo, Japan.
+
+Glial cells missing 2 (gcm2) encoding a GCM-motif transcription factor is
+expressed in the parathyroid in amniotes. In contrast, gcm2 is expressed in
+pharyngeal pouches (a homologous site of the parathyroid), gills, and
+H(+)-ATPase-rich cells (HRCs), a subset of ionocytes on the skin surface of the
+teleost fish zebrafish. Ionocytes are specialized cells that are involved in
+osmotic homeostasis in aquatic vertebrates. Here, we showed that gcm2 is
+essential for the development of HRCs and Na(+)-Cl(-) co-transporter-rich cells
+(NCCCs), another subset of ionocytes in zebrafish. We also identified gcm2
+enhancer regions that control gcm2 expression in ionocytes of zebrafish.
+Comparisons of the gcm2 locus with its neighboring regions revealed no conserved 
+elements between zebrafish and tetrapods. Furthermore, We observed gcm2
+expression patterns in embryos of the teleost fishes Medaka (Oryzias latipes) and
+fugu (Fugu niphobles), the extant primitive ray-finned fishes Polypterus
+(Polypterus senegalus) and sturgeon (a hybrid of Huso huso × Acipenser ruhenus), 
+and the amphibian Xenopus (Xenopus laevis). Although gcm2-expressing cells were
+observed on the skin surface of Medaka and fugu, they were not found in
+Polypterus, sturgeon, or Xenopus. Our results suggest that an acquisition of
+enhancers for the expression of gcm2 contributes to a diversity of ionocytes in
+zebrafish during evolution.
+
+PMCID: PMC3157436
+PMID: 21858216  [PubMed - indexed for MEDLINE]
+
+
+27. Tissue Eng Part C Methods. 2011 Nov;17(11):1051-9. doi:
+10.1089/ten.tec.2011.0170. Epub 2011 Jul 28.
+
+Directed trans-differentiation of thymus cells into parathyroid-like cells
+without genetic manipulation.
+
+Woods Ignatoski KM(1), Bingham EL, Frome LK, Doherty GM.
+
+Author information: 
+(1)Division of Endocrine Surgery, Department of Surgery, University of Michigan
+Health System, Ann Arbor, Michigan, USA. kwi@umich.edu
+
+Replacement of a diseased organ with an autologously derived tissue is an ideal
+therapy for some medical problems. However, it is difficult to recreate many
+adult human tissues in vitro due to the functionally necessary architecture of
+most organs and the lack of understanding of methods to direct the development of
+the organ of interest. The parathyroid gland is ideal for in vitro organ
+development because this gland is relatively simple, is transplantable, and is
+commonly affected by a surgical complication rather than an autoimmune disease.
+We have investigated thymus as a source of autologous endoderm and
+parathyroid-like precursor cells. Human thymus cells were treated with a
+differentiation protocol we developed with human embryonic stem cells (The
+Bingham Protocol) that utilizes timed exposures to Activin A and soluble Sonic
+hedgehog (Shh). We incrementally changed the protocol to optimize the
+differentiation of the thymus cells into parathyroid-like cells. The final
+protocol used 50<U+2009>ng/mL Activin A and 100<U+2009>ng/mL Shh over 13 weeks. The
+differentiated cells expressed the parathyroid markers parathyroid hormone (PTH),
+calcium sensing receptor, chemokine receptor type-4 (CXCR4), and chorian-specific
+transcription factor (GCM2) as measured by reverse transcription-polymerase chain
+reaction and PTH enzyme-linked immunosorbent assay. Cultured thymus cells without
+Activin A or Shh exposure did not secrete PTH nor express similar markers. The
+differentiated cells released PTH, which was suppressed in response to increased 
+calcium concentration. The chemically differentiated cells did not form tumors in
+immune-compromised mice. Our protocol recreated cells with markers of parathyroid
+tissue that responded as parathyroid cells to physiologic stimuli. This approach 
+is a further step toward a strategy to restore parathyroid function using
+autologous cells that were directed to differentiate by nongenetic in vitro
+manipulation.
+
+PMID: 21797755  [PubMed - indexed for MEDLINE]
+
+
+28. Nat Neurosci. 2011 Jul 17;14(8):957-64. doi: 10.1038/nn.2875.
+
+Mammalian Gcm genes induce Hes5 expression by active DNA demethylation and induce
+neural stem cells.
+
+Hitoshi S(1), Ishino Y, Kumar A, Jasmine S, Tanaka KF, Kondo T, Kato S, Hosoya T,
+Hotta Y, Ikenaka K.
+
+Author information: 
+(1)Division of Neurobiology and Bioinformatics, National Institute for
+Physiological Sciences, Okazaki, Japan. shitoshi-tky@umin.ac.jp
+
+Signaling mediated by Notch receptors is crucial for the development of many
+organs and the maintenance of various stem cell populations. The activation of
+Notch signaling is first detectable by the expression of an effector gene, Hes5, 
+in the neuroepithelium of mouse embryos at embryonic day (E) 8.0-8.5, and this
+activation is indispensable for the generation of neural stem cells. However, the
+molecular mechanism by which Hes5 expression is initiated in stem-producing cells
+remains unknown. We found that mammalian Gcm1 and Gcm2 (glial cells missing 1 and
+2) are involved in the epigenetic regulation of Hes5 transcription by DNA
+demethylation independently of DNA replication. Loss of both Gcm genes and
+subsequent lack of Hes5 upregulation in the neuroepithelium of E7.5-8.5
+Gcm1(-/-); Gcm2(-/-) mice resulted in the impaired induction of neural stem
+cells. Our data suggest that Hes5 expression is serially activated first by Gcms 
+and later by the canonical Notch pathway.
+
+PMID: 21765423  [PubMed - indexed for MEDLINE]
+
+
+29. J Bone Miner Res. 2011 Oct;26(10):2463-72. doi: 10.1002/jbmr.458.
+
+MafB interacts with Gcm2 and regulates parathyroid hormone expression and
+parathyroid development.
+
+Kamitani-Kawamoto A(1), Hamada M, Moriguchi T, Miyai M, Saji F, Hatamura I,
+Nishikawa K, Takayanagi H, Hitoshi S, Ikenaka K, Hosoya T, Hotta Y, Takahashi S, 
+Kataoka K.
+
+Author information: 
+(1)Laboratory of Molecular and Developmental Biology, Graduate School of
+Biological Science, Nara Institute of Science and Technology, Ikoma, Japan.
+
+Serum calcium and phosphate homeostasis is critically regulated by parathyroid
+hormone (PTH) secreted by the parathyroid glands. Parathyroid glands develop from
+the bilateral parathyroid-thymus common primordia. In mice, the expression of
+transcription factor Glial cell missing 2 (Gcm2) begins in the dorsal/anterior
+part of the primordium on embryonic day 9.5 (E9.5), specifying the parathyroid
+domain. The parathyroid primordium then separates from the thymus primordium and 
+migrates to its adult location beside the thyroid gland by E15.5. Genetic
+ablation of gcm2 results in parathyroid agenesis in mice, indicating that Gcm2 is
+essential for early parathyroid organogenesis. However, the regulation of
+parathyroid development at later stages is not well understood. Here we show that
+transcriptional activator v-maf musculoaponeurotic fibrosarcoma oncogene
+homologue B (MafB) is developmentally expressed in parathyroid cells after E11.5.
+MafB expression was lost in the parathyroid primordium of gcm2 null mice. The
+parathyroid glands of mafB(+/-) mice were mislocalized between the thymus and
+thyroid. In mafB(-/-) mice, the parathyroid did not separate from the thymus.
+Furthermore, in mafB(-/-) mice, PTH expression and secretion were impaired;
+expression levels of renal cyp27b1, one of the target genes of PTH, was
+decreased; and bone mineralization was reduced. We also demonstrate that although
+Gcm2 alone does not stimulate the PTH gene promoter, it associates with MafB to
+synergistically activate PTH expression. Taken together, our results suggest that
+MafB regulates later steps of parathyroid development, that is, separation from
+the thymus and migration toward the thyroid. MafB also regulates the expression
+of PTH in cooperation with Gcm2.
+
+Copyright © 2011 American Society for Bone and Mineral Research.
+
+PMID: 21713993  [PubMed - indexed for MEDLINE]
+
+
+30. J Endocrinol. 2011 Aug;210(2):165-71. doi: 10.1530/JOE-10-0247. Epub 2011 Jun 3.
+
+Mutational analysis of GCMB, a parathyroid-specific transcription factor, in
+parathyroid adenoma of primary hyperparathyroidism.
+
+Mannstadt M(1), Holick E, Zhao W, Jüppner H.
+
+Author information: 
+(1)Endocrine Unit Pediatric Nephrology Unit, Massachusetts General Hospital and
+Harvard Medical School, Thier 1051, 55 Fruit Street, Boston, Massachusetts 02114,
+USA. mmannstadt@partners.org
+
+Sporadic primary hyperparathyroidism (PHPT), one of the most common endocrine
+disorders, is characterized by hypercalcemia and elevated PTH levels. The
+majority of cases are caused by a benign parathyroid adenoma, but somatic or de
+novo germ-line mutations that lead to adenoma formation have only been identified
+in few glands. GCMB is a parathyroid-specific transcription factor, which causes 
+hypoparathyroidism when inactivated on both parental alleles or when a
+dominant-negative, heterozygous mutation is present. It is overexpressed in some 
+parathyroid adenomas, and we therefore tested the hypothesis that GCMB mutations 
+can be a cause of parathyroid adenomas. Nucleotide sequence analysis was
+performed on all coding exons and exon-intron borders of GCMB in 30 sporadic
+parathyroid adenomas and we identified several known polymorphisms that were
+either heterozygous or homozygous. In addition, one of the 30 investigated glands
+revealed a novel heterozygous missense mutation, c.1144G>A, which introduced
+methionine at position 382 for valine (V382M), a conserved amino acid residue.
+Western blot analysis using mutant GCMB (GCMB-V382M) from lysates of transiently 
+transfected DF-1 fibroblasts, luciferase assays using extracts from these cells, 
+and electrophoretic mobility assays failed to reveal differences between
+wild-type and mutant GCMB in expression level, transactivational capacity, and
+DNA-binding ability. Furthermore, pulse-chase experiments demonstrated no
+difference in half-life of wild-type and mutant protein. We conclude that
+mutations in the transcription factor GCMB do not seem to play a major role in
+the pathogenesis of PHPT.
+
+PMCID: PMC3689587
+PMID: 21642377  [PubMed - indexed for MEDLINE]
+
+
+31. Mol Endocrinol. 2011 May;25(5):867-76. doi: 10.1210/me.2010-0277. Epub 2011 Mar
+10.
+
+Regulator of G protein signaling 5 is highly expressed in parathyroid tumors and 
+inhibits signaling by the calcium-sensing receptor.
+
+Koh J(1), Dar M, Untch BR, Dixit D, Shi Y, Yang Z, Adam MA, Dressman H, Wang X,
+Gesty-Palmer D, Marks JR, Spurney R, Druey KM, Olson JA Jr.
+
+Author information: 
+(1)Department of Surgery, Duke University Medical Center, Durham, North Carolina 
+27710, USA.
+
+The molecular mechanisms responsible for aberrant calcium signaling in
+parathyroid disease are poorly understood. The loss of appropriate
+calcium-responsive modulation of PTH secretion observed in parathyroid disease is
+commonly attributed to decreased expression of the calcium-sensing receptor
+(CaSR), a G protein-coupled receptor. However, CaSR expression is highly variable
+in parathyroid adenomas, and the lack of correlation between CaSR abundance and
+calcium-responsive PTH kinetics indicates that mechanisms independent of CaSR
+expression may contribute to aberrant calcium sensing in parathyroid disease. To 
+gain a better understanding of parathyroid tumors and the molecular determinants 
+that drive parathyroid adenoma development, we performed gene expression
+profiling on a panel of 64 normal and neoplastic parathyroid tissues. The
+microarray data revealed high-level expression of genes known to be involved in
+parathyroid biology (PTH, VDR, CGA, CaSR, and GCM2). Moreover, our screen
+identified regulator of G protein signaling 5 (RGS5) as a candidate inhibitor of 
+CaSR signaling. We confirmed RGS5 to be highly expressed in parathyroid adenomas 
+relative to matched-pair normal glands. Transient expression of RGS5 in cells
+stably expressing CaSR resulted in dose-dependent abrogation of
+calcium-stimulated inositol trisphosphate production and ERK1/2 phosphorylation. 
+Furthermore, we found that RGS5-nullizygous mice display reduced plasma PTH
+levels, an outcome consistent with attenuated opposition to CaSR activity.
+Collectively, these data suggest that RGS5 can act as a physiological regulator
+of calcium sensing by CaSR in the parathyroid gland. The abnormally elevated
+expression of RGS5 observed in parathyroid adenomas could thus represent a novel 
+mechanism of CaSR desensitization in patients with primary hyperparathyroidism.
+
+PMCID: PMC3082322
+PMID: 21393447  [PubMed - indexed for MEDLINE]
+
+
+32. Dev Biol. 2011 May 15;353(2):194-205. doi: 10.1016/j.ydbio.2011.02.012. Epub 2011
+Feb 22.
+
+Shh signalling restricts the expression of Gcm2 and controls the position of the 
+developing parathyroids.
+
+Grevellec A(1), Graham A, Tucker AS.
+
+Author information: 
+(1)King's College London, Department of Craniofacial Development and
+Orthodontics, Floor 27 Guy's Tower, Guy's Hospital, London Bridge, London SE1
+9RT, UK.
+
+The parathyroid glands originate from the endoderm of the caudal pharyngeal
+pouches. How these parathyroids are restricted to developing in the caudal
+pouches is unclear. In this paper we investigate the role of Shh signalling in
+patterning the vertebrate pharyngeal pouches, and show that Hh signalling may be 
+involved in restricting the expression of the parathyroid marker Gcm2 in the
+pharyngeal epithelium. In the chick and mouse, Shh signalling is excluded or
+highly reduced in the posterior/caudal pouches, where the parathyroid marker Gcm2
+is expressed, while remaining at high levels in the more anterior pouches.
+Moreover, though the block of Shh signalling at early developmental stages
+results in the loss of chick Gcm2 expression, at later stages, it induces ectopic
+Gcm2 expression domains in the second and first pharyngeal epithelium, suggesting
+that HH signalling prevents Gcm2 in those tissues. These ectopic domains go on to
+express other parathyroid markers but do not migrate and develop into ectopic
+parathyroids. Differences in the expression of Gcm2 in the chick, mouse and
+zebrafish, correlate with changing patterns of Shh signalling, indicating a
+conserved regulatory mechanism that acts to define pouch derivatives.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+PMID: 21349263  [PubMed - indexed for MEDLINE]
+
+
+33. PLoS Genet. 2010 Dec 23;6(12):e1001251. doi: 10.1371/journal.pgen.1001251.
+
+Thymus-associated parathyroid hormone has two cellular origins with distinct
+endocrine and immunological functions.
+
+Liu Z(1), Farley A, Chen L, Kirby BJ, Kovacs CS, Blackburn CC, Manley NR.
+
+Author information: 
+(1)Department of Genetics, University of Georgia, Athens, Georgia, United States 
+of America.
+
+In mammals, parathyroid hormone (PTH) is a key regulator of extracellular calcium
+and inorganic phosphorus homeostasis. Although the parathyroid glands were
+thought to be the only source of PTH, extra-parathyroid PTH production in the
+thymus, which shares a common origin with parathyroids during organogenesis, has 
+been proposed to provide an auxiliary source of PTH, resulting in a higher than
+expected survival rate for aparathyroid Gcm2<U+207B>/<U+207B> mutants. However, the
+developmental ontogeny and cellular identity of these "thymic" PTH-expressing
+cells is unknown. We found that the lethality of aparathyroid Gcm2<U+207B>/<U+207B> mutants was
+affected by genetic background without relation to serum PTH levels, suggesting a
+need to reconsider the physiological function of thymic PTH. We identified two
+sources of extra-parathyroid PTH in wild-type mice. Incomplete separation of the 
+parathyroid and thymus organs during organogenesis resulted in misplaced,
+isolated parathyroid cells that were often attached to the thymus; this was the
+major source of thymic PTH in normal mice. Analysis of thymus and parathyroid
+organogenesis in human embryos showed a broadly similar result, indicating that
+these results may provide insight into human parathyroid development. In
+addition, medullary thymic epithelial cells (mTECs) express PTH in a
+Gcm2-independent manner that requires TEC differentiation and is consistent with 
+expression as a self-antigen for negative selection. Genetic or surgical removal 
+of the thymus indicated that thymus-derived PTH in Gcm2<U+207B>/<U+207B> mutants did not
+provide auxiliary endocrine function. Our data show conclusively that the thymus 
+does not serve as an auxiliary source of either serum PTH or parathyroid
+function. We further show that the normal process of parathyroid organogenesis in
+both mice and humans leads to the generation of multiple small parathyroid
+clusters in addition to the main parathyroid glands, that are the likely source
+of physiologically relevant "thymic PTH."
+
+PMCID: PMC3009658
+PMID: 21203493  [PubMed - indexed for MEDLINE]
+
+
+34. Am J Surg Pathol. 2011 Jan;35(1):145-51. doi: 10.1097/PAS.0b013e31820371e4.
+
+Study of parathyroid transcription factor Gcm2 expression in parathyroid lesions.
+
+Nonaka D(1).
+
+Author information: 
+(1)Department of Histopathology, Christie NHS Foundation Trust, Manchester, UK.
+Daisuke.Nonaka@christie.nhs.uk
+
+Glial cells missing 2 (Gcm2) is a master regulatory gene of parathyroid gland
+development, and it is exclusively expressed in the parathyroid gland. Diagnostic
+application of anti-Gcm2 antibody has not been reported yet. In this study, a
+total of 58 cases of parathyroid lesions including 40 adenomas, 2 atypical
+adenomas, 2 carcinomas, 9 hyperplastic lesions, 4 parathyroid cysts, and 1 case
+of recurrent hyperplasia of an autograft gland were stained with anti-Gcm2
+antibody. Anti-Gcm2 was also applied to a variety of endocrine tumors, including 
+thyroid tumors and nonendocrine tumors, and normal tissues from a variety of
+organs, including the parathyroid and thyroid glands. Gcm2 nuclear expression was
+seen in all the normal parathyroid glands, and cystic, hyperplastic, and
+neoplastic parathyroid lesions in a diffuse manner, whereas no Gcm2 expression
+was seen in any other normal tissues and tumors, including those of the thymus
+and thyroid gland. Anti-Gcm2 antibody is a highly sensitive and specific marker
+for parathyroid lesions. Although the immunohistochemistry stain for parathyroid 
+hormone is a useful marker, its reaction tends to be variable in extent and
+intensity in parathyroid neoplasia, and it is often negative in parathyroid
+cysts, and Gcm2 would serve as a useful adjunct marker.
+
+PMID: 21164298  [PubMed - indexed for MEDLINE]
+
+
+35. Surgery. 2010 Dec;148(6):1186-9; discussion 1189-90. doi:
+10.1016/j.surg.2010.09.021.
+
+Differentiation of precursors into parathyroid-like cells for treatment of
+hypoparathyroidism.
+
+Woods Ignatoski KM(1), Bingham EL, Frome LK, Doherty GM.
+
+Author information: 
+(1)Department of Surgery, Division of Endocrine Surgery, University of Michigan
+Health System, Ann Arbor, MI 48109-5654, USA. kwi@umich.edu
+
+BACKGROUND: Hypoparathyroidism is the most frequent permanent complication of
+thyroid surgery. Our hypothesis is that human precursor cells in culture can be
+differentiated into parathyroid cells and used to reconstitute function. Human
+embryonic stem cells (hESCs) are a stable model to study differentiation into
+parathyroid-like cells. In prior work, the BG01-hESC line was stimulated to form 
+parathyroid-like cells. This cell line is no longer available, however, and
+additional studies were needed to confirm and extend prior observations.
+METHODS: Increasing concentrations of fetal bovine serum and timed exposure to
+Activin A were used to differentiate H1-hESC into parathyroid-like cells. The
+potential benefit of Sonic hedgehog exposure on parathyroid-like cell development
+also was evaluated by serial alterations of culture conditions. Calcium-sensing
+receptor (CaSR), GCM2, and PTH expression (RT-PCR) and PTH protein secretion
+(ELISA) were used as markers of differentiated cells.
+RESULTS: We successfully modified our prior protocol to generate cells that
+express CaSR, GCM2, and PTH RNA from undifferentiated H1-hESC. The cells also
+secreted PTH.
+CONCLUSION: We replicated parathyroid differentiation using H1-hESC cells. Our
+data advance the project toward in vitro differentiation of precursor cells
+isolated from individual patients for autotransplantation.
+
+Copyright © 2010 Mosby, Inc. All rights reserved.
+
+PMID: 21134550  [PubMed - indexed for MEDLINE]
+
+
+36. Bone. 2010 Sep;47(3):534-41. doi: 10.1016/j.bone.2010.05.031. Epub 2010 Jun 15.
+
+Involvement of GCMB in the transcriptional regulation of the human parathyroid
+hormone gene in a parathyroid-derived cell line PT-r: effects of calcium and
+1,25(OH)2D3.
+
+Kawahara M(1), Iwasaki Y, Sakaguchi K, Taguchi T, Nishiyama M, Nigawara T,
+Kambayashi M, Sawada T, Jing X, Miyajima M, Terada Y, Hashimoto K, Suda T.
+
+Author information: 
+(1)Department of Endocrinology, Metabolism, and Nephrology, Kochi Medical School,
+Kochi University, Nankoku 783-8505, Japan.
+
+Expression of the PTH gene is known to be under strict tissue-specific control
+and is also regulated by extracellular calcium and 1,25(OH)(2)D. However, the
+precise mode of transcriptional regulation remains to be elucidated, because of
+the unavailability of appropriate cell lines derived from the parathyroid gland. 
+We tried to identify the transcription factor(s) regulating the human PTH gene
+transcription using the PT-r cell line. We found that PT-r cells endogenously
+express PTH and several parathyroid-related genes. Using the cells, we
+investigated the transcriptional regulation of human PTH gene. We found that GCMB
+binds to the PTH gene 5'-promoter (-390/-383 bp) and positively regulates its
+transcription. On the other hand, 1,25(OH)(2)D(3), and, in the presence of the
+calcium sensing receptor, high extracellular calcium, exerted inhibitory effects 
+on PTH gene expression. These results indicate that GCMB and vitamin D receptor
+are involved in the positive and negative regulation of PTH gene expression,
+respectively. Our data also suggest that PT-r cells retain some of the
+characteristics of parathyroid cells.
+
+Copyright 2010. Published by Elsevier Inc.
+
+PMID: 20558332  [PubMed - indexed for MEDLINE]
+
+
+37. J Clin Invest. 2010 Jun;120(6):2144-55. doi: 10.1172/JCI42021. Epub 2010 May 17.
+
+Gata3-deficient mice develop parathyroid abnormalities due to dysregulation of
+the parathyroid-specific transcription factor Gcm2.
+
+Grigorieva IV(1), Mirczuk S, Gaynor KU, Nesbit MA, Grigorieva EF, Wei Q, Ali A,
+Fairclough RJ, Stacey JM, Stechman MJ, Mihai R, Kurek D, Fraser WD, Hough T,
+Condie BG, Manley N, Grosveld F, Thakker RV.
+
+Author information: 
+(1)Academic Endocrine Unit, Nuffield Department of Clinical Medicine, University 
+of Oxford, Oxford Centre for Diabetes, Endocrinology and Metabolism (OCDEM),
+Churchill Hospital, Headington, Oxford, United Kingdom.
+
+Heterozygous mutations of GATA3, which encodes a dual zinc-finger transcription
+factor, cause hypoparathyroidism with sensorineural deafness and renal dysplasia.
+Here, we have investigated the role of GATA3 in parathyroid function by
+challenging Gata3+/- mice with a diet low in calcium and vitamin D so as to
+expose any defects in parathyroid function. This led to a higher mortality among 
+Gata3+/- mice compared with Gata3+/+ mice. Compared with their wild-type
+littermates, Gata3+/- mice had lower plasma concentrations of calcium and
+parathyroid hormone (PTH) and smaller parathyroid glands with a reduced Ki-67
+proliferation rate. At E11.5, Gata3+/- embryos had smaller parathyroid-thymus
+primordia with fewer cells expressing the parathyroid-specific gene glial cells
+missing 2 (Gcm2), the homolog of human GCMB. In contrast, E11.5 Gata3-/- embryos 
+had no Gcm2 expression and by E12.5 had gross defects in the third and fourth
+pharyngeal pouches, including absent parathyroid-thymus primordia.
+Electrophoretic mobility shift, luciferase reporter, and chromatin
+immunoprecipitation assays showed that GATA3 binds specifically to a functional
+double-GATA motif within the GCMB promoter. Thus, GATA3 is critical for the
+differentiation and survival of parathyroid progenitor cells and, with GCM2/B,
+forms part of a transcriptional cascade in parathyroid development and function.
+
+PMCID: PMC2877956
+PMID: 20484821  [PubMed - indexed for MEDLINE]
+
+
+38. J Clin Endocrinol Metab. 2010 Jul;95(7):3512-6. doi: 10.1210/jc.2009-2532. Epub
+2010 May 12.
+
+A missense glial cells missing homolog B (GCMB) mutation, Asn502His, causes
+autosomal dominant hypoparathyroidism.
+
+Mirczuk SM(1), Bowl MR, Nesbit MA, Cranston T, Fratter C, Allgrove J, Brain C,
+Thakker RV.
+
+Author information: 
+(1)Academic Endocrine Unit, Nuffield Department of Clinical Medicine, University 
+of Oxford, Oxford Centre for Diabetes, Endocrinology, and Metabolism (OCDEM),
+Churchill Hospital, Headington Oxford OX3 7LJ, UK.
+
+CONTEXT: Glial cells missing B (GCMB), the mammalian homolog of the Drosophila
+GCM gene, encodes a 506-amino-acid parathyroid-specific transcription factor. To 
+date, only two different heterozygous GCMB mutations have been reported in three 
+kindreds with autosomal dominant hypoparathyroidism.
+OBJECTIVE: Our objective was to investigate a family with autosomal dominant
+hypoparathyroidism for PTH, CaSR, and GCMB mutations.
+METHODS: Leukocyte DNA was used with exon-specific primers for PCR amplification 
+and the DNA sequences of the PCR products determined. Functional analyses using
+fluorescence microscopy, EMSAs, and luciferase reporter assays were undertaken.
+Informed consent was obtained using protocols approved by a national ethical
+committee.
+RESULTS: DNA sequence analysis revealed an A to C transversion at codon 502 of
+GCMB, which altered the wild-type asparagine (Asn) to histidine (His). Functional
+studies, using transient transfections of COS7 cells with GCMB wild-type and
+mutant (Asn502His) tagged constructs, demonstrated that the wild-type and mutant 
+proteins localized to the nucleus and retained the ability to bind the
+GCM-consensus DNA recognition motif. However, a luciferase reporter assay
+demonstrated that the Asn502His mutation resulted in a reduction in gene
+transactivation. Moreover, cotransfection of the wild-type with mutant did not
+lead to an increase in luciferase activity, thereby demonstrating a
+dominant-negative effect of the Asn502His mutant that would be consistent with an
+autosomal dominant inheritance.
+CONCLUSION: Our results, which have identified the first dominant missense GCMB
+mutation, help to increase our understanding of the mechanism underlying gene
+transactivation that is a prerequisite for the function of this parathyroid
+gland-specific transcription factor.
+
+PMID: 20463099  [PubMed - indexed for MEDLINE]
+
+
+39. Hum Mol Genet. 2010 May 15;19(10):2028-38. doi: 10.1093/hmg/ddq084. Epub 2010 Feb
+27.
+
+Identification and characterization of novel parathyroid-specific transcription
+factor Glial Cells Missing Homolog B (GCMB) mutations in eight families with
+autosomal recessive hypoparathyroidism.
+
+Bowl MR(1), Mirczuk SM, Grigorieva IV, Piret SE, Cranston T, Southam L, Allgrove 
+J, Bahl S, Brain C, Loughlin J, Mughal Z, Ryan F, Shaw N, Thakker YV, Tiosano D, 
+Nesbit MA, Thakker RV.
+
+Author information: 
+(1)Academic Endocrine Unit, Nuffield Department of Clinical Medicine, Oxford
+Centre for Diabetes, Endocrinology and Metabolism, University of Oxford,
+Churchill Hospital, Headington, Oxford OX3 7LJ, UK.
+
+GCMB is a member of the small transcription factor family GCM (glial cells
+missing), which are important regulators of development, present in vertebrates
+and some invertebrates. In man, GCMB encodes a 506 amino acid parathyroid
+gland-specific protein, mutations of which have been reported to cause both
+autosomal dominant and autosomal recessive hypoparathyroidism. We ascertained 18 
+affected individuals from 12 families with autosomal recessive hypoparathyroidism
+and have investigated them for GCMB abnormalities. Four different homozygous
+germline mutations were identified in eight families that originate from the
+Indian Subcontinent. These consisted of a novel nonsense mutation R39X; a
+missense mutation, R47L in two families; a novel missense mutation, R110W; and a 
+novel frameshifting deletion, I298fsX307 in four families. Haplotype analysis,
+using polymorphic microsatellites from chromosome 6p23-24, revealed that R47L and
+I298fsX307 mutations arose either as ancient founders, or recurrent de novo
+mutations. Functional studies including: subcellular localization studies, EMSAs 
+and luciferase-reporter assays, were undertaken and these demonstrated that: the 
+R39X mutant failed to localize to the nucleus; the R47L and R110W mutants both
+lost DNA-binding ability; and the I298fsX307 mutant had reduced transactivational
+ability. In order to gain further insights, we undertook 3D-modeling of the GCMB 
+DNA-binding domain, which revealed that the R110 residue is likely important for 
+the structural integrity of helix 2, which forms part of the GCMB/DNA binding
+interface. Thus, our results, which expand the spectrum of
+hypoparathyroidism-associated GCMB mutations, help elucidate the molecular
+mechanisms underlying DNA-binding and transactivation that are required for this 
+parathyroid-specific transcription factor.
+
+PMID: 20190276  [PubMed - indexed for MEDLINE]
+
+
+40. J Bone Miner Res. 2010 Mar;25(3):594-605. doi: 10.1359/jbmr.090825.
+
+Parathyroid hormone regulates fetal-placental mineral homeostasis.
+
+Simmonds CS(1), Karsenty G, Karaplis AC, Kovacs CS.
+
+Author information: 
+(1)Faculty of Medicine, Memorial University of Newfoundland, St. John's,
+Newfoundland, Canada.
+
+Parathyroid hormone (PTH) plays an essential role in regulating calcium and bone 
+homeostasis in the adult, but whether PTH is required at all for regulating
+fetal-placental mineral homeostasis and skeletal development is uncertain. We
+hypothesized that despite its low circulating levels during fetal life, PTH plays
+a critical role in regulating these processes. To address this, we examined two
+different genetic models of PTH deficiency. Pth null mice have enlarged
+parathyroids that are incapable of making PTH, whereas Gcm2 null mice lack
+parathyroids but have PTH that arises from the thymus. Pth nulls served as a
+model of complete absence of PTH, whereas Gcm2 nulls were a model of severe
+hypoparathyroidism. We determined that PTH contributes importantly to fetal
+mineral homeostasis because in its absence a fetal hypoparathyroid phenotype
+results with hypocalcemia, hypomagnesemia, hyperphosphatemia, low amniotic fluid 
+mineral content, and reduced skeletal mineral content. We also determined that
+PTH is expressed in the placenta, regulates the placental expression of genes
+involved in calcium and other solute transfer, and may directly stimulate
+placental calcium transfer. Although parathyroid hormone-related protein (PTHrP) 
+acts in concert with PTH to regulate fetal mineral homeostasis and placental
+calcium transfer, unlike PTH, it does not upregulate in response to fetal
+hypocalcemia.
+
+Copyright 2010 American Society for Bone and Mineral Research.
+
+PMID: 19968565  [PubMed - indexed for MEDLINE]
+
+
+41. Endocr J. 2010;57(2):161-70. Epub 2009 Dec 1.
+
+Ectopic production of parathyroid hormone in a patient with sporadic medullary
+thyroid cancer.
+
+Demura M(1), Yoneda T, Wang F, Zen Y, Karashima S, Zhu A, Cheng Y, Yamagishi M,
+Takeda Y.
+
+Author information: 
+(1)Division of Endocrinology and Hypertension, Department of Internal Medicine,
+Graduate School of Medical Science, Kanazawa University, 13-1 Takara-machi,
+Kanazawa, Japan. m-demura@med.kanazawa-u.ac.jp
+
+Elevation of serum parathyroid hormone (PTH) in patients with medullary thyroid
+cancer (MTC) is usually found in multiple endocrine neoplasia type 2A (MEN2A).
+However, ectopic production of PTH is rare and its molecular etiology remains
+largely uninvestigated. We report a case of ectopic production of PTH by a
+sporadic MTC. The etiology of ectopic PTH gene expression was examined, focusing 
+on GCM2 which has a crucial role in developing parathyroid glands. We observed
+ectopic expression of the PTH and GCM2 genes in tissues from the tumor and
+metastatic lymph nodes. However, GCM2 gene expression was also detected in
+adjacent thyroid tissue and lymphoblasts, in which PTH gene expression was
+absent. Hypomethylation of the PTH promoter, which is reportedly associated with 
+ectopic production of PTH, was not seen in either the tumor tissue or metastatic 
+lymph nodes. Meanwhile, DNA hypomethylation was seen in a CpG island identified
+in the GCM2 promoter region, regardless of whether or not the GCM2 gene was
+expressed. We showed that transcriptional activity of the CpG island sequences
+cloned into a reporter plasmid was dependent upon DNA methylation. Finally, we
+present the first report of a PTH-producing MTC. There was no apparent
+association between ectopic PTH and GCM2 gene expression, despite co-expression
+of the two genes. Neither genomic rearrangement nor DNA hypomethylation in the
+PTH gene appeared responsible for ectopic production of PTH. Although DNA
+hypomethylation may be necessary for the GCM2 gene expression, ectopic expression
+of GCM2 won't be possible by DNA hypomethylation alone.
+
+PMID: 19952463  [PubMed - indexed for MEDLINE]
+
+
+42. Eur J Endocrinol. 2010 Feb;162(2):407-21. doi: 10.1530/EJE-09-0303. Epub 2009 Nov
+25.
+
+Presence and significance of a R110W mutation in the DNA-binding domain of GCM2
+gene in patients with isolated hypoparathyroidism and their family members.
+
+Tomar N(1), Bora H, Singh R, Gupta N, Kaur P, Chauhan SS, Sharma YD, Goswami R.
+
+Author information: 
+(1)Department of Endocrinology and Metabolism, All India Institute of Medical
+Sciences, New Delhi 110029, India.
+
+OBJECTIVE: Glial cells missing 2 (GCM2) gene encodes a parathyroid-specific
+transcription factor. We assessed GCM2 gene sequence in patients with isolated
+hypoparathyroidism (IH).
+DESIGN: Case-control study.
+METHODS: Complete DNA sequencing of the GCM2 gene including its exons, promoter, 
+and 5' and 3' UTRs was performed in 24/101 patients with IH. PCR-restriction
+fragment length polymorphism was used to detect a novel R110W mutation in all 101
+IH patients and 655 healthy controls. Significance of the mutation was assessed
+by electrophoretic mobility shift assay (EMSA) and nuclear localization on
+transfection.
+RESULTS: A heterozygous R110W mutation was present in DNA-binding domain in
+11/101 patients (10.9%) and absent in 655 controls (P<10(-7)). Four of 13
+nonaffected first-degree relatives for five of these index cases had R110W
+mutation. Four heterozygous single nucleotide polymorphisms were found in the 5' 
+region. One of the 11 patients with R110W also had T370M change in compound
+heterozygous form. Mutant R110W and T370M GCM2 proteins showed decreased binding 
+with GCM recognition elements on EMSA indicating loss of function. Both wild-type
+and R110W mutant GCM2 proteins showed nuclear localization.
+CONCLUSIONS: The present study indicates a significant association of R110W
+variant with IH. Absence of effect of heterozygous R110W mutation on DNA binding 
+and presence of the same mutation in asymptomatic family members indicate that
+additional genetic (akin to T370M change) or nongenetic factors might contribute 
+to the expression of diseases in IH. Alternatively, it is possible that
+association of R110W with IH could be due to linkage disequilibrium with the
+unidentified relevant genes in IH.
+
+PMID: 19940031  [PubMed - indexed for MEDLINE]
+
+
+43. Dev Biol. 2009 May 1;329(1):116-29. doi: 10.1016/j.ydbio.2009.02.026. Epub 2009
+Mar 4.
+
+Mechanism of development of ionocytes rich in vacuolar-type H(+)-ATPase in the
+skin of zebrafish larvae.
+
+Esaki M(1), Hoshijima K, Nakamura N, Munakata K, Tanaka M, Ookata K, Asakawa K,
+Kawakami K, Wang W, Weinberg ES, Hirose S.
+
+Author information: 
+(1)Department of Biological Sciences, Tokyo Institute of Technology, Midori-ku,
+Yokohama, Japan.
+
+Mitochondrion-rich cells (MRCs), or ionocytes, play a central role in aquatic
+species, maintaining body fluid ionic homeostasis by actively taking up or
+excreting ions. Since their first description in 1932 in eel gills, extensive
+morphological and physiological analyses have yielded important insights into
+ionocyte structure and function, but understanding the developmental pathway
+specifying these cells remains an ongoing challenge. We previously succeeded in
+identifying a key transcription factor, Foxi3a, in zebrafish larvae by database
+mining. In the present study, we analyzed a zebrafish mutant, quadro (quo),
+deficient in foxi1 gene expression and found that foxi1 is essential for
+development of an MRC subpopulation rich in vacuolar-type H(+)-ATPase (vH-MRC).
+foxi1 acts upstream of Delta-Notch signaling that determines sporadic
+distribution of vH-MRC and regulates foxi3a expression. Through gain- and
+loss-of-function assays and cell transplantation experiments, we further
+clarified that (1) the expression level of foxi3a is maintained by a positive
+feedback loop between foxi3a and its downstream gene gcm2 and (2) Foxi3a
+functions cell-autonomously in the specification of vH-MRC. These observations
+provide a better understanding of the differentiation and distribution of the
+vH-MRC subtype.
+
+PMCID: PMC2751791
+PMID: 19268451  [PubMed - indexed for MEDLINE]
+
+
+44. J Bone Miner Res. 2009 Jul;24(7):1173-9. doi: 10.1359/jbmr.090211.
+
+Calcium-sensing receptor expression is regulated by glial cells missing-2 in
+human parathyroid cells.
+
+Mizobuchi M(1), Ritter CS, Krits I, Slatopolsky E, Sicard G, Brown AJ.
+
+Author information: 
+(1)Renal Division, Washington University School of Medicine, St. Louis, Missouri 
+63110, USA.
+
+Glial cells missing-2 (Gcm2) is the key regulating transcription factor for
+parathyroid gland development. The continued expression of high levels of Gcm2 in
+mature parathyroid glands suggests that it is required for maintenance of
+parathyroid cell differentiation. The role of Gcm2 in parathyroid cell
+physiology, however, has not been fully studied. In this study, we examined the
+effects of Gcm2 silencing on cultured human parathyroid cells.
+Collagenase-dispersed human parathyroid cells from patients with chronic kidney
+disease were placed in monolayer cultures and infected with lentivirus expressing
+shRNA for human Gcm2. Seventy-two hours after infection, mRNA was processed and
+analyzed for Gcm2, PTH, vitamin D receptor (VDR), calcium-sensing receptor (CaR),
+25-hydroxyvitamin D(3) 1-alpha-hydroxylase (1-OHase), and proliferating cell
+nuclear antigen (PCNA) by real-time PCR (qPCR). Protein expression of affected
+genes was analyzed by immunoblot 72 h after infection. Gcm2 mRNA and protein were
+decreased by 74.2 +/- 12.2% (SD; n = 3 experiments; p < 0.01) and 67.5 +/- 15.7% 
+(n = 2; p < 0.01), respectively. CaR mRNA and protein were reduced by 47.8 +/-
+21.1% (n = 3; p < 0.01) and 48.1 +/- 4.3% (n = 3; p < 0.01), respectively.
+However, VDR, PTH, 1-OHase, and PCNA were not significantly affected by Gcm2
+silencing. Further analysis of CaR mRNA indicated that transcripts containing
+exon 1B, derived by transcription from CaR promoter 2, were downregulated (58.8
++/- 19.27%; n = 3; p < 0.05) by Gcm2 silencing. Exon 1A-containing transcripts
+from promoter 1 were expressed at very low levels in the cultures. These results 
+indicate that one function of Gcm2 is to maintain high levels of CaR expression
+in parathyroid cells.
+
+PMCID: PMC2697623
+PMID: 19257819  [PubMed - indexed for MEDLINE]
+
+
+45. Am J Physiol Regul Integr Comp Physiol. 2009 Apr;296(4):R1192-201. doi:
+10.1152/ajpregu.90973.2008. Epub 2009 Feb 4.
+
+The transcription factor, glial cell missing 2, is involved in differentiation
+and functional regulation of H+-ATPase-rich cells in zebrafish (Danio rerio).
+
+Chang WJ(1), Horng JL, Yan JJ, Hsiao CD, Hwang PP.
+
+Author information: 
+(1)Institute of Cellular and Organismic Biology, Academia Sinica, Taipei 11529,
+Taiwan.
+
+Comment in
+    Am J Physiol Regul Integr Comp Physiol. 2009 Apr;296(4):R1190-1.
+
+H(+)-ATPase-rich (HR) cells in zebrafish are known to be involved in acid
+secretion and Na(+) uptake mechanisms in zebrafish gills/skin; however, little is
+known about how HR cells are functionally regulated. In the present work, we
+studied the roles of Drosophila glial cell missing (gcm), a cell fate-related
+transcription factor, in the differentiation and functional regulation of
+zebrafish HR cells. Zebrafish gcm2 (zgcm2) was found to begin expression in
+zebrafish embryos at 10 h postfertilization (hpf), and to be extensively
+expressed in gills but only mildly so in eyes, heart, muscles, and testes. By
+whole mount in situ hybridization, zgcm2 mRNA signals were found in a group of
+cells on the zebrafish yolk sac surface initially in the tail bud stage (10 hpf);
+they had disappeared at 36 hpf and thereafter appeared again in the gill region
+from 48 hpf. Double fluorescence in situ hybridization further demonstrated
+specific colocalization of zgcm2 mRNA in HR cells in zebrafish embryos. Knockdown
+of zgcm2 with a specific morpholino oligonucleotide caused the complete
+disappearance of HR cells with a concomitant decrease in H(+) activity at the
+apical surface of HR cells, but it did not affect the occurrence of
+Na(+)-K(+)-ATPase-rich cells. A decrease in the H(+)-ATPase subunit A (zatp6v1a) 
+expression and no change in zgcm2 expression in zebrafish gills were seen from 12
+h to 3 days after transfer to acidic fresh water, but a compensatory stimulation 
+in the expressions of both genes appeared 4 days post-transfer. In conclusion,
+functional regulation of HR cells is probably achieved by enhancing cell
+differentiation via zGCM2 activation.
+
+PMID: 19193938  [PubMed - indexed for MEDLINE]
+
+
+46. Am J Physiol Regul Integr Comp Physiol. 2009 Apr;296(4):R1190-1. doi:
+10.1152/ajpregu.00031.2009. Epub 2009 Jan 28.
+
+Changing expression patterns: focus on "the transcription factor, glial cell
+missing 2, is involved in differentiation and functional regulation of
+H+-ATPase-rich cells in zebrafish (Danio rerio)".
+
+Pelster B.
+
+Comment on
+    Am J Physiol Regul Integr Comp Physiol. 2009 Apr;296(4):R1192-201.
+
+PMID: 19176892  [PubMed - indexed for MEDLINE]
+
+
+47. Dev Biol. 2009 Mar 1;327(1):216-27. doi: 10.1016/j.ydbio.2008.12.019. Epub 2008
+Dec 25.
+
+Increased thymus- and decreased parathyroid-fated organ domains in Splotch mutant
+embryos.
+
+Griffith AV(1), Cardenas K, Carter C, Gordon J, Iberg A, Engleka K, Epstein JA,
+Manley NR, Richie ER.
+
+Author information: 
+(1)Department of Carcinogenesis, University of Texas MD Anderson Cancer Center,
+Science Park Research Division, Smithville, TX 78957, USA.
+
+Embryos that are homozygous for Splotch, a null allele of Pax3, have a severe
+neural crest cell (NCC) deficiency that generates a complex phenotype including
+spina bifida, exencephaly and cardiac outflow tract abnormalities. Contrary to
+the widely held perception that thymus aplasia or hypoplasia is a characteristic 
+feature of Pax3(Sp/Sp) embryos, we find that thymic rudiments are larger and
+parathyroid rudiments are smaller in E11.5-12.5 Pax3(Sp/Sp) compared to Pax3(+/+)
+embryos. The thymus originates from bilateral third pharyngeal pouch primordia
+containing endodermal progenitors of both thymus and parathyroid glands. Analyses
+of Foxn1 and Gcm2 expression revealed a dorsal shift in the border between
+parathyroid- and thymus-fated domains at E11.5, with no change in the overall
+cellularity or volume of each shared primordium. The border shift increases the
+allocation of third pouch progenitors to the thymus domain and correspondingly
+decreases allocation to the parathyroid domain. Initial patterning in the E10.5
+pouch was normal suggesting that the observed change in the location of the organ
+domain interface arises during border refinement between E10.5 and E11.5. Given
+the well-characterized NCC defects in Splotch mutants, these findings implicate
+NCCs in regulating patterning of third pouch endoderm into thymus- versus
+parathyroid-specified domains, and suggest that organ size is determined in part 
+by the number of progenitor cells specified to a given fate.
+
+PMCID: PMC2643307
+PMID: 19135046  [PubMed - indexed for MEDLINE]
+
+
+48. Sex Transm Infect. 2008 Nov;84(6):509-11. doi: 10.1136/sti.2008.031807.
+
+Alcohol and drug use in the context of anal sex and other factors associated with
+sexually transmitted infections: results from a multi-city study of high-risk men
+who have sex with men in the USA.
+
+Mansergh G(1), Flores S, Koblin B, Hudson S, McKirnan D, Colfax GN; Project MIX
+Study Group.
+
+Collaborators: Purcell D, Taylor R, Spikes P, Hopwood J, Martin N, Jimenez D,
+Powers C, Rodriguez P, Gatson B, Copeland J, Fernandez L, Curtis K, Goodman K,
+Frye V, Bonner S, Bonelli J, Matheson T, Guzman R, Das-Douglas M.
+
+Author information: 
+(1)CDC Divison of HIV/AIDS Prevention, 1600 Clifton Rd, Mailstop E37, Atlanta
+30333, USA. gcm2@cdc.gov
+
+Men who have sex with men (MSM) who use alcohol and drugs are at especially high 
+risk for sexually transmitted infections (STIs); more information is needed about
+associated factors to improve risk reduction. We assessed reported STIs and
+demographic and event-level alcohol and drug use characteristics associated with 
+STIs in a diverse, multi-city study in the USA of MSM who use substances.
+Improved risk reduction efforts are needed for this group as well as some
+initiatives tailored to men who are HIV positive, younger and use drugs (not
+alcohol) in the context of anal sex.
+
+PMID: 19028957  [PubMed - indexed for MEDLINE]
+
+
+49. Stem Cells Dev. 2009 Sep;18(7):1071-80. doi: 10.1089/scd.2008.0337.
+
+Differentiation of human embryonic stem cells to a parathyroid-like phenotype.
+
+Bingham EL(1), Cheng SP, Woods Ignatoski KM, Doherty GM.
+
+Author information: 
+(1)Department of Surgery, Endocrine Surgery Research Laboratory, University of
+Michigan, Ann Arbor, Michigan 48109, USA.
+
+Iatrogenic hypoparathyroidism is the most common complication of cervical
+endocrine surgery. Current management is limited and palliative. As the molecular
+steps in parathyroid development have been defined, they may be replicable in
+vitro, with a goal of cellular replacement therapy. Human embryonic stem cell
+(hESC) lines were investigated as a model for parathyroid regeneration in vitro. 
+BG01 was selected as a model based on expression of genes of interest in embryoid
+bodies (EBs). Established strategies for mouse embryonic stem cell
+differentiation into definitive endoderm were modified and extended to maximize
+the expression of definitive markers of parathyroid development. The optimal
+approach included the use of Activin A at 100 ng/mL with BG01 cells grown on
+murine embryonic fibroblasts for 5 days under conditions of increasing serum
+concentration. After 5 days, the cells were allowed to mature further in tissue
+culture without murine fibroblasts but with continuous Activin A. Our strategy
+produced differentiated cell cultures that expressed intermediate markers of
+endoderm and parathyroid development (CXCR4, EYA1, Six1, and Pax1), as well as
+markers of committed parathyroid precursors or developed parathyroid glands
+(glial cell missing-2 [Gcm2], CCL21, calcium sensing receptor [CaSR], and
+parathyroid hormone [PTH]). We further characterized the cells by testing
+conditioned medium from various time points in our differentiation scheme for the
+presence of PTH. We found that by keeping the cells in culture 2 weeks after the 
+withdrawal of Activin A, the cells were able to produce PTH. Further in vivo work
+will be needed to demonstrate proper functionality of the cells developed in this
+way.
+
+PMID: 19025488  [PubMed - indexed for MEDLINE]
+
+
+50. Hum Mutat. 2009 Jan;30(1):85-92. doi: 10.1002/humu.20827.
+
+Glial cells missing-2 (GCM2) transactivates the calcium-sensing receptor gene:
+effect of a dominant-negative GCM2 mutant associated with autosomal dominant
+hypoparathyroidism.
+
+Canaff L(1), Zhou X, Mosesova I, Cole DE, Hendy GN.
+
+Author information: 
+(1)Department of Medicine, McGill University, and Calcium Research Laboratory and
+Hormones and Cancer Research Unit, Royal Victoria Hospital, Montreal, Quebec,
+Canada.
+
+Glial cells missing-2 (GCM2) is a transcription factor expressed in the
+parathyroid hormone (PTH)-secreting cells of the parathyroid gland and is
+essential for their development. Thus far, downstream targets of GCM2 have not
+been identified. Here, we show that both promoters (P1 and P2) of the
+calcium-sensing receptor (CASR) gene, a differentiation marker for the
+parathyroid gland, are transactivated by wild-type GCM2. GCM response elements
+within CASR P1 (-451 to -441; relative to the transcription start site at +1) and
+CASR P2 (-166 to -156) were identified by mutated promoter-reporter studies as
+well as oligonucleotide precipitation assays. Primary hypoparathyroidism is a
+heterogeneous group of conditions characterized by hypocalcemia and
+hyperphosphatemia due to deficient PTH secretion. A few cases of familial
+isolated hypoparathyroidism with autosomal recessive inheritance have been
+identified that are caused by homozygous inactivating mutations in the GCM2 gene.
+We describe the GCM2 mutations in two families with hypoparathyroidism, one
+inherited in an autosomal recessive fashion and the other in an autosomal
+dominant manner. In transfection studies using a promoter-reporter construct
+having synthetic multimerized GCM elements in the promoter, the dominantly
+inherited mutant GCM2 exerted a dominant-negative effect on wild-type GCM2
+activity, whereas recessively inherited mutants did not. In addition, we show
+that the transactivation of the CASR promoter-reporter constructs by wild-type
+GCM2 is completely abolished in the presence of the dominant-negative mutant
+GCM2.
+
+Copyright 2008 Wiley-Liss, Inc.
+
+PMID: 18712808  [PubMed - indexed for MEDLINE]
+
+
+51. Curr Opin Nephrol Hypertens. 2008 Jul;17(4):353-6. doi:
+10.1097/MNH.0b013e328304651c.
+
+The development of the parathyroid gland: from fish to human.
+
+Zajac JD(1), Danks JA.
+
+Author information: 
+(1)Department of Medicine, University of Melbourne, Austin Health & Northern
+Health, Heidelberg, Victoria, Australia. j.zajac@unimelb.edu.au
+
+PURPOSE OF REVIEW: The purpose of this review is to describe the development and 
+function of the parathyroid gland from fish to mammals. We describe the molecular
+mechanisms regulating parathyroid gland embryogenesis and the clinical syndromes 
+related to mutations in control genes.
+RECENT FINDINGS: Recent studies have shown that fish express parathyroid hormone.
+This is contrary to the long held view that the earliest animals to possess
+parathyroid hormone were amphibians. Two fish species have been demonstrated to
+express parathyroid hormone but the source and physiological function of this
+peptide in fish remains to be determined. There is strong recent evidence that
+regulation and development of the parathyroid gland in mammals is controlled by a
+cascade of genes. A number of these regulatory factors have been identified using
+genetically modified mouse models or as genes causing human disease. These
+include, Gcm2/GCMB, Pax1 and Pax9, Hox3a, Tbx1, GATA3, TBCE, Sox3, Eya1 and
+Six1/4. Expression of a number of these factors occurs in the gill in fish.
+SUMMARY: The function of parathyroid hormone and the parathyroid gland in humans 
+is to regulate serum calcium levels to maintain homeostasis. Parathyroid hormone 
+genes are present in fish but their function remains to be elucidated.
+Parathyroid development is regulated by a cascade of genes, which are now being
+rapidly defined in mouse models and in human mutations.
+
+PMID: 18660669  [PubMed - indexed for MEDLINE]
+
+
+52. J Clin Endocrinol Metab. 2008 Sep;93(9):3568-76. doi: 10.1210/jc.2007-2167. Epub 
+2008 Jun 26.
+
+Dominant-negative GCMB mutations cause an autosomal dominant form of
+hypoparathyroidism.
+
+Mannstadt M(1), Bertrand G, Muresan M, Weryha G, Leheup B, Pulusani SR,
+Grandchamp B, Jüppner H, Silve C.
+
+Author information: 
+(1)Endocrine Unit, Massachusetts General Hospital, Thier 1051, 55 Fruit Street,
+Boston, Massachusetts 02114, USA.
+
+CONTEXT: Hypoparathyroidism (HP) is characterized by low PTH levels,
+hypocalcemia, and hyperphosphatemia. Heterozygous mutations in pre-pro-PTH or the
+calcium-sensing receptor (CaSR) cause some forms of autosomal dominant HP
+(AD-HP). Furthermore, homozygous mutations in glial cells missing B (GCMB) have
+been implicated in autosomal recessive HP (AR-HP). In most other HP patients,
+however, the molecular defect remains undefined.
+OBJECTIVE: Our objectives were to determine the genetic defect in the affected
+members of two unrelated families with AD-HP and define the underlying disease
+mechanism.
+SUBJECTS: Several family members affected by AD-HP were investigated. The proband
+in family A had low calcium detected on routine blood testing, whereas the
+proband in family B had symptomatic hypocalcemia.
+METHODS: Mutational analysis of the genes encoding pre-pro-PTH, CaSR, and GCMB
+was performed using PCR-amplified genomic DNA of the probands and other available
+members of each family. The identified GCMB mutants were characterized by Western
+blot analysis and luciferase reporter assay using DF-1 fibroblasts.
+RESULTS: Two novel heterozygous mutations located in the last GCMB exon
+(c.1389delT and c.1399delC in families A and B, respectively) were identified
+that both lead to frame-shifts and replacement of the putative second
+transactivation domain within carboxyl-terminal region by unrelated amino acid
+sequence. The mutant GCMB proteins were well expressed, and both showed
+dose-dependent inhibition of the transactivation capacity of wild-type protein in
+luciferase reporter assays.
+CONCLUSIONS: The dominant-negative effect observed in vitro for both GCMB
+mutations provides a plausible explanation for the impaired PTH secretion
+observed in the two unrelated families with AD-HP.
+
+PMCID: PMC2567849
+PMID: 18583467  [PubMed - indexed for MEDLINE]
+
+
+53. Dev Dyn. 2008 Jun;237(6):1699-708. doi: 10.1002/dvdy.21556.
+
+Expression of the semaphorins Sema 3D and Sema 3F in the developing parathyroid
+and thymus.
+
+Takahashi K(1), Ishida M, Hirokawa K, Takahashi H.
+
+Author information: 
+(1)Developmental Neurobiology Group, Mitsubishi Kagaku Institute of Life
+Sciences, Machida-shi, Tokyo, Japan.
+
+We have identified two Semaphorin genes, Sema 3D and Sema 3F, as being
+specifically expressed in the developing parathyroid and thymus. The thymus and
+parathyroid originate from a common primordium that develops from the third
+pharyngeal pouch in mice. The expression of Sema 3D and Sema 3F was compared with
+that of gcm2, Pax1, and Neuropilin-1 and -2, and genes encoding a variety of
+Plexins by in situ hybridization during mouse pharyngeal development. Sema 3D was
+specifically expressed in the dorsal and cranial portions of the primordium
+developing from the third pouch at mouse embryonic day (E) 10.5. That the
+expression pattern of Sema 3D was consistent with that of gcm2 indicates that
+Sema 3D was expressed in the parathyroid-specific domains of the developing third
+pouch. The parathyroid-specific pattern of Sema 3D expression continued until
+E17.5. By contrast, Sema 3F was expressed in both the parathyroid and thymic
+domains of the common primordium at E10.5, and the expression levels in both
+tissues were decreased during development. The Semaphorin receptors were
+expressed in the blood vessels, nerves, and mesenchymal cells adjacent to the
+common primordium or the separated parathyroid and thymus during development. Our
+results show that Sema 3D and Sema 3F genes were overlappingly and distinctly
+expressed in the developing parathyroid and thymus, respectively, and that
+Semaphorin signaling might play roles in the interactions between these organs
+and surrounding tissues such as nerves and blood vessels, and in the recruitment 
+of lymphoid cells.
+
+PMID: 18489001  [PubMed - indexed for MEDLINE]
+
+
+54. J Clin Endocrinol Metab. 2008 Apr;93(4):1426-32. doi: 10.1210/jc.2007-1783. Epub 
+2008 Jan 8.
+
+Analysis of the GCM2 gene in isolated hypoparathyroidism: a molecular and
+biochemical study.
+
+Maret A(1), Ding C, Kornfield SL, Levine MA.
+
+Author information: 
+(1)Division of Pediatric Endocrinology, University Hospital of Geneva, CH-1211
+Geneva, Switzerland.
+
+CONTEXT: Hypoparathyroidism is characterized by hypocalcemia, hyperphosphatemia, 
+and absent or markedly reduced serum levels of intact PTH. The transcription
+factor GCM2 is critical for the development of parathyroid glands in mice and
+humans.
+OBJECTIVE: We sought to determine the prevalence of GCM2 gene mutations in
+patients with familial or sporadic forms of isolated hypoparathyroidism (IH).
+DESIGN AND SETTING: We used PCR to analyze the promoter, the exons, and flanking 
+intronic sequences in 10 IH families with 17 affected members and in 10 patients 
+with sporadic IH. Wild-type and mutant GCM2 proteins were expressed in HEK293
+cells and characterized.
+RESULTS: We identified nine single nucleotide changes, three in the 5'
+untranslated region and six in exon 5, that led to nonsynonymous changes in the
+GCM2 protein (G203S, I227V, Y282D, N315D, Q330L, and M354V). Variant GCM2
+proteins had normal size, nuclear localization, and transactivational function
+when expressed in HEK293 cells. Similar analyses of two previously described GCM2
+missense mutations, R47L and G63S, revealed decreased nuclear expression and
+markedly reduced (5-20% of normal) transactivational activity. The variant
+alleles did not segregate with inheritance of IH, and many of the single
+nucleotide substitutions were present in DNA from unrelated normal subjects,
+suggesting that these base changes were polymorphisms.
+CONCLUSION: Our study describes nine single nucleotide changes in the GCM2 gene
+that represent polymorphisms. Although GCM2 mutations appear to be an uncommon
+cause of IH, the wide variety of GCM2 polymorphisms suggests that variant alleles
+may have a role in determining parathyroid function.
+
+PMID: 18182452  [PubMed - indexed for MEDLINE]
+
+
+55. Clin Calcium. 2007 Aug;17(8):1206-13.
+
+[Idiopathic hypoparathyroidism due to abnormalities in parathyroid
+organogenesis].
+
+[Article in Japanese]
+
+Tanaka H(1).
+
+Author information: 
+(1)Okayama University Graduate School of Medicine, Dentistry and Pharmaceutical
+Sciences, Japan.
+
+Recent advance in mouse genomics has provided us lots of information concerning
+genes playing critical roles during organogenesis of parathyroid gland. And human
+counterparts of murine hypoparathyroidism produced by gene manipulation have been
+identified. Large part of genes which is responsible for hypoparathyroidism
+consisted from transcription factors such as TBX1, GATA3, SOX3. This may
+contribute to the abnormalities in the other organogenesis. Systematic survey of 
+the anomalies in face and the other organ is important to confirm the diagnosis. 
+And people should keep in mind that PTH could not be produced only in parathyroid
+in parathyroid agenesis.
+
+PMID: 17660617  [PubMed - indexed for MEDLINE]
+
+
+56. Clin Calcium. 2007 Aug;17(8):1175-81.
+
+[Pathophysiology and classitication of parathyroidism].
+
+[Article in Japanese]
+
+Endo I(1), Matsumoto T, Fukumoto S.
+
+Author information: 
+(1)University of Tokushima Graduate School of Health Biosciences, Department of
+Medicine and Bioregulatory Sciences, Japan.
+
+Hypoparathyroidism is characterized by decreased actions of parathyroid hormone
+(PTH) either by reduced secretion of or resistance to PTH. The understanding in
+the pathogenesis of hypoparathyroidism has been greatly increased by recent
+findings in genetic abnormalities of patients with hypoparathyroidism. A new
+classification of hypoparathyroidism based upon these genetic abnormalities is
+proposed, and a diagnostic approach to patients with hypoparathyroidism is
+summarized.
+
+PMID: 17660612  [PubMed - indexed for MEDLINE]
+
+
+57. Dev Dyn. 2007 Aug;236(8):2101-8.
+
+Novel gcm-dependent lineages in the postembryonic nervous system of Drosophila
+melanogaster.
+
+Soustelle L(1), Giangrande A.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/ULP, Strasbourg, France.
+
+glial cells missing genes (gcm and gcm2) act as the glial fate determinants in
+the Drosophila embryo. However, their requirement in the adult central nervous
+system (CNS) is at present not known, except for their role in lamina glia. This 
+is particularly important with respect to two recent sets of data. Adult glial
+subpopulations differentiate through embryonic glia proliferation. Also, gcm-gcm2
+are required for the differentiation of specific adult neurons. We here show that
+gcm is expressed in precursors and postmitotic, migrating, cells of the medulla
+neuropile glia (mng) lineage. It is also expressed in a thoracic glial lineage
+and in neurons of the ventral nerve cord (VNC). Finally, while gcm is required
+for gliogenesis in medulla and VNC, it does not seem to be required for the
+generation of VNC neurons.
+
+(c) 2007 Wiley-Liss, Inc.
+
+PMID: 17654713  [PubMed - indexed for MEDLINE]
+
+
+58. Nihon Naika Gakkai Zasshi. 2007 Apr 10;96(4):707-12.
+
+[Progress in diagnosis and therapy: Hypocalcemia due to idiopathic
+hypoparathyroidism].
+
+[Article in Japanese]
+
+Tanaka H.
+
+PMID: 17506308  [PubMed - indexed for MEDLINE]
+
+
+59. Dev Biol. 2007 May 1;305(1):333-46. Epub 2007 Feb 21.
+
+Gcm2 is required for the differentiation and survival of parathyroid precursor
+cells in the parathyroid/thymus primordia.
+
+Liu Z(1), Yu S, Manley NR.
+
+Author information: 
+(1)Department of Genetics, University of Georgia, Athens, GA 30602, USA.
+
+The parathyroid glands develop with the thymus from bilateral common primordia
+that develop from the 3rd pharyngeal pouch endoderm in mouse embryos at about
+E11, each of which separates into one parathyroid gland and one thymus lobe by
+E13.5. Gcm2, a mouse ortholog of the Drosophila Glial Cells Missing gene, is
+expressed in the parathyroid-specific domains in the 3rd pouches from E9.5. The
+null mutation of Gcm2 causes aparathyroidism in the fetal and adult mouse and has
+been proposed to be a master regulator for parathyroid development. In order to
+study how Gcm2 functions in parathyroid development, we investigated the
+mechanism that causes the loss of parathyroids in Gcm2 null mutants. Analysis of 
+the 3rd pouch-derived primordium in Gcm2-/- mutants showed the
+parathyroid-specific domain was present before E12.5 but underwent programmed
+cell death between E12 and 12.5. RNA and protein localization studies for
+parathyroid hormone (Pth) in wild-type embryos showed that the presumptive
+parathyroid domain in the parathyroid/thymus primordia started to transcribe Pth 
+mRNA and produce PTH protein from E11.5 before the separation of parathyroid and 
+thymus domains. However in Gcm2-/- mutants, the parathyroid-specific domain in
+the common primordium did not express Pth and could not maintain the expression
+of two other parathyroid marker genes, CasR and CCL21, although expression of
+these two genes was initiated. Marker gene analysis placed Gcm2 downstream of the
+known transcription and signaling pathways for parathyroid/thymus organogenesis. 
+These results suggest that Gcm2 is not required for pouch patterning or to
+establish the parathyroid domain, but is required for differentiation and
+subsequent survival of parathyroid cells.
+
+PMCID: PMC1931567
+PMID: 17382312  [PubMed - indexed for MEDLINE]
+
+
+60. Mech Dev. 2007 May;124(5):327-40. Epub 2007 Jan 21.
+
+Segregation of postembryonic neuronal and glial lineages inferred from a mosaic
+analysis of the Drosophila larval brain.
+
+Colonques J(1), Ceron J, Tejedor FJ.
+
+Author information: 
+(1)Instituto de Neurociencias, CSIC--Universidad Miguel Hernandez, Campus de San 
+Juan, 03550 San Juan (Alicante), Spain.
+
+Due to its intermediate complexity and its sophisticated genetic tools, the
+larval brain of Drosophila is a useful experimental system to study the
+mechanisms that control the generation of cell diversity in the CNS. In order to 
+gain insight into the neuronal and glial lineage specificity of neural progenitor
+cells during postembryonic brain development, we have carried an extensive mosaic
+analysis throughout larval brain development. In contrast to embryonic CNS
+development, we have found that most postembryonic neurons and glial cells of the
+optic lobe and central brain originate from segregated progenitors. Our analysis 
+also provides relevant information about the origin and proliferation patterns of
+several postembryonic lineages such as the superficial glia and the
+medial-anterior Medulla neuropile glia. Additionally, we have studied the
+spatio-temporal relationship between gcm expression and gliogenesis. We found
+that gcm expression is restricted to the post-mitotic cells of a few neuronal and
+glial lineages and it is mostly absent from postembryonic progenitors. Thus, in
+contrast to its major gliogenic role in the embryo, the function of gcm during
+postembryonic brain development seems to have evolved to the specification and
+differentiation of certain neuronal and glial lineages.
+
+PMID: 17344035  [PubMed - indexed for MEDLINE]
+
+
+61. Development. 2007 Feb;134(3):625-34.
+
+Neurogenic role of Gcm transcription factors is conserved in chicken spinal cord.
+
+Soustelle L(1), Trousse F, Jacques C, Ceron J, Cochard P, Soula C, Giangrande A.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/ULP, BP10142, 67404 Illkirch Cedex, CU de Strasbourg, France.
+
+Although glial cells missing (gcm) genes are known as glial determinants in the
+fly embryo, the role of vertebrate orthologs in the central nervous system is
+still under debate. Here we show for the first time that the chicken ortholog of 
+fly gcm (herein referred to as c-Gcm1), is expressed in early neuronal lineages
+of the developing spinal cord and is required for neural progenitors to
+differentiate as neurons. Moreover, c-Gcm1 overexpression is sufficient to
+trigger cell cycle exit and neuronal differentiation in neural progenitors. Thus,
+c-Gcm1 expression constitutes a crucial step in the developmental cascade that
+prompts progenitors to generate neurons: c-Gcm1 acts downstream of proneural
+(neurogenin) and progenitor (Sox1-3) factors and upstream of NeuroM neuronal
+differentiation factor. Strikingly, this neurogenic role is not specific to the
+vertebrate gene, as fly gcm and gcm2 are also sufficient to induce the expression
+of neuronal markers. Interestingly, the neurogenic role is restricted to
+post-embryonic stages and we identify two novel brain neuronal lineages
+expressing and requiring gcm genes. Finally, we show that fly gcm and the chick
+and mouse orthologs induce expression of neural markers in HeLa cells. These
+data, which demonstrate a conserved neurogenic role for Gcm transcription
+factors, call for a re-evaluation of the mode of action of these genes during
+evolution.
+
+PMID: 17215311  [PubMed - indexed for MEDLINE]
+
+
+62. Cell Tissue Res. 2007 Jan;327(1):15-23. Epub 2006 Sep 23.
+
+Expression of glial progenitor markers p75NTR and S100 protein in the developing 
+mouse parathyroid gland.
+
+Kameda Y(1).
+
+Author information: 
+(1)Department of Anatomy, Kitasato University School of Medicine, Sagamihara,
+Kanagawa 228-8555, Japan. kameda@med.kitasato-u.ac.jp
+
+Drosophila glial cells missing (Drosophila Gcm) is a transcription factor that is
+required for the differentiation of glial cells. Gcm2, a mouse homologue of
+Drosophila Gcm, is a master regulatory gene of parathyroid development and is
+expressed in the parathyroid rudiment. We have found that the mouse parathyroid
+exhibits the glial progenitor markers, p75(NTR) and S100 protein, during fetal
+development. At embryonic day 11.5 (E11.5), a bulge of the parathyroid rudiment
+is formed in the cranial part of the third pharyngeal pouch. The rudiment
+exhibits immunoreactivity for p75(NTR) and S100 protein, in addition to secretory
+protein 1/chromogranin A. While the thymus rudiment, which arises from the caudal
+part of the third pharyngeal pouch, is moving downwards, the parathyroid is
+attached to the top of thymus. The parathyroid comes into contact with the
+thyroid lobe at E13.5 and then separates from the thymus. The parathyroid
+maintains intense immunoreactivity for p75(NTR) and S100 protein during the
+migration and development in the thyroid lobe. The co-localization of p75(NTR)
+and S100 in the developing parathyroid cells has been confirmed by confocal
+microscopy. Other glial markers, viz. glial fibrillary acidic protein, Sox10,
+vimentin and nestin, are not expressed in the parathyroid at any stage of
+development. The neural progenitor markers, neurofilament 160 and TuJ1, are also 
+absent from the parathyroid. Taken together, we suggest that Gcm2 supplies only
+some glial progenitor characteristics to the parathyroid rudiment.
+
+PMID: 17024414  [PubMed - indexed for MEDLINE]
+
+
+63. Mech Dev. 2006 Dec;123(12):925-40. Epub 2006 Aug 24.
+
+An essential role for zebrafish Fgfrl1 during gill cartilage development.
+
+Hall C(1), Flores MV, Murison G, Crosier K, Crosier P.
+
+Author information: 
+(1)Department of Molecular Medicine & Pathology, School of Medical Sciences, The 
+University of Auckland, P.O. 92019, Auckland, New Zealand.
+
+The vertebrate craniofacial skeleton develops via a complex process involving
+signaling cascades in all three germ layers. Fibroblast growth factor (FGF)
+signaling is essential for several steps in pharyngeal arch development. In
+zebrafish, Fgf3 and Fgf8 in the mesoderm and hindbrain have an early role to
+pattern the pouch endoderm, influencing craniofacial integrity. Endodermal FGF
+signaling is required for the differentiation and survival of postmigratory
+neural crest cells that form the pharyngeal skeleton. We identify a novel role
+for zebrafish Fgf receptor-like 1a (Fgfrl1a) that is indispensable during gill
+cartilage development. We show that depletion of Fgfrl1a is sufficient to abolish
+cartilage derivatives of the ceratobranchials. Using an Fgfrl1a-deficient model, 
+we analyzed expression of genes critical for chondrogenesis in the different
+compartments of the developing pharyngeal arch. Fgfrl1a-depleted animals
+demonstrate typical neural crest specification and migration to populate the arch
+primordia as well as normal pouch segmentation. However, in the absence of
+Fgfrl1a, larvae fail to express the transcription factor glial cells missing 2
+(gcm2), a gene necessary for cartilage and gill filament formation, in the
+ectodermal lining of the branchial arches. In addition, two transcription factors
+essential for chondrogenesis, sox9a and runx2b, fail to express within the
+mesenchymal condensations of the branchial arches. A duplicate zebrafish gene,
+fgfrl1b, has now been identified. We show that Fgfrl1b is also required for
+proper formation of all ventral cartilage elements and acts cooperatively with
+Fgfrl1a during gill cartilage formation.
+
+PMID: 17011755  [PubMed - indexed for MEDLINE]
+
+
+64. Dev Biol. 2006 Sep 15;297(2):587-602. Epub 2006 Jun 2.
+
+cis-regulatory processing of Notch signaling input to the sea urchin glial cells 
+missing gene during mesoderm specification.
+
+Ransick A(1), Davidson EH.
+
+Author information: 
+(1)Division of Biology, California Institute of Technology, Pasadena, CA 91125,
+USA. andyr@caltech.edu
+
+The glial cells missing regulatory gene of Strongylocentrotus purpuratus (spgcm) 
+was proposed earlier to be the genomic target of Delta/Notch (D/N) signaling
+required for specification of the mesodermal precursors of pigment cells. Here,
+we show that microinjection of a spgcm antisense morpholino oligonucleotide
+results in larvae without pigment cells. Microinjection of an mRNA encoding a
+dominant negative form of Suppressor of Hairless (dn-Su(H)) results in reduced
+levels of spgcm mRNA, disruption of mesodermal founder cell specification and
+failure to produce pigment cells. These results confirm that this gene is
+required for pigment cell specification. Three cis-regulatory modules of the
+spgcm gene were identified, which when incorporated in a GFP expression construct
+recapitulate the early expression pattern of this gene. Spatial expression of
+this GFP expression construct is severely disrupted by co-expression of dn-Su(H) 
+mRNA, confirming that spgcm is a direct target of canonical N signaling mediated 
+through Su(H) inputs. cis-perturbation analysis by mutation of consensus Su(H)
+sites identified a conserved motif paired-site and a lone site in the middle
+module that function both to drive expression in SMC precursors which receive the
+Delta signal and to repress expression in ectopic locations which lack this
+signal. While these Su(H) target sites provide the cis-regulatory architecture
+with the core of an N signaling transcriptional response switch, both the on and 
+off outputs from this module require additional inputs.
+
+PMID: 16925988  [PubMed - indexed for MEDLINE]
+
+
+65. Nihon Rinsho. 2006 Jun 28;Suppl 2:43-5.
+
+[Familial isolated hypoparathyroidism].
+
+[Article in Japanese]
+
+Takeuchi Y(1).
+
+Author information: 
+(1)Toranomon Hospital Endocrine Center.
+
+PMID: 16817346  [PubMed - indexed for MEDLINE]
+
+
+66. Nihon Rinsho. 2006 Jun 28;Suppl 2:37-42.
+
+[Idiopathic hypoparathyroidism].
+
+[Article in Japanese]
+
+Yamamoto M(1).
+
+Author information: 
+(1)Department of Health and Nutrition, School of Medical Sciences, Niigata
+University of Health and Welfare.
+
+PMID: 16817345  [PubMed - indexed for MEDLINE]
+
+
+67. Blood. 2006 Oct 15;108(8):2531-9. Epub 2006 Jun 29.
+
+Coordination between CCR7- and CCR9-mediated chemokine signals in prevascular
+fetal thymus colonization.
+
+Liu C(1), Saito F, Liu Z, Lei Y, Uehara S, Love P, Lipp M, Kondo S, Manley N,
+Takahama Y.
+
+Author information: 
+(1)Division of Experimental Immunology, Institute for Genome Research, University
+of Tokushima, Tokushima 770-8503, Japan.
+
+Thymus seeding by T-lymphoid progenitor cells is a prerequisite for T-cell
+development. However, molecules guiding thymus colonization and their roles
+before and after thymus vascularization are unclear. Here we show that mice
+doubly deficient for chemokine receptors CCR7 and CCR9 were defective
+specifically in fetal thymus colonization before, but not after, thymus
+vascularization. The defective prevascular fetal thymus colonization was followed
+by selective loss of the first wave of T-cell development generating epidermal
+Vgamma3(+) gammadelta T cells. Unexpectedly, CCL21, a CCR7 ligand, was expressed 
+not by Foxn1-dependent thymic primordium but by Gcm2-dependent parathyroid
+primordium, whereas CCL25, a CCR9 ligand, was predominantly expressed by
+Foxn1-dependent thymic primordium, revealing the role of the adjacent parathyroid
+in guiding fetal thymus colonization. These results indicate coordination between
+Gcm2-dependent parathyroid and Foxn1-dependent thymic primordia in establishing
+CCL21/CCR7- and CCL25/CCR9-mediated chemokine guidance essential for prevascular 
+fetal thymus colonization.
+
+PMID: 16809609  [PubMed - indexed for MEDLINE]
+
+
+68. AIDS Behav. 2006 Nov;10(6):743-51.
+
+Inconsistent condom use with steady and casual partners and associated factors
+among sexually-active men who have sex with men in Bangkok, Thailand.
+
+Mansergh G(1), Naorat S, Jommaroeng R, Jenkins RA, Stall R, Jeeyapant S,
+Phanuphak P, Tappero JW, van Griensven F.
+
+Author information: 
+(1)Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention,
+1600 Clifton Road, Mailstop E-37, Atlanta, GA 30333, USA. gcm2@cdc.gov
+
+HIV/STD risk behavior has not been examined in community samples of men who have 
+sex with men (MSM) in Thailand. The sexually-active sample (n=927) was recruited 
+from bars, saunas, and parks; 20% identified as bisexual and 17% tested
+HIV-positive. Inconsistent (<100%) condom use was reported by 45% of those with
+steady partners and 21% of those with casual partners in the prior three months. 
+21% had heard of effective HIV treatments (n=194), among whom 44% believed HIV
+was less serious and 36% said their risk behavior had increased after hearing
+about the treatments. In multivariate analysis, HIV-positive status,
+gay-identification, getting most HIV information from the radio, believing HIV
+can be transmitted by mosquito bite, and concern about acquiring an STD were
+associated with inconsistent condom use during anal sex; slightly older age
+(25-29 vs. 18-24 years) was associated with more consistent condom use. HIV/STD
+risk-reduction strategies for MSM in Bangkok should clearly state sexual risk to 
+individuals in this population.
+
+PMID: 16715348  [PubMed - indexed for MEDLINE]
+
+
+69. Med Hypotheses. 2006;67(3):482-7. Epub 2006 May 12.
+
+A common structural mechanism underlying GCMB mutations that cause
+hypoparathyroidism.
+
+Sticht H(1), Hashemolhosseini S.
+
+Author information: 
+(1)Institut für Biochemie, Friedrich-Alexander Universität Erlangen-Nürnberg,
+Fahrstr. 17, 91054 Erlangen, Germany. heinrich.sticht@med.uni-erlangen.de
+
+Hypoparathyroidism, either of acquired or inherited origin, is a heterogenous
+group of human disorders caused by a defective calcium homeostasis clinically
+known as hypocalcemia and hyperphosphatemia. Two mutations (R47L, G63S) in the
+DNA binding domain of the parathyroid-specific transcription factor GCMB have
+been reported to be linked to hypoparathyroidism. Both mutations cause a loss of 
+transactivation either with (R47L) or without (G63S) a concomitant loss of DNA
+binding. Despite these differences with respect to their DNA binding ability,
+molecular modeling of the wild type and mutant GCMB-DNA complexes reveals a
+common regular pattern of molecular interactions which is apparently crucial for 
+the integrity of the GCM DNA binding domain and is altered by the respective
+mutations. The significance of this model is substantiated from an investigation 
+of all biochemically known mutations of the DNA binding domain of GCM proteins
+that impede transactivation. All of them share the proposed molecular mechanism
+and thus can be predicted correctly by our model. This mechanistic commonness
+allows the prediction of 21 additional residues of which mutation might
+critically affect the transactivating ability of GCMB and thus might be linked to
+disease when present in patients.
+
+PMID: 16697534  [PubMed - indexed for MEDLINE]
+
+
+70. J Am Soc Nephrol. 2006 May;17(5):1305-15. Epub 2006 Apr 5.
+
+Fibroblast growth factor 23 is a counter-regulatory phosphaturic hormone for
+vitamin D.
+
+Liu S(1), Tang W, Zhou J, Stubbs JR, Luo Q, Pi M, Quarles LD.
+
+Author information: 
+(1)Department of Internal Medicine and the Kidney Institute, University of Kansas
+Medical Center, 3901 Rainbow Boulevard, Room 6020 WHE, MS 3018, Kansas City, KS
+66160, USA. sliu@kumc.edu
+
+The regulation of the phosphaturic factor fibroblast growth factor 23 (FGF23) is 
+not well understood. It was found that administration of 1,25-dihydroxyvitamin
+D(3) (1,25[OH](2)D(3)) to mice rapidly increased serum FGF23 concentrations from 
+a basal level of 90.6 +/- 8.1 to 213.8 +/- 14.6 pg/ml at 8 h (mean +/- SEM; P <
+0.01) and resulted in a four-fold increase in FGF23 transcripts in bone, the
+predominate site of FGF23 expression. In the Hyp-mouse homologue of X-linked
+hypophosphatemic rickets, administration of 1,25(OH)(2)D(3) further increased
+circulating FGF23 levels. In Gcm2 null mice, low 1,25(OH)(2)D(3) levels were
+associated with a three-fold reduction in FGF23 levels that were increased by
+administration of 1,25(OH)(2)D(3). In osteoblast cell cultures, 1,25(OH)(2)D(3)
+but not calcium, phosphate, or parathyroid hormone stimulated FGF23 mRNA levels
+and resulted in a dose-dependent increase in FGF23 promoter activity.
+Overexpression of a dominant negative vitamin D receptor inhibited
+1,25(OH)(2)D(3) stimulation of FGF23 promoter activity, and mutagenesis of the
+FGF23 promoter identified a vitamin D-responsive element (-1180 GGAACTcagTAACCT
+-1156) that is responsible for the vitamin D effects. These data suggest that
+1,25(OH)(2)D(3) is an important regulator of FGF23 production by osteoblasts in
+bone. The physiologic role of FGF23 may be to act as a counterregulatory
+phosphaturic hormone to maintain phosphate homeostasis in response to vitamin D.
+
+PMID: 16597685  [PubMed - indexed for MEDLINE]
+
+
+71. Sex Transm Infect. 2006 Apr;82(2):131-4.
+
+Methamphetamine and sildenafil (Viagra) use are linked to unprotected receptive
+and insertive anal sex, respectively, in a sample of men who have sex with men.
+
+Mansergh G(1), Shouse RL, Marks G, Guzman R, Rader M, Buchbinder S, Colfax GN.
+
+Author information: 
+(1)CDC Division of HIV/AIDS Prevention, 1600 Clifton Road, Mailstop E-37,
+Atlanta, GA 30333, USA. gcm2@cdc.gov
+
+OBJECTIVES: There is evidence that methamphetamine and sildenafil (Viagra) use
+are associated with sexual risk behaviour among men who have sex with men (MSM). 
+We investigated the association of methamphetamine, sildenafil, and other
+substance use with unprotected receptive and insertive anal sex among MSM by
+conducting an encounter specific analysis.
+METHODS: Data were from a cross sectional, community based survey of MSM in San
+Francisco regarding behaviour during their most recent anal sex encounter.
+Mulitvariate regression analysed independent associations of specific substance
+use and demographic variables with unprotected anal sex behaviours.
+RESULTS: The sample (n = 388) was diverse in race/ethnicity, age, income,
+education, HIV status, and homosexual/bisexual identification. More than half
+(53%) reported unprotected anal sex, including insertive (29%) and receptive
+(37%) during their most recent anal sex encounter; 12% reported unprotected
+insertive and 17% reported unprotected receptive anal sex with an HIV discordant 
+or unknown partner. Methamphetamine was used by 15% and sildenafil was used by 6%
+of the men before or during the encounter; 2% used both drugs. In multivariate
+analysis controlling for demographic factors and other substance use,
+methamphetamine use was associated with unprotected receptive (odds ratio (OR),
+2.03; 95% confidence interval (CI), 1.09 to 3.76) and sildenafil use was
+associated with unprotected insertive (OR, 6.51; CI, 2.46 to 17.24) anal sex.
+Effects were stronger with HIV discordant or unknown sex partners specifically.
+CONCLUSION: Encounter specific associations of methamphetamine and sildenafil use
+with unprotected receptive and insertive anal sex, respectively, indicate the
+importance of assessment specificity and tailoring risk reduction efforts to
+address certain drugs and sexual behavioural roles among MSM.
+
+PMCID: PMC2564684
+PMID: 16581738  [PubMed - indexed for MEDLINE]
+
+
+72. Dev Biol. 2006 May 15;293(2):499-512. Epub 2006 Mar 10.
+
+Patterning of the third pharyngeal pouch into thymus/parathyroid by Six and Eya1.
+
+Zou D(1), Silvius D, Davenport J, Grifone R, Maire P, Xu PX.
+
+Author information: 
+(1)McLaughlin Research Institute for Biomedical Sciences, Great Falls, MT 59405, 
+USA.
+
+Previous studies have suggested a role of the homeodomain Six family proteins in 
+patterning the developing vertebrate head that involves appropriate segmentation 
+of three tissue layers, the endoderm, the paraxial mesoderm and the neural crest 
+cells; however, the developmental programs and mechanisms by which the Six genes 
+act in the pharyngeal endoderm remain largely unknown. Here, we examined their
+roles in pharyngeal pouch development. Six1-/- mice lack thymus and parathyroid
+and analysis of Six1-/- third pouch endoderm demonstrated that the patterning of 
+the third pouch into thymus/parathyroid primordia is initiated. However, the
+endodermal cells of the thymus/parathyroid rudiments fail to maintain the
+expression of the parathyroid-specific gene Gcm2 and the thymus-specific gene
+Foxn1 and subsequently undergo abnormal apoptosis, leading to a complete
+disappearance of organ primordia by E12.5. This thus defines the
+thymus/parathyroid defects present in the Six1 mutant. Analyses of the
+thymus/parathyroid development in Six1-/-;Six4-/- double mutant show that both
+Six1 and Six4 act synergistically to control morphogenetic movements of early
+thymus/parathyroid tissues, and the threshold of Six1/Six4 appears to be crucial 
+for the regulation of the organ primordia-specific gene expression. Previous
+studies in flies and mice suggested that Eya and Six genes may function
+downstream of Pax genes. Our data clearly show that Eya1 and Six1 expression in
+the pouches does not require Pax1/Pax9 function, suggesting that they may
+function independently from Pax1/Pax9. In contrast, Pax1 expression in all
+pharyngeal pouches requires both Eya1 and Six1 function. Moreover, we show that
+the expression of Tbx1, Fgf8 and Wnt5b in the pouch endoderm was normal in
+Six1-/- embryos and slightly reduced in Six1-/-;Six4-/- double mutant, but was
+largely reduced in Eya1-/- embryos. These results indicate that Eya1 appears to
+be upstream of very early events in the initiation of thymus/parathyroid
+organogenesis, while Six genes appear to act in an early differentiation step
+during thymus/parathyroid morphogenesis. Together, these analyses establish an
+essential role for Eya1 and Six genes in patterning the third pouch into
+organ-specific primordia.
+
+PMCID: PMC3882147
+PMID: 16530750  [PubMed - indexed for MEDLINE]
+
+
+73. Public Health Rep. 2006 Mar-Apr;121(2):127-32.
+
+CDC consultation on methamphetamine use and sexual risk behavior for HIV/STD
+infection: summary and suggestions.
+
+Mansergh G(1), Purcell DW, Stall R, McFarlane M, Semaan S, Valentine J,
+Valdiserri R.
+
+Author information: 
+(1)Division of HIV/AIDS Prevention, U.S. Centers for Disease Control and
+Prevention, 1600 Clifton Rd. NE, Mailstop E37, Atlanta, GA 30333, USA.
+gcm2@cdc.gov
+
+In January 2005, the U.S. Centers for Disease Control and Prevention hosted a
+national consultation of scientists, public health officials, and community
+service providers to address growing concerns about the association of
+methamphetamine use and sexual risk behavior for HIV/STD infection, which is well
+documented among men who have sex with men. The purpose of the consultation was
+to review a representation of the current state of the science and practice on
+the topic in order to reduce the situational link of methamphetamine use and
+sexual risk. A set of suggestions for future research and programs were developed
+by the participants. This article provides a summary of content and
+recommendations from the consultation, and not an exhaustive review of the
+literature.
+
+PMCID: PMC1525267
+PMID: 16528944  [PubMed - indexed for MEDLINE]
+
+
+74. Gene Expr Patterns. 2006 Oct;6(8):794-9. Epub 2006 Mar 6.
+
+Bmp4 and Noggin expression during early thymus and parathyroid organogenesis.
+
+Patel SR(1), Gordon J, Mahbub F, Blackburn CC, Manley NR.
+
+Author information: 
+(1)Department of Genetics, University of Georgia, Athens, GA 30602, USA.
+
+The thymus and parathyroids originate from the third pharyngeal pouches, which
+form as endodermal outpocketings in the pharyngeal region beginning on embryonic 
+day 9 (E9.0) of mouse development. Using organ-specific markers, we have
+previously shown that thymus and parathyroid-specific organ domains are
+established within the primordium prior to formation of the organs proper: Gcm2
+expression defines the prospective parathyroid cells in the dorsal pouch from
+E9.5, while Foxn1 is expressed in the thymus domain from E11.25. Bmp (bone
+morphogenetic protein) signaling has been implicated in thymic epithelial cell
+differentiation and thymus organogenesis. In the present study, we report
+expression patterns of Bmp4 and Noggin, a Bmp4 antagonist, in the third
+pharyngeal pouch using two lacZ transgenic mouse strains. Results from this gene 
+expression study revealed localization of Bmp4 expression to the ventral region
+of the third pharyngeal pouch endoderm at E10.5 and E11.5, in those cells that
+will express Foxn1 and form the thymus. Conversely, the expression of Noggin was 
+confined to the dorsal region of the pouch and primordium at these stages, and
+thus appeared to be co-expressed with Gcm2 in the parathyroid domain. This
+represents the first detailed study of Bmp4 and Noggin expression during the
+early stages of thymus and parathyroid organogenesis.
+
+PMID: 16517216  [PubMed - indexed for MEDLINE]
+
+
+75. Clin Calcium. 2005 Dec;15(12):38-44.
+
+[Genes causing parathyroid diseases].
+
+[Article in Japanese]
+
+Ikeda K(1).
+
+Author information: 
+(1)National Center for Geriatrics and Gerontology.
+
+Discovery of Gcm2 as an essential transcription factor for parathyroid gland
+development disclosed another, unexpected source of circulating parathyroid
+hormone (PTH), the thymus. A recent phylogenetic analysis of Gcm2 has led to a
+new theory that parathyroid glands in tetrapods were transformed from the gills
+of fish during evolution. I review genes involved in the pathogenesis of hyper-
+and hypo-function of parathyroid glands as well as in the development of
+parathyroid tumors.
+
+PMID: 16322672  [PubMed - indexed for MEDLINE]
+
+
+76. Nihon Rinsho. 2005 Oct;63 Suppl 10:362-6.
+
+[Translational research on parathyroid hormone].
+
+[Article in Japanese]
+
+Inoue D(1).
+
+Author information: 
+(1)Department of Medicine and Bioregulatory Sciences, University of Tokushima
+Graduate School Institute of Health Biosciences.
+
+PMID: 16279663  [PubMed - indexed for MEDLINE]
+
+
+77. Neuron. 2005 Oct 20;48(2):237-51.
+
+glial cells missing and gcm2 cell autonomously regulate both glial and neuronal
+development in the visual system of Drosophila.
+
+Chotard C(1), Leung W, Salecker I.
+
+Author information: 
+(1)Division of Molecular Neurobiology, National Institute for Medical Research,
+The Ridgeway, London NW7 1AA, United Kingdom.
+
+Comment in
+    Neuron. 2005 Oct 20;48(2):163-5.
+
+The transcription factors Glial cells missing (Gcm) and Gcm2 are known to play a 
+crucial role in promoting glial-cell differentiation during Drosophila
+embryogenesis. Our findings reveal a central function for gcm genes in regulating
+neuronal development in the postembryonic visual system. We demonstrate that Gcm 
+and Gcm2 are expressed in both glial and neuronal precursors within the optic
+lobe. Removal of gcm and gcm2 function shows that the two genes act redundantly
+and are required for the formation of a subset of glial cells. They also
+cell-autonomously control the differentiation and proliferation of specific
+neurons. We show that the transcriptional regulator Dachshund acts downstream of 
+gcm genes and is required to make lamina precursor cells and lamina neurons
+competent for neuronal differentiation through regulation of epidermal growth
+factor receptor levels. Our findings further suggest that gcm genes regulate
+neurogenesis through collaboration with the Hedgehog-signaling pathway.
+
+PMID: 16242405  [PubMed - indexed for MEDLINE]
+
+
+78. Development. 2005 Oct;132(20):4635-44. Epub 2005 Sep 21.
+
+Resolving embryonic blood cell fate choice in Drosophila: interplay of GCM and
+RUNX factors.
+
+Bataillé L(1), Augé B, Ferjoux G, Haenlin M, Waltzer L.
+
+Author information: 
+(1)Centre de Biologie du Développement, CNRS UMR 5547, 118 route de Narbonne,
+31062 Toulouse, France.
+
+Erratum in
+    Development. 2016 Jan 1;143(1):180.
+
+The differentiation of Drosophila embryonic blood cell progenitors (prohemocytes)
+into plasmatocytes or crystal cells is controlled by lineage-specific
+transcription factors. The related proteins Glial cells missing (GCM) and GCM2
+control plasmatocyte development, whereas the RUNX factor Lozenge (LZ) is
+required for crystal cell differentiation. We have investigated the segregation
+process that leads to the formation of these two cell types, and the interplay
+between LZ and GCM/GCM2. We show that, surprisingly, gcm is initially expressed
+in all prohemocytes but is rapidly downregulated in the anterior-most row of
+prohemocytes, which then initiates lz expression. However, the lz+ progenitors
+constitute a mixed-lineage population whose fate depends on the relative levels
+of LZ and GCM/GCM2. Notably, we demonstrate that GCM/GCM2 play a key role in
+controlling the size of the crystal cell population by inhibiting lz activation
+and maintenance. Furthermore, we show that prohemocytes are bipotent progenitors,
+and that downregulation of gcm/gcm2 is required for lz-induced crystal cell
+formation. These results provide new insight into the mechanisms controlling
+Drosophila hematopoiesis and establish the basis for an original model for the
+resolution of the choice of blood cell fate.
+
+PMID: 16176949  [PubMed - indexed for MEDLINE]
+
+
+79. Dev Biol. 2005 Sep 15;285(2):554-69.
+
+Microarray analysis detects differentially expressed genes in the pharyngeal
+region of mice lacking Tbx1.
+
+Ivins S(1), Lammerts van Beuren K, Roberts C, James C, Lindsay E, Baldini A,
+Ataliotis P, Scambler PJ.
+
+Author information: 
+(1)Molecular Medicine Unit, Institute of Child Health, London WC1N 1EH, UK.
+
+22q11-deletion (DiGeorge/velocardiofacial) syndrome (22q11DS) is modeled by
+mutation of murine transcription factor Tbx1. As part of efforts to identify
+transcriptional targets of Tbx1, we analyzed the transcriptome of the pharyngeal 
+region of Df1/+;Tbx1+/- embryos at 9.5 days of embryonic development using two
+independent microarray platforms. In this model, embryos are null for Tbx1, with 
+hemizygosity of genes in cis with Tbx1 on one chromosome providing a positive
+control for array sensitivity. Reduced mRNA levels of genes deleted from Df1 were
+detected on both platforms. Expression level filtering and statistical analysis
+identified several genes that were consistently differentially expressed between 
+mutant and wild type embryos. Real-time quantitative PCR and in situ
+hybridization validated diminished expression of Pax9 and Gcm2, genes known to be
+required for normal thymus and parathyroid gland morphogenesis, whereas Pax1,
+Hoxa3, Eya1, and Foxn1, which are similarly required, were not down-regulated.
+Gbx2, a gene required for normal arch artery development, was down-regulated
+specifically in the pharyngeal endoderm and the posterior part of pharyngeal arch
+1, and is a potential point of cross talk between the Tbx1 and Fgf8 controlled
+pathways. These experiments highlight which genes and pathways potentially
+affected by lack of Tbx1, and whose role may be explored further by testing for
+epistasis using mouse mutants.
+
+PMID: 16109395  [PubMed - indexed for MEDLINE]
+
+
+80. J Med Genet. 2005 May;42(5):443-8.
+
+Identification of a novel mutation disrupting the DNA binding activity of GCM2 in
+autosomal recessive familial isolated hypoparathyroidism.
+
+Baumber L, Tufarelli C, Patel S, King P, Johnson CA, Maher ER, Trembath RC.
+
+PMCID: PMC1736051
+PMID: 15863676  [PubMed - indexed for MEDLINE]
+
+
+81. J Clin Endocrinol Metab. 2005 May;90(5):2487-92. Epub 2005 Feb 22.
+
+GCMB mutation in familial isolated hypoparathyroidism with residual secretion of 
+parathyroid hormone.
+
+Thomée C(1), Schubert SW, Parma J, Lê PQ, Hashemolhosseini S, Wegner M,
+Abramowicz MJ.
+
+Author information: 
+(1)Department of Internal Medicine,Children's Unit, Centre Hospitalier
+Etterbeek-Ixelles, Brussels.
+
+Isolated hypoparathyroidism is an uncommon metabolic disorder characterized by
+hypocalcemia and hyperphosphatemia, with absent or low levels of PTH. It may
+present as an apparently sporadic disorder or may be transmitted in families as a
+genetic trait. Mutations of the calcium-sensing receptor gene and of the
+preproPTH gene have been reported in occasional cases, and a mutation of the
+parathyroid-specific transcription factor GCMB gene has been reported in one
+familial case. We report a second family with isolated hypoparathyroidism and a
+GCMB mutation. The patients were two siblings from asymptomatic, first-cousin
+parents, indicating autosomal recessive inheritance. The mutation consisted of
+the substitution of a glycine residue with a serine at position 63 (G63S) in the 
+DNA-binding GCM domain of GCMB. Functional studies in transfected cells showed
+that the mutation caused loss of GCMB function, as it abolished transactivation
+capacity, despite normal subcellular localization, protein stability, and
+DNA-binding specificity. Contrary to the previously reported family, our patients
+displayed low but clearly detectable levels of PTH in plasma. This residual
+hormone secretion probably results from a very small residual activity of the
+G63S mutant GCMB.
+
+PMID: 15728199  [PubMed - indexed for MEDLINE]
+
+
+82. Dev Biol. 2005 Feb 15;278(2):323-35.
+
+Differential expression of Sonic hedgehog along the anterior-posterior axis
+regulates patterning of pharyngeal pouch endoderm and pharyngeal endoderm-derived
+organs.
+
+Moore-Scott BA(1), Manley NR.
+
+Author information: 
+(1)Institute for Molecular Medicine and Genetics, Medical College of Georgia,
+Augusta, GA 30912, USA.
+
+Previous studies have implicated Sonic hedgehog (Shh) as an important regulator
+of pharyngeal region development. Here we show that Shh is differentially
+expressed within the pharyngeal endoderm along the anterior-posterior axis. In
+Shh-/- mutants, the pharyngeal pouches and arches formed by E9.5 and marker
+expression showed that initial patterning was normal. However, by E10.5-E11.0,
+the first arch had atrophied and the first pouch was missing. Although small, the
+second, third, and fourth arches and pouches were present. The expression
+patterns of Fgf8, Pax1, and Bmp4 suggested that pouch identity was abnormal at
+E10.5 and that Shh is a negative regulator of these genes in the pouches. Despite
+the loss of pouch identity and an increase in mesenchymal cell death, arch
+identity markers were expressed normally. Our data show that a Shh-dependent
+patterning mechanism is required to maintain pouch patterning, independent or
+downstream of arch identity. Changes in the distribution of Bmp4 and Gcm2 in the 
+third pouch endoderm and subsequent organ phenotypes in Shh-/- mutants suggested 
+that exclusion of Shh from the third pouch is required for dorsal-ventral
+patterning and for parathyroid specification and organogenesis. Furthermore, this
+function for Shh may be opposed by Bmp4. Our data suggest that, as in the
+posterior gut endoderm, exclusion of Shh expression from developing primordia is 
+required for the proper development of pharyngeal-derived organs.
+
+PMID: 15680353  [PubMed - indexed for MEDLINE]
+
+
+83. Surgery. 2004 Dec;136(6):1261-6.
+
+GCMB gene, a master regulator of parathyroid gland development, expression, and
+regulation in hyperparathyroidism.
+
+Kebebew E(1), Peng M, Wong MG, Ginzinger D, Duh QY, Clark OH.
+
+Author information: 
+(1)Department of Surgery, University of California-San Francisco, Box 1674, San
+Francisco, CA 94143, USA.
+
+BACKGROUND: The glial cell missing gene, GCMB , encodes a transcription factor,
+which is a master regulator of parathyroid development. We postulated that the
+GCMB gene might play a role in parathyroid tumorigenesis in hyperparathyroidism.
+METHODS: We used real-time quantitative reverse transcriptase polymerase chain
+reaction to study GCMB mRNA expression in parathyroid tissue: normal (n = 3),
+hyperplastic (n = 16), adenomas (n = 19), and cancers (n = 8). In primary
+parathyroid culture, the effect of CaCl 2 on parathyroid hormone secretion and
+GCMB mRNA expression was studied by using enzyme-linked immunosorbent assay and
+reverse transcriptase polymerase chain reaction, respectively.
+RESULTS: GCMB mRNA expression was lower in normal (0.4 +/- 0.1, mean +/- standard
+error of mean) parathyroid glands as compared to adenoma (3.5 +/- 1.7),
+hyperplasia (3.2 +/- 1.3 primary hyperparathyroidism [n = 11] and 7.6 +/- 4.8
+secondary hyperparathyroidism [n = 5]), and cancer (3.6 +/- 1.3) ( P = .001).
+There was no difference in the level of GCMB mRNA expression between parathyroid 
+adenoma, hyperplasia, and cancer. In primary culture of parathyroid adenoma (n = 
+9) and hyperplasia (n = 2), parathyroid hormone secretion was increased 2- to
+15-fold with low calcium concentration (0.5 to 4.0 mmol/L CaCl 2 from 2 to 6
+hours, P < .005). The level of GCMB mRNA expression was down-regulated with lower
+extracellular CaCl 2 concentration ( P < .005).
+CONCLUSIONS: GCMB expression is upregulated in abnormal parathyroid glands of
+hyperparathyroidism and decreases in response to hypocalcemia. The GCMB
+transcription factor might mediate the effect of calcium on parathyroid cell
+parathyroid hormone expression/secretion.
+
+PMID: 15657585  [PubMed - indexed for MEDLINE]
+
+
+84. Proc Natl Acad Sci U S A. 2004 Dec 21;101(51):17716-9. Epub 2004 Dec 10.
+
+The origin of the parathyroid gland.
+
+Okabe M(1), Graham A.
+
+Author information: 
+(1)Medical Research Council, Centre for Developmental Neurobiology, Guy's Campus,
+King's College London, London SE1 1UL, United Kingdom.
+
+It has long been held that the parathyroid glands and parathyroid hormone evolved
+with the emergence of the tetrapods, reflecting a need for new controls on
+calcium homeostasis in terrestrial, rather than aquatic, environments.
+Developmentally, the parathyroid gland is derived from the pharyngeal pouch
+endoderm, and studies in mice have shown that its formation is under the control 
+of a key regulatory gene, Gcm-2. We have used a phylogenetic analysis of Gcm-2 to
+probe the evolutionary origins of the parathyroid gland. We show that in chicks, 
+as in mice, Gcm-2 is expressed in the pharyngeal pouches and the forming
+parathyroid gland. We find that Gcm-2 is present not only in tetrapods but also
+in teleosts and chondrichthyans, and that in these species, Gcm-2 is expressed
+within the pharyngeal pouches and internal gill buds that derive from them in
+zebrafish (Danio rerio), a teleost, and dogfish (Scyliorhinus canicula), a
+chondrichthyan. We further demonstrate that Gcm-2 is required for the formation
+of the internal gill buds in zebrafish. We also have identified parathyroid
+hormone 1/2-encoding genes in fish and show that these genes are expressed by the
+gills. We further show that the gills express the calcium-sensing receptor, which
+is used in tetrapods to monitor serum calcium levels. These results indicate that
+the tetrapod parathyroid gland and the gills of fish are evolutionarily related
+structures, and that the parathyroid likely came into being as a result of the
+transformation of the gills during tetrapod evolution.
+
+PMCID: PMC539734
+PMID: 15591343  [PubMed - indexed for MEDLINE]
+
+
+85. Dev Biol. 2004 Dec 15;276(2):508-22.
+
+Zebrafish gcm2 is required for gill filament budding from pharyngeal ectoderm.
+
+Hogan BM(1), Hunter MP, Oates AC, Crowhurst MO, Hall NE, Heath JK, Prince VE,
+Lieschke GJ.
+
+Author information: 
+(1)Ludwig Institute for Cancer Research, Royal Melbourne Hospital, Victoria 3050,
+Australia.
+
+The pharyngeal arches give rise to multiple organs critical for diverse
+processes, including the thymus, thyroid and parathyroids. Several molecular
+regulators of thymus and thyroid organogenesis are strikingly conserved between
+mammals and zebrafish. However, land animals have parathyroids whereas fish have 
+gills. The murine transcription factor Glial cells missing 2 (Gcm2) is expressed 
+specifically in the parathyroid primordium in the endodermal epithelium of the
+third pharyngeal pouch, and in both mice and humans is required for normal
+development of parathyroid glands. The molecular regulation of fish gill
+organogenesis remains to be described. We report the expression of gcm2 in the
+zebrafish pharyngeal epithelium and a requirement for Hox group 3 paralogs for
+gcm2 expression. Strikingly, zebrafish gcm2 is expressed in the ectodermal
+portion of the pharyngeal epithelium and is required for the development of the
+gill filament buds, precursors of fish-specific gill filaments. This study
+identifies yet another role for a GCM gene in embryonic development and indicates
+a role for gcm2 during the evolution of divergent pharyngeal morphologies.
+
+PMID: 15581882  [PubMed - indexed for MEDLINE]
+
+
+86. Development. 2004 Sep;131(18):4521-32.
+
+Terminal tendon cell differentiation requires the glide/gcm complex.
+
+Soustelle L(1), Jacques C, Altenhein B, Technau GM, Volk T, Giangrande A.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/ULP, BP 10142, 67404 Illkirch Cedex, C.U. de Strasbourg, France.
+
+Locomotion relies on stable attachment of muscle fibres to their target sites, a 
+process that allows for muscle contraction to generate movement. Here, we show
+that glide/gcm and glide2/gcm2, the fly glial cell determinants, are expressed in
+a subpopulation of embryonic tendon cells and required for their terminal
+differentiation. By using loss-of-function approaches, we show that in the
+absence of both genes, muscle attachment to tendon cells is altered, even though 
+the molecular cascade induced by stripe, the tendon cell determinant, is normal. 
+Moreover, we show that glide/gcm activates a new tendon cell gene independently
+of stripe. Finally, we show that segment polarity genes control the epidermal
+expression of glide/gcm and determine, within the segment, whether it induces
+glial or tendon cell-specific markers. Thus, under the control of positional
+cues, glide/gcm triggers a new molecular pathway involved in terminal tendon cell
+differentiation, which allows the establishment of functional muscle attachment
+sites and locomotion.
+
+PMID: 15342477  [PubMed - indexed for MEDLINE]
+
+
+87. Mech Dev. 2004 Oct;121(10):1235-47.
+
+Zebrafish gcmb is required for pharyngeal cartilage formation.
+
+Hanaoka R(1), Ohmori Y, Uyemura K, Hosoya T, Hotta Y, Shirao T, Okamoto H.
+
+Author information: 
+(1)Laboratory for Developmental Gene Regulation, The Institute of Physical and
+Chemical Research, RIKEN Brain Science Institute, Hirosawa 2-1, Wako-shi, Saitama
+351-0198, Japan.
+
+The glial cells missing (gcm) gene in Drosophila encodes a GCM-motif
+transcription factor that functions as a binary switch to select between glial
+and neuronal cell fates. To understand the function of gcm in vertebrates, we
+isolated the zebrafish gcmb and analyzed the function of this gene using
+antisense morpholino oligonucleotides against gcmb mRNA (gcmb-MO) and transgenic 
+overexpression. Zebrafish gcmb is expressed in the pharyngeal arch epithelium and
+in cells of the macrophage lineage. gcmb-MO-injected larvae show significantly
+reduced branchial arch cartilages. fgf3-MO-injected larvae display a similar
+phenotype to that of gcmb-MO-injected larvae with respect to the lack of
+pharyngeal cartilage formation. In addition, gcmb expression in the pharyngeal
+arches is down-regulated in fgf3-MO-injected larvae. The gcmb transgenic larvae
+show a protrusion of the lower jaw and abnormal spatial arrangement of the
+pharyngeal cartilage elements. These results suggest that gcmb is required for
+normal pharyngeal cartilage formation in zebrafish and that its expression is
+dependent on fgf3 activity.
+
+PMID: 15327784  [PubMed - indexed for MEDLINE]
+
+
+88. J Clin Endocrinol Metab. 2004 Jan;89(1):8-12.
+
+Expression of GCMB by intrathymic parathyroid hormone-secreting adenomas
+indicates their parathyroid cell origin.
+
+Maret A(1), Bourdeau I, Ding C, Kadkol SS, Westra WH, Levine MA.
+
+Author information: 
+(1)Division of Pediatric Endocrinology, Department of Pediatrics, Johns Hopkins
+University School of Medicine, Baltimore, Maryland 21287, USA.
+
+Comment in
+    J Clin Endocrinol Metab. 2004 Jan;89(1):6-7.
+
+GCMA and GCMB are related transcription factors that are critically important for
+embryological development of the placenta and parathyroid glands, respectively.
+Mice in which parathyroid glands have been surgically removed or fail to develop 
+due to genetic loss of GCMB show continued production of PTH from a subset of
+thymic cells that express GCMA. In this study we examined whether human thymus
+produces PTH and/or GCMA and whether intrathymic PTH-secreting adenomas express
+GCMA or GCMB to determine the embryological origin of the secretory cells. By
+contrast to mouse thymus, analysis of 22 samples of human thymus tissue by RT-PCR
+and/or immunohistochemistry failed to demonstrate the expression of either PTH or
+GCMA. RT-PCR analysis of 16 intrathymic adenomas from patients with surgically
+cured primary hyperparathyroidism showed that these tumors expressed PTH and GCMB
+and not GCMA. We conclude that the normal human thymus does not express GCMA or
+PTH, and therefore, in contrast to the mouse, the human thymus is not a source of
+PTH production. Finally, intrathymic PTH-secreting adenomas express the
+parathyroid-specific GCMB gene, which suggests that these tumors were derived
+from parathyroid cells that migrated errantly during embryogenesis.
+
+PMID: 14715818  [PubMed - indexed for MEDLINE]
+
+
+89. J Clin Endocrinol Metab. 2004 Jan;89(1):6-7.
+
+GCMB--another serendipitous gift from evolution to clinical investigators.
+
+Kronenberg HM.
+
+Comment on
+    J Clin Endocrinol Metab. 2004 Jan;89(1):8-12.
+
+PMID: 14715817  [PubMed - indexed for MEDLINE]
+
+
+90. Neonatal Netw. 2003 Sep-Oct;22(5):45-50.
+
+An evidence-based guideline for introducing oral feeding to healthy preterm
+infants.
+
+McCain GC(1).
+
+Author information: 
+(1)Frances Payne Bolton School of Nursing, Case Western Reserve University,
+Cleveland, OH 44106-4904, USA. gcm2@cwru.edu
+
+The ability of a preterm infant to make the transition from gavage to oral nipple
+feeding depends on the infant's neurodevelopment in relation to behavioral
+organization, to a rhythmic suck-swallow-breathe pattern, and to
+cardiorespiratory regulation. Research-based knowledge about infant
+neurodevelopment in these three areas has led to the creation of a semidemand
+feeding method to aid in this transition. The method combines the use of
+nonnutritive sucking to promote awake behavior for feeding, use of behavioral
+assessment to identify readiness for feeding, and systematic observation of and
+response to infant behavior cues to regulate frequency, length, and volume of
+oral feedings. Semidemand feeding may be individualized for healthy preterm
+infants. This article discusses both the relevant knowledge about
+neurodevelopment and the semidemand feeding method itself.
+
+PMID: 14598979  [PubMed - indexed for MEDLINE]
+
+
+91. J Clin Invest. 2003 Apr;111(7):1029-37.
+
+Rescue of the skeletal phenotype in CasR-deficient mice by transfer onto the Gcm2
+null background.
+
+Tu Q(1), Pi M, Karsenty G, Simpson L, Liu S, Quarles LD.
+
+Author information: 
+(1)Center for Bone and Mineral Disorders, Duke University Medical Center, Durham,
+North Carolina 27710, USA.
+
+Comment in
+    J Clin Invest. 2003 Apr;111(7):945-7.
+
+To understand the role of the calcium-sensing receptor (CasR) in the skeleton, we
+used a genetic approach to ablate parathyroid glands and remove the confounding
+effects of elevated parathyroid hormone (PTH) in CasR-deficient mice. CasR
+deficiency was transferred onto the glial cells missing 2-deficient
+(Gcm2-deficient) background by intercrossing CasR- and Gcm2-deficient mice.
+Superimposed Gcm2 deficiency rescued the perinatal lethality in CasR-deficient
+mice in association with ablation of the parathyroid glands and correction of the
+severe hyperparathyroidism. In addition, the double homozygous CasR- and
+Gcm2-deficient mice demonstrated healing of the abnormal mineralization of
+cartilage and bone associated with CasR deficiency, indicating that rickets and
+osteomalacia in CasR-deficient mice are not due to an independent function of
+CasR in bone and cartilage but to the effect of severe hyperparathyroidism in the
+neonate. Analysis of the skeleton of 6-week-old homozygous CasR- and
+Gcm2-deficient mice also failed to identify any essential, nonredundant role for 
+CasR in regulating chondrogenesis or osteogenesis, but further studies are needed
+to establish the function of CasR in the skeleton. In contrast, concomitant Gcm2 
+and CasR deficiency failed to rescue the hypocalciuria in CasR-deficient mice,
+consistent with direct regulation of urinary calcium excretion by CasR in the
+kidney. Double Gcm2- and CasR-deficient mice provide an important model for
+evaluating the extraparathyroid functions of CasR.
+
+PMCID: PMC152586
+PMID: 12671052  [PubMed - indexed for MEDLINE]
+
+
+92. Clin Endocrinol (Oxf). 2002 Oct;57(4):501-5.
+
+Underexpression of Gcm2, a master regulatory gene of parathyroid gland
+development, in adenomas of primary hyperparathyroidism.
+
+Correa P(1), Akerström G, Westin G.
+
+Author information: 
+(1)Department of Surgical Sciences, Endocrine Unit, Uppsala University Hospital, 
+Klinisk forskningsavdelning 2, SE-751 85 Uppsala, Sweden.
+
+OBJECTIVE: Glial cells missing (Gcm) was first identified as a binary switch
+between neuronal and glial determination in Drosophila. Two homologues of
+Drosophila Gcm have been identified in mice and humans, namely Gcm1 and Gcm2.
+Mouse Gcm2 is restricted to parathyroid tissues and Gcm2 was recently identified 
+as a master regulatory gene of parathyroid gland development as Gcm2 knockout
+mice lack parathyroid glands.
+DESIGN/PATIENTS: To identify Gcm2 transcripts in human non-neural tissues and to 
+examine whether Gcm2 is involved in parathyroid gland tumorigenesis we analysed
+Gcm2 transcript levels in several non-neural tissues by reverse transcriptase
+polymerase chain reaction (RT-PCR) and performed real-time quantitative RT-PCR
+analysis on five normal glands, 15 parathyroid adenomas of primary
+hyperparathyroidism (HPT) and nine hyperplastic glands of secondary HPT.
+RESULTS: We found high Gcm2 mRNA expression in human parathyroid glands in
+comparison with other non-neural tissues and underexpression in parathyroid
+adenomas but not in lesions of HPT secondary to uraemia.
+CONCLUSION: Because adenomas demonstrate lower Gcm2 expression than normal glands
+we suggest that reduced expression of Gcm2 contributes to parathyroid gland
+tumorigenesis. We speculate that a proper expression level of the Gcm2
+transcription factor could be important for maintaining a fully differentiated
+state of the parathyroid cell.
+
+PMID: 12354132  [PubMed - indexed for MEDLINE]
+
+
+93. Dev Biol. 2002 Aug 15;248(2):369-83.
+
+gcm2 promotes glial cell differentiation and is required with glial cells missing
+for macrophage development in Drosophila.
+
+Alfonso TB(1), Jones BW.
+
+Author information: 
+(1)Molecular Neurobiology Program, Skirball Institute of Biomolecular Medicine,
+New York University School of Medicine, New York, NY 10016, USA.
+
+glial cells missing (gcm) is the primary regulator of glial cell fate in
+Drosophila. In addition, gcm has a role in the differentiation of the
+plasmatocyte/macrophage lineage of hemocytes. Since mutation of gcm causes only a
+decrease in plasmatocyte numbers without changing their ability to convert into
+macrophages, gcm cannot be the sole determinant of plasmatocyte/macrophage
+differentiation. We have characterized a gcm homolog, gcm2. gcm2 is expressed at 
+low levels in glial cells and hemocyte precursors. We show that gcm2 has
+redundant functions with gcm and has a minor role promoting glial cell
+differentiation. More significant, like gcm, mutation of gcm2 leads to reduced
+plasmatocyte numbers. A deletion removing both genes has allowed us to clarify
+the role of these redundant genes in plasmatocyte development. Animals deficient 
+for both gcm and gcm2 fail to express the macrophage receptor Croquemort.
+Plasmatocytes are reduced in number, but still express the early marker
+Peroxidasin. These Peroxidasin-expressing hemocytes fail to migrate to their
+normal locations and do not complete their conversion into macrophages. Our
+results suggest that both gcm and gcm2 are required together for the
+proliferation of plasmatocyte precursors, the expression of Croquemort protein,
+and the ability of plasmatocytes to convert into macrophages.
+
+PMID: 12167411  [PubMed - indexed for MEDLINE]
+
+
+94. Development. 2002 Jul;129(13):3033-44.
+
+Eya1 is required for the morphogenesis of mammalian thymus, parathyroid and
+thyroid.
+
+Xu PX(1), Zheng W, Laclef C, Maire P, Maas RL, Peters H, Xu X.
+
+Author information: 
+(1)McLaughlin Research Institute for Biomedical Sciences, Great Falls, MT 59405, 
+USA. pxu@po.mri.montana.edu
+
+Eyes absent (Eya) genes regulate organogenesis in both vertebrates and
+invertebrates. Mutations in human EYA1 cause congenital Branchio-Oto-Renal (BOR) 
+syndrome, while targeted inactivation of murine Eya1 impairs early developmental 
+processes in multiple organs, including ear, kidney and skeletal system. We have 
+now examined the role of Eya1 during the morphogenesis of organs derived from the
+pharyngeal region, including thymus, parathyroid and thyroid. The thymus and
+parathyroid are derived from 3rd pharyngeal pouches and their development is
+initiated via inductive interactions between neural crest-derived arch
+mesenchyme, pouch endoderm, and possibly the surface ectoderm of 3rd pharyngeal
+clefts. Eya1 is expressed in all three cell types during thymus and parathyroid
+development from E9.5 and the organ primordia for both of these structures failed
+to form in Eya1(-/-) embryos. These results indicate that Eya1 is required for
+the initiation of thymus and parathyroid gland formation. Eya1 is also expressed 
+in the 4th pharyngeal region and ultimobranchial bodies. Eya1(-/-) mice show
+thyroid hypoplasia, with severe reduction in the number of parafollicular cells
+and the size of the thyroid lobes and lack of fusion between the ultimobranchial 
+bodies and the thyroid lobe. These data indicate that Eya1 also regulates mature 
+thyroid gland formation. Furthermore, we show that Six1 expression is markedly
+reduced in the arch mesenchyme, pouch endoderm and surface ectoderm in the
+pharyngeal region of Eya1(-/-) embryos, indicating that Six1 expression in those 
+structures is Eya1 dependent. In addition, we show that in Eya1(-/-) embryos, the
+expression of Gcm2 in the 3rd pouch endoderm is undetectable at E10.5, however,
+the expression of Hox and Pax genes in the pouch endoderm is preserved at
+E9.5-10.5. Finally, we found that the surface ectoderm of the 3rd and 4th
+pharyngeal region show increased cell death at E10.5 in Eya1(-/-) embryos. Our
+results indicate that Eya1 controls critical early inductive events involved in
+the morphogenesis of thymus, parathyroid and thyroid.
+
+PMCID: PMC3873877
+PMID: 12070080  [PubMed - indexed for MEDLINE]
+
+
+95. Eur J Endocrinol. 2002 Mar;146(3):281-2.
+
+A molecular switch for parathyroid cell differentiation.
+
+Berg JP(1).
+
+Author information: 
+(1)Hormone and Central Laboratory, Aker University Hospital, 0514 Oslo, Norway.
+j.p.berg@ioks.uio.no
+
+PMID: 11888832  [PubMed - indexed for MEDLINE]
+
+
+96. AIDS. 2002 Mar 8;16(4):653-9.
+
+"Barebacking" in a diverse sample of men who have sex with men.
+
+Mansergh G(1), Marks G, Colfax GN, Guzman R, Rader M, Buchbinder S.
+
+Author information: 
+(1)Division of HIV/AIDS Prevention, US Centers for Disease Control and Prevention
+(CDC), 1600 Clifton Road, Mailstop E-45, Atlanta, GA 30333, USA. gcm2@cdc.gov
+
+OBJECTIVES: To assess the prevalence of and factors associated with "Barebacking"
+as a sociocultural phenomenon in a sample of HIV-positive and -negative men who
+have sex with men (MSM), and to assess the reasons for barebacking and venues for
+meeting partners.
+DESIGN: A cross-sectional survey of MSM recruited in the San Francisco Bay Area
+from July 2000 to February 2001.
+METHODS: Barebacking, defined as "intentional anal sex without a condom with
+someone other than a primary partner", was assessed among men who had heard of
+the term. Participants were recruited outside multiple venues and interviewed
+later at community locations. Chi-square and multivariate logistic regression
+were used for analysis.
+RESULTS: The sample (n = 554) of MSM were African-American (28%), Latino (27%),
+white (31%) and other race/ethnicity (14%); 35% reported being HIV-positive.
+Seventy per cent of the men had heard of barebacking. Among men aware of the
+term, 14% had barebacked in the past 2 years (22% of HIV-positive versus 10% of
+HIV-negative men, P < 0.001); 10% of the full sample did so. The prevalence of
+barebacking did not differ by race/ethnicity or sexual orientation
+identification. Men tended to report bareback partners who had the same HIV
+serostatus; however, a sizeable proportion of men had partners of different or
+unknown serostatus. Increased physical stimulation and emotional connectedness
+were the primary reasons for barebacking.
+CONCLUSION: New approaches are needed to reduce bareback behavior and the risk of
+HIV transmission, including innovative health-promoting behavioral and biomedical
+interventions.
+
+PMID: 11873010  [PubMed - indexed for MEDLINE]
+
+
+97. J Clin Invest. 2001 Oct;108(8):1215-20.
+
+Familial isolated hypoparathyroidism caused by a mutation in the gene for the
+transcription factor GCMB.
+
+Ding C(1), Buckingham B, Levine MA.
+
+Author information: 
+(1)Division of Pediatric Endocrinology, Department of Pediatrics, The Johns
+Hopkins University School of Medicine, 600 North Wolfe Street, Baltimore, MD
+21287, USA.
+
+Hypoparathyroidism is characterized by hypocalcemia, hyperphosphatemia, and
+absent or markedly reduced circulating concentrations of parathyroid hormone. The
+transcription factor GCMB is predominantly, if not exclusively, expressed in
+parathyroid cells and is critical for development of the parathyroid glands in
+mice. Thus, in the present study we examined the GCMB gene, mapped to 6p23-24, as
+a candidate for isolated hypoparathyroidism. We defined the boundaries of the
+five exons of the human GCMB gene and then identified a large intragenic mutation
+in the GCMB genes of the proband of an extensive kindred with isolated
+hypoparathyroidism. Her parents and several other unaffected relatives were
+heterozygous for the mutation. Despite an absence of any history of
+consanguinity, microsatellite analysis showed shared genotypes that flanked the
+GCMB gene over a span of 5 cM, suggesting that both of the proband's GCMB alleles
+had been derived from a single common ancestor. Analysis of additional, unrelated
+cases did not disclose the same mutation. We conclude that homozygous loss of
+function of the GCMB gene impairs normal parathyroid gland embryology and is
+responsible for isolated hypoparathyroidism in a subset of patients with this
+disease.
+
+PMCID: PMC209530
+PMID: 11602629  [PubMed - indexed for MEDLINE]
+
+
+98. Dev Biol. 2001 Aug 15;236(2):316-29.
+
+Hoxa3 and pax1 regulate epithelial cell death and proliferation during thymus and
+parathyroid organogenesis.
+
+Su D(1), Ellis S, Napier A, Lee K, Manley NR.
+
+Author information: 
+(1)Institute of Molecular Medicine and Genetics, Medical College of Georgia,
+Augusta, Georgia 30912, USA.
+
+The thymus and parathyroid glands in mice develop from a thymus/parathyroid
+primordium that forms from the endoderm of the third pharyngeal pouch. We
+investigated the molecular mechanisms that promote this unique process in which
+two distinct organs form from a single primordium, using mice mutant for Hoxa3
+and Pax1. Thymic ectopia in Hoxa3(+/-)Pax1(-/-) compound mutants is due to
+delayed separation of the thymus/parathyroid primordium from the pharynx. The
+primordium is hypoplastic at its formation, and has increased levels of
+apoptosis. The developing third pouch in Hoxa3(+/-)Pax1(-/-) compound mutants
+initiates normal expression of the parathyroid-specific Gcm2 and thymus-specific 
+Foxn1 genes. However, Gcm2 expression is reduced at E11.5 in Pax1(-/-) single
+mutants, and further reduced or absent in Hoxa3(+/-)Pax1(-/-) compound mutants.
+Subsequent to organ-specific differentiation from the shared primordium, both the
+parathyroids and thymus developed defects. Parathyroids in compound mutants were 
+smaller at their formation, and absent at later stages. Parathyroids were also
+reduced in Pax1(-/-) mutants, revealing a new function for Pax1 in parathyroid
+organogenesis. Thymic hypoplasia at later fetal stages in compound mutants was
+associated with increased death and decreased proliferation of thymic epithelial 
+cells. Our results suggest that a Hoxa3-Pax1 genetic pathway is required for both
+epithelial cell growth and differentiation throughout thymus and parathyroid
+organogenesis.
+
+Copyright 2001 Academic Press.
+
+PMID: 11476574  [PubMed - indexed for MEDLINE]
+
+
+99. Am J Public Health. 2001 Jun;91(6):953-8.
+
+The Circuit Party Men's Health Survey: findings and implications for gay and
+bisexual men.
+
+Mansergh G(1), Colfax GN, Marks G, Rader M, Guzman R, Buchbinder S.
+
+Author information: 
+(1)Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention,
+1600 Clifton Rd, Mail Stop E-45, Atlanta, GA 30333, USA. gcm2@cdc.gov
+
+OBJECTIVES: This study examined characteristics of gay and bisexual men who
+attend circuit parties, frequency of and motivations for attending parties, drug 
+use and sexual behavior during circuit party weekends, and use of risk reduction 
+materials available at parties.
+METHODS: A cross-sectional survey was conducted among 295 gay and bisexual men
+from the San Francisco Bay Area who had attended a circuit party in the previous 
+year.
+RESULTS: One fourth of the men reported a drug "overuse" incident in the previous
+year. Nearly all respondents reported use of drugs during circuit party weekends,
+including ecstasy (75%), ketamine (58%), crystal methamphetamine (36%), gamma
+hydroxybutyrate or gamma butyrolactone (25%), and Viagra (12%). Two thirds of the
+men reported having sex (oral or anal), 49% reported having anal sex, and 28%
+reported having unprotected anal sex during the 3-day period. An association was 
+found between use of drugs and sexual risk behavior. Prevention materials were
+observed at party events by some men; however, relatively few men used the
+materials. Common motivations for attending the parties were "to listen to music 
+and dance" and "to be with friends."
+CONCLUSIONS: Intensive, targeted health promotion efforts are needed for gay and 
+bisexual men who attend circuit parties.
+
+PMCID: PMC1446474
+PMID: 11392940  [PubMed - indexed for MEDLINE]
+
+
+100. Mech Dev. 2001 May;103(1-2):141-3.
+
+Gcm2 and Foxn1 mark early parathyroid- and thymus-specific domains in the
+developing third pharyngeal pouch.
+
+Gordon J(1), Bennett AR, Blackburn CC, Manley NR.
+
+Author information: 
+(1)Centre for Genome Research / Institute of Cell, Animal and Population Biology,
+University of Edinburgh, King's Buildings, West Mains Road, Edinburgh EH9 3JQ,
+UK.
+
+The thymus and parathyroids originate from a common primordium that develops from
+the third pharyngeal pouch in mice and humans. The molecular mechanism that
+specifies this primordium into distinct organ domains is not known. The Gcm2 and 
+Foxn1 transcription factors are required for development of the parathyroid and
+thymus respectively, and are attractive candidates for this role. However, their 
+embryonic expression patterns during pharyngeal pouch development and early
+thymus and parathyroid organogenesis have not been described. Here we report that
+Gcm2 is expressed specifically in the developing second and third pharyngeal
+pouches at E9.5, and is further confined to a small domain of the third pouch
+endoderm by E10.5. In contrast, Foxn1 is not expressed until after the common
+primordium is formed, beginning at E11.25. Our results show that Gcm2 and Foxn1
+expression mark two complementary domains that prefigure parathyroid and thymus
+regions within the common primordium before morphological distinctions are
+present.
+
+PMID: 11335122  [PubMed - indexed for MEDLINE]
+
+
+101. Nature. 2000 Jul 13;406(6792):199-203.
+
+Genetic ablation of parathyroid glands reveals another source of parathyroid
+hormone.
+
+Günther T(1), Chen ZF, Kim J, Priemel M, Rueger JM, Amling M, Moseley JM, Martin 
+TJ, Anderson DJ, Karsenty G.
+
+Author information: 
+(1)Department of Molecular and Human Genetics, Baylor College of Medicine,
+Houston, Texas 77030, USA.
+
+The parathyroid glands are the only known source of circulating parathyroid
+hormone (PTH), which initiates an endocrine cascade that regulates serum calcium 
+concentration. Glial cells missing2 (Gcm2), a mouse homologue of Drosophila Gcm, 
+is the only transcription factor whose expression is restricted to the
+parathyroid glands. Here we show that Gcm2-deficient mice lack parathyroid glands
+and exhibit a biological hypoparathyroidism, identifying Gcm2 as a master
+regulatory gene of parathyroid gland development. Unlike PTH receptor-deficient
+mice, however, Gcm2-deficient mice are viable and fertile, and have only a mildly
+abnormal bone phenotype. Despite their lack of parathyroid glands, Gcm2-deficient
+mice have PTH serum levels identical to those of wild-type mice, as do
+parathyroidectomized wild-type animals. Expression and ablation studies
+identified the thymus, where Gcm1, another Gcm homologue, is expressed, as the
+additional, downregulatable source of PTH. Thus, Gcm2 deletion uncovers an
+auxiliary mechanism for the regulation of calcium homeostasis in the absence of
+parathyroid glands. We propose that this backup mechanism may be a general
+feature of endocrine regulation.
+
+PMID: 10910362  [PubMed - indexed for MEDLINE]
+
+
+102. J Biol Chem. 2000 Feb 18;275(7):4774-82.
+
+Protein stability and domain topology determine the transcriptional activity of
+the mammalian glial cells missing homolog, GCMb.
+
+Tuerk EE(1), Schreiber J, Wegner M.
+
+Author information: 
+(1)Zentrum für Molekulare Neurobiologie, Universität Hamburg, Martinistrasse 52, 
+D-20246 Hamburg, Germany.
+
+The glial cells missing (GCM) family of transcription factors consists of
+Drosophila GCM and the mammalian proteins GCMa and GCMb. They are expressed in a 
+highly restricted manner during development and are known or assumed to be
+important regulators of developmental fate decisions. As the biochemical
+properties of GCMb have not been studied so far, we have undertaken a detailed
+structure-function analysis of the mouse GCMb (mGCMb) protein. DNA-binding
+specificity was very similar to that of other GCM proteins. Nevertheless, mGCMb
+was only a weak transcriptional activator in a number of different tissue culture
+systems. Interestingly, this was not due to an intrinsic absence of
+transactivation potential. In effect, we were able to identify two separate
+transactivation domains within mGCMb, one carboxyl-terminally adjacent to the
+DNA-binding domain and the second within the extreme carboxyl terminus. Activity 
+of both transactivation domains was, however, modulated by an inhibitory region
+unique to mGCMb and located between the two transactivation domains. Furthermore,
+pulse-chase experiments proved that the mGCMb protein has a half-life
+approximately four times shorter than mGCMa. Introduction of the above mentioned 
+inhibitory domain of mGCMb into mGCMa shortened the half-life of mGCMa to a value
+typical of mGCMb with a concomitant reduction in transactivation potential. Given
+the strong correlation between protein stability and transactivation potential,
+functional differences between the two mammalian GCM homologs are likely due to
+differences in stability with a single inhibitory region in mGCMb being involved 
+in the reduction of both.
+
+PMID: 10671510  [PubMed - indexed for MEDLINE]
+
+
+103. Cytogenet Cell Genet. 1999;84(1-2):43-7.
+
+GCMB, a second human homolog of the fly glide/gcm gene.
+
+Kammerer M(1), Pirola B, Giglio S, Giangrande A.
+
+Author information: 
+(1)Institut de Génétique et Biologie Moléculaire et Cellulaire,
+IGBMC/CNRS/ULP/INSERM - BP 163, Illkirch, C.U. de Strasbourg, France.
+
+Glial cells play fundamental roles in neurogenesis. In addition, defective or
+abnormal gliogenesis is associated with severe diseases. To understand the
+molecular basis of such diseases, it is crucial to identify the genes promoting
+normal gliogenesis. Here we identify GCMB, which encodes a human protein
+homologous to the fly glial promoting factor glial cell deficient/glial cell
+missing (glide/gcm).
+
+PMID: 10343099  [PubMed - indexed for MEDLINE]
+
+
+104. Proc Natl Acad Sci U S A. 1998 Oct 13;95(21):12364-9.
+
+Isolation and characterization of mammalian homologs of the Drosophila gene glial
+cells missing.
+
+Kim J(1), Jones BW, Zock C, Chen Z, Wang H, Goodman CS, Anderson DJ.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Division of Biology, California Institute of 
+Technology, Pasadena, CA 91125, USA.
+
+The glial cells missing (gcm) gene in Drosophila encodes a transcription factor
+that determines the choice between glial and neuronal fates. We report here the
+isolation of two mammalian gcm homologs, Gcm1 and Gcm2, and the characterization 
+of their expression patterns during embryonic development. Although Gcm2 is
+expressed in neural tissues at a low level, the major sites of expression for
+both of the mammalian genes are nonneural, suggesting that the functions of the
+mammalian homologs have diverged and diversified. However, when expressed
+ectopically, Gcm1 can substitute functionally for Drosophila gcm by transforming 
+presumptive neurons into glia. Thus, certain biochemical properties, although not
+the specificity of the tissue in which the gene is expressed, have been conserved
+through the evolution of the Gcm gene family.
+
+PMCID: PMC22837
+PMID: 9770492  [PubMed - indexed for MEDLINE]
+
+
+105. Geburtshilfe Frauenheilkd. 1995 Nov;55(11):647-52.
+
+[Gerontologic aspects of postmenopausal measurement of bone density and
+prevention of osteoporosis].
+
+[Article in German]
+
+Wenderlein JM(1), Eissfeldt K, Heber F, Dannert E.
+
+Author information: 
+(1)Universitäts-Frauenklinik Ulm.
+
+I. Among 454 postmenopausal women to undergo bone mineral density (BMD)
+examination 7 out of 10 were aged 50 to 70 years. 1. 50 of patients older than 70
+years had BMD examination because of being clinically suspicious of osteoporosis.
+2. In this group of age 4 out of 10 women had BMD results of the lumbar spine
+below 0,8 gcm2. 3. Half of all women aged up to 50 years had a positive family
+history of osteoporosis. 4. Patients older than 60 years often underestimated
+their own risk of osteoporosis. 5. 50 of women up to the age of 50 and only one
+sixth of women older than 70 said they had very good to good knowledge of
+osteoporosis. 6. Resentments against estrogen substitution are rapidly growing
+with every decade of age. 7. Only one third of the women selected by
+BMD-indication were ready to accept longterm estrogen substitution to prevent
+osteoporosis. II. 4 out of 10 women had entered menopause maximally 8 years
+ago.1. Out of this group 6 of 10 patients were substituted with estrogen. 2. When
+menstruation had sisted more than 15 years ago the BMD examination indication,
+clinically suspicious of osteoporosis, rose immensely and made up for 50 of
+patients. 3. One third to one half of patients who had reached menopause more
+than 22 years ago showed pathological BMD results, which means they were at risk 
+of fractures. 4. In this group only 1 in 10 women had a positive history of
+osteoporosis. III. Obese postmenopausal women (more than 25 of overweight
+according to Broca) had pathologic BMD results only half as often as
+postmenopausal women with normal weight. Summing it up these facts may be the
+basis of special counselling on the prevention of osteoporosis by estrogen
+substitution.
+
+PMID: 8707043  [PubMed - indexed for MEDLINE]
+
+

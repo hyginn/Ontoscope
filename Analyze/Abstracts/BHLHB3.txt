@@ -1,0 +1,2117 @@
+
+1. Proc Natl Acad Sci U S A. 2015 Jul 7;112(27):E3582-9. doi:
+10.1073/pnas.1423989112. Epub 2015 Jun 22.
+
+Enhanced memory consolidation in mice lacking the circadian modulators Sharp1 and
+-2 caused by elevated Igf2 signaling in the cortex.
+
+Shahmoradi A(1), Radyushkin K(1), Rossner MJ(2).
+
+Author information: 
+(1)Department of Neurogenetics, Max Planck Institute of Experimental Medicine,
+37075 Göttingen, Germany; (2)Department of Neurogenetics, Max Planck Institute of
+Experimental Medicine, 37075 Göttingen, Germany; Department of Psychiatry, Ludwig
+Maximilian University, 80336 Munich, Germany moritz.rossner@med.uni-muenchen.de.
+
+The bHLH transcription factors SHARP1 and SHARP2 are partially redundant
+modulators of the circadian system. SHARP1/DEC2 has been shown to control sleep
+length in humans and sleep architecture is also altered in double mutant mice
+(S1/2(-/-)). Because of the importance of sleep for memory consolidation, we
+investigated the role of SHARP1 and SHARP2 in cognitive processing. S1/2(-/-)
+mice show enhanced cortex (Cx)-dependent remote fear memory formation as well as 
+improved reversal learning, but do not display alterations in hippocampus
+(Hi)-dependent recent fear memory formation. SHARP1 and SHARP2 single null
+mutants do not display any cognitive phenotype supporting functional redundancy
+of both factors. Molecular and biochemical analyses revealed elevated
+insulin-related growth factor 2 (IGF2) signaling and increased phosphorylation of
+MAPK and S6 in the Cx but not the Hi of S1/2(-/-) mice. No changes were detected 
+in single mutants. Moreover, adeno-associated virus type 2-mediated IGF2
+overexpression in the anterior cingulate cortex enhanced remote fear memory
+formation and the analysis of forebrain-specific double null mutants of the
+Insulin and IGF1 receptors revealed their essential function for memory
+formation. Impaired fear memory formation in aged S1/2(-/-) mice indicates that
+elevated IGF2 signaling in the long term, however, has a negative impact on
+cognitive processing. In summary, we conclude that the bHLH transcription factors
+SHARP1 and SHARP2 are involved in cognitive processing by controlling Igf2
+expression and associated signaling cascades. Our analyses provide evidence that 
+the control of sleep and memory consolidation may share common molecular
+mechanisms.
+
+PMCID: PMC4500222
+PMID: 26100875  [PubMed - indexed for MEDLINE]
+
+
+2. Biochem Biophys Res Commun. 2014 Dec 12;455(3-4):390-5. doi:
+10.1016/j.bbrc.2014.11.030. Epub 2014 Nov 18.
+
+The basic helix-loop-helix (bHLH) transcription factor DEC2 negatively regulates 
+Twist1 through an E-box element.
+
+Suzuki M(1), Sato F(2), Bhawal UK(3).
+
+Author information: 
+(1)Department of Anesthesiology, Nihon University School of Dentistry at Matsudo,
+Chiba 271-8587, Japan. (2)First Department of Pathology, Wakayama Medical
+University School of Medicine, Wakayama 641-0012, Japan. (3)Department of
+Biochemistry and Molecular Biology, Nihon University School of Dentistry at
+Matsudo, Chiba 271-8587, Japan. Electronic address:
+bhawal.ujjal.kumar@nihon-u.ac.jp.
+
+Differentiated embryo chondrocyte 2 (DEC2/Sharp-1/Bhlhe41), a basic
+helix-loop-helix (bHLH) transcription factor, has been shown to regulate the
+transcription of target genes by binding to their E-box elements. We identified a
+possible DEC2-response element (consensus E-box: CACGTG) in the promoter region
+of Twist1. Forced expression of DEC2 significantly repressed Twist1 promoter
+activity under normoxia and under hypoxia as assessed by a luciferase reporter
+assay. In addition, over-expression of DEC2 repressed Twist1 mRNA expression
+assessed by quantitative real-time PCR. Site-directed mutagenesis studies showed 
+that mutagenesis of the consensus E-box sequence eliminated the ability of DEC2
+to reduce the Twist1 promoter activity. Chromatin immunoprecipitation (ChIP)
+assays confirmed that the DEC2-mediated repression is primarily achieved by
+binding to the E-box in the Twist1 promoter. Knockdown of DEC2 by siRNA
+significantly attenuated the repression of Twist1 expression. DEC2 and Twist1
+exhibit inversed protein expression patterns during development of mouse tongue
+embryo tissue. Given the fact that DEC2 protein is emerging as an important
+regulator in a vast array of cellular events, including cell differentiation,
+maturation of lymphocytes and the molecular clock, our study elucidates an
+important mechanism by which DEC2 regulates cellular function by modulating the
+expression of Twist1.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+PMID: 25446074  [PubMed - indexed for MEDLINE]
+
+
+3. PLoS One. 2014 Oct 23;9(10):e110310. doi: 10.1371/journal.pone.0110310.
+eCollection 2014.
+
+Mice lacking the circadian modulators SHARP1 and SHARP2 display altered sleep and
+mixed state endophenotypes of psychiatric disorders.
+
+Baier PC(1), Brzózka MM(2), Shahmoradi A(3), Reinecke L(3), Kroos C(3), Wichert
+SP(2), Oster H(4), Wehr MC(2), Taneja R(5), Hirrlinger J(6), Rossner MJ(7).
+
+Author information: 
+(1)Department of Neurology, University of Kiel, Kiel, Germany; Department of
+Clinical Neurophysiology, University of Göttingen, Göttingen, Germany.
+(2)Department of Psychiatry, Ludwig-Maximilian-University, Munich, Germany.
+(3)Research Group Gene Expression, Max Planck Institute of Experimental Medicine,
+Göttingen, Germany. (4)Circadian Rhythms Group, Max Planck Institute of
+Biophysical Chemistry, Göttingen, Germany; Medical Department I, University of
+Lübeck, Lübeck, Germany. (5)Department of Physiology, National University of
+Singapore, Singapore, Singapore. (6)Research Group Gene Expression, Max Planck
+Institute of Experimental Medicine, Göttingen, Germany; Carl-Ludwig Institute of 
+Physiology, University of Leipzig, Leipzig, Germany. (7)Department of Psychiatry,
+Ludwig-Maximilian-University, Munich, Germany; Research Group Gene Expression,
+Max Planck Institute of Experimental Medicine, Göttingen, Germany.
+
+Increasing evidence suggests that clock genes may be implicated in a spectrum of 
+psychiatric diseases, including sleep and mood related disorders as well as
+schizophrenia. The bHLH transcription factors SHARP1/DEC2/BHLHE41 and
+SHARP2/DEC1/BHLHE40 are modulators of the circadian system and
+SHARP1/DEC2/BHLHE40 has been shown to regulate homeostatic sleep drive in humans.
+In this study, we characterized Sharp1 and Sharp2 double mutant mice (S1/2-/-)
+using online EEG recordings in living animals, behavioral assays and global gene 
+expression profiling. EEG recordings revealed attenuated sleep/wake amplitudes
+and alterations of theta oscillations. Increased sleep in the dark phase is
+paralleled by reduced voluntary activity and cortical gene expression signatures 
+reveal associations with psychiatric diseases. S1/2-/- mice display alterations
+in novelty induced activity, anxiety and curiosity. Moreover, mutant mice exhibit
+impaired working memory and deficits in prepulse inhibition resembling symptoms
+of psychiatric diseases. Network modeling indicates a connection between neural
+plasticity and clock genes, particularly for SHARP1 and PER1. Our findings
+support the hypothesis that abnormal sleep and certain (endo)phenotypes of
+psychiatric diseases may be caused by common mechanisms involving components of
+the molecular clock including SHARP1 and SHARP2.
+
+PMCID: PMC4207740
+PMID: 25340473  [PubMed - indexed for MEDLINE]
+
+
+4. Curr Top Dev Biol. 2014;110:339-72. doi: 10.1016/B978-0-12-405943-6.00010-5.
+
+DEC1/STRA13/SHARP2 and DEC2/SHARP1 coordinate physiological processes, including 
+circadian rhythms in response to environmental stimuli.
+
+Kato Y(1), Kawamoto T(2), Fujimoto K(2), Noshiro M(2).
+
+Author information: 
+(1)Department of Dental and Medical Biochemistry, Basic Life Sciences, Institute 
+of Biomedical and Health Sciences, Hiroshima University, Hiroshima, Japan.
+Electronic address: ykato@hiroshima-u.ac.jp. (2)Department of Dental and Medical 
+Biochemistry, Basic Life Sciences, Institute of Biomedical and Health Sciences,
+Hiroshima University, Hiroshima, Japan.
+
+Daily physiological and behavioral rhythms are regulated by endogenous circadian 
+molecular clocks. Clock proteins DEC1 (BHLHe40) and DEC2 (BHLHe41) belong to the 
+basic helix-loop-helix protein superfamily, which contains other clock proteins
+CLOCK and BMAL1. DEC1 and DEC2 are induced by CLOCK:BMAL1 heterodimer via the
+CACGTG E-box in the promoter and, thereafter, suppress their own expression by
+competing with CLOCK:BMAL1 for the DNA binding. This negative feedback DEC loop
+together with the PER loop involving PER and CRY, the other negative clock
+regulators, maintains the circadian rhythm of Dec1 and Dec2 expression. DEC1 is
+induced by light pulse and adjusts the circadian phase of the central clock in
+the suprachiasmatic nucleus, whereas DEC1 upregulation by TGF-ß resets the
+circadian phase of the peripheral clocks in tissues. Furthermore, DEC1 and DEC2
+modulate the clock output signals to control circadian rhythms in behavior and
+metabolism. In addition to the functions in the clocks, DEC1 and DEC2 are
+involved in hypoxia responses, immunological reactions, and carcinogenesis. These
+DEC actions are mediated by the direct binding to the E-box elements in target
+genes or by protein-protein interactions with transcription factors such as
+HIF-1a, RXRa, MyoD, and STAT. Notably, numerous growth factors, hormones, and
+cytokines, along with ionizing radiation and DNA-damaging agents, induce Dec1
+and/or Dec2 in a tissue-specific manner. These findings suggest that DEC1 and
+DEC2 play a critical role in animal adaptation to various environmental stimuli.
+
+© 2014 Elsevier Inc. All rights reserved.
+
+PMID: 25248482  [PubMed - indexed for MEDLINE]
+
+
+5. Curr Top Dev Biol. 2014;110:317-38. doi: 10.1016/B978-0-12-405943-6.00009-9.
+
+Stra13 and Sharp-1, the non-grouchy regulators of development and disease.
+
+Ow JR(1), Tan YH(2), Jin Y(2), Bahirvani AG(2), Taneja R(3).
+
+Author information: 
+(1)Department of Physiology, Yong Loo Lin School of Medicine, National University
+of Singapore, Singapore, Singapore; National University of Singapore Graduate
+School for Integrative Sciences and Engineering, National University of
+Singapore, Singapore, Singapore. (2)Department of Physiology, Yong Loo Lin School
+of Medicine, National University of Singapore, Singapore, Singapore.
+(3)Department of Physiology, Yong Loo Lin School of Medicine, National University
+of Singapore, Singapore, Singapore; National University of Singapore Graduate
+School for Integrative Sciences and Engineering, National University of
+Singapore, Singapore, Singapore. Electronic address: phsrt@nus.edu.sg.
+
+Stra13 and Sharp-1 are transcriptional repressors that share domain structure
+similarity with members of the basic helix-loop-helix-Orange subfamily. In
+contrast to other members that include Hes and Hey proteins, transcriptional
+repression mediated by Stra13 and Sharp-1 does not involve recruitment of the
+corepressor Groucho. Both proteins undergo sumoylation at evolutionarily
+conserved sites, and this posttranslational modification serves as a platform for
+association with chromatin-modifying enzymes including histone deacetylases and
+histone methyltransferases. In addition to being widely expressed during
+embryonic development and in adult tissues, the expression of both genes is
+induced by a number of stimuli. Loss-of-function and gain-of-function studies
+have demonstrated their function in cellular differentiation and regeneration, in
+regulation of circadian rhythms, immune homeostasis, and metabolism. Given their 
+diverse physiological functions in several tissues, it is not surprising that
+deregulated expression of Stra13 and Sharp-1 is apparent in human pathologies.
+Here, we review our current understanding of their cellular functions that
+suggest a requirement in maintenance of tissue homeostasis.
+
+© 2014 Elsevier Inc. All rights reserved.
+
+PMID: 25248481  [PubMed - indexed for MEDLINE]
+
+
+6. J Biol Chem. 2014 Aug 8;289(32):22358-64. doi: 10.1074/jbc.M114.571950. Epub 2014
+Jun 18.
+
+Small ubiquitin-like modifier (SUMO) protein-specific protease 1 de-SUMOylates
+Sharp-1 protein and controls adipocyte differentiation.
+
+Liu B(1), Wang T(1), Mei W(2), Li D(2), Cai R(2), Zuo Y(1), Cheng J(3).
+
+Author information: 
+(1)From the Department of Biochemistry and Molecular Cell Biology, Shanghai Key
+Laboratory for Tumor Microenvironment and Inflammation and State Key Laboratory
+of Oncogenes and Related Genes, Shanghai Cancer Institute, Shanghai Jiao Tong
+University School of Medicine, Shanghai 200025, China. (2)From the Department of 
+Biochemistry and Molecular Cell Biology, Shanghai Key Laboratory for Tumor
+Microenvironment and Inflammation and. (3)From the Department of Biochemistry and
+Molecular Cell Biology, Shanghai Key Laboratory for Tumor Microenvironment and
+Inflammation and State Key Laboratory of Oncogenes and Related Genes, Shanghai
+Cancer Institute, Shanghai Jiao Tong University School of Medicine, Shanghai
+200025, China jkcheng@shsmu.edu.cn.
+
+Adipocyte differentiation is regulated by a transcriptional cascade that mainly
+includes CCAAT/enhancer-binding protein family members and the nuclear receptor
+peroxisome proliferator-activated receptor <U+03B3> (PPAR<U+03B3>). Here we show the defects in
+adipocyte differentiation as well as PPAR<U+03B3> expression in Senp1(-/-) mouse
+embryonic fibroblast cells induced by adipogenic stimuli. We further determine
+that SENP1 is a specific de-SUMOylation protease for Sharp-1, a repressor for
+PPAR<U+03B3> transcription and adipogenesis. SENP1 enhances adipogenesis through
+de-SUMOylation of Sharp-1, which then releases Sharp-1 repression of PPAR<U+03B3>
+expression and adipocyte differentiation. These results reveal SENP1 as a novel
+regulator in adipogenesis.
+
+© 2014 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+PMCID: PMC4139243
+PMID: 24942744  [PubMed - indexed for MEDLINE]
+
+
+7. Leukemia. 2014 Jul;28(7):1564-8. doi: 10.1038/leu.2014.82. Epub 2014 Feb 24.
+
+Unique BHLHB3 overexpression in pediatric acute myeloid leukemia with
+t(6;11)(q27;q23).
+
+Coenen EA(1), Zwaan CM(2), Stary J(3), Baruchel A(4), de Haas V(5), Stam RW(1),
+Reinhardt D(6), Kaspers GJ(7), Arentsen-Peters ST(1), Meyer C(8), Marschalek
+R(8), Nigro LL(9), Dworzak M(10), Pieters R(2), van den Heuvel-Eibrink MM(2).
+
+Author information: 
+(1)Pediatric Oncology/Hematology, Erasmus MC/Sophia Children's Hospital,
+Rotterdam, The Netherlands. (2)1] Pediatric Oncology/Hematology, Erasmus
+MC/Sophia Children's Hospital, Rotterdam, The Netherlands [2] Dutch Childhood
+Oncology Group (DCOG), The Hague, The Netherlands. (3)Pediatric
+Hematology/Oncology, Charles University and University Hospital Motol, Prague,
+Czech Republic. (4)Pediatric Hematology, Hôpital Robert Debré AP-HP and
+University ParisDiderot, Paris, France. (5)Dutch Childhood Oncology Group (DCOG),
+The Hague, The Netherlands. (6)AML-BFM Study Group, Hannover, Germany.
+(7)Pediatric Oncology/Hematology, VU University Medical Center, Amsterdam, The
+Netherlands. (8)Institute of Pharmaceutical Biology, ZAFES, Diagnostic Center of 
+Acute Leukemia (DCAL), Frankfurt, Germany. (9)Center of Pediatric Hematology
+Oncology, Azienda Policlinico, Catania, Italy. (10)St Anna Children's Hospital
+and Children's Cancer Research Institute, Department of Pediatrics, Medical
+University of Vienna, Vienna, Austria.
+
+PMID: 24561520  [PubMed - indexed for MEDLINE]
+
+
+8. Horm Metab Res. 2014 Jun;46(6):397-403. doi: 10.1055/s-0033-1363981. Epub 2014
+Jan 20.
+
+Insulin stimulates the expression of the SHARP-1 gene via multiple signaling
+pathways.
+
+Takagi K(1), Asano K(1), Haneishi A(1), Ono M(2), Komatsu Y(2), Yamamoto T(3),
+Tanaka T(3), Ueno H(4), Ogawa W(5), Tomita K(3), Noguchi T(3), Yamada K(1).
+
+Author information: 
+(1)Department of Health and Nutritional Science, Faculty of Human Health Science,
+Matsumoto University, Matsumoto, Nagano-, Japan. (2)Matsumoto University Graduate
+School of Health Science, Matsumoto, Nagano, Japan. (3)Laboratory of Molecular
+Biology, Faculty of Pharmacy, Osaka Ohtani -University, Tondabayashi, Osaka,
+Japan. (4)Department of Biochemistry and Molecular Pathophysiology, University of
+Occupational and Environmental Health, School of Medicine, -Yahata-nishi-ku,
+Kitakyushu, Fukuoka, Japan. (5)Department of Clinical Molecular Medicine,
+Division of Diabetes and -Digestive and Kidney Diseases, Kobe University Graduate
+School of -Medicine, Chuo-ku, Kobe, Japan.
+
+The rat enhancer of split- and hairy-related protein-1 (SHARP-1) is a basic
+helix-loop-helix transcription factor. An issue of whether SHARP-1 is an
+insulin-inducible transcription factor was examined. Insulin rapidly increased
+the level of SHARP-1 mRNA both in vivo and in vitro. Then, signaling pathways
+involved with the increase of SHARP-1 mRNA by insulin were determined in H4IIE
+rat hepatoma cells. Pretreatments with LY294002, wortmannin, and staurosporine
+completely blocked the induction effect, suggesting the involvement of both
+phosphoinositide 3-kinase (PI 3-K) and protein kinase C (PKC) pathways. In fact, 
+overexpression of a dominant negative form of atypical protein kinase C lambda
+(aPKC<U+03BB>) significantly decreased the induction of the SHARP-1 mRNA. In addition,
+inhibitors for the small GTPase Rac or Jun N-terminal kinase (JNK) also blocked
+the induction of SHARP-1 mRNA by insulin. Overexpression of a dominant negative
+form of Rac1 prevented the activation by insulin. Furthermore, actinomycin D and 
+cycloheximide completely blocked the induction of SHARP-1 mRNA by insulin.
+Finally, when a SHARP-1 expression plasmid was transiently transfected with
+various reporter plasmids into H4IIE cells, the promoter activity of PEPCK
+reporter plasmid was specifically decreased. Thus, we conclude that insulin
+induces the SHARP-1 gene expression at the transcription level via a both PI
+3-K/aPKC<U+03BB>/JNK- and a PI 3-K/Rac/JNK-signaling pathway; protein synthesis is
+required for this induction; and that SHARP-1 is a potential repressor of the
+PEPCK gene expression.
+
+© Georg Thieme Verlag KG Stuttgart · New York.
+
+PMID: 24446161  [PubMed - indexed for MEDLINE]
+
+
+9. J Cell Sci. 2014 Feb 1;127(Pt 3):599-608. doi: 10.1242/jcs.136648. Epub 2013 Dec 
+19.
+
+Sharp-1 regulates TGF-ß signaling and skeletal muscle regeneration.
+
+Acharjee S(1), Chung TK, Gopinadhan S, Shankar SR, Wang Y, Li L, Vercherat C,
+Gulbagci NT, Rossner M, Taneja R.
+
+Author information: 
+(1)Department of Developmental and Regenerative Biology, Mount Sinai School of
+Medicine, One Gustave L. Levy Place, New York, NY 10029, USA.
+
+Sharp-1 is a basic helix-loop-helix (bHLH) transcriptional repressor that is
+involved in a number of cellular processes. Our previous studies have
+demonstrated that Sharp-1 is a negative regulator of skeletal myogenesis and it
+blocks differentiation of muscle precursor cells by modulating the activity of
+MyoD. In order to understand its role in pre- and post-natal myogenesis, we
+assessed skeletal muscle development and freeze-injury-induced regeneration in
+Sharp-1-deficient mice. We show that embryonic skeletal muscle development is not
+impaired in the absence of Sharp-1; however, post-natally, the regenerative
+capacity is compromised. Although the initial phases of injury-induced
+regeneration proceed normally in Sharp-1(-/-) mice, during late stages, the
+mutant muscle exhibits necrotic fibers, calcium deposits and fibrosis. TGF-ß
+expression, as well as levels of phosphorylated Smad2 and Smad3, are sustained in
+the mutant tissue and treatment with decorin, which blocks TGF-ß signaling,
+improves the histopathology of Sharp-1(-/-) injured muscles. In vitro, Sharp-1
+associates with Smad3, and its overexpression inhibits TGF-ß- and Smad3-mediated 
+expression of extracellular matrix genes in myofibroblasts. These results
+demonstrate that Sharp-1 regulates muscle regenerative capacity, at least in
+part, by modulation of TGF-ß signaling.
+
+PMID: 24357723  [PubMed - indexed for MEDLINE]
+
+
+10. J Biol Rhythms. 2012 Dec;27(6):478-89. doi: 10.1177/0748730412462838.
+
+Tissue-specific interaction of Per1/2 and Dec2 in the regulation of fibroblast
+circadian rhythms.
+
+Tsang AH(1), Sánchez-Moreno C, Bode B, Rossner MJ, Garaulet M, Oster H.
+
+Author information: 
+(1)Circadian Rhythms Group, Göttingen, Germany.
+
+In mammals, the molecular circadian clockwork is comprised of interlocked
+transcriptional-translational feedback loops (TTLs). Three Period (Per1-3) and 2 
+Dec (Dec1/2) genes interact in regulating the activity of the transcriptional
+activators CLOCK/NPAS2 and BMAL1. While deletion of Per1 and Per2 in mice results
+in behavioral arrhythmicity, Dec deletion has less dramatic effects on activity
+rhythms, affecting primarily phase of entrainment and free-running period. In
+intact animals, clock gene mutant phenotypes are often masked due to
+intercellular coupling mechanisms that stabilize cellular rhythms. Therefore, to 
+study Per/Dec genetic interaction at the cellular level, we isolated fibroblasts 
+from different tissues of Per1, Per2, and Dec2 single and double mutant mice. We 
+show that in the cellular TTL, Pers and Dec2 act in a principally synergistic
+way, but tissue-specific differences in this interaction are seen. A rescue of
+rhythmicity in Per2 mutant cells after additional deletion of Dec2 was observed, 
+indicating that in the absence of Per2, DEC2 destabilizes TTL function. Rhythm
+power in Per1/Dec2 and Per2/Dec2 double mutants was strongly reduced, suggesting 
+that interaction of Dec2 with both Per genes is important for stabilizing clock
+period. Contrary to what was observed for behavior, nonsynergistic effects of
+Dec2 and Per1/2 mutations were observed on cellular clock phase regulation that
+do not correlate with period effects. Our data reveal cell type-specific
+interactions of Per1/2 and Dec2 in the regulation of period, phase, and rhythm
+sustainment, emphasizing the differential organization of the mammalian clock
+machinery in different tissues.
+
+PMID: 23223373  [PubMed - indexed for MEDLINE]
+
+
+11. Food Chem. 2012 Sep 15;134(2):783-8. doi: 10.1016/j.foodchem.2012.02.181. Epub
+2012 Mar 7.
+
+(-)-Epigallocatechin-3-gallate stimulates both AMP-activated protein kinase and
+nuclear factor-kappa B signaling pathways.
+
+Asano K(1), Takagi K, Haneishi A, Nakamura S, Yamada K.
+
+Author information: 
+(1)Department of Health and Nutritional Science, Faculty of Human Health Science,
+Matsumoto University, 2095-1 Niimura, Matsumoto, Nagano 390-1295, Japan.
+
+We previously reported that (-)-epigallocatechin-3-gallate (EGCG) increased the
+level of SHARP-1 mRNA via a phosphoinositide 3-kinase/atypical protein kinase C
+lambda signaling pathway in rat H4IIE hepatoma cells. In the present study, we
+investigated other signaling pathway(s). Treating with either compound-C,
+BAY11-7082, or both, partially blocked the up-regulation of the SHARP-1 gene by
+EGCG. This suggests that AMP-activated protein kinase (AMPK)- and nuclear
+factor-kappa B (NF-<U+03BA>B)-signaling pathways were additively involved in the
+induction mediated by EGCG. Indeed, an AMPK activator induced a level of SHARP-1 
+mRNA. Although actinomycin D partially blocked the EGCG-induction of that SHARP-1
+mRNA level, the nucleotide sequence between -1501 and -1 in the rat SHARP-1 gene 
+did not positively respond to EGCG and NF-<U+03BA>B, respectively. Thus, we conclude
+that EGCG stimulates multiple signaling pathways in the SHARP-1 gene expression
+at the transcriptional and post-transcriptional levels and that there is no
+regulatory region susceptible to EGCG and NF-<U+03BA>B in the examined region.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+PMID: 23107691  [PubMed - indexed for MEDLINE]
+
+
+12. Mol Biol Cell. 2012 Dec;23(24):4778-85. doi: 10.1091/mbc.E12-04-0311. Epub 2012
+Oct 19.
+
+G9a mediates Sharp-1-dependent inhibition of skeletal muscle differentiation.
+
+Ling BM(1), Gopinadhan S, Kok WK, Shankar SR, Gopal P, Bharathy N, Wang Y, Taneja
+R.
+
+Author information: 
+(1)Department of Physiology, Yong Loo Lin School of Medicine, National University
+of Singapore, Singapore 117597.
+
+Sharp-1, a basic helix-loop-helix transcription factor, is a potent repressor of 
+skeletal muscle differentiation and is dysregulated in muscle pathologies.
+However, the mechanisms by which it inhibits myogenesis are not fully understood.
+Here we show that G9a, a lysine methyltransferase, is involved in
+Sharp-1-mediated inhibition of muscle differentiation. We demonstrate that G9a
+directly interacts with Sharp-1 and enhances its ability to transcriptionally
+repress the myogenin promoter. Concomitant with a differentiation block,
+G9a-dependent histone H3 lysine 9 dimethylation (H3K9me2) and MyoD methylation
+are apparent upon Sharp-1 overexpression in muscle cells. RNA
+interference-mediated reduction of G9a or pharmacological inhibition of its
+activity erases these repressive marks and rescues the differentiation defect
+imposed by Sharp-1. Our findings provide new insights into Sharp-1-dependent
+regulation of myogenesis and identify epigenetic mechanisms that could be
+targeted in myopathies characterized by elevated Sharp-1 levels.
+
+PMCID: PMC3521685
+PMID: 23087213  [PubMed - indexed for MEDLINE]
+
+
+13. Genes Cells. 2012 Feb;17(2):109-21. doi: 10.1111/j.1365-2443.2011.01574.x.
+
+Regulation of basic helix-loop-helix transcription factors Dec1 and Dec2 by RORa 
+and their roles in adipogenesis.
+
+Ozaki N(1), Noshiro M, Kawamoto T, Nakashima A, Honda K, Fukuzaki-Dohi U, Honma
+S, Fujimoto K, Tanimoto K, Tanne K, Kato Y.
+
+Author information: 
+(1)Department of Orthodontics and Craniofacial Developmental Biology, Hiroshima
+University Graduate School of Biomedical Sciences, Hiroshima 734-8553, Japan.
+
+DEC1 and DEC2, members of the basic helix-loop-helix superfamily, are involved in
+various biological phenomena including clock systems, cell differentiation and
+metabolism. In clock systems, Dec1 and Dec2 expression are up-regulated by the
+CLOCK:BMAL1 heterodimer via E-box (CACGTG), exhibiting a circadian rhythm in the 
+suprachiasmatic nucleus (SCN), the central circadian pacemaker and other
+peripheral tissues. In this study, using assays of luciferase reporters,
+electrophoretic mobility shift and chromatin immunoprecipitation, we identified
+novel nuclear receptor response elements, ROR response elements (RORE), in Dec1
+and Dec2 promoters. These ROREs responded to the transcriptional activator RORa, 
+but not to the repressor REVERBa, although the Bmal1 promoter responded to both
+RORa and REVERBa. Therefore, RORa, but not REVERBa, is involved in the regulation
+of Dec1 and Dec2 expression without significantly affecting their rhythmicity.
+Since RORa, DEC1 and DEC2 reportedly suppressed adipogenic differentiation, we
+examined expression of Rora, Dec1, Dec2 and other clock-controlled genes in
+differentiating 3T3-L1 adipocytes. The results suggested that RORa suppresses
+adipogenic differentiation at a later stage of differentiation by RORE-mediated
+stimulation of Dec1 and Dec2 expression.
+
+© 2012 The Authors. Journal compilation © 2012 by the Molecular Biology Society
+of Japan/Blackwell Publishing Ltd.
+
+PMID: 22244086  [PubMed - indexed for MEDLINE]
+
+
+14. J Biol Rhythms. 2011 Dec;26(6):530-40. doi: 10.1177/0748730411419782.
+
+Genetic interaction of Per1 and Dec1/2 in the regulation of circadian locomotor
+activity.
+
+Bode B(1), Shahmoradi A, Taneja R, Rossner MJ, Oster H.
+
+Author information: 
+(1)Circadian Rhythms Group, Max Planck Institute for Biophysical Chemistry,
+Göttingen, Germany.
+
+Erratum in
+    J Biol Rhythms. 2012 Apr;27(2):180. Taneja, Reshma [added].
+
+In mammals, 24-h rhythms are controlled by a hierarchical system of endogenous
+clocks, with a circadian pacemaker located in the suprachiasmatic nuclei (SCN) of
+the hypothalamus that synchronizes peripheral oscillators throughout the body.
+The molecular clock machinery is regulated by interlocked transcriptional
+translational feedback loops (TTLs). The core TTL includes the transcriptional
+modulators PER (1-3) and CRY (1/2) that feed back on their own expression by
+interaction with CLOCK/BMAL1. An accessory loop involving the transcription
+factors DEC1 and DEC2 has been described that also impinges on
+CLOCK/BMAL1-mediated transactivation. In Drosophila, the DEC ortholog CWO shows
+synergistic activity to PER. This prompted the authors to analyze PER1-DEC
+interaction in the mammalian SCN. They generated Per1/Dec double and triple
+mutant mice to monitor activity rhythms under entrained and free-running
+conditions. Furthermore, they analyzed expression of the clock genes Per2,
+Rev-Erba, and Bmal1 in wild-type and Per1/Dec mutant SCN by in situ
+hybridization. The experiments reveal a critical role for Per1-Dec interaction in
+regulating activity phase under entrained conditions. In constant darkness, a
+synergistic function for Per1 and Dec1/2 in period regulation was found,
+correlating with disrupted clock gene mRNA levels in the SCN. Luciferase reporter
+gene assays indicate an activatory function of DECs on Bmal1 expression.
+Together, the results suggest a partially redundant and bidirectional regulatory 
+function for the 2 Dec genes in the TTL and a conservation of Per-Dec (Cwo)
+synergism between vertebrate and invertebrate clocks.
+
+PMID: 22215611  [PubMed - indexed for MEDLINE]
+
+
+15. J Agric Food Chem. 2011 Dec 28;59(24):13360-4. doi: 10.1021/jf204016k. Epub 2011 
+Nov 30.
+
+(-)-Epigallocatechin-3-gallate enhances the expression of an insulin-inducible
+transcription factor gene via a phosphoinositide 3-kinase/atypical protein kinase
+C lambda pathway.
+
+Asano K(1), Takagi K, Haneishi A, Yamamoto T, Tanaka T, Noguchi T, Nakamura S,
+Yamada K.
+
+Author information: 
+(1)Department of Health and Nutritional Science, Faculty of Human Health Science,
+Matsumoto University, 2095-1 Niimura, Matsumoto, Nagano 390-1295, Japan.
+
+The rat enhancer of split- and hairy-related protein-1 (SHARP-1) is an
+insulin-inducible transcriptional repressor. In this study, we examined issues of
+whether (-)-epigallocatechin-3-gallate (EGCG), a green tea polyphenol, regulates 
+the expression of the rat SHARP-1 gene and which signaling pathway mediates the
+regulation. When H4IIE cells were treated with EGCG, SHARP-1 mRNA levels rapidly 
+increased. Pretreatments with inhibitors for either phosphoinositide 3-kinase (PI
+3-K) or protein kinase C partially blocked EGCG induction. Atypical protein
+kinase C lambda (aPKC<U+03BB>) is known as a downstream target of PI 3-K in the liver.
+When a dominant-negative form of aPKC<U+03BB> was expressed, the EGCG-induced SHARP-1
+mRNAs was inhibited. Finally, Western blot analysis revealed that EGCG rapidly
+and temporarily stimulates aPKC<U+03BB> phosphorylation. Thus, we conclude that EGCG
+induces SHARP-1 gene expression via a PI 3-K/aPKC<U+03BB> signaling pathway.
+
+PMID: 22085033  [PubMed - indexed for MEDLINE]
+
+
+16. Chronobiol Int. 2011 Nov;28(9):737-50. doi: 10.3109/07420528.2011.607374.
+
+Advanced light-entrained activity onsets and restored free-running
+suprachiasmatic nucleus circadian rhythms in per2/dec mutant mice.
+
+Bode B(1), Taneja R, Rossner MJ, Oster H.
+
+Author information: 
+(1)Circadian Rhythms Group , Max Planck Institute for Biophysical Chemistry,
+Göttingen, Germany.
+
+Erratum in
+    Chronobiol Int. 2012 Apr;29(3):377. Taneja, Reshma [added].
+
+Many behavioral and physiological processes display diurnal (24-h) rhythms
+controlled by an internal timekeeping system?the circadian clock. In mammals, a
+circadian pacemaker is located in the suprachiasmatic nucleus (SCN) of the
+hypothalamus and synchronizes peripheral oscillators found in most other tissues 
+with the external light-dark (LD) cycle. At the molecular level, circadian clocks
+are regulated by transcriptional translational feedback loops (TTLs) involving a 
+set of clock genes. The mammalian core TTL includes the transcriptional
+modulators PER?(1?3) and CRY?(1/2) that inhibit their own expression by
+interaction with CLOCK/NPAS2 and BMAL1 (ARNTL). The basic helix-loop-helix
+transcription factors DEC1 (BHLHE40) and DEC2 (BHLHE41) can interact with this
+core TTL, forming an accessory feedback mechanism. The authors measured circadian
+locomotor behavior and clock gene expression in the SCN of Per2/Dec double- and
+triple-mutant mice to analyze the functional interaction of PER2 and DEC feedback
+on circadian pacemaker function in the SCN. The data suggest a synergistic
+interaction of Per2 and Dec1/2 in activity entrainment to a standard LD cycle,
+correlating with a cumulative deficiency in negative-masking capacities in
+Per2/Dec double- and triple-mutant mice and suggesting an involvement of
+Per2-Dec1/2 interactivity in activity-onset regulation and masking under LD, but 
+not under constant conditions. In contrast, under constant darkness (DD)
+conditions, a deletion of either Dec1 or Dec2 partially rescued the Per2 mutant
+short-period/arrhythmicity phenotype, accompanied by a restoration of time-of-day
+effects on clock gene expression in the SCN. Together, these results show an
+interaction of Per2 and Dec1/2 feedback processes in the SCN with differential
+modes of interactivity under entrained and free-run conditions. (Author
+correspondence: henrik.oster@mpibpc.mpg.de ).
+
+PMID: 22080784  [PubMed - indexed for MEDLINE]
+
+
+17. Biochem Biophys Res Commun. 2011 Sep 23;413(2):376-82. doi:
+10.1016/j.bbrc.2011.08.110. Epub 2011 Aug 27.
+
+Berberine exerts anti-adipogenic activity through up-regulation of C/EBP
+inhibitors, CHOP and DEC2.
+
+Pham TP(1), Kwon J, Shin J.
+
+Author information: 
+(1)Department of Molecular Cell Biology, Sungkyunkwan University School of
+Medicine and Samsung Biomedical Research Institute, Suwon-Si, Kyonggi-Do,
+Republic of Korea.
+
+Berberine exerts an anti-adipogenic activity that is associated with the
+down-regulation of C/EBPa and PPAR<U+03B3>. Stimulation of AMP-activated kinase (AMPK)
+caused by inhibition of mitochondrial respiration has been suggested to underlie 
+such molecular regulation. In the present study, we show that berberine
+up-regulated the expression of two different sets of C/EBP inhibitors, CHOP and
+DEC2, while down-modulating C/EBPa, PPAR<U+03B3> and other adipogenic markers and
+effectors in differentiating 3T3-L1 preadipocytes and mature adipocytes. Data
+also suggested that the berberine-induced up-regulation of CHOP and DEC2 was
+attributable to selective activation of an unfolded protein response (UPR) and
+modified extracellular environment, respectively. As a result, the
+anti-adipogenic activity of berberine was diminished remarkably by adjusting the 
+differentiation culture media and limitedly but consistently by knockdown of CHOP
+expression. Together, up-regulation of C/EBP inhibitors appears to underlie the
+berberine-induced repression of C/EBPa and PPAR<U+03B3> and, so, the inhibition of
+adipogenesis.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+PMID: 21893041  [PubMed - indexed for MEDLINE]
+
+
+18. J Pediatr Hematol Oncol. 2011 Jul;33(5):360-8. doi: 10.1097/MPH.0b013e3182002f9f.
+
+ASPS-1, a novel cell line manifesting key features of alveolar soft part sarcoma.
+
+Kenney S(1), Vistica DT, Stockwin LH, Burkett S, Hollingshead MG, Borgel SD,
+Butcher DO, Schrump DS, Shoemaker RH.
+
+Author information: 
+(1)Screening Technologies Branch, Developmental Therapeutics Program, National
+Cancer Institute at Frederick, Frederick, MD 21702, USA.
+
+In vitro growth of alveolar soft part sarcoma (ASPS) and establishment of an ASPS
+cell line, ASPS-1, are described in this study. Using a recently developed
+xenograft model of ASPS derived from a lymph node metastasis, organoid nests
+consisting of 15 to 25 ASPS cells were isolated from ASPS xenograft tumors by
+capture on 70 µm filters and plated in vitro. After attachment to the substratum,
+these nests deposited small aggregates of ASPS cells. These cells grew slowly and
+were expanded over a period of 3 years and have maintained characteristics
+consistent with those of both the original ASPS tumor from the patient and the
+xenograft tumor including (1) presence of the alveolar soft part
+locus-transcription factor E3 type 1 fusion transcript and nuclear expression of 
+the alveolar soft part locus-transcription factor E3 type 1 fusion protein; (2)
+maintenance of the t(X;17)(p11;q25) translocation characteristic of ASPS; and (3)
+expression of upregulated ASPS transcripts involved in angiogenesis (ANGPTL2,
+HIF-1-a, MDK, c-MET, VEGF, and TIMP-2), cell proliferation (PRL, PCSK1),
+metastasis (ADAM9), as well as the transcription factor BHLHB3 and the
+muscle-specific transcripts TRIM63 and ITGß1BP3. This ASPS cell line forms
+colonies in soft agar and retains the ability to produce highly vascularized ASPS
+tumors in NOD.SCID/NCr mice. Immunohistochemistry of selected ASPS markers on
+these tumors indicated similarity to those of the original patient tumor as well 
+as to the xenografted ASPS tumor. We anticipate that this ASPS cell line will
+accelerate investigations into the biology of ASPS including identification of
+new therapeutic approaches for treatment of this slow growing soft tissue
+sarcoma.
+
+PMID: 21552147  [PubMed - indexed for MEDLINE]
+
+
+19. J Pathol. 2011 Jul;224(3):420-9. doi: 10.1002/path.2878. Epub 2011 Apr 19.
+
+Basic helix-loop-helix transcription factor DEC1 negatively regulates cyclin D1.
+
+Bhawal UK(1), Sato F, Arakawa Y, Fujimoto K, Kawamoto T, Tanimoto K, Ito Y,
+Sasahira T, Sakurai T, Kobayashi M, Kashima I, Kijima H, Kuniyasu H, Abiko Y,
+Kato Y, Sato S.
+
+Author information: 
+(1)Research Institute of Occlusion Medicine and Open Research Center, Kanagawa
+Dental College, Yokosuka, Japan. bhawal.ujjal.kumar@nihon-u.ac.jp
+
+DEC1 (also known as Stra13/Bhlhb2/Sharp2) and DEC2 (also known as Bhlhb3/Sharp1) 
+are two paralogous basic helix-loop-helix (bHLH) transcriptional regulators which
+exhibit a robust circadian gene expression pattern in the suprachiasmatic nucleus
+(SCN) and in peripheral organs. DEC1 has been suggested to play key roles in
+mammalian cell differentiation, the cell cycle and circadian regulation, hypoxia 
+response, and carcinogenesis. Here we show that DEC1 overexpression exhibits
+delayed wound healing and reduces cell proliferation, migration, and invasion.
+DEC1 strongly repressed the promoter activity of cyclin D1. We further identify a
+possible DEC-response element in the cyclin D1 promoter region, and confirmed the
+direct binding of DEC1 to that element. Forced expression of DEC1 efficiently
+repressed the cyclin D1 promoter and expression. Our clinical data provide the
+first evidence that there is a strong inverse correlation between DEC1 and cyclin
+D1 expression in oral cancer, and DEC1 expression significantly correlated with
+clinicopathological parameters. We suggest that radiation-induced DEC1
+overexpression and Akt phosphorylation in cancer cells are mediated via PI-3K
+signalling. Overexpression of DEC1 activates the PI-3K/Akt signalling pathway
+through reactive oxygen species (ROS).
+
+Copyright © 2011 Pathological Society of Great Britain and Ireland. Published by 
+John Wiley & Sons, Ltd.
+
+PMID: 21506129  [PubMed - indexed for MEDLINE]
+
+
+20. J Exp Biol. 2011 Apr 15;214(Pt 8):1257-63. doi: 10.1242/jeb.052100.
+
+Significant dissociation of expression patterns of the basic helix-loop-helix
+transcription factors Dec1 and Dec2 in rat kidney.
+
+Wu T(1), Ni Y, Zhuge F, Sun L, Xu B, Kato H, Fu Z.
+
+Author information: 
+(1)College of Biological and Environmental Engineering, Zhejiang University of
+Technology, Zhaohui Xincun, Hangzhou 310032, China.
+
+Dec1 and Dec2 are regulators of the mammalian molecular clock that show robust
+circadian rhythms in the suprachiasmatic nucleus and various peripheral tissues. 
+Although the expression of Dec1 and Dec2 is altered by multiple stimuli in
+different organs, their transcriptional regulatory mechanisms have not been fully
+elucidated for the kidney. In the present study, we describe for the first time
+significant dissociation of expression patterns with arrhythmic expression of
+Dec1 and rhythmic expression of Dec2 in rat kidney under a normal light-dark (LD)
+cycle. Daytime restricted feeding (RF) significantly altered the expression
+patterns of these two clock genes, and even induced circadian expression of Dec1 
+with an amplitude of 2.2 on day 3 and 4.2 on day 7. However, when a reversed
+feeding schedule was coupled with a reversed LD cycle, the expression of Dec1 but
+not Dec2 reverted to being arrhythmic. Moreover, exogenous injection of the
+glucocorticoid analogue dexamethasone (Dex) at certain times of the day resulted 
+in rhythmic expression of Dec1, which was similar to that seen following RF for 7
+days. In contrast, endogenous disruption of glucocorticoids by adrenalectomy
+abolished RF-induced rhythmic expression of Dec1 in the kidney. These
+observations suggest the existence of a glucocorticoid gating mechanism in the
+circadian expression of Dec1 in rat kidney.
+
+PMID: 21430201  [PubMed - indexed for MEDLINE]
+
+
+21. Genes Cells. 2010 Apr 1;15(4):315-25. doi: 10.1111/j.1365-2443.2010.01381.x. Epub
+2010 Mar 4.
+
+Anti-apoptotic effect of the basic helix-loop-helix (bHLH) transcription factor
+DEC2 in human breast cancer cells.
+
+Liu Y(1), Sato F, Kawamoto T, Fujimoto K, Morohashi S, Akasaka H, Kondo J, Wu Y, 
+Noshiro M, Kato Y, Kijima H.
+
+Author information: 
+(1)Department of Pathology and Bioscience, Hirosaki University Graduate School of
+Medicine, Hirosaki 036-8562, Japan.
+
+DEC1 (BHLHB2/Stra13/Sharp2) and DEC2 (BHLHB3/Sharp1) are basic helix-loop-helix
+(bHLH) transcription factors that are involved in circadian rhythms,
+differentiation and the responses to hypoxia. We examined whether DEC1 and DEC2
+are involved in apoptosis regulation, in human breast cancer MCF-7 cells. We
+found that siRNA-mediated knockdown of DEC2 resulted in marked enhancement of
+apoptosis compared with that in control cells transfected with nonspecific siRNA.
+However, knockdown of DEC1 by siRNA did not affect cell survival. Knockdown of
+DEC2 affected the expression of mRNA or proteins related to apoptosis, such as
+Fas, c-Myc, caspase-8, poly (ADP-ribose) polymerase (PARP) and Bax. We also
+showed that tumor necrosis factor-alpha (TNF-alpha) up-regulates the expression
+of DEC1 and DEC2. DEC2 over-expression caused by the transfection of an
+expression vector reduced the amounts of cleaved PARP and caspase-8 induced by
+TNF-alpha treatment, whereas DEC1 over-expression increased it. Finally, we
+revealed that treatment with double knockdown against both DEC1 and DEC2
+decreased the amounts of cleaved PARP and caspase-8 induced by DEC2 siRNA with or
+without TNF-alpha. These data indicate that DEC2 has an anti-apoptotic effect,
+whereas DEC1 has a pro-apoptotic effect, which are involved in the balance of
+survival of human breast cancer MCF-7 cells.
+
+PMID: 20236182  [PubMed - indexed for MEDLINE]
+
+
+22. Neuropsychopharmacology. 2010 May;35(6):1279-89. doi: 10.1038/npp.2009.230. Epub 
+2010 Jan 13.
+
+Differential association of circadian genes with mood disorders: CRY1 and NPAS2
+are associated with unipolar major depression and CLOCK and VIP with bipolar
+disorder.
+
+Soria V(1), Martínez-Amorós E, Escaramís G, Valero J, Pérez-Egea R, García C,
+Gutiérrez-Zotes A, Puigdemont D, Bayés M, Crespo JM, Martorell L, Vilella E,
+Labad A, Vallejo J, Pérez V, Menchón JM, Estivill X, Gratacòs M, Urretavizcaya M.
+
+Author information: 
+(1)CIBERSAM (CIBER en Salud Mental), Mood Disorders Clinical and Research Unit,
+Psychiatry Department, Bellvitge University Hospital, Barcelona, Spain.
+
+Disruptions in circadian rhythms have been described in mood disorders (MD), but 
+the involvement of genetic variation in genes pertaining to the molecular
+circadian machinery in the susceptibility to MD has not been conclusively
+determined. We examined 209 single-nucleotide polymorphisms (SNPs) covering 19
+circadian genes (ADCYAP1, ARNTL, ARNTL2, BHLHB2, BHLHB3, CLOCK, CRY1, CRY2,
+CSNK1E, DBP, NPAS2, NR1D1, PER1, PER2, PER3, RORA, TIMELESS, VIP, and VIPR2) in a
+sample of 534 MD patients (335 with unipolar major mood depression (MDD) and 199 
+with bipolar disorder (BD)) and 440 community-based screened controls. Nominally,
+statistically significant associations were found in 15 circadian genes. The
+gene-wide test, corrected for the number of SNPs analyzed in each gene,
+identified significant associations in CRY1 (rs2287161), NPAS2 (rs11123857), and 
+VIPR2 (rs885861) genes with the combined MD sample. In the MDD subsample, the
+same SNPs in CRY1 and NPAS2 of the combined sample remained associated, whereas
+in the BD subsample CLOCK (rs10462028) and VIP (rs17083008) were specifically
+associated. The association with an SNP located 3' near CRY1 gene in MDD remained
+statistically significant after permutation correction at experiment level
+(p=0.007). Significant additive effects were found between the SNPs that were
+statistically significant at the gene-wide level. We also found evidence of
+associations between two-marker haplotypes in CRY1 and NPAS2 genes and MD. Our
+data support the contribution of the circadian system to the genetic
+susceptibility to MD and suggest that different circadian genes may have specific
+effects on MD polarity.
+
+PMCID: PMC3055337
+PMID: 20072116  [PubMed - indexed for MEDLINE]
+
+
+23. Mol Cell Biol. 2010 Mar;30(5):1182-98. doi: 10.1128/MCB.00690-09. Epub 2009 Dec
+22.
+
+A new role for sterol regulatory element binding protein 1 transcription factors 
+in the regulation of muscle mass and muscle cell differentiation.
+
+Lecomte V(1), Meugnier E, Euthine V, Durand C, Freyssenet D, Nemoz G, Rome S,
+Vidal H, Lefai E.
+
+Author information: 
+(1)INSERM, U870, F-69921 Oullins Cedex, France.
+
+The role of the transcription factors sterol regulatory element binding protein
+1a (SREBP-1a) and SREBP-1c in the regulation of cholesterol and fatty acid
+metabolism has been well studied; however, little is known about their specific
+function in muscle. In the present study, analysis of recent microarray data from
+muscle cells overexpressing SREBP1 suggested that they may play a role in the
+regulation of myogenesis. We then demonstrated that SREBP-1a and -1c inhibit
+myoblast-to-myotube differentiation and also induce in vivo and in vitro muscle
+atrophy. Furthermore, we have identified the transcriptional repressors BHLHB2
+and BHLHB3 as mediators of these effects of SREBP-1a and -1c in muscle. Both
+repressors are SREBP-1 target genes, and they affect the expression of numerous
+genes involved in the myogenic program. Our findings identify a new role for
+SREBP-1 transcription factors in muscle, thus linking the control of muscle mass 
+to metabolic pathways.
+
+PMCID: PMC2820883
+PMID: 20028734  [PubMed - indexed for MEDLINE]
+
+
+24. FEBS Lett. 2010 Feb 5;584(3):619-24. doi: 10.1016/j.febslet.2009.12.011. Epub
+2009 Dec 17.
+
+Sharp-1 modulates the cellular response to DNA damage.
+
+Liu JJ(1), Chung TK, Li J, Taneja R.
+
+Author information: 
+(1)Department of Physiology, National University of Singapore, Singapore,
+Singapore.
+
+DNA damage checkpoints are essential for maintenance of genome integrity. We
+report here that inducible overexpression of the transcription factor Sharp-1
+results in an S and G2/M cell cycle arrest, concomitant with the upregulation of 
+Brca1 and GADD45alpha expression. In addition, we show that endogenous Sharp-1
+mRNA is increased by DNA-damaging agents. Consistently, Sharp-1 overexpressing
+cells exhibit reduced apoptosis in response to chemotherapeutic drugs along with 
+lower p53 expression and activity. Our studies identify a novel function for
+Sharp-1 in cell cycle arrest and DNA damage-induced apoptosis. Inappropriate
+Sharp-1 expression may therefore be associated with tumorigenesis.
+
+2009 Federation of European Biochemical Societies. Published by Elsevier B.V. All
+rights reserved.
+
+PMCID: PMC2812643
+PMID: 20006609  [PubMed - indexed for MEDLINE]
+
+
+25. Nat Immunol. 2009 Dec;10(12):1260-6. doi: 10.1038/ni.1821. Epub 2009 Nov 1.
+
+Requirement for the basic helix-loop-helix transcription factor Dec2 in initial
+TH2 lineage commitment.
+
+Yang XO(1), Angkasekwinai P, Zhu J, Peng J, Liu Z, Nurieva R, Liu X, Chung Y,
+Chang SH, Sun B, Dong C.
+
+Author information: 
+(1)Department of Immunology, MD Anderson Cancer Center, Houston, Texas, USA.
+
+How naive CD4(+) T cells commit to the T helper type 2 (T(H)2) lineage is poorly 
+understood. Here we show that the basic helix-loop-helix transcription factor
+Dec2 was selectively expressed in T(H)2 cells. CD4(+) T cells from Dec2-deficient
+mice showed defective T(H)2 differentiation in vitro and in vivo in an asthma
+model and in response to challenge with a parasite antigen. Dec2 promoted
+expression of interleukin 4 (IL-4), IL-5 and IL-13 during early T(H)2
+differentiation and directly bound to and activated transcription of genes
+encoding the transcription factors JunB and GATA-3. As GATA-3 induces Dec2
+expression, our findings also indicate a feed-forward regulatory circuit during
+T(H)2 differentiation.
+
+PMCID: PMC2784129
+PMID: 19881507  [PubMed - indexed for MEDLINE]
+
+
+26. J Immunol. 2009 Nov 15;183(10):6320-9. doi: 10.4049/jimmunol.0900975. Epub 2009
+Oct 30.
+
+Dec2 promotes Th2 cell differentiation by enhancing IL-2R signaling.
+
+Liu Z(1), Li Z, Mao K, Zou J, Wang Y, Tao Z, Lin G, Tian L, Ji Y, Wu X, Zhu X,
+Sun S, Chen W, Xiang C, Sun B.
+
+Author information: 
+(1)Laboratory of Molecular Cell Biology, Institute of Biochemistry and Cell
+Biology, Shanghai Institutes of Biological Sciences, Chinese Academy of Sciences,
+Shanghai, China.
+
+Th cell differentiation is precisely regulated by thousands of genes at different
+stages. In the present study, we demonstrate that Dec2, a transcription factor
+belonging to the bHLH (basic helix-loop-helix) superfamily, is progressively
+induced during the course of Th2 differentiation, especially at the late stage.
+The up-regulated Dec2 can strongly promote Th2 development under Th2-inducing
+conditions, as evidenced by retrovirus-mediated gene transfer or transgenic
+manipulation. In addition, an enhancement of Th2 responses is also detectable in 
+Dec2 transgenic mice in vivo. Conversely, RNA interference-mediated suppression
+of endogenous Dec2 could attenuate Th2 differentiation. Finally, we show that the
+enhanced Th2 development is at least in part due to substantial up-regulation of 
+CD25 expression elicited by Dec2, thereby resulting in hyperresponsiveness to
+IL-2 stimulation.
+
+PMID: 19880450  [PubMed - indexed for MEDLINE]
+
+
+27. Proc Natl Acad Sci U S A. 2009 Oct 13;106(41):17582-7. doi:
+10.1073/pnas.0909733106. Epub 2009 Oct 5.
+
+Glucocorticoid regulation of the circadian clock modulates glucose homeostasis.
+
+So AY(1), Bernal TU, Pillsbury ML, Yamamoto KR, Feldman BJ.
+
+Author information: 
+(1)Department of Pediatrics, University of California, 513 Parnassus Drive, San
+Francisco, CA 94143, USA.
+
+Circadian clock genes are regulated by glucocorticoids; however, whether this
+regulation is a direct or secondary effect and the physiological consequences of 
+this regulation were unknown. Here, we identified glucocorticoid response
+elements (GREs) at multiple clock genes and showed that 3 were directly regulated
+by the glucocorticoid receptor. We determined that a GRE within the core clock
+gene Per2 was continuously occupied during rhythmic expression and essential for 
+glucocorticoid regulation of that gene in vivo. We further demonstrated that mice
+with a genomic deletion spanning this GRE expressed elevated leptin levels and
+were protected from glucose intolerance and insulin resistance on glucocorticoid 
+treatment but not from muscle wasting. We conclude that Per2 is an integral
+component of a particular glucocorticoid regulatory pathway and that
+glucocorticoid regulation of the peripheral clock is selectively required for
+some actions of glucocorticoids.
+
+PMCID: PMC2757402
+PMID: 19805059  [PubMed - indexed for MEDLINE]
+
+
+28. Mol Pharmacol. 2009 Dec;76(6):1360-9. doi: 10.1124/mol.109.057000. Epub 2009 Sep 
+28.
+
+The basic helix-loop-helix proteins differentiated embryo chondrocyte (DEC) 1 and
+DEC2 function as corepressors of retinoid X receptors.
+
+Cho Y(1), Noshiro M, Choi M, Morita K, Kawamoto T, Fujimoto K, Kato Y, Makishima 
+M.
+
+Author information: 
+(1)Division of Biochemistry, Department of Biomedical Sciences, Nihon University 
+School of Medicine, Itabashi-ku, Tokyo, Japan.
+
+The basic helix-loop-helix proteins differentiated embryo chondrocyte 1 (DEC1)
+and DEC2 are involved in circadian rhythm control. Because the metabolism of
+dietary nutrients has been linked to circadian regulation, we examined the effect
+of DEC1 and DEC2 on the function of the metabolite-sensing nuclear receptors,
+ligand-dependent transcription factors, including retinoid X receptor (RXR) and
+liver X receptor (LXR). Transfection assays showed that DEC1 and DEC2 repressed
+ligand-dependent transactivation by RXR. Knockdown of endogenous DEC1 and DEC2
+expression with small interfering RNAs augmented ligand-dependent RXRalpha
+transactivation. DEC1 and DEC2 interacted directly with RXRalpha, and ligand
+addition enhanced their association. DEC1 and DEC2 modified interaction of
+RXRalpha with cofactor proteins. Transfection assays using DEC1 and DEC2 mutants 
+revealed that the C-terminal region of DEC2 is required for repression and that
+an LXXLL motif in DEC1 and DEC2 is necessary for RXRalpha repression. DEC1 and
+DEC2 repressed the induction of LXR target genes, associated with the promoter of
+an LXR target gene, and dissociated from the promoter with ligand treatment.
+Knockdown of endogenous DEC1 and DEC2 enhanced the LXR target gene expression in 
+hepatocytes. Expression of Dec1, Dec2, and Srebp-1c showed a circadian rhythm in 
+the liver of mice, whereas that of Lxralpha, Lxrbeta, and Rxralpha was not
+rhythmic. DEC1 and DEC2 also repressed the transactivation of other RXR
+heterodimers, such as farnesoid X receptor, vitamin D receptor, and retinoic acid
+receptor. Thus, the repressor function of DEC1 and DEC2 may be extended to other 
+RXR heterodimer nuclear receptors.
+
+PMID: 19786558  [PubMed - indexed for MEDLINE]
+
+
+29. Science. 2009 Aug 14;325(5942):866-70. doi: 10.1126/science.1174443.
+
+The transcriptional repressor DEC2 regulates sleep length in mammals.
+
+He Y(1), Jones CR, Fujiki N, Xu Y, Guo B, Holder JL Jr, Rossner MJ, Nishino S, Fu
+YH.
+
+Author information: 
+(1)Department of Neurology, University of California at San Francisco, Mission
+Bay, 1550 Fourth Street, San Francisco, CA 94158, USA.
+
+Comment in
+    Science. 2009 Aug 14;325(5942):825-6.
+
+Sleep deprivation can impair human health and performance. Habitual total sleep
+time and homeostatic sleep response to sleep deprivation are quantitative traits 
+in humans. Genetic loci for these traits have been identified in model organisms,
+but none of these potential animal models have a corresponding human genotype and
+phenotype. We have identified a mutation in a transcriptional repressor
+(hDEC2-P385R) that is associated with a human short sleep phenotype. Activity
+profiles and sleep recordings of transgenic mice carrying this mutation showed
+increased vigilance time and less sleep time than control mice in a zeitgeber
+time- and sleep deprivation-dependent manner. These mice represent a model of
+human sleep homeostasis that provides an opportunity to probe the effect of sleep
+on human physical and mental health.
+
+PMCID: PMC2884988
+PMID: 19679812  [PubMed - indexed for MEDLINE]
+
+
+30. Science. 2009 Aug 14;325(5942):825-6. doi: 10.1126/science.1178713.
+
+Physiology. How much sleep do we need?
+
+Hor H(1), Tafti M.
+
+Author information: 
+(1)Center for Integrative Genomics, University of Lausanne, 1015 Lausanne,
+Switzerland.
+
+Comment on
+    Science. 2009 Aug 14;325(5942):866-70.
+
+PMID: 19679803  [PubMed - indexed for MEDLINE]
+
+
+31. Cancer Res. 2009 Jul 15;69(14):5664-72. doi: 10.1158/0008-5472.CAN-08-3820. Epub 
+2009 Jul 7.
+
+Computational identification of a p38SAPK-regulated transcription factor network 
+required for tumor cell quiescence.
+
+Adam AP(1), George A, Schewe D, Bragado P, Iglesias BV, Ranganathan AC, Kourtidis
+A, Conklin DS, Aguirre-Ghiso JA.
+
+Author information: 
+(1)Department of Biomedical Sciences, School of Public Health and Center for
+Excellence in Cancer Genomics, SUNY-Albany, Rensselaer, New York, USA.
+
+The stress-activated kinase p38 plays key roles in tumor suppression and
+induction of tumor cell dormancy. However, the mechanisms behind these functions 
+remain poorly understood. Using computational tools, we identified a
+transcription factor (TF) network regulated by p38alpha/beta and required for
+human squamous carcinoma cell quiescence in vivo. We found that p38
+transcriptionally regulates a core network of 46 genes that includes 16 TFs.
+Activation of p38 induced the expression of the TFs p53 and BHLHB3, while
+inhibiting c-Jun and FoxM1 expression. Furthermore, induction of p53 by p38 was
+dependent on c-Jun down-regulation. Accordingly, RNAi down-regulation of BHLHB3
+or p53 interrupted tumor cell quiescence, while down-regulation of c-Jun or FoxM1
+or overexpression of BHLHB3 in malignant cells mimicked the onset of quiescence. 
+Our results identify components of the regulatory mechanisms driving p38-induced 
+cancer cell quiescence. These may regulate dormancy of residual disease that
+usually precedes the onset of metastasis in many cancers.
+
+PMCID: PMC2720524
+PMID: 19584293  [PubMed - indexed for MEDLINE]
+
+
+32. EMBO Rep. 2009 Jan;10(1):79-86. doi: 10.1038/embor.2008.207. Epub 2008 Nov 21.
+
+SHARP1/DEC2 inhibits adipogenic differentiation by regulating the activity of
+C/EBP.
+
+Gulbagci NT(1), Li L, Ling B, Gopinadhan S, Walsh M, Rossner M, Nave KA, Taneja
+R.
+
+Author information: 
+(1)Department of Developmental and Regenerative Biology, Mount Sinai School of
+Medicine, New York, New York 10029, USA.
+
+SHARP1, a basic helix-loop-helix transcription factor, is expressed in many cell 
+types; however, the mechanisms by which it regulates cellular differentiation
+remain largely unknown. Here, we show that SHARP1 negatively regulates
+adipogenesis. Although expression of the early marker CCAAT/enhancer binding
+protein beta (C/EBPbeta) is not altered, its crucial downstream targets
+C/EBPalpha and peroxisome proliferator-activated receptor gamma (PPARgamma) are
+downregulated by SHARP1. Protein interaction studies confirm that SHARP1
+interacts with and inhibits the transcriptional activity of both C/EBPbeta and
+C/EBPalpha, and enhances the association of C/EBPbeta with histone deacetylase 1 
+(HDAC1). Consistently, in SHARP1-expressing cells, HDAC1 and the histone
+methyltransferase G9a are retained at the C/EBP regulatory sites on the
+C/EBPalpha and PPARgamma2 promoters during differentiation, resulting in
+inhibition of their expression. Interestingly, treatment with troglitazone
+results in displacement of HDAC1 and G9a, and rescues the differentiation defect 
+of SHARP1-overexpressing cells. Our data indicate that SHARP1 inhibits
+adipogenesis through the regulation of C/EBP activity, which is essential for
+PPARgamma-ligand-dependent displacement of co-repressors from adipogenic
+promoters.
+
+PMCID: PMC2613201
+PMID: 19029947  [PubMed - indexed for MEDLINE]
+
+
+33. Nucleic Acids Res. 2008 Nov;36(20):6372-85. doi: 10.1093/nar/gkn620. Epub 2008
+Oct 5.
+
+Stra13/DEC1 and DEC2 inhibit sterol regulatory element binding protein-1c in a
+hypoxia-inducible factor-dependent mechanism.
+
+Choi SM(1), Cho HJ, Cho H, Kim KH, Kim JB, Park H.
+
+Author information: 
+(1)Department of Life Science, University of Seoul, Seoul, Republic of Korea.
+
+Sterol regulatory element binding protein-1c (SREBP-1c) is a basic
+helix-loop-helix (bHLH) homodimeric transactivator, which induces itself and
+several lipogenic enzymes, notably fatty acid synthase (FAS). We demonstrated
+that hypoxia-inducible factor (HIF) represses the SREBP-1c gene by inducing
+Stimulated with retinoic acid (Stra)13/Differentiated embryo chondrocyte 1(DEC1) 
+and its isoform, DEC2. Stra13/DEC1 and DEC2 are bHLH homodimeric transcription
+repressors. We found that both Stra13 and DEC2 inhibit SREBP-1c-induced
+transcription by competing with SREBP-1c for binding to the E-box in the SREBP-1c
+promoter and/or by interacting with SREBP-1c protein. DEC2 is instantly and
+temporarily induced in acute hypoxia, while Stra13 is induced in prolonged
+hypoxia. This expression profile reflects the finding that Stra13 represses DEC2,
+thus maintains low level of DEC2 in prolonged hypoxia. DEC2-siRNA restores the
+hypoxic repression but Stra13-siRNA fails to do so, suggesting that DEC2 is the
+major initiator of hypoxic repression of SREBP-1c, whereas Stra13 substitutes for
+DEC2 in prolonged hypoxia. Our findings imply that Stra13 and DEC2 are the
+mediators to repress SREBP-1c gene in response to hypoxia. By doing so, HIF and
+its targets, Stra13 and DEC2 reduce the ATP consuming anabolic lipogenesis prior 
+to the actual decrease of ATP acting as a feed-forward mechanism.
+
+PMCID: PMC2582599
+PMID: 18838394  [PubMed - indexed for MEDLINE]
+
+
+34. Am J Physiol Endocrinol Metab. 2008 Nov;295(5):E1032-7. doi:
+10.1152/ajpendo.90510.2008. Epub 2008 Aug 26.
+
+Relationship between AMPK and the transcriptional balance of clock-related genes 
+in skeletal muscle.
+
+Vieira E(1), Nilsson EC, Nerstedt A, Ormestad M, Long YC, Garcia-Roves PM,
+Zierath JR, Mahlapuu M.
+
+Author information: 
+(1)Department of Molecular Medicine and Surgery, Karolinska Institutet,
+Stockholm, Sweden.
+
+Circadian clocks coordinate physiological, behavioral, and biochemical events
+with predictable daily environmental changes by a self-sustained transcriptional 
+feedback loop. CLOCK and ARNTL are transcriptional activators that regulate Per
+and Cry gene expression. PER and CRY inhibit their own transcription, and their
+turnover allows this cycle to restart. The transcription factors BHLHB2 and
+BHLHB3 repress Per activation, whereas orphan nuclear receptors of the NR1D and
+ROR families control Arntl expression. Here we show the AMP-activated protein
+kinase (AMPK)gamma(3) subunit is involved in the regulation of peripheral
+circadian clock function. AMPKgamma3 knockout (Prkag3(-/-)) mice or wild-type
+littermates were injected with saline or an AMPK activator,
+5-amino-4-imidazole-carboxamide riboside (AICAR), and white glycolytic
+gastrocnemius muscle was removed for gene expression analysis. Genes involved in 
+the regulation of circadian rhythms (Cry2, Nr1d1, and Bhlhb2) were differentially
+regulated in response to AICAR in wild-type mice but remained unaltered in
+Prkag3(-/-) mice. Basal expression of Per1 was higher in Prkag3(-/-) mice
+compared with wild-type mice. Distinct diurnal changes in the respiratory
+exchange ratio (RER) between the light and dark phase of the day were observed in
+wild-type mice but not Prkag3(-/-) mice. In summary, the expression profile of
+clock-related genes in skeletal muscle in response to AICAR, as well as the
+diurnal shift in energy utilization, is impaired in AMPKgamma(3) subunit knockout
+mice. Our results indicate AMPK heterotrimeric complexes containing the
+AMPKgamma(3) subunit may play a specific role in linking circadian oscillators
+and energy metabolism in skeletal muscle.
+
+PMID: 18728219  [PubMed - indexed for MEDLINE]
+
+
+35. PLoS One. 2008 Jul 23;3(7):e2762. doi: 10.1371/journal.pone.0002762.
+
+Disturbed clockwork resetting in Sharp-1 and Sharp-2 single and double mutant
+mice.
+
+Rossner MJ(1), Oster H, Wichert SP, Reinecke L, Wehr MC, Reinecke J, Eichele G,
+Taneja R, Nave KA.
+
+Author information: 
+(1)Max-Planck-Institute of Experimental Medicine, Göttingen, Germany.
+rossner@em.mpg.de
+
+BACKGROUND: The circadian system provides the basis to anticipate and cope with
+daily recurrent challenges to maintain the organisms' homeostasis.
+De-synchronization of circadian feedback oscillators in humans causes 'jet lag', 
+likely contributes to sleep-, psychiatric-, metabolic disorders and even cancer. 
+However, the molecular mechanisms leading to the disintegration of
+tissue-specific clocks are complex and not well understood.
+METHODOLOGY/PRINCIPAL FINDINGS: Based on their circadian expression and cell
+culture experiments, the basic Helix-Loop-Helix (bHLH) transcription factors
+SHARP-1(Dec2) and SHARP-2(Stra13/Dec1) were proposed as novel negative regulators
+of the molecular clock. To address their function in vivo, we generated Sharp-1
+and Sharp-2 single and double mutant mice. Our experiments reveal critical roles 
+for both factors in regulating period length, tissue-specific control of clock
+gene expression and entrainment to external cues. Light-pulse experiments and
+rapid delays of the light-dark cycle (experimental jet lag) unravel complementary
+functions for SHARP-1 and SHARP-2 in controlling activity phase resetting
+kinetics. Moreover, we show that SHARP-1 and 2 can serve dual functions as
+repressors and co-activators of mammalian clock gene expression in a
+context-specific manner. This correlates with increased amplitudes of Per2
+expression in the cortex and liver and a decrease in the suprachiasmatic nucleus 
+(SCN) of double mutant mice.
+CONCLUSIONS/SIGNIFICANCE: The existence of separate mechanisms regulating phase
+of entrainment, rhythm amplitude and period length has been postulated before.
+The differential effects of Sharp-deficiency on rhythmicity and behavioral
+re-entrainment, coupled to tissue-dependent regulatory functions, provide a new
+mechanistic basis to further understand the complex process of clock
+synchronizations.
+
+PMCID: PMC2447179
+PMID: 18648504  [PubMed - indexed for MEDLINE]
+
+
+36. Biochem Biophys Res Commun. 2008 May 16;369(4):1184-9. doi:
+10.1016/j.bbrc.2008.03.009. Epub 2008 Mar 13.
+
+Altered Stra13 and Dec2 circadian gene expression in hypoxic cells.
+
+Guillaumond F(1), Lacoche S, Dulong S, Grechez-Cassiau A, Filipski E, Li XM, Lévi
+F, Berra E, Delaunay F, Teboul M.
+
+Author information: 
+(1)Université de Nice-Sophia Antipolis, CNRS FRE3094, 28 Av. Valrose, 06108 Nice,
+France.
+
+The circadian system regulates rhythmically most of the mammalian physiology in
+synchrony with the environmental light/dark cycle. Alteration of circadian clock 
+gene expression has been associated with tumour progression but the molecular
+links between the two mechanisms remain poorly defined. Here we show that Stra13 
+and Dec2, two circadian transcriptional regulators which play a crucial role in
+cell proliferation and apoptosis are overexpressed and no longer rhythmic in
+serum shocked fibroblasts treated with CoCl(2,) a substitute of hypoxia. This
+effect is associated with a loss of circadian expression of the clock genes
+Rev-erbalpha and Bmal1, and the clock-controlled gene Dbp. Consistently,
+cotransfection assays demonstrate that STRA13 and DEC2 both antagonize
+CLOCK:BMAL1 dependent transactivation of the Rev-erbalpha and Dbp promoters.
+Using a transplantable osteosarcoma tumour model, we show that hypoxia is
+associated with altered circadian expression of Stra13, Dec2, Rev-erbalpha, Bmal1
+and Dbp in vivo. These observations collectively support the notion that
+overexpression of Stra13 and Dec2 links hypoxia signalling to altered circadian
+clock gene expression.
+
+PMID: 18342625  [PubMed - indexed for MEDLINE]
+
+
+37. Genes Cells. 2008 Feb;13(2):131-44. doi: 10.1111/j.1365-2443.2007.01153.x.
+
+Basic-helix-loop-helix (bHLH) transcription factor DEC2 negatively regulates
+vascular endothelial growth factor expression.
+
+Sato F(1), Bhawal UK, Kawamoto T, Fujimoto K, Imaizumi T, Imanaka T, Kondo J,
+Koyanagi S, Noshiro M, Yoshida H, Kusumi T, Kato Y, Kijima H.
+
+Author information: 
+(1)Department of Pathology, Hirosaki University School of Medicine, Hirosaki
+036-8562, Japan. fsato@cc.hirosaki-u.ac.jp
+
+DEC1 (BHLHB2/Sharp2/Stra13) and DEC2 (BHLHB3/Sharp1) are basic-helix-loop-helix
+(bHLH) transcription factors, involved in cellular differentiation, responses to 
+hypoxia and circadian rhythms. We recently showed that the expression of DEC1 and
+DEC2 was up-regulated by hypoxia; however, the functions of these two factors
+under hypoxic conditions have not been elucidated in detail. It is well
+established that the expression of vascular endothelial growth factor (VEGF) is
+up-regulated by hypoxia, and the expression of VEGF in response to hypoxia
+depends on transcriptional activation by a heterodimer comprising
+hypoxia-inducible factor 1alpha (HIF-1alpha) and arylhydrocarbon receptor nuclear
+translocator 1 (ARNT1). In the present study, we showed that DEC2, but not DEC1, 
+suppressed VEGF gene expression under hypoxic conditions. DEC2 protein was
+co-immunoprecipitated with HIF-1alpha but not with ARNT1. The binding of
+HIF-1alpha to the hypoxia response element (HRE) in the VEGF promoter was
+decreased by DEC2 over-expression, and increased by DEC2 knockdown. We also
+showed that the circadian expression of VEGF showed a reciprocal pattern to that 
+of DEC2 in cartilage. DEC2 had a circadian oscillation in implanted Sarcoma 180
+cells. We conclude that DEC2 negatively regulates VEGF expression and plays an
+important role in the pathological conditions in which VEGF is involved.
+
+PMID: 18233956  [PubMed - indexed for MEDLINE]
+
+
+38. Am J Med Genet B Neuropsychiatr Genet. 2008 Oct 5;147B(7):1047-55. doi:
+10.1002/ajmg.b.30714.
+
+Clock genes may influence bipolar disorder susceptibility and dysfunctional
+circadian rhythm.
+
+Shi J(1), Wittke-Thompson JK, Badner JA, Hattori E, Potash JB, Willour VL,
+McMahon FJ, Gershon ES, Liu C.
+
+Author information: 
+(1)Department of Psychiatry, University of Chicago, Chicago, Illinois 60637, USA.
+
+Several previous studies suggest that dysfunction of circadian rhythms may
+increase susceptibility to bipolar disorder (BP). We conducted an association
+study of five circadian genes (CRY2, PER1-3, and TIMELESS) in a family collection
+of 36 trios and 79 quads (Sample I), and 10 circadian genes (ARNTL, ARNTL2,
+BHLHB2, BHLHB3, CLOCK, CRY1, CSNK1D, CSNK1E, DBP, and NR1D1) in an extended
+family collection of 70 trios and 237 quads (Sample II), which includes the same 
+114 families but not necessarily the same individuals as Sample I. In Sample II, 
+the Sibling-Transmission Disequilibrium Test (sib-tdt) analysis showed nominally 
+significant association of BP with three SNPs within or near the CLOCK gene
+(rs534654, P = 0.0097; rs6850524, P = 0.012; rs4340844, P = 0.015). In addition, 
+SNPs in the ARNTL2, CLOCK, DBP, and TIMELESS genes and haplotypes in the ARNTL,
+CLOCK, CSNK1E, and TIMELESS genes showed suggestive evidence of association with 
+several circadian phenotypes identified in BP patients. However, none of these
+associations reached gene-wide or experiment-wide significance after correction
+for multiple-testing. A multi-locus interaction between rs6442925 in the 5'
+upstream of BHLHB2, rs1534891 in CSNK1E, and rs534654 near the 3' end of the
+CLOCK gene, however, is significantly associated with BP (P = 0.00000172). It
+remains significant after correcting for multiple testing using the False
+Discovery Rate method. Our results indicate an interaction between three
+circadian genes in susceptibility to bipolar disorder.
+
+PMCID: PMC2574897
+PMID: 18228528  [PubMed - indexed for MEDLINE]
+
+
+39. Oncogene. 2008 Jun 12;27(26):3761-4. doi: 10.1038/sj.onc.1211038. Epub 2008 Jan
+28.
+
+BHLHB3: a candidate tumor suppressor in lung cancer.
+
+Falvella FS(1), Colombo F, Spinola M, Campiglio M, Pastorino U, Dragani TA.
+
+Author information: 
+(1)Department of Experimental Oncology and Laboratories, Fondazione IRCCS
+Istituto Nazionale Tumori, Milan, Italy.
+
+BHLHB3 is a basic helix-loop-helix (bHLH) domain-containing protein that acts as 
+a transcriptional repressor. We found that BHLHB3 transcript levels were low in
+three human lung cancer cell lines and downregulated in human lung
+adenocarcinomas as compared to normal lung tissue. BHLHB3 gene overexpression
+inhibited colony formation of A549, NCI-H520 and NCI-H596 lung cancer cells. The 
+reduced colony growth was likely due to inhibition of cell proliferation as
+suggested by the downregulation of cyclin D1 (CCND1) expression in NCI-H520 cells
+transfected to overexpress the BHLHB3 gene; no evidence of apoptosis was
+observed. These results point to the potential role of the BHLHB3 protein as a
+tumor suppressor for lung cancer.
+
+PMID: 18223678  [PubMed - indexed for MEDLINE]
+
+
+40. Int J Oncol. 2007 Aug;31(2):461-6.
+
+Integrative genomic analyses on HES/HEY family: Notch-independent HES1, HES3
+transcription in undifferentiated ES cells, and Notch-dependent HES1, HES5, HEY1,
+HEY2, HEYL transcription in fetal tissues, adult tissues, or cancer.
+
+Katoh M(1), Katoh M.
+
+Author information: 
+(1)M&M Medical BioInformatics, Hongo 113-0033, Japan. mkatoh-kkr@umin.ac.jp
+
+Notch signaling pathway maintains stem cells through transcriptional activation
+of HES/HEY family members to repress tissue-specific transcription factors. Here,
+comparative integromic analyses on HES/HEY family members were carried out. HES3 
+gene encodes two isoforms due to alternative promoters. Complete coding sequence 
+of HES3 variant 2 was determined by curating CX755241.1 EST. Refined phylogenetic
+analysis using HES3 variant 2 instead of variant 1 revealed that mammalian bHLH
+transcription factors with Orange domain were grouped into HES subfamily (HES1,
+HES2, HES3, HES4, HES5, HES6, HES7) and HEY subfamily (HEY1, HEY2, HEYL,
+HESL/HELT, DEC1/BHLHB2, DEC2/BHLHB3). Eight amino-acid residues were added to the
+C-terminal WRPW motif in human HES3 due to lineage specific T to G nucleotide
+change at stop codon of chimpanzee, rat, and mouse HES3 orthologs. HES1 and HES3 
+were expressed in undifferentiated embryonic stem (ES) cells. HES1 was also
+expressed in fetal tissues, and regenerating liver. HES1, HEY1 and HEY2 were
+expressed in endothelial cells. HES1, HES4 and HES6 were expressed in gastric
+cancer, HES1 and DEC1 in pancreatic cancer, HES1, HES2, HES4, HES6 and DEC2 in
+colorectal cancer. HES6 was also expressed in other tumors, such as brain tumors,
+melanoma, small cell lung cancer, retinoblastoma, ovarian cancer, and breast
+cancer. Double NANOG-binding sites, CSL/RBPSUH-binding site and TATA-box in HES1 
+promoter, NANOG-, SOX2-, POU5F1/OCT3/OCT4-binding sites and TATA-box in HES3
+promoter, double CSL-binding sites in HES5 promoter, SOX2-, POU-binding sites and
+TATA-box in HES6 promoter, and CSL-binding site in HEY1, HEY2 and HEYL promoters 
+were evolutionarily conserved. However, double CSL-binding sites in mouse Hes7
+promoter were not conserved in human HES7 promoter. Together these facts indicate
+that HES1 and HES3 were target genes of the ES cell-specific network of
+transcription factors, and that HES1, HES5, HEY1, HEY2 and HEYL were target genes
+of Notch signaling pathway.
+
+PMID: 17611704  [PubMed - indexed for MEDLINE]
+
+
+41. Int J Mol Med. 2007 Jun;19(6):925-32.
+
+Transcriptional repression by the basic helix-loop-helix protein Dec2: multiple
+mechanisms through E-box elements.
+
+Fujimoto K(1), Hamaguchi H, Hashiba T, Nakamura T, Kawamoto T, Sato F, Noshiro M,
+Bhawal UK, Suardita K, Kato Y.
+
+Author information: 
+(1)Department of Dental and Medical Biochemistry, Hiroshima University Graduate
+School of Biomedical Sciences, Hiroshima 734-8553, Japan.
+
+Dec2, a member of the basic helix-loop-helix (bHLH) superfamily, has been shown
+to function as a transcriptional repressor and is implicated in cell
+proliferation and differentiation. In addition, Dec2 transcripts exhibit a
+striking circadian oscillation in the suprachiasmatic nucleus. To identify the
+molecular mechanisms by which Dec2 regulates gene expression, we carried out
+structure-function analyses. Gel retardation and luciferase assays showed that
+Dec2, as well as its related protein Dec1, preferentially binds to class B E-box 
+elements (CACGTG) as a homodimer and represses the transcription of target genes 
+in a histone deacetylase (HDAC)-dependent manner. Functional studies with the
+GAL4-DNA binding domain fusion proteins identified the domain responsible for the
+repression activity of Dec2 in its C-terminal region, which is also necessary to 
+recruit HDAC1. In addition, the basic and HLH domains of Dec2 were required for
+DNA binding and homodimerization, respectively. In contrast, Dec proteins
+repressed a MyoD-activated promoter activity of muscle creatine kinase gene
+through class A E-box in an HDAC1-independent manner. Dec2 formed a heterodimer
+with MyoD through the basic and HLH domains. Consistent with this, both the basic
+and HLH domains were required for the ability of Dec2 to inhibit the
+transcriptional activity of MyoD. These findings indicate that Dec2 employs
+multiple mechanisms, including DNA-binding and protein-protein interactions, to
+achieve E-box-dependent transcriptional repressions.
+
+PMID: 17487425  [PubMed - indexed for MEDLINE]
+
+
+42. Chronobiol Int. 2007;24(2):195-213.
+
+Molecular circadian rhythms in central and peripheral clocks in mammals.
+
+Dardente H(1), Cermakian N.
+
+Author information: 
+(1)Douglas Hospital Research Centre, Department of Psychiatry, McGill University,
+Montreal, QC, Canada.
+
+The last decade has seen tremendous progress in our understanding of the
+organization and function of the circadian clock. A number of so-called clock
+genes were discovered, and these genes and their protein products were shown to
+organize into feedback loops to give a near 24 h rhythmicity. However, the
+mechanism is much more complicated. First, many new clock components have been
+identified, increasing both our understanding and the overall complexity of the
+mechanism. Second, there is now evidence that transcription may not play a
+central role in determining the functioning of the clock: the identification of
+post-translational modifications of the clock proteins has revealed new levels of
+control. Finally, chromatin remodeling seems to be crucial in the regulation of
+the expression of major clock components. This review describes the recent
+advances in our knowledge of the molecular clockwork in mammals; in particular,
+the contribution of new clock components and of post-transcriptional and
+post-translational events to circadian timekeeping are discussed.
+
+PMID: 17453843  [PubMed - indexed for MEDLINE]
+
+
+43. Lung Cancer. 2007 Apr;56(1):1-7. Epub 2006 Dec 27.
+
+Common polymorphisms in D12S1034 flanking genes RASSF8 and BHLHB3 are not
+associated with lung adenocarcinoma risk.
+
+Falvella FS(1), Spinola M, Manenti G, Conti B, Pastorino U, Skaug V, Haugen A,
+Dragani TA.
+
+Author information: 
+(1)Department of Experimental Oncology and Laboratories, Istituto Nazionale
+Tumori, Via G. Venezian 1, 20133 Milan, Italy.
+
+The reported association between D12S1034 and lung adenocarcinoma (ADCA) risk
+[Yanagitani N, Kohno T, Sunaga N, et al. Localization of a human lung
+adenocarcinoma susceptibility locus, possibly syntenic to the mouse Pas1 locus,
+in the vicinity of the D12S1034 locus on chromosome 12p11.2-p12.1.
+Carcinogenesis. 2002;23:1177-83] prompted us to carry out a case-control study in
+lung ADCA and healthy control subjects to test possible involvement of
+single-nucleotide polymorphisms (SNPs) in D12S1034 flanking genes RASSF8 and
+BHLHB3, whose minimal distances from D12S1034 are approximately 16-24 kb. RASSF8 
+contains a RAS-associated domain and is a candidate tumor suppressor, whereas
+BHLHB3 is a basic helix-loop-helix domain-containing protein that functions as a 
+transcriptional repressor. We observed no significant association between common 
+SNPs in RASSF8 (rs1546550 in the 3'-UTR and 3 intronic SNPs) and BHLHB3
+(Ala298Val and rs1048155 in the 3'-UTR) with lung ADCA risk. However, patient
+groups carrying one or two copies of the BHLHB3 Val298 variation (i.e., Ala/Val
+or Val/Val genotypes) had a higher proportion of short-term survivors (hazard
+ratio, 1.8; 95% confidence interval, 1.2-2.7) compared with those carrying the
+Ala/Ala genotype. A replication study in an independent Norwegian lung cancer
+population of multiple cancer histotypes failed to replicate the significant
+association of BHLHB3 Ala298Val with survival; such association, however, was
+confirmed by analysis of ADCA only from both populations. Our results suggest
+that BHLHB3 variants may affect lung ADCA prognosis.
+
+PMID: 17194498  [PubMed - indexed for MEDLINE]
+
+
+44. Int J Mol Med. 2006 Jun;17(6):1053-6.
+
+57Arg in the bHLH transcription factor DEC2 is essential for the suppression of
+CLOCK/BMAL2-mediated transactivation.
+
+Kondo J(1), Sato F, Fujimoto K, Kusumi T, Imanaka T, Kawamoto T, Uk B, Noshiro M,
+Kato Y, Sato T, Kijima H.
+
+Author information: 
+(1)Department of Pathology, Hirosaki University School of Medicine, Japan.
+
+The basic helix-loop-helix (bHLH) transcription factors, DEC2 and DEC1, play
+critical roles in the circadian rhythm of the suprachiasmatic nucleus (SCN). It
+is known that mammalian circadian rhythms are regulated by molecular clockwork
+systems based on a negative-feedback loop, and CLOCK/BMAL1 and CLOCK/BMAL2
+enhance DEC2 transcription via CACGTG E-boxes. To understand the role of arginine
+57 ((57)Arg) within the basic region of DEC2, we examined the effect of
+substituting this residue into DEC2 on CLOCK/BMAL2-mediated transactivation. A
+luciferase assay showed that substituting (57)Arg for Ala or Lys in DEC2
+diminished the suppressive activity of wild-type DEC2 on CLOCK/ BMAL2-mediated
+transactivation, while substituting (48)Pro for Ala in DEC2 did not alter it, and
+the same was true for wild-type DEC2. We also showed that proteins which were
+wild-type and substitution mutants of DEC2 were expressed at nearly equivalent
+levels by Western blotting. These findings demonstrate that (57)Arg in the basic 
+region of DEC2 is essential for its activity in suppressing CLOCK/BMAL2-mediated 
+transactivation.
+
+PMID: 16685415  [PubMed - indexed for MEDLINE]
+
+
+45. Immunol Rev. 2006 Apr;210:86-104.
+
+Microarray-based understanding of normal and malignant plasma cells.
+
+De Vos J(1), Hose D, Rème T, Tarte K, Moreaux J, Mahtouk K, Jourdan M,
+Goldschmidt H, Rossi JF, Cremer FW, Klein B.
+
+Author information: 
+(1)IRB, CHU Montpellier, Montpellier, France.
+
+Plasma cells (PCs) develop from B lymphocytes following stimulation by antigen
+and express a genetic program aimed at the synthesis of immunoglobulins. This
+program includes the induction of genes coding for transcription factors such as 
+PRDM1, X-box-binding protein 1 and BHLHB3, cell-surface molecules such as
+CD138/syndecan-1, and for the unfolded protein response. We review how the
+microarray technology has recently contributed to the understanding of the
+biology of this rare but essential cell population and its transformation into
+premalignant and malignant PCs.
+
+PMCID: PMC1955683
+PMID: 16623766  [PubMed - indexed for MEDLINE]
+
+
+46. J Dent Res. 2005 Dec;84(12):1193-7.
+
+Clock gene expression in the submandibular glands.
+
+Furukawa M(1), Kawamoto T, Noshiro M, Honda KK, Sakai M, Fujimoto K, Honma S,
+Honma K, Hamada T, Kato Y.
+
+Author information: 
+(1)Department of Dental and Medical Biochemistry, Hiroshima University Graduate
+School of Biomedical Sciences, Hiroshima 734-8553, Japan.
+
+Clock genes, which mediate molecular circadian rhythms, are expressed in a
+circadian fashion in the suprachiasmatic nucleus and in various peripheral
+tissues. To establish a molecular basis for circadian regulation in the salivary 
+glands, we examined expression profiles of clock-related genes and salivary
+gland-characteristic genes. Clock-related genes-including Per1, Per2, Cry1,
+Bmal1, Dec1, Dec2, Dbp, and Reverbalpha-showed robust circadian expression
+rhythms in the submandibular glands in 12:12-hour light-dark conditions. In
+addition, a robust circadian rhythm was observed in amylase 1 mRNA levels,
+whereas the expression of other salivary-gland-characteristic genes examined was 
+not rhythmic. The Clock mutation resulted in increased or decreased mRNA levels
+of Per2, Bmal1, Dec1, Dec2, and Dbp, and in Cry1-/- background, Cry2 disruption
+also increased or decreased mRNA levels of these clock-related genes and the
+amylase 1 gene. These findings indicate that the Clock- and Cry-dependent
+molecular clock system is active in the salivary glands.
+
+PMID: 16304453  [PubMed - indexed for MEDLINE]
+
+
+47. J Biol Rhythms. 2005 Oct;20(5):404-18.
+
+Tissue-specific disruption of rhythmic expression of Dec1 and Dec2 in clock
+mutant mice.
+
+Noshiro M(1), Furukawa M, Honma S, Kawamoto T, Hamada T, Honma K, Kato Y.
+
+Author information: 
+(1)Department of Dental and Medical Biochemistry, Hiroshima University Graduate
+School of Biomedical Sciences, Hiroshima, Japan. noshiro@hiroshima-u.ac.jp
+
+DEC1 and DEC2-basic helix-loop-helix transcription factors-exhibit a circadian
+expression in the suprachiasmatic nucleus and other peripheral tissues and seem
+to play roles in regulating the mammalian circadian rhythm by suppressing the
+CLOCK/BMAL1-activated promoters of Per1, Dec1, and Dec2. The authors present data
+on the expression patterns of mRNA for Dec1, Dec2, Per2, Dbp, and Npas2 in
+various tissues of wild-type and homozygous Clock mutant mice (Clock/Clock). The 
+Clock mutation resulted in extreme reduction of Dec1 expression in kidney, heart,
+and skeletal muscle but not in liver, whereas it strongly repressed Dec2
+expression in liver, kidney, and heart, while Dec2 expression in skeletal muscle 
+remained rhythmic. Per2 also showed the tissue-dependent disruption of the
+rhythmicity by Clock mutation, whereas rhythmic expression of Dbp in Clock mutant
+mice disappeared in all tissues examined. Npas2, a structurally and functionally 
+related gene to Clock, showed significant levels of expression in the liver and
+kidney with a robust rhythmicity, which was also affected by Clock mutation.
+These marked changes in the Dec1 and Dec2 expression, as well as in the Per2,
+Dbp, and Npas2 expression in the periphery by Clock mutation, indicated that
+CLOCK plays a major role in the expression of these genes in most tissues.
+However, circadian expression of Dec1 in liver and kidney and that of Dec2 in
+skeletal muscle of Clock mutant mice suggested that CLOCK-independent circadian
+regulation operates in some tissues.
+
+PMID: 16267380  [PubMed - indexed for MEDLINE]
+
+
+48. Front Biosci. 2005 Sep 1;10:3151-71.
+
+Basic helix-loop-helix transcription factors, BHLHB2 and BHLHB3; their gene
+expressions are regulated by multiple extracellular stimuli.
+
+Yamada K(1), Miyamoto K.
+
+Author information: 
+(1)Department of Biochemistry, Faculty of Medical Sciences, University of Fukui, 
+Japan. kazuya@fmsrsa.fukui-med.ac.jp
+
+The E box sequence (5'-CANNTG-3') is found in the transcriptional regulatory
+region of a number of genes. Of the basic helix-loop-helix (bHLH) proteins
+binding to the E box sequence, class B of bHLH proteins, BHLHB2 (also referred to
+as the DEC1/Eip1/SHARP-2/Stra13/Clast5) and BHLHB3 (also referred to as the
+DEC2/SHARP-1/SHARP1), are transcription factors that contain a unique orange
+domain. These transcription factors repress the transcription of target genes not
+only via binding to the E box sequence but also via protein-protein interactions 
+with other transcription factors. Both the BHLHB2 and BHLHB3 genes are widely
+expressed in both embryonic and adult tissues. Their gene expressions are
+regulated in a cell type-specific manner by various extracellular stimuli, such
+as growth factors, serum starvation, hypoxia, hormones, nutrient, cytokines,
+light, and infection. Therefore, these transcription factors play pivotal roles
+in multiple signaling pathways that impact many biological processes including
+development, cell differentiation, cell growth, cell death, oncogenesis, immune
+systems, circadian rhythm, and homeostasis. The structural features, functions,
+and biological roles of the novel bHLH transcription factors, BHLHB2 and BHLHB3, 
+are discussed along with the mechanisms in which the genes encoding these factors
+are regulated.
+
+PMID: 15970569  [PubMed - indexed for MEDLINE]
+
+
+49. J Biol Chem. 2004 Dec 10;279(50):52643-52. Epub 2004 Sep 22.
+
+Sharp-1/DEC2 inhibits skeletal muscle differentiation through repression of
+myogenic transcription factors.
+
+Azmi S(1), Ozog A, Taneja R.
+
+Author information: 
+(1)Brookdale Department of Molecular, Cell, and Developmental Biology, Mount
+Sinai School of Medicine, New York, New York 10029-6574, USA.
+
+Skeletal muscle differentiation is regulated by the basic-helix-loop-helix (bHLH)
+family of transcription factors. The myogenic bHLH factors form heterodimers with
+the ubiquitously expressed bHLH E-proteins and bind E-box (CANNTG) sites present 
+in the promoters of several muscle-specific genes. Our previous studies have
+shown that the bHLH factor Sharp-1 is expressed in skeletal muscle and interacts 
+with MyoD and E-proteins. However, its role in regulation of myogenic
+differentiation remains unknown. We report here that endogenous Sharp-1 is
+expressed in proliferating C2C12 myoblasts and is down-regulated during myogenic 
+differentiation. Constitutive expression of Sharp-1 in C2C12 myoblasts promotes
+cell cycle exit causing a decrease in cyclin D1 expression but blocks terminal
+differentiation. Although MyoD expression is not inhibited, the induction of
+differentiation-specific genes such as myogenin, MEF2C, and myosin heavy chain is
+impaired by Sharp-1 overexpression. We demonstrate that the interaction of
+Sharp-1 with MyoD and E-proteins results in reduced DNA binding and
+transactivation from MyoD-dependent E-box sites. Re-expression of MyoD
+approximately E47 rescues the differentiation defect imposed by Sharp-1,
+suggesting that myogenic bHLH factors function downstream of Sharp-1. Our data
+suggest that protein-protein interactions between Sharp-1, MyoD, and E47
+resulting in interference with MyoD function underlies Sharp-1-mediated
+repression of myogenic differentiation.
+
+PMID: 15448136  [PubMed - indexed for MEDLINE]
+
+
+50. Int J Mol Med. 2004 Oct;14(4):747-51.
+
+Identification and characterization of human HESL, rat Hesl and rainbow trout
+hesl genes in silico.
+
+Katoh M(1), Katoh M.
+
+Author information: 
+(1)M&M Medical BioInformatics, Narashino 275-0022, Japan. mkatoh@ncc.go.jp
+
+Activation of Notch signaling pathway leads to nuclear translocation of Notch
+intracellular domain (NIC), and transcriptional activation of target genes
+through the interaction between CSL proteins (RBPSUH or RBPSUHL) and NIC. HES1,
+HES5, HEY1 and HEY2 are Notch target genes. Mammalian HES/HEY family proteins as 
+well as Drosophila Hairy and Enhancer of split are implicated in the cell fate
+determination. We have previously identified and characterized human HES2, HES3
+and HES5 genes. Here, we identified and characterized human HES-like (HESL), rat 
+Fesl, and rainbow trout fesl genes by using bioinformatics. Human HESL gene,
+located within AC093824.3 genome sequence, was mapped to human chromosome 4q35.1 
+between ACSL1 and SLC25A4 genes. Rat Fesl gene, located within AC111303.4 genome 
+sequence, was mapped to rat chromosome 16q11. EST BX875070.2 was the
+representative rainbow trout fesl cDNA. HESL-ACSL1 locus was conserved among
+human, rat, mouse, and zebrafish genomes. Human HESL (241 aa) showed 92.9%
+total-amino-acid identity with rat Hesl (240 aa), 92.1% total-amino-acid identity
+with mouse Hesl (240 aa), and 68.0% total-amino-acid identity with rainbow trout 
+hesl (235 aa). HESL orthologs consist of basic Helix-loop-helix (bHLH) domain and
+ORANGE domain. C-terminal region of HESL orthologs were divergent from that of
+HES, HEY, and DEC homologs. Phylogenetic analyses revealed that bHLH
+transcription factors with ORANGE domain were classified into the following three
+groups: (group I) HES1, HES2, HES4 and HES6 orthologs; (group II) HESL, HES5,
+HES7, HEY1, HEY2 and HEYL orthologs; (group III) HES3, DEC1/BHLHB2 and
+DEC2/BHLHB3 orthologs.
+
+PMID: 15375612  [PubMed - indexed for MEDLINE]
+
+
+51. Biochem J. 2004 Sep 15;382(Pt 3):895-904.
+
+DNA binding, but not interaction with Bmal1, is responsible for DEC1-mediated
+transcription regulation of the circadian gene mPer1.
+
+Li Y(1), Song X, Ma Y, Liu J, Yang D, Yan B.
+
+Author information: 
+(1)Department of Biomedical Sciences, University of Rhode Island, Kingston, RI
+02881, USA.
+
+DEC1 (differentially expressed in chondrocytes 1) and DEC2 are E-box-binding
+transcription factors and exhibit a circadian expression pattern. Recently, both 
+proteins were found to repress the Clock/Bmal1-activated E-box promoters (e.g.
+mPer1). Yeast two-hybrid assay detected interactions between Bmal1 and DECs. It
+was hypothesized that DEC-mediated repression on the mPer1 promoter is achieved
+by binding to E-box elements and interacting with Bmal1. In the present study, we
+report that E-box binding rather than Bmal1 interaction is responsible for the
+observed repression. In the absence of Clock/Bmal1, both DEC1 and DEC2 markedly
+repressed the mPer1 promoter reporter; however, DNA-binding mutants showed no
+repressive activity. Similarly, DEC1, but not its DNA-binding mutants, repressed 
+the Clock/Bmal1-induced activation. In addition, DEC1(R58P), a DNA-binding mutant
+with Bmal1 interactivity, repressed neither the mPer1 reporter directly nor the
+Clock/Bmal1-induced activation, providing direct evidence that DNA binding,
+rather than Bmal1 interactions, is responsible for the repression on the mPer1
+promoter. Furthermore, disruption of the Sp1 site in the proximal promoter of
+mPer1 increased the repression of DEC1 proteins. Previous studies with mouse DEC2
+showed that this factor interacts with Sp1. These findings suggest that DEC
+proteins regulate the expression of mPer1 through E-box binding and Sp1
+interaction. Alterations on circadian systems are increasingly recognized as
+important risk factors for disease initiation and progression, and the expression
+of Dec genes is rapidly induced by environmental stimuli and is highly increased 
+in tumour tissues. Therefore de-regulated expression of DEC genes probably alters
+normal circadian rhythms and contributes significantly to the pathogenesis of
+many diseases including cancer.
+
+PMCID: PMC1133965
+PMID: 15193144  [PubMed - indexed for MEDLINE]
+
+
+52. Biochem J. 2004 Aug 15;382(Pt 1):43-50.
+
+Expression of the gene for Dec2, a basic helix-loop-helix transcription factor,
+is regulated by a molecular clock system.
+
+Hamaguchi H(1), Fujimoto K, Kawamoto T, Noshiro M, Maemura K, Takeda N, Nagai R, 
+Furukawa M, Honma S, Honma K, Kurihara H, Kato Y.
+
+Author information: 
+(1)Department of Dental and Medical Biochemistry, Graduate School of Biomedical
+Sciences, Hiroshima University, 1-2-3 Kasumi, Minami-ku, Hiroshima 734-8553,
+Japan.
+
+Dec2, a member of the basic helix-loop-helix superfamily, is a recently confirmed
+regulatory protein for the clockwork system. Transcripts of Dec2, as well as
+those of its related gene Dec1, exhibit a striking circadian oscillation in the
+suprachiasmatic nucleus, and Dec2 inhibits transcription from the Per1 promoter
+induced by Clock/Bmal1 [Honma, Kawamoto, Takagi, Fujimoto, Sato, Noshiro, Kato
+and Honma (2002) Nature (London) 419, 841-844]. It is known that mammalian
+circadian rhythms are controlled by molecular clockwork systems based on
+negative-feedback loop(s), but the molecular mechanisms for the circadian
+regulation of Dec2 gene expression have not been clarified. We show here that
+transcription of the Dec2 gene is regulated by several clock molecules and a
+negative-feedback loop. Luciferase and gel retardation assays showed that
+expression of Dec2 was negatively regulated by binding of Dec2 or Dec1 to two
+CACGTG E-boxes in the Dec2 promoter. Forced expression of Clock/Bmal1 and
+Clock/Bmal2 markedly increased Dec2 mRNA levels, and up-regulated the
+transcription of the Dec2 gene through the CACGTG E-boxes. Like Dec, Cry and Per 
+also suppressed Clock/Bmal-induced transcription from the Dec2 promoter.
+Moreover, the circadian expression of Dec2 transcripts was abolished in the
+kidney of Clock/Clock mutant mice. These findings suggest that the Clock/Bmal
+heterodimer enhances Dec2 transcription via the CACGTG E-boxes, whereas the
+induced transcription is suppressed by Dec2, which therefore must contribute to
+its own rhythmic expression. In addition, Cry and Per may also modulate Dec2
+transcription.
+
+PMCID: PMC1133913
+PMID: 15147242  [PubMed - indexed for MEDLINE]
+
+
+53. J Biol Rhythms. 2004 Apr;19(2):126-34.
+
+Dec1 and Dec2 expression is disrupted in the suprachiasmatic nuclei of Clock
+mutant mice.
+
+Butler MP(1), Honma S, Fukumoto T, Kawamoto T, Fujimoto K, Noshiro M, Kato Y,
+Honma K.
+
+Author information: 
+(1)Department of Physiology, Hokkaido University Graduate School of Medicine,
+Sapporo 060-8638, Japan.
+
+DEC1 and DEC2 are basic helix-loop-helix transcription factors that functionally 
+resemble negative feedback components of the mammalian circadian clock. The genes
+Dec1 and Dec2 are expressed rhythmically in the rat suprachiasmatic nuclei, and
+Dec1 expression is stimulated by light in a time-dependent manner with the
+kinetics of an immediate early gene. DEC1 and DEC2 can inhibit CLOCK:BMAL1
+transactivation of the clock gene Per1, suggesting that these transcription
+factors may help regulate circadian timing. The authors present data on the
+expression pattern of Dec1 and Dec2 in wild-type and homozygous Clock mutant
+mice. In the suprachiasmatic nuclei, the Clock mutation significantly reduces the
+expression of Dec1 and Dec2. Dec1 becomes arrhythmic; Dec2 remains weakly
+rhythmic in a 12L:12D light-dark cycle but is arrhythmic in constant darkness. A 
+robust attenuation of the Dec1 and Dec2 signals in Clock mutant mice was detected
+in all brain areas examined. These data point to up-regulation of Dec1 and Dec2
+by Clock in vivo.
+
+PMID: 15038852  [PubMed - indexed for MEDLINE]
+
+
+54. J Biol Chem. 2003 May 30;278(22):20098-109. Epub 2003 Mar 25.
+
+mSharp-1/DEC2, a basic helix-loop-helix protein functions as a transcriptional
+repressor of E box activity and Stra13 expression.
+
+Azmi S(1), Sun H, Ozog A, Taneja R.
+
+Author information: 
+(1)Brookdale Department of Molecular, Cell and Developmental Biology, Mount Sinai
+School of Medicine, New York, New York 10029-6574, USA.
+
+Transcription factors belonging to the basic helix-loop-helix (bHLH) family play 
+critical roles in the regulation of cellular differentiation of distinct cell
+types. In this study, we have characterized the DNA-binding and transcriptional
+properties of the bHLH factor mSharp-1/DEC2. mSharp-1 belongs to the
+Hairy/Enhancer of Split subfamily of bHLH factors and exhibits the highest
+structural and sequence identity with Stra13. We show that mSharp-1 specifically 
+binds to the E box motif (CANNTG) as a homodimer and acts as a potent
+transcriptional repressor of MyoD- and E12-induced E box activity and
+differentiation. The inhibitory activity of mSharp-1 occurs through several
+mechanisms including occupancy of E box sites by mSharp-1 homodimers and by
+direct physical interaction with MyoD and E proteins. Furthermore, by using gel
+mobility shift assays and chromatin immunoprecipitation experiments, we have
+identified Stra13 as a target for mSharp-1-mediated repression. We demonstrate
+that transcriptional repression of Stra13 depends, in part, on binding of
+mSharp-1 to three conserved E box motifs in the Stra13 proximal promoter.
+Moreover, mSharp-1 directly interacts with the transcriptional activator Sp1 and 
+impairs Sp1 induction of Stra13 promoter. Our results suggest that mSharp-1
+functions as a transcriptional repressor by DNA binding dependent and independent
+mechanisms.
+
+PMID: 12657651  [PubMed - indexed for MEDLINE]
+
+
+55. Neuroreport. 2002 Dec 20;13(18):2385-8.
+
+Neuronal injury affects expression of helix-loop-helix transcription factors.
+
+Kabos P(1), Kabosova A, Neuman T.
+
+Author information: 
+(1)Department of Surgery, Maxine Dunitz Neurosurgical Institute, CSMC Burns and
+Allen Research Institute, Cedars Sinai Medical Center, UCLA School of medicine,
+8700 Beverly Boulevard, Los Angeles, CA 90048, USA. kabosp@cshs.org
+
+Helix-loop-helix transcription (HLH) factors regulate several stages of neuronal 
+development including differentiation of individual populations of neurons and
+neurite growth. Here we demonstrate that axonal injury of corticospinal and
+dorsal root ganglion neurons induces changes in the expression of several HLH
+transcription factors that function as negative regulators of neurogenesis and
+neurite outgrowth. However, the expression of HLH transcription factors that
+stimulate neurogenesis is not affected by the axonal injury. Expression of HES,
+SHARP and Id family members is suppressed shortly after axonal injury and
+expression returns to normal levels after 14 days. We hypothesize that
+down-regulation of these HLH transcription factors is required for initiation of 
+regenerative response to axonal injury.
+
+PMID: 12499834  [PubMed - indexed for MEDLINE]
+
+
+56. Nature. 2002 Oct 24;419(6909):841-4.
+
+Dec1 and Dec2 are regulators of the mammalian molecular clock.
+
+Honma S(1), Kawamoto T, Takagi Y, Fujimoto K, Sato F, Noshiro M, Kato Y, Honma K.
+
+Author information: 
+(1)Department of Physiology, Hokkaido University Graduate School of Medicine,
+Sapporo 060-8638, Japan.
+
+Comment in
+    Nature. 2002 Oct 24;419(6909):798-9.
+
+The circadian rhythms in mammals are regulated by a pacemaker located in the
+suprachiasmatic nucleus of the hypothalamus. Four clock-gene families have been
+found to be involved in a transcription-translation feedback loop that generates 
+the circadian rhythm at the intracellular level. The proteins Clock and Bmal1
+form a heterodimer which activates the transcription of the Per gene from the
+E-box elements in its promoter region. Protein products of Per act together with 
+Cry proteins to inhibit Per transcription, thus closing the autoregulatory
+feedback loop. We found that Dec1 and Dec2, basic helix-loop-helix transcription 
+factors, repressed Clock/Bmal1-induced transactivation of the mouse Per1 promoter
+through direct protein-protein interactions with Bmal1 and/or competition for
+E-box elements. Dec1 and Dec2 are expressed in the suprachiasmic nucleus in a
+circadian fashion, with a peak in the subjective day. A brief light pulse induced
+Dec1 but not Dec2 expression in the suprachiasmic nucleus in a phase-dependent
+manner. Dec1 and Dec2 are regulators of the mammalian molecular clock, and form a
+fifth clock-gene family.
+
+PMID: 12397359  [PubMed - indexed for MEDLINE]
+
+
+57. EMBO J. 2002 Oct 15;21(20):5417-26.
+
+SHARP is a novel component of the Notch/RBP-Jkappa signalling pathway.
+
+Oswald F(1), Kostezka U, Astrahantseff K, Bourteele S, Dillinger K, Zechner U,
+Ludwig L, Wilda M, Hameister H, Knöchel W, Liptay S, Schmid RM.
+
+Author information: 
+(1)Department of Internal Medicine and Pediatrics, University of Ulm,
+Robert-Koch-Strasse 8, D-89081 Ulm, Germany.
+
+Notch proteins are the receptors for an evolutionarily highly conserved
+signalling pathway that regulates numerous cell fate decisions during
+development. Signal transduction involves the presenilin-dependent intracellular 
+processing of Notch and nuclear translocation of the intracellular domain of
+Notch, Notch-IC. Notch-IC associates with the DNA-binding protein
+RBP-Jkappa/CBF-1 to activate transcription of Notch target genes. In the absence 
+of Notch signalling, RBP-Jkappa/CBF-1 acts as a transcriptional repressor through
+the recruitment of histone deacetylase (HDAC) corepressor complexes. We
+identified SHARP as an RBP-Jkappa/CBF-1-interacting corepressor in a yeast
+two-hybrid screen. In cotransfection experiments, SHARP-mediated repression was
+sensitive to the HDAC inhibitor TSA and facilitated by SKIP, a highly conserved
+SMRT and RBP-Jkappa-interacting protein. SHARP repressed Hairy/Enhancer of split 
+(HES)-1 promoter activity, inhibited Notch-1-mediated transactivation and rescued
+Notch-1-induced inhibition of primary neurogenesis in Xenopus laevis embryos.
+Based on our data, we propose a model in which SHARP is a novel component of the 
+HDAC corepressor complex, recruited by RBP-Jkappa to repress transcription of
+target genes in the absence of activated Notch.
+
+PMCID: PMC129081
+PMID: 12374742  [PubMed - indexed for MEDLINE]
+
+
+58. Mech Dev. 2002 Jun;114(1-2):181-5.
+
+Embryonic expression of mSharp-1/mDEC2, which encodes a basic helix-loop-helix
+transcription factor.
+
+Azmi S(1), Taneja R.
+
+Author information: 
+(1)Department of Biochemisty and Molecular Biology, Mount Sinai School of
+Medicine, Box 1020, One Gustave L. Levy Place, New York, NY 10029-6574, USA.
+
+We describe the expression pattern of mouse Sharp-1 (mSharp-1), a member of the
+basic helix-loop-helix (bHLH) family of transcription factors. mSharp-1 belongs
+to the Hairy/Enhancer of Split (E(Spl)) subfamily of bHLH factors that are key
+targets of the Notch signaling pathway and exhibits the highest sequence identity
+with Stra13. RNA in situ hybridization analysis from embryonic day 7.5 (E7.5) to 
+E16.5 revealed specific expression of mSharp-1 in several developing organs
+during mouse embryogenesis. In early stage embryos (E8.5-E12.5), mSharp-1 is
+expressed in specific dorsal regions of the developing brain, the heart, the
+developing eye and olfactory system, as well as in the limb buds. At later stages
+(E12.5-E16.5), mSharp-1 is also expressed in the liver, prevertebrae, and the
+developing adrenal and thyroid glands. The diversity of its expression pattern
+suggests that mSharp-1 may regulate the differentiation of several cell types
+during vertebrate development.
+
+Copyright 2002 Elsevier Science Ireland Ltd.
+
+PMID: 12175508  [PubMed - indexed for MEDLINE]
+
+
+59. J Biol Chem. 2001 May 4;276(18):14821-8. Epub 2001 Feb 5.
+
+The basic helix-loop-helix protein, sharp-1, represses transcription by a histone
+deacetylase-dependent and histone deacetylase-independent mechanism.
+
+Garriga-Canut M(1), Roopra A, Buckley NJ.
+
+Author information: 
+(1)Schools of Biochemistry and Molecular Biology and Biomedical Sciences, Faculty
+of Biological Sciences, University of Leeds, Leeds LS2 9JT, United Kingdom.
+
+Many aspects of neurogenesis and neuronal differentiation are controlled by basic
+helix-loop-helix (bHLH) proteins. One such factor is SHARP-1, initially
+identified on the basis of its sequence similarity to hairy. Unlike hairy, and
+atypically for bHLHs, SHARP-1 is expressed late in development, suggestive of a
+role in terminal aspects of differentiation. Nevertheless, the role of SHARP-1
+and the identity of its target genes remain unknown. During the course of a
+one-hybrid screen for transcription factors that bind to regulatory domains of
+the M1 muscarinic acetylcholine receptor gene, we isolated the bHLH transcription
+factor SHARP-1. In this study, we investigated the functional role of SHARP-1 in 
+regulating transcription. Fusion proteins of SHARP-1 tethered to the gal4 DNA
+binding domain repress both basal and activated transcription when recruited to
+either a TATA-containing or a TATAless promoter. Furthermore, we identified two
+independent repression domains that operate via distinct mechanisms. Repression
+by a domain in the C terminus is sensitive to the histone deacetylase inhibitor
+trichostatin A, whereas repression by the bHLH domain is insensitive to TSA.
+Furthermore, overexpression of SHARP-1 represses transcription from the M(1)
+promoter. This study represents the first report to assign a function to, and to 
+identify a target gene for, the bHLH transcription factor SHARP-1.
+
+PMID: 11278948  [PubMed - indexed for MEDLINE]
+
+
+60. Biochem Biophys Res Commun. 2001 Jan 12;280(1):164-71.
+
+Molecular cloning and characterization of DEC2, a new member of basic
+helix-loop-helix proteins.
+
+Fujimoto K(1), Shen M, Noshiro M, Matsubara K, Shingu S, Honda K, Yoshida E,
+Suardita K, Matsuda Y, Kato Y.
+
+Author information: 
+(1)Department of Biochemistry, Hiroshima University School of Dentistry, 1-2-3
+Kasumi, Minami-ku, Hiroshima 734-8553, Japan.
+
+DEC1 is a basic helix-loop-helix (bHLH) protein related to Drosophila Hairy,
+Enhancer of split and HES, and involved in the control of proliferation and/or
+differentiation of chondrocytes, neurons, etc. We report here the identification 
+and characterization of human, mouse and rat DEC2, a novel member of the DEC
+subfamily. DEC2 had high (97%) and moderate (52%) similarities in the bHLH region
+and the Orange domain with DEC1, respectively. However, DEC2, but not DEC1, had
+alanine and glycine-rich regions in the C-terminal half. Unlike Hairy, Enhancer
+of split and HES, DEC2 lacked the WRPW motif for interaction with the corepressor
+Groucho. The DEC2 gene was mapped to human chromosome 12p11.23-p12.1, mouse
+chromosome 6 G2-G3 and rat chromosome 4q43 distal-q4, where the conserved linkage
+homology has been identified among these species. Unlike DEC1, which was broadly 
+expressed in many tissues, DEC2 showed a more restricted pattern of mRNA
+expression. The DEC subfamily proteins may play an important role in tissue
+development.
+
+Copyright 2001 Academic Press.
+
+PMID: 11162494  [PubMed - indexed for MEDLINE]
+
+
+61. Mol Cell Neurosci. 1997;10(3-4):460-75.
+
+SHARPs: mammalian enhancer-of-split- and hairy-related proteins coupled to
+neuronal stimulation.
+
+Rossner MJ(1), Dörr J, Gass P, Schwab MH, Nave KA.
+
+Author information: 
+(1)Zentrum für Molekulare Biologie (ZMBH), Universität Heidelberg, Germany.
+
+Corrected and republished from
+    Mol Cell Neurosci. 1997;9(5-6):460-75.
+
+In the mammalian central nervous system, a diverse group of basic
+helix-loop-helix (bHLH) proteins is involved in the determination of progenitor
+cells and, subsequently, in regulating neuronal differentiation. Here we report
+the identification of a novel subfamily of bHLH proteins, defined by two
+mammalian enhancer-of-split- and hairy-related proteins, termed SHARP-1 and
+SHARP-2. In contrast to known bHLH genes, detectable transcription of SHARP genes
+begins at the end of embryonic development marking differentiated neurons that
+have reached a final position, and increases as postnatal development proceeds.
+In the adult, SHARP genes are expressed in subregions of the CNS that have been
+associated with adult plasticity. In PC12 cells, a model system to study neurite 
+outgrowth, SHARP genes can be induced by NGF with the kinetics of an
+immediate-early gene. Similarly, within 1 h after the administration of kalnic
+acid in vivo, SHARP-2 is induced in neurons throughout the rat cerebral cortex.
+This suggests that neuronal bHLH proteins are also involved in the "adaptive"
+changes of mature CNS neurons which are coupled to glutamatergic stimulation.
+
+PMID: 9532582  [PubMed - indexed for MEDLINE]
+
+
+62. Mol Cell Neurosci. 1997;9(5-6):460-75.
+
+SHARPs: mammalian enhancer-of-split- and hairy-related proteins coupled to
+neuronal stimulation.
+
+Rossner MJ(1), Dörr J, Gass P, Schwab MH, Nave KA.
+
+Author information: 
+(1)Zentrum für Molekulare Biologie (ZMBH), Universität Heidelberg, Germany.
+
+Corrected and republished in
+    Mol Cell Neurosci. 1997;10(3-4):460-75.
+
+In the mammalian central nervous system, a diverse group of basic
+helix-loop-helix (bHLH) proteins is involved in the determination of progenitor
+cells and, subsequently, in regulating neuronal differentiation. Here we report
+the identification of a novel subfamily of bHLH proteins, defined by two
+mammalian enhancer-of-split- and hairy-related proteins, termed SHARP-1 and
+SHARP-2. In contrast to known bHLH genes, detectable transcription of SHARP genes
+begins at the end of embryonic development marking differentiated neurons that
+have reached a final position, and increases as postnatal development proceeds.
+In the adult, SHARP genes are expressed in subregions of the CNS that have been
+associated with adult plasticity. In PC12 cells, a model system to study neurite 
+outgrowth, SHARP genes can be induced by NGF with the kinetics of an
+immediate-early gene. Similarly, within 1 h after the administration of kainic
+acid in vivo, SHARP-2 is induced in neurons throughout the rat cerebral cortex.
+This suggests that neuronal bHLH proteins are also involved in the "adaptive"
+changes of mature CNS neurons which are coupled to glutamatergic stimulation.
+
+PMID: 9361282  [PubMed - indexed for MEDLINE]
+
+

@@ -1,0 +1,2627 @@
+
+61. Nucleic Acids Res. 2008 Jun;36(10):3214-25. doi: 10.1093/nar/gkn148. Epub 2008
+Apr 16.
+
+An ultraconserved Hox-Pbx responsive element resides in the coding sequence of
+Hoxa2 and is active in rhombomere 4.
+
+Lampe X(1), Samad OA, Guiguen A, Matis C, Remacle S, Picard JJ, Rijli FM,
+Rezsohazy R.
+
+Author information: 
+(1)Unit of Developmental Genetics, Université Catholique de Louvain, 1200
+Brussels, Belgium, Institut de Génétique et de Biologie Moléculaire et
+Cellulaire, UMR 7104 CNRS/INSERM/ULP, Collège de France, BP 10142-CU de
+Strasbourg, 67404 Illkirch Cedex, France.
+
+The Hoxa2 gene has a fundamental role in vertebrate craniofacial and hindbrain
+patterning. Segmental control of Hoxa2 expression is crucial to its function and 
+several studies have highlighted transcriptional regulatory elements governing
+its activity in distinct rhombomeres. Here, we identify a putative Hox-Pbx
+responsive cis-regulatory sequence, which resides in the coding sequence of Hoxa2
+and is an important component of Hoxa2 regulation in rhombomere (r) 4. By using
+cell transfection and chromatin immunoprecipitation (ChIP) assays, we show that
+this regulatory sequence is responsive to paralogue group 1 and 2 Hox proteins
+and to their Pbx co-factors. Importantly, we also show that the Hox-Pbx element
+cooperates with a previously reported Hoxa2 r4 intronic enhancer and that its
+integrity is required to drive specific reporter gene expression in r4 upon
+electroporation in the chick embryo hindbrain. Thus, both intronic as well as
+exonic regulatory sequences are involved in Hoxa2 segmental regulation in the
+developing r4. Finally, we found that the Hox-Pbx exonic element is embedded in a
+larger 205-bp long ultraconserved genomic element (UCE) shared by all vertebrate 
+genomes. In this respect, our data further support the idea that extreme
+conservation of UCE sequences may be the result of multiple superposed functional
+and evolutionary constraints.
+
+PMCID: PMC2425489
+PMID: 18417536  [PubMed - indexed for MEDLINE]
+
+
+62. Am J Hum Genet. 2008 Apr;82(4):982-91. doi: 10.1016/j.ajhg.2008.02.015.
+
+A mutation in HOXA2 is responsible for autosomal-recessive microtia in an Iranian
+family.
+
+Alasti F(1), Sadeghi A, Sanati MH, Farhadi M, Stollar E, Somers T, Van Camp G.
+
+Author information: 
+(1)Department of Medical Genetics, University of Antwerp, 2610 Antwerp, Belgium.
+
+Erratum in
+    Am J Hum Genet. 2008 Sep;83(3):424.
+
+Microtia, a congenital deformity manifesting as an abnormally shaped or absent
+external ear, occurs in one out of 8,000-10,000 births. We ascertained a
+consanguineous Iranian family segregating with autosomal-recessive bilateral
+microtia, mixed symmetrical severe to profound hearing impairment, and partial
+cleft palate. Genome-wide linkage analysis localized the responsible gene to
+chromosome 7p14.3-p15.3 with a maximum multi-point LOD score of 4.17. In this
+region, homeobox genes from the HOXA cluster were the most interesting
+candidates. Subsequent DNA sequence analysis of the HOXA1 and HOXA2 homeobox
+genes from the candidate region identified an interesting HOXA2 homeodomain
+variant: a change in a highly conserved amino acid (p.Q186K). The variant was not
+found in 231 Iranian and 109 Belgian control samples. The critical contribution
+of HoxA2 for auditory-system development has already been shown in mouse models. 
+We built a homology model to predict the effect of this mutation on the structure
+and DNA-binding activity of the homeodomain by using the program Modeler 8v2. In 
+the model of the mutant homeodomain, the position of the mutant lysine side chain
+is consistently farther away from a nearby phosphate group; this altered position
+results in the loss of a hydrogen bond and affects the DNA-binding activity.
+
+PMCID: PMC2427268
+PMID: 18394579  [PubMed - indexed for MEDLINE]
+
+
+63. Cell Biol Int. 2008 Jun;32(6):671-8. doi: 10.1016/j.cellbi.2008.01.293. Epub 2008
+Feb 3.
+
+In vitro odontoblast-like cell differentiation of cranial neural crest cells
+induced by fibroblast growth factor 8 and dentin non-collagen proteins.
+
+Jiang HB(1), Tian WD, Liu LK, Xu Y.
+
+Author information: 
+(1)College of Stomatology, Nanjing Medical University, Nanjing, Jiangsu 210029,
+PR China. jhbtooth@yahoo.com.cn
+
+During tooth development, cranial neural crest (CNC) cells represent a population
+of pluripotent stem cells that give rise to various dental tissues. This study
+aimed to investigate whether CNC cells could differentiate into odontoblast-like 
+cells by in vitro induction. CNC cells were isolated from explants of cranial
+neural tubes and cultured in serum-free Dulbecco's modified Eagle's medium
+(DMEM)/F12 medium which contained fibroblast growth factor 8 (FGF8) and dentin
+non-collagen proteins (DNCP). The initiation of controlled differentiation was
+determined using histological assays, and the expression of specific gene
+phenotypes was detected using immunocytochemical staining and reverse
+transcription--polymerase chain reaction (RT--PCR). The first branchial arch
+phenotype of the CNC cells demonstrated negative Hoxa2 expression and positive
+vimentin expression in the presence of 100 ng/ml FGF8. Following DNCP induction, 
+the CNC cells became bipolar, demonstrated high alkaline phosphatase (ALP)
+activity, and formed mineralized nodules. In addition, the expression of DSPP,
+DMP1, and collagen type I confirmed the odontoblast phenotype. The results
+indicate that the tissue-specific cellular differentiation (odontoblast-like
+cells) of early-stage embryonic-derived cells (such as CNC cells) can be induced 
+by adult extracellular matrix proteins (such as DNCP). CNC cells may be used as a
+valuable cell model for research on dental tissue differentiation and
+regeneration.
+
+PMID: 18339562  [PubMed - indexed for MEDLINE]
+
+
+64. Development. 2008 Apr;135(8):1463-70. doi: 10.1242/dev.017624. Epub 2008 Mar 5.
+
+Six2 functions redundantly immediately downstream of Hoxa2.
+
+Kutejova E(1), Engist B, Self M, Oliver G, Kirilenko P, Bobola N.
+
+Author information: 
+(1)Department of Developmental Biology, Max-Planck Institute of Immunobiology,
+Freiburg, Germany.
+
+Hox transcription factors control morphogenesis along the head-tail axis of
+bilaterians. Because their direct functional targets are still poorly understood 
+in vertebrates, it remains unclear how the positional information encoded by Hox 
+genes is translated into morphogenetic changes. Here, we conclusively demonstrate
+that Six2 is a direct downstream target of Hoxa2 in vivo and show that the
+ectopic expression of Six2, observed in the absence of Hoxa2, contributes to the 
+Hoxa2 mouse mutant phenotype. We propose that Six2 acts to mediate Hoxa2 control 
+over the insulin-like growth factor pathway during branchial arch development.
+
+PMID: 18321982  [PubMed - indexed for MEDLINE]
+
+
+65. Dev Biol. 2008 Feb 1;314(1):171-88. doi: 10.1016/j.ydbio.2007.11.032. Epub 2007
+Dec 7.
+
+Altered neuronal lineages in the facial ganglia of Hoxa2 mutant mice.
+
+Yang X(1), Zhou Y, Barcarse EA, O'Gorman S.
+
+Author information: 
+(1)Department of Neurosciences, Case Western Reserve University, School of
+Medicine, 10900 Euclid Avenue, Cleveland, OH 44106, USA.
+
+Neurons of cranial sensory ganglia are derived from the neural crest and
+ectodermal placodes, but the mechanisms that control the relative contributions
+of each are not understood. Crest cells of the second branchial arch generate few
+facial ganglion neurons and no vestibuloacoustic ganglion neurons, but crest
+cells in other branchial arches generate many sensory neurons. Here we report
+that the facial ganglia of Hoxa2 mutant mice contain a large population of
+crest-derived neurons, suggesting that Hoxa2 normally represses the neurogenic
+potential of second arch crest cells. This may represent an anterior
+transformation of second arch neural crest cells toward a fate resembling that of
+first arch neural crest cells, which normally do not express Hoxa2 or any other
+Hox gene. We additionally found that overexpressing Hoxa2 in cultures of P19
+embryonal carcinoma cells reduced the frequency of spontaneous neuronal
+differentiation, but only in the presence of cotransfected Pbx and Meis Hox
+cofactors. Finally, expression of Hoxa2 and the cofactors in chick neural crest
+cells populating the trigeminal ganglion also reduced the frequency of
+neurogenesis in the intact embryo. These data suggest an unanticipated role for
+Hox genes in controlling the neurogenic potential of at least some cranial neural
+crest cells.
+
+PMID: 18164701  [PubMed - indexed for MEDLINE]
+
+
+66. Genes Dev. 2007 Dec 15;21(24):3369-80.
+
+PRMT6-mediated methylation of R2 in histone H3 antagonizes H3 K4 trimethylation.
+
+Hyllus D(1), Stein C, Schnabel K, Schiltz E, Imhof A, Dou Y, Hsieh J, Bauer UM.
+
+Author information: 
+(1)Institute of Molecular Biology and Tumor Research (IMT), Philipps-University
+of Marburg, 35032 Marburg, Germany.
+
+The arginine methyltransferase PRMT6 (protein arginine methyltransferase 6) has
+been shown recently to regulate DNA repair and gene expression. As arginine
+methylation of histones is an important mechanism in transcriptional regulation, 
+we asked whether PRMT6 possesses activity toward histones. We show here that
+PRMT6 methylates histone H3 at R2 and histones H4/H2A at R3 in vitro.
+Overexpression and knockdown analysis identify PRMT6 as the major H3 R2
+methyltransferase in vivo. We find that H3 R2 methylation inhibits H3 K4
+trimethylation and recruitment of WDR5, a subunit of the MLL (mixed lineage
+leukemia) K4 methyltransferase complex, to histone H3 in vitro. Upon PRMT6
+overexpression, transcription of Hox genes and Myc-dependent genes, both
+well-known targets of H3 K4 trimethylation, decreases. This transcriptional
+repression coincides with enhanced occurrence of H3 R2 methylation and PRMT6 as
+well as reduced levels of H3 K4 trimethylation and MLL1/WDR5 recruitment at the
+HoxA2 gene. Upon retinoic acid-induced transcriptional activation of HoxA2 in a
+cell model of neuronal differentiation, PRMT6 recruitment and H3 R2 methylation
+are diminished and H3 K4 trimethylation increases at the gene. Our findings
+identify PRMT6 as the mammalian methyltransferase for H3 R2 and establish the
+enzyme as a crucial negative regulator of H3 K4 trimethylation and
+transcriptional activation.
+
+PMCID: PMC2113036
+PMID: 18079182  [PubMed - indexed for MEDLINE]
+
+
+67. Dev Genes Evol. 2007 Dec;217(11-12):749-58. Epub 2007 Oct 9.
+
+Comparative analysis of Hox paralog group 2 gene expression during Nile tilapia
+(Oreochromis niloticus) embryonic development.
+
+Le Pabic P(1), Stellwag EJ, Brothers SN, Scemama JL.
+
+Author information: 
+(1)Department of Biology, East Carolina University, Howell Science Complex,
+Greenville, NC 27858, USA.
+
+The hindbrain and pharyngeal arch-derived structures of vertebrates are
+determined, at least in part, by Hox paralog group 2 genes. In sarcopterygians,
+the Hoxa2 gene alone appears to specify structures derived from the second
+pharyngeal arch (PA2), while in zebrafish (Danio rerio), either of the two Hox
+PG2 genes, hoxa2b or hoxb2a, can specify PA2-derived structures. We previously
+reported three Hox PG2 genes in striped bass (Morone saxatilis), including
+hoxa2a, hoxa2b, and hoxb2a and observed that only HoxA cluster genes are
+expressed in PA2, indicative that they function alone or together to specify PA2.
+In this paper, we present the cloning and expression analysis of Nile tilapia
+(Oreochromis niloticus) Hox PG2 genes and show that all three genes are expressed
+in the hindbrain and in PA2. The expression of hoxb2a in PA2 was unexpected given
+the close phylogenetic relationship of Nile tilapia and striped bass, both of
+which are members of the order Perciformes. A reanalysis of striped bass hoxb2a
+expression demonstrated that it is expressed in PA2 with nearly the same temporal
+and spatial expression pattern as its Nile tilapia ortholog. Further, we
+determined that Nile tilapia and striped bass hoxa2a orthologs are expressed in
+PA2 well beyond the onset of chondrogenesis whereas neither hoxa2b nor hoxb2a
+expression persist until this stage, which, according to previous hypotheses,
+suggests that hoxa2a orthologs in these two species function alone as selector
+genes of PA2 identity.
+
+PMID: 17924140  [PubMed - indexed for MEDLINE]
+
+
+68. Neural Dev. 2007 Sep 26;2:19.
+
+Distinct roles of Hoxa2 and Krox20 in the development of rhythmic neural networks
+controlling inspiratory depth, respiratory frequency, and jaw opening.
+
+Chatonnet F(1), Wrobel LJ, Mézières V, Pasqualetti M, Ducret S, Taillebourg E,
+Charnay P, Rijli FM, Champagnat J.
+
+Author information: 
+(1)NGI, UPR 2216, Institut de Neurobiologie Alfred Fessard IFR2218, Centre
+National de Recherche Scientifique, F-91198 Gif sur Yvette Cedex, France.
+Fabrice.Chatonnet@ens-lyon.org
+
+BACKGROUND: Little is known about the involvement of molecular determinants of
+segmental patterning of rhombomeres (r) in the development of rhythmic neural
+networks in the mouse hindbrain. Here, we compare the phenotypes of mice carrying
+targeted inactivations of Hoxa2, the only Hox gene expressed up to r2, and of
+Krox20, expressed in r3 and r5. We investigated the impact of such mutations on
+the neural circuits controlling jaw opening and breathing in newborn mice,
+compatible with Hoxa2-dependent trigeminal defects and direct regulation of Hoxa2
+by Krox20 in r3.
+RESULTS: We found that Hoxa2 mutants displayed an impaired oro-buccal reflex,
+similarly to Krox20 mutants. In contrast, while Krox20 is required for the
+development of the rhythm-promoting parafacial respiratory group (pFRG)
+modulating respiratory frequency, Hoxa2 inactivation did not affect neonatal
+breathing frequency. Instead, we found that Hoxa2-/- but not Krox20-/- mutation
+leads to the elimination of a transient control of the inspiratory amplitude
+normally occurring during the first hours following birth. Tracing of r2-specific
+progenies of Hoxa2 expressing cells indicated that the control of inspiratory
+activity resides in rostral pontine areas and required an intact r2-derived
+territory.
+CONCLUSION: Thus, inspiratory shaping and respiratory frequency are under the
+control of distinct Hox-dependent segmental cues in the mammalian brain.
+Moreover, these data point to the importance of rhombomere-specific genetic
+control in the development of modular neural networks in the mammalian hindbrain.
+
+PMCID: PMC2098766
+PMID: 17897445  [PubMed - indexed for MEDLINE]
+
+
+69. J Neurosci. 2007 Sep 5;27(36):9670-81.
+
+Fate-mapping the mammalian hindbrain: segmental origins of vestibular projection 
+neurons assessed using rhombomere-specific Hoxa2 enhancer elements in the mouse
+embryo.
+
+Pasqualetti M(1), Díaz C, Renaud JS, Rijli FM, Glover JC.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire, Centre
+National de la Recherche Scientifique/Inserm/Université Louis Pasteur, Unité
+Mixte de Recherche 7104, Commanaute Urbaine de Strasbourg, 67404 Illkirch Cedex, 
+France.
+
+As a step toward generating a fate map of identified neuron populations in the
+mammalian hindbrain, we assessed the contributions of individual rhombomeres to
+the vestibular nuclear complex, a major sensorimotor area that spans the entire
+rhombencephalon. Transgenic mice harboring either the lacZ or the enhanced green 
+fluorescent protein reporter genes under the transcriptional control of
+rhombomere-specific Hoxa2 enhancer elements were used to visualize
+rhombomere-derived domains. We labeled functionally identifiable vestibular
+projection neuron groups retrogradely with conjugated dextran-amines at
+successive embryonic stages and obtained developmental fate maps through direct
+comparison with the rhombomere-derived domains in the same embryos. The fate maps
+show that each vestibular neuron group derives from a unique rostrocaudal domain 
+that is relatively stable developmentally, suggesting that anteroposterior
+migration is not a major contributor to the rostrocaudal patterning of the
+vestibular system. Most of the groups are multisegmental in origin, and each
+rhombomere is fated to give rise to two or more vestibular projection neuron
+types, in a complex pattern that is not segmentally iterated. Comparison with
+studies in the chicken embryo shows that the rostrocaudal patterning of
+identified vestibular projection neuron groups is generally well conserved
+between avians and mammalians but that significant species-specific differences
+exist in the rostrocaudal limits of particular groups. This mammalian hindbrain
+fate map can be used as the basis for targeting genetic manipulation to specific 
+subpopulations of vestibular projection neurons.
+
+PMID: 17804628  [PubMed - indexed for MEDLINE]
+
+
+70. Int J Mol Med. 2007 Oct;20(4):621-9.
+
+Quantitative expression of the homeobox and integrin genes in human gastric
+carcinoma.
+
+Rossi Degl'Innocenti D(1), Castiglione F, Buccoliero AM, Bechi P, Taddei GL,
+Freschi G, Taddei A.
+
+Author information: 
+(1)Department of Human Pathology and Oncology, School of Medicine, University of 
+Florence, Florence, Italy. duccio.rossideglinnocenti@unifi.it
+
+The homeobox (HOX) genes are a large family of regulator genes involved in the
+control of developmental processes and cell differentiation. The HOX genes encode
+transcription factors, and an increasing number of studies have shown that these 
+genes may be implicated in the growth and the progression of many types of
+tumours. The present study investigated the expression of the HOX and integrin
+genes and their relationships in gastric carcinoma. We analyzed the RNA
+expression of 13 HOX genes from HOXA, C and D clusters and alphaV, alpha5 and
+alpha8 integrin genes in 24 gastric cancer samples by quantitative real-time PCR.
+The results showed that the HOXA2 gene and the alpha8 integrin gene had a lower
+expression in tumour samples than in normal gastric mucosas. The comparison
+between the HOX and integrin genes showed that HOXA2 and alphaV integrin
+expression presented the same trend in 83% of the samples. Moreover, in cancer
+samples that expressed the HOXD11 gene, the expression of alphaV integrin was
+lower with respect to normal mucosas. The different roles of HOX and integrin
+genes in gastric carcinoma remain to be fully elucidated. These findings suggest 
+that the HOX genes may play a critical role in the genesis, maintenance and
+diffusion of gastric carcinoma.
+
+PMID: 17786296  [PubMed - indexed for MEDLINE]
+
+
+71. Dev Dyn. 2007 Sep;236(9):2675-84.
+
+Identification of Lmo1 as part of a Hox-dependent regulatory network for
+hindbrain patterning.
+
+Matis C(1), Oury F, Remacle S, Lampe X, Gofflot F, Picard JJ, Rijli FM, Rezsohazy
+R.
+
+Author information: 
+(1)Unit of Developmental Genetics, Université Catholique de Louvain, Brussels,
+Belgium.
+
+The embryonic functions of Hox proteins have been extensively investigated in
+several animal phyla. These transcription factors act as selectors of
+developmental programmes, to govern the morphogenesis of multiple structures and 
+organs. However, despite the variety of morphogenetic processes Hox proteins are 
+involved in, only a limited set of their target genes has been identified so far.
+To find additional targets, we used a strategy based upon the simultaneous
+overexpression of Hoxa2 and its cofactors Pbx1 and Prep in a cellular model.
+Among genes whose expression was upregulated, we identified LMO1, which codes for
+an intertwining LIM-only factor involved in protein-DNA oligomeric complexes. By 
+analysing its expression in Hox knockout mice, we show that Lmo1 is
+differentially regulated by Hoxa2 and Hoxb2, in specific columns of hindbrain
+neuronal progenitors. These results suggest that Lmo1 takes part in a Hox
+paralogue 2-dependent network regulating anteroposterior and dorsoventral
+hindbrain patterning.
+
+(c) 2007 Wiley-Liss, Inc.
+
+PMID: 17676642  [PubMed - indexed for MEDLINE]
+
+
+72. Zhonghua Wei Chang Wai Ke Za Zhi. 2007 Jul;10(4):365-7.
+
+[Expression of 39 HOX genes in esophageal cancer cell lines].
+
+[Article in Chinese]
+
+Gu ZD(1), Chen XM, Zhang W, Gu J, Chen KN.
+
+Author information: 
+(1)Department of Thoracic Surgery, Peking University School of Oncology, Beijing 
+Cancer Hospital, Beijing Institute for Cancer Research, Beijing 100036, China.
+
+OBJECTIVE: To identify whether HOX genes can be used as markers of esophageal
+cancer.
+METHODS: The expression of 39 HOX genes in esophageal cancer cell lines was
+examined. Specific primers were designed and RT- PCR was performed for each HOX
+gene members in above esophageal cancer cell lines, EC109 and CAES.
+RESULTS: Fifteen out of 39 HOX genes were expressed in esophageal cancer cell
+lines. They were HOXA2, HOXA7, HOXA9, HOXA10, HOXA13, HOXB7, HOXB9, HOXC4, HOXC5,
+HOXC6, HOXC8, HOXC9, HOXD9, HOXD10, and HOXD13 respectively. Of them. Eleven
+genes were overlapped with the ones detected in human esophageal squamous cell
+carcinoma(ESCC) in our former study.
+CONCLUSION: This study reconfirms our former that some HOX genes are deregulated 
+expressed in ESCC, which provides more positive evidence for their roles in ESCC.
+
+PMID: 17659465  [PubMed - indexed for MEDLINE]
+
+
+73. Differentiation. 2007 Mar;75(3):256-67.
+
+Expression of Hoxa2 in cells entering chondrogenesis impairs overall cartilage
+development.
+
+Massip L(1), Ectors F, Deprez P, Maleki M, Behets C, Lengelé B, Delahaut P,
+Picard J, Rezsöhazy R.
+
+Author information: 
+(1)Developmental Genetics Unit, Université catholique de Louvain, Brussels,
+Belgium. rezsohazy@vete.ucl.ac.be
+
+Vertebrate Hox genes act as developmental architects by patterning embryonic
+structures like axial skeletal elements, limbs, brainstem territories, or neural 
+crest derivatives. While active during the patterning steps of development, these
+genes turn out to be down-regulated in specific differentiation programs like
+that leading to chondrogenesis. To investigate why chondrocyte differentiation is
+correlated to the silencing of a Hox gene, we generated transgenic mice allowing 
+Cre-mediated conditional misexpression of Hoxa2 and induced this gene in Collagen
+2 alpha 1-expressing cells committed to enter chondrogenesis. Persistent Hoxa2
+expression in chondrogenic cells resulted in overall chondrodysplasia with
+delayed cartilage hypertrophy, mineralization, and ossification but without
+proliferation defects. The absence of skeletal patterning anomaly and the regular
+migration of precursor cells indicated that the condensation step of
+chondrogenesis was normal. In contrast, closer examination at the differentiation
+step showed severely impaired chondrocyte differentiation. In addition, this
+inhibition affected structures independently of their embryonic origin. In
+conclusion, for the first time here, by a cell-type specific misexpression, we
+precisely uncoupled the patterning function of Hoxa2 from its involvement in
+regulating differentiation programs per se and demonstrate that Hoxa2 displays an
+anti-chondrogenic activity that is distinct from its patterning function.
+
+PMID: 17359301  [PubMed - indexed for MEDLINE]
+
+
+74. Med Sci (Paris). 2007 Mar;23(3):247-9.
+
+[Hoxa2: a key gene for the facial somatosensory map].
+
+[Article in French]
+
+Oury F, Rijli FM.
+
+PMID: 17349280  [PubMed - indexed for MEDLINE]
+
+
+75. Oncol Res. 2006;16(5):217-24.
+
+Aberrant expression of HOX genes in oral dysplasia and squamous cell carcinoma
+tissues.
+
+Hassan NM(1), Hamada J, Murai T, Seino A, Takahashi Y, Tada M, Zhang X,
+Kashiwazaki H, Yamazaki Y, Inoue N, Moriuchi T.
+
+Author information: 
+(1)Division of Cancer-Related Genes, Institute for Genetic Medicine, Hokkaido
+University, Sapporo, Japan.
+
+Human HOX genes consist of 39 genes and encode transcription factors that
+function as master developmental regulators. We hypothesized that the
+misexpression of HOX genes was associated with carcinogenesis and malignant
+progression. The expression levels of 39 HOX genes in 31 human oral squamous cell
+carcinoma (SCC), 11 dysplasia, and 10 normal mucosa tissues were quantified by
+the real-time RT-PCR method. The expression levels of 18 HOX genes in the SCC
+tissues were significantly higher than those in the normal mucosa tissues. The
+dysplasia tissues showed higher expression of HOXA2, A3, B3, and D10 than normal 
+mucosa tissues whereas they showed lower expression of HOXA1, B7, B9, and C8 than
+SCC. The SCC with lymph node metastasis showed high expression of HOXC6 compared 
+to the SCC without it. These results suggest that misexpressions of particular
+HOX genes are implicated in the development of oral dysplasia and SCC.
+
+PMID: 17294802  [PubMed - indexed for MEDLINE]
+
+
+76. FEBS Lett. 2007 Jan 9;581(1):1-7. Epub 2006 Dec 4.
+
+hnRNP-U enhances the expression of specific genes by stabilizing mRNA.
+
+Yugami M(1), Kabe Y, Yamaguchi Y, Wada T, Handa H.
+
+Author information: 
+(1)Graduate School of Bioscience and Biotechnology, Tokyo Institute of
+Technology, Yokohama, Kanagawa, Japan.
+
+Heterogeneous nuclear ribonucleoproteins (hnRNPs) are thought to be involved in
+pre-mRNA processing. hnRNP-U, also termed scaffold attachment factor A (SAF-A),
+binds to pre-mRNA and nuclear matrix/scaffold attachment region DNA elements.
+However, its role in the regulation of gene expression is as yet poorly
+understood. In the present study, we show that hnRNP-U specifically enhances the 
+expression of tumor necrosis factor alpha mRNA by increasing its stability,
+possibly through binding to the 3' untranslated region. We also show that hnRNP-U
+enhances the expression of several other genes as well, including GADD45A,
+HEXIM1, HOXA2, IER3, NHLH2, and ZFY, by binding to and stabilizing these mRNAs.
+These results suggest that hnRNP-U enhances the expression of specific genes by
+regulating mRNA stability.
+
+PMID: 17174306  [PubMed - indexed for MEDLINE]
+
+
+77. Dev Biol. 2007 Feb 15;302(2):646-60. Epub 2006 Oct 25.
+
+Expression of Hoxa2 in rhombomere 4 is regulated by a conserved cross-regulatory 
+mechanism dependent upon Hoxb1.
+
+Tümpel S(1), Cambronero F, Ferretti E, Blasi F, Wiedemann LM, Krumlauf R.
+
+Author information: 
+(1)Stowers Institute for Medical Research, 1000 E. 50th Street, Kansas City, MO
+64110, USA.
+
+The Hoxa2 gene is an important component of regulatory events during hindbrain
+segmentation and head development in vertebrates. In this study we have used
+sequenced comparisons of the Hoxa2 locus from 12 vertebrate species in
+combination with detailed regulatory analyses in mouse and chicken embryos to
+characterize the mechanistic basis for the regulation of Hoxa2 in rhombomere (r) 
+4. A highly conserved region in the Hoxa2 intron functions as an r4 enhancer. In 
+vitro binding studies demonstrate that within the conserved region three
+bipartite Hox/Pbx binding sites (PH1-PH3) in combination with a single binding
+site for Pbx-Prep/Meis (PM) heterodimers co-operate to regulate enhancer activity
+in r4. Mutational analysis reveals that these sites are required for activity of 
+the enhancer, suggesting that the r4 enhancer from Hoxa2 functions in vivo as a
+Hox-response module in combination with the Hox cofactors, Pbx and Prep/Meis.
+Furthermore, this r4 enhancer is capable of mediating a response to ectopic HOXB1
+expression in the hindbrain. These findings reveal that Hoxa2 is a target gene of
+Hoxb1 and permit us to develop a gene regulatory network for r4, whereby Hoxa2,
+along with Hoxb1, Hoxb2 and Hoxa1, is integrated into a series of auto- and
+cross-regulatory loops between Hox genes. These data highlight the important role
+played by direct cross-talk between Hox genes in regulating hindbrain patterning.
+
+PMID: 17113575  [PubMed - indexed for MEDLINE]
+
+
+78. Science. 2006 Sep 8;313(5792):1408-13. Epub 2006 Aug 10.
+
+Hoxa2- and rhombomere-dependent development of the mouse facial somatosensory
+map.
+
+Oury F(1), Murakami Y, Renaud JS, Pasqualetti M, Charnay P, Ren SY, Rijli FM.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/Université Louis Pasteur, UMR 7104, BP 10142, Communauté Urbaine de
+Strasbourg, 67404 Illkirch Cedex, France.
+
+In the mouse trigeminal pathway, sensory inputs from distinct facial structures, 
+such as whiskers or lower jaw and lip, are topographically mapped onto the
+somatosensory cortex through relay stations in the thalamus and hindbrain. In the
+developing hindbrain, the mechanisms generating such maps remain elusive. We
+found that in the principal sensory nucleus, the whisker-related map is
+contributed by rhombomere 3-derived neurons, whereas the rhombomere 2-derived
+progeny supply the lower jaw and lip representation. Moreover, early Hoxa2
+expression in neuroepithelium prevents the trigeminal nerve from ectopically
+projecting to the cerebellum, whereas late expression in the principal sensory
+nucleus promotes selective arborization of whisker-related afferents and
+topographic connectivity to the thalamus. Hoxa2 inactivation further results in
+the absence of whisker-related maps in the postnatal brain. Thus, Hoxa2- and
+rhombomere 3-dependent cues determine the whisker area map and are required for
+the assembly of the whisker-to-barrel somatosensory circuit.
+
+PMID: 16902088  [PubMed - indexed for MEDLINE]
+
+
+79. Gene Expr Patterns. 2007 Jan;7(1-2):137-42. Epub 2006 Jun 27.
+
+Gene expression in Xenopus laevis embryos after Triadimefon exposure.
+
+Papis E(1), Bernardini G, Gornati R, Menegola E, Prati M.
+
+Author information: 
+(1)Department of Biotechnology and Molecular Science, University of Insubria, via
+Dunant 3, 21100 Varese, Italy.
+
+The triazole derivative Triadimefon (FON) is a systemic fungicide used to control
+powdery mildews, rusts, and other fungal pests. Some data have already been
+published about the teratogenic activity of this compound: craniofacial
+malformations were found in mouse, rat, and Xenopus laevis embryos exposed to
+FON. These alterations were correlated to defective branchial arch development
+possibly caused by abnormal neural crest cell (NCC) migration into the branchial 
+mesenchyme. As the migration of NCCs is controlled by the HOX code and by an
+anteroposterior retinoic acid (RA) gradient, we analyzed the expression of CYP26,
+a key enzyme in RA metabolism, following FON exposure. The increased expression
+of this gene and the ability of citral (a RA inhibitor) to reduce the teratogenic
+effects of the fungicide support the notion that endogenous RA is involved in the
+mechanism of action of FON. Moreover, by in situ hybridization, we studied the
+effects of FON exposure at gastrula stage on the expression of some genes
+involved in craniofacial development, hindbrain patterning, and NCC migration. We
+observed abnormal localization of xCRABP, Hoxa2 and Xbap signal expression at the
+level of migrating NCC domains, whereas in the hindbrain, we did not find any
+alteration in Krox20 and Hoxa2 expression.
+
+PMID: 16875885  [PubMed - indexed for MEDLINE]
+
+
+80. Cell. 2006 Jun 2;125(5):971-86.
+
+SATB2 is a multifunctional determinant of craniofacial patterning and osteoblast 
+differentiation.
+
+Dobreva G(1), Chahrour M, Dautzenberg M, Chirivella L, Kanzler B, Fariñas I,
+Karsenty G, Grosschedl R.
+
+Author information: 
+(1)Max-Planck Institute of Immunobiology, Department of Cellular and Molecular
+Immunology, 79108 Freiburg, Germany.
+
+Comment in
+    Cell. 2006 Jun 2;125(5):840-2.
+
+Vertebrate skeletogenesis involves two processes, skeletal patterning and
+osteoblast differentiation. Here, we show that Satb2, encoding a nuclear matrix
+protein, is expressed in branchial arches and in cells of the osteoblast lineage.
+Satb2-/- mice exhibit both craniofacial abnormalities that resemble those
+observed in humans carrying a translocation in SATB2 and defects in osteoblast
+differentiation and function. Multiple osteoblast-specific genes were identified 
+as targets positively regulated by SATB2. In addition, SATB2 was found to repress
+the expression of several Hox genes including Hoxa2, an inhibitor of bone
+formation and regulator of branchial arch patterning. Molecular analysis revealed
+that SATB2 directly interacts with and enhances the activity of both Runx2 and
+ATF4, transcription factors that regulate osteoblast differentiation. This
+synergy was genetically confirmed by bone formation defects in Satb2/Runx2 and
+Satb2/Atf4 double heterozygous mice. Thus, SATB2 acts as a molecular node in a
+transcriptional network regulating skeletal development and osteoblast
+differentiation.
+
+PMID: 16751105  [PubMed - indexed for MEDLINE]
+
+
+81. Cell. 2006 Jun 2;125(5):840-2.
+
+Bone formation: The nuclear matrix reloaded.
+
+Ellies DL(1), Krumlauf R.
+
+Author information: 
+(1)Stowers Institute for Medical Research, 1000 50(th) Street, Kansas City, MO
+64110, USA.
+
+Comment on
+    Cell. 2006 Jun 2;125(5):971-86.
+
+In this issue of Cell, Grosschedl and colleagues (Dobreva et al., 2006) report
+that the nuclear matrix protein Satb2 represses Hoxa2 expression and acts with
+other regulatory proteins to promote osteoblast differentiation. This work
+suggests a molecular mechanism that enables the integration of patterning and
+differentiation during bone formation.
+
+PMID: 16751095  [PubMed - indexed for MEDLINE]
+
+
+82. Gene Expr Patterns. 2006 Oct;6(8):843-8. Epub 2006 Mar 6.
+
+Differential expression of hoxa2a and hoxa2b genes during striped bass embryonic 
+development.
+
+Scemama JL(1), Vernon JL, Stellwag EJ.
+
+Author information: 
+(1)Department of Biology, Howell Science Complex, East Carolina University,
+Greenville, NC 27858, USA. scemamaj@mail.ecu.edu
+
+Here, we report the cloning and expression analysis of two previously
+uncharacterized paralogs group 2 Hox genes, striped bass hoxa2a and hoxa2b, and
+the developmental regulatory gene egr2. We demonstrate that both Hox genes are
+expressed in the rhombomeres of the developing hindbrain and the pharyngeal
+arches albeit with different spatio-temporal distributions relative to one
+another. While both hoxa2a and hoxa2b share the r1/r2 anterior boundary of
+expression characteristic of the hoxa2 paralog genes of other species, hoxa2a
+gene expression extends throughout the hindbrain, whereas hoxa2b gene expression 
+is restricted to the r2-r5 region. Egr2, which is used in this study as an early 
+developmental marker of rhombomeres 3 and 5, is expressed in two distinct bands
+with a location and spacing typical for these two rhombomeres in other species.
+Within the pharyngeal arches, hoxa2a is expressed at higher levels in the second 
+pharyngeal arch, while hoxa2b is more strongly expressed in the posterior arches.
+Further, hoxa2b expression within the arches becomes undetectable at 60hpf, while
+hoxa2a expression is maintained at least up until the beginning of
+chondrogenesis. Comparison of the striped bass HoxA cluster paralog group 2 (PG2)
+genes to their orthologs and trans-orthologs shows that the striped bass hoxa2a
+gene expression pattern is similar to the overall expression pattern described
+for the hoxa2 genes in the lobe-finned fish lineage and for the hoxa2b gene from 
+zebrafish. It is notable that the pharyngeal arch expression pattern of the
+striped bass hoxa2a gene is more divergent from its sister paralog, hoxa2b, than 
+from the zebrafish hoxa2b gene. Overall, our results suggest that differences in 
+the Hox PG2 gene complement of striped bass and zebrafish affects both their
+rhombomeric and pharyngeal arch expression patterns and may account for the
+similarities in pharyngeal arch expression between striped bass hoxa2a and
+zebrafish hoxa2b.
+
+PMID: 16581310  [PubMed - indexed for MEDLINE]
+
+
+83. Proc Natl Acad Sci U S A. 2006 Apr 4;103(14):5419-24. Epub 2006 Mar 28.
+
+Evolution of cis elements in the differential expression of two Hoxa2
+coparalogous genes in pufferfish (Takifugu rubripes).
+
+Tümpel S(1), Cambronero F, Wiedemann LM, Krumlauf R.
+
+Author information: 
+(1)Stowers Institute for Medical Research, 1000 East 50th Street, Kansas City, MO
+64110, USA.
+
+Sequence divergence in cis-regulatory elements is an important mechanism
+contributing to functional diversity of genes during evolution. Gene duplication 
+and divergence provide an opportunity for selectively preserving initial
+functions and evolving new activities. Many vertebrates have 39 Hox genes
+organized into four clusters (Hoxa-Hoxd); however, some ray-finned fishes have
+extra Hox clusters. There is a single Hoxa2 gene in most vertebrates, whereas
+fugu (Takifugu rubripes) and medaka (Oryzias latipes) have two coparalogous genes
+[Hoxa2(a) and Hoxa2(b)]. In the hindbrain, both genes are expressed in rhombomere
+(r) 2, but only Hoxa2(b) is expressed in r3, r4, and r5. Multiple regulatory
+modules directing segmental expression of chicken and mouse Hoxa2 genes have been
+identified, and each module is composed of a series of discrete elements. We used
+these modules to investigate the basis of differential expression of duplicated
+Hoxa2 genes, as a model for understanding the divergence of cis-regulatory
+elements. Therefore, we cloned putative regulatory regions of the fugu and medaka
+Hoxa2(a) and -(b) genes and assayed their activity. We found that these modules
+direct reporter expression in a chicken assay, in a manner corresponding to their
+endogenous expression pattern in fugu. Although sequence comparisons reveal many 
+differences between the two coparalogous genes, specific subtle changes in seven 
+cis elements of the Hoxa2(a) gene restore segmental regulatory activity.
+Therefore, drift in subsets of the elements in the regulatory modules is
+responsible for the differential expression of the two coparalogous genes, thus
+providing insight into the evolution of cis elements.
+
+PMCID: PMC1459370
+PMID: 16569696  [PubMed - indexed for MEDLINE]
+
+
+84. J Anat. 2005 Nov;207(5):447-59.
+
+Patterning the neural crest derivatives during development of the vertebrate
+head: insights from avian studies.
+
+Creuzet S(1), Couly G, Le Douarin NM.
+
+Author information: 
+(1)Institut d'Embryologie Cellulaire et Moléculaire, Nogent-sur-Marne, France.
+
+Studies carried out in the avian embryo and based on the construction of
+quail-chick chimeras have shown that most of the skull and all the facial and
+visceral skeleton are derived from the cephalic neural crest (NC). Contribution
+of the mesoderm is limited to its occipital and (partly) to its otic domains. NC 
+cells (NCCs) participating in membrane bones and cartilages of the vertebrate
+head arise from the diencephalon (posterior half only), the mesencephalon and the
+rhombencephalon. They can be divided into an anterior domain (extending down to
+r2 included) in which genes of the Hox clusters are not expressed (Hox-negative
+skeletogenic NC) and a posterior domain including r4 to r8 in which Hox genes of 
+the four first paraloguous groups are expressed. The NCCs that form the facial
+skeleton belong exclusively to the anterior Hox-negative domain and develop from 
+the first branchial arch (BA1). This rostral domain of the crest is designated as
+FSNC for facial skeletogenic neural crest. Rhombomere 3 (r3) participates
+modestly to both BA1 and BA2. Forced expression of Hox genes (Hoxa2, Hoxa3 and
+Hoxb4) in the neural fold of the anterior domain inhibits facial skeleton
+development. Similarly, surgical excision of these anterior Hox-negative NCCs
+results in the absence of facial skeleton, showing that Hox-positive NCCs cannot 
+replace the Hox-negative domain for facial skeletogenesis. We also show that
+excision of the FSNC results in dramatic down-regulation of Fgf8 expression in
+the head, namely in ventral forebrain and in BA1 ectoderm. We have further
+demonstrated that exogenous FGF8 applied to the presumptive BA1 territory at the 
+5-6-somite stage (5-6ss) restores to a large extent facial skeleton development. 
+The source of the cells responsible for this regeneration was shown to be r3,
+which is at the limit between the Hox-positive and Hox-negative domain. NCCs that
+respond to FGF8 by survival and proliferation are in turn necessary for the
+expression/maintenance of Fgf8 expression in the ectoderm. These results strongly
+support the emerging picture according to which the processes underlying
+morphogenesis of the craniofacial skeleton are regulated by
+epithelial-mesenchymal bidirectional crosstalk.
+
+PMCID: PMC1571568
+PMID: 16313387  [PubMed - indexed for MEDLINE]
+
+
+85. Dev Dyn. 2005 Dec;234(4):858-67.
+
+Hoxa2 knockdown in Xenopus results in hyoid to mandibular homeosis.
+
+Baltzinger M(1), Ori M, Pasqualetti M, Nardi I, Rijli FM.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/ULP, Strasbourg, France.
+
+The skeletal structures of the face and throat are derived from cranial neural
+crest cells (NCCs) that migrate from the embryonic neural tube into a series of
+branchial arches (BAs). The first arch (BA1) gives rise to the upper and lower
+jaw cartilages, whereas hyoid structures are generated from the second arch
+(BA2). The Hox paralogue group 2 (PG2) genes, Hoxa2 and Hoxb2, show distinct
+roles for hyoid patterning in tetrapods and fishes. In the mouse, Hoxa2 acts as a
+selector of hyoid identity, while its paralogue Hoxb2 is not required. On the
+contrary, in zebrafish Hoxa2 and Hoxb2 are functionally redundant for hyoid arch 
+patterning. Here, we show that in Xenopus embryos morpholino-induced functional
+knockdown of Hoxa2 is sufficient to induce homeotic changes of the second arch
+cartilage. Moreover, Hoxb2 is downregulated in the BA2 of Xenopus embryos, even
+though initially expressed in second arch NCCs, similar to mouse and unlike in
+zebrafish. Finally, Xbap, a gene involved in jaw joint formation, is selectively 
+upregulated in the BA2 of Hoxa2 knocked-down frog embryos, supporting a hyoid to 
+mandibular change of NCC identity. Thus, in Xenopus Hoxa2 does not act
+redundantly with Hoxb2 for BA2 patterning, similar to mouse and unlike in fish.
+These data bring novel insights into the regulation of Hox PG2 genes and hyoid
+patterning in vertebrate evolution and suggest that Hoxa2 function is required at
+late stages of BA2 development.
+
+Copyright 2005 Wiley-Liss, Inc.
+
+PMID: 16222714  [PubMed - indexed for MEDLINE]
+
+
+86. Development. 2005 Nov;132(22):4927-36. Epub 2005 Oct 12.
+
+Temporal requirement of Hoxa2 in cranial neural crest skeletal morphogenesis.
+
+Santagati F(1), Minoux M, Ren SY, Rijli FM.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/ULP, UMR 7104, BP 10142, CU de Strasbourg, 67404 Illkirch Cedex,
+France.
+
+Little is known about the spatiotemporal requirement of Hox gene patterning
+activity in vertebrates. In Hoxa2 mouse mutants, the hyoid skeleton is replaced
+by a duplicated set of mandibular and middle ear structures. Here, we show that
+Hoxa2 is selectively required in cranial neural crest cells (NCCs). Moreover, we 
+used a Cre-ERT2 recombinase system to induce a temporally controlled Hoxa2
+deletion in the mouse. Hoxa2 inactivation after cranial NCC migration into
+branchial arches resulted in homeotic transformation of hyoid into mandibular
+arch skeletal derivatives, reproducing the conventional Hoxa2 knockout phenotype,
+and induced rapid changes in Alx4, Bapx1, Six2 and Msx1 expression patterns.
+Thus, hyoid NCCs retain a remarkable degree of plasticity even after their
+migration in the arch, and require Hoxa2 as an integral component of their
+morphogenetic program. Moreover, subpopulations of postmigratory NCCs required
+Hoxa2 at discrete time points to pattern distinct derivatives. This study
+provides the first temporal inactivation of a vertebrate Hox gene and illustrates
+Hox requirement during late morphogenetic processes.
+
+PMID: 16221728  [PubMed - indexed for MEDLINE]
+
+
+87. Zhonghua Kou Qiang Yi Xue Za Zhi. 2005 Jul;40(4):319-22.
+
+[In vitro study on cranial neural crest differentiating into ectomesenchymal cell
+of the first branchial arch by FGF-8].
+
+[Article in Chinese]
+
+Jiang HB(1), Tian WD, Tang W, Liu L, Li XD.
+
+Author information: 
+(1)Department of Oral and Maxillofacial Surgery, West China School of
+Stomatology, Sichuan University, Chengdu 610041, China.
+
+OBJECTIVE: To investigate the effects of FGF-8 on cranial neural crest cell
+(CNCC) differentiating into ectomesenchymal cell of the first branchial arch, and
+determine the appropriate dose and stage of CNCC exposure to FGF-8.
+METHODS: Cranial neural crest explants were cultured in free-serum medium
+containing modified DMEM/F12 and different doses of FGF-8. The differentiation
+type of CNCC were determined by in situ hybridization for Hoxa2 and
+immunocytochemistry for vimentin.
+RESULTS: Pre-emigrating CNCC demonstrated the negative Hoxa2 stain and positive
+vimentin stain after treated by 100 ug/FGF-8. Both post-emigrating CNCC group and
+control group were positive for Hoxa2 and vimentin stain.
+CONCLUSIONS: On the early stage of CNCC emigration, the first branchial arch
+phenotype of CNCC could be induced by FGF-8. This experiment could provide in
+vitro model for study on the mechanism of tooth-jaw regeneration.
+
+PMID: 16191378  [PubMed - indexed for MEDLINE]
+
+
+88. J Orthop Res. 2005 Jul;23(4):882-90. Epub 2005 Mar 23.
+
+Reactivation of Hox gene expression during bone regeneration.
+
+Gersch RP(1), Lombardo F, McGovern SC, Hadjiargyrou M.
+
+Collaborators: Hadjiargyrou M(1).
+
+Author information: 
+(1)Department of Biomedical Engineering, Stony Brook University, Psychology A
+Building, Stony Brook, NY 11794-2580, USA.
+
+Previous studies have explored the link between bone regeneration and
+skeletogenesis. Although a great deal is known regarding tissue and cell based
+events, especially those involving ossification and chondrogenesis, much remains 
+unknown about the molecular similarity of repair and development. Since the
+functional significance of Homeobox (Hox) genes in embryonic skeletogenesis has
+been well documented through knockout and deficiency studies, we chose to
+investigate whether members of this family are reactivated during fracture
+repair. Specifically, we examined the temporal and spatial expression of Msx-1,
+Msx-2, rHox, Hoxa-2 and Hoxd-9, because of their involvement in limb development.
+Utilizing quantitative reverse transcriptase RT-PCR (qPCR), mRNA levels from all 
+five genes were shown to be upregulated during fracture repair at all times
+tested (post-fracture day 3-21), as compared to intact bone. Further, using in
+situ hybridization and immunohistochemistry, spatial expression of these genes
+was localized to osteoblasts, chondrocytes and periosteal osteoprogenitor cells
+found within the fracture callus, the foremost cells responsible for the
+reparative phase of the healing process. Given the contribution of Hox genes in
+skeletal development, our results suggest that these genes are involved in either
+the patterning or formation of the fracture callus, further supporting the notion
+that bone regeneration recapitulates skeletal development.
+
+PMID: 16023004  [PubMed - indexed for MEDLINE]
+
+
+89. Dev Dyn. 2005 Sep;234(1):124-31.
+
+Second branchial arch lineages of the middle ear of wild-type and Hoxa2 mutant
+mice.
+
+O'Gorman S(1).
+
+Author information: 
+(1)Department of Neurosciences, School of Medicine, Case Western Reserve
+University, Cleveland, OH 44106, USA. ogorman@case.edu
+
+Our current understanding of the evolution of the mammalian middle ear was first 
+suggested by embryological studies from the 19th century. Here, site-specific
+recombinase-mediated lineage tracing was used to define the second branchial arch
+contribution to the middle ear of wild-type and Hoxa-2 mutant embryos. The
+processus brevis of the malleus was found to arise from second arch tissues,
+making it the likely homologue of the retroarticular process of nonmammalian
+tetrapods. The second arch also formed a portion of the otic capsule. In light of
+avian lineage studies, second arch cells were probably incorporated into the otic
+capsule before avian and mammalian lineages diverged. In Hoxa2 mutant embryos,
+middle ear skeletal duplications occurred at sites where first and second arch
+elements are normally apposed. The dorsoventral positions at which second arch
+skeletal elements formed and the early migration of second arch neural crest
+cells were not altered by the absence of Hoxa2 function.
+
+Copyright 2005 Wiley-Liss, Inc.
+
+PMID: 15861402  [PubMed - indexed for MEDLINE]
+
+
+90. Dev Biol. 2005 Feb 15;278(2):496-510.
+
+Homeotic proboscipedia function modulates hedgehog-mediated organizer activity to
+pattern adult Drosophila mouthparts.
+
+Joulia L(1), Bourbon HM, Cribbs DL.
+
+Author information: 
+(1)Centre de Biologie du Développement-CNRS, 118 route de Narbonne, 31062
+Toulouse Cedex 04, France. joulia@cict.fr
+
+Drosophila proboscipedia (pb; HoxA2/B2 homolog) mutants develop distal legs in
+place of their adult labial mouthparts. Here we examine how pb homeotic function 
+distinguishes the developmental programs of labium and leg. We find that the
+labial-to-leg transformation in pb mutants occurs progressively over a 2-day
+period in mid-development, as viewed with identity markers such as dachshund
+(dac). This transformation requires hedgehog activity, and involves a
+morphogenetic reorganization of the labial imaginal disc. Our results implicate
+pb function in modulating global axial organization. Pb protein acts in at least 
+two ways. First, Pb cell autonomously regulates the expression of target genes
+such as dac. Second, Pb acts in opposition to the organizing action of hedgehog. 
+This latter action is cell-autonomous, but has a nonautonomous effect on labial
+structure, via the negative regulation of wingless/dWnt and
+decapentaplegic/TGF-beta. This opposition of Pb to hedgehog target expression
+appears to occur at the level of the conserved transcription factor cubitus
+interruptus/Gli that mediates hedgehog signaling activity. These results extend
+selector function to primary steps of tissue patterning, and lead us to suggest
+the notion of a homeotic organizer.
+
+PMID: 15680366  [PubMed - indexed for MEDLINE]
+
+
+91. Development. 2005 Feb;132(3):469-78. Epub 2005 Jan 5.
+
+Hoxa2 downregulates Six2 in the neural crest-derived mesenchyme.
+
+Kutejova E(1), Engist B, Mallo M, Kanzler B, Bobola N.
+
+Author information: 
+(1)Department of Developmental Biology, Max-Planck Institute of Immunobiology,
+Stuebeweg 51, 79108 Freiburg, Germany.
+
+The Hoxa2 transcription factor acts during development of the second branchial
+arch. As for most of the developmental processes controlled by Hox proteins, the 
+mechanism by which Hoxa2 regulates the morphology of second branchial arch
+derivatives is unclear. We show that Six2, another transcription factor, is
+genetically downstream of Hoxa2. High levels of Six2 are observed in the Hoxa2
+loss-of-function mutant. By using a transgenic approach to overexpress Six2 in
+the embryonic area controlled by Hoxa2, we observed a phenotype that is
+reminiscent of the Hoxa2 mutant phenotype. Furthermore, we demonstrate that Hoxa2
+regulation of Six2 is confined to a 0.9 kb fragment of the Six2 promoter and that
+Hoxa2 binds to this promoter region. These results strongly suggest that Six2 is 
+a direct target of Hoxa2.
+
+PMID: 15634706  [PubMed - indexed for MEDLINE]
+
+
+92. Int J Dev Biol. 2004 Dec;48(10):1105-12.
+
+Induction of tooth and eye by transplantation of activin A-treated,
+undifferentiated presumptive ectodermal Xenopus cells into the abdomen.
+
+Myoishi Y(1), Furue M, Fukui Y, Okamoto T, Asashima M.
+
+Author information: 
+(1)Department of Molecular Oral Medicine and Maxillofacial Surgery, Division of
+Frontier Medical Science, Graduate School of Biomedical Sciences, Hiroshima
+University, Hiroshima, Japan.
+
+Activin A can induce the Xenopus presumptive ectoderm (animal cap) to form
+different types of mesoderm and endoderm at different concentrations and the
+animal cap treated with activin can function as an organizer during early
+development. The dissociated Xenopus animal cap cells treated with activin form
+an aggregate and it develops into various tissues in vitro. In this study, to
+induce jaw cartilage from undifferentiated cells effectively, we developed a
+culture method to manipulate body patterning in vitro, using activin A and
+dissociated animal cap cells. An aggregate consisting only of activin A-treated
+dissociated cells developed into endodermal tissues. However, when activin
+A-treated cells were mixed with untreated cells at a ratio of 1:5, the aggregate 
+developed cartilage with the maxillofacial regional marker genes, goosecoid,
+Xenopus Distal-less 4 and X-Hoxa2. When this aggregate was transplanted into the 
+abdominal region of host embryos, maxillofacial structures containing cartilage
+and eye developed. We raised these embryos to adulthood and found that tooth germ
+had developed in the transplanted tissue. Here, we show the induction of jaw
+cartilage, tooth germ and eye structures from animal caps using activin A in the 
+aggregation culture method. This differentiation system will help to promote a
+better understanding of the regulating mechanisms of body patterning and tooth
+induction in vertebrates.
+
+PMID: 15602696  [PubMed - indexed for MEDLINE]
+
+
+93. Glia. 2004 Oct;48(1):14-26.
+
+Early stages of oligodendrocyte development in the embryonic murine spinal cord
+proceed normally in the absence of Hoxa2.
+
+Nicolay DJ(1), Doucette JR, Nazarali AJ.
+
+Author information: 
+(1)Laboratory of Molecular Biology, College of Pharmacy and Nutrition, University
+of Saskatchewan, Saskatoon, Saskatchewan.
+
+Recent discoveries have enhanced our knowledge of the transcriptional control of 
+oligodendrocyte (OG) development. In particular, the transcription factors (TFs) 
+Olig2, Pax6, and Nkx2.2 have been shown to be important in the specification
+and/or maturation of the OG lineage. Although numerous other TFs are expressed by
+OGs, little is known regarding their role(s) in oligodendrogenesis. One such TF
+is the homeobox gene Hoxa2, which was recently shown to be expressed by O4(+)
+pro-oligodendrocytes. The objectives of this study were to examine the expression
+of Hoxa2 during the early stages of OG development, as well as to determine
+whether Hoxa2 is required for specification and/or early maturation of OGs.
+Immunocytochemical analysis of primary mixed glial cultures demonstrated that
+Hoxa2 was expressed throughout oligodendrogenesis, diminishing only with the
+acquisition of a myelinating phenotype. Serial transverse spinal cord sections
+from embryonic days 12.5, 14.25, 16, and 18 Hoxa2(+/+), Hoxa2(+/-), and
+Hoxa2(-/-) mice were subjected to single and double immunohistochemical analysis 
+in order to examine Hoxa2, Olig2, Nkx2.2, and Pax6 expression profiles. Results
+obtained from Hoxa2(+/+) and Hoxa2(+/-) mice suggested that Hoxa2 was expressed
+by migratory oligodendroglial cells. In addition, comparison of spinal cord
+sections obtained from Hoxa2(+/+), Hoxa2(+/-), and Hoxa2(-/-) mice suggested that
+specification and early maturation of OGs proceeded normally in the absence of
+Hoxa2, since there were no obvious alterations in the expression patterns of
+Olig2, Nkx2.2, and/or Pax6. Hence, although Hoxa2 is expressed throughout OG
+development, it does not appear to be critical for early stages of
+oligodendrogenesis in the murine spinal cord.
+
+PMID: 15326611  [PubMed - indexed for MEDLINE]
+
+
+94. BMC Biol. 2004 Jun 15;2:14.
+
+Segmental identity and cerebellar granule cell induction in rhombomere 1.
+
+Eddison M(1), Toole L, Bell E, Wingate RJ.
+
+Author information: 
+(1)MRC Centre for Developmental Neurobiology, King's College London, 4th Floor,
+New Hunt's House, Guy's Campus, London SE1 1UL, UK. eddison@itsa.ucsf.edu
+<eddison@itsa.ucsf.edu>
+
+BACKGROUND: Cerebellar granule cell precursors are specifically generated within 
+the hindbrain segment, rhombomere 1, which is bounded rostrally by the
+midbrain/hindbrain isthmus and caudally by the boundary of the Hoxa2 expression
+domain. While graded signals from the isthmus have a demonstrable patterning role
+within this region, the significance of segmental identity for neuronal
+specification within rhombomere 1 is unexplored. We examined the response of
+granule cell precursors to the overexpression of Hoxa2, which normally determines
+patterns of development specific to the hindbrain. How much does the development 
+of the cerebellum, a midbrain/hindbrain structure, reflect its neuromeric origin 
+as a hindbrain segment?
+RESULTS: We show that a Gbx2-positive, Otx2-/Hoxa2-negative territory
+corresponding to rhombomere 1 forms prior to an identifiable isthmic organiser.
+Early global overexpression of Hoxa2 at embryonic day 0 has no effect on the
+expression of isthmic signalling molecules or the allocation of rhombomere 1
+territory, but selectively results in the loss of granule cell markers at
+embryonic day 6 and the depletion of cell bodies from the external granule cell
+layer. By comparison the trochlear nucleus and locus coeruleus form normally in
+ventral rhombomere 1 under these conditions. Microsurgery, coupled with
+electroporation, to target Hoxa2 overexpression to rhombic lip precursors,
+reveals a profound, autonomous respecification of migration. Rhombic lip
+derivatives, normally destined to occupy the external granule cell layer, violate
+the cerebellar boundary to form a ventrolateral nucleus in a position comparable 
+to that occupied by rhombic lip derived neurons in rhombomere 2.
+CONCLUSIONS: Different overexpression strategies reveal that the recognition of
+migration cues by granule cell precursors is dependent on their identity as
+rhombomere 1 derivatives. Segmental patterning cues operate autonomously within
+the rhombic lip precursor pool. By contrast, a subset of coextensive nuclei is
+refractory to ectopic Hoxa2 and is presumably induced solely by isthmic organiser
+activity. Thus, graded (isthmic) and segmental mechanisms may operate exclusively
+of one another in the specification of different neuronal populations within
+rhombomere 1. The early designation of an Otx2-negative, Hoxa2-negative region,
+prior to the appearance of the isthmic organiser, is a key initial step in the
+specification of the cerebellum.
+
+PMCID: PMC446226
+PMID: 15198802  [PubMed - indexed for MEDLINE]
+
+
+95. Gene. 2004 Apr 28;331:53-63.
+
+Differentiation phenotypes of pancreatic islet beta- and alpha-cells are closely 
+related with homeotic genes and a group of differentially expressed genes.
+
+Mizusawa N(1), Hasegawa T, Ohigashi I, Tanaka-Kosugi C, Harada N, Itakura M,
+Yoshimoto K.
+
+Author information: 
+(1)Department of Pharmacology, School of Dentistry, The University of Tokushima, 
+Tokushima City, Japan.
+
+To identify the genes that determine differentiation phenotypes, we compared gene
+expression of pancreatic islet beta- and alpha-cells, which are derived from the 
+common precursor and secrete insulin and glucagon, respectively. The expression
+levels of homeotic genes including Hox genes known to determine region
+specificity in the antero-posterior (AP) body axis, tissue-specific homeobox
+genes, and other 8,734 genes were compared in a beta- and alpha-cell line of MIN6
+and alpha TC1.6. The expression of homeotic genes were surveyed with reverse
+transcription-polymerase chain reaction (RT-PCR) using degenerate primers
+corresponding to invariant amino acid sequences within the homeodomain and
+subsequently with specific primers. Expression of Hoxc6, Hoxc9, Hoxc10, Pdx1,
+Cdx2, Gbx2, Pax4, and Hlxb9 genes in MIN6 was higher than those in alpha TC1.6,
+while expression of Hoxa2, Hoxa3, Hoxa5, Hoxa6, Hoxa7, Hoxa9, Hoxa10, Hoxa13,
+Hoxb3, Hoxb5, Hoxb6, Hoxb13, Hoxb8, and Brain4 genes in alpha TC1.6 was higher
+than those in MIN6. Out of 8,734 mouse genes screened with high-density mouse
+cDNA microarrays for MIN6- and alpha TC1.6-derived cDNA, 58 and 25 genes were
+differentially over- and under-expressed in MIN6, respectively. GLUTag, which is 
+derived from a large bowel tumor and expresses the proglucagon gene, showed a
+comparatively similar expression profile to that of alpha TC1.6 in both homeotic 
+and other genes analyzed in cDNA microarray. Our results are consistent with the 
+interpretation that not only the tissue-specific homeotic genes, but also Hox
+genes are related to differentiation phenotypes of pancreatic beta- and
+alpha-cells rather than their regional specification of the body in vertebrates.
+
+PMID: 15094191  [PubMed - indexed for MEDLINE]
+
+
+96. Biochem Biophys Res Commun. 2004 Apr 9;316(3):898-902.
+
+The Hoxa2 enhancer 2 contains a critical Hoxa2 responsive regulatory element.
+
+Lampe X(1), Picard JJ, Rezsohazy R.
+
+Author information: 
+(1)Unit of Developmental Genetics, Université catholique de Louvain, 73 (boîte
+82) avenue Mounier, B-1200 Brussels, Belgium.
+
+Rhombomeres are embryonic territories arising from the transient segmentation of 
+the hindbrain. Their identity is specified by Hox genes from paralogous groups
+1-4. Hoxa2 is the only Hox gene to be expressed in the second rhombomere and the 
+regulatory cues leading to this region-specific expression have been poorly
+investigated. A 2.5-kb DNA fragment overlapping with the 3' end of Hoxa2 was
+previously shown to specifically direct the expression of a reporter gene in the 
+second rhombomere and the rostral somites of mouse embryos. Here, we report that 
+this enhancer region is activated in vitro by Hoxa2 and that this activation is
+strictly dependent on a short 10-bp sequence matching the consensus for Hox-Pbx
+recognition sites.
+
+PMID: 15033486  [PubMed - indexed for MEDLINE]
+
+
+97. Development. 2004 Apr;131(7):1463-77. Epub 2004 Feb 25.
+
+Neural crest survival and differentiation in zebrafish depends on mont
+blanc/tfap2a gene function.
+
+Barrallo-Gimeno A(1), Holzschuh J, Driever W, Knapik EW.
+
+Author information: 
+(1)GSF, Institute for Mammalian Genetics, Ingolstaedter Landstrasse 1, D-85764
+Neuherberg, Germany.
+
+Neural crest progenitor cells are the main contributors to craniofacial cartilage
+and connective tissue of the vertebrate head. These progenitor cells also give
+rise to the pigment, neuronal and glial cell lineages. To study the molecular
+basis of neural crest differentiation, we have cloned the gene disrupted in the
+mont blanc (mob(m610)) mutation, which affects all neural crest derivatives.
+Using a positional candidate cloning approach we identified an A to G transition 
+within the 3' splice site of the sixth intron of the tfap2a gene that abolishes
+the last exon encoding the crucial protein dimerization and DNA-binding domains. 
+Neural crest induction and specification are not hindered in mob(m610) mutant
+embryos, as revealed by normal expression of early neural crest specific genes
+such as snail2, foxd3 and sox10. In addition, the initial stages of cranial
+neural crest migration appear undisturbed, while at a later phase the
+craniofacial primordia in pharyngeal arches two to seven fail to express their
+typical set of genes (sox9a, wnt5a, dlx2, hoxa2/b2). In mob(m610) mutant embryos,
+the cell number of neuronal and glial derivatives of neural crest is greatly
+reduced, suggesting that tfap2a is required for their normal development. By
+tracing the fate of neural crest progenitors in live mont blanc (mob(m610))
+embryos, we found that at 24 hpf neural crest cells migrate normally in the first
+pharyngeal arch while the preotic and postotic neural crest cells begin migration
+but fail to descend to the pharyngeal region of the head. TUNEL assay and
+Acridine Orange staining revealed that in the absence of tfap2a a subset of
+neural crest cells are unable to undergo terminal differentiation and die by
+apoptosis. Furthermore, surviving neural crest cells in tfap2a/mob(m610) mutant
+embryos proliferate normally and later differentiate to individual derivatives.
+Our results indicate that tfap2a is essential to turn on the normal developmental
+program in arches 2-7 and in trunk neural crest. Thus, tfap2a does not appear to 
+be involved in early specification and cell proliferation of neural crest, but it
+is a key regulator of an early differentiation phase and is required for cell
+survival in neural crest derived cell lineages.
+
+PMID: 14985255  [PubMed - indexed for MEDLINE]
+
+
+98. Development. 2004 Mar;131(6):1259-66. Epub 2004 Feb 11.
+
+Contribution of Hox genes to the diversity of the hindbrain sensory system.
+
+Gaufo GO(1), Wu S, Capecchi MR.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Department of Human Genetics, University of
+Utah, Salt Lake City, UT 84112, USA.
+
+The perception of environmental stimuli is mediated through a diverse group of
+first-order sensory relay interneurons located in stereotypic positions along the
+dorsoventral (DV) axis of the neural tube. These interneurons form contiguous
+columns along the anteroposterior (AP) axis. Like neural crest cells and
+motoneurons, first-order sensory relay interneurons also require specification
+along the AP axis. Hox genes are prime candidates for providing this information.
+In support of this hypothesis, we show that distinct combinations of Hox genes in
+rhombomeres (r) 4 and 5 of the hindbrain are required for the generation of
+precursors for visceral sensory interneurons. As Hoxa2 is the only Hox gene
+expressed in the anterior hindbrain (r2), disruption of this gene allowed us to
+also demonstrate that the precursors for somatic sensory interneurons are under
+the control of Hox genes. Surprisingly, the Hox genes examined are not required
+for the generation of proprioceptive sensory interneurons. Furthermore, the
+persistence of some normal rhombomere characteristics in Hox mutant embryos
+suggests that the loss of visceral and somatic sensory interneurons cannot be
+explained solely by changes in rhombomere identity. Hox genes may thus directly
+regulate the specification of distinct first-order sensory relay interneurons
+within individual rhombomeres. More generally, these findings contribute to our
+understanding of how Hox genes specifically control cellular diversity in the
+developing organism
+
+PMID: 14960494  [PubMed - indexed for MEDLINE]
+
+
+99. Development. 2004 Feb;131(3):613-27. Epub 2004 Jan 7.
+
+Prep1.1 has essential genetic functions in hindbrain development and cranial
+neural crest cell differentiation.
+
+Deflorian G(1), Tiso N, Ferretti E, Meyer D, Blasi F, Bortolussi M, Argenton F.
+
+Author information: 
+(1)Dipartimento di Biologia, Universita' di Padova, Via U. Bassi 58/B, 35131
+Padova, Italy.
+
+In this study we analysed the function of the Meinox gene prep1.1 during
+zebrafish development. Meinox proteins form heterotrimeric complexes with Hox and
+Pbx members, increasing the DNA binding specificity of Hox proteins in vitro and 
+in vivo. However, a role for a specific Meinox protein in the regulation of Hox
+activity in vivo has not been demonstrated. In situ hybridization showed that
+prep1.1 is expressed maternally and ubiquitously up to 24 hours
+post-fertilization (hpf), and restricted to the head from 48 hpf onwards.
+Morpholino-induced prep1.1 loss-of-function caused significant apoptosis in the
+CNS. Hindbrain segmentation and patterning was affected severely, as revealed by 
+either loss or defective expression of several hindbrain markers
+(foxb1.2/mariposa, krox20, pax2.1 and pax6.1), including anteriorly expressed Hox
+genes (hoxb1a, hoxa2 and hoxb2), the impaired migration of facial nerve motor
+neurons, and the lack of reticulospinal neurons (RSNs) except Mauthner cells.
+Furthermore, the heads of prep1.1 morphants lacked all pharyngeal cartilages.
+This was not caused by the absence of neural crest cells or their impaired
+migration into the pharyngeal arches, as shown by expression of dlx2 and snail1, 
+but by the inability of these cells to differentiate into chondroblasts. Our
+results indicate that prep1.1 has a unique genetic function in craniofacial
+chondrogenesis and, acting as a member of Meinox-Pbc-Hox trimers, it plays an
+essential role in hindbrain development.
+
+PMID: 14711874  [PubMed - indexed for MEDLINE]
+
+
+100. Development. 2003 Dec;130(23):5755-68. Epub 2003 Oct 8.
+
+lockjaw encodes a zebrafish tfap2a required for early neural crest development.
+
+Knight RD(1), Nair S, Nelson SS, Afshar A, Javidan Y, Geisler R, Rauch GJ,
+Schilling TF.
+
+Author information: 
+(1)Department of Developmental and Cell Biology, University of California,
+Irvine, CA 92697, USA.
+
+The neural crest is a uniquely vertebrate cell type that gives rise to much of
+the craniofacial skeleton, pigment cells and peripheral nervous system, yet its
+specification and diversification during embryogenesis are poorly understood.
+Zebrafish homozygous for the lockjaw (low) mutation show defects in all of these 
+derivatives and we show that low (allelic with montblanc) encodes a zebrafish
+tfap2a, one of a small family of transcription factors implicated in epidermal
+and neural crest development. A point mutation in low truncates the DNA binding
+and dimerization domains of tfap2a, causing a loss of function. Consistent with
+this, injection of antisense morpholino oligonucleotides directed against splice 
+sites in tfap2a into wild-type embryos produces a phenotype identical to low.
+Analysis of early ectodermal markers revealed that neural crest specification and
+migration are disrupted in low mutant embryos. TUNEL labeling of dying cells in
+mutants revealed a transient period of apoptosis in crest cells prior to and
+during their migration. In the cranial neural crest, gene expression in the
+mandibular arch is unaffected in low mutants, in contrast to the hyoid arch,
+which shows severe reductions in dlx2 and hoxa2 expression. Mosaic analysis,
+using cell transplantation, demonstrated that neural crest defects in low are
+cell autonomous and secondarily cause disruptions in surrounding mesoderm. These 
+studies demonstrate that low is required for early steps in neural crest
+development and suggest that tfap2a is essential for the survival of a subset of 
+neural crest derivatives.
+
+PMID: 14534133  [PubMed - indexed for MEDLINE]
+
+
+101. Development. 2003 Nov;130(21):5191-201. Epub 2003 Sep 3.
+
+Hox3 genes coordinate mechanisms of genetic suppression and activation in the
+generation of branchial and somatic motoneurons.
+
+Gaufo GO(1), Thomas KR, Capecchi MR.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Department of Human Genetics, University of
+Utah, Salt Lake City, UT 84112, USA.
+
+In the developing hindbrain, the functional loss of individual Hox genes has
+revealed some of their roles in specifying rhombomere (r) identity. However, it
+is unclear how Hox genes act in concert to confer the unique identity to multiple
+rhombomeres. Moreover, it remains to be elucidated how these genes interact with 
+other transcriptional programs to specify distinct neuronal lineages within each 
+rhombomere. We demonstrate that in r5, the combined mutation of Hoxa3 and Hoxb3
+result in a loss of Pax6- and Olig2-expressing progenitors that give rise to
+somatic motoneurons of the abducens nucleus. In r6, the absence of any
+combination of the Hox3 paralogous genes results in ectopic expression of the
+r4-specific determinant Hoxb1. This ectopic expression in turn results in the
+differentiation of r4-like facial branchiomotoneurons within this rhombomere.
+These studies reveal that members of the Hox1 and Hox3 paralogous groups
+participate in a 'Hox code' that is necessary for coordinating both suppression
+and activation mechanisms that ensure distinction between the multiple
+rhombomeres in the developing hindbrain.
+
+PMID: 12954718  [PubMed - indexed for MEDLINE]
+
+
+102. Development. 2003 Aug;130(15):3403-14.
+
+Mesenchymal patterning by Hoxa2 requires blocking Fgf-dependent activation of
+Ptx1.
+
+Bobola N(1), Carapuço M, Ohnemus S, Kanzler B, Leibbrandt A, Neubüser A, Drouin
+J, Mallo M.
+
+Author information: 
+(1)Department of Developmental Biology, Max-Planck Institute of Immunobiology,
+Freiburg, Germany.
+
+Hox genes are known key regulators of embryonic segmental identity, but little is
+known about the mechanisms of their action. To address this issue, we have
+analyzed how Hoxa2 specifies segmental identity in the second branchial arch.
+Using a subtraction approach, we found that Ptx1 was upregulated in the second
+arch mesenchyme of Hoxa2 mutants. This upregulation has functional significance
+because, in Hoxa2(-/-);Ptx1(-/-) embryos, the Hoxa2(-/-) phenotype is partially
+reversed. Hoxa2 interferes with the Ptx1 activating process, which is dependent
+on Fgf signals from the epithelium. Consistently, Lhx6, another target of Fgf8
+signaling, is also upregulated in the Hoxa2(-/-) second arch mesenchyme. Our
+findings have important implications for the understanding of developmental
+processes in the branchial area and suggest a novel mechanism for mesenchymal
+patterning by Hox genes that acts to define the competence of mesenchymal cells
+to respond to skeletogenic signals.
+
+PMID: 12810588  [PubMed - indexed for MEDLINE]
+
+
+103. Genomics. 2003 Apr;81(4):356-60.
+
+Reversible gene inactivation in the mouse.
+
+Mallo M(1), Kanzler B, Ohnemus S.
+
+Author information: 
+(1)Department of Developmental Biology, Max-Planck Institute of Immunobiology,
+Freiburg, Germany. mallo@igc.gulbenkian.pt
+
+Gene-inactivation techniques in the mouse have become an essential tool for
+modern biomedical research. Both ubiquitous and tissue-specific inactivation are 
+possible with current approaches, and recent developments facilitate a temporal
+control of the inactivation process. However, one of the limitations of current
+procedures is that inactivation is irreversible. We have produced complete and
+reversible inactivation of the Hoxa2 gene in the mouse using the control elements
+of the tetracycline-resistance operon. We show that a Hoxa2 allele containing
+tetracycline operator (tetO) sequences is susceptible to controlled regulation by
+tTS, a chimeric molecule containing the tetracycline repressor and a
+transcriptional repressing domain. This inhibition was specific to the
+tetO-modified allele, did not affect neighboring genes, and was reversible by
+administration of doxycycline to the pregnant female. This procedure allows the
+production of gene inactivation that is complete, is reversible, and can be
+controlled at the spatial and temporal levels.
+
+PMID: 12676559  [PubMed - indexed for MEDLINE]
+
+
+104. Dev Dyn. 2002 Nov;225(3):332-5.
+
+Tooth development is independent of a Hox patterning programme.
+
+James CT(1), Ohazama A, Tucker AS, Sharpe PT.
+
+Author information: 
+(1)Department of Craniofacial Development, GKT Dental Institute, Kings College
+London, Guy's Hospital, London Bridge, London, United Kingdom.
+
+Hox genes have a critical role in controlling the patterning processes of many
+tissues by imparting positional information in embryogenesis. Patterning of the
+pharyngeal component of the skull (the visceroskeleton) has been proposed to be
+influenced by this "Hox code." Recently, it has been shown that Hox genes are
+associated with the evolution of jaws, loss of Hox gene expression in the first
+branchial arch being necessary for the transition from the agnathan condition to 
+the gnathostome condition. Teeth develop on the first branchial arch in mammals
+and, therefore, might be expected to be under the control of Hox genes in a
+manner similar to that of the cranial skeletal elements. However, we show that,
+unlike cartilage and bone, the development of teeth is not affected by
+alterations in Hoxa2 expression. Tooth development in the first arch was
+unaffected by overexpression of Hoxa2, whereas recombinations of second arch
+mesenchyme with first arch epithelium led to tooth development within a
+Hoxa2-positive environment. These data demonstrate that teeth develop from local 
+interactions and that tooth formation is not under the axial patterning program
+specified by the Hox genes. We propose that the evolutionary development of teeth
+in the first branchial arch is independent of the loss of Hox expression
+necessary for the development of the jaw.
+
+Copyright 2002 Wiley-Liss, Inc.
+
+PMID: 12412017  [PubMed - indexed for MEDLINE]
+
+
+105. Dev Dyn. 2002 Nov;225(3):305-15.
+
+Targeted insertion results in a rhombomere 2-specific Hoxa2 knockdown and ectopic
+activation of Hoxa1 expression.
+
+Ren SY(1), Angrand PO, Rijli FM.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/ULP, Collège de France, Illkirch Cedex, CU de Strasbourg, France.
+
+Recent studies indicated that retention of selectable marker cassettes in
+targeted Hox loci may cause unexpected phenotypes in mutant mice, due to
+neighborhood effects. However, the molecular mechanisms have been poorly
+investigated. Here, we analysed the effects of the targeted insertion of a
+PGK-neo cassette in the 3' untranslated region of Hoxa2. Even at this 3'
+position, the insertion resulted in homozygous mutants that unexpectedly did not 
+survive beyond 3 weeks of age. Molecular analysis of the targeted allele revealed
+a selective "knockdown" of Hoxa2 expression in rhombomere 2 and associated
+patterning abnormalities. Moreover, Hoxa1 was ectopically expressed in the
+hindbrain and branchial arches of mutant embryos. Of interest, we demonstrated
+that the ectopic expression was due to the generation of neo-Hoxa1 fusion
+transcripts, resulting from aberrant alternative splicing. These defects could be
+rescued after removal of the PGK-neo cassette by Flp-mediated recombination.
+These results underscore the complexity of transcriptional regulation at Hox loci
+and provide insights into the in vivo regulation of Hoxa2 segmental expression.
+They also provide a molecular basis for the interpretation of unexpected Hox
+knockout phenotypes in which the targeted selectable marker is retained in the
+locus.
+
+Copyright 2002 Wiley-Liss, Inc.
+
+PMID: 12412013  [PubMed - indexed for MEDLINE]
+
+
+106. Development. 2002 Sep;129(18):4301-13.
+
+Negative effect of Hox gene expression on the development of the neural
+crest-derived facial skeleton.
+
+Creuzet S(1), Couly G, Vincent C, Le Douarin NM.
+
+Author information: 
+(1)Institut d'Embryologie cellulaire et moléculaire du CNRS et du Collège de
+France, 49bis, av. de la Belle Gabrielle - 94736 Nogent-sur-Marne cedex, France.
+
+Diencephalic, mesencephalic and metencephalic neural crest cells are skeletogenic
+and derive from neural folds that do not express Hox genes. In order to examine
+the influence of Hox gene expression on skull morphogenesis, expression of Hoxa2,
+Hoxa3 and Hoxb4 in conjunction with that of the green fluorescent protein has
+been selectively targeted to the Hox-negative neural folds of the avian embryo
+prior to the onset of crest cell emigration. Hoxa2 expression precludes the
+development of the entire facial skeleton. Transgenic Hoxa2 embryos such as those
+from which the Hox-negative domain of the cephalic neural crest has been removed 
+have no upper or lower jaws and no frontonasal structures. Embryos subjected to
+the forced expression of Hoxa3 and Hoxb4 show severe defects in the facial
+skeleton but not a complete absence of facial cartilage. Hoxa3 prevents the
+formation of the skeleton derived from the first branchial arch, but allows the
+development (albeit reduced) of the nasal septum. Hoxb4, by contrast, hampers the
+formation of the nasal bud-derived skeleton, while allowing that of a proximal
+(but not distal) segment of the lower jaw. The combined effect of Hoxa3 and Hoxb4
+prevents the formation of facial skeletal structures, comparable with Hoxa2. None
+of these genes impairs the formation of neural derivatives of the crest. These
+results suggest that over the course of evolution, the absence of Hox gene
+expression in the anterior part of the chordate embryo was crucial in the
+vertebrate phylum for the development of a face, jaws and brain case, and, hence,
+also for that of the forebrain.
+
+PMID: 12183382  [PubMed - indexed for MEDLINE]
+
+
+107. Dev Biol. 2002 Jul 15;247(2):367-89.
+
+Zebrafish hox paralogue group 2 genes function redundantly as selector genes to
+pattern the second pharyngeal arch.
+
+Hunter MP(1), Prince VE.
+
+Author information: 
+(1)Department of Molecular Genetics and Cell Biology, The University of Chicago, 
+1027 E. 57th Street, Chicago, Illinois 60637, USA
+
+The pharyngeal arches are one of the defining features of the vertebrates, with
+the first arch forming the mandibles of the jaw and the second forming jaw
+support structures. The cartilaginous elements of each arch are formed from
+separate migratory neural crest cell streams, which derive from the dorsal aspect
+of the neural tube. The second and more posterior crest streams are characterized
+by specific Hox gene expression. The zebrafish has a larger overall number of Hox
+genes than the tetrapod vertebrates, as the result of a duplication event in its 
+lineage. However, in both zebrafish and mouse, there are just two members of Hox 
+paralogue group 2 (PG2): Hoxa2 and Hoxb2. Here, we show that morpholino-mediated 
+"knock-down" of both zebrafish Hox PG2 genes results in major defects in second
+pharyngeal arch cartilages, involving replacement of ventral elements with a
+mirror-image duplication of first arch structures, and accompanying changes to
+pharyngeal musculature. In the mouse, null mutants of Hoxa2 have revealed that
+this single Hox gene is required for normal second arch patterning. By contrast, 
+loss-of-function of either zebrafish Hox PG2 gene individually has no phenotypic 
+consequence, showing that these two genes function redundantly to confer proper
+pattern to the second pharyngeal arch. We have also used hoxb1a mis-expression to
+induce localized ectopic expression of zebrafish Hox PG2 genes in the first arch;
+using this strategy, we find that ectopic expression of either Hox PG2 gene can
+confer second arch identity onto first arch structures, suggesting that the
+zebrafish Hox PG2 genes act as "selector genes."
+
+2002 Elsevier Science (USA).
+
+PMID: 12086473  [PubMed - indexed for MEDLINE]
+
+
+108. Dev Biol. 2002 Jun 1;246(1):45-56.
+
+Conservation and diversity in the cis-regulatory networks that integrate
+information controlling expression of Hoxa2 in hindbrain and cranial neural crest
+cells in vertebrates.
+
+Tümpel S(1), Maconochie M, Wiedemann LM, Krumlauf R.
+
+Author information: 
+(1)Stowers Institute, 1000 East 50th, Kansas City, Missouri 64110, USA.
+
+The Hoxa2 and Hoxb2 genes are members of paralogy group II and display segmental 
+patterns of expression in the developing vertebrate hindbrain and cranial neural 
+crest cells. Functional analyses have demonstrated that these genes play critical
+roles in regulating morphogenetic pathways that direct the regional identity and 
+anteroposterior character of hindbrain rhombomeres and neural crest-derived
+structures. Transgenic regulatory studies have also begun to characterize
+enhancers and cis-elements for those mouse and chicken genes that direct
+restricted patterns of expression in the hindbrain and neural crest. In light of 
+the conserved role of Hoxa2 in neural crest patterning in vertebrates and the
+similarities between paralogs, it is important to understand the extent to which 
+common regulatory networks and elements have been preserved between species and
+between paralogs. To investigate this problem, we have cloned and sequenced the
+intergenic region between Hoxa2 and Hoxa3 in the chick HoxA complex and used it
+for making comparative analyses with the respective human, mouse, and horn shark 
+regions. We have also used transgenic assays in mouse and chick embryos to test
+the functional activity of Hoxa2 enhancers in heterologous species. Our analysis 
+reveals that three of the critical individual components of the Hoxa2 enhancer
+region from mouse necessary for hindbrain expression (Krox20, BoxA, and TCT
+motifs) have been partially conserved. However, their number and organization are
+highly varied for the same gene in different species and between paralogs within 
+a species. Other essential mouse elements appear to have diverged or are absent
+in chick and shark. We find the mouse r3/r5 enhancer fails to work in chick
+embryos and the chick enhancer works poorly in mice. This implies that new motifs
+have been recruited or utilized to mediate restricted activity of the enhancer in
+other species. With respect to neural crest regulation, cis-components are
+embedded among the hindbrain control elements and are highly diverged between
+species. Hence, there has been no widespread conservation of sequence identity
+over the entire enhancer domain from shark to humans, despite the common function
+of these genes in head patterning. This provides insight into how apparently
+equivalent regulatory regions from the same gene in different species have
+evolved different components to potentiate their activity in combination with a
+selection of core components.
+
+(c) 2002 Elsevier Science (USA).
+
+PMID: 12027433  [PubMed - indexed for MEDLINE]
+
+
+109. Development. 2002 Apr;129(7):1645-55.
+
+spiel ohne grenzen/pou2 is required for zebrafish hindbrain segmentation.
+
+Hauptmann G(1), Belting HG, Wolke U, Lunde K, Söll I, Abdelilah-Seyfried S,
+Prince V, Driever W.
+
+Author information: 
+(1)Albert-Ludwigs-Universität Freiburg, Institut für Biologie I, Hauptstrasse 1, 
+D-79104 Freiburg i. Br., Germany.
+
+Segmentation of the vertebrate hindbrain leads to the formation of a series of
+rhombomeres with distinct identities. In mouse, Krox20 and kreisler play
+important roles in specifying distinct rhombomeres and in controlling segmental
+identity by directly regulating rhombomere-specific expression of Hox genes. We
+show that spiel ohne grenzen (spg) zebrafish mutants develop rhombomeric
+territories that are abnormal in both size and shape. Rhombomere boundaries are
+malpositioned or absent and the segmental pattern of neuronal differentiation is 
+perturbed. Segment-specific expression of hoxa2, hoxb2 and hoxb3 is severely
+affected during initial stages of hindbrain development in spg mutants and the
+establishment of krx20 (Krox20 ortholog) and valentino (val; kreisler ortholog)
+expression is impaired. spg mutants carry loss-of-function mutations in the pou2 
+gene. pou2 is expressed at high levels in the hindbrain primordium of wild-type
+embryos prior to activation of krx20 and val. Widespread overexpression of Pou2
+can rescue the segmental krx20 and val domains in spg mutants, but does not
+induce ectopic expression of these genes. This suggests that spg/pou2 acts in a
+permissive manner and is essential for normal expression of krx20 and val. We
+propose that spg/pou2 is an essential component of the regulatory cascade
+controlling hindbrain segmentation and acts before krx20 and val in the
+establishment of rhombomere precursor territories.
+
+PMID: 11923201  [PubMed - indexed for MEDLINE]
+
+
+110. Genesis. 2002 Feb;32(2):109-11.
+
+A Hoxa2 knockin allele that expresses EGFP upon conditional Cre-mediated
+recombination.
+
+Pasqualetti M(1), Ren SY, Poulet M, LeMeur M, Dierich A, Rijli FM.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/ULP, Collège de France, Strasbourg, France.
+
+PMID: 11857792  [PubMed - indexed for MEDLINE]
+
+
+111. Genesis. 2002 Feb;32(2):105-8.
+
+A Hoxa2 mutant conditional allele generated by Flp- and Cre-mediated
+recombination.
+
+Ren SY(1), Pasqualetti M, Dierich A, Le Meur M, Rijli FM.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/ULP, Collège de France, Strasbourg, France.
+
+PMID: 11857791  [PubMed - indexed for MEDLINE]
+
+
+112. Science. 2002 Feb 15;295(5558):1288-91.
+
+Role of the isthmus and FGFs in resolving the paradox of neural crest plasticity 
+and prepatterning.
+
+Trainor PA(1), Ariza-McNaughton L, Krumlauf R.
+
+Author information: 
+(1)The Stowers Institute for Medical Research, 1000 East 50th Street, Kansas
+City, MO 64110, USA.
+
+Cranial neural crest cells generate the distinctive bone and connective tissues
+in the vertebrate head. Classical models of craniofacial development argue that
+the neural crest is prepatterned or preprogrammed to make specific head
+structures before its migration from the neural tube. In contrast, recent studies
+in several vertebrates have provided evidence for plasticity in patterning neural
+crest populations. Using tissue transposition and molecular analyses in avian
+embryos, we reconcile these findings by demonstrating that classical manipulation
+experiments, which form the basis of the prepatterning model, involved
+transplantation of a local signaling center, the isthmic organizer. FGF8
+signaling from the isthmus alters Hoxa2 expression and consequently branchial
+arch patterning, demonstrating that neural crest cells are patterned by
+environmental signals.
+
+PMID: 11847340  [PubMed - indexed for MEDLINE]
+
+
+113. EMBO J. 2002 Feb 1;21(3):365-76.
+
+Krox20 and kreisler co-operate in the transcriptional control of segmental
+expression of Hoxb3 in the developing hindbrain.
+
+Manzanares M(1), Nardelli J, Gilardi-Hebenstreit P, Marshall H, Giudicelli F,
+Martínez-Pastor MT, Krumlauf R, Charnay P.
+
+Author information: 
+(1)Division of Developmental Neurobiology, National Institute for Medical
+Research, The Ridgeway, Mill Hill, London NW7 1AA, UK.
+
+In the segmented vertebrate hindbrain, the Hoxa3 and Hoxb3 genes are expressed at
+high relative levels in the rhombomeres (r) 5 and 6, and 5, respectively. The
+single enhancer elements responsible for these activities have been identified
+previously and shown to constitute direct targets of the transcription factor
+kreisler, which is expressed in r5 and r6. Here, we have analysed the
+contribution of the transcription factor Krox20, present in r3 and r5. Genetic
+analyses demonstrated that Krox20 is required for activity of the Hoxb3 r5
+enhancer, but not of the Hoxa3 r5/6 enhancer. Mutational analysis of the Hoxb3 r5
+enhancer, together with ectopic expression experiments, revealed that Krox20
+binds to the enhancer and synergizes with kreisler to promote Hoxb3
+transcription, restricting enhancer activity to their domain of overlap, r5.
+These analyses also suggested contributions from an Ets-related factor and from
+putative factors likely to heterodimerize with kreisler. The integration of
+multiple independent inputs present in overlapping domains by a single enhancer
+is likely to constitute a general mechanism for the patterning of subterritories 
+during vertebrate development.
+
+PMCID: PMC125344
+PMID: 11823429  [PubMed - indexed for MEDLINE]
+
+
+114. Curr Opin Cell Biol. 2001 Dec;13(6):698-705.
+
+Hox genes, neural crest cells and branchial arch patterning.
+
+Trainor PA(1), Krumlauf R.
+
+Author information: 
+(1)Stowers Institute for Medical Research, 1000 East 50th Street, Kansas City, MO
+64110, USA. pat@stowers-institute.org
+
+Proper craniofacial development requires the orchestrated integration of multiple
+specialized tissue interactions. Recent analyses suggest that craniofacial
+development is not dependent upon neural crest pre-programming as previously
+thought but is regulated by a more complex integration of cell and tissue
+interactions. In the absence of neural crest cells it is still possible to obtain
+normal arch patterning indicating that neural crest is not responsible for
+patterning all of arch development. The mesoderm, endoderm and surface ectoderm
+tissues play a role in the patterning of the branchial arches, and there is now
+strong evidence that Hoxa2 acts as a selector gene for the pathways that govern
+second arch structures.
+
+PMID: 11698185  [PubMed - indexed for MEDLINE]
+
+
+115. Leukemia. 2001 Nov;15(11):1743-9.
+
+Targeted down-regulation of MLL-AF9 with antisense oligodeoxyribonucleotide
+reduces the expression of the HOXA7 and -A10 genes and induces apoptosis in a
+human leukemia cell line, THP-1.
+
+Kawagoe H(1), Kawagoe R, Sano K.
+
+Author information: 
+(1)Department of Pediatrics, Kobe University School of Medicine, Japan.
+
+The MLL gene is frequently rearranged in leukemias, and MLL chimeric proteins
+generated by chromosomal translocations play crucial roles in leukemogenesis.
+Targets of murine Mll include HOX proteins that regulate body pattern formation
+and hematopoiesis. However, it is not known whether or not the MLL chimeric
+proteins regulate the HOX gene expression in human leukemia. To address this
+issue, THP-1 cells, a human leukemia cell line expressing MLL-AF9, were treated
+with antisense oligodeoxyribonucleotide (ODN) complementary to the coding
+sequence of the MLL-AF9 junction. Down-regulation of the MLL-AF9 transcript was
+accompanied by the reduced expression of the HOXA7 and -A10 genes, but not of the
+HOXA2, -A4, -A5, and -A9 genes. The number of viable cells cultured with 20
+microM antisense ODN for 5 days was 10-fold lower than that of the sense
+ODN-treated control. And the number of the annexin V-/propidium iodide- apoptotic
+cells in the antisense ODN-treated cells after 3 days of culture was two-fold
+higher than that in the control. Staining of the antisense ODN-treated cells with
+Hoechst 33258 showed the morphology characteristic to apoptosis. These results
+indicate that MLL-AF9 regulates the expression of the selected HOX genes as well 
+as prevents the leukemic cells from apoptosis.
+
+PMID: 11681416  [PubMed - indexed for MEDLINE]
+
+
+116. Mech Dev. 2001 Oct;108(1-2):135-47.
+
+Different levels of Hoxa2 are required for particular developmental processes.
+
+Ohnemus S(1), Bobola N, Kanzler B, Mallo M.
+
+Author information: 
+(1)Max-Planck Institute of Immunobiology, Stübeweg 51 79108 Freiburg, Germany.
+
+Hoxa2 is required for a variety of developmental processes in the branchial
+arches and in the hindbrain. We have created a Hoxa2 allele that is about 45% as 
+active in transcription as its wild-type counterpart. This allele, together with 
+the Hoxa2 null and wild-type alleles, allowed the generation of embryos
+developing in the presence of different levels of Hoxa2 activity. Analysis of
+these embryos indicates that in general the hindbrain is more resistant to Hoxa2 
+deficiencies than the second branchial arch. Also, within the second arch,
+proximo-caudal areas are more sensitive than the rostro-distal. In the hindbrain,
+basic segmentation and patterning processes seem to occur normally at Hoxa2
+levels as low as 20% of the normal. In addition, specific neuronal markers along 
+the dorso-ventral axis of the hindbrain seem differentially affected by reduced
+Hoxa2 levels. These results provide new clues to understand the role of Hoxa2 in 
+the different embryonic areas where it is required.
+
+PMID: 11578867  [PubMed - indexed for MEDLINE]
+
+
+117. Development. 2001 Sep;128(18):3595-607.
+
+Independent regulation of initiation and maintenance phases of Hoxa3 expression
+in the vertebrate hindbrain involve auto- and cross-regulatory mechanisms.
+
+Manzanares M(1), Bel-Vialar S, Ariza-McNaughton L, Ferretti E, Marshall H,
+Maconochie MM, Blasi F, Krumlauf R.
+
+Author information: 
+(1)Division of Developmental Neurobiology, MRC National Institute for Medical
+Research, The Ridgeway, Mill Hill, London NW7 1AA, UK.
+
+During development of the vertebrate hindbrain, Hox genes play multiple roles in 
+the segmental processes that regulate anteroposterior (AP) patterning. Paralogous
+Hox genes, such as Hoxa3, Hoxb3 and Hoxd3, generally have very similar patterns
+of expression, and gene targeting experiments have shown that members of paralogy
+group 3 can functionally compensate for each other. Hence, distinct functions for
+individual members of this family may primarily depend upon differences in their 
+expression domains. The earliest domains of expression of the Hoxa3 and Hoxb3
+genes in hindbrain rhombomeric (r) segments are transiently regulated by
+kreisler, a conserved Maf b-Zip protein, but the mechanisms that maintain
+expression in later stages are unknown. In this study, we have compared the
+segmental expression and regulation of Hoxa3 and Hoxb3 in mouse and chick embryos
+to investigate how they are controlled after initial activation. We found that
+the patterns of Hoxa3 and Hoxb3 expression in r5 and r6 in later stages during
+mouse and chick hindbrain development were differentially regulated. Hoxa3
+expression was maintained in r5 and r6, while Hoxb3 was downregulated. Regulatory
+comparisons of cis-elements from the chick and mouse Hoxa3 locus in both
+transgenic mouse and chick embryos have identified a conserved enhancer that
+mediates the late phase of Hoxa3 expression through a conserved
+auto/cross-regulatory loop. This block of similarity is also present in the human
+and horn shark loci, and contains two bipartite Hox/Pbx-binding sites that are
+necessary for its in vivo activity in the hindbrain. These HOX/PBC sites are
+positioned near a conserved kreisler-binding site (KrA) that is involved in
+activating early expression in r5 and r6, but their activity is independent of
+kreisler. This work demonstrates that separate elements are involved in
+initiating and maintaining Hoxa3 expression during hindbrain segmentation, and
+that it is regulated in a manner different from Hoxb3 in later stages. Together, 
+these findings add further strength to the emerging importance of positive auto- 
+and cross-regulatory interactions between Hox genes as a general mechanism for
+maintaining their correct spatial patterns in the vertebrate nervous system.
+
+PMID: 11566863  [PubMed - indexed for MEDLINE]
+
+
+118. FEBS Lett. 2001 Jun 15;499(1-2):92-6.
+
+Differential and opposed transcriptional effects of protein fusions containing
+the VP16 activation domain.
+
+Matis C(1), Chomez P, Picard J, Rezsohazy R.
+
+Author information: 
+(1)Unit of Developmental Genetics, Université Catholique de Louvain, Brussels,
+Belgium.
+
+Overexpression of strong transcriptional activators like herpes simplex virion
+protein 16 (VP16) may lead to non-specific inhibition of gene expression as a
+result of the titration of transcription factors. Here we report that a fusion
+between the homeoprotein Hoxa2 and the VP16 activation domain inhibits
+transcription from the strong promoter/enhancers of cytomegalovirus (CMV) and
+Rous sarcoma virus (RSV). A similar fusion involving a Hoxa2 mutant protein that 
+is defective in DNA binding has no effect on the CMV promoter but increases,
+rather than inhibits, the RSV promoter activity. This suggests that depending on 
+its ability to bind DNA, the VP16 activator can interact with different sets of
+cofactors, giving rise to distinct transcriptional effects.
+
+PMID: 11418119  [PubMed - indexed for MEDLINE]
+
+
+119. Dev Biol. 2001 May 15;233(2):468-81.
+
+Differences in Krox20-dependent regulation of Hoxa2 and Hoxb2 during hindbrain
+development.
+
+Maconochie MK(1), Nonchev S, Manzanares M, Marshall H, Krumlauf R.
+
+Author information: 
+(1)Division of Developmental Neurobiology, MRC National Institute for Medical
+Research, The Ridgeway, Mill Hill, London, NW7 1AA, United Kingdom.
+
+During hindbrain development, segmental regulation of the paralogous Hoxa2 and
+Hoxb2 genes in rhombomeres (r) 3 and 5 involves Krox20-dependent enhancers that
+have been conserved during the duplication of the vertebrate Hox clusters from a 
+common ancestor. Examining these evolutionarily related control regions could
+provide important insight into the degree to which the basic Krox20-dependent
+mechanisms, cis-regulatory components, and their organization have been
+conserved. Toward this goal we have performed a detailed functional analysis of a
+mouse Hoxa2 enhancer capable of directing reporter expression in r3 and r5. The
+combined activities of five separate cis-regions, in addition to the conserved
+Krox20 binding sites, are involved in mediating enhancer function. A CTTT (BoxA) 
+motif adjacent to the Krox20 binding sites is important for r3/r5 activity. The
+BoxA motif is similar to one (Box1) found in the Hoxb2 enhancer and indicates
+that the close proximity of these Box motifs to Krox20 sites is a common feature 
+of Krox20 targets in vivo. Two other rhombomeric elements (RE1 and RE3) are
+essential for r3/r5 activity and share common TCT motifs, indicating that they
+interact with a similar cofactor(s). TCT motifs are also found in the Hoxb2
+enhancer, suggesting that they may be another common feature of Krox20-dependent 
+control regions. The two remaining Hoxa2 cis-elements, RE2 and RE4, are not
+conserved in the Hoxb2 enhancer and define differences in some of components that
+can contribute to the Krox20-dependent activities of these enhancers.
+Furthermore, analysis of regulatory activities of these enhancers in a Krox20
+mutant background has uncovered differences in their degree of dependence upon
+Krox20 for segmental expression. Together, this work has revealed a surprising
+degree of complexity in the number of cis-elements and regulatory components that
+contribute to segmental expression mediated by Krox20 and sheds light on the
+diversity and evolution of Krox20 target sites and Hox regulatory elements in
+vertebrates.
+
+Copyright 2001 Academic Press.
+
+PMID: 11336508  [PubMed - indexed for MEDLINE]
+
+
+120. Dev Biol. 2001 Apr 1;232(1):176-90.
+
+Regulatory analysis of the mouse Hoxb3 gene: multiple elements work in concert to
+direct temporal and spatial patterns of expression.
+
+Kwan CT(1), Tsang SL, Krumlauf R, Sham MH.
+
+Author information: 
+(1)Department of Biochemistry, The University of Hong Kong, 5 Sassoon Road, Hong 
+Kong, Pokfulam, China.
+
+The expression pattern of the mouse Hoxb3 gene is exceptionally complex and
+dynamic compared with that of other members of the Hoxb cluster. There are
+multiple types of transcripts for Hoxb3 gene, and the anterior boundaries of its 
+expression vary at different stages of development. Two enhancers flanking Hoxb3 
+on the 3' and 5' sides regulate Hoxb2 and Hoxb4, respectively, and these control 
+regions define the two ends of a 28-kb interval in and around the Hoxb3 locus. To
+assay the regulatory potential of DNA fragments in this interval we have used
+transgenic analysis with a lacZ reporter gene to locate cis-elements for
+directing the dynamic patterns of Hoxb3 expression. Our detailed analysis has
+identified four new and widely spaced cis-acting regulatory regions that can
+together account for major aspects of the Hoxb3 expression pattern. Elements Ib, 
+IIIa, and IVb control gene expression in neural and mesodermal tissues; element
+Va controls mesoderm-specific gene expression. The most anterior neural
+expression domain of Hoxb3 is controlled by an r5 enhancer (element IVa); element
+IIIa directs reporter expression in the anterior spinal cord and hindbrain up to 
+r6, and the region A enhancer (in element I) mediates posterior neural
+expression. Hence, the regulation of segmental expression of Hoxb3 in the
+hindbrain is different from that of Hoxa3, as two separate enhancer elements
+contribute to expression in r5 and r6. The mesoderm-specific element (Va) directs
+reporter expression to prevertebra C1 at 12.5 dpc, which is the anterior limit of
+paraxial mesoderm expression for Hoxb3. When tested in combinations, these
+cis-elements appear to work as modules in an additive manner to recapitulate the 
+major endogenous expression patterns of Hoxb3 during embryogenesis. Together our 
+study shows that multiple control elements direct reporter gene expression in
+diverse tissue-, temporal-, and spatially restricted subset of the endogenous
+Hoxb3 expression domains and work in concert to control the neural and mesodermal
+patterns of expression.
+
+Copyright 2001 Academic Press.
+
+PMID: 11254356  [PubMed - indexed for MEDLINE]
+
+
+121. Dev Biol. 2001 Mar 15;231(2):410-9.
+
+Formation of the middle ear: recent progress on the developmental and molecular
+mechanisms.
+
+Mallo M(1).
+
+Author information: 
+(1)Department of Developmental Biology, Max-Planck Institute of Immunobiology,
+Stübeweg 51, Freiburg, D-79108, Germany. mallo@immunobio.mpg.de
+
+The middle ear allows animals to hear while moving in an aerial medium. It is
+composed of a cavity harbouring a chain of three ossicles that transmit
+vibrations produced by airborne sound in the tympanic membrane into the inner
+ear, where they are converted into neural impulses. The middle ear develops in
+the branchial arches, and this requires sequential interactions between the
+epithelia and the underlying mesenchyme. Gene-inactivation experiments have
+identified genes required for the formation of different middle ear components.
+Some encode for signalling molecules, including Endothelin1 and Fgf8, probable
+mediators of epithelial-mesenchymal interactions. Other genes, including Eya1,
+Prx1, Hoxa1, Hoxa2, Dlx1, Dlx2, Dlx5, and Gsc, are most likely involved in
+patterning and morphogenetic processes in the neural crest-derived mesenchyme.
+Mechanisms controlling formation of a functional tympanic membrane are also
+discussed. Basically, the tympanic ring, which serves as support for the tympanic
+membrane, directs invagination of the first pharyngeal cleft ectoderm to form the
+external acoustic meatus (EAM), which provides the outer layer of the membrane.
+Gsc and Prx1 are essential for tympanic ring development. While invaginating, the
+EAM controls skeletogenesis in the underlying mesenchyme to form the manubrium of
+the malleus, the link between the membrane and the middle ear ossicles.
+
+Copyright 2001 Academic Press.
+
+PMID: 11237469  [PubMed - indexed for MEDLINE]
+
+
+122. Neuroreport. 2001 Feb 12;12(2):329-33.
+
+Coordinated expression of Hoxa2, Hoxd1 and Pax6 in the developing diencephalon.
+
+Wolf LV(1), Yeung JM, Doucette JR, Nazarali AJ.
+
+Author information: 
+(1)Laboratory of Molecular Biology, College of Pharmacy and Nutrition, University
+of Saskatchewan, Saskatoon, Canada.
+
+Coordinated expression of Hoxa2, Hoxd1 and Pax6 proteins were found to coincide
+with the three developmental stages of the diencephalon, as described for the
+mouse brain. In the first stage (embryonic day (E) 10-12) Hoxa2, Hoxd1 and Pax6
+(an early marker gene of the diencephalon) were expressed as early as E10.5 in
+prosomeres (p), p2 and p3. All three proteins continue to exhibit overlapping
+domains of expression at E12.5-13 (beginning of the second stage) when the
+primitive dense cell layer begins to differentiate into the internal germinal,
+external germinal and mantle layers. Towards the end of the second stage (E15),
+Pax6 expression was down-regulated whereas Hoxa2 and Hoxd1 continued to exhibit
+overlapping domains of expression for both protein and mRNA. Hoxd1 expression
+decreased significantly in the third stage of diencephalic development
+(E16-postnatal) such that only Hoxa2 expression persisted in the diencephalon of 
+newborn mice. The temporal and spatial expression of these three proteins imply
+that coordinated waves of Hoxa2, Hoxd1 and Pax6 expression may be required to
+provide positional information for the specification of the diencephalon.
+
+PMID: 11209945  [PubMed - indexed for MEDLINE]
+
+
+123. Dev Biol. 2001 Mar 1;231(1):201-16.
+
+Plasticity in zebrafish hox expression in the hindbrain and cranial neural crest.
+
+Schilling TF(1), Prince V, Ingham PW.
+
+Author information: 
+(1)Molecular Embryology Laboratory, Imperial Cancer Research Fund, London, United
+Kingdom. tschilli@uci.edu
+
+The anterior-posterior identities of cells in the hindbrain and cranial neural
+crest are thought to be determined by their Hox gene expression status, but how
+and when cells become committed to these identities remain unclear. Here we
+address this in zebrafish by cell transplantation, to test plasticity in hox
+expression in single cells. We transplanted cells alone, or in small groups,
+between hindbrain rhombomeres or between the neural crest primordia of pharyngeal
+arches. We found that transplanted cells regulated hox expression according to
+their new environments. The degree of plasticity, however, depended on both the
+timing and the size of the transplant. At later stages transplanted cells were
+more likely to be irreversibly committed and maintain their hox expression,
+demonstrating a progressive loss of responsiveness to the environmental signals
+that specify segmental identities. Individual transplanted cells also showed
+greater plasticity than those lying within the center of larger groups,
+suggesting that a community effect normally maintains hox expression within
+segments. We also raised experimental embryos to larval stages to analyze
+transplanted cells after differentiation and found that neural crest cells
+contributed to pharyngeal cartilages appropriate to the anterior-posterior level 
+of the new cellular environment. Thus, consistent with models implicating hox
+expression in control of segmental identity, plasticity in hox expression
+correlates with plasticity in final cell fate.
+
+PMID: 11180963  [PubMed - indexed for MEDLINE]
+
+
+124. Development. 2000 Dec;127(24):5367-78.
+
+Ectopic Hoxa2 induction after neural crest migration results in homeosis of jaw
+elements in Xenopus.
+
+Pasqualetti M(1), Ori M, Nardi I, Rijli FM.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/ULP, Collège de France, BP 163 - 67404 Illkirch Cedex, C.U. de
+Strasbourg, France.
+
+Hox genes are required to pattern neural crest (NC) derived craniofacial and
+visceral skeletal structures. However, the temporal requirement of Hox patterning
+activity is not known. Here, we use an inducible system to establish Hoxa2
+activity at distinct NC migratory stages in Xenopus embryos. We uncover
+stage-specific effects of Hoxa2 gain-of-function suggesting a multistep
+patterning process for hindbrain NC. Most interestingly, we show that Hoxa2
+induction at postmigratory stages results in mirror image homeotic transformation
+of a subset of jaw elements, normally devoid of Hox expression, towards hyoid
+morphology. This is the reverse phenotype to that observed in the Hoxa2 knockout.
+These data demonstrate that the skeletal pattern of rhombomeric mandibular crest 
+is not committed before migration and further implicate Hoxa2 as a true selector 
+of hyoid fate. Moreover, the demonstration that the expression of Hoxa2 alone is 
+sufficient to transform the upper jaw and its joint selectively may have
+implications for the evolution of jaws.
+
+PMID: 11076758  [PubMed - indexed for MEDLINE]
+
+
+125. Development. 2000 Dec;127(24):5355-65.
+
+Homeotic transformation of branchial arch identity after Hoxa2 overexpression.
+
+Grammatopoulos GA(1), Bell E, Toole L, Lumsden A, Tucker AS.
+
+Author information: 
+(1)MRC Centre for Developmental Neurobiology, King's College, Guy's Campus,
+London SE1 1UL, UK.
+
+Overexpression of Hoxa2 in the chick first branchial arch leads to a
+transformation of first arch cartilages, such as Meckel's and the quadrate, into 
+second arch elements, such as the tongue skeleton. These duplicated elements are 
+fused to the original in a similar manner to that seen in the Hoxa2 knockout,
+where the reverse transformation of second to first arch morphology is observed. 
+This confirms the role of Hoxa2 as a selector gene specifying second arch fate.
+When first arch neural crest alone is targeted, first arch elements are lost, but
+the Hoxa2-expressing crest is unable to develop into second arch elements. This
+is not due to Hoxa2 preventing differentiation of cartilages. Upregulation of a
+second arch marker in the first arch, and homeotic transformation of cartilage
+elements is only produced after global Hoxa2 overexpression in the crest and the 
+surrounding tissue. Thus, although the neural crest appears to contain some
+patterning information, it needs to read cues from the environment to form a
+coordinated pattern. Hoxa2 appears to exert its effect during differentiation of 
+the cartilage elements in the branchial arches, rather than during crest
+migration, implying that pattern is determined quite late in development.
+
+PMID: 11076757  [PubMed - indexed for MEDLINE]
+
+
+126. Dev Biol. 2000 Jun 1;222(1):12-26.
+
+Locally released retinoic acid repatterns the first branchial arch cartilages in 
+vivo.
+
+Plant MR(1), MacDonald ME, Grad LI, Ritchie SJ, Richman JM.
+
+Author information: 
+(1)Department of Oral Health Sciences, Faculty of Dentistry, University of
+British Columbia, Vancouver, Canada.
+
+The fates of cranial neural crest cells are unique compared to trunk neural
+crest. Cranial neural crest cells form bone and cartilage and ultimately these
+cells make up the entire facial skeleton. Previous studies had established that
+exogenous retinoic acid has effects on neurogenic derivatives of cranial neural
+crest cells and on segmentation of the hindbrain. In the present study we
+investigated the role of retinoic acid on the skeletal derivatives of migrating
+cranial neural crest cells. We wanted to test whether low doses of locally
+applied retinoic acid could respecify the neural crest-derived, skeletal
+components of the beak in a reproducible manner. Retinoic acid-soaked beads were 
+positioned at the presumptive mid-hindbrain junction in stage 9 chicken embryos. 
+Two ectopic cartilage elements were induced, the first a sheet of cartilage
+ventral and lateral to the quadrate and the second an accessory cartilage rod
+branching from Meckel's cartilage. The accessory rod resembled a retroarticular
+process that had formed within the first branchial arch domain. In addition the
+quadrate was often displaced laterally and fused to the retroarticular process.
+The next day following bead implantation, expression domains of Hoxa2 and Hoxb1
+were shifted in an anterior direction up to the mesencephalon and Msx-2 was
+slightly down-regulated in the hindbrain. Despite down-regulation in neural crest
+cells, the onset of Msx-2 expression in the facial prominences at stage 18-20 was
+normal. This correlates with normal distal beak morphology. Focal labeling of
+neural crest with DiI showed that instead of migrating in a neat group toward the
+second branchial arch, a cohort of labeled cells from r4 spread anteriorly toward
+the proximal first arch region. AP-2 expression data confirmed the uninterrupted 
+presence of AP-2-expressing cells from the anterior mesencephalon to r4. The
+morphological changes can be explained by mismigration of r4 neural crest into
+the first arch, but at the same time maintenance of their identity. Up-regulation
+of the Hoxa2 gene in the first branchial arch may have encouraged r4 cells to
+move in the anterior direction. This combination of events leads to the first
+branchial arch assuming some of the characteristics of the second branchial arch.
+
+PMID: 10885743  [PubMed - indexed for MEDLINE]
+
+
+127. Development. 2000 Mar;127(5):933-44.
+
+Roles of Hoxa1 and Hoxa2 in patterning the early hindbrain of the mouse.
+
+Barrow JR(1), Stadler HS, Capecchi MR.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Department of Human Genetics, University of
+Utah School of Medicine, Salt Lake City, UT 84112, USA.
+
+Early in its development, the vertebrate hindbrain is transiently subdivided into
+a series of compartments called rhombomeres. Genes have been identified whose
+expression patterns distinguish these cellular compartments. Two of these genes, 
+Hoxa1 and Hoxa2, have been shown to be required for proper patterning of the
+early mouse hindbrain and the associated neural crest. To determine the extent to
+which these two genes function together to pattern the hindbrain, we generated
+mice simultaneously mutant at both loci. The hindbrain patterning defects were
+analyzed in embryos individually mutant for Hoxa1 and Hoxa2 in greater detail and
+extended to embryos mutant for both genes. From these data a model is proposed to
+describe how Hoxa1, Hoxa2, Hoxb1, Krox20 (Egr2) and kreisler function together to
+pattern the early mouse hindbrain. Critical to the model is the demonstration
+that Hoxa1 activity is required to set the anterior limit of Hoxb1 expression at 
+the presumptive r3/4 rhombomere boundary. Failure to express Hoxb1 to this
+boundary in Hoxa1 mutant embryos initiates a cascade of gene misexpressions that 
+result in misspecification of the hindbrain compartments from r2 through r5.
+Subsequent to misspecification of the hindbrain compartments, ectopic induction
+of apoptosis appears to be used to regulate the aberrant size of the misspecified
+rhombomeres.
+
+PMID: 10662633  [PubMed - indexed for MEDLINE]
+
+
+128. Development. 1999 Nov;126(22):5011-26.
+
+Compensatory defects associated with mutations in Hoxa1 restore normal
+palatogenesis to Hoxa2 mutants.
+
+Barrow JR(1), Capecchi MR.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Department of Human Genetics, University of
+Utah School of Medicine, Salt Lake City, UT 84112, USA.
+
+The rhombencephalic neural crest play several roles in craniofacial development. 
+They give rise to the cranial sensory ganglia and much of the craniofacial
+skeleton, and are vital for patterning of the craniofacial muscles. The loss of
+Hoxa1 or Hoxa2 function affects the development of multiple neural crest-derived 
+structures. To understand how these two genes function together in craniofacial
+development, an allele was generated that disrupts both of these linked genes.
+Some of the craniofacial defects observed in the double mutants were additive
+combinations of those that exist in each of the single mutants, indicating that
+each gene functions independently in the formation of these structures. Other
+defects were found only in the double mutants demonstrating overlapping or
+synergistic functions. We also uncovered multiple defects in the attachments and 
+trajectories of the extrinsic tongue and hyoid muscles in Hoxa2 mutants.
+Interestingly, the abnormal trajectory of two of these muscles, the styloglossus 
+and the stylohyoideus, blocked the attachment of the hyoglossus to the greater
+horn of the hyoid, which in turn correlated exactly with the presence of cleft
+palate in Hoxa2 mutants. We suggest that the hyoglossus, whose function is to
+depress the lateral edges of the tongue, when unable to make its proper
+attachment to the greater horn of the hyoid, forces the tongue to adopt an
+abnormal posture which blocks closure of the palatal shelves. Unexpectedly, in
+Hoxa1/Hoxa2 double mutants, the penetrance of cleft palate is dramatically
+reduced. We show that two compensatory defects, associated with the loss of Hoxa1
+function, restore normal attachment of the hyoglossus to the greater horn thereby
+allowing the palatal shelves to lift and fuse above the flattened tongue.
+
+PMID: 10529419  [PubMed - indexed for MEDLINE]
+
+
+129. Development. 1999 Oct;126(20):4395-404.
+
+The role of the rhombic lip in avian cerebellum development.
+
+Wingate RJ(1), Hatten ME.
+
+Author information: 
+(1)Laboratory of Developmental Neurobiology, Rockefeller University, New York, NY
+10021-10034, USA. richard.wingate@kcl.ac.uk
+
+We have used a combination of quail-chick fate-mapping techniques and dye
+labelling to investigate the development of the avian cerebellum. Using Hoxa2 as 
+a guide for the microsurgical construction of quail-chick chimaeras, we show that
+the caudal boundary of the presumptive cerebellum at E6 maps to the caudal
+boundary of rhombomere 1. By fate mapping the dorsoventral axis of rhombomere 1, 
+we demonstrate that granule cell precursors are generated at the rhombic lip
+together with neurons of the lateral pontine nucleus. DiI-labelling of cerebellum
+explants reveals that external germinal layer precursors have a characteristic
+unipolar morphology and undergo an orientated, active migration away from the
+rhombic lip, which is apparently independent of either glial or axon guidance or 
+'chain' formation.
+
+PMID: 10498676  [PubMed - indexed for MEDLINE]
+
+
+130. Development. 1999 Jun;126(12):2751-8.
+
+Specification of distinct motor neuron identities by the singular activities of
+individual Hox genes.
+
+Jungbluth S(1), Bell E, Lumsden A.
+
+Author information: 
+(1)Department of Developmental Neurobiology, King's College London, Hodgkin
+Building, Guy's Campus, London SE1 9RT, UK.
+
+Hox genes have been implicated in specifying positional values along the
+anteroposterior axis of the caudal central nervous system, but their nested and
+overlapping expression has complicated the understanding of how they confer
+specific neural identity. We have employed a direct gain-of-function approach
+using retroviral vectors to misexpress Hoxa2 and Hoxb1 outside of the normal Hox 
+expression domains, thereby avoiding complications resulting from possible
+interactions with endogenous Hox genes. Misexpression of either Hoxa2 or Hoxb1 in
+the anteriormost hindbrain (rhombomere1, r1) leads to the generation of motor
+neurons in this territory, even though it is normally devoid of this cell type.
+These ectopic neurons have the specific identity of branchiomotor neurons and, in
+the case of Hoxb1-induced cells, their axons leave the hindbrain either by
+fasciculating with the resident cranial motor axons at isthmic (trochlear) or r2 
+(trigeminal) levels of the axis or via novel ectopic exit points in r1. Next, we 
+have attempted to identify the precise branchiomotor subtypes that are generated 
+after misexpression and our results suggest that the ectopic motor neurons
+generated following Hoxa2 misexpression are trigeminal-like, while those
+generated following Hoxb1 misexpression are facial-like. Our data demonstrate,
+therefore, that at least to a certain extent and for certain cell types, the
+singular activities of individual Hox genes (compared to a combinatorial mode of 
+action, for example) are sufficient to impose on neuronal precursor cells the
+competence to generate distinctly specified cell types. Moreover, as these
+particular motor neuron subtypes are normally generated in the most anterior
+domains of Hoxa2 and Hoxb1 expression, respectively, our data support the idea
+that the main site of individual Hox gene action is in the anteriormost subdomain
+of their expression, consistent with the phenomenon of posterior dominance.
+
+PMID: 10331985  [PubMed - indexed for MEDLINE]
+
+
+131. Neuron. 1999 Apr;22(4):677-91.
+
+Hoxa2 and Hoxb2 control dorsoventral patterns of neuronal development in the
+rostral hindbrain.
+
+Davenne M(1), Maconochie MK, Neun R, Pattyn A, Chambon P, Krumlauf R, Rijli FM.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire, Centre
+National de la Recherche Scientifique/Institut National de la Santé et de la
+Recherche Médicale/Université Louis Pasteur, Collège de France, Strasbourg.
+
+Little is known about how the generation of specific neuronal types at
+stereotypic positions within the hindbrain is linked to Hox gene-mediated
+patterning. Here, we show that during neurogenesis, Hox paralog group 2 genes
+control both anteroposterior (A-P) and dorsoventral (D-V) patterning. Hoxa2 and
+Hoxb2 differentially regulate, in a rhombomere-specific manner, the expression of
+several genes in broad D-V-restricted domains or narrower longitudinal columns of
+neuronal progenitors, immature neurons, and differentiating neuronal subtypes.
+Moreover, Hoxa2 and Hoxb2 can functionally synergize in controlling the
+development of ventral neuronal subtypes in rhombomere 3 (r3). Thus, in addition 
+to their roles in A-P patterning, Hoxa2 and Hoxb2 have distinct and restricted
+functions along the D-V axis during neurogenesis, providing insights into how
+neuronal fates are assigned at stereotypic positions within the hindbrain.
+
+PMID: 10230789  [PubMed - indexed for MEDLINE]
+
+
+132. Biochem Biophys Res Commun. 1999 Apr 21;257(3):738-45.
+
+HOXC5 and HOXC8 expression are selectively turned on in human cervical cancer
+cells compared to normal keratinocytes.
+
+Alami Y(1), Castronovo V, Belotti D, Flagiello D, Clausse N.
+
+Author information: 
+(1)Metastasis Research Laboratory, University of Liege, Liege, Belgium.
+
+A growing number of data have sustained the involvement of homeobox genes
+expression deregulation in cancer. In this study, we have performed an exhaustive
+survey of the expression of the 39 class I HOX genes expressed in normal and
+malignant human cervix keratinocytes. Using RT-PCR, we observed that the vast
+majority (34/39) of HOX genes are expressed in normal keratinocytes. Only HOXA2, 
+HOXA7, HOXC5, HOXC8 and HOXD12 were found to be silent. Interestingly, this
+pattern is conserved in the transformed keratinocytes (SiHa cells) except for the
+appearance of HOXC5 and HOXC8 mRNA. The HOXC5 and HOXC8 expression was also
+observed in two other transformed keratinocytes cell lines of independent
+origins, Eil-8 and 18-11S3, and confirmed by in situ hybridization. Our data add 
+weight to the body of evidence attributing to a specific adult tissue a
+particular combination of expressed HOX genes and suggest that HOXC5 and/or HOXC8
+could be involved in the process leading to the transformation of cervical
+keratinocytes.
+
+Copyright 1999 Academic Press.
+
+PMID: 10208853  [PubMed - indexed for MEDLINE]
+
+
+133. Development. 1999 Apr;126(7):1483-94.
+
+Regulation of Hoxa2 in cranial neural crest cells involves members of the AP-2
+family.
+
+Maconochie M(1), Krishnamurthy R, Nonchev S, Meier P, Manzanares M, Mitchell PJ, 
+Krumlauf R.
+
+Author information: 
+(1)Laboratory of Developmental Neurobiology, National Institute for Medical
+Research, The Ridgeway, Mill Hill, London NW7 1AA, UK. r-krumlauf@nimr.mrc.ac.uk
+
+Hoxa2 is expressed in cranial neural crest cells that migrate into the second
+branchial arch and is essential for proper patterning of neural-crest-derived
+structures in this region. We have used transgenic analysis to begin to address
+the regulatory mechanisms which underlie neural-crest-specific expression of
+Hoxa2. By performing a deletion analysis on an enhancer from the Hoxa2 gene that 
+is capable of mediating expression in neural crest cells in a manner similar to
+the endogenous gene, we demonstrated that multiple cis-acting elements are
+required for neural-crest-specific activity. One of these elements consists of a 
+sequence that binds to the three transcription factor AP-2 family members.
+Mutation or deletion of this site in the Hoxa2 enhancer abrogates reporter
+expression in cranial neural crest cells but not in the hindbrain. In both cell
+culture co-transfection assays and transgenic embryos AP-2 family members are
+able to trans-activate reporter expression, showing that this enhancer functions 
+as an AP-2-responsive element in vivo. Reporter expression is not abolished in an
+AP-2(alpha) null mutant embryos, suggesting redundancy with other AP-2 family
+members for activation of the Hoxa2 enhancer. Other cis-elements identified in
+this study critical for neural-crest-specific expression include an element that 
+influences levels of expression and a conserved sequence, which when multimerized
+directs expression in a broad subset of neural crest cells. These elements work
+together to co-ordinate and restrict neural crest expression to the second
+branchial arch and more posterior regions. Our findings have identified the
+cis-components that allow Hoxa2 to be regulated independently in rhombomeres and 
+cranial neural crest cells.
+
+PMID: 10068641  [PubMed - indexed for MEDLINE]
+
+
+134. Development. 1999 Feb;126(4):759-69.
+
+Conserved and distinct roles of kreisler in regulation of the paralogous Hoxa3
+and Hoxb3 genes.
+
+Manzanares M(1), Cordes S, Ariza-McNaughton L, Sadl V, Maruthainar K, Barsh G,
+Krumlauf R.
+
+Author information: 
+(1)Division of Developmental Neurobiology, MRC National Institute for Medical
+Research, The Ridgeway, Mill Hill, London NW7 1AA, UK.
+
+During anteroposterior patterning of the developing hindbrain, the anterior
+expression of 3' Hox genes maps to distinct rhombomeric boundaries and, in many
+cases, is upregulated in specific segments. Paralogous genes frequently have
+similar anterior boundaries of expression but it is not known if these are
+controlled by common mechanisms. The expression of the paralogous Hoxa3 and Hoxb3
+genes extends from the posterior spinal cord up to the rhombomere (r) 4/5
+boundary and both genes are upregulated specifically in r5. However, in this
+study, we have found that Hoxa3 expression is also upregulated in r6, showing
+that there are differences in segmental expression between paralogues. We have
+used transgenic analysis to investigate the mechanisms underlying the pattern of 
+segmental expression of Hoxa3. We found that the intergenic region between Hoxa3 
+and Hoxa4 contains several enhancers, which summed together mediate a pattern of 
+expression closely resembling that of the endogenous Hoxa3 gene. One enhancer
+specifically directs expression in r5 and r6, in a manner that reflects the
+upregulation of the endogenous gene in these segments. Deletion analysis
+localized this activity to a 600 bp fragment that was found to contain a single
+high-affinity binding site for the Maf bZIP protein Krml1, encoded by the
+kreisler gene. This site is necessary for enhancer activity and when multimerized
+it is sufficient to direct a kreisler-like pattern in transgenic embryos.
+Furthermore the r5/r6 enhancer activity is dependent upon endogenous kreisler and
+is activated by ectopic kreisler expression. This demonstrates that Hoxa3, along 
+with its paralog Hoxb3, is a direct target of kreisler in the mouse hindbrain.
+Comparisons between the Krml1-binding sites in the Hoxa3 and Hoxb3 enhancers
+reveal that there are differences in both the number of binding sites and way
+that kreisler activity is integrated and restricted by these two control regions.
+Analysis of the individual sites revealed that they have different requirements
+for mediating r5/r6 and dorsal roof plate expression. Therefore, the restriction 
+of Hoxb3 to r5 and Hoxa3 to r5 and r6, together with expression patterns of Hoxb3
+in other vertebrate species suggests that these regulatory elements have a common
+origin but have later diverged during vertebrate evolution.
+
+PMID: 9895323  [PubMed - indexed for MEDLINE]
+
+
+135. Dev Biol. 1997 Dec 15;192(2):274-88.
+
+Hox group 3 paralogous genes act synergistically in the formation of somitic and 
+neural crest-derived structures.
+
+Manley NR(1), Capecchi MR.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Department of Human Genetics, University of
+Utah School of Medicine, Salt Lake City 84112, USA.
+
+Hox genes encode transcription factors that are used to regionalize the mammalian
+embryo. Analysis of mice carrying targeted mutations in individual and multiple
+Hox genes is beginning to reveal a complex network of interactions among these
+closely related genes which is responsible for directing the formation of
+spatially restricted tissues and structures. In this report we present an
+analysis of the genetic interactions between all members of the third paralogous 
+group, Hoxa3, Hoxb3, and Hoxd3. Previous analysis has shown that although mice
+homozygous for loss-of-function mutations in either Hoxa3 or Hoxd3 have no
+defects in common, mice mutant for both genes demonstrate that these two genes
+strongly interact in a dosage-dependent manner. To complete the analysis of this 
+paralogous gene family, mice with a targeted disruption of the Hoxb3 gene were
+generated. Homozygous mutants have minor defects at low penetrance in the
+formation of both the cervical vertebrae and the IXth cranial nerve. Analysis and
+comparison of all double-mutant combinations demonstrate that all three members
+of this paralogous group interact synergistically to affect the development of
+both neuronal and mesenchymal neural crest-derived structures, as well as somitic
+mesoderm-derived structures. Surprisingly, with respect to the formation of the
+cervical vertebrae, mice doubly mutant for Hoxa3 and Hoxd3 or Hoxb3 and Hoxd3
+show an indistinguishable defect, loss of the entire atlas. This suggests that
+the identity of the specific Hox genes that are functional in a given region may 
+not be as critical as the total number of Hox genes operating in that region.
+
+PMID: 9441667  [PubMed - indexed for MEDLINE]
+
+
+136. Genetics. 1997 Jul;146(3):939-49.
+
+Point mutations within and outside the homeodomain identify sequences required
+for proboscipedia homeotic function in Drosophila.
+
+Benassayag C(1), Boube M, Seroude L, Cribbs DL.
+
+Author information: 
+(1)Centre de Biologie du Développement-CNRS, Toulouse, France.
+
+The Drosophila homeotic gene proboscipedia (pb) encodes a homeodomain protein
+homologous to vertebrate HoxA2/B2 required for adult mouthparts formation. A
+transgenic Hsp70-pb (HSPB) element that rescues pb mutations also induces the
+dominant transformation of antennae to maxillary palps. To identify sequences
+essential to PB protein function, we screened for EMS-induced HSPB mutations
+leading to phenotypic reversion of the HSPB transformation. Ten revertants harbor
+identified point mutations in HSPB coding sequences. The point mutations that
+remove all detectable phenotypes in vivo reside either within the homeodomain or,
+more unexpectedly, in evolutionarily nonconserved regions outside the
+homeodomain. Two independent homeodomain mutations that change the highly
+conserved Arginine-5 in the N-terminal hinge show effects on adult eye
+development, suggesting a previously unsuspected role for Arg5 in functional
+specificity. Three additional revertant mutations outside the homeodomain reduce 
+but do not abolish PB+ activity, identifying protein elements that contribute
+quantitatively to pb function. This in vivo analysis shows that apart from the
+conserved motifs of PB, other elements throughout the protein make important
+contributions to homeotic function.
+
+PMCID: PMC1208062
+PMID: 9215898  [PubMed - indexed for MEDLINE]
+
+
+137. EMBO J. 1997 Jun 16;16(12):3644-54.
+
+Functional dissection of a transcriptionally active, target-specific Hox-Pbx
+complex.
+
+Di Rocco G(1), Mavilio F, Zappavigna V.
+
+Author information: 
+(1)DIBIT-Istituto Scientifico H.S. Raffaele, Milano, Italy.
+
+Hox genes control cell fates and specify regional identities in vertebrate
+development. Hox proteins show a relaxed DNA-binding selectivity in vitro,
+suggesting that functional specificity is achieved in vivo through the action of 
+transcriptional co-factors. Pbx proteins are good candidates for such a role, on 
+the basis of both genetic and biochemical evidence. We report that the human Pbx1
+and HOXB1 proteins can cooperatively activate transcription through a genetically
+characterized Hox target, i.e. an autoregulatory element directing spatially
+restricted expression of the murine Hoxb-1 gene (b1-ARE) in the developing
+hindbrain. On the b1-ARE, only a restricted subset of HOX proteins (HOXA1, HOXB1,
+HOXA2) are able to bind cooperatively with Pbx1 and activate transcription.
+Selective recognition of the b1-ARE is mediated by the N-terminal region of the
+HOX homeodomain. The DNA-binding and protein-protein interaction functions of
+HOXB1 and Pbx1 are all necessary for the assembly of a transcriptionally active
+complex on the b1-ARE. Functional dissection of the complex allowed the
+localization of the main activation domain in the HOXB1 N-terminal region, and of
+an additional one in the C-terminal region of Pbx1 contained in the Pbx1a but not
+in the alternatively spliced Pbx1b isoform. Our results indicate that Pbx1 acts
+as a transcriptional co-factor of Hox proteins, allowing selective recognition
+and cooperative activation of regulatory target sequences.
+
+PMCID: PMC1169988
+PMID: 9218805  [PubMed - indexed for MEDLINE]
+
+
+138. Mech Dev. 1997 May;63(2):187-98.
+
+A homeodomain point mutation of the Drosophila proboscipedia protein provokes eye
+loss independently of homeotic function.
+
+Benassayag C(1), Seroude L, Boube M, Erard M, Cribbs DL.
+
+Author information: 
+(1)Centre de Biologie du Développement-CNRS, Toulouse, France.
+
+The Drosophila homeotic gene proboscipedia (pb: HoxA2/B2 homolog) is required for
+adult mouthparts development. Ectopic PB protein expression from a transgenic
+Hsp70-pb minigene (HSPB) results in transformation of adult antennae to maxillary
+palps. In contrast, most tissues appear refractory to PB-induced effects. To
+study the basis of homeotic tissue specificity we are isolating and studying
+mutations that modify dominant HSPB-induced phenotypes. One HSPB point mutation
+(Arg5 of the homeodomain to His) removes homeotic activity in the mouthparts and 
+antennae, but provokes a dose-sensitive eye loss. We show that eye loss can be
+induced by PB proteins that no longer effectively bind to DNA. The dose-sensitive
+eye loss thus appears to be mediated by specific, context-dependent
+protein-protein interactions.
+
+PMID: 9203141  [PubMed - indexed for MEDLINE]
+
+
+139. Mamm Genome. 1996 Mar;7(3):216-7.
+
+Orientation of the Hoxa complex and placement of the Hd locus distal to Hoxa2 on 
+mouse chromosome 6.
+
+Innis JW(1), Darling SM, Kazen-Gillespie K, Post LC, Mortlock DP, Yang T.
+
+Author information: 
+(1)Department of Human Genetics, Med Sci. II, Ann Arbor, Michigan 48109-0618,
+USA.
+
+PMID: 8833244  [PubMed - indexed for MEDLINE]
+
+
+140. Mamm Genome. 1993;4(10):555-9.
+
+The little (lit) mutation cosegregates with the growth hormone releasing factor
+receptor on mouse chromosome 6.
+
+Chua SC(1), Hennessey K, Zeitler P, Leibel RL.
+
+Author information: 
+(1)Laboratory of Human Behavior and Metabolism, Rockefeller University, New York,
+New York 10021.
+
+The little (lit) autosomal recessive mutation in the mouse causes dwarfism due to
+isolated growth hormone deficiency. The in vitro physiology of pituitary growth
+hormone release in lit/lit animals suggests that an abnormality in the growth
+hormone releasing factor (GRF) receptor (Ghrfr) is a very likely candidate for
+the lit mutation. We mapped Ghrfr to the region around lit on Chromosome (Chr) 6 
+in 100 chromosomes of an FVB x Czech II interspecific backcross. Molecular
+markers were Neuropeptide Y (Npy), homeobox (Hoxa2), immunoglobulin kappa chain
+(Igk), wingless-related MMTV integration site (Wnt-2), cystic fibrosis (Cftr),
+carboxypeptidase A (Cpa), and Ghrfr. Map order and distances were as follows:
+Cen-II-Wnt-2-(0 cM)-Cftr-(6.0 cM)-Cpa-(8.0 cM)-Npy-(1.0 cM)-Hoxa2-(3.0
+cM)-Ghrfr-(2.0 cM)-Igk. We mapped lit (by phenotype) relative to Hoxa2 and Igk on
+72 F2 chromosomes of offspring of a B6CZ lit/ + x B6FVB lit/ + intercross and 18 
+chromosomes of offspring of a B6FVB lit/ + intercross. Map order and distances
+were as follows: Hoxa2-(2.1 cM)-lit/Ghrfr-(3.7 cM)-Igk. No recombinations between
+lit and Ghrfr were detected. Thus, Ghrfr maps to mouse Chr 6 and may be allelic
+with lit. Amplification of a short segment at the 3' end of the Ghrfr mRNA by
+reverse transcription coupled to the polymerase chain reaction showed a greatly
+diminished level of GRF receptor mRNA in the pituitaries of lit/lit mice as
+compared with lit/ + controls. Low level of message could reflect a primary
+molecular defect or be due to secondary hypoplasia of somatotropes.(ABSTRACT
+TRUNCATED AT 250 WORDS)
+
+PMID: 8268652  [PubMed - indexed for MEDLINE]
+
+

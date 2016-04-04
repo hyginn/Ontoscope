@@ -1,0 +1,2197 @@
+
+1. Joint Bone Spine. 2016 Jan 29. pii: S1297-319X(15)00281-X. doi:
+10.1016/j.jbspin.2015.09.001. [Epub ahead of print]
+
+Identification of upstream regulators for synovial expression signature genes in 
+osteoarthritis.
+
+Fei Q(1), Lin J(1), Meng H(1), Wang B(1), Yang Y(1), Wang Q(1), Su N(1), Li J(1),
+Li D(2).
+
+Author information: 
+(1)Department of Orthopaedics, Beijing Friendship Hospital, Capital Medical
+University, 95, Yong'an Road, Beijing 100050, China. (2)Department of
+Orthopaedics, Beijing Friendship Hospital, Capital Medical University, 95,
+Yong'an Road, Beijing 100050, China. Electronic address: spinefei@163.com.
+
+OBJECTIVES: The detection of transcription factors (TFs) for OA signature genes
+provides better clues to the underlying regulatory mechanisms and therapeutic
+applications.
+METHODS: We searched GEO database for synovial expression profiling from
+different OA microarray studies to perform a systematic analysis. Functional
+annotation of DEGs was conducted, including gene ontology (GO) enrichment
+analysis and Kyoto encyclopedia of genes and genomes (KEGG) pathway enrichment
+analysis. Based on motif databases and the results from integrated analysis of
+current gene expression data, a global transcriptional regulatory network was
+constructed, and the upstream TFs were identified for OA signature genes.
+RESULTS: Six GEO datasets were obtained. Totally, 805 genes across the studies
+were consistently differentially expressed in OA (469 up-regulated and 336
+down-regulated genes) with FDR=0.01. Supporting an involvement of ECM in the
+development of OA, we showed that ECM-receptor interaction was the most
+significant pathway in our KEGG analysis (P=5.92E-12). Sixty-one differentially
+expressed TFs were identified with FDR=0.05. The constructed OA-specific
+regulatory networks consisted of 648 TF-target interactions between 51 TFs and
+429 DEGs in the context of OA. The top 10 TFs covering the most downstream DEGs
+were identified as crucial TFs involved in the development of OA, including
+ARID3A, NFIC, ZNF354C, NR4A2, BRCA1, EHF, FOXL1, FOXC1, EGR1, and HOXA5.
+CONCLUSION: This integrated analysis has identified the OA signature, providing
+clues to pathogenesis of OA at the molecular level, which may be also used as
+diagnostic markers for OA. Some crucial upstream regulators, such as NR4A2, EHF, 
+and EGR1 may be considered as potential new therapeutic targets for OA.
+
+Copyright © 2015 Société française de rhumatologie. Published by Elsevier SAS.
+All rights reserved.
+
+PMID: 26832188  [PubMed - as supplied by publisher]
+
+
+2. Cell Rep. 2016 Jan 26;14(3):520-33. doi: 10.1016/j.celrep.2015.12.064. Epub 2016 
+Jan 14.
+
+let-7 Modulates Chromatin Configuration and Target Gene Repression through
+Regulation of the ARID3B Complex.
+
+Liao TT(1), Hsu WH(1), Ho CH(1), Hwang WL(2), Lan HY(1), Lo T(1), Chang CC(3),
+Tai SK(4), Yang MH(5).
+
+Author information: 
+(1)Institute of Clinical Medicine, National Yang-Ming University, No. 155,
+Section 2, Li-Nong Street, Taipei 11221, Taiwan. (2)The Ph.D. Program for
+Translational Medicine, College of Medical Science and Technology, Taipei Medical
+University, No. 250, Wuxing Street, Taipei 11031, Taiwan. (3)Graduate Institute
+of Oral Biology, School of Dentistry, National Taiwan University, No. 1, Changde 
+Street, Taipei 10048, Taiwan. (4)Department of Otolaryngology, Taipei Veterans
+General Hospital, No. 201, Section 2, Shih-Pai Road, Taipei 11217, Taiwan.
+(5)Institute of Clinical Medicine, National Yang-Ming University, No. 155,
+Section 2, Li-Nong Street, Taipei 11221, Taiwan; Institute of Biotechnology in
+Medicine, National Yang-Ming University, No. 155, Section 2, Li-Nong Street,
+Taipei 11221, Taiwan; Genomic Research Center, National Yang-Ming University, No.
+155, Section 2, Li-Nong Street, Taipei 11221, Taiwan; Division of Medical
+Oncology, Department of Oncology, Taipei Veterans General Hospital, No. 201,
+Section 2, Shih-Pai Road, Taipei 11217, Taiwan; Genomic Research Center, Academia
+Sinica, No. 128, Section 2, Academia Road, Taipei 11529, Taiwan. Electronic
+address: mhyang2@vghtpe.gov.tw.
+
+Let-7 is crucial for both stem cell differentiation and tumor suppression. Here, 
+we demonstrate a chromatin-dependent mechanism of let-7 in regulating target gene
+expression in cancer cells. Let-7 directly represses the expression of AT-rich
+interacting domain 3B (ARID3B), ARID3A, and importin-9. In the absence of let-7, 
+importin-9 facilitates the nuclear import of ARID3A, which then forms a complex
+with ARID3B. The nuclear ARID3B complex recruits histone demethylase 4C to reduce
+histone 3 lysine 9 trimethylation and promotes the transcription of stemness
+factors. Functionally, expression of ARID3B is critical for the tumor initiation 
+in let-7-depleted cancer cells. An inverse association between let-7 and
+ARID3A/ARID3B and prognostic significance is demonstrated in head and neck cancer
+patients. These results highlight a chromatin-dependent mechanism where let-7
+regulates cancer stemness through ARID3B.
+
+Copyright © 2016 The Authors. Published by Elsevier Inc. All rights reserved.
+
+PMID: 26776511  [PubMed - in process]
+
+
+3. J Immunol. 2016 Jan 15;196(2):614-23. doi: 10.4049/jimmunol.1500355. Epub 2015
+Dec 18.
+
+The Transcription Factor ARID3a Is Important for In Vitro Differentiation of
+Human Hematopoietic Progenitors.
+
+Ratliff ML(1), Mishra M(2), Frank MB(1), Guthridge JM(1), Webb CF(3).
+
+Author information: 
+(1)Oklahoma Medical Research Foundation, Oklahoma City, OK 73104; (2)Walter Reed 
+Army Institute of Research, Silver Spring, MD 20910; (3)Oklahoma Medical Research
+Foundation, Oklahoma City, OK 73104; Department of Microbiology and Immunology,
+University of Oklahoma Health Sciences Center, Oklahoma City, OK 73104; and
+Department of Cell Biology, University of Oklahoma Health Sciences Center,
+Oklahoma City, OK 73104 carol-webb@ouhsc.edu.
+
+We recently reported that the transcription factor ARID3a is expressed in a
+subset of human hematopoietic progenitor stem cells in both healthy individuals
+and in patients with systemic lupus erythematosus. Numbers of ARID3a(+) lupus
+hematopoietic stem progenitor cells were associated with increased production of 
+autoreactive Abs when those cells were introduced into humanized mouse models.
+Although ARID3a/Bright knockout mice died in utero, they exhibited decreased
+numbers of hematopoietic stem cells and erythrocytes, indicating that ARID3a is
+functionally important for hematopoiesis in mice. To explore the requirement for 
+ARID3a for normal human hematopoiesis, hematopoietic stem cell progenitors from
+human cord blood were subjected to both inhibition and overexpression of ARID3a
+in vitro. Inhibition of ARID3a resulted in decreased B lineage cell production
+accompanied by increases in cells with myeloid lineage markers. Overexpression of
+ARID3a inhibited both myeloid and erythroid differentiation. Additionally,
+inhibition of ARID3a in hematopoietic stem cells resulted in altered expression
+of transcription factors associated with hematopoietic lineage decisions. These
+results suggest that appropriate regulation of ARID3a is critical for normal
+development of both myeloid and B lineage pathways.
+
+Copyright © 2016 by The American Association of Immunologists, Inc.
+
+PMID: 26685208  [PubMed - in process]
+
+
+4. BMC Dev Biol. 2015 Dec 18;15:49. doi: 10.1186/s12861-015-0096-3.
+
+Transcriptome profiling of bovine inner cell mass and trophectoderm derived from 
+in vivo generated blastocysts.
+
+Hosseini SM(1,)(2), Dufort I(3), Caballero J(4), Moulavi F(5), Ghanaei HR(6),
+Sirard MA(7).
+
+Author information: 
+(1)Department of Reproductive Biotechnology, Reproductive Biomedicine Research
+Center, Royan Institute for Biotechnology, ACECR, Isfahan, Iran.
+smhosseini@royaninstitute.org. (2)Centre de Recherche en Biologie de la
+Reproduction, Faculté des Sciences de l'Agriculture et de l'Alimentation,
+Département des Sciences Animales, Pavillon INAF, Université Laval, Québec, QC,
+G1V 0A6, Canada. smhosseini@royaninstitute.org. (3)Centre de Recherche en
+Biologie de la Reproduction, Faculté des Sciences de l'Agriculture et de
+l'Alimentation, Département des Sciences Animales, Pavillon INAF, Université
+Laval, Québec, QC, G1V 0A6, Canada. Isabelle.dufort@fsaa.ulaval.ca. (4)Centre de 
+Recherche en Biologie de la Reproduction, Faculté des Sciences de l'Agriculture
+et de l'Alimentation, Département des Sciences Animales, Pavillon INAF,
+Université Laval, Québec, QC, G1V 0A6, Canada. Julieta.caballero.1@ulaval.ca.
+(5)Department of Reproductive Biotechnology, Reproductive Biomedicine Research
+Center, Royan Institute for Biotechnology, ACECR, Isfahan, Iran.
+f_moulavi@yahoo.com. (6)Department of Reproductive Biotechnology, Reproductive
+Biomedicine Research Center, Royan Institute for Biotechnology, ACECR, Isfahan,
+Iran. hamidghanai@yahoo.co.uk. (7)Centre de Recherche en Biologie de la
+Reproduction, Faculté des Sciences de l'Agriculture et de l'Alimentation,
+Département des Sciences Animales, Pavillon INAF, Université Laval, Québec, QC,
+G1V 0A6, Canada. Marc-Andre.Sirard@fsaa.ulaval.ca.
+
+BACKGROUND: This study describes the generation and analysis of the
+transcriptional profile of bovine inner cell mass (ICM) and trophectoderm (TE),
+obtained from in vivo developed embryos by using a bovine-embryo specific array
+(EmbryoGENE) containing 37,238 probes.
+RESULTS: A total of 4,689 probes were differentially expressed between ICM and
+TE, among these, 2,380 and 2,309 probes were upregulated in ICM and TE tissues,
+respectively (P = 0.01, FC = 2.0, FDR: 2.0). Ontological classification of the
+genes predominantly expressed in ICM emerged a range of functional categories
+with a preponderance of genes involved in basal and developmental signaling
+pathways including P53, TGFß, IL8, mTOR, integrin, ILK, and ELF2 signalings.
+Cross-referencing of microarray data with two available in vitro studies
+indicated a marked reduction in ICM vs. TE transcriptional difference following
+in vitro culture of bovine embryos. Moreover, a great majority of genes that were
+found to be misregulated following in vitro culture of bovine embryos were known 
+genes involved in epigenetic regulation of pluripotency and cell differentiation 
+including DNMT1, GADD45, CARM1, ELF5 HDAC8, CCNB1, KDM6A, PRDM9, CDX2, ARID3A,
+IL6, GADD45A, FGFR2, PPP2R2B, and SMARCA2. Cross-species referencing of
+microarray data revealed substantial divergence between bovine and mouse and
+human in signaling pathways involved in early lineage specification.
+CONCLUSIONS: The transcriptional changes occur during ICM and TE lineages
+specification in bovine is greater than previously understood. Therefore, this
+array data establishes a standard to evaluate the in vitro imprint on the
+transcriptome and to hypothesize the cross-species differences that allow in
+vitro acquisition of pluripotent ICM in human and mice but hinder that process in
+bovine.
+
+PMCID: PMC4683974
+PMID: 26681441  [PubMed - in process]
+
+
+5. Biochem Biophys Res Commun. 2015 Dec 4-11;468(1-2):248-54. doi:
+10.1016/j.bbrc.2015.10.121. Epub 2015 Oct 28.
+
+Critical role of ARID3B in the expression of pro-apoptotic p53-target genes and
+apoptosis.
+
+Pratama E(1), Tian X(2), Lestari W(3), Iseki S(1), Ichwan SJ(3), Ikeda MA(4).
+
+Author information: 
+(1)Department of Molecular Craniofacial Embryology, Graduate School of Medical
+and Dental Sciences, Tokyo Medical and Dental University, Tokyo, Japan.
+(2)Department of Oral Implantology and Regenerative Dental Medicine, Graduate
+School of Medical and Dental Sciences, Tokyo Medical and Dental University,
+Tokyo, Japan. (3)Faculty of Dentistry, International Islamic University Malaysia,
+Kuantan, Malaysia. (4)Department of Molecular Craniofacial Embryology, Graduate
+School of Medical and Dental Sciences, Tokyo Medical and Dental University,
+Tokyo, Japan. Electronic address: mikeda.emb@tmd.ac.jp.
+
+ARID3A and ARID3B are transcriptional targets of p53. Recently, it has been
+reported that ARID3A plays a critical role in the transcriptional activation of
+pro-arrest p21 in response to DNA damage. However, the role of ARID3B in the p53 
+regulatory pathway remains poorly understood. Here we show that ARID3A and ARID3B
+specifically bind to putative ARID3-binding sites in p53 target genes in vitro
+and in vivo. ARID3B and, to a lesser extent, ARID3A silencing blocked
+transcriptional activation of pro-apoptotic p53 target genes, such as PUMA, PIG3,
+and p53. Furthermore, ectopic ARID3B, to a lesser extent, ARID3A expression
+activated the pro-apoptotic gene expression, and only ARID3B induced apoptosis.
+Finally, ARID3B but not ARID3A silencing blocked apoptosis induction following
+DNA damage. These results indicated that, although ARID3B and ARID3A share
+overlapping functions, ARID3B play a key role in the expression of pro-apoptotic 
+p53-target genes and apoptosis.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+PMID: 26519881  [PubMed - indexed for MEDLINE]
+
+
+6. Physiol Rep. 2015 Oct;3(10). pii: e12537. doi: 10.14814/phy2.12537.
+
+Renal stromal miRNAs are required for normal nephrogenesis and glomerular
+mesangial survival.
+
+Phua YL(1), Chu JY(1), Marrone AK(1), Bodnar AJ(1), Sims-Lucas S(1), Ho J(2).
+
+Author information: 
+(1)Rangos Research Center, School of Medicine, Children's Hospital of Pittsburgh 
+of UPMC University of Pittsburgh, Pittsburgh, Pennsylvania Department of
+Pediatrics, Division of Nephrology, School of Medicine, University of Pittsburgh,
+Pittsburgh, Pennsylvania. (2)Rangos Research Center, School of Medicine,
+Children's Hospital of Pittsburgh of UPMC University of Pittsburgh, Pittsburgh,
+Pennsylvania Department of Pediatrics, Division of Nephrology, School of
+Medicine, University of Pittsburgh, Pittsburgh, Pennsylvania
+jacqueline.ho2@chp.edu.
+
+MicroRNAs are small noncoding RNAs that post-transcriptionally regulate mRNA
+levels. While previous studies have demonstrated that miRNAs are indispensable in
+the nephron progenitor and ureteric bud lineage, little is understood about
+stromal miRNAs during kidney development. The renal stroma (marked by expression 
+of FoxD1) gives rise to the renal interstitium, a subset of peritubular
+capillaries, and multiple supportive vascular cell types including pericytes and 
+the glomerular mesangium. In this study, we generated FoxD1(GC);Dicer(fl/fl)
+transgenic mice that lack miRNA biogenesis in the FoxD1 lineage. Loss of Dicer
+activity resulted in multifaceted renal anomalies including perturbed
+nephrogenesis, expansion of nephron progenitors, decreased renin-expressing
+cells, fewer smooth muscle afferent arterioles, and progressive mesangial cell
+loss in mature glomeruli. Although the initial lineage specification of FoxD1(+) 
+stroma was not perturbed, both the glomerular mesangium and renal interstitium
+exhibited ectopic apoptosis, which was associated with increased expression of
+Bcl2l11 (Bim) and p53 effector genes (Bax, Trp53inp1, Jun, Cdkn1a, Mmp2, and
+Arid3a). Using a combination of high-throughput miRNA profiling of the
+FoxD1(+)-derived cells and mRNA profiling of differentially expressed transcripts
+in FoxD1(GC);Dicer(fl/fl) kidneys, at least 72 miRNA:mRNA target interactions
+were identified to be suppressive of the apoptotic program. Together, the results
+support an indispensable role for stromal miRNAs in the regulation of apoptosis
+during kidney development.
+
+© 2015 The Authors. Physiological Reports published by Wiley Periodicals, Inc. on
+behalf of the American Physiological Society and The Physiological Society.
+
+PMCID: PMC4632944
+PMID: 26438731  [PubMed]
+
+
+7. Genes Dev. 2015 Sep 1;29(17):1890.
+
+Corrigendum: Arid3a is essential to execution of the first cell fate decision via
+direct embryonic and extraembryonic transcriptional regulation.
+
+Rhee C, Lee BK, Beck S, Anjum A, Cook KR, Popowski M, Tucker HO, Kim J.
+
+Erratum for
+    Genes Dev. 2014 Oct 15;28(20):2219-32.
+
+PMCID: PMC4573860
+PMID: 26341560  [PubMed]
+
+
+8. Eur J Immunol. 2015 Nov;45(11):2978-84. doi: 10.1002/eji.201445146. Epub 2015 Sep
+23.
+
+Perspectives on fetal derived CD5+ B1 B cells.
+
+Hardy RR(1), Hayakawa K(1).
+
+Author information: 
+(1)Fox Chase Cancer Center, Philadelphia, PA, USA.
+
+CD5(+) B-cell origins and their predisposition to lymphoma are long-standing
+issues. Transfer of fetal and adult liver BM Pro-B cells generates B cells with
+distinct phenotypes: fetal cells generate IgM(high) IgD(low) CD5(+) , whereas
+adult cells IgM(low) IgD(high) CD5(-) . This suggests a developmental switch in B
+lymphopoiesis, similar to the switch in erythropoiesis. Comparison of mRNA and
+miRNA expression in fetal and adult Pro-B cells revealed differential expression 
+of Lin28b mRNA and Let-7 miRNA, providing evidence that this regulatory axis
+functions in the switch. Recent work has shown that Arid3a is a key transcription
+factor mediating fetal-type B-cell development. Lin28b-promoted fetal development
+generates CD5(+) B cells as a consequence of positively selected self-reactivity.
+CD5(+) B cells play important roles in clearance of apoptotic cells and in
+protective immune responses, but also pose a risk of progression to
+leukemia/lymphoma. Differential Lin28b expression in fetal and adult human B-cell
+precursors showed that human B-cell development may resemble mouse, with
+self-reactive "innate-like" B cells generated early in life. It remains to be
+determined whether such human B cells have a higher propensity to leukemic
+progression. This review describes our recent research with CD5(+) B cells and
+presents our perspective on their role in disease.
+
+© 2015 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+PMCID: PMC4674377 [Available on 2016-11-01]
+PMID: 26339791  [PubMed - in process]
+
+
+9. PLoS One. 2015 Jun 29;10(6):e0131961. doi: 10.1371/journal.pone.0131961.
+eCollection 2015.
+
+ARID3B Directly Regulates Ovarian Cancer Promoting Genes.
+
+Bobbs A(1), Gellerman K(2), Hallas WM(2), Joseph S(1), Yang C(2), Kurkewich J(3),
+Cowden Dahl KD(4).
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, Indiana University School of
+Medicine-South Bend, South Bend, Indiana, United States of America; Harper Cancer
+Research Institute, South Bend, Indiana, United States of America. (2)Harper
+Cancer Research Institute, South Bend, Indiana, United States of America;
+Department of Chemistry and Biochemistry, University of Notre Dame, Notre Dame,
+Indiana, United States of America. (3)Harper Cancer Research Institute, South
+Bend, Indiana, United States of America; Department of Biological Sciences,
+University of Notre Dame, Notre Dame, Indiana, United States of America.
+(4)Department of Biochemistry and Molecular Biology, Indiana University School of
+Medicine-South Bend, South Bend, Indiana, United States of America; Harper Cancer
+Research Institute, South Bend, Indiana, United States of America; Department of 
+Chemistry and Biochemistry, University of Notre Dame, Notre Dame, Indiana, United
+States of America; Indiana University Melvin and Bren Simon Cancer Center,
+Indianapolis, Indiana, United States of America.
+
+The DNA-binding protein AT-Rich Interactive Domain 3B (ARID3B) is elevated in
+ovarian cancer and increases tumor growth in a xenograft model of ovarian cancer.
+However, relatively little is known about ARID3B's function. In this study we
+perform the first genome wide screen for ARID3B direct target genes and ARID3B
+regulated pathways. We identified and confirmed numerous ARID3B target genes by
+chromatin immunoprecipitation (ChIP) followed by microarray and quantitative
+RT-PCR. Using motif-finding algorithms, we characterized a binding site for
+ARID3B, which is similar to the previously known site for the ARID3B paralogue
+ARID3A. Functionality of this predicted site was demonstrated by ChIP analysis.
+We next demonstrated that ARID3B induces expression of its targets in ovarian
+cancer cell lines. We validated that ARID3B binds to an epidermal growth factor
+receptor (EGFR) enhancer and increases mRNA expression. ARID3B also binds to the 
+promoter of Wnt5A and its receptor FZD5. FZD5 is highly expressed in ovarian
+cancer cell lines, and is upregulated by exogenous ARID3B. Both ARID3B and FZD5
+expression increase adhesion to extracellular matrix (ECM) components including
+collagen IV, fibronectin and vitronectin. ARID3B-increased adhesion to collagens 
+II and IV require FZD5. This study directly demonstrates that ARID3B binds target
+genes in a sequence-specific manner, resulting in increased gene expression.
+Furthermore, our data indicate that ARID3B regulation of direct target genes in
+the Wnt pathway promotes adhesion of ovarian cancer cells.
+
+PMCID: PMC4486168
+PMID: 26121572  [PubMed - in process]
+
+
+10. Biochem Biophys Res Commun. 2015 Aug 7;463(4):1334-40. doi:
+10.1016/j.bbrc.2015.06.130. Epub 2015 Jun 23.
+
+A developmentally plastic adult mouse kidney cell line spontaneously generates
+multiple adult kidney structures.
+
+Webb CF(1), Ratliff ML(2), Powell R(3), Wirsig-Wiechmann CR(4), Lakiza O(5),
+Obara T(6).
+
+Author information: 
+(1)Department of Cell Biology, University of Oklahoma Health Sciences Center,
+Oklahoma City, OK, USA; Immunobiology and Cancer Research, Oklahoma Medical
+Research Foundation, Oklahoma City, OK, USA; Department of Microbiology and
+Immunology, University of Oklahoma Health Sciences Center, Oklahoma City, OK,
+USA. Electronic address: carol-webb@omrf.org. (2)Immunobiology and Cancer
+Research, Oklahoma Medical Research Foundation, Oklahoma City, OK, USA.
+Electronic address: michelle-ratliff@omrf.org. (3)Department of Cell Biology,
+University of Oklahoma Health Sciences Center, Oklahoma City, OK, USA. Electronic
+address: rebeccapowell@gmail.com. (4)Department of Cell Biology, University of
+Oklahoma Health Sciences Center, Oklahoma City, OK, USA. Electronic address:
+celeste-wirsig@ouhsc.edu. (5)Department of Cell Biology, University of Oklahoma
+Health Sciences Center, Oklahoma City, OK, USA. Electronic address:
+olga-lakiza@ouhsc.edu. (6)Department of Cell Biology, University of Oklahoma
+Health Sciences Center, Oklahoma City, OK, USA. Electronic address:
+tomoko-obara@ouhsc.edu.
+
+Despite exciting new possibilities for regenerative therapy posed by the ability 
+to induce pluripotent stem cells, recapitulation of three-dimensional kidneys for
+repair or replacement has not been possible. ARID3a-deficient mouse tissues
+generated multipotent, developmentally plastic cells. Therefore, we assessed the 
+adult mouse ARID3a-/- kidney cell line, KKPS5, which expresses renal progenitor
+surface markers as an alternative cell source for modeling kidney development.
+Remarkably, these cells spontaneously developed into multicellular nephron-like
+structures in vitro, and engrafted into immunocompromised medaka mesonephros,
+where they formed mouse nephron structures. These data implicate KKPS5 cells as a
+new model system for studying kidney development.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+PMCID: PMC4526183
+PMID: 26111446  [PubMed - indexed for MEDLINE]
+
+
+11. Int J Dev Biol. 2015;59(4-6):241-6. doi: 10.1387/ijdb.140263ho.
+
+Identification of distal enhancers for Six2 expression in pronephros.
+
+Suzuki N(1), Hirano K, Ogino H, Ochi H.
+
+Author information: 
+(1)Faculty of Medicine, Yamagata University, Yamagata-shi, Yamagata, Japan.
+
+The embryonic nephric mesenchyme contains pluripotent progenitor cells. Six2, a
+homeodomain transcription factor, is expressed in a subset of the nephric
+mesenchyme, and it functions to maintain a progenitor state by suppressing
+nephrogenesis. Despite the functional significance of Six2 in nephric
+development, its regulatory mechanisms remain unclear. To identify the
+cis-regulatory elements for Six2, we focused on the evolutionarily conserved
+sequences known as conserved noncoding sequences (CNSs) associated with the Six2 
+locus. Transgenic experiments using Xenopus laevis embryos revealed that three of
+the eight CNSs located within a 317-kb segment of the Six2 genomic locus were
+nephric enhancers. Motif analysis of transcription factors combined with
+phylogenetic footprinting revealed the enrichment of putative T-cell factor
+(Tcf)-, Hox-, and SWI/SNF complex helicase-like transcription factor (Hltf)- and 
+AT-rich interactive domain 3A (Arid3a)-binding motif sequences in these
+enhancers.
+
+PMID: 26009236  [PubMed - in process]
+
+
+12. Ann N Y Acad Sci. 2015 Dec;1362:8-15. doi: 10.1111/nyas.12769. Epub 2015 Apr 30.
+
+A developmental switch between fetal and adult B lymphopoiesis.
+
+Li YS(1), Zhou Y(1), Tang L(1), Shinton SA(1), Hayakawa K(1), Hardy RR(1).
+
+Author information: 
+(1)Fox Chase Cancer Center, Philadelphia, Pennsylvania.
+
+Fluorescence-activated cell sorting (FACS)-purified pro-B cells from fetal liver 
+and adult bone marrow generate B cells with distinct phenotypes: fetal cells
+generate few IgD(high) B cells and half express CD5, whereas adult cells generate
+mostly IgD(high) cells and few express CD5. These results led us to propose a
+model of a developmental switch in B lymphopoiesis, similar to the well-known
+switch in fetal to adult erythropoiesis. More recent global analysis of mRNA and 
+microRNA expression comparing these two types of pro-B cells revealed
+differential expression of Lin28b and microRNAs from the Let-7 family, indicating
+that this regulatory axis plays a role in the switch. Further analysis has
+provided data supporting this model, implicating Arid3a as a key transcription
+factor in mediating fetal-type B cell development. Function of this regulatory
+axis in human B lineage precursors may also explain the predominance of CD5(+) B 
+cells in cord blood. We suggest that Lin28b-promoted B cell development generates
+many cells expressing CD5 as a consequence of positively selected
+self-reactivity. While such cells serve a useful role in clearance of senescent
+cells and in certain immune responses, they also carry the risk of progression to
+leukemia/lymphoma later in life.
+
+© 2015 New York Academy of Sciences.
+
+PMID: 25931205  [PubMed - in process]
+
+
+13. Clin Epigenetics. 2015 Mar 26;7(1):34. doi: 10.1186/s13148-015-0064-6.
+eCollection 2015.
+
+Age-associated DNA methylation changes in immune genes, histone modifiers and
+chromatin remodeling factors within 5 years after birth in human blood
+leukocytes.
+
+Acevedo N(1), Reinius LE(2), Vitezic M(3), Fortino V(4), Söderhäll C(2), Honkanen
+H(5), Veijola R(6), Simell O(7), Toppari J(8), Ilonen J(9), Knip M(10), Scheynius
+A(11), Hyöty H(12), Greco D(4), Kere J(13).
+
+Author information: 
+(1)Department of Medicine Solna, Translational Immunology Unit, Karolinska
+University Hospital, Stockholm, Sweden ; Department of Biosciences and Nutrition,
+Center for Innovative Medicine, Karolinska Institutet, Stockholm, Sweden.
+(2)Department of Biosciences and Nutrition, Center for Innovative Medicine,
+Karolinska Institutet, Stockholm, Sweden. (3)Department of Biology,
+Bioinformatics Centre, University of Copenhagen, Copenhagen, Denmark. (4)Unit of 
+Systems Toxicology, Finnish Institute of Occupational Health, Helsinki, Finland. 
+(5)Department of Virology, School of Medicine, University of Tampere, Tampere,
+Finland. (6)Department of Pediatrics, Oulu University Hospital, University of
+Oulu, Oulu, Finland. (7)Department of Pediatrics, Turku University Hospital,
+Research Centre of Applied and Preventive Cardiovascular Medicine, University of 
+Turku, Turku, Finland. (8)Department of Physiology and Pediatrics, Turku
+University Hospital, University of Turku, Turku, Finland. (9)Immunogenetics
+Laboratory, University of Turku, Finland and Department of Clinical Microbiology,
+University of Eastern Finland, Kuopio, Finland. (10)Children's Hospital, Helsinki
+University Central Hospital, University of Helsinki, Helsinki, Finland ;
+Department of Paediatrics, Tampere University Hospital, Tampere, Finland ;
+Folkhälsan Institute of Genetics, Helsinki, and Research Programs Unit,
+University of Helsinki, Helsinki, Finland. (11)Department of Medicine Solna,
+Translational Immunology Unit, Karolinska University Hospital, Stockholm, Sweden.
+(12)Department of Virology, School of Medicine, University of Tampere, Tampere,
+Finland ; Fimlab Laboratories, Tampere, Finland. (13)Department of Biosciences
+and Nutrition, Center for Innovative Medicine, Karolinska Institutet, Stockholm, 
+Sweden ; Folkhälsan Institute of Genetics, Helsinki, and Research Programs Unit, 
+University of Helsinki, Helsinki, Finland.
+
+BACKGROUND: Age-related changes in DNA methylation occurring in blood leukocytes 
+during early childhood may reflect epigenetic maturation. We hypothesized that
+some of these changes involve gene networks of critical relevance in leukocyte
+biology and conducted a prospective study to elucidate the dynamics of DNA
+methylation. Serial blood samples were collected at 3, 6, 12, 24, 36, 48 and
+60 months after birth in ten healthy girls born in Finland and participating in
+the Type 1 Diabetes Prediction and Prevention Study. DNA methylation was measured
+using the HumanMethylation450 BeadChip.
+RESULTS: After filtering for the presence of polymorphisms and
+cell-lineage-specific signatures, 794 CpG sites showed significant DNA
+methylation differences as a function of age in all children (41.6%
+age-methylated and 58.4% age-demethylated, Bonferroni-corrected P value <0.01).
+Age-methylated CpGs were more frequently located in gene bodies and within +5 to 
++50 kilobases (kb) of transcription start sites (TSS) and enriched in
+developmental, neuronal and plasma membrane genes. Age-demethylated CpGs were
+associated to promoters and DNAse-I hypersensitivity sites, located within -5 to 
++5 kb of the nearest TSS and enriched in genes related to immunity, antigen
+presentation, the polycomb-group protein complex and cytoplasm.
+CONCLUSIONS: This study reveals that susceptibility loci for complex inflammatory
+diseases (for example, IRF5, NOD2, and PTGER4) and genes encoding histone
+modifiers and chromatin remodeling factors (for example, HDAC4, KDM2A, KDM2B,
+JARID2, ARID3A, and SMARCD3) undergo DNA methylation changes in leukocytes during
+early childhood. These results open new perspectives to understand leukocyte
+maturation and provide a catalogue of CpG sites that may need to be corrected for
+age effects when performing DNA methylation studies in children.
+
+PMCID: PMC4396570
+PMID: 25874017  [PubMed]
+
+
+14. J Exp Med. 2015 Apr 6;212(4):569-80. doi: 10.1084/jem.20141510. Epub 2015 Mar 9.
+
+Lin28b promotes fetal B lymphopoiesis through the transcription factor Arid3a.
+
+Zhou Y(1), Li YS(1), Bandi SR(1), Tang L(1), Shinton SA(1), Hayakawa K(1), Hardy 
+RR(2).
+
+Author information: 
+(1)Fox Chase Cancer Center, Philadelphia, PA 19111. (2)Fox Chase Cancer Center,
+Philadelphia, PA 19111 richard.hardy@fccc.edu.
+
+Mouse B cell precursors from fetal liver and adult bone marrow (BM) generate
+distinctive B cell progeny when transplanted into immunodeficient recipients,
+supporting a two-pathway model for B lymphopoiesis, fetal "B-1" and adult "B-2." 
+Recently, Lin28b was shown to be important for the switch between fetal and adult
+pathways; however, neither the mechanism of Lin28b action nor the importance of B
+cell antigen receptor (BCR) signaling in this process was addressed. Here, we
+report key advances in our understanding of the regulation of B-1/B-2
+development. First, modulation of Let-7 in fetal pro-B cells is sufficient to
+alter fetal B-1 development to produce B cells resembling the progeny of adult
+B-2 development. Second, intact BCR signaling is required for the generation of
+B1a B cells from Lin28b-transduced BM progenitors, supporting a requirement for
+ligand-dependent selection, as is the case for normal B1a B cells. Third, the VH 
+repertoire of Lin28b-induced BM B1a B cells differs from that of normal B1a,
+suggesting persisting differences from fetal progenitors. Finally, we identify
+the Arid3a transcription factor as a key target of Let-7, whose ectopic
+expression is sufficient to induce B-1 development in adult pro-B cells and whose
+silencing by knockdown blocks B-1 development in fetal pro-B cells.
+
+© 2015 Zhou et al.
+
+PMCID: PMC4387290
+PMID: 25753579  [PubMed - indexed for MEDLINE]
+
+
+15. J Immunol. 2015 Feb 1;194(3):940-9. doi: 10.4049/jimmunol.1401941. Epub 2014 Dec 
+22.
+
+Differential expression of the transcription factor ARID3a in lupus patient
+hematopoietic progenitor cells.
+
+Ratliff ML(1), Ward JM(2), Merrill JT(3), James JA(4), Webb CF(5).
+
+Author information: 
+(1)Immunobiology and Cancer Research Program, Oklahoma Medical Research
+Foundation, Oklahoma City, OK 73104; (2)Immunobiology and Cancer Research
+Program, Oklahoma Medical Research Foundation, Oklahoma City, OK 73104;
+Microbiology and Immunology Program, University of Oklahoma Health Sciences
+Center, Oklahoma City, OK 73104; (3)Clinical Pharmacology Program, Oklahoma
+Medical Research Foundation, Oklahoma City, OK 73104; (4)Microbiology and
+Immunology Program, University of Oklahoma Health Sciences Center, Oklahoma City,
+OK 73104; Arthritis and Clinical Immunology Program, Oklahoma Medical Research
+Foundation, Oklahoma City, OK 73104; Department of Medicine, University of
+Oklahoma Health Sciences Center, Oklahoma City, OK 73104; and. (5)Immunobiology
+and Cancer Research Program, Oklahoma Medical Research Foundation, Oklahoma City,
+OK 73104; Microbiology and Immunology Program, University of Oklahoma Health
+Sciences Center, Oklahoma City, OK 73104; Department of Cell Biology, University 
+of Oklahoma Health Sciences Center, Oklahoma City, OK 73104 carol-webb@omrf.org.
+
+Although hematopoietic stem/progenitor cells (HSPCs) are used for
+transplantation, characterization of the multiple subsets within this population 
+in humans has lagged behind similar studies in mice. We found that expression of 
+the DNA-binding protein, ARID3a, in mouse stem cells was important for normal
+development of hematopoietic lineages; however, progenitors expressing ARID3a in 
+humans have not been defined. We previously showed increased numbers of ARID3a(+)
+B cells in nearly half of systemic lupus erythematosus (SLE) patients, and total 
+numbers of ARID3a(+) B cells were associated with increased disease severity.
+Because expression of ARID3a in those SLE patients occurred throughout all B cell
+subsets, we hypothesized that ARID3a expression in patient HSPCs might also be
+increased relative to expression in healthy controls. Our data now show that
+ARID3a expression is not limited to any defined subset of HSPCs in either healthy
+controls or SLE patients. Numbers of ARID3a(+) HSPCs in SLE patients were
+increased over numbers of ARID3a(+) cells in healthy controls. Although all
+SLE-derived HSPCs exhibited poor colony formation in vitro compared with
+controls, SLE HSPCs with high numbers of ARID3a(+) cells yielded increased
+numbers of cells expressing the early progenitor marker, CD34. SLE HSPCs with
+high numbers of ARID3a(+) cells also more readily generated
+autoantibody-producing cells than HSPCs with lower levels of ARID3a in a
+humanized mouse model. These data reveal new functions for ARID3a in early
+hematopoiesis and suggest that knowledge regarding ARID3a levels in HSPCs could
+be informative for applications requiring transplantation of those cells.
+
+Copyright © 2015 by The American Association of Immunologists, Inc.
+
+PMCID: PMC4297684
+PMID: 25535283  [PubMed - indexed for MEDLINE]
+
+
+16. Genes Dev. 2014 Oct 15;28(20):2219-32. doi: 10.1101/gad.247163.114.
+
+Arid3a is essential to execution of the first cell fate decision via direct
+embryonic and extraembryonic transcriptional regulation.
+
+Rhee C(1), Lee BK(1), Beck S(1), Anjum A(2), Cook KR(2), Popowski M(1), Tucker
+HO(3), Kim J(4).
+
+Author information: 
+(1)Department of Molecular Biosciences, Institute for Cellular and Molecular
+Biology. (2)Department of Molecular Biosciences. (3)Department of Molecular
+Biosciences, Institute for Cellular and Molecular Biology,
+jonghwankim@mail.utexas.edu haleytucker@austin.utexas.edu. (4)Department of
+Molecular Biosciences, Institute for Cellular and Molecular Biology, Center for
+Systems and Synthetic Biology, The University of Texas at Austin, Austin, Texas
+78712, USA jonghwankim@mail.utexas.edu haleytucker@austin.utexas.edu.
+
+Erratum in
+    Genes Dev. 2015 Sep 1;29(17):1890.
+
+Despite their origin from the inner cell mass, embryonic stem (ES) cells undergo 
+differentiation to the trophectoderm (TE) lineage by repression of the ES cell
+master regulator Oct4 or activation of the TE master regulator Caudal-type
+homeobox 2 (Cdx2). In contrast to the in-depth studies of ES cell self-renewal
+and pluripotency, few TE-specific regulators have been identified, thereby
+limiting our understanding of mechanisms underlying the first cell fate decision.
+Here we show that up-regulation and nuclear entry of AT-rich interactive domain
+3a (Arid3a) drives TE-like transcriptional programs in ES cells, maintains
+trophoblast stem (TS) cell self-renewal, and promotes further trophoblastic
+differentiation both upstream and independent of Cdx2. Accordingly, Arid3a(-/-)
+mouse post-implantation placental development is severely impaired, resulting in 
+early embryonic death. We provide evidence that Arid3a directly activates
+TE-specific and trophoblast lineage-specific genes while directly repressing
+pluripotency genes via differential regulation of epigenetic acetylation or
+deacetylation. Our results identify Arid3a as a critical regulator of TE and
+placental development through execution of the commitment and differentiation
+phases of the first cell fate decision.
+
+© 2014 Rhee et al.; Published by Cold Spring Harbor Laboratory Press.
+
+PMCID: PMC4201284
+PMID: 25319825  [PubMed - indexed for MEDLINE]
+
+
+17. PLoS Comput Biol. 2014 Sep 4;10(9):e1003744. doi: 10.1371/journal.pcbi.1003744.
+eCollection 2014.
+
+Communication routes in ARID domains between distal residues in helix 5 and the
+DNA-binding loops.
+
+Invernizzi G(1), Tiberti M(2), Lambrughi M(2), Lindorff-Larsen K(1), Papaleo
+E(1).
+
+Author information: 
+(1)Structural Biology and NMR Laboratory, Department of Biology, University of
+Copenhagen, Copenhagen, Denmark. (2)Structural Biology and NMR Laboratory,
+Department of Biology, University of Copenhagen, Copenhagen, Denmark; Department 
+of Biotechnology and Biosciences, University of Milano-Bicocca, Milan, Italy.
+
+ARID is a DNA-binding domain involved in several transcriptional regulatory
+processes, including cell-cycle regulation and embryonic development. ARID
+domains are also targets of the Human Cancer Protein Interaction Network. Little 
+is known about the molecular mechanisms related to conformational changes in the 
+family of ARID domains. Thus, we have examined their structural dynamics to
+enrich the knowledge on this important family of regulatory proteins. In
+particular, we used an approach that integrates atomistic simulations and methods
+inspired by graph theory. To relate these properties to protein function we
+studied both the free and DNA-bound forms. The interaction with DNA not only
+stabilizes the conformations of the DNA-binding loops, but also strengthens
+pre-existing paths in the native ARID ensemble for long-range communication to
+those loops. Residues in helix 5 are identified as critical mediators for
+intramolecular communication to the DNA-binding regions. In particular, we
+identified a distal tyrosine that plays a key role in long-range communication to
+the DNA-binding loops and that is experimentally known to impair DNA-binding.
+Mutations at this tyrosine and in other residues of helix 5 are also
+demonstrated, by our approach, to affect the paths of communication to the
+DNA-binding loops and alter their native dynamics. Overall, our results are in
+agreement with a scenario in which ARID domains exist as an ensemble of
+substates, which are shifted by external perturbation, such as the interaction
+with DNA. Conformational changes at the DNA-binding loops are transmitted
+long-range by intramolecular paths, which have their heart in helix 5.
+
+PMCID: PMC4154638
+PMID: 25187961  [PubMed - indexed for MEDLINE]
+
+
+18. Arthritis Rheumatol. 2014 Dec;66(12):3404-12. doi: 10.1002/art.38857.
+
+Disease activity in systemic lupus erythematosus correlates with expression of
+the transcription factor AT-rich-interactive domain 3A.
+
+Ward JM(1), Rose K, Montgomery C, Adrianto I, James JA, Merrill JT, Webb CF.
+
+Author information: 
+(1)Oklahoma Medical Research Foundation and Oklahoma University Health Sciences
+Center, Oklahoma City.
+
+OBJECTIVE: Systemic lupus erythematosus (SLE) is a complex and multifactorial
+autoimmune disease with striking clinical, immunologic, and genetic
+heterogeneity, despite nearly ubiquitous antinuclear antibody (ANA) production.
+Multiple gene polymorphisms have been associated with the disease, but these
+individually account for only a very small percentage of overall SLE risk. In
+earlier studies, constitutive expression of the DNA-binding protein
+AT-rich-interactive domain 3A (ARID3a) in transgenic mouse B lymphocyte lineage
+cells led to spontaneous ANA production and preferential development of B cells
+associated with production of polyreactive antibodies. Therefore, we undertook
+this study to determine whether ARID3a was overexpressed in B lymphocytes of SLE 
+patients and whether ARID3a expression was associated with disease severity.
+METHODS: A cross-section of SLE patients, rheumatoid arthritis patients, and age-
+and sex-matched controls was analyzed longitudinally for lupus disease activity, 
+numbers of ARID3a+ peripheral blood mononuclear B cells from multiple B cell
+subsets, and immunoglobulin and cytokine levels.
+RESULTS: Fifty of 115 SLE patients (43%) had dramatically increased numbers of
+ARID3a+ B cells compared to healthy controls. ARID3a was not expressed in naive B
+cells of healthy controls, but was abundant in these precursors of
+antibody-secreting cells in SLE patients. Total numbers of ARID3a+ B cells
+correlated with increased disease activity as defined by SLE Disease Activity
+Index scores in individuals assessed at 3 time points.
+CONCLUSION: These findings identify B cell anomalies in SLE that allow
+stratification of patient samples based on ARID3a expression and implicate ARID3a
+as a potential marker of CD19+ B lymphocytes correlated with disease activity.
+
+Copyright © 2014 by the American College of Rheumatology.
+
+PMCID: PMC4245462
+PMID: 25185498  [PubMed - indexed for MEDLINE]
+
+
+19. Gene. 2014 Jun 10;543(1):174-80. doi: 10.1016/j.gene.2014.04.007. Epub 2014 Apr
+3.
+
+Differential expression of ARID3B in normal adult tissue and carcinomas.
+
+Samyesudhas SJ(1), Roy L(2), Cowden Dahl KD(3).
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, Indiana University School of
+Medicine, South Bend, IN, USA. Electronic address: serenejudith@gmail.com.
+(2)Department of Biochemistry and Molecular Biology, Indiana University School of
+Medicine, South Bend, IN, USA. Electronic address: roy.lynnm@gmail.com.
+(3)Department of Biochemistry and Molecular Biology, Indiana University School of
+Medicine, South Bend, IN, USA; Department of Chemistry and Biochemistry, Notre
+Dame University, Notre Dame, IN, USA; Eck Institute for Global Health, Notre Dame
+University, Notre Dame, IN, USA; Indiana University Melvin and Bren Simon Cancer 
+Center, Indianapolis, IN, USA. Electronic address: kcowdend@iupui.edu.
+
+ARID3B is a DNA binding protein that is overexpressed in neuroblastoma and
+ovarian cancer. To understand the extent that ARID3B participates in tumor
+development, we assessed protein expression of ARID3B in normal adult and
+malignant tissues. We found that ARID3B is highly expressed in differentiated
+layers of squamous epithelium. We also examined expression of an alternative
+splice form of ARID3B and found that it has similar but not identical expression 
+patterns to the full length ARID3B isoform. ARID3B has two closely related
+paralogues, ARID3A and ARID3C. Each of these 3 family members exhibits different 
+patterns of expression. Of the ARID3 family members, ARID3B is the most widely
+expressed and is particularly expressed in epithelium. In addition to examining
+normal tissue, we investigated ARID3B expression in a variety of tumor types.
+Most notably we found that ARID3B expression is decreased in esophagus and
+stomach tumors compared to normal corresponding tissues. Our results indicate
+that the different patterns of ARID3B in normal tissues translate into different 
+roles for ARID3B in carcinomas.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+PMID: 24704276  [PubMed - indexed for MEDLINE]
+
+
+20. Front Immunol. 2014 Mar 19;5:113. doi: 10.3389/fimmu.2014.00113. eCollection
+2014.
+
+The Bright Side of Hematopoiesis: Regulatory Roles of ARID3a/Bright in Human and 
+Mouse Hematopoiesis.
+
+Ratliff ML(1), Templeton TD(2), Ward JM(3), Webb CF(4).
+
+Author information: 
+(1)Immunobiology and Cancer Research, Oklahoma Medical Research Foundation ,
+Oklahoma City, OK , USA. (2)Department of Cell Biology, University of Oklahoma
+Health Sciences Center , Oklahoma City, OK , USA. (3)Department of Microbiology
+and Immunology, University of Oklahoma Health Sciences Center , Oklahoma City, OK
+, USA. (4)Immunobiology and Cancer Research, Oklahoma Medical Research Foundation
+, Oklahoma City, OK , USA ; Department of Cell Biology, University of Oklahoma
+Health Sciences Center , Oklahoma City, OK , USA ; Department of Microbiology and
+Immunology, University of Oklahoma Health Sciences Center , Oklahoma City, OK ,
+USA.
+
+ARID3a/Bright is a DNA-binding protein that was originally discovered for its
+ability to increase immunoglobulin transcription in antigen-activated B cells. It
+interacts with DNA as a dimer through its ARID, or A/T-rich interacting domain.
+In association with other proteins, ARID3a increased transcription of the
+immunoglobulin heavy chain and led to improved chromatin accessibility of the
+heavy chain enhancer. Constitutive expression of ARID3a in B lineage cells
+resulted in autoantibody production, suggesting its regulation is important.
+Abnormal ARID3a expression has also been associated with increased proliferative 
+capacity and malignancy. Roles for ARID3a in addition to interactions with the
+immunoglobulin locus were suggested by transgenic and knockout mouse models.
+Over-expression of ARID3a resulted in skewing of mature B cell subsets and
+altered gene expression patterns of follicular B cells, whereas loss of function 
+resulted in loss of B1 lineage B cells and defects in hematopoiesis. More recent 
+studies showed that loss of ARID3a in adult somatic cells promoted developmental 
+plasticity, alterations in gene expression patterns, and lineage fate decisions. 
+Together, these data suggest new regulatory roles for ARID3a. The genes
+influenced by ARID3a are likely to play pivotal roles in lineage decisions,
+highlighting the importance of this understudied transcription factor.
+
+PMCID: PMC3958700
+PMID: 24678314  [PubMed]
+
+
+21. Stem Cell Reports. 2014 Jan 14;2(1):26-35. doi: 10.1016/j.stemcr.2013.12.002.
+eCollection 2014.
+
+Bright/Arid3A acts as a barrier to somatic cell reprogramming through direct
+regulation of Oct4, Sox2, and Nanog.
+
+Popowski M(1), Templeton TD(2), Lee BK(1), Rhee C(1), Li H(2), Miner C(2), Dekker
+JD(1), Orlanski S(3), Bergman Y(3), Iyer VR(1), Webb CF(2), Tucker H(1).
+
+Author information: 
+(1)Institute for Cellular and Molecular Biology, University of Texas at Austin,
+Austin, TX 78712, USA. (2)Immunobiology and Cancer Program, Oklahoma Medical
+Research Foundation, Departments of Cell Biology and Microbiology and Immunology,
+University of Oklahoma Health Sciences Center, Oklahoma City, OK 73104, USA.
+(3)Department of Developmental Biology and Cancer Research, The Hebrew University
+Medical School, Jerusalem 91120, Israel.
+
+We show here that singular loss of the Bright/Arid3A transcription factor leads
+to reprograming of mouse embryonic fibroblasts (MEFs) and enhancement of standard
+four-factor (4F) reprogramming. Bright-deficient MEFs bypass senescence and,
+under standard embryonic stem cell (ESC) culture conditions, spontaneously form
+clones that in vitro express pluripotency markers, differentiate to all germ
+lineages, and in vivo form teratomas and chimeric mice. We demonstrate that
+BRIGHT binds directly to the promoter/enhancer regions of Oct4, Sox2, and Nanog
+to contribute to their repression in both MEFs and ESCs. Thus, elimination of the
+BRIGHT barrier may provide an approach for somatic cell reprogramming.
+
+PMCID: PMC3916758
+PMID: 24511468  [PubMed - indexed for MEDLINE]
+
+
+22. Ann Surg Oncol. 2014 Dec;21 Suppl 4:S481-9. doi: 10.1245/s10434-013-3435-2. Epub 
+2013 Dec 24.
+
+High expression of AT-rich interactive domain 3A (ARID3A) is associated with good
+prognosis in colorectal carcinoma.
+
+Song M(1), Kim H, Kim WK, Hong SP, Lee C, Kim H.
+
+Author information: 
+(1)Brain Korea 21 PLUS Project for Medical Science, Yonsei University College of 
+Medicine, Seoul, Republic of Korea.
+
+BACKGROUND: AT-rich interactive domain 3A (ARID3A) is a member of the ARID family
+of DNA-binding proteins. Previous reports have shown that ARID3A controls cell
+growth in a p53-dependent manner. Recently, it has been reported that expression 
+of the ARID3A protein was markedly increased in colon cancer tissue compared with
+matched normal colonic mucosa. However, little is currently known about the role 
+of ARID3A in colorectal cancer (CRC). The aim of this study was to investigate
+the clinical significance of ARID3A expression in CRC.
+METHODS: We examined ARID3A expression in 690 CRC patients using tissue
+microarray and immunohistochemistry. Kaplan-Meier analysis and Cox proportional
+hazard models were used to estimate the impact of ARID3A expression on overall
+survival.
+RESULTS: Of the 690 cases, 195 tumors were strongly positive for ARID3A, 187 were
+weakly positive, and 308 were negative. ARID3A expression in CRC was
+significantly correlated with age, degree of differentiation, depth of invasion, 
+lymph node metastasis, distant metastasis, tumor-node-metastasis stage, status of
+microsatellite instability, and carcinoembryonic antigen levels. The overall
+survival of CRC patients with strong ARID3A expression was significantly longer
+than that of patients with weak or negative ARID3A expression. We also performed 
+an additional survival analysis on 388 colon cancer patients and 302 rectal
+cancer patients. In doing so, a favorable prognostic effect of ARID3A expression 
+was revealed only in the colon cancer group (p = 0.002), not in rectal cancer.
+Moreover, we showed that the effect of ARID3A on the survival was correlated with
+p53 status. Using multivariate analysis, we found that strong expression of
+ARID3A was an independent predictor for better prognosis in CRC.
+CONCLUSIONS: Our data suggested that strong expression of ARID3A may predict a
+good prognosis in patients with CRC.
+
+PMID: 24366420  [PubMed - indexed for MEDLINE]
+
+
+23. Kokubyo Gakkai Zasshi. 2013 Mar;80(1):15-20.
+
+[Role of ARID3A in E2F target gene expression and cell growth].
+
+[Article in Japanese]
+
+Saadat KA(1).
+
+Author information: 
+(1)Section of Molecular Craniofacial Embryology, Department of Maxillofacial and 
+Neck Reconstruction, Graduate School of Medical and Dental Sciences, Tokyo
+Medical and Dental University.
+
+ARID3A is a member of the AT-rich interaction domain (ARID) family of DNA-binding
+proteins. ARID3A was isolated as proteins binding to E2F1, and stimulates
+transcription mediated by the E2F transcription factor that plays a central role 
+in regulating cell cycle progression. However, the function of ARID3A in
+E2F-target-gene expression has not been fully understood.METHODS: Gene-silencing 
+and overexpression experiments were carried out using siRNA and recombinant
+adenoviruses, respectively. E2F responsive gene expression was measured by
+RT-PCR. Effects of ARID3A silencing on DNA synthesis and cell growth were
+determined by EdU incorporation and colony formation assay, respectively.
+RESULTS: siRNA mediated gene silencing of ARID3A blocked the transcription of
+E2F-target genes, such as E2F1, p107, CDC2 and CDC6 in normal human dermal
+fibroblasts (NHDFs). Although adenoviral-mediated overexpression of ARID3A did
+not up-regulate the transcription of these E2F-target genes in quiescent NHDFs,
+E2F1 overexpression was unable to overcome the blockade of CDC6 expression by
+ARID3A silencing. Furthermore, ARID3A silencing attenuated S phase entry of
+NHDFs, and suppressed growth of human tumor cell lines.
+CONCLUSION: These results indicate that ARID3A plays an important role for
+E2F-mediated transcriptional activation and cell growth.
+
+PMID: 23659165  [PubMed - indexed for MEDLINE]
+
+
+24. PLoS One. 2013;8(2):e55895. doi: 10.1371/journal.pone.0055895. Epub 2013 Feb 12.
+
+A microarray platform-independent classification tool for cell of origin class
+allows comparative analysis of gene expression in diffuse large B-cell lymphoma.
+
+Care MA(1), Barrans S, Worrillow L, Jack A, Westhead DR, Tooze RM.
+
+Author information: 
+(1)Section of Experimental Haematology, Leeds Institute of Molecular Medicine,
+University of Leeds, Leeds, United Kingdom.
+
+Cell of origin classification of diffuse large B-cell lymphoma (DLBCL) identifies
+subsets with biological and clinical significance. Despite the established nature
+of the classification existing studies display variability in classifier
+implementation, and a comparative analysis across multiple data sets is lacking. 
+Here we describe the validation of a cell of origin classifier for DLBCL, based
+on balanced voting between 4 machine-learning tools: the DLBCL automatic
+classifier (DAC). This shows superior survival separation for assigned Activated 
+B-cell (ABC) and Germinal Center B-cell (GCB) DLBCL classes relative to a range
+of other classifiers. DAC is effective on data derived from multiple microarray
+platforms and formalin fixed paraffin embedded samples and is parsimonious, using
+20 classifier genes. We use DAC to perform a comparative analysis of gene
+expression in 10 data sets (2030 cases). We generate ranked meta-profiles of
+genes showing consistent class-association using =6 data sets as a cut-off: ABC
+(414 genes) and GCB (415 genes). The transcription factor ZBTB32 emerges as the
+most consistent and differentially expressed gene in ABC-DLBCL while other
+transcription factors such as ARID3A, BATF, and TCF4 are also amongst the 24
+genes associated with this class in all datasets. Analysis of enrichment of 12323
+gene signatures against meta-profiles and all data sets individually confirms
+consistent associations with signatures of molecular pathways, chromosomal
+cytobands, and transcription factor binding sites. We provide DAC as an open
+access Windows application, and the accompanying meta-analyses as a resource.
+
+PMCID: PMC3570548
+PMID: 23424639  [PubMed - indexed for MEDLINE]
+
+
+25. Leukemia. 2012 Oct;26(10):2224-32. doi: 10.1038/leu.2012.95. Epub 2012 Apr 3.
+
+B-cell regulator of immunoglobulin heavy-chain transcription (Bright)/ARID3a is a
+direct target of the oncomir microRNA-125b in progenitor B-cells.
+
+Puissegur MP(1), Eichner R, Quelen C, Coyaud E, Mari B, Lebrigand K, Broccardo C,
+Nguyen-Khac F, Bousquet M, Brousset P.
+
+Author information: 
+(1)Institut National de la Santé et de la Recherche Médicale, U1037, Centre de
+Recherches en Cancérologie de Toulouse, 31300 Toulouse, France.
+
+B-cell acute lymphoblastic leukemia (B-ALL) is often associated with chromosomal 
+translocations leading to the deregulation of proto-oncogenes. MicroRNAs can also
+be affected by chromosomal alterations and thus contribute to carcinogenesis. The
+microRNA, miR-125b-1, is overexpressed in B-ALL cases with the t(11;14)(q24;q32) 
+translocation; therefore, we sought to determine the role of this microRNA in
+B-cell fate. We used murine pre-BI cells alongside murine and human leukemic
+B-cell lines to show that miR-125b expression enhances proliferation by targeting
+B-cell regulator of immunoglobulin heavy-chain transcription (Bright)/ARID3a, an 
+activator of immunoglobulin heavy-chain transcription. Accordingly, this target
+gene was downregulated in B-ALL patients with the t(11;14)(q24;q32)
+translocation. Repression of Bright/ARID3a blocked differentiation and conferred 
+a survival advantage to Ba/F3 cells under interleukin-3 starvation. In addition, 
+overexpression of miR-125b protected pre-BI and leukemic B-cell lines from
+apoptosis by blockade of caspase activation by a mechanism that was independent
+of p53 and BAK1. In summary, miR-125b can act as an oncogene in B-ALL by
+targeting ARID3a and mediating its repression, thus leading to a blockage in
+differentiation, increased proliferation and inhibition of apoptosis.
+
+PMID: 22469780  [PubMed - indexed for MEDLINE]
+
+
+26. J Gen Virol. 2012 May;93(Pt 5):1065-75. doi: 10.1099/vir.0.038752-0. Epub 2012
+Feb 1.
+
+E2F1, ARID3A/Bright and Oct-2 factors bind to the Epstein-Barr virus C promoter, 
+EBNA1 and oriP, participating in long-distance promoter-enhancer interactions.
+
+Boreström C(1), Forsman A, Rüetschi U, Rymo L.
+
+Author information: 
+(1)Department of Clinical Chemistry and Transfusion Medicine, Institute of
+Biomedicine, Sahlgrenska University Hospital, University of Gothenburg, SE-41345 
+Gothenburg, Sweden.
+
+The Epstein-Barr virus (EBV) C promoter (Cp) regulates several genes required for
+B-cell proliferation in latent EBV infection. The family of repeats (FR) region
+of the latent origin of plasmid replication (oriP) functions as an Epstein-Barr
+nuclear antigen 1 (EBNA1)-dependent distant enhancer of Cp activity, and the
+enhancer-promoter interaction is mediated by a higher-order multi-protein complex
+containing several copies of EBNA1. Using DNA-affinity purification with a 170 bp
+region of the Cp in combination with mass spectrometry, we identified the cell
+cycle-regulatory protein E2F1, the E2F-binding protein ARID3A, and the
+B-cell-specific transcription factor Oct-2 as components of this multi-protein
+complex. Binding of the three factors to the FR region of oriP was determined by 
+DNA-affinity and immunoblot analysis. Co-immunoprecipitation and proximity
+ligation analysis revealed that the three factors, E2F1, ARID3A and Oct-2,
+interact with each other as well as with EBNA1 in the nuclei of EBV-positive
+cells. Using the chromatin immunoprecipitation assay, we showed that E2F1 and
+Oct-2 interacted with the FR part of oriP and the Cp, but the ARID3A interaction 
+was, however, only detected at the Cp. Our findings support the hypothesis that
+EBNA1 initiates transcription at the Cp via interactions between multiple EBNA1
+homodimers and cellular transcription factors in a large molecular machinery that
+forms a dynamic interaction between Cp and FR.
+
+PMID: 22302879  [PubMed - indexed for MEDLINE]
+
+
+27. Biochem Biophys Res Commun. 2012 Jan 13;417(2):710-6. doi:
+10.1016/j.bbrc.2011.12.003. Epub 2011 Dec 8.
+
+Cooperation between ARID3A and p53 in the transcriptional activation of p21WAF1
+in response to DNA damage.
+
+Lestari W(1), Ichwan SJ, Otsu M, Yamada S, Iseki S, Shimizu S, Ikeda MA.
+
+Author information: 
+(1)Section of Molecular Craniofacial Embryology, Graduate School of Medical and
+Dental Sciences, Tokyo Medical and Dental University, Tokyo, Japan.
+
+ARID3A/DRIL1/Bright is a family member of the AT rich interaction domain (ARID)
+DNA-binding proteins that are involved in diverse biological processes. We have
+reported that p53 activates ARID3A transcription, and ARID3A overexpression
+induces G1 arrest. However, the role of ARID3A in the p53 pathway remains
+unclear. Here, we show that ARID3A cooperates with p53 to transcriptionally
+activate p21(WAF1), a p53-target gene important for cell-cycle arrest. ARID3A
+bound to its binding sites in the p21(WAF1) promoter in vivo and in vitro, and
+induced p21(WAF1) transcription in U2OS cells expressing wild-type p53 but not
+Saos-2 cells lacking p53. The co-expression of ARID3A with p53 cooperates to
+activate p21(WAF1) transcription and the stably transfected p21(WAF1) promoter.
+Mutation of the ARID3A binding sites reduced the p21(WAF1) promoter activity, and
+siRNA-based ARID3A knockdown suppressed the transcription of p21(WAF1), but not
+the proapoptotic NOXA and PUMA in response to DNA damage. Furthermore, p53
+knockdown decreased ARID3A transcription, and, conversely, ARID3A overexpression 
+and knockdown resulted in an increase or decrease in p53 stability, respectively.
+These results indicate both cooperative and interdependent roles for ARID3A and
+p53 in the transcriptional activation of p21(WAF1) in response to DNA damage.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+PMID: 22172947  [PubMed - indexed for MEDLINE]
+
+
+28. Int J Oral Sci. 2011 Oct;3(4):200-8. doi: 10.4248/IJOS11071.
+
+E2FBP1 antagonizes the p16(INK4A)-Rb tumor suppressor machinery for growth
+suppression and cellular senescence by regulating promyelocytic leukemia protein 
+stability.
+
+Fukuyo Y(1), Takahashi A, Hara E, Horikoshi N, Pandita TK, Nakajima T.
+
+Author information: 
+(1)Department of Immunology, Tulane National Primate Research Center, Covington, 
+LA 70433, USA.
+
+Cellular senescence is an irreversible cell cycle arrest triggered by the
+activation of oncogenes or mitogenic signaling as well as the enforced expression
+of tumor suppressors such as p53, p16(INK4A) and promyelocytic leukemia protein
+(PML) in normal cells. E2F-binding protein 1 (E2FBP1), a transcription regulator 
+for E2F, induces PML reduction and suppresses the formation of PML-nuclear
+bodies, whereas the down-regulation of E2FBP1 provokes the PML-dependent
+premature senescence in human normal fibroblasts. Here we report that the
+depletion of E2FBP1 induces the accumulation of PML through the Ras-dependent
+activation of MAP kinase signaling. The cellular levels of p16(INK4A) and p53 are
+elevated during premature senescence induced by depletion of E2FBP1, and the
+depletion of p16(INK4A), but not p53 rescued senescent cells from growth arrest. 
+Therefore, the premature senescence induced by E2FBP1 depletion is achieved
+through the p16(INK4A)-Rb pathway. Similar to human normal fibroblasts, the
+growth inhibition induced by E2FBP1 depletion is also observed in human tumor
+cells with intact p16(INK4A) and Rb. These results suggest that E2FBP1 functions 
+as a critical antagonist to the p16(INK4A)-Rb tumor suppressor machinery by
+regulating PML stability.
+
+PMCID: PMC3469977
+PMID: 22010578  [PubMed - indexed for MEDLINE]
+
+
+29. Mol Immunol. 2011 Oct;49(1-2):367-79. doi: 10.1016/j.molimm.2011.09.008. Epub
+2011 Oct 2.
+
+The transcription factor Bright plays a role in marginal zone B lymphocyte
+development and autoantibody production.
+
+Oldham AL(1), Miner CA, Wang HC, Webb CF.
+
+Author information: 
+(1)Immunobiology and Cancer Research Program, Oklahoma Medical Research
+Foundation, Oklahoma City, OK 73104, USA.
+
+Previous data suggested that constitutive expression of the transcription factor 
+Bright (B cell regulator of immunoglobulin heavy chain transcription), normally
+tightly regulated during B cell differentiation, was associated with autoantibody
+production. Here we show that constitutive Bright expression results in skewing
+of mature B lineage subpopulations toward marginal zone cells at the expense of
+the follicular subpopulation. C57Bl/6 transgenic mice constitutively expressing
+Bright in B lineage cells generated autoantibodies that were not the result of
+global increases in immunoglobulin or of breaches in key tolerance checkpoints
+typically defective in other autoimmune mouse models. Rather, autoimmunity
+correlated with increased numbers of marginal zone B cells and alterations in the
+phenotype and gene expression profiles of lymphocytes within the follicular B
+cell compartment. These data suggest a novel role for Bright in the normal
+development of mature B cell subsets and in autoantibody production.
+
+Copyright © 2011 Elsevier Ltd. All rights reserved.
+
+PMCID: PMC3205293
+PMID: 21963220  [PubMed - indexed for MEDLINE]
+
+
+30. Mol Immunol. 2011 Oct;49(1-2):260-72. doi: 10.1016/j.molimm.2011.08.025. Epub
+2011 Sep 28.
+
+Characterization of a new ARID family transcription factor (Brightlike/ARID3C)
+that co-activates Bright/ARID3A-mediated immunoglobulin gene transcription.
+
+Tidwell JA(1), Schmidt C, Heaton P, Wilson V, Tucker PW.
+
+Author information: 
+(1)Institute for Cellular and Molecular Biology, Section of Molecular Genetics
+and Microbiology, The University of Texas at Austin, Austin, TX 78712, USA.
+
+Two members, Bright/ARID3A and Bdp/ARID3B, of the ARID (AT-Rich Interaction
+Domain) transcription family are distinguished by their ability to specifically
+bind to DNA and to self-associate via a second domain, REKLES. Bright and Bdp
+positively regulate immunoglobulin heavy chain gene (IgH) transcription by
+binding to AT-rich motifs within Matrix Associating Regions (MARs) residing
+within a subset of V(H) promoters and the Eµ intronic enhancer. In addition,
+REKLES provides Bright nuclear export function, and a small pool of Bright is
+directed to plasma membrane sub-domains/lipid rafts where it associates with and 
+modulates signaling of the B cell antigen receptor (BCR). Here, we characterize a
+third, highly conserved, physically condensed ARID3 locus, Brightlike/ARID3C.
+Brightlike encodes two alternatively spliced, SUMO-I-modified isoforms that
+include or exclude (<U+0394>6) the REKLES-encoding exon 6. Brightlike transcripts and
+proteins are expressed preferentially within B lineage lymphocytes and coordinate
+with highest Bright expression in activated follicular B cells. Brightlike, but
+not Brightlike<U+0394>6, undergoes nuclear-cytoplasmic shuttling with a fraction
+localizing within lipid rafts following BCR stimulation. Brightlike, but not
+Brightlike<U+0394>6, associates with Bright in solution, at common DNA binding sites in 
+vitro, and is enriched at Bright binding sites in chromatin. Although possessing 
+little transactivation capacity of its own, Brightlike significantly co-activates
+Bright-dependent IgH transcription with maximal activity mediated by the
+unsumoylated form. In sum, this report introduces Brightlike as an additional
+functional member of the family of ARID proteins, which should be considered in
+regulatory circuits, previously ascribed to be mediated by Bright.
+
+Copyright © 2011 Elsevier Ltd. All rights reserved.
+
+PMCID: PMC3205283
+PMID: 21955986  [PubMed - indexed for MEDLINE]
+
+
+31. J Virol. 2011 Apr;85(7):3356-66. doi: 10.1128/JVI.02105-10. Epub 2011 Jan 19.
+
+The herpes simplex virus immediate-early ubiquitin ligase ICP0 induces
+degradation of the ICP0 repressor protein E2FBP1.
+
+Fukuyo Y(1), Horikoshi N, Ishov AM, Silverstein SJ, Nakajima T.
+
+Author information: 
+(1)California Pacific Medical Center Research Institute, 475 Brannan Street,
+Suite 220, San Francisco, California 94107, USA.
+
+E2FBP1/hDRIL1, a DNA-binding A/T-rich interaction domain (ARID) family
+transcription factor, is expressed ubiquitously in human tissues and plays an
+essential role in maintaining the proliferation potential of passage-limited
+human fibroblasts by dissociating promyelocytic leukemia nuclear bodies
+(PML-NBs). This effect on PML-NBs is similar to that of viral immediate-early
+gene products, such as infected cellular protein 0 (ICP0) from human herpes
+simplex virus 1 (HSV-1), which also disrupts PML-NBs to override the intrinsic
+cellular defense. Here we report that E2FBP1 inhibits accumulation of ICP0 RNA
+and, at the same time, is degraded via ICP0's herpes ubiquitin ligase 2 (HUL-2)
+activity upon HSV-1 infection. These reciprocal regulatory roles of ICP0 and
+E2FBP1 are linked in an ARID-dependent fashion. Our results suggest that E2FBP1
+functions as an intrinsic cellular defense factor in spite of its PML-NB
+dissociation function.
+
+PMCID: PMC3067832
+PMID: 21248039  [PubMed - indexed for MEDLINE]
+
+
+32. Mol Cell Biol. 2011 Mar;31(5):1041-53. doi: 10.1128/MCB.01448-10. Epub 2011 Jan
+3.
+
+The ARID family transcription factor bright is required for both hematopoietic
+stem cell and B lineage development.
+
+Webb CF(1), Bryant J, Popowski M, Allred L, Kim D, Harriss J, Schmidt C, Miner
+CA, Rose K, Cheng HL, Griffin C, Tucker PW.
+
+Author information: 
+(1)Immunobiology and Cancer Research Program, Oklahoma Medical Research
+Foundation, Oklahoma City, Oklahoma 73126, USA.
+
+Bright/Arid3a has been characterized both as an activator of immunoglobulin
+heavy-chain transcription and as a proto-oncogene. Although Bright expression is 
+highly B lineage stage restricted in adult mice, its expression in the earliest
+identifiable hematopoietic stem cell (HSC) population suggests that Bright might 
+have additional functions. We showed that >99% of Bright(-/-) embryos die at
+midgestation from failed hematopoiesis. Bright(-/-) embryonic day 12.5 (E12.5)
+fetal livers showed an increase in the expression of immature markers.
+Colony-forming assays indicated that the hematopoietic potential of Bright(-/-)
+mice is markedly reduced. Rare survivors of lethality, which were not compensated
+by the closely related paralogue Bright-derived protein (Bdp)/Arid3b, suffered
+HSC deficits in their bone marrow as well as B lineage-intrinsic developmental
+and functional deficiencies in their peripheries. These include a reduction in a 
+natural antibody, B-1 responses to phosphocholine, and selective T-dependent
+impairment of IgG1 class switching. Our results place Bright/Arid3a on a select
+list of transcriptional regulators required to program both HSC and
+lineage-specific differentiation.
+
+PMCID: PMC3067827
+PMID: 21199920  [PubMed - indexed for MEDLINE]
+
+
+33. Stem Cells. 2010 Sep;28(9):1560-7. doi: 10.1002/stem.491.
+
+Loss of Bright/ARID3a function promotes developmental plasticity.
+
+An G(1), Miner CA, Nixon JC, Kincade PW, Bryant J, Tucker PW, Webb CF.
+
+Author information: 
+(1)Immunobiology and Cancer Program, Oklahoma Medical Research Foundation,
+University of Oklahoma Health Sciences Center, Oklahoma City, Oklahoma, USA.
+
+B-cell regulator of immunoglobulin heavy chain transcription (Bright)/ARID3a, an 
+A+T-rich interaction domain protein, was originally discovered in B lymphocyte
+lineage cells. However, expression patterns and high lethality levels in knockout
+mice suggested that it had additional functions. Three independent lines of
+evidence show that functional inhibition of Bright results in increased
+developmental plasticity. Bright-deficient cells from two mouse models expressed 
+a number of pluripotency-associated gene products, expanded indefinitely, and
+spontaneously differentiated into cells of multiple lineages. Furthermore, direct
+knockdown of human Bright resulted in colonies capable of expressing multiple
+lineage markers. These data suggest that repression of this single molecule
+confers adult somatic cells with new developmental options.
+
+PMCID: PMC2977942
+PMID: 20680960  [PubMed - indexed for MEDLINE]
+
+
+34. Proteins. 2010 Jul;78(9):2170-5. doi: 10.1002/prot.22718.
+
+Solution NMR structure of the ARID domain of human AT-rich interactive
+domain-containing protein 3A: a human cancer protein interaction network target.
+
+Liu G(1), Huang YJ, Xiao R, Wang D, Acton TB, Montelione GT.
+
+Author information: 
+(1)Center for Advanced Biotechnology and Medicine, Department of Molecular
+Biology and Biochemistry, Rutgers, The State University of New Jersey,
+Piscataway, New Jersey 08854, USA. gliu@cabm.rutgers.edu
+
+PMCID: PMC2869213
+PMID: 20455271  [PubMed - indexed for MEDLINE]
+
+
+35. Biomol NMR Assign. 2009 Jun;3(1):85-7. doi: 10.1007/s12104-009-9147-7. Epub 2009 
+Feb 24.
+
+1H, 13C, 15N backbone and side-chain resonance assignments of the Bright/ARID
+domain from the human histone demethylase JARID1B.
+
+Yao W(1), Peng Y, Chen Q, Lin D.
+
+Author information: 
+(1)Key Laboratory of Optical and Magnetic Resonance Spectroscopy, East China
+Normal University, Shanghai, 200062, China.
+
+We report backbone and side-chain resonance assignments of the Bright/ARID domain
+from the human JARID1B protein. These assignments provide a basis for the
+detailed structural investigation of the interaction between DNA and ARID
+domains.
+
+PMID: 19636953  [PubMed - indexed for MEDLINE]
+
+
+36. PLoS One. 2009;4(5):e5542. doi: 10.1371/journal.pone.0005542. Epub 2009 May 14.
+
+SUMOylation of DRIL1 directs its transcriptional activity towards leukocyte
+lineage-specific genes.
+
+Prieur A(1), Nacerddine K, van Lohuizen M, Peeper DS.
+
+Author information: 
+(1)Department of Molecular Genetics, The Netherlands Cancer Institute, Amsterdam,
+The Netherlands.
+
+DRIL1 is an ARID family transcription factor that can immortalize primary mouse
+fibroblasts, bypass RAS(V12)-induced cellular senescence and collaborate with
+RAS(V12) or MYC in mediating oncogenic transformation. It also activates
+immunoglobulin heavy chain transcription and engages in heterodimer formation
+with E2F to stimulate E2F-dependent transcription. Little, however, is known
+about the regulation of DRIL1 activity. Recently, DRIL1 was found to interact
+with the SUMO-conjugating enzyme Ubc9, but the functional relevance of this
+association has not been assessed. Here, we show that DRIL1 is sumoylated both in
+vitro and in vivo at lysine 398. Moreover, we provide evidence that PIASy
+functions as a specific SUMO E3-ligase for DRIL1 and promotes its sumoylation
+both in vitro and in vivo. Furthermore, consistent with the subnuclear
+localization of PIASy in the Matrix-Associated Region (MAR), SUMO-modified DRIL1 
+species are found exclusively in the MAR fraction. This post-translational
+modification interferes neither with the subcellular localization nor the
+DNA-binding activity of the protein. In contrast, DRIL1 sumoylation impairs its
+interaction with E2F1 in vitro and modifies its transcriptional activity in vivo,
+driving transcription of subset of genes regulating leukocyte fate. Taken
+together, these results identify sumoylation as a novel post-translational
+modification of DRIL1 that represents an important mechanism for targeting and
+modulating DRIL1 transcriptional activity.
+
+PMCID: PMC2677661
+PMID: 19436740  [PubMed - indexed for MEDLINE]
+
+
+37. EMBO J. 2009 Mar 18;28(6):711-24. doi: 10.1038/emboj.2009.20. Epub 2009 Feb 12.
+
+Signalling of the BCR is regulated by a lipid rafts-localised transcription
+factor, Bright.
+
+Schmidt C(1), Kim D, Ippolito GC, Naqvi HR, Probst L, Mathur S, Rosas-Acosta G,
+Wilson VG, Oldham AL, Poenie M, Webb CF, Tucker PW.
+
+Author information: 
+(1)Institute for Cellular and Molecular Biology, The University of Texas at
+Austin, Austin, TX 78712, USA.
+
+Regulation of BCR signalling strength is crucial for B-cell development and
+function. Bright is a B-cell-restricted factor that complexes with Bruton's
+tyrosine kinase (Btk) and its substrate, transcription initiation factor-I
+(TFII-I), to activate immunoglobulin heavy chain gene transcription in the
+nucleus. Here we show that a palmitoylated pool of Bright is diverted to lipid
+rafts of resting B cells where it associates with signalosome components. After
+BCR ligation, Bright transiently interacts with sumoylation enzymes, blocks
+calcium flux and phosphorylation of Btk and TFII-I and is then discharged from
+lipid rafts as a Sumo-I-modified form. The resulting lipid raft concentration of 
+Bright contributes to the signalling threshold of B cells, as their sensitivity
+to BCR stimulation decreases as the levels of Bright increase. Bright regulates
+signalling independent of its role in IgH transcription, as shown by specific
+dominant-negative titration of rafts-specific forms. This study identifies a BCR 
+tuning mechanism in lipid rafts that is regulated by differential
+post-translational modification of a transcription factor with implications for
+B-cell tolerance and autoimmunity.
+
+PMCID: PMC2666038
+PMID: 19214191  [PubMed - indexed for MEDLINE]
+
+
+38. J Immunol. 2008 Nov 15;181(10):6913-22.
+
+Transgenic mice expressing dominant-negative bright exhibit defects in B1 B
+cells.
+
+Nixon JC(1), Ferrell S, Miner C, Oldham AL, Hochgeschwender U, Webb CF.
+
+Author information: 
+(1)Oklahoma Medical Research Foundation, Oklahoma City, OK 73104, USA.
+
+The transcription factor Bright up-regulates Ig H chain production from select V 
+region promoters and requires Bright dimerization, Bruton's tyrosine kinase
+(Btk), and the Btk substrate, TFII-I, for this activity. Defects in Btk cause
+X-linked immunodeficiency disease in mice and humans. Btk-deficient mice exhibit 
+decreased serum IgM production, B cell developmental blocks, absence of
+peritoneal B1 cells, and subnormal immune responses against Ags, including
+phosphorylcholine, which confer protection against Streptococcus pneumoniae.
+Transgenic mice expressing dominant-negative Bright share similarities with
+Btk-deficient mice, including decreased serum IgM, poor anti-phosphorylcholine
+responses, and slightly reduced numbers of mature B cells. Although
+dominant-negative Bright mice developed B1 B cells, these were functionally
+deficient in Ig secretion. These data suggest a mechanistic explanation for the
+abnormal responses to phosphorylcholine observed in Btk-deficient mice, and
+indicate that Bright functions in a subset of Btk-dependent pathways in vivo,
+particularly those responses dominated by B1 B cells.
+
+PMCID: PMC2636627
+PMID: 18981111  [PubMed - indexed for MEDLINE]
+
+
+39. Am J Pathol. 2008 Aug;173(2):337-46. doi: 10.2353/ajpath.2008.070915. Epub 2008
+Jun 26.
+
+Cross talk between Id1 and its interactive protein Dril1 mediate fibroblast
+responses to transforming growth factor-beta in pulmonary fibrosis.
+
+Lin L(1), Zhou Z, Zheng L, Alber S, Watkins S, Ray P, Kaminski N, Zhang Y, Morse 
+D.
+
+Author information: 
+(1)Division of Pulmonary, Allergy, and Critical Care Medicine, University of
+Pittsburgh School of Medicine, Pittsburgh, PA 15217, USA.
+
+The presence of activated fibroblasts or myofibroblasts represents a hallmark of 
+progressive lung fibrosis. Because the transcriptional response of fibroblasts to
+transforming growth factor-beta(1) (TGF-beta(1)) is a determinant of disease
+progression, we investigated the role of the transcriptional regulator inhibitor 
+of differentiation-1 (Id1) in the setting of lung fibrosis. Mice lacking the gene
+for Id1 had increased susceptibility to bleomycin-induced lung fibrosis, and
+fibroblasts lacking Id1 exhibited enhanced responses to TGF-beta(1). Because the 
+effect of Id1 on fibrosis could not be explained by known mechanisms, we
+performed protein interaction screening and identified a novel binding partner
+for Id1, known as dead ringer-like-1 (Dril1). Dril1 shares structural
+similarities with Id1 and was recently implicated in TGF-beta(1) signaling during
+embryogenesis. To date, little is known about the function of Dril1 in humans.
+Although it has not been previously implicated in fibrotic disease, we found that
+Dril1 was highly expressed in lungs from patients with idiopathic pulmonary
+fibrosis and was regulated by TGF-beta(1) in human fibroblasts. Dril1 enhanced
+activation of TGF-beta(1) target genes, whereas Id1 decreased expression of these
+same molecules. Id1 inhibited DNA binding by Dril1, and the two proteins
+co-localized in vitro and in vivo, providing a potential mechanism for
+suppression of fibrosis by Id1 through inhibition of the profibrotic function of 
+Dril1.
+
+PMCID: PMC2475772
+PMID: 18583319  [PubMed - indexed for MEDLINE]
+
+
+40. J Biol Chem. 2007 May 25;282(21):15768-77. Epub 2007 Mar 29.
+
+REKLES is an ARID3-restricted multifunctional domain.
+
+Kim D(1), Probst L, Das C, Tucker PW.
+
+Author information: 
+(1)Section of Molecular Genetics and Microbiology and Institute of Cell and
+Molecular Biology, University of Texas, Austin, Texas 78712-0162, USA.
+
+Bright/Dril1/ARID3a is a B cell-specific, matrix association (or attachment)
+region-binding transcriptional regulator of immunoglobulin heavy chain genes and 
+of E2F1-dependent cell cycle progression. Bright contains a central DNA binding
+domain termed ARID (AT-rich interacting domain) and a C-terminal region termed
+REKLES (for a conserved amino acid motif). The ARID domain has been identified in
+seven highly conserved families of metazoan proteins (ARID1-5 and JARID1-2),
+whereas REKLES is found only in the ARID3 subfamily (composed of Bright/ARID3a,
+Bdp/ARID3b, and Bright-like/ARID3c). REKLES consists of two subdomains: a
+modestly conserved N-terminal REKLESalpha and a highly conserved (among ARID3
+orthologous proteins) C-terminal REKLESbeta. Previously we showed that Bright
+undergoes nucleocytoplasmic shuttling and that REKLESalpha and -beta were
+required, respectively, for nuclear import and Crm1-dependent nuclear export.
+Here we show that Bright further requires REKLESbeta for self-association or
+paralogue association and for nuclear matrix targeting. REK-LES promotes and
+regulates the extent of Bright multimerization, which occurs in the absence or
+presence of target DNA and is necessary for specific DNA binding.
+REKLESbeta-mediated interaction of Bright with Bdp, which localizes strictly to
+the nucleus, traps Bright within the nucleus via neutralization of its nuclear
+export activity. These results identify REKLES as a multifunctional domain that
+has co-evolved with and regulates functional properties of the ARID3 DNA binding 
+domain.
+
+PMID: 17400556  [PubMed - indexed for MEDLINE]
+
+
+41. Mol Cancer. 2007 Mar 26;6:23.
+
+Bright/ARID3A contributes to chromatin accessibility of the immunoglobulin heavy 
+chain enhancer.
+
+Lin D(1), Ippolito GC, Zong RT, Bryant J, Koslovsky J, Tucker P.
+
+Author information: 
+(1)Section of Molecular Genetics and Microbiology and Institute of Cell and
+Molecular Biology, University of Texas at Austin, Austin, Texas, USA.
+djlin@mail.utexas.edu
+
+Bright/ARID3A is a nuclear matrix-associated transcription factor that stimulates
+immunoglobulin heavy chain (IgH) expression and Cyclin E1/E2F-dependent cell
+cycle progression. Bright positively activates IgH transcriptional initiation by 
+binding to ATC-rich P sites within nuclear matrix attachment regions (MARs)
+flanking the IgH intronic enhancer (Emu). Over-expression of Bright in cultured B
+cells was shown to correlate with DNase hypersensitivity of Emu. We report here
+further efforts to analyze Bright-mediated Emu enhancer activation within the
+physiological constraints of chromatin. A system was established in which VH
+promoter-driven in vitro transcription on chromatin- reconstituted templates was 
+responsive to Emu. Bright assisted in blocking the general repression caused by
+nucleosome assembly but was incapable of stimulating transcription from prebound 
+nucleosome arrays. In vitro transcriptional derepression by Bright was enhanced
+on templates in which Emu is flanked by MARs and was inhibited by competition
+with high affinity Bright binding (P2) sites. DNase hypersensitivity of
+chromatin-reconstituted Emu was increased when prepackaged with B cell nuclear
+extract supplemented with Bright. These results identify Bright as a contributor 
+to accessibility of the IgH enhancer.
+
+PMCID: PMC1852116
+PMID: 17386101  [PubMed - indexed for MEDLINE]
+
+
+42. J Immunol. 2007 Mar 1;178(5):2996-3006.
+
+Anti-nuclear antibody production and autoimmunity in transgenic mice that
+overexpress the transcription factor Bright.
+
+Shankar M(1), Nixon JC, Maier S, Workman J, Farris AD, Webb CF.
+
+Author information: 
+(1)Immunobiology and Cancer Program, Oklahoma Medical Research Foundation,
+University of Oklahoma Health Sciences Center, 825 NE 13th Street, Oklahoma City,
+OK 73104, USA.
+
+The B cell-restricted transcription factor, B cell regulator of Ig(H)
+transcription (Bright), up-regulates Ig H chain transcription 3- to 7-fold in
+activated B cells in vitro. Bright function is dependent upon both active
+Bruton's tyrosine kinase and its substrate, the transcription factor, TFII-I. In 
+mouse and human B lymphocytes, Bright transcription is down-regulated in mature B
+cells, and its expression is tightly regulated during B cell differentiation. To 
+determine how Bright expression affects B cell development, transgenic mice were 
+generated that express Bright constitutively in all B lineage cells. These mice
+exhibited increases in total B220(+) B lymphocyte lineage cells in the bone
+marrow, but the relative percentages of the individual subpopulations were not
+altered. Splenic immature transitional B cells were significantly expanded both
+in total cell numbers and as increased percentages of cells relative to other B
+cell subpopulations. Serum Ig levels, particularly IgG isotypes, were increased
+slightly in the Bright-transgenic mice compared with littermate controls.
+However, immunization studies suggest that responses to all foreign Ags were not 
+increased globally. Moreover, 4-wk-old Bright-transgenic mice produced
+anti-nuclear Abs. Older animals developed Ab deposits in the kidney glomeruli,
+but did not succumb to further autoimmune sequelae. These data indicate that
+enhanced Bright expression results in failure to maintain B cell tolerance and
+suggest a previously unappreciated role for Bright regulation in immature B
+cells. Bright is the first B cell-restricted transcription factor demonstrated to
+induce autoimmunity. Therefore, the Bright transgenics provide a novel model
+system for future analyses of B cell autoreactivity.
+
+PMCID: PMC2705967
+PMID: 17312145  [PubMed - indexed for MEDLINE]
+
+
+43. Mol Cell Biol. 2006 Jun;26(12):4758-68.
+
+Induction of immunoglobulin heavy-chain transcription through the transcription
+factor Bright requires TFII-I.
+
+Rajaiya J(1), Nixon JC, Ayers N, Desgranges ZP, Roy AL, Webb CF.
+
+Author information: 
+(1)Oklahoma Medical Research Foundation, Immunobiology and Cancer Research
+Program, 825 N. E. 13th Street, Oklahoma City, OK 73104, USA.
+
+Bright/ARID3a/Dril1, a member of the ARID family of transcription factors, is
+expressed in a highly regulated fashion in B lymphocytes, where it enhances
+immunoglobulin transcription three- to sixfold. Recent publications from our lab 
+indicated that functional, but not kinase-inactive, Bruton's tyrosine kinase
+(Btk) is critical for Bright activity in an in vitro model system, yet Bright
+itself is not appreciably tyrosine phosphorylated. These data suggested that a
+third protein, and Btk substrate, must contribute to Bright-enhanced
+immunoglobulin transcription. The ubiquitously expressed transcription factor
+TFII-I was identified as a substrate for Btk several years ago. In this work, we 
+show that TFII-I directly interacts with human Bright through amino acids in
+Bright's protein interaction domain and that specific tyrosine residues of TFII-I
+are essential for Bright-induced activity of an immunoglobulin reporter gene.
+Moreover, inhibition of TFII-I function in a B-cell line resulted in decreased
+heavy-chain transcript levels. These data suggest that Bright functions as a
+three-component protein complex in the immunoglobulin locus and tie together
+previous data indicating important roles for Btk and TFII-I in B lymphocytes.
+
+PMCID: PMC1489113
+PMID: 16738337  [PubMed - indexed for MEDLINE]
+
+
+44. Mol Cell Biol. 2006 Mar;26(6):2187-201.
+
+A regulated nucleocytoplasmic shuttle contributes to Bright's function as a
+transcriptional activator of immunoglobulin genes.
+
+Kim D(1), Tucker PW.
+
+Author information: 
+(1)University of Texas at Austin, Molecular Genetics and Microbiology, 1
+University Station A5000, Room ESB-532, Austin, TX 78712-0162, USA.
+
+Bright/ARID3a has been implicated in mitogen- and growth factor-induced
+up-regulation of immunoglobulin heavy-chain (IgH) genes and in E2F1-dependent
+G1/S cell cycle progression. For IgH transactivation, Bright binds to nuclear
+matrix association regions upstream of certain variable region promoters and
+flanking the IgH intronic enhancer. While Bright protein was previously shown to 
+reside within the nuclear matrix, we show here that a significant amount of
+Bright resides in the cytoplasm of normal and transformed B cells. Leptomycin B, 
+chromosome region maintenance 1 (CRM1) overexpression, and heterokaryon
+experiments indicate that Bright actively shuttles between the nucleus and the
+cytoplasm in a CRM1-dependent manner. We mapped the functional nuclear
+localization signal to the N-terminal region of REKLES, a domain conserved within
+ARID3 paralogues. Residues within the C terminus of REKLES contain its nuclear
+export signal, whose regulation is primarily responsible for Bright shuttling.
+Growth factor depletion and cell synchronization experiments indicated that
+Bright shuttling during S phase of the cell cycle leads to an increase in its
+nuclear abundance. Finally, we show that shuttle-incompetent Bright point
+mutants, even if sequestered within the nucleus, are incapable of transactivating
+an IgH reporter gene. Therefore, regulation of Bright's cellular localization
+appears to be required for its function.
+
+PMCID: PMC1430300
+PMID: 16507996  [PubMed - indexed for MEDLINE]
+
+
+45. Guang Pu Xue Yu Guang Pu Fen Xi. 2004 Dec;24(12):1556-9.
+
+[A DRIFTS study of SO2 oxidation on the surface of CaCO3 particles].
+
+[Article in Chinese]
+
+Li L(1), Chen ZM, Ding J, Zhu T, Zhang YH.
+
+Author information: 
+(1)College of Environmental Sciences, State Key Joint Laboratory of Environmental
+Simulation and Pollution Control, Peking University, Beijing 100871, China.
+
+CaCO3 is an important component of mineral dust aerosols in the atmosphere, but
+its role in atmospheric heterogeneous chemistry is still unclear. In this paper, 
+the oxidation of SO2 on CaCO3 particles was studied using diffuse reflectance
+infrared Fourier transform spectroscopy (DRIFTS). Formation of sulfite and
+sulfate was identified on the surface, and the role of O3 on the oxidation
+process is determined by comparing the experiments in different conditions.
+DRIFTS is proved as a useful tool for studying heterogeneous reactions on CaCO3
+particles. The results show that in the presence of O3, SO2 can be oxidized into 
+sulfate on the surface of CaCO3 particles. A two-step mechanism that involves
+adsorption of SO2 followed by oxidation is presented.
+
+PMID: 15828326  [PubMed - indexed for MEDLINE]
+
+
+46. Mol Cell Biol. 2005 Mar;25(6):2073-84.
+
+Bruton's tyrosine kinase regulates immunoglobulin promoter activation in
+association with the transcription factor Bright.
+
+Rajaiya J(1), Hatfield M, Nixon JC, Rawlings DJ, Webb CF.
+
+Author information: 
+(1)Oklahoma Medical Research Foundation, Immunobiology and Cancer Research
+Program, 825 N.E. 13th St., Oklahoma City, OK 73104, USA.
+
+Bright (B-cell regulator of immunoglobulin heavy chain transcription) binding to 
+immunoglobulin heavy chain loci after B-cell activation is associated with
+increased heavy chain transcription. Our earlier reports demonstrated that Bright
+coimmunoprecipitates with Bruton's tyrosine kinase (Btk) and that these proteins 
+associate in a DNA-binding complex in primary B cells. B cells from
+immunodeficient mice with a mutation in Btk failed to produce stable Bright
+DNA-binding complexes. In order to determine if Btk is important for Bright
+function, a transcription activation assay was established and analyzed using
+real-time PCR technology. Cells lacking both Bright and Btk were transfected with
+Bright and/or Btk along with an immunoglobulin heavy chain reporter construct.
+Immunoglobulin gene transcription was enhanced when Bright and Btk were
+coexpressed. In contrast, neither Bright nor Btk alone led to activation of heavy
+chain transcription. Furthermore, Bright function required both Btk kinase
+activity and sequences within the pleckstrin homology domain of Btk. Bright was
+not appreciably phosphorylated by Btk; however, a third tyrosine-phosphorylated
+protein coprecipitated with Bright. Thus, the ability of Bright to enhance
+immunoglobulin transcription critically requires functional Btk.
+
+PMCID: PMC1061591
+PMID: 15743806  [PubMed - indexed for MEDLINE]
+
+
+47. J Biol Chem. 2004 Dec 10;279(50):52465-72. Epub 2004 Sep 27.
+
+Mutations in the DNA-binding domain of the transcription factor Bright act as
+dominant negative proteins and interfere with immunoglobulin transactivation.
+
+Nixon JC(1), Rajaiya J, Webb CF.
+
+Author information: 
+(1)Oklahoma Medical Research Foundation, 825 N. E. 13 Street, Oklahoma City,
+Oklahoma 73104, USA.
+
+Bright, for B cell regulator of immunoglobulin heavy chain transcription, binds
+A+T-rich sequences in the intronic enhancer regions of the murine heavy chain
+locus and 5'-flanking sequences of some variable heavy chain promoters. Most
+resting B cells do not express Bright; however, it is induced after stimulation
+with antigen or polyclonal mitogens. Bright activation results in up-regulation
+of mu transcription; however, it is not clear whether Bright function is critical
+for normal B cell development. To begin to address Bright function during B cell 
+development, seven mutated forms of Bright were produced. Five of the seven
+mutants revealed little or no DNA binding activity. Furthermore, because Bright
+binds DNA as a dimer, two of the mutants formed complexes with wild type Bright
+and acted in a dominant negative fashion. Dominant negative Bright prevented the 
+up-regulation of mu transcription in transfected Chinese hamster ovary cells
+transfected with wild type Bright. These data identify regions within Bright that
+are required for the DNA binding activity of Bright and for its function as a
+transcription factor.
+
+PMID: 15456761  [PubMed - indexed for MEDLINE]
+
+
+48. Cell Immunol. 2004 Mar;228(1):42-53.
+
+The transcription factor, Bright, is not expressed in all human B lymphocyte
+subpopulations.
+
+Nixon JC(1), Rajaiya JB, Ayers N, Evetts S, Webb CF.
+
+Author information: 
+(1)Department of Microbiology, University of Oklahoma Health Sciences Center,
+Oklahoma City, OK 73104, USA.
+
+Bright is an ARID family transcription factor that increases immunoglobulin heavy
+chain transcription. In the mouse, Bright expression is tightly regulated and B
+cell-restricted and the Bright protein associates with Bruton's tyrosine kinase
+(Btk), the defective enzyme in X-linked immunodeficiency. Human X-linked
+agammaglobulinemia results from defects in Btk and leads to early blocks in B
+lymphocyte development. Because so little is known about human Bright, we sought 
+to determine where human Bright is expressed in normal B cell differentiation and
+whether it also forms complexes with Btk. Although human and mouse Bright
+exhibited similar expression patterns in normal B cells, many human transformed B
+cell lines did not express Bright protein. However, the human protein bound
+prototypic Bright DNA-binding motifs and, like mouse Bright, was capable of
+associating with Btk. These data suggest potentially important similarities exist
+in Bright expression and activity in human and mouse B lymphocytes.
+
+PMID: 15203319  [PubMed - indexed for MEDLINE]
+
+
+49. Cell Death Differ. 2004 Jul;11(7):747-59.
+
+E2FBP1/hDril1 modulates cell growth through downregulation of promyelocytic
+leukemia bodies.
+
+Fukuyo Y(1), Mogi K, Tsunematsu Y, Nakajima T.
+
+Author information: 
+(1)Department of Molecular Cellular Oncology and Microbiology, Graduate School,
+Tokyo Medical and Dental University, 1-5-45 Yushima, Bunkyo-ku, Tokyo 113-8549,
+Japan.
+
+Promyelocytic leukemia nuclear bodies (PML-NBs) comprise multiple regulatory
+factors and play crucial roles in the maintenance of cellular integrity, while
+unregulated activation of PML-NBs induces death and premature senescence. Hence, 
+the function of PML-NBs must be directed properly; however, the mechanism that
+regulates PML-NBs remains unclear. In this paper, we show that PML-NBs are
+disintegrated by an AT-rich interaction domain family protein E2FBP1/hDril1
+through specific desumoylation of promyelocytic leukemia protein (PML) in vivo
+and in vitro. RNA interference-mediated downregulation of E2FBP1/hDril1 results
+in hyperplasis of PML-NBs and consequent commitment to PML-dependent premature
+senescence. Thus, the function of E2FBP1/hDril1 is required for maintenance of
+survival potential of the cells. Our data suggest a novel mechanism to govern
+cellular integrity through the modulation of nuclear depots.
+
+PMID: 15017387  [PubMed - indexed for MEDLINE]
+
+
+50. Mol Cancer Res. 2003 Apr;1(6):438-44.
+
+E2FBP1/DRIL1, an AT-rich interaction domain-family transcription factor, is
+regulated by p53.
+
+Ma K(1), Araki K, Ichwan SJ, Suganuma T, Tamamori-Adachi M, Ikeda MA.
+
+Author information: 
+(1)Section of Molecular Embryology, Graduate School, Tokyo Medical and Dental
+University, Yushima, Bunkyo-ku, Tokyo, Japan.
+
+E2FBP1/DRIL1 is an AT-rich interaction domain DNA-binding protein and is
+ubiquitously expressed in various tissues. It has been shown that Bright, the
+mouse orthologue of E2FBP1/DRIL1, exhibits sequence-specific DNA binding and
+regulates immunoglobulin transcription. Here we show a novel connection between
+E2FBP1/DRIL1 and the p53 tumor suppressor, a key regulator of growth arrest or
+apoptosis in response to cellular stress. We found a putative p53-binding site,
+which specifically responded to p53, in the second intron of the E2FBP1/DRIL1
+gene. E2FBP1/DRIL1was induced by p53 and up-regulated following DNA damage caused
+by UV radiation or doxorubicin treatment in a manner dependent on endogenous p53.
+The ectopic expression of E2FBP1/DRIL1 induced growth arrest in U2OS cells
+expressing normal p53, but not Saos-2 cells lacking p53. These results suggest
+that E2FBP1/DRIL1 may play a role in growth suppression mediated by p53.
+
+PMID: 12692263  [PubMed - indexed for MEDLINE]
+
+
+51. J Immunol. 2002 Sep 1;169(5):2477-87.
+
+High frequency of matrix attachment regions and cut-like protein
+x/CCAAT-displacement protein and B cell regulator of IgH transcription binding
+sites flanking Ig V region genes.
+
+Goebel P(1), Montalbano A, Ayers N, Kompfner E, Dickinson L, Webb CF, Feeney AJ.
+
+Author information: 
+(1)The Scripps Research Institute, La Jolla, CA 92037, USA.
+
+A major component in controlling V(D)J recombination is differential
+accessibility through localized changes in chromatin structure. Attachment of DNA
+to the nuclear matrix via matrix attachment region (MAR) sequences, and
+interaction with MAR-binding proteins have been shown to alter chromatin
+conformation, promote histone acetylation, and influence gene transcription. In
+this study, the flanking regions of several human and mouse Ig V(H) and Ig Vkappa
+genes were analyzed extensively for the presence of MARs by in vitro
+matrix-binding assay, and for interaction with the MAR-binding proteins cut-like 
+protein x/CCAAT-displacement protein (Cux/CDP), B cell regulator of IgH
+transcription (Bright), and special AT-rich sequence-binding protein (SATB1) by
+EMSA. Cux/CDP and SATB1 are associated with repression, while Bright is an
+activator of Ig transcription. Binding sites were identified in the vicinity of
+all analyzed Ig V genes, and were also found flanking TCR Vbeta genes. We also
+show that the binding sites of the different factors do not always occur at MAR
+sequences. MAR sequences were also found within the Ig V loci at a much higher
+frequency than throughout the rest of the genome. Overall, the frequency and
+location of binding sites relative to the coding regions, and the strength of
+DNA-protein interaction showed much heterogeneity. Thus, variations in factor
+binding and MAR activity could potentially influence the extent of localized
+accessibility to V(D)J recombination and thus could play a role in unequal
+rearrangement of individual V genes. These sites could also contribute to
+effective transcription of Ig genes in mature and/or activated B cells, bringing 
+both the promoter as well as the enhancer regions into close proximity at the
+nuclear matrix.
+
+PMID: 12193717  [PubMed - indexed for MEDLINE]
+
+
+52. Kokubyo Gakkai Zasshi. 2002 Jun;69(2):152-61.
+
+[Involvement of E2FBP1, an ARID family member protein, in the p53 regulatory
+pathway].
+
+[Article in Japanese]
+
+Kaiwen M(1).
+
+Author information: 
+(1)Section of Molecular Embryology, Department of Maxillofacial Biology, Division
+of Maxillofacial/Neck Reconstruction, Graduate School of Tokyo Medical and Dental
+University.
+
+E2FBP1, an ARID (AT-rich interaction domain) family protein, has been isolated as
+a protein that interacts with E2F-1, a member for the E2F family transcription
+factor. The closely related Bright binds to specific AT-rich DNA sequences and
+regulates B-cell-specific gene expression. Although Bright is specifically
+expressed in differentiating and matured B cells, E2FBP1 is expressed
+ubiquitously in a variety of tissues, suggesting that E2FBP1 plays a role in
+different biological processes. However, the function of E2FBP1 remains largely
+unknown. The present work showed that expression of E2FBP1 protein was
+up-regulated by forced expression of p53, and its expression levels were low, in 
+tumor cells lacking wild-type p53. Furthermore, E2FBP1 levels were increased
+following DNA damage, in parallel with levels of p53 and p21 Waf1/Cip1. In
+addition, coimmunoprecipitation assays indicated that E2FBP1 could interact with 
+p53 in vivo. These results suggest the possibility that E2FBP1 is involved in the
+p53 regulatory pathway.
+
+PMID: 12136662  [PubMed - indexed for MEDLINE]
+
+
+53. Nat Cell Biol. 2002 Feb;4(2):148-53.
+
+A functional screen identifies hDRIL1 as an oncogene that rescues RAS-induced
+senescence.
+
+Peeper DS(1), Shvarts A, Brummelkamp T, Douma S, Koh EY, Daley GQ, Bernards R.
+
+Author information: 
+(1)Division of Molecular Carcinogenesis and Center for Biomedical Genetics, The
+Netherlands Cancer Institute, Plesmanlaan 121, 1066 CX Amsterdam, The
+Netherlands.
+
+Primary fibroblasts respond to activated H-RAS(V12) by undergoing premature
+arrest, which resembles replicative senescence. This irreversible 'fail-safe
+mechanism' requires p19(ARF), p53 and the Retinoblastoma (Rb) family: upon their 
+disruption, RAS(V12)-expressing cells fail to undergo senescence and continue to 
+proliferate. Similarly, co-expression of oncogenes such as c-MYC or E1A rescues
+RAS(V12)-induced senescence. To identify novel genes that allow escape from
+RAS(V12)-induced senescence, we designed an unbiased, retroviral complementary
+DNA library screen. We report on the identification of DRIL1, the human
+orthologue of the mouse Bright and Drosophila dead ringer transcriptional
+regulators. DRIL1 renders primary murine fibroblasts unresponsive to
+RAS(V12)-induced anti-proliferative signalling by p19(ARF)/p53/p21(CIP1), as well
+as by p16(INK4a). In this way, DRIL1 not only rescues RAS(V12)-induced senescence
+but also causes these fibroblasts to become highly oncogenic. Furthermore, DRIL1 
+immortalizes mouse fibroblasts, in the presence of high levels of p16(INK4a).
+Immortalization by DRIL1, whose product binds the pRB-controlled transcription
+factor E2F1 (ref. 8), is correlated with induction of E2F1 activity.
+Correspondingly, DRIL1 induces the E2F1 target Cyclin E1, overexpression of which
+is sufficient to trigger escape from senescence. Thus, DRIL1 disrupts cellular
+protection against RAS(V12)-induced proliferation downstream of the p19(ARF)/p53 
+pathway.
+
+PMID: 11812999  [PubMed - indexed for MEDLINE]
+
+
+54. J Biol Chem. 2001 Jun 15;276(24):21325-30. Epub 2001 Apr 6.
+
+Transcriptional activation by a matrix associating region-binding protein.
+contextual requirements for the function of bright.
+
+Kaplan MH(1), Zong RT, Herrscher RF, Scheuermann RH, Tucker PW.
+
+Author information: 
+(1)Institute for Molecular and Cellular Biology, University of Texas at Austin,
+Austin, Texas 78712-1075, USA.
+
+Bright (B cell regulator of IgH transcription) is a B cell-specific, matrix
+associating region-binding protein that transactivates gene expression from the
+IgH intronic enhancer (E mu). We show here that Bright has multiple contextual
+requirements to function as a transcriptional activator. Bright cannot
+transactivate via out of context, concatenated binding sites. Transactivation is 
+maximal on integrated substrates. Two of the three previously identified binding 
+sites in E mu are required for full Bright transactivation. The Bright DNA
+binding domain defined a new family, which includes SWI1, a component of the
+SWI.SNF complex shown to have high mobility group-like DNA binding
+characteristics. Similar to one group of high mobility group box proteins, Bright
+distorts E mu binding site-containing DNA on binding, supporting the concept that
+it mediates E mu remodeling. Transfection studies further implicate Bright in
+facilitating spatially separated promoter-enhancer interactions in both transient
+and stable assays. Finally, we show that overexpression of Bright leads to
+enhanced DNase I sensitivity of the endogenous E mu matrix associating regions.
+These data further suggest that Bright may contribute to increased gene
+expression by remodeling the immunoglobulin locus during B cell development.
+
+PMID: 11294836  [PubMed - indexed for MEDLINE]
+
+
+55. Cold Spring Harb Symp Quant Biol. 1999;64:109-18.
+
+Differential regulation of immunoglobulin gene transcription via nuclear
+matrix-associated regions.
+
+Webb C(1), Zong RT, Lin D, Wang Z, Kaplan M, Paulin Y, Smith E, Probst L, Bryant 
+J, Goldstein A, Scheuermann R, Tucker P.
+
+Author information: 
+(1)Department of Immunobiology and Cancer, Oklahoma Medical Research Foundation, 
+Oklahoma City, Oklahoma 73104, USA.
+
+PMID: 11232275  [PubMed - indexed for MEDLINE]
+
+
+56. J Immunol. 2000 Dec 15;165(12):6956-65.
+
+The transcription factor Bright associates with Bruton's tyrosine kinase, the
+defective protein in immunodeficiency disease.
+
+Webb CF(1), Yamashita Y, Ayers N, Evetts S, Paulin Y, Conley ME, Smith EA.
+
+Author information: 
+(1)Department of Immunobiology and Cancer, Oklahoma Medical Research Foundation, 
+and Department of Microbiology and Immunology, Oklahoma University Health
+Sciences Center, Oklahoma City, OK 73104, USA.
+
+Binding of the transcription factor Bright to Ig heavy chain loci after B cell
+activation is associated with increased heavy chain transcription. We now report 
+that Bright coprecipitates with Bruton's tyrosine kinase (Btk), the defective
+enzyme in X-linked immunodeficiency disease (xid). Furthermore, we observed Btk
+in the nucleus of activated murine B cells, and mobility shift assays suggest
+that it is a component of the Bright DNA-binding complex. While BRIGHT protein
+was synthesized in activated spleen cells from xid mice, it did not bind DNA or
+associate stably with Btk. These data suggest that deficiencies in BRIGHT
+DNA-binding activity may contribute to the defects in Ig production seen in xid
+mice.
+
+PMID: 11120822  [PubMed - indexed for MEDLINE]
+
+
+57. EMBO J. 2000 Aug 1;19(15):4123-33.
+
+Regulation of matrix attachment region-dependent, lymphocyte-restricted
+transcription through differential localization within promyelocytic leukemia
+nuclear bodies.
+
+Zong RT(1), Das C, Tucker PW.
+
+Author information: 
+(1)Department of Molecular Genetics and The Institute for Cellular and Molecular 
+Biology, University of Texas at Austin, Austin, TX 78712, USA.
+
+Bright (B cell regulator of IgH transcription) transactivates the immunoglobulin 
+heavy chain (IgH) intronic enhancer, Emicro, by binding to matrix attachment
+regions (MARs), sites necessary for DNA attachment to the nuclear matrix. Here we
+report that Bright interacts with the ubiquitous autoantigen Sp100, a component
+of promyelocytic leukemia nuclear bodies (PML NBs), and with LYSp100B/Sp140, the 
+lymphoid-restricted homolog of Sp100. Both in intact cells and in nuclear matrix 
+preparations, the majority of Bright and Sp100 colocalize within PML NBs. In
+contrast, Bright colocalizes with only a small fraction of LYSp100B while
+inducing a redistribution of the majority of LYSp100B from its associated nuclear
+domains (LANDs) into nucleoplasm and cytoplasm. Sp100 represses the MAR-binding
+and transactivation activity of Bright. LYSp100B interacts more weakly with
+Bright but requires significantly higher levels than Sp100 to inhibit MAR
+binding. However, it strongly stimulates Bright transactivation through E mu. We 
+suggest that Sp100 and LYSp100B interactions with Bright have different
+consequences for IgH transcription, potentially through differential association 
+of E mu MARs with nuclear matrix- associated PML NBs and LANDs.
+
+PMCID: PMC306587
+PMID: 10921892  [PubMed - indexed for MEDLINE]
+
+
+58. Cancer Res. 1999 Aug 1;59(15):3741-7.
+
+Bdp, a new member of a family of DNA-binding proteins, associates with the
+retinoblastoma gene product.
+
+Numata S(1), Claudio PP, Dean C, Giordano A, Croce CM.
+
+Author information: 
+(1)Kimmel Cancer Institute, Thomas Jefferson University, Philadelphia,
+Pennsylvania 19107, USA.
+
+We have cloned a gene, BDP, encoding a protein with homology to the
+retinoblastoma-binding proteins Rbp1 and Rbp2. It also has homology to
+DNA-binding proteins such as Bright, a B-cell-specific trans-activator, and the
+Drosophila melanogaster dead ringer gene product. Like MyoD, Bdp binds to the
+COOH-terminal region of pRb through its conserved region and to
+hypophosphorylated pRb. It also binds to the MAR of the immunoglobulin
+heavy-chain locus. Thus Bdp may contribute to the transcriptional regulation of
+genes involved in differentiation and tissue-specific expression.
+
+PMID: 10446990  [PubMed - indexed for MEDLINE]
+
+
+59. Mol Cell Biol. 1999 Jan;19(1):284-95.
+
+Cux/CDP homeoprotein is a component of NF-muNR and represses the immunoglobulin
+heavy chain intronic enhancer by antagonizing the bright transcription activator.
+
+Wang Z(1), Goldstein A, Zong RT, Lin D, Neufeld EJ, Scheuermann RH, Tucker PW.
+
+Author information: 
+(1)Department of Pathology and Laboratory of Molecular Pathology, The University 
+of Texas Southwestern Medical Center, Dallas, Texas 75235-9072, USA.
+
+Nuclear matrix attachment regions (MARs) flanking the immunoglobulin heavy chain 
+intronic enhancer (Emu) are the targets of the negative regulator, NF-muNR, found
+in non-B and early pre-B cells. Expression library screening with NF-muNR binding
+sites yielded a cDNA clone encoding an alternatively spliced form of the Cux/CDP 
+homeodomain protein. Cux/CDP fulfills criteria required for NF-muNR identity. It 
+is expressed in non-B and early pre-B cells but not mature B cells. It binds to
+NF-muNR binding sites within Emu with appropriate differential affinities.
+Antiserum specific for Cux/CDP recognizes a polypeptide of the predicted size in 
+affinity-purified NF-muNR preparations and binds NF-muNR complexed with DNA.
+Cotransfection with Cux/CDP represses the activity of Emu via the MAR sequences
+in both B and non-B cells. Cux/CDP antagonizes the effects of the Bright
+transcription activator at both the DNA binding and functional levels. We propose
+that Cux/CDP regulates cell-type-restricted, differentiation stage-specific Emu
+enhancer activity by interfering with the function of nuclear matrix-bound
+transcription activators.
+
+PMCID: PMC83886
+PMID: 9858552  [PubMed - indexed for MEDLINE]
+
+
+60. Oncogene. 1998 Aug 20;17(7):853-65.
+
+A novel E2F binding protein with Myc-type HLH motif stimulates E2F-dependent
+transcription by forming a heterodimer.
+
+Suzuki M(1), Okuyama S, Okamoto S, Shirasuna K, Nakajima T, Hachiya T, Nojima H, 
+Sekiya S, Oda K.
+
+Author information: 
+(1)Department of Biological Science and Technology, Science University of Tokyo, 
+Chiba, Japan.
+
+The human embryonal carcinoma cells NEC14 can be induced to differentiate
+morphologically by the addition of 10(-2) M N, N'-hexamethylene-bis-acetamide and
+cease to grow in several days. Transcription factors of the E2F/DP family have
+been shown to be closely related to the regulation of cell proliferation. To
+analyse cellular proteins which interact with E2F in NEC14 cells, cDNA clones
+encoding E2F binding proteins were isolated from a lambdaZAP II NEC14 cell
+library with the 32P-labeled GST (Glutathione S-transferase)-E2F-1 fusion protein
+as a probe. One of the clones encodes E2FBP1 which has the helix-loop-helix (HLH)
+motif, but lacks the basic domain and the zipper structure usually found at N-
+and C-terminal sides to the HLH motif, respectively. The arrangement of amino
+acids in the helix 1 and helix 2 regions is quite similar to those of Mxi and
+Mad, but different from those of E2F-1 and DP-1. Western blot analysis of the
+immunoprecipitates prepared with anti-E2FBP1 antibody showed that E2FBP1
+associates with both E2F-1 and DP-1 in vivo. E2FBP1 alone has no DNA binding
+activity, but bind to the E2F site through heterodimerization with E2F-1 but not 
+with DP-1. Although E2FBP1 lacks the transactivation domain, it stimulates E2F
+site-dependent transcription in cooperation with E2F-1.
+
+PMID: 9780002  [PubMed - indexed for MEDLINE]
+
+
+61. Genomics. 1998 Jul 15;51(2):288-92.
+
+The human dead ringer/bright homolog, DRIL1: cDNA cloning, gene structure, and
+mapping to D19S886, a marker on 19p13.3 that is strictly linked to the
+Peutz-Jeghers syndrome.
+
+Kortschak RD(1), Reimann H, Zimmer M, Eyre HJ, Saint R, Jenne DE.
+
+Author information: 
+(1)Department of Genetics, University of Adelaide, South Australia, Australia.
+
+The Drosophila gene dead ringer (dri) was isolated as a novel gene encoding a
+sequence-specific DNA-binding protein. DRI is a founding member of a growing
+protein family whose members share a conserved DNA binding domain termed the
+A/T-rich interaction domain. dri is developmentally regulated, being expressed in
+a restricted set of cells including some neural cells and differentiating cells
+of the gut and salivary gland ducts. The mouse homolog of dri, bright, has been
+shown to be expressed in mature B-cells in the immune system, its product
+trans-activating expression through an IgH enhancer in transient transfection
+assays. We have cloned a human dri/bright homolog, termed DRIL1. Here we report
+the exon-intron structure of the gene and show physical linkage within 80 kb to
+the D19S886 marker on 19p13.3. As this marker is intimately linked to the
+Peutz-Jeghers syndrome in several large pedigrees, human dri (DRIL1) is a
+candidate gene for this disorder.
+
+PMID: 9722953  [PubMed - indexed for MEDLINE]
+
+
+62. J Immunol. 1998 May 15;160(10):4747-54.
+
+Expression of bright at two distinct stages of B lymphocyte development.
+
+Webb CF(1), Smith EA, Medina KL, Buchanan KL, Smithson G, Dou S.
+
+Author information: 
+(1)Immunobiology and Cancer Research Program, Oklahoma Medical Research
+Foundation, Oklahoma City 73104, USA. webb@omrf.ouhsc.edu
+
+The B cell regulator of Ig heavy chain transcription (Bright) is a DNA-binding
+protein that was originally discovered in a mature Ag-specific B cell line after 
+stimulation with IL-5 and Ag. It binds to the intronic heavy chain enhancer and
+5' of the V1 S107 family V(H) promoter. Several studies suggested that Bright may
+increase transcription of the heavy chain locus, and expression in cell lines was
+limited to those representing mature B cells. We have now analyzed normal
+hemopoietic tissues for the expression of Bright during B lymphocyte
+differentiation. We expected to find Bright expression in a subset of mature
+spleen cells, but also observed Bright in a subset of normal B lymphocytic
+progenitors in both adult bone marrow (BM) and in fetal liver as early as day 12 
+of gestation. Bright was also expressed in the small percentage of CD4(low) cells
+in the thymus that are newly arrived from the BM and are not yet committed to the
+T lymphocyte lineage, but was not observed at later stages of T cell
+differentiation in either the spleen or thymus. Bright mRNA was not detected in
+the immature B lymphocytes that initially populate the spleen after migration
+from the BM. In addition, new splice variants of Bright were observed in fetal
+tissues. Thus, Bright expression is highly regulated in normal murine lymphocytes
+and occurs both early and late during B cell differentiation. These findings may 
+have important implications for the function of Bright in regulating Ig
+transcription.
+
+PMID: 9590220  [PubMed - indexed for MEDLINE]
+
+
+63. Genes Dev. 1995 Dec 15;9(24):3067-82.
+
+The immunoglobulin heavy-chain matrix-associating regions are bound by Bright: a 
+B cell-specific trans-activator that describes a new DNA-binding protein family.
+
+Herrscher RF(1), Kaplan MH, Lelsz DL, Das C, Scheuermann R, Tucker PW.
+
+Author information: 
+(1)Department of Microbiology, University of Texas Southwestern Medical Center,
+Dallas 75235-9048, USA.
+
+B lymphocyte-restricted transcription of immunoglobulin heavy-chain (IgH) genes
+is specified by elements within the variable region (VH) promoter and the
+intronic enhancer (E mu). The gene encoding a protein that binds a VH promoter
+proximal site necessary for induced mu-heavy-chain transcription has been cloned.
+This B-cell specific protein, termed Bright (B cell regulator of IgH
+transcription), is found in both soluble and matrix insoluble nuclear fractions. 
+Bright binds the minor groove of a restricted ATC sequence that is sufficient for
+nuclear matrix association. This sequence motif is present in previously
+described matrix-associating regions (MARs) proximal to the promoter and flanking
+E mu. Bright can activate E mu-driven transcription by binding these sites, but
+only when they occur in their natural context and in cell lines permissive for E 
+mu activity. To bind DNA, Bright requires a novel tetramerization domain and a
+previously undescribed domain that shares identity with several proteins,
+including SWI1, a component of the SWI/SNF complex.
+
+PMID: 8543152  [PubMed - indexed for MEDLINE]
+
+

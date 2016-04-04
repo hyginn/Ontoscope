@@ -1,0 +1,3479 @@
+
+1. Epigenetics. 2016 Mar 1:0. [Epub ahead of print]
+
+Quantitative genome-wide methylation analysis of high-grade non-muscle invasive
+bladder cancer.
+
+Kitchen MO(1,)(2), Bryan RT(3), Emes RD(4), Glossop JR(1), Luscombe C(2), Cheng
+K(3), Zeegers MP(3,)(5,)(6,)(7), James ND(8), Devall AJ(3), Mein CA(9),
+Gommersall L(2), Fryer AA(1), Farrell WE(1).
+
+Author information: 
+(1)a Institute for Science and Technology in Medicine, Keele University , UK.
+(2)b Urology Department , University Hospitals of North Midlands NHS Trust , UK. 
+(3)c Institute of Cancer and Genomic Sciences, University of Birmingham , UK.
+(4)d Advanced Data Analysis Centre, University of Nottingham , UK. (5)e
+Department of Complex Genetics , Maastricht University Medical Centre , The
+Netherlands. (6)f NUTRIM School of Nutrition and Translational Research in
+Metabolism, Maastricht University Medical Centre , The Netherlands. (7)g CAPHRI
+School for Public Health and Primary Care, Maastricht University Medical Centre ,
+The Netherlands. (8)h Cancer Research Unit, University of Warwick , UK. (9)i The 
+Genome Centre, Barts and the London School of Medicine and Dentistry , London ,
+UK.
+
+High-grade non-muscle invasive bladder cancer (HG-NMIBC) is a clinically
+unpredictable disease with greater risks of recurrence and progression relative
+to their low-intermediate-grade counterparts. The molecular events, including
+those affecting the epigenome, that characterize this disease entity in the
+context of tumor development, recurrence, and progression, are incompletely
+understood. We therefore interrogated genome-wide DNA methylation using
+HumanMethylation450 BeadChip arrays in 21 primary HG-NMIBC tumors relative to
+normal bladder controls. Using strict inclusion-exclusion criteria we identified 
+1,057 hypermethylated CpGs within gene promoter-associated CpG islands,
+representing 256 genes. We validated the array data by bisulphite pyrosequencing 
+and examined 25 array-identified candidate genes in an independent cohort of 30
+HG-NMIBC and 18 low-intermediate-grade NMIBC. These analyses revealed
+significantly higher methylation frequencies in high-grade tumors relative to
+low-intermediate-grade tumors for the ATP5G2, IRX1 and VAX2 genes (P<0.05), and
+similarly significant increases in mean levels of methylation in high-grade
+tumors for the ATP5G2, VAX2, INSRR, PRDM14, VSX1, TFAP2b, PRRX1, and HIST1H4F
+genes (P<0.05). Although inappropriate promoter methylation was not invariantly
+associated with reduced transcript expression, a significant association was
+apparent for the ARHGEF4, PON3, STAT5a, and VAX2 gene transcripts (P<0.05).
+Herein, we present the first genome-wide DNA methylation analysis in a unique
+HG-NMIBC cohort, showing extensive and discrete methylation changes relative to
+normal bladder and low-intermediate-grade tumors. The genes we identified hold
+significant potential as targets for novel therapeutic intervention either alone,
+or in combination, with more conventional therapeutic options in the treatment of
+this clinically unpredictable disease.
+
+PMID: 26929985  [PubMed - as supplied by publisher]
+
+
+2. Adv Exp Med Biol. 2016;854:635-41. doi: 10.1007/978-3-319-17121-0_84.
+
+Regulation of Retinal Development via the Epigenetic Modification of Histone H3.
+
+Watanabe S(1), Murakami A(2).
+
+Author information: 
+(1)Division of Molecular and Developmental Biology, Institute of Medical Science,
+University of Tokyo, 4-6-1 Shirokanedai, Minato-ku, 108-8639, Tokyo, Japan.
+sumiko@ims.u-tokyo.ac.jp. (2)Department of Ophthalmology, Graduate School of
+Medicine, Juntendo University, Tokyo, Japan.
+
+We are interested in the roles of epigenetic mechanisms in retinal development.
+By ChIP-qPCR using whole retinal extracts at various developmental stages, we
+found that the levels of methylation of histones H3K27 and H3K4 and acetylation
+of histone H3 at specific loci in various genes, which play critical roles in
+retinal proliferation and differentiation, changed dramatically during retinal
+development. We next focused on the roles of H3K27 trimethylation in retinal
+development. Ezh1 and Ezh2 are methyltransferases that act on H3K27, while Jmjd3 
+and Utx are demethylases. We found that Ezh2 and Jmjd3 were mainly expressed
+during retinal development, and a loss-of-function of these genes revealed a role
+for H3K27me3 in the maturation of subsets of bipolar cells. Furthermore, Ezh2 and
+Jmjd3 regulate H3K27 trimethylation at specific loci within Bhlhb4 and Vsx1,
+which play critical roles in the differentiation of subsets of bipolar cells. Utx
+is expressed weakly in retina, and the down-regulation of Utx by sh-RNA in
+retinal explants suggested that Utx also participates in the maturation of
+bipolar cells. Ezh1 is expressed weakly in postnatal retina, and the phenotype of
+Ezh2-knockout retina suggested that Ezh1 plays a role in the methylation of H3K27
+in the late phase of retinal differentiation. Taken together, we found that these
+four genes, which exhibit temporally and spatially unique expression patterns
+during retinal development, play critical roles in the differentiation of retinal
+subsets through the regulation of histone H3K27 methylation at critical genetic
+loci.
+
+PMID: 26427469  [PubMed - in process]
+
+
+3. BMC Med Genet. 2015 May 12;16:33. doi: 10.1186/s12881-015-0178-x.
+
+Two novel missense substitutions in the VSX1 gene: clinical and genetic analysis 
+of families with Keratoconus from India.
+
+Shetty R(1), Nuijts RM(2), Nanaiah SG(3), Anandula VR(4), Ghosh A(5), Jayadev
+C(6), Pahuja N(7), Kumaramanickavel G(8), Nallathambi J(9).
+
+Author information: 
+(1)Cornea and Refractive Surgery Department, Narayana Nethralaya Postgraduate
+Institute of Ophthalmology, Bangalore, India. drrohitshetty@yahoo.com. (2)Cornea 
+Clinic, Department of Ophthalmology, Maastricht University Medical Center, 6211
+LK, Maastricht, The Netherlands. rudy.nuijts@mumc.nl. (3)Cornea and Refractive
+Surgery Department, Narayana Nethralaya Postgraduate Institute of Ophthalmology, 
+Bangalore, India. soumya.kaveri@gmail.com. (4)GROW Research Laboratory, Narayana 
+Nethralaya Foundation, Bangalore, India. ramanagene@gmail.com. (5)GROW Research
+Laboratory, Narayana Nethralaya Foundation, Bangalore, India.
+arkasubhra@narayananethralaya.com. (6)Cornea and Refractive Surgery Department,
+Narayana Nethralaya Postgraduate Institute of Ophthalmology, Bangalore, India.
+drchaitra@hotmail.com. (7)Cornea and Refractive Surgery Department, Narayana
+Nethralaya Postgraduate Institute of Ophthalmology, Bangalore, India.
+dr.natashapahuja@gmail.com. (8)GROW Research Laboratory, Narayana Nethralaya
+Foundation, Bangalore, India. gkumarmvel@gmail.com. (9)GROW Research Laboratory, 
+Narayana Nethralaya Foundation, Bangalore, India.
+drnallathambi@narayananethralaya.com.
+
+BACKGROUND: Visual system homeobox gene (VSX1) plays a major role in the early
+development of craniofacial and ocular tissues including cone opsin gene in the
+human retina. To date, few disease-causing mutations of VSX1 have been linked to 
+familial and sporadic keratoconus (KC) in humans. In this study, we describe the 
+clinical features and screening for VSX1 gene in families with KC from India.
+METHODS: Clinical data and genomic DNA were collected from patients with
+clinically diagnosed KC and their family members. The study was conducted on 20
+subjects of eight families from India. The coding exons of VSX1 gene were
+amplified using PCR and amplicons were analyzed by direct sequencing. Predictive 
+effect of the mutations was performed using Polyphen-2, SIFT and mutation
+assessor algorithms. Additionally, haplotypes of VSX1 gene were constructed for
+affected and unaffected individuals using SNPs.
+RESULTS: In the coding region of VSX1, one novel missense heterozygous change
+(p.Leu268His) was identified in five KC patients from two unrelated families.
+Another family of three members had a novel heterozygous change (p.Ser251Thr).
+These variants co-segregated with the disease phenotype in all affected
+individuals but not in the unaffected family members and 105 normal controls. In 
+silico analysis suggested that p.Leu268His could have a deleterious effect on the
+protein coded by VSX1, while p.Ser251Thr has a neutral effect on the functional
+properties of VSX1. Haplotype examination revealed common SNPs around the
+missense change (p.Leu268His) in two unrelated KC families.
+CONCLUSIONS: In this study, we add p.Leu268His, a novel missense variation in the
+coding region of VSX1 to the existing repertoire of VSX1 coding variations
+observed in Indian patients with the characteristic phenotype of KC. The variant 
+p.Ser251Thr might be a benign polymorphism, but further biophysical studies are
+necessary to evaluate its molecular mechanism. The shared haplotype by two
+families with the same variant suggests the possibility of a founder effect,
+which requires further elucidation. We suggest that p.Leu268His might be involved
+in the pathogenesis of KC, which may help in the genetic counselling of patients 
+and their family.
+
+PMCID: PMC4630895
+PMID: 25963163  [PubMed - indexed for MEDLINE]
+
+
+4. BMC Genomics. 2015 Apr 23;16:336. doi: 10.1186/s12864-015-1515-3.
+
+The uniform-score gene set analysis for identifying common pathways associated
+with different diabetes traits.
+
+Mei H(1,)(2), Li L(3), Liu S(4), Jiang F(5), Griswold M(6), Mosley T(7).
+
+Author information: 
+(1)Center of Biostatistics & Bioinformatics, University of Mississippi Medical
+Center, Jackson, MS, USA. hmei@umc.edu. (2)Shanghai Children's Medical Center,
+Shanghai Jiao Tong University School of Medicine, Shanghai, China. hmei@umc.edu. 
+(3)Department of Biology, Tougaloo College, Jackson, MS, USA. lli@tougaloo.edu.
+(4)Shanghai Children's Medical Center, Shanghai Jiao Tong University School of
+Medicine, Shanghai, China. arrow64@163.com. (5)Shanghai Children's Medical
+Center, Shanghai Jiao Tong University School of Medicine, Shanghai, China.
+riversailer@hotmail.com. (6)Center of Biostatistics & Bioinformatics, University 
+of Mississippi Medical Center, Jackson, MS, USA. mgriswold@umc.edu. (7)Department
+of Neurology, University of Mississippi Medical Center, Jackson, MS, USA.
+tmosley@umc.edu.
+
+BACKGROUND: Genetic heritability and expression study have shown that different
+diabetes traits have common genetic components and pathways. A computationally
+efficient pathway analysis of GWAS results will benefit post-GWAS study of SNP
+associations and identification of common genetic pathways from diabetes GWAS can
+help to improve understanding of the disease pathogenesis.
+RESULTS: We proposed a uniform-score gene-set analysis (USGSA) with implemented
+package to unify different gene measures by a uniform score for identifying
+pathways from GWAS data, and use a pre-generated permutation distribution table
+to quickly obtain multiple-testing adjusted p-value. Simulation studies of
+uniform score for four gene measures (minP, 2ndP, simP and fishP) have shown that
+USGSA has strictly controlled family-wise error rate. The power depends on types 
+of gene measure. USGSA with a two-stage study strategy was applied to identify
+common pathways associated with diabetes traits based on public dbGaP GWAS
+results. The study identified 7 gene sets that contain binding motifs at promoter
+region of component genes for 5 transcription factors (TFs) of FOXO4, TCF3, NFAT,
+VSX1 and POU2F1, and 1 microRNA of mir-218. These gene sets include 25 common
+genes that are among top 5% of the gene associations over genome for all GWAS.
+Previous evidences showed that nearly all of these genes are mainly expressed in 
+the brain.
+CONCLUSIONS: USGSA is a computationally efficient approach for pathway analysis
+of GWAS data with promoted interpretability and comparability. The pathway
+analysis suggested that different diabetes traits share common pathways and
+component genes are potentially regulated by common TFs and microRNA. The result 
+also indicated that the central nervous system has a critical role in diabetes
+pathogenesis. The findings will be important in formulating novel hypotheses for 
+guiding follow-up studies.
+
+PMCID: PMC4415316
+PMID: 25898945  [PubMed - indexed for MEDLINE]
+
+
+5. RNA Biol. 2015;12(6):615-27. doi: 10.1080/15476286.2015.1034919.
+
+MicroRNA-20a is essential for normal embryogenesis by targeting vsx1 mRNA in
+fish.
+
+Sun L(1), Li H, Xu X, Xiao G, Luo C.
+
+Author information: 
+(1)a College of Life Sciences; Zhejiang University ; Hangzhou , Zhejiang , China.
+
+MicroRNAs are major post-transcriptional regulators of gene expression and have
+essential roles in diverse developmental processes. In vertebrates, some
+regulatory genes play different roles at different developmental stages. These
+genes are initially transcribed in a wide embryonic region but restricted within 
+distinct cell types at subsequent stages during development. Therefore,
+post-transcriptional regulation is required for the transition from one
+developmental stage to the next and the establishment of different cell
+identities. However, the regulation of many multiple functional genes at
+post-transcription level during development remains unknown. Here we show that
+miR-20a can target the mRNA of vsx1, a multiple functional gene, at the 3'-UTR
+and inhibit protein expression in both goldfish and zebrafish. The expression of 
+miR-20a is initiated ubiquitously at late gastrula stage and exhibits a
+tissue-specific pattern in the developing retina. Inhibition of vsx1 3'-UTR
+mediated protein expression occurs when and where miR-20a is expressed. Decoying 
+miR-20a resulted in severely impaired head, eye and trunk formation in
+association with excessive generation of vsx1 marked neurons in the spinal cord
+and defects of somites in the mesoderm region. These results demonstrate that
+miR-20a is essential for normal embryogenesis by restricting Vsx1 expression in
+goldfish and zebrafish, and that post-transcriptional regulation is an essential 
+mechanism for Vsx1 playing different roles in diverse developmental processes.
+
+PMCID: PMC4615322
+PMID: 25833418  [PubMed - indexed for MEDLINE]
+
+
+6. Ophthalmic Genet. 2015 Jun;36(2):132-6. doi: 10.3109/13816810.2015.1005317. Epub 
+2015 Feb 12.
+
+Evaluating the Association between Keratoconus and Reported Genetic Loci in a Han
+Chinese Population.
+
+Hao XD(1), Chen P, Chen ZL, Li SX, Wang Y.
+
+Author information: 
+(1)State Key Laboratory Cultivation Base, Shandong Provincial Key Laboratory of
+Ophthalmology, Shandong Eye Institute, Shandong Academy of Medical Sciences ,
+Qingdao , China and.
+
+BACKGROUND: Keratoconus (KC) is a complex degenerative disorder of the cornea.
+Genetic, environmental, and lifestyle factors may all contribute to the
+pathogenesis of KC. Most of the reported KC-associated SNPs have been detected in
+Caucasians and Australians. To investigate whether the reported associated SNPs
+can be found in a Chinese population, we performed a replication study of the
+significantly associated SNPs.
+MATERIALS AND METHODS: A total of 210 unrelated Chinese KC patients and 191
+unrelated controls were included in the present study. SNPs rs4954218 (Near
+RAB3GAP1 (5')), rs4894535 (FNDC3B), rs2956540 (LOX), rs3735520 (Near HGF (5')),
+rs1324183 (MPDZ-NF1B), rs1536482 (RXRA-COL5A1), rs7044529 (COL5A1), rs2721051
+(Near FOXO1 (3')), rs9938149 (BANP-ZNF469) and rs6050307 (VSX1) were assessed for
+their association with KC. The genotype of each SNP was detected using the
+Sequenom MassARRAY-Assay.
+RESULTS: SNP rs1324183 located in MPDZ-NF1B was associated with an increased risk
+of KC (OR=3.108, 95% CI=1.366-7.072, p=0.005), and SNP rs2956540 in the LOX gene 
+may confer a reduced risk of KC with a borderline p value in our population
+(OR=0.664, 95% CI=0.447-0.986, p=0.042). No significant difference was observed
+between patients and controls in the other eight SNP genotypes and allele
+frequencies.
+CONCLUSIONS: The replication association of rs1324183 (MPDZ-NF1B) with KC in our 
+population and the results, which are identical to those in different
+populations, suggest that rs1324183 (MPDZ-NF1B) is a common genetic risk for KC
+and should be further investigated.
+
+PMID: 25675348  [PubMed - indexed for MEDLINE]
+
+
+7. Dev Neurobiol. 2015 Sep;75(9):947-60. doi: 10.1002/dneu.22261. Epub 2015 Jan 16.
+
+Roles of histone H3K27 trimethylase Ezh2 in retinal proliferation and
+differentiation.
+
+Iida A(1), Iwagawa T(1), Baba Y(1), Satoh S(1), Mochizuki Y(1,)(2), Nakauchi
+H(3), Furukawa T(4), Koseki H(5), Murakami A(2), Watanabe S(1).
+
+Author information: 
+(1)Division of Molecular and Developmental Biology, Institute of Medical Science,
+University of Tokyo, Tokyo. (2)Department of Ophthalmology, Graduate School of
+Medicine, Juntendo University, Tokyo. (3)Division of Stem Cell Therapy, Center
+for Stem Cell Biology and Regenerative Medicine, Institute of Medical Science,
+University of Tokyo, Tokyo. (4)Laboratory for Molecular and Developmental
+Biology, Institute for Protein Research, Osaka University, Osaka. (5)Laboratory
+for Developmental Genetics, RIKEN Center for Allergy and Immunology, Kanagawa.
+
+The histone modification H3K27me3 regulates transcription negatively, and Jmjd3
+and Ezh2 demethylate and methylate H3K27me3 and H3K27, respectively. We
+demonstrated previously that Jmjd3 plays pivotal roles in the differentiation of 
+subsets of bipolar (BP) cells by regulating H3K27me3 levels at the Bhlhb4 and
+Vsx1 loci, both of which are transcription factors essential for the maturation
+of BP cell subsets. In this study, we examined the role of Ezh2 in retinal
+development using retina-specific Ezh2 conditional knockout mice (Ezh2-CKO). The 
+eyes of the Ezh2-CKO mice were microphthalemic, and the proliferation of retinal 
+cells was diminished postnatally in Ezh2-CKO. Differentiation of all examined
+retinal subsets was observed with higher proportion of BP cell subsets, which was
+determined by immunostaining using specific retinal markers. The onsets of Müller
+glia and rod photoreceptor differentiation were accelerated. The expression of
+Bhlhb4 was increased in postnatal retinas, which was accompanied by the loss of
+H3K27me3 modifications at these genetic loci. Decreased expression of proneural
+genes in postnatal stage was observed. As reported previously in other Ezh2-KO
+tissues, increased expression of Arf/Ink4a was observed in the Ezh2-CKO retinas. 
+The ectopic expression of Arf or Ink4a in the retina suppressed proliferation and
+increased apoptosis. In addition, earlier onset of Müller glia differentiation
+was observed in Ink4a-expressing cells. These results support an important role
+for histone H3K27me3 modification in regulating the proliferation and maturation 
+of certain subsets of interneurons in the retina.
+
+© 2015 Wiley Periodicals, Inc.
+
+PMID: 25556712  [PubMed - in process]
+
+
+8. Mol Vis. 2014 Sep 20;20:1318-27. eCollection 2014.
+
+Comparison of refractive development and retinal dopamine in OFF pathway mutant
+and C57BL/6J wild-type mice.
+
+Chakraborty R(1), Park Hn(1), Aung MH(2), Tan CC(3), Sidhu CS(3), Iuvone PM(4),
+Pardue MT(5).
+
+Author information: 
+(1)Department of Ophthalmology, Emory University School of Medicine, Atlanta, GA 
+; Atlanta VA Center of Visual and Neurocognitive Rehabilitation, Decatur, GA.
+(2)Department of Ophthalmology, Emory University School of Medicine, Atlanta, GA 
+; Department of Neuroscience, Emory University School of Medicine, Atlanta, GA.
+(3)Department of Ophthalmology, Emory University School of Medicine, Atlanta, GA.
+(4)Department of Ophthalmology, Emory University School of Medicine, Atlanta, GA 
+; Department of Neuroscience, Emory University School of Medicine, Atlanta, GA ; 
+Department of Pharmacology, Emory University School of Medicine, Atlanta, GA.
+(5)Department of Ophthalmology, Emory University School of Medicine, Atlanta, GA 
+; Department of Neuroscience, Emory University School of Medicine, Atlanta, GA ; 
+Atlanta VA Center of Visual and Neurocognitive Rehabilitation, Decatur, GA.
+
+PURPOSE: Proper visual transmission depends on the retinal ON and OFF pathways.
+We used Vsx1-/- mice with a retinal OFF visual pathway defect to determine the
+role of OFF pathway signaling in refractive development (RD) of the eye.
+METHODS: Refractive development was measured every 2 weeks in Vsx1-/-, Vsx1+/+
+(both on 129S1/Sv background), and commonly used C57BL/6J mice from 4 to 12 weeks
+of age. Form deprivation (FD) was induced monocularly from 4 weeks of age using
+head-mounted diffuser goggles. Refractive state, corneal curvature, and ocular
+biometry were obtained weekly using photorefraction, keratometry, and 1310 nm
+spectral-domain optical coherence tomography. Retinal dopamine and its
+metabolite, 3,4-dihydroxyphenylacetate (DOPAC), were measured using
+high-performance liquid chromatography (HPLC).
+RESULTS: During normal development, the Vsx1-/- and Vsx1+/+ mice showed similar
+myopic refractions at younger ages (4 weeks, Vsx1-/-: -5.28±0.75 diopter (D); WT:
+-4.73±0.98 D) and became significantly hyperopic by 12 weeks of age (Vsx1-/-:
+3.28±0.82 D; WT: 5.33±0.81 D). However, the C57BL/6J mice were relatively
+hyperopic at younger ages (mean refraction at 4 weeks, 3.40±0.43 D), and
+developed more hyperopic refractions until about 7 weeks of age (8.07±0.55 D)
+before stabilizing. Eight weeks of FD did not induce a myopic shift in the
+129S1/Sv animals (0.16±0.85 D), as opposed to a significant shift of -4.29±0.42 D
+in the C57BL/6J mice. At 4 weeks of visual development, dopamine turnover (the
+DOPAC/dopamine ratio) was significantly greater in the 129S1/Sv mice compared to 
+the C57BL/6J mice. FD did not alter the levels of dopamine between the goggled
+and opposite eyes for any genotype or strain.
+CONCLUSIONS: OFF pathway signaling may not be critically important for normal
+refractive development in mice. Elevated retinal dopamine turnover in early
+refractive development may prevent FD myopia in 129S1/Sv mice compared to
+C57BL/6J mice.
+
+PMCID: PMC4169773
+PMID: 25352740  [PubMed - indexed for MEDLINE]
+
+
+9. Dev Biol. 2014 Oct 15;394(2):264-76. doi: 10.1016/j.ydbio.2014.08.011. Epub 2014 
+Aug 21.
+
+Maternal Vsx1 plays an essential role in regulating prechordal mesendoderm and
+forebrain formation in zebrafish.
+
+Xu X(1), He Y(1), Sun L(1), Ma S(2), Luo C(3).
+
+Author information: 
+(1)College of Life Sciences, Zhejiang University, Hangzhou 310058, Zhejiang,
+China. (2)College of Life Sciences, Zhejiang University, Hangzhou 310058,
+Zhejiang, China; School of Life Sciences, Zhengzhou University, Zhengzhou 450001,
+Henan, China. (3)College of Life Sciences, Zhejiang University, Hangzhou 310058, 
+Zhejiang, China. Electronic address: luoc@zju.edu.cn.
+
+Prechordal mesendoderm (PME) is a derivative of gastrula organizer underlying the
+anterior neural plate of vertebrate embryos. It has been firmly established that 
+PME is critical for head induction and anterior-posterior patterning. Therefore, 
+the establishment of PME in a desired shape and size at a correct position during
+early embryogenesis is crucial for normal head patterning. However, it remains
+largely unclear how the desired form and size of PME is generated at a
+predestined position during early embryogenesis. Here we show that in zebrafish a
+maternal transcription repressor Vsx1 is essential for this early developmental
+regulation. Knocking down maternal vsx1 resulted in impaired PME formation and
+progression associated with a deficient and posteriorized forebrain. Loss- and
+gain-of-function experiments showed that maternal Vsx1 is essential for
+repressing ntl ectopic expression in more animal region at early gastrula stages.
+Chromatin immunoprecipitation assay in combination with core consensus sequence
+mutation analysis further revealed that maternal Vsx1 can directly repress ntl
+transcription by binding to the proximal promoter at a specific site.
+Simultaneous inhibition of ntl function could successfully suppress the defects
+of both PME and forebrain formation in maternal Vsx1 knockdown embryos. Our
+results reveal a pivotal role for maternal Vsx1 as a direct transcriptional
+repressor of ntl expression at the margin of the zebrafish gastrula to ensure
+directional cell polarization and migration of PME cells.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+PMID: 25150888  [PubMed - indexed for MEDLINE]
+
+
+10. Neural Dev. 2014 Jul 29;9:18. doi: 10.1186/1749-8104-9-18.
+
+Optix defines a neuroepithelial compartment in the optic lobe of the Drosophila
+brain.
+
+Gold KS, Brand AH(1).
+
+Author information: 
+(1)The Gurdon Institute and Department of Physiology, Development & Neuroscience,
+University of Cambridge, Tennis Court Road, Cambridge CB2 1QN, UK.
+a.brand@gurdon.cam.ac.uk.
+
+BACKGROUND: During early brain development, the organisation of neural
+progenitors into a neuroepithelial sheet maintains tissue integrity during
+growth. Neuroepithelial cohesion and patterning is essential for orderly
+proliferation and neural fate specification. Neuroepithelia are regionalised by
+the expression of transcription factors and signalling molecules, resulting in
+the formation of distinct developmental, and ultimately functional, domains.
+RESULTS: We have discovered that the Six3/6 family orthologue Optix is an
+essential regulator of neuroepithelial maintenance and patterning in the
+Drosophila brain. Six3 and Six6 are required for mammalian eye and forebrain
+development, and mutations in humans are associated with severe eye and brain
+malformation. In Drosophila, Optix is expressed in a sharply defined region of
+the larval optic lobe, and its expression is reciprocal to that of the
+transcription factor Vsx1. Optix gain- and loss-of-function affects
+neuroepithelial adhesion, integrity and polarity. We find restricted cell lineage
+boundaries that correspond to transcription factor expression domains.
+CONCLUSION: We propose that the optic lobe is compartmentalised by expression of 
+Optix and Vsx1. Our findings provide insight into the spatial patterning of a
+complex region of the brain, and suggest an evolutionarily conserved principle of
+visual system development.
+
+PMCID: PMC4127074
+PMID: 25074684  [PubMed - indexed for MEDLINE]
+
+
+11. Ophthalmic Genet. 2016 Mar;37(1):37-43. doi: 10.3109/13816810.2014.926375. Epub
+2014 Jun 18.
+
+Molecular Screening of Keratoconus Susceptibility Sequence Variants in VSX1,
+TGFBI, DOCK9, STK24, and IPO5 Genes in Polish Patients and Novel TGFBI Variant
+Identification.
+
+Karolak JA(1,)(2), Polakowski P(3), Szaflik J(3), Szaflik JP(3), Gajecka M(2).
+
+Author information: 
+(1)a Department of Genetics and Pharmaceutical Microbiology , Poznan University
+of Medical Sciences , Poznan , Poland . (2)b Institute of Human Genetics, Polish 
+Academy of Sciences , Poznan , Poland , and. (3)c Department of Ophthalmology ,
+Medical University of Warsaw, SPKSO University Ophthalmic Hospital , Warsaw ,
+Poland.
+
+PURPOSE: Keratoconus (KTCN) is a degenerative disorder of the eye that results in
+the conical shape and thinning of the cornea and is a leading cause for corneal
+transplantations. A number of studies suggest that genetic factors play a role in
+KTCN etiology. Some candidate gene variants have recently been shown to be
+associated with KTCN. The purpose of our study was to verify the role of VSX1,
+TGFBI, DOCK9, IPO5, and STK24 sequence variants in Polish KTCN patients.
+METHODS: Forty-two Polish patients with sporadic KTCN and 50 control individuals 
+were enrolled into this study. Both affected and unaffected individuals underwent
+detailed ophthalmic examination. The mutations screening in the candidate genes
+was performed by the direct sequencing method.
+RESULTS: Analysis of VSX1, TGFBI, DOCK9, IPO5, and STK24 genes identified
+numerous sequence variants. Variants c.-264_-255delGGGGTGGGGT, c.627<U+2009>+<U+2009>23G<U+2009>><U+2009>A,
+c.809-6_809-5insT, and c.*200G<U+2009>><U+2009>T in the VSX1 gene, and heterozygous c.1598G<U+2009>><U+2009>A
+mutation (Arg533Gln) in exon 12 of TGFBI were detected for the first time in KTCN
+patients. Two known sequence variants of TGFBI c.1620T<U+2009>><U+2009>C (Phe540Phe) and
+c.1678<U+2009>+<U+2009>23G<U+2009>><U+2009>A were observed in KTCN patients and control individuals. The
+newly reported c.717<U+2009>+<U+2009>43A<U+2009>><U+2009>G substitution in intron 7 of DOCK9 was identified
+in both KTCN patients and healthy individuals.
+CONCLUSIONS: Our investigation showed that KTCN-related sequence variants of
+analyzed genes were found in a very small proportion of the studied patients
+indicating that genes other than VSX1, TGFBI, DOCK9, IPO5, and STK24 are involved
+in the development and progression of KTCN in Polish patients. Our results
+support the hypothesis about the genetic heterogeneity of KTCN.
+
+PMID: 24940934  [PubMed - in process]
+
+
+12. Int J Ophthalmol. 2013 Dec 18;6(6):758-65. doi:
+10.3980/j.issn.2222-3959.2013.06.04. eCollection 2013.
+
+Using bovine pituitary extract to increase proliferation of keratocytes and
+maintain their phenotype in vitro.
+
+Xu ZZ(1), Li ZJ(2), Du LX(3), Li J(3), Wang LY(3).
+
+Author information: 
+(1)Department of Ophthalmology, the First Affiliated Hospital of Zhengzhou
+University, Zhengzhou 450052, Henan Province, China ; Key Laboratory of Corneal
+Disease, Henan Eye Institute, Zhengzhou 450003, Henan Province, China.
+(2)Department of Pediatrics, Baylor College of Medicine, Houston 77030, Texas,
+USA. (3)Key Laboratory of Corneal Disease, Henan Eye Institute, Zhengzhou 450003,
+Henan Province, China.
+
+AIM: To investigate the effects of bovine pituitary extract on the proliferation 
+of keratocytes and maintaining the keratocyte phenotype in vitro.
+METHODS: Single keratocytes were isolated by enzyme digestion for in vitro
+culture. Three groups were designed according to the different culture media: a
+bovine pituitary extract (BPE) group, a fetal bovine serum (FBS) group and the
+control group. The phenotypes and proliferation of cultured cells were evaluated 
+by morphology, immunofluorescent staining and mRNA expression of CD34, Lumican,
+VSX1, a-SMA and proliferating cell nuclear antigen (PCNA). In the BPE group,
+cells underwent serial subcultivation, and their phenotypes were identified by
+immunofluorescent staining. To analyze the proliferation of keratocytes in
+different concentrations of BPE, six different concentrations were designed to
+ascertain the most appropriate amount.
+RESULTS: In the BPE group, the cells spread out and presented dendritic
+morphology, and their dendrites connected to one another to form networks. On the
+third passage, most cells maintained their phenotype. In the FBS group, the cells
+exhibited a dendritic appearance in early cultured stages, but their morphology
+subsequently changed into a fibroblast-like shape. The number of dendritic cells 
+in BPE group was more than FBS and control groups. Immunofluorescent staining and
+real-time polymerase chain reaction (PCR) confirmed that few keratocytes
+underwent fibroblastic transformation in the BPE and control groups, and that
+proliferation was higher in the BPE group than in the control group. Although the
+proliferation was higher in the FBS group, many keratocytes underwent
+fibroblastic transformation. The analysis of cell morphology and mRNA expressions
+of CD34, PCNA and VSX1 in six group showed that different concentrations of BPE
+affected the proliferation obviously but didn't affect the keratocyte phenotype, 
+and the concentration of 40µg/mL was the most appropriate one.
+CONCLUSION: BPE can improve the proliferation of keratocytes and maintain their
+phenotype in vitro. Many keratocytes can be harvested rapidly and provide seeds
+for the construction of corneal stroma.
+
+PMCID: PMC3874512
+PMID: 24392321  [PubMed]
+
+
+13. PLoS One. 2014 Jan 2;9(1):e83686. doi: 10.1371/journal.pone.0083686. eCollection 
+2014.
+
+Birth of cone bipolar cells, but not rod bipolar cells, is associated with
+existing RGCs.
+
+Bai L(1), Kiyama T(2), Li H(2), Wang SW(2).
+
+Author information: 
+(1)Department of Ophthalmology, the Second Affiliated Hospital, School of
+Medicine, Xi'an Jiaotong University, China. (2)Department of Ophthalmology and
+Visual Science, University of Texas Health Science Center at Houston Medical
+School, Houston, Texas, United States of America.
+
+Retinal ganglion cells (RGCs) play important roles in retinogenesis. They are
+required for normal retinal histogenesis and retinal cell number balance.
+Developmental RGC loss is typically characterized by initial retinal neuronal
+number imbalance and subsequent loss of retinal neurons. However, it is not clear
+whether loss of a specific non-RGC cell type in the RGC-depleted retina is due to
+reduced cell production or subsequent degeneration. Taking advantage of three
+knockout mice with varying degrees of RGC depletion, we re-examined bipolar cell 
+production in these retinas from various aspects. Results show that generation of
+the cone bipolar cells is correlated with the existing number of RGCs. However,
+generation of the rod bipolar cells is unaffected by RGC shortage. Results report
+the first observation that RGCs selectively influence the genesis of subsequent
+retinal cell types.
+
+PMCID: PMC3879276
+PMID: 24392091  [PubMed - indexed for MEDLINE]
+
+
+14. Dev Biol. 2014 Feb 1;386(1):96-110. doi: 10.1016/j.ydbio.2013.11.022. Epub 2013
+Dec 1.
+
+Maternal control of axial-paraxial mesoderm patterning via direct transcriptional
+repression in zebrafish.
+
+He Y(1), Xu X(1), Zhao S(1), Ma S(1), Sun L(1), Liu Z(1), Luo C(2).
+
+Author information: 
+(1)College of Life Science, Zhejiang University, Hangzhou 310058, Zhejiang,
+People's Republic of China. (2)College of Life Science, Zhejiang University,
+Hangzhou 310058, Zhejiang, People's Republic of China. Electronic address:
+luoc@zju.edu.cn.
+
+Axial-paraxial mesoderm patterning is a special dorsal-ventral patterning event
+of establishing the vertebrate body plan. Though dorsal-ventral patterning has
+been extensively studied, the initiation of axial-paraxial mesoderm pattering
+remains largely unrevealed. In zebrafish, spt cell-autonomously regulates
+paraxial mesoderm specification and flh represses spt expression to promote axial
+mesoderm fate, but the expression domains of spt and flh initially overlap in the
+entire marginal zone of the embryo. Defining spt and flh territories is therefore
+a premise of axial-paraxial mesoderm patterning. In this study, we investigated
+why and how the initial expression of flh becomes repressed in the ventrolateral 
+marginal cells during blastula stage. Loss- and gain-of-function experiments
+showed that a maternal transcription factor Vsx1 is essential for restricting flh
+expression within the dorsal margin and preserving spt expression and paraxial
+mesoderm specification in the ventrolateral margin of embryo. Chromatin
+immunoprecipitation and electrophoretic mobility shift assays in combination with
+core consensus sequence mutation analysis further revealed that Vsx1 can directly
+repress flh by binding to the proximal promoter at a specific site. Inhibiting
+maternal vsx1 translation resulted in confusion of axial and paraxial mesoderm
+markers expression and axial-paraxial mesoderm patterning. These results
+demonstrated that direct transcriptional repression of the decisive axial
+mesoderm gene by maternal ventralizing factor is a crucial regulatory mechanism
+of initiating axial-paraxial mesoderm patterning in vertebrates.
+
+© 2013 The Authors. Published by Elsevier Inc. All rights reserved.
+
+PMID: 24296303  [PubMed - indexed for MEDLINE]
+
+
+15. Acta Cytol. 2013;57(6):646-51. doi: 10.1159/000353297. Epub 2013 Oct 1.
+
+Study of VSX1 mutations in patients with keratoconus in southwest Iran using
+PCR-single-strand conformation polymorphism/heteroduplex analysis and sequencing 
+method.
+
+Dehkordi FA(1), Rashki A, Bagheri N, Chaleshtori MH, Memarzadeh E, Salehi A,
+Ghatreh H, Zandi F, Yazdanpanahi N, Tabatabaiefar MA, Chaleshtori MH.
+
+Author information: 
+(1)Cellular and Molecular Research Center, Shahrekord University of Medical
+Sciences, Shahrekord, Iran.
+
+OBJECTIVE: Keratoconus (KC) is an eye disorder in which the cornea is swollen,
+thinned and deformed. Despite extensive studies, the pathophysiological processes
+and genetic etiology of KC are unknown. The disease incidence is approximately 1 
+in 2,000, and it is the most common cause of corneal transplantation in the USA. 
+Many genes are involved in the disease, but evidence suggests a major role for
+VSX1 in the etiology of KC. This study aimed to determine the frequency of
+mutations in exons 2, 3 and 4 of the VSX1 gene in Chaharmahal va Bakhtiari
+province in the southwest of Iran.
+STUDY DESIGN: In this experimental study, mutations in 3 exons, namely exons 2, 3
+and 4, of VSX1 were investigated in 50 patients with KC and 50 healthy control
+subjects. DNA was extracted using a standard phenol-chloroform method.
+PCR-single-strand conformational polymorphism/heteroduplex analysis was
+performed, followed by DNA sequencing to confirm the identified motility shifts.
+RESULTS: H244R mutations were found in 1 patient and also in 1 healthy control
+subject. Furthermore, 12 polymorphisms were identified in patients with KC and 7 
+in healthy control subjects [rs6138482 and c.546A>G (rs12480307)].
+CONCLUSION: Our investigation showed that KC-related VSX1 mutations were found in
+a very small proportion of the studied patients from Iran. Further investigations
+on other genes are needed to clarify their roles in KC pathogenesis.
+
+PMID: 24107477  [PubMed - indexed for MEDLINE]
+
+
+16. Ophthalmic Genet. 2015;36(3):213-7. doi: 10.3109/13816810.2013.843712.
+
+Polymorphism Analysis of VSX1 and SOD1 Genes in Greek Patients with Keratoconus.
+
+Moschos MM(1), Kokolakis N, Gazouli M, Chatziralli IP, Droutsas D, Anagnou NP,
+Ladas ID.
+
+Author information: 
+(1)a 1st Department of Ophthalmology and.
+
+BACKGROUND: A number of mutations in the VSX1 and SOD1 genes have been reported
+to be associated with keratoconus (KC), however the results from different
+studies are controversial. In this study, we conducted the genotyping of common
+polymorphisms [VSX1: D144E, H244R, R166W, G160D; SOD1: intronic 7-base deletion
+(c.169 + 50 delTAAACAG)], in a case-control sample panel of the Greek population.
+MATERIALS AND METHODS: A case-control panel, with 33 KC patients and 78 healthy
+controls, were surveyed. DNA from each individual was tested for the VSX1: D144E,
+H244R, R166W, G160D and SOD1: intronic 7-base deletion (c.169 + 50 delTAAACAG)
+polymorphisms by direct sequencing.
+RESULTS: We observed no polymorphisms of the VSX1 gene in the case-control panel.
+Concerning the SOD1 intronic 7-base deletion (c.169 + 50 delTAAACAG), our
+findings suggest that heterozygous carriers are over-represented among KC cases
+compared to healthy controls (p = 0.002).
+CONCLUSIONS: We cannot confirm the previously reported association of the
+polymorphism in the VSX1 gene with KC. Our results suggest a possible causative
+role of SOD1 in the pathogenesis of KC. Further studies are required to identify 
+other important genetic factors involved in the pathogenesis and progression of
+KC.
+
+PMID: 24099280  [PubMed - indexed for MEDLINE]
+
+
+17. Reprod Syst Sex Disord. 2012 Jun 3;(Suppl 6). pii: 001.
+
+The Genetics of Keratoconus: A Review.
+
+Wheeler J(1), Hauser MA, Afshari NA, Allingham RR, Liu Y.
+
+Author information: 
+(1)Center for Human Genetics, Department of Medicine, Duke University Medical
+Center, Durham, NC, USA 27710.
+
+Keratoconus is the most common ectatic disorder of the corneal. Genetic and
+environmental factors may contribute to its pathogenesis. The focus of this
+article is to summarize current research into the complex genetics of
+keratoconus. We discuss the evidence of genetic etiology including family-based
+linkage studies, twin studies, genetic mutations, and genome-wide association
+studies. The genes implicated potentially include VSX1, miR-184, DOCK9, SOD1,
+RAB3GAP1, and HGF. Besides the coding mutations, we also highlight the potential 
+contribution of DNA copy number variants in the pathogenesis of keratoconus.
+Finally, we present future directions for genetic research in the understanding
+of the complex genetics of keratoconus and its clinical significance. As new
+functional, candidate genes for keratoconus are being discovered at a rapid pace,
+the molecular genetic mechanisms underlying keratoconus pathogenesis will advance
+our understanding of keratoconus and promote the development of a novel therapy.
+
+PMCID: PMC3686480
+PMID: 23795306  [PubMed]
+
+
+18. Clin Genet. 2013 Aug;84(2):109-19. doi: 10.1111/cge.12191. Epub 2013 Jun 10.
+
+Genetics of the corneal endothelial dystrophies: an evidence-based review.
+
+Aldave AJ(1), Han J, Frausto RF.
+
+Author information: 
+(1)The Jules Stein Eye Institute, David Geffen School of Medicine at UCLA, Los
+Angeles, CA 90095–7003, USA. aldave@jsei.ucla.edu
+
+The aim of this review was to provide an evidenced-based review of the genetic
+basis of the corneal endothelial dystrophies. A review of the English language
+peer-reviewed literature describing the molecular genetic basis of posterior
+polymorphous corneal dystrophy (PPCD), congenital hereditary endothelial
+dystrophy (CHED), Fuchs endothelial corneal dystrophy (FECD) and X-linked
+endothelial corneal dystrophy (XECD) was performed. Mutations in several genes
+have been implicated as playing a pathogenic role in the corneal endothelial
+dystrophies: VSX1 mutations in PPCD1; COL8A2 mutations in PPCD2 and FECD; ZEB1
+mutations in PPCD3 and FECD; and SLC4A11 mutations in CHED2 and FECD. However,
+linkage, association and familial segregation analyses support a role of only one
+gene in each corneal endothelial dystrophy: ZEB1 in PPCD3, SLC4A11 in CHED2 and
+COL8A2 in FECD (early onset). In addition, insufficient evidence exists to
+consider the autosomal dominant form of CHED (CHED1) as distinct from PPCD. An
+accurate classification of the corneal endothelial dystrophies requires a
+critical review of the evidence to support the role of each suggested chromosomal
+locus, gene and genetic mutation associated with a corneal endothelial dystrophy.
+Only after the separation of evidence from opinion is performed can a critical
+examination of the molecular pathways that lead to endothelial dysfunction in
+each of these disorders be accurately performed.
+
+© 2013 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+PMCID: PMC3885339
+PMID: 23662738  [PubMed - indexed for MEDLINE]
+
+
+19. Mol Vis. 2013 Apr 11;19:852-60. Print 2013.
+
+Screening the visual system homeobox 1 gene in keratoconus and posterior
+polymorphous dystrophy cohorts identifies a novel variant.
+
+Vincent AL(1), Jordan C, Sheck L, Niederer R, Patel DV, McGhee CN.
+
+Author information: 
+(1)Department of Ophthalmology, New Zealand National Eye Centre, Faculty of
+Medical and Health Science, University of Auckland, New Zealand.
+a.vincent@auckland.ac.nz
+
+PURPOSE: Mutations in the visual system homeobox 1 (VSX1) gene have been
+described at a low frequency in keratoconus and posterior polymorphous corneal
+dystrophy (PPCD). The putative role is controversial for several reasons,
+including a lack of mutations detected in other population cohorts. This study
+aims to determine whether VSX1 contributes to the genetic pathogenesis of
+keratoconus and PPCD in a New Zealand population, and includes analysis of a
+Polynesian population.
+METHODS: Recruitment of patients with keratoconus and PPCD, comprehensive
+clinical examination including corneal topography and pachymetry, and collection 
+of biologic samples for DNA extraction were undertaken. Mutational analysis of
+VSX1 (exons 1-7) with PCR and sequencing with bioinformatic assessment of
+variants was performed. Probable pathogenic variants were screened for in a
+control population using high-resolution melting analysis.
+RESULTS: Forty-seven patients with keratoconus, including 15 familial cases, and 
+ten unrelated patients with PPCD were recruited. Two pathogenic changes were
+detected; a novel change c.173C>T (p.Pro58Leu) was found in a patient with PPCD, 
+predicted to be pathogenic, and not seen in 200 ethnically matched control
+alleles. The previously reported c.731A>G (p.His244Arg) was detected in a patient
+with sporadic keratoconus, and not present in the controls. No family members
+were available for segregation analysis.
+CONCLUSIONS: This study reports the presence of pathogenic mutations in VSX1 in
+PPCD and keratoconus, including a novel disease-causing variant. The affected
+numbers are small, but given the growing body of evidence of pathogenic
+segregating changes in VSX1 in disease cohorts, the expression in keratocytes as 
+part of wound healing, and the documented association of PPCD and keratoconus, it
+seems likely that the role of VSX1 as a genetic factor contributing to disease is
+real.
+
+PMCID: PMC3626301
+PMID: 23592923  [PubMed - indexed for MEDLINE]
+
+
+20. BMC Res Notes. 2013 Mar 18;6:103. doi: 10.1186/1756-0500-6-103.
+
+Investigation of VSX1 sequence variants in South Indian patients with sporadic
+cases of keratoconus.
+
+Verma A(1), Das M, Srinivasan M, Prajna NV, Sundaresan P.
+
+Author information: 
+(1)Department of Genetics, Dr. G. Venkataswamy Eye Research Institute, Aravind
+Medical Research Foundation, Aravind Eye Hospital, Madurai, Tamil Nadu, India.
+
+BACKGROUND: The involvement of VSX1 gene for the genetic basis of keratoconus is 
+unclear and controversial. The genetic screening of VSX1 from different ethnic
+populations can enlighten this subject. The aim of the present study is to
+investigate the role of VSX1 gene in patients with sporadic cases of keratoconus 
+from South India.
+METHODS: The VSX1 gene coding regions, including exon-intron boundaries were
+screened by direct sequencing analysis in 117 sporadic cases of keratoconus. The 
+identified variations were also analyzed in 108 ethnic matched healthy blood
+donors.
+RESULTS: In the VSX1 gene screening, no pathogenic mutation was identified,
+whereas we could find the presence of four reported single nucleotide
+polymorphisms; c.546A>G (rs12480307), c.627+23G>A (rs6138482), c.627+84T>A
+(rs56157240) and c.504-24C>T (IVS3-24C). These variations were observed in
+similar frequency between cases and controls.
+CONCLUSIONS: The lack of VSX1 pathogenic variations in a large number of
+unrelated sporadic keratoconus patients tend to omit its role, and corroborate
+the involvement of other genetic, environmental or behavioural factors in the
+development of this complex disorder.
+
+PMCID: PMC3608990
+PMID: 23506487  [PubMed - indexed for MEDLINE]
+
+
+21. Clin Exp Optom. 2013 Mar;96(2):146-54. doi: 10.1111/cxo.12024. Epub 2013 Feb 6.
+
+Insights into keratoconus from a genetic perspective.
+
+Burdon KP(1), Vincent AL.
+
+Author information: 
+(1)Department of Ophthalmology, Flinders University, Adelaide, South Australia,
+Australia.
+
+Keratoconus is a progressive and non-inflammatory thinning of the cornea, which
+may result in severe visual impairment due to irregular curvature and scarring.
+It can occur in isolation but is often seen in association with other systemic or
+ocular disorders. There is a well-recognised genetic component to keratoconus, as
+evidenced by family and twin studies; however, the aetiology of the disease is
+complex with both genetic and environmental factors playing a role. Over the last
+decade significant progress has been made in identifying genetic risk factors for
+keratoconus. Multiple approaches have been taken including candidate gene studies
+and genome-wide studies. VSX1 remains as the best characterised keratoconus gene 
+but only accounts for rare cases. Other candidate genes with a role to play
+include SOD1, other corneal dystrophy genes such as ZEB1 and TGFBI and collagen
+genes. Family-based studies have recently led to the identification of the MIR184
+gene for keratoconus with cataract and to the DOCK9 gene in a family with
+isolated keratoconus. Numerous other linkages have been reported and new
+sequencing technologies are set to rapidly expand the number of identified
+keratoconus genes in these regions. Similarly, recent genome-wide association
+studies in case-controlled cohorts have identified common variations in and
+around HGF, RAB3GAP1 and LOX as candidate risk factors for keratoconus. These
+gene identifications are beginning to reveal the molecular aetiology of
+keratoconus but despite this recent progress, there remain numerous genetic risk 
+factors to be identified for this relatively common yet complex disease.
+
+© 2013 The Authors. Clinical and Experimental Optometry © 2013 Optometrists
+Association Australia.
+
+PMID: 23387289  [PubMed - indexed for MEDLINE]
+
+
+22. Ophthalmic Genet. 2013 Sep;34(3):160-6. doi: 10.3109/13816810.2012.743569. Epub
+2013 Jan 4.
+
+Common single nucleotide polymorphisms and keratoconus in the Han Chinese
+population.
+
+Wang Y(1), Jin T, Zhang X, Wei W, Cui Y, Geng T, Liu Q, Gao J, Liu M, Chen C,
+Zhang C, Zhu X.
+
+Author information: 
+(1)The No.1 Hospital of Xi'an, Xi'an, Shaanxi Province, China.
+
+OBJECTIVE: To investigate whether the tag single nucleotide polymorphisms (tSNPs)
+in VSX1, COL4A3, COL4A4, IL1A and IL1B genes were associated with keratoconus
+(KTCN) in the Han Chinese population.
+METHODS: Ninety-seven KTCN patients and 101 healthy controls were enrolled in
+this study. All cases were diagnosed on the basis of clinical examination.
+Twenty-one tSNPs were selected for association study in five genes. SNP
+genotyping was performed by Sequenom MassARRAY RS1000. Sequenom Typer 4.0
+Software, PLINK, Haploview and SHEsis software platform were used to perform data
+management and analyses.
+RESULTS: Three tSNPs in the VSX1 gene were observed to be associated with KTCN
+risk at a 5% level by <U+03C7>(2) test (rs56157240 and rs12480307, p = 0.0499, OR: 6.42,
+95% CI: 0.77-53.78; rs6050307, p = 1.22 × 10(-7), OR: 0.05, 95% CI: 0.01-0.23).
+Rs2071376 in the IL1A gene was also associated with KTCN (p = 0.0487, OR: 1.51,
+95% CI: 1.00-2.26). Three haplotypes in the VSX1 gene were found to be associated
+with risk of KTCN (p < 0.05).
+CONCLUSIONS: Our findings confirmed previous reports that polymorphisms of VSX1
+and IL1A genes were associated with risk of KTCN in the Chinese population,
+suggesting an important determinant of KTCN development by VSX1 and IL1A genes.
+
+PMID: 23289806  [PubMed - indexed for MEDLINE]
+
+
+23. Development. 2012 Dec;139(24):4644-55. doi: 10.1242/dev.081729.
+
+Regulation of retinal interneuron subtype identity by the Iroquois homeobox gene 
+Irx6.
+
+Star EN(1), Zhu M, Shi Z, Liu H, Pashmforoush M, Sauve Y, Bruneau BG, Chow RL.
+
+Author information: 
+(1)Department of Biology, University of Victoria, Victoria, BC V8W 3N5, Canada.
+
+Interneuronal subtype diversity lies at the heart of the distinct molecular
+properties and synaptic connections that shape the formation of the neuronal
+circuits that are necessary for the complex spatial and temporal processing of
+sensory information. Here, we investigate the role of Irx6, a member of the
+Iroquois homeodomain transcription factor family, in regulating the development
+of retinal bipolar interneurons. Using a knock-in reporter approach, we show
+that, in the mouse retina, Irx6 is expressed in type 2 and 3a OFF bipolar
+interneurons and is required for the expression of cell type-specific markers in 
+these cells, likely through direct transcriptional regulation. In Irx6 mutant
+mice, presumptive type 3a bipolar cells exhibit an expansion of their axonal
+projection domain to the entire OFF region of the inner plexiform layer, and
+adopt molecular features of both type 2 and 3a bipolar cells, highlighted by the 
+ectopic upregulation of neurokinin 3 receptor (Nk3r) and Vsx1. These findings
+reveal Irx6 as a key regulator of type 3a bipolar cell identity that prevents
+these cells from adopting characteristic features of type 2 bipolar cells.
+Analysis of the Irx6;Vsx1 double null retina suggests that the terminal
+differentiation of type 2 bipolar cells is dependent on the combined expression
+of the transcription factors Irx6 and Vsx1, but also points to the existence of
+Irx6;Vsx1-independent mechanisms in regulating OFF bipolar subtype-specific gene 
+expression. This work provides insight into the generation of neuronal subtypes
+by revealing a mechanism in which opposing, yet interdependent, transcription
+factors regulate subtype identity.
+
+PMCID: PMC3509726
+PMID: 23172916  [PubMed - indexed for MEDLINE]
+
+
+24. J Exp Zool B Mol Dev Evol. 2012 Nov;318(7):531-44. doi: 10.1002/jez.b.22457. Epub
+2012 Jun 1.
+
+Sequence divergence in the 3'-untranslated region has an effect on the
+subfunctionalization of duplicate genes.
+
+Tong Y(1), Zheng K, Zhao S, Xiao G, Luo C.
+
+Author information: 
+(1)College of Life Sciences, Zhejiang University, Hangzhou, Zhejiang, People's
+Republic of China.
+
+Recent studies demonstrated that sequence divergence in both transcriptional
+regulatory region and coding region contributes to the subfunctionalization of
+duplicate gene. However, whether sequence divergence in the 3'-untranslated
+region (3'-UTR) has an impact on the subfunctionalization of duplicate genes
+remains unclear. Here, we identified two diverging duplicate vsx1 (visual system 
+homeobox-1) loci in goldfish, named vsx1A1 and vsx1A2. Phylogenetic analysis
+suggests that vsx1A1 and vsx1A2 may arise from a duplication of vsx1 after the
+separation of goldfish and zebrafish. Sequence comparison revealed that
+divergence in both transcriptional and translational regulatory regions is higher
+than divergence in the introns. vsx1A2 expresses during blastula and gastrula
+stages and in adult retina but silences from segmentation stage to hatching
+stage, vsx1A1 starts expression from segmentation onward. Comparing to that
+zebrafish vsx1 expresses in all the developmental stages and in the adult retina,
+it appears that goldfish vsx1A1 and vsx1A2 are under going to share the functions
+of ancestral vsx1. The different but overlapping temporal expression patterns of 
+vsx1A1 and vsx1A2 suggest that sequence divergence in the promoter region of
+duplicate vsx1 is not sufficient for partitioning the functions of ancestral
+vsx1. By comparing vsx1A1 and vsx1A2 3'-UTR-linked green fluorescent protein gene
+expression patterns, we demonstrated that the 3'-UTR of vsx1A1 remains but the
+3'-UTR of vsx1A2 has lost the capability of mediating bipolar cell specific
+expression during retina development. These results indicate that sequence
+divergence in the 3'-UTRs has a clear effect on subfunctionalization of the
+duplicate genes.
+
+© 2012 WILEY PERIODICALS, INC.
+
+PMID: 22674856  [PubMed - indexed for MEDLINE]
+
+
+25. Cornea. 2012 Jul;31(7):746-50. doi: 10.1097/ICO.0b013e3181e16dd0.
+
+VSX1 gene and keratoconus: genetic analysis in Korean patients.
+
+Jeoung JW(1), Kim MK, Park SS, Kim SY, Ko HS, Wee WR, Lee JH.
+
+Author information: 
+(1)Department of Ophthalmology, Seoul National University Hospital, Seoul, Korea.
+
+PURPOSE: The visual system homeobox 1 (VSX1) gene variants have recently been
+shown to be associated with keratoconus. To replicate this finding, we performed 
+a genetic analysis of the VSX1 gene in a Korean case-control sample.
+METHODS: Patients with keratoconus and healthy control subjects were recruited
+from Seoul National University Hospital. A diagnosis of keratoconus was made
+based on clinical examinations and the presence of characteristic topographic
+features. For all patients and controls, the whole coding region and the
+exon-intron junctions of the VSX1 gene were analyzed by direct sequencing.
+RESULTS: Fifty-three patients with keratoconus and 100 healthy volunteers were
+included. We observed 2 novel missense substitutions (Leu17Val and Val199Leu) and
+1 previously reported substitution (Gly160Val) in 6 of the 53 affected probands. 
+Because these substitutions have been identified in unaffected individuals, they 
+were not considered to be pathogenic. No intragenic polymorphism was associated
+with a significantly increased risk of keratoconus.
+CONCLUSIONS: We cannot confirm the previously reported association of the VSX1
+gene variants with keratoconus. Our results suggest that the VSX1 gene and its
+mutations with amino acid changes do not play a major role in the pathogenesis of
+keratoconus.
+
+PMID: 22531431  [PubMed - indexed for MEDLINE]
+
+
+26. BMC Res Notes. 2012 Apr 10;5:182. doi: 10.1186/1756-0500-5-182.
+
+Enhanced generation of retinal progenitor cells from human retinal pigment
+epithelial cells induced by amniotic fluid.
+
+Sanie-Jahromi F(1), Ahmadieh H, Soheili ZS, Davari M, Ghaderi S, Kanavi MR,
+Samiei S, Deezagi A, Pakravesh J, Bagheri A.
+
+Author information: 
+(1)National Institute of Genetic Engineering and Biotechnology, Tehran, Iran.
+fsanie@yahoo.com
+
+BACKGROUND: Retinal progenitor cells are a convenient source of cell replacement 
+therapy in retinal degenerative disorders. The purpose of this study was to
+evaluate the expression patterns of the homeobox genes PAX6 and CHX10 (retinal
+progenitor markers) during treatment of human retinal pigment epithelium (RPE)
+cells with amniotic fluid (AF), RPE cells harvested from neonatal cadaver globes 
+were cultured in a mixture of DMEM and Ham's F12 supplemented with 10% FBS. At
+different passages, cells were trypsinized and co-cultured with 30% AF obtained
+from normal fetuses of 1416 weeks gestational age.
+RESULTS: Compared to FBS-treated controls, AF-treated cultures exhibited special 
+morphological changes in culture, including appearance of spheroid colonies,
+improved initial cell adhesion and ordered cell alignment. Cell proliferation
+assays indicated a remarkable increase in the proliferation rate of RPE cells
+cultivated in 30% AF-supplemented medium, compared with those grown in the
+absence of AF. Immunocytochemical analyses exhibited nuclear localization of
+retinal progenitor markers at a ratio of 33% and 27% for CHX10 and PAX6,
+respectively. This indicated a 3-fold increase in retinal progenitor markers in
+AF-treated cultures compared to FBS-treated controls. Real-time PCR data of
+retinal progenitor genes (PAX6, CHX10 and VSX-1) confirmed these results and
+demonstrated AF's capacity for promoting retinal progenitor cell generation.
+CONCLUSION: Taken together, the results suggest that AF significantly promotes
+the rate of retinal progenitor cell generation, indicating that AF can be used as
+an enriched supplement for serum-free media used for the in vitro propagation of 
+human progenitor cells.
+
+PMCID: PMC3428660
+PMID: 22490806  [PubMed - indexed for MEDLINE]
+
+
+27. J Comp Neurol. 2012 Nov 1;520(16):3604-16. doi: 10.1002/cne.23115.
+
+Lesion-induced generation of interneuron cell types in specific dorsoventral
+domains in the spinal cord of adult zebrafish.
+
+Kuscha V(1), Frazer SL, Dias TB, Hibi M, Becker T, Becker CG.
+
+Author information: 
+(1)Centre for Neuroregeneration, School of Biomedical Sciences, University of
+Edinburgh, UK.
+
+In contrast to mammals, adult zebrafish regenerate neurons in the lesioned spinal
+cord. For example, motor neurons are generated from an olig2-expressing
+population of pMN-like ependymoradial glial cells in a ventrolateral position at 
+the central canal. However, the extent of neuronal regeneration is unclear. Here 
+we show, using a transgenic fish in which V2 interneurons are labeled by green
+fluorescent protein (GFP) under the control of the vsx1 promoter, that after a
+complete spinal cord transection, large numbers of V2 interneurons are generated 
+in the vicinity of the lesion site. Tg(vsx1:GFP)<U+207A> cells are not present in the
+unlesioned spinal cord and label with the proliferation marker bromodeoxyuridine 
+(BrdU) after a lesion. Some mediolaterally elongated Tg(vsx1:GFP)<U+207A> cells contact 
+the central canal in a medial position. These cells likely arise from a p2-like
+domain of ependymoradial glial progenitor cells, indicated by coexpression of
+Pax6 and Nkx6.1, but not DsRed driven by the olig2 promoter in these cells. We
+also present evidence that Pax2<U+207A> interneurons are newly generated after a spinal 
+lesion, whereas the generation rate for a dorsal population of parvalbuminergic
+interneurons is comparatively low. Our results identify the regenerative
+potential of different interneuron types for the first time and support a model
+in which different progenitor cell domains in distinct dorsoventral positions
+around the central canal are activated by a lesion to give rise to diverse
+neuronal cell types in the adult zebrafish spinal cord.
+
+Copyright © 2012 Wiley Periodicals, Inc.
+
+PMID: 22473852  [PubMed - indexed for MEDLINE]
+
+
+28. Cornea. 2012 May;31(5):581-93. doi: 10.1097/ICO.0b013e31820cd61d.
+
+Review: keratoconus in Asia.
+
+Kok YO(1), Tan GF, Loon SC.
+
+Author information: 
+(1)Department of Ophthalmology,Yong Loo Lin School of Medicine, National
+University of Singapore, Singapore, Singapore.
+
+Keratoconus is an ectatic corneal disorder for which exciting therapeutic and
+diagnostic technologies are emerging. However, its pathogenesis is still
+heterogeneous and elusive. We researched overlooked Asian keratoconus data by
+literature review of databases (PubMed, MEDLINE, Ovid, Google Scholar, Cornea,
+and Cochrane) using key words "keratoconus, Asia, epidemiology, treatment, risk
+factors, genes" and names of Asian countries. Articles and their references were 
+analyzed. Studies showed that keratoconus may be more prevalent, have earlier
+onset, and have greater disease progression in certain Asian and non-Asian
+ethnicities, particularly Indians, Pakistanis, Middle Easterners, and
+Polynesians, compared with white populations. Epidemiological risk factors
+include ethnicity, age (younger than 30 years), gender (male), positive family
+history, and eye rubbing. Genetic and disease risk factors include atopy, vernal 
+keratoconjunctivitis, Down syndrome, pellucid marginal corneal degeneration, VSX1
+(visual system homeobox 1) gene, and Leber congenital amaurosis. Differentiation 
+of heterogeneous keratoconus subsets with detailed genotype-phenotype
+characterization may advance understanding. Comprehensive multiethnic population 
+studies with valid large-scale data are needed. New effective treatments (deep
+anterior lamellar keratoplasty, intrastromal corneal ring segments, and corneal
+collagen cross-linking with riboflavin) are succeeding previous treatments.
+
+PMID: 22314815  [PubMed - indexed for MEDLINE]
+
+
+29. Mol Vis. 2011;17:3128-36. Epub 2011 Nov 30.
+
+Mutation analysis of VSX1 and SOD1 in Iranian patients with keratoconus.
+
+Saee-Rad S(1), Hashemi H, Miraftab M, Noori-Daloii MR, Chaleshtori MH, Raoofian
+R, Jafari F, Greene W, Fakhraie G, Rezvan F, Heidari M.
+
+Author information: 
+(1)Department of Medical Genetics, Tehran University of Medical Sciences, Tehran,
+Iran.
+
+PURPOSE: To evaluate mutations in the visual system homeobox gene 1 (VSX1) and
+superoxide dismutase 1 (SOD1) genes with keratoconus (KTCN), direct sequencing
+was performed in an Iranian population.
+METHODS: One hundred and twelve autosomal dominant KTCN patients and fifty-two
+unaffected individuals from twenty-six Iranian families, as well as one hundred
+healthy people as controls were enrolled. Genomic DNA was extracted from whole
+blood sample. Then to study the possible linkage between KTCN and six known loci 
+linkage analysis was performed using 12 short tandem repeat (STR) markers. Also, 
+the entire coding region and intron-exon boundaries of VSX1 and SOD1 were
+amplified by the PCR technique in each proband. Subsequently, PCR products were
+subjected to direct sequencing. Co-segregation analysis of the identified
+mutation was conducted in the family members. An Amplification Refractory
+Mutation System PCR (ARMS-PCR) was additionally employed for detection of the
+identified mutation in healthy controls.
+RESULTS: Linkage analysis of aforementioned loci did not detect evidence for
+linkage to KTCN. Direct PCR sequencing revealed two single nucleotide
+polymorphisms (SNPs; g.1502T>G and g.9683C>T), as well as two missense mutations 
+that have been previously reported (R166W and H244R) in VSX1. We also found three
+undescribed SNPs (g.4886G>A, g.4990C>G, and g.9061T>A) in SOD1. The R166W and
+H244R mutations were co-segregated in affected family members but not in those
+that were unaffected. Moreover, the ARMS-PCR strategy did not detect the
+identified mutations in controls.
+CONCLUSIONS: Our data suggest a significant association between KTCN patients and
+VSX1 genetic alterations (p.R166W and p.H244R). Although our findings support
+VSX1 as a plausible candidate gene responsible for keratoconus, other chromosomal
+loci and genes could be involved in KTCN development. Taken together, our results
+suggest that p.R166W and p.H244R could have possible pathogenic influences on
+KTCN.
+
+PMCID: PMC3235532
+PMID: 22171159  [PubMed - indexed for MEDLINE]
+
+
+30. Mol Vis. 2011;17:2482-94. Epub 2011 Sep 24.
+
+Mutational screening of VSX1, SPARC, SOD1, LOX, and TIMP3 in keratoconus.
+
+De Bonis P(1), Laborante A, Pizzicoli C, Stallone R, Barbano R, Longo C, Mazzilli
+E, Zelante L, Bisceglia L.
+
+Author information: 
+(1)Unità di Genetica Medica, IRCCS Casa Sollievo della Sofferenza, San Giovanni
+Rotondo, Italy.
+
+PURPOSE: To evaluate the involvement of Visual System Homeobox 1 (VSX1), Secreted
+Protein Acidic and Rich in Cysteine (SPARC), Superoxide Dismutase 1 (SOD1), Lysyl
+Oxidase (LOX), and Tissue Inhibitor of Metalloproteinase 3 (TIMP3) in sporadic
+and familial keratoconus.
+METHODS: Mutational analysis of the five genes was performed by sequencing and
+fragment analysis in a large cohort of 302 Italian patients, with a diagnosis of 
+keratoconus based on clinical examination and corneal topography. The variants
+identified in VSX1 and SPARC were also assessed in the available relatives of the
+probands.
+RESULTS: A novel mutation p.G239R and previously reported mutations were found in
+VSX1. Novel and already reported variants were identified in SPARC and SOD1,
+whose pathogenic significance has not been established. No pathogenic variants
+have been identified in LOX and TIMP3.
+CONCLUSIONS: Molecular analysis of the five genes in a cohort of 225 sporadic and
+77 familial keratoconus cases confirms the possible pathogenic role of VSX1
+though in a small number of patients; a possible involvement of LOX and TIMP3
+could be excluded; and the role played by SOD1 and SPARC in determining the
+disease as not been definitively clarified. Further studies are required to
+identify other important genetic factors involved in the pathogenesis and
+progression of the disease that in the authors' opinion, and according with
+several authors, should be considered as a complex disease.
+
+PMCID: PMC3185016
+PMID: 21976959  [PubMed - indexed for MEDLINE]
+
+
+31. J Neurosci. 2011 Sep 14;31(37):13118-27. doi: 10.1523/JNEUROSCI.2331-11.2011.
+
+Vsx1 regulates terminal differentiation of type 7 ON bipolar cells.
+
+Shi Z(1), Trenholm S, Zhu M, Buddingh S, Star EN, Awatramani GB, Chow RL.
+
+Author information: 
+(1)Department of Biology, University of Victoria, Victoria, British Columbia V8W 
+3N5, Canada.
+
+Although retinal bipolar cells represent a morphologically well defined
+population of retinal interneurons, very little is known about the developmental 
+mechanisms that regulate their processing. Furthermore, the identity of specific 
+bipolar cell types that function in distinct visual circuits remains poorly
+understood. Here, we show that the homeobox gene Vsx1 is expressed in Type 7 ON
+bipolar cells. In the absence of Vsx1, Type 7 bipolar cells exhibit proper
+morphological specification but show defects in terminal gene expression. Vsx1 is
+required for the repression of bipolar cell-specific markers, including
+Calcium-binding protein 5 and Chx10. This contrasts its genetic requirement as an
+activator of gene expression in OFF bipolar cells. To assess possible ON
+signaling defects in Vsx1-null mice, we recorded specifically from ON-OFF
+directionally selective ganglion cells (DSGCs), which cofasciculate with Type 7
+bipolar cell terminals. Vsx1-null ON-OFF DSGCs received more sustained excitatory
+synaptic input, possibly due to Type 7 bipolar cell defects. Interestingly, in
+Vsx1-null mice, the directionally selective circuit is functional but
+compromised. Together, these findings indicate that Vsx1 regulates terminal gene 
+expression in Type 7 bipolar cells and is necessary for proper ON visual
+signaling within a directionally selective circuit.
+
+PMID: 21917795  [PubMed - indexed for MEDLINE]
+
+
+32. J Comp Neurol. 2012 Jan 1;520(1):117-29. doi: 10.1002/cne.22697.
+
+Requirement for the paired-like homeodomain transcription factor VSX1 in type 3a 
+mouse retinal bipolar cell terminal differentiation.
+
+Shi Z(1), Jervis D, Nickerson PE, Chow RL.
+
+Author information: 
+(1)Department of Biology, University of Victoria, Victoria, British Columbia,
+Canada.
+
+Retinal bipolar cells make up a class of at least 11 distinct interneurons that
+have been classified through morphological and molecular approaches. Previous
+work has shown that the paired-like homeodomain transcription factor Vsx1 is
+essential for the proper development of a subset of these interneurons. In
+Vsx1-null mice, bipolar cells are properly specified but exhibit terminal
+differentiation defects characterized by reduced expression of OFF bipolar cell
+markers and defects in OFF visual signaling. Here, we further examined the role
+of Vsx1 in OFF bipolar cells using recently identified cell-type-specific
+markers. In contrast to its previously characterized expression in type 2 OFF
+bipolar cells, Vsx1 expression was not detected in type 3 OFF bipolar cells, by
+either immunohistological or transgenic reporter labeling approaches. This
+observation was unexpected given previous findings that Cabp5 immunolabeling of
+type 3 bipolar cell axon terminals is reduced in Vsx1-null mice. However, we
+observed reduced levels of the type 3a bipolar cell marker
+hyperpolarization-activated and cyclic nucleotide-gated channel 4 (HCN4) in
+Vsx1-null mice, which is consistent with a requirement for Vsx1 in type 3 bipolar
+cell differentiation. In contrast, expression of the type 3b bipolar cell marker 
+regulatory subunit RII-beta of protein kinase A was unchanged. Despite the
+absence of Vsx1 in mature type 3 bipolar cells, colabeling of Vsx1 and HCN4 was
+observed at postnatal stages. These findings reveal a role for Vsx1 in type 3a
+bipolar cells and suggest that Vsx1 function is required transiently in this cell
+type during the postnatal period.
+
+Copyright © 2011 Wiley Periodicals, Inc.
+
+PMID: 21674500  [PubMed - indexed for MEDLINE]
+
+
+33. Mol Vis. 2011 Mar 30;17:822-6.
+
+High-resolution analysis of DNA copy number alterations in patients with isolated
+sporadic keratoconus.
+
+Abu-Amero KK(1), Hellani AM, Al Mansouri SM, Kalantan H, Al-Muammar AM.
+
+Author information: 
+(1)Ophthalmic Genetics Laboratory, Department of Ophthalmology, College of
+Medicine, King Saud University, Riyadh, Saudi Arabia. abuamero@gmail.com
+
+PURPOSE: To determine whether patients with sporadic, non-familial keratoconus
+and no pathogenic mutations in the visual system homeobox 1 (VSX1) gene have
+evidence of chromosomal copy number alterations.
+METHODS: Twenty Saudi Arabian patients with isolated keratoconus, no family
+history of the disease and no mutations in VSX1 were recruited. Additionally, 10 
+ethnically-matched healthy controls were also recruited for this study. We
+screened patients for chromosomal copy number aberrations using the Agilent Human
+Genome CGH 244A Oligo Microarray Chip.
+RESULTS: None of the keratoconus patients screened had evidence of chromosomal
+copy number alterations when compared to normal ethnically matched controls.
+CONCLUSIONS: Chromosomal deletions and/or duplications were not detected in any
+of the patients tested here. Other chromosomal imbalances such as translocations,
+inversions, and some ploidies cannot be detected by current array CGH technology 
+and other nuclear genetic or epigenetic factors cannot be excluded as a possible 
+contributing factor to keratoconus pathogenesis.
+
+PMCID: PMC3081803
+PMID: 21528002  [PubMed - indexed for MEDLINE]
+
+
+34. Mol Vis. 2011 Mar 16;17:737-44.
+
+Absence of Vsx1 expression in the normal and damaged mouse cornea.
+
+Watson T(1), Chow RL.
+
+Author information: 
+(1)Department of Biology, University of Victoria, Victoria, BC V8W 3N5, Canada.
+
+PURPOSE: To examine the expression of visual system homeobox 1 (Vsx1) in the
+mouse cornea and its potential role in the corneal wound response pathway.
+METHODS: Expression of Vsx1 was examined by quantitative reverse-transcription
+PCR (qRT-PCR) in corneal tissue from developing and adult mice and from mice that
+had undergone alkali-burn corneal wounding. Immunolabeling and Vsx1 knock-in
+reporter gene expression in wild type and Vsx1 null-mice were used to confirm the
+qRT-PCR data.
+RESULTS: Using qRT-PCR, Vsx1 expression was not detected in either the postnatal 
+or adult mouse cornea or in corneas following wounding. This qRT-PCR data was
+supported by the absence of specific Vsx1 immunolabeling and Vsx1 knock-in
+reporter expression in untreated and wounded corneas.
+CONCLUSIONS: In mice, Vsx1 mRNA, protein or reporter gene expression is not
+detected in the normal or damaged cornea. These results make it uncertain what
+role VSX1/Vsx1 plays in corneal biology. Future experiments examining the
+pathogenicity of VSX1 mutations associated with corneal dystrophy are required to
+rule out species differences and possible non-cell autonomous roles for VSX1 in
+the cornea.
+
+PMCID: PMC3062518
+PMID: 21437200  [PubMed - indexed for MEDLINE]
+
+
+35. Mol Vis. 2011 Mar 8;17:667-72.
+
+Analysis of the VSX1 gene in keratoconus patients from Saudi Arabia.
+
+Abu-Amero KK(1), Kalantan H, Al-Muammar AM.
+
+Author information: 
+(1)Ophthalmic Genetics Laboratory, Department of Ophthalmology, College of
+Medicine, King Saud University, Riyadh, SaudiArabia. abuamero@gmail.com
+
+PURPOSE: To screen the visual system homebox 1 (VSX1) gene in Saudi Arabian
+keratoconus patients.
+METHODS: We sequenced the entire coding region, exon-intron boundaries in
+clinically confirmed keratoconus patients (n=55) and 50 ethnically matched
+healthy controls. All cases and controls were unrelated.
+RESULTS: Sequencing VSX1 revealed the presence of five nucleotide changes, 3 of
+which were non-coding (g.8326 G>A, g.10945 G>T, and g.11059 A>C) and 2 were
+synonymous-coding sequence changes (g.5053 G>T and g.8222 A>G). All five sequence
+changes were benign polymorphisms with no apparent clinical significance.
+CONCLUSIONS: In our keratoconus cohort, no pathogenic VSX1 mutation(s) were
+identified.
+
+PMCID: PMC3056127
+PMID: 21403853  [PubMed - indexed for MEDLINE]
+
+
+36. Mol Vis. 2011 Feb 15;17:481-5.
+
+Familial segregation of a VSX1 mutation adds a new dimension to its role in the
+causation of keratoconus.
+
+Paliwal P(1), Tandon R, Dube D, Kaur P, Sharma A.
+
+Author information: 
+(1)Laboratory of Cyto-Molecular Genetics, Department of Anatomy, All India
+Institute of Medical Sciences, New Delhi, India.
+
+PURPOSE: To look for segregation of Visual System Homeobox 1 (VSX1) mutations in 
+family members of a patient with keratoconus.
+METHODS: Our initial molecular genetic studies conducted to identify the role of 
+VSX1 in the causation of keratoconus had identified a novel mutation in one
+patient. He later presented to the clinic affected with vernal kerato
+conjunctivitis (VKC) accompanied by his brother, also similarly affected. All the
+family members were called and detailed clinical evaluations were undertaken. DNA
+from the blood samples of all family members was amplified using primers specific
+for VSX1 and analyzed by direct sequencing to look for segregation of the
+mutation in the family members. Protein modeling studies were done to assess the 
+effect of the mutation on protein structure and function.
+RESULTS: Clinical examination of the family revealed bilateral keratoconus and
+VKC in the proband and his brother. One of his sisters had VKC without
+keratoconus and his parents and another sister were normal. Molecular analysis
+identified the VSX1 mutation Q175H in the affected brother and in the mother who 
+had neither VKC nor keratoconus but only the VSX1 Q175H sequence change.
+CONCLUSIONS: The VSX1 Q175H mutation may be a pathogenic variant with incomplete 
+penetrance. Protein modeling studies show that the mutation affects the DNA
+binding properties of the protein. This VSX1 variant exhibiting low penetrance
+may require the presence of some modifier genes or environmental factors for
+disease presentation. VSX1 may have an important role in the pathogenesis of
+keratoconus which needs further investigation.
+
+PMCID: PMC3042359
+PMID: 21365019  [PubMed - indexed for MEDLINE]
+
+
+37. J Neurosci. 2011 Feb 16;31(7):2549-62. doi: 10.1523/JNEUROSCI.4713-10.2011.
+
+Origin and determination of inhibitory cell lineages in the vertebrate retina.
+
+Jusuf PR(1), Almeida AD, Randlett O, Joubin K, Poggi L, Harris WA.
+
+Author information: 
+(1)Department of Physiology, Development and Neuroscience, University of
+Cambridge, Cambridge CB2 3DY, United Kingdom.
+
+Multipotent progenitors in the vertebrate retina often generate clonally related 
+mixtures of excitatory and inhibitory neurons. The postmitotically expressed
+transcription factor, Ptf1a, is essential for all inhibitory fates in the
+zebrafish retina, including three types of horizontal and 28 types of amacrine
+cell. Here, we show that specific types of inhibitory neurons arise from the
+cell-autonomous influence of Ptf1a in the daughters of fate-restricted
+progenitors, such as Ath5 or Vsx1/2-expressing progenitors, and that in the
+absence of Ptf1a, cells that would have become these specific inhibitory subtypes
+revert to the histogenetically appropriate excitatory subtypes of the same
+lineage. Altered proportions of amacrine subtypes respecified by the
+misexpression of Ptf1a in the Ath5 lineage suggest that Ath5-expressing
+progenitors are biased, favoring the generation of some subtypes more than
+others. Yet the full array of inhibitory cell subtypes in Ath5 mutants implies
+the existence of Ath5-independent factors involved in inhibitory cell
+specification. We also show that an extrinsic negative feedback on the expression
+of Ptf1a provides a control mechanism by which the number of any and all types of
+inhibitory cells in the retina can be regulated in this lineage-dependent way.
+
+PMCID: PMC3083844
+PMID: 21325522  [PubMed - indexed for MEDLINE]
+
+
+38. Mol Vis. 2010 Nov 16;16:2395-401.
+
+VSX1 gene analysis in keratoconus.
+
+Tanwar M(1), Kumar M, Nayak B, Pathak D, Sharma N, Titiyal JS, Dada R.
+
+Author information: 
+(1)Laboratory For Molecular Reproduction and Genetics, Department of Anatomy,
+Centre for Ophthalmic Sciences, All India Institute of Medical Sciences, Ansari
+Nagar, New Delhi, India.
+
+PURPOSE: To screen the visual system homeobox 1 (VSX1) gene in keratoconus
+patients.
+METHODS: The enntire coding region of VSX1, including intron-exon boundaries were
+amplified in keratoconus cases (n=50) and controls (n=50). All sequences were
+analyzed against the ensemble sequence (ENSG00000100987) for VXS1.
+RESULTS: Sequencing analysis showed four alterations (p.A182A, p.R217H, p.P237P, 
+and g.25059612C>T) in VSX1 of which g.25059612C>T (in intron 2) was found to be
+novel. Of these four, p.A182A and p.P237P were present in both cases as well as
+controls while p.R217H and g.25059612C>T were limited to cases only. All these
+changes were non-pathogenic.
+CONCLUSIONS: In our study no pathogenic VSX1 mutation was identified. The role of
+VSX1 in the pathogenesis of keratoconus is still controversial. VSX1 mutations
+are responsible for a very small fraction of all observed keratoconus cases. The 
+absence of pathogenic mutations in VSX1 in our patients indicates that other
+genetic loci like 13q32 as suggested by a recent study may be involved in the
+pathogenesis of this disorder.
+
+PMCID: PMC2994744
+PMID: 21139977  [PubMed - indexed for MEDLINE]
+
+
+39. Acta Dermatovenerol Alp Pannonica Adriat. 2010;19(2):3-10.
+
+Genetics and clinical characteristics of keratoconus.
+
+Stabuc-Silih M(1), Strazisar M, Ravnik-Glavac M, Hawlina M, Glavac D.
+
+Author information: 
+(1)University Eye Clinic, Ljubljana Medical Center, 1000 Ljubljana, Slovenia.
+
+Keratoconus (KC) is a bilateral, non-inflammatory, and progredient corneal
+ectasia that mostly occurs as a sporadic disorder, but it has long been
+recognized that a significant minority of patients also exhibit a family history.
+In recent years several candidate genes such as VSX1 and SOD1 have been proposed,
+and some disease-causing mutations have been identified. Lately research has also
+focused on collagen genes, especially those that are differentially expressed in 
+KC cornea. Alterations in COL4A3 and COL4A4 genes may be responsible for
+decreases in collagen types I and III, a feature often detected in KC. To
+investigate the role of all four genes in 113 Slovenian patients with sporadic or
+familial keratoconus, DNA extraction, polymerase chain reaction amplification,
+and sequencing of both genes were performed. No disease-causing mutations were
+found, but two previously identified single nucleotide polymorphisms were
+identified (A128A and 627+23G>A) in the VSX1 gene. D326Y in COL4A3 and M1237V and
+F1644F in COL4A4 were also found to be significantly associated with KC patients.
+The absence of pathogenic mutations in VSX1, SOD1, COL4A3, and COL4A4 genes in
+our large number of unrelated keratoconus patients indicates that other genetic
+factors are involved in the development of this disorder; nevertheless, a
+significant correlation of a few polymorphisms indicates that there could be a
+link between specific polymorphisms and KC disease.
+
+PMID: 20664914  [PubMed - indexed for MEDLINE]
+
+
+40. Cornea. 2010 Oct;29(10):1180-5. doi: 10.1097/ICO.0b013e3181d007e1.
+
+Unusual presentation of presumed posterior polymorphous dystrophy associated with
+iris heterochromia, band keratopathy, and keratoconus.
+
+Lam HY(1), Wiggs JL, Jurkunas UV.
+
+Author information: 
+(1)Massachusetts Eye and Ear Infirmary, Boston, MA, USA. helene_lam@vmed.org
+
+PURPOSE: To report an unusual presentation of posterior polymorphous corneal
+dystrophy (PPCD) associated with band keratopathy, iridocorneal adhesions,
+heterochromia, keratoconus, and confocal microscopic findings suggestive of
+iridocorneal endothelial syndrome.
+METHODS: Confocal microscopy, corneal topography, electroretinography, and
+genetic analysis were performed in the proband and his siblings.
+RESULTS: A 23-year-old man presented with decreased vision in both eyes over 9
+months. Examination revealed bilateral alterations in corneal endothelial mosaic 
+with corneal edema and beaten metal appearance in the right eye and cystoid
+endothelial opacities in the left eye. Marked heterochromia, band keratopathy,
+and broad peripheral anterior synechiae were present in both eyes. Topographic
+features of keratoconus were noted. Electroretinography did not detect abnormal
+retinal function, as has been described with PPCD associated with VSX1 mutations.
+Diagnosis of PPCD was postulated on the basis of the examination of 3 of
+proband's brothers by confocal microscopy. Genetic analysis of 3 known PPCD
+genes, VSX1, COL8A2, and TCF8, did not detect any mutations.
+CONCLUSIONS: In severe cases, PPCD can resemble iridocorneal endothelial
+syndromes in both clinical appearance and imaging studies (confocal microscopy). 
+There was a strong genetic phenotypic penetrance in the family, which was
+essential in the diagnostic decision making. A yet undetermined genotype is
+contributing to this unusual PPCD phenotype.
+
+PMCID: PMC2945457
+PMID: 20567203  [PubMed - indexed for MEDLINE]
+
+
+41. Development. 2010 Feb;137(4):619-29. doi: 10.1242/dev.043968.
+
+Blimp1 controls photoreceptor versus bipolar cell fate choice during retinal
+development.
+
+Brzezinski JA 4th(1), Lamba DA, Reh TA.
+
+Author information: 
+(1)University of Washington, Department of Biological Structure, Seattle, WA
+98195, USA.
+
+Photoreceptors, rods and cones are the most abundant cell type in the mammalian
+retina. However, the molecules that control their development are not fully
+understood. In studies of photoreceptor fate determination, we found that Blimp1 
+(Prdm1) is expressed transiently in developing photoreceptors. We analyzed the
+function of Blimp1 in the mouse retina using a conditional deletion approach.
+Developmental analysis of mutants showed that Otx2(+) photoreceptor precursors
+ectopically express the bipolar cell markers Chx10 (Vsx2) and Vsx1, adopting
+bipolar instead of photoreceptor fate. However, this fate shift did not occur
+until the time when bipolar cells are normally specified during development. Most
+of the excess bipolar cells died around the time of bipolar cell maturation. Our 
+results suggest that Blimp1 expression stabilizes immature photoreceptors by
+preventing bipolar cell induction. We conclude that Blimp1 regulates the decision
+between photoreceptor and bipolar cell fates in the Otx2(+) cell population
+during retinal development.
+
+PMCID: PMC2827615
+PMID: 20110327  [PubMed - indexed for MEDLINE]
+
+
+42. Cornea. 2010 Feb;29(2):172-6. doi: 10.1097/ICO.0b013e3181aebf7a.
+
+Absence of pathogenic mutations in VSX1 and SOD1 genes in patients with
+keratoconus.
+
+Stabuc-Silih M(1), Strazisar M, Hawlina M, Glavac D.
+
+Author information: 
+(1)Eye Clinic, University Medical Centre, Ljubljana, Slovenia.
+
+PURPOSE: Keratoconus (KC) is a bilateral, noninflammatory, and progressive
+corneal ectasia that occurs mostly as a sporadic disorder, but it has long been
+recognized that a significant minority of patients also exhibit a family history.
+In recent years, several candidate genes, including VSX1 and SOD1, have been
+proposed and some disease-causing mutations have been identified.
+METHODS: To investigate the role of the 2 genes in 113 Slovenian patients with
+sporadic and familial KC, the complete coding region with corresponding intronic 
+sequences was analyzed. The same regions of both genes were also checked in 100
+healthy blood donors. We also checked the relation of 627+23G>A polymorphism in
+the VSX1 gene with the hereditary form of the disease.
+RESULTS: No disease-causing mutations were identified in either gene. We did
+discover a significant association of 627+23G>A polymorphism distribution (VSX1) 
+with unrelated patients diagnosed with the hereditary form of KC.
+CONCLUSION: The absence of pathogenic mutations in our large number of unrelated 
+patients with KC indicates that other genetic factors are involved in the
+development of this disorder.
+
+PMID: 20023586  [PubMed - indexed for MEDLINE]
+
+
+43. Dev Dyn. 2010 Jan;239(1):297-310. doi: 10.1002/dvdy.22168.
+
+Wnt signaling has different temporal roles during retinal development.
+
+Sánchez-Sánchez AV(1), Camp E, Leal-Tassias A, Mullor JL.
+
+Author information: 
+(1)Department of Regenerative Medicine, Centro de Investigación Príncipe Felipe, 
+Valencia 46012, Spain.
+
+Differentiation of neural retinal precursor (NRP) cells in vertebrates follows an
+established order of cell-fate determination associated with exit from the cell
+cycle. Wnt signaling regulates cell cycle in colon carcinoma cells and has been
+implicated in different aspects of retinal development in various species. To
+better understand the biological roles of Wnt in the developing retina, we have
+used a transgenic and pharmacological approach to manipulate the Wnt signaling
+pathway during retinal development in medaka embryos. With the use of both
+approaches, we observed that during the early phase of retinal development Wnt
+signaling regulated cell cycle progression, proliferation, apoptosis, and
+differentiation of NRP cells. However, during later phases of retinal
+development, proliferation and apoptosis were not affected by manipulation of Wnt
+signaling. Instead, Wnt regulated Vsx1 expression, but not the expression of
+other retinal cell markers tested. Thus, the response of NRP cells to Wnt
+signaling is stage-dependent.
+
+(c) 2009 Wiley-Liss, Inc.
+
+PMID: 20014102  [PubMed - indexed for MEDLINE]
+
+
+44. Mol Vis. 2009 Dec 3;15:2544-53.
+
+Phenotypic characterisation and ZEB1 mutational analysis in posterior
+polymorphous corneal dystrophy in a New Zealand population.
+
+Vincent AL(1), Niederer RL, Richards A, Karolyi B, Patel DV, McGhee CN.
+
+Author information: 
+(1)Department of Ophthalmology, New Zealand National Eye Centre, Faculty of
+Medical and Health Science, University of Auckland, Auckland, New Zealand.
+a.vincent@auckland.ac.nz
+
+PURPOSE: Posterior Polymorphous Dystrophy (PPCD) is a genetically heterogeneous
+corneal dystrophy, with linkage to three different chromosomal loci, with several
+genes in these loci being implicated. The role of both VSX1 and COL8A2 in PPCD
+remains controversial but recent work suggests that mutations in the
+transcription factor gene ZEB1/TCF8 account for disease in up to 30% of subjects,
+with a significant association with connective tissue abnormalities. This study
+aimed to determine the phenotype and contribution of ZEB1 mutations in a New
+Zealand PPCD population
+METHODS: Following informed consent, 11 probands with PPCD underwent extensive
+clinical characterization; including a questionnaire to determine birth history, 
+general health, and the incidence of connective tissue abnormalities, slit lamp
+examination, photography and in vivo confocal microscopy. Family members were
+recruited where available. Biological specimens underwent mutational analysis of 
+all nine coding exons of ZEB1.
+RESULTS: ZEB1 mutational analysis identified one mutation in the 11 probands
+(9.1%), a novel mutation in the initiating methionine of exon 1, c.1A-->G that
+results in the protein change p.Met1Val, with resultant aberrant initiation of
+translation. This mutation segregated with disease in the family, and was not
+present in 100 control chromosomes. No other ZEB1 mutations were observed in this
+cohort.
+CONCLUSION: Recent studies suggest that ZEB1 mutations may account for PPCD in 18
+to 30% of cases, with the majority of the mutations in exons 5 and 7. Clinical
+and molecular analyses in this New Zealand cohort show a much lower incidence of 
+ZEB1 sequence change, confirming the genetic heterogeneity of PPCD. We also
+report identification of a novel mutation in the initiating methionine that
+removes the Kozak sequence, thereby altering the site of initiation translation.
+
+PMCID: PMC2788618
+PMID: 19997581  [PubMed - indexed for MEDLINE]
+
+
+45. Proc Natl Acad Sci U S A. 2009 Dec 15;106(50):21179-84. doi:
+10.1073/pnas.0909167106. Epub 2009 Nov 24.
+
+MicroRNAs couple cell fate and developmental timing in retina.
+
+Decembrini S(1), Bressan D, Vignali R, Pitto L, Mariotti S, Rainaldi G, Wang X,
+Evangelista M, Barsacchi G, Cremisi F.
+
+Author information: 
+(1)Dipartimento di Biologia, Università di Pisa, Pisa 56100, Italy.
+
+Cell identity is acquired in different brain structures according to a
+stereotyped timing schedule, by accommodating the proliferation of multipotent
+progenitor cells and the generation of distinct types of mature nerve cells at
+precise times. However, the molecular mechanisms coupling the identity of a
+specific neuron and its birth date are poorly understood. In the neural retina,
+only late progenitor cells that divide slowly can become bipolar neurons, by the 
+activation of otx2 and vsx1 genes. In Xenopus, we found that Xotx2 and Xvsx1
+translation is inhibited in early progenitor cells that divide rapidly by a set
+of cell cycle-related microRNAs (miRNAs). Through expression and functional
+screenings, we selected 4 miRNAs--mir-129, mir-155, mir-214, and mir-222--that
+are highly expressed at early developmental stages in the embryonic retina and
+bind to the 3' UTR of Xotx2 and Xvsx1 mRNAs inhibiting their translation. The
+functional inactivation of these miRNAs in vivo releases the inhibition,
+supporting the generation of additional bipolar cells. We propose a model in
+which the proliferation rate and the age of a retinal progenitor are linked to
+each other and determine the progenitor fate through the activity of a set of
+miRNAs.
+
+PMCID: PMC2781736
+PMID: 19965369  [PubMed - indexed for MEDLINE]
+
+
+46. Mol Vis. 2009 Nov 28;15:2475-9.
+
+A novel VSX1 mutation identified in an individual with keratoconus in India.
+
+Paliwal P(1), Singh A, Tandon R, Titiyal JS, Sharma A.
+
+Author information: 
+(1)Laboratory of Cyto-Molecular Genetics, Department of Anatomy, All India
+Institute of Medical Sciences, New Delhi, India.
+
+PURPOSE: To evaluate the possible role of the VSX1 gene in a group of patients
+from the Indian subcontinent with keratoconus.
+METHODS: Molecular analysis of 66 patients with a diagnosis of keratoconus, based
+on clinical examination and corneal topography, was carried out. DNA extraction
+from peripheral blood followed by Polymerase Chain Reaction (PCR) amplification
+of the VSX1 gene was performed. The entire coding region and the exon-intron
+junctions of the VSX1 gene were analyzed by direct sequencing.
+RESULTS: A novel change at c.525G>C, replacing amino acid glutamine at position
+175 with histidine, was found in one affected individual. One of the previously
+reported SNPs (rs12480307) was found with equal frequency in both patients and
+controls.
+CONCLUSIONS: This is the first report from the Indian subcontinent exploring the 
+role of VSX1 in the causation of keratoconus. One novel mutation (Q175H)
+predicted to be a potentially damaging change was seen in an affected individual;
+this substantiates the importance of this gene but its precise role in disease
+causation needs further investigation.
+
+PMCID: PMC2786886
+PMID: 19956409  [PubMed - indexed for MEDLINE]
+
+
+47. Mol Vis. 2009 Oct 17;15:2084-93.
+
+Reconstruction of a human hemicornea through natural scaffolds compatible with
+the growth of corneal epithelial stem cells and stromal keratocytes.
+
+Barbaro V(1), Ferrari S, Fasolo A, Ponzin D, Di Iorio E.
+
+Author information: 
+(1)The Veneto Eye Bank Foundation, Venice, Italy.
+
+PURPOSE: To reconstruct a human hemicornea in vitro by means of limbal stem cells
+cultured onto human keratoplasty lenticules (HKLs) and to obtain a natural
+corneal graft for clinical applications.
+METHODS: Limbal stem cells were seeded onto HKLs with or without the presence of 
+feeder layers of lethally irradiated 3T3-J2 cells and compared with the current
+"gold standard" scaffold, i.e., the fibrin glue. The effects of the scaffold on
+the preservation of stemness and/or induction of differentiation pathways were
+investigated through analysis of a variety of markers, including p63 and
+DeltaNp63alpha for stemness, 14-3-3sigma for early differentiation, keratins 3,
+14, 12, and 19 to determine cell phenotype, and alpha6, beta1, and beta4
+integrins to evaluate interactions with the stroma. Integrity of the stroma was
+assessed through analysis of keratan sulfate, CD-34 and aldehyde dehydrogenase
+3A1 (ALDH3A1) (for keratocytes), visual system homeobox 1 (VSX1), and
+alpha-smooth muscle actin (alpha-SMA) (for fibroblasts and myofibroblasts). The
+structural properties of the reconstructed "hemicornea" were investigated through
+scanning electron microscopy. To evaluate the preservation of the stemness
+potential, cells were trypsinized from each scaffold and clonogenic/proliferative
+characteristics analyzed.
+RESULTS: Limbal stem cells expanded onto HKLs gave rise to a stratified squamous 
+keratinized epithelium morphologically similar to that of normal corneas. The
+resulting corneal epithelium was characterized by basal expression of p63 and
+DeltaNp63alpha, while expression of 14-3-3sigma, keratin 3, and keratin 12 was
+found in the upper cell layers. The basal cuboidal epithelial cells were anchored
+to the basement membrane and expressed keratin 14 and alpha6, beta1, and beta4
+integrins. In the stroma of HKLs, keratocytes maintained the biosynthetic and
+phenotypic appearances typical of resting/quiescent cells and expressed keratan
+sulfate, CD-34, and ALDH3A1. Fibroblastic transformation was observed with the
+appearance of VSX1 and alpha-SMA. Scanning electron microscopy analysis showed
+that HKLs maintained their native conformation with collagen fibrils
+interconnected to the network and parallel to the corneal surface. HKLs did not
+alter the clonogenic/proliferative capacity of limbal stem cells. No differences 
+were seen when HKL was compared to fibrin glue, one of the scaffolds currently
+used for limbal stem cell transplantation.
+CONCLUSIONS: Our findings demonstrate that HKL could be a suitable scaffold for
+corneal epithelial stem cells as they were shown to proliferate, express
+differentiation markers, and bind to the underlying stroma with no alterations in
+clonogenic potential. HKLs have some advantages over currently used scaffolds,
+such as the possibility to allow cell growth with no feeder layers, to be freeze 
+dried, and to preserve the integrity and viability of stromal keratocytes. The
+development of a tissue-engineered "hemicornea" might offer new therapeutic
+perspectives to patients affected by total limbal stem cell deficiency with
+stromal scarring.
+
+PMCID: PMC2765239
+PMID: 19862337  [PubMed - indexed for MEDLINE]
+
+
+48. Hum Mol Genet. 2010 Jan 15;19(2):250-61. doi: 10.1093/hmg/ddp484. Epub 2009 Oct
+20.
+
+The homeobox gene CHX10/VSX2 regulates RdCVF promoter activity in the inner
+retina.
+
+Reichman S(1), Kalathur RK, Lambard S, Aït-Ali N, Yang Y, Lardenois A, Ripp R,
+Poch O, Zack DJ, Sahel JA, Léveillard T.
+
+Author information: 
+(1)Department of Genetics, Institut de la Vision, INSERM Université Pierre et
+Marie Curie-Paris 6, UMR-S 968, Paris, France.
+
+Rod-derived Cone Viability Factor (RdCVF) is a trophic factor with therapeutic
+potential for the treatment of retinitis pigmentosa, a retinal disease that
+commonly results in blindness. RdCVF is encoded by Nucleoredoxin-like 1 (Nxnl1), 
+a gene homologous with the family of thioredoxins that participate in the defense
+against oxidative stress. RdCVF expression is lost after rod degeneration in the 
+first phase of retinitis pigmentosa, and this loss has been implicated in the
+more clinically significant secondary cone degeneration that often occurs. Here, 
+we describe a study of the Nxnl1 promoter using an approach that combines
+promoter and transcriptomic analysis. By transfection of selected candidate
+transcription factors, chosen based upon their expression pattern, we identified 
+the homeodomain proteins CHX10/VSX2, VSX1 and PAX4, as well as the zinc finger
+protein SP3, as factors that can stimulate both the mouse and human Nxnl1
+promoter. In addition, CHX10/VSX2 binds to the Nxnl1 promoter in vivo. Since
+CHX10/VSX2 is expressed predominantly in the inner retina, this finding motivated
+us to demonstrate that RdCVF is expressed in the inner as well as the outer
+retina. Interestingly, the loss of rods in the rd1 mouse, a model of retinitis
+pigmentosa, is associated with decreased expression of RdCVF by inner retinal
+cells as well as by rods. Based upon these results, we propose an alternative
+therapeutic strategy aimed at recapitulating RdCVF expression in the inner
+retina, where cell loss is not significant, to prevent secondary cone death and
+central vision loss in patients suffering from retinitis pigmentosa.
+
+PMCID: PMC2796890
+PMID: 19843539  [PubMed - indexed for MEDLINE]
+
+
+49. Eye (Lond). 2010 Jun;24(6):1085-92. doi: 10.1038/eye.2009.217. Epub 2009 Sep 18.
+
+Mutational screening of VSX1 in keratoconus patients from the European
+population.
+
+Dash DP(1), George S, O'Prey D, Burns D, Nabili S, Donnelly U, Hughes AE,
+Silvestri G, Jackson J, Frazer D, Héon E, Willoughby CE.
+
+Author information: 
+(1)Centre for Vision and Vascular Science, Queen's University Belfast, and
+Department of Ophthalmology, Royal Victoria Hospital, Belfast, Northern Ireland, 
+UK.
+
+PURPOSE: To perform mutational screening of the visual system homeobox gene 1
+(VSX1; MIM#605020) in patients with sporadic and familial keratoconus
+(MIM#148300) in a European population and, for the first time, report the
+mutational analysis of the two newly identified VSX1exons.
+METHODS: VSX1sequence variants in patients with keratoconus were evaluated by
+direct sequencing of the entire coding region, including two novel exons. In
+familial keratoconus cases, segregation of potentially pathogenic VSX1variants
+was assessed to determine pathogenicity. Transcript analysis was carried out on
+splice site and synonymous sequence variants not detected in controls.
+RESULTS: A total of 66 unrelated patients with keratoconus from the European
+population (27 with familial keratoconus; 39 with sporadic keratoconus) were
+analysed for VSX1 mutations. Four sequence variants were not observed in 100
+healthy control individuals: c.432C>G (p.D144E), c.479G>A (p.G160D), c.789C>T
+(p.S263S), and an intronic change c.844-13T>A (numbered with respect to
+NM_014588). Segregation was not detected for p.D144E and c.844-13T>A. The change 
+in p.G160D was observed in two patients with sporadic keratoconus. Although
+predicted to alter VSX1 splicing, p.S263S had no effect on transcript processing.
+Four known SNPs were detected and the following polymorphic variants were
+observed in keratoconus patients and controls: c.711T>A (NM_199425; p.P237P),
+c.844-5_-6insT (NM_014588), c.*28G>T (DQ854811/DQ854812), and c.*50G>A
+(DQ854809/DQ854810).
+CONCLUSIONS: VSX1has a minor role in keratoconus pathogenesis. The pathogenicity 
+of p.G160D remains controversial and this change may represent a rare
+polymorphism or genetic modifier. Further evidence is provided that the
+previously reported variant, p.D144E, is a polymorphism.
+
+PMID: 19763142  [PubMed - indexed for MEDLINE]
+
+
+50. Mol Vis. 2009 Aug 26;15:1700-8.
+
+Exclusion of known corneal dystrophy genes in an autosomal dominant pedigree of a
+unique anterior membrane corneal dystrophy.
+
+Vincent AL(1), Markie DM, De Karolyi B, Wheeldon CE, Patel DV, Grupcheva CN,
+McGhee CN.
+
+Author information: 
+(1)Department of Ophthalmology, New Zealand National Eye Centre, Faculty of
+Medical and Health Sciences, University of Auckland, Auckland, New Zealand.
+a.vincent@auckland.ac.nz
+
+PURPOSE: With advances in phenotyping tools and availability of molecular
+characterization, an increasing number of phenotypically and genotypically
+diverse inherited corneal dystrophies are described. We aimed to determine the
+underlying causative genetic mechanism in a three-generation pedigree affected
+with a unique anterior membrane corneal dystrophy characterized by early onset
+recurrent corneal erosions, small discrete focal opacities at the level of Bowman
+layer and anterior stroma, anterior stromal flecks, and prominent corneal nerves.
+METHODS: Twenty affected and unaffected members of a three-generation family were
+examined and extensively clinically characterized including corneal topography
+and in vivo confocal microscopy, and biological specimens were collected for DNA 
+extraction. Mutational analysis of two corneal genes (TGFBI [Transforming Growth 
+factor-beta induced] and ZEB1 [zinc finger E box-binding homeobox 1]) was
+undertaken, in addition to testing with the Asper Corneal Dystrophy gene chip
+(Asper Ophthalmics, Tartu, Estonia). Subsequent Genotyping To 11 Known Corneal
+Gene Loci (COL8A2 [Collagen, Type VIII, Alpha-2], TACSTD2 [Tumor-Associated
+Calcium Signal Transducer 2], PIP5K3 [Phosphatidylinositol-3-Phosphate 5-Kinase, 
+Type III], GSN [Gelsolin], KERA [Keratocan], VSX1 [Visual System Homeobox Gene
+1], COL6A1 [Collagen, Type VI, Alpha-1], MMP9 [Matrix Metalloproteinase 9], KRT3 
+[Keratin 3]), and two putative loci, 3p14-q13 and 15q22.33-24) was undertaken
+using polymorphic markers, and haplotypes constructed. Multipoint linkage
+analysis was performed to generate LOD scores and produce LOD plots across the
+candidate intervals.
+RESULTS: No pathogenic sequence variations were detected in TGFBI or ZEB1 of the 
+proband nor on the Asper Corneal Dystrophy gene chip (302 mutations in 12 genes).
+Multipoint linkage analysis of 11 known corneal genes and loci generated negative
+LOD plots and was able to exclude all genes tested including PIP5K3.
+CONCLUSIONS: Exclusion of linkage to candidate corneal loci combined with an
+absence of pathogenic mutations in known corneal genes in this pedigree suggest a
+different genetic causative mechanism in this dystrophy than the previously
+documented corneal genes. This unique phenotype of an anterior membrane dystrophy
+may therefore provide an opportunity to identify a new gene responsible for
+corneal disease.
+
+PMCID: PMC2731832
+PMID: 19710953  [PubMed - indexed for MEDLINE]
+
+
+51. J Genet Genomics. 2009 Aug;36(8):483-90. doi: 10.1016/S1673-8527(08)60138-1.
+
+vsx1 3' untranslated region-mediated translation difference at different
+developmental stages of goldfish embryos.
+
+Chen J(1), Tong Y, Zhao S, Ma S, Luo C.
+
+Author information: 
+(1)College of Life Science, Hunan Normal University, Changsha 410081, China.
+
+Visual system homeobox-1 (vsx1) is important in retinal progenitor proliferation,
+differentiation, and function maintenance of bipolar cells in vertebrates. Recent
+study in Xenopus laevis has shown that vsx1 3' untranslated region (3' UTR) can
+mediate cell-specific translation of vsx1 mRNA in the bipolar cells of the
+retinal inner nuclear layer (INL). vsx1 is also transcribed at the early
+developmental stages prior to eye formation and its spatiotemporal expression
+patterns are conserved in all the examined vertebrates. In order to determine
+whether the vsx1 3' UTR has a role in regulating the spatiotemporal expression of
+vsx1 during early embryogenesis, we constructed a vsx1 UTR-controlled green
+fluorescent protein (GFP) reporter gene system and examined the GFP expression
+pattern in goldfish, Carassius auratus, at different developmental stages. Our
+results indicated that both the vsx1 5' UTR and the vsx1 3' UTR remarkably
+repressed GFP expression at transcription level but did not regulate
+tissue-specific translation at early developmental stages. GFP protein was
+ubiquitously expressed in the embryos injected with GFP-sensors containing vsx1
+UTRs before 60 h post-fertilization (hpf). From hatching stage (72 hpf) onwards, 
+however, GFP protein was specifically expressed in the bipolar cells of the
+retinal INL in the vsx1 3'UTR-GFP-sensor embryos, but was still ubiquitously
+expressed in the embryos injected with GFP-sensor lacking vsx1 3' UTR. These
+observations showed a significant difference of vsx1 3' UTR-mediated translation 
+between early and late developmental stages and suggested that vsx1 3' UTR might 
+not be involved in regulating the spatiotemporal expression of vsx1 until
+hatching stage during embryogenesis.
+
+PMID: 19683671  [PubMed - indexed for MEDLINE]
+
+
+52. Klin Monbl Augenheilkd. 2009 Jun;226(6):466-9. doi: 10.1055/s-0028-1109427. Epub 
+2009 Jun 8.
+
+[Mutational analysis of VSX-1 in one patient with posterior polymorphous corneal 
+dystrophy and in three families with hereditary Fuchs endothelial dystrophy].
+
+[Article in German]
+
+Clausen I(1), Weidle E, Duncker G, Grünauer-Kloevekorn C.
+
+Author information: 
+(1)Klinik und Poliklinik für Augenheilkunde, Martin-Luther-Universität
+Halle-Wittenberg. ina.clausen@medizin.uni-halle.de
+
+BACKGROUND: Fuchs endothelial corneal dystrophy is the most common disease of the
+corneal endothelium. Besides some sporadic cases, an autosomal dominant
+inheritance is frequently described. Mutations in the VSX-1 gene are identified
+as the underlying gene defect for a rarer kind of endothelial dystrophy,
+posterior polymorphous endothelial dystrophy. We report on mutational analysis of
+the VSX-1 gene in affected and non-affected family members of three families with
+autosomal dominant inherited Fuchs endothelial corneal dystrophy and one male
+patient showing posterior polymorphous endothelial dystrophy.
+PATIENTS/MATERIALS AND METHODS: From one patient with posterior polymorphous
+endothelial dystrophy and 10 affected and 15 non-affected family members of three
+families with autosomal dominant inherited Fuchs endothelial corneal dystrophy
+DNA was extracted from leukocytes of the peripheral blood and mutational analysis
+was performed by direct sequencing of the VSX-1 gene.
+RESULTS: Screening of the VSX-1 gene did not reveal sequence variants in any
+affected or non-affected individuals from the three families with Fuchs
+endothelial corneal dystrophy or the patient with posterior polymorphous
+endothelial dystrophy.
+CONCLUSIONS: The absence of pathogenic mutations in the VSX-1 gene in affected
+family members of 3 pedigrees indicates that other genetic factors are involved
+in the development of familial Fuchs endothelial corneal dystrophy. In addition, 
+VSX-1 seems unlikely to be the crucial gene in our patient with posterior
+polymorphous endothelial dystrophy.
+
+PMID: 19507099  [PubMed - indexed for MEDLINE]
+
+
+53. Neural Dev. 2009 Apr 3;4:14. doi: 10.1186/1749-8104-4-14.
+
+Vsx2 in the zebrafish retina: restricted lineages through derepression.
+
+Vitorino M(1), Jusuf PR, Maurus D, Kimura Y, Higashijima S, Harris WA.
+
+Author information: 
+(1)Department of Physiology, Development and Neuroscience, University of
+Cambridge, Downing Street, Cambridge, CB2 3DY, UK. mspdcv2@cam.ac.uk
+
+BACKGROUND: The neurons in the vertebrate retina arise from multipotent retinal
+progenitor cells (RPCs). It is not clear, however, which progenitors are
+multipotent or why they are multipotent.
+RESULTS: In this study we show that the homeodomain transcription factor Vsx2 is 
+initially expressed throughout the retinal epithelium, but later it is
+downregulated in all but a minor population of bipolar cells and all Müller glia.
+The Vsx2-negative daughters of Vsx2-positive RPCs divide and give rise to all
+other cell types in the retina. Vsx2 is a repressor whose targets include
+transcription factors such as Vsx1, which is expressed in the progenitors of
+distinct non-Vsx2 bipolars, and the basic helix-loop-helix transcription factor
+Ath5, which restricts the fate of progenitors to retinal ganglion cells,
+horizontal cells, amacrine cells and photoreceptors fates. Foxn4, expressed in
+the progenitors of amacrine and horizontal cells, is also negatively regulated by
+Vsx2.
+CONCLUSION: Our data thus suggest Vsx2-positive RPCs are fully multipotent
+retinal progenitors and that when Vsx2 is downregulated, Vsx2-negative
+progenitors escape Vsx2 repression and so are able to express factors that
+restrict lineage potential.
+
+PMCID: PMC2683830
+PMID: 19344499  [PubMed - indexed for MEDLINE]
+
+
+54. Dev Biol. 2009 May 1;329(1):1-15. doi: 10.1016/j.ydbio.2009.01.002. Epub 2009 Jan
+13.
+
+Expression profiling of zebrafish sox9 mutants reveals that Sox9 is required for 
+retinal differentiation.
+
+Yokoi H(1), Yan YL, Miller MR, BreMiller RA, Catchen JM, Johnson EA, Postlethwait
+JH.
+
+Author information: 
+(1)Institute of Neuroscience, University of Oregon, Eugene, OR 97403, USA.
+
+The transcription factor gene Sox9 plays various roles in development, including 
+differentiation of the skeleton, gonads, glia, and heart. Other functions of Sox9
+remain enigmatic. Because Sox9 protein regulates expression of target genes, the 
+identification of Sox9 targets should facilitate an understanding of the
+mechanisms of Sox9 action. To help identify Sox9 targets, we used microarray
+expression profiling to compare wild-type embryos to mutant embryos lacking
+activity for both sox9a and sox9b, the zebrafish co-orthologs of Sox9. Candidate 
+genes were further evaluated by whole-mount in situ hybridization in wild-type
+and sox9 single and double mutant embryos. Results identified genes expressed in 
+cartilage (col2a1a and col11a2), retina (calb2a, calb2b, crx, neurod, rs1, sox4a 
+and vsx1) and pectoral fin bud (klf2b and EST AI722369) as candidate targets for 
+Sox9. Cartilage is a well-characterized Sox9 target, which validates this
+strategy, whereas retina represents a novel Sox9 function. Analysis of mutant
+phenotypes confirmed that Sox9 helps regulate the number of Müller glia and
+photoreceptor cells and helps organize the neural retina. These roles in eye
+development were previously unrecognized and reinforce the multiple functions
+that Sox9 plays in vertebrate development.
+
+PMCID: PMC2706370
+PMID: 19210963  [PubMed - indexed for MEDLINE]
+
+
+55. Invest Ophthalmol Vis Sci. 2009 Apr;50(4):1531-9. doi: 10.1167/iovs.08-2173. Epub
+2008 Nov 14.
+
+Localization of a gene for keratoconus to a 5.6-Mb interval on 13q32.
+
+Gajecka M(1), Radhakrishna U, Winters D, Nath SK, Rydzanicz M, Ratnamala U, Ewing
+K, Molinari A, Pitarque JA, Lee K, Leal SM, Bejjani BA.
+
+Author information: 
+(1)Basic Medical Sciences Program, Washington, Wyoming, Alaska, Montana, and
+Idaho, Washington State University, Spokane, Washington 99210-1495, USA.
+
+PURPOSE: Keratoconus (KTCN) is a noninflammatory thinning and anterior protrusion
+of the cornea that results in steepening and distortion of the cornea, altered
+refractive powers, and reduced visual acuity. Several loci responsible for a
+familial form of KTCN have been mapped, however; no mutations in any genes have
+been identified for any of these loci. There is also evidence that VSX1 and SOD1 
+may be involved in the etiology of KTCN. The purpose of this study was to verify 
+the available data and to identify a new keratoconus susceptibility locus.
+METHODS: KTCN without other ocular or systemic features was diagnosed in 18
+families. VSX1 and SOD1 sequencing was performed on affected individuals and
+control subjects. Genomewide linkage analysis was then performed in all families 
+using polymorphic microsatellite markers with an average spacing of 5 cM. Next,
+single-nucleotide polymorphism (SNP) arrays, fluorescence in situ hybridization
+(FISH) analysis, and a comparative genomic hybridization array were used in one
+family to assess a candidate region on 13q32.
+RESULTS: All previously reported KTCN loci were excluded. VSX1 and SOD1 were
+sequenced, and no potentially functional variants were found. One KTCN family
+yielded a maximum multipoint parametric LOD score of 4.1 and multipoint
+nonparametric linkage (NPL) LOD score of 3.2. Multipoint linkage and haplotype
+analysis narrowed the locus to a 5.6-Mb region between the SNPs rs9516572 and
+rs3825523 on 13q32.
+CONCLUSIONS: The results exclude VSX1 and SOD1 as potential disease-causing genes
+in these families and localize a novel gene for keratoconus to a 5.6-Mb interval 
+on 13q32.
+
+PMCID: PMC4547351
+PMID: 19011015  [PubMed - indexed for MEDLINE]
+
+
+56. Development. 2008 Sep;135(18):3001-5. doi: 10.1242/dev.024802. Epub 2008 Aug 6.
+
+V2a and V2b neurons are generated by the final divisions of pair-producing
+progenitors in the zebrafish spinal cord.
+
+Kimura Y(1), Satou C, Higashijima S.
+
+Author information: 
+(1)National Institutes of Natural Sciences, Okazaki Institute for Integrative
+Bioscience, National Institute for Physiological Sciences, Higashiyama 5-1,
+Myodaiji, Okazaki, Aichi 444-8787, Japan.
+
+The p2 progenitor domain in the ventral spinal cord gives rise to two interneuron
+subtypes: V2a and V2b. Delta-Notch-mediated cell-cell interactions between
+postmitotic immature neurons have been implicated in the segregation of neuron
+subtypes. However, lineage relationships between V2a and V2b neurons have not
+been reported. We address this issue using Tg[vsx1:GFP] zebrafish, a model system
+in which high GFP expression is initiated near the final stage of p2 progenitors.
+Cell fates were followed in progeny using time-lapse microscopy. Results indicate
+that the vast majority, if not all, of GFP-labeled p2 progenitors divide once to 
+produce V2a/V2b neuron pairs, indicating that V2a and V2b neurons are generated
+by the asymmetric division of pair-producing progenitor cells. Together with
+evidence that Notch signaling is involved in the cell fate specification process,
+our results strongly suggest that Delta-Notch interactions between sister cells
+play a crucial role in the final outcome of these asymmetric divisions. This
+mechanism for determining cell fate is similar to asymmetric divisions that occur
+during Drosophila neurogenesis, where ganglion mother cells divide once to
+produce distinct neurons. However, unlike in Drosophila, the divisional axes of
+p2 progenitors in zebrafish were not fixed. We report that the terminal division 
+of pair-producing progenitor cells in vertebrate neurogenesis can reproducibly
+produce two distinct neurons through a mechanism that may not depend on the
+orientation of the division axis.
+
+PMID: 18684740  [PubMed - indexed for MEDLINE]
+
+
+57. J Hum Genet. 2008;53(9):842-9. doi: 10.1007/s10038-008-0319-6. Epub 2008 Jul 15.
+
+VSX1 gene variants are associated with keratoconus in unrelated Korean patients.
+
+Mok JW(1), Baek SJ, Joo CK.
+
+Author information: 
+(1)Catholic Research Institutes of Medical Science, Catholic University Medical
+College, The Catholic University of Korea, Seoul, 137-701, South Korea.
+
+Keratoconus is a bilateral ectatic disorder characterized by the central thinning
+of corneal tissue leading to visual impairment. To investigate the possibility of
+visual system homeobox 1 (VSXI) as a candidate susceptibility gene for Korean
+patients with keratoconus, we performed a mutation screening of the VSXI gene in 
+249 unrelated patients with keratoconus and 208 control subjects without the
+ocular disorder. We found two heterozygous novel missense mutations in exon 2:
+N151S and G160V. The G160V mutation was identified in 13 keratoconus patients
+(5.3%), and the N151S mutation was found in only one keratoconus patient (0.4%). 
+We also detected three synonymous polymorphisms and four intragenic
+polymorphisms. The IVS1-11*a allele was associated with a significantly increased
+risk of keratoconus in Korean patients [3.6 vs. 0.5%, p = 0.001, odds ratio (OR) 
+= 7.76, 95% confidence interval (CI) 1.989-30.241). Other polymorphisms did not
+show an association with keratoconus risk. Our data is the first reported VSX1
+mutation screening in Korean keratoconus patients. We detected two novel missense
+mutations and one intragenic polymorphism in the VSX1 gene, which show a strong
+statistical association with unrelated keratoconus patients. Consequently, our
+study suggests that VSX1 gene variants seem to be significant genetic variants
+for keratoconus predisposition in unrelated Korean patients.
+
+PMID: 18626569  [PubMed - indexed for MEDLINE]
+
+
+58. Ophthalmic Genet. 2008 Jun;29(2):53-9. doi: 10.1080/13816810802008242.
+
+The D144E substitution in the VSX1 gene: a non-pathogenic variant or a disease
+causing mutation?
+
+Eran P(1), Almogit A, David Z, Wolf HR, Hana G, Yaniv B, Elon P, Isaac A.
+
+Author information: 
+(1)Department of Ophthalmology, Assaf Harofeh Medical Center, Zerifin, Israel.
+eranpras@gmail.com
+
+PURPOSE: To identify the genetic defect associated with keratoconus (KC) in an
+Ashkenazi Jewish family and to evaluate its nature and its phenotypic expression 
+within carriers.
+METHODS: A three generation Ashkenazi Jewish family with KC was ascertained.
+Diagnosis was based on clinical examination and corneal topography. Segregation
+analysis was performed using micro-satellite polymorphic markers in close
+proximity to 7 previously associated KC loci and genes. Mutation analysis of the 
+VSX1 gene was performed by direct sequencing of PCR-amplified exons, and a BseR1 
+restriction assay. In selected cases, where the genotype was consistent with KC, 
+additional effort to detect subtle corneal changes was made by computerized
+Orbscan measurements.
+RESULTS: We found co-segregation between the KC phenotype and a polymorphic
+marker close to the VSX1. Sequencing revealed a previously described missense
+mutation (D144E). All of the mutation carriers manifested pathologic corneal
+findings; some had overt KC while others had subtle corneal alterations
+identifiable only by Orbscan.
+CONCLUSIONS: These findings support the pathogenic role of VSX1 gene in KC. The
+variable expression among the carriers, suggests the involvement of other factors
+in determining the final phenotype.
+
+PMID: 18484309  [PubMed - indexed for MEDLINE]
+
+
+59. J Neurosci. 2008 Mar 5;28(10):2342-52. doi: 10.1523/JNEUROSCI.4784-07.2008.
+
+Genetic control of circuit function: Vsx1 and Irx5 transcription factors regulate
+contrast adaptation in the mouse retina.
+
+Kerschensteiner D(1), Liu H, Cheng CW, Demas J, Cheng SH, Hui CC, Chow RL, Wong
+RO.
+
+Author information: 
+(1)Department of Anatomy and Neurobiology, Washington University School of
+Medicine, St. Louis, Missouri 63110, USA.
+
+Transcriptional programs guide the specification of neural cell types in the
+developing nervous system. However, it is unclear whether such programs also
+control specific aspects of neural circuit function at maturity. In the mammalian
+retina, Vsx1 and Irx5 transcription factors are present in a subset of bipolar
+interneurons that convey signals from photoreceptors to ganglion cells. The
+biased expression of Vsx1 and Irx5 in hyperpolarizing OFF compared with
+depolarizing ON bipolar cells suggests that these transcription factors may
+selectively regulate signal processing in OFF circuits. To test this hypothesis, 
+we generated mice lacking both Vsx1 and Irx5. Bipolar cells in these mice were
+morphologically normal, but the expression of cell-specific markers in some OFF
+but not ON bipolar cells was reduced or absent. To assess visual function in
+Vsx1(-/-)Irx5(-/-) retinas, we recorded light responses from ensembles of retinal
+ganglion cells (RGCs). We first identified functional RGC types in control mice
+and describe their response properties and adaptation to temporal contrast using 
+a simple linear-nonlinear model. We found that space-time receptive fields of
+RGCs are unchanged in Vsx1(-/-)Irx5(-/-) mice compared with control retinas. In
+contrast, response threshold, gain, and range were lowered in a
+cell-type-specific manner in OFF but not ON RGCs in Vsx1(-/-)Irx5(-/-) retinas.
+Finally, we discovered that the ability to adapt to temporal contrast is greatly 
+reduced in OFF RGCs in the double mutant, suggesting that Vsx1 and Irx5 control
+specific aspects of visual function in circuits of the mammalian retina.
+
+PMID: 18322081  [PubMed - indexed for MEDLINE]
+
+
+60. Mol Vis. 2008 Jan 16;14:71-80.
+
+Genetic analysis of chromosome 20-related posterior polymorphous corneal
+dystrophy: genetic heterogeneity and exclusion of three candidate genes.
+
+Hosseini SM(1), Herd S, Vincent AL, Héon E.
+
+Author information: 
+(1)Program in Genetics and Genome Biology, The Hospital for Sick Children
+Research Institute, Toronto, Ontario, Canada.
+
+PURPOSE: Posterior polymorphous corneal dystrophy (PPCD) is a genetically
+heterogeneous autosomal dominant condition which maps to the pericentromeric
+region of chromosome 20. Mutations in the VSX1 transcription factor have been
+reported in patients affected with PPCD, keratoconus, or a combination of both
+phenotypes. However, no mutation was identified in the coding region of VSX1 in
+the family used for the original mapping. To clarify the genetic basis of PPCD1, 
+a thorough analysis was performed on the original PPCD1 family and two other
+PPCD1-linked families. As part of the analysis, the expression profile,
+transcript variants, and evolutionary conserved regions of VSX1, a key candidate 
+gene within the linkage interval, were characterized.
+METHODS: Haplotype analysis was performed using highly informative markers on the
+pericentromeric region of chromosome 20. VSX1 transcript variants were identified
+using RT-PCR and characterized by 3'RACE assay. Temporal expression profile of
+VSX1 was evaluated using semi-quantitative real-time RT-PCR on human tissues.
+Evolutionary conserved regions (ECRs) were identified in the vicinity of VSX1
+using publicly available sequence alignments (UCSC and rVista) and sequenced for 
+mutation analysis.
+RESULTS: Recombination events were identified that narrow the PPCD1-disease
+interval from 20 to 16.44 cM. This smaller interval includes the CHED1 locus and 
+a recently described PPCD locus in Czech families. The three strongest candidate 
+genes of the PPCD1-CHED1 overlap region (RBBP9, ZNF133, SLC24A3) did not show any
+mutations in our PPCD1-linked families. Semi-quantitative real-time RT-PCR
+detected VSX1 expression in neonatal human cornea. Six transcript variants of
+VSX1 were characterized. Four of the transcript variants spliced to two novel
+exons downstream of the gene. Mutation analysis of the PPCD1-linked families did 
+not reveal any mutations in the full genomic sequence of VSX1 (considering all
+splice variants) or in the six cis- regulatory modules predicted in the vicinity 
+of VSX1 (100 kb).
+CONCLUSIONS: This is the first documentation of VSX1 expression in human neonatal
+cornea. We provide evidence for genetic heterogeneity of chromosome 20-related
+PPCD and refinement of the original PPCD1 interval. The full genomic sequence of 
+VSX1 and coding exons of three other candidate genes were excluded from being
+pathogenic in the original PPCD1 family.
+
+PMCID: PMC2267740
+PMID: 18253095  [PubMed - indexed for MEDLINE]
+
+
+61. Cornea. 2008 Feb;27(2):189-92. doi: 10.1097/ICO.0b013e31815a50e7.
+
+Three VSX1 gene mutations, L159M, R166W, and H244R, are not associated with
+keratoconus.
+
+Tang YG(1), Picornell Y, Su X, Li X, Yang H, Rabinowitz YS.
+
+Author information: 
+(1)Cornea Genetic Eye Institute, Cedars-Sinai Medical Center, Los Angeles, CA
+90048, USA.
+
+PURPOSE: Three mutations, L159M, R166W, and H244R, in the VSX1 gene have been
+recently reported to be associated with keratoconus by direct sequencing in
+familial panels. In an attempt to confirm this observation, we surveyed the same 
+mutations of the VSX1 gene for a white sporadic keratoconus case-control panel
+and a larger familial panel to test its association with keratoconus.
+METHODS: A case-control panel, with 77 keratoconus patients and 71 healthy
+controls, and a keratoconus familial panel, with 444 individuals from 75
+families, were surveyed. DNA from each individual was tested for the previously
+reported mutations by ABI allelic discrimination technology (L159M and R166W) and
+restriction fragment length polymorphism assay (H244R).
+RESULTS: We observed no mutations of R166W and H244R and 1 heterozygous mutation 
+of L159M in a healthy individual in the case-control panel. For the familial
+panel, we observed no polymorphism of R166W; 3 heterozygous for H244R, with 2
+affected and 1 unaffected; and 5 heterozygous for L159M, with 3 affected and 2
+unaffected.
+CONCLUSIONS: We cannot confirm the previously reported association of the
+polymorphism in the VSX1 gene with keratoconus. In our case-control sample panel 
+and the larger familial sample panel, we did not observe the reported
+polymorphism of the VSX1 gene, and the distribution of these 3 polymorphisms was 
+not significant enough to support a pathogenetic role in keratoconus.
+
+PMID: 18216574  [PubMed - indexed for MEDLINE]
+
+
+62. J Neurosci. 2007 Nov 14;27(46):12707-20.
+
+Islet-1 controls the differentiation of retinal bipolar and cholinergic amacrine 
+cells.
+
+Elshatory Y(1), Everhart D, Deng M, Xie X, Barlow RB, Gan L.
+
+Author information: 
+(1)Department of Ophthalmology, University of Rochester, Rochester, New York
+14642, USA.
+
+Whereas the mammalian retina possesses a repertoire of factors known to establish
+general retinal cell types, these factors alone cannot explain the vast diversity
+of neuronal subtypes. In other CNS regions, the differentiation of diverse
+neuronal pools is governed by coordinately acting LIM-homeodomain proteins
+including the Islet-class factor Islet-1 (Isl1). We report that deletion of Isl1 
+profoundly disrupts retinal function as assessed by electroretinograms and vision
+as assessed by optomotor behavior. These deficits are coupled with marked
+reductions in mature ON- and OFF-bipolar (>76%), cholinergic amacrine (93%), and 
+ganglion (71%) cells. Mosaic deletion of Isl1 permitted a chimeric analysis of
+"wild-type" cells in a predominantly Isl1-null environment, demonstrating a
+cell-autonomous role for Isl1 in rod bipolar and cholinergic amacrine
+development. Furthermore, the effects on bipolar cell development appear to be
+dissociable from the preceding retinal ganglion cell loss, because Pou4f2-null
+mice are devoid of similar defects in bipolar cell marker expression. Expression 
+of the ON- and OFF-bipolar cell differentiation factors Bhlhb4 and Vsx1,
+respectively, requires the presence of Isl1, whereas the early bipolar cell
+marker Prox1 initially did not. Thus, Isl1 is required for engaging bipolar
+differentiation pathways but not for general bipolar cell specification.
+Spatiotemporal expression analysis of additional LIM-homeobox genes identifies a 
+LIM-homeobox gene network during bipolar cell development that includes Lhx3 and 
+Lhx4. We conclude that Isl1 has an indispensable role in retinal neuron
+differentiation within restricted cell populations and this function may reflect 
+a broader role for other LIM-homeobox genes in retinal development, and perhaps
+in establishing neuronal subtypes.
+
+PMCID: PMC2972590
+PMID: 18003851  [PubMed - indexed for MEDLINE]
+
+
+63. Mol Vis. 2007 Oct 4;13:1887-91.
+
+Molecular analysis of the VSX1 gene in familial keratoconus.
+
+Liskova P(1), Ebenezer ND, Hysi PG, Gwilliam R, El-Ashry MF, Moodaley LC, Hau S, 
+Twa M, Tuft SJ, Bhatacharya SS.
+
+Author information: 
+(1)Division of Molecular Genetics, Institute of Ophthalmology, UCL, London, UK.
+p.liskova@ucl.ac.uk
+
+PURPOSE: To evaluate the role of the visual system homeobox gene 1 (VSX1) in the 
+pathogenesis of familial keratoconus.
+METHODS: Families with two or more individuals with keratoconus were recruited
+and their members examined. The coding region and intron-exon junctions of the
+VSX1 gene were sequenced in affected individuals. In cases where there were
+possible pathogenic changes, segregation within the pedigree was analyzed. Meta
+analysis of reports on an association of p.D144E change with keratoconus
+phenotype was performed.
+RESULTS: Probands from a panel of 85 apparently unrelated keratoconus families
+were included. Eleven sequence variants were observed, including the previously
+reported c.432C>G (p.D144E) change and two novel intronic single nucleotide
+polymorphisms. However, these three changes did not cosegregate with the disease 
+phenotype.
+CONCLUSIONS: We excluded the c.432C>G sequence alteration as the direct cause of 
+the disease. Lack of possibly pathogenic VSX1 sequence variants in the familial
+panel suggests that involvement of this gene in the pathogenesis of keratoconus
+is likely to be confined to a small number of pedigrees, at least in the
+population studied.
+
+PMID: 17960127  [PubMed - indexed for MEDLINE]
+
+
+64. Brain Res. 2008 Feb 4;1192:99-113. Epub 2007 Jun 18.
+
+Negative regulation of Vsx1 by its paralog Chx10/Vsx2 is conserved in the
+vertebrate retina.
+
+Clark AM(1), Yun S, Veien ES, Wu YY, Chow RL, Dorsky RI, Levine EM.
+
+Author information: 
+(1)Department of Ophthalmology and Visual Sciences, John A. Moran Eye Center,
+University of Utah, Salt Lake City, UT, USA.
+
+Chx10/Vsx2 and Vsx1 are the only Paired-like CVC (Prd-L:CVC) homeobox genes in
+the mouse genome. Both are expressed in the retina and have important but
+distinct roles in retinal development. Mutations in Chx10/Vsx2 cause reduced
+retinal progenitor cell (RPC) proliferation and an absence of bipolar cells,
+while mutations in Vsx1 impair differentiation of cone bipolar cells. Given their
+structural similarities and importance in retinal development, we sought to
+determine if a regulatory interaction exists between these genes and whether
+inactivation of both genes blocks initiation of retinal development. We found
+that Chx10/Vsx2 binds to a specific sequence in the Vsx1 5'-intergenic region and
+represses the activity of a luciferase reporter under the control of the Vsx1
+promoter. This is consistent with our observation that there is an inverse
+relationship between the levels of Chx10/Vsx2 and Vsx1 immunostaining within the 
+bipolar cell class. Furthermore, Vsx1 mRNA is upregulated in the RPCs of
+Chx10/Vsx2 deficient mice and zebrafish embryos injected with a chx10/vsx2
+morpholino. In mice deficient for both Chx10/Vsx2 and Vsx1 and zebrafish embryos 
+co-injected with chx10/Vsx2 and vsx1 morpholinos, the changes in embryonic
+retinal development and marker expression are similar in magnitude to embryos
+with Chx10/Vsx2 loss of function only. From these studies, we propose that Vsx1
+is a direct target of Chx10/Vsx2-mediated transcriptional repression. Although
+Vsx1 mRNA is upregulated in Chx10/Vsx2 deficient RPCs, Vsx1 does not genetically 
+compensate for loss of Chx10/Vsx2, demonstrating that Prd-L:CVC genes, although
+important, are not absolutely required to initiate retinal development.
+
+PMCID: PMC3315787
+PMID: 17919464  [PubMed - indexed for MEDLINE]
+
+
+65. Hum Mutat. 2007 Jun;28(6):638.
+
+Novel mutations in the ZEB1 gene identified in Czech and British patients with
+posterior polymorphous corneal dystrophy.
+
+Liskova P(1), Tuft SJ, Gwilliam R, Ebenezer ND, Jirsova K, Prescott Q, Martincova
+R, Pretorius M, Sinclair N, Boase DL, Jeffrey MJ, Deloukas P, Hardcastle AJ,
+Filipec M, Bhattacharya SS.
+
+Author information: 
+(1)Division of Molecular Genetics, Institute of Ophthalmology, UCL, London,
+United Kingdom. p.liskova@ucl.ac.uk
+
+We describe the search for mutations in six unrelated Czech and four unrelated
+British families with posterior polymorphous corneal dystrophy (PPCD); a
+relatively rare eye disorder. Coding exons and intron/exon boundaries of all
+three genes (VSX1, COL8A2, and ZEB1/TCF8) previously reported to be implicated in
+the pathogenesis of this disorder were screened by DNA sequencing. Four novel
+pathogenic mutations were identified in four families; two deletions, one
+nonsense, and one duplication within exon 7 in the ZEB1 gene located at 10p11.2. 
+We also genotyped the Czech patients to test for a founder haplotype and lack of 
+disease segregation with the 20p11.2 locus we previously described. Although a
+systematic clinical examination was not performed, our investigation does not
+support an association between ZEB1 changes and self reported non-ocular
+anomalies. In the remaining six families no disease causing mutations were
+identified thereby indicating that as yet unidentified gene(s) are likely to be
+responsible for PPCD.
+
+(c) 2007 Wiley-Liss, Inc.
+
+PMCID: PMC2696796
+PMID: 17437275  [PubMed - indexed for MEDLINE]
+
+
+66. Invest Ophthalmol Vis Sci. 2006 Dec;47(12):5243-50.
+
+Expression of VSX1 in human corneal keratocytes during differentiation into
+myofibroblasts in response to wound healing.
+
+Barbaro V(1), Di Iorio E, Ferrari S, Bisceglia L, Ruzza A, De Luca M, Pellegrini 
+G.
+
+Author information: 
+(1)Epithelial Stem Cell Research Centre, Veneto Eye Bank Foundation, Venice,
+Italy; the.
+
+PURPOSE: To characterize the expression of the visual system homeobox gene (VSX1)
+in human corneal keratocytes both in vitro and in vivo.
+METHODS: The expression of VSX1 was evaluated through semiquantitative RT-PCR,
+immunofluorescence and in situ hybridization both in corneas (either freshly
+obtained or wounded) and in collagenase/hyaluronidase-isolated keratocytes grown 
+in the absence or presence of serum to promote keratocyte-to-myofibroblast
+differentiation.
+RESULTS: Quiescent or resting keratocytes normally residing in the corneal stroma
+or cultured in vitro in the absence of serum did not express VSX1. In wounded
+corneas or when cultured in the presence of serum to mimic wound-healing
+responses, keratocytes underwent fibroblastic transformation (with appearance of 
+alpha-SMA and disappearance of CD-34 and keratocan signals) and started
+expressing VSX1.
+CONCLUSIONS: The results show that VSX1 is expressed in vitro and in vivo during 
+human corneal wound healing, a process in which differentiation of corneal
+keratocytes into myofibroblasts occurs. These data may help to elucidate the role
+of VSX1 in cornea physiology suggesting a potential involvement in cornea-related
+diseases such as keratoconus.
+
+PMID: 17122109  [PubMed - indexed for MEDLINE]
+
+
+67. Dev Genes Evol. 2006 Dec;216(12):829-34. Epub 2006 Nov 14.
+
+Cloning and developmental expression of the Xenopus homeobox gene Xvsx1.
+
+D'Autilia S(1), Decembrini S, Casarosa S, He RQ, Barsacchi G, Cremisi F,
+Andreazzoli M.
+
+Author information: 
+(1)Dipartimento di Biologia, Universitá degli Studi di Pisa, Via Carducci 13,
+56010 Ghezzano, Pisa, Italy.
+
+In contrast to the high degree of evolutionary conservation of the Vsx2/Chx10
+gene family, vertebrate orthologues of Vsx1 display more divergent sequences and 
+spatio-temporal expression patterns. Here, we report the cloning and expression
+pattern of Xenopus laevis Vsx1. Differently from the mouse and zebrafish
+orthologues, Xvsx1 transcription is activated at early neurula both in the
+evaginating eye vesicles and in the presumptive spinal cord. Compared to other
+retinal homeobox genes, such as Xrx1, Xsix3 and Xpax6, Xvsx1 is activated at a
+later stage; in addition, its anterior expression appears to be more specifically
+restricted to the retina. At tail bud stage, Xvsx1 expression in retinal
+progenitors persists, and its neural tube expression, which in the spinal cord
+corresponds to interneurons, progressively expands anteriorly reaching the
+midbrain-hindbrain boundary. During retinal neurogenesis, Xvsx1 expression is
+maintained in retinal progenitors and in a peripheral region of the ciliary
+marginal zone, while in the central retina, it becomes restricted to
+differentiated bipolar cells.
+
+PMID: 17103185  [PubMed - indexed for MEDLINE]
+
+
+68. PLoS Biol. 2006 Sep;4(9):e272.
+
+Timing the generation of distinct retinal cells by homeobox proteins.
+
+Decembrini S(1), Andreazzoli M, Vignali R, Barsacchi G, Cremisi F.
+
+Author information: 
+(1)Dipartimento di Biologia, Università degli Studi di Pisa, Pisa, Italy.
+
+Comment in
+    PLoS Biol. 2006 Sep;4(9):e293.
+
+The reason why different types of vertebrate nerve cells are generated in a
+particular sequence is still poorly understood. In the vertebrate retina,
+homeobox genes play a crucial role in establishing different cell identities.
+Here we provide evidence of a cellular clock that sequentially activates distinct
+homeobox genes in embryonic retinal cells, linking the identity of a retinal cell
+to its time of generation. By in situ expression analysis, we found that the
+three Xenopus homeobox genes Xotx5b, Xvsx1, and Xotx2 are initially transcribed
+but not translated in early retinal progenitors. Their translation requires cell 
+cycle progression and is sequentially activated in photoreceptors (Xotx5b) and
+bipolar cells (Xvsx1 and Xotx2). Furthermore, by in vivo lipofection of "sensors"
+in which green fluorescent protein translation is under control of the 3'
+untranslated region (UTR), we found that the 3' UTRs of Xotx5b, Xvsx1, and Xotx2 
+are sufficient to drive a spatiotemporal pattern of translation matching that of 
+the corresponding proteins and consistent with the time of generation of
+photoreceptors (Xotx5b) and bipolar cells (Xvsx1 and Xotx2). The block of cell
+cycle progression of single early retinal progenitors impairs their
+differentiation as photoreceptors and bipolar cells, but is rescued by the
+lipofection of Xotx5b and Xvsx1 coding sequences, respectively. This is the first
+evidence to our knowledge that vertebrate homeobox proteins can work as effectors
+of a cellular clock to establish distinct cell identities.
+
+PMCID: PMC1540709
+PMID: 16903786  [PubMed - indexed for MEDLINE]
+
+
+69. Klin Monbl Augenheilkd. 2006 Jun;223(6):493-502.
+
+[Keratoconus: epidemiology, risk factors and diagnosis].
+
+[Article in German]
+
+Grünauer-Kloevekorn C(1), Duncker GI.
+
+Author information: 
+(1)Universitätsaugenklinik mit Poliklinik der Martin-Luther-Universität
+Halle-Wittenberg. claudia.gruenauer-kloevekorn@medizin.uni-halle.de
+
+Keratoconus is a bilateral, non-inflammatory and progredient corneal ectasia with
+an incidence of approximately 1 per 2,000 in the general population. Within the
+second decade of life the cornea develops a conical shape, due to thinning of the
+corneal stroma with subsequent irregular astigmatism and myopia leading to marked
+impairment of vision. The most common presentation of the keratoconus is as a
+sporadic disorder, but it has long been recognized that a significant minority of
+patients exhibit a family history as an autosomal dominant mode of inheritance.
+Most investigators suggest complete penetrance of predisposing factors with
+variable phenotypic expression. In some patients heterozygous mutations in the
+VSX1 gene are described as the underlying gene defect. An association with Down
+syndrome, monosomia X (Turner syndrome), Leber's congenital amaurosis, mitral
+valve prolaps, collagenosis, retinitis pigmentosa and Marfan syndrome is
+described. The role of corneal cells in the pathogenesis of keratoconus is
+supported by the published reports of recurrence of keratoconus in eyes after
+penetrating keratoplasty due to graft repopulation by the recipient cells.
+Placido-based computeed videokeratographic corneal curvature mapping systems,
+linked with pachymetry, are useful for identifying overt and subclinical cases of
+keratoconus. Different indices may quantify the clinical features of keratoconus 
+and may improve the classification. We compared videokeratometric data (Fourier
+series harmonic analysis and wavefront analysis) in eyes with keratoconus to
+answer the question of which parameters are useful for early diagnosis of
+keratoconus.
+
+PMID: 16804819  [PubMed - indexed for MEDLINE]
+
+
+70. Invest Ophthalmol Vis Sci. 2006 Jul;47(7):2820-2.
+
+No VSX1 gene mutations associated with keratoconus.
+
+Aldave AJ(1), Yellore VS, Salem AK, Yoo GL, Rayner SA, Yang H, Tang GY, Piconell 
+Y, Rabinowitz YS.
+
+Author information: 
+(1)Cornea Service, The Jules Stein Eye Institute, David Geffen School of Medicine
+at UCLA, Los Angeles, California 90095, USA. aldave@jsei.ucla.edu
+
+PURPOSE: To determine whether mutations of the VSX1 gene play a pathogenetic role
+in the development of keratoconus (KTCN).
+METHODS: DNA extraction, PCR amplification, and direct sequencing of the VSX1
+gene were performed in 100 unrelated patients with diagnoses of clinical and
+topographic features of KTCN.
+RESULTS: Of the four previously identified presumed pathogenic mutations in the
+VSX1 gene (Leu17Pro, Asp144Glu, Leu159Met, and Arg166Trp), only Asp144Glu was
+identified in a single affected patient. Two novel single nucleotide
+polymorphisms (SNPs), both resulting in synonymous substitutions, were
+identified: c.53G>T (Ser6Ser) in four affected patients and c.209G>T (Pro58Pro)
+in two affected patients. Two previously reported SNPs were also identified:
+c.426C>A (Arg131Ser) in one affected patient and c.581A>G (Ala182Ala) in 51 of
+the 100 affected patients.
+CONCLUSIONS: Only one of the presumed pathogenic mutations in the VSX1 gene,
+Asp144Glu, was identified in a single member of the cohort of affected patients. 
+However, as previously demonstrated, Asp144Glu is a non-disease-causing
+polymorphism. The absence of pathogenic mutations in the VSX1 gene in a large
+number of unrelated KTCN patients indicates that other genetic factors are
+involved in the development of this disorder.
+
+PMID: 16799019  [PubMed - indexed for MEDLINE]
+
+
+71. Invest Ophthalmol Vis Sci. 2006 Jan;47(1):48-54.
+
+H244R VSX1 is associated with selective cone ON bipolar cell dysfunction and
+macular degeneration in a PPCD family.
+
+Valleix S(1), Nedelec B, Rigaudiere F, Dighiero P, Pouliquen Y, Renard G, Le
+Gargasson JF, Delpech M.
+
+Author information: 
+(1)Laboratoire de Biochimie et Génétique Moléculaire, Hôpital Cochin, Paris,
+France. sophie.valleix@cch.ap-hop-paris.fr
+
+PURPOSE: To elucidate the retinal dysfunction and the molecular basis of
+posterior polymorphous corneal dystrophy (PPCD) associated with macular
+dystrophy, both inherited in a dominant manner through a three-generation family.
+METHODS: Ophthalmologic examinations including slit lamp examination, visual
+acuity tests, fundus visualization by scanning laser ophthalmoscopy, fluorescein 
+angiography, color vision tests, electro-oculography, photopic and scotopic
+electroretinography (ERG) according to the International Society for Clinical
+Electrophysiology of Vision (ISCEV) protocols, and oscillatory potential (OP)
+recordings were conducted on affected family members. Corneal button from one
+affected patient was examined by transmission electron microscopy. All exons and 
+intron-exon boundaries of the VSX1 and the COL8A2 genes were amplified by
+polymerase chain reaction and sequenced.
+RESULTS: The presence of endothelial cells that have epithelial-like features
+with multiple layers, desmosomal junctions, and microvillous projections supports
+the diagnosis of PPCD. Sequence analysis indicated that the H244R variant in the 
+VSX1 segregated with corneal and macular disease phenotypes in this family.
+Electrophysiologic studies indicated normal scotopic ERG findings, decreased
+amplitude of the photopic b-wave, photopic OP2 and OP3 barely recordable with a
+preserved OP4 amplitude, and variably decreased 30-Hz flicker amplitude.
+CONCLUSIONS: The human VSX1 is required for cone ON bipolar cell function but not
+for rod and cone OFF bipolar cells, giving a unique example of such a selective
+heritable retinal defect in humans. Furthermore, the authors provide the first
+clinical support for a new alternative role of VSX1 in cone biology, probably
+similar to that proposed for its goldfish ortholog during retinal
+differentiation.
+
+PMID: 16384943  [PubMed - indexed for MEDLINE]
+
+
+72. Invest Ophthalmol Vis Sci. 2005 Dec;46(12):4480-4.
+
+Posterior polymorphous corneal dystrophy in Czech families maps to chromosome 20 
+and excludes the VSX1 gene.
+
+Gwilliam R(1), Liskova P, Filipec M, Kmoch S, Jirsova K, Huckle EJ, Stables CL,
+Bhattacharya SS, Hardcastle AJ, Deloukas P, Ebenezer ND.
+
+Author information: 
+(1)Wellcome Trust Sanger Institute, Hinxton, United Kingdom.
+
+PURPOSE: Posterior polymorphous corneal dystrophy (PPCD) is an autosomal dominant
+disorder, affecting both the corneal endothelium and Descemet's membrane. In the 
+Czech Republic, PPCD is one of the most prevalent corneal dystrophies. The
+purpose of this study was to determine the chromosomal locus of PPCD in two large
+Czech families, by using linkage analysis.
+METHODS: Linkage analysis was performed on 52 members of two Czech families with 
+PPCD and polymorphic microsatellite markers and lod scores were calculated. The
+candidate gene VSX1 was also screened for mutations.
+RESULTS: Significant lod scores were obtained with microsatellite markers on
+chromosome 20. Linkage analysis delineated the Czech PPCD locus to a 2.7-cM locus
+on chromosome 20, region p11.2, between flanking markers D20S48 and D20S139,
+which excluded VSX1 as the disease-causing gene in both families. In addition,
+the exclusion of VSX1 was confirmed by sequence analysis.
+CONCLUSIONS: This study reports the localization of PPCD in patients of Czech
+origin to chromosome 20 at p11.2. Linkage data and sequence analysis exclude VSX1
+as causative of PPCD in two Czech families. This refined locus for PPCD overlaps 
+the congenital hereditary endothelial dystrophy (CHED1) disease interval, and it 
+is possible that these corneal dystrophies are allelic.
+
+PMID: 16303937  [PubMed - indexed for MEDLINE]
+
+
+73. Am J Hum Genet. 2005 Nov;77(5):694-708. Epub 2005 Sep 14.
+
+Mutations in TCF8 cause posterior polymorphous corneal dystrophy and ectopic
+expression of COL4A3 by corneal endothelial cells.
+
+Krafchak CM(1), Pawar H, Moroi SE, Sugar A, Lichter PR, Mackey DA, Mian S, Nairus
+T, Elner V, Schteingart MT, Downs CA, Kijek TG, Johnson JM, Trager EH, Rozsa FW, 
+Mandal MN, Epstein MP, Vollrath D, Ayyagari R, Boehnke M, Richards JE.
+
+Author information: 
+(1)Department of Ophthalmology and Visual Sciences, W. K. Kellogg Eye Center,
+University of Michigan, Ann Arbor, MI 48105, USA.
+
+Posterior polymorphous corneal dystrophy (PPCD, also known as PPMD) is a rare
+disease involving metaplasia and overgrowth of corneal endothelial cells. In
+patients with PPCD, these cells manifest in an epithelial morphology and gene
+expression pattern, produce an aberrant basement membrane, and, sometimes, spread
+over the iris and nearby structures in a way that increases the risk for
+glaucoma. We previously mapped PPCD to a region (PPCD3) on chromosome 10
+containing the gene that encodes the two-handed zinc-finger homeodomain
+transcription factor TCF8. Here, we report a heterozygous frameshift mutation in 
+TCF8 that segregates with PPCD in the family used to map PPCD3 and four different
+heterozygous nonsense and frameshift mutations in TCF8 in four other PPCD
+probands. Family reports of inguinal hernia, hydrocele, and possible bone
+anomalies in affected individuals suggest that individuals with TCF8 mutations
+should be examined for nonocular anomalies. We detect transcripts of all three
+identified PPCD genes (VSX1, COL8A2, and TCF8) in the cornea. We show presence of
+a complex (core plus secondary) binding site for TCF8 in the promoter of Alport
+syndrome gene COL4A3, which encodes collagen type IV alpha 3, and we present
+immunohistochemical evidence of ectopic expression of COL4A3 in corneal
+endothelium of the proband of the original PPCD3 family. Identification of TCF8
+as the PPCD3 gene provides a valuable tool for the study of critical gene
+regulation events in PPCD pathology and suggests a possible role for TCF8
+mutations in altered structure and function of cells lining body cavities other
+than the anterior chamber of the eye. Thus, this study has identified TCF8 as the
+gene responsible for approximately half of the cases of PPCD, has implicated TCF8
+mutations in developmental abnormalities outside the eye, and has presented the
+TCF8 regulatory target, COL4A3, as a key, shared molecular component of two
+different diseases, PPCD and Alport syndrome.
+
+PMCID: PMC1271382
+PMID: 16252232  [PubMed - indexed for MEDLINE]
+
+
+74. Dev Biol. 2005 Nov 1;287(1):48-60. Epub 2005 Sep 22.
+
+The Iroquois homeobox gene, Irx5, is required for retinal cone bipolar cell
+development.
+
+Cheng CW(1), Chow RL, Lebel M, Sakuma R, Cheung HO, Thanabalasingham V, Zhang X, 
+Bruneau BG, Birch DG, Hui CC, McInnes RR, Cheng SH.
+
+Author information: 
+(1)Program in Developmental Biology, The Hospital for Sick Children, and
+Department of Molecular and Medical Genetics, University of Toronto, Toronto,
+Ontario, Canada M5G 1X8.
+
+In the mouse retina, at least ten distinct types of bipolar interneurons are
+involved in the transmission of visual signals from photoreceptors to ganglion
+cells. How bipolar interneuron diversity is generated during retinal development 
+is poorly understood. Here, we show that Irx5, a member of the Iroquois homeobox 
+gene family, is expressed in developing bipolar cells starting at postnatal day 5
+and is localized to a subset of cone bipolar cells in the mature mouse retina. In
+Irx5-deficient mice, defects were observed in the expression of some, but not
+all, immunohistological markers that define mature Type 2 and Type 3 OFF cone
+bipolar cells, indicating a role for Irx5 in bipolar cell differentiation. The
+differentiation of these two bipolar cell types has previously been shown to
+require the homeodomain-CVC transcription factor, Vsx1. However, the defects
+observed in Irx5-deficient retinas do not coincide with a reduction of Vsx1
+expression, and conversely, the expression of Irx5 in cone bipolar cells does not
+require the presence of a functional Vsx1 allele. These results indicate that
+there are at least two distinct genetic pathways (Irx5-dependent and
+Vsx1-dependent) regulating the development of Type 2 and Type 3 cone bipolar
+cells.
+
+PMID: 16182275  [PubMed - indexed for MEDLINE]
+
+
+75. Jpn J Ophthalmol. 2005 Mar-Apr;49(2):93-105.
+
+Expression of rinx/vsx1 during postnatal eye development in cone-bipolar,
+differentiating ganglion, and lens fiber cells.
+
+Hayashi T(1), Huang J, Deeb SS.
+
+Author information: 
+(1)Department of Medicine, University of Washington, Seattle, WA, USA.
+taka@jikei.ac.jp
+
+PURPOSE: To investigate the expression pattern of the homeobox transcription
+factor Rinx (also referred to as Vsx1) during postnatal eye development of the
+mouse.
+METHODS: We cloned the mouse Rinx gene, inferred the sequence of the encoded
+protein, and prepared polyclonal antibodies against it. Immunohistochemical
+analysis (IHC) and in situ hybridization were employed to localize Rinx in
+postnatal and adult mouse eyes. Double-labeled IHC either with anti-protein
+kinase C (PKC, a marker of rod bipolar cells) or anti-vimentin (a marker of
+Muller glial cells) antibodies was performed in the adult retina. Rinx mRNA was
+also analyzed by reverse transcription-polymerase chain reaction in the lens.
+RESULTS: At P0 and P4 (postnatal days), Rinx-immunoreactive cells included
+retinal ganglion cells (RGC), cells of the innermost nuclear layer (INL) and of
+presumptive INL, differentiating lens fiber cells, and a few cells of the
+presumptive outer nuclear layer (ONL). At P8, both Rinx protein and mRNA were
+detected in the middle of the INL, and in RGC, but not in the lens. When the mice
+were 8 weeks of age, only a subset of nuclei in the outer half of the INL
+expressed both Rinx protein and mRNA. Double-labeling IHC indicated that Rinx-
+and either PKC- or vimentin-labeled cells were not colocalized. Therefore, Rinx
+is most likely expressed in adult cone bipolar cells and possibly in horizontal
+cells.
+CONCLUSIONS: Rinx may play important roles in the differentiation and maintenance
+of cone bipolar cells. Rinx is unique among members of this family of homeodomain
+proteins in that it may also be involved in differentiation of RGC and lens fiber
+cells.
+
+PMID: 15838724  [PubMed - indexed for MEDLINE]
+
+
+76. Mol Cell Biol. 2005 Apr;25(7):2573-82.
+
+Nuclear export is evolutionarily conserved in CVC paired-like homeobox proteins
+and influences protein stability, transcriptional activation, and extracellular
+secretion.
+
+Knauer SK(1), Carra G, Stauber RH.
+
+Author information: 
+(1)Georg-Speyer-Haus, Institute for Biomedical Research, Paul-Ehrlich-Str. 42-44,
+D-60596 Frankfurt, Germany.
+
+Homeodomain transcription factors control a variety of essential cell fate
+decisions during development. To understand the developmental regulation by these
+transcription factors, we describe here the molecular analysis of paired-like CVC
+homeodomain protein (PLC-HDP) trafficking. Complementary experimental approaches 
+demonstrated that PLC-HDP family members are exported by the Crm1 pathway and
+contain an evolutionary conserved leucine-rich nuclear export signal.
+Importantly, inactivation of the nuclear export signal enhanced protein
+stability, resulting in increased transactivation of transfected reporters and
+decreased extracellular secretion. In addition, PLC-HDPs harbor a conserved
+active nuclear import signal that could also function as a protein transduction
+domain. In our study, we characterized PLC-HDPs as mobile nucleocytoplasmic
+shuttle proteins with the potential for unconventional secretion and
+intercellular transfer. Nucleocytoplasmic transport may thus represent a
+conserved control mechanism to fine-tune the transcriptional activity of PLC-HDPs
+prerequisite for regulating and maintaining the complex expression pattern during
+development.
+
+PMCID: PMC1061648
+PMID: 15767664  [PubMed - indexed for MEDLINE]
+
+
+77. Cornea. 2005 Mar;24(2):151-5.
+
+Candidate gene screening for posterior polymorphous dystrophy.
+
+Aldave AJ(1), Yellore VS, Principe AH, Abedi G, Merrill K, Chalukya M, Small KW, 
+Udar N.
+
+Author information: 
+(1)Cornea Service, The Jules Stein Eye Institute, University of California, Los
+Angeles, California 90095, USA. aldave@jsei.ucla.edu
+
+PURPOSE: To perform candidate gene screening for posterior polymorphous corneal
+dystrophy (PPCD). The initial 3 genes chosen, ID1, BCL2L1, and VSX1, lie within
+the region on chromosome 20 to which the PPCD gene has been linked, and mutations
+in VSX1 have previously been identified in patients with PPCD.
+METHODS: DNA extraction, PCR amplification, and direct sequencing of the VSX1,
+BCL2L1, and ID1 genes were performed in 14 affected patients (12 families) as
+well as in unaffected family members and healthy control subjects.
+RESULTS: No coding region mutations in the BCL2L1 or ID1 genes were identified in
+affected patients. In the VSX1 gene, the previously identified Gly160Asp missense
+change was not present in any of our 12 probands, and the Asp144Glu mutation was 
+identified in 1 affected patient as well as 1 unaffected control individual.
+Additionally, 2 synonymous substitutions were identified, Ala182Ala (8 affected
+patients from 8 families) and Gly239Gly (1 affected patient and 1 unaffected
+patient from the same family). In the ID1 gene, the synonymous substitution
+Gly216Gly was observed in 2 affected patients (2 families) who also demonstrated 
+a single nucleotide change in both the 5'UTR (2129T>C) and 3'UTR (3267A>G).
+Another 5'UTR change, 2177T>C, was identified in 1 affected patient and his
+unaffected parent, both of whom also demonstrated the 2129T>C and 3267A>G
+changes.
+CONCLUSIONS: None of the 12 probands with PPCD demonstrated the previously
+described Gly160Asp mutation within the VSX1 gene. The Asp144Glu missense change,
+present in an affected patient as well as an unaffected control individual,
+appears to be a rare polymorphism, not a disease-causing mutation. No coding
+region changes were identified in the ID1 or BCL2L1 genes. Therefore, although we
+report a number of novel polymorphisms in the VSX1 and ID1 genes, the failure to 
+identify any sequence variants that sort with the disease phenotype suggests that
+other genetic factors are involved in PPCD.
+
+PMID: 15725882  [PubMed - indexed for MEDLINE]
+
+
+78. J Neurosci. 2005 Jan 26;25(4):941-9.
+
+Two ribeye genes in teleosts: the role of Ribeye in ribbon formation and bipolar 
+cell development.
+
+Wan L(1), Almers W, Chen W.
+
+Author information: 
+(1)Vollum Institute, Oregon Health and Science University, Portland, Oregon
+97239, USA.
+
+Ribeye is the only known protein specific to synaptic ribbon, but its function is
+unclear. We show that the teleost fish, Fugu and zebrafish, have two ribeye
+genes, ribeye a and ribeye b. Whole-mount in situ hybridization revealed that
+ribeye a is expressed in tissues containing synaptic ribbons, including the
+pineal gland, inner ear, and retina. Ribeye b is absent in the pineal gland. In
+the retina, ribeye a is expressed in both photoreceptors and bipolar cells,
+whereas ribeye b is detected only in photoreceptors. To study the function of
+Ribeye a in retina, we depleted it by morpholino antisense oligos. Fish deficient
+in Ribeye a lack an optokinetic response and have shorter synaptic ribbons in
+photoreceptors and fewer synaptic ribbons in bipolar cells. Their bipolar cells
+still target Syntaxin-3 proteins to the inner plexiform layer and have abundant
+vsx1 mRNA. However, they lack large synaptic terminals and show increased
+apoptosis. Rod bipolar cells are fewer in number and/or deficient in PKCalpha.
+Recovery of Ribeye a levels rescues the optokinetic response, increases the
+number of PKCalpha-positive bipolar cells, and stops apoptosis. We conclude that 
+Ribeye a is important for late steps in bipolar cell development.
+
+PMID: 15673675  [PubMed - indexed for MEDLINE]
+
+
+79. J Biol Chem. 2005 Mar 18;280(11):10100-8. Epub 2005 Jan 12.
+
+Transcriptional activity of the paired-like homeodomain proteins CHX10 and VSX1.
+
+Dorval KM(1), Bobechko BP, Ahmad KF, Bremner R.
+
+Author information: 
+(1)Toronto Western Research Institute, University Health Network Program,
+University of Toronto, Toronto, Ontario M5T 2S8, Canada.
+
+CHX10 and VSX1 are homeodomain (HD) proteins essential for normal retinal
+development. CHX10 is required first for retinal progenitor cell proliferation
+and later for bipolar cell differentiation, whereas VSX1 is important in the
+terminal differentiation of a subset of bipolar cells. Elucidating the
+transcriptional activity of CHX10 and VSX1 is required to understand how these
+factors control retinal development. We show that CHX10 and Vsx1 can function as 
+transcriptional repressors. When tethered to a promoter by a heterologous LexA
+DNA-binding domain or its HD, CHX10 repressed multiple classes of activators in
+different immortalized cell lines. CHX10 blocked TATA-containing and TATA-less
+promoters, repressed at a distance, and inhibited a complex enhancer positioned
+upstream or downstream of the reporter gene, whereas retinoblastoma protein (RB) 
+inhibited the downstream enhancer only. Interestingly, CHX10 mildly potentiated a
+subset of activators in chick neuronal cultures. Thus, CHX10 is both a versatile 
+repressor and a context-specific weak activator. The CHX10 HD and CVC domains
+were sufficient for DNA binding and repression. VSX1 contains closely related
+homeo and CVC domains and, like CHX10, also repressed transcription. A VSX1 HD
+mutation, R166W, that impairs DNA binding and causes keratoconus in humans,
+hindered repressor function. Therefore, CHX10 and VSX1 may control retinal
+bipolar cell specification or differentiation by repressing genes required for
+the development of other cell types.
+
+PMID: 15647262  [PubMed - indexed for MEDLINE]
+
+
+80. Ophthalmology. 2005 Jan;112(1):170-1; author reply 171-2.
+
+VSX1 mutation and corneal dystrophies.
+
+Aldave AJ.
+
+Comment on
+    Ophthalmology. 2004 Apr;111(4):828-36.
+
+PMID: 15629844  [PubMed - indexed for MEDLINE]
+
+
+81. Invest Ophthalmol Vis Sci. 2005 Jan;46(1):39-45.
+
+VSX1 mutational analysis in a series of Italian patients affected by keratoconus:
+detection of a novel mutation.
+
+Bisceglia L(1), Ciaschetti M, De Bonis P, Campo PA, Pizzicoli C, Scala C, Grifa
+M, Ciavarella P, Delle Noci N, Vaira F, Macaluso C, Zelante L.
+
+Author information: 
+(1)Medical Genetics Service and Ophthalmology Department, IRCCS-CSS Hospital, San
+Giovanni Rotondo (Fg), Italy.
+
+PURPOSE: Keratoconus is a noninflammatory corneal disorder that is clinically and
+genetically heterogeneous. Mutations in the VSX1 (visual system homeobox 1) gene 
+have been identified for two distinct, inherited corneal dystrophies: posterior
+polymorphous corneal dystrophy and keratoconus. To evaluate the possible role of 
+the VSX1 gene in a series of Italian patients, 80 keratoconus-affected subjects
+were screened for mutations.
+METHODS: The diagnosis of keratoconus was made on the basis of clinical
+examination and corneal topography. The whole coding region and the exon-intron
+junctions of the VSX1 gene were analyzed by direct sequencing.
+RESULTS: Three already-described changes, D144E, G160D, and P247R, and a novel
+L17P mutation were found in 7 of 80 unrelated patients (8.7%). Two undescribed
+intronic polymorphisms are also reported.
+CONCLUSIONS: Mutational analysis of the VSX1 gene in a series of Italian patients
+revealed one novel mutation and confirmed an important role played by this gene
+in a significant proportion of patients affected by keratoconus, when it is
+inherited as an autosomal dominant trait with variable expressivity and
+incomplete penetrance.
+
+PMID: 15623752  [PubMed - indexed for MEDLINE]
+
+
+82. Ophthalmology. 2004 Apr;111(4):828-36.
+
+VSX1 (RINX) mutation with craniofacial anomalies, empty sella, corneal
+endothelial changes, and abnormal retinal and auditory bipolar cells.
+
+Mintz-Hittner HA(1), Semina EV, Frishman LJ, Prager TC, Murray JC.
+
+Author information: 
+(1)Department of Ophthalmology and Visual Science, University of Texas-Houston
+Medical School, 6410 Fannin, Suite 920, Houston, TX 77030-5204, USA.
+Helen.A.Mintz-Hittner@uth.tmc.edu
+
+Comment in
+    Ophthalmology. 2005 Jan;112(1):170-1; author reply 171-2.
+
+PURPOSE: To present a previously unreported African American family with 1
+variation and 1 mutation of the homeobox transcription factor gene, VSX1 (RINX), 
+and to describe the clinical features of family members.
+DESIGN: Family genotype and clinical studies.
+PARTICIPANTS: A 3-generation family with 7 available family members.
+METHODS: Blood was drawn from all available family members, and the VSX1 (RINX)
+gene was sequenced. Craniofacial abnormalities, central nervous system defects,
+anterior segment features, and retinal and auditory function were assessed.
+MAIN OUTCOME MEASURES: Main outcome measures included identification and
+molecular characterization of 1 variation and 1 mutation in VSX1 (RINX) of 4
+affected family members (3 adults and 1 child). Craniofacial features were
+documented. Central neuroimaging was performed. Ophthalmologic findings were
+described. Retinal and auditory functions were quantified.
+RESULTS: Two changes in VSX1 (RINX) were identified: a variation (R131S) not in a
+critical region and in few controls, and a mutation (A256S) in the critical
+CVC-domain and not in any controls. Both were present on 1 chromosome at 20p11.2 
+and were segregated with the 4 affected patients. Clinical features demonstrated 
+extremely variable expressivity. Craniofacial features, including wide
+interpupillary distance and unusual pinnae, occurred in the 4 affected patients. 
+Neuroimaging demonstrated that the propositus had an empty sella turcica, a
+posterior fossa cyst, an anterior encephalocele, hypertelorism, and severe
+hydrocephalus; her mother had a partially empty sella turcica, a small pituitary 
+gland without any subarachnoid extension of fluid, and hypertelorism; and her
+older sister had hypertelorism but otherwise normal neuroimaging results.
+Anterior segment anomalies of the corneal endothelium were a constant finding in 
+all affected family members. Electrophysiologic examination provided evidence for
+abnormal cone bipolar cells (visual evoked response and electroretinogram) in the
+adult affected patients and for abnormal auditory bipolar cells (audiogram and
+audio-evoked brainstem response) in the propositus.
+CONCLUSIONS: The new mutation in the VSX1 (RINX) gene described in this report
+results in abnormal craniofacial features, absence of the roof of the sella
+turcica, and anomalous development of the corneal endothelium. This mutation also
+impacts on the maintenance of cone bipolar cells of the visual system and of
+bipolar cells of the auditory system.
+
+PMID: 15051220  [PubMed - indexed for MEDLINE]
+
+
+83. Curr Biol. 2004 Mar 23;14(6):530-6.
+
+Regulation of retinal cone bipolar cell differentiation and photopic vision by
+the CVC homeobox gene Vsx1.
+
+Ohtoshi A(1), Wang SW, Maeda H, Saszik SM, Frishman LJ, Klein WH, Behringer RR.
+
+Author information: 
+(1)Department of Molecular Genetics, University of Texas M. D. Anderson Cancer
+Center, Houston, TX 77030, USA.
+
+Cone bipolar cells of the vertebrate retina connect photoreceptors with ganglion 
+cells to mediate photopic vision. Despite this important role, the mechanisms
+that regulate cone bipolar cell differentiation are poorly understood. VSX1 is a 
+CVC domain homeoprotein specifically expressed in cone bipolar cells. To
+determine the function of VSX1, we generated Vsx1 mutant mice and found that Vsx1
+mutant retinal cells form but do not differentiate a mature cone bipolar cell
+phenotype. Electrophysiological studies demonstrated that Vsx1 mutant mice have
+defects in their cone visual pathway, whereas the rod visual pathway was
+unaffected. Thus, Vsx1 is required for cone bipolar cell differentiation and
+regulates photopic vision perception.
+
+PMID: 15043821  [PubMed - indexed for MEDLINE]
+
+
+84. Proc Natl Acad Sci U S A. 2004 Feb 10;101(6):1754-9. Epub 2004 Jan 26.
+
+Control of late off-center cone bipolar cell differentiation and visual signaling
+by the homeobox gene Vsx1.
+
+Chow RL(1), Volgyi B, Szilard RK, Ng D, McKerlie C, Bloomfield SA, Birch DG,
+McInnes RR.
+
+Author information: 
+(1)Program in Developmental Biology, Research Institute, Hospital for Sick
+Children, Toronto, Ontario, Canada M5G 1X8.
+
+Retinal bipolar cells are interneurons that transmit visual signals from
+photoreceptors to ganglion cells. Although the visual pathways mediated by
+bipolar cells have been well characterized, the genes that regulate their
+development and function are largely unknown. To determine the role in bipolar
+cell development of the homeobox gene Vsx1, whose retinal expression is
+restricted to a major subset of differentiating and mature cone bipolar (CB)
+cells, we targeted the gene in mice. Bipolar cell fate was not altered in the
+absence of Vsx1 function, because the pan-bipolar markers Chx10 and Ret-B1
+continued to be expressed in inner nuclear layer neurons labeled by the
+Vsx1-targeting reporter gene, tauLacZ. The specification, number, and gross
+morphology of the subset of on-center and off-center (OFF)-CB cells defined by
+tauLacZ expression from the Vsx1 locus were also normal in
+Vsx1(tauLacZ)/Vsx1(tauLacZ) mice. However, the terminal differentiation of OFF-CB
+cells in the retina of Vsx1(tauLacZ)/Vsx1(tauLacZ) mice was incomplete, as
+demonstrated by a substantial reduction in the expression of at least four
+markers (recoverin, NK3R, Neto1, and CaB5) for these interneurons. These
+molecular abnormalities were associated with defects in retinal function and
+documented by electroretinography and in vitro ganglion cell recordings specific 
+to cone visual signaling. In particular, there was a general reduction in the
+light-mediated activity of OFF, but not on-center, ganglion cells. Thus, Vsx1 is 
+required for the late differentiation and function of OFF-CB cells and is
+associated with a heritable OFF visual pathway-specific retinal defect.
+
+PMCID: PMC341848
+PMID: 14745032  [PubMed - indexed for MEDLINE]
+
+
+85. Hum Mol Genet. 2002 May 1;11(9):1029-36.
+
+VSX1: a gene for posterior polymorphous dystrophy and keratoconus.
+
+Héon E(1), Greenberg A, Kopp KK, Rootman D, Vincent AL, Billingsley G, Priston M,
+Dorval KM, Chow RL, McInnes RR, Heathcote G, Westall C, Sutphin JE, Semina E,
+Bremner R, Stone EM.
+
+Author information: 
+(1)Cellular and Molecular Division, Toronto Western Research Institute, Toronto
+Western Hospital, 399 Bathurst Street, Toronto, Ontario, Canada M5T 2S8.
+eheon@uhnres.utoronto.ca
+
+We identified mutations in the VSX1 homeobox gene for two distinct inherited
+corneal dystrophies; posterior polymorphous dystrophy (PPD) and keratoconus. One 
+of the mutation (R166W) responsible for keratoconus altered the homeodomain and
+impaired DNA binding. Two other sequence changes (L159M and G160D) were
+associated with keratoconus and PPD, respectively, and involved a region adjacent
+to the homeodomain. The G160D substitution, and a fourth defect affecting the
+highly conserved CVC domain (P247R), occurred in a child with very severe PPD who
+required a corneal transplant at 3 months of age. In this family, relatives with 
+the G160D change alone had mild to moderate PPD, while P247R alone caused no
+corneal abnormalities. However, with either the G160D or P247R mutation,
+electroretinography detected abnormal function of the inner retina, where VSX1 is
+expressed. These data define the molecular basis of two important corneal
+dystrophies and reveal the importance of the CVC domain in the human retina.
+
+PMID: 11978762  [PubMed - indexed for MEDLINE]
+
+
+86. Mech Dev. 2001 Dec;109(2):315-22.
+
+Vsx1, a rapidly evolving paired-like homeobox gene expressed in cone bipolar
+cells.
+
+Chow RL(1), Snow B, Novak J, Looser J, Freund C, Vidgen D, Ploder L, McInnes RR.
+
+Author information: 
+(1)Program in Developmental Biology, The Research Institute, Hospital for Sick
+Children, 555 University Ave., Toronto, Ontario M5G 1X8, Canada.
+
+The paired-like homeodomain (HD) protein Chx10 is distinguished by the presence
+of the CVC domain, a conserved 56 amino acid sequence C-terminal to the HD. In
+mammals, Chx10 is essential both for the proliferation of retinal progenitor
+cells and for the formation or survival of retinal bipolar interneurons. We
+describe the cloning and characterization of a mouse Chx10 homologue, Vsx1;
+phylogenetic analysis suggests that Vsx1 and its putative vertebrate orthologues 
+have evolved rapidly. Vsx1 expression in the adult is predominantly retinal.
+Whereas Chx10 is expressed both in retinal progenitors in the developing eye and 
+apparently in all bipolar cells of the mature retina, Vsx1 expression is first
+detected in the eye at postnatal day 5, where it is restricted to cone bipolar
+cells.
+
+PMID: 11731243  [PubMed - indexed for MEDLINE]
+
+
+87. Development. 2001 Oct;128(20):4035-44.
+
+Medaka eyeless is the key factor linking retinal determination and eye growth.
+
+Loosli F(1), Winkler S, Burgtorf C, Wurmbach E, Ansorge W, Henrich T, Grabher C, 
+Arendt D, Carl M, Krone A, Grzebisz E, Wittbrodt J.
+
+Author information: 
+(1)European Molecular Biology Laboratory, Developmental Biology Programme,
+Meyerhofstr. 1, 69117 Heidelberg, Germany.
+
+The complete absence of eyes in the medaka fish mutation eyeless is the result of
+defective optic vesicle evagination. We show that the eyeless mutation is caused 
+by an intronic insertion in the Rx3 homeobox gene resulting in a transcriptional 
+repression of the locus that is rescued by injection of plasmid DNA containing
+the wild-type locus. Functional analysis reveals that Six3- and Pax6- dependent
+retina determination does not require Rx3. However, gain- and loss-of-function
+phenotypes show that Rx3 is indispensable to initiate optic vesicle evagination
+and to control vesicle proliferation, by that regulating organ size. Thus, Rx3
+acts at a key position coupling the determination with subsequent morphogenesis
+and differentiation of the developing eye.
+
+PMID: 11641226  [PubMed - indexed for MEDLINE]
+
+
+88. Biochem Biophys Res Commun. 2001 Aug 10;286(1):133-40.
+
+Isolation and characterization of Vsx1, a novel mouse CVC paired-like homeobox
+gene expressed during embryogenesis and in the retina.
+
+Ohtoshi A(1), Justice MJ, Behringer RR.
+
+Author information: 
+(1)Department of Molecular Genetics, M. D. Anderson Cancer Center, University of 
+Texas, 1515 Holcombe Boulevard, Houston, TX 77030, USA.
+
+Gastrula stage mouse embryo RNA was screened by degenerate RT-PCR to yield a
+novel paired-like homeobox gene. The open reading frame encoded by the cDNA was
+most similar to human VSX1. Mouse Vsx1 encodes a protein of 363 amino acid
+residues that contains a CVC domain that was originally identified as a conserved
+motif among mouse CHX10, goldfish VSX-1 and C. elegans CEH-10. Linkage analysis
+showed that mouse Vsx1 mapped to the distal region of chromosome 2. RT-PCR
+analysis detected mouse Vsx1 transcripts from gastrulation and post-gastrulation 
+stage mouse embryos, suggesting a role for Vsx1 during mouse embryogenesis.
+Analysis of the eyes of mouse chimeras generated with embryonic stem cells in
+which a lacZ reporter was targeted to the Vsx1 locus suggested that Vsx1 is
+expressed in the inner nuclear layer of the retina.
+
+Copyright 2001 Academic Press.
+
+PMID: 11485319  [PubMed - indexed for MEDLINE]
+
+
+89. Proc Natl Acad Sci U S A. 2001 May 8;98(10):5602-7. Epub 2001 May 1.
+
+Ubc9 interacts with a nuclear localization signal and mediates nuclear
+localization of the paired-like homeobox protein Vsx-1 independent of SUMO-1
+modification.
+
+Kurtzman AL(1), Schechter N.
+
+Author information: 
+(1)Department of Biochemistry and Cell Biology, State University of New York,
+Stony Brook, NY 11794, USA.
+
+Vsx-1 is a paired-like:CVC homeobox gene whose expression is linked to bipolar
+cell differentiation during zebrafish retinogenesis. We used a yeast two-hybrid
+screen to identify proteins interacting with Vsx-1 and isolated Ubc9, an enzyme
+that conjugates the small ubiquitin-like modifier SUMO-1. Despite its interaction
+with Ubc9, we show that Vsx-1 is not a substrate for SUMO-1 in COS-7 cells or in 
+vitro. When a yeast two-hybrid assay is used, deletion analysis of the
+interacting domain on Vsx-1 shows that Ubc9 binds to a nuclear localization
+signal (NLS) at the NH(2) terminus of the homeodomain. In SW13 cells, Vsx-1
+localizes to the nucleus and is excluded from nucleoli. Deletion of the NLS
+disrupts this nuclear localization, resulting in a diffuse cytoplasmic
+distribution of Vsx-1. In SW13 AK1 cells that express low levels of endogenous
+Ubc9, Vsx-1 accumulates in a perinuclear ring and colocalizes with an endoplasmic
+reticulum marker. However, NLS-tagged STAT1 protein exhibits normal nuclear
+localization in both SW13 and SW13 AK1 cells, suggesting that nuclear import is
+not globally disrupted. Cotransfection of Vsx-1 with Ubc9 restores Vsx-1 nuclear 
+localization in SW3 AK1 cells and demonstrates that Ubc9 is required for the
+nuclear localization of Vsx-1. Ubc9 continues to restore nuclear localization
+even after a C93S active site mutation has eliminated its SUMO-1-conjugating
+ability. These results suggest that Ubc9 mediates the nuclear localization of
+Vsx-1, and possibly other proteins, through a nonenzymatic mechanism that is
+independent of SUMO-1 conjugation.
+
+PMCID: PMC33259
+PMID: 11331779  [PubMed - indexed for MEDLINE]
+
+
+90. Genomics. 2000 Jul 15;67(2):128-39.
+
+RINX(VSX1), a novel homeobox gene expressed in the inner nuclear layer of the
+adult retina.
+
+Hayashi T(1), Huang J, Deeb SS.
+
+Author information: 
+(1)Department of Medicine, University of Washington, Seattle, Washington 98195,
+USA.
+
+The locus control region (LCR) of the human red and green visual pigment genes is
+critical for the formation of functional red and green cones in the retina. A
+37-bp core of the LCR is perfectly conserved among mammals and binds specific
+retinal nuclear proteins. Here, we employed a yeast one-hybrid screen of an adult
+retinal cDNA library to clone and characterize these proteins. We identified
+clones encoding homeodomain (HD) transcription factors Pax6, Rx, and Chx10 and a 
+novel paired-like HD protein, RINX. In the adult retina, RINX is exclusively
+expressed in a subset of cells (likely to be bipolar cells) of the retinal inner 
+nuclear layer (INL). RINX is closely related to Chx10, which is also exclusively 
+expressed in the INL of the adult retina and is critical for retinal development.
+The RINX gene is expressed in two classes of mRNA. One class encodes proteins
+that lack either part of or all of the HD, but retain the transcriptional
+activation domain. The RINX gene maps to chromosome 20p11.2 to which no retinal
+disease has been assigned. In conclusion, the LCR contains two adjacent motifs
+that are targets for binding of HD proteins that may specify the development and 
+differentiation of cone photoreceptors and a subset of INL bipolar cells.
+Mutations in the related human CHX10 gene cause microphthalmia in a subset of
+families, and, therefore, the RINX gene is a candidate for this phenotype in
+another subset of patients. Since the RINX gene is likely an ortholog of the
+goldfish Vsx1 gene, it has been named VSX1 by the Human Gene Nomenclature
+Committee.
+
+Copyright 2000 Academic Press.
+
+PMID: 10903837  [PubMed - indexed for MEDLINE]
+
+
+91. J Neurochem. 2000 Jul;75(1):48-55.
+
+Ubiquitination and degradation of the zebrafish paired-like homeobox protein
+VSX-1.
+
+Kurtzman AL(1), Gregori L, Haas AL, Schechter N.
+
+Author information: 
+(1)Department of Biochemistry, Health Sciences Center, Institute for
+Developmental Biology, State University of New York, Stony Brook, New York, USA.
+
+Vsx-1 is a paired-like : CVC homeobox protein dynamically expressed during
+zebrafish development. Previous results indicate that Vsx-1 influences bipolar
+cell differentiation and maintenance of these cells in the adult retina. To
+understand the developmental regulation of this transcription factor, we
+investigated ubiquitination as a possible posttranslational mechanism. In vitro, 
+Vsx-1 was conjugated with multiple ubiquitin moieties. Proteasome inhibitors and 
+added ubiquitin increased the accumulation of Vsx-1-ubiquitin(n) complexes and
+stabilized unmodified Vsx-1. Also, in transiently transfected COS-7 cells, Vsx-1 
+is ubiquitinated, and pulse-chase experiments show that Vsx-1 proteolysis occurs.
+Vsx-1 proteins with C-terminal deletions retained the capacity for initial
+modification by ubiquitin but lost the capacity for efficient chain elongation.
+These results show that Vsx-1 is a substrate of the ubiquitin/proteasome pathway 
+and suggest that C-terminal sequences of Vsx-1 are critical for ubiquitin chain
+elongation. In addition, our findings suggest that ubiquitin-dependent
+proteolysis regulates Vsx-1 during zebrafish retinal development.
+
+PMID: 10854246  [PubMed - indexed for MEDLINE]
+
+
+92. Genomics. 2000 Jan 15;63(2):289-93.
+
+Isolation and characterization of a novel human paired-like
+homeodomain-containing transcription factor gene, VSX1, expressed in ocular
+tissues.
+
+Semina EV(1), Mintz-Hittner HA, Murray JC.
+
+Author information: 
+(1)Department of Pediatrics, University of Iowa, Iowa City, Iowa 52242, USA.
+esemina@blue.weeg.uiowa.edu
+
+Homeodomain transcription factors control cell fates during the development of
+all animals. The paired-like subfamily of homeodomain proteins has been
+particularly implicated in ocular development in different species. In this paper
+we report the cDNA sequence, genomic structure, localization, and expression data
+of a novel paired-like homeobox-containing gene, VSX1, isolated from a human
+embryonic craniofacial cDNA library using the degenerate-PCR approach. The
+composed VSX1 cDNA sequence of 1433 bp was predicted to encode a protein of 365
+amino acid residues. Maximal homology at the protein level was identified with
+the paired-like homeoproteins of the CVC-domain family: 92-97% identity was seen 
+in the homeodomain region with 55% overall identity to zebrafish and goldfish
+Vsx1 and 35% overall identity to goldfish Vsx2 and murine Chx10. The gene was
+found to consist of five exons that are distributed over 6.2 kb of genomic
+sequence. VSX1 was localized to the 20p11-q11 region, which is homologous with
+the distal part of mouse chromosome 2. Expression of VSX1 was detected in
+embryonic craniofacial and adult ocular tissues. Several ocular phenotypes have
+been mapped to the VSX1 region in both human and mouse genomes, and its candidacy
+for these disorders is discussed.
+
+Copyright 2000 Academic Press.
+
+PMID: 10673340  [PubMed - indexed for MEDLINE]
+
+
+93. Dev Genet. 1998;23(2):128-41.
+
+Cloning of zebrafish vsx1: expression of a paired-like homeobox gene during CNS
+development.
+
+Passini MA(1), Kurtzman AL, Canger AK, Asch WS, Wray GA, Raymond PA, Schechter N.
+
+Author information: 
+(1)Department of Biochemistry and Cell Biology, State University of New York at
+Stony Brook 11794, USA.nschecher@mail.psychiatry.sunysb.edu.
+
+vsx1 is a homeobox gene encoding a paired-type homeodomain and a CVC domain that 
+was originally cloned from an adult goldfish retinal library. We previously
+reported the spatiotemporal expression pattern of vsx1 in the adult and
+developing retina of zebrafish and goldfish, and we suggested that vsx1 plays a
+role in determining the cell fate and maintenance of retinal interneurons. Other 
+related genes encoding a CVC domain, such as vsx2 (alx) and chx10, are expressed 
+both within and outside the retina during development. In this study, we report
+the cloning of zebrafish vsx1 and its developmental expression in both retinal
+and nonretinal regions of the CNS in zebrafish embryos. vsx1 expression was
+detected in a subset of hindbrain and spinal cord neurons before it was expressed
+in the retina. At about the same time that retinal expression began, the level of
+vsx1 was decreased in the spinal cord. The expression of vsx1 was progressively
+restricted, and eventually it was detected only in the inner nuclear layer (INL) 
+of the developing retina. The combined expression patterns of teleost vsx1 and
+vsx2 (alx) during early zebrafish development encompasses the expression pattern 
+observed for murine Chx10, and indicates a partitioning of function for CVC genes
+in lower vertebrates.
+
+PMID: 9770270  [PubMed - indexed for MEDLINE]
+
+
+94. J Comp Neurol. 1997 Nov 24;388(3):495-505.
+
+Vsx-1 and Vsx-2: differential expression of two paired-like homeobox genes during
+zebrafish and goldfish retinogenesis.
+
+Passini MA(1), Levine EM, Canger AK, Raymond PA, Schechter N.
+
+Author information: 
+(1)Department of Biochemistry and Cell Biology, State University of New York at
+Stony Brook 11794, USA.
+
+Vsx-1 and Vsx-2 are two homeobox genes that were cloned originally from an adult 
+goldfish retinal library. They are members of the paired-like:CVC gene family,
+which is characterized by the presence of a paired homeodomain and an additional 
+conserved region, termed the CVC domain. To analyze the possible roles for Vsx-1 
+and Vsx-2 in eye development, we used in situ hybridization to examine their
+expression patterns in zebrafish and goldfish embryos. Vsx-2 is initially
+expressed by proliferating neuroepithelial cells of the presumptive neural
+retina, then it is down-regulated as differentiation begins, and it is finally
+reexpressed at later stages of differentiation in a subset of cells, presumed to 
+be bipolar cells, in the inner nuclear layer. In contrast, Vsx-1 is expressed
+only weakly in undifferentiated, presumptive neural retina and is then
+up-regulated selectively in presumptive bipolar cells at early stages of
+differentiation (when Vsx-2 is turned off), before decreasing to an intermediate 
+level, which is maintained in the differentiated (adult) retina. The restricted
+expression patterns of Vsx-2 correspond to the observed phenotypes in mice with
+the ocular retardation mutation (orJ), further supporting the notion that Vsx-2
+and Chx10 are homologues. The sequential complimentary and then corresponding
+expression patterns of Vsx-1 and Vsx-2 suggest that these similar transcription
+factors may be recruited for partially overlapping, but distinct, functions
+during the development of the retina.
+
+PMID: 9368856  [PubMed - indexed for MEDLINE]
+
+
+95. J Comp Neurol. 1997 Oct 27;387(3):439-48.
+
+Vsx-1 and Vsx-2: two Chx10-like homeobox genes expressed in overlapping domains
+in the adult goldfish retina.
+
+Levine EM(1), Passini M, Hitchcock PF, Glasgow E, Schechter N.
+
+Author information: 
+(1)Department of Biochemistry and Cell Biology, Health Sciences Center, State
+University of New York at Stony Brook, 11794, USA.
+
+The genetic linkages of the murine ocular retardation mutation with the Chx10
+gene and the murine small eye mutation with the Pax-6 gene has demonstrated the
+importance of Paired class homeobox genes in the development of the mammalian
+retina. Previously, we identified a Paired-class homeobox gene, Vsx-1, whose
+expression in the adult goldfish retina is restricted to the inner nuclear layer 
+(INL) and to postmitotic, differentiating progenitor cells in the growth zone at 
+the retinal peripheral margin, where neurogenesis continues throughout life.
+Here, we report the molecular cloning and expression pattern of a new Paired
+class homeobox gene, Vsx-2, in the adult goldfish retina. Like Vsx-1, Vsx-2
+expression is highly restricted to the retina in the adult goldfish and overlaps 
+with Vsx-1 expression in the mature INL. At the peripheral margin, Vsx-2 is
+expressed in mitotically active neuronal progenitors and is downregulated as
+these cells become postmitotic and begin to differentiate. Comparison of the
+amino acid sequences of Vsx-2, Vsx-1, Chx10, and C. elegans ceh-10 reveal a
+conserved homeodomain and a unique domain termed the CVC domain. The similarities
+of the Vsx-2, Vsx-1, and Chx10 expression patterns suggest that genes containing 
+the CVC domain have conserved functions during retinal development in
+vertebrates.
+
+PMID: 9335426  [PubMed - indexed for MEDLINE]
+
+

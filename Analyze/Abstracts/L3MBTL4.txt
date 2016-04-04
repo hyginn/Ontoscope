@@ -1,0 +1,157 @@
+
+1. Oncol Lett. 2016 Jan;11(1):624-632. Epub 2015 Nov 23.
+
+Nine susceptibility loci for hepatitis B virus-related hepatocellular carcinoma
+identified by a pilot two-stage genome-wide association study.
+
+Qu LS(1), Jin F(2), Guo YM(3), Liu TT(3), Xue RY(3), Huang XW(4), Xu M(4), Chen
+TY(5), Ni ZP(5), Shen XZ(3).
+
+Author information: 
+(1)Department of Gastroenterology, Affiliated Hospital of Nantong University,
+Nantong, Jiangsu 226001, P.R. China. (2)Department of Gastroenterology, Shanghai 
+Xuhui Central Hospital, Shanghai 200032, P.R. China. (3)Department of
+Gastroenterology, Zhongshan Hospital, Fudan University, Shanghai 200032, P.R.
+China. (4)Department of Liver Surgery, Liver Cancer Institute, Zhongshan
+Hospital, Fudan University, Shanghai 200032, P.R. China. (5)Department of Liver
+Surgery, Qidong Liver Cancer Institute, Qidong, Jiangsu 226200, P.R. China.
+
+Previous studies have indicated that complex interactions among viral,
+environmental and genetic factors lead to hepatocellular carcinoma (HCC). To
+identify susceptibility alleles for hepatitis B virus (HBV)-related HCC, the
+present study conducted a pilot two-phase genome-wide association study (GWAS) in
+660 Han Chinese individuals. In phase 1, a total of 500,447 single-nucleotide
+polymorphisms (SNPs) were genotyped in 50 HCC cases and 50 controls using
+Affymetrix GeneChip 500k Array Set. In phase 2, 1,152 SNPs were selected from
+phase 1 and genotyped in 282 cases and 278 controls using the Illumina GoldenGate
+platform. The prior probability of HCC in control subjects was assigned at 0.01, 
+and false-positive report probability (FPRP) was utilized to evaluate the
+statistical significance. In phase 1, one SNP (rs2212522) showed a significant
+association with HCC (Pallele=5.23×10(-8); ORallele=4.96; 95% CI, 2.72-9.03). In 
+phase 2, among 27 SNPs with unadjusted Pallele<0.05, 9 SNPs were associated with 
+HCC based on FPRP criteria (FPRP <0.20). The strongest statistical evidence for
+an association signal was with rs2120243 (combined ORallele=1.76; 95% CI,
+1.39-2.22; P=2.00×10(-6)), which maps within the fourth intron of VEPH1. The
+second strongest statistical evidence for an association was identified for
+rs1350171 (combined ORallele=1.66; 95% CI, 1.33-2.07; P=6.48×10(-6)), which maps 
+to the region downstream of the FZD4 gene. The other potential susceptibility
+genes included PCDH9, PRMT6, LHX1, KIF2B and L3MBTL4. In conclusion, this pilot
+two-phase GWAS provides the evidence for the existence of common susceptibility
+loci for HCC. These genes involved various signaling pathways, including those
+associated with transforming growth factor ß, insulin/phosphoinositide 3 kinase, 
+Wnt and epidermal growth factor receptor. These associations must be replicated
+and validated in larger studies.
+
+PMCID: PMC4727098
+PMID: 26870257  [PubMed]
+
+
+2. Cancer Genet. 2011 Sep;204(9):516-21. doi: 10.1016/j.cancergen.2011.09.002.
+
+Genomic profiling in high hyperdiploid acute myeloid leukemia: a retrospective
+study of 19 cases.
+
+Veigaard C(1), Nørgaard JM, Kjeldsen E.
+
+Author information: 
+(1)Department of Hematology, Aarhus University Hospital, Denmark.
+
+Among patients with acute myeloid leukemia (AML), the rare group of complex
+aberrant karyotypes characterized by high hyperdiploidy (HH) is a subset with
+poor prognosis. Because of their rarity, few conventional cytogenetic studies
+have specifically addressed these patients. To identify DNA copy number
+aberrations at the submicroscopic level, we applied array-based comparative
+genomic hybridization (aCGH) to samples from 19 AML patients with complex
+karyotypes characterized by HH (=49 chromosomes). We found a total of 155
+imbalances (average: 8.2 per patient), and a high proportion of these imbalances 
+involved whole chromosomes (n = 75). The chromosomes most commonly gained were
+chromosomes 8 (58%), 21 (42%), and 19 (32%). We identified 80 segmental genomic
+aberrations, and losses (n = 47) were more frequent than gains (n = 33). We
+identified common deleted regions at 5q, 15q, 18p, and 19p. The tumor suppressor 
+gene L3MBTL4 and zinc finger proteins reside within 18p and 19p, respectively.
+The aCGH analysis added new information to the karyotypic interpretations in 16
+of the 19 HH AML cases (84%), leading to a significantly higher detection rate of
+abnormalities.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+PMID: 22018275  [PubMed - indexed for MEDLINE]
+
+
+3. Protein Sci. 2011 Oct;20(10):1697-706. doi: 10.1002/pro.703. Epub 2011 Aug 18.
+
+A human sterile alpha motif domain polymerizome.
+
+Knight MJ(1), Leettola C, Gingery M, Li H, Bowie JU.
+
+Author information: 
+(1)Department of Chemistry and Biochemistry, UCLA-DOE Institute of Genomics and
+Proteomics, Molecular Biology Institute, University of California, Los Angeles,
+Los Angeles, California 90095, USA.
+
+The sterile alpha motif (SAM) domain is one of the most common protein modules
+found in eukaryotic genomes. Many SAM domains have been shown to form helical
+polymer structures suggesting that SAM modules can be used to create large
+protein complexes in the cell. Because many polymeric SAM domains form
+heterogenous and insoluble aggregates that are experimentally intractable when
+isolated, it is likely that many polymeric SAM domains have gone uncharacterized.
+We, therefore, developed a method to maintain polymeric SAM domains in a soluble 
+form that allowed rapid screening for potential SAM polymers. SAM domains were
+expressed as fusions to a super-negatively charged green fluorescent protein
+(negGFP). The negGFP imparts three useful properties to the SAM domains: (1) the 
+charge helps to maintain solubility; (2) the charge leads to reliable migration
+toward the cathode on native gels; and (3) the fluorescence emission allows
+visualization in crude extracts. Using the negGFP-SAM fusions, we screened a
+large library of human SAM domains for polymerization using a native gel screen. 
+A selected set of hSAM domains were then purified and examined for true polymer
+formation by electron microscopy. In this manner, we identified a set of new
+potential SAM polymers: ANKS3, Atherin, BicaudalC1, Caskin1, Caskin2, Kazrin,
+L3MBTL3, L3MBTL4, LBP, LiprinB1, LiprinB2, SAMD8, SAMD9, and STIM2. While further
+characterization will be necessary to verify that the SAM domains identified here
+truly form polymers, our results provide a much stronger working hypothesis for a
+large number of proteins that was possible from sequence analysis alone.
+
+Copyright © 2011 The Protein Society.
+
+PMCID: PMC3218363
+PMID: 21805519  [PubMed - indexed for MEDLINE]
+
+
+4. Mol Cancer. 2010 Aug 10;9:213. doi: 10.1186/1476-4598-9-213.
+
+Loss, mutation and deregulation of L3MBTL4 in breast cancers.
+
+Addou-Klouche L(1), Adélaïde J, Finetti P, Cervera N, Ferrari A, Bekhouche I,
+Sircoulomb F, Sotiriou C, Viens P, Moulessehoul S, Bertucci F, Birnbaum D,
+Chaffanet M.
+
+Author information: 
+(1)Marseille Cancer Research Center, Department of Molecular Oncology, UMR891
+Inserm, Institut Paoli-Calmettes, Marseille, France.
+
+BACKGROUND: Many alterations are involved in mammary oncogenesis, including
+amplifications of oncogenes and losses of tumor suppressor genes (TSG). Losses
+may affect almost all chromosome arms and many TSGs remain to be identified.
+RESULTS: We studied 307 primary breast tumors and 47 breast cancer cell lines by 
+high resolution array comparative genomic hybridization (aCGH). We identified a
+region on 18p11.31 lost in about 20% of the tumors and 40% of the cell lines. The
+minimal common region of loss (Chr18:6,366,938-6,375,929 bp) targeted the L3MBTL4
+gene. This gene was also targeted by breakage in one tumor and in two cell lines.
+We studied the exon sequence of L3MBTL4 in 180 primary tumor samples and 47 cell 
+lines and found six missense and one nonsense heterozygous mutations. Compared
+with normal breast tissue, L3MBTL4 mRNA expression was downregulated in 73% of
+the tumors notably in luminal, ERBB2 and normal-like subtypes. Losses of the
+18p11 region were associated with low L3MBTL4 expression level. Integrated
+analysis combining genome and gene expression profiles of the same tumors pointed
+to 14 other potential 18p TSG candidates. Downregulated expression of ZFP161,
+PPP4R1 and YES1 was correlated with luminal B molecular subtype. Low ZFP161 gene 
+expression was associated with adverse clinical outcome.
+CONCLUSION: We have identified L3MBTL4 as a potential TSG of chromosome arm 18p. 
+The gene is targeted by deletion, breakage and mutations and its mRNA is
+downregulated in breast tumors. Additional 18p TSG candidates might explain the
+aggressive phenotype associated with the loss of 18p in breast tumors.
+
+PMCID: PMC2933619
+PMID: 20698951  [PubMed - indexed for MEDLINE]
+
+

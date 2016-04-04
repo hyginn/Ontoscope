@@ -1,0 +1,999 @@
+
+1. Development. 2015 Aug 1;142(15):2641-52. doi: 10.1242/dev.126318. Epub 2015 Jul
+2.
+
+Evf2 lncRNA/BRG1/DLX1 interactions reveal RNA-dependent inhibition of chromatin
+remodeling.
+
+Cajigas I(1), Leib DE(1), Cochrane J(2), Luo H(1), Swyter KR(1), Chen S(1), Clark
+BS(1), Thompson J(3), Yates JR 3rd(3), Kingston RE(2), Kohtz JD(4).
+
+Author information: 
+(1)Developmental Biology and Department of Pediatrics, Stanley Manne Children's
+Research Institute and Feinberg School of Medicine, Northwestern University, Box 
+204, 2430 N. Halsted, Chicago, IL 60614, USA. (2)Department of Molecular Biology,
+Harvard University, Boston, MA 02114, USA. (3)The Scripps Research Institute, La 
+Jolla, CA 92037, USA. (4)Developmental Biology and Department of Pediatrics,
+Stanley Manne Children's Research Institute and Feinberg School of Medicine,
+Northwestern University, Box 204, 2430 N. Halsted, Chicago, IL 60614, USA
+j-kohtz@northwestern.edu.
+
+Transcription-regulating long non-coding RNAs (lncRNAs) have the potential to
+control the site-specific expression of thousands of target genes. Previously, we
+showed that Evf2, the first described ultraconserved lncRNA, increases the
+association of transcriptional activators (DLX homeodomain proteins) with key DNA
+enhancers but represses gene expression. In this report, mass spectrometry shows 
+that the Evf2-DLX1 ribonucleoprotein (RNP) contains the SWI/SNF-related chromatin
+remodelers Brahma-related gene 1 (BRG1, SMARCA4) and Brahma-associated factor
+(BAF170, SMARCC2) in the developing mouse forebrain. Evf2 RNA colocalizes with
+BRG1 in nuclear clouds and increases BRG1 association with key DNA regulatory
+enhancers in the developing forebrain. While BRG1 directly interacts with DLX1
+and Evf2 through distinct binding sites, Evf2 directly inhibits BRG1 ATPase and
+chromatin remodeling activities. In vitro studies show that both RNA-BRG1 binding
+and RNA inhibition of BRG1 ATPase/remodeling activity are promiscuous, suggesting
+that context is a crucial factor in RNA-dependent chromatin remodeling
+inhibition. Together, these experiments support a model in which RNAs convert an 
+active enhancer to a repressed enhancer by directly inhibiting chromatin
+remodeling activity, and address the apparent paradox of RNA-mediated
+stabilization of transcriptional activators at enhancers with a repressive
+outcome. The importance of BRG1/RNA and BRG1/homeodomain interactions in
+neurodevelopmental disorders is underscored by the finding that mutations in
+Coffin-Siris syndrome, a human intellectual disability disorder, localize to the 
+BRG1 RNA-binding and DLX1-binding domains.
+
+© 2015. Published by The Company of Biologists Ltd.
+
+PMCID: PMC4529037 [Available on 2016-08-01]
+PMID: 26138476  [PubMed - indexed for MEDLINE]
+
+
+2. Stem Cell Reports. 2014 Sep 9;3(3):460-74. doi: 10.1016/j.stemcr.2014.07.004.
+Epub 2014 Aug 14.
+
+Transcriptional repression by the BRG1-SWI/SNF complex affects the pluripotency
+of human embryonic stem cells.
+
+Zhang X(1), Li B(1), Li W(1), Ma L(1), Zheng D(1), Li L(2), Yang W(3), Chu M(1), 
+Chen W(1), Mailman RB(4), Zhu J(3), Fan G(5), Archer TK(6), Wang Y(7).
+
+Author information: 
+(1)Shanghai Key Laboratory of Regulatory Biology, Institute of Biomedical
+Sciences and School of Life Sciences, East China Normal University, Shanghai
+200241, China. (2)Biostatistics Branch, National Institute of Environmental
+Health Sciences, National Institutes of Health, Department of Health and Human
+Services, Research Triangle Park, NC 27709, USA. (3)Systems Biology Center,
+National Heart, Lung, and Blood Institute, National Institutes of Health,
+Department of Health and Human Services, Bethesda, MD 20892, USA. (4)Department
+of Pharmacology, Penn State College of Medicine, Hershey, PA 17033-0850, USA.
+(5)Department of Human Genetics, David Geffen School of Medicine, University of
+California, Los Angeles, Los Angeles, CA 90095-7088, USA. (6)Chromatin and Gene
+Expression Group, Laboratory of Molecular Carcinogenesis, National Institute of
+Environmental Health Sciences, National Institutes of Health, Department of
+Health and Human Services, Research Triangle Park, NC 27709, USA. (7)Shanghai Key
+Laboratory of Regulatory Biology, Institute of Biomedical Sciences and School of 
+Life Sciences, East China Normal University, Shanghai 200241, China. Electronic
+address: ywang@bio.ecnu.edu.cn.
+
+The SWI/SNF complex plays an important role in mouse embryonic stem cells
+(mESCs), but it remains to be determined whether this complex is required for the
+pluripotency of human ESCs (hESCs). Using RNAi, we demonstrated that depletion of
+BRG1, the catalytic subunit of the SWI/SNF complex, led to impaired self-renewing
+ability and dysregulated lineage specification of hESCs. A unique composition of 
+the BRG1-SWI/SNF complex in hESCs was further defined by the presence of BRG1,
+BAF250A, BAF170, BAF155, BAF53A, and BAF47. Genome-wide expression analyses
+revealed that BRG1 participated in a broad range of biological processes in hESCs
+through pathways different from those in mESCs. In addition, chromatin
+immunoprecipitation sequencing (ChIP-seq) demonstrated that BRG1 played a
+repressive role in transcriptional regulation by modulating the acetylation
+levels of H3K27 at the enhancers of lineage-specific genes. Our data thus provide
+valuable insights into molecular mechanisms by which transcriptional repression
+affects the self-renewal and differentiation of hESCs.
+
+Copyright © 2014 The Authors. Published by Elsevier Inc. All rights reserved.
+
+PMCID: PMC4266000
+PMID: 25241744  [PubMed - indexed for MEDLINE]
+
+
+3. Toxicol Lett. 2014 Sep 2;229(2):327-32. doi: 10.1016/j.toxlet.2014.06.034. Epub
+2014 Jun 25.
+
+Genetic variants in SMARC genes are associated with DNA damage levels in Chinese 
+population.
+
+Gong J(1), Zhu M(1), Chu M(1), Sun C(1), Chen W(2), Jin G(1), Yuan J(2), Dai
+J(1), Wang M(3), Pan Y(1), Song Y(2), Ding X(3), Du M(3), Zhang Z(3), Hu Z(4), Wu
+T(2), Shen H(5).
+
+Author information: 
+(1)Department of Epidemiology and Biostatistics and Ministry of Education (MOE)
+Key Lab for Modern Toxicology, School of Public Health, Nanjing Medical
+University, Nanjing, Jiangsu, China. (2)Ministry of Education Key Laboratory for 
+Environment and Health, School of Public Health, Tongji Medical College, Huazhong
+University of Science and Technology, Wuhan, Hubei, China. (3)Department of
+Genetic Toxicology, The Key Laboratory of Modern Toxicology of Ministry of
+Education, School of Public Health, Nanjing Medical University, Nanjing, Jiangsu,
+China. (4)Department of Epidemiology and Biostatistics and Ministry of Education 
+(MOE) Key Lab for Modern Toxicology, School of Public Health, Nanjing Medical
+University, Nanjing, Jiangsu, China; Section of Clinical Epidemiology, Jiangsu
+Key Laboratory of Cancer Biomarkers, Prevention and Treatment, Cancer Center,
+Nanjing Medical University, Nanjing, Jiangsu, China; State Key Laboratory of
+Reproductive Medicine, Nanjing Medical University, Nanjing, Jiangsu, China.
+(5)Department of Epidemiology and Biostatistics and Ministry of Education (MOE)
+Key Lab for Modern Toxicology, School of Public Health, Nanjing Medical
+University, Nanjing, Jiangsu, China; Section of Clinical Epidemiology, Jiangsu
+Key Laboratory of Cancer Biomarkers, Prevention and Treatment, Cancer Center,
+Nanjing Medical University, Nanjing, Jiangsu, China; State Key Laboratory of
+Reproductive Medicine, Nanjing Medical University, Nanjing, Jiangsu, China.
+Electronic address: hbshen@njmu.edu.cn.
+
+The switching defective/sucrose nonfermenting (SWI/SNF) related, matrix
+associated, actin dependent regulators of chromatin (SMARC) are components of
+human SWI/SNF like chromatin remodeling protein complexes, which are essential in
+the process of DNA damage repair. In this study, we hypothesized that genetic
+variants in SMARC genes may modify the capacity of DNA repair to damage. To test 
+this hypothesis, we genotyped a total of 20 polymorphisms in five key SMARC genes
+(SMARCA5, SMARCC2, SMARCD1, SMARCD2, SMARCD3) to evaluate their associations with
+DNA damage levels in 307 subjects. The DNA damage levels were measured with comet
+assay. The multiple linear regression was used to assess the relationship between
+each polymorphism and DNA damage levels in additive model. We found that the
+genotypes of rs6857360 (ß=0.23, 95% CI=0.06-0.40, P=0.008) in SMARCA5, rs6919
+(ß=0.20, 95% CI=0.05-0.34, P=0.008) and rs2727280 (ß=0.18, 95% CI=0.04-0.33,
+P=0.013) in SMARCD2, and rs17173769 (ß=-0.27, 95% CI=-0.52 to -0.01, P=0.045) in 
+SMARCD3 were significantly associated with DNA damage levels. After combining
+these four polymorphisms, we found that the more unfavorable alleles the subjects
+carried, the heavier DNA damage they suffered, suggesting a locus-dosage effect
+between combined genotypes and DNA damage levels (P for trend=0.006). These
+findings suggest that genetic variants in SMARC genes may contribute the
+individual variations of DNA damage levels in Chinese population. Further larger 
+and functional studies are warranted to confirm our findings.
+
+Copyright © 2014. Published by Elsevier Ireland Ltd.
+
+PMID: 24973491  [PubMed - indexed for MEDLINE]
+
+
+4. Cell Cycle. 2013 Sep 15;12(18):2953-9. doi: 10.4161/cc.25999. Epub 2013 Aug 13.
+
+BAF chromatin remodeling complex: cortical size regulation and beyond.
+
+Tuoc TC(1), Narayanan R, Stoykova A.
+
+Author information: 
+(1)Institute of Neuroanatomy; Universitätsmedizin Göttingen; Göttingen, Germany.
+
+The multi-subunit chromatin remodeling BAF complex controls different
+developmental processes. Using cortex-specific conditional knockout and
+overexpression mouse models, we have recently reported that BAF170, a subunit of 
+the vertebrate BAF chromatin remodeling complex, interacts with transcription
+factor (TF) Pax6 to control cortical size and volume. The mechanistic basis
+includes suppression of the expression of Pax6 target genes, which are required
+for genesis of cortical intermediate progenitors (IPs) and specification of late 
+neuronal subtype identity. In addition, we showed that a dynamic competition
+between BAF170 and BAF155 subunits within the BAF complex during progression of
+neurogenesis is a primary event in modulating the size of the mammalian cortex.
+Here, we present additional insights into the interaction between the BAF complex
+and TF Pax6 in the genesis of IPs of the developing cortex. Furthermore, we show 
+that such competition between BAF170 and BAF155 is involved as well in the
+determination of the size of the embryonic body. Our results add new insights
+into a cell-intrinsic mechanism, mediated by the chromatin remodeling BAF complex
+that controls vertebrate body shape and size.
+
+PMCID: PMC3875669
+PMID: 23974113  [PubMed - indexed for MEDLINE]
+
+
+5. Mol Biol Rep. 2013 Sep;40(9):5381-95. doi: 10.1007/s11033-013-2637-9. Epub 2013
+May 11.
+
+ZRANB2 localizes to supraspliceosomes and influences the alternative splicing of 
+multiple genes in the transcriptome.
+
+Yang YH(1), Markus MA, Mangs AH, Raitskin O, Sperling R, Morris BJ.
+
+Author information: 
+(1)School of Mathematics and Statistics, The University of Sydney, Sydney, NSW,
+2006, Australia.
+
+Alternative splicing is a major source of protein diversity in humans. The human 
+splicing factor zinc finger, Ran-binding domain containing protein 2 (ZRANB2) is 
+a splicing protein whose specific endogenous targets are unknown. Its
+upregulation in grade III ovarian serous papillary carcinoma could suggest a role
+in some cancers. To determine whether ZRANB2 is part of the supraspliceosome,
+nuclear supernatants from human embryonic kidney 293 cells were prepared and then
+fractioned on a glycerol gradient, followed by Western blotting. The same was
+done after treatment with a tyrosine kinase to induce phosphorylation. This
+showed for the first time that ZRANB2 is part of the supraspliceosome, and that
+phosphorylation affects its subcellular location. Studies were then performed to 
+understand the splicing targets of ZRANB2 at the whole-transcriptome level. HeLa 
+cells were transfected with a vector containing ZRANB2 or with a vector-only
+control. RNA was extracted, converted to cDNA and hybridized to Affymetrix
+GeneChip(®) Human Exon 1.0 ST Arrays. At the FDR =1.3 significance level we found
+that ZRANB2 influenced the alternative splicing of primary transcripts of CENTB1,
+WDR78, C10orf18, CABP4, SMARCC2, SPATA13, OR4C6, ZNF263, CAPN10, SALL1, ST18 and 
+ZP2. Several of these have been implicated in tumor development. In conclusion
+ZRANB2 is part of the supraspliceosome and causes differential splicing of
+numerous primary transcripts, some of which might have a role in cancer.
+
+PMID: 23666063  [PubMed - indexed for MEDLINE]
+
+
+6. Mol Psychiatry. 2013 Oct;18(10):1054-6. doi: 10.1038/mp.2012.148. Epub 2012 Nov
+13.
+
+Combined analysis of exome sequencing points toward a major role for
+transcription regulation during brain development in autism.
+
+Ben-David E(1), Shifman S.
+
+Author information: 
+(1)Department of Genetics, The Institute of Life Sciences, The Hebrew University 
+of Jerusalem, Jerusalem, Israel.
+
+PMID: 23147383  [PubMed - indexed for MEDLINE]
+
+
+7. APMIS. 2013 Feb;121(2):168-9. doi: 10.1111/j.1600-0463.2012.02953.x. Epub 2012
+Jul 27.
+
+Frameshift mutations of a chromatin-remodeling gene SMARCC2 in gastric and
+colorectal cancers with microsatellite instability.
+
+Kim SS, Kim MS, Yoo NJ, Lee SH.
+
+PMID: 23030715  [PubMed - indexed for MEDLINE]
+
+
+8. J Mol Biol. 2011 Aug 19;411(3):581-96. doi: 10.1016/j.jmb.2011.06.001. Epub 2011 
+Jun 15.
+
+Varying modulation of HIV-1 LTR activity by Baf complexes.
+
+Van Duyne R(1), Guendel I, Narayanan A, Gregg E, Shafagati N, Tyagi M, Easley R, 
+Klase Z, Nekhai S, Kehn-Hall K, Kashanchi F.
+
+Author information: 
+(1)Department of Molecular and Microbiology, National Center for Biodefense and
+Infectious Diseases, George Mason University, Manassas, VA 20110, USA.
+
+The human immunodeficiency virus type 1 (HIV-1) long terminal repeat is present
+on both ends of the integrated viral genome and contains regulatory elements
+needed for transcriptional initiation and elongation. Post-integration, a highly 
+ordered chromatin structure consisting of at least five nucleosomes, is found at 
+the 5' long terminal repeat, the location and modification state of which control
+the state of active viral replication as well as silencing of the latent HIV-1
+provirus. In this context, the chromatin remodeling field rapidly emerges as
+having a critical role in the control of viral gene expression. In the current
+study, we focused on unique Baf subunits that are common to the most highly
+recognized of chromatin remodeling proteins, the SWI/SNF
+(switching-defective-sucrose non-fermenting) complexes. We find that at least two
+Baf proteins, Baf53 and Baf170, are highly regulated in HIV-1-infected cells.
+Previously, studies have shown that the depletion of Baf53 in uninfected cells
+leads to the expansion of chromosomal territories and the decompaction of the
+chromatin. Baf53, in the presence of HIV-1 infection, co-elutes off of a
+chromatographic column as a different-sized complex when compared to uninfected
+cells and appears to be predominantly phosphorylated. The innate function of
+Baf53-containing complexes appears to be transcriptionally suppressive, in that
+knocking down Baf53 increases viral gene expression from cells both transiently
+and chronically infected with HIV-1. Additionally, cdk9/cyclin T in the presence 
+of Tat is able to phosphorylate Baf53 in vitro, implying that this
+posttranslationally modified form relieves the suppressive effect and allows for 
+viral transcription to proceed.
+
+Copyright © 2011 Elsevier Ltd. All rights reserved.
+
+PMCID: PMC3146592
+PMID: 21699904  [PubMed - indexed for MEDLINE]
+
+
+9. Mamm Genome. 2011 Jun;22(5-6):353-60. doi: 10.1007/s00335-011-9325-7. Epub 2011
+Apr 5.
+
+Targeted analysis of four breeds narrows equine Multiple Congenital Ocular
+Anomalies locus to 208 kilobases.
+
+Andersson LS(1), Lyberg K, Cothran G, Ramsey DT, Juras R, Mikko S, Ekesten B,
+Ewart S, Lindgren G.
+
+Author information: 
+(1)Department of Animal Breeding and Genetics, Swedish University of Agricultural
+Sciences, Undervisningsplan 4A, PO Box 7023, 750 07 Uppsala, Sweden.
+
+The syndrome Multiple Congenital Ocular Anomalies (MCOA) is the collective name
+ascribed to heritable congenital eye defects in horses. Individuals homozygous
+for the disease allele (MCOA phenotype) have a wide range of eye anomalies, while
+heterozygous horses (Cyst phenotype) predominantly have cysts that originate from
+the temporal ciliary body, iris, and/or peripheral retina. MCOA syndrome is
+highly prevalent in the Rocky Mountain Horse but the disease is not limited to
+this breed. Affected horses most often have a Silver coat color; however, a
+pleiotropic link between these phenotypes is yet to be proven. Locating and
+possibly isolating these traits would provide invaluable knowledge to scientists 
+and breeders. This would favor maintenance of a desirable coat color while
+addressing the health concerns of the affected breeds, and would also provide
+insight into the genetic basis of the disease. Identical-by-descent mapping was
+used to narrow the previous 4.6-Mb region to a 264-kb interval for the MCOA
+locus. One haplotype common to four breeds showed complete association to the
+disease (Cyst phenotype, n = 246; MCOA phenotype, n = 83). Candidate genes from
+the interval, SMARCC2 and IKZF4, were screened for polymorphisms and genotyped,
+and segregation analysis allowed the MCOA syndrome region to be shortened to 208 
+kb. This interval also harbors PMEL17, the gene causative for Silver coat color. 
+However, by shortening the MCOA locus by a factor of 20, 176 other genes have
+been unlinked from the disease and only 15 genes remain.
+
+PMCID: PMC3098992
+PMID: 21465164  [PubMed - indexed for MEDLINE]
+
+
+10. Leukemia. 2009 Nov;23(11):2018-26. doi: 10.1038/leu.2009.144. Epub 2009 Jul 30.
+
+Gene knockdown studies revealed CCDC50 as a candidate gene in mantle cell
+lymphoma and chronic lymphocytic leukemia.
+
+Farfsing A(1), Engel F, Seiffert M, Hartmann E, Ott G, Rosenwald A, Stilgenbauer 
+S, Döhner H, Boutros M, Lichter P, Pscherer A.
+
+Author information: 
+(1)Division of Molecular Genetics, German Cancer Research Center (DKFZ),
+Heidelberg, Germany.
+
+The two B-cell non-Hodgkin's lymphoma entities, chronic lymphocytic leukemia
+(CLL) and mantle cell lymphoma (MCL), show recurrent chromosomal gains of
+3q25-q29, 12q13-q14 and 18q21-q22. The pathomechanisms affected by these
+aberrations are not understood. The aim of this study was to identify genes,
+located within these gained regions, which control cell death and cell survival
+of MCL and CLL cancer cells. Blood samples collected from 18 patients with CLL
+and 6 patients with MCL, as well as 6 cell lines representing both malignancies
+were analyzed by gene expression profiling. By a comparison of genomic DNA and
+gene expression, 72 candidate genes were identified. We performed a limited RNA
+interference screening with these candidates to identify genes affecting cell
+survival. CCDC50 (coiled coil domain containing protein 50), SERPINI2 and SMARCC2
+mediated a reduction of cell viability in primary CLL cells as well as in cell
+lines. Gene knockdown and a nuclear factor kappa B (NFkappaB) reporter gene assay
+revealed that CCDC50 is required for survival in MCL and CLL cells and controls
+NFkappaB signaling.
+
+PMID: 19641524  [PubMed - indexed for MEDLINE]
+
+
+11. Nat Cell Biol. 2009 Jul;11(7):865-72. doi: 10.1038/ncb1895. Epub 2009 Jun 14.
+
+BRIT1/MCPH1 links chromatin remodelling to DNA damage response.
+
+Peng G(1), Yim EK, Dai H, Jackson AP, Burgt Iv, Pan MR, Hu R, Li K, Lin SY.
+
+Author information: 
+(1)Department of Systems Biology, The University of Texas M. D. Anderson Cancer
+Center, Houston, 77054, USA.
+
+To detect and repair damaged DNA, DNA-damage-response proteins need to overcome
+the barrier of condensed chromatin to gain access to DNA lesions. ATP-dependent
+chromatin remodelling is one of the fundamental mechanisms used by cells to relax
+chromatin in DNA repair. However, the mechanism mediating their recruitment to
+DNA lesions remains largely unknown. BRIT1 (also known as MCPH1) is an early
+DNA-damage-response protein that is mutated in human primary microcephaly. Here
+we report a previously unknown function of BRIT1 as a regulator of the
+ATP-dependent chromatin remodelling complex SWI-SNF in DNA repair. After damage
+to DNA, BRIT1 increases its interaction with SWI-SNF through ATM/ATR-dependent
+phosphorylation on the BAF170 subunit. This increase in binding affinity provides
+a means by which SWI-SNF can be specifically recruited to and maintained at DNA
+lesions. Loss of BRIT1 causes impaired chromatin relaxation as a result of
+decreased association of SWI-SNF with chromatin. This explains the decreased
+recruitment of repair proteins to DNA lesions and the reduced efficiency of
+repair in BRIT1-deficient cells, resulting in impaired cell survival after DNA
+damage. Our findings therefore identify BRIT1 as a key molecule that links
+chromatin remodelling with response to DNA damage in the control of DNA repair,
+and its dysfunction contributes to human disease.
+
+PMCID: PMC2714531
+PMID: 19525936  [PubMed - indexed for MEDLINE]
+
+
+12. J Neurochem. 2009 May;109(3):807-18. doi: 10.1111/j.1471-4159.2009.06005.x. Epub 
+2009 Feb 20.
+
+N-terminally truncated BAF57 isoforms contribute to the diversity of SWI/SNF
+complexes in neurons.
+
+Kazantseva A(1), Sepp M, Kazantseva J, Sadam H, Pruunsild P, Timmusk T, Neuman T,
+Palm K.
+
+Author information: 
+(1)Protobios LLC, Tallinn, Estonia.
+
+The SWItch/Sucrose NonFermentable, a nucleosome remodeling complex (SWI/SNF)
+chromatin-remodelling complexes act upon the nucleosomal structure and regulate
+transcription, replication, repair of chromatin and splicing. In this study, we
+present evidence that human, mouse and rat genes encoding one of the SWI/SNF
+complex subunits, BAF57, undergo neuron-specific splicing of exons II, III and
+IV. Alternative splicing yields in at least three isoforms of BAF57 protein that 
+have truncated N-termini (N-BAF57s). The transcripts encoding N-BAF57 isoforms
+are predominantly expressed in the nervous system. The biochemical fractionation 
+data supported by the results of the co-immunoprecipitation analysis show that
+N-BAF57 isoforms associate into protein complexes together with Brg1, Brm, BAF155
+and BAF170. Transient over-expression of N-BAF57 isoforms in non-neural cells
+affects the level of expression of certain neuron-restrictive silencer
+element-containing genes. Together these data suggest that neuronal isoforms of
+BAF57 contribute to functional SWI/SNF complexes regulating neurogenesis.
+
+PMID: 19245665  [PubMed - indexed for MEDLINE]
+
+
+13. Stem Cells. 2008 May;26(5):1155-65. doi: 10.1634/stemcells.2007-0846. Epub 2008
+Mar 6.
+
+BAF250B-associated SWI/SNF chromatin-remodeling complex is required to maintain
+undifferentiated mouse embryonic stem cells.
+
+Yan Z(1), Wang Z, Sharova L, Sharov AA, Ling C, Piao Y, Aiba K, Matoba R, Wang W,
+Ko MS.
+
+Author information: 
+(1)Genome Instability and Chromatin-Remodeling Section, National Institute on
+Aging, National Institutes of Health, Baltimore, Maryland, USA.
+
+Whether SWI/SNF chromatin remodeling complexes play roles in embryonic stem (ES) 
+cells remains unknown. Here we show that SWI/SNF complexes are present in mouse
+ES cells, and their composition is dynamically regulated upon induction of ES
+cell differentiation. For example, the SWI/SNF purified from undifferentiated ES 
+cells contains a high level of BAF155 and a low level of BAF170 (both of which
+are homologs of yeast SWI3 protein), whereas that from differentiated cells
+contains nearly equal amounts of both. Moreover, the levels of BAF250A and
+BAF250B decrease during the differentiation of ES cells, whereas that of BRM
+increases. The altered expression of SWI/SNF components hinted that these
+complexes could play roles in ES cell maintenance or differentiation. We
+therefore generated ES cells with biallelic inactivation of BAF250B and found
+that these cells display a reduced proliferation rate and an abnormal cell cycle.
+Importantly, these cells are deficient in the self-renewal capacity of
+undifferentiated ES cells and exhibit certain phenotypes of differentiated cells,
+including reduced expression of several pluripotency-related genes and increased 
+expression of some differentiation-related genes. These data suggest that the
+BAF250B-associated SWI/SNF is essential for mouse ES cells to maintain their
+normal proliferation and pluripotency. The work presented here underscores the
+importance of SWI/SNF chromatin remodeling complexes in pluripotent stem cells.
+
+PMCID: PMC2409195
+PMID: 18323406  [PubMed - indexed for MEDLINE]
+
+
+14. Thalamus Relat Syst. 2008 Mar;4(1):59-77.
+
+Anterior thalamic lesions produce chronic and profuse transcriptional
+de-regulation in retrosplenial cortex: A model of retrosplenial hypoactivity and 
+covert pathology.
+
+Poirier GL(1), Shires KL, Sugden D, Amin E, Thomas KL, Carter DA, Aggleton JP.
+
+Author information: 
+(1)School of Psychology, Cardiff University, Wales, UK.
+
+Anterior thalamic lesions are thought to produce 'covert pathology' in
+retrosplenial cortex, but the causes are unknown. Microarray analyses tested the 
+hypothesis that thalamic damage causes a chronic, hypo-function of metabolic and 
+plasticity-related pathways (Experiment 1). Rats with unilateral, anterior
+thalamic lesions were exposed to a novel environment for 20 minutes, and granular
+retrosplenial tissue sampled from both hemispheres 30 minutes, 2h, or 8h later.
+Complementary statistical approaches (analyses of variance, predictive patterning
+and gene set enrichment analysis) revealed pervasive gene expression differences 
+between retrosplenial cortex ipsilateral to the thalamic lesion and contralateral
+to the lesion. Selected gene differences were validated by QPCR,
+immunohistochemistry (Experiment 1), and in situ hybridisation (Experiment 2).
+Following thalamic lesions, the retrosplenial cortex undergoes profuse cellular
+transcriptome changes including lower relative levels of specific mRNAs involved 
+in energy metabolism and neuronal plasticity. These changes in functional gene
+expression may be largely driven by decreases in the expression of multiple
+transcription factors, including brd8, c-fos, fra-2, klf5, nfix, nr4a1, smad3,
+smarcc2, and zfp9, with a much smaller number (nfat5, neuroD1, RXR<U+03B3>) showing
+increases. These findings have implications for conditions such as diencephalic
+amnesia and Alzheimer's disease, where both anterior thalamic pathology and
+retrosplenial cortex hypometabolism are prominent.
+
+PMCID: PMC3031093
+PMID: 21289865  [PubMed]
+
+
+15. J Biol Chem. 2007 Nov 23;282(47):34448-56. Epub 2007 Sep 18.
+
+Activity-dependent neuroprotective protein constitutes a novel element in the
+SWI/SNF chromatin remodeling complex.
+
+Mandel S(1), Gozes I.
+
+Author information: 
+(1)Department of Human Molecular Genetics and Biochemistry, Sackler Faculty of
+Medicine, Tel Aviv University, Tel Aviv 69978, Israel.
+
+Complete deficiency in activity-dependent neuroprotective protein (ADNP), a
+heterochromatin 1-binding protein, results in dramatic changes in gene
+expression, neural tube closure defects, and death at gestation day 9 in mice. To
+further understand the cellular roles played by ADNP, the HEK293 human embryonic 
+kidney cell line that allows efficient transfection with recombinant DNA was used
+as a model for the identification of ADNP-interacting proteins. Recombinant green
+fluorescent protein (GFP)-ADNP was localized to cell nuclei. When nuclear
+extracts were subjected to immunoprecipitation with specific GFP antibodies
+followed by polyacrylamide gel electrophoresis, several minor protein bands were 
+observed in addition to GFP-ADNP. In-gel protein digests followed by mass
+spectrometry identified BRG1, BAF250a, and BAF170, all components of the SWI/SNF 
+(mating type switching/sucrose nonfermenting) chromatin remodeling complex, as
+proteins that co-immunoprecipitate with ADNP. These results were verified
+utilizing BRG1 antibodies. ADNP short hairpin RNA down-regulation resulted in
+microtubule reorganization and changes in cell morphology including reduction in 
+cell process formation and cell number. These morphological changes are closely
+associated with the SWI/SNF complex multifunctionality. Taken together, the
+current study uncovers a molecular basis for the essential function of the ADNP
+gene and protein.
+
+PMID: 17878164  [PubMed - indexed for MEDLINE]
+
+
+16. Oncogene. 2007 Nov 1;26(50):7153-7. Epub 2007 May 7.
+
+Reprogramming of the SWI/SNF complex for co-activation or co-repression in
+prohibitin-mediated estrogen receptor regulation.
+
+Zhang B(1), Chambers KJ, Faller DV, Wang S.
+
+Author information: 
+(1)Cancer Research Center, Boston University School of Medicine, Boston, MA
+02118, USA.
+
+The SWI/SNF complex participates as a co-activator in the transcriptional
+regulation of certain genes. Conversely, we and others have recently established 
+that Brg1 and Brm, the central components of SWI/SNF, act instead as
+co-repressors for E2F-mediated transcriptional repression, and for the
+transcription of certain other promoters. We report here that Brg-1 and Brm can
+switch their mode of function at same promoter between activation and repression 
+by ligand-directed differential coordination with BAF155, BAF170, HDAC1, p300 and
+prohibitin. This ligand and context-dependent reprogramming of the SWI/SNF
+complex allows it to differentially serve as either a co-repressor or a
+co-activator of transcription at the same promoter.
+
+PMID: 17486062  [PubMed - indexed for MEDLINE]
+
+
+17. J Mol Biol. 2007 May 25;369(1):222-38. Epub 2007 Mar 19.
+
+Structural and functional differences of SWIRM domain subtypes.
+
+Yoneyama M(1), Tochio N, Umehara T, Koshiba S, Inoue M, Yabuki T, Aoki M, Seki E,
+Matsuda T, Watanabe S, Tomo Y, Nishimura Y, Harada T, Terada T, Shirouzu M,
+Hayashizaki Y, Ohara O, Tanaka A, Kigawa T, Yokoyama S.
+
+Author information: 
+(1)RIKEN Genomic Sciences Center, 1-7-22 Suehiro-cho, Tsurumi, Yokohama 230-0045,
+Japan.
+
+SWIRM is a conserved domain found in several chromatin-associated proteins. Based
+on their sequences, the SWIRM family members can be classified into three
+subfamilies, which are represented by Swi3, LSD1, and Ada2. Here we report the
+SWIRM structure of human MYb-like, Swirm and Mpn domain-containing protein-1
+(MYSM1). The MYSM1 SWIRM structure forms a compact HTH-related fold comprising
+five alpha-helices, which best resembles the Swi3 SWIRM structure, among the
+known SWIRM structures. The MYSM1 and Swi3 SWIRM structures are more similar to
+the LSD1 structure than the Ada2alpha structure. The SWIRM domains of MYSM1 and
+LSD1 lacked DNA binding activity, while those of Ada2alpha and the human Swi3
+counterpart, SMARCC2, bound DNA. The dissimilarity in the DNA-binding ability of 
+the MYSM1 and SMARCC2 SWIRM domains might be due to a couple of amino acid
+differences in the last helix. These results indicate that the SWIRM family has
+indeed diverged into three structural subfamilies (Swi3/MYSM1, LSD1, and Ada2
+types), and that the Swi3/MYSM1-type subfamily has further diverged into two
+functionally distinct groups. We also solved the structure of the SANT domain of 
+MYSM1, and demonstrated that it bound DNA with a similar mode to that of the
+c-Myb DNA-binding domain.
+
+PMID: 17428495  [PubMed - indexed for MEDLINE]
+
+
+18. J Pathol. 2006 Dec;210(4):441-9.
+
+Novel epigenetically deregulated genes in testicular cancer include homeobox
+genes and SCGB3A1 (HIN-1).
+
+Lind GE(1), Skotheim RI, Fraga MF, Abeler VM, Esteller M, Lothe RA.
+
+Author information: 
+(1)Department of Cancer Prevention, Institute for Cancer Research,
+Rikshospitalet-Radiumhospitalet Medical Centre, Oslo, Norway.
+
+Testicular germ cell tumours (TGCTs) are classified into two main histological
+subgroups: seminomas and non-seminomas. The latter comprise several subtypes:
+embryonal carcinomas, yolk sac tumours, choriocarcinomas, and teratomas. These
+embryonal and extra-embryonal-like differentiation lineages represent a
+caricature of early normal development, and inactivation of gene expression
+through promoter hypermethylation may therefore be of particular importance in
+germ cell tumourigenesis. The promoter methylation status of ten candidate
+genes-CDH13, DLX6, EMX2, HOXA9, HOXB5, MSX1, MSX2, RASSF1A, RUNX3, and SCGB3A1
+(alias HIN-1)-was assessed by methylation-specific PCR in seven intratubular germ
+cell neoplasias and 55 primary TGCTs. Furthermore, by a discovery-based global
+approach, comparing cDNA microarray expression profiles of two germ cell tumour
+cell lines before and after treatment with the demethylating agent
+5-aza-2'-deoxycytidine, a gene list of potentially epigenetic targets was
+identified, from which CGGBP1, CGRRF1, SMARCC2, SORBS1, and XPA were analysed
+further. Overall, the non-seminomas were significantly more often methylated than
+were seminomas (p < 0.001). The three most frequently methylated genes among this
+subtype were SCGB3A1 (54%), RASSF1A (29%), and HOXA9 (26%). CDH13 and HOXB5 were 
+methylated at low frequencies (10-15%), and EMX2, MSX1, RUNX3, SORBS1, and XPA
+only rarely (<10%). In conclusion, this study has identified several novel
+epigenetically deregulated target genes in TGCT development, including homeobox
+genes and SCGB3A1, suggesting that epigenetic inactivation of key genes in normal
+development also has an important role in TGCTs.
+
+PMID: 17029216  [PubMed - indexed for MEDLINE]
+
+
+19. Mol Cell Biol. 2005 Oct;25(20):9016-27.
+
+Regulating SWI/SNF subunit levels via protein-protein interactions and
+proteasomal degradation: BAF155 and BAF170 limit expression of BAF57.
+
+Chen J(1), Archer TK.
+
+Author information: 
+(1)Chromatin and Gene Expression Section, Laboratory of Molecular Carcinogenesis,
+National Institute of Environmental Health Sciences, Research Triangle Park, NC
+27709, USA.
+
+The mammalian SWI/SNF chromatin remodeling complex, whose function is of critical
+importance in transcriptional regulation, contains approximately 10 protein
+components. The expression levels of the core SWI/SNF subunits, including
+BRG1/Brm, BAF155, BAF170, BAF60, hSNF/Ini1, and BAF57, are stoichiometric, with
+few to no unbound molecules in the cell. Here we report that exogenous expression
+of the wild type or certain deletion mutants of BAF57, a key subunit that
+mediates the interaction between the remodeling complex and transcription
+factors, results in diminished expression of endogenous BAF57. This
+down-regulation process is mediated by an increase in proteasome-dependent
+degradation of the BAF57 protein. Furthermore, the protein levels of BAF155/170
+dictate the maximum cellular amount of BAF57. We mapped the domains responsible
+for the interaction between BAF57 and BAF155 and demonstrated that
+protein-protein interactions between them play an important role in this
+regulatory process. These findings provide insights into the physiological
+mechanisms responsible for maintaining the proper stoichiometric levels of the
+protein components comprising multimeric enzyme complexes.
+
+PMCID: PMC1265786
+PMID: 16199878  [PubMed - indexed for MEDLINE]
+
+
+20. Hybridoma (Larchmt). 2005 Feb;24(1):55-7.
+
+Monoclonal antibodies reactive with the BAF155 (SMARCC1) and BAF170 (SMARCC2)
+components of human SWI/SNF-related complexes.
+
+Wang X(1), Liao DW, Scoy MV, Pacchione S, Yaciuk P, Moran E.
+
+Author information: 
+(1)Fels Institute for Cancer Research and Molecular Biology, Temple University
+School of Medicine, Philadelphia, Pennsylvania 19140, USA.
+
+Mammalian SWI/SNF-related chromatin remodeling complexes are required for
+transcription controls that underlie differentiation, development, and tumor
+suppression. The complexes each consist of an ATPase of the SWI2/SNF2 family and 
+approximately seven stably associated non-catalytic subunits. In spite of the
+importance of these complexes to biological processes, monoclonal antibodies to
+the various subunits have not been readily available. Mammalian complexes can
+vary in subunit composition, but the BAF155 (SMARCC1) subunit and a closely
+related protein, BAF170 (SMARCC2), appear to be ubiquitous components. Here we
+report the development of antibodies raised against a BAF155-derived peptide. The
+antibodies were raised against a single peptide of 18 amino acids. However,
+hybridomas expressing antibodies of two different specificities were isolated.
+One, designated DXD7, is specific for BAF155. The other, designated DXD12, is
+reactive with both BAF155 and BAF170. The antibodies are reactive against both
+native and denatured proteins, and are suitable for immunoprecipitation and
+Western blots. The DXD7 antibody is suitable additionally for immunofluorescence 
+assays.
+
+PMID: 15785210  [PubMed - indexed for MEDLINE]
+
+
+21. Int J Oncol. 2005 Jan;26(1):247-58.
+
+Identification by means of cDNA microarray analyses of gene expression
+modifications in squamous non-small cell lung cancers as compared to normal
+bronchial epithelial tissue.
+
+Remmelink M(1), Mijatovic T, Gustin A, Mathieu A, Rombaut K, Kiss R, Salmon I,
+Decaestecker C.
+
+Author information: 
+(1)Laboratory of Pathology, Erasmus University Hospital, Brussels, Belgium.
+
+The present work analyzed the gene pattern profiles in 6 squamous non-small cell 
+lung cancers (NSCLCs) versus 4 normal lung epithelial tissues by means of cDNA
+microarrays. In addition to cDNA microarray analyses, quantitative RT-PCR and
+immunohisto-chemical analyses were used to validate some of the results obtained.
+Our data enabled 7 genes to be selected by looking at the genes which were
+detected as being expressed in all the tumors and not expressed in all the normal
+samples, or inversely. Additionally, 19 genes were detected as being
+overexpressed in the tumors when compared to the normal tissue specimens. Of
+these 26 genes, 16 are not yet suspected of influencing NSCLC biology. These
+genes are involved in cell proliferation (G2 cyclin), signal transduction
+(SMARCC2, TM4SF3), apoptosis (CFLAR/FLIP), cell cytoskeleton (cytokeratins-14 and
+16, alpha-tubulin isoform 1 and S100A10), cell adhesion (JUP), invasion
+(cathepsins H and O) and other biological processes (OAZ1, IGHG3, SCYA5/RANTES,
+beta-sarcoglycan and transcobalamin I). In conclusion, we identified a number of 
+genes as being differentially expressed in squamous NSCLCs as compared to normal 
+lung epithelial tissue. Some of these genes (such as those involved in invasion) 
+could be used as new prognostic markers and others, like CFLAR/FLIP, could even
+constitute new therapeutic targets.
+
+PMID: 15586247  [PubMed - indexed for MEDLINE]
+
+
+22. Mol Cell Biol. 2003 Sep;23(17):6210-20.
+
+BAF60a mediates critical interactions between nuclear receptors and the BRG1
+chromatin-remodeling complex for transactivation.
+
+Hsiao PW(1), Fryer CJ, Trotter KW, Wang W, Archer TK.
+
+Author information: 
+(1)Laboratory of Molecular Carcinogenesis, National Institute of Environmental
+Health Sciences, National Institutes of Health, Research Triangle Park, North
+Carolina 27709, USA.
+
+Nuclear hormone receptors are ligand-dependent transcriptional regulators that
+modulate chromatin structure. However, the precise molecular mechanisms by which 
+receptors recruit chromatin-remodeling activity are not fully elucidated. We show
+that in the absence of its ligand-binding domain, the glucocorticoid receptor
+(GR) is able to interact with both nuclear receptor coactivators and the BRG1
+chromatin-remodeling complex in vivo. Individually, the GR makes direct
+interactions with BRG1-associated factor 60a (BAF60a) and BAF57, but not with
+BRG1, BAF155, or BAF170. Further, BAF60a possesses at least two interaction
+surfaces, one for GR and BRG1 and a second for BAF155 and BAF170. A GR mutant,
+GR(R488Q), that fails to interact with BAF60a in vitro has reduced
+chromatin-remodeling activity and reduced transcriptional activity from the
+promoter assembled as chromatin in vivo. Stable expression of a BAF60a truncation
+mutant, BAF60a4-140, caused chromatin-specific loss of GR functions in vivo. In
+the presence of the BAF60a mutant, the GR fails to interact with the BRG1 complex
+and consequently is also deficient in its ability to activate transcription from 
+chromatin. Thus, in addition to previously identified BAF250, BAF60a may provide 
+another critical and direct link between nuclear receptors and the BRG1 complex
+that is required for promoter recruitment and subsequent chromatin remodeling.
+
+PMCID: PMC180928
+PMID: 12917342  [PubMed - indexed for MEDLINE]
+
+
+23. Mol Cell Biol. 2002 Jun;22(12):4113-23.
+
+Proteasomal inhibition enhances glucocorticoid receptor transactivation and
+alters its subnuclear trafficking.
+
+Deroo BJ(1), Rentsch C, Sampath S, Young J, DeFranco DB, Archer TK.
+
+Author information: 
+(1)Chromatin and Gene Expression Section, National Institute of Environmental
+Health Sciences, National Institutes of Health, Research Triangle Park, North
+Carolina 27709, USA.
+
+The ubiquitin-proteasome pathway regulates the turnover of many transcription
+factors, including steroid hormone receptors such as the estrogen receptor and
+progesterone receptor. For these receptors, proteasome inhibition interferes with
+steroid-mediated transcription. We show here that proteasome inhibition with
+MG132 results in increased accumulation of the glucocorticoid receptor (GR),
+confirming that it is likewise a substrate for the ubiquitin-proteasome
+degradative pathway. Using the mouse mammary tumor virus (MMTV) promoter
+integrated into tissue culture cells, we found that proteasome inhibition
+synergistically increases GR-mediated transactivation. This increased activation 
+was observed in a number of cell lines and on various MMTV templates, either as
+transiently transfected reporters or stably integrated into chromatin. These
+observations suggest that the increase in GR-mediated transcription due to
+proteasome inhibition may occur downstream of the initial chromatin remodeling
+step. In support of this concept, the increase in transcription did not correlate
+with an increase in chromatin remodeling, as measured by restriction enzyme
+hypersensitivity, or transcription factor loading, as exemplified by nuclear
+factor 1. To investigate the relationship between GR turnover, transcription, and
+subnuclear trafficking, we examined the effect of proteasome inhibition on the
+mobility of the GR within the nucleus and association of the GR with the nuclear 
+matrix. Blocking GR turnover reduced the mobility of the GR within the nucleus,
+and this correlated with increased association of the receptor with the nuclear
+matrix. As a result of proteasome inhibition, GR mobility within the nucleus was 
+reduced while its association with the nuclear matrix was increased. Thus, while 
+altered nuclear mobility of steroid receptors may be a common feature of
+proteasome inhibition, GR is unique in its enhanced transactivation activity that
+results when proteasome function is compromised. Proteasomes may therefore impact
+steroid receptor action at multiple levels and exert distinct effects on
+individual receptor types.
+
+PMCID: PMC133869
+PMID: 12024025  [PubMed - indexed for MEDLINE]
+
+
+24. Hum Mol Genet. 2001 Nov 1;10(23):2651-60.
+
+Fanconi anemia protein, FANCA, associates with BRG1, a component of the human
+SWI/SNF complex.
+
+Otsuki T(1), Furukawa Y, Ikeda K, Endo H, Yamashita T, Shinohara A, Iwamatsu A,
+Ozawa K, Liu JM.
+
+Author information: 
+(1)Department of Hematology, Jichi Medical School, Yakushiji 3311-1,
+Minamikawachi, Kawachi, Tochigi 329-0498, Japan.
+
+Fanconi anemia (FA) is a genetic disorder that predisposes to hematopoietic
+failure, birth defects and cancer. We identified an interaction between the FA
+protein, FANCA and brm-related gene 1 (BRG1) product. BRG1 is a subunit of the
+SWI/SNF complex, which remodels chromatin structure through a DNA-dependent
+ATPase activity. FANCA was demonstrated to associate with the endogenous SWI/SNF 
+complex. We also found a significant increase in the molecular chaperone,
+glucose-regulated protein 94 (GRP94) among BRG1-associated factors isolated from 
+a FANCA-mutant cell line, which was not seen in either a normal control cell line
+or the mutant line complemented by wild-type FANCA. Despite this specific
+difference, FANCA did not appear to be absolutely required for in vitro chromatin
+remodeling. Finally, we demonstrated co-localization in the nucleus between
+transfected FANCA and BRG1. The physiological action of FANCA on the SWI/SNF
+complex remains to be clarified, but our work suggests that FANCA may recruit the
+SWI/SNF complex to target genes, thereby enabling coupled nuclear functions such 
+as transcription and DNA repair.
+
+PMID: 11726552  [PubMed - indexed for MEDLINE]
+
+
+25. Cell. 2000 Jul 21;102(2):257-65.
+
+BRCA1 is associated with a human SWI/SNF-related complex: linking chromatin
+remodeling to breast cancer.
+
+Bochar DA(1), Wang L, Beniya H, Kinev A, Xue Y, Lane WS, Wang W, Kashanchi F,
+Shiekhattar R.
+
+Author information: 
+(1)The Wistar Institute, Philadelphia, Pennsylvania 19104, USA.
+
+Germline mutations in the tumor suppressor gene, BRCA1, predispose individuals to
+breast and ovarian cancers. Using a combination of affinity- and conventional
+chromatographic techniques, we have isolated a predominant form of a multiprotein
+BRCA1-containing complex from human cells displaying chromatin-remodeling
+activity. Mass spectrometric sequencing of components of this complex indicated
+that BRCA1 is associated with a SWI/SNF-related complex. We show that BRCA1 can
+directly interact with the BRG1 subunit of the SWI/SNF complex. Moreover,
+p53-mediated stimulation of transcription by BRCA1 was completely abrogated by
+either a dominant-negative mutant of BRG1 or the cancer-causing deletion in exon 
+11 of BRCA1. These findings reveal a direct function for BRCA1 in transcriptional
+control through modulation of chromatin structure.
+
+PMID: 10943845  [PubMed - indexed for MEDLINE]
+
+
+26. Mol Cell. 1999 Feb;3(2):247-53.
+
+Reconstitution of a core chromatin remodeling complex from SWI/SNF subunits.
+
+Phelan ML(1), Sif S, Narlikar GJ, Kingston RE.
+
+Author information: 
+(1)Department of Molecular Biology, Massachusetts General Hospital, Boston 02114,
+USA.
+
+Protein complexes of the SWI/SNF family remodel nucleosome structure in an
+ATP-dependent manner. Each complex contains between 8 and 15 subunits, several of
+which are highly conserved between yeast, Drosophila, and humans. We have
+reconstituted an ATP-dependent chromatin remodeling complex using a subset of
+conserved subunits. Unexpectedly, both BRG1 and hBRM, the ATPase subunits of
+human SWI/SNF complexes, are capable of remodeling mono-nucleosomes and
+nucleosomal arrays as purified proteins. The addition of INI1, BAF155, and BAF170
+to BRG1 increases remodeling activity to a level comparable to that of the whole 
+hSWI/SNF complex. These data define the functional core of the hSWI/SNF complex.
+
+PMID: 10078207  [PubMed - indexed for MEDLINE]
+
+
+27. Cell. 1998 Oct 2;95(1):93-104.
+
+A SWI/SNF-related chromatin remodeling complex, E-RC1, is required for
+tissue-specific transcriptional regulation by EKLF in vitro.
+
+Armstrong JA(1), Bieker JJ, Emerson BM.
+
+Author information: 
+(1)Regulatory Biology Laboratory, The Salk Institute for Biological Studies, La
+Jolla, California 92037, USA.
+
+Erythroid Krüppel-like factor (EKLF) is necessary for stage-specific expression
+of the human beta-globin gene. We show that EKLF requires a SWI/SNF-related
+chromatin remodeling complex, EKLF coactivator-remodeling complex 1 (E-RC1), to
+generate a DNase I hypersensitive, transcriptionally active beta-globin promoter 
+on chromatin templates in vitro. E-RC1 contains BRG1, BAF170, BAF155, and INI1
+(BAF47) homologs of yeast SWI/SNF subunits, as well as a subunit unique to higher
+eukaryotes, BAF57, which is critical for chromatin remodeling and transcription
+with EKLF. E-RC1 displays functional selectivity toward transcription factors,
+since it cannot activate expression of chromatin-assembled HIV-1 templates with
+the E box-binding protein TFE-3. Thus, a member of the SWI/SNF family acts
+directly in transcriptional activation and may regulate subsets of genes by
+selectively interacting with specific DNA-binding proteins.
+
+PMID: 9778250  [PubMed - indexed for MEDLINE]
+
+
+28. Genomics. 1998 Jul 1;51(1):140-3.
+
+Five SWI/SNF-related, matrix-associated, actin-dependent regulator of chromatin
+(SMARC) genes are dispersed in the human genome.
+
+Ring HZ(1), Vameghi-Meyers V, Wang W, Crabtree GR, Francke U.
+
+Author information: 
+(1)Department of Genetics, Stanford University School of Medicine, Stanford,
+California, 94305, USA.
+
+The SWI/SNF-related, matrix-associated, actin-dependent regulators of chromatin
+(SMARC), also called BRG1-associated factors, are components of human
+SWI/SNF-like chromatin-remodeling protein complexes. We mapped five human SMARC
+genes toregions on four different human chromosomes, SMARCC1 to 3p23-p21, SMARCC2
+to 12q13-q14, SMARCD1 to 12q13-q14, SMARCD2 to 17q23-q24, and SMARCD3 to
+7q35-q36. SMARCC1, SMARCC2, and SMARCD1 are assigned to chromosomal regions that 
+are frequently involved in somatic rearrangements in human cancers. SMARCD1 was
+mapped to the critical region of Allgrove syndrome; however, no mutation was
+identified in one Allgrove syndrome family studied.
+
+Copyright 1998 Academic Press.
+
+PMID: 9693044  [PubMed - indexed for MEDLINE]
+
+
+29. Mol Cell Biol. 1998 Jun;18(6):3596-603.
+
+p300/CREB binding protein-related protein p270 is a component of mammalian
+SWI/SNF complexes.
+
+Dallas PB(1), Cheney IW, Liao DW, Bowrin V, Byam W, Pacchione S, Kobayashi R,
+Yaciuk P, Moran E.
+
+Author information: 
+(1)Fels Institute for Cancer Research and Molecular Biology, Temple University
+School of Medicine, Philadelphia, Pennsylvania 19140, USA.
+
+p300 and the closely related CREB binding protein (CBP) are transcriptional
+adaptors that are present in intracellular complexes with TATA binding protein
+(TBP) and bind to upstream activators including p53 and nuclear hormone
+receptors. They have intrinsic and associated histone acetyltransferase activity,
+suggesting that chromatin modification is an essential part of their role in
+regulating transcription. Detailed characterization of a panel of antibodies
+raised against p300/CBP has revealed the existence of a 270-kDa cellular protein,
+p270, distinct from p300 and CBP but sharing at least two independent epitopes
+with p300. The subset of p300/CBP-derived antibodies that cross-reacts with p270 
+consistently coprecipitates a series a cellular proteins with relative molecular 
+masses ranging from 44 to 190 kDa. Purification and analysis of various proteins 
+in this group reveals that they are components of the human SWI/SNF complex and
+that p270 is an integral member of this complex.
+
+PMCID: PMC108941
+PMID: 9584200  [PubMed - indexed for MEDLINE]
+
+
+30. Genes Dev. 1996 Sep 1;10(17):2117-30.
+
+Diversity and specialization of mammalian SWI/SNF complexes.
+
+Wang W(1), Xue Y, Zhou S, Kuo A, Cairns BR, Crabtree GR.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Department of Developmental Biology, Stanford
+University, California 94305-5428, USA.
+
+The SWI/SNF complex in yeast facilitates the function of transcriptional
+activators by opposing chromatin-dependent repression of transcription. We
+demonstrate that in mammals SWI/SNF complexes are present in multiple forms made 
+up of 9-12 proteins that we refer to as BRG1-associated factors (BAFs) ranging
+from 47 to 250 kD. We have isolated cDNAs for human BAF155, BAF170, and BAF60.
+BAF155 and BAF170 are encoded by separate genes that are both homologs of yeast
+SWI3. Both contain a region of similarity to the DNA binding domain of myb, but
+lack the basic residues known to be necessary for interaction with DNA. The two
+SWI3 homologs copurify on antibody columns specific for either BAF155 or BAF170, 
+indicating that they are in the same complex. BAF60 is encoded by a novel gene
+family. An open reading frame from yeast, which is highly homologous, encodes the
+previously uncharacterized 73-kD subunit of the yeast SWI/SNF complex required
+for transcriptional activation by the glucocorticoid receptor (Cairns et al.,
+this issue). BAF60a is expressed in all tissues examined, whereas BAF60b and
+BAF60c are expressed preferentially in muscle and pancreas, respectively. BAF60a 
+is present within the 2000-kD BRG1 complex, whereas BAF60b is in a distinct
+complex that shares some but not all subunits with the BRG1 complex. The observed
+similarity between mammalian BAF190, BAF170, BAF155, BAF60, and BAF47 and yeast
+SNF2/SWI2, SWI3, SWI3, SWP73, and SNF5, respectively, underscores the similarity 
+of the mammalian and yeast complexes. However, the complexes in mammals are more 
+diverse than the SWI/SNF complex in yeast and are likely dedicated to
+developmentally distinct functions.
+
+PMID: 8804307  [PubMed - indexed for MEDLINE]
+
+

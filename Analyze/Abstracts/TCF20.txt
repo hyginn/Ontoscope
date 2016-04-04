@@ -1,0 +1,624 @@
+
+1. Int J Clin Exp Pathol. 2014 Sep 15;7(10):7182-90. eCollection 2014.
+
+miR-199a-5p regulates the expression of metastasis-associated genes in B16F10
+melanoma cells.
+
+Zhou J(1), Liu R(1), Wang Y(1), Tang J(2), Tang S(3), Chen X(4), Xia K(5), Xiong 
+W(6), Xu D(1), Wang S(1), He Q(1), Cao K(7).
+
+Author information: 
+(1)Department of Plastic and Reconstructive Surgery, Third Xiangya Hospital,
+Central South University Changsha, China. (2)Institute of Medical Physics and
+Engineering, Department of Engineering Physics, Tsinghua University Beijing,
+China. (3)Cleft Lip and Palate Treatment Center, Second Affiliated Hospital,
+Shantou University Medical College Shantou, China. (4)Department of Dermatology, 
+Xiangya Hospital, Central South University Changsha, China. (5)State Key
+Laboratory of Medical Genetics, Central South University Changsha, China.
+(6)Cancer Research Institute, Key Laboratory of Carcinogenesis of Ministry of
+Health, Central South University Changsha, China. (7)Department of Oncology,
+Third Xiangya Hospital, Central South University Changsha, China.
+
+MicroRNAs are regulatory factors that play important roles in tumor development, 
+invasion and metastasis. Previously, we showed that miR-199a is abnormally
+expressed in clinical melanoma specimens and expression was closely associated
+with clinical features of metastasis. However, the exact molecular mechanisms by 
+which miR-199a-5p influences melanoma invasion and metastasis remains unclear. In
+this study, we investigated gene expression changes of metastasis-associated
+genes in B16F10 melanoma cells following targeted silencing or overexpression of 
+miR-199a-5p, using mouse tumor metastasis PCR arrays. Comparison of gene
+expression changes in miR-199a-5p-silenced versus overexpressing cells identified
+a set of upregulated genes (> 2-fold) including Cd44, Cdh1, Cxcr4, Etv4, Fxyd5,
+Rpsa, Mmp3, Myc, Rb1, Tcf20, Hprt1, Actb1 and downregulated genes (> 2-fold)
+including Ctsk, Itga7 and Tnfsf10. Regulation of a subset of these genes (Myc,
+Tnfsf10 and Cd44) following miR-199a-5p silencing or overexpression was validated
+by reverse transcription-polymerase chain reaction (RT-PCR) and western blot. In 
+conclusion, our study demonstrates that miR-199a-5p regulates melanoma
+metastasis-related genes, and may provide a basis for the development of novel,
+molecularly targeted drugs.
+
+PMCID: PMC4230055
+PMID: 25400815  [PubMed - indexed for MEDLINE]
+
+
+2. J Med Genet. 2014 Nov;51(11):737-47. doi: 10.1136/jmedgenet-2014-102582. Epub
+2014 Sep 16.
+
+De novo and rare inherited mutations implicate the transcriptional coregulator
+TCF20/SPBP in autism spectrum disorder.
+
+Babbs C(1), Lloyd D(2), Pagnamenta AT(3), Twigg SR(2), Green J(2), McGowan SJ(2),
+Mirza G(4), Naples R(2), Sharma VP(5), Volpi EV(4), Buckle VJ(2), Wall SA(6),
+Knight SJ(3); International Molecular Genetic Study of Autism Consortium
+(IMGSAC), Parr JR(7), Wilkie AO(8).
+
+Author information: 
+(1)Weatherall Institute of Molecular Medicine, John Radcliffe Hospital, Oxford,
+UK NIHR Biomedical Research Centre, Oxford, UK. (2)Weatherall Institute of
+Molecular Medicine, John Radcliffe Hospital, Oxford, UK. (3)NIHR Biomedical
+Research Centre, Oxford, UK Wellcome Trust Centre for Human Genetics, University 
+of Oxford, Oxford, UK. (4)Wellcome Trust Centre for Human Genetics, University of
+Oxford, Oxford, UK. (5)Weatherall Institute of Molecular Medicine, John Radcliffe
+Hospital, Oxford, UK Craniofacial Unit, Department of Plastic and Reconstructive 
+Surgery, Oxford University Hospitals NHS Trust, John Radcliffe Hospital, Oxford, 
+UK. (6)Craniofacial Unit, Department of Plastic and Reconstructive Surgery,
+Oxford University Hospitals NHS Trust, John Radcliffe Hospital, Oxford, UK.
+(7)Institute of Neuroscience, Newcastle University, Newcastle Upon Tyne, UK.
+(8)Weatherall Institute of Molecular Medicine, John Radcliffe Hospital, Oxford,
+UK NIHR Biomedical Research Centre, Oxford, UK Craniofacial Unit, Department of
+Plastic and Reconstructive Surgery, Oxford University Hospitals NHS Trust, John
+Radcliffe Hospital, Oxford, UK.
+
+BACKGROUND: Autism spectrum disorders (ASDs) are common and have a strong genetic
+basis, yet the cause of ~70-80% ASDs remains unknown. By clinical cytogenetic
+testing, we identified a family in which two brothers had ASD, mild intellectual 
+disability and a chromosome 22 pericentric inversion, not detected in either
+parent, indicating de novo mutation with parental germinal mosaicism. We
+hypothesised that the rearrangement was causative of their ASD and localised the 
+chromosome 22 breakpoints.
+METHODS: The rearrangement was characterised using fluorescence in situ
+hybridisation, Southern blotting, inverse PCR and dideoxy-sequencing. Open
+reading frames and intron/exon boundaries of the two physically disrupted genes
+identified, TCF20 and TNRC6B, were sequenced in 342 families (260 multiplex and
+82 simplex) ascertained by the International Molecular Genetic Study of Autism
+Consortium (IMGSAC).
+RESULTS: IMGSAC family screening identified a de novo missense mutation of TCF20 
+in a single case and significant association of a different missense mutation of 
+TCF20 with ASD in three further families. Through exome sequencing in another
+project, we independently identified a de novo frameshifting mutation of TCF20 in
+a woman with ASD and moderate intellectual disability. We did not identify a
+significant association of TNRC6B mutations with ASD.
+CONCLUSIONS: TCF20 encodes a transcriptional coregulator (also termed SPBP) that 
+is structurally and functionally related to RAI1, the critical dosage-sensitive
+protein implicated in the behavioural phenotypes of the Smith-Magenis and
+Potocki-Lupski 17p11.2 deletion/duplication syndromes, in which ASD is frequently
+diagnosed. This study provides the first evidence that mutations in TCF20 are
+also associated with ASD.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not
+already granted under a licence) please go to
+http://group.bmj.com/group/rights-licensing/permissions.
+
+PMCID: PMC4215269
+PMID: 25228304  [PubMed - indexed for MEDLINE]
+
+
+3. PLoS One. 2014 Apr 4;9(4):e93891. doi: 10.1371/journal.pone.0093891. eCollection 
+2014.
+
+Large-scale RNA interference screening in mammalian cells identifies novel
+regulators of mutant huntingtin aggregation.
+
+Yamanaka T(1), Wong HK(2), Tosaki A(3), Bauer PO(3), Wada K(3), Kurosawa M(1),
+Shimogori T(4), Hattori N(5), Nukina N(1).
+
+Author information: 
+(1)Department of Neuroscience for Neurodegenerative Disorders, Juntendo
+University Graduate School of Medicine, Tokyo, Japan; Laboratory for Structural
+Neuropathology, RIKEN Brain Science Institute, Saitama, Japan; Laboratory for
+Molecular Mechanisms of Thalamus Development, RIKEN Brain Science Institute,
+Saitama, Japan; CREST (Core Research for Evolutionary Science and Technology),
+JST, Tokyo, Japan. (2)Laboratory for Structural Neuropathology, RIKEN Brain
+Science Institute, Saitama, Japan; Center for Neurologic Diseases, Department of 
+Neurology, Brigham and Women's Hospital and Harvard Medical School, Harvard
+Institutes of Medicine, Boston, Massachusetts, United States of America.
+(3)Laboratory for Structural Neuropathology, RIKEN Brain Science Institute,
+Saitama, Japan. (4)Laboratory for Molecular Mechanisms of Thalamus Development,
+RIKEN Brain Science Institute, Saitama, Japan. (5)Department of Neurology,
+Juntendo University Graduate School of Medicine, Tokyo, Japan.
+
+In polyglutamine (polyQ) diseases including Huntington's disease (HD), mutant
+proteins containing expanded polyQ stretch form aggregates in neurons. Genetic or
+RNAi screenings in yeast, C. elegans or Drosophila have identified multiple genes
+modifying polyQ aggregation, a few of which are confirmed effective in mammals.
+However, the overall molecular mechanism underlying polyQ protein aggregation in 
+mammalian cells still remains obscure. We here perform RNAi screening in mouse
+neuro2a cells to identify mammalian modifiers for aggregation of mutant
+huntingtin, a causative protein of HD. By systematic cell transfection and
+automated cell image analysis, we screen ~ 12000 shRNA clones and identify 111
+shRNAs that either suppress or enhance mutant huntingtin aggregation, without
+altering its gene expression. Classification of the shRNA-targets suggests that
+genes with various cellular functions such as gene transcription and protein
+phosphorylation are involved in modifying the aggregation. Subsequent analysis
+suggests that, in addition to the aggregation-modifiers sensitive to proteasome
+inhibition, some of them, such as a transcription factor Tcf20, and kinases
+Csnk1d and Pik3c2a, are insensitive to it. As for Tcf20, which contains polyQ
+stretches at N-terminus, its binding to mutant huntingtin aggregates is observed 
+in neuro2a cells and in HD model mouse neurons. Notably, except Pik3c2a, the rest
+of the modifiers identified here are novel. Thus, our first large-scale RNAi
+screening in mammalian system identifies previously undescribed genetic players
+that regulate mutant huntingtin aggregation by several, possibly
+mammalian-specific mechanisms.
+
+PMCID: PMC3976342
+PMID: 24705917  [PubMed - indexed for MEDLINE]
+
+
+4. PLoS One. 2014 Jan 9;9(1):e85262. doi: 10.1371/journal.pone.0085262. eCollection 
+2014.
+
+SPBP is a sulforaphane induced transcriptional coactivator of NRF2 regulating
+expression of the autophagy receptor p62/SQSTM1.
+
+Darvekar SR(1), Elvenes J(1), Brenne HB(1), Johansen T(1), Sjøttem E(1).
+
+Author information: 
+(1)Molecular Cancer Research Group, Department of Medical Biology, University of 
+Tromsø, Tromsø, Norway.
+
+Organisms exposed to oxidative stress respond by orchestrating a stress response 
+to prevent further damage. Intracellular levels of antioxidant agents increase,
+and damaged components are removed by autophagy induction. The KEAP1-NRF2
+signaling pathway is the main pathway responsible for cell defense against
+oxidative stress and for maintaining the cellular redox balance at physiological 
+levels. Sulforaphane, an isothiocyanate derived from cruciferous vegetables, is a
+potent inducer of KEAP1-NRF2 signaling and antioxidant response element driven
+gene expression. In this study, we show that sulforaphane enhances the expression
+of the transcriptional coregulator SPBP. The expression curve peaks 6-8 hours
+post stimulation, and parallels the sulforaphane-induced expression of NRF2 and
+the autophagy receptor protein p62/SQSTM1. Reporter gene assays show that SPBP
+stimulates the expression of p62/SQSTM1 via ARE elements in the promoter region, 
+and siRNA mediated knock down of SPBP significantly decreases the expression of
+p62/SQSTM1 and the formation of p62/SQSTM1 bodies in HeLa cells. Furthermore,
+SPBP siRNA reduces the sulforaphane induced expression of NRF2, and the
+expression of the autophagy marker protein LC3B. Both these proteins contain
+ARE-like elements in their promoter regions. Over-expressed SPBP and NRF2 acts
+synergistically on the p62/SQSTM1 promoter and colocalize in nuclear speckles in 
+HeLa cells. Collectively, these results suggest that SPBP is a coactivator of
+NRF2, and hence may be important for securing enhanced and sustained expression
+of NRF2 induced genes such as proteins involved in selective autophagy.
+
+PMCID: PMC3887019
+PMID: 24416372  [PubMed - indexed for MEDLINE]
+
+
+5. PLoS One. 2013 Oct 18;8(10):e78907. doi: 10.1371/journal.pone.0078907.
+eCollection 2013.
+
+A phylogenetic study of SPBP and RAI1: evolutionary conservation of chromatin
+binding modules.
+
+Darvekar S(1), Rekdal C, Johansen T, Sjøttem E.
+
+Author information: 
+(1)Molecular Cancer Research Group, Department of Medical Biology, University of 
+Tromsø, Tromsø, Norway.
+
+Our genome is assembled into and array of highly dynamic nucleosome structures
+allowing spatial and temporal access to DNA. The nucleosomes are subject to a
+wide array of post-translational modifications, altering the DNA-histone
+interaction and serving as docking sites for proteins exhibiting effector or
+"reader" modules. The nuclear proteins SPBP and RAI1 are composed of several
+putative "reader" modules which may have ability to recognise a set of histone
+modification marks. Here we have performed a phylogenetic study of their putative
+reader modules, the C-terminal ePHD/ADD like domain, a novel nucleosome binding
+region and an AT-hook motif. Interactions studies in vitro and in yeast cells
+suggested that despite the extraordinary long loop region in their ePHD/ADD-like 
+chromatin binding domains, the C-terminal region of both proteins seem to adopt a
+cross-braced topology of zinc finger interactions similar to other structurally
+determined ePHD/ADD structures. Both their ePHD/ADD-like domain and their novel
+nucleosome binding domain are highly conserved in vertebrate evolution, and
+construction of a phylogenetic tree displayed two well supported clusters
+representing SPBP and RAI1, respectively. Their genome and domain organisation
+suggest that SPBP and RAI1 have occurred from a gene duplication event. The
+phylogenetic tree suggests that this duplication has happened early in vertebrate
+evolution, since only one gene was identified in insects and lancelet. Finally,
+experimental data confirm that the conserved novel nucleosome binding region of
+RAI1 has the ability to bind the nucleosome core and histones. However, an
+adjacent conserved AT-hook motif as identified in SPBP is not present in RAI1,
+and deletion of the novel nucleosome binding region of RAI1 did not significantly
+affect its nuclear localisation.
+
+PMCID: PMC3799622
+PMID: 24205348  [PubMed - indexed for MEDLINE]
+
+
+6. Toxicol Sci. 2013 Nov;136(1):107-19. doi: 10.1093/toxsci/kft191. Epub 2013 Aug
+31.
+
+Genome-wide RNAi high-throughput screen identifies proteins necessary for the
+AHR-dependent induction of CYP1A1 by 2,3,7,8-tetrachlorodibenzo-p-dioxin.
+
+Solaimani P(1), Damoiseaux R, Hankinson O.
+
+Author information: 
+(1)* Molecular Toxicology Interdepartmental Program, Department of Pathology and 
+Laboratory Medicine, and the Jonsson Comprehensive Cancer Center and.
+
+The aryl hydrocarbon receptor (AHR) has a plethora of physiological roles, and
+upon dysregulation, carcinogenesis can occur. One target gene of AHR encodes the 
+xenobiotic and drug-metabolizing enzyme CYP1A1, which is inducible by the
+environmental contaminant 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) via the AHR.
+An siRNA library targeted against over 5600 gene candidates in the druggable
+genome was used to transfect mouse Hepa-1 cells, which were then treated with
+TCDD, and subsequently assayed for CYP1A1-dependent ethoxyresorufin-o-deethylase 
+(EROD) activity. Following redundant siRNA activity (RSA) statistical analysis,
+we identified 93 hits that reduced EROD activity with a p value = .005 and
+substantiated 39 of these as positive hits in a secondary screening using
+endoribonuclease-prepared siRNAs (esiRNAs). Twelve of the corresponding gene
+products were subsequently confirmed to be necessary for the induction of CYP1A1 
+messenger RNA by TCDD. None of the candidates were deficient in aryl hydrocarbon 
+nuclear translocator expression. However 6 gene products including UBE2i, RAB40C,
+CRYGD, DCTN4, RBM5, and RAD50 are required for the expression of AHR as well as
+for induction of CYP1A1. We also found 2 gene products, ARMC8 and TCF20, to be
+required for the induction of CYP1A1, but our data are ambiguous as to whether
+they are required for the expression of AHR. In contrast, SIN3A, PDC, TMEM5, and 
+CD9 are not required for AHR expression but are required for the induction of
+CYP1A1, implicating a direct role in Cyp1a1 transcription. Our methods, although 
+applied to Cyp1a1, could be modified for identifying proteins that regulate other
+inducible genes.
+
+PMCID: PMC3829574
+PMID: 23997114  [PubMed - indexed for MEDLINE]
+
+
+7. PLoS Pathog. 2012;8(6):e1002751. doi: 10.1371/journal.ppat.1002751. Epub 2012 Jun
+14.
+
+Crystal structures reveal the multi-ligand binding mechanism of Staphylococcus
+aureus ClfB.
+
+Xiang H(1), Feng Y, Wang J, Liu B, Chen Y, Liu L, Deng X, Yang M.
+
+Author information: 
+(1)Key Laboratory for Protein Sciences of Ministry of Education, Tsinghua-Peking 
+Center for Life Sciences, School of Life Sciences, Tsinghua University, Beijing, 
+China.
+
+Staphylococcus aureus (S. aureus) pathogenesis is a complex process involving a
+diverse array of extracellular and cell wall components. ClfB, an MSCRAMM
+(Microbial Surface Components Recognizing Adhesive Matrix Molecules) family
+surface protein, described as a fibrinogen-binding clumping factor, is a key
+determinant of S. aureus nasal colonization, but the molecular basis for
+ClfB-ligand recognition remains unknown. In this study, we solved the crystal
+structures of apo-ClfB and its complexes with fibrinogen a (Fg a) and cytokeratin
+10 (CK10) peptides. Structural comparison revealed a conserved
+glycine-serine-rich (GSR) ClfB binding motif (GSSGXGXXG) within the ligands,
+which was also found in other human proteins such as Engrailed protein, TCF20 and
+Dermokine proteins. Interaction between Dermokine and ClfB was confirmed by
+subsequent binding assays. The crystal structure of ClfB complexed with a
+15-residue peptide derived from Dermokine revealed the same peptide binding mode 
+of ClfB as identified in the crystal structures of ClfB-Fg a and ClfB-CK10. The
+results presented here highlight the multi-ligand binding property of ClfB, which
+is very distinct from other characterized MSCRAMMs to-date. The adherence of
+multiple peptides carrying the GSR motif into the same pocket in ClfB is
+reminiscent of MHC molecules. Our results provide a template for the
+identification of other molecules targeted by S. aureus during its colonization
+and infection. We propose that other MSCRAMMs like ClfA and SdrG also possess
+multi-ligand binding properties.
+
+PMCID: PMC3375286
+PMID: 22719251  [PubMed - indexed for MEDLINE]
+
+
+8. Biochem J. 2012 Feb 15;442(1):65-75. doi: 10.1042/BJ20111230.
+
+Identification of two independent nucleosome-binding domains in the
+transcriptional co-activator SPBP.
+
+Darvekar S(1), Johnsen SS, Eriksen AB, Johansen T, Sjøttem E.
+
+Author information: 
+(1)Molecular Cancer Research Group, Department of Medical Biology, University of 
+Tromsø, 9037 Tromsø, Norway.
+
+Transcriptional regulation requires co-ordinated action of transcription factors,
+co-activator complexes and general transcription factors to access specific loci 
+in the dense chromatin structure. In the present study we demonstrate that the
+transcriptional co-regulator SPBP [stromelysin-1 PDGF (platelet-derived growth
+factor)-responsive element binding protein] contains two independent
+chromatin-binding domains, the SPBP-(1551-1666) region and the C-terminal
+extended PHD [ePHD/ADD (extended plant homeodomain/ATRX-DNMT3-DNMT3L)] domain.
+The region 1551-1666 is a novel core nucleosome-interaction domain located
+adjacent to the AT-hook motif in the DNA-binding domain. This novel
+nucleosome-binding region is critically important for proper localization of SPBP
+in the cell nucleus. The ePHD/ADD domain associates with nucleosomes in a histone
+tail-dependent manner, and has significant impact on the dynamic interaction
+between SPBP and chromatin. Furthermore, SPBP and its homologue RAI1
+(retinoic-acid-inducible protein 1), are strongly enriched on chromatin in
+interphase HeLa cells, and both proteins display low nuclear mobility. RAI1
+contains a region with homology to the novel nucleosome-binding region
+SPBP-(1551-1666) and an ePHD/ADD domain with ability to bind nucleosomes. These
+results indicate that the transcriptional co-regulator SPBP and its homologue
+RAI1 implicated in Smith-Magenis syndrome and Potocki-Lupski syndrome both belong
+to the expanding family of chromatin-binding proteins containing several domains 
+involved in specific chromatin interactions.
+
+PMID: 22081970  [PubMed - indexed for MEDLINE]
+
+
+9. PLoS One. 2011;6(9):e24659. doi: 10.1371/journal.pone.0024659. Epub 2011 Sep 15.
+
+Pax6 represses androgen receptor-mediated transactivation by inhibiting
+recruitment of the coactivator SPBP.
+
+Elvenes J(1), Thomassen EI, Johnsen SS, Kaino K, Sjøttem E, Johansen T.
+
+Author information: 
+(1)Molecular Cancer Research Group, Institute of Medical Biology, University of
+Tromsø, Tromsø, Norway.
+
+The androgen receptor (AR) has a central role in development and maintenance of
+the male reproductive system and in the etiology of prostate cancer. The
+transcription factor Pax6 has recently been reported to act as a repressor of AR 
+and to be hypermethylated in prostate cancer cells. SPBP is a transcriptional
+regulator that previously has been shown to enhance the activity of Pax6. In this
+study we have identified SPBP to act as a transcriptional coactivator of AR. We
+also show that Pax6 inhibits SPBP-mediated enhancement of AR activity on the AR
+target gene probasin promoter, a repression that was partly reversed by increased
+expression of SPBP. Enhanced expression of Pax6 reduced the amount of SPBP
+associated with the probasin promoter when assayed by ChIP in HeLa cells. We
+mapped the interaction between both AR and SPBP, and AR and Pax6 to the
+DNA-binding domains of the involved proteins. Further binding studies revealed
+that Pax6 and SPBP compete for binding to AR. These results suggest that Pax6
+represses AR activity by displacing and/or inhibiting recruitment of coactivators
+to AR target promoters. Understanding the mechanism for inhibition of AR
+coactivators can give rise to molecular targeted drugs for treatment of prostate 
+cancer.
+
+PMCID: PMC3174178
+PMID: 21935435  [PubMed - indexed for MEDLINE]
+
+
+10. Nucleic Acids Res. 2007;35(19):6648-62. Epub 2007 Oct 2.
+
+The ePHD protein SPBP interacts with TopBP1 and together they co-operate to
+stimulate Ets1-mediated transcription.
+
+Sjøttem E(1), Rekdal C, Svineng G, Johnsen SS, Klenow H, Uglehus RD, Johansen T.
+
+Author information: 
+(1)Biochemistry Department and Department of Molecular Biotechnology, Institute
+of Medical Biology, University of Tromsø, 9037 Tromsø, Norway.
+
+SPBP (Stromelysin-1 PDGF responsive element binding protein) is a ubiquitously
+expressed 220 kDa nuclear protein shown to enhance or repress the transcriptional
+activity of various transcription factors. A yeast two-hybrid screen, with the
+extended plant homeodomain (ePHD) of SPBP as bait, identified TopBP1
+(topoisomerase II beta-binding protein 1) as a candidate interaction partner of
+SPBP. TopBP1 has eight BRCA1 carboxy-terminal (BRCT) domains and is involved in
+DNA replication, DNA damage responses and in the regulation of gene expression.
+The interaction between SPBP and TopBP1 was confirmed in vitro and in vivo, and
+was found to be mediated by the ePHD domain of SPBP and the BRCT6 domain of
+TopBP1. Both SPBP and TopBP1 enhanced the transcriptional activity of Ets1 on the
+c-myc P1P2- and matrix metalloproteinase-3 (MMP3) promoters. Together they
+displayed a more than additive effect. Both proteins were associated with these
+promoters. The involvement of TopBP1 was dependent on the serine 1159
+phosphorylation site, known to be important for transcriptional activation.
+Depletion of endogenous SPBP by siRNA treatment reduced MMP3 secretion by 50% in 
+phorbol ester-stimulated human fibroblasts. Taken together, our results show that
+TopBP1 and SPBP interact physically and functionally to co-operate as
+co-activators of Ets1.
+
+PMCID: PMC2095823
+PMID: 17913746  [PubMed - indexed for MEDLINE]
+
+
+11. Int J Oncol. 2006 Sep;29(3):567-75.
+
+Gene expression profiles of small-cell lung cancers: molecular signatures of lung
+cancer.
+
+Taniwaki M(1), Daigo Y, Ishikawa N, Takano A, Tsunoda T, Yasui W, Inai K, Kohno
+N, Nakamura Y.
+
+Author information: 
+(1)Laboratory of Molecular Medicine, Human Genome Center, Institute of Medical
+Science, The University of Tokyo, Tokyo 108-8639, Japan.
+
+To characterize the molecular mechanisms involved in the carcinogenesis and
+progression of small-cell lung cancer (SCLC) and identify molecules to be applied
+as novel diagnostic markers and/or for development of molecular-targeted drugs,
+we applied cDNA microarray profile analysis coupled with purification of cancer
+cells by laser-microbeam microdissection (LMM). Expression profiles of 32,256
+genes in 15 SCLCs identified 252 genes that were commonly up-regulated and 851
+transcripts that were down-regulated in SCLC cells compared with non-cancerous
+lung tissue cells. An unsupervised clustering algorithm applied to the expression
+data easily distinguished SCLC from the other major histological type of
+non-small cell lung cancer (NSCLC) and identified 475 genes that may represent
+distinct molecular features of each of the two histological types. In particular,
+SCLC was characterized by altered expression of genes related to neuroendocrine
+cell differentiation and/or growth such as ASCL1, NRCAM, and INSM1. We also
+identified 68 genes that were abundantly expressed both in advanced SCLCs and
+advanced adenocarcinomas (ADCs), both of which had been obtained from patients
+with extensive chemotherapy treatment. Some of them are known to be transcription
+factors and/or gene expression regulators such as TAF5L, TFCP2L4, PHF20, LMO4,
+TCF20, RFX2, and DKFZp547I048 as well as those encoding nucleotide-binding
+proteins such as C9orf76, EHD3, and GIMAP4. Our data provide valuable information
+for better understanding of lung carcinogenesis and chemoresistance.
+
+PMID: 16865272  [PubMed - indexed for MEDLINE]
+
+
+12. J Cell Sci. 2006 Apr 15;119(Pt 8):1494-503. Epub 2006 Mar 14.
+
+An N-terminally acetylated Arf-like GTPase is localised to lysosomes and affects 
+their motility.
+
+Hofmann I(1), Munro S.
+
+Author information: 
+(1)MRC Laboratory of Molecular Biology, Hills Road, Cambridge, CB2 2QH, UK.
+
+Small GTPases of the Arf and Rab families play key roles in the function of
+subcellular organelles. Each GTPase is usually found on only one compartment and,
+hence, they confer organelle specificity to many intracellular processes.
+However, there has so far been little evidence for specific GTPases present on
+lysosomes. Here, we report that two closely related human Arf-like GTPases, Arl8a
+and Arl8b (also known as Arl10b/c and Gie1/2), localise to lysosomes in mammalian
+cells, with the single homologue in Drosophila cells having a similar location.
+Conventionally, membrane binding of Arf and Arl proteins is mediated by both an
+N-terminal myristoyl group and an N-terminal amphipathic helix that is inserted
+into the lipid bilayer upon activation of the GTPase. Arl8a and Arl8b do not have
+N-terminal myristoylation sites, and we find that Arl8b is instead N-terminally
+acetylated, and an acetylated methionine is necessary for its lysosomal
+localization. Overexpression of Arl8a or Arl8b results in a microtubule-dependent
+redistribution of lysosomes towards the cell periphery. Live cell imaging shows
+that lysosomes move more frequently both toward and away from the cell periphery,
+suggesting a role for Arl8a and Arl8b as positive regulators of lysosomal
+transport.
+
+PMID: 16537643  [PubMed - indexed for MEDLINE]
+
+
+13. J Pathol. 2006 Mar;208(4):543-53.
+
+A gene expression signature that distinguishes desmoid tumours from nodular
+fasciitis.
+
+Bacac M(1), Migliavacca E, Stehle JC, McKee T, Delorenzi M, Coindre JM, Guillou
+L, Stamenkovic I.
+
+Author information: 
+(1)Division of Experimental Pathology, University Institute of Pathology,
+Lausanne, Switzerland.
+
+Nodular fasciitis (NF) is a rapidly growing cellular mass composed of
+fibroblasts/myofibroblasts, usually localized in subcutaneous tissues, that
+typically undergoes fibrosis and almost never recurs. Desmoid tumours (DTs) are
+rare forms of fibroblastic/myofibroblastic growth that arise in deep soft
+tissues, display a propensity for local infiltration and recurrence, but fail to 
+metastasize. Given that both entities are primarily fibroblastic/myofibroblastic 
+lesions with overlapping histological features, their gene expression profiles
+were compared to identify differentially expressed genes that may provide not
+only potential diagnostic markers, but also clues as to the pathogenesis of each 
+disorder. Differentially expressed transcripts (89 clones displaying increased
+expression in DTs and 246 clones displaying increased expression in NF) included 
+genes encoding several receptor and non-receptor tyrosine kinases (EPHB3, PTPRF, 
+GNAZ, SYK, LYN, EPHA4, BIRC3), transcription factors (TWIST1, PITX2, EYA2, OAS1, 
+MITF, TCF20), and members of the Wnt signalling pathway (AXIN2, WISP1, SFRP).
+Remarkably, almost one-quarter of the differentially expressed genes encode
+proteins associated with inflammation and tissue remodelling, including members
+of the interferon (IFN), tumour necrosis factor (TNF), and transforming growth
+factor beta (TGF-beta) signalling pathways as well as metalloproteinases (MMP1,
+9, 13, 23), urokinase plasminogen activator (PLAU), and cathepsins. The
+observations provide the first comparative molecular characterization of desmoid 
+tumours and nodular fasciitis and suggest that selected tyrosine kinases,
+transcription factors, and members of the Wnt, TGF-beta, IFN, and TNF signalling 
+pathways may be implicated in influencing and distinguishing their fate.
+
+PMID: 16440290  [PubMed - indexed for MEDLINE]
+
+
+14. Mol Cell Biol. 2005 May;25(9):3421-30.
+
+SPBP is a phosphoserine-specific repressor of estrogen receptor alpha.
+
+Gburcik V(1), Bot N, Maggiolini M, Picard D.
+
+Author information: 
+(1)Department of Cell Biology, Sciences III, University of Geneva, 30 quai
+Ernest-Ansermet, 1211 Geneva 4, Switzerland.
+
+Multiple signaling pathways stimulate the activity of estrogen receptor alpha
+(ERalpha) by direct phosphorylation within its N-terminal activation function 1
+(AF1). How phosphorylation affects AF1 activity remains poorly understood. We
+performed a phage display screen for human proteins that are exclusively
+recruited to the phosphorylated form of AF1 and found the stromelysin-1
+platelet-derived growth factor-responsive element-binding protein (SPBP). In a
+purified system, SPBP bound only the in vitro-phosphorylated form of the ERalpha 
+AF1 or the phosphoserine mimic S118E, and the interaction domain could be mapped 
+to a 42-amino-acid fragment of SPBP. In cells, SPBP preferentially interacted
+with liganded and phosphorylated ERalpha. Functionally, SPBP behaved as a
+repressor of activated ERalpha, which extends its previously demonstrated roles
+as a DNA binding transactivation factor and coactivator of other transcription
+factors. By targeting the phosphorylated form of AF1, SPBP may contribute to
+attenuating and fine-tuning ERalpha activity. A functional consequence is that
+SPBP inhibits the proliferation of ERalpha-dependent but not ERalpha-independent 
+breast cancer cell lines, mirroring a reported negative correlation with the
+ERalpha status of breast tumors.
+
+PMCID: PMC1084313
+PMID: 15831449  [PubMed - indexed for MEDLINE]
+
+
+15. J Biol Chem. 2000 Dec 22;275(51):40288-300.
+
+The nuclear factor SPBP contains different functional domains and stimulates the 
+activity of various transcriptional activators.
+
+Rekdal C(1), Sjøttem E, Johansen T.
+
+Author information: 
+(1)Department of Biochemistry, Institute of Medical Biology, University of
+Tromso, 9037 Tromso, Norway.
+
+SPBP (stromelysin-1 platelet-derived growth factor-responsive element binding
+protein) was originally cloned from a cDNA expression library by virtue of its
+ability to bind to a platelet-derived growth factor-responsive element in the
+human stromelysin-1 promoter. A 937-amino acid-long protein was deduced from a
+3995-nucleotide murine cDNA sequence. By analyses of both human and murine cDNAs,
+we now show that SPBP is twice as large as originally found. The human SPBP gene 
+contains six exons and is located on chromosome 22q13.1-13.3. Two isoforms
+differing in their C termini are expressed due to alternative splicing. PCR
+analyses of multitissue cDNA panels showed that SPBP is expressed in most tissues
+except for ovary and prostate. Functional mapping revealed that SPBP is a
+nuclear, multidomain protein containing an N-terminal region with transactivating
+ability, a novel type of DNA-binding domain containing an AT hook motif, and a
+bipartite nuclear localization signal as well as a C-terminal zinc finger domain.
+This type of zinc finger domain is also found in the trithorax family of
+chromatin-based transcriptional regulator proteins. Using cotransfection
+experiments, we find that SPBP enhances the transcriptional activity of various
+transcription factors such as c-Jun, Ets1, Sp1, and Pax6. Hence, SPBP seems to
+act as a transcriptional coactivator.
+
+PMID: 10995766  [PubMed - indexed for MEDLINE]
+
+
+16. J Biol Chem. 2000 Aug 25;275(34):26144-9.
+
+Interaction between the transcription factor SPBP and the positive cofactor RNF4.
+An interplay between protein binding zinc fingers.
+
+Lyngsø C(1), Bouteiller G, Damgaard CK, Ryom D, Sanchez-Muñoz S, Nørby PL, Bonven
+BJ, Jørgensen P.
+
+Author information: 
+(1)Department of Molecular and Structural Biology, University of Aarhus, C. F.
+Mollers Alle 130, DK-8000 Aarhus C., Denmark.
+
+The activator of stromelysin 1 gene transcription, SPBP, interacts with the RING 
+finger protein RNF4. Both proteins are ubiquitously expressed and localized in
+the nucleus. RNF4 facilitates accumulation of specific SPBP-DNA complexes in
+vitro and acts as a positive cofactor in SPBP-mediated transactivation. SPBP
+harbors an internal zinc finger of the PHD/LAP type. This domain can form
+intra-chain protein-protein contacts in SPBP resulting in negative modulation of 
+SPBP-RNF4 interaction.
+
+PMID: 10849425  [PubMed - indexed for MEDLINE]
+
+
+17. Cytogenet Cell Genet. 1998;81(3-4):176-7.
+
+Assignment of AR1, transcription factor 20 (TCF20), to human chromosome 22q13.3
+with somatic cell hybrids and in situ hybridization.
+
+Rajadhyaksha A(1), Rivière M, Van Vooren P, Szpirer J, Szpirer C, Babin J, Bina
+M.
+
+Author information: 
+(1)Department of Chemistry, Purdue University, West Lafayette, IN, USA.
+
+PMID: 9730594  [PubMed - indexed for MEDLINE]
+
+

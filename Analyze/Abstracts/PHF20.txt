@@ -1,0 +1,666 @@
+
+1. Lin Chung Er Bi Yan Hou Tou Jing Wai Ke Za Zhi. 2015 Oct;29(19):1701-5.
+
+[The expression and clinical significance of Bax and PHF20 in laryngeal squamous 
+cell carcinoma].
+
+[Article in Chinese]
+
+Zhang C, Gao W, Dong S, Chen G, Han R, Wen S, Wang B.
+
+OBJECTIVE: To investigate the expression of Bax and PHF20 in laryngeal squamous
+cell carcinoma (LSCC)and to discuss their relevance and the roles in
+carcinogenesis and development in LSCC.
+METHOD: The expressions of Bax and PHF20 in the LSCC tissues and normal mucosa
+tissues adjacent to carcinoma were detected by SP immunohistochemistry assay. The
+relationship between the expressions of Bax and PHF20 and the clinicopathological
+characteristics including clinical stage, pathological type, histological grade
+and lymph node metastasis in LSCC were analyzed according to the clinical data.
+RESULT: (1) The expressions of Bax and PHF20 were both significantly lower in the
+LSCC tissue than that in the normal laryngeal tissue (P < 0.01). (2) In clinical 
+stage grouping, there were no statistical differences of the quantity and
+positive rate of Bax and PHF20 expressions among supraglottic, glottic and
+subglottic LSCC (P > 0.05). In histological differentiation grouping, the
+quantity and positive rate of Bax and PHF20 expressions decreased significantly
+in poorly differentiated LSCC compared with the well and moderately
+differentiated LSCCs (P < 0.01, P < 0.05, respectively). In T stage grouping, the
+quantity and positive rate of Bax and PHF20 expressions were both significantly
+higher in T1 + T2 compared with T3 +T4 (both P < 0.01). In addition, the quantity
+and positive rate of Bax and PHF20 expressions were both significantly higher in 
+LSCC with lymph node metastasis compared to that without lymph node metastasis
+(both P < 0.01).
+CONCLUSION: The lack of Bax and PHF20 might contribute to the carcinogenesis and 
+development in LSCC. The positive expression of Bax and PHF20 maybe relative to T
+term degree, differentiation degree and lymphamatic metastasis of LSCC.
+
+PMID: 26999840  [PubMed - in process]
+
+
+2. Nat Commun. 2016 Mar 10;7:10810. doi: 10.1038/ncomms10810.
+
+G9a-mediated methylation of ERa links the PHF20/MOF histone acetyltransferase
+complex to hormonal gene expression.
+
+Zhang X(1,)(2), Peng D(1,)(2), Xi Y(3), Yuan C(1,)(2), Sagum CA(1,)(2), Klein
+BJ(4), Tanaka K(1,)(2), Wen H(1,)(2), Kutateladze TG(4), Li W(3), Bedford
+MT(1,)(2,)(5), Shi X(1,)(2,)(5).
+
+Author information: 
+(1)Department of Epigenetics and Molecular Carcinogenesis, The University of
+Texas MD Anderson Cancer Center, Houston, Texas 77030, USA. (2)Center for Cancer 
+Epigenetics, The University of Texas MD Anderson Cancer Center, Houston, Texas
+77030, USA. (3)Department of Molecular and Cellular Biology, Dan L. Duncan Cancer
+Center, Baylor College of Medicine, Houston, Texas 77030, USA. (4)Department of
+Pharmacology, University of Colorado School of Medicine, Aurora, Colorado 80045, 
+USA. (5)The University of Texas Graduate School of Biomedical Sciences, Houston, 
+Texas 77030, USA.
+
+The euchromatin histone methyltransferase 2 (also known as G9a) methylates
+histone H3K9 to repress gene expression, but it also acts as a coactivator for
+some nuclear receptors. The molecular mechanisms underlying this activation
+remain elusive. Here we show that G9a functions as a coactivator of the
+endogenous oestrogen receptor a (ERa) in breast cancer cells in a histone
+methylation-independent manner. G9a dimethylates ERa at K235 both in vitro and in
+cells. Dimethylation of ERaK235 is recognized by the Tudor domain of PHF20, which
+recruits the MOF histone acetyltransferase (HAT) complex to ERa target gene
+promoters to deposit histone H4K16 acetylation promoting active transcription.
+Together, our data suggest the molecular mechanism by which G9a functions as an
+ERa coactivator. Along with the PHF20/MOF complex, G9a links the crosstalk
+between ERa methylation and histone acetylation that governs the epigenetic
+regulation of hormonal gene expression.
+
+PMCID: PMC4792926
+PMID: 26960573  [PubMed - in process]
+
+
+3. Nat Commun. 2016 Feb 12;7:10574. doi: 10.1038/ncomms10574.
+
+SCF(Fbxo22)-KDM4A targets methylated p53 for degradation and regulates
+senescence.
+
+Johmura Y(1), Sun J(1), Kitagawa K(2), Nakanishi K(3), Kuno T(4), Naiki-Ito A(4),
+Sawada Y(1), Miyamoto T(5), Okabe A(6), Aburatani H(6), Li S(7), Miyoshi I(5),
+Takahashi S(4), Kitagawa M(2), Nakanishi M(1).
+
+Author information: 
+(1)Department of Cell Biology, Graduate School of Medical Sciences, Nagoya City
+University, 1 Kawasumi, Mizuho-cho, Mizuho-ku, 467-8601 Nagoya, Japan.
+(2)Department of Molecular Biology, Hamamatsu University School of Medicine,
+Higashi-ku, 431-3192 Hamamatsu, Japan. (3)Department of Perinatology, Aichi Human
+Service Center, Institute for Developmental Research, 713-8 Kamiya-cho, Kasugai, 
+Aichi 489-0392, Japan. (4)Department of Experimental Pathology and Tumor Biology,
+Graduate School of Medical Sciences, Nagoya City University, 1 Kawasumi,
+Mizuho-cho, Mizuho-ku, 467-8601 Nagoya, Japan. (5)Department of Comparative and
+Experimental Medicine and Center for Animal Sciences, Graduate School of Medical 
+Sciences, Nagoya City University, 1 Kawasumi, Mizuho-cho, Mizuho-ku, 467-8601
+Nagoya, Japan. (6)Genome Science Division, Research Center for Advanced Science
+and Technology, The University of Tokyo, Meguro-ku, 153-8904 Tokyo, Japan.
+(7)Zhongshan Hospital of Dalian University, 6 Jiefang St, Zhongshan District,
+116001 Dalian, China.
+
+Recent evidence has revealed that senescence induction requires fine-tuned
+activation of p53, however, mechanisms underlying the regulation of p53 activity 
+during senescence have not as yet been clearly established. We demonstrate here
+that SCF(Fbxo22)-KDM4A is a senescence-associated E3 ligase targeting methylated 
+p53 for degradation. We find that Fbxo22 is highly expressed in senescent cells
+in a p53-dependent manner, and that SCF(Fbxo22) ubiquitylated p53 and formed a
+complex with a lysine demethylase, KDM4A. Ectopic expression of a catalytic
+mutant of KDM4A stabilizes p53 and enhances p53 interaction with PHF20 in the
+presence of Fbxo22. SCF(Fbxo22)-KDM4A is required for the induction of p16 and
+senescence-associated secretory phenotypes during the late phase of senescence.
+Fbxo22(-/-) mice are almost half the size of Fbxo22(+/-) mice owing to the
+accumulation of p53. These results indicate that SCF(Fbxo22)-KDM4A is an E3
+ubiquitin ligase that targets methylated p53 and regulates key senescent
+processes.
+
+PMCID: PMC4754341
+PMID: 26868148  [PubMed - in process]
+
+
+4. Int J Clin Exp Pathol. 2015 Oct 1;8(10):12198-206. eCollection 2015.
+
+Expression of PHF20 protein contributes to good prognosis of NSCLC and is
+associated with Bax expression.
+
+Tang N(1), Ma L(2), Lin XY(1), Zhang Y(1), Yang DL(3), Wang EH(1), Qiu XS(1).
+
+Author information: 
+(1)Department of Pathology, The First Affiliated Hospital and College of Basic
+Medical Sciences, China Medical University Shenyang 110001, China. (2)Department 
+of Pathology, Liaoning Tumor Hospital Shenyang 110042, China. (3)Center for
+Assisted Reproduction, Department of Obstetrics and Gynecology, Shengjing
+Hospital, China Medical University Shenyang 110004, China.
+
+BACKGROUND: Recent studies demonstrate that plant homeodomain finger protein 20
+(PHF20), which was initially described as an immunogenic antigen in glioblastoma,
+is a putative transcriptional factor, and exhibits tumor suppressor activity.
+However, little is known about its expression and clinical significance in lung
+cancer.
+METHODS: We investigated the expression of PHF20 in 142 cases of NSCLC tissue and
+30 cases of normal lung tissue by immunohistochemical staining and downregulated 
+PHF20 expression in SPC cell.
+RESULTS: PHF20 expression was significantly higher in normal lung tissues than
+that in NSCLC tissues. The expression of PHF20 in NSCLC was significantly
+correlated with histological grade, p-TNM stage and lymph node metastasis.
+Moreover, the loss of PHF20 expression was associated with short overall
+survival. We also found that the expression of PHF20 was associated with Bax
+expression. Additionally, PHF20 markedly inhibited cell proliferation and
+invasion.
+CONCLUSIONS: PHF20 may play an important role in NSCLC, and may serve as a
+potential therapeutic target of NSCLC.
+
+PMCID: PMC4680349
+PMID: 26722404  [PubMed - in process]
+
+
+5. FASEB J. 2016 Feb;30(2):959-70. doi: 10.1096/fj.15-276907. Epub 2015 Nov 16.
+
+Training intensity modulates changes in PGC-1a and p53 protein content and
+mitochondrial respiration, but not markers of mitochondrial content in human
+skeletal muscle.
+
+Granata C(1), Oliveira RS(1), Little JP(1), Renner K(1), Bishop DJ(2).
+
+Author information: 
+(1)*Institute of Sport, Exercise and Active Living (ISEAL), College of Sport and 
+Exercise Science, Victoria University, Melbourne, Victoria, Australia; School of 
+Health and Exercise Sciences, University of British Columbia Okanagan, Kelowna,
+British Columbia, Canada; and Department of Internal Medicine III, University
+Hospital of Regensburg, Regensburg, Germany. (2)*Institute of Sport, Exercise and
+Active Living (ISEAL), College of Sport and Exercise Science, Victoria
+University, Melbourne, Victoria, Australia; School of Health and Exercise
+Sciences, University of British Columbia Okanagan, Kelowna, British Columbia,
+Canada; and Department of Internal Medicine III, University Hospital of
+Regensburg, Regensburg, Germany david.bishop@vu.edu.au.
+
+Exercise training has been associated with increased mitochondrial content and
+respiration. However, no study to date has compared in parallel how training at
+different intensities affects mitochondrial respiration and markers of
+mitochondrial biogenesis. Twenty-nine healthy men performed 4 wk (12 cycling
+sessions) of either sprint interval training [SIT; 4-10 × 30-s all-out bouts at
+~200% of peak power output (WPeak)], high-intensity interval training (HIIT; 4-7 
+× 4-min intervals at ~90% WPeak), or sublactate threshold continuous training
+(STCT; 20-36 min at ~65% WPeak). The STCT and HIIT groups were matched for total 
+work. Resting biopsy samples (vastus lateralis) were obtained before and after
+training. The maximal mitochondrial respiration in permeabilized muscle fibers
+increased significantly only after SIT (25%). Similarly, the protein content of
+peroxisome proliferator-activated receptor <U+03B3> coactivator (PGC)-1a, p53, and plant
+homeodomain finger-containing protein 20 (PHF20) increased only after SIT
+(60-90%). Conversely, citrate synthase activity, and the protein content of TFAM 
+and subunits of the electron transport system complexes remained unchanged
+throughout. Our findings suggest that training intensity is an important factor
+that regulates training-induced changes in mitochondrial respiration and that
+there is an apparent dissociation between training-induced changes in
+mitochondrial respiration and mitochondrial content. Moreover, changes in the
+protein content of PGC-1a, p53, and PHF20 are more strongly associated with
+training-induced changes in mitochondrial respiration than mitochondrial
+content.-Granata, C., Oliveira, R. S. F., Little, J. P., Renner, K., Bishop, D.
+J. Training intensity modulates changes in PGC-1a and p53 protein content and
+mitochondrial respiration, but not markers of mitochondrial content in human
+skeletal muscle.
+
+© FASEB.
+
+PMID: 26572168  [PubMed - in process]
+
+
+6. Leukemia. 2014 Aug;28(8):1762-4. doi: 10.1038/leu.2014.117. Epub 2014 Mar 28.
+
+Altered expression of tumor suppressor PHF20 in myeloproliferative neoplasms.
+
+Lasho TL(1), Pardanani A(2), Tefferi A(2), Smith DI(3).
+
+Author information: 
+(1)Mayo College of Medicine, Mayo Clinic, Rochester, MN, USA. (2)Division of
+Hematology, Department of Internal Medicine, Mayo Clinic, Rochester, MN, USA.
+(3)Department of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, MN,
+USA.
+
+PMID: 24675105  [PubMed - indexed for MEDLINE]
+
+
+7. Nat Commun. 2013;4:2062. doi: 10.1038/ncomms3062.
+
+PHF20 regulates NF-<U+03BA>B signalling by disrupting recruitment of PP2A to p65.
+
+Zhang T(1), Park KA, Li Y, Byun HS, Jeon J, Lee Y, Hong JH, Kim JM, Huang SM,
+Choi SW, Kim SH, Sohn KC, Ro H, Lee JH, Lu T, Stark GR, Shen HM, Liu ZG, Park J, 
+Hur GM.
+
+Author information: 
+(1)Department of Pharmacology, Infection Signaling Network Research Center,
+College of Medicine, Chungnam National University, Daejeon 301 747, South Korea.
+
+Constitutive NF-<U+03BA>B activation in cancer cells is caused by defects in the
+signalling network responsible for terminating the NF-<U+03BA>B response. Here we report
+that plant homeodomain finger protein 20 (PHF20) maintains NF-<U+03BA>B in an active
+state in the nucleus by inhibiting the interaction between PP2A and p65. We show 
+that PHF20 induces canonical NF-<U+03BA>B signalling by increasing the DNA-binding
+activity of NF-<U+03BA>B subunit p65. In PHF20 overexpressing cells, the termination of 
+tumour necrosis factor-induced p65 phosphorylation is impaired whereas upstream
+signalling events triggered by tumour necrosis factor are unaffected. This effect
+strictly depends on the interaction between PHF20 and methylated lysine residues 
+of p65, which hinders recruitment of PP2A to p65, thereby maintaining p65 in a
+phosphorylated state. We further show that PHF20 levels correlate with p65
+phosphorylation levels in human glioma specimens. Our work identifies PHF20 as a 
+novel regulator of NF-<U+03BA>B activation and suggests that elevated expression of
+PHF20 may drive constitutive NF-<U+03BA>B activation in some cancers.
+
+PMCID: PMC3942884
+PMID: 23797602  [PubMed - indexed for MEDLINE]
+
+
+8. Cell. 2013 Feb 28;152(5):1037-50. doi: 10.1016/j.cell.2013.02.006.
+
+Jmjd3 inhibits reprogramming by upregulating expression of INK4a/Arf and
+targeting PHF20 for ubiquitination.
+
+Zhao W(1), Li Q, Ayers S, Gu Y, Shi Z, Zhu Q, Chen Y, Wang HY, Wang RF.
+
+Author information: 
+(1)Center for Inflammation and Epigenetics, The Methodist Hospital Research
+Institute, Houston, TX 77030, USA.
+
+Although somatic cell reprogramming to generate inducible pluripotent stem cells 
+(iPSCs) is associated with profound epigenetic changes, the roles and mechanisms 
+of epigenetic factors in this process remain poorly understood. Here, we identify
+Jmjd3 as a potent negative regulator of reprogramming. Jmjd3-deficient MEFs
+produced significantly more iPSC colonies than did wild-type cells, whereas
+ectopic expression of Jmjd3 markedly inhibited reprogramming. We show that the
+inhibitory effects of Jmjd3 are produced through both histone
+demethylase-dependent and -independent pathways. The latter pathway involves
+Jmjd3 targeting of PHF20 for ubiquitination and degradation via recruitment of an
+E3 ligase, Trim26. Importantly, PHF20-deficient MEFs could not be converted to
+fully reprogrammed iPSCs, even with knockdown of Jmjd3, Ink4a, or p21, indicating
+that PHF20 is required for reprogramming. Our findings demonstrate, to the best
+of our knowledge, a previously unrecognized role of Jmjd3 in cellular
+reprogramming and provide molecular insight into the mechanisms by which the
+Jmjd3-PHF20 axis controls this process.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+PMCID: PMC3742052
+PMID: 23452852  [PubMed - indexed for MEDLINE]
+
+
+9. J Exp Clin Cancer Res. 2012 Sep 17;31:76. doi: 10.1186/1756-9966-31-76.
+
+Whole blood transcriptome correlates with treatment response in nasopharyngeal
+carcinoma.
+
+Zaatar AM(1), Lim CR, Bong CW, Lee MM, Ooi JJ, Suria D, Raman R, Chao S, Yang H, 
+Neoh SB, Liew CC.
+
+Author information: 
+(1)Mount Miriam Cancer Hospital, 23, Jalan Bulan, Fettes Park, Tanjong Bungah
+11200Penang, Malaysia.
+
+BACKGROUND: Treatment protocols for nasopharyngeal carcinoma (NPC) developed in
+the past decade have significantly improved patient survival. In most NPC
+patients, however, the disease is diagnosed at late stages, and for some patients
+treatment response is less than optimal. This investigation has two aims: to
+identify a blood-based gene-expression signature that differentiates NPC from
+other medical conditions and from controls and to identify a biomarker signature 
+that correlates with NPC treatment response.
+METHODS: RNA was isolated from peripheral whole blood samples (2 x 10 ml)
+collected from NPC patients/controls (EDTA vacutainer). Gene expression patterns 
+from 99 samples (66 NPC; 33 controls) were assessed using the Affymetrix array.
+We also collected expression data from 447 patients with other cancers (201
+patients) and non-cancer conditions (246 patients). Multivariate logistic
+regression analysis was used to obtain biomarker signatures differentiating NPC
+samples from controls and other diseases. Differences were also analysed within a
+subset (n=28) of a pre-intervention case cohort of patients whom we followed
+post-treatment.
+RESULTS: A blood-based gene expression signature composed of three genes -
+LDLRAP1, PHF20, and LUC7L3 - is able to differentiate NPC from various other
+diseases and from unaffected controls with significant accuracy (area under the
+receiver operating characteristic curve of over 0.90). By subdividing our NPC
+cohort according to the degree of patient response to treatment we have been able
+to identify a blood gene signature that may be able to guide the selection of
+treatment.
+CONCLUSION: We have identified a blood-based gene signature that accurately
+distinguished NPC patients from controls and from patients with other diseases.
+The genes in the signature, LDLRAP1, PHF20, and LUC7L3, are known to be involved 
+in carcinoma of the head and neck, tumour-associated antigens, and/or cellular
+signalling. We have also identified blood-based biomarkers that are (potentially)
+able to predict those patients who are more likely to respond to treatment for
+NPC. These findings have significant clinical implications for optimizing NPC
+therapy.
+
+PMCID: PMC3504566
+PMID: 22986368  [PubMed - indexed for MEDLINE]
+
+
+10. Cell Signal. 2013 Jan;25(1):74-84. doi: 10.1016/j.cellsig.2012.09.009. Epub 2012 
+Sep 11.
+
+PKB-mediated PHF20 phosphorylation on Ser291 is required for p53 function in DNA 
+damage.
+
+Li Y(1), Park J, Piao L, Kong G, Kim Y, Park KA, Zhang T, Hong J, Hur GM, Seok
+JH, Choi SW, Yoo BC, Hemmings BA, Brazil DP, Kim SH, Park J.
+
+Author information: 
+(1)Department of Pharmacology, Metabolic Diseases and Cell Signaling Laboratory, 
+Cancer Research Institute, Research Institute for Medical Sciences, College of
+Medicine, Chungnam National University, Daejeon, 301-131, South Korea.
+
+PHD finger protein 20 (PHF20) is a transcription factor, which was originally
+identified in glioma patients. PHF20 appears to be a novel antigen in glioma, and
+has also termed glioma-expressed antigen 2. PHF20 is thought to contribute to the
+development of cancers, including glioblastoma, lung cancer, colon cancer and
+ovarian cancer. However, little is known about the function of PHF20 in various
+cancers. Here we report that PHF20 contains two consensus sites for protein
+kinase B (PKB) phosphorylation (RxRxxS/T). PKB can directly phosphorylate PHF20
+on Ser291 in vitro and in vivo. It has been shown that PKB participates in the
+tumor suppressor p53 regulated gene expression program and has a direct effect on
+p21 regulation after DNA damage. UV-induced DNA damage results in accumulation of
+p53 and PKB activation. Interestingly, PKB-mediated PHF20 phosphorylation led to 
+an inhibition of p53 induction following UV treatment, leading to the reduction
+of p21 transcriptional activity. Using anti PHF20 and anti pPKB (S473)
+antibodies, these events were mapped in various human cancer tissues. Taken
+together, these data suggest that PHF20 is a novel substrate for PKB and its
+phosphorylation by PKB plays an important role in tumorigenesis via regulating of
+p53 mediated signaling.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+PMID: 22975685  [PubMed - indexed for MEDLINE]
+
+
+11. Nat Struct Mol Biol. 2012 Sep;19(9):916-24. doi: 10.1038/nsmb.2353. Epub 2012 Aug
+5.
+
+PHF20 is an effector protein of p53 double lysine methylation that stabilizes and
+activates p53.
+
+Cui G(1), Park S, Badeaux AI, Kim D, Lee J, Thompson JR, Yan F, Kaneko S, Yuan Z,
+Botuyan MV, Bedford MT, Cheng JQ, Mer G.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, Mayo Clinic, Rochester,
+Minnesota, USA.
+
+PHF20 is a multidomain protein and subunit of a lysine acetyltransferase complex 
+that acetylates histone H4 and p53 but whose function is unclear. Using
+biochemical, biophysical and cellular approaches, we determined that PHF20 is a
+direct regulator of p53. A Tudor domain in PHF20 recognized p53 dimethylated at
+Lys370 or Lys382 and a homodimeric form of this Tudor domain could associate with
+the two dimethylated sites on p53 with enhanced affinity, indicating a
+multivalent interaction. Association with PHF20 promotes stabilization and
+activation of p53 by diminishing Mdm2-mediated p53 ubiquitylation and
+degradation. PHF20 contributes to upregulation of p53 in response to DNA damage, 
+and ectopic expression of PHF20 in different cell lines leads to phenotypic
+changes that are hallmarks of p53 activation. Overall our work establishes that
+PHF20 functions as an effector of p53 methylation that stabilizes and activates
+p53.
+
+PMCID: PMC3454513
+PMID: 22864287  [PubMed - indexed for MEDLINE]
+
+
+12. FEBS Lett. 2012 Mar 23;586(6):859-65. doi: 10.1016/j.febslet.2012.02.012. Epub
+2012 Feb 24.
+
+Crystal structures of the Tudor domains of human PHF20 reveal novel structural
+variations on the Royal Family of proteins.
+
+Adams-Cioaba MA(1), Li Z, Tempel W, Guo Y, Bian C, Li Y, Lam R, Min J.
+
+Author information: 
+(1)Structural Genomics Consortium, University of Toronto, Toronto, Ontario,
+Canada.
+
+The human PHD finger protein 20 (PHF20) is a putative transcription factor. While
+little is known about its cognate cellular role, antibodies against PHF20 are
+present in sera from patients with hepatocellular carcinoma, glioblastoma and
+childhood medulloblastula. PHF20 comprises two N-terminal Tudor domains, a
+central C2H2-link zinc finger domain and a C-terminal zinc-binding PHD domain,
+and is a component of some MLL methyltransferase complexes. Here, we report the
+crystal structures of the N-terminal Tudor domains of PHF20 and highlight the
+novel structural features of each domain. We also confirm previous studies
+suggesting that the second Tudor domain of PHF20 exhibits preference for
+dimethylated histone substrates.
+
+Copyright Â© 2012 Federation of European Biochemical Societies. Published by
+Elsevier B.V. All rights reserved.
+
+PMID: 22449972  [PubMed - indexed for MEDLINE]
+
+
+13. J Biol Chem. 2012 Mar 30;287(14):11151-63. doi: 10.1074/jbc.M111.333922. Epub
+2012 Feb 14.
+
+Identification of Akt interaction protein PHF20/TZP that transcriptionally
+regulates p53.
+
+Park S(1), Kim D, Dan HC, Chen H, Testa JR, Cheng JQ.
+
+Author information: 
+(1)Department of Molecular Oncology, H. Lee Moffitt Cancer Center and Research
+Institute, Tampa, Florida 33612, USA.
+
+Akt regulates a diverse array of cellular functions, including cell survival,
+proliferation, differentiation, and metabolism. Although a number of molecules
+have been identified as upstream regulators and downstream targets of Akt, the
+mechanisms by which Akt regulates these cellular processes remain elusive. Here, 
+we demonstrate that a novel transcription factor, PHF20/TZP (referring to Tudor
+and zinc finger domain containing protein), binds to Akt and induces p53
+expression at the transcription level. Knockdown of PHF20 significantly reduces
+p53. PHF20 inhibits cell growth, DNA synthesis, and cell survival. Akt
+phosphorylates PHF20 at Ser(291) in vitro and in vivo, which results in its
+translocation from the nucleus to the cytoplasm and attenuation of PHF20
+function. These data indicate that PHF20 is a substrate of Akt and plays a role
+in Akt cell survival/growth signaling.
+
+PMCID: PMC3322870
+PMID: 22334668  [PubMed - indexed for MEDLINE]
+
+
+14. J Biol Chem. 2012 Jan 2;287(1):429-37. doi: 10.1074/jbc.M111.271163. Epub 2011
+Nov 9.
+
+Loss of the methyl lysine effector protein PHF20 impacts the expression of genes 
+regulated by the lysine acetyltransferase MOF.
+
+Badeaux AI(1), Yang Y, Cardenas K, Vemulapalli V, Chen K, Kusewitt D, Richie E,
+Li W, Bedford MT.
+
+Author information: 
+(1)Department of Molecular Carcinogenesis, University of Texas M. D. Anderson
+Cancer Center, Smithville, Texas 78957, USA.
+
+In epigenetic signaling pathways, histone tails are heavily modified, resulting
+in the recruitment of effector molecules that can influence transcription. One
+such molecule, plant homeodomain finger protein 20 (PHF20), uses a Tudor domain
+to read dimethyl lysine residues and is a known component of the MOF (male absent
+on the first) histone acetyltransferase protein complex, suggesting it plays a
+role in the cross-talk between lysine methylation and histone acetylation. We
+sought to investigate the biological role of PHF20 by generating a knockout
+mouse. Without PHF20, mice die shortly after birth and display a wide variety of 
+phenotypes within the skeletal and hematopoietic systems. Mechanistically, PHF20 
+is not required for maintaining the global H4K16 acetylation levels or locus
+specific histone acetylation but instead works downstream in transcriptional
+regulation of MOF target genes.
+
+PMCID: PMC3249094
+PMID: 22072714  [PubMed - indexed for MEDLINE]
+
+
+15. Lung Cancer. 2010 Feb;67(2):151-9. doi: 10.1016/j.lungcan.2009.04.010. Epub 2009 
+May 26.
+
+Identification of genes associated with non-small-cell lung cancer promotion and 
+progression.
+
+Bankovic J(1), Stojsic J, Jovanovic D, Andjelkovic T, Milinkovic V, Ruzdijic S,
+Tanic N.
+
+Author information: 
+(1)University of Belgrade, Institute for Biological Research, Department of
+Neurobiology, Bulevar Despota Stefana 142, 11060 Belgrade, Serbia.
+
+Lung cancer is the most common cause of neoplasia-related death worldwide. One of
+the crucial early events in carcinogenesis is the induction of genomic
+instability and mutator phenotype. We investigated genomic instability in 30
+patients with non-small-cell lung cancer (NSCLC) by comparing DNA fingerprints of
+paired tumor and normal tissues using arbitrarily primed polymerase chain
+reaction (AP-PCR). Selected 21 DNA bands with altered mobility were isolated from
+polyacrylamide gels, cloned and sequenced. Obtained sequences were submitted to
+homology search in GenBank database which revealed the following genes: TSPAN14, 
+CDH12, RDH10, CYP4Z1, KIR, E2F4, PHACTR3, PHF20, PRAME family member and SLC2A13.
+Following the identification of these genes we examined their relation to the
+clinicopathological parameters and survival of the patients. Our study revealed
+that genetic alterations of TSPAN14, SLC2A13 and PHF20 appeared prevalently in
+tumors of grade 1, stage I suggesting that structural changes of these genes
+could play a role in NSCLC promotion. Contrary to this CYP4Z1, KIR and RDH10 were
+prevalently mutated in tumors of grade 3, stage III suggesting that they could
+play a role in NSCLC progression. E2F4, PHACTR3, PRAME family member and CDH12
+most probably play important role in NSCLC geneses. In conclusion, our study
+revealed altered genes previously not described in regard to this type of cancer.
+
+Copyright 2009 Elsevier Ireland Ltd. All rights reserved.
+
+PMID: 19473719  [PubMed - indexed for MEDLINE]
+
+
+16. PLoS One. 2008 May 14;3(5):e2164. doi: 10.1371/journal.pone.0002164.
+
+Increased seroreactivity to glioma-expressed antigen 2 in brain tumor patients
+under radiation.
+
+Heisel SM(1), Ketter R, Keller A, Klein V, Pallasch CP, Lenhof HP, Meese E.
+
+Author information: 
+(1)Department of Human Genetics, Saarland University Medical School,
+Homburg/Saar, Germany.
+
+BACKGROUND: Surgery and radiation are the mainstays of therapy for human gliomas 
+that are the most common primary brain tumors. Most recently, cell culture and
+animal studies provided the first convincing evidence that radiation not only
+eliminates tumor cells, but also modulates the immune response and likely
+improves anti-tumor immunotherapy.
+METHODOLOGY/PRINCIPAL FINDINGS: We present an in vivo study that analyzes the
+effects of radiation on the immune response in tumor patients. As readout system,
+we utilized the reactivity of glioma patients' sera against antigen GLEA2 as the 
+most frequent antigen immunogenic in glioblastoma patients. We established an
+ELISA assay to analyze reactivity of 24 glioblastoma patients over a period of
+several months. As control we used 30 sera from healthy donors as well as 30 sera
+from lung cancer patients. We compared the course of GLEA2 seroreactivity at
+different times prior, during and after radiation. The GLEA2 seroreactivity was
+increased by the time of surgery, decreased after surgery, increased again under 
+radiation, and slightly decreased after radiation.
+CONCLUSIONS/SIGNIFICANCE: Our results provide in vivo evidence for an increased
+antibody response against tumor antigens under radiation. Antigens that become
+immunogenic with an increased antibody response as result of radiation can serve 
+as ideal targets for immunotherapy of human tumors.
+
+PMCID: PMC2366063
+PMID: 18478111  [PubMed - indexed for MEDLINE]
+
+
+17. Int J Oncol. 2006 Sep;29(3):567-75.
+
+Gene expression profiles of small-cell lung cancers: molecular signatures of lung
+cancer.
+
+Taniwaki M(1), Daigo Y, Ishikawa N, Takano A, Tsunoda T, Yasui W, Inai K, Kohno
+N, Nakamura Y.
+
+Author information: 
+(1)Laboratory of Molecular Medicine, Human Genome Center, Institute of Medical
+Science, The University of Tokyo, Tokyo 108-8639, Japan.
+
+To characterize the molecular mechanisms involved in the carcinogenesis and
+progression of small-cell lung cancer (SCLC) and identify molecules to be applied
+as novel diagnostic markers and/or for development of molecular-targeted drugs,
+we applied cDNA microarray profile analysis coupled with purification of cancer
+cells by laser-microbeam microdissection (LMM). Expression profiles of 32,256
+genes in 15 SCLCs identified 252 genes that were commonly up-regulated and 851
+transcripts that were down-regulated in SCLC cells compared with non-cancerous
+lung tissue cells. An unsupervised clustering algorithm applied to the expression
+data easily distinguished SCLC from the other major histological type of
+non-small cell lung cancer (NSCLC) and identified 475 genes that may represent
+distinct molecular features of each of the two histological types. In particular,
+SCLC was characterized by altered expression of genes related to neuroendocrine
+cell differentiation and/or growth such as ASCL1, NRCAM, and INSM1. We also
+identified 68 genes that were abundantly expressed both in advanced SCLCs and
+advanced adenocarcinomas (ADCs), both of which had been obtained from patients
+with extensive chemotherapy treatment. Some of them are known to be transcription
+factors and/or gene expression regulators such as TAF5L, TFCP2L4, PHF20, LMO4,
+TCF20, RFX2, and DKFZp547I048 as well as those encoding nucleotide-binding
+proteins such as C9orf76, EHD3, and GIMAP4. Our data provide valuable information
+for better understanding of lung carcinogenesis and chemoresistance.
+
+PMID: 16865272  [PubMed - indexed for MEDLINE]
+
+
+18. Int J Cancer. 2005 Nov 10;117(3):456-9.
+
+Autoantibodies against GLEA2 and PHF3 in glioblastoma: tumor-associated
+autoantibodies correlated with prolonged survival.
+
+Pallasch CP(1), Struss AK, Munnia A, König J, Steudel WI, Fischer U, Meese E.
+
+Author information: 
+(1)Institute for Human Genetics, University Hospital of Saarland, Homburg/Saar,
+Germany.
+
+Using serological identification of recombinantly expressed tumor antigens
+(SEREX), we identified several autoantibodies against glioma-expressed antigens
+including GLEA1, GLEA2 and PHD-finger protein3 (PHF3). Analysing sera of 62
+glioblastoma patients, we found an antibody response against GLEA1 in 15 sera
+(24.2%), against GLEA2 in 30 sera (48.4%) and against PHF3 in 35 sera (56.5%).
+Relating patient survival to the occurrence of autoantibodies against either
+GLEA1, GLEA2 or PHF3, we found a significant prolonged survival for glioblastoma 
+patients positive for autoantibodies against GLEA2 (p = 0.0115) and PHF3 (p =
+0.0031), respectively. The median survival of patients with GLEA2 antibodies was 
+increased to 17.4 months and for patients with PHF3 antibodies to 14.7 months, as
+compared to 7.2 months for patients without GLEA2 or PHF3 antibodies. There was
+no significant correlation between patient survival and GLEA1-autoantibodies (p =
+0.1611). Herein we present autoantibodies that are: (i) most frequent in
+glioblastoma patients; (ii) specific for glioblastoma-associated antigens; and
+(iii) significantly correlated with prolonged survival in patients with
+glioblastoma.
+
+(c) 2005 Wiley-Liss, Inc.
+
+PMID: 15906353  [PubMed - indexed for MEDLINE]
+
+
+19. Clin Exp Immunol. 2001 Nov;126(2):206-13.
+
+Glioma-expressed antigen 2 (GLEA2): a novel protein that can elicit immune
+responses in glioblastoma patients and some controls.
+
+Fischer U(1), Struss AK, Hemmer D, Pallasch CP, Steudel WI, Meese E.
+
+Author information: 
+(1)Institut für Humangenetik, Universität des Saarlandes, Homburg/Saar, Germany.
+
+Glioma constitutes the most frequent brain tumour in man with glioblastoma as the
+most prevalent and malignant type. The average survival time of less than 16
+months underlines the need for improvements in diagnosis and therapy. Here, we
+report the identification of a novel antigen termed glioma-expressed antigen 2
+(GLEA2) causing a frequent immune response in glioma patients. Screening of 450
+000 clones from a glioblastoma lambda zap expression library with autologous
+patient serum revealed a group of five serum-positive clones sharing a high
+sequence homology. Further sequence analysis showed a sequence homology to a
+hepatocellular carcinoma associated antigen 58 (HCA58). We localized the novel
+HCA homologous gene termed glioma-expressed antigen 2 (GLEA2) on chromosome 20 by
+somatic cell hybrid panel mapping. Using allogenic sera from 39 glioblastoma
+patients, we found an immune response against GLEA2 in 17 patients (43%). In
+addition, screening with allogenic sera from other glioma patients revealed GLEA2
+directed antibodies in two out of five pilocytic astrocytomas and in one out of
+two astrocytomas. Unrelated tumour sera revealed no immune response and sera from
+healthy persons showed an immune response in two out of 14 cases (14%). Northern 
+blot hybridization and RT-PCR showed ubiquitous GLEA2 gene expression in glioma
+and normal tissues. The novel HCA homologous gene, GLEA2, appears to induce a
+frequent immune response in glioma. In the light of the lack of useful glioma
+markers, it appears reasonable to consider GLEA2 as a potential future diagnostic
+marker.
+
+PMCID: PMC1906187
+PMID: 11703362  [PubMed - indexed for MEDLINE]
+
+

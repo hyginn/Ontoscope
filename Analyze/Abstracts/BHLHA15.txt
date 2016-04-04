@@ -1,0 +1,158 @@
+
+1. Development. 2014 Aug;141(16):3123-33. doi: 10.1242/dev.109405. Epub 2014 Jul 25.
+
+The nuclear hormone receptor family member NR5A2 controls aspects of multipotent 
+progenitor cell formation and acinar differentiation during pancreatic
+organogenesis.
+
+Hale MA(1), Swift GH(1), Hoang CQ(1), Deering TG(1), Masui T(1), Lee YK(2), Xue
+J(1), MacDonald RJ(3).
+
+Author information: 
+(1)Department of Molecular Biology, University of Texas Southwestern Medical
+Center, Dallas, TX 75390-9148, USA. (2)Department of Pharmacology, University of 
+Texas Southwestern Medical Center, Dallas, TX 75390-9041, USA. (3)Department of
+Molecular Biology, University of Texas Southwestern Medical Center, Dallas, TX
+75390-9148, USA raymond.macdonald@utsouthwestern.edu.
+
+The orphan nuclear receptor NR5A2 is necessary for the stem-like properties of
+the epiblast of the pre-gastrulation embryo and for cellular and physiological
+homeostasis of endoderm-derived organs postnatally. Using conditional gene
+inactivation, we show that Nr5a2 also plays crucial regulatory roles during
+organogenesis. During the formation of the pancreas, Nr5a2 is necessary for the
+expansion of the nascent pancreatic epithelium, for the subsequent formation of
+the multipotent progenitor cell (MPC) population that gives rise to pre-acinar
+cells and bipotent cells with ductal and islet endocrine potential, and for the
+formation and differentiation of acinar cells. At birth, the NR5A2-deficient
+pancreas has defects in all three epithelial tissues: a partial loss of endocrine
+cells, a disrupted ductal tree and a >90% deficit of acini. The acinar defects
+are due to a combination of fewer MPCs, deficient allocation of those MPCs to
+pre-acinar fate, disruption of acinar morphogenesis and incomplete acinar cell
+differentiation. NR5A2 controls these developmental processes directly as well as
+through regulatory interactions with other pancreatic transcriptional regulators,
+including PTF1A, MYC, GATA4, FOXA2, RBPJL and MIST1 (BHLHA15). In particular,
+Nr5a2 and Ptf1a establish mutually reinforcing regulatory interactions and
+collaborate to control developmentally regulated pancreatic genes by binding to
+shared transcriptional regulatory regions. At the final stage of acinar cell
+development, the absence of NR5A2 affects the expression of Ptf1a and its acinar 
+specific partner Rbpjl, so that the few acinar cells that form do not complete
+differentiation. Nr5a2 controls several temporally distinct stages of pancreatic 
+development that involve regulatory mechanisms relevant to pancreatic oncogenesis
+and the maintenance of the exocrine phenotype.
+
+© 2014. Published by The Company of Biologists Ltd.
+
+PMCID: PMC4197540
+PMID: 25063451  [PubMed - indexed for MEDLINE]
+
+
+2. J Cell Sci. 2014 Mar 1;127(Pt 5):1018-32. doi: 10.1242/jcs.138776. Epub 2014 Jan 
+10.
+
+RAB26 coordinates lysosome traffic and mitochondrial localization.
+
+Jin RU(1), Mills JC.
+
+Author information: 
+(1)Division of Gastroenterology, Department of Medicine, Washington University
+School of Medicine, St. Louis, MO 63110, USA.
+
+As they mature, professional secretory cells like pancreatic acinar and gastric
+chief cells induce the transcription factor MIST1 (also known as BHLHA15) to
+substantially scale up production of large secretory granules in a process that
+involves expansion of apical cytoplasm and redistribution of lysosomes and
+mitochondria. How a scaling factor like MIST1 rearranges cellular architecture
+simply by regulating expression levels of its transcriptional targets is unknown.
+RAB26 is a MIST1 target whose role in MIST1-mediated secretory cell maturation is
+also unknown. Here, we confirm that RAB26 expression, unlike most Rabs which are 
+ubiquitously expressed, is tissue specific and largely confined to
+MIST1-expressing secretory tissues. Surprisingly, functional studies showed that 
+RAB26 predominantly associated with LAMP1/cathepsin D lysosomes and not directly 
+with secretory granules. Moreover, increasing RAB26 expression - by inducing
+differentiation of zymogen-secreting cells or by direct transfection - caused
+lysosomes to coalesce in a central, perinuclear region. Lysosome clustering in
+turn caused redistribution of mitochondria into distinct subcellular
+neighborhoods. The data elucidate a novel function for RAB26 and suggest a
+mechanism for how cells could increase transcription of key effectors to
+reorganize subcellular compartments during differentiation.
+
+PMCID: PMC3937772
+PMID: 24413166  [PubMed - indexed for MEDLINE]
+
+
+3. J Pathol. 2012 Nov;228(3):351-65. doi: 10.1002/path.4015. Epub 2012 May 2.
+
+Activation of protein kinase Cd leads to increased pancreatic acinar cell
+dedifferentiation in the absence of MIST1.
+
+Johnson CL(1), Peat JM, Volante SN, Wang R, McLean CA, Pin CL.
+
+Author information: 
+(1)Children's Health Research Institute, London, ON, Canada.
+
+Pancreatic ductal adenocarcinoma (PDAC) has a 5 year survival rate post-diagnosis
+of < 5%. Individuals with chronic pancreatitis (CP) are 20-fold more likely to
+develop PDAC, making it a significant risk factor for PDAC. While the
+relationship for the increased susceptibility to PDAC is unknown, loss of the
+acinar cell phenotype is common to both pathologies. Pancreatic acinar cells can 
+dedifferentiate or trans-differentiate into a number of cell types including duct
+cells, ß cells, hepatocytes and adipocytes. Knowledge of the molecular pathways
+that regulate this plasticity should provide insight into PDAC and CP. MIST1
+(encoded by Bhlha15 in mice) is a transcription factor required for complete
+acinar cell maturation. The goal of this study was to examine the plasticity of
+acinar cells that do not express MIST1 (Mist1(-/-) ). The fate of acinar cells
+from C57Bl6 or congenic Mist1(-/-) mice expressing an acinar specific,
+tamoxifen-inducible Cre recombinase mated to Rosa26 reporter LacZ mice
+(Mist1(CreERT/-) R26r) was determined following culture in a three-dimensional
+collagen matrix. Mist1(CreERT/-) R26r acini showed increased acinar
+dedifferentiation, formation of ductal cysts and transient increases in PDX1
+expression compared to wild-type acinar cells. Other progenitor cell markers,
+including Foxa1, Sox9, Sca1 and Hes1, were elevated only in Mist1(-/-) cultures. 
+Analysis of protein kinase C (PKC) isoforms by western blot and
+immunofluorescence identified increased PKCe accumulation and nuclear
+localization of PKCd that correlated with increased duct formation. Treatment
+with rottlerin, a PKCd-specific inhibitor, but not the PKCe-specific antagonist
+eV1-2, reduced acinar dedifferentiation, progenitor gene expression and ductal
+cyst formation. Immunocytochemistry on CP or PDAC tissue samples showed reduced
+MIST1 expression combined with increased nuclear PKCd accumulation. These results
+suggest that the loss of MIST1 is a common event during PDAC and CP and events
+that affect MIST1 function and expression may increase susceptibility to these
+pathologies.
+
+Copyright © 2012 Pathological Society of Great Britain and Ireland. Published by 
+John Wiley & Sons, Ltd.
+
+PMID: 22374815  [PubMed - indexed for MEDLINE]
+
+
+4. Bioessays. 2012 Jan;34(1):10-6. doi: 10.1002/bies.201100089. Epub 2011 Oct 26.
+
+Scaling factors: transcription factors regulating subcellular domains.
+
+Mills JC(1), Taghert PH.
+
+Author information: 
+(1)Division of Gastroenterology, Department of Medicine, Washington University
+School of Medicine, St. Louis, MO, USA. jmills@wustl.edu
+
+Developing cells acquire mature fates in part by selective (i.e. qualitatively
+different) expression of a few cell-specific genes. However, all cells share the 
+same basic repertoire of molecular and subcellular building blocks. Therefore,
+cells must also specialize according to quantitative differences in cell-specific
+distributions of those common molecular resources. Here we propose the novel
+hypothesis that evolutionarily-conserved transcription factors called scaling
+factors (SFs) regulate quantitative differences among mature cell types. SFs: (1)
+are induced during late stages of cell maturation; (2) are dedicated to specific 
+subcellular domains; and, thus, (3) allow cells to emphasize specific subcellular
+features. We identify candidate SFs and discuss one in detail: MIST1 (BHLHA15,
+vertebrates)/DIMM (CG8667, Drosophila); professional secretory cells use this SF 
+to scale up regulated secretion. Because cells use SFs to develop their mature
+properties and also to adapt them to ever-changing environmental conditions, SF
+aberrations likely contribute to diseases of adult onset.
+
+Copyright © 2012 WILEY Periodicals, Inc.
+
+PMCID: PMC3692000
+PMID: 22028036  [PubMed - indexed for MEDLINE]
+
+

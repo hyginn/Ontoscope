@@ -1,0 +1,354 @@
+
+1. Nat Rev Mol Cell Biol. 2014 Jan;15(1):65-74. doi: 10.1038/nrm3716. Epub 2013 Dec 
+11.
+
+The return of the nucleus: transcriptional and epigenetic control of autophagy.
+
+Füllgrabe J(1), Klionsky DJ(2), Joseph B(1).
+
+Author information: 
+(1)Department of Oncology Pathology, Cancer Centrum Karolinska, Karolinska
+Institutet, Stockholm 17176, Sweden. (2)Life Sciences Institute and Departments
+of Molecular, Cellular and Developmental Biology and Biological Chemistry,
+University of Michigan, Ann Arbor, Michigan 48109, USA.
+
+Autophagy is a conserved process by which cytoplasmic components are degraded by 
+the lysosome. It is commonly seen as a cytoplasmic event and, until now, nuclear 
+events were not considered of primary importance for this process. However,
+recent studies have unveiled a transcriptional and epigenetic network that
+regulates autophagy. The identification of tightly controlled transcription
+factors (such as TFEB and ZKSCAN3), microRNAs and histone marks (especially
+acetylated Lys16 of histone 4 (H4K16ac) and dimethylated H3K9 (H3K9me2))
+associated with the autophagic process offers an attractive conceptual framework 
+to understand the short-term transcriptional response and potential long-term
+responses to autophagy.
+
+PMID: 24326622  [PubMed - indexed for MEDLINE]
+
+
+2. Hum Mol Genet. 2014 Mar 1;23(5):1376-86. doi: 10.1093/hmg/ddt527. Epub 2013 Oct
+22.
+
+Transcriptional activation of TFEB/ZKSCAN3 target genes underlies enhanced
+autophagy in spinobulbar muscular atrophy.
+
+Chua JP(1), Reddy SL, Merry DE, Adachi H, Katsuno M, Sobue G, Robins DM,
+Lieberman AP.
+
+Author information: 
+(1)Departments of Pathology and.
+
+Spinobulbar muscular atrophy (SBMA) is an inherited neuromuscular disorder caused
+by the expansion of a CAG repeat encoding a polyglutamine tract in exon 1 of the 
+androgen receptor (AR) gene. SBMA demonstrates androgen-dependent toxicity due to
+unfolding and aggregation of the mutant protein. There are currently no
+disease-modifying therapies, but of increasing interest for therapeutic targeting
+is autophagy, a highly conserved cellular process mediating protein quality
+control. We have previously shown that genetic manipulations inhibiting autophagy
+diminish skeletal muscle atrophy and extend the lifespan of AR113Q knock-in mice.
+In contrast, manipulations inducing autophagy worsen muscle atrophy, suggesting
+that chronic, aberrant upregulation of autophagy contributes to pathogenesis.
+Since the degree to which autophagy is altered in SBMA and the mechanisms
+responsible for such alterations are incompletely defined, we sought to delineate
+autophagic status in SBMA using both cellular and mouse models. Here, we confirm 
+that autophagy is induced in cellular and knock-in mouse models of SBMA and show 
+that the transcription factors transcription factor EB (TFEB) and ZKSCAN3 operate
+in opposing roles to underlie these changes. We demonstrate upregulation of TFEB 
+target genes in skeletal muscle from AR113Q male mice and SBMA patients.
+Furthermore, we observe a greater response in AR113Q mice to physiological
+stimulation of autophagy by both nutrient starvation and exercise. Taken
+together, our results indicate that transcriptional signaling contributes to
+autophagic dysregulation and provides a mechanistic framework for the pathologic 
+increase of autophagic responsiveness in SBMA.
+
+PMCID: PMC3919011
+PMID: 24150846  [PubMed - indexed for MEDLINE]
+
+
+3. Mol Cell. 2013 Apr 11;50(1):16-28. doi: 10.1016/j.molcel.2013.01.024. Epub 2013
+Feb 21.
+
+ZKSCAN3 is a master transcriptional repressor of autophagy.
+
+Chauhan S(1), Goodwin JG, Chauhan S, Manyam G, Wang J, Kamat AM, Boyd DD.
+
+Author information: 
+(1)Department of Cancer Biology, MD Anderson Cancer Center, Houston, TX 77030,
+USA.
+
+Autophagy constitutes a major cell-protective mechanism that eliminates damaged
+components and maintains energy homeostasis via recycling nutrients under
+normal/stressed conditions. Although the core components of autophagy have been
+well studied, regulation of autophagy at the transcriptional level is poorly
+understood. Herein, we establish ZKSCAN3, a zinc finger family DNA-binding
+protein, as a transcriptional repressor of autophagy. Silencing of ZKSCAN3
+induced autophagy and increased lysosome biogenesis. Importantly, we show that
+ZKSCAN3 represses transcription of a large gene set (>60) integral to, or
+regulatory for, autophagy and lysosome biogenesis/function and that a subset of
+these genes, including Map1lC3b and Wipi2, represent direct targets.
+Interestingly, ZKSCAN3 and TFEB are oppositely regulated by starvation and in
+turn oppositely regulate lysosomal biogenesis and autophagy, suggesting that they
+act in conjunction. Altogether, our study uncovers an autophagy master switch
+regulating the expression of a transcriptional network of genes integral to
+autophagy and lysosome biogenesis/function.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+PMCID: PMC3628091
+PMID: 23434374  [PubMed - indexed for MEDLINE]
+
+
+4. Int J Biochem Cell Biol. 2012 Jul;44(7):1166-73. doi:
+10.1016/j.biocel.2012.04.005. Epub 2012 Apr 16.
+
+The zinc finger transcription factor ZKSCAN3 promotes prostate cancer cell
+migration.
+
+Zhang X(1), Jing Y, Qin Y, Hunsucker S, Meng H, Sui J, Jiang Y, Gao L, An G, Yang
+N, Orlowski RZ, Yang L.
+
+Author information: 
+(1)Cyrus Tang Hematology Center, Soochow University, Suzhou, Jiangsu, PR China.
+
+In our previous studies, ZKSCAN3 was demonstrated to be over-expressed in
+invasive colonic tumor cells and their liver metastases, but minimally expressed 
+in adjacent non-transformed tissues. Further preliminary data showed that ZKSCAN3
+was expressed in a majority of prostate cancer patient samples, but not in normal
+prostate tissues. Moreover, the ZKSCAN3 protein is highly expressed in the PC3
+prostate cancer cell line, which has high metastatic potential, but little
+expression was observed in non-metastatic prostate cancer cell lines. Thus, we
+hypothesized that ZKSCAN3 could participate in tumor metastasis by regulating
+tumor cell migration. To test this hypothesis, ZKSCAN3 mRNA was knocked down by
+ZKSCAN3 specific shRNA in PC3 cells and a significant decrease in cell motility
+was observed. In contrast, when ZKSCAN3 cDNA was overexpressed in PC3 cells, cell
+detachment was observed and suspension culture induced apoptosis was greatly
+decreased, suggesting that ZKSCAN3 is able to enhance PC3 cell survival under
+anoikis stress. Additional wound healing and invasion assays showed that cell
+migration was enhanced by ZKSCAN3 expression. Interestingly, the ZKSCAN3 gene was
+amplified in 26% (5/19) of metastatic prostate cancers and 20% (1/5) of lymph
+node metastases, but there was no amplification found in primary prostate
+cancers, further supporting the role of ZKSCAN3 in tumor cell migration. In vivo 
+studies using orthotopic tumor models indicated that overexpression of ZKSCAN3
+significantly enhanced tumorigenicity. Taken together, we provide evidence that
+ZKSCAN3, a zinc finger transcription factor, plays a critical role in promoting
+prostate cancer cell migration.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+PMCID: PMC3358443
+PMID: 22531714  [PubMed - indexed for MEDLINE]
+
+
+5. Blood. 2012 Aug 2;120(5):1060-6. doi: 10.1182/blood-2012-01-405977. Epub 2012 Apr
+23.
+
+Whole-genome sequencing of multiple myeloma from diagnosis to plasma cell
+leukemia reveals genomic initiating events, evolution, and clonal tides.
+
+Egan JB(1), Shi CX, Tembe W, Christoforides A, Kurdoglu A, Sinari S, Middha S,
+Asmann Y, Schmidt J, Braggio E, Keats JJ, Fonseca R, Bergsagel PL, Craig DW,
+Carpten JD, Stewart AK.
+
+Author information: 
+(1)Division of Hematology-Oncology, Mayo Clinic Arizona, Scottsdale, AZ 85259,
+USA.
+
+Comment in
+    Blood. 2012 Aug 2;120(5):927-8.
+
+The longitudinal evolution of a myeloma genome from diagnosis to plasma cell
+leukemia has not previously been reported. We used whole-genome sequencing (WGS) 
+on 4 purified tumor samples and patient germline DNA drawn over a 5-year period
+in a t(4;14) multiple myeloma patient. Tumor samples were acquired at diagnosis, 
+first relapse, second relapse, and end-stage secondary plasma cell leukemia
+(sPCL). In addition to the t(4;14), all tumor time points also shared 10 common
+single-nucleotide variants (SNVs) on WGS comprising shared initiating events.
+Interestingly, we observed genomic sequence variants that waxed and waned with
+time in progressive tumors, suggesting the presence of multiple independent, yet 
+related, clones at diagnosis that rose and fell in dominance. Five newly acquired
+SNVs, including truncating mutations of RB1 and ZKSCAN3, were observed only in
+the final sPCL sample suggesting leukemic transformation events. This
+longitudinal WGS characterization of the natural history of a high-risk myeloma
+patient demonstrated tumor heterogeneity at diagnosis with shifting dominance of 
+tumor clones over time and has also identified potential mutations contributing
+to myelomagenesis as well as transformation from myeloma to overt extramedullary 
+disease such as sPCL.
+
+PMCID: PMC3412329
+PMID: 22529291  [PubMed - indexed for MEDLINE]
+
+
+6. Nat Genet. 2011 Sep 25;43(11):1082-90. doi: 10.1038/ng.941.
+
+Genome-wide association and large-scale follow up identifies 16 new loci
+influencing lung function.
+
+Soler Artigas M, Loth DW, Wain LV, Gharib SA, Obeidat M, Tang W, Zhai G, Zhao JH,
+Smith AV, Huffman JE, Albrecht E, Jackson CM, Evans DM, Cadby G, Fornage M,
+Manichaikul A, Lopez LM, Johnson T, Aldrich MC, Aspelund T, Barroso I, Campbell
+H, Cassano PA, Couper DJ, Eiriksdottir G, Franceschini N, Garcia M, Gieger C,
+Gislason GK, Grkovic I, Hammond CJ, Hancock DB, Harris TB, Ramasamy A, Heckbert
+SR, Heliövaara M, Homuth G, Hysi PG, James AL, Jankovic S, Joubert BR, Karrasch
+S, Klopp N, Koch B, Kritchevsky SB, Launer LJ, Liu Y, Loehr LR, Lohman K, Loos
+RJ, Lumley T, Al Balushi KA, Ang WQ, Barr RG, Beilby J, Blakey JD, Boban M,
+Boraska V, Brisman J, Britton JR, Brusselle GG, Cooper C, Curjuric I, Dahgam S,
+Deary IJ, Ebrahim S, Eijgelsheim M, Francks C, Gaysina D, Granell R, Gu X,
+Hankinson JL, Hardy R, Harris SE, Henderson J, Henry A, Hingorani AD, Hofman A,
+Holt PG, Hui J, Hunter ML, Imboden M, Jameson KA, Kerr SM, Kolcic I, Kronenberg
+F, Liu JZ, Marchini J, McKeever T, Morris AD, Olin AC, Porteous DJ, Postma DS,
+Rich SS, Ring SM, Rivadeneira F, Rochat T, Sayer AA, Sayers I, Sly PD, Smith GD, 
+Sood A, Starr JM, Uitterlinden AG, Vonk JM, Wannamethee SG, Whincup PH, Wijmenga 
+C, Williams OD, Wong A, Mangino M, Marciante KD, McArdle WL, Meibohm B, Morrison 
+AC, North KE, Omenaas E, Palmer LJ, Pietiläinen KH, Pin I, Pola Sbreve Ek O,
+Pouta A, Psaty BM, Hartikainen AL, Rantanen T, Ripatti S, Rotter JI, Rudan I,
+Rudnicka AR, Schulz H, Shin SY, Spector TD, Surakka I, Vitart V, Völzke H,
+Wareham NJ, Warrington NM, Wichmann HE, Wild SH, Wilk JB, Wjst M, Wright AF,
+Zgaga L, Zemunik T, Pennell CE, Nyberg F, Kuh D, Holloway JW, Boezen HM, Lawlor
+DA, Morris RW, Probst-Hensch N; International Lung Cancer Consortium; GIANT
+consortium, Kaprio J, Wilson JF, Hayward C, Kähönen M, Heinrich J, Musk AW,
+Jarvis DL, Gläser S, Järvelin MR, Ch Stricker BH, Elliott P, O'Connor GT,
+Strachan DP, London SJ, Hall IP, Gudnason V, Tobin MD.
+
+Pulmonary function measures reflect respiratory health and are used in the
+diagnosis of chronic obstructive pulmonary disease. We tested genome-wide
+association with forced expiratory volume in 1 second and the ratio of forced
+expiratory volume in 1 second to forced vital capacity in 48,201 individuals of
+European ancestry with follow up of the top associations in up to an additional
+46,411 individuals. We identified new regions showing association (combined P < 5
+× 10(-8)) with pulmonary function in or near MFAP2, TGFB2, HDAC4, RARB, MECOM
+(also known as EVI1), SPATA9, ARMC2, NCR3, ZKSCAN3, CDC123, C10orf11, LRP1,
+CCDC38, MMP15, CFDP1 and KCNE2. Identification of these 16 new loci may provide
+insight into the molecular mechanisms regulating pulmonary function and into
+molecular targets for future therapy to alleviate reduced lung function.
+
+PMCID: PMC3267376
+PMID: 21946350  [PubMed - indexed for MEDLINE]
+
+
+7. Oncogene. 2011 Mar 17;30(11):1329-40. doi: 10.1038/onc.2010.515. Epub 2010 Nov 8.
+
+Evidence of a role for the novel zinc-finger transcription factor ZKSCAN3 in
+modulating Cyclin D2 expression in multiple myeloma.
+
+Yang L(1), Wang H, Kornblau SM, Graber DA, Zhang N, Matthews JA, Wang M, Weber
+DM, Thomas SK, Shah JJ, Zhang L, Lu G, Zhao M, Muddasani R, Yoo SY, Baggerly KA, 
+Orlowski RZ.
+
+Author information: 
+(1)Cyrus Tang Hematology Center, Soochow University, Suzhou, Jiangsu, PR China.
+yanglin@suda.edu.cn
+
+Dysregulation of cyclin D2 contributes to the pathogenesis of multiple myeloma,
+and can occur through translocations that activate MAF/MAFB or MMSET/FGFR3.
+However, cyclin D2 induction can also be seen in the absence of such
+translocations, such as in patients with hyperdiploid disease, through unknown
+mechanisms. In UniGene cluster data-mining and ECgene analysis, we found that
+zinc-finger with KRAB and SCAN domains 3 (ZKSCAN3), a novel transcription factor,
+is overrepresented in this malignancy, and three consensus ZKSCAN3 binding sites 
+were found in the cyclin D2 promoter. Analysis of a panel of myeloma cell lines, 
+primary patient samples and datasets from Oncomine and the Multiple Myeloma
+Genomics Portal (MMGP) revealed expression of ZKSCAN3 messenger RNA (mRNA) in a
+majority of samples. Studies of cell lines by western blotting, and of primary
+tissue microarrays by immunohistochemistry, showed ZKSCAN3 protein expression in 
+a majority, and in a manner that paralleled messenger levels in cell lines.
+ZKSCAN3 overexpression was associated with increased gene copy number or genomic 
+DNA gain/amplification in a subset based on analysis of data from the MMGP, and
+from fluorescence in situ hybridization studies of cell lines and primary
+samples. Overexpression of ZKSCAN3 induced cyclin D2 promoter activity in a
+MAF/MAFB-independent manner, and to an extent that was influenced by the number
+of consensus ZKSCAN3 binding sites. Moreover, ZKSCAN3 protein expression
+correlated with cyclin D2 levels in cell lines and primary samples, and its
+overexpression induced cyclin D2. Conversely, ZKSCAN3 suppression using small
+hairpin RNAs (shRNAs) reduced cyclin D2 levels, and, importantly, inhibited
+myeloma cell line proliferation. Finally, ZKSCAN3 was noted to specifically bind 
+to oligonucleotides representing sequences from the cyclin D2 promoter, and to
+the endogenous promoter itself in myeloma cells. Taken together, the data support
+the conclusion that ZKSCAN3 induction represents a mechanism by which myeloma
+cells can induce cyclin D2 dysregulation, and contribute to disease pathogenesis.
+
+PMCID: PMC4128235
+PMID: 21057542  [PubMed - indexed for MEDLINE]
+
+
+8. J Biol Chem. 2008 Dec 12;283(50):35295-304. doi: 10.1074/jbc.M806965200. Epub
+2008 Oct 21.
+
+Unbiased screening for transcriptional targets of ZKSCAN3 identifies integrin
+beta 4 and vascular endothelial growth factor as downstream targets.
+
+Yang L(1), Zhang L, Wu Q, Boyd DD.
+
+Author information: 
+(1)Department of Cancer Biology, University of Texas, MD Anderson Cancer Center, 
+Houston, Texas 77030, USA.
+
+We previously described the novel zinc finger protein ZKSCAN3 as a new "driver"
+of colon cancer progression. To investigate the underlying mechanism and because 
+the predicted structural features (tandem zinc fingers) are often present in
+transcription factors, we hypothesized that ZKSCAN3 regulates the expression of a
+gene(s) favoring tumor progression. We employed unbiased screening to identify a 
+DNA binding motif and candidate downstream genes. Cyclic amplification and
+selection of targets using a random oligonucleotide library and ZKSCAN3 protein
+identified KRDGGG as the DNA recognition motif. In expression profiling, 204
+genes were induced 2-29-fold, and 76 genes reduced 2-5-fold by ZKSCAN3. To enrich
+for direct targets, we eliminated genes under-represented (<3) for the ZKSCAN3
+binding motif (identified by CAST-ing) in 2 kilobases of regulatory sequence.
+Up-regulated putative downstream targets included genes contributing to growth
+(c-Met-related tyrosine kinase (MST1R), MEK2; the guanine nucleotide exchanger
+RasGRP2, insulin-like growth factor-2, integrin beta 4), cell migration (MST1R), 
+angiogenesis (vascular endothelial growth factor), and proteolysis (MMP26;
+cathepsin D; PRSS3 (protease serine 3)). We pursued integrin beta 4 (induced up
+to 6-fold) as a candidate target because it promotes breast cancer tumorigenicity
+and stimulates phosphatidyl 3-kinase implicated in colorectal cancer progression.
+ZKSCAN3 overexpression/silencing modulated integrin beta 4 expression, confirming
+the array analysis. Moreover, ZKSCAN3 bound to the integrin beta 4 promoter in
+vitro and in vivo, and the integrin beta 4-derived ZKSCAN3 motif fused upstream
+of a tk-Luc reporter conferred ZKSCAN3 sensitivity. Integrin beta 4 knockdown by 
+short hairpin RNA countered ZKSCAN3-augmented anchorage-independent colony
+formation. We also demonstrate vascular endothelial growth factor as a direct
+ZKSCAN3 target. Thus, ZKSCAN3 regulates the expression of several genes favoring 
+tumor progression including integrin beta 4.
+
+PMCID: PMC2596387
+PMID: 18940803  [PubMed - indexed for MEDLINE]
+
+
+9. Cancer Res. 2008 Jun 1;68(11):4321-30. doi: 10.1158/0008-5472.CAN-08-0407.
+
+The previously undescribed ZKSCAN3 (ZNF306) is a novel "driver" of colorectal
+cancer progression.
+
+Yang L(1), Hamilton SR, Sood A, Kuwai T, Ellis L, Sanguino A, Lopez-Berestein G, 
+Boyd DD.
+
+Author information: 
+(1)Department of Cancer Biology, The University of Texas M. D. Anderson Cancer
+Center, Houston, Texas 77030, USA.
+
+A relatively new view of colorectal cancer is that its development/progression
+reflects the contribution of a large set of altered gene products in varying
+combinations, each providing a "fitness advantage." In searching for novel
+contributing gene products using Unigene cluster data mining, we found
+overrepresentation of expressed sequence tags corresponding to a previously
+uncharacterized gene (ZKSCAN3) in colorectal tumors. ZKSCAN3 was pursued for
+several reasons: (a) its sequence similarity with bowl required for Drosophila
+hindgut development; (b) it lies in a chromosomal region (6p22.1) amplified in
+colorectal cancer; and (c) its coding sequence predicts tandem C(2)H(2) zinc
+finger domains present in a class of proteins gaining attention for their role in
+oncogenesis/tumor progression. Reverse transcription-PCR confirmed overexpression
+in colorectal tumor tissue compared with adjacent nonmalignant mucosa due in part
+to gene amplification determined by Southern blotting. Further,
+immunohistochemistry with an antibody generated to the predicted protein sequence
+revealed higher ZKSCAN3 expression in invasive compared with noninvasive tumors. 
+Intriguingly, the ZKSCAN3 protein was also expressed in tumors wild-type for
+genes (APC, p53, K-Ras) commonly targeted in colorectal cancer. ZKSCAN3 knockdown
+in two independent colon cancer cell lines impaired anchorage-independent growth 
+and orthotopic tumor growth, whereas overexpression in a third cell line had the 
+opposite effect and increased 5-fluorouracil resistance. Liposomal delivery of a 
+ZKSCAN3-targeting small interfering RNA reduced tumorigenicity of orthotopic
+colon cancer. Thus, the hitherto uncharacterized ZKSCAN3 adds to an expanding set
+of encoded products contributing to the progression of colorectal cancer.
+
+PMID: 18519692  [PubMed - indexed for MEDLINE]
+
+

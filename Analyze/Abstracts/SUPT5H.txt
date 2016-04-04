@@ -1,0 +1,2092 @@
+
+1. Oncotarget. 2015 Oct 20;6(32):32841-55. doi: 10.18632/oncotarget.5301.
+
+Suppressor of Ty homolog-5, a novel tumor-specific human telomerase reverse
+transcriptase promoter-binding protein and activator in colon cancer cells.
+
+Chen R(1), Zhu J(1), Dong Y(1), He C(1,)(2), Hu X(2).
+
+Author information: 
+(1)Department of Colorectal Surgery, Sir Run Run Shaw Hospital, Zhejiang
+University, Hangzhou 310016, China. (2)Biomedical Research Center and Key
+Laboratory of Biotherapy of Zhejiang Province, Sir Run Run Shaw Hospital,
+Zhejiang University, Hangzhou 310016, China.
+
+The human telomerase reverse transcriptase (hTERT) promoter promotes differential
+hTERT gene expression in tumor cells and normal cells. However, information on
+the mechanisms underlying the differential hTERT transcription and induction of
+telomerase activity in tumor cells is limited. In the present study, suppressor
+of Ty homolog-5 (SPT5), a protein encoded by the SUPT5H gene, was identified as a
+novel tumor-specific hTERT promoter-binding protein and activator in colon cancer
+cells. We verified the tumor-specific binding activity of SPT5 to the hTERT
+promoter in vitro and in vivo and detected high expression levels of SUPT5H in
+colorectal cancer cell lines and primary human colorectal cancer tissues. SUPT5H 
+was more highly expressed in colorectal cancer cases with distant metastasis than
+in cases without distant metastasis. Inhibition of endogenous SUPT5H expression
+by SUPT5H gene-specific short hairpin RNAs effectively attenuated hTERT
+promoter-driven green fluorescent protein (GFP) expression, whereas no detectable
+effects on CMV promoter-driven GFP expression in the same cells were observed. In
+addition, inhibition of SUPT5H expression not only effectively repressed
+telomerase activity, accelerated telomere shortening, and promoted cell
+senescence in colon cancer cells, but also suppressed cancer cell growth and
+migration. Our results demonstrated that SPT5 contributes to the up-regulation of
+hTERT expression and tumor development, and SUPT5H may potentially be used as a
+novel tumor biomarker and/or cancer therapeutic target.
+
+PMCID: PMC4741733
+PMID: 26418880  [PubMed - in process]
+
+
+2. J Proteome Res. 2015 Apr 3;14(4):1888-99. doi: 10.1021/pr501288h. Epub 2015 Mar
+24.
+
+Validation of a novel shotgun proteomic workflow for the discovery of
+protein-protein interactions: focus on ZNF521.
+
+Bernaudo F(1), Monteleone F(2), Mesuraca M(1), Krishnan S(2), Chiarella E(1),
+Scicchitano S(1), Cuda G(2), Morrone G(1), Bond HM(1), Gaspari M(2).
+
+Author information: 
+(1)†Department of Experimental and Clinical Medicine, Laboratory of Molecular
+Haematopoiesis and Stem Cell Biology, University Magna Graecia, Catanzaro 88100, 
+Italy. (2)‡Department of Experimental and Clinical Medicine, Proteomics@UMG,
+University Magna Graecia, Catanzaro 88100, Italy.
+
+The study of protein-protein interactions is increasingly relying on mass
+spectrometry (MS). The classical approach of separating immunoprecipitated
+proteins by SDS-PAGE followed by in-gel digestion is long and labor-intensive.
+Besides, it is difficult to integrate it with most quantitative MS-based
+workflows, except for stable isotopic labeling of amino acids in cell culture
+(SILAC). This work describes a fast, flexible and quantitative workflow for the
+discovery of novel protein-protein interactions. A cleavable cross-linker,
+dithiobis[succinimidyl propionate] (DSP), is utilized to stabilize protein
+complexes before immunoprecipitation. Protein complex detachment from the
+antibody is achieved by limited proteolysis. Finally, protein quantitation is
+performed via (18)O labeling. The workflow has been optimized concerning (i) DSP 
+concentration and (ii) incubation times for limited proteolysis, using the stem
+cell-associated transcription cofactor ZNF521 as a model target. The interaction 
+of ZNF521 with the core components of the nuclear remodelling and histone
+deacetylase (NuRD) complex, already reported in the literature, was confirmed.
+Additionally, interactions with newly discovered molecular partners of
+potentially relevant functional role, such as ZNF423, Spt16, Spt5, were
+discovered and validated by Western blotting.
+
+PMID: 25774781  [PubMed - indexed for MEDLINE]
+
+
+3. Cell Res. 2015 Mar;25(3):288-305. doi: 10.1038/cr.2015.19. Epub 2015 Feb 13.
+
+The Integrator complex controls the termination of transcription at diverse
+classes of gene targets.
+
+Skaar JR(1), Ferris AL(2), Wu X(3), Saraf A(4), Khanna KK(5), Florens L(4),
+Washburn MP(6), Hughes SH(2), Pagano M(7).
+
+Author information: 
+(1)Department of Pathology, Laura and Isaac Perlmutter Cancer Center, New York
+University School of Medicine, 522 First Avenue, New York, NY 10016, USA. (2)HIV 
+Drug Resistance Program, National Cancer Institute, Frederick, MD 21702, USA.
+(3)Cancer Research Technology Program, Leidos Biomedical Research, Inc.,
+Frederick National Laboratory for Cancer Research, Frederick, MD 21702, USA.
+(4)The Stowers Institute for Medical Research, Kansas City, MO 6411, USA. (5)QIMR
+Berghofer Medical Research Institute, Herston, Brisbane, Queensland 4006,
+Australia. (6)1] The Stowers Institute for Medical Research, Kansas City, MO
+6411, USA [2] Department of Pathology and Laboratory Medicine, The University of 
+Kansas Medical Center, Kansas City, KS 66160, USA. (7)1] Department of Pathology,
+Laura and Isaac Perlmutter Cancer Center, New York University School of Medicine,
+522 First Avenue, New York, NY 10016, USA [2] Howard Hughes Medical Institute,
+522 First Avenue New York, NY 10016, USA.
+
+Complexes containing INTS3 and either NABP1 or NABP2 were initially characterized
+in DNA damage responses, but their biochemical function remained unknown. Using
+affinity purifications and HIV Integration targeting-sequencing (HIT-Seq), we
+find that these complexes are part of the Integrator complex, which binds RNA
+Polymerase II and regulates specific target genes. Integrator cleaves snRNAs as
+part of their processing to their mature form in a mechanism that is intimately
+coupled with transcription termination. However, HIT-Seq reveals that Integrator 
+also binds to the 3' end of replication-dependent histones and promoter proximal 
+regions of genes with polyadenylated transcripts. Depletion of Integrator
+subunits results in transcription termination failure, disruption of histone mRNA
+processing, and polyadenylation of snRNAs and histone mRNAs. Furthermore,
+promoter proximal binding of Integrator negatively regulates expression of genes 
+whose transcripts are normally polyadenylated. Integrator recruitment to all
+three gene classes is DSIF-dependent, suggesting that Integrator functions as a
+termination complex at DSIF-dependent RNA Polymerase II pause sites.
+
+PMCID: PMC4349240
+PMID: 25675981  [PubMed - indexed for MEDLINE]
+
+
+4. Nat Commun. 2014 Nov 20;5:5531. doi: 10.1038/ncomms6531.
+
+Integrator complex regulates NELF-mediated RNA polymerase II pause/release and
+processivity at coding genes.
+
+Stadelmayer B(1), Micas G(2), Gamot A(2), Martin P(3), Malirat N(4), Koval S(4), 
+Raffel R(2), Sobhian B(4), Severac D(5), Rialle S(5), Parrinello H(5), Cuvier
+O(6), Benkirane M(1).
+
+Author information: 
+(1)1] Institute of Human Genetics, CNRS UPR1142, Laboratory of Molecular
+Virology; MGX-Montpellier GenomiX, 141 rue de la Cardonille, Montpellier 34396,
+France [2] LBME-CNRS, Cell Cycle Chromatin Dynamics Laboratory. University Paul
+Sabatier, Toulouse 31061, France [3] INRA, TOXALIM (Research Centre in Food
+Toxicology), Toulouse 31300, France [4] IGF, MGX-Montpellier GenomiX, France.
+(2)LBME-CNRS, Cell Cycle Chromatin Dynamics Laboratory. University Paul Sabatier,
+Toulouse 31061, France. (3)1] LBME-CNRS, Cell Cycle Chromatin Dynamics
+Laboratory. University Paul Sabatier, Toulouse 31061, France [2] INRA, TOXALIM
+(Research Centre in Food Toxicology), Toulouse 31300, France. (4)Institute of
+Human Genetics, CNRS UPR1142, Laboratory of Molecular Virology; MGX-Montpellier
+GenomiX, 141 rue de la Cardonille, Montpellier 34396, France. (5)IGF,
+MGX-Montpellier GenomiX, France. (6)1] LBME-CNRS, Cell Cycle Chromatin Dynamics
+Laboratory. University Paul Sabatier, Toulouse 31061, France [2] INRA, TOXALIM
+(Research Centre in Food Toxicology), Toulouse 31300, France [3] IGF,
+MGX-Montpellier GenomiX, France.
+
+RNA polymerase II (RNAPII) pausing/termination shortly after initiation is a
+hallmark of gene regulation. Here, we show that negative elongation factor (NELF)
+interacts with Integrator complex subunits (INTScom), RNAPII and Spt5. The
+interaction between NELF and INTScom subunits is RNA and DNA independent. Using
+both human immunodeficiency virus type 1 promoter and genome-wide analyses, we
+demonstrate that Integrator subunits specifically control NELF-mediated RNAPII
+pause/release at coding genes. The strength of RNAPII pausing is determined by
+the nature of the NELF-associated INTScom subunits. Interestingly, in addition to
+controlling RNAPII pause-release INTS11 catalytic subunit of the INTScom is
+required for RNAPII processivity. Finally, INTScom target genes are enriched in
+human immunodeficiency virus type 1 transactivation response element/NELF binding
+element and in a 3' box sequence required for small nuclear RNA biogenesis.
+Revealing these unexpected functions of INTScom in regulating RNAPII
+pause-release and completion of mRNA synthesis of NELF-target genes will
+contribute to our understanding of the gene expression cycle.
+
+PMCID: PMC4263189
+PMID: 25410209  [PubMed - indexed for MEDLINE]
+
+
+5. Nat Commun. 2014 Jun 27;5:4263. doi: 10.1038/ncomms5263.
+
+DSIF and NELF interact with Integrator to specify the correct
+post-transcriptional fate of snRNA genes.
+
+Yamamoto J(1), Hagiwara Y(1), Chiba K(1), Isobe T(1), Narita T(2), Handa H(3),
+Yamaguchi Y(4).
+
+Author information: 
+(1)Graduate School of Bioscience and Biotechnology, Tokyo Institute of
+Technology, Yokohama 226-8501, Japan. (2)Graduate School of Frontier Biosciences,
+Osaka University, Suita 565-0871, Japan. (3)Department of Nanoparticle
+Translational Research, Tokyo Medical University, Tokyo 160-8402, Japan. (4)1]
+Graduate School of Bioscience and Biotechnology, Tokyo Institute of Technology,
+Yokohama 226-8501, Japan [2] PRESTO, Japan Science and Technology Agency,
+Kawaguchi 332-0012, Japan.
+
+The elongation factors DSIF and NELF are responsible for promoter-proximal RNA
+polymerase II (Pol II) pausing. NELF is also involved in 3' processing of
+replication-dependent histone genes, which produce non-polyadenylated mRNAs. Here
+we show that DSIF and NELF contribute to the synthesis of small nuclear RNAs
+(snRNAs) through their association with Integrator, the large multisubunit
+complex responsible for 3' processing of pre-snRNAs. In HeLa cells, Pol II,
+Integrator, DSIF and NELF accumulate at the 3' end of the U1 snRNA gene.
+Knockdown of NELF results in misprocessing of U1, U2, U4 and U5 snRNAs, while
+DSIF is required for proper transcription of these genes. Knocking down NELF also
+disrupts transcription termination and induces the production of polyadenylated
+U1 transcripts caused by an enhanced recruitment of cleavage stimulation factor. 
+Our results indicate that NELF plays a key role in determining the
+post-transcriptional fate of Pol II-transcribed genes.
+
+PMID: 24968874  [PubMed - indexed for MEDLINE]
+
+
+6. Oncogene. 2015 Jan 8;34(2):154-64. doi: 10.1038/onc.2013.550. Epub 2014 Jan 20.
+
+Systems level-based RNAi screening by high content analysis identifies UBR5 as a 
+regulator of estrogen receptor-a protein levels and activity.
+
+Bolt MJ(1), Stossi F(1), Callison AM(1), Mancini MG(1), Dandekar R(1), Mancini
+MA(1).
+
+Author information: 
+(1)Department of Molecular and Cellular Biology, Baylor College of Medicine,
+Houston, TX, USA.
+
+Estrogen receptor-a (ERa) is a central transcription factor that regulates
+mammary gland physiology and a key driver in breast cancer. In the present study,
+we aimed to identify novel modulators of ERa-mediated transcriptional regulation 
+via a custom-built siRNA library screen. This screen was directed against a
+variety of coregulators, transcription modifiers, signaling molecules and DNA
+damage response proteins. By utilizing a microscopy-based, multi-end point,
+estrogen responsive biosensor cell line platform, the primary screen identified a
+wide range of factors that altered ERa protein levels, chromatin remodeling and
+mRNA output. We then focused on UBR5, a ubiquitin ligase and known oncogene that 
+modulates ERa protein levels and transcriptional output. Finally, we demonstrated
+that UBR5 also affects endogenous ERa target genes and E2-mediated cell
+proliferation in breast cancer cells. In conclusion, our multi-end point RNAi
+screen identified novel modulators of ERa levels and activity, and provided a
+robust systems level view of factors involved in mechanisms of nuclear receptor
+action and pathophysiology. Utilizing a high throughput RNAi screening approach
+we identified UBR5, a protein commonly amplified in breast cancer, as a novel
+regulator of ERa protein levels and transcriptional activity.
+
+PMID: 24441042  [PubMed - indexed for MEDLINE]
+
+
+7. Proc Natl Acad Sci U S A. 2013 Oct 22;110(43):17290-5. doi:
+10.1073/pnas.1314754110. Epub 2013 Oct 7.
+
+Structural basis for Spt5-mediated recruitment of the Paf1 complex to chromatin.
+
+Wier AD(1), Mayekar MK, Héroux A, Arndt KM, VanDemark AP.
+
+Author information: 
+(1)Department of Biological Sciences, University of Pittsburgh, Pittsburgh, PA
+15260.
+
+Polymerase associated factor 1 complex (Paf1C) broadly influences gene expression
+by regulating chromatin structure and the recruitment of RNA-processing factors
+during transcription elongation. The Plus3 domain of the Rtf1 subunit mediates
+Paf1C recruitment to genes by binding a repeating domain within the elongation
+factor Spt5 (suppressor of Ty). Here we provide a molecular description of this
+interaction by reporting the structure of human Rtf1 Plus3 in complex with a
+phosphorylated Spt5 repeat. We find that Spt5 binding is mediated by an extended 
+surface containing phosphothreonine recognition and hydrophobic interfaces that
+interact with residues outside the Spt5 motif. Changes within these interfaces
+diminish binding of Spt5 in vitro and chromatin localization of Rtf1 in vivo. The
+structure reveals the basis for recognition of the repeat motif of Spt5, a key
+player in the recruitment of gene regulatory factors to RNA polymerase II.
+
+PMCID: PMC3808610
+PMID: 24101474  [PubMed - indexed for MEDLINE]
+
+
+8. Genes Dev. 2013 Aug 15;27(16):1821-33. doi: 10.1101/gad.210211.112.
+
+E3-ubiquitin ligase Nedd4 determines the fate of AID-associated RNA polymerase II
+in B cells.
+
+Sun J(1), Keim CD, Wang J, Kazadi D, Oliver PM, Rabadan R, Basu U.
+
+Author information: 
+(1)Department of Microbiology and Immunology, Columbia University, New York, New 
+York 10032, USA.
+
+Programmed mutagenesis of the immunoglobulin locus of B lymphocytes during class 
+switch recombination (CSR) and somatic hypermutation requires RNA polymerase II
+(polII) transcription complex-dependent targeting of the DNA mutator
+activation-induced cytidine deaminase (AID). AID deaminates cytidine residues on 
+substrate sequences in the immunoglobulin (Ig) locus via a
+transcription-dependent mechanism, and this activity is stimulated by the RNA
+polII stalling cofactor Spt5 and the 11-subunit cellular noncoding RNA 3'-5'
+exonucleolytic processing complex RNA exosome. The mechanism by which the RNA
+exosome recognizes immunoglobulin locus RNA substrates to stimulate AID DNA
+deamination activity on its in vivo substrate sequences is an important question.
+Here we report that E3-ubiquitin ligase Nedd4 destabilizes AID-associated RNA
+polII by a ubiquitination event, leading to generation of 3' end free RNA exosome
+RNA substrates at the Ig locus and other AID target sequences genome-wide. We
+found that lack of Nedd4 activity in B cells leads to accumulation of RNA exosome
+substrates at AID target genes and defective CSR. Taken together, our study links
+noncoding RNA processing following RNA polII pausing with regulation of the
+mutator AID protein. Our study also identifies Nedd4 as a regulator of noncoding 
+RNAs that are generated by stalled RNA polII genome-wide.
+
+PMCID: PMC3759698
+PMID: 23964096  [PubMed - indexed for MEDLINE]
+
+
+9. PLoS One. 2013 Apr 11;8(4):e61055. doi: 10.1371/journal.pone.0061055. Print 2013.
+
+CTR9, a component of PAF complex, controls elongation block at the c-Fos locus
+via signal-dependent regulation of chromatin-bound NELF dissociation.
+
+Yoo HS(1), Seo JH, Yoo JY.
+
+Author information: 
+(1)Division of Molecular and Life Sciences, Department of Life Sciences, Pohang
+University of Science and Technology (POSTECH), Pohang, Republic of Korea.
+
+PAF complex (PAFc) is an RNA polymerase II associated factor that controls
+diverse steps of transcription. Although it is generally associated with actively
+transcribed genes, a repressive PAFc has also been suggested. Here, we report
+that PAFc regulates the transition from transcription initiation to transcription
+elongation. PAFc repressed IL-6-induced, but not TNF-a-induced, immediate early
+gene expression. PAFc constitutively associated with the 5'-coding region of the 
+c-Fos locus, then transiently dissociated upon IL-6 stimulation. When CTR9, a
+component of PAFc, was depleted, higher levels of serine 5-phosphorylated or
+serine 2-phosphorylated forms of RNA Polymerase II were associated with the
+unstimulated c-Fos locus. We also observed an increased association of CDK9, a
+kinase component of the pTEF-b elongation factor, with the c-Fos locus in the
+CTR9-depleted condition. Furthermore, association of negative elongation factor, 
+NELF, which is required to proceed to the elongation phase, was significantly
+reduced by CTR9 depletion, whereas elongation factor SPT5 recruitment was
+enhanced by CTR9 depletion. Finally, the chromatin association of CTR9 was
+specifically controlled by IL-6-induced kinase activity, because a JAK2 kinase
+inhibitor, AG-490, blocked its association. In conclusion, our data suggest that 
+PAFc controls the recruitment of NELF and SPT5 to target loci in a signal- and
+locus-specific manner.
+
+PMCID: PMC3623864
+PMID: 23593388  [PubMed - indexed for MEDLINE]
+
+
+10. Bioessays. 2013 Jun;35(6):553-60. doi: 10.1002/bies.201200179. Epub 2013 Apr 10.
+
+Pausing for thought: disrupting the early transcription elongation checkpoint
+leads to developmental defects and tumourigenesis.
+
+Jennings BH(1).
+
+Author information: 
+(1)Transcriptional Regulation Group, UCL Cancer Institute, London, UK.
+barbara.jennings@ucl.ac.uk
+
+Factors affecting transcriptional elongation have been characterized extensively 
+in in vitro, single cell (yeast) and cell culture systems; however, data from the
+context of multicellular organisms has been relatively scarce. While studies in
+homogeneous cell populations have been highly informative about the underlying
+molecular mechanisms and prevalence of polymerase pausing, they do not reveal the
+biological impact of perturbing this regulation in an animal. The core components
+regulating pausing are expressed in all animal cells and are recruited to the
+majority of genes, however, disrupting their function often results in discrete
+phenotypic effects. Mutations in genes encoding key regulators of transcriptional
+pausing have been recovered from several genetic screens for specific phenotypes 
+or interactions with specific factors in mice, zebrafish and flies. Analysis of
+these mutations has revealed that control of transcriptional pausing is critical 
+for a diverse range of biological pathways essential for animal development and
+survival.
+
+© 2013 WILEY Periodicals, Inc.
+
+PMCID: PMC3698693
+PMID: 23575664  [PubMed - indexed for MEDLINE]
+
+
+11. Biochim Biophys Acta. 2013 Jan;1829(1):98-104. doi: 10.1016/j.bbagrm.2012.11.007.
+Epub 2012 Nov 29.
+
+Transcription elongation factors DSIF and NELF: promoter-proximal pausing and
+beyond.
+
+Yamaguchi Y(1), Shibata H, Handa H.
+
+Author information: 
+(1)Graduate School of Bioscience and Biotechnology, Tokyo Institute of
+Technology, Yokohama, Japan.
+
+DRB sensitivity-inducing factor (DSIF) and negative elongation factor (NELF) were
+originally identified as factors responsible for transcriptional inhibition by
+5,6-dichloro-1-beta-d-ribofuranosyl-benzimidazole (DRB) and were later found to
+control transcription elongation, together with P-TEFb, at the promoter-proximal 
+region. Although there is ample evidence that these factors play roles throughout
+the genome, other data also suggest gene- or tissue-specific roles for these
+factors. In this review, we discuss how these apparently conflicting data can be 
+reconciled. In light of recent findings, we also discuss the detailed mechanism
+by which these factors control the elongation process at the molecular level.
+This article is part of a Special Issue entitled: RNA polymerase II Transcript
+Elongation.
+
+Copyright © 2012 Elsevier B.V. All rights reserved.
+
+PMID: 23202475  [PubMed - indexed for MEDLINE]
+
+
+12. Nat Struct Mol Biol. 2012 Nov;19(11):1108-15. doi: 10.1038/nsmb.2399. Epub 2012
+Oct 14.
+
+Cyclin-dependent kinase control of the initiation-to-elongation switch of RNA
+polymerase II.
+
+Larochelle S(1), Amat R, Glover-Cutter K, Sansó M, Zhang C, Allen JJ, Shokat KM, 
+Bentley DL, Fisher RP.
+
+Author information: 
+(1)Department of Structural and Chemical Biology, Mount Sinai School of Medicine,
+New York, New York, USA.
+
+Promoter-proximal pausing by RNA polymerase II (Pol II) ensures gene-specific
+regulation and RNA quality control. Structural considerations suggested a
+requirement for initiation-factor eviction in elongation-factor engagement and
+pausing of transcription complexes. Here we show that selective inhibition of
+Cdk7--part of TFIIH--increases TFIIE retention, prevents DRB sensitivity-inducing
+factor (DSIF) recruitment and attenuates pausing in human cells. Pause release
+depends on Cdk9-cyclin T1 (P-TEFb); Cdk7 is also required for Cdk9-activating
+phosphorylation and Cdk9-dependent downstream events--Pol II C-terminal domain
+Ser2 phosphorylation and histone H2B ubiquitylation--in vivo. Cdk7 inhibition,
+moreover, impairs Pol II transcript 3'-end formation. Cdk7 thus acts through
+TFIIE and DSIF to establish, and through P-TEFb to relieve, barriers to
+elongation: incoherent feedforward that might create a window to recruit
+RNA-processing machinery. Therefore, cyclin-dependent kinases govern Pol II
+handoff from initiation to elongation factors and cotranscriptional RNA
+maturation.
+
+PMCID: PMC3746743
+PMID: 23064645  [PubMed - indexed for MEDLINE]
+
+
+13. Cell Rep. 2012 Oct 25;2(4):722-31. doi: 10.1016/j.celrep.2012.08.041. Epub 2012
+Oct 4.
+
+DSIF restricts NF-<U+03BA>B signaling by coordinating elongation with mRNA processing of
+negative feedback genes.
+
+Diamant G(1), Amir-Zilberstein L, Yamaguchi Y, Handa H, Dikstein R.
+
+Author information: 
+(1)Department of Biological Chemistry, The Weizmann Institute of Science, Rehovot
+76100, Israel.
+
+NF-<U+03BA>B is central for immune response and cell survival, and its deregulation is
+linked to chronic inflammation and cancer through poorly defined mechanisms. I<U+03BA>Ba
+and A20 are NF-<U+03BA>B target genes and negative feedback regulators. Upon their
+activation by NF-<U+03BA>B, DSIF is recruited, P-TEFb is released, and their elongating 
+polymerase II (Pol II) C-terminal domain (CTD) remains hypophosphorylated. We
+show that upon DSIF knockdown, mRNA levels of a subset of NF-<U+03BA>B targets are not
+diminished; yet much less I<U+03BA>Ba and A20 protein are synthesized, and NF-<U+03BA>B
+activation is abnormally prolonged. Further analysis of I<U+03BA>Ba and A20 mRNA
+revealed that a significant portion is uncapped, unspliced, and retained in the
+nucleus. Interestingly, the Spt5 C-terminal repeat (CTR) domain involved in
+elongation stimulation through P-TEFb is dispensable for I<U+03BA>Ba and A20 regulation.
+These findings assign a function for DSIF in cotranscriptional mRNA processing
+when elongating Pol II is hypophosphorylated and define DSIF as part of the
+negative feedback regulation of NF-<U+03BA>B.
+
+Copyright © 2012 The Authors. Published by Elsevier Inc. All rights reserved.
+
+PMID: 23041311  [PubMed - indexed for MEDLINE]
+
+
+14. J Exp Med. 2012 Oct 22;209(11):2099-111. doi: 10.1084/jem.20112145. Epub 2012 Sep
+24.
+
+A role for the RNA pol II-associated PAF complex in AID-induced immune
+diversification.
+
+Willmann KL(1), Milosevic S, Pauklin S, Schmitz KM, Rangam G, Simon MT, Maslen S,
+Skehel M, Robert I, Heyer V, Schiavo E, Reina-San-Martin B, Petersen-Mahrt SK.
+
+Author information: 
+(1)DNA Editing Laboratory, London Research Institute, South Mimms EN6 3LD,
+England, UK.
+
+Antibody diversification requires the DNA deaminase AID to induce DNA instability
+at immunoglobulin (Ig) loci upon B cell stimulation. For efficient cytosine
+deamination, AID requires single-stranded DNA and needs to gain access to Ig
+loci, with RNA pol II transcription possibly providing both aspects. To
+understand these mechanisms, we isolated and characterized endogenous
+AID-containing protein complexes from the chromatin of diversifying B cells. The 
+majority of proteins associated with AID belonged to RNA polymerase II elongation
+and chromatin modification complexes. Besides the two core polymerase subunits,
+members of the PAF complex, SUPT5H, SUPT6H, and FACT complex associated with AID.
+We show that AID associates with RNA polymerase-associated factor 1 (PAF1)
+through its N-terminal domain, that depletion of PAF complex members inhibits
+AID-induced immune diversification, and that the PAF complex can serve as a
+binding platform for AID on chromatin. A model is emerging of how RNA polymerase 
+II elongation and pausing induce and resolve AID lesions.
+
+PMCID: PMC3478926
+PMID: 23008333  [PubMed - indexed for MEDLINE]
+
+
+15. Biochim Biophys Acta. 2013 Jan;1829(1):105-15. doi: 10.1016/j.bbagrm.2012.08.007.
+Epub 2012 Sep 6.
+
+The Spt4-Spt5 complex: a multi-faceted regulator of transcription elongation.
+
+Hartzog GA(1), Fu J.
+
+Author information: 
+(1)Department of MCD Biology, University of California, Santa Cruz, CA 95064,
+USA. hartzog@ucsc.edu
+
+In all domains of life, elongating RNA polymerases require the assistance of
+accessory factors to maintain their processivity and regulate their rate. Among
+these elongation factors, the Spt5/NusG factors stand out. Members of this
+protein family appear to be the only transcription accessory proteins that are
+universally conserved across all domains of life. In archaea and eukaryotes, Spt5
+associates with a second protein, Spt4. In addition to regulating elongation, the
+eukaryotic Spt4-Spt5 complex appears to couple chromatin modification states and 
+RNA processing to transcription elongation. This review discusses the
+experimental bases for our current understanding of Spt4-Spt5 function and recent
+studies that are beginning to elucidate the structure of Spt4-Spt5/RNA polymerase
+complexes and mechanism of Spt4-Spt5 action. This article is part of a Special
+Issue entitled: RNA polymerase II Transcript Elongation.
+
+Copyright © 2012 Elsevier B.V. All rights reserved.
+
+PMCID: PMC3545043
+PMID: 22982195  [PubMed - indexed for MEDLINE]
+
+
+16. J Virol. 2011 Nov;85(21):11159-69. doi: 10.1128/JVI.00720-11. Epub 2011 Aug 31.
+
+Mechanism of glycyrrhizic acid inhibition of Kaposi's sarcoma-associated
+herpesvirus: disruption of CTCF-cohesin-mediated RNA polymerase II pausing and
+sister chromatid cohesion.
+
+Kang H(1), Lieberman PM.
+
+Author information: 
+(1)The Wistar Institute, 3601 Spruce Street, Philadelphia, PA 19104-4268, USA.
+
+Glycyrrhizic acid (GA), a derivative of licorice, selectively inhibits the growth
+of lymphocytes latently infected with Kaposi's sarcoma-associated herpesvirus.
+The mechanism involves the deregulation of the multicistronic latency transcript,
+including the failure to generate the mature forms of viral mRNA encoding LANA.
+We show here that GA disrupts an RNA polymerase II (RNAPII) complex that
+accumulates at the CTCF-cohesin binding site within the first intron of the
+latency transcript. GA altered the enrichment of the RNAPII pausing complex,
+along with pausing factors SPT5 and NELF-A, at the intragenic CTCF-cohesin
+binding sites. GA blocked the interaction of cohesin subunit SMC3 with another
+cohesin subunit, RAD21, and reduced SPT5 interaction with RNAPII. Covalent
+coupling of GA to a solid support revealed that GA interacts with several
+cellular proteins, including SMC3 and SPT5, but not their respective interaction 
+partners RAD21 and RNAPII. GA treatment also inhibited the transcription of some 
+cellular genes, like c-myc, which contain a similar CTCF-cohesin binding site
+within the first intron. We also found that GA leads to a more general loss of
+sister chromatid cohesion for cellular chromosomes. These findings suggest that
+RNAPII pauses at intragenic CTCF-cohesin binding sites and that abrogation of
+this pausing by GA leads to loss of proper mRNA production and defects in sister 
+chromatid cohesion, a process important for both viral and cellular chromosome
+stability.
+
+PMCID: PMC3194953
+PMID: 21880767  [PubMed - indexed for MEDLINE]
+
+
+17. J Virol. 2011 Sep;85(17):8569-81. doi: 10.1128/JVI.00496-11. Epub 2011 Jun 29.
+
+Comprehensive proteomic analysis of influenza virus polymerase complex reveals a 
+novel association with mitochondrial proteins and RNA polymerase accessory
+factors.
+
+Bradel-Tretheway BG(1), Mattiacio JL, Krasnoselsky A, Stevenson C, Purdy D,
+Dewhurst S, Katze MG.
+
+Author information: 
+(1)Department of Microbiology, School of Medicine, University of Washington,
+Seattle, Washington 98195, USA.
+
+The trimeric RNA polymerase complex (3P, for PA-PB1-PB2) of influenza A virus
+(IAV) is an important viral determinant of pathogenicity and host range
+restriction. Specific interactions of the polymerase complex with host proteins
+may be determining factors in both of these characteristics and play important
+roles in the viral life cycle. To investigate this question, we performed a
+comprehensive proteomic analysis of human host proteins associated with the
+polymerase of the well-characterized H5N1 Vietnam/1203/04 isolate. We identified 
+over 400 proteins by liquid chromatography-tandem mass spectrometry (LC-MS/MS),
+of which over 300 were found to bind to the PA subunit alone. The most intriguing
+and novel finding was the large number of mitochondrial proteins (~20%) that
+associated with the PA subunit. These proteins mediate molecular transport across
+the mitochondrial membrane or regulate membrane potential and may in concert with
+the identified mitochondrion-associated apoptosis inducing factor (AIFM1) have
+roles in the induction of apoptosis upon association with PA. Additionally, we
+identified host factors that associated with the PA-PB1 (68 proteins) and/or the 
+3P complex (34 proteins) including proteins that have roles in innate antiviral
+signaling (e.g., ZAPS or HaxI) or are cellular RNA polymerase accessory factors
+(e.g., polymerase I transcript release factor [PTRF] or Supt5H). IAV
+strain-specific host factor binding to the polymerase was not observed in our
+analysis. Overall, this study has shed light into the complex contributions of
+the IAV polymerase to host cell pathogenicity and allows for direct
+investigations into the biological significance of these newly described
+interactions.
+
+PMCID: PMC3165779
+PMID: 21715506  [PubMed - indexed for MEDLINE]
+
+
+18. Mol Cell Biol. 2011 Aug;31(16):3312-25. doi: 10.1128/MCB.05318-11. Epub 2011 Jun 
+13.
+
+The RPB2 flap loop of human RNA polymerase II is dispensable for transcription
+initiation and elongation.
+
+Palangat M(1), Grass JA, Langelier MF, Coulombe B, Landick R.
+
+Author information: 
+(1)Department of Biochemistry, University of Wisconsin-Madison, Madison, WI
+53706, USA.
+
+The flap domain of multisubunit RNA polymerases (RNAPs), also called the wall,
+forms one side of the RNA exit channel. In bacterial RNAP, the mobile part of the
+flap is called the flap tip and makes essential contacts with initiation and
+elongation factors. Cocrystal structures suggest that the orthologous part of
+eukaryotic RNAPII, called the flap loop, contacts transcription factor IIB
+(TFIIB), but the function of the flap loop has not been assessed. We constructed 
+and tested a deletion of the flap loop in human RNAPII (subunit RPB2 <U+0394>873-884)
+that removes the flap loop interaction interface with TFIIB. Genome-wide analysis
+of the distribution of the RNAPII with the flap loop deletion expressed in a
+human embryonic kidney cell line (HEK 293) revealed no effect of the flap loop on
+global transcription initiation, RNAPII occupancy within genes, or the efficiency
+of promoter escape and productive elongation. In vitro, the flap loop deletion
+had no effect on promoter binding, abortive initiation or promoter escape,
+TFIIS-stimulated transcript cleavage, or inhibition of transcript elongation by
+the complex of negative elongation factor (NELF) and
+5,6-dichloro-1-ß-d-ribofuranosylbenzimidazole (DRB) sensitivity-inducing factor
+(DSIF). A modest effect on transcript elongation and pausing was suppressed by
+TFIIF. Although similar to the flap tip of bacterial RNAP, the RNAPII flap loop
+is not equivalently essential.
+
+PMCID: PMC3147802
+PMID: 21670157  [PubMed - indexed for MEDLINE]
+
+
+19. Genes Cells. 2011 Feb;16(2):231-42. doi: 10.1111/j.1365-2443.2010.01481.x. Epub
+2011 Jan 4.
+
+Erythropoiesis is regulated by the transcription elongation factor Foggy/Spt5
+through gata1 gene regulation.
+
+Taneda T(1), Zhu W, Cao Q, Watanabe H, Yamaguchi Y, Handa H, Wada T.
+
+Author information: 
+(1)Graduate School of Bioscience and Biotechnology, Tokyo Institute of
+Technology, Midori-ku, Yokohama, Kanagawa 226-8503, Japan.
+
+Recent studies have showed that transcription elongation factors regulate early
+development. Foggy/Spt5 is a subunit of DRB sensitivity-inducing factor, which
+negatively and positively regulates transcription elongation. Here, we report
+that the positive function of Foggy/Spt5 is required for gata1 expression during 
+zebrafish embryonic hematopoiesis. Antisense morpholino oligonucleotide
+(MO)-mediated knockdown of foggy/spt5 has led to a reduction in the expression of
+gata1 and the gata1 target genes alas2 and hbae3 and inhibited proper hemoglobin 
+production. By contrast, expression of hematopoietic stem cell and endothelial
+markers, including scl, lmo2, gata2, fli-1, and flk-1, and expression of biklf,
+whose product directs gata1 expression via its direct binding to the gata1
+promoter, were unaltered, suggesting that gata1 is a functionally important
+target gene of Foggy/Spt5. The MO-mediated gata1 repression was relieved by
+forced expression of wild-type foggy/spt5, but not by a mutant lacking the
+positive function. Therefore, this study provides evidence that Foggy/Spt5 plays 
+an important role in gata1 gene expression and erythropoiesis through its
+transcriptional activation domain.
+
+© 2011 The Authors. Journal compilation © 2011 by the Molecular Biology Society
+of Japan/Blackwell Publishing Ltd.
+
+PMID: 21205096  [PubMed - indexed for MEDLINE]
+
+
+20. Biochim Biophys Acta. 2011 Jan;1809(1):34-45. doi: 10.1016/j.bbagrm.2010.11.001. 
+Epub 2010 Nov 13.
+
+Pol II waiting in the starting gates: Regulating the transition from
+transcription initiation into productive elongation.
+
+Nechaev S(1), Adelman K.
+
+Author information: 
+(1)Laboratory of Molecular Carcinogenesis, National Institute of Environmental
+Health Sciences, National Institutes of Health, Research Triangle Park, NC 27709,
+USA.
+
+Proper regulation of gene expression is essential for the differentiation,
+development and survival of all cells and organisms. Recent work demonstrates
+that transcription of many genes, including key developmental and
+stimulus-responsive genes, is regulated after the initiation step, by pausing of 
+RNA polymerase II during elongation through the promoter-proximal region. Thus,
+there is great interest in better understanding the events that follow
+transcription initiation and the ways in which the efficiency of early elongation
+can be modulated to impact expression of these highly regulated genes. Here we
+describe our current understanding of the steps involved in the transition from
+an unstable initially transcribing complex into a highly stable and processive
+elongation complex. We also discuss the interplay between factors that affect
+early transcript elongation and the potential physiological consequences for
+genes that are regulated through transcriptional pausing.
+
+Published by Elsevier B.V.
+
+PMCID: PMC3021596
+PMID: 21081187  [PubMed - indexed for MEDLINE]
+
+
+21. Cell. 2010 Apr 30;141(3):432-45. doi: 10.1016/j.cell.2010.03.030.
+
+c-Myc regulates transcriptional pause release.
+
+Rahl PB(1), Lin CY, Seila AC, Flynn RA, McCuine S, Burge CB, Sharp PA, Young RA.
+
+Author information: 
+(1)Whitehead Institute for Biomedical Research, Cambridge, MA 02142, USA.
+
+Comment in
+    Nat Rev Cancer. 2010 Jul;10(7):455.
+    Cell. 2010 Apr 30;141(3):399-400.
+
+Recruitment of the RNA polymerase II (Pol II) transcription initiation apparatus 
+to promoters by specific DNA-binding transcription factors is well recognized as 
+a key regulatory step in gene expression. We report here that promoter-proximal
+pausing is a general feature of transcription by Pol II in mammalian cells and
+thus an additional step where regulation of gene expression occurs. This suggests
+that some transcription factors recruit the transcription apparatus to promoters,
+whereas others effect promoter-proximal pause release. Indeed, we find that the
+transcription factor c-Myc, a key regulator of cellular proliferation, plays a
+major role in Pol II pause release rather than Pol II recruitment at its target
+genes. We discuss the implications of these results for the role of c-Myc
+amplification in human cancer.
+
+2010 Elsevier Inc. All rights reserved.
+
+PMCID: PMC2864022
+PMID: 20434984  [PubMed - indexed for MEDLINE]
+
+
+22. J Recept Signal Transduct Res. 2010 Feb;30(1):31-42. doi:
+10.3109/10799890903517921.
+
+Promoter-proximal pausing of RNA polymerase II: an opportunity to regulate gene
+transcription.
+
+Fujita T(1), Schlegel W.
+
+Author information: 
+(1)University of Geneva, Faculty of Medicine, Geneva, Switzerland.
+
+Transcription of eukaryotic genes by RNA polymerase II (pol II) is a complex,
+highly regulated multiphasic process. Pol II pauses in the proximity of the
+promoter on a large fraction of transcribed genes. Transcription initiation and
+elongation of transcripts are under distinct control. Induced gene expression can
+thus be due to enhanced initiation and/or stimulated elongation. Pausing and
+resumption of the elongation of transcripts is under the control of transcription
+elongation factors. Three of them, P-TEFb, DSIF, and NELF have been well
+characterized as protein complexes with multiple general but also gene specific
+functions. Elongation factors execute checkpoint functions but serve also as
+targets for signaling processes which regulate gene expression. Due to the
+general importance of transcription elongation factors, it is difficult to
+delineate the mechanisms by which elongation of specific genes is regulated by
+specific intracellular signals. However, it is clear that the controlled pausing 
+of pol II provides an opportunity to finely control timing and quantity of
+transcriptional output.
+
+PMID: 20170405  [PubMed - indexed for MEDLINE]
+
+
+23. Mol Cell Endocrinol. 2010 May 5;319(1-2):63-70. doi: 10.1016/j.mce.2010.01.020.
+Epub 2010 Jan 25.
+
+Transcription elongation factors are involved in programming hormone production
+in pituitary neuroendocrine GH4C1 cells.
+
+Fujita T(1), Piuz I, Schlegel W.
+
+Author information: 
+(1)Fondation pour Recherches Médicales, Medical Faculty of the University of
+Geneva, Geneva, Switzerland.
+
+Transcription elongation of many eukaryotic genes is regulated. Two negative
+transcription elongation factors,
+5,6-dichloro-1-beta-D-ribofuranosylbenzimidazole (DRB) sensitivity-inducing
+factor (DSIF) and negative elongation factor (NELF) are known to stall
+collaboratively RNA polymerase II promoter proximally. We discovered that DSIF
+and NELF are linked to hormone expression in rat pituitary GH4C1 cells. When
+NELF-E, a subunit of NELF or Spt5, a subunit of DSIF was stably knocked-down,
+prolactin (PRL) expression was increased both at the mRNA and protein levels. In 
+contrast, stable knock-down of only Spt5 abolished growth hormone (GH)
+expression. Transient NELF-E knock-down increased coincidentally PRL expression
+and enhanced transcription of a PRL-promoter reporter gene. However, no direct
+interaction of NELF with the PRL gene could be demonstrated by chromatin
+immuno-precipitation. Thus, NELF suppressed PRL promoter activity indirectly. In 
+conclusion, transcription regulation by NELF and DSIF is continuously involved in
+the control of hormone production and may contribute to neuroendocrine cell
+differentiation.
+
+Copyright 2010 Elsevier Ireland Ltd. All rights reserved.
+
+PMID: 20097260  [PubMed - indexed for MEDLINE]
+
+
+24. Genes Dev. 2009 Dec 1;23(23):2765-77. doi: 10.1101/gad.1834709.
+
+DSIF, the Paf1 complex, and Tat-SF1 have nonredundant, cooperative roles in RNA
+polymerase II elongation.
+
+Chen Y(1), Yamaguchi Y, Tsugeno Y, Yamamoto J, Yamada T, Nakamura M, Hisatake K, 
+Handa H.
+
+Author information: 
+(1)Graduate School of Bioscience and Biotechnology, Tokyo Institute of
+Technology, Yokohama 226-8501, Japan.
+
+Transcription elongation factor DSIF/Spt4-Spt5 is capable of promoting and
+inhibiting RNA polymerase II elongation and is involved in the expression of
+various genes. While it has been known for many years that DSIF inhibits
+elongation in collaboration with the negative elongation factor NELF, how DSIF
+promotes elongation is largely unknown. Here, an activity-based biochemical
+approach was taken to understand the mechanism of elongation activation by DSIF. 
+We show that the Paf1 complex (Paf1C) and Tat-SF1, two factors implicated
+previously in elongation control, collaborate with DSIF to facilitate efficient
+elongation. In human cells, these factors are recruited to the FOS gene in a
+temporally coordinated manner and contribute to its high-level expression. We
+also show that elongation activation by these factors depends on P-TEFb-mediated 
+phosphorylation of the Spt5 C-terminal region. A clear conclusion emerging from
+this study is that a set of elongation factors plays nonredundant, cooperative
+roles in elongation. This study also shows unambiguously that Paf1C, which is
+generally thought to have chromatin-related functions, is involve directlyd in
+elongation control.
+
+PMCID: PMC2788331
+PMID: 19952111  [PubMed - indexed for MEDLINE]
+
+
+25. Biochem J. 2009 Dec 23;425(2):373-80. doi: 10.1042/BJ20091422.
+
+Crystal structure of the human transcription elongation factor DSIF hSpt4 subunit
+in complex with the hSpt5 dimerization interface.
+
+Wenzel S(1), Martins BM, Rösch P, Wöhrl BM.
+
+Author information: 
+(1)Research Centre for Biomacromolecules, Universitätsstr. 30, D-95447 Bayreuth, 
+Germany.
+
+The eukaryotic transcription elongation factor DSIF [DRB
+(5,6-dichloro-1-beta-D-ribofuranosylbenzimidazole) sensitivity-inducing factor]
+is composed of two subunits, hSpt4 and hSpt5, which are homologous to the yeast
+factors Spt4 and Spt5. DSIF is involved in regulating the processivity of RNA
+polymerase II and plays an essential role in transcriptional activation of
+eukaryotes. At several eukaryotic promoters, DSIF, together with NELF (negative
+elongation factor), leads to promoter-proximal pausing of RNA polymerase II. In
+the present paper we describe the crystal structure of hSpt4 in complex with the 
+dimerization region of hSpt5 (amino acids 176-273) at a resolution of 1.55 A (1
+A=0.1 nm). The heterodimer shows high structural similarity to its homologue from
+Saccharomyces cerevisiae. Furthermore, hSpt5-NGN is structurally similar to the
+NTD (N-terminal domain) of the bacterial transcription factor NusG. A homologue
+for hSpt4 has not yet been found in bacteria. However, the archaeal transcription
+factor RpoE" appears to be distantly related. Although a comparison of the
+NusG-NTD of Escherichia coli with hSpt5 revealed a similarity of the
+three-dimensional structures, interaction of E. coli NusG-NTD with hSpt4 could
+not be observed by NMR titration experiments. A conserved glutamate residue,
+which was shown to be crucial for dimerization in yeast, is also involved in the 
+human heterodimer, but is substituted for a glutamine residue in Escherichia coli
+NusG. However, exchanging the glutamine for glutamate proved not to be sufficient
+to induce hSpt4 binding.
+
+PMID: 19860741  [PubMed - indexed for MEDLINE]
+
+
+26. Cell Cycle. 2009 Nov 15;8(22):3636-42. Epub 2009 Nov 24.
+
+Insights into the function of the human P-TEFb component CDK9 in the regulation
+of chromatin modifications and co-transcriptional mRNA processing.
+
+Pirngruber J(1), Shchebet A, Johnsen SA.
+
+Author information: 
+(1)Department of Molecular Oncology, Göttingen Center for Molecular Biosciences, 
+University of Göttingen, Göttingen, Germany.
+
+Cyclin-dependent kinase-9 (CDK9) was originally characterized as a transcription 
+elongation factor which regulates RNA Polymerase II (RNAPII) activity following
+transcriptional initiation. However, recent evidence from a number of studies
+have shown that CDK9 plays an important role in regulating not only RNAPII
+activity but also co-transcriptional histone modification and mRNA processing
+events such as splicing and 3' end processing. Importantly, our previous work and
+the work presented here demonstrate that CDK9 functions to guide a complex
+network of chromatin modifications including histone H2B monoubiquitination
+(H2Bub1), H3 lysine 4 trimethylation (H3K4me3) and H3K36me3. This function
+appears to be dependent upon not only the phosphorylation of the RNA Polymerase
+II C-terminal domain but also upon other CDK9 targets such as the Suppressor of
+Ty Homolog-5 (SUPT5H), Negative Elongation Factor-E (NELF-E) and probably the
+human Rad6 homolog UBE2A. We provide a working model by which CDK9 may control
+co-transcriptional replication-dependent histone mRNA 3' end processing in an
+H2Bub1 and H3K4me3-dependent manner and uncover new and important differences
+between the functions of human CDK9 and its yeast counterparts Ctk1 and Bur1.
+
+PMID: 19844166  [PubMed - indexed for MEDLINE]
+
+
+27. Mol Cell Biol. 2009 Jul;29(14):4002-13. doi: 10.1128/MCB.00189-09. Epub 2009 May 
+18.
+
+Chromatin structure is implicated in "late" elongation checkpoints on the U2
+snRNA and beta-actin genes.
+
+Egloff S(1), Al-Rawaf H, O'Reilly D, Murphy S.
+
+Author information: 
+(1)Sir William Dunn School of Pathology, University of Oxford, South Parks Road, 
+Oxford OX1 3RE, United Kingdom.
+
+The negative elongation factor NELF is a key component of an early elongation
+checkpoint generally located within 100 bp of the transcription start site of
+protein-coding genes. Negotiation of this checkpoint and conversion to productive
+elongation require phosphorylation of the carboxy-terminal domain of RNA
+polymerase II (pol II), NELF, and DRB sensitivity-inducing factor (DSIF) by
+positive transcription elongation factor b (P-TEFb). P-TEFb is dispensable for
+transcription of the noncoding U2 snRNA genes, suggesting that a NELF-dependent
+checkpoint is absent. However, we find that NELF at the end of the 800-bp U2 gene
+transcription unit and RNA interference-mediated knockdown of NELF causes a
+termination defect. NELF is also associated 800 bp downstream of the
+transcription start site of the beta-actin gene, where a "late" P-TEFb-dependent 
+checkpoint occurs. Interestingly, both genes have an extended nucleosome-depleted
+region up to the NELF-dependent control point. In both cases, transcription
+through this region is P-TEFb independent, implicating chromatin in the formation
+of the terminator/checkpoint. Furthermore, CTCF colocalizes with NELF on the U2
+and beta-actin genes, raising the possibility that it helps the positioning
+and/or function of the NELF-dependent control point on these genes.
+
+PMCID: PMC2704739
+PMID: 19451231  [PubMed - indexed for MEDLINE]
+
+
+28. Genes Cells. 2009 Mar;14(3):343-54. doi: 10.1111/j.1365-2443.2008.01273.x. Epub
+2009 Feb 4.
+
+Role of human transcription elongation factor DSIF in the suppression of
+senescence and apoptosis.
+
+Komori T(1), Inukai N, Yamada T, Yamaguchi Y, Handa H.
+
+Author information: 
+(1)Graduate School of Bioscience and Biotechnology, Tokyo Institute of
+Technology, 4259 Nagatsuta, Yokohama 226-8501, Japan.
+
+DSIF is an evolutionarily conserved, ubiquitously expressed, heterodimeric
+transcription elongation factor composed of two subunits, Spt4 and Spt5. Previous
+biochemical studies have shown that DSIF positively and negatively regulates RNA 
+polymerase II elongation in collaboration with other protein factors. While
+several data suggest that DSIF is a 'general' elongation factor, there is also
+evidence that DSIF exerts a tissue- and gene-specific function. Here we sought to
+address the question of whether physiological functions of DSIF are general or
+specific, by using a sophisticated knockdown approach and gene expression
+microarray analysis. We found that Spt5 is essential for cell growth of various
+human cell lines and that Spt5 knockdown causes senescence and apoptosis.
+However, Spt5 knockdown affects a surprisingly small number of genes. In Spt5
+knockdown cells, the p53 signaling pathway is activated and mediates part of the 
+knockdown-induced transcriptional change, but apoptotic cell death occurs in the 
+absence of p53. Structure-function analysis of Spt5 shows that the C-terminal
+approximately 300 amino acid residues are not required to support cell
+proliferation. These results suggest that one of the functions of Spt5 is to
+suppress senescence and apoptosis, and that this function is exerted through its 
+association with Spt4 and Pol II.
+
+PMID: 19210550  [PubMed - indexed for MEDLINE]
+
+
+29. Nucleic Acids Res. 2008 Nov;36(20):e135. doi: 10.1093/nar/gkn630. Epub 2008 Oct
+1.
+
+Analysis of factor interactions with RNA polymerase II elongation complexes using
+a new electrophoretic mobility shift assay.
+
+Cheng B(1), Price DH.
+
+Author information: 
+(1)Molecular and Cellular Biology Program and Department of Biochemistry,
+University of Iowa, Iowa City, IA 52242, USA.
+
+The elongation phase of transcription by RNA polymerase II (RNAP II) is
+controlled by a carefully orchestrated series of interactions with both negative 
+and positive factors. However, due to the limitations of current methods and
+techniques, not much is known about whether and how these proteins physically
+associate with the engaged polymerases. To gain insight into the detailed
+mechanisms involved, we established an experimental system for analyzing direct
+factor interactions to RNAP II elongation complexes on native gels, namely
+elongation complex electrophoretic mobility shift assay (EC-EMSA). This new assay
+effectively allowed detection of interactions of TFIIF, TTF2, TFIIS, DSIF and
+P-TEFb with elongation complexes generated from a natural promoter using an
+immobilized template. As an application of this assay system, we characterized
+the association of transcription elongation factor DSIF with RNAP II elongation
+complexes and discovered that the nascent transcript facilitated recruitment of
+DSIF. Examples of how the system can be manipulated to address different
+questions are provided. EC-EMSA should be useful for further investigation of
+factor interactions with RNAP II elongation complexes.
+
+PMCID: PMC2582608
+PMID: 18832375  [PubMed - indexed for MEDLINE]
+
+
+30. Biochem Biophys Res Commun. 2008 Jun 6;370(3):414-8. doi:
+10.1016/j.bbrc.2008.03.080. Epub 2008 Mar 26.
+
+The small hSpt4 subunit of the human transcription elongation factor DSIF is a
+Zn-finger protein with alpha/beta type topology.
+
+Wenzel S(1), Schweimer K, Rösch P, Wöhrl BM.
+
+Author information: 
+(1)Universität Bayreuth, Lehrstuhl für Struktur und Chemie der Biopolymere &
+Research Center for Biomacromolecules, 95440 Bayreuth, Germany.
+
+The eukaryotic transcription elongation factor
+5,6-dichloro-1-beta-d-ribofuranosylbenzimidazole (DRB) sensitivity inducing
+factor (DSIF), is involved in regulating the processivity of RNA polymerase II.
+DSIF plays also a role in transcriptional activation, and in concert with the
+negative elongation factor NELF causes promoter proximal pausing of RNA
+polymerase II. Furthermore, DSIF has also been implicated in regulating the
+transcription of the human immunodeficiency virus proviral DNA. Human DSIF is
+composed of the two subunits, hSpt4 (p14) and hSpt5 (p160), corresponding to the 
+yeast homologs Spt4 and Spt5. Here we show the purification and characterization 
+of the small subunit, hSpt4. We were able to purify the protein in a soluble form
+separately from the larger hSpt5 subunit. CD and NMR spectroscopy show that the
+purified protein hSpt4 exhibits an alpha/beta topology with a well defined
+tertiary structure. Furthermore metal analysis by ICP-OES indicates that the
+protein contains a functional 4-Cys Zn-finger.
+
+PMID: 18373978  [PubMed - indexed for MEDLINE]
+
+
+31. J Biol Chem. 2008 Jan 18;283(3):1317-23. Epub 2007 Oct 25.
+
+Interplay between E-box and NF-kappaB in regulation of A20 gene by DRB
+sensitivity-inducing factor (DSIF).
+
+Amir-Zilberstein L(1), Dikstein R.
+
+Author information: 
+(1)Department of Biological Chemistry, The Weizmann Institute of Science, Rehovot
+76100, Israel.
+
+The NF-kappaB target gene A20 serves as a paradigm for gene-specific control of
+transcription elongation. This gene is regulated by the elongation factor DSIF
+(DRB sensitivity-inducing factor) under basal and NF-kappaB-activated states by
+two distinct mechanisms. Prior to NF-kappaB stimulation, the A20 gene is occupied
+by polymerase II, and elongation is inhibited by DSIF. This inhibition is
+mediated by an upstream promoter element termed ELIE (elongation inhibitory
+element). Upon NF-kappaB activation, inhibition of the A20 gene by DSIF persists,
+but now NF-kappaB and the core promoter regulate DSIF instead of ELIE. Here we
+investigated the regulation of DSIF by ELIE and the regulatory switch from ELIE
+to NF-kappaB following NF-kappaB induction. Electrophoretic mobility shift assays
+revealed two distinct protein complexes that specifically interact with ELIE, one
+of which is the E-box protein USF1. Interestingly, USF1 is displaced from the A20
+promoter upon induction of NF-kappaB. A mutation in the E-box section of ELIE
+diminished the binding of USF1 and DSIF recruitment. Consistent with these
+findings, the E-box is crucial for DSIF inhibition in resting, but not
+NF-kappaB-stimulated, cells. These findings reveal a dynamic regulation of DSIF
+involving either E-box or NF-kappaB depending on the physiological circumstances.
+
+PMID: 17962196  [PubMed - indexed for MEDLINE]
+
+
+32. Nucleic Acids Res. 2007;35(12):4064-75. Epub 2007 Jun 12.
+
+DSIF contributes to transcriptional activation by DNA-binding activators by
+preventing pausing during transcription elongation.
+
+Zhu W(1), Wada T, Okabe S, Taneda T, Yamaguchi Y, Handa H.
+
+Author information: 
+(1)Graduate School of Bioscience and Biotechnology and Integrated Research
+Institute, Tokyo Institute of Technology, 4259 Nagatsuta, Midori-ku, Yokohama
+226-8501, Japan.
+
+The transcription elongation factor
+5,6-dichloro-1-beta-D-ribofuranosylbenzimidazole (DRB) sensitivity-inducing
+factor (DSIF) regulates RNA polymerase II (RNAPII) processivity by promoting, in 
+concert with negative elongation factor (NELF), promoter-proximal pausing of
+RNAPII. DSIF is also reportedly involved in transcriptional activation. However, 
+the role of DSIF in transcriptional activation by DNA-binding activators is
+unclear. Here we show that DSIF acts cooperatively with a DNA-binding activator, 
+Gal4-VP16, to promote transcriptional activation. In the absence of DSIF,
+Gal4-VP16-activated transcription resulted in frequent pausing of RNAPII during
+elongation in vitro. The presence of DSIF reduced pausing, thereby supporting
+Gal4-VP16-mediated activation. We found that DSIF exerts its positive effects
+within a short time-frame from initiation to elongation, and that NELF does not
+affect the positive regulatory function of DSIF. Knockdown of the gene encoding
+the large subunit of DSIF, human Spt5 (hSpt5), in HeLa cells reduced
+Gal4-VP16-mediated activation of a reporter gene, but had no effect on expression
+in the absence of activator. Together, these results provide evidence that
+higher-level transcription has a stronger requirement for DSIF, and that DSIF
+contributes to efficient transcriptional activation by preventing RNAPII pausing 
+during transcription elongation.
+
+PMCID: PMC1919491
+PMID: 17567605  [PubMed - indexed for MEDLINE]
+
+
+33. Mol Cell Biol. 2007 Jul;27(14):5246-59. Epub 2007 May 14.
+
+Differential regulation of NF-kappaB by elongation factors is determined by core 
+promoter type.
+
+Amir-Zilberstein L(1), Ainbinder E, Toube L, Yamaguchi Y, Handa H, Dikstein R.
+
+Author information: 
+(1)Department of Biological Chemistry, The Weizmann Institute of Science, Rehovot
+76100, Israel.
+
+NF-kappaB transcription factors activate genes important for immune response,
+inflammation, and cell survival. P-TEFb and DSIF, which are positive and negative
+transcription elongation factors, respectively, both regulate NF-kappaB-induced
+transcription, but the mechanism underlying their recruitment to NF-kappaB target
+genes is unknown. We show here that upon induction of NF-kappaB, a subset of
+target genes is regulated differentially by either P-TEFb or DSIF. The regulation
+of these genes and their occupancy by these elongation factors are dependent on
+the NF-kappaB enhancer and the core promoter type. Converting a TATA-less
+promoter to a TATA promoter switches the regulation of NF-kappaB from DSIF to
+P-TEFb. Accumulation or displacement of DSIF and P-TEFb is dictated by the
+formation of distinct initiation complexes (TFIID dependent or independent) on
+the two types of core promoter. The underlying mechanism for the dissociation of 
+DSIF from TATA promoters upon NF-kappaB activation involves the phosphorylation
+of RNA polymerase II by P-TEFb. The results highlight a regulatory link between
+the initiation and the elongation phases of the transcription reaction and
+broaden our comprehension of the NF-kappaB pathway.
+
+PMCID: PMC1951948
+PMID: 17502349  [PubMed - indexed for MEDLINE]
+
+
+34. Proc Natl Acad Sci U S A. 2007 Apr 10;104(15):6182-7. Epub 2007 Apr 2.
+
+Identification of a regulator of transcription elongation as an accessory factor 
+for the human Mediator coactivator.
+
+Malik S(1), Barrero MJ, Jones T.
+
+Author information: 
+(1)Laboratory of Biochemistry and Molecular Biology, The Rockefeller University, 
+New York, NY 10021, USA. maliks@rockefeller.edu
+
+The multiprotein Mediator coactivator complex is universally required for
+transcription of metazoan genes. It has been proposed to function by interfacing 
+between transcriptional activators and the RNA polymerase II machinery. However, 
+in vitro transcription systems reconstituted from homogeneous preparations of RNA
+polymerase II, the general transcription initiation factors, and the cofactor PC4
+display relatively robust activator (HNF-4)-dependent activity, which,
+nonetheless, can be further stimulated by Mediator. By contrast, an
+unfractionated nuclear extract-based system in which Mediator has been
+immunodepleted displays a near-absolute dependence on ectopic Mediator. Here, we 
+identified and purified an activity, MSA-2, that confers extract-like Mediator
+responsiveness to our reconstituted system. Mass spectrometric analyses
+identified its two constituent polypeptides as hSpt5 and hSpt4, which also
+comprise the elongation factor DSIF. Mechanistically, MSA-2/DSIF acts by
+restricting overall transcription in the pure system, thereby imposing a strong
+Mediator dependence. Our data thus point to potential mechanisms for Mediator
+function beyond its presently believed role in promoting the initial formation of
+the RNA polymerase II-containing preinitiation complex.
+
+PMCID: PMC1851085
+PMID: 17404243  [PubMed - indexed for MEDLINE]
+
+
+35. Mol Cell Biol. 2006 Aug;26(16):6094-104.
+
+Transcriptional pausing caused by NELF plays a dual role in regulating
+immediate-early expression of the junB gene.
+
+Aida M(1), Chen Y, Nakajima K, Yamaguchi Y, Wada T, Handa H.
+
+Author information: 
+(1)Graduate School of Bioscience and Biotechnology, Tokyo Institute of
+Technology, Midori-ku, Yokohama 226-8503, Japan.
+
+Human 5,6-dichloro-1-beta-D-ribofuranosylbenzimidazole sensitivity-inducing
+factor (DSIF) and negative elongation factor (NELF) negatively regulate
+transcription elongation by RNA polymerase II (RNAPII) in vitro. However, the
+physiological roles of this negative regulation are not well understood. Here, by
+using a number of approaches to identify protein-DNA interactions in vivo, we
+show that DSIF- and NELF-mediated transcriptional pausing has a dual function in 
+regulating immediate-early expression of the human junB gene. Before induction by
+interleukin-6, RNAPII, DSIF, and NELF accumulate in the promoter-proximal region 
+of junB, mainly at around position +50 from the transcription initiation site.
+After induction, the association of these proteins with the promoter-proximal
+region continues whereas RNAPII and DSIF are also found in the downstream
+regions. Depletion of a subunit of NELF by RNA interference enhances the junB
+mRNA level both before and after induction, indicating that DSIF- and
+NELF-mediated pausing contributes to the negative regulation of junB expression, 
+not only by inducing RNAPII pausing before induction but also by attenuating
+transcription after induction. These regulatory mechanisms appear to be conserved
+in other immediate-early genes as well.
+
+PMCID: PMC1592793
+PMID: 16880520  [PubMed - indexed for MEDLINE]
+
+
+36. Genes Dev. 2006 Mar 1;20(5):601-12.
+
+Gene-specific requirement for P-TEFb activity and RNA polymerase II
+phosphorylation within the p53 transcriptional program.
+
+Gomes NP(1), Bjerke G, Llorente B, Szostek SA, Emerson BM, Espinosa JM.
+
+Author information: 
+(1)Regulatory Biology Laboratory, The Salk Institute for Biological Studies, La
+Jolla, California 92037, USA.
+
+Comment in
+    Genes Dev. 2006 Mar 15;20(6):643-7.
+
+Activation of the p53 pathway mediates cellular responses to diverse forms of
+stress. Here we report that the p53 target gene p21(CIP1) is regulated by stress 
+at post-initiation steps through conversion of paused RNA polymerase II (RNAP II)
+into an elongating form. High-resolution chromatin immunoprecipitation assays
+(ChIP) demonstrate that p53-dependent activation of p21(CIP1) transcription after
+DNA damage occurs concomitantly with changes in RNAP II phosphorylation status
+and recruitment of the elongation factors DSIF (DRB Sensitivity-Inducing Factor),
+P-TEFb (Positive Transcription Elongation Factor b), TFIIH, TFIIF, and FACT
+(Facilitates Chromatin Transcription) to distinct regions of the p21(CIP1) locus.
+Paradoxically, pharmacological inhibition of P-TEFb leads to global inhibition of
+mRNA synthesis but activation of the p53 pathway through p53 accumulation,
+expression of specific p53 target genes, and p53-dependent apoptosis. ChIP
+analyses of p21(CIP1) activation in the absence of functional P-TEFb reveals the 
+existence of two distinct kinases that phosphorylate Ser5 of the RNAP II
+C-terminal domain (CTD). Importantly, CTD phosphorylation at Ser2 is not required
+for p21(CIP1) transcription, mRNA cleavage, or polyadenylation. Furthermore,
+recruitment of FACT requires CTD kinases, yet FACT is dispensable for p21(CIP1)
+expression. Thus, select genes within the p53 pathway bypass the requirement for 
+P-TEFb and RNAP II phosphorylation to trigger a cellular response to inhibition
+of global mRNA synthesis.
+
+PMCID: PMC1410802
+PMID: 16510875  [PubMed - indexed for MEDLINE]
+
+
+37. Mol Cell. 2006 Jan 20;21(2):227-37.
+
+P-TEFb-mediated phosphorylation of hSpt5 C-terminal repeats is critical for
+processive transcription elongation.
+
+Yamada T(1), Yamaguchi Y, Inukai N, Okamoto S, Mura T, Handa H.
+
+Author information: 
+(1)Graduate School of Bioscience and Biotechnology, Tokyo Institute of
+Technology, 4259 Nagatsuta, Yokohama 226-8501, Japan.
+
+Human DSIF, a heterodimer composed of hSpt4 and hSpt5, plays opposing roles in
+transcription elongation by RNA polymerase II (RNA Pol II). Here, we describe an 
+evolutionarily conserved repetitive heptapeptide motif (consensus = G-S-R/Q-T-P) 
+in the C-terminal region (CTR) of hSpt5, which, like the C-terminal domain (CTD) 
+of RNA Pol II, is highly phosphorylated by P-TEFb. Thr-4 residues of the CTR
+repeats are functionally important phosphorylation sites. In vitro, Thr-4
+phosphorylation is critical for the elongation activation activity of DSIF, but
+not to its elongation repression activity. In vivo, Thr-4 phosphorylation is
+critical for epidermal growth factor (EGF)-inducible transcription of c-fos and
+for efficient progression of RNA Pol II along the gene. We consider this
+phosphorylation to be a switch that converts DSIF from a repressor to an
+activator. We propose the "mini-CTD" hypothesis, in which phosphorylated CTR is
+thought to function in a manner analogous to phosphorylated CTD, serving as an
+additional code for active elongation complexes.
+
+PMID: 16427012  [PubMed - indexed for MEDLINE]
+
+
+38. Proc Natl Acad Sci U S A. 2005 Oct 18;102(42):15036-41. Epub 2005 Oct 7.
+
+A negative elongation factor for human RNA polymerase II inhibits the anti-arrest
+transcript-cleavage factor TFIIS.
+
+Palangat M(1), Renner DB, Price DH, Landick R.
+
+Author information: 
+(1)Department of Bacteriology, University of Wisconsin, Madison, WI 53706, USA.
+
+Formation of productive transcription complexes after promoter escape by RNA
+polymerase II is a major event in eukaryotic gene regulation. Both negative and
+positive factors control this step. The principal negative elongation factor
+(NELF) contains four polypeptides and requires for activity the two-polypeptide
+5,6-dichloro-1-beta-D-ribobenzimidazole-sensitivity inducing factor (DSIF).
+DSIF/NELF inhibits early transcript elongation until it is counteracted by the
+positive elongation factor P-TEFb. We report a previously undescribed activity of
+DSIF/NELF, namely inhibition of the transcript cleavage factor TFIIS. These two
+activities of DSIF/NELF appear to be mechanistically distinct. Inhibition of
+nucleotide addition requires > or = 18 nt of nascent RNA, whereas inhibition of
+TFIIS occurs at all transcript lengths. Because TFIIS promotes escape from
+promoter-proximal pauses by stimulating cleavage of back-tracked nascent RNA,
+TFIIS inhibition may help DSIF/NELF negatively regulate productive transcription.
+
+PMCID: PMC1257689
+PMID: 16214896  [PubMed - indexed for MEDLINE]
+
+
+39. Dev Dyn. 2005 Nov;234(3):651-8.
+
+Zebrafish foggy/spt 5 is required for migration of facial branchiomotor neurons
+but not for their survival.
+
+Cooper KL(1), Armstrong J, Moens CB.
+
+Author information: 
+(1)HHMI, Fred Hutchinson Cancer Research Center, Seattle, Washington 98109, USA.
+
+Transcript elongation is a critical step in the production of mature messenger
+RNAs. Many factors have been identified that are required for transcript
+elongation, including Spt 5. Studies in yeast determined that spt 5 is required
+for cell viability, and analyses in Drosophila indicate Spt 5 is localized to
+sites of active transcription, suggesting it is required generally for
+transcription. However, the requirement for spt 5 for cell viability in a
+metazoan organism has not been addressed. We determined that zebrafish foggy/spt 
+5 is required cell-autonomously for the posterior migration of facial
+branchiomotor neurons from rhombomere 4 (r4) into r6 and r7 of the hindbrain.
+These genetic mosaics also give us the unique opportunity to determine whether
+spt 5 is required for mRNA transcription equivalently at all loci by addressing
+two processes within the same cell-neuronal migration and cell viability. In a
+wild-type host, spt 5 null facial branchiomotor neurons survive to at least 5
+days postfertilization while failing to migrate posteriorly. This finding
+indicates that spt 5-dependent transcript elongation is required
+cell-autonomously for a complex cell migration but not for the survival of these 
+same cells. This work provides evidence that transcript elongation is not a
+global mechanism equivalently required by all loci and may actually be under more
+strict developmental regulation.
+
+Developmental Dynamics 234:651-658, 2005. (c) 2005 Wiley-Liss, Inc.
+
+PMCID: PMC2597073
+PMID: 16193504  [PubMed - indexed for MEDLINE]
+
+
+40. Mol Cell Biol. 2005 Sep;25(17):7473-83.
+
+NF-kappaB-repressing factor inhibits elongation of human immunodeficiency virus
+type 1 transcription by DRB sensitivity-inducing factor.
+
+Dreikhausen U(1), Hiebenthal-Millow K, Bartels M, Resch K, Nourbakhsh M.
+
+Author information: 
+(1)Institute of Pharmacology, Medical School Hannover, Germany.
+
+Human immunodeficiency virus type 1 (HIV-1) is able to establish a latent
+infection during which the integrated provirus remains transcriptionally silent. 
+In response to specific stimuli, the HIV-1 long terminal repeat (LTR) is highly
+activated, enhancing both transcriptional initiation and elongation. Here, we
+have identified a specific binding sequence of the nuclear NF-kappaB-repressing
+factor (NRF) within the HIV-1 LTR. The aim of this work was to define the role of
+NRF in regulating the LTR. Our data show that the endogenous NRF is required for 
+transcriptional activation of the HIV-1 LTR in stimulated cells. In unstimulated 
+cells, however, NRF inhibits HIV-1 LTR activity at the level of transcription
+elongation. Binding of NRF to the LTR in unstimulated cells prevents recruitment 
+of elongation factor DRB sensitivity-inducing factor and formation of processive 
+elongation complexes by hyperphosphorylated RNA polymerase II. Our data suggest
+that NRF interrupts the regulatory coupling of LTR binding factors and
+transcription elongation events. This inhibitory mechanism might contribute to
+transcriptional quiescence of integrated HIV-1 provirus.
+
+PMCID: PMC1190279
+PMID: 16107696  [PubMed - indexed for MEDLINE]
+
+
+41. Retrovirology. 2004 Dec 27;1:46.
+
+Modulating HIV-1 replication by RNA interference directed against human
+transcription elongation factor SPT5.
+
+Ping YH(1), Chu CY, Cao H, Jacque JM, Stevenson M, Rana TM.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Pharmacology, University of
+Massachusetts Medical School, 364 Plantation Street, Worcester, MA 01605, USA.
+yhping@ym.edu.tw
+
+BACKGROUND: Several cellular positive and negative elongation factors are
+involved in regulating RNA polymerase II processivity during transcription
+elongation in human cells. In recruiting several of these regulatory factors to
+the 5' long terminal repeat (LTR) promoter during transcription elongation, HIV-1
+modulates replication of its genome in a process mediated by the virus-encoded
+transactivator Tat. One particular cellular regulatory factor, DSIF subunit human
+SPT5 (hSpt5), has been implicated in both positively and negatively regulating
+transcriptional elongation but its role in Tat transactivation in vivo and in
+HIV-1 replication has not been completely elucidated.
+RESULTS: To understand the in vivo function of hSpt5 and define its role in Tat
+transactivation and HIV-1 replication, we used RNA interference (RNAi) to
+specifically knockdown hSpt5 expression by degrading hSpt5 mRNA.
+Short-interfering RNA (siRNA) designed to target hSpt5 for RNAi successfully
+resulted in knockdown of both hSpt5 mRNA and protein levels, and did not
+significantly affect cell viability. In contrast to hSpt5 knockdown,
+siRNA-mediated silencing of human mRNA capping enzyme, a functionally important
+hSpt5-interacting cellular protein, was lethal and showed a significant increase 
+in cell death over the course of the knockdown experiment. In addition, hSpt5
+knockdown led to significant decreases in Tat transactivation and inhibited HIV-1
+replication, indicating that hSpt5 was required for mediating Tat transactivation
+and HIV-1 replication.
+CONCLUSIONS: The findings presented here showed that hSpt5 is a bona fide
+positive regulator of Tat transactivation and HIV-1 replication in vivo. These
+results also suggest that hSpt5 function in transcription regulation and mRNA
+capping is essential for a subset of cellular and viral genes and may not be
+required for global gene expression.
+
+PMCID: PMC545048
+PMID: 15620346  [PubMed - indexed for MEDLINE]
+
+
+42. Proc Natl Acad Sci U S A. 2004 May 18;101(20):7572-7. Epub 2004 May 10.
+
+Functional interactions of RNA-capping enzyme with factors that positively and
+negatively regulate promoter escape by RNA polymerase II.
+
+Mandal SS(1), Chu C, Wada T, Handa H, Shatkin AJ, Reinberg D.
+
+Author information: 
+(1)Division of Nucleic Acids Enzymology, Department of Biochemistry, Robert Wood 
+Johnson Medical School and Howard Hughes Medical Institute, University of
+Medicine and Dentistry of New Jersey, Piscataway, NJ 08854, USA.
+
+Capping of the 5' ends of nascent RNA polymerase II transcripts is the first
+pre-mRNA processing event in all eukaryotic cells. Capping enzyme (CE) is
+recruited to transcription complexes soon after initiation by the phosphorylation
+of Ser-5 of the carboxyl-terminal domain of the largest subunit of RNA polymerase
+II. Here, we analyze the role of CE in promoter clearance and its functional
+interactions with different factors that are involved in promoter clearance.
+FCP1-mediated dephosphorylation of the carboxyl-terminal domain results in a
+drastic decrease in cotranscriptional capping efficiency but is reversed by the
+presence of DRB sensitivity-inducing factor (DSIF). These results suggest
+involvement of DSIF in CE recruitment. Importantly, CE relieves transcriptional
+repression by the negative elongation factor, indicating a critical role of CE in
+the elongation checkpoint control mechanism during promoter clearance. This
+functional interaction between CE and the negative elongation factor documents a 
+dynamic role of CE in promoter clearance beyond its catalytic activities.
+
+PMCID: PMC419647
+PMID: 15136722  [PubMed - indexed for MEDLINE]
+
+
+43. Mol Cell Biol. 2004 Apr;24(8):3324-36.
+
+Human Spt6 stimulates transcription elongation by RNA polymerase II in vitro.
+
+Endoh M(1), Zhu W, Hasegawa J, Watanabe H, Kim DK, Aida M, Inukai N, Narita T,
+Yamada T, Furuya A, Sato H, Yamaguchi Y, Mandal SS, Reinberg D, Wada T, Handa H.
+
+Author information: 
+(1)Graduate School of Bioscience and Biotechnology, Tokyo Institute of
+Technology, Midori-ku, Yokohama 226-8501, Japan.
+
+Recent studies have suggested that Spt6 participates in the regulation of
+transcription by RNA polymerase II (RNAPII). However, its underlying mechanism
+remains largely unknown. One possibility, which is supported by genetic and
+biochemical studies of Saccharomyces cerevisiae, is that Spt6 affects chromatin
+structure. Alternatively, Spt6 directly controls transcription by binding to the 
+transcription machinery. In this study, we establish that human Spt6 (hSpt6) is a
+classic transcription elongation factor that enhances the rate of RNAPII
+elongation. hSpt6 is capable of stimulating transcription elongation both
+individually and in concert with DRB sensitivity-inducing factor (DSIF),
+comprising human Spt5 and human Spt4. We also provide evidence showing that hSpt6
+interacts with RNAPII and DSIF in human cells. Thus, in vivo, hSpt6 may regulate 
+multiple steps of mRNA synthesis through its interaction with histones,
+elongating RNAPII, and possibly other components of the transcription machinery.
+
+PMCID: PMC381665
+PMID: 15060154  [PubMed - indexed for MEDLINE]
+
+
+44. Mol Cell Biol. 2004 Mar;24(6):2444-54.
+
+Elongation inhibition by DRB sensitivity-inducing factor is regulated by the A20 
+promoter via a novel negative element and NF-kappaB.
+
+Ainbinder E(1), Amir-Zilberstein L, Yamaguchi Y, Handa H, Dikstein R.
+
+Author information: 
+(1)Department of Biological Chemistry, The Weizmann Institute of Science, Rehovot
+76100, Israel.
+
+A20 is an immediate-early NF-kappaB target gene. Prior to NF-kappaB stimulation, 
+the A20 promoter is bound by the polymerase II machinery to allow rapid
+transcription activation. Here we show that the basal A20 transcription is
+repressed at the level of elongation in a promoter-specific fashion.
+Immunodepletion in vitro and RNA interference in cultured cells suggest that the 
+basal elongation inhibition is conferred by DRB sensitivity-inducing factor
+(DSIF). We have identified a negative upstream promoter element called ELIE that 
+controls DSIF activity. Remarkably, following NF-kappaB stimulation, inhibition
+of the A20 promoter by DSIF persists, but it is now regulated by NF-kappaB rather
+than ELIE. Similar regulation by DSIF is shown for another NF-kappaB-responsive
+gene, the IkappaBalpha gene. These findings reveal an intimate and dynamic
+relationship between DSIF inhibition of elongation and promoter-bound
+transcription factors. The potential significance of the differential regulation 
+of DSIF activity by cis-acting elements is discussed.
+
+PMCID: PMC355833
+PMID: 14993282  [PubMed - indexed for MEDLINE]
+
+
+45. Cold Spring Harb Symp Quant Biol. 2002;67:19-25.
+
+Genetic regulation of cardiac patterning in zebrafish.
+
+Yelon D(1), Feldman JL, Keegan BR.
+
+Author information: 
+(1)Developmental Genetics Program, Department of Cell Biology, Skirball Institute
+of Biomolecular Medicine, New York University School of Medicine, New York, New
+York 10016, USA.
+
+PMID: 12858519  [PubMed - indexed for MEDLINE]
+
+
+46. Genes Dev. 2003 Jun 1;17(11):1402-14.
+
+NELF and DSIF cause promoter proximal pausing on the hsp70 promoter in
+Drosophila.
+
+Wu CH(1), Yamaguchi Y, Benjamin LR, Horvat-Gordon M, Washinsky J, Enerly E,
+Larsson J, Lambertsson A, Handa H, Gilmour D.
+
+Author information: 
+(1)Center for Gene Regulation, Department of Biochemistry and Molecular Biology, 
+The Pennsylvania State University, University Park, Pennsylvania 16802, USA.
+
+NELF and DSIF collaborate to inhibit elongation by RNA polymerase IIa in extracts
+from human cells. A multifaceted approach was taken to investigate the potential 
+role of these factors in promoter proximal pausing on the hsp70 gene in
+Drosophila. Immunodepletion of DSIF from a Drosophila nuclear extract reduced the
+level of polymerase that paused in the promoter proximal region of hsp70.
+Depletion of one NELF subunit in salivary glands using RNA interference also
+reduced the level of paused polymerase. In vivo protein-DNA cross-linking showed 
+that NELF and DSIF associate with the promoter region before heat shock.
+Immunofluorescence analysis of polytene chromosomes corroborated the
+cross-linking result and showed that NELF, DSIF, and RNA polymerase IIa
+colocalize at the hsp70 genes, small heat shock genes, and many other chromosomal
+locations. Finally, following heat shock induction, DSIF and polymerase but not
+NELF were strongly recruited to chromosomal puffs harboring the hsp70 genes. We
+propose that NELF and DSIF cause polymerase to pause in the promoter proximal
+region of hsp70. The transcriptional activator, HSF, might cause NELF to
+dissociate from the elongation complex. DSIF continues to associate with the
+elongation complex and could serve a positive role in elongation.
+
+PMCID: PMC196072
+PMID: 12782658  [PubMed - indexed for MEDLINE]
+
+
+47. Genes Cells. 2003 Apr;8(4):371-8.
+
+Structure-function analysis of human Spt4: evidence that hSpt4 and hSpt5 exert
+their roles in transcriptional elongation as parts of the DSIF complex.
+
+Kim DK(1), Inukai N, Yamada T, Furuya A, Sato H, Yamaguchi Y, Wada T, Handa H.
+
+Author information: 
+(1)Graduate School of Bioscience and Biotechnology, and Frontier Collaborative
+Research Center, Tokyo Institute of Technology, Yokohama 226-8501, Japan.
+
+BACKGROUND: The human Spt4/Spt5 complex, termed DRB-sensitivity inducing factor
+(DSIF) is a dual regulator of transcription that stimulates, or, when cooperating
+with negative elongation factor (NELF), represses RNA polymerase II (RNAPII)
+elongation. Spt4 and Spt5 are also thought to be involved in mRNA capping,
+homologous DNA recombination, and transcription-coupled DNA repair. As a first
+step to understanding how these proteins regulate diverse cellular processes, we 
+investigated the structure and function of hSpt4 in vitro.
+RESULTS: Immunodepletion of hSpt5 from HeLa nuclear extracts resulted in the
+efficient co-depletion of hSpt4. Using DSIF-depleted nuclear extracts and a
+series of Spt4 mutants, we examined the amino acid sequence of hSpt4 which was
+important for hSpt5 binding and for transcriptional repression and activation by 
+DSIF. Unexpectedly, the zinc finger of hSpt4, which is critical for the yeast
+counterpart to function in vivo, was dispensable for hSpt5 binding and for
+transcriptional regulation in vitro.
+CONCLUSION: These and other results suggest: (i) that the central region of hSpt4
+is necessary and sufficient for its function in vitro and (ii) that there is no
+free hSpt4 or hSpt5 in cells. We propose that hSpt4 and hSpt5 exert their roles
+in transcriptional regulation, and possibly in other nuclear processes, as parts 
+of the DSIF complex.
+
+PMID: 12653964  [PubMed - indexed for MEDLINE]
+
+
+48. Mol Cell Biol. 2003 Mar;23(6):1863-73.
+
+Human transcription elongation factor NELF: identification of novel subunits and 
+reconstitution of the functionally active complex.
+
+Narita T(1), Yamaguchi Y, Yano K, Sugimoto S, Chanarat S, Wada T, Kim DK,
+Hasegawa J, Omori M, Inukai N, Endoh M, Yamada T, Handa H.
+
+Author information: 
+(1)Graduate School of Bioscience and Biotechnolog, Tokyo Institute of Technology,
+4259 Nagatsuka, Yokohama 226-8503, Japan.
+
+The multisubunit transcription elongation factor NELF (for negative elongation
+factor) acts together with DRB (5,6-dichloro-1-beta-D-ribofuranosylbenzimidazole)
+sensitivity-inducing factor (DSIF)/human Spt4-Spt5 to cause transcriptional
+pausing of RNA polymerase II (RNAPII). NELF activity is associated with five
+polypeptides, A to E. NELF-A has sequence similarity to hepatitis delta antigen
+(HDAg), the viral protein that binds to and activates RNAPII, whereas NELF-E is
+an RNA-binding protein whose RNA-binding activity is critical for NELF function. 
+To understand the interactions of DSIF, NELF, and RNAPII at a molecular level, we
+identified the B, C, and D proteins of human NELF. NELF-B is identical to COBRA1,
+recently reported to associate with the product of breast cancer susceptibility
+gene BRCA1. NELF-C and NELF-D are highly related or identical to the protein
+called TH1, of unknown function. NELF-B and NELF-C or NELF-D are integral
+subunits that bring NELF-A and NELF-E together, and coexpression of these four
+proteins in insect cells resulted in the reconstitution of functionally active
+NELF. Detailed analyses using mutated recombinant complexes indicated that the
+small region of NELF-A with similarity to HDAg is critical for RNAPII binding and
+for transcriptional pausing. This study defines several important protein-protein
+interactions and opens the way for understanding the mechanism of DSIF- and
+NELF-induced transcriptional pausing.
+
+PMCID: PMC149481
+PMID: 12612062  [PubMed - indexed for MEDLINE]
+
+
+49. Tanpakushitsu Kakusan Koso. 2003 Jan;48(1):9-17.
+
+[Molecular switch for mRNA synthesis rate].
+
+[Article in Japanese]
+
+Wada T(1), Yamaguchi Y, Handa H.
+
+Author information: 
+(1)tawada@bio.titech.ac.jp
+
+PMID: 12607259  [PubMed - indexed for MEDLINE]
+
+
+50. J Biomed Sci. 2002 May-Jun;9(3):234-45.
+
+MCEF, the newest member of the AF4 family of transcription factors involved in
+leukemia, is a positive transcription elongation factor-b-associated protein.
+
+Estable MC(1), Naghavi MH, Kato H, Xiao H, Qin J, Vahlne A, Roeder RG.
+
+Author information: 
+(1)Laboratory of Biochemistry and Molecular Biology, The Rockefeller University, 
+New York, N.Y., USA.
+
+Positive transcription elongation factor-b (P-TEFb) contains CDK9 and cyclin
+T(1). P-TEFb was affinity purified from a stably transfected cell line that
+expresses epitope-tagged CDK9, and proteins that appeared to be specifically
+bound were sequenced. In addition to CDK9, previously identified isoforms of
+cyclin T (including T(1), T(2A) and T(2B)), HSP90 and CDC37, this analysis
+identified a novel protein named MCEF. Cloning of its cognate cDNA revealed that 
+MCEF is the newest member of the AF4 family of transcription factors involved in 
+acute lymphoblastic leukemia. MCEF RNA was expressed in all human tissues
+examined, and antisera directed against recombinant MCEF specifically
+immunoprecipitated P-TEFb. Ectopic expression of MCEF did not activate HIV-1
+replication, and tethering of MCEF to a promoter did not activate transcription.
+
+Copyright 2002 National Science Council, ROC and S. Karger AG, Basel
+
+PMID: 12065898  [PubMed - indexed for MEDLINE]
+
+
+51. Mol Cell Biol. 2002 May;22(9):2918-27.
+
+Evidence that negative elongation factor represses transcription elongation
+through binding to a DRB sensitivity-inducing factor/RNA polymerase II complex
+and RNA.
+
+Yamaguchi Y(1), Inukai N, Narita T, Wada T, Handa H.
+
+Author information: 
+(1)Faculty of Bioscience and Biotechnology, Tokyo Institute of Technology,
+Yokohama, Japan.
+
+Negative elongation factor (NELF) is a human transcription factor complex that
+cooperates with DRB sensitivity-inducing factor (DSIF)/hSpt4-hSpt5 to repress
+elongation by RNA polymerase II (RNAPII). NELF activity is associated with five
+polypeptides, including NELF-A, a candidate gene product for Wolf-Hirschhorn
+syndrome, and NELF-E, a putative RNA-binding protein with arginine-aspartic acid 
+(RD) dipeptide repeats. Here we report several important findings regarding the
+DSIF/NELF-dependent elongation control. First, we have established an effective
+method for purifying the active NELF complex using an epitope-tagging technique. 
+Second, the five polypeptides each are important and together are sufficient for 
+its function in vitro. Third, NELF does not bind to either DSIF or RNAPII alone
+but does bind to the preformed DSIF/RNAPII complex. Fourth, NELF-E has a
+functional RNA-binding domain, whose mutations impair transcription repression
+without affecting known protein-protein interactions. Taken together, we propose 
+that NELF causes RNAPII pausing through binding to the DSIF/RNAPII complex and to
+nascent transcripts. These results also have implications for how DSIF and NELF
+are regulated in a gene-specific manner in vivo.
+
+PMCID: PMC133766
+PMID: 11940650  [PubMed - indexed for MEDLINE]
+
+
+52. Development. 2002 Apr;129(7):1623-32.
+
+The elongation factors Pandora/Spt6 and Foggy/Spt5 promote transcription in the
+zebrafish embryo.
+
+Keegan BR(1), Feldman JL, Lee DH, Koos DS, Ho RK, Stainier DY, Yelon D.
+
+Author information: 
+(1)Developmental Genetics Program and Department of Cell Biology, Skirball
+Institute of Biomolecular Medicine, New York University School of Medicine, New
+York, NY, USA.
+
+Precise temporal and spatial control of transcription is a fundamental component 
+of embryonic development. Regulation of transcription elongation can act as a
+rate-limiting step during mRNA synthesis. The mechanisms of stimulation and
+repression of transcription elongation during development are not yet understood.
+We have identified a class of zebrafish mutations (pandora, sk8 and s30) that
+cause multiple developmental defects, including discrete problems with
+pigmentation, tail outgrowth, ear formation and cardiac differentiation. We
+demonstrate that the pandora gene encodes a protein similar to Spt6, a proposed
+transcription elongation factor. Additionally, the sk8 and s30 mutations are null
+alleles of the foggy/spt5 locus, which encodes another transcription elongation
+factor. Through real-time RT-PCR analysis, we demonstrate that Spt6 and Spt5 are 
+both required for efficient kinetics of hsp70 transcription in vivo. Altogether, 
+our results suggest that Spt6 and Spt5 play essential roles of comparable
+importance for promoting transcription during embryogenesis. This study provides 
+the first genetic evidence for parallel functions of Spt6 and Spt5 in metazoans
+and establishes a system for the future analysis of transcription elongation
+during development.
+
+PMID: 11923199  [PubMed - indexed for MEDLINE]
+
+
+53. Mol Cell Biol. 2002 Feb;22(4):1079-93.
+
+Spt5 cooperates with human immunodeficiency virus type 1 Tat by preventing
+premature RNA release at terminator sequences.
+
+Bourgeois CF(1), Kim YK, Churcher MJ, West MJ, Karn J.
+
+Author information: 
+(1)MRC Laboratory of Molecular Biology, Cambridge CB2 2QH, England.
+
+The human immunodeficiency virus type 1 (HIV-1) Tat protein activates
+transcription elongation by stimulating the Tat-activated kinase (TAK/p-TEFb), a 
+protein kinase composed of CDK9 and its cyclin partner, cyclin T1. CDK9 is able
+to hyperphosphorylate the carboxyl-terminal domain (CTD) of the large subunit of 
+RNA polymerase during elongation. In addition to TAK, the transcription
+elongation factor Spt5 is required for the efficient activation of
+transcriptional elongation by Tat. To study the role of Spt5 in HIV transcription
+in more detail, we have developed a three-stage Tat-dependent transcription assay
+that permits the isolation of active preinitiation complexes, early-stage
+elongation complexes, and Tat-activated elongation complexes. Spt5 is recruited
+in the transcription complex shortly after initiation. After recruitment of Tat
+during elongation through the transactivation response element RNA, CDK9 is
+activated and induces hyperphosphorylation of Spt5 in parallel to the
+hyperphosphorylation of the CTD of RNA polymerase II. However, immunodepletion
+experiments demonstrate that Spt5 is not required for Tat-dependent activation of
+the kinase. Chase experiments using the Spt5-depleted extracts demonstrate that
+Spt5 is not required for early elongation. However, Spt5 plays an important role 
+in late elongation by preventing the premature dissociation of RNA from the
+transcription complex at terminator sequences and reducing the amount of
+polymerase pausing at arrest sites, including bent DNA sequences. This novel
+biochemical function of Spt5 is analogous to the function of NusG, an elongation 
+factor found in Escherichia coli that enhances RNA polymerase stability on
+templates and shows sequence similarity to Spt5.
+
+PMCID: PMC134635
+PMID: 11809800  [PubMed - indexed for MEDLINE]
+
+
+54. J Mol Biol. 2001 Sep 28;312(4):675-85.
+
+The peptidyl-prolyl isomerase Pin1 interacts with hSpt5 phosphorylated by Cdk9.
+
+Lavoie SB(1), Albert AL, Handa H, Vincent M, Bensaude O.
+
+Author information: 
+(1)Génétique Moléculaire, UMR 8541 CNRS, Ecole Normale Supérieure, 46 rue d'Ulm, 
+75230 Paris Cedex 05, France.
+
+We identify and characterize several phosphorylated forms of the hSpt5 subunit of
+the DRB sensitivity-inducing factor (DSIF). A 175-kDa phosphorylated form of
+hSpt5 is bound to nuclei of interphase HeLa cells. This form is rapidly
+dephosphorylated when cultured cells are exposed to various drugs belonging to
+distinct chemical families. All these compounds are known to inhibit the protein 
+kinase Cdk9, which phosphorylates in vitro hSpt5 and Rpb1, the largest subunit of
+RNA polymerase II. The efficiency to promote the dephosphorylation of both
+proteins matches their capacity to inhibit purified Cdk9 kinase, suggesting that 
+Cdk9 is the major kinase phosphorylating hSpt5 and Rpb1 in vivo. We show that
+Cdk9 phosphorylates both the CTR1 and the CTR2 domains of recombinant hSpt5.
+These domains contain numerous serine-proline and threonine-proline residues
+similar to those found in the carboxyl-terminal domain (CTD) of Rpb1. The
+structural homology between hSpt5 CTRs and the Rpb1 CTD is further highlighted by
+the presence on both proteins of a phosphoepitope recognized by the monoclonal
+antibody CC-3. Of particular interest, the peptidyl-prolyl isomerase Pin1
+interacts with Cdk9-phosphorylated hSpt5. Cdk9 dependent phosphorylation of Rpb1 
+and hSpt5 followed by Pin1 interaction might thus contribute to the regulation of
+transcription, pre-mRNA maturation, and the dynamics of these proteins in
+interphase and mitosis.
+
+Copyright 2001 Academic Press.
+
+PMID: 11575923  [PubMed - indexed for MEDLINE]
+
+
+55. J Biol Chem. 2001 Nov 9;276(45):42601-9. Epub 2001 Sep 11.
+
+A highly purified RNA polymerase II elongation control system.
+
+Renner DB(1), Yamaguchi Y, Wada T, Handa H, Price DH.
+
+Author information: 
+(1)Department of Biochemistry, University of Iowa, Iowa City, Iowa 52242, USA.
+
+Studying the sensitivity of transcription to the nucleotide analog
+5,6-dichloro-1-beta-d-ribofuranosylbenzimidazole has led to the discovery of a
+number of proteins involved in the regulation of transcription elongation by RNA 
+polymerase II. We have developed a highly purified elongation control system
+composed of three purified proteins added back to isolated RNA polymerase II
+elongation complexes. Two of the proteins,
+5,6-dichloro-1-beta-d-ribofuranosylbenzimidazole sensitivity-inducing factor
+(DSIF) and negative elongation factor (NELF), act as negative transcription
+elongation factors by increasing the time the polymerase spent at pause sites.
+P-TEFb reverses the negative effect of DSIF and NELF through a mechanism
+dependent on its kinase activity. TFIIF is a general initiation factor that
+positively affects elongation by decreasing pausing. We show that TFIIF
+functionally competes with DSIF and NELF, and this competition is dependent on
+the relative concentrations of TFIIF and NELF.
+
+PMID: 11553615  [PubMed - indexed for MEDLINE]
+
+
+56. Curr Biol. 2001 Feb 20;11(4):R144-6.
+
+Transcription elongation: the 'Foggy' is liftingellipsis.
+
+Zorio DA(1), Bentley DL.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Genetics, UCHSC, 4200 E. 9th Avenue, 
+Colorado, Denver 80262, USA.
+
+Transcription can be controlled by regulating either the initiation or elongation
+of RNA chains. Recent studies highlight the importance of an elongation
+regulator, Spt5, in controlling gene expression in yeast, fruit fly and
+zebrafish; Spt5 may provide a link between transcriptional elongation and cell
+fate.
+
+PMID: 11250170  [PubMed - indexed for MEDLINE]
+
+
+57. J Biol Chem. 2001 Apr 20;276(16):12951-8. Epub 2000 Dec 8.
+
+DSIF and NELF interact with RNA polymerase II elongation complex and HIV-1 Tat
+stimulates P-TEFb-mediated phosphorylation of RNA polymerase II and DSIF during
+transcription elongation.
+
+Ping YH(1), Rana TM.
+
+Author information: 
+(1)Department of Pharmacology, Robert Wood Johnson Medical School, and Molecular 
+Biosciences Graduate Program at Rutgers University, Piscataway, New Jersey 08854,
+USA.
+
+Control of transcription elongation requires a complex interplay between the
+recently discovered positive transcription elongation factor b (P-TEFb) and
+negative transcription elongation factors,
+5,6-dichloro-1-beta-d-ribofuranosylbenzimidazole (DRB) sensitivity inducing
+factors (DSIF) and the negative elongation factor (NELF). Activation of HIV-1
+gene expression is regulated by a nascent RNA structure, termed TAR RNA, in
+concert with HIV-1 Tat protein and these positive and negative elongation
+factors. We have used a stepwise RNA pol II walking approach and Western blotting
+to determine the dynamics of interactions between HIV-1 Tat, DSIF/NELF, and the
+transcription complexes actively engaged in elongation. In addition, we developed
+an in vitro kinase assay to determine the phosphorylation status of proteins
+during elongation stages. Our results demonstrate that DSIF/NELF associates with 
+RNA pol II complexes during early transcription elongation and travels with
+elongation complexes as the nascent RNA is synthesized. Our results also show
+that HIV-1 Tat protein stimulated DSIF and RNA pol II phosphorylation by P-TEFb
+during elongation. These findings reveal a molecular mechanism for the negative
+and positive regulation of transcriptional elongation at the HIV-1 promoter.
+
+PMID: 11112772  [PubMed - indexed for MEDLINE]
+
+
+58. Nature. 2000 Nov 16;408(6810):366-9.
+
+A regulator of transcriptional elongation controls vertebrate neuronal
+development.
+
+Guo S(1), Yamaguchi Y, Schilbach S, Wada T, Lee J, Goddard A, French D, Handa H, 
+Rosenthal A.
+
+Author information: 
+(1)Department of Molecular Biology, Genentech Inc., South San Francisco,
+California 94080, USA.
+
+The development of distinct vertebrate neurons is defined by the unique profiles 
+of genes that neurons express. It is accepted that neural genes are regulated at 
+the point of transcription initiation, but the role of messenger RNA elongation
+in neural gene regulation has not been examined. Here we describe the mutant
+foggy, identified in a genetic screen for mutations that affect neuronal
+development in zebrafish, that displayed a reduction of dopamine-containing
+neurons and a corresponding surplus of serotonin-containing neurons in the
+hypothalamus. Positional cloning disclosed that Foggy is a brain-enriched nuclear
+protein that is structurally related to the transcription elongation factor Spt5 
+(refs 5-12). Foggy is not part of the basic transcription apparatus but a
+phosphorylation-dependent, dual regulator of transcription elongation. The
+mutation disrupts its repressive but not its stimulatory activity. Our results
+provide molecular, genetic and biochemical evidence that negative regulators of
+transcription elongation control key aspects of neuronal development.
+
+PMID: 11099044  [PubMed - indexed for MEDLINE]
+
+
+59. Mol Cell. 2000 Jun;5(6):1067-72.
+
+FACT relieves DSIF/NELF-mediated inhibition of transcriptional elongation and
+reveals functional differences between P-TEFb and TFIIH.
+
+Wada T(1), Orphanides G, Hasegawa J, Kim DK, Shima D, Yamaguchi Y, Fukuda A,
+Hisatake K, Oh S, Reinberg D, Handa H.
+
+Author information: 
+(1)Faculty of Bioscience and Biotechnology, Tokyo Institute of Technology,
+Yokohama, Japan.
+
+We report that the chromatin-specific transcription elongation factor FACT
+functions in conjunction with the RNA polymerase II CTD kinase P-TEFb to
+alleviate transcription inhibition by DSIF (DRB sensitivity-inducing factor) and 
+NELF (negative elongation factor). We find that the kinase activity of TFIIH is
+dispensable for this activity, demonstrating that TFIIH-mediated CTD
+phosphorylation is not involved in the regulation of FACT and DSIF/NELF
+activities. Thus, we propose a novel transcriptional regulatory network in which 
+DSIF/NELF inhibition of transcription is prevented by P-TEFb in cooperation with 
+FACT. This study uncovers a novel role for FACT in the regulation of
+transcription on naked DNA that is independent of its activities on chromatin
+templates. In addition, this study reveals functional differences between P-TEFb 
+and TFIIH in the regulation of transcription.
+
+PMID: 10912001  [PubMed - indexed for MEDLINE]
+
+
+60. Cell. 1999 Apr 2;97(1):41-51.
+
+NELF, a multisubunit complex containing RD, cooperates with DSIF to repress RNA
+polymerase II elongation.
+
+Yamaguchi Y(1), Takagi T, Wada T, Yano K, Furuya A, Sugimoto S, Hasegawa J, Handa
+H.
+
+Author information: 
+(1)Faculty of Bioscience and Biotechnology, Tokyo Institute of Technology,
+Yokohama, Japan.
+
+DRB is a classic inhibitor of transcription elongation by RNA polymerase II (pol 
+II). Since DRB generally affects class II genes, factors involved in this process
+must play fundamental roles in pol II elongation. Recently, two elongation
+factors essential for DRB action were identified, namely DSIF and P-TEFb. Here we
+describe the identification and purification from HeLa nuclear extract of a third
+protein factor required for DRB-sensitive transcription. This factor, termed
+negative elongation factor (NELF), cooperates with DSIF and strongly represses
+pol II elongation. This repression is reversed by P-TEFb-dependent
+phosphorylation of the pol II C-terminal domain. NELF is composed of five
+polypeptides, the smallest of which is identical to RD, a putative RNA-binding
+protein of unknown function. This study reveals a molecular mechanism for DRB
+action and a regulatory network of positive and negative elongation factors.
+
+PMID: 10199401  [PubMed - indexed for MEDLINE]
+
+
+61. J Biol Chem. 1999 Mar 19;274(12):8085-92.
+
+Structure and function of the human transcription elongation factor DSIF.
+
+Yamaguchi Y(1), Wada T, Watanabe D, Takagi T, Hasegawa J, Handa H.
+
+Author information: 
+(1)Faculty of Bioscience and Biotechnology, Tokyo Institute of Technology, 4259
+Nagatsuta, Yokohama 226-8501, Japan.
+
+5,6-Dichloro-1-beta-D-ribofuranosylbenzimidazole (DRB) is a classic inhibitor of 
+transcription elongation by RNA polymerase II (pol II). We have previously
+identified and purified a novel transcription elongation factor, termed DSIF (for
+DRB sensitivity-inducing factor), that makes transcription sensitive to DRB. DSIF
+is composed of 160- and 14-kDa subunits, which are homologs of the Saccharomyces 
+cerevisiae transcription factors Spt5 and Spt4. DSIF may either repress or
+stimulate transcription in vitro, depending on conditions, but its physiological 
+function remains elusive. Here we characterize the structure and function of DSIF
+p160. p160 is shown to be a ubiquitous nuclear protein that forms a stable
+complex with p14 and interacts directly with the pol II largest subunit. Mutation
+analysis of p160 is used to identify structural features essential for its in
+vitro activity and to map the domains required for its interaction with p14 and
+pol II. Finally, a p160 mutant that represses DSIF activity in a
+dominant-negative manner is identified and used to demonstrate that DSIF
+represses transcription from various promoters in vivo.
+
+PMID: 10075709  [PubMed - indexed for MEDLINE]
+
+
+62. EMBO J. 1998 Dec 15;17(24):7395-403.
+
+Evidence that P-TEFb alleviates the negative effect of DSIF on RNA polymerase
+II-dependent transcription in vitro.
+
+Wada T(1), Takagi T, Yamaguchi Y, Watanabe D, Handa H.
+
+Author information: 
+(1)Faculty of Bioscience and Biotechnology, Tokyo Institute of Technology, 4259
+Nagatsuta-cho, Midori-ku, Yokohama 226-8501, Japan.
+
+Recently, a positive and a negative elongation factor, implicated in
+5,6-dichloro-1-beta-D-ribofuranosylbenzimidazole (DRB) inhibition of
+transcription elongation, has been identified. P-TEFb is a positive transcription
+elongation factor and the DRB-sensitive kinase that phosphorylates the C-terminal
+domain (CTD) of the largest subunit of RNA polymerase II (Pol II). PITALRE, a
+member of the Cdc2 family of protein kinases, is the catalytic subunit of P-TEFb.
+DSIF is a human homolog of the yeast Spt4-Spt5 complex and renders elongation of 
+transcription sensitive to DRB. DRB sensitivity-inducing factor (DSIF) binds to
+RNA Pol II and may directly regulate elongation. Here we show a functional
+interaction between P-TEFb and DSIF. The reduction of P-TEFb activity induced by 
+either DRB, antibody against PITALRE, or immunodepletion resulted in a negative
+effect of DSIF on transcription. DSIF acts at an early phase of elongation, and
+the prior action of P-TEFb makes transcription resistant to DSIF. The state of
+phosphorylation of CTD determines the DSIF-RNA Pol II interaction, and may
+provide a direct link between P-TEFb and DSIF. Taken together, this study reveals
+a molecular basis for DRB action and suggests that P-TEFb stimulates elongation
+by alleviating the negative action of DSIF.
+
+PMCID: PMC1171084
+PMID: 9857195  [PubMed - indexed for MEDLINE]
+
+
+63. J Mol Biol. 1998 Mar 27;277(2):179-97.
+
+Role of the human homolog of the yeast transcription factor SPT5 in HIV-1
+Tat-activation.
+
+Wu-Baer F(1), Lane WS, Gaynor RB.
+
+Author information: 
+(1)Department of Internal Medicine, University of Texas Southwestern Medical
+Center, Dallas, TX 75235-8594, USA.
+
+The transactivator protein Tat stimulates transcriptional elongation from the
+HIV-1 LTR. One mechanism by which Tat increases HIV-1 transcription is by
+interacting with RNA polymerase II and TFIIH to increase phosphorylation of the
+polymerase C-terminal domain. Recent studies indicate that specific elongation
+factors may also be required to modulate Tat function. Here, we used biochemical 
+analysis and in vitro transcription assays to identify cellular factors required 
+for Tat activation. This analysis resulted in the purification of a cellular
+factor Tat-CT1 which is a human homolog of the yeast transcription factor SPT5.
+Immunodepletion of Tat-CTl from HeLa extract demonstrated that this factor was
+involved in transcriptional activation by Tat. However, the absence of this
+factor from HeLa extract did not prevent transcriptional activation by VP16.
+These findings are consistent with a model in which Tat-mediated effects on
+transcriptional elongation are mediated in part by the action of the human
+homolog of the yeast transcription factor SPT5.
+
+Copyright 1998 Academic Press Limited.
+
+PMID: 9514752  [PubMed - indexed for MEDLINE]
+
+
+64. FEBS Lett. 1997 Jun 2;409(1):74-8.
+
+Human Supt5h protein, a putative modulator of chromatin structure, is reversibly 
+phosphorylated in mitosis.
+
+Stachora AA(1), Schäfer RE, Pohlmeier M, Maier G, Ponstingl H.
+
+Author information: 
+(1)Deutsches Krebsforschungszentrum, Division for Molecular Biology of Mitosis,
+Heidelberg, Germany.
+
+The Saccharomyces cerevisiae proteins Spt4p, Spt5p and Spt6p are involved in
+transcriptional repression by modulating the structure of chromatin. From HeLa
+cells we have purified a human homologue of Spt5p, Supt5hp, and show here that
+the protein is reversibly phosphorylated in mitosis. The cloned cDNA predicts a
+protein of 1087 residues with 31% identity to yeast Spt5p. It includes an acidic 
+N-terminus, a putative nuclear localization signal and a C-terminal region
+containing two different repeated motifs. One of them, with the consensus
+sequence P-T/S-P-S-P-Q/A-S/G-Y, is similar to the C-terminal domain in the
+largest subunit of RNA polymerase II.
+
+PMID: 9199507  [PubMed - indexed for MEDLINE]
+
+
+65. Genomics. 1996 Dec 15;38(3):421-4.
+
+Isolation, sequencing, and mapping of the human homologue of the yeast
+transcription factor, SPT5.
+
+Chiang PW(1), Fogel E, Jackson CL, Lieuallen K, Lennon G, Qu X, Wang SQ, Kurnit
+DM.
+
+Author information: 
+(1)Department of Pediatrics, University of Michigan Medical Center, Ann Arbor
+48109, USA. pwchiang@umich.edu
+
+We isolated the human homologue, SUPT5H, of the yeast transcription factor, SPT5.
+The human homologue is 1088 aa long compared to 1063 aa for the yeast gene.
+SUPT5H maps to 19q13, near the ryanodine receptor. Like its family member,
+SUPT6H, and like yeast SPT5, SUPT5H has a very acidic 5' domain. Like its family 
+member, SUPT6H, but unlike yeast SPT5 or SPT6, SUPT5H has seven MAP kinase sites 
+at its 5' end. In addition, SUPT5H lacks the novel 6-amino-acid repeat (consensus
+is S-T/A-W-G-G-A/Q) at the C-terminus of yeast SPT5. This argues that while there
+is functional similarity between SPT5 and SUPT5H, the molecules differ in the
+signals to which they respond.
+
+PMID: 8975720  [PubMed - indexed for MEDLINE]
+
+

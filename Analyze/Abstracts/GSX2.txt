@@ -1,0 +1,933 @@
+
+1. Nucleic Acids Res. 2015 Aug 18;43(14):6827-46. doi: 10.1093/nar/gkv589. Epub 2015
+Jul 2.
+
+Identification of in vivo DNA-binding mechanisms of Pax6 and reconstruction of
+Pax6-dependent gene regulatory networks during forebrain and lens development.
+
+Sun J(1), Rockowitz S(1), Xie Q(1), Ashery-Padan R(2), Zheng D(3), Cvekl A(4).
+
+Author information: 
+(1)The Departments of Genetics, Albert Einstein College of Medicine, Bronx, NY
+10461, USA. (2)Sackler School of Medicine and Sagol School of Neuroscience,
+Tel-Aviv University, 69978 Ramat Aviv, Tel Aviv, Israel. (3)The Departments of
+Genetics, Albert Einstein College of Medicine, Bronx, NY 10461, USA Neurology,
+Albert Einstein College of Medicine, Bronx, NY 10461, USA Neuroscience, Albert
+Einstein College of Medicine, Bronx, NY 10461, USA deyou.zheng@einstein.yu.edu.
+(4)The Departments of Genetics, Albert Einstein College of Medicine, Bronx, NY
+10461, USA Ophthalmology and Visual Sciences, Albert Einstein College of
+Medicine, Bronx, NY 10461, USA ales.cvekl@einstein.yu.edu.
+
+The transcription factor Pax6 is comprised of the paired domain (PD) and
+homeodomain (HD). In the developing forebrain, Pax6 is expressed in ventricular
+zone precursor cells and in specific subpopulations of neurons; absence of Pax6
+results in disrupted cell proliferation and cell fate specification. Pax6 also
+regulates the entire lens developmental program. To reconstruct Pax6-dependent
+gene regulatory networks (GRNs), ChIP-seq studies were performed using forebrain 
+and lens chromatin from mice. A total of 3514 (forebrain) and 3723 (lens)
+Pax6-containing peaks were identified, with ~70% of them found in both tissues
+and thereafter called 'common' peaks. Analysis of Pax6-bound peaks identified
+motifs that closely resemble Pax6-PD, Pax6-PD/HD and Pax6-HD established binding 
+sequences. Mapping of H3K4me1, H3K4me3, H3K27ac, H3K27me3 and RNA polymerase II
+revealed distinct types of tissue-specific enhancers bound by Pax6. Pax6 directly
+regulates cortical neurogenesis through activation (e.g. Dmrta1 and Ngn2) and
+repression (e.g. Ascl1, Fezf2, and Gsx2) of transcription factors. In lens, Pax6 
+directly regulates cell cycle exit via components of FGF (Fgfr2, Prox1 and Ccnd1)
+and Wnt (Dkk3, Wnt7a, Lrp6, Bcl9l, and Ccnd1) signaling pathways. Collectively,
+these studies provide genome-wide analysis of Pax6-dependent GRNs in lens and
+forebrain and establish novel roles of Pax6 in organogenesis.
+
+© The Author(s) 2015. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+PMCID: PMC4538810
+PMID: 26138486  [PubMed - indexed for MEDLINE]
+
+
+2. Br J Haematol. 2015 Oct;171(1):141-5. doi: 10.1111/bjh.13368. Epub 2015 Mar 30.
+
+4q12 translocations with GSX2 expression identify a CD7(+) acute myeloid
+leukaemia subset.
+
+Di Giacomo D(1), La Starza R(1), Barba G(1), Pierini V(1), Baldazzi C(2),
+Storlazzi CT(3), Daniele G(3), Forghieri F(4), Borlenghi E(5), Testoni N(2),
+Mecucci C(6).
+
+Author information: 
+(1)Department of Medicine, Section of Haematology, University of Perugia,
+Perugia, Italy. (2)Institute of Haematology and Medical Oncology 'Seràgnoli',
+University of Bologna, Bologna, Italy. (3)Department of Biology, University of
+Bari, Bari, Italy. (4)Department of Medical and Surgical Sciences, Section of
+Haematology, University of Modena and Reggio Emilia, Modena, Italy. (5)Department
+of Haematology, Spedali Civili, Brescia, Italy. (6)Department of Medicine,
+Section of Haematology, University of Perugia, Perugia, Italy.
+cristina.mecucci@unipg.it.
+
+PMID: 25816740  [PubMed - indexed for MEDLINE]
+
+
+3. Development. 2015 Apr 1;142(7):1375-86. doi: 10.1242/dev.117093.
+
+Activin A directs striatal projection neuron differentiation of human pluripotent
+stem cells.
+
+Arber C(1), Precious SV(2), Cambray S(3), Risner-Janiczek JR(1), Kelly C(2),
+Noakes Z(4), Fjodorova M(4), Heuer A(2), Ungless MA(1), Rodríguez TA(3), Rosser
+AE(2), Dunnett SB(2), Li M(5).
+
+Author information: 
+(1)Medical Research Council Clinical Sciences Centre, Imperial College London,
+Hammersmith Hospital Campus, Du Cane Road, London W12 ONN, UK. (2)Brain Repair
+Group, Neuroscience and Mental Health Research Institute, School of Bioscience,
+Cardiff University, Cardiff CF10 3AX, UK. (3)National Heart and Lung Institute,
+Imperial College London, Hammersmith Hospital Campus, Du Cane Road, London W12
+ONN, UK. (4)Stem Cell Neurogenesis Group, Neuroscience and Mental Health Research
+Institute, School of Medicine and School of Bioscience, Cardiff University,
+Cardiff CF24 4HQ, UK. (5)Medical Research Council Clinical Sciences Centre,
+Imperial College London, Hammersmith Hospital Campus, Du Cane Road, London W12
+ONN, UK Stem Cell Neurogenesis Group, Neuroscience and Mental Health Research
+Institute, School of Medicine and School of Bioscience, Cardiff University,
+Cardiff CF24 4HQ, UK lim26@cf.ac.uk.
+
+The efficient generation of striatal neurons from human embryonic stem cells
+(hESCs) and induced pluripotent stem cells (hiPSCs) is fundamental for realising 
+their promise in disease modelling, pharmaceutical drug screening and cell
+therapy for Huntington's disease. GABAergic medium-sized spiny neurons (MSNs) are
+the principal projection neurons of the striatum and specifically degenerate in
+the early phase of Huntington's disease. Here we report that activin A induces
+lateral ganglionic eminence (LGE) characteristics in nascent neural progenitors
+derived from hESCs and hiPSCs in a sonic hedgehog-independent manner. Correct
+specification of striatal phenotype was further demonstrated by the induction of 
+the striatal transcription factors CTIP2, GSX2 and FOXP2. Crucially, these human 
+LGE progenitors readily differentiate into postmitotic neurons expressing the
+striatal projection neuron signature marker DARPP32, both in culture and
+following transplantation in the adult striatum in a rat model of Huntington's
+disease. Activin-induced neurons also exhibit appropriate striatal-like
+electrophysiology in vitro. Together, our findings demonstrate a novel route for 
+efficient differentiation of GABAergic striatal MSNs from human pluripotent stem 
+cells.
+
+© 2015. Published by The Company of Biologists Ltd.
+
+PMCID: PMC4378247
+PMID: 25804741  [PubMed - indexed for MEDLINE]
+
+
+4. Front Neuroanat. 2014 Aug 13;8:82. doi: 10.3389/fnana.2014.00082. eCollection
+2014.
+
+The complexity of the calretinin-expressing progenitors in the human cerebral
+cortex.
+
+Radonjic NV(1), Ortega JA(2), Memi F(2), Dionne K(2), Jakovcevski I(3), Zecevic
+N(2).
+
+Author information: 
+(1)Department of Neuroscience, University of Connecticut Health Center
+Farmington, CT, USA ; Institute of Medical and Clinical Biochemistry, School of
+Medicine, University of Belgrade Belgrade, Serbia. (2)Department of Neuroscience,
+University of Connecticut Health Center Farmington, CT, USA. (3)Experimental
+Neurophysiology, University Hospital Cologne Köln, Germany ; Experimental
+Neurophysiology, German Center for Neurodegenerative Diseases Bonn, Germany.
+
+The complex structure and function of the cerebral cortex critically depend on
+the balance of excitation and inhibition provided by the pyramidal projection
+neurons and GABAergic interneurons, respectively. The calretinin-expressing
+(CalR(+)) cell is a subtype of GABAergic cortical interneurons that is more
+prevalent in humans than in rodents. In rodents, CalR(+) interneurons originate
+in the caudal ganglionic eminence (CGE) from Gsx2(+) progenitors, but in humans
+it has been suggested that a subpopulation of CalR(+) cells can also be generated
+in the cortical ventricular/subventricular zone (VZ/SVZ). The progenitors for
+cortically generated CalR(+) subpopulation in primates are not yet characterized.
+Hence, the aim of this study was to identify patterns of expression of the
+transcription factors (TFs) that commit cortical stem cells to the CalR fate,
+with a focus on Gsx2. First, we studied the expression of Gsx2 and its downstream
+effectors, Ascl1 and Sp8 in the cortical regions of the fetal human forebrain at 
+midgestation. Next, we established that a subpopulation of cells expressing these
+TFs are proliferating in the cortical SVZ, and can be co-labeled with CalR. The
+presence and proliferation of Gsx2(+) cells, not only in the ventral
+telencephalon (GE) as previously reported, but also in the cerebral cortex
+suggests cortical origin of a subpopulation of CalR(+) neurons in humans. In
+vitro treatment of human cortical progenitors with Sonic hedgehog (Shh), an
+important morphogen in the specification of interneurons, decreased levels of
+Ascl1 and Sp8 proteins, but did not affect Gsx2 levels. Taken together, our
+ex-vivo and in vitro results on human fetal brain suggest complex endogenous and 
+exogenous regulation of TFs implied in the specification of different subtypes of
+CalR(+) cortical interneurons.
+
+PMCID: PMC4131197
+PMID: 25165435  [PubMed]
+
+
+5. J Am Soc Nephrol. 2014 Dec;25(12):2859-70. doi: 10.1681/ASN.2013050446. Epub 2014
+Jun 12.
+
+Lupus nephritis susceptibility loci in women with systemic lupus erythematosus.
+
+Chung SA(1), Brown EE(2), Williams AH(3), Ramos PS(4), Berthier CC(5), Bhangale
+T(6), Alarcon-Riquelme ME(7), Behrens TW(8), Criswell LA(1), Graham DC(9),
+Demirci FY(10), Edberg JC(11), Gaffney PM(12), Harley JB(13), Jacob CO(14),
+Kamboh MI(10), Kelly JA(12), Manzi S(15), Moser-Sivils KL(16), Russell LP(3),
+Petri M(17), Tsao BP(18), Vyse TJ(9), Zidovetzki R(19), Kretzler M(5), Kimberly
+RP(11), Freedman BI(20), Graham RR(8), Langefeld CD(21); International Consortium
+for Systemic Lupus Erythematosus Genetics.
+
+Author information: 
+(1)Division of Rheumatology, Rosalind Russell-Ephraim P. Engleman Medical
+Research Center for Arthritis, University of California, San Francisco,
+California; (2)Department of Epidemiology, University of Alabama, Birmingham,
+Alabama; Division of Clinical Immunology and Rheumatology, Department of
+Medicine, University of Alabama, Birmingham, Alabama; (3)Department of
+Biostatistical Sciences, Center for Public Health Genomics, Wake Forest School of
+Medicine, Winston-Salem, North Carolina; (4)Division of Rheumatology and
+Immunology, Department of Medicine, Medical University of South Carolina,
+Charleston, South Carolina; (5)Division of Nephrology, Department of Internal
+Medicine, University of Michigan, Ann Arbor, Michigan; (6)Department of
+Bioinformatics and Computational Biology, and. (7)Arthritis and Clinical
+Immunology Research Program, Oklahoma Medical Research Foundation, Oklahoma City,
+Oklahoma; Human DNA Variability Area, Pfizer-University of Granada-Andalusian
+Government Centre for Genomics and Oncological Research, Granada, Spain;
+(8)Immunology Tissue Growth and Repair Human Genetics Group, Genentech Inc.,
+South San Francisco, California; (9)Divisions of Genetics and Molecular Medicine 
+and Immunology, Infection, and Inflammatory Disease, Kings College, London,
+United Kingdom; (10)Department of Human Genetics, Graduate School of Public
+Health, University of Pittsburgh, Pittsburgh, Pennsylvania; (11)Division of
+Clinical Immunology and Rheumatology, Department of Medicine, University of
+Alabama, Birmingham, Alabama; (12)Arthritis and Clinical Immunology Research
+Program, Oklahoma Medical Research Foundation, Oklahoma City, Oklahoma;
+(13)Arthritis and Clinical Immunology Research Program, Oklahoma Medical Research
+Foundation, Oklahoma City, Oklahoma; Division of Rheumatology, Center for
+Autoimmune Genomics and Etiology, Cincinnati Children's Hospital Medical Center, 
+Cincinnati, Ohio; University of Oklahoma Health Sciences Center, Oklahoma City,
+Oklahoma; US Department of Veterans Affairs Medical Center, Oklahoma City,
+Oklahoma; (14)Department of Medicine, University of Southern California, Los
+Angeles, California; (15)Department of Medicine, West Penn Allegheny Health
+System, University of Pittsburgh, Pittsburgh, Pennsylvania; Temple University
+School of Medicine, Philadelphia, Pennsylvania; (16)Arthritis and Clinical
+Immunology Research Program, Oklahoma Medical Research Foundation, Oklahoma City,
+Oklahoma; College of Medicine, University of Oklahoma Health Sciences Center,
+Oklahoma City, Oklahoma; (17)Department of Medicine, Johns Hopkins University
+School of Medicine, Baltimore, Maryland; (18)Division of Rheumatology, Department
+of Medicine, University of California, Los Angeles, California; (19)Department of
+Cell Biology and Neuroscience, University of California, Riverside, California;
+and. (20)Section on Nephrology, Department of Internal Medicine, Wake Forest
+School of Medicine, Winston-Salem, North Carolina. (21)Department of
+Biostatistical Sciences, Center for Public Health Genomics, Wake Forest School of
+Medicine, Winston-Salem, North Carolina; clangefe@wakehealth.edu.
+
+Lupus nephritis is a manifestation of SLE resulting from glomerular immune
+complex deposition and inflammation. Lupus nephritis demonstrates familial
+aggregation and accounts for significant morbidity and mortality. We completed a 
+meta-analysis of three genome-wide association studies of SLE to identify lupus
+nephritis-predisposing loci. Through genotyping and imputation, >1.6 million
+markers were assessed in 2000 unrelated women of European descent with SLE (588
+patients with lupus nephritis and 1412 patients with lupus without nephritis).
+Tests of association were computed using logistic regression adjusting for
+population substructure. The strongest evidence for association was observed
+outside the MHC and included markers localized to 4q11-q13 (PDGFRA, GSX2;
+P=4.5×10(-7)), 16p12 (SLC5A11; P=5.1×10(-7)), 6p22 (ID4; P=7.4×10(-7)), and
+8q24.12 (HAS2, SNTB1; P=1.1×10(-6)). Both HLA-DR2 and HLA-DR3, two well
+established lupus susceptibility loci, showed evidence of association with lupus 
+nephritis (P=0.06 and P=3.7×10(-5), respectively). Within the class I region,
+rs9263871 (C6orf15-HCG22) had the strongest evidence of association with lupus
+nephritis independent of HLA-DR2 and HLA-DR3 (P=8.5×10(-6)). Consistent with a
+functional role in lupus nephritis, intra-renal mRNA levels of PDGFRA and
+associated pathway members showed significant enrichment in patients with lupus
+nephritis (n=32) compared with controls (n=15). Results from this large-scale
+genome-wide investigation of lupus nephritis provide evidence of multiple
+biologically relevant lupus nephritis susceptibility loci.
+
+Copyright © 2014 by the American Society of Nephrology.
+
+PMCID: PMC4243339
+PMID: 24925725  [PubMed - indexed for MEDLINE]
+
+
+6. Anat Rec (Hoboken). 2013 Sep;296(9):1364-82. doi: 10.1002/ar.22733. Epub 2013 Jul
+31.
+
+Transcriptional regulation of olfactory bulb neurogenesis.
+
+Díaz-Guerra E(1), Pignatelli J, Nieto-Estévez V, Vicario-Abejón C.
+
+Author information: 
+(1)Instituto Cajal, Consejo Superior de Investigaciones Científicas, Madrid,
+Spain.
+
+The neurons in the olfactory bulb originate from molecularly defined and
+spatially distinct proliferative regions. Glutamatergic projection neurons are
+generated during the embryonic period in the local ventricular zone of the
+olfactory bulb, a territory in the dorsal telencephalon in which the
+transcription factor Pax6 is expressed. Some cells in this zone also express
+Tbr1, a marker of glutamatergic neurons. By contrast, embryonic olfactory bulb
+interneurons are derived from Gsx2 expressing cells in the dorsal lateral
+ganglionic eminence of the ventral telencephalon, and from progenitors outside
+the dorsal lateral ganglionic eminence, including the olfactory bulb
+neuroepithelium. Postnatally, interneurons arise from the subventricular zone of 
+the lateral ventricle, although the rostral migratory stream and the olfactory
+bulb also appear to serve as a source of neurons. Transcription factors are
+crucial to generate all classes of neurons and glia in the olfactory bulb, both
+during development and adulthood. In this article, we discuss and propose models 
+on how the spatial and temporal regulation of transcription factor expression
+controls the self-renewal, proliferation and cell fate of neural stem cells and
+progenitors, which finally leads to the generation of distinct functional
+subtypes of neurons in the developing and adult olfactory bulb.
+
+Copyright © 2013 Wiley Periodicals, Inc.
+
+PMID: 23904336  [PubMed - indexed for MEDLINE]
+
+
+7. Blood Cancer J. 2013 Jul 12;3:e124. doi: 10.1038/bcj.2013.20.
+
+Identification of GSX2 and AF10 as NUP98 partner genes in myeloid malignancies.
+
+Soler G(1), Kaltenbach S, Dobbelstein S, Broccardo C, Radford I, Mozziconacci MJ,
+Bernard OA, Penard-Lacronique V, Delabesse E, Romana SP.
+
+Author information: 
+(1)1] Service de Cytogénétique, Hôpital Necker, AP-HP, Paris, France [2]
+Université Paris Descartes, Paris, France [3] INSERM U985, Institut Gustave
+Roussy, Villejuif, France.
+
+PMCID: PMC3730198
+PMID: 23852159  [PubMed]
+
+
+8. J Cell Sci. 2013 Aug 15;126(Pt 16):3533-40. doi: 10.1242/jcs.125757. Epub 2013
+Jun 20.
+
+Non-invasive neural stem cells become invasive in vitro by combined FGF2 and BMP4
+signaling.
+
+Sailer MH(1), Gerber A, Tostado C, Hutter G, Cordier D, Mariani L, Ritz MF.
+
+Author information: 
+(1)Department of Biomedicine, Brain Tumor Biology Laboratory, Klingelbergstrasse 
+50/70, CH-4056 Basel, Switzerland. martin.sailer@usb.ch
+
+Neural stem cells (NSCs) typically show efficient self-renewal and selective
+differentiation. Their invasion potential, however, is not well studied. In this 
+study, Sox2-positive NSCs from the E14.5 rat cortex were found to be non-invasive
+and showed only limited migration in vitro. By contrast, FGF2-expanded NSCs
+showed a strong migratory and invasive phenotype in response to the combination
+of FGF2 and BMP4. Invasive NSCs expressed Podoplanin (PDPN) and p75NGFR (Ngfr) at
+the plasma membrane after exposure to FGF2 and BMP4. FGF2 and BMP4 together
+upregulated the expression of Msx1, Snail1, Snail2, Ngfr, which are all found in 
+neural crest (NC) cells during or after epithelial-mesenchymal transition (EMT), 
+but not in forebrain stem cells. Invasive cells downregulated the expression of
+Olig2, Sox10, Egfr, Pdgfra, Gsh1/Gsx1 and Gsh2/Gsx2. Migrating and invasive NSCs 
+had elevated expression of mRNA encoding Pax6, Tenascin C (TNC), PDPN, Hey1,
+SPARC, p75NGFR and Gli3. On the basis of the strongest upregulation in
+invasion-induced NSCs, we defined a group of five key invasion-related genes:
+Ngfr, Sparc, Snail1, Pdpn and Tnc. These genes were co-expressed and upregulated 
+in seven samples of glioblastoma multiforme (GBM) compared with normal human
+brain controls. Induction of invasion and migration led to low expression of
+differentiation markers and repressed proliferation in NSCs. Our results indicate
+that normal forebrain stem cells have the inherent ability to adopt a glioma-like
+invasiveness. The results provide a novel in vitro system to study stem cell
+invasion and a novel glioma invasion model: tumoral abuse of the developmental
+dorsoventral identity regulation.
+
+PMCID: PMC3744023
+PMID: 23788430  [PubMed - indexed for MEDLINE]
+
+
+9. Genes Dev. 2013 Jun 1;27(11):1272-87. doi: 10.1101/gad.217539.113. Epub 2013 May 
+30.
+
+Gsx2 controls region-specific activation of neural stem cells and injury-induced 
+neurogenesis in the adult subventricular zone.
+
+López-Juárez A(1), Howard J, Ullom K, Howard L, Grande A, Pardo A, Waclaw R, Sun 
+YY, Yang D, Kuan CY, Campbell K, Nakafuku M.
+
+Author information: 
+(1)Division of Developmental Biology, Cincinnati Children's Hospital Research
+Foundation, Cincinnati, Ohio 45229, USA.
+
+Neural stem cells (NSCs) reside in widespread regions along the lateral ventricle
+and generate diverse olfactory bulb (OB) interneuron subtypes in the adult mouse 
+brain. Molecular mechanisms underlying their regional diversity, however, are not
+well understood. Here we show that the homeodomain transcription factor Gsx2
+plays a crucial role in the region-specific control of adult NSCs in both
+persistent and injury-induced neurogenesis. In the intact brain, Gsx2 is
+expressed in a regionally restricted subset of NSCs and promotes the activation
+and lineage progression of stem cells, thereby controlling the production of
+selective OB neuron subtypes. Moreover, Gsx2 is ectopically induced in damaged
+brains outside its normal expression domains and is required for injury-induced
+neurogenesis in the subventricular zone (SVZ). These results demonstrate that
+mobilization of adult NSCs is controlled in a region-specific manner and that
+distinct mechanisms operate in continuous and injury-induced neurogenesis in the 
+adult brain.
+
+PMCID: PMC3690400
+PMID: 23723414  [PubMed - indexed for MEDLINE]
+
+
+10. Development. 2013 Jun;140(11):2289-98. doi: 10.1242/dev.091090. Epub 2013 May 1.
+
+The homeobox gene Gsx2 controls the timing of oligodendroglial fate specification
+in mouse lateral ganglionic eminence progenitors.
+
+Chapman H(1), Waclaw RR, Pei Z, Nakafuku M, Campbell K.
+
+Author information: 
+(1)Divisions of Developmental Biology and Neurosurgery, Cincinnati Children's
+Hospital Medical Center, University of Cincinnati College of Medicine, 3333
+Burnet Avenue, Cincinnati, OH 45229, USA.
+
+The homeobox gene Gsx2 has previously been shown to be required for the
+specification of distinct neuronal subtypes derived from lateral ganglionic
+eminence (LGE) progenitors at specific embryonic time points. However, its role
+in the subsequent generation of oligodendrocytes from these progenitors remains
+unclear. We have utilized conditional gain-of-function and loss-of-function
+approaches in order to elucidate the role of Gsx2 in the switch between
+neurogenesis and oligodendrogenesis within the embryonic ventral telencephalon.
+In the absence of Gsx2 expression, an increase in oligodendrocyte precursor cells
+(OPCs) with a concomitant decrease in neurogenesis is observed in the
+subventricular zone of the LGE at mid-stages of embryogenesis (i.e. E12.5-15.5), 
+which subsequently leads to an increased number of Gsx2-derived OPCs within the
+adjacent mantle regions of the cortex before birth at E18.5. Moreover, using
+Olig2(cre) to conditionally inactivate Gsx2 throughout the ventral telencephalon 
+with the exception of the dorsal (d)LGE, we found that the increase in cortical
+OPCs in Gsx2 germline mutants are derived from dLGE progenitors. We also show
+that Ascl1 is required for the expansion of these dLGE-derived OPCs in the cortex
+of Gsx2 mutants. Complementing these results, gain-of-function experiments in
+which Gsx2 was expressed throughout most of the late-stage embryonic
+telencephalon (i.e. E15.5-18.5) result in a significant decrease in the number of
+cortical OPCs. These results support the notion that high levels of Gsx2 suppress
+OPC specification in dLGE progenitors and that its downregulation is required for
+the transition from neurogenesis to oligodendrogenesis.
+
+PMCID: PMC3653554
+PMID: 23637331  [PubMed - indexed for MEDLINE]
+
+
+11. Stem Cell Rev. 2013 Aug;9(4):461-74. doi: 10.1007/s12015-013-9441-8.
+
+Human pluripotent stem cell differentiation into authentic striatal projection
+neurons.
+
+Delli Carri A(1), Onorati M, Castiglioni V, Faedo A, Camnasio S, Toselli M,
+Biella G, Cattaneo E.
+
+Author information: 
+(1)Department of Biosciences and Center for Stem Cell Research, Università degli 
+Studi di Milano, 20133 Milan, Italy.
+
+Here we present the principles and steps of a protocol that we have recently
+developed for the differentiation of hES/iPS cells into the authentic human
+striatal projection medium spiny neurons (MSNs) that die in Huntington's Disease 
+(HD). Authenticity is judged by the convergence of multiple features within
+individual cells. Our procedure lasts 80 days and couples neural induction via
+BMP/TGF-ß inhibition with exposure to the developmental factors sonic hedgehog
+(SHH) and dickkopf1 (DKK-1) to drive ventral telencephalic specification,
+followed by terminal differentiation [1]. Authenticity of the resulting neuronal 
+population is monitored by the appearance of FOXG1(+)/GSX2(+) progenitor cells of
+the lateral ganglionic eminence (LGE) at day 15-25 of differentiation, followed
+by appearance of CTIP2-, FOXP1- and FOXP2-positive cells at day 45. These
+precursor cells then mature into MAP2(+)/GABA(+) neurons with 20 % of them
+ultimately co-expressing the DARPP-32 and CTIP2 diagnostic markers and carrying
+electrophysiological properties expected for fully functional MSNs.The protocol
+is characterized by its replicability in at least three human pluripotent cell
+lines. Altogether this protocol defines a useful platform for in vitro
+developmental neurobiology studies, drug screening, and regenerative medicine
+approaches.
+
+PMID: 23625190  [PubMed - indexed for MEDLINE]
+
+
+12. Development. 2013 Jan 15;140(2):301-12. doi: 10.1242/dev.084608.
+
+Developmentally coordinated extrinsic signals drive human pluripotent stem cell
+differentiation toward authentic DARPP-32+ medium-sized spiny neurons.
+
+Delli Carri A(1), Onorati M, Lelos MJ, Castiglioni V, Faedo A, Menon R, Camnasio 
+S, Vuono R, Spaiardi P, Talpo F, Toselli M, Martino G, Barker RA, Dunnett SB,
+Biella G, Cattaneo E.
+
+Author information: 
+(1)Center for Stem Cell Research, Università degli Studi di Milano, 20133 Milan, 
+Italy.
+
+Medium-sized spiny neurons (MSNs) are the only neostriatum projection neurons,
+and their degeneration underlies some of the clinical features of Huntington's
+disease. Using knowledge of human developmental biology and exposure to key
+neurodevelopmental molecules, human pluripotent stem (hPS) cells were induced to 
+differentiate into MSNs. In a feeder-free adherent culture, ventral telencephalic
+specification is induced by BMP/TGFß inhibition and subsequent SHH/DKK1
+treatment. The emerging FOXG1(+)/GSX2(+) telencephalic progenitors are then
+terminally differentiated, resulting in the systematic line-independent
+generation of FOXP1(+)/FOXP2(+)/CTIP2(+)/calbindin(+)/DARPP-32(+) MSNs. Similar
+to mature MSNs, these neurons carry dopamine and A2a receptors, elicit a typical 
+firing pattern and show inhibitory postsynaptic currents, as well as dopamine
+neuromodulation and synaptic integration ability in vivo. When transplanted into 
+the striatum of quinolinic acid-lesioned rats, hPS-derived neurons survive and
+differentiate into DARPP-32(+) neurons, leading to a restoration of
+apomorphine-induced rotation behavior. In summary, hPS cells can be efficiently
+driven to acquire a functional striatal fate using an ontogeny-recapitulating
+stepwise method that represents a platform for in vitro human developmental
+neurobiology studies and drug screening approaches.
+
+PMID: 23250204  [PubMed - indexed for MEDLINE]
+
+
+13. J Comp Neurol. 2013 May 1;521(7):1561-84. doi: 10.1002/cne.23242.
+
+Loss of Gsx1 and Gsx2 function rescues distinct phenotypes in Dlx1/2 mutants.
+
+Wang B(1), Long JE, Flandin P, Pla R, Waclaw RR, Campbell K, Rubenstein JL.
+
+Author information: 
+(1)Department of Psychiatry and the Nina Ireland Laboratory of Developmental
+Neurobiology, University of California San Francisco, San Francisco, California
+94158-2324, USA.
+
+Mice lacking the Dlx1 and Dlx2 homeobox genes (Dlx1/2 mutants) have severe
+deficits in subpallial differentiation, including overexpression of the Gsx1 and 
+Gsx2 homeobox genes. To investigate whether Gsx overexpression contributes to the
+Dlx1/2 mutant phenotypes, we made compound loss-of-function mutants. Eliminating 
+Gsx2 function from the Dlx1/2 mutants rescued the increased expression of Ascl1
+and Hes5 (Notch signaling mediators) and Olig2 (oligodendrogenesis mediator). In 
+addition, Dlx1/2;Gsx2 mutants, like Dlx1/2;Ascl1 mutants, exacerbated the Gsx2
+and Dlx1/2 patterning and differentiation phenotypes, particularly in the lateral
+ganglionic eminence (LGE) caudal ganglionic eminence (CGE), and septum, including
+loss of GAD1 expression. On the other hand, eliminating Gsx1 function from the
+Dlx1/2 mutants (Dlx1/2;Gsx1 mutants) did not severely exacerbate their phenotype;
+on the contrary, it resulted in a partial rescue of medial ganglionic eminence
+(MGE) properties, including interneuron migration to the cortex. Thus, despite
+their redundant properties, Gsx1 and -2 have distinct interactions with Dlx1 and 
+-2. Gsx2 interaction is strongest in the LGE, CGE, and septum, whereas the Gsx1
+interaction is strongest in the MGE. From these studies, and earlier studies, we 
+present a model of the transcriptional network that regulates early steps of
+subcortical development.
+
+Copyright © 2012 Wiley Periodicals, Inc.
+
+PMCID: PMC3615175
+PMID: 23042297  [PubMed - indexed for MEDLINE]
+
+
+14. PLoS One. 2012;7(1):e29799. doi: 10.1371/journal.pone.0029799. Epub 2012 Jan 5.
+
+The homeobox gene Gsx2 regulates the self-renewal and differentiation of neural
+stem cells and the cell fate of postnatal progenitors.
+
+Méndez-Gómez HR(1), Vicario-Abejón C.
+
+Author information: 
+(1)Instituto Cajal, Consejo Superior de Investigaciones Científicas (CSIC),
+Madrid, Spain.
+
+The Genetic screened homeobox 2 (Gsx2) transcription factor is required for the
+development of olfactory bulb (OB) and striatal neurons, and for the regional
+specification of the embryonic telencephalon. Although Gsx2 is expressed
+abundantly by progenitor cells in the ventral telencephalon, its precise function
+in the generation of neurons from neural stem cells (NSCs) is not clear.
+Similarly, the role of Gsx2 in regulating the self-renewal and multipotentiality 
+of NSCs has been little explored. Using retroviral vectors to express Gsx2, we
+have studied the effect of Gsx2 on the growth of NSCs isolated from the OB and
+ganglionic eminences (GE), as well as its influence on the proliferation and cell
+fate of progenitors in the postnatal mouse OB. Expression of Gsx2 reduces
+proliferation and the self-renewal capacity of NSCs, without significantly
+affecting cell death. Furthermore, Gsx2 overexpression decreases the
+differentiation of NSCs into neurons and glia, and it maintains the cells that do
+not differentiate as cycling progenitors. These effects were stronger in GESCs
+than in OBSCs, indicating that the actions of Gsx2 are cell-dependent. In vivo,
+Gsx2 produces a decrease in the number of Pax6+ cells and doublecortin+
+neuroblasts, and an increase in Olig2+ cells. In summary, our findings show that 
+Gsx2 inhibits the ability of NSCs to proliferate and self-renew, as well as the
+capacity of NSC-derived progenitors to differentiate, suggesting that this
+transcription factor regulates the quiescent and undifferentiated state of NSCs
+and progenitors. Furthermore, our data indicate that Gsx2 negatively regulates
+neurogenesis from postnatal progenitor cells.
+
+PMCID: PMC3252334
+PMID: 22242181  [PubMed - indexed for MEDLINE]
+
+
+15. Stem Cells Dev. 2012 Aug 10;21(12):2239-51. doi: 10.1089/scd.2011.0607. Epub 2012
+Jan 26.
+
+Helios transcription factor expression depends on Gsx2 and Dlx1&2 function in
+developing striatal matrix neurons.
+
+Martín-Ibáñez R(1), Crespo E, Esgleas M, Urban N, Wang B, Waclaw R, Georgopoulos 
+K, Martínez S, Campbell K, Vicario-Abejón C, Alberch J, Chan S, Kastner P,
+Rubenstein JL, Canals JM.
+
+Author information: 
+(1)Department of Cell Biology, Immunology and Neuroscience, and Cell Therapy
+Program, Faculty of Medicine, Institut d'Investigacions Biomèdiques August Pi i
+Sunyer-IDIBAPS, University of Barcelona, Barcelona, Spain.
+
+Development of the nervous system is finely regulated by consecutive expression
+of cell-specific transcription factors. Here we show that Helios, a member of the
+Ikaros transcription factor family, is expressed in ectodermal and
+neuroectodermal-derived tissues. During embryonic development, Helios is
+expressed by several brain structures including the lateral ganglionic eminence
+(LGE, the striatal anlage); the cingulated, insular and retrosplenial cortex; the
+hippocampus; and the accessory olfactory bulb. Moreover, Helios is also expressed
+by Purkinje neurons during postnatal cerebellar development. Within the LGE,
+Helios expression follows a dynamic spatio-temporal pattern starting at embryonic
+stages (E14.5), peaking at E18.5, and completely disappearing during postnatal
+development. Helios is expressed by a small population of nestin-positive neural 
+progenitor cells located in the subventricular zone as well as by a larger
+population of immature neurons distributed throughout the mantle zone. In the
+later, Helios is preferentially expressed in the matrix compartment, where it
+colocalizes with Bcl11b and Foxp1, well-known markers of striatal projection
+neurons. In addition, we observed that Helios expression is not detected in
+Dlx1/2 and Gsx2 null mutants, while its expression is maintained in Ascl1
+mutants. These findings allow us to introduce a new transcription factor in the
+cascade of events that take part of striatal development postulating the
+existence of at least 4 different neural progenitors in the LGE. An
+Ascl1-independent but Gsx2- & Dlx1/2-dependent precursor will express Helios
+defining a new lineage for a subset of matrix striatal neurons.
+
+PMCID: PMC3411368
+PMID: 22142223  [PubMed - indexed for MEDLINE]
+
+
+16. Cereb Cortex. 2012 Feb;22(2):403-16. doi: 10.1093/cercor/bhr122. Epub 2011 Jun
+10.
+
+Tangentially migrating transient glutamatergic neurons control neurogenesis and
+maintenance of cerebral cortical progenitor pools.
+
+Teissier A(1), Waclaw RR, Griveau A, Campbell K, Pierani A.
+
+Author information: 
+(1)CNRS-UMR 7592, Institut Jacques Monod, Université Paris Diderot, Sorbonne
+Paris Cité, 75205 Paris Cedex 13, France.
+
+The relative contribution of intrinsic and extrinsic cues in the regulation of
+cortical neurogenesis remains a crucial challenge in developmental neurobiology. 
+We previously reported that a transient population of glutamatergic neurons, the 
+cortical plate (CP) transient neurons, migrates from the ventral pallium (VP)
+over long distances and participate in neocortical development. Here, we show
+that the genetic ablation of this population leads to a reduction in the number
+of cortical neurons especially fated to superficial layers. These defects result 
+from precocious neurogenesis followed by a depletion of the progenitor pools.
+Notably, these changes progress from caudolateral to rostrodorsal pallial
+territories between E12.5 and E14.5 along the expected trajectory of the ablated 
+cells. Conversely, we describe enhanced proliferation resulting in an increase in
+the number of cortical neurons in the Gsx2 mutants which present an expansion of 
+the VP and a higher number of CP transient neurons migrating into the pallium.
+Our findings indicate that these neurons act to maintain the proliferative state 
+of neocortical progenitors and delay differentiation during their migration from 
+extraneocortical regions and, thus, participate in the extrinsic control of
+cortical neuronal numbers.
+
+PMCID: PMC3256409
+PMID: 21666133  [PubMed - indexed for MEDLINE]
+
+
+17. J Neurosci. 2011 Apr 6;31(14):5313-24. doi: 10.1523/JNEUROSCI.3867-10.2011.
+
+Pax6 is required at the telencephalic pallial-subpallial boundary for the
+generation of neuronal diversity in the postnatal limbic system.
+
+Cocas LA(1), Georgala PA, Mangin JM, Clegg JM, Kessaris N, Haydar TF, Gallo V,
+Price DJ, Corbin JG.
+
+Author information: 
+(1)Center for Neuroscience Research, Children's Research Institute, Children's
+National Medical Center, Washington, DC 20010, USA.
+
+During embryogenesis, the pallial-subpallial boundary (PSB) divides the two main 
+progenitor domains in the telencephalon: the pallium, the major source of
+excitatory neurons, and the subpallium, the major source of inhibitory neurons.
+The PSB is formed at the molecular interface between the pallial (high Pax6+) and
+subpallial (high Gsx2+) ventricular zone (VZ) compartments. Initially, the PSB
+contains cells that express both Pax6 and Gsx2, but during later stages of
+development this boundary is largely refined into two separate compartments. In
+this study we examined the developmental mechanisms underlying PSB boundary
+formation and the postnatal consequences of conditional loss of Pax6 function at 
+the PSB on neuronal fate in the amygdala and olfactory bulb, two targets of
+PSB-derived migratory populations. Our cell fate and time-lapse imaging analyses 
+reveal that the sorting of Pax6+ and Gsx2+ progenitors during embryogenesis is
+the result of a combination of changes in gene expression and cell movements.
+Interestingly, we find that in addition to giving rise to inhibitory neurons in
+the amygdala and olfactory bulb, Gsx2+ progenitors generate a subpopulation of
+amygdala excitatory neurons. Consistent with this finding, targeted conditional
+ablation of Pax6 in Gsx2+ progenitors results in discrete local embryonic
+patterning defects that are linked to changes in the generation of subsets of
+postnatal excitatory and inhibitory neurons in the amygdala and inhibitory
+neurons in the olfactory bulb. Thus, in PSB progenitors, Pax6 plays an important 
+role in the generation of multiple subtypes of neurons that contribute to the
+amygdala and olfactory bulb.
+
+PMCID: PMC3086773
+PMID: 21471366  [PubMed - indexed for MEDLINE]
+
+
+18. Proc Natl Acad Sci U S A. 2011 Jan 25;108(4):1675-80. doi:
+10.1073/pnas.1008824108. Epub 2011 Jan 4.
+
+Homeobox genes Gsx1 and Gsx2 differentially regulate telencephalic progenitor
+maturation.
+
+Pei Z(1), Wang B, Chen G, Nagao M, Nakafuku M, Campbell K.
+
+Author information: 
+(1)Division of Developmental Biology, Perinatal Institute, Cincinnati Children's 
+Hospital Medical Center, University of Cincinnati College of Medicine, Cincinnati
+OH 45229, USA.
+
+Homeobox genes Gsx1 and Gsx2 (formerly Gsh1 and Gsh2) are among the earliest
+transcription factors expressed in neuronal progenitors of the lateral ganglionic
+eminence (LGE) in the ventral telencephalon. Gsx2 is required for the early
+specification of LGE progenitor cells and recently has been shown to specify
+different LGE neuronal subtypes at distinct time points. In Gsx2 mutants, Gsx1
+compensates, at least in part, for the loss of Gsx2 in the specification of LGE
+neuronal subtypes. Because no specific phenotype has been described in Gsx1
+mutants, it is unclear what role this factor plays in the development of the
+ventral telencephalon. Here, we used a gain-of-function approach to express
+either Gsx1 or Gsx2 throughout the telencephalon and found that Gsx1 functions
+similarly to Gsx2 in the specification of LGE identity. However, our results show
+that Gsx1 and Gsx2 differentially regulate the maturation of LGE progenitors.
+Specifically, Gsx2 maintains LGE progenitors in an undifferentiated state,
+whereas Gsx1 promotes progenitor maturation and the acquisition of neuronal
+phenotypes, at least in part, through the down-regulation of Gsx2. These unique
+results indicate that the two closely related Gsx genes similarly regulate LGE
+patterning but oppositely control the balance between proliferation and
+differentiation in the neuronal progenitor pool.
+
+PMCID: PMC3029701
+PMID: 21205889  [PubMed - indexed for MEDLINE]
+
+
+19. Neural Dev. 2010 Aug 24;5:21. doi: 10.1186/1749-8104-5-21.
+
+Nolz1 promotes striatal neurogenesis through the regulation of retinoic acid
+signaling.
+
+Urbán N(1), Martín-Ibáñez R, Herranz C, Esgleas M, Crespo E, Pardo M,
+Crespo-Enríquez I, Méndez-Gómez HR, Waclaw R, Chatzi C, Alvarez S, Alvarez R,
+Duester G, Campbell K, de Lera AR, Vicario-Abejón C, Martinez S, Alberch J,
+Canals JM.
+
+Author information: 
+(1)Department of Cell Biology, Immunology and Neuroscience, Faculty of Medicine, 
+IDIBAPS, Universitat de Barcelona, C/Casanova 143, 08036 Barcelona, Spain.
+
+BACKGROUND: Nolz1 is a zinc finger transcription factor whose expression is
+enriched in the lateral ganglionic eminence (LGE), although its function is still
+unknown.
+RESULTS: Here we analyze the role of Nolz1 during LGE development. We show that
+Nolz1 expression is high in proliferating neural progenitor cells (NPCs) of the
+LGE subventricular zone. In addition, low levels of Nolz1 are detected in the
+mantle zone, as well as in the adult striatum. Similarly, Nolz1 is highly
+expressed in proliferating LGE-derived NPC cultures, but its levels rapidly
+decrease upon cell differentiation, pointing to a role of Nolz1 in the control of
+NPC proliferation and/or differentiation. In agreement with this hypothesis, we
+find that Nolz1 over-expression promotes cell cycle exit of NPCs in neurosphere
+cultures and negatively regulates proliferation in telencephalic organotypic
+cultures. Within LGE primary cultures, Nolz1 over-expression promotes the
+acquisition of a neuronal phenotype, since it increases the number of ß-III
+tubulin (Tuj1)- and microtubule-associated protein (MAP)2-positive neurons, and
+inhibits astrocyte generation and/or differentiation. Retinoic acid (RA) is one
+of the most important morphogens involved in striatal neurogenesis, and regulates
+Nolz1 expression in different systems. Here we show that Nolz1 also responds to
+this morphogen in E12.5 LGE-derived cell cultures. However, Nolz1 expression is
+not regulated by RA in E14.5 LGE-derived cell cultures, nor is it affected during
+LGE development in mouse models that present decreased RA levels. Interestingly, 
+we find that Gsx2, which is necessary for normal RA signaling during LGE
+development, is also required for Nolz1 expression, which is lost in Gsx2
+knockout mice. These findings suggest that Nolz1 might act downstream of Gsx2 to 
+regulate RA-induced neurogenesis. Keeping with this hypothesis, we show that
+Nolz1 induces the selective expression of the RA receptor (RAR)ß without altering
+RARa or RAR<U+03B3>. In addition, Nozl1 over-expression increases RA signaling since it 
+stimulates the RA response element. This RA signaling is essential for
+Nolz1-induced neurogenesis, which is impaired in a RA-free environment or in the 
+presence of a RAR inverse agonist. It has been proposed that Drosophila Gsx2 and 
+Nolz1 homologues could cooperate with the transcriptional co-repressors
+Groucho-TLE to regulate cell proliferation. In agreement with this view, we show 
+that Nolz1 could act in collaboration with TLE-4, as they are expressed at the
+same time in NPC cultures and during mouse development.
+CONCLUSIONS: Nolz1 promotes RA signaling in the LGE, contributing to the striatal
+neurogenesis during development.
+
+PMCID: PMC2939507
+PMID: 20735826  [PubMed - indexed for MEDLINE]
+
+
+20. J Neurosci. 2010 May 19;30(20):6944-53. doi: 10.1523/JNEUROSCI.5772-09.2010.
+
+Developmental origin of the neuronal subtypes that comprise the amygdalar fear
+circuit in the mouse.
+
+Waclaw RR(1), Ehrman LA, Pierani A, Campbell K.
+
+Author information: 
+(1)Division of Developmental Biology, Cincinnati Children's Hospital Medical
+Center, University of Cincinnati College of Medicine, Cincinnati, Ohio 45229,
+USA.
+
+We have taken a genetic-based fate-mapping approach to determine the specific
+contributions of telencephalic progenitors to the structures that comprise the
+amygdalar fear circuit including the central (CA), lateral (LA), and basolateral 
+(BLA) amygdala. Our data indicate that progenitors in the ventral pallium (VP)
+contribute projection neurons to the LA and BLA but not the CA. Rather, the CA
+appears to derive, at least in part, from progenitors located in the ventral
+lateral ganglionic eminence (vLGE). Diverse groups of interneurons populate these
+amygdalar nuclei, and as predicted our data support the notion that they
+originate from subpallial progenitors. A rather specific population of amygdalar 
+interneurons, the intercalated cells (ITCs), is known to play a fundamental role 
+in fear-related behaviors. However, no information on their specific origin has, 
+as yet, been provided. Our findings suggest that the ITCs arise from the dorsal
+lateral ganglionic eminence (dLGE) and migrate in the lateral migratory stream to
+populate the paracapsular regions as well as the main intercalated mass of the
+amygdala (IA). Germ-line Gsx2 mutants are known to exhibit an expansion of the VP
+into the LGE and a concomitant reduction in the dLGE and vLGE. Accordingly, Gsx2 
+conditional mutants display a significantly enlarged LA and a significant
+reduction in ITCs both within the paracapsular regions and the IA. Additional
+support for a dLGE origin of the ITCs was obtained in conditional mutants of the 
+dLGE gene Sp8. Thus, our findings indicate diverse origins for the neuronal
+components that comprise the amygdalar fear circuit.
+
+PMCID: PMC2882074
+PMID: 20484636  [PubMed - indexed for MEDLINE]
+
+
+21. Cancer Res. 2010 Apr 1;70(7):2718-27. doi: 10.1158/0008-5472.CAN-09-3631. Epub
+2010 Mar 16.
+
+CpG island hypermethylation in human astrocytomas.
+
+Wu X(1), Rauch TA, Zhong X, Bennett WP, Latif F, Krex D, Pfeifer GP.
+
+Author information: 
+(1)Department of Cancer Biology, Beckman Research Institute of the City of Hope, 
+Duarte, CA, USA.
+
+Astrocytomas are common and lethal human brain tumors. We have analyzed the
+methylation status of over 28,000 CpG islands and 18,000 promoters in normal
+human brain and in astrocytomas of various grades using the methylated CpG island
+recovery assay. We identified 6,000 to 7,000 methylated CpG islands in normal
+human brain. Approximately 5% of the promoter-associated CpG islands in the
+normal brain are methylated. Promoter CpG island methylation is inversely
+correlated whereas intragenic methylation is directly correlated with gene
+expression levels in brain tissue. In astrocytomas, several hundred CpG islands
+undergo specific hypermethylation relative to normal brain with 428 methylation
+peaks common to more than 25% of the tumors. Genes involved in brain development 
+and neuronal differentiation, such as BMP4, POU4F3, GDNF, OTX2, NEFM, CNTN4, OTP,
+SIM1, FYN, EN1, CHAT, GSX2, NKX6-1, PAX6, RAX, and DLX2, were strongly enriched
+among genes frequently methylated in tumors. There was an overrepresentation of
+homeobox genes and 31% of the most commonly methylated genes represent targets of
+the Polycomb complex. We identified several chromosomal loci in which many
+(sometimes more than 20) consecutive CpG islands were hypermethylated in tumors. 
+Seven such loci were near homeobox genes, including the HOXC and HOXD clusters,
+and the BARHL2, DLX1, and PITX2 genes. Two other clusters of hypermethylated
+islands were at sequences of recent gene duplication events. Our analysis offers 
+mechanistic insights into brain neoplasia suggesting that methylation of the
+genes involved in neuronal differentiation, in cooperation with other oncogenic
+events, may shift the balance from regulated differentiation towards
+gliomagenesis.
+
+PMCID: PMC2848870
+PMID: 20233874  [PubMed - indexed for MEDLINE]
+
+
+22. Neuron. 2010 Feb 11;65(3):328-40. doi: 10.1016/j.neuron.2010.01.004.
+
+Sonic hedgehog signaling confers ventral telencephalic progenitors with distinct 
+cortical interneuron fates.
+
+Xu Q(1), Guo L, Moore H, Waclaw RR, Campbell K, Anderson SA.
+
+Author information: 
+(1)Weill Cornell Medical College, 1300 York Avenue New York, NY 10065, USA.
+
+Interneurons in the cerebral cortex regulate cortical functions through the
+actions of distinct subgroups that express parvalbumin, somatostatin, or
+calretinin. The genesis of the first two subgroups requires the expression of
+NKX2.1, which is maintained by SHH signaling during neurogenesis. In this paper, 
+we report that mosaic elimination in the medial ganglionic eminence (MGE) of Smo,
+a key effector of SHH signaling, reveals that MGE progenitors retain a remarkable
+degree of plasticity during the neurogenic period. SHH signaling prevents the
+upregulation of GSX2 and conversion of some MGE progenitors to a caudal
+ganglionic eminence-like, bipolar calretinin-expressing cell fate that is
+promoted by GSX2. In addition, a higher level of SHH signaling promotes the
+generation of the somatostatin-expressing interneuron at the expense of
+parvalbumin-expressing subgroup. These results indicate that cortical interneuron
+diversity, a major determinant of cortical function, is critically influenced by 
+differential levels of SHH signaling within the ventral telencephalon.
+
+Copyright 2010 Elsevier Inc. All rights reserved.
+
+PMCID: PMC2868511
+PMID: 20159447  [PubMed - indexed for MEDLINE]
+
+
+23. Neuron. 2009 Aug 27;63(4):451-65. doi: 10.1016/j.neuron.2009.07.015.
+
+Distinct temporal requirements for the homeobox gene Gsx2 in specifying striatal 
+and olfactory bulb neuronal fates.
+
+Waclaw RR(1), Wang B, Pei Z, Ehrman LA, Campbell K.
+
+Author information: 
+(1)Division of Developmental Biology, Cincinnati Children's Hospital Medical
+Center, University of Cincinnati College of Medicine, 3333 Burnet Avenue,
+Cincinnati, OH 45229, USA.
+
+The homeobox gene Gsx2 (formerly Gsh2) is known to be required for striatal and
+olfactory bulb neurogenesis; however, its specific role in the specification of
+these two neuronal subtypes remains unclear. To address this, we have employed a 
+temporally regulated gain-of-function approach in transgenic mice and found that 
+misexpression of Gsx2 at early stages of telencephalic neurogenesis favors the
+specification of striatal projection neuron identity over that of olfactory bulb 
+interneurons. In contrast, delayed activation of the Gsx2 transgene until later
+stages exclusively promotes olfactory bulb interneuron identity. In a
+complementary approach, we have conditionally inactivated Gsx2 in a temporally
+progressive manner. Unlike germline Gsx2 mutants, which exhibit severe
+alterations in both striatal and olfactory bulb neurogenesis at birth, the
+conditional mutants exhibited defects restricted to olfactory bulb interneurons. 
+These results demonstrate that Gsx2 specifies striatal projection neuron and
+olfactory bulb interneuron identity at distinct time points during telencephalic 
+neurogenesis.
+
+PMCID: PMC2772064
+PMID: 19709628  [PubMed - indexed for MEDLINE]
+
+
+24. Neural Dev. 2009 Feb 10;4:5. doi: 10.1186/1749-8104-4-5.
+
+Ascl1 is a required downstream effector of Gsx gene function in the embryonic
+mouse telencephalon.
+
+Wang B(1), Waclaw RR, Allen ZJ 2nd, Guillemot F, Campbell K.
+
+Author information: 
+(1)Division of Developmental Biology, Cincinnati Children's Hospital Medical
+Center, University of Cincinnati College of Medicine, Cincinnati OH 45229, USA.
+bei.wang@ucsf.edu
+
+BACKGROUND: The homeobox gene Gsx2 (formerly Gsh2) is known to regulate
+patterning in the lateral ganglionic eminence (LGE) of the embryonic
+telencephalon. In its absence, the closely related gene Gsx1 (previously known as
+Gsh1) can partially compensate in the patterning and differentiation of ventral
+telencephalic structures, such as the striatum. However, the cellular and
+molecular mechanisms underlying this compensation remain unclear.
+RESULTS: We show here that in the Gsx2 mutants Gsx1 is expressed in only a subset
+of the ventral telencephalic progenitors that normally express Gsx2. Based on the
+similarities in the expression of Gsx1 and Ascl1 (Mash1) within the Gsx2 mutant
+LGE, we examined whether Ascl1 plays an integral part in the Gsx1-based recovery.
+Ascl1 mutants show only modest alterations in striatal development; however, in
+Gsx2;Ascl1 double mutants, striatal development is severely affected, similar to 
+that seen in the Gsx1;Gsx2 double mutants. This is despite the fact that Gsx1 is 
+expressed, and even expands, in the Gsx2;Ascl1 mutant LGE, comparable to that
+seen in the Gsx2 mutant. Finally, Notch signaling has recently been suggested to 
+be required for normal striatal development. In spite of the fact that Notch
+signaling is severely disrupted in Ascl1 mutants, it actually appears to be
+improved in the Gsx2;Ascl1 double mutants.
+CONCLUSION: These results, therefore, reveal a non-proneural requirement of Ascl1
+that together with Gsx1 compensates for the loss of Gsx2 in a subset of LGE
+progenitors.
+
+PMCID: PMC2644683
+PMID: 19208224  [PubMed - indexed for MEDLINE]
+
+
