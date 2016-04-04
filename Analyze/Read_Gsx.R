@@ -39,15 +39,18 @@ library ("Biobase")
 
 # ====  ANALYSIS  ====================================================
 
-# Building an ExpressionSet from Scratch
-# Collect Gsx data into a matrix. Assume the Gsx data is in a tab-delimited text file (exported from a spreadsheet).
-exprsFile <- "/Users/amatulah/Desktop/BCB420/dev/Analyze/ReadGsx/exprsdata.txt"
+# Input Gsx data from the Contrast Module. Assume the Gsx data is in a tab-delimited text file (exported from a spreadsheet).
+
+setwd(paste(DEVDIR, "/Analyze", sep=""))
+
+source("contrast.R")
+
 exprs <- as.matrix(read.table(exprsFile, header=TRUE, sep="\t", #the argument becomes sep=","
                               row.names=1,
                               as.is=TRUE))
 
 # Dermining a cutoff: Setting alpha = 0.05 and a log fold change score of at least 2, the cutoff is for scores greater than +2.6.
-cov <- exprs[exprs>0] # extract all values greater than cutoff = 2.6. Testing with the value 0 here from the sample dataset.
+cov <- exprs[exprs>2.6] # extract all values greater than cutoff = 2.6.
 sorted <- sort(cov, decreasing = TRUE) # sort in descending order
 cat(sorted,file="cov.txt",sep="\t") # write file to .txt
 file.show("cov.txt")
