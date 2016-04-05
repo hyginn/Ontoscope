@@ -10,6 +10,7 @@
 source("ontology-explorer.r")
 
 # BS> Missing comment: what is this file?
+# FANTOM Five phase2 ontology in OBO 1.2 format
 FFP2 <- "ff-phase2-140729.obo"
 
 # get an OBOCollection class object
