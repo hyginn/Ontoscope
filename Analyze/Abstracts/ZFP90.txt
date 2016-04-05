@@ -1,0 +1,293 @@
+
+1. PLoS One. 2014 Jun 23;9(6):e100924. doi: 10.1371/journal.pone.0100924.
+eCollection 2014.
+
+Large-scale East-Asian eQTL mapping reveals novel candidate genes for LD mapping 
+and the genomic landscape of transcriptional effects of sequence variants.
+
+Narahara M(1), Higasa K(2), Nakamura S(3), Tabara Y(2), Kawaguchi T(2), Ishii
+M(3), Matsubara K(3), Matsuda F(2), Yamada R(1).
+
+Author information: 
+(1)Statistical Genetics, Center for Genomic Medicine, Kyoto University Graduate
+School of Medicine, Kyoto, Japan. (2)Human Disease Genomics, Center for Genomic
+Medicine, Kyoto University Graduate School of Medicine, Kyoto, Japan. (3)DNA Chip
+Research Inc., Kanagawa, Japan.
+
+Profiles of sequence variants that influence gene transcription are very
+important for understanding mechanisms that affect phenotypic variation and
+disease susceptibility. Using genotypes at 1.4 million SNPs and a comprehensive
+transcriptional profile of 15,454 coding genes and 6,113 lincRNA genes obtained
+from peripheral blood cells of 298 Japanese individuals, we mapped expression
+quantitative trait loci (eQTLs). We identified 3,804 cis-eQTLs (within 500 kb
+from target genes) and 165 trans-eQTLs (>500 kb away or on different
+chromosomes). Cis-eQTLs were often located in transcribed or adjacent regions of 
+genes; among these regions, 5' untranslated regions and 5' flanking regions had
+the largest effects. Epigenetic evidence for regulatory potential accumulated in 
+public databases explained the magnitude of the effects of our eQTLs. Cis-eQTLs
+were often located near the respective target genes, if not within genes. Large
+effect sizes were observed with eQTLs near target genes, and effect sizes were
+obviously attenuated as the eQTL distance from the gene increased. Using a very
+stringent significance threshold, we identified 165 large-effect trans-eQTLs. We 
+used our eQTL map to assess 8,069 disease-associated SNPs identified in 1,436
+genome-wide association studies (GWAS). We identified genes that might be truly
+causative, but GWAS might have failed to identify for 148 out of the
+GWAS-identified SNPs; for example, TUFM (P<U+200A>=<U+200A>3.3E-48) was identified for
+inflammatory bowel disease (early onset); ZFP90 (P<U+200A>=<U+200A>4.4E-34) for ulcerative
+colitis; and IDUA (P<U+200A>=<U+200A>2.2E-11) for Parkinson's disease. We identified four genes
+(P<2.0E-14) that might be related to three diseases and two hematological traits;
+each expression is regulated by trans-eQTLs on a different chromosome than the
+gene.
+
+PMCID: PMC4067418
+PMID: 24956270  [PubMed - indexed for MEDLINE]
+
+
+2. Gene. 2012 May 1;498(2):328-31. doi: 10.1016/j.gene.2012.01.028. Epub 2012 Feb 3.
+
+16q22.1 microdeletion detected by array-CGH in a family with mental retardation
+and lobular breast cancer.
+
+Palka Bayard de Volo C(1), Alfonsi M, Gatta V, Novelli A, Bernardini L, Fantasia 
+D, Antonucci I, Angelucci D, Zori R, Stuppia L, Chiarelli F, Calabrese G.
+
+Author information: 
+(1)Department of Pediatrics, "G. d'Annunzio" University, Chieti, Italy.
+chiarapalka@libero.it
+
+We describe the case of a boy with psychomotor delay and dysmorphic features,
+with a germline 16q22.1 microdeletion identified by array-CGH. The deletion spans
+0.24Mb and encompasses three genes (ZFP90, CDH3 and CDH1). The deletion has been 
+demonstrated to be inherited from his mother who was affected by lobular breast
+cancer (LBC) without any other apparently phenotypic features. We suppose that
+the microdeletion, in particular ZFP90 which is cerebrally expressed, is
+causative for the boy's phenotype. Mental retardation in the affected boy can
+recognize several mechanisms such as variable expressivity, non-penetrance,
+multifactorial/polygenic inheritance, recessive inheritance, a second
+rearrangement event and epigenetics. Furthermore, we suggest that the deletion of
+the CDH1, a tumor suppressor gene, involved in hereditary diffuse gastric cancer 
+(HDGC) and LBC predisposed the mother to the carcinoma.
+
+Copyright Â© 2012 Elsevier B.V. All rights reserved.
+
+PMID: 22326525  [PubMed - indexed for MEDLINE]
+
+
+3. Hum Mol Genet. 2011 Jul 15;20(14):2879-88. doi: 10.1093/hmg/ddr190. Epub 2011 Apr
+29.
+
+Fine-mapping of colorectal cancer susceptibility loci at 8q23.3, 16q22.1 and
+19q13.11: refinement of association signals and use of in silico analysis to
+suggest functional variation and unexpected candidate target genes.
+
+Carvajal-Carmona LG(1), Cazier JB, Jones AM, Howarth K, Broderick P, Pittman A,
+Dobbins S, Tenesa A, Farrington S, Prendergast J, Theodoratou E, Barnetson R,
+Conti D, Newcomb P, Hopper JL, Jenkins MA, Gallinger S, Duggan DJ, Campbell H,
+Kerr D, Casey G, Houlston R, Dunlop M, Tomlinson I.
+
+Author information: 
+(1)Wellcome Trust Centre for Human Genetics and Department of Clinical
+Pharmacology, University of Oxford, Oxford, UK. luis@well.ox.ac.uk
+
+We have previously identified several colorectal cancer (CRC)-associated
+polymorphisms using genome-wide association (GWA) analysis. We sought to fine-map
+the location of the functional variants for three of these regions at 8q23.3
+(EIF3H), 16q22.1 (CDH1/CDH3) and 19q13.11 (RHPN2). We genotyped two case-control 
+sets at high density in the selected regions and used existing data from four
+other case-control sets, comprising a total of 9328 CRC cases and 10 480
+controls. To improve marker density, we imputed genotypes from the 1000 Genomes
+Project and Hapmap3 data sets. All three regions contained smaller areas in which
+a cluster of single nucleotide polymorphisms (SNPs) showed clearly stronger
+association signals than surrounding SNPs, allowing us to assign those areas as
+the most likely location of the disease-associated functional variant. Further
+fine-mapping within those areas was generally unhelpful in identifying the
+functional variation based on strengths of association. However, functional
+annotation suggested a relatively small number of functional SNPs, including some
+with potential regulatory function at 8q23.3 and 16q22.1 and a non-synonymous SNP
+in RPHN2. Interestingly, the expression quantitative trait locus browser showed a
+number of highly associated SNP alleles correlated with mRNA expression levels
+not of EIF3H and CDH1 or CDH3, but of UTP23 and ZFP90, respectively. In contrast,
+none of the top SNPs within these regions was associated with transcript levels
+at EIF3H, CDH1 or CDH3. Our post-GWA study highlights benefits of fine-mapping of
+common disease variants in combination with publicly available data sets. In
+addition, caution should be exercised when assigning functionality to candidate
+genes in regions discovered through GWA analysis.
+
+PMCID: PMC3118761
+PMID: 21531788  [PubMed - indexed for MEDLINE]
+
+
+4. J Mol Cell Cardiol. 2011 Jun;50(6):972-81. doi: 10.1016/j.yjmcc.2011.01.017. Epub
+2011 Jan 31.
+
+Zinc-finger protein 90 negatively regulates neuron-restrictive silencer
+factor-mediated transcriptional repression of fetal cardiac genes.
+
+Hata L(1), Murakami M, Kuwahara K, Nakagawa Y, Kinoshita H, Usami S, Yasuno S,
+Fujiwara M, Kuwabara Y, Minami T, Yamada Y, Yamada C, Nakao K, Ueshima K,
+Nishikimi T, Nakao K.
+
+Author information: 
+(1)Department of Medicine and Clinical Science, Kyoto University Graduate School 
+of Medicine, Kyoto 606-8507, Japan.
+
+Neuron-restrictive silencer factor (NRSF) is a zinc-finger transcription factor
+that binds to specific DNA sequences (NRSE) to repress transcription. By
+down-regulating the transcription of its target genes, NRSF contributes to the
+regulation of various biological processes, including neuronal differentiation,
+carcinogenesis and cardiovascular homeostasis. We previously reported that NRSF
+regulates expression of the cardiac fetal gene program, and that attenuation of
+NRSF-mediated repression contributes to genetic remodeling in hearts under
+pathological conditions. The precise molecular mechanisms and signaling pathways 
+via which NRSF activity is regulated in pathological conditions of the heart
+remain unclear, however. In this study, to search for regulators of NRSF, we
+carried out yeast two-hybrid screening using NRSF as bait and identified
+zinc-finger protein (Zfp) 90 as a novel NRSF-binding protein. NRSF and Zfp90
+colocalized in the nucleus, with the zinc-finger DNA-binding domain of the former
+specifically interacting with the latter. Zfp90 inhibited the repressor activity 
+of NRSF by inhibiting its binding to DNA, thereby derepressing transcription of
+NRSF-target genes. Knockdown of Zfp90 by siRNA led to reduced expression of
+NRSF-target fetal cardiac genes, atrial and brain natriuretic peptide genes, and 
+conversely, overexpression of Zfp90 in ventricular myocardium resulted in
+significant increases in the expression of these genes. Notably, expression of
+Zfp90 mRNA was significantly upregulated in mouse and human hearts with chronic
+heart failure. Collectively, these results suggest that Zfp90 functions as a
+negative regulator of NRSF and contributes to genetic remodeling during the
+development of cardiac dysfunction.
+
+Copyright © 2011 Elsevier Ltd. All rights reserved.
+
+PMID: 21284946  [PubMed - indexed for MEDLINE]
+
+
+5. World J Gastroenterol. 2008 Jan 28;14(4):574-81.
+
+Gene modulation associated with inhibition of liver regeneration in hepatitis B
+virus X transgenic mice.
+
+Sidorkiewicz M(1), Jais JP, Tralhao G, Morosan S, Giannini C, Brezillon N,
+Soussan P, Delpuech O, Kremsdorf D.
+
+Author information: 
+(1)INSERM (Institut National de la Sante et de la Recherche Medicale) U845, CHU
+Necker, 156 rue de Vaugirard, Paris 75015, France.
+
+AIM: To analyze the modulation of gene expression profile associated with
+inhibition of liver regeneration in hepatitis B X (HBx)-expressing transgenic
+mice.
+METHODS: Microarray technology was performed on liver tissue obtained from 4
+control (LacZ) and 4 transgenic mice (HBx-LacZ), 48 h after partial hepatectomy. 
+The significance of the normalized log-ratios was assessed for each gene, using
+robust t-tests under an empirical Bayes approach. Microarray hybridization data
+was verified on selected genes by quantitative PCR.
+RESULTS: The comparison of gene expression patterns showed a consistent
+modulation of the expression of 26 genes, most of which are implicated in liver
+regeneration. Up-regulated genes included DNA repair proteins (Rad-52, MSH6) and 
+transmembrane proteins (syndecan 4, tetraspanin), while down-regulated genes were
+connected to the regulation of transcription (histone deacetylase, Zfp90, MyoD1) 
+and were involved in the cholesterol metabolic pathway and isoprenoid
+biosynthesis (farnesyl diphosphate synthase, Cyp7b1, geranylgeranyl diphosphate
+synthase, SAA3).
+CONCLUSION: Our results provide a novel insight into the biological activities of
+HBx, implicated in the inhibition of liver regeneration.
+
+PMCID: PMC2681149
+PMID: 18203290  [PubMed - indexed for MEDLINE]
+
+
+6. Nat Genet. 2005 Jul;37(7):710-7. Epub 2005 Jun 19.
+
+An integrative genomics approach to infer causal associations between gene
+expression and disease.
+
+Schadt EE(1), Lamb J, Yang X, Zhu J, Edwards S, Guhathakurta D, Sieberts SK,
+Monks S, Reitman M, Zhang C, Lum PY, Leonardson A, Thieringer R, Metzger JM, Yang
+L, Castle J, Zhu H, Kash SF, Drake TA, Sachs A, Lusis AJ.
+
+Author information: 
+(1)Rosetta Inpharmatics, Seattle, Washington 98109, USA. eric_schadt@merck.com
+
+A key goal of biomedical research is to elucidate the complex network of gene
+interactions underlying complex traits such as common human diseases. Here we
+detail a multistep procedure for identifying potential key drivers of complex
+traits that integrates DNA-variation and gene-expression data with other complex 
+trait data in segregating mouse populations. Ordering gene expression traits
+relative to one another and relative to other complex traits is achieved by
+systematically testing whether variations in DNA that lead to variations in
+relative transcript abundances statistically support an independent, causative or
+reactive function relative to the complex traits under consideration. We show
+that this approach can predict transcriptional responses to single
+gene-perturbation experiments using gene-expression data in the context of a
+segregating mouse population. We also demonstrate the utility of this approach by
+identifying and experimentally validating the involvement of three new genes in
+susceptibility to obesity.
+
+PMCID: PMC2841396
+PMID: 15965475  [PubMed - indexed for MEDLINE]
+
+
+7. Biol Chem. 2001 Jun;382(6):891-902.
+
+Biological activity of mammalian transcriptional repressors.
+
+Thiel G(1), Lietz M, Bach K, Guethlein L, Cibelli G.
+
+Author information: 
+(1)Department of Medical Biochemistry and Molecular Biology, University of
+Saarland Medical School, Homburg, Germany.
+
+Research on the regulation of transcription in mammals has focused in recent
+years mainly on the mechanism of transcriptional activation. However,
+transcriptional repression mediated by repressor proteins is a common regulatory 
+mechanism in mammals and might play an important role in many biological
+processes. To understand the molecular mechanism of transcriptional repression,
+the activity of eight mammalian repressors or repressor domains was investigated 
+using a set of model promoters in combination with two different transcriptional 
+detection methods. The repressors studied were: REST, the thyroid hormone
+receptors alpha and beta, the zinc finger protein NK10 containing a
+'krüppel-associated box' (KRAB), repressor domains derived from the proteins
+Egr-1, Oct2A and Dr1 and the repressor/activator protein YY1. Here we show that
+the repressor domains of REST, Egr-1, the thyroid hormone receptors alpha< and
+beta and NK10 were transferable to a heterologous DNA-binding domain and
+repressed transcription from proximal and distal positions. Moreover, these
+repressor domains also blocked the activity of a strong viral enhancer in a
+'remote position'. Thus, these domains are 'general' transcriptional repressor
+domains. The 'krüppel-associated box' was the most powerful repressor domain
+tested. In contrast, the repressor domains derived from Oct2A and Dr1 were
+inactive when fused to a heterologous DNA-binding domain. The repressor domain of
+YY1 exhibited transcriptional repression activity only in one of the
+transcriptional assay systems. The recruitment of histone deacetylases to the
+proximity of the basal transcriptional apparatus was recently discussed as a
+mechanism for some mammalian transcriptional repressor proteins. Here we show
+here that histone deacetylase 2, targeted to the reporter gene via DNA-protein
+interaction, functions as a transcriptional repressor protein regardless of the
+location of its binding site within the transcription unit.
+
+PMID: 11501753  [PubMed - indexed for MEDLINE]
+
+
+8. DNA Cell Biol. 1995 Nov;14(11):971-81.
+
+Developmentally regulated mouse gene NK10 encodes a zinc finger repressor protein
+with differential DNA-binding domains.
+
+Lange R(1), Christoph A, Thiesen HJ, Vopper G, Johnson KR, Lemaire L, Plomann M, 
+Cremer H, Barthels D, Heinlein UA.
+
+Author information: 
+(1)Institut für Genetik, Universität zu Köln, Germany.
+
+Using oligonucleotides complementary to the conserved inter-finger region of a
+variety of previously described zinc finger-encoding genes, a novel mouse gene
+was cloned and characterized. The gene is localized on chromosome 8 and comprises
+five exons. Its corresponding mRNA is developmentally regulated in various
+tissues and includes an open reading frame encoding a protein of 72,422 daltons. 
+It shares amino-terminal homologies with human KRAB (or FPB) boxes, and contains 
+13 zinc fingers of the C2-H2 type. The NK10 KRAB domains exhibit repressing
+activity when tested in GAL4 fusion protein assays. Cloning of putative target
+sequences revealed that the individual domains differentially contribute to
+zinc-dependent target DNA binding.
+
+PMID: 7576184  [PubMed - indexed for MEDLINE]
+
+

@@ -1,0 +1,2637 @@
+
+1. Exp Hematol Oncol. 2016 Feb 3;5:4. doi: 10.1186/s40164-016-0033-6. eCollection
+2015.
+
+miR-199b, a novel tumor suppressor miRNA in acute myeloid leukemia with
+prognostic implications.
+
+Favreau AJ(1), McGlauflin RE(2), Duarte CW(3), Sathyanarayana P(4).
+
+Author information: 
+(1)Center for Molecular Medicine, Maine Medical Center Research Institute, 81
+Research Drive, Scarborough, ME 04074 USA ; The Graduate School of Biomedical
+Science and Engineering, University of Maine, Orono, ME 04469 USA. (2)Center for 
+Molecular Medicine, Maine Medical Center Research Institute, 81 Research Drive,
+Scarborough, ME 04074 USA. (3)Center for Molecular Medicine, Maine Medical Center
+Research Institute, 81 Research Drive, Scarborough, ME 04074 USA ; Department of 
+Medicine, Tufts University School of Medicine, Boston, MA USA. (4)Center for
+Molecular Medicine, Maine Medical Center Research Institute, 81 Research Drive,
+Scarborough, ME 04074 USA ; The Graduate School of Biomedical Science and
+Engineering, University of Maine, Orono, ME 04469 USA ; Department of Medicine,
+Tufts University School of Medicine, Boston, MA USA.
+
+BACKGROUND: Dysregulation of miRNAs that can act as tumor suppressors or
+oncogenes can result in tumorigenesis. Previously we demonstrated that miR-199b
+was significantly downregulated in acute myeloid leukemia (AML) and targets
+podocalyxin and discoidin domain receptor 1. Herein we investigated the
+functional role of miR-199b in AML and its prognostic implications.
+METHODS: Major approaches include transduction of hematopoietic stem cells and
+bone marrow transplantation, analyses of blood lineages, histone deacetylases
+(HDAC) inhibitors, and molecular and clinical data analyses of AML patients using
+The Cancer Genome Atlas (TCGA).
+RESULTS: We first examined the relative miR-199b expression in steady state
+hematopoiesis and showed CD33(+) myeloid progenitors had the highest miR-199b
+expression. Further, silencing of miR-199b in CD34(+) cells resulted in
+significant increases in CFU-GM colonies. Via TCGA we analyzed the molecular and 
+clinical characteristics of 166 AML cases to investigate a prognostic role for
+miR-199b. The Kaplan-Meier curves for high and low expression values of miR-199b 
+and the observed distribution of miRNA expression revealed the highly expressed
+group had significantly better survival outcomes (p < 0.016, log rank test).
+Additionally, there was significant difference between miR-199b expression across
+the AML subtypes with particularly low expression found in the FAB-M5 subtype.
+Furthermore, FAB-M5 subtype showed a poor prognosis with a 1-year survival rate
+of only 25 %, compared with 51 % survival in the overall sample (p < 0.024).
+Furthermore, significant inverse correlation of HoxA7 and HoxB6 expression with
+miR-199b was observed in FAB-M5 AML patients. Molecular mutations were analyzed
+among miR-199b high and low AML cases. Significant correlations in terms of
+association and survival outcomes were observed for NPMc and IDH1 mutations.
+Treatment of THP-1 cells (represents M5-subtype) with HDAC inhibitors AR-42,
+Panobinostat, or Decitabine showed miR-199b expression was significantly elevated
+upon AR-42 and Panobinostat treatment. To further understand the
+hematopathological consequences of decreased miR-199b, we employed a bone-marrow 
+transduce/transplant (BMT) mouse model. Interestingly, in vivo miR-199b silencing
+per-se in HSCs did not result in profound perturbations.
+CONCLUSIONS: Loss of miR-199b can lead to myeloproliferation while HDAC
+inhibitors restore miR-199b expression and promote apoptosis. Low miR-199b in AML
+patients correlates with worse overall survival and has prognostic significance
+for FAB-M5 subtype.
+
+PMCID: PMC4740997
+PMID: 26848406  [PubMed]
+
+
+2. PLoS One. 2016 Jan 22;11(1):e0146019. doi: 10.1371/journal.pone.0146019.
+eCollection 2016.
+
+Developmental Patterning as a Quantitative Trait: Genetic Modulation of the Hoxb6
+Mutant Skeletal Phenotype.
+
+Kappen C(1).
+
+Author information: 
+(1)Department of Developmental Biology, Pennington Biomedical Research
+Center/Louisiana State University System, 6400 Perkins Road, Baton Rouge,
+Louisiana, 70808, United States of America.
+
+The process of patterning along the anterior-posterior axis in vertebrates is
+highly conserved. The function of Hox genes in the axis patterning process is
+particularly well documented for bone development in the vertebral column and the
+limbs. We here show that Hoxb6, in skeletal elements at the cervico-thoracic
+junction, controls multiple independent aspects of skeletal pattern, implicating 
+discrete developmental pathways as substrates for this transcription factor. In
+addition, we demonstrate that Hoxb6 function is subject to modulation by genetic 
+factors. These results establish Hox-controlled skeletal pattern as a
+quantitative trait modulated by gene-gene interactions, and provide evidence that
+distinct modifiers influence the function of conserved developmental genes in
+fundamental patterning processes.
+
+PMCID: PMC4723086
+PMID: 26800342  [PubMed - in process]
+
+
+3. Development. 2016 Feb 1;143(3):437-48. doi: 10.1242/dev.133074. Epub 2015 Dec 30.
+
+Hoxb6 can interfere with somitogenesis in the posterior embryo through a
+mechanism independent of its rib-promoting activity.
+
+Casaca A(1), Nóvoa A(1), Mallo M(2).
+
+Author information: 
+(1)Instituto Gulbenkian de Ciência, Oeiras 2780-156, Portugal. (2)Instituto
+Gulbenkian de Ciência, Oeiras 2780-156, Portugal mallo@igc.gulbenkian.pt.
+
+Formation of the vertebrate axial skeleton requires coordinated Hox gene
+activity. Hox group 6 genes are involved in the formation of the thoracic area
+owing to their unique rib-promoting properties. Here we show that the linker
+region (LR) connecting the homeodomain and the hexapeptide is essential for Hoxb6
+rib-promoting activity in mice. The LR-defective Hoxb6 protein was still able to 
+bind a target enhancer together with Pax3, producing a dominant-negative effect, 
+indicating that the LR brings additional regulatory factors to target DNA
+elements. We also found an unexpected association between Hoxb6 and segmentation 
+in the paraxial mesoderm. In particular, Hoxb6 can disturb somitogenesis and
+anterior-posterior somite patterning by dysregulation of Lfng expression.
+Interestingly, this interaction occurred differently in thoracic versus more
+caudal embryonic areas, indicating functional differences in somitogenesis before
+and after the trunk-to-tail transition. Our results suggest the requirement of
+precisely regulated Hoxb6 expression for proper segmentation at tailbud stages.
+
+© 2016. Published by The Company of Biologists Ltd.
+
+PMID: 26718008  [PubMed - in process]
+
+
+4. Development. 2015 Nov 15;142(22):3859-68. doi: 10.1242/dev.126888. Epub 2015 Oct 
+8.
+
+Mesenchymal Hox6 function is required for mouse pancreatic endocrine cell
+differentiation.
+
+Larsen BM(1), Hrycaj SM(2), Newman M(2), Li Y(3), Wellik DM(4).
+
+Author information: 
+(1)Department of Internal Medicine, Division of Molecular Medicine and Genetics, 
+University of Michigan, Ann Arbor, MI 48109-2200, USA Cellular and Molecular
+Biology Program, University of Michigan, Ann Arbor, MI 48109-2200, USA.
+(2)Department of Internal Medicine, Division of Molecular Medicine and Genetics, 
+University of Michigan, Ann Arbor, MI 48109-2200, USA. (3)Department of Cell and 
+Developmental Biology, University of Michigan, Ann Arbor, MI 48109-2200, USA.
+(4)Department of Internal Medicine, Division of Molecular Medicine and Genetics, 
+University of Michigan, Ann Arbor, MI 48109-2200, USA Cellular and Molecular
+Biology Program, University of Michigan, Ann Arbor, MI 48109-2200, USA Department
+of Cell and Developmental Biology, University of Michigan, Ann Arbor, MI
+48109-2200, USA dwellik@umich.edu.
+
+Despite significant advances in our understanding of pancreatic endocrine cell
+development, the function of the pancreatic mesodermal niche in this process is
+poorly understood. Here we report a novel role for mouse Hox6 genes in pancreatic
+organogenesis. Hox6 genes are expressed exclusively in the mesoderm of the
+developing pancreas. Genetic loss of all three Hox6 paralogs (Hoxa6, Hoxb6 and
+Hoxc6) leads to a dramatic loss of endoderm-derived endocrine cells, including
+insulin-secreting ß-cells, and to mild delays and disruptions in pancreatic
+branching and exocrine differentiation. Ngn3-expressing pan-endocrine progenitor 
+cells are specified normally in Hox6 mutant pancreata, but fail to mature into
+hormone-producing cells. Reduced expression of Wnt5a is observed in mutant
+pancreatic mesenchyme, leading to subsequent loss of expression of the crucial
+Wnt inhibitors Sfrp3 and Dkk1 in endocrine progenitor cells. These results reveal
+a key role for Hox6 genes in establishing Wnt mesenchymal-epithelial crosstalk in
+pancreatic development.
+
+© 2015. Published by The Company of Biologists Ltd.
+
+PMCID: PMC4712882 [Available on 2016-11-15]
+PMID: 26450967  [PubMed - indexed for MEDLINE]
+
+
+5. Cancer Epidemiol Biomarkers Prev. 2015 Oct;24(10):1574-84. doi:
+10.1158/1055-9965.EPI-14-1270. Epub 2015 Jul 24.
+
+Network-Based Integration of GWAS and Gene Expression Identifies a HOX-Centric
+Network Associated with Serous Ovarian Cancer Risk.
+
+Kar SP, Tyrer JP, Li Q, Lawrenson K, Aben KK, Anton-Culver H, Antonenkova N,
+Chenevix-Trench G; Australian Cancer Study; Australian Ovarian Cancer Study
+Group, Baker H, Bandera EV, Bean YT, Beckmann MW, Berchuck A, Bisogna M, Bjørge
+L, Bogdanova N, Brinton L, Brooks-Wilson A, Butzow R, Campbell I, Carty K,
+Chang-Claude J, Chen YA, Chen Z, Cook LS, Cramer D, Cunningham JM, Cybulski C,
+Dansonka-Mieszkowska A, Dennis J, Dicks E, Doherty JA, Dörk T, du Bois A, Dürst
+M, Eccles D, Easton DF, Edwards RP, Ekici AB, Fasching PA, Fridley BL, Gao YT,
+Gentry-Maharaj A, Giles GG, Glasspool R, Goode EL, Goodman MT, Grownwald J,
+Harrington P, Harter P, Hein A, Heitz F, Hildebrandt MA, Hillemanns P, Hogdall E,
+Hogdall CK, Hosono S, Iversen ES, Jakubowska A, Paul J, Jensen A, Ji BT, Karlan
+BY, Kjaer SK, Kelemen LE, Kellar M, Kelley J, Kiemeney LA, Krakstad C,
+Kupryjanczyk J, Lambrechts D, Lambrechts S, Le ND, Lee AW, Lele S, Leminen A,
+Lester J, Levine DA, Liang D, Lissowska J, Lu K, Lubinski J, Lundvall L, Massuger
+L, Matsuo K, McGuire V, McLaughlin JR, McNeish IA, Menon U, Modugno F, Moysich
+KB, Narod SA, Nedergaard L, Ness RB, Nevanlinna H, Odunsi K, Olson SH, Orlow I,
+Orsulic S, Weber RP, Pearce CL, Pejovic T, Pelttari LM, Permuth-Wey J, Phelan CM,
+Pike MC, Poole EM, Ramus SJ, Risch HA, Rosen B, Rossing MA, Rothstein JH, Rudolph
+A, Runnebaum IB, Rzepecka IK, Salvesen HB, Schildkraut JM, Schwaab I, Shu XO,
+Shvetsov YB, Siddiqui N, Sieh W, Song H, Southey MC, Sucheston-Campbell LE,
+Tangen IL, Teo SH, Terry KL, Thompson PJ, Timorek A, Tsai YY, Tworoger SS, van
+Altena AM, Van Nieuwenhuysen E, Vergote I, Vierkant RA, Wang-Gohrke S, Walsh C,
+Wentzensen N, Whittemore AS, Wicklund KG, Wilkens LR, Woo YL, Wu X, Wu A, Yang H,
+Zheng W, Ziogas A, Sellers TA, Monteiro AN, Freedman ML, Gayther SA, Pharoah PD.
+
+BACKGROUND: Genome-wide association studies (GWAS) have so far reported 12 loci
+associated with serous epithelial ovarian cancer (EOC) risk. We hypothesized that
+some of these loci function through nearby transcription factor (TF) genes and
+that putative target genes of these TFs as identified by coexpression may also be
+enriched for additional EOC risk associations.
+METHODS: We selected TF genes within 1 Mb of the top signal at the 12 genome-wide
+significant risk loci. Mutual information, a form of correlation, was used to
+build networks of genes strongly coexpressed with each selected TF gene in the
+unified microarray dataset of 489 serous EOC tumors from The Cancer Genome Atlas.
+Genes represented in this dataset were subsequently ranked using a gene-level
+test based on results for germline SNPs from a serous EOC GWAS meta-analysis
+(2,196 cases/4,396 controls).
+RESULTS: Gene set enrichment analysis identified six networks centered on TF
+genes (HOXB2, HOXB5, HOXB6, HOXB7 at 17q21.32 and HOXD1, HOXD3 at 2q31) that were
+significantly enriched for genes from the risk-associated end of the ranked list 
+(P < 0.05 and FDR < 0.05). These results were replicated (P < 0.05) using an
+independent association study (7,035 cases/21,693 controls). Genes underlying
+enrichment in the six networks were pooled into a combined network.
+CONCLUSION: We identified a HOX-centric network associated with serous EOC risk
+containing several genes with known or emerging roles in serous EOC development.
+IMPACT: Network analysis integrating large, context-specific datasets has the
+potential to offer mechanistic insights into cancer susceptibility and prioritize
+genes for experimental characterization.
+
+©2015 American Association for Cancer Research.
+
+PMCID: PMC4592449
+PMID: 26209509  [PubMed - in process]
+
+
+6. BMC Genomics. 2014 Jun 1;15:416. doi: 10.1186/1471-2164-15-416.
+
+Stability of gene expression and epigenetic profiles highlights the utility of
+patient-derived paediatric acute lymphoblastic leukaemia xenografts for
+investigating molecular mechanisms of drug resistance.
+
+Wong NC, Bhadri VA, Maksimovic J, Parkinson-Bates M, Ng J, Craig JM, Saffery R,
+Lock RB(1).
+
+Author information: 
+(1)Children's Cancer Institute Australia for Medical Research, Lowy Cancer
+Research Centre, UNSW, PO Box 81, Sydney, NSW 2052, Australia.
+rlock@ccia.unsw.edu.au.
+
+BACKGROUND: Patient-derived tumour xenografts are an attractive model for
+preclinical testing of anti-cancer drugs. Insights into tumour biology and
+biomarkers predictive of responses to chemotherapeutic drugs can also be gained
+from investigating xenograft models. As a first step towards examining the
+equivalence of epigenetic profiles between xenografts and primary tumours in
+paediatric leukaemia, we performed genome-scale DNA methylation and gene
+expression profiling on a panel of 10 paediatric B-cell precursor acute
+lymphoblastic leukaemia (BCP-ALL) tumours that were stratified by prednisolone
+response.
+RESULTS: We found high correlations in DNA methylation and gene expression
+profiles between matching primary and xenograft tumour samples with Pearson's
+correlation coefficients ranging between 0.85 and 0.98. In order to demonstrate
+the potential utility of epigenetic analyses in BCP-ALL xenografts, we identified
+DNA methylation biomarkers that correlated with prednisolone responsiveness of
+the original tumour samples. Differential methylation of CAPS2, ARHGAP21, ARX and
+HOXB6 were confirmed by locus specific analysis. We identified 20 genes showing
+an inverse relationship between DNA methylation and gene expression in
+association with prednisolone response. Pathway analysis of these genes
+implicated apoptosis, cell signalling and cell structure networks in prednisolone
+responsiveness.
+CONCLUSIONS: The findings of this study confirm the stability of epigenetic and
+gene expression profiles of paediatric BCP-ALL propagated in mouse xenograft
+models. Further, our preliminary investigation of prednisolone sensitivity
+highlights the utility of mouse xenograft models for preclinical development of
+novel drug regimens with parallel investigation of underlying gene expression and
+epigenetic responses associated with novel drug responses.
+
+PMCID: PMC4057609
+PMID: 24885906  [PubMed - indexed for MEDLINE]
+
+
+7. Arch Oral Biol. 2014 Aug;59(8):783-9. doi: 10.1016/j.archoralbio.2014.05.001.
+Epub 2014 May 10.
+
+Epigenetic repression of HOXB cluster in oral cancer cell lines.
+
+Xavier FC(1), Destro MF(2), Duarte CM(2), Nunes FD(3).
+
+Author information: 
+(1)Department of Propaedeutics and Integrated Clinic, School of Dentistry,
+Federal University of Bahia, Av. Araujo Pinho, 62, Canela, Salvador 40110-150
+Bahia, Brazil. (2)Department of Stomatology, School of Dentistry, University of
+São Paulo, Av. Prof. Lineu Prestes, 2227, Butantã São Paulo, 05508-000 Brazil.
+(3)Department of Stomatology, School of Dentistry, University of São Paulo, Av.
+Prof. Lineu Prestes, 2227, Butantã São Paulo, 05508-000 Brazil. Electronic
+address: fadnunes@usp.br.
+
+OBJECTIVE: Aberrant DNA methylation is a fundamental transcriptional control
+mechanism in carcinogenesis. The expression of homeobox genes is usually
+controlled by an epigenetic mechanism, such as the methylation of CpG islands in 
+the promoter region. The aim of this study was to describe the differential
+methylation pattern of HOX genes in oral squamous cell carcinoma (OSCC) cell
+lines and transcript status in a group of hypermethylated and hypomethylated
+genes.
+DESIGN: Quantitative analysis of DNA methylation was performed on two OSCC cell
+lines (SCC4 and SCC9) using a method denominated Human Homeobox Genes EpiTect
+Methyl qPCR Arrays, which allowed fast, precise methylation detection of 24 HOX
+specific genes without bisulfite conversion.
+RESULTS: Methylation greater than 50% was detected in HOXA11, HOXA6, HOXA7,
+HOXA9, HOXB1, HOXB2, HOXB3, HOXB4, HOXB5, HOXB6, HOXC8 and HOXD10. Both cell
+lines demonstrated similar hypermethylation status for eight HOX genes. A similar
+pattern of promoter hypermethylation and hypomethylation was demonstrated for the
+HOXB cluster and HOXA cluster, respectively. Moreover, the hypermethylation
+profile of the HOXB cluster, especially HOXB4, was correlated with decreased
+transcript expression, which was restored following treatment with
+5-aza-2'-deoxycytidine.
+CONCLUSIONS: The homeobox methylation profile in OSCC cell lines is consistent
+with an epigenetic biomarker.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+PMID: 24859765  [PubMed - indexed for MEDLINE]
+
+
+8. Hum Reprod. 2014 Apr;29(4):781-90. doi: 10.1093/humrep/deu004. Epub 2014 Feb 18.
+
+Regulation of endometrial receptivity by the highly expressed HOXA9, HOXA11 and
+HOXD10 HOX-class homeobox genes.
+
+Xu B(1), Geerts D, Bu Z, Ai J, Jin L, Li Y, Zhang H, Zhu G.
+
+Author information: 
+(1)Reproductive Medicine Center, Tongji Hospital, Tongji Medicine College,
+Huazhong University of Science and Technology, 1095 JieFang Avenue, Wuhan 430030,
+People's Republic of China.
+
+STUDY QUESTION: Are other HOX genes, in addition to HOXA10, involved in
+endometrial receptivity?
+SUMMARY ANSWER: The highly expressed HOXA9, HOXA11 and HOXD10 genes also appear
+to be involved in endometrial receptivity.
+WHAT IS KNOWN ALREADY: Within the HOX family of homeobox transcription factor
+genes are the leading candidates for the regulation of embryonic implantation. A 
+crucial role of HOXA10 in endometrial receptivity has been well established.
+STUDY DESIGN, SIZE, DURATION: To identify HOX candidate genes, we performed data 
+mining on all 39 human HOX genes in the 'Human body index' gene expression
+database of normal human tissue. The temporal and spatial expression pattern of
+four highly expressed HOX genes in the human endometrium was determined. To
+further investigate the function of these Hox genes, we used a robust in vivo
+mouse model in which we blocked maternal Hox gene expression.
+PARTICIPANTS/MATERIALS, SETTING AND METHODS: Analysis of a gene expression
+profile set in the public domain consisting of 504 samples representing 95
+different normal human tissues, showed that in addition to HOXA10, also HOXA9,
+HOXA11, HOXB6 and HOXD10 mRNA showed increased expression in the human
+endometrium (16 samples). The temporal and spatial expression pattern of these
+four HOX genes throughout the menstrual cycle was determined in the endometrium
+from 27 female patients eligible for IVF-embryo transfer with a normal cycle by
+quantitative real-time PCR (qRT-PCR), western blot and immunohistochemistry. The 
+role of maternal Hoxa9, Hoxa11 and Hoxd10 was assessed in a mouse implantation
+model by expression knockdown using RNA interference. Forty mice were transfected
+with Hoxa9-, Hoxa11- or Hoxd10-specific small hairpin RNA (shRNA) constructs or a
+vector control by injection into the uterine horn at Day 2 after vaginal plug
+detection (Day 1) (160 mice in total). The effects were examined by qRT-PCR and
+western blot at Day 4 and litter sizes counted at Day 9 of pregnancy.
+MAIN RESULTS AND THE ROLE OF CHANCE: HOXA10, HOXA9, HOXA11 and HOXD10 all showed 
+increased expression during the mid-secretory phase of the menstrual cycle (P <
+0.01). Knockdown of Hoxa9, Hoxa11 and Hoxd10 in the murine uterus resulted in
+significantly reduced average implantation rates (P < 0.01) and, with regard to
+four Hox target genes, also correlated with a significantly increased empty
+spiracles homolog 2 (Emx2) and insulin-like growth factor binding protein-1
+(Igfbp1), and decreased integrin ß3 (Itgb3) and leukemia inhibitory factor (Lif),
+expression (P < 0.01).
+LIMITATIONS, REASONS FOR CAUTION: Menstrual cycle stage was not confirmed by
+serum hormone analysis. We verified the absence of significant differences in
+stage-specific expression of the reference genes used in our study (ACTB/Actb and
+GAPDH/Gapdh) and therefore possible limitations of this approach were minimized. 
+In addition, the translatability of our data from a mouse model to patients needs
+to be investigated further.
+WIDER IMPLICATIONS OF THE FINDINGS: We provide evidence that three other HOX
+genes in addition to HOXA10 are involved in endometrial receptivity, and that
+part of their function is asserted through several known HOX target genes,
+suggesting the presence of a central HOX signal transduction pathway.
+
+PMID: 24549215  [PubMed - indexed for MEDLINE]
+
+
+9. Sci Rep. 2013 Oct 22;3:2178. doi: 10.1038/srep02178.
+
+Hox genes are involved in vascular wall-resident multipotent stem cell
+differentiation into smooth muscle cells.
+
+Klein D(1), Benchellal M, Kleff V, Jakob HG, Ergün S.
+
+Author information: 
+(1)Institute of Cell Biology (Cancer Research), University of Duisburg-Essen,
+University Hospital, 45122 Essen, North Rhine-Westphalia, Germany.
+
+Human vascular wall-resident CD44+ multipotent stem cells (VW-MPSCs) within the
+vascular adventitia are capable to differentiate into pericytes and smooth muscle
+cells (SMC). This study demonstrates HOX-dependent differentiation of CD44(+)
+VW-MPSCs into SMC that involves epigenetic modification of transgelin as a
+down-stream regulated gene. First, HOXB7, HOXC6 and HOXC8 were identified to be
+differentially expressed in VW-MPSCs as compared to terminal differentiated human
+aortic SMC, endothelial cells and undifferentiated pluripotent embryonic stem
+cells. Silencing these HOX genes in VW-MPSCs significantly reduced their
+sprouting capacity and increased expression of the SMC markers transgelin and
+calponin and the histone gene histone H1. Furthermore, the methylation pattern of
+the TAGLN promoter was altered. In summary, our findings suggest a role for
+certain HOX genes in regulating differentiation of human VW-MPSC into SMCs that
+involves epigenetic mechanisms. This is critical for understanding
+VW-MPSC-dependent vascular disease processes such as neointima formation and
+tumor vascularization.
+
+PMCID: PMC3804857
+PMID: 24145756  [PubMed - indexed for MEDLINE]
+
+
+10. J Urol. 2013 Nov;190(5):1884-92. doi: 10.1016/j.juro.2013.05.061. Epub 2013 May
+30.
+
+Hypospadias and genes related to genital tubercle and early urethral development.
+
+Carmichael SL(1), Ma C, Choudhry S, Lammer EJ, Witte JS, Shaw GM.
+
+Author information: 
+(1)Department of Pediatrics, Division of Neonatology, Stanford University School 
+of Medicine, Stanford, California. Electronic address: scarmichael@stanford.edu.
+
+PURPOSE: We determined whether variants in genes associated with genital tubercle
+(the anlage for the penis) and early urethral development were associated with
+hypospadias in humans.
+MATERIALS AND METHODS: We examined 293 relatively common tag single nucleotide
+polymorphisms in BMP4, BMP7, FGF8, FGF10, FGFR2, HOXA13, HOXD13, HOXA4, HOXB6,
+SRY, WT1, WTAP, SHH, GLI1, GLI2 and GLI3. The analysis included 624 cases (81
+mild, 319 moderate, 209 severe, 15 undetermined severity) and 844 population
+based nonmalformed male controls born in California from 1990 to 2003.
+RESULTS: There were 28 single nucleotide polymorphisms for which any of the
+comparisons (ie overall or for a specific severity) had a p value of less than
+0.01. The homozygous variant genotypes for 4 single nucleotide polymorphisms in
+BMP7 were associated with at least a twofold increased risk of hypospadias
+regardless of severity. Five single nucleotide polymorphisms for FGF10 were
+associated with threefold to fourfold increased risks, regardless of severity.
+For 4 of them the results were restricted to whites. For GLI1, GLI2 and GLI3
+there were 12 associated single nucleotide polymorphisms but results were
+inconsistent by severity and race/ethnicity. For SHH 1 single nucleotide
+polymorphism was associated with a 2.4-fold increased risk of moderate
+hypospadias. For WT1 6 single nucleotide polymorphisms were associated with
+approximately a twofold increased risk, primarily for severe hypospadias.
+CONCLUSIONS: This study provides evidence that single nucleotide polymorphisms in
+several genes that contribute to genital tubercle and early urethral development 
+are associated with hypospadias risk.
+
+Copyright © 2013 American Urological Association Education and Research, Inc.
+Published by Elsevier Inc. All rights reserved.
+
+PMCID: PMC4103581
+PMID: 23727413  [PubMed - indexed for MEDLINE]
+
+
+11. Proc Natl Acad Sci U S A. 2013 Jun 25;110(26):10682-6. doi:
+10.1073/pnas.1300592110. Epub 2013 May 14.
+
+Role of a polymorphism in a Hox/Pax-responsive enhancer in the evolution of the
+vertebrate spine.
+
+Guerreiro I(1), Nunes A, Woltering JM, Casaca A, Nóvoa A, Vinagre T, Hunter ME,
+Duboule D, Mallo M.
+
+Author information: 
+(1)Instituto Gulbenkian de Ciência, 2780-156 Oeiras, Portugal.
+
+Comment in
+    Proc Natl Acad Sci U S A. 2013 Jun 25;110(26):10473-4.
+
+Patterning of the vertebrate skeleton requires the coordinated activity of Hox
+genes. In particular, Hox10 proteins are essential to set the transition from
+thoracic to lumbar vertebrae because of their rib-repressing activity. In snakes,
+however, the thoracic region extends well into Hox10-expressing areas of the
+embryo, suggesting that these proteins are unable to block rib formation. Here,
+we show that this is not a result of the loss of rib-repressing properties by the
+snake proteins, but rather to a single base pair change in a Hox/Paired box
+(Pax)-responsive enhancer, which prevents the binding of Hox proteins. This
+polymorphism is also found in Paenungulata, such as elephants and manatees, which
+have extended rib cages. In vivo, this modified enhancer failed to respond to
+Hox10 activity, supporting its role in the extension of rib cages. In contrast,
+the enhancer could still interact with Hoxb6 and Pax3 to promote rib formation.
+These results suggest that a polymorphism in the Hox/Pax-responsive enhancer may 
+have played a role in the evolution of the vertebrate spine by differently
+modulating its response to rib-suppressing and rib-promoting Hox proteins.
+
+PMCID: PMC3696775
+PMID: 23674686  [PubMed - indexed for MEDLINE]
+
+
+12. Exp Hematol. 2013 Jun;41(6):567-581.e9. doi: 10.1016/j.exphem.2013.02.009. Epub
+2013 Feb 21.
+
+Region-specific Etv2 ablation revealed the critical origin of hemogenic capacity 
+from Hox6-positive caudal-lateral primitive mesoderm.
+
+Kataoka H(1), Hayashi M, Kobayashi K, Ding G, Tanaka Y, Nishikawa S.
+
+Author information: 
+(1)Laboratory for Stem Cell Biology, RIKEN Center for Developmental Biology,
+Kobe, Japan. kataokah@cdb.riken.jp
+
+Hematopoietic cells (HPCs) develop from hemogenic endothelial cells (ECs), a
+specialized type of ECs undergoing hematopoietic transition. However, the
+mesoderm origin for hemogenic ECs or HPCs has not been clarified. To examine the 
+origin for hemogenic mesoderm, we inactivated Etv2, a master regulator for EC/HPC
+commitment, in specific regions. Region-specific Etv2 ablation in early mesoderm 
+caused local EC differentiation block, resulting in the loss of specific vascular
+beds without compensatory migration of residual ECs into avascular area. This
+feature of local EC/HPC differentiation block was correlated to the hemogenic
+potential of each mesoderm subset. We found that caudal-lateral mesoderm of
+E7.5-8.5 embryos represent the pre-committed population critical for generating
+hemogenic ECs. Etv2 ablation in caudal-lateral mesoderm by Hoxb6 Cre or
+Hoxb6CreER transgene affected vitelline plexus formation and intra-aortic
+hematopoietic clusters. In differentiated embryonic stem cells, this mesoderm
+subset marked by Hoxb6-lateral mesoderm promoter showed enriched T lymphopoietic 
+potential among Flk-1(+) cells, which could be regarded as a characteristic for
+definitive HPCs. These findings indicate that critical mesoderm precursors
+possibly for definitive type hemogenic ECs are regionally specified in primitive 
+mesoderm, suggesting that Hoxb6(+) caudal-lateral mesoderm represents the
+critical source of HPCs, which are potentially useful to enrich definitive HPCs
+from embryonic stem cells.
+
+Copyright © 2013 ISEH - Society for Hematology and Stem Cells. Published by
+Elsevier Inc. All rights reserved.
+
+PMID: 23438573  [PubMed - indexed for MEDLINE]
+
+
+13. Proc Natl Acad Sci U S A. 2012 Jun 5;109(23):9077-82. doi:
+10.1073/pnas.1116933109. Epub 2012 May 17.
+
+Evidence for a functional role of epigenetically regulated midcluster HOXB genes 
+in the development of Barrett esophagus.
+
+di Pietro M(1), Lao-Sirieix P, Boyle S, Cassidy A, Castillo D, Saadi A, Eskeland 
+R, Fitzgerald RC.
+
+Author information: 
+(1)Medical Research Council Cancer Cell Unit, Hutchison Medical Research Council 
+Research Centre, CB2 0XZ Cambridge, United Kingdom.
+
+Barrett esophagus (BE) is a human metaplastic condition that is the only known
+precursor to esophageal adenocarcinoma. BE is characterized by a posterior
+intestinal-like phenotype in an anterior organ and therefore it is reminiscent of
+homeotic transformations, which can occur in transgenic animal models during
+embryonic development as a consequence of mutations in HOX genes. In humans,
+acquired deregulation of HOX genes during adulthood has been linked to
+carcinogenesis; however, little is known about their role in the pathogenesis of 
+premalignant conditions. We hypothesized that HOX genes may be implicated in the 
+development of BE. We demonstrated that three midcluster HOXB genes (HOXB5,
+HOXB6, and HOXB7) are overexpressed in BE, compared with the anatomically
+adjacent normal esophagus and gastric cardia. The midcluster HOXB gene signature 
+in BE is identical to that seen in normal colonic epithelium. Ectopic expression 
+of these three genes in normal squamous esophageal cells in vitro induces markers
+of intestinal differentiation, such as KRT20, MUC2, and VILLIN. In BE-associated 
+adenocarcinoma, the activation midcluster HOXB gene is associated with loss of
+H3K27me3 and gain of AcH3, compared with normal esophagus. These changes in
+histone posttranslational modifications correlate with specific chromatin
+decompaction at the HOXB locus. We suggest that epigenetically regulated
+alterations of HOX gene expression can trigger changes in the transcriptional
+program of adult esophageal cells, with implications for the early stages of
+carcinogenesis.
+
+PMCID: PMC3384195
+PMID: 22603795  [PubMed - indexed for MEDLINE]
+
+
+14. Hum Reprod Update. 2012 May-Jun;18(3):260-83. doi: 10.1093/humupd/dms002. Epub
+2012 Feb 26.
+
+Aetiology of hypospadias: a systematic review of genes and environment.
+
+van der Zanden LF(1), van Rooij IA, Feitz WF, Franke B, Knoers NV, Roeleveld N.
+
+Author information: 
+(1)Department of Epidemiology, Biostatistics and HTA, Radboud University Nijmegen
+Medical Centre, 6500 HB Nijmegen, The Netherlands. l.vanderzanden@ebh.umcn.nl
+
+BACKGROUND: Hypospadias is a common congenital malformation of the male external 
+genitalia. Most cases have an unknown aetiology, which is probably a mix of
+monogenic and multifactorial forms, implicating both genes and environmental
+factors. This review summarizes current knowledge about the aetiology of
+hypospadias.
+METHODS: Pubmed was used to identify studies on hypospadias aetiology published
+between January 1995 and February 2011. Reference lists of the selected
+manuscripts were also searched to identify additional studies, including those
+published before 1995.
+RESULTS: The search provided 922 articles and 169 articles were selected for this
+review. Studies screening groups of patients with hypospadias for single gene
+defects found mutations in WT1, SF1, BMP4, BMP7, HOXA4, HOXB6, FGF8, FGFR2, AR,
+HSD3B2, SRD5A2, ATF3, MAMLD1, MID1 and BNC2. However, most investigators are
+convinced that single mutations do not cause the majority of isolated hypospadias
+cases. Indeed, associations were found with polymorphisms in FGF8, FGFR2, AR,
+HSD17B3, SRD5A2, ESR1, ESR2, ATF3, MAMLD1, DGKK, MID1, CYP1A1, GSTM1 and GSTT1.
+In addition, gene expression studies indentified CTGF, CYR61 and EGF as candidate
+genes. Environmental factors consistently implicated in hypospadias are low
+birthweight, maternal hypertension and pre-eclampsia, suggesting that placental
+insufficiency may play an important role in hypospadias aetiology. Exogenous
+endocrine-disrupting chemicals have the potential to induce hypospadias but it is
+unclear whether human exposure is high enough to exert this effect. Other
+environmental factors have also been associated with hypospadias but, for most,
+the results are inconsistent.
+CONCLUSIONS: Although a number of contributors to the aetiology of hypospadias
+have been identified, the majority of risk factors remain unknown.
+
+PMID: 22371315  [PubMed - indexed for MEDLINE]
+
+
+15. Cancer Genet. 2011 May;204(5):252-9. doi: 10.1016/j.cancergen.2011.02.003.
+
+Expression of HOXB genes is significantly different in acute myeloid leukemia
+with a partial tandem duplication of MLL vs. a MLL translocation: a
+cross-laboratory study.
+
+Liu HC(1), Shih LY, May Chen MJ, Wang CC, Yeh TC, Lin TH, Chen CY, Lin CJ, Liang 
+DC.
+
+Author information: 
+(1)Division of Pediatric Hematology-Oncology, Mackay Memorial Hospital, Taipei,
+Taiwan.
+
+In acute myeloid leukemia (AML), the mixed lineage leukemia (MLL) gene may be
+rearranged to generate a partial tandem duplication (PTD), or fused to partner
+genes through a chromosomal translocation (tMLL). In this study, we first
+explored the differentially expressed genes between MLL-PTD and tMLL using gene
+expression profiling of our cohort (15 MLL-PTD and 10 tMLL) and one published
+data set. The top 250 probes were chosen from each set, resulting in 29 common
+probes (21 unique genes) to both sets. The selected genes include four HOXB
+genes, HOXB2, B3, B5, and B6. The expression values of these HOXB genes
+significantly differ between MLL-PTD and tMLL cases. Clustering and
+classification analyses were thoroughly conducted to support our gene selection
+results. Second, as MLL-PTD, FLT3-ITD, and NPM1 mutations are identified in AML
+with normal karyotypes, we briefly studied their impact on the HOXB genes.
+Another contribution of this study is to demonstrate that using public data from 
+other studies enriches samples for analysis and yields more conclusive results.
+
+2011 Elsevier Inc. All rights reserved.
+
+PMID: 21665178  [PubMed - indexed for MEDLINE]
+
+
+16. Genome Res. 2011 May;21(5):798-810. doi: 10.1101/gr.111385.110. Epub 2011 Mar 30.
+
+MicroRNA programs in normal and aberrant stem and progenitor cells.
+
+Arnold CP(1), Tan R, Zhou B, Yue SB, Schaffert S, Biggs JR, Doyonnas R, Lo MC,
+Perry JM, Renault VM, Sacco A, Somervaille T, Viatour P, Brunet A, Cleary ML, Li 
+L, Sage J, Zhang DE, Blau HM, Chen C, Chen CZ.
+
+Author information: 
+(1)Department of Microbiology and Immunology, Stanford University School of
+Medicine, Stanford, California 94305, USA.
+
+Emerging evidence suggests that microRNAs (miRNAs), an abundant class of
+~22-nucleotide small regulatory RNAs, play key roles in controlling the
+post-transcriptional genetic programs in stem and progenitor cells. Here we
+systematically examined miRNA expression profiles in various adult
+tissue-specific stem cells and their differentiated counterparts. These analyses 
+revealed miRNA programs that are common or unique to blood, muscle, and neural
+stem cell populations and miRNA signatures that mark the transitions from
+self-renewing and quiescent stem cells to proliferative and differentiating
+progenitor cells. Moreover, we identified a stem/progenitor transition miRNA
+(SPT-miRNA) signature that predicts the effects of genetic perturbations, such as
+loss of PTEN and the Rb family, AML1-ETO9a expression, and MLL-AF10
+transformation, on self-renewal and proliferation potentials of mutant
+stem/progenitor cells. We showed that some of the SPT-miRNAs control the
+self-renewal of embryonic stem cells and the reconstitution potential of
+hematopoietic stem cells (HSCs). Finally, we demonstrated that SPT-miRNAs
+coordinately regulate genes that are known to play roles in controlling HSC
+self-renewal, such as Hoxb6 and Hoxa4. Together, these analyses reveal the miRNA 
+programs that may control key processes in normal and aberrant stem and
+progenitor cells, setting the foundations for dissecting post-transcriptional
+regulatory networks in stem cells.
+
+PMCID: PMC3083097
+PMID: 21451113  [PubMed - indexed for MEDLINE]
+
+
+17. Clin Genet. 2011 Nov;80(5):489-92. doi: 10.1111/j.1399-0004.2010.01573.x. Epub
+2010 Oct 18.
+
+An autosomal recessive syndrome of severe cognitive impairment, dysmorphic facies
+and skeletal abnormalities maps to the long arm of chromosome 17.
+
+Al-Owain M(1), Alazami AM, Alkuraya FS.
+
+Author information: 
+(1)Department of Medical Genetics, King Faisal Specialist Hospital and Research
+Center, Riyadh, Saudi Arabia.
+
+Cognitive impairment (CI) is one of the most challenging referrals to the
+clinical genetics service. The different algorithms proposed to assist in the
+molecular diagnosis of CI rest largely on the distinction between syndromic and
+non-syndromic forms. We have identified what appears to be a novel syndromic form
+of CI, the variable phenotype of which comprises severe CI, hirsutism, dysmorphic
+facies and skeletal abnormalities, and have mapped it to a single locus on
+chromosome 17q21.31-17q22 spanning 12.2 Mb. Two candidate genes, HOXB6 and
+PPP1R9B were sequenced but no pathogenic alterations were identified. This report
+adds to the growing list of autosomal recessive syndromic CI conditions and
+defines a linkage interval harboring a gene which probably plays a vital role in 
+brain development.
+
+© 2010 John Wiley & Sons A/S.
+
+PMID: 20950399  [PubMed - indexed for MEDLINE]
+
+
+18. Pediatr Blood Cancer. 2010 Dec 1;55(6):1072-82. doi: 10.1002/pbc.22749.
+
+HOX gene expression in phenotypic and genotypic subgroups and low HOXA gene
+expression as an adverse prognostic factor in pediatric ALL.
+
+Starkova J(1), Zamostna B, Mejstrikova E, Krejci R, Drabkin HA, Trka J.
+
+Author information: 
+(1)CLIP, Childhood Leukaemia Investigation Prague, 2nd Faculty of Medicine,
+Charles University in Prague, Prague, Czech Republic.
+julia.starkova@lfmotol.cuni.cz
+
+BACKGROUND: HOX genes play an important role in both normal lymphopoiesis and
+leukemogenesis. However, HOX expression patterns in leukemia cells compared to
+normal lymphoid progenitors have not been systematically studied in acute
+lymphoblastic leukemia (ALL) subtypes.
+PROCEDURE: The RNA expression levels of HOXA, HOXB, and CDX1/2 genes were
+analyzed by qRT-PCR in a cohort of 61 diagnostic pediatric ALL samples and
+FACS-sorted subpopulations of normal lymphoid progenitors.
+RESULTS: The RNA expression of HOXA7-10, HOXA13, and HOXB2-4 genes was
+exclusively detected in leukemic cells and immature progenitors. The RNA
+expression of HOXB6 and CDX2 genes was exclusively detected in leukemic cells but
+not in B-lineage cells at any of the studied developmental stages. HOXA3-4,
+HOXA7, and HOXB3-4 genes were differentially expressed between BCP-ALL and T-ALL 
+subgroups, and among genotypically defined MLL/AF4, TEL/AML1, BCR/ABL,
+hyperdiploid and normal karyotype subgroups. However, this differential
+expression did not define specific clusters in hierarchical cluster analysis.
+HOXA7 gene was low expressed at the RNA level in patients with hyperdiploid
+leukemia, whereas HOXB7 and CDX2 genes were low expressed in TEL/AML1-positive
+and BCR/ABL-positive cases, respectively. In contrast to previous findings in
+acute myeloid leukemia, high HOXA RNA expression was associated with an excellent
+prognosis in Cox's regression model (P = 0.03). In MLL/AF4-positive ALL, lower
+HOXA RNA expression correlated with the methylation status of their promoters.
+CONCLUSIONS: HOX gene RNA expression cannot discriminate leukemia subgroups or
+relative maturity of leukemic cells. However, HOXA RNA expression correlates with
+prognosis, and particular HOX genes are expressed in specific genotypically
+characterized subgroups.
+
+PMID: 20672366  [PubMed - indexed for MEDLINE]
+
+
+19. Genesis. 2010 Aug;48(8):479-84. doi: 10.1002/dvg.20644.
+
+A Tlx2-Cre mouse line uncovers essential roles for hand1 in extraembryonic and
+lateral mesoderm.
+
+Maska EL, Cserjesi P, Hua LL, Garstka ME, Brody HM, Morikawa Y.
+
+Hand1 regulates development of numerous tissues within the embryo, extraembryonic
+mesoderm, and trophectoderm. Systemic loss of Hand1 results in early embryonic
+lethality but the cause has remained unknown. To determine if Hand1 expression in
+extraembryonic mesoderm is essential for embryonic survival, Hand1 was
+conditionally deleted using the HoxB6-Cre mouse line that expresses Cre in
+extraembryonic and lateral mesoderm. Deletion of Hand1 using HoxB6-Cre resulted
+in embryonic lethality identical to systemic knockout. To determine if lethality 
+is due to Hand1 function in extraembryonic mesoderm or lateral mesoderm, we
+generated a Tlx2-Cre mouse line expressing Cre in lateral mesoderm but not
+extraembryonic tissues. Deletion of Hand1 using the Tlx2-Cre line results in
+embryonic survival with embryos exhibiting herniated gut and thin enteric smooth 
+muscle. Our results show that Hand1 regulates development of lateral mesoderm
+derivatives and its loss in extraembryonic mesoderm is the primary cause of
+lethality in Hand1-null embryos.
+
+(c) 2010 Wiley-Liss, Inc.
+
+PMCID: PMC2955361
+PMID: 20506548  [PubMed - indexed for MEDLINE]
+
+
+20. Cloning Stem Cells. 2009 Jun;11(2):269-79. doi: 10.1089/clo.2008.0068.
+
+HOXC10 as a potential marker for discriminating between amnion- and
+decidua-derived mesenchymal stem cells.
+
+Hwang JH(1), Seok OS, Song HR, Jo JY, Lee JK.
+
+Author information: 
+(1)Department of Obstetrics and Gynecology, Korea University Guro Hospital, Korea
+University College of Medicine , Seoul, Korea.
+
+The HOX family of genes plays a fundamental role in the morphogenesis of
+vertebrate embryonic cells. HOX genes are thought to be important for the
+regulation of stem cells. We investigated HOX gene expression in mesenchymal stem
+cells (MSCs) from human placentas. We isolated MSCs from human placentas and
+confirmed stemness by fluorescence-activated cell sorting (FACS) analysis and
+differentiation studies. Using reverse transcription PCR, mRNA expression of 39
+Class I HOX genes was measured in the MSCs. The expression of HOXB6, C4, C8, C10,
+D3, D4, and D10 were measured by Western blot analysis. HOXC10 was expressed in
+10 of 10 amnion-derived MSCs but in only 2 of 10 decidua-derived MSCs. HOXC4 and 
+D10 were expressed in 100% of both amnion-derived MSCs and deciduas-derived MSCs.
+HOXD4 was silent in all amnion-derived MSCs and deciduas-derived MSCs (n = 10).
+HOX gene activation patterns might be a useful indicator for the detection of
+MSCs of different tissue origins. We demonstrated that HOXC10 is a gene that may 
+discriminate between amnion-derived MSCs and decidua-derived MSCs.
+
+PMID: 19522674  [PubMed - indexed for MEDLINE]
+
+
+21. Mol Biol Cell. 2009 Aug;20(15):3543-51. doi: 10.1091/mbc.E09-02-0114. Epub 2009
+May 28.
+
+Induction of HoxB transcription by retinoic acid requires actin polymerization.
+
+Ferrai C(1), Naum-Onganía G, Longobardi E, Palazzolo M, Disanza A, Diaz VM,
+Crippa MP, Scita G, Blasi F.
+
+Author information: 
+(1)San Raffaele Scientific Institute and University Vita Salute San Raffaele,
+20132 Milan, Italy.
+
+We have analyzed the role of actin polymerization in retinoic acid (RA)-induced
+HoxB transcription, which is mediated by the HoxB regulator Prep1. RA induction
+of the HoxB genes can be prevented by the inhibition of actin polymerization.
+Importantly, inhibition of actin polymerization specifically affects the
+transcription of inducible Hox genes, but not that of their transcriptional
+regulators, the RARs, nor of constitutively expressed, nor of actively
+transcribed Hox genes. RA treatment induces the recruitment to the HoxB2 gene
+enhancer of a complex composed of "elongating" RNAPII, Prep1, beta-actin, and
+N-WASP as well as the accessory splicing components p54Nrb and PSF. We show that 
+inhibition of actin polymerization prevents such recruitment. We conclude that
+inducible Hox genes are selectively sensitive to the inhibition of actin
+polymerization and that actin polymerization is required for the assembly of a
+transcription complex on the regulatory region of the Hox genes.
+
+PMCID: PMC2719572
+PMID: 19477923  [PubMed - indexed for MEDLINE]
+
+
+22. Neonatology. 2009;96(1):50-60. doi: 10.1159/000201739. Epub 2009 Feb 10.
+
+Quantification of Hox and surfactant protein-B transcription during murine lung
+development.
+
+Grier DG(1), Thompson A, Lappin TR, Halliday HL.
+
+Author information: 
+(1)Regional Neonatal Unit, Royal Maternity Hospital, Grosvenor Road, Belfast BT12
+6BB, UK. grier@doctors.org.uk
+
+BACKGROUND: Genetic processes underlying fetal lung development and maturation
+are incompletely understood. Better knowledge of these processes would provide
+insights into the causes of lung malformations and prevention of respiratory
+distress syndrome and the potential adverse effects of glucocorticoids. Hox genes
+are involved in the lung branching morphogenesis and maturation of respiratory
+epithelium, but their expression pattern remains to be defined.
+OBJECTIVES: We hypothesized that genes involved in lung branching would be
+downregulated during early development, whereas those involved in maturation
+would be unchanged or upregulated.
+METHODS: TaqMan real-time primers and probes were designed for all 39 murine Hox 
+genes, and the murine SP-B gene and transcription profiles of these genes were
+obtained from whole lungs isolated at e14.5, e16.5, e18.5, e19.5 and postnatal
+days 1 and 20.
+RESULTS: Hox genes in clusters A and B, specifically those between paralog groups
+3 and 7, were the most represented, with Hoxa4 and Hoxa5 being the most highly
+transcribed. A wave of reduced transcription in 16 Hox genes, coincident with
+increased SP-B transcription, was observed with advancing gestation. Consistently
+high transcription of Hoxa5 from e14.5 to postnatal day 20 may indicate that
+sustained transcription is required for normal lung maturation. When e15.5 lungs 
+were cultured with dexamethasone, Hoxb6, Hoxb7 and Hoxb8 levels were
+significantly upregulated, creating the potential for modulation of diverse
+downstream target genes.
+CONCLUSIONS: Improved understanding of the genetic processes underlying lung
+development afforded by our Q-PCR platform may allow development of more specific
+methods for inducing fetal lung maturation.
+
+Copyright 2009 S. Karger AG, Basel.
+
+PMID: 19204410  [PubMed - indexed for MEDLINE]
+
+
+23. Dev Dyn. 2009 Feb;238(2):467-74. doi: 10.1002/dvdy.21846.
+
+Tamoxifen-dependent, inducible Hoxb6CreERT recombinase function in lateral plate 
+and limb mesoderm, CNS isthmic organizer, posterior trunk neural crest, hindgut, 
+and tailbud.
+
+Nguyen MT(1), Zhu J, Nakamura E, Bao X, Mackem S.
+
+Author information: 
+(1)Laboratory of Pathology, Center for Cancer Research, NCI, NIH, Bethesda,
+Maryland, USA.
+
+The ability to generate conditional mutant alleles in mice using Cre-lox
+technology has facilitated analysis of genes playing critical roles in multiple
+developmental processes at different times. We used a transgenic Hoxb6 promoter
+to drive tamoxifen-dependent Cre recombinase expression in several developing
+systems that serve as major models for elucidating inductive interactions and
+mechanisms of morphogenesis, including lateral plate mesoderm and descendant limb
+buds, neural crest progenitors of the neural tube, tailbud, and CNS isthmic
+organizer. The Hoxb6CreER(T) line gives very rapid and complete recombination
+over a short time window after a single tamoxifen dose, allowing precise time
+requirements for gene function to be assessed accurately. Embryonic cells
+cultured from the Hoxb6CreER(T) line also display rapid recombination ex vivo
+after tamoxifen exposure. Hence, the Hoxb6CreER(T) line provides a valuable tool 
+for analyzing gene function, as well as lineage tracing studies using genetic
+cell marking, in several developing systems.
+
+PMCID: PMC3483870
+PMID: 19161221  [PubMed - indexed for MEDLINE]
+
+
+24. J Natl Cancer Inst. 2008 Sep 3;100(17):1247-59. doi: 10.1093/jnci/djn253. Epub
+2008 Aug 26.
+
+Identification of chromatin remodeling genes Arid4a and Arid4b as leukemia
+suppressor genes.
+
+Wu MY(1), Eldin KW, Beaudet AL.
+
+Author information: 
+(1)Department of Molecular and Human Genetics, Baylor College of Medicine, One
+Baylor Plaza, Houston, TX 77030, USA.
+
+BACKGROUND: Leukemia evolves through a multistep process from premalignancy to
+malignancy. Epigenetic alterations, including histone modifications, have been
+proposed to play an important role in tumorigenesis. The involvement of two
+chromatin remodeling genes, retinoblastoma-binding protein 1 (Rbbp1/Arid4a) and
+Rbbp1-like 1 (Rbbp1l1/Arid4b), in leukemogenesis was not characterized.
+METHODS: The leukemic phenotype of mice deficient for Arid4a with or without
+haploinsufficiency for Arid4b was investigated by serially monitoring complete
+blood counts together with microscopic histologic analysis and flow cytometric
+analysis of bone marrow and spleen from the Arid4a(-/-) mice or
+Arid4a(-/-)Arid4b(+/-) mice. Regulation in bone marrow cells of downstream genes 
+important for normal hematopoiesis was analyzed by reverse
+transcription-polymerase chain reaction. Genotypic effects on histone
+modifications were examined by western blotting and immunofluorescence analysis. 
+All statistical tests were two-sided.
+RESULTS: Young (2-5 months old) Arid4a-deficient mice had ineffective blood cell 
+production in all hematopoietic lineages. Beyond 5 months of age, the Arid4a(-/-)
+mice manifested monocytosis, accompanied by severe anemia and thrombocytopenia.
+These sick Arid4a(-/-) mice showed bone marrow failure with myelofibrosis
+associated with splenomegaly and hepatomegaly. Five of 42 Arid4a(-/-) mice and 10
+of 12 Arid4a(-/-)Arid4b(+/-) mice progressed to acute myeloid leukemia (AML) and 
+had rapid further increases of leukocyte counts. Expression of Hox genes (Hoxb3, 
+Hoxb5, Hoxb6, and Hoxb8) was decreased in Arid4a-deficient bone marrow cells with
+or without Arid4b haploinsufficiency, and FoxP3 expression was reduced in
+Arid4a(-/-)Arid4b(+/-) bone marrow. Increases of histone trimethylation of H3K4, 
+H3K9, and H4K20 (fold increases in trimethylation = 32, 95% confidence interval
+[CI] = 27 to 32; 45, 95% CI = 41 to 49; and 2.2, 95% CI = 1.7 to 2.7,
+respectively) were observed in the bone marrow of Arid4a-deficient mice.
+CONCLUSIONS: Arid4a-deficient mice initially display ineffective hematopoiesis,
+followed by transition to chronic myelomonocytic leukemia (CMML)-like
+myelodysplastic/myeloproliferative disorder, and then transformation to AML. The 
+disease processes in the Arid4a-deficient mice are very similar to the course of 
+events in humans with CMML and AML. This mouse model has the potential to furnish
+additional insights into the role of epigenetic alterations in leukemogenesis,
+and it may be useful in developing novel pharmacological approaches to treatment 
+of preleukemic and leukemic states.
+
+PMCID: PMC2528019
+PMID: 18728284  [PubMed - indexed for MEDLINE]
+
+
+25. Birth Defects Res A Clin Mol Teratol. 2008 Aug;82(8):571-84. doi:
+10.1002/bdra.20481.
+
+Unique spatial and cellular expression patterns of Hoxa5, Hoxb4, and Hoxb6
+proteins in normal developing murine lung are modified in pulmonary hypoplasia.
+
+Volpe MV(1), Wang KT, Nielsen HC, Chinoy MR.
+
+Author information: 
+(1)Div. of Newborn Medicine, Department of Pediatrics, Tufts Medical Center,
+Boston, Massachusetts 02111, USA. mvolpe1@tuftsmedicalcenter.org
+
+BACKGROUND: Hox transcription factors modulate signaling pathways controlling
+organ morphogenesis and maintain cell fate and differentiation in adults.
+Retinoid signaling, key in regulating Hox expression, is altered in pulmonary
+hypoplasia. Information on pattern-specific expression of Hox proteins in normal 
+lung development and in pulmonary hypoplasia is minimal. Our objective was to
+determine how pulmonary hypoplasia alters temporal, spatial, and cellular
+expression of Hoxa5, Hoxb4, and Hoxb6 proteins compared to normal lung
+development.
+METHODS: Temporal, spatial, and cellular Hoxa5, Hoxb4, and Hoxb6 expression was
+studied in normal (untreated) and nitrofen-induced hypoplastic (NT-PH) lungs from
+gestational day 13.5, 16, and 19 fetuses and neonates using Western blot and
+immunohistochemistry.
+RESULTS: Modification of protein levels and spatial and cellular Hox expression
+patterns in NT-PH lungs was consistent with delayed lung development. Distinct
+protein isoforms were detected for each Hox protein. Expression levels of the
+Hoxa5 and Hoxb6 protein isoforms changed with development and were altered
+further in NT-PH lungs. Compared to normal lungs, GD19 and neonatal NT-PH lungs
+had decreased Hoxb6 and increased Hoxa5 and Hoxb4. Hoxa5 cellular localization
+changed from mesenchyme to epithelia earlier in normal lungs. Hoxb4 was expressed
+in mesenchyme and epithelial cells throughout development. Hoxb6 remained mainly 
+in mesenchymal cells around distal airways.
+CONCLUSIONS: Unique spatial and cellular expression of Hoxa5, Hoxb4, and Hoxb6
+participates in branching morphogenesis and terminal sac formation. Altered Hox
+protein temporal and cellular balance of expression either contributes to
+pulmonary hypoplasia or functions as a compensatory mechanism attempting to
+correct abnormal lung development and maturation in this condition.
+
+Copyright 2008 Wiley-Liss, Inc.
+
+PMCID: PMC2670891
+PMID: 18553509  [PubMed - indexed for MEDLINE]
+
+
+26. Development. 2008 May;135(10):1823-32. doi: 10.1242/dev.020958. Epub 2008 Apr 16.
+
+Developmental origin of smooth muscle cells in the descending aorta in mice.
+
+Wasteson P(1), Johansson BR, Jukkola T, Breuer S, Akyürek LM, Partanen J, Lindahl
+P.
+
+Author information: 
+(1)Sahlgrenska University Hospital, University of Gothenburg, Gothenburg, Sweden.
+
+Aortic smooth muscle cells (SMCs) have been proposed to derive from lateral plate
+mesoderm. It has further been suggested that induction of SMC differentiation is 
+confined to the ventral side of the aorta, and that SMCs later migrate to the
+dorsal side. In this study, we investigate the origin of SMCs in the descending
+aorta using recombination-based lineage tracing in mice. Hoxb6-cre transgenic
+mice were crossed with Rosa 26 reporter mice to track cells of lateral plate
+mesoderm origin. The contribution of lateral plate mesoderm to SMCs in the
+descending aorta was determined at different stages of development. SMC
+differentiation was induced in lateral plate mesoderm-derived cells on the
+ventral side of the aorta at embryonic day (E) 9.0-9.5, as indicated by
+expression of the SMC-specific reporter gene SM22alpha-lacZ. There was, however, 
+no migration of SMCs from the ventral to the dorsal side of the vessel. Moreover,
+the lateral plate mesoderm-derived cells in the ventral wall of the aorta were
+replaced by somite-derived cells at E10.5, as indicated by reporter gene
+expression in Meox1-cre/Rosa 26 double transgenic mice. Examination of reporter
+gene expression in adult aortas from Hoxb6-cre/Rosa 26 and Meox1-cre/Rosa 26
+double transgenic mice suggested that all SMCs in the adult descending aorta
+derive from the somites, whereas no contribution was recorded from lateral plate 
+mesoderm.
+
+PMID: 18417617  [PubMed - indexed for MEDLINE]
+
+
+27. PLoS One. 2007 Sep 26;2(9):e945.
+
+Transcriptional program induced by Wnt protein in human fibroblasts suggests
+mechanisms for cell cooperativity in defining tissue microenvironments.
+
+Klapholz-Brown Z(1), Walmsley GG, Nusse YM, Nusse R, Brown PO.
+
+Author information: 
+(1)Department of Biochemistry, Stanford University School of Medicine, Stanford, 
+California, USA. zklapholzbrown@umail.ucsb.edu
+
+BACKGROUND: The Wnt signaling system plays key roles in development, regulation
+of stem cell self-renewal and differentiation, cell polarity, morphogenesis and
+cancer. Given the multifaceted roles of Wnt signaling in these processes, its
+transcriptional effects on the stromal cells that make up the scaffold and
+infrastructure of epithelial tissues are of great interest.
+METHODS AND RESULTS: To begin to investigate these effects, we used DNA
+microarrays to identify transcriptional targets of the Wnt pathway in human lung 
+fibroblasts. Cells were treated with active Wnt3a protein in culture, and RNA was
+harvested at 4 hours and 24 hours. Nuclear accumulation of ss-Catenin, as shown
+by immunofluorescence, and induction of AXIN2 demonstrate that fibroblasts are
+programmed to respond to extracellular Wnt signals. In addition to several known 
+Wnt targets, we found many new Wnt induced genes, including many transcripts
+encoding regulatory proteins. Transcription factors with important developmental 
+roles, including HOX genes, dominated the early transcriptional response.
+Furthermore, we found differential expression of several genes that play direct
+roles in the Wnt signaling pathway, as well as genes involved in other cell
+signaling pathways including fibroblast growth factor (FGF) and bone
+morphogenetic protein (BMP) signaling. The gene most highly induced by Wnt3a was 
+GREMLIN2, which encodes a secreted BMP antagonist.
+CONCLUSIONS: Elevated expression of GREMLIN2 suggests a new role for Wnt signals 
+in the maintenance of stem cell niches, whereby Wnt signals induce nearby
+fibroblasts to produce a BMP antagonist, inhibiting differentiation and promoting
+expansion of stem cells in their microenvironment. We suggest that Wnt-induced
+changes in the gene expression program of local stromal cells may play an
+important role in the establishment of specialized niches hospitable to the
+self-renewal of normal or malignant epithelial stem cells in vivo.
+
+PMCID: PMC1976560
+PMID: 17895986  [PubMed - indexed for MEDLINE]
+
+
+28. Leukemia. 2007 Sep;21(9):2000-9. Epub 2007 Jun 28.
+
+Pediatric acute myeloid leukemia with NPM1 mutations is characterized by a gene
+expression profile with dysregulated HOX gene expression distinct from
+MLL-rearranged leukemias.
+
+Mullighan CG(1), Kennedy A, Zhou X, Radtke I, Phillips LA, Shurtleff SA, Downing 
+JR.
+
+Author information: 
+(1)Department of Pathology, St Jude Children's Research Hospital, Memphis, TN,
+USA.
+
+Comment in
+    Leukemia. 2007 Sep;21(9):1849-50.
+
+Somatic mutations in nucleophosmin (NPM1) occur in approximately 35% of adult
+acute myeloid leukemia (AML). To assess the frequency of NPM1 mutations in
+pediatric AML, we sequenced NPM1 in the diagnostic blasts from 93 pediatric AML
+patients. Six cases harbored NPM1 mutations, with each case lacking common
+cytogenetic abnormalities. To explore the phenotype of the AMLs with NPM1
+mutations, gene expression profiles were obtained using Affymetrix U133A
+microarrays. NPM1 mutations were associated with increased expression of multiple
+homeobox genes including HOXA9, A10, B2, B6 and MEIS1. As dysregulated homeobox
+gene expression is also a feature of MLL-rearranged leukemia, the gene expression
+signatures of NPM1-mutated and MLL-rearranged leukemias were compared.
+Significant differences were identified between these leukemia subtypes including
+the expression of different HOX genes, with NPM1-mutated AML showing higher
+levels of expression of HOXB2, B3, B6 and D4. These results confirm recent
+reports of perturbed HOX expression in NPM1-mutated adult AML, and provide the
+first evidence that the NPM1-mutated signature is distinct from MLL-rearranged
+AML. These findings suggest that mutated NPM1 leads to dysregulated HOX
+expression via a different mechanism than MLL rearrangement.
+
+PMID: 17597811  [PubMed - indexed for MEDLINE]
+
+
+29. Eur J Hum Genet. 2007 Jan;15(1):23-8. Epub 2006 Sep 27.
+
+Mutation screening of BMP4, BMP7, HOXA4 and HOXB6 genes in Chinese patients with 
+hypospadias.
+
+Chen T(1), Li Q, Xu J, Ding K, Wang Y, Wang W, Li S, Shen Y.
+
+Author information: 
+(1)National Laboratory of Medical Molecular Biology, Institute of Basic Medical
+Sciences, CAMS & PUMC, Beijing, China.
+
+Hypospadias, one of the most common congenital abnormalities of the male external
+genitalia with elusive etiology, are caused by a defect in the normal development
+of the urethra, foreskin and ventral aspect of the penis. Evidences indicate that
+BMP4 and BMP7, two of those major factors in a signaling cascade involved in
+controlling the embryonic urethral development, play central roles in the normal 
+development of the urethra, and that HOXA4 and HOXB6 play important roles in the 
+development of skin in various tissues at the time course of the urethral
+development. We directly sequenced all these exons and exon-intron boundaries of 
+the four genes in 90 unrelated Chinese patients with hypospadias. Thirteen
+different heterozygous nucleotide variations were identified for the first time
+in the four genes in 14 of 90 cases. Of the 13 variations, eight are missense:
+c.619C>G (p.H207D), c.668G>A (p.R223H), c.751C>T (p.H251Y) in BMP4; c.907C>T
+(p.R303C) in BMP7; c.385G>T (p.G129C), c.869C>G (p.S290C) in HOXA4; c.124C>A
+(p.P42T), c.367T>C (p.C123R) in HOXB6. None of these variations were found in 380
+control chromosomes. Amino-acid sequence alignments showed most of these changed 
+amino acids are conserved across various vertebrate species. In a word, these
+findings, together with the indicated roles of the four genes, imply that it
+should not be random events for so many nucleotide variations found in the
+present study. Further functional studies are required to make the associations
+clear between these variants and hypospadias.
+
+PMID: 17003840  [PubMed - indexed for MEDLINE]
+
+
+30. Zhonghua Zheng Xing Wai Ke Za Zhi. 2005 Sep;21(5):372-4.
+
+[Differential display of homeobox gene expressions in the normal, wounded human
+fetal and adult skins by DNA microarray].
+
+[Article in Chinese]
+
+Song HF(1), Chai JK, Chen ML, Lin ZH.
+
+Author information: 
+(1)Department of Burns and Plastic Surgery, Burn Institute, the 304th Hospital
+Affiliated to PLA General Hospital, Beijing 100037, China.
+
+OBJECTIVE: To explore the differential expression of homeobox genes in the
+normal, wounded human fetal and adult skins and its significance in fetal
+scarless healing.
+METHODS: Gene chips containing 14 000 human genes were used to investigate
+homeobox gene expressions of the normal, wounded human fetal and adult skins.
+RESULTS: There were significant differences between the expression of homeobox
+genes, especially for PRX-2, HOXB13, HOXB6 and HOXB7.
+CONCLUSIONS: The homeobox gene is in close relation to developmental biology. The
+different expressions and changes of homeobox genes in the normal, wounded human 
+fetal and adult skin may be a primary cause of different wound healing between
+fetal and adult skin.
+
+PMID: 16335386  [PubMed - indexed for MEDLINE]
+
+
+31. Exp Hematol. 2005 Nov;33(11):1402-16.
+
+Comparative characteristics of mesenchymal stem cells from human bone marrow,
+adipose tissue, and umbilical cord blood.
+
+Wagner W(1), Wein F, Seckinger A, Frankhauser M, Wirkner U, Krause U, Blake J,
+Schwager C, Eckstein V, Ansorge W, Ho AD.
+
+Author information: 
+(1)Department of Medicine V, University of Heidelberg, Heidelberg, Germany.
+
+OBJECTIVE: Various preparative protocols have been proposed for the acquisition
+and cultivation of mesenchymal stem cells (MSC). Whereas surface antigen markers 
+have failed to precisely define this population, microarray analysis might
+provide a better tool for characterization of MSC.
+METHODS: In this study, we have analyzed global gene expression profiles of human
+MSC isolated from adipose tissue (AT), from umbilical cord blood (CB), and from
+bone marrow (BM) under two growth conditions and have compared them to terminally
+differentiated human fibroblasts (HS68). Profiles were compared using our Human
+Genome Microarray representing 51.144 different cDNA clones.
+RESULTS: Cultured with the appropriate conditions, osteogenic and adipogenic
+differentiation could be confirmed in all MSC preparations but not in
+fibroblasts. No phenotypic differences were observed by flow cytometry using a
+panel of 22 surface antigen markers. Whereas MSC derived from different donors
+using the same culture procedure yielded a consistent and reproducible gene
+expression profile, many genes were differentially expressed in MSC from
+different ontogenetic sources or from different culture conditions. Twenty-five
+genes were overlapping and upregulated in all MSC preparations from AT, CB, and
+BM as compared to HS68 fibroblasts. These genes included fibronectin, ECM2,
+glypican-4, ID1, NF1B, HOXA5, and HOXB6. Many genes upregulated in MSC are
+involved in extracellular matrix, morphogenesis, and development, whereas several
+inhibitors of the Wnt pathway (DKK1, DKK3, SFRP1) were highly expressed in
+fibroblasts.
+CONCLUSION: Our results have provided a foundation for a more reproducible and
+reliable quality control using genotypic analysis for defining MSC.
+
+PMID: 16263424  [PubMed - indexed for MEDLINE]
+
+
+32. Clin Cancer Res. 2005 May 1;11(9):3587-96.
+
+Expression of HOXB2, a retinoic acid signaling target in pancreatic cancer and
+pancreatic intraepithelial neoplasia.
+
+Segara D(1), Biankin AV, Kench JG, Langusch CC, Dawson AC, Skalicky DA, Gotley
+DC, Coleman MJ, Sutherland RL, Henshall SM.
+
+Author information: 
+(1)Cancer Research Program, Garvan Institute of Medical Research, Sydney, New
+South Wales, Australia.
+
+PURPOSE: Despite significant progress in understanding the molecular pathology of
+pancreatic cancer and its precursor lesion: pancreatic intraepithelial neoplasia 
+(PanIN), there remain no molecules with proven clinical utility as prognostic or 
+therapeutic markers. Here, we used oligonucleotide microarrays to interrogate
+mRNA expression of pancreatic cancer tissue and normal pancreas to identify novel
+molecular pathways dysregulated in the development and progression of pancreatic 
+cancer.
+EXPERIMENTAL DESIGN: RNA was hybridized to Affymetrix Genechip HG-U133
+oligonucleotide microarrays. A relational database integrating data from publicly
+available resources was created to identify candidate genes potentially relevant 
+to pancreatic cancer. The protein expression of one candidate, homeobox B2
+(HOXB2), in PanIN and pancreatic cancer was assessed using immunohistochemistry.
+RESULTS: We identified aberrant expression of several components of the retinoic 
+acid (RA) signaling pathway (RARalpha, MUC4, Id-1, MMP9, uPAR, HB-EGF, HOXB6, and
+HOXB2), many of which are known to be aberrantly expressed in pancreatic cancer
+and PanIN. HOXB2, a downstream target of RA, was up-regulated 6.7-fold in
+pancreatic cancer compared with normal pancreas. Immunohistochemistry revealed
+ectopic expression of HOXB2 in 15% of early PanIN lesions and 48 of 128 (38%)
+pancreatic cancer specimens. Expression of HOXB2 was associated with
+nonresectable tumors and was an independent predictor of poor survival in
+resected tumors.
+CONCLUSIONS: We identified aberrant expression of RA signaling components in
+pancreatic cancer, including HOXB2, which was expressed in a proportion of PanIN 
+lesions. Ectopic expression of HOXB2 was associated with a poor prognosis for all
+patients with pancreatic cancer and was an independent predictor of survival in
+patients who underwent resection.
+
+PMID: 15867264  [PubMed - indexed for MEDLINE]
+
+
+33. Blood. 2005 Feb 15;105(4):1456-66. Epub 2004 Nov 2.
+
+HOXB6 overexpression in murine bone marrow immortalizes a myelomonocytic
+precursor in vitro and causes hematopoietic stem cell expansion and acute myeloid
+leukemia in vivo.
+
+Fischbach NA(1), Rozenfeld S, Shen W, Fong S, Chrobak D, Ginzinger D, Kogan SC,
+Radhakrishnan A, Le Beau MM, Largman C, Lawrence HJ.
+
+Author information: 
+(1)Department of Medicine, Veterans Affairs Medical Center, San Francisco, CA
+94121, USA. fischba@itsa.ucsf.edu
+
+The HOX family of homeobox genes plays an important role in normal and malignant 
+hematopoiesis. Dysregulated HOX gene expression profoundly effects the
+proliferation and differentiation of hematopoietic stem cells (HSCs) and
+committed progenitors, and aberrant activation of HOX genes is a common event in 
+human myeloid leukemia. HOXB6 is frequently overexpressed in human acute myeloid 
+leukemia (AML). To gain further insight into the role of HOXB6 in hematopoiesis, 
+we overexpressed HOXB6 in murine bone marrow using retrovirus-mediated gene
+transfer. We also explored structure-function relationships using mutant HOXB6
+proteins unable to bind to DNA or a key HOX-binding partner, pre-B-cell leukemia 
+transcription factor-1 (PBX1). Additionally, we investigated the potential
+cooperative interaction with myeloid ecotropic viral integration site 1 homolog
+(MEIS1). In vivo, HOXB6 expanded HSCs and myeloid precursors while inhibiting
+erythropoiesis and lymphopoiesis. Overexpression of HOXB6 resulted in AML with a 
+median latency of 223 days. Coexpression of MEIS1 dramatically shortened the
+onset of AML. Cytogenetic analysis of a subset of HOXB6-induced AMLs revealed
+recurrent deletions of chromosome bands 2D-E4, a region frequently deleted in
+HOXA9-induced AMLs. In vitro, HOXB6 immortalized a factor-dependent
+myelomonocytic precursor capable of granulocytic and monocytic differentiation.
+These biologic effects of HOXB6 were largely dependent on DNA binding but
+independent of direct interaction with PBX1.
+
+PMID: 15522959  [PubMed - indexed for MEDLINE]
+
+
+34. J Biol Chem. 2004 Sep 17;279(38):39895-904. Epub 2004 Jul 21.
+
+HOXB6 protein is bound to CREB-binding protein and represses globin expression in
+a DNA binding-dependent, PBX interaction-independent process.
+
+Shen W(1), Chrobak D, Krishnan K, Lawrence HJ, Largman C.
+
+Author information: 
+(1)Department of Medicine, University of California Veterans Affairs Medical
+Center, San Francisco, California 94121, USA.
+
+Although HOXB6 and other HOX genes have previously been associated with
+hematopoiesis and leukemias, the precise mechanism of action of their protein
+products remains unclear. Here we use a biological model in which HOXB6 represses
+alpha- and gamma-globin mRNA levels to perform a structure/function analysis for 
+this homeodomain protein. HOXB6 protein represses globin transcript levels in
+stably transfected K562 cells in a DNA-binding dependent fashion. However, the
+capacity to form cooperative DNA-binding complexes with the PBX co-factor protein
+is not required for HOXB6 biological activity. Neither the conserved extreme
+N-terminal region, a polyglutamic acid region at the protein C terminus, nor the 
+Ser(214) CKII phosphorylation site was required for DNA binding or activity in
+this model. We have previously reported that HOX proteins can inhibit
+CREB-binding protein (CBP)-histone acetyltransferase-mediated potentiation of
+reporter gene transcription. We now show that endogenous CBP is co-precipitated
+with exogenous HOXB6 from nuclear and cytoplasmic compartments of transfected
+K562 cells. Furthermore, endogenous CBP co-precipitates with endogenous HOXB6 in 
+day 14.5 murine fetal liver cells during active globin gene expression in this
+tissue. The CBP interaction motif was localized to the homeodomain but does not
+require the highly conserved helix 3. Our data suggest that the homeodomain
+contains most or all of the important structures required for HOXB6 activity in
+blood cells.
+
+PMID: 15269212  [PubMed - indexed for MEDLINE]
+
+
+35. Gene. 2004 Apr 28;331:53-63.
+
+Differentiation phenotypes of pancreatic islet beta- and alpha-cells are closely 
+related with homeotic genes and a group of differentially expressed genes.
+
+Mizusawa N(1), Hasegawa T, Ohigashi I, Tanaka-Kosugi C, Harada N, Itakura M,
+Yoshimoto K.
+
+Author information: 
+(1)Department of Pharmacology, School of Dentistry, The University of Tokushima, 
+Tokushima City, Japan.
+
+To identify the genes that determine differentiation phenotypes, we compared gene
+expression of pancreatic islet beta- and alpha-cells, which are derived from the 
+common precursor and secrete insulin and glucagon, respectively. The expression
+levels of homeotic genes including Hox genes known to determine region
+specificity in the antero-posterior (AP) body axis, tissue-specific homeobox
+genes, and other 8,734 genes were compared in a beta- and alpha-cell line of MIN6
+and alpha TC1.6. The expression of homeotic genes were surveyed with reverse
+transcription-polymerase chain reaction (RT-PCR) using degenerate primers
+corresponding to invariant amino acid sequences within the homeodomain and
+subsequently with specific primers. Expression of Hoxc6, Hoxc9, Hoxc10, Pdx1,
+Cdx2, Gbx2, Pax4, and Hlxb9 genes in MIN6 was higher than those in alpha TC1.6,
+while expression of Hoxa2, Hoxa3, Hoxa5, Hoxa6, Hoxa7, Hoxa9, Hoxa10, Hoxa13,
+Hoxb3, Hoxb5, Hoxb6, Hoxb13, Hoxb8, and Brain4 genes in alpha TC1.6 was higher
+than those in MIN6. Out of 8,734 mouse genes screened with high-density mouse
+cDNA microarrays for MIN6- and alpha TC1.6-derived cDNA, 58 and 25 genes were
+differentially over- and under-expressed in MIN6, respectively. GLUTag, which is 
+derived from a large bowel tumor and expresses the proglucagon gene, showed a
+comparatively similar expression profile to that of alpha TC1.6 in both homeotic 
+and other genes analyzed in cDNA microarray. Our results are consistent with the 
+interpretation that not only the tissue-specific homeotic genes, but also Hox
+genes are related to differentiation phenotypes of pancreatic beta- and
+alpha-cells rather than their regional specification of the body in vertebrates.
+
+PMID: 15094191  [PubMed - indexed for MEDLINE]
+
+
+36. Gynecol Oncol. 2003 Sep;90(3):512-8.
+
+Expression of HOX gene products in normal and abnormal trophoblastic tissue.
+
+Amesse LS(1), Moulton R, Zhang YM, Pfaff-Amesse T.
+
+Author information: 
+(1)Department of Obstetrics and Gynecology, Wright State University School of
+Medicine, Dayton, OH 45409, USA. lsamesse@mvh.org
+
+OBJECTIVE: The expression pattern of three homeobox genes products, HOX A11, HOX 
+B6, and HOX C6, was examined in normal human placental tissue and abnormal
+trophoblastic tissue derived from complete hydatidiform moles and choriocarcinoma
+tumors. We sought to determine whether expression of these gene products during
+different states of trophoblastic differentiation and proliferation is constant
+or demonstrates variation. Variation in expression of these respective homeobox
+genes may provide insight into predicting which molar tissues are likely to
+develop into choriocarcinoma tumors.
+METHODS: Tissue sections from a total of 12 samples were studied. Among these,
+six full-term human placentas, three complete hydatidiform moles, and three
+choriocarcinoma tumors were examined for expression of the homeobox HOX A11, HOX 
+B6, and HOX C6 gene products, using immunohistochemistry staining methods.
+RESULTS: Expression of HOX homeobox gene products, HOX A11, HOX B6, and HOX C6,
+was detected in full-term human placenta and tissue from complete hydatiform
+moles. Abnormal trophoblasts from complete moles demonstrated an immunoreactivity
+expression pattern comparable to that of normal trophoblasts from term
+pregnancies. However, definitive expression of these respective homeobox genes
+was not identified in tissue obtained from choriocarcinoma tumors.
+CONCLUSION: Variation in expression of HOX homeobox gene products, HOX A11, HOX
+B6, and HOX C6, was established in trophoblast tissue obtained from full-term
+human placentas, complete hydatiform moles, and choriocarcinoma tumors. This
+finding indicates that normal full-term trophoblasts and abnormal molar
+trophoblasts may share similar fundamental regulatory control mechanisms. The
+absence of definitive expression of these HOX gene products in trophoblastic
+cells derived from choriocarcinoma tumors indicates that while HOX A11, HOX B6,
+and HOX C6 genes may be involved in maintenance of some trophoblastic cell
+states, they may be either downregulated or have alterations in their expression 
+in trophoblasts from choriocarcinoma tumors.
+
+PMID: 13678718  [PubMed - indexed for MEDLINE]
+
+
+37. Dev Dyn. 2003 Jun;227(2):192-202.
+
+HOXB13 homeodomain protein is cytoplasmic throughout fetal skin development.
+
+Kömüves LG(1), Ma XK, Stelnicki E, Rozenfeld S, Oda Y, Largman C.
+
+Author information: 
+(1)Department of Dermatology, VA Medical Center and University of California, San
+Francisco, California, USA.
+
+Substantial evidence suggests that HOX homeobox genes regulate aspects of body
+development, including hair formation. We initially isolated the HOXB13 gene from
+human fetal skin in experiments designed to identify candidate genes that
+regulate scarless fetal wound healing. Although the HOX homeodomain proteins have
+been proposed to function as transcription factors, we have demonstrated
+previously that substantial fractions of the HOXB6 and HOXB4 proteins are
+localized to the cytoplasm throughout epidermal development. The purpose of the
+current study was to identify HOXB13 protein expression patterns in developing
+skin to elucidate potential mechanisms by which this protein might regulate
+aspects of tissue development and healing. HOXB13 protein expression was detected
+throughout the developing epidermis, with weaker signal observed in the early
+developing dermis. Epidermal HOXB13 signal was detected over the entire body
+surface, but surprisingly, essentially all of the signal was cytoplasmic in
+developing skin. Low-level HOXB13 protein expression was detected in adult skin
+and within the telogen hair follicle, and a portion of the residual signal in
+adult epidermis was nuclear. Expression in hyperproliferative skin conditions
+remained cytoplasmic with the exception of epidermis associated with Kaposi's
+sarcoma, which showed strong HOXB13 expression that was partially localized to
+the nucleus.
+
+Copyright 2003 Wiley-Liss, Inc.
+
+PMID: 12761847  [PubMed - indexed for MEDLINE]
+
+
+38. Eur J Cancer. 2003 May;39(8):1165-75.
+
+Histone acetylation-mediated regulation of genes in leukaemic cells.
+
+Chambers AE(1), Banerjee S, Chaplin T, Dunne J, Debernardi S, Joel SP, Young BD.
+
+Author information: 
+(1)Cancer Research UK Medical Oncology Laboratory, The Medical College of St.
+Bartholomew's Hospital, Charterhouse Square, London, EC1M 6QB, UK.
+annechambers@yahoo.co.uk
+
+Histone deacetylase (HDAC) and histone acetyltransferase (HAT) functions are
+associated with various cancers, and the inhibition of HDAC has been found to
+arrest disease progression. Here, we have investigated the gene expression
+profiles of leukaemic cells in response to the HDAC inhibitor trichostatin A
+(TSA) using oligonucleotide microarrays. Nucleosomal histone acetylation was
+monitored in parallel and the expression profiles of selected genes were
+confirmed by quantitative polymerase chain reaction (PCR). A large number of
+genes (9% of the genome) were found to be similarly regulated in CCRF-CEM and
+HL-60 cells in response to TSA, and genes showing primary and secondary responses
+could be distinguished by temporal analysis of gene expression. A small fraction 
+of genes were highly sensitive to histone hyper-acetylation, including XRCC1,
+HOXB6, CDK10, MYC, MYB, NMI and CBFA2T3 and many were trans-acting factors
+relevant to cancer. The most rapidly repressed gene was MKRN3, an imprinted gene 
+involved in the Prader-Willi syndrome.
+
+PMID: 12736119  [PubMed - indexed for MEDLINE]
+
+
+39. Hunan Yi Ke Da Xue Xue Bao. 2001 Jun 28;26(3):189-91.
+
+[Influence of human cytomegalovirus infection on the expressions of HOXB1, HOXB5,
+HOXB6, and HOXB9 genes in human embryo lung cells].
+
+[Article in Chinese]
+
+Chen LY(1), Wu GJ, Dai G.
+
+Author information: 
+(1)Department of Microbiology, Xiangya School of Medicine, Central South
+University, Changsha 410078, China.
+
+OBJECTIVE: To study the expressions of HOXB1, HOXB5, HOXB6, and HOXB9 genes in
+human embryo lung (HEL) cells and influence of human cytomegalovirus (HCMV)
+infection on the expressions of these genes.
+METHOD: The expressions of HOXB1, HOXB5, HOXB6, and HOXB9 genes were detected
+with semi-quantitative RT-PCR method.
+RESULTS: 1. HEL cells expressed HOXB5 and HOXB6 genes, but they did not express
+HOXB1 and HOXB9 genes. 2. After HCMV infection, HEL cell was induced to express
+HOXB9 gene, as the expression of HOXB6 gene was elevated. The expression of HOXB5
+gene had no significant change. HOXB1 was still not expressed. 3. Treated with
+all-trans retinoic acid (ATRA), the expression of HOXB9 gene in HEL cells
+infected by HCMV was significantly increased. But during the advanced infect
+period, the expression of HOXB6 was significantly decreased.
+CONCLUSION: HCMV can induce abnormal expressions of HOXB6 and HOXB9 genes, which 
+may play an important role in HCMV-induced abnormal embryogenesis.
+
+PMID: 12536675  [PubMed - indexed for MEDLINE]
+
+
+40. Hunan Yi Ke Da Xue Xue Bao. 2001 Oct 28;26(5):409-11.
+
+[Influence of human cytomegalovirus infection on the expression of HOXB5, HOXB6, 
+HOXB7, and HOXB8 genes in gliomaous cells].
+
+[Article in Chinese]
+
+Wu GJ(1), Chen LY, Dai G.
+
+Author information: 
+(1)Department of Microbiology, Xiangya School of Medicine, Central South
+University, Changsha 410078, China.
+
+OBJECTIVE: The expressions of HOXB5, HOXB6, HOXB7, and HOXB8 genes of U251 cell
+infected by human cytomegalovirus and/or treated with all trans-retinoic
+acid(ATRA) were detected by semi-quantitative RT-PCR. The results were that U251 
+cell did not express HOXB5, HOXB6, and HOXB8 but expressed HOXB7 without
+infecting HCMV and/or being treated with ATRA. After infected with HCMV and/or
+treated with ATRA, the expressions of HOXB7 and HOXB8 were up-regulated and the
+expression of HOXB7 lasted the fourth generation, while HOXB8 was up-regulated
+only in the second generation. These results indicate that the abnormal
+expression of HOXB gene induced by HCMV may play an important role in the
+maldevelopment.
+
+PMID: 12536483  [PubMed - indexed for MEDLINE]
+
+
+41. Int J Cancer. 2003 Mar 10;104(1):73-84.
+
+Serologic analysis of ovarian tumor antigens reveals a bias toward antigens
+encoded on 17q.
+
+Stone B(1), Schummer M, Paley PJ, Thompson L, Stewart J, Ford M, Crawford M,
+Urban N, O'Briant K, Nelson BH.
+
+Author information: 
+(1)Benaroya Research Institute at Virginia Mason Research Center, Seattle, WA
+98101-2795, USA. bstone@vmresearch.org
+
+We utilized SEREX immunoscreening to identify a set of novel tumor antigens that 
+are associated with human serous ovarian cancer and may prove useful for the
+early detection and treatment of this disease. Extensive screening with a panel
+of sera from 25 late-stage ovarian cancer patients against 3 independent cDNA
+libraries identified a set of 9 antigens that were immunogenic in more than 1
+patient and not in a panel of 20-45 normal female serum donors. These antigens
+include p53, NY-ESO-1, UBQLN1, HOXB6, TOP2A, putative helicase-RUVBL (RUVBL),
+HMBA-inducible (HEXIM1), DDX5 and HDCMA. Ten of 25 ovarian cancer patients (40%) 
+expressed serum IgG to at least 1 of these antigens, while 14% (4/25) had
+antibodies to 2 or more antigens. Unexpectedly, 4 antigens identified in this
+screen, DDX5, HEXIM1, TOP2A and HOXB6, are encoded within a region of 17q that
+also includes the genes for HER2/neu, Homeobox-B7 and BRCA1. Real-time RT-PCR
+analysis showed that mRNA for HER2/neu and 3 SEREX-defined antigens, TOP2A, HOXB6
+and DDX5, was more abundant in ovarian tumors than most normal tissues, including
+normal and benign ovarian tissues, suggesting that elevated expression of genes
+encoded within this region of chromosome 17 is a common event in ovarian tumors. 
+Thus, these abnormal expression patterns combined with the endogenous immune
+response suggests that these antigens represent potential targets for
+immunotherapy.
+
+Copyright 2002 Wiley-Liss, Inc.
+
+PMID: 12532422  [PubMed - indexed for MEDLINE]
+
+
+42. EMBO J. 2003 Jan 15;22(2):262-9.
+
+Retinoids regulate the anterior expression boundaries of 5' Hoxb genes in
+posterior hindbrain.
+
+Oosterveen T(1), Niederreither K, Dollé P, Chambon P, Meijlink F, Deschamps J.
+
+Author information: 
+(1)Hubrecht Laboratory, The Netherlands Institute of Developmental Biology,
+Uppsalalaan 8, 3584 CT Utrecht, The Netherlands.
+
+We describe the regulatory interactions that cause anterior extension of the
+mouse 5' Hoxb expression domains from spinal cord levels to their definitive
+boundaries in the posterior hindbrain between embryonic day E10 and E11.5. This
+anterior expansion is retinoid dependent since it does not occur in mouse embryos
+deficient for the retinoic acid-synthesizing enzyme retinaldehyde dehydrogenase
+2. A retinoic acid response element (RARE) was identified downstream of Hoxb5 and
+shown to be essential for expression of Hoxb5 and Hoxb8 reporter transgenes in
+the anterior neural tube. The spatio-temporal activity of this element overlaps
+with rostral extension of the expression domain of endogenous Hoxb5, Hoxb6 and
+Hoxb8 into the posterior hindbrain. The RARE and surrounding sequences are found 
+at homologous positions in the human, mouse and zebrafish genome, which supports 
+an evolutionarily conserved regulatory function.
+
+PMCID: PMC140104
+PMID: 12514132  [PubMed - indexed for MEDLINE]
+
+
+43. Development. 2002 Nov;129(22):5103-15.
+
+Initiating Hox gene expression: in the early chick neural tube differential
+sensitivity to FGF and RA signaling subdivides the HoxB genes in two distinct
+groups.
+
+Bel-Vialar S(1), Itasaki N, Krumlauf R.
+
+Author information: 
+(1)Division of Developmental Neurobiology, National Institute for Medical
+Research, The Ridgeway, Mill Hill, London NW7 1AA, UK.
+
+Initiation of Hox genes requires interactions between numerous factors and
+signaling pathways in order to establish their precise domain boundaries in the
+developing nervous system. There are distinct differences in the expression and
+regulation of members of Hox genes within a complex suggesting that multiple
+competing mechanisms are used to initiate their expression domains in early
+embryogenesis. In this study, by analyzing the response of HoxB genes to both RA 
+and FGF signaling in neural tissue during early chick embryogenesis (HH stages
+7-15), we have defined two distinct groups of Hox genes based on their reciprocal
+sensitivity to RA or FGF during this developmental period. We found that the
+expression domain of 5' members from the HoxB complex (Hoxb6-Hoxb9) can be
+expanded anteriorly in the chick neural tube up to the level of the otic vesicle 
+following FGF treatment and that these same genes are refractory to RA treatment 
+at these stages. Furthermore, we showed that the chick caudal-related genes, cdxA
+and cdxB, are also responsive to FGF signaling in neural tissue and that their
+anterior expansion is also limited to the level of the otic vesicle. Using a
+dominant negative form of a Xenopus Cdx gene (XcadEnR) we found that the effect
+of FGF treatment on 5' HoxB genes is mediated in part through the activation and 
+function of CDX activity. Conversely, the 3' HoxB genes (Hoxb1 and Hoxb3-Hoxb5)
+are sensitive to RA but not FGF treatments at these stages. We demonstrated by in
+ovo electroporation of a dominant negative retinoid receptor construct (dnRAR)
+that retinoid signaling is required to initiate expression. Elevating CDX
+activity by ectopic expression of an activated form of a Xenopus Cdx gene
+(XcadVP16) in the hindbrain ectopically activates and anteriorly expands Hoxb4
+expression. In a similar manner, when ectopic expression of XcadVP16 is combined 
+with FGF treatment, we found that Hoxb9 expression expands anteriorly into the
+hindbrain region. Our findings suggest a model whereby, over the window of early 
+development we examined, all HoxB genes are actually competent to interpret an
+FGF signal via a CDX-dependent pathway. However, mechanisms that axially restrict
+the Cdx domains of expression, serve to prevent 3' genes from responding to FGF
+signaling in the hindbrain. FGF may have a dual role in both modulating the
+accessibility of the HoxB complex along the axis and in activating the expression
+of Cdx genes. The position of the shift in RA or FGF responsiveness of Hox genes 
+may be time dependent. Hence, the specific Hox genes in each of these
+complementary groups may vary in later stages of development or other tissues.
+These results highlight the key role of Cdx genes in integrating the input of
+multiple signaling pathways, such as FGFs and RA, in controlling initiation of
+Hox expression during development and the importance of understanding regulatory 
+events/mechanisms that modulate Cdx expression.
+
+PMID: 12399303  [PubMed - indexed for MEDLINE]
+
+
+44. Development. 2002 Sep;129(18):4171-83.
+
+Involvement of the Polycomb-group gene Ring1B in the specification of the
+anterior-posterior axis in mice.
+
+Suzuki M(1), Mizutani-Koseki Y, Fujimura Y, Miyagishima H, Kaneko T, Takada Y,
+Akasaka T, Tanzawa H, Takihara Y, Nakano M, Masumoto H, Vidal M, Isono K, Koseki 
+H.
+
+Author information: 
+(1)Department of Molecular Embryology, Graduate School of Medicine, Chiba
+University, 1-8-1 Inohana, Chuo-ku, Chiba 260-8670, Japan.
+
+The products of the Polycomb group of genes form complexes that maintain the
+state of transcriptional repression of several genes with relevance to
+development and in cell proliferation. We have identified Ring1B, the product of 
+the Ring1B gene (Rnf2 - Mouse Genome Informatics), by means of its interaction
+with the Polycomb group protein Mel18. We describe biochemical and genetic
+studies directed to understand the biological role of Ring1B. Immunoprecipitation
+studies indicate that Ring1B form part of protein complexes containing the
+products of other Polycomb group genes, such as Rae28/Mph1 and M33, and that this
+complexes associate to chromosomal DNA. We have generated a mouse line bearing a 
+hypomorphic Ring1B allele, which shows posterior homeotic transformations of the 
+axial skeleton and a mild derepression of some Hox genes (Hoxb4, Hoxb6 and Hoxb8)
+in cells anterior to their normal boundaries of expression in the mesodermal
+compartment. By contrast, the overexpression of Ring1B in chick embryos results
+in the repression of Hoxb9 expression in the neural tube. These results, together
+with the genetic interactions observed in compound Ring1B/Mel18 mutant mice, are 
+consistent with a role for Ring1B in the regulation of Hox gene expression by
+Polycomb group complexes.
+
+PMID: 12183370  [PubMed - indexed for MEDLINE]
+
+
+45. Am J Obstet Gynecol. 2002 Jul;187(1):24-32.
+
+Expression of homeobox gene transcripts in trophoblastic cells.
+
+Zhang YM(1), Xu B, Rote N, Peterson L, Amesse LS.
+
+Author information: 
+(1)Department of Obstetrics/Gynecology, Wright State University School of
+Medicine and College of Science and Mathematics, Dayton, Ohio 45409-2793, USA.
+
+OBJECTIVE: This study was conducted to examine the dynamics of homeobox gene
+expression in the differentiation of trophoblasts as a key to the understanding
+of the regulatory mechanisms that are involved in placental development.
+STUDY DESIGN: Expression of homeobox genes was examined in primary trophoblastic 
+cells and in the BeWo choriocarcinoma model cell lines by molecular and
+immunocytochemistry techniques.
+RESULTS: We demonstrated the expression of 3 homeobox genes (HOX B6, HOX C6, and 
+HOX A11) in primary trophoblastic cells. BeWo cells showed an expression pattern 
+similar to that of the primary cell lines. In both primary trophoblasts and BeWo 
+cells, the HOX A11 gene, but not the HOX B6 or HOX C6 genes, were found to
+down-regulate with differentiation from single- to multinucleate giant cells.
+CONCLUSION: This study demonstrates a novel expression pattern for HOX A11 gene
+in trophoblastic differentiation and suggests that the down-regulation of HOX A11
+may be necessary for the differentiation of cytotrophoblasts into
+syncytiotrophoblasts.
+
+PMID: 12114884  [PubMed - indexed for MEDLINE]
+
+
+46. Leukemia. 2002 Jul;16(7):1293-301.
+
+Expression pattern of HOXB6 homeobox gene in myelomonocytic differentiation and
+acute myeloid leukemia.
+
+Giampaolo A(1), Felli N, Diverio D, Morsilli O, Samoggia P, Breccia M, Lo Coco F,
+Peschle C, Testa U.
+
+Author information: 
+(1)Department of Clinical Biochemistry, Istituto Superiore di Sanità, Rome,
+Italy.
+
+Homeobox genes encode transcription factors known to be important morphogenic
+regulators during embryonic development. An increasing body of work implies a
+role for homeobox genes in both hematopoiesis and leukemogenesis. In the present 
+study we have analyzed the role of the homeobox gene, HOXB6, in the program of
+differentiation of the myeloid cell lines, NB4 and HL60. HOXB6 expression is
+transiently induced during normal granulocytopoiesis and monocytopoiesis, with an
+initial induction during the early phases of differentiation, followed by a
+blockade of expression at early maturation. The enforced expression of HOXB6 in
+promyelocytic NB4 cells or in myeloblastic HL60 cells elicited inhibition of the 
+granulocytic or monocytic maturation, respectively. Furthermore, HOXB6 was
+frequently expressed (18 out of 49 cases) in AMLs lacking major translocations
+while it was expressed at very low frequency (two out of 47 cases) in AMLs
+characterized by PML/RAR-alpha, AML-1/ETO, CBFbeta/MYH11 fusion and
+rearrangements of the MLL gene at 11q23. According to these observations, we
+suggest that a regulated pattern of HOXB6 expression is required for normal
+granulopoiesis and monocytopoiesis. Abnormalities of the HOXB6 expression may
+contribute to the development of the leukemic phenotype.
+
+PMID: 12094253  [PubMed - indexed for MEDLINE]
+
+
+47. Leukemia. 2002 Feb;16(2):186-95.
+
+Quantitative HOX expression in chromosomally defined subsets of acute myelogenous
+leukemia.
+
+Drabkin HA(1), Parsy C, Ferguson K, Guilhot F, Lacotte L, Roy L, Zeng C, Baron A,
+Hunger SP, Varella-Garcia M, Gemmill R, Brizard F, Brizard A, Roche J.
+
+Author information: 
+(1)Division of Medical Oncology, University of Colorado Health Sciences and
+Cancer Centers, Denver, CO 80262, USA.
+
+We used a degenerate RT-PCR screen and subsequent real-time quantitative RT-PCR
+assays to examine the expression of HOX and TALE-family genes in 34 cases of
+chromosomally defined AML for which outcome data were available. AMLs with
+favorable cytogenetic features were associated with low overall HOX gene
+expression whereas poor prognostic cases had high levels. Characteristically,
+multiple HOXA family members including HOXA3-HOXA10 were jointly overexpressed in
+conjunction with HOXB3, HOXB6, MEIS1 and PBX3. Higher levels of expression were
+also observed in the FAB subtype, AML-M1. Spearmann correlation coefficients
+indicated that the expression levels for many of these genes were highly
+inter-related. While we did not detect any significant correlations between HOX
+expression and complete response rates or age in this limited set of patients,
+there was a significant correlation between event-free survival and HOXA7 with a 
+trend toward significance for HoxA9, HoxA4 and HoxA5. While patients with
+elevated HOX expression did worse, there were notable exceptions. Thus, although 
+HOX overexpression and clinical resistance to chemotherapy often coincide, they
+are not inextricably linked. Our results indicate that quantitative HOX analysis 
+has the potential to add new information to the management of patients with AML, 
+especially where characteristic chromosomal alterations are lacking.
+
+PMID: 11840284  [PubMed - indexed for MEDLINE]
+
+
+48. J Biol Chem. 2001 Aug 31;276(35):32489-94. Epub 2001 Jun 29.
+
+An Abd-B class HOX.PBX recognition sequence is required for expression from the
+mouse Ren-1c gene.
+
+Pan L(1), Xie Y, Black TA, Jones CA, Pruitt SC, Gross KW.
+
+Author information: 
+(1)Department of Molecular and Cellular Biology, Roswell Park Cancer Institute,
+Buffalo, New York 14263, USA.
+
+Expression from the mouse Ren-1(c) gene in As4.1 cells is dependent on a proximal
+promoter element (PPE) located at approximately -60 and a 241-base pair enhancer 
+region located at -2625 relative to the transcription start site. The PPE
+(TAATAAATCAA) is identical to a consensus HOX.PBX binding sequence. Further,
+PBX1b has been shown to be a component of a PPE-specific binding complex present 
+in nuclear extracts from As4.1 cells. The binding affinities of different paralog
+HOX members to the PPE were examined in the absence or presence of PBX1b. HOXB6, 
+-B7, and -C8 failed to bind the PPE alone but showed weak affinity in the
+presence of PBX1b. In contrast, HOXD10 and to a lesser degree HOXB9 bound the PPE
+with high affinities regardless of whether PBX1b was present. Abd-B HOX members, 
+including HOXD10, -A10, -A9, -B9, and -C9, are expressed in As4.1 cells. The
+ability of HOX and PBX1b to form a ternary complex with PREP1 on the PPE is also 
+demonstrated both in vivo and in vitro. Point mutations in either the HOX or PBX 
+half-site of the PPE disrupted the formation of the HOX.PBX complex and
+dramatically decreased transcriptional activity of the Ren-1(c) gene
+demonstrating that both the HOX and PBX half-sites are critical for mouse renin
+gene expression. These results strongly implicate Abd-B class Hox genes and their
+cofactors as major determinants of the sites of renin expression.
+
+PMID: 11432851  [PubMed - indexed for MEDLINE]
+
+
+49. Am J Pathol. 2001 Mar;158(3):955-66.
+
+HOX genes in human lung: altered expression in primary pulmonary hypertension and
+emphysema.
+
+Golpon HA(1), Geraci MW, Moore MD, Miller HL, Miller GJ, Tuder RM, Voelkel NF.
+
+Author information: 
+(1)Pulmonary Hypertension Center, University of Colorado Health Sciences Center, 
+4200 E. Ninth Ave., Denver, CO 80262, USA.
+
+HOX genes belong to the large family of homeodomain genes that function as
+transcription factors. Animal studies indicate that they play an essential role
+in lung development. We investigated the expression pattern of HOX genes in human
+lung tissue by using microarray and degenerate reverse transcriptase-polymerase
+chain reaction survey techniques. HOX genes predominantly from the 3' end of
+clusters A and B were expressed in normal human adult lung and among them HOXA5
+was the most abundant, followed by HOXB2 and HOXB6. In fetal (12 weeks old) and
+diseased lung specimens (emphysema, primary pulmonary hypertension) additional
+HOX genes from clusters C and D were expressed. Using in situ hybridization,
+transcripts for HOXA5 were predominantly found in alveolar septal and epithelial 
+cells, both in normal and diseased lungs. A 2.5-fold increase in HOXA5 mRNA
+expression was demonstrated by quantitative reverse transcriptase-polymerase
+chain reaction in primary pulmonary hypertension lung specimens when compared to 
+normal lung tissue. In conclusion, we demonstrate that HOX genes are selectively 
+expressed in the human lung. Differences in the pattern of HOX gene expression
+exist among fetal, adult, and diseased lung specimens. The altered pattern of HOX
+gene expression may contribute to the development of pulmonary diseases.
+
+PMCID: PMC1850338
+PMID: 11238043  [PubMed - indexed for MEDLINE]
+
+
+50. Mech Dev. 2001 Mar;101(1-2):233-6.
+
+HoxA and HoxB cluster genes subdivide the digestive tract into morphological
+domains during chick development.
+
+Sakiyama J(1), Yokouchi Y, Kuroiwa A.
+
+Author information: 
+(1)Division of Biological Science, Graduate School of Science, Nagoya University,
+Furo-cho, Chikusa-ku, 464-8602, Nagoya, Japan.
+
+The digestive tract exhibits region-specific morphology and cytodifferentiation
+along the anteroposterior axis. We analyzed the spatial expression patterns of
+Hox genes belonging to the HoxA and HoxB cluster (Hoxa-4 approximately a-9,
+Hoxb-5 approximately b-9) in the developing chick digestive tract. The expression
+domains of these Hox genes correlated with morphological subdivision of the
+digestive tract along the anteroposterior axis.
+
+PMID: 11231082  [PubMed - indexed for MEDLINE]
+
+
+51. Dev Biol. 2000 Apr 15;220(2):154-67.
+
+Targeted misexpression of constitutively active BMP receptor-IB causes
+bifurcation, duplication, and posterior transformation of digit in mouse limb.
+
+Zhang Z(1), Yu X, Zhang Y, Geronimo B, Lovlie A, Fromm SH, Chen Y.
+
+Author information: 
+(1)Department of Oral Biology, University of Oslo, Oslo, 0316, Norway.
+
+Members of bone morphogenetic proteins (BMPs) play important roles in many
+aspects of vertebrate embryogenesis. In developing limbs, BMPs have been
+implicated in control of anterior-posterior patterning, outgrowth,
+chondrogenesis, and apoptosis. These diverse roles of BMPs in limb development
+are apparently mediated by different BMP receptors (BMPR). To identify the
+developmental processes in mouse limb possibly contributed by BMP receptor-IB
+(BMPR-IB), we generated transgenic mice misexpressing a constitutively active
+Bmpr-IB (caBmpr-IB). The transgene driven by the mouse Hoxb-6 promoter was
+ectopically expressed in the posterior mesenchyme of the forelimb bud, the
+lateral plate mesoderm, and the whole mesenchyme of the hindlimb bud. While the
+forelimbs appeared normal, the transgenic hindlimbs exhibited several phenotypes,
+including bifurcation, preaxial polydactyly, and posterior transformation of the 
+anterior digit. However, the size of bones in the transgenic limbs seemed
+unaltered. Defects in sternum and ribs were also found. The bifurcation in the
+transgenic hindlimb occurred early in the limb development (E10.5) and was
+associated with extensive cell death in the mesenchyme and occasionally in the
+apical ectodermal ridge (AER). Sonic hedgehog (Shh) and Patched (Ptc) expression 
+appeared unaffected in the transgenic limb buds, suggesting that the BMPR-IB
+mediated signaling pathway is downstream from Shh. However, ectopic Fgf4
+expression was found in the anterior AER, which may account for the duplication
+of the anterior digit. An ectopic expression of Gremlin found in the transgenic
+limb bud would be responsible for the ectopic Fgf4 expression. The observations
+that Hoxd-12 and Hoxd-13 expression patterns were extended anteriorly provide a
+molecular basis for the posterior transformation of the anterior digit. Together 
+these results suggest that BMPR-IB is the endogenous receptor to mediate the role
+of BMPs in anterior-posterior patterning and apoptosis in mouse developing limb. 
+In addition, BMPR-IB may represent a critical component in the Shh/FGF4 feedback 
+loop by regulating Gremlin expression.
+
+Copyright 2000 Academic Press.
+
+PMID: 10753507  [PubMed - indexed for MEDLINE]
+
+
+52. Am J Hematol. 2000 Oct;65(2):111-8.
+
+Disruption of the homeobox gene Hoxb-6 in mice results in increased numbers of
+early erythrocyte progenitors.
+
+Kappen C(1).
+
+Author information: 
+(1)Samuel C. Johnson Medical Research Center, Mayo Clinic Scottsdale, Scottsdale,
+Arizona, USA. ckappen@unmc.edu
+
+Hox genes encode transcription factors that are required for proper development
+of certain tissues and for patterning of the hindbrain, the limbs, and skeleton. 
+They are also expressed in the hematopoietic system with a preference for
+specific cell lineages. To determine the role of Hoxb-6 in normal hematopoiesis, 
+mice with a targeted disruption in the Hoxb-6 gene were generated. Mature
+hematopoietic cell types and immune responses are normal in homozygous Hoxb-6
+mutants. Clonogenic progenitor cell assays demonstrate an increased number of
+early erythroid progenitor cells in the bone marrow and fetal liver of mutants,
+while differentiation of other cell lineages is unaffected. These results suggest
+that Hoxb-6 controls the generation, proliferation, or survival of erythroid
+progenitor cells.
+
+Copyright 2000 Wiley-Liss, Inc.
+
+PMID: 10996827  [PubMed - indexed for MEDLINE]
+
+
+53. Dev Dyn. 2000 Aug;218(4):636-47.
+
+Changes in HOXB6 homeodomain protein structure and localization during human
+epidermal development and differentiation.
+
+Kömüves LG(1), Shen WF, Kwong A, Stelnicki E, Rozenfeld S, Oda Y, Blink A,
+Krishnan K, Lau B, Mauro T, Largman C.
+
+Author information: 
+(1)Department of Dermatology, University of California VA Medical Center, San
+Francisco, California.
+
+HOX homeodomain proteins are master developmental regulators, which are now
+thought to function as transcription factors by forming cooperative DNA binding
+complexes with PBX or other protein partners. Although PBX proteins exhibit
+regulated subcellular localization and function in the nucleus in other tissues, 
+little data exists on HOX and PBX protein localization during skin development.
+We now show that the HOXB6 protein is expressed in the suprabasal layer of the
+early developing epidermis and throughout the upper layers of late fetal and
+adult human skin. HOXB6 signal is cytoplasmic throughout fetal epidermal
+development, but substantially nuclear in normal adult skin. HOXB6 protein is
+also partially nuclear in hyperproliferative skin conditions, but appears to be
+cytoplasmic in basal and squamous cell carcinomas. Although all three PBX genes
+are expressed in fetal epidermis, none of the three PBX proteins exhibit nuclear 
+co-localization with HOXB6 in either fetal or adult epidermis. RNA and protein
+data suggest that a truncated HOXB6 protein, lacking the homeodomain, is
+expressed in undifferentiated keratinocytes and that the full-length protein is
+induced by differentiation. GFP-fusion proteins were used to demonstrate that the
+full-length HOXB6 protein is localized to the nucleus while the truncated protein
+is largely cytoplasmic. Taken together, these data suggest that during epidermal 
+development the truncated HOXB6 isoform may function by a mechanism other than as
+DNA binding protein, and that most of the nuclear, homeodomain-containing HOXB6
+protein does not utilize PBX proteins as DNA binding partners in the skin.
+Published 2000 Wiley-Liss, Inc.
+
+PMID: 10906782  [PubMed - indexed for MEDLINE]
+
+
+54. Dev Biol. 2000 Jul 1;223(1):77-90.
+
+Lim1 activity is required for intermediate mesoderm differentiation in the mouse 
+embryo.
+
+Tsang TE(1), Shawlot W, Kinder SJ, Kobayashi A, Kwan KM, Schughart K, Kania A,
+Jessell TM, Behringer RR, Tam PP.
+
+Author information: 
+(1)Embyology Unit, University of Sydney, New South Wales, Australia.
+
+During gastrulation and early organogenesis, Lim1 is expressed in the visceral
+endoderm, the anterior mesendoderm, and the lateral mesoderm that comprises the
+lateral plate and intermediate mesoderm. A previous study has reported that
+kidneys and gonads are missing in the Lim1 null mutants (W. Shawlot and R. R.
+Behringer, 1995, Nature 374, 425-430). Results of the present study show that in 
+the early organogenesis stage mutant embryo, the intermediate mesoderm that
+contains the urogenital precursor tissues is disorganized and displays diminished
+expression of PAX2 and the Hoxb6-lacZ transgene. When posterior epiblast cells of
+the Lim1 null mutant embryo were transplanted to the primitive streak of
+wild-type host embryos, they were able to colonize the lateral plate and
+intermediate mesoderm of the host, suggesting that Lim1 activity is not essential
+for the allocation of epiblast cells to these mesodermal lineages. However, most 
+of the mutant cells that colonized the lateral and intermediate mesoderm of the
+host embryo did not express the Hoxb6-lacZ transgene, except for some cells that 
+were derived from the distal part of the posterior epiblast. Lim1 activity may
+therefore be required for the full expression of this transgene that normally
+marks the differentiation of the lateral plate and intermediate mesoderm.
+
+Copyright 2000 Academic Press.
+
+PMID: 10864462  [PubMed - indexed for MEDLINE]
+
+
+55. Biochem Biophys Res Commun. 2000 Jun 7;272(2):513-8.
+
+Deregulated expression of homeobox-containing genes, HOXB6, B8, C8, C9, and
+Cdx-1, in human colon cancer cell lines.
+
+Vider BZ(1), Zimber A, Chastre E, Gespach C, Halperin M, Mashiah P, Yaniv A,
+Gazit A.
+
+Author information: 
+(1)Department of Human Microbiology, Tel Aviv University, Tel Aviv, Israel.
+
+Previously we have demonstrated a reciprocal deregulation of various homeobox
+genes (HOXB6, B8, C8 and C9 vs Cdx-1) in human colorectal cancer (CRC). In the
+present study, using RT-PCR, we have investigated the expression pattern of these
+homeobox genes in various human colon cell lines, representing various stages of 
+colon cancer progression and differentiation. Thus, we have tested polyposis coli
+Pc/AA adenoma cells, Caco-2, HT-29 and LS174T adenocarcinoma cell lines. All cell
+lines, except LS174T, demonstrated a pattern of deregulated homeobox gene
+expression which resembled that of CRC. In contrast, the pattern of expression of
+these genes in the highly oncogenic LS174T cells, as well as in Caco-2 cells
+transfected with activated Ha-ras or Polyoma middle T oncogene, resembled that of
+the normal mucosa. The reciprocal deregulation of HOX and Cdx-1 genes in CRC and 
+in CRC-derived cell lines suggests a possible role in human CRC development.
+
+Copyright 2000 Academic Press.
+
+PMID: 10833444  [PubMed - indexed for MEDLINE]
+
+
+56. Genesis. 2000 Feb;26(2):118-20.
+
+HoxB6-Cre transgenic mice express Cre recombinase in extra-embryonic mesoderm, in
+lateral plate and limb mesoderm and at the midbrain/hindbrain junction.
+
+Lowe LA(1), Yamada S, Kuehn MR.
+
+Author information: 
+(1)Division of Basic Sciences, National Cancer Institute, National Institutes of 
+Health, Bethesda, MD 20892-1360, USA.
+
+PMID: 10686603  [PubMed - indexed for MEDLINE]
+
+
+57. J Exp Zool. 1999 Aug 15;285(2):170-6.
+
+Evolution of the HOXB6 intergenic region: motif conservation at the lateral plate
+mesoderm (LPM) enhancer element.
+
+Deinard A(1), Dorit R, Castiglione C, Jiang Z, Becker D, Ruddle F, Schugart K,
+Kidd K.
+
+Author information: 
+(1)Department of Genetics, Yale University School of Medicine, New Haven,
+Connecticut 06520, USA.
+
+This study reports the results of a comparative sequencing study in higher
+primates, focusing on the intergenic region located between HOXB6 and HOXB7. We
+have examined an 832 bp. region, encompassing a putative Lateral Plate Mesoderm
+(LPM) enhancer element in a variety of anthropoid apes. The interspecific
+comparisons reveal extensive substitutions occurring within this region, with a
+marked bias in favor of C-->T transitions within the enhancer element. The
+pattern of these substitutions suggests that the LPM enhancer region is subject
+to specific sequence and compositional constraints that are only revealed through
+comparative sequencing. These constraints produce an enhancer signature, the CpG 
+microisland, which may be useful in identifying additional regulatory elements
+located within the HOX complexes. J. Exp. Zool. (Mol. Dev. Evol.) 285:170-176,
+1999.
+
+Copyright 1999 Wiley-Liss, Inc.
+
+PMID: 10440728  [PubMed - indexed for MEDLINE]
+
+
+58. J Hum Evol. 1999 Jun;36(6):687-703.
+
+Evolution of a HOXB6 intergenic region within the great apes and humans.
+
+Deinard A(1), Kidd K.
+
+Author information: 
+(1)Department of Anthropology, Yale University, New Haven, CT 06520, USA.
+asdeinard@ucdavis.edu
+
+Data accumulated over the past decade from several loci suggest that nonhuman
+primates have a greater amount of intraspecific genetic variation relative to
+humans. In phylogenetic reconstructions among primates that are based on genetic 
+data, therefore, it becomes essential to adequately sample the population(s)
+being analyzed. Inadequate sampling may not only underestimate variation within
+any given population, but such an underestimate may confound any phylogenetic or 
+population-specific conclusions implied by the data. Here we present inter- and
+intraspecific data on the molecular evolution of an approximately 1.0 kb
+intergenic HOXB6 sequence among humans, common chimpanzees, pygmy chimpanzees,
+gorillas and orangutans. To date, this study represents the most comprehensive
+investigation of a noncoding nuclear locus among the great apes and humans that
+examines the nature and amount of intraspecific variation in DNA sequences. Not
+only do these HOXB6 data continue to support earlier findings that Homo sapiens
+sapiens has less genetic variation than any great ape species (Ruano et al.,
+1992; Deinard & Kidd, 1995), but they strongly suggest that a high level of
+genetic polymorphism existed within the common ancestor of the African ape clade 
+(Homo-Pan-Gorilla). Despite detecting two nucleotide substitutions linking Pan
+and Homo, we caution against concluding that the HOXB6 data definitively support 
+a Homo-Pan clade to the exclusion of Gorilla. Rather, we believe that taking into
+consideration the level of genetic polymorphism that is likely to have existed
+within the common ancestor, the most prudent conclusion that can be made from all
+available data, including morphological, karyotypic and genetic data, may be that
+speciation among Homo-Pan-Gorilla is best represented by a "trichotomy".
+
+Copyright 1999 Academic Press.
+
+PMID: 10330333  [PubMed - indexed for MEDLINE]
+
+
+59. J Exp Zool. 1999 Apr 15;285(1):76-84.
+
+Phylogenetically conserved CK-II phosphorylation site of the murine homeodomain
+protein Hoxb-6.
+
+Fienberg AA(1), Nordstedt C, Belting HG, Czernik AJ, Nairn AC, Gandy S, Greengard
+P, Ruddle FH.
+
+Author information: 
+(1)Department of Genetics, Yale University School of Medicine, Yale University,
+New Haven, Connecticut 06510, USA. fienba@rockvax.rockefeller.edu
+
+In an effort to characterize the signal transduction mechanisms that operate to
+regulate homeodomain protein function, we have analyzed the phosphorylation state
+of two homeodomain proteins, Hoxb-6 and Hoxc-8, in vitro and in vivo. The
+baculovirus expression system was employed to demonstrate that Hoxb-6 is
+phosphorylated in Sf9 cells while Hoxc-8 is not. Using two-dimensional tryptic
+phosphopeptide mapping and purified protein kinases, we demonstrate that Hoxb-6
+is phosphorylated in vitro by casein kinase II and cAMP-dependent protein kinase.
+The casein kinase II phosphorylation site was mapped to serine-214.
+Two-dimensional tryptic phosphopeptide mapping of immunoprecipitated Hoxb-6 from 
+mouse embryonic spinal cords demonstrates that the same peptide phosphorylated in
+vitro and in Sf9 cells by casein kinase II is also phosphorylated in vivo. The
+conservation of this site in several homeodomain proteins from various species is
+discussed.
+
+PMID: 10327653  [PubMed - indexed for MEDLINE]
+
+
+60. Blood. 1999 May 15;93(10):3391-400.
+
+Characterization of HOX gene expression during myelopoiesis: role of HOX A5 in
+lineage commitment and maturation.
+
+Fuller JF(1), McAdara J, Yaron Y, Sakaguchi M, Fraser JK, Gasson JC.
+
+Author information: 
+(1)Department of Biological Chemistry, UCLA School of Medicine, UCLA, Los
+Angeles, CA, USA.
+
+During the process of normal hematopoiesis, proliferation is tightly linked to
+maturation. The molecular mechanisms that lead to production of mature effector
+cells with a variety of phenotypes and functions from a single multipotent
+progenitor are only beginning to be elucidated. It is important to determine how 
+these maturation events are regulated at the molecular level, because this will
+provide significant insights into the process of normal hematopoiesis as well as 
+leukemogenesis. Transcription factors containing the highly conserved homeobox
+motif show considerable promise as potential regulators of hematopoietic
+maturation events. In this study, we focused on identification and
+characterization of homeobox genes of the HOX family that are important in
+regulating normal human myeloid differentiation induced by the hematopoietic
+growth factor, granulocyte-macrophage colony-stimulating factor (GM-CSF). We have
+identified three homeobox genes, HOX A5, HOX B6, and HOX B7, which are expressed 
+during early myelopoiesis. Treating bone marrow cells with antisense
+oligodeoxynucleotides to HOX A5 resulted in inhibition of granulocytic/monocytic 
+hematopoiesis and increased the generation of erythroid progenitors. Also,
+overexpression of HOX A5 inhibited erythroid differentiation of the K562 cell
+line. Based on these observations, we propose that HOX A5 functions as an
+important regulator of hematopoietic lineage determination and maturation.
+
+PMID: 10233891  [PubMed - indexed for MEDLINE]
+
+
+61. Leuk Lymphoma. 1998 Nov;31(5-6):599-608.
+
+Modulation of homeobox B6 and B9 genes expression in human leukemia cell lines
+during myelomonocytic differentiation.
+
+Ohnishi K(1), Tobita T, Sinjo K, Takeshita A, Ohno R.
+
+Author information: 
+(1)Department of Medicine III, Hamamatsu University School of Medicine, Japan.
+
+Homeobox genes (HOX) may have a regulatory function in the differentiation
+process of hematopoiesis. We examined the change of HOX B6 and HOX B9 mRNA
+expressions during the in vitro differentiation of four myeloid leukemia cell
+lines because HOX B6 may be involved closely in myeloid differentiation. HL-60,
+NB4, NKM-1 and NOMO-1 were established from acute leukemia of M2, M3, M2 and M5
+subtype of the French-American-British classification, respectively. All-trans
+retinoic acid (ATRA), TPA, and G-CSF were used as differentiation inducers. Each 
+cell line was cultured with each inducer and total RNA was isolated on day 1, 2, 
+3, or 5. HOX B mRNA was detected by Northern blotting and RT-PCR methods. HOX B6 
+and HOX B9 mRNAs were constitutively expressed in NB4, NKM-1 and NOMO-1, but were
+expressed at very low levels in HL-60. HOX B6 and HOX B9 mRNAs were also
+expressed in fresh acute myelocytic leukemia blasts. HOX B6 mRNA expression in
+HL-60, NB4, and NKM-1 cultured with ATRA increased on day 3 and decreased on day 
+5. HOX B6 mRNA expression in NB4 and NKM-1 cultured with TPA decreased on day 3. 
+HOX B9 mRNA expression displayed changes similar to those of HOX B6 mRNA in NB4
+and NKM-1. These results indicate that myeloid leukemia cell lines express HOX B6
+and HOX B9, and that their respective mRNA expressions in NB4 and HL-60 increase 
+at a mid stage of myeloid differentiation by ATRA induction and then decrease
+during a late stage. HOX B6 mRNA expression decreased in monocytoid
+differentiation by TPA induction in NB4, HL-60 and NKM-1. HOX B6
+antisense-oligonucleotide inhibited the proliferation of NB4 and NKM-1. These
+results suggest that HOX B gene expression is related to simultaneous activation 
+of cellular proliferation and differentiation in leukemic cells.
+
+PMID: 9922051  [PubMed - indexed for MEDLINE]
+
+
+62. Mech Dev. 1998 Sep;77(1):49-57.
+
+Analysis of Hoxa7/Hoxb7 mutants suggests periodicity in the generation of the
+different sets of vertebrae.
+
+Chen F(1), Greer J, Capecchi MR.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Department of Human Genetics, University of
+Utah School of Medicine, Salt Lake City, UT 84112, USA.
+
+Mice were generated with targeted disruptions in Hoxa7 and Hoxb7, respectively.
+Mice carrying the Hoxa7 mutation are healthy. No abnormalities in the formation
+of the skeleton or other tissues were found in these mutants. Twelve percent of
+Hoxb7-/- mutants show first and second rib defects similar to those observed in
+mice homozygous for a Hoxb9 mutation (Chen, F., Capecchi, M.R., 1997. Dev. Biol. 
+181, 186-196). Hoxb7-/- mice are also fertile and were used to generate double
+mutants with Hoxa7 to reveal potential interactions between these two paralogous 
+genes. Mice homozygous for both mutations have first and second rib defects with 
+higher penetrance and increased expressivity, indicating a functional role for
+Hoxa7 in the patterning of the upper thoracic region. Although Hoxb6, Hoxa7,
+Hoxb7, and Hoxb9 have distinctive anterior expression limits in axial mesoderm,
+the disruptions of these genes all yield first and second rib defects. A
+hypothesis is suggested to explain the observation that axial defects in these
+and other mouse Hox mutants appear to concentrate along the axial column at zones
+of transition between vertebral types.
+
+Copyright 1998 Elsevier Science Ireland Ltd. All Rights Reserved.
+
+PMID: 9784603  [PubMed - indexed for MEDLINE]
+
+
+63. EMBO J. 1998 Mar 16;17(6):1788-98.
+
+Selectivity, sharing and competitive interactions in the regulation of Hoxb
+genes.
+
+Sharpe J(1), Nonchev S, Gould A, Whiting J, Krumlauf R.
+
+Author information: 
+(1)Division of Developmental Neurobiology, National Institute for Medical
+Research, The Ridgeway, Mill Hill, London NW7 1AA, UK.
+
+The clustered organisation of Hox complexes is highly conserved in vertebrates
+and the reasons for this are believed to be linked with the regulatory mechanisms
+governing their expression. In analysis of the Hoxb4-Hoxb6 region of the HoxB
+complex we identified enhancers which lie in the intergenic region between Hoxb4 
+and Hoxb5, and which are capable of mediating the correct boundaries of neural
+and mesodermal expression for Hoxb5. We examined their regulatory properties in
+the context of the local genomic region spanning the two genes by transgenic
+analysis, in which each promoter was independently marked with a different
+reporter, to monitor simultaneously the relative transcriptional read-outs from
+each gene. Our analysis revealed that within this intergenic region: (i) a limb
+and a neural enhancer selectively activate Hoxb4 as opposed to Hoxb5; (ii) a
+separate neural enhancer is able to activate both genes, but expression is
+dependent upon competition between the two promoters for the enhancer and is
+influenced by the local genomic context; (iii) mesodermal enhancer activities can
+be shared between the genes. We found similar types of regulatory interactions
+between Hoxb5 and Hoxb6. Together these results provide evidence for three
+separate general mechanisms: selectivity, competition and sharing, that control
+the balance of cis-regulatory interactions necessary for generating the proper
+spatial and temporal patterns of Hox gene expression. We suggest that these
+mechanisms are part of a regulatory basis for maintenance of Hox organisation.
+
+PMCID: PMC1170526
+PMID: 9501100  [PubMed - indexed for MEDLINE]
+
+
+64. Blood. 1997 Apr 15;89(8):2723-35.
+
+Mammalian homeobox B6 expression can be correlated with erythropoietin production
+sites and erythropoiesis during development, but not with hematopoietic or
+nonhematopoietic stem cell populations.
+
+Zimmermann F(1), Rich IN.
+
+Author information: 
+(1)Department of Transfusion Medicine, University of Ulm, Germany.
+
+There has been increasing interest in the involvement of mammalian homeobox (HOX)
+genes in hematopoietic regulation. The HOX genes are clustered in 4 chromosomes
+in mice and humans. In general, 5' end HOX gene expression is predominant in
+hematopoietic stem cell populations, whereas 3' end HOX gene expression are
+primarily found in committed progenitor cells. Furthermore, HOX genes of the A
+cluster are generally found in myelomonocytic cells, B cluster genes in
+erythropoietic cells, and C cluster genes in lymphoid cells. The results
+presented here concentrate on a single gene, namely HOX B6. Preliminary
+observations using whole mount in situ hybridization showed that both HOX B6 and 
+erythropoietin (EPO) gene expression occurred in exactly the same areas of the
+8.5-day mouse embryo. As a consequence, we studied the expression of HOX B6 and
+EPO gene expression from 6.5 to 19.5 days of gestation, in the neonate, and in
+the adult. It was found that the sequential transfer of erythropoiesis in
+different organs during development was followed by a similar transfer of HOX B6 
+and EPO gene expression. Between days 16.5 and 17.5, both HOX B6 and EPO gene
+expression decrease in the fetal liver, even though hepatic erythropoiesis
+continues to decline and is transferred to the fetal spleen. Precisely at this
+time point, HOX B6 and EPO gene expression are transferred to both the fetal
+spleen and fetal kidney. However, surprisingly, expression of both genes
+increases again in the fetal liver just before birth. HOX B6 is expressed in
+cells from in vitro erythropoietic colonies (colony-forming unit-erythroid and
+burst-forming unit-erythroid) and TER-119+ erythroid cells but not in
+hematopoietic or nonhematopoietic stem cell populations. When the latter two
+populations are allowed to differentiate into erythropoietic cells, HOX B6 and
+erythroid-relevant markers are expressed. The results indicate that HOX B6 is
+intimately involved in the regulation of the erythropoietic system and could be a
+marker for this lineage.
+
+PMID: 9108390  [PubMed - indexed for MEDLINE]
+
+
+65. Biochem Biophys Res Commun. 1997 Mar 27;232(3):742-8.
+
+Human colorectal carcinogenesis is associated with deregulation of homeobox gene 
+expression.
+
+Vider BZ(1), Zimber A, Hirsch D, Estlein D, Chastre E, Prevot S, Gespach C, Yaniv
+A, Gazit A.
+
+Author information: 
+(1)Department of Human Microbiology, Sackler School of Medicine, Tel Aviv
+University, Israel.
+
+In the present study, the possible involvement of homeobox-containing genes in
+colorectal cancer (CRC) development was investigated. Using a stepwise screening 
+approach and RT-PCR, we have demonstrated that the human HOXB6, B8, C8 and C9 are
+overexpressed at various stages of CRC. In contrast, all CRC cases exhibited a
+marked decrease in the homeodomain-containing Cdx1 gene expression. Recent data
+which suggest a regulatory link between HOXB8 and several tumor suppressor genes,
+such as DCC, APC, and TGF beta, sustain a possible implication of homeobox genes 
+in colon carcinogenesis. Moreover, our data showing a decrease in Cdx1 expression
+are consistent with the notion that genes functioning in the establishment and
+maintenance of the intestinal epithelium might, upon deregulation, disturb the
+normal control of cellular proliferation, differentiation, and death, thus
+leading to cancer development.
+
+PMID: 9126347  [PubMed - indexed for MEDLINE]
+
+
+66. Dev Dyn. 1996 Sep;207(1):47-59.
+
+Retinoic acid alters the expression of pattern-related genes in the developing
+rat lung.
+
+Cardoso WV(1), Mitsialis SA, Brody JS, Williams MC.
+
+Author information: 
+(1)Department of Medicine, Boston University School of Medicine, MA 02118, USA.
+
+Exogenous retinoids alter pattern formation and differentiation in many
+developing systems, such as limb, vertebrae, and central nervous system. Many of 
+these effects are mediated by changes in expression of patterning genes such as
+Hox genes and Sonic hedgehog. We have previously shown that exogenous retinoic
+acid, administered to the embryonic rat lung in culture alters the structural
+pattern of the developing lung, suppressing formation of distal lung and favoring
+growth of proximal tubules. To determine whether these retinoic acid-induced
+changes in lung development were linked to alterations in pattern-related genes, 
+we characterized the expression of Hoxa-2, Hoxb-6, and Sonic hedgehog mRNAs in
+vivo and in vitro, with or without 10(-5)M retinoic acid, by in situ
+hybridization and quantitative polymerase chain reaction. Each of these genes
+demonstrated unique timing and distribution of expression that was similar in
+vivo and in control cultured embryonic lungs. Hoxb-6 and Sonic hedgehog mRNAs
+both decreased during lung development in vivo or in vitro. From the patterns of 
+mRNA expression we propose that Hoxb-6 is involved in distal airway branching
+while Hoxa-2 is involved in differentiation of proximal mesenchymal derivatives
+and vasculogenesis in the lung. RA upregulated all three genes, changing their
+developmental pattern of distribution and preventing the developmental decrease
+in Sonic hedgehog expression. We propose that RA acts to maintain high levels of 
+expression of these and likely other pattern-related genes in a fashion that is
+characteristic of the immature lung, promoting continued formation of proximal
+lung structures and preventing formation of typical distal lung structures of the
+mature lung.
+
+PMID: 8875075  [PubMed - indexed for MEDLINE]
+
+
+67. Pharm Acta Helv. 1996 Jun;71(1):29-35.
+
+The limb/LPM enhancer of the murine Hoxb6 gene: reporter gene analysis in
+transgenic embryos and studies of DNA-protein interactions.
+
+Becker D(1), Eid R, Schughart K.
+
+Author information: 
+(1)Max-Planck-Institut für Immunbiologie, Freiburg, Germany.
+
+Homeobox genes are expressed in stage-, region-, and tissue-specific patterns
+during embryonic development of the mouse. In order to study cis-acting
+regulatory elements of murine homeobox genes, transgenic mouse embryos were
+generated which contained the LacZ reporter gene under the control of different
+fragments from the murine Hoxb6 gene. A 2 kb limb/LPM (lateral plate mesoderm)
+enhancer region was identified which reproduced several aspects of the endogenous
+Hoxb6 gene expression pattern in the mesenchyme of the developing limb buds and
+the ventro-lateral body region. Both tissues represent derivatives of the lateral
+plate mesoderm. In order to describe proteins interacting with specific DNA
+sequences in the limb/LPM enhancer, electro mobility shift assays were performed 
+using nuclear extracts prepared from embryonic tissues. Several specific
+DNA-protein complexes could be detected, suggesting that these DNA-protein
+interactions are important for the regulation of Hoxb6 gene expression.
+
+PMID: 8786996  [PubMed - indexed for MEDLINE]
+
+
+68. Mamm Genome. 1996 Mar;7(3):174-9.
+
+Chromosomal localization of homeobox genes and associated markers on porcine
+chromosomes 3, 5, 12, 15, 16 and 18: comparative mapping study with human and
+mouse.
+
+Lahbib-Mansais Y(1), Yerle M, Pinton P, Gellin J.
+
+Author information: 
+(1)Laboratoire de Genetique Cellulaire, Centre INRA Toulouse, France.
+
+Four homeobox genes that belong to the four homeobox gene clusters known in
+mammals have been regionally assigned to four distinct porcine chromosomes in
+conserved regions between human and pig. HOXA11, HOXB6, HOXC8, and HOXD4 genes
+were mapped by radioactive in situ hybridization to porcine Chromosomes (Chrs)
+18q21-24 (with a secondary signal in 16q14-21), 12p11-12, 5p11-12, and 15q22-23
+respectively. Besides, we have also revealed the presence of a porcine homeobox
+(pig Hbx24) which, although showing DNA sequence homology with a mouse gene of
+HOXB cluster, was located on porcine Chr 3 (3p14-13) outside the Hox clusters. To
+support the identity of the homeobox gene clusters analyzed and in the light of
+the high sequence similarity among homeobox genes, we also localized markers
+known to be mapped near each Hox cluster in human. In this way, four genes were
+also mapped in pig: GAPD (5q12-21), GAD1 (15q21-22), INHBA (18q24), and IGFBP3
+(18q24). Mapping of HOXA11, INHBA, and IGFBP3 on pig Chr 18 constitutes the first
+assignments of genes on this small chromosome. These new localizations extend the
+information on the conservation of four human chromosomal regions in the pig
+genome.
+
+PMID: 8833235  [PubMed - indexed for MEDLINE]
+
+
+69. Mol Biol Rep. 1996;23(1):59-70.
+
+Transcription factor regulation of epidermal keratinocyte gene expression.
+
+Eckert RL(1), Welter JF.
+
+Author information: 
+(1)Department of Physiology, Case Western Reserve University School of Medicine, 
+Cleveland, OH 44106-4970, USA.
+
+The epidermis is a tissue that undergoes a very complex and tightly controlled
+differentiation program. The elaboration of this program is generally flawless,
+resulting in the production of an effective protective barrier for the organism. 
+Many of the genes expressed during keratinocyte differentiation are expressed in 
+a coordinate manner; this suggests that common regulatory models may emerge. The 
+simplest model envisions a 'common regulatory element' that is possessed by all
+genes that are regulated together (e.g., involucrin and transglutaminase type 1).
+Studies to date, however, have not identified any such elements and, if anything,
+the available studies suggest that appropriate expression of each gene is
+achieved using sometime subtly and sometime grossly different mechanisms. Recent 
+studies indicate that a variety of transcription factors (AP1, AP2, POU domain.
+Sp1, STAT factors) are expressed in the epidermis and, in many cases, multiple
+members of several families are present (e.g., AP1 and POU domain factors). The
+simultaneous expression of multiple members of a single transcription factor
+family provides numerous opportunities for complex regulation. Some studies
+suggest that specific members of these families interact with specific
+keratinocyte genes. The best studied of these families in epidermis is the AP1
+family of factors. All of the known AP1 factors are expressed in epidermis [52]
+and each is expressed in a specific spatial pattern that suggests the potential
+to regulate multiple genes. It will be important to determine the role of each of
+these members in regulating keratinocyte gene expression. Finally, information is
+beginning to emerge regarding signal transduction in keratinocytes. Some of the
+early events in signal transduction have been identified (e.g., PLC and PKC
+activation, etc.) and some of the molecular targets of these pathways (e.g., AP1 
+transcription factors) are beginning to be identified. Eventually we can expect
+to elucidation of all of the steps between the interaction of the stimulating
+agent with its receptor and the activation of target gene expression.
+
+PMID: 8983019  [PubMed - indexed for MEDLINE]
+
+
+70. Dev Dyn. 1996 Jan;205(1):73-81.
+
+Conserved regulatory element involved in the early onset of Hoxb6 gene
+expression.
+
+Becker D(1), Jiang Z, Knödler P, Deinard AS, Eid R, Kidd KK, Shashikant CS,
+Ruddle FH, Schughart K.
+
+Author information: 
+(1)Max-Planck-Institut für Immunbiologie, Freiburg, Germany.
+
+We have identified a 338 bp DNA fragment, the lateral plate mesoderm (LPM)
+enhancer, that is highly conserved between mouse and human. The LPM enhancer
+directs gene expression into the posterior lateral plate mesoderm and hindgut
+endoderm at early stages of development. By reporter gene analysis in transgenic 
+mice, we demonstrate that both mouse and human DNA sequences possess similar
+enhancer activity. The expression patterns of the transgene and Hoxb6 during
+early stages of mouse development are identical, suggesting that the LPM enhancer
+is involved in the initial activation of Hoxb6 gene expression in posterior
+regions of mammalian embryos.
+
+PMID: 8770553  [PubMed - indexed for MEDLINE]
+
+
+71. Genes Dev. 1995 Mar 15;9(6):663-74.
+
+Pbx proteins display hexapeptide-dependent cooperative DNA binding with a subset 
+of Hox proteins.
+
+Chang CP(1), Shen WF, Rozenfeld S, Lawrence HJ, Largman C, Cleary ML.
+
+Author information: 
+(1)Department of Pathology, Stanford University Medical Center, California 94305,
+USA.
+
+The human proto-oncogene PBX1 codes for a homolog of Drosophila extradenticle, a 
+divergent homeo domain protein that modulates the developmental and DNA-binding
+specificity of select HOM proteins. We demonstrate that wild-type Pbx proteins
+and chimeric E2a-Pbx1 oncoproteins cooperatively bind a consensus DNA probe with 
+HoxB4, B6, and B7 of the Antennapedia class of Hox/HOM proteins. Specificity of
+Hox-Pbx interactions was suggested by the inability of Pbx proteins to
+cooperatively bind the synthetic DNA target with HoxA10 or Drosophila
+even-skipped. Site-directed mutagenesis showed that the hexapeptide motif
+(IYPWMK) upstream of the Hox homeo domain was essential for HoxB6 and B7 to
+cooperatively bind DNA with Pbx proteins. Engraftment of the HoxB7 hexapeptide
+onto HoxA10 endowed it with robust cooperative properties, demonstrating a
+functional role for the highly conserved hexapeptide element as one of the
+molecular determinants delimiting Hox-Pbx cooperativity. The Pbx homeo domain was
+necessary but not sufficient for cooperativity, which required conserved amino
+acids carboxy-terminal of the homeo domain. These findings demonstrate that
+interactions between Hox and Pbx proteins modulate their DNA-binding properties, 
+suggesting that Pbx and Hox proteins act in parallel as heterotypic complexes to 
+regulate expression of specific subordinate genes.
+
+PMID: 7729685  [PubMed - indexed for MEDLINE]
+
+
+72. Genomics. 1994 Feb;19(3):589-91.
+
+Localization of glucose-dependent insulinotropic polypeptide (GIP) to a gene
+cluster on chromosome 17q.
+
+Lewis TB(1), Saenz M, O'Connell P, Leach RJ.
+
+Author information: 
+(1)Department of Cellular and Structural Biology, University of Texas Health
+Science Center, San Antonio 78284.
+
+Glucose-dependent insulinotropic polypeptide (GIP) has been regionally localized 
+to a gene cluster on human chromosome 17q. Genetic mapping through CEPH reference
+families demonstrated that GIP was tightly linked to NME1 and PPY and fully
+linked to HOXB6 and NGFR. High-resolution radiation hybrid mapping resolved the
+gene order as cen-PPY-HOXB6-NGFR-GIP-NME1-tel. GIP maps distal to NGFR with an
+estimated distance of 250 kb.
+
+PMID: 8188305  [PubMed - indexed for MEDLINE]
+
+
+73. Biochem Pharmacol. 1994 Jan 13;47(1):137-43.
+
+Homeobox genes: potential candidates for the transcriptional control of the
+transformed and invasive phenotype.
+
+Castronovo V(1), Kusaka M, Chariot A, Gielen J, Sobel M.
+
+Author information: 
+(1)Metastasis Research Laboratory, University of Liège, Belgium.
+
+The transformation of a cell and the acquisition of the invasive and metastatic
+phenotype result from the activation of a group of complex cellular processes
+rather than from the effect of a single gene product. It is likely that the
+coordination of the multiple genes involved in malignancy is under the control of
+a few genes that act as master genes or orchestrator genes. The latter probably
+code for transcription factors that control the genetic program for tumor
+invasion and metastasis. Homeobox genes are a family of transcription factors
+that contain a 183 bp highly conserved nucleotide sequence coding for a 61 amino 
+acid domain that binds specifically to DNA. First discovered in Drosophila as
+genes controlling segmentation and segment identity, homeobox genes have since
+been identified in many other species including nematodes, frog, mouse and human.
+There is strong support for the suggestion that homeobox genes play a key role in
+development and differentiation. In humans, there are 38 homeobox genes organized
+in four clusters that are localized on chromosomes 2, 7, 12 and 17. The specific 
+functions of each of these genes are generally unknown. Alterations in expression
+of several homeobox genes have been reported in a variety of malignant lesions,
+suggesting that they could play a role in the development of cancer. Using
+reverse transcriptase reaction coupled with polymerase chain reaction and
+degenerate oligonucleotides corresponding to the 5' and 3' ends of the highly
+conserved homeodomain, we amplified 130 bp cDNA fragments from the human breast
+cancer cell line MCF7 that were subsequently cloned into pBluescript vector.
+Sequencing of the clones, resulted in the identification of the homeodomains of
+four different human homeobox genes: HOXB6, HOXA1, HOXA10 and HOXC6. Further
+studies should determine the specific role of these four homeobox genes in the
+development and progression of human breast cancer and potentially determine if
+they might be good targets for gene therapy.
+
+PMID: 7906121  [PubMed - indexed for MEDLINE]
+
+
+74. Mech Dev. 1993 Aug;42(3):139-50.
+
+Functional analysis of the mouse homeobox gene HoxB9 in Drosophila development.
+
+Malicki J(1), Bogarad LD, Martin MM, Ruddle FH, McGinnis W.
+
+Author information: 
+(1)Department of Genetics, Yale University, New Haven, CT 06511.
+
+Mammalian genomes contain clusters of homeobox genes (Hox-C, HOX-C) which are
+structurally similar to the homeotic genes of the Drosophila HOM complex. One
+method for assessing the functional similarity of particular Drosophila HOM and
+mammalian Hox genes is to test the ability of Hox genes to induce homeotic
+phenotypes when expressed in developing Drosophila. Here we describe such
+functional tests using mouse HoxB9 (formerly Hox-2.5), whose closest structural
+relative in Drosophila is Abdominal-B. When expressed from a heat shock promoter,
+HoxB9 induces transformations of head towards more posterior identities in
+Drosophila larvae and adults. These transformations share some similarities with 
+the phenotypic effects produced by ectopically expressed Abdominal-B, but are
+also similar to the transformations induced by Antennapedia and mouse HoxB6
+(Hox-2.2), suggesting that HoxB9 specifies a positional identity that is
+intermediate between Antennapedia and Abdominal-B.
+
+PMID: 8105876  [PubMed - indexed for MEDLINE]
+
+

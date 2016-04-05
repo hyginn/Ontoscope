@@ -1,0 +1,285 @@
+
+1. PLoS One. 2014 Aug 25;9(8):e105836. doi: 10.1371/journal.pone.0105836.
+eCollection 2014.
+
+RNA-sequencing analysis of HepG2 cells treated with atorvastatin.
+
+Stormo C(1), Kringen MK(2), Lyle R(3), Olstad OK(1), Sachse D(4), Berg JP(5),
+Piehler AP(6).
+
+Author information: 
+(1)Department of Medical Biochemistry, Oslo University Hospital, Ullevål, Oslo,
+Norway. (2)Department of Pharmacology, Oslo University Hospital, Ullevål, Oslo,
+Norway. (3)Department of Medical Genetics, Oslo University Hospital and
+University of Oslo, Oslo, Norway. (4)Institute of Clinical Medicine, Faculty of
+Medicine, University of Oslo, Oslo, Norway. (5)Department of Medical
+Biochemistry, Oslo University Hospital, Ullevål, Oslo, Norway; Institute of
+Clinical Medicine, Faculty of Medicine, University of Oslo, Oslo, Norway.
+(6)Fürst Medical Laboratory, Oslo, Norway.
+
+The cholesterol-lowering drug atorvastatin is among the most prescribed drug in
+the world. Alternative splicing in a number of genes has been reported to be
+associated with variable statin response. RNA-seq has proven to be a powerful
+technique for genome-wide splice variant analysis. In the present study, we
+sought to investigate atorvastatin responsive splice variants in HepG2 cells
+using RNA-seq analysis to identify novel candidate genes implicated in
+cholesterol homeostasis and in the statin response. HepG2 cells were treated with
+10 µM atorvastatin for 24 hours. RNA-seq and exon array analyses were performed. 
+The validation of selected genes was performed using Taqman gene expression
+assays. RNA-seq analysis identified 121 genes and 98 specific splice variants, of
+which four were minor splice variants to be differentially expressed, 11 were
+genes with potential changes in their splicing patterns (SYCP3, ZNF195, ZNF674,
+MYD88, WHSC1, KIF16B, ZNF92, AGER, FCHO1, SLC6A12 and AKAP9), and one was a gene 
+(RAP1GAP) with differential promoter usage. The IL21R transcript was detected to 
+be differentially expressed via RNA-seq and RT-qPCR, but not in the exon array.
+In conclusion, several novel candidate genes that are affected by atorvastatin
+treatment were identified in this study. Further studies are needed to determine 
+the biological significance of the atorvastatin responsive splice variants that
+have been uniquely identified using RNA-seq.
+
+PMCID: PMC4143339
+PMID: 25153832  [PubMed - indexed for MEDLINE]
+
+
+2. Int J Clin Exp Pathol. 2014 Mar 15;7(4):1514-23. eCollection 2014.
+
+DNA microarray reveals ZNF195 and SBF1 are potential biomarkers for gemcitabine
+sensitivity in head and neck squamous cell carcinoma cell lines.
+
+Zhu MH(1), Ji SL(1), Zhang CY(1), Cui L(1), Xiong L(1), Zheng HL(1).
+
+Author information: 
+(1)Department of Otorhinolaryngology-Head and Neck Surgery, Changhai Hospital,
+Second Military Medical University Shanghai, China.
+
+Gemcitabine is a potential chemotherapy drug for treatment of head and neck
+squamous cell carcinoma (HNSCC), however, the poor or partial response of HNSCC
+patients to gemcitabine demonstrated the urgent need for gemcitabine biomarkers
+to improve the therapy. In present work, 10 HNSCC cell lines were employed to
+figure out the biomarkers for gemcitabine sensitivity. The sensitivities of these
+10 cell lines to gemcitabine and the basal expression of these cell lines was
+investigated, the correlation between gemcitabine response (IC50 dose) and gene
+expression was investigated by Pearson correlation and FDR estimation. The top
+seven positive genes responsible for gemcitabine sensitivity were validated by
+qPCR in these 10 HNSCC cell lines, while only two genes (SBF1 and ZNF195) were
+expression-correlated to gemcitabine response. Furthermore, ZNF195 expression was
+closely associated with gemcitabine sensitivity in the subsequent independent
+validation in cell lines from various types of cancer. Our work might provide
+potential biomarkers for gemcitabine sensitivity in HNSCC and various type of
+cancer.
+
+PMCID: PMC4014231
+PMID: 24817947  [PubMed - indexed for MEDLINE]
+
+
+3. Stem Cells Dev. 2013 Apr 1;22(7):1136-46. doi: 10.1089/scd.2012.0369. Epub 2013
+Jan 4.
+
+Transforming pluripotency: an exon-level study of malignancy-specific transcripts
+in human embryonal carcinoma and embryonic stem cells.
+
+Alagaratnam S(1), Harrison N, Bakken AC, Hoff AM, Jones M, Sveen A, Moore HD,
+Andrews PW, Lothe RA, Skotheim RI.
+
+Author information: 
+(1)Department of Cancer Prevention, Institute for Cancer Research, Oslo
+University Hospital, Oslo, Norway.
+
+To circumvent difficulties of isolating pure populations of cancer stem cells
+(CSCs) for the purpose of identifying malignancy-specific gene expression, we
+have compared exon-resolution transcriptomic profiles of 5 embryonal carcinoma
+(EC) cell lines, a histological subtype of germ cell tumor (GCT), to their
+nonmalignant caricature, specifically 6 human embryonic stem (ES) cell lines.
+Both cell types are readily accessible, and were purified for undifferentiated
+cells only. We identified a set of 28 differentially expressed genes, many of
+which had cancer and stemness roles. Overexpression of the recently discovered
+pluripotency gene NR5A2 in malignant EC cells revealed an intriguing indication
+of how WNT-mediated dysregulation of pluripotency is involved with malignancy.
+Expression of these 28 genes was further explored within 2 publically available
+data sets of primary EC tumors and normal testis. At the exon-level, alternative 
+splicing events were detected in ZNF195, DNMT3B, and PMF1, and alternative
+promoters were detected for ASH2L and ETV5. These events were validated by
+reverse transcriptase-polymerase chain reaction-based methods in EC and ES lines,
+where the alternative splicing event in the de novo DNA methyltransferase DNMT3B 
+may have functional consequences. In conclusion, we have identified
+malignancy-specific gene expression differences within a rigorous pluripotent
+stem cell context. These findings are of particular interest for both GCT and ES 
+cell biology, and, in general, to the concept of CSCs.
+
+PMID: 23137282  [PubMed - indexed for MEDLINE]
+
+
+4. Exp Dermatol. 2008 Apr;17(4):324-34. Epub 2007 Nov 2.
+
+Identification of selectively expressed genes and antigens in CTCL.
+
+Hartmann TB(1), Mattern E, Wiedemann N, van Doorn R, Willemze R, Niikura T,
+Hildenbrand R, Schadendorf D, Eichmüller SB.
+
+Author information: 
+(1)German Cancer Research Center, Skin Cancer Unit, Heidelberg, Germany.
+
+The knowledge of tumor-associated antigens is required for most types of
+immunotherapy and can substantially facilitate diagnosis. To identify potential
+tumor-associated genes expressed in cutaneous T-cell lymphoma (CTCL), we used
+three complementary strategies: antigens which elicit a humoral immune response
+in CTCL patients were detected by serological analysis of a recombinant cDNA
+expression library. cDNAs differentially expressed in CTCL but not peripheral
+blood monocytes were identified by comparative cDNA hybridization and suppression
+subtractive hybridization. We identified 43 genes selectively expressed by CTCL
+cells, that have not yet been described in the context of CTCL development, but
+most of which had been reported to be associated with cancer. Expression analysis
+by database mining and subsequently RT-PCR on selected clones confirmed their
+selective expression in CTCL tissues. Serological tests showed that 15 clones
+were recognized by sera of CTCL patients but not of healthy donors. Analysis of
+serological tests for 11 clones using serum antibody detection array (SADA) and
+100 sera of controls and CTCL patients each revealed up to 5% reactive sera in
+the tumor group. The expression pattern of the detected clones and their
+immunogenicity demonstrates that they might be relevant for the understanding of 
+CTCL and suggests particularly three clones, HD-CL-41 (DRAK2), HD-CL-49 (nudC)
+and HD-CL-12 (ZNF195) for further analysis with respect to their prognostic and
+therapeutic value for CTCL.
+
+PMID: 17979976  [PubMed - indexed for MEDLINE]
+
+
+5. Gene. 1999 Oct 18;239(1):99-107.
+
+HERV-F (XA34) is a full-length human endogenous retrovirus expressed in placental
+and fetal tissues.
+
+Kjellman C(1), Sjögren HO, Salford LG, Widegren B.
+
+Author information: 
+(1)University of Lund, Department of Cell and Molecular Biology, Sweden.
+
+The complete sequence of XA34 was identified from a 107 kb genomic clone
+originating from the human chromosome 7q31.1-q31.3. The 7.1 kb human endogenous
+retrovirus (HERV) contains LTR's, gag, pol and env, and a pol sequence which is
+identical to the 2.3 kb XA34 cDNA clone which we previously isolated from a human
+glioma cDNA library (Widegren et al., 1996). The HERV is located in a reversed
+orientation within an intron-sequence of a gene similar to mouse adseverin(D5).
+The gag and protease regions are intact. However, the pol and env regions are
+truncated by a deletion which removes the C-terminal end of the integrase and the
+complete surface protein. The HERV sequence is bordered by a five base-pair
+direct repeat and has the TG...CA structure. Over the complete HERV genome, XA34 
+is very similar to members of the HERV-F family and shares the same primer
+binding site which is homologous to phenylalanine (F) tRNA. Therefore, XA34 is
+termed HERV-F(XA34). HERV-F(XA34) has an open reading frame (ORF) of 1000 bp in
+the gag region which starts with Met-Gly in a favorable context and stops in the 
+capsid protein. A strong mRNA expression of HERV-F(XA34) is demonstrated in
+placental tissue, mainly residing in two transcripts of approximately 7.5 and
+8.5-9 kb respectively. Analyses of expressed sequence tags (ESTs) have identified
+the expression of HERV-F(XA34) sequences in placental tissue, fetal liver/spleen,
+olfactory epithelium and in an epithelial skin tumor. EST analysis has also
+identified splice variants of HERV-F(XA34), in which the gag, pol and most of the
+env regions are spliced out. These splice variants contain a short ORF encoded in
+the region from the C-terminal portion of env to the 3'-LTR. In addition, ESTs
+identical to HERV-Fb have been identified in retinal, fetal liver/spleen and
+brain tissue as well as Jurkat cells. The analyses indicate that the 5'-LTR of
+HERV-Fb may function as an alternative poly A site of a Krüppel related zinc
+finger gene (ZNF195).
+
+PMID: 10571039  [PubMed - indexed for MEDLINE]
+
+
+6. J Gen Virol. 1999 Sep;80 ( Pt 9):2383-92.
+
+HERV-F, a new group of human endogenous retrovirus sequences.
+
+Kjellman C(1), Sjögren HO, Widegren B.
+
+Author information: 
+(1)University of Lund, Department of Cell and Molecular Biology, Sweden.
+Christian.Kjellman@wblab.lu.se
+
+Using primers from a conserved region of the XA34 human endogenous retrovirus
+(HERV) family, four pol fragments originating from new members of the family were
+amplified from human genomic DNA. Southern blot analysis demonstrated similar
+hybridization patterns in human, chimpanzee and orangutan and distinct
+hybridization to macaque DNA. The probes also exhibited weaker hybridization to
+squirrel monkey DNA. Using large genomic clones, two full-length XA34-related
+HERVs have been identified. One of the HERVs is located downstream of a human
+Krüppel-related zinc finger protein gene, ZNF195. Both of the newly identified
+long terminal repeats have potential TATA boxes, poly(A) signals and
+transcription factor-binding sites but they differ to a high degree, especially
+in the U3 region. The primer-binding sites were found to be homologous to
+tRNA(Phe) (TTC), and therefore these new HERVs have been given the name HERV-F.
+The closest relatives to the HERV-Fs are the RTVLH-RGH family. Phylogenetic
+analyses of the Gag, Pol and Env regions are discussed. Both of the newly
+identified HERV-Fs were shown to contain protease, reverse transcriptase,
+integrase and env regions and had characteristic deletions in the integrase and
+env regions. In addition, the capsid protein gene of gag and two conserved
+zinc-binding motifs that are characteristic of a potential nucleic acid-binding
+protein were also identified. Apart from an ORF spanning the protease of one
+HERV-F, no other longer ORFs were found.
+
+PMID: 10501491  [PubMed - indexed for MEDLINE]
+
+
+7. Hum Mol Genet. 1999 Jul;8(7):1337-52.
+
+Multipoint analysis of human chromosome 11p15/mouse distal chromosome 7:
+inclusion of H19/IGF2 in the minimal WT2 region, gene specificity of H19
+silencing in Wilms' tumorigenesis and methylation hyper-dependence of H19
+imprinting.
+
+Dao D(1), Walsh CP, Yuan L, Gorelov D, Feng L, Hensle T, Nisen P, Yamashiro DJ,
+Bestor TH, Tycko B.
+
+Author information: 
+(1)Department of Pathology and Institute for Cancer Genetics, Columbia Univesity 
+College of Physicians and Surgeons, New York, NY 10032, USA.
+
+WT2 is defined by maternal-specific loss of heterozygosity (LOH) on chromosome
+11p15.5 in Wilms' tumors (WTs). The imprinted H19 gene, in this region, is
+silenced and hypermethylated in most WTs, and this is linked to pathological
+biallelic expression of IGF2. However, H19 and IGF2 lie within a larger imprinted
+domain, and the gene specificity of H19 epimutation has been a persistent
+question. To address this, we assessed LOH, gene expression and DNA methylation
+at multiple sites in and around the imprinted domain. LOH mapping showed that the
+entire domain, including IGF2/H19, is within the minimal WT2 region. Genes within
+the domain, including IPL/TSSC3/BWR1C, IMPT1/ORCTL2/BWR1A/TSSC5, KvLQT1/KCNA9 and
+TAPA1/CD81, as well as the zinc finger gene ZNF195/ZNFP104 near the centromeric
+border, were expressed persistently in many WTs. DNA hypermethylation was not
+detected with 5" upstream probes for IPL, IMPT1, KvLQT1 and ZNF195 in WTs or
+WT-associated kidneys. Fully developed WTs showed variable hypomethylation at an 
+imprinted CpG island in a KvLQT1 intron, but this was only complete in the cases 
+with LOH and was not observed in pre-neoplastic WT-associated kidneys with H19
+epimutation. Analysis of the corresponding region of mouse chromosome 7 using
+methyltransferase-hypomorphic mice showed that the H19 imprint was fully erased, 
+but that the allelic bias at Ipl, Impt1, p57 Kip2 and, to a lesser extent,
+Kvlqt1, persisted. Pre-existing massive allelic asymmetry for DNA methylation and
+hyper-dependence of transcription on methylation status may underlie the
+mechanism of gene-specific silencing of H19 in Wilms' tumorigenesis.
+
+PMID: 10369881  [PubMed - indexed for MEDLINE]
+
+
+8. Genomics. 1997 Oct 15;45(2):451-5.
+
+Characterization of a KRAB family zinc finger gene, ZNF195, mapping to chromosome
+band 11p15.5.
+
+Hussey DJ(1), Parker NJ, Hussey ND, Little PF, Dobrovic A.
+
+Author information: 
+(1)Department of Haematology-Oncology, University of Adelaide Department of
+Medicine, Woodville, South Australia, 5011, Australia.
+
+We report the cDNA sequence of the zinc finger gene, ZNF195, which maps to
+chromosome 11p15.5. ZNF195 contains an N-terminal KRAB domain and 14 tandemly
+repeated Krüppel type zinc finger motifs at its C-terminus. Northern analysis
+shows expression of ZNF195 in adult heart, brain, placenta, skeletal muscle, and 
+pancreas with a predominant transcript size of 4.3 kb. There is little expression
+in adult lung, liver, and kidney. In fetal lung, liver, kidney, and brain, the
+predominant transcript is 3.5 kb. Fetal brain also expresses a 4.3-kb transcript.
+RT-PCR analysis shows that two exons, 4a, which contains an inverted Alu
+sequence, and 4b, are differentially spliced and absent from the major
+transcript.
+
+Copyright 1997 Academic Press.
+
+PMID: 9344677  [PubMed - indexed for MEDLINE]
+
+

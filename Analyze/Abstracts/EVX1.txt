@@ -1,0 +1,2086 @@
+
+1. Cell Stem Cell. 2016 Mar 15. pii: S1934-5909(16)00062-X. doi:
+10.1016/j.stem.2016.01.024. [Epub ahead of print]
+
+Divergent lncRNAs Regulate Gene Expression and Lineage Differentiation in
+Pluripotent Cells.
+
+Luo S(1), Lu JY(1), Liu L(1), Yin Y(1), Chen C(2), Han X(1), Wu B(1), Xu R(1),
+Liu W(1), Yan P(1), Shao W(1), Lu Z(3), Li H(1), Na J(1), Tang F(4), Wang J(5),
+Zhang YE(2), Shen X(6).
+
+Author information: 
+(1)Tsinghua-Peking Center for Life Sciences, School of Medicine, Tsinghua
+University, Beijing 100084, China. (2)Key Laboratory of Zoological Systematics
+and Evolution, Institute of Zoology, Chinese Academy of Sciences, Beijing 100101,
+China. (3)School of Life Sciences, Tsinghua University, Beijing 100084, China.
+(4)Biodynamic Optical Imaging Center, Peking-Tsinghua Center for Life Sciences,
+Peking University, Beijing 100871, China. (5)The Black Family Stem Cell
+Institute, Department of Developmental and Regenerative Biology, Icahn School of 
+Medicine at Mount Sinai, New York, NY 10029, USA. (6)Tsinghua-Peking Center for
+Life Sciences, School of Medicine, Tsinghua University, Beijing 100084, China.
+Electronic address: xshen@tsinghua.edu.cn.
+
+Divergent lncRNAs that are transcribed in the opposite direction to nearby
+protein-coding genes comprise a significant proportion (~20%) of total lncRNAs in
+mammalian genomes. Through genome-wide analysis, we found that the distribution
+of this lncRNA class strongly correlates with essential developmental regulatory 
+genes. In pluripotent cells, divergent lncRNAs regulate the transcription of
+nearby genes. As an example, the divergent lncRNA Evx1as promotes transcription
+of its neighbor gene, EVX1, and regulates mesendodermal differentiation. At a
+single-cell level, early broad expression of Evx1as is followed by a rapid,
+high-level transcription of EVX1, supporting the idea that Evx1as plays an
+upstream role to facilitate EVX1 transcription. Mechanistically, Evx1as RNA binds
+to regulatory sites on chromatin, promotes an active chromatin state, and
+interacts with Mediator. Based on our analyses, we propose that the biological
+function of thousands of uncharacterized lncRNAs of this class may be inferred
+from the role of their neighboring adjacent genes.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+PMID: 26996597  [PubMed - as supplied by publisher]
+
+
+2. Neural Dev. 2016 Feb 19;11(1):5. doi: 10.1186/s13064-016-0059-9.
+
+Evx1 and Evx2 specify excitatory neurotransmitter fates and suppress inhibitory
+fates through a Pax2-independent mechanism.
+
+Juárez-Morales JL(1), Schulte CJ(2), Pezoa SA(1), Vallejo GK(1), Hilinski
+WC(1,)(3), England SJ(1), de Jager S(2), Lewis KE(4).
+
+Author information: 
+(1)Department of Biology, Syracuse University, 107 College Place, Syracuse, NY,
+13244, USA. (2)Department of Physiology, Development and Neuroscience, University
+of Cambridge, Downing Street, Cambridge, CB2 3DY, UK. (3)Department of
+Neuroscience and Physiology, SUNY Upstate Medical University, 505 Irving Avenue, 
+Syracuse, NY, 13210, USA. (4)Department of Biology, Syracuse University, 107
+College Place, Syracuse, NY, 13244, USA. kelewi02@syr.edu.
+
+BACKGROUND: For neurons to function correctly in neuronal circuitry they must
+utilize appropriate neurotransmitters. However, even though neurotransmitter
+specificity is one of the most important and defining properties of a neuron we
+still do not fully understand how neurotransmitter fates are specified during
+development. Most neuronal properties are determined by the transcription factors
+that neurons express as they start to differentiate. While we know a few
+transcription factors that specify the neurotransmitter fates of particular
+neurons, there are still many spinal neurons for which the transcription factors 
+specifying this critical phenotype are unknown. Strikingly, all of the
+transcription factors that have been identified so far as specifying inhibitory
+fates in the spinal cord act through Pax2. Even Tlx1 and Tlx3, which specify the 
+excitatory fates of dI3 and dI5 spinal neurons work at least in part by
+down-regulating Pax2.
+METHODS: In this paper we use single and double mutant zebrafish embryos to
+identify the spinal cord functions of Evx1 and Evx2.
+RESULTS: We demonstrate that Evx1 and Evx2 are expressed by spinal cord V0v cells
+and we show that these cells develop into excitatory (glutamatergic) Commissural 
+Ascending (CoSA) interneurons. In the absence of both Evx1 and Evx2, V0v cells
+still form and develop a CoSA morphology. However, they lose their excitatory
+fate and instead express markers of a glycinergic fate. Interestingly, they do
+not express Pax2, suggesting that they are acquiring their inhibitory fate
+through a novel Pax2-independent mechanism.
+CONCLUSIONS: Evx1 and Evx2 are required, partially redundantly, for spinal cord
+V0v cells to become excitatory (glutamatergic) interneurons. These results
+significantly increase our understanding of the mechanisms of neuronal
+specification and the genetic networks involved in these processes.
+
+PMCID: PMC4759709
+PMID: 26896392  [PubMed - in process]
+
+
+3. Environ Sci Pollut Res Int. 2016 Feb 1. [Epub ahead of print]
+
+Trichoderma longibrachiatum Evx1 is a fungal biocatalyst suitable for the
+remediation of soils contaminated with diesel fuel and polycyclic aromatic
+hydrocarbons.
+
+Andreolli M(1), Lampis S(2), Brignoli P(3), Vallini G(4).
+
+Author information: 
+(1)Department of Biotechnology, University of Verona, Strada Le Grazie 15, 37134,
+Verona, Italy. (2)Department of Biotechnology, University of Verona, Strada Le
+Grazie 15, 37134, Verona, Italy. silvia.lampis@univr.it. (3)Eurovix SpA - Viale
+Enrico Mattei 17, 24060, Entratico, BG, Italy. (4)Department of Biotechnology,
+University of Verona, Strada Le Grazie 15, 37134, Verona, Italy.
+giovanni.vallini@univr.it.
+
+Trichoderma sp. strain Evx1 was isolated from a semi-deciduous forest soil in
+Southern Italy. It decolorizes polynuclear organic dyes and tolerates high
+concentrations of phenanthrene, anthracene, fluoranthene, and pyrene. The ability
+of this ascomycete fungus to degrade polycyclic aromatic hydrocarbons was
+verified in vitro and confirmed by its strong phenoloxidase activity in the
+presence of gallic acid. Phylogenetic characterization of Trichoderma sp. Evx1
+positioned this strain within the species Trichoderma longibrachiatum. The
+potential use of this species for the bioremediation of contaminated
+environmental matrices was tested by inoculating diesel-spiked soil with a dense 
+mycelial suspension. The biodegradation percentage of the C12-40 hydrocarbon
+fraction in the inoculated soil rose to 54.2<U+2009>±<U+2009>1.6 %, much higher than that in
+non-inoculated soil or soil managed solely by a combination of watering and
+aeration. The survival and persistence of T. longibrachiatum Evx1 throughout the 
+bioremediation trial was monitored by PCR-DGGE analysis. The fungal strain was
+still present in the soil 30 days after bioaugmentation. These findings indicate 
+that T. longibrachiatum Evx1 may be a suitable inoculum in bioremediation
+protocols for the reclamation of soils contaminated by complex mixtures of
+hydrocarbons.
+
+PMID: 26832871  [PubMed - as supplied by publisher]
+
+
+4. Pathol Oncol Res. 2016 Apr;22(2):341-7. doi: 10.1007/s12253-015-0005-x. Epub 2015
+Nov 9.
+
+Contribution of EVX1 in Aggressiveness of Esophageal Squamous Cell Carcinoma.
+
+Mallak AJ(1), Abbaszadegan MR(1), Khorasanizadeh PN(1), Forghanifard MM(2).
+
+Author information: 
+(1)Division of Human Genetics, Immunology Research Center, Avicenna Research
+Institute, Mashhad University of Medical Sciences, Mashhad, Iran. (2)Department
+of Biology, Damghan Branch, Islamic Azad University, Cheshmeh-Ali Boulevard,
+Sa'dei Square, P.O. Box: 3671639998, Damghan, Iran. forghanifard@gmail.com.
+
+Homeobox genes play an overruling role in the regional cell fate determination
+during development. EVX1 is known as a new target gene of BMP signaling pathway, 
+a group of morphogens which are making the largest subset within the
+transformation growth factor beta (TGF-ß) superfamily. In this study, we aimed to
+enlighten the expression level of EVX1 in esophageal squamous cell carcinoma
+(ESCC) and to disclose its apparent roles in maintenance and progression of the
+disease. The expression level of EVX1 was analyzed in fresh tumoral tissues in
+comparison with distant tumor-free tissues of 50 ESCC patients using relative
+comparative real-time PCR. The importance of EVX1 in development and cancer was
+also reviewed. EVX1 was underexpressed in 70 % of tumor samples. There was a
+significant correlation between down-regulation of EVX1 and lymph node metastasis
+of tumor cells (p = 0.027). Furthermore, EVX1 underexpression was significantly
+correlated with depth of tumor cell invasion (P = 0.037). To the best of our
+knowledge, this is the first report highlighting EVX1 expression in ESCC to date.
+The clinicopathological relevance of EVX1 mRNA expression in ESCC targeted this
+gene as a new independent molecular marker for advanced tumor, which determine
+the characteristics and behavior of aggressive ESCC.
+
+PMID: 26552663  [PubMed - in process]
+
+
+5. Dev Neurobiol. 2015 Sep 26. doi: 10.1002/dneu.22350. [Epub ahead of print]
+
+Neuronal labeling patterns in the spinal cord of adult transgenic Zebrafish.
+
+Stil A(1), Drapeau P(1).
+
+Author information: 
+(1)Hospital Research Centre (CRCHUM) and Department of Neurosciences, Université 
+de Montréal, Montréal, Quebec, Canada, H2X 0A9.
+
+We describe neuronal patterns in the spinal cord of adult zebrafish. We studied
+the distribution of cells and processes in the three spinal regions reported in
+the literature: the 8th vertebra used as a transection injury site, the 15th
+vertebra mainly used for motor cell recordings and also for crush injury, and the
+24th vertebra used to record motor nerve activity. We used well-known transgenic 
+lines in which expression of green fluorescent protein (GFP) is driven by
+promoters to hb9 and isl1 in motoneurons, alx/chx10 and evx1 interneurons, ngn1
+in sensory neurons and olig2 in oligodendrocytes, as well as antibodies for
+neurons (HuC/D, NF and SV2) and glia (GFAP). In isl1:GFP fish, GFP-positive
+processes are retained in the upper part of ventral horns and two subsets of cell
+bodies are observed. The pattern of the transgene in hb9:GFP adults is more
+diffuse and fibers are present broadly through the adult spinal cord. In
+alx/chx10 and evx1 lines we respectively observed two and three different
+GFP-positive populations. Finally, the ngn1:GFP transgene identifies dorsal root 
+ganglion and some cells in dorsal horns. Interestingly some GFP positive fibers
+in ngn1:GFP fish are located around Mauthner axons and their density seems to be 
+related to a rostrocaudal gradient. Many other cell types have been described in 
+embryos and need to be studied in adults. Our findings provide a reference for
+further studies on spinal cytoarchitecture. Combined with physiological,
+histological and pathological/traumatic approaches, these studies will help
+clarify the operation of spinal locomotor circuits of adult zebrafish. © 2015
+Wiley Periodicals, Inc. Develop Neurobiol, 2015.
+
+© 2015 Wiley Periodicals, Inc.
+
+PMID: 26408263  [PubMed - as supplied by publisher]
+
+
+6. Ital J Pediatr. 2015 Apr 10;41:31. doi: 10.1186/s13052-015-0137-3.
+
+HOXA genes cluster: clinical implications of the smallest deletion.
+
+Pezzani L(1), Milani D(2), Manzoni F(3), Baccarin M(4), Silipigni R(5), Guerneri 
+S(6), Esposito S(7).
+
+Author information: 
+(1)Pediatric Highly Intensive Care Unit, Department of Pathophysiology and
+Transplantation, Università degli Studi di Milano, Fondazione IRCCS Ca' Granda
+Ospedale Maggiore Policlinico, Via Commenda 9, Milan, 20122, Italy.
+lidia.pezzani@unimi.it. (2)Pediatric Highly Intensive Care Unit, Department of
+Pathophysiology and Transplantation, Università degli Studi di Milano, Fondazione
+IRCCS Ca' Granda Ospedale Maggiore Policlinico, Via Commenda 9, Milan, 20122,
+Italy. donatella.milani@policlinico.mi.it. (3)Pediatric Highly Intensive Care
+Unit, Department of Pathophysiology and Transplantation, Università degli Studi
+di Milano, Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, Via
+Commenda 9, Milan, 20122, Italy. fmp.manzoni@gmail.com. (4)Medical Genetics
+Laboratory, Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, Milan,
+Italy. marco.baccarin@policlinico.mi.it. (5)Medical Genetics Laboratory,
+Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, Milan, Italy.
+rosamaria.silipigni@unimi.it. (6)Medical Genetics Laboratory, Fondazione IRCCS
+Ca' Granda Ospedale Maggiore Policlinico, Milan, Italy.
+s.guerneri@policlinico.mi.it. (7)Pediatric Highly Intensive Care Unit, Department
+of Pathophysiology and Transplantation, Università degli Studi di Milano,
+Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, Via Commenda 9, Milan,
+20122, Italy. susanna.esposito@unimi.it.
+
+BACKGROUND: HOXA genes cluster plays a fundamental role in embryologic
+development. Deletion of the entire cluster is known to cause a clinically
+recognizable syndrome with mild developmental delay, characteristic facies, small
+feet with unusually short and big halluces, abnormal thumbs, and urogenital
+malformations. The clinical manifestations may vary with different ranges of
+deletions of HOXA cluster and flanking regions.
+CASE PRESENTATION: We report a girl with the smallest deletion reported to date
+involving the entire HOXA cluster at 7p15.2-p14.3. The patient was the third
+child born to a healthy and non-consanguineous Italian couple. She was born at
+the 34th week of gestation by caesarean section due to cholestasis of pregnancy. 
+Her birth weight, length, and occipitofrontal circumference were 2,140 g (25-50th
+centile), 46 cm (50th centile), and 33 cm (75-90th centile), respectively. The
+Apgar scores were 8 at both the 1st and 5th minutes. The patient presented with
+typical mild facial anomalies, hand and feet abnormalities, urinary anomalies,
+and mild speech delay. Unexpectedly, the patient demonstrated complex unusual
+features of multiple episodes of oxyhemoglobin desaturation, laryngeal stridor
+and a branchial cyst. Chromosome analysis of the patient revealed an apparently
+normal karyotype at the 550 band level. Based on array comparative genomic
+hybridization, a 2.5 Mb interstitial deletion was detected at 7p15.2p14.3 (chr7: 
+26,333,553-28,859,312), involving the entire HOXA cluster and a small number of
+other genes as SNX10, SKAP2, EVX1, HIBADH, TAX1BP1, JAZF1, and CREB5.
+CONCLUSIONS: This report improves our understanding of the genotype-phenotype
+correlations of HOXA genes cluster deletions via the identification and
+characterization of the smallest deletion (as well as critical region) reported
+to date. In particular we discuss the possible implications of preterm and
+haploinsufficiency in the pathogenesis of the unusual findings, furthermore
+opening new discussion and interpretation cues.
+
+PMCID: PMC4395968
+PMID: 25881986  [PubMed - indexed for MEDLINE]
+
+
+7. Cell Adh Migr. 2015;9(1-2):34-47. doi: 10.1080/19336918.2015.1008333.
+
+Transcriptional regulation of tenascin genes.
+
+Chiovaro F(1), Chiquet-Ehrismann R, Chiquet M.
+
+Author information: 
+(1)a Friedrich Miescher Institute for Biomedical Research ; Basel , Switzerland.
+
+Extracellular matrix proteins of the tenascin family resemble each other in their
+domain structure, and also share functions in modulating cell adhesion and
+cellular responses to growth factors. Despite these common features, the 4
+vertebrate tenascins exhibit vastly different expression patterns. Tenascin-R is 
+specific to the central nervous system. Tenascin-C is an "oncofetal" protein
+controlled by many stimuli (growth factors, cytokines, mechanical stress), but
+with restricted occurrence in space and time. In contrast, tenascin-X is a
+constituitive component of connective tissues, and its level is barely affected
+by external factors. Finally, the expression of tenascin-W is similar to that of 
+tenascin-C but even more limited. In accordance with their highly regulated
+expression, the promoters of the tenascin-C and -W genes contain TATA boxes,
+whereas those of the other 2 tenascins do not. This article summarizes what is
+currently known about the complex transcriptional regulation of the 4 tenascin
+genes in development and disease.
+
+PMCID: PMC4422812
+PMID: 25793574  [PubMed - indexed for MEDLINE]
+
+
+8. Am J Hum Genet. 2015 Jan 8;96(1):21-36. doi: 10.1016/j.ajhg.2014.11.011. Epub
+2014 Dec 11.
+
+Meta-analysis of correlated traits via summary statistics from GWASs with an
+application in hypertension.
+
+Zhu X(1), Feng T(2), Tayo BO(3), Liang J(4), Young JH(5), Franceschini N(6),
+Smith JA(7), Yanek LR(5), Sun YV(8), Edwards TL(9), Chen W(10), Nalls M(11), Fox 
+E(12), Sale M(13), Bottinger E(14), Rotimi C(15); COGENT BP Consortium, Liu
+Y(16), McKnight B(17), Liu K(18), Arnett DK(19), Chakravati A(20), Cooper RS(3), 
+Redline S(21).
+
+Collaborators: Franceschini N, Fox E, Zhang Z, Edwards TL, Nalls MA, Sung YJ,
+Tayo BO, Sun YV, Gottesman O, Adeyemo A, Johnson AD, Young J, Rice K, Duan Q,
+Chen F, Li Y, Tang H, Fornage M, Keene KL, Andrews JS, Smith JA, Faul JD, Guangfa
+Z, Guo W, Liu Y, Murray SS, Musani SK, Srinivasan S, Velez Edwards DR, Wang H,
+Becker LC, Bovet P, Bochud M, Broeckel U, Burnier M, Carty C, Chen WM, Chen G,
+Chen W, Ding J, Dreisbach AW, Evans MK, Guo X, Garcia ME, Jensen R, Keller MF,
+Lettre G, Lotay V, Martin LW, Morrison AC, Mosley TH, Ogunniyi A, Palmas W,
+Papanicolaou G, Penman A, Polak JF, Ridker PM, Salako B, Singleton AB, Shriner D,
+Taylor KD, Vasan R, Wiggins K, Williams SM, Yanek LR, Zhao W, Zonderman AB,
+Becker DM, Berenson G, Boerwinkle E, Bottinger E, Cushman M, Eaton C, Heiss G,
+Hirschhron JN, Howard VJ, Lanktree MB, Liu K, Liu Y, Loos R, Margolis K, Psaty
+BM, Schork NJ, Weir DR, Rotimi CN, Sale MM, Harris T, Kardia SL, Hunt SC, Arnett 
+D, Redline S, Cooper RS, Risch N, Rao DC, Rotter JI, Chakravarti A, Reiner AP,
+Levy D, Keating BJ, Zhu X.
+
+Genome-wide association studies (GWASs) have identified many genetic variants
+underlying complex traits. Many detected genetic loci harbor variants that
+associate with multiple-even distinct-traits. Most current analysis approaches
+focus on single traits, even though the final results from multiple traits are
+evaluated together. Such approaches miss the opportunity to systemically
+integrate the phenome-wide data available for genetic association analysis. In
+this study, we propose a general approach that can integrate association evidence
+from summary statistics of multiple traits, either correlated, independent,
+continuous, or binary traits, which might come from the same or different
+studies. We allow for trait heterogeneity effects. Population structure and
+cryptic relatedness can also be controlled. Our simulations suggest that the
+proposed method has improved statistical power over single-trait analysis in most
+of the cases we studied. We applied our method to the Continental Origins and
+Genetic Epidemiology Network (COGENT) African ancestry samples for three blood
+pressure traits and identified four loci (CHIC2, HOXA-EVX1, IGFBP1/IGFBP3, and
+CDH17; p < 5.0 × 10(-8)) associated with hypertension-related traits that were
+missed by a single-trait analysis in the original report. Six additional loci
+with suggestive association evidence (p < 5.0 × 10(-7)) were also observed,
+including CACNA1D and WNT3. Our study strongly suggests that analyzing multiple
+phenotypes can improve statistical power and that such analysis can be executed
+with the summary statistics from GWASs. Our method also provides a way to study a
+cross phenotype (CP) association by using summary statistics from GWASs of
+multiple phenotypes.
+
+Copyright © 2015 The American Society of Human Genetics. Published by Elsevier
+Inc. All rights reserved.
+
+PMCID: PMC4289691
+PMID: 25500260  [PubMed - indexed for MEDLINE]
+
+
+9. BMC Genomics. 2014 Nov 20;15:1002. doi: 10.1186/1471-2164-15-1002.
+
+A high-throughput screening strategy for detecting CRISPR-Cas9 induced mutations 
+using next-generation sequencing.
+
+Bell CC(1), Magor GW, Gillinder KR, Perkins AC.
+
+Author information: 
+(1)Mater Research, Faculty of Medicine and Biomedical Science, The University of 
+Queensland, Woolloongabba, Queensland, Australia. charles.bell@mater.uq.edu.au.
+
+BACKGROUND: CRISPR-Cas9 is a revolutionary genome editing technique that allows
+for efficient and directed alterations of the eukaryotic genome. This relatively 
+new technology has already been used in a large number of 'loss of function'
+experiments in cultured cells. Despite its simplicity and efficiency, screening
+for mutated clones remains time-consuming, laborious and/or expensive.
+RESULTS: Here we report a high-throughput screening strategy that allows parallel
+screening of up to 96 clones, using next-generation sequencing. As a proof of
+principle, we used CRISPR-Cas9 to disrupt the coding sequence of the homeobox
+gene, Evx1 in mouse embryonic stem cells. We screened 67 CRISPR-Cas9 transfected 
+clones simultaneously by next-generation sequencing on the Ion Torrent PGM. We
+were able to identify both homozygous and heterozygous Evx1 mutants, as well as
+mixed clones, which must be identified to maintain the integrity of subsequent
+experiments.
+CONCLUSIONS: Our CRISPR-Cas9 screening strategy could be widely applied to screen
+for CRISPR-Cas9 mutants in a variety of contexts including the generation of
+mutant cell lines for in vitro research, the generation of transgenic organisms
+and for assessing the veracity of CRISPR-Cas9 homology directed repair. This
+technique is cost and time-effective, provides information on clonal
+heterogeneity and is adaptable for use on various sequencing platforms.
+
+PMCID: PMC4246457
+PMID: 25409780  [PubMed - indexed for MEDLINE]
+
+
+10. PLoS One. 2013 Nov 20;8(11):e81240. doi: 10.1371/journal.pone.0081240.
+eCollection 2013.
+
+Identification of an evx1-dependent joint-formation pathway during FIN
+regeneration.
+
+Ton QV(1), Iovine MK.
+
+Author information: 
+(1)Department of Biological Sciences, Lehigh University, Bethlehem, Pennsylvania,
+United States of America.
+
+Joints are essential for skeletal flexibly and form, yet the process underlying
+joint morphogenesis is poorly understood. Zebrafish caudal fins are comprised of 
+numerous segmented bony fin rays, where growth occurs by the sequential addition 
+of new segments and new joints. Here, we evaluate joint gene expression during
+fin regeneration. First, we identify three genes that influence joint formation, 
+evx1, dlx5a, and mmp9. We place these genes in a common molecular pathway by
+evaluating both their expression patterns along the distal-proximal axis (i.e.
+where the youngest tissue is always the most distal), and by evaluating changes
+in gene expression following gene knockdown. Prior studies from our lab indicate 
+that the gap junction protein Cx43 suppresses joint formation. Remarkably,
+changes in Cx43 activity alter the expression of joint markers. For example, the 
+reduced levels of Cx43 in the sof (b123) mutant causes short fin ray
+segments/premature joints. We also find that the expression of evx1-dlx5a-mmp9 is
+shifted distally in sof (b123) , consistent with premature expression of these
+genes. In contrast, increased Cx43 in the alf (dty86) mutant leads to stochastic 
+joint failure and stochastic loss of evx1 expression. Indeed, reducing the level 
+of Cx43 in alf (dty86) rescues both the evx1 expression and joint formation.
+These results suggest that Cx43 influences the pattern of joint formation by
+influencing the timing of evx1 expression.
+
+PMCID: PMC3835681
+PMID: 24278401  [PubMed - indexed for MEDLINE]
+
+
+11. Am J Hum Genet. 2013 Sep 5;93(3):545-54. doi: 10.1016/j.ajhg.2013.07.010. Epub
+2013 Aug 22.
+
+Genome-wide association analysis of blood-pressure traits in African-ancestry
+individuals reveals common associated genes in African and non-African
+populations.
+
+Franceschini N, Fox E, Zhang Z, Edwards TL, Nalls MA, Sung YJ, Tayo BO, Sun YV,
+Gottesman O, Adeyemo A, Johnson AD, Young JH, Rice K, Duan Q, Chen F, Li Y, Tang 
+H, Fornage M, Keene KL, Andrews JS, Smith JA, Faul JD, Guangfa Z, Guo W, Liu Y,
+Murray SS, Musani SK, Srinivasan S, Velez Edwards DR, Wang H, Becker LC, Bovet P,
+Bochud M, Broeckel U, Burnier M, Carty C, Chasman DI, Ehret G, Chen WM, Chen G,
+Chen W, Ding J, Dreisbach AW, Evans MK, Guo X, Garcia ME, Jensen R, Keller MF,
+Lettre G, Lotay V, Martin LW, Moore JH, Morrison AC, Mosley TH, Ogunniyi A,
+Palmas W, Papanicolaou G, Penman A, Polak JF, Ridker PM, Salako B, Singleton AB, 
+Shriner D, Taylor KD, Vasan R, Wiggins K, Williams SM, Yanek LR, Zhao W,
+Zonderman AB, Becker DM, Berenson G, Boerwinkle E, Bottinger E, Cushman M, Eaton 
+C, Nyberg F, Heiss G, Hirschhron JN, Howard VJ, Karczewsk KJ, Lanktree MB, Liu K,
+Liu Y, Loos R, Margolis K, Snyder M; Asian Genetic Epidemiology Network
+Consortium, Psaty BM, Schork NJ, Weir DR, Rotimi CN, Sale MM, Harris T, Kardia
+SL, Hunt SC, Arnett D, Redline S, Cooper RS, Risch NJ, Rao DC, Rotter JI,
+Chakravarti A, Reiner AP, Levy D, Keating BJ, Zhu X.
+
+Collaborators: Go MJ, Kim YJ, Lee JY, Jeon JP, Kim SS, Han BG, Cho YS, Sim X, Tay
+WT, Ong RT, Seielstad M, Liu JJ, Aung T, Wong TY, Teo YY, Tai ES, Chen CH, Chang 
+LC, Chen YT, Wu JY, Kelly TN, Gu D, Hixson JE, Sung YJ, He J, Tabara Y, Kokubo Y,
+Miki T, Iwai N, Kato N, Takeuchi F, Katsuya T, Nabika T, Sugiyama T, Zhang Y,
+Huang W, Zhang X, Zhou X, Jin L, Zhu D.
+
+High blood pressure (BP) is more prevalent and contributes to more severe
+manifestations of cardiovascular disease (CVD) in African Americans than in any
+other United States ethnic group. Several small African-ancestry (AA) BP
+genome-wide association studies (GWASs) have been published, but their findings
+have failed to replicate to date. We report on a large AA BP GWAS meta-analysis
+that includes 29,378 individuals from 19 discovery cohorts and subsequent
+replication in additional samples of AA (n = 10,386), European ancestry (EA) (n =
+69,395), and East Asian ancestry (n = 19,601). Five loci (EVX1-HOXA, ULK4, RSPO3,
+PLEKHG1, and SOX6) reached genome-wide significance (p < 1.0 × 10(-8)) for either
+systolic or diastolic BP in a transethnic meta-analysis after correction for
+multiple testing. Three of these BP loci (EVX1-HOXA, RSPO3, and PLEKHG1) lack
+previous associations with BP. We also identified one independent signal in a
+known BP locus (SOX6) and provide evidence for fine mapping in four additional
+validated BP loci. We also demonstrate that validated EA BP GWAS loci, considered
+jointly, show significant effects in AA samples. Consequently, these findings
+suggest that BP loci might have universal effects across studied populations,
+demonstrating that multiethnic samples are an essential component in identifying,
+fine mapping, and understanding their trait variability.
+
+Copyright © 2013 The American Society of Human Genetics. Published by Elsevier
+Inc. All rights reserved.
+
+PMCID: PMC3769920
+PMID: 23972371  [PubMed - indexed for MEDLINE]
+
+
+12. Neoplasia. 2013 Apr;15(4):399-408.
+
+Methylation profiling defines an extensive field defect in histologically normal 
+prostate tissues associated with prostate cancer.
+
+Yang B(1), Bhusari S, Kueck J, Weeratunga P, Wagner J, Leverson G, Huang W,
+Jarrard DF.
+
+Author information: 
+(1)University of Wisconsin School of Medicine and Public Health, Madison, WI,
+USA.
+
+Prostate cancer (PCa) is typically found as a multifocal disease suggesting the
+potential for molecular defects within the morphologically normal tissue. The
+frequency and spatial extent of DNA methylation changes encompassing a potential 
+field defect are unknown. A comparison of non-tumor-associated (NTA) prostate to 
+histologically indistinguishable tumor-associated (TA) prostate tissues detected 
+a distinct profile of DNA methylation alterations (0.2%) using genome-wide DNA
+arrays based on the Encyclopedia of DNA Elements 18 sequence that tile both
+gene-rich and poor regions. Hypomethylation (87%) occurred more frequently than
+hypermethylation (13%). Several of the most significantly altered loci (CAV1,
+EVX1, MCF2L, and FGF1) were then used as probes to map the extent of these DNA
+methylation changes in normal tissues from prostates containing cancer. In TA
+tissues, the extent of methylation was similar both adjacent (2 mm) and at a
+distance (>1 cm) from tumor foci. These loci were also able to distinguish NTA
+from TA tissues in a validation set of patient samples. These mapping studies
+indicate that a spatially widespread epigenetic defect occurs in the peripheral
+prostate tissues of men who have PCa that may be useful in the detection of this 
+disease.
+
+PMCID: PMC3612912
+PMID: 23555185  [PubMed - indexed for MEDLINE]
+
+
+13. PLoS One. 2013;8(3):e59444. doi: 10.1371/journal.pone.0059444. Epub 2013 Mar 27.
+
+DNA methylation profiles at precancerous stages associated with recurrence of
+lung adenocarcinoma.
+
+Sato T(1), Arai E, Kohno T, Tsuta K, Watanabe S, Soejima K, Betsuyaku T, Kanai Y.
+
+Author information: 
+(1)Division of Molecular Pathology, National Cancer Center Research Institute,
+Tokyo, Japan.
+
+The aim of this study was to clarify the significance of DNA methylation
+alterations at precancerous stages of lung adenocarcinoma. Using single-CpG
+resolution Infinium array, genome-wide DNA methylation analysis was performed in 
+36 samples of normal lung tissue obtained from patients without any primary lung 
+tumor, 145 samples of non-cancerous lung tissue (N) obtained from patients with
+lung adenocarcinomas, and 145 samples of tumorous tissue (T). Stepwise
+progression of DNA methylation alterations from normal lung tissue to
+non-cancerous lung tissue obtained from patients with lung adenocarcinomas, and
+then tumorous tissue samples, was observed at 3,270 CpG sites, suggesting that
+non-cancerous lung tissue obtained from patients with lung adenocarcinomas was at
+precancerous stages with DNA methylation alterations. At CpG sites of 2,083
+genes, DNA methylation status in samples of non-cancerous lung tissue obtained
+from patients with lung adenocarcinomas was significantly correlated with
+recurrence after establishment of lung adenocarcinomas. Among such
+recurrence-related genes, 28 genes are normally unmethylated (average ß-values
+based on Infinium assay in normal lung tissue samples was less than 0.2) and
+their DNA hypermethylation at precancerous stages was strengthened during
+progression to lung adenocarcinomas (<U+0394>ß(T-N)>0.1). Among these 28 genes, we
+focused on 6 for which implications in transcription regulation, apoptosis or
+cell adhesion had been reported. DNA hypermethylation of the ADCY5, EVX1, GFRA1, 
+PDE9A, and TBX20 genes resulted in reduced mRNA expression in tumorous tissue
+samples. 5-Aza-2'-deoxycytidine treatment of lung cancer cell lines restored the 
+mRNA expression levels of these 5 genes. Reduced mRNA expression in tumorous
+tissue samples was significantly correlated with tumor aggressiveness. These data
+suggest that DNA methylation alterations at precancerous stages determine tumor
+aggressiveness and outcome through silencing of specific genes.
+
+PMCID: PMC3609833
+PMID: 23544068  [PubMed - indexed for MEDLINE]
+
+
+14. J Urol. 2013 Jun;189(6):2020-1. doi: 10.1016/j.juro.2013.02.3193. Epub 2013 Mar
+4.
+
+Epigenetic changes in histologically normal prostate tissues.
+
+Brooks JD.
+
+Comment on
+    J Urol. 2013 Jun;189(6):2335-41.
+
+PMID: 23465550  [PubMed - indexed for MEDLINE]
+
+
+15. Epigenomics. 2013 Feb;5(1):65-71. doi: 10.2217/epi.12.67.
+
+Analysis of promoter non-CG methylation in prostate cancer.
+
+Truong M(1), Yang B, Wagner J, Desotelle J, Jarrard DF.
+
+Author information: 
+(1)Department of Urology, University of Wisconsin School of Medicine & Public
+Health, Madison, WI, USA.
+
+BACKGROUND: In vertebrates, DNA methylation occurs primarily at CG dinucleotides 
+but recently, non-CG methylation has been found at appreciable levels in
+embryonic stem cells.
+MATERIALS & METHODS: To assess non-CG methylation in cancer, we compared the
+extent of non-CG methylation at several biologically important CG islands in
+prostate cancer and normal cell lines. An assessment of the promoter CG islands
+EVX1 and FILIP1L demonstrates a fourfold higher rate of non-CG methylation at
+EVX1 compared with FILIP1L across all cell lines. These loci are densely
+methylated at CG sites in cancer.
+RESULTS: No significant difference in non-CG methylation was demonstrated between
+cancer and normal. Treatment of cancer cell lines with 5-azacytidine
+significantly reduced methylation within EVX1 at CG and CC sites, preferentially.
+CONCLUSION: Non-CG methylation does not correlate with CG methylation at
+hypermethylated promoter regions in cancer. Furthermore, global inhibition of DNA
+methyltransferases does not affect all methylated cytosines uniformly.
+
+PMCID: PMC3731941
+PMID: 23414321  [PubMed - indexed for MEDLINE]
+
+
+16. Cancer Microenviron. 2013 Apr;6(1):19-29. doi: 10.1007/s12307-012-0128-5. Epub
+2012 Dec 29.
+
+Pilot study on "pericytic mimicry" and potential embryonic/stem cell properties
+of angiotropic melanoma cells interacting with the abluminal vascular surface.
+
+Lugassy C(1), Wadehra M, Li X, Corselli M, Akhavan D, Binder SW, Péault B,
+Cochran AJ, Mischel PS, Kleinman HK, Barnhill RL.
+
+Author information: 
+(1)Department of Pathology and Laboratory Medicine, David Geffen School of
+Medicine, University of California Los Angeles (UCLA) Medical Center, Los
+Angeles, CA, USA, clugassy@mednet.ucla.edu.
+
+The interaction of tumor cells with the tumor vasculature is mainly studied for
+its role in tumor angiogenesis and intravascular metastasis of circulating tumor 
+cells. In addition, a specific interaction of tumor cells with the abluminal
+surfaces of vessels, or angiotropism, may promote the migration of angiotropic
+tumor cells along the abluminal vascular surfaces in a pericytic location. This
+process has been termed extravascular migratory metastasis. The abluminal
+vascular surface may also provide a vascular niche inducing or sustaining
+stemness to angiotropic tumor cells. This pilot study investigated if angiotropic
+melanoma cells might represent a subset population with pericytic and embryonic
+or stem cell properties. Through microarray analysis, we showed that the
+interaction between melanoma cells and the abluminal surface of endothelial cells
+triggers significant differential expression of several genes. The most
+significantly differentially expressed genes have demonstrated properties linked 
+to cancer cell migration (CCL2, ICAM1 and IL6), cancer progression (CCL2, ICAM1, 
+SELE, TRAF1, IL6, SERPINB2 and CXCL6), epithelial to mesenchymal transition (CCL2
+and IL6), embryonic/stem cell properties (CCL2, PDGFB, EVX1 and CFDP1) and
+pericytic recruitment (PDGFB). In addition, bioinformatics-based analysis of the 
+differentially expressed genes has shown that the most significantly enriched
+functional groups included development, cell movement, cancer, and embryonic
+development. Finally, the investigation of pericyte/mesenchymal stem cells
+markers via immunostaining of human melanoma samples revealed expression of
+PDGFRB, NG2 and CD146 by angiotropic melanoma cells. Taken together, these
+preliminary data are supportive of the "pericytic mimicry" by angiotropic
+melanoma cells, and suggest that the interaction between melanoma cells and the
+abluminal vascular surface induce differential expression of genes linked to
+cancer migration and embryonic/stem cell properties.
+
+PMCID: PMC3601217
+PMID: 23275074  [PubMed]
+
+
+17. Carcinogenesis. 2013 Mar;34(3):513-21. doi: 10.1093/carcin/bgs363. Epub 2012 Nov 
+19.
+
+Genome-wide CpG island methylation analyses in non-small cell lung cancer
+patients.
+
+Heller G(1), Babinsky VN, Ziegler B, Weinzierl M, Noll C, Altenberger C, Müllauer
+L, Dekan G, Grin Y, Lang G, End-Pfützenreuter A, Steiner I, Zehetmayer S, Döme B,
+Arns BM, Fong KM, Wright CM, Yang IA, Klepetko W, Posch M, Zielinski CC,
+Zöchbauer-Müller S.
+
+Author information: 
+(1)Department of Medicine I, Clinical Division of Oncology, Medical University of
+Vienna, Vienna 1090, Austria. gerwin.heller@meduniwien.ac.at
+
+DNA methylation is part of the epigenetic gene regulation complex, which is
+relevant for the pathogenesis of cancer. We performed a genome-wide search for
+methylated CpG islands in tumors and corresponding non-malignant lung tissue
+samples of 101 stages I-III non-small cell lung cancer (NSCLC) patients by
+combining methylated DNA immunoprecipitation and microarray analysis. Overall, we
+identified 2414 genomic positions differentially methylated between tumor and
+non-malignant lung tissue samples. Ninety-seven percent of them were found to be 
+tumor-specifically methylated. Annotation of these genomic positions resulted in 
+the identification of 477 tumor-specifically methylated genes of which many are
+involved in regulation of gene transcription and cell adhesion. Tumor-specific
+methylation was confirmed by a gene-specific approach. In the majority of tumors,
+methylation of certain genes was associated with loss of their protein expression
+determined by immunohistochemistry. Treatment of NSCLC cells with epigenetically 
+active drugs resulted in upregulated expression of many tumor-specifically
+methylated genes analyzed by gene expression microarrays suggesting that about
+one-third of these genes are transcriptionally regulated by methylation.
+Moreover, comparison of methylation results with certain clinicopathological
+characteristics of the patients suggests that methylation of HOXA2 and HOXA10 may
+be of prognostic relevance in squamous cell carcinoma (SCC) patients. In
+conclusion, we identified a large number of tumor-specifically methylated genes
+in NSCLC patients. Expression of many of them is regulated by methylation.
+Moreover, HOXA2 and HOXA10 methylation may serve as prognostic parameters in SCC 
+patients. Overall, our findings emphasize the impact of methylation on the
+pathogenesis of NSCLCs.
+
+PMID: 23172663  [PubMed - indexed for MEDLINE]
+
+
+18. J Urol. 2013 Jun;189(6):2335-41. doi: 10.1016/j.juro.2012.11.074. Epub 2012 Nov
+15.
+
+Using the epigenetic field defect to detect prostate cancer in biopsy negative
+patients.
+
+Truong M(1), Yang B, Livermore A, Wagner J, Weeratunga P, Huang W, Dhir R, Nelson
+J, Lin DW, Jarrard DF.
+
+Author information: 
+(1)University of Wisconsin School of Medicine and Public Health, Madison,
+Wisconsin, USA.
+
+Comment in
+    J Urol. 2013 Jun;189(6):2020-1.
+
+PURPOSE: We determined whether a novel combination of field defect DNA
+methylation markers could predict the presence of prostate cancer using
+histologically normal transrectal ultrasound guided biopsy cores.
+MATERIALS AND METHODS: Methylation was assessed using quantitative
+Pyrosequencing® in a training set consisting of 65 nontumor and tumor associated 
+prostate tissues from University of Wisconsin. A multiplex model was generated
+using multivariate logistic regression and externally validated in blinded
+fashion in a set of 47 nontumor and tumor associated biopsy specimens from
+University of Washington.
+RESULTS: We observed robust methylation differences in all genes at all CpGs
+assayed (p <0.0001). Regression models incorporating individual genes (EVX1, CAV1
+and FGF1) and a gene combination (EVX1 and FGF1) discriminated nontumor from
+tumor associated tissues in the original training set (AUC 0.796-0.898, p
+<0.001). On external validation uniplex models incorporating EVX1, CAV1 or FGF1
+discriminated tumor from nontumor associated biopsy negative specimens (AUC
+0.702, 0.696 and 0.658, respectively, p <0.05). A multiplex model (EVX1 and FGF1)
+identified patients with prostate cancer (AUC 0.774, p = 0.001) and had a
+negative predictive value of 0.909. Comparison between 2 separate cores in
+patients in this validation set revealed similar methylation defects, indicating 
+detection of a widespread field defect.
+CONCLUSIONS: A widespread epigenetic field defect can be used to detect prostate 
+cancer in patients with histologically negative biopsies. To our knowledge this
+assay is unique, in that it detects alterations in nontumor cells. With further
+validation this marker combination (EVX1 and FGF1) has the potential to decrease 
+the need for repeat prostate biopsies, a procedure associated with cost and
+complications.
+
+Copyright © 2013 American Urological Association Education and Research, Inc.
+Published by Elsevier Inc. All rights reserved.
+
+PMCID: PMC4226217
+PMID: 23159584  [PubMed - indexed for MEDLINE]
+
+
+19. Oncol Lett. 2012 Apr 1;3(4):901-906. Epub 2012 Feb 1.
+
+Methylation status of NEUROG2 and NID2 improves the diagnosis of stage I NSCLC.
+
+Geng J(1), Sun J, Lin Q, Gu J, Zhao Y, Zhang H, Feng X, He Y, Wang W, Zhou X, Yu 
+J.
+
+Author information: 
+(1)Department of General Thoracic Surgery, Shanghai Chest Hospital, Shanghai Jiao
+Tong University, Shanghai 200030, P.R. China.
+
+In our previous study, we attempted to develop a tool for the early diagnosis of 
+non-small cell lung cancer (NSCLC) using DNA methylation biomarkers. With the aim
+of improving the diagnostic potential by optimizing the composition of the target
+set, in this study, 13 candidate genes (ACTA1, AIDH1A2, CBX8, CDH8, EVX1,
+MGC16275, NEUROG1, NEUROG2, NID2, OTX2OS1, PGAM2, PHOX2B and TOX) were analyzed
+by methylation-specific PCR to determine the methylation status of each gene in 5
+NSCLC cell lines and in lung tissue samples from 15 healthy volunteers,
+103 stage I NSCLC patients and 26 non-cancerous control patients. Results showed 
+that NEUROG2 and NID2 were hypermethylated in stage I NSCLC tissues (31.07 and
+46.60%, respectively) and unmethylated in normal lung tissues (0/15) and
+non-cancerous tissues (0/26). Following recombination, an optimized 5-gene panel 
+(NEUROG2, NID2, RASSF1A, APC and HOXC9) achieved a sensitivity of 91.26% with a
+specificity of 84.62% in the detection of stage I NSCLC. The optimized 5-gene
+panel greatly improved the diagnostic power for stage I NSCLC.
+
+PMCID: PMC3362429
+PMID: 22741015  [PubMed]
+
+
+20. Br J Cancer. 2012 Jun 26;107(1):100-7. doi: 10.1038/bjc.2012.216. Epub 2012 May
+17.
+
+Even-skipped homeobox 1 is frequently hypermethylated in prostate cancer and
+predicts PSA recurrence.
+
+Truong M(1), Yang B, Wagner J, Kobayashi Y, Rajamanickam V, Brooks J, Jarrard DF.
+
+Author information: 
+(1)Department of Urology, University of Wisconsin School of Medicine and Public
+Health, 7037, Wisconsin Institutes for Medical Research, 1111 Highland Avenue,
+Madison, WI 53792, USA.
+
+BACKGROUND: DNA methylation is an important epigenetic mechanism in prostate
+cancer (PCa) progression. Given the role of even-skipped homeobox 1 (EVX1) in the
+regulation of multiple genes during embryogenesis, we postulated that EVX1
+methylation is altered in PCa progression.
+METHODS: Bisulphite sequencing and quantitative MethyLight were used to assess
+methylation in human prostate epithelial cells, four PCa cell lines, liver, lung,
+spleen, kidney, 35 paired tumour and tumour-associated benign tissues, and 11
+normal prostate tissues. Prostate cancer cell lines were treated with
+5-azacytidine (AzaC) or trichostatin A (TSA), and expression of EVX1 transcript
+and variants was assessed by qPCR. Hypermethylation was compared with
+clinicopathological features in a validation set of 58 patients using microarray.
+RESULTS: Even-skipped homeobox 1 hypermethylation was observed in all four PCa
+cell lines and 57% of tumours. High-grade tumours exhibited increased methylation
+compared with intermediate-grade tumours. Even-skipped homeobox 1 expression was 
+induced in PCa cell lines after treatment with AzaC or TSA. In the validation
+set, 83% of tumours were hypermethylated and hypermethylation was associated with
+worse recurrence-free survival.
+CONCLUSION: In this first evaluation of EVX1 methylation in human cancer, EVX1 is
+one of the most commonly hypermethylated genes observed in PCa and predicted
+treatment failure in moderate risk patients.
+
+PMCID: PMC3389415
+PMID: 22596233  [PubMed - indexed for MEDLINE]
+
+
+21. Dev Neurobiol. 2012 Feb;72(2):208-14. doi: 10.1002/dneu.20972.
+
+Regulation of spinal interneuron differentiation by the paracrine action of
+glycine.
+
+Côté S(1), Drapeau P.
+
+Author information: 
+(1)Department of Pathology and Cell Biology and Groupe de recherche sur le
+système nerveux central, University of Montreal, Montreal, QC H3C 3J7, Canada.
+
+Glycine and <U+03B3>-aminobutyric acid (GABA) are depolarizing during early development 
+but the purpose is unclear. We tested the effect of altering glycine signaling in
+zebrafish embryos by overexpressing the potassium-chloride co-transporter type 2 
+(KCC2) to reverse the chloride gradient or by blocking glycine receptors with
+strychnine or by selectively knocking down the embryonic glycine receptor (GlyR
+KD). Using a variety of markers we observed in all three cases a reduction of all
+types of spinal interneuron populations examined, indicating that glycine
+modulates their overall differentiation rather than choice of cell fate. Other
+cell populations (motor, sensory, and glial cells) were unaffected. As glycine
+appeared to act preceding neural and synaptic development, we examined the
+bandoneon (beo) mutant in which glycine receptors are functional but not
+clustered at synapses. Neural populations in beo embryos appeared normal,
+suggesting a paracrine action of circulating glycine in promoting interneuron
+differentiation.
+
+Copyright © 2011 Wiley Periodicals, Inc.
+
+PMCID: PMC4005792
+PMID: 22234938  [PubMed - indexed for MEDLINE]
+
+
+22. Dev Biol. 2012 Feb 1;362(1):94-103. doi: 10.1016/j.ydbio.2011.11.017. Epub 2011
+Dec 6.
+
+EVEN-SKIPPED HOMEOBOX 1 controls human ES cell differentiation by directly
+repressing GOOSECOID expression.
+
+Kalisz M(1), Winzi M, Bisgaard HC, Serup P.
+
+Author information: 
+(1)Department of Developmental Biology, Hagedorn Research Institute, Gentofte,
+Denmark. pas@hagedorn.dk
+
+TGFß signaling patterns the primitive streak, yet little is known about
+transcriptional effectors that mediate the cell fate choices during streak-like
+development in mammalian embryos and in embryonic stem (ES) cells. Here we
+demonstrate that cross-antagonistic actions of EVEN-SKIPPED HOMEOBOX 1 (EVX1) and
+GOOSECOID (GSC) regulate cell fate decisions in streak-like progenitors derived
+from human ES cells exposed to BMP4 and/or activin. We found that EVX1 repressed 
+GSC expression and promoted formation of posterior streak-like progeny in
+response to BMP4, and conversely that GSC repressed EVX1 expression and was
+required for development of anterior streak-like progeny in response to activin. 
+Chromatin immunoprecipitation assays showed that EVX1 bound to the GSC
+5'-flanking region in BMP4 treated human ES cells, and band shift assays
+identified two EVX1 binding sites in the GSC 5'-region. Significantly, we found
+that intact EVX1 binding sites were required for BMP4-mediated repression of GSC 
+reporter constructs. We conclude that BMP4-induced EVX1 repress GSC directly and 
+the two genes form the core of a gene regulatory network (GRN) controlling cell
+fates in streak-like human ES cell progeny.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+PMID: 22178155  [PubMed - indexed for MEDLINE]
+
+
+23. Respir Physiol Neurobiol. 2011 Aug 31;178(1):146-55. doi:
+10.1016/j.resp.2011.04.013. Epub 2011 Apr 16.
+
+Prenatal development of central rhythm generation.
+
+Champagnat J(1), Morin-Surun MP, Bouvier J, Thoby-Brisson M, Fortin G.
+
+Author information: 
+(1)Neurobiologie et Développement (UPR 3294, CNRS), Neuro-Sud Paris (IFR 144),
+Centre de Recherche de Gif-sur Yvette (CNRS, FRC 3115), Gif-sur-Yvette, France.
+jean.champagnat@iaf.cnrs-gif.fr
+
+Foetal breathing in mice results from prenatal activity of the two coupled
+hindbrain oscillators considered to be responsible for respiratory rhythm
+generation after birth: the pre-Bötzinger complex (preBötC) is active shortly
+before the onset of foetal breathing; the parafacial respiratory group (e-pF in
+embryo) starts activity one day earlier. Transcription factors have been
+identified that are essential to specify neural progenitors and lineages forming 
+each of these oscillators during early development of the neural tube: Hoxa1,
+Egr2 (Krox20), Phox2b, Lbx1 and Atoh1 for the e-pF; Dbx1 and Evx1 for the preBötC
+which eventually grow contralateral axons requiring expression of Robo3.
+Inactivation of the genes encoding these factors leads to mis-specification of
+these neurons and distinct breathing abnormalities: apneic patterns and loss of
+central chemosensitivity for the e-pF (central congenital hypoventilation
+syndrome, CCHS, in humans), complete loss of breathing for the preBötC,
+right-left desynchronized breathing in Robo3 mutants. Mutations affecting
+development in more rostral (pontine) respiratory territories change the shape of
+the inspiratory drive without affecting the rhythm. Other (primordial) embryonic 
+oscillators start in the mouse three days before the e-pF, to generate low
+frequency (LF) rhythms that are probably required for activity-dependent
+development of neurones at embryonic stages; in the foetus, however, they are
+actively silenced to avoid detrimental interaction with the on-going respiratory 
+rhythm. Altogether, these observations provide a strong support to the previously
+proposed hypothesis that the functional organization of the respiratory generator
+is specified at early stages of development and is dual in nature, comprising two
+serially non-homologous oscillators.
+
+Copyright © 2011 Elsevier B.V. All rights reserved.
+
+PMID: 21527363  [PubMed - indexed for MEDLINE]
+
+
+24. Dev Dyn. 2011 May;240(5):1240-8. doi: 10.1002/dvdy.22534. Epub 2011 Jan 18.
+
+Evx1 is required for joint formation in zebrafish fin dermoskeleton.
+
+Schulte CJ(1), Allen C, England SJ, Juárez-Morales JL, Lewis KE.
+
+Author information: 
+(1)Department of Physiology, Development and Neuroscience, Anatomy Building,
+Cambridge, UK.
+
+The transcription factor Evx1 is expressed in the joints between individual
+lepidotrichia (bony ray) segments and at the distal tips of the lepidotrichia in 
+developing zebrafish fins. It is also expressed in the apical growth zone in
+regenerating fins. However, so far there is no functional evidence that addresses
+whether Evx1 is required for any aspect of fin development or regeneration. In
+this study, we use a novel mutation in evx1 to address this. We find that Evx1 is
+not required for either fin outgrowth or regeneration. All of the fins form
+normally in evx1 mutants, and there are no significant changes in fin length. In 
+contrast, Evx1 is required for lepidotrichia joint formation during both fin
+development and regeneration. This is a very specific phenotype as both
+lepidotrichia hemisegment separations and lepidotrichia bifurcations still form
+normally in evx1 mutant fins, as do joints in the more proximal endoskeletal
+radials.
+
+Copyright © 2011 Wiley-Liss, Inc.
+
+PMID: 21509898  [PubMed - indexed for MEDLINE]
+
+
+25. Hua Xi Kou Qiang Yi Xue Za Zhi. 2010 Apr;28(2):190-4.
+
+[Research on the differently expressed homeobox genes related to adenoid cystic
+carcinoma].
+
+[Article in Chinese]
+
+Xia H(1), Li LJ, Han B, Pan J, Gao N.
+
+Author information: 
+(1)State Key Laboratory of Oral Diseases, Sichuan University, Chengdu 610041,
+China.
+
+OBJECTIVE: To investigate the differently expressed Homeobox genes between
+adenoid cystic carcinoma of salivary gland and normal gland tissue, and find out 
+the effect of homeobox genes on oncogenesis and differentiation of adenoid cystic
+carcinoma of salivary gland.
+METHODS: Six strictly paired specimens including adenoid cystic carcinoma and its
+surrounding normal gland tissue and two pairs of specimens including cell strain 
+of adenoid cystic carcinoma and its surrounding normal gland tissue were
+established. Customized Oligo microarray which contains probes of 232 human
+homeobox genes was used to analyze and conclude two groups of different genes
+data. RT-PCR technique was used to examine the mRNA expressing level of highly
+suspected relevant genes of adenoid cystic carcinoma in different specimens.
+Obvious differently expressed Homeobox genes were found through statistical
+analyses.
+RESULTS: In tissue specimens homeobox genes were found 67 up-regulated and 54
+down-regulated, and in cell specimens homeobox genes were found 12 up-regulated
+and 15 down-regulated. One up-regulated gene and 7 down-regulated genes were
+found both in tissue and cell specimens, among which EVX1 and PITX1 were the most
+frequent. RT-PCI showed that there was statistical expressing difference between 
+TGIF, EVX1 and normal gland tissue in ACC-M.
+CONCLUSION: As the key gene to cellular proliferation and differentiation,
+homeobox genes are closely relevant to the oncogenesis of adenoid cystic
+carcinoma of salivary gland.
+
+PMID: 20480666  [PubMed - indexed for MEDLINE]
+
+
+26. Dev Neurosci. 2009;31(6):511-22. doi: 10.1159/000243715. Epub 2009 Sep 30.
+
+Detailed expression pattern of Foxp1 and its possible roles in neurons of the
+spinal cord during embryogenesis.
+
+Morikawa Y(1), Komori T, Hisaoka T, Senba E.
+
+Author information: 
+(1)Department of Anatomy and Neurobiology, Wakayama Medical University, Wakayama,
+Japan. yoshim@wakayama-med.ac.jp
+
+A member of winged-helix/forkhead transcription factors, Foxp1, is expressed in
+the developing spinal cord during mouse embryogenesis. To shed light on the
+potential role of Foxp1 in neurons of the developing spinal cord, we investigated
+the detailed expression pattern of Foxp1 between embryonic day (E) 9.5 and E17.5.
+At E10.25, some postmitotic neurons with strong expression of Foxp1 (Foxp1(high))
+were first detected in the ventral half of the brachial spinal cord. By E11.5,
+Foxp1(high) neurons increased in the ventral spinal cord at the limb levels. All 
+of Foxp1(high) neurons at the limb levels were Islet2(+)/Lhx3(-) motor neurons
+(MNs) of the lateral motor column and some neurons that expressed Foxp1 weakly
+(Foxp1(low)) at the thoracic level were MNs of the preganglionic motor column.
+Between E12.5 and E17.5, Foxp1(low) neurons were also observed in the
+intermediate zone throughout the ventral spinal cord, all of which were Pax2(+), 
+En1(+), Evx1(-), Chx10(-), Gata3(-), and Lhx3(-) V1 interneurons. Interestingly, 
+no colocalization of Foxp1 with Lhx3 was observed in the developing spinal cord. 
+In addition, overexpression of Foxp1 markedly attenuated the endogenous
+expression of Lhx3 in a neuroendocrine cell line. Chromatin immunoprecipitation
+assays in a neuronal cell line and E13.5 spinal cords revealed an interaction
+between Foxp1 and the consensus motif in the Lhx3 promoter. These results suggest
+that Foxp1 may play some important roles in the determination of neuronal fates
+of the ventral spinal cord, possibly through the suppression of Lhx3 expression.
+
+Copyright 2009 S. Karger AG, Basel.
+
+PMID: 19797899  [PubMed - indexed for MEDLINE]
+
+
+27. Neuroscience. 2009 Sep 15;162(4):1150-62. doi:
+10.1016/j.neuroscience.2009.05.022. Epub 2009 May 20.
+
+Characterization of Foxp2-expressing cells in the developing spinal cord.
+
+Morikawa Y(1), Hisaoka T, Senba E.
+
+Author information: 
+(1)Department of Anatomy and Neurobiology, Wakayama Medical University, 811-1,
+Kimiidera, Wakayama 641-8509, Japan. yoshim@wakayama-med.ac.jp
+
+Two members of winged-helix/forkhead transcription factors, Foxp1 and Foxp2, are 
+expressed in the developing and adult CNS, including the striatum, cerebral
+cortex, and thalamus. In a previous study, we have demonstrated that Foxp1 is
+expressed in a subpopulation of V1 interneurons in addition to motor neurons of
+the spinal cord during mouse embryogenesis. However, the detailed expression
+pattern of Foxp2 and its relationship with Foxp1 in the developing spinal cord
+remains to be elucidated. To shed light on the potential roles of Foxp1 and Foxp2
+in the developing spinal cord, we characterized Foxp2-expressing cells during
+mouse embryogenesis. At embryonic day (E) 11.0, Foxp2-expressing cells were first
+observed in the ventral spinal cord, which were Pax6(-), p27(+), and
+neuron-specific class III beta-tubulin(+) postmitotic neurons. Between E13.5 and 
+E15.5, high expression of Foxp2 was observed in both medial and lateral parts of 
+the ventral spinal cord. Double-immunofluorescence staining for Foxp2 with some
+homeodomain transcription factors revealed that Foxp2-expressing neurons were
+Pax2(+), En1(+), Evx1(-), Chx10(-), Gata3(-), and Lhx3(-) V1 interneurons in the 
+intermediate zone throughout the ventral spinal cord, indicating that
+Foxp2-expressing neurons were also V1 interneurons with the same phenotypes as
+Foxp1-expressing interneurons. In addition, neither Foxp1 nor Foxp2 was expressed
+in ventral calbindin(+) Renshaw cells. However, Foxp2 did not colocalize with
+Foxp1 in interneurons of the ventral spinal cord. These findings suggest that
+Foxp1 and Foxp2 are expressed in the distinct subsets of V1 interneurons that
+belong to non-Renshaw cells in the ventral spinal cord during embryogenesis.
+Thus, Foxp1 and Foxp2 may be involved in the determination of the cell type
+identities during late embryogenesis: the classes of neurotransmitters and the
+functional subtypes of non-Renshaw cells, such as Ia and Ib inhibitory
+interneurons.
+
+PMID: 19463901  [PubMed - indexed for MEDLINE]
+
+
+28. Dev Biol. 2009 Jan 15;325(2):422-33. doi: 10.1016/j.ydbio.2008.10.004. Epub 2008 
+Oct 18.
+
+A novel conserved evx1 enhancer links spinal interneuron morphology and
+cis-regulation from fish to mammals.
+
+Suster ML(1), Kania A, Liao M, Asakawa K, Charron F, Kawakami K, Drapeau P.
+
+Author information: 
+(1)Centre for Research in Neuroscience, Research Institute of the McGill
+University Health Centre, Montréal, Québec H3T 1J4 Canada. msuster@lab.nig.ac.jp
+
+Spinal interneurons are key components of locomotor circuits, driving such
+diverse behaviors as swimming in fish and walking in mammals. Recent work has
+linked the expression of evolutionarily conserved transcription factors to key
+features of interneurons in diverse species, raising the possibility that these
+interneurons are functionally related. Consequently, the determinants of
+interneuron subtypes are predicted to share conserved cis-regulation in
+vertebrates with very different spinal cords. Here, we establish a link between
+cis-regulation and morphology of spinal interneurons that express the Evx1
+homeodomain transcription factor from fish to mammals. Using comparative
+genomics, and complementary transgenic approaches, we have identified a novel
+enhancer of evx1, that includes two non-coding elements conserved in vertebrates.
+We show that pufferfish evx1 transgenes containing this enhancer direct reporter 
+expression to a subset of spinal commissural interneurons in zebrafish embryos.
+Pufferfish, zebrafish and mouse evx1 downstream genomic enhancers label
+selectively Evx1(+) V0 commissural interneurons in chick and rat embryos. By
+dissecting the zebrafish evx1 enhancer, we identify a role for a 25 bp conserved 
+cis-element in V0-specific gene expression. Our findings support the notion that 
+spinal interneurons shared between distantly related vertebrates, have been
+maintained in part via the preservation of highly conserved cis-regulatory
+modules.
+
+PMID: 18992237  [PubMed - indexed for MEDLINE]
+
+
+29. FASEB J. 2009 Jan;23(1):114-22. doi: 10.1096/fj.08-111203. Epub 2008 Sep 22.
+
+Directed induction of anterior and posterior primitive streak by Wnt from
+embryonic stem cells cultured in a chemically defined serum-free medium.
+
+Nakanishi M(1), Kurisaki A, Hayashi Y, Warashina M, Ishiura S, Kusuda-Furue M,
+Asashima M.
+
+Author information: 
+(1)Department of Life Sciences (Biology), Graduate School of Arts and Sciences,
+The University of Tokyo, 3-8-1, Komaba, Meguro-ku, Tokyo, 153-8902, Japan.
+
+Formation of the primitive streak (PS) is the initial specification step that
+generates all the mesodermal and endodermal tissue lineages during early
+differentiation. Thus, a therapeutically compatible and efficient method for
+differentiation of the PS is crucial for regenerative medicine. In this study, we
+developed chemically defined serum-free culture conditions for the
+differentiation of embryonic stem (ES) cells into the PS-like cells. Cultures
+supplemented with Wnt showed induction of expression of a PS marker, the
+brachyury gene, followed by induction of the anterior PS markers goosecoid and
+foxa2, a posterior PS marker, evx1, and the endoderm marker sox17. Similar
+differentiation of PS by Wnt was also observed in human ES cells. Moreover, we
+revealed that the activation of the Wnt canonical pathway is essential for PS
+differentiation in mouse ES cells. These results demonstrated that Wnt is an
+essential and sufficient factor for the induction of the PS-like cells in vitro. 
+These conditions of induction could constitute the initial step in generating
+therapeutically useful cells of the definitive endoderm lineage, such as
+hepatocytes and pancreatic endocrine cells, under chemically defined conditions.
+
+PMID: 18809738  [PubMed - indexed for MEDLINE]
+
+
+30. Cancer Res. 2008 Sep 1;68(17):7156-64. doi: 10.1158/0008-5472.CAN-08-1085.
+
+CREB3L2-PPARgamma fusion mutation identifies a thyroid signaling pathway
+regulated by intramembrane proteolysis.
+
+Lui WO(1), Zeng L, Rehrmann V, Deshpande S, Tretiakova M, Kaplan EL, Leibiger I, 
+Leibiger B, Enberg U, Höög A, Larsson C, Kroll TG.
+
+Author information: 
+(1)Department of Pathology, University of Chicago Medical Center, Chicago,
+Illinois 60637, USA.
+
+The discovery of gene fusion mutations, particularly in leukemia, has
+consistently identified new cancer pathways and led to molecular diagnostic
+assays and molecular-targeted chemotherapies for cancer patients. Here, we report
+our discovery of a novel CREB3L2-PPARgamma fusion mutation in thyroid carcinoma
+with t(3;7)(p25;q34), showing that a family of somatic PPARgamma fusion mutations
+exist in thyroid cancer. The CREB3L2-PPARgamma fusion encodes a CREB3L2-PPARgamma
+fusion protein that is composed of the transactivation domain of CREB3L2 and all 
+functional domains of PPARgamma1. CREB3L2-PPARgamma was detected in <3% of
+thyroid follicular carcinomas. Engineered overexpression of CREB3L2-PPARgamma
+induced proliferation by 40% to 45% in primary human thyroid cells, consistent
+with a dominant oncogenic mechanism. Wild-type CREB3L2 was expressed in the
+thyroid as a bZIP transcription factor with a transmembrane domain that has
+flanking S1P and S2P proteolytic cleavage sites. Native CREB3L2 was cleaved to
+nuclear CREB3L2 by regulated intramembrane proteolysis in normal thyroid cells
+that expressed the S1P and S2P proteases. Nuclear CREB3L2 stimulated
+transcription 8-fold from the EVX1 cyclic AMP (cAMP) response element in the
+absence of cAMP, whereas CREB3L2-PPARgamma inhibited transcription 6-fold from
+EVX1 in the same experiments. CREB3L2-PPARgamma also inhibited 4-fold the
+expression of thyroglobulin, a native cAMP-responsive gene, in primary thyroid
+cells treated with thyroid-stimulating hormone. Our findings identify a novel
+CREB3L2-PPARgamma gene fusion mutation in thyroid carcinoma and reveal a thyroid 
+signaling pathway that is regulated by intramembrane proteolysis and disrupted in
+cancer.
+
+PMID: 18757431  [PubMed - indexed for MEDLINE]
+
+
+31. Dev Dyn. 2008 May;237(5):1359-72. doi: 10.1002/dvdy.21536.
+
+Ventral specification and perturbed boundary formation in the mouse midbrain in
+the absence of Hedgehog signaling.
+
+Fogel JL(1), Chiang C, Huang X, Agarwala S.
+
+Author information: 
+(1)Institute for Neuroscience, University of Texas at Austin, Austin, Texas
+78712-0248, USA.
+
+Although Hedgehog (HH) signaling plays a critical role in patterning the ventral 
+midbrain, its role in early midbrain specification is not known. We examined the 
+midbrains of sonic hedgehog (Shh) and smoothened (Smo) mutant mice where HH
+signaling is respectively attenuated and eliminated. We show that some ventral
+(Evx1+) cell fates are specified in the Shh-/- mouse in a Ptc1- and
+Gli1-independent manner. HH-independent ventral midbrain induction was further
+confirmed by the presence of a Pax7-negative ventral midbrain territory in both
+Shh-/- and Smo-/- mice at and before embryonic day (E) 8.5. Midbrain signaling
+centers are severely disrupted in the Shh-/- mutant. Interestingly, dorsal
+markers are up-regulated (Wnt1, Gdf7, Pax7), down-regulated (Lfng), or otherwise 
+altered (Zic1) in the Shh-/- midbrain. Together with the increased cell death
+seen specifically in Shh-/- dorsal midbrains (E8.5-E9), our results suggest
+specific regulation of dorsal patterning by SHH, rather than a simple
+deregulation due to its absence.
+
+PMCID: PMC2586936
+PMID: 18429041  [PubMed - indexed for MEDLINE]
+
+
+32. Dev Neurosci. 2006;28(1-2):102-17.
+
+Notch1 signaling influences v2 interneuron and motor neuron development in the
+spinal cord.
+
+Yang X(1), Tomita T, Wines-Samuelson M, Beglopoulos V, Tansey MG, Kopan R, Shen
+J.
+
+Author information: 
+(1)Center for Neurologic Diseases, Brigham and Women's Hospital, Program in
+Neuroscience, Harvard Medical School, Boston, MA 02115, USA.
+
+The Notch signaling pathway plays a variety of roles in cell fate decisions
+during development. Previous studies have shown that reduced Notch signaling
+results in premature differentiation of neural progenitor cells, while increased 
+Notch activities promote apoptotic death of neural progenitor cells in the
+developing brain. Whether Notch signaling is involved in the specification of
+neuronal subtypes is unclear. Here we examine the role of Notch1 in the
+development of neuronal subtypes in the spinal cord using conditional knockout
+(cKO) mice lacking Notch1 specifically in neural progenitor cells. Notch1
+inactivation results in accelerated neuronal differentiation in the ventral
+spinal cord and gradual disappearance of the ventral central canal. These changes
+are accompanied by reduced expression of Hes1 and Hes5 and increased expression
+of Mash1 and Neurogenin 1 and 2. Using markers (Nkx2.2, Nkx6.1, Olig2, Pax6 and
+Dbx1) for one or multiple progenitor cell types, we found reductions of all
+subtypes of progenitor cells in the ventral spinal cord of Notch1 cKO mice.
+Similarly, using markers (Islet1/2, Lim3, Sim1, Chox10, En1 and Evx1/2) specific 
+for motor neurons and distinct classes of interneurons, we found increases in the
+number of V0-2 interneurons in the ventral spinal cord of Notch1 cKO mice.
+Specifically, the number of Lim3+/Chox10+ V2 interneurons is markedly increased
+while the number of Lim3+/Islet+motor neurons is decreased in the Notch1 cKO
+spinal cord, suggesting that V2 interneurons are generated at the expense of
+motor neurons in the absence of Notch1. These results provide support for a role 
+of Notch1 in neuronal subtype specification in the ventral spinal cord.
+
+Copyright (c) 2006 S. Karger AG, Basel.
+
+PMID: 16508308  [PubMed - indexed for MEDLINE]
+
+
+33. Cancer Genet Cytogenet. 2005 Oct 1;162(1):82-4.
+
+HOXA gene cluster rearrangement in a t(7;9)(p15;q34) in a child with MDS.
+
+Poppe B(1), Yigit N, De Moerloose B, De Paepe A, Benoit Y, Speleman F.
+
+Author information: 
+(1)Center for Medical Genetics, University Hospital Ghent 1K5, De Pintelaan 185, 
+Getnt B-9000, Belgium.
+
+We describe the molecular characterization of a t(7;9)(p15;q34) found in a
+15-month-old female patient, diagnosed with refractory anemia with excess blasts 
+in transformation (RAEBt), in progression to acute myeloid leukemia (AML) M7.
+Molecular characterization of the 7p15 breakpoint showed that this was localized 
+within a fully sequenced PAC clone RP1-170O19 containing the HOXA4 to HOXA13
+genes and the EVX1 gene. The 9q34 breakpoint was mapped distal to ABL1 and
+proximal to NOTCH1 excluding their involvement as fusion gene partners. Our
+findings suggest a causal role for HOXA genes in childhood myelodysplasia and
+warrant investigation of this locus in a larger series of patients.
+
+PMID: 16157206  [PubMed - indexed for MEDLINE]
+
+
+34. BMC Dev Biol. 2005 Aug 18;5:17.
+
+Inactivation of the Huntington's disease gene (Hdh) impairs anterior streak
+formation and early patterning of the mouse embryo.
+
+Woda JM(1), Calzonetti T, Hilditch-Maguire P, Duyao MP, Conlon RA, MacDonald ME.
+
+Author information: 
+(1)Center for Human Genetic Research, Massachusetts General Hospital, CNY-149,
+Charlestown, MA 02129, USA. jwoda@partners.org
+
+BACKGROUND: Huntingtin, the HD gene encoded protein mutated by polyglutamine
+expansion in Huntington's disease, is required in extraembryonic tissues for
+proper gastrulation, implicating its activities in nutrition or patterning of the
+developing embryo. To test these possibilities, we have used whole mount in situ 
+hybridization to examine embryonic patterning and morphogenesis in homozygous
+Hdh(ex4/5) huntingtin deficient embryos.
+RESULTS: In the absence of huntingtin, expression of nutritive genes appears
+normal but E7.0-7.5 embryos exhibit a unique combination of patterning defects.
+Notable are a shortened primitive streak, absence of a proper node and diminished
+production of anterior streak derivatives. Reduced Wnt3a, Tbx6 and Dll1
+expression signify decreased paraxial mesoderm and reduced Otx2 expression and
+lack of headfolds denote a failure of head development. In addition, genes
+initially broadly expressed are not properly restricted to the posterior, as
+evidenced by the ectopic expression of Nodal, Fgf8 and Gsc in the epiblast and T 
+(Brachyury) and Evx1 in proximal mesoderm derivatives. Despite impaired posterior
+restriction and anterior streak deficits, overall anterior/posterior polarity is 
+established. A single primitive streak forms and marker expression shows that the
+anterior epiblast and anterior visceral endoderm (AVE) are specified.
+CONCLUSION: Huntingtin is essential in the early patterning of the embryo for
+formation of the anterior region of the primitive streak, and for down-regulation
+of a subset of dynamic growth and transcription factor genes. These findings
+provide fundamental starting points for identifying the novel cellular and
+molecular activities of huntingtin in the extraembryonic tissues that govern
+normal anterior streak development. This knowledge may prove to be important for 
+understanding the mechanism by which the dominant polyglutamine expansion in
+huntingtin determines the loss of neurons in Huntington's disease.
+
+PMCID: PMC1208873
+PMID: 16109169  [PubMed - indexed for MEDLINE]
+
+
+35. Evol Dev. 2004 Nov-Dec;6(6):423-30.
+
+Conserved expression domains for genes upstream and within the HoxA and HoxD
+clusters suggests a long-range enhancer existed before cluster duplication.
+
+Lehoczky JA(1), Williams ME, Innis JW.
+
+Author information: 
+(1)Department of Human Genetics, Division of Genetics, University of Michigan,
+Ann Arbor, MI 48109, USA.
+
+The posterior HoxA and HoxD genes are essential in appendicular development.
+Studies have demonstrated that a "distal limb enhancer," remotely located
+upstream of the HoxD complex, is required to drive embryonic autopod expression
+of the posterior Hox genes as well as the two additional non-Hox genes in the
+region: Evx2 and Lnp. Our work demonstrates a similar mode of regulation for
+Hoxa13 and four upstream genes: Evx1, Hibadh, Tax1bp, and Jaz1. These genes all
+show embryonic (E11.5-E13.5) distal limb and genital bud expression, suggesting
+the existence of a nearby enhancer influencing the expression of a domain of
+genes. Comparative sequence analysis between homologous human and mouse genomic
+sequence upstream of Hoxa13 revealed a remote 2.25-kb conserved noncoding
+sequence (mmA13CNS) within the fourth intron of the Hibadh gene. mmA13CNS shares 
+a common 131-bp core identity within a conserved noncoding sequence upstream of
+Hoxd13, which is located within the previously identified distal limb enhancer
+critical region. To test the function of this conserved sequence, we created
+mmA13CNS-Hsp86-lacZ transgenic mice. mmA13CNS directed a wide range of tissue
+expression, including the central nervous system, developing olfactory tissue,
+limb, and genital bud. Limb and genital bud expression directed by mmA13CNS is
+not identical to the patterns exhibited by Hoxa13/Evx1/Hibadh/Tax1bp1/Jaz1,
+suggesting that mmA13CNS is not sufficient to fully recapitulate their expression
+in those tissues. The Evx1- and Evx2-like central nervous system expression
+observed in these mice suggests that the long-range regulatory element(s) for the
+Hox cluster existed before the cluster duplication.
+
+PMID: 15509224  [PubMed - indexed for MEDLINE]
+
+
+36. Dev Dyn. 2004 Aug;230(4):727-33.
+
+Cellular expression of eve1 suggests its requirement for the differentiation of
+the ameloblasts and for the initiation and morphogenesis of the first tooth in
+the zebrafish (Danio rerio).
+
+Laurenti P(1), Thaëron C, Allizard F, Huysseune A, Sire JY.
+
+Author information: 
+(1)Populations, Génétique et Evolution, Gif-sur-Yvette, France.
+
+even-skipped-related (evx) genes encode homeodomain-containing transcription
+factors that are involved in a series of developmental processes such as
+posterior body patterning and neurodifferentiation. Although evx1 and evx2 were
+not reported to be expressed during mammalian tooth development, we present here 
+evidence that eve1, the closest paralog of evx1 in the actinopterygian lineage,
+is expressed during pharyngeal tooth formation in the zebrafish, Danio rerio. We 
+have performed whole-mount in situ hybridization on zebrafish embryos and larvae 
+ranging from 24 to 192 hours postfertilization (hpf). A detailed analysis of
+serial sections through the pharyngeal region of whole-mount hybridized and
+control specimens indicates that only dental epithelial cells express eve1. eve1 
+transcription was activated at 48 hpf, in the placode of the first tooth (i.e.,
+the initiation site of tooth 4V(1)), and maintained in the dental epithelium
+throughout morphogenesis. Then, by 72 hpf, eve1 expression was restricted to the 
+differentiating ameloblasts of the enamel organ during early differentiation
+stage, and this expression decreased as soon as matrix was deposited. In
+subsequent primary teeth (3 V(1) and 5 V(1)) as well as in their successors
+(replacement teeth 4V(2), 3V(2), and 5V(2)), eve1 expression was restricted to
+the differentiating ameloblasts and, again, disappeared when matrix was
+deposited. Therefore, in the zebrafish, eve1 expression in the pharyngeal region 
+is correlated with two key steps of tooth development: initiation and
+morphogenesis of the first tooth, and ameloblast differentiation of all
+developing teeth.
+
+Copyright 2004 Wiley-Liss, Inc.
+
+PMID: 15254906  [PubMed - indexed for MEDLINE]
+
+
+37. Evol Dev. 2003 Mar-Apr;5(2):145-56.
+
+Comparison of even-skipped related gene expression pattern in vertebrates shows
+an association between expression domain loss and modification of selective
+constraints on sequences.
+
+Avaron F(1), Thaëron-Antono C, Beck CW, Borday-Birraux V, Géraudie J, Casane D,
+Laurenti P.
+
+Author information: 
+(1)Laboratoire de Biologie du Développement, Université de Paris 7, case courrier
+7077, 2 place Jussieu, 75251 Paris cedex 5, France.
+
+The even-skipped related genes (evx) encode homeodomain-containing transcription 
+factors that play key roles in body patterning and neurogenesis in a wide array
+of Eumetazoa species. It is thought that the genome of the last common ancestor
+of Chordata contained a unique evx gene linked to a unique ancestral Hox complex.
+During subsequent evolution, two rounds of whole genome duplication followed by
+individual gene losses gave rise to three paralogs: evx1, evx2, and eve1. Then,
+eve1 was maintained in Actinopterygii lineage but not in Tetrapoda. To explain
+this discrepancy, we examined the expression patterns of the evx1 homologue,
+Xhox3, in Xenopus laevis and that of evx1 and eve1 in Danio rerio. We show here
+that Xhox3 is expressed in a manner that closely reflects the inferred expression
+pattern of the evx1 gene in the last common ancestor of Vertebrata (i.e., in
+gastrula, the central nervous system, the posterior gut, and the tip of the
+growing tail). Zebrafish evx1 and Xenopus Xhox3 are expressed in homologous cell 
+lineages of the central nervous system and of the posterior gut, but evx1 was
+undetectable in the gastrula and the tail bud. Strikingly, eve1 is the only evx
+gene of zebrafish to be expressed in these two latter regions. Thus, the
+ancestral expression pattern of evx1 in vertebrates appears to have been
+distributed between evx1 and eve1 in zebrafish. We propose that evx1 and eve1
+underwent a complementary loss of expression domain in zebrafish that allowed the
+maintenance of the two paralogs in accordance with the
+duplication-degeneration-complementation model. It is important to note that, in 
+zebrafish, Evx1 and Eve1 have lost most of the protein domain upstream of the
+homeodomain. In addition, Eve1 has accumulated substitutions in positions that
+are highly conserved in all other Evx proteins. Thus, the reduction of the
+expression domain of both evx1 and eve1 in zebrafish appears to be associated
+with the modification of constraints on the protein sequences, allowing the
+shortening of both genes and an accelerated substitution rate in eve1.
+
+PMID: 12622731  [PubMed - indexed for MEDLINE]
+
+
+38. Genome Biol. 2003;4(2):R12. Epub 2003 Jan 23.
+
+Genesis and evolution of the Evx and Mox genes and the extended Hox and ParaHox
+gene clusters.
+
+Minguillón C(1), Garcia-Fernàndez J.
+
+Author information: 
+(1)Departament de Genètica, Facultat de Biologia, Universitat de Barcelona,
+Spain.
+
+BACKGROUND: Hox and ParaHox gene clusters are thought to have resulted from the
+duplication of a ProtoHox gene cluster early in metazoan evolution. However, the 
+origin and evolution of the other genes belonging to the extended Hox group of
+homeobox-containing genes, that is, Mox and Evx, remains obscure. We constructed 
+phylogenetic trees with mouse, amphioxus and Drosophila extended Hox and other
+related Antennapedia-type homeobox gene sequences and analyzed the linkage data
+available for such genes.
+RESULTS: We claim that neither Mox nor Evx is a Hox or ParaHox gene. We propose a
+scenario that reconciles phylogeny with linkage data, in which an Evx/Mox
+ancestor gene linked to a ProtoHox cluster was involved in a segmental tandem
+duplication event that generated an array of all Hox-like genes, referred to as
+the 'coupled' cluster. A chromosomal breakage within this cluster explains the
+current composition of the extended Hox cluster (with Evx, Hox and Mox genes) and
+the ParaHox cluster.
+CONCLUSIONS: Most studies dealing with the origin and evolution of Hox and
+ParaHox clusters have not included the Hox-related genes Mox and Evx. Our
+phylogenetic analyses and the available linkage data in mammalian genomes support
+an evolutionary scenario in which an ancestor of Evx and Mox was linked to the
+ProtoHox cluster, and that a tandem duplication of a large genomic region early
+in metazoan evolution generated the Hox and ParaHox clusters, plus the
+cluster-neighbors Evx and Mox. The large 'coupled' Hox-like cluster
+EvxHox/MoxParaHox was subsequently broken, thus grouping the Mox and Evx genes to
+the Hox clusters, and isolating the ParaHox cluster.
+
+PMCID: PMC151302
+PMID: 12620122  [PubMed - indexed for MEDLINE]
+
+
+39. Dev Biol. 2001 Sep 15;237(2):270-81.
+
+Amphioxus Evx genes: implications for the evolution of the Midbrain-Hindbrain
+Boundary and the chordate tailbud.
+
+Ferrier DE(1), Minguillón C, Cebrián C, Garcia-Fernàndez J.
+
+Author information: 
+(1)Departament de Genètica, Facultat de Biologia, Universitat de Barcelona, Av.
+Diagonal 645, 08028 Barcelona, Spain.
+
+Evx genes are widely used in animal development. In vertebrates they are crucial 
+in gastrulation, neurogenesis, appendage development and tailbud formation,
+whilst in protostomes they are involved in gastrulation and neurogenesis, as well
+as segmentation at least in Drosophila. We have cloned the Evx genes of amphioxus
+(Branchiostoma floridae), and analysed their expression to understand how the
+functions of Evx have evolved between invertebrates and vertebrates, and in
+particular at the origin of chordates and during their subsequent evolution.
+Amphioxus has two Evx genes (AmphiEvxA and AmphiEvxB) which are genomically
+linked. AmphiEvxA is prototypical to the vertebrate Evx1 and Evx2 genes with
+respect to its sequence and expression, whilst AmphiEvxB is very divergent.
+Mapping the expression of AmphiEvxA onto a phylogeny shows that a role in
+gastrulation, dorsal-ventral patterning and neurogenesis is probably retained
+throughout bilaterian animals. AmphiEvxA expression during tailbud development
+implies a role for Evx throughout the chordates in this process, whilst lack of
+expression at the homologous region to the vertebrate Midbrain-Hindbrain Boundary
+(MHB) is consistent with the elaboration of the full organiser properties of this
+region being a vertebrate innovation.
+
+Copyright 2001 Academic Press.
+
+PMID: 11543613  [PubMed - indexed for MEDLINE]
+
+
+40. Development. 2001 May;128(9):1587-97.
+
+Mice doubly deficient for the Polycomb Group genes Mel18 and Bmi1 reveal synergy 
+and requirement for maintenance but not initiation of Hox gene expression.
+
+Akasaka T(1), van Lohuizen M, van der Lugt N, Mizutani-Koseki Y, Kanno M,
+Taniguchi M, Vidal M, Alkema M, Berns A, Koseki H.
+
+Author information: 
+(1)Department of Molecular Embryology, Graduate School of Medicine, Chiba
+University, Chuo-ku, Chiba 260-8670, Japan.
+
+Polycomb group genes were identified as a conserved group of genes whose products
+are required in multimeric complexes to maintain spatially restricted expression 
+of Hox cluster genes. Unlike in Drosophila, in mammals Polycomb group (PcG) genes
+are represented as highly related gene pairs, indicative of duplication during
+metazoan evolution. Mel18 and Bmi1 are mammalian homologs of Drosophila Posterior
+sex combs. Mice deficient for Mel18 or Bmi1 exhibit similar posterior
+transformations of the axial skeleton and display severe immune deficiency,
+suggesting that their gene products act on overlapping pathways/target genes.
+However unique phenotypes upon loss of either Mel18 or Bmi1 are also observed. We
+show using embryos doubly deficient for Mel18 and Bmi1 that Mel18 and Bmi1 act in
+synergy and in a dose-dependent and cell type-specific manner to repress Hox
+cluster genes and mediate cell survival of embryos during development. In
+addition, we demonstrate that Mel18 and Bmi1, although essential for maintenance 
+of the appropriate expression domains of Hox cluster genes, are not required for 
+the initial establishment of Hox gene expression. Furthermore, we show an
+unexpected requirement for Mel18 and Bmi1 gene products to maintain stable
+expression of Hox cluster genes in regions caudal to the prospective anterior
+expression boundaries during subsequent development.
+
+PMID: 11290297  [PubMed - indexed for MEDLINE]
+
+
+41. Neuron. 2001 Feb;29(2):385-99.
+
+Evx1 is a postmitotic determinant of v0 interneuron identity in the spinal cord.
+
+Moran-Rivard L(1), Kagawa T, Saueressig H, Gross MK, Burrill J, Goulding M.
+
+Author information: 
+(1)Biology Graduate Program University of California, San Diego 9500 Gilman
+Drive, La Jolla, CA 92093, USA.
+
+Interneurons in the ventral spinal cord are essential for coordinated locomotion 
+in vertebrates. During embryogenesis, the V0 and V1 classes of ventral
+interneurons are defined by expression of the homeodomain transcription factors
+Evx1/2 and En1, respectively. In this study, we show that Evx1 V0 interneurons
+are locally projecting intersegmental commissural neurons. In Evx1 mutant
+embryos, the majority of V0 interneurons fail to extend commissural axons.
+Instead, they adopt an En1-like ipsilateral axonal projection and ectopically
+express En1, indicating that V0 interneurons are transfated to a V1 identity.
+Conversely, misexpression of Evx1 represses En1, suggesting that Evx1 may
+suppress the V1 interneuron differentiation program. Our findings demonstrate
+that Evx1 is a postmitotic determinant of V0 interneuron identity and reveal a
+critical postmitotic phase for neuronal determination in the developing spinal
+cord.
+
+PMID: 11239430  [PubMed - indexed for MEDLINE]
+
+
+42. Neuron. 2001 Feb;29(2):321-4.
+
+Spinal motor circuits: merging development and function.
+
+Sharma K(1), Peng CY.
+
+Author information: 
+(1)Department of Neurobiology, Pharmacology and Physiology, University of
+Chicago, Chicago, IL 60637, USA. ksharma@delphi.bsd.uchicago.edu
+
+Comment on
+    Neuron. 2001 Feb;29(2):367-84.
+
+PMID: 11239425  [PubMed - indexed for MEDLINE]
+
+
+43. Dev Dyn. 2001 Feb;220(2):91-8.
+
+evx1 transcription in bony fin rays segment boundaries leads to a reiterated
+pattern during zebrafish fin development and regeneration.
+
+Borday V(1), Thaëron C, Avaron F, Brulfert A, Casane D, Laurenti P, Géraudie J.
+
+Author information: 
+(1)Laboratoire de Biologie du Développement, Université Paris 7-Denis Diderot,
+case 7077, 2 Place Jussieu, 75251 Paris cedex 5, France.
+
+The dermoskeleton of zebrafish fins is composed of actinotrichia and segmented
+bony rays, or lepidotrichia, which grow by successive addition of distal
+segments. The present study shows that evx1, a new zebrafish even-skipped related
+gene (Thaëron et al., 2000) displays during bony ray morphogenesis, a unique
+repetitive expression pattern along the proximodistal axis of the fin.
+Whole-mount in situ hybridization performed on larvae and adult regenerating fins
+show that evx1 signal appears as parallel dash lines crossing the width of each
+developing and regenerating rays, in a ladder-like fashion. Cytological studies
+show that a subpopulation of bone forming cells (scleroblasts) expresses evx1 at 
+the level of the joint between two adjacent segments except in the apical part of
+the differentiating ray where evx1 expression precedes the formation of the
+joint. This distal transcription is turned on again only when the latest
+differentiating segment reached its final size and might label the putative next 
+segment boundary. This suggests the existence of a molecular mechanism
+controlling the periodic expression of evx1 which could be involved in the
+establishment of segment boundaries during fin ray morphogenesis, and could play 
+a key role during dermal skeleton patterning.
+
+Copyright 2001 Wiley-Liss, Inc.
+
+PMID: 11169842  [PubMed - indexed for MEDLINE]
+
+
+44. Mech Dev. 2000 Dec;99(1-2):167-72.
+
+Zebrafish evx1 is dynamically expressed during embryogenesis in subsets of
+interneurones, posterior gut and urogenital system.
+
+Thaëron C(1), Avaron F, Casane D, Borday V, Thisse B, Thisse C, Boulekbache H,
+Laurenti P.
+
+Author information: 
+(1)Laboratoire de Biologie du Développement, EA 296, Université de Paris 7, case 
+courrier 7077, 2 place Jussieu, 75251 cedex 5, Paris, France.
+
+The even-skipped-related homeobox genes (evx) are widely distributed through
+animal kingdom and are thought to play key role in posterior body patterning and 
+neurogenesis. We have cloned and analyzed the expression of evx1 in zebrafish
+(see also Borday et al. (Dev. Dyn. 220 (2001) in press) which displays a dynamic 
+and restricted expression pattern during neurogenesis. In spinal cord,
+rhombencephalon, and epiphysis, evx1 is expressed in several subsets of emerging 
+interneurones prior to their axonal outgrowth, identified as primary
+interneurones and a subset of Pax2.1(+) commissural interneurones. In the
+hindbrain, evx1 is expressed in reticulospinal interneurones of rhombomeres 5 and
+6 as well as in rhombomere 7 interneurones. The latest emerging evx1(+)
+interneurones in the hindbrain correspond to commissural interneurones. evx1 is
+also dynamically transcribed during the formation of the posterior gut and the
+uro-genital system in mesenchymal cells that border the pronephric ducts, the
+wall of the pronephric duct, and later in the posterior gut and the wall of the
+uro-genital opening. In larvae, the ano-rectal epithelium and the muscular layer 
+that surrounds the analia-genitalia region remain stained up to 27 days. In
+contrast other vertebrates, evx1displays no early nor caudal expression in
+zebrafish.
+
+PMID: 11091087  [PubMed - indexed for MEDLINE]
+
+
+45. Somat Cell Mol Genet. 1998 Jul;24(4):245-8.
+
+PAC and cosmid contig spanning the HOXA cluster on human chromosome 7p15.
+
+Kim MH(1), Park JH, Park HW, Chung IH, Park KA.
+
+Author information: 
+(1)Dept. of Anatomy, Yonsei University College of Medicine, Seoul, Korea.
+mhkim1@yumc.yonsei.ac.kr
+
+To construct the PAC and cosmid contig map spanning the HOXA cluster on human
+chromosome 7, we used 9 DNA markers (D7S2243, D7S3010, HOXA1, EVX1, 750, pBH8,
+p60, p8.0, and HOXA11), among which the final 4 were generated in this study by
+shotgun cloning strategy. From the libraries, 5 PAC and 35 cosmid clones were
+screened and as a result, an overlapping continuous array of cosmid and PAC
+clones covering the genomic region (about 200 kb) spanning the entire cluster
+were constructed. The isolated cosmids contained several consecutive HOX genes of
+regional group, probably sharing the regulatory processes such as alternative
+splicing or polyadenylation, and thus could be used as useful materials for
+elucidating the molecular mechanism of HOX gene expression in the future.
+
+PMID: 10410678  [PubMed - indexed for MEDLINE]
+
+
+46. Cell. 1999 Jun 25;97(7):903-15.
+
+A sonic hedgehog-independent, retinoid-activated pathway of neurogenesis in the
+ventral spinal cord.
+
+Pierani A(1), Brenner-Morton S, Chiang C, Jessell TM.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Department of Biochemistry and Molecular
+Biophysics, Columbia University, New York, New York 10032, USA.
+
+Sonic hedgehog (Shh) is thought to control the generation of motor neurons and
+interneurons in the ventral CNS. We show here that a Shh-independent pathway of
+interneuron generation also operates in the ventral spinal cord. Evidence for
+this parallel pathway emerged from an analysis of the induction of ventral
+progenitors that express the Dbx homeodomain proteins and of Evx1/2 (V0) and En1 
+(V1) neurons. Shh signaling is sufficient to induce Dbx cells and V0 and V1
+neurons but is not required for their generation in vitro or in vivo. Retinoids
+appear to mediate this parallel pathway. These findings reveal an unanticipated
+Shh-independent signaling pathway that controls progenitor cell identity and
+interneuron diversity in the ventral spinal cord.
+
+PMID: 10399918  [PubMed - indexed for MEDLINE]
+
+
+47. Mech Dev. 1998 Nov;78(1-2):171-8.
+
+Pax3 and Pax7 are expressed in commissural neurons and restrict ventral neuronal 
+identity in the spinal cord.
+
+Mansouri A(1), Gruss P.
+
+Author information: 
+(1)Max-Planck Institute for Biophysical Chemistry, Department of Molecular Cell
+Biology, Am Fassberg 11, 37077, Göttingen, Germany.
+
+Pax3 and Pax7 are transcription factors sharing high sequence identity and
+overlapping patterns of expression in particular in the dorsal spinal cord.
+Analysis of Pax3 and Pax7 double mutant mice demonstrates that both genes share
+redundant functions to restrict ventral neuronal identity in the spinal cord. In 
+their absence, the En1 expression domain is expanded dorsally but that of Evx1 is
+not affected. In addition, Pax3 and Pax7 are expressed in commissural neurons and
+double mutant embryos exhibit highly reduced ventral commissure. Our findings
+reveal two distinct regulatory pathways for spinal cord neurogenesis, only one of
+which is dependent on Pax3/7 and 6.
+
+Copyright 1998 Elsevier Science Ireland Ltd. All Rights Reserved
+
+PMID: 9858722  [PubMed - indexed for MEDLINE]
+
+
+48. Int J Dev Biol. 1998 Jul;42(5):637-44.
+
+Genetic patterning of the posterior neuropore region of curly tail mouse embryos:
+deficiency of Wnt5a expression.
+
+Gofflot F(1), Hall M, Morriss-Kay GM.
+
+Author information: 
+(1)Department of Human Anatomy, University of Oxford, United Kingdom.
+gofflot@gene.ucl.ac.be
+
+The mouse mutant curly tail (ct) develops tail flexion defects and spina bifida
+as the result of delayed or failed closure of the posterior neuropore (PNP). With
+the aim of identifying genes involved in the chain of events resulting in
+defective neurulation, which can be detected at day 10.5 of development, we
+examined the expression patterns of a number of genes implicated in patterning of
+axial structures, mesoderm and neuroepithelium. The genes analyzed were Shh,
+HNF3alpha, HNF3beta, Brachyury, Hoxb1, Evx1, Fgf8, Wnt5a and Wnt5b. No
+differences could be detected between non-mutant embryos and ct/ct embryos with
+normal PNP size for any of these genes. Comparisons between ct/ct embryos with
+enlarged PNP and phenotypically normal ct/ct or nonmutant embryos showed
+differences only for Wnt5a. Expression of this gene was greatly reduced in the
+ventral caudal mesoderm and hindgut endoderm. Analysis of younger embryos
+revealed that prior to the stage at which embryos at risk of developing neural
+tube defects can be detected, the same proportion of ct/ct embryos shows reduced 
+Wnt5a expression. The proportion of embryos showing reduced expression and almost
+undetectable expression of Wnt5a reflects the proportions of tail defects and
+spina bifida seen at later stages. We suggest that deficiency of Wnt5a signaling 
+in the ventral caudal region tissues is an important component of the mechanism
+of development of the defects in affected curly tail mutant mice, and that it is 
+causally related to decreased cell proliferation within the ventral caudal
+region. A possible relationship between decreased Wnt5a expression and reduced
+levels of heparan sulphate proteoglycan is discussed.
+
+PMID: 9712518  [PubMed - indexed for MEDLINE]
+
+
+49. Dev Dyn. 1997 Dec;210(4):431-45.
+
+Genetic patterning of the developing mouse tail at the time of posterior
+neuropore closure.
+
+Gofflot F(1), Hall M, Morriss-Kay GM.
+
+Author information: 
+(1)Department of Human Anatomy, University of Oxford, United Kingdom.
+
+Posterior neuropore (PNP) closure coincides with the end of gastrulation, marking
+the end of primary neurulation and primary body axis formation. Secondary
+neurulation and axis formation involve differentiation of the tail bud
+mesenchyme. Genetic control of the primary-secondary transition is not
+understood. We report a detailed analysis of gene expression in the caudal region
+of day 10 mouse embryos during primary neuropore closure. Embryos were collected 
+at the 27-32 somite stage, fixed, processed for whole mount in situ
+hybridisation, and subsequently sectioned for a more detailed analysis. Genes
+selected for study include those involved in the key events of gastrulation and
+neurulation at earlier stages and more cranial levels. Patterns of expression
+within the tail bud, neural plate, recently closed neural tube, notochord,
+hindgut, mesoderm, and surface ectoderm are illustrated and described.
+Specifically, we report continuity of expression of the genes Wnt5a, Wnt5b, Evx1,
+Fgf8, RARgamma, Brachyury, and Hoxb1 from primitive streak and node into
+subpopulations of the tail bud and caudal axial structures. Within the caudal
+notochord, developing floorplate, and hindgut, HNF3alpha, HNF3beta, Shh, and
+Brachyury expression domains correlate directly with known genetic roles and
+predicted tissue interdependence during induction and differentiation of these
+structures. The patterns of expression of Wnt5a, Hoxb1, Brachyury, RARgamma, and 
+Evx1, together with observations on proliferation, reveal that the caudal
+mesoderm is organised at a molecular level into distinct domains delineated by
+longitudinal and transverse borders before histological differentiation.
+Expression of Wnt5a in the ventral ectodermal ridge supports previous evidence
+that this structure is involved in epithelial-mesenchymal interaction. These
+results provide a foundation for understanding the mechanisms facilitating
+transition from primary to secondary body axis formation, as well as the factors 
+involved in defective spinal neurulation.
+
+PMID: 9415428  [PubMed - indexed for MEDLINE]
+
+
+50. Development. 1997 Nov;124(22):4493-503.
+
+PAX2 is expressed in multiple spinal cord interneurons, including a population of
+EN1+ interneurons that require PAX6 for their development.
+
+Burrill JD(1), Moran L, Goulding MD, Saueressig H.
+
+Author information: 
+(1)Molecular Neurobiology Laboratory, The Salk Institute, La Jolla, CA 92037,
+USA.
+
+Members of the PAX family of transcription factors are candidates for controlling
+cell identity in the spinal cord. We have morphologically analyzed cells that
+express one of these transcription factors, PAX2, demonstrating multiple
+interneuron cell types express PAX2. Two ventral populations of PAX2-expressing
+interneurons in the spinal cord are marked by coexpression of the transcription
+factors, EN1 and EVX1. Interestingly, the expression domains of PAX2, EN1 and
+EVX1 in postmitotic neurons correlate closely with those of Pax6 and Pax7 in the 
+ventricular zone, implicating these patterning genes in the regulation of PAX2,
+EN1 and EVX1. We show that one of these patterning genes, Pax6, is required for
+the correct specification of ventral PAX2+ interneurons that coexpress EN1. These
+results demonstrate that the early activity of patterning genes in the
+ventricular zone determines interneuron identity in the spinal cord.
+
+PMID: 9409667  [PubMed - indexed for MEDLINE]
+
+
+51. FEBS Lett. 1997 Feb 3;402(2-3):131-5.
+
+Mapping of a potent transcriptional repression region of the human homeodomain
+protein EVX1.
+
+Briata P(1), Ilengo C, Van DeWerken R, Corte G.
+
+Author information: 
+(1)Laboratory of Immunobiology I.S.T., Advanced Biotechnology Center, Genova,
+Italy. briata@sirio.cba.unige.it
+
+The human homeodomain protein EVX1 is a transcriptional repressor in transfected 
+mammalian cells and this function depends on a region carboxyl-terminal to the
+homeodomain. In this study, we transiently expressed several deletions of the
+EVX1 C-terminal region in mammalian cells and investigated their effect on the
+transcription of a reporter gene directed by different promoters. We show that
+the repressor activity maps to a region of 51 amino acids with a high abundance
+of alanine and proline residues. This region is able to transfer the repressor
+function to either the entire HOXC6 or CREB transcription factors, or to the GAL4
+DNA binding domain.
+
+PMID: 9037181  [PubMed - indexed for MEDLINE]
+
+
+52. Development. 1997 Jan;124(1):133-9.
+
+Limb deformity proteins: role in mesodermal induction of the apical ectodermal
+ridge.
+
+Kuhlman J(1), Niswander L.
+
+Author information: 
+(1)Molecular Biology Program, Memorial Sloan-Kettering Cancer Center, New York,
+NY 10021, USA.
+
+During early limb development, distal tip ectoderm is induced by the underlying
+mesenchyme to form the apical ectodermal ridge. Subsequent limb growth and
+patterning depend on reciprocal signaling between the mesenchyme and ridge. Mice 
+that are homozygous for mutations at the limb deformity (ld) locus do not form a 
+proper ridge and the anteroposterior axis of the limb is shortened. Skeletal
+analyses reveal shortened limbs that involve loss and fusion of distal bones and 
+digits, defects in both anteroposterior and proximodistal patterning. Using
+molecular markers and mouse-chick chimeras we examined the ridge-mesenchymal
+interactions to determine the origin of the ld patterning defects. In the ld
+ridge, fibroblast growth factor 8 (Fgf8) RNA is decreased and Fgf4 RNA is not
+detected. In the ld mesenchyme, Sonic hedgehog (Shh), Evx1 and Wnt5a expression
+is decreased. In chimeras between ld ectoderm and wild-type mesenchyme, a ridge
+of normal morphology and function is restored, Fgf8 and Shh are expressed
+normally, Fgf4 is induced and a normal skeletal pattern arises. These results
+suggest that the ld mesenchyme is unable to induce the formation of a completely 
+functional ridge. This primary defect causes a disruption of ridge function and
+subsequently leads to the patterning defects observed in ld limbs. We propose a
+model in which ridge induction requires at least two phases: an early competence 
+phase, which includes induction of Fgf8 expression, and a later differentiation
+phase in which Fgf4 is induced and a morphological ridge is formed. Ld proteins
+appear to act during the differentiation phase.
+
+PMID: 9006074  [PubMed - indexed for MEDLINE]
+
+
+53. Biochem Biophys Res Commun. 1996 Dec 13;229(2):494-7.
+
+The exon-intron structure of human LHX1 gene.
+
+Bozzi F(1), Bertuzzi S, Strina D, Giannetto C, Vezzoni P, Villa A.
+
+Author information: 
+(1)Istituto Technologie Biomediche Avanzate, Consiglio Nazionale delle Ricerche, 
+Milan, Italy.
+
+We have determined the genomic structure of the human LHX1 gene, a member of the 
+LIM/homeobox (Lhx) gene family. The transcript is assembled from five exons,
+which are separated by introns ranging in size from 93 nt to 2.3 kb. The two LIM 
+domains are entirely contained in the first and second exons, respectively, while
+the homeodomain is split into exons three and four. This structure closely
+parallels the organization of other mouse and human Lhx genes whose genomic
+structure is known. An exception is the mouse and human is/1 genes, whose
+homeodomain does not contain introns. An intron at the same position also occurs 
+in the Xlim 1 gene as well as in other homeobox genes, such as evx1 and evx2,
+suggesting that this intron insertion represents an ancestral event, from which
+homeobox genes of different families originated. In this context, evolution of
+the Lhx gene family probably involved the shuffling of this intron-containing
+homeobox in the proximity of a LIM-only gene, while Islet genes were formed
+either by the shuffling of an intronless homeobox to the same LIM domain or,
+alternatively, by intron loss during their evolution.
+
+PMID: 8954926  [PubMed - indexed for MEDLINE]
+
+
+54. J Biol Chem. 1995 Nov 17;270(46):27695-701.
+
+Transcriptional repression by the human homeobox protein EVX1 in transfected
+mammalian cells.
+
+Briata P(1), Van De Werken R, Airoldi I, Ilengo C, Di Blas E, Boncinelli E, Corte
+G.
+
+Author information: 
+(1)Laboratory of Immunobiology I.S.T., Advanced Biotechnology Center, Genova,
+Italy.
+
+Erratum in
+    J Biol Chem 1996 Aug 2;271(31):19008.
+
+The human homeobox protein EVX1 (EVX1) is thought to play an important role
+during embryogenesis. In this study, the effect of EVX1 on gene transcription has
+been investigated in transfected mammalian cells. EVX1 expression represses
+transcription of a reporter gene directed by either cell-specific or viral
+promoter/enhancer sequences in a variety of mammalian cell lines and in a
+concentration-dependent manner. Transcriptional repression is independent of the 
+presence of DNA-binding sites for EVX1 in all the promoters we tested.
+Furthermore, repression by EVX1 is evident also using a TATA-less minimal
+promoter in the reporter construct. A carboxyl-terminal proline/alanine-rich
+region of EVX1 seems to be responsible for the transcriptional repression
+activity, as suggested by transfection of EVX1 mutants. We speculate that the
+repressor function of EVX1 contributes to its proposed role in embryogenesis.
+
+PMID: 7499236  [PubMed - indexed for MEDLINE]
+
+
+55. Mech Dev. 1995 May;51(1):99-114.
+
+Expression of the novel murine homeobox gene Sax-1 in the developing nervous
+system.
+
+Schubert FR(1), Fainsod A, Gruenbaum Y, Gruss P.
+
+Author information: 
+(1)Abteilung für Molekulare Zellbiologie, Max-Planck-Institut für
+biophysikalische Chemie, Göttingen, Germany.
+
+We have isolated the novel murine Sax-1 gene, a member of the NK-1 class of
+homeobox genes, and report its expression pattern in the developing central
+nervous system (CNS) in comparison to two other homeobox genes, Evx-1 and Pax-6. 
+Sax-1 was found to be transiently expressed in the developing posterior CNS.
+First seen in the ectoderm lateral to the primitive streak, the signal later
+encompassed the neural plate. Posteriorly, the expression domain overlapped with 
+the Evx-1 expression in the streak, while anteriorly it was delimited by the
+Pax-6 signal in the neural tube. This early phase starting at day 9.5 pc, Sax-1
+was expressed in distinct areas of spinal cord, hindbrain and forebrain.
+Particularly strong signals were detected in rhombomere 1 and in the pretectum.
+In these areas, subsets of neurons may be marked and specified. In addition to
+the normal pattern of Sax-1 during development, the expression in different mouse
+mutants was analysed. In Brachyury curtailed homozygotes, the expression of Sax-1
+was found to be reduced during neurulation and even lost at day 9.0 pc. Ventral
+shift and finally loss of the signal in the ventral spinal cord was observed in
+Danforth's short tail homozygotes.
+
+PMID: 7669696  [PubMed - indexed for MEDLINE]
+
+
+56. Development. 1995 Feb;121(2):273-85.
+
+The eed mutation disrupts anterior mesoderm production in mice.
+
+Faust C(1), Schumacher A, Holdener B, Magnuson T.
+
+Author information: 
+(1)Department of Genetics, Case Western Reserve University, Cleveland, Ohio
+44106-4955, USA.
+
+Mouse embryos homozygous for the mutation embryonic ectoderm development (eed)
+exhibit a growth defect and fail to gastrulate normally. While extraembryonic
+mesoderm is produced extensively, very little embryonic mesoderm is detected in
+eed mutant embryos, and there is no subsequent organization of mesoderm into
+node, notochord, or somites. The phenotype is consistent with a defect in the
+distal primitive streak. Here we report additional phenotypic analyses that
+include mRNA in situ hybridization of genes whose expression reflects the
+function of different regions of the primitive streak and their derivatives.
+These studies have confirmed that mesoderm derived from the proximal primitive
+streak is specified appropriately. Despite the absence of a morphologically
+distinct node, sparse axial mesoderm cells in eed mutant embryos are specified,
+as reflected by expression of Brachyury (T), Sonic hedgehog, and Tcf3b/HNF-3
+beta, and definitive endoderm is produced. Specification of these cell types is
+also independent of correct expression of nodal, Fgf4, and gsc. Finally, T and
+Evx1 display ectopic expression in cells not normally fated to ingress through
+the primitive streak. The data presented are discussed in terms of mechanisms for
+establishment of the eed phenotype, and are consistent with the eed gene product 
+playing an early role in primitive streak formation and/or organization.
+
+PMID: 7768172  [PubMed - indexed for MEDLINE]
+
+
+57. Genes Dev. 1994 Aug 15;8(16):1949-61.
+
+Targeted disruption of the even-skipped gene, evx1, causes early postimplantation
+lethality of the mouse conceptus.
+
+Spyropoulos DD(1), Capecchi MR.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Department of Human Genetics, University of
+Utah School of Medicine, Salt Lake City 84112.
+
+Implantation within the mammalian uterus elicits dramatic changes in the growth, 
+differentiation, and morphogenesis of the conceptus. This process is interrupted 
+in mice carrying a targeted disruption of the murine evx1 gene, a homolog of the 
+Drosophila even-skipped (eve) gene. Upon implantation, presumptive evx1-
+homozygotes elicit a decidual response, invade the uterine epithelium, and attach
+to the basement membrane between uterine stroma and epithelium, but fail to
+differentiate extraembryonic tissues or to form egg cylinders prior to
+resorption. Retrograde analysis of embryo genotypes demonstrates that homozygotes
+could be isolated as free-floating blastocysts but not as gastrulating egg
+cylinders. Homozygous mutant blastocysts appeared normal and, when grown in
+vitro, attach, proliferate, and form trophoblastic giant cells surrounding a
+growing inner cell mass before rapidly degenerating. In situ hybridization
+analysis demonstrates evx1 gene expression within the visceral endoderm after
+implantation and prior to gastrulation, at a time in which the mutant phenotype
+is first detected.
+
+PMID: 7958869  [PubMed - indexed for MEDLINE]
+
+
+58. Dev Biol. 1992 May;151(1):273-87.
+
+Analysis of mouse Evx genes: Evx-1 displays graded expression in the primitive
+streak.
+
+Dush MK(1), Martin GR.
+
+Author information: 
+(1)Department of Anatomy and Developmental Biology Program, School of Medicine,
+University of California, San Francisco 94143.
+
+Two mouse genes, Evx-1 and Evx-2, each encoding a homeodomain closely related to 
+that of the Drosophila even-skipped gene were isolated using a PCR-based
+strategy. The structure and sequence of these genes are described. Mapping
+studies localized Evx-1 to chromosome 6, near the Hox-1 gene cluster, and Evx-2
+to chromosome 2, near the Hox-4 cluster. The evolutionary implications of these
+linkages are discussed. RNA in situ hybridization analysis of Evx expression in
+embryos demonstrated a striking pattern of Evx-1 expression during gastrulation, 
+whereas Evx-2 RNA could not be detected at any stage by this technique. Evx-1 RNA
+is first detected shortly before the onset of gastrulation in a region of
+ectoderm containing cells that will soon be found in the primitive streak. This
+localized expression of Evx-1 provides the first molecular evidence for regional 
+differences in the mouse embryonic ectoderm before gastrulation. Throughout
+gastrulation, Evx-1 expression is limited to cells near and within the streak and
+that expression is graded, with a posterior-to-anterior decrease in the level of 
+RNA. Based on fate-mapping studies indicating that different types of mesoderm
+emerge from different regions of the primitive streak and our observation that
+high levels of expression are localized to the region that will give rise to
+extraembryonic and ventral mesoderm, we speculate that Evx-1 plays a role in the 
+dorsoventral specification of mesodermal cell fate.
+
+PMID: 1349539  [PubMed - indexed for MEDLINE]
+
+
+59. Nucleic Acids Res. 1991 Dec 11;19(23):6541-5.
+
+Isolation and mapping of EVX1, a human homeobox gene homologous to even-skipped, 
+localized at the 5' end of HOX1 locus on chromosome 7.
+
+Faiella A(1), D'Esposito M, Rambaldi M, Acampora D, Balsofiore S, Stornaiuolo A, 
+Mallamaci A, Migliaccio E, Gulisano M, Simeone A.
+
+Author information: 
+(1)International Institute of Genetics and Biophysics, CNR, Naples, Italy.
+
+We isolated and mapped the human homeobox gene EVX1. This gene encodes a protein 
+of 407 amino acid residues containing a homeodomain closely related to the
+Drosophila even-skipped (eve) segmentation gene of the pair-rule class. EVX1
+belongs to a small family of vertebrate eve-related homeobox genes including
+human EVX1 and EVX2 genes, their murine homologs, Evx 1 and Evx 2, and the frog
+Xhox-3 gene. We previously reported that EVX2 is localized at the 5' end of the
+HOX4 locus on chromosome 2. We show here that EVX1 is localized at the 5' end of 
+the HOX1 locus on chromosome 7, 48 kb upstream from the most 5' of the eleven
+HOX1 genes, namely HOX1J. Both EVX genes are transcribed in an opposite
+orientation as compared to that of adjacent HOX genes. Human HOX1 and HOX4
+complex loci appear to be both closely linked to a homeobox gene of the EVX
+family.
+
+PMCID: PMC329215
+PMID: 1684419  [PubMed - indexed for MEDLINE]
+
+

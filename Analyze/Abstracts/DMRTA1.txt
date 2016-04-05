@@ -1,0 +1,421 @@
+
+1. Nat Commun. 2016 Jan 28;7:10531. doi: 10.1038/ncomms10531.
+
+Genome-wide association studies in the Japanese population identify seven novel
+loci for type 2 diabetes.
+
+Imamura M(1), Takahashi A(2,)(3), Yamauchi T(4), Hara K(4,)(5), Yasuda K(6),
+Grarup N(7), Zhao W(8), Wang X(9), Huerta-Chagoya A(10), Hu C(11), Moon S(12),
+Long J(13), Kwak SH(14), Rasheed A(15), Saxena R(16), Ma RC(17,)(18,)(19), Okada 
+Y(2,)(20), Iwata M(21,)(22), Hosoe J(4), Shojima N(4), Iwasaki M(4), Fujita H(4),
+Suzuki K(4), Danesh J(23,)(24,)(25), Jørgensen T(26,)(27,)(28), Jørgensen ME(29),
+Witte DR(30,)(31), Brandslund I(32,)(33), Christensen C(34), Hansen T(7),
+Mercader JM(35,)(36,)(37), Flannick J(35,)(38), Moreno-Macías H(39), Burtt
+NP(35), Zhang R(11), Kim YJ(12), Zheng W(13), Singh JR(40), Tam CH(17), Hirose
+H(41), Maegawa H(42), Ito C(43), Kaku K(44), Watada H(45,)(46), Tanaka Y(47),
+Tobe K(21), Kawamori R(46), Kubo M(48), Cho YS(49), Chan JC(17,)(18,)(19),
+Sanghera D(50,)(51), Frossard P(15), Park KS(14,)(52,)(53), Shu XO(13), Kim
+BJ(12), Florez JC(35,)(37,)(54), Tusié-Luna T(10), Jia W(11), Tai
+ES(9,)(55,)(56), Pedersen O(7), Saleheen D(8,)(15), Maeda S(1,)(57,)(58),
+Kadowaki T(4).
+
+Author information: 
+(1)Laboratory for Endocrinology, Metabolism and Kidney Diseases, RIKEN Center for
+Integrative Medical Sciences, Yokohama 230-0045, Japan. (2)Laboratory for
+Statistical Analysis, RIKEN Center for Integrative Medical Sciences, Yokohama
+230-0045, Japan. (3)Laboratory for Omics Informatics, Omics Research Center,
+National Cerebral And Cardiovascular Center, Suita 565-8565, Japan. (4)Department
+of Diabetes and Metabolic Diseases, Graduate School of Medicine, University of
+Tokyo, Tokyo 113-0033, Japan. (5)Department of Diabetes Endocrinology, Metabolism
+and Rheumatology, Tokyo Medical University, Tokyo 160-0023, Japan. (6)Department 
+of Metabolic Disorder, Diabetes Research Center, Research Institute, National
+Center for Global Health and Medicine, Tokyo 162-8655, Japan. (7)The Novo Nordisk
+Foundation Center for Basic Metabolic Research, Faculty of Health and Medical
+Sciences, University of Copenhagen, Copenhagen DK-2200, Denmark. (8)Department of
+Biostatistics and Epidemiology, University of Pennsylvania, Philadelphia,
+Pennsylvania 19104-6021, USA. (9)Saw Swee Hock School of Public Health, National 
+University of Singapore, Singapore 138672, Singapore. (10)Unidad de Biología
+Molecular y Medicina Genómica, Instituto de Investigaciones Biomédicas
+UNAM/Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, Mexico 
+City C.P.14000, Mexico. (11)Department of Endocrinology and Metabolism, Shanghai 
+Key Laboratory of Diabetes Mellitus, Shanghai Diabetes Institute, Shanghai Jiao
+Tong University Affiliated Sixth People's Hospital, Shanghai 200233, China.
+(12)Division of Structural and Functional Genomics, Center for Genome Science,
+National Institute of Health, Chungcheongbuk-do 28159, Korea. (13)Division of
+Epidemiology, Department of Medicine, Vanderbilt Epidemiology Center,
+Vanderbilt-Ingram Cancer Center, Vanderbilt University School of Medicine,
+Nashville, Tennessee 37203-1738, USA. (14)Department of Internal Medicine, Seoul 
+National University Hospital, Seoul 03080, Korea. (15)Center for Non-Communicable
+Diseases, Karachi, Pakistan. (16)Center for Human Genetic Research, Massachusetts
+General Hospital, Boston, Massachusetts 02114, USA. (17)Department of Medicine
+and Therapeutics, The Chinese University of Hong Kong, Hong Kong, China. (18)Hong
+Kong Institute of Diabetes and Obesity, The Chinese University of Hong Kong, Hong
+Kong, China. (19)Li Ka Shing Institute of Health Sciences, The Chinese University
+of Hong Kong, Hong Kong, China. (20)Department of Human Genetics and Disease
+Diversity, Graduate School of Medical and Dental Sciences, Tokyo Medical and
+Dental University, Tokyo 113-8510, Japan. (21)First Department of Internal
+Medicine, University of Toyama, Toyama 930-0194, Japan. (22)Health Administration
+Center, University of Toyama, Toyama 930-0194, Japan. (23)Department of Public
+Health and Primary Care, University of Cambridge CB1 8RN, UK. (24)Wellcome Trust 
+Sanger Institute, Wellcome Trust Genome Campus Hinxton, Cambridge CB10 1RQ, UK.
+(25)NIHR Blood and Transplant Research Unit in Donor Health and Genomics,
+Department of Public Health and Primary Care, University of Cambridge, Cambridge 
+CB1 8RN, UK. (26)Research Centre for Prevention and Health, Capital Region of
+Denmark, Glostrup DK-2600, Denmark. (27)Faculty of Health and Medical Sciences,
+Department of Public Health, University of Copenhagen, Copenhagen 2200, Denmark. 
+(28)Faculty of Medicine, University of Aalborg, Aalborg 9220, Denmark. (29)Steno 
+Diabetes Center, Gentofte 2820, Denmark. (30)Department of Public Health, Aarhus 
+University, Aarhus 8000, Denmark. (31)Danish Diabetes Academy, Odense 5000,
+Denmark. (32)Department of Clinical Biochemistry, Lillebaelt Hospital, Vejle
+7100, Denmark. (33)Institute of Regional Health Research, University of Southern 
+Denmark, Odense 5230, Denmark. (34)Medical Department, Lillebaelt Hospital, Vejle
+7100, Denmark. (35)Program in Medical and Population Genetics, Broad Institute of
+Harvard and MIT, Cambridge, Massachusetts 02142, USA. (36)Joint BSC-CRG-IRB
+Research Program in Computational Biology, Barcelona Supercomputing Center,
+Barcelona 08034, Spain. (37)Center for Human Genetic Research and Diabetes
+Research Center (Diabetes Unit), Massachusetts General Hospital, Boston,
+Massachusetts 02114, USA. (38)Department of Molecular Biology, Harvard Medical
+School, Boston, Massachusetts 02115, USA. (39)Universidad Autónomas
+Metropolitana, Mexico City 09340, Mexico. (40)Central University of Punjab,
+Bathinda, Punjab 151001, India. (41)Health Center, Keio University, Tokyo
+160-8582, Japan. (42)Department of Medicine, Shiga University of Medical Science,
+Otsu 520-2192, Japan. (43)Grand Tower Medical Court Life Care Clinic, Hiroshima
+730-0012, Japan. (44)Department of Internal Medicine, Kawasaki Medical School,
+Kurashiki 701-0192, Japan. (45)Department of Metabolism and Endocrinology,
+Juntendo University Graduate School of Medicine, Tokyo 113-8421, Japan.
+(46)Sportology Center, Juntendo University Graduate School of Medicine, Tokyo
+113-0034, Japan. (47)Division of Metabolism and Endocrinology, Department of
+Internal Medicine, St Marianna University School of Medicine, Kawasaki 216-8511, 
+Japan. (48)RIKEN Center for Integrative Medical Sciences, Yokohama 230-0045,
+Japan. (49)Department of Biomedical Science, Hallym University, Chunchon,
+Gangwon-do 24252, Republic of Korea. (50)Department of Pediatrics, University of 
+Oklahoma Health Sciences Center, Oklahoma City, Oklahoma 73104, USA.
+(51)Department of Pharmaceutical Sciences, University of Oklahoma Health Sciences
+Center, Oklahoma City, Oklahoma 73104, n. (52)Department of Internal Medicine,
+Seoul National University College of Medicine, Seoul 03080, Korea. (53)Department
+of Molecular Medicine and Biopharmaceutical Sciences, Graduate School of
+Convergence Science and Technology, Seoul National University, Seoul 03080,
+Korea. (54)Department of Medicine, Harvard Medical School, Boston, Massachusetts 
+02115, USA. (55)Yong Loo Lin School of Medicine, National University of
+Singapore, Singapore 119228, Singapore. (56)Duke-National University of Singapore
+Graduate School, Singapore 169857, Singapore. (57)Department of Advanced Genomic 
+and Laboratory Medicine, Graduate School of Medicine, University of the Ryukyus, 
+Nishihara 903-0215, Japan. (58)Division of Clinical Laboratory and Blood
+Transfusion, University of the Ryukyus Hospital, Nishihara 903-0215, Japan.
+
+Genome-wide association studies (GWAS) have identified more than 80
+susceptibility loci for type 2 diabetes (T2D), but most of its heritability still
+remains to be elucidated. In this study, we conducted a meta-analysis of GWAS for
+T2D in the Japanese population. Combined data from discovery and subsequent
+validation analyses (23,399 T2D cases and 31,722 controls) identify 7 new loci
+with genome-wide significance (P<5 × 10(-8)), rs1116357 near CCDC85A, rs147538848
+in FAM60A, rs1575972 near DMRTA1, rs9309245 near ASB3, rs67156297 near ATP8B2,
+rs7107784 near MIR4686 and rs67839313 near INAFM2. Of these, the association of 4
+loci with T2D is replicated in multi-ethnic populations other than Japanese (up
+to 65,936 T2Ds and 158,030 controls, P<0.007). These results indicate that
+expansion of single ethnic GWAS is still useful to identify novel susceptibility 
+loci to complex traits not only for ethnicity-specific loci but also for common
+loci across different ethnicities.
+
+PMCID: PMC4738362
+PMID: 26818947  [PubMed - in process]
+
+
+2. Nucleic Acids Res. 2015 Aug 18;43(14):6827-46. doi: 10.1093/nar/gkv589. Epub 2015
+Jul 2.
+
+Identification of in vivo DNA-binding mechanisms of Pax6 and reconstruction of
+Pax6-dependent gene regulatory networks during forebrain and lens development.
+
+Sun J(1), Rockowitz S(1), Xie Q(1), Ashery-Padan R(2), Zheng D(3), Cvekl A(4).
+
+Author information: 
+(1)The Departments of Genetics, Albert Einstein College of Medicine, Bronx, NY
+10461, USA. (2)Sackler School of Medicine and Sagol School of Neuroscience,
+Tel-Aviv University, 69978 Ramat Aviv, Tel Aviv, Israel. (3)The Departments of
+Genetics, Albert Einstein College of Medicine, Bronx, NY 10461, USA Neurology,
+Albert Einstein College of Medicine, Bronx, NY 10461, USA Neuroscience, Albert
+Einstein College of Medicine, Bronx, NY 10461, USA deyou.zheng@einstein.yu.edu.
+(4)The Departments of Genetics, Albert Einstein College of Medicine, Bronx, NY
+10461, USA Ophthalmology and Visual Sciences, Albert Einstein College of
+Medicine, Bronx, NY 10461, USA ales.cvekl@einstein.yu.edu.
+
+The transcription factor Pax6 is comprised of the paired domain (PD) and
+homeodomain (HD). In the developing forebrain, Pax6 is expressed in ventricular
+zone precursor cells and in specific subpopulations of neurons; absence of Pax6
+results in disrupted cell proliferation and cell fate specification. Pax6 also
+regulates the entire lens developmental program. To reconstruct Pax6-dependent
+gene regulatory networks (GRNs), ChIP-seq studies were performed using forebrain 
+and lens chromatin from mice. A total of 3514 (forebrain) and 3723 (lens)
+Pax6-containing peaks were identified, with ~70% of them found in both tissues
+and thereafter called 'common' peaks. Analysis of Pax6-bound peaks identified
+motifs that closely resemble Pax6-PD, Pax6-PD/HD and Pax6-HD established binding 
+sequences. Mapping of H3K4me1, H3K4me3, H3K27ac, H3K27me3 and RNA polymerase II
+revealed distinct types of tissue-specific enhancers bound by Pax6. Pax6 directly
+regulates cortical neurogenesis through activation (e.g. Dmrta1 and Ngn2) and
+repression (e.g. Ascl1, Fezf2, and Gsx2) of transcription factors. In lens, Pax6 
+directly regulates cell cycle exit via components of FGF (Fgfr2, Prox1 and Ccnd1)
+and Wnt (Dkk3, Wnt7a, Lrp6, Bcl9l, and Ccnd1) signaling pathways. Collectively,
+these studies provide genome-wide analysis of Pax6-dependent GRNs in lens and
+forebrain and establish novel roles of Pax6 in organogenesis.
+
+© The Author(s) 2015. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+PMCID: PMC4538810
+PMID: 26138486  [PubMed - indexed for MEDLINE]
+
+
+3. J Allergy Clin Immunol. 2015 Sep;136(3):802-6. doi: 10.1016/j.jaci.2015.01.047.
+Epub 2015 Apr 10.
+
+A genome-wide association study reveals 2 new susceptibility loci for atopic
+dermatitis.
+
+Schaarschmidt H(1), Ellinghaus D(1), Rodríguez E(2), Kretschmer A(3), Baurecht
+H(2), Lipinski S(1), Meyer-Hoffert U(2), Harder J(2), Lieb W(4), Novak N(5),
+Fölster-Holst R(2), Esparza-Gordillo J(6), Marenholz I(6), Ruschendorf F(7),
+Hubner N(7), Reischl E(8), Waldenberger M(8), Gieger C(8), Illig T(9), Kabesch
+M(10), Zhang XJ(11), Xiao FL(11), Lee YA(6), Franke A(1), Weidinger S(12).
+
+Author information: 
+(1)Institute of Clinical Molecular Biology, Christian-Albrechts-Universität of
+Kiel, Kiel, Germany. (2)Department of Dermatology, Venereology and Allergology,
+University Hospital Schleswig-Holstein, Campus Kiel, Kiel, Germany. (3)Department
+of Dermatology, Venereology and Allergology, University Hospital
+Schleswig-Holstein, Campus Kiel, Kiel, Germany; Research Unit of Molecular
+Epidemiology and Institute of Epidemiology II, Helmholtz Zentrum München, German 
+Research Center for Environmental Health, Neuherberg, Germany. (4)Institute of
+Epidemiology and Biobank PopGen, Christian-Albrechts-Universität of Kiel, Kiel,
+Germany. (5)Department of Dermatology and Allergy, University of Bonn, Bonn,
+Germany. (6)Max-Delbrück-Centrum (MDC) for Molecular Medicine, Berlin-Buch,
+Germany; Pediatric Allergy, Experimental and Clinical Research Center,
+Universitätsmedizin Berlin, Berlin, Germany. (7)Max-Delbrück-Centrum (MDC) for
+Molecular Medicine, Berlin-Buch, Germany. (8)Research Unit of Molecular
+Epidemiology and Institute of Epidemiology II, Helmholtz Zentrum München, German 
+Research Center for Environmental Health, Neuherberg, Germany. (9)Hannover
+Unified Biobank, Hannover Medical School, Hannover, Germany. (10)Department of
+Pediatric Pneumology and Allergy, KUNO University Children's Hospital Regensburg,
+Regensburg, Germany. (11)Institute of Dermatology at No. 1 Hospital, Anhui
+Medical University, Hefei, China. (12)Department of Dermatology, Venereology and 
+Allergology, University Hospital Schleswig-Holstein, Campus Kiel, Kiel, Germany. 
+Electronic address: sweidinger@dermatology.uni-kiel.de.
+
+PMID: 25865352  [PubMed - indexed for MEDLINE]
+
+
+4. Support Care Cancer. 2015 Mar;23(3):841-9. doi: 10.1007/s00520-014-2406-x. Epub
+2014 Sep 14.
+
+GWAS of 972 autologous stem cell recipients with multiple myeloma identifies 11
+genetic variants associated with chemotherapy-induced oral mucositis.
+
+Coleman EA(1), Lee JY, Erickson SW, Goodwin JA, Sanathkumar N, Raj VR, Zhou D,
+McKelvey KD, Apewokin S, Stephens O, Enderlin CA, Vangsted AJ, Reed PJ, Anaissie 
+EJ.
+
+Author information: 
+(1)College of Nursing, University of Arkansas for Medical Sciences, 4301 W.
+Markham St, Slot 529, Little Rock, AR, 72205, USA.
+
+PURPOSE: High-dose chemotherapy and autologous stem cell transplant (ASCT) to
+treat multiple myeloma (MM) and other cancers carries the risk of oral mucositis 
+(OM) with sequelae including impaired nutritional and fluid intake, pain, and
+infectious complications. As a result of these problems, cancer treatment may
+have to be interrupted or delayed. In this study, we looked beyond OM's known
+risk factors of renal function and melphalan dose with a genome-wide association 
+study (GWAS) to evaluate whether genetic variants in conjunction with clinical
+risk factors influence predisposition for OM.
+METHODS: Genotyping was performed using Illumina HumanOmni1-Quad v1.0 BeadChip
+and further assessed for data quality. We tested 892,589 germline
+single-nucleotide polymorphisms (SNPs) for association with OM among 972
+Caucasian patients treated with high-dose melphalan and ASCT in Total Therapy
+clinical trials (TT2, TT3, TT4) for newly diagnosed MM. Statistical analyses
+included t tests, stepwise regression modeling, and logistic regression modeling 
+to find baseline clinical factors and genotypes associated with OM.
+RESULTS: We found that 353 (36.3 %) patients had grades 2-4 OM. Type of treatment
+protocol, baseline estimated glomerular filtration rate, and melphalan dose along
+with baseline serum albumin and female gender predicted 43.6 % of grades 2-4 OM
+cases. Eleven SNPs located in or near matrix metalloproteinase 13, JPH3, DHRS7C, 
+CEP192, CPEB1/LINC00692, FBN2, ALDH1A1, and DMRTA1/FLJ35282 were associated with 
+grades 2-4 OM. The addition of these SNPs increased sensitivity in detecting
+grades 2-4 OM cases to 52 %.
+CONCLUSIONS: These SNPs may be important for their roles in inflammatory
+pathways, epithelial healing, and chemotherapy detoxification.
+
+PMCID: PMC4371856
+PMID: 25218607  [PubMed - indexed for MEDLINE]
+
+
+5. Genes Cells. 2013 Aug;18(8):636-49. doi: 10.1111/gtc.12061. Epub 2013 May 16.
+
+Dmrta1 regulates proneural gene expression downstream of Pax6 in the mammalian
+telencephalon.
+
+Kikkawa T(1), Obayashi T, Takahashi M, Fukuzaki-Dohi U, Numayama-Tsuruta K, Osumi
+N.
+
+Author information: 
+(1)Division of Developmental Neuroscience, United Centers for Advanced Research
+and Translational Medicine, Tohoku University Graduate School of Medicine,
+Sendai, Miyagi 980-8575, Japan.
+
+The transcription factor Pax6 balances cell proliferation and neuronal
+differentiation in the mammalian developing neocortex by regulating the
+expression of target genes. Using microarray analysis, we observed the
+down-regulation of Dmrta1 (doublesex and mab-3-related transcription factor-like 
+family A1) in the telencephalon of Pax6 homozygous mutant rats (rSey(2) /rSey(2) 
+). Dmrta1 expression was restricted to the neural stem/progenitor cells of the
+dorsal telencephalon. Overexpression of Dmrta1 induced the expression of the
+proneural gene Neurogenin2 (Neurog2) and conversely repressed Ascl1 (Mash1), a
+proneural gene expressed in the ventral telencephalon. We found that another Dmrt
+family molecule, Dmrt3, induced Neurog2 expression in the dorsal telencephalon.
+Our novel findings suggest that dual regulation of proneural genes mediated by
+Pax6 and Dmrt family members is crucial for cortical neurogenesis.
+
+© 2013 The Authors Genes to Cells © 2013 by the Molecular Biology Society of
+Japan and Wiley Publishing Asia Pty Ltd.
+
+PMID: 23679989  [PubMed - indexed for MEDLINE]
+
+
+6. Cell Rep. 2013 Mar 28;3(3):931-45. doi: 10.1016/j.celrep.2013.02.023. Epub 2013
+Mar 21.
+
+Foxg1 coordinates the switch from nonradially to radially migrating glutamatergic
+subtypes in the neocortex through spatiotemporal repression.
+
+Kumamoto T(1), Toma K, Gunadi, McKenna WL, Kasukawa T, Katzman S, Chen B,
+Hanashima C.
+
+Author information: 
+(1)Laboratory for Neocortical Development, RIKEN Center for Developmental
+Biology, Kobe 650-0047, Japan.
+
+The specification of neuronal subtypes in the cerebral cortex proceeds in a
+temporal manner; however, the regulation of the transitions between the
+sequentially generated subtypes is poorly understood. Here, we report that the
+forkhead box transcription factor Foxg1 coordinates the production of neocortical
+projection neurons through the global repression of a default gene program. The
+delayed activation of Foxg1 was necessary and sufficient to induce deep-layer
+neurogenesis, followed by a sequential wave of upper-layer neurogenesis. A
+genome-wide analysis revealed that Foxg1 binds to mammalian-specific noncoding
+sequences to repress over 12 transcription factors expressed in early
+progenitors, including Ebf2/3, Dmrt3, Dmrta1, and Eya2. These findings reveal an 
+unexpected prolonged competence of progenitors to initiate corticogenesis at a
+progressed stage during development and identify Foxg1 as a critical initiator of
+neocorticogenesis through spatiotemporal repression, a system that balances the
+production of nonradially and radially migrating glutamatergic subtypes during
+mammalian cortical expansion.
+
+Copyright © 2013 The Authors. Published by Elsevier Inc. All rights reserved.
+
+PMCID: PMC3648982
+PMID: 23523356  [PubMed - indexed for MEDLINE]
+
+
+7. Biol Reprod. 2013 Jan 17;88(1):14. doi: 10.1095/biolreprod.112.105130. Print 2013
+Jan.
+
+Zebrafish dmrta2 regulates the expression of cdkn2c in spermatogenesis in the
+adult testis.
+
+Xu S(1), Xia W, Zohar Y, Gui JF.
+
+Author information: 
+(1)Department of Biochemistry & Molecular Biology, University of Maryland School 
+of Medicine, Baltimore, MD 21201, USA.
+
+The exact function of the doublesex and mab-3 related transcription factor-like
+family a2 gene (dmrta2) has remained largely unknown possibly because of its
+functional redundancy with dmrta1 in most vertebrates. In this study, dmrta1 was 
+demonstrated to likely be absent in the zebrafish genome, which facilitated our
+functional analysis of dmrta2 in this model organism. To analyze its gene
+function in embryos and adults, we generated a mutant form of Dmrta2 (R106Q,
+Dmrta2(RQ)) with its in vitro DNA-binding capacity abolished and a transgenic
+line for the inducible expression of this mutant Dmrta2(RQ) upon doxycycline
+(Dox) treatment. Preferential dmrta2 expression was detected in the developing
+brain during embryogenesis and in the adult testis. During embryogenesis,
+Dmrta2(RQ) expression caused severe embryonic development defects and dramatic
+expression changes of two telencephalic marker genes, fibroblast growth factor 8a
+(fgf8a), and empty spiracles homolog 1 (emx1). In adults, the inducible
+Dmrta2(RQ) expression occurred specifically in the adult testis and recapitulated
+the endogenous dmrta2 expression in this organ. Intriguingly, adult males
+expressing dmrta2(RQ) showed normal spermatogenesis and were fertile, but the
+expression of cyclin-dependent kinase inhibitor 2C (cdkn2c), which is
+evolutionarily clustered with dmrta2, was significantly suppressed during
+spermatogenesis. Further protein-binding and promoter mutation analysis indicated
+that a putative Dmrta2-binding site on the cdkn2c promoter was required for
+sustaining the normal expression of cdkn2c during zebrafish spermatogenesis,
+suggesting that Dmrta2 might regulate the expression of cdkn2c.
+
+PMID: 23175770  [PubMed - indexed for MEDLINE]
+
+
+8. Mol Cell Biol. 2006 Dec;26(23):8984-91. Epub 2006 Sep 18.
+
+Mice mutant in the DM domain gene Dmrt4 are viable and fertile but have
+polyovular follicles.
+
+Balciuniene J(1), Bardwell VJ, Zarkower D.
+
+Author information: 
+(1)Department of Genetics Cell Biology and Development, 6-160 Jackson Hall, 321
+Church Street SE, Minneapolis, MN 55455, USA.
+
+Proteins containing the DM domain, a zinc finger-like DNA binding motif, have
+been implicated in sexual differentiation in diverse metazoan organisms. Of seven
+mammalian DM domain genes, only Dmrt1 and Dmrt2 have been functionally analyzed. 
+Here, we report expression analysis and targeted disruption of Dmrt4 (also called
+DmrtA1) in the mouse. Dmrt4 is widely expressed during embryonic and postnatal
+development. However, we find that mice homozygous for a putative null mutation
+in Dmrt4 develop essentially normally, undergo full sexual differentiation in
+both sexes, and are fertile. We observed two potential mutant phenotypes in Dmrt4
+mutant mice. First, ovaries of most mutant females have polyovular follicles,
+suggesting a role in folliculogenesis. Second, 25% of mutant males consistently
+exhibited copulatory behavior toward other males. We also tested potential
+redundancy between Dmrt4 and two other gonadally expressed DM domain genes, Dmrt1
+and Dmrt7. We observed no enhancement of gonadal phenotypes in the double
+mutants, suggesting that these genes function independently in gonadal
+development.
+
+PMCID: PMC1636805
+PMID: 16982677  [PubMed - indexed for MEDLINE]
+
+
+9. Yi Chuan Xue Bao. 2004 May;31(5):468-73.
+
+[Cloning of four members of giant panda Dmrt genes].
+
+[Article in Chinese]
+
+Shui Y(1), Yu HS, Xia LX, Guo YQ, Cheng HH, Zhou RJ.
+
+Author information: 
+(1)Center for Developmental Biology, College of Life Sciences, Whuhan University,
+Wuhan 430072, China. shuiyee@hotmail.com
+
+Sex determining genes Mab-3 of C. elegans and Doublesex of Drosophila contain a
+common DNA binding motif called DM (Doublesex and Mab-3) domain, both of which
+regulate similar aspects of sexual development. Human Doublesex-related gene
+DMRT1 has been identified, which also contains the conserved DM-related
+DNA-binding domain and plays an essential role in gonadal differentiation. We
+amplified genomic DNA of the giant panda using the DM degenerate primers and
+detected two bands, approximately 140 bp and 250 bp. After cloned into T-easy
+vector and sequenced, four sequences showed high homology with the DM domain.
+Amino acid sequence of the first clone is 100% identical with the Dmrt1 of human,
+mouse and pig, hence we named it as pDmrt1. The second clone is 96% identical
+with human DMRTB1, and the third one 100% with the Dmrt3 of mouse and medaka,
+which were named as pDmrtb1 and pDmrt3 respectively. The last sequence contains
+an intron of 116 bp within the DM domain, which encodes an amino acid sequence
+100% identical with human DMRTC2, accordingly we named it as pDmrtc2. Based on
+similarities of amino acid sequences of the DM domain, Dmrt protein sequences
+from human, mouse and giant panda were included in a phylogenetic tree. They
+revealed seven distinct subgroups: Dmrt1, Dmrt2, Dmrt3, Dmrt4 (DMRTA1), Dmrt5
+(DMRTA2), Dmrt6 (DMRTB1) and Dmrt7 (DMRTC2). Our results further reveal the
+unexpected complexity and the evolutionary conservation of the DM domain gene
+family in both invertebrates and vertebrates.
+
+PMID: 15478606  [PubMed - indexed for MEDLINE]
+
+

@@ -1,0 +1,830 @@
+
+1. Nucleic Acids Res. 2014 Apr;42(7):4180-95. doi: 10.1093/nar/gkt1415. Epub 2014
+Jan 23.
+
+Computational modeling identifies key gene regulatory interactions underlying
+phenobarbital-mediated tumor promotion.
+
+Luisier R(1), Unterberger EB, Goodman JI, Schwarz M, Moggs J, Terranova R, van
+Nimwegen E.
+
+Author information: 
+(1)Discovery and Investigative Safety, Novartis Institutes for Biomedical
+Research, 4057 Basel, Switzerland, Department of Toxicology, Institute of
+Experimental and Clinical Pharmacology and Toxicology, University of Tübingen,
+72074 Tübingen, Germany, Department of Pharmacology and Toxicology, Michigan
+State University, MI 48824, USA and Biozentrum, University of Basel and Swiss
+Institute of Bioinformatics, 4056 Basel, Switzerland.
+
+Gene regulatory interactions underlying the early stages of non-genotoxic
+carcinogenesis are poorly understood. Here, we have identified key candidate
+regulators of phenobarbital (PB)-mediated mouse liver tumorigenesis, a
+well-characterized model of non-genotoxic carcinogenesis, by applying a new
+computational modeling approach to a comprehensive collection of in vivo gene
+expression studies. We have combined our previously developed motif activity
+response analysis (MARA), which models gene expression patterns in terms of
+computationally predicted transcription factor binding sites with singular value 
+decomposition (SVD) of the inferred motif activities, to disentangle the roles
+that different transcriptional regulators play in specific biological pathways of
+tumor promotion. Furthermore, transgenic mouse models enabled us to identify
+which of these regulatory activities was downstream of constitutive androstane
+receptor and ß-catenin signaling, both crucial components of PB-mediated liver
+tumorigenesis. We propose novel roles for E2F and ZFP161 in PB-mediated
+hepatocyte proliferation and suggest that PB-mediated suppression of ESR1
+activity contributes to the development of a tumor-prone environment. Our study
+shows that combining MARA with SVD allows for automated identification of
+independent transcription regulatory programs within a complex in vivo tissue
+environment and provides novel mechanistic insights into PB-mediated
+hepatocarcinogenesis.
+
+PMCID: PMC3985636
+PMID: 24464994  [PubMed - indexed for MEDLINE]
+
+
+2. Genome Res. 2013 May;23(5):800-11. doi: 10.1101/gr.144899.112. Epub 2013 Mar 19.
+
+Systematic dissection of regulatory motifs in 2000 predicted human enhancers
+using a massively parallel reporter assay.
+
+Kheradpour P(1), Ernst J, Melnikov A, Rogov P, Wang L, Zhang X, Alston J,
+Mikkelsen TS, Kellis M.
+
+Author information: 
+(1)Computer Science and Artificial Intelligence Laboratory, Massachusetts
+Institute of Technology, Cambridge, Massachusetts 02139, USA.
+
+Genome-wide chromatin annotations have permitted the mapping of putative
+regulatory elements across multiple human cell types. However, their experimental
+dissection by directed regulatory motif disruption has remained unfeasible at the
+genome scale. Here, we use a massively parallel reporter assay (MPRA) to measure 
+the transcriptional levels induced by 145-bp DNA segments centered on
+evolutionarily conserved regulatory motif instances within enhancer chromatin
+states. We select five predicted activators (HNF1, HNF4, FOXA, GATA, NFE2L2) and 
+two predicted repressors (GFI1, ZFP161) and measure reporter expression in
+erythroleukemia (K562) and liver carcinoma (HepG2) cell lines. We test 2104
+wild-type sequences and 3314 engineered enhancer variants containing targeted
+motif disruptions, each using 10 barcode tags and two replicates. The resulting
+data strongly confirm the enhancer activity and cell-type specificity of enhancer
+chromatin states, the ability of 145-bp segments to recapitulate both, the
+necessary role of regulatory motifs in enhancer function, and the complementary
+roles of activator and repressor motifs. We find statistically robust evidence
+that (1) disrupting the predicted activator motifs abolishes enhancer function,
+while silent or motif-improving changes maintain enhancer activity; (2)
+evolutionary conservation, nucleosome exclusion, binding of other factors, and
+strength of the motif match are predictive of enhancer activity; (3) scrambling
+repressor motifs leads to aberrant reporter expression in cell lines where the
+enhancers are usually inactive. Our results suggest a general strategy for
+deciphering cis-regulatory elements by systematic large-scale manipulation and
+provide quantitative enhancer activity measurements across thousands of
+constructs that can be mined to develop predictive models of gene expression.
+
+PMCID: PMC3638136
+PMID: 23512712  [PubMed - indexed for MEDLINE]
+
+
+3. BMC Syst Biol. 2011 May 9;5:67. doi: 10.1186/1752-0509-5-67.
+
+A modulated empirical Bayes model for identifying topological and temporal
+estrogen receptor a regulatory networks in breast cancer.
+
+Shen C(1), Huang Y, Liu Y, Wang G, Zhao Y, Wang Z, Teng M, Wang Y, Flockhart DA, 
+Skaar TC, Yan P, Nephew KP, Huang TH, Li L.
+
+Author information: 
+(1)Center for Computational Biology, Indiana University School of Medicine,
+Indianapolis, IN 46202, USA.
+
+BACKGROUND: Estrogens regulate diverse physiological processes in various tissues
+through genomic and non-genomic mechanisms that result in activation or
+repression of gene expression. Transcription regulation upon estrogen stimulation
+is a critical biological process underlying the onset and progress of the
+majority of breast cancer. Dynamic gene expression changes have been shown to
+characterize the breast cancer cell response to estrogens, the every molecular
+mechanism of which is still not well understood.
+RESULTS: We developed a modulated empirical Bayes model, and constructed a novel 
+topological and temporal transcription factor (TF) regulatory network in MCF7
+breast cancer cell line upon stimulation by 17ß-estradiol stimulation. In the
+network, significant TF genomic hubs were identified including ER-alpha and AP-1;
+significant non-genomic hubs include ZFP161, TFDP1, NRF1, TFAP2A, EGR1, E2F1, and
+PITX2. Although the early and late networks were distinct (<5% overlap of ERa
+target genes between the 4 and 24 h time points), all nine hubs were
+significantly represented in both networks. In MCF7 cells with acquired
+resistance to tamoxifen, the ERa regulatory network was unresponsive to
+17ß-estradiol stimulation. The significant loss of hormone responsiveness was
+associated with marked epigenomic changes, including hyper- or hypo-methylation
+of promoter CpG islands and repressive histone methylations.
+CONCLUSIONS: We identified a number of estrogen regulated target genes and
+established estrogen-regulated network that distinguishes the genomic and
+non-genomic actions of estrogen receptor. Many gene targets of this network were 
+not active anymore in anti-estrogen resistant cell lines, possibly because their 
+DNA methylation and histone acetylation patterns have changed.
+
+PMCID: PMC3117732
+PMID: 21554733  [PubMed - indexed for MEDLINE]
+
+
+4. Mamm Genome. 2010 Aug;21(7-8):337-49. doi: 10.1007/s00335-010-9274-6. Epub 2010
+Aug 11.
+
+Mouse chromosome 17 candidate modifier genes for thrombosis.
+
+Sa Q(1), Hart E, Nadeau JH, Hoover-Plow JL.
+
+Author information: 
+(1)Departments of Cardiovascular Medicine and Molecular Cardiology, Joseph J.
+Jacobs Center for Thrombosis and Vascular Biology, Lerner Research Institute,
+Cleveland Clinic, OH, 44195, USA.
+
+Two overlapping quantitative trait loci (QTLs) for clot stability, Hmtb8 and
+Hmtb9, were identified on mouse chromosome 17 in an F2 intercross derived from
+C57BL/6J (B6) and B6-Chr17(A/J) (B6-Chr17) mouse strains. The intervals were in
+synteny with a QTL for thrombotic susceptibility on chromosome 18 in a human
+study, and there were 23 homologs between mouse and human. The objective of this 
+study was to determine whether any of these genes in the syntenic region are
+likely candidates as modifiers for clot stability. Seven genes, Twsg1, Zfp161,
+Dlgap1, Ralbp1, Myom1, Rab31, and Emilin2, of the 23 genes with single nucleotide
+polymorphisms (SNPs) in the mRNA-UTR had differential expression in B6 and A/J
+mice. Dlgap1, Ralbp1, Myom1, and Emilin2 also had nonsynonymous SNPs. In
+addition, two other genes had nonsynonymous SNPs, Lama1 and Ndc80. Of these nine 
+candidate genes, Emilin2 was selected for further analysis since other EMILIN
+(Elastin Microfibril Interface Located Protein) proteins have known functions in 
+vascular structure and coagulation. Differences were found between B6 and A/J
+mice in vessel wall architecture and EMILIN2 protein in plasma, carotid vessel
+wall, and thrombi formed after ferric chloride injury. In B6-Chr17(A/J) mice both
+clot stability and Emilin2 mRNA expression were higher compared to those in B6
+and A/J mice, suggesting the exposure of epistatic interactions. Although other
+homologous genes in the QTL region cannot be ruled out as causative genes,
+further investigation of Emilin2 as a candidate gene for thrombosis
+susceptibility is warranted.
+
+PMCID: PMC2923722
+PMID: 20700597  [PubMed - indexed for MEDLINE]
+
+
+5. Mol Cancer. 2010 Aug 10;9:213. doi: 10.1186/1476-4598-9-213.
+
+Loss, mutation and deregulation of L3MBTL4 in breast cancers.
+
+Addou-Klouche L(1), Adélaïde J, Finetti P, Cervera N, Ferrari A, Bekhouche I,
+Sircoulomb F, Sotiriou C, Viens P, Moulessehoul S, Bertucci F, Birnbaum D,
+Chaffanet M.
+
+Author information: 
+(1)Marseille Cancer Research Center, Department of Molecular Oncology, UMR891
+Inserm, Institut Paoli-Calmettes, Marseille, France.
+
+BACKGROUND: Many alterations are involved in mammary oncogenesis, including
+amplifications of oncogenes and losses of tumor suppressor genes (TSG). Losses
+may affect almost all chromosome arms and many TSGs remain to be identified.
+RESULTS: We studied 307 primary breast tumors and 47 breast cancer cell lines by 
+high resolution array comparative genomic hybridization (aCGH). We identified a
+region on 18p11.31 lost in about 20% of the tumors and 40% of the cell lines. The
+minimal common region of loss (Chr18:6,366,938-6,375,929 bp) targeted the L3MBTL4
+gene. This gene was also targeted by breakage in one tumor and in two cell lines.
+We studied the exon sequence of L3MBTL4 in 180 primary tumor samples and 47 cell 
+lines and found six missense and one nonsense heterozygous mutations. Compared
+with normal breast tissue, L3MBTL4 mRNA expression was downregulated in 73% of
+the tumors notably in luminal, ERBB2 and normal-like subtypes. Losses of the
+18p11 region were associated with low L3MBTL4 expression level. Integrated
+analysis combining genome and gene expression profiles of the same tumors pointed
+to 14 other potential 18p TSG candidates. Downregulated expression of ZFP161,
+PPP4R1 and YES1 was correlated with luminal B molecular subtype. Low ZFP161 gene 
+expression was associated with adverse clinical outcome.
+CONCLUSION: We have identified L3MBTL4 as a potential TSG of chromosome arm 18p. 
+The gene is targeted by deletion, breakage and mutations and its mRNA is
+downregulated in breast tumors. Additional 18p TSG candidates might explain the
+aggressive phenotype associated with the loss of 18p in breast tumors.
+
+PMCID: PMC2933619
+PMID: 20698951  [PubMed - indexed for MEDLINE]
+
+
+6. Tsitologiia. 2009;51(12):1005-12.
+
+[The role of ZF5 and CGGBP-20 transcription factors in expression regulation of
+human FMR1 gene responsible for X-fragile syndrome].
+
+[Article in Russian]
+
+Gulyi PV, Orlov SV, Dizhe EB, Kuteikin-Tepliakov KB, Ignatovich IA, Zhuk SV,
+Perevozchikov AP.
+
+The human FMR1 gene encodes an RNA-binding protein taking part in translation
+regulation. The 5'-untranslated region of FMR1 gene contains a large number of
+tandem repeats of GCC triplets (5-50) which increasing (more then 200) is
+responsible for X-fragile syndrome (human congenital anomaly). As it has been
+shown earlier, al least two transcription factors (ZF5 and CGGBP-20) are capable 
+of interacting specifically with GCC-repeats in regulatory regions of some genes.
+In this work, their roles in FMR1 gene expression regulation were studied. It was
+demonstrated by electrophoretic mobility shift assay that ZF5 recombinant protein
+specifically bound with GCC-triplet repeats (GCC9). Tissue-specific distributions
+of ZF5 and FMR1 proteins are very overlapped in mammalian. Inhibition of ZF5
+expression in HepG2 cells (by RNA interference) leads to at least 1.5 times
+stimulations of FMR1 gene expression in these cells. To estimate the contribution
+of GCC-triplet repeats in FMR1 gene expression regulation we used two alternative
+variants of genetic construction: containing luciferase reporter gene under
+5'-regulatory region fragment devoid of GCC-triplet repeats or including the GCC9
+nucleotide sequence. HepG2 cells were co-transfected by these constructions and
+expressions vectors of ZF5 or (and) CGGBP-20 respectively. It was found that ZF5 
+downregulated the activity of 5'-regulatory region of FMR1 gene in both cases
+(acting probably through canonic 5'-GCGCGC3' sites). The presence of GCC-triplet 
+repeats in the construction weakens this ZF5 effect. CGGBP-20 downregulates the
+activity of 5'-region of FMR1 gene in the presence of GCC-triplets only. The data
+obtained evidently indicate differently directed ZF5 effects on FMR1 gene
+expression and suggest the mechanism to explain the earlier demonstrated
+phenomenon about increasing of mRNA level in permutation FMR1 allele carries.
+
+PMID: 20141036  [PubMed - indexed for MEDLINE]
+
+
+7. DNA Cell Biol. 2008 Nov;27(11):589-600. doi: 10.1089/dna.2008.0766.
+
+Regulation of the mouse Treacher Collins syndrome homolog (Tcof1) promoter
+through differential repression of constitutive expression.
+
+Shows KH(1), Shiang R.
+
+Author information: 
+(1)Department of Human and Molecular Genetics, Virginia Commonwealth University
+School of Medicine, Richmond, Virginia 23298-0033, USA. khshows@vcu.edu
+
+Treacher Collins syndrome is an autosomal-dominant mandibulofacial dysostosis
+caused by haploinsufficiency of the TCOF1 gene product treacle. Mouse Tcof1
+protein is approximately 61% identical and 71% similar to treacle, and
+heterozygous knockout of Tcof1 causes craniofacial malformation. Tcof1 expression
+is high in developing neural crest, but much lower in other tissues. To
+investigate this dual regulation, highly conserved regions upstream of TCOF1
+homologs were tested through deletion and mutation reporter assays, and conserved
+predicted transcription factor binding sites were assessed through chromatin
+binding studies. Assays were performed in mouse P19 embryonic carcinoma cells and
+in HEK293 cells to determine differential activation in cell types at different
+stages of differentiation. Binding of Cebpb, Zfp161, and Sp1 transcription
+factors was specific to the Tcof1 regulatory region in P19 cells. The Zfp161
+binding site demonstrated P19 cell-specific repression, while the Sp1/Sp3
+candidate site demonstrated HEK293 cell-specific activation. Moreover, presence
+of c-myb and Zfp161 transcripts was specific to P19 cells. A minimal promoter
+fragment from -253 to +43 bp directs constitutive expression in both cell types, 
+and dual regulation of Tcof1 appears to be through differential repression of
+this minimal promoter. The CpG island at the transcription start site remains
+unmethylated in P19 cells, 11.5 dpc mouse embryonic tissue, and adult mouse ear, 
+which supports constitutive activation of the Tcof1 promoter.
+
+PMCID: PMC2925028
+PMID: 18771418  [PubMed - indexed for MEDLINE]
+
+
+8. FEBS J. 2007 Sep;274(18):4848-62. Epub 2007 Aug 21.
+
+Novel repressor of the human FMR1 gene - identification of p56 human
+(GCC)(n)-binding protein as a Krüppel-like transcription factor ZF5.
+
+Orlov SV(1), Kuteykin-Teplyakov KB, Ignatovich IA, Dizhe EB, Mirgorodskaya OA,
+Grishin AV, Guzhova OB, Prokhortchouk EB, Guliy PV, Perevozchikov AP.
+
+Author information: 
+(1)Department of Biochemistry, Institute of Experimental Medicine, Russian
+Academy of Medical Sciences, St Petersburg, Russia. serge@iem.sp.ru
+
+A series of relatively short (GCC)(n) triplet repeats (n = 3-30) located within
+regulatory regions of many mammalian genes may be considered as putative
+cis-acting transcriptional elements (GCC-elements). Fragile X-mental retardation 
+syndrome is caused by an expansion of (GCC)(n) triplet repeats within the
+5'-untranslated region of the human fragile X-mental retardation 1 (FMR1) gene.
+The present study aimed to characterize a novel human (GCC)(n)-binding protein
+and investigate its possible role in the regulation of the FMR1 gene. A novel
+human (GCC)(n)-binding protein, p56, was isolated and identified as a
+Krüppel-like transcription factor, ZF5, by MALDI-TOF analysis. The capacity of
+ZF5 to specifically interact with (GCC)(n) triplet repeats was confirmed by the
+electrophoretic mobility shift assay with purified recombinant ZF5 protein. In
+cotransfection experiments, ZF5 overexpression repressed activity of the
+GCC-element containing mouse ribosomal protein L32 gene promoter. Moreover, RNA
+interference assay results showed that endogenous ZF5 acts as a repressor of the 
+human FMR1 gene. Thus, these data identify a new class of ZF5 targets, a subset
+of genes containing GCC-elements in their regulatory regions, and raise the
+question of whether transcription factor ZF5 is implicated in the pathogenesis of
+fragile X syndrome.
+
+PMID: 17714511  [PubMed - indexed for MEDLINE]
+
+
+9. Tsitologiia. 2006;48(3):246-52.
+
+[Transcription factor ZF5 regulates expression of mammalian gene containing
+GCC-triplet repeats in 5'-regulatory region in human hepatoma HepG2 cells].
+
+[Article in Russian]
+
+Orlov SV, Kuteikin-Tepliakov KB, Grishin AV, Dizhe EB, Prokhorchuk EB,
+Perevozchikov AP.
+
+Some nuclear proteins of human HeLa and HepG2 cells are capable of binding to
+GCC-triplet repeats--(GCC)n > 3 in 5'-regulatory regions of a number of mammalian
+genes--G-C-elements. According to our previous data, nucleotide sequence (GCC)4
+in promoter of mouse ribosomal protein L32 gene (rpL32) between 17 and 6 bp
+upstream of transcription start site interacts to nuclear proteins from HepG2
+cells, and may be considered as a GCC-element. We suggest that one of those
+proteins, with molecular weight about 52 kDa, which may interact with rpL32
+GCC-element, is a known conservative mammalian transcription factor ZF5.
+DNA-binding domain of ZF5 contains a few Kruppel-like Zn-fingers (Cys2His2-type) 
+interacting with the GC-rich nucleotide sequences in 5'-regulatory regions of a
+number of mammalian genes. Our results (obtained by EMSA) showed that recombinant
+GST-ZF5 fused protein containing ZF5 DNA-binding domain specifically binds a few 
+GS-rich sequences: (GCC)g-9riplet repeats, 5'-GCGCGC-3' (known ZF5 consensus
+binding site) and (more preferable) the fragment (-24...+1 bp) of rpL32 promoter.
+The high affinity of ZF5 DNA-domain binding with the latter may be explained by
+the presence in this fragment of two overlapped subsequences, each being capable 
+of binding to ZF5: (GCC)4 and 5'-GCGCGC- 3'. Zf5 cDNA was cloned from HepG2 cells
+by RT-PCR method, and then used for construction of the gene expression vector.
+It has been shown that Zf5 cDNA expression vector specifically down-regulates (in
+luciferase assays) the activity of rpL32 promoter (-155...+159) including the
+above mentioned GC-rich subsequences by cotransfection of HepG2 cells. Therefore,
+our results enable us to consider GCC-elements as a novel class of ZF5 targets in
+5'-regulatory regions of mammalian genes.
+
+PMID: 16805315  [PubMed - indexed for MEDLINE]
+
+
+10. Proteomics. 2005 Jul;5(11):2819-38.
+
+Proteomics profiling of nuclear proteins for kidney fibroblasts suggests hypoxia,
+meiosis, and cancer may meet in the nucleus.
+
+Shakib K(1), Norman JT, Fine LG, Brown LR, Godovac-Zimmermann J.
+
+Author information: 
+(1)Department of Medicine, Rayne Institute, University College London, London,
+UK.
+
+Proteomics methods were used to characterize proteins that change their form or
+abundance in the nucleus of NRK49F rat kidney fibroblasts during prolonged
+hypoxia (1% O(2), 12 h). Of the 791 proteins that were monitored, about 20%
+showed detectable changes. The 51 most abundant proteins were identified by mass 
+spectrometry. Changes in nuclear receptor transcription factors (THRalpha1,
+RORalpha4, HNF4alpha, NUR77), other transcription factors (GATA1, AP-2alpha,
+OCT1, ATF6alpha, ZFP161, ZNF354A, PDCD2), and transcription cofactors (PC4, PCAF,
+MTA1, TCEA1, JMY) are indicative of major, co-ordinated changes in transcription.
+Proteins involved in DNA repair/recombination, ribosomal RNA synthesis, RNA
+processing, nuclear transport, nuclear organization, protein translation,
+glycolysis, lipid metabolism, several protein kinases (PKCdelta, MAP3K4, GRK3),
+as well as proteins with no established functional role were also observed. The
+observed proteins suggest nuclear regulatory roles for proteins involved in
+cytosolic processes such as glycolysis and fatty acid metabolism, and roles in
+overall nuclear structure/organization for proteins previously associated with
+meiosis and/or spermatogenesis (synaptonemal complex proteins 1 and 2 (SYCP1,
+SYCP2), meiosis-specific nuclear structural protein 1 (MNS1), LMNC2, zinc finger 
+protein 99 (ZFP99)). Proteins associated with cytoplasmic membrane functions
+(ACTN4, hyaluronan mediated motility receptor (RHAMM), VLDLR, GRK3) and/or
+endocytosis (DNM2) were also seen. For 30% of the identified proteins, new
+isoforms indicative of alternative transcription were detected (e.g., GATA1,
+ATF6alpha, MTA1, MLH1, MYO1C, UBF, SYCP2, EIF3S10, MAP3K4, ZFP99). Comparison
+with proteins involved in cell death, cancer, and testis/meiosis/spermatogenesis 
+suggests commonalities, which may reflect fundamental mechanisms for
+down-regulation of cellular function.
+
+PMID: 15942958  [PubMed - indexed for MEDLINE]
+
+
+11. Mol Vis. 2005 Feb 2;11:97-110.
+
+Genomic structure and organization of the high grade Myopia-2 locus (MYP2)
+critical region: mutation screening of 9 positional candidate genes.
+
+Scavello GS Jr(1), Paluru PC, Zhou J, White PS, Rappaport EF, Young TL.
+
+Author information: 
+(1)Division of Ophthalmology, The Children's Hospital of Philadelphia,
+Philadelphia, PA 19104, USA.
+
+PURPOSE: Myopia is a common complex eye disorder, with implications for blindness
+due to increased risk of retinal detachment, chorioretinal degeneration,
+premature cataracts, and glaucoma. A genomic interval of 2.2 centiMorgans (cM)
+was defined on chromosome band 18p11.31 using 7 families diagnosed with autosomal
+dominant high myopia and was designated the MYP2 locus. To characterize this
+region, we analyzed 9 known candidate genes localized to within the 2.2 cM
+interval by direct sequencing.
+METHODS: Using public databases, a physical map of the MYP2 interval was
+compiled. Gene expression studies in ocular tissues using complementary DNA
+library screens, microarray experiments, reverse transcription techniques, and
+expression data identified in external databases aided in prioritizing gene
+selection for screening. Coding regions, intron-exon boundaries and untranslated 
+exons of all known genes [Clusterin-like 1 (CLUL1), elastin microfibril
+interfacer 2 (EMILIN2), lipin 2 (LPIN2), myomesin 1 (MYOM1), myosin regulatory
+light chain 3 (MRCL3), myosin regulatory light chain 2 (MRLC2), transforming
+growth beta-induced factor (TGIFbeta), large Drosophila homolog associated
+protein 1 (DLGAP1), and zinc finger protein 161 homolog (ZFP161)] were sequenced 
+using genomic DNA samples from 9 affected and 6 unaffected MYP2 pedigree members,
+and from 5 external controls (4 unaffected and 1 affected). Gene sequence changes
+were compared to known variants from public single nucleotide polymorphism (SNP) 
+databases.
+RESULTS: In total, 103 polymorphisms were found by direct sequencing; 10 were
+missense, 14 were silent, 26 were not translated, 49 were intronic, 1 insertion, 
+and 3 were homozygous deletions. Twenty-seven polymorphisms were novel. Novel
+SNPs were submitted to the public database; observed frequencies were submitted
+for known SNPs. No sequence alterations segregated with the disease phenotype.
+CONCLUSIONS: Mutation analysis of 9 encoded positional candidate genes on MYP2
+loci did not identify sequence alterations associated with the disease phenotype.
+Further studies of MYP2 candidate genes, including analysis of putative genes
+predicted in silico, are underway.
+
+PMID: 15723005  [PubMed - indexed for MEDLINE]
+
+
+12. Yi Chuan. 2004 Mar;26(2):155-9.
+
+[Variations of the zinc finger protein 161 gene in Chinese with or without high
+myopia].
+
+[Article in Chinese]
+
+Wang GB(1), Zhang QJ, Xiao XS, Li JZ, Zhang FS, Li SQ, Li W, Li T, Jia XY, Guo L,
+Guo XM.
+
+Author information: 
+(1)Ocular Genetics and Molecular Biology, National Ophthalmological Labs and
+Zhongshan Ophthalmic Center, ZhongShan University, Guangzhou 510060, China.
+rogasan@163.net
+
+To investigate the association between variations of ZFP161 gene and high myopia,
+A total of 204 probands with simple high myopia(< or = -6.0 dipoters) were
+collected while 116 normal persons from different families without high myopia or
+related disease were used as controls. Genomic DNA was prepared from the
+peripheral leucocytes. The coding sequences of ZFP161 gene in 320 subjects were
+analyzed by using exon-by-exon PCR-heteroduplex-SSCP analysis. Identification of 
+the Variations by cloning and sequencing, combinated with controls and family
+analysis, was used to disclose the correlation between ZFP161 gene and high
+myopia. A mutation of ZFP161 gene was identified as an insertion of AT before the
+58th nucleotide of intron 1 (IVS1 58-59)(1/204) and a variation of ZFP161 gene
+was identified as a heterozygous C to A of the 168th nucleotide in exon 2
+(Codon56, GCC-->GCA, Ala56Ala). Ala56Ala is a non-sense mutation identified in 5 
+of the 204 patients and 3 of 116 controls. No evidence shows that these
+variations are responsible for high myopia.
+
+PMID: 15639979  [PubMed - indexed for MEDLINE]
+
+
+13. Biochem Biophys Res Commun. 2005 Feb 11;327(2):615-27.
+
+Novel human BTB/POZ domain-containing zinc finger protein ZNF295 is directly
+associated with ZFP161.
+
+Wang J(1), Kudoh J, Takayanagi A, Shimizu N.
+
+Author information: 
+(1)Department of Molecular Biology, Keio University School of Medicine, 35
+Shinanomachi, Shinjuku-ku, Tokyo 160-8582, Japan.
+
+Human ZNF295 protein harbors a BTB/POZ domain and multiple krüppel (C(2)H(2))
+type zinc finger domains, and thus belongs to a family of POK (POZ and krüppel)
+transcription factor. We have identified many transcript variants generated by
+the alternative splicing in 5' non-coding exons, an intra-exonic splicing in a
+coding region, and the use of three polyadenylation signals in the 3' UTR. The
+intra-exonic splicing removes 603-bp coding sequence, and thus ZNF295 gene
+produces two protein isoforms: ZNF295L with 1066 amino acid residues and ZNF295S 
+with 865 amino acid residues, containing 9 and 5 zinc finger domains,
+respectively. ZNF295 is ubiquitously expressed in human fetal and adult tissues. 
+Analysis of transcription activity of ZNF295 using various promoter-reporters
+demonstrated that ZNF295 acts as a transcription repressor, and contains two
+separate regions for repression activity: the BTB/POZ domain and the central
+region between BTB/POZ and ZF domains. Both ZNF295L and ZNF295S could interact
+not only with themselves and each other, but also with another POK protein ZFP161
+known to function as a transcription repressor and an activator. We postulated
+that ZNF295 may be involved in the bi-directional control of gene expression in
+concert with ZFP161.
+
+PMID: 15629158  [PubMed - indexed for MEDLINE]
+
+
+14. DNA Seq. 2004 Aug;15(4):310-3.
+
+Cloning and characterization of zinc finger protein 161 in Rattus norvegicus.
+
+Lee KH(1), Lee YS.
+
+Author information: 
+(1)Department of Biochemistry, College of Medicine, Hanyang University, 17
+Haengdang-dong, Seongdong-Gu, Seoul 133-791, South Korea.
+
+Zinc finger protein 161 (ZFP161) belongs to the large Kruppel type ZFP family,
+contains five consecutive zinc fingers, and may be involved in development. Here,
+we present the novel cloning and characterization of the ZFP161 cDNA from Rattus 
+norvegicus. The rat ZFP161 has an open reading frame of 1347 bp and encodes a ZFP
+of 449 amino acids with a predicted mass of 51 kDa. Sequence alignment shows that
+there is a high homology among the deduced amino acid sequences of the rat, mouse
+and human ZFP161 proteins. We determined that both the mouse and rat coding
+sequences are contained within a single exon, with the start codon (ATG)
+contained in a separate exon. RT-PCR revealed that the ZFP161 mRNA is expressed
+at high levels in rat spleen, brain, lung and kidney, and at much lower levels in
+muscle and heart.
+
+PMID: 15620221  [PubMed - indexed for MEDLINE]
+
+
+15. Biochem Biophys Res Commun. 2004 Jan 23;313(4):969-76.
+
+Human zinc finger protein 161, a novel transcriptional activator of the dopamine 
+transporter.
+
+Lee KH(1), Kwak YD, Kim DH, Chang MY, Lee YS, Lee YS.
+
+Author information: 
+(1)Department of Biochemistry, College of Medicine, Hanyang University, Seoul,
+Republic of Korea
+
+The dopamine transporter (DAT) terminates dopaminergic neurotransmission via
+reuptake of released dopamine into presynaptic neurons. We have cloned 2.5 kb of 
+the regulatory region upstream of human DAT (hDAT) and constructed a series of
+deletion mutants to test promoter activity. A comparison of promoter activity
+between non-neural and neuronal cell lines reveals an interesting difference in
+pattern. In the PC12 cell line, activity of the proximal promoter is strongly
+silenced by one or more unidentified elements spanning positions -395 to -2465 of
+the hDAT gene. Our studies focus on identifying and characterizing the activating
+factor for hDAT transcription in the sequence between -2511 and -2492 (5(')-CTA
+CCT GCA CAG TTC ACG GA-3('), termed HY1). In this investigation, we cloned the
+zinc finger protein 161 (ZFP161) gene as a HY1-binding factor, using the yeast
+one-hybrid screen. Recombinant ZFP161 was produced to evaluate the DNA-binding
+properties of the protein. The ability of ZFP161 to directly bind HY1 was
+examined in an electrophoretic mobility shift assay. RT-PCR analyses revealed
+that transfection of ZFP161 induced hDAT mRNA expression in HEK293 cells. We
+additionally confirmed the expression and localization of the DAT protein, using 
+a specific antibody. Both the HY1 sequence and the downstream region were
+necessary for activation of the hDAT promoter by ZFP161. This finding suggests
+that the site of cofactor interaction with ZFP161 may exist downstream of HY1.
+
+PMID: 14706637  [PubMed - indexed for MEDLINE]
+
+
+16. J Autoimmun. 2000 Aug;15(1):75-80.
+
+Identification of human autoantibodies to the transcriptional repressor ZF5.
+
+Yanagidani A(1), Matsuoka M, Yokoro K, Tanaka H, Numoto M.
+
+Author information: 
+(1)Department of Molecular Pathology, Research Institute for Radiation Biology
+and Medicine, Hiroshima University, 1-2-3 Kasumi, Hiroshima, Minami-ku, 734,
+Japan.
+
+ZF5 was originally cloned as a transcriptional repressor on the mouse c-myc
+promoter. It contains the Kruppel-type zinc fingers and a conserved POZ domain,
+which is found in a growing number of zinc finger proteins and mediate
+protein-protein interactions. Autoantibodies against transcription factors are
+sometimes found in sera from patients with high levels of anti-nuclear antibody
+(ANA). Using Western blotting with ZF5 and sera of autoimmune disease, we
+detected one serum, named M6 serum, which contains the antibody against a
+transcriptional repressor ZF5. The confirmed epitope was specific to ZF5 and was 
+not reactive to the other analogous factors: BCL-6, ZID, and Sp1. This epitope
+also has a molecular mimicry of the viral proteins. From these results, we
+predict that viral protein which mimics host ZF5 antigen triggers self-reactive T
+cell clones and induces the autoantibody in M6 serum after the destruction of
+host tissues.
+
+Copyright 2000 Academic Press.
+
+PMID: 10936031  [PubMed - indexed for MEDLINE]
+
+
+17. Biochem Biophys Res Commun. 1999 Mar 24;256(3):573-8.
+
+ZF5, which is a Kruppel-type transcriptional repressor, requires the zinc finger 
+domain for self-association.
+
+Numoto M(1), Yokoro K, Koshi J.
+
+Author information: 
+(1)Research Institute for Radiation Biology and Medicine, Hiroshima University,
+1-2-3 Kasumi, Hiroshima, Minami-ku, 734, Japan. mnumoto@ipc.hiroshima-u.ac.jp
+
+ZF5, which we have cloned as a transcriptional repressor on the mouse c-myc
+promoter, has the POZ domain at the amino-terminus and the Kruppel-type zinc
+finger domain at the carboxy-terminus. In this report, we showed that ZF5 has two
+contradictory functions in transcription: activation of human immunodeficiency
+virus (HIV) promoter and repression of the HSV thymidine kinase (TK) promoter.
+The POZ domain contributed to the repressor activity, whereas the active function
+resulted from the DNA-binding ability of the zinc finger domain. We demonstrated 
+that the POZ domain has a function mediating homomeric protein-protein
+interaction and this interaction requires the zinc finger domain. Furthermore,
+the POZ domain decreased the DNA-binding activity of the zinc finger domain.
+These results can provide evidence indicating the important interaction between
+the POZ and zinc finger domains.
+
+Copyright 1999 Academic Press.
+
+PMID: 10080939  [PubMed - indexed for MEDLINE]
+
+
+18. Biochem Biophys Res Commun. 1999 Feb 16;255(2):528-34.
+
+Analysis of the consensus binding sequence and the DNA-binding domain of ZF5.
+
+Obata T(1), Yanagidani A, Yokoro K, Numoto M, Yamamoto S.
+
+Author information: 
+(1)Department of Dermatology, Hiroshima University School of Medicine, Japan.
+tobata@ipc.hiroshima-u.ac.jp
+
+Murine ZF5 is a transcription factor with five zinc finger motifs that represses 
+the c-myc gene by binding to two GC-rich elements at the promoter region. Because
+of its ubiquitous expression in a variety of tissues, elucidation of biological
+functions and cellular target genes of ZF5 is of great interest. As the first
+step of identifying cellular target genes, we have attempted to determine the
+consensus binding motif for ZF5. We succeeded in isolating 19 oligonucleotide
+duplex DNAs to which ZF5 binds and determined the binding sequences with DNase I 
+footprinting analysis. From these sequences, we deduced the consensus binding
+motif for ZF5 to be GSGCGCGR. In addition, we have analyzed the DNA-binding
+domain of ZF5 by testing a series of deletion mutants. It turned out that the
+zinc fingers 3 and 4 of the five finger motifs play a critical role in DNA
+binding.
+
+Copyright 1999 Academic Press.
+
+PMID: 10049742  [PubMed - indexed for MEDLINE]
+
+
+19. Biochem Biophys Res Commun. 1998 May 29;246(3):668-74.
+
+Genomic cloning and characterization of the mouse POZ/zinc-finger protein ZF5.
+
+Yokoro K(1), Yanagidani A, Obata T, Yamamoto S, Numoto M.
+
+Author information: 
+(1)Department of Dermatology, Hiroshima University School of Medicine, Japan.
+
+We isolated genomic DNA containing the entire sequence of ZF5, which was
+originally identified by its ability to repress the mouse c-myc promoter and
+which was characterized as one of the POZ (Poxvirus and zinc finger) proteins.
+The POZ motif is a protein-protein interaction interface found at the N-terminal 
+region of zinc finger proteins. Sequence analysis demonstrated that the ATG
+translation initiation codon was separately located from the remainder of the
+coding sequence. Using both RNase protection and primer extension assay, a single
+major transcription start site was determined. Promoter analysis by transient
+transfection assay suggested positive autoregulation by ZF5 itself. The ZF5
+N-terminal region, including the POZ domain, was required for this regulation.
+Sp1 also activated the ZF5 promoter and this activity was repressed by addition
+of ZF5. ZF5 expression was stronger in mouse ovary, lung and brain than in other 
+organs.
+
+PMID: 9618270  [PubMed - indexed for MEDLINE]
+
+
+20. Genomics. 1997 Jul 15;43(2):156-64.
+
+The human gene ZFP161 on 18p11.21-pter encodes a putative c-myc repressor and is 
+homologous to murine Zfp161 (Chr 17) and Zfp161-rs1 (X Chr)
+
+Sobek-Klocke I(1), Disqué-Kochem C, Ronsiek M, Klocke R, Jockusch H, Breuning A, 
+Ponstingl H, Rojas K, Overhauser J, Eichenlaub-Ritter U.
+
+Author information: 
+(1)Faculty of Biology, Genetechnology/Microbiology Unit, University of Bielefeld,
+Germany.
+
+Erratum in
+    Genomics 1997 Nov 1;45(3):633.
+
+A clone from a lambda gt11 cDNA expression library of HeLa cells was isolated,
+sequenced, and shown to encode a new human zinc finger protein. The cDNA of the
+gene termed ZFP161 has an open reading frame of 1347 bp. The predicted protein
+comprises 449 amino acid residues and contains five zinc finger motifs of the
+Krüppel type near the C-terminus and a BTB/POZ domain in the N-terminal region.
+The protein is 98% homologous to a murine zinc finger protein, ZF5 (M. Numoto et 
+al., 1993, Nucleic Acids Res. 21: 3767-3775), which is a putative transcriptional
+repressor of c-myc and exhibits growth-suppressive activity in mouse cell lines. 
+Through the use of a panel of somatic cell hybrids for chromosomal assignment and
+DNAs of somatic cell hybrids containing a deleted chromosome 18 for fine mapping,
+the human gene ZFP161 was localized to 18p11.21-pter. Therefore, ZFP161 is a
+candidate gene by position for the holoprosencephaly type 4 gene, HPE4, which is 
+involved in congenital malformations. With DNAs from an interspecific backcross, 
+two homologous mouse genes, Zfp161 and Zfp161-rs1, were mapped to chromosome 17
+and the X chromosome, respectively. Mapping of Zfp161 confirms and extends a
+region of homology between distal mouse chromosome 17 and human 18p.
+
+PMID: 9244432  [PubMed - indexed for MEDLINE]
+
+
+21. Biochem Biophys Res Commun. 1997 Jul 9;236(1):20-5.
+
+Detection of mouse skeletal muscle-specific product, which includes ZF5 zinc
+fingers and a VP16 acidic domain, by reverse transcriptase PCR.
+
+Numoto M(1), Yokoro K, Yasuda S, Yanagihara K, Niwa O.
+
+Author information: 
+(1)Department of Molecular Pathology, Research Institute for Radiation Biology
+and Medicine, Hiroshima University, Minami-ku, Japan.
+mnumoto@ipc.hiroshima-u.ac.jp
+
+ZF5, which we have cloned as a repressor on the mouse c-myc promoter, is a zinc
+finger protein containing Kruppel-type zinc finger and ZiN/POZ domains. In a
+reverse transcriptase PCR assay using mouse skeletal muscle RNA, we identified a 
+827 bp PCR product including the zinc finger domain of ZF5 and the acidic domain 
+of VP16. The presence of the VP16 acidic domain induced the reduction of
+DNA-binding activity of the zinc finger domain. In addition, the inhibitory
+effect of the VP16 acidic domain was demonstrated on the human immunodeficiency
+virus (HIV) promoter, but there was no effect on the thymidine kinase (TK)
+promoter.
+
+PMID: 9223418  [PubMed - indexed for MEDLINE]
+
+
+22. Biochim Biophys Acta. 1997 May 2;1352(1):23-6.
+
+Expression cloning and intracellular localization of a human ZF5 homologue.
+
+Sugiura K(1), Muro Y, Nagai Y, Kamimoto T, Wakabayashi T, Ohashi M, Hagiwara M.
+
+Author information: 
+(1)Department of Anatomy, Nagoya University School of Medicine, Showa-ku, Japan.
+
+We isolated a cDNA encoding a human homologue of ZF5 (hZF5), which has five
+Kruppel-like C2H2 type zinc fingers at carboxyl terminus and the BTB/POZ
+(poxvirus and zinc finger) at the amino terminus, using autoimmune sera from a
+patient with overlap syndrome (dermatomyositis and scleroderma). Sequencing of
+the entire cDNA revealed an open reading frame (ORF) of 1349 bp with a deduced
+protein sequence of 449 amino acid residues and a calculated molecular weight of 
+51.3 kDa. The deduced amino acid sequence of hZF5 is highly homologous to mouse
+ZF5 (99.3% identity). Immunofluorescence studies revealed that HA-tagged hZF5
+transiently expressed in COS-7 cells showed the nuclear dot pattern in the
+BTB/POZ domain-dependent manner.
+
+PMID: 9177479  [PubMed - indexed for MEDLINE]
+
+
+23. Nucleic Acids Res. 1997 Mar 15;25(6):1108-16.
+
+The ZiN/POZ domain of ZF5 is required for both transcriptional activation and
+repression.
+
+Kaplan J(1), Calame K.
+
+Author information: 
+(1)Department of Microbiology, Columbia University College of Physicians and
+Surgeons, New York, NY 10032, USA.
+
+ZF5 is a ubiquitously expressed protein originally identified by its ability to
+bind and repress the murine c-myc promoter. It contains five C-terminal zinc
+fingers and a conserved N-terminal ZiN/POZ domain. This motif, found in a growing
+number of zinc finger proteins, can inhibit DNA binding and mediate dimerization 
+[Bardwell, V.J. and Treisman,R. (1994) Genes Dev., 8,1664-1677]. In the current
+study, a cyclic amplification and selection of targets (CAST) protocol detected
+preferred ZF5 binding sites which are highly GC-rich. Binding to these sites by
+ZF5 depended upon the zinc fingers and was enhanced when the ZiN/POZ domain was
+removed. Using transient cotransfection assays, ZF5 was shown to activate the
+HIV-1 LTR and repress the beta-actin promoter. The ZiN/POZ domain was shown to
+mediate ZF5-dependent transcriptional activation and repression. From these data,
+we conclude that ZF5 can both activate and repress in the context of different
+natural promoters and that its ZiN/POZ domain can affect two functions; DNA
+binding and transcriptional modulation.
+
+PMCID: PMC146578
+PMID: 9092617  [PubMed - indexed for MEDLINE]
+
+
+24. Jpn J Cancer Res. 1995 Mar;86(3):277-83.
+
+Over-expressed ZF5 gene product, a c-myc-binding protein related to GL1-Kruppel
+protein, has a growth-suppressive activity in mouse cell lines.
+
+Numoto M(1), Yokoro K, Yanagihara K, Kamiya K, Niwa O.
+
+Author information: 
+(1)Department of Molecular Pathology, Hiroshima University.
+
+ZF5 encodes a zinc finger protein, which contains five C2H2-type zinc fingers
+showing homology with the zinc finger of the Kruppel family, and binds to two
+sites in the mouse c-myc promoter. We report the effect of over-expression of ZF5
+on cell growth. ZnCl2 treatment suppressed the growth of a mouse fibroblast cell 
+line (L cells) transfected with the wild-type ZF5 gene driven by the
+metallothionein promoter. Cells transfected with the wild-type ZF5 gene formed
+colonies two- to fivefold less efficiently than those transfected with the mutant
+ZF5 gene in P19, NIH3T3, 3T3-L1 and L cells. Over-expression of ZF5 did not cause
+c-myc down-regulation or arrest of the cell cycle, but increased the DNA content.
+
+PMID: 7744698  [PubMed - indexed for MEDLINE]
+
+
+25. Nucleic Acids Res. 1993 Aug 11;21(16):3767-75.
+
+Transcriptional repressor ZF5 identifies a new conserved domain in zinc finger
+proteins.
+
+Numoto M(1), Niwa O, Kaplan J, Wong KK, Merrell K, Kamiya K, Yanagihara K, Calame
+K.
+
+Author information: 
+(1)Research Institute for Nuclear Medicine and Biology, Hiroshima University,
+Japan.
+
+We have cloned a cDNA encoding a new murine C2H2 zinc finger protein, ZF5. The
+51.3 kD protein contains five GL1-Kruppel type zinc fingers at the C-terminus. At
+its N-terminus, ZF5 has a 41 amino acid region which was found to be homologous
+to the N-termini of several other zinc finger proteins. This region defines a new
+motif within zinc finger proteins which we have named the Zinc finger N-terminal 
+(ZiN) domain. ZF5 binds to two sites in the c-myc promoter and to the -50 bp site
+of the herpes simplex thymidine kinase promoter. ZF5 is a transcriptional
+repressor and its repression domain is located N-terminal to the zinc finger
+domains. A single 4 kb ZF5 mRNA is expressed widely.
+
+PMCID: PMC309887
+PMID: 8367294  [PubMed - indexed for MEDLINE]
+
+

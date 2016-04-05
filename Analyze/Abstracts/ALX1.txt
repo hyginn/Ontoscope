@@ -1,0 +1,2526 @@
+
+1. Oncotarget. 2016 Mar 25. doi: 10.18632/oncotarget.8352. [Epub ahead of print]
+
+DNA promoter hypermethylation in nipple fluid: a potential tool for early breast 
+cancer detection.
+
+de Groot JS(1), Moelans CB(1), Elias SG(2), Fackler MJ(3), van Domselaar R(1),
+Suijkerbuijk KP(1), Witkamp AJ(4), Sukumar S(3), van Diest PJ(1), van der Wall
+E(5).
+
+Author information: 
+(1)Department of Pathology, University Medical Center Utrecht, Utrecht, The
+Netherlands. (2)Julius Center for Health Sciences and Primary Care, University
+Medical Center Utrecht, Utrecht, The Netherlands. (3)Department of Oncology,
+Johns Hopkins University School of Medicine, Baltimore, USA. (4)Department of
+Surgery, University Medical Center Utrecht, Utrecht, The Netherlands.
+(5)Department of Medical Oncology, University Medical Center Utrecht, Utrecht,
+The Netherlands.
+
+INTRODUCTION: Nipple fluid aspiration provides direct non-invasive sampling of
+fluid from the mammary ductal system, where the majority of breast cancers
+originate. DNA promoter hypermethylation ("methylation") occurs early and at high
+frequency in breast carcinogenesis, bearing the potential as a biomarker for
+cancer detection at its earliest stages. We assessed methylation in nipple fluid 
+from breasts of healthy women, of women with sporadic breast cancer and of their 
+contralateral breasts. Our goal was to investigate whether nipple fluid can be
+used as a reliable methylation biomarker source.
+METHODS: Methylation levels of 13 genes were analysed by quantitative
+multiplex-methylation specific PCR (QM-MSP) in nipple fluid samples from breasts 
+of healthy women, and from the affected and contralateral breasts of breast
+cancer patients.
+RESULTS: Methylation analysis of the low-volume nipple fluid samples was
+feasible. Despite the generally low methylation levels, cancerous and healthy
+breasts nipple fluid could be discriminated with an area under the receiver
+operating characteristic curve (AUC) of 0.64 (p<0.01) based on a multivariate
+model including AKR1B1, ALX1, RASSF1A and TM6SF1. Within-patient differences
+between cancerous and contralateral nipple fluid samples were less prominent.
+CONCLUSIONS: Cancerous nipple fluid contains increased levels of methylation of
+tumor suppressor genes that potentially could serve as a biomarker for early
+breast cancer detection.
+
+PMID: 27028854  [PubMed - as supplied by publisher]
+
+
+2. PLoS Genet. 2016 Mar 3;12(3):e1005902. doi: 10.1371/journal.pgen.1005902.
+eCollection 2016.
+
+Mariner Transposons Contain a Silencer: Possible Role of the Polycomb Repressive 
+Complex 2.
+
+Bire S(1,)(2), Casteret S(1), Piégu B(1), Beauclair L(1), Moiré N(3), Arensbuger 
+P(4), Bigot Y(1).
+
+Author information: 
+(1)PRC, UMR INRA-CNRS 7247, PRC, Nouzilly, France. (2)Institute of Biotechnology,
+University of Lausanne, and Center for Biotechnology UNIL-EPFL, Lausanne,
+Switzerland. (3)UMR INRA 1282, ISP, Parc de Grandmont, Tours, France.
+(4)Biological Sciences Department, California State Polytechnic University,
+Pomona, California, United States of America.
+
+Transposable elements are driving forces for establishing genetic innovations
+such as transcriptional regulatory networks in eukaryotic genomes. Here, we
+describe a silencer situated in the last 300 bp of the Mos1 transposase open
+reading frame (ORF) which functions in vertebrate and arthropod cells. Functional
+silencers are also found at similar locations within three other animal mariner
+elements, i.e. IS630-Tc1-mariner (ITm) DD34D elements, Himar1, Hsmar1 and Mcmar1.
+These silencers are able to impact eukaryotic promoters monitoring strong,
+moderate or low expression as well as those of mariner elements located upstream 
+of the transposase ORF. We report that the silencing involves at least two
+transcription factors (TFs) that are conserved within animal species, NFAT-5 and 
+Alx1. These cooperatively act with YY1 to trigger the silencing activity. Four
+other housekeeping transcription factors (TFs), neuron restrictive silencer
+factor (NRSF), GAGA factor (GAF) and GTGT factor (GTF), were also found to have
+binding sites within mariner silencers but their impact in modulating the
+silencer activity remains to be further specified. Interestingly, an NRSF binding
+site was found to overlap a 30 bp motif coding a highly conserved PHxxYSPDLAPxD
+peptide in mariner transposases. We also present experimental evidence that
+silencing is mainly achieved by co-opting the host Polycomb Repressive Complex 2 
+pathway. However, we observe that when PRC2 is impaired another host silencing
+pathway potentially takes over to maintain weak silencer activity. Mariner
+silencers harbour features of Polycomb Response Elements, which are probably a
+way for mariner elements to self-repress their transcription and mobility in
+somatic and germinal cells when the required TFs are expressed. At the
+evolutionary scale, mariner elements, through their exaptation, might have been a
+source of silencers playing a role in the chromatin configuration in eukaryotic
+genomes.
+
+PMCID: PMC4777549
+PMID: 26939020  [PubMed - in process]
+
+
+3. PLoS One. 2016 Feb 11;11(2):e0149067. doi: 10.1371/journal.pone.0149067.
+eCollection 2016.
+
+Experimental Approach Reveals the Role of alx1 in the Evolution of the Echinoderm
+Larval Skeleton.
+
+Koga H(1), Fujitani H(1), Morino Y(1), Miyamoto N(1,)(2), Tsuchimoto J(3,)(4),
+Shibata TF(5), Nozawa M(6,)(7), Shigenobu S(5,)(8), Ogura A(9), Tachibana K(10), 
+Kiyomoto M(11), Amemiya S(11,)(12,)(13), Wada H(1).
+
+Author information: 
+(1)Graduate School of Life and Environmental Sciences, University of Tsukuba,
+Tsukuba, Japan. (2)Institute of Biogeosciences, Japan Agency for Marine-Earth
+Science and Technology, Yokosuka, Japan. (3)Division of Life Science, Graduate
+School of Natural Science and Technology, Kanazawa University, Kanazawa, Japan.
+(4)Institute for Molecular Science of Medicine, Aichi Medical University,
+Nagakute, Japan. (5)National Institute for Basic Biology, Okazaki, Japan.
+(6)Center for Information Biology, National Institute of Genetics, Mishima,
+Japan. (7)Department of Genetics, The Graduate University for Advanced Studies,
+Mishima, Japan. (8)School of Life Science, The Graduate University for Advanced
+Studies, Okazaki, Japan. (9)Nagahama Institute of Bio-Science and Technology,
+Nagahama, Japan. (10)Graduate School of Bioscience, Tokyo Institute of
+Technology, Yokohama, Japan. (11)Marine and Coastal Research Center, Ochanomizu
+University, Tateyama, Japan. (12)Department of Integrated Biosciences, Graduate
+School of Frontier Sciences, The University of Tokyo, Kashiwa, Japan.
+(13)Research and Education Center of Natural Sciences, Keio University, Yokohama,
+Japan.
+
+Over the course of evolution, the acquisition of novel structures has ultimately 
+led to wide variation in morphology among extant multicellular organisms. Thus,
+the origins of genetic systems for new morphological structures are a subject of 
+great interest in evolutionary biology. The larval skeleton is a novel structure 
+acquired in some echinoderm lineages via the activation of the adult skeletogenic
+machinery. Previously, VEGF signaling was suggested to have played an important
+role in the acquisition of the larval skeleton. In the present study, we compared
+expression patterns of Alx genes among echinoderm classes to further explore the 
+factors involved in the acquisition of a larval skeleton. We found that the alx1 
+gene, originally described as crucial for sea urchin skeletogenesis, may have
+also played an essential role in the evolution of the larval skeleton. Unlike
+those echinoderms that have a larval skeleton, we found that alx1 of starfish was
+barely expressed in early larvae that have no skeleton. When alx1 overexpression 
+was induced via injection of alx1 mRNA into starfish eggs, the expression
+patterns of certain genes, including those possibly involved in skeletogenesis,
+were altered. This suggested that a portion of the skeletogenic program was
+induced solely by alx1. However, we observed no obvious external phenotype or
+skeleton. We concluded that alx1 was necessary but not sufficient for the
+acquisition of the larval skeleton, which, in fact, requires several genetic
+events. Based on these results, we discuss how the larval expression of alx1
+contributed to the acquisition of the larval skeleton in the putative ancestral
+lineage of echinoderms.
+
+PMCID: PMC4750990
+PMID: 26866800  [PubMed - in process]
+
+
+4. Int J Clin Exp Pathol. 2015 Oct 1;8(10):12129-39. eCollection 2015.
+
+ALX1 promotes migration and invasion of lung cancer cells through increasing
+snail expression.
+
+Yao W(1), Liu Y(2), Zhang Z(3), Li G(3), Xu X(3), Zou K(2), Xu Y(2), Zou L(3).
+
+Author information: 
+(1)Department of Traditional Chinese Medicine, The Second Affiliated Hospital of 
+Dalian Medical University, Graduate School of Dalian Medical University Dalian
+116027, China. (2)The First Affiliated Hospital of Dalian Medical University
+Dalian 116011, China. (3)Department of Radiation Oncology, The Second Affiliated 
+Hospital of Dalian Medical University Dalian 116027, China.
+
+Lung cancer is one of the main causes in cancer-related death. Here we reported a
+novel functional role of Aristaless-like homeobox1 (ALX1) in lung carcinogenesis.
+Analysis of ALX1 in lung cancer specimens confirms upregulation of ALX1 in lung
+cancer, especially these with distant metastasis. Moreover, higher level of ALX1 
+expression is associated with poorer prognosis of lung cancer patients. Ectopic
+expression of ALX1 significantly promotes lung cancer cell proliferation,
+migration and invasion, while ALX1 silencing by siRNA significantly inhibits
+these abilities of lung cancer cells. The functional role of ALX1 is dependent on
+increasing Snail expression and knockdown of Snail could restrain the role of
+ALX1. Collectively, we identify critical roles of ALX1 in lung cancer development
+and progression. These findings may serve as a framework for future
+investigations designed to more comprehensive determination of ALX1 as a
+potential therapeutic target.
+
+PMCID: PMC4680342
+PMID: 26722397  [PubMed - in process]
+
+
+5. Dev Biol. 2016 Jan 15;409(2):451-8. doi: 10.1016/j.ydbio.2015.11.015. Epub 2015
+Dec 2.
+
+Aristaless-Like Homeobox protein 1 (ALX1) variant associated with craniofacial
+structure and frontonasal dysplasia in Burmese cats.
+
+Lyons LA(1), Erdman CA(2), Grahn RA(3), Hamilton MJ(4), Carter MJ(5), Helps
+CR(6), Alhaddad H(7), Gandolfi B(8).
+
+Author information: 
+(1)Department of Veterinary Medicine & Surgery, College of Veterinary Medicine,
+University of Missouri-Columbia, Columbia, MO 65211, USA; Department of
+Population Health and Reproduction, School of Veterinary Medicine, University of 
+California-Davis, Davis, CA 95776, USA. Electronic address: Lyonsla@Missouri.edu.
+(2)Department of Psychiatry, University of California-San Francisco, San
+Francisco, CA 94143, USA; Department of Population Health and Reproduction,
+School of Veterinary Medicine, University of California-Davis, Davis, CA 95776,
+USA. (3)Veterinary Genetics Laboratory, School of Veterinary Medicine, University
+of California-Davis, Davis, CA 96516, USA; Department of Population Health and
+Reproduction, School of Veterinary Medicine, University of California-Davis,
+Davis, CA 95776, USA. (4)Department of Cell Biology and Neuroscience, Institute
+for Integrative Genome Biology, Center for Disease Vector Research, University of
+California-Riverside, Riverside, CA 92521, USA; Department of Population Health
+and Reproduction, School of Veterinary Medicine, University of California-Davis, 
+Davis, CA 95776, USA. (5)MDxHealth Inc, 15279 Alton Parkway, Suite #100, Irvine, 
+CA 92618, USA; Department of Population Health and Reproduction, School of
+Veterinary Medicine, University of California-Davis, Davis, CA 95776, USA.
+(6)Langford Veterinary Services, University of Bristol, Bristol BS40 5DU, UK.
+(7)College of Science, Kuwait University, Safat, Kuwait. (8)Department of
+Veterinary Medicine & Surgery, College of Veterinary Medicine, University of
+Missouri-Columbia, Columbia, MO 65211, USA; Department of Population Health and
+Reproduction, School of Veterinary Medicine, University of California-Davis,
+Davis, CA 95776, USA.
+
+Frontonasal dysplasia (FND) can have severe presentations that are medically and 
+socially debilitating. Several genes are implicated in FND conditions, including 
+Aristaless-Like Homeobox 1 (ALX1), which is associated with FND3. Breeds of cats 
+are selected and bred for extremes in craniofacial morphologies. In particular, a
+lineage of Burmese cats with severe brachycephyla is extremely popular and is
+termed Contemporary Burmese. Genetic studies demonstrated that the brachycephyla 
+of the Contemporary Burmese is a simple co-dominant trait, however, the
+homozygous cats have a severe craniofacial defect that is incompatible with life.
+The craniofacial defect of the Burmese was genetically analyzed over a 20 year
+period, using various genetic analysis techniques. Family-based linkage analysis 
+localized the trait to cat chromosome B4. Genome-wide association studies and
+other genetic analyses of SNP data refined a critical region. Sequence analysis
+identified a 12bp in frame deletion in ALX1, c.496delCTCTCAGGACTG, which is 100% 
+concordant with the craniofacial defect and not found in cats not related to the 
+Contemporary Burmese.
+
+Copyright © 2015 The Authors. Published by Elsevier Inc. All rights reserved.
+
+PMCID: PMC4724490 [Available on 2017-01-15]
+PMID: 26610632  [PubMed - in process]
+
+
+6. Bioessays. 2016 Jan;38(1):14-20. doi: 10.1002/bies.201500079. Epub 2015 Nov 25.
+
+Adaptive radiation of Darwin's finches revisited using whole genome sequencing.
+
+Almén MS(1), Lamichhaney S(1), Berglund J(1), Grant BR(2), Grant PR(2), Webster
+MT(1), Andersson L(1,)(3,)(4).
+
+Author information: 
+(1)Department of Medical Biochemistry and Microbiology, Uppsala University,
+Uppsala, Sweden. (2)Department of Ecology and Evolutionary Biology, Princeton
+University, Princeton, NJ, USA. (3)Department of Animal Breeding and Genetics,
+Swedish University of Agricultural Sciences, Uppsala, Sweden. (4)Department of
+Veterinary Integrative Biosciences, Texas A&M University, College Station, USA.
+
+We recently used genome sequencing to study the evolutionary history of the
+Darwin's finches. A prominent feature of our data was that different polymorphic 
+sites in the genome tended to indicate different genetic relationships among
+these closely related species. Such patterns are expected in recently diverged
+genomes as a result of incomplete lineage sorting. However, we uncovered
+conclusive evidence that these patterns have also been influenced by interspecies
+hybridisation, a process that has likely played an important role in the
+radiation of Darwin's finches. A major discovery was that segregation of two
+haplotypes at the ALX1 locus underlies variation in beak shape among the Darwin's
+finches, and that differences between the two haplotypes in a 240<U+2009>kb region in
+blunt and pointed beaked birds involve both coding and regulatory changes. As we 
+review herein, the evolution of such adaptive haplotypes comprising multiple
+causal changes appears to be an important mechanism contributing to the evolution
+of biodiversity.
+
+© 2015 WILEY Periodicals, Inc.
+
+PMID: 26606649  [PubMed - in process]
+
+
+7. Cell Rep. 2015 Oct 27;13(4):840-53. doi: 10.1016/j.celrep.2015.09.037. Epub 2015 
+Oct 17.
+
+New Functional Signatures for Understanding Melanoma Biology from Tumor Cell
+Lineage-Specific Analysis.
+
+Rambow F(1), Job B(2), Petit V(1), Gesbert F(1), Delmas V(1), Seberg H(3),
+Meurice G(2), Van Otterloo E(3), Dessen P(2), Robert C(4), Gautheret D(2),
+Cornell RA(3), Sarasin A(5), Larue L(6).
+
+Author information: 
+(1)Institut Curie, Normal and Pathological Development of Melanocytes, 91405
+Orsay, France; Centre National de la Recherche Scientifique (CNRS) UMR3347, 91405
+Orsay, France; INSERM U1021, 91405 Orsay, France; Equipe Labellisée - Ligue
+Nationale contre le Cancer, 91405 Orsay, France. (2)Plateforme de
+Bioinformatique, UMS AMMICA, Gustave-Roussy, 94805 Villejuif, France.
+(3)Department of Anatomy and Cell Biology, University of Iowa, Iowa City, IA
+52242, USA. (4)INSERM U981, Gustave-Roussy, 94805 Villejuif, France. (5)Centre
+National de la Recherche Scientifique (CNRS) UMR8200, Gustave-Roussy and
+University Paris-Sud, 94805 Villejuif, France. (6)Institut Curie, Normal and
+Pathological Development of Melanocytes, 91405 Orsay, France; Centre National de 
+la Recherche Scientifique (CNRS) UMR3347, 91405 Orsay, France; INSERM U1021,
+91405 Orsay, France; Equipe Labellisée - Ligue Nationale contre le Cancer, 91405 
+Orsay, France. Electronic address: lionel.larue@curie.fr.
+
+Molecular signatures specific to particular tumor types are required to design
+treatments for resistant tumors. However, it remains unclear whether tumors and
+corresponding cell lines used for drug development share such signatures. We
+developed similarity core analysis (SCA), a universal and unsupervised
+computational framework for extracting core molecular features common to tumors
+and cell lines. We applied SCA to mRNA/miRNA expression data from various
+sources, comparing melanoma cell lines and metastases. The signature obtained was
+associated with phenotypic characteristics in vitro, and the core genes CAPN3 and
+TRIM63 were implicated in melanoma cell migration/invasion. About 90% of the
+melanoma signature genes belong to an intrinsic network of transcription factors 
+governing neural development (TFAP2A, DLX2, ALX1, MITF, PAX3, SOX10, LEF1, and
+GAS7) and miRNAs (211-5p, 221-3p, and 10a-5p). The SCA signature effectively
+discriminated between two subpopulations of melanoma patients differing in
+overall survival, and classified MEKi/BRAFi-resistant and -sensitive melanoma
+cell lines.
+
+Copyright © 2015 The Authors. Published by Elsevier Inc. All rights reserved.
+
+PMID: 26489459  [PubMed - in process]
+
+
+8. Development. 2015 Nov 1;142(21):3769-80. doi: 10.1242/dev.127969. Epub 2015 Sep
+23.
+
+microRNA-31 modulates skeletal patterning in the sea urchin embryo.
+
+Stepicheva NA(1), Song JL(2).
+
+Author information: 
+(1)Department of Biological Sciences, University of Delaware, Newark, DE 19716,
+USA. (2)Department of Biological Sciences, University of Delaware, Newark, DE
+19716, USA jsong@udel.edu.
+
+MicroRNAs (miRNAs) are small non-coding RNAs that repress the translation and
+reduce the stability of target mRNAs in animal cells. microRNA-31 (miR-31) is
+known to play a role in cancer, bone formation and lymphatic development.
+However, studies to understand the function of miR-31 in embryogenesis have been 
+limited. We examined the regulatory role of miR-31 in early development using the
+sea urchin as a model. miR-31 is expressed at all stages of development and its
+knockdown (KD) disrupts the patterning and function of primary mesenchyme cells
+(PMCs), which form the embryonic skeleton spicules. We identified that miR-31
+directly represses Pmar1, Alx1, Snail and VegfR7 within the PMC gene regulatory
+network using reporter constructs. Further, blocking the miR-31-mediated
+repression of Alx1 and/or VegfR7 in the developing embryo resulted in defects in 
+PMC patterning and skeletogenesis. The majority of the mislocalized PMCs in
+miR-31 KD embryos did not express VegfR10, indicating that miR-31 regulates VegfR
+gene expression within PMCs. In addition, miR-31 indirectly suppresses Vegf3
+expression in the ectoderm. These results indicate that miR-31 coordinately
+suppresses genes within the PMCs and in the ectoderm to impact PMC patterning and
+skeletogenesis. This study identifies the novel function and molecular mechanism 
+of miR-31-mediated regulation in the developing embryo.
+
+© 2015. Published by The Company of Biologists Ltd.
+
+PMCID: PMC4647217 [Available on 2016-11-01]
+PMID: 26400092  [PubMed - indexed for MEDLINE]
+
+
+9. Anticancer Res. 2015 Apr;35(4):1835-42.
+
+Characterization of the 12q amplicons in lipomatous soft tissue tumors by
+multiplex ligation-dependent probe amplification-based copy number analysis.
+
+Creytens D(1), Van Gorp J(2), Speel EJ(3), Ferdinande L(4).
+
+Author information: 
+(1)Department of Pathology, Ghent University and Ghent University Hospital,
+Ghent, Belgium david.creytens@uzgent.be creytensdavid@hotmail.com. (2)Department 
+of Pathology, Diakonessenhuis Hospital Utrecht, Utrecht, the Netherlands.
+(3)Department of Pathology, GROW-School for Oncology and Developmental Biology,
+Maastricht University Medical Center, Maastricht, the Netherlands. (4)Department 
+of Pathology, Ghent University and Ghent University Hospital, Ghent, Belgium.
+
+BACKGROUND/AIM: Well-differentiated liposarcoma (WDLPS) and de-differentiated
+liposarcoma (DDLPS) are characterized by amplified sequences derived from the
+long arm of chromosome 12. The goal of the present study was to identify, besides
+the well-known candidate genes, novel relevant genes in these large, complex 12q 
+amplicons.
+MATERIALS AND METHODS: Using multiplex ligation-dependent probe amplification,
+genetic alterations in 19 different genes of 12q12-24 were evaluated in 77
+lipomatous soft tissue tumors (including lipomas, WDLPS, DDLPS and pleomorphic
+liposarcomas).
+RESULTS: We recorded several amplified genes of 12q13-15, including miR-26a-2, a 
+gene not well studied in liposarcoma, and the well-known and previously described
+genes murine double minute 2 (MDM2), YEATS domain-containing protein 4 (YEATS4), 
+high-mobility AT-hook 2 (HMGA2), cyclin-dependent kinase 4 (CDK4) and tetraspanin
+31 (TSPAN31). Interestingly, the amplification profiles of these six genes were
+found to be significantly different between WDLPS and DDLPS, more frequently
+having a high-level status in DDLPS than in WDLPS. In addition, DDLPS were found 
+to have significantly higher mean amplification ratios compared to WDLPS.
+Moreover, we identified additional genes exclusively amplified in DDLPS in 12q13,
+12q21 and 12q24, including glioma-associated oncogene homolog 1 (GLI1), mitogen
+activated protein kinase kinase kinase 12 (MAP3K12), cyclin-dependent kinase 2
+(CDK2), ALX homeobox 1 (ALX1) and T-box 5 (TBX5).
+CONCLUSION: Differences in amplification profiles among WDLPS and DDLPS may be
+related to progression/de-differentiation in liposarcomas and show how in the
+future amplification profiles could provide an adjunctive tool in characterizing 
+progression to DDLPS. In addition, we identified additional genes exclusively
+amplified in DDLPS, which may play a role in liposarcomagenesis, particularly in 
+the de-differentiation process.
+
+Copyright© 2015 International Institute of Anticancer Research (Dr. John G.
+Delinassios), All rights reserved.
+
+PMID: 25862836  [PubMed - indexed for MEDLINE]
+
+
+10. Stem Cell Reports. 2015 Apr 14;4(4):712-26. doi: 10.1016/j.stemcr.2015.02.012.
+Epub 2015 Mar 26.
+
+Long-term expandable SOX9+ chondrogenic ectomesenchymal cells from human
+pluripotent stem cells.
+
+Umeda K(1), Oda H(2), Yan Q(1), Matthias N(1), Zhao J(1), Davis BR(1), Nakayama
+N(3).
+
+Author information: 
+(1)Institute of Molecular Medicine, The University of Texas Health Science Center
+at Houston Medical School, Houston, TX 77030, USA. (2)Department of Pediatrics,
+Kyoto University School of Medicine, Kyoto 606-8507, Japan. (3)Institute of
+Molecular Medicine, The University of Texas Health Science Center at Houston
+Medical School, Houston, TX 77030, USA. Electronic address:
+naoki.nakayama@uth.tmc.edu.
+
+Here we report the successful generation and long-term expansion of
+SOX9-expressing CD271(+)PDGFRa(+)CD73(+) chondrogenic ectomesenchymal cells from 
+the PAX3/SOX10/FOXD3-expressing MIXL1(-)CD271(hi)PDGFRa(lo)CD73(-) neural
+crest-like progeny of human pluripotent stem cells in a chemically defined medium
+supplemented with Nodal/Activin/transforming growth factorß (TGFß) inhibitor and 
+fibroblast growth factor (FGF). When "primed" with TGFß, such cells efficiently
+formed translucent cartilage particles, which were completely mineralized in
+12 weeks in immunocompromized mice. The ectomesenchymal cells were expandable
+without loss of chondrogenic potential for at least 16 passages. They maintained 
+normal karyotype for at least 10 passages and expressed genes representing
+embryonic progenitors (SOX4/12, LIN28A/B), cranial mesenchyme (ALX1/3/4), and
+chondroprogenitors (SOX9, COL2A1) of neural crest origin (SOX8/9, NGFR, NES).
+Ectomesenchyme is a source of many craniofacial bone and cartilage structures.
+The method we describe for obtaining a large quantity of human ectomesenchymal
+cells will help to model craniofacial disorders in vitro and potentially provide 
+cells for the repair of craniofacial damage.
+
+Copyright © 2015 The Authors. Published by Elsevier Inc. All rights reserved.
+
+PMCID: PMC4400647
+PMID: 25818812  [PubMed - indexed for MEDLINE]
+
+
+11. Gene Expr Patterns. 2015 Mar;17(2):87-97. doi: 10.1016/j.gep.2015.03.003. Epub
+2015 Mar 21.
+
+Expession patterns of mesenchyme specification genes in two distantly related
+echinoids, Glyptocidaris crenularis and Echinocardium cordatum.
+
+Yamazaki A(1), Minokawa T(2).
+
+Author information: 
+(1)Research Center for Marine Biology, Graduate School of Life Sciences, Tohoku
+University, 9 Sakamoto, Asamushi, Aomori, Aomori 039-3501, Japan. (2)Research
+Center for Marine Biology, Graduate School of Life Sciences, Tohoku University, 9
+Sakamoto, Asamushi, Aomori, Aomori 039-3501, Japan. Electronic address:
+takuya@m.tohoku.ac.jp.
+
+The molecular mechanism of the larval mesenchyme cell specification in echinoids 
+has been well analyzed. However, most of the data have been provided by studies
+of a single group of echinoids, the order Camarodonta. Little is known about this
+mechanism in other echinoid orders. We examined the expression patterns of
+mesenchyme specification genes, micro1, hesC, alx1, tbr, ets1, cyp1, and gcm, in 
+the two non-Camarodonta echinoids, Glyptocidaris crenularis and Echinocardium
+cordatum. We found that the expression patterns of some genes contained
+characteristics that were unique to one of the species; others were shared by the
+two species. Some of the shared characteristics of G.<U+2009>crenularis and E.<U+2009>cordatum 
+are not found in the species belonging to Camarodonta, suggesting the derived
+status of this order. The expression of ets1 in E.<U+2009>cordatum aboral ectoderm is
+one of the molecular level modifications possibly related to an evolutionarily
+novel larval structure, the posterior process. Our results suggest that a
+considerable number of modifications in the mesenchyme specification mechanisms
+have been introduced during the echinoid evolution.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+PMID: 25801498  [PubMed - indexed for MEDLINE]
+
+
+12. Tumour Biol. 2015 Aug;36(8):5965-70. doi: 10.1007/s13277-015-3271-z. Epub 2015
+Mar 4.
+
+Depletion of ALX1 causes inhibition of migration and induction of apoptosis in
+human osteosarcoma.
+
+Yang M(1), Pan Y, Zhou Y.
+
+Author information: 
+(1)Department of Orthopaedics, Xinqiao Hospital, Third Military Medical
+University, Chongqing, 400037, China.
+
+Osteosarcoma is the most common primary malignant tumor in children and young
+adults, and the molecular regulation of the invasion of osteosarcoma (OS) remains
+unknown. In this study, we found that increased expression of ALX1 was associated
+with the progression of osteosarcoma and that ALX1 protein levels were
+significantly elevated in matched distant metastases. High ALX1 levels also
+predict shorter overall survival of osteosarcoma patients. We investigated the
+therapeutic potential of targeting ALX1 expression using the technique of RNA
+silencing via short hairpin RNA (shRNA). Synthetic shRNA duplexes against ALX1
+were introduced to downregulate the expression of ALX1 in a highly malignant
+osteosarcoma cell line, U2OS. The results obtained indicated that shRNA targeting
+of ALX1 could lead to an efficient and specific inhibition of endogenous ALX1
+activity. Furthermore, we found that depletion of ALX1 caused a dramatic cell
+cycle arrest, followed by massive apoptotic cell death, and eventually resulted
+in a significant decrease in migration and invasion of the osteosarcoma cell line
+studied.
+
+PMID: 25736924  [PubMed - indexed for MEDLINE]
+
+
+13. Nature. 2015 Feb 19;518(7539):371-5. doi: 10.1038/nature14181. Epub 2015 Feb 11.
+
+Evolution of Darwin's finches and their beaks revealed by genome sequencing.
+
+Lamichhaney S(1), Berglund J(1), Almén MS(1), Maqbool K(2), Grabherr M(1),
+Martinez-Barrio A(1), Promerová M(1), Rubin CJ(1), Wang C(1), Zamani N(3), Grant 
+BR(4), Grant PR(4), Webster MT(1), Andersson L(5).
+
+Author information: 
+(1)Department of Medical Biochemistry and Microbiology, Uppsala University,
+SE-751 23 Uppsala, Sweden. (2)Department of Animal Breeding and Genetics, Swedish
+University of Agricultural Sciences, SE-75007 Uppsala, Sweden. (3)1] Department
+of Medical Biochemistry and Microbiology, Uppsala University, SE-751 23 Uppsala, 
+Sweden [2] Department of Plant Physiology, Umeå University, SE-901 87 Umeå,
+Sweden. (4)Department of Ecology and Evolutionary Biology, Princeton University, 
+Princeton, New Jersey 08544, USA. (5)1] Department of Medical Biochemistry and
+Microbiology, Uppsala University, SE-751 23 Uppsala, Sweden [2] Department of
+Animal Breeding and Genetics, Swedish University of Agricultural Sciences,
+SE-75007 Uppsala, Sweden [3] Department of Veterinary Integrative Biosciences,
+Texas A&M University, College Station, Texas 77843-4458, USA.
+
+Comment in
+    Nature. 2015 Feb 19;518(7539):308.
+
+Darwin's finches, inhabiting the Galápagos archipelago and Cocos Island,
+constitute an iconic model for studies of speciation and adaptive evolution. Here
+we report the results of whole-genome re-sequencing of 120 individuals
+representing all of the Darwin's finch species and two close relatives.
+Phylogenetic analysis reveals important discrepancies with the phenotype-based
+taxonomy. We find extensive evidence for interspecific gene flow throughout the
+radiation. Hybridization has given rise to species of mixed ancestry. A
+240 kilobase haplotype encompassing the ALX1 gene that encodes a transcription
+factor affecting craniofacial development is strongly associated with beak shape 
+diversity across Darwin's finch species as well as within the medium ground finch
+(Geospiza fortis), a species that has undergone rapid evolution of beak shape in 
+response to environmental changes. The ALX1 haplotype has contributed to
+diversification of beak shapes among the Darwin's finches and, thereby, to an
+expanded utilization of food resources.
+
+PMID: 25686609  [PubMed - indexed for MEDLINE]
+
+
+14. Dev Biol. 2015 Apr 1;400(1):148-58. doi: 10.1016/j.ydbio.2015.01.017. Epub 2015
+Jan 30.
+
+Juvenile skeletogenesis in anciently diverged sea urchin clades.
+
+Gao F(1), Thompson JR(2), Petsios E(2), Erkenbrack E(1), Moats RA(3), Bottjer
+DJ(2), Davidson EH(4).
+
+Author information: 
+(1)Division of Biology, California Institute of Technology, Pasadena, CA 91125,
+United States. (2)Department of Earth Sciences, University of Southern
+California, Los Angeles, CA 90089, United States. (3)Translational Biomedical
+Imaging Laboratory, Department of Radiology, The Saban Research Institute,
+Children<U+05F3>s Hospital Los Angeles, Keck School of Medicine USC, Los Angeles, CA
+90027, United States. (4)Division of Biology, California Institute of Technology,
+Pasadena, CA 91125, United States. Electronic address: davidson@caltech.edu.
+
+Mechanistic understanding of evolutionary divergence in animal body plans
+devolves from analysis of those developmental processes that, in forms descendant
+from a common ancestor, are responsible for their morphological differences. The 
+last common ancestor of the two extant subclasses of sea urchins, i.e.,
+euechinoids and cidaroids, existed well before the Permian/Triassic extinction
+(252 mya). Subsequent evolutionary divergence of these clades offers in principle
+a rare opportunity to solve the developmental regulatory events underlying a
+defined evolutionary divergence process. Thus (i) there is an excellent and
+fairly dense (if yet incompletely analyzed) fossil record; (ii) cladistically
+confined features of the skeletal structures of modern euechinoid and cidaroid
+sea urchins are preserved in fossils of ancestral forms; (iii) euechinoids and
+cidaroids are among current laboratory model systems in molecular developmental
+biology (here Strongylocentrotus purpuratus [Sp] and Eucidaris tribuloides [Et]);
+(iv) skeletogenic specification in sea urchins is uncommonly well understood at
+the causal level of interactions of regulatory genes with one another, and with
+known skeletogenic effector genes, providing a ready arsenal of available
+molecular tools. Here we focus on differences in test and perignathic girdle
+skeletal morphology that distinguish all modern euechinoid from all modern
+cidaroid sea urchins. We demonstrate distinct canonical test and girdle
+morphologies in juveniles of both species by use of SEM and X-ray
+microtomography. Among the sharply distinct morphological features of these
+clades are the internal skeletal structures of the perignathic girdle to which
+attach homologous muscles utilized for retraction and protraction of Aristotles<U+05F3> 
+lantern and its teeth. We demonstrate that these structures develop de novo
+between one and four weeks after metamorphosis. In order to study the underlying 
+developmental processes, a method of section whole mount in situ hybridization
+was adapted. This method displays current gene expression in the developing test 
+and perignathic girdle skeletal elements of both Sp and Et juveniles. Active,
+specific expression of the sm37 biomineralization gene in these muscle attachment
+structures accompanies morphogenetic development of these clade-specific features
+in juveniles of both species. Skeletogenesis at these clade-specific muscle
+attachment structures displays molecular earmarks of the well understood
+embryonic skeletogenic GRN: thus the upstream regulatory gene alx1 and the gene
+encoding the vegfR signaling receptor are both expressed at the sites where they 
+are formed. This work opens the way to analysis of the alternative spatial
+specification processes that were installed at the evolutionary divergence of the
+two extant subclasses of sea urchins.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+PMID: 25641694  [PubMed - indexed for MEDLINE]
+
+
+15. Cell Oncol (Dordr). 2014 Aug;37(4):297-303. doi: 10.1007/s13402-014-0189-1. Epub 
+2014 Aug 16.
+
+Validation of DNA promoter hypermethylation biomarkers in breast cancer--a short 
+report.
+
+de Groot JS(1), Pan X, Meeldijk J, van der Wall E, van Diest PJ, Moelans CB.
+
+Author information: 
+(1)Department of Pathology, University Medical Center Utrecht, H04.312, PO Box
+85500, 3508, GA, Utrecht, the Netherlands.
+
+PURPOSE: DNA promoter hypermethylation of tumor suppressor genes is known to
+occur early in cancer development, including breast cancer. To improve early
+breast cancer detection, we aimed to investigate whether the identification of
+DNA promoter hypermethylation might be of added value.
+METHODS: The methylation status of a panel of 19 candidate genes (AKR1B1, ALX1,
+ARHGEF7, FZD10, GHSR, GPX7, GREM1, GSTP1, HOXD1, KL, LHX2, MAL, MGMT, NDRG2,
+RASGRF2, SFRP1, SFRP2, TM6SF1 and TMEFF2) was determined in formalin-fixed
+paraffin-embedded normal breast and breast cancer tissue samples using gel-based 
+methylation-specific PCR (MSP).
+RESULTS: The promoters of the AKR1B1, ALX1, GHSR, GREM1, RASGRF2, SFRP2, TM6SF1
+and TMEFF2 genes were found to be significantly differentially methylated in
+normal versus malignant breast tissues. Based on sensitivity, specificity and
+logistic regression analyses the best performing genes for detecting breast
+cancer were identified. Through multivariate analyses, we found that AKR1B1 and
+TM6SF1 could detect breast cancer with an area under the curve (AUC) of 0.986 in 
+a receiver operating characteristic (ROC) assessment.
+CONCLUSIONS: Based on our data, we conclude that AKR1B1 and TM6SF1 may serve as
+candidate methylation biomarkers for early breast cancer detection. Further
+studies are underway to evaluate the methylation status of these genes in body
+fluids, including nipple aspirates and blood.
+
+PMID: 25123395  [PubMed - indexed for MEDLINE]
+
+
+16. Development. 2014 Jul;141(13):2669-79. doi: 10.1242/dev.104331. Epub 2014 Jun 12.
+
+Larval mesenchyme cell specification in the primitive echinoid occurs
+independently of the double-negative gate.
+
+Yamazaki A(1), Kidachi Y(2), Yamaguchi M(3), Minokawa T(4).
+
+Author information: 
+(1)Research Center for Marine Biology, Graduate School of Life Sciences, Tohoku
+University, 9 Sakamoto, Asamushi, Aomori, Aomori 039-3501, Japan
+yama0205@gmail.com. (2)Department of Pharmacy, Faculty of Pharmaceutical
+Sciences, Aomori University, 2-3-1 Kobata, Aomori, Aomori 030-0943, Japan.
+(3)Division of Life Science, Graduate School of Natural Science and Technology,
+Kanazawa University, Kakuma, Kanazawa, Ishikawa 920-1192, Japan. (4)Research
+Center for Marine Biology, Graduate School of Life Sciences, Tohoku University, 9
+Sakamoto, Asamushi, Aomori, Aomori 039-3501, Japan.
+
+Echinoids (sea urchins) are divided into two major groups - cidaroids (a
+'primitive' group) and euechinoids (a 'derived' group). The cidaroids are a
+promising model species for understanding the ancestral developmental mechanisms 
+in echinoids, but little is known about the molecular mechanisms of cidaroid
+development. In euechinoids, skeletogenic mesenchyme cell specification is
+regulated by the double-negative gate (DNG), in which hesC represses the
+transcription of the downstream mesenchyme specification genes (alx1, tbr and
+ets1), thereby defining the prospective mesenchyme region. To estimate the
+ancestral mechanism of larval mesenchyme cell specification in echinoids, the
+expression patterns and roles of mesenchyme specification genes in the cidaroid
+Prionocidaris baculosa were examined. The present study reveals that the
+expression pattern and function of hesC in P. baculosa were inconsistent with the
+DNG model, suggesting that the euechinoid-type DNG is not utilized during
+cidaroid mesenchyme specification. In contrast with hesC, the expression patterns
+and functions of alx1, tbr and ets1 were similar between P. baculosa and
+euechinoids. Based on these results, we propose that the roles of alx1, tbr and
+ets1 in mesenchyme specification were established in the common ancestor of
+echinoids, and that the DNG system was acquired in the euechinoid lineage after
+divergence from the cidaroid ancestor. The evolutionary timing of the
+establishment of the DNG suggests that the DNG was originally related to
+micromere and/or primary mesenchyme cell formation but not to skeletogenic cell
+differentiation.
+
+© 2014. Published by The Company of Biologists Ltd.
+
+PMID: 24924196  [PubMed - indexed for MEDLINE]
+
+
+17. Development. 2014 Apr;141(7):1503-13. doi: 10.1242/dev.101436. Epub 2014 Mar 5.
+
+Sub-circuits of a gene regulatory network control a developmental
+epithelial-mesenchymal transition.
+
+Saunders LR(1), McClay DR.
+
+Author information: 
+(1)Department of Biology, Duke University, Durham, NC 27708, USA.
+
+Epithelial-mesenchymal transition (EMT) is a fundamental cell state change that
+transforms epithelial to mesenchymal cells during embryonic development, adult
+tissue repair and cancer metastasis. EMT includes a complex series of
+intermediate cell state changes including remodeling of the basement membrane,
+apical constriction, epithelial de-adhesion, directed motility, loss of
+apical-basal polarity, and acquisition of mesenchymal adhesion and polarity.
+Transcriptional regulatory state changes must ultimately coordinate the timing
+and execution of these cell biological processes. A well-characterized gene
+regulatory network (GRN) in the sea urchin embryo was used to identify the
+transcription factors that control five distinct cell changes during EMT. Single 
+transcription factors were perturbed and the consequences followed with in vivo
+time-lapse imaging or immunostaining assays. The data show that five different
+sub-circuits of the GRN control five distinct cell biological activities, each
+part of the complex EMT process. Thirteen transcription factors (TFs) expressed
+specifically in pre-EMT cells were required for EMT. Three TFs highest in the GRN
+specified and activated EMT (alx1, ets1, tbr) and the 10 TFs downstream of those 
+(tel, erg, hex, tgif, snail, twist, foxn2/3, dri, foxb, foxo) were also required 
+for EMT. No single TF functioned in all five sub-circuits, indicating that there 
+is no EMT master regulator. Instead, the resulting sub-circuit topologies suggest
+EMT requires multiple simultaneous regulatory mechanisms: forward cascades,
+parallel inputs and positive-feedback lock downs. The interconnected and
+overlapping nature of the sub-circuits provides one explanation for the seamless 
+orchestration by the embryo of cell state changes leading to successful EMT.
+
+PMCID: PMC3957374
+PMID: 24598159  [PubMed - indexed for MEDLINE]
+
+
+18. Development. 2014 Feb;141(4):950-61. doi: 10.1242/dev.105585.
+
+Genome-wide analysis of the skeletogenic gene regulatory network of sea urchins.
+
+Rafiq K(1), Shashikant T, McManus CJ, Ettensohn CA.
+
+Author information: 
+(1)Department of Biological Sciences, Carnegie Mellon University, 4400 Fifth
+Avenue, Pittsburgh, PA 15213, USA.
+
+Erratum in
+    Development. 2014 Jun;141(12):2542.
+
+A central challenge of developmental and evolutionary biology is to understand
+the transformation of genetic information into morphology. Elucidating the
+connections between genes and anatomy will require model morphogenetic processes 
+that are amenable to detailed analysis of cell/tissue behaviors and to
+systems-level approaches to gene regulation. The formation of the calcified
+endoskeleton of the sea urchin embryo is a valuable experimental system for
+developing such an integrated view of the genomic regulatory control of
+morphogenesis. A transcriptional gene regulatory network (GRN) that underlies the
+specification of skeletogenic cells (primary mesenchyme cells, or PMCs) has
+recently been elucidated. In this study, we carried out a genome-wide analysis of
+mRNAs encoded by effector genes in the network and uncovered transcriptional
+inputs into many of these genes. We used RNA-seq to identify >400 transcripts
+differentially expressed by PMCs during gastrulation, when these cells undergo a 
+striking sequence of behaviors that drives skeletal morphogenesis. Our analysis
+expanded by almost an order of magnitude the number of known (and candidate)
+downstream effectors that directly mediate skeletal morphogenesis. We carried out
+genome-wide analysis of (1) functional targets of Ets1 and Alx1, two pivotal,
+early transcription factors in the PMC GRN, and (2) functional targets of MAPK
+signaling, a pathway that plays an essential role in PMC specification. These
+studies identified transcriptional inputs into >200 PMC effector genes. Our work 
+establishes a framework for understanding the genomic regulatory control of a
+major morphogenetic process and has important implications for reconstructing the
+evolution of biomineralization in metazoans.
+
+PMID: 24496631  [PubMed - indexed for MEDLINE]
+
+
+19. Am J Med Genet A. 2014 Feb;164A(2):346-52. doi: 10.1002/ajmg.a.36140. Epub 2013
+Dec 13.
+
+Potocki-Shaffer deletion encompassing ALX4 in a patient with frontonasal
+dysplasia phenotype.
+
+Ferrarini A(1), Gaillard M, Guerry F, Ramelli G, Heidi F, Keddache CV, Wieland I,
+Beckmann JS, Jaquemont S, Martinet D.
+
+Author information: 
+(1)Division of Pediatrics, San Giovanni Hospital, Bellinzona, Switzerland.
+
+Frontonasal dysplasia (FND) is a genetically heterogeneous malformation spectrum 
+with marked hypertelorism, broad nasal tip and bifid nose. Only a small number of
+genes have been associated with FND phenotypes until now, the first gene being
+EFNB1, related to craniofrontonasal syndrome (CFNS) with craniosynostosis in
+addition, and more recently the aristaless-like homeobox genes ALX3, ALX4, and
+ALX1, which have been related with distinct phenotypes named FND1, FND2, and FND3
+respectively. We here report on a female patient presenting with severe FND
+features along with partial alopecia, hypogonadism and intellectual disability.
+While molecular investigations did not reveal mutations in any of the known
+genes, ALX4, ALX3, ALX1 and EFNB1, comparative genomic hybridization (array CGH) 
+techniques showed a large heterozygous de novo deletion at 11p11.12p12,
+encompassing the ALX4 gene. Deletions in this region have been described in
+patients with Potocki-Shaffer syndrome (PSS), characterized by biparietal
+foramina, multiple exostoses, and intellectual disability. Although the patient
+reported herein manifests some overlapping features of FND and PPS, it is likely 
+that the observed phenotype maybe due to a second unidentified mutation in the
+ALX4 gene. The phenotype will be discussed in view of the deleted region
+encompassing the ALX4 gene.
+
+© 2013 Wiley Periodicals, Inc.
+
+PMID: 24376213  [PubMed - indexed for MEDLINE]
+
+
+20. J Clin Oncol. 2013 Nov 10;31(32):4140-7. doi: 10.1200/JCO.2012.48.5516. Epub 2013
+Sep 30.
+
+A prognostic DNA methylation signature for stage I non-small-cell lung cancer.
+
+Sandoval J(1), Mendez-Gonzalez J, Nadal E, Chen G, Carmona FJ, Sayols S, Moran S,
+Heyn H, Vizoso M, Gomez A, Sanchez-Cespedes M, Assenov Y, Müller F, Bock C, Taron
+M, Mora J, Muscarella LA, Liloglou T, Davies M, Pollan M, Pajares MJ, Torre W,
+Montuenga LM, Brambilla E, Field JK, Roz L, Lo Iacono M, Scagliotti GV, Rosell R,
+Beer DG, Esteller M.
+
+Author information: 
+(1)Juan Sandoval, Jesus Mendez-Gonzalez, F. Javier Carmona, Sergi Sayols,
+Sebastian Moran, Holger Heyn, Miguel Vizoso, Antonio Gomez, Montse
+Sanchez-Cespedes, and Manel Esteller, Bellvitge Biomedical Research Institute;
+Josefina Mora, Hospital de la Santa Creu i Sant Pau; Manel Esteller, University
+of Barcelona and Institucio Catalana de Recerca i Estudis Avançats, Barcelona;
+Miquel Taron and Rafael Rosell, Catalan Institute of Oncology, Badalona,
+Catalonia; Marina Pollan, Instituto de Salud Carlos III, Madrid; Maria J. Pajares
+and Luis M. Montuenga, University of Navarra; Wenceslao Torre, Clínica University
+de Navarra, Pamplona, Spain; Ernest Nadal, Guoan Chen, and David G. Beer,
+University of Michigan Medical School, Ann Arbor, MI; Yassen Assenov and Fabian
+Müller, Max Planck Institute, Saarbrücken, Germany; Christoph Bock, Center for
+Molecular Medicine of the Austrian Academy of Sciences, Vienna, Austria; Lucia A.
+Muscarella, Istituto Di Ricovero e Cura a Carattere Scientifico (IRCCS) Casa
+Sollievo della Sofferenza, San Giovanni Rotondo, Italy; Triantafillos Liloglou,
+Michael Davies, and John K. Field, The University of Liverpool Cancer Research
+Centre, Liverpool, United Kingdom; Elisabeth Brambilla, Centre Hospitalier
+Universitaire A Michallon, Grenoble, France; Luca Roz, IRCCS Foundation National 
+Cancer Institute, Milan; Marco Lo Iacono and Giorgio V. Scagliotti, University of
+Torino, Orbassano (Torino), Italy.
+
+PURPOSE: Non-small-cell lung cancer (NSCLC) is a tumor in which only small
+improvements in clinical outcome have been achieved. The issue is critical for
+stage I patients for whom there are no available biomarkers that indicate which
+high-risk patients should receive adjuvant chemotherapy. We aimed to find DNA
+methylation markers that could be helpful in this regard.
+PATIENTS AND METHODS: A DNA methylation microarray that analyzes 450,000 CpG
+sites was used to study tumoral DNA obtained from 444 patients with NSCLC that
+included 237 stage I tumors. The prognostic DNA methylation markers were
+validated by a single-methylation pyrosequencing assay in an independent cohort
+of 143 patients with stage I NSCLC.
+RESULTS: Unsupervised clustering of the 10,000 most variable DNA methylation
+sites in the discovery cohort identified patients with high-risk stage I NSCLC
+who had shorter relapse-free survival (RFS; hazard ratio [HR], 2.35; 95% CI, 1.29
+to 4.28; P = .004). The study in the validation cohort of the significant
+methylated sites from the discovery cohort found that hypermethylation of five
+genes was significantly associated with shorter RFS in stage I NSCLC: HIST1H4F,
+PCDHGB6, NPBWR1, ALX1, and HOXA9. A signature based on the number of
+hypermethylated events distinguished patients with high- and low-risk stage I
+NSCLC (HR, 3.24; 95% CI, 1.61 to 6.54; P = .001).
+CONCLUSION: The DNA methylation signature of NSCLC affects the outcome of stage I
+patients, and it can be practically determined by user-friendly polymerase chain 
+reaction assays. The analysis of the best DNA methylation biomarkers improved
+prognostic accuracy beyond standard staging.
+
+PMID: 24081945  [PubMed - indexed for MEDLINE]
+
+
+21. Gene Expr Patterns. 2013 Dec;13(8):464-72. doi: 10.1016/j.gep.2013.09.002. Epub
+2013 Sep 16.
+
+Expression of skeletogenic genes during arm regeneration in the brittle star
+Amphiura filiformis.
+
+Czarkwiani A(1), Dylus DV, Oliveri P.
+
+Author information: 
+(1)Research Department of Genetics, Evolution and Environment, UCL, Gower Street,
+London WC1E 6BT, UK.
+
+The brittle star Amphiura filiformis, which regenerates its arms post autotomy,
+is emerging as a useful model for studying the molecular underpinnings of
+regeneration, aided by the recent availability of some molecular resources.
+During regeneration a blastema initially is formed distally to the amputation
+site, and then a rapid rebuild is obtained by adding metameric units, which will 
+eventually differentiate and become fully functional. In this work we first
+characterize the developmental process of the regenerating arms using two
+differentiation markers for muscle and skeletal structures - Afi-trop-1 and
+Afi-acoll. Both genes are not expressed in the blastema and newly added
+undifferentiated metameric units. Their expression at different regenerating
+stages shows an early segregation of muscle and skeletal cells during the
+regenerating process, long before the metameric units become functional. We then 
+studied the expression of a set of genes orthologous of the sea urchin
+transcription factors involved in the development of skeletal and non-skeletal
+mesoderm: Afi-ets1/2, Afi-alx1, Afi-tbr, Afi-foxB and Afi-gataC. We found that
+Afi-ets1/2, Afi-alx1, Afi-foxB and Afi-gataC are all expressed at the blastemal
+stage. As regeneration progresses those genes are expressed in a similar small
+undifferentiated domain beneath the distal growth cap, while in more advanced
+metameric units they become restricted to different skeletal domains. Afi-foxB
+becomes expressed in non-skeletal structures. This suggests that they might play 
+a combinatorial role only in the early cell specification process and that
+subsequently they function independently in the differentiation of different
+structures. Afi-tbr is not present in the adult arm tissue at any stage of
+regeneration. In situ hybridization results have been confirmed with a new
+strategy for quantitative PCR (QPCR), using a subdivision of the three stages of 
+regeneration into proximal (differentiated) and distal (undifferentiated) arm
+segments.
+
+Copyright © 2013 The Authors. Published by Elsevier B.V. All rights reserved.
+
+PMCID: PMC3838619
+PMID: 24051028  [PubMed - indexed for MEDLINE]
+
+
+22. Oncol Lett. 2013 Apr;5(4):1211-1218. Epub 2013 Jan 29.
+
+Abnormal methylation of seven genes and their associations with clinical
+characteristics in early stage non-small cell lung cancer.
+
+Zhao Y(1), Zhou H, Ma K, Sun J, Feng X, Geng J, Gu J, Wang W, Zhang H, He Y, Guo 
+S, Zhou X, Yu J, Lin Q.
+
+Author information: 
+(1)State Key Laboratory of Oncogenes and Related Genes, Shanghai Cancer
+Institute, Renji Hospital, Shanghai Jiao Tong University School of Medicine,
+Shanghai 200032;
+
+To identify novel abnormally methylated genes in early stage non-small cell lung 
+cancer (NSCLC), we analyzed the methylation status of 13 genes (ALX1, BCL2,
+FOXL2, HPP1, MYF6, OC2, PDGFRA, PHOX2A, PITX2, RARB, SIX6, SMPD3 and SOX1) in
+cancer tissues from 101 cases of stage I NSCLC patients and lung tissues from 30 
+cases of non-cancerous lung disease controls, using methylation-specific PCR
+(MSP). The methylation frequencies (29.70-64.36%) of 7 genes (MYF6, SIX6, SOX1,
+RARB, BCL2, PHOX2A and FOLX2) in stage I NSCLC were significantly higher compared
+with those in non-cancerous lung disease controls (P<0.05). The co-methylation of
+SIX6 and SOX1, or the co-methyaltion of SIX6, RARB and SOX1 was associated with
+adenosquamous carcinoma (ADC), and the co-methylation of BCL2, RARB and SIX6 was 
+associated with smoking. A panel of 4 genes (MYF6, SIX6, BCL2 and RARB) may offer
+a sensitivity of 93.07% and a specificity of 83.33% in the diagnosis of stage I
+NSCLC. Furthermore, we also detected the expression of 8 pathological markers
+(VEGF, HER-2, P53, P21, EGFR, CHGA, SYN and EMA) in cancer tissues of stage I
+NSCLC by immunohistochemistry, and found that high expression levels of p53 and
+CHGA were associated with the methylation of BCL2 (P=0.025) and PHOX2A (P=0.023),
+respectively. In this study, among the 7 genes which demonstrated
+hypermethylation in stage I NSCLC compared with non-cancerous lung diseases, 5
+genes (MYF6, SIX6, PHOX2A, FOLX2 and SOX1) were found for the first time to be
+abonormally methylated in NSCLC. Further study of these genes shed light on the
+carcinogenesis of NSCLC.
+
+PMCID: PMC3629069
+PMID: 23599765  [PubMed]
+
+
+23. Am J Med Genet A. 2013 Mar;161A(3):600-4. doi: 10.1002/ajmg.a.35762. Epub 2013
+Feb 7.
+
+Vertical transmission of a frontonasal phenotype caused by a novel ALX4 mutation.
+
+Bertola DR(1), Rodrigues MG, Quaio CR, Kim CA, Passos-Bueno MR.
+
+Author information: 
+(1)Instituto da Criança - HC/FMUSP, São Paulo, Brazil. debora.bertola@icr.usp.br
+
+Frontonasal dysplasias (FND) comprise a spectrum of disorders caused by abnormal 
+median facial development. Its etiology is still poorly understood but recently
+frontonasal dysplasia phenotypes were linked to loss-of-function mutations in the
+ALX homeobox gene family, which comprises the ALX1, ALX3, and ALX4 genes. All
+ALX-related frontonasal phenotypes till date had been compatible with an
+autosomal recessive mode of inheritance. In contrast, heterozygous
+loss-of-function mutations in ALX4 had been only associated with isolated
+symmetrical parietal ossification defects at the intersection of the sagittal and
+lambdoid sutures, known as enlarged parietal foramina. We report a family with
+vertical transmission from mother to son of mild frontonasal dysplasia phenotype 
+caused by a novel ALX4 gene mutation
+(c.1080-1089_delGACCCGGTGCinsCTAAGATCTCAACAGAGATGGCAACT, p.Asp326fsX21).This is
+the first report of a frontonasal phenotype related to a heterozygous mutation in
+ALX4. This mutation is predicted to cause the loss of the aristaless domain in
+the C-terminal region of the protein and preserves the homeodomain. We speculate 
+that a different mechanism, a dominant-negative effect, is responsible for the
+distinct phenotype in this family.
+
+Copyright © 2013 Wiley Periodicals, Inc.
+
+PMID: 23401352  [PubMed - indexed for MEDLINE]
+
+
+24. Cancer Res. 2013 Mar 1;73(5):1581-90. doi: 10.1158/0008-5472.CAN-12-2377. Epub
+2013 Jan 3.
+
+ALX1 induces snail expression to promote epithelial-to-mesenchymal transition and
+invasion of ovarian cancer cells.
+
+Yuan H(1), Kajiyama H, Ito S, Yoshikawa N, Hyodo T, Asano E, Hasegawa H, Maeda M,
+Shibata K, Hamaguchi M, Kikkawa F, Senga T.
+
+Author information: 
+(1)Department of Obstetrics and Gynecology and Division of Cancer Biology, Nagoya
+University Graduate School of Medicine, Showa, Nagoya, Japan.
+
+Ovarian cancer is a highly invasive and metastatic disease with a poor prognosis 
+if diagnosed at an advanced stage, which is often the case. Recent studies argue 
+that ovarian cancer cells that have undergone epithelial-to-mesenchymal
+transition (EMT) acquire aggressive malignant properties, but the relevant
+molecular mechanisms in this setting are not well-understood. Here, we report
+findings from an siRNA screen that identified the homeobox transcription factor
+ALX1 as a novel regulator of EMT. RNA interference-mediated attenuation of ALX1
+expression restored E-cadherin expression and cell-cell junction formation in
+ovarian cancer cells, suppressing cell invasion, anchorage-independent growth,
+and tumor formation. Conversely, enforced expression of ALX1 in ovarian cancer
+cells or nontumorigenic epithelial cells induced EMT. We found that ALX1
+upregulated expression of the key EMT regulator Snail (SNAI1) and that it
+mediated EMT activation and cell invasion by ALX1. Our results define the
+ALX1/Snail axis as a novel EMT pathway that mediates cancer invasion.
+
+©2012 AACR.
+
+PMID: 23288509  [PubMed - indexed for MEDLINE]
+
+
+25. J Turk Ger Gynecol Assoc. 2013 Mar 1;14(1):50-2. doi: 10.5152/jtgga.2013.12.
+eCollection 2013.
+
+Prenatal diagnosis of frontonasal dysplasia with anterior encephalocele.
+
+Esmer AÇ(1), Kalelioglu I(1), Kayserili H(2), Yüksel A(1), Has R(1).
+
+Author information: 
+(1)Department of Obstetrics and Gynecology, Istanbul University Istanbul Faculty 
+of Medicine, Istanbul, Turkey. (2)Department of Medical Genetics, Istanbul
+University Istanbul Faculty of Medicine, Istanbul, Turkey.
+
+Frontonasal dysplasia is a rare congenital anomaly affecting the eyes, nose and
+forehead, and occurs sporadically in most of the cases. A 24-year-old woman was
+referred to our unit at 27 weeks gestation due to the preliminary diagnosis of
+encephalocele. The sagittal and axial sonography of the fetal face depicted a
+midline mass measuring 3.8 × 4.2 cm, projecting anteriorly between the fetal
+orbits and extending from the the upper aspects of the forehead to the nasal
+bridge, which was consistent with the frontal (anterior) encephalocele. There
+were prominent hypertelorism and two facial clefts, and the nostrils were
+extremely separated. Following genetic counseling, the couple requested
+termination of pregnancy. Fetal pathologic examination confirmed the diagnosis of
+frontonasal dysplasia and anterior encephalocele with no additional major
+malformation. The fetal karyotype was normal and no mutation in the ALX1 gene was
+found, excluding ALX1-related frontonasal dysplasia in the differential
+diagnosis. Fetuses with neural tube defect may suffer from associated syndromes
+and disorders, as with our case. The presence of frontonasal dyplasia should be
+considered when an anterior encephalocele is detected by ultrasonography.
+
+Publisher: Abstract available from the publisher.
+PMCID: PMC3881724
+PMID: 24592072  [PubMed]
+
+
+26. Comput Biol Med. 2012 Nov;42(11):1141-9. doi: 10.1016/j.compbiomed.2012.09.006.
+Epub 2012 Oct 10.
+
+Meta analysis of gene expression changes upon treatment of A549 cells with
+anti-cancer drugs to identify universal responses.
+
+Agrawal M(1), Gadgil M.
+
+Author information: 
+(1)Chemical Engineering and Process Development Division, CSIR-National Chemical 
+Laboratory, Pune 411008, India.
+
+A meta-analysis of publicly available gene expression changes in A549 cells upon 
+treatment with anti-cancer drugs is reported. To reduce false positives, both
+fold-change and significance level cutoffs were used. Simulated datasets and
+permutation analysis were used to guide choice of ratio cutoff. Of the genes
+identified, FDXR is the only gene differentially expressed in six of the seven
+drug treatments. Though FDXR has been reported to be differentially expressed
+upon treatment with 5-fluorouracil and its expression correlated to long term
+disease survival, to our knowledge this is a first study implicating a wide
+effect of anti-cancer drug treatment on FDXR expression. The other genes
+identified which are differentially expressed in four out of the seven drug
+treatments are CDKN1A and PARVB which are upregulated and MYC, HBP1, LDLR, SIM2, 
+ALX1 and GPHN which are downregulated.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+PMID: 23063289  [PubMed - indexed for MEDLINE]
+
+
+27. Hum Mol Genet. 2013 Jan 15;22(2):239-51. doi: 10.1093/hmg/dds423. Epub 2012 Oct
+11.
+
+Defective neural crest migration revealed by a Zebrafish model of Alx1-related
+frontonasal dysplasia.
+
+Dee CT(1), Szymoniuk CR, Mills PE, Takahashi T.
+
+Author information: 
+(1)Faculty of Life Sciences, University of Manchester, Oxford Road, Manchester
+M13 9PT, UK.
+
+Frontonasal dysplasia (FND) refers to a class of midline facial malformations
+caused by abnormal development of the facial primordia. The term encompasses a
+spectrum of severities but characteristic features include combinations of ocular
+hypertelorism, malformations of the nose and forehead and clefting of the facial 
+midline. Several recent studies have drawn attention to the importance of Alx
+homeobox transcription factors during craniofacial development. Most notably,
+loss of Alx1 has devastating consequences resulting in severe orofacial clefting 
+and extreme microphthalmia. In contrast, mutations of Alx3 or Alx4 cause milder
+forms of FND. Whilst Alx1, Alx3 and Alx4 are all known to be expressed in the
+facial mesenchyme of vertebrate embryos, little is known about the function of
+these proteins during development. Here, we report the establishment of a
+zebrafish model of Alx-related FND. Morpholino knock-down of zebrafish alx1
+expression causes a profound craniofacial phenotype including loss of the facial 
+cartilages and defective ocular development. We demonstrate for the first time
+that Alx1 plays a crucial role in regulating the migration of cranial neural
+crest (CNC) cells into the frontonasal primordia. Abnormal neural crest migration
+is coincident with aberrant expression of foxd3 and sox10, two genes previously
+suggested to play key roles during neural crest development, including migration,
+differentiation and the maintenance of progenitor cells. This novel function is
+specific to Alx1, and likely explains the marked clinical severity of Alx1
+mutation within the spectrum of Alx-related FND.
+
+PMID: 23059813  [PubMed - indexed for MEDLINE]
+
+
+28. Evodevo. 2012 Aug 9;3(1):17. doi: 10.1186/2041-9139-3-17.
+
+Development of an embryonic skeletogenic mesenchyme lineage in a sea cucumber
+reveals the trajectory of change for the evolution of novel structures in
+echinoderms.
+
+McCauley BS(1), Wright EP, Exner C, Kitazawa C, Hinman VF.
+
+Author information: 
+(1)Department of Biological Sciences, Carnegie Mellon University, 4400 5th
+Avenue, Pittsburgh, PA, 15213, USA. veronica@cmu.edu.
+
+BACKGROUND: The mechanisms by which the conserved genetic "toolkit" for
+development generates phenotypic disparity across metazoans is poorly understood.
+Echinoderm larvae provide a great resource for understanding how developmental
+novelty arises. The sea urchin pluteus larva is dramatically different from basal
+echinoderm larval types, which include the auricularia-type larva of its sister
+taxon, the sea cucumbers, and the sea star bipinnaria larva. In particular, the
+pluteus has a mesodermally-derived larval skeleton that is not present in sea
+star larvae or any outgroup taxa. To understand the evolutionary origin of this
+structure, we examined the molecular development of mesoderm in the sea cucumber,
+Parastichopus parvimensis.
+RESULTS: By comparing gene expression in sea urchins, sea cucumbers and sea
+stars, we partially reconstructed the mesodermal regulatory state of the
+echinoderm ancestor. Surprisingly, we also identified expression of the
+transcription factor alx1 in a cryptic skeletogenic mesenchyme lineage in P.
+parvimensis. Orthologs of alx1 are expressed exclusively within the sea urchin
+skeletogenic mesenchyme, but are not expressed in the mesenchyme of the sea star,
+which suggests that alx1+ mesenchyme is a synapomorphy of at least sea urchins
+and sea cucumbers. Perturbation of Alx1 demonstrates that this protein is
+necessary for the formation of the sea cucumber spicule. Overexpression of the
+sea star alx1 ortholog in sea urchins is sufficient to induce additional
+skeleton, indicating that the Alx1 protein has not evolved a new function during 
+the evolution of the larval skeleton.
+CONCLUSIONS: The proposed echinoderm ancestral mesoderm state is highly conserved
+between the morphologically similar, but evolutionarily distant, auricularia and 
+bipinnaria larvae. However, the auricularia, but not bipinnaria, also develops a 
+simple skelotogenic cell lineage. Our data indicate that the first step in
+acquiring these novel cell fates was to re-specify the ancestral mesoderm into
+molecularly distinct territories. These new territories likely consisted of only 
+a few cells with few regulatory differences from the ancestral state, thereby
+leaving the remaining mesoderm to retain its original function. The new
+territories were then free to take on a new fate. Partitioning of existing gene
+networks was a necessary pre-requisite to establish novelty in this system.
+
+PMCID: PMC3482387
+PMID: 22877149  [PubMed]
+
+
+29. Evol Dev. 2011 Jul-Aug;13(4):343-51. doi: 10.1111/j.1525-142X.2011.00489.x.
+
+Evolution of the Alx homeobox gene family: parallel retention and independent
+loss of the vertebrate Alx3 gene.
+
+McGonnell IM(1), Graham A, Richardson J, Fish JL, Depew MJ, Dee CT, Holland PW,
+Takahashi T.
+
+Author information: 
+(1)Reproduction and Development, The Royal Veterinary College, Royal College
+Street, London NW1 0TU, UK. imcgonnell@rvc.ac.uk
+
+The Alx gene family is implicated in craniofacial development and comprises two
+to four homeobox genes in each vertebrate genome analyzed. Using phylogenetics
+and comparative genomics, we show that the common ancestor of jawed vertebrates
+had three Alx genes descendent from the two-round genome duplications (Alx1,
+Alx3, Alx4), compared with a single amphioxus gene. Later in evolution one of the
+paralogues, Alx3, was lost independently from at least three different vertebrate
+lineages, whereas Alx1 and Alx4 were consistently retained. Comparison of spatial
+gene expression patterns reveals that the three mouse genes have equivalent
+craniofacial expression to the two chick and frog genes, suggesting that
+redundancy compensated for gene loss. We suggest that multiple independent loss
+of one Alx gene was predisposed by extensive and persistent overlap in gene
+expression between Alx paralogues. Even so, it is unclear whether it was
+coincidence or evolutionary bias that resulted in the same Alx gene being lost on
+each occasion, rather than different members of the gene family.
+
+© 2011 Wiley Periodicals, Inc.
+
+PMCID: PMC3166657
+PMID: 21740507  [PubMed - indexed for MEDLINE]
+
+
+30. Dev Biol. 2011 Sep 15;357(2):505-17. doi: 10.1016/j.ydbio.2011.06.016. Epub 2011 
+Jun 30.
+
+Precise cis-regulatory control of spatial and temporal expression of the alx-1
+gene in the skeletogenic lineage of s. purpuratus.
+
+Damle S(1), Davidson EH.
+
+Author information: 
+(1)Division of Biology, California Institute of Technology, Pasadena, CA 91125,
+USA.
+
+Deployment of the gene-regulatory network (GRN) responsible for skeletogenesis in
+the embryo of the sea urchin Strongylocentrotus purpuratus is restricted to the
+large micromere lineage by a double negative regulatory gate. The gate consists
+of a GRN subcircuit composed of the pmar1 and hesC genes, which encode repressors
+and are wired in tandem, plus a set of target regulatory genes under hesC
+control. The skeletogenic cell state is specified initially by micromere-specific
+expression of these regulatory genes, viz. alx1, ets1, tbrain and tel, plus the
+gene encoding the Notch ligand Delta. Here we use a recently developed high
+throughput methodology for experimental cis-regulatory analysis to elucidate the 
+genomic regulatory system controlling alx1 expression in time and embryonic
+space. The results entirely confirm the double negative gate control system at
+the cis-regulatory level, including definition of the functional HesC target
+sites, and add the crucial new information that the drivers of alx1 expression
+are initially Ets1, and then Alx1 itself plus Ets1. Cis-regulatory analysis
+demonstrates that these inputs quantitatively account for the magnitude of alx1
+expression. Furthermore, the Alx1 gene product not only performs an
+auto-regulatory role, promoting a fast rise in alx1 expression, but also, when at
+high levels, it behaves as an auto-repressor. A synthetic experiment indicates
+that this behavior is probably due to dimerization. In summary, the results we
+report provide the sequence level basis for control of alx1 spatial expression by
+the double negative gate GRN architecture, and explain the rising, then falling
+temporal expression profile of the alx1 gene in terms of its auto-regulatory
+genetic wiring.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+PMCID: PMC3164750
+PMID: 21723273  [PubMed - indexed for MEDLINE]
+
+
+31. BMC Med Genet. 2011 May 20;12:70. doi: 10.1186/1471-2350-12-70.
+
+Clinical and molecular characterization of a transmitted reciprocal translocation
+t(1;12)(p32.1;q21.3) in a family co-segregating with mental retardation, language
+delay, and microcephaly.
+
+Liao HM(1), Fang JS, Chen YJ, Wu KL, Lee KF, Chen CH.
+
+Author information: 
+(1)Institute of Biotechnology, National Tsing-Hua University, Hsinchu, Taiwan.
+
+BACKGROUND: Chromosome translocation associated with neurodevelopmental disorders
+provides an opportunity to identify new disease-associated genes and gain new
+insight into their function. During chromosome analysis, we identified a
+reciprocal translocation between chromosomes 1p and 12q, t(1; 12)(p32.1; q21.3), 
+co-segregating with microcephaly, language delay, and severe psychomotor
+retardation in a mother and her two affected boys.
+METHODS: Fluorescence in situ hybridization (FISH), long-range PCR, and direct
+sequencing were used to map the breakpoints on chromosomes 1p and 12q. A reporter
+gene assay was conducted in human neuroblastoma (SKNSH) and Chinese hamster ovary
+(CHO) cell lines to assess the functional implication of the fusion sequences
+between chromosomes 12 and 1.
+RESULTS: We determined both breakpoints at the nucleotide level. Neither
+breakpoint disrupted any known gene directly. The breakpoint on chromosome 1p was
+located amid a gene-poor region of ~ 1.1 Mb, while the breakpoint on chromosome
+12q was located ~ 3.4 kb downstream of the ALX1 gene, a homeobox gene. In the
+reporter gene assay, we discovered that the fusion sequences construct between
+chromosomes 12 and 1 had a ~ 1.5 to 2-fold increased reporter gene activity
+compared with the corresponding normal chromosome 12 sequences construct.
+CONCLUSION: Our findings imply that the translocation may enhance the expression 
+of the ALX1 gene via the position effect and result in the clinical symptoms of
+this family. Our findings may also expand the clinical phenotype spectrum of
+ALX1-related human diseases as loss of the ALX1 function was recently reported to
+result in abnormal craniofacial development.
+
+PMCID: PMC3125236
+PMID: 21595979  [PubMed - indexed for MEDLINE]
+
+
+32. Dev Dyn. 2011 May;240(5):1063-86. doi: 10.1002/dvdy.22605. Epub 2011 Mar 17.
+
+Pbx homeodomain proteins: TALEnted regulators of limb patterning and outgrowth.
+
+Capellini TD(1), Zappavigna V, Selleri L.
+
+Author information: 
+(1)Department of Cell and Developmental Biology, Weill Medical College of Cornell
+University, New York, New York, USA.
+
+Limb development has long provided an excellent model for understanding the
+genetic principles driving embryogenesis. Studies utilizing chick and mouse have 
+led to new insights into limb patterning and morphogenesis. Recent research has
+centered on the regulatory networks underlying limb development. Here, we discuss
+the hierarchical, overlapping, and iterative roles of Pbx family members in
+appendicular development that have emerged from genetic analyses in the mouse.
+Pbx genes are essential in determining limb bud positioning, early bud formation,
+limb axes establishment and coordination, and patterning and morphogenesis of
+most elements of the limb and girdle. Pbx proteins directly regulate critical
+effectors of limb and girdle development, including morphogen-encoding genes like
+Shh in limb posterior mesoderm, and transcription factor-encoding genes like Alx1
+in pre-scapular domains. Interestingly, at least in limb buds, Pbx appear to act 
+not only as Hox cofactors, but also in the upstream control of 5' HoxA/D gene
+expression.
+
+Copyright © 2011 Wiley-Liss, Inc.
+
+PMCID: PMC3081394
+PMID: 21416555  [PubMed - indexed for MEDLINE]
+
+
+33. Dev Dyn. 2010 Dec;239(12):3391-403. doi: 10.1002/dvdy.22476.
+
+Conserved early expression patterns of micromere specification genes in two
+echinoid species belonging to the orders clypeasteroida and echinoida.
+
+Yamazaki A(1), Furuzawa Y, Yamaguchi M.
+
+Author information: 
+(1)Division of Life Science, Graduate School of Natural Science and Technology,
+Kanazawa University, Kakuma, Kanazawa, Japan.
+
+The micromere gene regulatory network (GRN) has been extensively examined using
+sea urchins belonging to the order Echinoida. To examine whether the network of
+Echinoida species is conserved in Scaphechinus mirabilis, an irregular echinoid
+of the order Clypeasteroida, the genes micro1, hesC, alx1, ets1, and delta were
+isolated from S. mirabilis and their expression patterns were compared with those
+from Hemicentrotus pulcherrimus, a species belonging to the order Echinoida. Data
+from this study suggest that the early GRN architecture had been largely
+established in a common ancestor of these two species. On the other hand, we
+found vegetal shifts in expression domains of some GRN members in H. pulcherrimus
+embryos compared to S. mirabilis embryos.
+
+© 2010 Wiley-Liss, Inc.
+
+PMID: 21046631  [PubMed - indexed for MEDLINE]
+
+
+34. BMC Med Genet. 2010 Oct 8;11:141. doi: 10.1186/1471-2350-11-141.
+
+Genes encoding critical transcriptional activators for murine neural tube
+development and human spina bifida: a case-control study.
+
+Lu W(1), Guzman AR, Yang W, Chapa CJ, Shaw GM, Greene RM, Pisano MM, Lammer EJ,
+Finnell RH, Zhu H.
+
+Author information: 
+(1)Dell Pediatric Research Institute, UT Austin, Austin, TX, USA.
+
+BACKGROUND: Spina bifida is a malformation of the neural tube and is the most
+common of neural tube defects (NTDs). The etiology of spina bifida is largely
+unknown, although it is thought to be multi-factorial, involving multiple
+interacting genes and environmental factors. Mutations in transcriptional
+co-activator genes-Cited2, p300, Cbp, Tfap2a, Carm1 and Cart1 result in NTDs in
+murine models, thus prompt us to investigate whether homologues of these genes
+are associated with NTDs in humans.
+METHODS: Data and biological samples from 297 spina bifida cases and 300 controls
+were derived from a population-based case-control study conducted in California. 
+37 SNPs within CITED2, EP300, CREBBP, TFAP2A, CARM1 and ALX1 were genotyped using
+an ABI SNPlex assay. Odds ratios and 95% confidence intervals were calculated for
+alleles, genotypes and haplotypes to evaluate the risk for spina bifida.
+RESULTS: Several SNPs showed increased or decreased risk, including CITED2
+rs1131431 (OR = 5.32, 1.04~27.30), EP300 rs4820428 (OR = 1.30, 1.01~1.67), EP300 
+rs4820429 (OR = 0.50, 0.26~0.50, in whites, OR = 0.7, 0.49~0.99 in all subjects),
+EP300 rs17002284 (OR = 0.43, 0.22~0.84), TFAP2A rs3798691 (OR = 1.78, 1.13~2.87
+in Hispanics), CREBBP rs129986 (OR = 0.27, 0.11~0.69), CARM1 rs17616105 (OR =
+0.41, 0.22~0.72 in whites). In addition, one haplotype block in EP300 and one in 
+TFAP2A appeared to be associated with increased risk.
+CONCLUSIONS: Modest associations were observed in CITED2, EP300, CREBBP, TFAP2A
+and CARM1 but not ALX1. However, these modest associations were not statistically
+significant after correction for multiple comparisons. Searching for potential
+functional variants and rare causal mutations is warranted in these genes.
+
+PMCID: PMC2964532
+PMID: 20932315  [PubMed - indexed for MEDLINE]
+
+
+35. J Cell Biochem. 2010 Dec 15;111(6):1437-44. doi: 10.1002/jcb.22871.
+
+Expression of homeobox genes in oral squamous cell carcinoma cell lines treated
+with all-trans retinoic acid.
+
+Acquafreda T(1), Nunes FD, Soprano DR, Soprano KJ.
+
+Author information: 
+(1)Department of Oral Pathology, School of Dentistry, University of São Paulo,
+São Paulo, Brazil.
+
+Oral squamous cell carcinoma (OSCC) may arise from potentially malignant oral
+lesions. All-trans retinoic acid (atRA), which plays a role in cell growth and
+differentiation, has been studied as a possible chemotherapeutic agent in the
+prevention of this progression. While the mechanism by which atRA suppresses cell
+growth has not been completely elucidated, it is known that homeobox genes are
+atRA targets. To determine if these genes are involved in the atRA-mediated OSCC 
+growth inhibition, PCR array was performed to evaluate the expression of 84
+homeobox genes in atRA-sensitive SCC-25 cells compared to atRA-resistant SCC-9
+cells following 7 days with atRA treatment. Results showed that the expression of
+8 homeobox genes was downregulated and expression of 4 was upregulated in SCC-25 
+cells but not in SCC-9 cells. Gene expression levels were confirmed for seven of 
+these genes by RT-qPCR. Expression of three genes that showed threefold
+downregulation was evaluated in SCC-25 cells treated with atRA for 3, 5, and 7
+days. Three different patterns of atRA-dependent gene expression were observed.
+ALX1 showed downregulation only on day 7. DLX3 showed reduced expression on day 3
+and further reduced on day 7. TLX1 showed downregulation only on days 5 and 7.
+Clearly the expression of homeobox genes is modulated by atRA in OSCC cell lines.
+However, the time course of this modulation suggests that these genes are not
+direct targets of atRA mediating OSCC growth suppression. Instead they appear to 
+act as downstream effectors of atRA signaling.
+
+Copyright © 2010 Wiley-Liss, Inc.
+
+PMID: 20830740  [PubMed - indexed for MEDLINE]
+
+
+36. Development. 2010 Aug 1;137(15):2559-69. doi: 10.1242/dev.048819.
+
+Scapula development is governed by genetic interactions of Pbx1 with its family
+members and with Emx2 via their cooperative control of Alx1.
+
+Capellini TD(1), Vaccari G, Ferretti E, Fantini S, He M, Pellegrini M, Quintana
+L, Di Giacomo G, Sharpe J, Selleri L, Zappavigna V.
+
+Author information: 
+(1)Department of Cell and Developmental Biology, Weill Medical College of Cornell
+University, 1300 York Avenue, New York, NY 10021, USA.
+
+The genetic pathways underlying shoulder blade development are largely unknown,
+as gene networks controlling limb morphogenesis have limited influence on scapula
+formation. Analysis of mouse mutants for Pbx and Emx2 genes has suggested their
+potential roles in girdle development. In this study, by generating compound
+mutant mice, we examined the genetic control of scapula development by Pbx genes 
+and their functional relationship with Emx2. Analyses of Pbx and Pbx1;Emx2
+compound mutants revealed that Pbx genes share overlapping functions in shoulder 
+development and that Pbx1 genetically interacts with Emx2 in this process. Here, 
+we provide a biochemical basis for Pbx1;Emx2 genetic interaction by showing that 
+Pbx1 and Emx2 can bind specific DNA sequences as heterodimers. Moreover, the
+expression of genes crucial for scapula development is altered in these mutants, 
+indicating that Pbx genes act upstream of essential pathways for scapula
+formation. In particular, expression of Alx1, an effector of scapula blade
+patterning, is absent in all compound mutants. We demonstrate that Pbx1 and Emx2 
+bind in vivo to a conserved sequence upstream of Alx1 and cooperatively activate 
+its transcription via this potential regulatory element. Our results establish an
+essential role for Pbx1 in genetic interactions with its family members and with 
+Emx2 and delineate novel regulatory networks in shoulder girdle development.
+
+PMCID: PMC2927673
+PMID: 20627960  [PubMed - indexed for MEDLINE]
+
+
+37. Birth Defects Res A Clin Mol Teratol. 2010 Aug;88(8):619-25. doi:
+10.1002/bdra.20695.
+
+Cecr2 mutations causing exencephaly trigger misregulation of
+mesenchymal/ectodermal transcription factors.
+
+Fairbridge NA(1), Dawe CE, Niri FH, Kooistra MK, King-Jones K, McDermid HE.
+
+Author information: 
+(1)Department of Biological Sciences, University of Alberta, Edmonton, Canada.
+
+BACKGROUND: Over 200 mouse genes are associated with neural tube defects (NTDs), 
+including Cecr2, the bromodomain-containing subunit of the CERF chromatin
+remodeling complex.
+METHODS: Gene-trap mutation Cecr2(Gt45Bic) results in 74% exencephaly (equivalent
+of human anencephaly) on the BALB/c strain. Gene expression altered during
+cranial neural tube closure by the Cecr2 mutation was identified through
+microarray analysis of 11-14 somites stage Cecr2(Gt45Bic)embryos.
+RESULTS: Analysis of Affymetrix Mouse 430 2.0 chips detected 60 transcripts
+up-regulated and 54 transcripts down-regulated in the Cecr2(Gt45Bic) embryos
+(fold > 1.5, p < 0.05). The Cecr2 transcript was reduced only approximately 7- to
+14-fold from normal levels, suggesting the Cecr2(Gt45Bic) is a hypomorphic
+mutation. We therefore generated a novel Cecr2 null allele (Cecr2 (tm1.1Hemc)).
+Resulting mutants displayed a stronger penetrance of exencephaly than
+Cecr2(Gt45Bic) in both BALB/c and FVB/N strains, in addition to midline facial
+clefts and forebrain encephalocele in the FVB/N strain. The Cecr2 transcript is
+reduced 260-fold in the Cecr2(tm1.1Hemc) line. Subsequent qRT-PCR using Cecr2
+(tm1.1Hemc) mutant heads confirmed downregulation of transcription factors
+Alx1/Cart1, Dlx5, Eya1, and Six1.
+CONCLUSIONS: As both Alx1/Cart1 and Dlx5 mouse mutations result in exencephaly,
+we hypothesize that changes in expression of these mesenchymal/ectodermal
+transcription factors may contribute to NTDs associated with Cecr2.
+
+PMID: 20589882  [PubMed - indexed for MEDLINE]
+
+
+38. Am J Hum Genet. 2010 May 14;86(5):789-96. doi: 10.1016/j.ajhg.2010.04.002. Epub
+2010 May 6.
+
+Disruption of ALX1 causes extreme microphthalmia and severe facial clefting:
+expanding the spectrum of autosomal-recessive ALX-related frontonasal dysplasia.
+
+Uz E(1), Alanay Y, Aktas D, Vargel I, Gucer S, Tuncbilek G, von Eggeling F,
+Yilmaz E, Deren O, Posorski N, Ozdag H, Liehr T, Balci S, Alikasifoglu M, Wollnik
+B, Akarsu NA.
+
+Author information: 
+(1)Gene Mapping Laboratory, Department of Medical Genetics, Hacettepe University 
+Medical Faculty, Sihhiye, Ankara, Turkey.
+
+We present an autosomal-recessive frontonasal dysplasia (FND) characterized by
+bilateral extreme microphthalmia, bilateral oblique facial cleft, complete cleft 
+palate, hypertelorism, wide nasal bridge with hypoplasia of the ala nasi, and
+low-set, posteriorly rotated ears in two distinct families. Using Affymetrix 250K
+SNP array genotyping and homozygosity mapping, we mapped this clinical entity to 
+chromosome 12q21. In one of the families, three siblings were affected, and CNV
+analysis of the critical region showed a homozygous 3.7 Mb deletion containing
+the ALX1 (CART1) gene, which encodes the aristaless-like homeobox 1 transcription
+factor. In the second family we identified a homozygous donor-splice-site
+mutation (c.531+1G > A) in the ALX1 gene, providing evidence that complete loss
+of function of ALX1 protein causes severe disruption of early craniofacial
+development. Unlike loss of its murine ortholog, loss of human ALX1 does not
+result in neural-tube defects; however, it does severely affect the orchestrated 
+fusion between frontonasal, nasomedial, nasolateral, and maxillary processes
+during early-stage embryogenesis. This study further expands the spectrum of the 
+recently recognized autosomal-recessive ALX-related FND phenotype in humans.
+
+Copyright (c) 2010 The American Society of Human Genetics. Published by Elsevier 
+Inc. All rights reserved.
+
+PMCID: PMC2869009
+PMID: 20451171  [PubMed - indexed for MEDLINE]
+
+
+39. Development. 2010 Apr;137(7):1149-57. doi: 10.1242/dev.048652. Epub 2010 Feb 24.
+
+Activation of the skeletogenic gene regulatory network in the early sea urchin
+embryo.
+
+Sharma T(1), Ettensohn CA.
+
+Author information: 
+(1)Department of Biological Sciences, Carnegie Mellon University, 4400 Fifth
+Avenue, Pittsburgh, PA 15213, USA.
+
+The gene regulatory network (GRN) that underlies the development of the embryonic
+skeleton in sea urchins is an important model for understanding the architecture 
+and evolution of developmental GRNs. The initial deployment of the network is
+thought to be regulated by a derepression mechanism, which is mediated by the
+products of the pmar1 and hesC genes. Here, we show that the activation of the
+skeletogenic network occurs by a mechanism that is distinct from the
+transcriptional repression of hesC. By means of quantitative, fluorescent
+whole-mount in situ hybridization, we find that two pivotal early genes in the
+network, alx1 and delta, are activated in prospective skeletogenic cells prior to
+the downregulation of hesC expression. An analysis of the upstream regulation of 
+alx1 shows that this gene is regulated by MAPK signaling and by the transcription
+factor Ets1; however, these inputs influence only the maintenance of alx1
+expression and not its activation, which occurs by a distinct mechanism. By
+altering normal cleavage patterns, we show that the zygotic activation of alx1
+and delta, but not that of pmar1, is dependent upon the unequal division of
+vegetal blastomeres. Based on these findings, we conclude that the widely
+accepted double-repression model is insufficient to account for the localized
+activation of the skeletogenic GRN. We postulate the existence of additional,
+unidentified repressors that are controlled by pmar1, and propose that the
+ability of pmar1 to derepress alx1 and delta is regulated by the unequal division
+of vegetal blastomeres.
+
+PMID: 20181745  [PubMed - indexed for MEDLINE]
+
+
+40. Int J Dev Biol. 2009;53(7):1097-104. doi: 10.1387/ijdb.072489vb.
+
+CBP/p300 and associated transcriptional co-activators exhibit distinct expression
+patterns during murine craniofacial and neural tube development.
+
+Bhattacherjee V(1), Horn KH, Singh S, Webb CL, Pisano MM, Greene RM.
+
+Author information: 
+(1)University of Louisville Birth Defects Center, Department of Molecular,
+Cellular and Craniofacial Biology, ULSD, KY 40292, USA.
+
+Mutations in each of the transcriptional co-activator genes - CBP, p300, Cited2, 
+Cart1 and Carm1 - result in neural tube defects in mice. The present study thus
+furnishes a complete and comparative temporal and spatial expression map of
+CBP/p300 and associated transcriptional co-activators, Cited2, Cart1 and Carm1
+during the period of murine neural tube development (embryonic days 8.5 to 10.5).
+Each co-activator except Cart1 was expressed in the dorsal neural folds on E8.5. 
+Although CBP and p300 are functionally interchangeable in vitro, their respective
+expression patterns diverge during embryogenesis before neural fold fusion is
+complete. CBP gene expression was lost from the neural folds by E8.75 and was
+thereafter weakly expressed in the maxillary region and limb buds, while p300
+exhibited strong expression in the first branchial arch, limb bud and
+telencephalic regions on E9.5. Cart1 exhibited strong expression in the forebrain
+mesenchyme from E9.0 through E10.5. Although CBP, p300, Carm1 and Cited2 share
+temporal expression on E8.5, these co-activators have different spatial
+expression in mesenchyme and/or the neuroepithelium. Nevertheless,
+co-localization to the dorsal neural folds on E8.5 suggests a functional role in 
+elevation and/or fusion of the neural folds. Target genes, and pathways that
+promote cranial neural tube fusion that are activated by
+CBP/p300/Carm1/Cited2/Cart1-containing transcriptional complexes await
+elucidation.
+
+PMCID: PMC2746635
+PMID: 19598128  [PubMed - indexed for MEDLINE]
+
+
+41. Mech Dev. 2009 Aug-Sep;126(8-9):611-23. doi: 10.1016/j.mod.2009.06.1083. Epub
+2009 Jun 21.
+
+Structure-function correlation of micro1 for micromere specification in sea
+urchin embryos.
+
+Yamazaki A(1), Ki S, Kokubo T, Yamaguchi M.
+
+Author information: 
+(1)Division of Life Science, Graduate School of Natural Science and Technology,
+Kanazawa University, Kakuma, Kanazawa, Ishikawa 920-1192, Japan.
+
+The micromeres of sea urchin embryos have two functions: to promote the
+autonomous differentiation of skeletogenic cells and to induce endomesodermal
+tissues. Micromere specification is controlled by a double-repression gate
+consisting of two repressors, Pmar1 and HesC. Micro1/pmar1 encodes a
+transcriptional repressor with a paired-type N-terminal homeodomain and two
+C-terminal serine-rich repeats, each of which includes a sequence similar to
+engrailed homology region 1, which interacts with the co-repressor Groucho. To
+understand the molecular mechanisms of the double-repression gate, we examined
+the correlation between the structure and function of micro1. Phenotypic and gene
+expression pattern analyses of embryos injected with mutated micro1 mRNA revealed
+that micro1 consists of five functional domain and motifs; namely, a DNA-binding 
+homeodomain, a nuclear localization signal in the C-terminal flanking region of
+the homeodomain, and two eh1-like motifs plus a short C-terminal stretch that
+together mediate transcriptional repression. Our data suggest that micro1
+represses target genes, including hesC, via two redundant means: its eh1-like and
+C-terminal motifs. The C-terminal motif requires unidentified sequences for
+micro1 function; a micro1 mutant with the motif but lacking the unidentified
+sequences failed to trigger the double-repression gate for early micromere
+regulatory genes, except for delta, though it did repress hesC. Our results
+suggest that the spatial regulation of primary mesenchyme cell specification
+genes, including tbr, alx1, and ets1, may be different from that of delta.
+
+PMID: 19549568  [PubMed - indexed for MEDLINE]
+
+
+42. Dev Biol. 2008 Oct 15;322(2):425-34. doi: 10.1016/j.ydbio.2008.07.036. Epub 2008 
+Aug 7.
+
+The surprising complexity of the transcriptional regulation of the spdri gene
+reveals the existence of new linkages inside sea urchin's PMC and Oral Ectoderm
+Gene Regulatory Networks.
+
+Mahmud AA(1), Amore G.
+
+Author information: 
+(1)Molecular Evolution Group, Stazione Zoologica Anton Dohrn, Napoli, Villa
+Comunale Napoli, Italy.
+
+During sea urchin embryogenesis the spdri gene participates in two separate Gene 
+Regulatory Networks (GRNs): the Primary Mesenchyme Cells' (PMCs) and the Oral
+Ectoderm's one. In both cases, activation of the gene follows initial
+specification events [Amore, G., Yavrouian, R., Peterson, K., Ransick, A.,
+McClay, D., Davidson, E., 2003. Spdeadringer, a sea urchin embryo gene required
+separately in skeletogenic and oral ectoderm gene regulatory networks. Dev. Biol.
+261, 55-81.]. We identified a portion of genomic DNA ("4.7IL" -3456;+389) which
+is sufficient to replicate sdpri's expression pattern in experiments of
+transgenesis, using a GFP reporter. In our experiments, the activation kinetic of
+4.7IL-GFP was similar to that of the endogenous gene and the reporter responded
+to known spdri's transcriptional regulators (Ets1, Alx1, Gsc and Dri). Here we
+present a dissection of this regulatory region and a description of the modules
+involved in spdri's transcriptional regulation. Both in the PMCs' and Oral
+Ectoderm's expression phases, activation of spdri is obtained through the
+integration of three kinds of inputs: positive and globally distributed ones;
+negative ones (that prevent ectopic expression); positive and tissue-specific
+ones. Our results allow to expand the map of the regulatory connections at the
+spdri node, both in the PMCs and in the Oral Ectoderm Gene Regulatory Networks
+(GRNs).
+
+PMID: 18718463  [PubMed - indexed for MEDLINE]
+
+
+43. Dev Biol. 2008 Jul 15;319(2):406-15. doi: 10.1016/j.ydbio.2008.04.003. Epub 2008 
+Apr 15.
+
+Twist is an essential regulator of the skeletogenic gene regulatory network in
+the sea urchin embryo.
+
+Wu SY(1), Yang YP, McClay DR.
+
+Author information: 
+(1)Department of Biology, French Family Science Center, Duke University, Durham, 
+NC 27708, USA. simon.wu@vanderbilt.edu
+
+Recent work on the sea urchin endomesoderm gene regulatory network (GRN) offers
+many opportunities to study the specification and differentiation of each cell
+type during early development at a mechanistic level. The mesoderm lineages
+consist of two cell populations, primary and secondary mesenchyme cells (PMCs and
+SMCs). The micromere-PMC GRN governs the development of the larval skeleton,
+which is the exclusive fate of PMCs, and SMCs diverge into four lineages, each
+with its own GRN state. Here we identify a sea urchin ortholog of the Twist
+transcription factor, and show that it plays an essential role in the PMC GRN and
+later is involved in SMC formation. Perturbations of Twist either by morpholino
+knockdown or by overexpression result in defects in progressive phases of PMC
+development, including specification, ingression/EMT, differentiation and
+skeletogenesis. Evidence is presented that Twist expression is required for the
+maintenance of the PMC specification state, and a reciprocal regulation between
+Alx1 and Twist offers stability for the subsequent processes, such as PMC
+differentiation and skeletogenesis. These data illustrate the significance of
+regulatory state maintenance and continuous progression during cell
+specification, and the dynamics of the sequential events that depend on those
+earlier regulatory states.
+
+PMCID: PMC2517249
+PMID: 18495103  [PubMed - indexed for MEDLINE]
+
+
+44. Dev Biol. 2008 Jun 15;318(2):360-5. doi: 10.1016/j.ydbio.2008.02.056. Epub 2008
+Mar 14.
+
+A new method, using cis-regulatory control, for blocking embryonic gene
+expression.
+
+Smith J(1), Davidson EH.
+
+Author information: 
+(1)Division of Biology 156-29, California Institute of Technology, Pasadena, CA
+91125, USA. jsmith1@caltech.edu
+
+Many genes, and particularly regulatory genes, are utilized multiple times in
+unrelated phases of development. For studies of gene function during
+embryogenesis, there is often need of a method for interfering with expression
+only at a specific developmental time or place. Here we show that in sea urchin
+embryos cis-regulatory control systems which operate only at specific times and
+places can be used to drive expression of short designed sequences targeting
+given primary transcripts, thereby effectively taking out the function of the
+target genes. The active sequences are designed to be complementary to intronic
+sequences of the primary transcript of the target genes. In this work, the target
+genes were the transcription factors alx1 and ets1, both required for
+skeletogenesis, and the regulatory drivers were from the sm30 and tbr genes. The 
+sm30 gene is expressed only after skeletogenic cell ingression. When its
+regulatory apparatus was used as driver, the alx1 and ets1 repression constructs 
+had the effect of preventing postgastrular skeletogenesis, while not interfering 
+with earlier alx1 and ets1 function in promoting skeletogenic mesenchyme
+ingression. In contrast, repression constructs using the tbr driver, which is
+active in blastula stage, block ingression. This method thus provides the
+opportunity to study regulatory requirements of skeletogenesis after ingression, 
+and may be similarly useful in many other developmental contexts.
+
+PMCID: PMC3929273
+PMID: 18423438  [PubMed - indexed for MEDLINE]
+
+
+45. Development. 2007 Mar;134(6):1061-70. Epub 2007 Feb 7.
+
+The Snail repressor is required for PMC ingression in the sea urchin embryo.
+
+Wu SY(1), McClay DR.
+
+Author information: 
+(1)DCMB group, Biology Department, Duke University, Durham, NC 27708, USA.
+
+In metazoans, the epithelial-mesenchymal transition (EMT) is a crucial process
+for placing the mesoderm beneath the ectoderm. Primary mesenchyme cells (PMCs) at
+the vegetal pole of the sea urchin embryo ingress into the floor of the
+blastocoele from the blastula epithelium and later become the skeletogenic
+mesenchyme. This ingression movement is a classic EMT during which the PMCs
+penetrate the basal lamina, lose adherens junctions and migrate into the
+blastocoele. Later, secondary mesenchyme cells (SMCs) also enter the blastocoele 
+via an EMT, but they accompany the invagination of the archenteron initially, in 
+much the same way vertebrate mesenchyme enters the embryo along with endoderm.
+Here we identify a sea urchin ortholog of the Snail transcription factor, and
+focus on its roles regulating EMT during PMC ingression. Functional knockdown
+analyses of Snail in whole embryos and chimeras demonstrate that Snail is
+required in micromeres for PMC ingression. Snail represses the transcription of
+cadherin, a repression that appears evolutionarily conserved throughout the
+animal kingdom. Furthermore, Snail expression is required for endocytosis of
+cadherin, a cellular activity that accompanies PMC ingression. Perturbation
+studies position Snail in the sea urchin micromere-PMC gene regulatory network
+(GRN), downstream of Pmar1 and Alx1, and upstream of several PMC-expressed
+proteins. Taken together, our findings indicate that Snail plays an essential
+role in PMCs to control the EMT process, in part through its repression of
+cadherin expression during PMC ingression, and in part through its role in the
+endocytosis that helps convert an epithelial cell to a mesenchyme cell.
+
+PMCID: PMC3045531
+PMID: 17287249  [PubMed - indexed for MEDLINE]
+
+
+46. Dev Biol. 2005 Jul 15;283(2):384-96.
+
+P16 is an essential regulator of skeletogenesis in the sea urchin embryo.
+
+Cheers MS(1), Ettensohn CA.
+
+Author information: 
+(1)Department of Biological Sciences, Carnegie Mellon University, Pittsburgh, PA 
+15213, USA.
+
+The primary mesenchyme cells (PMCs) of the sea urchin embryo undergo a dramatic
+sequence of morphogenetic behaviors that culminates in the formation of the
+larval endoskeleton. Recent studies have identified components of a gene
+regulatory network that underlies PMC specification and differentiation. In
+previous work, we identified novel gene products expressed specifically by PMCs
+(Illies, M.R., Peeler, M.T., Dechtiaruk, A.M., Ettensohn, C.A., 2002.
+Identification and developmental expression of new biomineralization proteins in 
+the sea urchin, Strongylocentrotus purpuratus. Dev. Genes Evol. 212, 419-431).
+Here, we show that one of these gene products, P16, plays an essential role in
+skeletogenesis. P16 is not required for PMC specification, ingression, migration,
+or fusion, but is essential for skeletal rod elongation. We have compared the
+predicted sequences of P16 from two species and show that this small, acidic
+protein is highly conserved in both structure and function. The predicted amino
+acid sequence of P16 and the subcellular localization of a GFP-tagged form of the
+protein suggest that P16 is enriched in the plasma membrane. It may function to
+receive signals required for skeletogenesis or may play a more direct role in the
+deposition of biomineral. Finally, we place P16 downstream of Alx1 in the PMC
+gene network, thereby linking the network to a specific "effector" protein
+involved in biomineralization.
+
+PMID: 15935341  [PubMed - indexed for MEDLINE]
+
+
+47. Development. 2005 Apr;132(7):1601-10. Epub 2005 Feb 23.
+
+Genetics of shoulder girdle formation: roles of Tbx15 and aristaless-like genes.
+
+Kuijper S(1), Beverdam A, Kroon C, Brouwer A, Candille S, Barsh G, Meijlink F.
+
+Author information: 
+(1)Hubrecht Laboratory, The Netherlands Institute for Developmental Biology,
+Uppsalalaan 8, 3584CT Utrecht, The Netherlands.
+
+The diverse cellular contributions to the skeletal elements of the vertebrate
+shoulder and pelvic girdles during embryonic development complicate the study of 
+their patterning. Research in avian embryos has recently clarified part of the
+embryological basis of shoulder formation. Although dermomyotomal cells provide
+the progenitors of the scapular blade, local signals appear to have an essential 
+guiding role in this process. These signals differ from those that are known to
+pattern the more distal appendicular skeleton. We have studied the impact of
+Tbx15, Gli3, Alx4 and related genes on formation of the skeletal elements of the 
+mouse shoulder and pelvic girdles. We observed severe reduction of the scapula in
+double and triple mutants of these genes. Analyses of a range of complex
+genotypes revealed aspects of their genetic relationship, as well as functions
+that had been previously masked due to functional redundancy. Tbx15 and Gli3
+appear to have synergistic functions in formation of the scapular blade. Scapular
+truncation in triple mutants of Tbx15, Alx4 and Cart1 indicates essential
+functions for Alx4 and Cart1 in the anterior part of the scapula, as opposed to
+Gli3 function being linked to the posterior part. Especially in Alx4/Cart1
+mutants, the expression of markers such as Pax1, Pax3 and Scleraxis is altered
+prior to stages when anatomical aberrations are visible in the shoulder region.
+This suggests a disorganization of the proximal limb bud and adjacent flank
+mesoderm, and is likely to reflect the disruption of a mechanism providing
+positional cues to guide progenitor cells to their destination in the pectoral
+girdle.
+
+PMID: 15728667  [PubMed - indexed for MEDLINE]
+
+
+48. Przegl Lek. 2003;60(6):418-24.
+
+[Calcimimmetic and calcilytics: new perspectives of correction of abnormal
+parathormone (PTH) secretion].
+
+[Article in Polish]
+
+Rybczynska A(1), Hoppe A.
+
+Author information: 
+(1)Katedra i Zaklad Fizjopatologii, Akademia Medyczna w Gdansku.
+
+Treatment of excessive secretion of parathyroid hormone (PTH) in primary
+hyperparathyroidism (I degree HPT) as well as in secondary hyperparathyroidism
+(II degree HPT) in chronic renal insufficiency is symptomatic, short-term acting 
+and far from expectations. Recognition of properties of calcium receptor (CaR)
+expressed on parathyroid principal cell membranes created possibilities to
+explore new compounds that could alter directly PTH secretion and provide a novel
+therapy for direct correction of increased secretion of the hormone in these
+disorders. Ligands that activate this receptor and inhibit PTH secretion are
+called calcimimetics. Recently clinical trials with NPS R-568, a calcimimetic of 
+the Ist generation, and AMG 073, a representative of calcimimetics of IInd
+generation, were completed. Calcimimetics, taken orally, effectively lower
+increased secretion of PTH and hypercalcemia in I degree HPT, by "pharmacologic
+parathyroidectomy". Such compounds are also safe and effective in dialysed
+patients with II degree HPT in chronic renal insufficiency: they decrease PTH
+plasma level and prevent parathyroid cell hyperplasia. The other compounds,
+called calcilytics and represented by NPS 2143, inhibit CaR resulting therefore
+in increase of PTH secretion. Administration of calcilytics would provide a
+valuable alternative to inhibit progression of osteoporosis. Subcutaneous,
+pulsative low doses of recombinant PTH (ALX1-11) administration induces increase 
+of bone formation. Such an effect to some extent was obtained by transient
+increase of endogenous PTH secretion induced by oral administration of calcilytic
+NPS 2143 to osteopenic ovariectomized rats, especially if it was accompanied by
+supplementation of estrogens.
+
+PMID: 14974181  [PubMed - indexed for MEDLINE]
+
+
+49. Development. 2004 Mar;131(5):1075-87.
+
+A Raf/MEK/ERK signaling pathway is required for development of the sea urchin
+embryo micromere lineage through phosphorylation of the transcription factor Ets.
+
+Röttinger E(1), Besnardeau L, Lepage T.
+
+Author information: 
+(1)UMR 7009 CNRS, Université de Paris VI, Observatoire Océanologique, 06230
+Villefranche-sur-Mer, France.
+
+Erratum in
+    Development. 2004 May;131(4):2233.
+
+In the sea urchin embryo, the skeleton of the larva is built from a population of
+mesenchymal cells known as the primary mesenchyme cells (PMCs). These derive from
+the large micromeres that originate from the vegetal pole at fourth cleavage. At 
+the blastula stage, the 32 cells of this lineage detach from the epithelium and
+ingress into the blastocoel by a process of epithelial-mesenchymal transition. We
+report that shortly before ingression, there is a transient and highly localized 
+activation of the MAP-kinase ERK in the micromere lineage. We show that
+ingression of the PMCs requires the activity of ERK, MEK and Raf, and depends on 
+the maternal Wnt/beta-catenin pathway. Dissociation experiments and injection of 
+mRNA encoding a dominant-negative form of Ras indicated that this activation is
+probably cell autonomous. We identified the transcription factors Ets1 and Alx1
+as putative targets of the phosphorylation by ERK. Both proteins contain a single
+consensus site for phosphorylation by the MAP kinase ERK. In addition, the Ets1
+protein sequence contains a putative ERK docking site. Overexpression of ets1 by 
+injection of synthetic mRNA in the egg caused a dramatic increase in the number
+of cells becoming mesenchymal at the blastula stage. This effect could be largely
+inhibited by treating embryos with the MEK inhibitor U0126. Moreover, mutations
+in the consensus phosphorylation motif substituting threonine 107 by an aspartic 
+or an alanine residue resulted respectively in a constitutively active form of
+Ets1 that could not be inhibited by U0126 or in an inactive form of Ets1. These
+results show that the MAP kinase pathway, working through phosphorylation of
+Ets1, is required for full specification of the PMCs and their subsequent
+transition from epithelial to mesenchymal state.
+
+PMID: 14973284  [PubMed - indexed for MEDLINE]
+
+
+50. J Biol Chem. 2004 Apr 9;279(15):14746-51. Epub 2004 Jan 21.
+
+A novel NADH-linked l-xylulose reductase in the l-arabinose catabolic pathway of 
+yeast.
+
+Verho R(1), Putkonen M, Londesborough J, Penttilä M, Richard P.
+
+Author information: 
+(1)VTT Biotechnology, P. O. Box 1500, FIN-02044 VTT, Finland.
+
+An NADH-dependent l-xylulose reductase and the corresponding gene were identified
+from the yeast Ambrosiozyma monospora. The enzyme is part of the yeast pathway
+for l-arabinose catabolism. A fungal pathway for l-arabinose utilization has been
+described previously for molds. In this pathway l-arabinose is sequentially
+converted to l-arabinitol, l-xylulose, xylitol, and d-xylulose and enters the
+pentose phosphate pathway as d-xylulose 5-phosphate. In molds the reductions are 
+NADPH-linked, and the oxidations are NAD(+)-linked. Here we show that in A.
+monospora the pathway is similar, i.e. it has the same two reduction and two
+oxidation reactions, but the reduction by l-xylulose reductase is not performed
+by a strictly NADPH-dependent enzyme as in molds but by a strictly NADH-dependent
+enzyme. The ALX1 gene encoding the NADH-dependent l-xylulose reductase is
+strongly expressed during growth on l-arabinose as shown by Northern analysis.
+The gene was functionally overexpressed in Saccharomyces cerevisiae and the
+purified His-tagged protein characterized. The reversible enzyme converts
+l-xylulose to xylitol. It also converts d-ribulose to d-arabinitol but has no
+activity with l-arabinitol or adonitol, i.e. it is specific for sugar alcohols
+where, in a Fischer projection, the hydroxyl group of the C-2 is in the
+l-configuration and the hydroxyl group of C-3 is in the d-configuration. It also 
+has no activity with C-6 sugars or sugar alcohols. The K(m) values for l-xylulose
+and d-ribulose are 9.6 and 4.7 mm, respectively. To our knowledge this is the
+first report of an NADH-linked l-xylulose reductase.
+
+PMID: 14736891  [PubMed - indexed for MEDLINE]
+
+
+51. J Bone Miner Res. 2003 Aug;18(8):1419-29.
+
+P300/CBP acts as a coactivator to cartilage homeoprotein-1 (Cart1), paired-like
+homeoprotein, through acetylation of the conserved lysine residue adjacent to the
+homeodomain.
+
+Iioka T(1), Furukawa K, Yamaguchi A, Shindo H, Yamashita S, Tsukazaki T.
+
+Author information: 
+(1)Division of Orthopaedic Pathomechanism, Department of Developmental and
+Reconstructive Medicine, Nagasaki University Graduate School of Biomedical
+Sciences, Nagasaki, Japan.
+
+The paired-like homeoprotein, Cart1, is involved in skeletal development. We
+describe here that the general coactivator p300/CBP controls the transcription
+activity of Cart1 through acetylation of a lysine residue that is highly
+conserved in other homeoproteins. Acetylation of this residue increases the
+interaction between p300/CBP and Cart1 and enhances its transcriptional
+activation.INTRODUCTION: Cart1 encodes a paired-like homeoprotein expressed
+selectively in chondrocyte lineage during embryonic development. Although its
+target gene remains unknown, gene disruption studies have revealed that Cart1
+plays an important role for craniofacial bone formation as well as limb
+development by cooperating with another homeoprotein, Alx4. In this report, we
+study the functional involvement of p300/CBP, coactivators with intrinsic histone
+acetyltransferase (HAT) activity, in the transcriptional control of Cart1.
+METHODS: To study the transcription activity of Cart1, a reporter construct
+containing a putative Cart1 binding site was transiently transfected with the
+expression vectors of each protein. The interaction between p300/CBP and Cart1
+was investigated by glutathione S-transferase (GST) pull-down, yeast two-hybrid, 
+and immunoprecipitation assays. In vitro acetylation assay was performed with the
+recombinant p300-HAT domain and Cart1 in the presence of acetyl-CoA.
+RESULTS AND CONCLUSIONS: p300 and CBP stimulate Cart1-dependent transcription
+activity, and this transactivation is inhibited by E1A and Tax, oncoproteins that
+suppress the activity of p300/CBP. Cart1 binds to p300 in vivo and in vitro, and 
+this requires the homeodomain of Cart 1 and N-terminal 139 amino acids of p300.
+Confocal microscopy analysis shows that Cart1 recruits overexpressed and
+endogenous p300 to a Cart1-specific subnuclear compartment. Cart1 is acetylated
+in vivo and sodium butyrate and trichostatin A, histone deacetylase inhibitors,
+markedly enhance the transcription activity of Cart1. Deletion and mutagenesis
+analysis identifies the 131st lysine that locates immediately adjacent to the
+homeodomain as a target of p300-HAT, and a point mutation to this residue
+attenuates the binding affinity to p300 as well as p300-dependent transcription
+activity. Together, these results indicate that p300/CBP acts as a
+cotransactivator to Cart1 through a direct interaction and specific lysine
+acetylation. In addition, because 131st lysine is highly conserved in other types
+of homeoprotein, this lysine may be a common target for HAT of p300/CBP for these
+proteins.
+
+PMID: 12929931  [PubMed - indexed for MEDLINE]
+
+
+52. Drugs R D. 2003;4(4):231-5.
+
+ALX 111: ALX1-11, parathyroid hormone (1-84) - NPS Allelix, PREOS, PTH,
+recombinant human parathyroid hormone, rhPTH (1-84).
+
+Adis International Ltd.
+
+ALX 111 [parathyroid hormone (1-84) - NPS Allelix, recombinant human parathyroid 
+hormone, rhPTH (1-84), PREOS] is a full-length, recombinant human parathyroid
+hormone. It has potential as an anti-osteoporotic agent, due to its properties as
+a bone formation stimulant. This profile has been selected from R&D Insight, a
+pharmaceutical intelligence database produced by Adis International Ltd. It has
+been recommended that ALX 111 should be given for 1 to 2 years and may be given
+in combination with an antiresorptive agent, such as estrogen or a
+bisphosphonate. In December 1999, Allelix Biopharmaceuticals merged with NPS
+Pharmaceuticals. This combined company is operating as NPS Pharmaceuticals in the
+US and as NPS Allelix in Canada. The merger has enabled a phase III study of ALX 
+111 to begin in the US, Europe and South America. NPS harmaceuticals has signed
+an agreement with Bio-Imaging Technologies, which will provide all image handling
+and analysis for this trial. Until 1994, Allelix Biopharmaceuticals and Glaxo in 
+Canada were involved in a joint venture to investigate the efficacy of ALX 111 in
+osteoporosis. Allelix was subsequently, until September 1998, collaborating with 
+Astra of Sweden in developing ALX 111. Astra had acquired exclusive worldwide
+rights to ALX 111 and was responsible for development of the agent. However,
+Astra returned all rights to ALX 111 to Allelix as a result of its merger with
+Zeneca to form AstraZeneca. In December 1999, Allelix Biopharmaceuticals merged
+with NPS Pharmaceuticals. This combined company is operating as NPS
+Pharmaceuticals in the US and as NPS Allelix in Canada. The merger has enabled a 
+phase III study of ALX 111 to begin in the US, Europe and South America. The
+phase III trial of ALX 111 for the treatment of osteoporosis has completed
+patient enrolment, and phase II trials have been completed in Canada and the
+Netherlands. The 18-month, phase III, multicentre, placebo-controlled trial
+(Treatment of Osteoporosis with Parathyroid Hormone; TOP) has been designed to
+assess the bone-building and fracture-reducing potential of the drug, and over
+2600 postmenopausal women with osteoporosis who have not received previous drug
+therapy for osteoporosis have been enrolled. Treatment will be completed in
+September 2003, but more than 75% of patients enrolled in the TOP study have
+chosen to enrol in an Open Label Extension Study (OLES), which allows for a total
+treatment period of up to 24 months. NPS Pharmaceuticals has signed an agreement 
+with Bio-Imaging Technologies, which will provide all image handling and analysis
+for this trial. In September 2002, NPS Pharmaceuticals announced that it has met 
+its patient enrolment target (n > 150) for its POWER (PTH for Osteoporotic Women 
+on Estrogen Replacement) study; a 24-month phase III trial initiated in Europe in
+November 2001. In this trial, women with osteoporosis receive SC injections of
+ALX 111 or placebo, in combination with their existing hormone replacement
+therapies, to test the bone building potential of the drug. In addition to the
+POWER study, a clinical trial sponsored by the National Institutes of Health
+(NIH) is being conducted to evaluate the potential of ALX 111 to build bone in
+combination with another osteoporosis medication. The 'PaTH' study
+(PTH/alendronate) is designed to assess the effect of various combinations and
+sequential uses of ALX 111 and Merck's Fosamax, a drug for slowing the loss of
+bone due to osteoporosis. The PaTH study, initiated in May 2000 and scheduled to 
+conclude in September 2003, involved 238 patients with postmenopausal
+osteoporosis. It is thought that alendronic acid and ALX 111, when administered
+in combination, may act in an additive manner to treat osteoporosis because they 
+act in different ways; alendronic acid acts to inhibit resorption and ALX 111
+speeds up bone formation and resorption, with a net increase in formation.
+Results of this study are still being analysed but preliminary results appear to 
+be positive. The effect of ALX 111 on bone cell cultures underare still being
+analysed but preliminary results appear to be positive. The effect of ALX 111 on 
+bone cell cultures under conditions of microgravity was tested in orbit on the
+Space Shuttle Columbia, which was launched on 16 January 2003 but did not survive
+re-entry. This study was one in a series of studies known as 'OSTEO' and had been
+prepared by researchers from NPS Pharmaceuticals using Millenium Biologix' OSTEO 
+Mini-Lab System. Under space flight conditions, astronauts experience a loss in
+bone density at a rate up to ten times faster than that of earth-bound patients
+with osteoporosis, and it was hoped that this study would indicate the mechanism 
+of action of ALX 111 at cellular and genetic levels. The results of these studies
+were represented by the samples of human bone cells, which were lost during the
+re-entry tragedy.
+
+PMID: 12848587  [PubMed - indexed for MEDLINE]
+
+
+53. Biol Cell. 2003 Mar-Apr;95(2):75-86.
+
+Chondrogenic differentiation during midfacial development in the mouse: in vivo
+and in vitro studies.
+
+Pavlov MI(1), Sautier JM, Oboeuf M, Asselin A, Berdal A.
+
+Author information: 
+(1)Laboratoire biologie orofaciale et pathologie, Inserm E110, université Paris
+7, UFR d'odontologie, institut biomédical des Cordeliers, Esc. E - 2e étage,
+15-21, rue de l'Ecole-de-Médecine, 75270 cedex 6, Paris, France.
+
+Because the mouse is now the main model for developmental research of all types, 
+it is important to understand the basic developmental pattern of various organs. 
+The first aim of the present study was to establish normal prenatal developmental
+standards of the cartilaginous nasal capsule during embryonic development of the 
+mouse. For this purpose we have performed sagittal and coronal sections ranging
+from E12.5 to E18.5 in gestation age. The primordia of the nasal septal cartilage
+is recognizable around the 14th embryonic day as demonstrated by the
+metachromatic toluidine blue staining and by immunostaining of type II collagen. 
+Northern blot analysis of the transcription factors Cart-1 and Sox-9 indicated
+maximum mRNA levels at E12.5 then a decreased expression during the following
+days of gestation. Type II collagen and aggrecan mRNA levels are constant during 
+the embryonic period. In the second part of this study, we have established a
+primary culture system where chondrocytes were isolated from E.18 mouse embryo
+nasal septum. The purpose of this second part was to assess if chondrocytes could
+further differentiate in vitro until the hypertrophic phase and matrix
+mineralization. After the condensation phase, the cells synthesize an
+extracellular matrix including type II collagen and aggrecan. Progressively,
+typical cartilaginous nodules composed of clusters of round cells are visible,
+then increase in size and finally mineralize at day 12 of culture. Cart-1 and
+Sox-9 mRNA levels remain constant throughout the cultures, whereas type II
+collagen and aggrecan gradually decrease. Ultrastructural observations of the
+nodules show typical chondrocytes embedded in a dense network of fibers with
+matrix vesicles and mineralized foci. Other ultrathin sections revealed the
+presence of chondrons, typical of hyaline cartilage. Results from this study
+provide useful tools to further investigate morphogenesis and differentiation of 
+the cartilaginous nasal capsule, and could in the future serve as a basic
+developmental standard.
+
+PMID: 12799063  [PubMed - indexed for MEDLINE]
+
+
+54. Development. 2003 Jul;130(13):2917-28.
+
+Alx1, a member of the Cart1/Alx3/Alx4 subfamily of Paired-class homeodomain
+proteins, is an essential component of the gene network controlling skeletogenic 
+fate specification in the sea urchin embryo.
+
+Ettensohn CA(1), Illies MR, Oliveri P, De Jong DL.
+
+Author information: 
+(1)Department of Biological Sciences, Carnegie Mellon University, 4400 Fifth
+Avenue, Pittsburgh, PA 15213, USA. ettensohn@andrew.cmu.edu
+
+In the sea urchin embryo, the large micromeres and their progeny function as a
+critical signaling center and execute a complex morphogenetic program. We have
+identified a new and essential component of the gene network that controls large 
+micromere specification, the homeodomain protein Alx1. Alx1 is expressed
+exclusively by cells of the large micromere lineage beginning in the first
+interphase after the large micromeres are born. Morpholino studies demonstrate
+that Alx1 is essential at an early stage of specification and controls downstream
+genes required for epithelial-mesenchymal transition and biomineralization.
+Expression of Alx1 is cell autonomous and regulated maternally through
+beta-catenin and its downstream effector, Pmar1. Alx1 expression can be activated
+in other cell lineages at much later stages of development, however, through a
+regulative pathway of skeletogenesis that is responsive to cell signaling. The
+Alx1 protein is highly conserved among euechinoid sea urchins and is closely
+related to the Cart1/Alx3/Alx4 family of vertebrate homeodomain proteins. In
+vertebrates, these proteins regulate the formation of skeletal elements of the
+limbs, face and neck. Our findings suggest that the ancestral deuterostome had a 
+population of biomineral-forming mesenchyme cells that expressed an Alx1-like
+protein.
+
+PMID: 12756175  [PubMed - indexed for MEDLINE]
+
+
+55. Mech Dev. 2003 Feb;120(2):241-52.
+
+The OAR/aristaless domain of the homeodomain protein Cart1 has an attenuating
+role in vivo.
+
+Brouwer A(1), ten Berge D, Wiegerinck R, Meijlink F.
+
+Author information: 
+(1)Hubrecht Laboratory, Netherlands Institute for Developmental Biology,
+Uppsalalaan 8, 3584 CT Utrecht, The Netherlands.
+
+Aristaless-related genes encode a structurally defined group of homeoproteins
+that share a C-terminal stretch of amino acids known as the OAR- or aristaless
+domain. Many aristaless-related genes have been linked to major developmental
+functions, but the function of the aristaless domain itself is poorly understood.
+Expression and functional studies have shown that a subgroup of these genes,
+including Prx1, Prx2, Alx3, Alx4 and Cart1, is essential for correct
+morphogenesis of the limbs and cranium. We now demonstrate the function of the
+aristaless domain in vivo by ectopically expressing normal and mutated forms of
+Cart1 and Alx3. Ectopic expression of Cart1 in transgenic mice does not disturb
+development, whereas expression of a Cart1 form from which the aristaless domain 
+has been deleted results in severe cranial and vertebral malformations. The Alx3 
+protein contains a divergent aristaless domain that appears not to be functional,
+as ectopic expression of Alx3 results in an altered phenotype irrespective of the
+presence of this aristaless domain. Linking the Cart1 aristaless domain to Alx3
+extinguishes teratogenicity. We show that, at the molecular level, the most
+important consequence of deleting the aristaless domain is increased DNA binding 
+to its palindromic target sequence. This demonstrates that the aristaless domain 
+functions as an intra-molecular switch to contain the activity of the
+transcription factor that it is part of.
+
+PMID: 12559496  [PubMed - indexed for MEDLINE]
+
+
+56. Genes Cells. 2002 Nov;7(11):1135-47.
+
+Functional domains of paired-like homeoprotein Cart1 and the relationship between
+dimerization and transcription activity.
+
+Furukawa K(1), Iioka T, Morishita M, Yamaguchi A, Shindo H, Namba H, Yamashita S,
+Tsukazaki T.
+
+Author information: 
+(1)Department of Orthopaedic Surgery, Atomic Bomb Disease Institute, Nagasaki
+University School of Medicine, Nagasaki 852-8523, Japan.
+
+BACKGROUND: Cart1 encodes the paired-like homeodomain in the central portion of
+the gene, and plays a crucial role in the developmental lineage of bone and
+cartilage, especially in head formation. However, its transactivation mechanism
+is still poorly understood, including the target gene. Here, we report
+biochemical dissections of Cart1 functional domains and a relationship between
+dimerization and transcription activity.
+RESULTS: Deletion studies of GAL4-fused Cart1 indicated that the transactivation 
+domain is located in the middle portion of the C-terminal domain, but the
+N-terminal is also required for a full activation of the consensus palindromic
+binding site (TAATNNNATTA). Analysis of the basic amino acid residues at both
+ends of the homeodomain revealed that both sides act as nuclear localization
+signals, and are necessary for the cooperative binding to the palindromic
+sequence. In this study, two additional Cart1 isoforms that behave as dominant
+negatives were identified from rat chondrosarcoma cells. These isoforms
+suppressed the transcription activity of the wild-type, despite loss of DNA
+binding ability, and could interact with the wild-type in yeast. Finally, we
+demonstrated that wild-type Cart1 forms a DNA-independent homodimer in in vivo
+conditions, and that the transactivation of wild-type Cart1 was suppressed by the
+N- or C-terminal domain which was expressed in the nucleus.
+CONCLUSION: These results revealed that homodimerization through direct
+interaction is necessary for the potent transcription activity of Cart1.
+
+PMID: 12390248  [PubMed - indexed for MEDLINE]
+
+
+57. Development. 2001 Oct;128(20):3975-86.
+
+Severe nasal clefting and abnormal embryonic apoptosis in Alx3/Alx4 double mutant
+mice.
+
+Beverdam A(1), Brouwer A, Reijnen M, Korving J, Meijlink F.
+
+Author information: 
+(1)Hubrecht Laboratory, Netherlands Institute for Developmental Biology, PO Box
+85164, 3508AD Utrecht, The Netherlands.
+
+A group of mouse aristaless-related genes has been implicated in functions in the
+development of the craniofacial skeleton. We have generated an Alx3 mutant allele
+in which the lacZ coding sequence is inserted in-frame in the Alx3 gene and the
+sequences encoding the conserved protein domains are deleted. Mice homozygous for
+this null allele are indistinguishable from wild-type mice. Compound mutants of
+Alx3 and Alx4, however, show severe craniofacial abnormalities that are absent in
+Alx4 single mutants. Alx3/Alx4 double mutant newborn mice have cleft nasal
+regions. Most facial bones and many other neural crest derived skull elements are
+malformed, truncated or even absent. The craniofacial defects in Alx3/Alx4 double
+mutant embryos become anatomically manifest around embryonic day 10.5, when the
+nasal processes appear to be abnormally positioned. This most probably leads to a
+failure of the medial nasal processes to fuse in the facial midline and
+subsequently to the split face phenotype. We detected a significant increase in
+apoptosis localised in the outgrowing frontonasal process in embryonic day 10.0
+double mutant embryos, which we propose to be the underlying cause of the
+subsequent malformations.
+
+PMID: 11641221  [PubMed - indexed for MEDLINE]
+
+
+58. Arch Oral Biol. 2000 Oct;45(10):843-56.
+
+Association of enhanced expression of gap junctions with in vitro chondrogenic
+differentiation of rat nasal septal cartilage-released cells following their
+dedifferentiation and redifferentiation.
+
+Loty S(1), Foll C, Forest N, Sautier JM.
+
+Author information: 
+(1)Laboratoire de Biologie-Odontologie, Université Paris VII, Institut Biomédical
+des Cordeliers, 15-21, rue de l'Ecole de Médecine, F-75270 06, Paris Cedex,
+France. sautier@ccr.jussieu.fr
+
+The nasal septum is an important centre of endochondral ossification during the
+development of the facial region. Previous studies have shown that it is possible
+to recapitulate the differentiation programme of 21-day-old rat nasal
+chondrocytes in vitro. The purpose now was to investigate, in vitro, the cell
+condensation phase that represents the earliest morphological event associated
+with cartilage differentiation in skeletal development. The study focuses on the 
+ability of the cells to form condensations before overt differentiation, with
+special emphasis on gap-junction expression. The gap-junction protein connexin 43
+was localized by indirect immunofluorescence as primarily intracellular and, on
+day 5, at the condensation stage, as spot-like contacts between cells.
+Intracellular injection of the permeable dye Lucifer yellow led to the staining
+of up to 20 neighbouring cells, indicating functional gap junctions and coupling.
+In contrast, treatment of cultures with the gap-junction blocker glycyrrhetinic
+acid inhibited dye coupling and reduced cartilage differentiation. Northern
+blotting of connexin 43 mRNA showed a faint band during the first days of
+culture, with a striking increase after day 4. In addition, the mRNA of the
+homeodomain-containing gene Cart-1 began to be expressed in prechondrogenic
+condensations and corresponded to the expression of type II collagen mRNA. These 
+data indicate that the early stage of in vitro chondrocyte differentiation is the
+formation of cell condensations and the ability to establish cell-to-cell
+communication. Connexin 43, together with other molecular mechanisms, mediates
+the condensation phase of chondrogenesis and sets up the optimal environment in
+which nasal septal cells may terminally differentiate into chondrocytes.
+
+PMID: 10973558  [PubMed - indexed for MEDLINE]
+
+
+59. Drugs R D. 1999 Mar;1(3):211-2.
+
+ALX 111. ALX1-11, PTH, parathyroid hormone (1-84)-Allelix, recombinant human
+parathyroid hormone, rhPTH(1-84).
+
+[No authors listed]
+
+PMID: 10566026  [PubMed - indexed for MEDLINE]
+
+
+60. J Orthop Res. 1998 Sep;16(5):521-30.
+
+Expression of cartilage extracellular matrix and potential regulatory genes in a 
+new human chondrosarcoma cell line.
+
+Chansky H(1), Robbins JR, Cha S, Raskind WH, Conrad EU, Sandell LJ.
+
+Author information: 
+(1)Department of Orthopaedics, University of Washington, Veterans Affairs Medical
+Center, Seattle, USA.
+
+A human chondrosarcoma cell line has been established from an aggressive
+chondrosarcoma. The cells grow in a monolayer culture (doubling time: 2 days) and
+form aggregates. The aggregates consist of a rim of cells surrounding a hollow
+core. The cell line exhibits a unique pattern of mRNA expression with several
+molecules characteristic of the chondrocyte phenotype. Consistent with the
+chondrocyte phenotype, mRNAs encoding types IX and XI collagens were present
+along with an abundant expression of mRNAs encoding the core protein of the
+cartilage proteoglycans biglycan and aggrecan. No expression of mRNAs encoding
+types I or II fibrillar collagens or the proteoglycan decorin was observed.
+Sodium dodecyl sulfate-polyacrylamide gel electrophoretic analysis of
+[35S]sulfate-radiolabeled material confirmed the translation of proteoglycans
+containing glycosaminoglycan chains. The expression of molecules that contribute 
+to cartilage development and tumorigenesis was examined. The cell line produces
+abundant mRNA that encodes transforming growth factor-beta1, a member of a family
+of cartilage and bone inductive proteins. The expression of mRNA encoding two
+proteins associated specifically with chondrogenesis was detected: Cart-1, a
+homeobox protein involved in cartilage differentiation, and CD-RAP, a secreted
+molecule restricted under normal conditions to differentiating chondrocytes and
+cartilage. Overexpression of p53, a tumor-suppressor gene, was detected. DNA
+analysis revealed a loss of heterozygosity at the chromosomal locus encoding p53,
+with the deletion of one p53 allele and the mutation of the remaining allele in
+both the parent tumor and the cell line. The malignant chondrosarcoma phenotype
+may be related to the unique gene expression pattern that is characteristic in
+many ways of differentiating chondroblasts, as well as to the inactivation of the
+p53 function that could contribute to the proliferative capacity of the cell
+line. This cell line may serve as a biological model for further investigation of
+the etiology of human chondrosarcomas and for the synthesis and regulation of
+cartilage-specific genes.
+
+PMID: 9820274  [PubMed - indexed for MEDLINE]
+
+
+61. Biochem Biophys Res Commun. 1998 Sep 18;250(2):305-11.
+
+Human CART1, a paired-class homeodomain protein, activates transcription through 
+palindromic binding sites.
+
+Cai RL(1).
+
+Author information: 
+(1)Department of Molecular Biology, Princeton University, New Jersey 08544, USA. 
+richard.cai@pharma.novartis.com
+
+Homeodomain proteins play important roles in animal development by controlling
+the expression of genes involved in determining cell fates. The recently cloned
+human Cart1 gene encodes a paired-class homeodomain (hCART1), whose rodent
+homolog is mainly expressed in early chondrocytes and in prechondrocytic
+mesenchymal cells. To better understand its role as a transcription factor, the
+author has selected specific hCART1 binding sites from a random pool of
+oligonucleotides. It is reported here that all sites obtained contain a
+palindrome consisting of two TAAT sequences separated by three or four base
+pairs. In electromobility shift assays, recombinant hCART1 proteins bind to a
+palindromic probe as a multimer, possibly a homodimer. In transient transfection 
+assays, hCART1 activates transcription from reporter plasmids containing hCART1
+binding sites in HeLa cells, demonstrating both site-dependence and
+dosage-dependence. It is also shown here that hCART1 localizes to nucleus. These 
+data indicate that hCART1 is a sequence-specific transcription activator in HeLa 
+cells. In combination with data from previous studies in which hCART1 represses
+transcription in different cell types and promoters, they suggest that hCART1 may
+be a transcription modulator with both repression and activation activities.
+
+PMID: 9753625  [PubMed - indexed for MEDLINE]
+
+
+62. Dev Biol. 1998 Jul 1;199(1):11-25.
+
+Mouse Alx3: an aristaless-like homeobox gene expressed during embryogenesis in
+ectomesenchyme and lateral plate mesoderm.
+
+ten Berge D(1), Brouwer A, el Bahi S, Guénet JL, Robert B, Meijlink F.
+
+Author information: 
+(1)Hubrecht Laboratory, Netherlands Institute for Developmental Biology, Utrecht,
+The Netherlands.
+
+Mouse Alx3 is a homeobox gene that is related to the Drosophila aristaless gene
+and to a group of vertebrate genes including Prx1, Prx2, Cart1, and Alx4. The
+protein encoded contains a diverged variant of a conserved peptide sequence
+present near the carboxyl terminus of at least 15 different
+paired-class-homeodomain proteins. Alx3 is expressed in mouse embryos from 8 days
+of gestation onward in a characteristic pattern, predominantly in neural
+crest-derived mesenchyme and in lateral plate mesoderm. We detected prominent
+expression in frontonasal head mesenchyme and in the first and second pharyngeal 
+arches and some of their derivatives. High expression was also seen in the tail
+and in many derivatives of the lateral plate mesoderm including the limbs, the
+body wall, and the genital tubercle. aristaless-related genes like Alx3, Cart1,
+and Prx2 are expressed in overlapping proximodistal patterns in the pharyngeal
+arches. Similar, but more lateral patterns have been described for the
+Distal-less-related (Dlx) genes. Intriguingly, expression and to some extent
+function of aristaless and Distal-less in Drosophila also have overlapping as
+well as complementary aspects. Alx3 was localized to chromosome 3, near the
+droopy-ear (de) mutation.
+
+PMID: 9676189  [PubMed - indexed for MEDLINE]
+
+
+63. DNA Cell Biol. 1996 Jul;15(7):531-41.
+
+Human Cart-1: structural organization, chromosomal localization, and functional
+analysis of a cartilage-specific homeodomain cDNA.
+
+Gordon DF(1), Wagner J, Atkinson BL, Chiono M, Berry R, Sikela J,
+Gutierrez-Hartmann A.
+
+Author information: 
+(1)Department of Medicine, University of Colorado, Health Sciences Center, Denver
+80262, USA.
+
+Homeoproteins control cell fates during development, specifying pattern formation
+and the ontogeny of specific tissues and organs in embryogenesis. Cart-1 cDNA was
+recently cloned from a rat chondrosarcoma tumor and it encodes a protein
+containing a paired-like homeodomain that is selectively expressed in cartilage
+during early chondrocyte differentiation. Here we report the molecular cloning of
+the human Cart-1 cDNA from a HeLa cervical carcinoma cDNA library. The human
+Cart-1 cDNA sequence is 88% identical and the deduced amino acid sequence is 95% 
+identical to the rat sequence, indicating that Cart-1 structure is highly
+conserved. Northern and reverse transcriptase polymerase chain reaction (RT-PCR) 
+analysis revealed Cart-1 mRNA expression in HeLa cervical carcinoma cells and
+human cervical tissue, but Cart-1 mRNA was not detected in GH3 rat pituitary
+cells and murine 10T1/2 one-half fibroblast cells. The Cart-1 gene was localized 
+to human chromosome 12 and regionally mapped to the 12q21.3-q22 by PCR analysis
+of rodent-X-human somatic cell hybrid DNA and the CEPH megabase-insert YAC DNA
+pools, respectively. The Holt-Oram syndrome, characterized by upper limb and
+atrial septal dysplasias, also maps to the 12q21.3-q22 region. Cotransfection
+studies show that Cart-1 inhibits the rat prolactin promoter and that this
+repression is mediated by footprint II, an AT-rich element that functions as an
+inhibitory site of prolactin gene expression in nonpituitary cells and which was 
+used to clone Cart-1. Taken together, these data indicate that Cart-1 may also
+influence cervix development, identify a putative DNA binding site for Cart-1,
+and, begin to define its functional role as modulator of gene expression.
+
+PMID: 8756334  [PubMed - indexed for MEDLINE]
+
+
+64. Nat Genet. 1996 Jul;13(3):275-83.
+
+Prenatal folic acid treatment suppresses acrania and meroanencephaly in mice
+mutant for the Cart1 homeobox gene.
+
+Zhao Q(1), Behringer RR, de Crombrugghe B.
+
+Author information: 
+(1)Department of Molecular Genetics, University of Texas, Houston 77030, USA.
+
+The paired-class homeobox-containing gene, Cart1, is expressed in forebrain
+mesenchyme, branchial arches, limb buds and cartilages during embryogenesis.
+Here, we show that Cart1-homozygous mutant mice are born alive with acrania and
+meroanencephaly but die soon after birth-a phenotype that strikingly resembles a 
+corresponding human syndrome caused by a neural tube closure defect.
+Developmental studies suggest that Cart1 is required for forebrain mesenchyme
+survival and that its absence disrupts cranial neural tube morphogenesis by
+blocking the initiation of closure in the midbrain region that ultimately leads
+to the generation of lethal craniofacial defects. Prenatal treatment of Cart1
+homozygous mutants with folic acid suppresses the development of the
+acrania/meroanencephaly phenotype.
+
+PMID: 8673125  [PubMed - indexed for MEDLINE]
+
+
+65. Ann N Y Acad Sci. 1996 Jun 8;785:206-8.
+
+Elucidation of homeoprotein Cart-1 function during in vitro chondrogenesis of
+C3H10T1/2 micromass cultures.
+
+Atkinson BL(1), Ryan ME, Benedict JJ, Huffer WE, Gutierrez-Hartmann A.
+
+Author information: 
+(1)Department of Medicine, University of Colorado Health Sciences Center, Denver 
+80262, USA.
+
+PMID: 8702130  [PubMed - indexed for MEDLINE]
+
+
+66. Proc Natl Acad Sci U S A. 1993 Sep 15;90(18):8633-7.
+
+Cartilage homeoprotein 1, a homeoprotein selectively expressed in chondrocytes.
+
+Zhao GQ(1), Zhou X, Eberspaecher H, Solursh M, de Crombrugghe B.
+
+Author information: 
+(1)Department of Molecular Genetics, University of Texas M. D. Anderson Cancer
+Center, Houston 77030.
+
+We identified a rat cDNA that encodes cartilage homeoprotein 1 (Cart-1). The
+deduced amino acid sequence of Cart-1 contains a paired-type homeodomain.
+Northern blot hybridization and RNase protection assay revealed that Cart-1 RNA
+was present at high levels in a well-differentiated rat chondrosarcoma tumor and 
+in a cell line derived from this tumor. Cart-1 RNA was detected in primary mouse 
+and rat chondrocytes but not in various fibroblasts including mouse 10T1/2 cells,
+NIH 3T3 cells, BALB 3T3 cells, and rat skin fibroblasts. It was also undetectable
+in mouse C2 myoblasts, S194 myeloma cells, and embryonic stem cells. Cart-1 RNA
+was present at a very low level in tested but was not detected in other soft
+tissues of 8-week-old rats. In situ hybridization of rat embryos between 14.5 and
+16.5 days post coitum revealed relatively high levels of Cart-1 RNA in condensed 
+prechondrocytic mesenchymal cells and in early chondrocytes of cartilage
+primordia. The levels of Cart-1 RNA were lower in mature chondrocytes. No
+hybridization was observed in brain, spinal cord, heart, spleen, gastrointestinal
+tract, liver, and muscle. We speculate that Cart-1 has a role in chondrocyte
+differentiation.
+
+PMCID: PMC47412
+PMID: 7690966  [PubMed - indexed for MEDLINE]
+
+

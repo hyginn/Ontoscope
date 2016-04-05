@@ -1,0 +1,683 @@
+
+1. J Neurosci. 2016 Feb 3;36(5):1698-710. doi: 10.1523/JNEUROSCI.1240-15.2016.
+
+Remyelinating Oligodendrocyte Precursor Cell miRNAs from the Sfmbt2 Cluster
+Promote Cell Cycle Arrest and Differentiation.
+
+Kuypers NJ(1), Bankston AN(2), Howard RM(2), Beare JE(3), Whittemore SR(4).
+
+Author information: 
+(1)Kentucky Spinal Cord Injury Research Center, Departments of Anatomical
+Sciences and Neurobiology and. (2)Kentucky Spinal Cord Injury Research Center,
+Neurological Surgery, and. (3)Kentucky Spinal Cord Injury Research Center,
+Cardiovascular Innovation Institute, University of Louisville School of Medicine,
+Louisville, Kentucky 40292. (4)Kentucky Spinal Cord Injury Research Center,
+Departments of Anatomical Sciences and Neurobiology and Neurological Surgery, and
+swhittemore@louisville.edu.
+
+Oligodendrocyte (OL) loss contributes to the functional deficits underlying
+diseases with a demyelinating component. Remyelination by oligodendrocyte
+progenitor cells (OPCs) can restore these deficits. To understand the role that
+microRNAs (miRNAs) play in remyelination, 2',3'-cyclic-nucleotide
+3'-phosphodiesterase-EGFP(+) mice were treated with cuprizone, and OPCs were
+sorted from the corpus callosum. Microarray analysis revealed that Sfmbt2 family 
+miRNAs decreased during cuprizone treatment. One particular Sfmbt2 miRNA,
+miR-297c-5p, increased during mouse OPC differentiation in vitro and during
+callosal development in vivo. When overexpressed in both mouse embryonic
+fibroblasts and rat OPCs (rOPCs), cell cycle analysis revealed that miR-297c-5p
+promoted G1/G0 arrest. Additionally, miR-297c-5p transduction increased the
+number of O1(+) rOPCs during differentiation. Luciferase reporter assays
+confirmed that miR-297c-5p targets cyclin T2 (CCNT2), the regulatory subunit of
+positive transcription elongation factor b, a complex that inhibits OL
+maturation. Furthermore, CCNT2-specific knockdown promoted rOPC differentiation
+while not affecting cell cycle status. Together, these data support a dual role
+for miR-297c-5p as both a negative regulator of OPC proliferation and a positive 
+regulator of OL maturation via its interaction with CCNT2.SIGNIFICANCE STATEMENT:
+This work describes the role of oligodendrocyte progenitor cell (OPC) microRNAs
+(miRNAs) during remyelination and development in vivo and differentiation in
+vitro. This work highlights the importance of miRNAs to OPC biology and describes
+miR-297c-5p, a novel regulator of OPC function. In addition, we identified CCNT2 
+as a functional target, thus providing a mechanism by which miR-297c-5p imparts
+its effects on differentiation. These data are important, given our lack of
+understanding of OPC miRNA regulatory networks and their potential clinical
+value. Therefore, efforts to understand the role of miR-297c-5p in pathological
+conditions and its potential for facilitating repair may provide future
+therapeutic strategies to treat demyelination.
+
+Copyright © 2016 the authors 0270-6474/16/361698-13$15.00/0.
+
+PMCID: PMC4737778 [Available on 2016-08-03]
+PMID: 26843650  [PubMed - in process]
+
+
+2. Prostate. 2016 Apr;76(5):479-90. doi: 10.1002/pros.23139. Epub 2015 Dec 28.
+
+Genetic variants in cell cycle control pathway confer susceptibility to
+aggressive prostate carcinoma.
+
+Kibel AS(1), Ahn J(2), Isikbay M(1), Klim A(3), Wu WS(3), Hayes RB(2), Isaacs
+WB(4), Daw EW(5).
+
+Author information: 
+(1)Division of Urology, Brigham and Women's Hospital, Harvard Medical School,
+Boston, Massachusetts. (2)Division of Epidemiology, Department of Environmental
+Medicine, NYU School of Medicine, New York, New York. (3)Division of Urologic
+Surgery, Washington University School of Medicine, St. Louis, Missouri.
+(4)Department of Urology, Johns Hopkins Medical Institutions, Baltimore,
+Maryland. (5)Departments of Genetics, Washington University School of Medicine,
+St. Louis, Missouri.
+
+BACKGROUND: Because a significant number of patients with prostate cancer (PCa)
+are diagnosed with disease unlikely to cause harm, genetic markers associated
+with clinically aggressive PCa have potential clinical utility. Since cell cycle 
+checkpoint dysregulation is crucial for the development and progression of
+cancer, we tested the hypothesis that common germ-line variants within cell cycle
+genes were associated with aggressive PCa.
+METHODS: Via a two-stage design, 364 common sequence variants in 88 genes were
+tested. The initial stage consisted of 258 aggressive PCa patients and 442
+controls, and the second stage added 384 aggressive PCa Patients and 463
+controls. European-American and African-American samples were analyzed
+separately. In the first stage, SNPs were typed by Illumina Goldengate assay
+while in the second stage SNPs were typed by Pyrosequencing assays. Genotype
+frequencies between cases and controls were compared using logistical regression 
+analysis with additive, dominant and recessive models.
+RESULTS: Eleven variants within 10 genes (CCNC, CCND3, CCNG1, CCNT2, CDK6, MDM2, 
+SKP2, WEE1, YWHAB, YWHAH) in the European-American population and nine variants
+in 7 genes (CCNG1, CDK2, CDK5, MDM2, RB1, SMAD3, TERF2) in the African-American
+population were found to be associated with aggressive PCa using at least one
+model. Of particular interest, CCNC (rs3380812) was associated with risk in
+European-American cohorts from both institutions. CDK2 (rs1045435) and CDK5
+(rs2069459) were associated with risk in the African-American cohorts from both
+institutions. Lastly, variants within MDM2 and CCNG1 were protective for
+aggressive PCa in both ethnic groups.
+CONCLUSIONS: This study confirms that polymorphisms within cell cycle genes are
+associated with clinically aggressive PCa. Validation of these markers in
+additional populations is necessary, but these markers may help identify patients
+at risk for potentially lethal carcinoma. Prostate 76:479-490, 2016. © 2015 Wiley
+Periodicals, Inc.
+
+© 2015 Wiley Periodicals, Inc.
+
+PMID: 26708993  [PubMed - in process]
+
+
+3. Tumour Biol. 2015 Aug 16. [Epub ahead of print]
+
+Targeting polyamine biosynthetic pathway through RNAi causes the abrogation of
+MCF 7 breast cancer cell line.
+
+Gupta ED(1), Pachauri M, Ghosh PC, Rajam MV.
+
+Author information: 
+(1)Department of Genetics, University of Delhi South Campus, Benito Juarez Road, 
+New Delhi, 110021, India.
+
+The diamine putrescine and polyamines, spermidine (triamine) and spermine
+(tetraamine) are small organic polycations that play an indispensable role in key
+cellular processes such as the regulation of growth, differentiation, and
+macromolecular functions. Elevated levels of polyamines (PAs) have been shown to 
+be one of the major factors involved in carcinogenesis. In this study, specific
+silencing of the expression of three genes of PA biosynthesis pathway, ornithine 
+decarboxylase (ODC), S-adenosylmethionine decarboxylase (SAMDC), and spermidine
+synthase (SPDSYN) was achieved using RNA interference in MCF 7 breast cancer cell
+line. For optimizing the effective small interfering nucleic acid (siNA), three
+variants of ODC siNA [siRNA, locked nucleic acid (LNA)-modified siRNA, and
+siHybrid (RNA and DNA hybrid)] were used and a dose- and time-dependent study was
+conducted. The PA biosynthetic genes were targeted individually and in
+combination. RNAi-mediated reduction in the expression of PA biosynthesis genes
+resulted in distorted cell morphology, reduced cancer cell viability, and
+migration characteristic. The most promising results were observed with the
+combined treatment of siSPDSYN and siODC with 83 % cell growth inhibition. On
+analyzing the messenger RNA (mRNA) expression profile of the cell cycle and
+apoptosis-related genes, it was observed that RNAi against PA biosynthetic genes 
+downregulated the expression of CDK8, CCNE2, CCNH, CCNT1, CCNT2, CCNF, PCNA,
+CCND1, and CDK2, and upregulated the expression of E2F4, BAX, FAS, TP53, CDKN1A, 
+BAK1, CDKN1B, ATM, GRANB, and ATR genes when compared with control-transfected
+cells. These results suggest that the targeting polyamine biosynthesis through
+RNAi approach could be a promising strategy for breast cancer therapy and might
+be extended for therapy of other cancers.
+
+PMID: 26277788  [PubMed - as supplied by publisher]
+
+
+4. Proc Natl Acad Sci U S A. 2014 Jan 28;111(4):1491-6. doi:
+10.1073/pnas.1323535111. Epub 2014 Jan 16.
+
+An RNAi screen for Aire cofactors reveals a role for Hnrnpl in polymerase release
+and Aire-activated ectopic transcription.
+
+Giraud M(1), Jmari N, Du L, Carallis F, Nieland TJ, Perez-Campo FM, Bensaude O,
+Root DE, Hacohen N, Mathis D, Benoist C.
+
+Author information: 
+(1)Division of Immunology, Department of Microbiology and Immunobiology, Harvard 
+Medical School, Boston, MA 02115.
+
+Aire induces the expression of a large set of autoantigen genes in the thymus,
+driving immunological tolerance in maturing T cells. To determine the full
+spectrum of molecular mechanisms underlying the Aire transactivation function, we
+screened an AIRE-dependent gene-expression system with a genome-scale lentiviral 
+shRNA library, targeting factors associated with chromatin architecture/function,
+transcription, and mRNA processing. Fifty-one functional allies were identified, 
+with a preponderance of factors that impact transcriptional elongation compared
+with initiation, in particular members of the positive transcription elongation
+factor b (P-TEFb) involved in the release of "paused" RNA polymerases (CCNT2 and 
+HEXIM1); mRNA processing and polyadenylation factors were also highlighted
+(HNRNPL/F, SFRS1, SFRS3, and CLP1). Aire's functional allies were validated on
+transfected and endogenous target genes, including the generation of lentigenic
+knockdown (KD) mice. We uncovered the effect of the splicing factor Hnrnpl on
+Aire-induced transcription. Transcripts sensitive to the P-TEFb inhibitor
+flavopiridol were reduced by Hnrnpl knockdown in thymic epithelial cells,
+independently of their dependence on Aire, therefore indicating a general effect 
+of Hnrnpl on RNA elongation. This conclusion was substantiated by demonstration
+of HNRNPL interactions with P-TEFb components (CDK9, CCNT2, HEXIM1, and the small
+7SK RNA). Aire-containing complexes include 7SK RNA, the latter interaction
+disrupted by HNRNPL knockdown, suggesting that HNRNPL may partake in delivering
+inactive P-TEFb to Aire. Thus, these results indicate that mRNA processing
+factors cooperate with Aire to release stalled polymerases and to activate
+ectopic expression of autoantigen genes in the thymus.
+
+PMCID: PMC3910647
+PMID: 24434558  [PubMed - indexed for MEDLINE]
+
+
+5. FEBS Lett. 2011 Aug 4;585(15):2493-500. doi: 10.1016/j.febslet.2011.06.031. Epub 
+2011 Jul 2.
+
+Cyclin T2: a novel miR-15a target gene involved in early spermatogenesis.
+
+Teng Y(1), Wang Y, Fu J, Cheng X, Miao S, Wang L.
+
+Author information: 
+(1)State Key Laboratory of Medical Molecular Biology, Institute of Basic Medical 
+Sciences, Chinese Academy of Medical Sciences, Peking Union Medical College,
+Tsinghua University, Beijing, China.
+
+MicroRNAs (miRNAs) are posttranscriptional modulators of gene expression that
+play important roles in various biological processes. Spermatogenesis is a highly
+regulated process in which diploid spermatogonia eventually differentiate into
+haploid spermatozoa. In this study, we identified four differentially expressed
+miRNAs between two premeiotic male germ cells, made predictions about their
+putative targets, and confirmed cyclin T2 (Ccnt2) as a direct target of miR-15a. 
+We also report that miR-15a inhibited muscle differentiation at least in part by 
+targeting Ccnt2, which represents a novel interaction. Subsequently, miR-15a and 
+Ccnt2 were profiled in developing mice testes to observe their inverse
+correlations in the postnatal 3-week period to understand their roles in
+spermatogenesis.
+
+Copyright © 2011 Federation of European Biochemical Societies. Published by
+Elsevier B.V. All rights reserved.
+
+PMID: 21740905  [PubMed - indexed for MEDLINE]
+
+
+6. J Mol Biol. 2010 Jan 8;395(1):28-41. doi: 10.1016/j.jmb.2009.10.055. Epub 2009
+Oct 31.
+
+Specificity of Hexim1 and Hexim2 complex formation with cyclin T1/T2, importin
+alpha and 7SK snRNA.
+
+Czudnochowski N(1), Vollmuth F, Baumann S, Vogel-Bachmayr K, Geyer M.
+
+Author information: 
+(1)Abteilung Physikalische Biochemie, Max-Planck-Institut für molekulare
+Physiologie, Otto-Hahn-Strasse 11, D-44227 Dortmund, Germany.
+
+Positive transcription elongation factor b (P-TEFb) stimulates the transition
+from transcription initiation to productive elongation by phosphorylation of the 
+C-terminal domain of RNA polymerase II. P-TEFb consists of the cyclin-dependent
+kinase Cdk9 and a T-type cyclin and is regulated by the small nuclear RNA 7SK and
+the coupling protein Hexim1 or Hexim2. In this study, we analyzed the tripartite 
+protein-RNA complex formation between Hexim, Cyclin T and 7SK snRNA. Using
+isothermal titration calorimetry, we observed higher affinities for Cyclin
+T1-Hexim1 and Cyclin T2-Hexim2 complex formations compared with the interactions 
+in reverse. Importin alpha, which is part of the Ran-mediated nuclear import
+pathway, bound Hexim1 and Hexim2 with dissociation constants of 2.0 and 0.5 muM, 
+respectively. Furthermore, tripartite complex formations between Cyclin T, Hexim 
+and Importin alpha showed the suitability of a collaborative nuclear import
+pathway for Cyclin T. Electrophoretic mobility shift assays using radioactively
+labelled full-length 7SK snRNA revealed a tight association of the RNA to Cyclin 
+T1-Hexim1 with dissociation constants lower than 0.3 muM. Similar binding
+affinities were recorded for both Hexim orthologues to a 66-mer double-stranded
+5' hairpin loop encompassing nucleotides 23-88 of 7SK, while a 39-mer fragment,
+resulting from different RNA folding predictions, did not bind as tightly. These 
+results provide the molecular basis for the generation of a core complex for the 
+inhibition of P-TEFb.
+
+PMID: 19883659  [PubMed - indexed for MEDLINE]
+
+
+7. Mol Cell Biol. 2009 Jun;29(12):3280-5. doi: 10.1128/MCB.00172-09. Epub 2009 Apr
+13.
+
+Cyclin T2 is essential for mouse embryogenesis.
+
+Kohoutek J(1), Li Q, Blazek D, Luo Z, Jiang H, Peterlin BM.
+
+Author information: 
+(1)Veterinary Research Institute, Hudcova 70, 621 00, Brno, Czech Republic.
+kohoutek@vri.cz
+
+The positive transcription elongation factor b (P-TEFb) is essential for the
+elongation of transcription and cotranscriptional processing by RNA polymerase
+II. In mammals, it contains predominantly the C-type cyclin cyclin T1 (CycT1) or 
+CycT2 and cyclin-dependent kinase 9 (Cdk9). To determine if these cyclins have
+redundant functions or affect distinct sets of genes, we genetically inactivated 
+the CycT2 gene (Ccnt2) using the beta-galactosidase-neomycin gene (beta-geo) gene
+trap technology in the mouse. Visualizing beta-galactosidase during mouse
+embryogenesis revealed that CycT2 is expressed abundantly during embryogenesis
+and throughout the organism in the adult. This finding was reflected in the
+expression of CycT2 in all adult tissues and organs. However, despite numerous
+matings of heterozygous mice, we observed no CycT2(-/-) embryos, pups, or adult
+mice. This early lethality could have resulted from decreased expression of
+critical genes, which were revealed by short interfering RNAs against CycT2 in
+embryonic stem cells. Thus, CycT1 and CycT2 are not redundant, and these
+different P-TEFb complexes regulate subsets of distinct genes that are important 
+for embryonic development.
+
+PMCID: PMC2698739
+PMID: 19364821  [PubMed - indexed for MEDLINE]
+
+
+8. EMBO J. 2008 Jul 9;27(13):1907-18. doi: 10.1038/emboj.2008.121. Epub 2008 Jun 19.
+
+The structure of P-TEFb (CDK9/cyclin T1), its complex with flavopiridol and
+regulation by phosphorylation.
+
+Baumli S(1), Lolli G, Lowe ED, Troiani S, Rusconi L, Bullock AN, Debreczeni JE,
+Knapp S, Johnson LN.
+
+Author information: 
+(1)Laboratory of Molecular Biophysics, Department of Biochemistry, University of 
+Oxford, Oxford, UK.
+
+The positive transcription elongation factor b (P-TEFb) (CDK9/cyclin T (CycT))
+promotes mRNA transcriptional elongation through phosphorylation of elongation
+repressors and RNA polymerase II. To understand the regulation of a
+transcriptional CDK by its cognate cyclin, we have determined the structures of
+the CDK9/CycT1 and free cyclin T2. There are distinct differences between
+CDK9/CycT1 and the cell cycle CDK CDK2/CycA manifested by a relative rotation of 
+26 degrees of CycT1 with respect to the CDK, showing for the first time
+plasticity in CDK cyclin interactions. The CDK9/CycT1 interface is relatively
+sparse but retains some core CDK-cyclin interactions. The CycT1 C-terminal helix 
+shows flexibility that may be important for the interaction of this region with
+HIV TAT and HEXIM. Flavopiridol, an anticancer drug in phase II clinical trials, 
+binds to the ATP site of CDK9 inducing unanticipated structural changes that bury
+the inhibitor. CDK9 activity and recognition of regulatory proteins are governed 
+by autophosphorylation. We show that CDK9/CycT1 autophosphorylates on Thr186 in
+the activation segment and three C-terminal phosphorylation sites.
+Autophosphorylation on all sites occurs in cis.
+
+PMCID: PMC2486423
+PMID: 18566585  [PubMed - indexed for MEDLINE]
+
+
+9. J Mol Biol. 2007 Mar 30;367(3):630-46. Epub 2007 Jan 12.
+
+Developmental regulators containing the I-mfa domain interact with T cyclins and 
+Tat and modulate transcription.
+
+Wang Q(1), Young TM, Mathews MB, Pe'ery T.
+
+Author information: 
+(1)University of Medicine and Dentistry of New Jersey, Department of Biochemistry
+and Molecular Biology, New Jersey Medical School, Newark, NJ 07103-2714, USA.
+
+Positive transcription elongation factor b (P-TEFb) complexes, composed of
+cyclin-dependent kinase 9 (CDK9) and cyclin T1 or T2, are engaged by many
+cellular transcription regulators that activate or inhibit transcription from
+specific promoters. The related I-mfa (inhibitor of MyoD family a) and HIC (human
+I-mfa-domain-containing) proteins function in myogenic differentiation and
+embryonic development by participating in the Wnt signaling pathway. We report
+that I-mfa is a novel regulator of P-TEFb. Both HIC and I-mfa interact through
+their homologous I-mfa domains with cyclin T1 and T2 at two binding sites. One
+site is the regulatory histidine-rich domain that interacts with CDK9 substrates 
+including RNA polymerase II. The second site contains a lysine and arginine-rich 
+motif that is highly conserved between the two T cyclins. This site overlaps and 
+includes the previously identified Tat/TAR recognition motif of cyclin T1
+required for activation of human immunodeficiency virus type 1 (HIV-1)
+transcription. HIC and I-mfa can serve as substrates for P-TEFb. Their I-mfa
+domains also bind the activation domain of HIV-1 Tat and inhibit Tat- and
+P-TEFb-dependent transcription from the HIV-1 promoter. This transcriptional
+repression is cell-type specific and can operate via Tat and cyclin T1. Genomic
+and sequence comparisons indicate that the I-mf and HIC genes, as well as
+flanking genes, diverged from a duplicated chromosomal region. Our findings link 
+I-mfa and HIC to viral replication, and suggest that P-TEFb is modulated in the
+Wnt signaling pathway.
+
+PMCID: PMC1868487
+PMID: 17289077  [PubMed - indexed for MEDLINE]
+
+
+10. Cell Death Differ. 2007 Jan;14(1):192-5. Epub 2006 Jul 14.
+
+Abrogation of signal-dependent activation of the cdk9/cyclin T2a complex in human
+RD rhabdomyosarcoma cells.
+
+Simone C, Giordano A.
+
+Erratum in
+    Cell Death Differ. 2007 Jan;14(1):196.
+
+PMID: 16841087  [PubMed - indexed for MEDLINE]
+
+
+11. Eur J Histochem. 2006 Jan-Mar;50(1):19-23.
+
+Involvement of cdks and cyclins in muscle differentiation.
+
+De Falco M(1), De Luca A.
+
+Author information: 
+(1)Department of Biological Sciences, Section of Evolutionary and Comparative
+Biology, University of Naples Federico II, Naples, Italy.
+
+Myocyte differentiation is due to transcription of genes that characterize the
+phenotypic and biochemical identity of differentiated muscle cells. These are the
+myogenic regulatory factors (MRFs) MyoD, Myf5, myogenin and MRF4. Overexpression 
+of cdk/cyclins has been reported to inhibit the activity of MyoD and prevent
+myogenic differentiation by different modalities. Unlike other cdk/cyclin
+complexes, overexpression of cdk9/cyclin T2a, enhances MyoD function and promotes
+myogenic differentiation. In addition, cyclin T2a interacting with a novel
+partner, PKN alpha, is able to strongly enhance the expression of myogenic
+differentiation markers, such as myogenin and Myosin Heavy Chain. So, cyclin T2a 
+could stimulate myogenic differentiation interacting with different kinase
+partners Cdk9 or PKN alpha in a synergistic or antagonistic way.
+
+PMID: 16584981  [PubMed - indexed for MEDLINE]
+
+
+12. J Cell Physiol. 2006 Apr;207(1):232-7.
+
+Pkn is a novel partner of cyclin T2a in muscle differentiation.
+
+Cottone G(1), Baldi A, Palescandolo E, Manente L, Penta R, Paggi MG, De Luca A.
+
+Author information: 
+(1)Department for the Development of Therapeutic Programs, Center for
+Experimental Research, Regina Elena Cancer Institute, Rome, Italy.
+
+With the aim to find novel partners of human Cyclin T2a, we performed a
+two-hybrid screening in yeast using the full-length cDNA of this cyclin as bait, 
+and a human heart cDNA library as preys source. Upon several interesting genes
+selected, our attention has been focused on the cDNA coding for PKNalpha, a fatty
+acid- and Rho-activated serine/threonine protein kinase, having a catalytic
+domain homologous to protein kinase C family. Co-immunoprecipitation and in vitro
+pull-down assays independently confirmed the interaction between the two
+proteins. Luciferase assays, performed on NIH3T3 cell extracts after transfection
+with a MyoD-responsive promoter, pointed out that PKNalpha was able to enhance
+MyoD-dependent transcription, and that this effect was further increased when
+cyclin T2a was co-overexpressed. Finally, overexpression of both Cyclin T2a and
+PKNalpha in C2C12 cells strongly enhanced the expression of myogenic
+differentiation markers, such as Myogenin and Myosin Heavy Chain, during
+starvation-induced differentiation. Taken together, our data strengthen the
+hypothesis that Cyclin T2a plays a role in muscle differentiation, and propose
+PKNalpha as a novel partner of Cyclin T2a in this process.
+
+PMID: 16331689  [PubMed - indexed for MEDLINE]
+
+
+13. J Leukoc Biol. 2006 Feb;79(2):388-96. Epub 2005 Dec 5.
+
+Cyclin T1 but not cyclin T2a is induced by a post-transcriptional mechanism in
+PAMP-activated monocyte-derived macrophages.
+
+Liou LY(1), Haaland RE, Herrmann CH, Rice AP.
+
+Author information: 
+(1)Department of Molecular Virology and Microbiology, One Baylor Plaza, Houston, 
+TX 77030, USA.
+
+Positive transcription elongation factor b (P-TEFb) is an RNA polymerase II
+elongation factor which exists as multiple complexes in human cells. These
+complexes contain cyclin-dependent kinase 9 as the catalytic subunit and
+different cyclin subunits-cyclin T1, T2a, T2b, or K. Cyclin T1 is targeted by the
+human immunodeficiency virus (HIV) Tat protein to activate transcription of the
+HIV provirus. Expression of this P-TEFb subunit is highly regulated in
+monocyte-derived macrophages (MDMs). Cyclin T1 is induced early during
+differentiation and is shut off later by proteasome-mediated proteolysis. Cyclin 
+T1 can be reinduced by pathogen-associated molecular patterns (PAMPs) or HIV
+infection. In this study, we analyzed regulation of P-TEFb in MDMs by examining
+7SK small nuclear RNA and the HEXIM1 protein; these factors associate with P-TEFb
+and are thought to regulate its function. 7SK and HEXIM1 were induced early
+during differentiation, and this correlates with increased overall transcription.
+7SK expression remained high, but HEXIM1 was shut off later during
+differentiation by proteasome-mediated proteolysis. Significantly, the cyclin T2a
+subunit of P-TEFb was not shut off during differentiation, and it was not induced
+by activation. Induction of cyclin T1 by PAMPs was found to be a slow process and
+did not involve an increase in cyclin T1 mRNA levels. Treatment of MDMs with
+PAMPs or a proteasome inhibitor induced cyclin T1 to a level equivalent to
+treatment with both agents together, suggesting that PAMPs and proteasome
+inhibitors act at a similar rate-limiting step. It is therefore likely that
+cyclin T1 induction by PAMPs is the result of a reduction in proteasome-mediated 
+proteolysis.
+
+PMID: 16330531  [PubMed - indexed for MEDLINE]
+
+
+14. Mol Cell Biol. 2005 Dec;25(24):10675-83.
+
+Runx1 binds positive transcription elongation factor b and represses
+transcriptional elongation by RNA polymerase II: possible mechanism of CD4
+silencing.
+
+Jiang H(1), Zhang F, Kurosu T, Peterlin BM.
+
+Author information: 
+(1)Department of Medicine, Microbiology and Immunology, Rosalind Russell Medical 
+Research Center, University of California at San Francisco, 94143-0703, USA.
+
+Runx1 binds the silencer and represses CD4 transcription in immature thymocytes. 
+In this study, we found that Runx1 inhibits P-TEFb, which contains CycT1, CycT2, 
+or CycK and Cdk9 and stimulates transcriptional elongation by RNA polymerase II
+(RNAPII) in eukaryotic cells. Indeed, its inhibitory domain, spanning positions
+371 to 411, not only bound CycT1 but was required for silencing CD4 transcription
+in vivo. Our chromatin immunoprecipitation assays revealed that Runx1 inhibits
+the elongation but not initiation of transcription and that RNAPII is engaged at 
+the CD4 promoter but is unable to elongate in CD4(-) CD8(+) thymoma cells. These 
+results suggest that active repression by Runx1 occurs by blocking the elongation
+by RNAPII, which may contribute to CD4 silencing during T-cell development.
+
+PMCID: PMC1316947
+PMID: 16314494  [PubMed - indexed for MEDLINE]
+
+
+15. Gene. 2004 Dec 8;343(1):173-9.
+
+Transcriptional activity and substrate recognition of cyclin T2 from P-TEFb.
+
+Kurosu T(1), Zhang F, Peterlin BM.
+
+Author information: 
+(1)Department of Medicine, Rosalind Russell Medical Research Center, University
+of California at San Francisco, San Francisco, CA 94143-0703, USA.
+
+Transcriptional elongation by RNA polymerase II (RNAPII) is regulated by the
+positive transcription elongation factor b (P-TEFb), which contains Cdk9 and a
+C-type cyclin (CycT1, CycT2a, CycT2b, or CycK). Whereas their N-terminal cylin
+boxes are almost identical, the C-terminal sequences of CycT1 and CycT2 are
+divergent. Previously, a histidine-rich stretch in CycT1 was found to bind the
+CTD of RNAPII and direct the transcriptional activity of this P-TEFb complex when
+tethered artificially to DNA. The global repressor PIE-1 from C. elegans blocked 
+its effects. In this study, C-terminal truncations of CycT2 past its
+histidine-rich stretch, to a leucine-rich region next to its cyclin boxes, still 
+maintained appreciable transcriptional activity. Moreover, this domain bound
+RNAPII via its CTD and PIE-1 blocked its effects. Thus, CycT2 not only contains
+two domains that target RNAPII but this substrate recognition is necessary for
+its transcriptional activity via DNA.
+
+PMID: 15563843  [PubMed - indexed for MEDLINE]
+
+
+16. Mol Pharmacol. 2003 Nov;64(5):1101-8.
+
+Acquired cellular resistance to flavopiridol in a human colon carcinoma cell line
+involves up-regulation of the telomerase catalytic subunit and telomere
+elongation. Sensitivity of resistant cells to combination treatment with a
+telomerase inhibitor.
+
+Incles CM(1), Schultes CM, Kelland LR, Neidle S.
+
+Author information: 
+(1)The School of Pharmacy, 29-39 Brunswick Square, London WC1N 1AX, UK.
+stephen.neidle@ulsop.ac.uk
+
+Flavopiridol is a broad-spectrum inhibitor of cyclin-dependent kinases and of
+global transcription via the inhibition of positive transcription elongation
+factor b (P-TEFb). Although flavopiridol is currently undergoing phase II
+clinical trials, acquired cellular resistance to the compound during treatment is
+a potential problem, as it is with almost all current anticancer agents. A HCT116
+human colon carcinoma cell line with an acquired 8-fold resistance to
+flavopiridol has been established. We report here that there are changes in these
+resistant cells in terms of telomere length and telomerase activity, whereas no
+change in the expression of the P-TEFb subunits CDK9, cyclin T1, cyclin T2a, or
+cyclin T2b was observed. The level of mRNA expression for the telomerase
+catalytic subunit hTERT was increased over 2-fold in the resistant cells, and
+mean telomere length was found to be 2 kb longer than the parental length,
+although telomerase activity was unchanged. The level of mRNA expression for the 
+telomeric binding protein Pot1 was also increased. We also report that treatment 
+of HCT116 cells with a combination of the G-quadruplex interacting telomerase
+inhibitor BRACO-19 and flavopiridol results in a 3-fold decrease in population
+doubling and prevents recovery from treatment with either compound alone.
+Treatment of flavopiridol-resistant cells with BRACO-19 alone also led to rapid
+inhibition of cell growth, which is not observed in the parental line. The
+finding that only the resistant line, with up-regulated telomerase, responds to
+this G-quadruplex inhibitor is consistent with the hypothesis that the mechanism 
+of BRACO-19 down-regulation of cell growth directly involves the targeting of
+telomeres and telomerase.
+
+PMID: 14573759  [PubMed - indexed for MEDLINE]
+
+
+17. Mol Cell Biol. 2003 Jul;23(14):4859-69.
+
+MAQ1 and 7SK RNA interact with CDK9/cyclin T complexes in a
+transcription-dependent manner.
+
+Michels AA(1), Nguyen VT, Fraldi A, Labas V, Edwards M, Bonnet F, Lania L,
+Bensaude O.
+
+Author information: 
+(1)UMR 8541 CNRS, Ecole Normale Supérieure, Laboratoire de Régulation de
+l'Expression Génétique, 75230 Paris Cedex 05, France.
+
+Erratum in
+    Mol Cell Biol. 2003 Dec;23(24):9405.
+
+Positive transcription elongation factor b (P-TEFb) comprises a cyclin (T1 or T2)
+and a kinase, cyclin-dependent kinase 9 (CDK9), which phosphorylates the
+carboxyl-terminal domain of RNA polymerase II. P-TEFb is essential for
+transcriptional elongation in human cells. A highly specific interaction among
+cyclin T1, the viral protein Tat, and the transactivation response (TAR) element 
+RNA determines the productive transcription of the human immunodeficiency virus
+genome. In growing HeLa cells, half of P-TEFb is kinase inactive and binds to the
+7SK small nuclear RNA. We now report on a novel protein termed MAQ1 (for ménage à
+quatre) that is also present in this complex. Since 7SK RNA is required for MAQ1 
+to associate with P-TEFb, a structural role for 7SK RNA is proposed. Inhibition
+of transcription results in the release of both MAQ1 and 7SK RNA from P-TEFb.
+Thus, MAQ1 cooperates with 7SK RNA to form a novel type of CDK inhibitor.
+According to yeast two-hybrid analysis and immunoprecipitations from extracts of 
+transfected cells, MAQ1 binds directly to the N-terminal cyclin homology region
+of cyclins T1 and T2. Since Tat also binds to this cyclin T1 N-terminal domain
+and since the association between 7SK RNA/MAQ1 and P-TEFb competes with the
+binding of Tat to cyclin T1, we speculate that the TAR RNA/Tat lentivirus system 
+has evolved to subvert the cellular 7SK RNA/MAQ1 system.
+
+PMCID: PMC162212
+PMID: 12832472  [PubMed - indexed for MEDLINE]
+
+
+18. Oncogene. 2002 Jun 13;21(26):4158-65.
+
+Physical interaction between pRb and cdk9/cyclinT2 complex.
+
+Simone C(1), Bagella L, Bellan C, Giordano A.
+
+Author information: 
+(1)Department of Pathology, Anatomy and Cell Biology, Thomas Jefferson
+University, Philadelphia, Pennsylvania, PA 19107, USA.
+
+Cyclin-dependent kinase 9 (cdk9) is a multifunctional kinase with roles in
+different cellular pathways such as transcriptional elongation, differentiation
+and apoptosis. Cdk9/cyclin T differs functionally from other cdk/cyclin complexes
+that regulate cell cycle progression, but maintains structural affinity with
+those complexes. In addition, previous reports have demonstrated that the cdk9
+complex is able to phosphorylate p56/pRb in vitro. In this report we show in
+vitro and in vivo interaction between cdk9/cyclinT2 and the protein product of
+the retinoblastoma gene (pRb) in human cell lines. The interaction involves the
+region composed of residues 129-195 of cdk9, cyclinT2 (1-642 aa) and the
+C-terminal domain of pRb (835-928 aa). We located the minimal region of cdk9
+phosphorylation on the C-terminus of pRb, by identifying the residues between 793
+and 834. This region contains at least three proline-directed serines (sp), S795,
+S807 and S811, which have been reported to be phosphorylated in vivo and which
+could be targeted by the cdk9 complex. These data suggest that, in
+logarithmically growing cells, cdk9/cyclin T2 and pRb are located in a nuclear
+multiprotein complex probably involved in transduction of cellular signals to the
+basal transcription machinery and that one of these signals could be the cdk9
+phosphorylation of pRb.
+
+PMID: 12037672  [PubMed - indexed for MEDLINE]
+
+
+19. Oncogene. 2002 Jun 13;21(26):4137-48.
+
+Activation of MyoD-dependent transcription by cdk9/cyclin T2.
+
+Simone C(1), Stiegler P, Bagella L, Pucci B, Bellan C, De Falco G, De Luca A,
+Guanti G, Puri PL, Giordano A.
+
+Author information: 
+(1)Sbarro Institute for Cancer Research and Molecular Medicine, Temple
+University, Philadelphia, Pennsylvania, PA 19122, USA.
+
+Myogenic transcription is repressed in myoblasts by serum-activated
+cyclin-dependent kinases, such as cdk2 and cdk4. Serum withdrawal promotes
+muscle-specific gene expression at least in part by down-regulating the activity 
+of these cdks. Unlike the other cdks, cdk9 is not serum- or cell cycle-regulated 
+and is instead involved in the regulation of transcriptional elongation by
+phosphorylating the carboxyl-terminal domain (CTD) of RNA polymerase II. While
+ectopic expression of cdk2 together with its regulatory subunits (cyclins E and
+A) inhibits myogenic transcription, overproduction of cdk9 and its associated
+cyclin (cyclin T2a) strengthens MyoD-dependent transcription and stimulates
+myogenic differentiation in both MyoD-converted fibroblasts and C2C12 muscle
+cells. Conversely, inhibition of cdk9 activity by a dominant negative form
+(cdk9-dn) represses the myogenic program. Cdk9, cyclinT2 and MyoD can be detected
+in a multimeric complex in C2C12 cells, with the minimal cdk9-binding region of
+MyoD mapping within 101-161 aa of the bHLH region. Finally, cdk9 can
+phosphorylate MyoD in vitro, suggesting the possibility that cdk9/cycT2a
+regulation of muscle differentiation includes the direct enzymatic activity of
+the kinase on MyoD.
+
+PMID: 12037670  [PubMed - indexed for MEDLINE]
+
+
+20. Nature. 2001 Nov 15;414(6861):322-5.
+
+7SK small nuclear RNA binds to and inhibits the activity of CDK9/cyclin T
+complexes.
+
+Nguyen VT(1), Kiss T, Michels AA, Bensaude O.
+
+Author information: 
+(1)Génétique Moléculaire, UMR 8541 CNRS, Ecole Normale Supérieure, 46 rue d'Ulm, 
+75230 Paris cedex 05, France.
+
+The transcription of eukaryotic protein-coding genes involves complex regulation 
+of RNA polymerase (Pol) II activity in response to physiological conditions and
+developmental cues. One element of this regulation involves phosphorylation of
+the carboxy-terminal domain (CTD) of the largest polymerase subunit by a
+transcription elongation factor, P-TEFb, which comprises the kinase CDK9 and
+cyclin T1 or T2 (ref. 1). Here we report that in human HeLa cells more than half 
+of the P-TEFb is sequestered in larger complexes that also contain 7SK RNA, an
+abundant, small nuclear RNA (snRNA) of hitherto unknown function. P-TEFb and 7SK 
+associate in a specific and reversible manner. In contrast to the smaller P-TEFb 
+complexes, which have a high kinase activity, the larger 7SK/P-TEFb complexes
+show very weak kinase activity. Inhibition of cellular transcription by chemical 
+agents or ultraviolet irradiation trigger the complete disruption of the
+P-TEFb/7SK complex, and enhance CDK9 activity. The transcription-dependent
+interaction of P-TEFb with 7SK may therefore contribute to an important feedback 
+loop modulating the activity of RNA Pol II.
+
+PMID: 11713533  [PubMed - indexed for MEDLINE]
+
+

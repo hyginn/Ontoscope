@@ -1,0 +1,3529 @@
+
+1. Dev Biol. 2016 Jan 15;409(2):543-54. doi: 10.1016/j.ydbio.2015.11.010. Epub 2015 
+Nov 17.
+
+Posterior-anterior gradient of zebrafish hes6 expression in the presomitic
+mesoderm is established by the combinatorial functions of the downstream enhancer
+and 3'UTR.
+
+Kawamura A(1), Ovara H(2), Ooka Y(2), Kinoshita H(2), Hoshikawa M(2), Nakajo
+K(2), Yokota D(2), Fujino Y(2), Higashijima S(3), Takada S(4), Yamasu K(2).
+
+Author information: 
+(1)Division of Life Science, Graduate School of Science and Engineering, Saitama 
+University, Shimo-Okubo, Sakura-ku, Saitama City, Saitama 338-8570, Japan.
+Electronic address: akawamur@mail.saitama-u.ac.jp. (2)Division of Life Science,
+Graduate School of Science and Engineering, Saitama University, Shimo-Okubo,
+Sakura-ku, Saitama City, Saitama 338-8570, Japan. (3)Okazaki Institute for
+Integrative Bioscience & National Institute for Physiological Sciences, National 
+Institutes of Natural Sciences, Okazaki, Aichi 444-8787, Japan. (4)Okazaki
+Institute for Integrative Bioscience & National Institute for Basic Biology,
+National Institutes of Natural Sciences, Okazaki, Aichi 444-8787, Japan.
+
+In vertebrates, the periodic formation of somites from the presomitic mesoderm
+(PSM) is driven by the molecular oscillator known as the segmentation clock. The 
+hairy-related gene, hes6/her13.2, functions as a hub by dimerizing with other
+oscillators of the segmentation clock in zebrafish embryos. Although hes6
+exhibits a posterior-anterior expression gradient in the posterior PSM with a
+peak at the tailbud, the detailed mechanisms underlying this unique expression
+pattern have not yet been clarified. By establishing several transgenic lines, we
+found that the transcriptional regulatory region downstream of hes6 in
+combination with the hes6 3'UTR recapitulates the endogenous gradient of hes6
+mRNA expression. This downstream region, which we termed the PT enhancer,
+possessed several putative binding sites for the T-box and Ets transcription
+factors that were required for the regulatory activity. Indeed, the T-box
+transcription factor (Tbx16) and Ets transcription factor (Pea3) bound
+specifically to the putative binding sites and regulated the enhancer activity in
+zebrafish embryos. In addition, the 3'UTR of hes6 is required for recapitulation 
+of the endogenous mRNA expression. Furthermore, the PT enhancer with the 3'UTR of
+hes6 responded to the inhibition of retinoic acid synthesis and fibroblast growth
+factor signaling in a manner similar to endogenous hes6. The results showed that 
+transcriptional regulation by the T-box and Ets transcription factors, combined
+with the mRNA stability given by the 3'UTR, is responsible for the unique
+expression gradient of hes6 mRNA in the posterior PSM of zebrafish embryos.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+PMID: 26596999  [PubMed - in process]
+
+
+2. Endocrinol Metab (Seoul). 2015 Sep;30(3):381-8. doi: 10.3803/EnM.2015.30.3.381.
+Epub 2015 May 18.
+
+Sumoylation of Hes6 Regulates Protein Degradation and Hes1-Mediated
+Transcription.
+
+Lee J(1), Chun SK(1), Son GH(2), Kim K(3).
+
+Author information: 
+(1)Department of Brain and Cognitive Sciences, Seoul National University School
+of Biological Sciences, Seoul, Korea. (2)Department of Legal Medicine, Korea
+University College of Medicine, Seoul, Korea. (3)Department of Brain and
+Cognitive Sciences, Seoul National University School of Biological Sciences,
+Seoul, Korea. kyungjin@dgist.ac.kr.
+
+BACKGROUND: Hes6 is a transcriptional regulator that induces transcriptional
+activation by binding to transcription repressor Hes1 and suppressing its
+activity. Hes6 is controlled by the ubiquitin-proteosome-mediated degradation
+system. Here we investigated the sumoylation of Hes6 and its functional role in
+its rhythmic expression.
+METHODS: Hes6, SUMO, and ubiquitin were transfected into HeLa cells and the
+expression pattern was observed by Western blot and immunoprecipitation. To
+confirm the effect of sumoylation on the rhythmic expression of Hes6, we
+generated mouse Hes6 promoter-driven GFP-Hes6 fusion constructs and expressed
+these constructs in NIH 3T3 cells.
+RESULTS: Overexpression of SUMO led to sumoylation of Hes6 at both lysine 27 and 
+30. Protein stability of Hes6 was decreased by sumoylation. Moreover, expression 
+of a Hes6 sumoylation-defective mutant, the 2KR (K27/30R) mutant, or
+co-expression of SUMO protease SUSP1 with native Hes6, strongly reduced
+ubiquitination. In addition, sumoylation was associated with both the rhythmic
+expression and transcriptional regulation of Hes6. Wild type Hes6 showed
+oscillatory expression with about 2-hour periodicity, whereas the 2KR mutant
+displayed a longer period. Furthermore, sumoylation of Hes6 derepressed
+Hes1-induced transcriptional repression.
+CONCLUSION: Hes6 sumoylation plays an important role in the regulation of its
+stability and Hes1-mediated transcription. These results suggest that sumoylation
+may be crucial for rhythmic expression of Hes6 and downstream target genes.
+
+PMCID: PMC4595364
+PMID: 26435136  [PubMed]
+
+
+3. Int J Biochem Cell Biol. 2015 Sep;66:134-40. doi: 10.1016/j.biocel.2015.07.015.
+Epub 2015 Jul 30.
+
+Notch pathway promotes ovarian cancer growth and migration via CXCR4/SDF1a
+chemokine system.
+
+Chiaramonte R(1), Colombo M(1), Bulfamante G(2), Falleni M(2), Tosi D(2),
+Garavelli S(1), De Simone D(1), Vigolo E(1), Todoerti K(3), Neri A(4), Platonova 
+N(5).
+
+Author information: 
+(1)Department of Health Sciences, Università degli Studi di Milano, via A. Di
+Rudinì 8, I-20142, Milan, Italy. (2)Department of Health Sciences, Università
+degli Studi di Milano, via A. Di Rudinì 8, I-20142, Milan, Italy; Unit of
+Pathology, Department of Health Sciences, Università degli Studi di Milano, A.O. 
+San Paolo, via A. Di Rudinì 8, I-20142, Milan, Italy. (3)Laboratory of
+Pre-Clinical and Translational Research, IRCCS-CROB, Referral Cancer Center of
+Basilicata, Rionero in Vulture, Italy. (4)Department of Clinical Sciences and
+Community Health, Università degli Studi di Milano, Hematology, Fondazione Cà
+Granda IRCCS Policlinico, via F. Sforza,35, 20122, Milan, Italy. (5)Department of
+Health Sciences, Università degli Studi di Milano, via A. Di Rudinì 8, I-20142,
+Milan, Italy. Electronic address: natalia.platonova@unimi.it.
+
+Ovarian cancer is the most deadly gynecological malignancy. Understanding the
+molecular pathogenesis of ovarian cancer is critical to provide new targeted
+therapeutic strategies. Recent evidence supports a role for Notch in ovarian
+cancer progression and associates its dysregulation to poor overall survival.
+Similarly, CXCR4/SDF1a signalling correlates with ovarian cancer progression and 
+metastasis. Recent findings indicate that Notch promotes CXCR4/SDF1a signalling
+and its effect on cell growth and migration; nonetheless, up to now, the
+association between Notch and CXCR4/SDFa in ovarian cancer has not been reported.
+Thereby, the aim of this study was to investigate if Notch and CXCR4/SDF1a
+cooperate in determining ovarian cancer growth, survival and migration. To
+address this issue, Notch signalling was inhibited by using <U+03B3>-secretase
+inhibitors, or upregulated by forcing of Notch1 expression in ovarian cancer cell
+lines. Our results indicated that Notch activity influenced tumour cell growth
+and survival and positively regulated CXCR4 and SDF1a expression. CXCR4/SDF1a
+signalling mediated the effect of Notch pathway on ovarian cancer cell growth and
+SDF1a-driven migration. Additionally, for the first time, we demonstrated that
+Notch signalling activation can be detected in ovarian cancer specimens by
+immunohistochemistry analysis of the Notch transcriptional target, HES6 and is
+positively correlated with high expression levels of CXCR4 and SDF1a. Our results
+demonstrate that Notch affects ovarian cancer cell biology through the modulation
+of CXCR4/SDF1a signalling and suggest that Notch inhibition may be a rationale
+therapeutic approach to hamper ovarian cancer progression mediated by the
+CXCR4/SDF1a axis.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+PMID: 26235278  [PubMed - in process]
+
+
+4. Cell Mol Neurobiol. 2016 Jan;36(1):57-67. doi: 10.1007/s10571-015-0220-8. Epub
+2015 Jun 24.
+
+Hairy and Enhancer of Split 6 (Hes6) Deficiency in Mouse Impairs Neuroblast
+Differentiation in Dentate Gyrus Without Affecting Cell Proliferation and
+Integration into Mature Neurons.
+
+Nam SM(1,)(2,)(3), Kim YN(1,)(2,)(3), Kim JW(1,)(2,)(3), Kyeong DS(1,)(2,)(3),
+Lee SH(1,)(2,)(3), Son Y(1,)(2,)(3), Shin JH(1,)(2,)(3), Kim J(4), Yi SS(5), Yoon
+YS(6,)(7,)(8), Seong JK(9,)(10,)(11,)(12).
+
+Author information: 
+(1)Department of Anatomy and Cell Biology, College of Veterinary Medicine, Seoul 
+National University, Seoul, 151-742, South Korea. (2)BK21 PLUS Program for
+Creative Veterinary Science Research and Research Institute for Veterinary
+Science, Seoul National University, Seoul, 151-742, South Korea. (3)KMPC (Korea
+Mouse Phenotyping Center), Seoul National University, Seoul, 151-742, South
+Korea. (4)Department of Life Sciences and Ewha Research Center for Systems
+Biology, Ewha Womans University, Seoul, 120-750, South Korea. (5)Department of
+Biomedical Laboratory Science, College of Biomedical Sciences, Soonchunhyang
+University, Asan, 336-745, South Korea. (6)Department of Anatomy and Cell
+Biology, College of Veterinary Medicine, Seoul National University, Seoul,
+151-742, South Korea. ysyoon@snu.ac.kr. (7)BK21 PLUS Program for Creative
+Veterinary Science Research and Research Institute for Veterinary Science, Seoul 
+National University, Seoul, 151-742, South Korea. ysyoon@snu.ac.kr. (8)KMPC
+(Korea Mouse Phenotyping Center), Seoul National University, Seoul, 151-742,
+South Korea. ysyoon@snu.ac.kr. (9)Department of Anatomy and Cell Biology, College
+of Veterinary Medicine, Seoul National University, Seoul, 151-742, South Korea.
+snumouse@snu.ac.kr. (10)BK21 PLUS Program for Creative Veterinary Science
+Research and Research Institute for Veterinary Science, Seoul National
+University, Seoul, 151-742, South Korea. snumouse@snu.ac.kr. (11)KMPC (Korea
+Mouse Phenotyping Center), Seoul National University, Seoul, 151-742, South
+Korea. snumouse@snu.ac.kr. (12)Interdisciplinary Program for Bioinformatics,
+Program for Cancer Biology and BIO-MAX Institute, Seoul National University,
+Seoul, 151-742, South Korea. snumouse@snu.ac.kr.
+
+Hes6 is a member of the hairy-enhancer of split homolog (Hes) family of
+transcription factors and interacts with other Hes family genes. During
+development, Hes genes are expressed in neural stem cells and progenitor cells.
+However, the role of Hes6 in adult hippocampal neurogenesis remains unclear. We
+therefore investigated the effects of Hes6 on adult hippocampal neurogenesis, by 
+comparing Hes6 knockout and wild-type mice. To this end, we immunostained for
+markers of neural stem cells and progenitor cells (nestin), proliferating cells
+(Ki67), post-mitotic neuroblasts and immature neurons (doublecortin, DCX), mature
+neuronal cells (NeuN), and astrocyte (S100ß). We also injected
+5-bromo-2'-deoxyuridine (BrdU) to trace the fate of mitotic cells. Nestin- and
+Ki67-positive proliferating cells did now show any significant differences
+between wild and knockout groups. Hes6 knockout negatively affects neuroblast
+differentiation based on DCX immunohistochemistry. On the contrary, the ratio of 
+the BrdU and NeuN double-positive cells did not show any significance, even
+though it was slightly higher in the knockout group. These results suggest that
+Hes6 is involved in the regulation of neuroblast differentiation during adult
+neurogenesis, but does not influence integration into mature neurons.
+
+PMID: 26105991  [PubMed - in process]
+
+
+5. J Cell Mol Med. 2015 Jul;19(7):1624-36. doi: 10.1111/jcmm.12537. Epub 2015 Apr
+12.
+
+HES6 promotes prostate cancer aggressiveness independently of Notch signalling.
+
+Carvalho FL(1,)(2), Marchionni L(2), Gupta A(2), Kummangal BA(1), Schaeffer
+EM(1,)(2,)(3), Ross AE(1,)(3), Berman DM(1,)(2,)(3,)(4).
+
+Author information: 
+(1)Department of Pathology, Johns Hopkins University School of Medicine,
+Baltimore, MD, USA. (2)Department of Oncology, Johns Hopkins University School of
+Medicine, Baltimore, MD, USA. (3)Brady Institute of Urology, Johns Hopkins
+University School of Medicine, Baltimore, MD, USA. (4)Departments of Pathology
+and Molecular Medicine and Cancer Biology and Genetics, Cancer Research
+Institute, Queen's University, Kingston, ON, Canada.
+
+Notch signalling is implicated in the pathogenesis of a variety of cancers, but
+its role in prostate cancer is poorly understood. However, selected Notch pathway
+members are overrepresented in high-grade prostate cancers. We comprehensively
+profiled Notch pathway components in prostate cells and found prostate
+cancer-specific up-regulation of NOTCH3 and HES6. Their expression was
+particularly high in androgen responsive lines. Up- and down-regulating Notch in 
+these cells modulated expression of canonical Notch targets, HES1 and HEY1, which
+could also be induced by androgen. Surprisingly, androgen treatment also
+suppressed Notch receptor expression, suggesting that androgens can activate
+Notch target genes in a receptor-independent manner. Using a Notch-sensitive
+Recombination signal binding protein for immunoglobulin kappa J region (RBPJ)
+reporter assay, we found that basal levels of Notch signalling were significantly
+lower in prostate cancer cells compared to benign cells. Accordingly
+pharmacological Notch pathway blockade did not inhibit cancer cell growth or
+viability. In contrast to canonical Notch targets, HES6, a HES family member
+known to antagonize Notch signalling, was not regulated by Notch signalling, but 
+relied instead on androgen levels, both in cultured cells and in human cancer
+tissues. When engineered into prostate cancer cells, reduced levels of HES6
+resulted in reduced cancer cell invasion and clonogenic growth. By molecular
+profiling, we identified potential roles for HES6 in regulating hedgehog
+signalling, apoptosis and cell migration. Our results did not reveal any
+cell-autonomous roles for canonical Notch signalling in prostate cancer. However,
+the results do implicate HES6 as a promoter of prostate cancer progression.
+
+© 2015 The Authors. Journal of Cellular and Molecular Medicine published by John 
+Wiley & Sons Ltd and Foundation for Cellular and Molecular Medicine.
+
+PMCID: PMC4511360
+PMID: 25864518  [PubMed - indexed for MEDLINE]
+
+
+6. PLoS One. 2015 Mar 3;10(3):e0118201. doi: 10.1371/journal.pone.0118201.
+eCollection 2015.
+
+A combined gene signature of hypoxia and notch pathway in human glioblastoma and 
+its prognostic relevance.
+
+Irshad K(1), Mohapatra SK(2), Srivastava C(1), Garg H(1), Mishra S(3), Dikshit
+B(1), Sarkar C(4), Gupta D(5), Chandra PS(5), Chattopadhyay P(1), Sinha S(6),
+Chosdol K(1).
+
+Author information: 
+(1)Department of Biochemistry, All India Institute of Medical Sciences, New
+Delhi, India. (2)National Institute of Biomedical Genomics, Kalyani, West Bengal,
+India. (3)Department of Biochemistry, School of Life Science, University of
+Hyderabad, Hyderabad, India. (4)Department of Pathology, All India Institute of
+Medical Sciences, New Delhi, India. (5)Department of Neurosurgery, All India
+Institute of Medical Sciences, New Delhi, India. (6)National Brain Research
+Centre, Manesar, Gurgaon, Haryana, India.
+
+Hypoxia is a hallmark of solid tumors including glioblastoma (GBM). Its synergism
+with Notch signaling promotes progression in different cancers. However, Notch
+signaling exhibits pleiotropic roles and the existing literature lacks a
+comprehensive understanding of its perturbations under hypoxia in GBM with
+respect to all components of the pathway. We identified the key molecular
+cluster(s) characteristic of the Notch pathway response in hypoxic GBM tumors and
+gliomaspheres. Expression of Notch and hypoxia genes was evaluated in primary
+human GBM tissues by q-PCR. Clustering and statistical analyses were applied to
+identify the combination of hypoxia markers correlated with upregulated Notch
+pathway components. We found well-segregated tumor-clusters representing high and
+low HIF-1a/PGK1-expressors which accounted for differential expression of Notch
+signaling genes. In combination, a five-hypoxia marker set
+(HIF-1a/PGK1/VEGF/CA9/OPN) was determined as the best predictor for induction of 
+Notch1/Dll1/Hes1/Hes6/Hey1/Hey2. Similar Notch-axis genes were activated in
+gliomaspheres, but not monolayer cultures, under moderate/severe hypoxia (2%/0.2%
+O2). Preliminary evidence suggested inverse correlation between patient survival 
+and increased expression of constituents of the hypoxia-Notch gene signature.
+Together, our findings delineated the Notch-axis maximally associated with
+hypoxia in resected GBM, which might be prognostically relevant. Its upregulation
+in hypoxia-exposed gliomaspheres signify them as a better in-vitro model for
+studying hypoxia-Notch interactions than monolayer cultures.
+
+PMCID: PMC4348203
+PMID: 25734817  [PubMed - indexed for MEDLINE]
+
+
+7. Endocr Relat Cancer. 2015 Apr;22(2):131-44. doi: 10.1530/ERC-14-0454. Epub 2015
+Jan 5.
+
+HES5 silencing is an early and recurrent change in prostate tumourigenesis.
+
+Massie CE(1), Spiteri I(2), Ross-Adams H(2), Luxton H(2), Kay J(2), Whitaker
+HC(2), Dunning MJ(2), Lamb AD(3), Ramos-Montoya A(2), Brewer DS(2), Cooper CS(4),
+Eeles R(4); UK Prostate ICGC Group, Warren AY(2), Tavaré S(2), Neal DE(3), Lynch 
+AG(1).
+
+Author information: 
+(1)Cancer Research UK Cambridge InstituteUniversity of Cambridge, Cambridge, CB2 
+0RE, UKDivision of Genetics and EpidemiologyThe Institute of Cancer Research,
+Sutton, UKDepartment of Biological Sciences and School of MedicineUniversity of
+East Anglia, Norwich, UKRoyal Marsden NHS Foundation TrustLondon and Sutton,
+UKDepartments of PathologyUrologySurgical OncologyAddenbrooke's Hospital, Hills
+Road, Cambridge, UK charlie.massie@cruk.cam.ac.uk andy.lynch@cruk.cam.ac.uk.
+(2)Cancer Research UK Cambridge InstituteUniversity of Cambridge, Cambridge, CB2 
+0RE, UKDivision of Genetics and EpidemiologyThe Institute of Cancer Research,
+Sutton, UKDepartment of Biological Sciences and School of MedicineUniversity of
+East Anglia, Norwich, UKRoyal Marsden NHS Foundation TrustLondon and Sutton,
+UKDepartments of PathologyUrologySurgical OncologyAddenbrooke's Hospital, Hills
+Road, Cambridge, UK. (3)Cancer Research UK Cambridge InstituteUniversity of
+Cambridge, Cambridge, CB2 0RE, UKDivision of Genetics and EpidemiologyThe
+Institute of Cancer Research, Sutton, UKDepartment of Biological Sciences and
+School of MedicineUniversity of East Anglia, Norwich, UKRoyal Marsden NHS
+Foundation TrustLondon and Sutton, UKDepartments of PathologyUrologySurgical
+OncologyAddenbrooke's Hospital, Hills Road, Cambridge, UK Cancer Research UK
+Cambridge InstituteUniversity of Cambridge, Cambridge, CB2 0RE, UKDivision of
+Genetics and EpidemiologyThe Institute of Cancer Research, Sutton, UKDepartment
+of Biological Sciences and School of MedicineUniversity of East Anglia, Norwich, 
+UKRoyal Marsden NHS Foundation TrustLondon and Sutton, UKDepartments of
+PathologyUrologySurgical OncologyAddenbrooke's Hospital, Hills Road, Cambridge,
+UK Cancer Research UK Cambridge InstituteUniversity of Cambridge, Cambridge, CB2 
+0RE, UKDivision of Genetics and EpidemiologyThe Institute of Cancer Research,
+Sutton, UKDepartment of Biological Sciences and School of MedicineUniversity of
+East Anglia, Norwich, UKRoyal Marsden NHS Foundation TrustLondon and Sutton,
+UKDepartments of PathologyUrologySurgical OncologyAddenbrooke's Hospital, Hills
+Road, Cambridge, UK. (4)Cancer Research UK Cambridge InstituteUniversity of
+Cambridge, Cambridge, CB2 0RE, UKDivision of Genetics and EpidemiologyThe
+Institute of Cancer Research, Sutton, UKDepartment of Biological Sciences and
+School of MedicineUniversity of East Anglia, Norwich, UKRoyal Marsden NHS
+Foundation TrustLondon and Sutton, UKDepartments of PathologyUrologySurgical
+OncologyAddenbrooke's Hospital, Hills Road, Cambridge, UK Cancer Research UK
+Cambridge InstituteUniversity of Cambridge, Cambridge, CB2 0RE, UKDivision of
+Genetics and EpidemiologyThe Institute of Cancer Research, Sutton, UKDepartment
+of Biological Sciences and School of MedicineUniversity of East Anglia, Norwich, 
+UKRoyal Marsden NHS Foundation TrustLondon and Sutton, UKDepartments of
+PathologyUrologySurgical OncologyAddenbrooke's Hospital, Hills Road, Cambridge,
+UK.
+
+Prostate cancer is the most common cancer in men, resulting in over
+10<U+200A>000<U+200A>deaths/year in the UK. Sequencing and copy number analysis of primary
+tumours has revealed heterogeneity within tumours and an absence of recurrent
+founder mutations, consistent with non-genetic disease initiating events. Using
+methylation profiling in a series of multi-focal prostate tumours, we identify
+promoter methylation of the transcription factor HES5 as an early event in
+prostate tumourigenesis. We confirm that this epigenetic alteration occurs in
+86-97% of cases in two independent prostate cancer cohorts (n=49 and n=39
+tumour-normal pairs). Treatment of prostate cancer cells with the demethylating
+agent 5-aza-2'-deoxycytidine increased HES5 expression and downregulated its
+transcriptional target HES6, consistent with functional silencing of the HES5
+gene in prostate cancer. Finally, we identify and test a transcriptional module
+involving the AR, ERG, HES1 and HES6 and propose a model for the impact of HES5
+silencing on tumourigenesis as a starting point for future functional studies.
+
+© 2015 The authors.
+
+PMCID: PMC4335379
+PMID: 25560400  [PubMed - indexed for MEDLINE]
+
+
+8. EMBO Mol Med. 2014 Jul 8;6(9):1121-3. doi: 10.15252/emmm.201404210.
+
+DOT1L-HES6 fusion drives androgen independent growth in prostate cancer.
+
+Annala M(1), Kivinummi K(2), Leinonen K(2), Tuominen J(2), Zhang W(3), Visakorpi 
+T(2), Nykter M(2).
+
+Author information: 
+(1)Institute of Biosciences and Medical Technology, Tampere, Finland Department
+of Signal Processing, Tampere University of Technology, Tampere, Finland.
+(2)Institute of Biosciences and Medical Technology, Tampere, Finland.
+(3)Department of Pathology, University of Texas M.D. Anderson Cancer Center,
+Houston, TX, USA.
+
+PMCID: PMC4197859
+PMID: 25006183  [PubMed - indexed for MEDLINE]
+
+
+9. Genome Med. 2014 Apr 30;6(4):34. doi: 10.1186/gm551. eCollection 2014.
+
+Early aberrant DNA methylation events in a mouse model of acute myeloid leukemia.
+
+Sonnet M(1), Claus R(2), Becker N(3), Zucknick M(3), Petersen J(1), Lipka DB(1), 
+Oakes CC(1), Andrulis M(4), Lier A(5), Milsom MD(5), Witte T(1), Gu L(6),
+Kim-Wanner SZ(1), Schirmacher P(4), Wulfert M(7), Gattermann N(7), Lübbert M(8), 
+Rosenbauer F(9), Rehli M(10), Bullinger L(11), Weichenhan D(1), Plass C(1).
+
+Author information: 
+(1)Department of Epigenomics and Cancer Risk Factors, German Cancer Research
+Center (DKFZ), D-69120 Heidelberg, Germany. (2)Department of Epigenomics and
+Cancer Risk Factors, German Cancer Research Center (DKFZ), D-69120 Heidelberg,
+Germany ; Department of Hematology/Oncology, University Medical Center, D-79106
+Freiburg, Germany. (3)Division of Biostatistics, German Cancer Research Center
+(DKFZ), D-69120 Heidelberg, Germany. (4)Department of General Pathology,
+Institute of Pathology, University Heidelberg, D-69120 Heidelberg, Germany.
+(5)Division of Stem Cells and Cancer, German Cancer Research Center (DKFZ),
+D-69120 Heidelberg, Germany. (6)Department of Epigenomics and Cancer Risk
+Factors, German Cancer Research Center (DKFZ), D-69120 Heidelberg, Germany ;
+Division of Theoretical Bioinformatics, German Cancer Research Center (DKFZ),
+D-69120 Heidelberg, Germany. (7)Department of Hematology, Oncology and Clinical
+Immunology, Heinrich-Heine University, D-40225 Düsseldorf, Germany. (8)Department
+of Hematology/Oncology, University Medical Center, D-79106 Freiburg, Germany.
+(9)Institute of Molecular Tumor Biology, Westfälische Wilhelms Universität,
+D-48149 Münster, Germany. (10)Department of Hematology and Oncology, University
+Hospital Regensburg, D-93042 Regensburg, Germany. (11)Department of Internal
+Medicine III, University of Ulm, D-89081 Ulm, Germany.
+
+BACKGROUND: Aberrant DNA methylation is frequently found in human malignancies
+including acute myeloid leukemia (AML). While most studies focus on later disease
+stages, the onset of aberrant DNA methylation events and their dynamics during
+leukemic progression are largely unknown.
+METHODS: We screened genome-wide for aberrant CpG island methylation in three
+disease stages of a murine AML model that is driven by hypomorphic expression of 
+the hematopoietic transcription factor PU.1. DNA methylation levels of selected
+genes were correlated with methylation levels of CD34+ cells and lineage
+negative, CD127-, c-Kit+, Sca-1+ cells; common myeloid progenitors;
+granulocyte-macrophage progenitors; and megakaryocyte-erythroid progenitors.
+RESULTS: We identified 1,184 hypermethylated array probes covering 762 associated
+genes in the preleukemic stage. During disease progression, the number of
+hypermethylated genes increased to 5,465 in the late leukemic disease stage.
+Using publicly available data, we found a significant enrichment of PU.1 binding 
+sites in the preleukemic hypermethylated genes, suggesting that shortage of PU.1 
+makes PU.1 binding sites in the DNA accessible for aberrant methylation. Many
+known AML associated genes such as RUNX1 and HIC1 were found among the
+preleukemic hypermethylated genes. Nine novel hypermethylated genes, FZD5, FZD8, 
+PRDM16, ROBO3, CXCL14, BCOR, ITPKA, HES6 and TAL1, the latter four being
+potential PU.1 targets, were confirmed to be hypermethylated in human normal
+karyotype AML patients, underscoring the relevance of the mouse model for human
+AML.
+CONCLUSIONS: Our study identified early aberrantly methylated genes as potential 
+contributors to onset and progression of AML.
+
+PMCID: PMC4062060
+PMID: 24944583  [PubMed]
+
+
+10. J Comput Biol. 2014 Jul;21(7):548-67. doi: 10.1089/cmb.2014.0022. Epub 2014 May
+5.
+
+Stochastic simulation of notch signaling reveals novel factors that mediate the
+differentiation of neural stem cells.
+
+Tzou WS(1), Lo YT, Pai TW, Hu CH, Li CH.
+
+Author information: 
+(1)1 Department of Life Sciences, National Taiwan Ocean University , Taiwan,
+R.O.C.
+
+Notch signaling controls cell fate decisions and regulates multiple biological
+processes, such as cell proliferation, differentiation, and apoptosis.
+Computational modeling of the deterministic simulation of Notch signaling has
+provided important insight into the possible molecular mechanisms that underlie
+the switch from the undifferentiated stem cell to the differentiated cell. Here, 
+we constructed a stochastic model of a Notch signaling model containing Hes1,
+Notch1, RBP-Jk, Mash1, Hes6, and Delta. mRNA and protein were represented as a
+discrete state, and 334 reactions were employed for each biochemical reaction
+using a graphics processing unit-accelerated Gillespie scheme. We employed the
+tuning of 40 molecular mechanisms and revealed several potential mediators
+capable of enabling the switch from cell stemness to differentiation. These
+effective mediators encompass different aspects of cellular regulations,
+including the nuclear transport of Hes1, the degradation of mRNA (Hes1 and
+Notch1) and protein (Notch1), the association between RBP-Jk and Notch
+intracellular domain (NICD), and the cleavage efficiency of the NICD. These
+mechanisms overlap with many modifiers that have only recently been discovered to
+modulate the Notch signaling output, including microRNA action,
+ubiquitin-mediated proteolysis, and the competitive binding of the RBP-Jk-DNA
+complex. Moreover, we identified the degradation of Hes1 mRNA and nuclear
+transport of Hes1 as the dominant mechanisms that were capable of abolishing the 
+cell state transition induced by other molecular mechanisms.
+
+PMCID: PMC4082354
+PMID: 24798230  [PubMed - indexed for MEDLINE]
+
+
+11. EMBO Mol Med. 2014 May 1;6(5):651-61. doi: 10.1002/emmm.201303581.
+
+HES6 drives a critical AR transcriptional programme to induce
+castration-resistant prostate cancer through activation of an E2F1-mediated cell 
+cycle network.
+
+Ramos-Montoya A(1), Lamb AD, Russell R, Carroll T, Jurmeister S, Galeano-Dalmau
+N, Massie CE, Boren J, Bon H, Theodorou V, Vias M, Shaw GL, Sharma NL, Ross-Adams
+H, Scott HE, Vowler SL, Howat WJ, Warren AY, Wooster RF, Mills IG, Neal DE.
+
+Author information: 
+(1)Uro-Oncology Research Group Cancer Research UK Cambridge Institute University 
+of Cambridge Li Ka Shing Centre, Cambridge, UK.
+
+Castrate-resistant prostate cancer (CRPC) is poorly characterized and
+heterogeneous and while the androgen receptor (AR) is of singular importance,
+other factors such as c-Myc and the E2F family also play a role in later stage
+disease. HES6 is a transcription co-factor associated with stem cell
+characteristics in neural tissue. Here we show that HES6 is up-regulated in
+aggressive human prostate cancer and drives castration-resistant tumour growth in
+the absence of ligand binding by enhancing the transcriptional activity of the
+AR, which is preferentially directed to a regulatory network enriched for
+transcription factors such as E2F1. In the clinical setting, we have uncovered a 
+HES6-associated signature that predicts poor outcome in prostate cancer, which
+can be pharmacologically targeted by inhibition of PLK1 with restoration of
+sensitivity to castration. We have therefore shown for the first time the
+critical role of HES6 in the development of CRPC and identified its potential in 
+patient-specific therapeutic strategies.
+
+PMCID: PMC4023887
+PMID: 24737870  [PubMed - indexed for MEDLINE]
+
+
+12. Prostate. 2014 Jun;74(9):933-45. doi: 10.1002/pros.22811. Epub 2014 Apr 16.
+
+Notch signaling in prostate cancer: a moving target.
+
+Carvalho FL(1), Simons BW, Eberhart CG, Berman DM.
+
+Author information: 
+(1)Department of Pathology, Johns Hopkins University School of Medicine,
+Baltimore, Maryland.
+
+INTRODUCTION: By regulating cell fate, proliferation, and survival, Notch pathway
+signaling provides critical input into differentiation, organization, and
+function of multiple tissues. Notch signaling is also becoming an increasingly
+recognized feature in malignancy, including prostate cancer, where it may play
+oncogenic or tumor suppressive roles.
+METHODS: Based on an electronic literature search from 2000 to 2013 we
+identified, summarized, and integrated published research on Notch signaling
+dynamics in prostate homeostasis and prostate cancer.
+RESULTS: In benign prostate, Notch controls the differentiation state and
+architecture of the gland. In prostate cancer, similar features correlate with
+lethal potential and may be influenced by Notch. Increased Notch1 can confer a
+survival advantage on prostate cancer cells, and levels of Notch family members, 
+such as Jagged2, Notch3, and Hes6 increase with higher cancer grade. However,
+Notch signaling can also antagonize growth and survival of both benign and
+malignant prostate cells, possibly through antagonistic effects of the Notch
+target HEY1 on androgen receptor function.
+DISCUSSION: Notch signaling can dramatically influence prostate development and
+disease. Determining the cellular contexts where Notch promotes or suppresses
+prostate growth could open opportunities for diagnostic and therapeutic
+interventions.
+
+© 2014 Wiley Periodicals, Inc.
+
+PMCID: PMC4323172
+PMID: 24737393  [PubMed - indexed for MEDLINE]
+
+
+13. Genetics. 2014 Jun;197(2):725-38. doi: 10.1534/genetics.114.163642. Epub 2014 Mar
+24.
+
+Modeling the zebrafish segmentation clock's gene regulatory network constrained
+by expression data suggests evolutionary transitions between oscillating and
+nonoscillating transcription.
+
+Schwendinger-Schreck J(1), Kang Y(1), Holley SA(2).
+
+Author information: 
+(1)Department of Molecular, Cellular, and Developmental Biology, Yale University,
+New Haven, Connecticut 06520. (2)Department of Molecular, Cellular, and
+Developmental Biology, Yale University, New Haven, Connecticut 06520
+scott.holley@yale.edu.
+
+During segmentation of vertebrate embryos, somites form in accordance with a
+periodic pattern established by the segmentation clock. In the zebrafish (Danio
+rerio), the segmentation clock includes six hairy/enhancer of split-related
+(her/hes) genes, five of which oscillate due to negative autofeedback. The
+nonoscillating gene hes6 forms the hub of a network of 10 Her/Hes protein dimers,
+which includes 7 DNA-binding dimers and 4 weak or non-DNA-binding dimers. The
+balance of dimer species is critical for segmentation clock function, and
+loss-of-function studies suggest that the her genes have both unique and
+redundant functions within the clock. However, the precise regulatory
+interactions underlying the negative feedback loop are unknown. Here, we combine 
+quantitative experimental data, in silico modeling, and a global optimization
+algorithm to identify a gene regulatory network (GRN) designed to fit measured
+transcriptional responses to gene knockdown. Surprisingly, we find that hes6, the
+clock gene that does not oscillate, responds to negative feedback. Consistent
+with prior in silico analyses, we find that variation in transcription,
+translation, and degradation rates can mediate the gain and loss of oscillatory
+behavior for genes regulated by negative feedback. Extending our study, we found 
+that transcription of the nonoscillating Fgf pathway gene sef responds to her/hes
+perturbation similarly to oscillating her genes. These observations suggest a
+more extensive underlying regulatory similarity between the zebrafish
+segmentation clock and the mouse and chick segmentation clocks, which exhibit
+oscillations of her/hes genes as well as numerous other Notch, Fgf, and Wnt
+pathway genes.
+
+Copyright © 2014 by the Genetics Society of America.
+
+PMCID: PMC4063927
+PMID: 24663100  [PubMed - indexed for MEDLINE]
+
+
+14. Cancer Med. 2013 Oct;2(5):734-43. doi: 10.1002/cam4.118. Epub 2013 Sep 17.
+
+Thiocoraline alters neuroendocrine phenotype and activates the Notch pathway in
+MTC-TT cell line.
+
+Tesfazghi S(1), Eide J, Dammalapati A, Korlesky C, Wyche TP, Bugni TS, Chen H,
+Jaskula-Sztul R.
+
+Author information: 
+(1)University of Wisconsin Medical School, Madison, Wisconsin.
+
+Medullary thyroid cancer (MTC) is an aggressive neuroendocrine tumor (NET).
+Previous research has shown that activation of Notch signaling has a tumor
+suppressor role in NETs. The potential therapeutic effect of thiocoraline on the 
+activation of the Notch pathway in an MTC cell line (TT) was investigated.
+Thiocoraline was isolated from a marine bacterium Verrucosispora sp. MTT assay
+(3-[4, 5-dimethylthiazole-2-yl]-2, 5-diphenyltetrazolium bromide) was used to
+determine the IC50 value and to measure cell proliferation. Western blot revealed
+the expression of Notch isoforms, NET, and cell cycle markers. Cell cycle
+progression was validated by flow cytometry. The mRNA expression of Notch
+isoforms and downstream targets were measured using real-time PCR. The IC50 value
+for thiocoraline treatment in TT cells was determined to be 7.6 nmol/L.
+Thiocoraline treatment decreased cell proliferation in a dose- and time-dependent
+manner. The mechanism of growth inhibition was found to be cell cycle arrest in
+G1 phase. Thiocoraline activated the Notch pathway as demonstrated by the
+dose-dependent increase in mRNA and protein expression of Notch isoforms.
+Furthermore, treatment with thiocoraline resulted in changes in the expression of
+downstream targets of the Notch pathway (HES1, HES2, HES6, HEY1, and HEY2) and
+reduced expression of NET markers, CgA, and ASCL1. Thiocoraline is a potent Notch
+pathway activator and an inhibitor of MTC-TT cell proliferation at low nanomolar 
+concentrations. These results provide exciting evidence for the use of
+thiocoraline as a potential treatment for intractable MTC.
+
+© 2013 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+
+PMCID: PMC3892805
+PMID: 24403239  [PubMed - indexed for MEDLINE]
+
+
+15. Hepatology. 2014 May;59(5):1750-60. doi: 10.1002/hep.26699. Epub 2014 Mar 26.
+
+All-trans-retinoic acid ameliorates hepatic steatosis in mice by a novel
+transcriptional cascade.
+
+Kim SC(1), Kim CK, Axe D, Cook A, Lee M, Li T, Smallwood N, Chiang JY, Hardwick
+JP, Moore DD, Lee YK.
+
+Author information: 
+(1)Department of Integrative Medical Sciences, Northeast Ohio Medical University,
+Rootstown, OH.
+
+Comment in
+    Hepatology. 2014 May;59(5):1662-4.
+
+Mice deficient in small heterodimer partner (SHP) are protected from diet-induced
+hepatic steatosis resulting from increased fatty acid oxidation and decreased
+lipogenesis. The decreased lipogenesis appears to be a direct consequence of very
+low expression of peroxisome proliferator-activated receptor gamma 2 (PPAR-<U+03B3>2), a
+potent lipogenic transcription factor, in the SHP(-/-) liver. The current study
+focused on the identification of a SHP-dependent regulatory cascade that controls
+PPAR-<U+03B3>2 gene expression, thereby regulating hepatic fat accumulation. Illumina
+BeadChip array (Illumina, Inc., San Diego, CA) and real-time polymerase chain
+reaction were used to identify genes responsible for the linkage between SHP and 
+PPAR-<U+03B3>2 using hepatic RNAs isolated from SHP(-/-) and SHP-overexpressing mice.
+The initial efforts identify that hairy and enhancer of split 6 (Hes6), a novel
+transcriptional repressor, is an important mediator of the regulation of PPAR-<U+03B3>2 
+transcription by SHP. The Hes6 promoter is specifically activated by the retinoic
+acid receptor (RAR) in response to its natural agonist ligand, all-trans retinoic
+acid (atRA), and is repressed by SHP. Hes6 subsequently represses hepatocyte
+nuclear factor 4 alpha (HNF-4a)-activated PPAR-<U+03B3>2 gene expression by direct
+inhibition of HNF-4a transcriptional activity. Furthermore, we provide evidences 
+that atRA treatment or adenovirus-mediated RAR-a overexpression significantly
+reduced hepatic fat accumulation in obese mouse models, as observed in earlier
+studies, and the beneficial effect is achieved by the proposed transcriptional
+cascade.CONCLUSIONS: Our study describes a novel transcriptional regulatory
+cascade controlling hepatic lipid metabolism that identifies retinoic acid
+signaling as a new therapeutic approach to nonalcoholic fatty liver diseases.
+
+© 2014 by the American Association for the Study of Liver Diseases.
+
+PMCID: PMC4008145
+PMID: 24038081  [PubMed - indexed for MEDLINE]
+
+
+16. Mol Cell Biol. 2013 Jul;33(14):2797-808. doi: 10.1128/MCB.01610-12. Epub 2013 May
+20.
+
+Interaction and antagonistic roles of NF-<U+03BA>B and Hes6 in the regulation of
+cortical neurogenesis.
+
+Methot L(1), Hermann R, Tang Y, Lo R, Al-Jehani H, Jhas S, Svoboda D, Slack RS,
+Barker PA, Stifani S.
+
+Author information: 
+(1)Montreal Neurological Institute, McGill University, Montreal, Quebec, Canada.
+
+The involvement of nuclear factor kappa B (NF-<U+03BA>B) in several processes in the
+postnatal and adult brain, ranging from neuronal survival to synaptogenesis and
+plasticity, has been documented. In contrast, little is known about the functions
+of NF-<U+03BA>B during embryonic brain development. It is shown here that NF-<U+03BA>B is
+selectively activated in neocortical neural progenitor cells in the developing
+mouse telencephalon. Blockade of NF-<U+03BA>B activity leads to premature cortical
+neuronal differentiation and depletion of the progenitor cell pool. Conversely,
+NF-<U+03BA>B activation causes decreased cortical neurogenesis and expansion of the
+progenitor cell compartment. These effects are antagonized by the proneuronal
+transcription factor Hes6, which physically and functionally interacts with
+RelA-containing NF-<U+03BA>B complexes in cortical progenitor cells. In turn, NF-<U+03BA>B
+exerts an inhibitory effect on the ability of Hes6 to promote cortical neuronal
+differentiation. These results reveal previously uncharacterized functions and
+modes of regulation for NF-<U+03BA>B and Hes6 during cortical neurogenesis.
+
+PMCID: PMC3700133
+PMID: 23689134  [PubMed - indexed for MEDLINE]
+
+
+17. Gene Expr Patterns. 2013 Mar-Apr;13(3-4):109-25. doi: 10.1016/j.gep.2013.02.001. 
+Epub 2013 Feb 16.
+
+Inferring the in vivo cellular program of developing bovine skeletal muscle from 
+expression data.
+
+Hudson NJ(1), Lyons RE, Reverter A, Greenwood PL, Dalrymple BP.
+
+Author information: 
+(1)Computational and Systems Biology Group, CSIRO Food Futures and CSIRO Animal, 
+Food and Health Sciences, 306 Carmody Road, St. Lucia, QLD 4072, Australia.
+nick.hudson@csiro.au
+
+We outline an in vivo cellular program of bovine longissimus muscle development
+inferred from expression data from 60 days post conception to 3months postnatal. 
+Analytic challenges included changes in cellular composition, ambiguous
+'diagnostic' markers of cell type and contrasts between cattle human and mouse
+myogenesis. Nevertheless, the expression profiles of the myosin isoforms support 
+slow and fast muscle fibres emanating from primary and secondary myogenesis
+respectively, while expression of the prenatal myosin subunits is down regulated 
+prior to birth. Of the canonical pro-myogenic transcription factors (TF), MYF6
+and MYF5 are negatively co-expressed, with MYF6 displaying higher expression in
+the post-natal samples and MYF5, MYOG, HES6 and PAX7 displaying higher expression
+in early development. A set of TFs (SIX1, EYA2 and DACH2) considered important in
+undifferentiated murine cells were equally abundant in differentiated bovine
+cells. An examination of mammalian regulators of fibre composition, muscle mass
+and muscle metabolism, underscored the roles of PPARGC1A, TGFß signalling and the
+NHR4 Nuclear Hormone Receptors on bovine muscle development. Enriched among the
+most variably expressed genes from the entire data set were molecules regulating 
+mitochondrial metabolism of carbohydrate (PDK4), fat (UCP3), protein (AGXT2L1)
+and high energy phosphate (CKMT2). The dramatic increase in the expression of
+these transcripts, which may enable the peri-natal transition to metabolic
+independence critical for new-born herbivores, provides surprising evidence for
+substantial developmental remodelling of muscle mitochondria and reflects changes
+in nutrient availability. Overall, despite differences in size, metabolism and
+physiology, the muscle structural subunit expression program appears very similar
+in ruminants, rodents and humans.
+
+Crown Copyright © 2013. Published by Elsevier B.V. All rights reserved.
+
+PMID: 23419240  [PubMed - indexed for MEDLINE]
+
+
+18. Stem Cells Int. 2013;2013:490476. doi: 10.1155/2013/490476. Epub 2013 Jan 14.
+
+Omega-3 polyunsaturated Fatty acids enhance neuronal differentiation in cultured 
+rat neural stem cells.
+
+Katakura M(1), Hashimoto M, Okui T, Shahdat HM, Matsuzaki K, Shido O.
+
+Author information: 
+(1)Department of Environmental Physiology, Faculty of Medicine, Shimane
+University, Shimane Izumo, 693-8501, Japan.
+
+Polyunsaturated fatty acids (PUFAs) can induce neurogenesis and recovery from
+brain diseases. However, the exact mechanisms of the beneficial effects of PUFAs 
+have not been conclusively described. We recently reported that docosahexaenoic
+acid (DHA) induced neuronal differentiation by decreasing Hes1 expression and
+increasing p27(kip1) expression, which causes cell cycle arrest in neural stem
+cells (NSCs). In the present study, we examined the effect of eicosapentaenoic
+acid (EPA) and arachidonic acid (AA) on differentiation, expression of basic
+helix-loop-helix transcription factors (Hes1, Hes6, and NeuroD), and the cell
+cycle of cultured NSCs. EPA also increased mRNA levels of Hes1, an inhibitor of
+neuronal differentiation, Hes6, an inhibitor of Hes1, NeuroD, and Map2 mRNA and
+Tuj-1-positive cells (a neuronal marker), indicating that EPA induced neuronal
+differentiation. EPA increased the mRNA levels of p21(cip1) and p27(kip1), a
+cyclin-dependent kinase inhibitor, which indicated that EPA induced cell cycle
+arrest. Treatment with AA decreased Hes1 mRNA but did not affect NeuroD and Map2 
+mRNA levels. Furthermore, AA did not affect the number of Tuj-1-positive cells or
+cell cycle progression. These results indicated that EPA could be involved in
+neuronal differentiation by mechanisms alternative to those of DHA, whereas AA
+did not affect neuronal differentiation in NSCs.
+
+PMCID: PMC3556893
+PMID: 23365582  [PubMed]
+
+
+19. Development. 2013 Jan 15;140(2):444-53. doi: 10.1242/dev.077230.
+
+The elongation rate of RNA polymerase II in zebrafish and its significance in the
+somite segmentation clock.
+
+Hanisch A(1), Holder MV, Choorapoikayil S, Gajewski M, Özbudak EM, Lewis J.
+
+Author information: 
+(1)Vertebrate Development Laboratory, Cancer Research UK London Research
+Institute, 44 Lincoln's Inn Fields, London WC2A 3LY, UK.
+
+A gene expression oscillator called the segmentation clock controls somite
+segmentation in the vertebrate embryo. In zebrafish, the oscillatory
+transcriptional repressor genes her1 and her7 are crucial for genesis of the
+oscillations, which are thought to arise from negative autoregulation of these
+genes. The period of oscillation is predicted to depend on delays in the
+negative-feedback loop, including, most importantly, the transcriptional delay - 
+the time taken to make each molecule of her1 or her7 mRNA. her1 and her7 operate 
+in parallel. Loss of both gene functions, or mutation of her1 combined with
+knockdown of Hes6, which we show to be a binding partner of Her7, disrupts
+segmentation drastically. However, mutants in which only her1 or her7 is
+functional show only mild segmentation defects and their oscillations have almost
+identical periods. This is unexpected because the her1 and her7 genes differ
+greatly in length. We use transgenic zebrafish to measure the RNA polymerase II
+elongation rate, for the first time, in the intact embryo. This rate is
+unexpectedly rapid, at 4.8 kb/minute at 28.5°C, implying that, for both genes,
+the time taken for transcript elongation is insignificant compared with other
+sources of delay, explaining why the mutants have similar clock periods. Our
+computational model shows how loss of her1 or her7 can allow oscillations to
+continue with unchanged period but with reduced amplitude and impaired synchrony,
+as manifested in the in situ hybridisation patterns of the single mutants.
+
+PMID: 23250218  [PubMed - indexed for MEDLINE]
+
+
+20. Exp Cell Res. 2013 Jan 1;319(1):103-12. doi: 10.1016/j.yexcr.2012.08.010. Epub
+2012 Sep 14.
+
+HES6 enhances the motility of alveolar rhabdomyosarcoma cells.
+
+Wickramasinghe CM(1), Domaschenz R, Amagase Y, Williamson D, Missiaglia E,
+Shipley J, Murai K, Jones PH.
+
+Author information: 
+(1)MRC Cancer Cell Unit, Hutchison-MRC Research centre, Addenbrooke's Hospital
+Cambridge, UK.
+
+HES6, a member of the hairy-enhancer-of-split family of transcription factors,
+plays multiple roles in myogenesis. It is a direct target of the myogenic
+transcription factor MyoD and has been shown to regulate the formation of the
+myotome in development, myoblast cell cycle exit and the organization of the
+actin cytoskeleton during terminal differentiation. Here we investigate the
+expression and function of HES6 in rhabdomyosarcoma, a soft tissue tumor which
+expresses myogenic genes but fails to differentiate into muscle. We show that
+HES6 is expressed at high levels in the subset of alveolar rhabdomyosarcomas
+expressing PAX/FOXO1 fusion genes (ARMSp). Knockdown of HES6 mRNA in the ARMSp
+cell line RH30 reduces proliferation and cell motility. This phenotype is rescued
+by expression of mouse Hes6 which is insensitive to HES6 siRNA. Furthermore,
+expression microarray analysis indicates that the HES6 knockdown is associated
+with a decrease in the levels of Transgelin, (TAGLN), a regulator of the actin
+cytoskeleton. Knockdown of TAGLN decreases cell motility, whilst TAGLN
+overexpression rescues the motility defect resulting from HES6 knockdown. These
+findings indicate HES6 contributes to the pathogenesis of ARMSp by enhancing both
+proliferation and cell motility.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+PMID: 22982728  [PubMed - indexed for MEDLINE]
+
+
+21. Exp Mol Med. 2012 Nov 30;44(11):642-52. doi: 10.3858/emm.2012.44.11.073.
+
+Circadian regulation of low density lipoprotein receptor promoter activity by
+CLOCK/BMAL1, Hes1 and Hes6.
+
+Lee YJ(1), Han DH, Pak YK, Cho SH.
+
+Author information: 
+(1)Department of Neuroscience and Neurodegeneration Control Research Center,
+Kyung Hee University, Seoul 130-701, Korea.
+
+Low density lipoprotein receptor (LDLR) plays an important role in the
+cholesterol homeostasis. We examined the possible circadian regulation of LDLR
+and mechanism(s) underlying it. In mice, blood glucose and plasma triglyceride,
+total and high density lipoprotein cholesterol varied distinctively throughout a 
+day. In addition, LDLR mRNA oscillated in the liver in a functional
+clock-dependent manner. Accordingly, analysis of human LDLR promoter sequence
+revealed three putative E-boxes, raising the possible regulation of LDLR
+expression by E-box-binding transcription factors. To test this possibility,
+human LDLR promoter reporter constructs were transfected into HepG2 cells and the
+effects of CLOCK/BMAL1, Hes1, and Hes6 expression were analyzed. It was found
+that positive circadian transcription factor complex CLOCK/BMAL1 upregulated
+human LDLR promoter activity in a serum-independent manner, while Hes family
+members Hes1 and Hes6 downregulated it only under serum-depleted conditions. Both
+effects were mapped to proximal promoter region of human LDLR, where mutation or 
+deletion of well-known sterol regulatory element (SRE) abolished only the
+repressive effect of Hes1. Interestingly, hes6 and hes1 mRNA oscillated in an
+anti-phasic manner in the wild-type but not in the per1-/-per2 -/- mouse.
+Comparative analysis of mouse, rat and human hes6 genes revealed that three
+E-boxes are conserved among three species. Transfection and site-directed
+mutagenesis studies with hes6 reporter constructs confirmed that the third E-box 
+in the exon IV is functionally induced by CLOCK/BMAL1. Taken together, these
+results suggest that LDLR expression is under circadian control involving
+CLOCK/BMAL1 and Hes family members Hes1 and Hes6.
+
+PMCID: PMC3509181
+PMID: 22913986  [PubMed - indexed for MEDLINE]
+
+
+22. PLoS Biol. 2012;10(7):e1001364. doi: 10.1371/journal.pbio.1001364. Epub 2012 Jul 
+24.
+
+Topology and dynamics of the zebrafish segmentation clock core circuit.
+
+Schröter C(1), Ares S, Morelli LG, Isakova A, Hens K, Soroldoni D, Gajewski M,
+Jülicher F, Maerkl SJ, Deplancke B, Oates AC.
+
+Author information: 
+(1)Max Planck Institute of Molecular Cell Biology and Genetics, Dresden, Germany.
+
+Comment in
+    PLoS Biol. 2012;10(7):e1001366.
+    Nat Rev Genet. 2012 Sep;13(9):595.
+
+During vertebrate embryogenesis, the rhythmic and sequential segmentation of the 
+body axis is regulated by an oscillating genetic network termed the segmentation 
+clock. We describe a new dynamic model for the core pace-making circuit of the
+zebrafish segmentation clock based on a systematic biochemical investigation of
+the network's topology and precise measurements of somitogenesis dynamics in
+novel genetic mutants. We show that the core pace-making circuit consists of two 
+distinct negative feedback loops, one with Her1 homodimers and the other with
+Her7:Hes6 heterodimers, operating in parallel. To explain the observed single and
+double mutant phenotypes of her1, her7, and hes6 mutant embryos in our dynamic
+model, we postulate that the availability and effective stability of the dimers
+with DNA binding activity is controlled in a "dimer cloud" that contains all
+possible dimeric combinations between the three factors. This feature of our
+model predicts that Hes6 protein levels should oscillate despite constant hes6
+mRNA production, which we confirm experimentally using novel Hes6 antibodies. The
+control of the circuit's dynamics by a population of dimers with and without DNA 
+binding activity is a new principle for the segmentation clock and may be
+relevant to other biological clocks and transcriptional regulatory networks.
+
+PMCID: PMC3404119
+PMID: 22911291  [PubMed - indexed for MEDLINE]
+
+
+23. Folia Biol (Praha). 2012;58(3):98-105.
+
+Activation of the Jak/Stat signalling pathway by leukaemia inhibitory factor
+stimulates trans-differentiation of human non-endocrine pancreatic cells into
+insulin-producing cells.
+
+Koblas T(1), Leontovyc I, Zacharovová K, Berková Z, Kríž J, Girman P, Saudek F.
+
+Author information: 
+(1)Institute for Clinical and Experimental Medicine, Prague, Czech Republic.
+
+Differentiation of pancreatic ß-cells is regulated by a wide range of signalling 
+pathways. The aim of our current work was to evaluate the effect of the Jak/Stat 
+signalling pathway on the differentiation of human non-endocrine pancreatic cells
+into insulin-producing cells. Activation of the Jak/Stat signalling pathway by
+leukaemia inhibitory factor (LIF) stimulated differentiation of
+C-peptide-negative human non-endocrine pancreatic cells into insulin-producing
+cells in 6.3 ± 2.0 % cells (N = 5) and induced expression of pro-endocrine
+transcription factor neurogenin 3, Notch signalling pathway suppressor HES6 and
+stimulator of ß-cell neogenesis REG3A. The expression of the REG3A gene and
+increased rate of differentiation into insulin-producing cells (10.2 ± 2.1 %)
+were further stimulated by a combination of LIF with nicotinamide and
+dexamethasone. Glucose-stimulated (5 vs. 20 mM) C-peptide secretion confirmed
+proper insulin secretory function of trans-differentiated insulin-producing cells
+(0.51 vs. 2.03 pmol C-peptide/µg DNA, P < 0.05). Our results indicate that
+Jak/Stat signalling critically contributes to trans-differentiation of
+non-endocrine pancreatic cells into functional insulin-producing cells. The
+positive effect of the Jak/Stat signalling pathway on trans-differentiation is
+mediated by the key genes that activate differentiation of pancreatic ß-cells.
+
+PMID: 22849859  [PubMed - indexed for MEDLINE]
+
+
+24. Development. 2012 Mar;139(5):940-7. doi: 10.1242/dev.073544. Epub 2012 Jan 25.
+
+The Her7 node modulates the network topology of the zebrafish segmentation clock 
+via sequestration of the Hes6 hub.
+
+Trofka A(1), Schwendinger-Schreck J, Brend T, Pontius W, Emonet T, Holley SA.
+
+Author information: 
+(1)Department of Molecular, Cellular and Developmental Biology, Yale University, 
+New Haven, CT 06520, USA.
+
+Using in vitro and in vivo assays, we define a network of Her/Hes dimers
+underlying transcriptional negative feedback within the zebrafish segmentation
+clock. Some of the dimers do not appear to be DNA-binding, whereas those dimers
+that do interact with DNA have distinct preferences for cis regulatory sequences.
+Dimerization is specific, with Hes6 serving as the hub of the network. Her1 binds
+DNA only as a homodimer but will also dimerize with Hes6. Her12 and Her15 bind
+DNA both as homodimers and as heterodimers with Hes6. Her7 dimerizes strongly
+with Hes6 and weakly with Her15. This network structure engenders specific
+network dynamics and imparts greater influence to the Her7 node. Computational
+analysis supports the hypothesis that Her7 disproportionately influences the
+availability of Hes6 to heterodimerize with other Her proteins. Genetic
+experiments suggest that this regulation is important for operation of the
+network. Her7 therefore has two functions within the zebrafish segmentation
+clock. Her7 acts directly within the delayed negative feedback as a DNA-binding
+heterodimer with Hes6. Her7 also has an emergent function, independent of DNA
+binding, in which it modulates network topology via sequestration of the network 
+hub.
+
+PMCID: PMC3274355
+PMID: 22278920  [PubMed - indexed for MEDLINE]
+
+
+25. Haematologica. 2012 Jul;97(7):1064-72. doi: 10.3324/haematol.2011.047530. Epub
+2012 Jan 22.
+
+ETV6-PDGFRB and FIP1L1-PDGFRA stimulate human hematopoietic progenitor cell
+proliferation and differentiation into eosinophils: the role of nuclear
+factor-<U+03BA>B.
+
+Montano-Almendras CP(1), Essaghir A, Schoemans H, Varis I, Noël LA, Velghe AI,
+Latinne D, Knoops L, Demoulin JB.
+
+Author information: 
+(1)Université catholique de Louvain, de Duve Institute, avenue Hippocrate 75,
+BE-1200 Brussels, Belgium.
+
+BACKGROUND: ETV6-PDGFRB (also called TEL-PDGFRB) and FIP1L1-PDGFRA are
+receptor-tyrosine kinase fusion genes that cause chronic myeloid malignancies
+associated with hypereosinophilia. The aim of this work was to gain insight into 
+the mechanisms whereby fusion genes affect human hematopoietic cells and in
+particular the eosinophil lineage.
+DESIGN AND METHODS: We introduced ETV6-PDGFRB and FIP1L1-PDGFRA into human
+CD34(+) hematopoietic progenitor and stem cells isolated from umbilical cord
+blood.
+RESULTS: Cells transduced with these oncogenes formed hematopoietic colonies even
+in the absence of cytokines. Both oncogenes also stimulated the proliferation of 
+cells in liquid culture and their differentiation into eosinophils. This model
+thus recapitulated key features of the myeloid neoplasms induced by ETV6-PDGFRB
+and FIP1L1-PDGFRA. We next showed that both fusion genes activated the
+transcription factors STAT1, STAT3, STAT5 and nuclear factor-<U+03BA>B.
+Phosphatidylinositol-3 kinase inhibition blocked nuclear factor-<U+03BA>B activation in 
+transduced progenitor cells and patients' cells. Nuclear factor-<U+03BA>B was also
+activated in the human FIP1L1-PDGFRA-positive leukemia cell line EOL1, the
+proliferation of which was blocked by bortezomib and the I<U+03BA>B kinase inhibitor
+BMS-345541. A mutant I<U+03BA>B that prevents nuclear translocation of nuclear factor-<U+03BA>B
+inhibited cell growth and the expression of eosinophil markers, such as the
+interleukin-5 receptor and eosinophil peroxidase, in progenitors transduced with 
+ETV6-PDGFRB. In addition, several potential regulators of this process, including
+HES6, MYC and FOXO3 were identified using expression microarrays.
+CONCLUSIONS: We show that human CD34(+) cells expressing PDGFR fusion oncogenes
+proliferate autonomously and differentiate towards the eosinophil lineage in a
+process that requires nuclear factor-<U+03BA>B. These results suggest new treatment
+possibilities for imatinib-resistant myeloid neoplasms associated with PDGFR
+mutations.
+
+PMCID: PMC3396679
+PMID: 22271894  [PubMed - indexed for MEDLINE]
+
+
+26. PLoS One. 2011;6(11):e27880. doi: 10.1371/journal.pone.0027880. Epub 2011 Nov 16.
+
+Hes6 is required for the neurogenic activity of neurogenin and NeuroD.
+
+Murai K(1), Philpott A, Jones PH.
+
+Author information: 
+(1)MRC Cancer Cell Unit, Hutchison-MRC Research Centre, Addenbrooke's Hospital,
+Cambridge, United Kingdom.
+
+In the embryonic neural plate, a subset of precursor cells with neurogenic
+potential differentiates into neurons. This process of primary neurogenesis
+requires both the specification of cells for neural differentiation, regulated by
+Notch signaling, and the activity of neurogenic transcription factors such as
+neurogenin and NeuroD which drive the program of neural gene expression. Here we 
+study the role of Hes6, a member of the hairy enhancer of split family of
+transcription factors, in primary neurogenesis in Xenopus embryos. Hes6 is an
+atypical Hes gene in that it is not regulated by Notch signaling and promotes
+neural differentiation in mouse cell culture models. We show that depletion of
+Xenopus Hes6 (Xhes6) by morpholino antisense oligonucleotides results in a
+failure of neural differentiation, a phenotype rescued by both wild type Xhes6
+and a Xhes6 mutant unable to bind DNA. However, an Xhes6 mutant that lacks the
+ability to bind Groucho/TLE transcriptional co-regulators is only partly able to 
+rescue the phenotype. Further analysis reveals that Xhes6 is essential for the
+induction of neurons by both neurogenin and NeuroD, acting via at least two
+distinct mechanisms, the inhibition of antineurogenic Xhairy proteins and by
+interaction with Groucho/TLE family proteins. We conclude Xhes6 is essential for 
+neurogenesis in vivo, acting via multiple mechanisms to relieve inhibition of
+proneural transcription factor activity within the neural plate.
+
+PMCID: PMC3218063
+PMID: 22114720  [PubMed - indexed for MEDLINE]
+
+
+27. PLoS One. 2011;6(11):e26878. doi: 10.1371/journal.pone.0026878. Epub 2011 Nov 9.
+
+A genome-wide survey on basic helix-loop-helix transcription factors in giant
+panda.
+
+Dang C(1), Wang Y, Zhang D, Yao Q, Chen K.
+
+Author information: 
+(1)Institute of Life Sciences, Jiangsu University, Zhenjiang, Jiangsu Province,
+People's Republic of China.
+
+The giant panda (Ailuropoda melanoleuca) is a critically endangered mammalian
+species. Studies on functions of regulatory proteins involved in developmental
+processes would facilitate understanding of specific behavior in giant panda. The
+basic helix-loop-helix (bHLH) proteins play essential roles in a wide range of
+developmental processes in higher organisms. bHLH family members have been
+identified in over 20 organisms, including fruit fly, zebrafish, mouse and human.
+Our present study identified 107 bHLH family members being encoded in giant panda
+genome. Phylogenetic analyses revealed that they belong to 44 bHLH families with 
+46, 25, 15, 4, 11 and 3 members in group A, B, C, D, E and F, respectively, while
+the remaining 3 members were assigned into "orphan". Compared to mouse, the giant
+panda does not encode seven bHLH proteins namely Beta3a, Mesp2, Sclerax, S-Myc,
+Hes5 (or Hes6), EBF4 and Orphan 1. These results provide useful background
+information for future studies on structure and function of bHLH proteins in the 
+regulation of giant panda development.
+
+PMCID: PMC3212526
+PMID: 22096504  [PubMed - indexed for MEDLINE]
+
+
+28. Oncogene. 2012 Mar 8;31(10):1299-310. doi: 10.1038/onc.2011.316. Epub 2011 Jul
+25.
+
+HES6 gene is selectively overexpressed in glioma and represents an important
+transcriptional regulator of glioma proliferation.
+
+Haapa-Paananen S(1), Kiviluoto S, Waltari M, Puputti M, Mpindi JP, Kohonen P,
+Tynninen O, Haapasalo H, Joensuu H, Perälä M, Kallioniemi O.
+
+Author information: 
+(1)Department of Medical Biotechnology, VTT Technical Research Centre of Finland 
+and Centre for Biotechnology, University of Turku, Turku, Finland.
+saija.haapa-paananen@vtt.fi
+
+Malignant glioma is the most common brain tumor with 16,000 new cases diagnosed
+annually in the United States. We performed a systematic large-scale
+transcriptomics data mining study of 9783 tissue samples from the GeneSapiens
+database to systematically identify genes that are most glioma-specific. We
+searched for genes that were highly expressed in 322 glioblastoma multiforme
+tissue samples and 66 anaplastic astrocytomas as compared with 425 samples from
+histologically normal central nervous system. Transcription cofactor HES6 (hairy 
+and enhancer of split 6) emerged as the most glioma-specific gene. Immunostaining
+of a tissue microarray showed HES6 expression in 335 (98.8%) out of the 339
+glioma samples. HES6 was expressed in endothelial cells of the normal brain and
+glioma tissue. Recurrent grade 2 astrocytomas and grade 2 or 3 oligodendrogliomas
+showed higher levels of HES6 immunoreactivity than the corresponding primary
+tumors. High HES6 mRNA expression correlated with the proneural subtype that
+generally has a favorable outcome but is prone to recur. Functional studies
+suggested an important role for HES6 in supporting survival of glioma cells, as
+evidenced by reduction of cancer cell proliferation and migration after HES6
+silencing. The biological role and consequences of HES6 silencing and
+overexpression was explored with genome-wide analyses, which implicated a role
+for HES6 in p53, c-myc and nuclear factor-<U+03BA>B transcriptional networks. We
+conclude that HES6 is important for glioma cell proliferation and migration, and 
+may have a role in angiogenesis.
+
+PMID: 21785461  [PubMed - indexed for MEDLINE]
+
+
+29. Prostaglandins Leukot Essent Fatty Acids. 2011 Sep-Oct;85(3-4):163-9. doi:
+10.1016/j.plefa.2011.06.001. Epub 2011 Jul 2.
+
+Cis-9,trans-11-conjugated linoleic acid promotes neuronal differentiation through
+regulation of Hes6 mRNA and cell cycle in cultured neural stem cells.
+
+Okui T(1), Hashimoto M, Katakura M, Shido O.
+
+Author information: 
+(1)Department of Environmental Physiology, Shimane University Faculty of
+Medicine, Izumo, Shimane 693-8501, Japan.
+
+Conjugated linoleic acids (CLAs) are positional and geometrical isomers of
+linoleic acid (LA). Cis-9,trans-11-CLA (CLA), the main isomer of CLAs in foods
+derived from ruminants, has several beneficial effects for humans and animals;
+however, its effects on the central nervous system are largely unknown. In this
+study, we investigated the effects of LA and CLA on neuronal differentiation of
+neural stem cells (NSCs). NSCs cultured with or without LA and CLA were assessed 
+by immunofluorescence staining, mRNA measurement of basic helix-loop-helix
+transcription factors and cyclin-dependent kinase inhibitors by real-time PCR,
+BrdU incorporation analysis and flow cytometry analysis. In NSCs treated with
+CLA, the number of Tuj-1-positive cells (neurons) and the mRNA expression levels 
+of Hes6, MAP2, p21(cip1) and p27(kip1) increased, while the proportion of S-phase
+cells decreased; compared with the control, no change was demonstrated in NSCs
+treated with LA. These results suggest that CLA promotes neuronal differentiation
+by increasing, in part, the expression of Hes6 mRNA and by activating p21(cip1)
+and p27(kip1) to arrest cell cycle.
+
+Copyright © 2011 Elsevier Ltd. All rights reserved.
+
+PMID: 21723718  [PubMed - indexed for MEDLINE]
+
+
+30. Proc Natl Acad Sci U S A. 2011 Jul 12;108(28):11632-7. doi:
+10.1073/pnas.1106230108. Epub 2011 Jun 27.
+
+Cyclin D1 promotes neurogenesis in the developing spinal cord in a cell
+cycle-independent manner.
+
+Lukaszewicz AI(1), Anderson DJ.
+
+Author information: 
+(1)Division of Biology, California Institute of Technology, Pasadena, CA 91125,
+USA.
+
+Neural stem and progenitor cells undergo an important transition from
+proliferation to differentiation in the G1 phase of the cell cycle. The
+mechanisms coordinating this transition are incompletely understood. Cyclin D
+proteins promote proliferation in G1 and typically are down-regulated before
+differentiation. Here we show that motoneuron progenitors in the embryonic spinal
+cord persistently express Cyclin D1 during the initial phase of differentiation, 
+while down-regulating Cyclin D2. Loss-of-function and gain-of-function
+experiments indicate that Cyclin D1 (but not D2) promotes neurogenesis in vivo, a
+role that can be dissociated from its cell cycle function. Moreover, reexpression
+of Cyclin D1 can restore neurogenic capacity to D2-expressing glial-restricted
+progenitors. The neurogenic function of Cyclin D1 appears to be mediated,
+directly or indirectly, by Hes6, a proneurogenic basic helic-loop-helix
+transcription factor. These data identify a cell cycle-independent function for
+Cyclin D1 in promoting neuronal differentiation, along with a potential genetic
+pathway through which this function is exerted.
+
+PMCID: PMC3136279
+PMID: 21709239  [PubMed - indexed for MEDLINE]
+
+
+31. Gynecol Oncol. 2011 Aug;122(2):396-401. doi: 10.1016/j.ygyno.2011.04.027. Epub
+2011 May 26.
+
+Xanthohumol decreases Notch1 expression and cell growth by cell cycle arrest and 
+induction of apoptosis in epithelial ovarian cancer cell lines.
+
+Drenzek JG(1), Seiler NL, Jaskula-Sztul R, Rausch MM, Rose SL.
+
+Author information: 
+(1)Department of Obstetrics and Gynecology, The University of Wisconsin School of
+Medicine and Public Health, Madison, WI 53792, USA.
+
+OBJECTIVE: Notch1 signaling is active in ovarian cancer and is a promising
+pathway for new therapies in ovarian cancer. We have previously detected high
+Notch1 expression in ovarian tumors. Xanthohumol has been shown to inhibit cancer
+cell growth and invasion, including Kaposi's sarcoma, which also highly expresses
+Notch1. We hypothesized that the Notch1 signaling pathway is targeted by
+xanthohumol leading to decreased ovarian cancer cell growth.
+METHODS: SKOV3 and OVCAR3 cells were utilized. MTT growth assays were conducted
+following treatment with xanthohumol. Quantitative RT-PCR and Western blot
+analyses were conducted to assess Notch1 down-regulation. Luciferase reporter
+assays were performed to assess functional down-regulation of Notch1. Cell cycle 
+analysis was performed by flow cytometry.
+RESULTS: Significant growth inhibition and down-regulation of Notch1
+transcription and protein expression were found following xanthohumol treatment. 
+In addition, xanthohumol increased Hes6 transcription and decreased Hes1
+transcription, known downstream targets of Notch 1. These observations were
+associated with cell cycle inhibition as demonstrated by an increase in p21
+expression and S and G2/M cell cycle arrest confirmed by an increase in
+phosphorylated cdc2. Furthermore, an increase in the apoptotic markers, cleaved
+caspase-3 and cleaved PARP were observed.
+CONCLUSION: Xanthohumol was a potent inhibitor of ovarian cancer cell growth, and
+our results suggest that xanthohumol may be influencing the Notch1 pathway. These
+findings suggest that xanthohumol could be useful as a therapeutic agent in
+ovarian cancer.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+PMID: 21616523  [PubMed - indexed for MEDLINE]
+
+
+32. BMC Dev Biol. 2011 May 17;11:27. doi: 10.1186/1471-213X-11-27.
+
+The Enhancer of split transcription factor Her8a is a novel dimerisation partner 
+for Her3 that controls anterior hindbrain neurogenesis in zebrafish.
+
+Webb KJ(1), Coolen M, Gloeckner CJ, Stigloher C, Bahn B, Topp S, Ueffing M,
+Bally-Cuif L.
+
+Author information: 
+(1)Zebrafish Neurogenetics Department, Helmholtz Zentrum München, German Research
+Center for Environmental Health, Ingolstädter Landstr, 1, D-85764 Neuherberg,
+Germany. webb@helmholtz-muenchen.de
+
+BACKGROUND: Neurogenesis control and the prevention of premature differentiation 
+in the vertebrate embryo are crucial processes, allowing the formation of
+late-born cell types and ensuring the correct shape and cytoarchitecture of the
+brain. Members of the Hairy/Enhancer of Split (Hairy/E(spl)) family of
+bHLH-Orange transcription factors, such as zebrafish Her3, 5, 9 and 11, are
+implicated in the local inhibition of neurogenesis to maintain progenitor pools
+within the early neural plate. To better understand how these factors exert their
+inhibitory function, we aimed to isolate some of their functional interactors.
+RESULTS: We used a yeast two-hybrid screen with Her5 as bait and recovered a
+novel zebrafish Hairy/E(spl) factor--Her8a. Using phylogenetic and synteny
+analyses, we demonstrate that her8a evolved from an ancient duplicate of Hes6
+that was recently lost in the mammalian lineage. We show that her8a is expressed 
+across the mid- and anterior hindbrain from the start of segmentation. Through
+knockdown and misexpression experiments, we demonstrate that Her8a is a negative 
+regulator of neurogenesis and plays an essential role in generating progenitor
+pools within rhombomeres 2 and 4--a role resembling that of Her3. Her8a
+co-purifies with Her3, suggesting that Her8a-Her3 heterodimers may be relevant in
+this domain of the neural plate, where both proteins are co-expressed. Finally,
+we demonstrate that her8a expression is independent of Notch signaling at the
+early neural plate stage but that SoxB factors play a role in its expression,
+linking patterning information to neurogenesis control. Overall, the regulation
+and function of Her8a differ strikingly from those of its closest relative in
+other vertebrates--the Hes6-like proteins.
+CONCLUSIONS: Our results characterize the phylogeny, expression and functional
+interactions involving a new Her factor, Her8a, and highlight the complex
+interplay of E(spl) proteins that generates the neurogenesis pattern of the
+zebrafish early neural plate.
+
+PMCID: PMC3125270
+PMID: 21586122  [PubMed - indexed for MEDLINE]
+
+
+33. PLoS One. 2011 Apr 26;6(4):e19394. doi: 10.1371/journal.pone.0019394.
+
+Zebrafish Her8a is activated by Su(H)-dependent Notch signaling and is essential 
+for the inhibition of neurogenesis.
+
+Chung PC(1), Lin WS, Scotting PJ, Hsieh FY, Wu HL, Cheng YC.
+
+Author information: 
+(1)School of Medicine, Graduate Institute of Biomedical Sciences, Chang-Gung
+University, Taoyuan, Taiwan.
+
+Understanding how diversity of neural cells is generated is one of the main tasks
+of developmental biology. The Hairy/E(spl) family members are potential targets
+of Notch signaling, which has been shown to be fundamental to neural cell
+maintenance, cell fate decisions, and compartment boundary formation. However,
+their response to Notch signaling and their roles in neurogenesis are still not
+fully understood. In the present study, we isolated a zebrafish homologue of
+hairy/E(spl), her8a, and showed this gene is specifically expressed in the
+developing nervous system. her8a is positively regulated by Su(H)-dependent Notch
+signaling as revealed by a Notch-defective mutant and injection of variants of
+the Notch intracellular regulator, Su(H). Morpholino knockdown of Her8a resulted 
+in upregulation of proneural and post-mitotic neuronal markers, indicating that
+Her8a is essential for the inhibition of neurogenesis. In addition, markers for
+glial precursors and mature glial cells were down-regulated in Her8a morphants,
+suggesting Her8a is required for gliogenesis. The role of Her8a and its response 
+to Notch signaling is thus similar to mammalian HES1, however this is the
+converse of what is seen for the more closely related mammalian family member,
+HES6. This study not only provides further understanding of how the fundamental
+signaling pathway, Notch signaling, and its downstream genes mediate neural
+development and differentiation, but also reveals evolutionary diversity in the
+role of H/E(spl) genes.
+
+PMCID: PMC3082574
+PMID: 21541299  [PubMed - indexed for MEDLINE]
+
+
+34. Exp Cell Res. 2011 Jul 1;317(11):1590-602. doi: 10.1016/j.yexcr.2011.03.023. Epub
+2011 Apr 9.
+
+Hes6 is required for actin cytoskeletal organization in differentiating C2C12
+myoblasts.
+
+Malone CM(1), Domaschenz R, Amagase Y, Dunham I, Murai K, Jones PH.
+
+Author information: 
+(1)MRC Cancer Cell Unit, Hutchison-MRC Research Centre, Addenbrooke's Hospital,
+Cambridge, UK.
+
+Hes6 is a member of the hairy-enhancer-of-split family of transcription factors
+that regulate proliferating cell fate in development and is known to be expressed
+in developing muscle. Here we investigate its function in myogenesis in vitro. We
+show that Hes6 is a direct transcriptional target of the myogenic transcription
+factors MyoD and Myf5, indicating that it is integral to the myogenic
+transcriptional program. The localization of Hes6 protein changes during
+differentiation, becoming predominantly nuclear. Knockdown of Hes6 mRNA levels by
+siRNA has no effect on cell cycle exit or induction of myosin heavy chain
+expression in differentiating C2C12 myoblasts, but F-actin filament formation is 
+disrupted and both cell motility and myoblast fusion are reduced. The knockdown
+phenotype is rescued by expression of Hes6 cDNA resistant to siRNA. These results
+define a novel role for Hes6 in actin cytoskeletal dynamics in post mitotic
+myoblasts.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+PMID: 21501606  [PubMed - indexed for MEDLINE]
+
+
+35. Dev Biol. 2011 Apr 1;352(1):116-27. doi: 10.1016/j.ydbio.2011.01.025. Epub 2011
+Jan 27.
+
+Altered differentiation and paracrine stimulation of mammary epithelial cell
+proliferation by conditionally activated Smoothened.
+
+Visbal AP(1), LaMarca HL, Villanueva H, Toneff MJ, Li Y, Rosen JM, Lewis MT.
+
+Author information: 
+(1)Program in Developmental Biology Baylor College of Medicine, One Baylor Plaza,
+Houston, TX 77030, USA.
+
+The Hedgehog (Hh) signaling network is critical for patterning and organogenesis 
+in mammals, and has been implicated in a variety of cancers. Smoothened (Smo),
+the gene encoding the principal signal transducer, is overexpressed frequently in
+breast cancer, and constitutive activation in MMTV-SmoM2 transgenic mice caused
+alterations in mammary gland morphology, increased proliferation, and changes in 
+stem/progenitor cell number. Both in transgenic mice and in clinical specimens,
+proliferative cells did not usually express detectable Smo, suggesting the
+hypothesis that Smo functioned in a non-cell autonomous manner to stimulate
+proliferation. Here, we employed a genetically tagged mouse model carrying a
+Cre-recombinase-dependent conditional allele of constitutively active Smo (SmoM2)
+to test this hypothesis. MMTV-Cre- or adenoviral-Cre-mediated SmoM2 expression in
+the luminal epithelium, but not in the myoepithelium, was required for the
+hyper-proliferative phenotypes. High levels of proliferation were observed in
+cells adjacent or in close-proximity to Smo expressing cells demonstrating that
+SmoM2 expressing cells were stimulating proliferation via a paracrine or
+juxtacrine mechanism. In contrast, Smo expression altered luminal cell
+differentiation in a cell-autonomous manner. SmoM2 expressing cells, purified by 
+fluorescence activated cell sorting (FACS) via the genetic fluorescent tag,
+expressed high levels of Ptch2, Gli1, Gli2, Jag2 and Dll-1, and lower levels of
+Notch4 and Hes6, in comparison to wildtype cells. These studies provide insight
+into the mechanism of Smo activation in the mammary gland and its possible roles 
+in breast tumorigenesis. In addition, these results also have potential
+implications for the interpretation of proliferative phenotypes commonly observed
+in other organs as a consequence of hedgehog signaling activation.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+PMCID: PMC3057274
+PMID: 21276786  [PubMed - indexed for MEDLINE]
+
+
+36. PLoS One. 2010 Dec 2;5(12):e15459. doi: 10.1371/journal.pone.0015459.
+
+HES6-1 and HES6-2 function through different mechanisms during neuronal
+differentiation.
+
+Vilas-Boas F(1), Henrique D.
+
+Author information: 
+(1)Instituto de Medicina Molecular, Faculdade de Medicina de Lisboa, Lisboa,
+Portugal.
+
+BACKGROUND: Notch signalling plays a central role in the mechanisms regulating
+neuronal differentiation in the vertebrate nervous system. The transcriptional
+repressors encoded by Hes genes are the main effectors of this pathway, acting in
+neural progenitors during the lateral inhibition process to repress proneural
+genes and inhibit differentiation. However, Hes6 genes seem to behave
+differently: they are expressed in differentiating neurons and facilitate the
+activity of proneural genes in promoting neurogenesis. Still, the molecular
+mechanisms underlying this unique function of Hes6 genes are not yet understood.
+METHODOLOGY/PRINCIPAL FINDINGS: Here, we identify two subgroups of Hes6 genes
+that seem conserved in most vertebrate species and characterize a novel Hes6 gene
+in chicken: cHes6-1. The embryonic expression pattern of cHes6-1 suggests roles
+for this gene in the formation of the pancreas, nervous system and in the
+generation of body asymmetry. We show that cHes6-1 is negatively regulated by
+Notch signalling in the developing embryonic spinal cord and in pancreatic
+progenitors, but requires Notch for the observed asymmetric expression at the
+lateral mesoderm. Functional studies by ectopic expression in the chick embryonic
+neural tube revealed that cHES6-1 up-regulates the expression of cDelta1 and
+cHes5 genes, in contrast with overexpression of cHES6-2, which represses the same
+genes. We show that this activity of cHES6-2 is dependent on its capacity to bind
+DNA and repress transcription, while cHES6-1 seems to function by sequestering
+other HES proteins and inhibit their activity as transcriptional repressors.
+CONCLUSIONS/SIGNIFICANCE: Our results indicate that the two chick HES6 proteins
+act at different phases of neuronal differentiation, contributing to the
+progression of neurogenesis by different mechanisms: while cHES6-2 represses the 
+transcription of Hes genes, cHES6-1 acts later, sequestering HES proteins.
+Together, the two cHES6 proteins progressively shut down the Notch-mediated
+progenitor program and ensure that neuronal differentiation can proceed.
+
+PMCID: PMC2996300
+PMID: 21151987  [PubMed - indexed for MEDLINE]
+
+
+37. Oncotarget. 2010 Sep;1(5):379-85.
+
+The Siah2-HIF-FoxA2 axis in prostate cancer – new markers and therapeutic
+opportunities.
+
+Qi J(1), Pellecchia M, Ronai ZA.
+
+Author information: 
+(1)Signal Transduction Program, Sanford-Burnham Medical Research Institute, La
+Jolla, CA 92037, USA.
+
+Recent studies indicate the importance of the ubiquitin ligase Siah2 in control
+of more aggressive prostate tumors – namely, neuroendocrine (NE) prostate tumors 
+and prostate adenocarcinoma (PCa) harboring neuroendocrine lesions.
+Siah2-dependent expression and activity of HIF-1a regulate its availability to
+form a transcriptional complex with FoxA2, resulting in expression of specific
+target genes, including Hes6, Sox9 and Jmjd1a, whose co-expression is sufficient 
+for formation of NE tumors and NE lesions in PCa. These studies provide novel
+markers to diagnose and monitor formation of NE lesions and NE tumors.
+Furthermore, defining the regulatory axis consisting of Siah2 and HIF-1a/FoxA2
+cooperation suggests novel therapeutic modalities to treat these most aggressive 
+forms of prostate cancer. Here we review current understanding of Siah role in
+control of hypoxia and prostate tumor development and highlight potential
+approaches for targeting components along Siah-regulated pathways.
+
+PMCID: PMC2964873
+PMID: 21037926  [PubMed - indexed for MEDLINE]
+
+
+38. Cancer Cell. 2010 Jul 13;18(1):23-38. doi: 10.1016/j.ccr.2010.05.024.
+
+Siah2-dependent concerted activity of HIF and FoxA2 regulates formation of
+neuroendocrine phenotype and neuroendocrine prostate tumors.
+
+Qi J(1), Nakayama K, Cardiff RD, Borowsky AD, Kaul K, Williams R, Krajewski S,
+Mercola D, Carpenter PM, Bowtell D, Ronai ZA.
+
+Author information: 
+(1)Signal Transduction Program, Sanford-Burnham Medical Research Institute, La
+Jolla, CA 92037, USA.
+
+Comment in
+    Asian J Androl. 2013 Jul;15(4):447-8.
+    Cancer Cell. 2010 Jul 13;18(1):3-4.
+
+Neuroendocrine (NE) phenotype, seen in >30% of prostate adenocarcinomas (PCa),
+and NE prostate tumors are implicated in aggressive prostate cancer. Formation of
+NE prostate tumors in the TRAMP mouse model was suppressed in mice lacking the
+ubiquitin ligase Siah2, which regulates HIF-1alpha availability. Cooperation
+between HIF-1alpha and FoxA2, a transcription factor expressed in NE tissue,
+promotes recruitment of p300 to transactivate select HIF-regulated genes, Hes6,
+Sox9, and Jmjd1a. These HIF-regulated genes are highly expressed in metastatic
+PCa and required for hypoxia-mediated NE phenotype, metastasis in PCa, and the
+formation of NE tumors. Tissue-specific expression of FoxA2 combined with
+Siah2-dependent HIF-1alpha availability enables a transcriptional program
+required for NE prostate tumor development and NE phenotype in PCa.
+
+Copyright (c) 2010 Elsevier Inc. All rights reserved.
+
+PMCID: PMC2919332
+PMID: 20609350  [PubMed - indexed for MEDLINE]
+
+
+39. Cell Prolif. 2010 Jun;43(3):297-309. doi: 10.1111/j.1365-2184.2010.00679.x.
+
+Global gene expression reveals a set of new genes involved in the modification of
+cells during erythroid differentiation.
+
+da Cunha AF(1), Brugnerotto AF, Duarte AS, Lanaro C, Costa GG, Saad ST, Costa FF.
+
+Author information: 
+(1)Departamento de Genética e Evolução, Centro de Ciências Biológicas e da Saúde,
+Universidade Federal de São Carlos, São Carlos, São Paulo, Brazil.
+anderf@ufscar.br
+
+OBJECTIVES: Erythroid differentiation is a dynamic process in which a pluripotent
+stem cell undergoes a series of developmental changes that commit it to a
+specific lineage. These alterations involve changes in gene expression profiles. 
+In this study, gene expression profiles during differentiation of human erythroid
+cells of a normal blood donor were evaluated using SAGE.
+MATERIALS AND METHODS: Global gene expression was evaluated in cells collected
+immediately before addition of erythropoietin (0 h) and 192 and 336 h after
+addition of this hormone. Real-time PCR was used to evaluate activation of
+differentially expressed genes.
+RESULTS: The data indicate that global aspects of the transcriptome were similar 
+during differentiation of the majority of the genes and that a relatively small
+set of genes is probably involved in modification of erythroid cells during
+differentiation. We have identified 93 differentially expressed genes during
+erythroid development, and expression of some of these was confirmed by qPCR.
+Various genes including EYA3, ERH, HES6, TIMELESS and TRIB3 were found to be
+homologous to those of Drosophila melanogaster and here are described for the
+first time during erythroid development. An important and unique carboxypeptidase
+inhibitor described in mammalians, LXN, was also identified.
+CONCLUSIONS: The results of this study amplify previously published data and may 
+contribute to comprehension of erythroid differentiation and identification of
+new target genes involved in some erythroid concerning diseases.
+
+PMID: 20546246  [PubMed - indexed for MEDLINE]
+
+
+40. Brain Res. 2010 Feb 8;1313:1-8. doi: 10.1016/j.brainres.2009.11.078. Epub 2009
+Dec 5.
+
+Induction of neuronal apoptosis by expression of Hes6 via p53-dependent pathway.
+
+Eun B(1), Cho B, Moon Y, Kim SY, Kim K, Kim H, Sun W.
+
+Author information: 
+(1)Department of Anatomy, Brain Korea 21, Korea University College of Medicine,
+Seoul, Korea.
+
+Hes6 is a member of hairy/enhancer of split (Hes) family that plays a role in the
+cell proliferation and differentiation. Recently, we found that Hes6 is involved 
+in the regulation of cell proliferation via p53-dependent pathway. In addition to
+the proliferating regions, brain regions where early post-mitotic neurons are
+enriched also exhibited Hes6 and p53 mRNA expression. Because p53 is involved in 
+the post-mitotic neuronal apoptosis, here we investigated whether Hes6 can
+influence the neuronal survival/death. Overexpression of wild-type Hes6 and its
+mutants induced the apoptosis of primary cultured cortical neurons. In addition, 
+neuronal apoptosis by Hes6 overexpression was markedly blunted in p53(-/-) or
+Bax(-/-) cortical neurons, suggesting that these pro-apoptotic effects are
+mediated by p53- and Bax-dependent pathway. However, transactivation-defective
+mutants of Hes6 also enhanced neuronal apoptosis, suggesting that apoptogenic
+activity of Hes6 is not directly related to its role in the transcriptional
+regulation. We propose that Hes6 may play a significant role in the neuronal cell
+death and/or pathological neurodegeneration via activation of p53 signaling.
+
+Copyright 2009 Elsevier B.V. All rights reserved.
+
+PMID: 19968968  [PubMed - indexed for MEDLINE]
+
+
+41. Mol Cell Biol. 2010 Feb;30(3):565-77. doi: 10.1128/MCB.00927-09. Epub 2009 Nov
+23.
+
+Hepatocyte nuclear factor 4alpha coordinates a transcription factor network
+regulating hepatic fatty acid metabolism.
+
+Martinez-Jimenez CP(1), Kyrmizi I, Cardot P, Gonzalez FJ, Talianidis I.
+
+Author information: 
+(1)Biomedical Sciences Research Center Alexander Fleming, 16672 Vari, Greece.
+
+Adaptation of liver to nutritional signals is regulated by several transcription 
+factors that are modulated by intracellular metabolites. Here, we demonstrate a
+transcription factor network under the control of hepatocyte nuclear factor
+4alpha (HNF4alpha) that coordinates the reciprocal expression of fatty acid
+transport and metabolizing enzymes during fasting and feeding conditions. Hes6 is
+identified as a novel HNF4alpha target, which in normally fed animals, together
+with HNF4alpha, maintains PPARgamma expression at low levels and represses
+several PPARalpha-regulated genes. During fasting, Hes6 expression is diminished,
+and peroxisome proliferator-activated receptor alpha (PPARalpha) replaces the
+HNF4alpha/Hes6 complex on regulatory regions of target genes to activate
+transcription. Gene expression and promoter occupancy analyses confirmed that
+HNF4alpha is a direct activator of the Pparalpha gene in vivo and that its
+expression is subject to feedback regulation by PPARalpha and Hes6 proteins.
+These results establish the fundamental role of dynamic regulatory interactions
+between HNF4alpha, Hes6, PPARalpha, and PPARgamma in the coordinated expression
+of genes involved in fatty acid transport and metabolism.
+
+PMCID: PMC2812226
+PMID: 19933841  [PubMed - indexed for MEDLINE]
+
+
+42. Anim Genet. 2010 Jun;41(3):304-7. doi: 10.1111/j.1365-2052.2009.01987.x. Epub
+2009 Nov 16.
+
+A shared 336 kb haplotype associated with the belt pattern in three divergent
+cattle breeds.
+
+Drögemüller C(1), Demmel S, Engensteiner M, Rieder S, Leeb T.
+
+Author information: 
+(1)Institute of Genetics, Vetsuisse Faculty, University of Berne, Berne,
+Switzerland.
+
+We recently mapped the belt mutation in Brown Swiss cattle to a 922 kb interval
+on BTA3. In this study, we analysed two additional cattle breeds with the belted 
+phenotype: Galloway and Dutch Belted (Lakenvelder). By genotyping microsatellites
+in solid-coloured and belted Galloways, we confirmed that the belt mutation in
+Galloways is strongly associated with the same chromosomal locus as in Brown
+Swiss cattle. Subsequently, we analysed 36 SNPs in the belt interval in three
+breeds. We identified a single belt-associated haplotype for each of the analysed
+breeds. The three breed-specific belt haplotypes share alleles in four blocks.
+Three of these blocks comprise only one single or two consecutive markers, while 
+the largest shared haplotype block encompasses nine consecutive SNPs in a 336 kb 
+interval. The large shared haplotype across divergent breeds suggests a common
+mutation for the belt phenotype in all three breeds. We identified a potential
+candidate gene within this interval coding for the developmental transcription
+factor HES6. We re-sequenced the complete HES6 coding sequence in belted and
+solid-coloured cattle but did not find belt-associated polymorphisms. In
+conclusion, our data provide strong evidence in favour of a common founder for
+the belt phenotype in different cattle breeds and have resulted in an improved
+fine-mapping of the causative mutation.
+
+PMID: 19917047  [PubMed - indexed for MEDLINE]
+
+
+43. Breast Cancer Res. 2009;11(6):R79. doi: 10.1186/bcr2446. Epub 2009 Nov 5.
+
+Hes-6, an inhibitor of Hes-1, is regulated by 17beta-estradiol and promotes
+breast cancer cell proliferation.
+
+Hartman J(1), Lam EW, Gustafsson JA, Ström A.
+
+Author information: 
+(1)Department of Biosciences and Nutrition, Karolinska Institutet, Nobels väg 5, 
+Solna Alfred Nobels Allé 8, 141 57 Huddinge, Sweden. johan.hartman@ki.se
+
+INTRODUCTION: Hes-6 is a member of the basic helix-loop-helix (bHLH) family of
+transcription factors, and its overexpression has been reported in metastatic
+cancers of different origins. Hes-6 has been described as an inhibitor of Hes-1
+during neuronal development, although its function in cancer is not known. In
+this study, we investigated the function of Hes-6 in breast cancer and tested the
+hypothesis that Hes-6 enhances breast cancer cell proliferation and is regulated 
+by estrogen.
+METHODS: To investigate the function of Hes-6, T47D cells stably expressing Hes-6
+were generated by lentiviral transduction, and conversely, siRNA also was used to
+knock down Hes-6 expression in breast cancer cells. The Hes-6-expressing T47D
+cells were transplanted into immunodeficient mice to study effects on tumor
+growth.
+RESULTS: We found that Hes-6 expression was significantly higher in the
+high-grade, estrogen receptor (ER)alpha-negative SKBR3 and MDA-MB-231 cells
+compared with the ERalpha-positive, non-metastasizing T47D and MCF-7 breast
+carcinoma cells. Moreover, the level of Hes-6 mRNA was 28 times higher in breast 
+cancer samples compared with normal breast samples. In Hes-6-expressing T47D
+cells, Hes-6 ectopic expression was shown to stimulate cell proliferation in
+vitro as well as breast tumor growth in xenografts. Moreover, expression of Hes-6
+resulted in induction of E2F-1, a crucial target gene for the transcriptional
+repressor Hes-1. Consistently, silencing of Hes-6 by siRNA resulted in
+downregulation of E2F-1 expression, whereas estrogen treatment caused induction
+of Hes-6 and downstream targets hASH-1 and E2F-1 in MCF-7 cells.
+CONCLUSIONS: Together, the data suggest that Hes-6 is a potential oncogene
+overexpressed in breast cancer, with a tumor-promoting and proliferative
+function. Furthermore, Hes-6 is a novel estrogen-regulated gene in breast cancer 
+cells. An understanding of the role and regulation of Hes-6 could provide
+insights into estrogen signaling and endocrine resistance in breast cancer and,
+hence, could be important for the development of novel anticancer drugs.
+
+PMCID: PMC2815541
+PMID: 19891787  [PubMed - indexed for MEDLINE]
+
+
+44. Neurosci Lett. 2009 Aug 28;460(2):185-90. doi: 10.1016/j.neulet.2009.05.065. Epub
+2009 May 28.
+
+Expression and association analyses of promoter variants of the neurogenic gene
+HES6, a candidate gene for mood disorder susceptibility and antidepressant
+response.
+
+Glubb DM(1), Joyce PR, Kennedy MA.
+
+Author information: 
+(1)Gene Structure & Function Laboratory, Department of Pathology, University of
+Otago, Christchurch P.O. Box 4345, Christchurch, New Zealand.
+dylan.glubb@otago.ac.nz
+
+Hes6 is a neurogenic gene which is down-regulated in the hippocampi of rats
+chronically treated with the antidepressant paroxetine. To assess whether
+variability in HES6 associates with mood disorder diagnosis or antidepressant
+response, this gene was sequenced in 24 unrelated New Zealand Caucasians. A total
+of 12 polymorphisms were identified, six of which were in the promoter region of 
+the gene. Haplotypes encompassing the promoter SNPs were studied by cloning the
+region upstream of the transcription start site, and examining basal
+transcription rates in luciferase reporter gene assays. SNPs located at positions
+-1099, -831, -424 and -267 were shown to significantly alter expression of the
+reporter gene. These four variants were tested for association with mood disorder
+diagnosis or antidepressant response in a family study of depression, but no
+significant associations were observed. However, given the importance of this
+gene in neural function and development, the promoter variants described here may
+be of wider relevance.
+
+PMID: 19481584  [PubMed - indexed for MEDLINE]
+
+
+45. Dev Dyn. 2009 Sep;238(9):2163-78. doi: 10.1002/dvdy.21848.
+
+Acheate-scute like 1 (Ascl1) is required for normal delta-like (Dll) gene
+expression and notch signaling during retinal development.
+
+Nelson BR(1), Hartman BH, Ray CA, Hayashi T, Bermingham-McDonogh O, Reh TA.
+
+Author information: 
+(1)Department of Biological Structure, School of Medicine, University of
+Washington, Seattle, Washington 98195, USA. branden.nelson@seattlechildrens.org
+
+Delta gene expression in Drosophila is regulated by proneural basic
+helix-loop-helix (bHLH) transcription factors, such as acheate-scute. In
+vertebrates, multiple Delta-like and proneural bHLH genes are expressed during
+neurogenesis, especially in the retina. We recently uncovered a relationship
+between Acheate-scute like 1 (Ascl1), Delta-like genes, and Notch in chick
+retinal progenitors. Here, we report that mammalian retinal progenitors are also 
+the primary source of Delta-like genes, likely signaling through Notch among
+themselves, while differentiating neurons expressed Jagged2. Ascl1 is coexpressed
+in Delta-like and Notch active progenitors, and required for normal Delta-like
+gene expression and Notch signaling. We also reveal a role for Ascl1 in the
+regulation of Hes6, a proneurogenic factor that inhibits Notch signaling to
+promote neural rather than glial differentiation. Thus, these results suggest a
+molecular mechanism whereby attenuated Notch levels coupled with reduced
+proneurogenic activity in progenitors leads to increased gliogenesis and
+decreased neurogenesis in the Ascl1-deficient retina.
+
+2009 Wiley-Liss, Inc.
+
+PMCID: PMC2905851
+PMID: 19191219  [PubMed - indexed for MEDLINE]
+
+
+46. Acta Neuropsychiatr. 2008 Dec;20(6):307-13. doi:
+10.1111/j.1601-5215.2008.00334.x.
+
+Downregulation of Ccnd1 and Hes6 in rat hippocampus after chronic exposure to the
+antidepressant paroxetine.
+
+McHugh PC(1), Rogers GR(1), Glubb DM(1), Allington MD(1), Hughes M(2), Joyce
+PR(3), Kennedy MA(1).
+
+Author information: 
+(1)1Department of Pathology, University of Otago, Christchurch, Christchurch, New
+Zealand. (2)2Genetics Factors, Riccarton, Christchurch, New Zealand.
+(3)3Department of Psychological Medicine, University of Otago, Christchurch,
+Christchurch, New Zealand.
+
+OBJECTIVE: The mechanism of action of antidepressant drugs is not fully
+understood. Application of genomic methods enables the identification of
+biochemical pathways that are regulated by antidepressants, and this may provide 
+novel clues to the molecular and cellular actions of these drugs. The present
+study examined gene expression profiles in the hippocampus of rats exposed to
+chronic antidepressant treatment.
+METHODS: Animals were treated for 12 days with the selective serotonin reuptake
+inhibitor paroxetine; then, hippocampal ribonucleic acid was recovered, and
+changes in gene expression were assessed by microarray analysis.
+RESULTS: A total of 160 genes that showed differential expression after
+paroxetine exposure were identified. Using functional relevance and observed fold
+change as selection criteria, the expression changes in a subset of these genes
+were confirmed by quantitative polymerase chain reaction.
+CONCLUSION: Of this subset, only two genes, cyclin D1 (Ccnd1) and hairy and
+enhancer of split 6 (Hes6), showed robust and consistent changes in expression.
+Both genes were downregulated by paroxetine, and both have been previously
+implicated in neurogenesis. Further investigation of these two genes may provide 
+new insight into the mechanism of action of antidepressants.
+
+PMID: 25384412  [PubMed]
+
+
+47. J Biol Chem. 2009 Jan 30;284(5):2891-901. doi: 10.1074/jbc.M804055200. Epub 2008 
+Nov 17.
+
+Reversine increases the plasticity of lineage-committed cells toward
+neuroectodermal lineage.
+
+Lee EK(1), Bae GU, You JS, Lee JC, Jeon YJ, Park JW, Park JH, Ahn SH, Kim YK,
+Choi WS, Kang JS, Han G, Han JW.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, College of Pharmacy, and
+Samsung Biomedical Research Institute, Sungkyunkwan University, Suwon, Korea.
+
+Functional dedifferentiation of lineage-committed cells toward pluripotency may
+have a great potential in regenerative medicine. Reversine has been shown to
+induce dedifferentiation of multiple terminally differentiated mesodermal origin 
+cells, which are capable of being directed to differentiate into other cell types
+within mesodermal lineages. However, the possibilities of these cells to give
+rise to other lineages have not been examined. Here we show that large scale gene
+expression profiling of reversine-treated C2C12 myoblasts identifies a subset of 
+up-regulated genes involved in specification of neuroectodermal as well as
+mesodermal lineages. Reversine treatment leads to up-regulation of priming genes 
+of neuroectodermal lineages, such as Ngn2, Nts, Irx3, Pax7, Hes1, and Hes6,
+through active histone modifications in the promoter regions of these genes.
+Additionally, reversine increases the expression of markers for other cell types 
+of mesodermal lineages, Ogn and apoE, via inducing active histone modifications, 
+while down-regulating the myogenic basic helix-loop-helix factor, MyoD, via
+repressive histone modifications. Consistent with up-regulation of these genes,
+reversine-treated C2C12 myoblasts redifferentiate into neural as well as
+mesodermal lineages, under appropriate stimuli. Taken together, these results
+indicate that reversine induces a multipotency of C2C12 myoblasts via inducing a 
+specific combination of active histone modifications. Collectively, our findings 
+provide a mechanistic rationale for the application of reversine to
+dedifferentiation of somatic cells.
+
+PMID: 19015271  [PubMed - indexed for MEDLINE]
+
+
+48. Am J Med Genet B Neuropsychiatr Genet. 2008 Dec 5;147B(8):1554-63. doi:
+10.1002/ajmg.b.30877.
+
+A comparison of molecular alterations in environmental and genetic rat models of 
+ADHD: a pilot study.
+
+DasBanerjee T(1), Middleton FA, Berger DF, Lombardo JP, Sagvolden T, Faraone SV.
+
+Author information: 
+(1)Department of Neuroscience and Physiology, State University of New York
+Upstate Medical University, Syracuse, New York 13210, USA.
+
+Attention deficit hyperactivity disorder (ADHD) is the most common
+neurobehavioral disorder in school-aged children. In addition to genetic factors,
+environmental influences or gene x environmental interactions also play an
+important role in ADHD. One example of a well studied environmental risk factor
+for ADHD is exposure to polychlorinated biphenyls (PCBs). In this study, we
+investigated whether the well-established genetic model of ADHD based on the
+spontaneously hypertensive rat (SHR) and a well established PCB-based model of
+ADHD exhibited similar molecular changes in brain circuits involved in ADHD. The 
+brains from 28 male rats (8 SHR, 8 Sprague-Dawley (SD) controls, 8 Wistar/Kyoto
+(WKY) controls, and 4 PCB-exposed SD rats) were harvested at postnatal days
+(PNDs) 55-65 and RNA was isolated from six brain regions of interest. The RNA was
+analyzed for differences in expression of a set of 308 probe sets interrogating
+218 unique genes considered highly relevant to ADHD or epigenetic gene regulation
+using the Rat RAE230 2.0 GeneChip (Affymetrix). Selected observations were
+confirmed by real-time quantitative RT-PCR. The results show that the expression 
+levels of genes Gnal, COMT, Adrbk1, Ntrk2, Hk1, Syt11, and Csnk1a1 were altered
+in both the SHR rats and the PCB-exposed SD rats. Arrb2, Stx12, Aqp6, Syt1, Ddc, 
+and Pgk1 expression levels were changed only in the PCB-exposed SD rats. Genes
+with altered expression only in the SHRs included Oprm1, Calcyon, Calmodulin,
+Lhx1, and Hes6. The epigenetic genes Crebbp, Mecp2, and Hdac5 are significantly
+altered in both models. The data provide strong evidence that genes and
+environment can affect different set of genes in two different models of ADHD and
+yet result in the similar disease-like symptoms.
+
+Copyright 2008 Wiley-Liss, Inc.
+
+PMCID: PMC2587509
+PMID: 18937310  [PubMed - indexed for MEDLINE]
+
+
+49. Mol Cell Neurosci. 2008 Jul;38(3):349-58. doi: 10.1016/j.mcn.2008.03.007. Epub
+2008 Apr 1.
+
+HES1 regulates 5-HT1A receptor gene transcription at a functional polymorphism:
+essential role in developmental expression.
+
+Jacobsen KX(1), Vanderluit JL, Slack RS, Albert PR.
+
+Author information: 
+(1)Ottawa Health Research Institute (Neuroscience) and Department of Cellular and
+Molecular Medicine, University of Ottawa, 451 Smyth Road, Ottawa, ON Canada.
+
+Mammalian HES1 and HES5 are abundant in developing CNS and inhibit neurogenesis, 
+while HES6 promotes neurogenesis. An early serotonergic differentiation marker,
+the 5-HT1A receptor, is repressed by HES5 and DEAF1 which recognize the C(-1019),
+but not G(-1019) allele of a human 5-HT1A promoter polymorphism associated with
+mood disorders. We tested whether HES1 and HES6 regulate transcriptional activity
+at this element. HES1 strongly repressed 5-HT1A transcription in neuronal and
+non-neuronal cells, while HES6 reversed HES1- and HES5-mediated repression.
+Mutation of a putative HES consensus site blocked HES1 and HES5, but, unlike
+HES5, HES1 repressed at the G(-1019) allele. To address its role in vivo, the
+temporal expression of 5-HT1A receptor RNA and protein was examined in HES1-/-
+mice, and elevated levels in E12.5 hindbrain and midbrain were observed. Thus,
+HES1 and HES6 oppositely regulate 5-HT1A receptor transcription and HES1 is
+required for its correct developmental expression.
+
+PMID: 18499474  [PubMed - indexed for MEDLINE]
+
+
+50. BMC Med Genomics. 2008 May 19;1:17. doi: 10.1186/1755-8794-1-17.
+
+Pro-neural transcription factors as cancer markers.
+
+Vias M(1), Massie CE, East P, Scott H, Warren A, Zhou Z, Nikitin AY, Neal DE,
+Mills IG.
+
+Author information: 
+(1)Uro-Oncology Research Group, Cancer Research UK Cambridge Research Institute, 
+Li Ka Shing Centre, Robinson Way, Cambridge, CB2 0RE, UK.
+maria.vias@cancer.org.uk
+
+BACKGROUND: The aberrant transcription in cancer of genes normally associated
+with embryonic tissue differentiation at various organ sites may be a hallmark of
+tumour progression. For example, neuroendocrine differentiation is found more
+commonly in cancers destined to progress, including prostate and lung. We sought 
+to identify proteins which are involved in neuroendocrine differentiation and
+differentially expressed in aggressive/metastatic tumours.
+RESULTS: Expression arrays were used to identify up-regulated transcripts in a
+neuroendocrine (NE) transgenic mouse model of prostate cancer. Amongst these were
+several genes normally expressed in neural tissues, including the pro-neural
+transcription factors Ascl1 and Hes6. Using quantitative RT-PCR and
+immuno-histochemistry we showed that these same genes were highly expressed in
+castrate resistant, metastatic LNCaP cell-lines. Finally we performed a
+meta-analysis on expression array datasets from human clinical material. The
+expression of these pro-neural transcripts effectively segregates metastatic from
+localised prostate cancer and benign tissue as well as sub-clustering a variety
+of other human cancers.
+CONCLUSION: By focussing on transcription factors known to drive normal tissue
+development and comparing expression signatures for normal and malignant mouse
+tissues we have identified two transcription factors, Ascl1 and Hes6, which
+appear effective markers for an aggressive phenotype in all prostate models and
+tissues examined. We suggest that the aberrant initiation of differentiation
+programs may confer a selective advantage on cells in all contexts and this
+approach to identify biomarkers therefore has the potential to uncover proteins
+equally applicable to pre-clinical and clinical cancer biology.
+
+PMCID: PMC2413260
+PMID: 18489756  [PubMed]
+
+
+51. J Biol Chem. 2008 Feb 29;283(9):5939-49. Epub 2007 Dec 26.
+
+Hes6 controls cell proliferation via interaction with cAMP-response
+element-binding protein-binding protein in the promyelocytic leukemia nuclear
+body.
+
+Eun B(1), Lee Y, Hong S, Kim J, Lee HW, Kim K, Sun W, Kim H.
+
+Author information: 
+(1)College of Medicine, Brain Korea 21, Korea University, Seoul 136-705, Korea.
+
+Hes6 is a basic helix-loop-helix transcription factor that functions in the
+differentiation of pluripotent progenitor cells and during tumorigenesis.
+However, the molecular mechanism for its function is largely unknown. Here we
+show that Hes6 is a component of the promyelocytic leukemia nuclear body (PML-NB)
+complex in the nuclei and that Hes6 inhibits cell proliferation through induction
+of p21 cyclin-dependent kinase inhibitor. We further show that Hes6 directly
+interacts with CREB-binding protein (CBP), one of the key components of PML-NB,
+via its basic domain. This association is critical for p21 induction through
+multiple mechanisms, including chromatin remodeling and p53 acetylation. Taken
+together, these results suggest that the Hes6-CBP complex in PML-NB may influence
+the proliferation of cells via p53-dependent and -independent pathways.
+
+PMID: 18160400  [PubMed - indexed for MEDLINE]
+
+
+52. Dev Biol. 2007 Dec 1;312(1):61-76. Epub 2007 Sep 16.
+
+Hes6 is required for MyoD induction during gastrulation.
+
+Murai K(1), Vernon AE, Philpott A, Jones P.
+
+Author information: 
+(1)MRC Cancer Cell Unit, Hutchison-MRC Research Centre, Addenbrooke's Hospital,
+Cambridge CB2 0XZ, UK.
+
+The specification of mesoderm into distinct compartments sharing the same lineage
+restricted fates is a crucial step occurring during gastrulation, and is
+regulated by morphogenic signals such as the FGF/MAPK and activin pathways. One
+target of these pathways is the transcription factor XmyoD, which in early
+gastrulation is expressed in the lateral and ventral mesoderm. Expression of the 
+hairy/enhancer of split transcription factor hes6, is also restricted to lateral 
+and ventral mesoderm in gastrula stage Xenopus embryos, leading us to investigate
+whether it has a role in XmyoD regulation. In vivo, Xhes6 is required for
+FGF-mediated induction of XmyoD expression but not for induction of early
+mesoderm. The WRPW domain of Xhes6, which binds Groucho family transcriptional
+co-regulators, is essential for the XmyoD-inducing activity of Xhes6. Two Groucho
+proteins, Xgrg2 and Xgrg4, are expressed in lateral and ventral mesoderm, and
+inhibit expression of XmyoD. Xhes6 binds both Xgrg2 and Xgrg4 and relieves their 
+inhibition of XmyoD expression. We also find that lowering Xhes6 expression
+levels blocks normal myogenic differentiation at tail bud stage. We conclude that
+Xhes6 is essential for XmyoD induction and acts by relieving Groucho-mediated
+repression of gene expression.
+
+PMID: 17950722  [PubMed - indexed for MEDLINE]
+
+
+53. J Neurochem. 2007 Dec;103(5):2022-34. Epub 2007 Sep 14.
+
+Inhibition of cortical astrocyte differentiation by Hes6 requires amino- and
+carboxy-terminal motifs important for dimerization and phosphorylation.
+
+Belanger-Jasmin S(1), Llamosas E, Tang Y, Joachim K, Osiceanu AM, Jhas S, Stifani
+S.
+
+Author information: 
+(1)Center for Neuronal Survival, Montreal Neurological Institute, McGill
+University, Montreal, Quebec, Canada.
+
+Hairy/Enhancer of split (Hes) 6 is a basic helix-loop-helix protein that
+interacts with the transcriptional co-repressor, Groucho, and antagonizes the
+neural functions of the Notch pathway. More specifically, mouse Hes6 regulates
+cerebral corticogenesis by promoting neurogenesis and suppressing astrocyte
+differentiation. The molecular mechanisms underlying the anti-astrogenic function
+of Hes6 are poorly defined. Here we describe studies aimed at testing whether
+Hes6 inhibits astrocyte differentiation by antagonizing the transcription
+repression activity of Notch-activated Hes family members like Hes1. It is
+reported that Hes6 preferentially forms homodimers. Heterodimerization with Hes1 
+is antagonized in part by a conserved N-terminal patch of negatively charged
+residues. Mutation of this motif enhances heterodimerization with Hes1 and
+increases Hes6 ability to antagonize Hes1-mediated transcriptional repression.
+However, this mutation does not increase, but instead decreases, the
+anti-astrogenic activity of Hes6. It is shown further that Hes6 harbors a second 
+conserved sequence, a C-terminal SPXXSP motif. This sequence is phosphorylated by
+the mitogen activated protein kinase pathway and its mutation disrupts the
+anti-astrogenic activity of Hes6 without affecting its ability to suppress Hes1. 
+Together, these observations suggest that Hes6 homodimers regulate astrocyte
+differentiation through mechanisms that depend on the phosphorylation of Hes6
+C-terminal domain but are independent of its ability to suppress Hes1-mediated
+transcriptional repression.
+
+PMID: 17868320  [PubMed - indexed for MEDLINE]
+
+
+54. FEBS Lett. 2007 Oct 2;581(24):4651-6. Epub 2007 Sep 4.
+
+Gene expression profiling identifies Hes6 as a transcriptional target of ATOH1 in
+cochlear hair cells.
+
+Scheffer D(1), Sage C, Corey DP, Pingault V.
+
+Author information: 
+(1)INSERM, Equipe Avenir, U841, IMRB, Creteil F-94010, France.
+
+ATOH1 is a basic Helix-Loop-Helix transcription factor crucial for hair cell (HC)
+differentiation in the inner ear. In order to identify ATOH1 target genes, we
+performed a genome-wide expression profiling analysis in cells expressing ATOH1
+under the control of a tetracycline-off system and found that HES6 expression is 
+induced by ATOH1. We performed in situ hybridisation and showed that the rise and
+fall of Hes6 expression closely follow that of Atoh1 in cochlear HC. Moreover,
+electrophoretic mobility shift assays and luciferase assays show that ATOH1
+activates HES6 transcription through binding to three clustered E boxes of its
+promoter.
+
+PMID: 17826772  [PubMed - indexed for MEDLINE]
+
+
+55. Liver Int. 2007 Sep;27(7):997-1007.
+
+Aberrant Notch3 and Notch4 expression in human hepatocellular carcinoma.
+
+Gramantieri L(1), Giovannini C, Lanzi A, Chieco P, Ravaioli M, Venturi A, Grazi
+GL, Bolondi L.
+
+Author information: 
+(1)Center for Applied Biomedical Research (CRBA), University of Bologna and St
+Orsola-Malpighi University Hospital, Bologna, Italy. gramantieri@aosp.bo.it
+
+BACKGROUND: Notch signalling is altered in several solid tumours and it plays a
+role in growth inhibition and apoptosis of hepatocellular carcinoma (HCC)-derived
+cell lines, bile duct development and hepatocyte regeneration.
+AIMS: This study aims to analyse the expression of Notch3, Notch4 and HES1 and
+HES6 as Notch-target genes in HCC, matched non-neoplastic tissue and HEPG2 cells.
+RESULTS: Notch3 and Notch4 are not expressed in normal liver and in chronic
+hepatitis surrounding HCC. Cirrhotic tissue stains negative for Notch3, while
+Notch4 is expressed by hepatocytes at the edge of regenerative nodules and in
+cell planes adjacent to fibrous septa. HCC tissue displays Notch3 and Notch4
+abnormal accumulation, respectively, in 78% and 68% of the cases. The endothelium
+of hepatic veins with neoplastic permeation is frequently Notch4 positive. An
+upregulation of Notch3 mRNA was found in 95% of HCCs vs cirrhosis (P=0.0001),
+while Notch4 mRNA was downregulated in 80% of HCCs. HES6 mRNA expression was
+higher in HCC tissue when compared with cirrhosis (P=0.007), paralleling Notch3
+mRNA expression. The HEPG2 cell line displays high Notch3 and low Notch4 protein 
+and mRNA levels.
+CONCLUSIONS: These descriptive findings suggest an aberrant expression of Notch3 
+and Notch4 in HCC and allow the hypothesis of an activation of Notch signalling
+by Notch3.
+
+PMID: 17696940  [PubMed - indexed for MEDLINE]
+
+
+56. Int J Oncol. 2007 Aug;31(2):461-6.
+
+Integrative genomic analyses on HES/HEY family: Notch-independent HES1, HES3
+transcription in undifferentiated ES cells, and Notch-dependent HES1, HES5, HEY1,
+HEY2, HEYL transcription in fetal tissues, adult tissues, or cancer.
+
+Katoh M(1), Katoh M.
+
+Author information: 
+(1)M&M Medical BioInformatics, Hongo 113-0033, Japan. mkatoh-kkr@umin.ac.jp
+
+Notch signaling pathway maintains stem cells through transcriptional activation
+of HES/HEY family members to repress tissue-specific transcription factors. Here,
+comparative integromic analyses on HES/HEY family members were carried out. HES3 
+gene encodes two isoforms due to alternative promoters. Complete coding sequence 
+of HES3 variant 2 was determined by curating CX755241.1 EST. Refined phylogenetic
+analysis using HES3 variant 2 instead of variant 1 revealed that mammalian bHLH
+transcription factors with Orange domain were grouped into HES subfamily (HES1,
+HES2, HES3, HES4, HES5, HES6, HES7) and HEY subfamily (HEY1, HEY2, HEYL,
+HESL/HELT, DEC1/BHLHB2, DEC2/BHLHB3). Eight amino-acid residues were added to the
+C-terminal WRPW motif in human HES3 due to lineage specific T to G nucleotide
+change at stop codon of chimpanzee, rat, and mouse HES3 orthologs. HES1 and HES3 
+were expressed in undifferentiated embryonic stem (ES) cells. HES1 was also
+expressed in fetal tissues, and regenerating liver. HES1, HEY1 and HEY2 were
+expressed in endothelial cells. HES1, HES4 and HES6 were expressed in gastric
+cancer, HES1 and DEC1 in pancreatic cancer, HES1, HES2, HES4, HES6 and DEC2 in
+colorectal cancer. HES6 was also expressed in other tumors, such as brain tumors,
+melanoma, small cell lung cancer, retinoblastoma, ovarian cancer, and breast
+cancer. Double NANOG-binding sites, CSL/RBPSUH-binding site and TATA-box in HES1 
+promoter, NANOG-, SOX2-, POU5F1/OCT3/OCT4-binding sites and TATA-box in HES3
+promoter, double CSL-binding sites in HES5 promoter, SOX2-, POU-binding sites and
+TATA-box in HES6 promoter, and CSL-binding site in HEY1, HEY2 and HEYL promoters 
+were evolutionarily conserved. However, double CSL-binding sites in mouse Hes7
+promoter were not conserved in human HES7 promoter. Together these facts indicate
+that HES1 and HES3 were target genes of the ES cell-specific network of
+transcription factors, and that HES1, HES5, HEY1, HEY2 and HEYL were target genes
+of Notch signaling pathway.
+
+PMID: 17611704  [PubMed - indexed for MEDLINE]
+
+
+57. BMC Dev Biol. 2007 Jun 7;7:63.
+
+Preservation of proliferating pancreatic progenitor cells by Delta-Notch
+signaling in the embryonic chicken pancreas.
+
+Ahnfelt-Rønne J(1), Hald J, Bødker A, Yassin H, Serup P, Hecksher-Sørensen J.
+
+Author information: 
+(1)Department of Developmental Biology, Hagedorn Research Institute, Niels
+Steensensvej 6, Gentofte, Denmark. jonr@hagedorn.dk <jonr@hagedorn.dk>
+
+BACKGROUND: Genetic studies have shown that formation of pancreatic endocrine
+cells in mice is dependent on the cell autonomous action of the bHLH
+transcription factor Neurogenin3 and that the extent and timing of endocrine
+differentiation is controlled by Notch signaling. To further understand the
+mechanism by which Notch exerts this function, we have investigated pancreatic
+endocrine development in chicken embryos.
+RESULTS: In situ hybridization showed that expression of Notch signaling
+components and pro-endocrine bHLH factors is conserved to a large degree between 
+chicken and mouse. Cell autonomous inhibition of Notch signal reception results
+in significantly increased endocrine differentiation demonstrating that these
+early progenitors are prevented from differentiating by ongoing Notch signaling. 
+Conversely, activated Notch1 induces Hes5-1 expression and prevents endocrine
+development. Notably, activated Notch also prevents Ngn3-mediated induction of a 
+number of downstream targets including NeuroD, Hes6-1, and MyT1 suggesting that
+Notch may act to inhibit both Ngn3 gene expression and protein function.
+Activated Notch1 could also block endocrine development and gene expression
+induced by NeuroD. Nevertheless, Ngn3- and NeuroD-induced delamination of
+endodermal cells was insensitive to activated Notch under these conditions.
+Finally, we show that Myt1 can partially overcome the repressive effect of
+activated Notch on endocrine gene expression.
+CONCLUSION: We conclude that pancreatic endocrine development in the chicken
+relies on a conserved bHLH cascade under inhibitory control of Notch signaling.
+This lays the ground for further studies that take advantage of the ease at which
+chicken embryos can be manipulated. Our results also demonstrate that Notch can
+repress Ngn3 and NeuroD protein function and stimulate progenitor proliferation. 
+To determine whether Notch in fact does act in Ngn3-expressing cells in vivo will
+require further studies relying on conditional mutagenesis. Lastly, our results
+demonstrate that expression of differentiation markers can be uncoupled from the 
+process of delamination of differentiating cells from the epithelium.
+
+PMCID: PMC1906762
+PMID: 17555568  [PubMed - indexed for MEDLINE]
+
+
+58. Mol Cells. 2007 Feb 28;23(1):49-56.
+
+Comparative analysis of the developmental competence of three human embryonic
+stem cell lines in vitro.
+
+Kim SE(1), Kim BK, Gil JE, Kim SK, Kim JH.
+
+Author information: 
+(1)Laboratory of Stem Cell Biology, Division of Biotechnology, College of Life
+Sciences and Biotechnology, Korea University, Seoul 136-713, Korea.
+
+One of the goals of stem cell technology is to control the differentiation of
+human embryonic stem cells (hESCs), thereby generating large numbers of specific 
+cell types for many applications including cell replacement therapy. Although
+individual hESC lines resemble each other in expressing pluripotency markers and 
+telomerase activity, it is not clear whether they are equivalent in their
+developmental potential in vitro. We compared the developmental competence of
+three hESC lines (HSF6, Miz-hES4, and Miz-hES6). All three generated the three
+embryonic germ layers, extraembryonic tissues, and primordial germ cells during
+embryoid body (EB) formation. However, HSF6 and Miz-hES6 readily formed
+neuroectoderm, whereas Miz-hES4 differentiated preferentially into mesoderm and
+endoderm. Upon terminal differentiation, HSF6 and Miz-hES6 produced mainly
+neuronal cells whereas Miz-hES4 mainly formed mesendodermal derivatives,
+including endothelial cells, leukocyte progenitors, hepatocytes, and pancreatic
+cells. Our observations suggest that independently-derived hESCs may differ in
+their developmental potential.
+
+PMID: 17464211  [PubMed - indexed for MEDLINE]
+
+
+59. J Gerontol A Biol Sci Med Sci. 2007 Jan;62(1):9-17.
+
+Impaired expression of Notch signaling genes in aged human skeletal muscle.
+
+Carey KA(1), Farnfield MM, Tarquinio SD, Cameron-Smith D.
+
+Author information: 
+(1)School of Exercise and Nutrition Sciences, Deakin University, Victoria,
+Australia.
+
+Notch signaling is essential for myogenesis and the regenerative potential of
+skeletal muscle; however, its regulation in human muscle is yet to be fully
+characterized. Increased expression of Notch3, Jagged1, Hes1, and Hes6 gene
+transcripts were observed during differentiation of cultured human skeletal
+muscle cells. Furthermore, significantly lower expressions of Notch1, Jagged1,
+Numb, and Delta-like 1 were evident in muscle biopsies from older men (60-75
+years old) compared to muscle from younger men (18-25 years old). Importantly,
+with supervised resistance exercise training, expression of Notch1 and Hes6 genes
+were increased and Delta-like 1 and Numb expression were decreased. The
+differences in Notch expression between the age groups were no longer evident
+following training. These results provide further evidence to support the role of
+Notch in the impaired regulation of muscle mass with age and suggest that some of
+the benefits provided by resistance training may be mediated through the Notch
+signaling pathway.
+
+PMID: 17301032  [PubMed - indexed for MEDLINE]
+
+
+60. Biochem Biophys Res Commun. 2007 Apr 6;355(2):331-7. Epub 2007 Feb 5.
+
+HES6 reverses nuclear reprogramming of insulin-producing cells following cell
+fusion.
+
+Ball AJ(1), Abrahamsson AE, Tyrberg B, Itkin-Ansari P, Levine F.
+
+Author information: 
+(1)UCSD Department of Pediatrics, University of California-San Diego, 9500 Gilman
+Drive, La Jolla, CA 92093-0816, USA.
+
+To examine the mechanism by which growth-stimulated pancreatic beta-cells
+dedifferentiate, somatic cell fusions were performed between MIN6, a highly
+differentiated mouse insulinoma, and betalox5, a cell line derived from human
+beta-cells which progressively dedifferentiated in culture. MIN6/betalox5 somatic
+cells hybrids underwent silencing of insulin expression and a marked decline in
+PDX1, NeuroD, and MafA, indicating that betalox5 expresses a dominant transacting
+factor(s) that represses beta-cell differentiation. Expression of Hes1, which
+inhibits endocrine differentiation was higher in hybrid cells than in parental
+MIN6 cells. Hes6, a repressor of Hes1, was highly expressed in primary beta-cells
+as well as MIN6, but was repressed in hybrids. Hes6 overexpression using a
+retroviral vector led to a decrease in Hes1 levels, an increase in beta-cell
+transcription factors and partial restoration of insulin expression. We conclude 
+that the balance of Notch activators and inhibitors may play an important role in
+maintaining the beta-cell differentiated state.
+
+PMCID: PMC1852427
+PMID: 17300753  [PubMed - indexed for MEDLINE]
+
+
+61. Blood. 2007 Feb 15;109(4):1720-7. Epub 2006 Oct 26.
+
+Gene-expression profiling and array-based CGH classify CD4+CD56+ hematodermic
+neoplasm and cutaneous myelomonocytic leukemia as distinct disease entities.
+
+Dijkman R(1), van Doorn R, Szuhai K, Willemze R, Vermeer MH, Tensen CP.
+
+Author information: 
+(1)Department of Dermatology, Leiden University Medical Center, The Netherlands.
+
+CD4+CD56+ hematodermic neoplasm (CD4+CD56+HN) is an aggressive hematopoietic
+malignancy with distinct clinicopathologic and immunophenotypic features that
+commonly involve the skin, bone marrow, and blood. Differentiation from cutaneous
+myelomonocytic leukemia (c-AML) may be exceedingly difficult and requires
+extensive phenotyping. The molecular mechanisms involved in the development of
+CD4+CD56+HN are largely unresolved. Moreover, recurrent chromosomal alterations
+have not yet been precisely defined in CD4+CD56+HN and c-AML. In the present
+study an integrated genomic analysis using expression profiling and array-based
+comparative genomic hybridization (CGH) was performed on lesional skin biopsy
+samples of patients with CD4+CD56+HN and c-AML. Our results demonstrate that
+CD4+CD56+HN and c-AML show distinct gene-expression profiles and distinct
+patterns of chromosomal aberrations. CD4+CD56+HN is characterized by recurrent
+deletion of regions on chromosome 4 (4q34), chromosome 9 (9p13-p11 and 9q12-q34),
+and chromosome 13 (13q12-q31) that contain several tumor suppressor genes with
+diminished expression (Rb1, LATS2). Elevated expression of the oncogenes HES6,
+RUNX2, and FLT3 was found but was not associated with genomic amplification. We
+noted high expression of various plasmacytoid dendritic-cell (pDC)-related genes,
+pointing to the cell of origin of this malignancy.
+
+PMID: 17068154  [PubMed - indexed for MEDLINE]
+
+
+62. J Neurosci. 2006 Oct 25;26(43):11061-71.
+
+Hes6 inhibits astrocyte differentiation and promotes neurogenesis through
+different mechanisms.
+
+Jhas S(1), Ciura S, Belanger-Jasmin S, Dong Z, Llamosas E, Theriault FM, Joachim 
+K, Tang Y, Liu L, Liu J, Stifani S.
+
+Author information: 
+(1)Center for Neuronal Survival, Montreal Neurological Institute, McGill
+University, Montreal, Quebec, Canada H3A 2B4.
+
+The mechanisms regulating the generation of cell diversity in the mammalian
+cerebral cortex are beginning to be elucidated. In that regard, Hairy/Enhancer of
+split (Hes) 1 and 5 are basic helix-loop-helix (bHLH) factors that inhibit the
+differentiation of pluripotent cortical progenitors into neurons. In contrast, a 
+related Hes family member termed Hes6 promotes neurogenesis. It is shown here
+that knockdown of endogenous Hes6 causes supernumerary cortical progenitors to
+differentiate into cells that exhibit an astrocytic morphology and express the
+astrocyte marker protein GFAP. Conversely, exogenous Hes6 expression in cortical 
+progenitors inhibits astrocyte differentiation. The negative effect of Hes6 on
+astrocyte differentiation is independent of its ability to promote neuronal
+differentiation. We also show that neither its proneuronal nor its anti-gliogenic
+functions appear to depend on Hes6 ability to bind to DNA via the basic arm of
+its bHLH domain. Both of these activities require Hes6 to be localized to nuclei,
+but only its anti-gliogenic function depends on two short peptides, LNHLL and
+WRPW, that are conserved in all Hes6 proteins. These findings suggest that Hes6
+is an important regulator of the neurogenic phase of cortical development by
+promoting the neuronal fate while suppressing astrocyte differentiation. They
+suggest further that separate molecular mechanisms underlie the proneuronal and
+anti-gliogenic activities of Hes6 in cortical progenitor cells.
+
+PMID: 17065448  [PubMed - indexed for MEDLINE]
+
+
+63. Arch Histol Cytol. 2006 Sep;69(3):189-98.
+
+The bHLH transcription factors, Hes6 and Mash1, are expressed in distinct subsets
+of cells within adult mouse taste buds.
+
+Seta Y(1), Stoick-Cooper CL, Toyono T, Kataoka S, Toyoshima K, Barlow LA.
+
+Author information: 
+(1)Division of Oral Histology and Neurobiology, Department of Bioscience, Kyushu 
+Dental College, Kitakyushu, Japan. yujiseta@kyu-dent.ac.jp
+
+Taste buds are multicellular receptor organs embedded in the lingual epithelium
+of vertebrates. Taste cells within these buds are modified epithelial cells as
+they lack axons and turnover rapidly throughout life, yet have neuronal
+properties enabling them to transduce taste stimuli and transmit this information
+to the nervous system. Taste cells are heterogeneous, comprising types I, II, III
+and basal cells, and are continually replaced during adult life, raising the
+question of how these different cells are generated. The molecular mechanisms
+governing taste cell differentiation are unknown, but the Notch signaling system 
+has been implicated in this process based upon recent gene expression data. Here 
+we investigate the expression in mature taste buds of Notch related transcription
+factors, Hes6 and Mash1, which are among the first genes expressed in embryonic
+taste buds. We further compare these patterns with those of immunocytochemical
+markers of discrete taste cell types. We find that Hes6 is expressed in a subset 
+of basally located, possibly progenitor cells, yet is rarely coexpressed with
+taste cell markers. In contrast, Mash1 is detected in some basal cells and in the
+majority of differentiated type III taste cells, but never in type II cells.
+These data suggest a role for Notch signaling in taste cell differentiation in
+adult taste buds.
+
+PMID: 17031025  [PubMed - indexed for MEDLINE]
+
+
+64. Mol Endocrinol. 2006 Dec;20(12):3293-307. Epub 2006 Sep 7.
+
+The notch signaling system is present in the postnatal pituitary: marked
+expression and regulatory activity in the newly discovered side population.
+
+Chen J(1), Crabbe A, Van Duppen V, Vankelecom H.
+
+Author information: 
+(1)Laboratory of Cell Pharmacology, Department of Molecular Cell Biology,
+University of Leuven (K.U.Leuven), Campus Gasthuisberg O&N1, Herestraat 49,
+B-3000 Leuven, Belgium.
+
+Recently, we discovered in the adult anterior pituitary a subset of cells with
+side population (SP) phenotype, enriched for expression of stem/progenitor
+cell-associated factors like Sca1, and of Notch1 and Hes (hairy and enhancer of
+split) 1, components of the classically developmental Notch pathway. In the
+present study, we elaborated the expression of the Notch signaling system in the 
+postnatal pituitary, and examined its functional significance within the SP
+compartment. Using RT-PCR, we detected in the anterior pituitary of adult mouse
+the expression of all four vertebrate Notch receptors, as well as of Hes1, 5, and
+6, key downstream targets and effectors of Notch. All Notch receptors, Hes1 and
+Hes5 were measured at higher mRNA levels in the Sca1(high) SP than in the main
+population (MP) of differentiated hormonal cells. In contrast, Hes6, known as an 
+inhibitor of Hes1, was more abundant in the MP. Cells with SP phenotype, enriched
+for Sca1(high) expression, were detected throughout postnatal life. Their
+proportion was higher in immature mice, but did not change from adult (8 wk old) 
+to much older age (1 yr old). Notch pathway expression was higher in the
+Sca1(high) SP than in the MP at all postnatal ages analyzed. Functional
+implication of Notch signaling in the SP was investigated in reaggregate cultures
+of adult mouse anterior pituitary cells. Treatment with the gamma-secretase
+inhibitor DAPT down-regulated Notch activity and reduced the proportion of SP
+cells. Activation of Notch signaling with the conserved DSL motif of Notch
+ligands, or with a soluble ligand, caused a rise in SP cell number, at least in
+part due to a proliferative effect. The SP also expanded in proportion when
+aggregates were treated with leukemia-inhibitory factor, basic fibroblast growth 
+factor, and epidermal growth factor, again at least partly accounted for by a
+mitogenic action. These intrapituitary growth factors all activated Notch
+signaling, and DAPT abrogated the expansion of the SP by basic fibroblast growth 
+factor and leukemia-inhibitory factor, thus exposing a possible cross talk. In
+conclusion, we show that the Notch pathway, typically situated in embryogenesis, 
+is also present and active in the postnatal pituitary, that it is particularly
+expressed within the SP independent of age, and that it plays a role in the
+regulation of SP abundance. Whether our data indicate that Notch regulates
+renewal and fate decisions of putative stem/progenitor cells within the pituitary
+SP as found in other tissues, remains open for further exploration.
+
+PMID: 16959876  [PubMed - indexed for MEDLINE]
+
+
+65. Dev Genes Evol. 2006 Jun;216(6):315-32. Epub 2006 Mar 17.
+
+Comparative analysis of her genes during fish somitogenesis suggests a
+mouse/chick-like mode of oscillation in medaka.
+
+Gajewski M(1), Elmasri H, Girschick M, Sieger D, Winkler C.
+
+Author information: 
+(1)Universität zu Köln, Institut für Genetik [corrected] Zülpicher Str., 47,
+50674 Köln, Germany. martin.gajewski@uni-koeln.de
+
+Erratum in
+    Dev Genes Evol. 2006 Jun;216(6):333.
+
+Somitogenesis is the key developmental step, which divides the vertebrate body
+axis into segmentally repeated structures. It requires an intricate process of
+pre-patterning, which is driven by an oscillator mechanism consisting of the
+Delta-Notch pathway and various hairy- and Enhancer of split-related (her) genes.
+The subset of her genes, which are necessary to set up the segmentation clock,
+reveal a complex scenario of interactions. To understand which her genes are
+essential core players in this process, we compared the expression patterns of
+somitogenesis-relevant her genes in zebrafish and medaka (Oryzias latipes). Most 
+of the respective medaka genes (Ol-her) are duplicated like what has been shown
+for zebrafish (Dr-her) and pufferfish genes (Fr-her). However, zebrafish genes
+show some additional copies and significant differences in expression patterns.
+For the paralogues Dr-her1 and Dr-her11, only one copy exists in the medaka
+(Ol-her1/11), which combines the expression patterns found for both zebrafish
+genes. In contrast to Dr-her5, the medaka orthologue appears to play a role in
+somitogenesis because it is expressed in the presomitic mesoderm (PSM). PSM
+expression also suggests a role for both Ol-her13 genes, homologues of mouse Hes6
+(mHes6), in this process, which would be consistent with a conserved mHes6
+homologue gear in the segmentation clock exclusively in lower vertebrates.
+Members of the mHes5 homologue group seem to be involved in somite formation in
+all vertebrates (e.g. Dr- and Ol-her12), although different paralogues are
+additionally recruited in zebrafish (e.g. Dr-her15) and medaka (e.g. Ol-her4). We
+found that the linkage between duplicates is strongly conserved between
+pufferfish and medaka and less well conserved in zebrafish. Nevertheless, linkage
+and orientation of several her duplicates are identical in all three species.
+Therefore, small-scale duplications must have happened before whole genome
+duplication occurred in a fish ancestor. Expression of multiple stripes in the
+intermediate PSM, characteristic for the zebrafish orthologues, is absent in all 
+somitogenesis-related her genes of the medaka. In fact, the expression mode of
+Ol-her1/11 and Ol-her5 indicates dynamism similar to the hairy clock genes in
+chicken and mouse. This suggests that Danio rerio shows a rather derived clock
+mode when compared to other fish species and amniotes or that, alternatively, the
+clock mode evolved independently in zebrafish, medaka and mouse or chicken.
+
+PMID: 16544152  [PubMed - indexed for MEDLINE]
+
+
+66. Dev Dyn. 2006 Jun;235(6):1689-700.
+
+Basic helix-loop-helix gene Hes6 delineates the sensory hair cell lineage in the 
+inner ear.
+
+Qian D(1), Radde-Gallwitz K, Kelly M, Tyrberg B, Kim J, Gao WQ, Chen P.
+
+Author information: 
+(1)Department of Cell Biology, Emory University School of Medicine, Atlanta,
+Georgia 30322, USA.
+
+The basic helix-loop-helix (bHLH) gene Hes6 is known to promote neural
+differentiation in vitro. Here, we report the expression and functional studies
+of Hes6 in the inner ear. The expression of Hes6 appears to be parallel to that
+of Math1 (also known as Atoh1), a bHLH gene necessary and sufficient for hair
+cell differentiation. Hes6 is expressed initially in the presumptive hair cell
+precursors in the cochlea. Subsequently, the expression of Hes6 is restricted to 
+morphologically differentiated hair cells. Similarly, the expression of Hes6 in
+the vestibule is in the hair cell lineage. Hes6 is dispensable for hair cell
+differentiation, and its expression in inner ear hair cells is abolished in the
+Math1-null animals. Furthermore, the introduction of Hes6 into the cochlea in
+vitro is not sufficient to promote sensory or neuronal differentiation.
+Therefore, Hes6 is downstream of Math1 and its expression in the inner ear
+delineates the sensory lineage. However, the role of Hes6 in the inner ear
+remains elusive.
+
+Developmental Dynamics 235:1689-1700, 2006. (c) 2006 Wiley-Liss, Inc.
+
+PMCID: PMC2810659
+PMID: 16534784  [PubMed - indexed for MEDLINE]
+
+
+67. Mol Cell Neurosci. 2005 Dec;30(4):583-600.
+
+Transcriptional changes during neuronal death and replacement in the olfactory
+epithelium.
+
+Shetty RS(1), Bose SC, Nickell MD, McIntyre JC, Hardin DH, Harris AM, McClintock 
+TS.
+
+Author information: 
+(1)Department of Physiology, Cellular and Molecular Neuroscience of Sensory
+Systems Training Program, University of Kentucky, Lexington 40536-0298, USA.
+
+Corrected and republished from
+    Mol Cell Neurosci. 2005 Sep;30(1):90-107.
+
+The olfactory epithelium has the unusual ability to replace its neurons.We forced
+replacement of mouse olfactory sensory neurons by bulbectomy. Microarray,
+bioinformatics, and in situ hybridization techniques detected a rapid shift in
+favor of pro-apoptotic proteins, a progressive immune response by macrophages and
+dendritic cells, and identified or predicted 439 mRNAs enriched in olfactory
+sensory neurons, including gene silencing factors and sperm flagellar proteins.
+Transcripts encoding cell cycle regulators, axonogenesis proteins, and
+transcription factors and signaling proteins that promote proliferation and
+differentiation were increased at 5-7 days after bulbectomy and were expressed by
+basal progenitor cells or immature neurons. The transcription factors included
+Nhlhl, Hes6, Lmycl, c-Myc, Mxd4, Idl,Nmycl, Cited2, c-Myb, Mybll, Tead2, Dpl,
+Gata2, Lmol, and Soxll. The data reveal significant similarities with embryonic
+neurogenesis and make several mechanistic predictions, including the roles of the
+transcription factors in the olfactory sensory neuron lineage.
+
+PMID: 16456926  [PubMed - indexed for MEDLINE]
+
+
+68. Int J Mol Med. 2006 Feb;17(2):391-5.
+
+Comparative genomics on HHIP family orthologs.
+
+Katoh Y(1), Katoh M.
+
+Author information: 
+(1)M and M Medical BioInformatics, Hongo 113-0033, Japan.
+
+Hedgehog, FGF, VEGF, and Notch signaling pathways network together for vascular
+remodeling during embryogenesis and carcinogenesis. HHIP1 (HHIP) is an endogenous
+antagonist for SHH, IHH, and DHH. Here, comparative integromics analyses on HHIP 
+family members were performed by using bioinformatics and human intelligence.
+HHIP1, HHIP2 (HHIPL1 or KIAA1822) and HHIP3 (HHIPL2 or KIAA1822L) constitute
+human HHIP gene family. Rat Hhip1, Hhip2, and Hhip3 genes were identified within 
+AC107504.4, AC094820.6, and AC134264.2 genome sequences, respectively.
+HHIP-homologous (HIPH) domain with conserved 18 Cys residues was identified as
+the novel domain conserved among mammalian HHIP1, HHIP2, and HHIP3 orthologs.
+HHIP1 mRNA was expressed in coronary artery endothelial cells, prostate, and
+rhabdomyosarcoma. HHIP2 mRNA was expressed in trabecular bone cells. HHIP3 mRNA
+was expressed in testis, thyroid gland, osteoarthritic cartilarge, pancreatic
+cancer, and lung cancer. Promoters of HHIP family genes were not well conserved
+between human and rodents. Although GLI-, CSL-, and HES/HEY-binding sites were
+not identified, eleven bHLH-binding sites were identified within human HHIP1
+promoter. Expression of HES/HEY family members, including HES1, HES2, HES3, HES4,
+HES5, HES6, HES7, HEY1, HEY2 and HEYL, in coronary artery endothelial cells was
+not detected in silico. Up-regulation of HHIP1 due to down-regulation of
+Notch-CSL-HES/HEY signaling cascade repressing bHLH transcription factors results
+in down-regulation of the Hedgehog-VEGF-Notch signaling cascade. On the other
+hand, down-regulation of HHIP1 due to up-regulation of Notch signaling in
+vascular endothelial cells during angiogenesis results in up-regulation of the
+Hedgehog-VEGF-Notch signaling cascade. Because HHIP1 is the key molecule for
+vascular remodeling, HHIP1 is the pharmacogenomics target in the fields of
+oncology and vascular medicine.
+
+PMID: 16391842  [PubMed - indexed for MEDLINE]
+
+
+69. Exp Mol Med. 2005 Oct 31;37(5):399-407.
+
+Efficient culture system for human embryonic stem cells using autologous human
+embryonic stem cell-derived feeder cells.
+
+Yoo SJ(1), Yoon BS, Kim JM, Song JM, Roh Sl, You S, Yoon HS.
+
+Author information: 
+(1)Laboratory of Stem Cell Research, Medical Research Center, MizMedi Hospital,
+701-4 Naebalsan-dong, Kangseo-gu, Seoul 157-280, Korea.
+
+Erratum in
+    Exp Mol Med. 2006 Feb 28;38(1):107.
+
+Human embryonic stem cells (hESCs) need feeder cells for their maintenance in an 
+undifferentiated state. In conventional culture systems, mouse embryonic
+fibroblasts (MEFs) serve as feeder cells to maintain hESCs. However, the use of
+MEFs elevates the risk of transmitting mouse pathogens and thus limits the
+potential of hESCs in cell replacement therapy. Consequently, the use of human
+feeder cells would be an important step forward in this in vitro technology. To
+address this issue, we used fibroblast-like cells differentiated from the
+Miz-hES6 hESC line (DiffMiz-hES6) as feeder cells to support the in vitro growth 
+of three hESC lines. Immunofluorescence microscopy and reverse transcription-PCR 
+assessing the expression of undifferentiated hESC markers revealed all three hESC
+lines were maintained in an undifferentiated state. In vitro proliferation
+proceeded as efficiently as when the hESCs were cultured on MEFS. Moreover,
+karyotype analysis revealed the chromosomal normality of the hESC lines and the
+DiffMiz-hES6 feeders themselves after even 50 passages. Furthermore, the hESC
+lines maintained their pluripotency since they remained capable of forming
+embryoid bodies (EBs) in vitro. Thus, hESC-derived fibroblast-like cells
+successfully support in vitro hESC propagation.
+
+PMID: 16264264  [PubMed - indexed for MEDLINE]
+
+
+70. Oncogene. 2005 Oct 27;24(47):7073-83.
+
+Upregulation of ASCL1 and inhibition of Notch signaling pathway characterize
+progressive astrocytoma.
+
+Somasundaram K(1), Reddy SP, Vinnakota K, Britto R, Subbarayan M, Nambiar S,
+Hebbar A, Samuel C, Shetty M, Sreepathi HK, Santosh V, Hegde AS, Hegde S,
+Kondaiah P, Rao MR.
+
+Author information: 
+(1)1Department of Microbiology and Cell Biology, Indian Institute of Science,
+Malleswaram, Bangalore 560012, India.
+
+Astrocytoma is the most common type of brain cancer constituting more than half
+of all brain tumors. With an aim to identify markers describing astrocytoma
+progression, we have carried out microarray analysis of astrocytoma samples of
+different grades using cDNA microarray containing 1152 cancer-specific genes.
+Data analysis identified several differentially regulated genes between normal
+brain tissue and astrocytoma as well as between grades II/III astrocytoma and
+glioblastoma multiforme (GBM; grade IV). We found several genes known to be
+involved in malignancy including Achaete-scute complex-like 1 (Drosophila)
+(ASCL1; Hash 1). As ASCL has been implicated in neuroendocrine, medullary thyroid
+and small-cell lung cancers, we chose to examine the role of ASCL1 in the
+astrocytoma development. Our data revealed that ASCL1 is overexpressed in
+progressive astrocytoma as evidenced by increased levels of ASCL1 transcripts in 
+85.71% (6/7) of grade II diffuse astrocytoma (DA), 90% (9/10) of grade III
+anaplastic astrocytoma (AA) and 87.5% (7/8) of secondary GBMs, while the majority
+of primary de novo GBMs expressed similar to or less than normal brain levels
+(66.67%; 8/12). ASCL1 upregulation in progressive astrocytoma is accompanied by
+inhibition of Notch signaling as seen by uninduced levels of HES1, a
+transcriptional target of Notch1, increased levels of HES6, a dominant-negative
+inhibitor of HES1-mediated repression of ASCL1, and increased levels of Notch
+ligand Delta1, which is capable of inhibiting Notch signaling by forming
+intracellular Notch ligand autonomous complexes. Our results imply that
+inhibition of Notch signaling may be an important early event in the development 
+of grade II DA and subsequent progression to grade III AA and secondary GBM.
+Furthermore, ASCL1 appears to be a putative marker to distinguish primary GBM
+from secondary GBM.
+
+PMID: 16103883  [PubMed - indexed for MEDLINE]
+
+
+71. Stem Cells. 2005 Nov-Dec;23(10):1502-13. Epub 2005 Aug 11.
+
+Heat shock 70-kDa protein 8 isoform 1 is expressed on the surface of human
+embryonic stem cells and downregulated upon differentiation.
+
+Son YS(1), Park JH, Kang YK, Park JS, Choi HS, Lim JY, Lee JE, Lee JB, Ko MS, Kim
+YS, Ko JH, Yoon HS, Lee KW, Seong RH, Moon SY, Ryu CJ, Hong HJ.
+
+Author information: 
+(1)Laboratory of Antibody Engineering, Korea Research Institute of Bioscience and
+Biotechnology, Yusong-Gu, Daejon 305-333, Republic of Korea.
+
+The cell-surface markers used routinely to define the undifferentiated state and 
+pluripotency of human embryonic stem cells (hESCs) are those used in mouse
+embryonic stem cells (mESCs) because of a lack of markers directly originated
+from hESC itself. To identify more hESC-specific cell-surface markers, we
+generated a panel of monoclonal antibodies (MAbs) by immunizing the irradiated
+cell clumps of hESC line Miz-hES1, and selected 26 MAbs that were able to bind to
+Miz-hES1 cells but not to mESCs, mouse embryonic fibroblast cells, and STO cells.
+Most antibodies did not bind to human neural progenitor cells derived from the
+Miz-hES1 cells, either. Of these, MAb 20-202S (IgG1, kappa) immunoprecipitated a 
+cell-surface protein of 72-kDa from the lysate of biotin-labeled Miz-hES1 cells, 
+which was identified to be heat shock 70-kDa protein 8 isoform 1 (HSPA8) by
+quadrupole time-of-flight tandem mass spectrometry. Immunocytochemical analyses
+proved that the HSPA8 protein was also present on the surface of hESC lines
+Miz-hES4, Miz-hES6, and HSF6. Two-color flow cytometric analysis of Miz-hES1 and 
+HSF6 showed the coexpression of the HSPA8 protein with other hESC markers such as
+stage-specific embryonic antigen 3 (SSEA3), SSEA4, TRA-1-60, and TRA-1-81. Flow
+cytometric and Western blot analyses using various cells showed that MAb 20-202S 
+specifically bound to the HSPA8 protein on the surface of Miz-hES1, contrary to
+other anti-HSP70 antibodies examined. Furthermore, the surface expression of the 
+HSPA8 protein on Miz-hES1 was markedly downregulated upon differentiation. These 
+data indicate that a novel MAb 20-202S recognizes the HSPA8 protein on the
+surface of hESCs and suggest that the HSPA8 protein is a putative cell-surface
+marker for undifferentiated hESCs.
+
+PMID: 16100000  [PubMed - indexed for MEDLINE]
+
+
+72. Genes Dev. 2005 May 15;19(10):1156-61.
+
+Zebrafish hairy/enhancer of split protein links FGF signaling to cyclic gene
+expression in the periodic segmentation of somites.
+
+Kawamura A(1), Koshida S, Hijikata H, Sakaguchi T, Kondoh H, Takada S.
+
+Author information: 
+(1)Okazaki Institute for Integrative Biosciences, National Institutes of Natural 
+Sciences, Okazaki, Aichi 444-8787, Japan.
+
+Notch and fibroblast growth factor (FGF) signaling pathways have been implicated 
+in the establishment of proper periodicity of vertebrate somites. Here, we show
+evidence that a Hes6-related hairy/Enhancer of split-related gene, her13.2, links
+FGF signaling to the Notch-regulated oscillation machinery in zebrafish.
+Expression of her13.2 is induced by FGF-soaked beads and decreased by an FGF
+signaling inhibitor. her13.2 is required for periodic repression of the
+Notch-regulated genes her1 and her7, and for proper somite segmentation.
+Furthermore, Her13.2 augments autorepression of her1 in association with Her1
+protein. Therefore, FGF signaling appears to maintain the oscillation machinery
+by supplying a binding partner, Her13.2, for Her1.
+
+PMCID: PMC1132002
+PMID: 15905406  [PubMed - indexed for MEDLINE]
+
+
+73. Biochem Biophys Res Commun. 2005 Jun 24;332(1):33-6.
+
+The conserved WRPW motif of Hes6 mediates proteasomal degradation.
+
+Kang SA(1), Seol JH, Kim J.
+
+Author information: 
+(1)Division of Molecular Life Sciences and Center for Cell Signaling Research,
+Ewha Womans University, 11-1 Daehyun-dong, Seodaemun-gu, Seoul 120-750, Korea.
+
+Hes6 belongs to a subfamily of basic helix-loop-helix transcription factors that 
+includes Drosophila Hairy and Enhancer of split genes. Like other members of the 
+family, Hes6 features the WRPW motif which is consisted just of four amino acids 
+at its C-terminus. Here, we show that WRPW motif deletion mutant protein is
+substantially stabilized in comparison to the full length protein and that the
+enhanced stability is due to its resistance to proteasomal degradation. The WRPW 
+motif also appears to be sufficient for acceleration of proteolysis as its fusion
+to two heterologous proteins, the green fluorescent protein (GFP) of Aequoria
+victoria and Gal4 DNA binding domain of Saccharomyces cerevisiae, significantly
+destabilized the proteins. These findings demonstrate a novel function of this
+conserved motif as a degradation signal and raise the possibility of utilizing it
+for controlling the level of ectopically expressed gene products.
+
+PMID: 15896295  [PubMed - indexed for MEDLINE]
+
+
+74. Dev Biol. 2005 May 15;281(2):318-33.
+
+A novel hes5/hes6 circuitry of negative regulation controls Notch activity during
+neurogenesis.
+
+Fior R(1), Henrique D.
+
+Author information: 
+(1)Instituto de Medicina Molecular, Faculdade de Medicina de Lisboa, Av. Prof.
+Egas Moniz, 1649-028 Lisboa, Portugal.
+
+HES transcriptional repressors are important components of the Notch pathway that
+regulates neurogenesis from Drosophila to vertebrates. These proteins are
+normally induced by Notch activity and inhibit neural commitment by antagonizing 
+the activity of proneural genes. We describe here four chick hes genes that are
+expressed during neurogenesis: three hes5-like genes (hes5-1, hes5-2 and hes5-3) 
+and one hes6-like (hes6-2). We show that hes6-2 represses transcription of the
+hes5 genes, thus functioning as a negative regulator of Notch signaling.
+Conversely, hes6-2 may be repressed by hes5 activity. In cells committing to
+differentiation, we find that hes6-2 is up-regulated by proneural genes and
+contributes to the proneural program of neuronal commitment by preventing Notch
+activity in these cells. In neural progenitors, Notch signaling produces an
+initial burst of hes5 activity, which represses hes6-2. However, as hes5
+transcription declines due to negative auto-regulation, hes6-2 may become active 
+and inhibit the remaining hes5 activity to end Notch signaling. These cells can
+then enter a new cycle of fate decisions and will be kept as progenitors if a new
+pulse of Notch activity occurs. Maintenance of progenitors during vertebrate
+neurogenesis therefore requires that these cells go through successive cycles of 
+Notch activity. We propose that the hes5/hes6 circuitry of negative
+cross-regulations is a conserved feature of the Notch pathway that underlies
+these cycles in neural progenitors.
+
+PMID: 15893982  [PubMed - indexed for MEDLINE]
+
+
+75. J Biol Chem. 2005 May 13;280(19):19115-26. Epub 2005 Jan 28.
+
+Identification of direct serum-response factor gene targets during Me2SO-induced 
+P19 cardiac cell differentiation.
+
+Zhang SX(1), Garcia-Gras E, Wycuff DR, Marriot SJ, Kadeer N, Yu W, Olson EN,
+Garry DJ, Parmacek MS, Schwartz RJ.
+
+Author information: 
+(1)Department of Molecular and Cellular Biology, Baylor College of Medicine,
+Houston, Texas 77030, USA.
+
+Serum-response factor (SRF) is an obligatory transcription factor, required for
+the formation of vertebrate mesoderm leading to the origin of the cardiovascular 
+system. Protein A-TEV-tagged chromatin immunoprecipitation technology was used to
+collect direct SRF-bound gene targets from pluripotent P19 cells, induced by
+Me2SO treatment into an enriched cardiac cell population. From 242 sequenced DNA 
+fragments, we identified 188 genomic DNA fragments as potential direct SRF
+targets that contain CArG boxes and CArG-like boxes. Of the 92 contiguous genes
+that were identified, a subgroup of 43 SRF targets was then further validated by 
+co-transfection assays with SRF. Expression patterns of representative candidate 
+genes were compared with the LacZ reporter expression activity of the endogenous 
+SRF gene. According to the Unigene data base, 84% of the SRF target candidates
+were expressed, at least, in the heart. In SRF null embryonic stem cells, 81% of 
+these SRF target candidates were greatly affected by the absence of SRF. Among
+these SRF-regulated genes, Raf1, Map4k4, and Bicc1 have essential roles in
+mesoderm formation. The 12 regulated SRF target genes, Mapk10 (JNK3), Txnl2,
+Azi2, Tera, Sema3a, Lrp4, Actc1, Myl3, Hspg2, Pgm2, Hif3a, and Asb5, have been
+implicated in cardiovascular formation, and the Ski and Hes6 genes have roles in 
+muscle differentiation. SRF target genes related to cell mitosis and cycle, E2f5,
+Npm1, Cenpb, Rbbp6, and Scyl1, expressed in the heart tissue were differentially 
+regulated in SRF null ES cells.
+
+PMID: 15699019  [PubMed - indexed for MEDLINE]
+
+
+76. Mol Biol Cell. 2005 Jan;16(1):339-47. Epub 2004 Oct 20.
+
+NGF controls dendrite development in hippocampal neurons by binding to p75NTR and
+modulating the cellular targets of Notch.
+
+Salama-Cohen P(1), Arévalo MA, Meier J, Grantyn R, Rodríguez-Tébar A.
+
+Author information: 
+(1)Instituto Cajal de Neurobiología, Consejo Superior de Investigaciones
+Científicas, E28002 Madrid, Spain.
+
+Notch and neurotrophins control neuronal shape, but it is not known whether their
+signaling pathways intersect. Here we report results from hippocampal neuronal
+cultures that are in support of this possibility. We found that low cell density 
+or blockade of Notch signaling by a soluble Delta-Fc ligand decreased the mRNA
+levels of the nuclear targets of Notch, the homologues of enhancer-of-split 1 and
+5 (Hes1/5). This effect was associated with enhanced sprouting of new dendrites
+or dendrite branches. In contrast, high cell density or exposure of low-density
+cultures to NGF increased the Hes1/5 mRNA, reduced the number of primary
+dendrites and promoted dendrite elongation. The NGF effects on both Hes1/5
+expression and dendrite morphology were prevented by p75-antibody (a
+p75NTR-blocking antibody) or transfection with enhancer-of-split 6 (Hes6), a
+condition known to suppress Hes activity. Nuclear translocation of NF-kappaB was 
+identified as a link between p75NTR and Hes1/5 because it was required for the
+up-regulation of these two genes. The convergence of the Notch and p75NTR
+signaling pathways at the level of Hes1/5 illuminates an unexpected mechanism
+through which a diffusible factor (NGF) could regulate dendrite growth when
+cell-cell interaction via Notch is not in action.
+
+PMCID: PMC539177
+PMID: 15496460  [PubMed - indexed for MEDLINE]
+
+
+77. Int J Mol Med. 2004 Oct;14(4):747-51.
+
+Identification and characterization of human HESL, rat Hesl and rainbow trout
+hesl genes in silico.
+
+Katoh M(1), Katoh M.
+
+Author information: 
+(1)M&M Medical BioInformatics, Narashino 275-0022, Japan. mkatoh@ncc.go.jp
+
+Activation of Notch signaling pathway leads to nuclear translocation of Notch
+intracellular domain (NIC), and transcriptional activation of target genes
+through the interaction between CSL proteins (RBPSUH or RBPSUHL) and NIC. HES1,
+HES5, HEY1 and HEY2 are Notch target genes. Mammalian HES/HEY family proteins as 
+well as Drosophila Hairy and Enhancer of split are implicated in the cell fate
+determination. We have previously identified and characterized human HES2, HES3
+and HES5 genes. Here, we identified and characterized human HES-like (HESL), rat 
+Fesl, and rainbow trout fesl genes by using bioinformatics. Human HESL gene,
+located within AC093824.3 genome sequence, was mapped to human chromosome 4q35.1 
+between ACSL1 and SLC25A4 genes. Rat Fesl gene, located within AC111303.4 genome 
+sequence, was mapped to rat chromosome 16q11. EST BX875070.2 was the
+representative rainbow trout fesl cDNA. HESL-ACSL1 locus was conserved among
+human, rat, mouse, and zebrafish genomes. Human HESL (241 aa) showed 92.9%
+total-amino-acid identity with rat Hesl (240 aa), 92.1% total-amino-acid identity
+with mouse Hesl (240 aa), and 68.0% total-amino-acid identity with rainbow trout 
+hesl (235 aa). HESL orthologs consist of basic Helix-loop-helix (bHLH) domain and
+ORANGE domain. C-terminal region of HESL orthologs were divergent from that of
+HES, HEY, and DEC homologs. Phylogenetic analyses revealed that bHLH
+transcription factors with ORANGE domain were classified into the following three
+groups: (group I) HES1, HES2, HES4 and HES6 orthologs; (group II) HESL, HES5,
+HES7, HEY1, HEY2 and HEYL orthologs; (group III) HES3, DEC1/BHLHB2 and
+DEC2/BHLHB3 orthologs.
+
+PMID: 15375612  [PubMed - indexed for MEDLINE]
+
+
+78. Int J Oncol. 2004 Aug;25(2):529-34.
+
+Identification and characterization of human HES2, HES3, and HES5 genes in
+silico.
+
+Katoh M(1), Katoh M.
+
+Author information: 
+(1)M&M Medical BioInformatics, Narashino 275-0022, Japan.
+
+MMTV induces the mouse mammary tumor through the dysregulation of Notch, Wnt, or 
+Fgf signaling pathway. Activation of Notch signaling pathway leads to
+transcriptional activation of Hes family genes through the interaction between
+Notch intracellular domain and RBPSUH (CSL). Hes family proteins are mammalian
+homologs of Drosophila Hairy and Enhancer of split. Hes family of transcriptional
+repressors with basic Helix-loop-helix (bHLH) and Orange domains are implicated
+in the cell fate determination of stem cells (or precursor cells) by suppressing 
+the expression of tissue-specific transcriptional activators. Human HES1, HES4,
+HES6, and HES7 genes have been reported by other groups. Here, we identified and 
+characterized human HES2, HES3 and HES5 genes by using bioinformatics. FLJ33803
+(AK091122.1) was the representative human HES2 cDNA. HES2 gene, encoding a 173-aa
+protein, was located within human genome sequence AL031848.11. HES3 gene,
+encoding a 186-aa protein, was identified within human genome sequence
+AL031847.17. HES5 gene, encoding a 166-aa protein, was identified within human
+genome sequence AL139246.20. HES2 and HES3 genes were mapped to human chromosome 
+1p36.31, while HES5 gene to 1p36.32. HES2 mRNA was expressed in placenta,
+pancreatic cancer, colon cancer with RER, cervical cancer, and in head and neck
+tumors. HES5 mRNA was expressed in fetal heart, and brain tumors. Human HES
+family proteins were found consisting of bHLH, Orange, Proline-rich domains, and 
+WRPW motif. Phylogenetic analyses revealed that HES family proteins were
+distantly related except a paralog pair of HES1 and HES4. HES family genes are
+pharmacogenomic targets in the field of regenerative medicine and oncology.
+
+PMID: 15254753  [PubMed - indexed for MEDLINE]
+
+
+79. Proc Natl Acad Sci U S A. 2004 Apr 13;101(15):5559-64. Epub 2004 Apr 1.
+
+RNA interference of achaete-scute homolog 1 in mouse prostate neuroendocrine
+cells reveals its gene targets and DNA binding sites.
+
+Hu Y(1), Wang T, Stormo GD, Gordon JI.
+
+Author information: 
+(1)Department of Molecular Biology and Pharmacology, Washington University School
+of Medicine, St. Louis, MO 63110, USA.
+
+We have previously characterized a transgenic mouse model (CR2-TAg) of metastatic
+prostate cancer arising in the neuroendocrine (NE) cell lineage. Biomarkers of NE
+differentiation in this model are expressed in conventional adenocarcinoma of the
+prostate with NE features. To further characterize the pathways that control NE
+proliferation, differentiation, and survival, we established prostate NE cancer
+(PNEC) cell lines from CR2-TAg prostate tumors and metastases. GeneChip analyses 
+of cell lines harvested at different passages, and as xenografted tumors,
+indicated that PNECs express consistent features ex vivo and in vivo and share a 
+remarkable degree of similarity with primary CR2-TAg prostate NE tumors. PNECs
+express mAsh1, a basic helix-loop-helix (bHLH) transcription factor essential for
+NE cell differentiation in other tissues. RNA interference knockdown of mAsh1,
+GeneChip comparisons of treated and control cell populations, and a computational
+analysis of down-regulated genes identified 12 transcriptional motifs enriched in
+the gene set. Affected genes, including Adcy9, Hes6, Iapp1, Ndrg4, c-Myb, and
+Mesdc2, are enriched for a palindromic E-box motif, CAGCTG, indicating that it is
+a physiologically relevant mAsh1 binding site. The enrichment of a c-Myb binding 
+site and the finding that c-Myb is down-regulated by mAsh1 RNA interference
+suggest that mAsh1 and c-Myb are in the same signaling pathway. Our data indicate
+that mAsh1 negatively regulates the cell cycle (e.g., via enhanced Cdkn2d, Bub1
+expression), promotes differentiation (e.g., through effects on cAMP), and
+enhances survival by inhibiting apoptosis. PNEC cell lines should be generally
+useful for genetic and/or pharmacologic studies of the regulation of NE cell
+proliferation, differentiation, and tumorigenesis.
+
+PMCID: PMC397422
+PMID: 15060276  [PubMed - indexed for MEDLINE]
+
+
+80. J Pediatr Surg. 2003 Nov;38(11):1642-9.
+
+Effects of whole blood, crystalloid, and colloid resuscitation of hemorrhagic
+shock on renal damage in rats: an ultrastructural study.
+
+Onen A(1), Cigdem MK, Deveci E, Kaya S, Turhanoglu S, Yaldiz M.
+
+Author information: 
+(1)Department of Pediatric Surgery, Dicle University School of Medicine,
+Diyarbakir, Turkey.
+
+Comment in
+    J Pediatr Surg. 2004 Jul;39(7):1155; author reply 1155.
+
+PURPOSE: The aim of this study was to determine the effects of whole blood,
+crystalloid, and colloid treatment on histopathologic damage of kidney induced by
+hemorrhagic shock in rats.
+METHODS: Fifty-six male Sprague Dawley rats were divided into 8 groups. The
+carotid artery was cannulated, and systolic arterial pressure (SAP), diastolic
+arterial pressure (DAP), heart rate (HR), and rectal temperature (RT) were
+observed during the procedure. The jugular vein also was cannulated, and the SAP 
+was decreased by aspiration of 75% of blood through the jugular vein in the
+control (nonresuscitated) and study (resuscitated) groups, whereas blood was not 
+diminished in the sham group. The hemorrhagic shock was permitted to last 45
+minutes; then, the study group rats were resuscitated with heparinized shed
+autologous whole blood (WB), normal saline (NS), Lactated Ringer's solution (LR),
+hydroxyethyl starch 6% (HES6), hydroxyethyl starch 10% (HES10), or dextran 40
+(D40). Histopathologic evaluation was performed under light and electron
+microscope.
+RESULTS: The RT, SAP, and DAP decreased, and HR increased significantly in the
+control and study groups during the shock period compared with those of sham
+group. After volume resuscitation, these parameters changed to preshock levels.
+Electron and light microscopic examinations of kidneys showed severe proximal
+tubular degeneration with moderate glomerular damage in the control group;
+moderate proximal tubular degeneration with mild glomerular damage in the NS, LR,
+HES6, and HES10 groups; and mild proximal tubular degeneration with no evidence
+of glomerular damage in the WB and D-40 groups.
+CONCLUSIONS: The characteristic ultrastructural features of hemorrhagic shock
+appear to be severe tubular degeneration and mild to moderate changes in
+glomeruli. Resuscitation of hemorrhagic shock with whole blood or dextran 40
+solution appears to be most favorable therapy in preventing ultrastructural renal
+damage in rats.
+
+PMID: 14614716  [PubMed - indexed for MEDLINE]
+
+
+81. Mol Cell Biol. 2003 Oct;23(19):6922-35.
+
+Hes6 promotes cortical neurogenesis and inhibits Hes1 transcription repression
+activity by multiple mechanisms.
+
+Gratton MO(1), Torban E, Jasmin SB, Theriault FM, German MS, Stifani S.
+
+Author information: 
+(1)Center for Neuronal Survival, Montreal Neurological Institute, McGill
+University, Montreal, Quebec H3A 2B4, Canada.
+
+Hes1 is a mammalian basic helix-loop-helix transcriptional repressor that
+inhibits neuronal differentiation together with corepressors of the Groucho
+(Gro)/Transducin-like Enhancer of split (TLE) family. The interaction of Hes1
+with Gro/TLE is mediated by a WRPW tetrapeptide present in all Hairy/Enhancer of 
+split (Hes) family members. In contrast to Hes1, the related protein Hes6
+promotes neuronal differentiation. Little is known about the molecular mechanisms
+that underlie the neurogenic activity of Hes6. It is shown here that Hes6
+antagonizes Hes1 function by two mechanisms. Hes6 inhibits the interaction of
+Hes1 with its transcriptional corepressor Gro/TLE. Moreover, it promotes
+proteolytic degradation of Hes1. This effect is maximal when both Hes1 and Hes6
+contain the WRPW motif and is reduced when Hes6 is mutated to eliminate a
+conserved site (Ser183) that can be phosphorylated by protein kinase CK2.
+Consistent with these findings, Hes6 inhibits Hes1-mediated transcriptional
+repression in cortical neural progenitor cells and promotes the differentiation
+of cortical neurons, a process that is normally inhibited by Hes1. Mutation of
+Ser183 impairs the neurogenic ability of Hes6. Taken together, these findings
+clarify the molecular events underlying the neurogenic function of Hes6 and
+suggest that this factor can antagonize Hes1 activity by multiple mechanisms.
+
+PMCID: PMC193938
+PMID: 12972610  [PubMed - indexed for MEDLINE]
+
+
+82. Cancer Lett. 2003 Aug 20;198(2):229-39.
+
+Detection of differentially expressed HES-6 gene in metastatic colon carcinoma by
+combination of suppression subtractive hybridization and cDNA library array.
+
+Swearingen ML(1), Sun D, Bourner M, Weinstein EJ.
+
+Author information: 
+(1)Department of Oncology Pharmacology, Pharmacia Corporation, Mail Zone AA4C,
+700 Chesterfield Parkway North, Chesterfield, MO 63017, USA.
+
+The molecular mechanisms involved in the progression of colon carcinomas from a
+primary to a metastatic tumor have been only partially elucidated and poorly
+understood. This study combines suppression subtractive hybridization and cDNA
+array hybridization to identify genes with expression differences between a
+primary human colon tumor cell line (HT29) and three isogenic lung tumor
+metastases. The positive clones isolated in this screen were further validated
+and quantitated with real-time reverse transcription polymerase chain reactions. 
+HES-6 was identified as up-regulated in each of the individual tumor metastases, 
+as well as in a panel of primary human tumors derived from the lung, breast and
+kidney. These findings demonstrate that it is possible to utilize longitudinal
+samples from an in vivo model of colon carcinoma to identify genes up-regulated
+in metastases and that HES-6 may be an important marker of a range of primary
+cancers as well as metastatic colon carcinoma.
+
+PMID: 12957362  [PubMed - indexed for MEDLINE]
+
+
+83. J Comp Neurol. 2003 Sep 8;464(1):49-61.
+
+Notch-associated gene expression in embryonic and adult taste papillae and taste 
+buds suggests a role in taste cell lineage decisions.
+
+Seta Y(1), Seta C, Barlow LA.
+
+Author information: 
+(1)Department of Cellular and Structural Biology and the Rocky Mountain Taste and
+Smell Center, University of Colorado Health Sciences Center, Denver, Colorado
+80262, USA.
+
+The Notch signaling pathway is involved in cell fate decisions during
+development. To explore the role of this signaling cascade in the taste system,
+we investigated the expression patterns of Notch signaling genes in fetal and
+adult mouse tongues using in situ hybridization. Three of the four murine Notch
+receptors, their ligands, Delta-like 1 (Dll-1), Jagged1, and Jagged2, as well as 
+three transcription factors, Hes1, Hes6, and Mash1, are expressed in the
+embryonic taste epithelium. Expression is first detected in the circumvallate
+papilla at embryonic day E14.5, when Notch1, Jagged1, and Jagged2 are expressed
+broadly in the papilla and general lingual epithelium. In contrast, Mash1 and
+Hes6 are restricted to only a few epithelial cells in the apical region of the
+developing papilla. By E18.5, many of the genes now exhibit a bimodal expression 
+pattern in the papillary epithelium: apically and dorsally they are expressed in 
+sparse clusters of cells, while more ventrally expression typically occurs
+throughout the lower regions of the trenches. The extent of papilla innervation
+was compared with Mash1 and Hes6 expression. At E14.5, when Hes6 and Mash1 are
+already expressed in small numbers of epithelial cells, PGP9.5 immunoreactive
+fibers have not yet invaded the epithelium, consistent with the specification of 
+taste bud primordia prior to nerve contact. All of the genes examined (except
+Notch2) are also expressed in subsets of cells within circumvallate taste buds in
+adult mice, although Notch1 is restricted to basal cells adjacent to taste buds. 
+The onset of embryonic Notch associated gene expression after the morphological
+differentiation of the circumvallate papilla argues that this signaling cascade
+may specify taste receptor cell lineages within an already specified taste
+papilla. Similarly, Notch gene expression in adult taste buds suggests continued 
+roles in cell lineage determination and cell turnover.
+
+Copyright 2003 Wiley-Liss, Inc.
+
+PMID: 12866128  [PubMed - indexed for MEDLINE]
+
+
+84. Chem Senses. 2003 Mar;28(3):197-205.
+
+Expression of Hes6 and NeuroD in the olfactory epithelium, vomeronasal organ and 
+non-sensory patches.
+
+Suzuki Y(1), Mizoguchi I, Nishiyama H, Takeda M, Obara N.
+
+Author information: 
+(1)Department of Oral Anatomy, School of Dentistry, Health Sciences University of
+Hokkaido, Ishikari-Tobetsu 061-0293, Japan. suzuki@hoku-iryo-u.ac.jp
+
+Basic helix-loop-helix transcription factors NeuroD and Hes6 promote neuronal
+differentiation. The expression of their genes in the olfactory epithelium (OE), 
+vomeronasal organ (VNO) and the non-sensory patches of the posterior nasal cavity
+of mice was examined. As detected by in situ hybridization, Hes6 was expressed in
+a basal progenitor layer of the embryonic OE. After birth, the expression of Hes6
+was detected in a cell layer above the basement membrane, globose basal cells
+(GBCs). Expression of NeuroD in the embryonic OE was in agreement with that
+previously described; and in the postnatal OE, it was detected in cells of GBC
+layer and cells upper to GBCs. In the VNO, Hes6 was expressed throughout the
+sensory epithelium (S-VNO) at embryonic day 12, and later became restricted to a 
+single layer of cells in the basal region of the S-VNO, where Hes5-expressing
+undifferentiated cells were present. NeuroD was expressed throughout the S-VNO
+during the embryonic stage. After birth, Hes6 and NeuroD expressions were
+observed in the border between the S-VNO and non-sensory VNO.
+Immunohistochemistry using anti-NeuroD antibody revealed that NeuroD-positive
+cells were still present not only at the edges but also in the center of the
+S-VNO until P3. These findings suggest that Hes6 and NeuroD are expressed in
+progenitors of chemoreceptor neurons and that the expression of Hes6 precedes
+that of NEUROD: Moreover, in the regenerating VNO of bulbectomized mice,
+NeuroD-positive cells were observed both at the edges and in the center of the
+S-VNO, suggesting that neuronal turnover occurred in both regions. Moreover, in
+the dorsal fossa of the posterior nasal cavity, several non-sensory patches are
+formed between postnatal (P) days 10 and 21 because of programmed death of ORNs
+and GBCs. During embryonic stages, the expression of Hes6 and NeuroD in the OE
+showed no regional differences. At P3-P7, expression of NeuroD and Hes6
+disappeared in the region corresponding to the presumptive non-sensory patches.
+The loss of these genes may stop the differentiation and may cause apoptosis of
+GBCs and ORNs.
+
+PMID: 12714442  [PubMed - indexed for MEDLINE]
+
+
+85. Development. 2002 May;129(9):2195-207.
+
+Hes6 regulates myogenic differentiation.
+
+Cossins J(1), Vernon AE, Zhang Y, Philpott A, Jones PH.
+
+Author information: 
+(1)Cancer Research UK, Weatherall Institute of Molecular Medicine, John Radcliffe
+Hospital, Oxford, UK.
+
+Hes6 is a basic helix-loop-helix transcription factor homologous to Drosophila
+Enhancer of Split (EoS) proteins. It is known to promote neural differentiation
+and to bind to Hes1, a related protein that is part of the Notch signalling
+pathway, affecting Hes1-regulated transcription. We show that Hes6 is expressed
+in the murine embryonic myotome and is induced on C2C12 myoblast differentiation 
+in vitro. Hes6 binds DNA containing the Enhancer of Split E box (ESE) motif, the 
+preferred binding site of Drosophila EoS proteins, and represses transcription of
+an ESE box reporter. When overexpressed in C2C12 cells, Hes6 impairs normal
+differentiation, causing a decrease in the induction of the cyclin-dependent
+kinase inhibitor, p21(Cip1), and an increase in the number of cells that can be
+recruited back into the cell cycle after differentiation in culture. In Xenopus
+embryos, Hes6 is co-expressed with MyoD in early myogenic development.
+Microinjection of Hes6 RNA in vivo in Xenopus embryos results in an expansion of 
+the myotome, but suppression of terminal muscle differentiation and disruption of
+somite formation at the tailbud stage. Analysis of Hes6 mutants indicates that
+the DNA-binding activity of Hes6 is not essential for its myogenic phenotype, but
+that protein-protein interactions are. Thus, we demonstrate a novel role for Hes6
+in multiple stages of muscle formation.
+
+PMID: 11959828  [PubMed - indexed for MEDLINE]
+
+
+86. J Cell Biol. 2001 Sep 17;154(6):1161-71. Epub 2001 Sep 10.
+
+HES6 acts as a transcriptional repressor in myoblasts and can induce the myogenic
+differentiation program.
+
+Gao X(1), Chandra T, Gratton MO, Quélo I, Prud'homme J, Stifani S, St-Arnaud R.
+
+Author information: 
+(1)Genetics Unit, Shriners Hospital for Children, Montréal H3G 1A6, Québec,
+Canada.
+
+HES6 is a novel member of the family of basic helix-loop-helix mammalian
+homologues of Drosophila Hairy and Enhancer of split. We have analyzed the
+biochemical and functional roles of HES6 in myoblasts. HES6 interacted with the
+corepressor transducin-like Enhancer of split 1 in yeast and mammalian cells
+through its WRPW COOH-terminal motif. HES6 repressed transcription from an N
+box-containing template and also when tethered to DNA through the GAL4 DNA
+binding domain. On N box-containing promoters, HES6 cooperated with HES1 to
+achieve maximal repression. An HES6-VP16 activation domain fusion protein
+activated the N box-containing reporter, confirming that HES6 bound the N box in 
+muscle cells. The expression of HES6 was induced when myoblasts fused to become
+differentiated myotubes. Constitutive expression of HES6 in myoblasts inhibited
+expression of MyoR, a repressor of myogenesis, and induced differentiation, as
+evidenced by fusion into myotubes and expression of the muscle marker myosin
+heavy chain. Reciprocally, blocking endogenous HES6 function by using a
+WRPW-deleted dominant negative HES6 mutant led to increased expression of MyoR
+and completely blocked the muscle development program. Our results show that HES6
+is an important regulator of myogenesis and suggest that MyoR is a target for
+HES6-dependent transcriptional repression.
+
+PMCID: PMC2150829
+PMID: 11551980  [PubMed - indexed for MEDLINE]
+
+
+87. Mech Dev. 2000 Nov;98(1-2):133-7.
+
+Expression of mouse HES-6, a new member of the Hairy/Enhancer of split family of 
+bHLH transcription factors.
+
+Vasiliauskas D(1), Stern CD.
+
+Author information: 
+(1)Department of Genetics and Development, Columbia University, 701 West 168th
+Street #1602, New York, NY 10032, USA.
+
+We studied the expression of mouse HES-6, a new member of the Hairy/Enhancer of
+split family of basic helix-loop-helix transcription factors. HES-6 is expressed 
+in all neurogenic placodes and their derivatives and in the brain, where it is
+patterned along both the anteroposterior and dorsoventral axes. HES-6 is also
+expressed in the trunk, in the dorsal root ganglia and in the myotomes. In the
+limb buds HES-6 is expressed in skeletal muscle and presumptive tendons.
+
+PMID: 11044617  [PubMed - indexed for MEDLINE]
+
+
+88. Development. 2000 Oct;127(19):4203-16.
+
+Hes6 acts in a positive feedback loop with the neurogenins to promote neuronal
+differentiation.
+
+Koyano-Nakagawa N(1), Kim J, Anderson D, Kintner C.
+
+Author information: 
+(1)The Salk Institute for Biological Studies, PO Box 85800, La Jolla, CA
+92186-5800, USA.
+
+During the development of the vertebrate nervous system, neurogenesis is promoted
+by proneural bHLH proteins such as the neurogenins, which act as potent
+transcriptional activators of neuronal differentiation genes. The pattern by
+which these proteins promote neuronal differentiation is thought to be governed
+by inhibitors, including a class of transcriptional repressors called the
+WRPW-bHLH proteins, which are similar to Drosophila proteins encoded by hairy and
+genes in the enhancer of split complex (E-(SPL)-C). Here, we describe the
+isolation and characterization of Hes6, which encodes a novel WRPW-bHLH protein
+expressed during neurogenesis in mouse and Xenopus embryos. We show that Hes6
+expression follows that of neurogenins but precedes that of the neuronal
+differentiation genes. We provide several lines of evidence to show that Hes6
+expression occurs in developing neurons and is induced by the proneural bHLH
+proteins but not by the Notch pathway. When ectopically expressed in Xenopus
+embryos, Hes6 promotes neurogenesis. The properties of Hes6 distinguish it from
+other members of the WRPW-bHLH family in vertebrates, and suggest that it acts in
+a positive-feedback loop with the proneural bHLH proteins to promote neuronal
+differentiation.
+
+PMID: 10976052  [PubMed - indexed for MEDLINE]
+
+
+89. Mech Dev. 2000 Jul;95(1-2):275-8.
+
+Expression of hes6, a new member of the Hairy/Enhancer-of-split family, in mouse 
+development.
+
+Pissarra L(1), Henrique D, Duarte A.
+
+Author information: 
+(1)Instituto de Histologia e Embriologia, Faculdade de Medicina de Lisboa, Av.
+Prof. Egas Moniz, 1649-028, Lisboa, Portugal.
+
+Genes of the Hairy/Enhancer-of-split (HES) family encode basic-Helix-Loop-Helix
+proteins that function as nuclear effectors of Notch signaling to regulate the
+transcriptional activity of several Notch target genes. Here, we report the
+characterization of a new member of the HES family, hes6, and describe its
+expression in mouse embryos ranging from 8.5 to 15.5 dpc. High levels of
+expression are observed in several embryonic tissues where Notch signaling is
+known to control cell-fate decisions, like the nervous system, muscle and thymus.
+In the nervous system, hes6 is initially expressed in the closing neural tube and
+then in the spinal cord, cranial and dorsal root ganglia, and brain
+neuroepithelium. During muscle development, the expression of hes6 occurs during 
+both myoblast commitment and differentiation, being the first hes gene to reveal 
+expression throughout embryonic myogenesis. hes6 is also expressed in epithelial 
+cells of the embryonic respiratory, urinary and digestive systems.
+
+PMID: 10906477  [PubMed - indexed for MEDLINE]
+
+
+90. Development. 2000 Jul;127(13):2933-43.
+
+The bHLH gene Hes6, an inhibitor of Hes1, promotes neuronal differentiation.
+
+Bae S(1), Bessho Y, Hojo M, Kageyama R.
+
+Author information: 
+(1)Institute for Virus Research, Kyoto University, Shogoin-Kawahara, Sakyo-ku,
+Kyoto 606-8507, Japan.
+
+We have isolated the basic helix-loop-helix (bHLH) gene Hes6, a novel member of
+the family of mammalian homologues of Drosophila hairy and Enhancer of split.
+Hes6 is expressed by both undifferentiated and differentiated cells, unlike Hes1,
+which is expressed only by the former cells. Hes6 alone does not bind to the DNA 
+but suppresses Hes1 from repressing transcription. In addition, Hes6 suppresses
+Hes1 from inhibiting Mash1-E47 heterodimer and thereby enables Mash1 and E47 to
+upregulate transcription in the presence of Hes1. Furthermore, misexpression of
+Hes6 with retrovirus in the developing retina promotes rod photoreceptor
+differentiation, like Mash1, in sharp contrast to Hes1, which inhibits cell
+differentiation. These results suggest that Hes6 is an inhibitor of Hes1,
+supports Mash1 activity and promotes cell differentiation. Mutation analysis
+revealed that Hes1- and Hes6-specific functions are, at least in part,
+interchangeable by alteration of the loop region, suggesting that the loop is not
+simply a nonfunctional spacer but plays an important role in the specific
+functions.
+
+PMID: 10851137  [PubMed - indexed for MEDLINE]
+
+
+91. Liver. 1998 Dec;18(6):398-404.
+
+Mature hepatocytes actively divide and express gamma-glutamyl transpeptidase
+after D-galactosamine liver injury.
+
+Kitten O(1), Ferry N.
+
+Author information: 
+(1)Laboratoire de Transfert de Gènes, INSERM, Centre Eugène Marquis, Rennes,
+France.
+
+AIMS/BACKGROUND: We studied the fate of hepatocytes in the rat liver after
+D-galactosamine injury by genetic labeling using recombinant retroviruses
+carrying the Escherichia coli lacZ gene coupled to a nuclear localization signal.
+METHODS: Hepatocytes were either labeled by direct injection of 2.5 ml high-titer
+retrovirus-containing medium in the regenerating liver parenchyma after
+administration of a single dose of D-galactosamine. Alternatively hepatocytes
+were pre-labeled, 24 h after a two-thirds hepatectomy, by injecting the same
+volume of retroviral solution in the portal vein and D-galactosamine was
+administered 15 days later. Gamma-glutamyl transpeptidase and beta-galactosidase 
+activities were assessed on cryostat sections, along with localization of the
+hepatocyte-specific HES6 antigen.
+RESULTS: Morphological observations, as well as beta-galactosidase activity
+detection, showed that hepatocytes actively divide as early as 1 day after
+D-galactosamine injection. Gamma-glutamyl transpeptidase activity was detected in
+biliary cells, but also in mature hepatocytes, pre-labeled with
+beta-galactosidase before D-galactosamine administration.
+CONCLUSIONS: These experiments demonstrate that hepatocytes can divide to restore
+the liver mass after D-galactosamine liver injury. Furthermore, we also show that
+gamma-glutamyl transpeptidase, which has been reported to be expressed only by
+fetal or preneoplastic hepatocytes, can be re-expressed by mature hepatocytes
+during the recovery process.
+
+PMID: 9869394  [PubMed - indexed for MEDLINE]
+
+
+92. Exp Cell Res. 1995 Mar;217(1):22-30.
+
+Specialization switch in differentiating embryonic rat liver progenitor cells in 
+response to sodium butyrate.
+
+Blouin MJ(1), Lamy I, Loranger A, Noël M, Corlu A, Guguen-Guillouzo C, Marceau N.
+
+Author information: 
+(1)Centre de recherche en cancérologie de l'Université Laval, l'Hôtel-Dieu de
+Québec, Canada.
+
+Embryonic (E) 12 rat liver epithelial cells constitute a population of
+bipotential progenitor cells which can differentiate along the hepatocyte (Hep)
+or biliary epithelial cell (BEC) lineage in primary culture. In the present
+study, E12 cells were seeded on fibronectin-coated substratum and exposed to
+sodium butyrate (SB) for various exposure times, and the emergence of the Hep or 
+BEC phenotype was monitored by following the variations in albumin production and
+assessing the appearance of the two surface-exposed markers HES6 and BDS7.
+Continuous exposure to SB resulted into a major reduction in albumin production
+and, at Day 9 postseeding, few cells coexpressed BDS7 and albumin. When cells
+were exposed to SB for 5 days and then cultured for an additional 5 days without 
+SB, they massively express BDS7, but very little HES6. Moreover, the reverse
+sequence, i.e., 5 days without SB followed by 5 days with it, led to the
+appearance of many cells expressing both HES6 and BDS7. These results indicate
+that progenitors committed preferentially along the Hep lineage still have the
+option to switch to BECs, at a transitional stage that we refer to as a
+"differentiation window."
+
+PMID: 7867717  [PubMed - indexed for MEDLINE]
+
+
+93. Differentiation. 1992 Dec;52(1):45-54.
+
+Cytokeratin 14 expression in rat liver cells in culture and localization in vivo.
+
+Blouin R(1), Blouin MJ, Royal I, Grenier A, Roop DR, Loranger A, Marceau N.
+
+Author information: 
+(1)Laval University Cancer Research Center, L'Hôtel-Dieu de Québec, Canada.
+
+Rat liver epithelial cells (LECs) are non-parenchymal proliferating cells that
+readily emerge in primary culture and can be established as cell lines, but their
+in vivo cell(s) of origin is unclear. We reported recently some evidence
+indicating that the LEC line, T51B, contains two cytokeratins (CKs) equivalent to
+human CK8 and CK14 respectively. T51B cells also contain vimentin assembled as a 
+network of intermediate filaments distinct from that of the CKs. In the present
+study, we examined the expression of CK14 gene in various LEC preparations and a 
+Triton-resistant rat skin cytoskeletal fraction, and then assessed its usefulness
+as an LEC specific marker in the liver. Northern and Western blot analyses with
+cDNAs and antibodies for CK8, CK14, CK18 and vimentin confirmed that rat
+hepatocytes express CK8 and CK18 genes only, whereas T51B cells express CK8, CK14
+and vimentin genes in the absence of CK18. CK14 was also present in LECs derived 
+as primary from embryonic-day 12 rat liver and secondary cultures from 4-day-old 
+rat liver. Primary cultures of oval cells isolated from
+3'-methyl-4-dimethylaminoazobenzene (3'-Me-DAB) treated rat liver (an enriched
+source of biliary epithelial cells) contained CK14 mRNAs which were slightly
+shorter than those in LECs. The analyses of CK5 (the usual partner of CK14) gene 
+expression using specific cDNA and antibody clearly demonstrated its absence in
+LECs. In situ double immunolocalization analyses by laser scanning confocal
+microscopy showed that CK14 was not present in hepatocytes (HES6+ cells) and was 
+expressed in some biliary epithelial (BDS7+ cells). CK14-positive cells were also
+found in the Glisson's capsule. However, CK14-positive cells of the portal region
+were vimentin negative, whereas those of the Glisson's capsule were vimentin
+positive. Our results suggest that CK14 gene expression is part of the
+differentiation program of two types of LECs and that this differential CK14 gene
+expression can be used as a new means to type LECs in culture and in vivo.
+
+PMID: 1283740  [PubMed - indexed for MEDLINE]
+
+
+94. Cancer Res. 1988 Sep 1;48(17):4909-18.
+
+Biliary epithelial and hepatocytic cell lineage relationships in embryonic rat
+liver as determined by the differential expression of cytokeratins,
+alpha-fetoprotein, albumin, and cell surface-exposed components.
+
+Germain L(1), Blouin MJ, Marceau N.
+
+Author information: 
+(1)Laval University Cancer Research Center, Hotel-Dieu Hospital, Quebec, Canada.
+
+The differentiation patterns of epithelial cells in fetal rat liver were analyzed
+in situ and in primary culture by indirect immunofluorescence microscopy using
+polyvalent and monoclonal antibodies directed against cytokeratins with molecular
+weights of 55,000 (CK55), 52,000 (CK52), and 39,000 (CK39) and against vimentin, 
+albumin, alpha-fetoprotein, and surface-exposed components of bile ductular cells
+(BDS7) and hepatocytes (HES6). The anti-CK52 antibody, which reacted with biliary
+ductal cells in the liver of adult rats (Germain et al., Cancer Res., 45:673,
+1985; Germain et al., Cancer Res., 48: 368-378, 1988), stained essentially all of
+the epithelial cells of embryonic day 12 (E12) rat liver. The anti-BDS7 antibody 
+reacted with a few cell foci, which enlarged and became more numerous at later
+developmental ages. At E12 essentially all of the cells were positive for albumin
+and alpha-fetoprotein but did not express HES6. In fact HES6 was not detected
+until E15 in cells with the morphology of immature hepatocytes. By E18 staining
+with anti-HES6 reached the level of that observed on adult rat hepatocytes. Liver
+cells isolated from E12 rats were seeded on fibronectin-treated dishes and their 
+response to various combinations of growth- and differentiation-promoting factors
+was evaluated with respect to their capacity to express either the hepatocytic or
+the bile ductular phenotype. In medium supplemented with serum, insulin,
+dexamethasone, and dimethyl sulfoxide, the E12 cells were capable of
+differentiating in culture to mimic over a 6-day period the sequential phenotypic
+changes which occur in vivo during normal hepatoontogeny, namely the loss of CK52
+and the appearance of HES6. In contrast, the addition of sodium butyrate to the
+above supplement mixture resulted in the massive expression of BDS7. To further
+assess the developmental potential of fetal rat liver cells toward the biliary
+epithelial cell lineage, the in vitro assay was performed using cells isolated
+from livers of E18 rats and also from 2-day-old (P2) and P14 rats. While a slight
+expression of BDS7 was induced in cell culture from E18 liver, essentially no
+expression was observed in cells from postnatal livers. These findings strongly
+suggest that the emerging hepatic tissue in rat embryo is composed of bipotential
+progenitor epithelial cells that are capable of differentiating along either the 
+hepatocytic or biliary epithelial cell lineage. These observations constitute a
+clear demonstration of the plasticity of liver differentiation and also provide a
+striking example of environmental influences on liver progenitor cell
+differentiation.
+
+PMID: 2457432  [PubMed - indexed for MEDLINE]
+
+
+95. Cancer Res. 1988 Jan 15;48(2):368-78.
+
+Promotion of growth and differentiation of rat ductular oval cells in primary
+culture.
+
+Germain L(1), Noël M, Gourdeau H, Marceau N.
+
+Author information: 
+(1)Laval University Cancer Research Center, Hôtel-Dieu Hospital, Québec, Canada.
+
+Oval cells emerging in rat liver at the early period of
+3-methyl-4-dimethylaminoazobenzene treatment constitute a mixed epithelial cell
+compartment with respect to alpha-fetoprotein (AFP) and cytokeratin differential 
+expression, and include a subpopulation which exhibits a phenotype intermediate
+between ductular cells and hepatocytes (Germain et al., Cancer Res., 45:673-681, 
+1985). In the present study we have examined the developmental potential of
+ductular oval cells in primary culture and after in vivo transfer. The use of
+monoclonal and polyclonal antibodies directed against cytokeratins of Mr 39,000
+(CK39), 52,000 (CK52), and 55,000 (CK55) and vimentin, and also monoclonal
+antibodies against exposed surface components of oval cells (BDS7) and normal
+hepatocytes (HES6) allowed us to establish the ductular phenotype of the oval
+cells. A highly enriched preparation of oval cells was obtained by
+perfusion/digestion of the liver with collagenase, treatment of the cell
+suspension with trypsin and DNase, selective removal of hepatocytes by panning
+using the anti-HES6 antibody, and cell separation by isopyknic centrifugation in 
+a Percoll gradient. The procedure yielded about 8 x 10(7) cells, of which 95%
+expressed CK39, CK52, and BDS7, 84% gamma-glutamyl transpeptidase, and 5% albumin
+and AFP. The primary response of cultured oval cells to various combinations of
+growth and differentiation promoting factors was evaluated with respect to their 
+capacity to initiate DNA synthesis as measured by [3H]thymidine labeling from day
+1 to 3, and/or to produce albumin and AFP and express tyrosine aminotransferase. 
+Culture in the presence of either serum or clot blood extract resulted in a low
+proliferative activity with less than 5% of the nuclei being labeled. Over a
+5-day period, fusion of a large portion of the oval cells led to multinucleated
+cells. When the cells were cultured in the presence of an elaborate combination
+of supplements [minimum essential medium containing 1 mM pyruvate, 0.2 mM
+aspartate, 0.2 mM serine, 1 mM tyrosine, 1 mM proline, 1 mM phenylalanine and
+supplemented with 20% clot blood extract, 10 ng/ml oxidized bile acids, 17 microM
+bilirubin, 10 ng/ml cholera toxin, 1 microM dexamethasone, 2.5 micrograms/ml
+insulin, 50 mM beta-mercaptoethanol, and 5 micrograms/ml transferrin (medium
+MX)], the labeling index increased to around 30% and the level of cell fusion
+greatly decreased. The addition of dimethyl sulfoxide further enhanced the
+initiation of DNA synthesis, while sodium butyrate acted as an
+inhibitor.(ABSTRACT TRUNCATED AT 400 WORDS)
+
+PMID: 2446746  [PubMed - indexed for MEDLINE]
+
+

@@ -1,0 +1,2031 @@
+
+1. Biochim Biophys Acta. 2016 Apr;1859(4):599-611. doi:
+10.1016/j.bbagrm.2016.02.010. Epub 2016 Feb 24.
+
+Neurofibromatosis 2 (NF2) controls the invasiveness of glioblastoma through
+YAP-dependent expression of CYR61/CCN1 and miR-296-3p.
+
+Lee H(1), Hwang SJ(1), Kim HR(1), Shin CH(1), Choi KH(1), Joung JG(2), Kim HH(3).
+
+Author information: 
+(1)Department of Health Sciences and Technology, Samsung Advanced Institute for
+Health Sciences and Technology, Sungkyunkwan University, Seoul, Republic of
+Korea. (2)Samsung Genome Institute, Samsung Medical Center, Seoul, Republic of
+Korea. (3)Department of Health Sciences and Technology, Samsung Advanced
+Institute for Health Sciences and Technology, Sungkyunkwan University, Seoul,
+Republic of Korea; Samsung Biomedical Research Institute, Institute for Future
+Medicine, Samsung Medical Center, Seoul, Republic of Korea. Electronic address:
+hyeonhkim@skku.edu.
+
+Glioblastoma multiforme (GBM) is the most common and aggressive type of primary
+brain tumor derived from non-neuronal glial cells. Neurofibromatosis 2 (NF2)
+protein, also termed as merlin, is a well-known tumor suppressor; however, the
+molecular mechanism underlying this effect has not yet been fully defined. To
+investigate the role of NF2 in the invasiveness of GBM, we used two GBM cell
+lines: NF2-expressing T98G cells and NF2-deficient A172 cells. Knockdown of NF2
+increased the invasiveness of T98G cells, whereas NF2-overexpressing A172 cells
+showed decreased invasive activity. Moreover, re-expression of NF2 reversed the
+high invasiveness of NF2-silenced T98G cells, indicating that NF2 negatively
+regulates GBM invasiveness. We further found that the NF2-mediated regulation of 
+invasiveness was dependent on YAP and TEAD2 expression levels. NF2 also
+controlled the expression of YAP targets, including cysteine-rich angiogenic
+inducer 61 (CYR61/CCN1), by regulating the nuclear localization of YAP. Silencing
+of CYR61/CCN1 blocked the increased invasiveness of T98G cells, suggesting that
+CYR61/CCN1 is required for NF2-mediated invasiveness. Through microRNA microarray
+analysis, we found that NF2 negatively regulates the expression of miR-296-3p.
+Overexpression of miR-296-3p suppressed the expression of STAT5A, induced the
+phosphorylation of STAT3 by downregulating SOCS2, and increased the invasiveness 
+of T98G cells. Taken together, we demonstrate that NF2 negatively controls the
+invasiveness of GBM through YAP-dependent induction of CYR61/CCN1 and miR-296-3p.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+PMID: 26923924  [PubMed - as supplied by publisher]
+
+
+2. Structure. 2016 Jan 5;24(1):179-86. doi: 10.1016/j.str.2015.11.005. Epub 2015 Dec
+24.
+
+Palmitoylation of TEAD Transcription Factors Is Required for Their Stability and 
+Function in Hippo Pathway Signaling.
+
+Noland CL(1), Gierke S(2), Schnier PD(3), Murray J(1), Sandoval WN(3), Sagolla
+M(2), Dey A(4), Hannoush RN(5), Fairbrother WJ(6), Cunningham CN(7).
+
+Author information: 
+(1)Department of Structural Biology, Genentech, Inc., 1 DNA Way, South San
+Francisco, CA 94080, USA. (2)Center for Advanced Light Microscopy, Genentech,
+Inc., 1 DNA Way, South San Francisco, CA 94080, USA. (3)Department of Protein
+Chemistry, Genentech, Inc., 1 DNA Way, South San Francisco, CA 94080, USA.
+(4)Department of Discovery Oncology, Genentech, Inc., 1 DNA Way, South San
+Francisco, CA 94080, USA. (5)Department of Early Discovery Biochemistry,
+Genentech, Inc., 1 DNA Way, South San Francisco, CA 94080, USA. (6)Department of 
+Early Discovery Biochemistry, Genentech, Inc., 1 DNA Way, South San Francisco, CA
+94080, USA. Electronic address: fairbrother.wayne@gene.com. (7)Department of
+Early Discovery Biochemistry, Genentech, Inc., 1 DNA Way, South San Francisco, CA
+94080, USA. Electronic address: cunningham.christian@gene.com.
+
+The Hippo signaling pathway is responsible for regulating the function of TEAD
+family transcription factors in metazoans. TEADs, with their co-activators
+YAP/TAZ, are critical for controlling cell differentiation and organ size through
+their transcriptional activation of genes involved in cell growth and
+proliferation. Dysregulation of the Hippo pathway has been implicated in multiple
+forms of cancer. Here, we identify a novel form of regulation of TEAD family
+proteins. We show that human TEADs are palmitoylated at a universally conserved
+cysteine, and report the crystal structures of the human TEAD2 and TEAD3
+YAP-binding domains in their palmitoylated forms. These structures show a
+palmitate bound within a highly conserved hydrophobic cavity at each protein's
+core. Our findings also demonstrate that this modification is required for proper
+TEAD folding and stability, indicating a potential new avenue for
+pharmacologically regulating the Hippo pathway through the modulation of TEAD
+palmitoylation.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+PMID: 26724994  [PubMed - in process]
+
+
+3. Nat Commun. 2015 Dec 22;6:10206. doi: 10.1038/ncomms10206.
+
+Exome-wide association analysis reveals novel coding sequence variants associated
+with lipid traits in Chinese.
+
+Tang CS(1), Zhang H(2), Cheung CY(3), Xu M(4), Ho JC(3), Zhou W(2,)(5), Cherny
+SS(1,)(6,)(7), Zhang Y(8), Holmen O(9,)(10), Au KW(3), Yu H(4), Xu L(11), Jia
+J(8), Porsch RM(1), Sun L(4), Xu W(4), Zheng H(4), Wong LY(3), Mu Y(12), Dou
+J(12), Fong CH(3), Wang S(13), Hong X(3), Dong L(14), Liao Y(14), Wang J(14), Lam
+LS(6), Su X(15), Yan H(15), Yang ML(2), Chen J(2), Siu CW(3,)(16), Xie G(17), Woo
+YC(3), Wu Y(18), Tan KC(3,)(16), Hveem K(9), Cheung BM(3,)(16,)(19), Zöllner
+S(20), Xu A(3,)(16,)(19,)(21), Eugene Chen Y(2), Jiang CQ(22), Zhang Y(23), Lam
+TH(11), Ganesh SK(2,)(24), Huo Y(8), Sham PC(1,)(6,)(7), Lam KS(3,)(16,)(19),
+Willer CJ(2,)(5,)(24), Tse HF(3,)(16,)(25), Gao W(26).
+
+Author information: 
+(1)Department of Psychiatry, the University of Hong Kong, Hong Kong, China.
+(2)Department of Internal Medicine, Division of Cardiovascular Medicine,
+University of Michigan, Ann Arbor, Michigan 48109, USA. (3)Department of
+Medicine, the University of Hong Kong, Hong Kong, China. (4)Department of
+Cardiology, Institute of Vascular Medicine, Peking University Third Hospital, Key
+Laboratory of Molecular Cardiovascular Sciences, Ministry of Education, Beijing
+100191, China. (5)Department of Computational Medicine and Bioinformatics,
+University of Michigan, Ann Arbor, Michigan 48109, USA. (6)Centre for Genomic
+Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong
+Kong, China. (7)State Key Laboratory of Brain and Cognitive Sciences, The
+University of Hong Kong, Hong Kong, China. (8)Department of Cardiology, Peking
+University First Hospital, Beijing 100034, China. (9)Department of Public Health 
+and General Practice, HUNT Research Centre, Norwegian University of Science and
+Technology, 7600 Levanger, Norway. (10)St Olav Hospital, Trondheim University
+Hospital, 7030 Trondheim, Norway. (11)School of Public Health, the University of 
+Hong Kong, Hong Kong, China. (12)Department of Endocrinology, Chinese People's
+Liberation Army General Hospital, Beijing 100853, China. (13)Beijing Hypertension
+League Institute, Beijing 100039, China. (14)Peking University Shougang Hospital,
+Beijing, China. (15)Department of Cardiology, Wuhan Asia Heart Hospital, China.
+(16)Research Centre of Heart, Brain, Hormone and Healthy Aging, Li Ka Shing
+Faculty of Medicine, The University of Hong Kong, Hong Kong, China. (17)Peking
+University Clinical Research Institute, Beijing, China. (18)Peking University
+Clinical Research Institute, Department of Epidemiology and Biostatistics, Peking
+University School of Public Health, Beijing, China. (19)State Key Laboratory of
+Pharmaceutical Biotechnology, The University of Hong Kong, Hong Kong, China.
+(20)Department of Biostatistics, Center for Statistical Genetics, University of
+Michigan School of Public Health, Ann Arbor, Michigan 48109, USA. (21)Department 
+of Pharmacology &Pharmacy, The University of Hong Kong, Hong Kong, China.
+(22)Guangzhou No.12 Hospital, Guangzhou 510620, China. (23)Institute of Vascular 
+Medicine, Peking University Third Hospital, Beijing Key Laboratory of
+Cardiovascular Receptors Research, Beijing 100191, China. (24)Department of Human
+Genetics, University of Michigan, Ann Arbor, Michigan 48109, USA. (25)Hong
+Kong-Guangdong Joint Laboratory on Stem Cell and Regenerative Medicine, the
+University of Hong Kong, Hong Kong, China. (26)Department of Cardiology, Peking
+University Third Hospital, Key Laboratory of Cardiovascular Molecular Biology and
+Regulatory Peptides, Ministry of Health, Beijing 100191, China.
+
+Blood lipids are important risk factors for coronary artery disease (CAD). Here
+we perform an exome-wide association study by genotyping 12,685 Chinese, using a 
+custom Illumina HumanExome BeadChip, to identify additional loci influencing
+lipid levels. Single-variant association analysis on 65,671 single nucleotide
+polymorphisms reveals 19 loci associated with lipids at exome-wide significance
+(P<2.69 × 10(-7)), including three Asian-specific coding variants in known genes 
+(CETP p.Asp459Gly, PCSK9 p.Arg93Cys and LDLR p.Arg257Trp). Furthermore, missense 
+variants at two novel loci-PNPLA3 p.Ile148Met and PKD1L3 p.Thr429Ser-also
+influence levels of triglycerides and low-density lipoprotein cholesterol,
+respectively. Another novel gene, TEAD2, is found to be associated with
+high-density lipoprotein cholesterol through gene-based association analysis.
+Most of these newly identified coding variants show suggestive association
+(P<0.05) with CAD. These findings demonstrate that exome-wide genotyping on
+samples of non-European ancestry can identify additional population-specific
+possible causal variants, shedding light on novel lipid biology and CAD.
+
+PMCID: PMC4703860
+PMID: 26690388  [PubMed - in process]
+
+
+4. J Reprod Dev. 2016 Feb 20;62(1):93-102. doi: 10.1262/jrd.2015-092. Epub 2015 Dec 
+6.
+
+Search for regulatory factors of the pituitary-specific transcription factor
+PROP1 gene.
+
+Nishimura N(1), Ueharu H, Nishihara H, Shibuya S, Yoshida S, Higuchi M, Kanno N, 
+Horiguchi K, Kato T, Kato Y.
+
+Author information: 
+(1)Division of Life Science, Graduate School of Agriculture, Meiji University,
+Kanagawa 214-8571, Japan.
+
+Pituitary-specific transcription factor PROP1, a factor important for pituitary
+organogenesis, appears on rat embryonic day 11.5 (E11.5) in SOX2-expressing
+stem/progenitor cells and always coexists with SOX2 throughout life.
+PROP1-positive cells at one point occupy all cells in Rathke's pouch, followed by
+a rapid decrease in their number. Their regulatory factors, except for RBP-J,
+have not yet been clarified. This study aimed to use the 3 kb upstream region and
+1st intron of mouse prop1 to pinpoint a group of factors selected on the basis of
+expression in the early pituitary gland for expression of Prop1. Reporter assays 
+for SOX2 and RBP-J showed that the stem/progenitor marker SOX2 has cell
+type-dependent inhibitory and activating functions through the proximal and
+distal upstream regions of Prop1, respectively, while RBP-J had small regulatory 
+activity in some cell lines. Reporter assays for another 39 factors using the 3
+kb upstream regions in CHO cells ultimately revealed that 8 factors, MSX2, PAX6, 
+PIT1, PITX1, PITX2, RPF1, SOX8 and SOX11, but not RBP-J, regulate Prop1
+expression. Furthermore, a synergy effect with SOX2 was observed for an
+additional 10 factors, FOXJ1, HES1, HEY1, HEY2, KLF6, MSX1, RUNX1, TEAD2, YBX2
+and ZFP36Ll, which did not show substantial independent action. Thus, we
+demonstrated 19 candidates, including SOX2, to be regulatory factors of Prop1
+expression.
+
+PMCID: PMC4768783
+PMID: 26640231  [PubMed - in process]
+
+
+5. Structure. 2015 Nov 3;23(11):2076-86. doi: 10.1016/j.str.2015.09.009. Epub 2015
+Oct 22.
+
+Targeting the Central Pocket in Human Transcription Factor TEAD as a Potential
+Cancer Therapeutic Strategy.
+
+Pobbati AV(1), Han X(2), Hung AW(3), Weiguang S(3), Huda N(3), Chen GY(3), Kang
+C(3), Chia CS(3), Luo X(4), Hong W(5), Poulsen A(6).
+
+Author information: 
+(1)Institute of Molecular and Cell Biology, A(*)STAR, 61 Biopolis Drive,
+Singapore 138673, Singapore. Electronic address: ajaybabuvp@imcb.a-star.edu.sg.
+(2)Key Laboratory for Molecular Enzymology & Engineering, the Ministry of
+Education, School of Life Sciences, Jilin University, Changchun 130012, China;
+Department of Pharmacology, University of Texas Southwestern Medical Center, 6001
+Forest Park Road, Dallas, TX 75390, USA. (3)Experimental Therapeutics Centre,
+A(*)STAR, 31 Biopolis Way, #3-01, Singapore 138669, Singapore. (4)Department of
+Pharmacology, University of Texas Southwestern Medical Center, 6001 Forest Park
+Road, Dallas, TX 75390, USA. Electronic address: xuelian.luo@utsouthwestern.edu. 
+(5)Institute of Molecular and Cell Biology, A(*)STAR, 61 Biopolis Drive,
+Singapore 138673, Singapore. (6)Experimental Therapeutics Centre, A(*)STAR, 31
+Biopolis Way, #3-01, Singapore 138669, Singapore. Electronic address:
+apoulsen@etc.a-star.edu.sg.
+
+The human TEAD family of transcription factors (TEAD1-4) is required for
+YAP-mediated transcription in the Hippo pathway. Hyperactivation of TEAD's
+co-activator YAP contributes to tissue overgrowth and human cancers, suggesting
+that pharmacological interference of TEAD-YAP activity may be an effective
+strategy for anticancer therapy. Here we report the discovery of a central pocket
+in the YAP-binding domain (YBD) of TEAD that is targetable by small-molecule
+inhibitors. Our X-ray crystallography studies reveal that flufenamic acid, a
+non-steroidal anti-inflammatory drug (NSAID), binds to the central pocket of
+TEAD2 YBD. Our biochemical and functional analyses further demonstrate that
+binding of NSAIDs to TEAD inhibits TEAD-YAP-dependent transcription, cell
+migration, and proliferation, indicating that the central pocket is important for
+TEAD function. Therefore, our studies discover a novel way of targeting TEAD
+transcription factors and set the stage for therapeutic development of specific
+TEAD-YAP inhibitors against human cancers.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+PMCID: PMC4660270 [Available on 2016-11-03]
+PMID: 26592798  [PubMed - in process]
+
+
+6. Biomed Res Int. 2015;2015:921517. doi: 10.1155/2015/921517. Epub 2015 Oct 11.
+
+Coexpression Network Analysis of miRNA-142 Overexpression in Neuronal Cells.
+
+Thapa I(1), Fox HS(2), Bastola D(1).
+
+Author information: 
+(1)College of Information Science and Technology, University of Nebraska Omaha,
+Omaha, NE 68182, USA. (2)Department of Pharmacology and Experimental
+Neuroscience, University of Nebraska Medical Center, Omaha, NE 68198, USA.
+
+MicroRNAs are small noncoding RNA molecules, which are differentially expressed
+in diverse biological processes and are also involved in the regulation of
+multiple genes. A number of sites in the 3' untranslated regions (UTRs) of
+different mRNAs allow complimentary binding for a microRNA, leading to their
+posttranscriptional regulation. The miRNA-142 is one of the microRNAs
+overexpressed in neurons that is found to regulate SIRT1 and MAOA genes.
+Differential analysis of gene expression data, which is focused on identifying
+up- or downregulated genes, ignores many relationships between genes affected by 
+miRNA-142 overexpression in a cell. Thus, we applied a correlation network model 
+to identify the coexpressed genes and to study the impact of miRNA-142
+overexpression on this network. Combining multiple sources of knowledge is useful
+to infer meaningful relationships in systems biology. We applied coexpression
+model on the data obtained from wild type and miR-142 overexpression neuronal
+cells and integrated miRNA seed sequence mapping information to identify genes
+greatly affected by this overexpression. Larger differences in the enriched
+networks revealed that the nervous system development related genes such as
+TEAD2, PLEKHA6, and POGLUT1 were greatly impacted due to miRNA-142
+overexpression.
+
+PMCID: PMC4619910
+PMID: 26539539  [PubMed - in process]
+
+
+7. J Biol Chem. 2015 Jul 3;290(27):16906-17. doi: 10.1074/jbc.M115.642363. Epub 2015
+May 20.
+
+Hippo Component TAZ Functions as a Co-repressor and Negatively Regulates <U+0394>Np63
+Transcription through TEA Domain (TEAD) Transcription Factor.
+
+Valencia-Sama I(1), Zhao Y(1), Lai D(1), Janse van Rensburg HJ(1), Hao Y(1), Yang
+X(2).
+
+Author information: 
+(1)From the Department of Pathology and Molecular Medicine, Queen's University,
+Kingston, Ontario K7L 3N6, Canada. (2)From the Department of Pathology and
+Molecular Medicine, Queen's University, Kingston, Ontario K7L 3N6, Canada
+yang@path.queensu.ca.
+
+Transcriptional co-activator with a PDZ binding domain (TAZ) is a WW
+domain-containing transcriptional co-activator and a core component of an
+emerging Hippo signaling pathway that regulates organ size, tumorigenesis,
+metastasis, and drug resistance. TAZ regulates these biological functions by
+up-regulating downstream cellular genes through transactivation of transcription 
+factors such as TEAD and TTF1. To understand the molecular mechanisms underlying 
+TAZ-induced tumorigenesis, we have recently performed a gene expression profile
+analysis by overexpressing TAZ in mammary cells. In addition to the
+TAZ-up-regulated genes that were confirmed in our previous studies, we identified
+a large number of cellular genes that were down-regulated by TAZ. In this study, 
+we have confirmed these down-regulated genes (including cytokines, chemokines,
+and p53 gene family members) as bona fide downstream transcriptional targets of
+TAZ. By using human breast and lung epithelial cells, we have further
+characterized <U+0394>Np63, a p53 gene family member, and shown that TAZ suppresses
+<U+0394>Np63 mRNA, protein expression, and promoter activity through interaction with
+the transcription factor TEAD. We also show that TEAD can inhibit <U+0394>Np63 promoter 
+activity and that TAZ can directly interact with <U+0394>Np63 promoter-containing TEAD
+binding sites. Finally, we provide functional evidence that down-regulation of
+<U+0394>Np63 by TAZ may play a role in regulating cell migration. Altogether, this study
+provides novel evidence that the Hippo component TAZ can function as a
+co-repressor and regulate biological functions by negatively regulating
+downstream cellular genes.
+
+© 2015 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+PMCID: PMC4505436 [Available on 2016-07-03]
+PMID: 25995450  [PubMed - indexed for MEDLINE]
+
+
+8. Int J Clin Exp Pathol. 2015 Feb 1;8(2):1690-7. eCollection 2015.
+
+LATS2-mediated YAP1 phosphorylation is involved in HCC tumorigenesis.
+
+Guo C(1), Wang X(1), Liang L(1).
+
+Author information: 
+(1)Department of Hepatobiliary Surgery, Hunan Provincial People's Hospital
+Changsha 410005, P.R. China.
+
+YAP (yes-associated protein) is a transcriptional co-activator that acts
+downstream of the Hippo signaling pathway and regulates multiple cellular
+processes, including proliferation and apoptosis. Although YAP plays an important
+role in various tumors, the underlying mechanism in hepatocellular carcinoma
+(HCC) tumorigenesis remains unclear. In this study, we observed that the LATS2
+was highly expressed in Bel-7402 and HepG2 cell lines, and LATS2 protein level
+was negatively correlated with YAP1 in HCC cells. And then, we inhibited LATS2
+expression by transfecting with siRNA. Western blot and Immunofluorescent
+staining analysis demonstrated that LATS2 inhibition decreased the
+dephosphorylation of YAP1 protein and promoted YAP1 nuclear accumulation in HCC
+cells. Moreover, Immunoprecipitation assay results also indicated that Yap binds 
+directly to TEAD2 and LATS2 inhibition-mediated dephosphorylation increased the
+YAP1/TEAD2 association, leading to YAP1/TEAD2 transcriptional activation, which
+in turn upregulated cell invasion in HCC cells. Taken together, our current data 
+indicated a new regulatory mechanism of YAP1 by the LATS2-mediated
+phosphorylation that was involved in HCC tumorigenesis.
+
+PMCID: PMC4396227
+PMID: 25973055  [PubMed - indexed for MEDLINE]
+
+
+9. Future Oncol. 2015;11(7):1027-36. doi: 10.2217/fon.15.18.
+
+SOX4, SOX11 and PAX6 mRNA expression was identified as a (prognostic) marker for 
+the aggressiveness of neuroendocrine tumors of the lung by using next-generation 
+expression analysis (NanoString).
+
+Walter RF(1), Mairinger FD, Werner R, Ting S, Vollbrecht C, Theegarten D,
+Christoph DC, Zarogoulidis K, Schmid KW, Zarogoulidis P, Wohlschlaeger J.
+
+Author information: 
+(1)Ruhrlandklinik, West German Lung Center, University Hospital Essen, University
+of Duisburg-Essen, Essen, Germany.
+
+BACKGROUND: Neuroendocrine tumors of the lung (NELC) account for 25% of all lung 
+cancer cases and transcription factors may drive dedifferentiation of these
+tumors. This study was conducted to identify supportive diagnostic and prognostic
+biomarkers.
+MATERIALS & METHODS: A total of 16 TC, 13 AC, 16 large cell neuroendocrine
+carcinomas and 15 small cell lung cancer were investigated for the mRNA
+expression of 11 transcription factors and related genes (MYB, MYBBP1A, OCT4,
+PAX6, PCDHB, RBP1, SDCBP, SOX2, SOX4, SOX11, TEAD2).
+RESULTS: SOX4 (p = 0.0002), SOX11 (p < 0.0001) and PAX6 (p = 0.0002) were
+significant for tumor type. Elevated PAX6 and SOX11 expression correlated with
+poor outcome in large cell neuroendocrine carcinomas and small cell lung cancer
+(p < 0.0001 and p = 0.0232, respectively) based on survival data of 34 patients
+(57%).
+CONCLUSION: Aggressiveness of NELC correlated with increasing expression of
+transcription factors. SOX11 seems to be a highly valuable diagnostic and
+prognostic marker for aggressive NELC.
+
+PMID: 25804118  [PubMed - indexed for MEDLINE]
+
+
+10. Stem Cells. 2015 Jun;33(6):1705-18. doi: 10.1002/stem.1993.
+
+YAP1 Regulates OCT4 Activity and SOX2 Expression to Facilitate Self-Renewal and
+Vascular Mimicry of Stem-Like Cells.
+
+Bora-Singhal N(1), Nguyen J(1), Schaal C(1), Perumal D(2), Singh S(3), Coppola
+D(4), Chellappan S(1).
+
+Author information: 
+(1)Department of Tumor Biology, H. Lee Moffitt Cancer Center and Research
+Institute, Tampa, Florida, USA. (2)Department of Hematology & Medical Oncology,
+Icahn School of Medicine at Mount Sinai, New York, New York, USA. (3)National
+Institute of Biomedical Genomics, Kalyani, West Bengal, India. (4)Department of
+Anatomic Pathology, H. Lee Moffitt Cancer Center and Research Institute, Tampa,
+Florida, USA.
+
+Non-small cell lung cancer (NSCLC) is highly correlated with smoking and has very
+low survival rates. Multiple studies have shown that stem-like cells contribute
+to the genesis and progression of NSCLC. Our results show that the
+transcriptional coactivator yes-associated protein 1 (YAP1), which is the
+oncogenic component of the Hippo signaling pathway, is elevated in the stem-like 
+cells from NSCLC and contributes to their self-renewal and ability to form
+angiogenic tubules. Inhibition of YAP1 by a small molecule or depletion of YAP1
+by siRNAs suppressed self-renewal and vascular mimicry of stem-like cells. These 
+effects of YAP1 were mediated through the embryonic stem cell transcription
+factor, Sox2. YAP1 could transcriptionally induce Sox2 through a physical
+interaction with Oct4; Sox2 induction occurred independent of TEAD2 transcription
+factor, which is the predominant mediator of YAP1 functions. The binding of Oct4 
+to YAP1 could be detected in cell lines as well as tumor tissues; the interaction
+was elevated in NSCLC samples compared to normal tissue as seen by proximity
+ligation assays. YAP1 bound to Oct4 through the WW domain, and a peptide
+corresponding to this region could disrupt the interaction. Delivery of the WW
+domain peptide to stem-like cells disrupted the interaction and abrogated Sox2
+expression, self-renewal, and vascular mimicry. Depleting YAP1 reduced the
+expression of multiple epithelial-mesenchymal transition genes and prevented the 
+growth and metastasis of tumor xenografts in mice; overexpression of Sox2 in YAP1
+null cells rescued these functions. These results demonstrate a novel regulation 
+of stem-like functions by YAP1, through the modulation of Sox2 expression.
+
+© 2015 AlphaMed Press.
+
+PMCID: PMC4441573 [Available on 2016-06-01]
+PMID: 25754111  [PubMed - indexed for MEDLINE]
+
+
+11. Biochem Biophys Res Commun. 2015 Feb 27;458(1):110-6. doi:
+10.1016/j.bbrc.2015.01.077. Epub 2015 Jan 26.
+
+YAP/TAZ enhance mammalian embryonic neural stem cell characteristics in a
+Tead-dependent manner.
+
+Han D(1), Byun SH(1), Park S(1), Kim J(1), Kim I(1), Ha S(1), Kwon M(1), Yoon
+K(2).
+
+Author information: 
+(1)College of Biotechnology and Bioengineering, Sungkyunkwan University, Suwon,
+Gyeonggi-do 440-746, South Korea. (2)College of Biotechnology and Bioengineering,
+Sungkyunkwan University, Suwon, Gyeonggi-do 440-746, South Korea. Electronic
+address: keejung@skku.edu.
+
+Mammalian brain development is regulated by multiple signaling pathways
+controlling cell proliferation, migration and differentiation. Here we show that 
+YAP/TAZ enhance embryonic neural stem cell characteristics in a cell autonomous
+fashion using diverse experimental approaches. Introduction of retroviral vectors
+expressing YAP or TAZ into the mouse embryonic brain induced cell localization in
+the ventricular zone (VZ), which is the embryonic neural stem cell niche. This
+change in cell distribution in the cortical layer is due to the increased
+stemness of infected cells; YAP-expressing cells were colabeled with Sox2, a
+neural stem cell marker, and YAP/TAZ increased the frequency and size of
+neurospheres, indicating enhanced self-renewal- and proliferative ability of
+neural stem cells. These effects appear to be TEA domain family transcription
+factor (Tead)-dependent; a Tead binding-defective YAP mutant lost the ability to 
+promote neural stem cell characteristics. Consistently, in utero gene transfer of
+a constitutively active form of Tead2 (Tead2-VP16) recapitulated all the features
+of YAP/TAZ overexpression, and dominant negative Tead2-EnR resulted in marked
+cell exit from the VZ toward outer cortical layers. Taken together, these results
+indicate that the Tead-dependent YAP/TAZ signaling pathway plays important roles 
+in neural stem cell maintenance by enhancing stemness of neural stem cells during
+mammalian brain development.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+PMID: 25634692  [PubMed - indexed for MEDLINE]
+
+
+12. Int J Cancer. 2015 Aug 1;137(3):638-45. doi: 10.1002/ijc.29429. Epub 2015 Jan 28.
+
+Genetic variants in Hippo pathway genes YAP1, TEAD1 and TEAD4 are associated with
+melanoma-specific survival.
+
+Yuan H(1,)(2,)(3), Liu H(1,)(2), Liu Z(1,)(2), Zhu D(4), Amos CI(4), Fang S(5),
+Lee JE(5), Wei Q(1,)(2).
+
+Author information: 
+(1)Duke Cancer Institute, Duke University Medical Center, Durham, NC.
+(2)Department of Medicine, Duke University School of Medicine, Durham, NC.
+(3)Department of Oral and Maxillofacial Surgery, Affiliated Hospital of
+Stomatology, Nanjing Medical University, Nanjing, China. (4)Community and Family 
+Medicine, Geisel School of Medicine, Dartmouth College, Hanover, NH.
+(5)Department of Surgical Oncology, The University of Texas M. D. Anderson Cancer
+Center, Houston, TX.
+
+Cutaneous melanoma (CM) is the most lethal form of skin cancers. The Hippo
+pathway controls cell migration, development and sizes of the organs in diverse
+species, and deregulation of this pathway may affect CM progression and
+prognosis. Therefore, we hypothesized that genetic variants of Hippo pathway
+genes might predict survival of CM patients. We used the genotyping data of 1,115
+common single nucleotide polymorphisms (SNPs) in the 12 pathway core genes (i.e.,
+MST1, MST2, SAV1, LATS1, LATS2, MOB1A, MOB1B, YAP1, TEAD1, TEAD2, TEAD3 and
+TEAD4) from the dataset of our previously published CM genome-wide association
+study and comprehensively analyzed their associations with CM-specific survival
+(CSS) in 858 CM patients by using the Kaplan-Meier analyses and Cox proportional 
+hazards regression models. We found a predictive role of YAP1 rs11225163 CC,
+TEAD1 rs7944031 AG+GG and TEAD4 rs1990330 CA+AA in the prognosis of CM. In
+addition, patients with an increasing number of unfavorable genotypes (NUG) had a
+markedly increased risk of death. After incorporating NUG in the model with
+clinical variables, the new model showed a significantly improved discriminatory 
+ability to classify CSS (AUC increased from 82.03% to 84.56%). Our findings
+suggest that genetic variants of Hippo pathway genes, particularly YAP1
+rs11225163, TEAD1 rs7944031 and TEAD4 rs1990330, may independently or jointly
+modulate survival of CM patients. Additional large, prospective studies are
+needed to validate these findings.
+
+© 2015 UICC.
+
+PMCID: PMC4437894 [Available on 2016-08-01]
+PMID: 25628125  [PubMed - indexed for MEDLINE]
+
+
+13. J Cell Sci. 2015 Feb 15;128(4):790-803. doi: 10.1242/jcs.163675. Epub 2015 Jan
+14.
+
+Cell competition in mouse NIH3T3 embryonic fibroblasts is controlled by the
+activity of Tead family proteins and Myc.
+
+Mamada H(1), Sato T(1), Ota M(1), Sasaki H(2).
+
+Author information: 
+(1)Department of Cell Fate Control, Institute of Molecular Embryology and
+Genetics, Kumamoto University, Kumamoto, Kumamoto 860-0811, Japan. (2)Department 
+of Cell Fate Control, Institute of Molecular Embryology and Genetics, Kumamoto
+University, Kumamoto, Kumamoto 860-0811, Japan sasaki@kumamoto-u.ac.jp.
+
+Cell competition is a short-range communication originally observed in
+Drosophila. Relatively little is known about cell competition in mammals or in
+non-epithelial cells. Hippo signaling and its downstream transcription factors of
+the Tead family, control cell proliferation and apoptosis. Here, we established
+an in vitro model system that shows cell competition in mouse NIH3T3 embryo
+fibroblast cells. Co-culture of Tead-activity-manipulated cells with normal
+(wild-type) cells caused cell competition. Cells with reduced Tead activity
+became losers, whereas cells with increased Tead activity became
+super-competitors. Tead directly regulated Myc RNA expression, and cells with
+increased Myc expression also became super-competitors. At low cell density, cell
+proliferation required both Tead activity and Myc. At high cell density, however,
+reduction of either Tead activity or Myc was compensated for by an increase in
+the other, and this increase was sufficient to confer 'winner' activity.
+Collectively, NIH3T3 cells have cell competition mechanisms similar to those
+regulated by Yki and Myc in Drosophila. Establishment of this in vitro model
+system should be useful for analyses of the mechanisms of cell competition in
+mammals and in fibroblasts.
+
+© 2015. Published by The Company of Biologists Ltd.
+
+PMID: 25588835  [PubMed - indexed for MEDLINE]
+
+
+14. APMIS. 2015 Apr;123(4):359-60. doi: 10.1111/apm.12327. Epub 2014 Dec 31.
+
+TEAD2, a Hippo pathway gene, is somatically mutated in gastric and colorectal
+cancers with high microsatellite instability.
+
+Je EM(1), Choi YJ, Chung YJ, Yoo NJ, Lee SH.
+
+Author information: 
+(1)Departments of Pathology, College of Medicine, The Catholic University of
+Korea, Seoul, Korea.
+
+PMID: 25557945  [PubMed - indexed for MEDLINE]
+
+
+15. J Biol Chem. 2014 Nov 28;289(48):33492-502. doi: 10.1074/jbc.M114.580076. Epub
+2014 Oct 9.
+
+Serum Inter-a-inhibitor activates the Yes tyrosine kinase and YAP/TEAD
+transcriptional complex in mouse embryonic stem cells.
+
+Pijuan-Galitó S(1), Tamm C(1), Annerén C(2).
+
+Author information: 
+(1)From the Department of Medical Biochemistry and Microbiology, Uppsala
+University, SE-75 123 Uppsala, Sweden and. (2)From the Department of Medical
+Biochemistry and Microbiology, Uppsala University, SE-75 123 Uppsala, Sweden and 
+GE Healthcare Bio-Sciences AB, SE-751 84 Uppsala, Sweden
+cecilia.anneren@imbim.uu.se.
+
+We have previously demonstrated that the Src family kinase Yes, the
+Yes-associated protein (YAP) and TEA domain TEAD2 transcription factor pathway
+are activated by leukemia inhibitory factor (LIF) and contribute to mouse
+embryonic stem (mES) cell maintenance of pluripotency and self-renewal. In
+addition, we have shown that fetal bovine serum (FBS) induces Yes
+auto-phosphorylation and activation. In the present study we confirm that serum
+also activates TEAD-dependent transcription in a time- and dose-dependent manner 
+and we identify Inter-a-inhibitor (IaI) as a component in serum capable of
+activating the Yes/YAP/TEAD pathway by inducing Yes auto-phosphorylation, YAP
+nuclear localization and TEAD-dependent transcription. The cleaved heavy chain 2 
+(HC2) sub-component of IaI, is demonstrated to be responsible for this effect.
+Moreover, IaI is also shown to efficiently increase expression of TEAD-downstream
+target genes including well-known stem cell factors Nanog and Oct 3/4. IaI is not
+produced by the ES cells per se but is added to the cells via the cell culture
+medium containing serum or serum-derived components such as bovine serum albumin 
+(BSA). In conclusion, we describe a novel function of IaI in activating key
+pluripotency pathways associated with ES cell maintenance and self-renewal.
+
+© 2014 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+PMCID: PMC4246103
+PMID: 25301940  [PubMed - indexed for MEDLINE]
+
+
+16. Cell Rep. 2014 Oct 9;9(1):261-71. doi: 10.1016/j.celrep.2014.08.046. Epub 2014
+Sep 25.
+
+Hippo signaling influences HNF4A and FOXA2 enhancer switching during hepatocyte
+differentiation.
+
+Alder O(1), Cullum R(1), Lee S(1), Kan AC(1), Wei W(1), Yi Y(1), Garside VC(1),
+Bilenky M(2), Griffith M(2), Morrissy AS(2), Robertson GA(2), Thiessen N(2), Zhao
+Y(2), Chen Q(3), Pan D(3), Jones SJ(4), Marra MA(5), Hoodless PA(6).
+
+Author information: 
+(1)Terry Fox Laboratory, BC Cancer Agency, Vancouver, BC V5Z1L3, Canada.
+(2)Canada's Michael Smith Genome Sciences Centre, BC Cancer Agency, Vancouver, BC
+V5Z1L3, Canada. (3)Department of Molecular Biology and Genetics, Johns Hopkins
+University School of Medicine, Baltimore, MD 21205, USA. (4)Canada's Michael
+Smith Genome Sciences Centre, BC Cancer Agency, Vancouver, BC V5Z1L3, Canada;
+Department of Molecular Biology and Biochemistry, Simon Fraser University,
+Burnaby, BC V5A1S6, Canada; Department of Medical Genetics, University of British
+Columbia, Vancouver, BC V5Z4H4, Canada. (5)Canada's Michael Smith Genome Sciences
+Centre, BC Cancer Agency, Vancouver, BC V5Z1L3, Canada; Department of Medical
+Genetics, University of British Columbia, Vancouver, BC V5Z4H4, Canada. (6)Terry 
+Fox Laboratory, BC Cancer Agency, Vancouver, BC V5Z1L3, Canada; Department of
+Medical Genetics, University of British Columbia, Vancouver, BC V5Z4H4, Canada.
+Electronic address: hoodless@bccrc.ca.
+
+Cell fate acquisition is heavily influenced by direct interactions between master
+regulators and tissue-specific enhancers. However, it remains unclear how
+lineage-specifying transcription factors, which are often expressed in both
+progenitor and mature cell populations, influence cell differentiation. Using in 
+vivo mouse liver development as a model, we identified thousands of enhancers
+that are bound by the master regulators HNF4A and FOXA2 in a
+differentiation-dependent manner, subject to chromatin remodeling, and associated
+with differentially expressed target genes. Enhancers exclusively occupied in the
+embryo were found to be responsive to developmentally regulated TEAD2 and
+coactivator YAP1. Our data suggest that Hippo signaling may affect hepatocyte
+differentiation by influencing HNF4A and FOXA2 interactions with temporal
+enhancers. In summary, transcription factor-enhancer interactions are not only
+tissue specific but also differentiation dependent, which is an important
+consideration for researchers studying cancer biology or mammalian development
+and/or using transformed cell lines.
+
+Copyright © 2014 The Authors. Published by Elsevier Inc. All rights reserved.
+
+PMCID: PMC4612615
+PMID: 25263553  [PubMed - indexed for MEDLINE]
+
+
+17. Front Neurosci. 2014 Aug 21;8:257. doi: 10.3389/fnins.2014.00257. eCollection
+2014.
+
+A multi-resource data integration approach: identification of candidate genes
+regulating cell proliferation during neocortical development.
+
+Vied CM(1), Freudenberg F(2), Wang Y(3), Raposo AA(4), Feng D(5), Nowakowski
+RS(1).
+
+Author information: 
+(1)Department of Biomedical Sciences, College of Medicine, Florida State
+University Tallahassee, FL, USA. (2)Department of Psychiatry, Psychosomatics and 
+Psychotherapy, University Hospital of Frankfurt Frankfurt, Germany. (3)NUS
+Graduate School for Integrative Sciences and Engineering, National University of 
+Singapore Singapore, Singapore. (4)Molecular Neurobiology, Instituto Gulbenkian
+de Ciência Oeiras, Portugal. (5)Allen Institute for Brain Science Seattle, WA,
+USA.
+
+Neurons of the mammalian neocortex are produced by proliferating cells located in
+the ventricular zone (VZ) lining the lateral ventricles. This is a complex and
+sequential process, requiring precise control of cell cycle progression, fate
+commitment and differentiation. We have analyzed publicly available databases
+from mouse and human to identify candidate genes that are potentially involved in
+regulating early neocortical development and neurogenesis. We used a mouse in
+situ hybridization dataset (The Allen Institute for Brain Science) to identify 13
+genes (Cdon, Celsr1, Dbi, E2f5, Eomes, Hmgn2, Neurog2, Notch1, Pcnt, Sox3, Ssrp1,
+Tead2, Tgif2) with high correlation of expression in the proliferating cells of
+the VZ of the neocortex at early stages of development (E15.5). We generated a
+similar human brain network using microarray and RNA-seq data (BrainSpan Atlas)
+and identified 407 genes with high expression in the developing human VZ and
+subventricular zone (SVZ) at 8-9 post-conception weeks. Seven of the human genes 
+were also present in the mouse VZ network. The human and mouse networks were
+extended using available genetic and proteomic datasets through GeneMANIA. A gene
+ontology search of the mouse and human networks indicated that many of the genes 
+are involved in the cell cycle, DNA replication, mitosis and transcriptional
+regulation. The reported involvement of Cdon, Celsr1, Dbi, Eomes, Neurog2,
+Notch1, Pcnt, Sox3, Tead2, and Tgif2 in neural development or diseases resulting 
+from the disruption of neurogenesis validates these candidate genes. Taken
+together, our knowledge-based discovery method has validated the involvement of
+many genes already known to be involved in neocortical development and extended
+the potential number of genes by 100's, many of which are involved in functions
+related to cell proliferation but others of which are potential candidates for
+involvement in the regulation of neocortical development.
+
+PMCID: PMC4139594
+PMID: 25191221  [PubMed]
+
+
+18. Cell. 2014 Jul 3;158(1):185-97. doi: 10.1016/j.cell.2014.06.003. Epub 2014 Jun
+19.
+
+Yap1 activation enables bypass of oncogenic Kras addiction in pancreatic cancer.
+
+Kapoor A(1), Yao W(2), Ying H(3), Hua S(1), Liewen A(1), Wang Q(1), Zhong Y(4),
+Wu CJ(1), Sadanandam A(5), Hu B(1), Chang Q(4), Chu GC(6), Al-Khalil R(1), Jiang 
+S(1), Xia H(1), Fletcher-Sananikone E(1), Lim C(1), Horwitz GI(1), Viale A(2),
+Pettazzoni P(2), Sanchez N(2), Wang H(7), Protopopov A(4), Zhang J(4), Heffernan 
+T(4), Johnson RL(8), Chin L(9), Wang YA(1), Draetta G(10), DePinho RA(11).
+
+Author information: 
+(1)Department of Genomic Medicine, University of Texas MD Anderson Cancer Center,
+1515 Holcombe Boulevard, Houston, TX 77030, USA. (2)Department of Genomic
+Medicine, University of Texas MD Anderson Cancer Center, 1515 Holcombe Boulevard,
+Houston, TX 77030, USA; Department of Molecular and Cellular Oncology, University
+of Texas MD Anderson Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030,
+USA. (3)Department of Genomic Medicine, University of Texas MD Anderson Cancer
+Center, 1515 Holcombe Boulevard, Houston, TX 77030, USA; Department of Molecular 
+and Cellular Oncology, University of Texas MD Anderson Cancer Center, 1515
+Holcombe Boulevard, Houston, TX 77030, USA. Electronic address:
+hying@mdanderson.org. (4)Institute for Applied Cancer Science, University of
+Texas MD Anderson Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030, USA.
+(5)The Institute of Cancer Research, 15 Cotswold Road, Belmont, Sutton, Surrey
+SM2 5NG, UK; Swiss Institute for Experimental Cancer Research (ISREC), The Swiss 
+Federal Institute of Technology Lausanne (EPFL), Station 19, 1015 Lausanne,
+Switzerland. (6)Department of Pathology, Brigham and Women's Hospital, 75 Francis
+Street, Boston, MA 02115, USA. (7)Department of Pathology, University of Texas MD
+Anderson Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030, USA.
+(8)Department of Biochemistry and Molecular Biology, University of Texas MD
+Anderson Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030, USA.
+(9)Department of Genomic Medicine, University of Texas MD Anderson Cancer Center,
+1515 Holcombe Boulevard, Houston, TX 77030, USA; Institute for Applied Cancer
+Science, University of Texas MD Anderson Cancer Center, 1515 Holcombe Boulevard, 
+Houston, TX 77030, USA. (10)Department of Genomic Medicine, University of Texas
+MD Anderson Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030, USA;
+Department of Molecular and Cellular Oncology, University of Texas MD Anderson
+Cancer Center, 1515 Holcombe Boulevard, Houston, TX 77030, USA; Institute for
+Applied Cancer Science, University of Texas MD Anderson Cancer Center, 1515
+Holcombe Boulevard, Houston, TX 77030, USA. (11)Department of Cancer Biology,
+University of Texas MD Anderson Cancer Center, 1515 Holcombe Boulevard, Houston, 
+TX 77030, USA. Electronic address: rdepinho@mdanderson.org.
+
+Comment in
+    Cell. 2014 Jul 3;158(1):11-2.
+
+Activating mutations in KRAS are among the most frequent events in diverse human 
+carcinomas and are particularly prominent in human pancreatic ductal
+adenocarcinoma (PDAC). An inducible Kras(G12D)-driven mouse model of PDAC has
+established a critical role for sustained Kras(G12D) expression in tumor
+maintenance, providing a model to determine the potential for and the underlying 
+mechanisms of Kras(G12D)-independent PDAC recurrence. Here, we show that some
+tumors undergo spontaneous relapse and are devoid of Kras(G12D) expression and
+downstream canonical MAPK signaling and instead acquire amplification and
+overexpression of the transcriptional coactivator Yap1. Functional studies
+established the role of Yap1 and the transcriptional factor Tead2 in driving
+Kras(G12D)-independent tumor maintenance. The Yap1/Tead2 complex acts
+cooperatively with E2F transcription factors to activate a cell cycle and DNA
+replication program. Our studies, along with corroborating evidence from human
+PDAC models, portend a novel mechanism of escape from oncogenic Kras addiction in
+PDAC.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+PMCID: PMC4109295
+PMID: 24954535  [PubMed - indexed for MEDLINE]
+
+
+19. Stem Cells. 2014 Oct;32(10):2780-93. doi: 10.1002/stem.1759.
+
+The regulatory landscape of osteogenic differentiation.
+
+Håkelien AM(1), Bryne JC, Harstad KG, Lorenz S, Paulsen J, Sun J, Mikkelsen TS,
+Myklebost O, Meza-Zepeda LA.
+
+Author information: 
+(1)Department of Tumor Biology, Institute for Cancer Research, The Norwegian
+Radium Hospital.
+
+Differentiation of osteoblasts from mesenchymal stem cells (MSCs) is an integral 
+part of bone development and homeostasis, and may when improperly regulated cause
+disease such as bone cancer or osteoporosis. Using unbiased high-throughput
+methods we here characterize the landscape of global changes in gene expression, 
+histone modifications, and DNA methylation upon differentiation of human MSCs to 
+the osteogenic lineage. Furthermore, we provide a first genome-wide
+characterization of DNA binding sites of the bone master regulatory transcription
+factor Runt-related transcription factor 2 (RUNX2) in human osteoblasts,
+revealing target genes associated with regulation of proliferation, migration,
+apoptosis, and with a significant overlap with p53 regulated genes. These
+findings expand on emerging evidence of a role for RUNX2 in cancer, including
+bone metastases, and the p53 regulatory network. We further demonstrate that
+RUNX2 binds to distant regulatory elements, promoters, and with high frequency to
+gene 3' ends. Finally, we identify TEAD2 and GTF2I as novel regulators of
+osteogenesis.
+
+© 2014 AlphaMed Press.
+
+PMID: 24898411  [PubMed - indexed for MEDLINE]
+
+
+20. J Cell Sci. 2014 Apr 1;127(Pt 7):1523-36. doi: 10.1242/jcs.139865. Epub 2014 Feb 
+19.
+
+Tead2 expression levels control the subcellular distribution of Yap and Taz,
+zyxin expression and epithelial-mesenchymal transition.
+
+Diepenbruck M(1), Waldmeier L, Ivanek R, Berninger P, Arnold P, van Nimwegen E,
+Christofori G.
+
+Author information: 
+(1)Department of Biomedicine, University of Basel, 4058 Basel, Switzerland.
+
+The cellular changes during an epithelial-mesenchymal transition (EMT) largely
+rely on global changes in gene expression orchestrated by transcription factors. 
+Tead transcription factors and their transcriptional co-activators Yap and Taz
+have been previously implicated in promoting an EMT; however, their direct
+transcriptional target genes and their functional role during EMT have remained
+elusive. We have uncovered a previously unanticipated role of the transcription
+factor Tead2 during EMT. During EMT in mammary gland epithelial cells and breast 
+cancer cells, levels of Tead2 increase in the nucleus of cells, thereby directing
+a predominant nuclear localization of its co-factors Yap and Taz via the
+formation of Tead2-Yap-Taz complexes. Genome-wide chromatin immunoprecipitation
+and next generation sequencing in combination with gene expression profiling
+revealed the transcriptional targets of Tead2 during EMT. Among these, zyxin
+contributes to the migratory and invasive phenotype evoked by Tead2. The results 
+demonstrate that Tead transcription factors are crucial regulators of the
+cellular distribution of Yap and Taz, and together they control the expression of
+genes critical for EMT and metastasis.
+
+PMID: 24554433  [PubMed - indexed for MEDLINE]
+
+
+21. CNS Neurosci Ther. 2014 Feb;20(2):112-8. doi: 10.1111/cns.12171. Epub 2013 Nov
+27.
+
+Prognostic value of a nine-gene signature in glioma patients based on mRNA
+expression profiling.
+
+Bao ZS(1), Li MY, Wang JY, Zhang CB, Wang HJ, Yan W, Liu YW, Zhang W, Chen L,
+Jiang T.
+
+Author information: 
+(1)Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical
+University, Beijing, China.
+
+INTRODUCTION: Gliomas are the most common primary brain tumors in adults and a
+significant cause of cancer-related mortality. A 9-gene signature was identified 
+as a novel prognostic model reflecting survival situation obviously in gliomas.
+AIMS: To identify an mRNA expression signature to improve outcome prediction for 
+patients with different glioma grades.
+RESULTS: We used whole-genome mRNA expression microarray data of 220 glioma
+samples of all grades from the Chinese Glioma Genome Atlas (CGGA) database
+(http://www.cgga.org.cn) as a discovery set and data from Rembrandt and GSE16011 
+for validation sets. Data from every single grade were analyzed by the
+Kaplan-Meier method with a two-sided log-rank test. Univariate Cox regression and
+linear risk score formula were applied to derive a gene signature with better
+prognostic performance. We found that patients who had high risk score according 
+to the signature had poor overall survival compared with patients who had low
+risk score. Highly expressed genes in the high-risk group were analyzed by gene
+ontology (GO) and gene set variation analysis (GSVA). As a result, the reason for
+the divisibility of gliomas was likely due to cell life processes and adhesion.
+CONCLUSION: This 9-gene-signature prediction model provided a more accurate
+predictor of prognosis that denoted patients with high risk score have poor
+outcome. Moreover, these risk models based on defined molecular profiles showed
+the considerable prospect in personalized cancer management.
+
+© 2013 John Wiley & Sons Ltd.
+
+PMID: 24279471  [PubMed - indexed for MEDLINE]
+
+
+22. J Biol Chem. 2013 Aug 30;288(35):25400-13. doi: 10.1074/jbc.M112.413377. Epub
+2013 Jul 25.
+
+The transcription factor protein Sox11 enhances early osteoblast differentiation 
+by facilitating proliferation and the survival of mesenchymal and osteoblast
+progenitors.
+
+Gadi J(1), Jung SH, Lee MJ, Jami A, Ruthala K, Kim KM, Cho NH, Jung HS, Kim CH,
+Lim SK.
+
+Author information: 
+(1)Division of Endocrinology and Endocrine Research Institute, Department of
+Internal Medicine, Yonsei University College of Medicine, Seoul, Korea.
+
+Sox11 deletion mice are known to exhibit developmental defects of craniofacial
+skeletal malformations, asplenia, and hypoplasia of the lung, stomach, and
+pancreas. Despite the importance of Sox11 in the developing skeleton, the role of
+Sox11 in osteogenesis has not been studied yet. In this study, we identified that
+Sox11 is an important transcription factor for regulating the proliferation and
+survival of osteoblast precursor cells as well as the self-renewal potency of
+mesenchymal progenitor cells via up-regulation of Tead2. Furthermore, Sox11 also 
+plays an important role in the segregation of functional osteoblast lineage
+progenitors from osteochondrogenic progenitors. Facilitation of osteoblast
+differentiation from mesenchymal cells was achieved by enhanced expression of the
+osteoblast lineage specific transcription factors Runx2 and Osterix.
+Morpholino-targeted disruption of Sox11 in zebrafish impaired organogenesis,
+including the bones, which were under mineralized. These results indicated that
+Sox11 plays a crucial role in the proliferation and survival of mesenchymal and
+osteoblast precursors by Tead2, and osteogenic differentiation by regulating
+Runx2 and Osterix.
+
+PMCID: PMC3757203
+PMID: 23888050  [PubMed - indexed for MEDLINE]
+
+
+23. Genes Dev. 2012 Jun 15;26(12):1300-5. doi: 10.1101/gad.192856.112. Epub 2012 Jun 
+7.
+
+Genetic and pharmacological disruption of the TEAD-YAP complex suppresses the
+oncogenic activity of YAP.
+
+Liu-Chittenden Y(1), Huang B, Shim JS, Chen Q, Lee SJ, Anders RA, Liu JO, Pan D.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Maryland, USA.
+
+Comment in
+    Genes Dev. 2012 Jun 15;26(12):1263-7.
+
+The Drosophila TEAD ortholog Scalloped is required for Yki-mediated overgrowth
+but is largely dispensable for normal tissue growth, suggesting that its
+mammalian counterpart may be exploited for selective inhibition of oncogenic
+growth driven by YAP hyperactivation. Here we test this hypothesis genetically
+and pharmacologically. We show that a dominant-negative TEAD molecule does not
+perturb normal liver growth but potently suppresses hepatomegaly/tumorigenesis
+resulting from YAP overexpression or Neurofibromin 2 (NF2)/Merlin inactivation.
+We further identify verteporfin as a small molecule that inhibits TEAD-YAP
+association and YAP-induced liver overgrowth. These findings provide proof of
+principle that inhibiting TEAD-YAP interactions is a pharmacologically viable
+strategy against the YAP oncoprotein.
+
+PMCID: PMC3387657
+PMID: 22677547  [PubMed - indexed for MEDLINE]
+
+
+24. Stem Cells. 2012 Apr;30(4):741-52. doi: 10.1002/stem.1030.
+
+Genome-wide analysis of N1ICD/RBPJ targets in vivo reveals direct transcriptional
+regulation of Wnt, SHH, and hippo pathway effectors by Notch1.
+
+Li Y(1), Hibbs MA, Gard AL, Shylo NA, Yun K.
+
+Author information: 
+(1)The Jackson Laboratory, Bar Harbor, Maine, USA.
+
+The Notch pathway plays a pivotal role in regulating cell fate decisions in many 
+stem cell systems. However, the full repertoire of Notch target genes in vivo and
+the mechanisms through which this pathway activity is integrated with other
+signaling pathways are largely unknown. Here, we report a transgenic mouse in
+which the activation of the Notch pathway massively expands the neural stem cell 
+(NSC) pool in a cell context-dependent manner. Using this in vivo system, we
+identify direct targets of RBPJ/N1ICD in cortical NSCs at a genome-wide level
+through combined ChIP-Seq and transcriptome analyses. Through a highly
+conservative analysis of these datasets, we identified 98 genes that are directly
+regulated by N1ICD/RPBJ in vivo. These include many transcription factors that
+are known to be critical for NSC self-renewal (Sox2, Pax6, Tlx, and Id4) and the 
+transcriptional effectors of the Wnt, SHH, and Hippo pathways, TCF4, Gli2, Gli3, 
+Yap1, and Tead2. Since little is known about the function of the Hippo-Yap
+pathway in NSCs, we analyzed Yap1 expression and function in NSCs. We show that
+Yap1 expression is restricted to the stem cell compartment in the developing
+forebrain and that its expression is sufficient to rescue Notch pathway
+inhibition in NSC self-renewal assays. Together, results of this study reveal a
+previously underappreciated complexity and breadth of Notch1 targets in vivo and 
+show direct interaction between Notch and Hippo-Yap pathways in NSCs.
+
+Copyright © 2012 AlphaMed Press.
+
+PMCID: PMC3734558
+PMID: 22232070  [PubMed - indexed for MEDLINE]
+
+
+25. Genes Dev. 2011 Dec 15;25(24):2594-609. doi: 10.1101/gad.176800.111.
+
+The transcriptional coactivator TAZ regulates mesenchymal differentiation in
+malignant glioma.
+
+Bhat KP(1), Salazar KL, Balasubramaniyan V, Wani K, Heathcock L, Hollingsworth F,
+James JD, Gumin J, Diefes KL, Kim SH, Turski A, Azodi Y, Yang Y, Doucette T,
+Colman H, Sulman EP, Lang FF, Rao G, Copray S, Vaillant BD, Aldape KD.
+
+Author information: 
+(1)Department of Pathology, The University of Texas, M.D. Anderson Cancer Center,
+Houston, Texas 77030, USA. kbhat@mdanderson.org
+
+Comment in
+    Nat Rev Cancer. 2012 Feb;12(2):82-3.
+
+Recent molecular classification of glioblastoma (GBM) has shown that patients
+with a mesenchymal (MES) gene expression signature exhibit poor overall survival 
+and treatment resistance. Using regulatory network analysis of available
+expression microarray data sets of GBM, including The Cancer Genome Atlas (TCGA),
+we identified the transcriptional coactivator with PDZ-binding motif (TAZ), to be
+highly associated with the MES network. TAZ expression was lower in proneural
+(PN) GBMs and lower-grade gliomas, which correlated with CpG island
+hypermethylation of the TAZ promoter compared with MES GBMs. Silencing of TAZ in 
+MES glioma stem cells (GSCs) decreased expression of MES markers, invasion,
+self-renewal, and tumor formation. Conversely, overexpression of TAZ in PN GSCs
+as well as murine neural stem cells (NSCs) induced MES marker expression and
+aberrant osteoblastic and chondrocytic differentiation in a TEAD-dependent
+fashion. Using chromatin immunoprecipitation (ChIP), we show that TAZ is directly
+recruited to a majority of MES gene promoters in a complex with TEAD2. The
+coexpression of TAZ, but not a mutated form of TAZ that lacks TEAD binding, with 
+platelet-derived growth factor-B (PDGF-B) resulted in high-grade tumors with MES 
+features in a murine model of glioma. Our studies uncover a direct role for TAZ
+and TEAD in driving the MES differentiation of malignant glioma.
+
+© 2011 by Cold Spring Harbor Laboratory Press
+
+PMCID: PMC3248681
+PMID: 22190458  [PubMed - indexed for MEDLINE]
+
+
+26. Cancer Res. 2012 Jan 1;72(1):176-86. doi: 10.1158/0008-5472.CAN-11-3506. Epub
+2011 Nov 14.
+
+Novel transcriptional targets of the SRY-HMG box transcription factor SOX4 link
+its expression to the development of small cell lung cancer.
+
+Castillo SD(1), Matheu A, Mariani N, Carretero J, Lopez-Rios F, Lovell-Badge R,
+Sanchez-Cespedes M.
+
+Author information: 
+(1)Genes and Cancer Group, Cancer Epigenetics and Biology Program, PEBC,
+Bellvitge Biomedical Research Institute-IDIBELL, Barcelona, Spain.
+
+The HMG box transcription factor SOX4 involved in neuronal development is
+amplified and overexpressed in a subset of lung cancers, suggesting that it may
+be a driver oncogene. In this study, we sought to develop this hypothesis
+including by defining targets of SOX4 that may mediate its involvement in lung
+cancer. Ablating SOX4 expression in SOX4-amplified lung cancer cells revealed a
+gene expression signature that included genes involved in neuronal development
+such as PCDHB, MYB, RBP1, and TEAD2. Direct recruitment of SOX4 to gene promoters
+was associated with their upregulation upon ectopic overexpression of SOX4. We
+confirmed upregulation of the SOX4 expression signature in a panel of primary
+lung tumors, validating their specific response by a comparison using embryonic
+fibroblasts from Sox4-deficient mice. Interestingly, we found that small cell
+lung cancer (SCLC), a subtype of lung cancer with neuroendocrine characteristics,
+was generally characterized by high levels of SOX2, SOX4, and SOX11 along with
+the SOX4-specific gene expression signature identified. Taken together, our
+findings identify a functional role for SOX genes in SCLC, particularly for SOX4 
+and several novel targets defined in this study.
+
+©2011 AACR.
+
+PMID: 22084397  [PubMed - indexed for MEDLINE]
+
+
+27. J Cell Sci. 2011 Apr 1;124(Pt 7):1136-44. doi: 10.1242/jcs.075796. Epub 2011 Mar 
+8.
+
+Regulation of mouse embryonic stem cell self-renewal by a Yes-YAP-TEAD2 signaling
+pathway downstream of LIF.
+
+Tamm C(1), Böwer N, Annerén C.
+
+Author information: 
+(1)Department of Medical Biochemistry and Microbiology, Uppsala University, 75123
+Uppsala, Sweden.
+
+The cytoplasmic tyrosine kinase Yes has previously been shown to have an
+important role in maintaining mouse and human embryonic stem (ES) self-renewal
+through an unknown pathway downstream of leukemia inhibitory factor (LIF) and one
+or more factors in serum. Here, we show that TEAD2 and its transcriptional
+co-activator, the Yes-associated protein YAP, co-operate in a signaling pathway
+downstream of Yes. We show that YAP, TEAD2 and Yes are highly expressed in
+self-renewing ES cells, are activated by LIF and serum, and are downregulated
+when cells are induced to differentiate. We also demonstrate that kinase-active
+Yes binds and phosphorylates YAP, and activates YAP-TEAD2-dependent
+transcription. We found that TEAD2 associates directly with the Oct-3/4 promoter.
+Moreover, activation of the Yes pathway induced activity of the Oct-3/4 and Nanog
+promoters, whereas suppression of this pathway inhibited promoter activity.
+Nanog, in turn, suppressed TEAD2-dependent promoter activity, whereas
+siRNA-mediated knockdown of Nanog induced it, suggesting a negative regulatory
+feedback loop. Episomal supertransfection of cells with inhibitory TEAD2-EnR
+induced endodermal differentiation, which suggests that this pathway is necessary
+for ES cell maintenance.
+
+PMID: 21385842  [PubMed - indexed for MEDLINE]
+
+
+28. Protein Cell. 2010 Sep;1(9):811-9. doi: 10.1007/s13238-010-0105-z. Epub 2010 Oct 
+7.
+
+Snapshots of a hybrid transcription factor in the Hippo pathway.
+
+Luo X(1).
+
+Author information: 
+(1)Department of Pharmacology, University of Texas Southwestern Medical Center,
+6001 Forest Park Road, Dallas, TX 75390, USA. xuelian.luo@utsouthwestern.edu
+
+The Hippo pathway plays key roles in animal development. It suppresses
+tumorigenesis by controlling the transcription of the target genes that are
+critical for cell proliferation and apoptosis. The transcriptional coactivator
+YAP is the major downstream effector of the Hippo signaling. Upon extracellular
+stimulation, a kinase cascade in the Hippo pathway phosphorylates YAP and
+promotes its cytoplasmic sequestration by 14-3-3 and ubiquitin-dependent
+degradation. When the Hippo pathway is turned off, YAP (which lacks a DNA-binding
+domain) is dephosphorylated and translocates to the nucleus, where it associates 
+with the transcription factor TEAD to form a functional heterodimeric
+transcription factor and to promote the expression of the Hippo-responsive genes.
+Recently, structures of the YAP-binding domain of TEAD alone or in complex with
+YAP have revealed the atomic details of the TEAD-YAP interaction. Here, I review 
+these exciting advances, propose a strategy for targeting the TEAD-YAP
+interaction using small molecules, and suggest potential mechanisms by which
+phosphorylation and 14-3-3 binding regulate the cytoplasmic retention of YAP.
+
+PMID: 21203923  [PubMed - indexed for MEDLINE]
+
+
+29. Am J Respir Cell Mol Biol. 2011 Aug;45(2):393-402. doi: 10.1165/rcmb.2010-0342OC.
+Epub 2010 Dec 3.
+
+Novel regulators of the systemic response to lipopolysaccharide.
+
+Yang IV(1), Alper S, Lackford B, Rutledge H, Warg LA, Burch LH, Schwartz DA.
+
+Author information: 
+(1)Center for Genes, Environment and Health, National Jewish Health, Denver, CO
+80206, USA. yangi@njhealth.org
+
+Our understanding of the role that host genetic factors play in the initiation
+and severity of infections caused by gram-negative bacteria is incomplete. To
+identify novel regulators of the host response to lipopolysaccharide (LPS), 11
+inbred murine strains were challenged with LPS systemically. In addition to two
+strains lacking functional TLR4 (C3H/HeJ and C57BL/6J(TLR4-/-)), three murine
+strains with functional TLR4 (C57BL/6J, 129/SvImJ, and NZW/LacJ) were found to be
+relatively resistant to systemic LPS challenge; the other six strains were
+classified as sensitive. RNA from lung, liver, and spleen tissue was profiled on 
+oligonucleotide microarrays to determine if unique transcripts differentiate
+susceptible and resistant strains. Gene expression analysis identified the
+Hedgehog signaling pathway and a number of transcription factors (TFs) involved
+in the response to LPS. RNA interference-mediated inhibition of six TFs (C/EBP,
+Cdx-2, E2F1, Hoxa4, Nhlh1, and Tead2) was found to diminish IL-6 and TNF-a
+production by murine macrophages. Mouse lines with targeted mutations were used
+to verify the involvement of two novel genes in innate immunity. Compared with
+wild-type control mice, mice deficient in the E2F1 transcription factor were
+found to have a reduced inflammatory response to systemic LPS, and mice
+heterozygote for Ptch, a gene involved in Hedgehog signaling, were found to be
+more responsive to systemic LPS. Our analysis of gene expression data identified 
+novel pathways and transcription factors that regulate the host response to
+systemic LPS. Our results provide potential sepsis biomarkers and therapeutic
+targets that should be further investigated in human populations.
+
+PMCID: PMC3175565
+PMID: 21131441  [PubMed - indexed for MEDLINE]
+
+
+30. PLoS One. 2010 Nov 22;5(11):e14085. doi: 10.1371/journal.pone.0014085.
+
+Gene expression profiling and chromatin immunoprecipitation identify DBN1, SETMAR
+and HIG2 as direct targets of SOX11 in mantle cell lymphoma.
+
+Wang X(1), Björklund S, Wasik AM, Grandien A, Andersson P, Kimby E,
+Dahlman-Wright K, Zhao C, Christensson B, Sander B.
+
+Author information: 
+(1)Department of Laboratory Medicine, Division of Pathology, Karolinska
+Institutet and Karolinska University Hospital Huddinge, Stockholm, Sweden.
+
+The SRY (sex determining region Y)-box 11 (SOX11) gene, located on chromosome
+2p25, encodes for a transcription factor that is involved in tissue remodeling
+during embryogenesis and is crucial for neurogenesis. The role for SOX11 in
+hematopoiesis has not yet been defined. Two genes under direct control of SOX11
+are the class- III ß-tubulin gene (TUBB3) in neural cells and the transcription
+factor TEA domain family member 2 (TEAD2) in neural and mesenchymal progenitor
+cells. Normal, mature lymphocytes lack SOX11 but express SOX4, another member of 
+the same group of SOX transcription factors. We and others recently identified
+SOX11 as aberrantly expressed in mantle cell lymphoma (MCL). Since SOX11 is
+variably expressed in MCL it may not be essential for tumorigenesis, but may
+carry prognostic information. Currently, no specific functional effects have been
+linked to SOX11 expression in MCL and it is not known which genes are under
+influence of SOX11 in lymphoma. In this study we found variable expression of
+SOX11, SOX4 and SOX12 mRNA in mantle cell lymphoma cell lines. Downregulation of 
+SOX11 expression by siRNA verified that SOX11 controlled the expression of the
+gene TUBB3 in the MCL cell line Granta 519. Furthermore we identified, by global 
+gene expression analysis, 26 new target genes influenced by siRNA SOX11
+downmodulation. Among these genes, DBN1, SETMAR and HIG2 were found to be
+significantly correlated to SOX11 expression in two cohorts of primary mantle
+cell lymphomas. Chromatin immunoprecipitation (ChIP) analysis showed that these
+genes are direct targets of the SOX11 protein. In spite of almost complete
+downregulation of the SOX11 protein no significant effects on Granta 519 cell
+proliferation or survival in short term in vitro experiments was found. In
+summary we have identified a number of genes influenced by SOX11 expression in
+MCL cell lines and primary MCL. Among these genes, DBN1, SETMAR and HIG2 are
+direct transcriptional targets of the SOX11 protein.
+
+PMCID: PMC2989913
+PMID: 21124928  [PubMed - indexed for MEDLINE]
+
+
+31. Hepatology. 2010 Dec;52(6):2127-36. doi: 10.1002/hep.23930. Epub 2010 Oct 26.
+
+Transcription factors ETF, E2F, and SP-1 are involved in cytokine-independent
+proliferation of murine hepatocytes.
+
+Zellmer S(1), Schmidt-Heck W, Godoy P, Weng H, Meyer C, Lehmann T, Sparna T,
+Schormann W, Hammad S, Kreutz C, Timmer J, von Weizsäcker F, Thürmann PA, Merfort
+I, Guthke R, Dooley S, Hengstler JG, Gebhardt R.
+
+Author information: 
+(1)Institute of Biochemistry, Medical Faculty, University of Leipzig, Leipzig,
+Germany. sebastian.zellmer@medizin.uni-leipzig.de
+
+The cellular basis of liver regeneration has been intensely investigated for many
+years. However, the mechanisms initiating hepatocyte "plasticity" and priming for
+proliferation are not yet fully clear. We investigated alterations in gene
+expression patterns during the first 72 hours of C57BL/6N mouse hepatocyte
+culture on collagen monolayers (CM), which display a high basal frequency of
+proliferation in the absence of cytokines. Although many metabolic genes were
+down-regulated, genes related to mitogen-activated protein kinase (MAPK)
+signaling and cell cycle were up-regulated. The latter genes showed an
+overrepresentation of transcription factor binding sites (TFBS) for ETF (TEA
+domain family member 2), E2F1 (E2F transcription factor 1), and SP-1 (Sp1
+transcription factor) (P < 0.001), all depending on MAPK signaling.
+Time-dependent increase of ERK1/2 phosphorylation occurred during the first 48
+hours (and beyond) in the absence of cytokines, accompanied by an enhanced
+bromodeoxyuridine labeling index of 20%. The MEK inhibitor PD98059 blunted these 
+effects indicating MAPK signaling as major trigger for this cytokine-independent 
+proliferative response. In line with these in vitro findings, liver tissue of
+mice challenged with CCl(4) displayed hepatocytes with intense p-ERK1/2 staining 
+and nuclear SP-1 and E2F1 expression. Furthermore, differentially expressed genes
+in mice after partial hepatectomy contained overrepresented TFBS for ETF, E2F1,
+and SP-1 and displayed increased expression of E2F1.CONCLUSION: Cultivation of
+murine hepatocytes on CM primes cells for proliferation through
+cytokine-independent activation of MAPK signaling. The transcription factors ETF,
+E2F1, and SP-1 seem to play a pronounced role in mediating
+proliferation-dependent differential gene expression. Similar events, but on a
+shorter time-scale, occur very early after liver damage in vivo.
+
+Copyright © 2010 American Association for the Study of Liver Diseases.
+
+PMID: 20979052  [PubMed - indexed for MEDLINE]
+
+
+32. Nat Commun. 2010 Apr 12;1:9. doi: 10.1038/ncomms1008.
+
+Organogenesis relies on SoxC transcription factors for the survival of neural and
+mesenchymal progenitors.
+
+Bhattaram P(1), Penzo-Méndez A, Sock E, Colmenares C, Kaneko KJ, Vassilev A,
+Depamphilis ML, Wegner M, Lefebvre V.
+
+Author information: 
+(1)Department of Cell Biology, and Orthopaedic and Rheumatologic Research Center,
+Cleveland Clinic Lerner Research Institute, Cleveland, Ohio 44195, USA.
+
+During organogenesis, neural and mesenchymal progenitor cells give rise to many
+cell lineages, but their molecular requirements for self-renewal and lineage
+decisions are incompletely understood. In this study, we show that their survival
+critically relies on the redundantly acting SoxC transcription factors Sox4,
+Sox11 and Sox12. The more SoxC alleles that are deleted in mouse embryos, the
+more severe and widespread organ hypoplasia is. SoxC triple-null embryos die at
+midgestation unturned and tiny, with normal patterning and lineage specification,
+but with massively dying neural and mesenchymal progenitor cells. Specific
+inactivation of SoxC genes in neural and mesenchymal cells leads to selective
+apoptosis of these cells, suggesting SoxC cell-autonomous roles. Tead2
+functionally interacts with SoxC genes in embryonic development, and is a direct 
+target of SoxC proteins. SoxC genes therefore ensure neural and mesenchymal
+progenitor cell survival, and function in part by activating this transcriptional
+mediator of the Hippo signalling pathway.
+
+PMCID: PMC2892298
+PMID: 20596238  [PubMed - indexed for MEDLINE]
+
+
+33. Proc Natl Acad Sci U S A. 2010 Apr 20;107(16):7293-8. doi:
+10.1073/pnas.1000293107. Epub 2010 Apr 5.
+
+Structural and functional analysis of the YAP-binding domain of human TEAD2.
+
+Tian W(1), Yu J, Tomchick DR, Pan D, Luo X.
+
+Author information: 
+(1)Departmentsof Pharmacology and Biochemistry, The University of Texas
+Southwestern Medical Center, 6001 Forest Park Road, Dallas, TX 75390, USA.
+
+The Hippo pathway controls organ size and suppresses tumorigenesis in metazoans
+by blocking cell proliferation and promoting apoptosis. The TEAD1-4 proteins
+(which contain a DNA-binding domain but lack an activation domain) interact with 
+YAP (which lacks a DNA-binding domain but contains an activation domain) to form 
+functional heterodimeric transcription factors that activate proliferative and
+prosurvival gene expression programs. The Hippo pathway inhibits the YAP-TEAD
+hybrid transcription factors by phosphorylating and promoting cytoplasmic
+retention of YAP. Here we report the crystal structure of the YAP-binding domain 
+(YBD) of human TEAD2. TEAD2 YBD adopts an immunoglobulin-like beta-sandwich fold 
+with two extra helix-turn-helix inserts. NMR studies reveal that the TEAD-binding
+domain of YAP is natively unfolded and that TEAD binding causes localized
+conformational changes in YAP. In vitro binding and in vivo functional assays
+define an extensive conserved surface of TEAD2 YBD as the YAP-binding site.
+Therefore, our studies suggest that a short segment of YAP adopts an extended
+conformation and forms extensive contacts with a rigid surface of TEAD. Targeting
+a surface-exposed pocket of TEAD might be an effective strategy to disrupt the
+YAP-TEAD interaction and to reduce the oncogenic potential of YAP.
+
+PMCID: PMC2867681
+PMID: 20368466  [PubMed - indexed for MEDLINE]
+
+
+34. PLoS One. 2009 May 29;4(5):e5722. doi: 10.1371/journal.pone.0005722.
+
+Molecular signatures of prostate stem cells reveal novel signaling pathways and
+provide insights into prostate cancer.
+
+Blum R(1), Gupta R, Burger PE, Ontiveros CS, Salm SN, Xiong X, Kamb A, Wesche H, 
+Marshall L, Cutler G, Wang X, Zavadil J, Moscatelli D, Wilson EL.
+
+Author information: 
+(1)Department of Cell Biology, New York University School of Medicine, New York, 
+New York, United States of America.
+
+BACKGROUND: The global gene expression profiles of adult and fetal murine
+prostate stem cells were determined to define common and unique regulators whose 
+misexpression might play a role in the development of prostate cancer.
+METHODOLOGY/PRINCIPAL FINDINGS: A distinctive core of transcriptional regulators 
+common to both fetal and adult primitive prostate cells was identified as well as
+molecules that are exclusive to each population. Elements common to fetal and
+adult prostate stem cells include expression profiles of Wnt, Shh and other
+pathways identified in stem cells of other organs, signatures of the
+aryl-hydrocarbon receptor, and up-regulation of components of the aldehyde
+dehydrogenase/retinoic acid receptor axis. There is also a significant lipid
+metabolism signature, marked by overexpression of lipid metabolizing enzymes and 
+the presence of the binding motif for Srebp1. The fetal stem cell population,
+characterized by more rapid proliferation and self-renewal, expresses regulators 
+of the cell cycle, such as E2f, Nfy, Tead2 and Ap2, at elevated levels, while
+adult stem cells show a signature in which TGF-beta has a prominent role.
+Finally, comparison of the signatures of primitive prostate cells with previously
+described profiles of human prostate tumors identified stem cell molecules and
+pathways with deregulated expression in prostate tumors including chromatin
+modifiers and the oncogene, Erg.
+CONCLUSIONS/SIGNIFICANCE: Our data indicate that adult prostate stem or
+progenitor cells may acquire characteristics of self-renewing primitive fetal
+prostate cells during oncogenesis and suggest that aberrant activation of
+components of prostate stem cell pathways may contribute to the development of
+prostate tumors.
+
+PMCID: PMC2684642
+PMID: 19478945  [PubMed - indexed for MEDLINE]
+
+
+35. Development. 2008 Dec;135(24):4059-69. doi: 10.1242/dev.027151. Epub 2008 Nov 12.
+
+Mammalian Tead proteins regulate cell proliferation and contact inhibition as
+transcriptional mediators of Hippo signaling.
+
+Ota M(1), Sasaki H.
+
+Author information: 
+(1)Laboratory for Embryonic Induction, RIKEN Center for Developmental Biology,
+2-2-3 Minatojima-Minamimachi, Chuo-ku, Kobe, Hyogo 650-0047, Japan.
+
+Regulation of organ size is important for development and tissue homeostasis. In 
+Drosophila, Hippo signaling controls organ size by regulating the activity of a
+TEAD transcription factor, Scalloped, through modulation of its co-activator
+protein Yki. Here, we show that mouse Tead proteins regulate cell proliferation
+by mediating Hippo signaling. In NIH3T3 cells, cell density and Hippo signaling
+regulated the activity of endogenous Tead proteins by modulating nuclear
+localization of a Yki homolog, Yap1, and the resulting change in Tead activity
+altered cell proliferation. Tead2-VP16 mimicked Yap1 overexpression, including
+increased cell proliferation, reduced cell death, promotion of EMT, lack of cell 
+contact inhibition and promotion of tumor formation. Growth-promoting activities 
+of various Yap1 mutants correlated with their Tead-co-activator activities.
+Tead2-VP16 and Yap1 regulated largely overlapping sets of genes. However, only a 
+few of the Tead/Yap1-regulated genes in NIH3T3 cells were affected in
+Tead1(-/-);Tead2(-/-) or Yap1(-/-) embryos. Most of the previously identified
+Yap1-regulated genes were not affected in NIH3T3 cells or mutant mice. In
+embryos, levels of nuclear Yap1 and Tead1 varied depending on cell type. Strong
+nuclear accumulation of Yap1 and Tead1 were seen in myocardium, correlating with 
+requirements of Tead1 for proliferation. However, their distribution did not
+always correlate with proliferation. Taken together, mammalian Tead proteins
+regulate cell proliferation and contact inhibition as a transcriptional mediator 
+of Hippo signaling, but the mechanisms by which Tead/Yap1 regulate cell
+proliferation differ depending on the cell type, and Tead, Yap1 and Hippo
+signaling may play multiple roles in mouse embryos.
+
+PMID: 19004856  [PubMed - indexed for MEDLINE]
+
+
+36. Mol Cell Biol. 2008 May;28(10):3177-89. doi: 10.1128/MCB.01759-07. Epub 2008 Mar 
+10.
+
+Redundant roles of Tead1 and Tead2 in notochord development and the regulation of
+cell proliferation and survival.
+
+Sawada A(1), Kiyonari H, Ukita K, Nishioka N, Imuta Y, Sasaki H.
+
+Author information: 
+(1)Laboratory for Embryonic Induction, RIKEN Center for Developmental Biology,
+2-2-3 Minatojima-minamimachi, Chuo-ku, Kobe, Hyogo 650-0047, Japan.
+
+Four members of the TEAD/TEF family of transcription factors are expressed widely
+in mouse embryos and adult tissues. Although in vitro studies have suggested
+various roles for TEAD proteins, their in vivo functions remain poorly
+understood. Here we examined the role of Tead genes by generating mouse mutants
+for Tead1 and Tead2. Tead2(-/-) mice appeared normal, but Tead1(-/-); Tead2(-/-) 
+embryos died at embryonic day 9.5 (E9.5) with severe growth defects and
+morphological abnormalities. At E8.5, Tead1(-/-); Tead2(-/-) embryos were already
+small and lacked characteristic structures such as a closed neural tube, a
+notochord, and somites. Despite these overt abnormalities, differentiation and
+patterning of the neural plate and endoderm were relatively normal. In contrast, 
+the paraxial mesoderm and lateral plate mesoderm were displaced laterally, and a 
+differentiated notochord was not maintained. These abnormalities and defects in
+yolk sac vasculature organization resemble those of mutants for Yap, which
+encodes a coactivator of TEAD proteins. Moreover, we demonstrated genetic
+interactions between Tead1 and Tead2 and Yap. Finally, Tead1(-/-); Tead2(-/-)
+embryos showed reduced cell proliferation and increased apoptosis. These results 
+suggest that Tead1 and Tead2 are functionally redundant, use YAP as a major
+coactivator, and support notochord maintenance as well as cell proliferation and 
+survival in mouse development.
+
+PMCID: PMC2423158
+PMID: 18332127  [PubMed - indexed for MEDLINE]
+
+
+37. Mech Dev. 2008 Mar-Apr;125(3-4):270-83. Epub 2007 Nov 17.
+
+Tead4 is required for specification of trophectoderm in pre-implantation mouse
+embryos.
+
+Nishioka N(1), Yamamoto S, Kiyonari H, Sato H, Sawada A, Ota M, Nakao K, Sasaki
+H.
+
+Author information: 
+(1)Laboratory for Embryonic Induction, RIKEN Center for Developmental Biology,
+2-2-3 Minatojima-minamimachi, Chuo, Kobe, Hyogo 650-0047, Japan.
+
+During pre-implantation mouse development, embryos form blastocysts with
+establishment of the first two cell lineages: the trophectoderm (TE) which gives 
+rise to the placenta, and the inner cell mass (ICM) which will form the embryo
+proper. Differentiation of TE is regulated by the transcription factor
+Caudal-related homeobox 2 (Cdx2), but the mechanisms which act upstream of Cdx2
+expression remain unknown. Here we show that the TEA domain family transcription 
+factor, Tead4, is required for TE development. Tead1, Tead2 and Tead4 were
+expressed in pre-implantation embryos, and at least Tead1 and Tead4 were
+expressed widely in both TE and ICM lineages. Tead4-/- embryos died at
+pre-implantation stages without forming the blastocoel. The mutant embryos
+continued cell proliferation, and adherens junction and cell polarity were not
+significantly affected. In Tead4-/- embryos, Cdx2 was weakly expressed at the
+morula stage but was not expressed in later stages. None of the TE specific
+genes, including Eomes and a Cdx2 independent gene, Fgfr2, was detected in
+Tead4-/- embryos. Instead, the ICM specific transcription factors, Oct3/4 and
+Nanog, were expressed in all the blastomeres. Tead4-/- embryos also failed to
+differentiate trophoblast giant cells when they were cultured in vitro. ES cells 
+with normal in vitro differentiation abilities were established from Tead4-/-
+embryos. These results suggest that Tead4 has a distinct role from Tead1 and
+Tead2 in trophectoderm specification of pre-implantation embryos, and that Tead4 
+is an early transcription factor required for specification and development of
+the trophectoderm lineage, which includes expression of Cdx2.
+
+PMID: 18083014  [PubMed - indexed for MEDLINE]
+
+
+38. Genesis. 2007 Sep;45(9):577-87.
+
+Transcription factor TEAD2 is involved in neural tube closure.
+
+Kaneko KJ(1), Kohn MJ, Liu C, DePamphilis ML.
+
+Author information: 
+(1)National Institute of Child Health and Human Development, National Institutes 
+of Health, Bethesda, Maryland, USA.
+
+TEAD2, one of the first transcription factors expressed at the beginning of
+mammalian development, appears to be required during neural development. For
+example, Tead2 expression is greatest in the dorsal neural crest where it appears
+to regulate expression of Pax3, a gene essential for brain development.
+Consistent with this hypothesis, we found that inactivation of the Tead2 gene in 
+mice significantly increased the risk of exencephaly (a defect in neural tube
+closure). However, none of the embryos exhibited spina bifida, the major
+phenotype of Pax3 nullizygous embryos, and expression of Pax3 in E11.5 Tead2
+nullizygous embryos was normal. Thus, Tead2 plays a role in neural tube closure
+that is independent of its putative role in Pax3 regulation. In addition, the
+risk of exencephaly was greatest with Tead2 nullizygous females, and could be
+suppressed either by folic acid or pifithrin-alpha. These results reveal a
+maternal genetic contribution to neural tube closure, and suggest that
+Tead2-deficient mice provide a model for anencephaly, a common human birth defect
+that can be prevented by folic acid.
+
+PMCID: PMC2765819
+PMID: 17868131  [PubMed - indexed for MEDLINE]
+
+
+39. Mol Cell Neurosci. 2005 Dec;30(4):583-600.
+
+Transcriptional changes during neuronal death and replacement in the olfactory
+epithelium.
+
+Shetty RS(1), Bose SC, Nickell MD, McIntyre JC, Hardin DH, Harris AM, McClintock 
+TS.
+
+Author information: 
+(1)Department of Physiology, Cellular and Molecular Neuroscience of Sensory
+Systems Training Program, University of Kentucky, Lexington 40536-0298, USA.
+
+Corrected and republished from
+    Mol Cell Neurosci. 2005 Sep;30(1):90-107.
+
+The olfactory epithelium has the unusual ability to replace its neurons.We forced
+replacement of mouse olfactory sensory neurons by bulbectomy. Microarray,
+bioinformatics, and in situ hybridization techniques detected a rapid shift in
+favor of pro-apoptotic proteins, a progressive immune response by macrophages and
+dendritic cells, and identified or predicted 439 mRNAs enriched in olfactory
+sensory neurons, including gene silencing factors and sperm flagellar proteins.
+Transcripts encoding cell cycle regulators, axonogenesis proteins, and
+transcription factors and signaling proteins that promote proliferation and
+differentiation were increased at 5-7 days after bulbectomy and were expressed by
+basal progenitor cells or immature neurons. The transcription factors included
+Nhlhl, Hes6, Lmycl, c-Myc, Mxd4, Idl,Nmycl, Cited2, c-Myb, Mybll, Tead2, Dpl,
+Gata2, Lmol, and Soxll. The data reveal significant similarities with embryonic
+neurogenesis and make several mechanistic predictions, including the roles of the
+transcription factors in the olfactory sensory neuron lineage.
+
+PMID: 16456926  [PubMed - indexed for MEDLINE]
+
+
+40. J Biol Chem. 2006 Jan 6;281(1):429-38. Epub 2005 Nov 2.
+
+Fgfr4 is required for effective muscle regeneration in vivo. Delineation of a
+MyoD-Tead2-Fgfr4 transcriptional pathway.
+
+Zhao P(1), Caretti G, Mitchell S, McKeehan WL, Boskey AL, Pachman LM, Sartorelli 
+V, Hoffman EP.
+
+Author information: 
+(1)Research Center for Genetic Medicine, Children's National Medical Center,
+Washington, DC 20010, USA.
+
+Fgfr4 has been shown to be important for appropriate muscle development in chick 
+limb buds; however, Fgfr4 null mice show no phenotype. Here, we show that staged 
+induction of muscle regeneration in Fgfr4 null mice becomes highly abnormal at
+the time point when Fgfr4 is normally expressed. By 7 days of regeneration,
+differentiation of myotubes became poorly coordinated and delayed by both
+histology and embryonic myosin heavy chain staining. By 14 days much of the
+muscle was replaced by fat and calcifications. To begin to dissect the molecular 
+pathways involving Fgfr4, we queried the promoter sequences for transcriptional
+factor binding sites and tested candidate regulators in a 27-time point
+regeneration series. The Fgfr4 promoter region contained a Tead protein binding
+site (M-CAT 5'-CATTCCT-3'), and Tead2 showed induction during regeneration
+commensurate with Fgfr4 regulation. Co-transfection of Tead2 and Fgfr4 promoter
+reporter constructs into C2C12 myotubes showed Tead2 to activate Fgfr4, and
+mutation of the M-CAT motif in the Fgfr4 promoter abolished these effects.
+Immunostaining for Tead2 showed timed expression in myotube nuclei consistent
+with the mRNA data. Query of the expression timing and genomic sequences of Tead2
+suggested direct regulation by MyoD, and consistent with this, MyoD directly
+bound to two strong E-boxes in the first intron of Tead2 by chromatin
+immunoprecipitation assay. Moreover, co-transfection of MyoD and Tead2 intron
+reporter constructs into 10T1/2 cells activated reporter activity in a
+dose-dependent manner. This activation was greatly reduced when the two E-boxes
+were mutated. Our data suggest a novel MyoD-Tead2-Fgfr4 pathway important for
+effective muscle regeneration.
+
+PMCID: PMC1892582
+PMID: 16267055  [PubMed - indexed for MEDLINE]
+
+
+41. Mol Cell Biol. 2004 Mar;24(5):1968-82.
+
+DNA methylation may restrict but does not determine differential gene expression 
+at the Sgy/Tead2 locus during mouse development.
+
+Kaneko KJ(1), Rein T, Guo ZS, Latham K, DePamphilis ML.
+
+Author information: 
+(1)National Institute of Child Health and Human Development, National Institutes 
+of Health, Bethesda, Maryland 20892-2753, USA.
+
+Soggy (Sgy) and Tead2, two closely linked genes with CpG islands, were
+coordinately expressed in mouse preimplantation embryos and embryonic stem (ES)
+cells but were differentially expressed in differentiated cells. Analysis of
+established cell lines revealed that Sgy gene expression could be fully repressed
+by methylation of the Sgy promoter and that DNA methylation acted synergistically
+with chromatin deacetylation. Differential gene expression correlated with
+differential DNA methylation, resulting in sharp transitions from methylated to
+unmethylated DNA at the open promoter in both normal cells and tissues, as well
+as in established cell lines. However, neither promoter was methylated in normal 
+cells and tissues even when its transcripts were undetectable. Moreover, the Sgy 
+promoter remained unmethylated as Sgy expression was repressed during ES cell
+differentiation. Therefore, DNA methylation was not the primary determinant of
+Sgy/Tead2 expression. Nevertheless, Sgy expression was consistently restricted to
+basal levels whenever downstream regulatory sequences were methylated, suggesting
+that DNA methylation restricts but does not regulate differential gene expression
+during mouse development.
+
+PMCID: PMC350557
+PMID: 14966277  [PubMed - indexed for MEDLINE]
+
+
+42. Biol Reprod. 2004 Jun;70(6):1701-9. Epub 2004 Feb 11.
+
+Transcription factor expression patterns in bovine in vitro-derived embryos prior
+to maternal-zygotic transition.
+
+Vigneault C(1), McGraw S, Massicotte L, Sirard MA.
+
+Author information: 
+(1)Centre de Recherche en Biologie de la Reproduction, Département des Sciences
+Animales, Université Laval,Québec, Canada G1K 7P4.
+
+Maternal-zygotic transition (MZT) is a complex phenomenon characterized by the
+initiation of transcription in the embryo and the replacement of maternal mRNA
+with embryonic mRNA. In order for this to occur, transcriptional activation
+requires various factors and conditions. Our hypothesis is that the lack of
+transcription in the bovine pre-MZT embryo is due, in part, to an incomplete or
+dormant transcriptional apparatus. Therefore, in accordance with this hypothesis,
+functioning transcriptional mechanisms should appear in the eight-cell bovine
+embryo to facilitate embryonic transcription during the MZT. With this in mind,
+we examined the presence of selected transcription factors during preimplantation
+embryo development to establish how their transcript levels change in bovine
+pre-MZT embryos. To achieve this goal, real-time reverse transcription-polymerase
+chain reaction was used to quantify the mRNA level of several different
+transcription factors (YY1, HMGA1, RY-1, P300, CREB, YAP65, HMGN1, HMGB1, NFAR,
+OCT-4, TEAD2, ATF-1, HMGN2, MSY2, and TBP) in germinal vesicle (GV) and metaphase
+II (MII) bovine oocytes and in two-, four-, eight-cell, and blastocyst stage
+embryos produced in vitro. Our results demonstrate that all genes examined can be
+grouped into five different categories according to their mRNA expression
+patterns at the developmental stages observed. To summarize, all transcription
+factors studied were present in pre-MZT embryos and the expression pattern of
+many of them suggest a potential role in MZT.
+
+PMID: 14960490  [PubMed - indexed for MEDLINE]
+
+
+43. Development. 2004 Feb;131(4):829-37. Epub 2004 Jan 21.
+
+Identification of minimal enhancer elements sufficient for Pax3 expression in
+neural crest and implication of Tead2 as a regulator of Pax3.
+
+Milewski RC(1), Chi NC, Li J, Brown C, Lu MM, Epstein JA.
+
+Author information: 
+(1)Cardiovascular Division, Department of Medicine, University of Pennsylvania,
+Philadelphia, PA, USA.
+
+Erratum in
+    Development. 2004 Mar;131(5):1195.
+
+Pax3 is a transcription factor that is required by pre-migratory neural crest
+cells, which give rise to the peripheral nervous system, melanocytes, some
+vascular smooth muscle, and numerous other derivatives [corrected]. Both mice and
+humans with Pax3 deficiency exhibit neural crest-related developmental defects
+[corrected]. Pax3 is also expressed in the dorsal neural tube, and by myogenic
+progenitors in the presomitic mesoderm and the hypaxial somites. Molecular
+pathways that regulate Pax3 expression in the roof plate probably represent early
+upstream signals in neural crest induction. We have identified an enhancer region
+in the Pax3 genomic locus that is sufficient to recapitulate expression in neural
+crest precursors in transgenic mice. We show that Tead2, a member of the Tead box
+family of transcription factors, binds to a neural crest enhancer and activates
+Pax3 expression. Tead2, and its co-activator YAP65, are co-expressed with Pax3 in
+the dorsal neural tube, and mutation of the Tead2 binding site in the context of 
+Pax3 transgenic constructs abolishes neural expression. In addition, a
+Tead2-Engrailed fusion protein is able to repress retinoic acid-induced Pax3
+expression in P19 cells and in vivo. These results suggest that Tead2 is an
+endogenous activator of Pax3 in neural crest.
+
+PMID: 14736747  [PubMed - indexed for MEDLINE]
+
+
+44. J Biol Chem. 2003 May 30;278(22):19716-22. Epub 2003 Mar 17.
+
+Identification of Ets-1 as an important transcriptional activator of
+CTP:phosphocholine cytidylyltransferase alpha in COS-7 cells and co-activation
+with transcriptional enhancer factor-4.
+
+Sugimoto H(1), Sugimoto S, Tatei K, Obinata H, Bakovic M, Izumi T, Vance DE.
+
+Author information: 
+(1)Department of Biochemistry, Gunma University School of Medicine, Maebashi
+371-8511, Japan.
+
+Phosphatidylcholine biosynthesis via the CDP-choline pathway is primarily
+regulated by CTP:phosphocholine cytidylyltransferase (CT). Transcriptional
+enhancer factor-4 (TEF-4) enhances the transcription of CTalpha in COS-7 cells by
+interactions with the basal transcription machinery (Sugimoto, H., Bakovic, M.,
+Yamashita, S., and Vance, D.E. (2001) J. Biol. Chem. 276,12338-12344). To
+identify the most important transcription factor involved in basal CTalpha
+transcription, we made CTalpha promoter-deletion and -mutated constructs linked
+to a luciferase reporter and transfected them into COS-7 cells. The results
+indicate that an important site regulating basal CTalpha transcription is -53/-47
+(GACTTCC), which is a putative consensus-binding site of Ets transcription
+factors (GGAA) in the opposite orientation. Gel shift analyses indicated the
+existence of a binding protein for -53/-47 (GACTTCC) in nuclear extracts of COS-7
+cells. When anti-Ets-1 antibody was incubated with the probe in gel shift
+analyses, the intensity of the binding protein was decreased. The binding of
+endogenous Ets-1 to the promoter probe was increased when TEF-4 was expressed;
+however, the amount of Ets-1 detected by immunoblotting was unchanged. When cells
+were transfected with Ets-1 cDNA, the luciferase activity of CTalpha promoter
+constructs was greatly enhanced. Co-transfection experiments with Ets-1 and TEF-4
+showed enhanced expression of reporter constructs as well as CTalpha mRNA. These 
+results suggest that Ets-1 is an important transcriptional activator of the
+CTalpha gene and that Ets-1 activity is enhanced by TEF-4.
+
+PMID: 12642588  [PubMed - indexed for MEDLINE]
+
+
+45. Biochem Biophys Res Commun. 2001 Dec 21;289(5):1010-8.
+
+Identification and characterization of cell-specific enhancer elements for the
+mouse ETF/Tead2 gene.
+
+Tanoue Y(1), Yasunami M, Suzuki K, Ohkubo H.
+
+Author information: 
+(1)Institute of Molecular Embryology and Genetics, Kumamoto University, Kuhonji
+4-24-1, Kumamoto, 862-0976, Japan.
+
+We have identified and characterized by transient transfection assays the
+cell-specific 117-bp enhancer sequence in the first intron of the mouse ETF
+(Embryonic TEA domain-containing factor)/Tead2 gene required for transcriptional 
+activation in ETF/Tead2 gene-expressing cells, such as P19 cells. The 117-bp
+enhancer contains one GC-rich sequence (5'-GGGGCGGGG-3'), termed the GC box, and 
+two tandemly repeated GA-rich sequences (5'-GGGGGAGGGG-3'), termed the proximal
+and distal GA elements. Further analyses, including transfection studies and
+electrophoretic mobility shift assays using a series of deletion and mutation
+constructs, indicated that Sp1, a putative activator, may be required to
+predominate over its competition with another unknown putative repressor, termed 
+the GA element-binding factor, for binding to both the GC box, which overlapped
+with the proximal GA element, and the distal GA element in the 117-bp sequence in
+order to achieve a full enhancer activity. We also discuss a possible mechanism
+underlying the cell-specific enhancer activity of the 117-bp sequence.
+
+PMID: 11741291  [PubMed - indexed for MEDLINE]
+
+
+46. Genes Dev. 2001 May 15;15(10):1229-41.
+
+TEAD/TEF transcription factors utilize the activation domain of YAP65, a
+Src/Yes-associated protein localized in the cytoplasm.
+
+Vassilev A(1), Kaneko KJ, Shu H, Zhao Y, DePamphilis ML.
+
+Author information: 
+(1)National Institute of Child Health and Human Development, National Institutes 
+of Health, Bethesda, Maryland 20892-2753, USA.
+
+Mammals express four highly conserved TEAD/TEF transcription factors that bind
+the same DNA sequence, but serve different functions during development.
+TEAD-2/TEF-4 protein purified from mouse cells was associated predominantly with 
+a novel TEAD-binding domain at the amino terminus of YAP65, a powerful
+transcriptional coactivator. YAP65 interacted specifically with the carboxyl
+terminus of all four TEAD proteins. Both this interaction and sequence-specific
+DNA binding by TEAD were required for transcriptional activation in mouse cells. 
+Expression of YAP in lymphocytic cells that normally do not support
+TEAD-dependent transcription (e.g., MPC11) resulted in up to 300-fold induction
+of TEAD activity. Conversely, TEAD overexpression squelched YAP activity.
+Therefore, the carboxy-terminal acidic activation domain in YAP is the
+transcriptional activation domain for TEAD transcription factors. However,
+whereas TEAD was concentrated in the nucleus, excess YAP65 accumulated in the
+cytoplasm as a complex with the cytoplasmic localization protein, 14-3-3. Because
+TEAD-dependent transcription was limited by YAP65, and YAP65 also binds Src/Yes
+protein tyrosine kinases, we propose that YAP65 regulates TEAD-dependent
+transcription in response to mitogenic signals.
+
+PMCID: PMC313800
+PMID: 11358867  [PubMed - indexed for MEDLINE]
+
+
+47. J Biol Chem. 2001 Apr 13;276(15):12338-44. Epub 2001 Jan 12.
+
+Identification of transcriptional enhancer factor-4 as a transcriptional
+modulator of CTP:phosphocholine cytidylyltransferase alpha.
+
+Sugimoto H(1), Bakovic M, Yamashita S, Vance DE.
+
+Author information: 
+(1)Department of Biochemistry, Gunma University School of Medicine, Maebashi
+371-8511, Japan.
+
+CTP:phosphocholine cytidylyltransferase (CCT) is the rate-limiting and regulated 
+enzyme of mammalian phosphatidylcholine biosynthesis. There are three isoforms,
+CCTalpha, CCTbeta1, and CCTbeta2. The mouse CCTalpha gene promoter is regulated
+by an enhancer element (Eb) located between -103 and -82 base pairs
+(5'-GTTTTCAGGAATGCGGAGGTGG-3') upstream from the transcriptional start site
+(Bakovic, M., Waite, K., Tang, W., Tabas, I., and Vance, D. E. (1999) Biochim.
+Biophys. Acta 1436, 147-165). To identify the Eb-binding protein(s), we screened 
+a mouse embryo cDNA library by the yeast one-hybrid system and obtained 19
+positive clones. Ten cDNA clones were identified as transcriptional enhancer
+factor-4 (TEF-4). The TEF-binding consensus sequence,
+5'-(A/T)(A/G)(A/G)(A/T)ATG(C/T)(G/A)-3', was identified within the Eb binding
+region. Gel-shift analysis using radiolabeled Eb fragment as a probe showed that 
+cell extracts from yeast expressing hemagglutinin-tagged TEF-4 caused a marked
+band retardation that could be prevented with an anti-hemagglutinin antibody.
+When COS-7 cells were transfected with TEF-4, CCTalpha promoter-luciferase
+reporter activity and CCTalpha mRNA levels increased. A TEF-4 deletion mutant
+containing a DNA-binding domain, mTEA(+), stimulated the CCTalpha promoter
+activity, whereas protein lacking the DNA binding domain, mTEA(-), did not.
+Unexpectedly, when the ATG core of the TEF-4 binding consensus within the Eb
+region was mutated, promoter activity was enhanced rather than decreased. Thus,
+TEF-4 might act as a dual transcriptional modulator as follows: as a suppressor
+via its direct binding to the Eb element and as an activator via its interactions
+with the basal transcriptional machinery. These results provide the first
+evidence that TEF-4 is an important regulator of CCTalpha gene expression.
+
+PMID: 11279002  [PubMed - indexed for MEDLINE]
+
+
+48. Nucleic Acids Res. 2000 Oct 15;28(20):3982-90.
+
+Soggy, a spermatocyte-specific gene, lies 3.8 kb upstream of and antipodal to
+TEAD-2, a transcription factor expressed at the beginning of mouse development.
+
+Kaneko KJ(1), DePamphilis ML.
+
+Author information: 
+(1)National Institute of Child Health and Human Development, Building 6, National
+Institutes of Health, Bethesda, MD 20892-2753, USA. kjaneko@box-k.nih.gov
+
+Investigation of the regulatory region of mTEAD-2, a gene expressed at the
+beginning of mouse pre-implantation development, led to the surprising discovery 
+of another gene only 3.8 kb upstream of mTEAD-2. Here we show that this new gene 
+is a single copy, testis-specific gene called SOGGY: (mSgy) that produces a
+single, dominant mRNA approximately 1.3 kb in length. It is transcribed in the
+direction opposite to mTEAD-2, thus placing the regulatory elements of these two 
+genes in close proximity. mSgy contains three methionine codons that could
+potentially act as translation start sites, but most mSGY protein synthesis in
+vitro was initiated from the first Met codon to produce a full-length protein,
+suggesting that mSGY normally consists of 230 amino acids (26.7 kDa).
+Transcription began at a cluster of nucleotides approximately 150 bp upstream of 
+the first Met codon using a TATA-less promoter contained within the first 0.9 kb 
+upstream. The activity of this promoter was repressed by upstream sequences
+between -0.9 and -2.5 kb in cells that did not express mSgy, but this repression 
+was relieved in cells that did express mSgy. mSgy mRNA was detected in embryos
+only after day 15 and in adult tissues only in the developing spermatocytes of
+seminiferous tubules, suggesting that mSgy is a spermatocyte-specific gene. Since
+mTEAD-2 and mSgy were not expressed in the same cells, the mSgy/mTEAD-2 locus
+provides a unique paradigm for differential regulation of gene expression during 
+mammalian development.
+
+PMCID: PMC110775
+PMID: 11024178  [PubMed - indexed for MEDLINE]
+
+
+49. J Biol Chem. 2000 Oct 6;275(40):30801-5.
+
+Functional interaction between the p160 coactivator proteins and the
+transcriptional enhancer factor family of transcription factors.
+
+Belandia B(1), Parker MG.
+
+Author information: 
+(1)Molecular Endocrinology Laboratory, Imperial Cancer Research Fund, London WC2A
+3PX, United Kingdom.
+
+SRC1, initially identified as a nuclear receptor coactivator, was found to
+interact with a member of the transcriptional enhancer factor (TEF) family of
+transcription factors, TEF-4. The interaction, which occurs in both intact cells 
+and in a cell-free system, is mediated by the highly conserved basic
+helix-loop-helix/Per-Arnt-Sim (bHLH-PAS) domain present in the N-terminal region 
+of SRC1. Moreover, all three members of the p160 family of nuclear receptor
+coactivators, SRC1, TIF2, and RAC3, are able to potentiate transcription from a
+TEF response element in transient transfection experiments, and this activation
+requires the presence of the bHLH-PAS domain. These results suggest that the p160
+proteins could be bona fide coactivators of the TEF family of transcription
+factors.
+
+PMID: 10934189  [PubMed - indexed for MEDLINE]
+
+
+50. Biol Reprod. 2000 Apr;62(4):969-78.
+
+Translation of maternal messenger ribonucleic acids encoding transcription
+factors during genome activation in early mouse embryos.
+
+Wang Q(1), Latham KE.
+
+Author information: 
+(1)The Fels Institute for Cancer Research and Molecular Biology and Department of
+Biochemistry, Temple University School of Medicine, Philadelphia, Pennsylvania
+19140, USA.
+
+Embryonic genome activation (EGA) in mice is sensitive to treatment with
+cycloheximide, indicating that protein synthesis plays an important role in
+mediating EGA. We hypothesized that regulated maternal mRNA recruitment may
+control the time of EGA by controlling the time of appearance of certain
+transcription factors (TFs). We also hypothesized that synthesis of other TFs may
+contribute to EGA independently of controlling the timing of EGA. To test these
+hypotheses, we used sucrose density gradient fractionation coupled to a
+quantitative reverse transcription-polymerase chain reaction method to compare
+polysomal mRNA abundances of specific TF mRNAs between metaphase II oocytes,
+1-cell-stage embryos, and 2-cell-stage embryos. We observed a
+2-cell-stage-specific increase in polysomal abundance of mouse TEA DNA binding
+domain 2 (mTEAD-2) mRNA, coincident with the first appearance of mTEAD activity
+in the early embryo. The mRNAs encoding Sp1, TATA binding protein, and cyclic AMP
+response element binding protein did not undergo translational recruitment, but
+exhibited differences in polysomal abundance. We also observed a continuous, high
+proportion in the polysomal fraction for the mRNA encoding ribosomal protein L23 
+mRNA, which contrasted with the patterns observed for other maternal transcripts.
+These observations are consistent with the hypothesis that regulated recruitment 
+of maternal TF mRNAs may control the time of activation of some genes during EGA,
+and that continuous synthesis of other TFs, like Sp1, may facilitate EGA.
+
+PMID: 10727266  [PubMed - indexed for MEDLINE]
+
+
+51. Genomics. 1999 Jan 1;55(1):127-9.
+
+Localization of human transcription factor TEF-4 and TEF-5 (TEAD2, TEAD3) genes
+to chromosomes 19q13.3 and 6p21.2 using fluorescence in situ hybridization and
+radiation hybrid analysis.
+
+Jacquemin P(1), Depetris D, Mattei MG, Martial JA, Davidson I.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/ULP/, Illkirch Cédex, F-67404, France.
+
+PMID: 9889009  [PubMed - indexed for MEDLINE]
+
+
+52. DNA Cell Biol. 1998 Feb;17(2):187-96.
+
+cDNA cloning and characterization of mouse DTEF-1 and ETF, members of the
+TEA/ATTS family of transcription factors.
+
+Yockey CE(1), Shimizu N.
+
+Author information: 
+(1)Department of Pediatrics, University of South Carolina School of Medicine,
+Columbia 29208, USA.
+
+Members of the TEA/ATTS family of transcription factors have been found in most
+representative eukaryotic organisms. In vertebrates, the TEA family contains at
+least four members, which share overlapping DNA-binding specificity and have
+similar transcriptional activation properties. In this article, we describe the
+cDNA cloning and characterization of the murine TEA proteins DTEF-1 (mDTEF-1) and
+ETF. Using in situ hybridization analysis of mouse embryos, we found that mDTEF-1
+and ETF transcript distributions substantially overlap. ETF is expressed
+throughout the embryo except in the myocardium early in development, whereas late
+in development, it is enriched in lung and neuroectoderm. Mouse DTEF-1 is
+expressed at a much lower level throughout development and is substantially
+enriched in ectoderm and skin, as well as in the developing pituitary at
+midgestation. Northern blot analysis of adult mouse tissue total RNA showed that 
+both ETF and mDTEF-1 are abundant in uterus and lung relative to other tissues.
+Using gel mobility shift assays and GAL4-fusion protein analysis, we demonstrated
+that the full coding sequences of ETF and mDTEF-1 encode M-CAT/GT-IIC-binding
+proteins containing activation domains.
+
+PMID: 9502435  [PubMed - indexed for MEDLINE]
+
+
+53. J Biol Chem. 1996 Sep 6;271(36):21775-85.
+
+A novel family of developmentally regulated mammalian transcription factors
+containing the TEA/ATTS DNA binding domain.
+
+Jacquemin P(1), Hwang JJ, Martial JA, Dollé P, Davidson I.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/ULP, Collège de France, B.P. 163-67404 Illkirch Cédex, France.
+
+We describe the molecular cloning of two novel human and murine transcription
+factors containing the TEA/ATTS DNA binding domain and related to transcriptional
+enhancer factor-1 (TEF-1). These factors bind to the consensus TEA/ATTS cognate
+binding site exemplified by the GT-IIC and Sph enhansons of the SV40 enhancer but
+differ in their ability to bind cooperatively to tandemly repeated sites. The
+human TEFs are differentially expressed in cultured cell lines and the mouse
+(m)TEFs are differentially expressed in embryonic and extra-embryonic tissues in 
+early post-implantation embryos. Strikingly, at later stages of embryogenesis,
+mTEF-3 is specifically expressed in skeletal muscle precursors, whereas mTEF-1 is
+expressed not only in developing skeletal muscle but also in the myocardium.
+Together with previous data, these results point to important, partially
+redundant, roles for these TEF proteins in myogenesis and cardiogenesis. In
+addition, mTEF-1 is strongly coexpressed with mTEF-4 in mitotic neuroblasts,
+while accentuated mTEF-4 expression is also observed in the gut and the
+nephrogenic region of the kidney. These observations suggest additional roles for
+the TEF proteins in central nervous system development and organogenesis.
+
+PMID: 8702974  [PubMed - indexed for MEDLINE]
+
+
+54. Genomics. 1996 Sep 1;36(2):263-70.
+
+Structural organization and chromosomal assignment of the mouse embryonic TEA
+domain-containing factor (ETF) gene.
+
+Suzuki K(1), Yasunami M, Matsuda Y, Maeda T, Kobayashi H, Terasaki H, Ohkubo H.
+
+Author information: 
+(1)Institute of Molecular Embryology and Genetics, Kumamoto University School of 
+Medicine, Kumamoto, 862, Japan.
+
+Embryonic TEA domain-containing factor (ETF) belongs to the family of proteins
+structurally related to transcriptional enhancer factor-1 (TEF-1) and is
+implicated in neural development. Isolation and characterization of the cosmid
+clones encoding the mouse ETF gene (Etdf) revealed that Etdf spans approximately 
+17.9 kb and consists of 12 exons. The exon-intron structure of Etdf closely
+resembles that of the Drosophila scalloped gene, indicating that these genes may 
+have evolved from a common ancestor. The multiple transcription initiation sites 
+revealed by S1 protection and primer extension analyses are consistent with the
+absence of the canonical TATA and CAAT boxes in the 5'-flanking region, which
+contains many potential regulatory sequences, such as the E-box, N-box, Sp1
+element, GATA-1 element, TAATGARAT element, and B2 short interspersed element
+(SINE) as well as several direct and inverted repeat sequences. The Etdf locus
+was assigned to the proximal region of mouse chromosome 7 using fluorescence in
+situ hybridization and linkage mapping analyses. These results provide the
+molecular basis for studying the regulation, in vivo function, and evolution of
+Etdf.
+
+PMID: 8812452  [PubMed - indexed for MEDLINE]
+
+
+55. J Biol Chem. 1995 Aug 4;270(31):18649-54.
+
+Molecular characterization of cDNA encoding a novel protein related to
+transcriptional enhancer factor-1 from neural precursor cells.
+
+Yasunami M(1), Suzuki K, Houtani T, Sugimoto T, Ohkubo H.
+
+Author information: 
+(1)Institute of Molecular Embryology and Genetics, Kumamoto University School of 
+Medicine, Japan.
+
+We identified a novel cDNA related to that of transcriptional enhancer factor-1
+(TEF-1) during the course of isolation and characterization of cDNAs, whose mRNAs
+are preferentially expressed in the mouse neural precursor cells. The putative
+polypeptide, termed embryonic TEA domain-containing factor (ETF), deduced from
+the nucleotide sequence contains 445 amino acids and shares 66% amino acid
+identity with mouse and human TEF-1 proteins. The primary structure of the TEA
+domain, a probable DNA-binding domain, and the specific DNA binding activity to
+the GT-IIC motif of ETF are indistinguishable from those of the known vertebrate 
+TEF-1 proteins. However, the expression of the ETF gene is strictly regulated in 
+developing embryos and is limited to certain tissues, such as the hindbrain of a 
+10-day-old mouse embryo, in contrast to the ubiquitous expression pattern of the 
+TEF-1 gene. These results suggest that ETF is a novel mammalian member of the TEA
+domain-containing transcription factor family and may be involved in the gene
+regulation of the neural development. We have discussed the possible existence of
+multiple subtypes of the mammalian TEF-1 family proteins, which may play
+different roles in cellular and development gene regulation.
+
+PMID: 7629195  [PubMed - indexed for MEDLINE]
+
+

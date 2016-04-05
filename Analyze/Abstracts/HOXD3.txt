@@ -1,0 +1,2521 @@
+
+1. Cancer Epidemiol Biomarkers Prev. 2015 Oct;24(10):1574-84. doi:
+10.1158/1055-9965.EPI-14-1270. Epub 2015 Jul 24.
+
+Network-Based Integration of GWAS and Gene Expression Identifies a HOX-Centric
+Network Associated with Serous Ovarian Cancer Risk.
+
+Kar SP, Tyrer JP, Li Q, Lawrenson K, Aben KK, Anton-Culver H, Antonenkova N,
+Chenevix-Trench G; Australian Cancer Study; Australian Ovarian Cancer Study
+Group, Baker H, Bandera EV, Bean YT, Beckmann MW, Berchuck A, Bisogna M, Bjørge
+L, Bogdanova N, Brinton L, Brooks-Wilson A, Butzow R, Campbell I, Carty K,
+Chang-Claude J, Chen YA, Chen Z, Cook LS, Cramer D, Cunningham JM, Cybulski C,
+Dansonka-Mieszkowska A, Dennis J, Dicks E, Doherty JA, Dörk T, du Bois A, Dürst
+M, Eccles D, Easton DF, Edwards RP, Ekici AB, Fasching PA, Fridley BL, Gao YT,
+Gentry-Maharaj A, Giles GG, Glasspool R, Goode EL, Goodman MT, Grownwald J,
+Harrington P, Harter P, Hein A, Heitz F, Hildebrandt MA, Hillemanns P, Hogdall E,
+Hogdall CK, Hosono S, Iversen ES, Jakubowska A, Paul J, Jensen A, Ji BT, Karlan
+BY, Kjaer SK, Kelemen LE, Kellar M, Kelley J, Kiemeney LA, Krakstad C,
+Kupryjanczyk J, Lambrechts D, Lambrechts S, Le ND, Lee AW, Lele S, Leminen A,
+Lester J, Levine DA, Liang D, Lissowska J, Lu K, Lubinski J, Lundvall L, Massuger
+L, Matsuo K, McGuire V, McLaughlin JR, McNeish IA, Menon U, Modugno F, Moysich
+KB, Narod SA, Nedergaard L, Ness RB, Nevanlinna H, Odunsi K, Olson SH, Orlow I,
+Orsulic S, Weber RP, Pearce CL, Pejovic T, Pelttari LM, Permuth-Wey J, Phelan CM,
+Pike MC, Poole EM, Ramus SJ, Risch HA, Rosen B, Rossing MA, Rothstein JH, Rudolph
+A, Runnebaum IB, Rzepecka IK, Salvesen HB, Schildkraut JM, Schwaab I, Shu XO,
+Shvetsov YB, Siddiqui N, Sieh W, Song H, Southey MC, Sucheston-Campbell LE,
+Tangen IL, Teo SH, Terry KL, Thompson PJ, Timorek A, Tsai YY, Tworoger SS, van
+Altena AM, Van Nieuwenhuysen E, Vergote I, Vierkant RA, Wang-Gohrke S, Walsh C,
+Wentzensen N, Whittemore AS, Wicklund KG, Wilkens LR, Woo YL, Wu X, Wu A, Yang H,
+Zheng W, Ziogas A, Sellers TA, Monteiro AN, Freedman ML, Gayther SA, Pharoah PD.
+
+BACKGROUND: Genome-wide association studies (GWAS) have so far reported 12 loci
+associated with serous epithelial ovarian cancer (EOC) risk. We hypothesized that
+some of these loci function through nearby transcription factor (TF) genes and
+that putative target genes of these TFs as identified by coexpression may also be
+enriched for additional EOC risk associations.
+METHODS: We selected TF genes within 1 Mb of the top signal at the 12 genome-wide
+significant risk loci. Mutual information, a form of correlation, was used to
+build networks of genes strongly coexpressed with each selected TF gene in the
+unified microarray dataset of 489 serous EOC tumors from The Cancer Genome Atlas.
+Genes represented in this dataset were subsequently ranked using a gene-level
+test based on results for germline SNPs from a serous EOC GWAS meta-analysis
+(2,196 cases/4,396 controls).
+RESULTS: Gene set enrichment analysis identified six networks centered on TF
+genes (HOXB2, HOXB5, HOXB6, HOXB7 at 17q21.32 and HOXD1, HOXD3 at 2q31) that were
+significantly enriched for genes from the risk-associated end of the ranked list 
+(P < 0.05 and FDR < 0.05). These results were replicated (P < 0.05) using an
+independent association study (7,035 cases/21,693 controls). Genes underlying
+enrichment in the six networks were pooled into a combined network.
+CONCLUSION: We identified a HOX-centric network associated with serous EOC risk
+containing several genes with known or emerging roles in serous EOC development.
+IMPACT: Network analysis integrating large, context-specific datasets has the
+potential to offer mechanistic insights into cancer susceptibility and prioritize
+genes for experimental characterization.
+
+©2015 American Association for Cancer Research.
+
+PMCID: PMC4592449
+PMID: 26209509  [PubMed - in process]
+
+
+2. Biomed Res Int. 2015;2015:358125. doi: 10.1155/2015/358125. Epub 2015 Feb 23.
+
+Novel candidate key drivers in the integrative network of genes, microRNAs,
+methylations, and copy number variations in squamous cell lung carcinoma.
+
+Huang T(1), Yang J(2), Cai YD(3).
+
+Author information: 
+(1)College of Life Science, Shanghai University, Shanghai 200444, China ;
+Institute of Health Sciences, Shanghai Institutes for Biological Sciences,
+Chinese Academy of Sciences and Shanghai Jiao Tong University School of Medicine,
+Shanghai 200031, China. (2)Institute of Health Sciences, Shanghai Institutes for 
+Biological Sciences, Chinese Academy of Sciences and Shanghai Jiao Tong
+University School of Medicine, Shanghai 200031, China. (3)College of Life
+Science, Shanghai University, Shanghai 200444, China.
+
+The mechanisms of lung cancer are highly complex. Not only mRNA gene expression
+but also microRNAs, DNA methylation, and copy number variation (CNV) play roles
+in tumorigenesis. It is difficult to incorporate so much information into a
+single model that can comprehensively reflect all these lung cancer mechanisms.
+In this study, we analyzed the 129 TCGA (The Cancer Genome Atlas) squamous cell
+lung carcinoma samples with gene expression, microRNA expression, DNA
+methylation, and CNV data. First, we used variance inflation factor (VIF)
+regression to build the whole genome integrative network. Then, we isolated the
+lung cancer subnetwork by identifying the known lung cancer genes and their
+direct regulators. This subnetwork was refined by the Bayesian method, and the
+directed regulations among mRNA genes, microRNAs, methylations, and CNVs were
+obtained. The novel candidate key drivers in this refined subnetwork, such as the
+methylation of ARHGDIB and HOXD3, microRNA let-7a and miR-31, and the CNV of
+AGAP2, were identified and analyzed. On three large public available lung cancer 
+datasets, the key drivers ARHGDIB and HOXD3 demonstrated significant associations
+with the overall survival of lung cancer patients. Our results provide new
+insights into lung cancer mechanisms.
+
+PMCID: PMC4352729
+PMID: 25802847  [PubMed - indexed for MEDLINE]
+
+
+3. Hum Mol Genet. 2015 May 1;24(9):2700-8. doi: 10.1093/hmg/ddv028. Epub 2015 Jan
+26.
+
+Genetic variants associated with motion sickness point to roles for inner ear
+development, neurological processes and glucose homeostasis.
+
+Hromatka BS(1), Tung JY(2), Kiefer AK(2), Do CB(2), Hinds DA(2), Eriksson N(2).
+
+Author information: 
+(1)Product Science, 23andMe, Inc., Mountain View, CA, USA bhromatka@23andme.com. 
+(2)Product Science, 23andMe, Inc., Mountain View, CA, USA.
+
+Roughly one in three individuals is highly susceptible to motion sickness and yet
+the underlying causes of this condition are not well understood. Despite high
+heritability, no associated genetic factors have been discovered. Here, we
+conducted the first genome-wide association study on motion sickness in 80 494
+individuals from the 23andMe database who were surveyed about car sickness.
+Thirty-five single-nucleotide polymorphisms (SNPs) were associated with motion
+sickness at a genome-wide-significant level (P < 5 × 10(-8)). Many of these SNPs 
+are near genes involved in balance, and eye, ear and cranial development (e.g.
+PVRL3, TSHZ1, MUTED, HOXB3, HOXD3). Other SNPs may affect motion sickness through
+nearby genes with roles in the nervous system, glucose homeostasis or hypoxia. We
+show that several of these SNPs display sex-specific effects, with up to three
+times stronger effects in women. We searched for comorbid phenotypes with motion 
+sickness, confirming associations with known comorbidities including migraines,
+postoperative nausea and vomiting (PONV), vertigo and morning sickness and
+observing new associations with altitude sickness and many gastrointestinal
+conditions. We also show that two of these related phenotypes (PONV and
+migraines) share underlying genetic factors with motion sickness. These results
+point to the importance of the nervous system in motion sickness and suggest a
+role for glucose levels in motion-induced nausea and vomiting, a finding that may
+provide insight into other nausea-related phenotypes like PONV. They also
+highlight personal characteristics (e.g. being a poor sleeper) that correlate
+with motion sickness, findings that could help identify risk factors or
+treatments.
+
+© The Author 2015. Published by Oxford University Press.
+
+PMCID: PMC4383869
+PMID: 25628336  [PubMed - indexed for MEDLINE]
+
+
+4. Brain Struct Funct. 2016 Apr;221(3):1223-43. doi: 10.1007/s00429-014-0965-8. Epub
+2014 Dec 20.
+
+Systematic expression analysis of Hox genes at adulthood reveals novel patterns
+in the central nervous system.
+
+Hutlet B(1), Theys N(1), Coste C(1,)(2), Ahn MT(1), Doshishti-Agolli K(1), Lizen 
+B(1), Gofflot F(3).
+
+Author information: 
+(1)Institut des Sciences de la Vie, Université catholique de Louvain, 1348,
+Louvain-La-Neuve, Belgium. (2)Laboratory of Developmental Neurobiology,
+GIGA-Neurosciences Research Center, University of Liège, 4000, Liège, Belgium.
+(3)Institut des Sciences de la Vie, Université catholique de Louvain, 1348,
+Louvain-La-Neuve, Belgium. francoise.gofflot@uclouvain.be.
+
+Hox proteins are key regulators of animal development, providing positional
+identity and patterning information to cells along the rostrocaudal axis of the
+embryo. Although their embryonic expression and function are well characterized, 
+their presence and biological importance in adulthood remains poorly
+investigated. We provide here the first detailed quantitative and neuroanatomical
+characterization of the expression of the 39 Hox genes in the adult mouse brain. 
+Using RT-qPCR we determined the expression of 24 Hox genes mainly in the
+brainstem of the adult brain, with low expression of a few genes in the
+cerebellum and the forebrain. Using in situ hybridization (ISH) we have
+demonstrated that expression of Hox genes is maintained in territories derived
+from the early segmental Hox expression domains in the hindbrain. Indeed, we show
+that expression of genes belonging to paralogy groups PG2-8 is maintained in the 
+hindbrain derivatives at adulthood. The spatial colinearity, which characterizes 
+the early embryonic expression of Hox genes, is still observed in sequential
+antero-posterior boundaries of expression. Moreover, the main mossy and climbing 
+fibres precerebellar nuclei express PG2-8 Hox genes according to their migration 
+origins. Second, ISH confirms the presence of Hox gene transcripts in territories
+where they are not detected during development, suggesting neo-expression in
+these territories in adulthood. Within the forebrain, we have mapped Hoxb1,
+Hoxb3, Hoxb4, Hoxd3 and Hoxa5 expression in restricted areas of the sensory
+cerebral cortices as well as in specific thalamic relay nuclei. Our data thus
+suggest a requirement of Hox genes beyond their role of patterning genes,
+providing a new dimension to their functional relevance in the central nervous
+system.
+
+PMID: 25527350  [PubMed - in process]
+
+
+5. Cancer Lett. 2014 Dec 1;355(1):159-67. doi: 10.1016/j.canlet.2014.08.044. Epub
+2014 Sep 1.
+
+Cyclin D1b splice variant promotes avß3-mediated adhesion and invasive migration 
+of breast cancer cells.
+
+Wu FH(1), Luo LQ(2), Liu Y(1), Zhan QX(1), Luo C(2), Luo J(2), Zhang GM(2), Feng 
+ZH(3).
+
+Author information: 
+(1)Department of Physiology, Hubei University of Chinese Medcine, Wuhan 430065,
+China. (2)Department of Biochemistry & Molecular Biology, Tongji Medical College,
+Huazhong University of Science & Technology, Wuhan 430030, China. (3)Department
+of Biochemistry & Molecular Biology, Tongji Medical College, Huazhong University 
+of Science & Technology, Wuhan 430030, China. Electronic address:
+fengzhg@public.wh.hb.cn.
+
+Cyclin D1b, a splice variant of the cell cycle regulator cyclin D1, holds
+oncogenic functions in human cancer. However, the mechanisms underlying cyclin
+D1b function remain poorly understood. Here we introduced wild-type cyclin D1a or
+cyclin D1b variant into non-metastatic MCF-7 cells. Our results show that ectopic
+expression of cyclin D1b promotes invasiveness of the cancer cells in a cyclin
+D1a independent manner. Specifically, cyclin D1b is found to modulate the
+expression of avß3, which characterizes the metastatic phenotype, and enhance
+tumor cell invasive potential in cooperating with HoxD3. Notably, cyclin D1b
+promotes avß3-mediated adhesion and invasive migration, which are associated with
+invasive potential of breast cancer cells. Further exploration indicates that
+cyclin D1b makes breast cancer cells more sensitive to toll-like receptor 4
+ligand released from damaged tumor cells. These findings reveal a role of cyclin 
+D1b as a possible mediator of avß3 transcription to promote tumor metastasis.
+
+Copyright © 2014 Elsevier Ireland Ltd. All rights reserved.
+
+PMID: 25193465  [PubMed - indexed for MEDLINE]
+
+
+6. J Cancer Res Clin Oncol. 2014 Nov;140(11):1849-61. doi:
+10.1007/s00432-014-1738-8. Epub 2014 Jun 18.
+
+Methylation of PITX2, HOXD3, RASSF1 and TDRD1 predicts biochemical recurrence in 
+high-risk prostate cancer.
+
+Litovkin K(1), Joniau S, Lerut E, Laenen A, Gevaert O, Spahn M, Kneitz B,
+Isebaert S, Haustermans K, Beullens M, Van Eynde A, Bollen M.
+
+Author information: 
+(1)Laboratory of Biosignaling and Therapeutics, Department of Cellular and
+Molecular Medicine, KU Leuven, Leuven, Belgium, k.litovkin@yahoo.com.
+
+PURPOSE: To explore differential methylation of HAAO, HOXD3, LGALS3, PITX2,
+RASSF1 and TDRD1 as a molecular tool to predict biochemical recurrence (BCR) in
+patients with high-risk prostate cancer (PCa).
+METHODS: A multiplexed nested methylation-specific PCR was applied to quantify
+promoter methylation of the selected markers in five cell lines, 42 benign
+prostatic hyperplasia (BPH) and 71 high-risk PCa tumor samples. Uni- and
+multivariate Cox regression models were used to assess the importance of the
+methylation level in predicting BCR.
+RESULTS: A PCa-specific methylation marker HAAO in combination with HOXD3 and a
+hypomethylation marker TDRD1 distinguished PCa samples (>90 % of tumor cells
+each) from BPH with a sensitivity of 0.99 and a specificity of 0.95. High
+methylation of PITX2, HOXD3 and RASSF1, as well as low methylation of TDRD1,
+appeared to be significantly associated with a higher risk for BCR (HR 3.96,
+3.44, 2.80 and 2.85, correspondingly) after correcting for established risk
+factors. When DNA methylation was treated as a continuous variable, a two-gene
+model PITX2 × 0.020677 + HOXD3 × 0.0043132 proved to be the best predictor of BCR
+(HR 4.85) compared with the individual markers. This finding was confirmed in an 
+independent set of 52 high-risk PCa tumor samples (HR 11.89).
+CONCLUSIONS: Differential promoter methylation of HOXD3, PITX2, RASSF1 and TDRD1 
+emerges as an independent predictor of BCR in high-risk PCa patients. A two-gene 
+continuous DNA methylation model "PITX2 × 0.020677 + HOXD3 × 0.0043132" is a
+better predictor of BCR compared with individual markers.
+
+PMID: 24938434  [PubMed - indexed for MEDLINE]
+
+
+7. Prostate. 2014 May;74(7):714-21.
+
+Correlation of HOXD3 promoter hypermethylation with clinical and pathologic
+features in screening prostate biopsies.
+
+Chen LN, Rubin RS, Othepa E, Cer C, Yun E, Agarwal RP, Collins BT, McGeagh K,
+Pahira J, Bandi G, Kowalczyk K, Kumar D, Dritschilo A, Collins SP, Bostwick DG,
+Lynch JH, Suy S.
+
+BACKGROUND: Molecular markers that can discriminate indolent cancers from
+aggressive ones may improve the management of prostate cancer and minimize
+unnecessary treatment.Aberrant DNA methylation is a common epigenetic event in
+cancers and HOXD3 promoter hypermethylation (H3PH) has been found in prostate
+cancer. Our objective was to evaluate the relationship between H3PH and
+clinicopathologic features in screening prostate biopsies.
+METHODS: Ninety-two patients who underwent a prostate biopsy at our institution
+between October 2011 and May 2012 were included in this study. The core with the 
+greatest percentage of the highest grade disease was analyzed for H3PH by
+methylation-specific PCR. Correlational analysis was used to analyze the
+relationship between H3PH and various clinical parameters. Chi-square analysis
+was used to compare H3PH status between benign and malignant disease.
+RESULTS: Of the 80 biopsies with HOXD3 methylation status assessable, 66 sets
+were confirmed to have cancer. In the 14 biopsies with benign disease there was
+minimal H3PH with the mean percentage of methylation reference (PMR) of 0.7%. In 
+contrast, the HOXD3 promoter was hypermethylated in 16.7% of all cancers and in
+50% of high risk tumors with an average PMR of 4.3% (P=0.008). H3PH was
+significantly correlated with age (P=0.013), Gleason score (P=0.031) and the
+maximum involvement of the biopsy core (P=0.035).
+CONCLUSIONS: H3PH is associated with clinicopathologic features. The data
+indicate that H3PH is more common in older higher risk patients. More research is
+needed to determine the role of this marker in optimizing management strategies
+in men with newly diagnosed prostate cancer.
+
+PMCID: PMC4285328
+PMID: 24847526  [PubMed - indexed for MEDLINE]
+
+
+8. Cancer Epidemiol Biomarkers Prev. 2014 Jul;23(7):1331-9. doi:
+10.1158/1055-9965.EPI-13-1000. Epub 2014 Apr 9.
+
+Validation study of genes with hypermethylated promoter regions associated with
+prostate cancer recurrence.
+
+Stott-Miller M(1), Zhao S(1), Wright JL(2), Kolb S(1), Bibikova M(3), Klotzle
+B(3), Ostrander EA(4), Fan JB(3), Feng Z(5), Stanford JL(6).
+
+Author information: 
+(1)Authors' Affiliations: Division of Public Health Sciences, Fred Hutchinson
+Cancer Research Center; (2)Authors' Affiliations: Division of Public Health
+Sciences, Fred Hutchinson Cancer Research Center; Department of Urology,
+University of Washington School of Medicine; Departments of. (3)Illumina, Inc.,
+San Diego, California; and. (4)Cancer Genetics Branch, National Human Genome
+Research Institute, NIH, Bethesda, Maryland. (5)Authors' Affiliations: Division
+of Public Health Sciences, Fred Hutchinson Cancer Research Center; Biostatistics 
+and. (6)Authors' Affiliations: Division of Public Health Sciences, Fred
+Hutchinson Cancer Research Center; Epidemiology, University of Washington,
+Seattle, Washington; jstanfor@fhcrc.org.
+
+BACKGROUND: One challenge in prostate cancer is distinguishing indolent from
+aggressive disease at diagnosis. DNA promoter hypermethylation is a frequent
+epigenetic event in prostate cancer, but few studies of DNA methylation in
+relation to features of more aggressive tumors or prostate cancer recurrence have
+been completed.
+METHODS: We used the Infinium HumanMethylation450 BeadChip to assess DNA
+methylation in tumor tissue from 407 patients with clinically localized prostate 
+cancer who underwent radical prostatectomy. Recurrence status was determined by
+follow-up patient surveys, medical record review, and linkage with the
+Surveillance, Epidemiology, and End Results (SEER) registry. The methylation
+status of 14 genes for which promoter hypermethylation was previously correlated 
+with advanced disease or biochemical recurrence was evaluated. Average
+methylation level for promoter region CpGs in patients who recurred compared with
+those with no evidence of recurrence was analyzed. For two genes with
+differential methylation, time to recurrence was examined.
+RESULTS: During an average follow-up of 11.7 years, 104 (26%) patients recurred. 
+Significant promoter hypermethylation in at least 50% of CpG sites in two genes, 
+ABHD9 and HOXD3, was found in tumors from patients who recurred compared with
+those without recurrence. Evidence was strongest for HOXD3 (lowest P = 9.46 ×
+10(-6)), with higher average methylation across promoter region CpGs associated
+with reduced recurrence-free survival (P = 2 × 10(-4)). DNA methylation profiles 
+did not differ by recurrence status for the other genes.
+CONCLUSIONS: These results validate the association between promoter
+hypermethylation of ADHB9 and HOXD3 and prostate cancer recurrence.
+IMPACT: Tumor DNA methylation profiling may help to distinguish patients with
+prostate cancer at higher risk for disease recurrence.
+
+©2014 American Association for Cancer Research.
+
+PMCID: PMC4082437
+PMID: 24718283  [PubMed - indexed for MEDLINE]
+
+
+9. PLoS One. 2014 Mar 20;9(3):e91334. doi: 10.1371/journal.pone.0091334. eCollection
+2014.
+
+Transcript analysis reveals a specific HOX signature associated with positional
+identity of human endothelial cells.
+
+Toshner M(1), Dunmore BJ(2), McKinney EF(2), Southwood M(3), Caruso P(2), Upton
+PD(2), Waters JP(2), Ormiston ML(2), Skepper JN(4), Nash G(5), Rana AA(2),
+Morrell NW(2).
+
+Author information: 
+(1)Department of Medicine, University of Cambridge, Addenbrooke's Hospital,
+Cambridge, United Kingdom; Papworth Hospital, Cambridge, United Kingdom.
+(2)Department of Medicine, University of Cambridge, Addenbrooke's Hospital,
+Cambridge, United Kingdom. (3)Papworth Hospital, Cambridge, United Kingdom.
+(4)Department of Physiology and Neuroscience, University of Cambridge, Cambridge,
+United Kingdom. (5)School of Clinical and Experimental Medicine, Birmingham
+University, Birmingham, United Kingdom.
+
+The endothelial cell has a remarkable ability for sub-specialisation, adapted to 
+the needs of a variety of vascular beds. The role of developmental programming
+versus the tissue contextual environment for this specialization is not well
+understood. Here we describe a hierarchy of expression of HOX genes associated
+with endothelial cell origin and location. In initial microarray studies,
+differential gene expression was examined in two endothelial cell lines: blood
+derived outgrowth endothelial cells (BOECs) and pulmonary artery endothelial
+cells. This suggested shared and differential patterns of HOX gene expression
+between the two endothelial lines. For example, this included a cluster on
+chromosome 2 of HOXD1, HOXD3, HOXD4, HOXD8 and HOXD9 that was expressed at a
+higher level in BOECs. Quantative PCR confirmed the higher expression of these
+HOXs in BOECs, a pattern that was shared by a variety of microvascular
+endothelial cell lines. Subsequently, we analysed publically available
+microarrays from a variety of adult cell and tissue types using the whole "HOX
+transcriptome" of all 39 HOX genes. Using hierarchical clustering analysis the
+HOX transcriptome was able to discriminate endothelial cells from 61 diverse
+human cell lines of various origins. In a separate publically available
+microarray dataset of 53 human endothelial cell lines, the HOX transcriptome
+additionally organized endothelial cells related to their organ or tissue of
+origin. Human tissue staining for HOXD8 and HOXD9 confirmed endothelial
+expression and also supported increased microvascular expression of these HOXs.
+Together these observations suggest a significant involvement of HOX genes in
+endothelial cell positional identity.
+
+PMCID: PMC3961275
+PMID: 24651450  [PubMed - indexed for MEDLINE]
+
+
+10. Sci Rep. 2014 Mar 21;4:4432. doi: 10.1038/srep04432.
+
+Novel multiplex MethyLight protocol for detection of DNA methylation in patient
+tissues and bodily fluids.
+
+Olkhov-Mitsel E(1), Zdravic D(1), Kron K(2), van der Kwast T(3), Fleshner N(4),
+Bapat B(5).
+
+Author information: 
+(1)1] Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, ON, 
+Canada [2] Department of Laboratory Medicine and Pathobiology, University of
+Toronto, Toronto, ON, Canada. (2)Ontario Cancer Institute, Princess Margaret
+Cancer Center-University Health Network, Toronto, ON, Canada. (3)1] Department of
+Laboratory Medicine and Pathobiology, University of Toronto, Toronto, ON, Canada 
+[2] Department of Pathology and Laboratory Medicine, University Health Network,
+Toronto, Ontario, Canada. (4)Department of Urology, University Health Network,
+Toronto, ON, Canada. (5)1] Lunenfeld-Tanenbaum Research Institute, Mount Sinai
+Hospital, Toronto, ON, Canada [2] Department of Laboratory Medicine and
+Pathobiology, University of Toronto, Toronto, ON, Canada [3] Department of
+Pathology and Laboratory Medicine, University Health Network, Toronto, Ontario,
+Canada.
+
+Aberrant DNA methylation is a hallmark of cancer and is an important potential
+biomarker. Particularly, combined analysis of a panel of hypermethylated genes
+shows the most promising clinical performance. Herein, we developed, optimized
+and standardized a multiplex MethyLight assay to simultaneously detect
+hypermethylation of APC, HOXD3 and TGFB2 in DNA extracted from prostate cancer
+(PCa) cell lines, archival tissue specimens, and urine samples. We established
+that the assay is capable of discriminating between fully methylated and
+unmethylated alleles with 100% specificity and demonstrated the assay as highly
+accurate and reproducible as the singleplex approach. For proof of principle, we 
+analyzed the methylation status of these genes in tissue and urine samples of PCa
+patients as well as PCa-free controls. These data show that the multiplex
+MethyLight assay offers a significant advantage when working with limited
+quantities of DNA and has potential applications in research and clinical
+settings.
+
+PMCID: PMC3961737
+PMID: 24651255  [PubMed - indexed for MEDLINE]
+
+
+11. J Pediatr Endocrinol Metab. 2014 Mar;27(3-4):317-22. doi: 10.1515/jpem-2013-0289.
+
+The absence of mutations in homeobox candidate genes HOXA3, HOXB3, HOXD3 and
+PITX2 in familial and sporadic thyroid hemiagenesis.
+
+Kizys MM, Nesi-França S, Cardoso MG, Harada MY, Melo MC, Chiamolera MI,
+Dias-da-Silva MR, Maciel RM.
+
+BACKGROUND: The molecular mechanisms leading to the formation of the two thyroid 
+symmetrical lobes, which are impaired in thyroid hemiagenesis (TH), are little
+known.
+OBJECTIVE: The aim of this work was to search for mutations in thyroid
+developmental candidate genes HOXA3, HOXB3, HOXD3 and PITX2.
+METHODS: Total DNA from peripheral blood was extracted and then the entire coding
+region of all these genes was amplified by polymerase chain reaction and direct
+sequencing.
+RESULTS: Herein we describe familial cases of TH in two generations (proband and 
+his father), in addition to other two sporadic cases. We have found polymorphisms
+in the HOXB3 (rs2229304), HOXD3 (rs34729309, rs1051929, c.543-199G>T and
+c.543-34G>A; and a new synonymous variant, NP_008829.3:p.314;C>G) and PITX2
+(c.45+76C>T) genes, but no deleterious mutations.
+CONCLUSION: These results suggest the existence of other left-right thyroid
+asymmetry candidate genes in humans such as classical Mendelian mutation-causing 
+disease, as well as other etiopathogenic mechanisms such as epigenetic
+modifications, especially for sporadic hemiagenesis.
+
+PMID: 24127533  [PubMed - indexed for MEDLINE]
+
+
+12. PLoS One. 2012;7(11):e48401. doi: 10.1371/journal.pone.0048401. Epub 2012 Nov 7.
+
+DNA hypomethylation affects cancer-related biological functions and genes
+relevant in neuroblastoma pathogenesis.
+
+Mayol G(1), Martín-Subero JI, Ríos J, Queiros A, Kulis M, Suñol M, Esteller M,
+Gómez S, Garcia I, de Torres C, Rodríguez E, Galván P, Mora J, Lavarino C.
+
+Author information: 
+(1)Developmental Tumor Biology Laboratory, Hospital Sant Joan de Déu, Fundación
+Sant Joan de Déu, Barcelona, Spain.
+
+Neuroblastoma (NB) pathogenesis has been reported to be closely associated with
+numerous genetic alterations. However, underlying DNA methylation patterns have
+not been extensively studied in this developmental malignancy. Here, we generated
+microarray-based DNA methylation profiles of primary neuroblastic tumors.
+Stringent supervised differential methylation analyses allowed us to identify
+epigenetic changes characteristic for NB tumors as well as for clinical and
+biological subtypes of NB. We observed that gene-specific loss of DNA methylation
+is more prevalent than promoter hypermethylation. Remarkably, such
+hypomethylation affected cancer-related biological functions and genes relevant
+to NB pathogenesis such as CCND1, SPRR3, BTC, EGF and FGF6. In particular,
+differential methylation in CCND1 affected mostly an evolutionary conserved
+functionally relevant 3' untranslated region, suggesting that hypomethylation
+outside promoter regions may play a role in NB pathogenesis. Hypermethylation
+targeted genes involved in cell development and proliferation such as RASSF1A,
+POU2F2 or HOXD3, among others. The results derived from this study provide new
+candidate epigenetic biomarkers associated with NB as well as insights into the
+molecular pathogenesis of this tumor, which involves a marked gene-specific
+hypomethylation.
+
+PMCID: PMC3492354
+PMID: 23144874  [PubMed - indexed for MEDLINE]
+
+
+13. Clin Exp Metastasis. 2013 Feb;30(2):155-63. doi: 10.1007/s10585-012-9524-y. Epub 
+2012 Aug 31.
+
+Expression of HOXD3 correlates with shorter survival in patients with invasive
+breast cancer.
+
+Shaoqiang C(1), Yue Z, Yang L, Hong Z, Lina Z, Da P, Qingyuan Z.
+
+Author information: 
+(1)Department of Breast Surgery, The Third Affiliated Hospital of Harbin Medical 
+University, Hapin Street 150, Harbin, China.
+
+Hox genes encode a family of homeodomain-containing transcription factors that
+determine cellular identity during development and which are also expressed in
+some types of cancer. The HOXD3 gene, a member of the Hox gene family, has been
+demonstrated to be expressed in several tumor cell lines, which exhibit enhanced 
+invasion and metastasis through coordinate expression of metastasis-associated
+factors. However, the clinical impact of HOXD3 in breast cancer remains unclear. 
+In the current study, we examined the expression of HOXD3 and integrin ß3 by
+immunohistochemical staining in patients with invasive breast cancer. We found
+that HOXD3 expression was significantly frequent in high histopathological grade 
+and hormone-receptor negative breast cancer patients. The expression of HOXD3 was
+closely associated with integrin ß3 expression. Furthermore, patients with high
+HOXD3 expression levels in their breast tumors had significantly shorter survival
+times than patients in which HOXD3 was weakly expressed in breast tumors.
+Univariate and multivariate analyses confirmed that increased HOXD3-expression
+was an independent and significant factor in predicting poor prognosis for
+patients with breast cancer. In conclusion, HOXD3 expression is a significant
+unfavorable prognostic factor for patients with invasive breast cancer and as
+such is a potentially useful prognostic marker for breast cancer.
+
+PMID: 22935821  [PubMed - indexed for MEDLINE]
+
+
+14. PLoS One. 2012;7(8):e40728. doi: 10.1371/journal.pone.0040728. Epub 2012 Aug 7.
+
+Functional dissection of HOXD cluster genes in regulation of neuroblastoma cell
+proliferation and differentiation.
+
+Zha Y(1), Ding E, Yang L, Mao L, Wang X, McCarthy BA, Huang S, Ding HF.
+
+Author information: 
+(1)Cancer Center and Department of Pathology, Medical College of Georgia, Georgia
+Health Sciences University, Augusta, Georgia, United States of America.
+
+Retinoic acid (RA) can induce growth arrest and neuronal differentiation of
+neuroblastoma cells and has been used in clinic for treatment of neuroblastoma.
+It has been reported that RA induces the expression of several HOXD genes in
+human neuroblastoma cell lines, but their roles in RA action are largely unknown.
+The HOXD cluster contains nine genes (HOXD1, HOXD3, HOXD4, and HOXD8-13) that are
+positioned sequentially from 3' to 5', with HOXD1 at the 3' end and HOXD13 the 5'
+end. Here we show that all HOXD genes are induced by RA in the human
+neuroblastoma BE(2)-C cells, with the genes located at the 3' end being activated
+generally earlier than those positioned more 5' within the cluster. Individual
+induction of HOXD8, HOXD9, HOXD10 or HOXD12 is sufficient to induce both growth
+arrest and neuronal differentiation, which is associated with downregulation of
+cell cycle-promoting genes and upregulation of neuronal differentiation genes.
+However, induction of other HOXD genes either has no effect (HOXD1) or has
+partial effects (HOXD3, HOXD4, HOXD11 and HOXD13) on BE(2)-C cell proliferation
+or differentiation. We further show that knockdown of HOXD8 expression, but not
+that of HOXD9 expression, significantly inhibits the differentiation-inducing
+activity of RA. HOXD8 directly activates the transcription of HOXC9, a key
+effector of RA action in neuroblastoma cells. These findings highlight the
+distinct functions of HOXD genes in RA induction of neuroblastoma cell
+differentiation.
+
+PMCID: PMC3413684
+PMID: 22879880  [PubMed - indexed for MEDLINE]
+
+
+15. Arthritis Rheum. 2012 Oct;64(10):3478-85. doi: 10.1002/art.34573.
+
+Methylation alterations of WT1 and homeobox genes in inflamed muscle biopsy
+samples from patients with untreated juvenile dermatomyositis suggest
+self-renewal capacity.
+
+Wang M(1), Xie H, Shrestha S, Sredni S, Morgan GA, Pachman LM.
+
+Author information: 
+(1)Children's Hospital of Chicago Research Center and Northwestern University
+Feinberg School of Medicine, Chicago, Illinois 60611, USA.
+
+OBJECTIVE: To determine the effect of methylation alteration in inflamed muscles 
+from children with juvenile dermatomyositis (DM) and other idiopathic
+inflammatory myopathies (IIMs).
+METHODS: Magnetic resonance imaging-directed diagnostic muscle biopsies yielded
+samples from 20 children with juvenile DM, which were used for genome-wide DNA
+methylation profiling, as were muscle biopsy samples from 4 healthy controls.
+Bisulfite treatment followed by pyrosequencing confirmed methylation status in
+juvenile DM and other IIMs. Immunohistochemistry defined localization and
+expression levels of WT1.
+RESULTS: Comparison of genome-wide DNA methylation profiling between juvenile DM 
+muscle and normal control muscle revealed 27 genes with a significant methylation
+difference between the groups. These genes were enriched with transcription
+factors and/or cell cycle regulators and were unrelated to duration of untreated 
+disease. Six homeobox genes were among them; ALX4, HOXC11, HOXD3, and HOXD4 were 
+hypomethylated, while EMX2 and HOXB1 were hypermethylated. WT1 was significantly 
+hypomethylated in juvenile DM (<U+0394>ß = -0.41, P < 0.001). Bisulfite pyrosequencing
+verification in samples from 56 patients with juvenile DM confirmed the
+methylation alterations of these genes. Similar methylation alterations were
+observed in juvenile polymyositis (n = 5) and other IIMs (n = 9). Concordant with
+the other findings, WT1 protein was increased in juvenile DM muscle, with average
+positive staining of 11.6%, but was undetectable in normal muscle (P < 0.001).
+CONCLUSION: These results suggest that affected muscles of children with juvenile
+DM and IIMs have the capacity to be repaired, and that homeobox and WT1 genes are
+epigenetically marked to facilitate this repair process, potentially suggesting
+new avenues of therapeutic intervention.
+
+Copyright © 2012 by the American College of Rheumatology.
+
+PMCID: PMC3462248
+PMID: 22674142  [PubMed - indexed for MEDLINE]
+
+
+16. Clin Cancer Res. 2012 May 15;18(10):2896-904. doi: 10.1158/1078-0432.CCR-11-2901.
+Epub 2012 Mar 27.
+
+Correlation of ERG expression and DNA methylation biomarkers with adverse
+clinicopathologic features of prostate cancer.
+
+Kron K(1), Liu L, Trudel D, Pethe V, Trachtenberg J, Fleshner N, Bapat B, van der
+Kwast T.
+
+Author information: 
+(1)Samuel Lunenfeld Research Institute, Mount Sinai Hospital, Toronto, Ontario,
+Canada.
+
+PURPOSE: Fusion of the TMPRSS2 gene with the ERG oncogene and aberrant DNA
+methylation patterns are commonly found in prostate cancer. The aim of this study
+was to analyze the relationship between ERG expression, DNA methylation of three 
+biomarkers, and clinicopathologic features of prostate cancer.
+EXPERIMENTAL DESIGN: Immunohistochemistry for ERG protein was conducted as a
+surrogate for TMPRSS2-ERG fusions. We analyzed methylation of CYP26A1, TBX15, and
+HOXD3 in 219 prostatectomy specimens by the quantitative MethyLight assay. DNA
+methylation was compared between ERG-positive and -negative cases and
+correlations of ERG and DNA methylation with clinicopathologic features were
+analyzed using <U+03C7>(2), Spearman correlation, logistic regression, and Cox
+regression.
+RESULTS: ERG expression varied according to Gleason pattern (almost absent in
+pattern II, highest in pattern III, and lower in pattern IV/V) and showed a
+strong positive correlation with methylation levels of CYP26A1, TBX15, and HOXD3 
+(Spearman P < 0.005). TBX15 and HOXD3 methylation were significantly associated
+with pathologic stage, Gleason score, and Gleason pattern (P = 0.015). In
+multivariate regression analysis, PSA, TBX15 high methylation, and HOXD3 high
+methylation were significantly associated with stage (P < 0.05), whereas ERG
+expression was negatively correlated with Gleason score (P = 0.003). In
+univariate time-to-recurrence analysis, a combination of HOXD3/TBX15 high
+methylation predicted recurrence in ERG-positive and -negative cases (P < 0.05).
+CONCLUSIONS: CYP26A1, TBX15, and HOXD3 are methylation markers of prostate cancer
+associated with ERG expression and clinicopathologic variables, suggesting that
+incorporation of these markers may be useful in a pre- and posttreatment clinical
+setting.
+
+©2012 AACR.
+
+PMID: 22452941  [PubMed - indexed for MEDLINE]
+
+
+17. Zhejiang Da Xue Xue Bao Yi Xue Ban. 2012 Jan;41(1):69-74.
+
+[Expression pattern of hoxd3 gene during early development of wild-type zebrafish
+embryos].
+
+[Article in Chinese]
+
+Shu LP(1), He ZX, Yao DJ, Ma JJ, Li T, Ye ZX.
+
+Author information: 
+(1)Tissue Engineering and Stem Cell Research Center, Guiyang Medical University, 
+Guiyang 550004, China. gyslp456@yahoo.com.cn
+
+OBJECTIVE: To investigate the expression pattern of hoxd3 gene during early
+embryogenesis and angiogenesis of wild-type zebrafish.
+METHODS: Total RNA was extracted from embryos of zebrafish in different
+development stages by trizol. The cDNA of hoxd3 gene was amplified by RT-PCR. The
+RT-PCR product was ligated to pCS(2+) vector by T4 DNA ligatase polymerase and
+sequenced. T3 RNA polymerase in vitro transcription system was used to obtain the
+probe of digoxin-labeled anti-sense mRNA of hoxd3 gene. The expression pattern of
+hoxd3 was detected by whole embryo in situ hybridization (WISH) with anti-sense
+mRNA probe.
+RESULTS: pCS(2+)-hoxd3 plasmid was successfully constructed, which was used to
+prepare anti-sense mRNA probe of hoxd3 in vitro. Expression pattern of hoxd3 gene
+was detected by WISH during zebrafish early embryogenesis and angiogenesis. It
+was observed that hoxd3 mRNA was expressed at the junction region of midbrain and
+hindbrain in wild-type zebrafish in embryos at 24 <U+224A>72h postfertilization(hpf).
+CONCLUSION: hoxd3 gene is mainly expressed in nervous system of wide-type
+zebrafish embryos.
+
+PMID: 22419467  [PubMed - indexed for MEDLINE]
+
+
+18. Breast Cancer Res Treat. 2012 Jun;133(3):853-63. doi: 10.1007/s10549-011-1844-0. 
+Epub 2011 Nov 1.
+
+Triggering of Toll-like receptor 4 on metastatic breast cancer cells promotes
+avß3-mediated adhesion and invasive migration.
+
+Liao SJ(1), Zhou YH, Yuan Y, Li D, Wu FH, Wang Q, Zhu JH, Yan B, Wei JJ, Zhang
+GM, Feng ZH.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, Tongji Medical College,
+Huazhong University of Science and Technology, Wuhan 430030, The People's
+Republic of China.
+
+Triggering of Toll-like receptor 4 (TLR4) on tumor cells has been found to
+promote tumor progression by promoting tumor cell proliferation and survival. So 
+far, however, the effect of TLR4 signaling on tumor metastasis has not been well 
+elucidated. Here, we report that triggering of TLR4 on metastatic breast cancer
+cells could reciprocally regulate the expression of avß3 and the expressions of
+TPM1 and maspin, and promote avß3-mediated adhesion and invasive migration of the
+cells. In metastatic breast cancer cells, TLR4 signaling increased the expression
+of integrin avß3 by activating NF-<U+03BA>B, resulting in the increased adhesion
+capacity of tumor cells to the ligand for avß3, and the increased polymerization 
+of actin and production of MMP-9 in tumor cells in response to ECM. HoxD3 was
+required for the up-regulation of av and ß3 expressions by NF-<U+03BA>B. Moreover, TLR4 
+signaling increased the expression of miR-21 in breast cancer cells by activating
+NF-<U+03BA>B. Accordingly, the expressions of TPM1 and maspin were decreased at protein 
+level, whereas the transcription activity of these genes was not influenced.
+Consistent with the promoting effect on avß3-mediated adhesion and invasive
+migration, TLR4 signaling promoted the arrest of metastatic breast cancer cells
+in circulation and following invasion. The effect of TLR4 signaling could be
+abrogated by inhibiting NF-<U+03BA>B. These findings suggest that metastatic breast
+cancer cells could acquire higher metastatic potential due to triggering of TLR4 
+and activation of NF-<U+03BA>B in the cells, and that both TLR4 and NF-<U+03BA>B could be
+therapeutic targets for preventing metastasis of breast cancer cells.
+
+PMID: 22042369  [PubMed - indexed for MEDLINE]
+
+
+19. PLoS One. 2011;6(9):e25215. doi: 10.1371/journal.pone.0025215. Epub 2011 Sep 20.
+
+Dopamine regulates angiogenesis in normal dermal wound tissues.
+
+Shome S(1), Rana T, Ganguly S, Basu B, Chaki Choudhury S, Sarkar C, Chakroborty
+D, Dasgupta PS, Basu S.
+
+Author information: 
+(1)Department of Signal Transduction and Biogenic Amines, Chittaranjan National
+Cancer Institute, Kolkata, India.
+
+Cutaneous wound healing is a normal physiological process and comprises different
+phases. Among these phases, angiogenesis or new blood vessel formation in wound
+tissue plays an important role. Skin is richly supplied by sympathetic nerves and
+evidences indicate the significant role of the sympathetic nervous system in
+cutaneous wound healing. Dopamine (DA) is an important catecholamine
+neurotransmitter released by the sympathetic nerve endings and recent studies
+have demonstrated the potent anti-angiogenic action of DA, which is mediated
+through its D(2) DA receptors. We therefore postulate that this endogenous
+catecholamine neurotransmitter may have a role in the neovascularization of
+dermal wound tissues and subsequently in the process of wound healing. In the
+present study, the therapeutic efficacy of D(2) DA receptor antagonist has been
+investigated for faster wound healing in a murine model of full thickness dermal 
+wound. Our results indicate that treatment with specific D(2) DA receptor
+antagonist significantly expedites the process of full thickness normal dermal
+wound healing in mice by inducing angiogenesis in wound tissues. The underlined
+mechanisms have been attributed to the up-regulation of homeobox transcription
+factor HoxD3 and its target a5ß1 integrin, which play a pivotal role in wound
+angiogenesis. Since D(2) DA receptor antagonists are already in clinical use for 
+other disorders, these results have significant translational value from the
+bench to the bedside for efficient wound management along with other conventional
+treatment modalities.
+
+PMCID: PMC3176820
+PMID: 21949884  [PubMed - indexed for MEDLINE]
+
+
+20. J Anat. 2011 Nov;219(5):589-600. doi: 10.1111/j.1469-7580.2011.01425.x. Epub 2011
+Sep 16.
+
+Enforced expression of the transcription factor HOXD3 under the control of the
+Wnt1 regulatory element modulates cell adhesion properties in the developing
+mouse neural tube.
+
+Taniguchi Y(1), Tanaka O, Sekiguchi M, Takekoshi S, Tsukamoto H, Kimura M, Imai
+K, Inoko H.
+
+Author information: 
+(1)Division of Basic Molecular Science and Molecular Medicine, School of
+Medicine, Tokai University, Isehara, Kanagawa, Japan.
+ytanigu@is.icc.u-tokai.ac.jp
+
+HOX genes expressed in a specific spatial and temporal manner play a crucial role
+in determining the body plan during the early development of vertebrates. In
+adult tissues, many HOX genes participate in normal hematopoiesis and
+carcinogenesis. We previously found that overexpression of the homeobox gene
+HOXD3 alters expression levels of cell adhesion molecules in human cancer cell
+lines. Here, we have investigated whether HOXD3 expression is related to the cell
+adhesion processes during mouse development focusing on dorsal midline cells or
+roof-plate cells of the neural tube and neural crest cells. We created transgenic
+mouse embryos, in which HOXD3 is expressed in the dorsal midline under the
+control of the Wnt1 regulatory element, and analyzed these embryos at embryonic
+day 10.5-13.5. In HOXD3-expressing transgenic embryos, although neural
+crest-derived structures in the trunk region appeared to be normal, striking
+abnormalities were found in the neural tube. In transgenic embryos expressing the
+lacZ gene under the control of the Wnt1 regulatory element, expression of lacZ
+was restricted to roof-plate cells within the neural tube. By contrast, in
+HOXD3-expressing transgenic embryos, expression of HOXD3 was not only located in 
+the dorsal neural tube, but also had spread inside the ventricular zone in more
+ventral regions of the neural tube. These findings show that the HOXD3 transgene 
+is expressed more broadly than the Wnt1 gene is normally expressed. Expression of
+both Wnt1 and Msx1, marker genes in the roof plate, was further extended
+ventrally in HOXD3-expressing embryos than in normal embryos, suggesting that
+expression of the HOXD3 transgene expands the roof plate ventrally within the
+neural tube. In the ventricular zone of HOXD3-expressing embryos at embryonic day
+10.5, we observed an increase in the number of mitotic cells and failure of
+interkinetic nuclear migration of progenitor cells. Furthermore, in
+HOXD3-expressing embryos at embryonic day 12.5, the ventricular zone, in which
+progenitor cells became more loosely connected to each other, was composed of a
+large number of cells that did not express N-cadherin. Our results indicate that 
+expression of HOXD3 is closely associated with modulation of cell-adhesive
+properties during embryonic development.
+
+© 2011 The Authors. Journal of Anatomy © 2011 Anatomical Society of Great Britain
+and Ireland.
+
+PMCID: PMC3222838
+PMID: 21929743  [PubMed - indexed for MEDLINE]
+
+
+21. Int J Cancer. 2011 Nov 15;129(10):2454-62. doi: 10.1002/ijc.25908. Epub 2011 Apr 
+13.
+
+Association of tissue promoter methylation levels of APC, TGFß2, HOXD3 and
+RASSF1A with prostate cancer progression.
+
+Liu L(1), Kron KJ, Pethe VV, Demetrashvili N, Nesbitt ME, Trachtenberg J, Ozcelik
+H, Fleshner NE, Briollais L, van der Kwast TH, Bapat B.
+
+Author information: 
+(1)Samuel Lunenfeld Research Institute, Mount Sinai Hospital, Toronto, ON,
+Canada.
+
+Aberrant promoter methylation is known to silence tumor-suppressor genes in
+prostate cancer (PCa). We correlated quantitative promoter methylation levels of 
+APC, TGFß2 and RASSF1A in 219 radical prostatectomies diagnosed between 1998 and 
+2001 with clinicopathological follow-up data available including Gleason Pattern 
+(GP), Gleason Score (GS) and pathological stage and explored their potential in
+predicting biochemical recurrence using univariate and multivariate analyses. We 
+observed that the average methylation levels of APC increased significantly from 
+GS = 6 to GS7, and pT2 to pT3a, and that of TGFß2 increased from GS = 6 to GS7,
+but not for RASSF1A. PCa samples were also stratified into high methylation (HM) 
+and low methylation (LM) groups based on the PMR scores of all cases analyzed for
+each marker. The HM frequency of APC was greater in pT3a than pT2, and in GS = 8 
+than GS = 6. The HM frequency also increased significantly from GP3 to GP4 for
+APC, TGFß2 and RASSF1A. APC methylation level was a significant predictor of
+biochemical recurrence in univariate analysis (p-value = 0.028). Finally, we
+combined methylation data of these three genes with the previously reported novel
+methylation biomarker HOXD3. Quantitative methylation assessment of a multiplex
+panel of markers, consisting of APC, HOXD3 and TGFß2, outperforms any single
+marker for the prediction of biochemical recurrence (p-value = 0.017). Our study 
+demonstrated that quantitative increase in promoter methylation levels of APC,
+HOXD3 and TGFß2 are associated with PCa progression.
+
+Copyright © 2011 UICC.
+
+PMID: 21207416  [PubMed - indexed for MEDLINE]
+
+
+22. Cell Adh Migr. 2011 Mar-Apr;5(2):133-41. Epub 2011 Mar 1.
+
+Temporal changes in Hox gene expression accompany endothelial cell
+differentiation of embryonic stem cells.
+
+Bahrami SB(1), Veiseh M, Dunn AA, Boudreau NJ.
+
+Author information: 
+(1)Department of Surgery; University of California-San Francisco, CA, USA.
+
+In pluripotent embryonic stem cells (ESCs), expression of the Hox master
+regulatory transcription factors that play essential roles in organogenesis,
+angiogenesis, and maintenance of differentiated tissues, is globally suppressed. 
+We investigated whether differentiation of endothelial cells (ECs) from mouse
+ESCs was accompanied by activation of distinct Hox gene expression profiles.
+Differentiation was observed within 3 days, as indicated by the appearance of
+cells expressing specific endothelial marker genes (Flk-1+ /VE-Cadherin+ ).
+Expression of HoxA3 and HoxD3, which drive adult endothelial cell invasion and
+angiogenesis, peaked at day 3 and declined thereafter, whereas expression of
+HoxA5 and HoxD10, which maintain a mature quiescent EC phenotype, was low at day 
+3, but increased over time. The temporal and reciprocal changes in HoxD3 and
+HoxA5 expression were accompanied by corresponding changes in expression of
+established downstream target genes including integrin ß3 and Thrombospondin-2.
+Our results indicate that differentiation and maturation of ECs derived from
+cultured ESCs mimic changes in Hox gene expression that accompany maturation of
+immature angiogenic endothelium into differentiated quiescent endothelium in
+vivo.
+
+PMCID: PMC3084978
+PMID: 21200152  [PubMed - indexed for MEDLINE]
+
+
+23. Am J Physiol Heart Circ Physiol. 2010 Sep;299(3):H837-46. doi:
+10.1152/ajpheart.00002.2010. Epub 2010 Jun 11.
+
+Environment and vascular bed origin influence differences in endothelial
+transcriptional profiles of coronary and iliac arteries.
+
+Burridge KA(1), Friedman MH.
+
+Author information: 
+(1)Department of Biomedical Engineering, Duke University, Durham, North Carolina 
+27708, USA.
+
+Atherosclerotic plaques tend to form in the major arteries at certain predictable
+locations. As these arteries vary in atherosusceptibility, interarterial
+differences in endothelial cell biology are of considerable interest. To explore 
+the origin of differences observed between typical atheroprone and
+atheroresistant arteries, we used DNA microarrays to compare gene expression
+profiles of harvested porcine coronary (CECs) and iliac artery endothelial cells 
+(IECs) grown in static culture out to passage 4. Fewer differences were observed 
+between the transcriptional profiles of CECs and IECs in culture compared with in
+vivo, suggesting that most differences observed in vivo were due to distinct
+environmental cues in the two arteries. One-class significance of microarrays
+revealed that most in vivo interarterial differences disappeared in culture, as
+fold differences after passaging were not significant for 85% of genes identified
+as differentially expressed in vivo at 5% false discovery rate. However, the
+three homeobox genes, HOXA9, HOXA10, and HOXD3, remained underexpressed in
+coronary endothelium for all passages by at least nine-, eight-, and twofold,
+respectively. Continued differential expression, despite removal from the in vivo
+environment, suggests that primarily heritable or epigenetic mechanism(s)
+influences transcription of these three genes. Quantitative real-time polymerase 
+chain reaction confirmed expression ratios for seven genes associated with
+atherogenesis and over- or underexpressed by threefold in CECs relative to IECs. 
+The present study provides evidence that both local environment and vascular bed 
+origin modulate gene expression in arterial endothelium. The transcriptional
+differences observed here may provide new insights into pathways responsible for 
+coronary artery susceptibility.
+
+PMCID: PMC2944485
+PMID: 20543076  [PubMed - indexed for MEDLINE]
+
+
+24. Lab Invest. 2010 Jul;90(7):1060-7. doi: 10.1038/labinvest.2010.57. Epub 2010 Mar 
+8.
+
+DNA methylation of HOXD3 as a marker of prostate cancer progression.
+
+Kron KJ(1), Liu L, Pethe VV, Demetrashvili N, Nesbitt ME, Trachtenberg J, Ozcelik
+H, Fleshner NE, Briollais L, van der Kwast TH, Bapat B.
+
+Author information: 
+(1)Samuel Lunenfeld Research Institute, Mount Sinai Hospital, Toronto, ON,
+Canada.
+
+DNA methylation in gene promoters causes gene silencing and is a common event in 
+cancer development and progression. The ability of aberrant methylation events to
+serve as diagnostic and prognostic markers is being appreciated for many cancers,
+including prostate cancer. Using quantitative MethyLight technology, we evaluated
+the relationship between HOXD3 methylation and clinicopathological parameters
+including biochemical recurrence, pathological stage, Gleason score (GS), and
+Gleason pattern in a series of 232 radical prostatectomies performed between 1998
+and 2001. HOXD3 methylation was significantly greater in GS 7 cancers vs GS < or 
+= 6 cancers (P-value <0.001) as well as pT3/pT4 vs pT2 cancers (P-value <0.001). 
+The proportion of cases with high methylation in GS 7 vs < or = GS 6 and pT3/pT4 
+vs pT2 were also significantly different (P-values=0.002 and 0.005,
+respectively). There were also significant increases in methylation from Gleason 
+pattern 2-3 and from pattern 3 to 4/5 (paired t-test P-values=0.01 and <0.001,
+respectively), whereas methylation from lymph node metastases was decreased when 
+compared with matched tumor tissue (P-value=0.029). HOXD3 methylation was
+associated with biochemical recurrence in univariate analysis (P-value=0.043) and
+showed evidence for interaction with pathological stage as a predictor variable
+in Cox regression analysis (P-value=0.028). The results indicate that HOXD3
+methylation distinguishes low-grade prostate cancers from intermediate and
+high-grade ones and may also have prognostic value when considered together with 
+pathological stage.
+
+PMID: 20212450  [PubMed - indexed for MEDLINE]
+
+
+25. BMC Cancer. 2009 Oct 14;9:363. doi: 10.1186/1471-2407-9-363.
+
+Establishment of canine hemangiosarcoma xenograft models expressing endothelial
+growth factors, their receptors, and angiogenesis-associated homeobox genes.
+
+Kodama A(1), Sakai H, Matsuura S, Murakami M, Murai A, Mori T, Maruo K, Kimura T,
+Masegi T, Yanai T.
+
+Author information: 
+(1)Laboratory of Veterinary Pathology, Department of Veterinary Medicine, Gifu
+University, Gifu, Japan. l5102402@edu.gifu-u.ac.jp
+
+BACKGROUND: Human hemangiosarcoma (HSA) tends to have a poor prognosis; its
+tumorigenesis has not been elucidated, as there is a dearth of HSA clinical
+specimens and no experimental model for HSA. However, the incidence of
+spontaneous HSA is relatively high in canines; therefore, canine HSA has been
+useful in the study of human HSA. Recently, the production of angiogenic growth
+factors and their receptors in human and canine HSA has been reported. Moreover, 
+the growth-factor environment of HSA is very similar to that of
+pathophysiological angiogenesis, which some homeobox genes regulate in the
+transcription of angiogenic molecules. In the present study, we established 6
+xenograft canine HSA tumors and detected the expression of growth factors, their 
+receptors, and angiogenic homeobox genes.
+METHODS: Six primary canine HSAs were xenografted to nude mice subcutaneously and
+serially transplanted. Subsequently, the expressions of vascular endothelial
+growth factor (VEGF)-A, basic fibroblast growth factors (bFGF), flt-1 and flk-1
+(receptors of VEGF-A), FGFR-1, and angiogenic homeobox genes HoxA9, HoxB3, HoxB7,
+HoxD3, Pbx1, and Meis1 were investigated in original and xenograft tumors by
+histopathology, immunostaining, and reverse transcription polymerase chain
+reaction (RT-PCR), using canine-specific primer sets.
+RESULTS: Histopathologically, xenograft tumors comprised a proliferation of
+neoplastic cells that were varied in shape, from spindle-shaped and polygonal to 
+ovoid; some vascular-like structures and vascular clefts of channels were
+observed, similar to those in the original tumors. The expression of endothelial 
+markers (CD31 and vWF) was detected in xenograft tumors by immunohistochemistry
+and RT-PCR. Moreover, the expression of VEGF-A, bFGF, flt-1, flk-1, FGFR-1,
+HoxA9, HoxB3, HoxB7, HoxD3, Pbx1, and Meis1 was detected in xenograft tumors.
+Interestingly, expressions of bFGF tended to be higher in 3 of the xenograft HSA 
+tumors than in the other tumors.
+CONCLUSION: We established 6 xenograft canine HSA tumors in nude mice and found
+that the expressions of angiogenic growth factors and their receptors in
+xenograft HSAs were similar to those in spontaneous HSA. Furthermore, we detected
+the expression of angiogenic homeobox genes; therefore, xenograft models may be
+useful in analyzing malignant growth in HSA.
+
+PMCID: PMC2768746
+PMID: 19825192  [PubMed - indexed for MEDLINE]
+
+
+26. J Comp Pathol. 2009 Aug-Oct;141(2-3):199-203. doi: 10.1016/j.jcpa.2009.04.004.
+Epub 2009 Jun 7.
+
+Immunohistochemical demonstration of angiogenesis-associated homeobox proteins in
+canine vascular tumours.
+
+Kodama A(1), Sakai H, Murakami M, Murai A, Mori T, Maruo K, Yanai T, Masegi T.
+
+Author information: 
+(1)Laboratory of Veterinary Pathology, Department of Veterinary Medicine, Faculty
+of Applied Biological Sciences, Gifu University, 1-1 Yanagido, Gifu 501-1193,
+Japan.
+
+Angiogenic homeobox genes regulate the behaviour of endothelial cells (ECs)
+during angiogenesis, so the aim of this study was to determine whether expression
+of these genes may be a determinant of malignancy in canine haemangiosarcoma
+(HSA). Homeobox proteins were evaluated immunohistochemically in tissue samples
+from canine HSAs (n=78), haemangiomas (HAs; n=30) and samples of granulation
+tissue (n=8). Active ECs in granulation tissue were positively labelled by
+antisera specific for HoxA9, HoxB3, HoxD3, HoxB7, Pbx1 and Meis1. Quiescent ECs
+in granulation tissue did not express HoxD3 and Pbx1. There were significantly
+more neoplastic cells positively labelled for HoxA9, HoxB3, HoxD3 and Pbx1 in HSA
+compared with HA. Almost all tumours were positive for HoxB7 and Meis1. HoxB3,
+HoxD3, Pbx1 and Meis1 proteins were detected in 80-90% of the HSAs, but in <20%
+of the HAs. Overall, homeobox protein expression in HSA appears to have a
+phenotype similar to that of active ECs in angiogenesis. The expression of
+homeobox genes associated with angiogenesis might be associated with the
+malignant growth of HSA.
+
+PMID: 19505696  [PubMed - indexed for MEDLINE]
+
+
+27. IUBMB Life. 2009 Jun;61(6):670-8. doi: 10.1002/iub.212.
+
+p38 mitogen-activated protein kinase-dependent regulation of SRC-3 and
+involvement in retinoic acid receptor alpha signaling in embryonic cortical
+neurons.
+
+Chai Z(1), Yang L, Yu B, He Q, Li WI, Zhou R, Zhang T, Zheng X, Xie J.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, Shanxi Medical University,
+Taiyuan, China.
+
+Appropriate retinoic acid (RA) signaling is essential in the development of the
+central nervous system (CNS). Previous studies have shown that RA activates p38
+mitogen-activated protein kinase (MAPK) and steroid receptor coactivator (SRC)-3 
+in tumor cells in vitro. It is unknown whether the activation of p38 MAPK and
+SRC-3 is involved in RA-mediated CNS development. The current study investigated 
+a possible role for p38 MAPK in the regulation of (SRC)-3
+phosphorylation/degradation and in retinoic acid receptor (RAR)alpha signaling in
+mouse fetal cortical neurons treated with all-trans retinoic acid (ATRA). Results
+showed that ATRA treatment rapidly activated p38 MAPK, which in turn resulted in 
+phosphorylation with subsequent degradation of SRC-3. Inhibition of p38 MAPK by
+SB203580 blocked the phosphorylation and degradation of SRC-3. The binding of
+RARalpha to retinoic acid responsive element (RARE) was rapidly increased in
+neurons following ATRA treatment. Inhibition of p38 MAPK significantly enhanced
+the RARalpha-RARE binding activity, but had no effects on ATRA-induced decrease
+of RARalpha. Treatment of the fetal cortical neurons with ATRA significantly
+increased the expression of HOXd3, a retinoid-target gene. The increase of HOXd3 
+expression was augmented when p38 MAPK activity was inhibited by a specific
+inhibitor, SB203580. Results suggest that ATRA activates the p38 MAPK signal
+pathway with resultant degradation of SRC-3, and that p38 MAPK is involved in the
+regulation of RARalpha-mediated signaling in developing neurons.
+
+(c) 2009 IUBMB.
+
+PMID: 19472184  [PubMed - indexed for MEDLINE]
+
+
+28. PLoS One. 2009;4(3):e4830. doi: 10.1371/journal.pone.0004830. Epub 2009 Mar 13.
+
+Discovery of novel hypermethylated genes in prostate cancer using genomic CpG
+island microarrays.
+
+Kron K(1), Pethe V, Briollais L, Sadikovic B, Ozcelik H, Sunderji A,
+Venkateswaran V, Pinthus J, Fleshner N, van der Kwast T, Bapat B.
+
+Author information: 
+(1)Samuel Lunenfeld Research Institute, Mount Sinai Hospital, Toronto, Ontario,
+Canada.
+
+BACKGROUND: Promoter and 5' end methylation regulation of tumour suppressor genes
+is a common feature of many cancers. Such occurrences often lead to the silencing
+of these key genes and thus they may contribute to the development of cancer,
+including prostate cancer.
+METHODOLOGY/PRINCIPAL FINDINGS: In order to identify methylation changes in
+prostate cancer, we performed a genome-wide analysis of DNA methylation using
+Agilent human CpG island arrays. Using computational and gene-specific validation
+approaches we have identified a large number of potential epigenetic biomarkers
+of prostate cancer. Further validation of candidate genes on a separate cohort of
+low and high grade prostate cancers by quantitative MethyLight analysis has
+allowed us to confirm DNA hypermethylation of HOXD3 and BMP7, two genes that may 
+play a role in the development of high grade tumours. We also show that promoter 
+hypermethylation is responsible for downregulated expression of these genes in
+the DU-145 PCa cell line.
+CONCLUSIONS/SIGNIFICANCE: This study identifies novel epigenetic biomarkers of
+prostate cancer and prostate cancer progression, and provides a global assessment
+of DNA methylation in prostate cancer.
+
+PMCID: PMC2653233
+PMID: 19283074  [PubMed - indexed for MEDLINE]
+
+
+29. Proc Natl Acad Sci U S A. 2009 Feb 17;106(7):2441-6. doi:
+10.1073/pnas.0813002106. Epub 2009 Feb 3.
+
+Systems-level analysis of cell-specific AQP2 gene expression in renal collecting 
+duct.
+
+Yu MJ(1), Miller RL, Uawithya P, Rinschen MM, Khositseth S, Braucht DW, Chou CL, 
+Pisitkun T, Nelson RD, Knepper MA.
+
+Author information: 
+(1)Laboratory of Kidney and Electrolyte Metabolism, National Heart, Lung, and
+Blood Institute, National Institutes of Health, Bethesda, MD 20892, USA.
+
+We used a systems biology-based approach to investigate the basis of
+cell-specific expression of the water channel aquaporin-2 (AQP2) in the renal
+collecting duct. Computational analysis of the 5'-flanking region of the AQP2
+gene (Genomatix) revealed 2 conserved clusters of putative transcriptional
+regulator (TR) binding elements (BEs) centered at -513 bp (corresponding to the
+SF1, NFAT, and FKHD TR families) and -224 bp (corresponding to the AP2, SRF,
+CREB, GATA, and HOX TR families). Three other conserved motifs corresponded to
+the ETS, EBOX, and RXR TR families. To identify TRs that potentially bind to
+these BEs, we carried out mRNA profiling (Affymetrix) in mouse mpkCCDc14
+collecting duct cells, revealing expression of 25 TRs that are also expressed in 
+native inner medullary collecting duct. One showed a significant positive
+correlation with AQP2 mRNA abundance among mpkCCD subclones (Ets1), and 2 showed 
+a significant negative correlation (Elf1 and an orphan nuclear receptor Nr1h2).
+Transcriptomic profiling in native proximal tubules (PT), medullary thick
+ascending limbs (MTAL), and IMCDs from kidney identified 14 TRs (including Ets1
+and HoxD3) expressed in the IMCD but not PT or MTAL (candidate AQP2 enhancer
+roles), and 5 TRs (including HoxA5, HoxA9 and HoxA10) expressed in PT and MTAL
+but not in IMCD (candidate AQP2 repressor roles). In luciferase reporter assays, 
+overexpression of 3 ETS family TRs transactivated the mouse proximal AQP2
+promoter. The results implicate ETS family TRs in cell-specific expression of
+AQP2 and point to HOX, RXR, CREB and GATA family TRs as playing likely additional
+roles.
+
+PMCID: PMC2650175
+PMID: 19190182  [PubMed - indexed for MEDLINE]
+
+
+30. J Surg Res. 2008 Jul;148(1):45-8. doi: 10.1016/j.jss.2008.02.053. Epub 2008 Mar
+25.
+
+Homeobox genes Hoxd3 and Hoxd8 are differentially expressed in fetal mouse
+excisional wounds.
+
+Jain K(1), Sykes V, Kordula T, Lanning D.
+
+Author information: 
+(1)Division of Pediatric Surgery, Department of Surgery, Virginia Commonwealth
+University Health System, Richmond, Virginia 23298, USA.
+
+BACKGROUND: Cell signaling pathways underlying wound repair are under extensive
+investigation; however, there is still a poor understanding of the mechanisms
+orchestrating these processes. Hox genes, which are a subgroup of homeobox genes,
+encode for a family of transcription factors that play a critical role in tissue 
+migration and cell differentiation during embryogenesis and may also serve as
+master regulatory genes of postnatal wound repair. We have developed a fetal
+excisional wound healing model whereby mid-gestational wounds heal in a
+regenerative manner while late-gestational wounds display scar formation. We
+theorize that Hoxd3 and Hoxd8 will be differentially expressed in mid- and
+late-gestational wounds compared with normal skin.
+MATERIALS AND METHODS: Pregnant FVB mice underwent hysterotomy at mid (E15)- or
+late (E18)-gestational time points, and 3-mm excisional wounds were made on the
+dorsum of each fetus. Wound samples (w) were collected at the site of injury as
+well as near wound normal skin (nwc) on the same fetus. Control (c) skin samples 
+were also obtained from unwounded adjacent fetuses. Samples were harvested at 3
+and 6 h and real-time polymerase chain reaction was performed for Hoxd3 and Hoxd8
+and normalized to glyceraldehyde-3-phosphate dehydrogenase. Data were analyzed by
+analysis of variance with statistical significance of P < 0.05.
+RESULTS: Hoxd3 levels were increased in all of the mid-gestational groups, with a
+significant increase at 3 h compared with late-gestational control groups. In the
+3-h time group, Hoxd8 is increased in mid-gestational wounds compared with
+late-gestational control skin. This is repeated in the 6-h time group, where
+Hoxd8 is increased in mid-gestational wounds compared with all groups. Also,
+Hoxd8 in the mid-gestational near wound controls is significantly greater than
+that in the late-gestational near wound control and control groups.
+CONCLUSIONS: These data suggest that Hoxd3 is constitutively expressed in the
+skin of mid-gestational mice. However, Hoxd8 expression is increased in the
+mid-gestational wounds compared with normal control groups and late gestational
+wounds, suggesting that it may play a role in scarless wound repair.
+
+PMID: 18570930  [PubMed - indexed for MEDLINE]
+
+
+31. Cir Pediatr. 2007 Oct;20(4):223-8.
+
+[The etiology of congenital diaphragmatic hernia and esophageal atresia: the Hox 
+genes].
+
+[Article in Spanish]
+
+Martínez L(1), Martínez-Calonge W, Matesanz R, Fernández-Dumont V, Pederiva F,
+Vallejo MT, Salinas J, Tovar JA.
+
+Author information: 
+(1)Departamento de Cirugía Pediátrica, Hospital Universitario La Paz, Madrid.
+lmartinezm.hulp@salud.madrid.org
+
+BACKGROUND: Prenatal administration of adriamycin or nitrofen to pregnant mice
+produce in the embryos, respectively, esophageal atresia/VACTERL association (EA)
+or congenital diaphragmatic hernia (CDH). Various genes and signalling pathways
+like sonic hedgehog, Gli family, retinoic acid and homeotic genes have been
+pointed out in the origin of these malformations. Hox genes are master regulatory
+genes involved in embryo segmentation and other main development processes.
+Hoxa3, Hoxb3, Hoxc3, Hoxc4 and Hoxa5 knock-out mice show cardiac, tracheal, lung 
+and diaphragmatic malformations, EA and phenotypes that resemble that of VACTERL 
+syndrome. We present herein some of our findings in the expression of these genes
+in both experimental models.
+MATERIAL AND METHODS: Pregnant mice were exposed either to 4 mg/kg of adriamycin 
+or vehicle on embryonic days 7,5 and 8,5; embryos were recovered at four
+endpoints (E13 to 16). On the other hand, nitrofen was given to pregnant mice on 
+embryonic day 8th and embryos were recovered at E14, E16 and E19. The embryos or,
+separately, their lungs and hearts, were randomly processed for
+immunohistochemical or molecular biology studies (RT-PCR). We used antibodies for
+Hoxa3, Hoxb3 and Hoxd3 proteins and specific primers for Hoxa3, Hoxa5, Hoxb3,
+Hoxb5, Hoxc4 and Hoxd3 genes.
+RESULTS: EA: Upon immunohistochemistry, adriamycin-exposed embryos showed a
+severe decrease in expression of Hoxa3, Hoxb3 and Hoxb3 proteins in heart, skin, 
+foregut but not in the heart. RT-PCR studies showed a statistically significant
+decrease of the four genes studied in the lungs of OA mice when compared to
+controls. CDH: Upon RT-PCR assessment the expression of Hoxa5 and Hoxb3 were
+higher in nitrofen-exposed mice than in controls on E14 and E19 and weaker on
+E16. As regards immunohistochemical localization, expression of the three genes
+was similar in nitrofen and control animals.
+CONCLUSIONS: Both experimental models exhibit an alteration in the expression of 
+several proximal Hox genes, specially in lung and car- diac tissues. The
+malformations in these organs associated with CDH and EA could be in part caused 
+by these alterations. Due to their specific participation in lung and foregut
+morphogenesis, their study could let us to better understand the mechanisms of
+CDH and EA.
+
+PMID: 18351244  [PubMed - indexed for MEDLINE]
+
+
+32. Dev Biol. 2008 Apr 15;316(2):171-90. doi: 10.1016/j.ydbio.2007.10.018. Epub 2007 
+Oct 23.
+
+A nutritional model of late embryonic vitamin A deficiency produces defects in
+organogenesis at a high penetrance and reveals new roles for the vitamin in
+skeletal development.
+
+See AW(1), Kaiser ME, White JC, Clagett-Dame M.
+
+Author information: 
+(1)Interdepartmental Graduate Program in Nutritional Sciences, University of
+Wisconsin-Madison, Madison, WI 53706-1544, USA.
+
+Vitamin A plays an essential role in vertebrate embryogenesis. In the present
+study, pregnant vitamin A-deficient (VAD) rats were maintained during early
+pregnancy on the short half-life vitamin A metabolite, all-trans retinoic acid
+(atRA), in an amount sufficient to support normal development to E10.5, with a
+higher level of atRA (250 microg atRA/g diet) provided from embryonic day (E)
+8.5-10.5 to prevent mid-gestational resorption. When limiting amounts of atRA
+(1.5 or 12 microg/g diet) were provided after E10.5, a highly reproducible and
+penetrant state of late fetal vitamin A deficiency (late VAD) was induced in the 
+organs of developing fetuses. In addition, late VAD fetuses displayed both
+anteriorization of cervical regions and novel posteriorization events at the
+thoracic and sacral levels of the skeleton, and showed sternal and pelvic
+malformations not previously observed in early VAD or genetic models. The
+expression of several Hox genes (Hoxd3 and Hoxb4) was altered in late VAD
+embryos, with a reduction in Hoxd3 noted as early as 1 day after instituting
+deficiency. All late VAD-induced malformations were prevented by the addition of 
+retinol starting at E10.5, whereas provision of a high level of atRA throughout
+pregnancy improved but could not completely rescue the development of all organ
+systems. This work defines a nutritional model in which vitamin A deficiency can 
+be induced during fetal development, and reveals new functions for the vitamin in
+the development of the axial and appendicular skeleton.
+
+PMID: 18321479  [PubMed - indexed for MEDLINE]
+
+
+33. Pediatr Surg Int. 2007 May;23(5):419-24.
+
+Expression of homeotic genes Hoxa3, Hoxb3, Hoxd3 and Hoxc4 is decreased in the
+lungs but not in the hearts of adriamycin-exposed mice.
+
+Calonge WM(1), Martinez L, Lacadena J, Fernandez-Dumont V, Matesanz R, Tovar JA.
+
+Author information: 
+(1)Department of Pediatric Surgery, Hospital Universitario La Paz, P. de la
+Castellana 261, 28046 Madrid, Spain.
+
+Exposure of rat and mouse embryos to adriamycin (doxorubicin chlorhydrate)
+induces esophageal atresia (EA) and VACTERL association. Sonic hedgehog (Shh) and
+Gli2/Gli3 pathways are involved in these conditions and knockout mice for
+homeotic Hox genes Hoxa3, Hoxb3, Hoxc3, Hoxc4 and Hoxa5 show phenotypes with some
+of the associated VACTERL features. This study aims at evaluating the possible
+influence of Hoxa3, Hoxb3, Hoxd3 and Hoxc4 as upstream regulators of this complex
+signalling. Pregnant mice were exposed either to 4 mg/kg of adriamycin (EA group)
+or vehicle (controls) on embryonic days 7.5 and 8.5. Embryos were recovered at
+four endpoints (E12.5-E15.5) and randomly assigned for immunohistochemical or
+molecular biology studies. Lungs and hearts were separately harvested and
+processed for Hoxa3, Hoxb3, Hoxd3 and Hoxc4 quantitative RT-PCR measurements.
+Antibodies for Hoxa3, Hoxb3 and Hoxd3 proteins were used for immunohistochemical 
+studies. RT-PCR studies showed a drastic and statistically significant decrease
+of the four genes in the lungs of EA mice when compared to controls, with a
+slight recovery from E15.5. Hearts of both groups showed a similar expression of 
+all the genes throughout gestation. Control embryos expressed the hox3 paralogous
+genes in heart, skin, foregut derivatives and their surrounding mesoderm through 
+E12.5-E15.5 whereas adriamycin-exposed embryos showed a severe decrease in
+expression of these three proteins in the same tissues but not in the heart.
+Adriamycin drastically reduced the expression of Hoxa3, Hoxb3, Hoxd3 and Hoxc4 in
+mice embryonic lungs. Their expression in the heart did not seem to be influenced
+by adriamycin in this experimental setting.
+
+PMID: 17211587  [PubMed - indexed for MEDLINE]
+
+
+34. Clin Exp Metastasis. 2006;23(7-8):381-90. Epub 2006 Dec 23.
+
+HOXD3-overexpression increases integrin alpha v beta 3 expression and deprives
+E-cadherin while it enhances cell motility in A549 cells.
+
+Ohta H(1), Hamada J, Tada M, Aoyama T, Furuuchi K, Takahashi Y, Totsuka Y,
+Moriuchi T.
+
+Author information: 
+(1)Division of Cancer-Related Genes, Institute for Genetic Medicine, Hokkaido
+University, Kita-15, Nishi-7, Kita-ku, Sapporo 060-0815, Japan.
+
+We have previously shown that transduction of HOXD3, one of homeobox genes, into 
+human lung cancer A549 cells enhances cell motility, invasion and metastasis. In 
+the present study, we examined the roles of integrin beta3 which was up-regulated
+by HOXD3-overexpression in the HOXD3-induced motility of A549 cells. We first
+established integrin beta3-transfectants and compared their motile activity to
+those of the HOXD3-transfected, control-transfected and parental cells by three
+different assays. The integrin beta3-transfectants as well as the
+HOXD3-transfectants formed heterodimer with integrin alphav subunit, and showed
+highly motile activities assessed by haptotaxis or phagokinetic track assay
+compared to the control transfectants or parental cells. In vitro wound-healing
+assay revealed that migratory activities were graded as the HOXD3-transfectants >
+the integrin beta3-transfectants > the control transfectants or parental cells.
+E-cadherin was expressed in the integrin beta3-transfectants but not expressed in
+the HOXD3-transfectants. An addition of function-blocking antibody to E-cadherin 
+into the wound-healing assay promoted the migratory activity of the integrin
+beta3-transfectants, suggesting that E-cadherin prevented the cells from
+dissociating from the wound edges. These results indicate that increased
+expression of integrin alphav beta3 and loss of E-cadherin by
+HOXD3-overexpression are responsible for the enhanced motility and dissociation.
+
+PMID: 17187229  [PubMed - indexed for MEDLINE]
+
+
+35. Blood. 2007 Feb 15;109(4):1472-8. Epub 2006 Oct 17.
+
+The histone methyltransferase MLL is an upstream regulator of endothelial-cell
+sprout formation.
+
+Diehl F(1), Rössig L, Zeiher AM, Dimmeler S, Urbich C.
+
+Author information: 
+(1)Molecular Cardiology, Department of Internal Medicine III, University of
+Frankfurt, Germany.
+
+Posttranslational histone modification by acetylation or methylation regulates
+gene expression. Here, we investigated the role of the histone lysine
+methyltransferase MLL for angiogenic functions in human umbilical vein
+endothelial cells. Suppression of MLL expression by siRNA or incubation with the 
+pharmacologic methyltransferase inhibitor 5'-deoxy-5'-(methylthio)adenosine
+significantly decreased endothelial-cell migration and capillary sprout
+formation, indicating that methyltransferase activity is required for
+proangiogenic endothelial-cell functions. Because the expression of homeodomain
+transcription factors (Hox) is regulated by MLL, we elucidated the role of Hox
+gene expression. MLL silencing was associated with reduced mRNA and protein
+expression of HoxA9 and HoxD3, whereas HoxB3, HoxB4, HoxB5, and HoxB9 were not
+altered. Overexpression of HoxA9 or HoxD3 partially compensated for impaired
+migration in MLL siRNA-transfected endothelial cells, suggesting that HoxA9 and
+HoxD3 both contribute to MLL-dependent migration. As a potential underlying
+mechanism, MLL siRNA down-regulated mRNA and protein levels of the
+HoxA9-dependent axon guidance factor EphB4. In contrast, MLL knockdown effects on
+capillary sprouting were not rescued by HoxA9 or HoxD3 overexpression, indicating
+that MLL affects additional targets required for 3-dimensional sprout formation. 
+We conclude that MLL regulates endothelial-cell migration via HoxA9 and EphB4,
+whereas sprout formation requires MLL-dependent signals beyond HoxA9 and HoxD3.
+
+PMID: 17047146  [PubMed - indexed for MEDLINE]
+
+
+36. Cancer Res. 2006 Aug 15;66(16):7939-47.
+
+MIRA-assisted microarray analysis, a new technology for the determination of DNA 
+methylation patterns, identifies frequent methylation of homeodomain-containing
+genes in lung cancer cells.
+
+Rauch T(1), Li H, Wu X, Pfeifer GP.
+
+Author information: 
+(1)Division of Biology, Beckman Research Institute of the City of Hope, Duarte,
+CA 91010, USA.
+
+We present a straightforward and comprehensive approach for DNA methylation
+analysis in mammalian genomes. The methylated-CpG island recovery assay (MIRA),
+which is based on the high affinity of the MBD2/MBD3L1 complex for methylated
+DNA, has been used to detect cell type-dependent differences in DNA methylation
+on a microarray platform. The procedure has been verified and applied to identify
+a series of novel candidate lung tumor suppressor genes and potential DNA
+methylation markers that contain methylated CpG islands. One gene of particular
+interest was DLEC1, located at a commonly deleted area on chromosome 3p22-p21.3, 
+which was frequently methylated in primary lung cancers and melanomas. Among the 
+identified methylated genes, homeodomain-containing genes were unusually frequent
+(11 of the top 50 hits) and were targeted on different chromosomes. These genes
+included LHX2, LHX4, PAX7, HOXB13, LBX1, SIX2, HOXD3, DLX1, HOXD1, ONECUT2, and
+PAX9. The data show that MIRA-assisted microarray analysis has a low
+false-positive rate and has the capacity to catalogue methylated CpG islands on a
+genome-wide basis. The results support the hypothesis that cancer-associated DNA 
+methylation events do not occur randomly throughout the genome but at least some 
+are targeted by specific mechanisms.
+
+PMID: 16912168  [PubMed - indexed for MEDLINE]
+
+
+37. Dev Biol. 2004 Dec 15;276(2):301-12.
+
+Abnormalities of caudal pharyngeal pouch development in Pbx1 knockout mice mimic 
+loss of Hox3 paralogs.
+
+Manley NR(1), Selleri L, Brendolan A, Gordon J, Cleary ML.
+
+Author information: 
+(1)Department of Genetics, University of Georgia, Life Sciences, B 420A, Athens, 
+GA 30602, USA. nmanley@uga.edu
+
+Pbx1 is a TALE-class homeodomain protein that functions in part as a cofactor for
+Hox class homeodomain proteins. Previous analysis of the in vivo functions of
+Pbx1 by targeted mutagenesis in mice has revealed roles for this gene in skeletal
+patterning and development and in the organogenesis of multiple systems. Both RNA
+expression and protein localization studies have suggested a possible role for
+Pbx1 in pharyngeal region development. As several Hox mutants have distinct
+phenotypes in this region, we investigated the potential requirement for Pbx1 in 
+the development of the pharyngeal arches and pouches and their organ derivatives.
+Pbx1 homozygous mutants exhibited delayed or absent formation of the caudal
+pharyngeal pouches, and disorganized patterning of the third pharyngeal pouch.
+Formation of the third pouch-derived thymus/parathyroid primordia was also
+affected, with absent or hypoplastic primordia, delayed expression of
+organ-specific differentiation markers, and reduced proliferation of thymic
+epithelium. The fourth pouch and the fourth pouch-derived ultimobranchial bodies 
+were usually absent. These phenotypes are similar to those previously reported in
+Hoxa3(-/-) single mutants and Hoxa1(-/-);Hoxb1(-/-) or
+Hoxa3(+/-);Hoxb3(-/-);Hoxd3(-/-) compound mutants, suggesting that Pbx1 acts
+together with multiple Hox proteins in the development of the caudal pharyngeal
+region. However, some aspects of the Pbx1 mutant phenotype included specific
+defects that were less severe than those found in known Hox mutant mice,
+suggesting that some functions of Hox proteins in this region are
+Pbx1-independent.
+
+PMID: 15581866  [PubMed - indexed for MEDLINE]
+
+
+38. J Cereb Blood Flow Metab. 2004 Nov;24(11):1280-7.
+
+Retroviral delivery of homeobox D3 gene induces cerebral angiogenesis in mice.
+
+Chen Y(1), Xu B, Arderiu G, Hashimoto T, Young WL, Boudreau N, Yang GY.
+
+Author information: 
+(1)Department of Anesthesia and Perioperative Care, The Center for
+Cerebrovascular Research, University of California, San Francisco, California
+94410, USA.
+
+Angiogenesis is regulated by concerted actions of angiogenic and angiostatic
+factors. Homeobox D3 gene (HOXD3) is a potent proangiogenic transcription factor 
+that promotes angiogenesis by modulating the expression of matrix-degrading
+proteinases, integrins, and extracellular matrix components. Application of HOXD3
+can promote angiogenesis in the skin, but its role in other vascular beds has not
+been examined. The authors examined HOXD3 expression in human brain vessels by in
+situ hybridization. Although little or no HOXD3 mRNA was detected in normal brain
+vessels, increased levels of HOXD3 and its target gene, alpha V beta 3, were
+found in angiogenic vessels in human brain arteriovenous malformations. The
+authors further investigated whether HOXD3 plays a role in cerebral angiogenesis 
+in a murine model. Expression of HOXD3 in mouse brain was achieved through
+retroviral vector-mediated HOXD3 gene transfer. HOXD3 expression lead to a
+significant induction of cerebral angiogenesis as shown by quantitative
+microvessel counting (HOXD3: 241 +/- 19 vessels/mm2 vs. saline: 150 +/- 14
+vessels/mm2, P < 0.05). The data also showed that focal cerebral blood flow was
+increased in the angiogenic region with less vascular leakage. Moreover,
+expression of HOXD3 led to an increase in the expression of a direct downstream
+target gene alpha V beta 3 integrin. The data suggest that HOXD3 may play an
+important role in regulating cerebral angiogenesis, and that gene transfer of
+HOXD3 may provide a novel and potent means to stimulate angiogenesis.
+
+PMID: 15545924  [PubMed - indexed for MEDLINE]
+
+
+39. Am J Pathol. 2003 Dec;163(6):2421-31.
+
+HoxD3 accelerates wound healing in diabetic mice.
+
+Hansen SL(1), Myers CA, Charboneau A, Young DM, Boudreau N.
+
+Author information: 
+(1)Department of Surgery, University of California San Francisco, San Francisco, 
+California 94143, USA.
+
+Poorly healing diabetic wounds are characterized by diminished collagen
+production and impaired angiogenesis. HoxD3, a homeobox transcription factor that
+promotes angiogenesis and collagen synthesis, is up-regulated during normal wound
+repair whereas its expression is diminished in poorly healing wounds of the
+genetically diabetic (db/db) mouse. To determine whether restoring expression of 
+HoxD3 would accelerate diabetic wound healing, we devised a novel method of gene 
+transfer, which incorporates HoxD3 plasmid DNA into a methylcellulose film that
+is placed on wounds created on db/db mice. The HoxD3 transgene was expressed in
+endothelial cells, fibroblasts, and keratinocytes of the wounds for up to 10
+days. More importantly, a single application of HoxD3 to db/db mice resulted in a
+statistically significant acceleration of wound closure compared to
+control-treated wounds. Furthermore, we also observed that the HoxD3-mediated
+improvement in diabetic wound repair was accompanied by increases in mRNA
+expression of the HoxD3 target genes, Col1A1 and beta 3-integrin leading to
+enhanced angiogenesis and collagen deposition in the wounds. Although
+HoxD3-treated wounds also show improved re-epithelialization as compared to
+control db/db wounds, this effect was not due to direct stimulation of
+keratinocyte migration by HoxD3. Finally, we show that despite the dramatic
+increase in collagen synthesis and deposition in HoxD3-treated wounds, these
+wounds showed normal remodeling and we found no evidence of abnormal wound
+healing. These results indicate that HoxD3 may provide a means to directly
+improve collagen deposition, angiogenesis and closure in poorly healing diabetic 
+wounds.
+
+PMCID: PMC1892363
+PMID: 14633614  [PubMed - indexed for MEDLINE]
+
+
+40. Wound Repair Regen. 2003 Nov-Dec;11(6):474-80.
+
+HoxD3 expression and collagen synthesis in diabetic fibroblasts.
+
+Hansen SL(1), Young DM, Boudreau NJ.
+
+Author information: 
+(1)Surgical Research Laboratory at San Francisco General Hospital, Department of 
+Surgery, University of California at San Francisco, San Francisco, California
+94143, USA.
+
+Diabetic wound healing is characterized by deficiencies in both growth factor and
+collagen production. We have observed that expression of homeobox D3 (HoxD3), a
+collagen-inducing transcription factor, and expression of collagen are reduced in
+an established animal model of diabetic wound repair, the leptin-deficient
+diabetic (db/db) mouse. We sought to evaluate whether the diminished expression
+of collagen and HoxD3 would be maintained once fibroblasts were removed from the 
+diabetic wound environment. Fibroblasts were isolated from both wild-type and
+diabetic animals and expression of HoxD3 and collagen assessed. We found that
+when removed from the diabetic wound environment, HoxD3 and type I collagen
+expression are increased in diabetic fibroblasts when compared to wild-type
+fibroblasts. The increase in type I collagen is not related to increased
+production or activation of transforming growth factor-beta1. However, when the
+diabetic fibroblasts are cultured in a 3D collagen matrix, expression of type I
+collagen and HoxD3 is markedly reduced and reflects the pattern of gene
+expression observed in the in vivo diabetic wound environment. Thus, although
+diabetic fibroblasts can regain the capacity to express high levels of collagen
+and HoxD3 once removed from the diabetic wound environment, culturing cells in
+the presence of a 3D collagen matrix is sufficient to revert these fibroblasts to
+their previous nonsynthetic state.
+
+PMID: 14617289  [PubMed - indexed for MEDLINE]
+
+
+41. Leukemia. 2003 Dec;17(12):2454-9.
+
+B-cell development in the presence of the MLL/AF4 oncoprotein proceeds in the
+absence of HOX A7 and HOX A9 expression.
+
+Bertrand FE(1), Spengeman JD, Shah N, LeBien TW.
+
+Author information: 
+(1)Department of Microbiology and Immunology, Brody School of Medicine at East
+Carolina University, Greenville, NC 27858, USA.
+
+Infant acute lymphoblastic leukemia (ALL) is frequently characterized by the
+t(4;11)(q21;q23) cytogenetic abnormality encoding the MLL/AF4 oncogene, increased
+HOX gene expression and a pro-B/monocytoid phenotype. We have previously
+established a novel MLL/AF4-positive cell line, B-lineage 3 (BLIN-3), which
+retains several features of normal B-lineage development (functional Ig gene
+rearrangement and apoptotic sensitivity to stromal cell withdrawal) not generally
+observed in infant ALL. We now use microarray analysis to identify patterns of
+gene expression in BLIN-3 that may modulate MLL/AF4 oncogenesis and contribute to
+the retention of normal B-lineage developmental characteristics. Comparison of
+6815 expressed genes in BLIN-3 with published microarray data on leukemic blasts 
+from t(4;11) patients indicated that BLIN-3 was unique in lacking the expression 
+of certain HOX-A cluster genes. These results were validated by RT-PCR showing no
+expression of HOX A7 or HOX A9 in BLIN-3. A HOX C8 promoter reporter was active
+in BLIN-3, indicating that lack of HOX gene expression in BLIN-3 was not due to a
+nonfunctional MLL/AF4. Our results suggest that B-lineage development can proceed
+in t(4;11) leukemic blasts in the absence of HOX-A gene expression.
+
+PMID: 14562113  [PubMed - indexed for MEDLINE]
+
+
+42. Development. 2003 Nov;130(21):5191-201. Epub 2003 Sep 3.
+
+Hox3 genes coordinate mechanisms of genetic suppression and activation in the
+generation of branchial and somatic motoneurons.
+
+Gaufo GO(1), Thomas KR, Capecchi MR.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Department of Human Genetics, University of
+Utah, Salt Lake City, UT 84112, USA.
+
+In the developing hindbrain, the functional loss of individual Hox genes has
+revealed some of their roles in specifying rhombomere (r) identity. However, it
+is unclear how Hox genes act in concert to confer the unique identity to multiple
+rhombomeres. Moreover, it remains to be elucidated how these genes interact with 
+other transcriptional programs to specify distinct neuronal lineages within each 
+rhombomere. We demonstrate that in r5, the combined mutation of Hoxa3 and Hoxb3
+result in a loss of Pax6- and Olig2-expressing progenitors that give rise to
+somatic motoneurons of the abducens nucleus. In r6, the absence of any
+combination of the Hox3 paralogous genes results in ectopic expression of the
+r4-specific determinant Hoxb1. This ectopic expression in turn results in the
+differentiation of r4-like facial branchiomotoneurons within this rhombomere.
+These studies reveal that members of the Hox1 and Hox3 paralogous groups
+participate in a 'Hox code' that is necessary for coordinating both suppression
+and activation mechanisms that ensure distinction between the multiple
+rhombomeres in the developing hindbrain.
+
+PMID: 12954718  [PubMed - indexed for MEDLINE]
+
+
+43. J Clin Invest. 2003 Jul;112(1):30-41.
+
+Neovascularization of ischemic tissues by gene delivery of the extracellular
+matrix protein Del-1.
+
+Zhong J(1), Eliceiri B, Stupack D, Penta K, Sakamoto G, Quertermous T, Coleman M,
+Boudreau N, Varner JA.
+
+Author information: 
+(1)Comprehensive Cancer Center, University of California, San Diego, La Jolla,
+California 92093-0912, USA.
+
+The ECM protein Del-1 is one of several novel ECM proteins that accumulate around
+angiogenic blood vessels in embryonic and tumor tissue and promote angiogenesis
+in the absence of exogenous growth factors. Del-1 expressed in mouse or rabbit
+ischemic hind-limb muscle by gene transfer rapidly promotes new blood vessel
+formation and restores muscle function. This angiogenic ECM protein initiates
+angiogenesis by binding to integrin alphavbeta5 on resting endothelium, thereby
+resulting in expression of the transcription factor Hox D3 and integrin
+alphavbeta3. Hox D3 converts resting endothelium to angiogenic endothelium by
+inducing expression of proangiogenic molecules such as integrin alphavbeta3.
+These findings provide evidence for an angiogenic switch that can be initiated in
+the absence of exogenous growth factors and indicate that the angiogenic matrix
+protein Del-1 may be a useful tool for the therapy of ischemic disease.
+
+PMCID: PMC162283
+PMID: 12840057  [PubMed - indexed for MEDLINE]
+
+
+44. Nucleic Acids Res Suppl. 2001;(1):43-4.
+
+HOXD3 regulates expression of JAGGED1, a ligand for Notch receptors.
+
+Taniguchi Y(1), Sato M, Tanaka O, Sekiguchi M, Inoko H, Kimura M.
+
+Author information: 
+(1)Department of Genetic Information, School of Medicine, Tokai University,
+Isehara, Kanagawa 259-1193, Japan.
+
+We generated transgenic mouse embryos expressing the human HOXD3 homeobox gene in
+the central nervous system (CNS) utilizing the Wnt1 expression vector. Whole
+mount in situ hybridization analysis revealed that the transgenic embryos at 10.5
+days post coitum (dpc) expressed the HOXD3 gene in dorsal aspects of the CNS from
+the diencephalon to the spinal cord. Histological observation of sections showed 
+that, in the spinal cord of the transgenic embryos at 10.5 dpc, there were few
+neuronal progenitor cells stretching from a luminal to basal side. This implies
+that Notch signaling which is involved in determining the courses of
+differentiation in the progenitors was disturbed within the CNS of the transgenic
+embryos. To elucidate what effects HOXD3 has on Notch signaling, we examined gene
+expression of Notch receptors and ligands using human erythroleukemia HEL and
+K562 cells transfected with the HOXD3 gene. Consequently, HOXD3 promoted
+expression of JAGGED1, a ligand for Notch receptors, in both the transfectants,
+suggesting that the JAGGED1 gene is a downstream target of HOXD3.
+
+PMID: 12836255  [PubMed - indexed for MEDLINE]
+
+
+45. Thromb Haemost. 2003 Mar;89(3):530-7.
+
+Insights in the molecular mechanisms of the anti-angiogenic effect of an
+inhibitor of 3-hydroxy-3-methylglutaryl coenzyme A reductase.
+
+Vincent L(1), Albanese P, Bompais H, Uzan G, Vannier JP, Steg PG, Soria J, Soria 
+C.
+
+Author information: 
+(1)Laboratoire DIFEMA, Faculté de Médecine et Pharmacie, 22 Boulevard Gambetta,
+76183 Rouen, France.
+
+3-hydroxy-3-methylglutaryl coenzyme A reductase inhibitors (statins) reduce the
+risk of coronary event by cholesterollowering dependent and independent
+mechanisms. We have already described that the inhibitory effect of cerivastatin 
+on angiogenesis contribute to the cholesterol-independent beneficial effect and
+was due to the inhibition of the cell signaling cascade RhoA/FAK/Akt. In this
+study, new insights in the molecular mechanism of action were provided. It
+indicates an inhibition of exposure of alpha V beta 3 integrin on cell membrane
+and a modification of gene expression. The inhibition of angiogenesis could be
+related to 1) an increase in genes involved in the inhibition of cell
+proliferation (p19(INK4), p21(Waf/Cip1),Wnt-5a), the inhibition of cell migration
+(Rho-GDI 1, alpha E-catenin) and 2) a downregulation of genes involved in
+angiogenesis (PAI-1, Vitronectin, HoxD3, Notch4) or in cell invasion (Semaphorin 
+E). In addition, DNA repair protein genes (MLH1, XRCC1) were increased. This
+study may indicate new biological interest of genes involved in angiogenesis
+control.
+
+PMID: 12624638  [PubMed - indexed for MEDLINE]
+
+
+46. Am J Pathol. 2002 Dec;161(6):2099-109.
+
+Sustained expression of homeobox D10 inhibits angiogenesis.
+
+Myers C(1), Charboneau A, Cheung I, Hanks D, Boudreau N.
+
+Author information: 
+(1)Surgical Research Laboratory, Department of Surgery, University of California 
+at San Francisco, San Francisco, CA 94143, USA.
+
+Homeobox (Hox) genes are master regulatory genes that direct organogenesis and
+maintain differentiated tissue function. As HoxD3 and HoxB3 promote angiogenesis,
+we investigated whether endothelial cells use other Hox genes to maintain a
+mature quiescent phenotype. HoxD10 expression was higher in quiescent as compared
+to tumor-associated angiogenic endothelium. Microarray analysis of
+HoxD10-overexpressing endothelial cells revealed a pattern of gene expression
+consistent with a nonangiogenic phenotype. Moreover, sustained expression of
+HoxD10 impaired endothelial cell migration and blocked angiogenesis induced by
+basic fibroblast growth factor and vascular endothelial growth factor in the
+chick chorioallantoic membrane in vivo. HoxD10-overexpressing human endothelial
+cells also failed to form new vessels when implanted into immunocompromised mice.
+These results indicate a role for HoxD10 in maintaining a nonangiogenic state in 
+the endothelium.
+
+PMCID: PMC1850921
+PMID: 12466126  [PubMed - indexed for MEDLINE]
+
+
+47. Clin Exp Metastasis. 2002;19(6):503-11.
+
+Transduction of HOXD3-antisense into human melanoma cells results in decreased
+invasive and motile activities.
+
+Okubo Y(1), Hamada J, Takahashi Y, Tada M, Tsutsumida A, Furuuchi K, Aoyama T,
+Sugihara T, Moriuchi T.
+
+Author information: 
+(1)Division of Cancer-Related Genes Institute for Genetic Medicine, Hokkaido
+University, Sapporo, Japan.
+
+Homeobox genes regulate sets of genes that determine cellular fates in embryonic 
+morphogenesis and maintenance of adult tissue architecture by regulating cellular
+motility and cell-cell interactions. Our previous studies showed that a specific 
+member, HOXD3, when overexpressed, enhanced cell motility and invasiveness of
+human lung cancer A549 cells (Hamada et al. Int. J. Cancer 2001; 93: 516-25
+[19]). In the present study, we investigated the roles of HOXD3 in motile and
+invasive behavior of human malignant melanoma cells. Of seven melanoma cell lines
+examined here, six cell lines expressed the HOXD3 gene, whereas normal
+melanocytes did not. We transduced the HOXD3-antisense gene expression vector
+into two cell lines (A375M and MMIV). The cell transduced with the
+HOXD3-antisense gene showed reduced in vitro invasion of Matrigel. The
+transduction of the HOXD3-antisense gene also decreased cell spreading,
+haptotactic activity to vitronectin and laminin-1, and phagokinetic activity. To 
+find the difference of gene expression between the HOXD3-antisense-transduced
+A375M cells and the control A375MNeo2 cells, we carried out cDNA microarray
+analysis. The results of the microarray analysis indicated that the increased
+expression of cdc42-interacting protein 4, KIAA0554 and tropomyosin 1, which are 
+all associated with the cytoskeletal system, may be involved in the reduction of 
+motile and invasive activity by the HOXD3-antisense gene transduction.
+
+PMID: 12405287  [PubMed - indexed for MEDLINE]
+
+
+48. Life Sci. 2002 Oct 11;71(21):2543-52.
+
+A vasoactive intestinal peptide receptor analog alters the expression of homeobox
+genes.
+
+Steingart RA(1), Heldenberg E, Pinhasov A, Brenneman DE, Fridkin M, Gozes I.
+
+Author information: 
+(1)Department of Clinical Biochemistry, Sackler Faculty of Medicine, Tel Aviv
+University, Israel.
+
+A lipophilic analog of vasoactive intestinal peptide (VIP),
+stearyl-Nle(17)-neurotensin(6-11)VIP(7-28) (SNH), that inhibited lung cancer
+growth, has been previously described. The mechanism of SNH inhibition of cancer 
+growth is still being elucidated. The present study examined the effects of SNH
+on homeobox genes in the colon cancer cell line HT 29 that expresses VIP
+receptors. Homeobox genes contain a characteristic DNA sequence, coding for a
+stretch of 61 amino acid homeodomain that binds specific DNA motifs. While the
+HOX gene family contains a single homeodomain, the POU gene family contains an
+additional DNA binding homeodomain. HT 29 cells were incubated with SNH; RNA was 
+extracted and subjected to reverse-transcription-polymerase chain reaction
+(RT-PCR) with primers that matched the conserved area of the various HOX or POU
+genes. The PCR products that were altered by SNH treatment were sequenced. Three 
+candidate SNH-responsive genes, the HOX A4, the HOX B5 and the PUO V
+transcription factor I (Oct-3) were identified. Semi-quantitative RT-PCR with
+specific primers confirmed the increase in HOX A4 and the decrease in Oct-3
+expression levels following SNH treatment. Thus, the HOX A4 and the Oct-3
+homeobox genes may partially mediate SNH activity on cancer cells.
+
+PMID: 12270759  [PubMed - indexed for MEDLINE]
+
+
+49. Hokkaido Igaku Zasshi. 2002 May;77(3):251-63.
+
+[Roles of integrin beta 3 in enhancement of cell motility by HOXD3
+overexpression].
+
+[Article in Japanese]
+
+Ohta H(1).
+
+Author information: 
+(1)Hokkaido University Graduate School of Dental Medicine, Sapporo 060-8586,
+Japan.
+
+PMID: 12056052  [PubMed - indexed for MEDLINE]
+
+
+50. Oncogene. 2002 Jan 24;21(5):798-808.
+
+HOXD3 enhances motility and invasiveness through the TGF-beta-dependent and
+-independent pathways in A549 cells.
+
+Miyazaki YJ(1), Hamada J, Tada M, Furuuchi K, Takahashi Y, Kondo S, Katoh H,
+Moriuchi T.
+
+Author information: 
+(1)Division of Cancer-Related Genes, Institute for Genetic Medicine, Hokkaido
+University, Kita-15, Nishi-7, Kita-ku, Sapporo 060-0815, Japan.
+
+Homeobox genes regulate sets of genes that determine cellular fates in embryonic 
+morphogenesis and maintenance of adult tissue architecture by regulating cellular
+motility and cell-cell interactions. Our previous studies showed that a specific 
+member, HOXD3, when overexpressed, upregulates integrin beta3 expression in human
+erythroleukemia HEL cells and lung cancer A549 cells, and enhances their motility
+and invasiveness. We performed a microarray study of over 7075 genes to determine
+the mechanisms underlying the HOXD3-enhanced motility and invasiveness in A549
+cells. RT-PCR-based tracking gene analyses highlighted a set of
+TGF-beta-upregulated genes, which included matrix metalloproteinase-2,
+syndecan-1, CD44, and TGF-beta-induced 68 kDa protein. Exogenous TGF-beta also
+caused this pattern of upregulation in A549 cells and enhanced their migratory
+and invasive activity, confirming the involvement of TGF-beta signaling. However,
+HOXD3 reduced the expression of TGF-beta-independent genes coding for desmosomal 
+components such as desmoglein, desmoplakin and plakoglobin which are known to
+suppress tumor invasion and metastasis. These results suggest that HOXD3 enhances
+the invasive and metastatic potential of cancer cells through the
+TGF-beta-dependent and -independent pathways.
+
+PMID: 11850808  [PubMed - indexed for MEDLINE]
+
+
+51. Development. 2001 Sep;128(18):3595-607.
+
+Independent regulation of initiation and maintenance phases of Hoxa3 expression
+in the vertebrate hindbrain involve auto- and cross-regulatory mechanisms.
+
+Manzanares M(1), Bel-Vialar S, Ariza-McNaughton L, Ferretti E, Marshall H,
+Maconochie MM, Blasi F, Krumlauf R.
+
+Author information: 
+(1)Division of Developmental Neurobiology, MRC National Institute for Medical
+Research, The Ridgeway, Mill Hill, London NW7 1AA, UK.
+
+During development of the vertebrate hindbrain, Hox genes play multiple roles in 
+the segmental processes that regulate anteroposterior (AP) patterning. Paralogous
+Hox genes, such as Hoxa3, Hoxb3 and Hoxd3, generally have very similar patterns
+of expression, and gene targeting experiments have shown that members of paralogy
+group 3 can functionally compensate for each other. Hence, distinct functions for
+individual members of this family may primarily depend upon differences in their 
+expression domains. The earliest domains of expression of the Hoxa3 and Hoxb3
+genes in hindbrain rhombomeric (r) segments are transiently regulated by
+kreisler, a conserved Maf b-Zip protein, but the mechanisms that maintain
+expression in later stages are unknown. In this study, we have compared the
+segmental expression and regulation of Hoxa3 and Hoxb3 in mouse and chick embryos
+to investigate how they are controlled after initial activation. We found that
+the patterns of Hoxa3 and Hoxb3 expression in r5 and r6 in later stages during
+mouse and chick hindbrain development were differentially regulated. Hoxa3
+expression was maintained in r5 and r6, while Hoxb3 was downregulated. Regulatory
+comparisons of cis-elements from the chick and mouse Hoxa3 locus in both
+transgenic mouse and chick embryos have identified a conserved enhancer that
+mediates the late phase of Hoxa3 expression through a conserved
+auto/cross-regulatory loop. This block of similarity is also present in the human
+and horn shark loci, and contains two bipartite Hox/Pbx-binding sites that are
+necessary for its in vivo activity in the hindbrain. These HOX/PBC sites are
+positioned near a conserved kreisler-binding site (KrA) that is involved in
+activating early expression in r5 and r6, but their activity is independent of
+kreisler. This work demonstrates that separate elements are involved in
+initiating and maintaining Hoxa3 expression during hindbrain segmentation, and
+that it is regulated in a manner different from Hoxb3 in later stages. Together, 
+these findings add further strength to the emerging importance of positive auto- 
+and cross-regulatory interactions between Hox genes as a general mechanism for
+maintaining their correct spatial patterns in the vertebrate nervous system.
+
+PMID: 11566863  [PubMed - indexed for MEDLINE]
+
+
+52. Genes Dev. 2001 Sep 1;15(17):2209-14.
+
+Large scale transgenic and cluster deletion analysis of the HoxD complex separate
+an ancestral regulatory module from evolutionary innovations.
+
+Spitz F(1), Gonzalez F, Peichel C, Vogt TF, Duboule D, Zákány J.
+
+Author information: 
+(1)Department of Zoology and Animal Biology, University of Geneva, Sciences III, 
+1211 Geneva 4, Switzerland.
+
+The ancestral role of the Hox gene family is specifying morphogenetic differences
+along the main body axis. In vertebrates, HoxD genes were also co-opted along
+with the emergence of novel structures such as limbs and genitalia. We propose
+that these functional recruitments relied on the appearance, or implementation,
+of regulatory sequences outside of the complex. Whereas transgenic human and
+murine HOXD clusters could function during axial patterning, in mice they were
+not expressed outside the trunk. Accordingly, deletion of the entire cluster
+abolished axial expression, whereas recently acquired regulatory controls were
+preserved.
+
+PMCID: PMC312772
+PMID: 11544178  [PubMed - indexed for MEDLINE]
+
+
+53. Hokkaido Igaku Zasshi. 2001 Jul;76(4):239-50.
+
+[Overexpression of the human HOXD3-antisense in melanoma cells results in
+decreased invasive activity].
+
+[Article in Japanese]
+
+Okubo Y(1).
+
+Author information: 
+(1)Department of Plastic and Reconstructive Surgery, Hokkaido University Graduate
+School of Medicine, Sapporo 060-8638, Japan.
+
+PMID: 11523115  [PubMed - indexed for MEDLINE]
+
+
+54. J Surg Res. 2001 Sep;100(1):46-56.
+
+Hox D3 expression in normal and impaired wound healing.
+
+Uyeno LA(1), Newman-Keagle JA, Cheung I, Hunt TK, Young DM, Boudreau N.
+
+Author information: 
+(1)Surgical Research Laboratory, University of California, San Francisco, San
+Francisco, California 94143, USA.
+
+BACKGROUND: We have previously shown that Hox D3 and Hox B3 can promote
+angiogenesis. As angiogenesis is essential for wound healing, we examined
+expression of these genes in the vasculature following wounding in normal and
+genetically diabetic adult mice with impaired healing.
+METHODS: In situ hybridization was performed on tissues taken 0, 1, 4, 7, and 14 
+days following administration of linear wounds in wild-type and genetically
+diabetic mice. Expression of Hox D3 and Hox B3, angiogenesis, and synthesis of
+type I collagen were assessed in the wound.
+RESULTS: Hox B3 was expressed in endothelial cells (ECs) of both medium and small
+vessels in unwounded tissue, whereas little Hox D3 was detected in resting ECs.
+Hox D3 expression was significantly upregulated by 1 day after wounding in ECs of
+vessels immediately adjacent to the wound site, and expression was maintained for
+at least 7 days. In the diabetic mice, expression of Hox B3 was similar to that
+of wild-type mice. In contrast, expression of Hox D3 in ECs was significantly
+lower and delayed during wound repair in diabetic mice. In cultured microvascular
+ECs, Hox D3 selectively induced high levels of collagen I mRNA expression. Hox
+D3-deficient wounds of diabetic animals also displayed a reduction in expression 
+and deposition of type I collagen.
+CONCLUSIONS: These results suggest that reduced angiogenesis and type I collagen 
+in diabetic mice with impaired wound healing may be related to deficient Hox D3
+expression, and restoring Hox D3 expression may enhance angiogenesis and wound
+repair.
+
+Copyright 2001 Academic Press.
+
+PMID: 11516204  [PubMed - indexed for MEDLINE]
+
+
+55. Cell. 2001 Jul 27;106(2):207-17.
+
+Localized and transient transcription of Hox genes suggests a link between
+patterning and the segmentation clock.
+
+Zákány J(1), Kmita M, Alarcon P, de la Pompa JL, Duboule D.
+
+Author information: 
+(1)Department of Zoology and Animal Biology, University of Geneva, Sciences III, 
+Quai Ernest Ansermet 30, 1211 Geneva 4, Switzerland.
+
+Erratum in
+    Cell 2001 Sep 21;106(6):795.
+
+During development, Hox gene transcription is activated in presomitic mesoderm
+with a time sequence that follows the order of the genes along the chromosome.
+Here, we show that Hoxd1 and other Hox genes display dynamic stripes of
+expression within presomitic mesoderm. The underlying transcriptional bursts may 
+reflect the mechanism that coordinates Hox gene activation with somitogenesis.
+This mechanism appears to depend upon Notch signaling, as mice deficient for
+RBPJk, the effector of the Notch pathway, showed severely reduced Hoxd gene
+expression in presomitic mesoderm. These results suggest a molecular link between
+Hox gene activation and the segmentation clock. Such a linkage would efficiently 
+keep in phase the production of novel segments with their morphological
+specification.
+
+PMID: 11511348  [PubMed - indexed for MEDLINE]
+
+
+56. Int J Cancer. 2001 Aug 15;93(4):516-25.
+
+Overexpression of homeobox gene HOXD3 induces coordinate expression of
+metastasis-related genes in human lung cancer cells.
+
+Hamada Ji(1), Omatsu T, Okada F, Furuuchi K, Okubo Y, Takahashi Y, Tada M,
+Miyazaki YJ, Taniguchi Y, Shirato H, Miyasaka K, Moriuchi T.
+
+Author information: 
+(1)Division of Cancer-Related Genes, Institute for Genetic Medicine, Hokkaido
+University, Sapporo, Japan.
+
+Homeobox-containing genes are expressed in spatiotemporal fashion during
+embryogenesis and act as master transcription-regulating factors which control
+the expression of a variety of genes involved in morphogenesis. They are also
+expressed in a tissue-specific manner in normal adult tissues and appear to give 
+cells spatial information in the maintenance of their architectural integrity. We
+transfected a HOXD3 class I homeobox-containing gene into human lung cancer A549 
+cells and investigated alterations in gene expressions and phenotypes related to 
+the maintenance of tissue architecture in HOXD3-overexpressing A549 cells. In the
+HOXD3-overexpressing cell lines, expression of E-cadherin was lost and
+plakoglobin was strongly repressed, whereas integrin alpha3 and beta3 were
+up-regulated and N-cadherin and integrin alpha4 were newly expressed. Compared
+with parental and control transfectant lines, the HOXD3-overexpressing cell lines
+showed highly motile and invasive activity. Blocking experiments using
+anti-integrin beta1 and beta3 suggested that the increased haptotaxis of the
+HOXD3-overexpressing cells to vitronectin resulted from increased expression and 
+activation of integrin alphavbeta3, and that overexpression of the HOXD3 gene
+converted the integrin beta1-dependent haptotaxis to fibronectin into both
+integrin beta1- and beta3-dependent one. HOXD3 overexpression increased
+production of matrix-degrative enzymes including matrix metalloproteinase-2 and
+urokinase-plasminogen activator. When the tumor cells were intravenously injected
+into the tail veins of nude mice, HOXD3 transfectants formed a significantly
+large number of metastatic foci in lungs compared with the control transfectants.
+These findings suggest that HOXD3 can act as a metastasis-promoting gene in human
+lung cancer A549 cells.
+
+Copyright 2001 Wiley-Liss, Inc.
+
+PMID: 11477555  [PubMed - indexed for MEDLINE]
+
+
+57. Nature. 2000 Feb 10;403(6770):661-5.
+
+Maintenance of functional equivalence during paralogous Hox gene evolution.
+
+Greer JM(1), Puetz J, Thomas KR, Capecchi MR.
+
+Author information: 
+(1)Howard Hughes Medical Institute, University of Utah School of Medicine, Salt
+Lake City 84112, USA.
+
+Comment in
+    Nature. 2000 Feb 10;403(6770):607, 609-10.
+
+Biological diversity is driven mainly by gene duplication followed by mutation
+and selection. This divergence in either regulatory or protein-coding sequences
+can result in quite different biological functions for even closely related
+genes. This concept is exemplified by the mammalian Hox gene complex, a group of 
+39 genes which are located on 4 linkage groups, dispersed on 4 chromosomes. The
+evolution of this complex began with amplification in cis of a primordial Hox
+gene to produce 13 members, followed by duplications in trans of much of the
+entire unit. As a consequence, Hox genes that occupy the same relative position
+along the 5' to 3' chromosomal coordinate (trans-paralogous genes) share more
+similarity in sequence and expression pattern than do adjacent Hox genes on the
+same chromosome. Studies in mice indicate that although individual family members
+may have unique biological roles, they also share overlapping functions with
+their paralogues. Here we show that the proteins encoded by the paralogous genes,
+Hoxa3 and Hoxd3, can carry out identical biological functions, and that the
+different roles attributed to these genes are the result of quantitative
+modulations in gene expression.
+
+PMID: 10688203  [PubMed - indexed for MEDLINE]
+
+
+58. Gastroenterology. 1999 Dec;117(6):1339-51.
+
+Coordinated expression of 3' hox genes during murine embryonal gut development:
+an enteric Hox code.
+
+Pitera JE(1), Smith VV, Thorogood P, Milla PJ.
+
+Author information: 
+(1)Gastroenterology Unit, Institute of Child Health, University College London,
+London, England. J.Pitera@ich.ucl.ac.uk
+
+BACKGROUND & AIMS: Hox genes are highly conserved developmental control genes
+that may be organized and expressed in the form of a code required for correct
+morphogenesis. Little is known about their control of the embryonal gut. However,
+Hox paralogues 4 and 5, which are expressed at the sites of origin of vagal
+neural crest cells and splanchnic mesoderm, are likely to be important. We have
+studied the expression domains of these genes in the gut both spatially and
+temporally.
+METHODS: CD1 mice embryos of embryonic days E8.5-E17.5 were studied. The spatial 
+and temporal expression patterns of messenger RNA of Hoxa4, b4, c4, d4, a5, c5,
+and b5 homeoprotein were determined by in situ hybridization and
+immunohistochemistry in whole embryos, whole gastrointestinal tracts, and
+vibratome sections.
+RESULTS: There were different spatial, temporal, and combinatorial expression
+patterns in different morphological regions: foregut, prececal gut, cecum, and
+postcecal gut. Two dynamic gradients, rostral and caudal, were coordinated with
+nested expression domains along the gut primordium. Region-specific domains were 
+present in the stomach and cecum.
+CONCLUSIONS: The expression patterns of genes in paralogous groups 4 and 5
+suggest that they are organized to form a specific enteric Hox code required for 
+correct enteric development.
+
+PMID: 10579975  [PubMed - indexed for MEDLINE]
+
+
+59. Nature. 1999 Oct 21;401(6755):761-2.
+
+Hox genes and the making of sphincters.
+
+Zákány J(1), Duboule D.
+
+Author information: 
+(1)Department of Zoology and Animal Biology, University of Geneva, Sciences III, 
+Switzerland.
+
+PMID: 10548099  [PubMed - indexed for MEDLINE]
+
+
+60. Hokkaido Igaku Zasshi. 1999 Sep;74(5):367-76.
+
+[Overexpression of human homeobox gene in lung cancer A549 cells results in
+enhanced motile and invasive properties].
+
+[Article in Japanese]
+
+Omatu T(1).
+
+Author information: 
+(1)Department of Radiology, Hokkaido University School of Medicine, Sapporo,
+Japan.
+
+Since homeobox-containing genes (HOX genes) are a family of transcriptional
+regulators, which give cells positional information in morphogenesis, cancer
+metastasis can be explained as a heterotopic expression of HOX genes. In the
+present study, I transfected HOXD3 gene into human lung cancer A549 cells and
+investigated alterations of adhesiveness, migration and invasiveness of the tumor
+cells. Overexpression of the HOXD3 gene enhanced expressions of integrin alpha 3,
+alpha 4 and beta 3 subunits, and increased adhesive and migratory activities
+toward fibronectin and vitronectin. It was suggested that the increased migration
+of the tumor cells resulted from enhanced expression and activation of integrin
+alpha v beta 3. Furthermore, the overexpression of HOXD3 increased mRNA
+expressions of urokinase-type plasminogen activator and transcription factors
+ets-1 and -2. Most of these molecules, which increased with overexpression of
+HOXD3, are well-known factors associated with tumor invasion and metastasis.
+Indeed, HOXD3 transfectants revealed high invasive activity to matrigel, a
+basement membrane model, compared to their parent cells and control
+neo-transfectants. These findings suggest that abnormal expression of HOXD3 may
+enhance tumor invasion and metastasis through increased expressions of
+metastasis-related genes.
+
+PMID: 10495851  [PubMed - indexed for MEDLINE]
+
+
+61. Dev Dyn. 1999 Jun;215(2):96-107.
+
+RARbeta mediates the response of Hoxd4 and Hoxb4 to exogenous retinoic acid.
+
+Folberg A(1), Nagy Kovács E, Luo J, Giguère V, Featherstone MS.
+
+Author information: 
+(1)McGill Cancer Centre, Department of Medicine, McGill University, Montréal,
+Québec, Canada.
+
+One action of retinoids in development is the regulation of Hox gene expression. 
+Hoxd4 and Hoxb4 expression in the embryonic hindbrain is anteriorized by retinoic
+acid (RA) treatment of mid-gestation mouse embryos. Here we demonstrate that
+retinoic acid receptor beta (Rarb) deficient mice present only a partial
+anteriorization of either Hoxd4 or Hoxb4 in response to RA treatment. Our results
+strongly suggest that RARbeta is a mediator of their RA-response, and reveal
+anteroposterior polarity within a single rhombomere (r). Additionally, we
+generated mice doubly mutated for Hoxd4 and Rarb in an attempt to identify common
+morphogenetic pathways between these two genes. We conclude that there are no
+synergistic interactions between Hoxd4 and Rarb in the specification of the
+cervical vertebrae.
+
+PMID: 10373014  [PubMed - indexed for MEDLINE]
+
+
+62. Am J Hum Genet. 1999 Jul;65(1):104-10.
+
+Monodactylous limbs and abnormal genitalia are associated with hemizygosity for
+the human 2q31 region that includes the HOXD cluster.
+
+Del Campo M(1), Jones MC, Veraksa AN, Curry CJ, Jones KL, Mascarello JT,
+Ali-Kahn-Catts Z, Drumheller T, McGinnis W.
+
+Author information: 
+(1)Division of Dysmorphology, Department of Pediatrics, University of California,
+San Diego, La Jolla, CA, USA.
+
+Vertebrates have four clusters of Hox genes (HoxA, HoxB, HoxC, and HoxD). A
+variety of expression and mutation studies indicate that posterior members of the
+HoxA and HoxD clusters play an important role in vertebrate limb development. In 
+humans, mutations in HOXD13 have been associated with type II syndactyly or
+synpolydactyly, and, in HOXA13, with hand-foot-genital syndrome. We have
+investigated two unrelated children with a previously unreported pattern of
+severe developmental defects on the anterior-posterior (a-p) limb axis and in the
+genitalia, consisting of a single bone in the zeugopod, either monodactyly or
+oligodactyly in the autopod of all four limbs, and penoscrotal hypoplasia. Both
+children are heterozygous for a deletion that eliminates at least eight
+(HOXD3-HOXD13) of the nine genes in the HOXD cluster. We propose that the
+patients' phenotypes are due in part to haploinsufficiency for HOXD-cluster
+genes. This hypothesis is supported by the expression patterns of these genes in 
+early vertebrate embryos. However, the involvement of additional genes in the
+region could explain the discordance, in severity, between these human phenotypes
+and the milder, non-polarized phenotypes present in mice hemizygous for HoxD
+cluster genes. These cases represent the first reported examples of deficiencies 
+for an entire Hox cluster in vertebrates and suggest that the diploid dose of
+human HOXD genes is crucial for normal growth and patterning of the limbs along
+the anterior-posterior axis.
+
+PMCID: PMC1378080
+PMID: 10364522  [PubMed - indexed for MEDLINE]
+
+
+63. Dev Biol. 1998 Mar 1;195(1):1-15.
+
+Hox group 3 paralogs regulate the development and migration of the thymus,
+thyroid, and parathyroid glands.
+
+Manley NR(1), Capecchi MR.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Department of Human Genetics, University of
+Utah School of Medicine, Salt Lake City 84112-5331.
+
+The thymus, thyroid, and parathyroid glands in vertebrates develop from the
+pharyngeal region, with contributions both from pharyngeal endoderm and from
+neural crest cells in the pharyngeal arches. Hoxa3 mutant homozygotes have
+defects in the development of all three organs. Roles for the Hoxa3 paralogs,
+Hoxb3 and Hoxd3, were investigated by examining various mutant combinations. The 
+thyroid defects seen in Hoxa3 single mutants are exacerbated in double mutants
+with either of its paralogs, although none of the double-mutant combinations
+resulted in thyroid agenesis. The results indicate that the primary role of these
+genes in thyroid development is their effect on the development and migration of 
+the ultimobranchial bodies, which contribute the parafollicular or C-cells to the
+thyroid. Hoxb3, Hoxd3 double mutants show no obvious defects in the thymus or
+parathyroids. However, the removal of one functional copy of Hoxa3 from the
+Hoxb3, Hoxd3 double mutants (Hoxa3 +/-, Hoxb3-/-, Hoxd3-/-) results in the
+failure of the thymus and parathyroid glands to migrate to their normal positions
+in the throat. Very little is known about the molecular mechanisms used to
+mediate the movement of tissues during development. These results indicate that
+Hoxa3, Hoxb3, and Hoxd3 have highly overlapping functions in mediating the
+migration of pharyngeal organ primordia. In addition, Hoxa3 has a unique function
+with respect to its paralogs in thymus, parathyroid, and thyroid development.
+This unique function may be conferred by the expression of Hoxa3, but not Hoxb3
+nor Hoxd3, in the pharyngeal pouch endoderm.
+
+PMID: 9520319  [PubMed - indexed for MEDLINE]
+
+
+64. Dev Biol. 1997 Dec 15;192(2):274-88.
+
+Hox group 3 paralogous genes act synergistically in the formation of somitic and 
+neural crest-derived structures.
+
+Manley NR(1), Capecchi MR.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Department of Human Genetics, University of
+Utah School of Medicine, Salt Lake City 84112, USA.
+
+Hox genes encode transcription factors that are used to regionalize the mammalian
+embryo. Analysis of mice carrying targeted mutations in individual and multiple
+Hox genes is beginning to reveal a complex network of interactions among these
+closely related genes which is responsible for directing the formation of
+spatially restricted tissues and structures. In this report we present an
+analysis of the genetic interactions between all members of the third paralogous 
+group, Hoxa3, Hoxb3, and Hoxd3. Previous analysis has shown that although mice
+homozygous for loss-of-function mutations in either Hoxa3 or Hoxd3 have no
+defects in common, mice mutant for both genes demonstrate that these two genes
+strongly interact in a dosage-dependent manner. To complete the analysis of this 
+paralogous gene family, mice with a targeted disruption of the Hoxb3 gene were
+generated. Homozygous mutants have minor defects at low penetrance in the
+formation of both the cervical vertebrae and the IXth cranial nerve. Analysis and
+comparison of all double-mutant combinations demonstrate that all three members
+of this paralogous group interact synergistically to affect the development of
+both neuronal and mesenchymal neural crest-derived structures, as well as somitic
+mesoderm-derived structures. Surprisingly, with respect to the formation of the
+cervical vertebrae, mice doubly mutant for Hoxa3 and Hoxd3 or Hoxb3 and Hoxd3
+show an indistinguishable defect, loss of the entire atlas. This suggests that
+the identity of the specific Hox genes that are functional in a given region may 
+not be as critical as the total number of Hox genes operating in that region.
+
+PMID: 9441667  [PubMed - indexed for MEDLINE]
+
+
+65. Nat Genet. 1997 May;16(1):79-83.
+
+Organization of the Fugu rubripes Hox clusters: evidence for continuing evolution
+of vertebrate Hox complexes.
+
+Aparicio S(1), Hawker K, Cottage A, Mikawa Y, Zuo L, Venkatesh B, Chen E,
+Krumlauf R, Brenner S.
+
+Author information: 
+(1)Wellcome/CRC Institute for Developmental Biology and Cancer Research,
+Cambridge, UK. saparici@hgmp.mrc.ac.uk
+
+The clustered organization of Hox genes provides a powerful opportunity to
+examine gene gain and loss in evolution because physical linkage is a key
+diagnostic feature which allows homology to be established unambiguously.
+Furthermore, Hox genes play a key role in determination of axial and appendicular
+skeletal morphology and may be a key component of the evolution of diverse
+metazoan body forms. Despite suggestions that changes in Hox gene number played a
+role in evolution of metazoan body plans, there has been a general lack of
+evidence for such variation amongst gnathostomes (or indeed any vertebrate) and
+it has therefore been widely assumed that differential regulation may be the key 
+element in all vertebrate Hox evolution. We have studied the Hox gene clusters of
+a teleost fish, Fugu rubripes, to test the possibility that Hox organization may 
+have varied since the origin of jawed vertebrates. We have identified four Hox
+complexes in Fugu and found an unprecedented degree of variation when compared
+with tetrapod clusters. Our data show that: Fugu clusters are widely variant with
+respect to length; at least nine genes have been lost; there is a new group-2
+paralogue; and pseudo-gene remnants of group-1 and group-3 paralogues were found 
+in the Hoxc complex, when compared with the present mammalian clusters. We show
+that gene loss after duplication of the prototypical vertebrate Hox clusters is a
+key feature of both tetrapod and fish evolution.
+
+PMID: 9140399  [PubMed - indexed for MEDLINE]
+
+
+66. Proc Natl Acad Sci U S A. 1996 Aug 6;93(16):8247-52.
+
+Sequence and expression of the murine Hoxd-3 homeobox gene.
+
+Tan DP(1), Shao X, Pu L, Guo V, Nirenberg M.
+
+Author information: 
+(1)Laboratory of Biochemical Genetics, National Heart, Lung and Blood Institute, 
+National Institutes of Health, Bethesda, MD 20892, USA.
+
+Murine Hoxd-3 (Hox 4.1) genomic DNA and cDNA and Hoxa-3 (Hox 1.5) cDNA were
+cloned and sequenced. The homeodomains of Hoxd-3 and Hoxa-3 and regions before
+and after the homeodomain are highly conserved. Both Hoxa-3 and Hoxa-3 proteins
+have a proline-rich region that contains consensus amino acid sequences for
+binding to Src homology 3 domains of some signal transduction proteins. Northern 
+blot analysis of RNA from 8- to 11-day-old mouse embryos revealed a 4.3-kb
+species of Hoxd-3 RNA, whereas a less abundant 3.0-kb species of Hoxd-3 RNA was
+found in RNA from 9- to 11-day-old embryos. Two species of Hoxd-3 poly(A)+ RNA,
+4.3 and 6.0 kb in length, were found in poly(A)+ RNA from adult mouse kidney, but
+not in RNA from other adult tissues tested. Hoxd-3 mRNA was detected by in situ
+hybridization in 12-, 14-, and 17-day-old mouse embryos in the posterior half of 
+the myelencephalon, spinal cord, dorsal root ganglia, first cervical vertebra,
+thyroid gland, kidney tubules, esophagus, stomach, and intestines.
+
+PMCID: PMC38655
+PMID: 8710855  [PubMed - indexed for MEDLINE]
+
+
+67. Blood. 1995 May 15;85(10):2786-94.
+
+Overexpression of the HOX4A (HOXD3) homeobox gene in human erythroleukemia HEL
+cells results in altered adhesive properties.
+
+Taniguchi Y(1), Komatsu N, Moriuchi T.
+
+Author information: 
+(1)Department of Molecular Life Science (Cell Biology), Tokai University School
+of Medicine, Kanagawa, Japan.
+
+We previously isolated the human homeobox gene HOX4A (HOXD3) on chromosome 2 from
+a human genomic library and determined its nucleotide sequence. In the present
+study, expression of the HOX4A gene was investigated in human hematopoietic cell 
+lines. Reverse transcriptase-mediated polymerase chain reaction analysis showed
+that the HOX4A gene was expressed in erythroleukemia HEL and K562 cells but not
+in promyelocytic leukemia HL-60 cells. To study the role of the HOX4A gene in
+erythropoiesis, expression vectors containing the HOX4A gene in the sense or
+antisense orientation were introduced into HEL cells. The sense transfectants
+overexpressing the HOX4A gene formed aggregates, which were composed of densely
+associated cells adhering to tissue-culture dishes, whereas the parental HEL
+cells and antisense transfectants adhered poorly to the dishes. Furthermore, the 
+sense transfectants overexpressing the HOX4A gene attached more efficiently to
+fibronectin and collagen than did the antisense transfectants and parental HEL
+cells. Northern blot analysis showed that integrin beta 3 mRNA levels were
+significantly increased in the HEL cells overexpressing the HOX4A gene, whereas
+the integrin beta 1 and alpha IIb mRNA levels did not show a distinct correlation
+with HOX4A mRNA levels. Fluorescence-activated cell sorting analysis showed that 
+the sense transfectants overexpressing the HOX4A gene expressed increased levels 
+of integrin alpha IIb beta 3 (GP IIb-IIIa) complex as compared with the parental 
+HEL cells and antisense transfectants. These results implicate the homeobox gene 
+HOX4A in the regulation of cell adhesion processes.
+
+PMID: 7742539  [PubMed - indexed for MEDLINE]
+
+
+68. DNA Cell Biol. 1995 Apr;14(4):295-304.
+
+Analysis of the Hoxd-3 gene: structure and localization of its sense and natural 
+antisense transcripts.
+
+Bedford M(1), Arman E, Orr-Urtreger A, Lonai P.
+
+Author information: 
+(1)Department of Chemical Immunology, Weizmann Institute of Science, Rehovot,
+Israel.
+
+This study set out to investigate the structure and localized expression of the
+mouse homeobox-containing gene Hoxd-3. In addition to identifying a transcript of
+the type known from other Antennapedia (Antp)-like mammalian homeobox cDNAs, an
+antisense transcript was also detected. The antisense form of Hoxd-3 overlaps
+with 603 bp of the sense transcript including the homeobox. Active antisense
+transcription has been confirmed by RNA blot analysis with single-stranded probes
+and by the direction of splicing of an intron in the antisense transcript. The
+localized expression of sense and antisense transcripts was compared by in situ
+hybridization. Hoxd-3 expression was observed from 8.5 days p.c., in the neural
+tube with a sharp border in the hind brain at the level of rhombomeres 4-5. In
+contrast, the earliest antisense expression was detected at 10.5 days p.c. in
+cDNA libraries. At 12.5 days p.c., sense and antisense transcripts colocalized in
+the liver. The possible role of antisense homeobox transcripts during liver and
+the hematopoietic development is discussed.
+
+PMID: 7710686  [PubMed - indexed for MEDLINE]
+
+
+69. EMBO J. 1994 Jul 15;13(14):3339-47.
+
+The thyroid transcription factor-1 gene is a candidate target for regulation by
+Hox proteins.
+
+Guazzi S(1), Lonigro R, Pintonello L, Boncinelli E, Di Lauro R, Mavilio F.
+
+Author information: 
+(1)Department of Biology and Biotechnology, Istituto Scientifico H.S. Raffaele,
+Milano, Italy.
+
+Vertebrate Hox homeobox genes are transcription factors which regulate
+antero-posterior axial identity in embryogenesis, presumably through activation
+and/or repression of downstream target genes. Some of these targets were reported
+to code for molecules involved in cell-cell interactions, whereas no relationship
+has yet been demonstrated between Hox genes and other transcription factors
+involved in determining and/or maintaining tissue specificity. The thyroid
+transcription factor-1 (TTF-1) is a homeodomain-containing protein required for
+expression of thyroid-specific genes. A 862 bp 5' genomic fragment of the rat
+TTF-1 gene, conferring thyroid-specific expression to a reporter gene, was
+sufficient to mediate transactivation by the human HOXB3 gene in co-transfection 
+assay in both NIH3T3 or HeLa cells. HOXB3 is expressed in early mammalian
+embryogenesis in the anterior neuroectoderm, branchial arches and their
+derivatives, including the area of the thyroid primordia and thyroid gland.
+Transcription of the TTF-1 promoter is induced only by HOXB3, while its
+paralogous gene HOXD3 or other Hox genes expressed more posteriorly (HOXA4,
+HOXD4, HOXC5, HOXC6, HOXC8 and Hoxd-8) have no effect. Transactivation by HOXB3
+is mediated by two binding sites containing an ATTA core located at -100 and +30 
+from the transcription start site. DNase I footprinting experiments show that the
+two sites bind HOXB3 protein synthesized in both Escherichia coli and eukaryotic 
+cells, as well as nuclear factor(s) present in protein extracts obtained from
+mouse embryonic tissues which express group 3 Hox genes and TTF-1. Some of the
+DNA-protein complexes formed by the embryonic extracts are indistinguishable from
+those generated by HOXB3.(ABSTRACT TRUNCATED AT 250 WORDS)
+
+PMCID: PMC395231
+PMID: 7913891  [PubMed - indexed for MEDLINE]
+
+
+70. Development. 1993 Nov;119(3):579-95.
+
+Mice homozygous for a targeted disruption of Hoxd-3 (Hox-4.1) exhibit anterior
+transformations of the first and second cervical vertebrae, the atlas and the
+axis.
+
+Condie BG(1), Capecchi MR.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Department of Human Genetics, University of
+Utah School of Medicine, Salt Lake City 84112.
+
+Gene targeting in embryo-derived stem (ES) cells was used to generate mice with a
+disruption in the homeobox-containing gene Hoxd-3 (Hox-4.1). Mice homozygous for 
+this mutation show a radically remodeled craniocervical joint. The anterior arch 
+of the atlas is transformed to an extension of the basioccipital bone of the
+skull. The lateral masses of the atlas also assume a morphology more closely
+resembling the exoccipitals and, to a variable extent, fuse with the
+exoccipitals. Formation of the second cervical vertebra, the axis, is also
+affected. The dens and the superior facets are deleted, and the axis shows
+'atlas-like' characteristics. An unexpected observation is that different parts
+of the same vertebra are differentially affected by the loss of Hoxd-3 function. 
+Some parts are deleted, others are homeotically transformed to more anterior
+structures. These observations suggest that one role of Hox genes may be to
+differentially control the proliferation rates of the mesenchymal condensations
+that give rise to the vertebral cartilages. Within the mouse Hox complex,
+paralogous genes not only encode very similar proteins but also often exhibit
+very similar expression patterns. Therefore, it has been postulated that
+paralogous Hox genes would perform similar roles. Surprisingly, however, no
+tissues or structures are affected in common by mutations in the two paralogous
+genes, Hoxa-3 and Hoxd-3.
+
+PMID: 7910549  [PubMed - indexed for MEDLINE]
+
+

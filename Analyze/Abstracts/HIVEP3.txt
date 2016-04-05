@@ -1,0 +1,1036 @@
+
+1. J Biol Chem. 2014 Apr 4;289(14):9865-79. doi: 10.1074/jbc.M113.520585. Epub 2014 
+Feb 21.
+
+Human immunodeficiency virus type 1 enhancer-binding protein 3 is essential for
+the expression of asparagine-linked glycosylation 2 in the regulation of
+osteoblast and chondrocyte differentiation.
+
+Imamura K(1), Maeda S, Kawamura I, Matsuyama K, Shinohara N, Yahiro Y, Nagano S, 
+Setoguchi T, Yokouchi M, Ishidou Y, Komiya S.
+
+Author information: 
+(1)From the Departments of Medical Joint Materials and.
+
+Human immunodeficiency virus type 1 enhancer-binding protein 3 (Hivep3)
+suppresses osteoblast differentiation by inducing proteasomal degradation of the 
+osteogenesis master regulator Runx2. In this study, we tested the possibility of 
+cooperation of Hivep1, Hivep2, and Hivep3 in osteoblast and/or chondrocyte
+differentiation. Microarray analyses with ST-2 bone stroma cells demonstrated
+that expression of any known osteochondrogenesis-related genes was not commonly
+affected by the three Hivep siRNAs. Only Hivep3 siRNA promoted osteoblast
+differentiation in ST-2 cells, whereas all three siRNAs cooperatively suppressed 
+differentiation in ATDC5 chondrocytes. We further used microarray analysis to
+identify genes commonly down-regulated in both MC3T3-E1 osteoblasts and ST-2
+cells upon knockdown of Hivep3 and identified asparagine-linked glycosylation 2
+(Alg2), which encodes a mannosyltransferase residing on the endoplasmic
+reticulum. The Hivep3 siRNA-mediated promotion of osteoblast differentiation was 
+negated by forced Alg2 expression. Alg2 suppressed osteoblast differentiation and
+bone formation in cultured calvarial bone. Alg2 was immunoprecipitated with
+Runx2, whereas the combined transfection of Runx2 and Alg2 interfered with Runx2 
+nuclear localization, which resulted in suppression of Runx2 activity.
+Chondrocyte differentiation was promoted by Hivep3 overexpression, in concert
+with increased expression of Creb3l2, whose gene product is the endoplasmic
+reticulum stress transducer crucial for chondrogenesis. Alg2 silencing suppressed
+Creb3l2 expression and chondrogenesis of ATDC5 cells, whereas infection of
+Alg2-expressing virus promoted chondrocyte maturation in cultured cartilage
+rudiments. Thus, Alg2, as a downstream mediator of Hivep3, suppresses
+osteogenesis, whereas it promotes chondrogenesis. To our knowledge, this study is
+the first to link a mannosyltransferase gene to osteochondrogenesis.
+
+PMCID: PMC3975031
+PMID: 24563464  [PubMed - indexed for MEDLINE]
+
+
+2. Onco Targets Ther. 2014 Jan 24;7:137-46. doi: 10.2147/OTT.S55432. eCollection
+2014.
+
+Combined overexpression of HIVEP3 and SOX9 predicts unfavorable biochemical
+recurrence-free survival in patients with prostate cancer.
+
+Qin GQ(1), He HC(2), Han ZD(2), Liang YX(2), Yang SB(2), Huang YQ(2), Zhou L(2), 
+Fu H(2), Li JX(1), Jiang FN(2), Zhong WD(3).
+
+Author information: 
+(1)Central Hospital of Panyu District, Guangzhou, People's Republic of China ;
+Department of Urology, Guangdong Key Laboratory of Clinical Molecular Medicine
+and Diagnostics, Guangzhou First People's Hospital, Guangzhou Medical University,
+Guangzhou, People's Republic of China. (2)Department of Urology, Guangdong Key
+Laboratory of Clinical Molecular Medicine and Diagnostics, Guangzhou First
+People's Hospital, Guangzhou Medical University, Guangzhou, People's Republic of 
+China. (3)Department of Urology, Guangdong Key Laboratory of Clinical Molecular
+Medicine and Diagnostics, Guangzhou First People's Hospital, Guangzhou Medical
+University, Guangzhou, People's Republic of China ; Guangdong Provincial
+Institute of Nephrology, Southern Medical University, Guangzhou, People's
+Republic of China ; Urology Key Laboratory of Guangdong Province, Guangzhou
+Medical University, Guangzhou, People's Republic of China.
+
+BACKGROUND: To clarify the involvement of HIVEP3 and SOX9 coexpression in
+prostate cancer (PCa).
+METHODS: A small interfering RNA was used to knockdown SOX9 expression in a PCa
+cell line and to analyze the effects of SOX9 inhibition on the expression of
+HIVEP3 in vitro. Then, HIVEP3 and SOX9 expression patterns in the human PCa
+tissues were detected using quantitative reverse transcription polymerase chain
+reaction (qRT-PCR) analysis and immunohistochemistry.
+RESULTS: We found that the downregulation of SOX9 could inhibit the expression of
+HIVEP3 in the PCa cells in vitro. In addition, both HIVEP3 and SOX9 messenger RNA
+expression levels in the PCa tissues were significantly higher than those in the 
+noncancerous prostate tissues (P=0.006 and P<0.001, respectively). Moreover, the 
+immunohistochemical staining scores of HIVEP3 in the PCa tissues with PSA failure
+were significantly higher than those without (P=0.042); the increased SOX9
+protein expression was more frequently found in the PCa tissues with a high
+Gleason score (P=0.045) and a high clinical stage (P=0.012). The tumors showing
+the HIVEP3-high/SOX9-high expression more frequently had PSA failure (P=0.024).
+When the patients with an HIVEP3 overexpression combined with the SOX9
+overexpression, this group had a worse biochemical recurrence-free survival
+(P<0.001). Furthermore, the multivariate analysis showed that the HIVEP3/SOX9
+coexpression was an independent predictor of an unfavorable biochemical
+recurrence-free survival.
+CONCLUSION: Our data offer the convincing evidence for the first time that a
+combined analysis of HIVEP3 and SOX9 may help to predict the tumor progression
+and prognosis of PCa patients. In particular, the overexpression of HIVEP3 in PCa
+might partly explain the poor prognosis of patients with an upregulation of SOX9.
+
+PMCID: PMC3908830
+PMID: 24493929  [PubMed]
+
+
+3. Parkinsonism Relat Disord. 2014 Jan;20(1):93-8. doi:
+10.1016/j.parkreldis.2013.10.001. Epub 2013 Oct 11.
+
+Association mapping of the PARK10 region for Parkinson's disease susceptibility
+genes.
+
+Wan JY(1), Edwards KL(1), Hutter CM(1), Mata IF(2), Samii A(2), Roberts JW(3),
+Agarwal P(4), Checkoway H(5), Farin FM(6), Yearout D(2), Zabetian CP(7).
+
+Author information: 
+(1)Department of Epidemiology, School of Public Health, University of Washington,
+Seattle, WA, USA. (2)Veterans Affairs Puget Sound Health Care System, Seattle,
+WA, USA; Department of Neurology, University of Washington School of Medicine,
+Seattle, WA, USA. (3)Virginia Mason Medical Center, Seattle, WA, USA. (4)Booth
+Gardner Parkinson's Care Center, Evergreen Hospital Medical Center, Kirkland, WA,
+USA. (5)Department of Epidemiology, School of Public Health, University of
+Washington, Seattle, WA, USA; Department of Environmental and Occupational Health
+Sciences, School of Public Health, University of Washington, Seattle, WA, USA.
+(6)Department of Environmental and Occupational Health Sciences, School of Public
+Health, University of Washington, Seattle, WA, USA. (7)Veterans Affairs Puget
+Sound Health Care System, Seattle, WA, USA; Department of Neurology, University
+of Washington School of Medicine, Seattle, WA, USA. Electronic address:
+zabetian@u.washington.edu.
+
+BACKGROUND: Previous studies indicate that as many as six genes within the PARK10
+region (RNF11, UQCRH, HIVEP3, EIF2B3, USP24, ELAVL4) might modify susceptibility 
+or age at onset in Parkinson's disease (PD).
+METHODS: We sought to identify new PD susceptibility genes and to validate
+previously nominated candidate genes within the PARK10 region using a two-stage
+design. We used data from a large, publicly-available genome-wide association
+study (GWAS) in the discovery stage (n = 2000 cases and 1986 controls) and data
+from three independent studies for the replication stage (total n = 2113 cases
+and 2095 controls). Marker density was increased by imputation using HapMap 3 and
+1000 Genomes reference panels, and over 40,000 single nucleotide polymorphisms
+(SNPs) were used in the final analysis. The association between each SNP and PD
+was modeled using logistic regression with an additive allele dosage effect and
+adjusted for sex, age, and axes of geographical variation.
+RESULTS: Although the discovery stage yielded promising findings for SNPs in
+several novel genes, including DAB1, none of the results were validated in the
+replication stage. Furthermore, in meta-analyses across all datasets no genes
+within PARK10 reached significance after accounting for multiple testing.
+CONCLUSION: Our results suggest that common variation in the PARK10 region is not
+associated with PD risk. However, additional studies are needed to assess the
+role of PARK10 in modifying age at onset and to determine whether rare variants
+in this region might affect PD susceptibility.
+
+Published by Elsevier Ltd.
+
+PMCID: PMC3946853
+PMID: 24156912  [PubMed - indexed for MEDLINE]
+
+
+4. J Clin Invest. 2013 Sep;123(9):4010-22. doi: 10.1172/JCI69443. Epub 2013 Aug 15.
+
+Schnurri-3 regulates ERK downstream of WNT signaling in osteoblasts.
+
+Shim JH(1), Greenblatt MB, Zou W, Huang Z, Wein MN, Brady N, Hu D, Charron J,
+Brodkin HR, Petsko GA, Zaller D, Zhai B, Gygi S, Glimcher LH, Jones DC.
+
+Author information: 
+(1)Department of Pathology and Laboratory Medicine, Weill Cornell Medical
+College, New York, New York 10065, USA. jas2060@med.cornell.edu
+
+Mice deficient in Schnurri-3 (SHN3; also known as HIVEP3) display increased bone 
+formation, but harnessing this observation for therapeutic benefit requires an
+improved understanding of how SHN3 functions in osteoblasts. Here we identified
+SHN3 as a dampener of ERK activity that functions in part downstream of WNT
+signaling in osteoblasts. A D-domain motif within SHN3 mediated the interaction
+with and inhibition of ERK activity and osteoblast differentiation, and knockin
+of a mutation in Shn3 that abolishes this interaction resulted in aberrant ERK
+activation and consequent osteoblast hyperactivity in vivo. Additionally, in vivo
+genetic interaction studies demonstrated that crossing to Lrp5(-/-) mice
+partially rescued the osteosclerotic phenotype of Shn3(-/-) mice;
+mechanistically, this corresponded to the ability of SHN3 to inhibit ERK-mediated
+suppression of GSK3ß. Inducible knockdown of Shn3 in adult mice resulted in a
+high-bone mass phenotype, providing evidence that transient blockade of these
+pathways in adults holds promise as a therapy for osteoporosis.
+
+PMCID: PMC3754267
+PMID: 23945236  [PubMed - indexed for MEDLINE]
+
+
+5. Biochim Biophys Acta. 2013 Jun;1830(6):3828-34. doi:
+10.1016/j.bbagen.2013.02.015. Epub 2013 Mar 14.
+
+Effect of lyso-phosphatidylcholine and Schnurri-3 on osteogenic
+transdifferentiation of vascular smooth muscle cells to calcifying vascular cells
+in 3D culture.
+
+Castro-Chavez F(1), Vickers KC, Lee JS, Tung CH, Morrisett JD.
+
+Author information: 
+(1)Department of Medicine, Baylor College of Medicine, Houston, TX, USA.
+
+BACKGROUND: In vitro cell culture is a widely used technique for investigating a 
+range of processes such as stem cell behavior, regenerative medicine, tissue
+engineering, and drug discovery. Conventional cell culture is performed in Petri 
+dishes or flasks where cells typically attach to a flat glass or plastic surface 
+as a cell monolayer. However, 2D cell monolayers do not provide a satisfactory
+representation of in vivo conditions. A 3D culture could be a much better system 
+for representing the conditions that prevail in vivo.
+METHODS AND RESULTS: To simulate 3D conditions, vascular smooth muscle cells
+(VSMCs) were loaded with gold-polyvmer-iron oxide hydrogel, enabling levitation
+of the cells by using spatially varying magnetic fields. These magnetically
+levitated 3D cultures appeared as freely suspended, clustered cells which
+proliferated 3-4 times faster than cells in conventional 2D cultures. When the
+levitated cells were treated with 10nM lysophosphatidylcholine (LPC), for 3days, 
+cell clusters exhibited translucent extensions/rods 60-80µm wide and 200-250µm
+long. When 0.5µg/µl Schnurri-3 was added to the culture containing LPC, these
+extensions were smaller or absent. When excited with 590-650nm light, these
+extensions emitted intrinsic fluorescence at >667nm. When the 3D cultures were
+treated with a fluorescent probe specific for calcium hydroxyapatite
+(FITC-HABP-19), the cell extensions/rods emitted intensely at 518nm, the <U+03BB>max for
+FITC emission. Pellets of cells treated with LPC were more enriched in calcium,
+phosphate, and glycosaminoglycans than cells treated with LPC and Schnurri-3.
+CONCLUSIONS: In 3D cultures, VSMCs grow more rapidly and form larger
+calcification clusters than cells in 2D cultures. Transdifferentiation of VSMC
+into calcifying vascular cells is enhanced by LPC and attenuated by Schnurri-3.
+GENERAL SIGNIFICANCE: The formation of calcified structures in 3D VSMC cultures
+suggests that similar structures may be formed in vivo.
+
+Copyright © 2013 Elsevier B.V. All rights reserved.
+
+PMCID: PMC4383529
+PMID: 23500015  [PubMed - indexed for MEDLINE]
+
+
+6. J Med Primatol. 2011 Aug;40(4):224-32. doi: 10.1111/j.1600-0684.2011.00486.x.
+
+High-throughput single-nucleotide polymorphism discovery and the search for
+candidate genes for long-term SIVmac nonprogression in Chinese rhesus macaques
+(Macaca mulatta).
+
+Trask JS(1), Garnica WT, Malhi RS, Kanthaswamy S, Smith DG.
+
+Author information: 
+(1)Department of Anthropology, University of California, Davis, 95616, USA.
+jasatkoski@ucdavis.edu
+
+BACKGROUND: Genetic differences between Indian and Chinese rhesus macaques
+contribute to the phenotypic variance of clinical trials, including infection
+with SIVmac. The completion of the rhesus genome has facilitated the discovery of
+several thousand markers.
+METHODS: We developed a genome-wide SNP map for rhesus macaques containing 3869
+validated markers with an average distance of 0.88 Mb and used the program VarLD 
+to identify genomic areas with significant differences in linkage disequilibrium 
+(LD) between Indian-derived and Chinese rhesus macaques.
+RESULTS: Forty-one statistically significant differences in LD between Chinese
+and Indian-origin rhesus were detected on chromosomes 1, 4, 5 and 11. The region 
+of greatest LD difference was located on the proximal end of chromosome one,
+which also contained the genes ELAVL4, MAST2 and HIVEP3.
+CONCLUSION: These genomic areas provide entry to more detailed studies of gene
+function. This method is also applicable to the study of differences in
+biomarkers between regional populations of other species.
+
+© 2011 John Wiley & Sons A/S.
+
+PMCID: PMC3144501
+PMID: 21781130  [PubMed - indexed for MEDLINE]
+
+
+7. J Anim Sci. 2011 Jun;89(6):1669-83. doi: 10.2527/jas.2010-3681. Epub 2011 Feb 25.
+
+A single nucleotide polymorphism-derived regulatory gene network underlying
+puberty in 2 tropical breeds of beef cattle.
+
+Fortes MR(1), Reverter A, Nagaraj SH, Zhang Y, Jonsson NN, Barris W, Lehnert S,
+Boe-Hansen GB, Hawken RJ.
+
+Author information: 
+(1)School of Veterinary Science, The University of Queensland, Gatton Campus,
+Queensland 4343, Australia.
+
+Harsh tropical environments impose serious challenges on poorly adapted species. 
+In beef cattle, tropical adaptation in the form of temperature and disease
+resistance, coupled with acclimatization to seasonal and limited forage, comes at
+a cost to production efficiency. Prominent among these costs is delayed onset of 
+puberty, a challenging phenotype to manipulate through traditional breeding
+mechanisms. Recently, system biology approaches, including gene networks, have
+been applied to the genetic dissection of complex phenotypes. We aimed at
+developing and studying gene networks underlying cattle puberty. Our starting
+material comprises the association results of ~50,000 SNP on 22 traits, including
+age at puberty, and 2 cattle breed populations: Brahman (n = 843) and Tropical
+Composite (n = 866). We defined age at puberty as the age at first corpus luteum 
+(AGECL). By capturing the genes harboring mutations minimally associated (P <
+0.05) to AGECL or to a set of traits related with AGECL, we derived a gene
+network for each breed separately and a third network for the combined data set. 
+At the intersection of the 3 networks, we identified candidate genes and pathways
+that were common to both breeds. Resulting from these analyses, we identified an 
+enrichment of genes involved in axon guidance, cell adhesion, ErbB signaling, and
+glutamate activity, pathways that are known to affect pulsatile release of GnRH, 
+which is necessary for the onset of puberty. Furthermore, we employed network
+connectivity and centrality parameters along with a regulatory impact factor
+metric to identify the key transcription factors (TF) responsible for the
+molecular regulation of puberty. As a novel finding, we report 5 TF (HIVEP3, TOX,
+EYA1, NCOA2, and ZFHX4) located in the network intersecting both breeds and
+interacting with other TF, forming a regulatory network that harmonizes with the 
+recent literature of puberty. Finally, we support our network predictions with
+evidence derived from gene expression in hypothalamic tissue of adult cows.
+
+PMID: 21357453  [PubMed - indexed for MEDLINE]
+
+
+8. Am J Nephrol. 2009;30(6):505-13. doi: 10.1159/000243811. Epub 2009 Oct 1.
+
+Genome-wide analysis of histone H3 lysine 4 trimethylation in peripheral blood
+mononuclear cells of minimal change nephrotic syndrome patients.
+
+Zhang L(1), Dai Y, Peng W, Lu J, Zhang Y, Wang L.
+
+Author information: 
+(1)Second Clinical Medical College, Jinan University, Guangzhou, China.
+
+BACKGROUND: Studies of the epigenome have attracted some interest in nephrology. 
+However, to date, our knowledge about the alterations in histone modification in 
+minimal change nephrotic syndrome (MCNS) is unknown. This study aimed to
+investigate the variations in histone H3 lysine 4 trimethylation (H3K4me3) in
+peripheral blood mononuclear cells of patients with MCNS.
+METHODS: H3K4me3 variations were analyzed in peripheral blood mononuclear cells, 
+from 15 MCNS patients and 15 healthy subjects, using the ChIP-chip approach. ChIP
+real-time PCR is used to validate the microarray results. In addition, mRNA
+expression and DNA methylation status can also be further analyzed by
+quantitative (q) RT-PCR and methyl-DNA immunoprecipitation-q PCR, respectively.
+RESULTS: 848 increased and 231 decreased H3K4me3 probes displaying significant
+H3K4me3 differences were found in MCNS patients compared with healthy subjects.
+The results of ChIP real-time PCR coincided well with the microarray. Expression 
+analysis by qRT-PCR revealed positive correlations between mRNA and H3K4me3
+levels. DNA methylation alterations were found on selected positive genes (IL4R, 
+HIVEP3, HPSE2, CDH13 and PRKD2). In addition, we also found that there is an
+inverse relationship between H3K4me3 and promoter DNA methylation in MCNS
+patients.
+CONCLUSION: Our studies indicate that there are significant alterations of
+H3K4me3 in MCNS patients. These significant H3K4me3 candidates may help to
+explain the immunological disturbance involved in MCNS patients.
+
+Copyright 2009 S. Karger AG, Basel.
+
+PMID: 19797895  [PubMed - indexed for MEDLINE]
+
+
+9. Exp Dermatol. 2009 Mar;18(3):261-3. doi: 10.1111/j.1600-0625.2008.00797.x. Epub
+2008 Oct 22.
+
+The human orthologue of murine Mpzl3 with predicted adhesive and immune functions
+is a potential candidate gene for immune-related hereditary hair loss.
+
+Racz P, Mink M, Ordas A, Cao T, Szalma S, Szauter KM, Csiszar K.
+
+We have recently reported a mutation within the conserved immunoglobulin V-type
+domain of the predicted adhesion protein Mpzl3 (MIM 611707) in rough coat (rc)
+mice with severe skin abnormalities and progressive cyclic hair loss. In this
+study, we tested the hypothesis that the human orthologue MPZL3 on chromosome
+11q23.3 is a candidate for similar symptoms in humans. The predicted conserved
+MPZL3 protein has two transmembrane motifs flanking an extracellular Ig-like
+domain. The R100Q rc mutation is within the Ig-domain recognition loop that has
+roles in T-cell receptors and cell adhesion. Results of the rc mouse study, 3D
+structure predictions, homology with Myelin Protein Zero and EVA1, comprehensive 
+database analyses of polymorphisms and mutations within the human MPZL3 gene and 
+its cell, tissue expression and immunostaining pattern indicate that homozygous
+or compound heterozygous mutations of MPZL3 might be involved in immune-mediated 
+human hereditary disorders with hair loss.
+
+PMCID: PMC2744200
+PMID: 19054061  [PubMed - indexed for MEDLINE]
+
+
+10. Ann Rheum Dis. 2007 Nov;66 Suppl 3:iii49-51.
+
+Schnurri-3 is an essential regulator of osteoblast function and adult bone mass.
+
+Jones DC(1), Wein MN, Glimcher LH.
+
+Author information: 
+(1)Department of Immunology and Infectious Diseases, Harvard School of Public
+Health, 651 Huntington Ave, FXB 205, Boston, MA 02115, USA.
+
+Skeletal remodelling is a cyclical process where under normal physiological
+conditions, bone formation occurs at sites where bone resorption has previously
+taken place. Homeostatic remodelling of the skeleton is mediated by osteoclasts, 
+giant multinucleated cells of haematopoietic origin that are responsible for bone
+resorption and osteoblasts, which originate from mesenchymal stem cells, and
+synthesise the matrix constituents on bone-forming surfaces.1 Proliferation,
+differentiation and bone remodelling activities of these cells involve a complex 
+temporal network of growth factors, signalling proteins and transcription
+factors. Dysregulation of any one component may disrupt the remodelling process
+and contribute to the pathogenesis of common skeletal disorders, like
+osteoporosis and Paget's disease. Rare single gene disorders resulting in
+elevated bone mass due to osteoclast defects are collectively termed
+osteopetrosis. Rarer still are single gene disorders, collectively termed
+osteosclerosis, in which elevated bone mass is due to intrinsically elevated
+osteoblast activity.2 While we have learned much about the molecular control of
+skeletal formation and remodelling from these mutations, additional genes that
+regulate bone mass have yet to be characterised.
+
+PMCID: PMC2095286
+PMID: 17934096  [PubMed - indexed for MEDLINE]
+
+
+11. Ann Hum Genet. 2007 Sep;71(Pt 5):639-47. Epub 2007 Mar 27.
+
+Investigation of the PARK10 gene in Parkinson disease.
+
+Li YJ(1), Deng J, Mayhew GM, Grimsley JW, Huo X, Vance JM.
+
+Author information: 
+(1)Department of Medicine and Center for Human Genetics, Duke University Medical 
+Center, Durham, NC 27710, USA. yiju.li@duke.edu
+
+Two recent association mapping studies in Parkinson disease (PD) reported three
+candidate genes for the PARK10 locus: EIF2B3 as a modifier of age-at-onset of PD 
+(min P= 0.0004) and HIVEP3 as a PD risk gene (P < or = 0.006) (Oliveira et al.
+2005); and LOC200008 (CDCP2) identified by the whole genome association (WGA)
+study of PD of Maraganore et al. (2005). However, evaluation of the on-line PD
+WGA results revealed two significant SNPs in HIVEP3 in the two datasets, Tier 1
+and Tier 2, used by Maraganore et al. (P < or = 0.008 for Tier 1 and P=0.03 for
+Tier 2 dataset). Here, we revisited both the HIVEP3 and CDCP2 loci by examining
+47 SNPs, mostly tagging, in an expanded PD family dataset (293 multiplex and 467 
+singleton families). A discordant sibpair (DSP) dataset (one DSP per family),
+with similar data structure as the WGA Tier 1 dataset, was also tested. We
+confirmed our and other previous negative findings for CDCP2. However, five
+significant SNPs in HIVEP3 (min P=0.004) were observed, although the two
+significant HIVEP3 SNPs from the PD WGA study were not significant in our
+datasets. Even though the sets of significant HIVEP3 markers differ between
+studies, these findings strongly support HIVEP3 as a candidate for PARK10.
+Further testing of HIVEP3 by other groups is encouraged.
+
+PMID: 17388942  [PubMed - indexed for MEDLINE]
+
+
+12. J Neurosci. 2005 Oct 26;25(43):9940-8.
+
+Vascular development of the brain requires beta8 integrin expression in the
+neuroepithelium.
+
+Proctor JM(1), Zang K, Wang D, Wang R, Reichardt LF.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Department of Physiology, University of
+California, San Francisco, California 94143, USA.
+
+We showed previously that loss of the integrin beta8 subunit, which forms
+alphavbeta8 heterodimers, results in abnormal vascular development in the yolk
+sac, placenta, and brain. Animals lacking the integrin beta8 (itgbeta8) gene die 
+either at midgestation, because of insufficient vascularization of the placenta
+and yolk sac, or shortly after birth with severe intracerebral hemorrhage. To
+specifically focus on the role of integrins containing the beta8 subunit in the
+brain, and to avoid early lethalities, we used a targeted deletion strategy to
+delete itgbeta8 only from cell types within the brain. Ablating itgbeta8 from
+vascular endothelial cells or from migrating neurons did not result in cerebral
+hemorrhage. Targeted deletion of itgbeta8 from the neuroepithelium, however,
+resulted in bilateral hemorrhage at postnatal day 0, although the phenotype was
+less severe than in itgbeta8-null animals. Newborn mice lacking itgbeta8 from the
+neuroepithelium had hemorrhages in the cortex, ganglionic eminence, and thalamus,
+as well as abnormal vascular morphogenesis, and disorganized glia. Interestingly,
+adult mice lacking itgbeta8 from cells derived from the neuroepithelium did not
+show signs of hemorrhage. We propose that defective association between vascular 
+endothelial cells and glia lacking itgbeta8 is responsible for the leaky
+vasculature seen during development but that an unidentified compensatory
+mechanism repairs the vasculature after birth.
+
+PMCID: PMC2849654
+PMID: 16251442  [PubMed - indexed for MEDLINE]
+
+
+13. Am J Hum Genet. 2005 Aug;77(2):252-64. Epub 2005 Jun 28.
+
+Identification of risk and age-at-onset genes on chromosome 1p in Parkinson
+disease.
+
+Oliveira SA(1), Li YJ, Noureddine MA, Zuchner S, Qin X, Pericak-Vance MA, Vance
+JM.
+
+Author information: 
+(1)Department of Medicine and Center for Human Genetics, Duke University Medical 
+Center, Durham, NC 27710, USA.
+
+We previously reported a linkage region on chromosome 1p (LOD = 3.41) for genes
+controlling age at onset (AAO) in Parkinson disease (PD). This region overlaps
+with the previously reported PARK10 locus. To identify the gene(s) associated
+with AAO and risk of PD in this region, we first applied a genomic convergence
+approach that combined gene expression and linkage data. No significant results
+were found. Second, we performed association mapping across a 19.2-Mb region
+centered under the AAO linkage peak. An iterative association mapping approach
+was done by initially genotyping single-nucleotide polymorphisms at an average
+distance of 100 kb apart and then by increasing the density of markers as needed.
+Using the overall data set of 267 multiplex families, we identified six
+associated genes in the region, but further screening of a subset of 83 families 
+linked to the chromosome 1 locus identified only two genes significantly
+associated with AAO in PD: the gamma subunit of the translation initiation factor
+EIF2B gene (EIF2B3), which was more significant in the linked subset and the
+ubiquitin-specific protease 24 gene (USP24). Unexpectedly, the human
+immunodeficiency virus enhancer-binding protein 3 gene (HIVEP3) was found to be
+associated with risk for susceptibility to PD. We used several criteria to define
+significant results in the presence of multiple testing, including criteria
+derived from a novel cluster approach. The known or putative functions of these
+genes fit well with the current suspected pathogenic mechanisms of PD and thus
+show great potential as candidates for the PARK10 locus.
+
+PMCID: PMC1224528
+PMID: 15986317  [PubMed - indexed for MEDLINE]
+
+
+14. J Exp Med. 2004 Jan 5;199(1):15-24.
+
+Schnurri-3 (KRC) interacts with c-Jun to regulate the IL-2 gene in T cells.
+
+Oukka M(1), Wein MN, Glimcher LH.
+
+Author information: 
+(1)Department of Immunology and Infectious Diseases, Harvard School of Public
+Health, Boston, MA 02115, USA.
+
+The activator protein 1 (AP-1) transcription factor is a key participant in the
+control of T cell proliferation, cytokine production, and effector function. In
+the immune system, AP-1 activity is highest in T cells, suggesting that a subset 
+of T cell-specific coactivator proteins exist to selectively potentiate AP-1
+function. Here, we describe that the expression of Schnurri-3, also known as
+kappa recognition component (KRC), is induced upon T cell receptor signaling in T
+cells and functions to regulate the expression of the interleukin 2 (IL-2) gene. 
+Overexpression of KRC in transformed and primary T cells leads to increased IL-2 
+production, whereas dominant-negative KRC, or loss of KRC protein in KRC-null
+mice, results in diminished IL-2 production. KRC physically associates with the
+c-Jun transcription factor and serves as a coactivator to augment AP-1-dependent 
+IL-2 gene transcription.
+
+PMCID: PMC1887724
+PMID: 14707112  [PubMed - indexed for MEDLINE]
+
+
+15. Genes Chromosomes Cancer. 2002 Dec;35(4):287-98.
+
+Developmental anomalies and neoplasia in animals and cells deficient in the large
+zinc finger protein KRC.
+
+Allen CE(1), Muthusamy N, Weisbrode SE, Hong JW, Wu LC.
+
+Author information: 
+(1)Program of Molecular, Cellular, and Developmental Biology, College of Medicine
+and Public Health, The Ohio State University, Columbus, Ohio, USA.
+
+The large zinc finger protein KRC binds to the signal sequences of V(D)J
+recombination and the kappaB motif. Disruption of KRC expression in cell lines
+resulted in increased cell proliferation, anchorage independence of growth, and
+uncoupling of nuclear division and cell division. In this report, the function of
+KRC was studied in a RAG2-deficient blastocyst complementation animal model.
+KRC-deficient embryonic stem cells were generated by homologous recombination and
+were introduced into RAG2(-/-) blastocysts to generate KRC(-/-);RAG2(-/-)
+chimeric mice. The lymphoid compartments of chimeras examined at 5 weeks of age
+were developed, suggesting that KRC is not essential for V(D)J recombination
+development. However, by 6 months of age, there was a marked deficit in
+CD4(+)CD8(+) thymocytes in the chimeras, suggesting that KRC may be involved in
+T-lymphocyte survival. Additionally, one chimera developed anomalies, including
+postaxial polydactyly, hydronephrosis, and an extragonadal malignant teratoma.
+DNA analysis showed that the teratoma was derived from KRC(-/-) embryonic stem
+cells. The teratoma had compound tissue organization and was infiltrated with B
+lymphocytes. Subsequently, several immortalized KRC-deficient cell lines were
+established from the teratoma. In this study, growth anomalies and neoplasia were
+observed in animals and cells deficient in KRC, and other studies have shown
+allelic loss occurring at the chromosomal region of the human KRC counterpart in 
+various tumors. We propose that KRC may be a previously unidentified
+tumor-suppresser gene.
+
+Copyright 2002 Wiley-Liss, Inc.
+
+PMID: 12378523  [PubMed - indexed for MEDLINE]
+
+
+16. BMC Immunol. 2002 Aug 22;3:10.
+
+The kappa B transcriptional enhancer motif and signal sequences of V(D)J
+recombination are targets for the zinc finger protein HIVEP3/KRC: a site
+selection amplification binding study.
+
+Allen CE(1), Mak CH, Wu LC.
+
+Author information: 
+(1)Department of Pediatrics, College of Medicine and Public Health, The Ohio
+State University, Columbus, OH 43210, USA. allen.111@osu.edu
+
+BACKGROUND: The ZAS family is composed of proteins that regulate transcription
+via specific gene regulatory elements. The amino-DNA binding domain (ZAS-N) and
+the carboxyl-DNA binding domain (ZAS-C) of a representative family member, named 
+kappaB DNA binding and recognition component (KRC), were expressed as fusion
+proteins and their target DNA sequences were elucidated by site selection
+amplification binding assays, followed by cloning and DNA sequencing. The fusion 
+proteins-selected DNA sequences were analyzed by the MEME and MAST computer
+programs to obtain consensus motifs and DNA elements bound by the ZAS domains.
+RESULTS: Both fusion proteins selected sequences that were similar to the kappaB 
+motif or the canonical elements of the V(D)J recombination signal sequences (RSS)
+from a pool of degenerate oligonucleotides. Specifically, the ZAS-N domain
+selected sequences similar to the canonical RSS nonamer, while ZAS-C domain
+selected sequences similar to the canonical RSS heptamer. In addition, both KRC
+fusion proteins selected oligonucleoties with sequences identical to heptamer and
+nonamer sequences within endogenous RSS.
+CONCLUSIONS: The RSS are cis-acting DNA motifs which are essential for V(D)J
+recombination of antigen receptor genes. Due to its specific binding affinity for
+RSS and kappaB-like transcription enhancer motifs, we hypothesize that KRC may be
+involved in the regulation of V(D)J recombination.
+
+PMCID: PMC122077
+PMID: 12193271  [PubMed - indexed for MEDLINE]
+
+
+17. Gene Expr. 2002;10(4):137-52.
+
+ZAS: C2H2 zinc finger proteins involved in growth and development.
+
+Wu LC(1).
+
+Author information: 
+(1)Department of Molecular and Cellular Biochemistry, The Ohio State University, 
+College of Medicine and Public Health, Columbus 43210, USA. wu.39@osu.edu
+
+A ZAS gene encodes a large protein with two separate C2H2 zinc finger pairs that 
+independently bind to specific DNA sequences, including the kappaB motif. Three
+paralogous mammalian genes, ZAS1, ZAS2, and ZAS3, and a related Drosophila gene, 
+Schnurri, have been cloned and characterized. The ZAS genes encode
+transcriptional proteins that activate or repress the transcription of a variety 
+of genes involved in growth, development, and metastasis. In addition, ZAS3
+associates with a TNF receptor-associated factor to inhibit NF-kappaB- and JNK/
+SAPK-mediated signaling of TNF-alpha. Genetic experiments show that ZAS3
+deficiency leads to proliferation of cells and tumor formation in mice. The data 
+suggest that ZAS3 is important in controlling cell growth, apoptosis, and
+inflammation. The potent vasoactive hormone endothelin and transcription factor
+AP2 gene families also each consist of three members. The ZAS, endothelin, and
+transcription factor AP2 genes form several linkage groups. Knowledge of the
+chromosomal locations of these genes provides valuable clues to the evolution of 
+the vertebrate genome.
+
+PMID: 12173742  [PubMed - indexed for MEDLINE]
+
+
+18. Genesis. 2002 May;33(1):8-20.
+
+Embryonic expression and regulation of the large zinc finger protein KRC.
+
+Hicar MD(1), Robinson ML, Wu LC.
+
+Author information: 
+(1)Department of Molecular Virology, Immunology and Medical Genetics, The Ohio
+State University, College of Medicine and Public Health, Columbus 43210, USA.
+
+KRC fusion proteins bind to the kappaB enhancer motif and to the signal sequences
+of V(D)J recombination. Here we have characterized endogenous KRC in mouse
+embryos and lymphoma cell lines. Starting from midgestation, neuronal- and
+lymphoid-restricted expression of KRC was observed from the dorsal root ganglia, 
+trigeminal ganglion, thymus, and cerebral cortex. Several B-cell lines produced
+an alternatively spliced KRC transcript of 4.5 kb and a 115-kDa DNA-binding
+protein isoform. Additionally, that KRC transcript was induced by
+lipopolysaccharide, a potent activator of cells in immunity and inflammation. In 
+genetic-engineered B cells stably transfected with inducible expression vectors
+for the recombination activating genes RAG1, RAG2, or both, the avidity of KRC to
+DNA was markedly decreased when RAG1 and RAG2 were overexpressed. We hypothesize 
+that KRC may function in developing thymocytes and neurons, where its role might 
+be transcription regulation or DNA recombination.
+
+Copyright 2002 Wiley-Liss, Inc.
+
+PMID: 12001065  [PubMed - indexed for MEDLINE]
+
+
+19. Mol Cell. 2002 Jan;9(1):121-31.
+
+A mammalian homolog of Drosophila schnurri, KRC, regulates TNF receptor-driven
+responses and interacts with TRAF2.
+
+Oukka M(1), Kim ST, Lugo G, Sun J, Wu LC, Glimcher LH.
+
+Author information: 
+(1)Department of Immunology and Infectious Diseases, Harvard School of Public
+Health, 651 Huntington Avenue, FXB-2, Boston, MA 02115, USA.
+
+The cytokine TNFalpha launches cascades of gene activation that control
+inflammation and apoptosis through NFkappaB and JNK/SAPK signal transduction
+pathways. Here we describe a function for the zinc finger transcription factor
+kappa recognition component (KRC) in regulating patterns of gene activation in
+response to proinflammatory stimuli. We demonstrate that KRC overexpression
+inhibits while antisense or dominant-negative KRC enhances NFkappaB-dependent
+transactivation and JNK phosphorylation and consequently, apoptosis and cytokine 
+gene expression. The effect of KRC is mediated through its interaction with the
+adaptor protein TRAF2, which intersects both pathways. KRC is a hitherto
+unrecognized participant in the signal transduction pathway leading from the TNF 
+receptor to gene activation and may play a critical role in inflammatory and
+apoptotic responses.
+
+PMID: 11804591  [PubMed - indexed for MEDLINE]
+
+
+20. Immunogenetics. 2001 Sep;53(7):564-71.
+
+The DNA-binding ability of HIVEP3/KRC decreases upon activation of V(D)J
+recombination.
+
+Wu LC(1), Hicar MD, Hong J, Allen CE.
+
+Author information: 
+(1)Room S2077, Davis Medical Center, Department of Internal Medicine, The Ohio
+State University, 480 West 9th Avenue, Columbus, OH 43210, USA. wu.39@osu.edu
+
+Somatic V(D)J recombination of the immune receptor genes is mediated by the
+recombination signal sequence (RSS) and the recombination-activating genes RAG1
+and RAG2. Previously, proteins binding specifically to the RSS have been
+characterized in nuclear extracts of T and B lymphocytes. Further elucidation of 
+the role of those RSS-binding proteins in V(D)J recombination, however, has been 
+hampered by the fact that their identities have not been established. Here, we
+show that the major RSS-binding protein present in the nuclear extracts of B
+lymphocytes is an Mr 135,000 species. Notably, its affinity for the RSS decreased
+when RAG1 and RAG2 were induced. In immunoblot analyses and gel supershift
+assays, we showed that KRC antisera react with the Mr 135,000 RSS-binding
+protein. We previously cloned KRC from a thymocyte expression library using
+32P-RSS as a ligand and showed that KRC fusion proteins bind specifically to the 
+RSS and to the kappaB enhancer motif. The lymphoid expression and DNA-binding
+characteristics suggest that KRC may be involved in lymphocyte development.
+
+PMID: 11685469  [PubMed - indexed for MEDLINE]
+
+
+21. Nat Immunol. 2001 Nov;2(11):1048-53.
+
+Murine Schnurri-2 is required for positive selection of thymocytes.
+
+Takagi T(1), Harada J, Ishii S.
+
+Author information: 
+(1)Laboratory of Molecular Genetics, RIKEN Tsukuba Institute, CREST Research
+Project of JST, 3-1-1 Koyadai, Tsukuba, Ibaraki 305-0074, Japan.
+
+Comment in
+    Nat Immunol. 2001 Nov;2(11):989-91.
+
+A key step in T cell development involves the positive selection of cells that
+recognize antigen presented by self-major histocompatibility complex. Yet, the
+signals that are activated by T cell receptor engagement and lead to cell
+survival remain unclear. We show here that mice lacking the transcription factor 
+Schnurri-2 (Shn-2), a large metal-finger protein, had severely defective positive
+selection of CD4+ and CD8+ cells. Drosophila Shn acts as a cofactor of Smad
+homolog and is required for Decapentaplegic signaling. Vertebrates have at least 
+three Shn orthologs (Shn-1, Shn-2 and Shn-3), which are thought to act as nuclear
+targets in the bone morphogenetic protein-transforming growth factor-beta-activin
+signaling pathways. These data raised the possibility that the Smad-Shn-2 complex
+is involved in the thymic selection of T cells.
+
+PMID: 11668343  [PubMed - indexed for MEDLINE]
+
+
+22. Nucleic Acids Res. 2001 Aug 15;29(16):3335-46.
+
+Characterization of Sp1, AP-1, CBF and KRC binding sites and minisatellite DNA as
+functional elements of the metastasis-associated mts1/S100A4 gene intronic
+enhancer.
+
+Cohn MA(1), Hjelmsø I, Wu LC, Guldberg P, Lukanidin EM, Tulchinsky EM.
+
+Author information: 
+(1)Department of Molecular Cancer Biology, Institute of Cancer Biology, The
+Danish Cancer Society, Strandboulevarden 49, DK-2100 Copenhagen, Denmark.
+
+The mts1/S100A4 gene encodes a small acidic calcium-binding protein that is
+expressed in a cell-specific manner in development, tumorigenesis and certain
+tissues of adult mice. A composite enhancer that is active in murine mammary
+adenocarcinoma cells was previously identified in the first intron of the
+mts1/S100A4 gene. Here we present a detailed analysis of the structure and
+function of this enhancer in the Mts1/S100A4-expressing CSML100 and
+non-expressing CSML0 mouse adenocarcinoma cell lines. In CSML100 cells the
+enhancer activity is composed of at least six cis-elements interacting with Sp1
+and AP-1 family members and CBF/AML/PEBP2 and KRC transcription factors. In
+addition, a minisatellite-like DNA sequence significantly contributes to the
+enhancer activity via interaction with abundant proteins, which likely have been 
+described previously under the name minisatellite-binding proteins. Extensive
+mutational analysis of the mts1/S100A4 enhancer revealed a cooperative function
+of KRC and the factors binding minisatellite DNA. This is the first example of an
+enhancer where two nuclear factors earlier implicated in different recombination 
+processes cooperate to activate transcription. In Mts1/S100A4-negative CSML0
+cells the strength of the enhancer was 7- to 12.5-fold lower compared to that in 
+CSML100 cells, when referred to the activities of three viral promoters. In CSML0
+cells the enhancer could be activated by exogenous AP-1 and CBF transcription
+factors.
+
+PMCID: PMC55845
+PMID: 11504871  [PubMed - indexed for MEDLINE]
+
+
+23. Genomics. 2001 Jan 1;71(1):89-100.
+
+Structure of the human zinc finger protein HIVEP3: molecular cloning, expression,
+exon-intron structure, and comparison with paralogous genes HIVEP1 and HIVEP2.
+
+Hicar MD(1), Liu Y, Allen CE, Wu LC.
+
+Author information: 
+(1)Department of Molecular Virology, Immunology, and Medical Genetics, College of
+Medicine and Public Health, The Ohio State University, Columbus, Ohio 43210, USA.
+
+Here we report the cloning and characterization of HIVEP3, the newest member in
+the human immunodeficiency virus type 1 enhancer-binding protein family that
+encodes large zinc finger proteins and regulates transcription via the kappaB
+enhancer motif. The largest open reading frame of HIVEP3 contains 2406 aa. and is
+approximately 80% identical to the mouse counterpart. The HIVEP3 gene is located 
+in the chromosomal region 1p34 and is at least 300 kb with 10 exons. RNA studies 
+show that multiple HIVEP3 transcripts are differentially expressed and regulated.
+Additionally, transcription termination occurs in the ultimate exon, exon 10, or 
+in exon 6. Therefore, HIVEP3 may produce protein isoforms that contain or exclude
+the carboxyl DNA binding domain and the leucine zipper by alternative RNA
+splicing and differential polyadenylation. Sequence homologous to HIVEP3 exon 6
+is not found in mouse nor are the paralogous genes HIVEP1 and HIVEP2. Zoo-blot
+analysis suggests that sequences homologous to the human exon 6 are present only 
+in primates and cow. Therefore, a foreign DNA harboring a termination exon likely
+was inserted into the HIVEP3 locus relatively recently in evolution, resulting in
+the acquisition of novel gene regulatory mechanisms as well as the generation of 
+structural and functional diversity.
+
+Copyright 2001 Academic Press.
+
+PMID: 11161801  [PubMed - indexed for MEDLINE]
+
+
+24. Exp Cell Res. 2000 Nov 1;260(2):346-56.
+
+Downregulation of KRC induces proliferation, anchorage independence, and mitotic 
+cell death in HeLa cells.
+
+Allen CE(1), Wu LC.
+
+Author information: 
+(1)Program of Molecular, Cellular, and Developmental Biology, Ohio State
+University, Columbus, Ohio, 43210, USA.
+
+The large zinc finger protein KRC regulates transcription of target genes via the
+kappaB gene enhancer element. As an attempt to investigate the cellular function 
+of KRC, we have established cell lines stably transfected with KRC expression
+vectors. Introduction of a vector directing expression of a transcript antisense 
+to KRC mRNAs in several mammalian cell lines resulted in accelerated
+proliferation. Furthermore, in HeLa cells, downregulation of KRC conferred
+anchorage-independent growth and promoted cell cycle progression without an
+intervening cytokinesis, culminating in the formation of multinucleated giant
+cells. Ultimately these cells died.
+
+Copyright 2000 Academic Press.
+
+PMID: 11035930  [PubMed - indexed for MEDLINE]
+
+
+25. J Biol Chem. 2000 Jan 14;275(2):913-20.
+
+The kappaB and V(D)J recombination signal sequence binding protein KRC regulates 
+transcription of the mouse metastasis-associated gene S100A4/mts1.
+
+Hjelmsoe I(1), Allen CE, Cohn MA, Tulchinsky EM, Wu LC.
+
+Author information: 
+(1)Danish Cancer Society, Department of Molecular Cancer Biology,
+Strandboulevarden 49, DK-2100 Copenhagen, Denmark.
+
+A kappaB-like sequence, Sb, is integral to the composite enhancer located in the 
+first intron of the metastasis-associated gene, S100A4/mts1. Oligonucleotides
+containing this sequence form three specific complexes with nuclear proteins
+prepared from S100A4/mts1-expressing CSML100 adenocarcinoma cells. Protein
+studies show the Sb-interacting complexes include NF-kappaB/Rel proteins, p50.p50
+and p50.p65 dimers. Additionally, the Sb sequence was bound by an unrelated
+approximately 200-kDa protein, p200. Site-directed mutagenesis in conjunction
+with transient transfections indicate that p200, but not the NF-kappaB/Rel
+proteins, transactivates S100A4/mts1. To identify candidate genes for p200,
+double-stranded DNA probes containing multiple copies of Sb were used to screen a
+randomly primed lambdagt11 cDNA expression library made from CSML100 poly(A)(+)
+RNA. Two clones corresponding to the DNA-binding proteins KRC and Alf1 were
+identified. KRC encodes a large zinc finger protein that binds to the kappaB
+motif and to the signal sequences of V(D)J recombination. In vitro DNA binding
+assays using bacterially expressed KRC fusion proteins, demonstrate specific
+binding of KRC to the Sb sequence. In addition, introduction of KRC expression
+vectors into mammalian cells induces expression of S100A4/mts1 and reporter genes
+driven by S100A4/mts1 gene regulatory sequences. These data indicate that KRC
+positively regulates transcription of S100A4/mts1.
+
+PMID: 10625627  [PubMed - indexed for MEDLINE]
+
+
+26. Nucleic Acids Res. 1999 Jan 15;27(2):643-8.
+
+Regulation by phosphorylation of the zinc finger protein KRC that binds the
+kappaB motif and V(D)J recombination signal sequences.
+
+Bachmeyer C(1), Mak CH, Yu CY, Wu LC.
+
+Author information: 
+(1)Department of Internal Medicine and Department of Medical Biochemistry, Ohio
+State University, Columbus, OH 43210, USA.
+
+Erratum in
+    Nucleic Acids Res 1999 Nov 15;27(22):following 4531.
+
+The DNA binding protein KRC (forkappaB binding andrecognitioncomponent of the
+V(D)J recombination signal sequence) belongs to a family of large zinc finger
+proteins that bind to the kappaB motif and contains two widely separated DNA
+binding structures. In addition to the kappaB motif, KRC fusion proteins bind to 
+the signal sequences of V(D)J recombination to form highly ordered complexes.
+Here, we report that KRC may be regulated by post-translational modifications.
+Specific protein kinases present in the nucleus of pre-B cells phosphorylated a
+KRC fusion protein at tyrosine and serine residues. Such protein modifications
+increased DNA binding, thereby providing a mechanism by which KRC responds to
+signal transduction pathways. KRC is a substrate of epidermal growth factor
+receptor kinase and P34cdc2 kinase in vitro. Our results suggest that activation 
+of the KRC family of transcription factors may provide a mechanism by which
+oncogenic tyrosine kinases regulate genes with kappaB-controlled gene regulatory 
+elements.
+
+PMCID: PMC148227
+PMID: 9862992  [PubMed - indexed for MEDLINE]
+
+
+27. Immunogenetics. 1998 Jun;48(1):32-9.
+
+KRC transcripts: identification of an unusual alternative splicing event.
+
+Mak CH(1), Li Z, Allen CE, Liu Y, Wu L.
+
+Author information: 
+(1)The Ohio State Biochemistry Program, the Ohio State University, 480 West Ninth
+Avenue, Columbus OH 43210, USA.
+
+Mouse KRC is a large zinc finger protein that binds to the kappaB motif of gene
+transcription and to the recognition signal sequences for the somatic
+recombination of the immunoglobulin and T-cell receptor gene segments. The mouse 
+KRC gene is more than 70 kilobases (kb) in size, and contains at least seven
+exons, with the largest transcript being approximately 9.5 kb. Multiple
+differentially spliced transcripts of KRC were identified in thymus and brain,
+which would result in the production of multiple KRC protein isoforms with
+different N-termini and number of DNA binding domains. Alternative splicing
+events leading to the production of these multiple transcripts have been
+elucidated. Of particular interest are the exclusions in some transcripts of
+sequences from a gigantic exon of 5487 base pairs (bp), or from an exon of 176
+bp. Both potentially deleted exons code for zinc finger motifs that are essential
+components of the N-terminal and C-terminal DNA binding domains, respectively.
+Another intriguing phenomenon found in some KRC transcripts is the skipping of a 
+459 bp fragment within the gigantic exon that would code for the N-terminal DNA
+binding domain. Bacterial fusion proteins derived from this fragment bind
+specifically to KRC target DNAs. Apparently, distinct alternative splicing events
+could eliminate the N-terminal DNA binding domain of KRC.
+
+PMID: 9601941  [PubMed - indexed for MEDLINE]
+
+
+28. Genomics. 1996 Aug 1;35(3):415-24.
+
+The mouse DNA binding protein Rc for the kappa B motif of transcription and for
+the V(D)J recombination signal sequences contains composite DNA-protein
+interaction domains and belongs to a new family of large transcriptional
+proteins.
+
+Wu LC(1), Liu Y, Strandtmann J, Mak CH, Lee B, Li Z, Yu CY.
+
+Author information: 
+(1)Department of Medical Biochemistry, Ohio State Biochemistry Program, College
+of Medicine, Columbus 43210, USA. lcwu@mag.nus.acs.ohio-state.edu
+
+Rc is a DNA binding protein with dual specificities for the V(D)J recombination
+signal sequences and for the B motif of the immunoglobulin kappa chain gene
+enhancer. The largest Rc transcript present in lymphoid cells/tissues is
+approximately 9 kb. Molecular cloning and sequence determination for 8822 bp of
+mouse Rc cDNA revealed an open reading frame of 2282 amino acids and long 5'- and
+3'-untranslated regions. The derived amino acid sequence contains multiple DNA
+and protein interaction domains. Composite ZAS structures with tandem zinc
+fingers, an acidic motif, and a Ser/Thr-rich segment are located near the
+N-terminal and the C-terminal regions. The middle region of Rc contains a lone
+zinc finger, an acidic motif, a Ser-rich region, a nucleus localization signal,
+and GTPase motifs. Cloning and characterization of a mouse Rc gene show that the 
+Rc cDNA corresponds to seven exons located in a genomic region spanning 70 kb.
+Exon 2 is exceptionally large, with 5487 bp. cDNA cloning and Northern blot
+analyses revealed multiple Rc transcripts, probably generated by alternative
+splicings. Sequence comparisons show that Rc belongs to a ZAS protein family that
+is involved in gene transcription and/or DNA recombination. The major
+histocompatibility complex class I gene enhancer binding proteins MBP1 and MBP2
+are other representatives of this ZAS protein family.
+
+PMID: 8812474  [PubMed - indexed for MEDLINE]
+
+
+29. Nucleic Acids Res. 1994 Feb 11;22(3):383-90.
+
+The V(D)J recombination signal sequence and kappa B binding protein Rc binds DNA 
+as dimers and forms multimeric structures with its DNA ligands.
+
+Mak CH(1), Strandtmann J, Wu LC.
+
+Author information: 
+(1)Department of Medical Biochemistry, Ohio State Biochemistry Program, Ohio
+State University, Columbus 43210.
+
+The murine DNA binding protein Rc binds to the heptamer motif of the V(D)J
+recombination signal sequences and to the kappa B motif of the immunoglobulin
+enhancer. Bacterial fusion proteins for Rc and DNA ligands of Rc form multiple
+protein-DNA complexes in electrophoretic mobility shift assays (EMSA). Large
+complexes formation is favored by an increased Rc concentration. In order to
+determine the architecture of these complexes, the apparent molecular weights of 
+the protein-DNA complexes were first determined by their gel mobilities. The data
+suggest that Rc binds to its DNA ligands as dimers, tetramers, and multiples of
+tetramers. The inference that Rc binds DNA as dimers was substantiated by the
+formation of chimeric complexes when two electrophoretically distinguishable Rc
+proteins were employed in EMSA. Methylation interference experiments show that
+there are no contiguous protein binding sites evident in the DNA of the larger
+complexes. Apparently, multimerization occurs via protein-protein interactions.
+Such interaction was demonstrated by the formation of Rc dimers and tetramers in 
+a chemical crosslinking experiment. Significantly, the multimerization of
+DNA-bound Rc could be involved in bringing the variable region gene segments
+together for the somatic V(D)J recombination.
+
+PMCID: PMC523593
+PMID: 8127675  [PubMed - indexed for MEDLINE]
+
+
+30. Nucleic Acids Res. 1993 Nov 11;21(22):5067-73.
+
+Molecular cloning of a zinc finger protein which binds to the heptamer of the
+signal sequence for V(D)J recombination.
+
+Wu LC(1), Mak CH, Dear N, Boehm T, Foroni L, Rabbitts TH.
+
+Author information: 
+(1)Medical Research Council, Laboratory of Molecular Biology, Cambridge, UK.
+
+The somatic V(D)J recombination for the assembly of the Ig and TCR genes is
+mediated by the recombination signal sequences (Rss) and the V(D)J recombinase. A
+cDNA clone was isolated from a lambda gt11 expression library made from mouse
+thymocyte poly(A)+ RNA, using the Rss as a ligand. The deduced amino acid
+sequence of the putative protein, designated Recognition component (Rc), reveals 
+a pair of Cys2-His2 zinc fingers followed by a Glu- and Asp-rich acidic domain.
+In addition, there are five copies of the Ser/Thr-Pro-X-Arg/Lys sequence, which
+are putative DNA binding units. The zinc finger-acidic domain structures present 
+in Rc are also found in several enhancer binding proteins, such as those for the 
+kappa B motif of the Ig kappa light chain enhancer or related sequences.
+Bacterial fusion proteins for Rc bind preferentially to the Rss heptamer and to
+the kappa B motif. The dual affinities of Rc for the Rss heptamer and the kappa B
+motif suggest a possible link between Ig transcription and somatic recombination.
+The formation of multiple 'gel-shifted' DNA-protein complexes for Rc and its DNA 
+ligand suggests that these complexes tend to multimerize.
+
+PMCID: PMC310618
+PMID: 8255760  [PubMed - indexed for MEDLINE]
+
+

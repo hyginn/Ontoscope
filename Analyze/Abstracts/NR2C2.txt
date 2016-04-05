@@ -1,0 +1,3450 @@
+
+1. Cardiovasc Ther. 2016 Apr;34(2):67-75. doi: 10.1111/1755-5922.12171.
+
+Bioinformatics Analyses of Differentially Expressed Genes Associated with Acute
+Myocardial Infarction.
+
+Gao Y(1), Qi GX(1), Guo L(1), Sun YX(1).
+
+Author information: 
+(1)Department of Cardiology, The First Hospital of China Medical University,
+Shenyang, China.
+
+BACKGROUND: We aimed to predict key genes associated with acute myocardial
+infarction (AMI) by bioinformatics analysis.
+METHODS: The microarray data of GSE48060, including peripheral blood samples from
+31 first-time AMI patients within 48-h post-MI and 21 normal controls, were
+obtained from Gene Expression Omnibus database. The differentially expressed
+genes (DEGs) in AMI samples compared with normal controls were identified.
+Functional enrichment analysis was then performed, followed by analysis of
+protein-protein interaction (PPI) network and transcription regulatory network
+(TRN).
+RESULTS: A total of 385 up- and 504 down-regulated DEGs were identified. They
+were mainly enriched in five pathways, such as natural killer (NK) cell-mediated 
+cytotoxicity and chemokine signaling pathway. Chemokine (C-C motif) ligand 5
+(CCL5) was hub protein in PPI network. Besides, four transcription factors (TFs),
+including nuclear receptor subfamily 2, group C, member 2 (NR2C2), MYC-associated
+factor X (MAX), general transcription factor IIIC, polypeptide 2, beta 110 kDa
+(GTF3C2), and B-cell CLL/lymphoma 3 (BCL3), were identified. Notably, nuclear
+receptor coactivator 7 (NCOA7) interacted with GTF3C2 and MAX directly.
+CONCLUSIONS: CCL5, BCL3, NR2C2, MAX, GTF3C2, and NCOA7 might play important roles
+in AMI development.
+
+© 2016 John Wiley & Sons Ltd.
+
+PMID: 26725916  [PubMed - in process]
+
+
+2. Neoplasia. 2015 Apr;17(4):339-47. doi: 10.1016/j.neo.2015.02.005.
+
+The Differential Effects of Anti-Diabetic Thiazolidinedione on Prostate Cancer
+Progression Are Linked to the TR4 Nuclear Receptor Expression Status.
+
+Lin SJ(1), Lin CY(1), Yang DR(2), Izumi K(1), Yan E(1), Niu X(1), Chang HC(1),
+Miyamoto H(1), Wang N(1), Li G(3), Chang C(4).
+
+Author information: 
+(1)The George Whipple Lab for Cancer Research, Departments of Pathology, Urology,
+Radiation Oncology and the Wilmot Cancer Center, University of Rochester Medical 
+Center, Rochester, NY, USA. (2)The George Whipple Lab for Cancer Research,
+Departments of Pathology, Urology, Radiation Oncology and the Wilmot Cancer
+Center, University of Rochester Medical Center, Rochester, NY, USA; Department of
+Urology, The Second Affiliated Hospital of Soochow University, Suzhou, China.
+(3)The George Whipple Lab for Cancer Research, Departments of Pathology, Urology,
+Radiation Oncology and the Wilmot Cancer Center, University of Rochester Medical 
+Center, Rochester, NY, USA; Department of Urology, Sir Run Run Shaw Hospital,
+Zhejiang University, Hangzhou, China. Electronic address:
+ligonghui1970@hotmail.com. (4)The George Whipple Lab for Cancer Research,
+Departments of Pathology, Urology, Radiation Oncology and the Wilmot Cancer
+Center, University of Rochester Medical Center, Rochester, NY, USA; Sex Hormone
+Research Center, China Medical University/Hospital, Taichung, Taiwan. Electronic 
+address: chang@urmc.rochester.edu.
+
+The insulin sensitizers, thiazolidinediones (TZDs), have been used as
+anti-diabetic drugs since the discovery of their ability to alter insulin
+resistance through transactivation of peroxisome proliferator-activated receptors
+(PPARs). However, their side effects in hepatitis, cardiovascular diseases, and
+bladder cancer resulted in some selling restrictions in the USA and Europe. Here,
+we found that the potential impact of TZDs on the prostate cancer (PCa)
+progression might be linked to the TR4 nuclear receptor expression. Clinical
+surveys found that 9% of PCa patients had one allele TR4 deletion in their
+tumors. TZD increased cell growth and invasion in PCa cells when TR4 was knocked 
+down. In contrast, TZD decreased PCa progression in PCa cells with wild type TR4.
+Mechanism dissection found that the Harvey Rat Sarcoma (HRAS) oncogene increased 
+on TZD treatment of the TR4 knocked-down CWR22Rv1 and C4-2 cells, and
+interruption with HRAS inhibitor resulted in reversal of TZD-induced PCa
+progression. Together, these results suggest that TZD treatment may promote PCa
+progression depending on the TR4 expression status that may be clinically
+relevant since extra caution may be needed for those diabetic PCa patients
+receiving TZD treatment who have one allele TR4 deletion.
+
+Copyright © 2015 The Authors. Published by Elsevier Inc. All rights reserved.
+
+PMCID: PMC4415117
+PMID: 25925376  [PubMed - indexed for MEDLINE]
+
+
+3. Bioinformatics. 2015 Aug 1;31(15):2537-44. doi: 10.1093/bioinformatics/btv186.
+Epub 2015 Apr 2.
+
+Regulatory network inferred using expression data of small sample size:
+application and validation in erythroid system.
+
+Zhu F(1), Shi L(2), Engel JD(3), Guan Y(4).
+
+Author information: 
+(1)Department of Computational Medicine and Bioinformatics, University of
+Michigan, Ann Arbor, MI 48109, USA. (2)State Key Laboratory of Experimental
+Hematology, Institute of Hematology and Blood Diseases Hospital, Chinese Academy 
+of Medical Sciences and Peking Union Medical College, Tianjin 300020, China.
+(3)Department of Cell and Developmental Biology. (4)Department of Computational
+Medicine and Bioinformatics, University of Michigan, Ann Arbor, MI 48109, USA,
+Department of Internal Medicine, and Department of Electrical Engineering and
+Computer Science, University of Michigan, Ann Arbor, MI 48109, USA.
+
+MOTIVATION: Modeling regulatory networks using expression data observed in a
+differentiation process may help identify context-specific interactions. The
+outcome of the current algorithms highly depends on the quality and quantity of a
+single time-course dataset, and the performance may be compromised for datasets
+with a limited number of samples.
+RESULTS: In this work, we report a multi-layer graphical model that is capable of
+leveraging many publicly available time-course datasets, as well as a cell
+lineage-specific data with small sample size, to model regulatory networks
+specific to a differentiation process. First, a collection of network inference
+methods are used to predict the regulatory relationships in individual public
+datasets. Then, the inferred directional relationships are weighted and
+integrated together by evaluating against the cell lineage-specific dataset. To
+test the accuracy of this algorithm, we collected a time-course RNA-Seq dataset
+during human erythropoiesis to infer regulatory relationships specific to this
+differentiation process. The resulting erythroid-specific regulatory network
+reveals novel regulatory relationships activated in erythropoiesis, which were
+further validated by genome-wide TR4 binding studies using ChIP-seq. These
+erythropoiesis-specific regulatory relationships were not identifiable by single 
+dataset-based methods or context-independent integrations. Analysis of the
+predicted targets reveals that they are all closely associated with hematopoietic
+lineage differentiation.
+
+© The Author 2015. Published by Oxford University Press. All rights reserved. For
+Permissions, please e-mail: journals.permissions@oup.com.
+
+PMCID: PMC4514931 [Available on 2016-08-01]
+PMID: 25840044  [PubMed - indexed for MEDLINE]
+
+
+4. J Immunol. 2015 Apr 1;194(7):3116-26. doi: 10.4049/jimmunol.1401303. Epub 2015
+Mar 4.
+
+Demethylation of the RORC2 and IL17A in human CD4+ T lymphocytes defines Th17
+origin of nonclassic Th1 cells.
+
+Mazzoni A(1), Santarlasci V(2), Maggi L(2), Capone M(3), Rossi MC(3), Querci
+V(3), De Palma R(4), Chang HD(5), Thiel A(6), Cimaz R(7), Liotta F(8), Cosmi
+L(8), Maggi E(8), Radbruch A(5), Romagnani S(3), Dong J(5), Annunziato F(9).
+
+Author information: 
+(1)Department of Experimental and Clinical Medicine, University of Florence,
+Florence 50134, Italy; DENOTHE Center, University of Florence, Florence 50134,
+Italy; Department of Clinical and Experimental Medicine, Second University of
+Naples, Naples 80131, Italy; Center for Biomolecular Studies Supporting Human
+Health, Second University of Naples, Naples 80131, Italy; (2)Department of
+Experimental and Clinical Medicine, University of Florence, Florence 50134,
+Italy; DENOTHE Center, University of Florence, Florence 50134, Italy;
+Regenerative Medicine Unit, Careggi University Hospital, Florence 50134, Italy;
+(3)Department of Experimental and Clinical Medicine, University of Florence,
+Florence 50134, Italy; DENOTHE Center, University of Florence, Florence 50134,
+Italy; (4)Department of Clinical and Experimental Medicine, Second University of 
+Naples, Naples 80131, Italy; Center for Biomolecular Studies Supporting Human
+Health, Second University of Naples, Naples 80131, Italy; (5)Cell Biology Group, 
+German Rheumatism Research Center Berlin, 10117 Berlin, Germany; (6)Regenerative 
+Immunology and Aging, Berlin-Brandenburg Center for Regenerative Therapies,
+Charité University Medicine Berlin, 13353 Berlin, Germany; (7)Anna Meyer
+Children's Hospital and University of Florence, Florence 50134, Italy; and.
+(8)Department of Experimental and Clinical Medicine, University of Florence,
+Florence 50134, Italy; DENOTHE Center, University of Florence, Florence 50134,
+Italy; Immunology and Cellular Therapy Unit, Careggi University Hospital,
+Florence 50134, Italy. (9)Department of Experimental and Clinical Medicine,
+University of Florence, Florence 50134, Italy; DENOTHE Center, University of
+Florence, Florence 50134, Italy; Regenerative Medicine Unit, Careggi University
+Hospital, Florence 50134, Italy; francesco.annunziato@unifi.it.
+
+Th17-derived Th1 lymphocytes, termed nonclassic, differ from classic Th1 cells
+because of the presence of retinoic acid orphan receptor (ROR)C2 and the surface 
+expression of CD161 and CCR6. We demonstrate in this article that nonclassic Th1 
+cells, like Th17 cells, have a marked RORC2 and IL17A demethylation, whereas
+classic Th1 cells exhibit a complete methylation of these genes. The analysis of 
+RORC2 DNA methylation in the CD4(+)CD161(+) and CD4(+)CD161(-) naive Th subsets
+from umbilical cord blood surprisingly revealed comparable hypermethylation
+levels. PCR analysis at the single-cell level revealed that RORC2 mRNA was
+expressed by none of the CD4(+)CD161(-) and present only in a minority of
+CD4(+)CD161(+) naive Th cells. These findings provide two important novel
+observations on the physiology of human Th17 cells: 1) they confirm at the
+epigenetic level the origin of nonclassic Th1 cells from Th17 cells, also
+identifying in the RORC2 and IL17A methylation status a novel tool for their
+distinction from classic Th1 cells, and 2) they demonstrate that RORC2-expressing
+cells are only a minority in the subset of CD4(+)CD161(+) naive Th cells, which
+are known to contain all Th17 cell precursors.
+
+Copyright © 2015 by The American Association of Immunologists, Inc.
+
+PMID: 25740946  [PubMed - indexed for MEDLINE]
+
+
+5. Mol Cancer. 2015 Jan 27;14:16. doi: 10.1186/s12943-014-0281-1.
+
+Targeting TR4 nuclear receptor suppresses prostate cancer invasion via reduction 
+of infiltrating macrophages with alteration of the TIMP-1/MMP2/MMP9 signals.
+
+Ding X(1,)(2), Yang DR(3,)(4), Xia L(5), Chen B(6), Yu S(7), Niu Y(8), Wang M(9),
+Li G(10), Chang C(11,)(12).
+
+Author information: 
+(1)Department of Urology and Chawnshang Chang Liver Cancer Center, Sir Run Run
+Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, 310016, China. 
+1291128592@qq.com. (2)George Whipple Lab for Cancer Research, Departments of
+Pathology, Urology and Radiation Oncology, and The Wilmot Cancer Center,
+University of Rochester Medical Center, Rochester, NY, 14646, USA.
+1291128592@qq.com. (3)George Whipple Lab for Cancer Research, Departments of
+Pathology, Urology and Radiation Oncology, and The Wilmot Cancer Center,
+University of Rochester Medical Center, Rochester, NY, 14646, USA.
+doc_ydr@163.com. (4)Department of Urology, the 2nd Affiliated Hospital of Soochow
+University, Suzhou, 215004, China. doc_ydr@163.com. (5)Department of Urology and 
+Chawnshang Chang Liver Cancer Center, Sir Run Run Shaw Hospital, School of
+Medicine, Zhejiang University, Hangzhou, 310016, China.
+xialiqun2008@yahoo.com.cn. (6)Department of Urology and Chawnshang Chang Liver
+Cancer Center, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang
+University, Hangzhou, 310016, China. peter1989212@gmail.com. (7)Department of
+Urology and Chawnshang Chang Liver Cancer Center, Sir Run Run Shaw Hospital,
+School of Medicine, Zhejiang University, Hangzhou, 310016, China.
+yushicheng1982@163.com. (8)Chawnshang Chang Sex Hormone Research Center, Tianjin 
+Institute of Urology, Tianjin Medical University, Tianjin, 300211, China.
+niuyuanjie9317@163.com. (9)Department of Urology and Chawnshang Chang Liver
+Cancer Center, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang
+University, Hangzhou, 310016, China. wmc_32@163.com. (10)Department of Urology
+and Chawnshang Chang Liver Cancer Center, Sir Run Run Shaw Hospital, School of
+Medicine, Zhejiang University, Hangzhou, 310016, China.
+ligonghui1970@hotmail.com. (11)George Whipple Lab for Cancer Research,
+Departments of Pathology, Urology and Radiation Oncology, and The Wilmot Cancer
+Center, University of Rochester Medical Center, Rochester, NY, 14646, USA.
+chang@urmc.rochester.edu. (12)Sex Hormone Research Center, China Medical
+University/Hospital, Taichung, 404, Taiwan. chang@urmc.rochester.edu.
+
+BACKGROUND: TR4 nuclear receptor 4 (TR4) plays an important role in
+macrophages-associated foam cell formation of cardiovascular diseases and
+infiltrating macrophages are critical for prostate cancer (PCa) progression.
+However, the linkage of macrophages and TR4 and their impacts on PCa metastasis
+remains unclear.
+RESULTS: Knocking-down TR4 in human PCa cells (C4-2, CWR22Rv1), but not in human 
+macrophages cells (THP-1), led to suppress the macrophages infiltration to PCa
+cells. The consequences of such suppression of the recruitment of macrophages
+toward PCa then resulted in suppressing the PCa cell invasion. Mechanism
+dissection found that knocking-down TR4 in PCa cells suppressed
+metastasis-related genes including MMP2, with induction of TIMP-1. Interruption
+assays using TIMP-1 neutralizing antibody could then reverse
+TR4-macrophage-mediated PCa invasion. IHC staining showed higher TR4 level, more 
+macrophage infiltration, lower TIMP-1 and stronger MMP2/MMP9 in tumor tissues of 
+the Gleason score 5<U+2009>+<U+2009>4 patients compared with the Gleason score 3<U+2009>+<U+2009>3 patients.
+CONCLUSION: Targeting TR4 in prostate tumor microenvironment might represent a
+potential new therapeutic approach to better battle PCa metastasis.
+
+PMCID: PMC4316804
+PMID: 25623427  [PubMed - indexed for MEDLINE]
+
+
+6. Blood. 2015 Feb 26;125(9):1477-87. doi: 10.1182/blood-2014-10-605022. Epub 2015
+Jan 5.
+
+Compound loss of function of nuclear receptors Tr2 and Tr4 leads to induction of 
+murine embryonic ß-type globin genes.
+
+Cui S(1), Tanabe O(2), Sierant M(1), Shi L(3), Campbell A(4), Lim KC(1), Engel
+JD(1).
+
+Author information: 
+(1)Department of Cell and Developmental Biology, University of Michigan Medical
+School, Ann Arbor, MI; (2)Department of Cell and Developmental Biology,
+University of Michigan Medical School, Ann Arbor, MI; Department of Integrative
+Genomics Tohoku Medical Megabank, Tohoku University, Sendai, Japan; (3)Department
+of Cell and Developmental Biology, University of Michigan Medical School, Ann
+Arbor, MI; State Key Laboratory of Experimental Hematology, Institute of
+Hematology and Blood Diseases Hospital, Chinese Academy of Medical Sciences and
+Peking Union Medical College, Tianjin, China; and. (4)Department of Pediatrics
+and Infectious Diseases, University of Michigan Medical School, Ann Arbor, MI.
+
+The orphan nuclear receptors TR2 and TR4 have been shown to play key roles in
+repressing the embryonic and fetal globin genes in erythroid cells. However,
+combined germline inactivation of Tr2 and Tr4 leads to periimplantation lethal
+demise in inbred mice. Hence, we have previously been unable to examine the
+consequences of their dual loss of function in adult definitive erythroid cells. 
+To circumvent this issue, we generated conditional null mutants in both genes and
+performed gene inactivation in vitro in adult bone marrow cells. Compound Tr2/Tr4
+loss of function led to induced expression of the embryonic ey and ßh1 globins
+(murine counterparts of the human e- and <U+03B3>-globin genes). Additionally, TR2/TR4
+function is required for terminal erythroid cell maturation. Loss of TR2/TR4
+abolished their occupancy on the ey and ßh1 gene promoters, and concurrently
+impaired co-occupancy by interacting corepressors. These data strongly support
+the hypothesis that the TR2/TR4 core complex is an adult stage-specific,
+gene-selective repressor of the embryonic globin genes. Detailed mechanistic
+understanding of the roles of TR2/TR4 and their cofactors in embryonic and fetal 
+globin gene repression may ultimately enhance the discovery of novel therapeutic 
+agents that can effectively inhibit their transcriptional activity and be safely 
+applied to the treatment of ß-globinopathies.
+
+© 2015 by The American Society of Hematology.
+
+PMCID: PMC4342359
+PMID: 25561507  [PubMed - indexed for MEDLINE]
+
+
+7. FEBS Lett. 2014 Nov 3;588(21):3947-53. doi: 10.1016/j.febslet.2014.09.007. Epub
+2014 Sep 19.
+
+TR4 promotes fatty acid synthesis in 3T3-L1 adipocytes by activation of pyruvate 
+carboxylase expression.
+
+Park SS(1), Kim SJ(1), Choi H(1), Chang C(2), Kim E(3).
+
+Author information: 
+(1)Department of Biological Sciences, College of Natural Sciences, Chonnam
+National University, South Korea. (2)George Whipple Laboratory for Cancer
+Research, Departments of Pathology and Urology, University of Rochester Medical
+Center, Rochester, NY 14642, USA. (3)Department of Biological Sciences, College
+of Natural Sciences, Chonnam National University, South Korea. Electronic
+address: ekim@chonnam.ac.kr.
+
+We show that testicular orphan nuclear receptor 4 (TR4) increases the expression 
+of pyruvate carboxylase (PC) gene in 3T3-L1 adipocytes by direct binding to a TR4
+responsive element in the murine PC promoter. While TR4 overexpression increased 
+PC activity, oxaloacetate (OAA) and glycerol levels with enhanced incorporation
+of (14)C from (14)C-pyruvate into fatty acids in 3T3-L1 adipocytes, PC knockdown 
+by short interfering RNA (siRNA) or inhibition of PC activity by phenylacetic
+acid (PAA) abolished TR4-enhanced fatty acid synthesis. Moreover, TR4 microRNA
+reduced PC expression with decreased fatty acid synthesis in 3T3-L1 adipocytes,
+suggesting that TR4-mediated enhancement of fatty acid synthesis in adipocytes
+requires increased expression of PC gene.
+
+Copyright © 2014 Federation of European Biochemical Societies. Published by
+Elsevier B.V. All rights reserved.
+
+PMID: 25240193  [PubMed - indexed for MEDLINE]
+
+
+8. Cancer Gene Ther. 2014 Oct;21(10):411-5. doi: 10.1038/cgt.2014.41. Epub 2014 Aug 
+8.
+
+The role of testicular nuclear receptor 4 in chemo-resistance of docetaxel in
+castration-resistant prostate cancer.
+
+Chen B(1), Yu S(1), Ding X(1), Jing C(1), Xia L(1), Wang M(1), Matro E(1), Rehman
+F(1), Niu Y(2), Li G(1), Chang C(3).
+
+Author information: 
+(1)Department of Urology and Chawnshang Chang Liver Cancer Center, Sir Run Run
+Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, China.
+(2)Chawnshang Chang Sex Hormone Research Center, Department of Urology, The 2nd
+affiliated hospital of Tianjin Medical University, Tianjin, China. (3)1]
+Department of Urology and Chawnshang Chang Liver Cancer Center, Sir Run Run Shaw 
+Hospital, Zhejiang University School of Medicine, Hangzhou, China [2] George
+Whipple Lab for Cancer Research, Departments of Pathology, Urology and Radiation 
+Oncology, and The Wilmot Cancer Center, University of Rochester Medical Center,
+Rochester, NY, USA.
+
+Docetaxel-based therapy is one of the first-line options for castration-resistant
+prostate cancer (CRPC). However, a large proportion of CRPC patients show
+different extents of docetaxel resistance. The current study aims to investigate 
+the role of testicular nuclear receptor 4 (TR4) in docetaxel resistance in CRPC. 
+TR4 expression level in prostate biopsy samples from CRPC patients treated with
+docetaxel was measured by immunohistochemistry (IHC). Alternation of TR4
+expression in prostate cancer (PCa) cell line PC3 was applied to find out the
+influence of TR4 on half-maximal inhibitory concentration (IC50), cell viability 
+and cell apoptosis. Patients who failed to achieve prostate-specific antigen
+(PSA) response (<50% PSA reduction from baseline) after docetaxel-based
+chemotherapy had a comparatively higher TR4 expression than those who achieved
+PSA response (<U+2A7E>50% PSA reduction from baseline). Knocking down TR4 in PC3 cells
+led to a lower IC50 dose, poorer cell viability and more cell apoptosis when
+treated with docetaxel, whereas overexpression of TR4 in PC3 led to a higher IC50
+dose, better cell viability and less cell apoptosis. TR4 enhances the
+chemo-resistance of docetaxel in CRPC. It may serve as a biomarker to determine
+the prognosis of docetaxel-based therapy and as a potential therapy target to
+combine with docetaxel to better suppress CRPC.
+
+PMID: 25104727  [PubMed - indexed for MEDLINE]
+
+
+9. Int J Cancer. 2015 Feb 15;136(4):955-64. doi: 10.1002/ijc.29049. Epub 2014 Jul
+14.
+
+TR4 nuclear receptor promotes prostate cancer metastasis via upregulation of
+CCL2/CCR2 signaling.
+
+Ding X(1), Yang DR, Lee SO, Chen YL, Xia L, Lin SJ, Yu S, Niu YJ, Li G, Chang C.
+
+Author information: 
+(1)Chawnshang Chang Liver Cancer Center, Department of Urology, Sir Run Run Shaw 
+Hospital, School of Medicine, Zhejang University, Hangzhou, China; George Whipple
+Lab for Cancer Research, Departments of Pathology, Urology, and Radiation
+Oncology, and The Wilmot Cancer Center, University of Rochester Medical Center,
+Rochester, NY.
+
+Testicular nuclear receptor 4 (TR4) plays protective roles against oxidative
+stress and DNA damage and might contribute to aging. Our recent clinical tumor
+tissue staining results showed higher expression of TR4 in prostate cancer (PCa) 
+patients with high Gleason scores compared to the tissues with the low Gleason
+scores. In vitro migration/invasion assays after manipulation of the TR4
+expression in PCa cells showed that TR4 promoted PCa cells migration/invasion.
+Mechanism dissection found that the CCL2/CCR2 signal plays the key role in the
+mediation of TR4-promoted PCa cells migration/invasion. Chromatin
+immunoprecipitation and Luciferase assays further confirmed TR4 modulation of
+CCL2 at the transcriptional level and addition of the CCR2 antagonist led to
+interruption of the TR4-enhanced PCa cells migration/invasion. Finally, the
+orthotopic xenografted mice studies using the luciferase expressing CWR22Rv1
+cells found that TR4 enhanced PCa metastasis and this increased metastasis was
+reversed when the CCR2 antagonist was injected into the mice. Together, these in 
+vitro and in vivo results revealed a positive role of TR4 in PCa metastasis and
+demonstrated CCL2/CCR2 signaling as an important mediator in exerting TR4 action.
+This finding suggests that TR4 may represent a biomarker related to PCa
+metastasis and targeting the TR4-CCL2/CCR2 axis may become a new therapeutic
+approach to battle PCa metastasis.
+
+© 2014 UICC.
+
+PMID: 24975468  [PubMed - indexed for MEDLINE]
+
+
+10. J Immunol. 2014 Jul 1;193(1):295-305. doi: 10.4049/jimmunol.1400092. Epub 2014
+Jun 6.
+
+Mycobacterium tuberculosis keto-mycolic acid and macrophage nuclear receptor TR4 
+modulate foamy biogenesis in granulomas: a case of a heterologous and
+noncanonical ligand-receptor pair.
+
+Dkhar HK(1), Nanduri R(1), Mahajan S(1), Dave S(1), Saini A(1), Somavarapu AK(1),
+Arora A(2), Parkesh R(1), Thakur KG(1), Mayilraj S(1), Gupta P(3).
+
+Author information: 
+(1)Council of Scientific and Industrial Research-Institute of Microbial
+Technology, Chandigarh 160036, India; and. (2)Council of Scientific and
+Industrial Research-Central Drug Research Institute, Lucknow 226031, India.
+(3)Council of Scientific and Industrial Research-Institute of Microbial
+Technology, Chandigarh 160036, India; and pawan@imtech.res.in.
+
+The cell wall of Mycobacterium tuberculosis is configured of bioactive lipid
+classes that are essential for virulence and potentially involved in the
+formation of foamy macrophages (FMs) and granulomas. Our recent work established 
+crosstalk between M. tuberculosis cell wall lipids and the host lipid-sensing
+nuclear receptor TR4. In this study, we have characterized, identified, and
+adopted a heterologous ligand keto-mycolic acid from among M. tuberculosis lipid 
+repertoire for the host orphan NR TR4. Crosstalk between cell wall lipids and TR4
+was analyzed by transactivation and promoter reporter assays. Mycolic acid (MA)
+was found to transactivate TR4 significantly compared with other cell wall
+lipids. Among the MA, the oxygenated form, keto-MA, was responsible for
+transactivation, and the identity was validated by TR4 binding assays followed by
+TLC and nuclear magnetic resonance. Isothermal titration calorimetry revealed
+that keto-MA binding to TR4 is energetically favorable. This keto-MA-TR4 axis
+seems to be essential to this oxygenated MA induction of FMs and granuloma
+formation as evaluated by in vitro and in vivo model of granuloma formation. TR4 
+binding with keto-MA features a unique association of host nuclear receptor with 
+a bacterial lipid and adds to the presently known ligand repertoire beyond
+dietary lipids. Pharmacologic modulation of this heterologous axis may hold
+promise as an adjunct therapy to frontline tuberculosis drugs.
+
+Copyright © 2014 by The American Association of Immunologists, Inc.
+
+PMID: 24907344  [PubMed - indexed for MEDLINE]
+
+
+11. Cell Metab. 2014 Apr 1;19(4):712-21. doi: 10.1016/j.cmet.2014.03.006.
+
+SIRT7 controls hepatic lipid metabolism by regulating the ubiquitin-proteasome
+pathway.
+
+Yoshizawa T(1), Karim MF(1), Sato Y(1), Senokuchi T(2), Miyata K(3), Fukuda T(4),
+Go C(1), Tasaki M(5), Uchimura K(6), Kadomatsu T(3), Tian Z(3), Smolka C(7), Sawa
+T(8), Takeya M(9), Tomizawa K(10), Ando Y(11), Araki E(12), Akaike T(8), Braun
+T(7), Oike Y(3), Bober E(7), Yamagata K(13).
+
+Author information: 
+(1)Department of Medical Biochemistry, Faculty of Life Sciences, Kumamoto
+University, Kumamoto 860-8556, Japan. (2)Department of Medical Biochemistry,
+Faculty of Life Sciences, Kumamoto University, Kumamoto 860-8556, Japan;
+Department of Metabolic Medicine, Faculty of Life Sciences, Kumamoto University, 
+Kumamoto 860-8556, Japan. (3)Department of Molecular Genetics, Faculty of Life
+Sciences, Kumamoto University, Kumamoto 860-8556, Japan. (4)Department of Anatomy
+and Neurobiology, Faculty of Life Sciences, Kumamoto University, Kumamoto
+860-8556, Japan. (5)Department of Neurology, Faculty of Life Sciences, Kumamoto
+University, Kumamoto 860-8556, Japan; Department of Immunology and Hematology,
+Division of Informative Clinical Science, Faculty of Life Sciences, Kumamoto
+University, Kumamoto 860-8556, Japan. (6)Department of Nephrology, Faculty of
+Life Sciences, Kumamoto University, Kumamoto 860-8556, Japan. (7)Department of
+Cardiac Development and Remodeling, Max-Planck-Institute for Heart and Lung
+Research, Ludwigstr. 43, 61231 Bad Nauheim, Germany. (8)Department of
+Microbiology, Faculty of Life Sciences, Kumamoto University, Kumamoto 860-8556,
+Japan. (9)Department of Cell Pathology, Faculty of Life Sciences, Kumamoto
+University, Kumamoto 860-8556, Japan. (10)Department of Molecular Physiology,
+Faculty of Life Sciences, Kumamoto University, Kumamoto 860-8556, Japan.
+(11)Department of Neurology, Faculty of Life Sciences, Kumamoto University,
+Kumamoto 860-8556, Japan. (12)Department of Metabolic Medicine, Faculty of Life
+Sciences, Kumamoto University, Kumamoto 860-8556, Japan. (13)Department of
+Medical Biochemistry, Faculty of Life Sciences, Kumamoto University, Kumamoto
+860-8556, Japan. Electronic address: k-yamaga@kumamoto-u.ac.jp.
+
+Sirtuins (SIRT1-7) have attracted considerable attention as regulators of
+metabolism over the past decade. However, the physiological functions and
+molecular mechanisms of SIRT7 are poorly understood. Here we demonstrate that
+Sirt7 knockout mice were resistant to high-fat diet-induced fatty liver, obesity,
+and glucose intolerance, and that hepatic triglyceride accumulation was also
+attenuated in liver-specific Sirt7 knockout mice. Hepatic SIRT7 positively
+regulated the protein level of TR4/TAK1, a nuclear receptor involved in lipid
+metabolism, and as a consequence activated TR4 target genes to increase fatty
+acid uptake and triglyceride synthesis/storage. Biochemical studies revealed that
+the DDB1-CUL4-associated factor 1 (DCAF1)/damage-specific DNA binding protein 1
+(DDB1)/cullin 4B (CUL4B) E3 ubiquitin ligase complex interacted with TR4, leading
+to its degradation, while binding of SIRT7 to the DCAF1/DDB1/CUL4B complex
+inhibited the degradation of TR4. In conclusion, we propose that hepatic SIRT7
+controls lipid metabolism in liver by regulating the ubiquitin-proteasome
+pathway.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+PMID: 24703702  [PubMed - indexed for MEDLINE]
+
+
+12. Mol Endocrinol. 2014 Jun;28(6):805-21. doi: 10.1210/me.2013-1422. Epub 2014 Apr
+4.
+
+Minireview: Pathophysiological roles of the TR4 nuclear receptor: lessons learned
+from mice lacking TR4.
+
+Lin SJ(1), Zhang Y, Liu NC, Yang DR, Li G, Chang C.
+
+Author information: 
+(1)George Whipple Laboratory for Cancer Research (S.-J.L., Y.Z., N.-C.L., C.C.), 
+Departments of Pathology, Urology, Radiation Oncology, and The Wilmot Cancer
+Center. University of Rochester Medical Center, Rochester, New York 14646;
+Department of Urology (D.-R.Y.), the Second Affiliated Hospital of Suzhou
+University, Suzhou, 215004 China; Chawnshang Chang Liver Cancer Center and
+Department of Urology (G.L.), Sir Run Run Shaw Hospital, School of Medicine,
+Zhejiang University, Hangzhou, 310016 China; and Sex Hormone Research Center
+(C.C.), China Medical University/Hospital, Taichung, 404 Taiwan.
+
+Testicular nuclear receptor 4 (TR4), also known as NR2C2, belongs to the nuclear 
+receptor superfamily and shares high homology with the testicular nuclear
+receptor 2. The natural ligands of TR4 remained unclear until the recent
+discoveries of several energy/lipid sensors including the polyunsaturated fatty
+acid metabolites, 13-hydroxyoctadecadienoic acid and 15-hydroxyeicosatetraenoic
+acid, and their synthetic ligands, thiazolidinediones, used for treatment of
+diabetes. TR4 is widely expressed throughout the body and particularly
+concentrated in the testis, prostate, cerebellum, and hippocampus. It has been
+shown to play important roles in cerebellar development, forebrain myelination,
+folliculogenesis, gluconeogenesis, lipogenesis, muscle development, bone
+development, and prostate cancer progression. Here we provide a comprehensive
+summary of TR4 signaling including its upstream ligands/activators/suppressors,
+transcriptional coactivators/repressors, downstream targets, and their in vivo
+functions with potential impacts on TR4-related diseases. Importantly, TR4 shares
+similar ligands/activators with another key nuclear receptor, peroxisome
+proliferator-activated receptor <U+03B3>, which raised several interesting questions
+about how these 2 nuclear receptors may collaborate with or counteract each
+other's function in their related diseases. Clear dissection of such molecular
+mechanisms and their differential roles in various diseases may help researchers 
+to design new potential drugs with better efficacy and fewer side effects to
+battle TR4 and peroxisome proliferator-activated receptor <U+03B3> involved diseases.
+
+PMCID: PMC4042077
+PMID: 24702179  [PubMed - indexed for MEDLINE]
+
+
+13. Mol Cell Biol. 2014 Jun;34(11):1956-65. doi: 10.1128/MCB.00247-14. Epub 2014 Mar 
+24.
+
+PGC-1 coactivator activity is required for murine erythropoiesis.
+
+Cui S(1), Tanabe O, Lim KC, Xu HE, Zhou XE, Lin JD, Shi L, Schmidt L, Campbell A,
+Shimizu R, Yamamoto M, Engel JD.
+
+Author information: 
+(1)Department of Cell and Developmental Biology, University of Michigan Medical
+School, Ann Arbor, Michigan, USA.
+
+Peroxisome proliferator-activated receptor gamma (PPAR<U+03B3>) coactivator 1a (PGC-1a) 
+and PGC-1ß have been shown to be intimately involved in the transcriptional
+regulation of cellular energy metabolism as well as other biological processes,
+but both coactivator proteins are expressed in many other tissues and organs in
+which their function is, in essence, unexplored. Here, we found that both PGC-1
+proteins are abundantly expressed in maturing erythroid cells. PGC-1a and PGC-1ß 
+compound null mutant (Pgc-1(c)) animals express less ß-like globin mRNAs
+throughout development; consequently, neonatal Pgc-1(c) mice exhibit growth
+retardation and profound anemia. Flow cytometry shows that the number of mature
+erythrocytes is markedly reduced in neonatal Pgc-1(c) pups, indicating that
+erythropoiesis is severely compromised. Furthermore, hematoxylin and eosin
+staining revealed necrotic cell death and cell loss in Pgc-1(c) livers and
+spleen. Chromatin immunoprecipitation studies revealed that both PGC-1a and -1ß, 
+as well as two nuclear receptors, TR2 and TR4, coordinately bind to the various
+globin gene promoters. In addition, PGC-1a and -1ß can interact with TR4 to
+potentiate transcriptional activation. These data provide new insights into our
+understanding of globin gene regulation and raise the interesting possibility
+that the PGC-1 coactivators can interact with TR4 to elicit differential
+stage-specific effects on globin gene transcription.
+
+PMCID: PMC4019057
+PMID: 24662048  [PubMed - indexed for MEDLINE]
+
+
+14. Endocr Relat Cancer. 2014 Jun;21(3):R279-300. doi: 10.1530/ERC-13-0529. Epub 2014
+Mar 12.
+
+Differential roles of PPAR<U+03B3> vs TR4 in prostate cancer and metabolic diseases.
+
+Liu S(1), Lin SJ(1), Li G(1), Kim E(1), Chen YT(1), Yang DR(1), Tan MH(1), Yong
+EL(1), Chang C(2).
+
+Author information: 
+(1)George Whipple Laboratory for Cancer ResearchDepartments of Pathology,
+Urology, Radiation Oncology, and The Wilmot Cancer Center, University of
+Rochester Medical Center, Rochester, New York 14642, USADepartment of Obstetrics 
+and GynecologyNational University of Singapore, Singapore, SingaporeChawnshang
+Chang Liver Cancer Center and Department of UrologySir Run Run Shaw Hospital,
+Zhejiang University, Hangzhou 310016, ChinaDepartment of Biological
+SciencesChonnam National University, Youngbong, Buk-Gu, Gwangju 500-757
+KoreaCardiovascular Research InstituteNational University Health System and The
+Department of Medicine, Yong Loo Lin School of Medicine, National University of
+Singapore, SingaporeSex Hormone Research CenterChina Medical University/Hospital,
+Taichung 404, Taiwan. (2)George Whipple Laboratory for Cancer ResearchDepartments
+of Pathology, Urology, Radiation Oncology, and The Wilmot Cancer Center,
+University of Rochester Medical Center, Rochester, New York 14642, USADepartment 
+of Obstetrics and GynecologyNational University of Singapore, Singapore,
+SingaporeChawnshang Chang Liver Cancer Center and Department of UrologySir Run
+Run Shaw Hospital, Zhejiang University, Hangzhou 310016, ChinaDepartment of
+Biological SciencesChonnam National University, Youngbong, Buk-Gu, Gwangju
+500-757 KoreaCardiovascular Research InstituteNational University Health System
+and The Department of Medicine, Yong Loo Lin School of Medicine, National
+University of Singapore, SingaporeSex Hormone Research CenterChina Medical
+University/Hospital, Taichung 404, TaiwanGeorge Whipple Laboratory for Cancer
+ResearchDepartments of Pathology, Urology, Radiation Oncology, and The Wilmot
+Cancer Center, University of Rochester Medical Center, Rochester, New York 14642,
+USADepartment of Obstetrics and GynecologyNational University of Singapore,
+Singapore, SingaporeChawnshang Chang Liver Cancer Center and Department of
+UrologySir Run Run Shaw Hospital, Zhejiang University, Hangzhou 310016,
+ChinaDepartment of Biological SciencesChonnam National University, Youngbong,
+Buk-Gu, Gwangju 500-757 KoreaCardiovascular Research InstituteNational University
+Health System and The Department of Medicine, Yong Loo Lin School of Medicine,
+National University of Singapore, SingaporeSex Hormone Research CenterChina
+Medical University/Hospital, Taichung 404, Taiwan chang@urmc.rochester.edu.
+
+Peroxisome proliferator-activated receptor <U+03B3> (PPAR<U+03B3>, NR1C3) and testicular
+receptor 4 nuclear receptor (TR4, NR2C2) are two members of the nuclear receptor 
+(NR) superfamily that can be activated by several similar ligands/activators
+including polyunsaturated fatty acid metabolites, such as
+13-hydroxyoctadecadienoic acid and 15-hydroxyeicosatetraenoic acid, as well as
+some anti-diabetic drugs such as thiazolidinediones (TZDs). However, the
+consequences of the transactivation of these ligands/activators via these two NRs
+are different, with at least three distinct phenotypes. First, activation of
+PPAR<U+03B3> increases insulin sensitivity yet activation of TR4 decreases insulin
+sensitivity. Second, PPAR<U+03B3> attenuates atherosclerosis but TR4 might increase the 
+risk of atherosclerosis. Third, PPAR<U+03B3> suppresses prostate cancer (PCa)
+development and TR4 suppresses prostate carcinogenesis yet promotes PCa
+metastasis. Importantly, the deregulation of either PPAR<U+03B3> or TR4 in PCa alone
+might then alter the other receptor's influences on PCa progression. Knocking out
+PPAR<U+03B3> altered the ability of TR4 to promote prostate carcinogenesis and knocking 
+down TR4 also resulted in TZD treatment promoting PCa development, indicating
+that both PPAR<U+03B3> and TR4 might coordinate with each other to regulate PCa
+initiation, and the loss of either one of them might switch the other one from a 
+tumor suppressor to a tumor promoter. These results indicate that further and
+detailed studies of both receptors at the same time in the same cells/organs may 
+help us to better dissect their distinct physiological roles and develop better
+drug(s) with fewer side effects to battle PPAR<U+03B3>- and TR4-related diseases
+including tumor and cardiovascular diseases as well as metabolic disorders.
+
+© 2014 Society for Endocrinology.
+
+PMID: 24623743  [PubMed - indexed for MEDLINE]
+
+
+15. Carcinogenesis. 2014 Jun;35(6):1399-406. doi: 10.1093/carcin/bgu052. Epub 2014
+Feb 28.
+
+TR4 nuclear receptor functions as a tumor suppressor for prostate tumorigenesis
+via modulation of DNA damage/repair system.
+
+Lin SJ, Lee SO, Lee YF, Miyamoto H, Yang DR, Li G, Chang C(1).
+
+Author information: 
+(1)chang@urmc.rochester.edu.
+
+Testicular nuclear receptor 4 (TR4), a member of the nuclear receptor
+superfamily, plays important roles in metabolism, fertility and aging. The
+linkage of TR4 functions in cancer progression, however, remains unclear. Using
+three different mouse models, we found TR4 could prevent or delay prostate cancer
+(PCa)/prostatic intraepithelial neoplasia development. Knocking down TR4 in human
+RWPE1 and mouse mPrE normal prostate cells promoted tumorigenesis under
+carcinogen challenge, suggesting TR4 may play a suppressor role in PCa
+initiation. Mechanism dissection in both in vitro cell lines and in vivo mice
+studies found that knocking down TR4 led to increased DNA damage with altered DNA
+repair system that involved the modulation of ATM expression at the
+transcriptional level, and addition of ATM partially interrupted the TR4 small
+interfering RNA-induced tumorigenesis in cell transformation assays.
+Immunohistochemical staining in human PCa tissue microarrays revealed ATM
+expression is highly correlated with TR4 expression. Together, these results
+suggest TR4 may function as a tumor suppressor to prevent or delay prostate
+tumorigenesis via regulating ATM expression at the transcriptional level.
+
+© The Author 2014. Published by Oxford University Press. All rights reserved. For
+Permissions, please email: journals.permissions@oup.com.
+
+PMCID: PMC4043245
+PMID: 24583925  [PubMed - indexed for MEDLINE]
+
+
+16. Mol Endocrinol. 2014 Feb;28(2):157-72. doi: 10.1210/me.2013-1291. Epub 2013 Dec
+2.
+
+Minireview: role of orphan nuclear receptors in cancer and potential as drug
+targets.
+
+Safe S(1), Jin UH, Hedrick E, Reeder A, Lee SO.
+
+Author information: 
+(1)Department of Veterinary Physiology and Pharmacology (S.S., E.H., A.R.), Texas
+A&M University, College Station, Texas 77808; and Institute of Biosciences and
+Technology (S.S., U.-H.J., S.-O.L.), Texas A&M Health Science Center, Houston,
+Texas 77030.
+
+The nuclear orphan receptors for which endogenous ligands have not been
+identified include nuclear receptor (NR)0B1 (adrenal hypoplasia congenita
+critical region on chromosome X gene), NR0B2 (small heterodimer partner), NR1D1/2
+(Rev-Erba/ß), NR2C1 (testicular receptor 2), NR2C2 (testicular receptor 4), NR2E1
+(tailless), NR2E3 (photoreceptor-specific NR [PNR]), NR2F1 chicken ovalbumin
+upstream promoter transcription factor 1 (COUP-TFI), NR2F2 (COUP-TFII), NR2F6
+(v-erbA-related protein), NR4A1 (Nur77), NR4A2 (Nurr1), NR4A3 (Nor1), and NR6A1
+(GCNF). These receptors play essential roles in development, cellular
+homeostasis, and disease including cancer where over- or underexpression of some 
+receptors has prognostic significance for patient survival. Results of receptor
+knockdown or overexpression in vivo and in cancer cell lines demonstrate that
+orphan receptors exhibit tumor-specific pro-oncogenic or tumor suppressor-like
+activity. For example, COUP-TFII expression is both a positive (ovarian) and
+negative (prostate and breast) prognostic factor for cancer patients; in
+contrast, the prognostic activity of adrenal hypoplasia congenita critical region
+on chromosome X gene for the same tumors is the inverse of COUP-TFII. Functional 
+studies show that Nur77 is tumor suppressor like in acute leukemia, whereas
+silencing Nur77 in pancreatic, colon, lung, lymphoma, melanoma, cervical,
+ovarian, gastric, and some breast cancer cell lines induces one or more of
+several responses including growth inhibition and decreased survival, migration, 
+and invasion. Although endogenous ligands for the orphan receptors have not been 
+identified, there is increasing evidence that different structural classes of
+compounds activate, inactivate, and directly bind several orphan receptors. Thus,
+the screening and development of selective orphan receptor modulators will have
+important clinical applications as novel mechanism-based agents for treating
+cancer patients overexpressing one or more orphan receptors and also for combined
+drug therapies.
+
+PMCID: PMC3896638
+PMID: 24295738  [PubMed - indexed for MEDLINE]
+
+
+17. Blood. 2013 Nov 28;122(23):3798-807. doi: 10.1182/blood-2013-04-496166. Epub 2013
+Oct 3.
+
+TRIM28 is essential for erythroblast differentiation in the mouse.
+
+Hosoya T(1), Clifford M, Losson R, Tanabe O, Engel JD.
+
+Author information: 
+(1)Department of Cell and Developmental Biology, University of Michigan Medical
+School, Ann Arbor, MI;
+
+Comment in
+    Blood. 2013 Nov 28;122(23):3701-2.
+
+In previous mass spectrometry and coimmune precipitation studies, we identified
+tripartite motif-containing 28 (TRIM28; also known as transcriptional
+intermediary factor1ß and Krüppel-associated box-associated protein-1) as a
+cofactor that specifically copurified with an NR2C1/NR2C2 (TR2/TR4) orphan
+nuclear receptor heterodimer that previous studies had implicated as an
+embryonic/fetal ß-type globin gene repressor. TRIM28 has been characterized as a 
+transcriptional corepressor that can associate with many different transcription 
+factors and can play functional roles in multiple tissues and cell types. Here,
+we tested the contribution of TRIM28 to globin gene regulation and erythropoiesis
+using a conditional loss-of-function in vivo model. We discovered that Trim28
+genetic loss in the adult mouse leads to defective immature erythropoiesis in the
+bone marrow and consequently to anemia. We further found that TRIM28 controls
+erythropoiesis in a cell-autonomous manner by inducibly deleting Trim28
+exclusively in hematopoietic cells. Finally, in the absence of TRIM28, we
+observed increased apoptosis as well as diminished expression of multiple
+erythroid transcription factors and heme biosynthetic enzymes in immature
+erythroid cells. Thus, TRIM28 is essential for the cell-autonomous development of
+immature erythroblasts in the bone marrow.
+
+PMCID: PMC3843238
+PMID: 24092935  [PubMed - indexed for MEDLINE]
+
+
+18. PLoS One. 2013 Aug 5;8(8):e71239. doi: 10.1371/journal.pone.0071239. Print 2013.
+
+AMD-associated genes encoding stress-activated MAPK pathway constituents are
+identified by interval-based enrichment analysis.
+
+SanGiovanni JP(1), Lee PH.
+
+Author information: 
+(1)Clinical Trials Branch, National Eye Institute, National Institutes of Health,
+Bethesda, Maryland, United States of America. jpsangio@post.harvard.edu
+
+PURPOSE: To determine whether common DNA sequence variants within groups of genes
+encoding elements of stress-activated mitogen-activated protein kinase (MAPK)
+signaling pathways are, in aggregate, associated with advanced AMD (AAMD).
+METHODS: We used meta-regression and exact testing methods to identify
+AAMD-associated SNPs in 1177 people with AAMD and 1024 AMD-free elderly peers
+from 3 large-scale genotyping projects on the molecular genetics of AMD. SNPs
+spanning independent AAMD-associated genomic intervals were examined with a
+multi-locus-testing method (INRICH) for enrichment within five sets of genes
+encoding constituents of stress-activated MAPK signaling cascades.
+RESULTS: Four-of-five pathway gene sets showed enrichment with AAMD-associated
+SNPs; findings persisted after adjustment for multiple testing in two. Strongest 
+enrichment signals (P<U+200A>=<U+200A>0.006) existed in a c-Jun N-terminal kinase (JNK)/MAPK
+cascade (Science Signaling, STKE CMP_10827). In this pathway, seven independent
+AAMD-associated regions were resident in 6 of 25 genes examined. These included
+sequence variants in: 1) three MAP kinase kinase kinases (MAP3K4, MAP3K5, MAP3K9)
+that phosphorylate and activate the MAP kinase kinases MAP2K4 and MAP2K7
+(molecules that phosphorylate threonine and tyrosine residues within the
+activation loop of JNK); 2) a target of MAP2K7 (JNK3A1) that activates complexes 
+involved in transcriptional regulation of stress related genes influencing cell
+proliferation, apoptosis, motility, metabolism and DNA repair; and 3) NR2C2, a
+transcription factor activated by JNK1A1 (a drugable molecule influencing retinal
+cell viability in model systems). We also observed AAMD-related sequence variants
+resident in genes encoding PPP3CA (a drugable molecule that inactivates MAP3K5), 
+and two genes (TGFB2, TGFBR2) encoding factors involved in MAPK sensing of growth
+factors/cytokines.
+CONCLUSIONS: Linkage disequilibrium (LD)-independent genomic enrichment analysis 
+yielded associations of AAMD with aggregates of functionally related genes
+encoding constituents of the JNK MAPK signaling pathway. FDA-approved drugs now
+exist to target constituents of stress-activated MAPK pathways and may offer
+reasonable approaches to preventing or treating AAMD.
+
+PMCID: PMC3734129
+PMID: 23940728  [PubMed - indexed for MEDLINE]
+
+
+19. Proc Natl Acad Sci U S A. 2013 May 21;110(21):8555-60. doi:
+10.1073/pnas.1306182110. Epub 2013 May 7.
+
+Evidence for orphan nuclear receptor TR4 in the etiology of Cushing disease.
+
+Du L(1), Bergsneider M, Mirsadraei L, Young SH, Jonker JW, Downes M, Yong WH,
+Evans RM, Heaney AP.
+
+Author information: 
+(1)Department of Medicine and Neurosurgery, David Geffen School of Medicine,
+University of California, Los Angeles, CA 90095, USA.
+
+Cushing disease (CD) is a life-threatening disorder attributed to excess
+pituitary tumor-derived adrenocorticotrophic hormone (ACTH) and adrenal steroid
+secretion caused by pituitary tumors. Whereas CD was first described in 1932, the
+underlying genetic basis driving tumor growth and ACTH secretion remains
+unsolved. Here, we show that testicular orphan nuclear receptor 4 (TR4, nuclear
+receptor subfamily 2, group C, member 2) is overexpressed in human corticotroph
+tumors as well as in human and mouse corticotroph tumor cell lines. Forced
+overexpression of TR4 in both human and murine tumor cells increased
+proopiomelanocortin transcription, ACTH secretion, cellular proliferation, and
+tumor invasion rates in vitro. Conversely, knockdown of TR4 expression reversed
+all phenotypes. Mechanistically, we show that TR4 transcriptionally activates
+proopiomelanocortin through binding of a direct repeat 1 response element in the 
+promoter, and that this is enhanced by MAPK-mediated TR4 phosphorylation. In
+vivo, TR4 overexpression promotes murine corticotroph tumor growth as well as
+enhances ACTH and corticosterone production, whereas TR4 knockdown decreases
+circulating ACTH and corticosterone levels in mice harboring ACTH-secreting
+tumors. Our findings directly link TR4 to the etiology of corticotroph tumors,
+hormone secretion, and cell growth as well as identify it as a potential target
+in the treatment of CD.
+
+PMCID: PMC3666748
+PMID: 23653479  [PubMed - indexed for MEDLINE]
+
+
+20. J Biol Chem. 2013 Jun 7;288(23):16476-83. doi: 10.1074/jbc.M112.448142. Epub 2013
+Apr 22.
+
+Increased chemosensitivity via targeting testicular nuclear receptor 4
+(TR4)-Oct4-interleukin 1 receptor antagonist (IL1Ra) axis in prostate cancer
+CD133+ stem/progenitor cells to battle prostate cancer.
+
+Yang DR(1), Ding XF, Luo J, Shan YX, Wang R, Lin SJ, Li G, Huang CK, Zhu J, Chen 
+Y, Lee SO, Chang C.
+
+Author information: 
+(1)George Whipple Laboratory for Cancer Research, Department of Pathology,
+University of Rochester Medical Center, Rochester, New York 14642, USA.
+
+Prostate cancer (PCa) stem/progenitor cells are known to have higher
+chemoresistance than non-stem/progenitor cells, but the underlying molecular
+mechanism remains unclear. We found the expression of testicular nuclear receptor
+4 (TR4) is significantly higher in PCa CD133(+) stem/progenitor cells compared
+with CD133(-) non-stem/progenitor cells. Knockdown of TR4 levels in the
+established PCa stem/progenitor cells and the CD133(+) population of the C4-2 PCa
+cell line with lentiviral TR4 siRNA led to increased drug sensitivity to the two 
+commonly used chemotherapeutic drugs, docetaxel and etoposide, judging from
+significantly reduced IC50 values and increased apoptosis in the TR4 knockdown
+cells. Mechanism dissection studies found that suppression of TR4 in these
+stem/progenitor cells led to down-regulation of Oct4 expression, which, in turn, 
+down-regulated the IL-1 receptor antagonist (IL1Ra) expression. Neutralization
+experiments via adding these molecules into the TR4 knockdown PCa stem/progenitor
+cells reversed the chemoresistance, suggesting that the TR4-Oct4-IL1Ra axis may
+play a critical role in the development of chemoresistance in the PCa
+stem/progenitor cells. Together, these studies suggest that targeting TR4 may
+alter chemoresistance of PCa stem/progenitor cells, and this finding provides the
+possibility of targeting TR4 as a new and better approach to overcome the
+chemoresistance problem in PCa therapeutics.
+
+PMCID: PMC3675583
+PMID: 23609451  [PubMed - indexed for MEDLINE]
+
+
+21. J Zhejiang Univ Sci B. 2013 Mar;14(3):171-7. doi: 10.1631/jzus.B1200357.
+
+Recent advances in the study of testicular nuclear receptor 4.
+
+Ding XF(1), Yu SC, Chen BD, Lin SJ, Chang C, Li GH.
+
+Author information: 
+(1)Department of Urology, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang
+University, Hangzhou, China.
+
+Testicular nuclear receptor 4 (TR4), also known as NR2C2 (nuclear receptor
+subfamily 2, group C, member 2), is a transcriptional factor and a member of the 
+nuclear receptor family. TR4 was initially cloned from human and rat
+hypothalamus, prostate, and testes libraries. For almost two decades, its
+specific tissue distribution, genomic organization, and chromosomal assignment
+have been well investigated in humans and animals. However, it has been very
+difficult to study TR4's physiological functions due to a lack of specific
+ligands. Gene knock-out animal techniques provide an alternative approach for
+defining the biological functions of TR4. In vivo studies of TR4 gene knockout
+mice (TR4(-/-)) found that they display severe spinal curvature, subfertility,
+premature aging, and prostate prostatic intraepithelial neoplasia (PIN)
+development. Upstream modulators, downstream target gene regulation, feedback
+mechanisms, and differential modulation mediated by the recruitment of other
+nuclear receptors and coregulators have been identified in studies using the
+TR4(-/-) phenotype. With the establishment of a tissue-specific TR4(-/-) mouse
+model, research on TR4 will be more convenient in the future.
+
+PMCID: PMC3596567
+PMID: 23463759  [PubMed - indexed for MEDLINE]
+
+
+22. Nat Med. 2013 Mar;19(3):291-4. doi: 10.1038/nm.3101. Epub 2013 Feb 17.
+
+Lysine-specific demethylase 1 is a therapeutic target for fetal hemoglobin
+induction.
+
+Shi L(1), Cui S, Engel JD, Tanabe O.
+
+Author information: 
+(1)Department of Cell and Developmental Biology, University of Michigan Medical
+School, Ann Arbor, Michigan, USA.
+
+Comment in
+    Nat Rev Drug Discov. 2013 Apr;12(4):262-3.
+
+Enhanced fetal <U+03B3>-globin synthesis alleviates symptoms of ß-globinopathies such as
+sickle cell disease and ß-thalassemia, but current <U+03B3>-globin-inducing drugs offer 
+limited beneficial effects. We show here that lysine-specific demethylase 1
+(LSD1) inhibition by RNAi in human erythroid cells or by the monoamine oxidase
+inhibitor tranylcypromine in human erythroid cells or ß-type globin-transgenic
+mice enhances <U+03B3>-globin expression. LSD1 is thus a promising therapeutic target
+for <U+03B3>-globin induction, and tranylcypromine may serve as a lead compound for the 
+development of a new <U+03B3>-globin inducer.
+
+PMID: 23416702  [PubMed - indexed for MEDLINE]
+
+
+23. J Cell Biol. 2012 Dec 10;199(6):893-906. doi: 10.1083/jcb.201207189.
+
+Variant repeats are interspersed throughout the telomeres and recruit nuclear
+receptors in ALT cells.
+
+Conomos D(1), Stutz MD, Hills M, Neumann AA, Bryan TM, Reddel RR, Pickett HA.
+
+Author information: 
+(1)Cancer Research Unit, Children's Medical Research Institute, Westmead NSW
+2145, Australia.
+
+Telomeres in cells that use the recombination-mediated alternative lengthening of
+telomeres (ALT) pathway elicit a DNA damage response that is partly independent
+of telomere length. We therefore investigated whether ALT telomeres contain
+structural abnormalities that contribute to ALT activity. Here we used next
+generation sequencing to analyze the DNA content of ALT telomeres. We discovered 
+that variant repeats were interspersed throughout the telomeres of ALT cells. We 
+found that the C-type (TCAGGG) variant repeat predominated and created a
+high-affinity binding site for the nuclear receptors COUP-TF2 and TR4. Nuclear
+receptors were directly recruited to telomeres and ALT-associated characteristics
+were induced after incorporation of the C-type variant repeat by a mutant
+telomerase. We propose that the presence of variant repeats throughout ALT
+telomeres results from recombination-mediated telomere replication and spreading 
+of variant repeats from the proximal regions of the telomeres and that the
+consequent binding of nuclear receptors alters the architecture of telomeres to
+facilitate further recombination.
+
+PMCID: PMC3518223
+PMID: 23229897  [PubMed - indexed for MEDLINE]
+
+
+24. Oncol Rep. 2013 Jan;29(1):297-305. doi: 10.3892/or.2012.2107. Epub 2012 Oct 26.
+
+Testicular orphan nuclear receptor 4-associated protein 16 promotes non-small
+cell lung carcinoma by activating estrogen receptor ß and blocking testicular
+orphan nuclear receptor 2.
+
+Fang F(1), Zheng Q, Zhang J, Dong B, Zhu S, Huang X, Wang Y, Zhao B, Li S, Xiong 
+H, Chen J, Wu N, Song SW, Chang C, Yang Y.
+
+Author information: 
+(1)Department of Thoracic Surgery <U+2161>, Key Laboratory of Carcinogenesis and
+Translational Research (Ministry of Education), Peking University Cancer Hospital
+and Institute, Beijing 100142, PR China.
+
+The possible involvement of estrogen receptors (ERs) and testicular orphan
+nuclear receptors (TRs) in human non-small cell lung carcinoma (NSCLC) has been
+suggested, but their precise roles and their relationship remain largely unknown.
+This study aimed to investigate whether TR4-associated protein 16 (TRA16)
+regulates the ERß and TR2 pathways and could be a potential target in NSCLC. We
+used tissue microarrays including NSCLC tissues (n=154) and negative controls
+(n=14) to examine the expression of TRA16 and ERß, and in vitro reporter gene
+assays, the mammalian two-hybrid method and immunoprecipitation in Cos-1 cells to
+investigate the relationships among TRA16, ERß and TR2. We found that TRA16 was
+highly expressed in approximately 90% of the NSCLC tissues examined. TRA16
+overexpression was significantly associated with TNM stage, tumor size, lymph
+node metastasis, tumor thrombus in vein, tumor differentiation and prognosis of
+NSCLC patients, in which TRA16 was shown to be an independent prognostic factor. 
+Introduction of TRA16 into Cos-1 cells enhanced cell proliferation. Co-expression
+of TRA16 and ERß in Cos-1 cells using different reporter gene systems and
+mammalian two-hybrid approaches revealed that TRA16 enhanced ERß-mediated
+transcriptional activity. By adopting similar approaches, and immunoprecipitation
+and immunocytofluorescence assays, we found that TRA16 also interacted with TR2, 
+and blocked the TR2 inhibitory effect on ERß. Our findings demonstrate that TRA16
+could be a promising diagnostic and prognostic biomarker in NSCLC, and promotes
+cancer cell growth through activation of the ERß pathway by interacting with ERß 
+and TR2.
+
+PMCID: PMC3583481
+PMID: 23129017  [PubMed - indexed for MEDLINE]
+
+
+25. J Innate Immun. 2013;5(1):39-49. doi: 10.1159/000341630. Epub 2012 Sep 14.
+
+Bacterial stimulation of the TLR-MyD88 pathway modulates the homeostatic
+expression of ileal Paneth cell a-defensins.
+
+Menendez A(1), Willing BP, Montero M, Wlodarska M, So CC, Bhinder G, Vallance BA,
+Finlay BB.
+
+Author information: 
+(1)Michael Smith Laboratories, The University of British Columbia, Vancouver, BC,
+Canada.
+
+Paneth cell a-defensins are antimicrobial peptides involved in the control of the
+intestinal microbiota and immunological homeostasis. In mice, they are encoded by
+multiple, highly homologous genes (Defa). The transcriptional activity of ileal
+Defa genes was studied in response to pharmacological and genetic perturbations
+of the intestinal environment of C57BL/6 mice. Defa gene transcription was
+sensitive to oral antibiotic administration suggesting that commensal microbes
+regulate Defa expression. Ileal microbiota analysis showed that decreased
+transcription of Defa genes correlated with depletion of Lactobacillus. Defa
+expression was partially restored in vivo by lactobacillus administration to
+antibiotic-treated mice. Defa transcripts were less abundant in ex vivo,
+microbiota-free intestinal explants but recovered after explant exposure to
+UV-killed bacteria, Toll-like receptor (TLR)-2 or TLR4 agonists. Genetic
+deficiency of several TLRs or MyD88 led to dramatic drops in Defa transcription
+in vivo. These results show that Paneth cell Defa genes are regulated by
+commensal bacteria through TLR-MyD88 signaling and provide a further
+understanding of the dysregulation of intestinal homeostasis that occurs as a
+result of imbalances in the populations of commensal bacteria.
+
+Copyright © 2012 S. Karger AG, Basel.
+
+PMID: 22986642  [PubMed - indexed for MEDLINE]
+
+
+26. Reprod Biol Endocrinol. 2012 Jun 7;10:43.
+
+Reduced osteoblast activity in the mice lacking TR4 nuclear receptor leads to
+osteoporosis.
+
+Lin SJ(1), Ho HC, Lee YF, Liu NC, Liu S, Li G, Shyr CR, Chang C.
+
+Author information: 
+(1)George Whipple Lab for Cancer Research, Department of Pathology, The Wilmot
+Cancer center, University of Rochester Medical Center, Rochester, NY 14642, USA.
+
+BACKGROUND: Early studies suggested that TR4 nuclear receptor might play
+important roles in the skeletal development, yet its detailed mechanism remains
+unclear.
+METHODS: We generated TR4 knockout mice and compared skeletal development with
+their wild type littermates. Primary bone marrow cells were cultured and we
+assayed bone differentiation by alkaline phosphatase and alizarin red staining.
+Primary calvaria were cultured and osteoblastic marker genes were detected by
+quantitative PCR. Luciferase reporter assays, chromatin immunoprecipitation
+(ChIP) assays, and electrophoretic mobility shift assays (EMSA) were performed to
+demonstrate TR4 can directly regulate bone differentiation marker osteocalcin.
+RESULTS: We first found mice lacking TR4 might develop osteoporosis. We then
+found that osteoblast progenitor cells isolated from bone marrow of TR4 knockout 
+mice displayed reduced osteoblast differentiation capacity and calcification.
+Osteoblast primary cultures from TR4 knockout mice calvaria also showed higher
+proliferation rates indicating lower osteoblast differentiation ability in mice
+after loss of TR4. Mechanism dissection found the expression of osteoblast
+markers genes, such as ALP, type I collagen alpha 1, osteocalcin, PTH, and PTHR
+was dramatically reduced in osteoblasts from TR4 knockout mice as compared to
+those from TR4 wild type mice. In vitro cell line studies with luciferase
+reporter assay, ChIP assay, and EMSA further demonstrated TR4 could bind directly
+to the promoter region of osteocalcin gene and induce its gene expression at the 
+transcriptional level in a dose dependent manner.
+CONCLUSIONS: Together, these results demonstrate TR4 may function as a novel
+transcriptional factor to play pathophysiological roles in maintaining normal
+osteoblast activity during the bone development and remodeling, and disruption of
+TR4 function may result in multiple skeletal abnormalities.
+
+PMCID: PMC3447707
+PMID: 22676849  [PubMed - indexed for MEDLINE]
+
+
+27. Am J Med Genet B Neuropsychiatr Genet. 2012 Jun;159B(4):437-44. doi:
+10.1002/ajmg.b.32047. Epub 2012 Apr 4.
+
+Genome-wide search for replicable risk gene regions in alcohol and nicotine
+co-dependence.
+
+Zuo L(1), Zhang F, Zhang H, Zhang XY, Wang F, Li CS, Lu L, Hong J, Lu L, Krystal 
+J, Deng HW, Luo X.
+
+Author information: 
+(1)Department of Psychiatry, Yale University School of Medicine, New Haven,
+Connecticut 06520, USA. lingjun.zuo@yale.edu
+
+The present study searched for replicable risk genomic regions for alcohol and
+nicotine co-dependence using a genome-wide association strategy. The data
+contained a total of 3,143 subjects including 818 European-American (EA) cases
+with alcohol and nicotine co-dependence, 1,396 EA controls, 449 African-American 
+(AA) cases, and 480 AA controls. We performed separate genome-wide association
+analyses in EAs and AAs and a meta-analysis to derive combined P-values, and
+calculated the genome-wide false discovery rate (FDR) for each SNP. Regions with 
+P < 5 × 10(-7) together with FDR < 0.05 in the meta-analysis were examined to
+detect all replicable risk SNPs across EAs, AAs, and meta-analysis. These SNPs
+were followed with a series of functional expression quantitative trait locus
+(eQTL) analyses. We found a unique genome-wide significant gene
+region--SH3BP5-NR2C2--that was enriched with 11 replicable risk SNPs for alcohol 
+and nicotine co-dependence. The distributions of -log(P) values for all
+SNP-disease associations within this region were consistent across EAs, AAs, and 
+meta-analysis (0.315 = r = 0.868; 8.1 × 10(-52) = P = 3.6 × 10(-5)). In the
+meta-analysis, this region was the only association peak throughout chromosome 3 
+at P < 0.0001. All replicable risk markers available for eQTL analysis had
+nominal cis- and trans-acting regulatory effects on gene expression. The
+transcript expression of the genes in this region was regulated partly by several
+nicotine dependence (ND)-related genes and significantly correlated with
+transcript expression of many alcohol dependence- and ND-related genes. We
+concluded that the SH3BP5-NR2C2 region on Chromosome 3 might harbor causal loci
+for alcohol and nicotine co-dependence.
+
+Copyright © 2012 Wiley Periodicals, Inc.
+
+PMCID: PMC3405545
+PMID: 22488850  [PubMed - indexed for MEDLINE]
+
+
+28. Cell Mol Biol Lett. 2012 Jun;17(2):309-22. doi: 10.2478/s11658-012-0012-9. Epub
+2012 Mar 7.
+
+Deficiency in TR4 nuclear receptor abrogates Gadd45a expression and increases
+cytotoxicity induced by ionizing radiation.
+
+Yan SJ(1), Lee YF, Ting HJ, Liu NC, Liu S, Lin SJ, Yeh SD, Li G, Chang C.
+
+Author information: 
+(1)George Whipple Lab for Cancer Research, Department of Pathology, University of
+Rochester Medical Center, Rochester, NY 14642, USA.
+
+The testicular receptor 4 (TR4) is a member of the nuclear receptor superfamily
+that controls various biological activities. A protective role of TR4 against
+oxidative stress has recently been discovered. We here examined the protective
+role of TR4 against ionizing radiation (IR) and found that small hairpin RNA
+mediated TR4 knockdown cells were highly sensitive to IR-induced cell death. IR
+exposure increased the expression of TR4 in scramble control small hairpin RNA
+expressing cells but not in TR4 knockdown cells. Examination of IR-responsive
+molecules found that the expression of Gadd45a, the growth arrest and DNA damage 
+response gene, was dramatically decreased in Tr4 deficient (TR4KO) mice tissues
+and could not respond to IR stimulation in TR4KO mouse embryonic fibroblast
+cells. This TR4 regulation of GADD45A was at the transcriptional level. Promoter 
+analysis identified four potential TR4 response elements located in intron 3 and 
+exon 4 of the GADD45A gene. Reporter and chromatin immunoprecipitation (ChIP)
+assays provided evidence indicating that TR4 regulated the GADD45A expression
+through TR4 response elements located in intron 3 of the GADD45A gene. Together, 
+we find that TR4 is essential in protecting cells from IR stress. Upon IR
+challenges, TR4 expression is increased, thereafter inducing GADD45A through
+transcriptional regulation. As GADD45A is directly involved in the DNA repair
+pathway, this suggests that TR4 senses genotoxic stress and up-regulates GADD45A 
+expression to protect cells from IR-induced genotoxicity.
+
+PMCID: PMC3402907
+PMID: 22396141  [PubMed - indexed for MEDLINE]
+
+
+29. Hum Hered. 2011;72(3):182-93. doi: 10.1159/000331222. Epub 2011 Nov 11.
+
+Application of a novel score test for genetic association incorporating gene-gene
+interaction suggests functionality for prostate cancer susceptibility regions.
+
+Ciampa J(1), Yeager M, Jacobs K, Thun MJ, Gapstur S, Albanes D, Virtamo J,
+Weinstein SJ, Giovannucci E, Willett WC, Cancel-Tassin G, Cussenot O, Valeri A,
+Hunter D, Hoover R, Thomas G, Chanock S, Holmes C, Chatterjee N.
+
+Author information: 
+(1)Epidemiology and Biostatistics Program, Division of Cancer Epidemiology and
+Genetics, Department of Health and Human Services, National Cancer Institute,
+National Institutes of Health, Bethesda, MD 20852, USA.
+
+AIMS: We introduce an innovative multilocus test for disease association. It is
+an extension of an existing score test that gains power over alternative methods 
+by incorporating a parsimonious one-degree-of-freedom model for interaction. We
+use our method in applications designed to detect interactions that generate
+hypotheses about the functionality of prostate cancer (PRCA) susceptibility
+regions.
+METHODS: Our proposed score test is designed to gain additional power through the
+use of a retrospective likelihood that exploits an assumption of independence
+between unlinked loci in the underlying population. Its performance is validated 
+through simulation. The method is used in conditional scans with data from stage 
+II of the Cancer Genetic Markers of Susceptibility PRCA genome-wide association
+study.
+RESULTS: Our proposed method increases power to detect susceptibility loci in
+diverse settings. It identified two high-ranking, biologically interesting
+interactions: (1) rs748120 of NR2C2 and subregions of 8q24 that contain
+independent susceptibility loci specific to PRCA and (2) rs4810671 of SULF2 and
+both JAZF1 and HNF1B that are associated with PRCA and type 2 diabetes.
+CONCLUSIONS: Our score test is a promising multilocus tool for genetic
+epidemiology. The results of our applications suggest functionality for poorly
+understood PRCA susceptibility regions. They motivate replication study.
+
+Copyright © 2011 S. Karger AG, Basel.
+
+PMCID: PMC3242702
+PMID: 22086326  [PubMed - indexed for MEDLINE]
+
+
+30. Proc Natl Acad Sci U S A. 2011 Nov 15;108(46):18808-13. doi:
+10.1073/pnas.1104964108. Epub 2011 Oct 31.
+
+Forced TR2/TR4 expression in sickle cell disease mice confers enhanced fetal
+hemoglobin synthesis and alleviated disease phenotypes.
+
+Campbell AD(1), Cui S, Shi L, Urbonya R, Mathias A, Bradley K, Bonsu KO, Douglas 
+RR, Halford B, Schmidt L, Harro D, Giacherio D, Tanimoto K, Tanabe O, Engel JD.
+
+Author information: 
+(1)Department of Pediatrics and Infectious Diseases, Division of Pediatric
+Hematology Oncology, University of Michigan Medical School, Ann Arbor, MI 48109, 
+USA.
+
+Sickle cell disease (SCD) is a hematologic disorder caused by a missense mutation
+in the adult ß-globin gene. Higher fetal hemoglobin (HbF) levels in red blood
+cells of SCD patients have been shown to improve morbidity and mortality. We
+previously found that nuclear receptors TR2 and TR4 repress expression of the
+human embryonic e-globin and fetal <U+03B3>-globin genes in definitive erythroid cells. 
+Because forced expression of TR2/TR4 in murine adult erythroid cells
+paradoxically enhanced fetal <U+03B3>-globin gene expression in transgenic mice, we
+wished to determine if forced TR2/TR4 expression in a SCD model mouse would
+result in elevated HbF synthesis and thereby alleviate the disease phenotype. In 
+a "humanized" sickle cell model mouse, forced TR2/TR4 expression increased HbF
+abundance from 7.6% of total hemoglobin to 18.6%, accompanied by increased
+hematocrit from 23% to 34% and reticulocyte reduction from 61% to 18%, indicating
+a significant reduction in hemolysis. Moreover, forced TR2/TR4 expression reduced
+hepatosplenomegaly and liver parenchymal necrosis and inflammation in SCD mice,
+indicating alleviation of usual pathophysiological characteristics. This article 
+shows that genetic manipulation of nonglobin proteins, or transcription factors
+regulating globin gene expression, can ameliorate the disease phenotype in a SCD 
+model animal. This proof-of-concept study demonstrates that modulating TR2/TR4
+activity in SCD patients may be a promising therapeutic approach to induce
+persistent HbF accumulation and for treatment of the disease.
+
+PMCID: PMC3219144
+PMID: 22042865  [PubMed - indexed for MEDLINE]
+
+
+31. Reprod Biol Endocrinol. 2011 Oct 13;9:138. doi: 10.1186/1477-7827-9-138.
+
+The roles of testicular nuclear receptor 4 (TR4) in male fertility-priapism and
+sexual behavior defects in TR4 knockout mice.
+
+Collins LL(1), Lee YF, Ting HJ, Lin WJ, Liu NC, Meshul CK, Uno H, Bao BY, Chen
+YT, Chang C.
+
+Author information: 
+(1)George Whipple Lab for Cancer Research, Department of Pathology, The Cancer
+Center, University of Rochester Medical Center, Rochester, NY 14642, USA.
+
+BACKGROUND: Successful reproductive efforts require the establishment of a
+situation favorable for reproduction that requires integration of both behavior
+and internal physiological events. TR4 nuclear receptor is known to be involved
+in male fertility via controlling spermatogenesis, yet its roles in regulating
+other biological events related to reproduction have not been completely
+revealed.
+METHODS: Male TR4 knockout (TR4 -/-) and wild type mice were used for the sexual 
+behavior and penile dysfunction studies. Mice were sacrificed for histological
+examination and corresponding genes profiles were analyzed by quantitative
+RT-PCR. Reporter gene assays were performed.
+RESULTS: We describe an unexpected finding of priapism in TR4 -/- mice. As a
+transcriptional factor, we demonstrated that TR4 transcriptionally modulates a
+key enzyme regulating penis erection and neuronal nitric oxide synthese NOS
+(nNOS). Thereby, elimination of TR4 results in nNOS reduction in both mRNA and
+protein levels, consequently may lead to erectile dysfunction. In addition, male 
+TR4 -/- mice display defects in sexual and social behavior, with increased fear
+or anxiety, as well as reduced mounting, intromission, and ejaculation. Reduction
+of ER alpha, ER beta, and oxytocin in the hypothalamus may contribute to defects 
+in sexual behavior and stress response.
+CONCLUSIONS: Together, these results provide in vivo evidence of important TR4
+roles in penile physiology, as well as in male sexual behavior. In conjunction
+with previous finding, TR4 represents a key factor that controls male fertility
+via regulating behavior and internal physiological events.
+
+PMCID: PMC3212810
+PMID: 21995792  [PubMed - indexed for MEDLINE]
+
+
+32. J Biol Chem. 2011 Nov 4;286(44):38103-8. doi: 10.1074/jbc.M111.259523. Epub 2011 
+Sep 14.
+
+Testicular nuclear receptor 4 (TR4) regulates UV light-induced responses via
+Cockayne syndrome B protein-mediated transcription-coupled DNA repair.
+
+Liu S(1), Yan SJ, Lee YF, Liu NC, Ting HJ, Li G, Wu Q, Chen LM, Chang C.
+
+Author information: 
+(1)George Whipple Lab for Cancer Research, Departments of Pathology and Urology, 
+University of Rochester Medical Center, Rochester, New York 14642, USA.
+
+UV irradiation is one of the major external insults to cells and can cause skin
+aging and cancer. In response to UV light-induced DNA damage, the nucleotide
+excision repair (NER) pathways are activated to remove DNA lesions. We report
+here that testicular nuclear receptor 4 (TR4), a member of the nuclear receptor
+family, modulates DNA repair specifically through the transcription-coupled (TC) 
+NER pathway but not the global genomic NER pathway. The level of Cockayne
+syndrome B protein (CSB), a member of the TC-NER pathway, is 10-fold reduced in
+TR4-deficient mouse tissues, and TR4 directly regulates CSB at the
+transcriptional level. Moreover, restored CSB expression rescues UV
+hypersensitivity of TR4-deficient cells. Together, these results indicate that
+TR4 modulates UV sensitivity by promoting the TC-NER DNA repair pathway through
+transcriptional regulation of CSB. These results may lead to the development of
+new treatments for UV light-sensitive syndromes, skin cancer, and aging.
+
+PMCID: PMC3207464
+PMID: 21918225  [PubMed - indexed for MEDLINE]
+
+
+33. FEBS Lett. 2011 Sep 2;585(17):2763-7. doi: 10.1016/j.febslet.2011.08.002. Epub
+2011 Aug 11.
+
+TR4 activates FATP1 gene expression to promote lipid accumulation in 3T3-L1
+adipocytes.
+
+Choi H(1), Kim SJ, Park SS, Chang C, Kim E.
+
+Author information: 
+(1)Department of Biological Sciences, College of Natural Sciences, Chonnam
+National University, Buk-Gu, Gwangju, South Korea.
+
+We show that TR4 facilitates lipid accumulation in 3T3-L1 adipocytes via
+induction of the FATP1 gene. Further study showed that TR4 transactivated FATP1
+5' promoter activity via direct binding to the TR4 responsive element located at 
+the FATP1 5' promoter region. Constitutive overexpression of TR4 in 3T3-L1
+adipocytes resulted in increased lipid accumulation, accompanied by an increase
+in fatty acid uptake. However, small interfering RNA knockdown of FATP1 abolished
+TR4-enhanced fatty acid uptake. Moreover, microRNA-mediated silencing of TR4 in
+3T3-L1 adipocytes drastically reduced basal FATP1 5' promoter activity and FATP1 
+expression with reduced lipid accumulation.
+
+Copyright © 2011 Federation of European Biochemical Societies. Published by
+Elsevier B.V. All rights reserved.
+
+PMID: 21843524  [PubMed - indexed for MEDLINE]
+
+
+34. Bioinformatics. 2011 Sep 15;27(18):2473-7. doi: 10.1093/bioinformatics/btr416.
+Epub 2011 Jul 14.
+
+Inferring statin-induced gene regulatory relationships in primary human
+hepatocytes.
+
+Schröder A(1), Wollnik J, Wrzodek C, Dräger A, Bonin M, Burk O, Thomas M, Thasler
+WE, Zanger UM, Zell A.
+
+Author information: 
+(1)Center for Bioinformatics Tuebingen, University of Tuebingen, Tuebingen,
+Germany. adrian.schroeder@uni-tuebingen.de
+
+MOTIVATION: Statins are the most widely used cholesterol-lowering drugs. The
+primary target of statins is HMG-CoA reductase, a key enzyme in cholesterol
+synthesis. However, statins elicit pleitropic responses including beneficial as
+well as adverse effects in the liver or other organs. Today, the regulatory
+mechanisms that cause these pleiotropic effects are not sufficiently understood.
+RESULTS: In this work, genome-wide RNA expression changes in primary human
+hepatocytes of six individuals were measured at up to six time points upon
+atorvastatin treatment. A computational analysis workflow was applied to
+reconstruct regulatory mechanisms based on these drug-response data and available
+knowledge about transcription factor (TF) binding specificities and protein-drug 
+interactions. Several previously unknown TFs were predicted to be involved in
+atorvastatin-responsive gene expression. The novel relationships of nuclear
+receptors NR2C2 and PPARA on CYP3A4 were successfully validated in wet-lab
+experiments.
+AVAILABILITY: Microarray data are available at the Gene Expression Omnibus (GEO) 
+database at www.ncbi.nlm.nih.gov/geo/, under accession number GSE29868.
+CONTACT: andreas.zell@uni-tuebingen.de; adrian.schroeder@uni-tuebingen.de
+SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics
+online.
+
+PMID: 21757465  [PubMed - indexed for MEDLINE]
+
+
+35. Mol Cell Biol. 2011 Aug;31(16):3298-311. doi: 10.1128/MCB.05310-11. Epub 2011 Jun
+13.
+
+Nuclear receptors TR2 and TR4 recruit multiple epigenetic transcriptional
+corepressors that associate specifically with the embryonic ß-type globin
+promoters in differentiated adult erythroid cells.
+
+Cui S(1), Kolodziej KE, Obara N, Amaral-Psarris A, Demmers J, Shi L, Engel JD,
+Grosveld F, Strouboulis J, Tanabe O.
+
+Author information: 
+(1)Department of Cell and Developmental Biology, University of Michigan Medical
+School, Ann Arbor, Michigan 48109, USA.
+
+Nuclear receptors TR2 and TR4 (TR2/TR4) were previously shown to bind in vitro to
+direct repeat elements in the mouse and human embryonic and fetal ß-type globin
+gene promoters and to play critical roles in the silencing of these genes. By
+chromatin immunoprecipitation (ChIP) we show that, in adult erythroid cells,
+TR2/TR4 bind to the embryonic ß-type globin promoters but not to the adult
+ß-globin promoter. We purified protein complexes containing biotin-tagged TR2/TR4
+from adult erythroid cells and identified DNMT1, NuRD, and LSD1/CoREST repressor 
+complexes, as well as HDAC3 and TIF1ß, all known to confer epigenetic gene
+silencing, as potential corepressors of TR2/TR4. Coimmunoprecipitation assays of 
+endogenous abundance proteins indicated that TR2/TR4 complexes consist of at
+least four distinct molecular species. In ChIP assays we found that, in
+undifferentiated murine adult erythroid cells, many of these corepressors
+associate with both the embryonic and the adult ß-type globin promoters but, upon
+terminal differentiation, they specifically dissociate only from the adult
+ß-globin promoter concomitant with its activation but remain bound to the
+silenced embryonic globin gene promoters. These data suggest that TR2/TR4 recruit
+an array of transcriptional corepressors to elicit adult stage-specific silencing
+of the embryonic ß-type globin genes through coordinated epigenetic chromatin
+modifications.
+
+PMCID: PMC3147791
+PMID: 21670149  [PubMed - indexed for MEDLINE]
+
+
+36. Mol Endocrinol. 2011 Aug;25(8):1301-10. doi: 10.1210/me.2010-0455. Epub 2011 May 
+26.
+
+Mice lacking TR4 nuclear receptor develop mitochondrial myopathy with deficiency 
+in complex I.
+
+Liu S(1), Lee YF, Chou S, Uno H, Li G, Brookes P, Massett MP, Wu Q, Chen LM,
+Chang C.
+
+Author information: 
+(1)Department of Pathology, University of Rochester, Medical Center, Rochester,
+New York 14646, USA.
+
+The estimated incidence of mitochondrial diseases in humans is approximately
+1:5000 to 1:10,000, whereas the molecular mechanisms for more than 50% of human
+mitochondrial disease cases still remain unclear. Here we report that mice
+lacking testicular nuclear receptor 4 (TR4(-/-)) suffered mitochondrial myopathy,
+and histological examination of TR4(-/-) soleus muscle revealed abnormal
+mitochondrial accumulation. In addition, increased serum lactate levels,
+decreased mitochondrial ATP production, and decreased electron transport chain
+complex I activity were found in TR4(-/-) mice. Restoration of TR4 into TR4(-/-) 
+myoblasts rescued mitochondrial ATP generation capacity and complex I activity.
+Further real-time PCR quantification and promoter studies found TR4 could
+modulate complex I activity via transcriptionally regulating the complex I
+assembly factor NDUFAF1, and restoration of NDUFAF1 level in TR4(-/-) myoblasts
+increased mitochondrial ATP generation capacity and complex I activity. Together,
+these results suggest that TR4 plays vital roles in mitochondrial function, which
+may help us to better understand the pathogenesis of mitochondrial myopathy, and 
+targeting TR4 via its ligands/activators may allow us to develop better
+therapeutic approaches.
+
+PMCID: PMC3146253
+PMID: 21622535  [PubMed - indexed for MEDLINE]
+
+
+37. Am J Physiol Endocrinol Metab. 2011 Jul;301(1):E91-8. doi:
+10.1152/ajpendo.00701.2010. Epub 2011 Apr 26.
+
+Premature aging with impaired oxidative stress defense in mice lacking TR4.
+
+Lee YF(1), Liu S, Liu NC, Wang RS, Chen LM, Lin WJ, Ting HJ, Ho HC, Li G, Puzas
+EJ, Wu Q, Chang C.
+
+Author information: 
+(1)George Whipple Laboratory for Cancer Research, Departments of Pathology,
+Urology, and Orthopaedics, University of Rochester Medical Center, Rochester, New
+York 14620, USA. chang@urmc.rochester.edu
+
+Early studies suggest that TR4 nuclear receptor is a key transcriptional factor
+regulating various biological activities, including reproduction, cerebella
+development, and metabolism. Here we report that mice lacking TR4 (TR4(-/-))
+exhibited increasing genome instability and defective oxidative stress defense,
+which are associated with premature aging phenotypes. At the cellular level, we
+observed rapid cellular growth arrest and less resistance to oxidative stress and
+DNA damage in TR4(-/-) mouse embryonic fibroblasts (MEFs) in vitro. Restoring TR4
+or supplying the antioxidant N-acetyl-l-cysteine (NAC) to TR4(-/-) MEFs reduced
+the DNA damage and slowed down cellular growth arrest. Focused qPCR array
+revealed alteration of gene profiles in the DNA damage response (DDR) and
+anti-reactive oxygen species (ROS) pathways in TR4(-/-) MEFs, which further
+supports the hypothesis that the premature aging in TR4(-/-) mice might stem from
+oxidative DNA damage caused by increased oxidative stress or compromised genome
+integrity. Together, our finding identifies a novel role of TR4 in mediating the 
+interplay between oxidative stress defense and aging.
+
+PMCID: PMC3129845
+PMID: 21521714  [PubMed - indexed for MEDLINE]
+
+
+38. J Biol Chem. 2011 Jun 17;286(24):21129-36. doi: 10.1074/jbc.M110.208181. Epub
+2011 Apr 22.
+
+Increased acetylation in the DNA-binding domain of TR4 nuclear receptor by the
+coregulator ARA55 leads to suppression of TR4 transactivation.
+
+Xie S(1), Ni J, Lee YF, Liu S, Li G, Shyr CR, Chang C.
+
+Author information: 
+(1)George Whipple Lab for Cancer Research, Department of Pathology, University of
+Rochester Medical Center, Rochester, New York 14642, USA.
+
+The nuclear receptor TR4 is a key regulator for many physiological processes,
+including growth, development, and metabolism. However, how the transcriptional
+activity of TR4 is regulated in the absence of ligand(s) remains largely unknown.
+Here we found that an androgen receptor (AR) coactivator, ARA55, might function
+as a corepressor to suppress TR4 transactivation. Molecular mechanistic
+dissection with mutation analysis found that ARA55 could enhance TR4 acetylation 
+at the conserved acetylation sites of lysine 175 and lysine 176 in the
+DNA-binding domain via recruiting proteins with histone acetyl transferase
+activity, which might then reduce significantly the TR4 DNA binding activity that
+resulted in the suppression of TR4 transactivation. These results are in contrast
+to the classic ARA55 coactivator function to enhance AR transactivation partially
+via increased AR acetylation in the hinge/ligand-binding domain. Together, these 
+results not only provide a novel functional mechanism showing that acetylation of
+different nuclear receptors at different domains by coregulator may lead to
+differential receptor transactivation activity but also provide a new way for
+small molecules to control TR4 transactivation via altering TR4 acetylation
+levels, and such small molecules may have potential therapeutic applications in
+the future.
+
+PMCID: PMC3122174
+PMID: 21515881  [PubMed - indexed for MEDLINE]
+
+
+39. Diabetes. 2011 May;60(5):1493-503. doi: 10.2337/db10-0393. Epub 2011 Apr 8.
+
+Metformin inhibits nuclear receptor TR4-mediated hepatic stearoyl-CoA desaturase 
+1 gene expression with altered insulin sensitivity.
+
+Kim E(1), Liu NC, Yu IC, Lin HY, Lee YF, Sparks JD, Chen LM, Chang C.
+
+Author information: 
+(1)Department of Pathology and the Wilmot Cancer Center, University of Rochester 
+Medical Center, Rochester, New York, USA.
+
+OBJECTIVE: TR4 is a nuclear receptor without clear pathophysiological roles. We
+investigated the roles of hepatic TR4 in the regulation of lipogenesis and
+insulin sensitivity in vivo and in vitro.
+RESEARCH DESIGN AND METHODS: TR4 activity and phosphorylation assays were carried
+out using hepatocytes and various TR4 wild-type and mutant constructs. Liver
+tissues from TR4 knockout, C57BL/6, and db/db mice were examined to investigate
+TR4 target gene stearoyl-CoA desaturase (SCD) 1 regulation.
+RESULTS: TR4 transactivation is inhibited via phosphorylation by
+metformin-induced AMP-activated protein kinase (AMPK) at the amino acid serine
+351, which results in the suppression of SCD1 gene expression. Additional
+mechanistic dissection finds TR4-transactivated SCD1 promoter activity via direct
+binding to the TR4-responsive element located at -243 to -255 on the promoter
+region. The pathophysiological consequences of the metformin<U+2192>AMPK<U+2192>TR4<U+2192>SCD1
+pathway are examined via TR4 knockout mice and primary hepatocytes with either
+knockdown or overexpression of TR4. The results show that the suppression of SCD1
+via loss of TR4 resulted in reduced fat mass and increased insulin sensitivity
+with increased ß-oxidation and decreased lipogenic gene expression.
+CONCLUSIONS: The pathway from metformin<U+2192>AMPK<U+2192>TR4<U+2192>SCD1<U+2192>insulin sensitivity
+suggests that TR4 may function as an important modulator to control lipid
+metabolism, which sheds light on the use of small molecules to modulate TR4
+activity as a new alternative approach to battle the metabolic syndrome.
+
+PMCID: PMC3292323
+PMID: 21478464  [PubMed - indexed for MEDLINE]
+
+
+40. BMC Genomics. 2010 Dec 2;11:689. doi: 10.1186/1471-2164-11-689.
+
+Genome-wide binding of the orphan nuclear receptor TR4 suggests its general role 
+in fundamental biological processes.
+
+O'Geen H(1), Lin YH, Xu X, Echipare L, Komashko VM, He D, Frietze S, Tanabe O,
+Shi L, Sartor MA, Engel JD, Farnham PJ.
+
+Author information: 
+(1)Genome Center, University of California at Davis, Davis, CA 95616, USA.
+
+BACKGROUND: The orphan nuclear receptor TR4 (human testicular receptor 4 or
+NR2C2) plays a pivotal role in a variety of biological and metabolic processes.
+With no known ligand and few known target genes, the mode of TR4 function was
+unclear.
+RESULTS: We report the first genome-wide identification and characterization of
+TR4 in vivo binding. Using chromatin immunoprecipitation followed by high
+throughput sequencing (ChIP-seq), we identified TR4 binding sites in 4 different 
+human cell types and found that the majority of target genes were shared among
+different cells. TR4 target genes are involved in fundamental biological
+processes such as RNA metabolism and protein translation. In addition, we found
+that a subset of TR4 target genes exerts cell-type specific functions. Analysis
+of the TR4 binding sites revealed that less than 30% of the peaks from any of the
+cell types contained the DR1 motif previously derived from in vitro studies,
+suggesting that TR4 may be recruited to the genome via interaction with other
+proteins. A bioinformatics analysis of the TR4 binding sites predicted a cis
+regulatory module involving TR4 and ETS transcription factors. To test this
+prediction, we performed ChIP-seq for the ETS factor ELK4 and found that 30% of
+TR4 binding sites were also bound by ELK4. Motif analysis of the sites bound by
+both factors revealed a lack of the DR1 element, suggesting that TR4 binding at a
+subset of sites is facilitated through the ETS transcription factor ELK4. Further
+studies will be required to investigate the functional interdependence of these
+two factors.
+CONCLUSIONS: Our data suggest that TR4 plays a pivotal role in fundamental
+biological processes across different cell types. In addition, the identification
+of cell type specific TR4 binding sites enables future studies of the pathways
+underlying TR4 action and its possible role in metabolic diseases.
+
+PMCID: PMC3019231
+PMID: 21126370  [PubMed - indexed for MEDLINE]
+
+
+41. J Biol Chem. 2011 Jan 28;286(4):2877-85. doi: 10.1074/jbc.M110.168740. Epub 2010 
+Nov 9.
+
+The orphan nuclear receptor TR4 is a vitamin A-activated nuclear receptor.
+
+Zhou XE(1), Suino-Powell KM, Xu Y, Chan CW, Tanabe O, Kruse SW, Reynolds R, Engel
+JD, Xu HE.
+
+Author information: 
+(1)Laboratory of Structural Sciences and Drug Discovery, Van Andel Research
+Institute, Grand Rapids, Michigan 49503, USA. edward.zhou@vai.org
+
+Testicular receptors 2 and 4 (TR2/4) constitute a subgroup of orphan nuclear
+receptors that play important roles in spermatogenesis, lipid and lipoprotein
+regulation, and the development of the central nervous system. Currently, little 
+is known about the structural features and the ligand regulation of these
+receptors. Here we report the crystal structure of the ligand-free TR4 ligand
+binding domain, which reveals an autorepressed conformation. The ligand binding
+pocket of TR4 is filled by the C-terminal half of helix 10, and the cofactor
+binding site is occupied by the AF-2 helix, thus preventing ligand-independent
+activation of the receptor. However, TR4 exhibits constitutive transcriptional
+activity on multiple promoters, which can be further potentiated by nuclear
+receptor coactivators. Mutations designed to disrupt cofactor binding,
+dimerization, or ligand binding substantially reduce the transcriptional activity
+of this receptor. Importantly, both retinol and retinoic acid are able to promote
+TR4 to recruit coactivators and to activate a TR4-regulated reporter. These
+findings demonstrate that TR4 is a ligand-regulated nuclear receptor and suggest 
+that retinoids might have a much wider regulatory role via activation of orphan
+receptors such as TR4.
+
+PMCID: PMC3024783
+PMID: 21068381  [PubMed - indexed for MEDLINE]
+
+
+42. Diabetes. 2011 Jan;60(1):177-88. doi: 10.2337/db10-0628. Epub 2010 Sep 23.
+
+Nuclear orphan receptor TAK1/TR4-deficient mice are protected against
+obesity-linked inflammation, hepatic steatosis, and insulin resistance.
+
+Kang HS(1), Okamoto K, Kim YS, Takeda Y, Bortner CD, Dang H, Wada T, Xie W, Yang 
+XP, Liao G, Jetten AM.
+
+Author information: 
+(1)Cell Biology Section, Laboratory of Respiratory Biology, National Institute of
+Environmental Health Sciences, National Institutes of Health, Research Triangle
+Park, North Carolina, USA.
+
+OBJECTIVE: The nuclear receptor TAK1/TR4/NR2C2 is expressed in several tissues
+that are important in the control of energy homeostasis. In this study, we
+investigate whether TAK1 functions as a regulator of lipid and energy homeostasis
+and has a role in metabolic syndrome.
+RESEARCH DESIGN AND METHODS: We generated TAK1-deficient (TAK1<U+207B>(/)<U+207B>) mice to
+study the function of TAK1 in the development of metabolic syndrome in aged mice 
+and mice fed a high-fat diet (HFD). (Immuno)histochemical, biochemical, and gene 
+expression profile analyses were performed to determine the effect of the loss of
+TAK1 expression on lipid homeostasis in liver and adipose tissues. In addition,
+insulin sensitivity, energy expenditure, and adipose-associated inflammation were
+compared in wild-type (WT) and TAK1<U+207B>(/)<U+207B> mice fed a HFD.
+RESULTS: TAK1-deficient (TAK1<U+207B>(/)<U+207B>) mice are resistant to the development of age-
+and HFD-induced metabolic syndrome. Histo- and biochemical analyses showed
+significantly lower hepatic triglyceride levels and reduced lipid accumulation in
+adipose tissue in TAK1<U+207B>(/)<U+207B> mice compared with WT mice. Gene expression profiling
+analysis revealed that the expression of several genes encoding proteins involved
+in lipid uptake and triglyceride synthesis and storage, including Cidea, Cidec,
+Mogat1, and CD36, was greatly decreased in the liver and primary hepatocytes of
+TAK1<U+207B>(/)<U+207B> mice. Restoration of TAK1 expression in TAK1<U+207B>(/)<U+207B> hepatocytes induced
+expression of several lipogenic genes. Moreover, TAK1<U+207B>(/)<U+207B> mice exhibited reduced
+infiltration of inflammatory cells and expression of inflammatory genes in white 
+adipose tissue, and were resistant to the development of glucose intolerance and 
+insulin resistance. TAK1<U+207B>(/)<U+207B> mice consume more oxygen and produce more carbon
+dioxide than WT mice, suggesting increased energy expenditure.
+CONCLUSIONS: Our data reveal that TAK1 plays a critical role in the regulation of
+energy and lipid homeostasis, and promotes the development of metabolic syndrome.
+TAK1 may provide a new therapeutic target in the management of obesity, diabetes,
+and liver steatosis.
+
+PMCID: PMC3012170
+PMID: 20864514  [PubMed - indexed for MEDLINE]
+
+
+43. J Cell Physiol. 2010 Feb;222(2):347-56. doi: 10.1002/jcp.21959.
+
+Human testicular orphan receptor 4 enhances thyroid hormone receptor signaling.
+
+Huang YH(1), Liao CH, Chen RN, Liao CJ, Lin KH.
+
+Author information: 
+(1)Department of Biochemistry, School of Medicine, Chang-Gung University,
+Taoyuan, Taiwan, Republic of China.
+
+The thyroid hormone receptor (TR) and human testicular orphan receptor 4 (TR4)
+belong to the nuclear hormone receptor superfamily. They are ligand-dependent
+transcription factors. TR and TR4 bind to a similar thyroid response element
+(TRE), known as a direct repeat with four nucleotide spacing (DR4). This study
+examined the possible interaction or cross-talking between those two receptors.
+We hypothesized that protein-protein interaction between TR4 and TR may promote
+TR-mediated transcriptional activity. Glutathione S-transferase pull-down and
+immunoprecipitation assays showed direct interaction between TR and TR4.
+Electrophoretic mobility-shift assay demonstrated that TR and TR4 could co-occupy
+the same TRE. The interaction between TR4 and TR may enhance regulation of genes 
+targeted by TR, such as furin, fibrinogen, cdk2 and p21 expression. We found that
+TR4 function is similar with TR as TR4 alone could regulate expression of some TR
+target genes, and could increase cell migration or inhibit cell proliferation.
+Importantly, the TR-dependent inhibition of cell proliferation and stimulation of
+cell migration are more enhanced in the HepG2-TR cells stably over-expressing
+TR4. Overall, TR4 not only has modulation abilities similar to TR but also can
+cross-talk with TR and promote the TR signaling pathway.
+
+(c) 2009 Wiley-Liss, Inc.
+
+PMID: 19859911  [PubMed - indexed for MEDLINE]
+
+
+44. Biochim Biophys Acta. 2009 Nov-Dec;1789(11-12):734-40. doi:
+10.1016/j.bbagrm.2009.09.010. Epub 2009 Sep 30.
+
+Activation of testicular orphan receptor 4 by fatty acids.
+
+Tsai NP(1), Huq M, Gupta P, Yamamoto K, Kagechika H, Wei LN.
+
+Author information: 
+(1)Department of Pharmacology, University of Minnesota Medical School, 6-120
+Jackson Hall, 321 Church Street SE, Minneapolis, MN 55455-0217, USA.
+
+Nuclear receptors can be activated by chemicals, metabolites, hormones or
+environmental compounds to regulate gene expression. Bioassay-guided screening of
+mouse tissue extracts found that natural fatty acids of a certain carbon length
+and level of unsaturation could activate the mouse orphan nuclear receptor,
+testicular orphan receptor 4 (TR4). Subsequent experiments focused on
+gamma-linoleic acid, a compound identified during screening of mouse tissues that
+exerts regulatory activity in TR4 transactivation assays. gamma-linoleic acid
+positively modulates TR4 activity to promote the expression of downstream genes
+such as apolipoprotein E (ApoE) and phosphoenolpyruvate carboxykinase, and to
+activate a reporter carrying direct repeat 1 from the ApoE promoter. It also
+induced the interaction of TR4 with transcription coregulators such as RIP140 and
+PCAF. Comparisons of transactivation by TR4 and the metabolism-related peroxisome
+proliferator-activated nuclear receptors indicate that gamma-linoleic acid
+regulation is specific to TR4. The data suggest that TR4 might exert its
+physiological function by sensing certain lipids. Identifying these compounds
+could be useful for examining the physiological pathways in which TR4 and its
+target genes are involved.
+
+PMCID: PMC2784022
+PMID: 19800043  [PubMed - indexed for MEDLINE]
+
+
+45. Proc Natl Acad Sci U S A. 2009 Aug 11;106(32):13353-8. doi:
+10.1073/pnas.0905724106. Epub 2009 Jul 28.
+
+TR4 nuclear receptor functions as a fatty acid sensor to modulate CD36 expression
+and foam cell formation.
+
+Xie S(1), Lee YF, Kim E, Chen LM, Ni J, Fang LY, Liu S, Lin SJ, Abe J, Berk B, Ho
+FM, Chang C.
+
+Author information: 
+(1)George Whipple Lab for Cancer Research, Department of Pathology, and
+Cardiovascular Research Institute, University of Rochester Medical Center,
+Rochester, NY 14642, USA.
+
+Testicular orphan nuclear receptor 4 (TR4) is an orphan member of the nuclear
+receptor superfamily with diverse physiological functions. Using TR4 knockout
+(TR4(-/-)) mice to study its function in cardiovascular diseases, we found
+reduced cluster of differentiation (CD)36 expression with reduced foam cell
+formation in TR4(-/-) mice. Mechanistic dissection suggests that TR4 induces CD36
+protein and mRNA expression via a transcriptional regulation. Interestingly, we
+found this TR4-mediated CD36 transactivation can be further enhanced by
+polyunsaturated fatty acids (PUFAs), such as omega-3 and -6 fatty acids, and
+their metabolites such as 15-hydroxyeico-satetraonic acid (15-HETE) and
+13-hydroxy octa-deca dieonic acid (13-HODE) and thiazolidinedione
+(TZD)-rosiglitazone. Both electrophoretic mobility shift assays (EMSA) and
+chromatin immunoprecipitation (ChIP) assays demonstrate that TR4 binds to the TR4
+response element located on the CD36 5'-promoter region for the induction of CD36
+expression. Stably transfected TR4-siRNA or functional TR4 cDNA in the RAW264.7
+macrophage cells resulted in either decreased or increased CD36 expression with
+decreased or increased foam cell formation. Restoring functional CD36 cDNA in the
+TR4 knockdown macrophage cells reversed the decreased foam cell formation.
+Together, these results reveal an important signaling pathway controlling
+CD36-mediated foam cell formation/cardiovascular diseases, and findings that TR4 
+transactivation can be activated via its ligands/activators, such as PUFA
+metabolites and TZD, may provide a platform to screen new drug(s) to battle the
+metabolism syndrome, diabetes, and cardiovascular diseases.
+
+PMCID: PMC2726407
+PMID: 19666541  [PubMed - indexed for MEDLINE]
+
+
+46. Endocrine. 2009 Oct;36(2):211-7. doi: 10.1007/s12020-009-9220-0. Epub 2009 Jul
+18.
+
+Activation of TR4 orphan nuclear receptor gene promoter by cAMP/PKA and C/EBP
+signaling.
+
+Liu NC(1), Lin WJ, Yu IC, Lin HY, Liu S, Lee YF, Chang C.
+
+Author information: 
+(1)George Whipple Laboratory for Cancer Research, Department of Pathology and
+Urology, University of Rochester Medical Center, Rochester, NY, 14642, USA.
+
+In earlier studies, we had suggested that the fasting signal induces TR4 orphan
+nuclear receptor expression in vivo. The detailed mechanism(s), however, remain
+unclear. In this study, we found that cAMP/PKA, the mediator of fasting and
+glucagon signals, could induce TR4 gene expression that in turn modulates
+gluconeogenesis. Mechanistic dissection by in vitro studies in hepatocytes
+demonstrated that cAMP/PKA might trigger C/EBP alpha and beta binding to the
+selective cAMP response element, which is located at the TR4 promoter, thus
+inducing TR4 transcription. We also demonstrated that the binding activity of
+C/EBPs to the TR4 promoter is increased in response to cAMP treatment. Together, 
+our data identified a new signaling pathway from the fasting signal --> cAMP/PKA 
+--> C/EBP alpha and beta --> TR4 --> gluconeogenesis in hepatocytes; and
+suggested that TR4 could be an important regulator to control glucose
+homeostasis. The identification of activator(s)/inhibitor(s) or ligand(s) of TR4 
+may provide us an alternative way to control gluconeogenesis.
+
+PMID: 19618297  [PubMed - indexed for MEDLINE]
+
+
+47. Endocrinology. 2009 May;150(5):2454-62. doi: 10.1210/en.2008-1165. Epub 2009 Jan 
+8.
+
+Roles of testicular orphan nuclear receptors 2 and 4 in early embryonic
+development and embryonic stem cells.
+
+Shyr CR(1), Kang HY, Tsai MY, Liu NC, Ku PY, Huang KE, Chang C.
+
+Author information: 
+(1)Department of Pathology, The Cancer Center, George Whipple Lab for Cancer
+Research, University of Rochester, Rochester, New York 14642, USA.
+
+The testicular orphan nuclear receptors (TRs) 2 and 4 act as either
+transcriptional activators or regulatory proteins of other nuclear receptor
+superfamily members. With no identified cognate ligands, their physiological
+roles remain unclear. Here we showed the phenotypes of TR2(-/-):TR4(-/-) mutant
+embryos, which reveal that the loss of TR2 and TR4 causes early embryonic
+lethality and increased cell death. We also found that TR2 and TR4 are expressed 
+in blastocysts and embryonic stem (ES) cells, and can act as transcriptional
+activators in ES cells. The results on further investigating the roles of TR2 and
+TR4 in ES cells showed that TR2 and TR4 were differentially expressed when ES
+cells were induced into different specialized cell types, and their expression is
+regulated by retinoic acid. Knocking down TR2 and TR4 mRNAs decreased the
+expression of Oct-3/4 and Nanog genes. Mechanism dissection suggests that TR2 and
+TR4 may affect the Oct-3/4 gene by binding to a direct repeat-1 element located
+in its promoter region, which is influenced by retinoic acid. Together, our
+findings highlight possible roles for TR2 and TR4 in early embryonic development 
+by regulating key genes involved in stem cell self-renewal, commitment, and
+differentiation.
+
+PMID: 19131575  [PubMed - indexed for MEDLINE]
+
+
+48. Hum Mol Genet. 2009 Jan 15;18(2):373-80. doi: 10.1093/hmg/ddn350. Epub 2008 Oct
+24.
+
+Common variants in the JAZF1 gene associated with height identified by linkage
+and genome-wide association analysis.
+
+Johansson A(1), Marroni F, Hayward C, Franklin CS, Kirichenko AV, Jonasson I,
+Hicks AA, Vitart V, Isaacs A, Axenovich T, Campbell S, Dunlop MG, Floyd J, Hastie
+N, Hofman A, Knott S, Kolcic I, Pichler I, Polasek O, Rivadeneira F, Tenesa A,
+Uitterlinden AG, Wild SH, Zorkoltseva IV, Meitinger T, Wilson JF, Rudan I,
+Campbell H, Pattaro C, Pramstaller P, Oostra BA, Wright AF, van Duijn CM,
+Aulchenko YS, Gyllensten U; EUROSPAN Consortium.
+
+Author information: 
+(1)Rudbeck Laboratory, Department of Genetics and Pathology, Uppsala University, 
+SE-751 85 Uppsala, Sweden.
+
+Genes for height have gained interest for decades, but only recently have
+candidate genes started to be identified. We have performed linkage analysis and 
+genome-wide association for height in approximately 4000 individuals from five
+European populations. A total of five chromosomal regions showed suggestive
+linkage and in one of these regions, two SNPs (rs849140 and rs1635852) were
+associated with height (nominal P = 7.0 x 10(-8) and P = 9.6 x 10(-7),
+respectively). In total, five SNPs across the genome showed an association with
+height that reached the threshold of genome-wide significance (nominal P < 1.6 x 
+10(-7)). The association with height was replicated for two SNPs (rs1635852 and
+rs849140) using three independent studies (n = 31 077, n=1268 and n = 5746) with 
+overall meta P-values of 9.4 x 10(-10) and 5.3 x 10(-8). These SNPs are located
+in the JAZF1 gene, which has recently been associated with type II diabetes,
+prostate and endometrial cancer. JAZF1 is a transcriptional repressor of NR2C2,
+which results in low IGF1 serum concentrations, perinatal and early postnatal
+hypoglycemia and growth retardation when knocked out in mice. Both the linkage
+and association analyses independently identified the JAZF1 region affecting
+human height. We have demonstrated, through replication in additional independent
+populations, the consistency of the effect of the JAZF1 SNPs on height. Since
+this gene also has a key function in the metabolism of growth, JAZF1 represents
+one of the strongest candidates influencing human height identified so far.
+
+PMCID: PMC2638782
+PMID: 18952825  [PubMed - indexed for MEDLINE]
+
+
+49. Cerebellum. 2008;7(1):9-17. doi: 10.1007/s12311-008-0006-3.
+
+The roles of testicular orphan nuclear receptor 4 (TR4) in cerebellar
+development.
+
+Chen YT(1), Collins LL, Chang SS, Chang C.
+
+Author information: 
+(1)George Whipple Laboratory for Cancer Research, Departments of Pathology,
+Urology, Radiation Oncology, The Cancer Center, Rochester, NY 14642, USA.
+
+Since Testicular Receptor 4 (TR4) was cloned, efforts have been made to elucidate
+its physiological function. To examine the putative functions of TR4, the
+conventional TR4 knockout (TR4(-/-)) mouse model was generated. Throughout
+postnatal and adult stages, TR4(-/-) mice exhibited behavioral deficits in motor 
+coordination, suggesting impaired cerebellar function. Histological examination
+of the postnatal and adult TR4(-/-) cerebellum revealed gross abnormalities in
+foliation. Further analyses demonstrated changes in the lamination of the
+TR4(-/-) cerebellar cortex, including reduction in the thickness of both the
+molecular layer (ML) and the internal granule layer (IGL). Analyses of the
+developing TR4(-/-) cerebellum indicate that the lamination irregularities
+observed may result from disrupted granule cell proliferation within the external
+granule cell layer (EGL), delayed inward migration of post-mitotic granule cells,
+and increased apoptosis during cerebellar development. In addition, abnormal
+development of Purkinje cells was observed in the postnatal TR4(-/-) cerebellum, 
+as indicated by aberrant dendritic arborization. In postnatal, neuronal-specific 
+TR4 knockout mice, architectural changes in the cerebellum were similar to those 
+seen in TR4(-/-) animals, suggesting that TR4 function in neuronal lineages might
+be important for cerebellar morphogenesis, and that the effect on Purkinje cell
+development is likely mediated by changes elsewhere, such as in granule cells, or
+is highly dependent on developmental stage. Together, our findings from various
+TR4 knockout mouse models suggest that TR4 is required for normal cerebellar
+development and that failure to establish proper cytoarchitecture results in
+dysfunction of the cerebellum and leads to abnormal behavior.
+
+PMID: 18418664  [PubMed - indexed for MEDLINE]
+
+
+50. Endocrinology. 2008 Jul;149(7):3490-9. doi: 10.1210/en.2008-0121. Epub 2008 Apr
+3.
+
+Oxidative stress stimulates testicular orphan receptor 4 through forkhead
+transcription factor forkhead box O3a.
+
+Li G(1), Lee YF, Liu S, Cai Y, Xie S, Liu NC, Bao BY, Chen Z, Chang C.
+
+Author information: 
+(1)George H. Whipple Laboratory for Cancer Research, Department of Pathology,
+University of Rochester Medical Center, 601 Elmwood Avenue, Rochester, NY 14642, 
+USA.
+
+Early studies reveal that testicular orphan nuclear receptor 4 (TR4) modulates
+signaling pathways that control various cell functions. However, how TR4 activity
+is regulated without the involvement of specific ligand(s) remains unclear. Here 
+we identify a daf-16 family protein-binding element (DBE; 5'-TGTTTAC-3') in the
+TR4 promoter that can be recognized by the forkhead transcriptional factor
+FOXO3a, a key stress-responsive factor, through which TR4 gene expression is
+activated. The interaction between DBE and FOXO3a was confirmed using EMSA and
+chromatin immunoprecipitation assays. Activation of FOXO3a by oxidative stress
+and phosphatidylinositol 3-kinase inhibitor induced TR4 expression; in contrast, 
+suppression of FOXO3a by small interfering RNA can reduce oxidative
+stress-induced TR4 expression. The biological consequence of the FOXO3a-induced
+TR4 by oxidative stress is to protect against stress-induced cell death in which 
+cells with reduced FOXO3a are less resistant to oxidative stress, and addition of
+functional TR4 can increase stress resistance. These results suggest that this
+new identified oxidative stress-FOXO3a-TR4 pathway is a fundamentally important
+mechanism regulating stress resistance and cell survival.
+
+PMCID: PMC2453090
+PMID: 18388194  [PubMed - indexed for MEDLINE]
+
+
+51. Mol Endocrinol. 2008 Apr;22(4):858-67. doi: 10.1210/me.2007-0181. Epub 2008 Jan
+3.
+
+Subfertility with defective folliculogenesis in female mice lacking testicular
+orphan nuclear receptor 4.
+
+Chen LM(1), Wang RS, Lee YF, Liu NC, Chang YJ, Wu CC, Xie S, Hung YC, Chang C.
+
+Author information: 
+(1)George Whipple Laboratory for Cancer Research, University of Rochester Medical
+Center, Rochester, New York 14620, USA.
+
+Testicular orphan nuclear receptor 4 (TR4) plays essential roles for normal
+spermatogenesis in male mice. However, its roles in female fertility and ovarian 
+function remain largely unknown. Here we found female mice lacking TR4 (TR4-/-)
+displayed subfertility and irregular estrous cycles. TR4-/- female mice ovaries
+were smaller with fewer or no preovulatory follicles and corpora lutea. After
+superovulation, TR4-/- female mice produced fewer oocytes, preovulatory
+follicles, and corpora lutea. In addition, more intensive granulosa apoptosis was
+found in TR4-/- ovaries. Functional analyses suggest that subfertility in TR4-/- 
+female mice can be due to an ovarian defect with impaired folliculogenesis rather
+than a deficiency in pituitary gonadotropins. Molecular mechanism dissection of
+defective folliculogenesis found TR4 might induce LH receptor (LHR) gene
+expression via direct binding to its 5' promoter. The consequence of reduced LHR 
+expression in TR4-/- female mice might then result in reduced gonadal sex
+hormones via reduced expression of enzymes involved in steroidogenesis. Together,
+our results showed TR4 might play essential roles in normal folliculogenesis by
+influencing LHR signals. Modulation of TR4 expression and/or activation via its
+upstream signals or unidentified ligand(s) might allow us to develop small
+molecule(s) to control folliculogenesis.
+
+PMCID: PMC2725750
+PMID: 18174360  [PubMed - indexed for MEDLINE]
+
+
+52. Genes Dev. 2007 Nov 1;21(21):2832-44.
+
+The TR2 and TR4 orphan nuclear receptors repress Gata1 transcription.
+
+Tanabe O(1), Shen Y, Liu Q, Campbell AD, Kuroha T, Yamamoto M, Engel JD.
+
+Author information: 
+(1)Department of Cell and Developmental Biology, University of Michigan Medical
+School, Ann Arbor, Michigan 48109, USA.
+
+When the orphan nuclear receptors TR2 and TR4, the DNA-binding subunits of the
+DRED repressor complex, are forcibly expressed in erythroid cells of transgenic
+mice, embryos exhibit a transient mid-gestational anemia as a consequence of a
+reduction in the number of primitive erythroid cells. GATA-1 mRNA is specifically
+diminished in the erythroid cells of these TR2/TR4 transgenic embryos as it is in
+human CD34(+) progenitor cells transfected with forcibly expressed TR2/TR4. In
+contrast, in loss-of-function studies analyzing either Tr2- or Tr4-germline-null 
+mutant mice or human CD34(+) progenitor cells transfected with force-expressed
+TR2 and TR4 short hairpin RNAs (shRNAs), GATA-1 mRNA is induced. An
+evolutionarily conserved direct repeat (DR) element, a canonical binding site for
+nuclear receptors, was identified in the GATA1 hematopoietic enhancer (G1HE), and
+TR2/TR4 binds to that site in vitro and in vivo. Mutation of that DR element led 
+to elevated Gata1 promoter activity, and reduced promoter responsiveness to
+cotransfected TR2/TR4. Thus, TR2/TR4 directly represses Gata1/GATA1 transcription
+in murine and human erythroid progenitor cells through an evolutionarily
+conserved binding site within a well-characterized, tissue-specific Gata1
+enhancer, thereby providing a mechanism by which Gata1 can be directly silenced
+during terminal erythroid maturation.
+
+PMCID: PMC2045135
+PMID: 17974920  [PubMed - indexed for MEDLINE]
+
+
+53. Biochem Biophys Res Commun. 2007 Sep 21;361(2):323-8. Epub 2007 Jul 10.
+
+TR4 orphan nuclear receptor functions as an apoptosis modulator via regulation of
+Bcl-2 gene expression.
+
+Kim E(1), Ma WL, Lin DL, Inui S, Chen YL, Chang C.
+
+Author information: 
+(1)George Whipple Lab for Cancer Research, Department of Pathology, University of
+Rochester Medical Center, Rochester, NY 14642, USA.
+
+While Bcl-2 plays an important role in cell apoptosis, its relationship to the
+orphan nuclear receptors remains unclear. Here we report that mouse embryonic
+fibroblast (MEF) cells prepared from TR4-deficient (TR4(-/-)) mice are more
+susceptible to UV-irradiation mediated apoptosis compared to TR4-Wildtype
+(TR4(+/+)) littermates. Substantial increasing TR4(-/-) MEF apoptosis to
+UV-irradiation was correlated to the down-regulation of Bcl-2 RNA and protein
+expression and collaterally increased caspase-3 activity. Furthermore, this
+TR4-induced Bcl-2 gene expression can be suppressed by co-transfection with TR4
+coregulators, such as androgen receptor (AR) and receptor-interacting protein 140
+(RIP140) in a dose-dependent manner. Together, our results demonstrate that TR4
+might function as an apoptosis modulator through induction of Bcl-2 gene
+expression.
+
+PMCID: PMC2121606
+PMID: 17655826  [PubMed - indexed for MEDLINE]
+
+
+54. EMBO J. 2007 May 2;26(9):2295-306. Epub 2007 Apr 12.
+
+Embryonic and fetal beta-globin gene repression by the orphan nuclear receptors, 
+TR2 and TR4.
+
+Tanabe O(1), McPhee D, Kobayashi S, Shen Y, Brandt W, Jiang X, Campbell AD, Chen 
+YT, Chang Cs, Yamamoto M, Tanimoto K, Engel JD.
+
+Author information: 
+(1)Department of Cell and Developmental Biology, University of Michigan Medical
+School, Ann Arbor, MI 48109-2200, USA.
+
+The TR2 and TR4 orphan nuclear receptors comprise the DNA-binding core of direct 
+repeat erythroid definitive, a protein complex that binds to direct repeat
+elements in the embryonic and fetal beta-type globin gene promoters. Silencing of
+both the embryonic and fetal beta-type globin genes is delayed in definitive
+erythroid cells of Tr2 and Tr4 null mutant mice, whereas in transgenic mice that 
+express dominant-negative TR4 (dnTR4), human embryonic epsilon-globin is
+activated in primitive and definitive erythroid cells. In contrast, human fetal
+gamma-globin is activated by dnTR4 only in definitive, but not in primitive,
+erythroid cells, implicating TR2/TR4 as a stage-selective repressor. Forced
+expression of wild-type TR2 and TR4 leads to precocious repression of
+epsilon-globin, but in contrast to induction of gamma-globin in definitive
+erythroid cells. These temporally specific, gene-selective alterations in
+epsilon- and gamma-globin gene expression by gain and loss of TR2/TR4 function
+provide the first genetic evidence for a role for these nuclear receptors in
+sequential, gene-autonomous silencing of the epsilon- and gamma-globin genes
+during development, and suggest that their differential utilization controls
+stage-specific repression of the human epsilon- and gamma-globin genes.
+
+PMCID: PMC1864974
+PMID: 17431400  [PubMed - indexed for MEDLINE]
+
+
+55. Mol Pharmacol. 2007 Jun;71(6):1703-14. Epub 2007 Mar 26.
+
+Fisetin, an inhibitor of cyclin-dependent kinase 6, down-regulates nuclear
+factor-kappaB-regulated cell proliferation, antiapoptotic and metastatic gene
+products through the suppression of TAK-1 and receptor-interacting
+protein-regulated IkappaBalpha kinase activation.
+
+Sung B(1), Pandey MK, Aggarwal BB.
+
+Author information: 
+(1)Cytokine Research Laboratory, Department of Experimental Therapeutics, The
+University of Texas M.D. Anderson Cancer Center, Houston, TX 77030, USA.
+
+Erratum in
+    Mol Pharmacol. 2012 Jun;81(6):856.
+
+Fisetin (3,7,3',4'-tetrahydroxyflavone) exhibits anti-inflammatory and
+antiproliferative effects through a mechanism that is poorly understood. Although
+fisetin has been cocrystalized with cyclin-dependent kinase 6 and inhibits its
+activity, this inhibition is not sufficient to explain various activities
+assigned to this flavonol. Because of the critical role of the NF-kappaB pathway 
+in regulation of inflammation and proliferation of tumor cells, we postulated
+that fisetin modulates this pathway. To test this hypothesis, we examined the
+effect of fisetin on NF-kappaB and NF-kappaB-regulated gene products in vitro. We
+found that among nine different flavones tested, fisetin was potent in
+suppressing tumor necrosis factor (TNF)-induced NF-kappaB activation. Fisetin
+also suppressed the NF-kappaB activation induced by various inflammatory agents
+and carcinogens, and it blocked the phosphorylation and degradation of
+IkappaBalpha by inhibiting IkappaBalpha (IKK) activation, which in turn led to
+suppression of the phosphorylation and nuclear translocation of p65.
+NF-kappaB-dependent reporter gene expression was also suppressed by fisetin, as
+was NF-kappaB reporter activity induced by TNFR1, TRADD, TRAF2, NIK, and IKK but 
+not that induced by p65 transfection. Fisetin also inhibited TNF-induced TAK1 and
+receptor-interacting protein activation, events that lie upstream of IKK
+activation. The expression of NF-kappaB-regulated gene products involved in
+antiapoptosis (cIAP-1/2, Bcl-2, Bcl-xL, XIAP, Survivin, and TRAF1), proliferation
+(cyclin D1, c-Myc, COX-2), invasion (ICAM-1 and MMP-9), and angiogenesis
+(vascular endothelial growth factor) were also down-regulated by fisetin. This
+correlated with potentiation of apoptosis induced by TNF, doxorubicin, and
+cisplatin. Thus, overall, our results indicate that fisetin mediates antitumor
+and anti-inflammatory effects through modulation of NF-kappaB pathways.
+
+PMID: 17387141  [PubMed - indexed for MEDLINE]
+
+
+56. Mol Endocrinol. 2007 Apr;21(4):908-20. Epub 2007 Jan 16.
+
+Loss of testicular orphan receptor 4 impairs normal myelination in mouse
+forebrain.
+
+Zhang Y(1), Chen YT, Xie S, Wang L, Lee YF, Chang SS, Chang C.
+
+Author information: 
+(1)George Whipple Laboratory for Cancer Research, University of Rochester Medical
+Center, Rochester, New York 14642, USA.
+
+Testicular orphan nuclear receptor 4 (TR4) has been suggested to play important
+roles in the development and functioning of the central nervous system (CNS). We 
+find reduced myelination in TR4 knockout (TR4(-/-)) mice, which is particularly
+obvious in forebrains and in early developmental stages. Further analysis reveals
+that CC-1-positive (CC-1+) oligodendrocytes are decreased in TR4(-/-) forebrains.
+The O4+ signals are also reduced in TR4(-/-) forebrains when examined at
+postnatal d 7. However, the number and proliferation rate of platelet-derived
+growth factor receptor alpha-positive (PDGFalphaR+) oligodendrocyte precursor
+cells (OPCs) remain unaffected in these regions, suggesting that loss of TR4
+interrupts oligodendrocyte differentiation. This is further supported by the
+observation that CC-1+ oligodendrocytes derived from 5-bromo-2'-deoxyuridine
+incorporating OPCs are significantly reduced in TR4(-/-) forebrains. We also find
+higher Jagged1 expression levels in axon fiber-enriched regions in TR4(-/-)
+forebrains, suggesting a more activated Notch signaling in these regions that
+correlates with previous reports showing that Notch activation inhibits
+oligodendrocyte differentiation. Together, our results suggest that TR4 is
+required for proper myelination in the CNS and is particularly important for
+oligodendrocyte differentiation and maturation in the forebrain regions. The
+altered Jagged1-Notch signaling in TR4(-/-) forebrain underlies a potential
+mechanism that contributes to the reduced myelination in the forebrain.
+
+PMID: 17227886  [PubMed - indexed for MEDLINE]
+
+
+57. Mol Cell Proteomics. 2006 Nov;5(11):2072-82. Epub 2006 Aug 3.
+
+Modulation of testicular receptor 4 activity by mitogen-activated protein
+kinase-mediated phosphorylation.
+
+Huq MD(1), Gupta P, Tsai NP, Wei LN.
+
+Author information: 
+(1)Department of Pharmacology, University of Minnesota Medical School,
+Minneapolis, Minnesota 55455, USA.
+
+Testicular receptor 4 (TR4) is an orphan member of the nuclear receptor
+superfamily. Despite the lack of identified ligands, its functional role has been
+demonstrated both in animals and cell cultures. However, it remains unclear how
+the biological activity of TR4 is regulated without specific ligands. In this
+study, we showed that in the absence of specific ligands the activity of TR4
+could be modulated by mitogen-activated protein kinase (MAPK)-mediated
+phosphorylation of its activation function 1 (AF-1) domain. A mass
+spectrometry-based proteome analysis of TR4 expressed in insect cells revealed
+three phosphorylation sites in its AF-1 domain, specifically on Ser(19), Ser(55),
+and Ser(68). Site-directed mutagenesis studies demonstrated the functionality of 
+phosphorylation on Ser(19) and Ser(68) but not Ser(55). We also demonstrated that
+MAPK-mediated phosphorylation of the AF-1 domain rendered TR4 a repressor,
+mediated through the preferential recruitment of corepressor RIP140.
+Dephosphorylation of its AF-1 made TR4 an activator due to its selective
+recruitment of coactivator, P300/cyclic AMP-responsive element binding
+protein-binding protein-associated factor (PCAF). The biological effects were
+validated by using the wild type TR4 and its constitutive negative
+(dephosphorylated) and constitutive positive (phosphorylated) mutants in the
+studies of regulation of its natural target gene, apoE. This study uncovered, for
+the first time, a ligand-independent mechanism underlying the biological activity
+of TR4 that was mediated by MAPK-mediated receptor phosphorylation of AF-1
+domain.
+
+PMID: 16887930  [PubMed - indexed for MEDLINE]
+
+
+58. Mol Cell Biol. 2005 Apr;25(7):2722-32.
+
+Deficits in motor coordination with aberrant cerebellar development in mice
+lacking testicular orphan nuclear receptor 4.
+
+Chen YT(1), Collins LL, Uno H, Chang C.
+
+Author information: 
+(1)University of Rochester Medical Center, Department of Pathology, Box 626, 601 
+Elmwood Ave., Rochester, NY 14642, USA.
+
+Since testicular orphan nuclear receptor 4 (TR4) was cloned, its physiological
+function has remained largely unknown. Throughout postnatal development,
+TR4-knockout (TR4-/-) mice exhibited behavioral deficits in motor coordination,
+suggesting impaired cerebellar function. Histological examination of the
+postnatal TR4-/- cerebellum revealed gross abnormalities in foliation;
+specifically, lobule VII in the anterior vermis was missing. Further analyses
+demonstrated that the laminations of the TR4-/- cerebellar cortex were changed,
+including reductions in the thickness of the molecular layer and the internal
+granule layer, as well as delayed disappearance of the external granule cell
+layer (EGL). These lamination irregularities may result from interference with
+granule cell proliferation within the EGL, delayed inward migration of
+postmitotic granule cells, and a higher incidence of apoptotis. In addition,
+abnormal development of Purkinje cells was observed in the postnatal TR4-/-
+cerebellum, as evidenced by aberrant dendritic arborization and reduced calbindin
+staining intensity. Expression of Pax-6, Sonic Hedgehog (Shh), astrotactin
+(Astn), reelin, and Cdk-5, genes correlated with the morphological development of
+the cerebellum, is reduced in the developing TR4-/- cerebellum. Together, our
+findings suggest that TR4 is required for normal cerebellar development.
+
+PMCID: PMC1061629
+PMID: 15767677  [PubMed - indexed for MEDLINE]
+
+
+59. Proc Natl Acad Sci U S A. 2004 Oct 19;101(42):15058-63. Epub 2004 Oct 11.
+
+Growth retardation and abnormal maternal behavior in mice lacking testicular
+orphan nuclear receptor 4.
+
+Collins LL(1), Lee YF, Heinlein CA, Liu NC, Chen YT, Shyr CR, Meshul CK, Uno H,
+Platt KA, Chang C.
+
+Author information: 
+(1)George Whipple Laboratory for Cancer Research, Departments of Pathology,
+Urology, and Radiation Oncology, and Cancer Center, University of Rochester
+Medical Center, Rochester, NY 14642, USA.
+
+Testicular orphan nuclear receptor 4 (TR4) is a member of the nuclear receptor
+superfamily for which a ligand has not yet been found. In vitro data obtained
+from various cell lines suggest that TR4 functions as a master regulator to
+modulate many signaling pathways, yet the in vivo physiological roles of TR4
+remain unclear. Here, we report the generation of mice lacking TR4 by means of
+targeted gene disruption (TR4(-/-)). The number of TR4(-/-) pups generated by the
+mating of TR4(+/-) mice is well under that predicted by the normal Mendelian
+ratio, and TR4(-/-) mice demonstrate high rates of early postnatal mortality, as 
+well as significant growth retardation. Additionally, TR4(-/-) females show
+defects in reproduction and maternal behavior, with pups of TR4(-/-) dams dying
+soon after birth with no indication of milk intake. These results provide in vivo
+evidence that TR4 plays important roles in growth, embryonic and early postnatal 
+pup survival, female reproductive function, and maternal behavior.
+
+PMCID: PMC524065
+PMID: 15477591  [PubMed - indexed for MEDLINE]
+
+
+60. Biochem Biophys Res Commun. 2004 Oct 22;323(3):876-83.
+
+Modulation of the retinoic acid-induced cell apoptosis and differentiation by the
+human TR4 orphan nuclear receptor.
+
+Lee YF(1), Bao BY, Chang C.
+
+Author information: 
+(1)Department of Urology, University of Rochester, Rochester, NY 14642, USA.
+
+In our previous studies, the TR4 orphan nuclear receptor (TR4) has been
+demonstrated to suppress retinoic acid (RA)-induced transactivation via a
+negative feedback control mechanism and in situ analysis showed that TR4 is
+extensively expressed in mouse brain, especially in regions where the cells are
+proliferating. To further study the potential roles of TR4 during cell
+differentiation, a tetracycline-inducible system with anti-sense TR4 in
+teratocarcinoma P19 cell lines was generated to analyze the retinoic acid-induced
+differentiation of these cells. The results indicated that the expression of TR4 
+reduced by doxycycline anti-sense TR4 would alter the retinoic acid-induced
+differentiation pathway that results in the changes of cell morphology and cell
+cycle profile. Unexpectedly, our data further indicated that the RA-induced
+apoptosis, judging by DNA fragmentation, could also be altered by the induction
+of anti-sense TR4. Together, these findings provide the first in vivo evidence
+that an orphan nuclear receptor, such as TR4, may play major roles in the
+RA-mediated apoptosis or differentiation in P19 cells.
+
+PMID: 15381082  [PubMed - indexed for MEDLINE]
+
+
+61. Nucleic Acids Res. 2004 Aug 9;32(14):4194-204. Print 2004.
+
+TIP27: a novel repressor of the nuclear orphan receptor TAK1/TR4.
+
+Nakajima T(1), Fujino S, Nakanishi G, Kim YS, Jetten AM.
+
+Author information: 
+(1)Cell Biology Section, Division of Intramural Research, National Institute of
+Environmental Health Sciences, National Institutes of Health, 111 T.W. Alexander 
+Drive, Research Triangle Park, NC 27709, USA.
+
+The nuclear orphan receptor TAK1/TR4 functions as a positive as well as a
+negative regulator of transcription; however, little is known about the factors
+regulating or mediating its activity. Yeast two-hybrid analysis using the
+ligand-binding domain (LBD) of TAK1 as bait identified a novel TAK1-interacting
+protein, referred to as TIP27, which functions as a repressor of TAK1-mediated
+transactivation. TIP27 is a 27 kDa protein containing two zinc finger motifs.
+Mammalian two-hybrid analysis showed that TIP27 interacts specifically with TAK1 
+and not with several other nuclear receptors tested. The region between Asp39 and
+Lys79 of TIP27, referred to as TAK1-interaction domain (TID), is critical for its
+interaction with TAK1 while the TAK1-LBD from helix 3 until the C-terminus is
+required for the optimal interaction with TIP27. Pull-down assays demonstrated
+that the TIP27 physically interacts with TAK1 and supported the critical
+importance of the TID. Confocal microscopy showed that in the nucleus, TIP27 and 
+TAK1 co-localize. TIP27 acts as a strong repressor of DR1-dependent
+transcriptional activation by TAK1. This repression does not involve the
+inhibition of TAK1 homodimerization or DR1 binding but may be due to an effect on
+co-activator recruitment by TAK1. Our results indicate that TIP27 functions as a 
+TAK1-selective repressor.
+
+PMCID: PMC514368
+PMID: 15302918  [PubMed - indexed for MEDLINE]
+
+
+62. Mol Cell Biol. 2004 Jul;24(13):5887-99.
+
+Targeted inactivation of testicular nuclear orphan receptor 4 delays and disrupts
+late meiotic prophase and subsequent meiotic divisions of spermatogenesis.
+
+Mu X(1), Lee YF, Liu NC, Chen YT, Kim E, Shyr CR, Chang C.
+
+Author information: 
+(1)Department of Pathology, Cancer Center, University of Rochester Medical
+Center, Rochester, NY 14642, USA.
+
+Testicular orphan nuclear receptor 4 (TR4) is specifically and stage-dependently 
+expressed in late-stage pachytene spermatocytes and round spermatids. In the
+developing mouse testis, the highest expression of TR4 can be detected at
+postnatal days 16 to 21 when the first wave of spermatogenesis progresses to late
+meiotic prophase. Using a knockout strategy to delete TR4 in mice, we found that 
+sperm production in TR4(-/-) mice is reduced. The comparison of testes from
+developing TR4(+/+) and TR4(-/-) mice shows that spermatogenesis in TR4(-/-) mice
+is delayed. Analysis of the first wave of spermatogenesis shows that the delay
+can be due to delay and disruption of spermatogenesis at the end of late meiotic 
+prophase and subsequent meiotic divisions. Seminiferous tubule staging shows that
+stages X to XII, where late meiotic prophase and meiotic divisions take place,
+are delayed and disrupted in TR4(-/-) mice. Histological examination of testis
+sections from TR4(-/-) mice shows degenerated primary spermatocytes and some
+necrotic tubules. Testis-specific gene analyses show that the expression of sperm
+1 and cyclin A1, which are genes expressed at the end of meiotic prophase, was
+delayed and decreased in TR4(-/-) mouse testes. Taken together, results from
+TR4(+/+) and TR4(-/-) mice indicate that TR4 is essential for normal
+spermatogenesis in mice.
+
+PMCID: PMC480911
+PMID: 15199144  [PubMed - indexed for MEDLINE]
+
+
+63. Vitam Horm. 2004;68:1-48.
+
+Gene silencing by nuclear orphan receptors.
+
+Zhang Y(1), Dufau ML.
+
+Author information: 
+(1)Section on Molecular Endocrinology, Endocrinology, and Reproduction Research
+Branch, National Institutes of Health, Bethesda, Maryland 20892, USA.
+
+Nuclear orphan receptors represent a large and diverse subgroup in the nuclear
+receptor superfamily. Although putative ligands for these orphan members remain
+to be identified, some of these receptors possess intrinsic activating,
+inhibitory, or dual regulatory functions in development, differentiation,
+homeostasis, and reproduction. In particular, gene-silencing events elicited by
+chicken ovalbumin upstream promoter-transcription factors (COUP-TFs);
+dosage-sensitive sex reversal-adrenal hypoplasia congenita critical region on the
+X chromosome, gene 1 (DAX-1); germ cell nuclear factor (GCNF); short heterodimer 
+partner (SHP); and testicular receptors 2 and 4 (TR2 and TR4) are among the best 
+characterized. These orphan receptors are critical in controlling basal
+activities or hormonal responsiveness of numerous target genes. They employ
+multiple and distinct mechanisms to mediate target gene repression. Complex
+cross-talk exists between these orphan receptors at their cognate DNA binding
+elements and an array of steroid?nonsteroid hormone receptors, other
+transcriptional activators, coactivators and corepressors, histone modification
+enzyme complexes, and components of basal transcriptional components. Therefore, 
+perturbation induced by these orphan receptors at multiple levels, including DNA 
+binding activities, receptor homo- or heterodimerization, recruitment of cofactor
+proteins, communication with general transcriptional machinery, and changes at
+histone acetylation status and chromatin structures, may contribute to silencing 
+of target gene expression in a specific promoter or cell-type context. Moreover, 
+the findings derived from gene-targeting studies have demonstrated the
+significance of these orphan receptors' function in physiologic settings. Thus,
+COUP-TFs, DAX-1, GCNF, SHP, and TR2 and 4 are known to be required for multiple
+physiologic and biologic functions, including neurogenesis and development of the
+heart and vascular system steroidogenesis and sex determination, gametogenesis
+and embryonic development, and cholesterol?lipid homeostasis.
+
+PMID: 15193450  [PubMed - indexed for MEDLINE]
+
+
+64. J Biol Chem. 2003 Nov 21;278(47):46919-26. Epub 2003 Sep 3.
+
+Disruption of TR4 orphan nuclear receptor reduces the expression of liver
+apolipoprotein E/C-I/C-II gene cluster.
+
+Kim E(1), Xie S, Yeh SD, Lee YF, Collins LL, Hu YC, Shyr CR, Mu XM, Liu NC, Chen 
+YT, Wang PH, Chang C.
+
+Author information: 
+(1)George Whipple Laboratory for Cancer Research, University of Rochester Medical
+Center, Rochester, NY 14642, USA.
+
+Apolipoprotein E (apoE) is synthesized in many tissues, and the liver is the
+primary site from which apoE redistributes cholesterol and other lipids to
+peripheral tissues. Here we demonstrate that the TR4 orphan nuclear receptor
+(TR4) can induce apoE expression in HepG2 cells. This TR4-mediated regulation of 
+apoE gene expression was further confirmed in vivo using TR4 knockout mice. Both 
+serum apoE protein and liver apoE mRNA levels were significantly reduced in TR4
+knockout mice. Gel shift and luciferase reporter gene assays further demonstrated
+that TR4 can induce apoE gene expression via a TR4 response element located in
+the hepatic control region that is 15 kb downstream of the apoE gene. Furthermore
+our in vivo data from TR4 knockout mice prove that TR4 can also regulate
+apolipoprotein C-I and C-II gene expression via the TR4 response element within
+the hepatic control region. Together our data show that loss of TR4
+down-regulates expression of the apoE/C-I/C-II gene cluster in liver cells,
+demonstrating important roles of TR4 in the modulation of lipoprotein metabolism.
+
+PMID: 12954636  [PubMed - indexed for MEDLINE]
+
+
+65. J Dermatol Sci. 2003 Feb;31(1):65-71.
+
+Differential and bi-directional regulation between TR2/TR4 orphan nuclear
+receptors and a specific ligand mediated-peroxisome proliferator-activated
+receptor alpha in human HaCaT keratinocytes.
+
+Inui S(1), Lee YF, Chang E, Shyr CR, Chang C.
+
+Author information: 
+(1)Department of Pathology, University of Rochester Medical Center, Rochester, NY
+14642, USA.
+
+BACKGROUND: We have reported that human TR2 orphan nuclear receptor (TR2) can
+modulate the transcriptional activity of the reporter gene containing an AGGTCA
+direct repeat-hormone response element.
+OBJECTIVE: The aim of this study is to investigate the potential role and
+regulation of TR2 in human HaCaT keratinocytes.
+METHODS: We performed mainly chloramphenicol acetyltransferase reporter gene
+assays (CAT assays), and Western blot analysis.
+RESULTS: From CAT assays, TR2 can suppress retinoic acid (RA)-induced
+transactivation by 44.7% in HaCaT keratinocytes. This suppression is similar to
+our previous report showing TR4 orphan nuclear receptor (TR4) can suppress
+RA-induced transactivation. However, TR4 but not TR2 can significantly repress
+Wy-14643-mediated peroxisome proliferator-activated receptor alpha (PPAR alpha)
+transactivation by 95%. Western blot analysis suggested that Wy-14643 can
+differentially regulate the expression of TR2 and TR4 (by increasing the
+expression of TR4 protein and decreasing that of TR2) in HaCaT keratinocytes.
+CONCLUSION: Our data not only provides the first evidence to demonstrate that
+close members of orphan nuclear receptors group, such as TR2 and TR4, can have
+distinct functions, but also suggests the existence of differential and
+bi-directional regulation between PPAR alpha and TR2/TR4, that may play some
+important roles in the PPAR alpha signaling pathway in human keratinocytes.
+
+PMID: 12615366  [PubMed - indexed for MEDLINE]
+
+
+66. J Biol Chem. 2003 Mar 14;278(11):9353-60. Epub 2003 Jan 8.
+
+Suppression of hepatitis B virus core promoter by the nuclear orphan receptor
+TR4.
+
+Lin WJ(1), Li J, Lee YF, Yeh SD, Altuwaijri S, Ou JH, Chang C.
+
+Author information: 
+(1)George Whipple Lab for Cancer Research, Department of Pathology, University of
+Rochester Medical Center, Rochester, New York 14642, USA.
+
+The TR4 orphan receptor is a member of the nuclear receptor superfamily that
+modulates gene expression via binding to the AGGTCA direct repeat hormone
+response element. Here we report a functional study of TR4 interaction with the
+core promoter of the hepatitis B virus (HBV). The electrophoretic mobility shift 
+assay shows that TR4 can bind to the direct repeat 1 sequence element
+(AGGTTAAAGGTCT, nucleotide coordinates 1757-1769, TR4RE-HBV) on the HBV core
+promoter. TR4 also can enhance the activity of a synthetic luciferase reporter
+linked with four copies of TR4RE-HBV in either liver HepG2 or non-liver H1299
+cells in a dose-dependent manner. Surprisingly, TR4 represses the activity of a
+luciferase reporter containing the entire HBV genome sequences. Moreover,
+mutation of this TR4RE-HBV site in the HBV core promoter diminishes the TR4
+suppression effect. This TR4-induced suppression of HBV core promoter activity is
+further confirmed by primer extension analysis of the HBV core RNAs, showing that
+TR4 represses both pre-core and core mRNAs. Further dissection of this repressive
+mechanism indicates that TR4 may suppress the HBV core promoter activity via
+repressing HNF4alpha-mediated transactivation by protein-protein interactions
+without inhibition of HNF4alpha DNA binding. Furthermore, our results indicate
+that the N- and C-terminal regions of TR4 protein are required for TR4-HNF4alpha 
+interaction. It is possible that TR4-HNF4alpha interaction may block the
+HNF4alpha function that results in the suppression of HBV gene expression.
+Together, these results demonstrate that TR4 can serve as a negative modulator in
+the transcriptional regulation of HBV core gene expression.
+
+PMID: 12522137  [PubMed - indexed for MEDLINE]
+
+
+67. J Biol Chem. 2003 Feb 28;278(9):7709-17. Epub 2002 Dec 16.
+
+Identification of a novel testicular orphan receptor-4 (TR4)-associated protein
+as repressor for the selective suppression of TR4-mediated transactivation.
+
+Yang Y(1), Wang X, Dong T, Kim E, Lin WJ, Chang C.
+
+Author information: 
+(1)George Whipple Laboratory for Cancer Research Department of Pathology,
+University of Rochester Medical Center, Rochester, New York 14642, USA.
+
+Although many co-activators have been identified for various nuclear receptors,
+relatively fewer co-repressors have been isolated and characterized. Here we
+report the identification of a novel testicular orphan nuclear receptor-4
+(TR4)-associated protein (TRA16) that is mainly localized in the nucleus of cells
+as a repressor to suppress TR4-mediated transactivation. The suppression of
+TR4-mediated transactivation is selective because TRA16 shows only a slight
+influence on the transactivation of androgen receptor, glucocorticoid receptor,
+and progesterone receptor. Sequence analysis shows that TRA16 is a novel gene
+with 139 amino acids in an open reading frame with a molecular mass of 16 kDa,
+which did not match any published gene sequences. Mammalian two-hybrid system and
+co-immunoprecipitation assays both demonstrate that TRA16 can interact strongly
+with TR4. The electrophoretic mobility shift assay suggests that TRA16 may
+suppress TR4-mediated transactivation via decreased binding between the TR4
+protein and the TR4 response element on the target gene(s). Furthermore, TRA16
+can also block the interaction between TR4 and TR4 ligand-binding domain through 
+interacting with TR4-DNA-binding and ligand-binding domains. These unique
+suppression mechanisms suggest that TRA16 may function as a novel repressor to
+selectively suppress the TR4-mediated transactivation.
+
+PMID: 12486131  [PubMed - indexed for MEDLINE]
+
+
+68. J Steroid Biochem Mol Biol. 2002 Aug;81(4-5):291-308.
+
+Recent advances in the TR2 and TR4 orphan receptors of the nuclear receptor
+superfamily.
+
+Lee YF(1), Lee HJ, Chang C.
+
+Author information: 
+(1)George Whipple Laboratory for Cancer Research, Department of Urology,
+University of Rochester, NY 14642, USA.
+
+The human testicular receptor 2 (TR2) and TR4 orphan receptors are two
+evolutionarily related proteins belonging to the nuclear receptor superfamily.
+Numerous TR2 and TR4 variants and homologs have been identified from different
+species, including vertebrates (e.g. human, murine, rabbit, fish, and amphibian) 
+and invertebrates (e.g. Drosophila, sea urchin, and nematode) since TR2 was
+initially isolated over a decade ago. Specific tissue distribution, genomic
+organization, and chromosomal assignment of both orphan receptors have been
+investigated. In order to reveal the physiological functions played by both TR2
+and TR4, upstream modulators of TR2 and TR4 gene expression, their downstream
+target gene regulation, feedback mechanisms, and differential modulation mediated
+by the recruitment of other nuclear receptors and coregulators have been
+investigated. Studies summarized in the present report have provided unexpected
+insights into the TR2 and TR4 functions in a variety of biological processes. The
+essential and difficult tasks of identifying orphan receptor ligands,
+agonist/antagonist assignment, their physiological functions, and mechanisms of
+action will continue to challenge nuclear receptor researchers in the future.
+
+PMID: 12361719  [PubMed - indexed for MEDLINE]
+
+
+69. J Biol Chem. 2002 Nov 22;277(47):45547-57. Epub 2002 Sep 16.
+
+Transforming growth factor-beta -Smad signaling pathway cooperates with NF-kappa 
+B to mediate nontypeable Haemophilus influenzae-induced MUC2 mucin transcription.
+
+Jono H(1), Shuto T, Xu H, Kai H, Lim DJ, Gum JR Jr, Kim YS, Yamaoka S, Feng XH,
+Li JD.
+
+Author information: 
+(1)Gonda Department of Cell and Molecular Biology, House Ear Institute,
+University of Southern California, Los Angeles, California 90057, USA.
+
+Transforming growth factor-beta (TGF-beta) and related factors are
+multifunctional cytokines that regulate diverse cellular processes, including
+proliferation, differentiation, apoptosis, and immune response. The involvement
+of TGF-beta receptor-mediated signaling in bacteria-induced up-regulation of
+mucin, a primary innate defensive response for mammalian airways, however, still 
+remains unknown. Here, we report that the bacterium nontypeable Haemophilus
+influenzae (NTHi), an important human respiratory pathogen, utilizes the
+TGF-beta-Smad signaling pathway together with the
+TLR2-MyD88-TAK1-NIK-IKKbeta/gamma-IkappaBalpha pathway to mediate
+NF-kappaB-dependent MUC2 mucin transcription. The NTHi-induced TGF-beta receptor 
+Type II phosphorylation occurred at as early as 5 min. Pretreatment of NTHi with 
+TGF-beta neutralization antibody reduced up-regulation of MUC2 transcription.
+Moreover, functional cooperation of NF-kappaB p65/p50 with Smad3/4 appears to
+positively mediate NF-kappaB-dependent MUC2 transcription. These data are the
+first to demonstrate the involvement of TGF-beta receptor-mediated signaling in
+bacteria-induced up-regulation of mucin transcription, bring insights into the
+novel role of TGF-beta signaling in bacterial pathogenesis, and may lead to new
+therapeutic intervention of NTHi infections.
+
+PMID: 12237307  [PubMed - indexed for MEDLINE]
+
+
+70. EMBO J. 2002 Jul 1;21(13):3434-42.
+
+An embryonic/fetal beta-type globin gene repressor contains a nuclear receptor
+TR2/TR4 heterodimer.
+
+Tanabe O(1), Katsuoka F, Campbell AD, Song W, Yamamoto M, Tanimoto K, Engel JD.
+
+Author information: 
+(1)Department of Biochemistry, Molecular Biology and Cell Biology, and Robert
+H.Lurie Comprehensive Cancer Center, Northwestern University, Evanston, IL
+60208-3500, USA.
+
+We recently described an erythroid epsilon-globin gene repressor activity, which 
+we named DRED (direct repeat erythroid-definitive). We show that DRED binds with 
+high affinity to DR1 sites in the human embryonic (epsilon-) and fetal (gamma-)
+globin gene promoters, but the adult beta-globin promoter has no DR1 element.
+DRED is a 540 kDa complex; sequence determination showed that it contains the
+nuclear orphan receptors TR2 and TR4. TR2 and TR4 form a heterodimer that binds
+to the epsilon and gamma promoter DR1 sites. One mutation in a DR1 site causes
+elevated gamma-globin transcription in human HPFH (hereditary persistence of
+fetal hemoglobin) syndrome, and we show that this mutation reduces TR2/TR4
+binding in vitro. The two receptor mRNAs are expressed at all stages of murine
+and human erythropoiesis; their forced transgenic expression reduces endogenous
+embryonic epsilony-globin transcription. These data suggest that TR2/TR4 forms
+the core of a larger DRED complex that represses embryonic and fetal globin
+transcription in definitive erythroid cells, and therefore that inhibition of its
+activity might be an attractive intervention point for treating sickle cell
+anemia.
+
+PMCID: PMC126089
+PMID: 12093744  [PubMed - indexed for MEDLINE]
+
+
+71. Mol Cell Biol. 2002 Jul;22(13):4661-6.
+
+Spermatogenesis and testis development are normal in mice lacking testicular
+orphan nuclear receptor 2.
+
+Shyr CR(1), Collins LL, Mu XM, Platt KA, Chang C.
+
+Author information: 
+(1)George Whipple Laboratory for Cancer Research, Department of Pathology,
+University of Rochester Medical Center, Rochester, New York 14642,USA.
+
+Early in vitro cell culture studies suggested that testicular orphan nuclear
+receptor 2 (TR2), a member of the nuclear receptor superfamily, may play
+important roles in the control of several pathways including retinoic acids,
+vitamin D, thyroid hormones, and ciliary neurotrophic factor. Here we report the 
+surprising results showing that mice lacking TR2 are viable and have no serious
+developmental defects. Male mice lacking TR2 have functional testes, including
+normal sperm number and motility, and both male and female mice lacking TR2 are
+fertile. In heterozygous TR2(+/-) male mice we found that beta-galactosidase, the
+indicator of TR2 protein expression, was first detected at the age of 3 weeks and
+its expression pattern was restricted mainly in the spermatocytes and round
+spermatids. These protein expression patterns were further confirmed with
+Northern blot analysis of TR2 mRNA expression. Together, results from
+TR2-knockout mice suggest that TR2 may not play essential roles in
+spermatogenesis and normal testis development, function, and maintenance.
+Alternatively, the roles of TR2 may be redundant and could be played by other
+close members of the nuclear receptor superfamily such as testicular orphan
+receptor 4 (TR4) or unidentified orphan receptors that share many similar
+functions with TR2. Further studies with double knockouts of both orphan nuclear 
+receptors, TR2 and TR4, may reveal their real physiological roles.
+
+PMCID: PMC133912
+PMID: 12052874  [PubMed - indexed for MEDLINE]
+
+
+72. J Biol Chem. 2002 Apr 26;277(17):14622-8. Epub 2002 Feb 13.
+
+Modulation of estrogen receptor-mediated transactivation by orphan receptor TR4
+in MCF-7 cells.
+
+Shyr CR(1), Hu YC, Kim E, Chang C.
+
+Author information: 
+(1)George Whipple Laboratory for Cancer Research, Department of Pathology,
+University of Rochester Medical Center, Rochester, New York 14642, USA.
+
+The human testicular orphan receptor 4 (TR4) is a member of the nuclear receptor 
+superfamily that shows a broad tissue distribution with higher expression in the 
+nervous system and male reproductive tract. TR4 functions as a transcriptional
+modulator that controls various target genes via binding to the DNA hormone
+response elements. Here we report that instead of direct binding to hormone
+response elements for gene regulation, TR4 can also go through direct
+protein-protein interaction to repress estrogen receptor (ER)-mediated
+transactivation. Electrophoretic mobility shift and glutathione S-transferase
+pull-down assays clearly demonstrate that the direct interaction between TR4 and 
+ER will inhibit the homodimerization of ER and interrupt/prevent ER binding to
+the estrogen response element. The consequence of these events may then result in
+the suppression of ER target genes, such as cyclin D1 and pS2 and inhibition of
+ER-mediated cell proliferation in the MCF-7 cells stably transfected with TR4.
+Together, our results showing that TR4 can suppress ER function via
+protein-protein interaction not only represent a unique cross-talk signaling
+pathway in the nuclear receptor superfamily, it may also provide us with a new
+strategy to modulate ER function in the breast cancer cells.
+
+PMID: 11844790  [PubMed - indexed for MEDLINE]
+
+
+73. Cell Growth Differ. 2001 Nov;12(11):563-72.
+
+The nuclear orphan receptor TR4 promotes proliferation of myeloid progenitor
+cells.
+
+Koritschoner NP(1), Madruga J, Knespel S, Blendinger G, Anzinger B, Otto A, Zenke
+M, Bartunek P.
+
+Author information: 
+(1)Max-Delbrück-Center for Molecular Medicine, D-13122 Berlin, Germany.
+
+Nuclear receptors represent key regulators in cell proliferation,
+differentiation, and development. Here we demonstrate that the nuclear orphan
+receptor TR4 is highly expressed in hematopoietic cells and tissues and have
+analyzed the impact of TR4 in this cell compartment. We show that TR4, when
+ectopically expressed in bone marrow cells via retrovirus vector, promotes
+proliferation of myeloid progenitor cells. Cells represent promyelocytes as
+judged by morphological features, expression of cell surface molecules, and
+specific markers like Mim-1 and CAAT/enhancer binding protein beta. We also
+demonstrate that the growth promoting activity of TR4 is not exclusively
+dependent on its association with DNA, because expression of a mutated TR4
+version devoid of its DNA binding domain exhibits a similar proliferative
+potential as wild-type TR4. In conclusion, these data position the orphan
+receptor TR4 as an important regulator of myeloid progenitor cell proliferation
+and development.
+
+PMID: 11714637  [PubMed - indexed for MEDLINE]
+
+
+74. Mol Endocrinol. 2001 Nov;15(11):1891-905.
+
+EAR2 and EAR3/COUP-TFI regulate transcription of the rat LH receptor.
+
+Zhang Y(1), Dufau ML.
+
+Author information: 
+(1)Section on Molecular Endocrinology, Endocrinology and Reproduction Research
+Branch, National Institute of Child Health and Human Development, National
+Institutes of Health, Bethesda, Maryland 20892, USA.
+
+Our previous studies demonstrated regulation of the human LH receptor (hLHR)
+promoter by nuclear orphan receptors EAR2, EAR3/COUP-TFI (repression), and TR4
+(activation) through a direct-repeat motif (hDR). The current studies
+investigated the differential binding of orphan receptors to rat (rLHR) and hLHR 
+promoters, and their modulation of rLHR gene transcription in rat granulosa
+cells. The rLHR DR with one nucleotide difference from hDR at its core sequence
+mediated inhibition of the rLHR transcription, to which EAR2 and EAR3/COUP-TFI
+but not TR4 bound. The A/C mismatch was responsible for the lack of TR4 binding
+and function, but had no effect on EAR2 and EAR3/COUP-TFI. EAR2 and EAR3/COUP-TF 
+bound to the rLHR DR with lower affinity than to the hDR, and exhibited lesser
+inhibitory capacity. This difference resulted from the lack of a guanine in the
+rDR, which is present 3' next to the hDR core. These studies have identified
+sequence-specific requirements for the binding of EAR2, EAR3/COUP-TFI, and TR4 to
+the DRs that explain their differential regulation of rat and human LHR genes. In
+addition, hCG treatment significantly reduced the inhibition of rLHR gene in
+granulosa cells and also decreased EAR2 and EAR3/COUP-TFI protein levels. These
+results indicate that hormonally regulated expression of EAR2 and EAR3/COUP-TFI
+contributes to gonadotropin-induced derepression of LHR promoter activity in
+granulosa cells.
+
+PMID: 11682620  [PubMed - indexed for MEDLINE]
+
+
+75. Biochem Biophys Res Commun. 2001 Aug 3;285(5):1361-8.
+
+TR4 orphan receptor represses the human steroid 21-hydroxylase gene expression
+through the monomeric AGGTCA motif.
+
+Lee HJ(1), Lee YF, Chang C.
+
+Author information: 
+(1)Institute of Biotechnology, National Dong Hwa University, Hualien, Taiwan,
+974, Republic of China. hjlee@mail.ndhu.edu.tw
+
+The human TR4 orphan receptor (TR4) is a member of the nuclear receptor
+superfamily. It functions as a transcriptional factor which regulates and
+controls many important physiological functions. It has been documented that TR4 
+may bind as a homodimer to a DNA response element containing two direct repeats
+of the AGGTCA consensus motif. Surprisingly, our data reveal that the expression 
+of the human steroid 21-hydroxylase (21-OHase) gene could be repressed by TR4 via
+the monomeric AGGTCA motif (-228TR4RE) at its 5' flanking region (nucleotide
+numbers 1431-1444, 5'-GGAAAAAGGTCAGG-3'). Electrophoretic mobility shift assay
+showed specific binding with a dissociation constant of 0.4 nM between TR4 and
+the monomeric -288TR4RE motif. However, TR4 does not form heterodimers with
+either retinoid X receptor alpha or SHP (short heterodimer partner) orphan
+receptor. Additionally, both dual-luciferase and chloramphenicol
+acetyltransferase assays demonstrated that TR4 can function as a repressor via
+the -228TR4RE of the 21-OHase gene. In conclusion, our data suggest that TR4 may 
+bind to a monomeric DNA response element and play an important role in the
+suppression of the 21-OHase gene expression.
+
+Copyright 2001 Academic Press.
+
+PMID: 11478808  [PubMed - indexed for MEDLINE]
+
+
+76. J Biol Chem. 2000 Jan 28;275(4):2763-70.
+
+Nuclear orphan receptors regulate transcription of the gene for the human
+luteinizing hormone receptor.
+
+Zhang Y(1), Dufau ML.
+
+Author information: 
+(1)Section on Molecular Endocrinology, NICHD, National Institutes of Health,
+Bethesda, Maryland 20892, USA.
+
+An imperfect estrogen receptor half-site response element direct-repeat, located 
+within the TATA-less promoter of the human luteinizing hormone receptor (hLHR),
+was identified as an inhibitory site for Sp1/Sp3-driven basal transcription.
+Isolation of proteins recognizing this site by yeast one-hybrid screening of a
+human placenta cDNA library revealed three nuclear orphan receptors, EAR2,
+EAR3/COUP-TFI, and TR4. Electrophoresis mobility shift assays demonstrated that
+the in vitro translated nuclear orphan receptors specifically bound the
+direct-repeat motif of the hLHR promoter. Also, endogenous EAR2 and EAR3/COUP-TFI
+from JAR cell and human testis and TR4 from testes bound this motif in
+electrophoresis mobility shift assays. Functional analyses in CV-1 cells showed
+that EAR2 and EAR3/COUP-TFI repressed the hLHR promoter activity by up to 70% in 
+a dose-dependent and sequence-specific manner. Conversely, TR4 activated the hLHR
+promoter activity up to 2.5-fold through binding to the same cis-element. The
+stimulation was reversed by coexpression of EAR2 or EAR3/COUP-TFI, indicating
+their competitive binding for this site. Such recognition of a common cognate
+site by the proteins with antagonistic functions implies that a net regulation of
+the hLHR gene may result from the relative availability of repressors and
+activator in a physiological state. This also may contribute to the differential 
+expression of the hLHR gene in gonadal and non-gonadal tissues.
+
+PMID: 10644740  [PubMed - indexed for MEDLINE]
+
+
+77. Proc Natl Acad Sci U S A. 1999 Dec 21;96(26):14724-9.
+
+Convergence of two repressors through heterodimer formation of androgen receptor 
+and testicular orphan receptor-4: a unique signaling pathway in the steroid
+receptor superfamily.
+
+Lee YF(1), Shyr CR, Thin TH, Lin WJ, Chang C.
+
+Author information: 
+(1)George Whipple Lab for Cancer Research, Department of Pathology, The Cancer
+Center, University of Rochester Medical Center, Rochester, NY 14642, USA.
+
+The androgen receptor (AR) binds to androgen response elements and regulates
+target genes via a mechanism involving coregulators. Here we demonstrate that the
+AR can interact with the testicular orphan receptor-4 (TR4) and function as a
+repressor to down-regulate the TR4 target genes by preventing the TR4 binding to 
+its target DNA. Interestingly, the heterodimerization of AR and TR4 also allows
+TR4 to repress AR target gene expression. Simultaneous exposure to both receptors
+therefore could result in bidirectional suppression of their target genes.
+Together, these data demonstrate that the coupling of two different receptors,
+through the heterodimerization of AR and TR4, is a unique signaling pathway in
+the steroid receptor superfamily, which may facilitate further understanding of
+the complicated androgen action in prostate cancer or libido.
+
+PMCID: PMC24715
+PMID: 10611280  [PubMed - indexed for MEDLINE]
+
+
+78. J Biol Chem. 1999 Jun 4;274(23):16198-205.
+
+Differential regulation of direct repeat 3 vitamin D3 and direct repeat 4 thyroid
+hormone signaling pathways by the human TR4 orphan receptor.
+
+Lee YF(1), Young WJ, Lin WJ, Shyr CR, Chang C.
+
+Author information: 
+(1)George Whipple Laboratory for Cancer Research, Department of Pathology,
+Urology, Radiation Oncology, and The Cancer Center, University of Rochester
+Medical Center, Rochester, New York 14642, USA.
+
+In situ hybridization analysis demonstrated that abundant testicular orphan
+receptor (TR4) transcripts were detected in kidney, intestine, and bone, which
+are vitamin D3 target organs. Cell transfection studies also demonstrated that
+the expression of the vitamin D3 target gene, 25-hydroxyvitamin D3
+24-hydroxylase, can be repressed by TR4 through high affinity binding (Kd = 1.32 
+nM) to the direct repeat 3 vitamin D3 receptor response element (DR3VDRE). This
+TR4-mediated repression of DR3VDRE is in contrast to our earlier report that TR4 
+could induce thyroid hormone target genes containing a direct repeat 4 thyroid
+hormone response element (DR4T3RE). Electrophoretic mobility shift assay using
+several TR4 monoclonal antibodies when combined with either TR4-DR3VDRE or
+TR4-DR4T3RE showed a distinct supershifted pattern, and proteolytic analysis
+further demonstrated distinct digested peptides with either TR4-DR3VDRE or
+TR4-DR4T3RE. These results may therefore suggest that TR4 can adapt to different 
+conformations once bound to DR3VDRE or DR4T3RE. The consequence of these
+different conformations of TR4-DR3VDRE and TR4-DR4T3RE may allow each of them to 
+recruit different coregulators. The differential repression of TR4-mediated
+DR3VDRE and DR4T3RE transactivation by the receptor interacting protein 140, a
+TR4 coregulator, further strengthens our hypothesis that the specificity of gene 
+regulation by TR4 can be modulated by protein-DNA and protein-protein
+interactions.
+
+PMID: 10347174  [PubMed - indexed for MEDLINE]
+
+
+79. J Invest Dermatol. 1999 Apr;112(4):426-31.
+
+Induction of TR4 orphan receptor by retinoic acid in human HaCaT keratinocytes.
+
+Inui S(1), Lee YF, Haake AR, Goldsmith LA, Chang C.
+
+Author information: 
+(1)Department of Pathology, University of Rochester Medical Center, New York,
+USA.
+
+Human TR4 orphan receptor (TR4) can modulate the transcriptional activity of the 
+reporter gene containing an AGGTCA direct repeat-hormone response element. Here
+we studied the potential role of TR4 in human HaCaT keratinocytes. Using a
+chloramphenicol acetyl-transferase reporter gene assay, it was shown that TR4 can
+suppress retinoic acid-induced transactivation by 47.3% in human HaCaT
+keratinocytes. Electrophoretic mobility shift assay indicated that this
+suppression may be due to TR4 binding with higher affinity to the retinoic acid
+response element than retinoid receptors. Western blot analysis further suggested
+that retinoic acid can increase the expression of TR4 protein in human HaCaT
+keratinocytes, indicating that TR4 acts as a negative feedback modulator for
+retinoic acid action. Interestingly, TR4 expression is increased in normal human 
+keratinocytes when substituting a low calcium medium with a high calcium medium. 
+Together, our data suggested, for the first time, that an orphan receptor, such
+as TR4, may play an important part in retinoid-mediated signaling pathways in
+human keratinocytes, providing a new insight into keratinocyte biology.
+
+PMID: 10201524  [PubMed - indexed for MEDLINE]
+
+
+80. Mol Cell Biochem. 1998 Dec;189(1-2):195-200.
+
+Thyroid hormone direct repeat 4 response element is a positive regulatory element
+for the human TR2 orphan receptor, a member of steroid receptor superfamily.
+
+Chang C(1), Pan HJ.
+
+Author information: 
+(1)Department of Pathology, University of Rochester, NY 14642, USA.
+
+We demonstrate that TR2 orphan receptor (TR2) may induce transactivation
+activities via an AGGTCA-like-direct-repeat-4 consensus thyroid hormone response 
+element (DR4-TRE) system. TR2 showed a slightly greater binding affinity than
+thyroid hormone receptor alpha1 (TR alpha1)/retinoid X receptor alpha (RXR alpha)
+heterodimer with Kds 0.5 nM and 2.3 nM, respectively. These receptors, TR2 and TR
+alpha1/RXR alpha heterodimer, competed with each other on binding to limited
+amounts of DR4-TRE. TR2 canceled the suppression effect of unliganded-TR alpha1
+on CAT reporter activity in a dose-dependent fashion. Estrogen receptor (ER) and 
+2P2 (a mutated TR2 with P box sequence of androgen receptor) failed not only to
+bind to DR4-TRE but also to recover this inhibitory effect of unliganded
+TRalpha1. However, when T3 was supplemented, estradiol-ER competed for a full CAT
+activity while TR2 showed an additive effect on the transcriptional activation.
+These results indicate that DNA binding is essential for TR2 to take action and
+fully functional liganded TR alpha1 may rely on common factors shared with ER but
+not TR2.
+
+PMID: 9879671  [PubMed - indexed for MEDLINE]
+
+
+81. EMBO J. 1999 Jan 4;18(1):179-87.
+
+XIAP, a cellular member of the inhibitor of apoptosis protein family, links the
+receptors to TAB1-TAK1 in the BMP signaling pathway.
+
+Yamaguchi K(1), Nagai S, Ninomiya-Tsuji J, Nishita M, Tamai K, Irie K, Ueno N,
+Nishida E, Shibuya H, Matsumoto K.
+
+Author information: 
+(1)Department of Molecular Biology, Graduate School of Science, Nagoya
+University, Nagoya, Japan.
+
+Signals elicited by transforming growth factor-beta (TGF-beta) superfamily
+ligands are generated following the formation of heteromeric receptor complexes
+consisting of type I and type II receptors. TAK1, a member of the MAP kinase
+kinase kinase family, and its activator, TAB1, participate in the bone
+morphogenetic protein (BMP) signaling pathway involved in mesoderm induction and 
+patterning in early Xenopus embryos. However, the events leading from receptor
+activation to TAK1 activation remain to be identified. A yeast interaction screen
+was used to search for proteins that function in the pathway linking the
+receptors and TAB1-TAK1. The human X-chromosome-linked inhibitor of apoptosis
+protein (XIAP) was isolated as a TAB1-binding protein. XIAP associated not only
+with TAB1 but also with the BMP receptors in mammalian cells. Injection of XIAP
+mRNA into dorsal blastomeres enhanced the ventralization of Xenopus embryos in a 
+TAB1-TAK1-dependent manner. Furthermore, a truncated form of XIAP lacking the
+TAB1-binding domain partially blocked the expression of ventral mesodermal marker
+genes induced by a constitutively active BMP type I receptor. These results
+suggest that XIAP participates in the BMP signaling pathway as a positive
+regulator linking the BMP receptors and TAB1-TAK1.
+
+PMCID: PMC1171113
+PMID: 9878061  [PubMed - indexed for MEDLINE]
+
+
+82. J Biol Chem. 1998 Sep 25;273(39):25209-15.
+
+A novel nuclear receptor heterodimerization pathway mediated by orphan receptors 
+TR2 and TR4.
+
+Lee CH(1), Chinpaisal C, Wei LN.
+
+Author information: 
+(1)Department of Pharmacology, University of Minnesota Medical School,
+Minneapolis, Minnesota 55455, USA.
+
+A unique heterodimerization pathway involving orphan receptors TR2 and TR4 is
+demonstrated. TR2 and TR4 preferentially form heterodimers in solution as well as
+on DNA elements containing a direct repeat-5 (DR5). The in vitro interaction
+between TR2 and TR4 is demonstrated by the yeast and the mammalian two-hybrid
+interaction assays, the pull-down assay, and the gel mobility shift assay. The in
+vivo interaction is demonstrated by following the intracellular localization of
+fusion receptors tagged with a green fluorescent protein. The dimerization is
+mediated by the ligand binding domains, and the three leucine residues on helix
+10 of TR2 are critical for this interaction. In addition, coexpression of these
+two receptors exerts a much stronger repressive activity on a DR5-containing
+reporter than expressing either receptor alone. In the developing testis, TR2 and
+TR4 are coexpressed in the same testicular cell populations and exhibit a
+parallel pattern of expression along development. The preferential
+heterodimerization between TR2 and TR4 and their coexistence in specific germ
+cell populations suggest a physiological role of TR2/TR4 heterodimers in germ
+cell development.
+
+PMID: 9737983  [PubMed - indexed for MEDLINE]
+
+
+83. Endocrine. 1998 Apr;8(2):169-75.
+
+TR4 orphan receptor crosstalks to chicken ovalbumin upstream
+protein-transcription factor and thyroid hormone receptor to induce the
+transcriptional activity of the human immunodeficiency virus type 1 long-terminal
+repeat.
+
+Hwang SB(1), Burbach JP, Chang C.
+
+Author information: 
+(1)George Whipple Laboratory for Cancer Research, Department of Pathology,
+University of Rochester, NY 14642, USA.
+
+Here we investigate the roles of human testicular orphan receptors, TR2 and TR4, 
+on the gene regulation of the long-terminal repeat of the human immunodeficiency 
+virus type 1 (HIV-LTR). In gel-retardation assays, a palindromic element at the
+5'-end of HIV-LTR,5'-AGGGGTCAGATATCCACTGACCTTT-3',showed high affinity to TR2 and
+TR4 with an equilibrium dissociation constant (Kd) of 1.11 +/- 0.48 (n = 3) and
+0.52 +/- 0.12 nM (n = 3), respectively. Interestingly, each half-site of the
+palindromic element is sufficient to compete with the binding of the labeled
+palindromic element to TR2 or TR4 with an equilibrium inhibition constant (ki)
+around 10 nM. However, the transiently expressed TR2 or TR4 in Chinese hamster
+ovary (CHO) cells or Japanese quail muscle myoblasts (QM7) cells showed no
+activity in regulating the transcriptional activity of the chloramphenicol
+acetyltransferase (CAT) reporter gene inserted downstream of the HIV-LTR
+promoter. Although both TR2 and TR4 showed no effect on CAT activity by itself,
+our data showed only the TR4 could crosstalk to the chicken ovalbumin upstream
+protein-transcription factor (COUP-TF1) and thyroid hormone receptor (TR alpha
+1), and potentiated the transcriptional activity of HIV-LTR on the CAT reporter
+gene regulated by COUP-TF1 and TR alpha 1. These results indicate that TR4, but
+not TR2, may couple to other nuclear receptors in the upregulation of the HIV
+replication.
+
+PMID: 9704574  [PubMed - indexed for MEDLINE]
+
+
+84. J Biol Chem. 1998 Aug 14;273(33):20877-85.
+
+A bidirectional regulation between the TR2/TR4 orphan receptors (TR2/TR4) and the
+ciliary neurotrophic factor (CNTF) signaling pathway.
+
+Young WJ(1), Lee YF, Smith SM, Chang C.
+
+Author information: 
+(1)George Whipple Laboratory for Cancer Research, Departments of Pathology,
+Urology, and Biochemistry, University of Rochester Medical Center, Rochester, New
+York 14642, USA.
+
+Previously, we reported that the nuclear orphan receptor TR4 could induce
+transcriptional activity via the 5th intron of the ciliary neurotrophic factor
+(CNTF) alpha receptor gene (CNTFR-I5). Here we show CNTF could increase TR4
+expression and enhance the DNA-binding capacity of TR4. Interestingly, the
+expression of TR2, a close family member of TR4, could also be induced by CNTF.
+In return, TR2 induced CNTFRalpha transcriptional activity through binding to a
+direct repeat response element of AGGTCA within CNTFR-I5. The possibility of this
+mutual influence between TR2 and the CNTF signaling was further strengthened by
+in situ hybridization. Similar expression patterns of TR2 and CNTFRalpha were
+observed in most of the developing neural structures such as the ganglia, neural 
+epithelia, spinal cord, and the periventricular areas of brain. Together, our
+data suggest that an interaction between TR2/TR4 and the CNTF signaling pathway
+may occur, supporting the hypothesis that TR2/TR4 may play important roles in
+neurogenesis.
+
+PMID: 9694834  [PubMed - indexed for MEDLINE]
+
+
+85. J Biol Chem. 1998 May 29;273(22):13437-43.
+
+Negative feedback control of the retinoid-retinoic acid/retinoid X receptor
+pathway by the human TR4 orphan receptor, a member of the steroid receptor
+superfamily.
+
+Lee YF(1), Young WJ, Burbach JP, Chang C.
+
+Author information: 
+(1)George Whipple Laboratory for Cancer Research and Departments of Pathology,
+Urology, and Biochemistry, University of Rochester, Rochester, New York 14642,
+USA.
+
+Amino acid sequence analysis indicates that the human TR4 orphan receptor (TR4)
+is a member of the estrogen/thyroid receptor subfamily of the steroid/thyroid
+receptor superfamily and recognizes the AGGTCA direct repeat (DR) of the hormone 
+response element. Here we demonstrate using the electrophoretic mobility shift
+assay that TR4 binds specifically to DR with a spacing of 1 and 5 base pairs (DR1
+and DR5), which are the response elements for retinoic acid receptor (RAR) and
+retinoid X receptor (RXR), respectively. A reporter gene assay using
+chloramphenicol acetyltransferase demonstrated that TR4 repressed RA-induced
+transactivation in a TR4 dose-dependent manner. Inhibition of the retinoid signal
+pathway also occurs through natural response elements found in CRBPII and RARbeta
+genes. Our data suggest that the mechanism of repression may not involve the
+formation of functionally inactive heterodimers between TR4 and RAR or RXR.
+Instead, we show that TR4 may compete for hormone response elements with RAR and 
+RXR due to its higher binding affinity. Furthermore, treatment of F9 murine
+teratocarcinoma (F9) cells with 10(-6) M all-trans-retinoic acid increased TR4
+mRNA levels, and this change was accompanied by an increased amount of endogenous
+TR4 protein that can bind to RXRE in electrophoretic mobility shift assay. Our
+data therefore strongly suggest that the retinoid signal pathway can be regulated
+by TR4 in a negative feedback control mechanism, which may restrict retinoic acid
+signaling to certain elements in a cell-specific fashion.
+
+PMID: 9593676  [PubMed - indexed for MEDLINE]
+
+
+86. J Biol Chem. 1997 May 2;272(18):12215-20.
+
+Identification of direct repeat 4 as a positive regulatory element for the human 
+TR4 orphan receptor. A modulator for the thyroid hormone target genes.
+
+Lee YF(1), Pan HJ, Burbach JP, Morkin E, Chang C.
+
+Author information: 
+(1)Comprehensive Cancer Center, University of Wisconsin, Madison, Wisconsin
+53792, USA.
+
+While the TR4 orphan receptor (TR4) is able to repress the expression of its
+target genes via its interaction with the direct repeat 1-hormone response
+element (DR1-HRE) and DR2-HRE, we now report that TR4 can also induce the
+transcriptional activity of the reporter gene containing a DR4-HRE via
+chloramphenicol acetyltransferase assay. Electrophoretic mobility shift assay and
+Scatchard analysis reveal a strong binding affinity (dissociation constant = 2
+nM) between TR4 and DR4-HRE. The induction mediated by TR4 was detected not only 
+in the synthetic DR4-HRE but also in some genes, such as rat alpha-myosin
+heavy-chain and S14 genes, containing the DR4 or DR4-like motif, which have been 
+suggested to be the response elements for a thyroid hormone receptor. Our data
+also demonstrate this TR4-mediated gene induction is TR4 dose- and DR4
+sequence-dependent. Together, our data suggest that DR4-HRE can be a positive
+regulatory element for TR4, which may be able to induce the transcriptional
+activity of the genes containing such positive HREs.
+
+PMID: 9115296  [PubMed - indexed for MEDLINE]
+
+
+87. J Biol Chem. 1997 Jan 31;272(5):3109-16.
+
+Induction of the intronic enhancer of the human ciliary neurotrophic factor
+receptor (CNTFRalpha) gene by the TR4 orphan receptor. A member of steroid
+receptor superfamily.
+
+Young WJ(1), Smith SM, Chang C.
+
+Author information: 
+(1)Endocrinology-Reproductive Physiology Program, Comprehensive Cancer Center,
+University of Wisconsin, Madison, Wisconsin 53792, USA.
+
+A conserved hormone response element, CNTFR-DR1 (5'-AGGTCAGAGGTCAGG-3'), has been
+identified in the 5th intron of the alpha component of the ciliary neurotrophic
+factor receptor (CNTFRalpha) gene for the human TR4 orphan receptor (TR4).
+Electrophoretic mobility shift assay showed a specific binding with high affinity
+(Kd = 0.066 nM) between TR4 and the CNTFR-DR1. A reporter gene assay using
+chloramphenicol acetyltransferase demonstrated that the 5th intron of CNTFRalpha 
+has an enhancer activity which could be induced by TR4 in a dose-dependent
+manner. Furthermore, our in situ hybridization data showed that abundant TR4
+transcripts were detected in adult brain, in regions of cortical and hippocampal 
+neurons, as well as in many developing neural structures, including brain, spinal
+cord, ganglia (sympathetic and sensory), and neuronal epithelia (retinal, otic,
+olfactory, and gustatory). The striking similarities in the expression patterns
+of TR4 and CNTFRalpha in the developing and postnatal nervous systems further
+support the potential role of TR4 in neurogenesis. Collectively, these data
+suggest that the human CNTFRalpha gene could represent the first identified
+neural-specific gene induced by TR4.
+
+PMID: 9006963  [PubMed - indexed for MEDLINE]
+
+
+88. Genomics. 1996 Jul 15;35(2):361-6.
+
+New variants of the human and rat nuclear hormone receptor, TR4: expression and
+chromosomal localization of the human gene.
+
+Yoshikawa T(1), DuPont BR, Leach RJ, Detera-Wadleigh SD.
+
+Author information: 
+(1)Unit on Gene Mapping and Expression, National Institute of Mental Health,
+Bethesda, Maryland, 20892, USA.
+
+TR4 is a new member of the nuclear hormone receptor family. This receptor is
+highly conserved in rat and human, but an in-frame insertion of 19 amino acid
+residues in the amino-terminal (A/B) region was found in the human homolog, which
+we refer to as hTR4alpha1. By reverse transcription-PCR (RT-PCR) we have
+identified a human TR4 mRNA (hTR4alpha2) that is analogous in size and sequence
+to the reported rat TR4. RT-PCR analysis using total RNA derived from various rat
+tissues revealed a new rat TR4 transcript, referred to as rTR4alpha1, which is
+homologous to hTR4alpha1 since it contains the extra 19 amino acids in the A/B
+region. The two rat transcripts showed a differential tissue distribution.
+Analysis of the exon-intron organization of the hTR4 A/B region showed that the
+19-amino-acid peptide insert in hTR4alpha1 was encoded by a separate exon,
+indicating that hTR4alpha1 and hTR4alpha2 transcripts were produced by the
+differential usage of the exon. RT-PCR analysis revealed that both hTR4alpha1 and
+hTR4alpha2 were detectable in brain, placenta, and ovary. In contrast, the human 
+ovarian cancer cell line, PA1, failed to express hTR4alpha1. By fluorescence in
+situ hybridization, we have mapped the hTR4 gene to 3p25, a region deleted in
+some forms of cancer.
+
+PMID: 8661150  [PubMed - indexed for MEDLINE]
+
+
+89. Endocrinology. 1996 May;137(5):1562-71.
+
+Splice variants of rat TR4 orphan receptor: differential expression of novel
+sequences in the 5'-untranslated region and C-terminal domain.
+
+Yoshikawa T(1), Makino S, Gao XM, Xing GQ, Chuang DM, Detera-Wadleigh SD.
+
+Author information: 
+(1)Unit on Gene Mapping and Expression, National Institute of Mental Health,
+National Institutes of Health, Bethesda, Maryland 20892, USA.
+
+The use of rapid amplification of 5'-cDNA ends-PCR yielded two novel sequences
+for the rat orphan receptor, TR4, representing heterogeneity on the
+5'-untranslated region. Genomic structure analysis revealed that the
+5'-untranslated region of the longer messenger RNA fragment, rTR4-1, contained
+three exons, alpha, beta, and gamma. The skipping of exon gamma gave rise to
+rTR4-2, indicating that rTR4-1 and rTR4-2 are products of alternative splicing.
+We isolated another novel rat TR4 splice variant, rTR4-NS, which was found to
+diverge from rTR4-2 at codon 504. rTR4-NS contained an unspliced intronic
+sequence with in-frame codons for eight amino acids followed by a termination
+codon. The three TR4 messenger RNA variants were differentially expressed.
+rTR4-NS appeared to be a rare transcript found in limited areas of the brain. In 
+situ hybridization detect prominent TR4 signals in brain areas known to be
+involved in stress response. In cerebellar granule cells, the rise in TR4
+expression correlated with the progression of neuronal maturation.
+N-Methyl-D-aspartate treatment triggered a marked increase in TR4 expression.
+These results suggest a possible role for TR4 in neuronal differentiation.
+
+PMID: 8612486  [PubMed - indexed for MEDLINE]
+
+
+90. J Biol Chem. 1995 Dec 15;270(50):30129-33.
+
+Suppression of gene expression on the simian virus 40 major late promoter by
+human TR4 orphan receptor. A member of the steroid receptor superfamily.
+
+Lee HJ(1), Lee Y, Burbach JP, Chang C.
+
+Author information: 
+(1)Endocrinology-Reproductive Physiology Program, University of Wisconsin,
+Madison 53792, USA.
+
+The key expression of the simian virus 40 (SV40) major late promoter could be
+repressed by the human TR4 orphan receptor via the +55 region of the SV40 major
+late promoter (nucleotide numbers 368-389, 5' -GTTA-AGGTTCGTAGGTCATGGA-3'). Using
+the coupled in vitro transcribed and translated TR4 orphan receptor with a
+molecular mass of 67.3 kilodaltons, electrophoretic mobility shift assay showed
+specific binding with a dissociation constant of 1.09 nM between the TR4 orphan
+receptor and the SV40 +55 oligonucleotides. In addition, chloramphenicol
+acetyltransferase assay demonstrated that this SV40 +55 region can function as a 
+repressor via the TR4 orphan receptor, suppressing the transcriptional activities
+of both SV40 early and late promoters. Together, our data suggest that the TR4
+orphan receptor may play an important role for the suppression of the SV40 gene
+expression.
+
+PMID: 8530419  [PubMed - indexed for MEDLINE]
+
+
+91. Gene. 1995 Oct 3;163(2):239-42.
+
+Cloning of the gene encoding the murine orphan receptor TAK1 and
+cell-type-specific expression in testis.
+
+Hirose T(1), O'Brien DA, Jetten AM.
+
+Author information: 
+(1)Cell Biology Section, National Institute of Environmental Health Sciences,
+National Institutes of Health, Research Triangle Park, NC 27709, USA.
+
+We have cloned the gene encoding the mouse homologue of the orphan receptor,
+TAK1, a member of the nuclear receptor superfamily, from a mouse testis cDNA
+library. The amino acid sequence of mouse TAK1 (mTAK1) is highly homologous to
+that of human TAK1, with an overall identity of 98%. Northern blot analysis using
+RNA from different testicular cell types showed that the mTAK1 transcript is
+predominantly expressed in pachytene spermatocytes at a low level in round
+spermatids, but not in germ cells at earlier phases of spermatogenesis or in
+Sertoli cells. Southern analysis using genomic DNA prepared from a panel of
+hamster/human and mouse/human hybrid cell lines indicated that the TAK1 gene is
+located on human chromosome 3.
+
+PMID: 7590273  [PubMed - indexed for MEDLINE]
+
+
+92. Biochem Biophys Res Commun. 1995 Jun 6;211(1):83-91.
+
+The orphan receptor TAK1 acts as a repressor of RAR-, RXR- and T3R-mediated
+signaling pathways.
+
+Hirose T(1), Apfel R, Pfahl M, Jetten AM.
+
+Author information: 
+(1)Cell Biology Section, National Institute of Environmental Health and Sciences,
+National Institutes of Health, Research Triangle Park, North Carolina 27709, USA.
+
+Recently, we reported the cloning and characterization of the novel orphan
+receptor TAK1. In this study, we analyze the interaction of TAK1 with a variety
+of response elements (RE's) and demonstrate that TAK1 binds effectively to RE's
+composed of the core motif PuGGTCA configured in direct repeats spaced by one or 
+more nucleotides. TAK1 bound poorly to palindromic or inverted palindromic motifs
+and was unable to bind to a single core motif, suggesting that a dimeric site is 
+required for binding. Transfection experiments with CV-1 cells revealed that TAK1
+is able to repress retinoid- and thyroid-hormone-induced transactivation through 
+a subset of retinoid and thyroid hormone RE's. Our studies indicate that the
+antagonism of RAR-mediated transactivation does not involve the formation of
+heterodimers between TAK1 and RAR or RXR but is due to the competition of TAK1
+homodimers with RAR-RXR heterodimers and RXR homodimers for binding to RARE and
+RXRE, respectively. Our results suggest that the orphan receptor TAK1 can be a
+negative modulator of the regulation of gene expression mediated by retinoid and 
+thyroid hormone signaling pathways.
+
+PMID: 7779113  [PubMed - indexed for MEDLINE]
+
+
+93. Mol Endocrinol. 1994 Dec;8(12):1667-80.
+
+TAK1: molecular cloning and characterization of a new member of the nuclear
+receptor superfamily.
+
+Hirose T(1), Fujimoto W, Tamaai T, Kim KH, Matsuura H, Jetten AM.
+
+Author information: 
+(1)Cell Biology Section, National Institute of Environmental Health Sciences,
+Research Triangle Park, North Carolina 27709.
+
+Using polymerase chain reaction and two degenerate primers whose designs were
+based on the two best conserved regions of the DNA-binding domain of the nuclear 
+receptor superfamily, we identified and cloned a novel orphan receptor, named
+TAK1. The open reading frame of TAK1 encodes a protein of 596 amino acid
+residues. Based on the modular structure and the presence of a DNA-binding domain
+containing two zinc fingers TAK1 belongs to the steroid/thyroid hormone receptor 
+superfamily. The amino acid sequence of TAK1 is most closely related to the
+orphan receptor TR2-11. Their overall sequence homology is 64%, with the highest 
+similarity (82%) being observed in the DNA-binding domain. Northern blot analysis
+using RNA from multiple human tissues showed that a 9.4 kilobase TAK1 transcript 
+was expressed ubiquitously and that the presence of a 2.8 kilobase mRNA was
+largely restricted to the testis. In situ hybridization using sections of rat and
+mouse testes and Northern blot analysis using RNA from testes of rats at various 
+ages revealed that TAK1 is most abundantly expressed in spermatocytes whereas
+little expression was observed in other germ cells or somatic cells. In situ
+hybridization using other mouse and rat tissues revealed cell type-specific
+expression of TAK1 in several tissues. Our observations suggest a role for this
+putative transcription factor in the regulation of gene expression in specific
+cell types. In the testis, TAK1 appears to control gene expression during
+spermatogenesis, particularly during the meiotic phase.
+
+PMID: 7708055  [PubMed - indexed for MEDLINE]
+
+
+94. Proc Natl Acad Sci U S A. 1994 Jun 21;91(13):6040-4.
+
+Human and rat TR4 orphan receptors specify a subclass of the steroid receptor
+superfamily.
+
+Chang C(1), Da Silva SL, Ideta R, Lee Y, Yeh S, Burbach JP.
+
+Author information: 
+(1)Department of Human Oncology, University of Wisconsin, Madison 53792.
+
+We have identified a member of the steroid receptor superfamily and cloned it
+from human and rat hypothalamus, prostate, and testis cDNA libraries. The open
+reading frame between first ATG and terminator TGA can encode 615 (human) and 596
+(rat) amino acids with calculated molecular mass of 67.3 (human) and 65.4 (rat)
+kDa. The amino acid sequence of this protein, called TR4 orphan receptor, is
+closely related to the previously identified TR2 orphan receptor. The high
+homology between TR2 and TR4 orphan receptor suggests that these two orphan
+receptors constitute a unique subfamily within the steroid receptor superfamily. 
+These two orphan receptors are differentially expressed in rat tissues. Unlike
+TR2 orphan receptors, the TR4 orphan receptor appears to be predominantly located
+in granule cells of the hippocampus and the cerebellum, suggesting that it may
+play some role(s) in transcriptional regulation in these neurons.
+
+PMCID: PMC44133
+PMID: 8016112  [PubMed - indexed for MEDLINE]
+
+
+95. Gene Expr. 1994;4(1-2):77-84.
+
+Molecular cloning of a novel member of the nuclear receptor superfamily related
+to the orphan receptor, TR2.
+
+Law SW(1), Conneely OM, O'Malley BW.
+
+Author information: 
+(1)Department of Cell Biology, Baylor College of Medicine, Houston, TX 77030.
+
+We have cloned a novel member (mTR2R1) of the nuclear receptor superfamily of
+transcription factors from a mouse brain cDNA library. The cDNA sequence predicts
+a protein primary structure of 629 amino acids with a calculated molecular weight
+of 68.8 kDa. The amino acid sequence of the protein contains three regions of
+consensus sequence that are conserved throughout the nuclear receptor
+superfamily. One of these regions encodes a type II zinc finger DNA binding
+domain that is characteristic of this family of transcription factors. Comparison
+of the amino acid sequence of mTR2R1 with other nuclear receptors indicates that 
+it is most closely related to the orphan receptor, hTR2, and suggests that these 
+proteins constitute a novel subfamily within the nuclear receptor superfamily.
+mTR2R1 is encoded by two mRNAs that show different but overlapping spatial
+patterns of expression in the adult mouse. The identification of a subfamily of
+TR2 receptors together with the existence of variant mRNAs for these receptors
+prompts a close examination of the tissue-specific regulatory role of this
+subfamily of nuclear receptors.
+
+PMID: 7841789  [PubMed - indexed for MEDLINE]
+
+

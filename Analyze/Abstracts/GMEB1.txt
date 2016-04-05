@@ -1,0 +1,551 @@
+
+1. Hum Mol Genet. 2012 Jul 15;21(14):3264-74. doi: 10.1093/hmg/dds170. Epub 2012 Apr
+27.
+
+Discovery of novel protein partners of the transcription factor FOXL2 provides
+insights into its physiopathological roles.
+
+L'Hôte D(1), Georges A, Todeschini AL, Kim JH, Benayoun BA, Bae J, Veitia RA.
+
+Author information: 
+(1)Institut Jacques Monod, UMR 7592 CNRS-Université Paris Diderot, Paris 75205,
+France.
+
+FOXL2 transcription factor is responsible for the Blepharophimosis Ptosis
+Epicantus inversus Syndrome (BPES), a genetic disease involving craniofacial
+malformations often associated with ovarian failure. Recently, a somatic FOXL2
+mutation (p.C134W) has been reported in >95% of adult-type granulosa cell tumors.
+Here, we have identified 10 novel FOXL2 partners by yeast-two-hybrid screening
+and co-immunoprecipitation. Most BPES-inducing mutated FOXL2 proteins display
+aggregation in cultured cells. Here, we show that two of the partners (NR2C1 and 
+GMEB1) can be sequestered in such aggregates. This co-aggregation can contribute 
+to the pathogenesis of FOXL2 mutations. We have also measured the effects of
+FOXL2 interactants on the transcriptional regulation of a series of target
+promoters. Some of the partners (CXXC4, CXXC5, BANF1) were able to repress FOXL2 
+activity indistinctively of the promoter. Interestingly, CREM-t2a, which acted as
+a repressor on most promoters, increased wild-type (WT) FOXL2 activity on two
+promoters (PTGS2 and CYP19A1), but was unable to increase the activity of the
+oncogenic mutant p.C134W. Conversely, GMEB1, which also acted as a repressor on
+most promoters and increased WT FOXL2 activity on the Per2 promoter, increased to
+a greater extent the activity of the p.C134W variant. Interestingly, partners
+with intrinsic pro-apoptotic effect were able to increase apoptosis induction by 
+WT FOXL2, but not by the p.C134W mutant, whereas partners with an anti-apoptotic 
+effect decreased apoptosis induction by both FOXL2 versions. Altogether, these
+results suggest that the p.C134W mutated form fails to integrate signals through 
+protein-protein interactions to regulate target promoter subsets and in
+particular to induce cell death.
+
+PMID: 22544055  [PubMed - indexed for MEDLINE]
+
+
+2. Immunobiology. 2012 Jan;217(1):118-23. doi: 10.1016/j.imbio.2011.07.018. Epub
+2011 Jul 23.
+
+IL-12 inhibits glucocorticoid-induced T cell apoptosis by inducing GMEB1 and
+activating PI3K/Akt pathway.
+
+Kawabe K(1), Lindsay D, Braitch M, Fahey AJ, Showe L, Constantinescu CS.
+
+Author information: 
+(1)Division of Clinical Neurology, University of Nottingham, United Kingdom.
+
+Interleukin (IL)-12 is an important pro-inflammatory cytokine that has been shown
+to play a role in T cell survival, at least in part by activating the PI3K/Akt
+pathway. Glucocorticoid modulatory element binding protein (GMEB)1 and 2 are
+closely related proteins that modify the glucocorticoid receptor binding locus
+and thus modulate glucocorticoid-mediated gene induction effects, including
+apoptosis. GMEB1 associates with caspases and prevents apoptosis of cells in the 
+nervous system. We have observed, in preliminary studies, that IL-12 up-regulates
+GMEB mRNA in human T cells, and postulated that this may contribute to the
+anti-apoptotic effect of IL-12 on T cells, in particular with regard to
+glucocorticoid induced apoptosis. Here, we confirm that IL-12 rescue of
+dexamethasone induced T cell apoptosis involves the PI3K/Akt pathway and that
+IL-12 induces GMEB1 and GMEB2. A siRNA knockdown of GMEB1 reverses the protective
+effect of IL-12 on dexamethasone induced T cell apoptosis. Thus, IL-12 protects T
+cells from glucocorticoid induced apoptosis via PI3K/Akt pathway and via
+induction of GMEB1, which is likely to reduce transactivation of the
+glucocorticoid receptor and induction of apoptotic genes. As glucocorticoid
+induced apoptosis occurs both in physiological and pathological/therapeutic
+situations, and IL-12 is actively involved in a variety of inflammatory and
+immune responses, the ability of IL-12 to inhibit steroid responses and increase 
+T cell survival through GMEB1 has wide ranging implications. Manipulating GMEB
+may be used therapeutically to enhance the resistance or the sensitivity to
+steroids.
+
+Copyright © 2011 Elsevier GmbH. All rights reserved.
+
+PMID: 21840619  [PubMed - indexed for MEDLINE]
+
+
+3. Nucleic Acids Res. 2009 Jun;37(10):3301-9. doi: 10.1093/nar/gkp192. Epub 2009 Mar
+25.
+
+A WW-like module in the RAG1 N-terminal domain contributes to previously
+unidentified protein-protein interactions.
+
+Maitra R(1), Sadofsky MJ.
+
+Author information: 
+(1)Department of Pathology, Albert Einstein College of Medicine, Bronx, New York,
+10461, USA.
+
+More than one-third of the RAG1 protein can be truncated from the N-terminus with
+only subtle effects on the products of V(D)J recombination in vitro or in a
+mouse. What, then, is the function of the N-terminal domain? We believe it to be 
+regulatory. We determined, several years ago, that an included RING motif could
+function as an ubiquitin E3 ligase. Whether this activity is limited to
+automodification, or may alter other proteins in the cell, remains an open
+question. We revisited the issue of additional protein-protein interactions
+between RAG1 and other proteins by means of the yeast two-hybrid assay. We
+confirmed the interaction already described with KPNA2/RCH1/SRP1alpha and found
+two others--to the transcription factor GMEB1/PIF p96 and the splicing factor
+SF3A2/SF3a66. A luciferase reporter assay demonstrates that a protein complex
+containing RAG proteins and the transcription factor can assemble in cells.
+Further mapping identified a region within the N-terminal domain resembling a WW 
+motif. Point mutation directed at residues conserved in WW motifs eliminated
+binding to one of the partners. Phylogenetic analysis shows the WW-like module to
+be highly conserved. The module contributes to protein-protein interactions that 
+may also influence how RAG1 binds DNA targets.
+
+PMCID: PMC2691831
+PMID: 19324890  [PubMed - indexed for MEDLINE]
+
+
+4. Neurosci Lett. 2008 Jun 13;438(1):34-7. doi: 10.1016/j.neulet.2008.04.023. Epub
+2008 Apr 11.
+
+GMEB1, a novel endogenous caspase inhibitor, prevents hypoxia- and oxidative
+stress-induced neuronal apoptosis.
+
+Nakagawa T(1), Tsuruma K, Uehara T, Nomura Y.
+
+Author information: 
+(1)Department of Pharmacology, Graduate School of Pharmaceutical Sciences,
+Hokkaido University, Sapporo 060-0812, Japan.
+
+The interaction of glucocorticoid modulatory element-binding protein 1 (GMEB1)
+with procaspase-2, -8, or -9 prevents caspase oligomerization and maturation. In 
+the present study, we examined the effect of GMEB1 on neuronal apoptosis induced 
+by hypoxia and oxidative stress. GMEB1 effectively attenuated caspase activation 
+and apoptosis caused by these stresses in human neuroblastoma SK-N-MC cells,
+indicating that it functions as a potent inhibitor of caspase activation and
+apoptosis in response to oxidative stress. We propose that GMEB1 blocks
+pro-apoptosis signals induced by a variety of stresses.
+
+PMID: 18455874  [PubMed - indexed for MEDLINE]
+
+
+5. J Biol Chem. 2006 Apr 21;281(16):11397-404. Epub 2006 Feb 23.
+
+Glucocorticoid modulatory element-binding protein 1 binds to initiator
+procaspases and inhibits ischemia-induced apoptosis and neuronal injury.
+
+Tsuruma K(1), Nakagawa T, Morimoto N, Minami M, Hara H, Uehara T, Nomura Y.
+
+Author information: 
+(1)Department of Pharmacology, Graduate School of Pharmaceutical Sciences,
+Hokkaido University, N12W6, Sapporo 060-0812, Japan.
+
+Caspases are divided into two classes: initiator caspases, which include
+caspase-8 and -9 and possess long prodomains, and effector caspases, which
+include caspase-3 and -7 and possess short prodomains. Recently, we demonstrated 
+that glucocorticoid modulatory element-binding protein 1 (GMEB1) interacts with
+the prodomain of procaspase-2, thereby disrupting its autoactivation and the
+induction of apoptosis. Here we show that GMEB1 is also capable of binding to
+procaspase-8 and -9. GMEB1 attenuated the Fas-mediated activation of these
+caspases and the subsequent apoptosis. The knockdown of endogenous GMEB1 using
+RNA interference revealed that cells with decreased GMEB1 expression are more
+sensitive to stress and undergo accelerated apoptosis. Transgenic mice expressing
+a neurospecific GMEB1 had smaller cerebral infarcts and less brain swelling than 
+wild-type mice in response to transient focal ischemia. These results suggest
+that GMEB1 is an endogenous regulator that selectively binds to initiator
+procaspases and inhibits caspase-induced apoptosis.
+
+PMID: 16497673  [PubMed - indexed for MEDLINE]
+
+
+6. Biochem Biophys Res Commun. 2004 Dec 24;325(4):1246-51.
+
+Regulation of procaspase-2 by glucocorticoid modulatory element-binding protein 1
+through the interaction with caspase recruitment domain.
+
+Tsuruma K(1), Nakagawa T, Shirakura H, Hayashi N, Uehara T, Nomura Y.
+
+Author information: 
+(1)Department of Pharmacology, Graduate School of Pharmaceutical Sciences,
+Hokkaido University, N12W6, Sapporo 060-0812, Japan.
+
+Caspases are the primary executioners of apoptosis. Although procaspases believe 
+to exist as inactive forms in cells, the detailed regulatory system remains
+unclear. Here we show that glucocorticoid modulatory element-binding protein 1
+(GMEB1) is capable of binding to the prodomain of caspase-2. We found that this
+molecule inhibits the autoproteolytic activation of procaspase-2 by
+oligomerization on a chemical compound-dependent system. These findings indicated
+that GMEB1 might be an endogenous inhibitory protein that selectively interacts
+with prodomain of caspase-2 to disrupt the autoactivation.
+
+PMID: 15555560  [PubMed - indexed for MEDLINE]
+
+
+7. Biochemistry. 2004 Jan 13;43(1):245-55.
+
+Structure/activity relationships for GMEB-2: the second member of the
+glucocorticoid modulatory element-binding complex.
+
+Chen J(1), He Y, Simons SS Jr.
+
+Author information: 
+(1)Steroid Hormones Section, NIDDK/LMCB, National Institutes of Health, U.S.
+Department of Health and Human Services, Bethesda, MD, USA.
+
+The position of the dose-response curve of agonist complexes of glucocorticoid
+receptors (GRs), and the partial agonist activity of GR-antagonist complexes, can
+be modulated by two proteins (GMEB-1 and -2), which bind as oligomers to a DNA
+element that is called a glucocorticoid modulatory element, or GME. This element 
+is active when located upstream of the glucocorticoid response element that
+controls the expression of a reporter gene. Here, we report the
+structure/activity relationships of GMEB-2 and compare them to our previous
+findings for GMEB-1. Most of the activities of GMEB-2, such as homo- and
+heterooligomerization, binding to GR and to CBP, DNA binding, and modulation of
+the above GR transcriptional properties, require large regions of the protein.
+Only the intrinsic transactivation activity could be localized to a small region 
+of the protein. These studies shed light on the mechanism of action of GMEB-2 and
+further support our previous conclusion that the ability of factors to modulate
+the position of the dose-response curve, and the partial agonist activity, of GR 
+complexes is unrelated to effects on the total levels of GR-induced gene
+expression. These studies also identify regions of GMEB-2 possessing yet
+unidentified properties that are critical for several activities. Finally, as the
+domain organization of GMEB-2 and -1 is extremely similar, we conclude that the
+quantitative differences in activities derive from variations in amino acid
+sequence rather than more global features of protein structure.
+
+PMID: 14705952  [PubMed - indexed for MEDLINE]
+
+
+8. Mol Endocrinol. 2003 Jul;17(7):1283-95. Epub 2003 Apr 17.
+
+Crystal structure and nuclear magnetic resonance analyses of the SAND domain from
+glucocorticoid modulatory element binding protein-1 reveals deoxyribonucleic acid
+and zinc binding regions.
+
+Surdo PL(1), Bottomley MJ, Sattler M, Scheffzek K.
+
+Author information: 
+(1)European Molecular Biology Laboratory, Structural and Computational Biology
+Programme, 69117 Heidelberg, Germany.
+
+The glucocorticoid-modulatory element-binding proteins, GMEB1 and GMEB2, are
+ubiquitous, multifunctional DNA-binding proteins with important roles in the
+modulation of transcription upon steroid hormone activation. The GMEB proteins
+have intrinsic transactivation ability, but also control the glucocorticoid
+response via direct binding to the glucocorticoid receptor. They are also
+mandatory host proteins for Parvovirus replication. Here we present the 1.55 A
+resolution crystal structure of a central portion of GMEB1, encompassing its SAND
+domain, which shares 80% sequence identity with the GMEB2 SAND domain. We
+demonstrate that this domain, also present in numerous proteins implicated in
+chromatin-associated transcriptional regulation, is necessary and sufficient to
+bind the glucocorticoid-modulatory element (GME) DNA target. We use nuclear
+magnetic resonance (NMR) and binding studies to map the DNA recognition surface
+to an alpha-helical region exposing the conserved KDWK motif. Using site-directed
+mutagenesis, key residues for DNA binding are identified. In contrast to the
+previously determined NMR structure of the Sp100b SAND domain, we find that the
+GMEB1 SAND domain also comprises a zinc-binding motif. Although the zinc ion is
+not necessary for DNA binding, it is found to determine the C-terminal
+conformation of the GMEB1 SAND domain. We also show that homologous zinc-binding 
+motifs exist in a subset of SAND domain proteins and probe the roles of this
+novel motif.
+
+PMID: 12702733  [PubMed - indexed for MEDLINE]
+
+
+9. J Virol. 2002 Jul;76(13):6518-31.
+
+Parvovirus initiator protein NS1 and RPA coordinate replication fork progression 
+in a reconstituted DNA replication system.
+
+Christensen J(1), Tattersall P.
+
+Author information: 
+(1)Institute of Medical Microbiology and Immunology, Panum Institute, University 
+of Copenhagen, Building 24.2, Blegdamsvej 3b, Copenhagen 2200 N, Denmark.
+J.Christensen@immi.ku.dk
+
+We show here that the DNA helicase activity of the parvoviral initiator protein
+NS1 is highly directional, binding to the single strand at a recessed 5' end and 
+displacing the other strand while progressing in a 3'-to-5' direction on the
+bound strand. NS1 and a cellular site-specific DNA binding factor, PIF, also
+known as glucocorticoid modulating element binding protein, bind to the left-end 
+minimal replication origin of minute virus of mice, forming a ternary complex. In
+this complex, NS1 is activated to nick one DNA strand, becoming covalently
+attached to the 5' end of the nick in the process and providing a 3' OH for
+priming DNA synthesis. In this situation, the helicase activity of NS1 did not
+displace the nicked strand, but the origin duplex was distorted by the NS1-PIF
+complex, as assayed by its sensitivity to KMnO(4) oxidation, and a stretch of
+about 14 nucleotides on both strands of the nicked origin underwent limited
+unwinding. Addition of Escherichia coli single-stranded DNA binding protein (SSB)
+did not lead to further unwinding. However, addition of recombinant human
+single-stranded DNA binding protein (RPA) to the initiation reaction catalyzed
+extensive unwinding of the nicked origin, suggesting that RPA may be required to 
+form a functional replication fork. Accordingly, the unwinding mediated by NS1
+and RPA promoted processive leading-strand synthesis catalyzed by recombinant
+human DNA polymerase delta, PCNA, and RFC, using the minimal left-end origin
+cloned in a plasmid as a template. The requirement for RPA, rather than SSB, in
+the unwinding reaction indicated that specific NS1-RPA protein interactions were 
+formed. NS1 was tested by enzyme-linked immunosorbent assay for binding to two-
+or three-subunit RPA complexes expressed from recombinant baculoviruses. NS1
+efficiently bound each of the baculovirus-expressed complexes, indicating that
+the small subunit of RPA is not involved in specific NS1 binding. No NS1
+interactions were observed with E. coli SSB or other proteins included as
+controls.
+
+PMCID: PMC136255
+PMID: 12050365  [PubMed - indexed for MEDLINE]
+
+
+10. J Mol Biol. 2001 Dec 14;314(5):1029-39.
+
+A consensus DNA recognition motif for two KDWK transcription factors identifies
+flexible-length, CpG-methylation sensitive cognate binding sites in the majority 
+of human promoters.
+
+Burnett E(1), Christensen J, Tattersall P.
+
+Author information: 
+(1)Department of Genetics, Yale University School of Medicine, New Haven, CT
+06510, USA.
+
+Parvovirus initiation factor (PIF), identified in HeLa cells as a host factor
+essential for parvoviral DNA replication, is a ubiquitous heterodimeric cellular 
+transcription factor. This protein complex was simultaneously identified as
+glucocorticoid modulatory element binding protein (GMEB) by its ability to bind
+to the glucocorticoid modulating element (GME) upstream of the tyrosine
+transaminase promoter. Here, we show that the two PIF/GMEB subunits form
+site-specific DNA-binding heterodimers when co-expressed from recombinant
+baculoviruses and homodimers when expressed separately. Degenerate
+oligonucleotide selection experiments, combined with analysis of dissociation
+rates, established that the three complexes bind to flexibly spaced
+tetranucleotide half-sites that conform to the consensus ACGPy N(1-9) PuCGPy,
+with an optimum of N=6. Binding of all three complexes is extremely sensitive to 
+methylation of the cytosine residues in the invariant CpG half-site core,
+suggesting a means by which PIF/GMEB binding could be regulated in vivo. Because 
+CpG dinucleotides are suppressed in eukaryotic genomes, such binding sites would 
+be expected to be very rare. However, analysis of 100 human promoters showed that
+over half of them contained at least one site conforming to the consensus, a
+significant deviation from the expected random distribution. In many of these,
+the binding site is within 100 nucleotides of the transcriptional start site,
+indicating that PIF/GMEB may be involved in regulation of these genes.
+Oligonucleotides corresponding to five of these sequences, chosen to represent
+the range of half-site separations identified by the consensus, were tested for
+PIF/GMEB binding by mobility shift assay. All five probes bound the heterodimer
+efficiently and, in each case, binding was completely abrogated by 5-methylation 
+of the C residues in the CpGs of the putative half-sites.
+
+Copyright 2001 Academic Press.
+
+PMID: 11743720  [PubMed - indexed for MEDLINE]
+
+
+11. Mol Endocrinol. 2000 Jul;14(7):1010-27.
+
+Properties of the glucocorticoid modulatory element binding proteins GMEB-1 and
+-2: potential new modifiers of glucocorticoid receptor transactivation and
+members of the family of KDWK proteins.
+
+Kaul S(1), Blackford JA Jr, Chen J, Ogryzko VV, Simons SS Jr.
+
+Author information: 
+(1)Steroid Hormones Section, National Institute of Diabetes and Digestive and
+Kidney Diseases/Laboratory of Molecular and Cellular Biology, National Institutes
+of Health, Bethesda, Maryland 20892-0805, USA.
+
+An important component of glucocorticoid steroid induction of tyrosine
+aminotransferase (TAT) gene expression is the glucocorticoid modulatory element
+(GME), which is located at -3.6 kb of the rat TAT gene. The GME both mediates a
+greater sensitivity to hormone, due to a left shift in the dose-response curve of
+agonists, and increases the partial agonist activity of antiglucocorticoids.
+These properties of the GME are intimately related to the binding of a
+heteromeric complex of two proteins (GMEB-1 and -2). We previously cloned the rat
+GMEB-2 as a 67-kDa protein. We now report the cloning of the other member of the 
+GME binding complex, the 88-kDa human GMEB-1, and various properties of both
+proteins. GMEB-1 and -2 each possess an intrinsic transactivation activity in
+mammalian one-hybrid assays, consistent with our proposed model in which they
+modify glucocorticoid receptor (GR)-regulated gene induction. This hypothesis is 
+supported by interactions between GR and both GMEB-1 and -2 in mammalian
+two-hybrid and in pull-down assays. Furthermore, overexpression of GMEB-1 and -2,
+either alone or in combination, results in a reversible right shift in the
+dose-response curve, and decreased agonist activity of antisteroids, as expected 
+from the squelching of other limiting factors. Additional mechanistic details
+that are compatible with the model of GME action are suggested by the
+interactions in a two-hybrid assay of both GMEBs with CREB-binding protein (CBP) 
+and the absence of histone acetyl transferase (HAT) activity in both proteins.
+GMEB-1 and -2 share a sequence of 90 amino acids that is 80% identical. This
+region also displays homology to several other proteins containing a core
+sequence of KDWK. Thus, the GMEBs may be members of a new family of factors with 
+interesting transcriptional properties.
+
+PMID: 10894151  [PubMed - indexed for MEDLINE]
+
+
+12. Nucleic Acids Res. 2000 Apr 15;28(8):1819-29.
+
+Genomic organization of human GMEB-1 and rat GMEB-2: structural conservation of
+two multifunctional proteins.
+
+Zeng H(1), Kaul S, Simons SS Jr.
+
+Author information: 
+(1)Steroid Hormones Section, Building 8, Room B2A-07, NIDDK/LMCB, National
+Institutes of Health, Bethesda, MD 20892, USA.
+
+The glucocorticoid modulatory element binding proteins 1 and 2 (GMEB-1 and
+GMEB-2) are of interest both for their multiple activities (e.g. modulation of
+transactivation by the glucocorticoid receptor and initiation of parvovirus
+replication) and their membership in the emerging family of KDWK proteins. The
+genomic sequence of these proteins was desired in order to begin studies on the
+control of GMEB expression and to pursue previous evidence for significant
+homologies between the GMEBs. We now report the genomic sequence of human GMEB-1 
+and rat GMEB-2. The structure of both genes, including portions of the introns,
+is highly conserved. However, GMEB-1 and GMEB-2 were found to reside on
+chromosomes 1 and 20, respectively, demonstrating that they are encoded by
+distinctly different genes. Several isoforms of the GMEBs have been reported or
+detected in this study, and the splicing patterns were determined. The tissue
+distribution of each GMEB is not the same and is highest in fetal and developing 
+tissues, consistent with previous suggestions that both homo- and
+hetero-oligomers may possess biological activity. The promoter region of both
+genes has been identified and both display high levels of transcription activity 
+in transiently transfected cells when fused upstream of a promoterless reporter. 
+These results indicate that the GMEBs are proteins that evolved from a single
+parent gene, have been highly conserved since the divergence of rats and humans
+and probably play important roles in development and differentiation.
+
+PMCID: PMC102812
+PMID: 10734202  [PubMed - indexed for MEDLINE]
+
+
+13. FEBS Lett. 2000 Feb 25;468(2-3):203-10.
+
+Cloning of a mouse glucocorticoid modulatory element binding protein, a new
+member of the KDWK family.
+
+Jimenez-Lara AM(1), Heine MJ, Gronemeyer H.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/ULP, P.O. Box 163, 67404, Illkirch, France.
+
+A mouse cDNA that encodes a nuclear DNA binding protein was identified by yeast
+two-hybrid screening using the activation domain 2 of the nuclear receptor
+coactivator TIF2 as a bait. BLAST analysis revealed that the identified cDNA
+encodes a KDWK domain and contains sequences almost identical to three tryptic
+peptides of rat GMEB-1 which together with the GMEB-2 heterodimeric partner binds
+to the GME/CRE sequence (glucocorticoid modulatory element) of the tyrosine
+aminotransferase (TAT) promoter. Mouse GMEB-1 is ubiquitously expressed in all
+the tissues examined. In vitro translated mGMEB-1 bound specifically to GME
+oligonucleotides, either alone or as a heterodimer with rGMEB-2. Transient
+transfection experiments with TAT promoter reporter genes suggest a potential
+role for mGMEB-1 as a transcriptional regulator of the TAT promoter.
+
+PMID: 10692587  [PubMed - indexed for MEDLINE]
+
+
+14. FEBS Lett. 1999 Jun 11;452(3):170-6.
+
+Cloning and characterization of hGMEB1, a novel glucocorticoid modulatory element
+binding protein.
+
+Thériault JR(1), Charette SJ, Lambert H, Landry J.
+
+Author information: 
+(1)Centre de recherche en cancérologie de l'Université Laval, L'Hôtel-Dieu de
+Québec, Que., Canada.
+
+A 21-bp element called glucocorticoid modulatory element (GME) modulates the
+glucocorticoid receptor-mediated responses via the binding of an as yet poorly
+characterized transacting complex of proteins containing the 88-kDa GMEB1 and the
+67-kDa GMEB2. Using heat shock protein 27 (HSP27) as bait in the yeast two-hybrid
+assay, we cloned a 1.83-kb cDNA encoding a novel 573-amino acid protein called
+human GMEB1 (hGMEB1). hGMEB1 possesses a KDWK domain, contains sequences almost
+identical (36/38) to three tryptic peptides of rat GMEB1 and shares 38% identity 
+with rat GMEB2. hGMEB1 is ubiquitously expressed as a 85-kDa protein in all cell 
+lines and tissues examined. In vitro translated hGMEB1 bound specifically to GME 
+oligonucleotides yielding a complex of similar size to the complex obtained using
+rat liver nuclear extracts. Both complexes were supershifted with an antibody
+specific to hGMEB1. Co-immunoprecipitation experiments confirmed the in vivo
+interaction of HSP27 with hGMEB1.
+
+PMID: 10386584  [PubMed - indexed for MEDLINE]
+
+
+15. Toxicol Appl Pharmacol. 1998 Jul;151(1):143-51.
+
+Requirement for cooperative interaction of interleukin-6 responsive element type 
+2 and glucocorticoid responsive element in the synergistic activation of mouse
+metallothionein-I gene by interleukin-6 and glucocorticoid.
+
+Kasutani K(1), Itoh N, Kanekiyo M, Muto N, Tanaka K.
+
+Author information: 
+(1)Faculty of Pharmaceutical Sciences, Osaka University, Yamada-oka, Suita,
+Osaka, 565-0871, Japan.
+
+Metallothionein (MT)-inducing activity of interleukin (IL)-6 depends on the
+presence of glucocorticoid in hepatic cells. The synergistic action of IL-6 and
+glucocorticoid was observed in the transcriptional activation of the mouse MT
+(mMT)-I gene. We found that a 281-bp promoter was sufficient for IL-6 and
+glucocorticoid stimulation. Our inspection of this region revealed the putative
+type 1 and 2 IL-6 responsive elements (REs). Functional analyses of these regions
+were performed using luciferase reporter constructs, and it was observed that the
+type 2 IL-6RE exerted the major response to the IL-6 signal. The transcriptional 
+factor binding to type 1 IL-6RE, nuclear factor-IL-6, hardly contributed to the
+activation of the mMT-I promoter by IL-6 and glucocorticoid. A glucocorticoid
+responsive element (GRE) was also required for the synergistic activation by IL-6
+and glucocorticoid. Interestingly, this synergism was not observed when the type 
+2 IL-6RE and the GRE were kept apart. Therefore, the synergistic activation of
+the mMT-I gene by IL-6 and glucocorticoid may require not only that signal
+transducers and activators 3 (Stat3) and the glucocorticoid receptor (GR) bind to
+their respective responsive elements, but also that Stat3 and the GR physically
+interact with one another.
+
+Copyright 1998 Academic Press.
+
+PMID: 9705897  [PubMed - indexed for MEDLINE]
+
+
+16. J Biol Chem. 1995 Sep 15;270(37):21893-901.
+
+The factor binding to the glucocorticoid modulatory element of the tyrosine
+aminotransferase gene is a novel and ubiquitous heteromeric complex.
+
+Oshima H(1), Szapary D, Simons SS Jr.
+
+Author information: 
+(1)Steroid Hormones Section, NIDDK/Laboratory of Molecular and Cellular Biology, 
+National Institutes of Health, Bethesda, Maryland 20892, USA.
+
+Glucocorticoid induction of the tyrosine aminotransferase gene deviates from that
+of many glucocorticoid-responsive genes by having a lower EC50 and displaying
+more agonist activity with a given antiglucocorticoid. A cis-acting element,
+located 3646 base pairs upstream of the start of tyrosine aminotransferase gene
+transcription, has been found to be sufficient to reproduce these variations with
+heterologous genes and promoters (Oshima, H., and Simons, S.S., Jr. (1992) Mol.
+Endocrinol. 6, 416-428). This element has been called a glucocorticoid modulatory
+element, or GME. Others have called this sequence a cyclic AMP-responsive element
+(CRE) due to the binding of the cyclic AMP response element binding protein
+(CREB). We now report the partial purification and characterization of two new
+proteins (GMEB1 and -2) of 88 and 67 kDa that bind to the GME/CRE as a
+heteromeric complex. This purification was followed by the formation of a
+previously characterized, biologically relevant band in gel shift assays. By
+several biochemical criteria, the GMEBs differed from many of the previously
+described CREB/CREM/ATF family members. Partial peptide sequencing revealed that 
+the sequences of these two proteins have not yet been described. Size exclusion
+chromatography and molecular weight measurements of the gel-shifted band
+demonstrated that the GMEBs bound to the GME as a macromolecular complex of about
+550 kDa that could be dissociated by deoxycholate. Similar experiments showed
+that CREB bound to the GME as heteromeric complexes of about 310 and 360 kDa. As 
+determined from gel shift assays, GMEB1 and -2 are not restricted to rat liver
+cells but appear to be ubiquitous. Thus, these novel GMEBs may participate in a
+similar modulation of other glucocorticoid-inducible genes in a variety of cells.
+
+PMID: 7665613  [PubMed - indexed for MEDLINE]
+
+

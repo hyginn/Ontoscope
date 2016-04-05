@@ -1,0 +1,818 @@
+
+1. Nucleic Acids Res. 2014 Jun;42(11):7012-27. doi: 10.1093/nar/gku413. Epub 2014
+May 14.
+
+Ligand-dependent corepressor contributes to transcriptional repression by C2H2
+zinc-finger transcription factor ZBRK1 through association with KRAB-associated
+protein-1.
+
+Calderon MR(1), Verway M(1), Benslama RO(2), Birlea M(3), Bouttier M(1), Dimitrov
+V(1), Mader S(2), White JH(4).
+
+Author information: 
+(1)Department of Physiology, McGill University, Montreal, QC, Canada.
+(2)Department of Biochemistry, Université de Montréal, Montreal, QC, Canada
+Institut de Recherche en Immunologie et Cancérologie (IRIC), Université de
+Montréal, Montreal, QC, Canada. (3)Institut de Recherche en Immunologie et
+Cancérologie (IRIC), Université de Montréal, Montreal, QC, Canada. (4)Department 
+of Physiology, McGill University, Montreal, QC, Canada Department of Medicine,
+McGill University, Montreal, QC, Canada john.white@mcgill.ca.
+
+We identified a novel interaction between ligand-dependent corepressor (LCoR) and
+the corepressor KRAB-associated protein-1 (KAP-1). The two form a complex with
+C2H2 zinc-finger transcription factor ZBRK1 on an intronic binding site in the
+growth arrest and DNA-damage-inducible a (GADD45A) gene and a novel site in the
+fibroblast growth factor 2 (FGF2) gene. Chromatin at both sites is enriched for
+histone methyltransferase SETDB1 and histone 3 lysine 9 trimethylation, a
+repressive epigenetic mark. Depletion of ZBRK1, KAP-1 or LCoR led to elevated
+GADD45A and FGF2 expression in malignant and non-malignant breast epithelial
+cells, and caused apoptotic death. Loss of viability could be rescued by
+simultaneous knockdowns of FGF2 and transcriptional coregulators or by blocking
+FGF2 function. FGF2 was not concurrently expressed with any of the
+transcriptional coregulators in breast malignancies, suggesting an inverse
+correlation between their expression patterns. We propose that ZBRK1, KAP-1 and
+LCoR form a transcriptional complex that silences gene expression, in particular 
+FGF2, which maintains breast cell viability. Given the broad expression patterns 
+of both LCoR and KAP-1 during development and in the adult, this complex may have
+several regulatory functions that extend beyond cell survival, mediated by
+interactions with ZBRK1 or other C2H2 zinc-finger proteins.
+
+© The Author(s) 2014. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+PMCID: PMC4066800
+PMID: 24829459  [PubMed - indexed for MEDLINE]
+
+
+2. Anal Chem. 2014 May 20;86(10):4949-55. doi: 10.1021/ac5003728. Epub 2014 May 6.
+
+New quantitative structure-fragmentation relationship strategy for chemical
+structure identification using the calculated enthalpy of formation as a
+descriptor for the fragments produced in electron ionization mass spectrometry: a
+case study with tetrachlorinated biphenyls.
+
+Dinca N(1), Dragan S, Dinca M, Sisu E, Covaci A.
+
+Author information: 
+(1)"Aurel Vlaicu" University , Arad, 310330, Romania.
+
+Differential mass spectrometry correlated with quantum chemical calculations
+(QCC-<U+0394>MS) has been shown to be an efficient tool for the chemical structure
+identification (CSI) of isomers with similar mass spectra. For this type of
+analysis, we report here a new strategy based on ordering (ORD), linear
+correlation (LCOR) algorithms, and their coupling, to filter the most probable
+structures corresponding to similar mass spectra belonging to a group with dozens
+of isomers (e.g., tetrachlorinated biphenyls, TeCBs). This strategy quantifies
+and compares the values of enthalpies of formation (<U+0394>(f)H) obtained by QCC for
+some isobaric ions from the electron ionization (EI)-MS mass spectra, to the
+corresponding relative intensities. The result of CSI is provided in the form of 
+lists of decreasing probabilities calculated for all the position-isomeric
+structures using the specialized software package CSI-Diff-MS Analysis 3.1.1. The
+simulation of CSI with ORD, LCOR, and their coupling of six TeCBs (IUPAC no. 44, 
+46, 52, 66, 74, and 77) has allowed us to find the best semiempirical
+molecular-orbital methods for several of their common isobaric fragments. The
+study of algorithms and strategy for the entire group of TeCBs (42 isomers) was
+made with one of the optimal variants for the computation of <U+0394>(f)H using
+semiempirical molecular orbital methods of HyperChem: AM1 for M(+•) and [M -
+4Cl](+•) ions and RM1 for [M - Cl](+) and [M - 2Cl](+•). The analytical
+performance of ORD, LCOR, and their coupling resulted from the CSI simulation of 
+an analyte of known structure, using a decreasing number of isomeric standards, s
+= 5, 4, 3, and 2. Compared with the results obtained by a classical library
+search for TeCB isomers, the novel strategies of assigning structures of isomers 
+with very similar mass spectra based on ORD, LCOR, and their coupling were much
+more efficient, because they provide the correct structure at the top of the
+probability list. Databases used in these CSI do not contain mass spectra, as in 
+the case of a library search, but a series of <U+0394>(f)H values obtained by QCC. These
+techniques are capable of relating relative intensities to the chemical
+structures of analytes via <U+0394>(f)H of ions which turns out to be a good
+quantitative structure-fragmentation relationship (QSFR) descriptor.
+
+PMID: 24773183  [PubMed - indexed for MEDLINE]
+
+
+3. J Biol Chem. 2012 Mar 16;287(12):8662-74. doi: 10.1074/jbc.M111.311605. Epub 2012
+Jan 25.
+
+Ligand-dependent corepressor (LCoR) recruitment by Kruppel-like factor 6 (KLF6)
+regulates expression of the cyclin-dependent kinase inhibitor CDKN1A gene.
+
+Calderon MR(1), Verway M, An BS, DiFeo A, Bismar TA, Ann DK, Martignetti JA,
+Shalom-Barak T, White JH.
+
+Author information: 
+(1)Department of Physiology, McGill University, Montreal, Quebec, Canada.
+
+The widely expressed transcriptional coregulator, ligand-dependent corepressor
+(LCoR), initially characterized as a regulator of nuclear receptor-mediated
+transactivation, functions through recruitment of C-terminal binding proteins
+(CtBPs) and histone deacetylases (HDACs) to its N-terminal and central domains,
+respectively. We performed a yeast two-hybrid screen for novel cofactors, and
+identified an interaction between the C-terminal domain of LCoR and the
+transcription factor Krüppel-like factor 6 (KLF6), a putative tumor suppressor in
+prostate cancer. Subsequent experiments revealed LCoR regulation of several KLF6 
+target genes notably p21(WAF1/CIP1) (CDKN1A) and to a lesser extent E-cadherin
+(CDH1), indicating that LCoR regulates gene transcription through multiple
+classes of transcription factors. In multiple cancer cells, LCoR and KLF6 bind
+together on the promoters of the genes encoding CDKN1A and CDH1. LCoR contributes
+to KLF6-mediated transcriptional repression in a promoter- and cell
+type-dependent manner. Its inhibition of reporter constructs driven by the CDKN1A
+and CDH1 promoters in PC-3 prostate carcinoma cells is sensitive to treatment
+with the HDAC inhibitor trichostatin A. Additionally, the LCoR cofactor CtBP1
+bound the same promoters and augmented the LCoR-dependent repression in PC-3
+cells. Consistent with their inferred roles in transcriptional repression,
+siRNA-mediated knockdown of KLF6, LCoR, or CtBP1 in PC-3 cells induced expression
+of CDKN1A and CDH1 and additional KLF6 target genes. We propose a novel model of 
+LCoR function in which promoter-bound KLF6 inhibits transcription of the CDKN1A
+gene and other genes as well by tethering a transcriptional corepressor complex
+containing LCoR, with specific contributions by CtBP1 and HDACs.
+
+PMCID: PMC3308733
+PMID: 22277651  [PubMed - indexed for MEDLINE]
+
+
+4. J Biol Chem. 2011 Oct 28;286(43):37108-17. doi: 10.1074/jbc.M111.292771. Epub
+2011 Aug 19.
+
+Ligand-dependent corepressor acts as a novel androgen receptor corepressor,
+inhibits prostate cancer growth, and is functionally inactivated by the Src
+protein kinase.
+
+Asim M(1), Hafeez BB, Siddiqui IA, Gerlach C, Patz M, Mukhtar H, Baniahmad A.
+
+Author information: 
+(1)Department of Dermatology, University of Wisconsin, Madison, Wisconsin, USA.
+
+Comment in
+    J Urol. 2012 Jul;188(1):326.
+
+The activated androgen receptor (AR) promotes prostate cancer (PCa) growth. AR
+antagonists repress the AR by recruitment of corepressors. Not much is known
+about the inactivation of AR by corepressors in the presence of agonists
+(androgens). Here we show that the corepressor LCoR acts as an androgen-dependent
+corepressor that represses human PCa growth in vivo. In line with this,
+progressive decrease of ligand-dependent corepressor expression was observed in
+the PCa TRAMP mouse model with increasing age. LCoR interacts with AR and is
+recruited to chromatin in an androgen-induced manner. Unexpectedly, the LXXLL
+motif of LCoR is dispensable for interaction with the AR. Rather, the data
+indicate that LCoR interacts with the AR DNA binding domain on DNA.
+Interestingly, the interaction of LCoR with AR is inhibited by signaling pathways
+that are associated with androgen-independent PCa. Here we also show that the Src
+kinase inactivates the corepressive function of LCoR. Interfering with endogenous
+Src function by a dominant negative Src mutant, the growth inhibitory activity of
+LCoR is enhanced in vivo in a xenograft mouse model system. Thus, our studies
+indicate a role of LCoR as an AR corepressor and a tumor suppressor. Further, the
+decreased expression or inactivation of LCoR is as an important step toward PCa
+carcinogenesis in vivo.
+
+PMCID: PMC3199458
+PMID: 21856747  [PubMed - indexed for MEDLINE]
+
+
+5. J Hepatol. 2012 Jan;56(1):248-54. doi: 10.1016/j.jhep.2011.07.014. Epub 2011 Aug 
+7.
+
+Ligand-dependent corepressor acts as a novel corepressor of thyroid hormone
+receptor and represses hepatic lipogenesis in mice.
+
+Song Y(1), Shan S, Zhang Y, Liu W, Ding W, Ren W, Xia H, Li X, Zhang Q, Zhao L,
+Li X, Yan J, Ying H.
+
+Author information: 
+(1)Key Laboratory of Nutrition and Metabolism, Institute for Nutritional
+Sciences, Shanghai Institutes for Biological Sciences, Graduate School of the
+Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai 200031, China.
+
+BACKGROUND & AIMS: Transcriptional co-regulators assist nuclear receptors to
+control the transcription and maintain the metabolic homeostasis.
+Ligand-dependent corepressor (LCOR) was reported to function as a transcriptional
+corepressor in vitro. We found LCOR expression decreased in fatty livers of
+leptin-deficient (ob/ob) mice, diet-induced obese mice, as well as patients,
+suggesting LCOR may play a role in lipid homeostasis. We sought to investigate
+the physiological role of LCOR in vivo and elucidate the underlining molecular
+mechanisms.
+METHODS: The effect of LCOR on hepatic lipid accumulation and thyroid hormone
+receptor (TR) mediated expression of lipogenic genes was studied in vitro and in 
+vivo.
+RESULTS: Ectopic expression of LCOR via intravenous infection with LCOR
+adenovirus decreased the hepatic triglyceride level in wild type, ob/ob, and
+diet-induced obese mice. Interestingly, overexpression of LCOR repressed the
+thyroid hormone induced expression of lipogenic genes and non-lipogenic genes,
+and ameliorated hepatic steatosis in obese mice, suggesting that LCOR might
+regulate lipogenesis as a novel TR corepressor. Furthermore, our study revealed
+that LCOR could interact with TRß1 in the presence of the ligand, which resulted 
+in competitive binding and reduced recruitment of steroid receptor
+coactivator-1/3 (SRC-1/3) to the promoter region of TR target genes.
+CONCLUSIONS: Our data suggest that LCOR is likely to suppress TRß1-mediated
+hepatic lipogenesis by decreasing binding and recruitment of SRCs to TRß1. Our
+study reveals the physiological function of hepatic LCOR in lipid metabolism and 
+the mechanism by which LCOR regulates lipogenesis. Hepatic LCOR may be a
+potential target for treating hepatic steatosis.
+
+Copyright © 2011 European Association for the Study of the Liver. Published by
+Elsevier B.V. All rights reserved.
+
+PMID: 21827732  [PubMed - indexed for MEDLINE]
+
+
+6. Exp Biol Med (Maywood). 2011 Jun 1;236(6):672-80. doi: 10.1258/ebm.2011.010349.
+Epub 2011 May 12.
+
+miR-615-3p promotes the phagocytic capacity of splenic macrophages by targeting
+ligand-dependent nuclear receptor corepressor in cirrhosis-related portal
+hypertension.
+
+Jiang A(1), Zhang S, Li Z, Liang R, Ren S, Li J, Pu Y, Yang J.
+
+Author information: 
+(1)Department of Surgery, Second Affiliated Hospital, School of Medicine, Xi’an
+Jiaotong University, Xi’an, China.
+
+Hypersplenism is a condition in which the spleen is overactive. It is common in
+patients with cirrhosis-related portal hypertension. The over-activated
+hemophagocytic splenic macrophages are an important cause of hypersplenism.
+MicroRNAs (miRNAs) are 21-22 nt single-stranded RNAs expressed endogenously,
+which play important roles in many diseases. We have found by microarray,
+previously, that miR-615-3p is highly expressed in splenic macrophages of
+hypersplenism. In this study, we found that miR-615-3p enhanced the phagocytic
+capacity of splenic macrophages. Bioinformatics analysis indicated that
+ligand-dependent nuclear receptor corepressor (LCoR) was a potential
+phagocytosis-related target of miR-615-3p. This was proved by dual luciferase
+assay and Western blot in THP-1 cells and normal/hypersplenisum splenic
+macrophages. Our results showed that the presence of miR-615-3p repressed the
+expression of LCoR, a derepressor of peroxisome proliferator-activated receptor
+gamma (PPAR<U+03B3>), which has been confirmed to be able to promote the phagocytic
+capacity of macrophages. In conclusion, high expression of miR-615-3p in
+over-activated splenic macrophages depresses LCoR expression, low level of LCoR
+derepresses the expression of PPAR<U+03B3> and finally upregulated PPAR<U+03B3> enhances the
+phagocytic capacity of splenic macrophages. This finding might be useful in the
+study of hypersplenism and other macrophage-associated diseases.
+
+PMID: 21565892  [PubMed - indexed for MEDLINE]
+
+
+7. Eur J Radiol. 2011 Dec;80(3):e531-5. doi: 10.1016/j.ejrad.2010.12.062. Epub 2011 
+Feb 18.
+
+Tracheal morphology and collapse in COPD: correlation with CT indices and
+pulmonary function test.
+
+Lee HJ(1), Seo JB, Chae EJ, Kim N, Lee CW, Oh YM, Lee SD.
+
+Author information: 
+(1)Department of Radiology and Research Institute of Radiology, University of
+Ulsan College of Medicine, Asan Medical Center, 388-1, Pungnap-dong, Songpa-gu,
+Seoul 138-736, Republic of Korea. wberry@naver.com
+
+OBJECTIVES: To assess the tracheal morphologic changes using CT in COPD (chronic 
+obstructive lung disease) patients and to assess correlation between them and PFT
+(pulmonary function test) and CT parameters.
+MATERIALS AND METHODS: Ninety-two healthy individuals and 115 patients with COPD 
+who underwent volumetric inspiration/expiration CT scanning were included. The
+Lsag, Lcor, and the tLA were measured. The TI was defined as the ratio of
+Lcor/Lsag. The tracheal morphologic changes (tLA, TI, and collapsibility) were
+compared in healthy individuals and COPD. In COPD patients, correlation of the
+tracheal morphologic change with PFT and CT parameters was assessed.
+RESULTS: The TIs in the COPD patients were significantly lower than those in the 
+control group (0.80±0.15 vs. 0.88±0.11, Mean±SD) (p<0.01). In COPD patients, TI
+correlated with FEV1 (r=0.29, p=<0.01), FEV1/FVC (r=0.26, p<0.01), and the GOLD
+stage (r=-0.26, p<0.01). TI showed significant correlation with EI on both
+inspiration and expiration CT (r=-0.19, p=0.04 and r=-0.23, p=0.02), MLD on
+expiration CT (r=0.27, p<0.01), CT-ATI (r=0.34, p<0.01), and with LV on
+expiration CT (r=-0.25, p<0.01).
+CONCLUSION: Among the tracheal morphologic changes, the most significant change
+in COPD patients compared with that in the control group, was the TI. In COPD
+patients, the tracheal morphologic change showed clinically significant
+correlation with severity of emphysema and CT indices.
+
+Copyright © 2011. Published by Elsevier Ireland Ltd.
+
+PMID: 21315531  [PubMed - indexed for MEDLINE]
+
+
+8. J Biol Chem. 2009 Oct 30;284(44):30275-87. doi: 10.1074/jbc.M109.051201. Epub
+2009 Sep 10.
+
+Ligand-dependent corepressor LCoR is an attenuator of progesterone-regulated gene
+expression.
+
+Palijan A(1), Fernandes I, Verway M, Kourelis M, Bastien Y, Tavera-Mendoza LE,
+Sacheli A, Bourdeau V, Mader S, White JH.
+
+Author information: 
+(1)Department of Physiology, McGill University, Montreal, Quebec H3G 1Y6, Canada.
+
+Ligand-dependent corepressor LCoR interacts with the progesterone receptor (PR)
+and estrogen receptor ERalpha in the presence of hormone. LCoR contains tandem
+N-terminal PXDLS motifs that recruit C-terminal-binding protein (CtBP)
+corepressors as well as a C-terminal helix-turn-helix (HTH) domain. Here, we
+analyzed the function of these domains in coregulation of PR- and
+ERalpha-regulated gene expression. LCoR and CtBP1 colocalize in nuclear bodies
+that also contain CtBP-interacting protein CtIP and polycomb group repressor
+complex marker BMI1. Coexpression of CtBP1 in MCF7 or T47D breast cancer cells
+augmented corepression by LCoR, whereas coexpression of CtIP did not, consistent 
+with direct interaction of LCoR with CtBP1, but not CtIP. The N-terminal region
+containing the PXDLS motifs is necessary and sufficient for CTBP1 recruitment and
+essential for full corepression. However, LCoR function was also strongly
+dependent on the helix-turn-helix domain, as its deletion completely abolished
+corepression. LCoR, CtBP, and CtIP were recruited to endogenous PR- and
+ERalpha-stimulated genes in a hormone-dependent manner. Similarly, LCoR was
+recruited to estrogen-repressed genes, whereas hormone treatment reduced CtBP1
+binding. Small interfering RNA-mediated knockdown of LCoR or CtBP1 augmented
+expression of progesterone- and estrogen-stimulated reporter genes as well as
+endogenous progesterone-stimulated target genes. In contrast, their ablation had 
+gene-specific effects on ERalpha-regulated transcription that generally led to
+reduced gene expression. Taken together, these results show that multiple domains
+contribute to LCoR function. They also reveal a role for LCoR and CtBP1 as
+attenuators of progesterone-regulated transcription but suggest that LCoR and
+CtBP1 can act to enhance transcription of some genes.
+
+PMCID: PMC2781583
+PMID: 19744932  [PubMed - indexed for MEDLINE]
+
+
+9. J Biol Chem. 2009 Oct 30;284(44):30264-74. doi: 10.1074/jbc.M109.045526. Epub
+2009 Sep 10.
+
+Function of histone deacetylase 6 as a cofactor of nuclear receptor coregulator
+LCoR.
+
+Palijan A(1), Fernandes I, Bastien Y, Tang L, Verway M, Kourelis M,
+Tavera-Mendoza LE, Li Z, Bourdeau V, Mader S, Yang XJ, White JH.
+
+Author information: 
+(1)Department of Physiology, McGill University, Montreal, Quebec H3G 1Y6, Canada.
+
+Ligand-dependent corepressor LCoR was identified as a protein that interacts with
+the estrogen receptor alpha (ERalpha) ligand binding domain in a
+hormone-dependent manner. LCoR also interacts directly with histone deacetylase 3
+(HDAC3) and HDAC6. Notably, HDAC6 has emerged as a marker of breast cancer
+prognosis. However, although HDAC3 is nuclear, HDAC6 is cytoplasmic in many
+cells. We found that HDAC6 is partially nuclear in estrogen-responsive MCF7
+cells, colocalizes with LCoR, represses transactivation of estrogen-inducible
+reporter genes, and augments corepression by LCoR. In contrast, no repression was
+observed upon HDAC6 expression in COS7 cells, where it is exclusively
+cytoplasmic. LCoR binds to HDAC6 in vitro via a central domain, and repression by
+LCoR mutants lacking this domain was attenuated. Kinetic chromatin
+immunoprecipitation assays revealed hormone-dependent recruitment of LCoR to
+promoters of ERalpha-induced target genes in synchrony with ERalpha. HDAC6 was
+also recruited to these promoters, and repeat chromatin immunoprecipitation
+experiments confirmed the corecruitment of LCoR with ERalpha and with HDAC6.
+Remarkably, however, although we find evidence for corecruitment of LCoR and
+ERalpha on genes repressed by the receptor, LCoR and HDAC6 failed to
+coimmunoprecipitate, suggesting that they are part of distinct complexes on these
+genes. Although small interfering RNA-mediated knockdown of LCoR or HDAC6
+augmented expression of an estrogen-sensitive reporter gene in MCF7 cells,
+unexpectedly their ablation led to reduced expression of some endogenous estrogen
+target genes. Taken together, these data establish that HDAC6 can function as a
+cofactor of LCoR but suggest that they may act in enhance expressing some target 
+genes.
+
+PMCID: PMC2781582
+PMID: 19744931  [PubMed - indexed for MEDLINE]
+
+
+10. Int J Cancer. 2008 Jul 1;123(1):66-72. doi: 10.1002/ijc.23480.
+
+Estrogen-mediated downregulation of CD24 in breast cancer cells.
+
+Kaipparettu BA(1), Malik S, Konduri SD, Liu W, Rokavec M, van der Kuip H, Hoppe
+R, Hammerich-Hille S, Fritz P, Schroth W, Abele I, Das GM, Oesterreich S, Brauch 
+H.
+
+Author information: 
+(1)Division of Molecular Mechanisms of Origin and Treatment of Breast Cancer, Dr.
+Margarete Fischer-Bosch-Institute of Clinical Pharmacology, Stuttgart, Germany.
+kaippare@bcm.edu
+
+We have previously reported on the relevance of the prevalence of
+CD44(+)/CD24(-/low) cells in primary breast tumors. To study regulation of CD24, 
+we queried a number of publicly available expression array studies in breast
+cancer cells and found that CD24 was downregulated upon estrogen treatment. We
+confirmed this estrogen-mediated repression of CD24 mRNA by quantitative
+real-time PCR in MCF7, T47D and ZR75-1 cells. Repression was also seen at the
+protein level as measured by flow cytometry. CD24 was not downregulated in the ER
+alpha negative MDA-MB-231 cells suggesting that ER alpha was necessary. This was 
+further confirmed by ER alpha silencing in MCF7 cells resulting in increased CD24
+levels and by reintroduction of ER alpha into C4-12 cells resulting in decreased 
+CD24 levels. Estrogen treatment did not alter half-life of CD24 mRNA and new
+protein synthesis was not essential for repression, suggesting a primary
+transcriptional effect. Histone deacetylase inhibition by Trichostatin A
+completely abolished the repression, but decrease of the ER alpha corepressors
+NCoR, LCoR, RIP140, silencing mediator of retinoid and thyroid hormone receptors,
+SAFB1 and SAFB2 by siRNA or overexpression of SAFB2, NCoR and silencing mediator 
+of retinoid and thyroid hormone receptors had no effect. In silico promoter
+analyses led to the identification of two estrogen responsive elements in the
+CD24 promoter, one of which was able to bind ER alpha as shown by electrophoretic
+mobility shift assay and chromatin immunoprecipitation assay. Together, our
+results show that CD24 is repressed by estrogen and that this repression is a
+direct transcriptional effect depending on ER alpha and histone deacetylases.
+
+(c) 2008 Wiley-Liss, Inc.
+
+PMCID: PMC2587263
+PMID: 18404683  [PubMed - indexed for MEDLINE]
+
+
+11. JSLS. 2007 Jan-Mar;11(1):76-80.
+
+Laparoscopic versus open right hemicolectomy for carcinoma of the colon.
+
+Tong DK(1), Law WL.
+
+Author information: 
+(1)Department of Surgery, University of Hong Kong Medical Centre, Queen Mary
+Hospital, Hong Kong.
+
+OBJECTIVE: This study aimed to compare the outcomes of laparoscopic resection
+(LR) with open resection (OR) for right-sided colon cancer.
+METHODS: During the study period from June 2000 to December 2004, 182 patients
+(84 men) underwent elective resection for cancer of the right colon. Laparoscopic
+resection was performed in 77 patients, while 105 patients had open operations.
+Patients who underwent operations on an emergency basis were excluded. Data on
+the patients' demographics, operative details, and postoperative complications
+were collected prospectively. The outcomes of patients with laparoscopic
+resection were compared with those of patients with open surgery.
+RESULTS: There was no difference in the age, sex, presence of premorbid medical
+conditions, and blood loss between the 2 groups. The mean operative time for open
+resection was 115.4 minutes and that for laparoscopic resection was 165.1 minutes
+(P<0.001). Among the 77 patients who underwent laparoscopic resection, 7 (9%)
+required conversion to an open operation. There was no difference in
+postoperative surgically related complications including wound infection,
+leakage, intestinal obstruction, postoperative ileus. Nonsurgical-related
+complications were also similar. The median time to resumption of a normal diet
+was 3 days and 4 days in the laparoscopic and open groups, respectively. The
+median hospital stay in patients with laparoscopic resection was significantly
+shorter than in patients with open surgery (6.0 days vs 7.0 days, P<0.001). The
+2-year overall survival rates were 74% in both groups (P=0.904). In the converted
+to open (LCOR) group, the hospital stay was significantly longer (LR vs OR vs
+LCOR, 5.5 days vs 7.0 days vs 9.0 days respectively, P<0.001).
+CONCLUSION: Laparoscopic right hemicolectomy is a safe option for cancers of the 
+right colon. It is associated with a shorter hospital stay and earlier resumption
+of a normal diet. Mortality and morbidity are similar to that with the open
+approach. There is no compromise in the survival of patients.
+
+PMCID: PMC3015791
+PMID: 17651561  [PubMed - indexed for MEDLINE]
+
+
+12. Toxicol Appl Pharmacol. 2007 Sep 15;223(3):288-98. Epub 2007 Jun 14.
+
+Corepressors of agonist-bound nuclear receptors.
+
+Gurevich I(1), Flores AM, Aneskievich BJ.
+
+Author information: 
+(1)Graduate Program in Pharmacology/Toxicology, Department of Pharmaceutical
+Sciences, School of Pharmacy, University of Connecticut, Storrs, CT 06269, USA.
+
+Nuclear receptors (NRs) rely on coregulator proteins to modulate transcription of
+target genes. NR coregulators can be broadly subdivided into coactivators which
+potentiate transcription and corepressors which silence gene expression. The
+prevailing view of coregulator action holds that in the absence of agonist the
+receptor interacts with a corepressor via the corepressor nuclear receptor
+(CoRNR, "corner") box motifs within the corepressor. Upon agonist binding, a
+conformational change in the receptor causes the shedding of corepressor and the 
+binding of a coactivator which interacts with the receptor via NR boxes within
+the coregulator. This view was challenged with the discovery of RIP140 which acts
+as a NR corepressor in the presence of agonist and utilizes NR boxes. Since then 
+a number of other corepressors of agonist-bound NRs have been discovered. Among
+them are LCoR, PRAME, REA, MTA1, NSD1, and COPR1 Although they exhibit a great
+diversity of structure, mechanism of repression and pathophysiological function, 
+these corepressors frequently have one or more NR boxes and often recruit histone
+deacetylases to exert their repressive effects. This review highlights these more
+recently discovered corepressors and addresses their potential functions in
+transcription regulation, disease pharmacologic responses and xenobiotic
+metabolism.
+
+PMCID: PMC2148130
+PMID: 17628626  [PubMed - indexed for MEDLINE]
+
+
+13. Cancer Res. 2005 Sep 1;65(17):7856-65.
+
+Benzodithiophenes potentiate differentiation of acute promyelocytic leukemia
+cells by lowering the threshold for ligand-mediated corepressor/coactivator
+exchange with retinoic acid receptor alpha and enhancing changes in
+all-trans-retinoic acid-regulated gene expression.
+
+Xu K(1), Guidez F, Glasow A, Chung D, Petrie K, Stegmaier K, Wang KK, Zhang J,
+Jing Y, Zelent A, Waxman S.
+
+Author information: 
+(1)Section of Hemato-Oncology, Institute of Cancer Research, London, United
+Kingdom.
+
+Differentiation induction is an effective therapy for acute promyelocytic
+leukemia (APL), which dramatically responds to all-trans-retinoic acid (ATRA).
+Recent studies have indicated that combinatorial use of retinoid and nonretinoid 
+compounds, such as histone deacetylase inhibitors, arsenics, and PKA agonists,
+has higher therapeutic value in this disease and potentially in other
+malignancies. In a screen of 370 compounds, we identified benzodithiophene
+analogues as potent enhancers of ATRA-induced APL cell differentiation. These
+effects were not associated with changes in global histone acetylation and, for
+the most potent compounds, were exerted at very low nanomolar concentrations, and
+were paralleled by enhancement of some, but not all, ATRA-modulated gene
+expressions. Investigating the mechanism underlying the effects of these drugs on
+ATRA-induced APL cell differentiation, we have shown that benzodithiophenes
+enhance ATRA-mediated dissociation and association of corepressor N-CoR and
+coactivator p300 acetyltransferase, respectively, with retinoic acid receptor
+(RAR) alpha proteins. These data suggest that benzodithiophenes act at the level 
+of receptor activation, possibly by affecting posttranslational modification of
+the receptor (and/or coregulators), thus leading to an enhancement in
+ATRA-mediated effects on gene expression and APL cell differentiation. Given the 
+specificities of these low benzodithiophene concentrations for PML-RARalpha and
+RARalpha, these drugs may be useful for combinatorial differentiation therapy of 
+APL and possibly other acute myelogenous leukemia subtypes in which the overall
+ATRA signaling is suppressed.
+
+PMID: 16140955  [PubMed - indexed for MEDLINE]
+
+
+14. Vitam Horm. 2004;68:123-43.
+
+Corepressor recruitment by agonist-bound nuclear receptors.
+
+White JH(1), Fernandes I, Mader S, Yang XJ.
+
+Author information: 
+(1)Department of Physiology, McGill University, McIntyre Medical Sciences Bldg,
+Montreal, Quebec H3G 1Y6, Canada.
+
+Members of the nuclear receptor superfamily are ligand-regulated transcription
+factors that are composed of a series of conserved domains. These receptors are
+targets of a wide range of lipophilic signaling molecules that modulate many
+aspects of physiology and metabolism. Binding of cognate ligands to receptors
+induces a conformational change in the ligand binding domain (LBD) that creates a
+pocket for recruitment of coregulatory proteins, which are essential for
+ligand-dependent regulation of transcription. Several coregulatory proteins that 
+interact with hormone-bound receptors contain characteristic helical LXXLL
+motifs, known as nuclear receptor (NR) boxes. Generally, ligand binding to
+receptors is associated with activation of transcription, and most of the NR
+box-containing proteins characterized to date are coactivators. However, a full
+understanding of the function of hormone-bound receptors must also incorporate
+their recruitment of corepressors. The recent identification of ligand-dependent 
+corepressor (LCoR) is a case in point. LCoR contains a single NR box that
+mediates its hormone-dependent interaction with several nuclear receptors. It
+functions as a molecular scaffold that recruits several proteins that function in
+transcriptional repression. Remarkably, although the two proteins share only very
+limited homology, LCoR and another NR box-containing corepressor RIP140 recruit
+similar cofactors implicated in transcriptional repression, suggesting many
+parallels in their mechanisms of action. Corepressors such as LCoR and RIP140 may
+function in negative feedback loops to attenuate hormone-induced transactivation,
+act more transiently as part of a cycle of cofactors recruited to target
+promoters by ligand-bound receptors, or function in hormone-induced target gene
+repression.
+
+PMID: 15193453  [PubMed - indexed for MEDLINE]
+
+
+15. J Dent Child (Chic). 2003 Jan-Apr;70(1):65-70.
+
+A clinical study of the "open sandwich" technique in pediatric dental practice.
+
+Cannon ML(1).
+
+Author information: 
+(1)Division of Dentistry, Department of Clinical Surgery, Northwestern University
+Medical School, Chicago, USA. markcannon@attbi.com
+
+PURPOSE: This study evaluated the clinical efficacy of the "open sandwich"
+restoration for pediatric dental practice.
+METHODS: Three pediatric dentists used a standardized preparation and restorative
+technique to place the restorations. The prepared tooth was etched with a
+phosphoric acid semigel and rinsed. A resin modified glass ionomer (Fuji II LCor 
+Photac-Fil) was placed short of the margins and then light cured. The resin
+modified glass ionomer was covered with an occlusal layer of a microhybrid
+flowable composite (Aeliteflo or Flow-it). The same preparation for the
+experimental restorations was used for the control conventional amalgam (Tytin)
+restorations. The restorations were evaluated at 6-month intervals and ranked
+with a modified United States Public Heath Survey (USPHS) scale as follows: Alfa:
+No discernible marginal opening or stain; Beta: Slight opening of margin
+discernible with dental explorer, but without stain; Charlie: Open margin and
+stain; Delta: Recurrent caries or restoration failure. Restoration failures were 
+categorized according to etiology, pulpal necrosis, bruxism, marginal leakage,
+isthmus fracture, or adhesive failure.
+RESULTS: All recalled experimental restorations, except 8, were rated as either
+Alpha or Beta. Six failed due to isthmus fracture and 2 due to pulpal necrosis.
+Fifteen restorations had delaminating of the flowable composite from the resin
+modified glass ionomer. The use of the "open sandwich" technique compared
+favorably with a similar study using adhesive amalgam restorations.
+CONCLUSIONS: The "open sandwich" technique can be successfully used in a
+pediatric dental practice.
+
+PMID: 12762613  [PubMed - indexed for MEDLINE]
+
+
+16. J Cell Biol. 2003 Apr 28;161(2):223-8.
+
+Active repression by unliganded retinoid receptors in development: less is
+sometimes more.
+
+Weston AD(1), Blumberg B, Underhill TM.
+
+Author information: 
+(1)Institute for Systems Biology, 1441 N. 34th St., Seattle, WA 98103, USA.
+aweston@systemsbiology.org
+
+The retinoid receptors have major roles throughout development, even in the
+absence of ligand. Here, we summarize an emerging theme whereby gene repression, 
+mediated by unliganded retinoid receptors, can dictate cell fate. In addition to 
+activating transcription, retinoid receptors actively repress gene transcription 
+by recruiting cofactors that promote chromatin compaction. Two developmental
+processes for which gene silencing by the retinoid receptors is essential are
+head formation in Xenopus and skeletal development in the mouse. Inappropriate
+repression, by oncogenic retinoic acid (RA)**Abbreviations used in this paper:
+APL, acute promyelocytic leukemia; dnRARalpha, dominant-negative version of the
+RARalpha; E, embryonic age; HDAC, histone deacetylase; LCoR, ligand-dependent
+corepressor; NCoR, nuclear receptor corepressor; RA, retinoic acid; RAR, RA
+receptor; RARE, RXR homodimer bound to bipartite response element; RXR, retinoid 
+X receptor; TSA, trichostatin A; CYP26, cytochrome p450, 26; TR, thyroid hormone 
+receptor. receptor (RAR) fusion proteins, blocks myeloid differentiation leading 
+to a rare form of leukemia. Our current understanding of the developmental role
+of retinoid repression and future perspectives in this field are discussed.
+
+PMCID: PMC2172895
+PMID: 12719467  [PubMed - indexed for MEDLINE]
+
+
+17. Mol Cell. 2003 Jan;11(1):139-50.
+
+Ligand-dependent nuclear receptor corepressor LCoR functions by histone
+deacetylase-dependent and -independent mechanisms.
+
+Fernandes I(1), Bastien Y, Wai T, Nygard K, Lin R, Cormier O, Lee HS, Eng F,
+Bertos NR, Pelletier N, Mader S, Han VK, Yang XJ, White JH.
+
+Author information: 
+(1)Department of Physiology, McGill University, Montreal, Quebec, Canada H3G 1Y6.
+
+LCoR (ligand-dependent corepressor) is a transcriptional corepressor widely
+expressed in fetal and adult tissues that is recruited to agonist-bound nuclear
+receptors through a single LXXLL motif. LCoR binding to estrogen receptor alpha
+depends in part on residues in the coactivator binding pocket distinct from those
+bound by TIF-2. Repression by LCoR is abolished by histone deacetylase inhibitor 
+trichostatin A in a receptor-dependent fashion, indicating HDAC-dependent and
+-independent modes of action. LCoR binds directly to specific HDACs in vitro and 
+in vivo. Moreover, LCoR functions by recruiting C-terminal binding protein
+corepressors through two consensus binding motifs and colocalizes with CtBPs in
+the nucleus. LCoR represents a class of corepressor that attenuates
+agonist-activated nuclear receptor signaling by multiple mechanisms.
+
+PMID: 12535528  [PubMed - indexed for MEDLINE]
+
+
+18. Contemp Longterm Care. 1999 Dec;22(12):53.
+
+Telecare brings doctors and residents together.
+
+Gold DM(1).
+
+Author information: 
+(1)LCOR Senior Living, McLean, Virginia, USA.
+
+PMID: 10977332  [PubMed - indexed for MEDLINE]
+
+
+19. Gene. 1999 Mar 18;229(1-2):229-35.
+
+A plasmid-encoded two-component regulatory system involved in copper-inducible
+transcription in Lactococcus lactis.
+
+Khunajakr N(1), Liu CQ, Charoenchai P, Dunn NW.
+
+Author information: 
+(1)Cooperative Research Centre for Food Industry Innovation, Department of
+Biotechnology, University of New South Wales, Sydney 2052, Australia.
+
+Two regulatory genes (lcoR and lcoS) were identified from a plasmid-borne
+lactococcal copper resistance determinant and characterized by transcriptional
+fusion to the promoterless chloramphenicol acetyltransferase gene (cat). RT-PCR
+analysis indicates that lcoR and lcoS are organized within an operon, controlling
+the transcription of cat in a copper-inducible manner. The amino acid sequences
+deduced from lcoR and lcoS show homology to the response and sensor proteins of
+known two-component regulatory systems. Deletion within either lcoS or both genes
+inactivated the copper-dependent activity, suggesting the presence of no
+trans-acting lcoR and lcoS homologs in the lactococcal host chromosome. The
+transcription start site involved in copper induction was mapped by primer
+extension.
+
+PMID: 10095123  [PubMed - indexed for MEDLINE]
+
+
+20. Sheng Li Xue Bao. 1991 Aug;43(4):322-9.
+
+[Measurement of central motor conduction time (CMCT) in healthy Chinese
+subjects].
+
+[Article in Chinese]
+
+Ni YQ(1), Teng GX.
+
+Author information: 
+(1)Laboratory of Neurophysiology, China Medical University, Shemyang.
+
+Transcutaneous electrical stimulation of the central nervous system was used to
+measure CMCT between the human cerebral cortex and spinal cord. 64 normal
+volunteers (46 healthy adult males and 18 females, age of 20-67 years, body
+height of 156-185 cm) were recruited as experimental subjects. Action potentials 
+of muscles were recorded from upper limb (Thenar) and lower limb (Muscle tibialis
+anterior) following cortical and spinal stimulation. The cortical and spinal
+latent periods (Lcor., Lsp.) were measured and CMCT was obtained by subtracting
+Lsp. from Lcor. for each muscle. The CMCT between the cerebral cortex and the
+first thoracic (Th1) cord was 6.69 +/- 1.48 ms, while that between the cerebral
+cortex and the first lumber (L1) cord was 12.90 +/- 1.59 ms. Statistical analysis
+indicated that CMCT was not related to sex, age, body height and left or right
+side of the body as well. The motor conduction velocity in spinal cord (MCVsp)
+between Th1 and L1, [distance (Th1 to L1)/CMCT (Muscle tibialis anterior)-CMCT
+(Thenar)] was found to be 71.34 +/- 10.89 m/s, which corresponds to the
+conduction velocity of the large fibers in the pyramidal tract. The results of
+the present study are valuable in diagnosis and prognosis of motor system
+diseases in CNS.
+
+PMID: 1754899  [PubMed - indexed for MEDLINE]
+
+
+21. Eur Neurol. 1990;30(1):14-8.
+
+Magneto-electrical stimulation of central motor pathways compared with
+percutaneous electrical stimulation.
+
+Ugawa Y(1), Kohara N, Shimpo T, Mannen T.
+
+Author information: 
+(1)Department of Neurology, School of Medicine, University of Tokyo, Japan.
+
+The central motor conduction to the relaxed muscles was studied in 30 normal
+volunteers using magneto-electrical stimulation (MES) of the central motor
+pathways. The results were compared with those obtained by the percutaneous
+electrical stimulation technique (PES) described previously. None of the cortical
+and spinal latencies (Lcor and Lsp, respectively) and the central motor
+conduction time were different between MES and PES in the upper limb muscles. In 
+some lower limb muscles, however, the Lsps of MES were significantly shorter than
+those of PES. This was probably because the magnetic stimulation over the lumbar 
+spinal column activated the motor roots at their exit from the spinal canal
+rather than the level of conus medullaris, at which activation occurs in the
+electrical stimulation.
+
+PMID: 2298221  [PubMed - indexed for MEDLINE]
+
+
+22. Rinsho Shinkeigaku. 1989 Jan;29(1):8-12.
+
+[Magneto-electrical stimulation (MES)--compared with percutaneous electrical
+stimulation (PES)].
+
+[Article in Japanese]
+
+Ugawa Y, Kohara N, Shimpo T, Mannen T.
+
+The central motor conduction was studied in 30 normal volunteers using a recently
+developed magneto-electrical stimulation technique (MES). The results were
+compared with those obtained by percutaneous electrical stimulation technique
+(PES) described previously. We made a magnetic stimulator similar to that of
+Barker et al. To stimulate the motor cortex, the magnetic coil was placed over
+the head. It was placed over the seventh cervical spinous process (C7) for
+cervical stimulation, and the first lumbar spinous process (L1) for lumbar
+stimulation. Cortical stimulation was performed when the subjects were at rest,
+and also at during weak voluntary contraction in some of them. Recordings were
+made from the deltoid (Del), biceps brachii (Bi), extensor carpi radialis (ECR), 
+thenar, quadriceps femoris (Quad), tibialis anterior (TA) and flexor hallucis
+brevis (FHB) muscles with a pair of surface electrodes. The cortical and spinal
+latent periods (Lcor and Lsp, respectively) were measured. The central conduction
+time (CCT) was obtained by subtracting Lsp from Lcor for each muscle. In all
+subjects, responses were readily obtained by cortical, cervical and lumbar
+stimulations without discomfort in all the muscles examined. The cortical
+responses with amplitudes of more than 1mV could be recorded even in the lower
+limb muscles. There were no significant differences in Lsp and CCT between MES
+and PES, in all the upper limb muscles examined. The Lcors of the lower limb
+muscles obtained by MES were not different from those obtained by PES. However,
+the Lsps obtained by MES were significantly shorter than those by PES in the Quad
+and TA muscles.(ABSTRACT TRUNCATED AT 250 WORDS)
+
+PMID: 2743687  [PubMed - indexed for MEDLINE]
+
+
+23. Eur Neurol. 1989;29(3):135-40.
+
+Physiologic analysis of central motor pathways--simultaneous recording from
+multiple relaxed muscles.
+
+Ugawa Y(1), Genba K, Shimpo T, Mannen T.
+
+Author information: 
+(1)Department of Neurology, School of Medicine, University of Tokyo, Japan.
+
+The central motor pathways were studied with the technique of percutaneous
+electrical stimulation of the central nervous system in 40 normal volunteers.
+There were no significant differences between the right and left sides, or
+between males and females. A linear correlation between the cortical latency
+(Lcor) or the spinal latency (Lsp) and body height was observed, however, there
+was no correlation between the central conduction time (CCT) (Lcor-Lsp) and body 
+height. Consequently, the CCT appears to provide a reliable estimate of the
+function of central motor pathways. We have established normal values for eight
+muscles at rest that would be required for localizing a very small intraspinal
+lesion.
+
+PMID: 2731560  [PubMed - indexed for MEDLINE]
+
+

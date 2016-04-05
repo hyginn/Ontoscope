@@ -1,0 +1,927 @@
+
+1. Genom Data. 2015 Dec 1;7:90-1. doi: 10.1016/j.gdata.2015.11.028. eCollection
+2016.
+
+Microarray expression analysis of genes involved in innate immune memory in
+peritoneal macrophages.
+
+Yoshida K(1), Renard-Guillet C(2), Inoue K(3), Shirahige K(2), Okada-Hatakeyama
+M(3), Ishii S(1).
+
+Author information: 
+(1)Laboratory of Molecular Genetics, CREST Research Project of JST (Japan Science
+and Technology Agency), RIKEN Tsukuba institute, Tsukuba 305-0074, Japan.
+(2)Laboratory of Genome Structure and Function, Research Center for Epigenetic
+Disease, Institute of Molecular and Cellular Biosciences, University of Tokyo,
+Tokyo 153-8904, Japan. (3)Laboratory for Integrated Cellular Systems, RIKEN
+Center for Integrative Medical Sciences, Yokohama 230-0045, Japan.
+
+Immunological memory has been believed to be a feature of the adaptive immune
+system for long period, but recent reports suggest that the innate immune system 
+also exhibits memory-like reaction. Although evidence of innate immune memory is 
+accumulating, no in vivo experimental data has clearly implicated a molecular
+mechanism, or even a cell-type, for this phenomenon. In this study of data
+deposited into Gene Expression Omnibus (GEO) under GSE71111, we analyzed the
+expression profile of peritoneal macrophages isolated from mice pre-administrated
+with toll-like receptor (TLR) ligands, mimicking pathogen infection. In these
+macrophages, increased expression of a group of innate immunity-related genes was
+sustained over a long period of time, and these genes overlapped with
+ATF7-regulated genes. We conclude that ATF7 plays an important role in innate
+immune memory in macrophages.
+
+PMCID: PMC4778626
+PMID: 26981372  [PubMed]
+
+
+2. Blood. 2016 Jan 8. pii: blood-2015-07-655647. [Epub ahead of print]
+
+CARMA1- and MyD88-dependent activation of Jun/ATF-type AP-1 complexes is a
+hallmark of ABC diffuse large B-cell lymphomas.
+
+Juilland M(1), Gonzalez M(1), Erdmann T(2), Banz Y(3), Jevnikar Z(1), Hailfinger 
+S(1), Tzankov A(4), Grau M(5), Lenz G(6), Novak U(7), Thome M(8).
+
+Author information: 
+(1)Department of Biochemistry, University of Lausanne, Epalinges, Switzerland;
+(2)Translational Oncology, Department of Medicine A, Albert-Schweitzer-Campus 1, 
+University Hospital Muenster, Muenster, Germany; (3)Institute of Pathology,
+University of Bern, Bern, Switzerland; (4)Institute of Pathology, University
+Hospital Basel, Basel, Switzerland; (5)Department of Physics, Philipps-University
+Marburg, Marburg, Germany; (6)Cluster of Excellence EXC 1003, Cells in Motion,
+Muenster, Germany; (7)Department of Medical Oncology, Inselspital, Bern
+University Hospital, Bern, Switzerland. (8)Department of Biochemistry, University
+of Lausanne, Epalinges, Switzerland; margot.thomemiazza@unil.ch.
+
+A hallmark of the diffuse large B-cell lymphoma (DLBCL) of the activated B-cell
+(ABC) type, a molecular subtype characterized by adverse outcome, is constitutive
+activation of the transcription factor NF-<U+03BA>B, which controls expression of genes 
+promoting cellular survival and proliferation. Much less, however, is known about
+the role of the transcription factor AP-1 in ABC DLBCL. Here we show that AP-1,
+like NF-<U+03BA>B, was controlled by constitutive activation of the B-cell receptor
+and/or toll-like receptor signaling pathways in ABC DLBCL cell lines. In contrast
+to germinal center B-cell (GCB) DLBCL, ABC DLBCL cell lines expressed high levels
+of the AP-1 family members c-Jun, JunB and JunD, which formed heterodimeric
+complexes with the AP-1 family members ATF2, ATF3 and ATF7. Inhibition of these
+complexes by a dominant negative approach led to impaired growth of a majority of
+ABC DLBCL cell lines. Individual silencing of c-Jun, ATF2 or ATF3 decreased
+cellular survival, and revealed a c-Jun/ATF2-dependent control of ATF3
+expression. As a consequence, ATF3 expression was much higher in ABC versus GCB
+DLBCL cell lines. Samples derived from DLBCL patients showed a clear trend
+towards high and nuclear ATF3 expression in nodal DLBCL of the non-GC, or ABC
+subtype. These findings identify the activation of AP-1 complexes of the
+Jun/ATF-type as an important element controlling the growth of ABC DLBCL.
+
+Copyright © 2016 American Society of Hematology.
+
+PMID: 26747248  [PubMed - as supplied by publisher]
+
+
+3. Cell Cycle. 2016 Jan 2;15(1):3-4. doi: 10.1080/15384101.2015.1112687.
+
+Innate immune memory via ATF7-dependent epigenetic changes.
+
+Yoshida K(1), Ishii S(1).
+
+Author information: 
+(1)a Laboratory of Molecular Genetics, CREST Research Project of JST (Japan
+Science and Technology Agency), RIKEN Tsukuba Institute , Tsukuba , Ibaraki,
+Japan.
+
+PMID: 26556024  [PubMed - in process]
+
+
+4. Nat Immunol. 2015 Oct;16(10):1034-43. doi: 10.1038/ni.3257. Epub 2015 Aug 31.
+
+The transcription factor ATF7 mediates lipopolysaccharide-induced epigenetic
+changes in macrophages involved in innate immunological memory.
+
+Yoshida K(1), Maekawa T(1), Zhu Y(1,)(2), Renard-Guillet C(3), Chatton B(4),
+Inoue K(5), Uchiyama T(6), Ishibashi K(7), Yamada T(6), Ohno N(7), Shirahige
+K(3), Okada-Hatakeyama M(5), Ishii S(1,)(2).
+
+Author information: 
+(1)Laboratory of Molecular Genetics, CREST Research Project of the Japan Science 
+and Technology Agency, RIKEN Tsukuba Institute, Tsukuba, Japan. (2)Department of 
+Functional Genomics, Graduate School of Comprehensive Human Sciences, University 
+of Tsukuba, Tsukuba, Japan. (3)Laboratory of Genome Structure and Function,
+Research Center for Epigenetic Disease, Institute of Molecular and Cellular
+Biosciences, University of Tokyo, Tokyo, Japan. (4)Université de Strasbourg,
+UMR7242 Biotechnologie et Signalisation Cellulaire, Illkirch, France.
+(5)Laboratory for Integrated Cellular Systems, RIKEN Center for Integrative
+Medical Sciences, Yokohama, Japan. (6)Department of Biological Information, Tokyo
+Institute of Technology, Graduate School of Bioscience and Biotechnology,
+Yokohama, Japan. (7)Laboratory for Immunopharmacology of Microbial Products,
+School of Pharmacy, Tokyo University of Pharmacy &Life Sciences, Tokyo, Japan.
+
+Comment in
+    Nat Rev Immunol. 2015 Oct;15(10):596.
+
+Immunological memory is thought to be mediated exclusively by lymphocytes.
+However, enhanced innate immune responses caused by a previous infection increase
+protection against reinfection, which suggests the presence of innate
+immunological memory. Here we identified an important role for the
+stress-response transcription factor ATF7 in innate immunological memory. ATF7
+suppressed a group of genes encoding factors involved in innate immunity in
+macrophages by recruiting the histone H3K9 dimethyltransferase G9a. Treatment
+with lipopolysaccharide, which mimics bacterial infection, induced
+phosphorylation of ATF7 via the kinase p38, which led to the release of ATF7 from
+chromatin and a decrease in repressive histone H3K9me2 marks. A partially
+disrupted chromatin structure and increased basal expression of target genes were
+maintained for long periods, which enhanced resistance to pathogens. ATF7 might
+therefore be important in controlling memory in cells of the innate immune
+system.
+
+PMID: 26322480  [PubMed - indexed for MEDLINE]
+
+
+5. J Cancer Res Ther. 2015 Apr-Jun;11(2):319-23. doi: 10.4103/0973-1482.148688.
+
+Expression of activating transcription factor 7 is correlated with prognosis of
+colorectal cancer.
+
+Guo HQ(1), Ye S, Huang GL, Liu L, Liu OF, Yang SJ.
+
+Author information: 
+(1)Department of Medical Oncology, The Affiliated Cancer Hospital of Zhengzhou
+University; Department of Medical Oncology, Henan Province Cancer Hospital of
+Zhengzhou University, Zhengzhou 450 008, China.
+
+BACKGROUND: It is important to identify some tumor-related factors for early
+detection, treatment, and evaluation of prognosis in colorectal cancer (CRC). In 
+our study, we investigated the clinical and prognostic role of activating
+transcription factor 7 (ATF7) in CRC.
+MATERIALS AND METHODS: Expression of ATF7 was detected with immunohistochemistry 
+in 72 cases with complete follow-up data and post-operation tissue specimens.
+Correlation between ATF7 and other clinicopathological factors was calculated
+with Chi-square test and the impact of ATF7 on survival were analyzed with
+Log-rank test and Cox regression models.
+RESULTS: Among 72 cases, ATF7 expression was detected in 43 cases (59.7%) and 29 
+cases (40.3%) without ATF7 expression. The correlation between ATF7 expression
+and pathological stage was investigated (P = 0.041). The 5-year overall survival 
+(OS) of with or without ATF7 expression was 79% versus 51% respectively (P <
+0.001) and the 5-year progression free survival (PFS) was 74% versus 41% (P <
+0.001). The media OS was 69 months versus 52 months (P = 0.002) and the media PFS
+was 65 months versus 42 months (P = 0.002). ATF7 expression and numbers of lymph 
+nodes involvement were prognostic factors for OS according to univariated and
+multivariated analysis and for PFS it was ATF7 expression and lymph nodes
+involvement.
+CONCLUSION: It is negatively related between ATF7 expression and pathological
+stage and positive correlation with OS and PFS in CRC. ATF7 expression is a
+favorable factor for survival of patients with CRC.
+
+PMID: 26148593  [PubMed - in process]
+
+
+6. Cell Cycle. 2015;14(16):2655-66. doi: 10.1080/15384101.2015.1064568.
+
+ATF7 is stabilized during mitosis in a CDK1-dependent manner and contributes to
+cyclin D1 expression.
+
+Schaeffer E(1), Vigneron M, Sibler AP, Oulad-Abdelghani M, Chatton B, Donzeau M.
+
+Author information: 
+(1)a Université de Strasbourg; UMR7242 Biotechnologie et Signalisation
+Cellulaire; Ecole Supérieure de Biotechnologie de Strasbourg ; Illkirch Cedex ,
+France.
+
+The transcription factor ATF7 undergoes multiple post-translational
+modifications, each of which has distinct effects upon ATF7 function. Here, we
+show that ATF7 phosphorylation on residue Thr112 exclusively occurs during
+mitosis, and that ATF7 is excluded from the condensed chromatin. Both processes
+are CDK1/cyclin B dependent. Using a transduced neutralizing monoclonal antibody 
+directed against the Thr112 epitope in living cells, we could demonstrate that
+Thr112 phosphorylation protects endogenous ATF7 protein from degradation, while
+it has no effect on the displacement of ATF7 from the condensed chromatin. The
+crucial role of Thr112 phosphorylation in stabilizing ATF7 protein during mitosis
+was confirmed using phospho-mimetic and phospho-deficient mutants. Finally,
+silencing ATF7 by CRISPR/Cas9 technology leads to a decrease of cyclin D1 protein
+expression levels. We propose that mitotic stabilized ATF7 protein re-localizes
+onto chromatin at the end of telophase and contributes to induce the cyclin D1
+gene expression.
+
+PMCID: PMC4615120 [Available on 2016-06-23]
+PMID: 26101806  [PubMed - in process]
+
+
+7. PLoS One. 2015 Apr 7;10(4):e0122980. doi: 10.1371/journal.pone.0122980.
+eCollection 2015.
+
+A humanized leucine zipper-TRAIL hybrid induces apoptosis of tumors both in vitro
+and in vivo.
+
+Rozanov D(1), Spellman P(1), Savinov A(2), Strongin AY(3).
+
+Author information: 
+(1)Department of Molecular and Medical Genetics, Oregon Health and Science
+University, Portland, Oregon, United States of America. (2)Sanford Research,
+Sioux Falls, South Dakota, United States of America. (3)Sanford-Burnham Medical
+Research Institute, La Jolla, California, United States of America.
+
+Evidence suggests that stimulating apoptosis in malignant cells without
+inflicting collateral damage to the host's normal tissues is a promising cancer
+therapy. Chemo- and radiation therapies that, especially if combined, induce
+apoptosis in tumor cells have been used for treating cancer patients for decades.
+These treatments, however, are limited in their ability to discriminate between
+malignant and non-malignant cells and, therefore, produce substantial healthy
+tissue damage and subsequent toxic side-effects. In addition, as a result of
+these therapies, many tumor types acquire an apoptosis-resistant phenotype and
+become more aggressive and metastatic. Tumor necrosis factor-Related
+Apoptosis-Inducing Ligand (TRAIL) has been considered a promising and reliable
+selective inducer of apoptosis in cancerous cells. TRAIL, however, is not
+uniformly effective in cancer and multiple cancer cell types are considered
+resistant to natural TRAIL. To overcome this deficiency of TRAIL, we have earlier
+constructed a yeast-human hybrid leucine zipper-TRAIL in which the yeast GCN4-pII
+leucine zipper was fused to human TRAIL (GCN4-TRAIL). This construct exhibited a 
+significantly improved anti-tumor apoptotic activity and safety, but is
+potentially immunogenic in humans. Here, we report a novel, potent, and fully
+human ATF7 leucine zipper-TRAIL (ATF7-TRAIL) fusion construct that is expected to
+have substantially lower immunogenicity. In solution, ATF7-TRAIL exists solely as
+a trimer with a Tm of 80°C and is active against cancer cells both in vitro and
+in vivo, in a mouse tumor xenograft model. Our data suggest that our
+re-engineered TRAIL is a promising candidate for further evaluation as an
+antitumor agent.
+
+PMCID: PMC4388654
+PMID: 25849628  [PubMed - indexed for MEDLINE]
+
+
+8. PLoS One. 2014 Dec 29;9(12):e116048. doi: 10.1371/journal.pone.0116048.
+eCollection 2014.
+
+Cdk1-mediated phosphorylation of human ATF7 at Thr-51 and Thr-53 promotes
+cell-cycle progression into M phase.
+
+Hasegawa H(1), Ishibashi K(1), Kubota S(1), Yamaguchi C(1), Yuki R(1), Nakajo
+H(1), Eckner R(2), Yamaguchi N(1), Yokoyama KK(3), Yamaguchi N(1).
+
+Author information: 
+(1)Department of Molecular Cell Biology, Graduate School of Pharmaceutical
+Sciences, Chiba University, Chiba, Japan. (2)Department of Biochemistry and
+Molecular Biology, Rutgers New Jersey Medical School, Rutgers, The State
+University of New Jersey, Newark, New Jersey, United States of America.
+(3)Graduate Institute of Medicine, Kaohsiung Medical University, Kaohsiung,
+Taiwan.
+
+Activating transcription factor 2 (ATF2) and its homolog ATF7 are phosphorylated 
+at Thr-69/Thr-71 and at Thr-51/Thr-53, respectively, by stress-activated MAPKs
+regulating their transcriptional functions in G1 and S phases. However, little is
+known about the role of ATF2 and ATF7 in G2/M phase. Here, we show that
+Cdk1-cyclin B1 phosphorylates ATF2 at Thr-69/Thr-71 and ATF7 at Thr-51/Thr-53
+from early prophase to anaphase in the absence of any stress stimulation.
+Knockdown of ATF2 or ATF7 decreases the rate of cell proliferation and the number
+of cells in M-phase. In particular, the knockdown of ATF7 severely inhibits cell 
+proliferation and G2/M progression. The inducible expression of a mitotically
+nonphosphorylatable version of ATF7 inhibits G2/M progression despite the
+presence of endogenous ATF7. We also show that mitotic phosphorylation of ATF7
+promotes the activation of Aurora kinases, which are key enzymes for early
+mitotic events. These results suggest that the Cdk1-mediated phosphorylation of
+ATF7 facilitates G2/M progression, at least in part, by enabling Aurora
+signaling.
+
+PMCID: PMC4278844
+PMID: 25545367  [PubMed - indexed for MEDLINE]
+
+
+9. Biochem Biophys Res Commun. 2014 Oct 24;453(3):576-81. doi:
+10.1016/j.bbrc.2014.09.122. Epub 2014 Oct 6.
+
+The JNK1/JNK3 interactome--contributions by the JNK3 unique N-terminus and JNK
+common docking site residues.
+
+Chen WK(1), Yeap YY(1), Bogoyevitch MA(2).
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, Bio21 Molecular Science and 
+Biotechnology Institute, University of Melbourne, Victoria 3010, Australia.
+(2)Department of Biochemistry and Molecular Biology, Bio21 Molecular Science and 
+Biotechnology Institute, University of Melbourne, Victoria 3010, Australia.
+Electronic address: marieb@unimelb.edu.au.
+
+The c-Jun N-terminal Kinases (JNKs) play important roles in cell responses to
+stress or growth factor stimulation. The JNK1a1 isoform shares >90% identity with
+a predominantly neuronal JNK3a1 isoform, but JNK3a1 also includes a distinctive
+38 amino acid N-terminal sequence. To address the outstanding question of the
+potential for these JNK isoforms to have different binding partners that mediate 
+different biological actions, the work presented here refined the yeast
+two-hybrid approach to identify and categorize binding partners for JNK1a1 and
+JNK3a1. Specifically, site-directed mutagenesis of the JNK1a1 common docking (CD)
+domain that mediates typical JNK-binding domain (JBD)-dependent interactions,
+truncation of the distinctive JNK3 N-terminal domain (i.e. <U+0394>N JNK3a1), and
+interaction evaluation in the yeast two-hybrid system defined the interacting
+partners as either JNK1-specific interactors (ATF7, FUS, KCNE4, PIAS1, SHANK1,
+TKT), typical JBD-dependent interactors shared by JNK1a1 and JNK3a1 (AKAP6,
+BMPR2, EEF1A1, GFAP, GRIP2, GTF2F1, HDAC2, MAP1B, MYO9B, PTPN2, RABGAP1, RUSC2,
+SUMO1, SYPL1, TOPBP1, ZNF668), or JNK3-specific partners (ATXN1, NNAT, PTGDS)
+dependent on interaction with the JNK3 N-terminal extension. The interacting
+partners ATF7, AKAP6, and ATXN1 were explored further as representatives of these
+different classes. Two potential JBDs were identified in ATF7 as important for
+its interaction with JNK1a1, but additionally an interaction between ATF7 and <U+0394>N 
+JNK3a1 was shown to be JBD-dependent, suggesting that the JNK3a1 N-terminus
+prevents interaction with some proteins. For the shared partner AKAP6, one of the
+multiple potential JBDs predicted by sequence analysis was important for the
+AKAP6-JNK interaction in the yeast screening system as well as in mammalian
+cells. Finally, the ATXN1-JNK3a1 interaction was dependent on the JNK3a1
+N-terminus in a mammalian cell context. These studies therefore highlight a
+diversity of potential JNK-interacting partners with both JBD-dependent as well
+as JBD-independent modes of interaction.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+PMID: 25301550  [PubMed - indexed for MEDLINE]
+
+
+10. J Bone Miner Res. 2014 Jan;29(1):90-102. doi: 10.1002/jbmr.2026.
+
+TBK1 mediates critical effects of measles virus nucleocapsid protein (MVNP) on
+pagetic osteoclast formation.
+
+Sun Q(1), Sammut B, Wang FM, Kurihara N, Windle JJ, Roodman GD, Galson DL.
+
+Author information: 
+(1)Department of Medicine/Hematology-Oncology, University of Pittsburgh Cancer
+Institute, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA.
+
+Paget's disease of bone (PDB) is characterized by abnormal osteoclasts with
+unique characteristics that include increased sensitivity of osteoclast
+progenitors to 1,25(OH)2 D3 , receptor activator of NF-<U+03BA>B ligand (RANKL), and
+TNF-a; increased osteoclast numbers; and increased expression of IL-6 and several
+transcription factors. We recently reported that measles virus nucleocapsid
+protein (MVNP) plays a key role in the development of these abnormal osteoclasts.
+MVNP can induce the pagetic osteoclast phenotype in vitro and in vivo in
+TRAP-MVNP transgenic mice. However, the molecular mechanisms by which MVNP
+generates pagetic osteoclasts have not been determined. TANK-binding kinase 1
+(TBK1) and I<U+03BA>B kinase-<U+03F5> (IKK<U+03F5>) are IKK family members that complex with MVNP and 
+activate both IRF3 and NF-<U+03BA>B pathways. MVNP increases the amount of TBK1 protein 
+in bone marrow monocytes (BMM). Interestingly, we found that RANKL increased TBK1
+and IKK<U+03F5> early in osteoclast differentiation, suggesting a possible role in
+normal osteoclastogenesis. However, only TBK1 is further increased in osteoclasts
+formed by TRAP-MVNP BMM owing to increased TBK1 protein stability. TBK1
+overexpression induced IL6 promoter reporter activity, and elevated endogenous
+IL6 mRNA and p65 NF-<U+03BA>B, TAF12, and ATF7 proteins in several cell lines.
+Overexpression of TBK1 was insufficient to induce pagetic osteoclasts from WT BMM
+but synergized with MVNP to increase pagetic osteoclast formation from TRAP-MVNP 
+BMM. BX795 inhibition of TBK1 impaired MVNP-induced IL-6 expression in both
+NIH3T3 cells and BMM, and shRNA knockdown of Tbk1 in NIH3T3 cells impaired IL-6
+secretion induced by MVNP and decreased TAF12 and ATF7, factors involved in
+1,25(OH)2 D3 hypersensitivity of pagetic osteoclasts. Similarly, Tbk1 knockdown
+in BMM from TRAP-MVNP and WT mice specifically impaired development of the
+MVNP-induced osteoclast pagetic phenotype. These results demonstrate that TBK1
+plays a critical role in mediating the effects of MVNP on osteoclast
+differentiation and on the expression of IL-6, a key contributor to the pagetic
+osteoclast phenotype.
+
+© 2014 American Society for Bone and Mineral Research.
+
+PMCID: PMC3870038
+PMID: 23794264  [PubMed - indexed for MEDLINE]
+
+
+11. J Bone Miner Res. 2013 Jun;28(6):1489-500. doi: 10.1002/jbmr.1884.
+
+Role of ATF7-TAF12 interactions in the vitamin D response hypersensitivity of
+osteoclast precursors in Paget's disease.
+
+Teramachi J(1), Hiruma Y, Ishizuka S, Ishizuka H, Brown JP, Michou L, Cao H,
+Galson DL, Subler MA, Zhou H, Dempster DW, Windle JJ, Roodman GD, Kurihara N.
+
+Author information: 
+(1)Department of Medicine, Hematology Oncology, Indiana University, Indianapolis,
+IN, USA.
+
+Osteoclast (OCL) precursors from many Paget's disease (PD) patients express
+measles virus nucleocapsid protein (MVNP) and are hypersensitive to
+1,25-dihydroxyvitamin D2 (1,25-(OH)2D3; also know as calcitriol). The increased
+1,25-(OH)2D3 sensitivity is mediated by transcription initiation factor TFIID
+subunit 12 (TAF12), a coactivator of the vitamin D receptor (VDR), which is
+present at much higher levels in MVNP-expressing OCL precursors than normals.
+These results suggest that TAF12 plays an important role in the abnormal OCL
+activity in PD. However, the molecular mechanisms underlying both 1,25-(OH)2D3's 
+effects on OCL formation and the contribution of TAF12 to these effects in both
+normals and PD patients are unclear. Inhibition of TAF12 with a specific TAF12
+antisense construct decreased OCL formation and OCL precursors' sensitivity to
+1,25-(OH)2D3 in PD patient bone marrow samples. Further, OCL precursors from
+transgenic mice in which TAF12 expression was targeted to the OCL lineage
+(tartrate-resistant acid phosphatase [TRAP]-TAF12 mice), formed OCLs at very low 
+levels of 1,25-(OH)2D3, although the OCLs failed to exhibit other hallmarks of PD
+OCLs, including receptor activator of NF-<U+03BA>B ligand (RANKL) hypersensitivity and
+hypermultinucleation. Chromatin immunoprecipitation (ChIP) analysis of OCL
+precursors using an anti-TAF12 antibody demonstrated that TAF12 binds the
+24-hydroxylase (CYP24A1) promoter, which contains two functional vitamin D
+response elements (VDREs), in the presence of 1,25-(OH)2D3. Because TAF12
+directly interacts with the cyclic adenosine monophosphate-dependent activating
+transcription factor 7 (ATF7) and potentiates ATF7-induced transcriptional
+activation of ATF7-driven genes in other cell types, we determined whether TAF12 
+is a functional partner of ATF7 in OCL precursors. Immunoprecipitation of lysates
+from either wild-type (WT) or MVNP-expressing OCL with an anti-TAF12 antibody,
+followed by blotting with an anti-ATF7 antibody, or vice versa, showed that TAF12
+and ATF7 physically interact in OCLs. Knockdown of ATF7 in MVNP-expressing cells 
+decreased cytochrome P450, family 24, subfamily A, polypeptide 1 (CYP24A1)
+induction by1,25-(OH)2D3, as well as TAF12 binding to the CYP24A1 promoter. These
+results show that ATF7 interacts with TAF12 and contributes to the
+hypersensitivity of OCL precursors to 1,25-(OH)2D3 in PD.
+
+Copyright © 2013 American Society for Bone and Mineral Research.
+
+PMCID: PMC3663902
+PMID: 23426901  [PubMed - indexed for MEDLINE]
+
+
+12. Oncogene. 2014 Feb 20;33(8):1027-36. doi: 10.1038/onc.2013.28. Epub 2013 Feb 18.
+
+Sensitisation of c-MYC-induced B-lymphoma cells to apoptosis by ATF2.
+
+Walczynski J(1), Lyons S(1), Jones N(1), Breitwieser W(1).
+
+Author information: 
+(1)Department of Cell Regulation, Paterson Institute for Cancer Research,
+University of Manchester, Manchester, UK.
+
+Transcription factors ATF2 (activating transcription factor 2) and ATF7
+(activating transcription factor 7) are highly homologous members of the
+activator protein 1 (AP-1) family. Their activities are growth factor and stress 
+stimulated and they strictly require phosphorylation by mitogen-activated protein
+(MAP) kinases for their transcriptional functions. In samples of human B-cell
+lymphomas as well as Eµ-Myc-driven mouse B-cell lymphomas, we find that ATF2 as
+well as MAP kinase c-Jun N-terminal kinase (JNK) are significantly up-regulated
+compared with normal human B-cell lines and mouse B cells, respectively. The B
+cell-specific deletion of ATF2 and ATF7 in mice results in significantly
+accelerated onset of Eµ-Myc-induced lymphoma. In addition, loss of ATF2/7
+desensitises Eµ-Myc lymphoma cells to spontaneous as well as stress-induced
+apoptosis. Our results therefore suggest that c-MYC induces stress-mediated
+activation of ATF2 and ATF7 and that these transcription factors regulate
+apoptosis in response to oncogenic transformation of B cells.
+
+PMID: 23416976  [PubMed - indexed for MEDLINE]
+
+
+13. Biochem Soc Trans. 2012 Feb;40(1):230-4. doi: 10.1042/BST20110630.
+
+The roles of ATF2 (activating transcription factor 2) in tumorigenesis.
+
+Gozdecka M(1), Breitwieser W.
+
+Author information: 
+(1)Cell Regulation Department, Paterson Institute for Cancer Research, University
+of Manchester, Wilmslow Road, Withington, Manchester M20 4BX, UK.
+
+MAPK (mitogen-activated protein kinase) pathways are among the most frequently
+deregulated signalling events in cancer. Among the critical targets of MAPK
+activities are members of the AP-1 (activator protein 1) transcription factor, a 
+dimeric complex consisting of Jun, Fos, Maf and ATF (activating transcription
+factor) family DNA-binding proteins. Depending on the cellular context, the
+composition of the dimeric complexes determines the regulation of growth,
+survival or apoptosis. JNK (c-Jun N-terminal kinase), p38 and a number of Jun and
+Fos family proteins have been analysed for their involvement in oncogenic
+transformation and tumour formation. These data are also emerging for the ATF
+components of the AP-1 factor. The aim of the present review is to provide an
+overview of the functions of two ATF family proteins, ATF2 and ATF7, in mammalian
+development and their potential functions in tumour formation.
+
+PMID: 22260696  [PubMed - indexed for MEDLINE]
+
+
+14. PLoS One. 2011;6(8):e23351. doi: 10.1371/journal.pone.0023351. Epub 2011 Aug 16.
+
+A cytoplasmic negative regulator isoform of ATF7 impairs ATF7 and ATF2
+phosphorylation and transcriptional activity.
+
+Diring J(1), Camuzeaux B, Donzeau M, Vigneron M, Rosa-Calatrava M, Kedinger C,
+Chatton B.
+
+Author information: 
+(1)Université de Strasbourg, UMR7242 Biotechnologie et Signalisation Cellulaire, 
+Ecole Supérieure de Biotechnologie de Strasbourg, BP10413, Illkirch, France.
+
+Alternative splicing and post-translational modifications are processes that give
+rise to the complexity of the proteome. The nuclear ATF7 and ATF2 (activating
+transcription factor) are structurally homologous leucine zipper transcription
+factors encoded by distinct genes. Stress and growth factors activate ATF2 and
+ATF7 mainly via sequential phosphorylation of two conserved threonine residues in
+their activation domain. Distinct protein kinases, among which mitogen-activated 
+protein kinases (MAPK), phosphorylate ATF2 and ATF7 first on Thr71/Thr53 and next
+on Thr69/Thr51 residues respectively, resulting in transcriptional activation.
+Here, we identify and characterize a cytoplasmic alternatively spliced isoform of
+ATF7. This variant, named ATF7-4, inhibits both ATF2 and ATF7 transcriptional
+activities by impairing the first phosphorylation event on Thr71/Thr53 residues. 
+ATF7-4 indeed sequesters the Thr53-phosphorylating kinase in the cytoplasm. Upon 
+stimulus-induced phosphorylation, ATF7-4 is poly-ubiquitinated and degraded,
+enabling the release of the kinase and ATF7/ATF2 activation. Our data therefore
+conclusively establish that ATF7-4 is an important cytoplasmic negative regulator
+of ATF7 and ATF2 transcription factors.
+
+PMCID: PMC3156760
+PMID: 21858082  [PubMed - indexed for MEDLINE]
+
+
+15. PLoS Genet. 2010 Apr 1;6(4):e1000892. doi: 10.1371/journal.pgen.1000892.
+
+Phosphorylation of the conserved transcription factor ATF-7 by PMK-1 p38 MAPK
+regulates innate immunity in Caenorhabditis elegans.
+
+Shivers RP(1), Pagano DJ, Kooistra T, Richardson CE, Reddy KC, Whitney JK,
+Kamanzi O, Matsumoto K, Hisamoto N, Kim DH.
+
+Author information: 
+(1)Department of Biology, Massachusetts Institute of Technology, Cambridge,
+Massachusetts, United States of America.
+
+Innate immunity in Caenorhabditis elegans requires a conserved PMK-1 p38
+mitogen-activated protein kinase (MAPK) pathway that regulates the basal and
+pathogen-induced expression of immune effectors. The mechanisms by which PMK-1
+p38 MAPK regulates the transcriptional activation of the C. elegans immune
+response have not been identified. Furthermore, in mammalian systems the genetic 
+analysis of physiological targets of p38 MAPK in immunity has been limited. Here,
+we show that C. elegans ATF-7, a member of the conserved cyclic AMP-responsive
+element binding (CREB)/activating transcription factor (ATF) family of
+basic-region leucine zipper (bZIP) transcription factors and an ortholog of
+mammalian ATF2/ATF7, has a pivotal role in the regulation of PMK-1-mediated
+innate immunity. Genetic analysis of loss-of-function alleles and a
+gain-of-function allele of atf-7, combined with expression analysis of
+PMK-1-regulated genes and biochemical characterization of the interaction between
+ATF-7 and PMK-1, suggest that ATF-7 functions as a repressor of PMK-1-regulated
+genes that undergoes a switch to an activator upon phosphorylation by PMK-1.
+Whereas loss-of-function mutations in atf-7 can restore basal expression of
+PMK-1-regulated genes observed in the pmk-1 null mutant, the induction of
+PMK-1-regulated genes by pathogenic Pseudomonas aeruginosa PA14 is abrogated. The
+switching modes of ATF-7 activity, from repressor to activator in response to
+activated PMK-1 p38 MAPK, are reminiscent of the mechanism of regulation mediated
+by the corresponding ancestral Sko1p and Hog1p proteins in the yeast response to 
+osmotic stress. Our data point to the regulation of the ATF2/ATF7/CREB5 family of
+transcriptional regulators by p38 MAPK as an ancient conserved mechanism for the 
+control of innate immunity in metazoans, and suggest that ATF2/ATF7 may function 
+in a similar manner in the regulation of mammalian innate immunity.
+
+PMCID: PMC2848548
+PMID: 20369020  [PubMed - indexed for MEDLINE]
+
+
+16. Environ Pollut. 2010 Feb;158(2):401-8. doi: 10.1016/j.envpol.2009.09.005. Epub
+2009 Oct 7.
+
+Environmental monitoring of Domingo Rubio stream (Huelva Estuary, SW Spain) by
+combining conventional biomarkers and proteomic analysis in Carcinus maenas.
+
+Montes Nieto R(1), García-Barrera T, Gómez-Ariza JL, López-Barea J.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, University of Córdoba,
+Severo Ochoa Building, Rabanales Campus, Highway A4 Km 396a, 14071 Córdoba,
+Spain.
+
+Element load, conventional biomarkers and altered protein expression profiles
+were studied in Carcinus maenas crabs, to assess contamination of "Domingo Rubio"
+stream, an aquatic ecosystem that receives pyritic metals, industrial
+contaminants, and pesticides. Lower antioxidative activities -
+glucose-6-phosphate and 6-phosphogluconate dehydrogenases, catalase - were found 
+in parallel to higher levels of damaged biomolecules - malondialdehyde, oxidized 
+glutathione -, due to oxidative lesions promoted by contaminants, as the
+increased levels of essential - Zn, Cu, Co - and nonessential - Cr, Ni, Cd -
+elements. Utility of Proteomics to assess environmental quality was confirmed,
+especially after considering the six proteins identified by de novo sequencing
+through capLC-muESI-ITMS/MS and homology search on databases. They include
+tripartite motif-containing protein 11 and ATF7 transcription factor
+(upregulated), plus CBR-NHR-218 nuclear hormone receptor, two components of the
+ABC transporters and aldehyde dehydrogenase (downregulated). These proteins could
+be used as novel potential biomarkers of the deleterious effects of pollutants
+present in the area.
+
+Copyright (c) 2009 Elsevier Ltd. All rights reserved.
+
+PMID: 19815320  [PubMed - indexed for MEDLINE]
+
+
+17. J Mol Biol. 2008 Dec 26;384(4):980-91. doi: 10.1016/j.jmb.2008.10.008. Epub 2008 
+Oct 11.
+
+p38beta2-mediated phosphorylation and sumoylation of ATF7 are mutually exclusive.
+
+Camuzeaux B(1), Diring J, Hamard PJ, Oulad-Abdelghani M, Donzeau M, Vigneron M,
+Kedinger C, Chatton B.
+
+Author information: 
+(1)Université de Strasbourg I, Institut Gilbert Laustriat, CNRS-UMR7175, Ecole
+Supérieure de Biotechnologie de Strasbourg, BP10413, Strasbourg Illkirch Cedex,
+France.
+
+The ubiquitous activating transcription factor (ATF) 7 binds as a homodimer to
+the cAMP response element/TPA response element motifs present in the promoters of
+its target genes. ATF7 is homologous to ATF2 and heterodimerizes with Jun or Fos 
+proteins, modulating their DNA-binding specificities. We previously demonstrated 
+that TAF12, a component of the TFIID general transcription factor, mediates ATF7 
+transcriptional activity through direct interactions between the two proteins. By
+contrast, ATF7, but not ATF2, is modified in vivo by sumoylation, which restricts
+its subcellular localization, thereby inhibiting its transcriptional activity. In
+the present study, we dissect the mechanism of this functional switch. We
+characterized the multisite phosphorylation of the ATF7 activation domain and
+identified one of the involved kinase, p38beta2 mitogen-activated protein kinase.
+In addition, we show that epidermal growth factor treatment results in a two-step
+modification mechanism of ATF7 activation domain. The Thr53 residue is
+phosphorylated first by a presently unknown kinase, allowing p38beta2
+mitogen-activated protein kinase to modify the Thr51 residue, excluding the
+sumoylation of ATF7 protein. The resulting activation of transcription is related
+to an increased association of TAF12 with this phosphorylated form of ATF7. Our
+data therefore conclusively establish that sumoylation and phosphorylation of
+ATF7 are two antagonistic posttranslational modifications.
+
+PMID: 18950637  [PubMed - indexed for MEDLINE]
+
+
+18. Genes Dev. 2007 Aug 15;21(16):2069-82.
+
+Feedback regulation of p38 activity via ATF2 is essential for survival of
+embryonic liver cells.
+
+Breitwieser W(1), Lyons S, Flenniken AM, Ashton G, Bruder G, Willington M, Lacaud
+G, Kouskoff V, Jones N.
+
+Author information: 
+(1)Cell Regulation Department, Paterson Institute for Cancer Research, University
+of Manchester, Manchester M20 4BX, United Kingdom.
+
+The ATF2 transcription factor is phosphorylated by the stress-activated
+mitogen-activated protein kinases (MAPKs) JNK and p38. We show that this
+phosphorylation is essential for ATF2 function in vivo, since a mouse carrying
+mutations in the critical phosphorylation sites has a strong phenotype identical 
+to that seen upon deletion of the DNA-binding domain. In addition, combining this
+mutant with a knockout of the ATF2 homolog, ATF7, results in embryonic lethality 
+with severe abnormalities in the developing liver and heart. The mutant fetal
+liver is characterized by high levels of apoptosis in developing hepatocytes and 
+haematopoietic cells. Furthermore, we observe a significant increase in active
+p38 due to loss of a negative feedback loop involving the ATF2-dependent
+transcriptional activation of MAPK phosphatases. In embryonic liver cells, this
+increase drives apoptosis, since it can be suppressed by chemical inhibition of
+p38. Our findings demonstrate the importance of finely regulating the activities 
+of MAPKs during development.
+
+PMCID: PMC1948861
+PMID: 17699753  [PubMed - indexed for MEDLINE]
+
+
+19. Int J Gynecol Cancer. 2007 Mar-Apr;17(2):484-91. Epub 2007 Feb 14.
+
+Differentially expressed genes between high-risk human papillomavirus types in
+human cervical cancer cells.
+
+Vazquez-Ortiz G(1), García JA, Ciudad CJ, Noé V, Peñuelas S, López-Romero R,
+Mendoza-Lorenzo P, Piña-Sánchez P, Salcedo M.
+
+Author information: 
+(1)Laboratory of Oncogenomics, Oncology Research Unit, Oncology Hospital,
+National Medical Center SXXI-IMSS, México, DF, Mexico.
+
+Cervical carcinoma (CC) is one of the most common cancers among women worldwide
+and the first cause of death among the Mexican female population. Human
+papillomavirus (HPV) infection is the most important etiologic factor for CC. Of 
+the oncogenic types, HPV16 and HPV18 are found in 60-70% of invasive CCs
+worldwide. HPV18 appears to be associated with a more aggressive form of cervical
+neoplasia than HPV16 infection. At present, there are no studies on
+differentially expressed cellular genes between transformed cells harboring HPV16
+and HPV18 sequences. Based on previous complementary DNA microarray data from our
+group, 13 genes were found to be differentially overexpressed between HPV16- and 
+HPV18-transformed cells. These genes were as follows: E6BP, UBE4A, C20orf14,
+ATF7, ABCC8, SLC6A12, WASF3, SUV39H1, SPAG8, CCNC, E2FFE, BIRC5, and DEDD.
+Differential expression of six selected genes was confirmed by real-time reverse 
+transcription-polymerase chain reaction (RT-PCR). All real-time RT-PCRs confirmed
+differential expression between HPV18 and HPV(-) samples. The present work
+identifies genes from signaling pathways triggered by HPV transformation that
+could be differentially deregulated between HPV16(+) and HPV18(+) samples.
+
+PMID: 17309674  [PubMed - indexed for MEDLINE]
+
+
+20. Nucleic Acids Res. 2007;35(4):1134-44. Epub 2007 Jan 30.
+
+Sumoylation delays the ATF7 transcription factor subcellular localization and
+inhibits its transcriptional activity.
+
+Hamard PJ(1), Boyer-Guittaut M, Camuzeaux B, Dujardin D, Hauss C, Oelgeschläger
+T, Vigneron M, Kedinger C, Chatton B.
+
+Author information: 
+(1)Institut Gilbert Laustriat, Ecole Supérieure de Biotechnologie de Strasbourg, 
+UMR7175 CNRS-ULP, BP10413, 67412 Strasbourg Illkirch Cedex, France.
+
+Over the past few years, small ubiquitin-like modifier (SUMO) modification has
+emerged as an important regulator of diverse pathways and activities including
+protein localization and transcriptional regulation. We identified a consensus
+sumoylation motif (IKEE), located within the N-terminal activation domain of the 
+ATF7 transcription factor and thus investigated the role of this modification.
+ATF7 is a ubiquitously expressed transcription factor, homologous to ATF2, that
+binds to CRE elements within specific promoters. This protein is able to
+heterodimerize with Jun or Fos proteins and its transcriptional activity is
+mediated by interaction with TAF12, a subunit of the general transcription factor
+TFIID. In the present article, we demonstrate that ATF7 is sumoylated in vitro
+(using RanBP2 as a E3-specific ligase) and in vivo. Moreover, we show that ATF7
+sumoylation affects its intranuclear localization by delaying its entry into the 
+nucleus. Furthermore, SUMO conjugation inhibits ATF7 transactivation activity by 
+(i) impairing its association with TAF12 and (ii) blocking its
+binding-to-specific sequences within target promoters.
+
+PMCID: PMC1851647
+PMID: 17264123  [PubMed - indexed for MEDLINE]
+
+
+21. Neurogenetics. 2006 Jul;7(3):157-65. Epub 2006 Jun 13.
+
+Parsing the genetic heterogeneity of chromosome 12q susceptibility genes for
+Alzheimer disease by family-based association analysis.
+
+Lin PI(1), Martin ER, Browning-Large CA, Schmechel DE, Welsh-Bohmer KA,
+Doraiswamy PM, Gilbert JR, Haines JL, Pericak-Vance MA.
+
+Author information: 
+(1)Center for Human Genetics, Duke University Medical Center, Durham, NC, USA.
+
+Previous linkage studies have suggested that chromosome 12 may harbor
+susceptibility genes for late-onset Alzheimer disease (LOAD). No risk genes on
+chromosome 12 have been conclusively identified yet. We have reported that the
+linkage evidence for LOAD in a 12q region was significantly increased in
+autopsy-confirmed families particularly for those showing no linkage to alpha-T
+catenin gene, a LOAD candidate gene on chromosome 10 [LOD score increased from
+0.1 in the autopsy-confirmed subset to 4.19 in the unlinked subset (optimal
+subset); p<0.0001 for the increase in LOD score], indicating a one-LOD support
+interval spanning 6 Mb. To further investigate this finding and to identify
+potential candidate LOAD risk genes for follow-up analysis, we analyzed 99 single
+nucleotide polymorphisms in this region, for the overall sample, the
+autopsy-confirmed subset, and the optimal subset, respectively, for comparison.
+We saw no significant association (p<0.01) in the overall sample. In the
+autopsy-confirmed subset, the best finding was obtained in the activation
+transcription factor 7 (ATF7) gene (single-locus association, p=0.002; haplotype 
+association global, p=0.007). In the optimal subset, the best finding was
+obtained in the hypothetical protein FLJ20436 (FLJ20436) gene (single-locus
+association, p=0.0026). These results suggest that subset and covariate analyses 
+may be one approach to help identify novel susceptibility genes on chromosome 12q
+for LOAD.
+
+PMID: 16770605  [PubMed - indexed for MEDLINE]
+
+
+22. Cell Cycle. 2005 Nov;4(11):1486-90. Epub 2005 Nov 23.
+
+New insights into TAFs as regulators of cell cycle and signaling pathways.
+
+Davidson I(1), Kobi D, Fadloun A, Mengus G.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/ULP, llkirch Cédex, France. irwin@titus.u-strasbg.fr
+
+RNA polymerase II general transcription factor TFIID is a macromolecular complex 
+comprising the TATA-binding protein, TBP and 13-14 evolutionary conserved
+TBP-associated factors, TAFs. Although genetic experiments have shown that TAFs
+are essential for cell cycle progression in yeast and in rapidly proliferating
+vertebrate cells in vitro, new experiments indicate they may be dispensible in
+specific developmental and physiological processes. Moreover, the TAF4 subunit of
+TFIID negatively regulates proliferation by inhibiting activation of the TGFbeta 
+signalling pathway by its paralogue TAF4b. TAF4 is however essential in the
+retinoic acid and cAMP signalling pathways acting as a cofactor for CREB and the 
+retinoic acid receptor, but is a negative regulator of the ATF7 transcription
+factor.
+
+PMID: 16205117  [PubMed - indexed for MEDLINE]
+
+
+23. Dev Dyn. 2005 Jul;233(3):1157-62.
+
+Characterization and expression pattern of two zebrafish atf7 genes.
+
+Zhao C(1), Qi J, Meng A.
+
+Author information: 
+(1)State Key Laboratory of Biomembrane and Membrane Biotechnology, Department of 
+Biological Sciences and Biotechnology, Tsinghua University, Beijing, China.
+
+Members of the ATF/CREB (activating transcription factor/cAMP-responsive element 
+binding protein) transcription factor family play diverse roles in controlling
+cell proliferation, apoptosis, and oncogenesis, as well as in embryonic
+development of vertebrates. We identified two zebrafish orthologs of human ATF7
+gene: atf7a and atf7b. Whole-mount in situ hybridization shows that zebrafish
+atf7a is first expressed in the notochord precursors at 80% epiboly stage and
+then in the developing notochord during segmentation. The expression of atf7a is 
+positively regulated by ntl, flh, and spr2, which are involved in development of 
+the notochord. In contrast, atf7b is maternally expressed and during
+embryogenesis its mRNA is ubiquitously distributed, showing an expression pattern
+similar to that of mammalian Atf7.
+
+PMID: 15906372  [PubMed - indexed for MEDLINE]
+
+
+24. Oncogene. 2005 May 12;24(21):3472-83.
+
+A functional interaction between ATF7 and TAF12 that is modulated by TAF4.
+
+Hamard PJ(1), Dalbies-Tran R, Hauss C, Davidson I, Kedinger C, Chatton B.
+
+Author information: 
+(1)Ecole Supérieure de Biotechnologie de Strasbourg, Université Louis Pasteur,
+Parc d'innovation, UMR7100 CNRS-ULP, Bd. Sebastien Brant-BP10413, 67412
+Strasbourg, Illkirch Cedex, France.
+
+The ATF7 proteins, which are members of the cyclic AMP responsive binding protein
+(CREB)/activating transcription factor (ATF) family of transcription factors,
+display quite versatile properties: they can interact with the adenovirus E1a
+oncoprotein, mediating part of its transcriptional activity; they heterodimerize 
+with the Jun, Fos or related transcription factors, likely modulating their
+DNA-binding specificity; they also recruit to the promoter a stress-induced
+protein kinase (JNK2). In the present study, we investigate the functional
+relationships of ATF7 with hsTAF12 (formerly hsTAF(II)20/15), which has
+originally been identified as a component of the general transcription factor
+TFIID. We show that overexpression of hsTAF12 potentiates ATF7-induced
+transcriptional activation through direct interaction with ATF7, suggesting that 
+TAF12 is a functional partner of ATF7. In support of this conclusion, chromatin
+immunoprecipitation experiments confirm the interaction of ATF7 with TAF12 on an 
+ATF7-responsive promoter, in the absence of any artificial overexpression of both
+proteins. We also show that the TAF12-dependent transcriptional activation is
+competitively inhibited by TAF4. Although both TAF12 isoforms (TAF12-1 and -2,
+formerly TAF(II)20 and TAF(II)15) interact with the ATF7 activation region
+through their histone-fold domain, only the largest, hsTAF12-1, mediates
+transcriptional activation through its N-terminal region.
+
+PMID: 15735663  [PubMed - indexed for MEDLINE]
+
+
+25. Apoptosis. 2003 Jun;8(3):225-8.
+
+The role of ATF/CREB family members in cell growth, survival and apoptosis.
+
+Persengiev SP(1), Green MR.
+
+Author information: 
+(1)Howard Hughes Medical Institute, University of Massachusetts Medical School,
+364 Plantation Street, Worcester, MA 01605, USA.
+
+Programmed cell death is an integral part of the mechanisms regulating tissue
+homeostasis. Defects in the apoptotic signaling pathway are often associated with
+uncontrolled cell proliferation, high mutation rate and malignant transformation.
+Transcription factors, such as the mammalian ATF/CREB family of transcriptional
+regulators, have diverse functions in controlling cell proliferation and
+apoptosis. One particular ATF/CREB family member, ATFx, is an anti-apoptotic
+factor that plays an essential role in cell survival. Current observations
+indicate that one mechanism by which ATFx inhibits cell death and promotes cell
+survival is by disrupting signal transmission from activated "death receptors" to
+initiator caspases. A better understanding of ATFx function should provide new
+insight into the processes that control apoptotic cascades.
+
+PMID: 12766482  [PubMed - indexed for MEDLINE]
+
+
+26. Genes Dev. 2002 Jul 15;16(14):1806-14.
+
+Inhibition of apoptosis by ATFx: a novel role for a member of the ATF/CREB family
+of mammalian bZIP transcription factors.
+
+Persengiev SP(1), Devireddy LR, Green MR.
+
+Author information: 
+(1)Howard Hughes Medical Institute and Programs in Molecular Medicine and Gene
+Function and Expression, University of Massachusetts Medical School, Worcester,
+Massachusetts 01605, USA.
+
+The mammalian ATF/CREB family of transcription factors comprises a large group of
+basic-region leucine zipper (bZIP) proteins whose members mediate diverse
+transcriptional regulatory functions. Here we report that expression of a
+specific mouse ATF gene, ATFx, is down-regulated in a variety of cells undergoing
+apoptosis following growth factor deprivation. When stably expressed in an
+interleukin 3 (IL-3)-dependent cell line, ATFx suppresses apoptosis resulting
+from cytokine deprivation. Conversely, a dominant-negative ATFx mutant induces
+apoptosis of cells cultured in the presence of growth factors. We also show that 
+24p3, a secreted lipocalin that induces apoptosis when added to hematopoietic
+cells, represses ATFx expression. However, constitutive expression of ATFx
+renders cells resistant to 24p3-mediated apoptosis. Collectively, our results
+indicate that ATFx is an anti-apoptotic factor, a novel role for an ATF protein.
+
+PMCID: PMC186387
+PMID: 12130540  [PubMed - indexed for MEDLINE]
+
+
+27. J Biol Chem. 2001 Apr 27;276(17):13718-26. Epub 2001 Jan 22.
+
+ATF-7, a novel bZIP protein, interacts with the PRL-1 protein-tyrosine
+phosphatase.
+
+Peters CS(1), Liang X, Li S, Kannan S, Peng Y, Taub R, Diamond RH.
+
+Author information: 
+(1)Department of Medicine, Division of Gastroenterology, University of
+Pennsylvania School of Medicine, Philadelphia 19104-6145, USA.
+
+We have identified a novel basic leucine zipper (bZIP) protein, designated ATF-7,
+that physically interacts with the PRL-1 protein-tyrosine phosphatase (PTPase).
+PRL-1 is a predominantly nuclear, farnesylated PTPase that has been linked to the
+control of cellular growth and differentiation. This interaction was initially
+found using the yeast two-hybrid system. ATF-7 is most closely related to members
+of the ATF/CREB family of bZIP proteins, with highest homology to ATF-4. ATF-7
+homodimers can bind specifically to CRE elements. ATF-7 is expressed in a number 
+of different tissues and is expressed in association with differentiation in the 
+Caco-2 cell model of intestinal differentiation. We have confirmed the
+PRL-1.ATF-7 interaction and mapped the regions of ATF-7 and PRL-1 important for
+interaction to ATF-7's bZIP region and PRL-1's phosphatase domain. Finally, we
+have determined that PRL-1 is able to dephosphorylate ATF-7 in vitro. Further
+insight into ATF-7's precise cellular roles, transcriptional function, and
+downstream targets are likely be of importance in understanding the mechanisms
+underlying the complex processes of maintenance, differentiation, and turnover of
+epithelial tissues.
+
+PMID: 11278933  [PubMed - indexed for MEDLINE]
+
+

@@ -1,0 +1,3080 @@
+
+1. Curr Mol Med. 2016;16(3):276-87.
+
+cAMP-Response Element-Binding 3-Like Protein 1 (CREB3L1) is Required for
+Decidualization and its Expression is Decreased in Women with Endometriosis.
+
+Ahn JI, Yoo JY, Kim TH, Kim YI, Ferguson SD, Fazleabas AT, Young SL, Lessey BA,
+Ahn JY, Lim JM(1), Jeong JW(2).
+
+Author information: 
+(1)Laboratory of Stem Cell and Bioevaluation, Major in Biomodulation, Seoul
+National University, Seoul 151-921, Republic of Korea. limjm@snu.ac.kr.
+(2)Department of Obstetrics, Gynecology and Reproductive Biology, Michigan State 
+University, College of Human Medicine, 333 Bostwick Avenue NE, Suite 4024, Grand 
+Rapids, MI 49503, USA. JaeWook.Jeong@hc.msu.edu.
+
+Endometriosis is a major cause of infertility and pelvic pain, affecting more
+than 10% of reproductive-aged women. Progesterone resistance has been observed in
+the endometrium of women with this disease, as evidenced by alterations in
+progesterone-responsive gene and protein expression. cAMPResponse Element-Binding
+3-like protein 1 (Creb3l1) has previously been identified as a progesterone
+receptor (PR) target gene in mouse uterus via high density DNA microarray
+analysis. However, CREB3L1 function has not been studied in the context of
+endometriosis and uterine biology. In this study, we validated progesterone (P4) 
+regulation of Creb3l1 in the uteri of wild-type and progesterone receptor
+knockout (PRKO) mice. Furthermore, we observed that CREB3L1 expression was
+significantly higher in secretory phase human endometrium compared to
+proliferative phase and that CREB3L1 expression was significantly decreased in
+the endometrium of women with endometriosis. Lastly, by transfecting CREB3L1
+siRNA into cultured human endometrial stromal cells (hESCs) prior to hormonal
+induction of in vitro decidualization, we showed that CREB3L1 is required for the
+decidualization process. Interestingly, phosphorylation of ERK1/2, critical
+factor for decidualization, was also significantly reduced in CREB3L1-silenced
+hESCs. It is known that hESCs from patients with endometriosis show impaired
+decidualization and that dysregulation of the P4-PR signaling axis is linked to a
+variety of endometrial diseases including infertility and endometriosis.
+Therefore, these results suggest that CREB3L1 is required for decidualization in 
+mice and humans and may be linked to the pathogenesis of endometriosis in a
+P4-dependent manner.
+
+PMID: 26917262  [PubMed - in process]
+
+
+2. Breast Cancer Res. 2016 Jan 25;18(1):12. doi: 10.1186/s13058-016-0672-x.
+
+Epigenetic silencing of CREB3L1 by DNA methylation is associated with high-grade 
+metastatic breast cancers with poor prognosis and is prevalent in triple negative
+breast cancers.
+
+Ward AK(1), Mellor P(2), Smith SE(3), Kendall S(4), Just NA(5), Vizeacoumar
+FS(6), Sarker S(7), Phillips Z(8), Alvi R(9), Saxena A(10), Vizeacoumar
+FJ(11,)(12), Carlsen SA(13), Anderson DH(14,)(15).
+
+Author information: 
+(1)Cancer Research Group, University of Saskatchewan, 107 Wiggins Road,
+Saskatoon, SK, S7N 5E5, Canada. akw582@mail.usask.ca. (2)Cancer Research Group,
+University of Saskatchewan, 107 Wiggins Road, Saskatoon, SK, S7N 5E5, Canada.
+pam187@mail.usask.ca. (3)Cancer Research Group, University of Saskatchewan, 107
+Wiggins Road, Saskatoon, SK, S7N 5E5, Canada. ses747@mail.usask.ca. (4)Cancer
+Research Group, University of Saskatchewan, 107 Wiggins Road, Saskatoon, SK, S7N 
+5E5, Canada. scj503@mail.usask.ca. (5)Cancer Research Group, University of
+Saskatchewan, 107 Wiggins Road, Saskatoon, SK, S7N 5E5, Canada.
+nat163@mail.usask.ca. (6)Cancer Research Group, University of Saskatchewan, 107
+Wiggins Road, Saskatoon, SK, S7N 5E5, Canada. frederick.vizeacoumar@usask.ca.
+(7)Epidemiology and Performance Measurement, Saskatchewan Cancer Agency, 4-2105
+8th Street, Saskatoon, SK, S7H 0T8, Canada. sabuj.sarker@saskcancer.ca.
+(8)Epidemiology and Performance Measurement, Saskatchewan Cancer Agency, 4-2105
+8th Street, Saskatoon, SK, S7H 0T8, Canada. zoe.phillips@saskcancer.ca.
+(9)Epidemiology and Performance Measurement, Saskatchewan Cancer Agency, 4-2105
+8th Street, Saskatoon, SK, S7H 0T8, Canada. riaz.alvi@saskcancer.ca.
+(10)Department of Pathology and Lab Medicine, Royal University Hospital, 2841 -
+103 Hospital Drive, Saskatoon, SK, S7N 0W8, Canada. anurag.saxena@usask.ca.
+(11)Cancer Research Group, University of Saskatchewan, 107 Wiggins Road,
+Saskatoon, SK, S7N 5E5, Canada. franco.vizeacoumar@usask.ca. (12)Cancer Research,
+Saskatchewan Cancer Agency, 107 Wiggins Road, Saskatoon, SK, S7N 5E5, Canada.
+franco.vizeacoumar@usask.ca. (13)Cancer Research, Saskatchewan Cancer Agency, 107
+Wiggins Road, Saskatoon, SK, S7N 5E5, Canada. svein.carlsen@shaw.ca. (14)Cancer
+Research Group, University of Saskatchewan, 107 Wiggins Road, Saskatoon, SK, S7N 
+5E5, Canada. deborah.anderson@saskcancer.ca. (15)Cancer Research, Saskatchewan
+Cancer Agency, 107 Wiggins Road, Saskatoon, SK, S7N 5E5, Canada.
+deborah.anderson@saskcancer.ca.
+
+BACKGROUND: CREB3L1 (cAMP-responsive element-binding protein 3-like protein 1), a
+member of the unfolded protein response, has recently been identified as a
+metastasis suppressor in both breast and bladder cancer.
+METHODS: Quantitative real time PCR (qPCR) and immunoblotting were used to
+determine the impact of histone deacetylation and DNA methylation inhibitors on
+CREB3L1 expression in breast cancer cell lines. Breast cancer cell lines and
+tumor samples were analyzed similarly, and CREB3L1 gene methylation was
+determined using sodium bisulfite conversion and DNA sequencing.
+Immunohistochemistry was used to determine nuclear versus cytoplasmic CREB3L1
+protein. Large breast cancer database analyses were carried out to examine
+relationships between CREB3L1 gene methylation and mRNA expression in addition to
+CREB3L1 mRNA expression and prognosis.
+RESULTS: This study demonstrates that the low CREB3L1 expression previously seen 
+in highly metastatic breast cancer cell lines is caused in part by epigenetic
+silencing. Treatment of several highly metastatic breast cancer cell lines that
+had low CREB3L1 expression with DNA methyltransferase and histone deacetylase
+inhibitors induced expression of CREB3L1, both mRNA and protein. In human breast 
+tumors, CREB3L1 mRNA expression was upregulated in low and medium-grade tumors,
+most frequently of the luminal and HER2 amplified subtypes. In contrast, CREB3L1 
+expression was repressed in high-grade tumors, and its loss was most frequently
+associated with triple negative breast cancers (TNBCs). Importantly,
+bioinformatics analyses of tumor databases support these findings, with
+methylation of the CREB3L1 gene associated with TNBCs, and strongly negatively
+correlated with CREB3L1 mRNA expression. Decreased CREB3L1 mRNA expression was
+associated with increased tumor grade and reduced progression-free survival. An
+immunohistochemistry analysis revealed that low-grade breast tumors frequently
+had nuclear CREB3L1 protein, in contrast to the high-grade breast tumors in which
+CREB3L1 was cytoplasmic, suggesting that differential localization may also
+regulate CREB3L1 effectiveness in metastasis suppression.
+CONCLUSIONS: Our data further strengthens the role for CREB3L1 as a metastasis
+suppressor in breast cancer and demonstrates that epigenetic silencing is a major
+regulator of the loss of CREB3L1 expression. We also highlight that CREB3L1
+expression is frequently altered in many cancer types suggesting that it could
+have a broader role in cancer progression and metastasis.
+
+PMCID: PMC4727399
+PMID: 26810754  [PubMed - in process]
+
+
+3. Sci Rep. 2015 Nov 12;5:16455. doi: 10.1038/srep16455.
+
+OASIS modulates hypoxia pathway activity to regulate bone angiogenesis.
+
+Cui M(1), Kanemoto S(1), Cui X(1), Kaneko M(1), Asada R(1), Matsuhisa K(1),
+Tanimoto K(2), Yoshimoto Y(3), Shukunami C(3), Imaizumi K(1).
+
+Author information: 
+(1)Department of Biochemistry, Institute of Biomedical and Health Sciences,
+Hiroshima University, Hiroshima 734-8553, Japan. (2)Department of Radiation
+Medicine, Research Institute for Radiation Biology and Medicine, Hiroshima
+University, Hiroshima 734-8553, Japan. (3)Department of Molecular Biology and
+Biochemistry, Institute of Biomedical and Health Sciences, Hiroshima University, 
+Hiroshima 734-8553, Japan.
+
+OASIS/CREB3L1, an endoplasmic reticulum (ER)-resident transcription factor, plays
+important roles in osteoblast differentiation. In this study, we identified new
+crosstalk between OASIS and the hypoxia signaling pathway, which regulates
+vascularization during bone development. RT-PCR and real-time PCR analyses
+revealed significant decreases in the expression levels of hypoxia-inducible
+factor-1a (HIF-1a) target genes such as vascular endothelial growth factor A
+(VEGFA) in OASIS-deficient (Oasis(-/-)) mouse embryonic fibroblasts. In
+coimmunoprecipitation experiments, the N-terminal fragment of OASIS (OASIS-N;
+activated form of OASIS) bound to HIF-1a through the bZIP domain. Luciferase
+assays showed that OASIS-N promoted the transcription activities of a reporter
+gene via a hypoxia-response element (HRE). Furthermore, the expression levels of 
+an angiogenic factor Vegfa was decreased in Oasis(-/-) osteoblasts.
+Immunostaining and metatarsal angiogenesis assay showed retarded vascularization 
+in bone tissue of Oasis(-/-) mice. These results suggest that OASIS affects the
+expression of HIF-1a target genes through the protein interaction with HIF-1a,
+and that OASIS-HIF-1a complexes may play essential roles in angiogenesis during
+bone development.
+
+PMCID: PMC4642342
+PMID: 26558437  [PubMed - in process]
+
+
+4. Mol Brain. 2015 Oct 26;8(1):68. doi: 10.1186/s13041-015-0159-1.
+
+Transcription factor CREB3L1 mediates cAMP and glucocorticoid regulation of
+arginine vasopressin gene transcription in the rat hypothalamus.
+
+Greenwood M(1), Greenwood MP(2), Mecawi AS(3,)(4,)(5), Loh SY(6), Rodrigues
+JA(7), Paton JF(8), Murphy D(9,)(10).
+
+Author information: 
+(1)School of Clinical Sciences, University of Bristol, Dorothy Hodgkin Building, 
+Whitson Street, Bristol, BS1 3NY, England. mingkwan.greenwood@bristol.ac.uk.
+(2)School of Clinical Sciences, University of Bristol, Dorothy Hodgkin Building, 
+Whitson Street, Bristol, BS1 3NY, England. mike.greenwood@bristol.ac.uk.
+(3)School of Medicine of Ribeirão Preto, University of São Paulo, Ribeirão Preto,
+Brazil. mecawi.as@gmail.com. (4)Department of Physiology, University of Malaya,
+Kuala Lumpur, 50603, Malaysia. mecawi.as@gmail.com. (5)Department of
+Physiological Sciences, Biology Institute, Federal Rural University of Rio de
+Janeiro, Seropedica, Rio de Janeiro, Brazil. mecawi.as@gmail.com. (6)Department
+of Physiology, University of Malaya, Kuala Lumpur, 50603, Malaysia.
+suyi91189@hotmail.com. (7)School of Medicine of Ribeirão Preto, University of São
+Paulo, Ribeirão Preto, Brazil. jantunesr@gmail.com. (8)School of Physiology and
+Pharmacology, University of Bristol, Bristol, BS8 1TD, England.
+Julian.F.R.Paton@bristol.ac.uk. (9)School of Clinical Sciences, University of
+Bristol, Dorothy Hodgkin Building, Whitson Street, Bristol, BS1 3NY, England.
+d.murphy@bristol.ac.uk. (10)Department of Physiology, University of Malaya, Kuala
+Lumpur, 50603, Malaysia. d.murphy@bristol.ac.uk.
+
+BACKGROUND: Arginine vasopressin (AVP), a neuropeptide hormone that functions in 
+the regulation of water homeostasis by controlling water re-absorption at
+kidneys, is synthesised in supraoptic nucleus and paraventricular nucleus of the 
+hypothalamus. An increase in plasma osmolality stimulates secretion of AVP to
+blood circulation and induces AVP synthesis in these nuclei. Although studies on 
+mechanism of AVP transcriptional regulation in hypothalamus proposed that cAMP
+and glucocorticoids positively and negatively regulate Avp expression,
+respectively, the molecular mechanisms have remained elusive. Recently, we
+identified CREB3L1 (cAMP-responsive element binding protein 3 like 1) as a
+putative transcription factor of Avp transcription in the rat hypothalamus.
+However the mechanism of how CREB3L1 is regulated in response of hyperosmotic
+stress in the neurons of hypothalamus has never been reported. This study aims to
+investigate effect of previously reported regulators (cAMP and glucocorticoid) of
+Avp transcription on transcription factor CREB3L1 in order to establish a
+molecular explanation for cAMP and glucocorticoids effect on AVP expression.
+RESULTS: The effect of cAMP and glucocorticoid treatment on Creb3l1 was
+investigated in both AtT20 cells and hypothalamic organotypic cultures. The
+expression of Creb3l1 was increased in both mRNA and protein level by treatment
+with forskolin, which raises intracellular cAMP levels. Activation of cAMP by
+forskolin also increased Avp promoter activity in AtT20 cells and this effect was
+blunted by shRNA mediated silencing of Creb3l1. The forskolin induced increase in
+Creb3l1 expression was diminished by combined treatment with dexamethasone, and, 
+in vivo, intraperitoneal dexamethasone injection blunted the increase in Creb3l1 
+and Avp expression induced by hyperosmotic stress.
+CONCLUSION: Here we shows that cAMP and glucocorticoid positively and negatively 
+regulate Creb3l1 expression in the rat hypothalamus, respectively, and regulation
+of cAMP on AVP expression is mediated through CREB3L1. This data provides the
+connection between CREB3L1, a newly identified transcription factor of AVP
+expression, with the previously proposed mechanism of Avp transcription which
+extends our understanding in transcription regulation of Avp in the hypothalamus.
+
+PMCID: PMC4624382
+PMID: 26503226  [PubMed - in process]
+
+
+5. Diagn Pathol. 2015 Oct 9;10:186. doi: 10.1186/s13000-015-0420-z.
+
+Primary sclerosing epithelioid fibrosarcoma of kidney with variant
+histomorphologic features: report of 2 cases and review of the literature.
+
+Ertoy Baydar D(1), Kosemehmetoglu K(2), Aydin O(3), Bridge JA(4), Buyukeren B(5),
+Aki FT(6).
+
+Author information: 
+(1)Department of Pathology, Hacettepe University Hospital, Ankara, Turkey.
+dertoy@hacettepe.edu.tr. (2)Department of Pathology, Hacettepe University
+Hospital, Ankara, Turkey. dokemal@hotmail.com. (3)Department of Pathology,
+Ondokuz Mayis University Hospital, Samsun, Turkey. uzaydin@yahoo.com.
+(4)Departments of Pathology/Microbiology, Pediatrics and Orthopaedic Surgery,
+Nebraska Medical Center, Omaha, NE, USA. jbridge@unmc.edu. (5)Department of
+Pathology, Hacettepe University Hospital, Ankara, Turkey.
+berrinbuyukeren@hotmail.com. (6)Department of Urology, Hacettepe University
+Hospital, Ankara, Turkey. ftuncayaki@yahoo.com.
+
+The authors present two cases of primary sclerosing epithelioid fibrosarcoma
+(SEF) of the kidney. Both patients had a mass in the upper part of the left
+kidney without any primary extrarenal neoplastic lesions. Grossly, the tumors
+were solid masses both measuring 7.5 cm in the greatest diameter. Histologically,
+one of the lesions exhibited a predominantly lobular growth of round or oval
+small uniform epithelioid cells in variable cellularity. Circular zones of
+crowded tumor cells alternating with hypocellular collagenous tissue in a
+concentric fashion around entrapped native renal tubules were distinctive. The
+second case was distinctive with significant cytological atypia in the neoplastic
+cells and prominent reactive proliferations in the trapped renal tubules.
+Immunohistochemically, vimentin, bcl-2 and MUC4 were diffusely positive in both. 
+They were negative for S-100 protein, CD34, and desmin, whereas CD99 were
+positive in one lesion. Fluorescence in situ hybridization assay using dual
+staining probes detected EWSR1-CREB3L1 fusion in each lesion, which is
+characteristic molecular findings of SEF. One patient presented widespread
+distant metastases at the time of diagnosis. In the other, no tumor deposits were
+detected other than primary. Both patients have been alive with 30 and 10 month
+follow-ups, respectively. These tumors are 6th and 7th cases of primary renal SEF
+in the literature confirmed by FISH study, which exhibit unique and remarkable
+histomorphologic features.
+
+PMCID: PMC4599747
+PMID: 26449317  [PubMed - in process]
+
+
+6. PLoS One. 2015 Jun 25;10(6):e0129233. doi: 10.1371/journal.pone.0129233.
+eCollection 2015.
+
+Identification of CREB3L1 as a Biomarker Predicting Doxorubicin Treatment
+Outcome.
+
+Denard B(1), Pavia-Jimenez A(2), Chen W(3), Williams NS(4), Naina H(5), Collins
+R(5), Brugarolas J(6), Ye J(1).
+
+Author information: 
+(1)Department of Molecular Genetics, University of Texas Southwestern Medical
+Center, Dallas, Texas 75390, United States of America. (2)Department of Internal 
+Medicine, Hematology-Oncology Division, University of Texas Southwestern Medical 
+Center, Dallas, Texas 75390, United States of America; Department of
+Developmental Biology, University of Texas Southwestern Medical Center, Dallas,
+Texas 75390, United States of America. (3)Department of Pathology, University of 
+Texas Southwestern Medical Center, Dallas, Texas 75390, United States of America.
+(4)Department of Biochemistry, University of Texas Southwestern Medical Center,
+Dallas, Texas 75390, United States of America. (5)Department of Internal
+Medicine, Hematology-Oncology Division, University of Texas Southwestern Medical 
+Center, Dallas, Texas 75390, United States of America. (6)Department of Internal 
+Medicine, Hematology-Oncology Division, University of Texas Southwestern Medical 
+Center, Dallas, Texas 75390, United States of America; Department of
+Developmental Biology, University of Texas Southwestern Medical Center, Dallas,
+Texas 75390, United States of America; Kidney Cancer Program in Simmons
+Comprehensive Cancer Center, University of Texas Southwestern Medical Center,
+Dallas, Texas 75390, United States of America.
+
+BACKGROUND: Doxorubicin has been shown to inhibit proliferation of cancer cells
+through proteolytic activation of CREB3L1 (cAMP response element binding protein 
+3-like 1), a transcription factor synthesized as a membrane-bound precursor. Upon
+doxorubicin treatment, CREB3L1 is cleaved so that the N-terminal domain of the
+protein can reach the nucleus where it activates transcription of genes that
+inhibit cell proliferation. These results suggest that the level of CREB3L1 in
+cancer cells may determine their sensitivity to doxorubicin.
+METHODS: Mice transplanted with 6 lines of renal cell carcinoma (RCC) were
+injected with doxorubicin to observe the effect of the chemotherapy on tumor
+growth. Immunohistochemistry and bioinformatics analyses were performed to
+compare CREB3L1 levels in types of cancer known to respond to doxorubicin versus 
+those resistant to doxorubicin.
+RESULTS: Higher levels of CREB3L1 protein are correlated with increased
+doxorubicin sensitivity of xenograft RCC tumors (p = 0.017 by Pearson analysis). 
+From patient tumor biopsies we analyzed, CREB3L1 was expressed in 19% of RCC,
+which is generally resistant to doxorubicin, but in 70% of diffuse large B-cell
+lymphoma that is sensitive to doxorubicin. Doxorubicin is used as the standard
+treatment for cancers that express the highest levels of CREB3L1 such as
+osteosarcoma and malignant fibrous histiocytoma but is not generally used to
+treat those that express the lowest levels of CREB3L1 such as RCC.
+CONCLUSION: Identification of CREB3L1 as the biomarker for doxorubicin
+sensitivity may markedly improve the doxorubicin response rate by applying
+doxorubicin only to patients with cancers expressing CREB3L1.
+
+PMCID: PMC4482141
+PMID: 26110425  [PubMed - in process]
+
+
+7. Ann Diagn Pathol. 2015 Aug;19(4):221-5. doi: 10.1016/j.anndiagpath.2015.04.005.
+Epub 2015 May 6.
+
+Sclerosing epithelioid fibrosarcoma of the kidney: clinicopathologic and
+molecular study of a rare neoplasm at a novel location.
+
+Ohlmann CH(1), Brecht IB(2), Junker K(1), van der Zee JA(1), Nistor A(3), Bohle
+RM(3), Stöckle M(1), Metzler M(2), Hartmann A(4), Agaimy A(5).
+
+Author information: 
+(1)Department of Urology & Pediatric Urology, Saarland University, Homburg/Saar, 
+Germany. (2)University Children's Hospital, Friedrich-Alexander-University
+Erlangen-Nürnberg, Erlangen, Germany. (3)Institute of Pathology, Saarland
+University, Homburg/Saar, Germany. (4)Institute of Pathology,
+Friedrich-Alexander-University Erlangen-Nürnberg, Erlangen, Germany. (5)Institute
+of Pathology, Friedrich-Alexander-University Erlangen-Nürnberg, Erlangen,
+Germany. Electronic address: abbas.agaimy@uk-erlangen.de.
+
+Sclerosing epithelioid fibrosarcoma (SEF) is a rare fibrosarcoma variant with
+specific histomorphology and consistent translocation (EWSR1-CREB3L1/2). To date,
+110 cases have been reported; only 15 originated within the abdomen. With only 2 
+cases reported parallel to our study and one case briefly mentioned in a previous
+series, primary renal SEF is exceptionally rare but might be underrecognized. We 
+herein describe 2 cases affecting a 23-year-old woman and a 43-year-old man.
+Tumor size was 22 and 4.2 cm, respectively. Patient 1 developed skeletal and
+multiple pulmonary metastases. She died of disease 82 months later, despite
+aggressive multimodality therapy. Patient 2 has no evidence of recurrence or
+metastasis (8 months after surgery). Histologic examination showed similar
+appearance with monotonous bland medium-sized epithelioid cells with rounded
+slightly vesicular nuclei and clear cytoplasm imparting a carcinoma-like
+appearance set within a highly sclerotic hyaline fibrous stroma. The tumor cells 
+were arranged in nests, single cell cords, trabeculae, or solid sheets with
+frequent entrapment of renal tubules and glomeruli. Immunohistochemistry showed
+strong expression of vimentin, bcl2, CD99, and MUC4, whereas cytokeratin and
+other markers were negative. Fluorescence in situ hybridization showed a
+translocation involving the EWSR1 gene locus in case 2. Molecular analysis in
+case 1 was not successful due to poor signal quality. To our knowledge, this is
+the second report documenting primary renal SEF. Awareness of this entity would
+help avoid misinterpretation as clear cell carcinoma, sclerosing perivascular
+epithelioid cell tumor, Xp.11 translocation carcinoma, and other more frequent
+neoplasms at this site.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+PMID: 25990776  [PubMed - in process]
+
+
+8. PLoS One. 2015 Apr 27;10(4):e0124956. doi: 10.1371/journal.pone.0124956.
+eCollection 2015.
+
+Transcription Factor CREB3L1 Regulates Endoplasmic Reticulum Stress Response
+Genes in the Osmotically Challenged Rat Hypothalamus.
+
+Greenwood M(1), Greenwood MP(1), Paton JF(2), Murphy D(3).
+
+Author information: 
+(1)School of Clinical Sciences, University of Bristol, Bristol, England.
+(2)School of Physiology and Pharmacology, University of Bristol, Bristol,
+England. (3)School of Clinical Sciences, University of Bristol, Bristol, England;
+Department of Physiology, University of Malaya, Kuala Lumpur, Malaysia.
+
+Arginine vasopressin (AVP) is synthesised in magnocellular neurons (MCNs) of
+supraoptic nucleus (SON) and paraventricular nucleus (PVN) of the hypothalamus.
+In response to the hyperosmotic stressors of dehydration (complete fluid
+deprivation, DH) or salt loading (drinking 2% salt solution, SL), AVP synthesis
+increases in MCNs, which over-burdens the protein folding machinery in the
+endoplasmic reticulum (ER). ER stress and the unfolded protein response (UPR) are
+signaling pathways that improve ER function in response to the accumulation of
+misfold/unfold protein. We asked whether an ER stress response was activated in
+the SON and PVN of DH and SL rats. We observed increased mRNA expression for the 
+immunoglobulin heavy chain binding protein (BiP), activating transcription factor
+4 (Atf4), C/EBP-homologous protein (Chop), and cAMP responsive element binding
+protein 3 like 1 (Creb3l1) in both SON and PVN of DH and SL rats. Although we
+found no changes in the splicing pattern of X box-binding protein 1 (Xbp1), an
+increase in the level of the unspliced form of Xbp1 (Xbp1U) was observed in DH
+and SL rats. CREB3L1, a novel ER stress inducer, has been shown to be activated
+by ER stress to regulate the expression of target genes. We have previously shown
+that CREB3L1 is a transcriptional regulator of the AVP gene; however, a role for 
+CREB3L1 in the response to ER stress has yet to be investigated in MCNs. Here, we
+used lentiviral vectors to introduce a dominant negative form of CREB3L1
+(CREB3L1DN) in the rat SON. Expression of CREB3L1DN in the SON decreased Chop and
+Xbp1U mRNA levels, but not BiP and Atf4 transcript expression. CREB3L1 is thus
+implicated as a transcriptional mediator of the ER stress response in the
+osmotically stimulated SON.
+
+PMCID: PMC4411032
+PMID: 25915053  [PubMed - indexed for MEDLINE]
+
+
+9. Epigenetics. 2014 Dec;9(12):1626-40. doi: 10.4161/15592294.2014.988052.
+
+OASIS/CREB3L1 is epigenetically silenced in human bladder cancer facilitating
+tumor cell spreading and migration in vitro.
+
+Rose M(1), Schubert C, Dierichs L, Gaisa NT, Heer M, Heidenreich A, Knüchel R,
+Dahl E.
+
+Author information: 
+(1)a Molecular Oncology Group; Institute of Pathology ; RWTH Aachen University ; 
+Aachen , Germany.
+
+CREB3L1 has been recently proposed as a novel metastasis suppressor gene in
+breast cancer. Our current study highlights CREB3L1 expression, regulation, and
+function in bladder cancer. We demonstrate a significant downregulation of
+CREB3L1 mRNA expression (n = 64) in primary bladder cancer tissues caused by
+tumor-specific CREB3L1 promoter hypermethylation (n = 51). Based on
+pyrosequencing CREB3L1 methylation was shown to be potentially associated with a 
+more aggressive phenotype of bladder cancer. These findings were verified by an
+independent public data set containing data from 184 bladder tumors. In addition,
+immunohistochemical evaluation showed that CREB3L1 protein expression is
+decreased in bladder cancer tissues as well. Interestingly, protein loss is
+predominately observed in the nuclei of aggressive tumor cells. Based on in vitro
+models we clearly show that CREB3L1 re-expression mediates suppression of tumor
+cell migration and colony growth of high grade and invasive bladder cancer cells.
+The candidate tumor suppressor and TGF-ß signaling inhibitor HTRA3 was
+furthermore identified as putative target gene of CREB3L1 in both invasive J82
+bladder cells and primary bladder tumors. Hence, our data provide for the first
+time evidence that the transcription factor CREB3L1 may have an important role as
+a putative tumor suppressor in bladder cancer.
+
+PMCID: PMC4623247
+PMID: 25625847  [PubMed - indexed for MEDLINE]
+
+
+10. Development. 2014 Dec;141(23):4610-7. doi: 10.1242/dev.112607. Epub 2014 Oct 30.
+
+Ezh2-mediated repression of a transcriptional pathway upstream of Mmp9 maintains 
+integrity of the developing vasculature.
+
+Delgado-Olguín P(1), Dang LT(2), He D(3), Thomas S(3), Chi L(4), Sukonnik T(3),
+Khyzha N(2), Dobenecker MW(5), Fish JE(2), Bruneau BG(6).
+
+Author information: 
+(1)Gladstone Institute of Cardiovascular Disease, and Roddenberry Center for Stem
+Cell Biology and Medicine at Gladstone, San Francisco, CA 94158, USA Program in
+Physiology and Experimental Medicine, The Hospital for Sick Children, Toronto,
+Ontario M5G0A4, Canada Department of Molecular Genetics, University of Toronto,
+Toronto, Ontario M5S 1A8, Canada Heart and Stroke Richard Lewar Centre of
+Excellence, Toronto, Ontario M5G 1L7, Canada paul.delgadoolguin@sickkids.ca
+bbruneau@gladstone.ucsf.edu. (2)Heart and Stroke Richard Lewar Centre of
+Excellence, Toronto, Ontario M5G 1L7, Canada Toronto General Research Institute, 
+University Health Network, Toronto, Ontario M5G 1L7, Canada Department of
+Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario M5S
+1A1, Canada. (3)Gladstone Institute of Cardiovascular Disease, and Roddenberry
+Center for Stem Cell Biology and Medicine at Gladstone, San Francisco, CA 94158, 
+USA. (4)Program in Physiology and Experimental Medicine, The Hospital for Sick
+Children, Toronto, Ontario M5G0A4, Canada. (5)Laboratory of Lymphocyte Signaling,
+The Rockefeller University, New York, NY 10021, USA. (6)Gladstone Institute of
+Cardiovascular Disease, and Roddenberry Center for Stem Cell Biology and Medicine
+at Gladstone, San Francisco, CA 94158, USA Department of Pediatrics,
+Cardiovascular Research Institute, and Institute for Regeneration Medicine,
+University of California San Francisco, San Francisco, CA 94158, USA
+paul.delgadoolguin@sickkids.ca bbruneau@gladstone.ucsf.edu.
+
+Maintenance of vascular integrity is required for embryogenesis and organ
+homeostasis. However, the gene expression programs that stabilize blood vessels
+are poorly understood. Here, we show that the histone methyltransferase Ezh2
+maintains integrity of the developing vasculature by repressing a transcriptional
+program that activates expression of Mmp9. Inactivation of Ezh2 in developing
+mouse endothelium caused embryonic lethality with compromised vascular integrity 
+and increased extracellular matrix degradation. Genome-wide approaches showed
+that Ezh2 targets Mmp9 and its activators Fosl1 and Klf5. In addition, we
+uncovered Creb3l1 as an Ezh2 target that directly activates Mmp9 gene expression 
+in the endothelium. Furthermore, genetic inactivation of Mmp9 rescued vascular
+integrity defects in Ezh2-deficient embryos. Thus, epigenetic repression of
+Creb3l1, Fosl1, Klf5 and Mmp9 by Ezh2 in endothelial cells maintains the
+integrity of the developing vasculature, potentially linking this transcriptional
+network to diseases with compromised vascular integrity.
+
+© 2014. Published by The Company of Biologists Ltd.
+
+PMCID: PMC4302930
+PMID: 25359725  [PubMed - indexed for MEDLINE]
+
+
+11. Am J Surg Pathol. 2015 Mar;39(3):365-73. doi: 10.1097/PAS.0000000000000338.
+
+Primary renal sclerosing epithelioid fibrosarcoma: report of 2 cases with
+EWSR1-CREB3L1 gene fusion.
+
+Argani P(1), Lewin JR, Edmonds P, Netto GJ, Prieto-Granada C, Zhang L, Jungbluth 
+AA, Antonescu CR.
+
+Author information: 
+(1)Departments of *Pathology †Oncology, The Johns Hopkins Medical Institutions,
+Baltimore, MD ‡Department of Pathology, University of Mississippi Medical Center,
+Jackson, MS §Department of Pathology, Abbington Medical Center, Abbington, PA
+<U+2225>Department of Pathology, Memorial Sloan-Kettering Cancer Center, New York, NY.
+
+We report the first 2 genetically confirmed cases of primary renal sclerosing
+epithelioid fibrosarcoma (SEF), occurring in a 17-year-old boy and a 61-year-old 
+woman. In both cases, the tumors demonstrated the typical epithelioid clear cell 
+morphology associated with extensive hyalinizing fibrosis, raising the
+differential diagnosis of solitary fibrous tumor, metanephric stromal tumor, and 
+the sclerosing variant of clear cell sarcoma of the kidney. Both neoplasms
+demonstrated diffuse immunoreactivity for MUC4, a highly specific marker for SEF,
+and both demonstrated evidence of rearrangement of both the EWSR1 and CREB3L1
+genes, which have recently been shown to be fused in this entity. Both neoplasms 
+presented with metastatic disease. Primary renal SEF represents yet another
+translocation-associated sarcoma now shown to arise primarily in the kidney.
+
+PMCID: PMC4326586
+PMID: 25353281  [PubMed - indexed for MEDLINE]
+
+
+12. PLoS One. 2014 Oct 13;9(10):e108528. doi: 10.1371/journal.pone.0108528.
+eCollection 2014.
+
+Sustained induction of collagen synthesis by TGF-ß requires regulated
+intramembrane proteolysis of CREB3L1.
+
+Chen Q(1), Lee CE(1), Denard B(1), Ye J(1).
+
+Author information: 
+(1)Department of Molecular Genetics, University of Texas Southwestern Medical
+Center, Dallas, Texas, United States of America.
+
+CREB3L1 (cAMP response element binding protein 3-like 1), a transcription factor 
+synthesized as a membrane-bound precursor and activated through Regulated
+Intramembrane Proteolysis (RIP), is essential for collagen production by
+osteoblasts during bone development. Here, we show that TGF-ß (transforming
+growth factor-ß), a cytokine known to stimulate production of collagen during
+wound healing and fibrotic diseases, induces proteolytic activation of CREB3L1 in
+human A549 cells. This activation results from inhibition of expression of
+TM4SF20 (transmembrane 4 L6 family member 20), which normally inhibits RIP of
+CREB3L1. Cleavage of CREB3L1 releases its NH2-terminal domain from membranes,
+allowing it to enter the nucleus where it binds to Smad4 to activate
+transcription of genes encoding proteins required for assembly of
+collagen-containing extracellular matrix. Our findings raise the possibility that
+inhibition of RIP of CREB3L1 could prevent excess deposition of collagen in
+certain fibrotic diseases.
+
+PMCID: PMC4195586
+PMID: 25310401  [PubMed - indexed for MEDLINE]
+
+
+13. Genes Chromosomes Cancer. 2015 Jan;54(1):28-38. doi: 10.1002/gcc.22215. Epub 2014
+Sep 18.
+
+A genetic dichotomy between pure sclerosing epithelioid fibrosarcoma (SEF) and
+hybrid SEF/low-grade fibromyxoid sarcoma: a pathologic and molecular study of 18 
+cases.
+
+Prieto-Granada C(1), Zhang L, Chen HW, Sung YS, Agaram NP, Jungbluth AA,
+Antonescu CR.
+
+Author information: 
+(1)Department of Pathology, Memorial Sloan-Kettering Cancer Center, New York, NY.
+
+Sclerosing epithelioid fibrosarcoma (SEF) is a rare soft tissue tumor exhibiting 
+considerable morphologic overlap with low-grade fibromyxoid sarcoma (LGFMS).
+Moreover, both SEF and LGFMS show MUC4 expression by immunohistochemistry. While 
+the majority of LGFMS cases are characterized by a FUS-CREB3L1 fusion, both
+FUS-CREB3L2 and EWSR1-CREB3L1 fusions were recently demonstrated in a small
+number of LGFMS and SEF/LGFMS hybrid tumors. In contrast, recent studies pointed 
+out that SEF harbor frequent EWSR1 rearrangements, with only a minority of cases 
+showing FUS-CREB3L2 fusions. In an effort to further characterize the molecular
+characteristics of pure SEF and hybrid SEF/LGFMS lesions, we undertook a
+clinicopathologic, immunohistochemical and genetic analysis of a series of 10 SEF
+and 8 hybrid SEF/LGFMS tumors. The mortality rate was similar between the two
+groups, 44% within the pure SEF group and 37% in the hybrid SEF/LGFMS with a mean
+overall follow-up of 66 months. All but one pure SEF and all hybrid
+SEF/LGFMS-tested cases showed MUC4 immunoreactivity. The majority (90%) of pure
+SEF cases showed EWSR1 gene rearrangements by fluorescence in situ hybridization 
+with only one case exhibiting FUS rearrangement. Of the nine EWSR1 positive
+cases, six cases harbored CREB3L1 break-apart, two had CREB3L2 rearrangement (a
+previously unreported finding) and one lacked evidence of CREB3L1/2
+abnormalities. In contrast, all hybrid SEF/LGFMS tumors exhibited FUS and CREB3L2
+rearrangements. These results further demarcate a relative cytogenetic dichotomy 
+between pure SEF, often characterized by EWSR1 rearrangements, and hybrid
+SEF/LGFMS, harboring FUS-CREB3L2 fusion; the latter group recapitulating the
+genotype of LGFMS.
+
+© 2014 Wiley Periodicals, Inc.
+
+PMCID: PMC4232448
+PMID: 25231134  [PubMed - indexed for MEDLINE]
+
+
+14. Rev Diabet Stud. 2014 Spring;11(1):102-14. doi: 10.1900/RDS.2014.11.102. Epub
+2014 May 10.
+
+Profiling of embryonic stem cell differentiation.
+
+Shiraki N(1), Ogaki S(1), Kume S(1).
+
+Author information: 
+(1)Department of Stem Cell Biology, Institute of Molecular Embryology and
+Genetics, Kumamoto University, Honjo 2-2-1, Kumamoto 860-0811, Japan.
+
+Embryonic stem (ES) cells have been shown to recapitulate normal developmental
+stages. They are therefore a highly useful tool in the study of developmental
+biology. Profiling of ES cell-derived cells has yielded important information
+about the characteristics of differentiated cells, and allowed the identification
+of novel marker genes and pathways of differentiation. In this review, we focus
+on recent results from profiling studies of mouse embryos, human islets, and
+human ES cell-derived differentiated cells from several research groups. Global
+gene expression data from mouse embryos have been used to identify novel genes or
+pathways involved in the developmental process, and to search for transcription
+factors that regulate direct reprogramming. We introduce gene expression
+databases of human pancreas cells (Beta Cell Gene Atlas, EuroDia database), and
+summarize profiling studies of islet- or human ES cell-derived pancreatic cells, 
+with a focus on gene expression, microRNAs, epigenetics, and protein expression. 
+Then, we describe our gene expression profile analyses and our search for novel
+endoderm, or pancreatic, progenitor marker genes. We differentiated mouse ES
+cells into mesendoderm, definitive endoderm (DE), mesoderm, ectoderm, and
+Pdx1-expressing pancreatic lineages, and performed DNA microarray analyses. Genes
+specifically expressed in DE, and/or in Pdx1-expressing cells, were extracted and
+their expression patterns in normal embryonic development were studied by in situ
+hybridization. Out of 54 genes examined, 27 were expressed in the DE of E8.5
+mouse embryos, and 15 genes were expressed in distinct domains in the pancreatic 
+buds of E14.5 mouse embryos. Akr1c19, Aebp2, Pbxip1, and Creb3l1 were all novel, 
+and none has been described as being expressed, either in the DE, or in the
+pancreas. By introducing the profiling results of ES cell-derived cells, the
+benefits of using ES cells to study early embryonic development will be
+discussed.
+
+PMCID: PMC4295802
+PMID: 25148369  [PubMed - indexed for MEDLINE]
+
+
+15. Hum Pathol. 2014 Oct;45(10):2173-8. doi: 10.1016/j.humpath.2014.05.006. Epub 2014
+Jun 2.
+
+Sclerosing epithelioid fibrosarcoma presenting as intraabdominal sarcomatosis
+with a novel EWSR1-CREB3L1 gene fusion.
+
+Stockman DL(1), Ali SM(2), He J(2), Ross JS(3), Meis JM(4).
+
+Author information: 
+(1)Departments of Pathology, The University of Texas MD Anderson Cancer Center,
+1515 Holcombe Blvd Unit 085, Houston, TX 77030. (2)Foundation Medicine, 150
+Second St, Cambridge, MA 02141. (3)Foundation Medicine, 150 Second St, Cambridge,
+MA 02141; Department of Pathology and Laboratory Medicine, Albany Medical
+College, 47 New Scotland Ave, Albany, NY 12208. (4)Departments of Pathology, The 
+University of Texas MD Anderson Cancer Center, 1515 Holcombe Blvd Unit 085,
+Houston, TX 77030. Electronic address: jmmeis@mdanderson.org.
+
+We report a case of intraabdominal sclerosing epithelioid fibrosarcoma (SEF) with
+a t (11;22)(p11.2;q12.2) Ewing sarcoma breakpoint region 1-cAMP-responsive
+element-binding protein 3-like 1 translocation. A 43-year old man presented with 
+massive ascites and shortness of breath. Imaging studies revealed a large
+mesenteric-based mass with extensive omental/peritoneal disease. After resection 
+and cytoreductive surgery, the tumor recurred with metastasis to the lungs; the
+patient is still alive with disease. Histologically, there was a uniform
+population of epithelioid cells arranged in cords and nests, embedded in a dense 
+collagenous matrix; no areas of low-grade fibromyxoid sarcoma were identified.
+All immunohistochemical markers were nonreactive. Fluorescence in situ
+hybridization studies showed rearrangement of Ewing sarcoma breakpoint region 1. 
+Genomic profiling by clinical grade next-generation sequencing revealed a fusion 
+gene between intron 11 of Ewing sarcoma breakpoint region 1 (22q12.2) and intron 
+5 of cAMP-responsive element-binding protein 3-like 1 (11p11.2). This is the
+first report of "pure" or true SEF presenting as intraabdominal sarcomatosis with
+confirmation of the recently described unique Ewing sarcoma breakpoint region
+1-cAMP-responsive element-binding protein 3-like 1 gene fusion in SEF without
+areas of low-grade fibromyxoid sarcoma.
+
+Copyright © 2014. Published by Elsevier Inc.
+
+PMID: 25123073  [PubMed - indexed for MEDLINE]
+
+
+16. Curr Opin Pediatr. 2014 Aug;26(4):500-7. doi: 10.1097/MOP.0000000000000117.
+
+Osteogenesis imperfecta due to mutations in non-collagenous genes: lessons in the
+biology of bone formation.
+
+Marini JC(1), Reich A, Smith SM.
+
+Author information: 
+(1)Bone and Extracellular Matrix Branch, Eunice Kennedy Shriver National
+Institute of Child Health and Human Development, National Institutes of Health,
+Bethesda, Maryland, USA.
+
+PURPOSE OF REVIEW: Osteogenesis imperfecta or 'brittle bone disease' has mainly
+been considered a bone disorder caused by collagen mutations. Within the last
+decade, however, a surge of genetic discoveries has created a new paradigm for
+osteogenesis imperfecta as a collagen-related disorder, where most cases are due 
+to autosomal dominant type I collagen defects, while rare, mostly recessive,
+forms are due to defects in genes whose protein products interact with collagen
+protein. This review is both timely and relevant in outlining the genesis,
+development, and future of this paradigm shift in the understanding of
+osteogenesis imperfecta.
+RECENT FINDINGS: Bone-restricted interferon-induced transmembrane (IFITM)-like
+protein (BRIL) and pigment epithelium-derived factor (PEDF) defects cause types V
+and VI osteogenesis imperfecta via defective bone mineralization, while defects
+in cartilage-associated protein (CRTAP), prolyl 3-hydroxylase 1 (P3H1), and
+cyclophilin B (CYPB) cause types VII-IX osteogenesis imperfecta via defective
+collagen post-translational modification. Heat shock protein 47 (HSP47) and
+FK506-binding protein-65 (FKBP65) defects cause types X and XI osteogenesis
+imperfecta via aberrant collagen crosslinking, folding, and chaperoning, while
+defects in SP7 transcription factor, wingless-type MMTV integration site family
+member 1 (WNT1), trimeric intracellular cation channel type b (TRIC-B), and old
+astrocyte specifically induced substance (OASIS) disrupt osteoblast development. 
+Finally, absence of the type I collagen C-propeptidase bone morphogenetic protein
+1 (BMP1) causes type XII osteogenesis imperfecta due to altered collagen
+maturation/processing.
+SUMMARY: Identification of these multiple causative defects has provided crucial 
+information for accurate genetic counseling, inspired a recently proposed
+functional grouping of osteogenesis imperfecta types by shared mechanism to
+simplify current nosology, and has prodded investigations into common pathways in
+osteogenesis imperfecta. Such investigations could yield critical information on 
+cellular and bone tissue mechanisms and translate to new mechanistic insight into
+clinical therapies for patients.
+
+PMCID: PMC4183132
+PMID: 25007323  [PubMed - indexed for MEDLINE]
+
+
+17. Pediatr Dev Pathol. 2014 Jul-Aug;17(4):321-6. doi: 10.2350/14-05-1487-CR.1. Epub 
+2014 Jun 4.
+
+Primary low-grade fibromyxoid sarcoma of the kidney in a child with the
+alternative EWSR1-CREB3L1 gene fusion.
+
+Rubinstein JC(1), Visa A, Zhang L, Antonescu CR, Christison-Lagay ER, Morotti R.
+
+Author information: 
+(1)1<U+2009> Department of General Surgery, Yale University School of Medicine, New
+Haven, CT, USA.
+
+We present the case of a 6-year-old boy with a deceptively bland spindle cell
+renal neoplasm found to harbor the EWSR1-CREB3L1 gene fusion. This fusion has
+recently been described as a variant translocation in low-grade fibromyxoid
+sarcoma (LGFMS), a tumor more typically characterized by a recurrent t(7;16)
+chromosomal translocation, resulting in the fusion of FUS and CREB3L2 genes.
+LGFMS is an indolent tumor with late metastatic potential and a propensity for
+long-term disease recurrence. The tumor is rare in children, with only 33
+published cases. In the pediatric population, it has not previously been reported
+arising in the kidney.
+
+PMID: 24896634  [PubMed - indexed for MEDLINE]
+
+
+18. J Neurochem. 2014 Sep;130(5):612-25. doi: 10.1111/jnc.12736. Epub 2014 May 7.
+
+OASIS regulates chondroitin 6-O-sulfotransferase 1 gene transcription in the
+injured adult mouse cerebral cortex.
+
+Okuda H(1), Tatsumi K, Horii-Hayashi N, Morita S, Okuda-Yamamoto A, Imaizumi K,
+Wanaka A.
+
+Author information: 
+(1)Department of Anatomy and Neuroscience, Faculty of Medicine, Nara Medical
+University, Kashihara, Japan.
+
+Old astrocyte specifically induced substance (OASIS), a basic leucine zipper
+transcription factor of the cAMP response element binding/Activating
+transcription factor family, is induced in reactive astrocytes in vivo and has
+important roles in quality control of protein synthesis at the endoplasmic
+reticulum. Reactive astrocytes produce a non-permissive environment for
+regenerating axons by up-regulating chondroitin sulfate proteoglycans (CSPGs). In
+this study, we focus on the potential role of OASIS in CSPG production in the
+adult mouse cerebral cortex. CS-C immunoreactivity, which represents chondroitin 
+sulfate moieties, was significantly attenuated in the stab-injured cortices of
+OASIS knockout mice compared to those of wild-type mice. We next examined
+expression of the CSPG-synthesizing enzymes and core proteins of CSPGs in the
+stab-injured cortices of OASIS knockout and wild-type mice. The levels of
+chondroitin 6-O-sulfotransferase 1 (C6ST1, one of the major enzymes involved in
+sulfation of CSPGs) mRNA and protein increased after cortical stab injury of
+wild-type, but not of OASIS knockout, mice. A C-terminal deletion mutant OASIS
+over-expressed in rat C6 glioma cells increased C6ST1 transcription by
+interacting with the first intron region. Neurite outgrowth of cultured
+hippocampal neurons was inhibited on culture dishes coated with membrane
+fractions of epidermal growth factor-treated astrocytes derived from wild type
+but not from OASIS knockout mice. These results suggest that OASIS regulates the 
+transcription of C6ST1 and thereby promotes CSPG sulfation in astrocytes. Through
+these mechanisms, OASIS may modulate axonal regeneration in the injured cerebral 
+cortex. OASIS, an ER stress-responsive CREB/ATF family member, is up-regulated in
+the reactive astrocytes of the injured brain. We found that the up-regulated
+OASIS is involved in the transcriptional regulation of C6ST1 gene, which promotes
+chondroitin sulfate proteoglycan (CSPG) sulfation. We conclude that OASIS
+functions as an anti-regenerative transcription factor by establishing a
+non-permissive microenvironment to regenerating axons.
+
+© 2014 International Society for Neurochemistry.
+
+PMID: 24716865  [PubMed - indexed for MEDLINE]
+
+
+19. J Neurosci. 2014 Mar 12;34(11):3810-20. doi: 10.1523/JNEUROSCI.4343-13.2014.
+
+Transcription factor CREB3L1 regulates vasopressin gene expression in the rat
+hypothalamus.
+
+Greenwood M(1), Bordieri L, Greenwood MP, Rosso Melo M, Colombari DS, Colombari
+E, Paton JF, Murphy D.
+
+Author information: 
+(1)School of Clinical Sciences, University of Bristol, Bristol BS1 3NY, United
+Kingdom, Department of Physiology and Pathology, School of Dentistry, São Paulo
+State University, Araraquara, São Paulo 14801-385, Brazil, School of Physiology
+and Pharmacology, University of Bristol, Bristol BS8 1TD, United Kingdom, and
+Department of Physiology, University of Malaya, Kuala Lumpur 50603, Malaysia.
+
+Arginine vasopressin (AVP) is a neurohypophysial hormone regulating hydromineral 
+homeostasis. Here we show that the mRNA encoding cAMP responsive element-binding 
+protein-3 like-1 (CREB3L1), a transcription factor of the CREB/activating
+transcription factor (ATF) family, increases in expression in parallel with AVP
+expression in supraoptic nuclei (SONs) and paraventicular nuclei (PVNs) of
+dehydrated (DH) and salt-loaded (SL) rats, compared with euhydrated (EH)
+controls. In EH animals, CREB3L1 protein is expressed in glial cells, but only at
+a low level in SON and PVN neurons, whereas robust upregulation in AVP neurons
+accompanied DH and SL rats. Concomitantly, CREB3L1 is activated by cleavage, with
+the N-terminal domain translocating from the Golgi, via the cytosol, to the
+nucleus. We also show that CREB3L1 mRNA levels correlate with AVP transcription
+level in SONs and PVNs following sodium depletion, and as a consequence of
+diurnal rhythm in the suprachiasmatic nucleus. We tested the hypothesis that
+CREB3L1 activates AVP gene transcription. Both full-length and constitutively
+active forms of CREB3L1 (CREB3L1CA) induce the expression of rat AVP
+promoter-luciferase reporter constructs, whereas a dominant-negative mutant
+reduces expression. Rat AVP promoter deletion constructs revealed that CRE-like
+and G-box sequences in the region between -170 and -120 bp are important for
+CREB3L1 actions. Direct binding of CREB3L1 to the AVP promoter was shown by
+chromatin immunoprecipitation both in vitro and in the SON itself. Injection of a
+lentiviral vector expressing CREB3L1CA into rat SONs and PVNs resulted in
+increased AVP biosynthesis. We thus identify CREB3L1 as a regulator of AVP
+transcription in the rat hypothalamus.
+
+PMCID: PMC3951688
+PMID: 24623760  [PubMed - indexed for MEDLINE]
+
+
+20. PLoS One. 2014 Feb 3;9(2):e88048. doi: 10.1371/journal.pone.0088048. eCollection 
+2014.
+
+Increased susceptibility to dextran sulfate sodium-induced colitis in the
+endoplasmic reticulum stress transducer OASIS deficient mice.
+
+Hino K(1), Saito A(1), Asada R(1), Kanemoto S(1), Imaizumi K(1).
+
+Author information: 
+(1)Department of Biochemistry, Institute of Biomedical & Health Sciences,
+University of Hiroshima, 1-2-3 Kasumi, Minami-ku, Hiroshima, Japan.
+
+OASIS is a basic leucine zipper (bZIP) transmembrane transcription factor that is
+activated in response to endoplasmic reticulum (ER) stress. Previously, we showed
+that OASIS regulates final maturation of goblet cells in the large intestine. In 
+the present study, to elucidate the roles of OASIS under pathophysiological
+conditions, we examined the stress response and inflammatory responses in Oasis
+deficient (Oasis<U+207B>/<U+207B>) mice exposed to dextran sulfate sodium (DSS) to induce
+colitis. A significant loss of body weight and an increase of mortality were
+observed in Oasis<U+207B>/<U+207B> mice with DSS-induced colitis compared with those in WT
+mice. The mucosa of the large intestine in Oasis<U+207B>/<U+207B> mice exhibited severe damage 
+involving inflammatory cell infiltration. The expression levels of ER stress and 
+apoptosis markers in intestinal epithelial cells were upregulated in Oasis<U+207B>/<U+207B>
+mice. These abnormalities were improved by treatment with tauroursodeoxycholic
+acid, a chemical chaperone that facilitates protein folding. Taken together, our 
+findings demonstrate that OASIS plays important roles in protection of the large 
+intestinal mucosa in DSS-induced colitis through attenuation of ER stress and
+inflammation.
+
+PMCID: PMC3912207
+PMID: 24498426  [PubMed - indexed for MEDLINE]
+
+
+21. Am J Surg Pathol. 2014 Jun;38(6):801-8. doi: 10.1097/PAS.0000000000000158.
+
+Recurrent EWSR1-CREB3L1 gene fusions in sclerosing epithelioid fibrosarcoma.
+
+Arbajian E(1), Puls F, Magnusson L, Thway K, Fisher C, Sumathi VP, Tayebwa J,
+Nord KH, Kindblom LG, Mertens F.
+
+Author information: 
+(1)*Department of Clinical Genetics, University and Regional Laboratories, Skåne 
+University Hospital, Lund University, Lund, Sweden †Department of Musculoskeletal
+Pathology and Orthopaedic Oncology, Royal Orthopaedic Hospital NHS Foundation
+Trust and Division of Cancer Studies, Medical School, University of Birmingham,
+Birmingham ‡Department of Histopathology, Royal Marsden Hospital, London, UK.
+
+Sclerosing epithelioid fibrosarcoma (SEF) and low-grade fibromyxoid sarcoma
+(LGFMS) are 2 distinct types of sarcoma, with a subset of cases showing
+overlapping morphologic and immunohistochemical features. LGFMS is characterized 
+by expression of the MUC4 protein, and about 90% of cases display a distinctive
+FUS-CREB3L2 gene fusion. In addition, SEF is often MUC4 positive, but is
+genetically less well studied. Fluorescence in situ hybridization (FISH) studies 
+have shown involvement of the FUS gene in the majority of so-called hybrid
+LGFMS/SEF and in 10% to 25% of sarcomas with pure SEF morphology. In this study, 
+we investigated a series of 10 primary tumors showing pure SEF morphology, 4
+cases of LGFMS that at local or distant relapse showed predominant SEF
+morphology, and 1 primary hybrid LGFMS/SEF. All but 1 case showed diffuse
+expression for MUC4. Using FISH, reverse transcription polymerase chain reaction,
+and/or mRNA sequencing in selected cases, we found recurrent EWSR1-CREB3L1 fusion
+transcripts by reverse transcription polymerase chain reaction in 3/10 pure SEF
+cases and splits and deletions of the EWSR1 and/or CREB3L1 genes by FISH in 6
+additional cases. All 5 cases of LGFMS with progression to SEF morphology or
+hybrid features had FUS-CREB3L2 fusion transcripts. Our results indicate that
+EWSR1 and CREB3L1 rearrangements are predominant over FUS and CREB3L2
+rearrangements in pure SEF, highlighting that SEF and LGFMS are different tumor
+types, with different impacts on patient outcome.
+
+PMID: 24441665  [PubMed - indexed for MEDLINE]
+
+
+22. Clin Calcium. 2013 Dec;23(12):1759-66. doi: CliCa131217591766.
+
+[Endoplasmic reticulum stress response involved in osteogenesis and
+chondrogenesis].
+
+[Article in Japanese]
+
+Imaizumi K(1).
+
+Author information: 
+(1)Department of Biochemistry, Graduate School of Biomedical Sciences, Hiroshima 
+University, Japan.
+
+The endoplasmic reticulum (ER) is a central cellular organelle responsible for
+the synthesis, folding and posttranslational modifications of proteins destined
+for the secretory pathway. Various pathophysiological conditions, such as
+ER-calcium depletion, oxidative stress, hypoglycemia, expression of mutated
+proteins and hypoxia, interfere with the correct folding of proteins and these
+misfolded or unfolded proteins accumulate in the ER lumen. These conditions,
+which are collectively termed ER stress, have the potential to induce cellular
+damage. Recently, the ER stress has been demonstrated to be associated with bone 
+and cartilage diseases. Further, it has been known that the ER stress and its
+stress response also play important roles in osteogenesis and chondrogenesis.
+
+PMID: 24292530  [PubMed - indexed for MEDLINE]
+
+
+23. Anat Sci Int. 2014 Jan;89(1):11-20. doi: 10.1007/s12565-013-0214-x. Epub 2013 Nov
+16.
+
+Physiological functions of endoplasmic reticulum stress transducer OASIS in
+central nervous system.
+
+Saito A(1).
+
+Author information: 
+(1)Department of Biochemistry, Institute of Biomedical and Health Sciences,
+University of Hiroshima, 1-2-3 Kasumi, Minami-ku, Hiroshima, 734-8553, Japan,
+asaito@hiroshima-u.ac.jp.
+
+Eukaryotic cells can adapt to endoplasmic reticulum (ER) dysfunction by producing
+diverse signals from the ER to the cytosol or nucleus. These signaling pathways
+are collectively known as the unfolded protein response (UPR). The canonical
+branches of the UPR are mediated by three ER membrane-bound proteins:
+double-stranded RNA-dependent protein kinase (PKR)-like endoplasmic reticulum
+kinase (PERK), inositol-requiring enzyme-1 (IRE1) and activating transcription
+factor 6 (ATF6). These ER stress transducers basically play important roles in
+cell survival after ER stress. Recently, novel types of ER stress transducers
+that share a region of high sequence similarity with ATF6 have been identified.
+They have a transmembrane domain, which allows them to associate with the ER, and
+possess a transcription-activation domain and a basic leucine zipper (bZIP)
+domain. These membrane-bound bZIP transcription factors include OASIS, BBF2H7
+CREBH, CREB4 and Luman, and are collectively referred to as OASIS family members.
+Despite their structural similarities with ATF6, differences in activating
+stimuli and tissue distribution indicate specialized functions of each member on 
+regulating UPR signaling in specific organs and tissues. One of them, OASIS, is
+expressed preferentially in astrocytes in the central nervous system (CNS). OASIS
+temporally regulates the differentiation from neural precursor cells into
+astrocytes to promote the expression of Glial Cell Missing 1 through dynamic
+interactions among OASIS family members followed by accelerating demethylation of
+the Gfap promoter. This review is a summary of our current understanding of the
+physiological functions of OASIS in the CNS.
+
+PMCID: PMC3889286
+PMID: 24242870  [PubMed - indexed for MEDLINE]
+
+
+24. Clin Calcium. 2013 Nov;23(11):1569-75. doi: CliCa131115691575.
+
+[Endoplasmic reticulum stress response in osteogenesis].
+
+[Article in Japanese]
+
+Saito A(1), Imaizumi K.
+
+Author information: 
+(1)Department of Biochemistry, Institute of Biomedical & Health Sciences,
+University of Hiroshima, Japan.
+
+Various cellular conditions such as synthesis of abundant proteins, expressions
+of mutant proteins and oxidative stress lead to accumulation of unfolded or
+misfolded proteins in the endoplasmic reticulum (ER) lumen. This type of stress
+is called ER stress. The excessive ER stress causes cellular damages followed by 
+apoptosis. When ER stress occurs, cells are activated ER stress response
+(unfolded protein response) to avoid cellular damages. Recently, it has been
+clear that ER stress response plays crucial roles not only in cell survival after
+ER stress but also in regulating various cellular functions and tissue
+formations. In particular, ER stress and ER stress response regulate protein
+quality control, secretory protein production, and smooth secretion of proteins
+in the cells such as osteoblasts which synthesize and secrete enormous matrix
+proteins.
+
+PMID: 24162596  [PubMed - indexed for MEDLINE]
+
+
+25. Mol Cell Biol. 2013 Dec;33(24):4985-95. doi: 10.1128/MCB.00959-13. Epub 2013 Oct 
+14.
+
+CREB3L1 is a metastasis suppressor that represses expression of genes regulating 
+metastasis, invasion, and angiogenesis.
+
+Mellor P(1), Deibert L, Calvert B, Bonham K, Carlsen SA, Anderson DH.
+
+Author information: 
+(1)Saskatchewan Cancer Agency, Cancer Research, Saskatoon, Canada.
+
+The unfolded protein response (UPR) is activated in response to hypoxia-induced
+stress such as in the tumor microenvironment. This study examined the role of
+CREB3L1 (cyclic AMP [cAMP]-responsive element-binding protein 3-like protein 1), 
+a member of the UPR, in breast cancer development and metastasis. Initial
+experiments identified the loss of CREB3L1 expression in metastatic breast cancer
+cell lines compared to low-metastasis or nonmetastatic cell lines. When
+metastatic cells were transfected with CREB3L1, they demonstrated reduced
+invasion and migration in vitro, as well as a significantly decreased ability to 
+survive under nonadherent or hypoxic conditions. Interestingly, in an in vivo rat
+mammary tumor model, not only did CREB3L1-expressing cells fail to form
+metastases compared to CREB3L1 null cells but regression of the primary tumors
+was seen in 70% of the animals as a result of impaired angiogenesis. Microarray
+and chromatin immunoprecipitation with microarray technology (ChIP on Chip)
+analyses identified changes in the expression of many genes involved in cancer
+development and metastasis, including a decrease in those involved in
+angiogenesis. These data suggest that CREB3L1 plays an important role in
+suppressing tumorigenesis and that loss of expression is required for the
+development of a metastatic phenotype.
+
+PMCID: PMC3889558
+PMID: 24126059  [PubMed - indexed for MEDLINE]
+
+
+26. Biochim Biophys Acta. 2013 Dec;1828(12):2926-32. doi:
+10.1016/j.bbamem.2013.05.005.
+
+Roles of regulated intramembrane proteolysis in virus infection and antiviral
+immunity.
+
+Ye J(1).
+
+Author information: 
+(1)Department of Molecular Genetics, University of Texas Southwestern Medical
+Center, 5323 Harry Hines Blvd., Dallas, TX 75390-9046, USA. Electronic address:
+jin.ye@utsouthwestern.edu.
+
+Regulated intramembrane proteolysis (RIP) is a signaling mechanism through which 
+transmembrane precursor proteins are cleaved to liberate their cytoplasmic and/or
+luminal/extracellular fragments from membranes so that these fragments are able
+to function at a new location. Recent studies have indicated that this
+proteolytic reaction plays an important role in host-virus interaction. On one
+hand, RIP transfers the signal from the endoplasmic reticulum (ER) to nucleus to 
+activate antiviral genes in response to alteration of the ER caused by viral
+infection. On the other hand, RIP can be hijacked by virus to process
+transmembrane viral protein precursors and to destroy transmembrane antiviral
+proteins. Understanding this Yin and Yang side of RIP may lead to new strategies 
+to combat viral infection. This article is part of a Special Issue entitled:
+Intramembrane Proteases.
+
+Copyright © 2013 Elsevier B.V. All rights reserved.
+
+PMCID: PMC3837687
+PMID: 24099010  [PubMed - indexed for MEDLINE]
+
+
+27. Orphanet J Rare Dis. 2013 Sep 30;8:154. doi: 10.1186/1750-1172-8-154.
+
+Deficiency for the ER-stress transducer OASIS causes severe recessive
+osteogenesis imperfecta in humans.
+
+Symoens S(1), Malfait F, D'hondt S, Callewaert B, Dheedene A, Steyaert W,
+Bächinger HP, De Paepe A, Kayserili H, Coucke PJ.
+
+Author information: 
+(1)Center for Medical Genetics, Ghent University Hospital, 9000 Ghent, Belgium.
+Paul.Coucke@UGent.be.
+
+Osteogenesis imperfecta (OI) is a clinically and genetically heterogeneous
+brittle bone disorder. Whereas dominant OI is mostly due to heterozygous
+mutations in either COL1A1 or COL1A2, encoding type I procollagen, recessive OI
+is caused by biallelic mutations in genes encoding proteins involved in type I
+procollagen processing or chaperoning. Hitherto, some OI cases remain molecularly
+unexplained. We detected a homozygous genomic deletion of CREB3L1 in a family
+with severe OI. CREB3L1 encodes OASIS, an endoplasmic reticulum-stress transducer
+that regulates type I procollagen expression during murine bone formation. This
+is the first report linking CREB3L1 to human recessive OI, thereby expanding the 
+OI gene spectrum.
+
+PMCID: PMC3850743
+PMID: 24079343  [PubMed - indexed for MEDLINE]
+
+
+28. J Biol Chem. 2013 Oct 4;288(40):28488-502. doi: 10.1074/jbc.M113.465179. Epub
+2013 Aug 16.
+
+F-box and WD repeat domain-containing-7 (Fbxw7) protein targets endoplasmic
+reticulum-anchored osteogenic and chondrogenic transcriptional factors for
+degradation.
+
+Yumimoto K(1), Matsumoto M, Onoyama I, Imaizumi K, Nakayama KI.
+
+Author information: 
+(1)From the Department of Molecular and Cellular Biology, Medical Institute of
+Bioregulation, Kyushu University, 3-1-1 Maidashi, Higashi-ku, Fukuoka, Fukuoka
+812-8582, Japan.
+
+Although identification of substrates for an enzyme is a key step in elucidation 
+of its biological functions, detection of the interaction between enzymes and
+substrates remains challenging. We recently developed a new approach, termed
+differential proteomics-based identification of ubiquitylation substrates
+(DiPIUS), for the discovery of substrates of ubiquitin ligases. We have now
+applied this approach to Fbxw7, the F-box protein component of an Skp1-Cul1-F-box
+protein-type ubiquitin ligase and, thereby, identified two similar transcription 
+factors, old astrocyte specifically induced substance (OASIS) and BBF2 human
+homolog on chromosome 7 (BBF2H7), as candidate substrates. Coimmunoprecipitation 
+analysis confirmed that the a and <U+03B3> isoforms of Fbxw7 interact with OASIS and
+BBF2H7 in vivo. Sustained overexpression of Fbxw7 resulted in marked
+down-regulation of OASIS and BBF2H7, whereas RNAi-mediated Fbxw7 depletion
+stabilized both proteins. Mutation of a putative Cdc4 phosphodegron in OASIS and 
+BBF2H7 attenuated their association with Fbxw7 and resulted in their
+stabilization. Depletion of Fbxw7 promoted the differentiation of mouse C2C12
+mesenchymal cells into osteoblasts in association with the accumulation of OASIS.
+Conversely, overexpression of Fbxw7 in C2C12 cells resulted in down-regulation of
+Col1A1 mRNA, a target of OASIS. Conditional ablation of Fbxw7 in primary mouse
+mesenchymal cells promoted chondrogenesis in association with up-regulation of
+BBF2H7, whereas overexpression of Fbxw7 inhibited chondrogenesis in ATDC5 cells. 
+Collectively, our results suggest that OASIS and BBF2H7 are bona fide substrates 
+of Fbxw7 and that Fbxw7 controls osteogenesis and chondrogenesis by targeting
+OASIS and BBF2H7, respectively, for degradation.
+
+PMCID: PMC3789950
+PMID: 23955342  [PubMed - indexed for MEDLINE]
+
+
+29. World J Gastroenterol. 2013 Jun 7;19(21):3249-54. doi: 10.3748/wjg.v19.i21.3249.
+
+Early dynamic transcriptomic changes during preoperative radiotherapy in patients
+with rectal cancer: a feasibility study.
+
+Supiot S(1), Gouraud W, Campion L, Jezéquel P, Buecher B, Charrier J, Heymann MF,
+Mahé MA, Rio E, Chérel M.
+
+Author information: 
+(1)Department of Radiation Oncology, Institut de Cancérologie de l'Ouest René
+Gauducheau, 44800 Nantes-St-Herblain, France.
+
+AIM: To develop novel biomarkers of rectal radiotherapy, we measured gene
+expression profiles on biopsies taken before and during preoperative
+radiotherapy.
+METHODS: Six patients presenting with a locally advanced rectal cancer (T>T2,
+N0/Nx, M0) eligible for preoperative radiotherapy (45 Gy in 25 fractions) were
+selected in a pilot study. Six tumor and 3 normal tissues biopsies were taken
+before and during radiotherapy, after a dose of 7.2 Gy at a median time of 1 h
+following irradiation (0:27-2:12). Tumor or normal tissue purity was assessed by 
+a pathologist prior to RNA extraction. Mean RNA content was 23 µg/biopsy (14-37) 
+before radiotherapy and 22.7 µg/biopsy (12-35) during radiotherapy. After RNA
+amplification, biopsies were analysed with 54K HG-U133A Plus 2.0 Affymetrix
+expression micro-arrays. Data were normalized according to MAS5 algorithm. A gene
+expression ratio was calculated as: (gene expression during radiotherapy - gene
+expression before radiotherapy)/gene expression before radiotherapy. Were
+selected genes that showed a ratio higher than ± 0.5 in all 6 patients.
+RESULTS: Microarray analysis showed that preoperative radiotherapy significantly 
+up-regulated 31 genes and down-regulated 6 genes. According to the Gene Ontology 
+project classification, these genes are involved in protein metabolism (ADAMDEC1;
+AKAP7; CAPN5; CLIC5; CPE; CREB3L1; NEDD4L; RAB27A), ion transport (AKAP7; ATP2A3;
+CCL28; CLIC5; F2RL2; NEDD4L; SLC6A8), transcription (AKAP7; CREB3L1; ISX;
+PABPC1L; TXNIP), signal transduction (CAPN5; F2RL2; RAB27A; TNFRSF11A), cell
+adhesion (ADAMDEC1; PXDN; SPON1; S100A2), immune response (CCL28; PXDN;
+TNFRSF11A) and apoptosis (ITM2C; PDCD4; PVT1). Up-regulation of 3 genes (CCL28;
+CLIC5; PDCD4) was detected by 2 different probes and up-regulation of 2 genes
+(RAB27A; TXNIP) by 3 probes.
+CONCLUSION: Micro-arrays can efficiently assess early transcriptomic changes
+during preoperative radiotherapy for rectal cancer, and may help better
+understand tumor radioresistance.
+
+PMCID: PMC3671076
+PMID: 23745026  [PubMed - indexed for MEDLINE]
+
+
+30. J Pathol. 2013 Sep;231(1):53-62. doi: 10.1002/path.4210. Epub 2013 Jul 8.
+
+Methylation-specific digital karyotyping of HPV16E6E7-expressing human
+keratinocytes identifies novel methylation events in cervical carcinogenesis.
+
+Steenbergen RD(1), Ongenaert M, Snellenberg S, Trooskens G, van der Meide WF,
+Pandey D, Bloushtain-Qimron N, Polyak K, Meijer CJ, Snijders PJ, Van Criekinge W.
+
+Author information: 
+(1)Department of Pathology, VU University Medical Centre, Amsterdam, The
+Netherlands. r.steenbergen@vumc.nl
+
+Transformation of epithelial cells by high-risk human papillomavirus (hrHPV)
+types can lead to anogenital carcinomas, particularly cervical cancer, and
+oropharyngeal cancers. This process is associated with DNA methylation
+alterations, often affecting tumour suppressor gene expression. This study aimed 
+to comprehensively unravel genome-wide DNA methylation events linked to a
+transforming hrHPV-infection, which is driven by deregulated expression of the
+viral oncogenes E6 and E7 in dividing cells. Primary human keratinocytes
+transduced with HPV16E6E7 and their untransduced counterparts were subjected to
+methylation-specific digital karyotyping (MSDK) to screen for genome-wide
+DNA-methylation changes at different stages of HPV-induced transformation.
+Integration of the obtained methylation profiles with genome-wide gene expression
+patterns of cervical carcinomas identified 34 genes with increased methylation in
+HPV-transformed cells and reduced expression in cervical carcinomas. For 12 genes
+(CLIC3, CREB3L1, FAM19A4, LFNG, LHX1, MRC2, NKX2-8, NPTX-1, PHACTR3, PRDM14, SOST
+and TNFSF13) specific methylation in HPV-containing cell lines was confirmed by
+semi-quantitative methylation-specific PCR. Subsequent analysis of FAM19A4, LHX1,
+NKX2-8, NPTX-1, PHACTR3 and PRDM14 in cervical tissue specimens showed increasing
+methylation levels for all genes with disease progression. All six genes were
+frequently methylated in cervical carcinomas, with highest frequencies (up to
+100%) seen for FAM19A4, PHACTR3 and PRDM14. Analysis of hrHPV-positive cervical
+scrapes revealed significantly increased methylation levels of the latter three
+genes in women with high-grade cervical disease compared to controls. In
+conclusion, MSDK analysis of HPV16-transduced keratinocytes at different stages
+of HPV-induced transformation resulted in the identification of novel DNA
+methylation events, involving FAM19A4, LHX1, NKX2-8, PHACTR3 and PRDM14 genes in 
+cervical carcinogenesis. These genes may provide promising triage markers to
+assess the presence of (pre)cancerous cervical lesions in hrHPV-positive women.
+
+Copyright © 2013 Pathological Society of Great Britain and Ireland. Published by 
+John Wiley & Sons, Ltd.
+
+PMID: 23674368  [PubMed - indexed for MEDLINE]
+
+
+31. Gene Expr Patterns. 2013 Jun-Jul;13(5-6):197-202. doi: 10.1016/j.gep.2013.04.001.
+Epub 2013 Apr 18.
+
+New population of odontoblasts responsible for tooth root formation.
+
+Bae CH(1), Kim TH, Chu JY, Cho ES.
+
+Author information: 
+(1)Cluster for Craniofacial Development and Regeneration Research, Institute of
+Oral Biosciences, Chonbuk National University, School of Dentistry, Jeonju
+561-756, South Korea. gnosisch@jbnu.ac.kr
+
+Root formation is initiated with the extension of Hertwig's epithelial root
+sheath (HERS) after crown morphogenesis. To date, little is known about the
+molecular and cellular mechanisms controlling root formation. Recently we found
+rootless molars are formed in the dental mesenchyme-specific ß-catenin
+conditional knockout mice. The striking root phenotypes of these mutant mice
+result from the disrupted differentiation of differentiating odontoblasts, caused
+by ablation of ß-catenin during initiation of root formation. Here we show the
+cellular and molecular characteristics of differentiating odontoblasts using
+histochemistry and immunohistochemistry. These cells were not found in crown
+formation, but appeared only in the apical end of developing tooth, thus we have 
+named these cells "apical odontoblasts" (AOds). AOds appeared immediately after
+HERS formation and were always present on the apical side of developing roots
+until root formation was complete. These findings indicate that AOds are closely 
+associated with the transition from crown to root and with root elongation. In
+AOds, several transcription factors, including Nfic, Creb3l1, and Osx, as well as
+ß-catenin and alkaline phosphatase were expressed but Phex and Dspp were not
+expressed. Taken together, our results indicate that AOds are the principal cells
+responsible for tooth root formation. These findings may contribute to the
+further understanding of the mechanisms underlying tooth root formation and root 
+regeneration.
+
+Copyright © 2013 Elsevier B.V. All rights reserved.
+
+PMID: 23603379  [PubMed - indexed for MEDLINE]
+
+
+32. Am J Surg Pathol. 2013 May;37(5):734-8. doi: 10.1097/PAS.0b013e31827560f8.
+
+EWSR1-CREB3L1 gene fusion: a novel alternative molecular aberration of low-grade 
+fibromyxoid sarcoma.
+
+Lau PP(1), Lui PC, Lau GT, Yau DT, Cheung ET, Chan JK.
+
+Author information: 
+(1)Department of Pathology, Queen Elizabeth Hospital, Hong Kong, SAR China.
+
+Comment in
+    Am J Surg Pathol. 2013 Oct;37(10):1630-1.
+
+Low-grade fibromyxoid sarcoma (LGFMS) is an uncommon sarcoma with a deceptively
+bland-looking morphology that disguises its malignant clinical behavior. It shows
+distinctive chromosomal translocations resulting in fusion of FUS with the
+CREB3L2 gene in most cases and CREB3L1 in rare cases. Thus molecular studies are 
+particularly helpful in the diagnosis of this bland-looking sarcoma. We report 2 
+cases of LGFMS serendipitously found to harbor a novel alternative EWSR1-CREB3L1 
+gene fusion, as confirmed by DNA sequencing of reverse transcriptase-polymerase
+chain reaction products and fluorescence in situ hybridization. One patient was a
+child who presented with a subcutaneous nodule on the lower leg, and the other
+was a middle-aged woman who had a mass lesion over the proximal thigh.
+Morphologically, one case showed a spindle cell tumor with hyalinization and
+giant rosettes, whereas the other showed classical histology of LGFMS with focal 
+metaplastic bone formation. Immunostaining for MUC4 showed extensive positive
+staining. Our findings therefore expand the spectrum of gene fusions that
+characterize LGFMS and suggest that the EWSR1 gene may substitute for the
+function of FUS in gene fusions of sarcoma.
+
+PMID: 23588368  [PubMed - indexed for MEDLINE]
+
+
+33. PLoS One. 2013;8(1):e55155. doi: 10.1371/journal.pone.0055155. Epub 2013 Jan 30.
+
+Transcriptional regulation of VEGFA by the endoplasmic reticulum stress
+transducer OASIS in ARPE-19 cells.
+
+Miyagi H(1), Kanemoto S, Saito A, Asada R, Iwamoto H, Izumi S, Kido M, Gomi F,
+Nishida K, Kiuchi Y, Imaizumi K.
+
+Author information: 
+(1)Department of Biochemistry, Graduate School of Biomedical and Health Sciences,
+Hiroshima University, Hiroshima, Japan.
+
+BACKGROUND: Vascular endothelial growth factor-A (VEGFA) is the main mediator of 
+angiogenesis. Angiogenesis plays important roles not only in many physiological
+processes, but also in the pathophysiology of many diseases. VEGFA is one of the 
+therapeutic targets of treatment for ocular diseases with neovascularization.
+Therefore, elucidation of the regulatory mechanisms for VEGFA expression is
+important for the development of pharmaceutical drugs. Recent studies have
+demonstrated that the unfolded protein response is involved in the
+transcriptional regulation of VEGFA. However, the precise regulation of VEGFA in 
+the human retina is not fully understood.
+PRINCIPAL FINDINGS: When human retinal pigment epithelial cells, ARPE-19, were
+exposed to endoplasmic reticulum stressors, VEGFA mRNA was significantly
+upregulated. The unfolded protein response-related transcription factors XBP1,
+ATF4, ATF6, and OASIS were expressed in ARPE-19 cells. To determine which
+transcription factors preferentially contribute to the induction of VEGFA
+expression after endoplasmic reticulum stress, we carried out reporter assays
+using an approximately 6-kbp 5'-upstream region of the human VEGFA gene. Among
+these transcription factors, OASIS acted most effectively on the VEGFA promoter
+in ARPE-19 cells. Based on data obtained for certain deleted and mutated reporter
+constructs, we determined that OASIS promoted VEGFA expression by acting on a
+cyclic AMP-responsive element-like site located at around -500 bp relative to the
+VEGFA transcription start site. Furthermore, we confirmed that OASIS directly
+bound to the promoter region containing this site by chromatin
+immunoprecipitation assays.
+CONCLUSIONS AND SIGNIFICANCE: We have demonstrated a novel regulatory mechanism
+for VEGFA transcription by OASIS in human retinal pigment epithelial cells.
+Chemical compounds that regulate the binding of OASIS to the promoter region of
+the VEGFA gene may have potential as therapeutic agents for ocular diseases with 
+neovascularization.
+
+PMCID: PMC3559390
+PMID: 23383089  [PubMed - indexed for MEDLINE]
+
+
+34. PLoS One. 2013;8(1):e54633. doi: 10.1371/journal.pone.0054633. Epub 2013 Jan 28.
+
+Disease progression and phasic changes in gene expression in a mouse model of
+osteoarthritis.
+
+Loeser RF(1), Olex AL, McNulty MA, Carlson CS, Callahan M, Ferguson C, Fetrow JS.
+
+Author information: 
+(1)Department of Internal Medicine, Section of Molecular Medicine, Wake Forest
+University School of Medicine, Winston-Salem, North Carolina, USA.
+rloeser@wakehealth.edu
+
+Osteoarthritis (OA) is the most common form of arthritis and has multiple risk
+factors including joint injury. The purpose of this study was to characterize the
+histologic development of OA in a mouse model where OA is induced by
+destabilization of the medial meniscus (DMM model) and to identify genes
+regulated during different stages of the disease, using RNA isolated from the
+joint "organ" and analyzed using microarrays. Histologic changes seen in OA,
+including articular cartilage lesions and osteophytes, were present in the medial
+tibial plateaus of the DMM knees beginning at the earliest (2 week) time point
+and became progressively more severe by 16 weeks. 427 probe sets (371 genes) from
+the microarrays passed consistency and significance filters. There was an initial
+up-regulation at 2 and 4 weeks of genes involved in morphogenesis,
+differentiation, and development, including growth factor and matrix genes, as
+well as transcription factors including Atf2, Creb3l1, and Erg. Most genes were
+off or down-regulated at 8 weeks with the most highly down-regulated genes
+involved in cell division and the cytoskeleton. Gene expression increased at 16
+weeks, in particular extracellular matrix genes including Prelp, Col3a1 and
+fibromodulin. Immunostaining revealed the presence of these three proteins in
+cartilage and soft tissues including ligaments as well as in the fibrocartilage
+covering osteophytes. The results support a phasic development of OA with early
+matrix remodeling and transcriptional activity followed by a more quiescent
+period that is not maintained. This implies that the response to an OA
+intervention will depend on the timing of the intervention. The quiescent period 
+at 8 weeks may be due to the maturation of the osteophytes which are thought to
+temporarily stabilize the joint.
+
+PMCID: PMC3557277
+PMID: 23382930  [PubMed - indexed for MEDLINE]
+
+
+35. PLoS One. 2013;8(1):e54060. doi: 10.1371/journal.pone.0054060. Epub 2013 Jan 15.
+
+OASIS/CREB3L1 is induced by endoplasmic reticulum stress in human glioma cell
+lines and contributes to the unfolded protein response, extracellular matrix
+production and cell migration.
+
+Vellanki RN(1), Zhang L, Volchuk A.
+
+Author information: 
+(1)Division of Cellular and Molecular Biology, Toronto General Research
+Institute, University Health Network, Toronto, Ontario, Canada.
+
+OASIS is a transcription factor similar to ATF6 that is activated by endoplasmic 
+reticulum stress. In this study we investigated the expression of OASIS in human 
+glioma cell lines and the effect of OASIS knock-down on the ER stress response
+and cell migration. OASIS mRNA was detected in three distinct glioma cell lines
+(U373, A172 and U87) and expression levels were increased upon treatment with ER 
+stress-inducing compounds in the U373 and U87 lines. OASIS protein, which is
+glycosylated on Asn-513, was detected in the U373 and U87 glioma lines at low
+levels in control cells and protein expression was induced by ER stress.
+Knock-down of OASIS in human glioma cell lines resulted in an attenuated unfolded
+protein response to ER stress (reduced GRP78/BiP and GRP94 induction) and
+decreased expression of chondroitin sulfate proteoglycan extracellular matrix
+proteins, but induction of the collagen gene Col1a1 was unaffected. Cells in
+which OASIS was knocked-down exhibited altered cell morphology and reduced cell
+migration. These results suggest that OASIS is important for the ER stress
+response and maintenance of some extracellular matrix proteins in human glioma
+cells.
+
+PMCID: PMC3545929
+PMID: 23335989  [PubMed - indexed for MEDLINE]
+
+
+36. Biomed Res. 2012 Dec;33(6):345-53.
+
+Gliosis-specific transcription factor OASIS coincides with proteoglycan core
+protein genes in the glial scar and inhibits neurite outgrowth.
+
+Iseki K(1), Hagino S, Nikaido T, Zhang Y, Mori T, Yokoya S, Hozumi Y, Goto K,
+Wanaka A, Tase C.
+
+Author information: 
+(1)Department of Emergency and Critical Care Medicine, Yamagata University School
+of Medicine, Iida-nishi, Yamagata, Japan. ken@med.id.yamagata-u.ac.jp
+
+OASIS gene, a member of the CREB/ATF transcription factor family, is upregulated 
+in gliosis after CNS injury. However it remains to be determined how OASIS is
+implicated in gliotic reaction. In a glial scar, chondroitin sulfate
+proteoglycans (CSPGs) are also upregulated, which engenders the inhibition of
+axonal regeneration. We investigated the functional role of OASIS in gliosis in
+relation to CSPG core proteins that render lesions non-permissive for
+regenerating axons. We first examined the gene expression localization of OASIS
+using several markers in a cryo-injured mouse brain and compared the expression
+pattern of CSPG core protein genes with that of OASIS in a glial scar by
+double-labeling in situ hybridization. Our findings suggest that OASIS is induced
+in proximal reactive astrocytes that exhibit upregulated expression for CSPGs,
+including NG2 proteoglycan, versican, brevican, neurocan, and phosphacan core.
+Furthermore, the membrane fraction derived from OASIS-transfected C6 cells
+inhibits neurite outgrowth of NG108-15 cells, whereas its neurite outgrowth
+inhibitory effect is abrogated after chondroitinase ABC treatment. OASIS is
+likely to be involved in the regulatory mechanism of non-permissive environments 
+for axonal outgrowth.
+
+PMID: 23268958  [PubMed - indexed for MEDLINE]
+
+
+37. Elife. 2012 Dec 18;1:e00387. doi: 10.7554/eLife.00387.
+
+How does doxorubicin work?
+
+Patel AG(1), Kaufmann SH.
+
+Author information: 
+(1)is in the Department of Molecular Pharmacology and Experimental Therapeutics ,
+Mayo Clinic , Rochester , United States.
+
+Comment on
+    Elife. 2012;1:e00090.
+
+A new mechanism involving cleavage of a transcription factor called CREB3L1 has
+been proposed to explain the anti-tumour effects of doxorubicin.
+
+PMCID: PMC3524826
+PMID: 23256047  [PubMed - indexed for MEDLINE]
+
+
+38. Elife. 2012 Dec 18;1:e00090. doi: 10.7554/eLife.00090.
+
+Doxorubicin blocks proliferation of cancer cells through proteolytic activation
+of CREB3L1.
+
+Denard B(1), Lee C, Ye J.
+
+Author information: 
+(1)Department of Molecular Genetics , University of Texas Southwestern Medical
+Center , Dallas , United States.
+
+Comment in
+    Elife. 2012;1:e00387.
+
+Doxorubicin is used extensively for chemotherapy of diverse types of cancer, yet 
+the mechanism through which it inhibits proliferation of cancer cells remains
+unclear. Here we report that doxorubicin stimulates de novo synthesis of
+ceramide, which in turn activates CREB3L1, a transcription factor synthesized as 
+a membrane-bound precursor. Doxorubicin stimulates proteolytic cleavage of
+CREB3L1 by Site-1 Protease and Site-2 Protease, allowing the NH(2)-terminal
+domain of CREB3L1 to enter the nucleus where it activates transcription of genes 
+encoding inhibitors of the cell cycle, including p21. Knockdown of CREB3L1 mRNA
+in human hepatoma Huh7 cells and immortalized human fibroblast SV589 cells
+conferred increased resistance to doxorubicin, whereas overexpression of CREB3L1 
+in human breast cancer MCF-7 cells markedly enhanced the sensitivity of these
+cells to doxorubicin. These results suggest that measurement of CREB3L1
+expression may be a useful biomarker in identifying cancer cells sensitive to
+doxorubicin.DOI:http://dx.doi.org/10.7554/eLife.00090.001.
+
+PMCID: PMC3524649
+PMID: 23256041  [PubMed - indexed for MEDLINE]
+
+
+39. Mol Reprod Dev. 2013 Feb;80(2):102-17. doi: 10.1002/mrd.22141.
+
+Estrus synchronization and ovarian hyper-stimulation treatments have negligible
+effects on cumulus oocyte complex gene expression whereas induction of ovulation 
+causes major expression changes.
+
+Agca C(1), Yakan A, Agca Y.
+
+Author information: 
+(1)Department of Veterinary Pathobiology, College of Veterinary Medicine,
+University of Missouri-Columbia, Columbia, Missouri 65211, USA.
+
+The effects of exogenous hormones, used for estrus synchronization and ovarian
+hyper stimulation, on cumulus oocyte complexes (COCs) gene expression in sexually
+mature rats were determined using microarrays. Gene expression in COCs collected 
+from GnRH (G(trt)), GnRH + eCG (G + E(trt)), and GnRH + eCG + hCG (G + E +
+H(trt)) treatments were compared to COCs from naturally cycling (NC) rats before 
+the preovulatory luteninizing hormone surge. There was no significant difference 
+in gene expression among NC, G(trt), and G + E(trt); however, over 2,600 genes
+were significantly different between NC and G + E + H(trt) (P < 0.05). Genes
+upregulated in G + E + H(trt) encode for: proteins that are involved in
+prostaglandin synthesis (Ptgs2, Pla2g4a, and Runx1) and cholesterol biosynthesis 
+(Hmgcr, Sc4mol, and Dhcr24); receptors that allow cholesterol uptake (Ldlr and
+Scarb1), regulate progesterone synthesis (Star), and inactivate estrogen
+(Sult1e1); and downstream effectors of LH signal (Pgr, Cebpb, Creb3l1, Areg,
+Ereg, and Adamts1). Conversely, G + E + H(trt) downregulated genes encoding
+proteins involved in: DNA replication and cell cycle progression (Ccne2, Orc5l,
+Rad50, and Mcm6); reproductive developmental process; and granulosa cell
+expansion (Gdf9, Bmp15, Amh, Amhr2, Bmpr1b, Tgfb2, Foxl2, Pde3a, Esr2, Fshr,
+Ybx2, Ccnd2, Ccnb1ip1, and Zp3); maternal effect genes required for embryo
+development (Zar1, Npm2, Nlrp5, Dnmt1, H1foo, and Zfp57); amino acid degradation;
+and ketogenesis (Hmgcs2, and Cpt1b). These results from the rat show that
+hormones used for estrus synchronization (G(trt)) and ovarian hyper stimulation
+(G + E(trt)) had minimal effects on gene expression, whereas induction of
+ovulation (G + E + H(trt)) caused major changes in gene expression of rat COCs.
+This study provides comprehensive information about regulated genes during late
+follicle development and ovulation induction.
+
+Copyright © 2013 Wiley Periodicals, Inc.
+
+PMID: 23239112  [PubMed - indexed for MEDLINE]
+
+
+40. J Virol. 2013 Jan;87(1):659-65. doi: 10.1128/JVI.01984-12. Epub 2012 Oct 31.
+
+Epigenetic silencing of antiviral genes renders clones of Huh-7 cells permissive 
+for hepatitis C virus replication.
+
+Chen Q(1), Denard B, Huang H, Ye J.
+
+Author information: 
+(1)Department of Molecular Genetics, University of Texas Southwestern, Medical
+Center, Dallas, Texas, USA.
+
+Hepatitis C virus (HCV) does not replicate efficiently in wild-type human
+hepatoma Huh-7 cells, but it replicates robustly in certain subclones of Huh-7
+cells. Previously, we demonstrated that silencing of cyclic AMP (cAMP) response
+element binding protein 3-like 1 (CREB3L1), a cellular transcription factor that 
+inhibits HCV replication, allows HCV to replicate in HRP1 cells, a subclone of
+Huh-7 cells permissive for HCV replication. Here we show that silencing of
+myxovirus resistant 1 (MX1), a known interferon-induced antiviral gene, is
+responsible for HRP4 cells, another subclone of Huh-7 cells, being permissive for
+HCV replication. Both CREB3L1 and MX1 are epigenetically silenced through DNA
+methylation in HRP1 and HRP4 cells, respectively. We further demonstrate that
+Huh-7 cells exist as a mixed population of cells with distinct patterns of gene
+methylation and HCV replicates in subpopulations of Huh-7 cells that have
+antiviral genes epigenetically silenced by DNA hypermethylation. Our results
+demonstrate that understanding the mechanism through which subclones of Huh-7
+cells become permissive for HCV replication is crucial for studying their
+interaction with HCV.
+
+PMCID: PMC3536425
+PMID: 23115279  [PubMed - indexed for MEDLINE]
+
+
+41. Hum Pathol. 2013 Jan;44(1):145-50. doi: 10.1016/j.humpath.2012.07.021. Epub 2012 
+Oct 22.
+
+Deceptively benign low-grade fibromyxoid sarcoma: array-comparative genomic
+hybridization decodes the diagnosis.
+
+Odem JL(1), Oroszi G, Bernreuter K, Grammatopoulou V, Lauer SR, Greenberg DD,
+Vogler CA, Batanian JR.
+
+Author information: 
+(1)Department of Pathology, University of Missouri, Columbia, MO 65212, USA.
+odemj@missouri.edu
+
+Low-grade fibromyxoid sarcoma (previously known as Evans tumor) is a rare soft
+tissue neoplasm characterized by a deceptively bland appearance despite the
+potential for late metastasis or recurrence. We describe a 13-year-old patient
+with a popliteal fossa mass initially thought to be benign that, because of
+array-comparative genomic hybridization findings and subsequent
+immunohistochemistry, was diagnosed as low-grade fibromyxoid sarcoma. The
+array-comparative genomic hybridization demonstrated a loss of 11p11.2p15.5 and a
+gain of 16p11.2p13.3 with breakpoints involving the CREB3L1 (cAMP responsive
+element-binding protein 3-like 1) and FUS (fused in sarcoma) genes, respectively.
+Subsequent fluorescence in situ hybridization analysis of a dual-labeled
+break-apart FUS probe on interphase cells was positive. Our case highlights the
+importance of using genetic information obtained via array-comparative genomic
+hybridization to classify accurately pediatric soft tissue tumors.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+PMID: 23089491  [PubMed - indexed for MEDLINE]
+
+
+42. Am J Surg Pathol. 2012 Oct;36(10):1444-51. doi: 10.1097/PAS.0b013e3182562bf8.
+
+MUC4 is a sensitive and extremely useful marker for sclerosing epithelioid
+fibrosarcoma: association with FUS gene rearrangement.
+
+Doyle LA(1), Wang WL, Dal Cin P, Lopez-Terrada D, Mertens F, Lazar AJ, Fletcher
+CD, Hornick JL.
+
+Author information: 
+(1)Department of Pathology, Brigham and Women's Hospital, Harvard Medical School,
+Boston, MA 02115, USA.
+
+Sclerosing epithelioid fibrosarcoma (SEF) is a rare aggressive fibroblastic
+neoplasm composed of cords of epithelioid cells embedded in a dense collagenous
+stroma. The reported immunophenotype of SEF is nonspecific. Some SEF cases show
+morphologic and molecular overlap with low-grade fibromyxoid sarcoma (LGFMS),
+suggesting a relationship between these tumor types. MUC4 has recently been
+identified as a sensitive and specific marker for LGFMS; MUC4 expression was also
+observed in 2 tumors with hybrid features of SEF and LGFMS. We investigated MUC4 
+expression in SEF and other epithelioid soft tissue tumors to determine (1) the
+potential diagnostic utility of MUC4 for SEF and (2) the association between MUC4
+expression and FUS rearrangement in SEF. Whole sections of 180 tumors were
+evaluated: 41 cases of SEF (including 29 "pure" SEF and 12 hybrid LGFMS-SEF), 20 
+epithelioid sarcomas, 11 clear cell sarcomas, 11 metastatic melanomas, 10
+perivascular epithelioid cell tumors, 10 alveolar soft part sarcomas, 10
+epithelioid angiosarcomas, 10 epithelioid hemangioendotheliomas, 10 epithelioid
+gastrointestinal stromal tumors, 10 myoepithelial carcinomas, 17 ossifying
+fibromyxoid tumors, 10 leiomyosarcomas, and 10 biphasic synovial sarcomas.
+Immunohistochemical analysis was performed after antigen retrieval using a mouse 
+anti-MUC4 monoclonal antibody. Fluorescence in situ hybridization (FISH) was
+performed on 33 SEF cases using FUS break-apart probes. A subset of cases was
+also evaluated for EWSR1 and CREB3L2/L1 rearrangements by FISH. Strong diffuse
+cytoplasmic staining for MUC4 was observed in 32 of 41 (78%) cases of SEF,
+including all 12 hybrid tumors. FUS rearrangement was detected in 8 of 21 (38%)
+MUC4-positive cases of SEF with successful FISH studies. The prevalence of FUS
+rearrangement was similar in hybrid LGFMS-SEF (2 of 6; 33%) and SEF without an
+LGFMS component (6 of 15; 40%). FUS rearrangement was not detected in any cases
+of MUC4-negative SEF. Two hybrid tumors had both EWSR1 and CREB3L1
+rearrangements. MUC4 expression was also seen in 9 of 10 (90%) biphasic synovial 
+sarcomas, predominantly in the glandular component. All other tumor types were
+negative for MUC4, apart from focal reactivity in 5 ossifying fibromyxoid tumors,
+2 epithelioid gastrointestinal stromal tumors, and 1 myoepithelial carcinoma.
+MUC4 is a sensitive and relatively specific marker for SEF among epithelioid soft
+tissue tumors. MUC4 expression occurs more frequently than FUS rearrangement in
+SEF. The finding of EWSR1 and CREB3L1 rearrangements in 2 cases of hybrid
+LGFMS-SEF suggests that SEFs are genetically heterogenous. MUC4-positive SEFs
+with FUS rearrangement are likely closely related to LGFMS. MUC4-positive SEFs
+that lack FUS rearrangement may be related to LGFMS but could have alternate
+fusion partners, including EWSR1. SEF without MUC4 expression may represent a
+distinct group of tumors. MUC4 expression correlates with glandular epithelial
+differentiation in biphasic synovial sarcoma and is very limited in other
+epithelioid soft tissue tumors.
+
+PMID: 22982887  [PubMed - indexed for MEDLINE]
+
+
+43. Nat Commun. 2012 Jul 24;3:967. doi: 10.1038/ncomms1971.
+
+Unfolded protein response, activated by OASIS family transcription factors,
+promotes astrocyte differentiation.
+
+Saito A(1), Kanemoto S, Kawasaki N, Asada R, Iwamoto H, Oki M, Miyagi H, Izumi S,
+Sanosaka T, Nakashima K, Imaizumi K.
+
+Author information: 
+(1)Department of Biochemistry, Institute of Biomedical & Health Sciences,
+University of Hiroshima, 1-2-3 Kasumi, Minami-ku, Hiroshima 734-8553, Japan.
+
+OASIS is a member of the CREB/ATF family of transcription factors and modulates
+cell- or tissue-specific unfolded protein response signalling. Here we show that 
+this modulation has a critical role in the differentiation of neural precursor
+cells into astrocytes. Cerebral cortices of mice specifically deficient in OASIS 
+(Oasis(-/-)) contain fewer astrocytes and more neural precursor cells than those 
+of wild-type mice during embryonic development. Furthermore, astrocyte
+differentiation is delayed in primary cultured Oasis(-/-) neural precursor cells.
+The transcription factor Gcm1, which is necessary for astrocyte differentiation
+in Drosophila, is revealed to be a target of OASIS. Introduction of Gcm1 into
+Oasis(-/-) neural precursor cells improves the delayed differentiation of neural 
+precursor cells into astrocytes by accelerating demethylation of the Gfap
+promoter. Gcm1 expression is temporally controlled by the unfolded protein
+response through interactions between OASIS family members during astrocyte
+differentiation. Taken together, our findings demonstrate a novel mechanism by
+which OASIS and its associated family members are modulated by the unfolded
+protein response to finely control astrocyte differentiation.
+
+PMID: 22828627  [PubMed - indexed for MEDLINE]
+
+
+44. Pathol Res Pract. 2012 Sep 15;208(9):557-60. doi: 10.1016/j.prp.2012.06.002. Epub
+2012 Jul 20.
+
+Low-grade fibromyxoid sarcoma with prominent giant rosettes and heterotopic
+ossification.
+
+Hisaoka M(1), Matsuyama A, Aoki T, Sakamoto A, Yokoyama K.
+
+Author information: 
+(1)Department of Pathology and Oncology, School of Medicine, University of
+Occupational and Environmental Health, Kitakyushu, Japan.
+hisaoka@med.uoeh-u.ac.jp
+
+Low-grade fibromyxoid sarcoma is a rare soft tissue sarcoma of fibroblastic
+differentiation characterized by a deceptively benign morphologic appearance with
+almost consistent MUC4 expression and recurrent chromosomal translocations,
+t(7;16)(q34;p11) and t(11;16)(p11;p11), resulting in the FUS-CREB3L2 and
+FUS-CREB3L1 fusion genes, respectively. A subset of the tumors show peculiar
+histologic features, designated as giant rosettes, and were formerly referred to 
+as hyalinizing spindle cell tumor with giant rosettes. We herein report a case of
+low-grade fibromyxoid sarcoma showing the presence of numerous giant rosettes,
+with and without collagenous centers, distributed throughout the lesion and
+unusual rim-like heterotopic ossification. Such a case might present a diagnostic
+challenge. The diagnosis of the tumor was confirmed by positive immunoreactivity 
+to MUC4 and the FUS-CREB3L2 fusion detected by molecular testing using
+formalin-fixed, paraffin-embedded tissue. This case, which has such unusual
+clinicopathologic features, would help to further expand our knowledge regarding 
+the morphologic diversities of low-grade fibromyxoid sarcoma.
+
+Copyright © 2012 Elsevier GmbH. All rights reserved.
+
+PMID: 22819758  [PubMed - indexed for MEDLINE]
+
+
+45. Cell Death Differ. 2012 Dec;19(12):1939-49. doi: 10.1038/cdd.2012.77. Epub 2012
+Jun 15.
+
+Activation of OASIS family, ER stress transducers, is dependent on its
+stabilization.
+
+Kondo S(1), Hino SI, Saito A, Kanemoto S, Kawasaki N, Asada R, Izumi S, Iwamoto
+H, Oki M, Miyagi H, Kaneko M, Nomura Y, Urano F, Imaizumi K.
+
+Author information: 
+(1)Department of Biochemistry, Institute of Biomedical and Health Sciences,
+University of Hiroshima, Hiroshima 734-8553, Japan. shkondo@hiroshima-u.ac.jp
+
+Endoplasmic reticulum (ER) stress transducers transduce signals from the ER to
+the cytoplasm and nucleus when unfolded proteins accumulate in the ER. BBF2 human
+homolog on chromosome 7 (BBF2H7) and old astrocyte specifically induced substance
+(OASIS), ER-resident transmembrane proteins, have recently been identified as
+novel ER stress transducers that have roles in chondrogenesis and osteogenesis,
+respectively. However, the molecular mechanisms that regulate the activation of
+BBF2H7 and OASIS under ER stress conditions remain unresolved. Here, we showed
+that BBF2H7 and OASIS are notably unstable proteins that are easily degraded via 
+the ubiquitin-proteasome pathway under normal conditions. ER stress conditions
+enhanced the stability of BBF2H7 and OASIS, and promoted transcription of their
+target genes. HMG-CoA reductase degradation 1 (HRD1), an ER-resident E3 ubiquitin
+ligase, ubiquitinated BBF2H7 and OASIS under normal conditions, whereas ER stress
+conditions dissociated the interaction between HRD1 and BBF2H7 or OASIS. The
+stabilization of OASIS in Hrd1(-/-) cells enhanced the expression of collagen
+fibers during osteoblast differentiation, whereas a knockdown of OASIS in
+Hrd1(-/-) cells suppressed the production of collagen fibers. These findings
+suggest that ER stress stabilizes OASIS family members and this is a novel
+molecular mechanism for the activation of ER stress transducers.
+
+PMCID: PMC3504707
+PMID: 22705851  [PubMed - indexed for MEDLINE]
+
+
+46. Seikagaku. 2012 Jan;84(1):18-29.
+
+[Regulation of osteogenesis and chondrogenesis by unfolded protein respone].
+
+[Article in Japanese]
+
+Imaizumi K(1).
+
+Author information: 
+(1)Department of Biochemistry, Graduate School of Biomedical Sciences, Hiroshima 
+University, 1-2-3 Kasumi, Minami-ku, Hiroshima 734-8553, Japan.
+
+PMID: 22416468  [PubMed - indexed for MEDLINE]
+
+
+47. J Biol Chem. 2012 Mar 9;287(11):8144-53. doi: 10.1074/jbc.M111.332593. Epub 2012 
+Jan 19.
+
+The endoplasmic reticulum stress transducer OASIS is involved in the terminal
+differentiation of goblet cells in the large intestine.
+
+Asada R(1), Saito A, Kawasaki N, Kanemoto S, Iwamoto H, Oki M, Miyagi H, Izumi S,
+Imaizumi K.
+
+Author information: 
+(1)Department of Biochemistry, Graduate School of Biomedical Sciences, Hiroshima 
+University, 1-2-3 Kasumi, Minami-ku, Hiroshima 734-8551, Japan.
+
+OASIS is a basic leucine zipper transmembrane transcription factor localized in
+the endoplasmic reticulum (ER) that is cleaved in its transmembrane region in
+response to ER stress. This novel ER stress transducer has been demonstrated to
+express in osteoblasts and astrocytes and promote terminal maturation of these
+cells. Additionally, OASIS is highly expressed in goblet cells of the large
+intestine. In this study, we investigated the roles of OASIS in goblet cell
+differentiation in the large intestine. To analyze the functions of OASIS in
+goblet cells, we examined morphological changes and the expression of goblet cell
+differentiation markers in the large intestine of Oasis(-/-) mice. By disrupting 
+the Oasis gene, the number of goblet cells and production of mucus were decreased
+in the large intestine. Oasis(-/-) goblet cells showed abnormal morphology of
+mucous vesicles and rough ER. The expression levels of mature goblet cell markers
+were lower, and conversely those of early goblet cell markers were higher in
+Oasis(-/-) mice, indicating that differentiation from early to mature goblet
+cells is impaired in Oasis(-/-) mice. To determine the association of OASIS with 
+other factors involved in goblet cell differentiation, in vitro experiments using
+a cell culture model were performed. We found that OASIS was activated in
+response to mild ER stress that is induced in differentiating goblet cells.
+Knockdown of the Oasis transcript perturbed goblet cell terminal differentiation.
+Together, our data indicate that OASIS plays crucial roles in promoting the
+differentiation of early goblet cells to mature goblet cells in the large
+intestine.
+
+PMCID: PMC3318704
+PMID: 22262831  [PubMed - indexed for MEDLINE]
+
+
+48. Clin Calcium. 2011 Dec;21(12):103-12. doi: CliCa111218531862.
+
+[Bone and calcium update; bone research update. Regulatory mechanisms in
+osteoblast differentiation].
+
+[Article in Japanese]
+
+Nishimura R(1).
+
+Author information: 
+(1)Department Molecular and Cellular Biochemistry, Osaka University Graduate
+School of Dentistry, Japan.
+
+Differentiation process of osteoblasts, which play a central role in bone
+formation, is harmoniously controlled by several cytokines and hormones.
+Particularly, Bone Morphogenetic Protein (BMP) , Indian Hedgehog (Ihh) , and Wnt 
+family proteins are important cytokines for osteoblast differentiation.
+Understandings of molecular mechanisms by which these cytokines stimulate
+osteoblast differentiation have been extensively investigated. BMP/Smad
+signaling, canonical Wnt pathway, non-canonical Wnt pathway and Ihh/Gli signaling
+play critical role in osteoblast differentiation. Furthermore, biochemical and
+genetic studies have demonstrated important roles of Runt related transcription
+factor 2 (Runx2) , Osterix, Activating transcription factor 4 (ATF4) , Msh
+homeobox 2 (Msx2) and Oasis for osteoblast differentiation. Thus, these milestone
+studies have dramatically progressed in our understanding of the cellular and
+molecular mechanisms of osteoblast differentiation for 20 years.
+
+PMID: 22133830  [PubMed - indexed for MEDLINE]
+
+
+49. BMB Rep. 2011 Nov;44(11):735-40. doi: 10.5483/BMBRep.2011.44.11.735.
+
+Tunicamycin negatively regulates BMP2-induced osteoblast differentiation through 
+CREBH expression in MC3T3E1 cells.
+
+Jang WG(1), Kim EJ, Koh JT.
+
+Author information: 
+(1)Dental Science Research Institute and BK21, School of Dentistry, Chonnam
+National University, Gwangju, Korea.
+
+Tunicamycin, an endoplasmic reticulum (ER) stress inducer, specifically inhibits 
+N-glycosylation. The cyclic AMP (cAMP) response element-binding protein H (CREBH)
+was previously shown to be regulated by UPR-dependent proteolytic cleavage in the
+liver. On the other hand, the role of CREBH in other tissues is unknown. In the
+present study, tunicamycin increased the level of CREBH activation (cleavage) as 
+well as mRNA expression in osteoblast cells. Adenoviral (Ad) overexpression of
+CREBH suppressed BMP2-induced expression of alkaline phosphatase (ALP) and
+osteocalcin (OC). Interestingly, the BMP2-induced OASIS (structurally similar to 
+CREBH, a positive regulator of osteoblast differentiation) expression was also
+inhibited by CREBH overexpression. In addition, inhibition of CREBH expression
+using siRNA reversed the tunicamycin-suppressed ALP and OC expression. These
+results suggest that CREBH inhibited osteoblast differentiation via suppressing
+BMP2-induced ALP, OC and OASIS expression in mouse calvarial derived osteoblasts.
+
+PMID: 22118540  [PubMed - indexed for MEDLINE]
+
+
+50. J Biol Chem. 2012 Jan 6;287(2):905-15. doi: 10.1074/jbc.M111.253187. Epub 2011
+Nov 18.
+
+BMP2 protein regulates osteocalcin expression via Runx2-mediated Atf6 gene
+transcription.
+
+Jang WG(1), Kim EJ, Kim DK, Ryoo HM, Lee KB, Kim SH, Choi HS, Koh JT.
+
+Author information: 
+(1)Dental Science Research Institute and BK21, School of Dentistry, Chonnam
+National University, Gwangju 500-757, Republic of Korea.
+
+Bone morphogenetic protein 2 (BMP2) activates unfolded protein response (UPR)
+transducers, such as PERK and OASIS, in osteoblast cells. ATF6, a bZIP
+transcription factor, is also a UPR transducer. However, the involvement of ATF6 
+in BMP2-induced osteoblast differentiation has not yet been elucidated. In the
+present study, BMP2 treatment was shown to markedly induce the expression and
+activation of ATF6 with an increase in alkaline phosphatase (ALP) and OC
+expression in MC3T3E1 cells. In contrast, ATF6 activation by BMP2 was not
+observed in the Runx2(-/-) primary calvarial osteoblasts, and Runx2
+overexpression recovered BMP2 action. BMP2 stimulated ATF6 transcription by
+enhancing the direct binding of Runx2 to the osteoblast-specific cis-acting
+element 2 (OSE2, ACCACA, -205 to -200 bp) motif of the Atf6 promoter region. In
+addition, the overexpression of ATF6 increased the Oc promoter activity by
+enhancing the direct binding to a putative ATF6 binding motif (TGACGT, -1126 to
+-1121 bp). The inhibition of ATF6 function with the dominant negative form of
+ATF6 (DN-ATF6) blocked BMP2- or Runx2-induced OC expression. Interestingly,
+OASIS, which is structurally similar to ATF6, did not induce Oc expression. ALP
+and Alizarin red staining results confirmed that BMP2-induced matrix
+mineralization was also dependent on ATF6 in vitro. Overall, these results
+suggest that BMP2 induces osteoblast differentiation through Runx2-dependent ATF6
+expression, which directly regulates Oc transcription.
+
+PMCID: PMC3256879
+PMID: 22102412  [PubMed - indexed for MEDLINE]
+
+
+51. Genes Chromosomes Cancer. 2011 Dec;50(12):1054-62. doi: 10.1002/gcc.20923. Epub
+2011 Aug 24.
+
+A novel EWSR1-CREB3L1 fusion transcript in a case of small cell osteosarcoma.
+
+Debelenko LV(1), McGregor LM, Shivakumar BR, Dorfman HD, Raimondi SC.
+
+Author information: 
+(1)Department of Pathology, Wayne State University, Detroit, MI, USA.
+ldebelen@med.wayne.edu.
+
+Cellular morphology of small cell osteosarcoma, an aggressive variant of
+osteosarcoma, is similar to Ewing sarcoma, but its molecular pathogenesis is
+largely unknown. We report the case of a 12-year-old girl with multifocal small
+cell osteosarcoma positive for the Ewing sarcoma breakpoint region 1 (EWSR1) gene
+rearrangement by interphase fluorescent in situ hybridization and negative for
+EWSR1-FLI1, EWSR1-ERG, and EWSR1-WT1 fusion transcripts by reverse transcriptase 
+PCR. Rapid amplification of cDNA ends revealed exon 6 of the cAMP-responsive
+element binding protein 3-like 1 gene (CREB3L1, also known as "OASIS,"
+NM_52854.2) fused in-frame to the EWSR1 exon 11, consistent with the
+EWSR1-CREB3L1 fusion transcript expressed in tumor tissue. The corresponding
+chimeric gene was confirmed by amplification and subsequent sequencing of the
+genomic breakpoint between introns 11 and 5 of EWSR1 and CREB3L1, respectively.
+An ~70 kDa product in the tumor tissue lysate reacted with the CREB3L1
+carboxyterminal antibody, consistent with a 656-amino acid predicted chimeric
+protein. Immunohistochemistry with the same antibody showed signal translocation 
+from the physiologic perinuclear compartment observed in glia and unrelated
+osteoblasts to nuclei of tumor cells, consistent with the likely function of
+EWSR1-CREB3L1 as a transcriptional regulator predicted by its structure. This is 
+the first report of a fusion transcript in osteogenic sarcoma; it demonstrates a 
+relation between molecular mechanisms of small cell osteogenic and Ewing
+sarcomas. The 3'-end partner and the inferred structure of EWSR1-CREB3L1,
+however, are different from those of Ewing sarcoma, suggesting different targets 
+of the new oncogene.
+
+Copyright © 2011 Wiley-Liss, Inc.
+
+PMID: 21987447  [PubMed - indexed for MEDLINE]
+
+
+52. Cell Host Microbe. 2011 Jul 21;10(1):65-74. doi: 10.1016/j.chom.2011.06.006.
+
+The membrane-bound transcription factor CREB3L1 is activated in response to virus
+infection to inhibit proliferation of virus-infected cells.
+
+Denard B(1), Seemann J, Chen Q, Gay A, Huang H, Chen Y, Ye J.
+
+Author information: 
+(1)Department of Molecular Genetics, University of Texas Southwestern Medical
+Center, Dallas, TX 75390, USA.
+
+CREB3L1/OASIS is a cellular transcription factor synthesized as a membrane-bound 
+precursor and activated by regulated intramembrane proteolysis in response to
+stimuli like ER stress. Comparing gene expression between Huh7 subclones that are
+permissive for hepatitis C virus (HCV) replication versus the nonpermissive
+parental Huh7 cells, we identified CREB3L1 as a host factor that inhibits
+proliferation of virus-infected cells. Upon infection with diverse DNA and RNA
+viruses, including murine <U+03B3>-herpesvirus 68, HCV, West Nile virus (WNV), and
+Sendai virus, CREB3L1 was proteolytically cleaved, allowing its NH(2) terminus to
+enter the nucleus and induce multiple genes encoding inhibitors of the cell cycle
+to block cell proliferation. Consistent with this, we observed a necessity for
+CREB3L1 expression to be silenced in proliferating cells that harbor replicons of
+HCV or WNV. Our results indicate that CREB3L1 may play an important role in
+limiting virus spread by inhibiting proliferation of virus-infected cells.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+PMCID: PMC3139916
+PMID: 21767813  [PubMed - indexed for MEDLINE]
+
+
+53. Cell Biosci. 2011 Feb 17;1(1):6. doi: 10.1186/2045-3701-1-6.
+
+CREB3 subfamily transcription factors are not created equal: Recent insights from
+global analyses and animal models.
+
+Chan CP(1), Kok KH, Jin DY.
+
+Author information: 
+(1)Department of Biochemistry and State Key Laboratory for Liver Research, LKS
+Faculty of Medicine, The University of Hong Kong. dyjin@hkucc.hku.hk.
+
+The CREB3 subfamily of membrane-bound bZIP transcription factors has five members
+in mammals known as CREB3 and CREB3L1-L4. One current model suggests that CREB3
+subfamily transcription factors are similar to ATF6 in regulated intramembrane
+proteolysis and transcriptional activation. Particularly, they were all thought
+to be proteolytically activated in response to endoplasmic reticulum (ER) stress 
+to stimulate genes that are involved in unfolded protein response (UPR). Although
+the physiological inducers of their proteolytic activation remain to be
+identified, recent findings from microarray analyses, RNAi screens and gene
+knockouts not only demonstrated their critical roles in regulating development,
+metabolism, secretion, survival and tumorigenesis, but also revealed cell
+type-specific patterns in the activation of their target genes. Members of the
+CREB3 subfamily show differential activity despite their structural similarity.
+The spectrum of their biological function expands beyond ER stress and UPR.
+Further analyses are required to elucidate the mechanism of their proteolytic
+activation and the molecular basis of their target recognition.
+
+PMCID: PMC3116243
+PMID: 21711675  [PubMed]
+
+
+54. Bone. 2011 Oct;49(4):724-32. doi: 10.1016/j.bone.2011.06.012. Epub 2011 Jun 25.
+
+Roles of the endoplasmic reticulum stress transducer OASIS in fracture healing.
+
+Funamoto T(1), Sekimoto T, Murakami T, Kurogi S, Imaizumi K, Chosa E.
+
+Author information: 
+(1)Division of Orthopedic Surgery, Department of Medicine of Sensory and Motor
+Organs, Faculty of Medicine, University of Miyazaki, 5200 Kihara, Kiyotake,
+Miyazaki 889-1692, Japan.
+
+A new type of endoplasmic reticulum (ER) stress transducer, Old Astrocyte
+Specifically Induced Substance (OASIS), which is induced by bone morphogenetic
+protein-2 (BMP2), has been reported to activate the transcription of type I
+collagen and contribute to the secretion of bone matrix proteins in osteoblasts. 
+Here, we examined the role of OASIS in fracture healing using the fracture models
+in wild-type (WT) and OASIS(-/-) mice. We found that the expression of OASIS mRNA
+was induced after fracture. Micro-computed tomography indicated that the callus
+density of OASIS(-/-) mice was less than that of WT mice, and the newly formed
+bone in OASIS(-/-) mice exhibited a decrease of the bone volume by bone
+morphometric analysis. Biomechanically, the callus bone strength of OASIS(-/-)
+mice was inferior to that of WT mice. Based on RT-PCR, in situ hybridization,
+immunohistochemical, and electrophoretic analyses, it was clarified that the
+synthesis of type I collagen was impaired in OASIS(-/-) mice. Electron
+microscopic analysis revealed that OASIS(-/-) osteoblasts in the fracture callus 
+contained the abnormal expansion of the ERs, similar to OASIS(-/-) osteoblasts in
+the normal skeletal development. Thus, OASIS may play a role in bone formation
+through the expression of type I collagen and the secretion of bone matrix
+proteins in fracture healing.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+PMID: 21708301  [PubMed - indexed for MEDLINE]
+
+
+55. Clin Cancer Res. 2011 May 1;17(9):2646-56. doi: 10.1158/1078-0432.CCR-11-0145.
+
+FUS-CREB3L2/L1-positive sarcomas show a specific gene expression profile with
+upregulation of CD24 and FOXL1.
+
+Möller E(1), Hornick JL, Magnusson L, Veerla S, Domanski HA, Mertens F.
+
+Author information: 
+(1)Department of Clinical Genetics, University and Regional Laboratories, Skane
+University Hospital, Lund University, Lund, Sweden. emely.moller@med.lu.se
+
+PURPOSE: Low-grade fibromyxoid sarcoma (LGFMS) is typically characterized by the 
+specific translocation t(7;16)(q33;p11) and the corresponding fusion gene
+FUS-CREB3L2. The present study aimed to extract LGFMS-specific, and putatively
+FUS-CREB3L2-dependent, gene expression patterns to learn more about the
+pathogenesis of this tumor.
+EXPERIMENTAL DESIGN: We carried out single nucleotide polymorphism (SNP) and
+global gene expression array analyses, and/or immunohistochemical (IHC) analyses 
+on 24 LGFMS tumor biopsies. Tumor types that are important differential diagnoses
+to LGFMS were included as comparison in the gene and protein expression analyses.
+In addition, cells that stably expressed FUS-CREB3L2 were analyzed with gene
+expression array and the influence of FUS-CREB3L2 on gene expression was
+investigated in vitro.
+RESULTS: The SNP array analysis detected recurrent microdeletions in association 
+with the t(7;16) chromosomal breakpoints and gain of 7q in cases with ring
+chromosomes. Gene expression analysis clearly distinguished LGFMS from
+morphologically similar tumors and MUC4 was identified as a potential diagnostic 
+marker for LGFMS by gene expression and IHC analysis. FOXL1 was identified as the
+top upregulated gene in LGFMS and CD24 was upregulated in both LGFMS tumors and
+FUS-CREB3L2 expressing cells. FUS-CREB3L2 was capable of activating transcription
+from CD24 regulatory sequences in luciferase assays, suggesting an important role
+for the upregulation of this gene in LGFMS.
+CONCLUSIONS: The gene expression profile of LGFMS is distinct from that of soft
+tissue tumors with similar morphology. The data could be used to identify a
+potential diagnostic marker for LGFMS and to identify possible FUS-CREB3L2
+regulated genes.
+
+©2011 AACR.
+
+PMID: 21536545  [PubMed - indexed for MEDLINE]
+
+
+56. J Biochem. 2011 May;149(5):507-18. doi: 10.1093/jb/mvr041. Epub 2011 Mar 30.
+
+The signalling from endoplasmic reticulum-resident bZIP transcription factors
+involved in diverse cellular physiology.
+
+Asada R(1), Kanemoto S, Kondo S, Saito A, Imaizumi K.
+
+Author information: 
+(1)Department of Biochemistry, Graduate School of Biomedical Sciences, Hiroshima 
+University, 1-2-3 Kasumi, Minami-ku, Hiroshima 734-8551, Japan.
+
+Comment in
+    J Biochem. 2012 Mar;151(3):217-9.
+
+Eukaryotic cells can adapt to endoplasmic reticulum (ER) dysfunction by producing
+diverse signals from the ER to the cytosol or nucleus. These signalling pathways 
+are collectively known as the unfolded protein response (UPR). The canonical
+branches of the UPR are mediated by three ER membrane-bound proteins: PERK, IRE1 
+and ATF6. These ER stress transducers basically play important roles in cell
+survival after ER stress. Recently, novel types of ER stress transducers that
+share a region of high sequence similarity with ATF6 have been identified. They
+have a transmembrane domain, which allows them to associate with the ER, and
+possess a transcription-activation domain and a bZIP domain. These membrane-bound
+bZIP transcription factors include Luman, OASIS, BBF2H7, CREBH and CREB4. Despite
+their structural similarities with ATF6, differences in activating stimuli,
+tissue distribution and response element binding indicate specialized functions
+of each member on regulating the UPR in specific organs and tissues. Here, we
+summarize our current understanding of the biochemical characteristics and
+physiological functions of the ER-resident bZIP transcription factors.
+
+PMID: 21454302  [PubMed - indexed for MEDLINE]
+
+
+57. IUBMB Life. 2011 Apr;63(4):233-9. doi: 10.1002/iub.433. Epub 2011 Mar 24.
+
+Physiological unfolded protein response regulated by OASIS family members,
+transmembrane bZIP transcription factors.
+
+Kondo S(1), Saito A, Asada R, Kanemoto S, Imaizumi K.
+
+Author information: 
+(1)Department of Biochemistry, Graduate School of Biomedical Sciences, Hiroshima 
+University, Minami-ku, Hiroshima, Japan. shkondo@hiroshima-u.ac.jp
+
+The endoplasmic reticulum (ER) plays role in the maintenance of numerous aspects 
+of cellular and organismal homeostasis by folding, modifying, and exporting
+nascent secretory and transmembrane proteins. Failure of the ER's adaptive
+capacity results in accumulation of unfolded or malfolded proteins in the ER
+lumen (ER stress). To avoid cellular damage, mammalian cells activate the
+specific signals from the ER to the cytosol or nucleus to enhance the capacity
+for protein folding, attenuate the synthesis of proteins, and degrade unfolded
+proteins. These signaling pathways are collectively known as the unfolded protein
+response (UPR). The canonical branches of the UPR are mediated by three ER
+membrane-bound proteins, PERK, IRE1, and ATF6. These ER stress transducers
+basically play important roles in cell survival after ER stress. Recently, novel 
+types of ER stress transducers, OASIS family members that share a region of high 
+sequence similarity with ATF6 have been identified. They have a transmembrane
+domain, which allows them to associate with the ER, and possess a
+transcription-activation domain and a bZIP domain. OASIS family proteins include 
+OASIS, BBF2H7, CREBH, AIbZIP, and Luman. Despite the structural similarities
+among OASIS family proteins and ATF6, differences in activating stimuli, tissue
+distribution, and response element binding indicate specialized functions of each
+member on regulating the UPR in the specific organs and tissues. Here, we
+summarize our current understanding of biochemical characteristics and in vivo
+functions of OASIS family proteins, particularly focusing on OASIS and BBF2H7. A 
+growing body of new works suggests that the UPR branches regulated by OASIS
+family members play essential roles in cell differentiation and maturation or
+maintenance of basal cellular homeostasis in mammals.
+
+Copyright © 2011 Wiley Periodicals, Inc.
+
+PMID: 21438114  [PubMed - indexed for MEDLINE]
+
+
+58. BMC Dev Biol. 2011 Mar 1;11:13. doi: 10.1186/1471-213X-11-13.
+
+An expression profile analysis of ES cell-derived definitive endodermal cells and
+Pdx1-expressing cells.
+
+Ogaki S(1), Harada S, Shiraki N, Kume K, Kume S.
+
+Author information: 
+(1)Department of Stem Cell Biology, Institute of Molecular Embryology and
+Genetics, Kumamoto University, Honjo 2-2-1, Kumamoto, Japan.
+
+BACKGROUND: We developed an efficient in vitro method to differentiate mouse ES
+cells into the definitive endoderm (DE) and then Pdx1-expressing pancreatic
+lineages using mesodermal-derived supporting cells, M15. Using this method,
+resulting ES cell-derived DE and Pdx1-expressing cells were isolated by cell
+sorting, and their gene expression profiles were investigated with DNA
+microarray. Genes that were specifically expressed in DE and/or in
+Pdx1-expressing cells were extracted and their expression patterns in normal
+embryonic development were studied.
+RESULTS: Genes whose expression increased in DE and Pdx1 positive cells compared 
+to the undifferentiated ES cells were chosen and in situ hybridizations were
+performed. Out of 54 genes examined, 27 were expressed in the DE of E8.5 mouse
+embryos and 15 genes were expressed in distinct domains in the pancreatic buds of
+E14.5 embryos. Among those genes expressed were Foxq1, CpM, Foxp4, Pcdh1, and
+Zmiz1, which were previously reported in other endodermal tissues. Genes, such as
+Parm1, Tmem184a, Hipk2 and Sox4 were reported to be expressed during early
+pancreatic development. Nptx2, C2cd4b, Tcf7l2 and Kiss1r were reported to be
+associated with beta cell or pancreatic functions in the adult. Akr1c19, Aebp2,
+Pbxip1 and Creb3l1, were novel and have not been described as being expressed
+either in DE or the pancreas.
+CONCLUSIONS: We identified 27 genes, including 4 novel genes expressed in DE and 
+pancreatic progenitor cells during normal development using an ES cell in vitro
+differentiation system. These results showed that DE cells and
+Pdx1/GFP-expressing cells obtained from our M15 based differentiation method
+mimic cells during the normal developmental processes. Additionally, ES cells are
+an excellent model for studies of early developmental processes.
+
+PMCID: PMC3058101
+PMID: 21362171  [PubMed - indexed for MEDLINE]
+
+
+59. Bone. 2011 Mar 1;48(3):514-23. doi: 10.1016/j.bone.2010.10.176. Epub 2010 Nov 1.
+
+Distinct mechanisms are responsible for osteopenia and growth retardation in
+OASIS-deficient mice.
+
+Murakami T(1), Hino S, Nishimura R, Yoneda T, Wanaka A, Imaizumi K.
+
+Author information: 
+(1)Division of Molecular and Cellular Biology, Department of Anatomy, Faculty of 
+Medicine, University of Miyazaki, Kiyotake, Miyazaki, Japan.
+murakami@med.miyazaki-u.ac.jp
+
+Old astrocyte specifically induced substance (OASIS), which is a new type of
+endoplasmic reticulum (ER) stress transducer, is a basic leucine zipper
+transcription factor of the CREB/ATF family that contains a transmembrane domain 
+and is processed by regulated intramembrane proteolysis in response to ER stress.
+OASIS is selectively expressed in certain types of cells such as astrocytes and
+osteoblasts. We have previously demonstrated that OASIS activates transcription
+of the type I collagen gene Col1a1 and contributes to the secretion of bone
+matrix proteins in osteoblasts, and that OASIS-/- mice exhibit osteopenia and
+growth retardation. In the present study, we examined whether osteopenia in
+OASIS-/- mice is rescued by OASIS introduction into osteoblasts. We generated
+OASIS-/- mice that specifically expressed OASIS in osteoblasts using a 2.3-kb
+osteoblast-specific type I collagen promoter (OASIS-/-;Tg mice). Histological
+analysis of OASIS-/-;Tg mice revealed that osteopenia in OASIS-/- mice was
+rescued by osteoblast-specific expression of the OASIS transgene. The decreased
+expression levels of type I collagen mRNAs in the bone tissues of OASIS-/- mice
+were recovered by the OASIS transgene accompanied by the rescue of an abnormal
+expansion of the rough ER in OASIS-/- osteoblasts. In contrast, growth
+retardation in OASIS-/- mice did not improve in OASIS-/-;Tg mice. Interestingly, 
+the serum levels of growth hormone (GH) and insulin-like growth factor (IGF)-1
+were downregulated in OASIS-/- mice compared with those in wild-type mice. These 
+decreased GH and IGF-1 levels in OASIS-/- mice did not change when OASIS was
+introduced into osteoblasts. Taken together, these results indicate that OASIS
+regulates skeletal development by osteoblast-dependent and -independent
+mechanisms.
+
+Copyright © 2010 Elsevier Inc. All rights reserved.
+
+PMID: 21047569  [PubMed - indexed for MEDLINE]
+
+
+60. J Cell Biol. 2010 Nov 1;191(3):479-92. doi: 10.1083/jcb.201004062.
+
+The CrebA/Creb3-like transcription factors are major and direct regulators of
+secretory capacity.
+
+Fox RM(1), Hanlon CD, Andrew DJ.
+
+Author information: 
+(1)Department of Cell Biology, The Johns Hopkins University, School of Medicine, 
+Baltimore, MD 21205, USA.
+
+Secretion occurs in all cells, with relatively low levels in most cells and
+extremely high levels in specialized secretory cells, such as those of the
+pancreas, salivary, and mammary glands. How secretory capacity is selectively
+up-regulated in specialized secretory cells is unknown. Here, we find that the
+CrebA/Creb3-like family of bZip transcription factors functions to up-regulate
+expression of both the general protein machinery required in all cells for
+secretion and of cell type-specific secreted proteins. Drosophila CrebA directly 
+binds the enhancers of secretory pathway genes and is both necessary and
+sufficient to activate expression of every secretory pathway component gene
+examined thus far. Microarray profiling reveals that CrebA also up-regulates
+expression of genes encoding cell type-specific secreted components. Finally, we 
+found that the human CrebA orthologues, Creb3L1 and Creb3L2, have the ability to 
+up-regulate the secretory pathway in nonsecretory cell types.
+
+PMCID: PMC3003312
+PMID: 21041443  [PubMed - indexed for MEDLINE]
+
+
+61. Endocrinology. 2010 Sep;151(9):4146-57. doi: 10.1210/en.2010-0137. Epub 2010 Jul 
+28.
+
+OASIS/CREB3L1 induces expression of genes involved in extracellular matrix
+production but not classical endoplasmic reticulum stress response genes in
+pancreatic beta-cells.
+
+Vellanki RN(1), Zhang L, Guney MA, Rocheleau JV, Gannon M, Volchuk A.
+
+Author information: 
+(1)Division of Cellular and Molecular Biology, Toronto General Research
+Institute, University Health Network, Toronto, Ontario, Canada M5G1L7.
+
+Old astrocyte specifically induced substance (OASIS) has previously been shown to
+be a putative endoplasmic reticulum (ER) stress sensor in astrocytes with a
+mechanism of activation that is similar to ATF6. In this study we investigated
+the expression and activation of endogenous and overexpressed OASIS in pancreatic
+beta-cells. OASIS mRNA expression was detected in pancreatic beta-cell lines and 
+rodent islets, and the expression level was up-regulated by ER stress-inducing
+compounds. Endogenous OASIS protein, however, is expressed at low levels in
+pancreatic beta-cell lines and rodent islets, possibly due to abundant levels of 
+the micro-RNA miR-140 present in these cells. In contrast, expression of both
+full-length and cleaved (active) OASIS was readily detectable in the developing
+mouse pancreas (embryonic d 15.5). Microarray analysis after expression of an
+active nuclear-localized version of OASIS in an inducible INS-1 beta-cell line
+resulted in the up-regulation of many genes implicated in extracellular matrix
+production and protein transport but not classical ER stress response genes.
+Consistent with this, expression of active OASIS failed to induce
+glucose-regulated protein 78 kDa promoter activity in pancreatic beta-cells.
+These results suggest that the repertoire of genes induced by OASIS is cell
+type-dependent and that the OASIS protein may have a role in pancreas
+development.
+
+PMCID: PMC2940493
+PMID: 20668028  [PubMed - indexed for MEDLINE]
+
+
+62. J Bone Miner Metab. 2010 Jul;28(4):384-94. doi: 10.1007/s00774-009-0142-y. Epub
+2009 Dec 19.
+
+Effects of the bisphosphonate risedronate on osteopenia in OASIS-deficient mice.
+
+Sekiya H(1), Murakami T, Saito A, Hino S, Tsumagari K, Ochiai K, Imaizumi K.
+
+Author information: 
+(1)Division of Molecular and Cellular Biology, Department of Anatomy, Faculty of 
+Medicine, University of Miyazaki, 5200 Kihara, Kiyotake, Miyazaki, 889-1692,
+Japan.
+
+Endoplasmic reticulum (ER) stress has been reported to be linked to various
+diseases such as diabetes, neurodegenerative diseases, and osteogenesis
+imperfecta (OI). Old astrocyte specifically induced substance (OASIS), a novel
+type of ER stress transducer, is a basic leucine zipper transcription factor
+belonging to the CREB/ATF family and is markedly expressed in osteoblasts.
+Recently, we demonstrated that OASIS activates the transcription of the gene for 
+type I collagen, Col1a1, and contributes to the secretion of bone matrix proteins
+in osteoblasts. OASIS-/- mice exhibit severe osteopenia involving a decrease in
+type I collagen in the bone matrix and a dysfunction of osteoblasts, which show
+abnormal expansion of the rough ER. These phenotypic features of osteopenia are
+similar to those observed in OI type I. In this study, we investigated whether
+administration of the third-generation bisphosphonate risedronate (RIS) is
+effective for treating osteopenia in OASIS-/- mice. Histological and
+histomorphometric analyses revealed that the trabecular bones increased
+dramatically in OASIS-/- mice treated with RIS, owing to the inhibition of bone
+resorption. Intriguingly, the abnormal expansion of the rough ER in OASIS-/-
+osteoblasts was improved by the treatment with RIS. Taken together, we conclude
+that OASIS-/- mice will be useful as new model mice for evaluating the medicinal 
+effects of osteopenia treatments and developing new drugs for the osteopenia
+associated with diseases such as OI and osteoporosis.
+
+PMID: 20024590  [PubMed - indexed for MEDLINE]
+
+
+63. Nat Cell Biol. 2009 Oct;11(10):1205-11. doi: 10.1038/ncb1963. Epub 2009 Sep 20.
+
+Signalling mediated by the endoplasmic reticulum stress transducer OASIS is
+involved in bone formation.
+
+Murakami T(1), Saito A, Hino S, Kondo S, Kanemoto S, Chihara K, Sekiya H,
+Tsumagari K, Ochiai K, Yoshinaga K, Saitoh M, Nishimura R, Yoneda T, Kou I,
+Furuichi T, Ikegawa S, Ikawa M, Okabe M, Wanaka A, Imaizumi K.
+
+Author information: 
+(1)Division of Molecular and Cellular Biology, Department of Anatomy, Faculty of 
+Medicine, University of Miyazaki, 5200 Kihara, Kiyotake, Miyazaki 889-1692,
+Japan.
+
+Eukaryotic cells have signalling pathways from the endoplasmic reticulum (ER) to 
+cytosol and nuclei, to avoid excess accumulation of unfolded proteins in the ER. 
+We previously identified a new type of ER stress transducer, OASIS, a bZIP (basic
+leucine zipper) transcription factor, which is a member of the CREB/ATF family
+and has a transmembrane domain. OASIS is processed by regulated intramembrane
+proteolysis (RIP) in response to ER stress, and is highly expressed in
+osteoblasts. OASIS(-/-) mice exhibited severe osteopenia, involving a decrease in
+type I collagen in the bone matrix and a decline in the activity of osteoblasts, 
+which showed abnormally expanded rough ER, containing of a large amount of bone
+matrix proteins. Here we identify the gene for type 1 collagen, Col1a1, as a
+target of OASIS, and demonstrate that OASIS activates the transcription of Col1a1
+through an unfolded protein response element (UPRE)-like sequence in the
+osteoblast-specific Col1a1 promoter region. Moreover, expression of OASIS in
+osteoblasts is induced by BMP2 (bone morphogenetic protein 2), the signalling of 
+which is required for bone formation. Additionally, RIP of OASIS is accelerated
+by BMP2 signalling, which causes mild ER stress. Our studies show that OASIS is
+critical for bone formation through the transcription of Col1a1 and the secretion
+of bone matrix proteins, and they reveal a new mechanism by which ER
+stress-induced signalling mediates bone formation.
+
+PMID: 19767743  [PubMed - indexed for MEDLINE]
+
+
+64. J Biol Chem. 2009 Oct 2;284(40):27273-80. doi: 10.1074/jbc.M109.014464. Epub 2009
+Aug 7.
+
+Apolipoprotein E4 domain interaction induces endoplasmic reticulum stress and
+impairs astrocyte function.
+
+Zhong N(1), Ramaswamy G, Weisgraber KH.
+
+Author information: 
+(1)Gladstone Institute of Neurological Disease, San Francisco, California 94158, 
+USA.
+
+Domain interaction, a structural property of apolipoprotein E4 (apoE4), is
+predicted to contribute to the association of apoE4 with Alzheimer disease.
+Arg-61 apoE mice, a gene-targeted mouse model specific for domain interaction,
+have lower brain apoE levels and synaptic, functional, and cognitive deficits. We
+hypothesized that domain interaction elicits an endoplasmic reticulum (ER) stress
+in astrocytes and an unfolded protein response that targets Arg-61 apoE for
+degradation. Primary Arg-61 apoE astrocytes had less intracellular apoE than
+wild-type astrocytes, and unfolded protein response markers OASIS (old astrocyte 
+specifically induced substance), ATF4, and XBP-1 and downstream effectors were
+up-regulated. ER stress appears to cause global astrocyte dysfunction as glucose 
+uptake was decreased in Arg-61 apoE astrocytes, and astrocyte-conditioned medium 
+promoted neurite outgrowth less efficiently than wild-type medium in Neuro-2a
+cell cultures. We showed age-dependent up-regulation of brain OASIS levels and
+processing in Arg-61 apoE mice. ER stress and astrocyte dysfunction represent a
+new paradigm underlying the association of apoE4 with neurodegeneration.
+
+PMCID: PMC2785655
+PMID: 19666463  [PubMed - indexed for MEDLINE]
+
+
+65. J Neurochem. 2009 Aug;110(3):956-65. doi: 10.1111/j.1471-4159.2009.06188.x. Epub 
+2009 Jun 22.
+
+Increased vulnerability of hippocampal pyramidal neurons to the toxicity of
+kainic acid in OASIS-deficient mice.
+
+Chihara K(1), Saito A, Murakami T, Hino S, Aoki Y, Sekiya H, Aikawa Y, Wanaka A, 
+Imaizumi K.
+
+Author information: 
+(1)Division of Molecular and Cellular Biology, Department of Anatomy, Faculty of 
+Medicine, University of Miyazaki, Kihara, Kiyotake, Miyazaki, Japan.
+
+The endoplasmic reticulum (ER) stress response is a defense system for dealing
+with the accumulation of unfolded proteins in the ER lumen. Old astrocyte
+specifically induced substance (OASIS) is known to be expressed in astrocytes and
+involved in the ER stress response; however the function of OASIS in the injured 
+brain has remained unclear. In this study, we examined the roles of OASIS in
+neuronal degeneration in the hippocampi of mice intraperitoneally injected with
+kainic acid (KA). OASIS mRNA was strongly induced in response to KA injection,
+with a similar time course to the induction of ER molecular chaperone
+immunoglobulin heavy chain binding protein mRNA. In situ hybridization showed
+that KA injection causes induction of immunoglobulin heavy chain binding protein 
+mRNA in glial fibrillary acidic protein-positive astrocytes as well as in
+pyramidal neurons, although up-regulation of OASIS mRNA was only detected in
+glial fibrillary acidic protein-positive astrocytes. Primary cultured astrocytes,
+but not the neurons of OASIS-/- mice, revealed reduced vulnerability to ER
+stress. Furthermore, pyramidal neurons in the hippocampi of OASIS-/- mice were
+more susceptible to the toxicity induced by KA than those of wild-type mice.
+Taken together, these data suggest that OASIS expressed in astrocytes plays
+important roles in protection against the neuronal damage induced by KA.
+
+PMID: 19549009  [PubMed - indexed for MEDLINE]
+
+
+66. Hum Pathol. 2009 Nov;40(11):1586-90. doi: 10.1016/j.humpath.2009.04.003. Epub
+2009 Jun 21.
+
+Claudin-1 is expressed in perineurioma-like low-grade fibromyxoid sarcoma.
+
+Thway K(1), Fisher C, Debiec-Rychter M, Calonje E.
+
+Author information: 
+(1)Department of Histopathology, Royal Marsden Hospital, London SW3 6JJ, UK.
+khin.thway@rmh.nhs.uk
+
+Low-grade fibromyxoid sarcoma is a soft tissue sarcoma with recurrent and low
+metastatic potential, which has characteristic FUS-CREB3L2 or FUS-CREB3L1
+fusions. Perineurioma is a peripheral nerve sheath neoplasm, which is usually
+benign. Low-grade fibromyxoid sarcoma and perineurioma can appear morphologically
+similar, particularly in small biopsy specimens, and distinction between the 2
+entities is important for appropriate treatment. Low-grade fibromyxoid sarcoma is
+negative for most immunohistochemical markers, whereas perineuriomas stain
+variably for epithelial membrane antigen, CD34 and claudin-1, a tight-junction
+associated protein. We studied 15 cases of genetically proven low-grade
+fibromyxoid sarcoma that at least focally resembled perineurioma, with antibodies
+to claudin-1 and epithelial membrane antigen. Of these, 11 showed positivity for 
+epithelial membrane antigen and all 15 were positive for claudin-1; in all cases,
+expression of claudin-1 was equal to or greater than the corresponding epithelial
+membrane antigen expression. This study emphasizes that claudin-1 is
+significantly expressed in low-grade fibromyxoid sarcomas. This has implications 
+toward the accurate diagnosis of both tumors, and, as positivity for claudin-1 in
+low-grade fibromyxoid sarcoma is not previously documented, suggests that there
+might be underdiagnosis of low-grade fibromyxoid sarcoma. Although positivity for
+claudin-1 remains useful as an adjunct marker for perineurioma, it should be
+taken in context with clinical findings, morphology, and the additional
+immunoprofile.
+
+PMID: 19540561  [PubMed - indexed for MEDLINE]
+
+
+67. Cytopathology. 2009 Oct;20(5):304-14. doi: 10.1111/j.1365-2303.2008.00587.x. Epub
+2008 Jul 14.
+
+Low-grade fibromyxoid sarcoma is difficult to diagnose by fine needle aspiration 
+cytology: a cytomorphological study of eight cases.
+
+Domanski HA(1), Mertens F, Panagopoulos I, Akerman M.
+
+Author information: 
+(1)Department of Pathology & Cytology, Lund University Hospital, Lund, Sweden.
+henryk.domanski@med.lu.se
+
+BACKGROUND: Low-grade fibromyxoid sarcoma (LGFMS) is an uncommon neoplasm with
+bland morphology and an indolent clinical course, although metastases may develop
+in approximately 5-10% of the cases. The diagnosis of LGFMS can be difficult to
+render from fine needle aspiration cytology (FNAC) alone because of morphological
+overlap with other spindle cell and myxoid lesions.
+OBJECTIVE: To determine cytological criteria for LGFMS by reviewing FNAC
+aspirates in eight cases and to compare the findings with those in subsequent
+histological sections.
+METHODS: FNAC slides were reviewed from eight patients with subsequently excised 
+tumours diagnosed as LGFMS. Of these patients, six also had core needle biopsies 
+(CNB). Cytogenetic and/or molecular analysis was carried on all tumours.
+RESULTS: The patients were six men and two women ranging in age from 26 to 78
+years. Tumours arose in the deep soft tissues of the thigh (n = 5), shoulder
+girdle (n = 1) or upper arm (n = 1) and one in the subcutaneous tissue of the
+abdominal wall. Cytological features included clusters of bland spindle and
+round/polygonal cells embedded in a collagenous and myxoid matrix along with
+dissociated, uniform or slightly/moderately pleomorphic spindle cells, bare
+nuclei and fragments of collagen and myxoid tissue in varying proportions.
+Unequivocal sarcoma was diagnosed in two aspirates, but mitoses were absent in
+all cases. In three cases, the diagnosis was inconclusive with regard to
+benignity or malignancy, while three were erroneously diagnosed as benign spindle
+cell lesions. Although the diagnosis was suggested on three of six CNB, these
+presented similar diagnostic problems.
+CONCLUSIONS: There were no cytomorphological findings in FNAC to allow for a
+clear cut separation of LGFMS from other spindle cell or myxoid lesions, but
+high-grade sarcoma could be excluded. Surgical (incisional or excisional) biopsy 
+or, alternatively, examination of RT-PCR for the FUS/CREB3L or FUS/CREB3L1 fusion
+transcripts may be necessary to obtain a correct diagnosis.
+
+PMID: 18637810  [PubMed - indexed for MEDLINE]
+
+
+68. Nucleic Acids Res. 2008 Jun;36(11):3834-46. doi: 10.1093/nar/gkn306. Epub 2008
+May 21.
+
+bZIP-Type transcription factors CREB and OASIS bind and stimulate the promoter of
+the mammalian transcription factor GCMa/Gcm1 in trophoblast cells.
+
+Schubert SW(1), Abendroth A, Kilian K, Vogler T, Mayr B, Knerr I,
+Hashemolhosseini S.
+
+Author information: 
+(1)Institut für Biochemie, Emil-Fischer-Zentrum, Kinder- und Jugendklinik and
+Nikolaus-Fiebiger-Zentrum, Universität Erlangen-Nürnberg, Fahrstrasse 17, D-91054
+Erlangen, Germany.
+
+One of the master regulators of placental cell fusion in mammals leading to
+multi-nucleated syncytiotrophoblasts is the transcription factor GCMa. Recently, 
+we proved that the cAMP-driven protein kinase A signaling pathway is fundamental 
+for up-regulation of GCMa transcript levels and protein stability. Here, we show 
+that Transducer of Regulated CREB activity (TORC1), the human co-activator of
+cAMP response element-binding protein (CREB), but not a dominant-negative CREB
+mutant, significantly up-regulates the GCMa promoter. We identified potential
+cAMP response element (CRE)-binding sites within the GCMa promoter upstream of
+the transcriptional start site. Only the CRE site at -1337 interacted strongly
+with CREB in promoter mapping experiments. The characterization of GCMa promoter 
+mutants and additional bZIP-type family members demonstrated that also old
+astrocyte specifically-induced substance (OASIS) is able to stimulate GCMa
+transcription. Knockdown of endogenous CREB or OASIS in BeWo cells decreased
+endogenous GCMa mRNA level and activity. Overexpression of TORC1 or OASIS in
+choriocarcinoma cells led to placental cell fusion, accompanied by placental
+expression of gap junction forming protein connexin-43. Further, we show that
+CREB expression is replaced by OASIS expression around E12.5 suggesting that a
+sequential order of bZIP-type family members ensures a high rate of GCMa
+transcription throughout placentation.
+
+PMCID: PMC2441803
+PMID: 18495750  [PubMed - indexed for MEDLINE]
+
+
+69. Am J Surg Pathol. 2007 Sep;31(9):1387-402.
+
+Translocation-positive low-grade fibromyxoid sarcoma: clinicopathologic and
+molecular analysis of a series expanding the morphologic spectrum and suggesting 
+potential relationship to sclerosing epithelioid fibrosarcoma: a study from the
+French Sarcoma Group.
+
+Guillou L(1), Benhattar J, Gengler C, Gallagher G, Ranchère-Vince D, Collin F,
+Terrier P, Terrier-Lacombe MJ, Leroux A, Marquès B, Aubain Somerhausen Nde S,
+Keslair F, Pedeutour F, Coindre JM.
+
+Author information: 
+(1)University Institute of Pathology, Lausanne, Switzerland.
+louis.guillou@chuv.ch
+
+Low-grade fibromyxoid sarcomas (LGFMS) bear either the t(7,16) (q32-34;p11) or
+t(11,16) (p11;p11) translocations, resulting in FUS-CREB3L2 or FUS-CREB3L1
+fusions, respectively. Heretofore, fusion transcripts were mainly detected in
+frozen tissues, using reverse transcription-polymerase chain reaction. In this
+study, we aimed to develop a reliable method to detect these in paraffin-embedded
+tissues, and to examine the clinicopathologic characteristics of a series of
+translocation-positive LGFMS. Sixty-three neoplasms with typical morphologic
+features of LGFMS and 66 non-LGFMS tumors selected for their resemblance to LGFMS
+(LGFMS-like tumors) were examined. RNA of sufficient quality could be extracted
+from 111/129 (86%) cases (59 LGFMS, 52 non-LGFMS). Of all, 48/59 (sensitivity,
+81%) LGFMS contained detectable transcripts (45 FUS-CREB3L2, 3 FUS-CREB3L1). Most
+relevant clinicopathologic features of fusion-positive LGFMS included
+predominance in lower extremities (22/48; thigh: 13/48), deep situation (46/48), 
+and occasional presence of unusual histologic features, for example,
+hypercellular areas (16/48), foci of epithelioid cells (13/48), and giant
+rosettes (6/48). Most tumors expressed EMA (41/45), at least focally, CD99
+(38/41) and bcl-2 (36/41) while being essentially negative for CD34 (2/45), mdm2 
+(1/41), smooth muscle actin (1/45), S100 protein (0/46), desmin (0/44),
+h-caldesmon (0/42), keratins (0/44), and CD117 (0/40). Eleven presumed LGFMS were
+fusion negative. Of all, 7/52 non-LGMFS neoplasms contained FUS-CREB3L2
+transcripts, of which 4 had been diagnosed as sclerosing epithelioid
+fibrosarcoma. In conclusion, FUS-CREB3L1/L2 fusion transcripts can be detected in
+paraffin-embedded LGFMS in a sensitive manner, using reverse
+transcription-polymerase chain reaction. Most fusion-positive LGFMS are
+EMA-positive and CD34/S100/smooth muscle actin negative. The presence of
+epithelioid cells and fusion transcripts in both LGFMS and a subset of sclerosing
+epithelioid fibrosarcoma suggest that these neoplasms might be related.
+
+PMID: 17721195  [PubMed - indexed for MEDLINE]
+
+
+70. J Immunol. 2007 Jul 15;179(2):1210-24.
+
+The human endogenous retrovirus envelope glycoprotein, syncytin-1, regulates
+neuroinflammation and its receptor expression in multiple sclerosis: a role for
+endoplasmic reticulum chaperones in astrocytes.
+
+Antony JM(1), Ellestad KK, Hammond R, Imaizumi K, Mallet F, Warren KG, Power C.
+
+Author information: 
+(1)Department of Clinical Neurosciences, University of Calgary, Calgary, Alberta,
+Canada.
+
+Retroviral envelopes are pathogenic glycoproteins which cause neuroinflammation, 
+neurodegeneration, and endoplasmic reticulum stress responses. The human
+endogenous retrovirus (HERV-W) envelope protein, Syncytin-1, is highly expressed 
+in CNS glia of individuals with multiple sclerosis (MS). In this study, we
+investigated the mechanisms by which Syncytin-1 mediated neuroimmune activation
+and oligodendrocytes damage. In brain tissue from individuals with MS, ASCT1, a
+receptor for Syncytin-1 and a neutral amino acid transporter, was selectively
+suppressed in astrocytes (p < 0.05). Syncytin-1 induced the expression of the
+endoplasmic reticulum stress sensor, old astrocyte specifically induced substance
+(OASIS), in cultured astrocytes, similar to findings in MS brains. Overexpression
+of OASIS in astrocytes increased inducible NO synthase expression but
+concurrently down-regulated ASCT1 (p < 0.01). Treatment of astrocytes with a NO
+donor enhanced expression of early growth response 1, with an ensuing reduction
+in ASCT1 expression (p < 0.05). Small-interfering RNA molecules targeting
+Syncytin-1 selectively down-regulated its expression, preventing the suppression 
+of ASCT1 and the release of oligodendrocyte cytotoxins by astrocytes. A
+Syncytin-1-transgenic mouse expressing Syncytin-1 under the glial fibrillary
+acidic protein promoter demonstrated neuroinflammation, ASCT1 suppression, and
+diminished levels of myelin proteins in the corpus callosum, consistent with
+observations in CNS tissues from MS patients together with neurobehavioral
+abnormalities compared with wild-type littermates (p < 0.05). Thus, Syncytin-1
+initiated an OASIS-mediated suppression of ASCT1 in astrocytes through the
+induction of inducible NO synthase with ensuing oligodendrocyte injury. These
+studies provide new insights into the role of HERV-mediated neuroinflammation and
+its contribution to an autoimmune disease.
+
+PMID: 17617614  [PubMed - indexed for MEDLINE]
+
+
+71. Antioxid Redox Signal. 2007 May;9(5):563-71.
+
+A novel ER stress transducer, OASIS, expressed in astrocytes.
+
+Saito A(1), Hino S, Murakami T, Kondo S, Imaizumi K.
+
+Author information: 
+(1)Division of Molecular and Cellular Biology, Department of Anatomy, Faculty of 
+Medicine, University of Miyazaki, Miyazaki, Japan.
+
+Secretory and transmembrane proteins are correctly folded or processed in the
+endoplasmic reticulum (ER). Various stresses disturb ER function and provoke the 
+accumulation of unfolded proteins in the ER lumen. This condition is termed ER
+stress. Recently, ER stress has been linked to neuronal death in various
+neurodegenerative diseases. Among the cell populations in the nervous system,
+which comprises heterogeneous cell types including neuronal and glial cells,
+astrocytes have the unique ability of being able to tolerate and even proliferate
+under ischemic and hypoxic conditions that lead to ER stress. This review
+introduces a novel ER stress transducer, old astrocyte specifically induced
+substance (OASIS), that regulates the signaling of the unfolded protein response 
+specifically in astrocytes and contributes to resistance to ER stress. In
+addition, current information is summarized regarding new types of ER stress
+transducers homologous to OASIS that are involved in cell type-specific ER stress
+responses.
+
+PMID: 17330990  [PubMed - indexed for MEDLINE]
+
+
+72. Pathol Int. 2007 Mar;57(3):153-7.
+
+Hyalinizing spindle cell tumor with giant rosettes arising in the lung: report of
+a case with FUS-CREB3L2 fusion transcripts.
+
+Kim L(1), Yoon YH, Choi SJ, Han JY, Park IS, Kim JM, Chu YC, Kim YJ.
+
+Author information: 
+(1)Department of Pathology, Inha Research Institute for Medical Science, Inha
+University Hospital, 7-206 3rd Street, Shinheung-dong, Jung-gu, Incheon 400-711, 
+Korea.
+
+Hyalinizing spindle cell tumor with giant rosettes (HSCT) is a very uncommon
+mesenchymal tumor that has similar morphological and biological features to the
+low-grade fibromyxoid sarcoma (LGFMS). Lung involvement of HSCT is extremely
+rare, and only one case has been reported in the English-language literature.
+Reported herein is a case of primary pulmonary HSCT that had FUS-CREB3L2 fusion
+transcripts, a product of characteristic chromosomal abnormality t(7;16)(q33;p11)
+of HSCT and LGFMS. The patient was a 50-year-old woman who had a large solitary
+mass in the lung. Histologically, it was composed of bland spindle cells with
+variable cellularity deposited in a densely hyalinized stroma alternating with
+myxoid areas. Characteristic collagen rosettes were scattered in the cellular
+areas. Reverse transcription-polymerase chain reaction (RT-PCR) assay using
+formalin-fixed, paraffin-embedded tissue detected FUS-CREB3L2 fusion transcripts.
+Despite its bland morphology, it is known as low-grade sarcoma and its
+recognition in the lung would be helpful for accurate diagnosis and proper
+management of this rare tumor. RT-PCR for detection of FUS-CREB3L2 fusion
+transcripts is a useful method for differential diagnosis of primary pulmonary
+HSCT.
+
+PMID: 17295648  [PubMed - indexed for MEDLINE]
+
+
+73. Genes Chromosomes Cancer. 2007 Feb;46(2):181-91.
+
+Characterization of the native CREB3L2 transcription factor and the FUS/CREB3L2
+chimera.
+
+Panagopoulos I(1), Möller E, Dahlén A, Isaksson M, Mandahl N, Vlamis-Gardikas A, 
+Mertens F.
+
+Author information: 
+(1)Department of Clinical Genetics, University Hospital, Lund, Sweden.
+ioannis.panagopoulos@med.lu.se
+
+CREB3L2 was first identified as the 3'-partner of FUS in a fusion gene that seems
+to be specific for low grade fibromyxoid sarcoma. In silico analyses suggest that
+the predicted CREB3L2 protein is a member of the CREB3 family of transcription
+factors, with its bZIP domain being highly similar to that in CREB3L1, CREB3L3,
+CREB3L4, CREB3, and Drosophila Bbf-2. In the present study, the authors assessed 
+various cellular outcomes after transfection of NIH3T3 and HEK-293 cells with
+constructs containing full-length and truncated versions of CREB3L2 and
+FUS/CREB3L2. Northern blot of CREB3L2 mRNA revealed a 7.4 kbp band that contains 
+0.4 kbp and 5.5 kbp untranslated 5' and 3' regions, respectively. CREB3L2
+constructs containing the first 120 amino acids (aa) showed the highest
+transcriptional activation. Much stronger transcriptional activation was
+consistently seen for the FUS/CREB3L2 constructs than for the corresponding
+CREB3L2 constructs. Transcriptional activity was achieved through the box-B
+element, ATF6 and CRE binding sites, as well as the GRP78 promoter. Proteins
+encoded by full-length CREB3L2 and FUS/CREB3L2 were localized to reticular
+structures of the cytoplasm, whereas the corresponding, truncated proteins
+lacking the transmembrane domain and the carboxy-terminal part of CREB3L2 resided
+within the nucleus. The results of the present study show that CREB3L2 is not
+only structurally, but also functionally very similar to CREB3L1. Thus, studies
+regarding the pathways influenced by wild-type CREB3L2 should provide valuable
+clues to the pathogenetic significance of the FUS/CREB3L2 chimera in low grade
+fibromyxoid sarcoma.
+
+Copyright 2006 Wiley-Liss, Inc.
+
+PMID: 17117415  [PubMed - indexed for MEDLINE]
+
+
+74. Am J Surg Pathol. 2006 Sep;30(9):1077-84.
+
+Molecular detection of FUS-CREB3L2 fusion transcripts in low-grade fibromyxoid
+sarcoma using formalin-fixed, paraffin-embedded tissue specimens.
+
+Matsuyama A(1), Hisaoka M, Shimajiri S, Hayashi T, Imamura T, Ishida T, Fukunaga 
+M, Fukuhara T, Minato H, Nakajima T, Yonezawa S, Kuroda M, Yamasaki F, Toyoshima 
+S, Hashimoto H.
+
+Author information: 
+(1)Department of Pathology and Oncology, School of Medicine, University of
+Occupational and Environmental Health, Kitakyushu, Japan.
+
+A diagnosis of low-grade fibromyxoid sarcoma (LGFMS) remains problematic because 
+of its bland-looking histologic features that can be potentially confused with
+other benign or low-grade fibromyxoid lesions. Recent cytogenetic and molecular
+analyses have shown that most LGFMSs have a characteristic chromosomal
+abnormality, t(7;16)(q33;p11), resulting in the FUS-CREB3L2 fusion gene. However,
+such assays have only rarely been used to analyze formalin-fixed,
+paraffin-embedded tumor samples. In the present study, we conducted a reverse
+transcription-polymerase chain reaction assay to detect the FUS-CREB3L2 fusion
+transcripts using formalin-fixed, paraffin-embedded tumor tissue specimens from
+16 LGFMSs including 3 cases with giant collagen rosettes. The primers were newly 
+designed to specifically amplify most of the junctional regions of the
+FUS-CREB3L2 fusion gene transcripts previously reported. The FUS-CREB3L2 fusion
+gene transcripts were detected in 14/16 (88%) cases of LGFMS. A nucleotide
+sequence analysis of the PCR products revealed that different portions of the FUS
+exon 6 or 7 were fused with various sites of the CREB3L2 exon 5, resulting in 12 
+different nucleotide sequences. We also tested a primer set to detect the
+FUS-CREB3L1 fusion transcript, which is a rare variant of the gene fusion in
+LGFMS, although no PCR products were identified in any case. The FUS-CREB3L2
+fusion transcripts were not detected in any of the 123 other soft-tissue tumors, 
+including desmoid-type fibromatoses, myxofibrosarcomas, soft-tissue
+perineuriomas, and congenital or adult fibrosarcomas. These data suggest that our
+reverse transcription-polymerase chain reaction assay is a reliable method to
+detect FUS-CREB3L2, which can thus help in accurately diagnosing LGFMS.
+
+PMID: 16931951  [PubMed - indexed for MEDLINE]
+
+
+75. J Neurochem. 2006 Feb;96(4):1090-100. Epub 2006 Jan 17.
+
+Cleavage of the membrane-bound transcription factor OASIS in response to
+endoplasmic reticulum stress.
+
+Murakami T(1), Kondo S, Ogata M, Kanemoto S, Saito A, Wanaka A, Imaizumi K.
+
+Author information: 
+(1)Division of Molecular and Cellular Biology, Department of Anatomy, Faculty of 
+Medicine, University of Miyazaki, Kiyotake, Miyazaki, Japan.
+
+When unfolded or misfolded proteins accumulate in the endoplasmic reticulum (ER),
+unfolded protein response (UPR) signals are transmitted from the ER to the
+nucleus and cytoplasm to facilitate protein folding. OASIS (old astrocyte
+specifically induced substance) is an ER stress transducer in astrocytes, a
+membrane-bound transcription factor that activates genes in the ER stress
+response. When unfolded proteins accumulate in the ER, OASIS is cleaved at the
+membrane to release its cytoplasmic domain, which then enters the nucleus and
+activates target genes. Here, we showed that OASIS is processed by Site-1 and -2 
+proteases (S1P and S2P), enzymes that reside at the Golgi apparatus and process
+activating transcription factor 6 (ATF6), in response to ER stress. We also
+showed that the cleavage of OASIS is triggered by its translocation to the Golgi 
+apparatus. All deletion mutants for luminal domain of OASIS showed that
+proteolytic processing and translocation to the Golgi apparatus remained intact, 
+indicating that OASIS does not have significant sequences for Golgi localization 
+signals, different from the case of ATF6, and that there could be other systems
+for translocation of OASIS to the Golgi apparatus in response to ER stress.
+
+PMID: 16417584  [PubMed - indexed for MEDLINE]
+
+
+76. Pathol Int. 2005 Dec;55(12):802-6.
+
+Low-grade fibromyxoid sarcoma arising in the big toe.
+
+Kusumi T(1), Nishikawa S, Tanaka M, Ogawa T, Jin H, Sato F, Toh S, Hasegawa T,
+Kijima H.
+
+Author information: 
+(1)Department of Pathology, Hirosaki University School of Medicine, Hirosaki,
+Japan. kusumito@cc.hirosaki-u.ac.jp
+
+Comment in
+    Pathol Int. 2007 Jul;57(7):458; author reply 459-60.
+
+Low-grade fibromyxoid sarcoma (LGFMS) is a rare tumor. Reported herein is a case 
+of LGFMS arising in the big toe. The patient was a 58-year-old man who underwent 
+excision of the tumor. The tumor was well-demarcated. Histologically, there were 
+proliferating spindle-shaped tumor cells arranged in a whorled growth pattern,
+and the stroma showed hyalinized collagen bundles and a myxoid matrix. Nuclear
+mitotic figures were conspicuous in part. A large rosette-like structure with
+hyalinized stroma was found, which is characteristic of LGFMS. The differential
+diagnosis included tumor occurrence in adults; tending to arise in distal
+extremities; and having bland fibromyxoid histological features, such as fibroma 
+of tendon sheath, low-grade myxofibrosarcoma and acral myxoinflammatory
+fibroblastic sarcoma. It was not possible to detect the FUS/CREB3L2 and
+FUS/CREB3L1 fusion genes from the formalin-fixed and paraffin-embedded tissue,
+although the histological features of the present case were typical of LGFMS.
+LGFMS may become more common with time, and unique cases may accumulate.
+
+PMID: 16287497  [PubMed - indexed for MEDLINE]
+
+
+77. Lab Invest. 2005 Mar;85(3):408-15.
+
+Clinicopathologic and molecular genetic characterization of low-grade fibromyxoid
+sarcoma, and cloning of a novel FUS/CREB3L1 fusion gene.
+
+Mertens F(1), Fletcher CD, Antonescu CR, Coindre JM, Colecchia M, Domanski HA,
+Downs-Kelly E, Fisher C, Goldblum JR, Guillou L, Reid R, Rosai J, Sciot R,
+Mandahl N, Panagopoulos I.
+
+Author information: 
+(1)Department of Clinical Genetics, Lund University Hospital, Lund, Sweden.
+fredrik.mertens@klingen.lu.se
+
+Low-grade fibromyxoid sarcoma (LGFMS) is an indolent, late-metastasizing
+malignant soft-tissue tumor that is often mistaken for either more benign or more
+malignant tumor types. Cytogenetic analyses have identified a recurrent balanced 
+translocation t(7;16) (q32-34;p11), later shown by molecular genetic approaches
+to result in a FUS/CREB3L2 fusion gene. Whereas preliminary studies suggest that 
+this gene rearrangement is specific for LGFMS, its incidence in this tumor type
+and the possible existence of variant fusion genes have not yet been addressed.
+For this purpose, a series of potential LGFMS were obtained from nine different
+soft-tissue tumor centres and subjected to molecular analysis as well as careful 
+histopathologic review. Reverse transcriptase-polymerase chain reaction analysis 
+disclosed a FUS/CREB3L2 fusion transcript in 22 of the 23 (96%) cases that
+remained classified as LGFMS after the histologic re-evaluation and from which
+RNA of sufficient quality could be extracted, whereas none of the cases that were
+classified as other tumor types was fusion-positive. In one of the tumors with
+typical LGFMS appearance, we found that FUS was fused to the CREB3L1 gene instead
+of CREB3L2. The proteins encoded by these genes both belong to the same basic
+leucine-zipper family of transcription factors, and display extensive sequence
+homology in their DNA-binding domains. Thus, it is expected that the novel
+FUS/CREB3L1 chimera will have a similar impact at the cellular level as the much 
+more common FUS/CREB3L2 fusion protein. Taken together, the results indicate that
+virtually all LGFMS are characterized by a chimeric FUS/CREB3L2 gene, and that
+rare cases may display a variant FUS/CREB3L1 fusion.
+
+PMID: 15640831  [PubMed - indexed for MEDLINE]
+
+
+78. Anat Embryol (Berl). 2003 Apr;206(5):373-80. Epub 2003 Mar 21.
+
+Comparison of expression patterns between CREB family transcription factor OASIS 
+and proteoglycan core protein genes during murine tooth development.
+
+Hikake T(1), Mori T, Iseki K, Hagino S, Zhang Y, Takagi H, Yokoya S, Wanaka A.
+
+Author information: 
+(1)Department of Cell Science, Institute of Biomedical Sciences, Fukushima
+Medical University School of Medicine, 960-1295 Fukushima, Japan.
+
+The transcription factor OASIS gene, which encodes for a CREB/ATF family member, 
+is specifically expressed in the salivary gland, the cartilage and the tooth
+germs of the mouse embryo. In the present study, the expression patterns were
+compared between OASIS mRNA and major vertebrate proteoglycans, which might be
+the downstream genes of OASIS in the tooth germs of mouse first mandibular
+molars, through in situ hybridization histochemistry. OASIS mRNA expression was
+observed in the inner enamel epithelium during the cap and bell stages
+(E14.5-E18.5) in the preodontoblasts during differentiation stage (E18.5-P0) and 
+in the differentiating odontoblasts during the early secretory stage (P2.5-P4.5).
+Proteoglycans (versican, decorin, biglycan, glypican, syndecan-1, and syndecan-3)
+were expressed in the tooth germs in various patterns. Decorin, biglycan,
+syndecan-1 and syndecan-3 showed gene expressions overlapping with OASIS.
+Especially the expression pattern of decorin and syndecan-3 coincided temporally 
+and spatially exactly with that of OASIS. These results suggest that the OASIS
+gene might be related to proteoglycan expression and may play an important role
+in the differentiation of the odontoblast and cells in inner enamel epithelium.
+
+PMID: 12684764  [PubMed - indexed for MEDLINE]
+
+
+79. Brain Res Mol Brain Res. 2002 Dec;108(1-2):129-38.
+
+Expression of OASIS, a CREB/ATF family transcription factor, in CNS lesion and
+its transcriptional activity.
+
+Nikaido T(1), Iseki K, Mori T, Takaki H, Yokoya S, Hagino S, Takeda J, Zhang Y,
+Takeuchi M, Kikuchi S, Wanaka A.
+
+Author information: 
+(1)Department of Cell Science, Institute of Biomedical Sciences, Fukushima
+Medical University School of Medicine, Japan.
+
+We reported the expression patterns of a novel member of the CREB/ATF family,
+OASIS, in central nervous system (CNS) lesions and its transcriptional activity. 
+OASIS gene expression was upregulated in the stab-injured spinal cord. Double
+labeling experiments revealed that the distribution of OASIS mRNA-positive cells 
+overlapped with a population of GFAP-immunoreactive cells. This finding suggested
+that OASIS might regulate expression of important downstream molecules in certain
+subset of the reactive astrocytes (e.g. inhibitory substances in injured brain). 
+In gel shift assays, OASIS was able to specifically bind to CRE as CREB family
+members were. We then examined transcriptional activity of full-length OASIS with
+GAL4-UAS-luciferase reporter assay in COS7 cells. OASIS protein activated
+transcription, but did not inhibit basal transcription driven by AdML promoter.
+To determine critical portion(s) of the OASIS protein in transcriptional
+activation, we examined the activity of various deletion constructs of OASIS
+gene. The assay revealed that a strong transcriptional activation domain lay in
+the N-terminal region where acidic amino acids clustered and a possible
+repression domain, which had not been reported for other CREB/ATF family members,
+lay in the more C-terminal region. We therefore proposed that OASIS protein
+positively regulated gene transcription in a subset of reactive astrocytes, and
+thereby influenced the reaction of injured CNS tissues.
+
+PMID: 12480185  [PubMed - indexed for MEDLINE]
+
+
+80. Biochem Biophys Res Commun. 2002 Apr 26;293(1):470-7.
+
+OASIS is a transcriptional activator of CREB/ATF family with a transmembrane
+domain.
+
+Omori Y(1), Imai J, Suzuki Y, Watanabe S, Tanigami A, Sugano S.
+
+Author information: 
+(1)Laboratory of Genome Structure Analysis Human Genome Center, The Institute of 
+Medical Science, The University of Tokyo, 4-6-1 Shirokane-dai, Minato-ku, Tokyo
+108-8639, Japan. y_omori@research.otsuka.co.jp
+
+Murine OASIS is a putative CREB/ATF family transcription factor that is induced
+in gliosis, but its molecular role has not been determined. We have isolated the 
+human OASIS gene and investigated the potential of OASIS protein as a
+transcriptional activator. We found that OASIS can activate transcription through
+box-B elements but not through the somatostatin CRE. OASIS contains a putative
+C-terminal hydrophobic transmembrane domain, a typical structural feature for the
+transcription factors activated by regulated intramembrane proteolysis.
+Truncation of the OASIS transmembrane domain resulted in a significant increase
+in transcriptional activity and altered its subcellular localization from the
+endoplasmic reticulum to the nucleus. Western blot analysis of transfected cells 
+identified OASIS polypeptides of 82 and 66 kDa. These results suggest that the
+transmembrane domain plays an important role in the regulation of transcriptional
+activation by OASIS.
+
+PMID: 12054625  [PubMed - indexed for MEDLINE]
+
+
+81. Histochem Cell Biol. 2001 Aug;116(2):141-8.
+
+Expression of the novel transcription factor OASIS, which belongs to the CREB/ATF
+family, in mouse embryo with special reference to bone development.
+
+Nikaido T(1), Yokoya S, Mori T, Hagino S, Iseki K, Zhang Y, Takeuchi M, Takaki H,
+Kikuchi S, Wanaka A.
+
+Author information: 
+(1)Department of Orthopedic Surgery, Fukushima Medical University School of
+Medicine, 1 Hikarigaoka, Fukushima 960-1295, Japan. tnikaido@fmu.ac.jp
+
+The OASIS gene, which encodes a novel CREB/ATF family member, was isolated from
+long-term cultured astrocytes that were employed as an in vitro gliosis model. In
+the present study, we examined the expression pattern of the OASIS gene in the
+developing mouse embryo by in situ hybridization histochemistry and compared it
+with the expression of osteogenesis markers. OASIS mRNA expression was most
+strongly detected in preosteoblasts of the outer bony cortex of the ribs.
+Alveolar bone also showed strong signals for OASIS gene expression. OASIS mRNA
+was also localized to the preodontoblast of tooth buds. Expression began at
+embryonic day 12 (D12.5), peaked around D14.5-16.5, and continued to D18.5. The
+pattern of expression was very similar to that of hXBP-1 mRNA, which encodes
+another CREB/ATF family member. Spatiotemporal patterns of OASIS partly
+overlapped that of osteopontin, osteonectin, and alpha1 type I procollagen genes.
+Among these, the time course of OASIS mRNA expression was most similar to that of
+osteopontin mRNA expression, suggesting that the OASIS protein is involved in the
+late phase of osteoblast differentiation, as compared to the Cbfa1 that regulates
+early phases of osteoblast differentiation.
+
+PMID: 11685542  [PubMed - indexed for MEDLINE]
+
+
+82. Brain Res Mol Brain Res. 1999 May 21;69(1):93-103.
+
+Identification of a novel gene, OASIS, which encodes for a putative CREB/ATF
+family transcription factor in the long-term cultured astrocytes and gliotic
+tissue.
+
+Honma Y(1), Kanazawa K, Mori T, Tanno Y, Tojo M, Kiyosawa H, Takeda J, Nikaido T,
+Tsukamoto T, Yokoya S, Wanaka A.
+
+Author information: 
+(1)Department of Cell Science, Institute of Biomedical Sciences, 1 Hikarigaoka,
+Fukushima City, Fukushima 960-1295, Japan.
+
+Gliosis is a characteristic response of astrocytes to inflammation and trauma of 
+the central nervous system (CNS). To study the mechanisms underlying gliosis, we 
+performed differential display screening for genes specifically induced in
+long-term cultured astrocytes used as an in vitro gliosis model. We identified
+and characterized a gene (named OASIS, for old astrocyte specifically-induced
+substance) expressed in long-term cultured mouse astrocytes, or 'old astrocytes
+(OA)'. The OASIS gene encoded a putative transcription factor belonging to the
+cyclic AMP responsive element binding protein/activating transcription factor
+(CREB/ATF) gene family, with homology to box B-binding factor-2 (BBF-2), a
+Drosophila transcription factor. Its expression was developmentally regulated;
+OASIS mRNA was primarily expressed in the salivary gland and cartilage in the
+mouse embryo and it was transiently upregulated in the brain during postnatal two
+weeks. The expression became weaker in the adult brain. We also demonstrated that
+an expression of the OASIS mRNA was induced in response to the cryo-injury of the
+mouse cerebral cortex. The distribution pattern of the OASIS-positive cells in
+the injured cortex was very similar to that of the glial fibrillary acidic
+protein (GFAP)-positive cells. These results suggest that OASIS protein may play 
+a role in gliotic events.
+
+Copyright 1999 Elsevier Science B.V.
+
+PMID: 10350641  [PubMed - indexed for MEDLINE]
+
+

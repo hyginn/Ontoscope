@@ -1,0 +1,3037 @@
+
+1. Prog Neurobiol. 2016 Mar 28. pii: S0301-0082(15)30020-4. doi:
+10.1016/j.pneurobio.2016.02.003. [Epub ahead of print]
+
+Evolution of mammalian sound localization circuits: a developmental perspective.
+
+Nothwang HG(1).
+
+Author information: 
+(1)Neurogenetics group, Center of Excellence Hearing4All, School of Medicine and 
+Health Sciences, Carl von Ossietzky University Oldenburg, 26111 Oldenburg,
+Germany; Research Center for Neurosensory Science, Carl von Ossietzky University 
+Oldenburg, 26111 Oldenburg, Germany. Electronic address:
+hans.g.nothwang@uni-oldenburg.de.
+
+Localization of sound sources is a central aspect of auditory processing. A
+unique feature of mammals is the smooth, tonotopically organized extension of the
+hearing range to high frequencies (HF) above 10kHz, which likely induced positive
+selection for novel mechanisms of sound localization. How this change in the
+auditory periphery is accompanied by changes in the central auditory system is
+unresolved. I will argue that the major VGlut2(+) excitatory projection neurons
+of sound localization circuits (dorsal cochlear nucleus (DCN), lateral and medial
+superior olive (LSO and MSO)) represent serial homologs with modifications, thus 
+being paramorphs. This assumption is based on common embryonic origin from an
+Atoh1(+)/Wnt1(+) cell lineage in the rhombic lip of r5, same cell birth, a
+fusiform cell morphology, shared genetic components such as Lhx2 and Lhx9
+transcription factors, and similar projection patterns. Such a parsimonious
+evolutionary mechanism likely accelerated the emergence of neurons for sound
+localization in all three dimensions. Genetic analyses indicate that auditory
+nuclei in fish, birds, and mammals receive contributions from the same progenitor
+lineages. Anatomical and physiological differences and the independent evolution 
+of tympanic ears in vertebrate groups, however, argue for convergent evolution of
+sound localization circuits in tetrapods (amphibians, reptiles, birds, and
+mammals). These disparate findings are discussed in the context of the genetic
+architecture of the developing hindbrain, which facilitates convergent evolution.
+Yet, it will be critical to decipher the gene regulatory networks underlying
+development of auditory neurons across vertebrates to explore the possibility of 
+homologous neuronal populations.
+
+Copyright © 2016. Published by Elsevier Ltd.
+
+PMID: 27032475  [PubMed - as supplied by publisher]
+
+
+2. BMC Genomics. 2016 Mar 15;17(1):235. doi: 10.1186/s12864-016-2535-3.
+
+Genomic structure and marker-derived gene networks for growth and meat quality
+traits of Brazilian Nelore beef cattle.
+
+Mudadu MA(1,)(2), Porto-Neto LR(3), Mokry FB(4), Tizioto PC(4), Oliveira PS(4),
+Tullio RR(5), Nassu RT(5), Niciura SC(5), Tholon P(5), Alencar MM(5), Higa RH(6),
+Rosa AN(7), Feijó GL(7), Ferraz AL(8), Silva LO(7), Medeiros SR(7), Lanna DP(9), 
+Nascimento ML(9), Chaves AS(9), Souza AR(10), Packer IU(9), Torres RA Jr(7),
+Siqueira F(7), Mourão GB(9), Coutinho LL(9), Reverter A(3), Regitano LC(5).
+
+Author information: 
+(1)Embrapa Agricultural Informatics, Av. André Tosello, 209, Campinas, SP,
+Brazil. mauricio.mudadu@embrapa.br. (2)Embrapa Southeast Livestock, Rodovia
+Washington Luiz, Km 234, São Carlos, SP, Brazil. mauricio.mudadu@embrapa.br.
+(3)Commonwealth Scientific and Industrial Research Organization - Agriculture,
+306 Carmody Road, Brisbane, QLD, Australia. (4)Department of Genetics and
+Evolution, Federal University of São Carlos, Rodovia Washington Luiz, Km 235, São
+Carlos, SP, Brazil. (5)Embrapa Southeast Livestock, Rodovia Washington Luiz, Km
+234, São Carlos, SP, Brazil. (6)Embrapa Agricultural Informatics, Av. André
+Tosello, 209, Campinas, SP, Brazil. (7)Embrapa Beef Cattle, Av. Rádio Maia, 830, 
+Campo Grande, MS, Brazil. (8)State University of Mato Grosso do Sul, Rodovia
+Uems-Aquidauana km 12, Aquidauana, MS, Brazil. (9)Department of Animal Science,
+University of São Paulo, Av. Padua Dias, 11306, Piracicaba, SP, Brazil.
+(10)Faculdade de Medicina Veterinaria e Zootecnia, Federal University of Mato
+Grosso do Sul, Av. Senador Filinto Müller, 2443, Campo Grande, MS, Brazil.
+
+BACKGROUND: Nelore is the major beef cattle breed in Brazil with more than 130
+million heads. Genome-wide association studies (GWAS) are often used to associate
+markers and genomic regions to growth and meat quality traits that can be used to
+assist selection programs. An alternative methodology to traditional GWAS that
+involves the construction of gene network interactions, derived from results of
+several GWAS is the AWM (Association Weight Matrices)/PCIT (Partial Correlation
+and Information Theory). With the aim of evaluating the genetic architecture of
+Brazilian Nelore cattle, we used high-density SNP genotyping data (~770,000 SNP) 
+from 780 Nelore animals comprising 34 half-sibling families derived from highly
+disseminated and unrelated sires from across Brazil. The AWM/PCIT methodology was
+employed to evaluate the genes that participate in a series of eight phenotypes
+related to growth and meat quality obtained from this Nelore sample.
+RESULTS: Our results indicate a lack of structuring between the individuals
+studied since principal component analyses were not able to differentiate
+families by its sires or by its ancestral lineages. The application of the
+AWM/PCIT methodology revealed a trio of transcription factors (comprising VDR,
+LHX9 and ZEB1) which in combination connected 66 genes through 359 edges and
+whose biological functions were inspected, some revealing to participate in
+biological growth processes in literature searches.
+CONCLUSIONS: The diversity of the Nelore sample studied is not high enough to
+differentiate among families neither by sires nor by using the available
+ancestral lineage information. The gene networks constructed from the AWM/PCIT
+methodology were a useful alternative in characterizing genes and gene networks
+that were allegedly influential in growth and meat quality traits in Nelore
+cattle.
+
+PMCID: PMC4791965
+PMID: 26979536  [PubMed - in process]
+
+
+3. Development. 2016 Mar 1;143(5):831-40. doi: 10.1242/dev.129551. Epub 2016 Jan 25.
+
+The Lhx9-integrin pathway is essential for positioning of the proepicardial
+organ.
+
+Tandon P(1), Wilczewski CM(2), Williams CE(3), Conlon FL(4).
+
+Author information: 
+(1)Department of Biology, UNC at Chapel Hill, Chapel Hill, NC 27599-3280, USA
+Department of Genetics, UNC at Chapel Hill, Chapel Hill, NC 27599-3280, USA
+Integrative Program for Biological and Genome Sciences, UNC at Chapel Hill,
+Chapel Hill, NC 27599-3280, USA ptandon@email.unc.edu. (2)Department of Genetics,
+UNC at Chapel Hill, Chapel Hill, NC 27599-3280, USA Integrative Program for
+Biological and Genome Sciences, UNC at Chapel Hill, Chapel Hill, NC 27599-3280,
+USA. (3)Integrative Program for Biological and Genome Sciences, UNC at Chapel
+Hill, Chapel Hill, NC 27599-3280, USA. (4)Department of Biology, UNC at Chapel
+Hill, Chapel Hill, NC 27599-3280, USA Department of Genetics, UNC at Chapel Hill,
+Chapel Hill, NC 27599-3280, USA Integrative Program for Biological and Genome
+Sciences, UNC at Chapel Hill, Chapel Hill, NC 27599-3280, USA University of North
+Carolina McAllister Heart Institute, UNC at Chapel Hill, Chapel Hill, NC
+27599-3280, USA.
+
+The development of the vertebrate embryonic heart occurs by hyperplastic growth
+as well as the incorporation of cells from tissues outside of the initial heart
+field. Amongst these tissues is the epicardium, a cell structure that develops
+from the precursor proepicardial organ on the right side of the septum
+transversum caudal to the developing heart. During embryogenesis, cells of the
+proepicardial organ migrate, adhere and envelop the maturing heart, forming the
+epicardium. The cells of the epicardium then delaminate and incorporate into the 
+heart giving rise to cardiac derivatives, including smooth muscle cells and
+cardiac fibroblasts. Here, we demonstrate that the LIM homeodomain protein Lhx9
+is transiently expressed in Xenopus proepicardial cells and is essential for the 
+position of the proepicardial organ on the septum transversum. Utilizing a
+small-molecule screen, we found that Lhx9 acts upstream of integrin-paxillin
+signaling and consistently demonstrate that either loss of Lhx9 or disruption of 
+the integrin-paxillin pathway results in mis-positioning of the proepicardial
+organ and aberrant deposition of extracellular matrix proteins. This leads to a
+failure of proepicardial cell migration and adhesion to the heart, and eventual
+death of the embryo. Collectively, these studies establish a requirement for the 
+Lhx9-integrin-paxillin pathway in proepicardial organ positioning and epicardial 
+formation.
+
+© 2016. Published by The Company of Biologists Ltd.
+
+PMID: 26811386  [PubMed - in process]
+
+
+4. Front Neuroanat. 2015 Oct 27;9:136. doi: 10.3389/fnana.2015.00136. eCollection
+2015.
+
+LIM homeobox protein 5 (Lhx5) is essential for mamillary body development.
+
+Miquelajáuregui A(1), Sandoval-Schaefer T(1), Martínez-Armenta M(2),
+Pérez-Martínez L(2), Cárabez A(1), Zhao Y(3), Heide M(4), Alvarez-Bolado G(4),
+Varela-Echavarría A(1).
+
+Author information: 
+(1)Departamento de Neurobiología del Desarrollo y Neurofisiología, Instituto de
+Neurobiología, Universidad Nacional Autónoma de México Querétaro, Mexico.
+(2)Laboratorio de Neuroinmunobiología, Departamento de Medicina Molecular y
+Bioprocesos, Instituto de Biotecnología, Universidad Nacional Autónoma de México 
+Cuernavaca, Mexico. (3)Program on Genomics of Differentiation, Eunice Kennedy
+Shriver National Institute of Child Health and Human Development, National
+Institutes of Health Bethesda, MD, USA. (4)Institute of Anatomy and Cell Biology,
+University of Heidelberg Heidelberg, Germany.
+
+The mamillary body (MM) is a group of hypothalamic nuclei related to memory and
+spatial navigation that interconnects hippocampal, thalamic, and tegmental
+regions. Here we demonstrate that Lhx5, a LIM-HD domain transcription factor
+expressed early in the developing posterior hypothalamus, is required for the
+generation of the MM and its derived tracts. The MM markers Foxb1, Sim2, and Lhx1
+are absent in Lhx5 knock-out mice from early embryonic stages, suggesting
+abnormal specification of this region. This was supported by the absence of
+Nkx2.1 and expansion of Shh in the prospective mamillary area. Interestingly, we 
+also found an ectopic domain expressing Lhx2 and Lhx9 along the anterio-posterior
+hypothalamic axis. Our results suggest that Lhx5 controls early aspects of
+hypothalamic development by regulating gene expression and cellular specification
+in the prospective MM.
+
+PMCID: PMC4621302
+PMID: 26578897  [PubMed]
+
+
+5. Gene Expr Patterns. 2015 Sep-Nov;19(1-2):45-51. doi: 10.1016/j.gep.2015.07.002.
+Epub 2015 Jul 26.
+
+Lhx9 gene expression during early limb development in mice requires the FGF
+signalling pathway.
+
+Yang Y(1), Wilson MJ(2).
+
+Author information: 
+(1)Developmental Biology and Genomics Laboratory, Department of Anatomy, Otago
+School of Medical Sciences, University of Otago, P.O. Box 56, Dunedin 9054, New
+Zealand. (2)Developmental Biology and Genomics Laboratory, Department of Anatomy,
+Otago School of Medical Sciences, University of Otago, P.O. Box 56, Dunedin 9054,
+New Zealand. Electronic address: meganj.wilson@otago.ac.nz.
+
+Lhx9 is a member of the LIM-homeodomain gene family necessary for the correct
+development of many organs including gonads, limbs, heart and the nervous system.
+In the context of limb development, Lhx9 has been implicated as an integrator for
+Fibroblast growth factor (FGF) and Sonic hedgehog (Shh) signalling required for
+proximal-distal (PD) and anterior-posterior (AP) development of the limb. Three
+splice variants of the Lhx9 transcript are expressed during development, two of
+which are predicted to act in a dominant negative fashion, competing with the DNA
+binding version of Lhx9 for binding to cofactors via the LIM-domain. We examined 
+the expression pattern for the three alternative splice forms of Lhx9; Lhx9a,
+Lhx9ß and Lhx9c during early limb development. We have found that of the three
+Lhx9 isoforms, only Lhx9a and Lhx9c (intact homeodomain) are expressed during
+early limb development, each with their own distinct expression pattern.
+Additionally we determined that Lhx9 expression overlaps with FGF10 expression in
+the developing limb bud mesenchyme. Limb bud explant cultures, in the presence of
+signalling pathway inhibitors, also indicated that Lhx9 mRNA expression in the
+limb bud was dependent on FGF signalling.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+PMID: 26220830  [PubMed - in process]
+
+
+6. Mol Med Rep. 2015 Sep;12(3):4250-8. doi: 10.3892/mmr.2015.3974. Epub 2015 Jun 22.
+
+Integrated analysis of gene expression and DNA methylation changes induced by
+hepatocyte growth factor in human hepatocytes.
+
+Xie CR(1), Sun H(1), Wang FQ(1), Li Z(1), Yin YR(1), Fang QL(1), Sun Y(1), Zhao
+WX(1), Zhang S(1), Zhao WX(1), Wang XM(1), Yin ZY(1).
+
+Author information: 
+(1)Department of Hepatobiliary Surgery, Zhongshan Hospital, Xiamen University,
+Fujian Provincial Key Laboratory of Chronic Liver Disease and Hepatocellular
+Carcinoma, Xiamen, Fujian 361004, P.R. China.
+
+Hepatocellular carcinoma (HCC) is the one of most common malignant tumors. The
+tumor microenvironment has a role in not only supporting growth and survival of
+tumor cells, but also triggering tumor recurrence and metastasis. Hepatocyte
+growth factor (HGF), one of the important growth factors in the tumor
+microenvironment, has an important role in angiogenesis, tumorigenesis and
+regeneration. However, the exact mechanism by which HGF regulates HCC initiation 
+and development via epigenetic reprogramming has remained elusive. The present
+study focused on the epigenetic modification and target tumor-suppressive genes
+of HGF treatment in HCC. Expression profiling and DNA methylation array were
+performed to investigate the function of HGF and examine global genomic DNA
+methylation changes, respectively. Integrated analysis of gene expression and DNA
+methylation revealed potential tumor suppressor genes (TSGs) in HCC. The present 
+study showed the multiple functions of HGF in tumorous and non-tumorous pathways 
+and global genomic DNA methylation changes. HGF treatment upregulated the
+expression of DNA methyltransferase 1 (DNMT1). Overexpression of DNMT1 in HCC
+patients correlated with the malignant potential and poor prognosis of HCC.
+Furthermore, integration analysis of gene expression and DNA methylation changes 
+revealed novel potential tumor suppressor genes TSGs including MYOCD, PANX2 and
+LHX9. The present study has provided mechanistic insight into epigenetic
+repression of TSGs through HGF-induced DNA hypermethylation.
+
+PMCID: PMC4526041
+PMID: 26099202  [PubMed - in process]
+
+
+7. Mol Biol Evol. 2015 Sep;32(9):2263-72. doi: 10.1093/molbev/msv103. Epub 2015 Apr 
+29.
+
+Key Role of Amino Acid Repeat Expansions in the Functional Diversification of
+Duplicated Transcription Factors.
+
+Radó-Trilla N(1), Arató K(2), Pegueroles C(3), Raya A(2), de la Luna S(4), Albà
+MM(5).
+
+Author information: 
+(1)Evolutionary Genomics Group, Research Programme on Biomedical Informatics
+(GRIB), Hospital del Mar Research Institute (IMIM), Barcelona, Spain.
+(2)Department of Experimental and Health Sciences, Universitat Pompeu Fabra
+(UPF), Barcelona, Spain Centre for Genomic Regulation (CRG), Barcelona, Spain
+Centro de Investigación Biomèdica en Red en Enfermedades Raras (CIBERER),
+Barcelona, Spain. (3)Evolutionary Genomics Group, Research Programme on
+Biomedical Informatics (GRIB), Hospital del Mar Research Institute (IMIM),
+Barcelona, Spain Centre for Genomic Regulation (CRG), Barcelona, Spain.
+(4)Department of Experimental and Health Sciences, Universitat Pompeu Fabra
+(UPF), Barcelona, Spain Centre for Genomic Regulation (CRG), Barcelona, Spain
+Centro de Investigación Biomèdica en Red en Enfermedades Raras (CIBERER),
+Barcelona, Spain Institució Catalana de Recerca i Estudis Avançats (ICREA),
+Barcelona, Spain susana.luna@crg.es malba@imim.es. (5)Evolutionary Genomics
+Group, Research Programme on Biomedical Informatics (GRIB), Hospital del Mar
+Research Institute (IMIM), Barcelona, Spain Department of Experimental and Health
+Sciences, Universitat Pompeu Fabra (UPF), Barcelona, Spain Institució Catalana de
+Recerca i Estudis Avançats (ICREA), Barcelona, Spain susana.luna@crg.es
+malba@imim.es.
+
+The high regulatory complexity of vertebrates has been related to two rounds of
+whole genome duplication (2R-WGD) that occurred before the divergence of the
+major vertebrate groups. Following these events, many developmental transcription
+factors (TFs) were retained in multiple copies and subsequently specialized in
+diverse functions, whereas others reverted to their singleton state. TFs are
+known to be generally rich in amino acid repeats or low-complexity regions
+(LCRs), such as polyalanine or polyglutamine runs, which can evolve rapidly and
+potentially influence the transcriptional activity of the protein. Here we test
+the hypothesis that LCRs have played a major role in the diversification of TF
+gene duplicates. We find that nearly half of the TF gene families originated
+during the 2R-WGD contains LCRs. The number of gene duplicates with LCRs is 155
+out of 550 analyzed (28%), about twice as many as the number of single copy genes
+with LCRs (15 out of 115, 13%). In addition, duplicated TFs preferentially
+accumulate certain LCR types, the most prominent of which are alanine repeats. We
+experimentally test the role of alanine-rich LCRs in two different TF gene
+families, PHOX2A/PHOX2B and LHX2/LHX9. In both cases, the presence of the
+alanine-rich LCR in one of the copies (PHOX2B and LHX2) significantly increases
+the capacity of the TF to activate transcription. Taken together, the results
+provide strong evidence that LCRs are important driving forces of evolutionary
+change in duplicated genes.
+
+© The Author 2015. Published by Oxford University Press on behalf of the Society 
+for Molecular Biology and Evolution.
+
+PMCID: PMC4540963
+PMID: 25931513  [PubMed - in process]
+
+
+8. Development. 2015 Mar 15;142(6):1113-24. doi: 10.1242/dev.117424. Epub 2015 Feb
+27.
+
+Evolutionarily conserved regulation of hypocretin neuron specification by Lhx9.
+
+Liu J(1), Merkle FT(2), Gandhi AV(1), Gagnon JA(3), Woods IG(3), Chiu CN(1),
+Shimogori T(4), Schier AF(5), Prober DA(6).
+
+Author information: 
+(1)Division of Biology and Biological Engineering, California Institute of
+Technology, Pasadena, CA 91125, USA. (2)Departments of Molecular and Cellular
+Biology, and Stem Cell and Regenerative Biology, Harvard University, Cambridge,
+MA 02138, USA Harvard Stem Cell Institute, Harvard University, Cambridge, MA
+02138, USA. (3)Departments of Molecular and Cellular Biology, and Stem Cell and
+Regenerative Biology, Harvard University, Cambridge, MA 02138, USA. (4)Brain
+Science Institute, RIKEN, Saitama 351-0198, Japan. (5)Departments of Molecular
+and Cellular Biology, and Stem Cell and Regenerative Biology, Harvard University,
+Cambridge, MA 02138, USA Harvard Stem Cell Institute, Harvard University,
+Cambridge, MA 02138, USA Division of Sleep Medicine, Harvard University,
+Cambridge, MA 02115, USA. (6)Division of Biology and Biological Engineering,
+California Institute of Technology, Pasadena, CA 91125, USA dprober@caltech.edu.
+
+Loss of neurons that express the neuropeptide hypocretin (Hcrt) has been
+implicated in narcolepsy, a debilitating disorder characterized by excessive
+daytime sleepiness and cataplexy. Cell replacement therapy, using Hcrt-expressing
+neurons generated in vitro, is a potentially useful therapeutic approach, but
+factors sufficient to specify Hcrt neurons are unknown. Using zebrafish as a
+high-throughput system to screen for factors that can specify Hcrt neurons in
+vivo, we identified the LIM homeobox transcription factor Lhx9 as necessary and
+sufficient to specify Hcrt neurons. We found that Lhx9 can directly induce hcrt
+expression and we identified two potential Lhx9 binding sites in the zebrafish
+hcrt promoter. Akin to its function in zebrafish, we found that Lhx9 is
+sufficient to specify Hcrt-expressing neurons in the developing mouse
+hypothalamus. Our results elucidate an evolutionarily conserved role for Lhx9 in 
+Hcrt neuron specification that improves our understanding of Hcrt neuron
+development.
+
+© 2015. Published by The Company of Biologists Ltd.
+
+PMCID: PMC4360184
+PMID: 25725064  [PubMed - indexed for MEDLINE]
+
+
+9. Development. 2014 Dec;141(24):4794-805. doi: 10.1242/dev.115691.
+
+Fezf2 promotes neuronal differentiation through localised activation of
+Wnt/ß-catenin signalling during forebrain development.
+
+Zhang S(1), Li J(1), Lea R(1), Vleminckx K(2), Amaya E(3).
+
+Author information: 
+(1)The Healing Foundation Centre, Faculty of Life Sciences, University of
+Manchester, Manchester M13 9PT, UK. (2)Department for Biomedical Molecular
+Biology, Ghent University, B-9052 Ghent, Belgium. (3)The Healing Foundation
+Centre, Faculty of Life Sciences, University of Manchester, Manchester M13 9PT,
+UK enrique.amaya@manchester.ac.uk.
+
+Brain regionalisation, neuronal subtype diversification and circuit connectivity 
+are crucial events in the establishment of higher cognitive functions. Here we
+report the requirement for the transcriptional repressor Fezf2 for proper
+differentiation of neural progenitor cells during the development of the Xenopus 
+forebrain. Depletion of Fezf2 induces apoptosis in postmitotic neural
+progenitors, with concomitant reduction in forebrain size and neuronal
+differentiation. Mechanistically, we found that Fezf2 stimulates neuronal
+differentiation by promoting Wnt/ß-catenin signalling in the developing
+forebrain. In addition, we show that Fezf2 promotes activation of Wnt/ß-catenin
+signalling by repressing the expression of two negative regulators of Wnt
+signalling, namely lhx2 and lhx9. Our findings suggest that Fezf2 plays an
+essential role in controlling when and where neuronal differentiation occurs
+within the developing forebrain and that it does so by promoting local
+Wnt/ß-catenin signalling via a double-repressor model.
+
+© 2014. Published by The Company of Biologists Ltd.
+
+PMCID: PMC4299278
+PMID: 25468942  [PubMed - indexed for MEDLINE]
+
+
+10. Sex Dev. 2014;8(6):364-75. doi: 10.1159/000369116. Epub 2014 Nov 25.
+
+Chronology, magnitude and duration of expression of putative
+sex-determining/differentiation genes in a turtle with temperature-dependent sex 
+determination.
+
+Bieser KL(1), Wibbels T.
+
+Author information: 
+(1)Department of Biology, University of Alabama at Birmingham, Birmingham, Ala., 
+USA.
+
+The red-eared slider turtle (Trachemys scripta) possesses temperature-dependent
+sex determination (TSD) in which the incubation temperature determines gonadal
+sex. Although a number of mammalian gene homologues have been identified in
+reptiles with TSD, the exact sex-determining trigger(s) is not known. To date,
+the current study represents the most comprehensive simultaneous evaluation of
+the chronology of mRNA expression profiles of putative
+sex-determining/differentiation genes (Dmrt1, Sox9, Amh, Lhx9, and Foxl2) from
+gonads incubated at male- and female-producing temperatures in T. scripta.
+Additionally, sex-reversing treatments with 17ß-estradiol and letrozole were
+examined. At a male-producing temperature, Dmrt1 expression was sexually
+dimorphic by stage 17, Sox9 by 19 and Amh by 21. In contrast, Foxl2 did not
+significantly increase until after the thermosensitive period at a
+female-producing temperature. Treatment with 17ß-estradiol resulted in reduced
+gonad size and/or inhibited gonadal development and differentiation. Gene
+expression was subsequently low in this group. Sex reversal utilizing letrozole
+failed to produce testes at a female-producing temperature and as such, gene
+expression was comparable to ovary. These results indicate that Dmrt1 and Sox9
+are potential triggers for testis differentiation and Amh, Lhx9 and Foxl2
+represent a conserved core set of genes in the sex-determining/differentiation
+pathway of TSD species.
+
+© 2014 S. Karger AG, Basel.
+
+PMID: 25427533  [PubMed - indexed for MEDLINE]
+
+
+11. Genesis. 2014 Sep;52(9):827-32. doi: 10.1002/dvg.22805. Epub 2014 Aug 12.
+
+Generation and characterization of Lhx9-GFPCreER(T2) knock-in mouse line.
+
+Balasubramanian R(1), Bui A, Xie X, Deng M, Gan L.
+
+Author information: 
+(1)Department of Ophthalmology and Flaum Eye Institute, University of Rochester, 
+Rochester, New York; Department of Neurobiology and Anatomy, University of
+Rochester, Rochester, New York.
+
+LHX9 is a LIM-homeodomain transcription factor essential for the development of
+gonads, spinal cord interneurons, and thalamic neurons to name a few. We recently
+reported the expression of LHX9 in retinal amacrine cells during development. In 
+this study, we generated an Lhx9-GFPCreER(T) (2) (GCE) knock-in mouse line by
+knocking-in a GCE cassette at the Lhx9 locus, thus inactivating endogenous Lhx9. 
+Lhx9(GCE) (/+) mice were viable, fertile, and displayed no overt phenotypical
+characteristics. Lhx9(GCE) (/) (GCE) mice were all phenotypically female, smaller
+in size, viable, but infertile. The specificity and efficacy of the Lhx9-GCE
+mouse line was verified by crossing it to a Rosa26-tdTomato reporter mouse line, 
+which reveals the Cre recombinase activities in retinal amacrine cells,
+developing limbs, testis, hippocampal neurons, thalamic neurons, and cerebellar
+neurons. Taken together, the Lhx9-GCE mouse line could serve as a beneficial tool
+for lineage tracing and gene manipulation experiments. genesis
+
+© 2014 Wiley Periodicals, Inc.
+
+PMCID: PMC4167977
+PMID: 25112520  [PubMed - indexed for MEDLINE]
+
+
+12. Front Neuroanat. 2014 Jul 4;8:59. doi: 10.3389/fnana.2014.00059. eCollection
+2014.
+
+Combinatorial expression of Lef1, Lhx2, Lhx5, Lhx9, Lmo3, Lmo4, and Prox1 helps
+to identify comparable subdivisions in the developing hippocampal formation of
+mouse and chicken.
+
+Abellán A(1), Desfilis E(1), Medina L(1).
+
+Author information: 
+(1)Laboratory of Brain Development and Evolution, Department of Experimental
+Medicine, Institute of Biomedical Research of Lleida, University of Lleida
+Lleida, Spain.
+
+We carried out a study of the expression patterns of seven developmental
+regulatory genes (Lef1, Lhx2, Lhx9, Lhx5, Lmo3, Lmo4, and Prox1), in combination 
+with topological position, to identify the medial pallial derivatives, define its
+major subdivisions, and compare them between mouse and chicken. In both species, 
+the medial pallium is defined as a pallial sector adjacent to the cortical hem
+and roof plate/choroid tela, showing moderate to strong ventricular zone
+expression of Lef1, Lhx2, and Lhx9, but not Lhx5. Based on this, the hippocampal 
+formation (indusium griseum, dentate gyrus, Ammon's horn fields, and subiculum), 
+the medial entorhinal cortex, and part of the amygdalo-hippocampal transition
+area of mouse appeared to derive from the medial pallium. In the chicken, based
+on the same position and gene expression profile, we propose that the hippocampus
+(including the V-shaped area), the parahippocampal area (including its
+caudolateral part), the entorhinal cortex, and the amygdalo-hippocampal
+transition area are medial pallial derivatives. Moreover, the combinatorial
+expression of Lef1, Prox1, Lmo4, and Lmo3 allowed the identification of dentate
+gyrus/CA3-like, CA1/subicular-like, and medial entorhinal-like comparable sectors
+in mouse and chicken, and point to the existence of mostly conserved molecular
+networks involved in hippocampal complex development. Notably, while the mouse
+medial entorhinal cortex derives from the medial pallium (similarly to the
+hippocampal formation, both being involved in spatial navigation and spatial
+memory), the lateral entorhinal cortex (involved in processing non-spatial,
+contextual information) appears to derive from a distinct dorsolateral caudal
+pallial sector.
+
+PMCID: PMC4082316
+PMID: 25071464  [PubMed]
+
+
+13. Brain Struct Funct. 2015;220(3):1497-509. doi: 10.1007/s00429-014-0740-x. Epub
+2014 Mar 20.
+
+The Lhx9 homeobox gene controls pineal gland development and prevents postnatal
+hydrocephalus.
+
+Yamazaki F(1), Møller M, Fu C, Clokie SJ, Zykovich A, Coon SL, Klein DC, Rath MF.
+
+Author information: 
+(1)Section on Neuroendocrinology, Program in Developmental Endocrinology and
+Genetics, The Eunice Kennedy Shriver National Institute of Child Health and Human
+Development, National Institutes of Health, 49 Convent Drive, Room 6A82,
+Bethesda, MD, 20892-4510, USA.
+
+Lhx9 is a member of the LIM homeobox gene family. It is expressed during
+mammalian embryogenesis in the brain including the pineal gland. Deletion of Lhx9
+results in sterility due to failure of gonadal development. The current study was
+initiated to investigate Lhx9 biology in the pineal gland. Lhx9 is highly
+expressed in the developing pineal gland of the rat with transcript abundance
+peaking early in development; transcript levels decrease postnatally to nearly
+undetectable levels in the adult, a temporal pattern that is generally similar to
+that reported for Lhx9 expression in other brain regions. Studies with C57BL/6J
+Lhx9(-/-) mutant mice revealed marked alterations in brain and pineal
+development. Specifically, the superficial pineal gland is hypoplastic, being
+reduced to a small cluster of pinealocytes surrounded by meningeal and vascular
+tissue. The deep pineal gland and the pineal stalk are also reduced in size.
+Although the brains of neonatal Lhx9(-/-) mutant mice appear normal, severe
+hydrocephalus develops in about 70% of the Lhx9(-/-) mice at 5-8 weeks of age;
+these observations are the first to document that deletion of Lhx9 results in
+hydrocephalus and as such indicate that Lhx9 contributes to the maintenance of
+normal brain structure. Whereas hydrocephalus is absent in neonatal
+Lhx9(-/-)mutant mice, the neonatal pineal gland in these animals is hypoplastic. 
+Accordingly, it appears that Lhx9 is essential for early development of the
+mammalian pineal gland and that this effect is not secondary to hydrocephalus.
+
+PMCID: PMC4197116
+PMID: 24647753  [PubMed - indexed for MEDLINE]
+
+
+14. J Anat. 2014 May;224(5):564-74. doi: 10.1111/joa.12168. Epub 2014 Mar 4.
+
+Localization of BDNF expression in the developing brain of zebrafish.
+
+De Felice E(1), Porreca I, Alleva E, De Girolamo P, Ambrosino C, Ciriaco E,
+Germanà A, Sordino P.
+
+Author information: 
+(1)Laboratory of Cellular and Developmental Biology, Stazione Zoologica Anton
+Dohrn, Naples, Italy; Department of Morphology, Biochemistry, Physiology and
+Animal Productions, Section of Morphology, University of Messina, Messina, Italy.
+
+The brain-derived neurotrophic factor (BDNF) gene is expressed in differentiating
+and post-mitotic neurons of the zebrafish embryo, where it has been implicated in
+Huntington's disease. Little is known, however, about the full complement of
+neuronal cell types that express BDNF in this important vertebrate model. Here,
+we further explored the transcriptional profiles during the first week of
+development using real-time quantitative polymerase chain reaction (RT-qPCR) and 
+whole-mount in situ hybridization (WISH). RT-qPCR results revealed a high level
+of maternal contribution followed by a steady increase of zygotic transcription, 
+consistent with the notion of a prominent role of BDNF in neuronal maturation and
+maintenance. Based on WISH, we demonstrate for the first time that BDNF
+expression in the developing brain of zebrafish is structure specific. Anatomical
+criteria and co-staining with genetic markers (shh, pax2a, emx1, krox20, lhx2b
+and lhx9) visualized major topological domains of BDNF-positive cells in the
+pallium, hypothalamus, posterior tuberculum and optic tectum. Moreover, the
+relative timing of BDNF transcription in the eye and tectum may illustrate a
+mechanism for coordinated development of the retinotectal system. Taken together,
+our results are compatible with a local delivery and early role of BDNF in the
+developing brain of zebrafish, adding basic knowledge to the study of
+neurotrophin functions in neural development and disease.
+
+© 2014 Anatomical Society.
+
+PMID: 24588510  [PubMed - indexed for MEDLINE]
+
+
+15. FASEB J. 2014 May;28(5):2020-8. doi: 10.1096/fj.13-246108. Epub 2014 Jan 22.
+
+FOXL2 transcriptionally represses Sf1 expression by antagonizing WT1 during
+ovarian development in mice.
+
+Takasawa K(1), Kashimada K, Pelosi E, Takagi M, Morio T, Asahara H, Schlessinger 
+D, Mizutani S, Koopman P.
+
+Author information: 
+(1)1Department of Pediatrics and Developmental Biology, Tokyo Medical and Dental 
+University, Bunkyo, Tokyo 113-8510, Japan. kkashimada.ped@tmd.ac.jp.
+
+Steroidogenic factor 1 (SF1; Ad4BP/NR5A1) plays key roles in gonadal development.
+Initially, the Sf1 gene is expressed in mouse fetal gonads of both sexes, but
+later is up-regulated in testes and down-regulated in ovaries. While Sf1
+expression is activated and maintained by Wilms tumor 1 (WT1) and LIM homeobox 9 
+(LHX9), the mechanism of sex-specific regulation remains unclear. We hypothesized
+that Sf1 is repressed by the transcription factor Forkhead box L2 (FOXL2) during 
+ovarian development. In an in vitro system (TM3 cells), up-regulation of Sf1 by
+the WT1 splice variant WT1-KTS was antagonized by FOXL2, as determined by
+quantitative RT-PCR. Using reporter assays, we localized the Sf1 proximal
+promoter region involved in this antagonism to a 674-bp interval. A conserved
+FOXL2 binding site was identified in this interval by in vitro chromatin
+immunoprecipitation. Introducing mutations into this site abolished negative
+regulation by FOXL2 in reporter assays. Finally, in Foxl2-null mice, Sf1
+expression was increased 2-fold relative to wild-type XX fetal gonads. Our
+results support the hypothesis that FOXL2 negatively regulates Sf1 expression by 
+antagonizing WT1-KTS during early ovarian development in mice.
+
+PMCID: PMC3986836
+PMID: 24451388  [PubMed - indexed for MEDLINE]
+
+
+16. Neural Dev. 2014 Jan 9;9:1. doi: 10.1186/1749-8104-9-1.
+
+Developmental origins of diversity in cerebellar output nuclei.
+
+Green MJ, Wingate RJ(1).
+
+Author information: 
+(1)MRC Centre for Developmental Neurobiology, King's College London, 4th floor
+New Hunt's House, London SE1 1UL UK. richard.wingate@kcl.ac.uk.
+
+BACKGROUND: The functional integration of the cerebellum into a number of
+different neural systems is governed by the connection of its output axons. In
+amniotes, the majority of this output is mediated by an evolutionarily diverse
+array of cerebellar nuclei that, in mice, are derived from the embryonic rhombic 
+lip. To understand the origins of cerebellar nucleus diversity, we have explored 
+how nucleus development is patterned in birds, which notably lack a dentate-like 
+nucleus output to the dorsal thalamus.
+RESULTS: Using targeted in ovo electoroporation of green fluorescent protein
+(GFP) and red fluorescent protein (RFP) in a variety of combinations and with
+different conditional enhancers, we show that cerebellar nuclei in chicks are
+produced, as in the mouse, at the rhombic lip. Furthermore, the comparison of
+fate-mapped neurons with molecular markers reveals a strict temporal sequence of 
+cell fate allocation in establishing the avian lateral and medial cerebellar
+nuclei. In contrast to the mouse cerebellum, Lhx9 expression is confined to
+extracerebellar thalamic afferent nuclei corresponding to the absence, in chicks,
+of a dentate nucleus. Spatiotemporally targeted over-expression of Lhx9 in chick 
+cerebellar nuclei (recapitulating in part the mammalian expression pattern)
+results in a loss of distinct nuclear boundaries and a change in axon initial
+trajectories consistent with a role for Lhx9 specifying targeting.
+CONCLUSIONS: Our results confirm the relationship between cell fate and a fine
+grain temporal patterning at the rhombic lip. This suggests that the lack of a
+cerebellar output to the dorsal thalamus of birds corresponds with a restricted
+expression of the LIM-homeodomain gene Lhx9 to earlier born rhombic lip cohorts
+when compared to mice. The evolution of cerebellar nucleus diversity in amniotes 
+may hence reflect a heterochronic adaptation of gene expression with respect to
+the sequential production of rhombic lip derivatives resulting in altered axonal 
+targeting.
+
+PMCID: PMC3929244
+PMID: 24405572  [PubMed - indexed for MEDLINE]
+
+
+17. Development. 2014 Jan;141(2):389-98. doi: 10.1242/dev.099119.
+
+Independently specified Atoh1 domains define novel developmental compartments in 
+rhombomere 1.
+
+Green MJ(1), Myat AM, Emmenegger BA, Wechsler-Reya RJ, Wilson LJ, Wingate RJ.
+
+Author information: 
+(1)MRC Centre for Developmental Neurobiology, King's College London, 4th floor
+New Hunt's House, London SE1 1UL, UK.
+
+The rhombic lip gives rise to neuronal populations that contribute to cerebellar,
+proprioceptive and interoceptive networks. Cell production depends on the
+expression of the basic helix-loop-helix (bHLH) transcription factor Atoh1. In
+rhombomere 1, Atoh1-positive cells give rise to both cerebellar neurons and
+extra-cerebellar nuclei in ventral hindbrain. The origin of this cellular
+diversity has previously been attributed to temporal signals rather than spatial 
+patterning. Here, we show that in both chick and mouse the cerebellar Atoh1
+precursor pool is partitioned into initially cryptic spatial domains that reflect
+the activity of two different organisers: an isthmic Atoh1 domain, which gives
+rise to isthmic nuclei, and the rhombic lip, which generates deep cerebellar
+nuclei and granule cells. We use a combination of in vitro explant culture,
+genetic fate mapping and gene overexpression and knockdown to explore the role of
+isthmic signalling in patterning these domains. We show that an FGF-dependent
+isthmic Atoh1 domain is the origin of distinct populations of Lhx9-positive
+neurons in the extra-cerebellar isthmic nuclei. In the cerebellum, ectopic FGF
+induces proliferation while blockade reduces the length of the cerebellar rhombic
+lip. FGF signalling is not required for the specification of cerebellar cell
+types from the rhombic lip and its upregulation inhibits their production. This
+suggests that although the isthmus regulates the size of the cerebellar anlage,
+the downregulation of isthmic FGF signals is required for induction of rhombic
+lip-derived cerebellar neurons.
+
+PMCID: PMC3879817
+PMID: 24381197  [PubMed - indexed for MEDLINE]
+
+
+18. Gene Expr Patterns. 2014 Jan;14(1):1-8. doi: 10.1016/j.gep.2013.12.001. Epub 2013
+Dec 10.
+
+Expression of LIM-homeodomain transcription factors in the developing and mature 
+mouse retina.
+
+Balasubramanian R(1), Bui A(2), Ding Q(3), Gan L(4).
+
+Author information: 
+(1)Flaum Eye Institute and Department of Ophthalmology, University of Rochester
+Medical Center, Rochester, NY 14642, USA; Department of Neurobiology and Anatomy,
+University of Rochester Medical Center, Rochester, NY 14642, USA. (2)Department
+of Biology, University of Rochester Medical Center, Rochester, NY 14642, USA.
+(3)Flaum Eye Institute and Department of Ophthalmology, University of Rochester
+Medical Center, Rochester, NY 14642, USA. (4)Flaum Eye Institute and Department
+of Ophthalmology, University of Rochester Medical Center, Rochester, NY 14642,
+USA; Department of Neurobiology and Anatomy, University of Rochester Medical
+Center, Rochester, NY 14642, USA. Electronic address: lin_gan@urmc.rochester.edu.
+
+LIM-homeodomain (LIM-HD) transcription factors have been extensively studied for 
+their role in the development of the central nervous system. Their function is
+key to several developmental events like cell proliferation, differentiation and 
+subtype specification. However, their roles in retinal neurogenesis remain
+largely unknown. Here we report a detailed expression study of LIM-HD
+transcription factors LHX9 and LHX2, LHX3 and LHX4, and LHX6 in the developing
+and mature mouse retina using immunohistochemistry and in situ hybridization
+techniques. We show that LHX9 is expressed during the early stages of development
+in the retinal ganglion cell layer and the inner nuclear layer. We also show that
+LHX9 is expressed in a subset of amacrine cells in the adult retina. LHX2 is
+known to be expressed in retinal progenitor cells during development and in
+Müller glial cells and a subset of amacrine cells in the adult retina. We found
+that the LHX2 subset of amacrine cells is not cholinergic and that a very few of 
+LHX2 amacrine cells express calretinin. LHX3 and LHX4 are expressed in a subset
+of bipolar cells in the adult retina. LHX6 is expressed in cells in the ganglion 
+cell layer and the neuroblast layer starting at embryonic stage 13.5 (E13.5) and 
+continues to be expressed in cells in the ganglion cell layer and inner nuclear
+layer, postnatally, suggesting its likely expression in amacrine cells or a
+subset thereof. Taken together, our comprehensive assay of expression patterns of
+LIM-HD transcription factors during mouse retinal development will help further
+studies elucidating their biological functions in the differentiation of retinal 
+cell subtypes.
+
+Copyright © 2013 Elsevier B.V. All rights reserved.
+
+PMCID: PMC3921069
+PMID: 24333658  [PubMed - indexed for MEDLINE]
+
+
+19. Anat Rec (Hoboken). 2013 Sep;296(9):1317-32. doi: 10.1002/ar.22744. Epub 2013 Jul
+31.
+
+The olfactory amygdala in amniotes: an evo-devo approach.
+
+Abellán A(1), Desfilis E, Medina L.
+
+Author information: 
+(1)Laboratory of Brain Development and Evolution, Department of Experimental
+Medicine, Faculty of Medicine, University of Lleida, Institute of Biomedical
+Research of Lleida, Lleida, Spain.
+
+In tetrapods, the medial amygdala is a forebrain center that integrates olfactory
+and/or vomeronasal signals with the endocrine and autonomic systems, playing a
+key role in different social behaviors. The vomeronasal system has undergone
+important changes during evolution, which may be behind some interspecies
+differences in chemosensory-mediated social behavior. These evolutionary changes 
+are associated with variations in vomeronasal-recipient brain structures,
+including the medial amygdala. Herein, we employed an evolutionary developmental 
+biology approach for trying to understand the function and evolution of the
+medial amygdala. For that purpose, we reviewed published data on fate mapping in 
+mouse, and the expression of orthologous developmental regulatory genes (Nkx2.1, 
+Lhx6, Shh, Tbr1, Lhx9, Lhx5, Otp, and Pax6) in embryos of mouse, chicken, emydid 
+turtles, and a pipid frog. We also analyzed novel data on Lhx9 and Otp in a
+lacertid lizard. Based on distinct embryonic origin and genetic profile, at least
+five neuronal subpopulations exist in the medial amygdala of rodents, expressing 
+either Nkx2.1/Lhx6, Shh, Lhx9, Otp/Lhx5, or Pax6. Each neuronal subpopulation
+appears involved in different functional pathways. For example, Lhx6 cells are
+specifically activated by sex pheromones and project to preoptic and hypothalamic
+centers involved in reproduction. Based on data in nonmammals, at least three of 
+these neuronal subtypes might have been present in the medial amygdala of the
+amniote common ancestor. During mammalian evolution, the downregulation of Nkx2.1
+in the alar hypothalamus may have been a driving force for an increment of the
+Otp/Lhx5 subpopulation.
+
+Copyright © 2013 Wiley Periodicals, Inc.
+
+PMID: 23904411  [PubMed - indexed for MEDLINE]
+
+
+20. Int J Gynecol Pathol. 2013 Sep;32(5):444-53. doi: 10.1097/PGP.0b013e3182800ad5.
+
+The stem-cell profile of ovarian surface epithelium is reproduced in the
+oviductal fimbriae, with increased stem-cell marker density in distal parts of
+the fimbriae.
+
+Auersperg N(1).
+
+Author information: 
+(1)Department of Obstetrics and Gynecology, University of British Columbia,
+Vancouver, BC, Canada. auersper@mail.ubc.ca
+
+High-grade serous ovarian carcinomas are the most common and most lethal ovarian 
+cancers, but their histologic origin is still controversial. Current evidence
+suggests that they may originate in the ovarian surface epithelium (OSE) and/or
+epithelium of oviductal fimbriae (FE). To further investigate this question we
+compared the stem-cell profiles of these epithelia. Formalin-fixed sections of
+normal FE (N=21) and ovaries (N=21) were stained immunohistochemically for the
+stem-cell markers NANOG, SFRP1, LHX9, ALDH1A1, and ALDH1A2. All markers were
+detected in both OSE and FE. A total of 75% to 100% of surface OSE expressed all 
+markers except ALDH1A1, which occurred in about 25% of cells. Among epithelial
+inclusion cysts with flat-to-cuboidal epithelium, resembling OSE, ALDH1A1 was
+significantly increased, whereas SFRP1 was reduced compared with surface OSE,
+suggesting an increased trend towards malignant transformation. Similarly, among 
+cysts lined by columnar cells resembling FE, SFRP1 expression was low, whereas
+ALDH1A1 approached 100% of the cysts. FE exhibited considerable variation between
+and within specimens. In about half of the samples, SFRP1 and NANOG were detected
+in =25% FE. The most widespread markers were ALDH1A1 and ALDH1A2. The highest
+proportion of all markers occurred in the distal parts of the FE, the site of the
+putative ovarian cancer precursors. Marker expression in tubal ampullae was low
+or absent except for ALDH1A1 and ALDH1A2. The results provide an explanation for 
+the characteristic distal location of fimbrial high-grade serous ovarian
+carcinoma precursor lesions, and indicate that both OSE and FE have the capacity 
+to undergo neoplastic transformation.
+
+PMID: 23896717  [PubMed - indexed for MEDLINE]
+
+
+21. PLoS Genet. 2013;9(7):e1003629. doi: 10.1371/journal.pgen.1003629. Epub 2013 Jul 
+11.
+
+Gata4 is required for formation of the genital ridge in mice.
+
+Hu YC(1), Okumura LM, Page DC.
+
+Author information: 
+(1)Whitehead Institute, Howard Hughes Medical Institute, and Department of
+Biology, Massachusetts Institute of Technology, Cambridge, Massachusetts, USA.
+
+In mammals, both testis and ovary arise from a sexually undifferentiated
+precursor, the genital ridge, which first appears during mid-gestation as a
+thickening of the coelomic epithelium on the ventromedial surface of the
+mesonephros. At least four genes (Lhx9, Sf1, Wt1, and Emx2) have been
+demonstrated to be required for subsequent growth and maintenance of the genital 
+ridge. However, no gene has been shown to be required for the initial thickening 
+of the coelomic epithelium during genital ridge formation. We report that the
+transcription factor GATA4 is expressed in the coelomic epithelium of the genital
+ridge, progressing in an anterior-to-posterior (A-P) direction, immediately
+preceding an A-P wave of epithelial thickening. Mouse embryos conditionally
+deficient in Gata4 show no signs of gonadal initiation, as their coelomic
+epithelium remains a morphologically undifferentiated monolayer. The failure of
+genital ridge formation in Gata4-deficient embryos is corroborated by the absence
+of the early gonadal markers LHX9 and SF1. Our data indicate that GATA4 is
+required to initiate formation of the genital ridge in both XX and XY fetuses,
+prior to its previously reported role in testicular differentiation of the XY
+gonad.
+
+PMCID: PMC3708810
+PMID: 23874227  [PubMed - indexed for MEDLINE]
+
+
+22. J Comp Neurol. 2013 Nov;521(16):3666-701. doi: 10.1002/cne.23406.
+
+Molecular profiling of the developing avian telencephalon: regional timing and
+brain subdivision continuities.
+
+Chen CC(1), Winkler CM, Pfenning AR, Jarvis ED.
+
+Author information: 
+(1)Department of Neurobiology, Howard Hughes Medical Institute, Duke University
+Medical Center, Durham, North Carolina, 27710.
+
+Comment in
+    J Comp Neurol. 2013 Nov;521(16):3601-3.
+    J Comp Neurol. 2013 Nov;521(16):3604-13.
+
+In our companion study (Jarvis et al. [2013] J Comp Neurol. doi:
+10.1002/cne.23404) we used quantitative brain molecular profiling to discover
+that distinct subdivisions in the avian pallium above and below the ventricle and
+the associated mesopallium lamina have similar molecular profiles, leading to a
+hypothesis that they may form as continuous subdivisions around the lateral
+ventricle. To explore this hypothesis, here we profiled the expression of 16
+genes at eight developmental stages. The genes included those that define brain
+subdivisions in the adult and some that are also involved in brain development.
+We found that phyletic hierarchical cluster and linear regression network
+analyses of gene expression profiles implicated single and mixed ancestry of
+these brain regions at early embryonic stages. Most gene expression-defined
+pallial subdivisions began as one ventral or dorsal domain that later formed
+specific folds around the lateral ventricle. Subsequently a clear ventricle
+boundary formed, partitioning them into dorsal and ventral pallial subdivisions
+surrounding the mesopallium lamina. These subdivisions each included two parts of
+the mesopallium, the nidopallium and hyperpallium, and the arcopallium and
+hippocampus, respectively. Each subdivision expression profile had a different
+temporal order of appearance, similar in timing to the order of analogous cell
+types of the mammalian cortex. Furthermore, like the mammalian pallium,
+expression in the ventral pallial subdivisions became distinct during prehatch
+development, whereas the dorsal portions did so during posthatch development.
+These findings support the continuum hypothesis of avian brain subdivision
+development around the ventricle and influence hypotheses on homologies of the
+avian pallium with other vertebrates.
+
+Copyright © 2013 Wiley Periodicals, Inc.
+
+PMCID: PMC3863995
+PMID: 23818174  [PubMed - indexed for MEDLINE]
+
+
+23. J Exp Zool B Mol Dev Evol. 2013 Jun;320(4):238-46. doi: 10.1002/jez.b.22497. Epub
+2013 Apr 23.
+
+The cloning and expression analysis of Lhx9 during gonadal sex differentiation in
+the red-eared slider turtle, Trachemys scripta, a species with
+temperature-dependent sex determination.
+
+Bieser KL(1), Wibbels T, Mourad G, Paladino F.
+
+Author information: 
+(1)Department of Biology, University of Alabama at Birmingham, Birmingham,
+Alabama 35294-1170, USA. kbieser@uab.edu
+
+Many reptiles, including the red-eared slider turtle (Trachemys scripta), possess
+a temperature-dependent sex determination (TSD) mechanism where the temperature
+at which the developing embryos are incubated dictates the gonadal sex of the
+animal. A number of mammalian gene orthologues have been identified in the sex
+determination/differentiation cascade of reptiles with TSD although the exact
+trigger(s) is not well understood. A potential early regulator of gonadal
+differentiation, Lhx9, controls the proliferation of gonadal cells in mice and
+its absence prevents gonadal development and drastically reduces the expression
+of Sf-1, a gene that regulates the expression of steroidogenic enzymes in the
+bipotential gonad. In the current study, we cloned Lhx9 from T. scripta and
+analyzed its expression throughout the thermosensitive period of gonad
+development using quantitative PCR. We examined the expression profiles of Lhx9
+in embryos incubated under control conditions at male- and female-producing
+temperatures and with the application of exogenous 17ß-estradiol or an aromatase 
+inhibitor, Letrozole, to induce sex reversal. The T. scripta Lhx9 cDNA and
+predicted amino acid sequence showed high homology to those of chicken, anole,
+and mouse. Lhx9 was expressed at both male- and female-producing temperatures
+with expression levels increasing throughout the thermosensitive period.
+Letrozole induced sex-reversal did not alter Lhx9 expression levels.
+17ß-estradiol treatments appeared to inhibit or delay gonadal differentiation and
+resulted in lower Lhx9 expression from the presumptive gonadal ridge region. The 
+structural homology and temporal expression pattern of Lhx9 suggests that this
+represents a conserved element in the gonadal differentiation cascade of T.
+scripta.
+
+Copyright © 2013 Wiley Periodicals, Inc., A Wiley Company.
+
+PMID: 23671035  [PubMed - indexed for MEDLINE]
+
+
+24. Genes Dev. 2013 Mar 1;27(5):565-78. doi: 10.1101/gad.207654.112. Epub 2013 Feb
+21.
+
+Translational profiling of hypocretin neurons identifies candidate molecules for 
+sleep regulation.
+
+Dalal J(1), Roh JH, Maloney SE, Akuffo A, Shah S, Yuan H, Wamsley B, Jones WB, de
+Guzman Strong C, Gray PA, Holtzman DM, Heintz N, Dougherty JD.
+
+Author information: 
+(1)Department of Genetics, Washington University School of Medicine, St. Louis,
+MO 63110, USA.
+
+Hypocretin (orexin; Hcrt)-containing neurons of the hypothalamus are essential
+for the normal regulation of sleep and wake behaviors and have been implicated in
+feeding, anxiety, depression, and reward. The absence of these neurons causes
+narcolepsy in humans and model organisms. However, little is known about the
+molecular phenotype of these cells; previous attempts at comprehensive profiling 
+had only limited sensitivity or were inaccurate. We generated a Hcrt translating 
+ribosome affinity purification (bacTRAP) line for comprehensive translational
+profiling of all ribosome-bound transcripts in these neurons in vivo. From this
+profile, we identified >6000 transcripts detectably expressed above background
+and 188 transcripts that are highly enriched in these neurons, including all
+known markers of the cells. Blinded analysis of in situ hybridization databases
+suggests that ~60% of these are expressed in a Hcrt marker-like pattern. Fifteen 
+of these were confirmed with double labeling and microscopy, including the
+transcription factor Lhx9. Ablation of this gene results in a >30% loss
+specifically of Hcrt neurons, without a general disruption of hypothalamic
+development. Polysomnography and activity monitoring revealed a profound
+hypersomnolence in these mice. These data provide an in-depth and accurate
+profile of Hcrt neuron gene expression and suggest that Lhx9 may be important for
+specification or survival of a subset of these cells.
+
+PMCID: PMC3605469
+PMID: 23431030  [PubMed - indexed for MEDLINE]
+
+
+25. F1000Res. 2013 Oct 4;2:205. doi: 10.12688/f1000research.2-205.v1. eCollection
+2013.
+
+Seizure evoked regulation of LIM-HD genes and co-factors in the postnatal and
+adult hippocampus.
+
+Lakhina V(1), Subramanian L(2), Huilgol D(3), Shetty AS(4), Vaidya VA(4), Tole
+S(4).
+
+Author information: 
+(1)Department of Biological Sciences, Tata Institute of Fundamental Research,
+Mumbai, India ; Current affiliation: Lewis Sigler Institute for Integrative
+Genomics, Princeton University, NJ, USA. (2)Department of Biological Sciences,
+Tata Institute of Fundamental Research, Mumbai, India ; Current affiliation:
+Department of Neurology, University of California, San Francisco, CA, USA.
+(3)Department of Biological Sciences, Tata Institute of Fundamental Research,
+Mumbai, India ; Current affiliation: Cold Spring Harbor Laboratory, NY, USA.
+(4)Department of Biological Sciences, Tata Institute of Fundamental Research,
+Mumbai, India.
+
+The LIM-homeodomain (LIM-HD) family of transcription factors is well known for
+its functions during several developmental processes including cell fate
+specification, cell migration and axon guidance, and its members play fundamental
+roles in hippocampal development. The hippocampus is a structure that displays
+striking activity dependent plasticity.  We examined whether LIM-HD genes and
+their co-factors are regulated during kainic acid induced seizure in the adult
+rat hippocampus as well as in early postnatal rats, when the hippocampal
+circuitry is not fully developed.  We report a distinct and field-specific
+regulation of LIM-HD genes Lhx1, Lhx2, and Lhx9, LIM-only gene Lmo4, and cofactor
+Clim1a in the adult hippocampus after seizure induction. In contrast none of
+these genes displayed altered levels upon induction of seizure in postnatal
+animals.  Our results provide evidence of temporal and spatial seizure mediated
+regulation of LIM-HD family members and suggest that LIM-HD gene function may be 
+involved in activity dependent plasticity in the adult hippocampus.
+
+PMCID: PMC4111125
+PMID: 25110573  [PubMed]
+
+
+26. Development. 2012 Dec;139(24):4633-43. doi: 10.1242/dev.086991. Epub 2012 Nov 7.
+
+Gbx2 regulates thalamocortical axon guidance by modifying the LIM and Robo codes.
+
+Chatterjee M(1), Li K, Chen L, Maisano X, Guo Q, Gan L, Li JY.
+
+Author information: 
+(1)Department of Genetics and Developmental Biology, University of Connecticut
+Health Center, 400 Farmington Avenue, Farmington, CT 06030-6403, USA.
+
+Combinatorial expression of transcription factors forms transcriptional codes to 
+confer neuronal identities and connectivity. However, how these intrinsic factors
+orchestrate the spatiotemporal expression of guidance molecules to dictate the
+responsiveness of axons to guidance cues is less understood. Thalamocortical
+axons (TCAs) represent the major input to the neocortex and modulate cognitive
+functions, consciousness and alertness. TCAs travel a long distance and make
+multiple target choices en route to the cortex. The homeodomain transcription
+factor Gbx2 is essential for TCA development, as loss of Gbx2 abolishes TCAs in
+mice. Using a novel TCA-specific reporter, we have discovered that thalamic axons
+are mostly misrouted to the ventral midbrain and dorsal midline of the
+diencephalon in Gbx2-deficient mice. Furthermore, conditionally deleting Gbx2 at 
+different embryonic stages has revealed a sustained role of Gbx2 in regulating
+TCA navigation and targeting. Using explant culture and mosaic analyses, we
+demonstrate that Gbx2 controls the intrinsic responsiveness of TCAs to guidance
+cues. The guidance defects of Gbx2-deficient TCAs are associated with abnormal
+expression of guidance receptors Robo1 and Robo2. Finally, we demonstrate that
+Gbx2 controls Robo expression by regulating LIM-domain transcription factors
+through three different mechanisms: Gbx2 and Lhx2 compete for binding to the Lmo3
+promoter and exert opposing effects on its transcription; repressing Lmo3 by Gbx2
+is essential for Lhx2 activity to induce Robo2; and Gbx2 represses Lhx9
+transcription, which in turn induces Robo1. Our findings illustrate the
+transcriptional control of differential expression of Robo1 and Robo2, which may 
+play an important role in establishing the topography of TCAs.
+
+PMCID: PMC3509725
+PMID: 23136391  [PubMed - indexed for MEDLINE]
+
+
+27. Mol Endocrinol. 2013 Jan;27(1):63-73. doi: 10.1210/me.2012-1256. Epub 2012 Nov 2.
+
+Contribution of Leydig and Sertoli cells to testosterone production in mouse
+fetal testes.
+
+Shima Y(1), Miyabayashi K, Haraguchi S, Arakawa T, Otake H, Baba T, Matsuzaki S, 
+Shishido Y, Akiyama H, Tachibana T, Tsutsui K, Morohashi K.
+
+Author information: 
+(1)Department of Molecular Biology, Graduate School of Medical Sciences, Kyushu
+University, 3-1-1 Maidashi, Higashi-ku, Fukuoka 812-8582, Japan.
+
+Testosterone is a final product of androgenic hormone biosynthesis, and Leydig
+cells are known to be the primary source of androgens. In the mammalian testis,
+two distinct populations of Leydig cells, the fetal and the adult Leydig cells,
+develop sequentially, and these two cell types differ both morphologically and
+functionally. It is well known that the adult Leydig cells maintain male
+reproductive function by producing testosterone. However, it has been
+controversial whether fetal Leydig cells can produce testosterone, and the
+synthetic pathway of testosterone in the fetal testis is not fully understood. In
+the present study, we generated transgenic mice in which enhanced green
+fluorescence protein was expressed under the control of a fetal Leydig
+cell-specific enhancer of the Ad4BP/SF-1 (Nr5a1) gene. The transgene construct
+was prepared by mutating the LIM homeodomain transcription factor (LHX9)-binding 
+sequence in the promoter, which abolished promoter activity in the
+undifferentiated testicular cells. These transgenic mice were used to collect
+highly pure fetal Leydig cells. Gene expression and steroidogenic enzyme
+activities in the fetal Leydig cells as well as in the fetal Sertoli cells and
+adult Leydig cells were analyzed. Our results revealed that the fetal Leydig
+cells synthesize only androstenedione because they lack expression of Hsd17b3,
+and fetal Sertoli cells convert androstenedione to testosterone, whereas adult
+Leydig cells synthesize testosterone by themselves. The current study
+demonstrated that both Leydig and Sertoli cells are required for testosterone
+synthesis in the mouse fetal testis.
+
+PMID: 23125070  [PubMed - indexed for MEDLINE]
+
+
+28. Endocrinology. 2012 Feb;153(2):913-24. doi: 10.1210/en.2011-1055. Epub 2011 Dec
+20.
+
+Cbx2, a polycomb group gene, is required for Sry gene expression in mice.
+
+Katoh-Fukui Y(1), Miyabayashi K, Komatsu T, Owaki A, Baba T, Shima Y, Kidokoro T,
+Kanai Y, Schedl A, Wilhelm D, Koopman P, Okuno Y, Morohashi K.
+
+Author information: 
+(1)Department of Aging Intervention, National Institute for Longevity Sciences,
+Obu 474-8511, Japan. yfukui@ncgg.go.jp
+
+Mice lacking the function of the polycomb group protein CBX2 (chromobox homolog
+2; also known as M33) show defects in gonadal, adrenal, and splenic development. 
+In particular, XY knockout (KO) mice develop ovaries but not testes, and the
+gonads are hypoplastic in both sexes. However, how CBX2 regulates development of 
+these tissues remains largely unknown. In the present study, we used microarray, 
+RT-PCR, and immunohistochemical analyses to show that the expression of Sry,
+Sox9, Lhx9, Ad4BP/SF-1, Dax-1, Gata4, Arx, and Dmrt1, genes encoding
+transcription factors essential for gonadal development, is affected in Cbx2 KO
+gonads. Male-to-female sex reversal in Cbx2 KO mice was rescued by crossing them 
+with transgenic mice displaying forced expression of Sry or Sox9. However, testes
+remained hypoplastic in these mice, indicating that the size and the sex of the
+gonad are determined by different sets of genes. Our study implicates Cbx2 in
+testis differentiation through regulating Sry gene expression.
+
+PMID: 22186409  [PubMed - indexed for MEDLINE]
+
+
+29. PLoS Biol. 2011 Dec;9(12):e1001218. doi: 10.1371/journal.pbio.1001218. Epub 2011 
+Dec 13.
+
+Lhx2 and Lhx9 determine neuronal differentiation and compartition in the caudal
+forebrain by regulating Wnt signaling.
+
+Peukert D(1), Weber S, Lumsden A, Scholpp S.
+
+Author information: 
+(1)Karlsruhe Institute of Technology, Institute of Toxicology and Genetics,
+Karlsruhe, Germany.
+
+Initial axial patterning of the neural tube into forebrain, midbrain, and
+hindbrain primordia occurs during gastrulation. After this patterning phase,
+further diversification within the brain is thought to proceed largely
+independently in the different primordia. However, mechanisms that maintain the
+demarcation of brain subdivisions at later stages are poorly understood. In the
+alar plate of the caudal forebrain there are two principal units, the thalamus
+and the pretectum, each of which is a developmental compartment. Here we show
+that proper neuronal differentiation of the thalamus requires Lhx2 and Lhx9
+function. In Lhx2/Lhx9-deficient zebrafish embryos the differentiation process is
+blocked and the dorsally adjacent Wnt positive epithalamus expands into the
+thalamus. This leads to an upregulation of Wnt signaling in the caudal forebrain.
+Lack of Lhx2/Lhx9 function as well as increased Wnt signaling alter the
+expression of the thalamus specific cell adhesion factor pcdh10b and lead
+subsequently to a striking anterior-posterior disorganization of the caudal
+forebrain. We therefore suggest that after initial neural tube patterning,
+neurogenesis within a brain compartment influences the integrity of the neuronal 
+progenitor pool and border formation of a neuromeric compartment.
+
+PMCID: PMC3236734
+PMID: 22180728  [PubMed - indexed for MEDLINE]
+
+
+30. Brain Behav Evol. 2011;78(3):216-36. doi: 10.1159/000330056. Epub 2011 Aug 23.
+
+Contribution of genoarchitecture to understanding forebrain evolution and
+development, with particular emphasis on the amygdala.
+
+Medina L(1), Bupesh M, Abellán A.
+
+Author information: 
+(1)Laboratory of Brain Development and Evolution, Department of Experimental
+Medicine, Faculty of Medicine, University of Lleida, Institute of Biomedical
+Research of Lleida, Spain. loreta.medina@mex.udl.cat
+
+The amygdala is a forebrain center involved in functions and behaviors that are
+critical for survival (such as control of the neuroendocrine system and
+homeostasis, and reproduction and fear/escape responses) and in cognitive
+functions such as attention and emotional learning. In mammals, the amygdala is
+highly complex, with multiple subdivisions, neuronal subtypes, and connections,
+making it very difficult to understand its functional organization and
+evolutionary origin. Since evolution is the consequence of changes that occurred 
+in development, herein we review developmental data based on genoarchitecture and
+fate mapping in mammals (in the mouse model) and other vertebrates in order to
+identify its basic components and embryonic origin in different species and
+understand how they changed in evolution. In all tetrapods studied, the amygdala 
+includes at least 4 components: (1) a ventral pallial part, characterized by
+expression of Lhx2 and Lhx9, that includes part of the basal amygdalar complex in
+mammals and a caudal part of the dorsal ventricular ridge in sauropsids and also 
+produces a cell subpopulation of the medial amygdala; (2) a striatal part,
+characterized by expression of Pax6 and/or Islet1, which includes the central
+amygdala in different species; (3) a pallidal part, characterized by expression
+of Nkx2.1 and, in amniotes, Lhx6, which includes part of the medial amygdala, and
+(4) a hypothalamic part (derived from the supraoptoparaventricular domain or
+SPV), characterized by Otp and/or Lhx5 expression, which produces an important
+subpopulation of cells of the medial extended amygdala (medial amygdala and/or
+medial bed nucleus of the stria terminalis). Importantly, the size of the SPV
+domain increases upon reduction or lack of Nkx2.1 function in the hypothalamus.
+It appears that Nkx2.1 expression was downregulated in the alar hypothalamus
+during evolution to mammals, which may have produced an enlargement of SPV and
+the amygdalar cell subpopulation derived from it.
+
+Copyright © 2011 S. Karger AG, Basel.
+
+PMID: 21860224  [PubMed - indexed for MEDLINE]
+
+
+31. PLoS One. 2011;6(5):e20197. doi: 10.1371/journal.pone.0020197. Epub 2011 May 26.
+
+Directed neural differentiation of mouse embryonic stem cells is a sensitive
+system for the identification of novel Hox gene effectors.
+
+Bami M(1), Episkopou V, Gavalas A, Gouti M.
+
+Author information: 
+(1)Developmental Biology Laboratory, Biomedical Research Foundation of the
+Academy of Athens, Athens, Greece.
+
+The evolutionarily conserved Hox family of homeodomain transcription factors
+plays fundamental roles in regulating cell specification along the anterior
+posterior axis during development of all bilaterian animals by controlling cell
+fate choices in a highly localized, extracellular signal and cell context
+dependent manner. Some studies have established downstream target genes in
+specific systems but their identification is insufficient to explain either the
+ability of Hox genes to direct homeotic transformations or the breadth of their
+patterning potential. To begin delineating Hox gene function in neural
+development we used a mouse ES cell based system that combines efficient neural
+differentiation with inducible Hoxb1 expression. Gene expression profiling
+suggested that Hoxb1 acted as both activator and repressor in the short term but 
+predominantly as a repressor in the long run. Activated and repressed genes
+segregated in distinct processes suggesting that, in the context examined, Hoxb1 
+blocked differentiation while activating genes related to early developmental
+processes, wnt and cell surface receptor linked signal transduction and
+cell-to-cell communication. To further elucidate aspects of Hoxb1 function we
+used loss and gain of function approaches in the mouse and chick embryos. We show
+that Hoxb1 acts as an activator to establish the full expression domain of CRABPI
+and II in rhombomere 4 and as a repressor to restrict expression of Lhx5 and
+Lhx9. Thus the Hoxb1 patterning activity includes the regulation of the cellular 
+response to retinoic acid and the delay of the expression of genes that commit
+cells to neural differentiation. The results of this study show that ES neural
+differentiation and inducible Hox gene expression can be used as a sensitive
+model system to systematically identify Hox novel target genes, delineate their
+interactions with signaling pathways in dictating cell fate and define the extent
+of functional overlap among different Hox genes.
+
+PMCID: PMC3102681
+PMID: 21637844  [PubMed - indexed for MEDLINE]
+
+
+32. Development. 2011 Jun;138(12):2467-76. doi: 10.1242/dev.054106.
+
+Restoring eye size in Astyanax mexicanus blind cavefish embryos through
+modulation of the Shh and Fgf8 forebrain organising centres.
+
+Pottin K(1), Hinaux H, Rétaux S.
+
+Author information: 
+(1)Equipe Développement Evolution du Cerveau Antérieur, UPR3294 NeD, CNRS,
+Institut Alfred Fessard, 91198 Gif-sur-Yvette, France.
+
+The cavefish morph of the Mexican tetra (Astyanax mexicanus) is blind at adult
+stage, although an eye that includes a retina and a lens develops during
+embryogenesis. There are, however, two major defects in cavefish eye development.
+One is lens apoptosis, a phenomenon that is indirectly linked to the expansion of
+ventral midline sonic hedgehog (Shh) expression during gastrulation and that
+induces eye degeneration. The other is the lack of the ventral quadrant of the
+retina. Here, we show that such ventralisation is not extended to the entire
+forebrain because fibroblast growth factor 8 (Fgf8), which is expressed in the
+forebrain rostral signalling centre, is activated 2 hours earlier in cavefish
+embryos than in their surface fish counterparts, in response to stronger Shh
+signalling in cavefish. We also show that neural plate patterning and
+morphogenesis are modified in cavefish, as assessed by Lhx2 and Lhx9 expression. 
+Inhibition of Fgf receptor signalling in cavefish with SU5402 during
+gastrulation/early neurulation mimics the typical surface fish phenotype for both
+Shh and Lhx2/9 gene expression. Fate-mapping experiments show that posterior
+medial cells of the anterior neural plate, which lack Lhx2 expression in
+cavefish, contribute to the ventral quadrant of the retina in surface fish,
+whereas they contribute to the hypothalamus in cavefish. Furthermore, when Lhx2
+expression is rescued in cavefish after SU5402 treatment, the ventral quadrant of
+the retina is also rescued. We propose that increased Shh signalling in cavefish 
+causes earlier Fgf8 expression, a crucial heterochrony that is responsible for
+Lhx2 expression and retina morphogenesis defect.
+
+PMID: 21610028  [PubMed - indexed for MEDLINE]
+
+
+33. J Comp Neurol. 2011 Jun 1;519(8):1505-25. doi: 10.1002/cne.22581.
+
+Multiple telencephalic and extratelencephalic embryonic domains contribute
+neurons to the medial extended amygdala.
+
+Bupesh M(1), Legaz I, Abellán A, Medina L.
+
+Author information: 
+(1)Department of Experimental Medicine, Faculty of Medicine, University of
+Lleida, Institut of Biomedical Research of Lleida (IRBLLEIDA), Lleida, Spain.
+
+Dysfunctions in emotional control and social behavior are behind human
+neuropsychiatric disorders, some of which are associated with an alteration of
+amygdalar development. The medial extended amygdala is a key telencephalic center
+for control of social behavior, but very little is known about its development.
+We used in vitro migration assays for analyzing the origin of the neurons of the 
+medial extended amygdala in mouse embryos (E13.5-E16.5). We compared the
+migration assays with immunofluorescence/immunohistochemistry for calbindin and
+radial glial fibers and with mRNA expression of several genetic markers of
+distinct forebrain subdivisions. We provide experimental evidence for multiple
+embryonic origins of the principal neurons of the medial extended amygdala. In
+particular, we provide novel evidence indicating that a major part of the neurons
+derives from a caudoventral pallidal subdivision (previously called or included
+as part of the anterior peduncular area), forming a cell corridor with similar
+molecular features (expression of Lhx6 and calbindin), connectivity, and
+function, which relates to reproductive behavior. We also provide novel
+experimental evidence indicating that the ventral pallium produces some neurons
+for the medial amygdala, which correlates with data from Lhx9 expression. Our
+results also confirm that some neurons of the medial extended amygdala originate 
+in the preoptic area (our results indicate that these cells specifically
+originate in its commissural subdivision) and the supraoptoparaventricular domain
+of the hypothalamus. Our study helps to set up the foundations for a better
+understanding of medial amygdalar control of behavior in normal and abnormal
+conditions.
+
+Copyright © 2010 Wiley-Liss, Inc.
+
+PMID: 21452208  [PubMed - indexed for MEDLINE]
+
+
+34. Best Pract Res Clin Endocrinol Metab. 2010 Apr;24(2):163-86. doi:
+10.1016/j.beem.2009.12.002.
+
+Control of sex development.
+
+Biason-Lauber A(1).
+
+Author information: 
+(1)Division of Endocrinology/Diabetology, University Children's Hospital,
+Steinwiesstrasse 75, CH-8032 Zurich, Switzerland. Anna.Lauber@kispi.uzh.ch
+
+The process of sexual differentiation is central for reproduction of almost all
+metazoan, and therefore, for maintenance of practically all multicellular
+organisms. In sex development, we can distinguish two different processes, sex
+determination, that is the developmental decision that directs the
+undifferentiated embryo into a sexually dimorphic individual. In mammals, sex
+determination equals gonadal development. The second process known as sex
+differentiation takes place once the sex determination decision has been made
+through factors produced by the gonads that determine the development of the
+phenotypic sex. Most of the knowledge on the factors involved in sexual
+development came from animal models and from studies of cases in whom the genetic
+or the gonadal sex does not match the phenotypical sex, that is, patients
+affected by disorders of sex development (DSDs). Generally speaking, factors
+influencing sex determination are transcriptional regulators, whereas factors
+important for sex differentiation are secreted hormones and their receptors. This
+review focuses on these factors and whenever possible, references regarding the
+'prismatic' clinical cases are given.
+
+Copyright (c) 2009 Elsevier Ltd. All rights reserved.
+
+PMID: 20541146  [PubMed - indexed for MEDLINE]
+
+
+35. Brain Res Bull. 2010 Apr 29;82(1-2):74-82. doi:
+10.1016/j.brainresbull.2010.02.010. Epub 2010 Mar 3.
+
+A refined map of early gene expression in the dorsal rhombomere 1 of mouse
+embryos.
+
+Liu ZR(1), Shi M, Hu ZL, Zheng MH, Du F, Zhao G, Ding YQ.
+
+Author information: 
+(1)Department of Neurology, Xijng Hospital, Fourth Military Medical University,
+15 Changle-xi Road, Xi'an, Shaanxi 710032, China.
+
+Rhombomere 1 (r1), a temporary structure in the early developing brain, is
+bounded rostrally by the isthmus organizer and caudally by the r2 domain. Many
+genes involved in r1 induction and patterning have been identified. However, our 
+knowledge of a comprehensive map of r1 regionalization defined by these genes at 
+early embryonic stages remains fragmentary. In the present study, we examined the
+expression of a variety of genes in the dorsal r1 of E9.0-E10.5 mouse embryos.
+The expression domains within ventricular zone of these genes examined allowed us
+to define four distinct regions along the anterior-posterior (A-P) axis of the
+dorsal r1: the Wnt1/Lmx1a/Gdf7/Msx1/Msx2-positive roof plate,
+Math1/Olig3/Msx1/Msx2-positive, upper rhombic lip, Mash1/Ngn1/Ngn2-positive
+intermediate domain, and Mash1/Ngn1/Ngn2-positive rostral domain. Moreover, we
+defined the distribution of several genes expressed in the mantle zone of the
+dorsal r1, including Lmx1b, Lhx2, Lhx9, Phox2a and Phox2b. Taken together, our
+gene expression data identify a refined subdivision of the dorsal r1 with four
+distinct domains along the A-P axis and a mantle zone at early embryonic stages.
+
+Copyright 2010 Elsevier Inc. All rights reserved.
+
+PMID: 20206242  [PubMed - indexed for MEDLINE]
+
+
+36. Dev Biol. 2010 May 1;341(1):305-14. doi: 10.1016/j.ydbio.2010.02.010. Epub 2010
+Feb 12.
+
+Estrogen represses SOX9 during sex determination in the red-eared slider turtle
+Trachemys scripta.
+
+Barske LA(1), Capel B.
+
+Author information: 
+(1)Department of Cell Biology, Duke University Medical Center, Durham, NC, USA.
+
+Production of male offspring in viviparous eutherian mammals requires a
+sex-determining mechanism resistant to maternal hormones. This constraint is
+relaxed in egg-laying species, which are sensitive to hormones during sex
+determination and often use an increase in aromatase, the estrogen-synthesizing
+enzyme, as a key feminizing signal. In the turtle Trachemys scripta, sex is
+normally determined by temperature, but estrogen treatment overrides this cue and
+leads exclusively to female development. We assessed whether the expression of
+SOX9, a central male sex-determining gene in mammals, or three other conserved
+transcription factors (WT1, GATA4, and LHX9) was regulated by estrogen signaling 
+in the turtle. As in mice, all somatic cell types in the immature turtle gonad
+initially expressed WT1 and GATA4, whereas SOX9 was restricted to the Sertoli
+precursors and LHX9 to the coelomic epithelium and interstitium. After the
+bipotential period, SOX9 was abruptly down-regulated at the female temperature.
+Strikingly, embryos treated with beta-estradiol at the male temperature lost SOX9
+expression more than two stages earlier than controls, though WT1, GATA4, and
+LHX9 were unaffected. Conversely, inhibition of estrogen synthesis and signaling 
+prevented or delayed SOX9 down-regulation at the female temperature. These
+results suggest that endogenous estrogen feminizes the medulla of the bipotential
+turtle gonad by inhibiting SOX9 expression. This mechanism may be involved in the
+male-to-female sex reversal in wild populations exposed to environmental
+estrogens, and is consistent with results showing that the estrogen receptor
+represses Sox9 to block transdifferentiation of granulosa cells into Sertoli-like
+cells in the adult mouse ovary.
+
+Copyright 2010 Elsevier Inc. All rights reserved.
+
+PMID: 20153744  [PubMed - indexed for MEDLINE]
+
+
+37. Cereb Cortex. 2010 Aug;20(8):1788-98. doi: 10.1093/cercor/bhp242. Epub 2009 Nov
+18.
+
+Differential expression of LIM-homeodomain factors in Cajal-Retzius cells of
+primates, rodents, and birds.
+
+Abellan A(1), Menuet A, Dehay C, Medina L, Rétaux S.
+
+Author information: 
+(1)Laboratory of Brain Development and Evolution, Department of Experimental
+Medicine, Faculty of Medicine, University of Lleida, Institute of Biomedical
+Research of Lleida, 25008 Lleida, Spain.
+
+Reelin-expressing Cajal-Retzius (CR) cells are among the earliest generated cells
+in the mammalian cerebral cortex and are believed to be crucial for both the
+development and the evolution of a laminated pattern in the pallial wall of the
+telencephalon. LIM-homeodomain (LIM-hd) transcription factors are expressed
+during brain development in a highly restricted and combinatorial manner, and
+they specify regional and cellular identity. We have investigated the expression 
+of the LIM-hd members Lhx1/Lhx2/Lhx5/Lhx6/Lhx9 in the reelin-expressing cells,
+the pallium, and the regions of origin of CR cells including the cortical hem of 
+3 amniote species: the mouse, the chick, and the macaque monkey. We found major
+differences in the combinatorial LIM-hd expression in the marginal zone as well
+as in the hem. 1) Lhx5 is a "preferential LIM-hd" for CR cells in mammals but not
+expressed by these cells in chicks. 2) Lhx2 is expressed in the hem of the chick,
+whereas it is excluded from this region in mouse. 3) Whereas mouse CR cells
+express Lhx5/Lhx1, their monkey counterparts express 4 of these factors:
+Lhx1/Lhx2/Lhx5/Lhx9. We discuss our findings in evolutionary terms for the
+specification of the midline hem and CR cell type and the emergence of the
+cortical lamination pattern.
+
+PMID: 19923199  [PubMed - indexed for MEDLINE]
+
+
+38. J Comp Neurol. 2009 Sep 20;516(3):166-86. doi: 10.1002/cne.22102.
+
+Olfactory and amygdalar structures of the chicken ventral pallium based on the
+combinatorial expression patterns of LIM and other developmental regulatory
+genes.
+
+Abellán A(1), Legaz I, Vernier B, Rétaux S, Medina L.
+
+Author information: 
+(1)Laboratory of Brain Development and Evolution, Department of Experimental
+Medicine, Faculty of Medicine, University of Lleida, Institut of Biomedical
+Research of Lleida (IRBLLEIDA), 25008 Lleida, Spain.
+
+We compared the combinatorial expression patterns of several LIM
+domain-containing regulatory genes in the ventrolateral pallium of mouse and
+chicken, in order to identify the homologues of the ventral pallial amygdala and 
+other olfactory structures in birds. Lmo3, Lmo4, Lhx2, and Lhx9 showed comparable
+expression patterns in the telencephalon of mouse and chicken, which allowed
+distinction of the ventrolateral pallium and, particularly, the ventral pallial
+amygdala and entorhinal cortex. Lmo3 was expressed in most of the ventrolateral
+pallium in both species, including, in chicken, the piriform cortex and dorsal
+ventricular ridge (mesopallium, nidopallium, and arcopallium) and, in mouse, the 
+piriform cortex, most of the claustral complex, and the pallial amygdala. Lhx9
+was differentially expressed in the ventral pallium, where it was restricted to
+its rostral (olfactory bulb) and caudal (amygdalar and entorhinal) poles. In the 
+caudal pole, expression of Lhx9 overlapped that of its paralog Lhx2. According to
+these expression patterns, the chicken ventral pallial amygdala appears to
+include the caudal dorsolateral pallium, the caudal nidopallium, and the whole
+arcopallium, and each one relates to a distinct ventricular sector. Finally, the 
+combinatorial expression patterns of Lmo3, Lhx9, and Lmo4 distinguished four
+distinct subdivisions in the superficial, olfactorecipient area of the chicken
+ventral pallium, which appear comparable to the piriform, entorhinal,
+amygdalopiriform, and amygdalar cortices of mammals. The results are discussed in
+the context of the two existing, opposite views on the homology of the dorsal
+ventricular ridge of sauropsids and in terms of the evolution of pallial
+derivatives.
+
+PMID: 19598282  [PubMed - indexed for MEDLINE]
+
+
+39. Neoplasia. 2009 Jul;11(7):700-11.
+
+Aberrant methylation and reduced expression of LHX9 in malignant gliomas of
+childhood.
+
+Vladimirova V(1), Mikeska T, Waha A, Soerensen N, Xu J, Reynolds PC, Pietsch T.
+
+Author information: 
+(1)Department of Neuropathology, University of Bonn Medical Center, Bonn,
+Germany. valentina.vladimirova@ukb.uni-bonn.de
+
+High-grade gliomas (HGGs) of childhood represent approximately 7% of pediatric
+brain tumors. They are highly invasive tumors and respond poorly to conventional 
+treatments in contrast to pilocytic astrocytomas, which usually are well
+demarcated and frequently can be cured by surgery. The molecular events for this 
+clinical relevant finding are only partially understood. In the current study, to
+identify aberrantly methylated genes that may be involved in the tumorigenesis of
+pediatric HGGs, we performed a microarray-based differential methylation
+hybridization approach and found frequent hypermethylation of the LHX9 (human
+Lim-homebox 9) gene encoding a transcription factor involved in brain
+development. Bisulfite genomic sequencing and combined bisulfite restriction
+analysis showed that HGGs were frequently methylated at two CpG-rich LHX9 regions
+in comparison to benign, nondiffuse pilocytic astrocytomas and normal brain
+tissues. The LHX9 hypermethylation was associated with reduced messenger RNA
+expression in pediatric HGG samples and corresponding cell lines. This epigenetic
+modification was reversible by pharmacological inhibition
+(5-aza-2'-deoxycytidine), and reexpression of LHX9 transcript was induced in
+pediatric glioma cell lines. Exogenous expression of LHX9 in glioma cell lines
+did not directly affect cell proliferation and apoptosis but specifically
+inhibited glioma cell migration and invasion in vitro, suggesting a possible
+implication of LHX9 in the migratory phenotype of HGGs. Our results demonstrate
+that the LHX9 gene is frequently silenced in pediatric malignant astrocytomas by 
+hypermethylation and that this epigenetic alteration is involved in glioma cell
+migration and invasiveness.
+
+PMCID: PMC2697356
+PMID: 19568415  [PubMed - indexed for MEDLINE]
+
+
+40. Neural Dev. 2009 Jun 19;4:21. doi: 10.1186/1749-8104-4-21.
+
+Transcriptional control of axonal guidance and sorting in dorsal interneurons by 
+the Lim-HD proteins Lhx9 and Lhx1.
+
+Avraham O(1), Hadas Y, Vald L, Zisman S, Schejter A, Visel A, Klar A.
+
+Author information: 
+(1)Department of Medical Neurobiology, IMRIC, Hebrew University, Hadassah Medical
+School, Jerusalem, Israel. oshria@ekmd.huji.ac.il
+
+BACKGROUND: Lim-HD proteins control crucial aspects of neuronal differentiation, 
+including subtype identity and axonal guidance. The Lim-HD proteins Lhx2/9 and
+Lhx1/5 are expressed in the dorsal spinal interneuron populations dI1 and dI2,
+respectively. While they are not required for cell fate acquisition, their role
+in patterning the axonal trajectory of dI1 and dI2 neurons remains incompletely
+understood.
+RESULTS: Using newly identified dI1- and dI2-specific enhancers to trace axonal
+trajectories originating from these interneurons, we found that each population
+is subdivided into several distinct groups according to their axonal pathways.
+dI1 neurons project axons rostrally, either ipsi- or contra-laterally, while dI2 
+are mostly commissural neurons that project their axons rostrally and caudally.
+The longitudinal axonal tracks of each neuronal population self-fasciculate to
+form dI1- and dI2-specific bundles. The dI1 bundles are spatially located ventral
+relative to dI2 bundles. To examine the functional contribution of Lim-HD
+proteins to establishment of dI axonal projections, the Lim-HD code of dI neurons
+was altered by cell-specific ectopic expression. Expression of Lhx1 in dI1
+neurons caused a repression of Lhx2/9 and imposed caudal projection to the caudal
+commissural dI1 neurons. Complementarily, when expressed in dI2 neurons, Lhx9
+repressed Lhx1/5 and triggered a bias toward rostral projection in otherwise
+caudally projecting dI2 neurons, and ventral shift of the longitudinal axonal
+fascicule.
+CONCLUSION: The Lim-HD proteins Lhx9 and Lhx1 serve as a binary switch in
+controlling the rostral versus caudal longitudinal turning of the caudal
+commissural axons. Lhx1 determines caudal turning and Lhx9 triggers rostral
+turning.
+
+PMCID: PMC2704203
+PMID: 19545367  [PubMed - indexed for MEDLINE]
+
+
+41. Genes Chromosomes Cancer. 2009 Sep;48(9):828-41. doi: 10.1002/gcc.20687.
+
+DNA hypermethylation accompanied by transcriptional repression in follicular
+lymphoma.
+
+Bennett LB(1), Schnabel JL, Kelchen JM, Taylor KH, Guo J, Arthur GL, Papageorgio 
+CN, Shi H, Caldwell CW.
+
+Author information: 
+(1)Department of Pathology and Anatomical Sciences, University of
+Missouri-Columbia School of Medicine, Columbia, MO 65212, USA.
+bennettlb@health.missouri.edu
+
+High-throughput microarray technologies were used to study DNA methylation
+accompanied by transcriptional changes in follicular lymphoma (FL). Using
+Methylated CpG Island Amplification with Microarrays to study CpG Island DNA
+methylation in FL, we discovered widespread hypermethylation of homeobox genes
+and previously identified targets of polycomb repressive complex 2 (PRC2) in cell
+lines and primary tumors, but not in benign follicular hyperplasia (BFH). DNA
+methylation for HOXA11, HOXD10, HOXB7, HOXC12, PAX6, LHX9, SFMBT2, EN2, and PAX7 
+was independently validated in the RL cell line and HOXA11, HOXD10, PAX6, and EN2
+in primary tumors. Combined Bisulfite Restriction Analysis (COBRA) also
+established DNA methylation for the previously identified PRC2 targets DCC, DES, 
+GAD2, AQP5, GPR61, GRIA4, GJD2, and AMPH in FL but not in BFH. Gene expression
+analyses revealed 411 genes that were hypermethylated and transcriptionally
+repressed in RL, 74% of which were reactivated by the demethylating agent
+5-aza-2'-deoxycytidine (5-azaD) plus or minus the histone deacetylase inhibitor
+trichostatin A (TSA). Forty genes were also downregulated in primary FL. Our
+results suggest that extensive hypermethylation in promoters of polycomb target
+genes is a characteristic of FL and that loss of expression of certain SUZ12
+target genes could be functionally relevant for lymphomagenesis.
+
+PMCID: PMC2738630
+PMID: 19530241  [PubMed - indexed for MEDLINE]
+
+
+42. Neuroscience. 2009 Apr 10;159(4):1326-37. doi:
+10.1016/j.neuroscience.2009.02.010. Epub 2009 Feb 13.
+
+Molecular development of the lateral geniculate nucleus in the absence of retinal
+waves during the time of retinal axon eye-specific segregation.
+
+Iwai L(1), Kawasaki H.
+
+Author information: 
+(1)Department of Molecular and Systems Neurobiology, Graduate School of Medicine,
+The University of Tokyo, Tokyo, Japan.
+
+When retinal waves are inhibited binocularly, eye-specific segregation of retinal
+axons is disrupted, and retinal axons from the two eyes remain intermingled in
+the lateral geniculate nucleus (LGN). This effect of binocular retinal wave
+inhibition is mediated by the lack of activity-dependent competition between
+retinal axons from the two eyes, but it is unknown whether this effect is also
+mediated by the developmental arrest of the LGN in an immature state. Here we
+find developmental markers of the LGN during eye-specific segregation. The
+expression levels of Purkinje cell protein 4 (PCP4/PEP19), transcription factor
+7-like 2 (TCF7L2/TCF4) and LIM homeobox protein 9 (Lhx9) in the LGN change
+significantly during eye-specific segregation. Using PCP4, TCF7L2 and Lhx9 as
+developmental markers of the LGN, we examine whether LGN development is affected 
+by binocular disruption of retinal waves during eye-specific segregation.
+Binocular injection of epibatidine strongly inhibits eye-specific segregation,
+whereas it does not affect the expression of PCP4, TCF7L2 and Lhx9. Furthermore, 
+the expression of PCP4, TCF7L2 and Lhx9 is normal in binocularly enucleated
+animals and in mice treated with the monoamine oxidase A (MAOA) inhibitor,
+clorgyline. In addition, our experiments using LGN slice cultures show that the
+expression of PCP4 and TCF7L2 in LGN slices changes as in vivo. Our results
+suggest that LGN development proceeds, at least in part, even in the absence of
+retinal inputs. PCP4, TCF7L2 and Lhx9 should be useful to examine LGN development
+during eye-specific segregation in mice and in ferrets.
+
+PMID: 19409202  [PubMed - indexed for MEDLINE]
+
+
+43. Development. 2009 Apr;136(8):1375-85. doi: 10.1242/dev.026476.
+
+LIM homeobox transcription factors integrate signaling events that control
+three-dimensional limb patterning and growth.
+
+Tzchori I(1), Day TF, Carolan PJ, Zhao Y, Wassif CA, Li L, Lewandoski M,
+Gorivodsky M, Love PE, Porter FD, Westphal H, Yang Y.
+
+Author information: 
+(1)Section on Mammalian Molecular Genetics, Laboratory of Mammalian Genes and
+Development, Eunice Kennedy Shriver National Institute of Child Health and Human 
+Development, Bethesda, MD 20892, USA.
+
+Vertebrate limb development is controlled by three signaling centers that
+regulate limb patterning and growth along the proximodistal (PD), anteroposterior
+(AP) and dorsoventral (DV) limb axes. Coordination of limb development along
+these three axes is achieved by interactions and feedback loops involving the
+secreted signaling molecules that mediate the activities of these signaling
+centers. However, it is unknown how these signaling interactions are processed in
+the responding cells. We have found that distinct LIM homeodomain transcription
+factors, encoded by the LIM homeobox (LIM-HD) genes Lhx2, Lhx9 and Lmx1b
+integrate the signaling events that link limb patterning and outgrowth along all 
+three axes. Simultaneous loss of Lhx2 and Lhx9 function resulted in patterning
+and growth defects along the AP and the PD limb axes. Similar, but more severe,
+phenotypes were observed when the activities of all three factors, Lmx1b, Lhx2
+and Lhx9, were significantly reduced by removing their obligatory co-factor Ldb1.
+This reveals that the dorsal limb-specific factor Lmx1b can partially compensate 
+for the function of Lhx2 and Lhx9 in regulating AP and PD limb patterning and
+outgrowth. We further showed that Lhx2 and Lhx9 can fully substitute for each
+other, and that Lmx1b is partially redundant, in controlling the production of
+output signals in mesenchymal cells in response to Fgf8 and Shh signaling. Our
+results indicate that several distinct LIM-HD transcription factors in
+conjunction with their Ldb1 co-factor serve as common central integrators of
+distinct signaling interactions and feedback loops to coordinate limb patterning 
+and outgrowth along the PD, AP and DV axes after limb bud formation.
+
+PMCID: PMC2687467
+PMID: 19304889  [PubMed - indexed for MEDLINE]
+
+
+44. Dev Dyn. 2009 Feb;238(2):367-75. doi: 10.1002/dvdy.21850.
+
+FGF receptor dependent regulation of Lhx9 expression in the developing nervous
+system.
+
+Atkinson-Leadbeater K(1), Bertolesi GE, Johnston JA, Hehr CL, McFarlane S.
+
+Author information: 
+(1)Hotchkiss Brain Institute, University of Calgary, Calgary, Canada.
+atkinsok@ucalgary.ca
+
+LIM-homeodomain (LIM-hd) proteins form a multifunctional family of transcription 
+factors that plays critical roles in the development of progenitor and
+post-mitotic cells. Considerable work has focused on what regulates their
+expression post-mitotically in the spinal cord. However, little is known about
+what regulates LIM-hd genes at earlier developmental stages. To address this
+question, we explored the role of fibroblast growth factor (FGF) signalling in
+regulating the expression of a Xenopus laevis Lhx9 orthologue (XLhx9). XLhx9 is
+first expressed in the eye field and hindbrain, and when FGF receptor (FGFR)
+activation was inhibited prior to its onset, both brain and eye field expression 
+was diminished. However, when FGFRs were inhibited after XLhx9 onset, retinal
+expression remained strong and brain expression was again diminished. These data 
+suggest that while FGF signalling initiates and maintains brain XLhx9 expression,
+in the eye primordium the requirement of FGFs for expression is rapidly lost.
+
+PMID: 19161224  [PubMed - indexed for MEDLINE]
+
+
+45. Neuron. 2008 Aug 14;59(3):413-24. doi: 10.1016/j.neuron.2008.07.020.
+
+A molecular program for contralateral trajectory: Rig-1 control by LIM
+homeodomain transcription factors.
+
+Wilson SI(1), Shafer B, Lee KJ, Dodd J.
+
+Author information: 
+(1)Department of Physiology and Cellular Biophysics, Columbia University, New
+York, NY 10032, USA.
+
+Despite increasing evidence for transcriptional control of neural connectivity,
+how transcription factors regulate discrete steps in axon guidance remains
+obscure. Projection neurons in the dorsal spinal cord relay sensory signals to
+higher brain centers. Some projection neurons send their axons ipsilaterally,
+whereas others, commissural neurons, send axons contralaterally. We show that two
+closely related LIM homeodomain proteins, Lhx2 and Lhx9, are expressed by a set
+of commissural relay neurons (dI1c neurons) and are required for the dI1c axon
+projection. Midline crossing by dI1c axons is lost in Lhx2/9 double mutants, a
+defect that results from loss of expression of Rig-1 from dI1c axons. Lhx2 binds 
+to a conserved motif in the Rig-1 gene, suggesting that Lhx2/9 regulate directly 
+the expression of Rig-1. Our findings reveal a link between the transcriptional
+programs that define neuronal subtype identity and the expression of receptors
+that guide distinctive aspects of their trajectory.
+
+PMID: 18701067  [PubMed - indexed for MEDLINE]
+
+
+46. BMC Dev Biol. 2008 Jun 24;8:67. doi: 10.1186/1471-213X-8-67.
+
+GATA4/FOG2 transcriptional complex regulates Lhx9 gene expression in murine heart
+development.
+
+Smagulova FO(1), Manuylov NL, Leach LL, Tevosian SG.
+
+Author information: 
+(1)Department of Genetics, Dartmouth Medical School, Hanover, NH 03755, USA.
+fatimas_369@hotmail.com
+
+BACKGROUND: GATA4 and FOG2 proteins are required for normal cardiac development
+in mice. It has been proposed that GATA4/FOG2 transcription complex exercises its
+function through gene activation as well as repression; however, targets of
+GATA4/FOG2 action in the heart remain elusive.
+RESULTS: Here we report identification of the Lhx9 gene as a direct target of the
+GATA4/FOG2 complex. We demonstrate that the developing mouse heart normally
+expresses truncated isoforms of Lhx9 - Lhx9alpha and Lhx9beta, and not the
+Lhx9-HD isoform that encodes a protein with an intact homeodomain. At E9.5
+Lhx9alpha/beta expression is prominent in the epicardial primordium, septum
+transversum while Lhx9-HD is absent from this tissue; in the E11.5 heart
+LHX9alpha/beta-positive cells are restricted to the epicardial mesothelium.
+Thereafter in the control hearts Lhx9alpha/beta epicardial expression is promptly
+down-regulated; in contrast, mouse mutants with Fog2 gene loss fail to repress
+Lhx9alpha/beta expression. Chromatin immunoprecipitation from the E11.5 hearts
+demonstrated that Lhx9 is a direct target for GATA4 and FOG2. In transient
+transfection studies the expression driven by the cis-regulatory regions of Lhx9 
+was repressed by FOG2 in the presence of intact GATA4, but not the GATA4ki mutant
+that is impaired in its ability to bind FOG2.
+CONCLUSION: In summary, the Lhx9 gene represents the first direct target of the
+GATA4/FOG2 repressor complex in cardiac development.
+
+PMCID: PMC2447832
+PMID: 18577233  [PubMed - indexed for MEDLINE]
+
+
+47. Zoolog Sci. 2007 Aug;24(8):798-802.
+
+Expression of Lhx9 isoforms in the developing gonads of Rana rugosa.
+
+Oshima Y(1), Noguchi K, Nakamura M.
+
+Author information: 
+(1)Department of Biology, Faculty of Education and Integrated Arts and Sciences, 
+Waseda University, Shinjuku-ku, Tokyo 169-8050, Japan.
+
+Lhx9 is a LIM-homeodomain (HD) transcription factor. Transcripts of the Lhx9 gene
+are present in the urogenital ridges of mouse embryos. In Lhx9-deficient mice, a 
+discrete gonad is not formed (Birk et al., 2000). To date, however, the role of
+Lhx9 in gonad formation has not been studied in animals other than chicks and
+mice. Thus, this study was aimed at determining whether or not Lhx9 is expressed 
+in the developing gonads of amphibians. We first isolated cDNAs of Lhx9 and four 
+isoforms, named Lhx9alpha, beta, gamma and delta, from the frog Rana rugosa. All 
+the isoforms lacked the last 14 amino acids of the HD (the DNA-binding motif).
+RT-PCR analysis revealed that Lhx9 and Lhx9alpha were highly expressed in the
+ovary, testis, brain and heart of adult frogs. However, neither Lhx9 nor any of
+the four isoforms was expressed in the pancreas and kidney. When their expression
+in the developing gonads of R. rugosa was examined by RT-PCR, transcripts of Lhx9
+and Lhx9alpha were detected with no sexual dimorphism during sex determination.
+Lhx9gamma and Lhx9delta were also expressed, but at a low level. In contrast, the
+Lhx9beta transcript was hardly detected. In addition, in situ hybridization
+analysis showed that R. rugosa Lhx9 was expressed in somatic cells in the
+developing gonad and mesonephros far before sex determination. Taken together,
+Lhx9 and its four isoforms are probably involved in organogenesis in R. rugosa.
+All the isoforms may function as an endogenous dominant-negative form of Lhx9 in 
+this species.
+
+PMID: 18217486  [PubMed - indexed for MEDLINE]
+
+
+48. Dev Neurobiol. 2008 Mar;68(4):504-20. doi: 10.1002/dneu.20603.
+
+Evidences for tangential migrations in Xenopus telencephalon: developmental
+patterns and cell tracking experiments.
+
+Moreno N(1), González A, Rétaux S.
+
+Author information: 
+(1)Department of Cell Biology, Faculty of Biology, University Complutense of
+Madrid, Spain. nerea@bio.ucm.es
+
+Extensive tangential cell migrations have been described in the developing
+mammalian, avian, and reptilian forebrain, and they are viewed as a powerful
+developmental mechanism to increase neuronal complexity in a given brain
+structure. Here, we report for the first time anatomical and cell tracking
+evidence for the presence of important migratory processes in the developing
+forebrain of the anamniote Xenopus laevis. Combining developmental gene
+expression patterns (Pax6, Nkx2.1, Isl1, Lhx5, Lhx9, and Dll3), neurotransmitter 
+identity (GABA, NOS, ChAT), and connectivity information, several types of
+putative migratory cell populations and migration routes originating in the
+ventral pallium and the subpallium are proposed. By means of in vivo cell
+tracking experiments, pallio-subpallial and subpallio-pallial migrating neurons
+are visualized. Among them, populations of Nkx2.1(+) striatal interneurons and
+pallial GABAergic interneurons, which also express the migratory marker
+doublecortin, are identified. Finally, we find that these tangentially migrating 
+pallial interneurons travel through an "isl1-free channel" that may guide their
+course through the subpallium. Our findings strongly suggest that the developing 
+Xenopus telencephalon shares many similarities with amniotes in terms of neuronal
+specification and migrations. However, some differences are discussed,
+particularly with regard to the evolution of the pallium.
+
+PMID: 18214835  [PubMed - indexed for MEDLINE]
+
+
+49. Mol Reprod Dev. 2008 Jun;75(6):1002-10.
+
+Five azacytidine, a DNA methyltransferase inhibitor, specifically inhibits
+testicular cord formation and Sertoli cell differentiation in vitro.
+
+Mizukami T(1), Kanai Y, Fujisawa M, Kanai-Azuma M, Kurohmaru M, Hayashi Y.
+
+Author information: 
+(1)Department of Veterinary Anatomy, Graduate School of Agricultural and Life
+Sciences, The University of Tokyo, Bunkyo-ku, Tokyo, Japan. tmiz@nih.go.jp
+
+In mammals, Sry, Sox9, and M33 act as regulators at a chromatin level and promote
+the maturation of embryonic gonads into testes. Recently, it was shown that
+transcriptional regulation by DNA methylation plays crucial roles in gene
+expression during the differentiation and development of various cell types. To
+determine the involvement of DNA methylation in sex determination of the gonad,
+we developed and performed organ culture of gonad with the DNA methyltransferase 
+inhibitor 5-azacytidine to induce global DNA methylation status changes. In vitro
+treatment with 5-azacytidine specifically inhibited testicular cord formation in 
+a dose-dependent manner; however, no appreciable defect was observed in ovarian
+explants. Inhibition of testicular cord was observed only in gonads from 11.5
+days post-coitus embryos. These effects were not observed in
+5-azacytidine-treated gonads from 12.0 days post-coitus embryos. To determine the
+effect of 5-azacytidine on Sertoli and Leydig cell differentiation in the testis,
+we performed whole mount in situ hybridization analysis. The Leydig and stromal
+cell marker genes Lhx9, Mfge8, and 3beta-Hsd were normally induced in
+5-azaytidine-treated testicular explants. Sertoli cell marker genes, Sox9 and MIS
+were normally induced, but Col9a3, encoding an extracellular matrix component,
+was inhibited in 5-azacytidine-treated testicular explants. Thus, our data show
+that DNA methylation is involved in testicular cord formation and Sertoli cell
+differentiation, acting directly on the gonad at 11.5 days post-coitus.
+
+PMID: 18033690  [PubMed - indexed for MEDLINE]
+
+
+50. Int J Dev Biol. 2008;52(1):33-41.
+
+Expression dynamics of the LIM-homeobox genes, Lhx1 and Lhx9, in the diencephalon
+during chick development.
+
+Sun X(1), Saitsu H, Shiota K, Ishibashi M.
+
+Author information: 
+(1)Department of Anatomy and Developmental Biology, Graduate School of Medicine, 
+Kyoto University, Yoshida, Sakyo-ku, Kyoto, Japan.
+
+The diencephalon is the caudal part of the developing forebrain, which
+corresponds to prosomeres 1 to 3. The mature diencephalon is functionally and
+anatomically divided into well-defined nuclei. Previous researches have shown
+that LIM-homeobox genes are important transcription factors during diencephalon
+regionalization in mice. Here we examined expression patterns of several chick
+orthologs of LIM-homeobox genes. Lhx1 and Lhx9 were expressed in the diencephalon
+from early stages and their expression in the diencephalon became restricted to
+prosomeres 1 and 2 in distinct fashions. Then we also studied the regulatory
+effects of possible upstream signals by in ovo electroporation. Lhx1 was found to
+be up-regulated by Shh signaling. Whereas Lhx9 was up-regulated by Wnt3a and
+Fgf15, it was down-regulated by Shh. Our data suggest that the LIM-homeobox
+genes, Lhx1 and Lhx9, regulated by ventral and/or dorsal signals, may play
+important roles in controlling regionalization of the diencephalon during chick
+development.
+
+PMID: 18033670  [PubMed - indexed for MEDLINE]
+
+
+51. J Comp Neurol. 2008 Jan 1;506(1):46-74.
+
+Histogenetic compartments of the mouse centromedial and extended amygdala based
+on gene expression patterns during development.
+
+García-López M(1), Abellán A, Legaz I, Rubenstein JL, Puelles L, Medina L.
+
+Author information: 
+(1)Department of Human Anatomy, Faculty of Medicine, University of Murcia, 30100 
+Murcia, Spain.
+
+The amygdala controls emotional and social behavior and regulates instinctive
+reflexes such as defense and reproduction by way of descending projections to the
+hypothalamus and brainstem. The descending amygdalar projections are suggested to
+show a cortico-striato-pallidal organization similar to that of the basal ganglia
+(Swanson [2000] Brain Res 886:113-164). To test this model we investigated the
+embryological origin and molecular properties of the mouse centromedial and
+extended amygdalar subdivisions, which constitute major sources of descending
+projections. We analyzed the distribution of key regulatory genes that show
+restricted expression patterns within the subpallium (Dlx5, Nkx2.1, Lhx6, Lhx7/8,
+Lhx9, Shh, and Gbx1), as well as genes considered markers for specific subpallial
+neuronal subpopulations. Our results indicate that most of the centromedial and
+extended amygdala is formed by cells derived from multiple subpallial
+subdivisions. Contrary to a previous suggestion, only the central--but not the
+medial--amygdala derives from the lateral ganglionic eminence and has
+striatal-like features. The medial amygdala and a large part of the extended
+amygdala (including the bed nucleus of the stria terminalis) consist of
+subdivisions or cell groups that derive from subpallial, pallial (ventral
+pallium), or extratelencephalic progenitor domains. The subpallial part includes 
+derivatives from the medial ganglionic eminence, the anterior peduncular area,
+and possibly a novel subdivision, called here commissural preoptic area, located 
+at the base of the septum and related to the anterior commissure. Our study
+provides a molecular and morphological foundation for understanding the complex
+embryonic origins and adult organization of the centromedial and extended
+amygdala.
+
+Copyright 2007 Wiley-Liss, Inc.
+
+PMID: 17990271  [PubMed - indexed for MEDLINE]
+
+
+52. J Comp Neurol. 2007 Nov 10;505(2):221-33.
+
+Developmental mechanisms for retinal degeneration in the blind cavefish Astyanax 
+mexicanus.
+
+Alunni A(1), Menuet A, Candal E, Pénigault JB, Jeffery WR, Rétaux S.
+
+Author information: 
+(1)MSNC INRA Group, Institut de Neurobiologie Alfred Fessard, Centre National de 
+la Recherche Scientifique, 91198 Gif-sur-Yvette, France.
+
+The sighted surface-dwelling (surface fish, SF) and the blind cave-living
+(cavefish, CF) forms of Astyanax mexicanus offer a unique opportunity to study
+the evolutionary changes in developmental mechanisms that lead to retinal
+degeneration. Previous data have shown the role of increased midline Sonic
+Hedgehog (Shh) signalling in cavefish eye degeneration (Yamamoto et al. [2004]
+Nature 431:844-847). Here, we have compared the major steps of eye development in
+SF and CF between 14 hours and 5 days of development. We have analyzed cell
+proliferation through PCNA and phospho-histone H3 staining and apoptosis through 
+TUNEL and live LysoTracker analysis. We have assessed the expression of the major
+eye development signalling factors Shh and Fgf8, and the eye patterning genes
+Pax6, Lhx2, Lhx9, and Vax1, together with the differentiation marker GAD65. We
+show that eye development is retarded in CF and that cell proliferation in CF
+retina is proportionately similar to SF during early development, yet the retina 
+degenerates after massive apoptosis in the lens and widespread cell death
+throughout the neuroretina. Moreover, and surprisingly, the signalling,
+patterning, and differentiation processes leading to the establishment of retinal
+layers and cell types happen almost normally in CF, although some signs of
+disorganization, slight heterochronies, and a lack of expression gradients are
+observable. Our data demonstrate that the evolutionary process of eye
+degeneration in the blind CF does not occur because of patterning defects of the 
+retina and are consistent with the proposed scenario in which the trigger for eye
+degeneration in CF is lens apoptosis.
+
+2007 Wiley-Liss, Inc
+
+PMID: 17853442  [PubMed - indexed for MEDLINE]
+
+
+53. Chromosome Res. 2007;15(6):777-85. Epub 2007 Aug 29.
+
+Search for the sex-determining switch in monotremes: mapping WT1, SF1, LHX1,
+LHX2, FGF9, WNT4, RSPO1 and GATA4 in platypus.
+
+Grafodatskaya D(1), Rens W, Wallis MC, Trifonov V, O'Brien PC, Clarke O, Graves
+JA, Ferguson-Smith MA.
+
+Author information: 
+(1)Cambridge Resource Centre for Comparative Genomics, Department of Veterinary
+Medicine, University of Cambridge, Cambridge, CB3 OES, UK.
+
+The duck-billed platypus has five pairs of sex chromosomes, but there is no
+information about the primary sex-determining switch in this species. As there is
+no apparent SRY orthologue in platypus, another gene must acquire the function of
+a key regulator of the gonadal male or female fate. SOX9 was ruled out from being
+this key regulator as it maps to an autosome in platypus. To check whether other 
+genes in mammalian gonadogenesis could be the primary switch in monotremes, we
+have mapped a number of candidates in platypus. We report here the autosomal
+location of WT1, SF1, LHX1, LHX9, FGF9, WNT4 and RSPO1 in platypus, thus
+excluding these from being key regulators of sex determination in this species.
+We found that GATA4 maps to sex chromosomes Y1 and X2; however, it lies in the
+pairing region shown by chromosome painting to be homologous, so is unlikely to
+be either male-specific or differentially dosed in male and female.
+
+PMID: 17717721  [PubMed - indexed for MEDLINE]
+
+
+54. Rev Med Chir Soc Med Nat Iasi. 2007 Jan-Mar;111(1):200-9.
+
+[Morphogenesis and differentiation of the female genital tract. Genetic
+determinism and epithelium-stromal interactions].
+
+[Article in Romanian]
+
+Amalinei C(1).
+
+Author information: 
+(1)Disciplina de Histologie, Facultatea de Medicina, Universitatea de Medicina si
+Farmacie "Gr. T. Popa", Iasi.
+
+The epithelium-stromal interaction is important in the process of morphogenesis, 
+differentiation, and hormone response, in female genital tract. This review is
+organized in four sections: i) female genital tract morphogenesis, based on
+genetic determinism; ii) hormonal control of endometrial proliferation; iii)
+TGF-beta key-role in epithelium-stromal communication; iv) endometrial apoptosis.
+Female genital tract derives from the Müllerian ducts, a number of genes being
+involved in its regulation, like Lim1, Lhx9, Emx, Pax-2, Hox-A9, Hox-A10,
+Hox-A11, Hox-A13, Wnt-4, Wnt-7, WT1, SF-1, and GATA-4. TGF-beta, whose expression
+is modulated by ovarian steroids, regulates cell growth, differentiation,
+apoptosis, inflammatory and immune responses, extracellular matrix deposition,
+adhesion molecules, proteases, and protease inhibitor expression. In the
+endometrium, TGF-beta regulates its own expression, and that of extracellular
+matrix, adhesion molecules and proteases implicated in trophoblast invasion,
+angiogenesis, and tumor metastasis during embryo implantation, endometriosis,
+irregular bleeding, and endometrial cancer. Cellular response elicited by
+TGF-beta, mediated through a serine/threonine kinase receptor, induces the
+recruitment of multiple intracellular signals, specifically Smads, whose
+activation and subsequent translocation into the nucleus results in gene
+expression. Ubiquitin is involved in the degradation of short lived, regulatory
+or misfolded proteins, by tagging them to be taken to the proteasome. In the
+endometrium, ubiquitin may allow cells of stromal origin to grow, survive and
+evade T-cell mediated disposal, showing a functional duality. A complete
+understanding of the complex regulatory endometrial epithelium-stromal mechanism,
+concertating genes, hormones, and cytokines, may provide new therapeutic targets 
+in female reproductive tract pathology.
+
+PMID: 17595868  [PubMed - indexed for MEDLINE]
+
+
+55. Genetics. 2006 Nov;174(3):1573-81. Epub 2006 Sep 1.
+
+Amh and Dmrta2 genes map to tilapia (Oreochromis spp.) linkage group 23 within
+quantitative trait locus regions for sex determination.
+
+Shirak A(1), Seroussi E, Cnaani A, Howe AE, Domokhovsky R, Zilberman N, Kocher
+TD, Hulata G, Ron M.
+
+Author information: 
+(1)Institute of Animal Science, Agricultural Research Organization, Volcani
+Center, Bet Dagan, Israel.
+
+Recent studies have revealed that the major genes of the mammalian sex
+determination pathway are also involved in sex determination of fish. Several
+studies have reported QTL in various species and strains of tilapia, regions
+contributing to sex determination have been identified on linkage groups 1, 3,
+and 23. Genes contributing to sex-specific mortality have been detected on
+linkage groups 2, 6, and 23. To test whether the same genes might control sex
+determination in mammals and fishes, we mapped 11 genes that are considered
+putative master key regulators of sex determination: Amh, Cyp19, Dax1, Dmrt2,
+Dmrta2, Fhl3l, Foxl2, Ixl, Lhx9, Sf1, and Sox8. We identified polymorphisms in
+noncoding regions of these genes and genotyped these sites for 90 individuals of 
+an F2 mapping family. Mapping of Dax1 joined LG16 and LG21 into a single linkage 
+group. The Amh and Dmrta2 genes were mapped to two distinct regions of LG23. The 
+Amh gene was mapped 5 cM from UNH879 within a QTL region for sex determination
+and 2 cM from UNH216 within a QTL region for sex-specific mortality. Dmrta2 was
+mapped 4 cM from UNH848 within another QTL region for sex determination. Cyp19
+was mapped to LG1 far from a previously reported QTL region for sex determination
+on this chromosome. Seven other candidate genes mapped to LG4, -11, -12, -14, and
+-17.
+
+PMCID: PMC1667067
+PMID: 16951079  [PubMed - indexed for MEDLINE]
+
+
+56. Mol Endocrinol. 2006 Sep;20(9):2093-108. Epub 2006 Apr 13.
+
+The LIM-homeodomain proteins Isl-1 and Lhx3 act with steroidogenic factor 1 to
+enhance gonadotrope-specific activity of the gonadotropin-releasing hormone
+receptor gene promoter.
+
+Granger A(1), Bleux C, Kottler ML, Rhodes SJ, Counis R, Laverrière JN.
+
+Author information: 
+(1)Physiologie de l'Axe Gonadotrope, Centre National de la Recherche
+Scientifique, Unité Mixte de Recherche 7079, Physiologie et Physiopathologie,
+Université Pierre et Marie Curie-Paris6, 4 place Jussieu, 75252 Paris cedex 05,
+France.
+
+The GnRH receptor (GnRH-R) plays a central role in mammalian reproductive
+function throughout adulthood. It also appears as an early marker gene of the
+presumptive gonadotrope lineage in developing pituitary. Here, using transient
+transfections combined with DNA/protein interaction assays, we have delineated
+cis-acting elements within the rat GnRH-R gene promoter that represent targets
+for the LIM-homeodomain (LIM-HD) proteins, Isl-1 and Lhx3. These factors,
+critical in early pituitary development, are thus also crucial for
+gonadotrope-specific expression of the GnRH-R gene. In heterologous cells, the
+expression of Isl-1 and Lhx3, together with steroidogenic factor 1 (SF-1),
+culminates in the activation of both the rat as well as human GnRH-R promoter,
+suggesting that this combination is evolutionarily conserved among mammals. The
+specificity of these LIM-HD factors is attested by the inefficiency of related
+proteins, including Lhx5 and Lhx9, to activate the GnRH-R gene promoter, as well 
+as by the repressive capacity of a dominant-negative derivative of Lhx3.
+Accordingly, targeted deletion of the LIM response element decreases promoter
+activity. In addition, experiments with Gal4-SF-1 fusion proteins suggest that
+LIM-HD protein activity in gonadotrope cells is dependent upon SF-1 binding.
+Finally, using a transgenic model that allows monitoring of in vivo promoter
+activity, we show that the overlapping expression of Isl-1 and Lhx3 in the
+developing pituitary correlates with promoter activity. Collectively, these data 
+suggest the occurrence of a specific LIM-HD pituitary code and designate the
+GnRH-R gene as the first identified transcriptional target of Isl-1 in the
+anterior pituitary.
+
+PMID: 16613990  [PubMed - indexed for MEDLINE]
+
+
+57. Dev Biol. 2005 Dec 1;288(1):100-12. Epub 2005 Nov 10.
+
+Organisation of the lamprey (Lampetra fluviatilis) embryonic brain: insights from
+LIM-homeodomain, Pax and hedgehog genes.
+
+Osorio J(1), Mazan S, Rétaux S.
+
+Author information: 
+(1)UPR2197 Développement, Evolution, Plasticité du Système Nerveux, Institut de
+Neurobiologie Alfred FESSARD, C.N.R.S., Avenue de la Terrasse, 91198
+Gif-sur-Yvette cedex, France.
+
+To investigate the embryonic development of the central nervous system of the
+lamprey Lampetra fluviatilis, we have isolated and analysed the expression
+patterns of members of the LIM-homeodomain, Pax, Hedgehog and Nkx2.1 families.
+Using degenerate RT-PCR, single representatives of Lhx1/Lhx5, Lhx2/Lhx9,
+Pax3/Pax7 and Hedgehog families could be isolated in L. fluviatilis. Expression
+analysis revealed that the lamprey forebrain presents a clear neuromeric pattern.
+We describe the existence of 4 embryonic diencephalic prosomeres whose boundaries
+can be identified by the combined and relative expressions of LfPax37, LfLhx15
+and LfLhx29. This suggests that the embryonic lamprey and gnathostome forebrain
+are patterned in a highly similar manner. Moreover, analysis of the LfHh gene,
+which is expressed in the hypothalamus, zona limitans intrathalamica and floor
+plate, reveals the possible molecular origin of this neuromeric brain pattern. By
+contrast, LfHh and LfNkx2.1 expressions suggest major differences in patterning
+mechanisms of the ventral telencephalon when compared to gnathostomes. In
+summary, our findings highlight a neuromeric organisation of the embryonic
+agnathan forebrain and point to the possible origin of this organisation, which
+is thus a truly vertebrate character. They also suggest that Hh/Shh midline
+signalling might act as a driving force for forebrain evolution.
+
+PMID: 16289025  [PubMed - indexed for MEDLINE]
+
+
+58. Neuron. 2005 Oct 6;48(1):31-43.
+
+Math1 expression redefines the rhombic lip derivatives and reveals novel lineages
+within the brainstem and cerebellum.
+
+Wang VY(1), Rose MF, Zoghbi HY.
+
+Author information: 
+(1)Program in Developmental Biology, Baylor College of Medicine, Houston, Texas
+77030, USA.
+
+Comment in
+    Neuron. 2005 Oct 6;48(1):1-4.
+
+The rhombic lip (RL) is an embryonic proliferative neuroepithelium that generates
+several groups of hindbrain neurons. However, the precise boundaries and
+derivatives of the RL have never been genetically identified. We use
+beta-galactosidase expressed from the Math1 locus in Math1-heterozygous and
+Math1-null mice to track RL-derived cells and to evaluate their developmental
+requirements for Math1. We uncover a Math1-dependent rostral rhombic-lip
+migratory stream (RLS) that generates some neurons of the parabrachial, lateral
+lemniscal, and deep cerebellar nuclei, in addition to cerebellar granule neurons.
+A more caudal Math1-dependent cochlear extramural stream (CES) generates the
+ventral cochlear nucleus and cochlear granule neurons. Similarly, mossy-fiber
+precerebellar nuclei require Math1, whereas the inferior olive and locus
+coeruleus do not. We propose that Math1 expression delimits the extent of the
+rhombic lip and is required for the generation of the hindbrain superficial
+migratory streams, all of which contribute neurons to the
+proprioceptive/vestibular/auditory sensory network.
+
+PMID: 16202707  [PubMed - indexed for MEDLINE]
+
+
+59. Neuron. 2005 May 19;46(4):647-60.
+
+Lhx6 delineates a pathway mediating innate reproductive behaviors from the
+amygdala to the hypothalamus.
+
+Choi GB(1), Dong HW, Murphy AJ, Valenzuela DM, Yancopoulos GD, Swanson LW,
+Anderson DJ.
+
+Author information: 
+(1)Division of Biology 216-76, California Institute of Technology, Pasadena,
+California 91125, USA.
+
+Comment in
+    Neuron. 2005 May 19;46(4):525-6.
+
+In mammals, innate reproductive and defensive behaviors are mediated by
+anatomically segregated connections between the amygdala and hypothalamus. This
+anatomic segregation poses the problem of how the brain integrates activity in
+these circuits when faced with conflicting stimuli eliciting such mutually
+exclusive behaviors. Using genetically encoded and conventional axonal tracers,
+we have found that the transcription factor Lhx6 delineates the reproductive
+branch of this pathway. Other Lhx proteins mark neurons in amygdalar nuclei
+implicated in defense. We have traced parallel projections from the posterior
+medial amygdala, activated by reproductive or defensive olfactory stimuli,
+respectively, to a point of convergence in the ventromedial hypothalamus. The
+opposite neurotransmitter phenotypes of these convergent projections suggest a
+"gate control" mechanism for the inhibition of reproductive behaviors by
+threatening stimuli. Our data therefore identify a potential neural substrate for
+integrating the influences of conflicting behavioral cues and a transcription
+factor family that may contribute to the development of this substrate.
+
+PMID: 15944132  [PubMed - indexed for MEDLINE]
+
+
+60. J Hered. 2005 Jul-Aug;96(4):452-4. Epub 2005 Apr 6.
+
+Exclusion of Lhx9 as a candidate gene for Sry-negative XX sex reversal in the
+American cocker spaniel model.
+
+Pujar S(1), Kothapalli KS, Kirkness E, Van Wormer RH, Meyers-Wallen VN.
+
+Author information: 
+(1)J. A. Baker Institute for Animal Health, College of Veterinary Medicine,
+Cornell University, Ithaca, NY 14853, USA.
+
+XX sex reversal is known in 17 breeds of dogs. In the American cocker spaniel, it
+segregates as an autosomal recessive trait, and the affected animals lack the
+testis determining Sry gene. In the search for an autosomal gene that causes this
+trait, we considered the possibility of Lhx9, a gene encoding LIM homeobox
+containing transcription factor 9, as a candidate gene. An American cocker
+spaniel pedigree showing Sry-negative XX sex reversal phenotype was genotyped
+with an intronic Lhx9 microsatellite marker. Segregation of the Lhx9 marker in
+the pedigree indicated that a mutation in canine Lhx9 is not likely to be the
+cause of Sry-negative XX sex reversal. In addition, using the recently available 
+7.6X canine genomic sequence, we report the location and genomic organization of 
+canine Lhx9.
+
+PMID: 15814894  [PubMed - indexed for MEDLINE]
+
+
+61. J Comp Neurol. 2005 May 9;485(3):240-54.
+
+LIM-homeodomain genes as territory markers in the brainstem of adult and
+developing Xenopus laevis.
+
+Moreno N(1), Bachy I, Rétaux S, González A.
+
+Author information: 
+(1)Departamento de Biología Celular, Facultad de Biología, Universidad
+Complutense, 28040 Madrid, Spain.
+
+We investigated expression patterns of the LIM-homeodomain (LIM-hd) genes x-Lhx1,
+x-Lhx2, x-Lhx5, and x-Lhx9 in the brainstem of Xenopus laevis during larval
+development and in the adult. The two groups of paralogous genes, x-Lhx1/x-Lhx5
+and x-Lhx2/x-Lhx9, showed fundamentally different expression patterns, being
+expressed in ventral versus dorsal territories of the midbrain and hindbrain,
+respectively. Indeed, prominent expression of x-Lhx1/5 was found in the
+mesencephalic tegmentum and the hindbrain reticular formation, whereas
+conspicuous x-Lhx2/9 expression was observed in the torus semicircularis and
+isthmic nucleus. A few shared expression domains for the two pairs of paralogs
+included the optic tectum and the anterodorsal and pedunculopontine nuclei. In
+each structure, expression of the two paralogs was almost identical, indicating
+that the regulation of their expression in this part of the brain has evolved
+slightly since gene duplication occurred. Notable exceptions included the
+expression of x-Lhx1 but not x-Lhx5 in the Purkinje cells and the expression of
+x-Lhx9 but not x-Lhx2 in the lateral line nucleus. The analysis of LIM-hd
+expression patterns throughout development allowed the origin of given structures
+in early embryos to be traced back. x-Lhx1 and x-Lhx5 were relevant to locate the
+cerebellar anlage and to follow morphogenesis of the cerebellar plate and
+cerebellar nuclei. They also highlighted the rhombomeric organization of the
+hindbrain. On the other hand, x-Lhx2 and x-Lhx9 showed a dynamic spatiotemporal
+pattern relative to tectal development and layering, and x-Lhx9 was useful to
+trace back the origin of the isthmus in early development.
+
+Copyright 2005 Wiley-Liss, Inc.
+
+PMID: 15791640  [PubMed - indexed for MEDLINE]
+
+
+62. DNA Cell Biol. 2004 Nov;23(11):761-8.
+
+Lhx9 and lhx9alpha: differential biochemical properties and effects on neuronal
+differentiation.
+
+Mollé B(1), Père S, Failli V, Bach I, Rétaux S.
+
+Author information: 
+(1)UPR 2197 "Développement, Evolution, Plasticité du Système Nerveux," Institut
+de Neurobiologie Alfred FESSARD, C.N.R.S, GIF-sur-YVETTE cedex, France.
+
+The Lhx9 LIM-homeodomain transcription factor and its truncated isoform Lhx9alpha
+are generated by alternative splicing of the Lhx9 gene. Here we investigated the 
+differential functional properties of these two isoforms. Lhx9alpha, which lacks 
+parts of the homeodomain, was unable to bind DNA in EMSA experiments, but was
+able to associate with CLIM cofactors in GST pull-down assays. In transfection
+experiments in PC12 cells, Lhx9alpha fusion constructs systematically showed a
+nuclear localization, as opposed to Lhx9 fusion constructs, which also localized 
+to the cytoplasm. Moreover, Lhx9 increased NGF-induced neuronal differentiation
+of PC12 cells. Lhx9alpha, on the other hand, did not significantly increase
+neuronal differentiation but had an effect on the morphology of PC12 cells.
+Finally, as tested by RT-PCR experiments on transfected PC12 cells, Lhx9 was not 
+able to induce the transcription of Lhx9alpha. Our results show significantly
+different functional properties for Lhx9 and Lhx9alpha, and suggest that
+Lhx9alpha can compete away limiting amounts of nuclear CLIM cofactors. Thus, Lhx9
+and Lhx9alpha isoforms could be implicated in regulating various aspects of
+neuronal differentiation.
+
+PMID: 15585134  [PubMed - indexed for MEDLINE]
+
+
+63. Mech Dev. 2004 Jul;121(7-8):977-83.
+
+Cloning and developmental expression patterns of Dlx2, Lhx7 and Lhx9 in the
+medaka fish (Oryzias latipes).
+
+Alunni A(1), Blin M, Deschet K, Bourrat F, Vernier P, Rétaux S.
+
+Author information: 
+(1)UPR 2197 Développement, Evolution, Plasticité du Système Nerveux, Institut de 
+Neurobiologie Alfred FESSARD, CNRS, Avenue de la Terrasse, 91198 Gif-sur-Yvette
+cedex, France.
+
+We have isolated three homeodomain and LIM-homeodomain developmental
+transcription factors from the medaka fish (Oryzias latipes): OlDlx2, OlLhx7, and
+OlLhx9, and we have studied their expression patterns in the developing and adult
+brain. This analysis showed that OlDlx2 and OlLhx7 (together with OlNkx2.1b)
+delineate the subpallial divisions of the medaka telencephalon, and that OlLhx9
+exhibits a typical and specific topology of expression in the pallium and
+diencephalic neuromeres. The expression patterns of these three genes, when
+compared in details with those of their tetrapod homologs, reveal both
+commonalities and differences in the basic organization of the developing teleost
+and vertebrate forebrain.
+
+PMID: 15210202  [PubMed - indexed for MEDLINE]
+
+
+64. Gene Expr Patterns. 2004 May;4(3):315-20.
+
+Expression of Dlx and Lhx family homeobox genes in fetal thymus and thymocytes.
+
+Woodside KJ(1), Shen H, Muntzel C, Daller JA, Sommers CL, Love PE.
+
+Author information: 
+(1)Laboratory of Mammalian Genes and Development, National Institute of Child
+Health and Human Development, National Institutes of Health, Building 6B, Room
+2B-210, 9000 Rockville Pike, Bethesda, MD 20892-2780, USA.
+
+Homeobox genes comprise a nearly ubiquitous and highly conserved superfamily of
+developmental regulatory genes that encode transcription factors involved in the 
+determination of axis and tissue identity. While homeobox gene expression has
+been well characterized in a variety of embryonic tissues, their expression has
+not been extensively studied in lymphoid progenitor cells or in sites of
+lymphogenesis. To examine homeobox gene expression in the developing thymus, we
+screened an embryonic day 13.5 thymus cDNA library by polymerase chain reaction
+(PCR) using degenerate oligonucleotides within the highly conserved homeodomain
+region of eight homeobox gene families. The resulting PCR products were then
+cloned and sequenced. Transcripts for multiple Dlx family members and Lhx2 were
+repeatedly detected in this screen. Screening of embryonic day 16.5 and adult
+murine thymus and Thy1+ thymocytes was performed for selected members of these
+homeobox gene families. Transcripts encoding Lhx2, Lhx3, and Lhx9, as well as
+Dlx1 and Dlx2 were detected in both thymus and purified thymocytes. Dlx1 is a
+member of the distal-less homeobox gene family that has been shown to regulate
+embryonic craniofacial development. Significantly, Dlx1 is expressed in the third
+branchial arch, which contributes to the thymus. Although Dlx1 knockout mice did 
+not display any obvious developmental defects in thymus or thymocyte development,
+the expression of these homeobox genes in neural crest derivatives suggests a
+possible role in cell migration and development that may overlap with other
+homeobox genes.
+
+PMID: 15053981  [PubMed - indexed for MEDLINE]
+
+
+65. J Comp Neurol. 2004 Apr 19;472(1):52-72.
+
+LIM-homeodomain genes as developmental and adult genetic markers of Xenopus
+forebrain functional subdivisions.
+
+Moreno N(1), Bachy I, Rétaux S, González A.
+
+Author information: 
+(1)Departamento de Biología Celular, Facultad de Biología, Universidad
+Complutense, 28040 Madrid, Spain.
+
+We have investigated the expression patterns of five LIM-homeodomain (LIM-hd)
+genes, x-Lhx1, x-Lhx2, x-Lhx5, x-Lhx7, and x-Lhx9 in the forebrain of the frog
+Xenopus laevis during larval development and in the adult. The results were
+analyzed in terms of neuromeric organization of the amphibian brain and of
+combinatorial LIM-hd code and showed that LIM-hd developmental transcription
+factors are particularly powerful to highlight the coherence of several groups or
+nuclei, to delineate subdivisions, and/or to clarify structures that are still a 
+matter of debate. Among other findings, we bring substantial evidence for the
+following: (1) a dual origin of olfactory bulb neurons, based on x-Lhx5
+expression; (2) the existence of a ventral pallium in frog, based on x-Lhx9
+expression; (3) a multiple (pallial and subpallial) origin for the nuclei of the 
+amygdaloid complex, based on distinct combinations of the five studied genes; (4)
+a clear homology between the Xenopus medial pallium and the mammalian
+hippocampus, based on x-Lhx2 pattern; and (5) a confirmed prosomeric organization
+of the diencephalon, based on alternating x-Lhx1/5 and x-Lhx2/9 expressions. In
+addition, the important expression levels for LIM-hd factors found throughout
+development and in the adult brain suggest a role for these genes in development 
+and maintenance of neuronal specification and phenotype, as for example in the
+case of x-Lhx7 and cholinergic neurons. Moreover, following LIM-hd patterns
+throughout development points out to some of the migrations and morphogenetic
+movements, which give rise to the adult structures. Finally, the detailed
+description of the LIM-hd code in the developing and adult Xenopus forebrain
+provides interesting cues for the possible mechanisms of evolution of the
+vertebrate forebrain.
+
+Copyright 2004 Wiley-Liss, Inc.
+
+PMID: 15024752  [PubMed - indexed for MEDLINE]
+
+
+66. Int J Oncol. 2004 Mar;24(3):743-9.
+
+Identification and characterization of Crumbs homolog 2 gene at human chromosome 
+9q33.3.
+
+Katoh M(1), Katoh M.
+
+Author information: 
+(1)M&M Medical BioInformatics, Narashino 275-0022, Japan.
+
+Drosophila Crumbs (Crb)--Stardust (Sdt)--Discs lost (Dlt) complex plays a pivotal
+role in the establishment and the maintenance of epithelial polarity. CRB1 and
+CRB3 are human homologs of Drosophila Crb, MPP1-MPP7 are human homologs of
+Drosophila Sdt, INADL/PATJ and MPDZ/MUPP1 are human homologs of Drosophila Dlt.
+Here, we identified and characterized a novel Crumbs family gene, Crumbs homolog 
+2 (CRB2), by using bioinformatics. CRB2 isoform 1 was assembled by adding
+nucleotide position 1-3353 of FLJ16786 cDNA (AK123000) to the 5'-end of
+5'-truncated FLJ38464 cDNA (NM_173689.1), while that of CRB2 isoform 2 was
+derived from FLJ16786 cDNA. CRB2 isoform 1, consisting of exon 1-13, encoded a
+1285-aa transmembrane protein. CRB2 isoform 2, consisting of exon 1-10 and intron
+10, encoded a 1176-aa secreted protein. CRB2 gene was found to encode
+transmembrane protein as well as secreted protein due to alternative splicing.
+CRB2 isoform 1, showing 24.4% total amino-acid identity with CRB1, was type I
+transmembrane protein with 14 extracellular EGF-like domains, 3 extracellular
+Laminin G-like domains and the Crb cytoplasmic tail (CCT) domain. CCT domain,
+functioning as the binding site for PDZ domain of Sdt homologs, was conserved
+among human CRB1, CRB2, CRB3, mouse Crb1, Crb3, Drosophila Crb, and C. elegans
+crb. Comparative genomics revealed that CRB2-KIAA1608-LHX2-NEK6 locus at human
+chromosome 9q33.3 and CRB1-MGC27044-LHX9-NEK7 locus at human chromosome 1q31.3
+were paralogous regions within the human genome. This is the first report on
+identification and characterization of the CRB2 gene.
+
+PMID: 14767562  [PubMed - indexed for MEDLINE]
+
+
+67. Cytogenet Genome Res. 2003;101(3-4):242-9.
+
+Molecular characterization of three gonad cell lines.
+
+Beverdam A(1), Wilhelm D, Koopman P.
+
+Author information: 
+(1)Institute for Molecular Bioscience, The University of Queensland, Brisbane,
+Queensland, Australia.
+
+To facilitate the study of the regulation and downstream interactions of genes
+involved in gonad development it is important to have a suitable cell culture
+model. We therefore aimed to characterize molecularly three different mouse gonad
+cell lines. TM3 and TM4 cells were originally isolated from prepubertal mouse
+gonads and were tentatively identified as being of Leydig cell and Sertoli cell
+origin, respectively, based upon their morphology and hormonal responses. The
+third line is a conditionally immortalized cell line, derived from 10.5-11.5 days
+post-coitum (dpc) male gonads of transgenic embryos carrying a
+temperature-sensitive SV40 large T-antigen. We studied by reverse
+transcription-polymerase chain reaction (RT-PCR) the expression profiles of a
+number of genes known to be important for early gonad development. Moreover, we
+assessed these cell lines for their capacity to induce SOX9 transcription upon
+expression of SRY, a key molecular event occurring during sex determination. We
+found that all three cell lines were unable to upregulate SOX9 expression upon
+transfection of SRY-expression constructs, even though these cells express many
+of the studied embryonic gonad genes. These observations point to a requirement
+for SRY cofactors for direct or indirect upregulation of SOX9 expression during
+testis determination.
+
+Copyright 2003 S. Karger AG, Basel
+
+PMID: 14684990  [PubMed - indexed for MEDLINE]
+
+
+68. Trans Am Clin Climatol Assoc. 2003;114:51-63; discussion 64-5.
+
+Battle of the sexes: new insights into genetic pathways of gonadal development.
+
+Jameson JL(1), Achermann JC, Ozisik G, Meeks JJ.
+
+Author information: 
+(1)Department of Medicine, Feinberg School of Medicine, Northwestern University, 
+Chicago, IL 60611, USA.
+
+Sex determination is governed by a series of genetic switches that influence cell
+fate and differentiation during critical periods of gonadal development.
+Remarkably, the primordial fetal gonad is bipotential. Therefore, gonadal
+development provides an excellent opportunity to identify genes involved in
+differential organogenesis. The identification of the testis-determining gene,
+SRY (Sex-reversed on the Y), was a pivotal first step towards unraveling this
+genetic pathway. It is now clear that numerous other genes, in addition to SRY,
+are necessary for normal testis development. For example, human mutations in a
+variety of genes (SOX9, WT1, SF1) impair testis development. Murine models
+provide evidence for additional genes (Lhx9, Emx2, M33, Dmrt, Fgf9). This lecture
+will highlight insights gleaned from human mutations in the nuclear receptors,
+SF1 (Steroidogenic Factor1) (NR5A1) and DAX1 (Dosage-sensitive sex reversal,
+Adrenal hypoplasia congenita, X chromosome) (NR0B1). These studies reveal the
+exquisite sensitivity of SF1-dependent developmental pathways to gene dosage and 
+function in humans.
+
+PMCID: PMC2194523
+PMID: 12813911  [PubMed - indexed for MEDLINE]
+
+
+69. Dev Dyn. 2003 Mar;226(3):460-9.
+
+Dynamic spatiotemporal expression of LIM genes and cofactors in the embryonic and
+postnatal cerebral cortex.
+
+Bulchand S(1), Subramanian L, Tole S.
+
+Author information: 
+(1)Tata Institute of Fundamental Research, Mumbai, India.
+
+LIM-homeodomain (LIM-HD) genes encode a family of transcription factors known to 
+be involved in development and patterning in several systems. Previously, we have
+shown that LIM-HD gene Lhx2 is required for the formation of a crucial boundary
+in the dorsal telencephalon (Bulchand et al. [2001] Mech Dev 100:165-175). To
+further explore the role of LIM-HD genes as well as the broader LIM gene family
+in dorsal telencephalic development, we examined the expression pattern of the
+members of this gene family and their cofactors in the developing mouse cerebral 
+cortex. Transcription factor activity of the LIM-HD proteins requires the
+formation of a tetrameric complex consisting of two LIM-HD molecules linked by a 
+dimer of cofactor (Clim) molecules. LIM-only (Lmo) proteins can interfere with
+this process by competing for the cofactors. LIM-HD protein function, thus, can
+be modulated by the presence of the appropriate Clim or Lmo molecules. At least
+13 LIM-HD, 4 Lmo, and 2 Clim genes have been identified in the mouse. Several of 
+these genes exhibit complex spatiotemporal patterns spanning different stages of 
+cortical development, from embryonic to postnatal ages. Noteworthy features of
+the expression patterns include delineation of boundaries within the developing
+cortex, up- or down-regulation during formation of selected cortical layers, and 
+a striking complementarity of expression of several members consistent with
+specific functions in cortical development. Significantly, in some cases, Lmo or 
+Clim gene expression is robust where no LIM-HD gene expression is detectable.
+These results suggest multiple and distinct roles for LIM-HD, Lmo, and Clim genes
+in cortical development, and also support a LIM-HD-independent role for some Lmo 
+and Clim members.
+
+Copyright 2003 Wiley-Liss, Inc.
+
+PMID: 12619132  [PubMed - indexed for MEDLINE]
+
+
+70. Gene Expr Patterns. 2002 Dec;2(3-4):373-7.
+
+Lhx9 expression during gonadal morphogenesis as related to the state of cell
+differentiation.
+
+Mazaud S(1), Oréal E, Guigon CJ, Carré-Eusèbe D, Magre S.
+
+Author information: 
+(1)Laboratoire de Physiologie et Physiopathologie, CNRS-UMR 7079, Université
+Paris VI, 7 quai Saint-Bernard, 75005 Paris, France.
+
+Lhx9 (LIM/Homeobox gene 9) encodes a transcription factor implicated in various
+developmental processes, including gonadogenesis. Our observations in the rat
+show that Lhx9 expression present in undifferentiated gonads disappears as
+epithelial cells differentiate into Sertoli cells and begin to express AMH. In
+rat and in chick testes, Lhx9 expression present in interstitial cells decreases 
+progressively to become undetectable after birth. In the female rat, Lhx9 is
+highly expressed in epithelial ovigerous cords of the fetal ovary. Its expression
+is down-regulated as epithelial cells differentiate into granulosa cells during
+the process of folliculogenesis occurring at birth. If this process is impaired
+by the lack of oocytes, ovigerous cord organization is maintained together with
+Lhx9 expression. In conclusion, Lhx9 expression can be inversely correlated with 
+the commitment into a differentiation pathway of the different categories of
+mesothelium-derived cells of the gonad.
+
+PMID: 12617828  [PubMed - indexed for MEDLINE]
+
+
+71. Dev Dyn. 2002 Nov;225(3):221-32.
+
+Different patterns of anti-Müllerian hormone expression, as related to DMRT1,
+SF-1, WT1, GATA-4, Wnt-4, and Lhx9 expression, in the chick differentiating
+gonads.
+
+Oréal E(1), Mazaud S, Picard JY, Magre S, Carré-Eusèbe D.
+
+Author information: 
+(1)Unité de Recherches sur l'Endocrinologie du Développement, INSERM U493, Ecole 
+Normale Supérieure, Montrouge, France.
+
+In mammals, anti-Müllerian hormone (AMH) is produced by Sertoli cells from the
+onset of testicular differentiation and by granulosa cells after birth. In birds,
+AMH starts to be expressed in indifferent gonads of both sexes at a similar level
+and is later up-regulated in males. We previously demonstrated that, unlike in
+mammals, the onset of AMH expression occurs in chick embryo in the absence of
+SOX9. We looked for potential factors that might be involved in regulating AMH
+expression at different stages of chick gonad differentiation by comparing its
+expression pattern in embryos and young chicken with that of DMRT1, SF-1, WT1,
+GATA-4, Wnt-4, and Lhx9, by in situ hybridization. The results allowed us to
+distinguish different phases. (1) In indifferent gonads of both sexes, AMH is
+expressed in dispersed medullar cells. SF-1, WT1, GATA-4, Wnt-4, and DMRT1 are
+transcribed in the same region of the gonads, but none of these factors has an
+expression strictly coincident with that of AMH. Lhx9 is present only in the
+cortical area. (2) After this period, AMH is up-regulated in male gonads. The
+up-regulation is concomitant with the beginning of SOX9 expression and a sex
+dimorphic level of DMRT1 transcripts. It is followed by the aggregation of the
+AMH-positive cells (Sertoli cells) into testicular cords in which AMH is
+coexpressed with DMRT1, SF-1, WT1, GATA-4, and SOX9. (3) In the females, the low 
+level of dispersed medullar AMH expression is conserved. With development of the 
+cortex in the left ovary, cells expressing AMH accumulate in the juxtacortical
+part of the medulla, whereas they remain dispersed in the right ovary. At this
+stage, AMH expression is not strictly correlated with any of the studied factors.
+(4) After hatching, the organization of left ovarian cortex is characterized by
+the formation of follicles. Follicular cells express AMH in conjunction with
+SF-1, WT1, and GATA-4 and in the absence of SOX9, as in mammals. In addition,
+they express Lhx9 and Wnt-4, the latter being also found in the oocytes. (5)
+Moreover, unlike in mammals, the chicken ovary retains a dispersed AMH expression
+in cortical interstitial cells between the follicles, with no obvious correlation
+with any of the factors studied. Thus, the dispersed type of AMH expression in
+indifferent and female gonads appears to be bird-specific and not controlled by
+the same factors as testicular or follicular AMH transcription.
+
+Copyright 2002 Wiley-Liss, Inc.
+
+PMID: 12412004  [PubMed - indexed for MEDLINE]
+
+
+72. Genes Dev. 2002 Jul 15;16(14):1839-51.
+
+The Wilms tumor suppressor WT1 regulates early gonad development by activation of
+Sf1.
+
+Wilhelm D(1), Englert C.
+
+Author information: 
+(1)Institut für Toxikologie und Genetik, Forschungszentrum Karlsruhe, 76021
+Karlsruhe, Germany.
+
+In mammals, several genes including the Wilms tumor suppressor gene Wt1, the Lim 
+homeobox gene Lhx9, and the gene encoding steroidogenic factor 1 (Sf1) have been 
+implicated in the development of the indifferent gonad prior to sexual
+differentiation. Interactions among these genes have not yet been elucidated.
+Using biochemical and genetic experiments, we demonstrate here that WT1 and LHX9 
+function as direct activators of the Sf1 gene. Interestingly, only the -KTS form 
+of WT1 is able to bind to and transactivate the Sf1 promoter. This observation is
+consistent with differential roles for the -KTS and +KTS variants of WT1 which
+have been postulated on the basis of human disorders such as the Frasier
+syndrome. Our data suggest a pathway in which the products of the Wt1 and Lhx9
+genes activate expression of Sf1 and thus mediate early gonadogenesis.
+
+PMCID: PMC186395
+PMID: 12130543  [PubMed - indexed for MEDLINE]
+
+
+73. Novartis Found Symp. 2002;244:4-18; discussion 18-22, 35-42, 253-7.
+
+Sex-determining genes in mice: building pathways.
+
+Lovell-Badge R(1), Canning C, Sekido R.
+
+Author information: 
+(1)Division of Developmental Genetics, MRC National Institute for Medical
+Research, London, UK.
+
+Sry is active in the mouse for a very brief period in somatic cells of the
+genital ridge to initiate Sertoli cell differentiation. SRY protein must act
+within the context of other gene products required for gonadal development and
+must itself act on one or more target genes that will ensure the further
+differentiation and maintenance of Sertoli cells. Over the last few years several
+genes have been found that have important roles in gonadal development and sex
+determination. These include genes encoding transcription factors such as Lhx9,
+Wt1, Sf1, Dax1, Gata4, Dmrt1 and Sox9, and some involved in cell cell signalling,
+including Amh, Wnt4 and Dhh. While more await discovery, it is now possible to
+start putting some of the known genes into pathways or networks. Sox9 probably
+occupies a critical role in mammals for both the initiation and maintenance of
+Sertoli cell differentiation. Data will be presented that are consistent with SRY
+acting directly on Sox9 to ensure its up-regulation. SF1 is also central to
+gonadal differentiation. Our results imply that it contributes to transcriptional
+activation of several relevant genes, not just those required for male
+development, including Sox9 and Amh, but also those that can have an antagonistic
+effect on Sertoli cell differentiation, such as Dax1. Progress in establishing
+other regulatory interactions will also be discussed.
+
+PMID: 11990796  [PubMed - indexed for MEDLINE]
+
+
+74. Novartis Found Symp. 2002;244:23-31; discussion 31-42, 253-7.
+
+Early gonadal development: exploring Wt1 and Sox9 function.
+
+Guo JK(1), Hammes A, Chaboissier MC, Vidal V, Xing Y, Wong F, Schedl A.
+
+Author information: 
+(1)Human Molecular Genetics Unit, University of Newcastle upon Tyne, UK.
+
+Prior to sex determination the gonadal anlage is formed as a bipotential
+primordium with the capacity to differentiate into either testes or ovaries
+depending on the presence or absence of the Sry gene. Knockout experiments have
+implicated five genes in the formation or survival of the gonadal primordium:
+Wt1, Sf1, Lim1, Lhx9 and Emx2. We are particularly interested in the Wilms tumour
+suppressor, WT1, which is characterized by complex posttranscriptional
+modifications. Here we will focus on published in vitro evidence suggesting
+distinct functions for the various isoforms and present our own results from in
+vivo experiments. Our data suggest that WT1 is an important regulator of the
+transcription or stability of the sex-determining gene Sry. One of the first
+genes expressed after the initial male sex-determining signal is the Sox9 gene.
+Human SOX9 has been implicated in male-to-female sex reversal. To analyse Sox9
+function in mouse development we have performed transgenic experiments and
+ectopically expressed this gene in XX gonads. Our data indicate that Sox9 is
+sufficient to induce testis formation in mice. Here we will discuss our new data 
+and present an updated model for Wt1 and Sox9 function in gonad formation and sex
+determination.
+
+PMID: 11990794  [PubMed - indexed for MEDLINE]
+
+
+75. J Neurosci. 2001 Oct 1;21(19):7620-9.
+
+The LIM-homeodomain gene family in the developing Xenopus brain: conservation and
+divergences with the mouse related to the evolution of the forebrain.
+
+Bachy I(1), Vernier P, Retaux S.
+
+Author information: 
+(1)UPR 2197 "Développement, Evolution, Plasticité du Système Nerveux," Institut
+de Neurobiologie Alfred Fessard, Centre National de la Recherche Scientifique,
+91198 Gif-sur-Yvette cedex, France.
+
+A comparative analysis of LIM-homeodomain (LIM-hd) expression patterns in the
+developing stage 32 Xenopus brain is presented. x-Lhx2, x-Lhx7, and x-Lhx9 were
+isolated and their expression, together with that of x-Lhx1 and x-Lhx5, was
+analyzed in terms of prosomeric brain development and LIM-hd combinatorial code
+and compared with mouse expression data. The results show an almost complete
+conservation of expression patterns in the diencephalon. The Lhx1/5 and Lhx2/9
+subgroups label the pretectum/ventral thalamus/zona limitans versus the dorsal
+thalamus, respectively, in alternating stripes of expression in both species.
+Conversely, strong divergences in expression patterns are observed between the
+telencephalon of the two species for Lhx1/5 and Lhx2/9. Lhx7 exhibits
+particularly conservative patterns and is proposed as a medial ganglionic
+eminence marker. The conservation of diencephalic segments is proposed to mirror 
+the conservative nature of diencephalic structures across vertebrates. In
+contrast, the telencephalic divergences are proposed to reflect the emergence of 
+significant novelty in the telencephalon (connectivity changes) at the
+anamniote/amniote transition. Moreover, the data allow the new delineation of
+pallial and subpallial domains in the developing frog telencephalon, which are
+compared with mouse subdivisions. In the pallium, the mouse combinatorial
+expression of LIM-hd is notably richer than in the frog, again possibly
+reflecting evolutionary changes in cortical connectivity.
+
+PMID: 11567052  [PubMed - indexed for MEDLINE]
+
+
+76. J Clin Endocrinol Metab. 2001 Jun;86(6):2465-9.
+
+Absence of mutations involving the LIM homeobox domain gene LHX9 in 46,XY gonadal
+agenesis and dysgenesis.
+
+Ottolenghi C(1), Moreira-Filho C, Mendonça BB, Barbieri M, Fellous M, Berkovitz
+GD, McElreavey K.
+
+Author information: 
+(1)Immunogénétique Humaine, INSERM E0025, Institut Pasteur, 75724 Paris, France.
+
+The etiology of most cases of 46,XY gonadal dysgenesis in the absence of
+extragenital anomalies is not accounted for by mutations in the genes known to
+date to be involved in sex determination. We have investigated the possibility
+that mutations in the gene LHX9, whose murine ortholog causes isolated gonadal
+agenesis when inactivated, might be responsible for gonadal dysgenesis and
+agenesis in humans. We isolated a human LHX9 complementary DNA (cDNA), mapped the
+gene to the long arm of human chromosome 1, and determined its genomic structure.
+We found that LHX9 is highly conserved between species, sharing in particular
+over 98% amino acid identity. A mutational screen was performed in a sample of
+patients with a range of gonadal maldevelopment, including bilateral gonadal
+agenesis in two sisters with an opposite sex karyotype. We did not detect
+mutations in the open reading frame of LHX9 in the patients studied. However, the
+extent of between-species structural conservation suggests that LHX9 deserves
+further consideration as a determinant of gonadal function in humans.
+
+PMID: 11397841  [PubMed - indexed for MEDLINE]
+
+
+77. Neuron. 2001 May;30(2):411-22.
+
+Proprioceptor pathway development is dependent on Math1.
+
+Bermingham NA(1), Hassan BA, Wang VY, Fernandez M, Banfi S, Bellen HJ, Fritzsch
+B, Zoghbi HY.
+
+Collaborators: Bellen HJ(1).
+
+Author information: 
+(1)Howard Hughes Medical Institute, One Baylor Plaza, Houston, TX 77030, USA.
+
+The proprioceptive system provides continuous positional information on the limbs
+and body to the thalamus, cortex, pontine nucleus, and cerebellum. We showed
+previously that the basic helix-loop-helix transcription factor Math1 is
+essential for the development of certain components of the proprioceptive
+pathway, including inner-ear hair cells, cerebellar granule neurons, and the
+pontine nuclei. Here, we demonstrate that Math1 null embryos lack the D1
+interneurons and that these interneurons give rise to a subset of proprioceptor
+interneurons and the spinocerebellar and cuneocerebellar tracts. We also identify
+three downstream genes of Math1 (Lh2A, Lh2B, and Barhl1) and establish that Math1
+governs the development of multiple components of the proprioceptive pathway.
+
+PMID: 11395003  [PubMed - indexed for MEDLINE]
+
+
+78. J Neurosci. 2001 Apr 15;21(8):2711-25.
+
+Combinatorial expression patterns of LIM-homeodomain and other regulatory genes
+parcellate developing thalamus.
+
+Nakagawa Y(1), O'Leary DD.
+
+Author information: 
+(1)Molecular Neurobiology Laboratory, The Salk Institute, La Jolla, California
+92037, USA.
+
+The anatomical and functional organization of dorsal thalamus (dTh) and ventral
+thalamus (vTh), two major regions of the diencephalon, is characterized by their 
+parcellation into distinct cell groups, or nuclei, that can be histologically
+defined in postnatal animals. However, because of the complexity of dTh and vTh
+and difficulties in histologically defining nuclei at early developmental stages,
+our understanding of the mechanisms that control the parcellation of dTh and vTh 
+and the differentiation of nuclei is limited. We have defined a set of regulatory
+genes, which include five LIM-homeodomain transcription factors (Isl1, Lhx1,
+Lhx2, Lhx5, and Lhx9) and three other genes (Gbx2, Ngn2, and Pax6), that are
+differentially expressed in dTh and vTh of early postnatal mice in distinct but
+overlapping patterns that mark nuclei or subsets of nuclei. These genes exhibit
+differential expression patterns in dTh and vTh as early as embryonic day 10.5,
+when neurogenesis begins; the expression of most of them is detected as
+progenitor cells exit the cell cycle. Soon thereafter, their expression patterns 
+are very similar to those that we observe postnatally, indicating that unique
+combinations of these genes mark specific cell groups from the time they are
+generated to their later differentiation into nuclei. Our findings suggest that
+these genes act in a combinatorial manner to control the specification of
+nuclei-specific properties of thalamic cells and the differentiation of nuclei
+within dTh and vTh. These genes may also influence the pathfinding and targeting 
+of thalamocortical axons through both cell-autonomous and non-autonomous
+mechanisms.
+
+PMID: 11306624  [PubMed - indexed for MEDLINE]
+
+
+79. Mech Dev. 2000 Sep;96(2):223-7.
+
+Identification of a stromal cell type characterized by the secretion of a soluble
+integrin-binding protein, MFG-E8, in mouse early gonadogenesis.
+
+Kanai Y(1), Kanai-Azuma M, Tajima Y, Birk OS, Hayashi Y, Sanai Y.
+
+Author information: 
+(1)Department of Veterinary Anatomy, The University of Tokyo, Yayoi 1-1,
+Bunkyo-ku, 113-8657, Tokyo, Japan. aykanai@mail.ecc.u-tokyo.ac.jp
+
+Mfge8 (milk fat globule-EGF-factor 8) encodes a soluble integrin-binding protein 
+containing two Notch-like EGF domains and two discoidin domains. It mediates
+cell-to-cell interaction by binding to integrin alphavbeta3 via the RGD motif of 
+its second EGF domain. Mfge8 was first expressed at 10.0 dpc in cells of the
+coelomic epithelium covering the mesonephros, and at 10.5 dpc Mfge8-expressing
+cells were found in the mesenchyme underneath the coelomic epithelium of the
+genital ridges. At 11.5-12.5 dpc, Mfge8 expressing cells were found in the
+stromal tissues subjacent to the coelomic epithelium that envelop the fetal gonad
+of both sexes. MFG-E8 protein was accumulated extracellularly in the interstitial
+tissues at the boundary of the mesonephros and the genital ridges. A comparison
+of the expression domains of Mfge8 and several gene markers showed that Mfge8
+expression did not significantly overlap with the expression domain of Wt1 or
+Emx2, but partially with that of Lhx9 in 11.5-day XY gonads. Comparison of the
+expression pattern of Mfge8 with that of Hsd3beta1 in the 12.5-day testes
+revealed that the Mfge8-positive cells constitute a previously uncharacterized
+somatic cell type which is distinct from Sertoli cells, Leydig cells, peritubular
+myoid cells and the endothelial cells.
+
+PMID: 10960788  [PubMed - indexed for MEDLINE]
+
+
+80. Genomics. 2000 Mar 15;64(3):307-17.
+
+Lhx9 and Lhx9alpha LIM-homeodomain factors: genomic structure, expression
+patterns, chromosomal localization, and phylogenetic analysis.
+
+Failli V(1), Rogard M, Mattei MG, Vernier P, Rétaux S.
+
+Author information: 
+(1)Laboratoire de Neurochimie-Anatomie, Institut des Neurosciences, 9 quai St
+Bernard, Paris, 75005, France.
+
+Lhx9 is a LIM-homeodomain (LIM-hd) transcription factor expressed in the
+embryonic mouse brain. We report the isolation of Lhx9alpha, a cDNA encoding a
+truncated isoform of Lhx9 that lacks the recognition helix of the homeodomain and
+differs from Lhx9 cDNA in its 3'-coding and 3'-UTR sequences. Isolation of the
+Lhx9 gene showed that Lhx9 and Lhx9alpha are coded by six exons spanning 10 kb of
+genomic sequence and that Lhx9alpha is an isoform generated by alternative
+splicing of the fifth exon. Lhx9 was mapped to the subtelomeric region of
+chromosome 1. Further molecular analysis showed that Lhx9 is a new candidate gene
+for the unidentified dreher (dr) mutation in mouse. The comparison of genomic
+structure and molecular phylogenetic analysis led to the identification of six
+groups of LIM-hd proteins, a basis for further classification and knowledge of
+their evolutionary relationships. To investigate a possible role for Lhx9alpha,
+the expression patterns of Lhx9 and Lhx9alpha were compared during embryogenesis.
+Lhx9alpha was expressed at lower levels than Lhx9, with a similar but distinct
+pattern in the brain, especially in the neocortex. We suggest that Lhx9alpha
+could function as an endogenous dominant-negative form of Lhx9 during
+development, both to regulate in space and time the transcriptional effects of
+Lhx9 and to add a degree of refinement to the LIM-hd code.
+
+Copyright 2000 Academic Press.
+
+PMID: 10756098  [PubMed - indexed for MEDLINE]
+
+
+81. Nature. 2000 Feb 24;403(6772):909-13.
+
+The LIM homeobox gene Lhx9 is essential for mouse gonad formation.
+
+Birk OS(1), Casiano DE, Wassif CA, Cogliati T, Zhao L, Zhao Y, Grinberg A, Huang 
+S, Kreidberg JA, Parker KL, Porter FD, Westphal H.
+
+Author information: 
+(1)Laboratory of Mammalian Genes and Development, National Institute of Child
+Health and Human Development, NIH, Bethesda, Maryland 20892, USA.
+
+During mammalian embryonic development, the ovaries and testes develop from
+somatic cells of the urogenital ridges as indifferent gonads, harbouring
+primordial germ cells that have migrated there. After sex determination of the
+gonads, the testes produce testosterone and anti-Mullerian hormone which mediate 
+male sexual differentiation, and the female developmental pathway ensues in their
+absence. Here we show that transcripts of the LIM homeobox gene Lhx9 are present 
+in urogenital ridges of mice at embryonic day 9.5; later they localize to the
+interstitial region as morphological differentiation occurs. In mice lacking Lhx9
+function, germ cells migrate normally, but somatic cells of the genital ridge
+fail to proliferate and a discrete gonad fails to form. In the absence of
+testosterone and anti-Mullerian hormone, genetically male mice are phenotypically
+female. The expression of steroidogenic factor 1 (Sf1), a nuclear receptor
+essential for gonadogenesis, is reduced to minimal levels in the Lhx9-deficient
+genital ridge, indicating that Lhx9 may lie upstream of Sf1 in a developmental
+cascade. Unlike mice lacking other genes that mediate early stages of
+gonadogenesis, Lhx9 mutants do not exhibit additional major developmental
+defects. Thus, LHX9 mutations may underlie certain forms of isolated gonadal
+agenesis in humans.
+
+PMID: 10706291  [PubMed - indexed for MEDLINE]
+
+
+82. Mech Dev. 1999 Mar;81(1-2):193-8.
+
+Characterization of Lhx9, a novel LIM/homeobox gene expressed by the pioneer
+neurons in the mouse cerebral cortex.
+
+Bertuzzi S(1), Porter FD, Pitts A, Kumar M, Agulnick A, Wassif C, Westphal H.
+
+Author information: 
+(1)Laboratory of Mammalian Genes and Development, NICHD, NIH, Bethesda, MD, USA. 
+bertuzzi@salk.edu
+
+In order to explain the phenotype observed in Lhx2 mutant embryos, we previously 
+proposed that an Lhx2 related gene might exist. We now have cloned a new
+LIM/homeobox gene called Lhx9. Lhx9 is closely related to Lhx2 and is expressed
+in the developing central nervous system (CNS). Lhx9 and Lhx2 have expression
+patterns that overlap in some areas but are distinct in others. Thus, in some
+developmental domains these two highly related proteins may be functionally
+redundant. Lhx9 is expressed in the pioneer neurons of the cerebral cortex, while
+Lhx2 is expressed throughout the cortical layers. Postnatally, Lhx9 is expressed 
+in the inner nuclei of the cerebellum, while Lhx2 is in the granular layer. In
+the developing limbs, both genes are highly expressed in a similar pattern. Based
+on the expression pattern and the developmental regulation of Lhx9, we propose
+that Lhx9 may be involved in the specification or function of the pioneer neurons
+of the cerebral cortex. We show that both Lhx9 and Lhx2 bind the LIM domain
+binding protein Ldb1/Nli1/Clim2.
+
+PMID: 10330499  [PubMed - indexed for MEDLINE]
+
+
+83. J Neurosci. 1999 Jan 15;19(2):783-93.
+
+Lhx9: a novel LIM-homeodomain gene expressed in the developing forebrain.
+
+Rétaux S(1), Rogard M, Bach I, Failli V, Besson MJ.
+
+Author information: 
+(1)Laboratoire de Neurochimie-Anatomie, Institut des Neurosciences, 75005 Paris, 
+France.
+
+A novel LIM-homeodomain gene, Lhx9, was isolated by degenerate RT-PCR followed by
+mouse embryonic library screening. Lhx9 cDNA encodes a protein that is most
+closely related to Drosophila apterous and rodent Lhx2 proteins. The Lhx9
+spatiotemporal pattern of expression during embryogenesis was similar but
+distinct from Lhx2. Highest expression levels were found in the diencephalon,
+telencephalic vesicles, and dorsal mesencephalon. Domains of expression respected
+the proposed neuromeric boundaries (). Lhx9 was also expressed in the spinal
+cord, forelimb and hindlimb mesenchyme, and urogenital system. Although Lhx9
+expression was sustained in diencephalon and mesencephalon from embryonic day
+10.5 (E10.5) to postnatal stages, it was transient in the future cerebral cortex,
+where it was turned off between E14.5 and E16.5. Lhx9 expression was highest if
+not exclusively located (depending on the region of interest) in the intermediate
+and mantle zones, as opposed to the mitotic ventricular zone. Lhx9 protein was
+tested for interaction with the recently discovered cofactors of LIM-homeodomain 
+proteins and was found to interact strongly both with CLIM1 and CLIM2. The
+expression pattern and structural characteristics of Lhx9 suggest that it encodes
+a transcription factor that might be involved in the control of cell
+differentiation of several neural cell types. Furthermore, Lhx9 protein could act
+in a combinatorial manner with other LIM-homeodomain factors expressed in
+overlapping pattern.
+
+PMID: 9880598  [PubMed - indexed for MEDLINE]
+
+

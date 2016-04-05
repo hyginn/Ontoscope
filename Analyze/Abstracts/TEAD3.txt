@@ -1,0 +1,1081 @@
+
+1. Mol Psychiatry. 2016 Jan 5. doi: 10.1038/mp.2015.204. [Epub ahead of print]
+
+Common variants on 17q25 and gene-gene interactions conferring risk of
+schizophrenia in Han Chinese population and regulating gene expressions in human 
+brain.
+
+Guan L(1), Wang Q(2), Wang L(2), Wu B(1), Chen Y(3), Liu F(3), Ye F(4), Zhang
+T(4), Li K(5), Yan B(5), Lu C(6), Su L(6), Jin G(7), Wang H(7), Tian H(8), Wang
+L(8), Chen Z(9), Wang Y(9), Chen J(10), Yuan Y(10), Cong W(11), Zheng J(11), Wang
+J(12), Xu X(12), Liu H(13), Xiao W(13), Han C(14), Zhang Y(14), Jia F(15), Qiao
+X(15); Genetic REsearch on schizophrenia neTwork-China and Netherland (GREAT-CN),
+Zhang D(2), Zhang M(1,)(2), Ma H(1).
+
+Author information: 
+(1)Peking University Sixth Hospital, Peking University Institute of Mental
+Health, Key Laboratory of Mental Health, Ministry of Health (Peking University), 
+Beijing, China. (2)Department of Statistics, Purdue University, West Lafayette,
+IN, USA. (3)Xi'an Mental Health Center, Xi'an, China. (4)Shanxi Provincial Mental
+Health Center, Taiyuan, China. (5)The Mental Health Center of Hebei Province,
+Baoding, China. (6)Shandong Mental Health Center, Jinan, China. (7)Mudanjiang
+Neuro-Psychiatric Hospital of Heilongjiang Province, Mudanjiang, China.
+(8)Tianjin Anding Hospital, Tianjin, China. (9)Hangzhou Seventh People's
+Hospital, Hangzhou, China. (10)Chongqing Mental Health Center, Chongqing, China. 
+(11)Neuro-Psychiatric Hospital of Fuzhou, Fujian Province, Fuzhou, China. (12)The
+First Affiliated Hospital of Kunming Medical University, Kunming, China.
+(13)Renmin Hospital of Wuhan University, Wuhan, China. (14)Xicheng Ping'an
+Hospital, Beijing, China. (15)Institute of Guangdong Province, Guangzhou, China.
+
+Recently, two genome-wide association studies (GWASs) of schizophrenia (SCZ) in
+Han Chinese identified several susceptibility loci. Replication efforts aiming to
+validate the GWAS findings were made and focused on the top hits. We conducted a 
+more extensive follow-up study in an independent sample of 1471 cases and 1528
+matched controls to verify 26 genetic variants by including nine top
+single-nucleotide polymorphisms (SNPs) that reached genome-wide significance and 
+17 promising SNPs nominated in the initial discovery phase. rs8073471 in an
+intron of tubulin-folding cofactor D (TBCD) obtained nominal significance
+(P<0.01) in single SNP analysis. Logistic regression identified significant
+interaction between rs3744165 (5'-untranslated region variant of exon 2 of zinc
+finger protein 750 (ZNF750), and in an intron of TBCD) and rs8073471 (Deviance
+test P-value=2.77 × 10(-34)). Both SNPs are located at 17q25, an interesting
+region that has been implicated in SCZ. By using the Genotype-Tissue Expression
+(GTEx) data set, we implemented an expression quantitative trait loci epistasis
+analysis to explore the association between the genotype combinations of the two 
+SNPs and gene expression levels in 13 areas of human central nervous system. We
+observed that rs3744165 × rs8073471 interaction modulated the expression profile 
+of TEAD3 (P=1.87 × 10(-8)), SH3TC2 (P=2.00 × 10(-8)), KCNK9 (P=5.20 × 10(-7)) and
+PPDPF (P=1.13 × 10(-6)) in postmortem cortex tissue; EFNA1 (P=7.26 × 10(-9)),
+RNU4ATAC (P=2.32 × 10(-8)) and NUPL2 (P=6.79 × 10(-8)) in cerebellum tissue. To
+the best of our knowledge, our study is the first one that links TBCD and ZNF750 
+mutations to SCZ susceptibility and to the transcript levels in human brain
+tissues. Further efforts are needed to understand the role of those variants in
+the pathogenesis of SCZ.Molecular Psychiatry advance online publication, 5
+January 2016; doi:10.1038/mp.2015.204.
+
+PMID: 26728569  [PubMed - as supplied by publisher]
+
+
+2. Structure. 2016 Jan 5;24(1):179-86. doi: 10.1016/j.str.2015.11.005. Epub 2015 Dec
+24.
+
+Palmitoylation of TEAD Transcription Factors Is Required for Their Stability and 
+Function in Hippo Pathway Signaling.
+
+Noland CL(1), Gierke S(2), Schnier PD(3), Murray J(1), Sandoval WN(3), Sagolla
+M(2), Dey A(4), Hannoush RN(5), Fairbrother WJ(6), Cunningham CN(7).
+
+Author information: 
+(1)Department of Structural Biology, Genentech, Inc., 1 DNA Way, South San
+Francisco, CA 94080, USA. (2)Center for Advanced Light Microscopy, Genentech,
+Inc., 1 DNA Way, South San Francisco, CA 94080, USA. (3)Department of Protein
+Chemistry, Genentech, Inc., 1 DNA Way, South San Francisco, CA 94080, USA.
+(4)Department of Discovery Oncology, Genentech, Inc., 1 DNA Way, South San
+Francisco, CA 94080, USA. (5)Department of Early Discovery Biochemistry,
+Genentech, Inc., 1 DNA Way, South San Francisco, CA 94080, USA. (6)Department of 
+Early Discovery Biochemistry, Genentech, Inc., 1 DNA Way, South San Francisco, CA
+94080, USA. Electronic address: fairbrother.wayne@gene.com. (7)Department of
+Early Discovery Biochemistry, Genentech, Inc., 1 DNA Way, South San Francisco, CA
+94080, USA. Electronic address: cunningham.christian@gene.com.
+
+The Hippo signaling pathway is responsible for regulating the function of TEAD
+family transcription factors in metazoans. TEADs, with their co-activators
+YAP/TAZ, are critical for controlling cell differentiation and organ size through
+their transcriptional activation of genes involved in cell growth and
+proliferation. Dysregulation of the Hippo pathway has been implicated in multiple
+forms of cancer. Here, we identify a novel form of regulation of TEAD family
+proteins. We show that human TEADs are palmitoylated at a universally conserved
+cysteine, and report the crystal structures of the human TEAD2 and TEAD3
+YAP-binding domains in their palmitoylated forms. These structures show a
+palmitate bound within a highly conserved hydrophobic cavity at each protein's
+core. Our findings also demonstrate that this modification is required for proper
+TEAD folding and stability, indicating a potential new avenue for
+pharmacologically regulating the Hippo pathway through the modulation of TEAD
+palmitoylation.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+PMID: 26724994  [PubMed - in process]
+
+
+3. Circulation. 2015 Nov 24;132(21):1969-78. doi: 10.1161/CIRCULATIONAHA.114.015023.
+Epub 2015 Oct 20.
+
+9p21.3 Coronary Artery Disease Risk Variants Disrupt TEAD Transcription
+Factor-Dependent Transforming Growth Factor ß Regulation of p16 Expression in
+Human Aortic Smooth Muscle Cells.
+
+Almontashiri NA(1), Antoine D(1), Zhou X(1), Vilmundarson RO(1), Zhang SX(1), Hao
+KN(1), Chen HH(2), Stewart AF(2).
+
+Author information: 
+(1)From Ruddy Canadian Cardiovascular Genetics Centre, University of Ottawa Heart
+Institute, Ontario, Canada (N.A.M.A., D.A., R.O.V., S.X.Z., K.N.H., A.F.R.S.);
+Department of Biochemistry, Microbiology, and Immunology, University of Ottawa,
+Ontario, Canada (N.A.M.A., D.A., R.O.V., A.F.R.S.); Center for Genetics and
+Inherited Diseases, Taibah University, Almadina, Saudi Arabia (N.A.M.A.); Ottawa 
+Hospital Research Institute, Ontario, Canada (X.Z.); and Department of Medicine, 
+University of Ottawa, Ontario, Canada (H.-H.C., A.F.R.S.). (2)From Ruddy Canadian
+Cardiovascular Genetics Centre, University of Ottawa Heart Institute, Ontario,
+Canada (N.A.M.A., D.A., R.O.V., S.X.Z., K.N.H., A.F.R.S.); Department of
+Biochemistry, Microbiology, and Immunology, University of Ottawa, Ontario, Canada
+(N.A.M.A., D.A., R.O.V., A.F.R.S.); Center for Genetics and Inherited Diseases,
+Taibah University, Almadina, Saudi Arabia (N.A.M.A.); Ottawa Hospital Research
+Institute, Ontario, Canada (X.Z.); and Department of Medicine, University of
+Ottawa, Ontario, Canada (H.-H.C., A.F.R.S.). astewart@ottawaheart.ca
+hchen@uottawa.ca.
+
+Comment in
+    Circulation. 2015 Nov 24;132(21):1943-5.
+
+BACKGROUND: The mechanism whereby the 9p21.3 locus confers risk for coronary
+artery disease remains incompletely understood. Risk alleles are associated with 
+reduced expression of the cell cycle suppressor genes CDKN2A (p16 and p14) and
+CDKN2B (p15) and increased vascular smooth muscle cell proliferation. We asked
+whether risk alleles disrupt transcription factor binding to account for this
+effect.
+METHODS AND RESULTS: A bioinformatic screen was used to predict which of 59
+single nucleotide polymorphisms at the 9p21.3 locus disrupt (or create)
+transcription factor binding sites. Electrophoretic mobility shift and luciferase
+reporter assays examined the binding and functionality of the predicted
+regulatory sequences. Primary human aortic smooth muscle cells (HAoSMCs) were
+genotyped for 9p21.3, and HAoSMCs homozygous for the risk allele showed reduced
+p15 and p16 levels and increased proliferation. rs10811656 and rs4977757
+disrupted functional TEF-1 TEC1 AbaA domain (TEAD) transcription factor binding
+sites. TEAD3 and TEAD4 overexpression induced p16 in HAoSMCs homozygous for the
+nonrisk allele, but not for the risk allele. Transforming growth factor ß, known 
+to activate p16 and also to interact with TEAD factors, failed to induce p16 or
+to inhibit proliferation of HAoSMCs homozygous for the risk allele. Knockdown of 
+TEAD3 blocked transforming growth factor ß-induced p16 mRNA and protein
+expression, and dual knockdown of TEAD3 and TEAD4 markedly reduced p16 expression
+in heterozygous HAoSMCs.
+CONCLUSIONS: Here, we identify a novel mechanism whereby sequences at the 9p21.3 
+risk locus disrupt TEAD factor binding and TEAD3-dependent transforming growth
+factor ß induction of p16 in HAoSMCs. This mechanism accounts, in part, for the
+9p21.3 coronary artery disease risk.
+
+© 2015 American Heart Association, Inc.
+
+PMID: 26487755  [PubMed - indexed for MEDLINE]
+
+
+4. Int J Cardiol. 2015 Aug 15;193:23-33. doi: 10.1016/j.ijcard.2015.05.019. Epub
+2015 May 8.
+
+Stimulation of cardiomyogenesis from mouse embryonic stem cells by nuclear
+translocation of cardiotrophin-1.
+
+Mascheck L(1), Sharifpanah F(1), Tsang SY(2), Wartenberg M(3), Sauer H(4).
+
+Author information: 
+(1)Department of Physiology, Justus Liebig University Gießen, Germany. (2)School 
+of Life Sciences, The Chinese University of Hong Kong, Hong Kong, China; Partner 
+State Key Laboratory of Agrobiotechnology, The Chinese University of Hong Kong,
+Hong Kong, SAR, China. (3)Clinic of Internal Medicine I, Cardiology Division,
+Friedrich Schiller University Jena, Germany. (4)Department of Physiology, Justus 
+Liebig University Gießen, Germany. Electronic address:
+heinrich.sauer@physiologie.med.uni-giessen.de.
+
+BACKGROUND: Cardiotrophin-1 (CT-1) controls cardiomyogenesis of mouse embryonic
+stem (ES) cells.
+OBJECTIVES: To investigate the signaling pathway underlying the action of CT-1 on
+cardiac cell differentiation.
+METHODS: Protein expression was analyzed by western blot technique and cardiac
+areas by immunohistochemistry. Calcium, reactive oxygen species (ROS) and nitric 
+oxide (NO) were assessed by microfluorometry using fluo-4, H2DCF, and DAF-2DA,
+respectively. Gene inactivation of CT-1 was achieved by siRNA technology.
+RESULTS: CT-1 as well as its receptor gp 130 were transiently upregulated during 
+differentiation of ES cells. Exogenous CT-1 enhanced cardiomyogenesis, increased 
+the cardiac transcription factors MEF2c, Nkx-2.5, TEAD3 and GATA4, the cardiac
+proteins a-actinin, MLC2a, MYH7, MLC1a, MLC2v and HCN4 as well as vascular
+endothelial growth factor (VEGF), platelet-derived growth factor-BB (PDGF-BB),
+fibroblast growth factor-2 (FGF-2) and atrial natriuretic peptide (ANP). CT-1
+downregulation by small interfering RNA (siRNA) inhibited cardiomyogenesis and
+decreased VEGF, PDGF-BB, FGF-2 and ANP expression. CT-1 raised intracellular
+calcium which was abolished by the intracellular calcium chelator BAPTA, AM and
+thapsigargin. Moreover, CT-1 treatment increased ROS, followed by NO generation
+and NOS3 activation. During ES cell differentiation CT-1 was translocated to the 
+cell nucleus. Exogenous CT-1 induced nuclear translocation of endogenous CT-1,
+which was inhibited by BAPTA, the NOS inhibitor L-N(G)-Nitroarginine methyl ester
+(l-NAME), the radical scavenger N-(2-mercaptopropionyl)-glycine (NMPG) as well as
+the janus kinase 2 (JAK2) inhibitor AG490 and the PI3 kinase (PI3K) inhibitor
+LY294002.
+CONCLUSIONS: Nuclear translocation of CT-1 regulates cardiomyogenesis of ES cells
+and involves calcium, NO, ROS as well as CT-1 regulated signaling pathways.
+
+Copyright © 2015. Published by Elsevier Ireland Ltd.
+
+PMID: 26005169  [PubMed - indexed for MEDLINE]
+
+
+5. J Biol Chem. 2015 Jul 3;290(27):16906-17. doi: 10.1074/jbc.M115.642363. Epub 2015
+May 20.
+
+Hippo Component TAZ Functions as a Co-repressor and Negatively Regulates <U+0394>Np63
+Transcription through TEA Domain (TEAD) Transcription Factor.
+
+Valencia-Sama I(1), Zhao Y(1), Lai D(1), Janse van Rensburg HJ(1), Hao Y(1), Yang
+X(2).
+
+Author information: 
+(1)From the Department of Pathology and Molecular Medicine, Queen's University,
+Kingston, Ontario K7L 3N6, Canada. (2)From the Department of Pathology and
+Molecular Medicine, Queen's University, Kingston, Ontario K7L 3N6, Canada
+yang@path.queensu.ca.
+
+Transcriptional co-activator with a PDZ binding domain (TAZ) is a WW
+domain-containing transcriptional co-activator and a core component of an
+emerging Hippo signaling pathway that regulates organ size, tumorigenesis,
+metastasis, and drug resistance. TAZ regulates these biological functions by
+up-regulating downstream cellular genes through transactivation of transcription 
+factors such as TEAD and TTF1. To understand the molecular mechanisms underlying 
+TAZ-induced tumorigenesis, we have recently performed a gene expression profile
+analysis by overexpressing TAZ in mammary cells. In addition to the
+TAZ-up-regulated genes that were confirmed in our previous studies, we identified
+a large number of cellular genes that were down-regulated by TAZ. In this study, 
+we have confirmed these down-regulated genes (including cytokines, chemokines,
+and p53 gene family members) as bona fide downstream transcriptional targets of
+TAZ. By using human breast and lung epithelial cells, we have further
+characterized <U+0394>Np63, a p53 gene family member, and shown that TAZ suppresses
+<U+0394>Np63 mRNA, protein expression, and promoter activity through interaction with
+the transcription factor TEAD. We also show that TEAD can inhibit <U+0394>Np63 promoter 
+activity and that TAZ can directly interact with <U+0394>Np63 promoter-containing TEAD
+binding sites. Finally, we provide functional evidence that down-regulation of
+<U+0394>Np63 by TAZ may play a role in regulating cell migration. Altogether, this study
+provides novel evidence that the Hippo component TAZ can function as a
+co-repressor and regulate biological functions by negatively regulating
+downstream cellular genes.
+
+© 2015 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+PMCID: PMC4505436 [Available on 2016-07-03]
+PMID: 25995450  [PubMed - indexed for MEDLINE]
+
+
+6. Biochem Biophys Res Commun. 2015 Feb 27;458(1):110-6. doi:
+10.1016/j.bbrc.2015.01.077. Epub 2015 Jan 26.
+
+YAP/TAZ enhance mammalian embryonic neural stem cell characteristics in a
+Tead-dependent manner.
+
+Han D(1), Byun SH(1), Park S(1), Kim J(1), Kim I(1), Ha S(1), Kwon M(1), Yoon
+K(2).
+
+Author information: 
+(1)College of Biotechnology and Bioengineering, Sungkyunkwan University, Suwon,
+Gyeonggi-do 440-746, South Korea. (2)College of Biotechnology and Bioengineering,
+Sungkyunkwan University, Suwon, Gyeonggi-do 440-746, South Korea. Electronic
+address: keejung@skku.edu.
+
+Mammalian brain development is regulated by multiple signaling pathways
+controlling cell proliferation, migration and differentiation. Here we show that 
+YAP/TAZ enhance embryonic neural stem cell characteristics in a cell autonomous
+fashion using diverse experimental approaches. Introduction of retroviral vectors
+expressing YAP or TAZ into the mouse embryonic brain induced cell localization in
+the ventricular zone (VZ), which is the embryonic neural stem cell niche. This
+change in cell distribution in the cortical layer is due to the increased
+stemness of infected cells; YAP-expressing cells were colabeled with Sox2, a
+neural stem cell marker, and YAP/TAZ increased the frequency and size of
+neurospheres, indicating enhanced self-renewal- and proliferative ability of
+neural stem cells. These effects appear to be TEA domain family transcription
+factor (Tead)-dependent; a Tead binding-defective YAP mutant lost the ability to 
+promote neural stem cell characteristics. Consistently, in utero gene transfer of
+a constitutively active form of Tead2 (Tead2-VP16) recapitulated all the features
+of YAP/TAZ overexpression, and dominant negative Tead2-EnR resulted in marked
+cell exit from the VZ toward outer cortical layers. Taken together, these results
+indicate that the Tead-dependent YAP/TAZ signaling pathway plays important roles 
+in neural stem cell maintenance by enhancing stemness of neural stem cells during
+mammalian brain development.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+PMID: 25634692  [PubMed - indexed for MEDLINE]
+
+
+7. Int J Cancer. 2015 Aug 1;137(3):638-45. doi: 10.1002/ijc.29429. Epub 2015 Jan 28.
+
+Genetic variants in Hippo pathway genes YAP1, TEAD1 and TEAD4 are associated with
+melanoma-specific survival.
+
+Yuan H(1,)(2,)(3), Liu H(1,)(2), Liu Z(1,)(2), Zhu D(4), Amos CI(4), Fang S(5),
+Lee JE(5), Wei Q(1,)(2).
+
+Author information: 
+(1)Duke Cancer Institute, Duke University Medical Center, Durham, NC.
+(2)Department of Medicine, Duke University School of Medicine, Durham, NC.
+(3)Department of Oral and Maxillofacial Surgery, Affiliated Hospital of
+Stomatology, Nanjing Medical University, Nanjing, China. (4)Community and Family 
+Medicine, Geisel School of Medicine, Dartmouth College, Hanover, NH.
+(5)Department of Surgical Oncology, The University of Texas M. D. Anderson Cancer
+Center, Houston, TX.
+
+Cutaneous melanoma (CM) is the most lethal form of skin cancers. The Hippo
+pathway controls cell migration, development and sizes of the organs in diverse
+species, and deregulation of this pathway may affect CM progression and
+prognosis. Therefore, we hypothesized that genetic variants of Hippo pathway
+genes might predict survival of CM patients. We used the genotyping data of 1,115
+common single nucleotide polymorphisms (SNPs) in the 12 pathway core genes (i.e.,
+MST1, MST2, SAV1, LATS1, LATS2, MOB1A, MOB1B, YAP1, TEAD1, TEAD2, TEAD3 and
+TEAD4) from the dataset of our previously published CM genome-wide association
+study and comprehensively analyzed their associations with CM-specific survival
+(CSS) in 858 CM patients by using the Kaplan-Meier analyses and Cox proportional 
+hazards regression models. We found a predictive role of YAP1 rs11225163 CC,
+TEAD1 rs7944031 AG+GG and TEAD4 rs1990330 CA+AA in the prognosis of CM. In
+addition, patients with an increasing number of unfavorable genotypes (NUG) had a
+markedly increased risk of death. After incorporating NUG in the model with
+clinical variables, the new model showed a significantly improved discriminatory 
+ability to classify CSS (AUC increased from 82.03% to 84.56%). Our findings
+suggest that genetic variants of Hippo pathway genes, particularly YAP1
+rs11225163, TEAD1 rs7944031 and TEAD4 rs1990330, may independently or jointly
+modulate survival of CM patients. Additional large, prospective studies are
+needed to validate these findings.
+
+© 2015 UICC.
+
+PMCID: PMC4437894 [Available on 2016-08-01]
+PMID: 25628125  [PubMed - indexed for MEDLINE]
+
+
+8. Mol Hum Reprod. 2014 Jul;20(7):677-89. doi: 10.1093/molehr/gau020. Epub 2014 Mar 
+12.
+
+Activation of endocrine-related gene expression in placental choriocarcinoma cell
+lines following DNA methylation knock-down.
+
+Hogg K(1), Robinson WP(2), Beristain AG(3).
+
+Author information: 
+(1)Department of Medical Genetics, University of British Columbia, Vancouver, BC,
+Canada Child & Family Research Institute, Vancouver, BC, Canada khogg@cfri.ca.
+(2)Department of Medical Genetics, University of British Columbia, Vancouver, BC,
+Canada Child & Family Research Institute, Vancouver, BC, Canada. (3)Child &
+Family Research Institute, Vancouver, BC, Canada Department of Obstetrics and
+Gynaecology, University of British Columbia, Vancouver, BC, Canada.
+
+Increasingly, placental DNA methylation is assessed as a factor in
+pregnancy-related complications, yet the transcriptional impact of such findings 
+is not always clear. Using a proliferative in vitro placental model, the effect
+of DNA methylation loss on gene activation was evaluated at a number of genes
+selected for being differentially methylated in pre-eclampsia-associated
+placentae in vivo. We aimed to determine whether reduced DNA methylation at
+specific loci was associated with transcriptional changes at the corresponding
+gene, thus providing mechanistic underpinnings for previous clinical findings and
+to assess the degree of transcriptional response amongst our candidate genes.
+BeWo and JEG3 choriocarcinoma cells were exposed to 1 µM 5-Aza-2'-deoxycytidine
+(5-Aza-CdR) or vehicle control for 48 h, and re-plated and cultured for a further
+72 h in normal media before cells were harvested for RNA and DNA. Bisulphite
+pyrosequencing confirmed that DNA methylation was reduced by ~30-50% points at
+the selected loci studied in both cell lines. Gene activation, measured by
+qRT-PCR, was highly variable and transcript specific, indicating differential
+sensitivity to DNA methylation. Most notably, loss of DNA methylation at the
+leptin (LEP) promoter corresponded to a 200-fold and 40-fold increase in LEP
+expression in BeWo and JEG3 cells, respectively (P < 0.01). Transcripts of
+steroidogenic pathway enzymes CYP11A1 and HSD3B1 were up-regulated ~40-fold in
+response to 5-Aza-CdR exposure in BeWo cells (P < 0.01). Other transcripts,
+including aromatase (CYP19), HSD11B2, inhibin (INHBA) and glucocorticoid receptor
+(NR3C1) were more moderately, although significantly, affected by loss of
+associated DNA methylation. These data present a mixed effect of DNA methylation 
+changes at selected loci supporting cautionary interpretation of DNA methylation 
+results in the absence of functional data.
+
+© The Author 2014. Published by Oxford University Press on behalf of the European
+Society of Human Reproduction and Embryology. All rights reserved. For
+Permissions, please email: journals.permissions@oup.com.
+
+PMID: 24623739  [PubMed - indexed for MEDLINE]
+
+
+9. Vascul Pharmacol. 2014 Jan;60(1):8-16. doi: 10.1016/j.vph.2013.10.004. Epub 2013 
+Nov 5.
+
+Simvastatin-enhanced expression of promyogenic nuclear factors and
+cardiomyogenesis of murine embryonic stem cells.
+
+Yang C(1), Madonna R(2), Li Y(2), Zhang Q(3), Shen WF(3), McNamara K(2), Yang
+YJ(4), Geng YJ(5).
+
+Author information: 
+(1)The Center for Cardiovascular Biology and Atherosclerosis Research, The
+University of Texas Medical School at Houston, Houston, TX USA; The Department of
+Obstetrics and Gynecology, Ruijin Hospital, Jiao-Tong University Medical School, 
+Shanghai, China; Texas Heart Institute, Houston, TX, USA. (2)The Center for
+Cardiovascular Biology and Atherosclerosis Research, The University of Texas
+Medical School at Houston, Houston, TX USA; Texas Heart Institute, Houston, TX,
+USA. (3)The Department of Cardiovascular Medicine, Ruijin Hospital, Jiao-Tong
+University Medical School, Shanghai, China. (4)FuWai Cardiovascular Hospital,
+Chinese Academy of Medical Sciences, Beijing, China. (5)The Center for
+Cardiovascular Biology and Atherosclerosis Research, The University of Texas
+Medical School at Houston, Houston, TX USA; Texas Heart Institute, Houston, TX,
+USA. Electronic address: yong-jian.geng@uth.tmc.edu.
+
+A combination of statin and stem cell therapies has been shown to benefit in
+experimental models of myocardial infarction. This study tests whether treatment 
+with simvastatin has a direct impact on the cardiomyogenic development of murine 
+embryonic stem cells (ESCs) in embryoid bodies. In a concentration-dependent
+manner, simvastatin treatment enhanced expression of several promyogenic nuclear 
+transcription factors, including GATA4, Nkx2.5, DTEF-1 and myocardin A. The
+statin-treated cells also displayed higher levels of cardiac proteins, including 
+myosin, a-actinin, Ryanodine receptor-2, and atrial natriuretic peptide, and they
+developed synchronized contraction. The statin's promyogenic effect was partially
+diminished by the addition of the two isoprenoids FPP and GGPP, which are
+intermediates of cholesterol synthesis. Thus, simvastatin treatment enhances ESC 
+myogenesis during early development perhaps via a mechanism inhibiting the
+mevalonate-FPP/GGPP pathway.
+
+© 2013.
+
+PMID: 24200505  [PubMed - indexed for MEDLINE]
+
+
+10. PLoS One. 2013 May 7;8(5):e62969. doi: 10.1371/journal.pone.0062969. Print 2013.
+
+Early onset pre-eclampsia is associated with altered DNA methylation of
+cortisol-signalling and steroidogenic genes in the placenta.
+
+Hogg K(1), Blair JD, McFadden DE, von Dadelszen P, Robinson WP.
+
+Author information: 
+(1)Department of Medical Genetics, University of British Columbia, Vancouver,
+British Columbia, Canada.
+
+Placental cortisol is inactivated in normotensive pregnancies, but is frequently 
+present in pre-eclampsia associated placentae. Since glucocorticoids are strongly
+associated with the programming of long-term health, we assessed DNA methylation 
+of genes involved in cortisol signalling and bioavailability, and hormonal
+signalling in the placenta of normotensive and hypertensive pregnancies.
+Candidate genes/CpG sites were selected through analysis of Illumina Infinium
+HumanMethylation450 BeadChip array data on control (n<U+200A>=<U+200A>19) and early onset
+pre-eclampsia (EOPET; n<U+200A>=<U+200A>19) placental samples. DNA methylation was further
+quantified by bisulfite pyrosequencing in a larger cohort of control (n<U+200A>=<U+200A>111)
+cases, in addition to EOPET (n<U+200A>=<U+200A>19), late onset pre-eclampsia (LOPET; n<U+200A>=<U+200A>18)
+and normotensive intrauterine growth restriction (nIUGR; n<U+200A>=<U+200A>13) cases. DNA
+methylation (percentage points) was increased at CpG sites within genes encoding 
+the glucocorticoid receptor (NR3C1 exon 1D promoter; +8.46%; P<0.01) and
+corticotropin releasing hormone (CRH) binding protein (CRHBP intron 3; +9.14%;
+P<0.05), and decreased within CRH (5' UTR; -4.30%; P<U+200A>=<U+200A>0.11) in EOPET-associated 
+placentae, but not in LOPET nor nIUGR cases, compared to controls. Differential
+DNA methylation was not observed among groups at the 11ß-hydroxysteroid
+dehydrogenase type 2 (HSD11B2) gene promoter. Significant hypomethylation was
+observed in pre-eclampsia but not nIUGR placentae for steroidogenic genes,
+including CYP11A1 (exon1; EOPET; -9.66%; P<0.00001, and LOPET; -5.77%; P<0.001), 
+3ß-hydroxy-delta-5-steroid dehydrogenase type 1 (HSD3B1 exon 2; EOPET; -12.49%;
+P<0.00001, and LOPET; -6.88%; P<0.001), TEA domain family member 3 (TEAD3 intron 
+1; EOPET; -12.56%; P<0.00001) and CYP19 (placental-specific exon 1.1 promoter;
+EOPET; -10.62%, P<0.0001). These data represent dysregulation of the placental
+epigenome in pre-eclampsia related to genes involved in maintaining the hormonal 
+environment during pregnancy and highlights particular susceptibility in the
+early onset syndrome.
+
+PMCID: PMC3647069
+PMID: 23667551  [PubMed - indexed for MEDLINE]
+
+
+11. Cancer Res. 2013 Jun 15;73(12):3615-24. doi: 10.1158/0008-5472.CAN-12-3793. Epub 
+2013 Apr 10.
+
+YAP/TEAD-mediated transcription controls cellular senescence.
+
+Xie Q(1), Chen J, Feng H, Peng S, Adams U, Bai Y, Huang L, Li J, Huang J, Meng S,
+Yuan Z.
+
+Author information: 
+(1)State Key Laboratory of Brain and Cognitive Sciences, Institute of Biophysics,
+Chinese Academy of Sciences, Beijing, China.
+
+Transcription coactivator Yes-associated protein (YAP) plays an important role in
+the regulation of cell proliferation and apoptosis. Here, we identify a new role 
+of YAP in the regulation of cellular senescence. We find that the expression
+levels of YAP proteins decrease following the replication-induced cellular
+senescence in IMR90 cells. Silencing of YAP inhibits cell proliferation and
+induces premature senescence. In additional experiments, we observe that cellular
+senescence induced by YAP deficiency is TEAD- and Rb/p16/p53-dependent.
+Furthermore, we show that Cdk6 is a direct downstream target gene of YAP in the
+regulation of cellular senescence, and the expression of Cdk6 is through the
+YAP-TEAD complex. Ectopic expression of Cdk6 rescued YAP knockdown-induced
+senescence. Finally, we find that downregulation of YAP in tumor cells increases 
+senescence in response to chemotherapeutic agents, and YAP or Cdk6 expression
+rescues cellular senescence. Taken together, our findings define the critical
+role of YAP in the regulation of cellular senescence and provide a novel insight 
+into a potential chemotherapeutic avenue for tumor suppression.
+
+©2013 AACR.
+
+PMID: 23576552  [PubMed - indexed for MEDLINE]
+
+
+12. J Anim Breed Genet. 2012 Aug;129(4):325-35. doi:
+10.1111/j.1439-0388.2011.00979.x. Epub 2011 Nov 23.
+
+Molecular characterization of the porcine TEAD3 (TEF-5) gene: examination of a
+promoter mutation as the causal mutation of a quantitative trait loci affecting
+the androstenone level in boar fat.
+
+Robic A(1), Larzul C, Grindflek E, Chevillon P, Hofer A, Fève K, Iannuccelli N,
+Milan D, Prunier A, Riquet J.
+
+Author information: 
+(1)INRA, Laboratoire de Génétique Cellulaire, Castanet-Tolosan, France.
+annie.robic@toulouse.inra.fr
+
+A quantitative trait loci (QTL) for accumulation of androstenone in fat has been 
+identified in an Large White × Meishan cross in a region of SSC7-containing
+TEAD3. In humans, TEAD3 is a transcription activator, known to be able to
+regulate the transcription of HSD3B. This enzyme is involved in the degradation
+of androstenone in the liver. In this study, porcine transcripts of TEAD3 were
+characterized and compared with mammalian transcripts. The complete structure of 
+porcine TEAD3 gene was characterized including two 5' non-coding exons and one
+exon 5 not used in porcine transcripts. Variations were screened in sequences
+related to TEAD3: in exons, in flanking sequences of exons and in the promoter
+region. A SNP characterized at 726 bp at 5' of the first exon was tested on
+several pig populations without coherent and convincing results concerning its
+association with androstenone levels. We showed that in the liver of adult boars,
+the transcripts levels of TEAD3 and HSD3B were correlated. As in humans, it is
+possible that HSD3B is a target gene of TEAD3 in porcine liver. Nevertheless, no 
+expression variation was observed for TEAD3 or HSD3B in liver between animals
+with different genotypes at the SNP. We concluded that this SNP was not the
+causal mutation of this QTL.
+
+© 2011 Blackwell Verlag GmbH.
+
+PMID: 22775265  [PubMed - indexed for MEDLINE]
+
+
+13. BMC Cancer. 2011 Dec 20;11:523. doi: 10.1186/1471-2407-11-523.
+
+Downregulation of SAV1 plays a role in pathogenesis of high-grade clear cell
+renal cell carcinoma.
+
+Matsuura K(1), Nakada C, Mashio M, Narimatsu T, Yoshimoto T, Tanigawa M,
+Tsukamoto Y, Hijiya N, Takeuchi I, Nomura T, Sato F, Mimata H, Seto M, Moriyama
+M.
+
+Author information: 
+(1)Department of Molecular Pathology, Oita University, Oita, Japan.
+
+BACKGROUND: Clinical outcome of patients with high-grade ccRCC (clear cell renal 
+cell carcinoma) remains still poor despite recent advances in treatment
+strategies. Molecular mechanism of pathogenesis in developing high-grade ccRCC
+must be clarified. In the present study, we found that SAV1 was significantly
+downregulated with copy number loss in high-grade ccRCCs. Therefore, we
+investigated the SAV1 function on cell proliferation and apoptosis in vitro.
+Furthermore, we attempted to clarify the downstream signaling which is regulated 
+by SAV1.
+METHODS: We performed array CGH and gene expression analysis of 8 RCC cell lines 
+(786-O, 769-P, KMRC-1, KMRC-2, KMRC-3, KMRC-20, TUHR4TKB, and Caki-2), and
+expression level of mRNA was confirmed by quantitative RT-PCR (qRT-PCR) analysis.
+We next re-expressed SAV1 in 786-O cells, and analyzed its colony-forming
+activity. Then, we transfected siRNAs of SAV1 into the kidney epithelial cell
+line HK2 and renal proximal tubule epithelial cells (RPTECs), and analyzed their 
+proliferation and apoptosis. Furthermore, the activity of YAP1, which is a
+downstream molecule of SAV1, was evaluated by western blot analysis, reporter
+assay and immunohistochemical analysis.
+RESULTS: We found that SAV1, a component of the Hippo pathway, is frequently
+downregulated in high-grade ccRCC. SAV1 is located on chromosome 14q22.1, where
+copy number loss had been observed in 7 of 12 high-grade ccRCCs in our previous
+study, suggesting that gene copy number loss is responsible for the
+downregulation of SAV1. Colony-forming activity by 786-O cells, which show
+homozygous loss of SAV1, was significantly reduced when SAV1 was re-introduced
+exogenously. Knockdown of SAV1 promoted proliferation of HK2 and RPTEC. Although 
+the phosphorylation level of YAP1 was low in 786-O cells, it was elevated in
+SAV1-transduced 786-O cells. Furthermore, the transcriptional activity of the
+YAP1 and TEAD3 complex was inhibited in SAV1-transduced 786-O cells.
+Immunohistochemistry frequently demonstrated nuclear localization of YAP1 in
+ccRCC cases with SAV1 downregulation, and it was preferentially detected in
+high-grade ccRCC.
+CONCLUSIONS: Taken together, downregulation of SAV1 and the consequent YAP1
+activation are involved in the pathogenesis of high-grade ccRCC. It is an
+attractive hypothesis that Hippo signaling could be candidates for new
+therapeutic target.
+
+PMCID: PMC3292516
+PMID: 22185343  [PubMed - indexed for MEDLINE]
+
+
+14. Anim Genet. 2011 Dec;42(6):662-5. doi: 10.1111/j.1365-2052.2011.02195.x. Epub
+2011 Apr 13.
+
+Expression levels of 25 genes in liver and testis located in a QTL region for
+androstenone on SSC7q1.2.
+
+Robic A(1), Fève K, Larzul C, Billon Y, van Son M, Liaubet L, Sarry J, Milan D,
+Grindflek E, Bidanel JP, Riquet J.
+
+Author information: 
+(1)INRA, UMR444, Laboratoire de Génétique Cellulaire, Castanet-Tolosan, France.
+annie.robic@toulouse.inra.fr
+
+A quantitative trait locus (QTL) for boar fat androstenone levels has been
+identified near the SSC7 centromere in a Large White × Meishan cross. Backcrosses
+were produced to isolate the Chinese haplotype in a European genetic background. 
+The expression of 25 genes from the QTL region was studied in the testes and
+livers of 5-month-old backcross boars, with the aim of identifying the causal
+gene. Using Fluidigm, a new high-throughput technology, the expression of 25
+genes was measured in a single real-time PCR experiment. This study found six
+significantly down-regulated genes (C6ORF106, C6ORF81, CLPS, SLC26A8, SRPK1 and
+MAPK14) in the testes of MS-LW backcross boars. However, according to current
+knowledge, none of the genes appear to be related to androstenone metabolism. In 
+the livers, none of the genes were significantly up- or down-regulated, including
+TEAD3, which was previously designated as a possible candidate to explain this
+QTL.
+
+© 2011 The Authors, Animal Genetics © 2011 Stichting International Foundation for
+Animal Genetics.
+
+PMID: 22035010  [PubMed - indexed for MEDLINE]
+
+
+15. J Radiat Res. 2011;52(1):39-46.
+
+Gene silencing of Tead3 abrogates radiation-induced adaptive response in cultured
+mouse limb bud cells.
+
+Vares G(1), Wang B, Tanaka K, Shang Y, Taki K, Nakajima T, Nenoi M.
+
+Author information: 
+(1)National Institute of Radiological Sciences, Chiba, Japan. vares@nirs.go.jp
+
+There is a crucial need to better understand the effects of low-doses of ionizing
+radiation in fetal models. Radiation-induced adaptive response (AR) was described
+in mouse embryos pre-exposed in utero to low-doses of X-rays, which exhibited
+lower apoptotic levels in the limb bud. We previously described AR-specific gene 
+modulations in the mouse embryo. In this study, we evaluated the role of three
+candidate genes in the apoptotic AR in a micromass culture of limb bud cells:
+Csf1, Cacna1a and Tead3. Gene silencing of these three genes abrogated AR.
+Knowing that TEAD3 protein levels are significantly higher in adapted cells and
+that YAP/TAZ/TEAD are involved in the control of cell proliferation and
+apoptosis, we suggest that modulation of Tead3 could play a role in the induction
+of AR in our model, seen as a reduction of radiation-induced apoptosis and a
+stimulation of proliferation and differentiation in limb bud cells.
+
+PMID: 21293071  [PubMed - indexed for MEDLINE]
+
+
+16. Genes Dev. 2008 Dec 1;22(23):3320-34. doi: 10.1101/gad.1726608. Epub 2008 Nov 17.
+
+YAP regulates neural progenitor cell number via the TEA domain transcription
+factor.
+
+Cao X(1), Pfaff SL, Gage FH.
+
+Author information: 
+(1)Laboratory of Genetics, The Salk Institute for Biological Studies, La Jolla,
+California 92037, USA.
+
+Tight control of cell proliferation is essential for proper growth during
+development and for tissue homeostasis in mature animals. The evolutionarily
+conserved Hippo pathway restrains proliferation through a kinase cascade that
+culminates in the inhibition of the transcriptional coactivator YAP.
+Unphosphorylated YAP activates genes involved in cell proliferation and survival 
+by interacting with a DNA-binding factor. Here we show that during vertebrate
+neural tube development, the TEA domain transcription factor (TEAD) is the
+cognate DNA-binding partner of YAP. YAP and TEAD gain of function causes marked
+expansion of the neural progenitor population, partly owing to their ability to
+promote cell cycle progression by inducing cyclin D1 and to inhibit
+differentiation by suppressing NeuroM. Their loss of function results in
+increased apoptosis, whereas repressing their target genes leads to premature
+neuronal differentiation. Inhibiting the upstream kinases of the Hippo pathway
+also causes neural progenitor overproliferation. Thus, the Hippo pathway plays
+critical roles in regulating neural progenitor cell number by affecting
+proliferation, fate choice, and cell survival.
+
+PMCID: PMC2600760
+PMID: 19015275  [PubMed - indexed for MEDLINE]
+
+
+17. Int J Dev Biol. 2007;51(8):745-52.
+
+Differential expression of two TEF-1 (TEAD) genes during Xenopus laevis
+development and in response to inducing factors.
+
+Naye F(1), Tréguer K, Soulet F, Faucheux C, Fédou S, Thézé N, Thiébaud P.
+
+Author information: 
+(1)UMR CNRS 5164, Universite Bordeaux 2, Bordeaux, France.
+
+Transcription enhancer factors 1 (TEF-1 or TEAD) make a highly conserved family
+of eukaryotic DNA binding proteins that activate not only viral regulatory
+elements but muscle specific genes and are involved in several developmental
+processes. In this study, we report the identification and the expression pattern
+of NTEF-1 (TEAD1) and DTEF-1 (TEAD3), two members of this family in Xenopus
+laevis. Both X. laevis NTEF-1 (XNTEF-1 or XTEAD1) and DTEF-1 (XDTEF-1 or XTEAD3) 
+possess a 72 amino acid TEA domain characteristic of TEF-1 proteins. XNTEF-1 is a
+426 amino acid protein that has 96% identity with the avian or the mammalian
+NTEF-1 proteins while XDTEF-1 is a 433 amino acid protein with 77 to 80% identity
+with the avian and mammalian DTEF-1 sequences respectively. Temporal expression
+analysis by RT-PCR indicated that the two genes are expressed maternally and
+throughout embryonic development. In the adult, the two genes are broadly
+expressed although they showed differences of expression between tissues. Spatial
+expression analysis by whole mount in situ hybridization showed that the XNTEF-1 
+and XDTEF-1 mRNAS were predominantly detected in eye, embryonic brain, somites
+and heart. In animal cap assay, the two genes are activated by bFGF but are
+differently regulated by BMP4, and the muscle regulatory factor Mef2d.
+
+PMID: 17939122  [PubMed - indexed for MEDLINE]
+
+
+18. Mol Endocrinol. 2004 Aug;18(8):2049-60. Epub 2004 May 6.
+
+Transcription enhancer factor-5 and a GATA-like protein determine
+placental-specific expression of the Type I human 3beta-hydroxysteroid
+dehydrogenase gene, HSD3B1.
+
+Peng L(1), Huang Y, Jin F, Jiang SW, Payne AH.
+
+Author information: 
+(1)Division of Reproductive Biology, Department of Obstetrics and Gynecology,
+Stanford University School of Medicine, 300 Pasteur Drive, Stanford, California
+94305-5317, USA.
+
+The enzyme 3beta-hydroxysteroid dehydrogenase/isomerase (3betaHSD) is required
+for the biosynthesis of all active steroid hormones. It exists as multiple
+isoforms in humans and rodents, each a product of a distinct gene. Two isoforms, 
+3betaHSD I and II, are expressed in a tissue-specific manner in humans. 3betaHSD 
+I is the only isoform expressed in the placenta, where it is required for the
+biosynthesis of progesterone and thus essential for the maintenance of pregnancy.
+We recently identified two transcription factors, activating protein-2gamma
+(AP-2gamma) and the homeodomain protein, distaless-3 (Dlx-3), that are expressed 
+in both human and mouse trophoblast cells that were shown to be required for
+trophoblast-specific expression of the orthologous murine 3betaHSD, 3betaHSD VI. 
+Although we identified specific binding sites for AP-2gamma and Dlx-3 in the
+distal promoter of the human 3betaHSD I gene, HSD3B1, it was found that these
+transcription factors were not involved in determining placental-specific
+expression of human 3betaHSD I. Instead, a 53-bp placental-specific enhancer
+element located between -2570 and -2518 of the HSD3B1 promoter was identified.
+Within this 53-bp element, two potential placental transcription factor binding
+sites were found. EMSAs with a 20-bp oligonucleotide containing these two
+potential placental-specific binding sites identified one of the binding sites
+specific for the transcription enhancer factor (TEF)-5, which is highly expressed
+in human placenta and in placental choriocarcinoma-derived JEG-3 cells and the
+other overlapping binding site, specific for a GATA-like protein. Site-specific
+mutations in either the TEF-5 binding site or in the GATA binding site, each
+resulted in complete loss of enhancer activity. The data indicate that TEF-5 and 
+the GATA-like protein act in a coordinate manner to determine the
+placental-specific expression of the human 3betaHSD I enzyme and therefore are
+critical for placental progesterone production required for the maintenance of
+pregnancy.
+
+PMCID: PMC3273420
+PMID: 15131259  [PubMed - indexed for MEDLINE]
+
+
+19. Biochem Biophys Res Commun. 2002 Sep 6;296(5):1279-85.
+
+TEF-1 transcription factors regulate activity of the mouse mammary tumor virus
+LTR.
+
+Maeda T(1), Maeda M, Stewart AF.
+
+Author information: 
+(1)Cardiovascular Institute, School of Medicine, University of Pittsburgh, BST
+1704.3, 200 Lothrop Street, 15213, Pittsburgh, PA, USA.
+
+The mouse mammary tumor virus long terminal repeat (LTR) is a potent
+transcriptional enhancer. We identified several putative binding sites for the
+TEF-1 family of transcription factors (TEF-1, RTEF-1, DTEF-1, and ETF) in the
+proximal negative regulatory element of the LTR. Gel mobility shift assays
+revealed strong TEF-1 factor binding to one site using nuclear extracts from CV-1
+cells and from the human breast cancer cell line MCF-7. Mutation of this site
+increased basal activity of the LTR. In transient transfection assays, TEF-1
+squelched the basal LTR activity and completely abrogated the response to the
+glucocorticoid dexamethasone. RTEF-1 and DTEF-1 had little effect on the basal
+activity, whereas ETF activated the LTR. These TEF-1 factors also interfered with
+the response to dexamethasone. Taken together, our results reveal an important
+new role for TEF-1 factors in regulating MMTV LTR activity and suggest that TEF-1
+factors might participate in mammary tumorigenesis.
+
+PMID: 12207913  [PubMed - indexed for MEDLINE]
+
+
+20. J Biol Chem. 2002 Jul 5;277(27):24346-52. Epub 2002 May 1.
+
+Mouse DTEF-1 (ETFR-1, TEF-5) is a transcriptional activator in alpha 1-adrenergic
+agonist-stimulated cardiac myocytes.
+
+Maeda T(1), Mazzulli JR, Farrance IK, Stewart AF.
+
+Author information: 
+(1)Cardiovascular Institute, School of Medicine, University of Pittsburgh,
+Pittsburgh, Pennsylvania 15213, USA.
+
+alpha(1)-Adrenergic signaling in cardiac myocytes activates the skeletal muscle
+alpha-actin gene through an MCAT cis-element, the binding site of the
+transcriptional enhancer factor-1 (TEF-1) family of transcription factors. TEF-1 
+accounts for more than 85% of the MCAT binding activity in neonatal rat cardiac
+myocytes. Other TEF-1 family members account for the rest. Although TEF-1 itself 
+has little effect on the alpha(1)-adrenergic activation of skeletal muscle
+alpha-actin, the related factor RTEF-1 augments the response and is a target of
+alpha(1)-adrenergic signaling. Here, we examined another TEF-1 family member
+expressed in cardiac muscle, DTEF-1, and observed that it also augmented the
+alpha(1)-adrenergic response of skeletal muscle alpha-actin. A DTEF-1
+peptide-specific antibody revealed that endogenous DTEF-1 accounts for up to 5%
+of the MCAT binding activity in neonatal rat cardiac myocytes. A TEF-1/DTEF-1
+chimera suggests that alpha(1)-adrenergic signaling modulates DTEF-1 function.
+Orthophosphate labeling and immunoprecipitation of an epitope-tagged DTEF-1
+showed that DTEF-1 is phosphorylated in vivo. alpha(1)-Adrenergic stimulation
+increased while phosphatase treatment lowered the MCAT binding by DTEF-1 and the 
+endogenous non-TEF-1 MCAT-binding factor. In contrast, alpha(1)-adrenergic
+stimulation did not alter, and phosphatase treatment increased, MCAT binding of
+TEF-1 and RTEF-1. Taken together, these results suggest that DTEF-1 is a target
+for alpha(1)-adrenergic activation of the skeletal muscle alpha-actin gene in
+neonatal rat cardiac myocytes.
+
+PMID: 11986313  [PubMed - indexed for MEDLINE]
+
+
+21. Dev Biol. 2001 Jul 15;235(2):507-20.
+
+Novel cell lines promote the discovery of genes involved in early heart
+development.
+
+Brunskill EW(1), Witte DP, Yutzey KE, Potter SS.
+
+Author information: 
+(1)Division of Developmental Biology, Children's Hospital Medical Center, 3333
+Burnet Avenue, Cincinnati, OH 45229-3300, USA.
+
+Clonal cell lines representing early cardiomyocytes would provide valuable
+reagents for the dissection of the genetic program of early cardiogenesis. Here
+we describe the establishment and characterization of cell lines from the hearts 
+of transgenic mice and embryos with SV40 large T antigen expressed in the
+heart-forming region. Ultrastructure analysis by transmission electron microscopy
+showed the primitive, precontractile nature of the resulting cells, with the
+absence of myofilaments, Z lines, and intercalated disks. Immunohistochemistry,
+RT-PCR, Northern blots, and oligonucleotide microarrays were used to determine
+the expression levels of thousands of genes in the 1H and ECL-2 cell lines. The
+resulting gene-expression profiles showed the transcription of early
+cardiomyocyte genes such as Nkx2.5, GATA4, Tbx5, dHAND, cardiac troponin C, and
+SM22-alpha. Furthermore, many genes not previously implicated in early cardiac
+development were expressed. Two of these genes, Hic-5, a possible negative
+regulator of muscle differentiation, and the transcription enhancing factor TEF-5
+were selected and shown by in situ hybridizations to be expressed in the early
+developing heart. The results show that the 1H and ECL-2 cell lines can be used
+to discover novel genes expressed in the early cardiomyocyte.
+
+Copyright 2001 Academic Press.
+
+PMID: 11437454  [PubMed - indexed for MEDLINE]
+
+
+22. Mol Endocrinol. 1999 Jun;13(6):879-89.
+
+Human placental TEF-5 transactivates the human chorionic somatomammotropin gene
+enhancer.
+
+Jiang SW(1), Wu K, Eberhardt NL.
+
+Author information: 
+(1)Department of Internal Medicine, Mayo Clinic, Rochester, Minnesota 55905, USA.
+
+Human chorionic somatomammotropin (hCS) gene expression in the placenta is
+controlled by an enhancer (CSEn) containing SV40-related GT-IIC and SphI/SphII
+enhansons. These enhancers are controlled by members of the transcription
+enhancer factor-1 (TEF-1) family. Recently TEF-5, whose mRNA is abundant in
+placenta, was shown to bind cooperatively to a unique, tandemly repeated element 
+in CSEn2, suggesting that TEF-5 regulates CSEn activity. However, expression of
+TEF-5 using a cDNA lacking the 5'-untranslated region and containing a modified
+translation initiation site was not accompanied by CSEn activation. Using nested,
+degenerate PCR primers corresponding to conserved TEF domains, several novel
+TEF-1-related cDNAs have been cloned from a human placental cDNA library. The
+open reading frame of one 3033-bp clone was identical to TEF-5 and contained 300-
+and 1423-bp 5'- and 3'-untranslated regions, respectively. The in vitro generated
+approximately 53-kDa TEF-5 polypeptide binds specifically to GT-IIC and
+SphI/SphII oligonucleotides. Overexpression of TEF-5 in BeWo cells using the
+intact 3033-bp cDNA transactivates the hCS and SV40 enhancers and artificial
+enhancers comprised of tandemly repeated GT-IIC enhansons, but not OCT enhansons.
+The data demonstrate that TEF-5 is a transactivator that is likely involved in
+the transactivation of CSEn enhancer function. Further, the data suggest that
+elements within the untranslated regions, initiation site, or both control TEF-5 
+expression in ways that influence its transactivation function.
+
+PMID: 10379887  [PubMed - indexed for MEDLINE]
+
+
+23. Mamm Genome. 1999 Jun;10(6):632-4.
+
+Genomic structure and chromosomal mapping of the mouse transcription factor TEF-5
+(Tead3) gene.
+
+Jacquemin P(1), Chen Z, Martial JA, Davidson I.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/ULP, 1, rue Laurent Fries, F-67404 Illkirch Cédex, France.
+
+PMID: 10341100  [PubMed - indexed for MEDLINE]
+
+
+24. Genomics. 1999 Jan 1;55(1):127-9.
+
+Localization of human transcription factor TEF-4 and TEF-5 (TEAD2, TEAD3) genes
+to chromosomes 19q13.3 and 6p21.2 using fluorescence in situ hybridization and
+radiation hybrid analysis.
+
+Jacquemin P(1), Depetris D, Mattei MG, Martial JA, Davidson I.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/ULP/, Illkirch Cédex, F-67404, France.
+
+PMID: 9889009  [PubMed - indexed for MEDLINE]
+
+
+25. Dev Dyn. 1998 Jul;212(3):423-36.
+
+Differential expression of the TEF family of transcription factors in the murine 
+placenta and during differentiation of primary human trophoblasts in vitro.
+
+Jacquemin P(1), Sapin V, Alsat E, Evain-Brion D, Dollé P, Davidson I.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/ULP, Illkirch, France.
+
+We describe the molecular cloning of murine (m) Transcriptional Enhancer Factor
+(TEF)-5 belonging to the TEF family of transcription factors. We show that mTEF-5
+is specifically expressed in trophoblast giant cells and other extra-embryonic
+structures at early stages of development. At later stages, mTEF-5 is
+specifically expressed in the labyrinthine region of the placenta and in several 
+embryonic tissues. We further show that the other mTEFs are differentially
+expressed in extraembryonic structures and in the mature placenta. Interestingly,
+human (h)TEF-5 is specifically expressed in the differentiated
+syncytiotrophoblast of the human term placenta and its expression is upregulated 
+during the differentiation of cytotrophoblasts to syncytiotrophoblast in vitro,
+whereas that of hTEF-1 is down-regulated. Together with previous results
+describing hTEF-binding sites in the human placental lactogen-B gene enhancer,
+these novel observations support a role for hTEF-5 in the regulation of this
+gene. We further propose that the hTEF factors may play a more general role in
+placental gene regulation and development.
+
+PMID: 9671946  [PubMed - indexed for MEDLINE]
+
+
+26. DNA Cell Biol. 1998 Feb;17(2):187-96.
+
+cDNA cloning and characterization of mouse DTEF-1 and ETF, members of the
+TEA/ATTS family of transcription factors.
+
+Yockey CE(1), Shimizu N.
+
+Author information: 
+(1)Department of Pediatrics, University of South Carolina School of Medicine,
+Columbia 29208, USA.
+
+Members of the TEA/ATTS family of transcription factors have been found in most
+representative eukaryotic organisms. In vertebrates, the TEA family contains at
+least four members, which share overlapping DNA-binding specificity and have
+similar transcriptional activation properties. In this article, we describe the
+cDNA cloning and characterization of the murine TEA proteins DTEF-1 (mDTEF-1) and
+ETF. Using in situ hybridization analysis of mouse embryos, we found that mDTEF-1
+and ETF transcript distributions substantially overlap. ETF is expressed
+throughout the embryo except in the myocardium early in development, whereas late
+in development, it is enriched in lung and neuroectoderm. Mouse DTEF-1 is
+expressed at a much lower level throughout development and is substantially
+enriched in ectoderm and skin, as well as in the developing pituitary at
+midgestation. Northern blot analysis of adult mouse tissue total RNA showed that 
+both ETF and mDTEF-1 are abundant in uterus and lung relative to other tissues.
+Using gel mobility shift assays and GAL4-fusion protein analysis, we demonstrated
+that the full coding sequences of ETF and mDTEF-1 encode M-CAT/GT-IIC-binding
+proteins containing activation domains.
+
+PMID: 9502435  [PubMed - indexed for MEDLINE]
+
+
+27. J Biol Chem. 1997 May 16;272(20):12928-37.
+
+Human TEF-5 is preferentially expressed in placenta and binds to multiple
+functional elements of the human chorionic somatomammotropin-B gene enhancer.
+
+Jacquemin P(1), Martial JA, Davidson I.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/ULP, Collège de France, B.P. 163-67404 Illkirch Cédex, France.
+
+We report the cloning of a cDNA encoding the human transcription factor hTEF-5,
+containing the TEA/ATTS DNA binding domain and related to the TEF family of
+transcription factors. hTEF-5 is expressed in skeletal and cardiac muscle, but
+the strongest expression is observed in the placenta and in placenta-derived
+JEG-3 choriocarcinoma cells. In correlation with its placental expression, we
+show that hTEF-5 binds to several functional enhansons of the human chorionic
+somatomammotropin (hCS)-B gene enhancer. We define a novel functional element in 
+this enhancer comprising tandemly repeated sites to which hTEF-5 binds
+cooperatively. In the corresponding region of the hCS-A enhancer, which is known 
+to be inactive, this element is inactivated by a naturally occurring single base 
+mutation that disrupts hTEF-5 binding. We further show that the binding of the
+previously described placental protein f/chorionic somatomammotropin enhancer
+factor-1 to TEF-binding sites is disrupted by monoclonal antibodies directed
+against the TEA domain and that this factor is a proteolytic degradation product 
+of the TEF factors. These results strongly suggest that hTEF-5 regulates the
+activity of the hCS-B gene enhancer.
+
+PMID: 9148898  [PubMed - indexed for MEDLINE]
+
+
+28. Biochem Biophys Res Commun. 1996 Nov 12;228(2):365-70.
+
+A novel family of TEA domain-containing transcription factors with distinct
+spatiotemporal expression patterns.
+
+Yasunami M(1), Suzuki K, Ohkubo H.
+
+Author information: 
+(1)Institute of Molecular Embryology and Genetics, Kumamoto University School of 
+Medicine, Japan.
+
+We cloned two novel types of TEA domain-containing transcription factor (ETFR-1
+and -2) cDNAs. Amino acid sequences deduced for ETFR-1 and -2 as well as those of
+other known proteins of the same family, TEF-1 and ETF, exhibited significant
+identity (63-75% overall) to each other not only in the TEA DNA binding domain
+but also in the C-terminal regions. Northern blot analysis revealed that both the
+mRNAs were expressed in embryos as well as in many adult tissues, although their 
+levels of expression varied. The results demonstrate that the mammalian TEA
+domain-containing transcription factor family consists of at least four distinct 
+members, TEF-1, ETF, ETFR-1, and ETFR-2, which exhibit overlapping but differing 
+spatiotemporal expression patterns, suggesting their redundant yet unique roles
+involved in not only developmental control but also tissue-specific regulation.
+
+PMID: 8920920  [PubMed - indexed for MEDLINE]
+
+
+29. J Biol Chem. 1996 Apr 5;271(14):8260-5.
+
+DTEF-1, a novel member of the transcription enhancer factor-1 (TEF-1) multigene
+family.
+
+Azakie A(1), Larkin SB, Farrance IK, Grenningloh G, Ordahl CP.
+
+Author information: 
+(1)Department of Surgery, Cardiovascular Research Institute, University of
+California, San Francisco, 94143, USA. 674.
+
+M-CAT motifs mediate muscle-specific transcriptional activity via interaction
+with binding factors that are antigenically and biochemically related to
+vertebrate transcription enhancer factor-1 (TEF-1), a member of the TEA/ATTS
+domain family of transcription factors. M-CAT binding activities present in
+cardiac and skeletal muscle tissues cannot be fully accounted for by existing
+cloned isoforms of TEF-1. TEF-1-related cDNAs isolated from heart libraries
+indicate that at least three classes of TEF-1-related cDNAs are expressed in
+these and other tissues. One class are homologues of the human TEF-1 originally
+cloned from HeLa cells (Xiao, J. H., Davidson, I., Matthes, H., Garnier, J. M.,
+and Chambon, P. (1991) Cell 65, 551-568). A second class represents homologues of
+the avian TEF-1-related gene previously isolated (Stewart, A. F., Larkin, S. B., 
+Farrance, I. K., Mar, J. H., Hall, D. E., and Ordahl, C. P. (1994) J. Biol. Chem.
+269, 3147-3150). The third class consists of a novel, divergent TEF-1 cDNA, named
+DTEF-1, and its preliminary characterization is described here. Two isoforms of
+DTEF-1 (DTEF-1A and DTEF-1B) were isolated as 1.9-kilobase pair clones with
+putative open reading frames of 433 and 432 amino acids whose differences are
+attributable to alternative splicing at the C terminus of the TEA DNA binding
+domain. Cardiac muscle contains high levels of DTEF-1 transcripts, but
+unexpectedly low levels are detected in skeletal muscle. DTEF-1 transcripts are
+present at intermediate levels in gizzard and lung, and at low levels in kidney. 
+DTEF-1A is a sequence-specific M-CAT-binding factor. The distinct spatial pattern
+of expression, and unusual amino acid sequence in its DNA binding domain, may
+indicate a particular role for DTEF-1 in cell-specific gene regulation. Recent
+work also suggests that at least one more TEF-1-related gene exists in
+vertebrates. We propose a naming system for the four TEF-1 gene family members
+identified to date that preserves existing nomenclature and provides a means for 
+extending that nomenclature as additional family members may be identified.
+
+PMID: 8626520  [PubMed - indexed for MEDLINE]
+
+

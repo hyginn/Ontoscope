@@ -1,0 +1,1709 @@
+
+1. PLoS One. 2016 Feb 12;11(2):e0148678. doi: 10.1371/journal.pone.0148678.
+eCollection 2016.
+
+TOPORS, a Dual E3 Ubiquitin and Sumo1 Ligase, Interacts with 26 S Protease
+Regulatory Subunit 4, Encoded by the PSMC1 Gene.
+
+Czub B(1), Shah AZ(1), Alfano G(1), Kruczek PM(1), Chakarova CF(1), Bhattacharya 
+SS(1,)(2).
+
+Author information: 
+(1)Institute of Ophthalmology, University College London (UCL), London EC1V 9EL, 
+United Kingdom. (2)Centro Andaluz de Biología Molecular y Medicina Regenerativa
+(CABIMER), Seville-41092, Spain.
+
+The significance of the ubiquitin-proteasome system (UPS) for protein degradation
+has been highlighted in the context of neurodegenerative diseases, including
+retinal dystrophies. TOPORS, a dual E3 ubiquitin and SUMO1 ligase, forms a
+component of the UPS and selected substrates for its enzymatic activities, such
+as DJ-1/PARK7 and APOBEC2, are important for neuronal as well as retinal
+homeostasis, respectively. TOPORS is ubiquitously expressed, yet its mutations
+are only known to result in autosomal dominant retinitis pigmentosa. We performed
+a yeast two-hybrid (Y2H) screen of a human retinal cDNA library in order to
+identify interacting protein partners of TOPORS from the retina, and thus begin
+delineating the putative disease mechanism(s) associated with the retina-specific
+phenotype resulting from mutations in TOPORS. The screen led to isolation of the 
+26 S protease regulatory subunit 4 (P26s4/ PSMC1), an ATPase indispensable for
+correct functioning of UPS-mediated proteostasis. The interaction between
+endogenous TOPORS and P26s4 proteins was validated by co-immuno-precipitation
+from mammalian cell extracts and further characterised by immunofluorescent
+co-localisation studies in cell lines and retinal sections. Findings from
+hTERT-RPE1 and 661W cells demonstrated that TOPORS and P26s4 co-localise at the
+centrosome in cultured cells. Immunofluorescent staining of mouse retinae
+revealed a strong P26s4 reactivity at the interface between retinal pigmented
+epithelium (RPE) layer and the photoreceptors outer segments (OS). This finding
+leads us to speculate that P26s4, along with TOPORS, may have a role(s) in RPE
+phagocytosis, in addition to contributing to the overall photoreceptor and
+retinal homeostasis via the UPS.
+
+PMCID: PMC4752349
+PMID: 26872363  [PubMed - in process]
+
+
+2. Invest Ophthalmol Vis Sci. 2015 Dec 1;56(13):8297-305. doi:
+10.1167/iovs.15-17104.
+
+Genotype and Phenotype Studies in Autosomal Dominant Retinitis Pigmentosa (adRP) 
+of the French Canadian Founder Population.
+
+Coussa RG(1), Chakarova C(2), Ajlan R(1), Taha M(1), Kavalec C(1), Gomolin J(1), 
+Khan A(1), Lopez I(1), Ren H(1), Waseem N(2), Kamenarova K(3), Bhattacharya
+SS(2), Koenekoop RK(1).
+
+Author information: 
+(1)The McGill Ocular Genetics Laboratory Paediatric Ophthalmology Division,
+Montreal Children's Hospital, McGill University Health Centre, Montreal, Quebec, 
+Canada. (2)UCL-Institute of Ophthalmology, London, United Kingdom. (3)Department 
+of Cellular Therapy and Regenerative Medicine, CSIC-CABIMER, Seville, Spain.
+
+PURPOSE: The French Canadian population of Quebec is a unique, well-known founder
+population with religious, linguistic, and geographic isolation. The genetics of 
+retinitis pigmentosa (RP) in Quebec is not well studied thus far. The purpose of 
+our study was to establish the genetic architecture of autosomal dominant RP
+(adRP) and to characterize the phenotypes associated with new adRP mutations in
+Quebec.
+METHODS: Sanger sequencing of the commonly mutated currently known adRP genes was
+performed in a clinically well-characterized cohort of 60 adRP French Canadian
+families. Phenotypes were analyzed by projected visual acuity (best corrected),
+Goldmann visual fields, optical coherence tomography (OCT), fundus
+autofluorescence (FAF), and ERG. The potential effect of the novel mutations was 
+assessed using in silico bioinformatic tools. The pathogenicity of all variants
+was then confirmed by segregation analysis within the families, when available.
+RESULTS: We identified the causal mutation/gene in 24 of our adRP families, as 24
+(40%) of 60 patients had adRP mutations in six known adRP genes. Eleven (46%) of 
+these mutations were in RHO, four mutations (17%) were found in SNRNP200, three
+mutations (12.5%) in PRPH2/RDS, three mutations (12.5%) in TOPORS, two mutations 
+(8%) in PRPF31, and one mutation (4%) in IMPDH1. Four mutations were novel. We
+identified new mutations in RHO (p.S270I), PRPF31 (p.R288W), IMPDH1 (p.Q318H),
+and TOPORS (p.H889R); the rest were previously reported. We present the
+genotype-phenotype characteristics of the four novel missense mutations.
+CONCLUSIONS: This is the first large screening of adRP genes in the founder
+population of Quebec. Our prevalence of known adRP genes is 40% in the French
+Canadian population, which is lower than in other adRP populations around the
+world, illustrating the uniqueness of the French Canadian population. Our
+findings are crucial in expanding the current understanding of the
+genotypic-phenotypic spectrum of RP and documenting the genetic architecture of
+our founder population.
+
+PMCID: PMC4699406 [Available on 2016-06-01]
+PMID: 26720483  [PubMed - in process]
+
+
+3. Fiziol Zh. 2014;60(4):11-21.
+
+Acute L-glutamine deprivation affects the expression of TP53-related protein
+genes in U87 glioma cells.
+
+Minchenko DO, Danilovskyi SV, Kryvdiuk IV, Hlushchak NA, Kovalevska OV,
+Karbovskyi LL, Minchenko OH.
+
+We have studied the effect of acute L-glutamine deprivation on the expression
+oftumor protein 53 (TP53)-related genes such as TOPORS (topoisomerase I binding, 
+arginine/serine-rich, E3 ubiquitin protein ligase), TP53BPI (TP53 bindingprotein 
+1), TP53TG1 (TP53 inducible gene 1), SESN1 (p53 regulatedPA26 nuclear protein),
+NME6 (NME/NM23 nucleoside diphosphate kinase 6), and ZMAT3 (zinc finger
+Matrin-type 3) in glioma cells with ERN1 knockdown. It was shown that blockade of
+ERN1 finction in U87 glioma cells is induced the expression of RYBP and SESN1
+genes, but decreased the expression of TP53BP1, TP53TG1, TOPORS, NME6, genes.
+Moreover, the expression levels ofRYBPI SESN1, TP53BP1, and ZMAT3 genes is
+increased in control glioma cells by L-glutamine deprivation condition but
+blockade of ERN1 signaling enzyme function significantly enhances this effect on 
+the expression all of these genes. At the same time, the ERN1 knockdown
+eliminates the response TP53TG1 and TOPORS genes to L-glutamine deprivation
+condition. Results of this investigation clearly demonstrate that the expression 
+most of genes encoding TP53-related factors depends upon acute L-glutamine
+deprivation condition as well as upon ERN1, the major signaling system of the
+endoplasmic reticulum stress.
+
+PMID: 25335230  [PubMed - indexed for MEDLINE]
+
+
+4. J Biol Chem. 2014 Oct 17;289(42):28924-41. doi: 10.1074/jbc.M114.603043. Epub
+2014 Sep 4.
+
+Zinc-binding domain-dependent, deaminase-independent actions of apolipoprotein B 
+mRNA-editing enzyme, catalytic polypeptide 2 (Apobec2), mediate its effect on
+zebrafish retina regeneration.
+
+Powell C(1), Cornblath E(1), Goldman D(2).
+
+Author information: 
+(1)From the Molecular and Behavioral Neuroscience Institute and Department of
+Biological Chemistry, University of Michigan, Ann Arbor, Michigan 48109. (2)From 
+the Molecular and Behavioral Neuroscience Institute and Department of Biological 
+Chemistry, University of Michigan, Ann Arbor, Michigan 48109 neuroman@umich.edu.
+
+Erratum in
+    J Biol Chem. 2015 Mar 6;290(10):6007.
+
+The Apobec/AID family of cytosine deaminases can deaminate cytosine and thereby
+contribute to adaptive and innate immunity, DNA demethylation, and the
+modification of cellular mRNAs. Unique among this family is Apobec2, whose
+enzymatic activity has been questioned and whose function remains poorly
+explored. We recently reported that zebrafish Apobec2a and Apobec2b (Apobec2a,2b)
+regulate retina regeneration; however, their mechanism of action remained
+unknown. Here we show that although Apobec2a,2b lack cytosine deaminase activity,
+they require a conserved zinc-binding domain to stimulate retina regeneration.
+Interestingly, we found that human APOBEC2 is able to functionally substitute for
+Apobec2a,2b during retina regeneration. By identifying Apobec2-interacting
+proteins, including ubiquitin-conjugating enzyme 9 (Ubc9); topoisomerase
+I-binding, arginine/serine-rich, E3 ubiquitin protein ligase (Toporsa); and POU
+class 6 homeobox 2 (Pou6f2), we uncovered that sumoylation regulates Apobec2
+subcellular localization and that nuclear Apobec2 controls Pou6f2 binding to DNA.
+Importantly, mutations in the zinc-binding domain of Apobec2 diminished its
+ability to stimulate Pou6f2 binding to DNA, and knockdown of Ubc9 or Pou6f2
+suppressed retina regeneration.
+
+© 2014 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+PMCID: PMC4200251
+PMID: 25190811  [PubMed - indexed for MEDLINE]
+
+
+5. Mol Oncol. 2014 May;8(3):633-41. doi: 10.1016/j.molonc.2014.01.009. Epub 2014 Jan
+24.
+
+Regulation of the localisation and function of the oncogene LYRIC/AEG-1 by
+ubiquitination at K486 and K491.
+
+Luxton HJ(1), Barnouin K(2), Kelly G(3), Hanrahan S(4), Totty N(4), Neal DE(1),
+Whitaker HC(5).
+
+Author information: 
+(1)Uro-Oncology Research Group, Cancer Research UK Cambridge Institute,
+University of Cambridge, Li Ka Shing Centre, Robinson Way, Cambridge CB2 0RE, UK.
+(2)Protein Analysis and Proteomics, Cancer Research UK London Research Institute,
+London WC2A 3LY, UK; Protein Analysis and Proteomics, Cancer Research UK London
+Research Institute, Clare Hall Laboratories, South Mimms, Potters Bar EN6 3LD,
+UK. (3)Bioinformatics and Biostatistics, Cancer Research UK London Research
+Institute, London WC2A 3LY, UK. (4)Protein Analysis and Proteomics, Cancer
+Research UK London Research Institute, London WC2A 3LY, UK. (5)Uro-Oncology
+Research Group, Cancer Research UK Cambridge Institute, University of Cambridge, 
+Li Ka Shing Centre, Robinson Way, Cambridge CB2 0RE, UK. Electronic address:
+Hayley.Whitaker@cruk.cam.ac.uk.
+
+The pivotal role of LYRIC/AEG-1 in malignant transformation, tumourigenesis and
+chemo-resistance has previously been demonstrated in different cell types and
+sub-cellular compartments. The localisation of LYRIC/AEG-1 appears crucial to its
+function and is regulated by three lysine-rich nuclear localisation signal
+regions, one of which was previously demonstrated to be modified by ubiquitin.
+Here we show that mutation of LYRIC/AEG-1 at K486 and K491 results in a loss of
+ubiquitination. A K486/491R double mutant that is incapable of ubiquitination
+shows reduced binding to the NF<U+03BA>B subunit p65 or importin-ß resulting in a
+distinctive peri-nuclear localisation of LYRIC/AEG-1. We also provide evidence to
+suggest that TOPORS, an E3 ligase that also regulates p53 modification may be
+responsible for LYRIC/AEG-1 ubiquitin modification. Overall we demonstrate that
+specific sites of LYRIC/AEG-1 ubiquitination are essential for regulating
+LYRIC/AEG-1 localisation and functionally interacting proteins.
+
+Copyright © 2014 Federation of European Biochemical Societies. Published by
+Elsevier B.V. All rights reserved.
+
+PMCID: PMC4013555
+PMID: 24529480  [PubMed - indexed for MEDLINE]
+
+
+6. Invest Ophthalmol Vis Sci. 2013 Sep 19;54(9):6255-61. doi: 10.1167/iovs.13-12605.
+
+Prevalence of mutations in eyeGENE probands with a diagnosis of autosomal
+dominant retinitis pigmentosa.
+
+Sullivan LS(1), Bowne SJ, Reeves MJ, Blain D, Goetz K, Ndifor V, Vitez S, Wang X,
+Tumminia SJ, Daiger SP.
+
+Author information: 
+(1)Human Genetics Center, University of Texas Health Science Center at Houston,
+Houston, Texas.
+
+PURPOSE: To screen samples from patients with presumed autosomal dominant
+retinitis pigmentosa (adRP) for mutations in 12 disease genes as a contribution
+to the research and treatment goals of the National Ophthalmic Disease Genotyping
+and Phenotyping Network (eyeGENE).
+METHODS: DNA samples were obtained from eyeGENE. A total of 170 probands with an 
+intake diagnosis of adRP were tested through enrollment in eyeGENE. The 10 most
+common genes causing adRP (IMPDH1, KLHL7, NR2E3, PRPF3/RP18, PRPF31/RP11,
+PRPF8/RP13, PRPH2/RDS, RHO, RP1, and TOPORS) were chosen for PCR-based dideoxy
+sequencing, along with the two X-linked RP genes, RPGR and RP2. RHO, PRPH2,
+PRPF31, RPGR, and RP2 were completely sequenced, while only mutation hotspots in 
+the other genes were analyzed.
+RESULTS: Disease-causing mutations were identified in 52% of the probands. The
+frequencies of disease-causing mutations in the 12 genes were consistent with
+previous studies.
+CONCLUSIONS: The Laboratory for Molecular Diagnosis of Inherited Eye Disease at
+the University of Texas in Houston has thus far received DNA samples from 170
+families with a diagnosis of adRP from the eyeGENE Network. Disease-causing
+mutations in autosomal genes were identified in 48% (81/170) of these families
+while mutations in X-linked genes accounted for an additional 4% (7/170). Of the 
+55 distinct mutations detected, 19 (33%) have not been previously reported. All
+diagnostic results were returned by eyeGENE to participating patients via their
+referring clinician. These genotyped samples along with their corresponding
+phenotypic information are also available to researchers who may request access
+to them for further study of these ophthalmic disorders. (ClinicalTrials.gov
+number, NCT00378742.).
+
+PMCID: PMC3778873
+PMID: 23950152  [PubMed - indexed for MEDLINE]
+
+
+7. Br J Cancer. 2013 Jun 25;108(12):2495-504. doi: 10.1038/bjc.2013.266. Epub 2013
+Jun 4.
+
+p28, a first in class peptide inhibitor of cop1 binding to p53.
+
+Yamada T(1), Christov K, Shilkaitis A, Bratescu L, Green A, Santini S, Bizzarri
+AR, Cannistraro S, Gupta TK, Beattie CW.
+
+Author information: 
+(1)Department of Surgery, Division of Surgical Oncology, University of Illinois
+at Chicago College of Medicine, Chicago, IL, USA.
+
+BACKGROUND: A 28 amino-acid (aa) cell-penetrating peptide (p28) derived from
+azurin, a redox protein secreted from the opportunistic pathogen Pseudomonas
+aeruginosa, produces a post-translational increase in p53 in cancer cells by
+inhibiting its ubiquitination.
+METHODS: In silico computational simulations were used to predict motifs within
+the p53 DNA-binding domain (DBD) as potential sites for p28 binding. In vitro
+direct and competitive pull-down studies as well as western blot and RT-PCR
+analyses were used to validate predictions.
+RESULTS: The L1 loop (aa 112-124), a region within the S7-S8 loop (aa 214-236)
+and T140, P142, Q144, W146, R282 and L289 of the p53DBD were identified as
+potential sites for p28 binding. p28 decreased the level of the E3 ligase COP1
+>80%, in p53wt and p53mut cells with no decrease in COP1 in p53dom/neg or p53null
+cells. Brief increases in the expression of the E3 ligases, TOPORS, Pirh2 and
+HDM2 (human double minute 2) in p53wt and p53mut cells were in response to
+sustained increases in p53.
+CONCLUSION: These data identify the specific motifs within the DBD of p53 that
+bind p28 and suggest that p28 inhibition of COP1 binding results in the
+sustained, post-translational increase in p53 levels and subsequent inhibition of
+cancer cell growth independent of an HDM2 pathway.
+
+PMCID: PMC3694247
+PMID: 23736031  [PubMed - indexed for MEDLINE]
+
+
+8. Mol Vis. 2013;19:654-64. Epub 2013 Mar 21.
+
+Detection of novel mutations that cause autosomal dominant retinitis pigmentosa
+in candidate genes by long-range PCR amplification and next-generation
+sequencing.
+
+de Sousa Dias M(1), Hernan I, Pascual B, Borràs E, Mañé B, Gamundi MJ, Carballo
+M.
+
+Author information: 
+(1)Molecular Genetics Unit, Hospital of Terrassa, Barcelona, Spain.
+
+PURPOSE: To devise an effective method for detecting mutations in 12 genes (CA4, 
+CRX, IMPDH1, NR2E3, RP9, PRPF3, PRPF8, PRPF31, PRPH2, RHO, RP1, and TOPORS)
+commonly associated with autosomal dominant retinitis pigmentosa (adRP) that
+account for more than 95% of known mutations.
+METHODS: We used long-range PCR (LR-PCR) amplification and next-generation
+sequencing (NGS) performed in a GS Junior 454 benchtop sequencing platform.
+Twenty LR-PCR fragments, between 3,000 and 10,000 bp, containing all coding exons
+and flanking regions of the 12 genes, were obtained from DNA samples of patients 
+with adRP. Sequencing libraries were prepared with an enzymatic (Fragmentase
+technology) method.
+RESULTS: Complete coverage of the coding and flanking sequences of the 12 genes
+assayed was obtained with NGS, with an average sequence depth of 380× (ranging
+from 128× to 1,077×). Five previous known mutations in the adRP genes were
+detected with a sequence variation percentage between 35% and 65%. We also
+performed a parallel sequence analysis of four samples, three of them new
+patients with index adRP, in which two novel mutations were detected in RHO
+(p.Asn73del) and PRPF31 (p.Ile109del).
+CONCLUSIONS: The results demonstrate that genomic LR-PCR amplification together
+with NGS is an effective method for analyzing individual patient samples for
+mutations in a monogenic heterogeneous disease such as adRP. This approach proved
+effective for the parallel analysis of adRP and has been introduced as routine.
+Additionally, this approach could be extended to other heterogeneous genetic
+diseases.
+
+PMCID: PMC3611935
+PMID: 23559859  [PubMed - indexed for MEDLINE]
+
+
+9. J Biol Chem. 2013 Mar 29;288(13):9102-11. doi: 10.1074/jbc.M112.438234. Epub 2013
+Feb 12.
+
+UHRF2, a ubiquitin E3 ligase, acts as a small ubiquitin-like modifier E3 ligase
+for zinc finger protein 131.
+
+Oh Y(1), Chung KC.
+
+Author information: 
+(1)Department of Systems Biology, College of Life Science and Biotechnology,
+Yonsei University, Seoul 120-749, Korea.
+
+Small ubiquitin-like modifier (SUMO), a member of the ubiquitin-related protein
+family, is covalently conjugated to lysine residues of its substrates in a
+process referred to as SUMOylation. SUMOylation occurs through a series of
+enzymatic reactions analogous to that of the ubiquitination pathway, resulting in
+modification of the biochemical and functional properties of substrates. To date,
+four mammalian SUMO isoforms, a single heterodimeric SUMO-activating E1 enzyme
+SAE1/SAE2, a single SUMO-conjugating E2 enzyme ubiquitin-conjugating enzyme E2I
+(UBC9), and a few subgroups of SUMO E3 ligases have been identified. Several SUMO
+E3 ligases such as topoisomerase I binding, arginine/serine-rich (TOPORS), TNF
+receptor-associated factor 7 (TRAF7), and tripartite motif containing 27 (TRIM27)
+have dual functions as ubiquitin E3 ligases. Here, we demonstrate that the
+ubiquitin E3 ligase UHRF2 also acts as a SUMO E3 ligase. UHRF2 effectively
+enhances zinc finger protein 131 (ZNF131) SUMOylation but does not enhance ZNF131
+ubiquitination. In addition, the SUMO E3 activity of UHRF2 on ZNF131 depends on
+the presence of SET and RING finger-associated and nuclear localization
+signal-containing region domains, whereas the critical ubiquitin E3 activity RING
+domain is dispensable. Our findings suggest that UHRF2 has independent functional
+domains and regulatory mechanisms for these two distinct enzymatic activities.
+
+PMCID: PMC3610983
+PMID: 23404503  [PubMed - indexed for MEDLINE]
+
+
+10. J Biochem Mol Toxicol. 2012 Nov;26(11):429-38. doi: 10.1002/jbt.21438. Epub 2012 
+Sep 12.
+
+TOPORS modulates H2AX discriminating genotoxic stresses.
+
+Seong KM(1), Nam SY, Kim JY, Yang KH, An S, Jin YW, Kim CS.
+
+Author information: 
+(1)Division of Radiation Effect Research, Radiation Health Research Institute,
+Korea Hydro & Nuclear Power Co., Ltd., 132-703, Seoul, Korea. bovine@khnp.co.kr
+
+H2AX plays an important role in chromatin reorganization implicated in DNA repair
+and apoptosis under various DNA damaging conditions. In this study, the
+interaction between TOPORS (topoisomerase I-binding protein) and H2AX was
+verified using mammalian cell extracts exposed to diverse DNA damaging stresses
+such as ionizing radiation, doxorubicin, camptothecin, and hydrogen peroxide. In 
+vitro assays for ubiquitination revealed that TOPORS functions as a novel E3
+ligase for H2AX ubiquitination. TOPORS was found to be dissociated from H2AX
+proteins when cells were exposed to oxidative stress, but not
+replication-inducing DNA damaging stress. The protein stability of H2AX was
+decreased when TOPORS was ectopically expressed in cells, and oxidative stresses 
+such as hydrogen peroxide and ionizing radiation induced recovery of the H2AX
+protein level. Therefore, these biochemical data suggest that TOPORS plays a key 
+role in the turnover of H2AX protein, discriminating the type of DNA damaging
+stress.
+
+© 2012 Wiley Periodicals, Inc.
+
+PMID: 22972498  [PubMed - indexed for MEDLINE]
+
+
+11. PLoS One. 2012;7(8):e43701. doi: 10.1371/journal.pone.0043701. Epub 2012 Aug 17.
+
+Inhibition of PDGF-B induction and cell growth by syndecan-1 involves the
+ubiquitin and SUMO-1 ligase, Topors.
+
+Braun KR(1), DeWispelaere AM, Bressler SL, Fukai N, Kenagy RD, Chen L, Clowes AW,
+Kinsella MG.
+
+Author information: 
+(1)Benaroya Research Institute at Virginia Mason, Seattle, Washington, United
+States of America.
+
+Syndecans are receptors for soluble ligands, including heparin-binding growth
+factors, and matrix proteins. However, intracellular targets of syndecan-1
+(Sdc-1)-mediated signaling are not fully understood. A yeast two-hybrid protein
+interaction screening of a mouse embryo library identified the ubiquitin and
+SUMO-1 E3 ligase, Topors, as a novel ligand of the Sdc-1 cytoplasmic domain
+(S1CD), a finding confirmed by ligand blotting and co-precipitation with Sdc-1
+from cell lysates. Deletion mutagenesis identified an 18-amino acid sequence of
+Topors required for the interaction with the S1CD. By immunohistochemistry,
+Topors and Sdc-1 co-localized near the cell periphery in normal murine mammary
+gland (NMuMG) cells in vitro and in mouse embryonic epithelia in vivo. Finally,
+siRNA-mediated knockdown of Topors demonstrated that Topors is a growth promoter 
+for murine arterial smooth muscle cells and is required for the inhibitory effect
+of Sdc-1 on cell growth and platelet-derived growth factor-B induction. These
+data suggest a novel mechanism for the inhibitory effects of Sdc-1 on cell growth
+that involves the interaction between the cytoplasmic domain of Sdc-1 and the
+SUMO-1 E3 ligase, Topors.
+
+PMCID: PMC3422340
+PMID: 22912899  [PubMed - indexed for MEDLINE]
+
+
+12. Mol Cells. 2012 Jul;34(1):15-23. doi: 10.1007/s10059-012-0001-x. Epub 2012 Jun
+25.
+
+Proteomic profiling of differentially expressed proteins from Bax inhibitor-1
+knockout and wild type mice.
+
+Li B(1), Reed JC, Kim HR, Chae HJ.
+
+Author information: 
+(1)Department of Pharmacology and Cardiovascular Research Center, Chonbuk
+National University, Jeonju 561-182, Korea.
+
+Bax inhibitor-1 (BI-1) is an anti-apoptotic protein located in the endoplasmic
+reticulum (ER). The role of BI-1 has been studied in different physiopathological
+models including ischemia, diabetes, liver regeneration and cancer. However,
+fundamental knowledge about the effects of BI-1 deletion on the proteome is
+lacking. To further explore this protein, we compared the levels of different
+proteins in bi-1 (-/-) and bi-1 (+/+) mouse tissues by two-dimensional
+electrophoresis (2-DE) and mass spectrometry (MS). In several bi-1 (-/-) mice,
+glucose-regulated protein 75 (GRP75/mortalin/ PBP74/mthsp70), peroxiredoxin6
+(Prx6) and fumarylacetoacetate hydrolase (FAH) showed a pI shift that could be
+attributed to post-translational modifications. Selenium-binding protein 2 (SBP2)
+and ferritin light chain 1 levels were significantly increased.
+Phosphatidylethanolamine-binding protein-1 (PEBP-1) was dramatically decreased in
+bi-1 (-/-) mice, which was confirmed by Western blotting. The phosphorylation of 
+GRP75, Prx6 and FAH were compared between bi-1 (+/+) and bi-1 (-/-) mice using
+liver tissue lysates. Of these three proteins, only one exhibited modified
+phosphorylation; Tyr phosphorylation of Prx6 was increased in bi-1 (-/-) mice.
+Our protein profiling results provide fundamental knowledge about the
+physiopathological function of BI-1.
+
+PMCID: PMC3887783
+PMID: 22736268  [PubMed - indexed for MEDLINE]
+
+
+13. Prim Care Respir J. 2012 Sep;21(3):267-75. doi: 10.4104/pcrj.2012.00039.
+
+Fluticasone furoate nasal spray reduces symptoms of uncomplicated acute
+rhinosinusitis: a randomised placebo-controlled study.
+
+Keith PK(1), Dymek A, Pfaar O, Fokkens W, Yun Kirby S, Wu W, Garris C, Topors N, 
+Lee LA.
+
+Author information: 
+(1)McMaster University, Hamilton, Ontario, Canada.
+
+BACKGROUND: Uncomplicated acute rhinosinusitis (ARS) is usually a self-limiting
+inflammatory condition often treated with antibiotics.
+AIMS: To assess the safety and efficacy of fluticasone furoate nasal spray (FFNS)
+compared with placebo for symptomatic relief of uncomplicated ARS.
+METHODS: A randomised, double-blind, placebo-controlled, parallel-group,
+multicentre, 2-week treatment study of FFNS 110 µg once and twice daily was
+undertaken in adults/adolescents.
+RESULTS: A statistically significant reduction was seen in the daily major
+symptoms score, a composite score of three individual symptoms (nasal
+congestion/stuffiness, sinus headache/pressure or facial pain/pressure, and
+postnasal drip on a 0-3 scale) by both FFNS doses compared with placebo (least
+square mean differences vs. placebo of -0.386 (p=0.008) and -0.357 (p=0.014) for 
+once daily and twice daily FFNS, respectively). The differences in median times
+to symptom improvement were not statistically significant between each dose of
+FFNS (7 days) and placebo (8 days). There were no treatment differences in
+antibiotic use for possible fulminant bacterial rhinosinusitis (3% in each
+group). The safety profile of FFNS was similar to placebo.
+CONCLUSIONS: FFNS reduces symptoms of uncomplicated ARS compared with placebo and
+is well tolerated, providing support for withholding antibiotics in selected
+patients.
+
+PMID: 22614920  [PubMed - indexed for MEDLINE]
+
+
+14. PLoS One. 2011;6(9):e23863. doi: 10.1371/journal.pone.0023863. Epub 2011 Sep 2.
+
+Comprehensively surveying structure and function of RING domains from Drosophila 
+melanogaster.
+
+Ying M(1), Huang X, Zhao H, Wu Y, Wan F, Huang C, Jie K.
+
+Author information: 
+(1)Department of Molecular Biology and Biochemistry, Basic Medical College of
+Nanchang University, Nanchang, People's Republic of China. yingmuying@ncu.edu.cn
+
+Using a complete set of RING domains from Drosophila melanogaster, all the solved
+RING domains and cocrystal structures of RING-containing ubiquitin-ligases
+(RING-E3) and ubiquitin-conjugating enzyme (E2) pairs, we analyzed RING domains
+structures from their primary to quarternary structures. The results showed that:
+i) putative orthologs of RING domains between Drosophila melanogaster and the
+human largely occur (118/139, 84.9%); ii) of the 118 orthologous pairs from
+Drosophila melanogaster and the human, 117 pairs (117/118, 99.2%) were found to
+retain entirely uniform domain architectures, only Iap2/Diap2 experienced
+evolutionary expansion of domain architecture; iii) 4 evolutionary structurally
+conserved regions (SCRs) are responsible for homologous folding of RING domains
+at the superfamily level; iv) besides the conserved Cys/His chelating zinc ions, 
+6 equivalent residues (4 hydrophobic and 2 polar residues) in the SCRs possess
+good-consensus and conservation- these 4 SCRs function in the structural
+positioning of 6 equivalent residues as determinants for RING-E3 catalysis; v)
+members of these RING proteins located nucleus, multiple subcellular
+compartments, membrane protein and mitochondrion are respectively 42 (42/139,
+30.2%), 71 (71/139, 51.1%), 22 (22/139, 15.8%) and 4 (4/139, 2.9%); vi) CG15104
+(Topors) and CG1134 (Mul1) in C3HC4, and CG3929 (Deltex) in C3H2C3 seem to
+display broader E2s binding profiles than other RING-E3s; vii) analyzing
+intermolecular interfaces of E2/RING-E3 complexes indicate that residues directly
+interacting with E2s are all from the SCRs in RING domains. Of the 6 residues, 2 
+hydrophobic ones contribute to constructing the conserved hydrophobic core, while
+the 2 hydrophobic and 2 polar residues directly participate in E2/RING-E3
+interactions. Based on sequence and structural data, SCRs, conserved equivalent
+residues and features of intermolecular interfaces were extracted, highlighting
+the presence of a nucleus for RING domain fold and formation of catalytic core in
+which related residues and regions exhibit preferential evolutionary
+conservation.
+
+PMCID: PMC3166285
+PMID: 21912646  [PubMed - indexed for MEDLINE]
+
+
+15. Genetics. 2011 Nov;189(3):779-93. doi: 10.1534/genetics.111.133819. Epub 2011 Sep
+6.
+
+Nuclear structure and chromosome segregation in Drosophila male meiosis depend on
+the ubiquitin ligase dTopors.
+
+Matsui M(1), Sharma KC, Cooke C, Wakimoto BT, Rasool M, Hayworth M, Hylton CA,
+Tomkiel JE.
+
+Author information: 
+(1)Department of Biology, University of North Carolina, Greensboro, North
+Carolina 27402, USA.
+
+In many organisms, homolog pairing and synapsis at meiotic prophase depend on
+interactions between chromosomes and the nuclear membrane. Male Drosophila lack
+synapsis, but nonetheless, their chromosomes closely associate with the nuclear
+periphery at prophase I. To explore the functional significance of this
+association, we characterize mutations in nuclear blebber (nbl), a gene required 
+for both spermatocyte nuclear shape and meiotic chromosome transmission. We
+demonstrate that nbl corresponds to dtopors, the Drosophila homolog of the
+mammalian dual ubiquitin/small ubiquitin-related modifier (SUMO) ligase Topors.
+We show that mutations in dtopors cause abnormalities in lamin localizations,
+centriole separation, and prophase I chromatin condensation and also cause
+anaphase I bridges that likely result from unresolved homolog connections. Bridge
+formation does not require mod(mdg4) in meiosis, suggesting that bridges do not
+result from misregulation of the male homolog conjunction complex. At the
+ultrastructural level, we observe disruption of nuclear shape, an uneven
+perinuclear space, and excess membranous structures. We show that dTopors
+localizes to the nuclear lamina at prophase, and also transiently to intranuclear
+foci. As a role of dtopors at gypsy insulator has been reported, we also asked
+whether these new alleles affected expression of the gypsy-induced mutation ct(6)
+and found that it was unaltered in dtopors homozygotes. Our results indicate that
+dTopors is required for germline nuclear structure and meiotic chromosome
+segregation, but in contrast, is not necessary for gypsy insulator function. We
+suggest that dtopors plays a structural role in spermatocyte lamina that is
+critical for multiple aspects of meiotic chromosome transmission.
+
+PMCID: PMC3213359
+PMID: 21900273  [PubMed - indexed for MEDLINE]
+
+
+16. BMC Med Genomics. 2011 Jun 7;4:49. doi: 10.1186/1755-8794-4-49.
+
+Cell cycle and aging, morphogenesis, and response to stimuli genes are
+individualized biomarkers of glioblastoma progression and survival.
+
+Serão NV(1), Delfino KR, Southey BR, Beever JE, Rodriguez-Zas SL.
+
+Author information: 
+(1)Department of Animal Sciences, University of Illinois at Urbana-Champaign,
+Urbana, Illinois, USA.
+
+BACKGROUND: Glioblastoma is a complex multifactorial disorder that has swift and 
+devastating consequences. Few genes have been consistently identified as
+prognostic biomarkers of glioblastoma survival. The goal of this study was to
+identify general and clinical-dependent biomarker genes and biological processes 
+of three complementary events: lifetime, overall and progression-free
+glioblastoma survival.
+METHODS: A novel analytical strategy was developed to identify general
+associations between the biomarkers and glioblastoma, and associations that
+depend on cohort groups, such as race, gender, and therapy. Gene network
+inference, cross-validation and functional analyses further supported the
+identified biomarkers.
+RESULTS: A total of 61, 47 and 60 gene expression profiles were significantly
+associated with lifetime, overall, and progression-free survival, respectively.
+The vast majority of these genes have been previously reported to be associated
+with glioblastoma (35, 24, and 35 genes, respectively) or with other cancers (10,
+19, and 15 genes, respectively) and the rest (16, 4, and 10 genes, respectively) 
+are novel associations. Pik3r1, E2f3, Akr1c3, Csf1, Jag2, Plcg1, Rpl37a, Sod2,
+Topors, Hras, Mdm2, Camk2g, Fstl1, Il13ra1, Mtap and Tp53 were associated with
+multiple survival events.Most genes (from 90 to 96%) were associated with
+survival in a general or cohort-independent manner and thus the same trend is
+observed across all clinical levels studied. The most extreme associations
+between profiles and survival were observed for Syne1, Pdcd4, Ighg1, Tgfa,
+Pla2g7, and Paics. Several genes were found to have a cohort-dependent
+association with survival and these associations are the basis for individualized
+prognostic and gene-based therapies. C2, Egfr, Prkcb, Igf2bp3, and Gdf10 had
+gender-dependent associations; Sox10, Rps20, Rab31, and Vav3 had race-dependent
+associations; Chi3l1, Prkcb, Polr2d, and Apool had therapy-dependent
+associations. Biological processes associated glioblastoma survival included
+morphogenesis, cell cycle, aging, response to stimuli, and programmed cell death.
+CONCLUSIONS: Known biomarkers of glioblastoma survival were confirmed, and new
+general and clinical-dependent gene profiles were uncovered. The comparison of
+biomarkers across glioblastoma phases and functional analyses offered insights
+into the role of genes. These findings support the development of more accurate
+and personalized prognostic tools and gene-based therapies that improve the
+survival and quality of life of individuals afflicted by glioblastoma multiforme.
+
+PMCID: PMC3127972
+PMID: 21649900  [PubMed - indexed for MEDLINE]
+
+
+17. Hum Mol Genet. 2011 Mar 1;20(5):975-87. doi: 10.1093/hmg/ddq543. Epub 2010 Dec
+15.
+
+TOPORS, implicated in retinal degeneration, is a cilia-centrosomal protein.
+
+Chakarova CF(1), Khanna H, Shah AZ, Patil SB, Sedmak T, Murga-Zamalloa CA,
+Papaioannou MG, Nagel-Wolfrum K, Lopez I, Munro P, Cheetham M, Koenekoop RK, Rios
+RM, Matter K, Wolfrum U, Swaroop A, Bhattacharya SS.
+
+Author information: 
+(1)Institute of Ophthalmology, UCL, London EC1V 9EL, UK.
+
+We recently reported that mutations in the widely expressed nuclear protein
+TOPORS (topoisomerase I-binding arginine/serine rich) are associated with
+autosomal dominant retinal degeneration. However, the precise localization and a 
+functional role of TOPORS in the retina remain unknown. Here, we demonstrate that
+TOPORS is a novel component of the photoreceptor sensory cilium, which is a
+modified primary cilium involved with polarized trafficking of proteins. In
+photoreceptors, TOPORS localizes primarily to the basal bodies of connecting
+cilium and in the centrosomes of cultured cells. Morpholino-mediated silencing of
+topors in zebrafish embryos demonstrates in another species a comparable retinal 
+problem as seen in humans, resulting in defective retinal development and failure
+to form outer segments. These defects can be rescued by mRNA encoding human
+TOPORS. Taken together, our data suggest that TOPORS may play a key role in
+regulating primary cilia-dependent photoreceptor development and function.
+Additionally, it is well known that mutations in other ciliary proteins cause
+retinal degeneration, which may explain why mutations in TOPORS result in the
+same phenotype.
+
+PMCID: PMC3033188
+PMID: 21159800  [PubMed - indexed for MEDLINE]
+
+
+18. J Muscle Res Cell Motil. 2010 Dec;31(4):279-88. doi: 10.1007/s10974-010-9230-9.
+Epub 2010 Dec 1.
+
+Rapid decrease in active tension generated by C2C12 myotubes after termination of
+artificial exercise.
+
+Fujita H(1), Hirano M, Shimizu K, Nagamori E.
+
+Author information: 
+(1)Toyota Central R&D Labs Incorporation, Yokomichi, Nagakute, Aichi, 480-1192,
+Japan.
+
+We found that the active tension of C2C12 myotubes that had been subjected to
+artificial exercise for ~10 days decreased rapidly after termination of the
+artificial exercise. When differentiated C2C12 myotubes were subjected to
+continuous 1 Hz artificial exercise for ~10 days, the active tension increased to
+~4× compared to that before application of the artificial exercise, as reported
+previously. On termination of artificial exercise, the active tension decreased
+rapidly, the level reaching that before application of the artificial exercise
+within 8 h. Concomitant with the decrease in the active tension, an increase in
+the amount of ubiquitinated proteins was observed. Real time RT-PCR revealed that
+the expression of several genes associated with atrophy, namely Smc6, Vegfa,
+Jarid2, Kitl, Cds2, Inmt, Fasn, Neurl, Topors, and Cul2, were also changed after 
+termination of artificial exercise. These results indicate that termination of
+artificial exercise induced atrophy-like responses of C2C12 myotubes. Here we
+found that during the decrease in active tension, the sarcomere structure,
+especially the thin filament structure, decayed rapidly after termination of
+artificial exercise. On reapplication of the artificial exercise, the active
+tension was restored rapidly, within 8 h, concomitant with reformation of the
+sarcomere structure. These results indicate that disassembly of the sarcomere
+structure may be one of the reasons for the active tension decrease during disuse
+muscle atrophy.
+
+PMID: 21120590  [PubMed - indexed for MEDLINE]
+
+
+19. BMC Mol Biol. 2010 Apr 29;11:31. doi: 10.1186/1471-2199-11-31.
+
+Deficiency of the dual ubiquitin/SUMO ligase Topors results in genetic
+instability and an increased rate of malignancy in mice.
+
+Marshall H(1), Bhaumik M, Aviv H, Moore D, Yao M, Dutta J, Rahim H, Gounder M,
+Ganesan S, Saleem A, Rubin E.
+
+Author information: 
+(1)Department of Pharmacology, Cancer Institute of New Jersey, Robert Wood
+Johnson Medical School, University of Medicine and Dentistry of New Jersey, 195
+Little Albany Street, New Brunswick, NJ 08901, USA.
+
+BACKGROUND: Topors is a nuclear protein that co-localizes with promyelocytic
+leukemia bodies and has both ubiquitin and SUMO E3 ligase activity. Expression
+studies implicated Topors as a tumor suppressor in various malignancies. To gain 
+insight into the function of Topors, we generated a Topors-deficient mouse
+strain.
+RESULTS: Mice homozygous for a mutant Topors allele exhibited a high rate of
+perinatal mortality and decreased lifespan. In addition, heterozygotes were found
+to have an increased incidence of malignancy, involving a variety of tissues.
+Consistent with this finding, primary embryonic fibroblasts lacking Topors
+exhibited an increased rate of malignant transformation, associated with
+aneuploidy and defective chromosomal segregation. While loss of Topors did not
+alter sensitivity to DNA-damaging or microtubule-targeting agents, cells lacking 
+Topors exhibited altered pericentric heterochromatin, manifested by
+mislocalization of HP1alpha and an increase in transcription from pericentric
+major satellite DNA. Topors-deficient cells exhibited a transcriptional profile
+similar to that of cells treated with histone deacetylase inhibitors, and were
+resistant to the anti-proliferative effects of the histone deacetylase inhibitor 
+trichostatin A.
+CONCLUSION: These results indicate a unique role for Topors in the maintenance of
+genomic stability and pericentric heterochromatin, as well as in cellular
+sensitivity to histone deacetylase inhibitors.
+
+PMCID: PMC2873312
+PMID: 20429939  [PubMed - indexed for MEDLINE]
+
+
+20. Mol Cell. 2010 Feb 26;37(4):503-15. doi: 10.1016/j.molcel.2010.01.018.
+
+SUMOylation-dependent localization of IKKepsilon in PML nuclear bodies is
+essential for protection against DNA-damage-triggered cell death.
+
+Renner F(1), Moreno R, Schmitz ML.
+
+Author information: 
+(1)Medical Faculty, Institute of Biochemistry, Friedrichstrasse 24,
+Justus-Liebig-University, 35392 Giessen, Germany.
+
+Comment in
+    Mol Cell. 2010 Feb 26;37(4):453-4.
+
+The IKK-related kinase IKKepsilon contributes to the antiviral response and can
+function as an oncogene that is frequently amplified in breast cancer. Here we
+report on an additional role of IKKepsilon as a mediator protecting from
+DNA-damage-induced cell death. Genotoxic stress allows for kinase-dependent entry
+of IKKepsilon into the nucleus, where IKKepsilon-dependent PML phosphorylation is
+a prerequisite for retention of this kinase in PML nuclear bodies. Within these
+subnuclear structures IKKepsilon inducibly colocalizes with TOPORS, which
+functions as a SUMO E3 ligase mediating SUMOylation of IKKepsilon at lysine 231. 
+SUMO modification of IKKepsilon is required to trigger phosphorylation of nuclear
+substrates including NF-kappaB p65, thereby contributing to the antiapoptotic
+function of NF-kappaB in response to DNA damage.
+
+Copyright 2010 Elsevier Inc. All rights reserved.
+
+PMID: 20188669  [PubMed - indexed for MEDLINE]
+
+
+21. Biochem Soc Trans. 2010 Feb;38(Pt 1):34-9. doi: 10.1042/BST0380034.
+
+SUMO and ubiquitin paths converge.
+
+Denuc A(1), Marfany G.
+
+Author information: 
+(1)Departament de Genètica, Facultat de Biologia, Universitat de Barcelona, Avda.
+Diagonal, 645, 08028 Barcelona, Spain.
+
+One of the more rapidly expanding fields in cell signalling nowadays is the
+characterization of proteins conjugated to Ub (ubiquitin) or Ub-like peptides,
+such as SUMO (small Ub-related modifier). The reversible covalent attachment of
+these small peptides remodels the target protein, providing new protein-protein
+interaction interfaces, which can be dynamically regulated given a set of enzymes
+for conjugation and deconjugation. First, ubiquitination was thought to be merely
+relegated to the control of protein turnover and degradation, whereas the
+attachment of SUMO was involved in the regulation of protein activity and
+function. However, the boundaries between the protein fates related to these tag 
+molecules are becoming more and more fuzzy, as either the differences between
+mono-, multi- and poly-modifications or the lysine residue used for growth of the
+poly-chains is being dissected. The Ub and SUMO pathways are no longer separated,
+and many examples of this cross-talk are found in the literature, involving
+different cellular processes ranging from DNA repair and genome stability, to the
+regulation of protein subcellular localization or enzyme activity. Here, we
+review several cases in which SUMOylation and ubiquitination intersect, showing
+also that the same protein can be conjugated to SUMO and Ub for antagonistic,
+synergistic or multiple outcomes, illustrating the intricacy of the cellular
+signalling networks. Ub and SUMO have met and are now applying for new regulatory
+roles in the cell.
+
+PMID: 20074031  [PubMed - indexed for MEDLINE]
+
+
+22. Mol Biol Rep. 2010 Jul;37(6):3023-8. doi: 10.1007/s11033-009-9871-1. Epub 2009
+Oct 11.
+
+Plk1 phosphorylation of Topors is involved in its degradation.
+
+Yang X(1), Li H, Deng A, Liu X.
+
+Author information: 
+(1)College of Chemistry, Sichuan University, Chengdu 610064, China.
+xiaoming4444@gmail.com
+
+Topors is a DNA topoisomerase I- and p53-binding protein, and mainly functions as
+a p53 regulator. Accumulating evidence also supports the notion that Topors plays
+the role as a negative regulator of cell growth, and possibly as a tumor
+suppressor. Here, we demonstrated that Topors is also involved in normal mitotic 
+progression, since Topors depletion delays mitotic entry and affects mitotic
+progression. Furthermore, Topors is degradated in response to the activation of
+the spindle checkpoint. Significantly, Polo-like kinase 1 (Plk1)-associated
+phosphorylation of Topors at S718 is essential for nocodazole-induced degradation
+of Topors.
+
+PMID: 19821153  [PubMed - indexed for MEDLINE]
+
+
+23. J Biol Chem. 2009 Jul 10;284(28):18588-92. doi: 10.1074/jbc.C109.001560. Epub
+2009 May 27.
+
+Plk1-mediated phosphorylation of Topors regulates p53 stability.
+
+Yang X(1), Li H, Zhou Z, Wang WH, Deng A, Andrisani O, Liu X.
+
+Author information: 
+(1)College of Chemistry, Sichuan University, Chengdu 610064, China.
+
+Polo-like kinase 1 (Plk1) overexpression is associated with tumorigenesis by an
+unknown mechanism. Likewise, Plk1 was suggested to act as a negative regulator of
+tumor suppressor p53, but the mechanism remains to be determined. Herein, we have
+identified topoisomerase I-binding protein (Topors), a p53-binding protein, as a 
+Plk1 target. We show that Plk1 phosphorylates Topors on Ser(718) in vivo.
+Significantly, expression of a Plk1-unphosphorylatable Topors mutant (S718A)
+leads to a dramatic accumulation of p53 through inhibition of p53 degradation.
+Topors is an ubiquitin and small ubiquitin-like modifier ubiquitin-protein
+isopeptide ligase (SUMO E3) ligase. Plk1-mediated phosphorylation of Topors
+inhibits Topors-mediated sumoylation of p53, whereas p53 ubiquitination is
+enhanced, leading to p53 degradation. These results demonstrate that Plk1
+modulates Topors activity in suppressing p53 function and identify a likely
+mechanism for the tumorigenic potential of Plk1.
+
+PMCID: PMC2707202
+PMID: 19473992  [PubMed - indexed for MEDLINE]
+
+
+24. Ophthalmic Genet. 2009 Jun;30(2):96-8. doi: 10.1080/13816810802695543.
+
+Mutations in TOPORS: a rare cause of autosomal dominant retinitis pigmentosa in
+continental Europe?
+
+Schob C(1), Orth U, Gal A, Kindler S, Chakarova CF, Bhattacharya SS, Rüther K.
+
+Author information: 
+(1)Institute for Human Genetics, University Medical Center Hamburg-Eppendorf,
+Hamburg, Germany.
+
+Mutations in TOPORS cause autosomal dominant retinitis pigmentosa (adRP).
+Examination of 160 adRP patients from continental Europe revealed nine exonic
+single nucleotide variants, eight of which reside in the coding region; three
+synonymous single nucleotide polymorphisms (SNPs; c.2319T > C, c.2991T > C and
+c.1560A > G), three nonsynonymous SNPs (c.58C > T/p.P20S, c.74C >G/p.S25W and
+c.1730C > A/p.S577Y) and two novel missense mutations (c.1205A > C/p.Q402P and
+c.1818T > G/p.S606R). Whether the latter two variants represent adRP causing
+mutations awaits further analysis.
+
+PMID: 19373681  [PubMed - indexed for MEDLINE]
+
+
+25. Acta Ophthalmol. 2010 May;88(3):323-8. doi: 10.1111/j.1755-3768.2008.01465.x.
+Epub 2009 Jan 30.
+
+Autosomal dominant pericentral retinal dystrophy caused by a novel missense
+mutation in the TOPORS gene.
+
+Selmer KK(1), Grøndahl J, Riise R, Brandal K, Braaten O, Bragadottir R, Undlien
+DE.
+
+Author information: 
+(1)Department of Medical Genetics, Ullevål University Hospital, Oslo, Norway.
+k.k.selmer@medisin.uio.no <k.k.selmer@medisin.uio.no>
+
+PURPOSE: This study aimed to identify the genetic cause of autosomal dominant
+pericentral retinal dystrophy (adPRD) in a large Norwegian family with 35
+affected members.
+METHODS: The family was characterized by clinical ophthalmological examination
+along with fundus photography, dark adaptometry and electroretinography. We
+performed a genome-wide linkage analysis followed by sequencing of a candidate
+gene to identify the mutation causing the disease.
+RESULTS: The ophthalmological examinations revealed an atypical form of retinitis
+pigmentosa (RP), which we prefer to call adPRD. Compared with classical RP, this 
+phenotype has a favourable prognosis. Linkage analysis showed a linkage peak
+covering the most recently reported adRP gene TOPORS. This gene was sequenced in 
+19 family members and a novel missense mutation, c.1205a>c, resulting in an amino
+acid substitution p.Q402P, was detected in all affected members. The mutation
+showed complete co-segregation with the disease in this family, with a LOD score 
+of 7.3. It is located in a highly conserved region and alignment with the
+appropriate DNA sequence from other species shows complete conservation of this
+amino acid. The mutation was not detected in 207 healthy, unrelated controls of
+Norwegian origin.
+CONCLUSIONS: We present a novel mutation in the TOPORS gene co-segregating with a
+distinct phenotype of adPRD in a large Norwegian family.
+
+PMID: 19183411  [PubMed - indexed for MEDLINE]
+
+
+26. Biochemistry. 2008 Dec 30;47(52):13887-96. doi: 10.1021/bi801904q.
+
+Identification of phosphorylation sites of TOPORS and a role for serine 98 in the
+regulation of ubiquitin but not SUMO E3 ligase activity.
+
+Park HJ(1), Zheng H, Kulkarni D, Kerrigan J, Pungaliya P, Saleem A, Rubin EH.
+
+Author information: 
+(1)Departments of Pharmacology and Medicine, The Cancer Institute of New Jersey, 
+Robert Wood Johnson Medical School, University of Medicine and Dentistry of New
+Jersey, 195 Little Albany Street, New Brunswick, New Jersey 08901, USA.
+
+TOPORS is the first example of a protein that possesses both ubiquitin and SUMO
+E3 ligase activity. The ubiquitination activity maps to a conserved RING domain
+in the N-terminal region of the protein, which is not required for sumoylation
+activity. Similar to other E3 ligases, it is likely that the ubiquitin and
+sumoylation activities of TOPORS are regulated by post-translational
+modifications. Therefore, we employed mass spectrometry to identify
+post-translational modifications of TOPORS. Several putative phosphorylated
+regions were identified in conserved regions of the protein. We investigated the 
+role of phosphorylation of serine 98, which is adjacent to the RING domain, in
+both cells and in vitro. Mutation of serine 98 to aspartic acid resulted in an
+increase in the ubiquitin ligase activity of TOPORS both in cells and in vitro.
+In addition, this mutation increased the binding of TOPORS to the E2 enzyme
+UbcH5a both in vitro and in cells. Conversely, a phospho-deficient mutant (S98A) 
+exhibited little change in ubiquitin ligase activity compared to wild-type
+TOPORS, both in cells and in vitro. Neither of the mutants affected the
+localization of TOPORS to punctate nuclear regions. In addition, neither mutant
+affected the SUMO ligase activity of TOPORS in cells or in vitro. Molecular
+modeling studies support a role for serine 98 in regulating TOPORS-E2
+interactions. Our findings indicate that phosphorylation of serine 98 regulates
+the ubiquitin but not the SUMO ligase activity of TOPORS, consistent with a
+potential binary switch function for TOPORS in protein ubiquitination versus
+sumoylation.
+
+PMID: 19053840  [PubMed - indexed for MEDLINE]
+
+
+27. Am J Respir Crit Care Med. 2009 Feb 15;179(4):279-87. doi:
+10.1164/rccm.200802-320OC. Epub 2008 Nov 14.
+
+Cigarette smoke induces cellular senescence via Werner's syndrome protein
+down-regulation.
+
+Nyunoya T(1), Monick MM, Klingelhutz AL, Glaser H, Cagley JR, Brown CO, Matsumoto
+E, Aykin-Burns N, Spitz DR, Oshima J, Hunninghake GW.
+
+Author information: 
+(1)Division of Pulmonary, Critical Care, and Occupational Medicine, Department of
+Internal Medicine, Roy J. and Lucille A. Carver College of Medicine, University
+of Iowa, Iowa City, IA 52242, USA. toru-nyunoya@uiowa.edu
+
+RATIONALE: Werner's syndrome is a genetic disorder that causes premature aging
+due to loss-of-function mutations in a gene encoding a member of the RecQ
+helicase family. Both Werner's syndrome and cigarette smoking accelerate aging.
+No studies have examined the effect of cigarette smoke on Werner's syndrome
+protein.
+OBJECTIVES: To investigate the role of Werner's syndrome protein in cigarette
+smoke-induced cellular senescence.
+METHODS: Cellular senescence and amounts of Werner's syndrome protein were
+measured in fibroblasts isolated from patients with emphysema and compared with
+age-matched nonsmokers. The in vitro effects of cigarette smoke on amounts of
+Werner's syndrome protein, function, and senescence were also evaluated in
+primary human lung fibroblasts and epithelial cells.
+MEASUREMENTS AND MAIN RESULTS: Cultured lung fibroblasts isolated from patients
+with emphysema exhibited a senescent phenotype accompanied by a decrease in
+Werner's syndrome protein. Cigarette smoke extract decreased Werner's syndrome
+protein in cultured fibroblasts and epithelial cells. Werner's syndrome
+protein-deficient fibroblasts were more susceptible to cigarette smoke-induced
+cellular senescence and cell migration impairment. In contrast, exogenous
+overexpression of Werner's syndrome protein attenuated the cigarette smoke
+effects.
+CONCLUSIONS: Cigarette smoke induces cellular senescence and cell migration
+impairment via Werner's syndrome protein down-regulation. Rescue of Werner's
+syndrome protein down-regulation may represent a potential therapeutic target for
+smoking-related diseases.
+
+PMCID: PMC2643077
+PMID: 19011155  [PubMed - indexed for MEDLINE]
+
+
+28. Mol Vis. 2008 May 19;14:922-7.
+
+Mutations in the TOPORS gene cause 1% of autosomal dominant retinitis pigmentosa.
+
+Bowne SJ(1), Sullivan LS, Gire AI, Birch DG, Hughbanks-Wheaton D, Heckenlively
+JR, Daiger SP.
+
+Author information: 
+(1)The University of Texas Health Science Center, Human Genetics Center, School
+of Public Health, Houston, TX 77030, USA. sara.j.bowne@uth.tmc.edu
+
+PURPOSE: The purpose of this project was to determine if mutations, including
+large insertions or deletions, in the recently identified RP31 gene topoisomerase
+I-binding arginine-serine rich (RS) protein (TOPORS), cause an appreciable
+fraction of autosomal dominant retinitis pigmentosa (adRP).
+METHODS: An adRP cohort of 215 families was used to determine the frequency of
+TOPORS mutations. We looked for mutations in TOPORS by testing 89 probands from
+the cohort without mutations in other known adRP genes. Mutation detection was
+performed by fluorescent capillary sequencing and by multiplex ligation probe
+amplification.
+RESULTS: Two different TOPORS mutations, p.Glu808X and p.Arg857GlyfsX9, were each
+identified in one proband. Patients with these mutations exhibited clinical signs
+typical of advanced adRP. No large deletions or insertions of TOPORS were
+identified in our study.
+CONCLUSIONS: Point mutations and small insertions or deletions in TOPORS cause
+approximately 1% of adRP. Large deletions or insertions of TOPORS are not an
+appreciable cause of adRP. Contrary to previous reports, no distinct clinical
+phenotype was seen in these patients.
+
+PMCID: PMC2391085
+PMID: 18509552  [PubMed - indexed for MEDLINE]
+
+
+29. Trends Biochem Sci. 2008 May;33(5):201-8. doi: 10.1016/j.tibs.2008.02.001. Epub
+2008 Apr 9.
+
+A SIM-ultaneous role for SUMO and ubiquitin.
+
+Perry JJ(1), Tainer JA, Boddy MN.
+
+Author information: 
+(1)Department of Molecular Biology, The Scripps Research Institute, La Jolla, CA 
+92037, USA.
+
+Ubiquitin and ubiquitin-like proteins (Ubls) share a beta-GRASP fold and have key
+roles in cellular growth and suppression of genome instability. Despite their
+common fold, SUMO and ubiquitin are classically portrayed as distinct, and they
+can have antagonistic roles. Recently, a new family of proteins, the small
+ubiquitin-related modifier (SUMO)-targeted ubiquitin ligases (STUbLs), which
+directly connect sumoylation and ubiquitylation, has been discovered. Uniquely,
+STUbLs use SUMO-interaction motifs (SIMs) to recognize their sumoylated targets. 
+STUbLs are global regulators of protein sumoylation levels, and cells lacking
+STUbLs display genomic instability and hypersensitivity to genotoxic stress. The 
+human STUbL, RNF4, is implicated in several diseases including cancer,
+highlighting the importance of characterizing the cellular functions of STUbLs.
+
+PMID: 18403209  [PubMed - indexed for MEDLINE]
+
+
+30. Expert Rev Proteomics. 2008 Feb;5(1):121-35. doi: 10.1586/14789450.5.1.121.
+
+Ubiquitin proteolytic system: focus on SUMO.
+
+Wilson VG(1), Heaton PR.
+
+Author information: 
+(1)Department of Microbial & Molecular Pathogenesis, College of Medicine, Texas
+A&M Health Science Center, College Station, TX 77843-1114, USA.
+wilson@medicine.tamhsc.edu
+
+The small ubiquitin-like modifier proteins (Smt3 in yeast and SUMOs 1-4 in
+vertebrates) are members of the ubiquitin super family. Like ubiquitin, the SUMOs
+are protein modifiers that are covalently attached to the epsilon-amino group of 
+lysine residues in the substrates. The application of proteomics to the SUMO
+field has greatly expanded both the number of known targets and the number of
+identified target lysines. As new refinements of proteomic techniques are
+developed and applied to sumoylation, an explosion of novel data is likely in the
+next 5 years. This ability to examine sumoylated proteins globally, rather than
+individually, will lead to new insights into both the functions of the individual
+SUMO types, and how dynamic changes in overall sumoylation occur in response to
+alterations in cellular environment. In addition, there is a growing appreciation
+for the existence of cross-talk mechanisms between the sumoylation and
+ubiquitinylation processes. Rather than being strictly parallel, these two
+systems have many points of intersection, and it is likely that the coordination 
+of these two systems is a critical contributor to the regulation of many
+fundamental cellular events.
+
+PMCID: PMC3467698
+PMID: 18282128  [PubMed - indexed for MEDLINE]
+
+
+31. J Biol Chem. 2008 Feb 22;283(8):4834-40. Epub 2007 Dec 12.
+
+Ubiquitination by TOPORS regulates the prostate tumor suppressor NKX3.1.
+
+Guan B(1), Pungaliya P, Li X, Uquillas C, Mutton LN, Rubin EH, Bieberich CJ.
+
+Author information: 
+(1)Department of Biological Sciences, University of Maryland, Baltimore County,
+Baltimore, Maryland 21250, USA.
+
+The NKX3.1 gene located at 8p21.2 encodes a homeodomain-containing transcription 
+factor that acts as a haploinsufficient tumor suppressor in prostate cancer.
+Diminished protein expression of NKX3.1 has been observed in prostate cancer
+precursors and carcinomas. TOPORS is a ubiquitously expressed E3 ubiquitin ligase
+that can ubiquitinate tumor suppressor p53. Here we report interaction between
+NKX3.1 and TOPORS. NKX3.1 can be ubiquitinated by TOPORS in vitro and in vivo,
+and overexpression of TOPORS leads to NKX3.1 proteasomal degradation in prostate 
+cancer cells. Conversely, small interfering RNA-mediated knockdown of TOPORS
+leads to an increased steady-state level and prolonged half-life of NKX3.1. These
+data establish TOPORS as a negative regulator of NKX3.1 and implicate TOPORS in
+prostate cancer progression.
+
+PMID: 18077445  [PubMed - indexed for MEDLINE]
+
+
+32. FEBS Lett. 2007 Nov 27;581(28):5418-24. Epub 2007 Oct 30.
+
+The E3 ligase Topors induces the accumulation of polysumoylated forms of DNA
+topoisomerase I in vitro and in vivo.
+
+Hammer E(1), Heilbronn R, Weger S.
+
+Author information: 
+(1)Institute of Virology, Charité Campus Benjamin Franklin, Free University of
+Berlin, Hindenburgdamm 27, 12203 Berlin, Germany.
+
+Human Topors has originally been identified as binding partner of p53 and DNA
+topoisomerase I (TOP1). It can function as both an ubiquitin and SUMO-1 E3 ligase
+for p53. Here we demonstrate that Topors enhances the formation of high-molecular
+weight SUMO-1 conjugates of TOP1 in a reconstituted in vitro system and also in
+human osteosarcoma cells, similar to treatment with CPT. In contrast to the
+situation observed with p53, overall sumoylation levels were rather unaffected.
+Experiments with TOP1 point mutants strongly suggest that the high-molecular
+weight conjugates represent SUMO-1 chains formed on a limited number of SUMO-1
+acceptor sites.
+
+PMID: 17976381  [PubMed - indexed for MEDLINE]
+
+
+33. Am J Hum Genet. 2007 Nov;81(5):1098-103. Epub 2007 Sep 26.
+
+Mutations in TOPORS cause autosomal dominant retinitis pigmentosa with
+perivascular retinal pigment epithelium atrophy.
+
+Chakarova CF(1), Papaioannou MG, Khanna H, Lopez I, Waseem N, Shah A, Theis T,
+Friedman J, Maubaret C, Bujakowska K, Veraitch B, Abd El-Aziz MM, Prescott de Q, 
+Parapuram SK, Bickmore WA, Munro PM, Gal A, Hamel CP, Marigo V, Ponting CP,
+Wissinger B, Zrenner E, Matter K, Swaroop A, Koenekoop RK, Bhattacharya SS.
+
+Author information: 
+(1)Institute of Ophthalmology, University College London, London, UK.
+
+We report mutations in the gene for topoisomerase I-binding RS protein (TOPORS)
+in patients with autosomal dominant retinitis pigmentosa (adRP) linked to
+chromosome 9p21.1 (locus RP31). A positional-cloning approach, together with the 
+use of bioinformatics, identified TOPORS (comprising three exons and encoding a
+protein of 1,045 aa) as the gene responsible for adRP. Mutations that include an 
+insertion and a deletion have been identified in two adRP-affected families--one 
+French Canadian and one German family, respectively. Interestingly, a distinct
+phenotype is noted at the earlier stages of the disease, with an unusual
+perivascular cuff of retinal pigment epithelium atrophy, which was found
+surrounding the superior and inferior arcades in the retina. TOPORS is a RING
+domain-containing E3 ubiquitin ligase and localizes in the nucleus in speckled
+loci that are associated with promyelocytic leukemia bodies. The ubiquitous
+nature of TOPORS expression and a lack of mutant protein in patients are highly
+suggestive of haploinsufficiency, rather than a dominant negative effect, as the 
+molecular mechanism of the disease and make rescue of the clinical phenotype
+amenable to somatic gene therapy.
+
+PMCID: PMC2265653
+PMID: 17924349  [PubMed - indexed for MEDLINE]
+
+
+34. J Proteome Res. 2007 Oct;6(10):3918-23. Epub 2007 Sep 6.
+
+TOPORS functions as a SUMO-1 E3 ligase for chromatin-modifying proteins.
+
+Pungaliya P(1), Kulkarni D, Park HJ, Marshall H, Zheng H, Lackland H, Saleem A,
+Rubin EH.
+
+Author information: 
+(1)Department of Pharmacology, The Cancer Institute of New Jersey, Robert Wood
+Johnson Medical School, University of Medicine and Dentistry of New Jersey, 195
+Little Albany Street, New Brunswick, New Jersey 08901, USA.
+
+TOPORS is the first example of a protein with both ubiquitin and SUMO-1 E3 ligase
+activity and has been implicated as a tumor suppressor in several different
+malignancies. To gain insight into the cellular role of TOPORS, a proteomic
+screen was performed to identify candidate sumoylation substrates. The results
+indicate that many of the putative substrates are involved in chromatin
+modification or transcriptional regulation. Transfection studies confirmed
+mammalian Sin3A as a sumoylation substrate for TOPORS. These findings suggest
+that TOPORS may function as a tumor suppressor by regulating mSin3A and other
+proteins involved in chromatin modification.
+
+PMID: 17803295  [PubMed - indexed for MEDLINE]
+
+
+35. EMBO J. 2007 Feb 21;26(4):1068-80. Epub 2007 Feb 8.
+
+Death effector domain DEDa, a self-cleaved product of caspase-8/Mch5,
+translocates to the nucleus by binding to ERK1/2 and upregulates procaspase-8
+expression via a p53-dependent mechanism.
+
+Yao Z(1), Duan S, Hou D, Heese K, Wu M.
+
+Author information: 
+(1)Hefei National Laboratory for Physical Sciences at Microscale and School of
+Life Sciences, University of Science and Technology of China, Hefei, Anhui,
+People's Republic of China.
+
+Activation of the apical caspase-8 is crucial to the extrinsic apoptotic pathway.
+Although the death effector domain (DED) of caspase-8 has been reported to be
+involved in death-inducing signaling complex formation, the detailed mechanism of
+how DED functions in regulating apoptosis remains largely unknown. Here, we
+demonstrate that the prodomain of the caspase-8/Mch5 can be further cleaved
+between two tandemly repeated DEDs (DEDa-DEDb) at the amino-acid residue Asp129
+by caspase-8 itself. The DEDa fragment generated from the endogenous caspase-8
+was detected in isolated nucleoli upon treatment with TRAIL (tumor necrosis
+factor-related apoptosis-inducing ligand). Cleaved DEDa appears to translocate
+into the nucleus by association with extracellular signal-regulated protein
+kinases-1/2 (ERK1/2). Elimination of ERK1/2 expression by RNA interference
+resulted in a significant attenuation of nuclear entry of DEDa and reduced
+caspase-8-dependent apoptosis. In the nucleus, DEDa interacts with TOPORS, a p53 
+and topoisomerase I binding protein, and possibly displaces p53 from TOPORS,
+allowing p53 to stimulate caspase-8 gene expression. In summary, we postulate a
+positive feedback loop involving DEDa, which enables the continual replenishment 
+of procaspase-8 during apoptosis.
+
+PMCID: PMC1852837
+PMID: 17290218  [PubMed - indexed for MEDLINE]
+
+
+36. Cell Biochem Biophys. 2006;44(3):463-74.
+
+CGI-55 interacts with nuclear proteins and co-localizes to p80-coilin
+positive-coiled bodies in the nucleus.
+
+Lemos TA(1), Kobarg J.
+
+Author information: 
+(1)Centro de Biologia Molecular Estrutural, Laboratório Nacional de Luz
+Síncrotron, Campinas, SP, Brazil.
+
+The human protein CGI-55 has been described as a chromo-helicase-DNA-binding
+domain protein (CHD)-3 interacting protein and was also found to interact with
+the 3'-region of the plasminogen activator inhibitor (PAI)-1 mRNA. Here, we used 
+CGI-55 as a "bait" in a yeast two-hybrid screen and identified eight interacting 
+proteins: Daxx, Topoisomerase I binding RS (Topors), HPC2, UBA2, TDG, and protein
+inhibitor of activated STAT (signal transducer and activator of transcription)
+(PIAS)-1, -3, and -y. These proteins are either structurally or functionally
+associated with promyelocytic leukemia nuclear bodies (PML-NBs), protein
+sumoylation, or the regulation of transcription. The interactions of CGI-55 with 
+Daxx, Topors, PIASy, and UBA2 were confirmed by in vivo colocalization
+experiments in HeLa cells, by using green (GFP) and red fluorescence fusion
+proteins. A mapping study of the CGI-55 binding site for these proteins revealed 
+three distinct patterns of interaction. The fact that CGI-55-GFP has been
+localized in cytoplasm and nucleus in a dotted manner, and its interaction with
+proteins associated with PML-NBs, suggested that CGI-55 might be associated with 
+nuclear bodies. Although Daxx and Topors co-localized with promyelocytic leukemia
+protein (PML), CGI-55 itself as well as PIASy and UBA2 showed only little
+co-localization with PML. However, we observed that CGI-55 localizes to the
+nucleolus and co-localizes with p80-coilin positive nuclear-coiled bodies.
+
+PMID: 16679534  [PubMed - indexed for MEDLINE]
+
+
+37. Mol Cell. 2005 Oct 7;20(1):105-16.
+
+The ubiquitin ligase dTopors directs the nuclear organization of a chromatin
+insulator.
+
+Capelson M(1), Corces VG.
+
+Author information: 
+(1)Department of Biology, Johns Hopkins University, 3400 North Charles Street,
+Baltimore, MD 21218, USA.
+
+Chromatin insulators are gene regulatory elements implicated in the establishment
+of independent chromatin domains. The gypsy insulator of D. melanogaster confers 
+its activity through a protein complex that consists of three known components,
+Su(Hw), Mod(mdg4)2.2, and CP190. We have identified a factor, Drosophila
+Topoisomerase I-interacting RS protein (dTopors) that interacts with the
+insulator protein complex and is required for gypsy insulator function. In the
+absence of Mod(mdg4)2.2, nuclear clustering of insulator complexes is disrupted
+and insulator activity is compromised. Overexpression of dTopors in the
+mod(mdg4)2.2 null mutant rescues insulator activity and restores the formation of
+nuclear insulator bodies. dTopors associates with the nuclear lamina, and
+mutations in lamin disrupt dTopors localization as well as nuclear organization
+and activity of the gypsy insulator. Thus, dTopors appears to be involved in the 
+establishment of chromatin organization through its ability to mediate the
+association of insulator complexes with a fixed nuclear substrate.
+
+PMID: 16209949  [PubMed - indexed for MEDLINE]
+
+
+38. FEBS Lett. 2005 Sep 12;579(22):5007-12.
+
+Topors acts as a SUMO-1 E3 ligase for p53 in vitro and in vivo.
+
+Weger S(1), Hammer E, Heilbronn R.
+
+Author information: 
+(1)Institute of Infectious Diseases, Department of Virology, Charité Campus
+Benjamin Franklin, Free University of Berlin, Hindenburgdamm 27, 12203 Berlin,
+Germany. stefan.weger@charite.de
+
+Human Topors, which was originally identified as cellular binding partner of DNA 
+topoisomerase I and of p53, has recently been shown to function as an ubiquitin
+E3 ligase for p53 in a manner dependent on its N'-terminally located RING finger.
+Here, we demonstrate that Topors also enhances the conjugation of the small
+ubiquitin-like modifier 1 (SUMO-1) to p53 in vivo and in a reconstituted in vitro
+system. The Topors SUMO-1 E3 ligase activity does not depend upon its RING finger
+motif. In HeLa cells, Topors induced p53 sumoylation was accompanied by an
+increase in endogenous p53 protein levels. Furthermore, Topors enhances the
+sumoylation of a variety of other, yet unidentified, cellular proteins.
+
+PMID: 16122737  [PubMed - indexed for MEDLINE]
+
+
+39. Cancer Res. 2005 May 15;65(10):4088-96.
+
+High-resolution genome-wide mapping of genetic alterations in human glial brain
+tumors.
+
+Bredel M(1), Bredel C, Juric D, Harsh GR, Vogel H, Recht LD, Sikic BI.
+
+Author information: 
+(1)Division of Oncology, Center for Clinical Sciences Research, Stanford
+University School of Medicine, Stanford, California 94305-5151, USA.
+mbredel@stanford.edu
+
+High-resolution genome-wide mapping of exact boundaries of chromosomal
+alterations should facilitate the localization and identification of genes
+involved in gliomagenesis and may characterize genetic subgroups of glial brain
+tumors. We have done such mapping using cDNA microarray-based comparative genomic
+hybridization technology to profile copy number alterations across 42,000 mapped 
+human cDNA clones, in a series of 54 gliomas of varying histogenesis and tumor
+grade. This gene-by-gene approach permitted the precise sizing of critical
+amplicons and deletions and the detection of multiple new genetic aberrations. It
+has also revealed recurrent patterns of occurrence of distinct chromosomal
+aberrations as well as their interrelationships and showed that gliomas can be
+clustered into distinct genetic subgroups. A subset of detected alterations was
+shown predominantly associated with either astrocytic or oligodendrocytic tumor
+phenotype. Finally, five novel minimally deleted regions were identified in a
+subset of tumors, containing putative candidate tumor suppressor genes (TOPORS,
+FANCG, RAD51, TP53BP1, and BIK) that could have a role in gliomagenesis.
+
+PMID: 15899798  [PubMed - indexed for MEDLINE]
+
+
+40. Oncogene. 2005 May 12;24(21):3385-96.
+
+topors, a p53 and topoisomerase I-binding RING finger protein, is a coactivator
+of p53 in growth suppression induced by DNA damage.
+
+Lin L(1), Ozaki T, Takada Y, Kageyama H, Nakamura Y, Hata A, Zhang JH, Simonds
+WF, Nakagawara A, Koseki H.
+
+Author information: 
+(1)Department of Molecular Embryology, Graduate School of Medicine, Chiba
+University, 1-8-1 Inohana, Chuo-ku, Chiba 260-8670, Japan.
+
+The RING family zinc-finger protein topors (topoisomerase I-binding protein)
+binds not only topoisomerase I, but also p53 and the AAV-2 Rep78/68 proteins.
+topors maps to human chromosome 9p21, which contains candidate tumor suppressor
+genes implicated in small cell lung cancers. In this study, we isolated the
+murine counterpart of topors and investigated its impact on p53 function. The
+deduced amino-acid sequence of mouse topors exhibits extensive similarity to
+human topors. Overexpressed myc-tagged topors associates with and stabilizes p53,
+and enhances the p53-dependent transcriptional activities of p21(Waf1), MDM2 and 
+Bax promoters and elevates endogenous p21(Waf1) mRNA levels. Overexpression of
+topors consequently results in the suppression of cell growth by cell cycle
+arrest and/or by the induction of apoptosis. Taken together, these studies
+identify topors as a positive regulator of p53. The expression of topors is
+induced by exposure to the genotoxic reagents cisplatin and camptothecin, a DNA
+topoisomerase I inhibitor. We therefore postulate that topors mediates
+p53-dependent cellular responses induced by DNA damage, suggesting its
+physiological role as a tumor suppressor.
+
+PMID: 15735665  [PubMed - indexed for MEDLINE]
+
+
+41. Int J Oncol. 2005 Mar;26(3):641-8.
+
+DJ-1 restores p53 transcription activity inhibited by Topors/p53BP3.
+
+Shinbo Y(1), Taira T, Niki T, Iguchi-Ariga SM, Ariga H.
+
+Author information: 
+(1)Graduate School of Pharmaceutical Sciences, Hokkaido University, Sapporo
+060-0812, Japan.
+
+DJ-1 is a multi-functional protein that plays roles in transcriptional regulation
+and anti-oxidative stress, and loss of its function is thought to result in onset
+of Parkinson's disease. Here, we report that DJ-1 bound to Topors/p53BP3, a ring 
+finger protein binding to both topoisomerase I and p53, in vitro and in vivo and 
+that both proteins were colocalized in cells. DJ-1 and p53 were then found to be 
+sumoylated by Topors in cells. It was also found that DJ-1 bound to p53 in vitro 
+and in vivo and that colocalization with and its binding to p53 were stimulated
+by UV irradiation of cells. Transcription activity of p53 was found to be
+abrogated by Topors concomitant with sumoylation of p53 in a dose-dependent
+manner, and DJ-1 restored its repressed activity by releasing the sumoylated form
+of p53. These findings suggest that DJ-1 positively regulates p53 through
+Topors-mediated sumoylation.
+
+PMID: 15703819  [PubMed - indexed for MEDLINE]
+
+
+42. Lung Cancer. 2004 Oct;46(1):21-8.
+
+Expression of LUN gene that encodes a novel RING finger protein is correlated
+with development and progression of non-small cell lung cancer.
+
+Oyanagi H(1), Takenaka K, Ishikawa S, Kawano Y, Adachi Y, Ueda K, Wada H, Tanaka 
+F.
+
+Author information: 
+(1)Department of Thoracic Surgery, Faculty of Medicine, Kyoto University,
+Shogoin-kawahara-cho 54, Sakyo-ku, Kyoto 606-8507, Japan.
+
+LUN is a novel RING finger protein that is highly expressed in the lung and might
+be a transcriptional regulator of E-cadherin [J. Biol. Chem. 276 (2001) 14004].
+It might be possible that LUN plays important roles in the development and
+progression of lung cancer through regulating expression of E-cadherin, but no
+clinical study on LUN expression has been reported. In the present study, we
+quantitatively examined gene expression of the LUN in surgical specimens resected
+from non-small cell lung cancer (NSCLC) patients. In normal lung tissues, the LUN
+gene expression was down-regulated in smokers (the mean LUN/GAPDH ratios, 0.222
+for non-smokers and 0.144 for smokers; P = 0.030). In addition, the mean
+LUN/GAPDH ratio in lung cancer tissues was significantly lower than that in
+normal lung tissues (0.072 versus 0.162; P < 0.001). In addition, the LUN gene
+expression was slightly down-regulated along with progression of primary tumors, 
+and strongly down-regulated along with nodal metastases (the mean LUN/GAPDH
+ratios, 0.091 for pN0, 0.073 for pN1, and 0.034 for pN2 diseases; P = 0.001).
+These results suggested that LUN might play important roles in inhibition of
+nodal metastases as well as in suppression of smoking-related oncogenesis in
+NSCLC.
+
+PMID: 15364129  [PubMed - indexed for MEDLINE]
+
+
+43. J Biol Chem. 2004 Aug 27;279(35):36440-4. Epub 2004 Jul 9.
+
+Topors functions as an E3 ubiquitin ligase with specific E2 enzymes and
+ubiquitinates p53.
+
+Rajendra R(1), Malegaonkar D, Pungaliya P, Marshall H, Rasheed Z, Brownell J, Liu
+LF, Lutzker S, Saleem A, Rubin EH.
+
+Author information: 
+(1)Department of Pharmacology, The Cancer Institute of New Jersey, Robert Wood
+Johnson Medical School, University of Medicine and Dentistry of New Jersey, New
+Brunswick, NJ 08901, USA.
+
+The human topoisomerase I- and p53-binding protein topors contains a highly
+conserved, N-terminal C3HC4-type RING domain that is homologous to the RING
+domains of known E3 ubiquitin ligases. We demonstrate that topors functions in
+vitro as a RING-dependent E3 ubiquitin ligase with the E2 enzymes UbcH5a, UbcH5c,
+and UbcH6 but not with UbcH7, CDC34, or UbcH2b. Additional studies indicate that 
+a conserved tryptophan within the topors RING domain is required for
+ubiquitination activity. Furthermore, both in vitro and cellular studies
+implicate p53 as a ubiquitination substrate for topors. Similar to MDM2,
+overexpression of topors results in a proteasome-dependent decrease in p53
+protein expression in a human osteosarcoma cell line. These results are similar
+to the recent finding that a Drosophila topors orthologue ubiquitinates the Hairy
+transcriptional repressor and suggest that topors functions as a ubiquitin ligase
+for multiple transcription factors.
+
+PMID: 15247280  [PubMed - indexed for MEDLINE]
+
+
+44. Oncogene. 2004 Jul 8;23(31):5293-300.
+
+The topoisomerase I- and p53-binding protein topors is differentially expressed
+in normal and malignant human tissues and may function as a tumor suppressor.
+
+Saleem A(1), Dutta J, Malegaonkar D, Rasheed F, Rasheed Z, Rajendra R, Marshall
+H, Luo M, Li H, Rubin EH.
+
+Author information: 
+(1)Department of Pharmacology, The Cancer Institute of New Jersey, Robert Wood
+Johnson Medical School, University of Medicine and Dentistry of New Jersey, New
+Brunswick, NJ, USA.
+
+Topors was identified recently as a human protein that binds to topoisomerase I
+and p53. Topors contains a highly conserved RING domain and localizes in
+promyelocytic leukemia nuclear bodies. Relatively little is known regarding
+topors expression patterns or function. We now demonstrate that topors mRNA and
+protein are widely expressed in normal human tissues. By contrast, topors mRNA
+and protein levels are decreased or undetectable in colon adenocarcinomas
+relative to normal colon tissue, and expression of the topors protein is not
+detectable in several colon cancer cell lines. The human TOPORS gene is located
+on chromosome 9p21, with loss of heterozygosity in this region frequently
+observed in several different malignancies. While we were unable to detect loss
+of heterozygosity of the TOPORS gene in 16 sporadic colon cancer cases, increased
+methylation of a CpG island in the TOPORS promoter was evident in colon
+adenocarcinoma specimens relative to matched normal tissues. Additional studies
+indicate that forced expression of topors inhibits cellular proliferation and is 
+associated with an accumulation of cells in the G(0)/G(1) phase of the cell
+cycle. This effect is independent of the topors RING domain and maps to a
+C-terminal region of the protein. These results suggest that topors functions as 
+a negative regulator of cell growth, and possibly as a tumor suppressor.
+
+PMID: 15107820  [PubMed - indexed for MEDLINE]
+
+
+45. J Biol Chem. 2004 Apr 23;279(17):17126-33. Epub 2004 Feb 9.
+
+Drosophila Topors is a RING finger-containing protein that functions as a
+ubiquitin-protein isopeptide ligase for the hairy basic helix-loop-helix
+repressor protein.
+
+Secombe J(1), Parkhurst SM.
+
+Author information: 
+(1)Division of Basic Sciences, Fred Hutchinson Cancer Research Center, Seattle,
+Washington 98109-1024, USA.
+
+Transcriptional repression plays an essential role in many aspects of metazoan
+development. Drosophila hairy is a primary pair-rule gene encoding a basic
+helix-loop-helix class transcriptional repressor that is required for proper
+segmentation. Previous characterization of Hairy-binding proteins has implicated 
+two different classes of histone deacetylase as mediators of Hairy repression.
+Here, we present the characterization of a novel Hairy-interacting protein
+(dTopors) that binds specifically to the basic region of Hairy, but does not
+affect the ability of Hairy to bind DNA. By reducing the gene dose of dtopors, we
+demonstrate that it acts genetically as an antagonist of Hairy-mediated
+transcriptional repression. Consistent with this genetic interaction, we show
+that that recombinant dTopors protein possesses ubiquitin-protein isopeptide
+ligase activity in vitro and that dTopors mediates Hairy polyubiquitination and
+can lead to Hairy degradation. This work provides the first evidence that
+regulated proteolysis of Hairy is required for correct segmentation.
+
+PMID: 14871887  [PubMed - indexed for MEDLINE]
+
+
+46. Exp Cell Res. 2003 Oct 15;290(1):13-27.
+
+The DNA topoisomerase I binding protein topors as a novel cellular target for
+SUMO-1 modification: characterization of domains necessary for subcellular
+localization and sumolation.
+
+Weger S(1), Hammer E, Engstler M.
+
+Author information: 
+(1)Department of Virology, Institute of Infectious Diseases, Free University of
+Berlin, Hindenburgdamm 27, 12203 Berlin, Germany. weger@ukbf.fu-berlin.de
+
+Over the past years, modification by covalent attachment of SUMO (small
+ubiquitin-like modifier) has been demonstrated for of a number of cellular and
+viral proteins. While increasing evidence suggests a role for SUMO modification
+in the regulation of protein-protein interactions and/or subcellular
+localization, most SUMO targets are still at large. In this report we show that
+Topors, a Topoisomerase I and p53 interacting protein of hitherto unknown
+function, presents a novel cellular target for SUMO-1 modification. In a yeast
+two-hybrid system, Topors interacted with both SUMO-1 and the SUMO-1 conjugating 
+enzyme UBC9. Multiple SUMO-1 modified forms of Topors could be detected after
+cotransfection of exogenous SUMO-1 and Topors induced the colocalization of a YFP
+tagged SUMO-1 protein in a speckled pattern in the nucleus. A subset of these
+Topors' nuclear speckles were closely associated with the PML nuclear bodies
+(POD, ND10). A central domain comprising Topors residues 437 to 574 was
+sufficient for both sumolation and localization to nuclear speckles. One SUMO-1
+acceptor site at lysine residue 560 could be identified within this region.
+However, sumolation-deficient Topors mutants showed that sumolation obviously is 
+not required for localization to nuclear speckles.
+
+PMID: 14516784  [PubMed - indexed for MEDLINE]
+
+
+47. Exp Cell Res. 2002 Jul 15;277(2):152-60.
+
+The topoisomerase I-binding RING protein, topors, is associated with
+promyelocytic leukemia nuclear bodies.
+
+Rasheed ZA(1), Saleem A, Ravee Y, Pandolfi PP, Rubin EH.
+
+Author information: 
+(1)Department of Pharmacology, Robert Wood Johnson Medical School, New Brunswick,
+New Jersey 08903-2681, USA.
+
+We previously identified topors as a topoisomerase I-binding protein that
+localizes in punctate nuclear regions when expressed as a GFP fusion protein. We 
+now demonstrate that both the GFP-topors fusion protein and endogenous topors are
+associated with promyelocytic leukemia (PML) nuclear bodies in exponentially
+growing HeLa cells. Studies using isogenic PML+/+ and PML-/- murine embryonic
+fibroblasts indicate that the punctate nuclear localization of topors is
+dependent on PML. A basic C-terminal region but not the N-terminal RING domain of
+topors is required for the punctate nuclear localization of this protein.
+Additional studies indicate that topors, but not PML, rapidly relocalizes from
+nuclear bodies to the nucleoplasm in cells exposed to the transcription inhibitor
+dichloro-1-beta-d-ribofuranolsylbenzimidazole or to the topoisomerase I-targeting
+drug camptothecin. These results identify topors as a new member of the group of 
+proteins that associate dynamically with PML nuclear bodies and suggest that
+topors may be involved in the cellular response to camptothecin.
+
+(c) 2002 Elsevier Science (USA).
+
+PMID: 12083797  [PubMed - indexed for MEDLINE]
+
+
+48. J Gen Virol. 2002 Mar;83(Pt 3):511-6.
+
+Topors, a p53 and topoisomerase I binding protein, interacts with the
+adeno-associated virus (AAV-2) Rep78/68 proteins and enhances AAV-2 gene
+expression.
+
+Weger S(1), Hammer E, Heilbronn R.
+
+Author information: 
+(1)Institut für Infektionsmedizin, Abteilung Virologie, Freie Universität Berlin,
+Hindenburgdamm 27, D-12203 Berlin, Germany.
+
+The adeno-associated virus type 2 (AAV-2) Rep proteins are essential for AAV DNA 
+replication and regulation of AAV gene expression. We have identified a cellular 
+protein interacting with Rep78 and Rep68 in yeast two-hybrid analysis and in GST 
+pull-down assays. This protein has recently been described as both a p53 (p53BP3)
+and a topoisomerase I interacting protein (Topors). It contains an
+arginine/serine-rich domain, a RING finger domain and five PEST sequences. A
+minimal sequence sufficient for interaction with Rep was mapped to Topors amino
+acids 871 to 917. We show that the same region is also involved in the
+interaction with p53. Rep sequences involved in interaction with Topors were
+mapped to Rep amino acids 172 to 481. Overexpression of Topors stimulated AAV
+gene expression in the absence of helper virus, suggesting a function of Topors
+as a transcriptional regulator.
+
+PMID: 11842245  [PubMed - indexed for MEDLINE]
+
+
+49. J Biol Chem. 2001 Apr 27;276(17):14004-13. Epub 2001 Jan 25.
+
+Cloning and characterization of LUN, a novel ring finger protein that is highly
+expressed in lung and specifically binds to a palindromic sequence.
+
+Chu D(1), Kakazu N, Gorrin-Rivas MJ, Lu HP, Kawata M, Abe T, Ueda K, Adachi Y.
+
+Author information: 
+(1)Laboratory of Molecular Clinical Chemistry, Institute for Chemical Research,
+Kyoto University, Gokasho, Uji, Kyoto 611-0011, Japan.
+
+We isolated cDNAs encoding a novel RING finger protein (LUN), the mRNAs of which 
+were expressed at high levels in the lung. In situ hybridization revealed that
+LUN mRNAs were expressed in the alveolar epithelium of the lung. The LUN gene
+locus was assigned to chromosome 9p21, which contains candidate tumor suppressor 
+genes associated with loss of heterozygosity in more than 86% of small cell lung 
+cancers. We clarified that LUN is localized to the nucleus and reveals
+Zn(2+)-dependent DNA binding activity. The region from amino acids 51 to 374 of
+LUN is responsible for DNA binding. Furthermore, we identified a novel
+palindromic binding consensus (5'-TCCCAGCACTTTGGGA-3') for the LUN binding.
+Interestingly, this LUN binding palindromic sequence is found in the upstream
+transcriptional regulatory region of the E-cadherin gene and two intervening
+regions of the talin gene. Our results suggested that LUN might be an important
+trans-acting transcriptional regulator for lung cancer-associated genes including
+E-cadherin and talin genes.
+
+PMID: 11278651  [PubMed - indexed for MEDLINE]
+
+
+50. Gene. 1999 Jul 22;235(1-2):93-101.
+
+Identification of a novel gene encoding a p53-associated protein.
+
+Zhou R(1), Wen H, Ao SZ.
+
+Author information: 
+(1)State Key Laboratory of Molecular Biology, Shanghai Institute of Biochemistry,
+Chinese Academy of Science, Shanghai 200031, People's Republic of China.
+
+p53 exerts important physiological functions in cell-cycle control, gene
+regulation, cell differentiation, apoptosis and tumor suppression by interacting 
+with many cellular proteins. Using the yeast two-hybrid system, we screened a
+HeLa cDNA library and identified a novel gene encoding a p53-binding protein
+(p53BP3). The full-length cDNA of p53BP3 was isolated from a HeLalambdagt10 cDNA 
+library. This predicted protein was composed of 815 amino acids. Sequence
+analysis indicated that p53BP3 contained two bipartite nuclear localization
+signals and was confirmed to be a nuclear protein. FISH mapping results showed
+that this novel gene was located at human chromosome 12, region p11.2-p12.1.
+Northern blot analysis suggested that p53BP3 was broadly expressed in human
+tissues. A further study showed that p53BP3 had a homologue in mouse.
+
+PMID: 10415337  [PubMed - indexed for MEDLINE]
+
+
+51. Nucleic Acids Res. 1999 Jun 15;27(12):2538-44.
+
+Interaction between human topoisomerase I and a novel RING finger/arginine-serine
+protein.
+
+Haluska P Jr(1), Saleem A, Rasheed Z, Ahmed F, Su EW, Liu LF, Rubin EH.
+
+Author information: 
+(1)Departments of Pharmacology and Medicine, Robert Wood Johnson Medical School, 
+The Cancer Institute of New Jersey, University of Medicine and Dentistry of New
+Jersey, New Brunswick, NJ 08901, USA.
+
+The N-terminus of human topoisomerase I participates in the binding of this
+enzyme to helicases and other proteins. Using the N-terminal 250 amino acids of
+human topoisomerase I and a yeast two-hybrid/ in vitro binding screen, a novel
+arginine-serine-rich peptide was identified as a human topoisomerase I-binding
+protein. The corresponding full-length protein, named topors, contains a
+consensus RING zinc finger domain and nuclear localization signals in addition to
+the arginine-serine-rich region. The RING finger domain of topors is homologous
+to a similar domain in a family of viral proteins that are involved in the
+regulation of viral transcription. When expressed in HeLa cells as a green
+fluorescent protein fusion, topors localizes in the nucleus in a punctate pattern
+and co-immunoprecipitates with topoisomerase I. These data suggest that topors is
+involved in trans-cription, possibly recruiting topoisomerase I to RNA polymerase
+II transcriptional complexes.
+
+PMCID: PMC148458
+PMID: 10352183  [PubMed - indexed for MEDLINE]
+
+

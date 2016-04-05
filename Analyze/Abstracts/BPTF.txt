@@ -1,0 +1,1558 @@
+
+1. APMIS. 2016 Feb 22. doi: 10.1111/apm.12512. [Epub ahead of print]
+
+BPTF, a chromatin remodeling-related gene, exhibits frameshift mutations in
+gastric and colorectal cancers.
+
+Lee JH(1), Kim MS(1), Yoo NJ(1), Lee SH(2).
+
+Author information: 
+(1)Department of Pathology, College of Medicine, The Catholic University of
+Korea, Seoul, Korea. (2)Department of Pathology, College of Medicine, The
+Catholic University of Korea, Seoul, Korea. suhulee@catholic.ac.kr.
+
+PMID: 26899553  [PubMed - as supplied by publisher]
+
+
+2. Nat Commun. 2016 Jan 5;7:10153. doi: 10.1038/ncomms10153.
+
+BPTF is required for c-MYC transcriptional activity and in vivo tumorigenesis.
+
+Richart L(1), Carrillo-de Santa Pau E(1), Río-Machín A(2), de Andrés MP(1),
+Cigudosa JC(2), Lobo VJ(1), Real FX(1,)(3).
+
+Author information: 
+(1)Epithelial Carcinogenesis Group, Cancer Cell Biology Programme, Spanish
+National Cancer Research Center-CNIO, Madrid 28029, Spain. (2)Molecular
+Cytogenetics Group, Human Cancer Genetics Programme, Spanish National Cancer
+Research Center-CNIO, Madrid 28029, Spain. (3)Departament de Ciències
+Experimentals i de la Salut, Universitat Pompeu Fabra, Barcelona 08003, Spain.
+
+c-MYC oncogene is deregulated in most human tumours. Histone marks associated
+with transcriptionally active genes define high-affinity c-MYC targets. The
+mechanisms involved in their recognition by c-MYC are unknown. Here we report
+that c-MYC interacts with BPTF, a core subunit of the NURF chromatin-remodelling 
+complex. BPTF is required for the activation of the full c-MYC transcriptional
+programme in fibroblasts. BPTF knockdown leads to decreased c-MYC recruitment to 
+DNA and changes in chromatin accessibility. In Bptf-null MEFs, BPTF is necessary 
+for c-MYC-driven proliferation, G1-S progression and replication stress, but not 
+for c-MYC-driven apoptosis. Bioinformatics analyses unveil that BPTF levels
+correlate positively with c-MYC-driven transcriptional signatures. In vivo, Bptf 
+inactivation in pre-neoplastic pancreatic acinar cells significantly delays
+tumour development and extends survival. Our findings uncover BPTF as a crucial
+c-MYC co-factor required for its biological activity and suggest that the
+BPTF-c-MYC axis is a potential therapeutic target in cancer.
+
+PMID: 26729287  [PubMed - in process]
+
+
+3. PLoS Genet. 2015 Oct 6;11(10):e1005555. doi: 10.1371/journal.pgen.1005555.
+eCollection 2015.
+
+Chromatin-Remodelling Complex NURF Is Essential for Differentiation of Adult
+Melanocyte Stem Cells.
+
+Koludrovic D(1), Laurette P(2), Strub T(3), Keime C(2), Le Coz M(4), Coassolo
+S(2), Mengus G(2), Larue L(5), Davidson I(6).
+
+Author information: 
+(1)Department of Functional Genomics and Cancer, Institut de Génétique et de
+Biologie Moléculaire et Cellulaire, CNRS/INSERM/ULP, Illkirch, France; Beaston
+Institute for Cancer Research, Glasgow, United Kingdom. (2)Department of
+Functional Genomics and Cancer, Institut de Génétique et de Biologie Moléculaire 
+et Cellulaire, CNRS/INSERM/ULP, Illkirch, France. (3)Department of Oncological
+Sciences, Icahn School of Medicine at Mount Sinai, New York, New York, United
+States of America. (4)Institut Curie CNRS UMR3347, INSERM U1021, Bat 110, Orsay, 
+France. (5)Institut Curie CNRS UMR3347, INSERM U1021, Bat 110, Orsay, France;
+Equipes labélisées Ligue Contre le Cancer, Orsay and Strasbourg, France.
+(6)Department of Functional Genomics and Cancer, Institut de Génétique et de
+Biologie Moléculaire et Cellulaire, CNRS/INSERM/ULP, Illkirch, France; Equipes
+labélisées Ligue Contre le Cancer, Orsay and Strasbourg, France.
+
+MIcrophthalmia-associated Transcription Factor (MITF) regulates melanocyte and
+melanoma physiology. We show that MITF associates the NURF chromatin-remodelling 
+factor in melanoma cells. ShRNA-mediated silencing of the NURF subunit BPTF
+revealed its essential role in several melanoma cell lines and in untransformed
+melanocytes in vitro. Comparative RNA-seq shows that MITF and BPTF co-regulate
+overlapping gene expression programs in cell lines in vitro. Somatic and specific
+inactivation of Bptf in developing murine melanoblasts in vivo shows that Bptf
+regulates their proliferation, migration and morphology. Once born, Bptf-mutant
+mice display premature greying where the second post-natal coat is white. This
+second coat is normally pigmented by differentiated melanocytes derived from the 
+adult melanocyte stem cell (MSC) population that is stimulated to proliferate and
+differentiate at anagen. An MSC population is established and maintained
+throughout the life of the Bptf-mutant mice, but these MSCs are abnormal and at
+anagen, give rise to reduced numbers of transient amplifying cells (TACs) that do
+not express melanocyte markers and fail to differentiate into mature melanin
+producing melanocytes. MSCs display a transcriptionally repressed chromatin state
+and Bptf is essential for reactivation of the melanocyte gene expression program 
+at anagen, the subsequent normal proliferation of TACs and their differentiation 
+into mature melanocytes.
+
+PMCID: PMC4595011
+PMID: 26440048  [PubMed - in process]
+
+
+4. Oncotarget. 2015 Oct 20;6(32):33878-92. doi: 10.18632/oncotarget.5302.
+
+BPTF promotes tumor growth and predicts poor prognosis in lung adenocarcinomas.
+
+Dai M(1), Lu JJ(2), Guo W(1), Yu W(1), Wang Q(3), Tang R(1), Tang Z(1), Xiao
+Y(1), Li Z(1), Sun W(1), Sun X(1), Qin Y(1), Huang W(4,)(5), Deng WG(4,)(5), Wu
+T(1).
+
+Author information: 
+(1)The First Affiliated Hospital & Institute of Cancer Stem Cell, Dalian Central 
+Hospital, Dalian Medical University, Dalian, China. (2)Department of Thoracic
+Surgery, The First Affiliated Hospital,Sun Yat-sen University Cancer Center,
+Guangzhou, China. (3)The Second Affiliated Hospital, Dalian Medical University,
+Dalian, China. (4)Sun Yat-Sen University Cancer Center, State Key Laboratory of
+Oncology in South China, Collaborative Innovation Center of Cancer Medicine,
+Guangzhou, China. (5)State Key Laboratory of Targeted Drug for Tumors of
+Guangdong Province, Guangzhou Double Bioproduct Inc., Guangzhou, China.
+
+BPTF, a subunit of NURF, is well known to be involved in the development of
+eukaryotic cell, but little is known about its roles in cancers, especially in
+non-small-cell lung cancer (NSCLC). Here we showed that BPTF was specifically
+overexpressed in NSCLC cell lines and lung adenocarcinoma tissues. Knockdown of
+BPTF by siRNA significantly inhibited cell proliferation, induced cell apoptosis 
+and arrested cell cycle progress from G1 to S phase. We also found that BPTF
+knockdown downregulated the expression of the phosphorylated Erk1/2, PI3K and Akt
+proteins and induced the cleavage of caspase-8, caspase-7 and PARP proteins,
+thereby inhibiting the MAPK and PI3K/AKT signaling and activating apoptotic
+pathway. BPTF knockdown by siRNA also upregulated the cell cycle inhibitors such 
+as p21 and p18 but inhibited the expression of cyclin D, phospho-Rb and
+phospho-cdc2 in lung cancer cells. Moreover, BPTF knockdown by its specific shRNA
+inhibited lung cancer growth in vivo in the xenografts of A549 cells accompanied 
+by the suppression of VEGF, p-Erk and p-Akt expression. Immunohistochemical assay
+for tumor tissue microarrays of lung tumor tissues showed that BPTF
+overexpression predicted a poor prognosis in the patients with lung
+adenocarcinomas. Therefore, our data indicate that BPTF plays an essential role
+in cell growth and survival by targeting multiply signaling pathways in human
+lung cancers.
+
+PMCID: PMC4741809
+PMID: 26418899  [PubMed - in process]
+
+
+5. ACS Chem Biol. 2015 Oct 16;10(10):2246-56. doi: 10.1021/acschembio.5b00483. Epub 
+2015 Jul 28.
+
+Dual Screening of BPTF and Brd4 Using Protein-Observed Fluorine NMR Uncovers New 
+Bromodomain Probe Molecules.
+
+Urick AK(1), Hawk LM(1), Cassel MK(1), Mishra NK(1), Liu S(2), Adhikari N(3),
+Zhang W(2), dos Santos CO(4), Hall JL(3), Pomerantz WC(1).
+
+Author information: 
+(1)Department of Chemistry, University of Minnesota , 207 Pleasant St. SE,
+Minneapolis, Minnesota 55455, United States. (2)Department of Chemistry,
+University of Massachusetts Boston , 100 Morrissey Boulevard, Boston,
+Massachusetts 02125, United States. (3)Lillehei Heart Institute , Department of
+Medicine, 2231 6th Street SE, Minneapolis, Minnesota 55455, United States.
+(4)Cold Spring Harbor Laboratory , 1 Bungtown Road, Cold Spring Harbor, New York 
+11724, United States.
+
+Bromodomain-containing protein dysregulation is linked to cancer, diabetes, and
+inflammation. Selective inhibition of bromodomain function is a newly proposed
+therapeutic strategy. We describe a (19)F NMR dual screening method for small
+molecule discovery using fluorinated tryptophan resonances on two
+bromodomain-containing proteins. The chemical shift dispersion of (19)F
+resonances within fluorine-labeled proteins enables the simultaneous analysis of 
+two fluorinated bromodomains by NMR. A library of 229 small molecules was
+screened against the first bromodomain of Brd4 and the BPTF bromodomain. We
+report the first small molecule selective for BPTF over Brd4, termed AU1. The Kd 
+= 2.8 µM for AU1, which is active in a cell-based reporter assay. No binding is
+detected with Brd4. Three new Brd4 inhibitors with submicromolar affinity were
+also discovered. Brd4 hits were validated in a thermal stability assay and
+potency determined via fluorescence anisotropy. The speed, ease of
+interpretation, and low protein concentration needed for protein-observed (19)F
+NMR experiments in a multiprotein format offers a new method to discover and
+characterize selective ligands for bromodomain-containing proteins.
+
+PMID: 26158404  [PubMed - in process]
+
+
+6. J Neurosci. 2015 Jun 3;35(22):8493-506. doi: 10.1523/JNEUROSCI.0377-15.2015.
+
+The Chromatin Remodeling Protein Bptf Promotes Posterior Neuroectodermal Fate by 
+Enhancing Smad2-Activated wnt8a Expression.
+
+Ma Y(1), Liu X(1), Liu Z(1), Wei S(1), Shang H(1), Xue Y(2), Cao Y(1), Meng A(3),
+Wang Q(4).
+
+Author information: 
+(1)State Key Laboratory of Biomembrane and Membrane Biotechnology, Institute of
+Zoology, Chinese Academy of Sciences, Beijing, China, and. (2)Tsinghua-Peking
+Center for Life Sciences, School of Life Sciences, Tsinghua University, Beijing, 
+China. (3)Tsinghua-Peking Center for Life Sciences, School of Life Sciences,
+Tsinghua University, Beijing, China qiangwang@ioz.ac.cn
+mengam@mail.tsinghua.edu.cn. (4)State Key Laboratory of Biomembrane and Membrane 
+Biotechnology, Institute of Zoology, Chinese Academy of Sciences, Beijing, China,
+and qiangwang@ioz.ac.cn mengam@mail.tsinghua.edu.cn.
+
+During vertebrate embryogenesis, the neuroectoderm is induced from dorsal
+ectoderm and then partitioned into anterior and posterior neuroectodermal domains
+by posteriorizing signals, such as Wnt and fibroblast growth factor. However,
+little is known about epigenetic regulation of posteriorizing gene expression.
+Here, we report a requirement of the chromatin remodeling protein Bptf for
+neuroectodermal posteriorization in zebrafish embryos. Knockdown of bptf leads to
+an expansion of the anterior neuroectoderm at the expense of the posterior
+ectoderm. Bptf functionally and physically interacts with p-Smad2, which is
+activated by non-Nodal TGF-ß signaling, to promote the expression of wnt8a, a
+critical gene for neural posteriorization. Bptf and Smad2 directly bind to and
+activate the wnt8a promoter through recruiting NURF remodeling complex. When bptf
+function or TGF-ß signal transduction is inhibited, the nucleosome density on the
+wnt8a promoter is increased. We propose that Bptf and TGF-ß/Smad2 mediate
+nucleosome remodeling to regulate wnt8a expression and hence neural
+posteriorization.
+
+Copyright © 2015 the authors 0270-6474/15/358493-14$15.00/0.
+
+PMID: 26041917  [PubMed - indexed for MEDLINE]
+
+
+7. Expert Rev Proteomics. 2015 Jun;12(3):317-28. doi: 10.1586/14789450.2015.1033409.
+Epub 2015 Apr 3.
+
+Functional proteomics of the epigenetic regulators ASXL1, ASXL2 and ASXL3: a
+convergence of proteomics and epigenetics for translational medicine.
+
+Katoh M(1).
+
+Author information: 
+(1)Department of Omics Network, National Cancer Center - Japan, 5-1-1 Tsukiji
+Chuo Ward, Tokyo 104-0045, Japan.
+
+ASXL1, ASXL2 and ASXL3 are epigenetic scaffolds for BAP1, EZH2, NCOA1, nuclear
+receptors and WTIP. Here, functional proteomics of the ASXL family members are
+reviewed with emphasis on mutation spectra, the ASXM2 domain and the plant
+homeodomain (PHD) finger. Copy number gains of ASXL1 occur in chromosome 20q11.2 
+duplication syndrome and cervical cancer. Truncation mutations of ASXLs occur in 
+autism, Bohring-Opitz and related syndromes, hematological malignancies and solid
+tumors, such as prostate cancer, breast cancer and high-grade glioma, which are
+gain- or loss-of-function mutations. The ASXM2 domain is a binding module for
+androgen receptor and estrogen receptor a, while the PHD finger is a ligand of
+WTIP LIM domains and a putative chromatin-binding module. Phylogenetic analyses
+of 139 human PHD fingers revealed that ASXL PHD fingers cluster with those of
+BPTF, DIDO, ING1, KDM5A (JARID1A), KMT2E (MLL5), PHF2, PHF8 and PHF23. The cell
+context-dependent epigenetic code of ASXLs should be deciphered to develop
+therapeutics for human diseases.
+
+PMID: 25835095  [PubMed - indexed for MEDLINE]
+
+
+8. Int J Clin Exp Med. 2015 Jan 15;8(1):714-21. eCollection 2015.
+
+Upregulated MiR-1269 in hepatocellular carcinoma and its clinical significance.
+
+Gan TQ(1), Tang RX(2), He RQ(1), Dang YW(2), Xie Y(2), Chen G(2).
+
+Author information: 
+(1)Department of Medical Oncology, First Affiliated Hospital of Guangxi Medical
+University 6 Shuangyong Road, Nanning 530021, Guangxi Zhuang Autonomous Region,
+P. R. China. (2)Department of Pathology, First Affiliated Hospital of Guangxi
+Medical University 6 Shuangyong Road, Nanning 530021, Guangxi Zhuang Autonomous
+Region, P. R. China.
+
+OBJECTIVES: MicroRNAs (miRNAs) are small, non-coding RNAs that have been
+increasingly shown important roles in various classes of cancers. However,
+miR-1269 has not been comprehensively studied in hepatocellular carcinoma (HCC). 
+Thus, the purpose of the study was to evaluate the relationship between the
+expression of miR-1269 and clinicopathological parameters in HCC patients, and to
+predict its potential target genes.
+METHODS: Total RNA was extracted from 95 pairs of HCC and matching adjacent
+non-cancerous tissues. The level of miR-1269 expression was detected by using
+quantitative real-time RT-PCR and calculated with the 2(-<U+0394>Cq) method. Eighteen
+online biological databases were used for targets prediction.
+RESULTS: MiR-1269 expression was up-regulated in HCC tissues (1.9264±0.7160)
+compared to their non-tumor livers (1.5518±0.7273, P < 0.001). Level of miR-1269 
+was positively correlated to tumor nodes (r = 0.206, P = 0.046), metastasis (r = 
+0.203, P = 0.049), portal vein tumor embolus (r = 0.247, P = 0.016),
+vaso-invasion (r = 0.273, P = 0.008), tumor capsular infiltration (r = 0.407, P <
+0.001) and expression of MTDH (r = 0.211, P = 0.005). Finally, 7 databases could 
+be applied for the target prediction successfully. There were 9 targeted genes
+which had been shown concurrently by at least 4 databases: AGAP1, AGK, BPTF,
+C16orf74, DACT1, LIX1L, RBMS3, ZNF706 and BMPER.
+CONCLUSIONS: MiR-1269 may be possibly involved in the tumorigenesis and progress 
+of HCC. MiR-1269 could also act as a potential biomarker for the prognosis
+prediction for HCC.
+
+PMCID: PMC4358503
+PMID: 25785048  [PubMed]
+
+
+9. J Cancer Res Clin Oncol. 2015 Aug;141(8):1465-74. doi: 10.1007/s00432-015-1937-y.
+Epub 2015 Feb 26.
+
+The prognostic significance of bromodomain PHD-finger transcription factor in
+colorectal carcinoma and association with vimentin and E-cadherin.
+
+Xiao S(1), Liu L, Lu X, Long J, Zhou X, Fang M.
+
+Author information: 
+(1)Department of General Surgery, Affiliated Nanhua Hospital of University of
+South China, 336 South Dongfeng Road, Hengyang, 421002, Hunan Province, China,
+cramp800@163.com.
+
+PURPOSE: Bromodomain PHD-finger transcription factor (BPTF) is a
+chromatin-mediated regulation of transcription factor, playing an important role 
+in embryogenesis and differentiation. Epithelial-mesenchymal transition (EMT) has
+a pivotal role in colorectal cancer (CRC) progression, sharing the similar
+characteristic with BPTF. Therefore, the aim of this study was to examine the
+expression and clinical value of BPTF and the correlation with EMT markers in
+patients with CRC.
+METHODS: Real-time PCR and Western blot were performed to evaluate the mRNA and
+protein expression levels of BPTF in 20 pairs of fresh-frozen CRC and non-tumor
+adjacent tissues (NATs). The expressions of BPTF, vimentin and E-cadherin were
+examined by immunohistochemical staining in 105 cases of paraffin-embedded
+primary CRC specimens. In addition, the clinicopathological significance and the 
+prognostic value of BPTF, vimentin and E-cadherin expression were further
+determined. Then, the correlation of BPTF with vimentin and E-cadherin was also
+explored.
+RESULTS: BPTF mRNA and protein expression were significantly overexpressed in CRC
+tissues when compared with paired NATs (P < 0.01). The expression levels of BPTF 
+and vimentin in CRC paraffin-embedded specimens were significantly higher than
+the expression in NATs (P < 0.01), while the expressions of E-cadherin in tumors 
+were obviously lower than in NATs (P < 0.01). Tumors with high expression of BPTF
+and vimentin, as well as low expression of E-cadherin, were significantly
+correlated with various adverse clinicopathological factors (P < 0.05). The CRC
+patients with a high BPTF or vimentin expression had shorter overall survival
+than those with lower expression (P < 0.05). Furthermore, univariate analysis and
+multivariate analysis showed that high BPTF expression was an independent
+prognostic factor for patients with CRC. The last and more interesting Spearman
+rank correlation analysis and microscopic observation found that the expression
+of BPTF obviously correlated with the expression of EMT markers vimentin and
+E-cadherin.
+CONCLUSION: Our results strongly suggested that the high BPTF expression was
+significantly correlated with tumor progression and may be a potent prognostic
+marker of CRC. Moreover, BPTF expression was significantly associated with EMT
+markers vimentin and E-cadherin.
+
+PMID: 25716692  [PubMed - indexed for MEDLINE]
+
+
+10. J Natl Cancer Inst. 2015 Feb 23;107(5). pii: djv034. doi: 10.1093/jnci/djv034.
+
+The role of BPTF in melanoma progression and in response to BRAF-targeted
+therapy.
+
+Dar AA(1), Nosrati M(1), Bezrookove V(1), de Semir D(1), Majid S(1), Thummala
+S(1), Sun V(1), Tong S(1), Leong SP(1), Minor D(1), Billings PR(1), Soroceanu
+L(1), Debs R(1), Miller JR 3rd(1), Sagebiel RW(1), Kashani-Sabet M(2).
+
+Author information: 
+(1)Center for Melanoma Research and Treatment (AAD, MN, VB, DdS, ST, VS, ST,
+SPLL, DM, JRMIII, RWS, MKS), California Pacific Medical Center Research
+Institute, San Francisco, CA (AAD, MN, VB, DdS, ST, VS, ST, SPLL, DM, LS, RD,
+JRMIII, RWS, MKS); Department of Urology, Veterans Affairs Medical Center and
+University of California San Francisco, San Francisco, CA (SM); Life
+Technologies, Inc. Carlsbad, CA (PRB). (2)Center for Melanoma Research and
+Treatment (AAD, MN, VB, DdS, ST, VS, ST, SPLL, DM, JRMIII, RWS, MKS), California 
+Pacific Medical Center Research Institute, San Francisco, CA (AAD, MN, VB, DdS,
+ST, VS, ST, SPLL, DM, LS, RD, JRMIII, RWS, MKS); Department of Urology, Veterans 
+Affairs Medical Center and University of California San Francisco, San Francisco,
+CA (SM); Life Technologies, Inc. Carlsbad, CA (PRB). kashani@cpmcri.org.
+
+BACKGROUND: Bromodomain PHD finger transcription factor (BPTF) plays an important
+role in chromatin remodeling, but its functional role in tumor progression is
+incompletely understood. Here we explore the oncogenic effects of BPTF in
+melanoma.
+METHODS: The consequences of differential expression of BPTF were explored using 
+shRNA-mediated knockdown in several melanoma cell lines. Immunoblotting was used 
+to assess the expression of various proteins regulated by BPTF. The functional
+role of BPTF in melanoma progression was investigated using assays of colony
+formation, invasion, cell cycle, sensitivity to selective BRAF inhibitors, and in
+xenograft models of melanoma progression (n = 12 mice per group). The biomarker
+role of BPTF in melanoma progression was assessed using fluorescence in situ
+hybridization and immunohistochemical analyses. All statistical tests were
+two-sided.
+RESULTS: shRNA-mediated BPTF silencing suppressed the proliferative capacity (by 
+65.5%) and metastatic potential (by 66.4%) of melanoma cells. Elevated BPTF copy 
+number (mean = 3) was observed in 28 of 77 (36.4%) melanomas. BPTF overexpression
+predicted poor survival in a cohort of 311 melanoma patients (distant
+metastasis-free survival P = .03, and disease-specific survival P = .008), and
+promoted resistance to BRAF inhibitors in melanoma cell lines. Metastatic
+melanoma tumors progressing on BRAF inhibitors contained low BPTF-expressing,
+apoptotic tumor cell subclones, indicating the continued presence of
+drug-responsive subclones within tumors demonstrating overall resistance to
+anti-BRAF agents.
+CONCLUSIONS: These studies demonstrate multiple protumorigenic functions for BPTF
+and identify it as a novel target for anticancer therapy. They also suggest the
+combination of BPTF targeting with BRAF inhibitors as a novel therapeutic
+strategy for melanomas with mutant BRAF.
+
+© The Author 2015. Published by Oxford University Press.
+
+PMCID: PMC4555639
+PMID: 25713167  [PubMed - indexed for MEDLINE]
+
+
+11. Cell. 2014 Oct 23;159(3):543-57. doi: 10.1016/j.cell.2014.09.033.
+
+Enhancer interaction networks as a means for singular olfactory receptor
+expression.
+
+Markenscoff-Papadimitriou E(1), Allen WE(2), Colquitt BM(1), Goh T(3), Murphy
+KK(4), Monahan K(3), Mosley CP(3), Ahituv N(4), Lomvardas S(5).
+
+Author information: 
+(1)Neuroscience Graduate Program, University of California, San Francisco, San
+Francisco, CA 94158, USA. (2)Neuroscience Graduate Program, Stanford University
+School of Medicine, Stanford, CA 94305, USA. (3)Department of Anatomy, University
+of California, San Francisco, San Francisco, CA 94158, USA. (4)Department of
+Bioengineering and Therapeutic Sciences, University of California, San Francisco,
+San Francisco, CA 94158, USA; Institute for Human Genetics, University of
+California, San Francisco, San Francisco, CA 94158, USA. (5)Neuroscience Graduate
+Program, University of California, San Francisco, San Francisco, CA 94158, USA;
+Department of Anatomy, University of California, San Francisco, San Francisco, CA
+94158, USA. Electronic address: sl682@columbia.edu.
+
+The transcriptional activation of one out of ?2800 olfactory receptor (OR)
+alleles is a poorly understood process. Here, we identify a plethora of putative 
+OR enhancers and study their in vivo activity in olfactory neurons. Distinguished
+by an unusual epigenetic signature, candidate OR enhancers are characterized by
+extensive interchromosomal interactions associated with OR transcription and
+share a similar pattern of transcription factor footprints. In particular, we
+establish the role of the transcription factor Bptf as a facilitator of both
+enhancer interactions and OR transcription. Our observations agree with the model
+whereby OR transcription occurs in the context of multiple interacting enhancers.
+Disruption of these interchromosomal interactions results in weak and multigenic 
+OR expression, suggesting that the rare coincidence of numerous enhancers over a 
+stochastically chosen OR may account for the singularity and robustness in OR
+transcription.
+
+PMCID: PMC4243057
+PMID: 25417106  [PubMed - indexed for MEDLINE]
+
+
+12. Dig Dis Sci. 2015 Apr;60(4):910-8. doi: 10.1007/s10620-014-3411-0. Epub 2014 Nov 
+2.
+
+BPTF Associated with EMT Indicates Negative Prognosis in Patients with
+Hepatocellular Carcinoma.
+
+Xiao S(1), Liu L, Fang M, Zhou X, Peng X, Long J, Lu X.
+
+Author information: 
+(1)Department of General Surgery, Affiliated Nanhua Hospital of University of
+South China, 336 South Dongfeng Road, Hengyang, 421002, Hunan Province, China.
+
+BACKGROUND/AIMS: Epithelial-mesenchymal transition (EMT) plays an important role 
+in hepatocellular carcinoma (HCC) dissemination. Bromodomain PHD-finger
+transcription factor (BPTF) could regulate embrogenesis and stem cell
+differentiation, and it may be involved in tumor progression and EMT. In this
+study, we aimed to determine BPTF, E-cadherin and vimentin expression in tumor
+tissues and the clinical significance in relation to HCC.
+METHODS: The BPTF, vimentin and E-cadherin expression of 106 HCC tissue samples
+was examined by immunohistochemical staining.
+RESULTS: BPTF and vimentin showed high expression and E-cadherin showed low
+expression in HCC. BPTF is associated with the tumor number, vascular invasion,
+Edmondson-Steiner grade, TNM stage and recurrence (P < 0.05). Vimentin is
+positively correlated with tumor size, tumor number, vascular invasion,
+Edmondson-Steiner grade, TNM stage and recurrence (P < 0.05). E-cadherin is
+negatively correlated with tumor number, Edmondson-Steiner grade, TNM stage and
+recurrence (P < 0.05). Survival analysis has shown that high expression of BPTF
+and vimentin indicates poorer overall and disease-free survival (P < 0.05).
+Multivariate analysis shows that BPTF is an independent marker for survival
+prediction (P = 0.015). Additionally, high BPTF expression is correlated with
+high vimentin expression and low E-cadherin expression (P < 0.05).
+CONCLUSION: High BPTF expression may be an independent marker for survival
+prediction in HCC patients and is probably involved in EMT.
+
+PMID: 25362514  [PubMed - indexed for MEDLINE]
+
+
+13. Mol Cell Biol. 2015 Jan;35(1):224-37. doi: 10.1128/MCB.00553-14. Epub 2014 Oct
+27.
+
+Functional interactions between NURF and Ctcf regulate gene expression.
+
+Qiu Z(1), Song C(1), Malakouti N(1), Murray D(1), Hariz A(1), Zimmerman M(1),
+Gygax D(1), Alhazmi A(1), Landry JW(2).
+
+Author information: 
+(1)Department of Human and Molecular Genetics, VCU Institute of Molecular
+Medicine, Massey Cancer Center, Virginia Commonwealth University School of
+Medicine, Richmond, Virginia, USA. (2)Department of Human and Molecular Genetics,
+VCU Institute of Molecular Medicine, Massey Cancer Center, Virginia Commonwealth 
+University School of Medicine, Richmond, Virginia, USA jwlandry2@vcu.edu.
+
+Gene expression frequently requires chromatin-remodeling complexes, and it is
+assumed that these complexes have common gene targets across cell types. Contrary
+to this belief, we show by genome-wide expression profiling that Bptf, an
+essential and unique subunit of the nucleosome-remodeling factor (NURF),
+predominantly regulates the expression of a unique set of genes between diverse
+cell types. Coincident with its functions in gene expression, we observed that
+Bptf is also important for regulating nucleosome occupancy at nucleosome-free
+regions (NFRs), many of which are located at sites occupied by the multivalent
+factors Ctcf and cohesin. NURF function at Ctcf binding sites could be direct,
+because Bptf occupies Ctcf binding sites in vivo and has physical interactions
+with CTCF and the cohesin subunit SA2. Assays of several Ctcf binding sites using
+reporter assays showed that their regulatory activity requires Bptf in two
+different cell types. Focused studies at H2-K1 showed that Bptf regulates the
+ability of Klf4 to bind near an upstream Ctcf site, possibly influencing gene
+expression. In combination, these studies demonstrate that gene expression as
+regulated by NURF occurs partly through physical and functional interactions with
+the ubiquitous and multivalent factors Ctcf and cohesin.
+
+Copyright © 2015, American Society for Microbiology. All Rights Reserved.
+
+PMCID: PMC4295392
+PMID: 25348714  [PubMed - indexed for MEDLINE]
+
+
+14. Mol Biol Rep. 2015 Feb;42(2):507-16. doi: 10.1007/s11033-014-3794-1. Epub 2014
+Oct 17.
+
+Loss of heterozygosity of chromosome 13q33-34 region and molecular analysis of
+ING1 and p53 genes in bladder carcinoma.
+
+Igci M(1), Arslan A, Erturhan S, Igci YZ, Pala E, Gogebakan B, Karakok M, Cakmak 
+EA, Cengiz B.
+
+Author information: 
+(1)Department of Medical Biology, Faculty of Medicine, University of Gaziantep,
+27310, Gaziantep, Turkey, mehriigci@gmail.com.
+
+Cancer is a consequence of accumulation of genetic and epigenetic alterations in 
+the cell which can lead to activation of oncogenes or inactivation of tumor
+suppressor genes (TSG). Since members of ING family were discovered as TSGs in
+different cancer types, it was aimed to analyze the chromosome 13q33-34 region,
+ING1 and p53 genes in bladder cancer. 30 paired normal and tumor tissues were
+investigated in terms of microdeletion of chromosome 13q33-34 region, ING1
+expression and mutation status of ING1 and p53 genes. Because there is no data
+available about the transcription factors which bind to ING1 promoter, the
+promoter sequence was analyzed via Genomatix-MatInspector and TFSEARCH softwares.
+Used DS markers were D13S285, D13S1315, D13S796, D13S278, D13S158, and D13S779
+where loss of heterozygosity (LOH) results were as 23.3, 20, 6.7, 3.3, 6.7, and 0
+%, respectively. The highest LOH scores were obtained with markers D13S285 and
+D13S1315 which are flanking the ING1. Seven of 30 cases showed alteration in
+expression (p > 0.05). However, no mutation was detected in the exons of ING1.
+One patient showed a two-nucleotide deletion in p53 gene. However no significant 
+TSG activity of ING1 was observed while higher activity was reported in different
+cancer types. As for the LOH data 13q33-34 region may contain different candidate
+TSGs like COL4A1, COL4A2 and SOX1. As a result of computational promoter
+analysis, some factors like ABL, E2F, HIF1, SOX, P53, BPTF, NRSF, c-Rel and c-ETS
+were associated with the promoter region. Molecular analysis of ING1 promoter
+warrants further analysis.
+
+PMID: 25324173  [PubMed - indexed for MEDLINE]
+
+
+15. ACS Chem Biol. 2014 Dec 19;9(12):2755-60. doi: 10.1021/cb5007344. Epub 2014 Oct
+27.
+
+Fluorinated aromatic amino acids are sensitive 19F NMR probes for
+bromodomain-ligand interactions.
+
+Mishra NK(1), Urick AK, Ember SW, Schönbrunn E, Pomerantz WC.
+
+Author information: 
+(1)Department of Chemistry, University of Minnesota , 207 Pleasant St. SE,
+Minneapolis, Minnesota 55455, United States.
+
+We describe a (19)F NMR method for detecting bromodomain-ligand interactions
+using fluorine-labeled aromatic amino acids due to the conservation of aromatic
+residues in the bromodomain binding site. We test the sensitivity, accuracy, and 
+speed of this method with small molecule ligands (+)-JQ1, BI2536, Dinaciclib,
+TG101348, and acetaminophen using three bromodomains Brd4, BrdT, and BPTF.
+Simplified (19)F NMR spectra allowed for simultaneous testing of multiple
+bromodomains to assess selectivity and identification of a new BPTF ligand.
+Fluorine labeling only modestly affected the Brd4 structure and function assessed
+by isothermal titration calorimetry, circular dichroism, and X-ray
+crystallography. The speed, ease of interpretation, and low concentration of
+protein needed for binding experiments affords a new method to discover and
+characterize both native and new ligands.
+
+PMCID: PMC4273984
+PMID: 25290579  [PubMed - indexed for MEDLINE]
+
+
+16. BMC Cancer. 2014 May 19;14:342. doi: 10.1186/1471-2407-14-342.
+
+Genome instability in blood cells of a BRCA1+ breast cancer family.
+
+Xiao F, Kim YC, Snyder C, Wen H, Chen PX, Luo J, Becirovic D, Downs B, Cowan KH, 
+Lynch H(1), Wang SM.
+
+Author information: 
+(1)Department of Genetics, Cell Biology and Anatomy, Omaha, NE 68198, USA.
+htlynch@creighton.edu.
+
+BACKGROUND: BRCA1 plays an essential role in maintaining genome stability.
+Inherited BRCA1 germline mutation (BRCA1+) is a determined genetic predisposition
+leading to high risk of breast cancer. While BRCA1+ induces breast cancer by
+causing genome instability, most of the knowledge is known about somatic genome
+instability in breast cancer cells but not germline genome instability.
+METHODS: Using the exome-sequencing method, we analyzed the genomes of blood
+cells in a typical BRCA1+ breast cancer family with an exon 13-duplicated founder
+mutation, including six breast cancer-affected and two breast cancer unaffected
+members.
+RESULTS: We identified 23 deleterious mutations in the breast cancer-affected
+family members, which are absent in the unaffected members. Multiple mutations
+damaged functionally important and breast cancer-related genes, including
+transcriptional factor BPTF and FOXP1, ubiquitin ligase CUL4B, phosphorylase
+kinase PHKG2, and nuclear receptor activator SRA1. Analysis of the mutations
+between the mothers and daughters shows that most mutations were germline
+mutation inherited from the ancestor(s) while only a few were somatic mutation
+generated de novo.
+CONCLUSION: Our study indicates that BRCA1+ can cause genome instability with
+both germline and somatic mutations in non-breast cells.
+
+PMCID: PMC4031489
+PMID: 24884718  [PubMed - indexed for MEDLINE]
+
+
+17. Cancer Epidemiol Biomarkers Prev. 2014 Jun;23(6):986-96. doi:
+10.1158/1055-9965.EPI-13-1251. Epub 2014 Apr 1.
+
+Associations between 25 lung cancer risk-related SNPs and polycyclic aromatic
+hydrocarbon-induced genetic damage in coke oven workers.
+
+Dai X(1), Deng S(1), Wang T(1), Qiu G(1), Li J(1), Yang B(1), Feng W(1), He X(1),
+Deng Q(1), Ye J(1), Zhang W(1), He M(1), Zhang X(1), Guo H(1), Wu T(2).
+
+Author information: 
+(1)Authors' Affiliations: Key Laboratory of Environment and Health and State Key 
+Laboratory of Environmental Health for Incubation, School of Public Health,
+Tongji Medical College, Huazhong University of Science and Technology; and
+Institute of Industrial Health, Wuhan Iron and Steel (group) Corporation, Wuhan, 
+Hubei, China. (2)Authors' Affiliations: Key Laboratory of Environment and Health 
+and State Key Laboratory of Environmental Health for Incubation, School of Public
+Health, Tongji Medical College, Huazhong University of Science and Technology;
+and Institute of Industrial Health, Wuhan Iron and Steel (group) Corporation,
+Wuhan, Hubei, China wut@mails.tjmu.edu.cn.
+
+BACKGROUND: Genome-wide association studies (GWAS) have identified multiple
+single-nucleotide polymorphisms (SNP) associated with lung cancer. However,
+whether these SNPs are associated with genetic damage, a crucial event in cancer 
+initiation and evolution, is still unknown. We aimed to establish associations
+between these SNPs and genetic damage caused by the ubiquitous carcinogens,
+polycyclic aromatic hydrocarbons (PAH).
+METHODS: We cross-sectionally investigated the associations between SNPs from
+published GWAS for lung cancer in Asians and PAH-induced genetic damage in 1,557 
+coke oven workers in China. Urinary PAH metabolites, plasma
+benzo[a]pyrene-r-7,t-8,c-10-tetrahydrotetrol-albumin (BPDE-Alb) adducts, urinary 
+8-hydroxydeoxyguanosine (8-OHdG), and micronuclei (MN) frequency were determined 
+by gas chromatography-mass spectrometry, sandwich ELISA, high-performance liquid 
+chromatography, and cytokinesis-block micronucleus assay, respectively.
+RESULTS: 13q12.12-rs753955C was suggestively associated with elevated 8-OHdG
+levels (P = 0.003). Higher 8-OHdG levels were observed in individuals with rare
+allele homozygotes (CC) than in TT homozygotes (ß, 0.297; 95% confidence
+interval, 0.124-0.471; P = 0.001). 9p21-rs1333040C, 10p14-rs1663689G, and
+15q25.1-rs3813572G were significantly associated with lower MN frequency (P
+values were 0.002, 0.001, and 0.005, respectively). 10p14-rs1663689G polymorphism
+downregulated the relationship of the total concentration of PAH metabolites to
+8-OHdG levels (Pinteraction = 0.002). TERT-rs2736100G and VTI1A-rs7086803A
+aggravated the relationship of BPDE-Alb adducts to MN frequency, whereas
+BPTF-rs7216064G attenuated that correlation (all Pinteraction < 0.001).
+CONCLUSIONS: Lung cancer risk-associated SNPs and their correlations with PAH
+exposure were associated with 8-OHdG levels and MN frequency.
+IMPACT: Lung cancer risk-associated SNPs might influence one's susceptibility to 
+genetic damage caused by PAHs. Cancer Epidemiol Biomarkers Prev; 23(6); 986-96.
+©2014 AACR.
+
+©2014 American Association for Cancer Research.
+
+PMID: 24692499  [PubMed - in process]
+
+
+18. Drug Alcohol Depend. 2014 Jan 1;134:362-9. doi: 10.1016/j.drugalcdep.2013.11.008.
+Epub 2013 Nov 16.
+
+DSM-5 cannabis use disorder: a phenotypic and genomic perspective.
+
+Agrawal A(1), Lynskey MT(2), Bucholz KK(3), Kapoor M(3), Almasy L(4), Dick DM(5),
+Edenberg HJ(6), Foroud T(6), Goate A(3), Hancock DB(7), Hartz S(3), Johnson
+EO(7), Hesselbrock V(8), Kramer JR(9), Kuperman S(10), Nurnberger JI Jr(6),
+Schuckit M(11), Bierut LJ(3).
+
+Author information: 
+(1)Washington University School of Medicine, Department of Psychiatry, St. Louis,
+MO, USA. Electronic address: arpana@wustl.edu. (2)Washington University School of
+Medicine, Department of Psychiatry, St. Louis, MO, USA; King's College, Institute
+of Psychiatry, London, UK. (3)Washington University School of Medicine,
+Department of Psychiatry, St. Louis, MO, USA. (4)Texas Biomedical Research
+Institute, San Antonio, TX, USA. (5)Virginia Commonwealth University, Virginia
+Institute of Psychiatric and Behavioral Genetics, VA, USA. (6)Indiana University 
+School of Medicine, Indianapolis, IN, USA. (7)RTI International, Behavioral and
+Health Epidemiology Program, Research Triangle Park, NC, USA. (8)University of
+Connecticut, Department of Psychiatry, Farmington, CT, USA. (9)University of Iowa
+School of Medicine, Department of Psychiatry, Iowa City, IA, USA. (10)University 
+of Iowa Hospitals, Division of Child Psychiatry, Iowa City, IA, USA.
+(11)University of California at San Diego, Department of Psychiatry, San Diego,
+CA, USA.
+
+BACKGROUND: We explore the factor structure of DSM-5 cannabis use disorders,
+examine its prevalence across European- and African-American respondents as well 
+as its genetic underpinnings, utilizing data from a genome-wide study of single
+nucleotide polymorphisms (SNPs). We also estimate the heritability of DSM-5
+cannabis use disorders explained by these common SNPs.
+METHODS: Data on 3053 subjects reporting a lifetime history of cannabis use were 
+utilized. Exploratory and confirmatory factor analyses were conducted to create a
+factor score, which was used in a genome-wide association analysis. p-values from
+the single SNP analysis were examined for evidence of gene-based association. The
+aggregate effect of all SNPs was also estimated using Genome-Wide Complex Traits 
+Analysis.
+RESULTS: The unidimensionality of DSM-5 cannabis use disorder criteria was
+demonstrated. Comparing DSM-IV to DSM-5, a decrease in prevalence of cannabis use
+disorders was only noted in European-American respondents and was exceedingly
+modest. For the DSM-5 cannabis use disorders factor score, no SNP surpassed the
+genome-wide significance testing threshold. However, in the European-American
+subsample, gene-based association testing resulted in significant associations in
+3 genes (C17orf58, BPTF and PPM1D) on chromosome 17q24. In aggregate, 21% of the 
+variance in DSM-5 cannabis use disorders was explained by the genome-wide SNPs;
+however, this estimate was not statistically significant.
+CONCLUSIONS: DSM-5 cannabis use disorder represents a unidimensional construct,
+the prevalence of which is only modestly elevated above the DSM-IV version.
+Considerably larger sample sizes will be required to identify individual SNPs
+associated with cannabis use disorders and unequivocally establish its polygenic 
+underpinnings.
+
+Copyright © 2013 Elsevier Ireland Ltd. All rights reserved.
+
+PMCID: PMC3943464
+PMID: 24315570  [PubMed - indexed for MEDLINE]
+
+
+19. Epigenetics Chromatin. 2013 Oct 16;6(1):34. doi: 10.1186/1756-8935-6-34.
+
+Gene dysregulation by histone variant H2A.Z in bladder cancer.
+
+Kim K, Punj V, Choi J, Heo K, Kim JM, Laird PW, An W.
+
+BACKGROUND: The incorporation of histone variants into nucleosomes is one of the 
+main strategies that the cell uses to regulate the structure and function of
+chromatin. Histone H2A.Z is an evolutionarily conserved histone H2A variant that 
+is preferentially localized within nucleosomes at the transcriptional start site 
+(TSS). H2A.Z reorganizes the local chromatin structure and recruits the
+transcriptional machinery for gene activation. High expression of H2A.Z has been 
+reported in several types of cancers and is causally linked to genomic
+instability and tumorigenesis. However, it is not entirely clear how H2A.Z
+overexpression in cancer cells establishes aberrant chromatin states and promotes
+gene expression.
+RESULTS: Through integration of genome-wide H2A.Z ChIP-seq data with microarray
+data, we demonstrate that H2A.Z is enriched around the TSS of cell cycle
+regulatory genes in bladder cancer cells, and this enrichment is correlated with 
+the elevated expression of cancer-promoting genes. RNAi-mediated knockdown of
+H2A.Z in the cancer cells causes transcriptional suppression of multiple cell
+cycle regulatory genes with a distinct decrease in cell proliferation. H2A.Z
+nucleosomes around the TSS have higher levels of H3K4me2/me3, which coincides
+with the recruitment of two chromatin factors, WDR5 and BPTF. The observed
+recruitment is functional, as the active states of H2A.Z target genes are largely
+erased by suppressing the expression of WDR5 or BPTF, effects resembling H2A.Z
+knockdown.
+CONCLUSIONS: We conclude that H2A.Z is overexpressed in bladder cancer cells and 
+contributes to cancer-related transcription pathways. We also provide evidence in
+support of the engagement of H3K4me2/me3 and WDR5/BPTF in H2A.Z-induced cancer
+pathogenesis. Further studies are warranted to understand how H2A.Z
+overexpression contributes to the recruitment of the full repertoire of
+transcription machinery to target genes in bladder cancer cells.
+
+PMCID: PMC3853418
+PMID: 24279307  [PubMed]
+
+
+20. Nat Genet. 2013 Dec;45(12):1464-9. doi: 10.1038/ng.2799. Epub 2013 Oct 13.
+
+Recurrent inactivation of STAG2 in bladder cancer is not associated with
+aneuploidy.
+
+Balbás-Martínez C(1), Sagrera A, Carrillo-de-Santa-Pau E, Earl J, Márquez M,
+Vazquez M, Lapi E, Castro-Giner F, Beltran S, Bayés M, Carrato A, Cigudosa JC,
+Domínguez O, Gut M, Herranz J, Juanpere N, Kogevinas M, Langa X, López-Knowles E,
+Lorente JA, Lloreta J, Pisano DG, Richart L, Rico D, Salgado RN, Tardón A,
+Chanock S, Heath S, Valencia A, Losada A, Gut I, Malats N, Real FX.
+
+Author information: 
+(1)Epithelial Carcinogenesis Group, Molecular Pathology Programme, CNIO (Spanish 
+National Cancer Research Centre), Madrid, Spain.
+
+Comment in
+    Nat Rev Urol. 2013 Dec;10(12):675.
+    Urology. 2014 Apr;83(4):691-2.
+
+Urothelial bladder cancer (UBC) is heterogeneous at the clinical, pathological
+and genetic levels. Tumor invasiveness (T) and grade (G) are the main factors
+associated with outcome and determine patient management. A discovery exome
+sequencing screen (n = 17), followed by a prevalence screen (n = 60), identified 
+new genes mutated in this tumor coding for proteins involved in chromatin
+modification (MLL2, ASXL2 and BPTF), cell division (STAG2, SMC1A and SMC1B) and
+DNA repair (ATM, ERCC2 and FANCA). STAG2, a subunit of cohesin, was significantly
+and commonly mutated or lost in UBC, mainly in tumors of low stage or grade, and 
+its loss was associated with improved outcome. Loss of expression was often
+observed in chromosomally stable tumors, and STAG2 knockdown in bladder cancer
+cells did not increase aneuploidy. STAG2 reintroduction in non-expressing cells
+led to reduced colony formation. Our findings indicate that STAG2 is a new UBC
+tumor suppressor acting through mechanisms that are different from its role in
+preventing aneuploidy.
+
+PMCID: PMC3840052
+PMID: 24121791  [PubMed - indexed for MEDLINE]
+
+
+21. Nucleic Acids Res. 2013 Dec;41(22):10170-84. doi: 10.1093/nar/gkt811. Epub 2013
+Sep 12.
+
+The splicing landscape is globally reprogrammed during male meiosis.
+
+Schmid R(1), Grellscheid SN, Ehrmann I, Dalgliesh C, Danilenko M, Paronetto MP,
+Pedrotti S, Grellscheid D, Dixon RJ, Sette C, Eperon IC, Elliott DJ.
+
+Author information: 
+(1)Department of Biochemistry, University of Leicester, Leicester, LE1 9HN, UK,
+Institute of Genetic Medicine, Newcastle University, Newcastle upon Tyne, NE1
+3BZ, UK, School of Biological and Biomedical Sciences, Durham University, Durham,
+DH1 3LE, UK, Department of Health Sciences, University of 00135 Rome 'Foro
+Italico', Rome, Italy, Laboratories of Neuroembryology and of Cellular and
+Molecular Neurobiology, Fondazione Santa Lucia IRCCS, 00143 Rome, Italy,
+Department of Public Health and Cell Biology, University of Rome Tor Vergata,
+00133 Rome, Italy, Institute of Particle Physics Phenomenology, Durham
+University, Durham, DH1 3LE, UK and Life Technologies Ltd., Paisley PA4 9RF, UK.
+
+Meiosis requires conserved transcriptional changes, but it is not known whether
+there is a corresponding set of RNA splicing switches. Here, we used RNAseq of
+mouse testis to identify changes associated with the progression from mitotic
+spermatogonia to meiotic spermatocytes. We identified ~150 splicing switches,
+most of which affect conserved protein-coding exons. The expression of many key
+splicing regulators changed in the course of meiosis, including downregulation of
+polypyrimidine tract binding protein (PTBP1) and heterogeneous nuclear RNP A1,
+and upregulation of nPTB, Tra2ß, muscleblind, CELF proteins, Sam68 and T-STAR.
+The sequences near the regulated exons were significantly enriched in target
+sites for PTB, Tra2ß and STAR proteins. Reporter minigene experiments
+investigating representative exons in transfected cells showed that PTB binding
+sites were critical for splicing of a cassette exon in the Ralgps2 mRNA and a
+shift in alternative 5' splice site usage in the Bptf mRNA. We speculate that
+nPTB might functionally replace PTBP1 during meiosis for some target exons, with 
+changes in the expression of other splicing factors helping to establish meiotic 
+splicing patterns. Our data suggest that there are substantial changes in the
+determinants and patterns of alternative splicing in the mitotic-to-meiotic
+transition of the germ cell cycle.
+
+PMCID: PMC3905889
+PMID: 24038356  [PubMed - indexed for MEDLINE]
+
+
+22. Plant Physiol Biochem. 2013 Sep;70:33-42. doi: 10.1016/j.plaphy.2013.05.001. Epub
+2013 May 17.
+
+Analysis of rice Snf2 family proteins and their potential roles in epigenetic
+regulation.
+
+Hu Y(1), Zhu N, Wang X, Yi Q, Zhu D, Lai Y, Zhao Y.
+
+Author information: 
+(1)Jingchu University of Technology, 448000 Jingmen, China. feng2602@sina.com
+
+Snf2 family proteins are ATP-dependent chromatin remodeling factors that control 
+many aspects of DNA events such as transcription, replication, homologous
+recombination and DNA repair. In animals several members in this family have been
+revealed to control gene expression in concert with other epigenetic mechanisms
+including histone modification, histone variants and DNA methylation. Their
+function in regulating genome expression in plant has hardly been disclosed
+before except in Arabidopsis. Here we identified 40 members of this family in the
+rice (Oryza Sativa) genome and constructed a phylogenetic tree together with
+Arabidopsis 41 Snf2 proteins. Sequence alignment of the Snf2 helicase regions
+revealed conserved motifs and blocks in most proteins. Expression profile
+analysis indicates that many rice Snf2 family genes show a tissue-specific
+expression pattern and some of them respond to abiotic stresses including
+drought, salt and cold. The results provide a basis for further analysis of their
+roles in epigenetic regulation to control rice development.
+
+Copyright © 2013 Elsevier Masson SAS. All rights reserved.
+
+PMID: 23770592  [PubMed - indexed for MEDLINE]
+
+
+23. Nat Cell Biol. 2012 Jun 24;14(7):753-63. doi: 10.1038/ncb2520.
+
+Diverse epigenetic strategies interact to control epidermal differentiation.
+
+Mulder KW(1), Wang X, Escriu C, Ito Y, Schwarz RF, Gillis J, Sirokmány G, Donati 
+G, Uribe-Lewis S, Pavlidis P, Murrell A, Markowetz F, Watt FM.
+
+Author information: 
+(1)Epithelial Cell Biology Group, Cancer Research UK Cambridge Research
+Institute, Robinson Way, Cambridge CB2 0RE, UK. klaas.mulder@cancer.org.uk
+
+Comment in
+    Nat Cell Biol. 2012 Jul;14(7):652-3.
+
+It is becoming clear that interconnected functional gene networks, rather than
+individual genes, govern stem cell self-renewal and differentiation. To identify 
+epigenetic factors that impact on human epidermal stem cells we performed
+siRNA-based genetic screens for 332 chromatin modifiers. We developed a Bayesian 
+mixture model to predict putative functional interactions between epigenetic
+modifiers that regulate differentiation. We discovered a network of genetic
+interactions involving EZH2, UHRF1 (both known to regulate epidermal
+self-renewal), ING5 (a MORF complex component), BPTF and SMARCA5 (NURF complex
+components). Genome-wide localization and global mRNA expression analysis
+revealed that these factors impact two distinct but functionally related gene
+sets, including integrin extracellular matrix receptors that mediate anchorage of
+epidermal stem cells to their niche. Using a competitive epidermal reconstitution
+assay we confirmed that ING5, BPTF, SMARCA5, EZH2 and UHRF1 control
+differentiation under physiological conditions. Thus, regulation of distinct gene
+expression programs through the interplay between diverse epigenetic strategies
+protects epidermal stem cells from differentiation.
+
+PMID: 22729083  [PubMed - indexed for MEDLINE]
+
+
+24. FEBS Lett. 2012 Jun 21;586(13):1783-9. doi: 10.1016/j.febslet.2012.04.063. Epub
+2012 May 21.
+
+PHD finger of the SUMO ligase Siz/PIAS family in rice reveals specific binding
+for methylated histone H3 at lysine 4 and arginine 2.
+
+Shindo H(1), Suzuki R, Tsuchiya W, Taichi M, Nishiuchi Y, Yamazaki T.
+
+Author information: 
+(1)Biomolecular Research Unit, National Institute of Agrobiological Sciences,
+Tsukuba, Ibaraki 305-8602, Japan.
+
+We determined the three-dimensional structure of the PHD finger of the rice
+Siz/PIAS-type SUMO ligase, OsSiz1, by NMR spectroscopy and investigated binding
+ability for a variety of methylated histone H3 tails, showing that OsSiz1-PHD
+primarily recognizes dimethylated Arg2 of the histone H3 and that methylations at
+Arg2 and Lys4 reveal synergy effect on binding to OsSiz1-PHD. The K4 cage of
+OsSiz1-PHD for trimethylated Lys4 of H3K4me3 was similar to that of the BPTF-PHD 
+finger, while the R2 pocket for Arg2 was different. It is intriguing that the PHD
+module of Siz/PIAS plays an important role, with collaboration with the DNA
+binding domain SAP, in gene regulation through SUMOylation of a variety of
+effectors associated with the methylated arginine-riched chromatin domains.
+
+Copyright © 2012 Federation of European Biochemical Societies. Published by
+Elsevier B.V. All rights reserved.
+
+PMID: 22626555  [PubMed - indexed for MEDLINE]
+
+
+25. Genome Res. 2012 Jun;22(6):1050-8. doi: 10.1101/gr.134098.111. Epub 2012 Mar 14.
+
+Primate segmental duplication creates novel promoters for the LRRC37 gene family 
+within the 17q21.31 inversion polymorphism region.
+
+Bekpen C(1), Tastekin I, Siswara P, Akdis CA, Eichler EE.
+
+Author information: 
+(1)Swiss Institute of Allergy and Asthma Research, Davos, Switzerland.
+cemalettin.bekpen@boun.edu.tr
+
+The LRRC37 gene family maps to a complex region of the human genome and has been 
+subjected to multiple rounds of segmental duplication. We investigate the
+expression and regulation of this gene family in multiple tissues and organisms
+and show a testis-specific expression of this gene family in mouse but a more
+ubiquitous pattern of expression among primates. Evolutionary and phylogenetic
+analyses support a model in which new alternative promoters have been acquired
+during primate evolution. We identify two promoters, Cl8 and particularly Cl3,
+both of which are highly active in the cerebellum and fetal brain in human and
+have been duplicated from a promoter region of two unrelated genes, BPTF and
+DND1, respectively. Two of these more broadly expressed gene family members,
+LRRC37A1 and A4, define the boundary of a common human inversion polymorphism
+mapping to chromosome 17q21.31 (the MAPT locus)-a region associated with risk for
+frontal temporal dementia, Parkinsonism, and intellectual disability. We propose 
+that the regulation of the LRRC37 family occurred in a stepwise manner, acquiring
+foreign promoters from BPTF and DND1 via segmental duplication. This unusual
+evolutionary trajectory altered the regulation of the LRRC37 family, leading to
+increased expression in the fetal brain and cerebellum.
+
+PMCID: PMC3371713
+PMID: 22419166  [PubMed - indexed for MEDLINE]
+
+
+26. Blood. 2011 Aug 4;118(5):1386-94. doi: 10.1182/blood-2010-11-319111. Epub 2011
+Jun 8.
+
+Chromatin boundaries require functional collaboration between the hSET1 and NURF 
+complexes.
+
+Li X(1), Wang S, Li Y, Deng C, Steiner LA, Xiao H, Wu C, Bungert J, Gallagher PG,
+Felsenfeld G, Qiu Y, Huang S.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, University of Florida
+College of Medicine, Gainesville, FL 32610, USA.
+
+Chromatin insulators protect erythroid genes from being silenced during
+erythropoiesis, and the disruption of barrier insulator function in erythroid
+membrane gene loci results in mild or severe anemia. We showed previously that
+the USF1/2-bound 5'HS4 insulator mediates chromatin barrier activity in the
+erythroid-specific chicken ß-globin locus. It is currently not known how
+insulators establish such a barrier. To understand the function of USF1, we
+purified USF1-associated protein complexes and found that USF1 forms a
+multiprotein complex with hSET1 and NURF, thus exhibiting histone H3K4
+methyltransferase- and ATP-dependent nucleosome remodeling activities,
+respectively. Both SET1 and NURF are recruited to the 5'HS4 insulator by USF1 to 
+retain the active chromatin structure in erythrocytes. Knock-down of NURF
+resulted in a rapid loss of barrier activity accompanied by an alteration of
+nucleosome positioning, increased occupancy of the nucleosome-free linker region 
+at the insulator site, and increased repressive H3K27me3 levels in the vicinity
+of the HS4 insulator. Furthermore, suppression of SET1 reduced barrier activity, 
+decreased H3K4me2 and acH3K9/K14, and diminished the recruitment of BPTF at
+several erythroid-specific barrier insulator sites. Therefore, our data reveal a 
+synergistic role of hSET1 and NURF in regulating the USF-bound barrier insulator 
+to prevent erythroid genes from encroachment of heterochromatin.
+
+PMCID: PMC3152501
+PMID: 21653943  [PubMed - indexed for MEDLINE]
+
+
+27. Cell. 2011 May 27;145(5):692-706. doi: 10.1016/j.cell.2011.03.053. Epub 2011 May 
+19.
+
+Recognition of a mononucleosomal histone modification pattern by BPTF via
+multivalent interactions.
+
+Ruthenburg AJ(1), Li H, Milne TA, Dewell S, McGinty RK, Yuen M, Ueberheide B, Dou
+Y, Muir TW, Patel DJ, Allis CD.
+
+Author information: 
+(1)Laboratory of Chromatin Biology and Epigenetics, The Rockefeller University,
+1230 York Avenue, New York, NY, 10065, USA.
+
+Little is known about how combinations of histone marks are interpreted at the
+level of nucleosomes. The second PHD finger of human BPTF is known to
+specifically recognize histone H3 when methylated on lysine 4 (H3K4me2/3). Here, 
+we examine how additional heterotypic modifications influence BPTF binding. Using
+peptide surrogates, three acetyllysine ligands are indentified for a PHD-adjacent
+bromodomain in BPTF via systematic screening and biophysical characterization.
+Although the bromodomain displays limited discrimination among the three possible
+acetyllysines at the peptide level, marked selectivity is observed for only one
+of these sites, H4K16ac, in combination with H3K4me3 at the mononucleosome level.
+In support, these two histone marks constitute a unique trans-histone
+modification pattern that unambiguously resides within a single nucleosomal unit 
+in human cells, and this module colocalizes with these marks in the genome.
+Together, our data call attention to nucleosomal patterning of covalent marks in 
+dictating critical chromatin associations.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+PMCID: PMC3135172
+PMID: 21596426  [PubMed - indexed for MEDLINE]
+
+
+28. Free Radic Biol Med. 2011 May 1;50(9):1186-95. doi:
+10.1016/j.freeradbiomed.2011.01.033. Epub 2011 Feb 2.
+
+Molecular cross-talk between the NRF2/KEAP1 signaling pathway, autophagy, and
+apoptosis.
+
+Stepkowski TM(1), Kruszewski MK.
+
+Author information: 
+(1)Institute of Nuclear Chemistry and Technology, Center for Radiobiology and
+Biological Dosimetry, 03-195 Warsaw, Poland. t.stepkowski@ichtj.waw.pl
+
+Oxidative stress, perturbations in the cellular thiol level and redox balance,
+affects many cellular functions, including signaling pathways. This, in turn, may
+cause the induction of autophagy or apoptosis. The NRF2/KEAP1 signaling pathway
+is the main pathway responsible for cell defense against oxidative stress and
+maintaining the cellular redox balance at physiological levels. The relation
+between NRF2/KEAP1 signaling and regulation of apoptosis and autophagy is not
+well understood. In this hypothesis article we discuss how KEAP1 protein and its 
+direct interactants (such as PGAM5, prothymosin a, FAC1 (BPTF), and p62) provide 
+a molecular foundation for a possible cross-talk between NRF2/KEAP1, apoptosis,
+and autophagy pathways. We present a hypothesis for how NRF2/KEAP1 may interfere 
+with the cellular apoptosis-regulatory machinery through activation of the ASK1
+kinase by a KEAP1 binding partner-PGAM5. Based on very recent experimental
+evidence, new hypotheses for a cross-talk between NF-<U+03BA>B and the NRF2/KEAP1
+pathway in the context of autophagy-related "molecular hub" protein p62 are also 
+presented. The roles of KEAP1 molecular binding partners in apoptosis regulation 
+during carcinogenesis and in neurodegenerative diseases are also discussed.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+PMID: 21295136  [PubMed - indexed for MEDLINE]
+
+
+29. Genes Dev. 2011 Feb 1;25(3):275-86. doi: 10.1101/gad.2007311.
+
+Chromatin remodeling complex NURF regulates thymocyte maturation.
+
+Landry JW(1), Banerjee S, Taylor B, Aplan PD, Singer A, Wu C.
+
+Author information: 
+(1)Laboratory of Biochemistry and Molecular Cell Biology, National Cancer
+Institute, National Institutes of Health, Bethesda, MD 20892, USA.
+jwlandry2@vcu.edu
+
+The maturation of T cells requires signaling from both cytokine and T-cell
+receptors to gene targets in chromatin, but how chromatin architecture influences
+this process is largely unknown. Here we show that thymocyte maturation
+post-positive selection is dependent on the nucleosome remodeling factor (NURF). 
+Depletion of Bptf (bromodomain PHD finger transcription factor), the largest NURF
+subunit, in conditional mouse mutants results in developmental arrest beyond the 
+CD4(+) CD8(int) stage without affecting cellular proliferation, cellular
+apoptosis, or coreceptor gene expression. In the Bptf mutant, specific subsets of
+genes important for thymocyte development show aberrant expression. We also
+observed defects in DNase I-hypersensitive chromatin structures at Egr1, a
+prototypical Bptf-dependent gene that is required for efficient thymocyte
+development. Moreover, chromatin binding of the sequence-specific factor Srf
+(serum response factor) to Egr1 regulatory sites is dependent on Bptf function.
+Physical interactions between NURF and Srf suggest a model in which Srf recruits 
+NURF to facilitate transcription factor binding at Bptf-dependent genes. These
+findings provide evidence for causal connections between NURF, transcription
+factor occupancy, and gene regulation during thymocyte development.
+
+PMCID: PMC3034902
+PMID: 21289071  [PubMed - indexed for MEDLINE]
+
+
+30. Curr Biol. 2011 Jan 11;21(1):53-8. doi: 10.1016/j.cub.2010.11.058. Epub 2010 Dec 
+17.
+
+Influence of combinatorial histone modifications on antibody and effector protein
+recognition.
+
+Fuchs SM(1), Krajewski K, Baker RW, Miller VL, Strahl BD.
+
+Author information: 
+(1)Department of Biochemistry and Biophysics, University of North Carolina School
+of Medicine, Chapel Hill, NC 27599, USA.
+
+Increasing evidence suggests that histone posttranslational modifications (PTMs) 
+function in a combinatorial fashion to regulate the diverse activities associated
+with chromatin. Yet how these patterns of histone PTMs influence the adapter
+proteins known to bind them is poorly understood. In addition, how
+histone-specific antibodies are influenced by these same patterns of PTMs is
+largely unknown. Here we examine the binding properties of histone-specific
+antibodies and histone-interacting proteins using peptide arrays containing a
+library of combinatorially modified histone peptides. We find that
+modification-specific antibodies are more promiscuous in their PTM recognition
+than expected and are highly influenced by neighboring PTMs. Furthermore, we find
+that the binding of histone-interaction domains from BPTF, CHD1, and RAG2 to H3
+lysine 4 trimethylation is also influenced by combinatorial PTMs. These results
+provide further support for the histone code hypothesis and raise specific
+concerns with the quality of the currently available modification-specific
+histone antibodies.
+
+Copyright © 2011 Elsevier Ltd. All rights reserved.
+
+PMCID: PMC3019281
+PMID: 21167713  [PubMed - indexed for MEDLINE]
+
+
+31. PLoS One. 2010 Mar 11;5(3):e9657. doi: 10.1371/journal.pone.0009657.
+
+A novel translocation breakpoint within the BPTF gene is associated with a
+pre-malignant phenotype.
+
+Buganim Y(1), Goldstein I, Lipson D, Milyavsky M, Polak-Charcon S, Mardoukh C,
+Solomon H, Kalo E, Madar S, Brosh R, Perelman M, Navon R, Goldfinger N, Barshack 
+I, Yakhini Z, Rotter V.
+
+Author information: 
+(1)Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot, 
+Israel.
+
+Partial gain of chromosome arm 17q is an abundant aberrancy in various cancer
+types such as lung and prostate cancer with a prominent occurrence and prognostic
+significance in neuroblastoma--one of the most common embryonic tumors. The
+specific genetic element/s in 17q responsible for the cancer-promoting effect of 
+these aberrancies is yet to be defined although many genes located in 17q have
+been proposed to play a role in malignancy. We report here the characterization
+of a naturally-occurring, non-reciprocal translocation der(X)t(X;17) in human
+lung embryonal-derived cells following continuous culturing. This aberrancy was
+strongly correlated with an increased proliferative capacity and with an acquired
+ability to form colonies in vitro. The breakpoint region was mapped by
+fluorescence in situ hybridization (FISH) to the 17q24.3 locus. Further
+characterization by a custom-made comparative genome hybridization array (CGH)
+localized the breakpoint within the Bromodomain PHD finger Transcription Factor
+gene (BPTF), a gene involved in transcriptional regulation and chromatin
+remodeling. Interestingly, this translocation led to elevation in the mRNA levels
+of the endogenous BPTF. Knock-down of BPTF restricted proliferation suggesting a 
+role for BPTF in promoting cellular growth. Furthermore, the BPTF chromosomal
+region was found to be amplified in various human tumors, especially in
+neuroblastomas and lung cancers in which 55% and 27% of the samples showed gain
+of 17q24.3, respectively. Additionally, 42% percent of the cancer cell lines
+comprising the NCI-60 had an abnormal BPTF locus copy number. We suggest that
+deregulation of BPTF resulting from the translocation may confer the cells with
+the observed cancer-promoting phenotype and that our cellular model can serve to 
+establish causality between 17q aberrations and carcinogenesis.
+
+PMCID: PMC2836376
+PMID: 20300178  [PubMed - indexed for MEDLINE]
+
+
+32. PLoS Genet. 2009 Jul;5(7):e1000574. doi: 10.1371/journal.pgen.1000574. Epub 2009 
+Jul 24.
+
+Alternative splicing of NURF301 generates distinct NURF chromatin remodeling
+complexes with altered modified histone binding specificities.
+
+Kwon SY(1), Xiao H, Wu C, Badenhorst P.
+
+Author information: 
+(1)Institute of Biomedical Research, University of Birmingham, Edgbaston, United 
+Kingdom.
+
+Drosophila NURF is an ISWI-containing chromatin remodeling complex that catalyzes
+ATP-dependent nucleosome sliding. By sliding nucleosomes, NURF can alter
+chromatin structure and regulate transcription. NURF301/BPTF is the only
+NURF-specific subunit of NURF and is instrumental in recruiting the complex to
+target genes. Here we demonstrate that three NURF301 isoforms are expressed and
+that these encode functionally distinct NURF chromatin remodeling complexes.
+Full-length NURF301 contains a C-terminal bromodomain and juxtaposed PHD finger
+that bind histone H3 trimethylated at Lys4 (H3K4me3) and histone H4 acetylated at
+Lys16 (H4K16Ac) respectively. However, a NURF301 isoform that lacks these
+C-terminal domains is also detected. This truncated NURF301 isoform assembles a
+complex containing ISWI, NURF55, and NURF38, indicating that a second class of
+NURF remodeling complex, deficient in H3K4me3 and H4K16Ac recognition, exists. By
+comparing microarray expression profiles and phenotypes of null Nurf301 mutants
+with mutants that remove the C-terminal PHD fingers and bromodomain, we show that
+full-length NURF301 is not essential for correct expression of the majority of
+NURF gene targets in larvae. However, full-length NURF301 is required for
+spermatogenesis. Mutants that lack full-length NURF exhibit a spermatocyte arrest
+phenotype and fail to express a subset of spermatid differentiation genes. Our
+data reveal that variants of the NURF ATP-dependent chromatin remodeling complex 
+that recognize post-translational histone modifications are important regulators 
+of primary spermatocyte differentiation in Drosophila.
+
+PMCID: PMC2705796
+PMID: 19629165  [PubMed - indexed for MEDLINE]
+
+
+33. Plant J. 2009 May;58(3):511-24. doi: 10.1111/j.1365-313X.2009.03795.x. Epub 2009 
+Jan 18.
+
+Arabidopsis ING and Alfin1-like protein families localize to the nucleus and bind
+to H3K4me3/2 via plant homeodomain fingers.
+
+Lee WY(1), Lee D, Chung WI, Kwon CS.
+
+Author information: 
+(1)Department of Biological Sciences, KAIST, Daejeon 305-701, Korea.
+
+In yeast and animals, tri- and dimethylation of histone H3 at lysine 4
+(H3K4me3/2) are markers of transcriptionally active genes that have recently been
+shown to be primary ligands for the plant homeodomain (PHD) finger. However, PHD 
+fingers able to bind to H3K4me3/2 have not been identified in plants. Here, we
+identify 83 canonical PHD fingers in the Arabidopsis proteome database that are
+supported by both SMART and Pfam prediction. Among these, we focus on PHD fingers
+in ING (inhibitor of growth) homologues (AtING) and Alfin1-like (AL) proteins,
+which are highly similar to those in human ING2 and bromodomain PHD finger
+transcription factor (BPTF), based on predicted tertiary structures. ING proteins
+are found in yeast, animals and plants, whereas AL proteins exist only in plants.
+In vitro binding experiments indicated that PHD fingers in AtING and AL proteins 
+in Arabidopsis can bind to H3K4me3, and, to a lesser extent, to H3K4me2. In
+addition, mutational analysis confirmed that a predicted aromatic cage and a
+specific conserved acidic residue are both crucial for binding to H3K4me3/2.
+Finally, we demonstrate that AtING and AL proteins are nuclear proteins that are 
+expressed in various tissues of the Arabidopsis plant. Thus, we propose that ING 
+and AL proteins are nuclear proteins that are involved in chromatin regulation by
+binding to H3K4me3/2, the active histone markers, in plants.
+
+PMID: 19154204  [PubMed - indexed for MEDLINE]
+
+
+34. PLoS Genet. 2008 Oct;4(10):e1000241. doi: 10.1371/journal.pgen.1000241. Epub 2008
+Oct 31.
+
+Essential role of chromatin remodeling protein Bptf in early mouse embryos and
+embryonic stem cells.
+
+Landry J(1), Sharov AA, Piao Y, Sharova LV, Xiao H, Southon E, Matta J,
+Tessarollo L, Zhang YE, Ko MS, Kuehn MR, Yamaguchi TP, Wu C.
+
+Author information: 
+(1)Laboratory of Biochemistry and Molecular Cell Biology, National Cancer
+Institute, National Institutes of Heath, Bethesda, MD, USA. landrjos@mail.nih.gov
+
+We have characterized the biological functions of the chromatin remodeling
+protein Bptf (Bromodomain PHD-finger Transcription Factor), the largest subunit
+of NURF (Nucleosome Remodeling Factor) in a mammal. Bptf mutants manifest growth 
+defects at the post-implantation stage and are reabsorbed by E8.5. Histological
+analyses of lineage markers show that Bptf(-/-) embryos implant but fail to
+establish a functional distal visceral endoderm. Microarray analysis at early
+stages of differentiation has identified Bptf-dependent gene targets including
+homeobox transcriptions factors and genes essential for the development of
+ectoderm, mesoderm, and both definitive and visceral endoderm. Differentiation of
+Bptf(-/-) embryonic stem cell lines into embryoid bodies revealed its requirement
+for development of mesoderm, endoderm, and ectoderm tissue lineages, and
+uncovered many genes whose activation or repression are Bptf-dependent. We also
+provide functional and physical links between the Bptf-containing NURF complex
+and the Smad transcription factors. These results suggest that Bptf may
+co-regulate some gene targets of this pathway, which is essential for
+establishment of the visceral endoderm. We conclude that Bptf likely regulates
+genes and signaling pathways essential for the development of key tissues of the 
+early mouse embryo.
+
+PMCID: PMC2570622
+PMID: 18974875  [PubMed - indexed for MEDLINE]
+
+
+35. Mol Cell Biol. 2008 Nov;28(22):6819-27. doi: 10.1128/MCB.01058-08. Epub 2008 Sep 
+15.
+
+Transcriptional regulator BPTF/FAC1 is essential for trophoblast differentiation 
+during early mouse development.
+
+Goller T(1), Vauti F, Ramasamy S, Arnold HH.
+
+Author information: 
+(1)Cell and Molecular Biology, University of Braunschweig, Spielmann Str. 7,
+38106 Braunschweig, Germany.
+
+The putative transcriptional regulator BPTF/FAC1 is expressed in embryonic and
+extraembryonic tissues of the early mouse conceptus. The extraembryonic
+trophoblast lineage in mammals is essential to form the fetal part of the
+placenta and hence for the growth and viability of the embryo in utero. Here, we 
+describe a loss-of-function allele of the BPTF/FAC1 gene that causes embryonic
+lethality in the mouse. BPTF/FAC1-deficient embryos form apparently normal
+blastocysts that implant and develop epiblast, visceral endoderm, and
+extraembryonic ectoderm including trophoblast stem cells. Subsequent development 
+of mutants, however, is arrested at the early gastrula stage (embryonic day 6.5),
+and virtually all null embryos die before midgestation. Most notably, the
+ectoplacental cone is drastically reduced or absent in mutants, which may cause
+the embryonic lethality. Development of the mutant epiblast is also affected, as 
+the anterior visceral endoderm and the primitive streak do not form correctly,
+while brachyury-expressing mesodermal cells arise but are delayed. The mutant
+phenotype suggests that gastrulation is initiated, but no complete
+anteroposterior axis of the epiblast appears. We conclude that BPTF/FAC1 is
+essential in the extraembryonic lineage for correct development of the
+ectoplacental cone and fetomaternal interactions. In addition, BPTF/FAC1 may also
+play a role either directly or indirectly in anterior-posterior patterning of the
+epiblast.
+
+PMCID: PMC2573307
+PMID: 18794365  [PubMed - indexed for MEDLINE]
+
+
+36. Mol Cell. 2007 Nov 30;28(4):677-91.
+
+Structural basis for lower lysine methylation state-specific readout by MBT
+repeats of L3MBTL1 and an engineered PHD finger.
+
+Li H(1), Fischle W, Wang W, Duncan EM, Liang L, Murakami-Ishibe S, Allis CD,
+Patel DJ.
+
+Author information: 
+(1)Structural Biology Program, Memorial Sloan-Kettering Cancer Center, New York, 
+NY 10021, USA.
+
+Human L3MBTL1, which contains three malignant brain tumor (MBT) repeats, binds
+monomethylated and dimethylated lysines, but not trimethylated lysines, in
+several histone sequence contexts. In crystal structures of L3MBTL1 complexes,
+the monomethyl- and dimethyllysines insert into a narrow and deep cavity of
+aromatic residue-lined pocket 2, while a proline ring inserts into shallower
+pocket 1. We have also engineered a single Y to E substitution within the
+aromatic cage of the BPTF PHD finger, resulting in a reversal of binding
+preference from trimethyl- to dimethyllysine in an H3K4 sequence context. In both
+the "cavity insertion" (L3MBTL1) and "surface groove" (PHD finger) modes of
+methyllysine recognition, a carboxylate group both hydrogen bonds and ion pairs
+to the methylammonium proton. Our structural and binding studies of these two
+modules provide insights into the molecular principles governing the decoding of 
+lysine methylation states, thereby highlighting a methylation state-specific
+layer of histone mark readout impacting on epigenetic regulation.
+
+PMCID: PMC4689580
+PMID: 18042461  [PubMed - indexed for MEDLINE]
+
+
+37. Mol Cell. 2007 Nov 30;28(4):665-76.
+
+Recognition of trimethylated histone H3 lysine 4 facilitates the recruitment of
+transcription postinitiation factors and pre-mRNA splicing.
+
+Sims RJ 3rd(1), Millhouse S, Chen CF, Lewis BA, Erdjument-Bromage H, Tempst P,
+Manley JL, Reinberg D.
+
+Author information: 
+(1)Department of Biochemistry, New York University School of Medicine, New York, 
+NY 10016, USA.
+
+Trimethylation of histone H3 on lysine 4 (H3K4me3) localizes near the 5' region
+of genes and is tightly associated with active loci. Several proteins, such as
+CHD1, BPTF, JMJD2A, and the ING tumor suppressor family, directly recognize this 
+lysine methyl mark. However, how H3K4me3 recognition participates in active
+transcription remains poorly characterized. Here we identify specific
+CHD1-interacting proteins via H3K4me3 affinity purification, including numerous
+factors mediating postinitiation events. Conventional biochemical purification
+revealed a stable complex between CHD1 and components of the spliceosome.
+Depletion of CHD1 in extracts dramatically reduced splicing efficiency in vitro, 
+indicating a functional link between CHD1 and the spliceosome. Knockdown of CHD1 
+and H3K4me3 levels by siRNA reduced association of U2 snRNP components with
+chromatin and, more importantly, altered the efficiency of pre-mRNA splicing on
+active genes in vivo. These findings suggest that methylated H3K4 serves to
+facilitate the competency of pre-mRNA maturation through the bridging of
+spliceosomal components to H3K4me3 via CHD1.
+
+PMCID: PMC2276655
+PMID: 18042460  [PubMed - indexed for MEDLINE]
+
+
+38. Nature. 2007 Aug 9;448(7154):718-22.
+
+Recognition of unmethylated histone H3 lysine 4 links BHC80 to LSD1-mediated gene
+repression.
+
+Lan F(1), Collins RE, De Cegli R, Alpatov R, Horton JR, Shi X, Gozani O, Cheng X,
+Shi Y.
+
+Author information: 
+(1)Department of Pathology, Harvard Medical School, 77 Ave Louis Pasteur, Boston,
+Massachusetts 02115, USA.
+
+Histone methylation is crucial for regulating chromatin structure, gene
+transcription and the epigenetic state of the cell. LSD1 is a lysine-specific
+histone demethylase that represses transcription by demethylating histone H3 on
+lysine 4 (ref. 1). The LSD1 complex contains a number of proteins, all of which
+have been assigned roles in events upstream of LSD1-mediated demethylation apart 
+from BHC80 (also known as PHF21A), a plant homeodomain (PHD) finger-containing
+protein. Here we report that, in contrast to the PHD fingers of the bromodomain
+PHD finger transcription factor (BPTF) and inhibitor of growth family 2 (ING2),
+which bind methylated H3K4 (H3K4me3), the PHD finger of BHC80 binds unmethylated 
+H3K4 (H3K4me0), and this interaction is specifically abrogated by methylation of 
+H3K4. The crystal structure of the PHD finger of BHC80 bound to an unmodified H3 
+peptide has revealed the structural basis of the recognition of H3K4me0.
+Knockdown of BHC80 by RNA inhibition results in the de-repression of LSD1 target 
+genes, and this repression is restored by the reintroduction of wild-type BHC80
+but not by a PHD-finger mutant that cannot bind H3. Chromatin immunoprecipitation
+showed that BHC80 and LSD1 depend reciprocally on one another to associate with
+chromatin. These findings couple the function of BHC80 to that of LSD1, and
+indicate that unmodified H3K4 is part of the 'histone code'. They further raise
+the possibility that the generation and recognition of the unmodified state on
+histone tails in general might be just as crucial as post-translational
+modifications of histone for chromatin and transcriptional regulation.
+
+PMCID: PMC2702779
+PMID: 17687328  [PubMed - indexed for MEDLINE]
+
+
+39. Nature. 2006 Jul 6;442(7098):91-5. Epub 2006 May 21.
+
+Molecular basis for site-specific read-out of histone H3K4me3 by the BPTF PHD
+finger of NURF.
+
+Li H(1), Ilin S, Wang W, Duncan EM, Wysocka J, Allis CD, Patel DJ.
+
+Author information: 
+(1)Structural Biology Program, Memorial Sloan-Kettering Cancer Center, New York, 
+New York 10021, USA.
+
+Comment in
+    Nature. 2006 Jul 6;442(7098):31-2.
+
+Mono-, di- and trimethylated states of particular histone lysine residues are
+selectively found in different regions of chromatin, thereby implying specialized
+biological functions for these marks ranging from heterochromatin formation to
+X-chromosome inactivation and transcriptional regulation. A major challenge in
+chromatin biology has centred on efforts to define the connection between
+specific methylation states and distinct biological read-outs impacting on
+function. For example, histone H3 trimethylated at lysine 4 (H3K4me3) is
+associated with transcription start sites of active genes, but the molecular
+'effectors' involved in specific recognition of H3K4me3 tails remain poorly
+understood. Here we demonstrate the molecular basis for specific recognition of
+H3(1-15)K4me3 (residues 1-15 of histone H3 trimethylated at K4) by a plant
+homeodomain (PHD) finger of human BPTF (bromodomain and PHD domain transcription 
+factor), the largest subunit of the ATP-dependent chromatin-remodelling complex, 
+NURF (nucleosome remodelling factor). We report on crystallographic and NMR
+structures of the bromodomain-proximal PHD finger of BPTF in free and
+H3(1-15)K4me3-bound states. H3(1-15)K4me3 interacts through anti-parallel
+beta-sheet formation on the surface of the PHD finger, with the long side chains 
+of arginine 2 (R2) and K4me3 fitting snugly in adjacent pre-formed surface
+pockets, and bracketing an invariant tryptophan. The observed stapling role by
+non-adjacent R2 and K4me3 provides a molecular explanation for H3K4me3 site
+specificity. Binding studies establish that the BPTF PHD finger exhibits a modest
+preference for K4me3- over K4me2-containing H3 peptides, and discriminates
+against monomethylated and unmodified counterparts. Furthermore, we identified
+key specificity-determining residues from binding studies of H3(1-15)K4me3 with
+PHD finger point mutants. Our findings call attention to the PHD finger as a
+previously uncharacterized chromatin-binding module found in a large number of
+chromatin-associated proteins.
+
+PMCID: PMC4690523
+PMID: 16728978  [PubMed - indexed for MEDLINE]
+
+
+40. Nature. 2006 Jul 6;442(7098):86-90. Epub 2006 May 21.
+
+A PHD finger of NURF couples histone H3 lysine 4 trimethylation with chromatin
+remodelling.
+
+Wysocka J(1), Swigut T, Xiao H, Milne TA, Kwon SY, Landry J, Kauer M, Tackett AJ,
+Chait BT, Badenhorst P, Wu C, Allis CD.
+
+Author information: 
+(1)Laboratory of Chromatin Biology.
+
+Comment in
+    Nature. 2006 Jul 6;442(7098):31-2.
+
+Lysine methylation of histones is recognized as an important component of an
+epigenetic indexing system demarcating transcriptionally active and inactive
+chromatin domains. Trimethylation of histone H3 lysine 4 (H3K4me3) marks
+transcription start sites of virtually all active genes. Recently, we reported
+that the WD40-repeat protein WDR5 is important for global levels of H3K4me3 and
+control of HOX gene expression. Here we show that a plant homeodomain (PHD)
+finger of nucleosome remodelling factor (NURF), an ISWI-containing ATP-dependent 
+chromatin-remodelling complex, mediates a direct preferential association with
+H3K4me3 tails. Depletion of H3K4me3 causes partial release of the NURF subunit,
+BPTF (bromodomain and PHD finger transcription factor), from chromatin and
+defective recruitment of the associated ATPase, SNF2L (also known as ISWI and
+SMARCA1), to the HOXC8 promoter. Loss of BPTF in Xenopus embryos mimics WDR5
+loss-of-function phenotypes, and compromises spatial control of Hox gene
+expression. These results strongly suggest that WDR5 and NURF function in a
+common biological pathway in vivo, and that NURF-mediated ATP-dependent chromatin
+remodelling is directly coupled to H3K4 trimethylation to maintain Hox gene
+expression patterns during development. We also identify a previously unknown
+function for the PHD finger as a highly specialized methyl-lysine-binding domain.
+
+PMID: 16728976  [PubMed - indexed for MEDLINE]
+
+
+41. Genomics. 2000 Jan 1;63(1):35-9.
+
+Identification and characterization of BPTF, a novel bromodomain transcription
+factor.
+
+Jones MH(1), Hamana N, Shimane M.
+
+Author information: 
+(1)Chugai Research Institute for Molecular Medicine, 153-2 Nagai, Niihari,
+Ibaraki, 300-4101, Japan.
+
+The bromodomain is a 110-amino-acid conserved structural region associated with
+proteins that regulate signal-dependent, nonbasal transcription. The bromodomain 
+can regulate histone acetyl transferase activity and interacts specifically with 
+acetylated lysine residues. A key role for bromodomain proteins in maintaining
+normal proliferation is indicated by the implication of several bromodomain
+proteins in cancer, with four of these identified at translocation breakpoints.
+We searched EST databases for novel bromodomain genes. The sequence from one EST 
+was used to initiate generation of a full-length clone from a testis cDNA
+library. The completed sequence encodes a predicted protein of 2781 amino acids, 
+which, in addition to the bromodomain, harbors further motifs characteristic of a
+transcriptional coactivator: two PHD fingers and an extensive glutamine-rich
+acidic domain. There are several other regions that are conserved with the
+Caenorhabditis elegans putative protein F26H11, which may be functionally
+homologous. The novel gene, called BPTF, is expressed in all tissues examined as 
+a 10.5-kb transcript. The protein has extensive identity with the smaller FAC1
+protein, suggesting that the two either are derived from the same locus or are
+synonymous. BPTF has been mapped to 17q23. Functional domains found within BPTF
+are consistent with a role for this protein in hormonally regulated,
+chromatin-mediated regulation of transcription.
+
+Copyright 2000 Academic Press.
+
+PMID: 10662542  [PubMed - indexed for MEDLINE]
+
+
+42. J Hyg (Lond). 1975 Apr;74(2):245-50.
+
+The role of wild ruminants in the epidemiology of bovine petechial fever.
+
+Snodgrass DR, Karstad LH, Cooper JE.
+
+After experimental inoculation of Cytoecetes ondiri, the agent of bovine
+petechial fever (BPF), multiplication occurred in impala, bushbuck, Thomson's
+gazelles and wildebeest, as shown by infectivity studies and clinical findings.
+Similar attempts to infect one eland failed. As a sequel to this, blood and
+spleen samples were collected from four species of wild ruminants in an area
+where BPTF was endemic. Isolations of C. ondiri were made from three of five
+bushbuck, but not from any other species.
+
+PMCID: PMC2130378
+PMID: 1054728  [PubMed - indexed for MEDLINE]
+
+

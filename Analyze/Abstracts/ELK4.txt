@@ -1,0 +1,3217 @@
+
+1. PLoS One. 2016 Mar 3;11(3):e0150382. doi: 10.1371/journal.pone.0150382.
+eCollection 2016.
+
+Role of CTCF in Regulating SLC45A3-ELK4 Chimeric RNA.
+
+Qin F(1), Song Y(1), Zhang Y(2), Facemire L(1), Frierson H(1), Li H(1,)(3).
+
+Author information: 
+(1)Department of Pathology, School of Medicine, University of Virginia,
+Charlottesville, Virginia, United States of America. (2)Zhejiang Academy of
+Medical Sciences, Hangzhou, Zhejiang, China. (3)Department of Biochemistry and
+Molecular Genetics, School of Medicine, University of Virginia, Charlottesville, 
+Virginia, United States of America.
+
+The chimeric RNA, SLC45A3-ELK4, was found to be a product of cis-splicing between
+the two adjacent genes (cis-SAGe). Despite the biological and clinical
+significance of SLC45A3-ELK4, its generating mechanism has not been elucidated.
+It was shown in one cell line that the binding of transcription factor CTCF to
+the insulators located at or near the gene boundaries, inversely correlates with 
+the level of the chimera. To investigate the mechanism of such cis-SAGe events,
+we sequenced potential regions that may play a role in such transcriptional
+read-through. We could not detect mutations at the transcription termination
+site, insulator sites, splicing sites, or within CTCF itself in LNCaP cells, thus
+suggesting a "soft-wired" mechanism in regulating the cis-SAGe event. To
+investigate the role CTCF plays in regulating the chimeric RNA expression, we
+compared the levels of CTCF binding to the insulators in different cell lines, as
+well as clinical samples. Surprisingly, we did not find an inverse correlation
+between CTCF level, or its bindings to the insulators and SLC45A3-ELK4 expression
+among different samples. However, in three prostate cancer cell lines, different 
+environmental factors can cause the expression levels of the chimeric RNA to
+change, and these changes do inversely correlate with CTCF level, and/or its
+bindings to the insulators. We thus conclude that CTCF and its bindings to the
+insulators are not the primary reasons for differential SLC45A3-ELK4 expression
+in different cell lines, or clinical cases. However, they are the likely
+mechanism for the same cells to respond to different environmental cues, in order
+to regulate the expression of SLC45A3-ELK4 chimeric RNA. This response to
+different environmental cues is not general to other cis-SAGe events, as we only 
+found one out of 16 newly identified chimeric RNAs showing a pattern similar to
+SLC45A3-ELK4.
+
+PMCID: PMC4777538
+PMID: 26938874  [PubMed - in process]
+
+
+2. Oncogene. 2016 Mar 3;35(9):1170-9. doi: 10.1038/onc.2015.175. Epub 2015 Jun 1.
+
+Cyclin-dependent kinase 2 (CDK2) is a key mediator for EGF-induced cell
+transformation mediated through the ELK4/c-Fos signaling pathway.
+
+Peng C(1,)(2), Zeng W(2), Su J(2), Kuang Y(2), He Y(2), Zhao S(2), Zhang J(2), Ma
+W(1), Bode AM(1), Dong Z(1), Chen X(2).
+
+Author information: 
+(1)The Hormel Institute, University of Minnesota, Austin, MN, USA. (2)The
+Department of Dermatology, Xiangya Hospital, Central South University, Changsha, 
+China.
+
+Cyclin-dependent kinase 2 (CDK2) is a known regulator in the cell cycle control
+of the G1/S and S/G2 transitions. However, the role of CDK2 in tumorigenesis is
+controversial. Evidence from knockout mice as well as colon cancer cell lines
+indicated that CDK2 is dispensable for cell proliferation. In this study, we
+found that ectopic CDK2 enhances Ras (G12V)-induced foci formation and knocking
+down CDK2 expression markedly decreases epidermal growth factor (EGF)-induced
+cell transformation mediated through the downregulation of c-fos expression.
+Interestingly, CDK2 directly phosphorylates ELK4 at Thr194 and Ser387 and
+regulates the ELK4 transcriptional activity, which serves as a mechanism to
+regulate c-fos expression. In addition, ELK4 is overexpressed in melanoma and
+knocking down the ELK4 or CDK2 expression significantly attenuated the malignant 
+phenotype of melanoma cells. Taken together, our study reveals a novel function
+of CDK2 in EGF-induced cell transformation and the associated signal transduction
+pathways. This indicates that CDK2 is a useful molecular target for the
+chemoprevention and therapy against skin cancer.
+
+PMCID: PMC4666830 [Available on 2016-09-03]
+PMID: 26028036  [PubMed - in process]
+
+
+3. Dev Biol. 2015 Dec 15;408(2):269-91. doi: 10.1016/j.ydbio.2015.03.010. Epub 2015 
+Mar 27.
+
+An in vivo screen to identify candidate neurogenic genes in the developing
+Xenopus visual system.
+
+Bestman JE(1), Huang LC(2), Lee-Osbourne J(3), Cheung P(4), Cline HT(5).
+
+Author information: 
+(1)Drug Discovery & Biomedical Sciences, The Medical University of South
+Carolina, Charleston, SC 29425, United States. (2)The Dorris Neuroscience Center,
+The Scripps Research Institute, La Jolla, CA 92037, United States. (3)University 
+of Nebraska Medical Center, Omaha, NE 68198, United States. (4)Dart Neuroscience,
+LLC, San Diego, CA 92064, United States. (5)The Dorris Neuroscience Center, The
+Scripps Research Institute, La Jolla, CA 92037, United States. Electronic
+address: cline@scripps.edu.
+
+Neurogenesis in the brain of Xenopus laevis continues throughout larval stages of
+development. We developed a 2-tier screen to identify candidate genes controlling
+neurogenesis in Xenopus optic tectum in vivo. First, microarray and NanoString
+analyses were used to identify candidate genes that were differentially expressed
+in Sox2-expressing neural progenitor cells or their neuronal progeny. Then an in 
+vivo, time-lapse imaging-based screen was used to test whether morpholinos
+against 34 candidate genes altered neural progenitor cell proliferation or
+neuronal differentiation over 3 days in the optic tectum of intact Xenopus
+tadpoles. We co-electroporated antisense morpholino oligonucleotides against each
+of the candidate genes with a plasmid that drives GFP expression in
+Sox2-expressing neural progenitor cells and quantified the effects of morpholinos
+on neurogenesis. Of the 34 morpholinos tested, 24 altered neural progenitor cell 
+proliferation or neuronal differentiation. The candidates which were tagged as
+differentially expressed and validated by the in vivo imaging screen include:
+actn1, arl9, eif3a, elk4, ephb1, fmr1-a, fxr1-1, fbxw7, fgf2, gstp1, hat1, hspa5,
+lsm6, mecp2, mmp9, and prkaca. Several of these candidates, including fgf2 and
+elk4, have known or proposed neurogenic functions, thereby validating our
+strategy to identify candidates. Genes with no previously demonstrated neurogenic
+functions, gstp1, hspa5 and lsm6, were identified from the morpholino
+experiments, suggesting that our screen successfully revealed unknown candidates.
+Genes that are associated with human disease, such as such as mecp2 and fmr1-a,
+were identified by our screen, providing the groundwork for using Xenopus as an
+experimental system to probe conserved disease mechanisms. Together the data
+identify candidate neurogenic regulatory genes and demonstrate that Xenopus is an
+effective experimental animal to identify and characterize genes that regulate
+neural progenitor cell proliferation and differentiation in vivo.
+
+Copyright © 2015 The Authors. Published by Elsevier Inc. All rights reserved.
+
+PMCID: PMC4584193 [Available on 2016-12-15]
+PMID: 25818835  [PubMed - in process]
+
+
+4. PLoS One. 2014 Sep 9;9(9):e107048. doi: 10.1371/journal.pone.0107048. eCollection
+2014.
+
+Elk3 deficiency causes transient impairment in post-natal retinal vascular
+development and formation of tortuous arteries in adult murine retinae.
+
+Weinl C(1), Wasylyk C(2), Garcia Garrido M(3), Sothilingam V(3), Beck SC(3),
+Riehle H(1), Stritt C(1), Roux MJ(2), Seeliger MW(3), Wasylyk B(2), Nordheim
+A(1).
+
+Author information: 
+(1)Department of Molecular Biology, Interfaculty Institute for Cell Biology,
+University of Tuebingen, Tuebingen, Germany. (2)Institut de Génétique et de
+Biologie Moléculaire et Cellulaire, Illkirch, France; Centre National de la
+Recherche Scientifique, Illkirch, France; Institut National de la Santé et de la 
+Recherche Médicale, Illkirch, France; Université de Strasbourg, Illkirch, France.
+(3)Division of Ocular Neurodegeneration, Centre for Ophthalmology, Institute for 
+Ophthalmic Research, University of Tübingen, Tübingen, Germany.
+
+Serum Response Factor (SRF) fulfills essential roles in post-natal retinal
+angiogenesis and adult neovascularization. These functions have been attributed
+to the recruitment by SRF of the cofactors Myocardin-Related Transcription
+Factors MRTF-A and -B, but not the Ternary Complex Factors (TCFs) Elk1 and Elk4. 
+The role of the third TCF, Elk3, remained unknown. We generated a new Elk3
+knockout mouse line and showed that Elk3 had specific, non-redundant functions in
+the retinal vasculature. In Elk3(-/-) mice, post-natal retinal angiogenesis was
+transiently delayed until P8, after which it proceeded normally. Interestingly,
+tortuous arteries developed in Elk3(-/-) mice from the age of four weeks, and
+persisted into late adulthood. Tortuous vessels have been observed in human
+pathologies, e.g. in ROP and FEVR. These human disorders were linked to altered
+activities of vascular endothelial growth factor (VEGF) in the affected eyes.
+However, in Elk3(-/-) mice, we did not observe any changes in VEGF or several
+other potential confounding factors, including mural cell coverage and blood
+pressure. Instead, concurrent with the post-natal transient delay of radial
+outgrowth and the formation of adult tortuous arteries, Elk3-dependent effects on
+the expression of Angiopoietin/Tie-signalling components were observed. Moreover,
+in vitro microvessel sprouting and microtube formation from P10 and adult aortic 
+ring explants were reduced. Collectively, these results indicate that Elk3 has
+distinct roles in maintaining retinal artery integrity. The Elk3 knockout mouse
+is presented as a new animal model to study retinal artery tortuousity in mice
+and human patients.
+
+PMCID: PMC4159304
+PMID: 25203538  [PubMed - indexed for MEDLINE]
+
+
+5. OMICS. 2014 Oct;18(10):615-24. doi: 10.1089/omi.2014.0042. Epub 2014 Sep 4.
+
+Transcription-mediated chimeric RNAs in prostate cancer: time to revisit old
+hypothesis?
+
+Ren G(1), Zhang Y, Mao X, Liu X, Mercer E, Marzec J, Ding D, Jiao Y, Qiu Q, Sun
+Y, Zhang B, Yeste-Velasco M, Chelala C, Berney D, Lu YJ.
+
+Author information: 
+(1)1 Department of Pathology, The First Affiliated Hospital, Zhejiang University 
+Medical College , Hangzhou, China .
+
+Chromosomal rearrangements and fusion genes play important roles in tumor
+development and progression. Four high-frequency prostate cancer-specific fusion 
+genes were recently reported in Chinese cases. We attempted to confirm one of the
+fusion genes, USP9Y-TTTY15, by reverse transcription PCR, but detected the
+presence of the USP9Y-TTTY15 fusion transcript in cancer samples, nonmalignant
+prostate tissues, and normal tissues from other organs, demonstrating that it is 
+a transcription-induced chimeric RNA, which is commonly produced in normal
+tissues. In 105 prostate cancer samples and case-matched adjacent nonmalignant
+tissues, we determined the expression level of USP9Y-TTTY15 and a previously
+reported transcription-induced chimeric RNA, SLC45A3-ELK4. The expression levels 
+of both chimeric RNAs vary greatly in cancer and normal cells. USP9Y-TTTY15
+expression is neither higher in cancer than adjacent normal tissues, nor
+correlated with features of advanced prostate cancer. Although the expression
+level of SLC45A3-ELK4 is higher in cancer than normal cells, and a dramatic
+increase in its expression from normal to cancer cells is correlated with
+advanced disease, its expression level in cancer samples alone is not correlated 
+with any clinical parameters. These data show that both chimeric RNAs contribute 
+less to prostate carcinogenesis than previously reported.
+
+PMCID: PMC4175977
+PMID: 25188740  [PubMed - indexed for MEDLINE]
+
+
+6. BMC Genomics. 2014 Apr 23;15:301. doi: 10.1186/1471-2164-15-301.
+
+MKL1/2 and ELK4 co-regulate distinct serum response factor (SRF) transcription
+programs in macrophages.
+
+Xie L(1).
+
+Author information: 
+(1)Medical Systems Biology Research Center, Department of Biomedical Engineering,
+Tsinghua University School of Medicine, Beijing 100084, China.
+xielan@tsinghua.edu.cn.
+
+BACKGROUND: Serum response factor (SRF) is a widely expressed transcription
+factor involved in multiple regulatory programs. It is believed that SRF can
+toggle between disparate programs of gene expression through association with
+different cofactors. However, the direct evidence as to how these factors
+function on a genome-wide level is still lacking.
+RESULTS: In the present study, I explored the functions of SRF and its
+representative cofactors, megakaryoblastic leukemia 1/2 (MKL1/2) and ETS-domain
+protein 4 (ELK4), during fungal infection challenge in macrophages. The knockdown
+study, combined with gene expression array analysis, revealed that MKL1/2
+regulated SRF-dependent genes were related to actin cytoskeleton organization,
+while ELK4 regulated SRF-dependent genes were related to external stimulus
+responses. Subsequent chromatin immunoprecipitation coupled with massively
+parallel sequencing (ChIP-seq) suggested that many of these regulations were
+mediated directly in cis.
+CONCLUSIONS: I conclude that SRF utilizes MKL1/2 to fulfill steady state cellular
+functions, including cytoskeletal organization, and utilizes ELK4 to facilitate
+acute responses to external infection. Together, these findings indicate that
+SRF, along with its two cofactors, are important players in both cellular
+homeostasis and stress responses in macrophages.
+
+PMCID: PMC4023608
+PMID: 24758171  [PubMed - indexed for MEDLINE]
+
+
+7. Philos Trans R Soc Lond B Biol Sci. 2014 Jan 20;369(1637):20120471. doi:
+10.1098/rstb.2012.0471. Print 2014 Mar 5.
+
+Parent-of-origin genetic background affects the transcriptional levels of
+circadian and neuronal plasticity genes following sleep loss.
+
+Tinarelli F(1), Garcia-Garcia C, Nicassio F, Tucci V.
+
+Author information: 
+(1)Department of Neuroscience and Brain Technologies, Istituto Italiano di
+Tecnologia, , via Morego, 30, 16163 Genova, Italy.
+
+Sleep homoeostasis refers to a process in which the propensity to sleep increases
+as wakefulness progresses and decreases as sleep progresses. Sleep is tightly
+organized around the circadian clock and is regulated by genetic and epigenetic
+mechanisms. The homoeostatic response of sleep, which is classically triggered by
+sleep deprivation, is generally measured as a rebound effect of
+electrophysiological measures, for example delta sleep. However, more recently,
+gene expression changes following sleep loss have been investigated as biomarkers
+of sleep homoeostasis. The genetic background of an individual may affect this
+sleep-dependent gene expression phenotype. In this study, we investigated whether
+parental genetic background differentially modulates the expression of genes
+following sleep loss. We tested the progeny of reciprocal crosses of AKR/J and
+DBA/2J mouse strains and we show a parent-of-origin effect on the expression of
+circadian, sleep and neuronal plasticity genes following sleep deprivation. Thus,
+we further explored, by in silico, specific functions or upstream mechanisms of
+regulation and we observed that several upstream mechanisms involving signalling 
+pathways (i.e. DICER1, PKA), growth factors (CSF3 and BDNF) and transcriptional
+regulators (EGR2 and ELK4) may be differentially modulated by parental effects.
+This is the first report showing that a behavioural manipulation (e.g. sleep
+deprivation) in adult animals triggers specific gene expression responses
+according to parent-of-origin genomic mechanisms. Our study suggests that the
+same mechanism may be extended to other behavioural domains and that the
+investigation of gene expression following experimental manipulations should take
+seriously into account parent-of-origin effects.
+
+PMCID: PMC3895995
+PMID: 24446504  [PubMed - indexed for MEDLINE]
+
+
+8. J Clin Invest. 2013 May;123(5):2193-206. doi: 10.1172/JCI64201. Epub 2013 Apr 8.
+
+Endothelial SRF/MRTF ablation causes vascular disease phenotypes in murine
+retinae.
+
+Weinl C(1), Riehle H, Park D, Stritt C, Beck S, Huber G, Wolburg H, Olson EN,
+Seeliger MW, Adams RH, Nordheim A.
+
+Author information: 
+(1)Department for Molecular Biology, Interfaculty Institute of Cell Biology,
+University of Tübingen, Tübingen, Germany.
+
+Retinal vessel homeostasis ensures normal ocular functions. Consequently, retinal
+hypovascularization and neovascularization, causing a lack and an excess of
+vessels, respectively, are hallmarks of human retinal pathology. We provide
+evidence that EC-specific genetic ablation of either the transcription factor SRF
+or its cofactors MRTF-A and MRTF-B, but not the SRF cofactors ELK1 or ELK4, cause
+retinal hypovascularization in the postnatal mouse eye. Inducible, EC-specific
+deficiency of SRF or MRTF-A/MRTF-B during postnatal angiogenesis impaired
+endothelial tip cell filopodia protrusion, resulting in incomplete formation of
+the retinal primary vascular plexus, absence of the deep plexi, and persistence
+of hyaloid vessels. All of these features are typical of human
+hypovascularization-related vitreoretinopathies, such as familial exudative
+vitreoretinopathies including Norrie disease. In contrast, conditional EC
+deletion of Srf in adult murine vessels elicited intraretinal neovascularization 
+that was reminiscent of the age-related human pathologies retinal angiomatous
+proliferation and macular telangiectasia. These results indicate that angiogenic 
+homeostasis is ensured by differential stage-specific functions of SRF target
+gene products in the developing versus the mature retinal vasculature and suggest
+that the actin-directed MRTF-SRF signaling axis could serve as a therapeutic
+target in the treatment of human vascular retinal diseases.
+
+PMCID: PMC3635718
+PMID: 23563308  [PubMed - indexed for MEDLINE]
+
+
+9. Am J Hum Genet. 2013 Apr 4;92(4):489-503. doi: 10.1016/j.ajhg.2013.01.002. Epub
+2013 Mar 27.
+
+Functional variants at the 11q13 risk locus for breast cancer regulate cyclin D1 
+expression through long-range enhancers.
+
+French JD, Ghoussaini M, Edwards SL, Meyer KB, Michailidou K, Ahmed S, Khan S,
+Maranian MJ, O'Reilly M, Hillman KM, Betts JA, Carroll T, Bailey PJ, Dicks E,
+Beesley J, Tyrer J, Maia AT, Beck A, Knoblauch NW, Chen C, Kraft P, Barnes D,
+González-Neira A, Alonso MR, Herrero D, Tessier DC, Vincent D, Bacot F, Luccarini
+C, Baynes C, Conroy D, Dennis J, Bolla MK, Wang Q, Hopper JL, Southey MC, Schmidt
+MK, Broeks A, Verhoef S, Cornelissen S, Muir K, Lophatananon A, Stewart-Brown S, 
+Siriwanarangsan P, Fasching PA, Loehberg CR, Ekici AB, Beckmann MW, Peto J, dos
+Santos Silva I, Johnson N, Aitken Z, Sawyer EJ, Tomlinson I, Kerin MJ, Miller N, 
+Marme F, Schneeweiss A, Sohn C, Burwinkel B, Guénel P, Truong T, Laurent-Puig P, 
+Menegaux F, Bojesen SE, Nordestgaard BG, Nielsen SF, Flyger H, Milne RL, Zamora
+MP, Arias Perez JI, Benitez J, Anton-Culver H, Brenner H, Müller H, Arndt V,
+Stegmaier C, Meindl A, Lichtner P, Schmutzler RK, Engel C, Brauch H, Hamann U,
+Justenhoven C; GENICA Network, Aaltonen K, Heikkilä P, Aittomäki K, Blomqvist C, 
+Matsuo K, Ito H, Iwata H, Sueta A, Bogdanova NV, Antonenkova NN, Dörk T, Lindblom
+A, Margolin S, Mannermaa A, Kataja V, Kosma VM, Hartikainen JM; kConFab
+Investigators, Wu AH, Tseng CC, Van Den Berg D, Stram DO, Lambrechts D, Peeters
+S, Smeets A, Floris G, Chang-Claude J, Rudolph A, Nickels S, Flesch-Janys D,
+Radice P, Peterlongo P, Bonanni B, Sardella D, Couch FJ, Wang X, Pankratz VS, Lee
+A, Giles GG, Severi G, Baglietto L, Haiman CA, Henderson BE, Schumacher F, Le
+Marchand L, Simard J, Goldberg MS, Labrèche F, Dumont M, Teo SH, Yip CH, Ng CH,
+Vithana EN, Kristensen V, Zheng W, Deming-Halverson S, Shrubsole M, Long J,
+Winqvist R, Pylkäs K, Jukkola-Vuorinen A, Grip M, Andrulis IL, Knight JA, Glendon
+G, Mulligan AM, Devilee P, Seynaeve C, García-Closas M, Figueroa J, Chanock SJ,
+Lissowska J, Czene K, Klevebring D, Schoof N, Hooning MJ, Martens JW, Collée JM, 
+Tilanus-Linthorst M, Hall P, Li J, Liu J, Humphreys K, Shu XO, Lu W, Gao YT, Cai 
+H, Cox A, Balasubramanian SP, Blot W, Signorello LB, Cai Q, Pharoah PD, Healey
+CS, Shah M, Pooley KA, Kang D, Yoo KY, Noh DY, Hartman M, Miao H, Sng JH, Sim X, 
+Jakubowska A, Lubinski J, Jaworska-Bieniek K, Durda K, Sangrajrang S, Gaborieau
+V, McKay J, Toland AE, Ambrosone CB, Yannoukakos D, Godwin AK, Shen CY, Hsiung
+CN, Wu PE, Chen ST, Swerdlow A, Ashworth A, Orr N, Schoemaker MJ, Ponder BA,
+Nevanlinna H, Brown MA, Chenevix-Trench G, Easton DF, Dunning AM.
+
+Analysis of 4,405 variants in 89,050 European subjects from 41 case-control
+studies identified three independent association signals for
+estrogen-receptor-positive tumors at 11q13. The strongest signal maps to a
+transcriptional enhancer element in which the G allele of the best candidate
+causative variant rs554219 increases risk of breast cancer, reduces both binding 
+of ELK4 transcription factor and luciferase activity in reporter assays, and may 
+be associated with low cyclin D1 protein levels in tumors. Another candidate
+variant, rs78540526, lies in the same enhancer element. Risk association signal
+2, rs75915166, creates a GATA3 binding site within a silencer element. Chromatin 
+conformation studies demonstrate that these enhancer and silencer elements
+interact with each other and with their likely target gene, CCND1.
+
+Copyright © 2013 The American Society of Human Genetics. Published by Elsevier
+Inc. All rights reserved.
+
+PMCID: PMC3617380
+PMID: 23540573  [PubMed - indexed for MEDLINE]
+
+
+10. Science. 2013 Feb 22;339(6122):959-61. doi: 10.1126/science.1230062. Epub 2013
+Jan 24.
+
+TERT promoter mutations in familial and sporadic melanoma.
+
+Horn S(1), Figl A, Rachakonda PS, Fischer C, Sucker A, Gast A, Kadel S, Moll I,
+Nagore E, Hemminki K, Schadendorf D, Kumar R.
+
+Author information: 
+(1)Division of Molecular Genetic Epidemiology, German Cancer Research Center, Im 
+Neuenheimer Feld 580, 69120 Heidelberg, Germany.
+
+Cutaneous melanoma occurs in both familial and sporadic forms. We investigated a 
+melanoma-prone family through linkage analysis and high-throughput sequencing and
+identified a disease-segregating germline mutation in the promoter of the
+telomerase reverse transcriptase (TERT) gene, which encodes the catalytic subunit
+of telomerase. The mutation creates a new binding motif for Ets transcription
+factors and ternary complex factors (TCFs) near the transcription start and, in
+reporter gene assays, caused up to twofold increase in transcription. We then
+screened the TERT promoter in sporadic melanoma and observed recurrent
+ultraviolet signature somatic mutations in 125 of 168 (74%) of human cell lines
+derived from metastatic melanomas, 45 of 53 corresponding metastatic tumor
+tissues (85%), and 25 of 77 (33%) primary melanomas. The majority of those
+mutations occurred at two positions in the TERT promoter and also generated
+binding motifs for Ets/TCF transcription factors.
+
+PMID: 23348503  [PubMed - indexed for MEDLINE]
+
+
+11. Breast Cancer Res Treat. 2013 Feb;138(1):37-45. doi: 10.1007/s10549-013-2408-2.
+Epub 2013 Jan 18.
+
+Frequent copy number gains at 1q21 and 1q32 are associated with overexpression of
+the ETS transcription factors ETV3 and ELF3 in breast cancer irrespective of
+molecular subtypes.
+
+Mesquita B(1), Lopes P, Rodrigues A, Pereira D, Afonso M, Leal C, Henrique R,
+Lind GE, Jerónimo C, Lothe RA, Teixeira MR.
+
+Author information: 
+(1)Department of Genetics, Portuguese Oncology Institute, Rua Dr. António
+Bernardino de Almeida, 4200-072 Porto, Portugal.
+
+Several ETS transcription factors are involved in the pathogenesis of human
+cancers by different mechanisms. As gene copy number gain/amplification is an
+alternative mechanism of oncogenic activation and 1q gain is the most common copy
+number change in breast carcinoma, we investigated how that genomic change
+impacts in the expression of the three 1q ETS family members ETV3, ELK4, and
+ELF3. We have first evaluated 141 breast carcinomas for genome-wide copy number
+changes by chromosomal CGH and showed that 1q21 and 1q32 were the two chromosome 
+bands with most frequent genomic copy number gains. Second, we confirmed by FISH 
+with locus-specific BAC clones that cases showing 1q gain/amplification by CGH
+showed copy number increase of the ETS genes ETV3 (located in 1q21~23), ELF3, and
+ELK4 (both in 1q32). Third, gene expression levels of the three 1q ETS genes, as 
+well as their potential targets MYC and CRISP3, were evaluated by quantitative
+real-time PCR. We here show for the first time that the most common genomic copy 
+number gains in breast cancer, 1q21 and 1q32, are associated with overexpression 
+of the ETS transcription factors ETV3 and ELF3 (but not ELK4) at these loci
+irrespective of molecular subtypes. Among the three 1q ETS genes, ELF3 has a
+relevant role in breast carcinogenesis and is also the most likely target of the 
+1q copy number increase. The basal-like molecular subtype presented the worst
+prognosis regarding disease-specific survival, but no additional prognostic value
+was found for 1q copy number status or ELF3 expression. In addition, we show that
+there is a correlation between the expression of the oncogene MYC, irrespectively
+of copy number gain at its loci in 8q24, and the expression of both the
+transcriptional repressor ETV3 and the androgen respondent ELK4.
+
+PMID: 23329352  [PubMed - indexed for MEDLINE]
+
+
+12. Cell Res. 2013 Jan;23(1):10-2. doi: 10.1038/cr.2012.112. Epub 2012 Jul 31.
+
+The controversial role of Sirtuins in tumorigenesis - SIRT7 joins the debate.
+
+Li L(1), Bhatia R.
+
+Author information: 
+(1)Division of Hematopoietic Stem cell and Leukemia Research, City of Hope
+National Medical Center, Duarte, CA 91010, USA.
+
+Sirtuins are NAD-dependent deacetylases that are conserved from yeast to mammals.
+A new report sheds light on the function of SIRT7, the least understood member of
+the Sirtuin family by identifying its locus-specific H3K18 deacetylase activity, 
+and linking it to maintenance of cellular transformation in malignancies.
+
+PMCID: PMC3541655
+PMID: 22847743  [PubMed - indexed for MEDLINE]
+
+
+13. Cancer Discov. 2012 Jul;2(7):582-5. doi: 10.1158/2159-8290.CD-12-0212.
+
+SLC45A3-ELK4 chimera in prostate cancer: spotlight on cis-splicing.
+
+Kumar-Sinha C(1), Kalyana-Sundaram S, Chinnaiyan AM.
+
+Author information: 
+(1)Michigan Center for Translational Pathology, University of Michigan Medical
+School, Ann Arbor, Michigan 48109, USA.
+
+Comment on
+    Cancer Discov. 2012 Jul;2(7):598-607.
+
+Using a series of detailed experiments, Zhang and colleagues establish that the
+prostate cancer RNA chimera SLC45A3-ELK4 is generated by cis-splicing between the
+2 adjacent genes and does not involve DNA rearrangements or trans-splicing. The
+chimera expression is induced by androgen treatment likely by overcoming the
+read-through block imposed by the intergenic CCCTC insulators bound by
+CCCTC-binding factor repressor protein. The chimeric transcript, but not
+wild-type ELK4, is shown to augment prostate cancer cell proliferation.
+
+PMCID: PMC3597435
+PMID: 22787087  [PubMed - indexed for MEDLINE]
+
+
+14. Nature. 2012 Jul 5;487(7405):114-8. doi: 10.1038/nature11043.
+
+SIRT7 links H3K18 deacetylation to maintenance of oncogenic transformation.
+
+Barber MF(1), Michishita-Kioi E, Xi Y, Tasselli L, Kioi M, Moqtaderi Z, Tennen
+RI, Paredes S, Young NL, Chen K, Struhl K, Garcia BA, Gozani O, Li W, Chua KF.
+
+Author information: 
+(1)Department of Biology, Stanford University, Stanford, California 94305, USA.
+
+Comment in
+    Cancer Cell. 2012 Jun 12;21(6):719-21.
+
+Sirtuin proteins regulate diverse cellular pathways that influence genomic
+stability, metabolism and ageing. SIRT7 is a mammalian sirtuin whose biochemical 
+activity, molecular targets and physiological functions have been unclear. Here
+we show that SIRT7 is an NAD(+)-dependent H3K18Ac (acetylated lysine 18 of
+histone H3) deacetylase that stabilizes the transformed state of cancer cells.
+Genome-wide binding studies reveal that SIRT7 binds to promoters of a specific
+set of gene targets, where it deacetylates H3K18Ac and promotes transcriptional
+repression. The spectrum of SIRT7 target genes is defined in part by its
+interaction with the cancer-associated E26 transformed specific (ETS)
+transcription factor ELK4, and comprises numerous genes with links to tumour
+suppression. Notably, selective hypoacetylation of H3K18Ac has been linked to
+oncogenic transformation, and in patients is associated with aggressive tumour
+phenotypes and poor prognosis. We find that deacetylation of H3K18Ac by SIRT7 is 
+necessary for maintaining essential features of human cancer cells, including
+anchorage-independent growth and escape from contact inhibition. Moreover, SIRT7 
+is necessary for a global hypoacetylation of H3K18Ac associated with cellular
+transformation by the viral oncoprotein E1A. Finally, SIRT7 depletion markedly
+reduces the tumorigenicity of human cancer cell xenografts in mice. Together, our
+work establishes SIRT7 as a highly selective H3K18Ac deacetylase and demonstrates
+a pivotal role for SIRT7 in chromatin regulation, cellular transformation
+programs and tumour formation in vivo.
+
+PMCID: PMC3412143
+PMID: 22722849  [PubMed - indexed for MEDLINE]
+
+
+15. Cancer Discov. 2012 Jul;2(7):598-607. doi: 10.1158/2159-8290.CD-12-0042. Epub
+2012 Jun 19.
+
+Chimeric transcript generated by cis-splicing of adjacent genes regulates
+prostate cancer cell proliferation.
+
+Zhang Y(1), Gong M, Yuan H, Park HG, Frierson HF, Li H.
+
+Author information: 
+(1)Department of Pathology, University of Virginia, Charlottesville, Virginia
+22908, USA.
+
+Comment in
+    Cancer Discov. 2012 Jul;2(7):582-5.
+
+Gene fusion is a common event in cancer. The fusion RNA and protein products
+often play causal roles in tumorigenesis and therefore represent ideal diagnostic
+and therapeutic targets. Formerly, fusion chimeric products in cancer were
+thought to be produced solely by chromosomal translocation. Here, we show that a 
+chimeric SLC45A3-ELK4 RNA is generated in the absence of chromosomal
+rearrangement. We showed that it is not a product of RNA trans-splicing, but
+formed by cis-splicing of adjacent genes/read-through. The binding of
+CCCTC-binding factor (CTCF) to the insulator sequences inversely correlates with 
+the expression of the chimera transcript. The SLC45A3-ELK4 fusion, but not
+wild-type, ELK4 plays important roles in regulating cell growth in both
+androgen-dependent and -independent prostate cancer cells. The level of the
+chimeric transcript correlates with disease progression, with the highest levels 
+in prostate cancer metastases. Our results suggest that gene fusions can arise
+from cis-splicing of adjacent genes without corresponding DNA
+changes.SIGNIFICANCE: With the absence of corresponding DNA rearrangement,
+chimeric fusion SLC45A3-ELK4 transcript in prostate cancer cells is generated by 
+cis-splicing of adjacent genes/gene read-through instead of trans-splicing.
+SLC45A3-ELK4 controls prostate cancer cell proliferation, and the chimera level
+correlates with prostate cancer disease progression.
+
+PMID: 22719019  [PubMed - indexed for MEDLINE]
+
+
+16. Hum Pathol. 2012 Nov;43(11):1910-6. doi: 10.1016/j.humpath.2012.01.018. Epub 2012
+May 7.
+
+Rearrangement of the ETS genes ETV-1, ETV-4, ETV-5, and ELK-4 is a clonal event
+during prostate cancer progression.
+
+Shaikhibrahim Z(1), Braun M, Nikolov P, Boehm D, Scheble V, Menon R, Fend F,
+Kristiansen G, Perner S, Wernert N.
+
+Author information: 
+(1)Institute of Pathology, University Hospital Bonn, 53127 Bonn, Germany.
+
+ETS gene rearrangements are frequently found in prostate cancer. Several studies 
+have assessed the rearrangement status of the most commonly found ETS rearranged 
+gene ERG, and the less frequent genes, ETV-1, ETV-4, ETV-5, and ELK-4 in primary 
+prostate cancer. However, frequency in metastatic disease is not well
+investigated. Recently, we have assessed the ERG rearrangement status in both
+primary and corresponding lymph node metastases and observed that ERG
+rearrangement in primary prostate cancer transfers into lymph node metastases,
+suggesting it to be a clonal expansion event during prostate cancer progression. 
+As a continuation, we investigated in this study whether this observation is
+valid for the less frequent ETS rearranged genes. Using dual-color break-apart
+fluorescent in situ hybridization assays, we evaluated the status of all less
+frequent ETS gene rearrangements for the first time on tissue microarrays
+constructed from a large cohort of 86 patients with prostate cancer and composed 
+of primary and corresponding lymph node metastases, as well as in a second cohort
+composed of 43 distant metastases. ETV-1, ETV-4, ETV-5, and ELK-4 rearrangements 
+were found in 8 (10%) of 81, 5 (6%) of 85, 1 (1%) of 85, and 2 (2%) of 86 of
+primary prostate cancer, respectively, and in 6 (8%) of 73, 4 (6%) of 72, 1 (1%) 
+of 75, and 1 (1%) of 78 of corresponding lymph node metastases, respectively.
+ETV-1 and ETV-5 rearrangements were not found in the distant metastases cases,
+whereas ETV-4 and ELK-4 rearrangements were found in 1 (4%) of 25 and 1 (4%) of
+24, respectively. Our findings suggest that rearrangement of the less frequent
+ETS genes is a clonal event during prostate cancer progression.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+PMID: 22569213  [PubMed - indexed for MEDLINE]
+
+
+17. J Endod. 2011 Dec;37(12):1647-52. doi: 10.1016/j.joen.2011.08.023. Epub 2011 Oct 
+6.
+
+Potential characteristics of stem cells from human exfoliated deciduous teeth
+compared with bone marrow-derived mesenchymal stem cells for mineralized
+tissue-forming cell biology.
+
+Hara K(1), Yamada Y, Nakamura S, Umemura E, Ito K, Ueda M.
+
+Author information: 
+(1)Department of Oral and Maxillofacial Surgery, Nagoya University Graduate
+School of Medicine, Nagoya, Japan.
+
+INTRODUCTION: Tissue engineering and regenerative medicine using stem cell
+biology has been a promising field for treatment of local and systemic
+intractable diseases. Recently, stem cells from human exfoliated deciduous teeth 
+(SHED) have been identified as a novel population of stem cells. This study
+focused on the characterization of SHED as compared with bone marrow-derived
+mesenchymal stem cells (BMMSCs).
+METHODS: We investigated potential characteristics of SHED by using DNA
+microarray, real-time reverse transcriptase polymerase chain reaction, and
+immunofluorescence analysis.
+RESULTS: Multiple gene expression profiles indicated that the expression of 2753 
+genes in SHED had changed by =2.0-fold as compared with that in BMMSCs. One of
+the most significant pathways that accelerated in SHED was that of bone
+morphogenetic protein (BMP) receptor signaling, which contains several cascades
+such as PKA, JNK, and ASK1. When the BMP signaling pathway was stimulated by
+BMP-2, the expression of BMP-2, BMP-4, Runx2, and DSPP was up-regulated
+significantly in SHED than that in BMMSCs. Furthermore, the BMP-4 protein was
+expressed much higher in SHED but not in BMMSCs, as confirmed by
+immunofluorescence.
+CONCLUSIONS: By using the gene expression profiles, this study indicates that
+SHED is involved in the BMP signaling pathway and suggests that BMP-4 might play 
+a crucial role in this. These results might be useful for effective cell-based
+tissue regeneration, including that of bone, pulp, and dentin, by applying the
+characteristics of SHED.
+
+Copyright © 2011 American Association of Endodontists. Published by Elsevier Inc.
+All rights reserved.
+
+PMID: 22099898  [PubMed - indexed for MEDLINE]
+
+
+18. Neuro Oncol. 2011 Nov;13(11):1202-12. doi: 10.1093/neuonc/nor119. Epub 2011 Aug
+16.
+
+ELK4 neutralization sensitizes glioblastoma to apoptosis through downregulation
+of the anti-apoptotic protein Mcl-1.
+
+Day BW(1), Stringer BW, Spanevello MD, Charmsaz S, Jamieson PR, Ensbey KS, Carter
+JC, Cox JM, Ellis VJ, Brown CL, Walker DG, Inglis PL, Allan S, Reynolds BA,
+Lickliter JD, Boyd AW.
+
+Author information: 
+(1)Queensland Institute of Medical Research, P.O. Royal Brisbane Hospital,
+Queensland, 4029, Brisbane, Australia. bryan.day@qimr.edu.au
+
+Glioma is the most common adult primary brain tumor. Its most malignant form,
+glioblastoma multiforme (GBM), is almost invariably fatal, due in part to the
+intrinsic resistance of GBM to radiation- and chemotherapy-induced apoptosis. We 
+analyzed B-cell leukemia-2 (Bcl-2) anti-apoptotic proteins in GBM and found
+myeloid cell leukemia-1 (Mcl-1) to be the highest expressed in the majority of
+malignant gliomas. Mcl-1 was functionally important, as neutralization of Mcl-1
+induced apoptosis and increased chemotherapy-induced apoptosis. To determine how 
+Mcl-1 was regulated in glioma, we analyzed the promoter and identified a novel
+functional single nucleotide polymorphism in an uncharacterized E26
+transformation-specific (ETS) binding site. We identified the ETS transcription
+factor ELK4 as a critical regulator of Mcl-1 in glioma, since ELK4 downregulation
+was shown to reduce Mcl-1 and increase sensitivity to apoptosis. Importantly the 
+presence of the single nucleotide polymorphism, which ablated ELK4 binding in
+gliomas, was associated with lower Mcl-1 levels and a greater dependence on
+Bcl-xL. Furthermore, in vivo, ELK4 downregulation reduced tumor formation in
+glioblastoma xenograft models. The critical role of ELK4 in Mcl-1 expression and 
+protection from apoptosis in glioma defines ELK4 as a novel potential therapeutic
+target for GBM.
+
+PMCID: PMC3199151
+PMID: 21846680  [PubMed - indexed for MEDLINE]
+
+
+19. Clin Cancer Res. 2011 Sep 15;17(18):5867-77. doi: 10.1158/1078-0432.CCR-11-0737. 
+Epub 2011 Aug 1.
+
+Resection of non-small cell lung cancers reverses tumor-induced gene expression
+changes in the peripheral immune system.
+
+Kossenkov AV(1), Vachani A, Chang C, Nichols C, Billouin S, Horng W, Rom WN,
+Albelda SM, Showe MK, Showe LC.
+
+Author information: 
+(1)The Wistar Institute, Philadelphia, Pennsylvania, USA.
+
+PURPOSE: To characterize the interactions of non-small cell lung cancer (NSCLC)
+tumors with the immune system at the level of mRNA and microRNA (miRNA)
+expression and to define expression signatures that characterize the presence of 
+a malignant tumor versus a nonmalignant nodule.
+EXPERIMENTAL DESIGN: We have examined the changes of both mRNA and miRNA
+expression levels in peripheral blood mononuclear cells (PBMC) between paired
+samples collected from NSCLC patients before and after tumor removal using
+Illumina gene expression arrays.
+RESULTS: We found that malignant tumor removal significantly changes expression
+of more than 3,000 protein-coding genes, especially genes in pathways associated 
+with suppression of the innate immune response, including natural killer cell
+signaling and apoptosis-associated ceramide signaling. Binding sites for the ETS 
+domain transcription factors ELK1, ELK4, and SPI1 were enriched in promoter
+regions of genes upregulated in the presence of a tumor. Additional important
+regulators included five miRNAs expressed at significantly higher levels before
+tumor removal. Repressed protein-coding targets of those miRNAs included many
+transcription factors, several involved in immunologically important pathways.
+Although there was a significant overlap in the effects of malignant tumors and
+benign lung nodules on PBMC gene expression, we identified one gene panel which
+indicates a tumor or nodule presence and a second panel that can distinguish
+malignant from nonmalignant nodules.
+CONCLUSIONS: A tumor presence in the lung influences mRNA and miRNA expression in
+PBMC and this influence is reversed by tumor removal. These results suggest that 
+PBMC gene expression signatures could be used for lung cancer diagnosis.
+
+©2011 AACR.
+
+PMCID: PMC3618688
+PMID: 21807633  [PubMed - indexed for MEDLINE]
+
+
+20. Int J Mol Med. 2011 Jul;28(1):89-93. doi: 10.3892/ijmm.2011.672. Epub 2011 Apr
+13.
+
+Differential expression of ETS family members in prostate cancer tissues and
+androgen-sensitive and insensitive prostate cancer cell lines.
+
+Shaikhibrahim Z(1), Lindstrot A, Langer B, Buettner R, Wernert N.
+
+Author information: 
+(1)Institute of Pathology, University Hospital Bonn, D-53127 Bonn, Germany.
+
+The ETS family of transcription factors plays important roles in both normal and 
+neoplastic cells for different biological processes such as proliferation,
+differentiation, development, transformation, apoptosis, migration, invasion and 
+angiogenesis. The 27 ETS factors are probably a part of complex regulatory
+networks including interactions among family members. In human prostate cancer,
+rearrangements have been found in several genes of the ETS family resulting in
+chimeric oncoproteins. In a previous study we found that the ETS family
+prototype, Ets-1 affects biological properties of PC3 prostate cancer cells. In a
+first effort to understand the cooperative interactions between different ETS
+factors in prostate cancer, in the present study we examined the expression
+pattern of all 27 ETS members using quantitative RT-PCR (qRT-PCR) in the
+androgen-sensitive VCaP and LNCaP, and the androgen-insensitive PC3 and DU-145
+prostate cancer cell lines as well as in human prostate cancer tissue samples. We
+further investigated whether the ETS family prototype, Ets-1, regulates other ETS
+family members by examining the effect of Ets-1 blockade in PC3 cells on their
+expression. We found an expression specificity of various ETS family members in
+the prostate cancer cell lines which might reflect their different biological
+properties. In human prostate samples only 3 among the 27 ETS family members
+(Ehf, Elk-4 and Ets-2) showed significant expression differences between normal
+and cancerous prostate glands. We finally demonstrate that the family prototype, 
+Ets-1, regulates the family members Elf-1, Elf-2, Elk-1, Etv-5 and Spi-1 in PC3
+prostate cancer cells. Chimeric oncoproteins containing ETS family members
+arising due to frequent translocations in prostate cancer are probably part of a 
+regulatory network involving other ETS family members as well.
+
+PMID: 21491078  [PubMed - indexed for MEDLINE]
+
+
+21. BMC Med Genomics. 2011 Jan 24;4:11. doi: 10.1186/1755-8794-4-11.
+
+Deep RNA sequencing analysis of readthrough gene fusions in human prostate
+adenocarcinoma and reference samples.
+
+Nacu S(1), Yuan W, Kan Z, Bhatt D, Rivers CS, Stinson J, Peters BA, Modrusan Z,
+Jung K, Seshagiri S, Wu TD.
+
+Author information: 
+(1)Department of Bioinformatics and Molecular Biology, Genentech, Inc, South San 
+Francisco, California 94080, USA.
+
+BACKGROUND: Readthrough fusions across adjacent genes in the genome, or
+transcription-induced chimeras (TICs), have been estimated using expressed
+sequence tag (EST) libraries to involve 4-6% of all genes. Deep transcriptional
+sequencing (RNA-Seq) now makes it possible to study the occurrence and expression
+levels of TICs in individual samples across the genome.
+METHODS: We performed single-end RNA-Seq on three human prostate adenocarcinoma
+samples and their corresponding normal tissues, as well as brain and universal
+reference samples. We developed two bioinformatics methods to specifically
+identify TIC events: a targeted alignment method using artificial exon-exon
+junctions within 200,000 bp from adjacent genes, and genomic alignment allowing
+splicing within individual reads. We performed further experimental verification 
+and characterization of selected TIC and fusion events using quantitative RT-PCR 
+and comparative genomic hybridization microarrays.
+RESULTS: Targeted alignment against artificial exon-exon junctions yielded 339
+distinct TIC events, including 32 gene pairs with multiple isoforms. The false
+discovery rate was estimated to be 1.5%. Spliced alignment to the genome was less
+sensitive, finding only 18% of those found by targeted alignment in 33-nt reads
+and 59% of those in 50-nt reads. However, spliced alignment revealed 30 cases of 
+TICs with intervening exons, in addition to distant inversions, scrambled genes, 
+and translocations. Our findings increase the catalog of observed TIC gene pairs 
+by 66%.We verified 6 of 6 predicted TICs in all prostate samples, and 2 of 5
+predicted novel distant gene fusions, both private events among 54 prostate tumor
+samples tested. Expression of TICs correlates with that of the upstream gene,
+which can explain the prostate-specific pattern of some TIC events and the
+restriction of the SLC45A3-ELK4 e4-e2 TIC to ERG-negative prostate samples, as
+confirmed in 20 matched prostate tumor and normal samples and 9 lung cancer cell 
+lines.
+CONCLUSIONS: Deep transcriptional sequencing and analysis with targeted and
+spliced alignment methods can effectively identify TIC events across the genome
+in individual tissues. Prostate and reference samples exhibit a wide range of TIC
+events, involving more genes than estimated previously using ESTs. Tissue
+specificity of TIC events is correlated with expression patterns of the upstream 
+gene. Some TIC events, such as MSMB-NCOA4, may play functional roles in cancer.
+
+PMCID: PMC3041646
+PMID: 21261984  [PubMed - indexed for MEDLINE]
+
+
+22. BMC Genomics. 2010 Dec 2;11:689. doi: 10.1186/1471-2164-11-689.
+
+Genome-wide binding of the orphan nuclear receptor TR4 suggests its general role 
+in fundamental biological processes.
+
+O'Geen H(1), Lin YH, Xu X, Echipare L, Komashko VM, He D, Frietze S, Tanabe O,
+Shi L, Sartor MA, Engel JD, Farnham PJ.
+
+Author information: 
+(1)Genome Center, University of California at Davis, Davis, CA 95616, USA.
+
+BACKGROUND: The orphan nuclear receptor TR4 (human testicular receptor 4 or
+NR2C2) plays a pivotal role in a variety of biological and metabolic processes.
+With no known ligand and few known target genes, the mode of TR4 function was
+unclear.
+RESULTS: We report the first genome-wide identification and characterization of
+TR4 in vivo binding. Using chromatin immunoprecipitation followed by high
+throughput sequencing (ChIP-seq), we identified TR4 binding sites in 4 different 
+human cell types and found that the majority of target genes were shared among
+different cells. TR4 target genes are involved in fundamental biological
+processes such as RNA metabolism and protein translation. In addition, we found
+that a subset of TR4 target genes exerts cell-type specific functions. Analysis
+of the TR4 binding sites revealed that less than 30% of the peaks from any of the
+cell types contained the DR1 motif previously derived from in vitro studies,
+suggesting that TR4 may be recruited to the genome via interaction with other
+proteins. A bioinformatics analysis of the TR4 binding sites predicted a cis
+regulatory module involving TR4 and ETS transcription factors. To test this
+prediction, we performed ChIP-seq for the ETS factor ELK4 and found that 30% of
+TR4 binding sites were also bound by ELK4. Motif analysis of the sites bound by
+both factors revealed a lack of the DR1 element, suggesting that TR4 binding at a
+subset of sites is facilitated through the ETS transcription factor ELK4. Further
+studies will be required to investigate the functional interdependence of these
+two factors.
+CONCLUSIONS: Our data suggest that TR4 plays a pivotal role in fundamental
+biological processes across different cell types. In addition, the identification
+of cell type specific TR4 binding sites enables future studies of the pathways
+underlying TR4 action and its possible role in metabolic diseases.
+
+PMCID: PMC3019231
+PMID: 21126370  [PubMed - indexed for MEDLINE]
+
+
+23. Eur J Cell Biol. 2011 Jan;90(1):13-25. doi: 10.1016/j.ejcb.2010.09.009. Epub 2010
+Nov 11.
+
+Differing contributions of LIMK and ROCK to TGFß-induced transcription, motility 
+and invasion.
+
+Morin P(1), Wickman G, Munro J, Inman GJ, Olson MF.
+
+Author information: 
+(1)Beatson Institute for Cancer Research, Garscube Estate, Switchback Road,
+Glasgow G61 1BD, UK.
+
+The ability of transforming growth factor ß (TGFß) to induce
+epithelial-mesenchymal transition (EMT) is mediated by SMAD-dependent and
+SMAD-independent pathways such as the activation of Rho GTPase signalling. Upon
+activation, GTP-bound Rho stimulates the ROCK kinases, which in turn
+phosphorylate numerous substrates including the LIM kinases (LIMK). The net
+result of ROCK activation is increased actin-myosin contractile force generation,
+with a contribution from LIMK-induced actin filament stabilisation. In this
+study, we made use of siRNA-mediated knockdown and selective inhibitors to
+determine the contributions of ROCK and LIMK to TGFß-induced responses. We find
+that both ROCK and LIMK are required for TGFß stimulation of serum-response
+factor (SRF) transcriptional activity and actin stress fibre formation during
+EMT. In contrast, although LIMK inhibition had little effect on cell motility in 
+scratch wound and Transwell migration assays, ROCK inhibition actually promoted
+TGFß-induced cell motility by helping individual cells to break free from the
+epithelial sheet. Furthermore, we demonstrate that selective inhibition of LIMK, 
+but not ROCK, effectively blocked TGFß driven invasion through a layer of
+matrigel extracellular matrix protein. These results indicate that the roles of
+LIMK and ROCK in the Rho signalling pathway downstream of TGFß are not identical 
+and suggest that LIMK represents an attractive therapeutic target in TGFß driven 
+organ fibrosis and metastatic cancer spread.
+
+Copyright © 2010 Elsevier GmbH. All rights reserved.
+
+PMID: 21074289  [PubMed - indexed for MEDLINE]
+
+
+24. J Med Invest. 2010 Aug;57(3-4):219-23.
+
+Identification of important regulatory region of Th-POK.
+
+Shamsul Alam M(1).
+
+Author information: 
+(1)Department of Immunology and Parasitology, Institute of Health Biosciences,
+the University of Tokushima Graduate School, Tokushima, Japan.
+
+CD4(+) and CD8(+) T cells develop from CD4(+)CD8(+) thymocytes. Although it has
+been reported that expression of the transcription factor Th-POK is important for
+CD4(+) T cell development, the detailed mechanism regulating Th-POK expression is
+still obscure. By comparing the promoter regions of the Th-POK gene between human
+and mouse, I found that the region 3600 base pairs (bps) upstream from the
+transcription initiation site of the Th-POK gene was highly conserved. To
+identify the important element(s) regulating Th-POK expression in CD4(+) T cells,
+I investigated the promoter activity of this region using a luciferase assay in
+the human T cell line Jurkat. I identified a positive regulatory element in this 
+region 22 bps in length located 600 bp upstream from the transcription initiation
+site. This 22 bp element had a consensus binding sequence for SAP-1, which is
+encoded by the Elk4 gene and is activated by the Erk pathway. These data suggest 
+that the 22 bp element might positively regulate Th-POK expression through
+Erk-SAP-1 signaling.
+
+PMID: 20847520  [PubMed - indexed for MEDLINE]
+
+
+25. Mod Pathol. 2010 Nov;23(11):1492-8. doi: 10.1038/modpathol.2010.149. Epub 2010
+Aug 6.
+
+ETS family-associated gene fusions in Japanese prostate cancer: analysis of 194
+radical prostatectomy samples.
+
+Miyagi Y(1), Sasaki T, Fujinami K, Sano J, Senga Y, Miura T, Kameda Y, Sakuma Y, 
+Nakamura Y, Harada M, Tsuchiya E.
+
+Author information: 
+(1)Molecular Pathology and Genetics Division, Kanagawa Cancer Center Research
+Institute, Yokohama, Japan. miyagi@gancen.asahi.yokohama.jp
+
+The incidence and clinical significance of the TMPRSS2:ERG gene fusion in
+prostate cancer has been investigated with contradictory results. It is now
+common knowledge that significant variability in gene alterations exists
+according to ethnic background in various kinds of cancer. In this study, we
+evaluated gene fusions involving the ETS gene family in Japanese prostate cancer.
+Total RNA from 194 formalin-fixed and paraffin-embedded prostate cancer samples
+obtained by radical prostatectomy was subjected to reverse-transcriptase
+polymerase chain reaction to detect the common TMPRSS2:ERG T1-E4 and T1-E5 fusion
+transcripts and five other non-TMPRSS2:ERG fusion transcripts. We identified 54
+TMPRSS2:ERG-positive cases (54/194, 28%) and two HNRPA2B1:ETV1-positive cases
+(2/194, 1%). The SLC45A3-ELK4 transcript, a fusion transcript without structural 
+gene rearrangement, was detectable in five cases (5/194, 3%). The frequencies of 
+both TMPRSS2:ERG- and non-TMPRSS2:ERG-positive cases were lower than those
+reported for European, North American or Brazilian patients. Internodular
+heterogeneity of TMPRSS2:ERG was observed in 5 out of 11 multifocal cases (45%); 
+a frequency similar to that found in European and North American cases. We found 
+a positive correlation between the TMPRSS2:ERG fusion and a Gleason score of =7
+and patient age, but found no relationship with pT stage or plasma
+prostate-specific antigen concentration. To exclude the possibility that Japanese
+prostate cancer displays novel TMPRSS2:ERG transcript variants or has unique 5'
+fusion partners for the ETS genes, we performed 5' RACE using fresh-frozen
+prostate cancer samples. We identified only the normal 5' cDNA ends for ERG, ETV1
+and ETV5 in fusion-negative cases. Because we identified a relatively low
+frequency of TMPRSS2:ERG and other fusions, further evaluation is required before
+this promising molecular marker should be introduced into the management of
+Japanese prostate cancer patients.
+
+PMID: 20693979  [PubMed - indexed for MEDLINE]
+
+
+26. Biochim Biophys Acta. 2010 Aug;1799(8):555-60. doi: 10.1016/j.bbagrm.2010.07.001.
+Epub 2010 Jul 14.
+
+SUMOylation can regulate the activity of ETS-like transcription factor 4.
+
+Kaikkonen S(1), Makkonen H, Rytinki M, Palvimo JJ.
+
+Author information: 
+(1)Institute of Biomedicine/Medical Biochemistry, University of Eastern Finland, 
+Kuopio, FI-70211 Kuopio, Finland.
+
+ETS-like transcription factor 4 (ELK4) (a.k.a. serum response factor accessory
+protein 1) belongs to the ternary complex factor (TCF) subfamily of E twenty-six 
+(ETS) domain transcription factors. Compared to the other TCF subfamily members, 
+ELK1 and ELK3 (NET), there is limited information of the mechanisms regulating
+the ELK4 activity. Here, we show that the ELK4 can be covalently modified
+(SUMOylated) by small ubiquitin-related modifier (SUMO) 1 protein, an important
+regulator of signaling and transcription. SUMOylation of ELK4 was reversed by
+SUMO-specific proteases (SENP) 1 and 2 and stimulated by SUMO E3 ligase PIAS3.
+Conserved lysine residue 167 that is located in the NET inhibitory domain of ELK4
+was identified as the main site of SUMO-1 conjugation. Interestingly, mutation of
+the K167 disrupting the SUMOylation markedly enhanced the transcriptional
+activity of the ELK4, but weakened its repressive function on c-fos promoter. In 
+conclusion, our results suggest that covalent modification by SUMO-1 can regulate
+the activity of ELK4, contributing to the transcriptional repression by the ELK4.
+
+Copyright © 2010 Elsevier B.V. All rights reserved.
+
+PMID: 20637912  [PubMed - indexed for MEDLINE]
+
+
+27. J Immunol. 2010 Jul 15;185(2):1082-92. doi: 10.4049/jimmunol.1000472. Epub 2010
+Jun 16.
+
+Ternary complex factors SAP-1 and Elk-1, but not net, are functionally equivalent
+in thymocyte development.
+
+Costello P(1), Nicolas R, Willoughby J, Wasylyk B, Nordheim A, Treisman R.
+
+Author information: 
+(1)Transcription Laboratory, Cancer Research UK London Research Institute,
+Lincoln's Inn Fields Laboratories, London, United Kingdom.
+
+The ternary complex factors (TCFs; SAP-1, Elk-1, and Net) are serum response
+factor cofactors that share many functional properties and are coexpressed in
+many tissues. SAP-1, the predominant thymus TCF, is required for thymocyte
+positive selection. In this study, we assessed whether the different TCFs are
+functionally equivalent. Elk-1 deletion, but not the hypomorphic Net(delta)
+mutation, exacerbated the SAP-1 positive selection phenotype, but triply
+deficient thymocytes were no more defective than SAP-1(-/-) Elk-1(-/-) cells.
+Inactivation of the other TCFs did not affect SAP-1-independent processes,
+including beta-selection, regulatory T cell selection, and negative selection,
+although reduced marginal zone B cells were observed in SAP-1(-/-) Elk-1(-/-)
+animals. Ectopic expression of Elk-1, but not Net, rescued positive selection of 
+SAP-1(-/-) thymocytes; thus, SAP-1 and Elk-1 are functionally equivalent in this 
+system, and the SAP-1 null selection phenotype reflects only its high expression 
+in the thymus. Array analysis of TCR-stimulated double-positive cells identified 
+SAP-1-dependent inducible genes whose transcription was further impaired in
+SAP-1(-/-) Elk-1(-/-) cells; thus, these genes, which include Egr-1 and Egr-2,
+represent candidate mediators of positive selection. Chromatin
+immunoprecipitation revealed subtly different promoter targeting between the
+different TCFs. Ectopic expression of Egr-1 restored positive selection in SAP-1 
+null thymocytes, establishing it (and possibly other Egr family members) as the
+major effector for ERK-SAP-1 signaling in thymocyte positive selection.
+
+PMID: 20554967  [PubMed - indexed for MEDLINE]
+
+
+28. RNA. 2010 Jun;16(6):1156-66. doi: 10.1261/rna.2019810. Epub 2010 Apr 20.
+
+A variant of the KLK4 gene is expressed as a cis sense-antisense chimeric
+transcript in prostate cancer cells.
+
+Lai J(1), Lehman ML, Dinger ME, Hendy SC, Mercer TR, Seim I, Lawrence MG, Mattick
+JS, Clements JA, Nelson CC.
+
+Author information: 
+(1)Australian Prostate Cancer Research Centre-Queensland, Queensland University
+of Technology and Princess Alexandra Hospital, Woolloongabba, Queensland 4102,
+Australia.
+
+In humans, more than 30,000 chimeric transcripts originating from 23,686 genes
+have been identified. The mechanisms and association of chimeric transcripts
+arising from chromosomal rearrangements with cancer are well established, but
+much remains unknown regarding the biogenesis and importance of other chimeric
+transcripts that arise from nongenomic alterations. Recently, a SLC45A3-ELK4
+chimera has been shown to be androgen-regulated, and is overexpressed in
+metastatic or high-grade prostate tumors relative to local prostate cancers.
+Here, we characterize the expression of a KLK4 cis sense-antisense chimeric
+transcript, and show other examples in prostate cancer. Using non-protein-coding 
+microarray analyses, we initially identified an androgen-regulated antisense
+transcript within the 3' untranslated region of the KLK4 gene in LNCaP cells. The
+KLK4 cis-NAT was validated by strand-specific linker-mediated RT-PCR and Northern
+blotting. Characterization of the KLK4 cis-NAT by 5' and 3' rapid amplification
+of cDNA ends (RACE) revealed that this transcript forms multiple fusions with the
+KLK4 sense transcript. Lack of KLK4 antisense promoter activity using reporter
+assays suggests that these transcripts are unlikely to arise from a
+trans-splicing mechanism. 5' RACE and analyses of deep sequencing data from LNCaP
+cells treated +/-androgens revealed six high-confidence sense-antisense chimeras 
+of which three were supported by the cDNA databases. In this study, we have shown
+complex gene expression at the KLK4 locus that might be a hallmark of cis
+sense-antisense chimeric transcription.
+
+PMCID: PMC2874168
+PMID: 20406994  [PubMed - indexed for MEDLINE]
+
+
+29. Mol Cell Neurosci. 2010 Jun;44(2):165-77. doi: 10.1016/j.mcn.2010.03.005. Epub
+2010 Mar 18.
+
+The expression of ELK transcription factors in adult DRG: Novel isoforms,
+antisense transcripts and upregulation by nerve damage.
+
+Kerr N(1), Pintzas A, Holmes F, Hobson SA, Pope R, Wallace M, Wasylyk C, Wasylyk 
+B, Wynick D.
+
+Author information: 
+(1)Department of Physiology and Pharmacology, School of Medical Sciences,
+University of Bristol, Bristol BS81TD, UK.
+
+ELK transcription factors are known to be expressed in a number of regions in the
+nervous system. We show by RT-PCR that the previously described Elk1,
+Elk3/Elk3b/Elk3c and Elk4 mRNAs are expressed in adult dorsal root ganglia (DRG),
+together with the novel alternatively spliced isoforms Elk1b, Elk3d and
+Elk4c/Elk4d/Elk4e. These isoforms are also expressed in brain, heart, kidney and 
+testis. In contrast to Elk3 protein, the novel Elk3d isoform is cytoplasmic,
+fails to bind ETS binding sites and yet can activate transcription by an indirect
+mechanism. The Elk3 and Elk4 genes are overlapped by co-expressed Pctk2 (Cdk17)
+and Mfsd4 genes, respectively, with the potential formation of Elk3/Pctaire2 and 
+Elk4/Mfsd4 sense-antisense mRNA heteroduplexes. After peripheral nerve injury the
+Elk3 mRNA isoforms are each upregulated approximately 2.3-fold in DRG (P<0.005), 
+whereas the natural antisense Pctaire2 isoforms show only a small increase (21%, 
+P<0.01) and Elk1 and Elk4 mRNAs are unchanged.
+
+2010 Elsevier Inc. All rights reserved.
+
+PMCID: PMC2862884
+PMID: 20304071  [PubMed - indexed for MEDLINE]
+
+
+30. J Biol Chem. 2010 Apr 16;285(16):11765-74. doi: 10.1074/jbc.M109.067447. Epub
+2010 Feb 9.
+
+Characterization of the human insulin-induced gene 2 (INSIG2) promoter: the role 
+of Ets-binding motifs.
+
+Fernández-Alvarez A(1), Soledad Alvarez M, Cucarella C, Casado M.
+
+Author information: 
+(1)Instituto de Biomedicina de Valencia (Consejo Superior de Investigaciones
+Científicas), Valencia, Spain.
+
+Insulin-induced gene 2 (INSIG2) and its homolog INSIG1 encode closely related
+endoplasmic reticulum proteins that regulate the proteolytic activation of sterol
+regulatory element-binding proteins, transcription factors that activate the
+synthesis of cholesterol and fatty acids in animal cells. Several studies have
+been carried out to identify INSIG2 genetic variants associated with metabolic
+diseases. However, few data have been published regarding the regulation of
+INSIG2 gene expression. Two Insig2 transcripts have been described in rodents
+through the use of different promoters that produce different noncoding first
+exons that splice into a common second exon. Herein we report the cloning and
+characterization of the human INSIG2 promoter and the detection of an
+INSIG2-specific transcript homologous to the Insig2b mouse variant in human
+liver. Deletion analyses on 3 kb of 5'-flanking DNA of the human INSIG2 gene
+revealed the functional importance of a 350-bp region upstream of the
+transcription start site. Mutated analyses, chromatin immunoprecipitation assays,
+and RNA interference analyses unveiled the significance of an Ets-consensus motif
+in the proximal region and the interaction of the Ets family member SAP1a (serum 
+response factor (SRF) accessory protein-1a) with this region of the human INSIG2 
+promoter. Moreover, our findings suggest that insulin activated the human INSIG2 
+promoter in a process mediated by phosphorylated SAP1a. Overall, these results
+map the functional elements in the human INSIG2 promoter sequence and suggest an 
+unexpected regulation of INSIG2 gene expression in human liver.
+
+PMCID: PMC2852912
+PMID: 20145255  [PubMed - indexed for MEDLINE]
+
+
+31. Exp Mol Pathol. 2010 Feb;88(1):52-7. doi: 10.1016/j.yexmp.2009.10.006. Epub 2009 
+Oct 27.
+
+Disruption of actin cytoskeleton mediates loss of tensile stress induced early
+phenotypic modulation of vascular smooth muscle cells in organ culture.
+
+Zheng JP(1), Ju D, Shen J, Yang M, Li L.
+
+Author information: 
+(1)Department of Internal Medicine, Wayne State University School of Medicine,
+Detroit, MI 48201, USA.
+
+Aorta organ culture has been widely used as an ex vivo model for studying vessel 
+pathophysiology. Recent studies show that the vascular smooth muscle cells
+(VSMCs) in organ culture undergo drastic dedifferentiation within the first few
+hours (termed early phenotypic modulation). Loss of tensile stress to which aorta
+is subject in vivo is the cause of this early phenotypic modulation. However, no 
+underlying molecular mechanism has been discovered thus far. The purpose of the
+present study is to identify intracellular signals involved in the early
+phenotypic modulation of VSMC in organ culture. We find that the drastic VSMC
+dedifferentiation is accompanied by accelerated actin cytoskeleton dynamics and
+downregulation of SRF and myocardin. Among the variety of signal pathways
+examined, increasing actin polymerization by jasplakinolide is the only one
+hindering VSMC dedifferentiation in organ culture. Moreover, jasplakinolide
+reverses actin dynamics during organ culture. Latrunculin B (disrupting actin
+cytoskeleton) and jasplakinolide respectively suppressed and enhanced the
+expression of VSMC markers, SRF, myocardin, and CArG-box-mediated SMC promoters
+in PAC1, a VSMC line. These results identify actin cytoskeleton degradation as a 
+major intracellular signal for loss of tensile stress-induced early phenotypic
+modulation of VSMC in organ culture. This study suggests that disrupting actin
+cytoskeleton integrity may contribute to the pathogenesis of vascular diseases.
+
+Published by Elsevier Inc.
+
+PMCID: PMC2815224
+PMID: 19874818  [PubMed - indexed for MEDLINE]
+
+
+32. Nature. 2009 Aug 6;460(7256):705-10. doi: 10.1038/nature08195. Epub 2009 Jul 5.
+
+miR-145 and miR-143 regulate smooth muscle cell fate and plasticity.
+
+Cordes KR(1), Sheehy NT, White MP, Berry EC, Morton SU, Muth AN, Lee TH, Miano
+JM, Ivey KN, Srivastava D.
+
+Author information: 
+(1)Gladstone Institute of Cardiovascular Disease, San Francisco, California
+94158, USA.
+
+MicroRNAs (miRNAs) are regulators of myriad cellular events, but evidence for a
+single miRNA that can efficiently differentiate multipotent stem cells into a
+specific lineage or regulate direct reprogramming of cells into an alternative
+cell fate has been elusive. Here we show that miR-145 and miR-143 are
+co-transcribed in multipotent murine cardiac progenitors before becoming
+localized to smooth muscle cells, including neural crest stem-cell-derived
+vascular smooth muscle cells. miR-145 and miR-143 were direct transcriptional
+targets of serum response factor, myocardin and Nkx2-5 (NK2 transcription factor 
+related, locus 5) and were downregulated in injured or atherosclerotic vessels
+containing proliferating, less differentiated smooth muscle cells. miR-145 was
+necessary for myocardin-induced reprogramming of adult fibroblasts into smooth
+muscle cells and sufficient to induce differentiation of multipotent neural crest
+stem cells into vascular smooth muscle. Furthermore, miR-145 and miR-143
+cooperatively targeted a network of transcription factors, including Klf4
+(Kruppel-like factor 4), myocardin and Elk-1 (ELK1, member of ETS oncogene
+family), to promote differentiation and repress proliferation of smooth muscle
+cells. These findings demonstrate that miR-145 can direct the smooth muscle fate 
+and that miR-145 and miR-143 function to regulate the quiescent versus
+proliferative phenotype of smooth muscle cells.
+
+PMCID: PMC2769203
+PMID: 19578358  [PubMed - indexed for MEDLINE]
+
+
+33. Br J Cancer. 2009 Jul 7;101(1):132-8. doi: 10.1038/sj.bjc.6605111. Epub 2009 Jun 
+16.
+
+Death-associated protein 3 is overexpressed in human thyroid oncocytic tumours.
+
+Jacques C(1), Fontaine JF, Franc B, Mirebeau-Prunier D, Triau S, Savagner F,
+Malthiery Y.
+
+Author information: 
+(1)INSERM, U694, Centre Hospitalier Universitaire d'Angers, Laboratoire de
+Biochimie et Biologie Moléculaire, Angers, France.
+caroline.jacques@univ-angers.fr
+
+BACKGROUND: The human death-associated protein 3 (hDAP3) is a GTP-binding
+constituent of the small subunit of the mitochondrial ribosome with a
+pro-apoptotic function.
+METHODS: A search through publicly available microarray data sets showed 337
+genes potentially coregulated with the DAP3 gene. The promoter sequences of these
+337 genes and 70 out of 85 mitochondrial ribosome genes were analysed in silico
+with the DAP3 gene promoter sequence. The mitochondrial role of DAP3 was also
+investigated in the thyroid tumours presenting various mitochondrial contents.
+RESULTS: The study revealed nine transcription factors presenting enriched motifs
+for these gene promoters, five of which are implicated in cellular growth (ELK1, 
+ELK4, RUNX1, HOX11-CTF1, TAL1-ternary complex factor 3) and four in mitochondrial
+biogenesis (nuclear respiratory factor-1 (NRF-1), GABPA, PPARG-RXRA and
+estrogen-related receptor alpha (ESRRA)). An independent microarray data set
+showed the overexpression of ELK1, RUNX1 and ESRRA in the thyroid oncocytic
+tumours. Exploring the thyroid tumours, we found that DAP3 mRNA and protein
+expression is upregulated in tumours presenting a mitochondrial biogenesis
+compared with the normal tissue. ELK1 and ESRRA were also showed upregulated with
+DAP3.
+CONCLUSION: ELK1 and ESRRA may be considered as potential regulators of the DAP3 
+gene expression. DAP3 may participate in mitochondrial maintenance and play a
+role in the balance between mitochondrial homoeostasis and tumourigenesis.
+
+PMCID: PMC2713694
+PMID: 19536094  [PubMed - indexed for MEDLINE]
+
+
+34. Cancer Res. 2009 Apr 1;69(7):2734-8. doi: 10.1158/0008-5472.CAN-08-4926. Epub
+2009 Mar 17.
+
+SLC45A3-ELK4 is a novel and frequent erythroblast transformation-specific fusion 
+transcript in prostate cancer.
+
+Rickman DS(1), Pflueger D, Moss B, VanDoren VE, Chen CX, de la Taille A, Kuefer
+R, Tewari AK, Setlur SR, Demichelis F, Rubin MA.
+
+Author information: 
+(1)Department of Pathology and Laboratory Medicine, Weill Cornell Medical
+College, New York, New York 10021, USA.
+
+Chromosomal rearrangements account for all erythroblast transformation-specific
+(ETS) family member gene fusions that have been reported in prostate cancer and
+have clinical, diagnostic, and prognostic implications. Androgen-regulated genes 
+account for the majority of the 5' genomic regulatory promoter elements fused
+with ETS genes. TMPRSS2-ERG, TMPRSS2-ETV1, and SLC45A3-ERG rearrangements account
+for roughly 90% of ETS fusion prostate cancer. ELK4, another ETS family member,
+is androgen regulated, involved in promoting cell growth, and highly expressed in
+a subset of prostate cancer, yet the mechanism of ELK4 overexpression is unknown.
+In this study, we identified a novel ETS family fusion transcript, SLC45A3-ELK4, 
+and found it to be expressed in both benign prostate tissue and prostate cancer. 
+We found high levels of SLC45A3-ELK4 mRNA restricted to a subset of prostate
+cancer samples. SLC45A3-ELK4 transcript can be detected at high levels in urine
+samples from men at risk for prostate cancer. Characterization of the fusion mRNA
+revealed a major variant in which SLC45A3 exon 1 is fused to ELK4 exon 2. Based
+on quantitative PCR analyses of DNA, unlike other ETS fusions described in
+prostate cancer, the expression of SLC45A3-ELK4 mRNA is not exclusive to cases
+harboring a chromosomal rearrangement. Treatment of LNCaP cancer cells with a
+synthetic androgen (R1881) revealed that SLC45A3-ELK4, and not endogenous ELK4,
+mRNA expression is androgen regulated. Altogether, our findings show that
+SLC45A3-ELK4 mRNA expression is heterogeneous, highly induced in a subset of
+prostate cancers, androgen regulated, and most commonly occurs through a
+mechanism other than chromosomal rearrangement (e.g., trans-splicing).
+
+PMCID: PMC4063441
+PMID: 19293179  [PubMed - indexed for MEDLINE]
+
+
+35. Nature. 2009 Mar 5;458(7234):97-101. doi: 10.1038/nature07638. Epub 2009 Jan 11.
+
+Transcriptome sequencing to detect gene fusions in cancer.
+
+Maher CA(1), Kumar-Sinha C, Cao X, Kalyana-Sundaram S, Han B, Jing X, Sam L,
+Barrette T, Palanisamy N, Chinnaiyan AM.
+
+Author information: 
+(1)Michigan Center for Translational Pathology, Ann Arbor, USA.
+
+Recurrent gene fusions, typically associated with haematological malignancies and
+rare bone and soft-tissue tumours, have recently been described in common solid
+tumours. Here we use an integrative analysis of high-throughput long- and
+short-read transcriptome sequencing of cancer cells to discover novel gene
+fusions. As a proof of concept, we successfully used integrative transcriptome
+sequencing to 're-discover' the BCR-ABL1 (ref. 10) gene fusion in a chronic
+myelogenous leukaemia cell line and the TMPRSS2-ERG gene fusion in a prostate
+cancer cell line and tissues. Additionally, we nominated, and experimentally
+validated, novel gene fusions resulting in chimaeric transcripts in cancer cell
+lines and tumours. Taken together, this study establishes a robust pipeline for
+the discovery of novel gene chimaeras using high-throughput sequencing, opening
+up an important class of cancer-related mutations for comprehensive
+characterization.
+
+PMCID: PMC2725402
+PMID: 19136943  [PubMed - indexed for MEDLINE]
+
+
+36. Oncogene. 2008 Aug 21;27(36):4865-76. doi: 10.1038/onc.2008.125. Epub 2008 May
+12.
+
+Identification of ETS-like transcription factor 4 as a novel androgen receptor
+target in prostate cancer cells.
+
+Makkonen H(1), Jääskeläinen T, Pitkänen-Arsiola T, Rytinki M, Waltering KK, Mättö
+M, Visakorpi T, Palvimo JJ.
+
+Author information: 
+(1)Institute of Biomedicine/Medical Biochemistry, University of Kuopio, Kuopio,
+Finland.
+
+Transcriptional control by androgens via androgen receptor (AR) is strongly
+involved in prostate cancer development, but the critical target genes have
+remained elusive. We have characterized E twenty-six-like transcription factor 4 
+(ELK4) (also known as serum response factor accessory protein 1) as a novel AR
+target in human prostate cancer cells. In-silico screening identified three
+putative AR response elements (AREs) within -10 kb from the transcription start
+site of ELK4. Both ARE1 at -167/-153 and ARE2 at -481/-467 bound AR in vitro and 
+mediated androgen induction as isolated elements in transcription assays in
+non-prostate cells. However, merely the ARE2 that cooperates with a proximal
+forkhead box A1-binding site was critical for the AR-dependent activation of ELK4
+promoter in prostate cancer cells. Preferential loading of holo-AR onto the ARE2 
+and concomitant recruitment of RNA polymerase II onto the ELK4 promoter was
+confirmed in prostate cancer cells by chromatin immunoprecipitation. Database
+searches indicated that the expression of ELK4 is markedly increased in prostate 
+cancers relative to normal prostates. Moreover, prostate cancer tissue
+immunostainings showed that nuclear ELK4 levels are significantly increased in
+androgen-refractory prostate cancers compared to untreated tumours. Reduction of 
+the amount of ELK4 in LNCaP cells by RNAi retarded cell growth. In conclusion,
+ELK4 is a direct AR target in prostate cancer cells. Androgens may thus
+contribute to the growth of prostate cancer via influencing ELK4 levels.
+
+PMID: 18469865  [PubMed - indexed for MEDLINE]
+
+
+37. J Immunol. 2007 Nov 15;179(10):6836-44.
+
+Raf signaling but not the ERK effector SAP-1 is required for regulatory T cell
+development.
+
+Willoughby JE(1), Costello PS, Nicolas RH, Robinson NJ, Stamp G, Powrie F,
+Treisman R.
+
+Author information: 
+(1)Transcription Laboratory, Cancer Research United Kingdom London Research
+Institute, Lincoln's Inn Fields Laboratories, London, United Kingdom.
+
+Regulatory T cells (T(reg)) play an important role in immune regulation. Their
+development in the thymus requires TCR activation and recognition of peptide-MHC,
+although the downstream signals controlling commitment to the lineage are
+unclear. To compare the requirements for positive selection and T(reg)
+development, we studied knockout and transgenic mice defective in Raf signaling
+and the ERK effector SRF accessory protein 1 (SAP-1), a member of the ternary
+complex factor family of Ets domain transcription factors. Although SAP-1
+deficient mice display a severe defect in thymocyte positive selection, T(reg)
+development was unimpaired as assessed by expression of Foxp3 and the activation 
+markers CD25, GITR, CTLA4, and CD103 in the CD4(+) cell population. In contrast, 
+inhibition of Raf signaling by the interfering dominant negative Raf derivative
+reduced both Foxp3(+) and Foxp3(-) CD4(+) populations. In SAP-1-deficient
+CD4(+)CD25(+) T(reg) cells, TCR crosslinking efficiently induced ERK activation, 
+but transcriptional induction of the immediate early gene Egr-1 was impaired.
+Nevertheless, neither deletion of SAP-1 nor expression of a dominant negative Raf
+derivative affected the ability of CD4(+)CD25(+) T(reg) cells to suppress
+CD4(+)CD25(-) cell proliferation in vitro. Finally the suppressive activity of
+CD4(+)CD25(+) T(reg) cells lacking SAP-1 in an in vivo colitis model was not
+significantly impaired. The signaling requirements for development of T(reg)
+cells in the thymus are thus distinct from those required for "conventional" T
+cell positive selection, and ERK signaling to SAP-1 is not required for the
+suppressive activity of T(reg) cells.
+
+PMCID: PMC2515877
+PMID: 17982074  [PubMed - indexed for MEDLINE]
+
+
+38. J Am Chem Soc. 2007 Jan 31;129(4):738-9.
+
+Fly-casting in protein-DNA binding: frustration between protein folding and
+electrostatics facilitates target recognition.
+
+Levy Y(1), Onuchic JN, Wolynes PG.
+
+Author information: 
+(1)Center for Theoretical Biological Physics, University of California at San
+Diego, 9500 Gilman Drive, La Jolla, California 92093, USA.
+koby.levy@weizmann.ac.il
+
+PMID: 17243791  [PubMed - indexed for MEDLINE]
+
+
+39. Tsitologiia. 2006;48(11):935-47.
+
+[Dynamic of DNA-binding activity of transcription factors in A431 cells during
+their spreading on immobilized ligands].
+
+[Article in Russian]
+
+Emel'ianov AN, Petukhova OA, Turoverova LV, Kropacheva IV, Pinaev GP.
+
+Dynamics of actin cytoskeleton in A431 cells and specific NF-kappaB SRF and AP-1 
+DNA-binding activities were studied during a 2 h spreading of these cells on
+fibronectin, laminin-2/4 or an antibody to epidermal growth factor receptor. Cell
+spreading was shown to be accompanied by sequential formation of actin
+cytoskeleton structures, whose spatial organization depends on the type of
+immobilized ligand. We have determined the time intervals, within which certain
+forms of cytoskeleton do not change qualitatively and are specific for dominant
+part of cell population. It has been shown that DNA-binding activities of the
+above transcription factors studied oscillate during cell spreading. The cycles
+of DNA-binding activity were found to be equel to 15-40 min. The character of
+oscillations depends on both transcription factor and ligand type. The temporal
+comparison of presses of actin cytoskeleton formation and DNA-binding activity of
+NF-kappaB and SRF times suggest that actin cytoskeleton reorganization may be
+presumably associated with activation of NF-KppaB and SRF.
+
+PMID: 17233479  [PubMed - indexed for MEDLINE]
+
+
+40. Genome Res. 2007 Feb;17(2):136-44. Epub 2007 Jan 2.
+
+Serum response factor binding sites differ in three human cell types.
+
+Cooper SJ(1), Trinklein ND, Nguyen L, Myers RM.
+
+Author information: 
+(1)Department of Genetics, Stanford University School of Medicine, Stanford,
+California 94305-5120, USA.
+
+The serum response factor (SRF) is essential for embryonic development and
+maintenance of muscle cells and neurons. The mechanism by which this factor
+controls these divergent pathways is unclear. Here we present a genome-wide view 
+of occupancy of SRF at its binding sites with a focus on those that vary with
+cell type. We used chromatin immunoprecipitation (ChIP) in combination with human
+promoter microarrays to identify 216 putative SRF binding sites in the human
+genome. We performed independent quantitative PCR validation at over half of
+these sites that resulted in 146 sites we assert to be true binding sites at over
+90% confidence. Nearly half of the sites are bound by SRF in only one of the
+three cell types we tested, providing strong evidence for the diverse roles for
+SRF in different cell types. We also explore possible mechanisms controlling
+differential binding of SRF in these cell types by assaying cofactor binding, DNA
+methylation, histone methylation, and histone acetylation at a subset of sites
+bound preferentially in smooth muscle cells. Although we did not see a strong
+correlation between SRF binding and epigenetics modifications, at these sites, we
+propose that SRF cofactors may play an important role in determining
+cell-dependent SRF binding sites. ELK4 (previously known as SAP-1 [SRF-associated
+protein-1]) is ubiquitously expressed. Therefore, we expected it to occupy sites 
+where SRF binding is common in all cell types. Indeed, 90% of SRF sites also
+bound by ELK4 were common to all three cell types. Together, our data provide a
+more complete understanding of the regulatory network controlled by SRF.
+
+PMCID: PMC1781345
+PMID: 17200232  [PubMed - indexed for MEDLINE]
+
+
+41. Differentiation. 2006 Feb;74(1):30-9.
+
+Serum response factor, its cofactors, and epithelial-mesenchymal signaling in
+urinary bladder smooth muscle formation.
+
+Li J(1), Shiroyanagi Y, Lin G, Haqq C, Lin CS, Lue TF, Willingham E, Baskin LS.
+
+Author information: 
+(1)Department of Urology University of California 400 Parnassus Avenue, ACC-610
+California 94143-0738 San Francisco, USA.
+
+Little is known about the mechanism of bladder smooth muscle differentiation. We 
+hypothesize that epithelial-mesenchymal signaling induces the expression of
+smooth muscle proteins in bladder mesenchyme resulting in smooth muscle
+differentiation. We confirmed that smooth muscle differentiation in the mouse
+urinary bladder occurs first at gestational day 14 (E14) based upon
+immunohistochemical localization of smooth muscle alpha-actin (SMAA). To
+investigate murine bladder smooth muscle differentiation and
+epithlelial-mesenchymal signaling in the developing bladder, we analyzed gene
+expression profiles of intact embryonic murine bladders and separated epithelial 
+and mesenchymal components at embryonic days E13, E14, E15, E16, and postnatal
+day 1 (P1). Using cDNA microarray, we identified regulators of vascular smooth
+muscle differentiation in bladder mesenchyme, including serum response factor
+(SRF) and its cofactors, ELK1 and SRF accessory protein (SAP)1, as well as two
+SRF-associated pathways, angiotension receptor II and transforming growth factor-
+beta2. Immunohistochemistry showed diffuse expression of SRF in the bladder at
+E12 with localization of expression to the peripheral mesenchyme at E13 and E14. 
+Our results suggest that bladder smooth muscle differentiation may share a
+similar gene expression program as occurs during vascular smooth muscle
+differentiation. The unique structure of the urinary bladder makes it an ideal
+model for studies of smooth muscle differentiation and epithelial-mesenchymal
+signaling.
+
+PMID: 16466398  [PubMed - indexed for MEDLINE]
+
+
+42. J Invest Dermatol. 2005 Aug;125(2):230-8.
+
+Stratifin-induced matrix metalloproteinase-1 in fibroblast is mediated by c-fos
+and p38 mitogen-activated protein kinase activation.
+
+Lam E(1), Kilani RT, Li Y, Tredget EE, Ghahary A.
+
+Author information: 
+(1)Wound Healing Research Group, Department of Surgery, University of Alberta,
+Edmonton, AB, Canada.
+
+Previously, we have demonstrated that keratinocyte releasable stratifin, also
+known as 14-3-3 sigma protein, stimulates matrix metalloproteinase (MMP)-1
+expression in dermal fibroblasts. In this study, we showed that stratifin induced
+fibroblast MMP-1 messenger ribonucleic acid (mRNA) and protein levels through p38
+mitogen-activated protein kinase (MAPK). Our data indicated that treatment of
+dermal fibroblasts with stratifin resulted in rapid and transient upregulation of
+c-jun and c-fos mRNA levels. We also demonstrated that SB203580 (SB), a specific 
+inhibitor of p38 MAPK activity, inhibited the activation of fibroblast MMP-1 mRNA
+expression by stratifin. Subsequently, western blot analysis revealed
+phosphorylation of p38 at 90 min after stratifin stimulation and this was
+decreased to approximately 50% of the maximum value by 120 min. Stratifin was
+demonstrated to increase MMP-1 protein levels starting at 4 h and reaching its
+peak at 12-24 h. Furthermore, SB significantly blocked the stratifin induction of
+MMP-1 protein levels (***p<0.005, n=3). Microarray analysis of stratifin-treated 
+fibroblasts shows an increase in Elk4/Sap1 mRNA expression and this finding was
+confirmed by northern blot analysis. Our results indicate that stratifin markedly
+increase Elk4/Sap1 mRNA expression in a time-dependent fashion. In conclusion,
+stratifin stimulates fibroblast MMP-1 levels through the activation of c-fos and 
+MAPK pathway.
+
+PMID: 16098031  [PubMed - indexed for MEDLINE]
+
+
+43. Plant J. 2005 Jul;43(2):165-80.
+
+ERECTA receptor-like kinase and heterotrimeric G protein from Arabidopsis are
+required for resistance to the necrotrophic fungus Plectosphaerella cucumerina.
+
+Llorente F(1), Alonso-Blanco C, Sánchez-Rodriguez C, Jorda L, Molina A.
+
+Author information: 
+(1)Departamento de Biotecnología-UPM, E.T.S. Ingenieros Agrónomos, Avda.
+Complutense, E-28040 Madrid, Spain.
+
+Arabidopsis resistance to the necrotrophic fungus Plectosphaerella cucumerina is 
+complex and depends on the ethylene, jasmonic acid and salicylic acid signaling
+pathways. A quantitative trait loci (QTL) analysis of resistance to this fungus
+was performed using two populations of recombinant inbred lines. Three loci
+QRP1-QRP3 (for Quantitative Resistance to Plectosphaerella) were identified and
+mapped on chromosome 2 (QRP1 and QRP2) and 5 (QRP3). QRP1, the locus showing the 
+strongest effect, was found to correspond to the ERECTA (ER) gene that encodes a 
+receptor-like-kinase (RLK), which has been previously implicated in plant
+development, and resistance to the bacterium Ralstonia solanacearum. The
+leucine-rich repeat and the kinase domains of ERECTA were specifically required
+for resistance to P. cucumerina, as er mutant alleles impaired in any of these
+domains showed enhanced susceptibility to this fungus, but not to other virulent 
+pathogens. The involvement of the ER-signaling pathway in resistance to P.
+cucumerina was supported by the fact that three mutants defective in this
+pathway, elk2, elk5 and elk4 (agb1-1), which encodes the beta-subunit of
+Arabidopsis heterotrimeric G protein, were also impaired in their resistance to
+this fungus. The putative function of the Arabidopsis heterotrimeric G protein in
+resistance to P. cucumerina suggested by the enhanced susceptibility of agb1-1
+was corroborated by the demonstration that a null allele (gpa1-4) of the G
+protein alpha-subunit showed enhanced resistance to this pathogen. Deposition of 
+beta-1,3-glucan callose at infection sites was specifically impaired in er-1 and 
+agb1-1 mutants upon P. cucumerina inoculation. Taken together, these data suggest
+a putative function of ERECTA and heterotrimeric G protein in P. cucumerina
+perception.
+
+PMID: 15998304  [PubMed - indexed for MEDLINE]
+
+
+44. J Mol Biol. 2005 Apr 22;348(1):75-83.
+
+Modulating the DNA affinity of Elk-1 with computationally selected mutations.
+
+Park S(1), Boder ET, Saven JG.
+
+Author information: 
+(1)Makineni Theoretical Laboratories, Department of Chemistry, University of
+Pennsylvania, 231 South 34th Street, Philadelphia, PA 19104, USA.
+
+In order to regulate gene expression, transcription factors must first bind their
+target DNA sequences. The affinity of this binding is determined by both the
+network of interactions at the interface and the entropy change associated with
+the complex formation. To study the role of structural fluctuation in fine-tuning
+DNA affinity, we performed molecular dynamics simulations of two highly
+homologous proteins, Elk-1 and SAP-1, that exhibit different sequence
+specificity. Simulation studies show that several residues in Elk have
+significantly higher main-chain root-mean-square deviations than their
+counterparts in SAP. In particular, a single residue, D69, may contribute to
+Elk's lower DNA affinity for P(c-fos) by structurally destabilizing the carboxy
+terminus of the recognition helix. While D69 does not contact DNA directly, the
+increased mobility in the region may contribute to its weaker binding. We
+measured the ability of single point mutants of Elk to bind P(c-fos) in a
+reporter assay, in which D69 of wild-type Elk has been mutated to other residues 
+with higher helix propensity in order to stabilize the local conformation. The
+gains in transcriptional activity and the free energy of binding suggested from
+these measurements correlate well with stability gains computed from helix
+propensity and charge-macrodipole interactions. The study suggests that residues 
+that are distal to the binding interface may indirectly modulate the binding
+affinity by stabilizing the protein scaffold required for efficient DNA
+interaction.
+
+PMID: 15808854  [PubMed - indexed for MEDLINE]
+
+
+45. J Biol Chem. 2005 Feb 4;280(5):3286-94. Epub 2004 Nov 16.
+
+Loss of net as repressor leads to constitutive increased c-fos transcription in
+cervical cancer cells.
+
+van Riggelen J(1), Buchwalter G, Soto U, De-Castro Arce J, zur Hausen H, Wasylyk 
+B, Rösl F.
+
+Author information: 
+(1)Angewandte Tumorvirologie, Deutsches Krebsforschungszentrum, Im Neuenheimer
+Feld 242, 69120 Heidelberg, Germany.
+
+We have investigated the expression of c-fos in cervical carcinoma cells and in
+somatic cell hybrids derived therefrom. In malignant cells, c-fos was
+constitutively expressed even after serum starvation. Dissection of the c-fos
+promoter showed that expression was mainly controlled by the SRE motif, which was
+active in malignant cells, but repressed in their non-malignant counterparts.
+Constitutive SRE activity was not mediated by sustained mitogen-activated protein
+kinase activity but because of inefficient expression of the ternary complex
+factor Net, which was either very low or even barely discernible. Chromatin
+immunoprecipitation assays revealed that Net directly binds to the SRE
+nucleoprotein complex in non-tumorigenic cells, but not in malignant segregants. 
+Small interfering RNA targeted against Net resulted in enhanced c-fos
+transcription, clearly illustrating its repressor function. Conversely, stable
+ectopic expression of Net in malignant cells negatively regulated endogenous
+c-fos, resulting in a disappearance of the c-Fos protein from the AP-1
+transcription complex. These data indicate that loss of Net and constitutive
+c-fos expression appear to be a key event in the transformation of cervical
+cancer cells.
+
+PMID: 15548518  [PubMed - indexed for MEDLINE]
+
+
+46. Nat Immunol. 2004 Mar;5(3):289-98. Epub 2004 Feb 8.
+
+Ternary complex factor SAP-1 is required for Erk-mediated thymocyte positive
+selection.
+
+Costello PS(1), Nicolas RH, Watanabe Y, Rosewell I, Treisman R.
+
+Author information: 
+(1)Transcription Laboratory, Cancer Research UK, London Research Institute,
+Lincoln's Inn Fields Laboratories, 44 Lincoln's Fields, London WC2A 3PX, UK.
+
+Thymocyte selection and differentiation requires extracellular signal-regulated
+kinase (Erk) signaling, but transcription factor substrates of Erk in thymocytes 
+are unknown. We have characterized the function of SAP-1 (Elk4), an Erk-regulated
+transcription factor, in thymocyte development. Early thymocyte development was
+normal, but single-positive thymocyte and peripheral T cell numbers were reduced,
+reflecting a T cell-autonomous defect. T cell receptor-induced activation of
+SAP-1 target genes such as Egr1 was substantially impaired in double-positive
+thymocytes, although Erk activation was normal. Analysis of T cell receptor
+transgenes showed that positive selection was reduced by 80-90% in
+SAP-1-deficient mice; heterozygous mice showed a moderate defect. Negative
+selection was unimpaired. SAP-1 thus directly links Erk signaling to the
+transcriptional events required for thymocyte positive selection.
+
+PMID: 14770179  [PubMed - indexed for MEDLINE]
+
+
+47. J Biol Chem. 2004 Mar 19;279(12):11281-92. Epub 2003 Dec 8.
+
+Changes in the expression of many Ets family transcription factors and of
+potential target genes in normal mammary tissue and tumors.
+
+Galang CK(1), Muller WJ, Foos G, Oshima RG, Hauser CA.
+
+Author information: 
+(1)Oncodevelopmental Biology Program, The Burnham Institute, La Jolla, California
+92037, USA.
+
+Interfering with Ets transcription factor function reverses multiple aspects of
+the transformed phenotype of mouse or human tumor cells. However, the unknown
+number of individual Ets factors expressed in any cellular context and the
+similar DNA binding specificities of Ets family members complicates the
+identification of those that mediate transformation. By utilizing quantitative
+PCR assays for 25 mouse Ets factors, we analyzed the expression of essentially
+the entire Ets family in normal mammary tissue, mammary-related cell lines, and
+mammary tumors. In normal mammary tissue, 24 Ets factors were expressed. Even
+clonal derived cell lines expressed 14-20 Ets members. The most abundant Ets
+factor mRNAs measured in normal mammary tissue were Elk4, Elf1, and Ets2.
+Subtractive analysis of mammary tissue identified which Ets factors were
+predominantly expressed in the myeloid/lymphoid or epithelial cell compartments. 
+Comparison of Ets factor expression in normal mammary tissue and mammary tumors
+identified significantly elevated expression of Pse/PDEF, Ese2/Elf5, Ese3/Ehf,
+TEL/Etv6, and Elf2/NERF in mammary tumors and confirmed previously reported
+alterations in expression of Ese1/Elf3 and the PEA3 subfamily. Expression of 13
+Ets target genes, implicated in various aspects of tumor progression, was also
+analyzed. Altered expression of particular Ets target genes was significantly
+correlated with particular Ets factors (e.g. maspin and Ese2), suggesting
+specific in vivo regulatory roles. Together, this comprehensive analysis revealed
+unexpectedly diverse Ets family gene expression, characterized novel Ets factor
+changes in mammary tumors, and implicated specific Ets factors in the regulation 
+of multiple genes involved in mammary tumor progression.
+
+PMID: 14662758  [PubMed - indexed for MEDLINE]
+
+
+48. Oncogene. 2003 Aug 28;22(36):5554-61.
+
+Akt negatively regulates translation of the ternary complex factor Elk-1.
+
+Figueroa C(1), Vojtek AB.
+
+Author information: 
+(1)Department of Biological Chemistry, University of Michigan, Ann Arbor, MI
+48109-0606, USA.
+
+Cross-talk between signaling pathways plays an important role in regulation of
+cell growth, differentiation, survival, and death. Here, we show that Akt
+regulates the Elk-1 transcription factor, independent of its negative regulation 
+of Raf kinases. Using a constitutively active Mek1 to bypass the regulation of
+Raf by Akt, we find that the Elk-1 and Sap1a proteins are dramatically decreased 
+in the presence of activated Akt. Akt catalytic activity is required. Also,
+Mek-dependent activation of a TCF (Elk-1/Sap-1a)-dependent c-fos reporter is
+decreased by activated Akt. Neither the level of Elk-1 mRNA nor the stability of 
+the Elk-1 protein is altered by activated Akt. Instead, the rate of incorporation
+of labeled methionine into Elk-1 protein is decreased in the presence of Akt. In 
+addition, the level of the Elk-1 protein but not GFP is significantly decreased
+in the presence of activated Akt, when GFP is expressed from an IRES element in a
+bicistronic message with Elk-1. We conclude that Akt negatively regulates
+translation of the Elk-1 mRNA. A coding region determinant that maps within the
+first 279 nts of the Elk-1 message is necessary and sufficient for Akt-mediated
+regulation of Elk-1.
+
+PMID: 12944902  [PubMed - indexed for MEDLINE]
+
+
+49. Nucleic Acids Res. 2003 Aug 15;31(16):4717-28.
+
+Regulation of TCF ETS-domain transcription factors by helix-loop-helix motifs.
+
+Stinson J(1), Inoue T, Yates P, Clancy A, Norton JD, Sharrocks AD.
+
+Author information: 
+(1)School of Biological Sciences, Stopford Building, University of Manchester,
+Oxford Road, Manchester M13 9PT, UK.
+
+DNA binding by the ternary complex factor (TCF) subfamily of ETS-domain
+transcription factors is tightly regulated by intramolecular and intermolecular
+interactions. The helix-loop-helix (HLH)-containing Id proteins are trans-acting 
+negative regulators of DNA binding by the TCFs. In the TCF, SAP-2/Net/ERP,
+intramolecular inhibition of DNA binding is promoted by the cis-acting NID region
+that also contains an HLH-like motif. The NID also acts as a transcriptional
+repression domain. Here, we have studied the role of HLH motifs in regulating DNA
+binding and transcription by the TCF protein SAP-1 and how Cdk-mediated
+phosphorylation affects the inhibitory activity of the Id proteins towards the
+TCFs. We demonstrate that the NID region of SAP-1 is an autoinhibitory motif that
+acts to inhibit DNA binding and also functions as a transcription repression
+domain. This region can be functionally replaced by fusion of Id proteins to
+SAP-1, whereby the Id moiety then acts to repress DNA binding in cis.
+Phosphorylation of the Ids by cyclin-Cdk complexes results in reduction in
+protein-protein interactions between the Ids and TCFs and relief of their
+DNA-binding inhibitory activity. In revealing distinct mechanisms through which
+HLH motifs modulate the activity of TCFs, our results therefore provide further
+insight into the role of HLH motifs in regulating TCF function and how the
+inhibitory properties of the trans-acting Id HLH proteins are themselves
+regulated by phosphorylation.
+
+PMCID: PMC169972
+PMID: 12907712  [PubMed - indexed for MEDLINE]
+
+
+50. J Biol Chem. 2003 Aug 15;278(33):30642-51. Epub 2003 Jun 3.
+
+Transcriptional regulation of the cytosolic chaperonin theta subunit gene, Cctq, 
+by Ets domain transcription factors Elk-1, Sap-1a, and Net in the absence of
+serum response factor.
+
+Yamazaki Y(1), Kubota H, Nozaki M, Nagata K.
+
+Author information: 
+(1)Department of Molecular and Cellular Biology, Institute for Frontier Medical
+Sciences, Kyoto University, 53 Shogoin Kawaharacho, Sakyo-ku, Kyoto 606-8397,
+Japan.
+
+The chaperonin-containing t-complex polypeptide 1 (CCT) is a molecular chaperone 
+that facilitates protein folding in eukaryotic cytosol, and the expression of CCT
+is highly dependent on cell growth. We show here that transcription of the gene
+encoding the theta subunit of mouse CCT, Cctq, is regulated by the ternary
+complex factors (TCFs), Elk-1, Sap-1a, and Net (Sap-2). Reporter gene assay using
+HeLa cells indicated that the Cctq gene promoter contains a cis-acting element of
+the CCGGAAGT sequence (CQE1) at -36 bp. The major CQE1-binding proteins in HeLa
+cell nuclear extract was recognized by anti-Elk-1 or anti-Sap-1a antibodies in
+electrophoretic mobility shift assay, and recombinant Elk-1, Sap-1a, or Net
+specifically recognized CQE1. The CQE1-dependent transcriptional activity in HeLa
+cells was virtually abolished by overexpression of the DNA binding domains of
+TCFs. Overexpression of full-length TCFs with Ras indicated that exogenous TCFs
+can regulate the CQE1-dependent transcription in a Ras-dependent manner. PD98059,
+an inhibitor of MAPK, significantly repressed the CQE1-dependent transcription.
+However, no serum response factor was detected by electrophoretic mobility shift 
+assay using the CQE1 element. These results indicate that transcription of the
+Cctq gene is regulated by TCFs under the control of the Ras/MAPK pathway,
+probably independently of serum response factor.
+
+PMID: 12788937  [PubMed - indexed for MEDLINE]
+
+
+51. J Immunol. 2003 Jan 1;170(1):315-24.
+
+Induction of the early growth response gene 1 promoter by TCR agonists and
+partial agonists: ligand potency is related to sustained phosphorylation of
+extracellular signal-related kinase substrates.
+
+Xi H(1), Kersh GJ.
+
+Author information: 
+(1)Department of Pathology and Laboratory Medicine, Emory University School of
+Medicine, Atlanta, GA 30322, USA.
+
+Responses to partial agonist TCR signals include positive selection of
+thymocytes, survival of naive T cells, and homeostatic proliferation. As part of 
+an effort to understand the molecular basis of these processes, we have
+determined how agonist and partial agonist ligands act differently to induce a
+change in gene expression. We have found that the early growth response gene 1
+(Egr1) promoter is activated by agonist and partial agonist ligands, but the
+partial agonist induces 10-fold lower promoter activity. Both agonist and partial
+agonist ligands require all six serum response elements in the Egr1 promoter to
+reach maximum induction. Although slightly fewer cells respond to the partial
+agonist, all of the responding cells have reduced activity compared with the
+cells responding to agonist. The factors binding to the serum response elements
+of the Egr1 promoter form a ternary complex (TC) consisting of serum response
+factor and either Elk-1 or serum response factor accessory protein-1a. Formation 
+of a stable TC and inducible promoter activity are both dependent on
+extracellular signal-related kinase activation. Examination of TC formation over 
+time reveals that this complex is induced well by partial agonist ligands, but it
+is not sustained, whereas agonist stimulation induces longer lived TCs.
+Therefore, the data suggest that both agonist and partial agonist ligands can
+induce formation of multiple TC on the Egr1 promoter, but the ability of the
+agonist ligand to maintain these complexes for an extended time results in the
+increased potency of the agonist.
+
+PMID: 12496415  [PubMed - indexed for MEDLINE]
+
+
+52. J Mol Biol. 2001 Nov 30;314(3):495-506.
+
+Crystal structure of a ternary SAP-1/SRF/c-fos SRE DNA complex.
+
+Mo Y(1), Ho W, Johnston K, Marmorstein R.
+
+Author information: 
+(1)The Wistar Institute, University of Pennsylvania, Philadelphia, Pennsylvania
+19104, USA.
+
+Combinatorial DNA binding by proteins for promoter-specific gene activation is a 
+common mode of DNA regulation in eukaryotic organisms, and occurs at the promoter
+of the c-fos proto-oncogene. The c-fos promoter contains a serum response element
+(SRE) that mediates ternary complex formation with the Ets proteins SAP-1 or
+Elk-1 and the MADS-box protein, serum response factor (SRF). Here, we report the 
+crystal structure of a ternary SAP-1/SRF/c-fos SRE DNA complex containing the
+minimal DNA-binding domains of each protein. The structure of the complex reveals
+that the SAP-1 monomer and SRF dimer are bound on opposite faces of the DNA, and 
+that the DNA recognition helix of SAP-1 makes direct contact with the DNA
+recognition helix of one of the two SRF subunits. These interactions facilitate
+an 82 degrees DNA bend around SRF and a modulation of protein-DNA contacts by
+each protein when compared to each of the binary DNA complexes. A comparison with
+a recently determined complex containing SRF, an idealized DNA site, and a SAP-1 
+fragment containing a SRF-interacting B-box region, shows a similar overall
+architecture but also shows important differences. Specifically, the comparison
+suggests that the B-box region of the Ets protein does not significantly
+influence DNA recognition by either of the proteins, and that the sequence of the
+DNA target effects the way in which the two proteins cooperate for DNA
+recognition. These studies have implications for how DNA-bound SRF may modulate
+the DNA-binding properties of other Ets proteins such as Elk-1, and for how other
+Ets proteins may modulate the DNA-binding properties of other DNA-bound accessory
+factors to facilitate promoter-specific transcriptional responses.
+
+Copyright 2001 Academic Press.
+
+PMID: 11846562  [PubMed - indexed for MEDLINE]
+
+
+53. J Biol Chem. 2002 Mar 22;277(12):9896-903. Epub 2002 Jan 10.
+
+Specificity determinants in MAPK signaling to transcription factors.
+
+Barsyte-Lovejoy D(1), Galanis A, Sharrocks AD.
+
+Author information: 
+(1)School of Biological Sciences, University of Manchester, Manchester M13 9PT,
+United Kingdom.
+
+One critical component in determining the specificity, fidelity, and efficiency
+of MAPK substrate phosphorylation is the presence of distinct docking domains in 
+the substrate proteins. These docking domains are found in a range of substrates,
+including the transcription factors myocyte enhancer factor-2A and SAP-1.
+However, the sequences of these motifs differ, as does their targeting
+preferences by MAPKs, with SAP-1 being targeted by both the ERK and p38 isoforms,
+whereas myocyte enhancer factor-2A is targeted only by certain members of the p38
+subfamily. Here, we have investigated the specificity determinants within these
+motifs and generated a model for how specificity is generated. We demonstrate
+that residues throughout the docking domains play important roles in the
+recognition process. However, residues located at different positions are
+important for discriminating between ERK and p38 MAPKs. Furthermore, the docking 
+domains can be further subdivided into submotifs, which are differentially
+required for phosphorylation by ERK or p38 MAPKs. We have used loss- and
+gain-of-function mutagenesis to identify residues that discriminate between ERK
+and p38 MAPKs, residues that act to promote suboptimal interactions, and regions 
+that are differentially required depending on the kinase involved. A model is
+proposed to explain how specificity is generated within these short docking
+domains.
+
+PMID: 11786537  [PubMed - indexed for MEDLINE]
+
+
+54. Plant Cell. 2001 Dec;13(12):2631-41.
+
+A mutant Arabidopsis heterotrimeric G-protein beta subunit affects leaf, flower, 
+and fruit development.
+
+Lease KA(1), Wen J, Li J, Doke JT, Liscum E, Walker JC.
+
+Author information: 
+(1)Division of Biological Sciences, University of Missouri-Columbia, Columbia,
+Missouri 65211, USA.
+
+A genetic screen was performed to find new mutants with an erecta (er) phenotype 
+and to identify genes that may function with ER, a receptor-like kinase. These
+mutants were named elk (for erecta-like) and were placed into five
+complementation groups. We positionally cloned ELK4 and determined that it
+encodes AGB1, a putative heterotrimeric G-protein beta subunit. Therefore, elk4
+was renamed agb1. agb1-1 plants express similar fruit phenotypes, as seen in er
+plants, but differ from er in that the stem is only slightly shorter than that in
+the wild type, the pedicel is slightly longer than that in the wild type, and the
+leaves are rounder than those in er mutants. Molecular analysis of agb1-1
+indicates that it is likely a null allele. AGB1 mRNA is expressed in all tissues 
+tested but is highest in the silique. Analysis of agb1-1 er double mutants
+suggests that AGB1 may function in an ER developmental pathway regulating silique
+width but that it functions in parallel pathways affecting silique length as well
+as leaf and stem development. The finding that AGB1 is involved in the control of
+organ shape suggests that heterotrimeric G-protein signaling is a developmental
+regulator in Arabidopsis.
+
+PMCID: PMC139478
+PMID: 11752377  [PubMed - indexed for MEDLINE]
+
+
+55. J Biomol Screen. 2001 Feb;6(1):19-27.
+
+Development of a homogeneous MAP kinase reporter gene screen for the
+identification of agonists and antagonists at the CXCR1 chemokine receptor.
+
+Rees S(1), Martin DP, Scott SV, Brown SH, Fraser N, O'Shaughnessy C, Beresford
+IJ.
+
+Author information: 
+(1)Molecular Discovery Research Unit, Glaxo Wellcome Medicines Research Centre,
+Hertfordshire, UK. esr1353@glaxowellcome.co.uk
+
+Agonist activity at G protein-coupled receptors (GPCRs) that regulate
+heterotrimeric G proteins of the Galpha(i/o) or Galpha(q) families has been shown
+to result in activation of the mitogen-activated protein (MAP) kinase cascade. To
+facilitate compound screening for these classes of GPCR, we have developed a
+reporter gene that detects the activation of the ternary complex transcription
+factor Sap1a following MAP kinase activation. In contrast to other reporter gene 
+assays for Galpha(i/o)-coupled GPCRs, the MAP kinase reporter generates an
+increase in signal in the presence of agonist. The reporter gene has been
+transfected into Chinese hamster ovary cells to generate a "host" reporter
+gene-containing cell line. The Galpha(i)-coupled human CXCR1 chemokine receptor
+was subsequently transfected into this cell line in order to develop a 384-well
+format screen for both agonists and antagonists of this receptor. Agonists
+activated the reporter gene with the expected rank order of potency and with
+similar concentration dependence as seen with the regulation of other signal
+transduction cascades in mammalian cells: interleukin-8 (IL-8) (pEC(50) = 7.0 +/-
+0.1) > GCP-2 (pEC(50) = 6.3 +/- 0.1) > NAP-2 (pEC(50) < 6). CXCR1-mediated
+activation of MAP kinase was inhibited by pertussis toxin and the MEK inhibitor
+PD98059, demonstrating that receptor activation of MAP kinase is due to pertussis
+toxin-sensitive Galpha(i/o)-family G proteins to cause the activation of MEK
+kinase. Using the 384-well format, assay performance was unaffected by solvent
+concentrations of 0.5% ethanol, 0.15% glycerol, or 1% DMSO. Signal crosstalk
+between adjacent wells was less than 1%. The assay exhibited a Z factor of 0.53
+and a coefficient of variation of response to repeated application of IL-8 (100
+nM) of 15.9%.
+
+PMID: 11679162  [PubMed - indexed for MEDLINE]
+
+
+56. J Biol Chem. 2001 Jan 12;276(2):965-73.
+
+Selective targeting of MAPKs to the ETS domain transcription factor SAP-1.
+
+Galanis A(1), Yang SH, Sharrocks AD.
+
+Author information: 
+(1)School of Biological Sciences, University of Manchester, Manchester M13 9PT
+and the School of Biochemistry and Genetics, Medical School, University of
+Newcastle upon Tyne, Newcastle upon Tyne NE2 4HH, United Kingdom.
+
+MAPK pathways play important roles in regulating the key cellular processes of
+proliferation, differentiation, and apoptosis. There are multiple MAPK pathways, 
+which are subject to different regulatory cues. It is important that these
+pathways maintain specificity in signaling to elicit the activation of a specific
+program of gene expression. MAPK-docking domains in several transcription factors
+have been shown to play important roles in determining the specificity and
+efficiency of their phosphorylation by MAPKs. Here we investigate the mechanisms 
+by which MAPKs are targeted to the ETS domain transcription factor SAP-1. We
+demonstrate that SAP-1 contains two different domains that are required for its
+efficient phosphorylation in vitro and activation in vivo by ERK2 and a subset of
+p38 MAPKs. The D-domain is closely related to other MAPK-docking domains, but
+exhibits a novel specificity and serves to promote selective targeting of ERK2,
+p38alpha, and p38beta(2) to SAP-1. A second important region, the FXF motif, also
+plays an important role in directing MAPKs to phosphorylate SAP-1. The FXF motif 
+promotes targeting by ERK2 and, to a lesser extent, p38alpha, but not p38beta(2).
+Our data therefore demonstrate that a modular system of motifs is responsible for
+directing specific MAPK subtypes to SAP-1, but also point to important
+distinctions in the mechanism of action of the D-domain and FXF motif.
+
+PMID: 11029469  [PubMed - indexed for MEDLINE]
+
+
+57. Nat Struct Biol. 2000 Apr;7(4):292-7.
+
+Structure of the elk-1-DNA complex reveals how DNA-distal residues affect ETS
+domain recognition of DNA.
+
+Mo Y(1), Vaessen B, Johnston K, Marmorstein R.
+
+Author information: 
+(1)The Wistar Institute, University of Pennsylvania, Philadelphia, Pennsylvania
+19104, USA.
+
+SAP-1 and Elk-1 are members of a large group of eukaryotic transcription factors 
+that contain a conserved ETS DNA binding domain and that cooperate with the serum
+response factor (SRF) to activate transcription of the c-fos protooncogene.
+Despite the high degree of sequence similarity, which includes an identical amino
+acid sequence for the DNA recognition helix within the ETS domain of these
+proteins, they exhibit different DNA binding properties. Here we report the 2.1 ¿
+crystal structure of the ETS domain of Elk-1 bound to a high affinity E74 DNA
+(E74DNA) site and compare it to a SAP-1-E74DNA complex. This comparison reveals
+that the differential DNA binding properties of these proteins are mediated by
+non-conserved residues distal to the DNA binding surface that function to orient 
+conserved residues in the DNA recognition helix for protein-specific DNA
+contacts. As a result, nearly one-third of the interactions between the protein
+recognition helix and the DNA are different between the SAP-1 and Elk-1 DNA
+complexes. Taken together, these studies reveal a novel mechanism for the
+modulation of DNA binding specificity within a conserved DNA binding domain, and 
+have implications for how highly homologous ETS proteins exhibit differential
+DNA-binding properties.
+
+PMID: 10742173  [PubMed - indexed for MEDLINE]
+
+
+58. Circ Res. 2000 Feb 4;86(2):221-32.
+
+Smooth muscle alpha-actin CArG elements coordinate formation of a smooth muscle
+cell-selective, serum response factor-containing activation complex.
+
+Mack CP(1), Thompson MM, Lawrenz-Smith S, Owens GK.
+
+Author information: 
+(1)Department of Molecular Physiology and Biological Physics, University of
+Virginia Medical School, Charlottesville, USA.
+
+Previous studies have shown that multiple serum response factor (SRF)-binding
+CArG elements were required for smooth muscle cell (SMC)-specific regulation of
+smooth muscle (SM) alpha-actin expression. However, a critical question remains
+as to the mechanisms whereby a ubiquitously expressed transcription factor such
+as SRF might contribute to SMC-specific expression. The goal of the present study
+was to investigate the hypothesis that SMC-selective expression of SM alpha-actin
+is due at least in part to (1) unique CArG flanking sequences that distinguish
+the SM alpha-actin CArGs from other ubiquitously expressed CArG-dependent genes
+such as c-fos, (2) cooperative interactions between CArG elements, and (3)
+SRF-dependent binding of SMC-selective proteins to the CArG-containing regions of
+the promoter. Results demonstrated that specific sequences flanking CArG B were
+important for promoter activity in SMCs but not in bovine aortic endothelial
+cells. We also provided evidence indicating that the structural orientation
+between CArGs A and B was an important determinant of promoter function.
+Electrophoretic mobility shift assays and methylation interference footprinting
+demonstrated that a unique SRF-containing complex formed that was selective for
+SMCs and, furthermore, that this complex was probably stabilized by
+protein-protein interactions and not by specific interactions with CArG flanking 
+sequences. Taken together, the results of these studies provide evidence that SM 
+alpha-actin expression in SMCs is complex and may involve the formation of a
+unique multiprotein initiation complex that is coordinated by SRF complexes bound
+to multiple CArG elements.
+
+PMID: 10666419  [PubMed - indexed for MEDLINE]
+
+
+59. J Biol Chem. 2000 Jan 21;275(3):1757-62.
+
+Dimer formation by ternary complex factor ELK-1.
+
+Drewett V(1), Muller S, Goodall J, Shaw PE.
+
+Author information: 
+(1)School of Biomedical Sciences and Institute of Cell Signalling, University of 
+Nottingham Medical School, Queen's Medical Centre, Nottingham NG7 2UH, United
+Kingdom.
+
+Ternary complex factors (TCFs), a subgroup of the ets protein family, bind with a
+dimer of serum response factor to the c-fos serum response element. Both DNA
+binding and transcriptional activation by TCFs are regulated by mitogen-activated
+protein kinases. When activated, mitogen-activated protein kinases form
+homodimers that translocate to the nucleus, where they interact with TCFs via
+specific docking sites. Here we show by three different criteria that Elk-1 is
+capable of forming dimers in eukaryotic cells through two distinct interaction
+domains. These observations are consistent with a dynamic model of TCF-promoter
+interactions.
+
+PMID: 10636872  [PubMed - indexed for MEDLINE]
+
+
+60. Mol Endocrinol. 1999 Apr;13(4):619-31.
+
+Ternary complex factors Elk-1 and Sap-1a mediate growth hormone-induced
+transcription of egr-1 (early growth response factor-1) in 3T3-F442A
+preadipocytes.
+
+Clarkson RW(1), Shang CA, Levitt LK, Howard T, Waters MJ.
+
+Author information: 
+(1)Department of Physiology and Pharmacology, University Queensland, St. Lucia,
+Australia.
+
+In our search for transcription factors induced by GH, we have analyzed immediate
+early gene activation in a model of GH-dependent differentiation. Here we
+describe the activation of early growth response factor-1 (egr-1) in
+GH-stimulated 3T3-F442A preadipocytes and the transcription factors responsible
+for its transactivation. Binding activity of egr-1 in electrophoretic mobility
+shift assay (EMSA) increased transiently 1 h after GH stimulation, accompanied by
+a concomitant increase in egr-1 mRNA. egr-1 induction appeared not to be related 
+to proliferation since it was amplified in quiescent preadipocytes at a time when
+cells were refractive to GH-stimulated DNA synthesis. Truncations of the proximal
+1 kb of the egr-1 promoter revealed that a 374-bp region (-624 to -250)
+contributes about 80% of GH inducibility in 3T3-F442A cells and approximately 90%
+inducibility in CHO-K1 cells. This region contains three juxtaposed SRE (serum
+response element)/Ets site pairs known to be important for egr-1 activity in
+response to exogenous stimuli. Site-specific mutations of individual SRE and Ets 
+sites within this region each reduced GH inducibility of the promoter. Use of
+these site-specific mutations in EMSA showed that disruption of either Ets or SRE
+sites abrogated ternary complex formation at the composite sites. DNA binding of 
+ternary complexes, but not binary complexes, in EMSA was rapidly and transiently 
+increased by GH. EMSA supershifts indicated these ternary complexes contained
+serum response factor (SRF) and the Ets factors Elk-1 and Sap-1a. Coexpression of
+Sap-1a and Elk-1 resulted in a marked increase in GH induction of egr-1 promoter 
+activity, although transfection with expression vectors for either Ets factor
+alone did not significantly enhance the GH response. We conclude that GH
+stimulates transcription of egr-1 primarily through activation of these Ets
+factors at multiple sites on the promoter and that stabilization of ternary
+complexes with SRF at these sites maximizes this response.
+
+PMID: 10194767  [PubMed - indexed for MEDLINE]
+
+
+61. EMBO J. 1999 Feb 15;18(4):968-76.
+
+Id helix-loop-helix proteins inhibit nucleoprotein complex formation by the TCF
+ETS-domain transcription factors.
+
+Yates PR(1), Atherton GT, Deed RW, Norton JD, Sharrocks AD.
+
+Author information: 
+(1)Department of Biochemistry and Genetics, The Medical School, University of
+Newcastle upon Tyne, Newcastle upon Tyne, NE2 4HH.
+
+The Id subfamily of helix-loop-helix (HLH) proteins plays a fundamental role in
+the regulation of cellular proliferation and differentiation. Id proteins are
+thought to inhibit differentiation mainly through interaction with other HLH
+proteins and by blocking their DNA-binding activity. Members of the ternary
+complex factor (TCF) subfamily of ETS-domain proteins have key functions in
+regulating immediate-early gene expression in response to mitogenic stimulation. 
+TCFs form DNA-bound complexes with the serum response factor (SRF) and are direct
+targets of MAP kinase (MAPK) signal transduction cascades. In this study we
+demonstrate functional interactions between Id proteins and TCFs. Ids bind to the
+ETS DNA-binding domain and disrupt the formation of DNA-bound complexes between
+TCFs and SRF on the c-fos serum response element (SRE). Inhibition occurs by
+disrupting protein-DNA interactions with the TCF component of this complex. In
+vivo, the Id proteins cause down-regulation of the transcriptional activity
+mediated by the TCFs and thereby block MAPK signalling to SREs. Therefore, our
+results demonstrate a novel facet of Id function in the coordination of mitogenic
+signalling and cell cycle entry.
+
+PMCID: PMC1171189
+PMID: 10022839  [PubMed - indexed for MEDLINE]
+
+
+62. J Biol Chem. 1999 Jan 15;274(3):1736-44.
+
+Characterization of the human elk-1 promoter. Potential role of a downstream
+intronic sequence for elk-1 gene expression in monocytes.
+
+Lehmann U(1), Brocke P, Dittmer J, Nordheim A.
+
+Author information: 
+(1)Institut für Molekularbiologie, Medizinische Hochschule Hannover, 30623
+Hannover, Germany.
+
+To characterize the human elk-1 promoter, we mapped the transcriptional start
+site and isolated elk-1-specific genomic phage clones that contained extensive
+upstream and downstream sequences. A TATA-like motif was identified immediately
+upstream of the transcriptional start site. Functional analyses of DNA fragments 
+containing the TATA element and the identification of a DNase I-hypersensitive
+chromatin site (HS 1) in close proximity to the TATA box suggest that the
+identified TATA motif is important for elk-1 transcription in vivo. Sequences
+upstream and downstream from the TATA box were found to contribute to elk-1
+promoter activity. A second hypersensitive site (HS 2) was identified within the 
+first intron in pre-monocytic cells, which express Elk-1 only when
+differentiating to monocytes. In a variety of other cell types, which display a
+constitutive Elk-1 expression, HS 2 did not exist, suggesting that inducibility
+of elk-1 expression is associated with the presence of HS 2. Egr-1 and the serum 
+response factor were found to interact specifically with the intronic sequence at
++265 and +448, respectively. Because Egr-1 mRNA and protein levels were observed 
+to increase significantly before induction of elk-1 expression, we propose that
+Egr-1 is important for the regulation of elk-1 transcription in differentiating
+monocytes.
+
+PMID: 9880555  [PubMed - indexed for MEDLINE]
+
+
+63. Biochem J. 1998 Oct 15;335 ( Pt 2):267-75.
+
+Cloning and characterization of GETS-1, a goldfish Ets family member that
+functions as a transcriptional repressor in muscle.
+
+Goldman D(1), Sapru MK, Stewart S, Plotkin J, Libermann TA, Wasylyk B, Guan K.
+
+Author information: 
+(1)Mental Health Research Institute, University of Michigan, Ann Arbor, MI 48109,
+USA.
+
+An Ets transcription factor family member, GETS-1, was cloned from a goldfish
+retina cDNA library. GETS-1 contains a conserved Ets DNA-binding domain at its
+N-terminus and is most similar to ternary complex factor (TCF)
+serum-response-factor protein-1a (SAP-1a). GETS-1 is expressed in many tissues,
+but is enriched in retina and brain. As with the TCFs SAP-1a and ets-related
+protein (ERP), overexpression of the GETS-1 promoter suppresses nicotinic
+acetylcholine receptor epsilon-subunit gene expression in cultured muscle cells. 
+A consensus Ets binding site sequence in the promoter of the epsilon-subunit gene
+is required for GETS-1-mediated repression. GETS-1 repressor activity is
+abrogated by overexpression of an activated Ras/mitogen-activated protein kinase 
+(MAP kinase) or by mutation of Ser-405, a MAP kinase phosphorylation site in
+GETS-1. Fusion proteins created between GETS-1 and the Gal4 DNA-binding domain
+show that, like other TCFs, GETS-1 contains a C-terminal activation domain that
+is activated by a Ras/MAP kinase signalling cascade. Interestingly, mutation of
+Ser-405 located within this activation domain abrogated transcriptional
+activation of the fusion protein.
+
+PMCID: PMC1219778
+PMID: 9761723  [PubMed - indexed for MEDLINE]
+
+
+64. Neuroreport. 1998 Aug 24;9(12):2703-8.
+
+Nociception activates Elk-1 and Sap1a following expression of the ORL1 receptor
+in Chinese hamster ovary cells.
+
+Bevan N(1), Scott S, Shaw PE, Lee MG, Marshall FH, Rees S.
+
+Author information: 
+(1)Receptor Systems Unit, Glaxo Wellcome Research and Development, Hertfordshire,
+UK.
+
+Nociceptin stimulation of the ORL1 receptor expressed in Chinese hamster ovary
+(CHO) cells results in the activation of the extracellular signal regulated
+kinases ERK1 and ERK2. ERK1/ERK2 activation is inhibited by pertussis toxin, the 
+MEK inhibitor PD 98059 and by transient expression of alpha-transducin,
+indicating that ORL1 up-regulation of these kinases occurs as a consequence of
+the release of the G-protein betagamma complex following the activation of
+pertussis-toxin sensitive Galphai-family G-proteins. Using specific reporter
+genes we demonstrate that the transcription factors Elk-1 and Sapla are activated
+in a pertussis toxin-sensitive manner as a consequence of ORL1 upregulation of
+ERK1/ERK2 to induce changes in gene expression. The activation of these
+transcription factors is also inhibited following treatment with PD 98059 and
+following coexpression of alpha-transducin.
+
+PMID: 9760105  [PubMed - indexed for MEDLINE]
+
+
+65. Mol Cell. 1998 Aug;2(2):201-12.
+
+Structures of SAP-1 bound to DNA targets from the E74 and c-fos promoters:
+insights into DNA sequence discrimination by Ets proteins.
+
+Mo Y(1), Vaessen B, Johnston K, Marmorstein R.
+
+Author information: 
+(1)The Wistar Institute, Department of Chemistry, University of Pennsylvania,
+Philadelphia 19104, USA.
+
+SAP-1 is a member of the Ets transcription factors and cooperates with SRF
+protein to activate transcription of the c-fos protooncogene. The crystal
+structures of the conserved ETS domain of SAP-1 bound to DNA sequences from the
+E74 and c-fos promoters reveal that a set of conserved residues contact a GGA
+core DNA sequence. Discrimination for sequences outside this core is mediated by 
+DNA contacts from conserved and nonconserved protein residues and
+sequence-dependent DNA structural properties characteristic of A-form DNA
+structure. Comparison with the related PU.1/DNA and GABPalpha/beta/DNA complexes 
+provides general insights into DNA discrimination between Ets proteins. Modeling 
+studies of a SAP-1/SRF/DNA complex suggest that SRF may modulate SAP-1 binding to
+DNA by interacting with its ETS domain.
+
+PMID: 9734357  [PubMed - indexed for MEDLINE]
+
+
+66. J Mol Cell Cardiol. 1998 Mar;30(3):551-62.
+
+Transforming growth factor-beta1 and protein kinase C synergistically activate
+the c-fos serum response element in myocardial cells.
+
+Ueyama T(1), Kawashima S, Sakoda T, Hirata KI, Ohashi Y, Yamochi W, Akita H,
+Yokoyama M.
+
+Author information: 
+(1)The First Department of Internal Medicine, Kobe University School of Medicine,
+7-5-1, Kusunoki-cho, Chuo-ku, Kobe, 650-0017, Japan.
+
+We previously reported that transforming growth factor-beta1 (TGF-beta1)
+potentiated alpha1-adrenergic and stretch-induced c-fos mRNA expression and
+norepinephrine (NE)-induced amino acid incorporation in rat cultured myocardial
+cells (MCs). In the present study, we attempted to explore the mode of TGF-beta1 
+action for c-fos gene expression in MCs. In the transient transfection assay,
+TGF-beta1 potentiated NE- or 12-O-tetradecanoylphorbol-13-acetate (TPA)-activated
+c-fos promoter/enhancer, but not forskolin-activated c-fos promoter/enhancer. The
+c-fos serum response element (SRE) and the TPA response element (TRE) were
+responsible for TGF-beta1-induced potentiation of the NE or TPA action. Although 
+TGF-beta1 activated not only the wild-type c-fos SRE, but also the mutated c-fos 
+SRE, which contains an intact binding site for the serum response factor (SRF)
+but lacks the ternary complex factor (TCF) binding site, TPA activated the
+wild-type c-fos SRE but not the mutated c-fos SRE. TGF-beta1 did not potentiate
+the effects of TPA on the activation of mitogen-activated protein kinase (MAPK)
+and the phosphorylation of Elk-1 and SAP-1a, which belong to TCF at the c-fos
+SRE. These results indicate that TGF-betaf potentiates the c-fos SRE activated by
+PKC through the SRF binding site. TGF-beta1 is involved in the regulation of
+c-fos gene expression through the c-fos SRE and is subsequently involved in the
+regulation of the gene which has the TRE in the promoter/enhancer region.
+
+Copyright 1998 Academic Press Limited
+
+PMID: 9515031  [PubMed - indexed for MEDLINE]
+
+
+67. EMBO J. 1998 Mar 16;17(6):1717-27.
+
+The kinase suppressor of Ras (KSR) modulates growth factor and Ras signaling by
+uncoupling Elk-1 phosphorylation from MAP kinase activation.
+
+Sugimoto T(1), Stewart S, Han M, Guan KL.
+
+Author information: 
+(1)Department of Biological Chemistry, University of Michigan Medical School, Ann
+Arbor, MI 48109-0606, USA.
+
+The Ras GTPase plays an essential role in many cellular signal transduction
+events. Activation of the mitogen activated protein (MAP) kinase is a primary
+consequence of Ras activation and plays a key role in mediating Ras signal
+transduction. A novel kinase, KSR, has recently been functionally isolated as a
+positive regulator of Ras signaling in Caenorhabditis elegans vulval induction
+and Drosophila photoreceptor differentiation. We have examined the effect of KSR 
+on growth factor and Ras-induced MAP kinase signaling in mammalian cells.
+Surprisingly, we observed that KSR specifically blocks EGF and Ras-induced
+phosphorylation and activation of ternary complex factors (TCF), physiological
+substrates of MAP kinases, without affecting the activation of MAP kinase itself.
+A kinase-deficient mutant of KSR, KSR-RM, appears to function as a dominant
+interfering mutant which elevates phosphorylation of Elk-1, a member of the TCF
+family, and Elk-1-dependent transcription. The effect of KSR on Elk-1 was
+significantly decreased by inhibition of calcineurin, a putative Elk-1
+phosphatase. These observations demonstrate that KSR is capable of uncoupling the
+MAP kinase activation from its target phosphorylation, and thus provide a novel
+mechanism for modulating the Ras-MAP kinase signaling pathway. This study
+provides the first evidence that signal output of MAP kinase cascades is subject 
+to regulation at a level independent of MAP kinase activity.
+
+PMCID: PMC1170519
+PMID: 9501093  [PubMed - indexed for MEDLINE]
+
+
+68. Oncogene. 1997 Oct 2;15(14):1661-9.
+
+Activation of the c-fos SRE through SAP-1a.
+
+Masutani H(1), Magnaghi-Jaulin L, Ait-Si-Ali S, Groisman R, Robin P, Harel-Bellan
+A.
+
+Author information: 
+(1)Laboratoire de Biologie des Tumeurs Humaines, CNRS URA 1156, Institut Gustave 
+Roussy, Villejuif, France.
+
+Erratum in
+    Oncogene 1999 Sep 16;18(37):5246. Ait Si Ali S [corrected to Ait-Si-Ali S].
+
+TCFs, which are members of the Ets family of transcription factors, are recruited
+to the Serum Response Element (SRE) in the c-fos promoter by SRF. These Ets
+proteins, which are substrates for the MAP kinases, are direct targets of the
+Ras/MAP kinase signal transduction pathway. In this paper, we demonstrate that
+one of the TCFs, SAP-1a, displays a significant level of autonomous binding to
+the SRE Ets box. In contrast to previous observations, deletion of the SRF
+binding domain did not modulate the autonomous binding of SAP-1a. Also, the
+autonomous binding was not modulated by the phosphorylation of SAP-1a by MAP
+kinases. The autonomous binding was also detected in live cells: transfected
+SAP-1a was able to restore the response of a CArG-less SRE in PC12 cells. The
+response occurred in the absence of SRF recruitment since a mutant of SAP-1a in
+which the B-box, a domain required for interaction with SRF, had been deleted was
+still able to transactivate the CArG-less SRE. The transactivation was repressed 
+by a Ras transdominant negative mutant, indicating the involvement of the Ras/MAP
+kinase pathway. Taken together, these data demonstrate that SAP-1a is capable of 
+binding to the c-fos SRE in the absence of SRF.
+
+PMID: 9349499  [PubMed - indexed for MEDLINE]
+
+
+69. Biochem Soc Trans. 1997 May;25(2):153S.
+
+The regulation of TCF transcription factors by MAP kinase cascades.
+
+Yang S(1), Yates PR, Whitmarsh AJ, Davis RJ, Sharrocks AD.
+
+Author information: 
+(1)Department of Biochemistry and Genetics, Medical School, University of
+Newcastle, Newcastle Upon Tyne, UK.
+
+PMID: 9191197  [PubMed - indexed for MEDLINE]
+
+
+70. EMBO J. 1997 Apr 1;16(7):1620-7.
+
+Convergence of MAP kinase pathways on the ternary complex factor Sap-1a.
+
+Janknecht R(1), Hunter T.
+
+Author information: 
+(1)Molecular Biology and Virology Laboratory, The Salk Institute, La Jolla, CA
+92037, USA.
+
+The serum response element (SRE), which is pivotal for transcriptional
+up-regulation of the c-fos protooncogene, is constitutively occupied by a protein
+complex comprising the serum response factor and a ternary complex factor (TCF). 
+Phosphorylation of the TCFs Elk-1 and Sap-1a by the ERK and JNK subclasses of MAP
+kinases triggers c-fos transcription. We demonstrate here that Elk-1 is barely
+activated by a third subclass of MAP kinases (p38), most likely because the
+critical residues Ser383 and Ser389 are poorly phosphorylated by p38 MAP kinase. 
+In contrast, the TCF Sap-1a is efficiently phosphorylated by p38 MAP kinase in
+vitro and in vivo on the homologous residues Ser381 and Ser387. Mutation of these
+sites to alanine severely reduces c-fos SRE-dependent transcription mediated by
+Sap-1a and p38 MAP kinase. Thus, Sap-1a may be an important target for mitogens, 
+stress and apoptotic signals to elicit a nuclear response. However, signaling
+from p38 MAP kinase to Sap-1a or from Sap-1a to the basal transcription machinery
+does not occur in all cell types nor at promoters other than the c-fos SRE, which
+may ensure the specificity of signaling.
+
+PMCID: PMC1169766
+PMID: 9130707  [PubMed - indexed for MEDLINE]
+
+
+71. J Biol Chem. 1997 Feb 14;272(7):4219-24.
+
+Activation of the Sap-1a transcription factor by the c-Jun N-terminal kinase
+(JNK) mitogen-activated protein kinase.
+
+Janknecht R(1), Hunter T.
+
+Author information: 
+(1)Molecular Biology and Virology Laboratory, The Salk Institute, La Jolla,
+California 92037, USA.
+
+Ternary complex factors (TCFs) bind to the serum response element in the c-fos
+promoter and mediate its activation by many extracellular stimuli. Some of these 
+stimuli activate the ERK subclass of mitogen-activated protein kinases (MAPKs)
+that target the TCF Sap-1a. We show that Sap-1a is also phosphorylated by the
+stress-activated JNK subclass of MAPKs leading to stimulation of both c-fos serum
+response element and E74-site-dependent transcription in RK13 cells. Several
+JNK-1 phosphorylation sites were mapped within Sap-1a, and mutation of these
+sites affected the transactivation mediated by Sap-1a and JNK-1. The impact of
+these phosphorylation sites varied at different promoters and was dependent on
+whether Sap-1a was stimulated by ERK-1 or JNK-1. Additionally, a comparison of
+Sap-1a with another TCF, Elk-1, revealed that these proteins behaved differently 
+to stimulation by ERK-1 and JNK-1. Furthermore, activation of Sap-1a by JNK-1 was
+inhibited by the p38(MAPK) in RK13 cells, possibly by competition for a common
+upstream activator. Altogether, our data suggest that Sap-1a plays an important
+role in the nuclear response elicited by cellular stress.
+
+PMID: 9020136  [PubMed - indexed for MEDLINE]
+
+
+72. Oncogene. 1997 Jan 16;14(2):213-21.
+
+FLI1 and EWS-FLI1 function as ternary complex factors and ELK1 and SAP1a function
+as ternary and quaternary complex factors on the Egr1 promoter serum response
+elements.
+
+Watson DK(1), Robinson L, Hodge DR, Kola I, Papas TS, Seth A.
+
+Author information: 
+(1)Center for Molecular and Structural Biology, Medical University of South
+Carolina, Charleston 29425, USA.
+
+The ETS gene products are a family of transcriptional regulatory proteins that
+contain a highly conserved and structurally unique DNA binding domain, termed the
+ETS domain. Several ETS proteins bind to DNA as monomers, however it has been
+shown that the DNA binding activity is enhanced or modulated in the presence of
+other factors. By differential display and whole genome PCR techniques, we have
+recently shown that the Erg1 gene is a target for ETS proteins. The Egr1 promoter
+contains multiple ETS binding sites, three of which exist as parts of two serum
+response elements (SREI and SREII). The SRE is a cis-element that regulates the
+expression of many growth factor responsive genes. ELK1 and SAP1a have been shown
+to form ternary complexes with SRF on the SRE located in the c-fos promoter.
+Similarly, we examined whether the ELK1, SAP1a, FLI1, EWS-FLI1, ETS1, ETS2, PEA3 
+and PU.1 proteins can form ternary complexes with SRF on the Egr1 SREI and II.
+Our results demonstrate that indeed ELK1, SAPla, FLI1 and EWS-FLI1 are able to
+form ternary complexes with SRF on Egr1 SREs. In addition, ELK1 and SAP1a can
+also form quarternary complexes on the Egr1 SREI. However, the proteins ETS1,
+ETS2, PEA3 and PU.1 were unable to form ternary complexes with SRF on either the 
+Egr1 or c-fos SREs. Our data demonstrate that FLI1 and EWS-FLI1 constitute new
+members of a subgroup of ETS proteins that can function as ternary complex
+factors and further implicate a novel function for these ETS transcription
+factors in the regulation of the Egr1 gene. By amino acid sequence comparison we 
+found that, in fact, 50% of the amino acids present in the B-box of SAP1a and
+ELK1, which are required for interaction with SRF, are identical to those present
+in both FLI1 (amino acids 231- 248) and EWS-FLI1 proteins. This B-box is not
+present in ETS1, ETS2, PEA3 or PU.1 and these proteins were unable to form
+ternary complexes with SRF and Egrl-SREs or c-fos SRE. Furthermore, deletion of
+194 amino terminal amino acids of FLI1 did not interfere with its ability to
+interact with SRF, in fact, this truncation increased the stability of the
+ternary complex. The FLI1 protein has a unique R-domain located next to the DNA
+binding region. This R-domain may modulate the interaction with SRF, providing a 
+mechanism that would be unique to FLI1 and EWS-FLI1, thus implicating a novel
+function for these ETS transcription factors in the regulation of the Egr1 gene.
+
+PMID: 9010223  [PubMed - indexed for MEDLINE]
+
+
+73. J Biol Chem. 1996 Dec 13;271(50):32438-46.
+
+Biosynthesis, processing, and targeting of sphingolipid activator protein (SAP
+)precursor in cultured human fibroblasts. Mannose 6-phosphate
+receptor-independent endocytosis of SAP precursor.
+
+Vielhaber G(1), Hurwitz R, Sandhoff K.
+
+Author information: 
+(1)Institut für Organische Chemie und Biochemie, Universität Bonn, D-53121 Bonn, 
+Germany. sandhoff@uni-bonn.de
+
+Sphingolipid activator proteins (SAPs) are essential cofactors for the lysosomal 
+degradation of glycosphingolipids with short oligosaccharide chains by acidic
+exohydrolases. SAP-A, -B, -C, and -D derive from proteolysis of a 73-kDa
+glycoprotein, the SAP precursor. In the present publication, we studied the
+intracellular transport and the endocytosis of SAP precursor in human skin
+fibroblasts. Our data indicate that SAP precursor bears phosphate residues on
+noncomplex carbohydrate chains linked to the SAP-C and the SAP-D domain and
+sulfate residues on complex carbohydrate chains located within the SAP-A, -C, and
+possibly the SAP-D domain. Treatment of fibroblasts with either bafilomycin A1 or
+3-methyladenine indicates that proteolytic cleavage of SAP precursor begins as
+early as in the late endosomes. To determine whether targeting of SAP precursor
+depends on mannose 6-phosphate residues, we analyzed the processing of SAP
+precursor in I-cell disease fibroblasts. In these cells nearly normal amounts of 
+newly synthesized SAP-C were found, although secretion of SAP precursor was
+enhanced 2-3-fold. Moreover, SAP-C could be localized to lysosomal structures by 
+indirect immunofluorescence in normal and in I-cell disease fibroblasts. Mannose 
+6-phosphate was not found to interfere significantly with endocytosis of SAP
+precursor. Normal fibroblasts internalized SAP precursor secreted from I-cells
+nearly as efficiently as the protein secreted from normal cells. To our surprise,
+deglycosylated SAP precursor was taken up by mannose 6-phosphate receptor double 
+knock out mouse fibroblasts more efficiently than the glycosylated protein. We
+propose that intracellular targeting of SAP precursor to lysosomes is only
+partially dependent on mannose 6-phosphate residues, whereas its endocytosis
+occurs in a carbohydrate-independent manner.
+
+PMID: 8943309  [PubMed - indexed for MEDLINE]
+
+
+74. EMBO J. 1996 Dec 2;15(23):6552-63.
+
+The p38 and ERK MAP kinase pathways cooperate to activate Ternary Complex Factors
+and c-fos transcription in response to UV light.
+
+Price MA(1), Cruzalegui FH, Treisman R.
+
+Author information: 
+(1)Transcription Laboratory, Imperial Cancer Research Fund Laboratories, London, 
+UK.
+
+We investigated the activation of c-fos transcription following UV irradiation, a
+'stress' stimulus. In both HeLa TK- and NIH 3T3 cells the Serum Response Element 
+is required for efficient UV-induced c-fos transcription, and in HeLa TK- cells
+the Ternary Complex Factor (TCF) binding site contributes substantially to
+activation. Consistent with this, UV irradiation activates LexA-TCF fusion
+proteins more strongly in HeLa TK- than in NIH 3T3 cells. The TCF C-termini of
+the TCFs are substrates for UV-induced MAP kinases: both the Elk-1 and SAP-1a
+C-termini are efficiently phosphorylated by the p38 MAPK, but only the Elk-1
+C-terminus is a good substrate for the SAPK/JNKs. The specificity and activation 
+kinetics of TCF C-terminal kinases, and the susceptibility of transcriptional
+activation by LexA-TCF fusion proteins to specific inhibitors of different MAPK
+pathways, show that both the ERK and p38 MAPK pathways contribute to TCF
+activation in response to UV irradiation. Activity of both these pathways is also
+required for the response of the c-fos gene itself to UV stimulation.
+
+PMCID: PMC452480
+PMID: 8978682  [PubMed - indexed for MEDLINE]
+
+
+75. EMBO J. 1996 Nov 1;15(21):5849-65.
+
+Net (ERP/SAP2) one of the Ras-inducible TCFs, has a novel inhibitory domain with 
+resemblance to the helix-loop-helix motif.
+
+Maira SM(1), Wurtz JM, Wasylyk B.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire, CNRS, INSERM, 
+ULP, Illkirch, France.
+
+The three ternary complex factors (TCFs), Net (ERP/ SAP-2), ELK-1 and SAP-1, are 
+highly related ets oncogene family members that participate in the response of
+the cell to Ras and growth signals. Understanding the different roles of these
+factors will provide insights into how the signals result in coordinate
+regulation of the cell. We show that Net inhibits transcription under basal
+conditions, in which SAP-1a is inactive and ELK-1 stimulates. Repression is
+mediated by the NID, the Net Inhibitory Domain of about 50 amino acids, which
+autoregulates the Net protein and also inhibits when it is isolated in a
+heterologous fusion protein. Net is particularly sensitive to Ras activation. Ras
+activates Net through the C-domain, which is conserved between the three TCFs,
+and the NID is an efficient inhibitor of Ras activation. The NID, as well as more
+C-terminal sequences, inhibit DNA binding. Net is more refractory to DNA binding 
+than the other TCFs, possibly due to the presence of multiple inhibitory
+elements. The NID may adopt a helix-loop-helix (HLH) structure, as evidenced by
+homology to other HLH motifs, structure predictions, model building and
+mutagenesis of critical residues. The sequence resemblance with myogenic factors 
+suggested that Net may form complexes with the same partners. Indeed, we found
+that Net can interact in vivo with the basic HLH factor, E47. We propose that Net
+is regulated at the level of its latent DNA-binding activity by protein
+interactions and/or phosphorylation. Net may form complexes with HLH proteins as 
+well as SRF on specific promotor sequences. The identification of the novel
+inhibitory domain provides a new inroad into exploring the different roles of the
+ternary complex factors in growth control and transformation.
+
+PMCID: PMC452333
+PMID: 8918463  [PubMed - indexed for MEDLINE]
+
+
+76. Proc Natl Acad Sci U S A. 1996 Oct 15;93(21):11563-8.
+
+Selective response of ternary complex factor Sap1a to different mitogen-activated
+protein kinase subgroups.
+
+Strahl T(1), Gille H, Shaw PE.
+
+Author information: 
+(1)Spemann Laboratories, Max-Planck-Institut für Immunbiologie, Freiburg,
+Germany.
+
+Mitogenic and stres signals results in the activation of extracellular
+signal-regulated kinases (ERKs) and stress-activated protein kinase/c-Jun
+N-terminal kinases (SAPK/JNKs), respectively, which are two subgroups of the
+mitogen-activated protein kinases. A nuclear target of mitogen-activated protein 
+(MAP) kinases is the ternary complex factor Elk-1, which underlies its
+involvement in the regulation of c-fos gene expression by mitogenic and stress
+signals. A second ternary complex factor, Sap1a, is coexpressed with Elk-1 in
+several cell types and shares attributes of Elk-1, the significance of which is
+not clear. Here we show that Sap1a is phosphorylated efficiently by ERKs but not 
+by SAPK/JNKs. Serum response factor-dependent ternary complex formation by Sap1a 
+is stimulated by ERK phosphorylation but not by SAPK/JNKs. Moreover,
+Sap1a-mediated transcription is activated by mitogenic signals but not by cell
+stress. These results suggest that Sap1a and Elk-1 have distinct physiological
+functions.
+
+PMCID: PMC38097
+PMID: 8876175  [PubMed - indexed for MEDLINE]
+
+
+77. DNA Cell Biol. 1996 Oct;15(10):855-62.
+
+Molecular cloning of Elk-3, a new member of the Ets family expressed during mouse
+embryogenesis and analysis of its transcriptional repression activity.
+
+Nozaki M(1), Onishi Y, Kanno N, Ono Y, Fujimura Y.
+
+Author information: 
+(1)Department of Molecular Embryology, Research Institute for Microbial Diseases,
+Osaka University, Japan.
+
+We isolated a cDNA clone, Elk-3, that encodes a novel Ets transcription factor
+from 16-day mouse embryos. The deduced amino acid sequence of the protein was
+homologous to human ELK-1 and SAP-1. This protein, ELK-1, and SAP-1 shared some
+unique structural properties such as an Ets DNA-binding site in the
+amino-terminal region, a serum response factor interacting domain and
+phosphorylation sites of serine or threonine residues in the carboxy-terminal
+region. Northern blotting weakly revealed that two transcripts of 4 and 2.1 kb
+are expressed in the adult ovary and lung and a 2.1-kb transcript predominated in
+8- to 14-day embryos. We assayed the transcriptional activities of Elk-3 protein 
+on the cytokeratin EndoA enhancer containing Ets binding sites in endodermal
+cells. Elk-3 protein strongly repressed enhancer activity but did not affect the 
+activity of the basal promoter in the absence of the enhancer. Furthermore, Elk-3
+can suppress the activity of Ets-2 as the transcriptional activator on the EndoA 
+enhancer. These data suggested that the Elk-3 gene product plays a role in
+transcriptional regulation during embryogenesis.
+
+PMID: 8892757  [PubMed - indexed for MEDLINE]
+
+
+78. FEBS Lett. 1996 Aug 12;391(3):247-51.
+
+Analysis of SRF, SAP-1 and ELK-1 transcripts and proteins in human cell lines.
+
+Magnaghi-Jaulin L(1), Masutani H, Lipinski M, Harel-Bellan A.
+
+Author information: 
+(1)Laboratorie de Biologie des Tumeurs Humaines, CNRS URA 1156, Villejuif,
+France.
+
+We have analysed the expression of the genes encoding transcription factors
+involved in c-fos transcriptional regulation, i.e. the serum response factor
+(SRF) and the ETS-related proteins ELK-1 and SAP-1, in a variety of human cell
+lines. RNA was determined by Northern blot analysis, and proteins were detected
+on Western blots: the two analyses gave essentially identical results. SRF was
+expressed at similar levels in all cell lines tested. In contrast, SAP-1 and
+ELK-1 expression varied from one cell line to another. Interestingly, in any
+given cell line, high levels of one protein were accompained by low levels of the
+other. Similar results were obtained by electro-mobility shift assays (EMSA),
+using antibodies directed against the proteins. Thus, our data raise the
+possibility of a coordinated regulation of the expression of these two Ets genes,
+at both RNA and protein levels.
+
+PMID: 8764983  [PubMed - indexed for MEDLINE]
+
+
+79. J Clin Invest. 1996 Jul 1;98(1):78-89.
+
+Oxidized low density lipoprotein inhibits lipopolysaccharide-induced binding of
+nuclear factor-kappaB to DNA and the subsequent expression of tumor necrosis
+factor-alpha and interleukin-1beta in macrophages.
+
+Ohlsson BG(1), Englund MC, Karlsson AL, Knutsen E, Erixon C, Skribeck H, Liu Y,
+Bondjers G, Wiklund O.
+
+Author information: 
+(1)The Wallenberg Laboratory for Cardiovascular Research, Sahlgren's Hospital,
+University of Göteborg, Sweden.
+
+A large body of evidence suggests that oxidized LDL (oxLDL) has a role in
+atherogenesis. One effect is the impact on macrophage function. We have studied
+the effects of oxLDL and oxysterols on the binding of the transcription factors
+nuclear factor (NF)-kappaB and AP-1 to DNA. These transcription factors are
+involved in the regulation of several genes and expressed during activation of
+macrophages, for example by endotoxin (LPS). OxLDL did not induce binding of
+NF-kappaB. However, the LPS-induced response to NF-kappaB was substantially
+reduced after preincubation with oxLDL. Medium and highly oxidized LDL also
+decreased the constitutive DNA-binding of AP-1. Similar effects on AP-1-binding
+were seen with the oxysterols, 7beta-hydroxycholesterol, 24- hydroxy-,
+25-hydroxy-, and 27-hydroxy-cholesterol. Our data therefore suggest an effect of 
+oxLDL on the DNA-binding of AP-1, which might be mediated by the oxysterol
+content of oxLDL. A decreased LPS-induced TNF-alpha and IL-1beta mRNA and protein
+expression were found in macrophages incubated with oxLDL before LPS-exposure.
+These observations suggest that macrophages that internalize extensively oxidized
+LDL are suppressed in their response to inflammatory stimulation.
+
+PMCID: PMC507403
+PMID: 8690807  [PubMed - indexed for MEDLINE]
+
+
+80. Mol Cell Biol. 1996 Jul;16(7):3338-49.
+
+Determinants of DNA-binding specificity of ETS-domain transcription factors.
+
+Shore P(1), Whitmarsh AJ, Bhaskaran R, Davis RJ, Waltho JP, Sharrocks AD.
+
+Author information: 
+(1)Department of Biochemistry and Genetics, The Medical School, University of
+Newcastle upon Tyne, United Kingdom.
+
+Several mechanisms are employed by members of transcription factor families to
+achieve sequence-specific DNA recognition. In this study, we have investigated
+how members of the ETS-domain transcription factor family achieve such
+specificity. We have used the ternary complex factor (TCF) subfamily as an
+example. ERK2 mitogen-activated protein kinase stimulates serum response
+factor-dependent and autonomous DNA binding by the TCFs Elk-1 and SAP-la.
+Phosphorylated Elk-1 and SAP-la exhibit specificities of DNA binding similar to
+those of their isolated ETS domains. The ETS domains of Elk-1 and SAP-la and
+SAP-2 exhibit related but distinct DNA-binding specificities. A single residue,
+D-69 (Elk-1) or V-68 (SAP-1), has been identified as the critical determinant for
+the differential binding specificities of Elk-1 and SAP-1a, and an additional
+residue, D-38 (Elk-1) or Q-37 (SAP-1), further modulates their DNA binding.
+Creation of mutations D38Q and D69V is sufficient to confer SAP-la DNA-binding
+specificity upon Elk-1 and thereby allow it to bind to a greater spectrum of
+sites. Molecular modelling indicates that these two residues (D-38 and D-69) are 
+located away from the DNA-binding interface of Elk-1. Our data suggest a
+mechanism in which these residues modulate DNA binding by influencing the
+interaction of other residues with DNA.
+
+PMCID: PMC231328
+PMID: 8668149  [PubMed - indexed for MEDLINE]
+
+
+81. Philos Trans R Soc Lond B Biol Sci. 1996 Apr 29;351(1339):551-9.
+
+Integration of growth factor signals at the c-fos serum response element.
+
+Price MA(1), Hill C, Treisman R.
+
+Author information: 
+(1)Transcription Laboratory, Imperial Cancer Research Fund, London, U.K.
+
+A transcription factor ternary complex composed of serum response factor (SRF)
+and a second factor, ternary complex factor (TCF), mediates the response of the
+c-fos Serum Response Element to growth factors and mitogens. In NIH3T3
+fibroblasts, TCF binding is required for transcriptional activation by the SRE in
+response to activation of the Ras-Raf-ERK pathway. We compared the properties of 
+three members of the TCF family, Elk-1, SAP-1 and SAP-2 (ERP/NET). Although all
+the proteins contain sequences required for ternary complex formation with SRF,
+only Elk-1 and SAP-1 appear to interact with the c-fos SRE efficiently in vivo.
+Each TCF contains a C-terminal activation domain capable of transcriptional
+activation in response to activation of the Ras-Raf-ERK pathway, and this is
+dependent on the integrity of S/T-P motifs conserved between all the TCF family
+members. In contrast, activation of the SRE by whole serum and the mitogenic
+phospholipid LPA requires SRF binding alone. Constitutively activated members of 
+the Rho subfamily of Ras-like GTPases are also capable of inducing activation of 
+the SRE in the absence of TCF; unlike activated Ras itself, these proteins do not
+activate the TCFs in NIH3T3 cells. At the SRE, SRF- and TCF-linked signalling
+pathways act synergistically to potentiate transcription.
+
+PMID: 8735278  [PubMed - indexed for MEDLINE]
+
+
+82. Curr Biol. 1996 Jan 1;6(1):16-9.
+
+Signalling pathways: jack of all cascades.
+
+Cahill MA(1), Janknecht R, Nordheim A.
+
+Author information: 
+(1)Institute for Molecular Biology, Hannover Medical School, Germany.
+
+The transcription factors that bind the c-fos promoter element SRE are targeted
+by multiple, independent signalling cascades; the identities of these signalling 
+pathways and their modes of activation are being elucidated.
+
+PMID: 8805215  [PubMed - indexed for MEDLINE]
+
+
+83. Adv Exp Med Biol. 1996;387:77-84.
+
+The transcription factor TCF/Elk-1: a nuclear sensor of changes in the cellular
+redox status.
+
+Müller JM(1), Cahill MA, Nordheim A, Baeuerle PA.
+
+Author information: 
+(1)Institute of Biochemistry, Albert-Ludwig-University, Freiburg, Germany.
+
+PMID: 8794197  [PubMed - indexed for MEDLINE]
+
+
+84. Nucleic Acids Res. 1995 Nov 25;23(22):4698-706.
+
+The ETS-domain transcription factors Elk-1 and SAP-1 exhibit differential DNA
+binding specificities.
+
+Shore P(1), Sharrocks AD.
+
+Author information: 
+(1)Department of Biochemistry and Genetics, Medical School, University of
+Newcastle upon Tyne, UK.
+
+The ETS DNA-binding domain is conserved amongst many eukaryotic transcription
+factors. ETS-domains bind differentially to specific DNA sites containing a
+central GGA trinucleotide motif. The nucleotides flanking this motif define the
+binding specificity of individual proteins. In this study we have investigated
+binding specificity of the ETS-domains from two members of the ternary complex
+factor (TCF) subfamily, Elk-1 and SAP-1. The ETS DNA-binding domains of Elk-1
+(Elk-93) and SAP-1 (SAP-92) select similar sites from random pools of double
+stranded oligonucleotides based on the consensus sequence ACCGGAAGTR. However,
+SAP-92 shows a more relaxed binding site selectivity and binds efficiently to a
+greater spectrum of sites than does Elk-93. This more relaxed DNA binding site
+selectivity is most pronounced in nucleotides located on the 3' side of the GGA
+motif. This differential DNA-binding specificity is also exhibited by longer TCF 
+derivatives and, indeed by the full-length proteins. Our results suggest that the
+range of potential in vivo target sites for SAP-1 is likely to be greater than
+for Elk-1. We discuss our results in relation to other similar studies carried
+out with more divergent ETS-domains.
+
+PMCID: PMC307446
+PMID: 8524663  [PubMed - indexed for MEDLINE]
+
+
+85. Genomics. 1995 Oct 10;29(3):769-72.
+
+Locations of the ets subfamily members net, elk1, and sap1 (ELK3, ELK1, and ELK4)
+on three homologous regions of the mouse and human genomes.
+
+Giovane A(1), Sobieszczuk P, Mignon C, Mattei MG, Wasylyk B.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire, Illkirch,
+France.
+
+Net, Elk1, and Sap1 are related members of the Ets oncoprotein family. We show by
+in situ hybridization on banded chromosomes with specific cDNA probes that their 
+map positions on mouse and human chromosomes (respectively) are net, 10C-D1 and
+12q22-q23 (now called ELK3), sap1, 1E3-G and 1q32 (ELK4), and elk1, XA1-A3 and
+Xp11.2-p11.1 (ELK1), as well as a second locus 14q32 (ELK2) unique to the human
+genome. The results for the mouse net, sap1, and elk1 and human ELK3 genes are
+new. The human elk1 mapping confirms a previous study. The human ELK4
+localization agrees with data published during the preparation of the manuscript.
+Human ELK3 colocalizes with sap2, and we confirm that they are identical. These
+results firmly establish for the first time that Net, Elk1, and Sap1 are distinct
+gene products with different chromosomal localizations in both the mouse and the 
+human genomes. Net, Elk1, and Sap1 are conserved and map to homologous regions of
+the mouse and human chromosomes.
+
+PMID: 8575773  [PubMed - indexed for MEDLINE]
+
+
+86. Science. 1995 Jul 21;269(5222):403-7.
+
+Integration of MAP kinase signal transduction pathways at the serum response
+element.
+
+Whitmarsh AJ(1), Shore P, Sharrocks AD, Davis RJ.
+
+Author information: 
+(1)Howard Hughes Medical Institute, University of Massachusetts Medical School,
+Worcester 01605, USA.
+
+The ternary complex factor (TCF) subfamily of ETS-domain transcription factors
+bind with serum response factor (SRF) to the serum response element (SRE) and
+mediate increased gene expression. The TCF protein Elk-1 is phosphorylated by the
+JNK and ERK groups of mitogen-activated protein (MAP) kinases causing increased
+DNA binding, ternary complex formation, and transcriptional activation. Activated
+SRE-dependent gene expression is induced by JNK in cells treated with
+interleukin-1 and by ERK after treatment with phorbol ester. The Elk-1
+transcription factor therefore integrates MAP kinase signaling pathways in vivo
+to coordinate biological responses to different extracellular stimuli.
+
+PMID: 7618106  [PubMed - indexed for MEDLINE]
+
+
+87. EMBO J. 1995 Jun 1;14(11):2589-601.
+
+Comparative analysis of the ternary complex factors Elk-1, SAP-1a and SAP-2
+(ERP/NET).
+
+Price MA(1), Rogers AE, Treisman R.
+
+Author information: 
+(1)Transcription Laboratory, Imperial Cancer Research Fund, London, UK.
+
+A transcription factor ternary complex composed of Serum Response Factor (SRF)
+and Ternary Complex Factor (TCF) mediates the response of the c-fos Serum
+Response Element (SRE) to growth factors and mitogens. Three Ets domain proteins,
+Elk-1, SAP-1 and ERP/NET, have been reported to have the properties of TCF. Here 
+we compare Elk-1 and SAP-1a with the human ERP/NET homologue SAP-2. All three TCF
+RNAs are ubiquitously expressed at similar relative levels. All three proteins
+contain conserved regions that interact with SRF and the c-fos SRE with
+comparable efficiency, but in vitro complex formation by SAP-2 is strongly
+inhibited by its C-terminal sequences. Similarly, only Elk-1 and SAP-1a
+efficiently bind the c-fos SRE in vivo; ternary complex formation by SAP-2 is
+weak and is substantially unaffected by serum stimulation or v-ras co-expression.
+All three TCFs contain C-terminal transcriptional activation domains that are
+phosphorylated following growth factor stimulation. Activation requires conserved
+S/T-P motifs found in all the TCF family members. Each TCF activation domain can 
+be phosphorylated in vitro by partially purified ERK2, and ERK activation in vivo
+is sufficient to potentiate transcriptional activation.
+
+PMCID: PMC398373
+PMID: 7540136  [PubMed - indexed for MEDLINE]
+
+
+88. Oncogene. 1995 Mar 16;10(6):1209-16.
+
+SAP1a is a nuclear target of signaling cascades involving ERKs.
+
+Janknecht R(1), Ernst WH, Nordheim A.
+
+Author information: 
+(1)Institute of Molecular Biology, Hannover Medical School, Germany.
+
+The Ets protein SAP1a has been shown to interact with the c-fos serum response
+element upon recruitment by the serum response factor. We demonstrate that SAP1a 
+is a nuclear protein stimulating transcription via the c-fos serum response
+element, and additionally via an Ets binding site independently of the serum
+response factor. However, transactivation has only been observed under conditions
+leading to the activation of extracellular signal-regulated protein kinases
+(ERKs). The transcriptional activation domain of SAP1a resides within the
+C-terminal region, the function of which may be impeded by the N-terminus.
+Several potential ERK consensus sites within the C-terminal region of SAP1a can
+modulate its transactivation efficacy, implicating that SAP1a is a direct target 
+of ERKs. Since ERKs are activated by a broad range of signals, SAP1a may play an 
+important role in the transformation of extracellular stimuli into a nuclear
+response.
+
+PMID: 7700646  [PubMed - indexed for MEDLINE]
+
+
+89. Genomics. 1994 Oct;23(3):710-1.
+
+Mapping of the human SAP1 (SRF accessory protein 1) gene and SAP2, a gene
+encoding a related protein, to chromosomal bands 1q32 and 12q23, respectively.
+
+Shipley J(1), Sheer D, Dalton S, Treisman R, Patel K.
+
+Author information: 
+(1)Human Cytogenetics Laboratory, Imperial Cancer Research Fund, London, United
+Kingdom.
+
+SAP1, SAP2, and ELK1 form a related subgroup of ETS-domain proteins that can form
+ternary complexes with the transcription factor SRF at the c-fos serum response
+element (SRE). SAP1 was identified by a genetic screen for proteins interacting
+with SRF expressed in yeast, and SAP2 by its homology with SAP1; ELK1 was
+previously identified by its homology to the ETS domain. cDNA probes were used to
+isolate cosmid and phage clones harboring genes encoding SAP1 and SAP2. These
+clones were subsequently used to map the genes to 1q32 and 12q23, respectively,
+by fluorescence in situ hybridization.
+
+PMID: 7851904  [PubMed - indexed for MEDLINE]
+
+
+90. Anticancer Res. 1994 Sep-Oct;14(5A):1923-6.
+
+The role of regulated phosphorylation in the biological activity of transcription
+factors SRF and Elk-1/SAP-1.
+
+Papavassiliou AG(1).
+
+Author information: 
+(1)European Molecular Biology Laboratory, Differentiation Programme, Heidelberg, 
+Germany.
+
+The promoters of many genes whose expression is rapidly and transiently increased
+upon growth factor or mitogen stimulation of susceptible cells harbor a common
+regulatory element, the serum response element (SRE). The transcription factors
+that interact with the SRE of these immediate-early genes are being intensively
+studied so as to elucidate the signal transduction cascades that link cell
+surface receptors to the SRE, and to determine the mechanisms by which
+signal-dependent phosphorylation events modulate their function.
+
+PMID: 7847828  [PubMed - indexed for MEDLINE]
+
+
+91. Genes Dev. 1994 Aug 1;8(15):1803-16.
+
+Ras/MAP kinase-dependent and -independent signaling pathways target distinct
+ternary complex factors.
+
+Hipskind RA(1), Büscher D, Nordheim A, Baccarini M.
+
+Author information: 
+(1)Institute for Molecular Biology, Hannover Medical School, Germany.
+
+Transcriptional activation of the immediate early genes c-fos and egr-1 by
+extracellular signals appears to be mediated by ternary complex factors (TCFs).
+In BAC-1 macrophages, growth factor stimulation leads to the retardation of
+protein-DNA complexes containing distinct TCFs. One TCF is recognized by Elk-1
+antisera, whereas the other is immunologically related to SAP-1. The appearance
+and decay of hyperphosphorylated TCF/Elk-1-containing complexes after stimulation
+coincide with the activation of mitogen-activated protein kinase (MAPK) and the
+induction and repression of c-fos and egr-1, whereas modified
+TCF/SAP-1-containing complexes decay more slowly. Suppression of MAPK activation 
+in macrophages and fibroblasts correlates with the failure to induce TCF/Elk-1
+hyperphosphorylation without blocking TCF/SAP-1 modification. Accordingly the
+modified Elk-1 complex is generated in vitro by activated MAPK, whereas that of
+SAP-1 is not. Expression of a dominant-negative Ras mutant (RasAsn17) in BAC-1
+cells does not affect CSF-1-induced TCF/SAP-1 modification while suppressing
+TCF/Elk-1 phosphorylation. Neither PKC down-regulation by TPA nor inhibition of
+Gi proteins by pertussis toxin pretreatment influences CSF-1-induced signaling to
+TCFs. These data indicate the existence of two separate signaling pathways for
+the modification of distinct TCFs: one dependent on Ras and MAPK and converging
+on TCF/Elk-1, and the other targeting TCF/SAP-1 independently of Ras and MAPK.
+
+PMID: 7958858  [PubMed - indexed for MEDLINE]
+
+
+92. Curr Opin Genet Dev. 1994 Feb;4(1):96-101.
+
+Ternary complex factors: growth factor regulated transcriptional activators.
+
+Treisman R(1).
+
+Author information: 
+(1)Transcription Laboratory, Imperial Cancer Research Fund, London, UK.
+
+Members of a family of Ets domain proteins, the ternary complex factors (TCFs),
+are recruited to the c-fos serum response element by interaction with the serum
+response factor. Recent findings indicate that phosphorylation of TCFs occurs in 
+response to activation of the MAP kinase pathway, and that regulation of TCF
+activity is an important mechanism by which the serum response element responds
+to growth factor signals.
+
+PMID: 8193547  [PubMed - indexed for MEDLINE]
+
+
+93. Cell. 1994 Jan 28;76(2):411.
+
+Characterization of SAP-1, a protein recruited by serum response factor to the
+c-fos serum response element.
+
+Dalton S, Treisman R.
+
+Erratum for
+    Cell. 1992 Feb 7;68(3):597-612.
+
+PMID: 8293474  [PubMed - indexed for MEDLINE]
+
+
+94. Oncogene. 1993 Dec;8(12):3459-64.
+
+Transcriptional activation domains of elk-1, delta elk-1 and SAP-1 proteins.
+
+Bhattacharya G(1), Lee L, Reddy ES, Rao VN.
+
+Author information: 
+(1)Jefferson Cancer Institute, Philadelphia, PA 19107-5541.
+
+elk-1, an ets related gene codes for a sequence specific DNA binding
+transcriptional activator which in association with serum response factor (SRF)
+forms a ternary complex at the c-fos serum response element (SRE). Recently the
+C-terminal region of both elk-1 and delta elk-1 proteins was shown to undergo
+phosphorylation by MAP kinases and function as an activator of MAP kinases. Here 
+we show that delta elk-1 and two other elk-1 related proteins SAP-1a and SAP-1b, 
+like elk-1, can function as transcriptional activators. In this report we have
+localized the transcriptional activation domain of the SAP-1 proteins (STA) to a 
+large portion of the carboxy terminal region and have identified two autonomous
+transcriptional activation domains in the elk-1 protein, one at the amino (ETA-1)
+and the other at the carboxy terminal region (ETA-2). delta elk-1 protein
+contains only the ETA-2 domain indicating differential usage of activation
+domains as a result of alternative splicing. We can speculate that the ETA-1
+domain can function in vivo independent of ETA-2, but the ETA-2 domain can
+function either in the absence of ETA-1 (as seen in delta elk-1) or in the
+presence of accessory proteins like SRF. The role of SRF in the activation of the
+ternary complex might be to bind to the ETA-1 domain, somehow conceal it's
+activation domain and in the process unmask the ETA-2 domain (for phosphorylation
+by MAP kinases) and activate transcription. The ETA-1 domain may be functioning
+as a negative regulatory transcriptional activation domain for ETA-2. These
+observations suggest that the elk-1 family of proteins may not only regulate fos 
+and MAP kinases but also other elk-1 target genes that are essential for cellular
+growth control.
+
+PMID: 8247551  [PubMed - indexed for MEDLINE]
+
+
+95. EMBO J. 1992 Dec;11(12):4631-40.
+
+Spatial flexibility in ternary complexes between SRF and its accessory proteins.
+
+Treisman R(1), Marais R, Wynne J.
+
+Author information: 
+(1)Transcription Laboratory, Imperial Cancer Research Fund, Lincoln's Inn Fields,
+London, UK.
+
+We investigated the sequence requirements for ternary complex formation by the
+transcription factor SRF and its Ets domain accessory factors Elk-1 and SAP-1.
+Ternary complex formation is specified by an SRF consensus site CC(A/T)6GG and a 
+neighbouring Ets motif (C/A)(C/A)GGA(A/T), which is contacted by Elk-1/SAP-1.
+Both the spacing of these sequences and their relative orientation can be
+substantially altered with little effect on the efficiency of ternary complex
+formation. Efficient ternary complex formation by Elk-1 is mediated by the B box,
+a conserved 21 amino acid region located 50 residues C-terminal to the Ets
+domain, which also acts to inhibit autonomous DNA binding. Binding studies with
+the isolated Ets domains indicate that ternary complex formation compensates for 
+low affinity Ets domain-DNA interactions. Several naturally occurring SREs
+containing Ets motifs at different locations to that in the human c-fos SRE allow
+SAP-1 and Elk-1 recruitment in vitro. We discuss the mechanism of ternary complex
+formation.
+
+PMCID: PMC557039
+PMID: 1425594  [PubMed - indexed for MEDLINE]
+
+
+96. Cell. 1992 Feb 7;68(3):597-612.
+
+Characterization of SAP-1, a protein recruited by serum response factor to the
+c-fos serum response element.
+
+Dalton S(1), Treisman R.
+
+Author information: 
+(1)Transcription Laboratory, Imperial Cancer Research Fund, London, England.
+
+Erratum in
+    Cell. 1994 Jan 28;76(2):411.
+
+We used a yeast genetic screen to isolate cDNAs that encode a protein, SRF
+accessory protein-1 (SAP-1), that is recruited to the c-fos serum response
+element (SRE) as part of a ternary complex that includes serum response factor
+(SRF). SAP-1 requires DNA-bound SRF for ternary complex formation and makes
+extensive DNA contacts to the 5' side of SRF, but does not bind DNA autonomously.
+Ternary complex formation by SAP-1 requires only the DNA-binding domain of SRF,
+which can be replaced by that of the related yeast protein MCM1. We isolated
+cDNAs encoding two forms of SAP-1 protein, SAP-1a and SAP-1b, which differ at
+their C termini. Both SAP-1 proteins contain three regions of striking homology
+with the elk-1 protein, including an N-terminal ets domain. Ternary complex
+formation by SAP-1 requires both the ets domain and a second conserved region 50 
+amino acids to its C-terminal side. SAP-1 has similar DNA binding properties to
+the previously characterized HeLa cell protein p62/TCF.
+
+PMID: 1339307  [PubMed - indexed for MEDLINE]
+
+

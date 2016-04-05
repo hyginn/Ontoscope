@@ -1,0 +1,1544 @@
+
+1. Mol Biol Rep. 2016 Mar;43(3):141-50. doi: 10.1007/s11033-016-3946-6. Epub 2016
+Feb 8.
+
+The transcriptional coregulator MAML1 affects DNA methylation and gene expression
+patterns in human embryonic kidney cells.
+
+Putnik M(1), Brodin D(2), Wojdacz TK(1), Fagerström-Billai F(2), Dahlman-Wright
+K(2), Wallberg AE(3).
+
+Author information: 
+(1)Institute of Environmental Medicine, Karolinska Institutet, Nobels väg 13, 171
+77, Stockholm, Sweden. (2)Bioinformatics and Expression Core Facility (BEA),
+Karolinska Institutet, Hälsovägen 7-9, 141 83, Huddinge, Sweden. (3)Institute of 
+Environmental Medicine, Karolinska Institutet, Nobels väg 13, 171 77, Stockholm, 
+Sweden. annika.wallberg@ki.se.
+
+Mastermind-like 1 (MAML1) is a transcriptional coregulator that has been
+associated with early development of many systems such as neuronal, muscular and 
+urogenital. The present study aimed to explore the genome wide effects of MAML1
+on DNA methylation and RNA expression in human embryonic kidney cells. Infinium
+HumanMethylation450 BeadChip Illumina array, methylation-sensitive
+high-resolution melt technique, Chip Analysis Methylation Pipeline and RNA
+profiling approaches were used to study MAML1 effects on the epigenome. We found 
+that 11802 CpG sites were differentially methylated in MAML1-expressing cells
+while only 225 genes were differentially expressed. MAML1 overexpression induced 
+more global differential hypermethylation than hypomethylation changes. In
+addition, the differentially methylated regions were mapped predominantly to
+3'untranslated regions, intragenic regions and gene bodies and to a lesser extent
+to gene regulatory sequences. Gene ontology analysis revealed that the
+differentially changed genes (including HOXC11, HTATIP2, SLFN12 and SOX11) are
+involved in the regulation of urogenital system development, cell adhesion and
+embryogenesis. This study is the first report that shows the global effect of a
+single coregulator on DNA methylation and gene expression. Our results stress and
+support the effects of transcriptional coregulators on the cell methylome.
+
+PMID: 26857655  [PubMed - in process]
+
+
+2. BMC Genomics. 2016 Jan 14;17(1):56. doi: 10.1186/s12864-016-2370-6.
+
+Identification of genomic aberrations in hemangioblastoma by droplet digital PCR 
+and SNP microarray highlights novel candidate genes and pathways for
+pathogenesis.
+
+Mehrian-Shai R(1), Yalon M(2), Moshe I(3), Barshack I(4,)(5), Nass D(6), Jacob
+J(7), Dor C(8), Reichardt JK(9), Constantini S(10,)(11), Toren A(12,)(13).
+
+Author information: 
+(1)Pediatric Hemato-Oncology, Edmond and Lilly Safra Children's Hospital and
+Cancer Research Center, Sheba Medical Center, Tel Hashomer affiliated to the
+Sackler School of Medicine, Tel-Aviv University, Tel Aviv, Israel.
+ruty.shai@sheba.health.gov.il. (2)Pediatric Hemato-Oncology, Edmond and Lilly
+Safra Children's Hospital and Cancer Research Center, Sheba Medical Center, Tel
+Hashomer affiliated to the Sackler School of Medicine, Tel-Aviv University, Tel
+Aviv, Israel. michal@droren.co.il. (3)Pediatric Hemato-Oncology, Edmond and Lilly
+Safra Children's Hospital and Cancer Research Center, Sheba Medical Center, Tel
+Hashomer affiliated to the Sackler School of Medicine, Tel-Aviv University, Tel
+Aviv, Israel. itaimoshe@gmail.com. (4)Sackler Faculty of Medicine, Tel Aviv
+University, Tel Aviv, Israel. Iris.Barshack@sheba.health.gov.il. (5)Institute of 
+Pathology, Sheba Medical Center, Tel Hashomer, Israel.
+Iris.Barshack@sheba.health.gov.il. (6)Institute of Pathology, Sheba Medical
+Center, Tel Hashomer, Israel. Dvora.Nass@sheba.health.gov.il. (7)Pediatric
+Hemato-Oncology, Edmond and Lilly Safra Children's Hospital and Cancer Research
+Center, Sheba Medical Center, Tel Hashomer affiliated to the Sackler School of
+Medicine, Tel-Aviv University, Tel Aviv, Israel.
+Jasmine.Jacob@sheba.health.gov.il. (8)Pediatric Hemato-Oncology, Edmond and Lilly
+Safra Children's Hospital and Cancer Research Center, Sheba Medical Center, Tel
+Hashomer affiliated to the Sackler School of Medicine, Tel-Aviv University, Tel
+Aviv, Israel. Chen.Gefen@sheba.health.gov.il. (9)Division of Tropical Health and 
+Medicine, James Cook University, Townsville, QLD, Australia.
+Juergen.reichardt@jcu.edu.au. (10)Sackler Faculty of Medicine, Tel Aviv
+University, Tel Aviv, Israel. sconsts@netvision.net.il. (11)Department of
+Pediatric Neurosurgery, Dana Children's Hospital, Tel-Aviv-Sourasky Medical
+Center, Tel-Aviv, Israel. sconsts@netvision.net.il. (12)Pediatric
+Hemato-Oncology, Edmond and Lilly Safra Children's Hospital and Cancer Research
+Center, Sheba Medical Center, Tel Hashomer affiliated to the Sackler School of
+Medicine, Tel-Aviv University, Tel Aviv, Israel. amost@post.tau.ac.il.
+(13)Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel.
+amost@post.tau.ac.il.
+
+BACKGROUND: The genetic mechanisms underlying hemangioblastoma development are
+still largely unknown. We used high-resolution single nucleotide polymorphism
+microarrays and droplet digital PCR analysis to detect copy number variations
+(CNVs) in total of 45 hemangioblastoma tumors.
+RESULTS: We identified 94 CNVs with a median of 18 CNVs per sample. The most
+frequently gained regions were on chromosomes 1 (p36.32) and 7 (p11.2). These
+regions contain the EGFR and PRDM16 genes. Recurrent losses were located at
+chromosome 12 (q24.13), which includes the gene PTPN11.
+CONCLUSIONS: Our findings provide the first high-resolution genome-wide view of
+chromosomal changes in hemangioblastoma and identify 23 candidate genes: EGFR,
+PRDM16, PTPN11, HOXD11, HOXD13, FLT3, PTCH, FGFR1, FOXP1, GPC3, HOXC13, HOXC11,
+MKL1, CHEK2, IRF4, GPHN, IKZF1, RB1, HOXA9, and micro RNA, such as hsa-mir-196a-2
+for hemangioblastoma pathogenesis. Furthermore, our data implicate that cell
+proliferation and angiogenesis promoting pathways may be involved in the
+molecular pathogenesis of hemangioblastoma.
+
+PMCID: PMC4712606
+PMID: 26768750  [PubMed - in process]
+
+
+3. J Med Genet. 2016 Apr;53(4):250-5. doi: 10.1136/jmedgenet-2015-103505. Epub 2016 
+Jan 4.
+
+Deletions of 5' HOXC genes are associated with lower extremity malformations,
+including clubfoot and vertical talus.
+
+Alvarado DM(1), McCall K(1), Hecht JT(2), Dobbs MB(3), Gurnett CA(4).
+
+Author information: 
+(1)Department of Orthopedic Surgery, Washington University, St. Louis, Missouri, 
+USA. (2)Department of Pediatrics, University of Texas Medical School, Houston,
+Texas, USA. (3)Department of Orthopedic Surgery, Washington University, St.
+Louis, Missouri, USA Shriners Hospital for Children, St Louis, Missouri, USA.
+(4)Department of Orthopedic Surgery, Washington University, St. Louis, Missouri, 
+USA Department of Neurology, Washington University, St. Louis, Missouri, USA
+Department of Pediatrics, Washington University, St. Louis, Missouri, USA.
+
+BACKGROUND: Deletions of the HOXC gene cluster result in variable phenotypes in
+mice, but have been rarely described in humans.
+OBJECTIVE: To report chromosome 12q13.13 microdeletions ranging from 13 to 175 kb
+and involving the 5' HOXC genes in four families, segregating congenital lower
+limb malformations, including clubfoot, vertical talus and hip dysplasia.
+METHODS: Probands (N=253) with clubfoot or vertical talus were screened for point
+mutations and copy number variants using multiplexed direct genomic selection, a 
+pooled BAC targeted capture approach. SNP genotyping included 1178 probands with 
+clubfoot or vertical talus and 1775 controls.
+RESULTS: The microdeletions share a minimal non-coding region overlap upstream of
+HOXC13, with variable phenotypes depending upon HOXC13, HOXC12 or the HOTAIR
+lncRNA inclusion. SNP analysis revealed HOXC11 p.Ser191Phe segregating with
+clubfoot in a small family and enrichment of HOXC12 p.Asn176Lys in patients with 
+clubfoot or vertical talus (rs189468720, p=0.0057, OR=3.8). Defects in limb
+morphogenesis include shortened and overlapping toes, as well as peroneus muscle 
+hypoplasia. Finally, HOXC and HOXD gene expression is reduced in fibroblasts from
+a patient with a 5' HOXC deletion, consistent with previous studies demonstrating
+that dosage of lncRNAs alters expression of HOXD genes in trans.
+CONCLUSIONS: Because HOXD10 has been implicated in the aetiology of congenital
+vertical talus, variation in its expression may contribute to the lower limb
+phenotypes occurring with 5' HOXC microdeletions. Identification of 5' HOXC
+microdeletions highlights the importance of transcriptional regulators in the
+aetiology of severe lower limb malformations and will improve their diagnosis and
+management.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not
+already granted under a licence) please go to
+http://www.bmj.com/company/products-services/rights-and-licensing/
+
+PMID: 26729820  [PubMed - in process]
+
+
+4. Rev Med Inst Mex Seguro Soc. 2015;53 Suppl 2:S188-93.
+
+[The role of developmental HOX genes in cervical cancer].
+
+[Article in Spanish; Abstract available in Spanish from the publisher]
+
+López-Romero R(1), Marrero-Rodríguez D, Romero-Morelos P, Villegas V, Valdivia A,
+Arreola H, Huerta-Padilla V, Salcedo M.
+
+Author information: 
+(1)Unidad de Investigación Médica en Enfermedades Oncológicas, Hospital de
+Oncología, Centro Médico Nacional Siglo XXI, Instituto Mexicano del Seguro
+Social, Distrito Federal, México. rlopez_99@yahoo.com.
+
+Cervical cancer (CC) is a multifactorial disease associated to genetic,
+environmental and epigenetic factors, being the infection by human papillomavirus
+the main etiologic agent. Additionally, the alteration in the expression of
+transcription factors has been considered of importance for the development of
+this tumor. HOX genes encode a group of transcription factors involved in
+cellular proliferation and differentiation processes during the development of
+embryonic structures in vertebrates; their aberrant expression is associated with
+tumorigenesis and metastasis. A range of evidence suggests a role for HOX genes
+in the development of cervical neoplastic cell. Studies in CC cell lines, primary
+tumors and premalignant lesions have suggested the involvement of HOXA1, HOXC5,
+C6, C8 and C10, HOXD9 and HOXD13 in the process of cervical carcinogenesis. Also,
+the de novo expression of genes HOXB2, B4, B13 and HOXC11-C13 appears to be
+involved in the process of malignant transformation of cervical epithelial cell. 
+These data would allow to open a field in search of new molecular markers in
+cervical cancer and the development of new therapeutic strategies for this
+malignancy.
+
+Publisher: Abstract available from the publisher.
+PMID: 26462515  [PubMed - in process]
+
+
+5. Oncotarget. 2015 Oct 13;6(31):31255-62. doi: 10.18632/oncotarget.5158.
+
+The association analysis of lncRNA HOTAIR genetic variants and gastric cancer
+risk in a Chinese population.
+
+Du M(1), Wang W(2), Jin H(3), Wang Q(1), Ge Y(1), Lu J(1), Ma G(1), Chu H(1,)(4),
+Tong N(1,)(4), Zhu H(3), Wang M(1,)(4), Qiang F(3), Zhang Z(1,)(4).
+
+Author information: 
+(1)Department of Environmental Genomics, Jiangsu Key Laboratory of Cancer
+Biomarkers, Prevention and Treatment, Cancer Center, Nanjing Medical University, 
+Nanjing, China. (2)Department of General Surgery, the First Affiliated Hospital
+of Nanjing Medical University, Nanjing, China. (3)Core Laboratory, Nantong Tumor 
+Hospital, Nantong, China. (4)Department of Genetic Toxicology, the Key Laboratory
+of Modern Toxicology of Ministry of Education, School of Public Health, Nanjing
+Medical University, Nanjing, China.
+
+The HOX transcript antisense intergenic RNA (HOTAIR), a well-known long noncoding
+RNA, is involved in pathogenesis and progress of multiple tumors. Its ectopic
+expression and biological functions have been observed in gastric cancer. In this
+study, we conducted a two-stage case-control study to evaluate whether genetic
+variations of HOTAIR were associated with gastric cancer risk. We identified that
+a single nucleotide polymorphism (SNP) rs4759314 was significantly associated
+with the increased gastric cancer risk with an odds ratio (OR) of 1.39 [95%
+confidence interval (CI) = 1.13-1.71, P = 0.002] in the combined sets. Further
+functional experiments revealed the allele-specific effects on HOTAIR and HOXC11 
+expressions in gastric cancer tissues, of which HOTAIR and HOXC11 expressions of 
+individuals carrying with AG genotype were much higher than those with AA
+genotype; similarly, the effects occurred in intronic promoter activities, of
+which the promoter activity of G allele was more pronounced than that of A
+allele. Interestingly, we identified a novel potential oncogene HOXC11 in gastric
+cancer pathogenesis with differential expression in gastric cancer tissues by
+association analysis with candidate gene strategy. These results suggest that SNP
+rs4759314 of HOTAIR acts as a potential biomarker for predicting gastric cancer, 
+and the role of HOXC11 in gastric cancer etiology is warranted to further
+investigation.
+
+PMCID: PMC4741602
+PMID: 26384301  [PubMed - in process]
+
+
+6. Breast Cancer Res. 2015 Sep 4;17(1):123. doi: 10.1186/s13058-015-0636-6.
+
+Prosaposin activates the androgen receptor and potentiates resistance to
+endocrine treatment in breast cancer.
+
+Ali A(1,)(2), Creevey L(3), Hao Y(4), McCartan D(5), O'Gaora P(6), Hill A(7,)(8),
+Young L(9), McIlroy M(10).
+
+Author information: 
+(1)Endocrine Oncology Research, Department of Surgery, Royal College of Surgeons 
+in Ireland, St. Stephens Green, Dublin 2, Ireland. azlenaali@rcsi.ie.
+(2)Department of Surgery, Beaumont Hospital, Dublin 9, Ireland.
+azlenaali@rcsi.ie. (3)Endocrine Oncology Research, Department of Surgery, Royal
+College of Surgeons in Ireland, St. Stephens Green, Dublin 2, Ireland.
+lauracreevey@rcsi.ie. (4)School of Medicine and Medical Science, UCD Conway
+Institute, University College Dublin, Dublin, Ireland. yhao@cshl.edu.
+(5)Endocrine Oncology Research, Department of Surgery, Royal College of Surgeons 
+in Ireland, St. Stephens Green, Dublin 2, Ireland. damiamccartan@rcsi.ie.
+(6)School of Medicine and Medical Science, UCD Conway Institute, University
+College Dublin, Dublin, Ireland. peadar.ogaora@ucd.ie. (7)Endocrine Oncology
+Research, Department of Surgery, Royal College of Surgeons in Ireland, St.
+Stephens Green, Dublin 2, Ireland. adkhill@rcsi.ie. (8)Department of Surgery,
+Beaumont Hospital, Dublin 9, Ireland. adkhill@rcsi.ie. (9)Endocrine Oncology
+Research, Department of Surgery, Royal College of Surgeons in Ireland, St.
+Stephens Green, Dublin 2, Ireland. lyoung@rcsi.ie. (10)Endocrine Oncology
+Research, Department of Surgery, Royal College of Surgeons in Ireland, St.
+Stephens Green, Dublin 2, Ireland. mmcilroy@rcsi.ie.
+
+INTRODUCTION: HOX genes play vital roles in growth and development, however,
+atypical redeployment of these genes is often associated with steroidal
+adaptability in endocrine cancers. We previously identified HOXC11 to be an
+indicator of poor response to hormonal therapy in breast cancer. In this study we
+aimed to elucidate genes regulated by HOXC11 in the endocrine resistant setting.
+METHODS: RNA-sequencing paired with transcription factor motif-mapping was
+utilised to identify putative HOXC11 target genes in endocrine resistant breast
+cancer. Validation and functional evaluation of the target gene, prosaposin
+(PSAP), was performed in a panel of endocrine sensitive and resistant breast
+cancer cell lines. The clinical significance of this finding was explored in
+clinical cohorts at both mRNA and protein level.
+RESULTS: PSAP was shown to be regulated by HOXC11 in both tamoxifen and aromatase
+inhibitor (AI) resistant cell lines. Transcript levels of HOXC11 and PSAP
+correlated strongly in samples of primary breast tumours (r = 0.7692, n = 51).
+PSAP has previously been reported to activate androgen receptor (AR) in prostate 
+cancer cells. In a panel of breast cancer cell lines it was shown that endocrine 
+resistant cells exhibit innately elevated levels of AR compared to their
+endocrine sensitive counterparts. Here, we demonstrate that stimulation with PSAP
+can drive AR recruitment to a hormone response element (HRE) in AI resistant
+breast cancer cells. Functionally, PSAP promotes cell migration and invasion only
+in AI resistant cells and not in their endocrine sensitive counterparts. In a
+cohort of breast cancer patients (n = 34), elevated serum levels of PSAP were
+found to associate significantly with poor response to endocrine treatment (p =
+0.04). Meta-analysis of combined PSAP and AR mRNA are indicative of poor
+disease-free survival in endocrine treated breast cancer patients (hazard ratio
+(HR): 2.2, P = 0.0003, n = 661).
+CONCLUSION: The HOXC11 target gene, PSAP, is an AR activator which facilitates
+adaptation to a more invasive phenotype in vitro. These findings have particular 
+relevance to the development of resistance to AI therapy which is an emerging
+clinical issue. PSAP is a secreted biomarker which has potential in identifying
+patients failing to exhibit sustained response to hormonal treatment.
+
+PMCID: PMC4560928
+PMID: 26341737  [PubMed - in process]
+
+
+7. DNA Cell Biol. 2015 Jun;34(6):400-11. doi: 10.1089/dna.2014.2737. Epub 2015 Mar
+11.
+
+Transcriptional dynamics of homeobox C11 gene in water buffalo bubalus bubalis.
+
+Rawal L(1), Pathak D(1), Sehgal N(2), Ali S(1).
+
+Author information: 
+(1)1Molecular Genetics Laboratory, National Institute of Immunology, New Delhi,
+India. (2)2Department of Zoology, University of Delhi, Delhi, India.
+
+The Hox complex contains 39 genes clustered into four groups involved in cell
+differentiation and development. We cloned full-length sequence of Hoxc11 gene
+from water buffalo Bubalus bubalis, assessed its copy number, localized the same 
+onto the chromosome 5, and studied its evolutionary conservation across the
+species. Northern hybridization of Hoxc11 showed a 2.2 kb band in the tissues
+analyzed. Real-Time PCR showed highest expression of Hoxc11 gene in lung followed
+by spleen, spermatozoa, and testis. Six interacting partners of this gene showed 
+higher expression in spleen, lung, testis, and spermatozoa. During the early
+stages of development, Hoxc11 and its interacting partners both showed lower
+expression, which then became prominent during the age of 1-3 years, regressed
+drastically thereafter, and remained so until the animal's life time (~ 20
+years). The high expression of Hoxc11 and its interacting partners in spermatozoa
+and testis during the onset of puberty suggests its likely role in the
+differentiation of gonads and subsequent reproductive activities. Additional work
+on Hoxc11 especially, in the context of respiratory, immunological, and
+in/fertility in other species, including humans would be useful for establishing 
+its broader biological significance towards the enrichment of functional and
+comparative genomics.
+
+PMCID: PMC4484715 [Available on 2016-06-01]
+PMID: 25760398  [PubMed - indexed for MEDLINE]
+
+
+8. Gene. 2015 Apr 15;560(2):165-72. doi: 10.1016/j.gene.2015.01.063. Epub 2015 Jan
+31.
+
+MS-HRM assay identifies high levels of epigenetic heterogeneity in human
+immortalized cell lines.
+
+Putnik M(1), Wojdacz TK(1), Pournara A(1), Vahter M(1), Wallberg AE(2).
+
+Author information: 
+(1)Institute of Environmental Medicine, Unit of Metals and Health, Karolinska
+Institutet, Nobels väg 13, 17177 Stockholm, Sweden. (2)Institute of Environmental
+Medicine, Unit of Metals and Health, Karolinska Institutet, Nobels väg 13, 17177 
+Stockholm, Sweden. Electronic address: annika.wallberg@ki.se.
+
+Immortalized cell lines are widely used in genetic and epigenetic studies, from
+exploration of basic molecular pathways to evaluation of disease-specific
+cellular properties. They are also used in biotechnology, e.g., in drug toxicity 
+tests and vaccine production. Cellular and genetic uniformity is the main feature
+of immortalized cell lines and it has been particularly advantageous in
+functional genomic research, which has in recent years been expanded to include
+epigenetic mechanisms of gene expression regulation. Using the MS-HRM technique, 
+we demonstrated heterogeneity in locus-specific methylation patterns in different
+cell cultures of four human cell lines: HEK293, HEK293T, LCL and DU145. Our
+results show that some human immortalized cell lines consist of cells that differ
+in the methylation status of specific loci, i.e., that they are epigenetically
+heterogeneous. We show that even two cultures of the same cell line obtained from
+different laboratories can differ in the methylation status of the specific loci.
+The results indicated that epigenetic uniformity of the cell lines cannot be
+assumed in experiments which utilize cell cultures and that the methylation
+status of the specific loci in the immortalized cell lines should be
+re-characterized and carefully profiled before epigenetic studies are performed.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+PMID: 25644772  [PubMed - indexed for MEDLINE]
+
+
+9. Tumour Biol. 2015 Apr;36(4):2821-9. doi: 10.1007/s13277-014-2909-6. Epub 2014 Dec
+5.
+
+Overexpression of HOXC11 homeobox gene in clear cell renal cell carcinoma induces
+cellular proliferation and is associated with poor prognosis.
+
+Liu YJ(1), Zhu Y, Yuan HX, Zhang JP, Guo JM, Lin ZM.
+
+Author information: 
+(1)Department of Urology, Zhongshan Hospital, Fudan University, No. 180 Fenglin
+Road, Shanghai, 200032, People's Republic of China.
+
+Novel evidence has confirmed the involvement of dysregulated expression of HOX
+genes in cancer. HOX genes are a family of 39 transcription factors, divided in
+four clusters (HOXA to HOXD), that during normal development regulate cell
+proliferation and specific cell fate. The aim of this study was to investigate
+whether genes of the HOXC cluster might play a role in renal cancer. The
+expression of HOXC11 was detected through polymerase chain reaction and
+immunohistochemical staining, and we demonstrated that HOXC11 was significantly
+higher in renal cell carcinoma (RCC) compared to normal kidney tissue. We further
+demonstrated that HOXC11 overexpression in HK-2 human epithelial cell line
+promoted proliferation, whereas downregulation of HOXC11 endogenous levels in
+human RCC cells (Caki-2 cells) decreased proliferation. In RCC, expression of
+HOXC11 and Ki67, a marker of proliferation, correlates strongly with each other
+(r s <U+2009>=<U+2009>0.47, p<U+2009><<U+2009>0.003). High immunohistochemical expression of HOXC11 was
+correlated with T stage (p<U+2009>=<U+2009>0.06), N stage (p<U+2009>=<U+2009>0.07), disease stage (p<U+2009>=<U+2009>0.08),
+and Ki67 expression (p<U+2009>=<U+2009>0.07), and patients with tumors showing high number of
+HOXC11-positive cells had shorter overall survival (p<U+2009>=<U+2009>0.08) and shorter
+progression-free survival after treatment (p<U+2009>=<U+2009>0.08) compared with patients with 
+tumors exhibiting low amount of HOXC11-positive cells. Our data suggest that
+HOXC11 may contribute to RCC carcinogenesis by increasing tumor cell
+proliferation and imply that HOXC11 may be an important determinant of RCC
+patient prognosis.
+
+PMID: 25476856  [PubMed - indexed for MEDLINE]
+
+
+10. Nat Rev Endocrinol. 2015 Feb;11(2):90-100. doi: 10.1038/nrendo.2014.185. Epub
+2014 Nov 4.
+
+Biology of upper-body and lower-body adipose tissue--link to whole-body
+phenotypes.
+
+Karpe F(1), Pinnick KE(2).
+
+Author information: 
+(1)1] Oxford Centre for Diabetes, Endocrinology and Metabolism, Radcliffe
+Department of Medicine, University of Oxford, Churchill Hospital, Headington OX3 
+7LE, UK. [2] NIHR Oxford Biomedical Research Centre, OUH Trust, Churchill
+Hospital, Headington OX3 7LE, UK. (2)Oxford Centre for Diabetes, Endocrinology
+and Metabolism, Radcliffe Department of Medicine, University of Oxford, Churchill
+Hospital, Headington OX3 7LE, UK.
+
+The distribution of adipose tissue in the body has wide-ranging and reproducible 
+associations with health and disease. Accumulation of adipose tissue in the upper
+body (abdominal obesity) is associated with the development of cardiovascular
+disease, insulin resistance, type 2 diabetes mellitus and even all-cause
+mortality. Conversely, accumulation of fat in the lower body (gluteofemoral
+obesity) shows opposite associations with cardiovascular disease and type 2
+diabetes mellitus when adjusted for overall fat mass. The abdominal depots are
+characterized by rapid uptake of predominantly diet-derived fat and a high lipid 
+turnover that is easily stimulated by adrenergic receptor activation. The
+lower-body fat stores have a reduced lipid turnover with a capacity to
+accommodate fat undergoing redistribution. Lower-body adipose tissue also seems
+to retain the capacity to recruit additional adipocytes as a result of weight
+gain and demonstrates fewer signs of inflammatory insult. New data suggest that
+the profound functional differences between the upper-body and lower-body tissues
+are controlled by site-specific sets of developmental genes, such as HOXA6,
+HOXA5, HOXA3, IRX2 and TBX5 in subcutaneous abdominal adipose tissue and HOTAIR, 
+SHOX2 and HOXC11 in gluteofemoral adipose tissue, which are under epigenetic
+control. This Review discusses the developmental and functional differences
+between upper-body and lower-body fat depots and provides mechanistic insight
+into the disease-protective effects of lower-body fat.
+
+PMID: 25365922  [PubMed - indexed for MEDLINE]
+
+
+11. BMC Genomics. 2014 Jul 30;15:638. doi: 10.1186/1471-2164-15-638.
+
+Differential expression of Homeobox C11 protein in water buffalo Bubalus bubalis 
+and its putative 3D structure.
+
+Sharma M, Rawal L, Panwar D, Sehgal N, Ali S(1).
+
+Author information: 
+(1)Molecular Genetics Laboratory, National Institute of Immunology, Aruna Asaf
+Ali Marg, New Delhi 110067, India. alisher@nii.ac.in.
+
+BACKGROUND: The Homeobox (Hox) family complex contains 39 genes, clustered into
+four groups (A-D) all expressing in sequential manner. The HOX proteins are
+transcriptional factors involved in regulation of pattern formation of the
+anterio-posterior body axis across the species. Most of the Hox family genes have
+been studied with respect to their organization and expression during the
+embryonic stages. However, expression pattern of Homeobox C11 (Hoxc11) gene in
+the 5' region, particularly in higher mammals remains largely unexplored.
+RESULTS: We cloned and expressed Homeobox C11 (Hoxc11) gene from water buffalo
+Bubalus bubalis. The recombinant HOXC11 protein expressed as inclusion bodies was
+solubilized in Tris buffer (10 mM, pH-6.5) and purified using Ni-NTA affinity
+column. The purity and molecular weight of HOXC11 protein (~33 kDa) were
+confirmed by SDS-PAGE and western blot analysis. Employing immunohistochemistry
+approach, we localized HOXC11 protein in the nuclei across the tissues of
+buffalo. Western blot analysis showed highest expression of HOXC11 protein in
+kidney and lung although its possible renal and respiratory roles are not yet
+established. Electrophoretic mobility shift assay (EMSA) demonstrated the
+specific binding of HOXC11 protein with the promoter element, CE-LPH1 of
+lactase-phlorizin hydrolase (LPH) gene showing reduced mobility of the
+protein-DNA complex, corroborating with earlier report on the possible role of
+this protein in intestinal functions. In silico analysis of HOXC11 showed
+predominance of a helices and presence of six conserved domains. We deduced the
+putative 3D structure of HOXC11 protein and fifteen possible DNA interacting
+residues within the homeodomain.
+CONCLUSIONS: Present study augments our understanding on the specific expression 
+of HOXC11 protein in kidney and lung in water buffalo. The fifteen DNA
+interacting residues reported herein provide an opportunity to establish much
+broader structural and functional perspectives of HOXC11 protein in the context
+of genome analysis in general and animal biotechnology in particular.
+
+PMCID: PMC4139611
+PMID: 25080327  [PubMed - indexed for MEDLINE]
+
+
+12. Biochim Biophys Acta. 2014 Sep;1839(9):793-9. doi: 10.1016/j.bbagrm.2014.06.011. 
+Epub 2014 Jun 21.
+
+Akt1 mediates the posterior Hoxc gene expression through epigenetic modifications
+in mouse embryonic fibroblasts.
+
+Kong KA(1), Lee JY(1), Oh JH(1), Lee Y(1), Kim MH(2).
+
+Author information: 
+(1)Department of Anatomy, Embryology Lab., Yonsei University College of Medicine,
+Seoul, Republic of Korea. (2)Department of Anatomy, Embryology Lab., Yonsei
+University College of Medicine, Seoul, Republic of Korea. Electronic address:
+mhkim1@yuhs.ac.
+
+The evolutionarily conserved Hox genes are organized in clusters and expressed
+colinearly to specify body patterning during embryonic development. Previously,
+Akt1 has been identified as a putative Hox gene regulator through in silico
+analysis. Substantial upregulation of consecutive 5' Hoxc genes has been observed
+when Akt1 is absent in mouse embryonic fibroblast (MEF) cells. In this study, we 
+provide evidence that Akt1 regulates the 5' Hoxc gene expression by epigenetic
+modifications. Enrichment of histone H3K9 acetylation and a low level of the
+H3K27me3 mark were detected at the posterior 5' Hoxc loci when Akt1 is absent. A 
+histone deacetylase (HDAC) inhibitor de-repressed 5' Hoxc gene expression when
+Akt1 is present, and a DNA demethylating reagent synergistically upregulated
+HDAC-induced 5' Hoxc gene expression. A knockdown study revealed that Hdac6 is
+mediated in the Hoxc12 repression through direct binding to the transcription
+start site (TSS) in the presence of Akt1. Co-immunoprecipitation analysis
+revealed that endogenous Akt1 directly interacted with Hdac6. Furthermore,
+exogenous Akt1 was enriched at the promoter region of the posterior Hoxc genes
+such as Hoxc11 and Hoxc12, not the Akt1-independent Hoxc5 and Hoxd10 loci. The
+regulation of the H3K27me3 mark by Ezh2 and Kdm6b at the 5' Hoxc gene promoter
+turned out to be Akt1 dependent. Taken together, these results suggest that Akt1 
+mediates the posterior 5' Hoxc gene expression through epigenetic modification
+such as histone methylation and acetylation, and partly through a direct binding 
+to the promoter region of the 5' Hoxc genes and/or Hdac6 in mouse embryonic
+fibroblast cells.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+PMID: 24955524  [PubMed - indexed for MEDLINE]
+
+
+13. Nucleic Acids Res. 2014 Jun;42(10):e82. doi: 10.1093/nar/gku218. Epub 2014 Mar
+20.
+
+Multiplexed direct genomic selection (MDiGS): a pooled BAC capture approach for
+highly accurate CNV and SNP/INDEL detection.
+
+Alvarado DM(1), Yang P(1), Druley TE(2), Lovett M(3), Gurnett CA(4).
+
+Author information: 
+(1)Department of Orthopaedic Surgery, Washington University School of Medicine,
+660 S Euclid Ave., St Louis, MO 63110, USA. (2)Department of Pediatrics,
+Washington University School of Medicine, 660 S Euclid Ave., St Louis, MO 63110, 
+USA Department of Genetics, Washington University School of Medicine, 660 S
+Euclid Ave., St Louis, MO 63110, USA. (3)Genome Technology and Systems Biology,
+NHLI, Imperial College, London, UK. (4)Department of Orthopaedic Surgery,
+Washington University School of Medicine, 660 S Euclid Ave., St Louis, MO 63110, 
+USA Department of Pediatrics, Washington University School of Medicine, 660 S
+Euclid Ave., St Louis, MO 63110, USA Department of Neurology, Washington
+University School of Medicine, 660 S Euclid Ave., St Louis, MO 63110, USA
+gurnettc@neuro.wustl.edu.
+
+Despite declining sequencing costs, few methods are available for cost-effective 
+single-nucleotide polymorphism (SNP), insertion/deletion (INDEL) and copy number 
+variation (CNV) discovery in a single assay. Commercially available methods
+require a high investment to a specific region and are only cost-effective for
+large samples. Here, we introduce a novel, flexible approach for multiplexed
+targeted sequencing and CNV analysis of large genomic regions called multiplexed 
+direct genomic selection (MDiGS). MDiGS combines biotinylated bacterial
+artificial chromosome (BAC) capture and multiplexed pooled capture for SNP/INDEL 
+and CNV detection of 96 multiplexed samples on a single MiSeq run. MDiGS is
+advantageous over other methods for CNV detection because pooled sample capture
+and hybridization to large contiguous BAC baits reduces sample and probe
+hybridization variability inherent in other methods. We performed MDiGS capture
+for three chromosomal regions consisting of ~ 550 kb of coding and non-coding
+sequence with DNA from 253 patients with congenital lower limb disorders. PITX1
+nonsense and HOXC11 S191F missense mutations were identified that segregate in
+clubfoot families. Using a novel pooled-capture reference strategy, we identified
+recurrent chromosome chr17q23.1q23.2 duplications and small HOXC 5' cluster
+deletions (51 kb and 12 kb). Given the current interest in coding and non-coding 
+variants in human disease, MDiGS fulfills a niche for comprehensive and low-cost 
+evaluation of CNVs, coding, and non-coding variants across candidate regions of
+interest.
+
+© The Author(s) 2014. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+PMCID: PMC4041413
+PMID: 24682816  [PubMed - indexed for MEDLINE]
+
+
+14. Cancer Res. 2014 May 1;74(9):2533-44. doi: 10.1158/0008-5472.CAN-13-2133. Epub
+2014 Mar 19.
+
+Global gene repression by the steroid receptor coactivator SRC-1 promotes
+oncogenesis.
+
+Walsh CA(1), Bolger JC, Byrne C, Cocchiglia S, Hao Y, Fagan A, Qin L, Cahalin A, 
+McCartan D, McIlroy M, O'Gaora P, Xu J, Hill AD, Young LS.
+
+Author information: 
+(1)Authors' Affiliations: Endocrine Oncology Research, Royal College of Surgeons 
+in Ireland; UCD School of Biomolecular and Biomedical Science, Conway Institute, 
+University College Dublin, Dublin, Ireland; and Department of Molecular and
+Cellular Biology and Dan L. Duncan Cancer Center, Baylor College of Medicine,
+Houston, Texas.
+
+Transcriptional control is the major determinant of cell fate. The steroid
+receptor coactivator (SRC)-1 enhances the activity of the estrogen receptor in
+breast cancer cells, where it confers cell survival benefits. Here, we report
+that a global analysis of SRC-1 target genes suggested that SRC-1 also mediates
+transcriptional repression in breast cancer cells. Combined SRC-1 and HOXC11
+ChIPseq analysis identified the differentiation marker, CD24, and the apoptotic
+protein, PAWR, as direct SRC-1/HOXC11 suppression targets. Reduced expression of 
+both CD24 and PAWR was associated with disease progression in patients with
+breast cancer, and their expression was suppressed in metastatic tissues.
+Investigations in endocrine-resistant breast cancer cell lines and
+SRC-1(-/-)/PyMT mice confirmed a role for SRC-1 and HOXC11 in downregulation of
+CD24 and PAWR. Through bioinformatic analysis and liquid chromatography/mass
+spectrometry, we identified AP1 proteins and Jumonji domain containing 2C
+(JMD2C/KDM4C), respectively, as members of the SRC-1 interactome responsible for 
+transcriptional repression. Our findings deepen the understanding of how SRC-1
+controls transcription in breast cancers.
+
+©2014 AACR.
+
+PMID: 24648347  [PubMed - indexed for MEDLINE]
+
+
+15. J Exp Zool B Mol Dev Evol. 2014 May;322(3):156-65. doi: 10.1002/jez.b.22554. Epub
+2013 Dec 23.
+
+Conserved regulation of hoxc11 by pitx1 in Anolis lizards.
+
+Park S(1), Infante CR, Rivera-Davila LC, Menke DB.
+
+Author information: 
+(1)Department of Genetics, University of Georgia, Athens, Georgia.
+
+Anolis lizards are an emerging model system for the study of limb development and
+evolution, but very little is known concerning the regulatory interactions that
+control limb patterning differences among Anolis species or what regulatory
+interactions are deeply conserved between Anolis and other tetrapod groups. Here 
+we report the establishment of an embryonic limb micromass culture system that
+enables functional studies of forelimb and hindlimb gene regulatory networks in
+Anolis. Characterization of this culture system demonstrated that embryonic
+forelimb and hindlimb micromasses from different Anolis species are easy to
+sustain in culture for weeks, and the expression of forelimb and
+hindlimb-specific gene expression patterns are maintained for at least 8 days in 
+culture. We tested the ability of this system to explore regulatory linkages
+between transcription factors and their putative target genes through the ectopic
+expression of a hindlimb-specific transcription factor, pitx1, in forelimb
+micromasses. We found that pitx1 expression in forelimb cells is sufficient to
+strongly induce the expression of hoxc11, a gene that normally exhibits
+hindlimb-restricted expression.
+
+© 2013 Wiley Periodicals, Inc.
+
+PMID: 24376195  [PubMed - indexed for MEDLINE]
+
+
+16. Biol Open. 2012 May 15;1(5):430-5. doi: 10.1242/bio.2012039. Epub 2012 Mar 20.
+
+Changing topographic Hox expression in blood vessels results in regionally
+distinct vessel wall remodeling.
+
+Pruett ND(1), Hajdu Z, Zhang J, Visconti RP, Kern MJ, Wellik DM, Majesky MW,
+Awgulewitsch A.
+
+Author information: 
+(1)Department of Medicine.
+
+The distinct topographic Hox expression patterns observed in vascular smooth
+muscle cells (VSMCs) of the adult cardiovascular system suggest that these
+transcriptional regulators are critical for maintaining region-specific
+physiological properties of blood vessels. To test this proposition, we expanded 
+the vascular Hoxc11 expression domain normally restricted to the lower limbs by
+utilizing an innovative integrated tetracycline regulatory system and Transgelin 
+promoter elements to induce Hoxc11 expression universally in VSMCs of transgenic 
+mice. Ectopic Hoxc11 expression in carotid arteries, aortic arch and descending
+aorta resulted in drastic vessel wall remodeling involving elastic laminae
+fragmentation, medial smooth muscle cell loss, and intimal lesion formation. None
+of these alterations were observed upon induction of Hoxc11 transgene expression 
+in the femoral artery, i.e. the natural Hoxc11 activity domain, although this
+vessel was greatly enlarged, comparable to the topographically restricted
+vascular changes seen in Hoxc11(-/-) mice. To begin defining Hoxc11-controlled
+pathways of vascular remodeling, we performed immunolabeling studies in
+conjunction with co-transfection and chromatin immunoprecipitation (ChIP) assays 
+using mouse vascular smooth muscle (MOVAS) cells. The results suggest direct
+transcriptional control of two members of the matrix metalloproteinase (Mmp)
+family, including Mmp2 and Mmp9 that are known as key players in the inception
+and progression of vascular remodeling events. In summary, the severe vascular
+abnormalities resulting from the induced dysregulated expression of a Hox gene
+with regional vascular patterning functions suggest that proper Hox function and 
+regulation is critical for maintaining vascular functional integrity.
+
+PMCID: PMC3507213
+PMID: 23213434  [PubMed]
+
+
+17. Dev Biol. 2013 Feb 1;374(1):234-44. doi: 10.1016/j.ydbio.2012.11.017. Epub 2012
+Nov 27.
+
+Pitx1 broadly associates with limb enhancers and is enriched on hindlimb
+cis-regulatory elements.
+
+Infante CR(1), Park S, Mihala AG, Kingsley DM, Menke DB.
+
+Author information: 
+(1)Department of Genetics, University of Georgia, Coverdell Building, Room 250A, 
+500 DW Brooks Drive, Athens, GA 30602, USA.
+
+Extensive functional analyses have demonstrated that the pituitary homeodomain
+transcription factor Pitx1 plays a critical role in specifying hindlimb
+morphology in vertebrates. However, much less is known regarding the target genes
+and cis-regulatory elements through which Pitx1 acts. Earlier studies suggested
+that the hindlimb transcription factors Tbx4, HoxC10, and HoxC11 might be
+transcriptional targets of Pitx1, but definitive evidence for direct regulatory
+interactions has been lacking. Using ChIP-Seq on embryonic mouse hindlimbs, we
+have pinpointed the genome-wide location of Pitx1 binding sites during mouse
+hindlimb development and identified potential gene targets for Pitx1. We
+determined that Pitx1 binding is significantly enriched near genes involved in
+limb morphogenesis, including Tbx4, HoxC10, and HoxC11. Notably, Pitx1 is bound
+to the previously identified HLEA and HLEB hindlimb enhancers of the Tbx4 gene
+and to a newly identified Tbx2 hindlimb enhancer. Moreover, Pitx1 binding is
+significantly enriched on hindlimb relative to forelimb-specific cis-regulatory
+features that are differentially marked by H3K27ac. However, our analysis
+revealed that Pitx1 also strongly associates with many functionally verified limb
+enhancers that exhibit similar levels of activity in the embryonic mesenchyme of 
+forelimbs and hindlimbs. We speculate that Pitx1 influences hindlimb morphology
+both through the activation of hindlimb-specific enhancers as well as through the
+hindlimb-specific modulation of enhancers that are active in both sets of limbs.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+PMCID: PMC3640454
+PMID: 23201014  [PubMed - indexed for MEDLINE]
+
+
+18. Arthritis Rheum. 2012 Oct;64(10):3478-85. doi: 10.1002/art.34573.
+
+Methylation alterations of WT1 and homeobox genes in inflamed muscle biopsy
+samples from patients with untreated juvenile dermatomyositis suggest
+self-renewal capacity.
+
+Wang M(1), Xie H, Shrestha S, Sredni S, Morgan GA, Pachman LM.
+
+Author information: 
+(1)Children's Hospital of Chicago Research Center and Northwestern University
+Feinberg School of Medicine, Chicago, Illinois 60611, USA.
+
+OBJECTIVE: To determine the effect of methylation alteration in inflamed muscles 
+from children with juvenile dermatomyositis (DM) and other idiopathic
+inflammatory myopathies (IIMs).
+METHODS: Magnetic resonance imaging-directed diagnostic muscle biopsies yielded
+samples from 20 children with juvenile DM, which were used for genome-wide DNA
+methylation profiling, as were muscle biopsy samples from 4 healthy controls.
+Bisulfite treatment followed by pyrosequencing confirmed methylation status in
+juvenile DM and other IIMs. Immunohistochemistry defined localization and
+expression levels of WT1.
+RESULTS: Comparison of genome-wide DNA methylation profiling between juvenile DM 
+muscle and normal control muscle revealed 27 genes with a significant methylation
+difference between the groups. These genes were enriched with transcription
+factors and/or cell cycle regulators and were unrelated to duration of untreated 
+disease. Six homeobox genes were among them; ALX4, HOXC11, HOXD3, and HOXD4 were 
+hypomethylated, while EMX2 and HOXB1 were hypermethylated. WT1 was significantly 
+hypomethylated in juvenile DM (<U+0394>ß = -0.41, P < 0.001). Bisulfite pyrosequencing
+verification in samples from 56 patients with juvenile DM confirmed the
+methylation alterations of these genes. Similar methylation alterations were
+observed in juvenile polymyositis (n = 5) and other IIMs (n = 9). Concordant with
+the other findings, WT1 protein was increased in juvenile DM muscle, with average
+positive staining of 11.6%, but was undetectable in normal muscle (P < 0.001).
+CONCLUSION: These results suggest that affected muscles of children with juvenile
+DM and IIMs have the capacity to be repaired, and that homeobox and WT1 genes are
+epigenetically marked to facilitate this repair process, potentially suggesting
+new avenues of therapeutic intervention.
+
+Copyright © 2012 by the American College of Rheumatology.
+
+PMCID: PMC3462248
+PMID: 22674142  [PubMed - indexed for MEDLINE]
+
+
+19. Br J Cancer. 2011 Jun 28;105(1):118-23. doi: 10.1038/bjc.2011.193. Epub 2011 Jun 
+7.
+
+HOXC11-SRC-1 regulation of S100beta in cutaneous melanoma: new targets for the
+kinase inhibitor dasatinib.
+
+deBlacam C(1), Byrne C, Hughes E, McIlroy M, Bane F, Hill AD, Young LS.
+
+Author information: 
+(1)Endocrine Oncology Research, Department of Surgery, Royal College of Surgeons 
+in Ireland, York House, York Street, Dublin 2, Ireland.
+
+BACKGROUND: Cutaneous melanoma is an aggressive disease. S100beta is an
+established biomarker of disease progression; however, the mechanism of its
+regulation in melanoma is undefined.
+METHODS: Expression of HOXC11 and SRC-1 was examined by immunohistochemistry and 
+immunofluorescence. Molecular and cellular techniques were used to investigate
+regulation of S100beta, including, western blot, qPCR, ChIP and migration assays.
+RESULTS: Expression levels of the transcription factor HOXC11 and its coactivator
+SRC-1 were significantly elevated in malignant melanoma in comparison with benign
+nevi (P<0.001 and P=0.017, respectively, n=80), and expression of HOXC11 and
+SRC-1 in the malignant tissue associated with each other (P<0.001). HOXC11
+recruitment to the promoter of S100beta was observed in the primary melanoma cell
+line SKMel28. S100beta expression was found to be dependant on both HOXC11 and
+SRC-1. Treatment with the Src/Abl inhibitor, dasatinib, reduced HOXC11-SRC-1
+interaction and prevented recruitment of HOXC11 to the S100beta promoter.
+Dasatinib inhibited both mRNA and protein levels of S100beta and reduced
+migration of the metastatic cell line MeWo.
+CONCLUSION: We have defined a signalling mechanism regulating S100beta in
+melanoma, which can be modulated by dasatinib. Profiling patients for expression 
+of key markers of this network has the potential to increase the efficacy of
+dasatinib treatment.
+
+PMCID: PMC3137411
+PMID: 21654685  [PubMed - indexed for MEDLINE]
+
+
+20. PLoS Genet. 2011 May;7(5):e1002071. doi: 10.1371/journal.pgen.1002071. Epub 2011 
+May 26.
+
+Structural and functional differences in the long non-coding RNA hotair in mouse 
+and human.
+
+Schorderet P(1), Duboule D.
+
+Author information: 
+(1)School of Life Sciences, Federal Institute of Technology, Lausanne,
+Switzerland.
+
+Long non-coding RNAs regulate various biological processes such as dosage
+compensation, imprinting, and chromatin organization. HOTAIR, a paradigm of this 
+new class of RNAs, is localized within the human HOXC gene cluster and was shown,
+in human cells, to regulate HOXD genes in trans via the recruitment of Polycomb
+Repressive Complex 2 (PRC2), followed by the trimethylation of lysine 27 of
+histone H3. We looked for the presence of Hotair in mice to assess whether this
+in trans mechanism was conserved, in particular at the developmental stages, when
+Hoxd genes must be tightly regulated. We show that the cognate mouse Hotair is
+poorly conserved in sequence; and its absence, along with the deletion of the
+HoxC cluster, has surprisingly little effect in vivo, neither on the expression
+pattern or transcription efficiency, nor on the amount of K27me3 coverage of
+different Hoxd target genes. We conclude that Hotair may have rapidly evolved
+within mammals and acquired a functional importance in humans that is not easily 
+revealed in mice. Alternatively, redundant or compensatory mechanisms may mask
+its function when studied under physiological conditions.
+
+PMCID: PMC3102750
+PMID: 21637793  [PubMed - indexed for MEDLINE]
+
+
+21. BMC Evol Biol. 2011 Apr 16;11:102. doi: 10.1186/1471-2148-11-102.
+
+The sequence, structure and evolutionary features of HOTAIR in mammals.
+
+He S(1), Liu S, Zhu H.
+
+Author information: 
+(1)Bioinformatics Section, School of Basic Medical Sciences, Southern Medical
+University, Guangzhou, 510515, China.
+
+BACKGROUND: An increasing number of long noncoding RNAs (lncRNAs) have been
+identified recently. Different from all the others that function in cis to
+regulate local gene expression, the newly identified HOTAIR is located between
+HoxC11 and HoxC12 in the human genome and regulates HoxD expression in multiple
+tissues. Like the well-characterised lncRNA Xist, HOTAIR binds to polycomb
+proteins to methylate histones at multiple HoxD loci, but unlike Xist, many
+details of its structure and function, as well as the trans regulation, remain
+unclear. Moreover, HOTAIR is involved in the aberrant regulation of gene
+expression in cancer.
+RESULTS: To identify conserved domains in HOTAIR and study the phylogenetic
+distribution of this lncRNA, we searched the genomes of 10 mammalian and 3
+non-mammalian vertebrates for matches to its 6 exons and the two conserved
+domains within the 1800 bp exon6 using Infernal. There was just one high-scoring 
+hit for each mammal, but many low-scoring hits were found in both mammals and
+non-mammalian vertebrates. These hits and their flanking genes in four placental 
+mammals and platypus were examined to determine whether HOTAIR contained elements
+shared by other lncRNAs. Several of the hits were within unknown transcripts or
+ncRNAs, many were within introns of, or antisense to, protein-coding genes, and
+conservation of the flanking genes was observed only between human and
+chimpanzee. Phylogenetic analysis revealed discrete evolutionary dynamics for
+orthologous sequences of HOTAIR exons. Exon1 at the 5' end and a domain in exon6 
+near the 3' end, which contain domains that bind to multiple proteins, have
+evolved faster in primates than in other mammals. Structures were predicted for
+exon1, two domains of exon6 and the full HOTAIR sequence. The sequence and
+structure of two fragments, in exon1 and the domain B of exon6 respectively, were
+identified to robustly occur in predicted structures of exon1, domain B of exon6 
+and the full HOTAIR in mammals.
+CONCLUSIONS: HOTAIR exists in mammals, has poorly conserved sequences and
+considerably conserved structures, and has evolved faster than nearby HoxC genes.
+Exons of HOTAIR show distinct evolutionary features, and a 239 bp domain in the
+1804 bp exon6 is especially conserved. These features, together with the absence 
+of some exons and sequences in mouse, rat and kangaroo, suggest ab initio
+generation of HOTAIR in marsupials. Structure prediction identifies two fragments
+in the 5' end exon1 and the 3' end domain B of exon6, with sequence and structure
+invariably occurring in various predicted structures of exon1, the domain B of
+exon6 and the full HOTAIR.
+
+PMCID: PMC3103462
+PMID: 21496275  [PubMed - indexed for MEDLINE]
+
+
+22. Asian J Androl. 2011 Mar;13(2):342-6. doi: 10.1038/aja.2010.160. Epub 2011 Jan 3.
+
+Analysis of the methylation pattern of six gene promoters in sperm of men with
+abnormal protamination.
+
+Nanassy L(1), Carrell DT.
+
+Author information: 
+(1)Andrology and IVF Laboratories, Department of Surgery, University of Utah
+School of Medicine, Salt Lake City, UT 84108, USA.
+
+It has recently been shown that alteration of the methylation pattern of
+imprinted genes is associated with different types of male infertility. The
+objective of our study was to investigate the methylation pattern of selected
+gene promoters in sperm of patients with abnormal protamine replacement. The
+promoters of OCT4, SOX2, NANOG, HOXC11, miR-17 and CREM were analyzed using
+bisulfite sequencing and the percentage of DNA methylation was compared between
+patients with an abnormal protamine 1/protamine 2 (P1/P2) ratio and
+normozoospermic controls. No significant quantitative differences were found
+between groups of patients with either an abnormally high or low P1/P2 ratio
+compared to normal controls. However, two individual samples from infertile
+subjects (2/20, 10%) showed an altered methylation pattern for the CREM gene
+promoter that was not found in control samples. These two samples had a
+significantly higher (P<0.05) promoter methylation (5.58 and 4.23%, respectively)
+compared to the control group (0.46%). In conclusion, in our pilot study, extreme
+methylations defects were not seen broadly in severely infertile men. However,
+two patients exhibited altered methylation of the CREM gene, which may be either 
+causative or a result of abnormal protmaine replacement.
+
+PMCID: PMC3739198
+PMID: 21196940  [PubMed - indexed for MEDLINE]
+
+
+23. Development. 2010 Nov;137(22):3795-800. doi: 10.1242/dev.053447.
+
+Hox11 genes establish synovial joint organization and phylogenetic
+characteristics in developing mouse zeugopod skeletal elements.
+
+Koyama E(1), Yasuda T, Minugh-Purvis N, Kinumatsu T, Yallowitz AR, Wellik DM,
+Pacifici M.
+
+Author information: 
+(1)Department of Orthopaedic Surgery, College of Medicine, Thomas Jefferson
+University, Philadelphia, PA 19107, USA. eiki.koyama@jefferson.edu
+
+Hox11 genes are essential for zeugopod skeletal element development but their
+roles in synovial joint formation remain largely unknown. Here, we show that the 
+elbow and knee joints of mouse embryos lacking all Hox11 paralogous genes are
+specifically remodeled and reorganized. The proximal ends of developing mutant
+ulna and radius elements became morphologically similar and formed an
+anatomically distinct elbow joint. The mutant ulna lacked the olecranon that
+normally attaches to the triceps brachii muscle tendon and connects the humerus
+to the ulna. In its place, an ulnar patella-like element developed that expressed
+lubricin on its ventral side facing the joint and was connected to the triceps
+muscle tendon. In mutant knees, both tibia and fibula fully articulated with an
+enlarged femoral epiphyseal end that accommodated both elements, and the
+neo-tripartite knee joint was enclosed in a single synovial cavity and displayed 
+an additional anterior ligament. The mutant joints also exhibited a different
+organization of the superficial zone of articular cartilage that normally exerts 
+an anti-friction function. In conclusion, Hox11 genes co-regulate and coordinate 
+the development of zeugopod skeletal elements and adjacent elbow and knee joints,
+and dictate joint identity, morphogenesis and anatomical and functional
+organization. Notably, the ulnar patella and tripartite knee joints in the mouse 
+mutants actually characterize several lower vertebrates, including certain
+reptiles and amphibians. The re-emergence of such anatomical structures suggests 
+that their genetic blueprint is still present in the mouse genome but is normally
+modified to the needs of the mammalian joint-formation program by distinct Hox11 
+function.
+
+PMCID: PMC3049277
+PMID: 20978074  [PubMed - indexed for MEDLINE]
+
+
+24. Womens Health (Lond Engl). 2010 Jul;6(4):493. doi: 10.2217/whe.10.12.
+
+New findings offer insight into resistance to breast cancer therapy.
+
+[No authors listed]
+
+PMID: 20597624  [PubMed - indexed for MEDLINE]
+
+
+25. Cancer Res. 2010 Feb 15;70(4):1585-94. doi: 10.1158/0008-5472.CAN-09-3713. Epub
+2010 Feb 9.
+
+Interaction of developmental transcription factor HOXC11 with steroid receptor
+coactivator SRC-1 mediates resistance to endocrine therapy in breast cancer
+[corrected].
+
+McIlroy M(1), McCartan D, Early S, O Gaora P, Pennington S, Hill AD, Young LS.
+
+Author information: 
+(1)Endocrine Oncology Research, Department of Surgery, Royal College of Surgeons 
+in Ireland, Dublin D2, Ireland.
+
+Erratum in
+    Cancer Res. 2010 Apr 15;70(8):3413.
+
+Mechanisms of acquired resistance to endocrine therapy in breast cancer, a major 
+clinical challenge, are poorly understood. We have used a mass spectrometry-based
+screen to identify proteins that are associated with the endocrine-resistant
+phenotype. In this study, we report the identification of a novel pathway of
+resistance to endocrine therapy involving interactions of the developmental
+transcription HOXC11 with the steroid receptor coactivator protein SRC-1, which
+is a strong predictor of reduced disease-free survival in breast cancer patients.
+HOXC11 and SRC-1 cooperate to regulate expression of the calcium-binding protein 
+S100beta in resistant breast cancer cells. Nuclear HOXC11 and S100beta were found
+to strongly predict poor disease-free survival in breast cancer patients (n =
+560; hazard ratios: 5.79 and 5.82, respectively; P < 0.0001). Elevated serum
+levels of S100beta detected in patients also predicted reduced disease-free
+survival (n = 80; hazard ratio: 5.3; P = 0.004). Our findings define a
+biomolecular interaction network that drives an adaptive response to endocrine
+therapy with negative consequences for survival in breast cancer.
+
+PMID: 20145129  [PubMed - indexed for MEDLINE]
+
+
+26. Cancer Genet Cytogenet. 2009 Sep;193(2):109-11. doi:
+10.1016/j.cancergencyto.2009.04.015.
+
+A NUP98-positive acute myeloid leukemia with a t(11;12)(p15;q13) without HOXC
+cluster gene involvement.
+
+La Starza R(1), Brandimarte L, Pierini V, Nofrini V, Gorello P, Crescenzi B,
+Berchicci L, Matteucci C, Romoli S, Beacci D, Rosati R, Martelli MF, Mecucci C.
+
+Author information: 
+(1)Hematology and Bone Marrow Transplantation Unit, University of Perugia,
+Ematologia e Trapianto di Midollo Osseo, Ospedale S.M. della Misericordia,
+(Padiglione B, piano -2), S. Andrea delle Fratte, 06156 Perugia, Italy.
+
+We report a case of adult acute myeloid leukemia with a new t(11;12)(p15;q13)
+underlying a NUP98 rearrangement without HOXC cluster gene involvement. We
+designed a specific double-color double-fusion FISH assay to discriminate between
+this t(11;12)(p15;q13) and those producing NUP98-HOXC11 or NUP98-HOXC13. Our
+fluorescence in situ hybridization (FISH) showed that putative candidate partners
+mapping 600 kilobases centromeric to HOXC were RARG (retinoic acid receptor
+gamma), MFSD5 (major facilitator superfamily domain containing 5), and ESPL1
+(extra spindle pole bodies homolog 1). It is noteworthy that so far only ESPL1
+has been implicated in human cancers. This FISH assay is useful for diagnostic
+screening of NUP98-positive leukemias.
+
+PMID: 19665072  [PubMed - indexed for MEDLINE]
+
+
+27. BMC Dev Biol. 2008 Sep 30;8:93. doi: 10.1186/1471-213X-8-93.
+
+Evidence for Hox-specified positional identities in adult vasculature.
+
+Pruett ND(1), Visconti RP, Jacobs DF, Scholz D, McQuinn T, Sundberg JP,
+Awgulewitsch A.
+
+Author information: 
+(1)Department of Medicine, Medical University of South Carolina, 96 Jonathan
+Lucas Street, Charleston, SC 29425, USA. pruettnd@musc.edu
+
+BACKGROUND: The concept of specifying positional information in the adult
+cardiovascular system is largely unexplored. While the Hox transcriptional
+regulators have to be viewed as excellent candidates for assuming such a role,
+little is known about their presumptive cardiovascular control functions and in
+vivo expression patterns.
+RESULTS: We demonstrate that conventional reporter gene analysis in transgenic
+mice is a useful approach for defining highly complex Hox expression patterns in 
+the adult vascular network as exemplified by our lacZ reporter gene models for
+Hoxa3 and Hoxc11. These mice revealed expression in subsets of vascular smooth
+muscle cells (VSMCs) and endothelial cells (ECs) located in distinct regions of
+the vasculature that roughly correspond to the embryonic expression domains of
+the two genes. These reporter gene patterns were validated as authentic
+indicators of endogenous gene expression by immunolabeling and PCR analysis.
+Furthermore, we show that persistent reporter gene expression in cultured cells
+derived from vessel explants facilitates in vitro characterization of phenotypic 
+properties as exemplified by the differential response of Hoxc11-lacZ-positive
+versus-negative cells in migration assays and to serum.
+CONCLUSION: The data support a conceptual model of Hox-specified positional
+identities in adult blood vessels, which is of likely relevance for understanding
+the mechanisms underlying regional physiological diversities in the
+cardiovascular system. The data also demonstrate that conventional Hox reporter
+gene mice are useful tools for visualizing complex Hox expression patterns in the
+vascular network that might be unattainable otherwise. Finally, these mice are a 
+resource for the isolation and phenotypic characterization of specific
+subpopulations of vascular cells marked by distinct Hox expression profiles.
+
+PMCID: PMC2570687
+PMID: 18826643  [PubMed - indexed for MEDLINE]
+
+
+28. Dev Biol. 2008 Jul 15;319(2):396-405. doi: 10.1016/j.ydbio.2008.03.044. Epub 2008
+Apr 11.
+
+Hoxd11 specifies a program of metanephric kidney development within the
+intermediate mesoderm of the mouse embryo.
+
+Mugford JW(1), Sipilä P, Kobayashi A, Behringer RR, McMahon AP.
+
+Author information: 
+(1)Department of Molecular and Cellular Biology, Harvard University, Cambridge,
+MA 02138, USA.
+
+The mammalian kidney consists of an array of tubules connected to a ductal system
+that collectively function to control water/salt balance and to remove waste from
+the organisms' circulatory system. During mammalian embryogenesis, three kidney
+structures form within the intermediate mesoderm. The two most anterior
+structures, the pronephros and the mesonephros, are transitory and largely
+non-functional, while the most posterior, the metanephros, persists as the adult 
+kidney. We have explored the mechanisms underlying regional specific
+differentiation of the kidney forming mesoderm. Previous studies have shown a
+requirement for Hox11 paralogs (Hoxa11, Hoxc11 and Hoxd11) in metanephric
+development. Mice lacking all Hox11 activity fail to form metanephric kidney
+structures. We demonstrate that the Hox11 paralog expression is restricted in the
+intermediate mesoderm to the posterior, metanephric level. When Hoxd11 is
+ectopically activated in the anterior mesonephros, we observe a partial
+transformation to a metanephric program of development. Anterior Hoxd11(+) cells 
+activate Six2, a transcription factor required for the maintenance of metanephric
+tubule progenitors. Additionally, Hoxd11(+) mesonephric tubules exhibit an
+altered morphology and activate several metanephric specific markers normally
+confined to distal portions of the functional nephron. Collectively, our data
+support a model where Hox11 paralogs specify a metanephric developmental program 
+in responsive intermediate mesoderm. This program maintains tubule forming
+progenitors and instructs a metanephric specific pattern of nephron
+differentiation.
+
+PMCID: PMC2580739
+PMID: 18485340  [PubMed - indexed for MEDLINE]
+
+
+29. J Cell Mol Med. 2007 Mar-Apr;11(2):299-306.
+
+HOXC6 and HOXC11 increase transcription of S100beta gene in BrdU-induced in vitro
+differentiation of GOTO neuroblastoma cells into Schwannian cells.
+
+Zhang X(1), Hamada J, Nishimoto A, Takahashi Y, Murai T, Tada M, Moriuchi T.
+
+Author information: 
+(1)Division of Cancer-Related Genes, Institute for Genetic Medicine, Hokkaido
+University, Kita-15 Nishi-7, Kita-ku, Sapporo 060-0815, Japan.
+doggirl999@hotmail.com
+
+HOX genes encode transcription factors that play a key role in morphogenesis and 
+cell differentiation during embryogenesis of animals. Human neuroblastoma cells
+are known to be chemically induced to differentiate into neuronal or Schwannian
+cells. In the present study, we investigated the roles of HOX genes in
+differentiation of GOTO neuroblastoma cells into Schwannian cells. When GOTO
+cells were grown in the presence of 5-bromo-2'-deoxyuridine (BrdU), they
+increased the expressions of two HOX genes (HOXC6 and HOXC11) and marker genes
+for Schwannian cells (S100beta and myelin basic protein). Forced expression of
+HOXC11 alone or both HOXC6 isoform 1 and HOXC11 induced the expression of
+S100beta in GOTO cells. In transient transfection experiments, the overexpression
+of HOXC6 and HOXC11 transactivated the S100beta promoter-reporter construct.
+Taken together, our results suggest that HOXC6 and HOXC11 are associated with
+differentiation of GOTO cells into Schwannian cells through the transcriptional
+activation of S100beta gene.
+
+PMCID: PMC3822828
+PMID: 17488478  [PubMed - indexed for MEDLINE]
+
+
+30. Cancer Res. 2006 May 1;66(9):4584-90.
+
+Trans-repressive effect of NUP98-PMX1 on PMX1-regulated c-FOS gene through
+recruitment of histone deacetylase 1 by FG repeats.
+
+Bai XT(1), Gu BW, Yin T, Niu C, Xi XD, Zhang J, Chen Z, Chen SJ.
+
+Author information: 
+(1)State Key Laboratory of Medical Genomics and Shanghai Institute of Hematology,
+Ruijin Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai,
+P.R. China.
+
+The formation of fusion genes between NUP98 and members of the HOX family
+represents a critical factor for the genesis of acute leukemia or acute
+transformation of chronic myeloid leukemia (CML). To gain insights into the
+molecular mechanisms underlying the leukemogenesis of NUP98-HOX fusion products, 
+we cloned NUP98-PMX1 from a CML-blast crisis patient with t(1;11) as a secondary 
+chromosomal translocation, and functionally studied the fusion products in detail
+through various molecular and protein biochemical assays. In addition to many
+interesting features, we have found that the NUP98-PMX1 fusion protein exerts a
+repressive effect on PMX1 or serum response factor-mediated c-FOS activation,
+probably through the recruitment of a common corepressor histone deacetylase 1 by
+FG domains of the NUP98-PMX1 fusion protein. Moreover, we have provided evidence 
+that the FG domains of NUP98-PMX1 and two other NUP98-containing fusion proteins,
+i.e., NUP98-HOXA9 and NUP98-HOXC11, all exhibit dual binding ability to both CREB
+binding protein, a coactivator, and histone deacetylase 1, a corepressor.
+Accordingly, we have hypothesized that this dual binding activity is shared by
+most, if not all, NUP98-HOX-involved fusion proteins, enabling these fusion
+proteins to act as both trans-activators and trans-repressors, and contributing
+to the genesis of acute leukemia or acute transformation of CML.
+
+PMID: 16651408  [PubMed - indexed for MEDLINE]
+
+
+31. Oncol Rep. 2005 Apr;13(4):673-9.
+
+Aberrant expression of HOX genes in human invasive breast carcinoma.
+
+Makiyama K(1), Hamada J, Takada M, Murakawa K, Takahashi Y, Tada M, Tamoto E,
+Shindo G, Matsunaga A, Teramoto K, Komuro K, Kondo S, Katoh H, Koike T, Moriuchi 
+T.
+
+Author information: 
+(1)Division of Cancer-Related Genes, Institute for Genetic Medicine, Hokkaido
+University, Kita-15, Nishi-7, Kita-ku, Sapporo 060-0815, Japan.
+
+HOX genes are known not only as master genes that control the morphogenesis, but 
+also as regulator genes that maintain tissue or organ specificity in the adult
+body. We hypothesized that dysregulated expression of HOX genes was associated
+with tumor development and malignant progression such as invasion and metastasis.
+In this study, we analyzed the expression patterns of 39 HOX genes in human
+invasive ductal breast cancer tissues and normal tissues by the real-time RT-PCR 
+method. We found 11 HOX genes (HOXA1, A2, A3, A5, A9, C11, D3, D4, D8, D9 and
+D10) expression levels of which were significantly different between cancerous
+and normal tissues. All 10 genes except HOXC11 were expressed at lower levels in 
+cancerous tissues than normal tissues. Comparing expression levels of each HOX
+gene among the different types of cancer tissues, the expression level of HOXB7
+was lower in lymph node metastasis-positive cancer tissues than negative cancer
+tissues; those of HOXD12 and D13 were higher in progesterone receptor-positive
+cancer tissues than negative cancer tissues; and the expression level of HOXC5
+was lower in cancerous tissues with mutated-type p53 than in normal and cancerous
+tissues with wild-type p53. These results suggest that the aberrant expression of
+HOX genes is related to the development of breast cancer and malignant behavior
+of cancer cells.
+
+PMID: 15756441  [PubMed - indexed for MEDLINE]
+
+
+32. Hokkaido Igaku Zasshi. 2004 Nov;79(6):719-26.
+
+[Expression of mRNA for HOX gene in human breast cancer and non-cancerous
+tissues].
+
+[Article in Japanese]
+
+Makiyama K.
+
+PMID: 15675302  [PubMed - indexed for MEDLINE]
+
+
+33. Cancer Lett. 2004 Oct 8;214(1):19-33.
+
+Identification of novel genes associated with the response to 5-FU treatment in
+gastric cancer cell lines using a cDNA microarray.
+
+Park JS(1), Young Yoon S, Kim JM, Yeom YI, Kim YS, Kim NS.
+
+Author information: 
+(1)Laboratory of Human Genomics, Division of Genomics and Proteomics, Korea
+Research Institute of Bioscience and Biotechnology (KRIBB), Daejeon 305-333,
+South Korea.
+
+The 5-Fluorouracil (5-FU) is an anticancer drug that is widely used in the
+treatment of cancer. To identify novel genes associated with 5-FU in gastric
+cancer, the time-dependent expression profiling of genes in response to 5-FU was 
+examined in 5-FU sensitive and/or resistant gastric cancer cell lines using a
+'KUGI 14 K cDNA chip' containing 14,081 unigenes obtained from human gastric
+cancer cell lines and tissues. By this analysis, we obtained 13 genes which are
+directly associated with sensitivity or resistance to 5-FU. Of these genes, 11
+were found to be commonly up-regulated only in the 5-FU sensitive cell lines, and
+2 were oppositely regulated in both of 5-FU sensitive and resistant cell lines.
+These genes were determined to be involved in cell surface, apoptosis, cell cycle
+and signal transduction. Of these genes, the expression levels of ZFP100, 4F2hc, 
+FLJ11021, CSTF3, PPP1R14A, DDB2, C6orf139, CDKN1A, HOXC11 and FLJ38860 were
+confirmed by semi-quantitative RT-PCR. In addition, seven genes containing RRMI, 
+UP1 and K-EST0037597 were found to be commonly up-regulated in both cell lines.
+In addition, the expression of genes such as TP, OPRT, TS and DPD, which have
+been previously known to be involved in 5-FU metabolism, were examined in both of
+5-FU sensitive and resistant cell lines. These results provide not only
+predictive biomarkers for 5-FU sensitivity or resistance to human gastric cancer,
+but also a new molecular basis for understanding the mechanism of cellular
+cytoxicity to 5-FU.
+
+PMID: 15331170  [PubMed - indexed for MEDLINE]
+
+
+34. Leukemia. 2003 Sep;17(9):1858-64.
+
+Major form of NUP98/HOXC11 fusion in adult AML with t(11;12)(p15;q13)
+translocation exhibits aberrant trans-regulatory activity.
+
+Gu BW(1), Wang Q, Wang JM, Xue YQ, Fang J, Wong KF, Chen B, Shi ZZ, Shi JY, Bai
+XT, Wu DH, Chen Z, Chen SJ.
+
+Author information: 
+(1)State Key Lab for Medical Genomics, Shanghai Institute of Hematology, Ruijin
+Hospital Affiliated to Shanghai Second Medical University, Shanghai, People's
+Republic of China.
+
+Three adult patients with de novo acute myeloid leukemia of distinct subtypes
+harboring t(11;12)(p15;q13) have been investigated to characterize the genes
+involved in that translocation. Through molecular cytogenetics, a chromosome
+break was detected at the 3' part of nucleoporin 98 (NUP98) gene at 11p15. Using 
+rapid amplification of cDNA end, we identified the partner gene at 12q13, HOXC11.
+Molecular analysis showed that exon 12 of NUP98 was fused in-frame to exon 2 of
+HOXC11 in all three cases with t(11;12)(p15;q13). Therefore, this type of fusion 
+may represent the major form of the NUP98-HOXC11 chimera so far reported.
+Moreover, two out of three cases had a confirmed deletion of the 3' part of NUP98
+gene and more telomeric region of 11p harboring a group of tumor-suppressor
+genes. Interestingly, the NUP98-HOXC11 protein when assayed in a GAL4 reporter
+system, showed an aberrant trans-regulatory activity as compared to the wild-type
+HOXC11 in both COS-7 and HL-60 cells. Therefore, NUP98-HOXC11 may contribute to
+the leukemogenesis by interfering with the cellular mechanism of transcriptional 
+regulation.
+
+PMID: 12970787  [PubMed - indexed for MEDLINE]
+
+
+35. Biol Reprod. 2004 Jan;70(1):39-45. Epub 2003 Sep 3.
+
+HOXC and HOXD gene expression in human endometrium: lack of redundancy with HOXA 
+paralogs.
+
+Akbas GE(1), Taylor HS.
+
+Author information: 
+(1)Department of Obstetrics and Gynecology, Yale University School of Medicine,
+New Haven, Connecticut 06520, USA.
+
+HOXA genes, essential regulators of differentiation in the embryo, are also
+essential for adult cyclic endometrial development and for endometrial
+receptivity. Mice deficient in Hoxa10 or Hoxa11 exhibit reduced fertility because
+of defects in implantation. We hypothesized that HOXC10, HOXC11, HOXD10, and
+HOXD11, paralogs of HOXA10 and HOXA11, might also be involved in endometrial
+development. Here, we showed that the expression of HOXC10, HOXC11, HOXD10, and
+HOXD11 was evident throughout the menstrual cycle in the endometrium by
+semiquantitative reverse transcription-polymerase chain reaction. In the
+secretory phase, expression of HOXC10, HOXC11, and HOXD11 decreased to 4% and
+HOXD10 decreased to 25% of the proliferative phase expression (P < 0.001, P <
+0.001, P < 0.02, P < 0.01, respectively). In situ hybridization demonstrated
+expression of each of these HOX genes primarily in the stroma and confirmed the
+decreased expression in the secretory phase. HOXC10, HOXC11, HOXD10, and HOXD11
+expression was not regulated by sex steroids in primary endometrial stromal cells
+or Ishikawa cells. The expression and regulation of HOXC and HOXD genes varies
+from that of HOXA10 and HOXA11. Whereas HOXA10 and HOXA11 are regulators of
+endometrial differentiation, HOXC and HOXD genes likely regulate endometrial
+proliferation. Paralogous HOX genes typically have a redundant function in
+development; a novel evolutionary divergence of paralogous Hox genes has resulted
+in HOXC and HOXD genes having distinct expression patterns, regulation, and
+likely also distinct functions from HOXA genes. A network of HOX genes may be
+involved in regulating multiple aspects of endometrial development, including
+both proliferation and differentiation.
+
+PMID: 12954737  [PubMed - indexed for MEDLINE]
+
+
+36. Cancer Res. 2002 Aug 15;62(16):4571-4.
+
+Novel NUP98-HOXC11 fusion gene resulted from a chromosomal break within exon 1 of
+HOXC11 in acute myeloid leukemia with t(11;12)(p15;q13).
+
+Taketani T(1), Taki T, Shibuya N, Kikuchi A, Hanada R, Hayashi Y.
+
+Author information: 
+(1)Department of Pediatrics, Graduate School of Medicine, University of Tokyo,
+Tokyo 113-8655, Japan.
+
+The NUP98 gene has been reported to be fused to 11 partner genes in hematological
+malignancies with 11p15 translocations. Among NUP98 fusion partner genes, HOXA
+and HOXD clusters have been reported thus far; however, no HOXC or HOXB clusters 
+have been reported. We identified a novel NUP98-HOXC11 fusion gene in a pediatric
+patient with de novo acute myeloid leukemia having t(11;12)(p15;q13). The
+breakpoint of NUP98 was located within a LINE repetitive sequence (HAL1) in
+intron 12, and the breakpoint of HOXC11 was located within exon 1, resulting in a
+NUP98-HOXC11 in-frame fusion transcript containing exon 12 of NUP98 fused to a
+part of exon 1 of HOXC11 with an 8-bp insertion derived from the intron sequence 
+just 5' of the breakpoint of NUP98. The NUP98-HOXC11 fusion protein consists of
+the NH2-terminal phenylalanine-glycine repeat motif of NUP98 and the
+COOH-terminal homeodomain of HOXC11. Although the frequency of HOXC11 expression 
+was not high in leukemia cell lines, its expression was significantly more
+frequent in myeloid than lymphoid leukemia cell lines. These data suggest that
+the NUP98-HOXC11 fusion protein plays a role in the pathogenesis of myeloid
+malignancies.
+
+PMID: 12183408  [PubMed - indexed for MEDLINE]
+
+
+37. Genes Dev. 2002 Jun 1;16(11):1423-32.
+
+Hox11 paralogous genes are essential for metanephric kidney induction.
+
+Wellik DM(1), Hawkes PJ, Capecchi MR.
+
+Author information: 
+(1)Department of Human Genetics and Howard Hughes Medical Institute, University
+of Utah School of Medicine, Salt Lake City 84112-5331, USA.
+
+The mammalian Hox complex is divided into four linkage groups containing 13 sets 
+of paralogous genes. These paralogous genes have retained functional redundancy
+during evolution. For this reason, loss of only one or two Hox genes within a
+paralogous group often results in incompletely penetrant phenotypes which are
+difficult to interpret by molecular analysis. For example, mice individually
+mutant for Hoxa11 or Hoxd11 show no discernible kidney abnormalities.
+Hoxa11/Hoxd11 double mutants, however, demonstrate hypoplasia of the kidneys. As 
+described in this study, removal of the last Hox11 paralogous member, Hoxc11,
+results in the complete loss of metanephric kidney induction. In these triple
+mutants, the metanephric blastema condenses, and expression of early patterning
+genes, Pax2 and Wt1, is unperturbed. Eya1 expression is also intact. Six2
+expression, however, is absent, as is expression of the inducing growth factor,
+Gdnf. In the absence of Gdnf, ureteric bud formation is not initiated. Molecular 
+analysis of this phenotype demonstrates that Hox11 control of early metanephric
+induction is accomplished by the interaction of Hox11 genes with the pax-eya-six 
+regulatory cascade, a pathway that may be used by Hox genes more generally for
+the induction of multiple structures along the anteroposterior axis.
+
+PMCID: PMC186320
+PMID: 12050119  [PubMed - indexed for MEDLINE]
+
+
+38. Mol Cell Biol Res Commun. 2000 Jun;3(6):367-73.
+
+Repression of transcription by HoxC11 upon phorbol ester stimulation.
+
+Sur IP(1), Toftgård R.
+
+Author information: 
+(1)Department of Biosciences at Novum, Karolinska Institutet, Huddinge, SE-14157,
+Sweden. inderpreet.sur@cnt.ki.se
+
+Hox genes encode transcription factors with a conserved DNA-binding domain and
+exhibit similar DNA-binding preferences. The in vivo specificity required for
+their biological function is brought about by combinatorial interactions with
+other factors. Such interactions also modulate their activation state. Here we
+show that HoxC11 can either activate or repress transcription in a
+signal-specific manner. We report the isolation of HoxC11 in a yeast one-hybrid
+screen for factors binding to a phorbol-ester,
+12-O-tetradecanoylphorbol-13-acetate (TPA) response element (VLTRE), which is
+also a target for TPA-induced binding of Rel factors in gel-shift experiments.
+Although we detect no binding of in vitro translated HoxC11 to the TPA response
+element in EMSA, overexpression of HoxC11 in the HepG2 cell line leads to a
+complete block of TPA-induced transcription from a VLTRE-luciferase reporter.
+There is, however, no repression of the basal levels. The repression is
+furthermore not dependent on homeo-domain DNA binding. Our data suggest an
+interaction of HoxC11 with the basal-transcription machinery. We propose that
+HoxC11 is capable of mediating transcriptional activation or repression in a
+signal-specific manner and that its activation of the DNA target sequence in
+yeast might reflect in vivo recruitment to the promoter complex.
+
+Copyright 2000 Academic Press.
+
+PMID: 11032759  [PubMed - indexed for MEDLINE]
+
+
+39. Mech Dev. 2000 Apr;92(2):113-23.
+
+Loss of fibula in mice overexpressing Hoxc11.
+
+Papenbrock T(1), Visconti RP, Awgulewitsch A.
+
+Author information: 
+(1)Department of Medicine, Medical University of South Carolina, 96 Jonathan
+Lucas Street--CSB, Charleston, USA.
+
+This study demonstrates severe malformations of the appendicular skeleton in mice
+overexpressing Hoxc11. Consistent with the endogenous expression pattern, the
+most conspicuous defect in Hoxc11 overexpressing neonates is aplasia/hypoplasia
+of the fibula. This is preceded at day 15.5 of embryonic development by marked
+reduction of chondrocyte proliferation, lack of PTHR expressing prehypertrophic
+cells, and the absence of hypertrophic and calcifying chondrocytes. Combined with
+the lack of an overt phenotype in the majority of Hoxc11 overexpressing embryos
+at day 13.5, the data suggest inhibition of chondrocyte differentiation during
+the elongation phase of the fibula bone as a primary effect of elevated Hoxc11
+expression. This interpretation is further corroborated by Hoxc11 reporter gene
+expression in the joint areas at embryonic day 15.5, suggesting an involvement of
+the periarticular perichondrium in generating the mutant phenotype.
+
+PMID: 10727851  [PubMed - indexed for MEDLINE]
+
+
+40. Science. 1999 Mar 12;283(5408):1736-9.
+
+Role of Pitx1 upstream of Tbx4 in specification of hindlimb identity.
+
+Logan M(1), Tabin CJ.
+
+Author information: 
+(1)Department of Genetics, Harvard Medical School, 200 Longwood Avenue, Boston,
+MA 02115, USA.
+
+Comment in
+    Science. 1999 Mar 12;283(5408):1615-6.
+
+In spite of recent breakthroughs in understanding limb patterning, the genetic
+factors determining the differences between the forelimb and the hindlimb have
+not been understood. The genes Pitx1 and Tbx4 encode transcription factors that
+are expressed throughout the developing hindlimb but not forelimb buds.
+Misexpression of Pitx1 in the chick wing bud induced distal expression of Tbx4,
+as well as HoxC10 and HoxC11, which are normally restricted to hindlimb
+expression domains. Wing buds in which Pitx1 was misexpressed developed into
+limbs with some morphological characteristics of hindlimbs: the flexure was
+altered to that normally observed in legs, the digits were more toe-like in their
+relative size and shape, and the muscle pattern was transformed to that of a leg.
+
+PMID: 10073939  [PubMed - indexed for MEDLINE]
+
+
+41. J Biol Chem. 1998 May 22;273(21):13297-306.
+
+The HOXC11 homeodomain protein interacts with the lactase-phlorizin hydrolase
+promoter and stimulates HNF1alpha-dependent transcription.
+
+Mitchelmore C(1), Troelsen JT, Sjöström H, Norén O.
+
+Author information: 
+(1)Department of Medical Biochemistry and Genetics, Biochemical Laboratory C, The
+Panum Institute, University of Copenhagen, Blegdamsvej 3, DK-2200 Copenhagen N,
+Denmark. mitch@biobase.dk
+
+The lactase-phlorizin hydrolase (LPH) gene is expressed specifically in the
+enterocytes of the small intestine. LPH levels are high in newborn mammals, but
+decrease after weaning. We have previously suggested that the promoter element
+CE-LPH1, located at -40 to -54, plays an important role in this down-regulation, 
+because the DNA binding activity of a nuclear factor that binds to this site is
+present specifically in small intestinal extracts and is down-regulated after
+weaning. In an effort to clone CE-LPH1-binding factors, a yeast one-hybrid
+genetic selection was used, resulting in the isolation of a partial cDNA encoding
+the human homeodomain protein HOXC11. The full-length HOXC11 sequence was
+obtained by rapid amplification of cDNA ends. It was shown in a yeast assay and
+by electrophoretic mobility shift assay that HOXC11 binds to the CE-LPH1 element 
+with similar specificity to the endogenous intestinal factor. Two HOXC11
+transcript sizes were identified by Northern blot analysis. The larger transcript
+(2.1 kilobase pairs) is likely to contain a translational start site in good
+context and is present in HeLa cells. The shorter 1.7-kilobase pair transcript,
+present in HeLa and Caco-2 cells, probably encodes a protein lacking 114 amino
+acids at the N-terminal end. Both forms of HOXC11 potentiate transcriptional
+activation of the LPH promoter by HNF1alpha. The expression of HOXC11 mRNA in
+human fetal intestine suggests a role in early intestinal development.
+
+PMID: 9582375  [PubMed - indexed for MEDLINE]
+
+
+42. Mech Dev. 1998 Jan;70(1-2):133-45.
+
+The mouse Hoxc11 gene: genomic structure and expression pattern.
+
+Hostikka SL(1), Capecchi MR.
+
+Author information: 
+(1)Department of Human Genetics, University of Utah School of Medicine, Salt Lake
+City 84112-5331, USA.
+
+The mouse and human Hox complex consists of 39 genes in four linkage groups
+(A-D). Although the structure and expression patterns of most of these genes have
+been reported, the 5' members of the Hox C linkage group have been only partially
+characterized. Herein we report the primary and genomic structure of the mouse
+Hoxc11 gene as well as its expression pattern. The Hoxc11 gene encodes a 304
+amino acid protein which is translated from a 2.2 kb transcript, derived from two
+exons. Hoxc11 mRNA is found in the most posterior region of the developing embryo
+commencing at 9.5 days of gestation. Expression is detected in the posterior
+neural tube, dorsal root ganglia, prevertebrae and hindlimbs. Expression is also 
+found in metanephric mesenchyme which, later in development, becomes restricted
+to the cortical region of the developing kidney. In the developing genitalia,
+prominent expression is first observed in the posterior urogenital sinus that
+gives rise to the urethra, vagina and prostate. Later, expression is seen in
+paramesonephric and mesonephric ducts and in the genital tubercle. In the
+hindlimbs, Hoxc11 expression is seen in the mesenchyme posterior to the region
+forming the femur and fibula, but does not extend anteriorly to the region giving
+rise to the tibia or distally to the tarsal bones.
+
+PMID: 9510030  [PubMed - indexed for MEDLINE]
+
+

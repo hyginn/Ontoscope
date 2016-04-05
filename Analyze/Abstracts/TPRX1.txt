@@ -1,0 +1,68 @@
+
+1. BMC Evol Biol. 2011 Jun 16;11:169. doi: 10.1186/1471-2148-11-169.
+
+The dynamics of vertebrate homeobox gene evolution: gain and loss of genes in
+mouse and human lineages.
+
+Zhong YF(1), Holland PW.
+
+Author information: 
+(1)Department of Zoology, University of Oxford, South Parks Road, Oxford OX1 3PS,
+UK.
+
+Erratum in
+    BMC Evol Biol. 2011;11:204.
+
+BACKGROUND: Homeobox genes are a large and diverse group of genes, many of which 
+play important roles in transcriptional regulation during embryonic development. 
+Comparison of homeobox genes between species may provide insights into the
+evolution of developmental mechanisms.
+RESULTS: Here we report an extensive survey of human and mouse homeobox genes
+based on their most recent genome assemblies, providing the first comprehensive
+analysis of mouse homeobox genes and updating an earlier survey of human homeobox
+genes. In total we recognize 333 human homeobox loci comprising 255 probable
+genes and 78 probable pseudogenes, and 324 mouse homeobox loci comprising 279
+probable genes and 45 probable pseudogenes (accessible at
+http://homeodb.zoo.ox.ac.uk). Comparison to partial genome sequences from other
+species allows us to resolve which differences are due to gain of genes and which
+are due to gene losses.
+CONCLUSIONS: We find there has been much more homeobox gene loss in the rodent
+evolutionary lineage than in the primate lineage. While humans have lost only the
+Msx3 gene, mice have lost Ventx, Argfx, Dprx, Shox, Rax2, LOC647589, Tprx1 and
+Nanognb. This analysis provides insight into the patterns of homeobox gene
+evolution in the mammals, and a step towards relating genomic evolution to
+phenotypic evolution.
+
+PMCID: PMC3141429
+PMID: 21679462  [PubMed - indexed for MEDLINE]
+
+
+2. Gene. 2007 Jan 31;387(1-2):7-14. Epub 2006 Aug 22.
+
+Annotation, nomenclature and evolution of four novel homeobox genes expressed in 
+the human germ line.
+
+Booth HA(1), Holland PW.
+
+Author information: 
+(1)Department of Zoology, University of Oxford, South Parks Road, Oxford, OX1
+3PS, UK.
+
+The homeobox genes comprise a large gene superfamily characterised by a conserved
+DNA motif encoding the homeodomain. Most homeodomain proteins function as
+transcription factors, and many have important roles in embryonic development and
+cell differentiation. Here we describe, annotate and name four novel homeobox
+genes in the human genome: ARGFX, DPRX, TPRX1 and DUXA. Each has generated
+multiple retrotransposed (processed) pseudogenes; these are reliable indicators
+of germ-line expression because only in germ-line cells can retrotransposition
+result in inheritance to the next generation. The retrotransposed sequences were 
+exploited here as a novel means to deduce exon-intron boundaries. All four novel 
+genes show accelerated rates of protein sequence evolution. This fast rate of
+sequence change may be connected with roles in human reproductive biology.
+Deducing the evolutionary origins of these genes is not straightforward, but we
+propose that TPRX1, DPRX and DUXA are highly divergent derivatives of the CRX
+gene, itself a member of the Otx homeobox gene family.
+
+PMID: 17005330  [PubMed - indexed for MEDLINE]
+
+

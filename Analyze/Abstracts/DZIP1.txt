@@ -1,0 +1,1155 @@
+
+1. Int J Biochem Cell Biol. 2015 Dec;69:11-9. doi: 10.1016/j.biocel.2015.10.004.
+Epub 2015 Oct 13.
+
+A role for dZIP89B in Drosophila dietary zinc uptake reveals additional
+complexity in the zinc absorption process.
+
+Richards CD(1), Warr CG(1), Burke R(2).
+
+Author information: 
+(1)School of Biological Sciences, Monash University, Victoria, Australia.
+(2)School of Biological Sciences, Monash University, Victoria, Australia.
+Electronic address: richard.burke@monash.edu.
+
+Dietary zinc is the principal source of zinc in eukaryotes, with its uptake and
+distribution controlled by a complex network of numerous membrane-spanning
+transport proteins. Dietary absorption is achieved by members of the SLC39A (ZIP)
+gene family, which encode proteins that are generally responsible for the
+movement of zinc into the cytosol. ZIP4 is thought to be the primary mammalian
+zinc uptake gene in the small intestine, with mutations in this gene causing the 
+zinc deficiency disease Acrodermatitis enteropathica. In Drosophila, dual
+knockdown of the major dietary zinc uptake genes dZIP42C.1 (dZIP1) and dZIP42C.2 
+(dZIP2) results in a severe sensitivity to zinc-deficient media. However, the
+symptoms associated with ZIP4 loss can be reversed by zinc supplementation and
+dZIP42C.1 and 2 knockdown has minimal effect under normal dietary conditions,
+suggesting that additional pathways for zinc absorption exist in both mammals and
+flies. This study provides evidence that dZIP89B is an ideal candidate for this
+role in Drosophila, encoding a low-affinity zinc uptake transporter active in the
+posterior midgut. Flies lacking dZIP89B, while viable and apparently healthy,
+show indications of low midgut zinc levels, including reduced metallothionein B
+expression and compensatory up-regulation of dZIP42C.1 and 2. Furthermore dZIP89B
+mutants display a dramatic resistance to toxic dietary zinc levels which is
+abrogated by midgut-specific restoration of dZIP89B activity. We postulate that
+dZIP89B works in concert with the closely related dZIP42C.1 and 2 to ensure
+optimal zinc absorption under a range of dietary conditions.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+PMID: 26545796  [PubMed - in process]
+
+
+2. Biometals. 2015 Dec;28(6):967-74. doi: 10.1007/s10534-015-9881-5. Epub 2015 Sep
+28.
+
+Local and systemic effects of targeted zinc redistribution in Drosophila neuronal
+and gastrointestinal tissues.
+
+Richards CD(1), Burke R(2).
+
+Author information: 
+(1)School of Biological Sciences, Monash University, Wellington Rd., Clayton,
+VIC, 3800, Australia. (2)School of Biological Sciences, Monash University,
+Wellington Rd., Clayton, VIC, 3800, Australia. richard.burke@monash.edu.
+
+While the effects of systemic zinc ion deficiency and toxicity on animal health
+are well documented, the impacts of localized, tissue-specific disturbances in
+zinc homeostasis are less well understood. Previously we have identified zinc
+dyshomeostasis scenarios caused by the targeted manipulation of zinc transport
+genes in the Drosophila eye. Over expression of the uptake transporter dZIP42C.1 
+(dZIP1) combined with knockdown of the efflux transporter dZNT63C (dZNT1) causes 
+a zinc toxicity phenotype, as does over expression of dZIP71B or dZNT86D.
+However, all three genotypes result in different morphologies, responses to
+dietary zinc, and genetic interactions with the remaining zinc transport genes,
+indicating that each causes a different redistribution of zinc within affected
+cells. dZNT86D (eGFP) over expression generates a completely different phenotype,
+interpreted as a Golgi zinc deficiency. Here we assess the effect of each of
+these transgenes when targeted to a range of Drosophila tissues. We find that
+dZIP71B is a particularly potent zinc uptake gene, causing early developmental
+lethality when targeted to multiple different tissue types. dZNT86D over
+expression (Golgi-only zinc toxicity) is less deleterious, but causes highly
+penetrant adult cuticle, sensory bristle and wing expansion defects. The
+dZIP42C.1 over expression, dZNT63C knockdown combination causes only moderate
+adult cuticle defects and sensitivity to dietary zinc when expressed in the
+midgut. The Golgi-only zinc deficiency caused by dZNT86D (eGFP) expression
+results in mild cuticle defects, highly penetrant wing expansion defects and
+developmental lethality when targeted to the central nervous system and,
+uniquely, the fat bodies.
+
+PMID: 26411574  [PubMed - in process]
+
+
+3. PLoS Biol. 2015 Apr 10;13(4):e1002129. doi: 10.1371/journal.pbio.1002129.
+eCollection 2015.
+
+GSK3ß-Dzip1-Rab8 cascade regulates ciliogenesis after mitosis.
+
+Zhang B(1), Zhang T(1), Wang G(1), Wang G(1), Chi W(1), Jiang Q(1), Zhang C(1).
+
+Author information: 
+(1)The Key Laboratory of Cell Proliferation and Differentiation of the Ministry
+of Education and the State Key Laboratory of Biomembrane and Membrane
+Biotechnology, College of Life Sciences, Peking University, Beijing, China.
+
+The primary cilium, which disassembles before mitotic entry and reassembles after
+mitosis, organizes many signal transduction pathways that are crucial for cell
+life and individual development. However, how ciliogenesis is regulated during
+the cell cycle remains largely unknown. Here we show that GSK3ß, Dzip1, and Rab8 
+co-regulate ciliogenesis by promoting the assembly of the ciliary membrane after 
+mitosis. Immunofluorescence and super-resolution microscopy showed that Dzip1 was
+localized to the periciliary diffusion barrier and enriched at the mother
+centriole. Knockdown of Dzip1 by short hairpin RNAs led to failed ciliary
+localization of Rab8, and Rab8 accumulation at the basal body. Dzip1
+preferentially bound to Rab8GDP and promoted its dissociation from its inhibitor 
+GDI2 at the pericentriolar region, as demonstrated by sucrose gradient
+centrifugation of purified basal bodies, immunoprecipitation, and
+acceptor-bleaching fluorescence resonance energy transfer assays. By means of in 
+vitro phosphorylation, in vivo gel shift, phospho-peptide identification by mass 
+spectrometry, and GST pulldown assays, we demonstrated that Dzip1 was
+phosphorylated by GSK3ß at S520 in G0 phase, which increased its binding to GDI2 
+to promote the release of Rab8GDP at the cilium base. Moreover, ciliogenesis was 
+inhibited by overexpression of the GSK3ß-nonphosphorylatable Dzip1 mutant or by
+disabling of GSK3ß by specific inhibitors or knockout of GSK3ß in cells.
+Collectively, our data reveal a unique cascade consisting of GSK3ß, Dzip1, and
+Rab8 that regulates ciliogenesis after mitosis.
+
+PMCID: PMC4393111
+PMID: 25860027  [PubMed - indexed for MEDLINE]
+
+
+4. Int J Radiat Oncol Biol Phys. 2015 Mar 1;91(3):650-8. doi:
+10.1016/j.ijrobp.2014.11.013. Epub 2015 Jan 30.
+
+Epigenetic regulation of KLHL34 predictive of pathologic response to preoperative
+chemoradiation therapy in rectal cancer patients.
+
+Ha YJ(1), Kim CW(2), Roh SA(1), Cho DH(3), Park JL(4), Kim SY(4), Kim JH(5), Choi
+EK(6), Kim YS(7), Kim JC(8).
+
+Author information: 
+(1)Department of Surgery, University of Ulsan College of Medicine, Seoul, Korea; 
+Institute of Innovative Cancer Research and Asan Institute for Life Sciences,
+Asan Medical Center, Seoul, Korea. (2)Department of Surgery, University of Ulsan 
+College of Medicine, Seoul, Korea. (3)Institute of Innovative Cancer Research and
+Asan Institute for Life Sciences, Asan Medical Center, Seoul, Korea; Graduate
+School of East-West Medical Science, Kyung Hee University, Gyeonggi-do, Korea.
+(4)Medical Genomics Research Center, Korea Research Institute of Bioscience &
+Biotechnology, Daejeon, Korea. (5)Department of Radiation Oncology, University of
+Ulsan College of Medicine, Seoul, Korea. (6)Department of Radiation Oncology,
+University of Ulsan College of Medicine, Seoul, Korea; Institute of Innovative
+Cancer Research and Asan Institute for Life Sciences, Asan Medical Center, Seoul,
+Korea. (7)Medical Genomics Research Center, Korea Research Institute of
+Bioscience & Biotechnology, Daejeon, Korea; Institute of Innovative Cancer
+Research and Asan Institute for Life Sciences, Asan Medical Center, Seoul, Korea.
+Electronic address: yongsung@kribb.re.kr. (8)Department of Surgery, University of
+Ulsan College of Medicine, Seoul, Korea; Institute of Innovative Cancer Research 
+and Asan Institute for Life Sciences, Asan Medical Center, Seoul, Korea.
+Electronic address: jckim@amc.seoul.kr.
+
+PURPOSE: Prediction of individual responsiveness to preoperative chemoradiation
+therapy (CRT) is urgently needed in patients with poorly responsive locally
+advanced rectal cancer (LARC).
+METHODS AND MATERIALS: Candidate methylation genes associated with
+radiosensitivity were identified using a 3-step process. In the first step,
+genome-wide screening of methylation genes was performed in correlation with
+histopathologic tumor regression grade in 45 patients with LARC. In the second
+step, the methylation status of selected sites was analyzed by pyrosequencing in 
+67 LARC patients, including 24 patients analyzed in the first step. Finally,
+colorectal cancer cell clones with stable KLHL34 knockdown were generated and
+tested for cellular sensitivity to radiation.
+RESULTS: Genome-wide screening identified 7 hypermethylated CpG sites (DZIP1
+cg24107021, DZIP1 cg26886381, ZEB1 cg04430381, DKK3 cg041006961, STL cg00991794, 
+KLHL34 cg01828474, and ARHGAP6 cg07828380) associated with preoperative CRT
+responses. Radiosensitivity in patients with hypermethylated KLHL34 cg14232291
+was confirmed by pyrosequencing in additional cohorts. Knockdown of KLHL34
+significantly reduced colony formation (KLHL34 sh#1: 20.1%, P=.0001 and KLHL34
+sh#2: 15.8%, P=.0002), increased the cytotoxicity (KLHL34 sh#1: 14.8%, P=.019 and
+KLHL34 sh#2: 17.9%, P=.007) in LoVo cells, and increased radiation-induced
+caspase-3 activity and the sub-G1 population of cells.
+CONCLUSIONS: The methylation status of KLHL34 cg14232291 may be a predictive
+candidate of sensitivity to preoperative CRT, although further validation is
+needed in large cohorts using various cell types.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+PMID: 25680604  [PubMed - indexed for MEDLINE]
+
+
+5. Int J Biochem Cell Biol. 2015 Mar;60:23-33. doi: 10.1016/j.biocel.2014.12.017.
+Epub 2015 Jan 3.
+
+Compartmentalized zinc deficiency and toxicities caused by ZnT and Zip gene over 
+expression result in specific phenotypes in Drosophila.
+
+Dechen K(1), Richards CD(2), Lye JC(2), Hwang JE(2), Burke R(3).
+
+Author information: 
+(1)School of Biological Sciences, Monash University, Victoria, Australia.
+Electronic address: kesang.sherubtse@rub.edu.bt. (2)School of Biological
+Sciences, Monash University, Victoria, Australia. (3)School of Biological
+Sciences, Monash University, Victoria, Australia. Electronic address:
+richard.burke@monash.edu.
+
+Movement of zinc ions across cellular membranes is achieved mainly by two
+families of zinc transport genes encoding multi-transmembrane domain proteins.
+Members of the Zip family generally transport zinc into the cytosol, either from 
+outside the cell or from the lumen of subcellular organelles such as the
+endoplasmic reticulum, Golgi, endosomes or storage vacuoles. ZnT proteins move
+zinc in the opposite direction, resulting in efflux from the cell or uptake into 
+organelles. Zinc homeostasis at both the cellular and systemic level is achieved 
+by the coordinated action of numerous Zip and ZnT proteins, twenty-four in
+mammals and seventeen in the vinegar fly Drosophila melanogaster. Previously, we 
+have identified a zinc toxicity phenotype in the Drosophila eye, caused by
+targeted over expression of dZip42C.1 (dZip1) combined with knockdown of dZnT63C 
+(dZnT1). In general, this phenotype was rescued by increased zinc efflux or
+decreased uptake and was exacerbated by decreased efflux or increased uptake. Now
+we have identified three additional zinc dyshomeostasis phenotypes caused by over
+expression of dZnT86D, dZnT86D(eGFP) and dZip71B(FLAG). Genetic and dietary
+manipulation experiments showed that these three phenotypes all differ both from 
+each other and from our original zinc toxicity phenotype. Based on these data and
+the approximate subcellular localization of each zinc transport protein, we
+propose that each phenotype represents a different redistribution of zinc within 
+these cells, resulting in a Golgi zinc toxicity, a Golgi zinc deficiency and a
+combined Golgi/other organelle zinc toxicity respectively. We are able to group
+the remaining Drosophila Zip and ZnT genes into several functional categories
+based on their interaction with the three novel zinc dyshomeostasis phenotypes,
+allowing the role of each zinc transport protein to be defined in greater detail.
+This research highlights the differential effects that redistribution of zinc can
+have within a particular tissue and identifies the Golgi as being particularly
+sensitive to both excess and insufficient zinc.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+PMID: 25562517  [PubMed - indexed for MEDLINE]
+
+
+6. Dev Dyn. 2015 Feb;244(2):211-23. doi: 10.1002/dvdy.24237. Epub 2015 Jan 8.
+
+Comparative analysis of genes regulated by Dzip1/iguana and hedgehog in
+zebrafish.
+
+Arnold CR(1), Lamont RE, Walker JT, Spice PJ, Chan CK, Ho CY, Childs SJ.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology and Alberta Children's
+Hospital Research Institute, University of Calgary, Canada.
+
+BACKGROUND: The zebrafish genetic mutant iguana (igu) has defects in the ciliary 
+basal body protein Dzip1, causing improper cilia formation. Dzip1 also interacts 
+with the downstream transcriptional activators of Hedgehog (Hh), the Gli
+proteins, and Hh signaling is disrupted in igu mutants. Hh governs a wide range
+of developmental processes, including stabilizing developing blood vessels to
+prevent hemorrhage. Using igu mutant embryos and embryos treated with the Hh
+pathway antagonist cyclopamine, we conducted a microarray to determine genes
+involved in Hh signaling mediating vascular stability.
+RESULTS: We identified 40 genes with significantly altered expression in both igu
+mutants and cyclopamine-treated embryos. For a subset of these, we used in situ
+hybridization to determine localization during embryonic development and confirm 
+the expression changes seen on the array.
+CONCLUSIONS: Through comparing gene expression changes in a genetic model of
+vascular instability with a chemical inhibition of Hh signaling, we identified a 
+set of 40 differentially expressed genes with potential roles in vascular
+stabilization.
+
+© 2015 Wiley Periodicals, Inc.
+
+PMID: 25476803  [PubMed - indexed for MEDLINE]
+
+
+7. BMC Mol Biol. 2014 Jul 3;15:12. doi: 10.1186/1471-2199-15-12.
+
+Ribonomic analysis of human DZIP1 reveals its involvement in ribonucleoprotein
+complexes and stress granules.
+
+Shigunov P, Sotelo-Silveira J, Stimamiglio MA, Kuligovski C, Irigoín F, Badano
+JL, Munroe D, Correa A, Dallagiovanna B(1).
+
+Author information: 
+(1)Stem Cells Basic Biology Laboratory, Instituto Carlos Chagas, FIOCRUZ, Algacyr
+Munhoz Mader 3775, Curitiba 81350-010, Brazil. brunod@tecpar.br.
+
+BACKGROUND: DZIP1 (DAZ-interacting protein 1) has been described as a component
+of the Hh signaling pathway with a putative regulatory role in ciliogenesis.
+DZIP1 interacts with DAZ RNA binding proteins in embryonic stem cells and human
+germ cells suggesting a role in mRNA regulation.
+RESULTS: We investigated DZIP1 function in HeLa cells and its involvement in
+ribonucleoprotein complexes. DZIP1 was predominantly located in granules in the
+cytoplasm. Under oxidative stress conditions, DZIP1 re-localized to stress
+granules. DZIP appears to be important for the formation of stress granules
+during the stress response. We used immunoprecipitation assays with antibodies
+against DZIP1 and microarray hybridization to identify mRNAs associated with
+DZIP1. The genetic networks formed by the DZIP1-associated mRNAs were involved in
+cell cycle and gene expression regulation. DZIP1 is involved in the Hedgehog
+signaling pathway. We used cyclopamine, a specific inhibitor of this pathway, to 
+analyze the expression of DZIP1 and its associated mRNAs. The abundance of
+DZIP1-associated mRNAs increased with treatment; however, the silencing or
+overexpression of DZIP1 in HeLa cells had no effect on the accumulation of the
+associated mRNAs. Polysomal profile analysis by sucrose gradient centrifugation
+demonstrated the presence of DZIP1 in the polysomal fraction.
+CONCLUSIONS: Our results suggest that DZIP1 is part of an RNP complex that
+occupies various subcellular locations. The diversity of the mRNAs associated
+with DZIP1 suggests that this protein is a component of different RNPs associated
+with translating polysomes and with RNA granules.
+
+PMCID: PMC4091656
+PMID: 24993635  [PubMed - indexed for MEDLINE]
+
+
+8. J Biol Chem. 2013 Nov 8;288(45):32809-20. doi: 10.1074/jbc.M113.512962. Epub 2013
+Sep 26.
+
+Stabilization of speckle-type POZ protein (Spop) by Daz interacting protein 1
+(Dzip1) is essential for Gli turnover and the proper output of Hedgehog
+signaling.
+
+Schwend T(1), Jin Z, Jiang K, Mitchell BJ, Jia J, Yang J.
+
+Author information: 
+(1)From the Department of Comparative Biosciences, College of Veterinary
+Medicine, University of Illinois at Urbana-Champaign, Urbana, Illinois 61802.
+
+The Hedgehog (Hh) pathway is essential for embryonic development and adult tissue
+homeostasis. The Gli/Cubitus interruptus (Ci) family of transcription factors
+acts at the downstream end of the pathway to mediate Hh signaling. Both
+Hh-dependent and -independent Gli regulatory mechanisms are important for the
+output of Hh signaling. Daz interacting protein 1 (Dzip1) has bipartite positive 
+and negative functions in the Hh pathway. The positive Hh regulatory function
+appears to be attributed to a requirement for Dzip1 during ciliogenesis. The
+mechanism by which Dzip1 inhibits Hh signaling, however, remains largely unclear.
+We recently found that Dzip1 is required for Gli turnover, which may account for 
+its inhibitory function in Hh signaling. Here, we report that Dzip1 regulates
+Gli/Ci turnover by preventing degradation of speckle-type POZ protein (Spop), a
+protein that promotes proteasome-dependent turnover of Gli proteins. We provide
+evidence that Dzip1 regulates the stability of Spop independent of its function
+in ciliogenesis. Partial knockdown of Dzip1 to levels insufficient for perturbing
+ciliogenesis, sensitized Xenopus embryos to Hh signaling, leading to phenotypes
+that resemble activation of Hh signaling. Importantly, overexpression of Spop was
+able to restore proper Gli protein turnover and rescue phenotypes in
+Dzip1-depleted embryos. Consistently, depletion of Dzip1 in Drosophila S2 cells
+destabilized Hh-induced BTB protein (HIB), the Drosophila homolog of Spop, and
+increased the level of Ci. Thus, Dzip1-dependent stabilization of Spop/HIB is
+evolutionarily conserved and essential for proper regulation of Gli/Ci proteins
+in the Hh pathway.
+
+PMCID: PMC3820914
+PMID: 24072710  [PubMed - indexed for MEDLINE]
+
+
+9. BMC Biol. 2013 Sep 24;11:101. doi: 10.1186/1741-7007-11-101.
+
+Functional studies of Drosophila zinc transporters reveal the mechanism for
+dietary zinc absorption and regulation.
+
+Qin Q(1), Wang X, Zhou B.
+
+Author information: 
+(1)State Key Laboratory of Biomembrane and Membrane Biotechnology, School of Life
+Sciences, Tsinghua University, Beijing 100084, China.
+zhoubing@mail.tsinghua.edu.cn.
+
+BACKGROUND: Zinc is key to the function of many proteins, but the process of
+dietary zinc absorption is not well clarified. Current knowledge about dietary
+zinc absorption is fragmented, and mostly derives from incomplete mammalian
+studies. To gain a comprehensive picture of this process, we systematically
+characterized all zinc transporters (that is, the Zip and ZnT family members) for
+their possible roles in dietary zinc absorption in a genetically amenable model
+organism, Drosophila melanogaster.
+RESULTS: A set of plasma membrane-resident zinc transporters was identified to be
+responsible for absorbing zinc from the lumen into the enterocyte and the
+subsequent exit of zinc to the circulation. dZip1 and dZip2, two functionally
+overlapping zinc importers, are responsible for absorbing zinc from the lumen
+into the enterocyte. Exit of zinc to the circulation is mediated through another 
+two functionally overlapping zinc exporters, dZnT1, and its homolog CG5130
+(dZnT77C). Somewhat surprisingly, it appears that the array of intracellular ZnT 
+proteins, including the Golgi-resident dZnT7, is not directly involved in dietary
+zinc absorption. By modulating zinc status in different parts of the body, we
+found that regulation of dietary zinc absorption, in contrast to that of iron, is
+unresponsive to bodily needs or zinc status outside the gut. The zinc
+transporters that are involved in dietary zinc absorption, including the
+importers dZip1 and dZip2, and the exporter dZnT1, are respectively regulated at 
+the RNA and protein levels by zinc in the enterocyte.
+CONCLUSIONS: Our study using the model organism Drosophila thus starts to reveal 
+a comprehensive sketch of dietary zinc absorption and its regulatory control, a
+process that is still incompletely understood in mammalian organisms. The
+knowledge gained will act as a reference for future mammalian studies, and also
+enable an appreciation of this important process from an evolutionary
+perspective.
+
+PMCID: PMC4015762
+PMID: 24063361  [PubMed - indexed for MEDLINE]
+
+
+10. J Biol Chem. 2013 Oct 11;288(41):29518-29. doi: 10.1074/jbc.M113.492066. Epub
+2013 Aug 16.
+
+Centrosomal protein DZIP1 regulates Hedgehog signaling by promoting cytoplasmic
+retention of transcription factor GLI3 and affecting ciliogenesis.
+
+Wang C(1), Low WC, Liu A, Wang B.
+
+Author information: 
+(1)From the Departments of Genetic Medicine and.
+
+The primary cilium is required for Hedgehog signaling. So far, all known
+ciliogenic proteins regulate Hedgehog signaling through their role in
+ciliogenesis. Here we show that the mouse DZIP1 regulates Hedgehog signaling
+through two mechanisms. First, DZIP1 interacts with GLI3, a transcriptional
+regulator for Hedgehog signaling, and prevents GLI3 from entering the nucleus.
+Second, DZIP1 is required for ciliogenesis. We show that DZIP1 colocalizes and
+interacts with CEP164, a protein localizing at appendages of the mother
+centrioles, and IFT88, a component of the intraflagellar transport (IFT)
+machinery. Functionally, both CEP164 and Ninein appendage proteins fail to
+localize to ciliary appendages in Dzip1 mutant cells; IFT components are not
+recruited to the basal body of cilia. Importantly, the accumulation of GLI3 in
+the nucleus is independent of loss of primary cilia in Dzip1 mutant cells.
+Therefore, DZIP1 is the first known ciliogenic protein that regulates Hedgehog
+signaling through a dual mechanism and that biochemically links IFT machinery
+with Hedgehog pathway components.
+
+PMCID: PMC3795250
+PMID: 23955340  [PubMed - indexed for MEDLINE]
+
+
+11. Zhonghua Nan Ke Xue. 2012 May;18(5):466-71.
+
+[GTW-induced abnormal expressions of testicular reproduction-related genes and
+intervention with kidney-tonifying Chinese herbs].
+
+[Article in Chinese]
+
+Zhang XX(1), Huang D, Liu NN, Li J, Lin RY, Zhang XZ, Wu F, He LQ.
+
+Author information: 
+(1)Department of Nephrology/Shanghai Key Clinical Laboratory of Traditional
+Chinese Medicine/Shanghai Higher Education Innovation Group, Shanghai Shuguang
+Hospital Affiliated to Shanghai University of Traditional Chinese Medicine,
+Shanghai 200021, China. yinglianz@sohu.com
+
+OBJECTIVE: To explore the abnormal expressions of testicular reproduction-related
+genes induced by glycosides of Tripterygium wilfordii (GTW) and the intervention 
+with kidney-tonifying Chinese herbs.
+METHODS: Adult Balb/C male mice were fed on GTW at 30 mg per kg per d for 3 weeks
+to establish a model of reproductive dysfunction. The model mice were divided
+into different groups to receive intragastrical administration of saline (0.25
+ml/d), GTW (30 mg per kg per d), Cistanche (10 g per kg per d), Rehmannia (10 g
+per kg per d), and Rehmannia + Cistanche (20 g per kg per d), respectively, once 
+a day for 3 weeks. And a Cistanches pretreatment group was treated with GTW (30
+mg per kg per d) and Cistanche (10 g per kg per d) for the same length of time.
+Then we detected the changed expressions of testicular reproduction-related genes
+Dzip1, Fas, c-jun and Wnt4 in each group.
+RESULTS: The model mice showed an obviously down-regulated expression of the Y
+chromosome microdeletion-related gene Dzip1, and up-regulated expressions of the 
+germ cell apoptosis-related gene Fas, proto-oncogene c-jun, and signal
+transduction-related gene Wnt4. Intervention with Chinese herbs achieved
+different degrees of improvement of the mice's reproductivity, and the most
+obvious efficacy was observed with the combined use of kidney-yang tonifying
+Cistanche and kidney-yin nourishing Rehmannia.
+CONCLUSION: GTW exerts significant impact on reproduction-related genes. Both the
+kidney-yang tonifying drug Cistanche and kidney-yin nourishing drug Rehmannia can
+counteract some of the reproductive toxicity of GTW, while the combination of the
+two can further enhance the effect.
+
+PMID: 22741448  [PubMed - indexed for MEDLINE]
+
+
+12. PLoS Genet. 2012;8(4):e1002683. doi: 10.1371/journal.pgen.1002683. Epub 2012 Apr 
+26.
+
+Genetic inhibition of solute-linked carrier 39 family transporter 1 ameliorates
+aß pathology in a Drosophila model of Alzheimer's disease.
+
+Lang M(1), Wang L, Fan Q, Xiao G, Wang X, Zhong Y, Zhou B.
+
+Author information: 
+(1)State Key Laboratory of Biomembrane and Membrane Biotechnology, School of Life
+Sciences, Tsinghua University, Beijing, China. mail: langminglin@tsinghua.org
+
+The aggregation or oligomerization of amyloid-ß (Aß) peptide is thought to be the
+primary causative event in the pathogenesis of Alzheimer's disease (AD).
+Considerable in vitro evidence indicates that the aggregation/oligomerization of 
+Aß is promoted in the presence of Zn; however, the functional role of Zn in AD
+pathogenesis is still not well clarified in vivo. Zn is imported into the brain
+mainly through the solute-linked carrier (Slc) 39 family transporters. Using a
+genetically tractable Drosophila model, we found that the expression of dZip1,
+the orthologue of human Slc39 family transporter hZip1 in Drosophila, was altered
+in the brains of Aß42-expressing flies, and Zn homeostasis could be modulated by 
+forcible dZip1 expression changes. An array of phenotypes associated with Aß
+expression could be modified by altering dZip1 expression. Importantly, Aß42
+fibril deposits as well as its SDS-soluble form were dramatically reduced upon
+dZip1 inhibition, resulting in less neurodegeneration, significantly improved
+cognitive performance, and prolonged lifespan of the Aß42-transgenic flies. These
+findings suggest that zinc contributes significantly to the Aß pathology, and
+manipulation of zinc transporters in AD brains may provide a novel therapeutic
+strategy.
+
+PMCID: PMC3343105
+PMID: 22570624  [PubMed - indexed for MEDLINE]
+
+
+13. Cancer Lett. 2012 Sep 28;322(2):204-12. doi: 10.1016/j.canlet.2012.03.016. Epub
+2012 Mar 17.
+
+Development of a novel approach, the epigenome-based outlier approach, to
+identify tumor-suppressor genes silenced by aberrant DNA methylation.
+
+Kikuyama M(1), Takeshima H, Kinoshita T, Okochi-Takada E, Wakabayashi M,
+Akashi-Tanaka S, Ogawa T, Seto Y, Ushijima T.
+
+Author information: 
+(1)Division of Epigenomics, National Cancer Center Research Institute, Tsukiji,
+Chuo-ku, Tokyo, Japan.
+
+Identification of tumor-suppressor genes (TSGs) silenced by aberrant methylation 
+of promoter CpG islands (CGIs) is important, but hampered by a large number of
+genes methylated as passengers of carcinogenesis. To overcome this issue, we here
+took advantage of the fact that the vast majority of genes methylated in cancers 
+lack, in normal cells, RNA polymerase II (Pol II) and have trimethylation of
+histone H3 lysine 27 (H3K27me3) in their promoter CGIs. First, we demonstrated
+that three of six known TSGs in breast cancer and two of three in colon cancer
+had Pol II and lacked H3K27me3 in normal cells, being outliers to the general
+rule. BRCA1, HOXA5, MLH1, and RASSF1A had high Pol II, but were expressed only at
+low levels in normal cells, and were unlikely to be identified as outliers by
+their expression statuses in normal cells. Then, using epigenome statuses (Pol II
+binding and H3K27me3) in normal cells, we made a genome-wide search for outliers 
+in breast cancers, and identified 14 outlier promoter CGIs. Among these, DZIP1,
+FBN2, HOXA5, and HOXC9 were confirmed to be methylated in primary breast cancer
+samples. Knockdown of DZIP1 in breast cancer cell lines led to increases of their
+growth, suggesting it to be a novel TSG. The outliers based on their epigenome
+statuses contained unique TSGs, including DZIP1, compared with those identified
+by the expression microarray data. These results showed that the epigenome-based 
+outlier approach is capable of identifying a different set of TSGs, compared to
+the expression-based outlier approach.
+
+Copyright © 2012 Elsevier Ireland Ltd. All rights reserved.
+
+PMID: 22433712  [PubMed - indexed for MEDLINE]
+
+
+14. Sci Rep. 2012;2:256. doi: 10.1038/srep00256. Epub 2012 Feb 10.
+
+Rare coding SNP in DZIP1 gene associated with late-onset sporadic Parkinson's
+disease.
+
+Valente AX, Shin JH, Sarkar A, Gao Y.
+
+An association between a rare, coding, non-synonymous SNP variant in the gene
+DZIP1 and Parkinson's disease was found, based on an analysis of the existing
+NGRC genome-wide association study dataset. The statistical analysis utilized the
+hypothesis-rich, targeted search unbiased assessment approach, rather than the
+hypothesis-free, genome-wide agnostic search paradigm. The association of DZIP1
+with Parkinson's disease is discussed in the context of a Parkinson's disease
+stem-cell ageing theory.
+
+PMCID: PMC3277088
+PMID: 22355768  [PubMed]
+
+
+15. J Biol Chem. 2011 Oct 21;286(42):36171-9. doi: 10.1074/jbc.M111.274761. Epub 2011
+Aug 30.
+
+The antagonistic action of B56-containing protein phosphatase 2As and casein
+kinase 2 controls the phosphorylation and Gli turnover function of Daz
+interacting protein 1.
+
+Jin Z(1), Mei W, Strack S, Jia J, Yang J.
+
+Author information: 
+(1)The Research Institute at Nationwide Children's Hospital, Department of
+Pediatrics, the Ohio State University, Columbus, Ohio 43205, USA.
+
+The Hedgehog (Hh) pathway is evolutionarily conserved and plays critical roles
+during embryonic development and adult tissue homeostasis. Defective Hh signaling
+has been linked to a wide range of birth defects and cancers. Hh family proteins 
+regulate the expression of their downstream target genes through the control of
+proteolytic processing and the transcriptional activation function of Gli
+transcription factors. Although Hh-dependent regulation of Gli has been studied
+extensively, other Gli regulatory mechanisms remain relatively unappreciated.
+Here we report our identification of a novel signaling cascade that controls the 
+stability of Gli proteins. This cascade consists of Daz interacting protein 1
+(Dzip1), casein kinase 2 (CK2), and B56 containing protein phosphatase 2As
+(PP2As). We provide evidence that Dzip1 is involved in a novel Gli turnover
+pathway. We show that CK2 directly phosphorylates Dzip1 at four serine residues, 
+Ser-664/665/706/714. B56-containing PP2As, through binding to a domain located
+between amino acid residue 474 and 550 of Dzip1, dephosphorylate Dzip1 on these
+CK2 sites. Our mutagenesis analysis further demonstrates that the
+unphosphorylatable form of Dzip1 is more potent in promoting Gli turnover.
+Consistently, we found that the stability of Gli proteins was decreased upon CK2 
+inhibition and increased by inhibition of B56-containing PP2As. Thus, reversible 
+phosphorylation of Dzip1, which is controlled by the antagonistic action of CK2
+and B56-containing PP2As, has an important impact on the stability of Gli
+transcription factors and Hh signaling.
+
+PMCID: PMC3196143
+PMID: 21878643  [PubMed - indexed for MEDLINE]
+
+
+16. BMC Biol. 2010 Apr 19;8:65. doi: 10.1186/1741-7007-8-65.
+
+Gli2a protein localization reveals a role for Iguana/DZIP1 in primary
+ciliogenesis and a dependence of Hedgehog signal transduction on primary cilia in
+the zebrafish.
+
+Kim HR(1), Richardson J, van Eeden F, Ingham PW.
+
+Author information: 
+(1)MRC Centre for Developmental & Biomedical Genetics, University of Sheffield,
+Sheffield S10 2TN, UK.
+
+Comment in
+    BMC Biol. 2010;8:102.
+
+BACKGROUND: In mammalian cells, the integrity of the primary cilium is critical
+for proper regulation of the Hedgehog (Hh) signal transduction pathway. Whether
+or not this dependence on the primary cilium is a universal feature of vertebrate
+Hedgehog signalling has remained contentious due, in part, to the apparent
+divergence of the intracellular transduction pathway between mammals and teleost 
+fish.
+RESULTS: Here, using a functional Gli2-GFP fusion protein, we show that, as in
+mammals, the Gli2 transcription factor localizes to the primary cilia of cells in
+the zebrafish embryo and that this localization is modulated by the activity of
+the Hh pathway. Moreover, we show that the Igu/DZIP1protein, previously
+implicated in the modulation of Gli activity in zebrafish, also localizes to the 
+primary cilium and is required for its proper formation.
+CONCLUSION: Our findings demonstrate a conserved role of the primary cilium in
+mediating Hedgehog signalling activity across the vertebrate phylum and validate 
+the use of the zebrafish as a representative model for the in vivo analysis of
+vertebrate Hedgehog signalling.
+
+PMCID: PMC2890509
+PMID: 20487519  [PubMed - indexed for MEDLINE]
+
+
+17. Mech Dev. 2010 Apr;127(3-4):159-68. doi: 10.1016/j.mod.2010.02.001. Epub 2010 Feb
+13.
+
+Hedgehog signaling via angiopoietin1 is required for developmental vascular
+stability.
+
+Lamont RE(1), Vu W, Carter AD, Serluca FC, MacRae CA, Childs SJ.
+
+Author information: 
+(1)Biochemistry and Molecular Biology, University of Calgary, 3330 Hospital Dr
+NW, Calgary, AB, Canada T2N 4N1.
+
+The molecular pathways by which newly formed, immature endothelial cell tubes
+remodel to form a mature network of vessels supported by perivascular mural cells
+are not well understood. The zebrafish iguana (igu) genetic mutant has a mutation
+in the daz-interacting protein 1 (dzip1), a member of the hedgehog signaling
+pathway. Loss of dzip1 results in decreased size of the cranial dorsal aortae,
+ultrastructural defects in perivascular mural cell recruitment and subsequent
+hemorrhage. Although hedgehog signaling is disrupted in igu mutants, we find no
+defects in vessel patterning or artery-vein specification. Rather, we show that
+the loss of angiopoietin1 (angpt1) expression in ventral perivascular mesenchyme 
+is responsible for vascular instability in igu mutants. Over-expression of angpt1
+or partial down-regulation of the endogenous Angpt1 antagonist angpt2 rescues
+hemorrhage. This is the first direct in vivo link between hedgehog signaling and 
+the induction of vascular stability by recruitment of perivascular mural cells
+through angiopoietin signaling.
+
+Copyright 2010 Elsevier Ireland Ltd. All rights reserved.
+
+PMID: 20156556  [PubMed - indexed for MEDLINE]
+
+
+18. Dev Dyn. 2010 Feb;239(2):527-34. doi: 10.1002/dvdy.22199.
+
+The iguana/DZIP1 protein is a novel component of the ciliogenic pathway essential
+for axonemal biogenesis.
+
+Tay SY(1), Yu X, Wong KN, Panse P, Ng CP, Roy S.
+
+Author information: 
+(1)Institute of Molecular and Cell Biology, Cancer and Developmental Cell Biology
+Division, Proteos, Singapore.
+
+Cilia play important roles in many developmental and physiological processes.
+However, the genetic and cell biological control of ciliogenesis remains poorly
+understood. Here, we show that the zebrafish iguana gene is required for
+differentiation of primary cilia. iguana encodes a zinc finger and coiled-coil
+containing protein, previously implicated in Hedgehog signaling. We now argue
+that aberrant Hedgehog activity in iguana -deficient zebrafish arises from their 
+profound lack of primary cilia. By contrast, the requirement of iguana for motile
+cilia formation is less obligatory. In the absence of iguana function, basal
+bodies can migrate to the cell surface and appear to engage with the apical
+membrane. However, formation of ciliary pits and axonemal outgrowth is completely
+inhibited. Iguana localizes to the base of primary and motile cilia, in the
+immediate vicinity or closely associated with the basal bodies. These findings
+identify the Iguana protein as a novel and critical component of ciliogenesis.
+
+PMID: 20014402  [PubMed - indexed for MEDLINE]
+
+
+19. Dev Biol. 2010 Jan 1;337(1):148-56. doi: 10.1016/j.ydbio.2009.10.025. Epub 2009
+Oct 21.
+
+The Zn finger protein Iguana impacts Hedgehog signaling by promoting
+ciliogenesis.
+
+Glazer AM(1), Wilkinson AW, Backer CB, Lapan SW, Gutzman JH, Cheeseman IM,
+Reddien PW.
+
+Author information: 
+(1)Whitehead Institute for Biomedical Research, 9 Cambridge Center, Cambridge, MA
+02142, USA.
+
+Hedgehog signaling is critical for metazoan development and requires cilia for
+pathway activity. The gene iguana was discovered in zebrafish as required for
+Hedgehog signaling, and encodes a novel Zn finger protein. Planarians are
+flatworms with robust regenerative capacities and utilize epidermal cilia for
+locomotion. RNA interference of Smed-iguana in the planarian Schmidtea
+mediterranea caused cilia loss and failure to regenerate new cilia, but did not
+cause defects similar to those observed in hedgehog(RNAi) animals. Smed-iguana
+gene expression was also similar in pattern to the expression of multiple other
+ciliogenesis genes, but was not required for expression of these ciliogenesis
+genes. iguana-defective zebrafish had too few motile cilia in pronephric ducts
+and in Kupffer's vesicle. Kupffer's vesicle promotes left-right asymmetry and
+iguana mutant embryos had left-right asymmetry defects. Finally, human Iguana
+proteins (dZIP1 and dZIP1L) localize to the basal bodies of primary cilia and,
+together, are required for primary cilia formation. Our results indicate that a
+critical and broadly conserved function for Iguana is in ciliogenesis and that
+this function has come to be required for Hedgehog signaling in vertebrates.
+
+PMCID: PMC2799895
+PMID: 19852954  [PubMed - indexed for MEDLINE]
+
+
+20. Gene Expr Patterns. 2009 Sep;9(6):391-6. doi: 10.1016/j.gep.2009.06.006. Epub
+2009 Jun 21.
+
+Expression of zebrafish hip: response to Hedgehog signalling, comparison with
+ptc1 expression, and possible role in otic patterning.
+
+Hammond KL(1), Whitfield TT.
+
+Author information: 
+(1)MRC Centre for Developmental and Biomedical Genetics and Department of
+Biomedical Science, University of Sheffield, SHEFFIELD, S10 2TN, UK.
+
+In zebrafish, Hedgehog (Hh) signalling is required to specify posterior otic
+identity. This presents a conundrum, as the nearest source of Hh to the
+developing inner ear is the ventral midline, in the notochord and floorplate. How
+can a source of Hh that is ostensibly constant with respect to the
+anteroposterior axis of the otic vesicle specify posterior otic identity? One
+possibility is that localised inhibition of Hh signalling is involved. Here we
+show that genes coding for three inhibitors of Hh signalling, su(fu), dzip1 and
+hip, are expressed in and around the developing otic vesicle. su(fu) and dzip1
+are ubiquitously expressed and unaffected by Hh levels. The expression of hip,
+however, is positively regulated by Hh signalling and has a complex, dynamic
+pattern. It is detectable in the neural tube, otic vesicle, statoacoustic
+ganglion, brain, fin buds, mouth, somites, pronephros and branchial arches. These
+expression domains bear some similarity, but are not identical, to those of ptc1,
+a Hh receptor gene that is also positively regulated by Hh signalling. In the
+neural tube, for instance, hip is expressed in a subset of the ptc1 expression
+domain, while in other regions, including the otic vesicle, hip and ptc1
+expression domains differ. Significantly, we find that initial expression of hip 
+is higher in and adjacent to anterior otic regions, while ptc1 expression becomes
+progressively restricted to the posterior of the ear. Hip-mediated inhibition of 
+Hh signalling may therefore be important in restricting the effects of Hh to
+posterior regions of the developing inner ear.
+
+PMID: 19540935  [PubMed]
+
+
+21. Genesis. 2008 Mar;46(3):177-83. doi: 10.1002/dvg.20380.
+
+Regulation and function of foxe3 during early zebrafish development.
+
+Swindell EC(1), Zilinski CA, Hashimoto R, Shah R, Lane ME, Jamrich M.
+
+Author information: 
+(1)Department of Molecular and Cellular Biology, Baylor College of Medicine,
+Houston, Texas 77030, USA.
+
+In this article, we investigate the expression, regulation, and function of the
+zebrafish forkhead gene foxe3. In wild type embryos, foxe3 is first expressed in 
+a crescent-shaped area at the anterior end of the prechordal plate, corresponding
+to the polster. At later stages, the hatching gland, the lens, and the anterior
+pituitary express this gene. Using morpholinos against the zinc finger
+Kruppel-like factor 4 (KLF4) we show that foxe3 is regulated differently in the
+polster and in the lens. In the absence of KLF4, expression of foxe3 in the
+polster is not activated, whereas in the lens placode the expression of KLF4 is
+not required for the transcription of foxe3. The expression of foxe3 is also
+regulated by the hedgehog and nodal signaling pathways. foxe3 expression is
+altered in the hedgehog pathway mutants iguana and you-too and the nodal pathway 
+mutant cyclops. foxe3 function is necessary for the execution of lens-specific
+gene expression and lens morphogenesis, as the knockdown of foxe3 results in a
+loss of platelet-derived growth factor receptor alpha (pdgfralpha) expression and
+in the vacuolization of the lens.
+
+(c) 2008 Wiley-Liss, Inc.
+
+PMID: 18327772  [PubMed - indexed for MEDLINE]
+
+
+22. Int J Mol Med. 2006 Dec;18(6):1019-23.
+
+Hedgehog signaling pathway and gastrointestinal stem cell signaling network
+(review).
+
+Katoh Y(1), Katoh M.
+
+Author information: 
+(1)M&M Medical BioInformatics, Hongo 113-0033, Tokyo 104-0045, Japan.
+
+Hedgehog, BMP/TGFbeta, FGF, WNT and Notch signaling pathways constitute the stem 
+cell signaling network, which plays a key role in a variety of processes, such as
+embryogenesis, maintenance of adult tissue homeostasis, tissue repair during
+chronic persistent inflammation, and carcinogenesis. Sonic hedgehog (SHH), Indian
+hedgehog (IHH) and Desert hedgehog (DHH) bind to PTCH1/PTCH or PTCH2 receptor to 
+release Smoothened (SMO) signal transducer from Patched-dependent suppression.
+SMO then activates STK36 serine/threonine kinase to stabilize GLI family members 
+and to phosphorylate SUFU for nuclear accumulation of GLI. Hedgehog signaling
+activation leads to GLI-dependent transcriptional activation of target genes,
+such as GLI1, PTCH1, CCND2, FOXL1, JAG2 and SFRP1. GLI1-dependent positive
+feedback loop combined with PTCH1-dependent negative feedback loop gives rise to 
+transient proliferation of Hedgehog target cells. Iguana homologs (DZIP1 and
+DZIP1L) and Costal-2 homologs (KIF7 and KIF27) are identified by comparative
+integromics. SHH-dependent parietal cell proliferation is implicated in gastric
+mucosal repair during chronic Helicobacter pylori infection. BMP-RUNX3 signaling 
+induces IHH expression in surface differentiated epithelial cells of stomach and 
+intestine. Hedgehog signals from epithelial cells then induces FOXL1-mediated
+BMP4 upregulation in mesenchymal cells. Hedgehog signaling is frequently
+activated in esophageal cancer, gastric cancer and pancreatic cancer due to
+transcriptional upregulation of Hedgehog ligands and epigenetic silencing of
+HHIP1/HHIP gene, encoding the Hedgehog inhibitor. However, Hedgehog signaling is 
+rarely activated in colorectal cancer due to negative regulation by the canonical
+WNT signaling pathway. Hedgehog signaling molecules or targets, such as SHH, IHH,
+HHIP1, PTCH1 and GLI1, are applied as biomarkers for cancer diagnostics,
+prognostics and therapeutics. Small-molecule inhibitors for SMO or STK36 are
+suitable to be used for treatment of Hedgehog-dependent cancer.
+
+PMID: 17089004  [PubMed - indexed for MEDLINE]
+
+
+23. BMC Dev Biol. 2006 Oct 30;6:50.
+
+Differential regulation of the zebrafish orthopedia 1 gene during fate
+determination of diencephalic neurons.
+
+Del Giacco L(1), Sordino P, Pistocchi A, Andreakis N, Tarallo R, Di Benedetto B, 
+Cotelli F.
+
+Author information: 
+(1)Department of Biology, Università degli Studi di Milano, Via Celoria 26,
+Milano, 20133, Italy. luca.delgiacco@unimi.it
+
+BACKGROUND: The homeodomain transcription factor Orthopedia (Otp) is essential in
+restricting the fate of multiple classes of secreting neurons in the
+neuroendocrine hypothalamus of vertebrates. However, there is little information 
+on the intercellular factors that regulate Otp expression during development.
+RESULTS: Here, we identified two otp orthologues in zebrafish (otp1 and otp2) and
+explored otp1 in the context of the morphogenetic pathways that specify
+neuroectodermal regions. During forebrain development, otp1 is expressed in
+anterior groups of diencephalic cells, positioned in the preoptic area (PO)
+(anterior alar plate) and the posterior tuberculum (PT) (posterior basal plate). 
+The latter structure is characterized by Tyrosine Hydroxylase (TH)-positive
+cells, suggesting a role for otp1 in the lineage restriction of catecholaminergic
+(CA) neurons. Disruptions of Hedgehog (HH) and Fibroblast Growth Factor (FGF)
+pathways point to the ability of SHH protein to trigger otp1 expression in PO
+presumptive neuroblasts, with the attenuating effect of Dzip1 and FGF8. In
+addition, our data disclose otp1 as a determinant of CA neurons in the PT, where 
+otp1 activity is strictly dependent on Nodal signaling and it is not responsive
+to SHH and FGF.
+CONCLUSION: In this study, we pinpoint the evolutionary importance of otp1
+transcription factor in cell states of the diencephalon anlage and early neuronal
+progenitors. Furthermore, our data indicate that morphogenetic mechanisms
+differentially regulate otp1 expression in alar and basal plates.
+
+PMCID: PMC1635040
+PMID: 17074092  [PubMed - indexed for MEDLINE]
+
+
+24. Dev Biol. 2006 Sep 1;297(1):1-13. Epub 2006 Jul 12.
+
+A screen for mutations in zebrafish that affect myelin gene expression in Schwann
+cells and oligodendrocytes.
+
+Kazakova N(1), Li H, Mora A, Jessen KR, Mirsky R, Richardson WD, Smith HK.
+
+Author information: 
+(1)Department of Anatomy and Developmental Biology, University College London,
+Gower Street, London WC1E 6BT, UK.
+
+Myelin is the multi-layered glial sheath around axons in the vertebrate nervous
+system. Myelinating glia develop and function in intimate association with
+neurons and neuron-glial interactions control much of the life history of these
+cells. However, many of the factors that regulate key aspects of myelin
+development and maintenance remain unknown. To discover new molecules that are
+important for glial development and myelination, we undertook a screen of
+zebrafish mutants with previously characterized neural defects. We screened for
+myelin basic protein (mbp) mRNA by in situ hybridization and identified four
+mutants (neckless, motionless, iguana and doc) that lacked mbp expression in
+parts of the peripheral and central nervous systems (PNS or CNS), despite the
+presence of axons. In all four mutants electron microscopy revealed that
+myelin-forming glia were present and had formed loose wraps around axons but did 
+not form compact myelin. We found that addition of exogenous retinoic acid (RA)
+rescued mbp expression in neckless mutant embryos, which lack endogenous RA
+synthesis. Timed application of the RA synthesis inhibitor DEAB to wild type
+embryos showed that RA signalling is required at least 48 h before the onset of
+myelin protein synthesis in both CNS and PNS.
+
+PMID: 16839543  [PubMed - indexed for MEDLINE]
+
+
+25. Genomics. 2006 Feb;87(2):275-85. Epub 2005 Dec 20.
+
+Characterization of structure and expression of the Dzip1 gene in the rat and
+mouse.
+
+Curry BJ(1), Holt JE, McLaughlin EA, Aitken RJ.
+
+Author information: 
+(1)Reproductive Science Group, Discipline of Biological Science, School of
+Environmental and Life Sciences, University of Newcastle, Callaghan, NSW 2308,
+Australia.
+
+A transcript encoding a rat homologue of DZIP1 (DAZ-interacting protein) was
+isolated from testis RNA. Like human DZIP1, it contains a C(2)H(2) zinc finger
+domain. A predicted mouse homologue of DZIP1 was found in the GenBank database.
+Genome analysis indicated that while DZIP1 and mouse Dzip1 contain 22 and 20
+exons, respectively, the rat sequence was intronless, confirmed by PCR on genomic
+DNA. This rat Dzip1 sequence is homologous to mouse Dzip1 exons 1-6 and DZIP1
+exons 5-9. As this rat sequence was shorter than DZIP1 it was designated rat
+Dzip1S. The rat genome also contained a further predicted homologue of DZIP1
+displaying conserved linkage homology with mouse Dzip1 and DZIP1. This sequence, 
+if expressed, is the true rat homologue of DZIP1, designated rat Dzip1. Rat
+Dzip1S mRNA was present in all tissues examined by qualitative RT-RCR, and in
+situ hybridization of rat testis confirmed that expression of rat Dzip1S mRNA was
+confined to the spermatogenic lineage, specifically premeiotic spermatogonia.
+
+PMID: 16368222  [PubMed - indexed for MEDLINE]
+
+
+26. Int J Mol Med. 2006 Jan;17(1):171-5.
+
+WNT antagonist, SFRP1, is Hedgehog signaling target.
+
+Katoh Y(1), Katoh M.
+
+Author information: 
+(1)M and M Medical BioInformatics, Hongo 113-0033, Japan.
+
+Hedgehog and WNT signaling pathways network together during embryogenesis and
+carcinogenesis. Hedgehog signaling in intestinal epithelium represses canonical
+WNT signaling to restrict expression of WNT target genes to stem or progenitor
+cells; however, the mechanism remains unclear. The Hedgehog signal is transduced 
+to GLI family transcription factors though Patched receptor, Smoothened signal
+transducer, and other signaling components, such as KIF27, KIF7, STK36, SUFU, and
+DZIP1. Here, we searched for the GLI-binding site within the promoter region of
+genes encoding secreted-type WNT signal inhibitors, including SFRP1, SFRP2,
+SFRP3, SFRP4, SFRP5, DKK1, DKK2, DKK3, DKK4, and WIF1. The GLI-binding site was
+identified within the human SFRP1 promoter based on bioinformatics and human
+intelligence. The chimpanzee SFRP1 gene was identified within the NW_110515.1
+genome sequence. The GLI-binding site of the human SFRP1 promoter was conserved
+in chimpanzee SFRP1, mouse Sfrp1, and rat Sfrp1 promoters. SFRP1 is the
+evolutionarily conserved target of the Hedgehog-GLI signaling pathway. Expression
+domain analyses based on text mining revealed that Indian Hedgehog (IHH), SFRP1, 
+and WNT6 are expressed in differentiated intestinal epithelial cells, mesenchymal
+cells, and stem/progenitor cells, respectively. Hedgehog is secreted from
+differentiated epithelial cells to induce SFRP1 expression in mesenchymal cells, 
+which keeps differentiated epithelial cells away from the effects of canonical
+WNT signaling. These facts indicate that SFRP1 is the Hedgehog target to confine 
+canonical WNT signaling within stem or progenitor cells. Therefore, epigenetic
+CpG hypermethylation of the SFRP1 promoter during chronic persistent inflammation
+and aging leads to the occurrence of gastrointestinal cancers, such as colorectal
+cancer and gastric cancer, through the breakdown of Hedgehog-dependent WNT signal
+inhibition.
+
+PMID: 16328026  [PubMed - indexed for MEDLINE]
+
+
+27. Cancer Biol Ther. 2005 Oct;4(10):1050-4. Epub 2005 Oct 18.
+
+Hedgehog signaling pathway and gastric cancer.
+
+Katoh Y(1), Katoh M.
+
+Author information: 
+(1)M & M Medical BioInformatics, Hongo, Japan.
+
+Hedgehog, WNT, FGF and BMP signaling pathways network together during
+embryogenesis, tissue regeneration, and carcinogenesis. Aberrant activation of
+Hedgehog signaling pathway leads to pathological consequences in a variety of
+human tumors, such as gastric cancer and pancreatic cancer. Endoscopic mucosal
+resection (EMR), endoscopic submucosal dissection (ESD), surgical gastrectomy and
+chemotherapy are therapeutic options for gastric cancer; however, prognosis of
+advanced gastric cancer patient is still poor. Here, Hedgehog signaling pathway
+in human gastric cancer and its clinical applications will be reviewed. Human
+SHH, IHH, DHH (Hedgehog homologs), HHAT (Hedgehog acyltransferase), HHIP
+(Hedgehog-interacting protein), DISP1, DISP2, DISP3 (Dispatched homologs), PTCH1,
+PTCH2 (Patched homologs), SMO (Smoothened homolog), KIF27, KIF7 (Costal-2
+homologs), STK36 (Fused homolog), SUFU (SuFu homolog), DZIP1 (Iguana homolog),
+GLI1, GLI2 and GLI3 (Cubitus interruptus homologs) are implicated in the Hedgehog
+signaling. PTCH1, FOXM1 and CCND2 are direct transcriptional targets of Hedgehog 
+signaling. Hedgehog signaling activation leads to cell proliferation through cell
+cycle regulation. SHH regulates growth and differentiation within gastric mucosa 
+through autocrine loop and FOXL1-mediated epithelial-mesenchymal interaction. SHH
+is implicated in stem/progenitor cell restitution of damaged gastric mucosa
+during chronic infection with Helicobacter pylori. SHH up-regulation, IHH
+upregulation and HHIP down-regulation lead to aberrant activation of Hedgehog
+signaling through PTCH1 to GLI1 in gastric cancer. Small molecule compounds
+targeted to SMO (KADD-cyclopamine, SANT1-4, Cur61414) as well as humanized
+anti-SHH antibodies are potent anti-cancer drugs for gastric cancer. Cocktail of 
+Hedgehog inhibitors would be developed as novel therapeutics for gastric cancer. 
+Single nucleotide polymorphism (SNP) and copy number polymorphism (CNP) of
+Hedgehog signaling genes would be utilized for genetic screening of gastric
+cancer, while cDNA-PCR, microarray and ELISA detecting aberrant Hedgehog
+signaling activation would be utilized for therapeutic optional choice. Genetic
+screening and precise selection of therapeutic options would contribute to the
+realization of personalized medicine.
+
+PMID: 16258256  [PubMed - indexed for MEDLINE]
+
+
+28. Dev Biol. 2005 Dec 1;288(1):206-20. Epub 2005 Oct 21.
+
+Differential susceptibility of midbrain and spinal cord patterning to floor plate
+defects in the talpid2 mutant.
+
+Agarwala S(1), Aglyamova GV, Marma AK, Fallon JF, Ragsdale CW.
+
+Author information: 
+(1)Section of Neurobiology, University of Texas at Austin, Austin, TX 78712-0248,
+USA. agarwala@mail.utexas.edu
+
+The chick talpid2 mutant displays polydactylous digits attributed to defects of
+the Hedgehog (HH) signaling pathway. We examined the talpid2 neural tube and show
+that patterning defects in the spinal cord and the midbrain are distinct from
+each other and from the limb. Unlike the Sonic Hedgehog (SHH) source in the limb,
+the SHH-rich floor plate (FP) is reduced in the talpid2 midbrain. This is
+accompanied by a severe depletion of medial cell populations that encounter high 
+concentrations of SHH, an expansion of lateral cell populations that experience
+low concentrations of SHH and a broad deregulation of HH's principal effectors
+(PTC1, GLI1, GLI2, GLI3). Together with the failure of SHH misexpression to
+rescue the talpid2 phenotype, these results suggest that talpid2 is likely to
+have a tissue-autonomous, bidirectional (positive and negative) role in HH
+signaling that cannot be attributed to the altered expression of several newly
+cloned HH pathway genes (SUFU, DZIP1, DISP1, BTRC). Strikingly, FP defects in the
+spinal cord are accompanied by relatively normal patterning in the talpid2
+mutant. We propose that this differential FP dependence may be due to the
+prolonged apposition of the notochord to the spinal cord, but not the midbrain
+during development.
+
+PMID: 16246323  [PubMed - indexed for MEDLINE]
+
+
+29. Curr Biol. 2004 Aug 24;14(16):R668-70.
+
+Hedgehog signaling: iguana debuts as a nuclear gatekeeper.
+
+Vokes SA(1), McMahon AP.
+
+Author information: 
+(1)Department of Molecular and Cellular Biology, Harvard University, 16 Divinity 
+Avenue, Cambridge, Massachusetts 02138, USA. vokes@mcb.harvard.edu
+
+The intracellular pathway that controls the cytoplasmic versus nuclear
+distribution of Gli transcriptional regulators in response to Hedgehog signaling 
+remains poorly understood. Iguana appears to play a role in regulating this
+process independently of Hedgehog signaling.
+
+PMID: 15324687  [PubMed - indexed for MEDLINE]
+
+
+30. Genes Dev. 2004 Jul 1;18(13):1565-76. Epub 2004 Jun 15.
+
+iguana encodes a novel zinc-finger protein with coiled-coil domains essential for
+Hedgehog signal transduction in the zebrafish embryo.
+
+Wolff C(1), Roy S, Lewis KE, Schauerte H, Joerg-Rauch G, Kirn A, Weiler C,
+Geisler R, Haffter P, Ingham PW.
+
+Author information: 
+(1)Center for Developmental Genetics, School of Medicine and Biomedical Sciences,
+University of Sheffield, Western Bank, Sheffield S10 2TN, UK.
+
+Signaling by lipid-modified secreted glycoproteins of the Hedgehog family play
+fundamental roles during pattern formation in animal development and in humans;
+dysfunction of Hedgehog pathway components is frequently associated with a
+variety of congenital abnormalities and cancer. Transcriptional regulation of
+Hedgehog target genes is mediated by members of the Gli zinc-finger transcription
+factors. The relative nuclear concentrations of Gli activator (Gli(act)) and
+repressor (Gli(rep)) forms, together with their nucleocytoplasmic trafficking,
+appear to be critical determinants for target gene expression. Whereas such
+stringent controls of Gli activity are critical in ensuring appropriate levels of
+pathway activation, the mechanisms by which these processes are regulated remain 
+inadequately understood. Here, using genetic analysis, we show that the zebrafish
+iguana gene product acts downstream of the Smoothened protein to modulate Gli
+activity in the somites of the developing embryo. Positional cloning reveals that
+iguana encodes the zebrafish ortholog of Dzip1, a novel zinc-finger/coiled-coil
+domain protein that we show can shuttle between the cytoplasm and nucleus in a
+manner correlated with Hedgehog pathway activity.
+
+PMCID: PMC443519
+PMID: 15198976  [PubMed - indexed for MEDLINE]
+
+
+31. Development. 2004 Jun;131(11):2521-32. Epub 2004 Apr 28.
+
+The zebrafish iguana locus encodes Dzip1, a novel zinc-finger protein required
+for proper regulation of Hedgehog signaling.
+
+Sekimizu K(1), Nishioka N, Sasaki H, Takeda H, Karlstrom RO, Kawakami A.
+
+Author information: 
+(1)Department of Biological Science, Graduate School of Science, University of
+Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan.
+
+Members of the Hedgehog (Hh) family of intercellular signaling molecules play
+crucial roles in animal development. Aberrant regulation of Hh signaling in
+humans causes developmental defects, and leads to various genetic disorders and
+cancers. We have characterized a novel regulator of Hh signaling through the
+analysis of the zebrafish midline mutant iguana (igu). Mutations in igu lead to
+reduced expression of Hh target genes in the ventral neural tube, similar to the 
+phenotype seen in zebrafish mutants known to affect Hh signaling. Contradictory
+at first sight, igu mutations lead to expanded Hh target gene expression in
+somites. Genetic and pharmacological analyses revealed that the expression of Hh 
+target genes in igu mutants requires Gli activator function but does not depend
+on Smoothened function. Our results show that the ability of Gli proteins to
+activate Hh target gene expression in response to Hh signals is generally reduced
+in igu mutants both in the neural tube and in somites. Although this reduced Hh
+signaling activity leads to a loss of Hh target gene expression in the neural
+tube, the same low levels of Hh signaling appear to be sufficient to activate Hh 
+target genes throughout somites because of different threshold responses to Hh
+signals. We also show that Hh target gene expression in igu mutants is resistant 
+to increased protein kinase A activity that normally represses Hh signaling.
+Together, our data indicate that igu mutations impair both the full activation of
+Gli proteins in response to Hh signals, and the negative regulation of Hh
+signaling in tissues more distant from the source of Hh. Positional cloning
+revealed that the igu locus encodes Dzip1, a novel intracellular protein that
+contains a single zinc-finger protein-protein interaction domain. Overexpression 
+of Igu/Dzip1 proteins suggested that Igu/Dzip1 functions in a permissive way in
+the Hh signaling pathway. Taken together, our studies show that Igu/Dzip1
+functions as a permissive factor that is required for the proper regulation of Hh
+target genes in response to Hh signals.
+
+PMID: 15115751  [PubMed - indexed for MEDLINE]
+
+
+32. Genomics. 2004 May;83(5):834-43.
+
+Identification of a novel gene, DZIP (DAZ-interacting protein), that encodes a
+protein that interacts with DAZ (deleted in azoospermia) and is expressed in
+embryonic stem cells and germ cells.
+
+Moore FL(1), Jaruzelska J, Dorfman DM, Reijo-Pera RA.
+
+Author information: 
+(1)Department of Obstetrics, Gynecology and Reproductive Sciences, University of 
+California at San Francisco, San Francisco, CA 94143-0546, USA.
+
+Evidence from diverse organisms, including humans, suggests that the DAZ (Deleted
+in Azoospermia) gene and a closely related homolog, DAZL (DAZ-like), are required
+early in germ cell development to maintain initial germ cell populations. Here we
+report the identification and characterization of the DZIP (DAZ-Interacting
+Protein) gene, which encodes at least three different protein isoforms that
+contain a C2H2 zinc-finger domain. The DZIP gene is expressed predominantly in
+human embryonic stem cells and fetal and adult germ cells; moreover, two DZIP
+protein isoforms colocalize with DAZ and/or DAZL proteins in these tissues.
+Finally, we provide evidence indicating that DZIP may associate with DAZ and its 
+other cofactors in an RNA-binding protein complex that functions in both ES cells
+and germ cells.
+
+PMID: 15081113  [PubMed - indexed for MEDLINE]
+
+

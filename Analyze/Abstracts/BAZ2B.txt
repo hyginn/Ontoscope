@@ -1,0 +1,380 @@
+
+1. J Med Chem. 2016 Mar 30. [Epub ahead of print]
+
+The "Gatekeeper" Residue Influences the Mode of Binding of Acetyl Indoles to
+Bromodomains.
+
+Unzue A(1), Zhao H(1), Lolli G(1), Dong J(1), Zhu J(1), Zechner M(1), Dolbois
+A(1), Caflisch A(1), Nevado C(1).
+
+Author information: 
+(1)Department of Chemistry and ‡Department of Biochemistry, University of Zürich 
+, Winterthurerstrasse 190, CH-8057 Zürich, Switzerland.
+
+Small-molecule hits for the bromodomains of CREBBP and BAZ2B have been identified
+by scaffold hopping followed by docking of a set of ~200 compounds containing the
+acetyl indole scaffold. Chemical synthesis of nearly 30 derivatives has resulted 
+in ligands of representatives of three subfamilies of human bromodomains with
+favorable ligand efficiency. The X-ray crystal structures of three different
+bromodomains (CREBBP, BAZ2B, and BRPF1b) in complex with acetyl indole
+derivatives reveal the influence of the gatekeeper residue on the orientation of 
+small-molecule ligands in the acetyl lysine binding site.
+
+PMID: 26982797  [PubMed - as supplied by publisher]
+
+
+2. ACS Chem Biol. 2016 Mar 18;11(3):800-7. doi: 10.1021/acschembio.5b00914.
+
+High-Throughput Fragment Docking into the BAZ2B Bromodomain: Efficient in Silico 
+Screening for X-Ray Crystallography.
+
+Lolli G(1), Caflisch A(1).
+
+Author information: 
+(1)Department of Biochemistry, University of Zürich , Winterthurerstrasse 190,
+CH-8057, Zürich, Switzerland.
+
+Bromodomains are protein modules that bind to acetylated lysine side chains in
+histones and other proteins. The bromodomain adjacent to zinc finger domain
+protein 2B (BAZ2B) has been reported to be poorly druggable. Here, we screened an
+in-house library of 350 fragments by automatic docking to the BAZ2B bromodomain. 
+The top 12 fragments according to the predicted binding energy were selected for 
+experiments of soaking into apo crystals of BAZ2B which yielded the structure of 
+the complex for four of them, which is a hit rate of 33%. Additional crystal
+structures were solved for BAZ2B and two scaffolds identified by analogy. For
+three topologically similar fragments, the crystal structures reveal binding
+modes with different penetration, i.e., with zero, one, and two water molecules, 
+respectively, located between the fragment and the side chain of a conserved
+tyrosine (Tyr1901) in the bottom of the acetyl lysine pocket of BAZ2B.
+Furthermore, a remarkable stereoselectivity of the acetyl lysine pocket emerges
+from the crystal structures of the bromodomains of BAZ2B and SMARCA4 in complex
+with the chiral diol MPD (2-methyl-2,4-pentanediol).
+
+PMID: 26942307  [PubMed - in process]
+
+
+3. J Med Chem. 2016 Feb 25;59(4):1410-24. doi: 10.1021/acs.jmedchem.5b00209. Epub
+2015 Apr 6.
+
+Discovery and Characterization of GSK2801, a Selective Chemical Probe for the
+Bromodomains BAZ2A and BAZ2B.
+
+Chen P(1), Chaikuad A(2), Bamborough P(3), Bantscheff M(4), Bountra C(5), Chung
+CW(3), Fedorov O(2,)(5), Grandi P(4), Jung D(1), Lesniak R(1), Lindon M, Müller
+S(2,)(5), Philpott M(2,)(5), Prinjha R, Rogers C(2,)(5), Selenski C(1), Tallant
+C(2,)(5), Werner T(4), Willson TM(1), Knapp S(2,)(5,)(6), Drewry DH(1).
+
+Author information: 
+(1)Department of Chemical Biology, GlaxoSmithKline , Research Triangle Park, 5
+Moore Drive, Research Triangle Park, North Carolina 27709-3398, United States.
+(2)Nuffield Department of Clinical Medicine, Structural Genomics Consortium,
+University of Oxford , Old Road Campus Research Building, Roosevelt Drive,
+Headington, Oxford OX3 7DQ, United Kingdom. (3)Computational & Structural
+Chemistry, Molecular Discovery Research, and <U+22A5>Epinova, Discovery Performance
+Unit, GlaxoSmithKline R&D , Stevenage, Hertfordshire SG1 2NY, United Kingdom.
+(4)Cellzome GmbH, Molecular Discovery Research, GlaxoSmithKline , Meyerhofstrasse
+1, 69117 Heidelberg, Germany. (5)Nuffield Department of Clinical Medicine, Target
+Discovery Institute, University of Oxford , NDM Research Building, Roosevelt
+Drive, Headington, Oxford OX3 7FZ, United Kingdom. (6)Institute for
+Pharmaceutical Chemistry, Johann Wolfgang Goethe-University , Max-von-Laue-Str.
+9, D-60438 Frankfurt am Main, Germany.
+
+Bromodomains are acetyl-lysine specific protein interaction domains that have
+recently emerged as a new target class for the development of inhibitors that
+modulate gene transcription. The two closely related bromodomain containing
+proteins BAZ2A and BAZ2B constitute the central scaffolding protein of the
+nucleolar remodeling complex (NoRC) that regulates the expression of noncoding
+RNAs. However, BAZ2 bromodomains have low predicted druggability and so far no
+selective inhibitors have been published. Here we report the development of
+GSK2801, a potent, selective and cell active acetyl-lysine competitive inhibitor 
+of BAZ2A and BAZ2B bromodomains as well as the inactive control compound GSK8573.
+GSK2801 binds to BAZ2 bromodomains with dissociation constants (KD) of 136 and
+257 nM for BAZ2B and BAZ2A, respectively. Crystal structures demonstrated a
+canonical acetyl-lysine competitive binding mode. Cellular activity was
+demonstrated using fluorescent recovery after photobleaching (FRAP) monitoring
+displacement of GFP-BAZ2A from acetylated chromatin. A pharmacokinetic study in
+mice showed that GSK2801 had reasonable in vivo exposure after oral dosing, with 
+modest clearance and reasonable plasma stability. Thus, GSK2801 represents a
+versatile tool compound for cellular and in vivo studies to understand the role
+of BAZ2 bromodomains in chromatin biology.
+
+PMCID: PMC4770311
+PMID: 25799074  [PubMed - in process]
+
+
+4. J Med Chem. 2015 Mar 12;58(5):2553-9. doi: 10.1021/jm501963e. Epub 2015 Feb 26.
+
+Structure enabled design of BAZ2-ICR, a chemical probe targeting the bromodomains
+of BAZ2A and BAZ2B.
+
+Drouin L(1), McGrath S, Vidler LR, Chaikuad A, Monteiro O, Tallant C, Philpott M,
+Rogers C, Fedorov O, Liu M, Akhtar W, Hayes A, Raynaud F, Müller S, Knapp S,
+Hoelder S.
+
+Author information: 
+(1)The Institute of Cancer Research, Division of Cancer Therapeutics, Cancer
+Research UK Cancer Therapeutics Unit , 15 Cotswold Road, Sutton, London SM2 5NG, 
+U.K.
+
+The bromodomain containing proteins BAZ2A/B play essential roles in chromatin
+remodeling and regulation of noncoding RNAs. We present the structure based
+discovery of a potent, selective, and cell active inhibitor 13 (BAZ2-ICR) of the 
+BAZ2A/B bromodomains through rapid optimization of a weakly potent starting
+point. A key feature of the presented inhibitors is an intramolecular aromatic
+stacking interaction that efficiently occupies the shallow bromodomain pockets.
+13 represents an excellent chemical probe for functional studies of the BAZ2
+bromodomains in vitro and in vivo.
+
+PMCID: PMC4441536
+PMID: 25719566  [PubMed - indexed for MEDLINE]
+
+
+5. Structure. 2015 Jan 6;23(1):80-92. doi: 10.1016/j.str.2014.10.017. Epub 2014 Dec 
+18.
+
+Molecular basis of histone tail recognition by human TIP5 PHD finger and
+bromodomain of the chromatin remodeling complex NoRC.
+
+Tallant C(1), Valentini E(2), Fedorov O(3), Overvoorde L(4), Ferguson FM(4),
+Filippakopoulos P(5), Svergun DI(2), Knapp S(3), Ciulli A(6).
+
+Author information: 
+(1)Department of Chemistry, University of Cambridge, Lensfield Road, Cambridge
+CB2 1EW, UK; Structural Genomics Consortium, Nuffield Department of Clinical
+Medicine, University of Oxford, Old Road Campus Research Building, Roosevelt
+Drive, Oxford OX3 7DQ, UK; Target Discovery Institute, Nuffield Department of
+Clinical Medicine, University of Oxford, NDM Research Building, Roosevelt Drive, 
+Oxford OX3 7FZ, UK. (2)European Molecular Biology Laboratory, Hamburg Outstation,
+c/o DESY, Notkestrasse 85, 22603 Hamburg, Germany. (3)Structural Genomics
+Consortium, Nuffield Department of Clinical Medicine, University of Oxford, Old
+Road Campus Research Building, Roosevelt Drive, Oxford OX3 7DQ, UK; Target
+Discovery Institute, Nuffield Department of Clinical Medicine, University of
+Oxford, NDM Research Building, Roosevelt Drive, Oxford OX3 7FZ, UK. (4)Department
+of Chemistry, University of Cambridge, Lensfield Road, Cambridge CB2 1EW, UK.
+(5)Structural Genomics Consortium, Nuffield Department of Clinical Medicine,
+University of Oxford, Old Road Campus Research Building, Roosevelt Drive, Oxford 
+OX3 7DQ, UK; Ludwig Institute for Cancer Research, Nuffield Department of
+Clinical Medicine, University of Oxford, Roosevelt Drive, Oxford OX3 7DQ, UK.
+(6)Department of Chemistry, University of Cambridge, Lensfield Road, Cambridge
+CB2 1EW, UK; Division of Biological Chemistry and Drug Discovery, College of Life
+Sciences, University of Dundee, Dow Street, Dundee DD1 5EH, UK. Electronic
+address: a.ciulli@dundee.ac.uk.
+
+Binding of the chromatin remodeling complex NoRC to RNA complementary to the rDNA
+promoter mediates transcriptional repression. TIP5, the largest subunit of NoRC, 
+is involved in recruitment to rDNA by interactions with promoter-bound TTF-I,
+pRNA, and acetylation of H4K16. TIP5 domains that recognize posttranslational
+modifications on histones are essential for recruitment of NoRC to chromatin, but
+how these reader modules recognize site-specific histone tails has remained
+elusive. Here, we report crystal structures of PHD zinc finger and bromodomains
+from human TIP5 and BAZ2B in free form and bound to H3 and/or H4 histones. PHD
+finger functions as an independent structural module in recognizing unmodified H3
+histone tails, and the bromodomain prefers H3 and H4 acetylation marks followed
+by a key basic residue, KacXXR. Further low-resolution analyses of
+PHD-bromodomain modules provide molecular insights into their trans histone tail 
+recognition, required for nucleosome recruitment and transcriptional repression
+of the NoRC complex.
+
+Copyright © 2015 The Authors. Published by Elsevier Inc. All rights reserved.
+
+PMCID: PMC4291147
+PMID: 25533489  [PubMed - indexed for MEDLINE]
+
+
+6. Biochemistry. 2014 Oct 28;53(42):6706-16. doi: 10.1021/bi500909d. Epub 2014 Oct
+15.
+
+Binding hotspots of BAZ2B bromodomain: Histone interaction revealed by solution
+NMR driven docking.
+
+Ferguson FM(1), Dias DM, Rodrigues JP, Wienk H, Boelens R, Bonvin AM, Abell C,
+Ciulli A.
+
+Author information: 
+(1)Department of Chemistry, University of Cambridge , Lensfield Road, Cambridge, 
+CB2 1EW, U.K.
+
+Bromodomains are epigenetic reader domains, which have come under increasing
+scrutiny both from academic and pharmaceutical research groups. Effective
+targeting of the BAZ2B bromodomain by small molecule inhibitors has been recently
+reported, but no structural information is yet available on the interaction with 
+its natural binding partner, acetylated histone H3K14ac. We have assigned the
+BAZ2B bromodomain and studied its interaction with H3K14ac acetylated peptides by
+NMR spectroscopy using both chemical shift perturbation (CSP) data and clean
+chemical exchange (CLEANEX-PM) NMR experiments. The latter was used to
+characterize water molecules known to play an important role in mediating
+interactions. Besides the anticipated Kac binding site, we consistently found the
+bromodomain BC loop as hotspots for the interaction. This information was used to
+create a data-driven model for the complex using HADDOCK. Our findings provide
+both structure and dynamics characterization that will be useful in the quest for
+potent and selective inhibitors to probe the function of the BAZ2B bromodomain.
+
+PMCID: PMC4458377
+PMID: 25266743  [PubMed - indexed for MEDLINE]
+
+
+7. J Med Chem. 2013 Dec 27;56(24):10183-7. doi: 10.1021/jm401582c. Epub 2013 Dec 13.
+
+Targeting low-druggability bromodomains: fragment based screening and inhibitor
+design against the BAZ2B bromodomain.
+
+Ferguson FM(1), Fedorov O, Chaikuad A, Philpott M, Muniz JR, Felletar I, von
+Delft F, Heightman T, Knapp S, Abell C, Ciulli A.
+
+Author information: 
+(1)Department of Chemistry, University of Cambridge , Lensfield Road, Cambridge, 
+CB2 1EW, U.K.
+
+Bromodomains are epigenetic reader domains that have recently become popular
+targets. In contrast to BET bromodomains, which have proven druggable,
+bromodomains from other regions of the phylogenetic tree have shallower pockets. 
+We describe successful targeting of the challenging BAZ2B bromodomain using
+biophysical fragment screening and structure-based optimization of high
+ligand-efficiency fragments into a novel series of low-micromolar inhibitors. Our
+results provide attractive leads for development of BAZ2B chemical probes and
+indicate the whole family may be tractable.
+
+PMCID: PMC3905694
+PMID: 24304323  [PubMed - indexed for MEDLINE]
+
+
+8. ChemMedChem. 2014 Mar;9(3):573-9. doi: 10.1002/cmdc.201300156. Epub 2013 Jun 26.
+
+Structured water molecules in the binding site of bromodomains can be displaced
+by cosolvent.
+
+Huang D(1), Rossini E, Steiner S, Caflisch A.
+
+Author information: 
+(1)Department of Biochemistry, University of Zürich, Winterthurerstrasse 190,
+8057 Zürich (Switzerland). dhuang@bioc.uzh.ch.
+
+Bromodomains are a-helical bundles of approximately 110 residues that recognize
+acetylated lysine side chains mainly on histone tails. Bromodomains are known to 
+play an important role in cancer and inflammation, and as such, significant
+efforts are being made to identify small-molecule inhibitors of these epigenetic 
+reader proteins. Here, explicit solvent molecular dynamics (MD) simulations of
+two bromodomains (BAZ2B and CREBBP) are used to analyze the water molecules that 
+seem to be conserved at the bottom of the acetyl-lysine binding site in most
+crystal structures of bromodomains. The MD runs suggest that the occupancy of the
+structured water molecules is influenced by conformational transitions of the
+loop that connects helices Z and A. Additional simulations in the presence of
+50 molecules of cosolvent (i.e., 440 mM of dimethylsulfoxide, methanol, or
+ethanol) indicate that some of the structured water molecules can be displaced
+transiently. The residence time in the acetyl-lysine binding site is calculated
+to be about 1 ns, 2-5 ns, and 10-30 ns for methanol, ethanol, and
+dimethylsulfoxide, respectively, while the affinity of the three cosolvents for
+BAZ2B and CREBBP is in the range of 50-500 mM. The results described have
+implications for ligand design, suggesting that only structured water molecules
+that do not exchange with cosolvent should be maintained in crystal structures
+used for docking campaigns, and that hydroxy substituents should be incorporated 
+in the ligand so as to map the structured water molecules replaced by (m)ethanol.
+
+© 2014 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+PMID: 23804246  [PubMed - indexed for MEDLINE]
+
+
+9. FEBS Lett. 2013 Jul 11;587(14):2158-63. doi: 10.1016/j.febslet.2013.05.032. Epub 
+2013 May 25.
+
+Does bromodomain flexibility influence histone recognition?
+
+Steiner S(1), Magno A, Huang D, Caflisch A.
+
+Author information: 
+(1)Department of Biochemistry, University of Zurich, Winterthurerstrasse 190,
+CH-8057 Zurich, Switzerland.
+
+Bromodomains are protein modules that selectively recognize histones by binding
+to acetylated lysines. Here, we have carried out multiple molecular dynamics
+simulations of 20 human bromodomains to investigate the flexibility of their
+binding site. Some bromodomains show alternative side chain orientations of three
+evolutionarily conserved residues: the Asn involved in acetyl-lysine binding and 
+two conserved aromatic residues. Furthermore, for the BAZ2B and CREBBP
+bromodomains we observe occlusion of the binding site which is coupled to the
+displacement of the two aromatic residues. In contrast to available structures,
+the simulations reveal large variability of the binding site accessibility. The
+simulations suggest that the flexibility of the bromodomain binding site and
+presence of self-occluded metastable states influence the recognition of
+acetyl-lysine on histone tails.
+
+Copyright © 2013 Federation of European Biochemical Societies. Published by
+Elsevier B.V. All rights reserved.
+
+PMID: 23711371  [PubMed - indexed for MEDLINE]
+
+
+10. PLoS Genet. 2011 Jun;7(6):e1002158. doi: 10.1371/journal.pgen.1002158. Epub 2011 
+Jun 30.
+
+Identification of a sudden cardiac death susceptibility locus at 2q24.2 through
+genome-wide association in European ancestry individuals.
+
+Arking DE(1), Junttila MJ, Goyette P, Huertas-Vazquez A, Eijgelsheim M, Blom MT, 
+Newton-Cheh C, Reinier K, Teodorescu C, Uy-Evanado A, Carter-Monroe N, Kaikkonen 
+KS, Kortelainen ML, Boucher G, Lagacé C, Moes A, Zhao X, Kolodgie F, Rivadeneira 
+F, Hofman A, Witteman JC, Uitterlinden AG, Marsman RF, Pazoki R, Bardai A, Koster
+RW, Dehghan A, Hwang SJ, Bhatnagar P, Post W, Hilton G, Prineas RJ, Li M, Köttgen
+A, Ehret G, Boerwinkle E, Coresh J, Kao WH, Psaty BM, Tomaselli GF, Sotoodehnia
+N, Siscovick DS, Burke GL, Marbán E, Spooner PM, Cupples LA, Jui J, Gunson K,
+Kesäniemi YA, Wilde AA, Tardif JC, O'Donnell CJ, Bezzina CR, Virmani R, Stricker 
+BH, Tan HL, Albert CM, Chakravarti A, Rioux JD, Huikuri HV, Chugh SS.
+
+Author information: 
+(1)McKusick-Nathans Institute of Genetic Medicine, Johns Hopkins University
+School of Medicine, Baltimore, Maryland, United States of America.
+arking@jhmi.edu
+
+Sudden cardiac death (SCD) continues to be one of the leading causes of mortality
+worldwide, with an annual incidence estimated at 250,000-300,000 in the United
+States and with the vast majority occurring in the setting of coronary disease.
+We performed a genome-wide association meta-analysis in 1,283 SCD cases and
+>20,000 control individuals of European ancestry from 5 studies, with follow-up
+genotyping in up to 3,119 SCD cases and 11,146 controls from 11 European ancestry
+studies, and identify the BAZ2B locus as associated with SCD (P<U+200A>=<U+200A>1.8×10(-10)).
+The risk allele, while ancestral, has a frequency of ~1.4%, suggesting strong
+negative selection and increases risk for SCD by 1.92-fold per allele (95% CI
+1.57-2.34). We also tested the role of 49 SNPs previously implicated in
+modulating electrocardiographic traits (QRS, QT, and RR intervals). Consistent
+with epidemiological studies showing increased risk of SCD with prolonged QRS/QT 
+intervals, the interval-prolonging alleles are in aggregate associated with
+increased risk for SCD (P<U+200A>=<U+200A>0.006).
+
+PMCID: PMC3128111
+PMID: 21738491  [PubMed - indexed for MEDLINE]
+
+
+11. Genomics. 2000 Jan 1;63(1):40-5.
+
+A novel family of bromodomain genes.
+
+Jones MH(1), Hamana N, Nezu Ji, Shimane M.
+
+Author information: 
+(1)Chugai Research Institute for Molecular Medicine, 153-2 Nagai, Niihari,
+Ibaraki, 300-4101, Japan. mike@cimmed.com
+
+The bromodomain is a structural motif characteristic of proteins involved in
+chromatin-dependent regulation of transcription. Bromodomain proteins have been
+identified as integral components of chromatin remodeling complexes and
+frequently possess histone acetyltransferase activity. Their encoding genes have 
+been identified at translocation breakpoints, and at least one, CBP, is a tumor
+suppressor gene. We have identified a series of novel bromodomain genes by EST
+database and cDNA library screening. Comparison of sequences for four clones
+indicated that they represent genes belonging to a novel bromodomain family.
+Full-length sequences for these genes, which are widely expressed, predict
+encoded proteins of between 1527 and 1972 amino acids. In addition to a
+carboxy-terminal bromodomain, an adjacent PHD finger, and a WACZ motif, at least 
+four other conserved novel motifs are present in each protein. The genes contain 
+regions conserved with Drosophila Acf1 and Caenorhabditis elegans ZK783.4. The
+novel genes, termed BAZ1A, BAZ1B, BAZ2A, and BAZ2B, localize to chromosomes
+14q12-q13, 7q11-q21, 12q24.3-qter, and 2q23-q24, respectively. Conservation of
+multiple domains throughout these genes with Acf1 indicates that they are likely 
+to be components of chromatin remodeling complexes.
+
+Copyright 2000 Academic Press.
+
+PMID: 10662543  [PubMed - indexed for MEDLINE]
+
+

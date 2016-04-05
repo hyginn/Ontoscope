@@ -1,0 +1,164 @@
+
+1. PLoS One. 2015 Jun 25;10(6):e0131760. doi: 10.1371/journal.pone.0131760.
+eCollection 2015.
+
+Decreased Expression of CoREST1 and CoREST2 Together with LSD1 and HDAC1/2 during
+Neuronal Differentiation.
+
+Sáez JE(1), Gómez AV(1), Barrios ÁP(1), Parada GE(1), Galdames L(1), González
+M(1), Andrés ME(1).
+
+Author information: 
+(1)Department of Cellular and Molecular Biology, Faculty of Biological Sciences, 
+Pontificia Universidad Católica de Chile, Santiago, Chile.
+
+Erratum in
+    PLoS One. 2015;10(7):e0133555.
+
+CoREST (CoREST1, rcor1) transcriptional corepressor together with the histone
+demethylase LSD1 (KDM1A) and the histone deacetylases HDAC1/2 form
+LSD1-CoREST-HDAC (LCH) transcriptional complexes to regulate gene expression.
+CoREST1 belong to a family that also comprises CoREST2 (rcor2) and CoREST3
+(rcor3). CoREST1 represses the expression of neuronal genes during neuronal
+differentiation. However, the role of paralogs CoREST2 and CoREST3 in this
+process is just starting to emerge. Here, we report the expression of all CoRESTs
+and partners LSD1 and HDAC1/2 in two models of neuronal differentiation:
+Nerve-Growth-Factor (NGF)-induced neuronal phenotype of PC12 cells, and in vitro 
+maturation of embryonic rat cortical neurons. In both models, a concomitant and
+gradual decrease of LSD1, HDAC1, HDAC2, CoREST1, and CoREST2, but not CoREST3 was
+observed. As required by the study, full-length rat rcor1 gene was identified
+using in silico analysis of available rat genome. The work was also complemented 
+by the analysis of rat RNA-seq databases. The analysis showed that all CoRESTs,
+including the identified four splicing variants of rat CoREST3, display a wide
+expression in adult tissues. Moreover, the analysis of RNA-seq databases showed
+that CoREST2 displays a higher expression than CoREST1 and CoREST3 in the mature 
+brain. Immunofluorescent assays and immunoblots of adult rat brain showed that
+all CoRESTs are present in both glia and neurons. Regarding functional
+partnership, CoREST2 and CoREST3 interact with all LSD1 splicing variants. In
+conclusion, neuronal differentiation is accompanied by decreased expression of
+all core components of LCH complexes, but not CoREST3. The combination of the
+differential transcriptional repressor capacity of LCH complexes and variable
+protein levels of its different components should result in a finely tuned gene
+expression during neuronal differentiation and in the adult brain.
+
+PMCID: PMC4482511
+PMID: 26111147  [PubMed - in process]
+
+
+2. Proc Natl Acad Sci U S A. 2014 Jun 3;111(22):8071-6. doi:
+10.1073/pnas.1404292111. Epub 2014 May 19.
+
+Antagonistic actions of Rcor proteins regulate LSD1 activity and cellular
+differentiation.
+
+Upadhyay G(1), Chowdhury AH(1), Vaidyanathan B(2), Kim D(1), Saleque S(3).
+
+Author information: 
+(1)Department of Biology, City College of New York and Graduate Center of City
+University of New York, New York, NY 10031; and. (2)Immunology and Microbial
+Pathogenesis Program, Weill-Cornell Medical School and Sloan Kettering Institute,
+New York, NY 10021. (3)Department of Biology, City College of New York and
+Graduate Center of City University of New York, New York, NY 10031; and
+ssaleque@ccny.cuny.edu.
+
+Lysine-specific demethylase 1 (LSD1) demethylates nucleosomal histone H3 lysine 4
+(H3K4) residues in collaboration with the corepressor CoREST/REST corepressor 1
+(Rcor1) and regulates cell fates by epigenetically repressing gene targets. The
+balanced regulation of this demethylase, if any, is however unknown. We now
+demonstrate the actions of two other Rcor paralogs, Rcor2 and Rcor3, in
+regulating LSD1 enzymatic activity and biological function in hematopoietic
+cells. All three Rcor proteins interact with LSD1 and with the
+erythro-megakaryocytic transcription factor growth factor independence (Gfi)1b;
+however, whereas Rcor2, like Rcor1, facilitates LSD1-mediated nucleosomal
+demethylation, Rcor3 competitively inhibits this process. Appending the SANT2
+domain of Rcor1 to Rcor3 confers the ability to facilitate LSD1-mediated
+demethylation on the chimeric Rcor protein. Consistent with their biochemical
+activities, endogenous Rcor1, Rcor2, and LSD1 promote differentiation, whereas
+Rcor3 opposes these processes. Recruitment of Rcor3 to cognate gene targets by
+Gfi1b and LSD1 leads to inhibition of H3K4 demethylation of chromatin and
+transcriptional derepression of these loci. Remarkably, profound alterations in
+Rcor1/3 levels during erythroid versus megakaryocytic differentiation potentiate 
+antagonistic outcomes. In mature erythroid cells, a strong upsurge in Rcor3 and a
+sharp decline in Rcor1 levels counteract LSD1/Rcor1/2-mediated differentiation.
+In contrast, the opposite changes in Rcor1/3 levels in megakaryocytes favor
+differentiation and likely maintain homeostasis between these lineages. Overall, 
+our results identify Rcor3 as a natural inhibitor of LSD1 and highlight a dual
+mechanism of regulating the enzymatic activity and restraining the epigenetic
+impact of this robust demethylase during hematopoietic differentiation.
+
+PMCID: PMC4050576
+PMID: 24843136  [PubMed - indexed for MEDLINE]
+
+
+3. Mol Cell Biol. 2014 Jul;34(14):2760-70.
+
+Differential properties of transcriptional complexes formed by the CoREST family.
+
+Barrios ÁP, Gómez AV, Sáez JE, Ciossani G, Toffolo E, Battaglioli E, Mattevi A,
+Andrés ME.
+
+Mammalian genomes harbor three CoREST genes. rcor1 encodes CoREST (CoREST1), and 
+the paralogues rcor2 and rcor3 encode CoREST2 and CoREST3, respectively. Here, we
+describe specific properties of transcriptional complexes formed by CoREST
+proteins with the histone demethylase LSD1/KDM1A and histone deacetylases 1 and 2
+(HDAC1/2) and the finding that all three CoRESTs are expressed in the adult rat
+brain. CoRESTs interact equally strongly with LSD1/KDM1A. Structural analysis
+shows that the overall conformation of CoREST3 is similar to that of CoREST1
+complexed with LSD1/KDM1A. Nonetheless, transcriptional repressive capacity of
+CoREST3 is lower than that of CoREST1, which correlates with the observation that
+CoREST3 leads to a reduced LSD1/KDM1A catalytic efficiency. Also, CoREST2 shows a
+lower transcriptional repression than CoREST1, which is resistant to HDAC
+inhibitors. CoREST2 displays lower interaction with HDAC1/2, which is barely
+present in LSD1/KDM1A-CoREST2 complexes. A nonconserved leucine in the first SANT
+domain of CoREST2 severely weakens its association with HDAC1/2. Furthermore,
+CoREST2 mutants with increased HDAC1/2 interaction and those without HDAC1/2
+interaction exhibit equivalent transcriptional repression capacities, indicating 
+that CoREST2 represses in an HDAC-independent manner. In conclusion, differences 
+among CoREST proteins are instrumental in the modulation of protein-protein
+interactions and catalytic activities of LSD1/KDM1A-CoREST-HDAC complexes,
+fine-tuning gene expression regulation.
+
+PMCID: PMC4097654
+PMID: 24820421  [PubMed - indexed for MEDLINE]
+
+
+4. Acta Pharmacol Sin. 2011 Aug;32(8):1019-24. doi: 10.1038/aps.2011.49. Epub 2011
+Jul 18.
+
+Involvement of REST corepressor 3 in prognosis of human hepatitis B.
+
+Xue JH(1), Zheng M, Xu XW, Wu SS, Chen Z, Chen F.
+
+Author information: 
+(1)State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, the
+First Affiliated Hospital, School of Medicine, Zhejiang University, Hangzhou,
+China.
+
+AIM: To examine the potential correlation between serum REST corepressor 3
+(RCOR3) level and the outcome of patients with hepatitis B.
+METHODS: Concanavalin A (ConA)-induced mouse hepatitis model was used. The mRNA
+level of RCOR3 in mouse liver was measured using GeneChip array and real-time
+PCR. One hundred seventy-seven patients with hepatitis B and 34 healthy
+individuals were categorized into six groups including mild chronic hepatitis,
+moderate chronic hepatitis B, severe hepatitis B (SHB), cirrhosis, hepatocellular
+carcinoma (HCC) and healthy control. Serum levels of human RCOR3 were measured
+using ELISA.
+RESULTS: In the mouse hepatitis model, the mRNA level of RCOR3 in liver was
+reduced early after exposure to ConA, then increased after 6 h of exposure. There
+was no significant difference in the serum RCOR3 level between the mild chronic
+hepatitis B and the control groups. The serum RCOR3 level was significantly
+increased in the moderate chronic hepatitis B group, but significantly reduced in
+SHB, cirrhosis and HCC groups, as compared with the control group. Moreover, the 
+serum RCOR3 levels in SHB, cirrhosis and liver cancer patients were significantly
+lower than those in the patients with moderate chronic hepatitis B and with mild 
+chronic hepatitis B. Rank correlation analysis revealed a significant correlation
+between serum RCOR3 level and total bilirubin (r=-0.305, P<0.01). There was no
+significant correlation between RCOR3 on one hand, and alanine transaminase
+(r=0.014, P>0.05) or aspartate transaminase (r=-0.079, P>0.05) on the other hand.
+CONCLUSION: Serum RCOR3 level may reflect the degree of liver damage, which might
+be a potential biomarker for the outcome of patients with hepatitis B.
+
+PMCID: PMC4002525
+PMID: 21765449  [PubMed - indexed for MEDLINE]
+
+

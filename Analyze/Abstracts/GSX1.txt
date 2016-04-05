@@ -1,0 +1,282 @@
+
+1. Mol Psychiatry. 2015 Aug;20(8):974-85. doi: 10.1038/mp.2014.106. Epub 2014 Sep
+16.
+
+Gsx1 expression defines neurons required for prepulse inhibition.
+
+Bergeron SA(1), Carrier N(1), Li GH(1), Ahn S(1), Burgess HA(1).
+
+Author information: 
+(1)Program in Genomics of Differentiation, Eunice Kennedy Shriver National
+Institute of Child Health and Human Development, Bethesda, MD, USA.
+
+In schizophrenia, cognitive overload is thought to reflect an inability to
+suppress non-salient information, a process which is studied using prepulse
+inhibition (PPI) of the startle response. PPI is reduced in schizophrenia and
+routinely tested in animal models and preclinical trials of antipsychotic drugs. 
+However, the underlying neuronal circuitry is not well understood. We used a
+novel genetic screen in larval zebrafish to reveal the molecular identity of
+neurons that are required for PPI in fish and mice. Ablation or optogenetic
+silencing of neurons with developmental expression of the transcription factor
+genomic screen homeobox 1 (gsx1) produced profound defects in PPI in zebrafish,
+and PPI was similarly impaired in Gsx1 knockout mice. Gsx1-expressing neurons
+reside in the dorsal brainstem and form synapses closely apposed to neurons that 
+initiate the startle response. Surprisingly, brainstem Gsx1 neurons are primarily
+glutamatergic despite their role in a functionally inhibitory pathway. As Gsx1
+has an important role in regulating interneuron development in the forebrain,
+these findings reveal a molecular link between control of interneuron
+specification and circuits that gate sensory information across brain regions.
+
+PMCID: PMC4362800
+PMID: 25224259  [PubMed - in process]
+
+
+2. Nat Commun. 2014;5:3337. doi: 10.1038/ncomms4337.
+
+Temporal identity transition from Purkinje cell progenitors to GABAergic
+interneuron progenitors in the cerebellum.
+
+Seto Y(1), Nakatani T(2), Masuyama N(3), Taya S(3), Kumai M(2), Minaki Y(4),
+Hamaguchi A(2), Inoue YU(3), Inoue T(3), Miyashita S(5), Fujiyama T(3), Yamada
+M(3), Chapman H(6), Campbell K(6), Magnuson MA(7), Wright CV(8), Kawaguchi Y(9), 
+Ikenaka K(10), Takebayashi H(11), Ishiwata S(12), Ono Y(2), Hoshino M(3).
+
+Author information: 
+(1)1] Department of Biochemistry and Cellular Biology, National Institute of
+Neuroscience, NCNP, 4-1-1 Ogawa-Higashi, Kodaira, Tokyo 187-8502, Japan [2]
+Department of Physics, Major in Integrative Bioscience and Biomedical
+Engineering, Faculty of Science and Engineering, Waseda University, 3-4-1 Okubo, 
+Shinjuku-ku, Tokyo 169-8555, Japan. (2)KAN Research Institute Inc., 3F, Kobe MI
+R&D Center, 6-7-3 Minatojima-minamimachi, Chuo-ku, Kobe 650-0047, Japan.
+(3)Department of Biochemistry and Cellular Biology, National Institute of
+Neuroscience, NCNP, 4-1-1 Ogawa-Higashi, Kodaira, Tokyo 187-8502, Japan. (4)1]
+KAN Research Institute Inc., 3F, Kobe MI R&D Center, 6-7-3
+Minatojima-minamimachi, Chuo-ku, Kobe 650-0047, Japan [2]. (5)1] Department of
+Biochemistry and Cellular Biology, National Institute of Neuroscience, NCNP,
+4-1-1 Ogawa-Higashi, Kodaira, Tokyo 187-8502, Japan [2] Department of Electrical 
+Engineering and Bioscience, Graduate School of Advanced Science and Engineering, 
+Waseda University, 3-4-1 Okubo, Shinjuku-ku, Tokyo 169-8555, Japan. (6)Division
+of Developmental Biology, Cincinnati Children's Hospital Medical Center,
+University of Cincinnati College of Medicine, 3333 Burnet Avenue, Cincinnati,
+Ohio 45229-3026, USA. (7)Department of Molecular Physiology and Biophysics and
+Center for Stem Cell Biology, Vanderbilt University School of Medicine, 2213
+Garland Avenue, 9465 MRB IV, Nashville, Tennessee 37232-0494, USA. (8)Vanderbilt 
+University Program in Developmental Biology, Department of Cell and Developmental
+Biology, Vanderbilt University Medical Center, 2213 Garland Avenue, 9465 MRB IV, 
+Nashville, Tennessee 37232-0494, USA. (9)Department of Clinical Application,
+Center for iPS Cell Research and Application, Kyoto University, 53 Kawahara-cho, 
+Shogoin, Sakyo-ku, Kyoto 606-8507, Japan. (10)1] Division of Neurobiology and
+Bioinformatics, National Institute for Physiological Sciences, 5-1 Higashiyama,
+Myodaiji, Okazaki, Aichi 444-8787, Japan [2] Department of Physiological
+Sciences, School of Life Sciences, Graduate University for Advanced Studies,
+Shonan Village, Hayama, Kanagawa 240-0193, Japan. (11)1] Division of Neurobiology
+and Bioinformatics, National Institute for Physiological Sciences, 5-1
+Higashiyama, Myodaiji, Okazaki, Aichi 444-8787, Japan [2] Department of
+Physiological Sciences, School of Life Sciences, Graduate University for Advanced
+Studies, Shonan Village, Hayama, Kanagawa 240-0193, Japan [3] Division of
+Neurobiology and Anatomy, Graduate School of Medical and Dental Sciences, Niigata
+University, 1-757 Asahimachi, Chuo-ku, Niigata 951-8510, Japan. (12)1] Department
+of Physics, Major in Integrative Bioscience and Biomedical Engineering, Faculty
+of Science and Engineering, Waseda University, 3-4-1 Okubo, Shinjuku-ku, Tokyo
+169-8555, Japan [2] Waseda Bioscience Research Institute in Singapore, Waseda
+University, 11 Biopolis Way, #05-01/02, Helios, Singapore 138667, Republic of
+Singapore.
+
+In the cerebellum, all GABAergic neurons are generated from the Ptf1a-expressing 
+ventricular zone (Ptf1a domain). However, the machinery to produce different
+types of GABAergic neurons remains elusive. Here we show temporal regulation of
+distinct GABAergic neuron progenitors in the cerebellum. Within the Ptf1a domain 
+at early stages, we find two subpopulations; dorsally and ventrally located
+progenitors that express Olig2 and Gsx1, respectively. Lineage tracing reveals
+the former are exclusively Purkinje cell progenitors (PCPs) and the latter
+Pax2-positive interneuron progenitors (PIPs). As development proceeds, PCPs
+gradually become PIPs starting from ventral to dorsal. In gain- and
+loss-of-function mutants for Gsx1 and Olig1/2, we observe abnormal transitioning 
+from PCPs to PIPs at inappropriate developmental stages. Our findings suggest
+that the temporal identity transition of cerebellar GABAergic neuron progenitors 
+from PCPs to PIPs is negatively regulated by Olig2 and positively by Gsx1, and
+contributes to understanding temporal control of neuronal progenitor identities.
+
+PMID: 24535035  [PubMed - indexed for MEDLINE]
+
+
+3. J Cell Sci. 2013 Aug 15;126(Pt 16):3533-40. doi: 10.1242/jcs.125757. Epub 2013
+Jun 20.
+
+Non-invasive neural stem cells become invasive in vitro by combined FGF2 and BMP4
+signaling.
+
+Sailer MH(1), Gerber A, Tostado C, Hutter G, Cordier D, Mariani L, Ritz MF.
+
+Author information: 
+(1)Department of Biomedicine, Brain Tumor Biology Laboratory, Klingelbergstrasse 
+50/70, CH-4056 Basel, Switzerland. martin.sailer@usb.ch
+
+Neural stem cells (NSCs) typically show efficient self-renewal and selective
+differentiation. Their invasion potential, however, is not well studied. In this 
+study, Sox2-positive NSCs from the E14.5 rat cortex were found to be non-invasive
+and showed only limited migration in vitro. By contrast, FGF2-expanded NSCs
+showed a strong migratory and invasive phenotype in response to the combination
+of FGF2 and BMP4. Invasive NSCs expressed Podoplanin (PDPN) and p75NGFR (Ngfr) at
+the plasma membrane after exposure to FGF2 and BMP4. FGF2 and BMP4 together
+upregulated the expression of Msx1, Snail1, Snail2, Ngfr, which are all found in 
+neural crest (NC) cells during or after epithelial-mesenchymal transition (EMT), 
+but not in forebrain stem cells. Invasive cells downregulated the expression of
+Olig2, Sox10, Egfr, Pdgfra, Gsh1/Gsx1 and Gsh2/Gsx2. Migrating and invasive NSCs 
+had elevated expression of mRNA encoding Pax6, Tenascin C (TNC), PDPN, Hey1,
+SPARC, p75NGFR and Gli3. On the basis of the strongest upregulation in
+invasion-induced NSCs, we defined a group of five key invasion-related genes:
+Ngfr, Sparc, Snail1, Pdpn and Tnc. These genes were co-expressed and upregulated 
+in seven samples of glioblastoma multiforme (GBM) compared with normal human
+brain controls. Induction of invasion and migration led to low expression of
+differentiation markers and repressed proliferation in NSCs. Our results indicate
+that normal forebrain stem cells have the inherent ability to adopt a glioma-like
+invasiveness. The results provide a novel in vitro system to study stem cell
+invasion and a novel glioma invasion model: tumoral abuse of the developmental
+dorsoventral identity regulation.
+
+PMCID: PMC3744023
+PMID: 23788430  [PubMed - indexed for MEDLINE]
+
+
+4. J Comp Neurol. 2013 May 1;521(7):1561-84. doi: 10.1002/cne.23242.
+
+Loss of Gsx1 and Gsx2 function rescues distinct phenotypes in Dlx1/2 mutants.
+
+Wang B(1), Long JE, Flandin P, Pla R, Waclaw RR, Campbell K, Rubenstein JL.
+
+Author information: 
+(1)Department of Psychiatry and the Nina Ireland Laboratory of Developmental
+Neurobiology, University of California San Francisco, San Francisco, California
+94158-2324, USA.
+
+Mice lacking the Dlx1 and Dlx2 homeobox genes (Dlx1/2 mutants) have severe
+deficits in subpallial differentiation, including overexpression of the Gsx1 and 
+Gsx2 homeobox genes. To investigate whether Gsx overexpression contributes to the
+Dlx1/2 mutant phenotypes, we made compound loss-of-function mutants. Eliminating 
+Gsx2 function from the Dlx1/2 mutants rescued the increased expression of Ascl1
+and Hes5 (Notch signaling mediators) and Olig2 (oligodendrogenesis mediator). In 
+addition, Dlx1/2;Gsx2 mutants, like Dlx1/2;Ascl1 mutants, exacerbated the Gsx2
+and Dlx1/2 patterning and differentiation phenotypes, particularly in the lateral
+ganglionic eminence (LGE) caudal ganglionic eminence (CGE), and septum, including
+loss of GAD1 expression. On the other hand, eliminating Gsx1 function from the
+Dlx1/2 mutants (Dlx1/2;Gsx1 mutants) did not severely exacerbate their phenotype;
+on the contrary, it resulted in a partial rescue of medial ganglionic eminence
+(MGE) properties, including interneuron migration to the cortex. Thus, despite
+their redundant properties, Gsx1 and -2 have distinct interactions with Dlx1 and 
+-2. Gsx2 interaction is strongest in the LGE, CGE, and septum, whereas the Gsx1
+interaction is strongest in the MGE. From these studies, and earlier studies, we 
+present a model of the transcriptional network that regulates early steps of
+subcortical development.
+
+Copyright © 2012 Wiley Periodicals, Inc.
+
+PMCID: PMC3615175
+PMID: 23042297  [PubMed - indexed for MEDLINE]
+
+
+5. Proc Natl Acad Sci U S A. 2011 Jan 25;108(4):1675-80. doi:
+10.1073/pnas.1008824108. Epub 2011 Jan 4.
+
+Homeobox genes Gsx1 and Gsx2 differentially regulate telencephalic progenitor
+maturation.
+
+Pei Z(1), Wang B, Chen G, Nagao M, Nakafuku M, Campbell K.
+
+Author information: 
+(1)Division of Developmental Biology, Perinatal Institute, Cincinnati Children's 
+Hospital Medical Center, University of Cincinnati College of Medicine, Cincinnati
+OH 45229, USA.
+
+Homeobox genes Gsx1 and Gsx2 (formerly Gsh1 and Gsh2) are among the earliest
+transcription factors expressed in neuronal progenitors of the lateral ganglionic
+eminence (LGE) in the ventral telencephalon. Gsx2 is required for the early
+specification of LGE progenitor cells and recently has been shown to specify
+different LGE neuronal subtypes at distinct time points. In Gsx2 mutants, Gsx1
+compensates, at least in part, for the loss of Gsx2 in the specification of LGE
+neuronal subtypes. Because no specific phenotype has been described in Gsx1
+mutants, it is unclear what role this factor plays in the development of the
+ventral telencephalon. Here, we used a gain-of-function approach to express
+either Gsx1 or Gsx2 throughout the telencephalon and found that Gsx1 functions
+similarly to Gsx2 in the specification of LGE identity. However, our results show
+that Gsx1 and Gsx2 differentially regulate the maturation of LGE progenitors.
+Specifically, Gsx2 maintains LGE progenitors in an undifferentiated state,
+whereas Gsx1 promotes progenitor maturation and the acquisition of neuronal
+phenotypes, at least in part, through the down-regulation of Gsx2. These unique
+results indicate that the two closely related Gsx genes similarly regulate LGE
+patterning but oppositely control the balance between proliferation and
+differentiation in the neuronal progenitor pool.
+
+PMCID: PMC3029701
+PMID: 21205889  [PubMed - indexed for MEDLINE]
+
+
+6. Mol Biol Evol. 2010 Oct;27(10):2386-91. doi: 10.1093/molbev/msq121. Epub 2010 May
+12.
+
+Parallel retention of Pdx2 genes in cartilaginous fish and coelacanths.
+
+Mulley JF(1), Holland PW.
+
+Author information: 
+(1)Department of Zoology, University of Oxford, Oxford, United Kingdom.
+john.mulley@zoo.ox.ac.uk
+
+The Pdx1 or Ipf1 gene encodes an important homeodomain-containing protein with
+key roles in pancreas development and function. Mutations in human PDX1 are
+implicated in developmental defects and disease of the pancreas. Extensive
+research, including genome sequencing, has indicated that Pdx1 is the only member
+of its gene family in mammals, birds, amphibians, and ray-finned fish, and with
+the exception of teleost fish, this gene forms part of the ParaHox gene cluster
+along with Gsx1 and Cdx2. The ParaHox cluster, however, is a remnant of a 4-fold 
+genome duplication; the three other ParaHox paralogues lack a Pdx-like gene in
+all vertebrate genomes examined to date. We have used bacterial artificial
+chromosome cloning and synteny analysis to show that the ancestor of living jawed
+vertebrates in fact had more ParaHox genes, including two Pdx genes (Pdx1 and
+Pdx2). Surprisingly, the two Pdx genes have been retained in parallel in two
+quite distantly related lineages, the cartilaginous fish (sharks, skates, and
+chimeras) and the Indonesian coelacanth, Latimeria menadoensis. The Pdx2 gene has
+been lost independently in ray-finned fish and in tetrapods.
+
+PMCID: PMC2944030
+PMID: 20463047  [PubMed - indexed for MEDLINE]
+
+
+7. Neural Dev. 2009 Feb 10;4:5. doi: 10.1186/1749-8104-4-5.
+
+Ascl1 is a required downstream effector of Gsx gene function in the embryonic
+mouse telencephalon.
+
+Wang B(1), Waclaw RR, Allen ZJ 2nd, Guillemot F, Campbell K.
+
+Author information: 
+(1)Division of Developmental Biology, Cincinnati Children's Hospital Medical
+Center, University of Cincinnati College of Medicine, Cincinnati OH 45229, USA.
+bei.wang@ucsf.edu
+
+BACKGROUND: The homeobox gene Gsx2 (formerly Gsh2) is known to regulate
+patterning in the lateral ganglionic eminence (LGE) of the embryonic
+telencephalon. In its absence, the closely related gene Gsx1 (previously known as
+Gsh1) can partially compensate in the patterning and differentiation of ventral
+telencephalic structures, such as the striatum. However, the cellular and
+molecular mechanisms underlying this compensation remain unclear.
+RESULTS: We show here that in the Gsx2 mutants Gsx1 is expressed in only a subset
+of the ventral telencephalic progenitors that normally express Gsx2. Based on the
+similarities in the expression of Gsx1 and Ascl1 (Mash1) within the Gsx2 mutant
+LGE, we examined whether Ascl1 plays an integral part in the Gsx1-based recovery.
+Ascl1 mutants show only modest alterations in striatal development; however, in
+Gsx2;Ascl1 double mutants, striatal development is severely affected, similar to 
+that seen in the Gsx1;Gsx2 double mutants. This is despite the fact that Gsx1 is 
+expressed, and even expands, in the Gsx2;Ascl1 mutant LGE, comparable to that
+seen in the Gsx2 mutant. Finally, Notch signaling has recently been suggested to 
+be required for normal striatal development. In spite of the fact that Notch
+signaling is severely disrupted in Ascl1 mutants, it actually appears to be
+improved in the Gsx2;Ascl1 double mutants.
+CONCLUSION: These results, therefore, reveal a non-proneural requirement of Ascl1
+that together with Gsx1 compensates for the loss of Gsx2 in a subset of LGE
+progenitors.
+
+PMCID: PMC2644683
+PMID: 19208224  [PubMed - indexed for MEDLINE]
+
+

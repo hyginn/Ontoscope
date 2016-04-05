@@ -1,0 +1,153 @@
+
+1. Pediatr Pulmonol. 2014 Sep;49(9):852-62. doi: 10.1002/ppul.22930. Epub 2013 Oct
+25.
+
+Differential DNA methylation profiles of infants exposed to maternal asthma
+during pregnancy.
+
+Gunawardhana LP(1), Baines KJ, Mattes J, Murphy VE, Simpson JL, Gibson PG.
+
+Author information: 
+(1)Priority Research Centre for Asthma and Respiratory Disease, Hunter Medical
+Research Institute, The University of Newcastle, Sydney, NSW, Australia.
+
+BACKGROUND: Asthma is a complex disease that involves both genetic factors and
+environmental exposures. Aberrant epigenetic modifications, such as DNA
+methylation, may be important in asthma development. Fetal exposure to maternal
+asthma during critical periods of in utero development may lead to epigenetic
+alterations that predispose infants to a greater risk of developing asthma
+themselves. We investigated alterations in the DNA methylation profile of
+peripheral blood from infants exposed to maternal asthma during pregnancy.
+METHODS: Peripheral blood was collected from 12-month-old infants born to women
+with (n<U+2009>=<U+2009>25) and without (n<U+2009>=<U+2009>15) doctor diagnosed asthma during pregnancy.
+Genomic DNA was extracted, bisulfite converted, and hybridized to Infinium
+Methylation 27 arrays (Illumina), containing over27,000 CpGs from 14,495 genes.
+CpG loci in only autosomal genes were classified as differentially methylated at 
+the 99% level (P<U+2009><<U+2009>0.01, |DiffScore|<U+2009>><U+2009>22 and delta beta >0.06).
+RESULTS: There were 70 CpG loci, corresponding to 67 genes that were
+significantly differentially methylated. Twelve CpG loci (11 genes) showed
+greater than 10% comparative difference in DNA methylation, including
+hyper-methylated loci of FAM181A, MRI1, PIWIL1, CHFR, DEFA1, MRPL28, AURKA, and
+hypo-methylated loci of NALP1L5, MAP8KIP3, ACAT2, and PM20D1 in maternal asthma. 
+Methylation of MAPK8IP3 was significantly negatively correlated with maternal
+blood eosinophils (r<U+2009>=<U+2009>-0.38; P<U+2009>=<U+2009>0.022), maternal eNO (r<U+2009>=<U+2009>-0.44; P<U+2009>=<U+2009>0.005),
+and maternal serum total IgE (r<U+2009>=<U+2009>-0.39, P<U+2009>=<U+2009>0.015). Methylation of AURKA
+negatively correlated with maternal hemoglobin (r<U+2009>=<U+2009>-0.43; P<U+2009>=<U+2009>0.008), infants
+height (r<U+2009>=<U+2009>-0.51; P<U+2009><<U+2009>0.001) and weight (r<U+2009>=<U+2009>-0.36; P<U+2009>=<U+2009>0.021). Methylation of
+PM20D1 was lower in infants born to mothers with asthma on inhaled corticosteroid
+treatment. Methylation of PM20D1 was lower and MRI1 was higher in infants born to
+atopic mothers without asthma.
+CONCLUSIONS: In an Australian study population, exposure to maternal asthma
+during pregnancy is associated with differential methylation profiles of infants'
+peripheral blood DNA, which may act as risk factors for future asthma
+development.
+
+© 2013 Wiley Periodicals, Inc.
+
+PMID: 24166889  [PubMed - indexed for MEDLINE]
+
+
+2. PLoS One. 2013 Jul 29;8(7):e68776. doi: 10.1371/journal.pone.0068776. Print 2013.
+
+QTL analysis of dietary obesity in C57BL/6byj X 129P3/J F2 mice: diet- and
+sex-dependent effects.
+
+Lin C(1), Theodorides ML, McDaniel AH, Tordoff MG, Zhang Q, Li X, Bosak N,
+Bachmanov AA, Reed DR.
+
+Author information: 
+(1)Monell Chemical Senses Center, Philadelphia Pennsylvania, USA.
+
+Obesity is a heritable trait caused by complex interactions between genes and
+environment, including diet. Gene-by-diet interactions are difficult to study in 
+humans because the human diet is hard to control. Here, we used mice to study
+dietary obesity genes, by four methods. First, we bred 213 F2 mice from strains
+that are susceptible [C57BL/6ByJ (B6)] or resistant [129P3/J (129)] to dietary
+obesity. Percent body fat was assessed after mice ate low-energy diet and again
+after the same mice ate high-energy diet for 8 weeks. Linkage analyses identified
+QTLs associated with dietary obesity. Three methods were used to filter candidate
+genes within the QTL regions: (a) association mapping was conducted using >40
+strains; (b) differential gene expression and (c) comparison of genomic DNA
+sequence, using two strains closely related to the progenitor strains from
+Experiment 1. The QTL effects depended on whether the mice were male or female or
+which diet they were recently fed. After feeding a low-energy diet, percent body 
+fat was linked to chr 7 (LOD=3.42). After feeding a high-energy diet, percent
+body fat was linked to chr 9 (Obq5; LOD=3.88), chr 12 (Obq34; LOD=3.88), and chr 
+17 (LOD=4.56). The Chr 7 and 12 QTLs were sex dependent and all QTL were
+diet-dependent. The combination of filtering methods highlighted seven candidate 
+genes within the QTL locus boundaries: Crx, Dmpk, Ahr, Mrpl28, Glo1, Tubb5, and
+Mut. However, these filtering methods have limitations so gene identification
+will require alternative strategies, such as the construction of congenics with
+very small donor regions.
+
+PMCID: PMC3726688
+PMID: 23922663  [PubMed - indexed for MEDLINE]
+
+
+3. PLoS One. 2009 Sep 15;4(9):e7033. doi: 10.1371/journal.pone.0007033.
+
+Oxygen consumption can regulate the growth of tumors, a new perspective on the
+Warburg effect.
+
+Chen Y(1), Cairns R, Papandreou I, Koong A, Denko NC.
+
+Author information: 
+(1)Division of Radiation and Cancer Biology, Department of Radiation Oncology,
+Stanford University School of Medicine, Stanford, California, USA.
+
+BACKGROUND: The unique metabolism of tumors was described many years ago by Otto 
+Warburg, who identified tumor cells with increased glycolysis and decreased
+mitochondrial activity. However, "aerobic glycolysis" generates fewer ATP per
+glucose molecule than mitochondrial oxidative phosphorylation, so in terms of
+energy production, it is unclear how increasing a less efficient process provides
+tumors with a growth advantage.
+METHODS/FINDINGS: We carried out a screen for loss of genetic elements in
+pancreatic tumor cells that accelerated their growth as tumors, and identified
+mitochondrial ribosomal protein L28 (MRPL28). Knockdown of MRPL28 in these cells 
+decreased mitochondrial activity, and increased glycolysis, but paradoxically,
+decreased cellular growth in vitro. Following Warburg's observations, this
+mutation causes decreased mitochondrial function, compensatory increase in
+glycolysis and accelerated growth in vivo. Likewise, knockdown of either
+mitochondrial ribosomal protein L12 (MRPL12) or cytochrome oxidase had a similar 
+effect. Conversely, expression of the mitochondrial uncoupling protein 1 (UCP1)
+increased oxygen consumption and decreased tumor growth. Finally, treatment of
+tumor bearing animals with dichloroacetate (DCA) increased pyruvate consumption
+in the mitochondria, increased total oxygen consumption, increased tumor hypoxia 
+and slowed tumor growth.
+CONCLUSIONS: We interpret these findings to show that non-oncogenic genetic
+changes that alter mitochondrial metabolism can regulate tumor growth through
+modulation of the consumption of oxygen, which appears to be a rate limiting
+substrate for tumor proliferation.
+
+PMCID: PMC2737639
+PMID: 19753307  [PubMed - indexed for MEDLINE]
+
+
+4. Yeast. 2002 Aug;19(11):991-4.
+
+Genomic differences between Candida glabrata and Saccharomyces cerevisiae around 
+the MRPL28 and GCN3 loci.
+
+Walsh DW(1), Wolfe KH, Butler G.
+
+Author information: 
+(1)Department of Biochemistry and Conway Institute of Biomolecular and Biomedical
+Science, University College Dublin, Belfield, Dublin 4, Ireland.
+
+We report the sequences of two genomic regions from the pathogenic yeast Candida 
+glabrata and their comparison to Saccharomyces cerevisiae. A 3 kb region from C. 
+glabrata was sequenced that contains homologues of the S. cerevisiae genes TFB3, 
+MRPL28 and STP1. The equivalent region in S. cerevisiae includes a fourth gene,
+MFA1, coding for mating factor a. The absence of MFA1 is consistent with C.
+glabrata's asexual life cycle, although we cannot exclude the possibility that
+a-factor gene(s) are located somewhere else in its genome. We also report the
+sequence of a 16 kb region from C. glabrata that contains a five-gene cluster
+similar to S. cerevisiae chromosome XI (including GCN3) followed by a four-gene
+cluster similar to chromosome XV (including HIS3). A small-scale rearrangement of
+gene order has occurred in the chromosome XI-like section.
+
+Copyright 2002 John Wiley & Sons, Ltd.
+
+PMID: 12125055  [PubMed - indexed for MEDLINE]
+
+

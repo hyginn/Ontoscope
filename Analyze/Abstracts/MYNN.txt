@@ -1,0 +1,456 @@
+
+1. Korean J Intern Med. 2015 Sep;30(5):719-26. doi: 10.3904/kjim.2015.30.5.719. Epub
+2015 Aug 27.
+
+Replication of the results of genome-wide and candidate gene association studies 
+on telomere length in a Korean population.
+
+Do SK(1), Yoo SS(2), Choi YY(1), Choi JE(1), Jeon HS(1), Lee WK(3), Lee SY(2),
+Lee J(2), Cha SI(2), Kim CH(2), Park JY(1,)(2).
+
+Author information: 
+(1)Department of Biochemistry and Cell Biology, Kyungpook National University
+School of Medicine, Daegu, Korea. (2)Department of Internal Medicine, Kyungpook
+National University School of Medicine, Daegu, Korea. (3)Department of Preventive
+Medicine, Kyungpook National University School of Medicine, Daegu, Korea.
+
+BACKGROUND/AIMS: A number of genome-wide and candidate gene association studies
+have identified polymorphisms associated with telomere length in Caucasian
+populations. This study was conducted to determine the impacts of 17
+polymorphisms identified in Caucasians on telomere length in a Korean population.
+METHODS: Ninety-four healthy individuals were enrolled in this study. Relative
+telomere length of chromosomes from peripheral blood samples was measured using
+quantitative polymerase chain reaction.
+RESULTS: Two polymorphisms, rs10936599 of MYNN and rs412658 of ZNF676, were found
+to be associated w ith telomere length (under dominant model, p = 0.04; under
+recessive model, p = 0.001). Three polymorphisms, rs2853669, rs7705526, and
+rs2736108, at the TERT locus were also associated with telomere length (under
+recessive model, p = 0.01, p = 0.02, and p = 0.01, respectively). The genotypes
+of the five polymorphisms associated with short telomere length were considered
+bad genotypes; telomere length was significantly decreased with increasing number
+of bad genotypes (p= 1.7 × 10(-5)).
+CONCLUSIONS: We have identified polymorphisms associated with telomere length in 
+a Korean population.
+
+PMCID: PMC4578038
+PMID: 26354067  [PubMed - in process]
+
+
+2. J Environ Sci (China). 2015 Jun 1;32:168-79. doi: 10.1016/j.jes.2014.10.025. Epub
+2015 Apr 24.
+
+Numerical study of the effects of Planetary Boundary Layer structure on the
+pollutant dispersion within built-up areas.
+
+Miao Y(1), Liu S(2), Zheng Y(3), Wang S(3), Liu Z(4), Zhang B(5).
+
+Author information: 
+(1)Department of Atmospheric and Oceanic Sciences, School of Physics, Peking
+University, Beijing 100871, China. Electronic address: miaoyucong@yeah.net.
+(2)Department of Atmospheric and Oceanic Sciences, School of Physics, Peking
+University, Beijing 100871, China. Electronic address: lshuhua@pku.edu.cn.
+(3)Department of Atmospheric and Oceanic Sciences, School of Physics, Peking
+University, Beijing 100871, China. (4)Department of Atmospheric and Oceanic
+Sciences, School of Physics, Peking University, Beijing 100871, China;
+International Center of Climate and Environment Sciences, Institute of
+Atmospheric Physics, Chinese Academy of Sciences, Beijing 100029, China.
+(5)National Meteorological Center, China Meteorological Administration, Beijing
+100081, China.
+
+The effects of different Planetary Boundary Layer (PBL) structures on pollutant
+dispersion processes within two idealized street canyon configurations and a
+realistic urban area were numerically examined by a Computational Fluid Dynamics 
+(CFD) model. The boundary conditions of different PBL structures/conditions were 
+provided by simulations of the Weather Researching and Forecasting model. The
+simulated results of the idealized 2D and 3D street canyon experiments showed
+that the increment of PBL instability favored the downward transport of momentum 
+from the upper flow above the roof to the pedestrian level within the street
+canyon. As a result, the flow and turbulent fields within the street canyon under
+the more unstable PBL condition are stronger. Therefore, more pollutants within
+the street canyon would be removed by the stronger advection and turbulent
+diffusion processes under the unstable PBL condition. On the contrary, more
+pollutants would be concentrated in the street canyon under the stable PBL
+condition. In addition, the simulations of the realistic building cluster
+experiments showed that the density of buildings was a crucial factor determining
+the dynamic effects of the PBL structure on the flow patterns. The momentum field
+within a denser building configuration was mostly transported from the upper
+flow, and was more sensitive to the PBL structures than that of the sparser
+building configuration. Finally, it was recommended to use the
+Mellor-Yamada-Nakanishi-Niino (MYNN) PBL scheme, which can explicitly output the 
+needed turbulent variables, to provide the boundary conditions to the CFD
+simulation.
+
+Copyright © 2015. Published by Elsevier B.V.
+
+PMID: 26040743  [PubMed - indexed for MEDLINE]
+
+
+3. Epigenetics. 2015;10(7):650-61. doi: 10.1080/15592294.2015.1057672.
+
+DNA methylation levels and long-term trihalomethane exposure in drinking water:
+an epigenome-wide association study.
+
+Salas LA(1), Bustamante M, Gonzalez JR, Gracia-Lavedan E, Moreno V, Kogevinas M, 
+Villanueva CM.
+
+Author information: 
+(1)a Centre for Research in Environmental Epidemiology (CREAL) ; Barcelona ,
+Spain.
+
+Trihalomethanes (THM) are undesired disinfection byproducts (DBPs) formed during 
+water treatment. Mice exposed to DBPs showed global DNA hypomethylation and c-myc
+and c-jun gene-specific hypomethylation, while evidence of epigenetic effects in 
+humans is scarce. We explored the association between lifetime THM exposure and
+DNA methylation through an epigenome-wide association study. We selected 138
+population-based controls from a case-control study of colorectal cancer
+conducted in Barcelona, Spain, exposed to average lifetime THM levels =85 µg/L
+vs. >85 µg/L (N = 68 and N = 70, respectively). Mean age of participants was 70
+years, and 54% were male. Average lifetime THM level in the exposure groups was
+64 and 130 µg/L, respectively. DNA was extracted from whole blood and was
+bisulphite converted to measure DNA methylation levels using the Illumina
+HumanMethylation450 BeadChip. Data preprocessing was performed using RnBeads.
+Methylation was compared between exposure groups using empirical Bayes moderated 
+linear regression for CpG sites and Gaussian kernel for CpG regions.
+ConsensusPathDB was used for gene set enrichment. Statistically significant
+differences in methylation between exposure groups was found in 140 CpG sites and
+30 gene-related regions, after false discovery rate <0.05 and adjustment for age,
+sex, methylation first principal component, and blood cell proportion. The
+annotated genes were localized to several cancer pathways. Among them, 29 CpGs
+had methylation levels associated with THM levels (|<U+0394>ß|=0.05) located in 11 genes
+associated with cancer in other studies. Our results suggest that THM exposure
+may affect DNA methylation in genes related to tumors, including colorectal and
+bladder cancers. Future confirmation studies are required.
+
+PMCID: PMC4622514 [Available on 2016-06-03]
+PMID: 26039576  [PubMed - indexed for MEDLINE]
+
+
+4. Front Genet. 2014 Jan 17;4:310. doi: 10.3389/fgene.2013.00310. eCollection 2013.
+
+Genome wide association and linkage analyses identified three loci-4q25, 17q23.2,
+and 10q11.21-associated with variation in leukocyte telomere length: the Long
+Life Family Study.
+
+Lee JH(1), Cheng R(2), Honig LS(3), Feitosa M(4), Kammerer CM(5), Kang MS(6),
+Schupf N(7), Lin SJ(4), Sanders JL(8), Bae H(9), Druley T(10), Perls T(11),
+Christensen K(12), Province M(4), Mayeux R(13).
+
+Author information: 
+(1)Sergievsky Center, College of Physicians and Surgeons, Columbia University New
+York, NY, USA ; Taub Institute, College of Physicians and Surgeons, Columbia
+University New York, NY, USA ; Department of Epidemiology, School of Public
+Health, Columbia University New York, NY, USA. (2)Sergievsky Center, College of
+Physicians and Surgeons, Columbia University New York, NY, USA ; Taub Institute, 
+College of Physicians and Surgeons, Columbia University New York, NY, USA.
+(3)Sergievsky Center, College of Physicians and Surgeons, Columbia University New
+York, NY, USA ; Taub Institute, College of Physicians and Surgeons, Columbia
+University New York, NY, USA ; Department of Neurology, College of Physicians and
+Surgeons, Columbia University New York, NY, USA. (4)Division of Statistical
+Genomics, Department of Genetics, Washington University School of Medicine St.
+Louis, MO, USA. (5)Department of Epidemiology, University of Pittsburgh
+Pittsburgh, PA, USA ; Department of Human Genetics, University of Pittsburgh
+Pittsburgh, PA, USA ; Center for Aging and Population Health, University of
+Pittsburgh Pittsburgh, PA, USA. (6)Taub Institute, College of Physicians and
+Surgeons, Columbia University New York, NY, USA. (7)Sergievsky Center, College of
+Physicians and Surgeons, Columbia University New York, NY, USA ; Taub Institute, 
+College of Physicians and Surgeons, Columbia University New York, NY, USA ;
+Department of Epidemiology, School of Public Health, Columbia University New
+York, NY, USA ; Department of Psychiatry, College of Physicians and Surgeons,
+Columbia University New York, NY, USA. (8)Department of Epidemiology, University 
+of Pittsburgh Pittsburgh, PA, USA ; Center for Aging and Population Health,
+University of Pittsburgh Pittsburgh, PA, USA. (9)Department of Biostatistics,
+Boston University Medical Center Boston, MA, USA. (10)Department of Pediatrics
+and Genetics, Washington University School of Medicine St. Louis, MO, USA.
+(11)Department of Medicine, Boston University Medical Center Boston, MA, USA.
+(12)The Danish Aging Research Center, Epidemiology, University of Southern
+Denmark Odense, Denmark. (13)Sergievsky Center, College of Physicians and
+Surgeons, Columbia University New York, NY, USA ; Taub Institute, College of
+Physicians and Surgeons, Columbia University New York, NY, USA ; Department of
+Epidemiology, School of Public Health, Columbia University New York, NY, USA ;
+Department of Neurology, College of Physicians and Surgeons, Columbia University 
+New York, NY, USA ; Department of Psychiatry, College of Physicians and Surgeons,
+Columbia University New York, NY, USA.
+
+Leukocyte telomere length is believed to measure cellular aging in humans, and
+short leukocyte telomere length is associated with increased risks of late onset 
+diseases, including cardiovascular disease, dementia, etc. Many studies have
+shown that leukocyte telomere length is a heritable trait, and several candidate 
+genes have been identified, including TERT, TERC, OBFC1, and CTC1. Unlike most
+studies that have focused on genetic causes of chronic diseases such as heart
+disease and diabetes in relation to leukocyte telomere length, the present study 
+examined the genome to identify variants that may contribute to variation in
+leukocyte telomere length among families with exceptional longevity. From the
+genome wide association analysis in 4,289 LLFS participants, we identified a
+novel intergenic SNP rs7680468 located near PAPSS1 and DKK2 on 4q25 (p = 4.7E-8).
+From our linkage analysis, we identified two additional novel loci with HLOD
+scores exceeding three, including 4.77 for 17q23.2, and 4.36 for 10q11.21. These 
+two loci harbor a number of novel candidate genes with SNPs, and our gene-wise
+association analysis identified multiple genes, including DCAF7, POLG2, CEP95,
+and SMURF2 at 17q23.2; and RASGEF1A, HNRNPF, ANF487, CSTF2T, and PRKG1 at
+10q11.21. Among these genes, multiple SNPs were associated with leukocyte
+telomere length, but the strongest association was observed with one contiguous
+haplotype in CEP95 and SMURF2. We also show that three previously reported
+genes-TERC, MYNN, and OBFC1-were significantly associated with leukocyte telomere
+length at p empirical < 0.05.
+
+PMCID: PMC3894567
+PMID: 24478790  [PubMed]
+
+
+5. J Diabetes Res. 2013;2013:970435. doi: 10.1155/2013/970435. Epub 2013 Dec 26.
+
+Identifying candidate genes for Type 2 Diabetes Mellitus and obesity through gene
+expression profiling in multiple tissues or cells.
+
+Chen J(1), Meng Y(2), Zhou J(1), Zhuo M(1), Ling F(1), Zhang Y(3), Du H(1), Wang 
+X(2).
+
+Author information: 
+(1)School of Bioscience and Bioengineering, Guangdong Provincial Key Laboratory
+of Fermentation and Enzyme Engineering, South China University of Technology,
+Guangzhou 510006, China. (2)School of Bioscience and Bioengineering, Guangdong
+Provincial Key Laboratory of Fermentation and Enzyme Engineering, South China
+University of Technology, Guangzhou 510006, China ; Chinese PLA General Hospital,
+Beijing 100853, China. (3)Guangdong Laboratory Animals Monitoring Institute,
+Guangzhou 510555, China.
+
+Type 2 Diabetes Mellitus (T2DM) and obesity have become increasingly prevalent in
+recent years. Recent studies have focused on identifying causal variations or
+candidate genes for obesity and T2DM via analysis of expression quantitative
+trait loci (eQTL) within a single tissue. T2DM and obesity are affected by
+comprehensive sets of genes in multiple tissues. In the current study, gene
+expression levels in multiple human tissues from GEO datasets were analyzed, and 
+21 candidate genes displaying high percentages of differential expression were
+filtered out. Specifically, DENND1B, LYN, MRPL30, POC1B, PRKCB, RP4-655J12.3,
+HIBADH, and TMBIM4 were identified from the T2DM-control study, and BCAT1, BMP2K,
+CSRNP2, MYNN, NCKAP5L, SAP30BP, SLC35B4, SP1, BAP1, GRB14, HSP90AB1, ITGA5, and
+TOMM5 were identified from the obesity-control study. The majority of these genes
+are known to be involved in T2DM and obesity. Therefore, analysis of gene
+expression in various tissues using GEO datasets may be an effective and feasible
+method to determine novel or causal genes associated with T2DM and obesity.
+
+PMCID: PMC3888709
+PMID: 24455749  [PubMed - indexed for MEDLINE]
+
+
+6. Avian Pathol. 2010 Dec;39(6):519-24. doi: 10.1080/03079457.2010.530938.
+
+A molecular epidemiological investigation of avian paramyxovirus type 1 viruses
+isolated from game birds of the order Galliformes.
+
+Aldous EW(1), Mynn JK, Irvine RM, Alexander DJ, Brown IH.
+
+Author information: 
+(1)Virology Department, Veterinary Laboratories Agency Weybridge, Addlestone,
+Surrey, UK. e.aldous@VLA.defra.gsi.gov.uk
+
+The partial (370 nucleotides) fusion gene sequences of 55 avian paramyxovirus
+type 1 (APMV-1) isolates were obtained. Included were 41 published sequences, of 
+which 16 were from strains of APMV-1 of previously determined lineages included
+as markers for the data analysed and 25 were from APMV-1 viruses isolated from
+game birds of the order Galliformes. In addition, we sequenced a further 14 game 
+bird isolates obtained from the repository at the Veterinary Laboratories Agency.
+The game bird isolates had been obtained from 17 countries, and spanned four
+decades. Earlier studies have shown that class II APMV-1 viruses can be divided
+into at least 15 lineages and sub-lineages. Phylogenetic analysis revealed that
+the 39 game bird isolates were distributed across 12 of these sub-lineages. We
+conclude that no single lineage of Newcastle disease viruses appears to be
+prevalent in game birds, and the isolates obtained from these hosts reflected the
+prevailing, both geographically and temporally, viruses in poultry, pigeons or
+wild birds.
+
+PMID: 21154063  [PubMed - indexed for MEDLINE]
+
+
+7. PLoS One. 2010 Apr 8;5(4):e9983. doi: 10.1371/journal.pone.0009983.
+
+Identification of candidate growth promoting genes in ovarian cancer through
+integrated copy number and expression analysis.
+
+Ramakrishna M(1), Williams LH, Boyle SE, Bearfoot JL, Sridhar A, Speed TP,
+Gorringe KL, Campbell IG.
+
+Author information: 
+(1)VBCRC Cancer Genetics Laboratory, Peter MacCallum Cancer Centre, East
+Melbourne, Victoria, Australia.
+
+Erratum in
+    PLoS One. 2011;6(7). doi:10.1371/annotation/4056b510-e92d-4472-871f-2cf1f6834689.
+
+Ovarian cancer is a disease characterised by complex genomic rearrangements but
+the majority of the genes that are the target of these alterations remain
+unidentified. Cataloguing these target genes will provide useful insights into
+the disease etiology and may provide an opportunity to develop novel diagnostic
+and therapeutic interventions. High resolution genome wide copy number and
+matching expression data from 68 primary epithelial ovarian carcinomas of various
+histotypes was integrated to identify genes in regions of most frequent
+amplification with the strongest correlation with expression and copy number.
+Regions on chromosomes 3, 7, 8, and 20 were most frequently increased in copy
+number (> 40% of samples). Within these regions, 703/1370 (51%) unique gene
+expression probesets were differentially expressed when samples with gain were
+compared to samples without gain. 30% of these differentially expressed probesets
+also showed a strong positive correlation (r > or =0.6) between expression and
+copy number. We also identified 21 regions of high amplitude copy number gain, in
+which 32 known protein coding genes showed a strong positive correlation between 
+expression and copy number. Overall, our data validates previously known ovarian 
+cancer genes, such as ERBB2, and also identified novel potential drivers such as 
+MYNN, PUF60 and TPX2.
+
+PMCID: PMC2851616
+PMID: 20386695  [PubMed - indexed for MEDLINE]
+
+
+8. Cancer Res. 2007 Apr 1;67(7):3074-84.
+
+Amplification of MDS1/EVI1 and EVI1, located in the 3q26.2 amplicon, is
+associated with favorable patient prognosis in ovarian cancer.
+
+Nanjundan M(1), Nakayama Y, Cheng KW, Lahad J, Liu J, Lu K, Kuo WL, Smith-McCune 
+K, Fishman D, Gray JW, Mills GB.
+
+Author information: 
+(1)Department of Molecular Therapeutics, M. D. Anderson Cancer Center, University
+of Texas, Houston, Texas, USA. mnanjund@mdanderson.org
+
+Increased copy number involving chromosome 3q26 is a frequent and early event in 
+cancers of the ovary, lung, head and neck, cervix, and BRCA1 positive and basal
+breast cancers. The p110alpha catalytic subunit of phosphoinositide-3-kinase
+(PI3KCA) and protein kinase Ciota (PKCiota) have previously been shown as
+functionally deregulated by 3q copy number increase. High-resolution array
+comparative genomic hybridization of 235 high-grade serous epithelial ovarian
+cancers using contiguous bacterial artificial chromosomes across 3q26 delineated 
+an approximately 2 Mb-wide region at 3q26.2 encompassing PDCD10 to MYNN
+(chr3:168722613-170908630). Ecotropic viral integration site-1 (EVI1) and
+myelodysplastic syndrome 1 (MDS1) are located at the center of this region, and
+their DNA copy number increases are associated with at least 5-fold increased RNA
+transcript levels in 83% and 98% of advanced ovarian cancers, respectively.
+Moreover, MDS1/EVI1 and EVI1 protein levels are increased in ovarian cancers and 
+cancer cell lines. EVI1 and MDS1/EVI1 gene products increased cell proliferation,
+migration, and decreased transforming growth factor-beta-mediated plasminogen
+activator inhibitor-1 promoter activity in ovarian epithelial cells.
+Intriguingly, the increases in EVI1 DNA copy number and MDS1/EVI1 transcripts are
+associated with improved patient outcomes, whereas EVI1 transcript levels are
+associated with a poor patient survival. Thus, the favorable patient prognosis
+associated with increased DNA copy number seems to be as a result of high-level
+expression of the fusion transcript MDS1/EVI1. Collectively, these studies
+suggest that MDS1/EVI1 and EVI1, previously implicated in acute myelogenous
+leukemia, contribute to the pathophysiology of epithelial ovarian cancer.
+
+PMID: 17409414  [PubMed - indexed for MEDLINE]
+
+
+9. Avian Pathol. 2004 Apr;33(2):258-69.
+
+A molecular epidemiological investigation of isolates of the variant avian
+paramyxovirus type 1 virus (PPMV-1) responsible for the 1978 to present panzootic
+in pigeons.
+
+Aldous EW(1), Fuller CM, Mynn JK, Alexander DJ.
+
+Author information: 
+(1)Virology Department, Veterinary Laboratories Agency Weybridge, Surrey, UK.
+e.aldous@VLA.defra.gsi.gov.uk
+
+A sequence of 375 nucleotides, which included the region encoding the cleavage
+activation site and signal peptide of the fusion protein gene, was determined for
+178 isolates of the pigeon variant strain of Newcastle disease virus (PPMV-1).
+These were compared with the sequences of 47 similar isolates published by
+GenBank, which included 30 isolates from pigeons and 17 representatives from each
+sublineage of avian paramyxovirus type 1. The resulting alignment was analysed
+phylogenetically using maximum likelihood and the results are presented as
+unrooted phylogenetic trees. By phylogenetic analysis all the PPMV-1 isolates
+except one were placed in lineage 4b (VIb). Within this lineage there was
+considerable genetic heterogeneity, which appears to be predominantly influenced 
+by the date of isolation and, to a lesser extent, geographical origins of the
+isolates. There were two large distinguishable groups, 4bi and 4bii. The earliest
+isolate available, PIQPI78442, isolated in 1978 in Iraq, was situated at the node
+from which the two groups diverge.
+
+PMID: 15276997  [PubMed - indexed for MEDLINE]
+
+
+10. Muscle Nerve. 2004 Jan;29(1):59-65.
+
+Neuromuscular expression of the BTB/POZ and zinc finger protein myoneurin.
+
+Cifuentes-Diaz C(1), Bitoun M, Goudou D, Seddiqi N, Romero N, Rieger F, Perin JP,
+Alliel PM.
+
+Author information: 
+(1)INSERM U-440 and U-536, IFM, 17 rue du Fer-à-Moulin, Paris, France.
+
+Myoneurin belongs to the BTB/POZ and zinc finger protein family whose members
+have been implicated in regulatory functions of gene expression. Myoneurin has
+been identified in various tissues, but muscle is a privileged site of myoneurin 
+gene transcription. We examined the neuromuscular expression of myoneurin during 
+development and after axotomy. Myoneurin expression is developmentally regulated 
+in mouse muscle and appeared to be associated with neuromuscular junctions during
+the late embryonic period. Myoneurin is located in and around synaptic myonuclei 
+in mouse and human adult muscle. The expression of myoneurin is dysregulated
+after nerve section. Thus, the restricted myoneurin expression in synaptic
+myonuclei appeared to be controlled by muscle electrical activity. Myoneurin is
+identified within the peripheral condensed chromatin and the
+euchromatin/heterochromatin regions, and thus fulfills structural and expression 
+criteria to represent a synaptic gene regulator.
+
+PMID: 14694499  [PubMed - indexed for MEDLINE]
+
+
+11. Avian Pathol. 2003 Jun;32(3):239-56.
+
+A molecular epidemiological study of avian paramyxovirus type 1 (Newcastle
+disease virus) isolates by phylogenetic analysis of a partial nucleotide sequence
+of the fusion protein gene.
+
+Aldous EW(1), Mynn JK, Banks J, Alexander DJ.
+
+Author information: 
+(1)Virology Department Veterinary Laboratories Agency-Weybridge New Haw,
+Addlestone KT15 3NB Surrey, UK. e.aldous@VLA.defra.gsi.gov
+
+A sequence 375 nucleotides in length, which included the region encoding the
+cleavage activation site and signal peptide of the fusion protein gene, was
+determined for 174 isolates of Newcastle disease virus (avian paramyxovirus type 
+1). These were compared with the sequences of 164 isolates published on GenBank, 
+and the resulting alignment was analysed phylogenetically using maximum
+likelihood. The results are presented as unrooted phylogenetic trees. Briefly,
+the isolates divided into six broadly distinct groups (lineages 1 to 6). Lineages
+3 and 4 were further subdivided into four sublineages (a to d) and lineage 5 into
+five lineages (a to e). Considerable genetic heterogeneity was detected within
+avian paramyxoviruses type 1, which appears to be influenced by host, time and
+geographical origin. It is concluded that by using this dataset it will be
+possible to type future virus isolates rapidly on the basis of their nucleotide
+sequence and make inferences about their origins.
+
+PMID: 12850913  [PubMed - indexed for MEDLINE]
+
+
+12. Biochem Biophys Res Commun. 2000 Jun 24;273(1):385-91.
+
+Myoneurin, a novel member of the BTB/POZ-zinc finger family highly expressed in
+human muscle.
+
+Alliel PM(1), Seddiqi N, Goudou D, Cifuentes-Diaz C, Romero N, Velasco E, Rieger 
+F, Périn JP.
+
+Author information: 
+(1)Institut National de la Santé et de la Recherche Médicale, U488, Bâtiment
+Gregory Pincus, 80 rue du Général Leclerc, Le Kremlin Bicêtre cedex, 94276,
+France. alliel@infobiogen.fr
+
+Initially characterized as Drosophila developmental regulators, the BTB/POZ and
+zinc finger proteins (BTB/POZ-ZF) constitute a growing family of proteins with
+gene expression regulatory functions since they have been shown to be involved in
+both transcriptional activation and repression of various genes in a broad range 
+of species, including mammals. Here we report the cloning of a novel human
+transcript, coding for a 68-kDa deduced BTB/POZ-ZF protein. This molecule, called
+myoneurin on the basis of its prevalent expression in the neuromuscular system,
+contains an amino-terminal BTB/POZ domain and eight tandemly repeated zinc-finger
+motifs of the C(2)H(2) type. The murine myoneurin, identified in the mouse
+embryo, is highly homologous to the human protein.
+
+Copyright 2000 Academic Press.
+
+PMID: 10873615  [PubMed - indexed for MEDLINE]
+
+

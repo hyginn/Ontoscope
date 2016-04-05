@@ -1,0 +1,817 @@
+
+1. Philos Trans R Soc Lond B Biol Sci. 2016 Jan 5;371(1685):20150040. doi:
+10.1098/rstb.2015.0040.
+
+Loss of neurogenesis in Hydra leads to compensatory regulation of neurogenic and 
+neurotransmission genes in epithelial cells.
+
+Wenger Y(1), Buzgariu W(1), Galliot B(2).
+
+Author information: 
+(1)Department of Genetics and Evolution, Institute of Genetics and Genomics in
+Geneva (IGe3), Faculty of Sciences, University of Geneva, 30 quai Ernest
+Ansermet, CH-1211 Geneva 4, Switzerland. (2)Department of Genetics and Evolution,
+Institute of Genetics and Genomics in Geneva (IGe3), Faculty of Sciences,
+University of Geneva, 30 quai Ernest Ansermet, CH-1211 Geneva 4, Switzerland
+brigitte.galliot@unige.ch.
+
+Hydra continuously differentiates a sophisticated nervous system made of
+mechanosensory cells (nematocytes) and sensory-motor and ganglionic neurons from 
+interstitial stem cells. However, this dynamic adult neurogenesis is dispensable 
+for morphogenesis. Indeed animals depleted of their interstitial stem cells and
+interstitial progenitors lose their active behaviours but maintain their
+developmental fitness, and regenerate and bud when force-fed. To characterize the
+impact of the loss of neurogenesis in Hydra, we first performed transcriptomic
+profiling at five positions along the body axis. We found neurogenic genes
+predominantly expressed along the central body column, which contains stem cells 
+and progenitors, and neurotransmission genes predominantly expressed at the
+extremities, where the nervous system is dense. Next, we performed
+transcriptomics on animals depleted of their interstitial cells by hydroxyurea,
+colchicine or heat-shock treatment. By crossing these results with
+cell-type-specific transcriptomics, we identified epithelial genes up-regulated
+upon loss of neurogenesis: transcription factors (Dlx, Dlx1, DMBX1/Manacle, Ets1,
+Gli3, KLF11, LMX1A, ZNF436, Shox1), epitheliopeptides (Arminins, PW peptide),
+neurosignalling components (CAMK1D, DDCl2, Inx1), ligand-ion channel receptors
+(CHRNA1, NaC7), G-Protein Coupled Receptors and FMRFRL. Hence epitheliomuscular
+cells seemingly enhance their sensing ability when neurogenesis is compromised.
+This unsuspected plasticity might reflect the extended multifunctionality of
+epithelial-like cells in early eumetazoan evolution.
+
+© 2015 The Authors.
+
+PMCID: PMC4685579
+PMID: 26598723  [PubMed - in process]
+
+
+2. Endocrinology. 2016 Jan;157(1):245-57. doi: 10.1210/en.2015-1560. Epub 2015 Oct
+27.
+
+Importance of Adult Dmbx1 in Long-Lasting Orexigenic Effect of Agouti-Related
+Peptide.
+
+Hirono S(1), Lee EY(1), Kuribayashi S(1), Fukuda T(1), Saeki N(1), Minokoshi
+Y(1), Iwanaga T(1), Miki T(1).
+
+Author information: 
+(1)Departments of Medical Physiology (S.H., E.Y.L., S.K., T.M.) and Neurological 
+Surgery (S.H., N.S.), Chiba University Graduate School of Medicine, Chuo-ku,
+Chiba, 260-0856, Japan; Division of Neuropathology (T.F.), Department of
+Pathology, The Jikei University School of Medicine, Minato-ku, Tokyo, 105-0003,
+Japan; Department of Developmental Physiology (Y.M.), National Institute for
+Physiological Sciences, Myoudaijicho, Okazaki-City, 444-8585, Japan; and
+Laboratory of Histology and Cytology (T.I.), Hokkaido University Graduate School 
+of Medicine, Kita-ku, Sapporo 060-8638, Japan.
+
+Dmbx1 is a brain-specific homeodomain transcription factor expressed primarily
+during embryogenesis, and its systemic disruption (Dmbx1(-/-)) in the ICR mouse
+strain resulted in leanness associated with impaired long-lasting orexigenic
+effect of agouti-related peptide (AgRP). Because spatial and temporal expression 
+patterns of Dmbx1 change dramatically during embryogenesis, it remains unknown
+when and where Dmbx1 plays a critical role in energy homeostasis. In the present 
+study, the physiological roles of Dmbx1 were examined by its conditional
+disruption (Dmbx1(loxP/loxP)) in the C57BL/6 mouse strain. Although Dmbx1
+disruption in fetal brain resulted in neonatal lethality, its disruption by
+synapsin promoter-driven Cre recombinase, which eliminated Dmbx1 expression
+postnatally, exempted the mice (Syn-Cre;Dmbx1(loxP/loxP) mice) from lethality.
+Syn-Cre;Dmbx1(loxP/loxP) mice show mild leanness and impaired long-lasting
+orexigenic action of AgRP, demonstrating the physiological relevance of Dmbx1 in 
+the adult. Visualization of Dmbx1-expressing neurons in adult brain using the
+mice harboring tamoxifen-inducible Cre recombinase in the Dmbx1 locus
+(Dmbx1(CreERT2/+) mice) revealed Dmbx1 expression in small numbers of neurons in 
+restricted regions, including the lateral parabrachial nucleus (LPB). Notably,
+c-Fos expression in LPB was increased at 48 hours after AgRP administration in
+Dmbx1(loxP/loxP) mice but not in Syn-Cre;Dmbx1(loxP/loxP) mice. These
+c-Fos-positive neurons in LPB did not coincide with neurons expressing Dmbx1 or
+melanocortin 4 receptor but did coincide with those expressing calcitonin
+gene-related peptide. Accordingly, Dmbx1 in the adult LPB is required for the
+long-lasting orexigenic effect of AgRP via the neural circuitry involving
+calcitonin gene-related peptide neurons.
+
+PMID: 26505115  [PubMed - in process]
+
+
+3. Dev Biol. 2015 Jun 15;402(2):216-28. doi: 10.1016/j.ydbio.2015.03.020. Epub 2015 
+Apr 11.
+
+Mutual antagonism of the paired-type homeobox genes, vsx2 and dmbx1, regulates
+retinal progenitor cell cycle exit upstream of ccnd1 expression.
+
+Wong L(1), Power N(1), Miles A(1), Tropepe V(2).
+
+Author information: 
+(1)Department of Cell and Systems Biology, University of Toronto, Toronto,
+Ontario, Canada M5S 3G5. (2)Department of Cell and Systems Biology, University of
+Toronto, Toronto, Ontario, Canada M5S 3G5; Department of Ophthalmology and Vision
+Sciences, University of Toronto, Toronto, Ontario, Canada M5T 3A9; Centre for the
+Analysis of Genome Evolution and Function, University of Toronto, Toronto,
+Ontario, Canada M5S 3B2. Electronic address: v.tropepe@utoronto.ca.
+
+Understanding the mechanisms that regulate the transition between the
+proliferative and a post-mitotic state of retinal progenitor cells (RPCs) is key 
+to advancing our knowledge of retinal growth and maturation. In the present study
+we determined that during zebrafish embryonic retinal neurogenesis, two
+paired-type homeobox genes - vsx2 and dmbx1 - function in a mutually antagonistic
+manner. We demonstrate that vsx2 gene expression requires active Fgf signaling
+and that this in turn suppresses dmbx1 expression and maintains cells in an
+undifferentiated, proliferative RPC state. This vsx2-dependent RPC state can be
+prolonged cell-autonomously by knockdown of dmbx1, or it can be suppressed
+prematurely by the over-expression of dmbx1, which we show can inhibit vsx2
+expression and lead to precocious neuronal differentiation. dmbx1 loss of
+function also results in altered expression of canonical cell cycle genes, and in
+particular up-regulation of ccnd1, which correlates with our previous finding of 
+a prolonged RPC cell cycle. By knocking down ccnd1 and dmbx1 simultaneously, we
+show that RPCs can overcome this phenotype to exit the cell cycle on time and
+differentiate normally into retinal neurons. Collectively, our data provide novel
+insight into the mechanism that enables RPCs to exit the cell cycle through a
+previously unrecognized antagonistic interaction of two paired-type homeobox
+genes that are central regulators of an Fgf-vsx2-dmbx1-ccnd1 signaling axis.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+PMID: 25872183  [PubMed - indexed for MEDLINE]
+
+
+4. Cell Rep. 2015 Jan 13;10(2):148-61. doi: 10.1016/j.celrep.2014.12.015. Epub 2014 
+Dec 31.
+
+Accelerating novel candidate gene discovery in neurogenetic disorders via
+whole-exome sequencing of prescreened multiplex consanguineous families.
+
+Alazami AM(1), Patel N(1), Shamseldin HE(1), Anazi S(1), Al-Dosari MS(2),
+Alzahrani F(1), Hijazi H(1), Alshammari M(3), Aldahmesh MA(1), Salih MA(3),
+Faqeih E(4), Alhashem A(5), Bashiri FA(3), Al-Owain M(6), Kentab AY(3), Sogaty
+S(7), Al Tala S(8), Temsah MH(3), Tulbah M(9), Aljelaify RF(10), Alshahwan
+SA(11), Seidahmed MZ(12), Alhadid AA(3), Aldhalaan H(13), AlQallaf F(13), Kurdi
+W(9), Alfadhel M(14), Babay Z(15), Alsogheer M(16), Kaya N(1), Al-Hassnan ZN(6), 
+Abdel-Salam GM(17), Al-Sannaa N(18), Al Mutairi F(14), El Khashab HY(19), Bohlega
+S(13), Jia X(20), Nguyen HC(20), Hammami R(1), Adly N(1), Mohamed JY(1),
+Abdulwahab F(1), Ibrahim N(1), Naim EA(21), Al-Younes B(21), Meyer BF(21), Hashem
+M(1), Shaheen R(1), Xiong Y(20), Abouelhoda M(21), Aldeeri AA(22), Monies DM(21),
+Alkuraya FS(23).
+
+Author information: 
+(1)Department of Genetics, King Faisal Specialist Hospital and Research Center,
+Riyadh 11211, Saudi Arabia. (2)Department of Pharmacognosy, College of Pharmacy, 
+King Saud University, Riyadh 11451, Saudi Arabia. (3)Department of Pediatrics,
+King Khalid University Hospital and College of Medicine, King Saud University,
+Riyadh 11451, Saudi Arabia. (4)Department of Pediatrics, King Fahad Medical City,
+Riyadh 11525, Saudi Arabia. (5)Department of Anatomy and Cell Biology, College of
+Medicine, Alfaisal University, Riyadh 11533, Saudi Arabia; Department of
+Pediatrics, Prince Sultan Military Medical City, Riyadh 11159, Saudi Arabia.
+(6)Department of Anatomy and Cell Biology, College of Medicine, Alfaisal
+University, Riyadh 11533, Saudi Arabia; Department of Medical Genetics, King
+Faisal Specialist Hospital and Research Center, Riyadh 11211, Saudi Arabia.
+(7)Department of Pediatrics, King Fahad General Hospital, Jeddah 23325, Saudi
+Arabia. (8)Department of Pediatrics, Armed Forces Hospital, Khamis Mushayt 62413,
+Saudi Arabia. (9)Department of Obstetrics & Gynecology, King Faisal Specialist
+Hospital, Riyadh 11211, Saudi Arabia. (10)Center of Excellence for Genomics, King
+Abdulaziz City for Science and Technology, Riyadh 11442, Saudi Arabia.
+(11)Department of Pediatrics, Prince Sultan Military Medical City, Riyadh 11159, 
+Saudi Arabia. (12)Department of Pediatrics, Security Forces Hospital, Riyadh
+12625, Saudi Arabia. (13)Department of Neurosciences, King Faisal Specialist
+Hospital and Research Center, Riyadh 11211, Saudi Arabia. (14)Division of
+Genetics, Department of Pediatrics, King Saud bin Abdulaziz University for Health
+Sciences, King Abdulaziz Medical City, Riyadh 14611, Saudi Arabia. (15)Department
+of Obstetrics and Gynecology, College of Medicine, King Saud University, Riyadh
+11451, Saudi Arabia. (16)Department of Psychiatry, College of Medicine, King Saud
+University, Riyadh 11451, Saudi Arabia. (17)Department of Clinical Genetics,
+Human Genetics and Genome Research Division, National Research Centre, Cairo
+12345, Egypt. (18)Department of Pediatrics, Johns Hopkins Aramco Healthcare,
+Dhahran 34465, Saudi Arabia. (19)Department of Pediatrics, King Khalid University
+Hospital and College of Medicine, King Saud University, Riyadh 11451, Saudi
+Arabia; Department of Pediatrics, Children's Hospital, Ain Shams University,
+Cairo 01234, Egypt. (20)Department of Molecular Biophysics and Biochemistry, Yale
+University, New Haven, CT 06520, USA. (21)Department of Genetics, King Faisal
+Specialist Hospital and Research Center, Riyadh 11211, Saudi Arabia; Saudi Human 
+Genome Program, King Abdulaziz City for Science and Technology, Riyadh 11442,
+Saudi Arabia. (22)Department of Genetics, King Faisal Specialist Hospital and
+Research Center, Riyadh 11211, Saudi Arabia; Department of Internal Medicine,
+College of Medicine, King Saud University, Riyadh 11451, Saudi Arabia.
+(23)Department of Genetics, King Faisal Specialist Hospital and Research Center, 
+Riyadh 11211, Saudi Arabia; Department of Anatomy and Cell Biology, College of
+Medicine, Alfaisal University, Riyadh 11533, Saudi Arabia; Saudi Human Genome
+Program, King Abdulaziz City for Science and Technology, Riyadh 11442, Saudi
+Arabia. Electronic address: falkuraya@kfshrc.edu.sa.
+
+Our knowledge of disease genes in neurological disorders is incomplete. With the 
+aim of closing this gap, we performed whole-exome sequencing on 143 multiplex
+consanguineous families in whom known disease genes had been excluded by
+autozygosity mapping and candidate gene analysis. This prescreening step led to
+the identification of 69 recessive genes not previously associated with disease, 
+of which 33 are here described (SPDL1, TUBA3E, INO80, NID1, TSEN15, DMBX1, CLHC1,
+C12orf4, WDR93, ST7, MATN4, SEC24D, PCDHB4, PTPN23, TAF6, TBCK, FAM177A1,
+KIAA1109, MTSS1L, XIRP1, KCTD3, CHAF1B, ARV1, ISCA2, PTRH2, GEMIN4, MYOCD, PDPR, 
+DPH1, NUP107, TMEM92, EPB41L4A, and FAM120AOS). We also encountered instances in 
+which the phenotype departed significantly from the established clinical
+presentation of a known disease gene. Overall, a likely causal mutation was
+identified in >73% of our cases. This study contributes to the global effort
+toward a full compendium of disease genes affecting brain function.
+
+Copyright © 2015 The Authors. Published by Elsevier Inc. All rights reserved.
+
+PMID: 25558065  [PubMed - indexed for MEDLINE]
+
+
+5. Cell Rep. 2014 Jul 24;8(2):327-37. doi: 10.1016/j.celrep.2014.07.002. Epub 2014
+Jul 17.
+
+Genome-wide functional analysis reveals factors needed at the transition steps of
+induced reprogramming.
+
+Yang CS(1), Chang KY(2), Rana TM(3).
+
+Author information: 
+(1)Program for RNA Biology, Sanford-Burnham Medical Research Institute, 10901
+North Torrey Pines Road, La Jolla, CA 92037, USA; Department of Biochemistry and 
+Molecular Pharmacology, University of Massachusetts Medical School, Worcester, MA
+01605, USA; Department of Pediatrics, University of California San Diego School
+of Medicine, 9500 Gilman Drive, Mail Code 0762, La Jolla, CA 92093, USA.
+(2)Program for RNA Biology, Sanford-Burnham Medical Research Institute, 10901
+North Torrey Pines Road, La Jolla, CA 92037, USA; Department of Pediatrics,
+University of California San Diego School of Medicine, 9500 Gilman Drive, Mail
+Code 0762, La Jolla, CA 92093, USA. (3)Program for RNA Biology, Sanford-Burnham
+Medical Research Institute, 10901 North Torrey Pines Road, La Jolla, CA 92037,
+USA; Department of Biochemistry and Molecular Pharmacology, University of
+Massachusetts Medical School, Worcester, MA 01605, USA; Department of Pediatrics,
+University of California San Diego School of Medicine, 9500 Gilman Drive, Mail
+Code 0762, La Jolla, CA 92093, USA. Electronic address: trana@ucsd.edu.
+
+Comment in
+    Cell Stem Cell. 2014 Aug 7;15(2):116-8.
+
+Although transcriptome analysis can uncover the molecular changes that occur
+during induced reprogramming, the functional requirements for a given factor
+during stepwise cell-fate transitions are left unclear. Here, we used a
+genome-wide RNAi screen and performed integrated transcriptome analysis to
+identify key genes and cellular events required at the transition steps in
+reprogramming. Genes associated with cell signaling pathways (e.g., Itpr1, Itpr2,
+and Pdia3) constitute the major regulatory networks before cells acquire
+pluripotency. Activation of a specific gene set (e.g., Utf1 or Tdgf1) is
+important for mature induced pluripotent stem cell formation. Strikingly, a major
+proportion of RNAi targets (~ 53% to 70%) includes genes whose expression levels 
+are unchanged during reprogramming. Among these non-differentially expressed
+genes, Dmbx1, Hnf4g, Nobox, and Asb4 are important, whereas Nfe2, Cdkn2aip, Msx3,
+Dbx1, Lzts1, Gtf2i, and Ankrd22 are roadblocks to reprogramming. Together, our
+results provide a wealth of information about gene functions required at
+transition steps during reprogramming.
+
+Copyright © 2014 The Authors. Published by Elsevier Inc. All rights reserved.
+
+PMCID: PMC4152236
+PMID: 25043178  [PubMed - indexed for MEDLINE]
+
+
+6. BMC Dev Biol. 2010 Sep 22;10:100. doi: 10.1186/1471-213X-10-100.
+
+Duplicate dmbx1 genes regulate progenitor cell cycle and differentiation during
+zebrafish midbrain and retinal development.
+
+Wong L(1), Weadick CJ, Kuo C, Chang BS, Tropepe V.
+
+Author information: 
+(1)Department of Cell & Systems Biology, University of Toronto, Toronto, ON,
+Canada.
+
+BACKGROUND: The Dmbx1 gene is important for the development of the midbrain and
+hindbrain, and mouse gene targeting experiments reveal that this gene is required
+for mediating postnatal and adult feeding behaviours. A single Dmbx1 gene exists 
+in terrestrial vertebrate genomes, while teleost genomes have at least two
+paralogs. We compared the loss of function of the zebrafish dmbx1a and dmbx1b
+genes in order to gain insight into the molecular mechanism by which dmbx1
+regulates neurogenesis, and to begin to understand why these duplicate genes have
+been retained in the zebrafish genome.
+RESULTS: Using gene knockdown experiments we examined the function of the dmbx1
+gene paralogs in zebrafish, dmbx1a and dmbx1b in regulating neurogenesis in the
+developing retina and midbrain. Dose-dependent loss of dmbx1a and dmbx1b function
+causes a significant reduction in growth of the midbrain and retina that is
+evident between 48-72 hpf. We show that this phenotype is not due to patterning
+defects or persistent cell death, but rather a deficit in progenitor cell cycle
+exit and differentiation. Analyses of the morphant retina or anterior hindbrain
+indicate that paralogous function is partially diverged since loss of dmbx1a is
+more severe than loss of dmbx1b. Molecular evolutionary analyses of the Dmbx1
+genes suggest that while this gene family is conservative in its evolution, there
+was a dramatic change in selective constraint after the duplication event that
+gave rise to the dmbx1a and dmbx1b gene families in teleost fish, suggestive of
+positive selection. Interestingly, in contrast to zebrafish dmbx1a, over
+expression of the mouse Dmbx1 gene does not functionally compensate for the
+zebrafish dmbx1a knockdown phenotype, while over expression of the dmbx1b gene
+only partially compensates for the dmbx1a knockdown phenotype.
+CONCLUSION: Our data suggest that both zebrafish dmbx1a and dmbx1b genes are
+retained in the fish genome due to their requirement during midbrain and retinal 
+neurogenesis, although their function is partially diverged. At the cellular
+level, Dmbx1 regulates cell cycle exit and differentiation of progenitor cells.
+The unexpected observation of putative post-duplication positive selection of
+teleost Dmbx1 genes, especially dmbx1a, and the differences in functionality
+between the mouse and zebrafish genes suggests that the teleost Dmbx1 genes may
+have evolved a diverged function in the regulation of neurogenesis.
+
+PMCID: PMC2954992
+PMID: 20860823  [PubMed - indexed for MEDLINE]
+
+
+7. Cerebrospinal Fluid Res. 2008 Oct 18;5:16. doi: 10.1186/1743-8454-5-16.
+
+Hydrocephalus caused by conditional ablation of the Pten or beta-catenin gene.
+
+Ohtoshi A(1).
+
+Author information: 
+(1)Center for Molecular Neurobiology, The Ohio State University, 1060 Carmack
+Road, Columbus, OH 43210, USA. otoshi.3@osu.edu.
+
+To investigate the roles of Pten and beta-Catenin in the midbrain, either the
+Pten gene or the beta-catenin gene was conditionally ablated, using Dmbx1
+(diencephalon/mesencephalon-expressed brain homeobox gene 1)-Cre mice. Homozygous
+disruption of the Pten or beta-catenin gene in Dmbx1-expressing cells caused
+severe hydrocephalus and mortality during the postnatal period. Conditional
+deletion of Pten resulted in enlargement of midbrain structures. beta-catenin
+conditional mutant mice showed malformation of the superior and inferior
+colliculi and stenosis of the midbrain aqueduct. These results demonstrate that
+both Pten and beta-Catenin are essential for proper midbrain development, and
+provide the direct evidence that mutations of both Pten and beta-catenin lead to 
+hydrocephalus.
+
+PMCID: PMC2580761
+PMID: 18928559  [PubMed]
+
+
+8. Turk J Pediatr. 2007 Jul-Sep;49(3):334-6.
+
+Mutational analysis of the human MBX gene in four Korean families demonstrating
+microphthalmia with congenital cataract.
+
+Miyamoto T(1), Yu YS, Sato H, Hayashi H, Sakugawa N, Ishikawa M, Sengoku K.
+
+Author information: 
+(1)Department of Obstetrics and Gynecology, Asahikawa Medical College, Asahikawa,
+Japan.
+
+The MBX gene is a novel paired-type homeobox gene. It plays a number of critical 
+roles in the development of the eyes in the zebrafish. The knockdown of the mbx
+expression by morpholino antisense oligonucleotides leads to a reduction in the
+size of eyes and tectum in the zebrafish. We investigated whether the human MBX
+gene was associated with susceptibility to microphthalmia by analyzing four
+Korean families demonstrating microphthalmia with congenital cataract. Mutational
+analysis was performed on the human MBX gene using these families. However, no
+mutations could be detected. Therefore, no indications were found for an
+association between the MBX gene and microphthalmia with congenital cataract in
+humans.
+
+PMID: 17990594  [PubMed - indexed for MEDLINE]
+
+
+9. J Comp Neurol. 2007 Dec 1;505(4):379-403.
+
+A model of early molecular regionalization in the chicken embryonic pretectum.
+
+Ferran JL(1), Sánchez-Arrones L, Sandoval JE, Puelles L.
+
+Author information: 
+(1)Department of Human Anatomy and Psychobiology, University of Murcia, Murcia,
+Spain.
+
+The pretectal region of the brain is visualized as a dorsal region of prosomere 1
+in the caudal diencephalon, including derivatives from both the roof and alar
+plates. Its neuronal derivatives in the adult brain are known as pretectal
+nuclei. The literature is inconsistent about the precise anteroposterior
+delimitation of this region and on the number of specific histogenetic domains
+and subdomains that it contains. We performed a cross-correlated gene-expression 
+map of this brain area in chicken embryos, with the aim of identifying
+differently fated pretectal domains on the basis of combinatorial gene expression
+patterns. We examined in detail Pax3, Pax6, Pax7, Tcf4, Meis1, Meis2, Nkx2.2,
+Lim1, Dmbx1, Dbx1, Six3, FoxP2, Zic1, Ebf1, and Shh mRNA expression, as well as
+PAX3 and PAX7 immunoreaction, between stages HH11 and HH28. The patterns analyzed
+serve to fix the cephalic and caudal boundaries of the pretectum and to define
+three molecularly distinct anteroposterior pretectal domains (precommissural,
+juxtacommissural, and commissural) and several dorsoventral subdomains. These
+molecular specification patterns are established step by step between stages HH10
+and HH18, largely before neurogenesis begins. This set of gene-architectonic data
+constitutes a useful scaffold for correlations with fate maps and other
+experimental embryologic results and may serve as well for inquiries on
+homologies in this part of the brain.
+
+(c) 2007 Wiley-Liss, Inc.
+
+PMID: 17912743  [PubMed - indexed for MEDLINE]
+
+
+10. Proc Natl Acad Sci U S A. 2007 Sep 25;104(39):15514-9. Epub 2007 Sep 14.
+
+Dmbx1 is essential in agouti-related protein action.
+
+Fujimoto W(1), Shiuchi T, Miki T, Minokoshi Y, Takahashi Y, Takeuchi A, Kimura K,
+Saito M, Iwanaga T, Seino S.
+
+Author information: 
+(1)Division of Cellular and Molecular Medicine, Kobe University Graduate School
+of Medicine, Kobe 650-0017, Japan.
+
+Dmbx1 is a paired-class homeodomain transcription factor. We show here that mice 
+deficient in Dmbx1 exhibit severe leanness associated with hypophagia and
+hyperactivity and that isolation of a Dmbx1(-/-) mouse from its cohabitants
+induces self-starvation, sometimes leading to death, features similar to those of
+anorexia nervosa in humans. Interestingly, overexpression of agouti in Dmbx1(-/-)
+mice failed to induce aspects of the A(y)/a phenotype, including hyperphagia,
+obesity, and diabetes mellitus. In Dmbx1(-/-) mice, administration of
+agouti-related protein increased cumulative food intake for the initial 6 h but
+significantly decreased it over 24- and 48-h periods. In addition, Dmbx1 was
+shown to be expressed at embryonic day 15.5 in the lateral parabrachial nucleus, 
+the rostral nucleus of the tractus solitarius, the dorsal motor nucleus of the
+vagus, and the reticular nucleus in the brainstem, all of which receive
+melanocortin signaling, indicating involvement of Dmbx1 in the development of the
+neural network for the signaling. Thus, Dmbx1 is essential for various actions of
+agouti-related protein and plays a role in normal regulation of energy
+homeostasis and behavior.
+
+PMCID: PMC1976593
+PMID: 17873059  [PubMed - indexed for MEDLINE]
+
+
+11. Mamm Genome. 2006 Jul;17(7):744-50. Epub 2006 Jul 14.
+
+Generation and maintenance of Dmbx1 gene-targeted mutant alleles.
+
+Ohtoshi A(1), Bradley A, Behringer RR, Nishijima I.
+
+Author information: 
+(1)Center of Molecular and Human Genetics, Children's Research Institute, 700
+Children's Drive, Columbus, Ohio 43205, USA. otoshia@pediatrics.ohio-state.edu
+
+Dmbx1 encodes a paired-like homeodomain protein that is expressed in neural
+tissues at mouse embryonic and postnatal stages. We previously generated two
+Dmbx1 mutant alleles, Dmbx1 (-) and Dmbx1 ( z ), by homologous recombination in
+mouse embryonic stem (ES) cells. In this article we report the generation of
+three novel Dmbx1 mutant alleles, Dmbx1 (tauZ ), Dmbx1 (tauG ), and Dmbx1 ( Cre
+), that carry the intronic insertion of tau (tau)-lacZ, tau-eGFP, and Cre
+reporter genes, respectively. Dmbx1 (tauZ ) and Dmbx1 (tauG ) recapitulated the
+Dmbx1 expression, and the reporter gene expression was detected in the
+diencephalon and mesencephalon during embryogenesis. The crossing of Dmbx1 ( Cre 
+) mice with Rosa26 reporter mice identified the Cre-mediated DNA excision in the 
+postnatal midbrain, cerebellum, medulla oblongata, and spinal cord. To maintain
+the Dmbx1 mutant alleles without genotyping, we crossed Dmbx1 mutant mice with
+Inv4(1) ( Brd ) mice that possess the inversion between D4Mit117 and D4Mit281 on 
+Chromosome 4, where Dmbx1 is located. The intercrossing of the non-agouti (a/a)
+albino (Tyr ( c-Brd )/Tyr ( c-Brd )) Dmbx1 mutant mice carrying Inv4(1) ( Brd )
+tagged with K14-Agouti and Tyrosinase coat-color markers resulted in the
+generation of dark brown Dmbx1 wild-type [Inv4(1) ( Brd )/Inv4(1) ( Brd )], light
+brown Dmbx1 heterozygous [Dmbx1 ( tm )/Inv4(1) ( Brd )], and albino Dmbx1
+homozygous (Dmbx1 ( tm )/Dmbx1 ( tm )) mutant mice. To our knowledge, this is the
+first demonstration of the proof-of-principle of the maintenance of viable
+gene-targeted alleles using coat-color-tagged nonlethal balancer chromosomes.
+
+PMID: 16845469  [PubMed - indexed for MEDLINE]
+
+
+12. J Cell Sci. 2005 Sep 15;118(Pt 18):4295-310.
+
+Paxillin is required for cell-substrate adhesion, cell sorting and slug migration
+during Dictyostelium development.
+
+Bukharova T(1), Weijer G, Bosgraaf L, Dormann D, van Haastert PJ, Weijer CJ.
+
+Author information: 
+(1)Wellcome Trust Biocentre, School of Life Sciences, University of Dundee,
+Dundee DD1 5EH, UK.
+
+Erratum in
+    J Cell Sci. 2005 Oct 15;118(Pt 20):4913. Bukahrova, Tanya [corrected to
+Bukhavora, Tanya].
+
+Paxillin is a key regulatory component of focal adhesion sites, implicated in
+controlling cell-substrate interactions and cell movement. We analyse the
+function of a Dictyostelium discoideum paxillin homologue, PaxB, which contains
+four highly conserved LD and four LIM domains, but lacks two characteristic
+tyrosine residues, that form the core of vertebrate SH2-binding domains. PaxB is 
+expressed during growth and all stages of development, but expression peaks
+during slug formation. Using a paxB-gfp knockin strain we show the existence of
+focal adhesions and characterise their dynamics. During multicellular development
+PaxB is not only found in focal adhesions at the cell-substrate interface, but
+also in the tips of filopodial structures predominantly located at the trailing
+ends of cells. paxB- strains are less adhesive to the substrate, they can
+aggregate but multicellular development from the mound stage onwards is severely 
+impeded. paxB- strains are defective in proper cell type proportioning, cell
+sorting, slug migration and form-defective fruiting bodies. Mutation of a
+conserved JNK phosphorylation site, implicated in the control of cell migration, 
+does not have any major effects on cell sorting, slug migration or morphogenesis 
+in Dictyostelium. PaxB does not appear to function redundantly with its closest
+relative Lim2 (paxA), which when deleted also results in a mound arrest
+phenotype. However, analysis of paxA- and paxB- single and double null mutants
+suggest that PaxB may act upstream of Lim2.
+
+PMID: 16155255  [PubMed - indexed for MEDLINE]
+
+
+13. Brain Res Bull. 2005 Sep 15;66(4-6):510-7. Epub 2005 Apr 26.
+
+The evolutionary origins of vertebrate midbrain and MHB: insights from mouse,
+amphioxus and ascidian Dmbx homeobox genes.
+
+Takahashi T(1).
+
+Author information: 
+(1)Department of Zoology, University of Oxford, , UK.
+toki.takahashi@zoology.oxford.ac.uk
+
+Comparative studies on developmental gene expression suggest that the ancestral
+chordate central nervous system comprised anterior, midbrain-hindbrain boundary
+(MHB) and posterior regions. The most anterior region consists of both forebrain 
+and midbrain in vertebrates. It remains, however, unresolved when or how the
+vertebrate midbrain was established from this anterior zone. I previously
+reported a mouse PRD-class homeobox gene, Dmbx1, expressed in the presumptive
+midbrain at early developmental stages, and in the hindbrain at later stages,
+with exclusion from the MHB. To investigate the evolution of midbrain
+development, I have cloned Dmbx genes from amphioxus and from Ciona, representing
+the two most closely related lineages to the vertebrates, and examined embryonic 
+Dmbx expression in these species. In amphioxus, no Dmbx expression is observed in
+the neural tube, supporting previous arguments that the MHB equivalent region has
+been secondarily lost in evolution. In Ciona, the CiDmbx gene is detected in
+neural cells posterior to Pax-2/5/8-positive cells (MHB homologue), but not in
+any cells anterior to them. These results support the lack of a midbrain
+homologue in Ciona, and suggest that midbrain development is a vertebrate
+innovation. Here, I report the full sequences of these genes and discuss the
+evolution of midbrain development in relation to the tripartite neural ground
+plan and the origin of the MHB organizer.
+
+PMID: 16144640  [PubMed - indexed for MEDLINE]
+
+
+14. FEBS Lett. 2005 May 23;579(13):2926-32.
+
+Functional analysis of transcriptional repressor Otx3/Dmbx1.
+
+Kimura K(1), Miki T, Shibasaki T, Zhang Y, Ogawa M, Saisho H, Okuno M, Iwanaga T,
+Seino S.
+
+Author information: 
+(1)Division of Cellular and Molecular Medicine, Kobe University, Graduate School 
+of Medicine, Japan.
+
+Otx3/Dmbx1 is a member of paired class homeodomain transcription factors. In this
+study, we found that Otx3/Dmbx1 represses the Otx2-mediated transactivation by
+forming heterodimer with Otx2 on the P3C (TAATCCGATTA) sequence in vitro. The 156
+amino acid region (residues 1-156) of Otx3/Dmbx1 is required for its repressor
+activity, and interacts directly with Otx2. Co-localization of Otx3/Dmbx1 and
+Otx2 in brain sections was confirmed by in situ hybridization. These data suggest
+that Otx3/Dmbx1 represses Otx2-mediated transcription in the developing brain. We
+also identified the consensus binding sequence [TAATCCGATTA and
+TAATCC(N2-4)TAATCC] of Otx3/Dmbx1.
+
+PMID: 15890343  [PubMed - indexed for MEDLINE]
+
+
+15. Mol Cell Biol. 2004 Sep;24(17):7548-58.
+
+Neonatal lethality, dwarfism, and abnormal brain development in Dmbx1 mutant
+mice.
+
+Ohtoshi A(1), Behringer RR.
+
+Author information: 
+(1)Department of Molecular Genetics, University of Texas, M. D. Anderson Cancer
+Center, 1515 Holcombe Blvd., Houston, TX 77030, USA.
+
+Dmbx1 encodes a paired-like homeodomain protein that is expressed in developing
+neural tissues during mouse embryogenesis. To elucidate the in vivo role of
+Dmbx1, we generated two Dmbx1 mutant alleles. Dmbx1- lacks the homeobox and
+Dmbx1z is an insertion of a lacZ reporter gene. Dmbx1z appears to be a faithful
+reporter of Dmbx1 expression during embryogenesis and after birth. Dmbx1-lacZ
+expression was detected in the superior colliculus, cerebellar nuclei, and
+subpopulations of the medulla oblongata and spinal cord. Some Dmbx1 homozygous
+mutant mice died during the neonatal period, while others survived to adulthood; 
+however, their growth was impaired. Both heterozygous and homozygous mutant
+offspring from Dmbx1 homozygous mutant females exhibited a low survival rate and 
+poor growth. However, even wild-type pups fostered onto Dmbx1 homozygous mutant
+females grew poorly, suggesting a Dmbx1-dependent nursing defect. Dmbx1 mutant
+mice had an aberrant Dmbx1-lacZ expression pattern in the nervous system,
+indicating that they had abnormal brain development. These results demonstrate
+that Dmbx1 is required for postnatal survival, growth, and brain development.
+
+Copyright 2004 American Society for Microbiology
+
+PMCID: PMC507007
+PMID: 15314164  [PubMed - indexed for MEDLINE]
+
+
+16. Development. 2004 Jul;131(14):3285-94. Epub 2004 Jun 16.
+
+Amphioxus and ascidian Dmbx homeobox genes give clues to the vertebrate origins
+of midbrain development.
+
+Takahashi T(1), Holland PW.
+
+Author information: 
+(1)Department of Zoology, University of Oxford, South Parks Road, Oxford OX1 3PS,
+UK.
+
+The ancestral chordate neural tube had a tripartite structure, comprising
+anterior, midbrain-hindbrain boundary (MHB) and posterior regions. The most
+anterior region encompasses both forebrain and midbrain in vertebrates. It is not
+clear when or how the distinction between these two functionally and
+developmentally distinct regions arose in evolution. Recently, we reported a
+mouse PRD-class homeobox gene, Dmbx1, expressed in the presumptive midbrain at
+early developmental stages, and the hindbrain at later stages, with exclusion
+from the MHB. This gene provides a route to investigate the evolution of midbrain
+development. We report the cloning, genomic structure, phylogeny and embryonic
+expression of Dmbx genes from amphioxus and from Ciona, representing the two most
+closely related lineages to the vertebrates. Our analyses show that Dmbx genes
+form a distinct, ancient, homeobox gene family, with highly conserved sequence
+and genomic organisation, albeit more divergent in Ciona. In amphioxus, no Dmbx
+expression is observed in the neural tube, supporting previous arguments that the
+MHB equivalent region has been secondarily modified in evolution. In Ciona, the
+CiDmbx gene is detected in neural cells caudal to Pax2/5/8-positive cells (MHB
+homologue), in the Hox-positive region, but, interestingly, not in any cells
+rostral to them. These results suggest that a midbrain homologue is missing in
+Ciona, and argue that midbrain development is a novelty that evolved specifically
+on the vertebrate lineage. We discuss the evolution of midbrain development in
+relation to the ancestry of the tripartite neural ground plan and the origin of
+the MHB organiser.
+
+PMID: 15201221  [PubMed - indexed for MEDLINE]
+
+
+17. Development. 2003 Dec;130(26):6611-23.
+
+Isthmus-to-midbrain transformation in the absence of midbrain-hindbrain organizer
+activity.
+
+Jászai J(1), Reifers F, Picker A, Langenberg T, Brand M.
+
+Author information: 
+(1)Max Planck Institute of Molecular Cell Biology and Genetics,
+Pfotenhauerstrasse 108, 01307 Dresden, Germany.
+
+In zebrafish acerebellar (ace) embryos, because of a point mutation in fgf8, the 
+isthmic constriction containing the midbrain-hindbrain boundary (MHB) organizer
+fails to form. The mutants lack cerebellar development by morphological criteria,
+and they appear to have an enlarged tectum, showing no obvious reduction in the
+tissue mass at the dorsal mesencephalic/metencephalic alar plate. To reveal the
+molecular identity of the tissues located at equivalent rostrocaudal positions
+along the neuraxis as the isthmic and cerebellar primordia in wild-types, we
+undertook a detailed analysis of ace embryos. In ace mutants, the appearance of
+forebrain and midbrain specific marker genes (otx2, dmbx1, wnt4) in the caudal
+tectal enlargement reveals a marked rostralized gene expression profile during
+early somitogenesis, followed by the lack of early and late cerebellar-specific
+gene expression (zath1/atoh1, gap43, tag1/cntn2, neurod, zebrin II). The Locus
+coeruleus (LC) derived from rostral rhombomere 1 is also absent in the mutants. A
+new interface between otx2 and epha4a suggests that the rostralization stops at
+the caudal part of rhombomere 1. The mesencephalic basal plate is also affected
+in the mutant embryos, as indicated by the caudal expansion of the diencephalic
+expression domains of epha4a, zash1b/ashb, gap43 and tag1/cntn2, and by the
+dramatic reduction of twhh expression. No marked differences are seen in cell
+proliferation and apoptotic patterns around the time the rostralization of gene
+expression becomes evident in the mutants. Therefore, locally distinct cell
+proliferation and cell death is unlikely to be the cause of the fate alteration
+of the isthmic and cerebellar primordia in the mutants. Dil cell-lineage labeling
+of isthmic primordial cells reveals that cells, at the location equivalent of the
+wild-type MHB, give rise to caudal tectum in ace embryos. This suggests that a
+caudalto-rostral transformation leads to the tectal expansion in the mutants.
+Fgf8-coated beads are able to rescue morphological MHB formation, and elicit the 
+normal molecular identity of the isthmic and cerebellar primordium in ace
+embryos. Taken together, our analysis reveals that cells of the isthmic and
+cerebellar primordia acquire a more rostral, tectal identity in the absence of
+the functional MHB organizer signal Fgf8.
+
+PMID: 14660549  [PubMed - indexed for MEDLINE]
+
+
+18. Mech Dev. 2002 Jun;114(1-2):219-23.
+
+Dmbx1 is a paired-box containing gene specifically expressed in the caudal most
+brain structures.
+
+Broccoli V(1), Colombo E, Cossu G.
+
+Author information: 
+(1)Stem Cell Research Institute, H.S. Raffaela Scientific Park, Via Olgettina 58,
+I-20132, Milan, Italy. broccoli.vania@hsr.it
+
+Homeobox genes encode a particular class of transcription factors that are
+involved in several different developmental processes such as specification of
+regional identity, cell determination and proliferation. In particular, during
+early brain morphogenesis, they provide a genetic code, which generates single
+rhombomere identity in the hindbrain (Science 284 (1999) 2168) and interneurons
+specification in the ventral neural tube (Nat. Rev. Genet. 1 (2000) 20). We have 
+isolated a paired homeobox containing gene, which has been recently named Dmbx1
+(Mech. Dev. 110 (2002) 241). Dmbx1 protein can be listed into the paired-like
+class, due to the highest homology in its homeodomain, with several other members
+of this family. With the exception of olfactory neurons, Dmbx1 is expressed only 
+in the developing central nervous system and in particular during early
+determination and successive differentiation of the midbrain and caudal
+diencephalon. Interestingly, Dmbx1 expression labels cerebellar granule
+progenitors at the onset of differentiation and spinal cord V0 interneurons.
+
+Copyright 2002 Elsevier Science Ireland Ltd.
+
+PMID: 12175515  [PubMed - indexed for MEDLINE]
+
+
+19. Mech Dev. 2002 Jun;114(1-2):213-7.
+
+The paired-type homeobox gene Dmbx1 marks the midbrain and pretectum.
+
+Gogoi RN(1), Schubert FR, Martinez-Barbera JP, Acampora D, Simeone A, Lumsden A.
+
+Author information: 
+(1)MRC Centre for Developmental Neurobiology, 4th Floor, New Hunt's House, Guy's 
+Campus, King's College London, London SE1 1UL, UK.
+
+We have isolated a paired-type homeobox gene Dmbx1, previously known as Atx
+(Development 128 (2001) 4789), from chick and mouse. Sequence similarity reveals 
+that this gene is highly related to the Otx genes. Expression of Dmbx1 commences 
+during gastrulation, when transcripts are detected in a crescent around the
+anterior neural plate. As development progresses, Dmbx1 marks the prospective
+midbrain and pretectum. Dmbx1 shares its caudal border of expression with Otx2,
+while expression is sharply delimited rostrally by the
+synencephalic-parencephalic boundary, later becoming restricted to the posterior 
+synencephalon. At later stages, Dmbx1 is expressed in dynamic domains of the
+hindbrain and spinal cord. Additional sites of expression comprise stomodeal
+ectoderm and foregut endoderm, presomitic mesoderm, and the nasal pit.
+
+Copyright 2002 Elsevier Science Ireland Ltd.
+
+PMID: 12175514  [PubMed - indexed for MEDLINE]
+
+
+20. Dev Genes Evol. 2002 Jul;212(6):293-7. Epub 2002 May 24.
+
+An orphan PRD class homeobox gene expressed in mouse brain and limb development.
+
+Takahashi T(1), Holland PW, Cohn MJ, Shimizu K, Kurokawa M, Hirai H.
+
+Author information: 
+(1)School of Animal and Microbial Science, The University of Reading,
+Whiteknights, Reading, RG6 6AJ, UK.
+
+We report the cDNA sequence and expression of a mouse homeobox gene, Dmbx1, from 
+the PRD class and comparison to its human orthologue. The gene defines a new
+homeobox gene family, Dmbx, phylogenetically distinct from the Ptx, Alx, Prx Otx,
+Gsc, Otp and Pax gene families. The Dmbx1 gene is expressed in the developing
+mouse diencephalon, midbrain and hindbrain, and has dynamic expression during
+forelimb and hindlimb development. Unusually for homeobox genes, there is no
+orthologue in the Drosophila or Caenorhabditis genomes; we argue this reflects
+secondary loss.
+
+PMID: 12111214  [PubMed - indexed for MEDLINE]
+
+
+21. J Biol Chem. 2002 Aug 2;277(31):28065-9. Epub 2002 Jun 7.
+
+Identification, tissue expression, and functional characterization of Otx3, a
+novel member of the Otx family.
+
+Zhang Y(1), Miki T, Iwanaga T, Koseki Y, Okuno M, Sunaga Y, Ozaki N, Yano H,
+Koseki H, Seino S.
+
+Author information: 
+(1)Department of Cellular and Molecular Medicine, Graduate School of Medicine,
+Chiba University, Chiba 260-8670, Japan.
+
+Transcription factors containing a homeodomain play an important role in the
+organogenesis of vertebrates. We have isolated a novel homeodomain transcription 
+factor, Otx3, which is structurally and functionally related to Otx1 and Otx2,
+transcription factors that are critical in brain morphogenesis. Mouse Otx3 is a
+protein composed of 376 amino acids. Otx3 mRNA was expressed in mouse embryos
+from 10.5 to 13.5 days postcoitum (dpc) and in adult cerebellum as assessed by
+Northern blotting. Whole-mount in situ hybridization of mouse embryos from 9.5 to
+11.5 dpc revealed strong expression of Otx3 mRNA in the diencephalon,
+mesencephalon, metencephalon, myelencephalon, and developing eye, indicating an
+expression pattern largely overlapping but distinct from those of Otx1 and Otx2. 
+In addition, Otx3 was shown by electrophoretic mobility shift assay to bind to
+the TAATCC motif, the consensus binding sequence for Otx1, Otx2, and Crx. Results
+of a transcription reporter assay suggest that Otx3 functions as a transcription 
+repressor by binding to this motif. These results suggest that Otx3 is a novel
+member of the Otx family and may be involved in the development of the central
+nervous system.
+
+PMID: 12055180  [PubMed - indexed for MEDLINE]
+
+
+22. Mech Dev. 2002 Jan;110(1-2):241-4.
+
+Dmbx1, a novel evolutionarily conserved paired-like homeobox gene expressed in
+the brain of mouse embryos.
+
+Ohtoshi A(1), Nishijima I, Justice MJ, Behringer RR.
+
+Author information: 
+(1)Department of Molecular Genetics, The University of Texas M.D. Anderson Cancer
+Center, 1515 Holcombe Blvd., Houston, TX 77030, USA.
+
+To identify novel homeobox genes expressed during mouse embryogenesis, we
+searched the databases and found a novel mouse paired-like homeobox gene,
+Dmbx1(diencephalon/mesencephalon-expressed brain homeobox gene 1), that is also
+conserved in zebrafish and human. Linkage analysis mapped mouse Dmbx1 to the
+mid-portion of chromosome 4 that is the homologous gene cluster region of human
+chromosome 1, where human DMBX1 is located. Both mouse and human Dmbx1/DMBX1 have
+four coding exons and their gene structures are conserved. Whole-mount in situ
+hybridization revealed that Dmbx1 expression is detected in 7.5-9.5 dpc mouse
+embryos. At 7.5 and 8.5 dpc, Dmbx1 is expressed in a sub-region of the anterior
+head folds. At 9.5 dpc, expression is observed in the caudal diencephalon as well
+as in the mesencephalon and is restricted to the neuroepithelium. Expression in
+adult tissues was detected in brain, stomach, and testis. Dmbx1 provides a unique
+marker of the developing anterior nervous system and should provide a useful
+molecular resource to elucidate the mechanisms that pattern the vertebrate brain.
+
+PMID: 11744391  [PubMed - indexed for MEDLINE]
+
+

@@ -1,0 +1,957 @@
+
+1. Gene. 2015 Jul 10;565(2):235-41. doi: 10.1016/j.gene.2015.04.016. Epub 2015 Apr
+9.
+
+Evaluation of housekeeping genes for normalizing real-time quantitative PCR
+assays in pig skeletal muscle at multiple developmental stages.
+
+Wang Y(1), Zhao Y(1), Li J(1), Liu H(1), Ernst CW(2), Liu X(3), Liu G(1), Xi
+Y(1), Lei M(4).
+
+Author information: 
+(1)Key Lab of Swine Genetics and Breeding of Ministry of Agriculture, Key Lab of 
+Agricultural Animal Genetics, Breeding and Reproduction of Ministry of Education,
+College of Animal Science and Technology, Huazhong (Central China) Agricultural
+University, Wuhan, Hubei, PR China. (2)Department of Animal Science, Michigan
+State University, East Lansing, MI, United States. (3)China Education Ministry's 
+Key Laboratory in Agricultural Animal Genetics, Breeding and Reproduction,
+College of Animal Science and Technology, Huazhong Agricultural University, Wuhan
+430070, PR China. (4)Key Lab of Swine Genetics and Breeding of Ministry of
+Agriculture, Key Lab of Agricultural Animal Genetics, Breeding and Reproduction
+of Ministry of Education, College of Animal Science and Technology, Huazhong
+(Central China) Agricultural University, Wuhan, Hubei, PR China. Electronic
+address: leimg@mail.hzau.edu.cn.
+
+Quantitative PCR (qPCR) requires a constantly expressed housekeeping gene as an
+internal control, the expression of which is similar in different biological
+samples. In the present study, we evaluated the applicability and compared the
+consistency of the gene expression of 16 reference genes, i.e., 10 common and 6
+candidate genes, through qPCR assays in pig skeletal muscles at multiple
+developmental stages. The stability of these 16 potential reference genes was
+investigated using the geNorm and NormFinder methods. Our results indicated that 
+DRAP1 and RNF7 were the most appropriate combination to normalize gene expression
+in the Yorkshire samples, the combination of DRAP1 and WSB2 were appropriate in
+the Tongcheng samples, H3F3A and DRAP1 in prenatal periods, DRAP1 and RNF7 in
+postnatal periods, and the combination of DRAP1 and WSB2 was most suitable for
+accurate normalization in whole samples. This result provides a strong basis for 
+similar studies in pigs that explore the molecular mechanisms underlying skeletal
+muscle development.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+PMID: 25865298  [PubMed - indexed for MEDLINE]
+
+
+2. Dev Biol. 2010 Oct 1;346(1):25-38. doi: 10.1016/j.ydbio.2010.07.008. Epub 2010
+Jul 14.
+
+O-fucosylation of thrombospondin type 1 repeats restricts epithelial to
+mesenchymal transition (EMT) and maintains epiblast pluripotency during mouse
+gastrulation.
+
+Du J(1), Takeuchi H, Leonhard-Melief C, Shroyer KR, Dlugosz M, Haltiwanger RS,
+Holdener BC.
+
+Author information: 
+(1)Department of Biochemistry and Cell Biology, Institute for Cell and
+Developmental Biology, Center for Developmental Genetics, Stony Brook University,
+Stony Brook, NY 11794-5215, USA.
+
+Thrombospondin type 1 repeat (TSR) superfamily members regulate diverse
+biological activities ranging from cell motility to inhibition of angiogenesis.
+In this study, we verified that mouse protein O-fucosyltransferase-2 (POFUT2)
+specifically adds O-fucose to TSRs. Using two Pofut2 gene-trap lines, we
+demonstrated that O-fucosylation of TSRs was essential for restricting epithelial
+to mesenchymal transition in the primitive streak, correct patterning of
+mesoderm, and localization of the definitive endoderm. Although Pofut2 mutant
+embryos established anterior/posterior polarity, they underwent extensive
+mesoderm differentiation at the expense of maintaining epiblast pluripotency.
+Moreover, mesoderm differentiation was biased towards the vascular endothelial
+cell lineage. Localization of Foxa2 and Cer1 expressing cells within the interior
+of Pofut2 mutant embryos suggested that POFUT2 activity was also required for the
+displacement of the primitive endoderm by definitive endoderm. Notably, Nodal,
+BMP4, Fgf8, and Wnt3 expression were markedly elevated and expanded in Pofut2
+mutants, providing evidence that O-fucose modification of TSRs was essential for 
+modulation of growth factor signaling during gastrulation. The ability of Pofut2 
+mutant embryos to form teratomas comprised of tissues from all three germ layer
+origins suggested that defects in Pofut2 mutant embryos resulted from
+abnormalities in the extracellular environment. This prediction is consistent
+with the observation that POFUT2 targets are constitutive components of the
+extracellular matrix (ECM) or associate with the ECM. For this reason, the Pofut2
+mutants represent a valuable tool for studying the role of O-fucosylation in ECM 
+synthesis and remodeling, and will be a valuable model to study how
+post-translational modification of ECM components regulates the formation of
+tissue boundaries, cell movements, and signaling.
+
+Copyright © 2010 Elsevier Inc. All rights reserved.
+
+PMCID: PMC2937101
+PMID: 20637190  [PubMed - indexed for MEDLINE]
+
+
+3. Nucleic Acids Res. 2010 Mar;38(4):1228-39. doi: 10.1093/nar/gkp1102. Epub 2009
+Dec 3.
+
+Dr1 (NC2) is present at tRNA genes and represses their transcription in human
+cells.
+
+Kantidakis T(1), White RJ.
+
+Author information: 
+(1)Beatson Institute for Cancer Research, Garscube Estate, Switchback Road,
+Bearsden, Glasgow, G61 1BD, UK.
+
+Dr1 (also known as NC2beta) was identified as a repressor of RNA polymerase (pol)
+II transcription. It was subsequently shown to inhibit pol III transcription when
+expressed at high levels in vitro or in yeast cells. However, endogenous Dr1 was 
+not detected at pol III-transcribed genes in growing yeast. In contrast, we
+demonstrate that endogenous Dr1 is present at pol III templates in human cells,
+as is its dimerization partner DRAP1 (also called NC2alpha). Expression of tRNA
+by pol III is selectively enhanced by RNAi-mediated depletion of endogenous human
+Dr1, but we found no evidence that DRAP1 influences pol III output in vivo. A
+stable association was detected between endogenous Dr1 and the pol III-specific
+transcription factor Brf1. This interaction may recruit Dr1 to pol III templates 
+in vivo, as crosslinking to these sites increases following Brf1 induction. On
+the basis of these data, we conclude that the physiological functions of human
+Dr1 include regulation of pol III transcription.
+
+PMCID: PMC2831321
+PMID: 19965767  [PubMed - indexed for MEDLINE]
+
+
+4. Int J Radiat Oncol Biol Phys. 2009 Aug 1;74(5):1431-40. doi:
+10.1016/j.ijrobp.2008.10.021. Epub 2009 Feb 11.
+
+To bleed or not to bleed. A prediction based on individual gene profiling
+combined with dose-volume histogram shapes in prostate cancer patients undergoing
+three-dimensional conformal radiation therapy.
+
+Valdagni R(1), Rancati T, Ghilotti M, Cozzarini C, Vavassori V, Fellin G, Fiorino
+C, Girelli G, Barra S, Zaffaroni N, Pierotti MA, Gariboldi M.
+
+Author information: 
+(1)Prostate Program, Fondazione IRCCS-Istituto Nazionale dei Tumori, Milano,
+Italy. riccardo.valdagni@istitutotumori.mi.it
+
+PURPOSE: The main purpose of this work was to try to elucidate why, despite
+excellent rectal dose-volume histograms (DVHs), some patients treated for
+prostate cancer exhibit late rectal bleeding (LRB) and others with poor DVHs do
+not. Thirty-five genes involved in DNA repair/radiation response were analyzed in
+patients accrued in the AIROPROS 0101 trial, which investigated the correlation
+between LRB and dosimetric parameters.
+METHODS AND MATERIALS: Thirty patients undergoing conformal radiotherapy with
+prescription doses higher than 70 Gy (minimum follow-up, 48 months) were
+selected: 10 patients in the low-risk group (rectal DVH with the percent volume
+of rectum receiving more than 70 Gy [V70Gy] < 20% and the percent volume of
+rectum receiving more than 50 Gy [V50Gy] < 55%) with Grade 2 or Grade 3 (G2-G3)
+LRB, 10 patients in the high-risk group (V70Gy > 25% and V50Gy > 60%) with G2-G3 
+LRB, and 10 patients in the high-risk group with no toxicity. Quantitative
+reverse-transcriptase polymerase chain reaction was performed on RNA from
+lymphoblastoid cell lines obtained from Epstein-Barr virus-immortalized
+peripheral-blood mononucleated cells and on peripheral blood mononucleated cells.
+Interexpression levels were compared by using the Kruskal-Wallis test.
+RESULTS: Intergroup comparison showed many constitutive differences: nine genes
+were significantly down-regulated in the low-risk bleeder group vs. the high-risk
+bleeder and high-risk nonbleeder groups: AKR1B1 (p = 0.019), BAZ1B (p = 0.042),
+LSM7 (p = 0.0016), MRPL23 (p = 0.015), NUDT1 (p = 0.0031), PSMB4 (p = 0.079),
+PSMD1 (p = 0.062), SEC22L1 (p = 0.040), and UBB (p = 0.018). Four genes were
+significantly upregulated in the high-risk nonbleeder group than in the other
+groups: DDX17 (p = 0.048), DRAP1 (p = 0.0025), RAD23 (p = 0.015), and SRF (p =
+0.024). For most of these genes, it was possible to establish a cut-off value
+that correctly classified most patients.
+CONCLUSIONS: The predictive value of sensitivity and resistance to LRB of the
+genes identified by the study is promising and should be tested in a larger data 
+set.
+
+PMID: 19211196  [PubMed - indexed for MEDLINE]
+
+
+5. J Biol Chem. 2009 Apr 3;284(14):9382-93. doi: 10.1074/jbc.M805694200. Epub 2009
+Feb 9.
+
+Regulation of nuclear import and export of negative cofactor 2.
+
+Kahle J(1), Piaia E, Neimanis S, Meisterernst M, Doenecke D.
+
+Author information: 
+(1)Institute of Biochemistry and Molecular Cell Biology, Department of Molecular 
+Biology, Georg-August-University, Humboldtalle 23, 37073 Göttingen, Germany.
+
+The negative cofactor 2 (NC2) is a protein complex composed of two subunits,
+NC2alpha and NC2beta, and plays a key role in transcription regulation. Here we
+investigate whether each subunit contains a nuclear localization signal (NLS)
+that permits individual crossing of the nuclear membrane or whether nuclear
+import of NC2alpha and NC2beta depends on heterodimerization. Our results from in
+vitro binding studies and transfection experiments in cultured cells show that
+each subunit contains a classical NLS (cNLS) that is recognized by the importin
+alpha/beta heterodimer. Regardless of the individual cNLSs the two NC2 subunits
+are translocated as a preassembled complex as co-transfection experiments with
+wild-type and cNLS-deficient NC2 subunits demonstrate. Ran-dependent binding of
+the nuclear export receptor Crm1/exportin 1 confirmed the presence of a
+leucine-rich nuclear export signal (NES) in NC2beta. In contrast, NC2alpha does
+not exhibit a NES. Our results from interspecies heterokaryon assays suggest that
+heterodimerization with NC2alpha masks the NES in NC2beta, which prevents nuclear
+export of the NC2 complex. A mutation in either one of the two cNLSs decreases
+the extent of importin alpha/beta-mediated nuclear import of the NC2 complex. In 
+addition, the NC2 complex can enter the nucleus via a second pathway, facilitated
+by importin 13. Because importin 13 binds exclusively to the NC2 complex but not 
+to the individual subunits this alternative import pathway depends on sequence
+elements distributed among the two subunits.
+
+PMCID: PMC2666590
+PMID: 19204005  [PubMed - indexed for MEDLINE]
+
+
+6. Nucleic Acids Res. 2008 Feb;36(2):539-49. Epub 2007 Nov 29.
+
+The dual control of TFIIB recruitment by NC2 is gene specific.
+
+Masson P(1), Leimgruber E, Creton S, Collart MA.
+
+Author information: 
+(1)Department of Microbiology and Molecular Medicine, CMU, 1 rue Michel Servet
+1211, Geneva 4, Switzerland.
+
+Negative co-factor 2 (NC2) is a conserved eukaryotic complex composed of two
+subunits, NC2alpha (Drap1) and NC2beta (Dr1) that associate through a
+histone-fold motif. In this work, we generated mutants of NC2, characterized
+target genes for these mutants and studied the assembly of NC2 and general
+transcription factors on target promoters. We determined that the two NC2
+subunits mostly function together to be recruited to DNA and regulate gene
+expression. We found that NC2 strongly controls promoter association of TFIIB,
+both negatively and positively. We could attribute the gene-specific repressor
+effect of NC2 on TFIIB to the C-terminal domain of NC2beta, and define that it
+requires ORF sequences of the target gene. In contrast, the positive function of 
+NC2 on TFIIB targets is more general and requires adequate levels of the NC2
+histone-fold heterodimer on promoters. Finally, we determined that NC2 becomes
+limiting for TATA-binding protein (TBP) association with a heat inducible
+promoter under heat stress. This study demonstrates an important positive role of
+NC2 for formation of the pre-initiation complex on promoters, under normal
+conditions through control of TFIIB, or upon activation by stress via control of 
+TBP.
+
+PMCID: PMC2241854
+PMID: 18048413  [PubMed - indexed for MEDLINE]
+
+
+7. J Biol Chem. 2007 Aug 24;282(34):24767-76. Epub 2007 Jun 21.
+
+The initiator core promoter element antagonizes repression of TATA-directed
+transcription by negative cofactor NC2.
+
+Malecová B(1), Gross P, Boyer-Guittaut M, Yavuz S, Oelgeschläger T.
+
+Author information: 
+(1)Transcription Laboratory, Marie Curie Research Institute, The Chart, Oxted,
+Surrey RH8 0TL, United Kingdom.
+
+Core promoter regions of protein-coding genes in metazoan genomes are
+structurally highly diverse and can contain several distinct core promoter
+elements, which direct accurate transcription initiation and determine basal
+promoter strength. Diversity in core promoter structure is an important aspect of
+transcription regulation in metazoans as it provides a basis for gene-selective
+function of activators and repressors. The basal activity of TATA box-containing 
+promoters is dramatically enhanced by the initiator element (INR), which can
+function in concert with the TATA box in a synergistic manner. Here we report
+that a functional INR provides resistance to NC2 (Dr1/DRAP1), a general repressor
+of TATA promoters. INR-mediated resistance to NC2 is established during
+transcription initiation complex assembly and requires TBP-associated factors
+(TAFs) and TAF- and INR-dependent cofactor activity. Remarkably, the INR appears 
+to stimulate TATA-dependent transcription similar to activators by strongly
+enhancing recruitment of TFIIA and TFIIB and, at the same time, by compromising
+NC2 binding.
+
+PMID: 17584739  [PubMed - indexed for MEDLINE]
+
+
+8. Proc Natl Acad Sci U S A. 2007 Jun 12;104(24):10000-5. Epub 2007 Jun 4.
+
+Global distribution of negative cofactor 2 subunit-alpha on human promoters.
+
+Albert TK(1), Grote K, Boeing S, Stelzer G, Schepers A, Meisterernst M.
+
+Author information: 
+(1)Department of Gene Expression and Gene Vectors, GSF-National Research Center
+for Environment and Health, Marchioninistrasse 25, 81377 Munich, Germany.
+
+Negative cofactor 2 (NC2) forms a stable complex with TATA-binding protein (TBP) 
+on promoters in vitro. Its association with TBP prevents the binding of TFIIB and
+leads to inhibition of preinitiation complex formation. Here, we investigate the 
+association of NC2 subunit-alpha with human RNA polymerase II promoter regions by
+using gene-specific ChIP and genome-wide promoter ChIPchip analyses. We find
+NC2alpha associated with a large number of human promoters, where it peaks close 
+to the core regions. NC2 occupancy in vivo positively correlates with mRNA
+levels, which perhaps reflects its capacity to stabilize TBP on promoter regions.
+In single gene analyses, we confirm core promoter binding and in addition map the
+NC2 complex to enhancer proximal regions. High-occupancy histone genes display a 
+stable NC2/TFIIB ratio during the cell cycle, which otherwise varies markedly
+from one gene to another. The latter is at least in part explained by an observed
+negative correlation of NC2 occupancy with the presence of the TFIIB recognition 
+element in core promoter regions. Our data establish the genome-wide basis for
+general and gene-specific functions of NC2 in mammalian cells.
+
+PMCID: PMC1891239
+PMID: 17548813  [PubMed - indexed for MEDLINE]
+
+
+9. Acta Crystallogr Sect F Struct Biol Cryst Commun. 2005 Sep 1;61(Pt 9):812-7. Epub
+2005 Aug 31.
+
+The structure at 2.5 A resolution of human basophilic leukemia-expressed protein 
+BLES03.
+
+Bitto E(1), Bingman CA, Robinson H, Allard ST, Wesenberg GE, Phillips GN Jr.
+
+Author information: 
+(1)Center for Eukaryotic Structural Genomics, Department of Biochemistry,
+University of Wisconsin-Madison, USA.
+
+The crystal structure of the human basophilic leukemia-expressed protein (BLES03,
+p5326, Hs.433573) was determined by single-wavelength anomalous diffraction and
+refined to an R factor of 18.8% (Rfree = 24.5%) at 2.5 A resolution. BLES03 shows
+no detectable sequence similarity to any functionally characterized proteins
+using state-of-the-art sequence-comparison tools. The structure of BLES03 adopts 
+a fold similar to that of eukaryotic transcription initiation factor 4E (eIF4E), 
+a protein involved in the recognition of the cap structure of eukaryotic mRNA. In
+addition to fold similarity, the electrostatic surface potentials of BLES03 and
+eIF4E show a clear conservation of basic and acidic patches. In the crystal
+lattice, the acidic amino-terminal helices of BLES03 monomers are bound within
+the basic cavity of symmetry-related monomers in a manner analogous to the
+binding of mRNA by eIF4E. Interestingly, the gene locus encoding BLES03 is
+located between genes encoding the proteins DRAP1 and FOSL1, both of which are
+involved in transcription initiation. It is hypothesized that BLES03 itself may
+be involved in a biochemical process that requires recognition of nucleic acids.
+
+PMCID: PMC1978119
+PMID: 16511166  [PubMed - indexed for MEDLINE]
+
+
+10. J Biol Chem. 2006 Apr 14;281(15):9869-81. Epub 2006 Feb 16.
+
+FEZ1 dimerization and interaction with transcription regulatory proteins involves
+its coiled-coil region.
+
+Assmann EM(1), Alborghetti MR, Camargo ME, Kobarg J.
+
+Author information: 
+(1)Centro de Biologia Molecular Estrutural, Laboratório Nacional de Luz
+Síncrotron, Rua Giuseppe Máximo Scolfaro 10.000, CP 6192, 13084-971 Campinas, SP,
+Brasil.
+
+The fasciculation and elongation protein zeta1 (FEZ1) is a mammalian orthologue
+of the Caenorhabditis elegans protein UNC-76, which is necessary for axon growth 
+in that nematode. In previous studies FEZ1 has been found to interact with
+protein kinase Czeta, DISC1, the agnoprotein of the human polyomavirus JC virus, 
+and E4B, a U-box-type ubiquitin-protein isopeptide ligase. We reported previously
+that FEZ1 and its paralogue FEZ2 are proteins that interact with NEK1, a protein 
+kinase involved in polycystic kidney disease and DNA repair mechanisms at the
+G(2)/M phase of the cell cycle. Here we report the identification of 16 proteins 
+that interact with human FEZ1-(221-396) in a yeast two-hybrid assay of a human
+fetal brain cDNA library. The 13 interacting proteins of known functions take
+part either in transcription regulation and chromatin remodeling (6 proteins),
+the regulation of neuronal cell development (2 proteins) and cellular transport
+mechanisms (3 proteins) or participate in apoptosis (2 proteins). We were able to
+confirm eight of the observed interactions by in vitro pull-down assays with
+recombinant fusion proteins. The confirmed interacting proteins include FEZ1
+itself and three transcription controlling proteins (SAP30L, DRAP1, and BAF60a). 
+In mapping studies we found that the C-terminal regions of FEZ1, and especially
+its coiled-coil region, are involved in its dimerization, its heterodimerization 
+with FEZ2, and in the interaction with 10 of the identified interacting proteins.
+Our results give further support to the previous speculation of the functional
+involvement of FEZ1 in neuronal development but suggest further that FEZ1 may
+also be involved in transcriptional control.
+
+PMID: 16484223  [PubMed - indexed for MEDLINE]
+
+
+11. Mol Cell Biol. 2004 Nov;24(22):10072-82.
+
+NC2alpha interacts with BTAF1 and stimulates its ATP-dependent association with
+TATA-binding protein.
+
+Klejman MP(1), Pereira LA, van Zeeburg HJ, Gilfillan S, Meisterernst M, Timmers
+HT.
+
+Author information: 
+(1)Department of Physiological Chemistry, Division of Biomedical Genetics,
+University Medical Center Utrecht, Universiteitsweg 100, 3584 CG Utrecht, The
+Netherlands.
+
+Transcriptional activity of the TATA-binding protein (TBP) is controlled by a
+variety of proteins. The BTAF1 protein (formerly known as TAF(II)170/TAF-172 and 
+the human ortholog of Saccharomyces cerevisiae Mot1p) and the NC2 complex
+composed of NC2alpha (DRAP1) and NC2beta (Dr1) are able to bind to TBP directly
+and regulate RNA polymerase II transcription both positively and negatively.
+Here, we present evidence that the NC2alpha subunit interacts with BTAF1. In
+contrast, the NC2beta subunit is not able to associate with BTAF1 and seems to
+interfere with the BTAF1-TBP interaction. Addition of NC2alpha or the NC2 complex
+can stimulate the ability of BTAF1 to interact with TBP. This function is
+dependent on the presence of ATP in cell extracts but does not involve the ATPase
+activity of BTAF1 nor phosphorylation of NC2alpha. Together, our results
+constitute the first evidence of the physical cooperation between BTAF1 and
+NC2alpha in TBP regulation and provide a framework to understand transcription
+functions of NC2alpha and NC2beta in vivo.
+
+PMCID: PMC525489
+PMID: 15509807  [PubMed - indexed for MEDLINE]
+
+
+12. Annu Rev Cell Dev Biol. 2003;19:589-621.
+
+Nodal signaling in vertebrate development.
+
+Schier AF(1).
+
+Author information: 
+(1)Developmental Genetics Program, Skirball Institute of Biomolecular Medicine,
+New York University School of Medicine, New York, NY 10016, USA.
+schier@saturn.med.nyu.edu
+
+TGFss signals belonging to the Nodal family set up the embryonic axes, induce
+mesoderm and endoderm, pattern the nervous system, and determine left-right
+asymmetry in vertebrates. Nodal signaling activates a canonical TGFss pathway
+involving activin receptors, Smad2 transcription factors, and FoxH1 coactivators.
+In addition, Nodal signaling is dependent on coreceptors of the EGF-CFC family
+and antagonized by the Lefty and Cerberus families of secreted factors.
+Additional modulators of Nodal signaling include convertases that regulate the
+generation of the mature signal, and factors such as Arkadia and DRAP1 that
+regulate the cellular responses to the signal. Complex regulatory cascades and
+autoregulatory loops coordinate Nodal signaling during early development. Nodals 
+have concentration-dependent roles and can act both locally and at a distance.
+These studies demonstrate that Nodal signaling is modulated at almost every level
+to precisely orchestrate tissue patterning during vertebrate embryogenesis.
+
+PMID: 14570583  [PubMed - indexed for MEDLINE]
+
+
+13. Exp Mol Med. 2002 Sep 30;34(4):259-64.
+
+The DPE, a core promoter element for transcription by RNA polymerase II.
+
+Kadonaga JT(1).
+
+Author information: 
+(1)Section of Molecular Biology, University of California, San Diego, La Jolla,
+CA 92093-0347, USA. jkadonaga@ucsd.edu
+
+The core promoter is an important yet often overlooked component in the
+regulation of transcription by RNA polymerase II. In fact, the core promoter is
+the ultimate target of action of all of the factors and coregulators that control
+the transcriptional activity of every gene. In this review, I describe our
+current knowledge of a downstream core promoter element termed the DPE, which is 
+a TFIID recognition site that is conserved from Drosophila to humans. The DPE is 
+located from +28 to +32 relative to the +1 transcription start site, and is
+mainly present in core promoters that lack a TATA box motif. Moreover, in
+Drosophila, the DPE appears to be about as common as the TATA box. There are
+distinct mechanisms of basal transcription from DPE- versus TATA-dependent core
+promoters. For instance, NC2/Dr1-Drap1 is a repressor of TATA-dependent
+transcription and an activator of DPE-dependent transcription. In addition,
+DPE-specific and TATA-specific transcriptional enhancers have been identified.
+These findings further indicate that the core promoter is an active participant
+in the regulation of eukaryotic gene expression.
+
+PMID: 12515390  [PubMed - indexed for MEDLINE]
+
+
+14. J Biol Chem. 2003 Feb 21;278(8):5744-9. Epub 2002 Dec 10.
+
+Hypoxia actively represses transcription by inducing negative cofactor 2
+(Dr1/DrAP1) and blocking preinitiation complex assembly.
+
+Denko N(1), Wernke-Dollries K, Johnson AB, Hammond E, Chiang CM, Barton MC.
+
+Author information: 
+(1)Department of Radiation Oncology, Division of Radiation and Cancer Biology,
+Stanford University Medical School, Stanford, California 94305-5152, USA.
+
+Hypoxia is a growth inhibitory stress associated with multiple disease states. We
+find that hypoxic stress actively regulates transcription not only by activation 
+of specific genes but also by selective repression. We reconstituted this bimodal
+response to hypoxia in vitro and determined a mechanism for hypoxia-mediated
+repression of transcription. Hypoxic cell extracts are competent for transcript
+elongation, but cannot assemble a functional preinitiation complex (PIC) at a
+subset of promoters. PIC assembly and RNA polymerase II C-terminal domain (CTD)
+phosphorylation were blocked by hypoxic induction and core promoter binding of
+negative cofactor 2 protein (NC2 alpha/beta, Dr1/DrAP1). Immunodepletion of NC2
+beta/Dr1 protein complexes rescued hypoxic-repressed transcription without
+alteration of normoxic transcription. Physiological regulation of NC2 activity
+may represent an active means of conserving energy in response to hypoxic stress.
+
+PMID: 12477712  [PubMed - indexed for MEDLINE]
+
+
+15. Science. 2002 Dec 6;298(5600):1996-9.
+
+Inhibition of excess nodal signaling during mouse gastrulation by the
+transcriptional corepressor DRAP1.
+
+Iratni R(1), Yan YT, Chen C, Ding J, Zhang Y, Price SM, Reinberg D, Shen MM.
+
+Author information: 
+(1)Howard Hughes Medical Institute and Department of Biochemistry, Division of
+Nucleic Acids Enzymology, University of Medicine and Dentistry of New
+Jersey-Robert Wood Johnson Medical School, Piscataway, NJ 08854, USA.
+
+The formation and patterning of mesoderm during mammalian gastrulation require
+the activity of Nodal, a secreted mesoderm-inducing factor of the transforming
+growth factor-beta (TGF-beta) family. Here we show that the transcriptional
+corepressor DRAP1 has a very specific role in regulation of Nodal activity during
+mouse embryogenesis. We find that loss of Drap1 leads to severe gastrulation
+defects that are consistent with increased expression of Nodal and can be
+partially suppressed by Nodal heterozygosity. Biochemical studies indicate that
+DRAP1 interacts with and inhibits DNA binding by the winged-helix transcription
+factor FoxH1 (FAST), a critical component of a positive feedback loop for Nodal
+activity. We propose that DRAP1 limits the spread of a morphogenetic signal by
+down-modulating the response to the Nodal autoregulatory loop.
+
+PMID: 12471260  [PubMed - indexed for MEDLINE]
+
+
+16. Plant Cell. 2002 Jan;14(1):181-95.
+
+Functional dissection of a Rice Dr1/DrAp1 transcriptional repression complex.
+
+Song W(1), Solimeo H, Rupert RA, Yadav NS, Zhu Q.
+
+Author information: 
+(1)Central Research and Development, DuPont Company, P.O. Box 80402, Wilmington, 
+DE 19880-0402, USA.
+
+We characterized rice cDNA sequences for OsDr1 and OsDrAp1, which encode
+structural homologs of the eukaryotic general repressors Dr1 and DrAp1,
+respectively. OsDr1 and OsDrAp1 are nuclear proteins that interact with each
+other and with the TATA binding protein/DNA complex. In vitro and in vivo
+functional analyses showed that OsDrAp1 functions as a repressor, unlike its role
+in other eukaryotic systems, in which DrAp1 is a corepressor. OsDr1 and OsDrAp1
+functioned together as a much stronger repressor than either one alone.
+Functional dissections revealed that the N-terminal histone-fold domains of OsDr1
+and OsDrAp1 were necessary and sufficient for their repression and
+protein-protein interaction with each other. The unique glutamine- and
+proline-rich domain of OsDr1 had no repression activity. The basic amino
+acid-rich region and an arginine and glycine repeat domain of OsDrAp1 enhanced
+its repression activity. Thus, although OsDr1 and OsDrAp1 function as repressors,
+the functions of the two components are reversed compared with those of their
+nonplant counterparts.
+
+PMCID: PMC150559
+PMID: 11826307  [PubMed - indexed for MEDLINE]
+
+
+17. Mol Cell Biol. 2001 Apr;21(8):2736-42.
+
+Yeast NC2 associates with the RNA polymerase II preinitiation complex and
+selectively affects transcription in vivo.
+
+Geisberg JV(1), Holstege FC, Young RA, Struhl K.
+
+Author information: 
+(1)Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical
+School, Boston, Massachusetts 02115, USA.
+
+NC2 (Dr1-Drap1 or Bur6-Ydr1) has been characterized in vitro as a general
+negative regulator of RNA polymerase II (Pol II) transcription that interacts
+with TATA-binding protein (TBP) and inhibits its function. Here, we show that NC2
+associates with promoters in vivo in a manner that correlates with
+transcriptional activity and with occupancy by basal transcription factors. NC2
+rapidly associates with promoters in response to transcriptional activation, and 
+it remains associated under conditions in which transcription is blocked after
+assembly of the Pol II preinitiation complex. NC2 positively and negatively
+affects approximately 17% of Saccharomyces cerevisiae genes in a pattern that
+resembles the response to general environmental stress. Relative to TBP, NC2
+occupancy is high at promoters where NC2 is positively required for normal levels
+of transcription. Thus, NC2 is associated with the Pol II preinitiation complex, 
+and it can play a direct and positive role at certain promoters in vivo.
+
+PMCID: PMC86904
+PMID: 11283253  [PubMed - indexed for MEDLINE]
+
+
+18. Science. 2000 Nov 3;290(5493):982-5.
+
+A basal transcription factor that activates or represses transcription.
+
+Willy PJ(1), Kobayashi R, Kadonaga JT.
+
+Author information: 
+(1)Section of Molecular Biology and Center for Molecular Genetics, University of 
+California, San Diego, La Jolla, CA 92093-0347, USA.
+
+We have identified an activity that is required for transcription of downstream
+promoter element (DPE)-containing core promoters in vitro. The purified factor
+was found to be the Drosophila homolog of the transcriptional repressor known as 
+NC2 or Dr1-Drap1. Purified recombinant dNC2 activates DPE-driven promoters and
+represses TATA-driven promoters. A mutant version of dNC2 can activate DPE
+promoters but is unable to repress TATA promoters. Thus, the activation and
+repression functions are distinct. These studies reveal that NC2 (Dr1-Drap1) is a
+bifunctional basal transcription factor that differentially regulates gene
+transcription through DPE or TATA box motifs.
+
+PMID: 11062130  [PubMed - indexed for MEDLINE]
+
+
+19. Proc Natl Acad Sci U S A. 2000 Jun 20;97(13):7184-9.
+
+The C-terminal domain-phosphorylated IIO form of RNA polymerase II is associated 
+with the transcription repressor NC2 (Dr1/DRAP1) and is required for
+transcription activation in human nuclear extracts.
+
+Castaño E(1), Gross P, Wang Z, Roeder RG, Oelgeschläger T.
+
+Author information: 
+(1)Eukaryotic Gene Regulation Laboratory, Marie Curie Research Institute, The
+Chart, Oxted, Surrey RH8 0TL, United Kingdom.
+
+Activation of class II gene transcription may involve alleviation of
+transcription repression as well as stimulation of the assembly and function of
+the general RNA polymerase (RNAP) II transcription machinery. Here, we
+investigated whether activator-reversible transcription repression by NC2
+(Dr1/DRAP1) contributes to maximum induction levels in unfractionated HeLa
+nuclear extracts. Surprisingly, we found that depletion of NC2 does not
+significantly affect basal transcription, but dramatically reduces activated
+transcription. Immunoblot analyses revealed that the loss of activator function
+coincides with selective removal of the C-terminal domain
+(CTD)-hyperphosphorylated RNAP IIO along with NC2. Coimmunoprecipitation
+experiments with purified factors confirmed that NC2 interacts with RNAP IIO, but
+not with the unphosphorylated or hypophosphorylated RNAP IIA or CTD-less RNAP IIB
+forms. Finally, we demonstrate that, in contrast to previously published
+observations in cell-free systems reconstituted with purified factors, only the
+CTD-phosphorylated form of RNAP II can mediate activator function in the context 
+of unfractionated HeLa nuclear extracts. These findings reveal an unexpected link
+between NC2 and transcription activation and suggest that regulation of RNAP II
+transcription through reversible CTD phosphorylation might be more complex than
+previously proposed.
+
+PMCID: PMC16520
+PMID: 10852970  [PubMed - indexed for MEDLINE]
+
+
+20. Mol Microbiol. 2000 Apr;36(1):163-73.
+
+The NC2 repressor is dispensable in yeast mutated for the Sin4p component of the 
+holoenzyme and plays roles similar to Mot1p in vivo.
+
+Lemaire M(1), Xie J, Meisterernst M, Collart MA.
+
+Author information: 
+(1)Département de Biochimie Médicale, CMU, 1 rue Michel Servet, 1211 Geneva 4,
+Switzerland.
+
+NC2 (Dr1/DRAP1) and Mot1p are global repressors of transcription that have been
+isolated in both Saccharomyces cerevisiae and humans. NC2 is a dimeric
+histone-fold complex that represses RNA polymerase II transcription through
+binding to TBP and inhibition of TFIIA and TFIIB. Mot1p is an ATPase that removes
+DNA-bound TBP upon ATP hydrolysis. In this work, we studied the core promoter
+specificity of NC2 in vivo using a strain that carries mutated NC2beta activity. 
+We show that NC2, like Mot1p, is required for transcription of the HIS3 and HIS4 
+TATA-less core promoters. Furthermore, whereas neither Mot1p nor NC2 appear to
+function as repressors of the HIS3 gene in cells growing exponentially in
+glucose, we find that both are required for repression of the HIS3 TATA promoter 
+when cells go through the diauxic shift. Thus, the activity of these factors is
+similarly regulated depending upon the physiological conditions, and it appears
+that core promoters activated or repressed by them in vivo might be
+distinguishable by whether or not they contain a canonical TATA sequence.
+Finally, although NC2 is an essential factor for yeast viability, we isolated a
+mutation in a non-essential component of the holoenzyme, Sin4p, that bypasses the
+requirement for NC2.
+
+PMID: 10760173  [PubMed - indexed for MEDLINE]
+
+
+21. Mol Cell Biol. 2000 Apr;20(7):2455-65.
+
+Genetic analysis of the YDR1-BUR6 repressor complex reveals an intricate balance 
+among transcriptional regulatory proteins in yeast.
+
+Kim S(1), Cabane K, Hampsey M, Reinberg D.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Department of Biochemistry, Robert Wood
+Johnson Medical School, University of Medicine and Dentistry of New Jersey,
+Piscataway, New Jersey 08854-5635, USA.
+
+A transcriptional repressor complex encoded by two essential genes, YDR1 and
+BUR6, was isolated from Saccharomyces cerevisiae and shown to be the functional
+counterpart of the human repressor complex Dr1-DRAP1. To elucidate the mechanism 
+of repression by this complex, altered forms of Ydr1 and Bur6 were studied in
+vitro and in vivo. Deletion of the C-terminal 41 amino acids of Ydr1 resulted in 
+loss of repressor activity and a growth defect, suggesting that the C-terminal
+domain of Ydr1 functions as a potent transcriptional repressor. A screen for
+extragenic suppressors of a cold-sensitive ydr1 (ydr1(cs)) mutant led to the
+identification of recessive mutations in the SIN4 gene, which encodes a component
+of the SRB-MED complex. The sin4 alleles suppressed not only ydr1(cs) mutations
+but also bur6(cs) mutations. In contrast, deletion of the gal11 gene, whose
+product is also a member of the SRB-MED complex, failed to suppress ydr1(cs) and 
+bur6(cs) mutations, indicating that suppression is not due to general defects in 
+the SRB-MED complex. Moreover, one of the sin4 alleles, but not the sin4
+deletion, was found to specifically suppress the inviability of a ydr1 deletion, 
+demonstrating that the essential function of Ydr1 becomes dispensable in a sin4
+mutant background. Biochemical analysis of the SRB-MED complex from the sin4
+suppressor strain revealed a structurally distinct form of the SRB-MED complex
+that lacks a subset of mediator subunits. These results define a delicate balance
+between positive and negative regulators of transcription operating through the
+Ydr1-Bur6 repressor complex.
+
+PMCID: PMC85436
+PMID: 10713169  [PubMed - indexed for MEDLINE]
+
+
+22. J Biol Chem. 1999 Dec 10;274(50):36009-14.
+
+The assembly of the CAAT-box binding complex at a photosynthesis gene promoter is
+regulated by light, cytokinin, and the stage of the plastids.
+
+Kusnetsov V(1), Landsberger M, Meurer J, Oelmüller R.
+
+Author information: 
+(1)Timiriazev Institute of Plant Physiology, Russian Academy of Sciences, Moscow 
+127276, Russia.
+
+A functionally important region in the promoter of the spinach photosynthesis
+gene AtpC, which encodes the subunit gamma of the chloroplast ATP synthase, is
+located immediately upstream of the CAAT-box. A single nucleotide exchange in
+this region (AAAATTCAAT --> AAGATCAAT) uncouples the expression of an AtpC
+promoter::uidA gene fusion from the regulation by light, cytokinin, and
+functional plastids and results in a high constitutive expression of the reporter
+gene. By screening an Arabidopsis thaliana expression library with a
+double-stranded wild-type oligonucleotide from this promoter region, we have
+isolated cDNAs from Arabidopsis libraries that code for plant homologs of the
+CAAT-box binding factor (CBF)-C. Binding occurs only in the presence of nuclear
+extracts, consistent with reports from metazoa CBFs that the subunits A and B in 
+addition to C are required for the formation of the CBF-DNA complex. At least
+eight genes with homologies to CBF-C are present in the Arabidopsis genome; one
+of them exhibits striking similarities to the gene for the human global
+transcriptional repressor Drap1. In gel mobility shift assays, low binding
+activity of CBF to the wild-type AtpC promoter sequence was observed with nuclear
+extracts from tissue with low AtpC expression levels, i.e. extracts from
+etiolated and photobleached seedlings, whereas high binding activity was
+detectable with extracts from tissues with high AtpC expression levels, i.e.
+extracts from light-grown seedlings and etiolated seedlings treated with
+cytokinin. Binding to the mutant sequence, which directs constitutive high level 
+uidA expression in vivo, is significantly stronger than to the wild-type
+sequence. The data are consistent with the idea that the assembly of CBF at the
+AtpC promoter is regulated in response to light and cytokinin and that the low
+level of expression in etiolated and photobleached material is caused by an
+inhibitory effect. The structure/function relationships of the Arabidopsis CBFs
+are discussed in relation to their regulatory function in AtpC gene expression.
+
+PMID: 10585491  [PubMed - indexed for MEDLINE]
+
+
+23. Nucleic Acids Res. 1998 Jan 1;26(1):372-5.
+
+Histone Sequence Database: new histone fold family members.
+
+Baxevanis AD(1), Landsman D.
+
+Author information: 
+(1)Genome Technology Branch, National Human Genome Research Institute, National
+Institutes of Health, Bethesda, MD 20892, USA.
+
+Searches of the major public protein databases with core and linker chicken and
+human histone sequences have resulted in the compilation of an annotated set of
+histone protein sequences. In addition, new database searches with two distinct
+motif search algorithms have identified several members of the histone fold
+family, including human DRAP1 and yeast CSE4. Database resources include
+information on conflicts between similar sequence entries in different source
+databases, multiple sequence alignments, links to the Entrez integrated
+information retrieval system, structures for histone and histone fold proteins,
+and the ability to visualize structural data through Cn3D. The database currently
+contains >1000 protein sequences, which are searchable by protein type, accession
+number, organism name, or any other free text appearing in the definition line of
+the entry. All sequences and alignments in this database are available through
+the World Wide Web at http://www.nhgri.nih. gov/DIR/GTB/HISTONES or
+http://www.ncbi.nlm.nih. gov/Baxevani/HISTONES
+
+PMCID: PMC147196
+PMID: 9399877  [PubMed - indexed for MEDLINE]
+
+
+24. Mol Cell Biol. 1998 Jan;18(1):10-8.
+
+Involvement of negative cofactor NC2 in active repression by zinc
+finger-homeodomain transcription factor AREB6.
+
+Ikeda K(1), Halle JP, Stelzer G, Meisterernst M, Kawakami K.
+
+Author information: 
+(1)Department of Biology, Jichi Medical School, Kawachi, Tochigi, Japan.
+
+The transcription factor AREB6 contains a homeodomain flanked by two clusters of 
+Krüppel type C2H2 zinc fingers. AREB6 binds to the E-box consensus sequence,
+CACCTGT, through either the N- or the C-terminal zinc finger cluster. To gain
+insights into the molecular mechanism by which AREB6 activates and represses gene
+expression, we analyzed the domain structure of AREB6 in the context of a
+heterologous DNA-binding domain by transient-transfection assays. The C-terminal 
+region spanning amino acids 1011 to 1124 was identified as a conventional acidic 
+activation domain. The region containing amino acids 754 to 901, which was
+identified as a repression domain, consists of 40% hydrophobic amino acids
+displaying no sequence similarities to other known repression domains. This
+region repressed transcription in vitro in a HeLa nuclear extract but not in
+reconstituted transcription systems consisting of transcription factor IID
+(TFIID), TFIIB, TFIIE, TFIIH/F, and RNA polymerase II. The addition of
+recombinant negative cofactor NC2 (NC2alpha/DRAP1 and NC2beta/Dr1) to the
+reconstituted transcription system restored the activity of the AREB6 repression 
+domain. We further demonstrated interactions between the AREB6 repression domain 
+and NC2alpha in yeast two-hybrid assay. Our findings suggest a mechanism of
+transcriptional repression that is mediated by the general cofactor NC2.
+
+PMCID: PMC121442
+PMID: 9418848  [PubMed - indexed for MEDLINE]
+
+
+25. Mol Cell Biol. 1997 Apr;17(4):2057-65.
+
+Saccharomyces cerevisiae BUR6 encodes a DRAP1/NC2alpha homolog that has both
+positive and negative roles in transcription in vivo.
+
+Prelich G(1).
+
+Author information: 
+(1)Department of Molecular Genetics, Albert Einstein College of Medicine, Bronx, 
+New York 10461, USA. Prelich@aecom.yu.edu
+
+BUR3 and BUR6 were identified previously by selecting for mutations that increase
+transcription from an upstream activating sequence (UAS)-less promoter in
+Saccharomyces cerevisiae. The bur3-1 and bur6-1 mutations are recessive, increase
+transcription from a suc2 delta uas allele, and cause other mutant phenotypes,
+suggesting that Bur3p and Bur6p function as general repressors of the basal
+transcriptional machinery. The molecular cloning and characterization of BUR3 and
+BUR6 are presented here. BUR3 is identical to MOT1, a previously characterized
+essential gene that encodes an ATP-dependent inhibitor of the TATA box-binding
+protein. Cloning and nucleotide sequence analysis reveals that BUR6 encodes a
+homolog of DRAP1 (also called NC2alpha), a mammalian repressor of basal
+transcription. Strains that contain a bur6 null allele are viable but grow
+extremely poorly, demonstrating that BUR6 is critical for normal cell growth in
+yeast. The Bur6p histone fold domain is required for function; an extensive
+nonoverlapping set of deletion alleles throughout the histone fold domain impairs
+BUR6 function in vivo, whereas mutations in the amino- and carboxy-terminal tails
+have no detectable effect. BUR6 and BUR3/MOT1 have different functions depending 
+on promoter context: although the bur3-1 and bur6-1 mutations increase
+transcription from delta uas promoters, they result in reduced transcription from
+the wild-type GAL1 and GAL10 promoters. This transcriptional defect is due to the
+inability of the GAL10 UAS to function in bur6-1 strains. The similar phenotypes 
+of bur6 and bur3 (mot1) mutations suggest that Bur6p and Mot1p have related, but 
+not identical, functions in modulating the activity of the general transcription 
+machinery in vivo.
+
+PMCID: PMC232053
+PMID: 9121454  [PubMed - indexed for MEDLINE]
+
+
+26. Proc Natl Acad Sci U S A. 1997 Apr 1;94(7):3145-50.
+
+Functional antagonism between RNA polymerase II holoenzyme and global negative
+regulator NC2 in vivo.
+
+Gadbois EL(1), Chao DM, Reese JC, Green MR, Young RA.
+
+Author information: 
+(1)Whitehead Institute for Biomedical Research, Cambridge, MA 02142, USA.
+
+Activation of eukaryotic class II gene expression involves the formation of a
+transcription initiation complex that includes RNA polymerase II, general
+transcription factors, and SRB components of the holoenzyme. Negative regulators 
+of transcription have been described, but it is not clear whether any are general
+repressors of class II genes in vivo. We reasoned that defects in truly global
+negative regulators should compensate for deficiencies in SRB4 because SRB4 plays
+a positive role in holoenzyme function. Genetic experiments reveal that this is
+indeed the case: a defect in the yeast homologue of the human negative regulator 
+NC2 (Dr1 x DRAP1) suppresses a mutation in SRB4. Global defects in mRNA synthesis
+caused by the defective yeast holoenzyme are alleviated by the NC2 suppressing
+mutation in vivo, indicating that yeast NC2 is a global negative regulator of
+class II transcription. These results imply that relief from repression at class 
+II promoters is a general feature of gene activation in vivo.
+
+PMCID: PMC20336
+PMID: 9096360  [PubMed - indexed for MEDLINE]
+
+
+27. Proc Natl Acad Sci U S A. 1997 Feb 4;94(3):820-5.
+
+The Dr1/DRAP1 heterodimer is a global repressor of transcription in vivo.
+
+Kim S(1), Na JG, Hampsey M, Reinberg D.
+
+Author information: 
+(1)Department of Biochemistry, Robert Wood Johnson Medical School, University of 
+Medicine and Dentistry of New Jersey, Piscataway 08854-5635, USA.
+
+A general repressor extensively studied in vitro is the human Dr1/DRAP1
+heterodimeric complex. To elucidate the function of Dr1 and DRAP1 in vivo, the
+yeast Saccharomyces cerevisiae Dr1/DRAP1 repressor complex was identified. The
+repressor complex is encoded by two essential genes, designated YDR1 and BUR6.
+The inviability associated with deletion of the yeast genes can be overcome by
+expressing the human genes. However, the human corepressor DRAP1 functions in
+yeast only when human Dr1 is coexpressed. The yDr1/Bur6 complex represses
+transcription in vitro in a reconstituted RNA polymerase II transcription system.
+Repression of transcription could be overcome by increasing the concentration of 
+TATA-element binding protein (TBP). Consistent with the in vitro results,
+overexpression of YDR1 in vivo resulted in decreased mRNA accumulation.
+Furthermore, YDR1 overexpression impaired cell growth, an effect that could be
+rescued by overexpression of TBP. In agreement with our previous studies in
+vitro, we found that overexpression of Dr1 in vivo also affected the accumulation
+of RNA polymerase III transcripts, but not of RNA polymerase I transcripts. Our
+results demonstrate that Dr1 functions as a repressor of transcription in vivo
+and, moreover, directly targets TBP, a global regulator of transcription.
+
+PMCID: PMC19597
+PMID: 9023340  [PubMed - indexed for MEDLINE]
+
+
+28. Mol Cell Biol. 1997 Jan;17(1):36-45.
+
+Functional dissection of a human Dr1-DRAP1 repressor complex.
+
+Yeung K(1), Kim S, Reinberg D.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Department of Biochemistry, Robert Wood
+Johnson Medical School, University of Medicine and Dentistry of New Jersey,
+Piscataway 08854-5635, USA.
+
+The heterotetrameric Dr1-DRAP1 transcriptional repressor complex was functionally
+dissected. Dr1 was found to contain two domains required for repression of
+transcription. The tethering domain interacts with the TATA box binding protein
+and directs the repressor complex to the promoter. This tethering domain can be
+replaced by a domain conferring sequence-specific recognition to the repressor
+complex. In the absence of the tethering domain, Dr1 interacts with its
+corepressor DRAP1, but this interaction is not functional. The enhancement of
+Dr1-mediated repression of transcription by DRAP1 requires the tethering domain. 
+The second domain of Dr1 is the repression domain, which is glutamine-alanine
+rich. A 65-amino-acid polypeptide containing the repression domain fused to the
+Ga14 DNA binding domain repressed transcription when directed to TATA-containing 
+and TATA-less promoters. This repression domain was also found to functionally
+and directly interact with the TATA box binding protein.
+
+PMCID: PMC231727
+PMID: 8972183  [PubMed - indexed for MEDLINE]
+
+
+29. Genes Dev. 1996 Apr 15;10(8):1033-48.
+
+Requirement of a corepressor for Dr1-mediated repression of transcription.
+
+Mermelstein F(1), Yeung K, Cao J, Inostroza JA, Erdjument-Bromage H, Eagelson K, 
+Landsman D, Levitt P, Tempst P, Reinberg D.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Department of Biochemistry, Robert Wood
+Johnson Medical School, University of Medicine and Dentistry of New Jersey,
+Piscataway 08854-5635, USA.
+
+A Dr1-associated polypeptide (DRAP1) was isolated from HeLa cells and found to
+function as a corepressor of transcription. Corepressor function requires an
+interaction between DRAP1 and Dr1. Heterodimer formation was dependent on a
+histone fold motif present at the amino terminus of both polypeptides.
+Association of DRAP1 with Dr1 results in higher stability of the Dr1-TBP-TATA
+motif complex and precluded the entry of TFIIA and/or TFIIB to preinitiation
+complexes. DRAP1 was found to be expressed in all tissues analyzed with higher
+levels in tissues with a low mitotic index. Analysis of DRAP1 in the developing
+brain of rat demonstrated undetectable levels of DRAP1 in actively dividing cells
+but high levels of DRAP1 expression in differentiated non dividing cells. Dr1 was
+immunodetected in all cells analyzed. A model for DRAP1-dependent, Dr1-mediated
+repression of transcription is proposed.
+
+PMID: 8608938  [PubMed - indexed for MEDLINE]
+
+

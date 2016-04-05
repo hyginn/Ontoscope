@@ -1,0 +1,671 @@
+
+1. J Biol Chem. 2016 Apr 1;291(14):7477-87. doi: 10.1074/jbc.M115.695858. Epub 2016 
+Feb 17.
+
+Enzyme Activities of the Ceramide Synthases CERS2-6 Are Regulated by
+Phosphorylation in the C-terminal Region.
+
+Sassa T(1), Hirayama T(1), Kihara A(2).
+
+Author information: 
+(1)From the Laboratory of Biochemistry, Faculty of Pharmaceutical Sciences,
+Hokkaido University, Kita-ku, Sapporo 060-0812, Japan. (2)From the Laboratory of 
+Biochemistry, Faculty of Pharmaceutical Sciences, Hokkaido University, Kita-ku,
+Sapporo 060-0812, Japan kihara@pharm.hokudai.ac.jp.
+
+Ceramide and complex sphingolipids regulate important cellular functions
+including cell growth, apoptosis, and signaling. Dysregulation of sphingolipid
+metabolism leads to pathological consequences such as sphingolipidoses and
+insulin resistance. Ceramides in mammals vary greatly in their acyl-chain
+composition: six different ceramide synthase isozymes (CERS1-6) that exhibit
+distinct substrate specificity and tissue distribution account for this
+diversity. In the present study, we demonstrated that CERS2-6 were phosphorylated
+at the cytoplasmic C-terminal regions. Most of the phosphorylated residues
+conformed to a consensus motif for phosphorylation by casein kinase 2 (CK2), and 
+treatment of cells with the CK2-specific inhibitor CX-4945 lowered the
+phosphorylation levels of CERS2, -4, -5, and -6. Phosphorylation of CERS2 was
+especially important for its catalytic activity, acting mainly by increasing
+itsVmaxvalue. Phosphorylation modestly increased the catalytic activities of
+CERS4 and -5 and mildly increased those of CERS3 and -6. Dephosphorylation of
+endogenous ceramide synthases in the mouse brain led to severely reduced activity
+toward the Cers2 substrates C22:0/C24:0-CoAs and modestly reduced activity toward
+the Cers5/6 substrate C16:0-CoA. These results suggest that the phosphorylation
+of ceramide synthases may be a key regulatory point in the control of the
+distribution and levels of sphingolipids of various acyl-chain lengths.
+
+© 2016 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+PMID: 26887952  [PubMed - in process]
+
+
+2. Transl Psychiatry. 2015 Nov 17;5:e680. doi: 10.1038/tp.2015.177.
+
+Brain-specific epigenetic markers of schizophrenia.
+
+Wockner LF(1), Morris CP(2), Noble EP(3), Lawford BR(2), Whitehall VL(1), Young
+RM(2), Voisey J(2).
+
+Author information: 
+(1)Queensland Institute of Medical Research, Brisbane, QLD, Australia.
+(2)Department of Biomedical Sciences, Institute of Health and Biomedical
+Innovation, Queensland University of Technology, Brisbane, QLD, Australia.
+(3)Department of Psychiatry and Biobehavioral Sciences, University of California,
+Los Angeles, Los Angeles, CA, USA.
+
+Epigenetics plays a crucial role in schizophrenia susceptibility. In a previous
+study, we identified over 4500 differentially methylated sites in prefrontal
+cortex (PFC) samples from schizophrenia patients. We believe this was the first
+genome-wide methylation study performed on human brain tissue using the Illumina 
+Infinium HumanMethylation450 Bead Chip. To understand the biological significance
+of these results, we sought to identify a smaller number of differentially
+methylated regions (DMRs) of more functional relevance compared with individual
+differentially methylated sites. Since our schizophrenia whole genome methylation
+study was performed, another study analysing two separate data sets of
+post-mortem tissue in the PFC from schizophrenia patients has been published. We 
+analysed all three data sets using the bumphunter function found in the
+Bioconductor package minfi to identify regions that are consistently
+differentially methylated across distinct cohorts. We identified seven regions
+that are consistently differentially methylated in schizophrenia, despite
+considerable heterogeneity in the methylation profiles of patients with
+schizophrenia. The regions were near CERS3, DPPA5, PRDM9, DDX43, REC8, LY6G5C and
+a region on chromosome 10. Of particular interest is PRDM9 which encodes a
+histone methyltransferase that is essential for meiotic recombination and is
+known to tag genes for epigenetic transcriptional activation. These seven DMRs
+are likely to be key epigenetic factors in the aetiology of schizophrenia and
+normal brain neurodevelopment.
+
+PMID: 26575221  [PubMed - in process]
+
+
+3. Hum Mol Genet. 2015 Sep 1;24(17):4792-808. doi: 10.1093/hmg/ddv204. Epub 2015 Jun
+4.
+
+Male meiotic cytokinesis requires ceramide synthase 3-dependent sphingolipids
+with unique membrane anchors.
+
+Rabionet M(1), Bayerle A(1), Jennemann R(2), Heid H(3), Fuchser J(4), Marsching
+C(5), Porubsky S(6), Bolenz C(7), Guillou F(8), Gröne HJ(2), Gorgas K(9),
+Sandhoff R(10).
+
+Author information: 
+(1)Lipid Pathobiochemistry Group, Department of Cellular and Molecular Pathology,
+Department of Cellular and Molecular Pathology . (2)Department of Cellular and
+Molecular Pathology . (3)Helmholtz Group for Cell Biology, German Cancer Research
+Center (dkfz.), Heidelberg 69120, Germany. (4)Bruker Daltonik GmbH, Bremen 28359,
+Germany. (5)Lipid Pathobiochemistry Group, Department of Cellular and Molecular
+Pathology, Department of Cellular and Molecular Pathology , Center for Applied
+Research "Applied Biomedical Mass Spectrometry" (ABIMAS), Mannheim 68163,
+Germany. (6)Department of Pathology, University Medical Center Mannheim and .
+(7)Department of Urology, University Medical Center Mannheim, University of
+Heidelberg, Mannheim 68167, Germany. (8)INRA, UMR85 Physiologie de la
+Reproduction et des Comportements, Nouzilly 37380, France. (9)Department of
+Anatomy and Medical Cell Biology, University of Heidelberg, 69120, Germany and.
+(10)Lipid Pathobiochemistry Group, Department of Cellular and Molecular
+Pathology, Department of Cellular and Molecular Pathology , Center for Applied
+Research "Applied Biomedical Mass Spectrometry" (ABIMAS), Mannheim 68163,
+Germany, Instrumental Analytics and Bioanalytics, Technical University of Applied
+Sciences Mannheim, Mannheim 69120, Germany r.sandhoff@dkfz.de
+r.sandhoff@hs-mannheim.de.
+
+Somatic cell cytokinesis was shown to involve the insertion of sphingolipids
+(SLs) to midbodies prior to abscission. Spermatogenic midbodies transform into
+stable intercellular bridges (ICBs) connecting clonal daughter cells in a
+syncytium. This process requires specialized SL structures. (1) Using high
+resolution-mass spectrometric imaging, we show in situ a biphasic pattern of SL
+synthesis with testis-specific anchors. This pattern correlates with and depends 
+on ceramide synthase 3 (CerS3) localization in both, pachytene spermatocytes
+until completion of meiosis and elongating spermatids. (2) Blocking the pathways 
+to germ cell-specific ceramides (CerS3-KO) and further to glycosphingolipids
+(glucosylceramide synthase-KO) in mice highlights the need for special SLs for
+spermatid ICB stability. In contrast to somatic mitosis these SLs require
+ultra-long polyunsaturated anchors with unique physico-chemical properties, which
+can only be provided by CerS3. Loss of these anchors causes enhanced apoptosis
+during meiosis, formation of multinuclear giant cells and spermatogenic arrest.
+Hence, testis-specific SLs, which we also link to CerS3 in human testis, are
+quintessential for male fertility.
+
+© The Author 2015. Published by Oxford University Press. All rights reserved. For
+Permissions, please email: journals.permissions@oup.com.
+
+PMID: 26045466  [PubMed - in process]
+
+
+4. J Dermatol Sci. 2015 Jul;79(1):4-9. doi: 10.1016/j.jdermsci.2015.04.009. Epub
+2015 Apr 30.
+
+Update on autosomal recessive congenital ichthyosis: mRNA analysis using hair
+samples is a powerful tool for genetic diagnosis.
+
+Sugiura K(1), Akiyama M(2).
+
+Author information: 
+(1)Department of Dermatology, Nagoya University Graduate School of Medicine, 65
+Tsurumai-cho, Showa-ku, Nagoya 466-8550, Japan. (2)Department of Dermatology,
+Nagoya University Graduate School of Medicine, 65 Tsurumai-cho, Showa-ku, Nagoya 
+466-8550, Japan. Electronic address: makiyama@med.nagoya-u.ac.jp.
+
+Research on the molecular genetics and pathomechanisms of autosomal recessive
+congenital ichthyosis (ARCI) has advanced considerably and several causative
+genes and molecules underlying the disease have been identified. Three major ARCI
+phenotypes are harlequin ichthyosis (HI), lamellar ichthyosis (LI), and
+congenital ichthyosiform erythroderma (CIE). Skin barrier defects are involved in
+the pathogenesis of ARCI. In this review, the causative genes of ARCI and its
+phenotypes as well as recent advances in the field are summarized. The known
+causative molecules underlying ARCI include ABCA12, TGM1, ALOXE3, ALOX12B,
+NIPAL4, CYP4F22, PNPLA1, CERS3, and LIPN. It is important to examine genetic
+associations and to elucidate the pathomechanisms of ARCI to establish effective 
+therapies and beneficial genetic counseling. Next-generation sequencing is a
+promising method that enables the detection of causative disease mutations, even 
+in cases of unexpected concomitant genetic diseases. For genetic diagnosis,
+obtaining mRNA from hair follicle epithelial cells, which are analogous to
+keratinocytes in the interfollicular epidermis, is convenient and minimally
+invasive in patients with ARCI. We confirmed that our mRNA analysis method using 
+hair follicle samples can be applied not only to keratinization disorders, but
+also to other genetic diseases in the dermatology field. Studies that suggest
+potential next-generation therapies using ARCI model mice are also reviewed.
+
+Copyright © 2015 Japanese Society for Investigative Dermatology. Published by
+Elsevier Ireland Ltd. All rights reserved.
+
+PMID: 25982146  [PubMed - indexed for MEDLINE]
+
+
+5. J Biol Chem. 2015 May 22;290(21):13157-67. doi: 10.1074/jbc.M114.631325. Epub
+2015 Apr 3.
+
+Expression of Ceramide Synthase 6 Transcriptionally Activates Acid Ceramidase in 
+a c-Jun N-terminal Kinase (JNK)-dependent Manner.
+
+Tirodkar TS(1), Lu P(1), Bai A(2), Scheffel MJ(1), Gencer S(3), Garrett-Mayer
+E(4), Bielawska A(2), Ogretmen B(2), Voelkel-Johnson C(5).
+
+Author information: 
+(1)From the Departments of Microbiology and Immunology. (2)Biochemistry and
+Molecular Biology, and. (3)Biochemistry and Molecular Biology, and the Department
+of Molecular Biology and Genetics, 34662 Istanbul, Turkey. (4)Public Health,
+Medical University of South Carolina, Charleston South Carolina 29425 and.
+(5)From the Departments of Microbiology and Immunology, johnsocv@musc.edu.
+
+A family of six ceramide synthases with distinct but overlapping substrate
+specificities is responsible for generation of ceramides with acyl chains ranging
+from ~14-26 carbons. Ceramide synthase 6 (CerS6) preferentially generates C14-
+and C16-ceramides, and we have previously shown that down-regulation of this
+enzyme decreases apoptotic susceptibility. In this study, we further evaluated
+how increased CerS6 expression impacts sphingolipid composition and metabolism.
+Overexpression of CerS6 in HT29 colon cancer cells resulted in increased
+apoptotic susceptibility and preferential generation of C16-ceramide, which
+occurred at the expense of very long chain, saturated ceramides. These changes
+were also reflected in sphingomyelin composition. HT-CerS6 cells had increased
+intracellular levels of sphingosine, which is generated by ceramidases upon
+hydrolysis of ceramide. qRT-PCR analysis revealed that only expression of acid
+ceramidase (ASAH1) was increased. The increase in acid ceramidase was confirmed
+by expression and activity analyses. Pharmacological inhibition of JNK (SP600125)
+or curcumin reduced transcriptional up-regulation of acid ceramidase. Using an
+acid ceramidase promoter driven luciferase reporter plasmid, we demonstrated that
+CerS1 has no effect on transcriptional activation of acid ceramidase and that
+CerS2 slightly but significantly decreased the luciferase signal. Similar to
+CerS6, overexpression of CerS3-5 resulted in an ~2-fold increase in luciferase
+reporter gene activity. Exogenous ceramide failed to induce reporter activity,
+while a CerS inhibitor and a catalytically inactive mutant of CerS6 failed to
+reduce it. Taken together, these results suggest that increased expression of
+CerS6 can mediate transcriptional activation of acid ceramidase in a
+JNK-dependent manner that is independent of CerS6 activity.
+
+© 2015 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+PMCID: PMC4505570 [Available on 2016-05-22]
+PMID: 25839235  [PubMed - indexed for MEDLINE]
+
+
+6. Biochem J. 2014 Jul 1;461(1):147-58. doi: 10.1042/BJ20131242.
+
+Ceramide synthase 4 deficiency in mice causes lipid alterations in sebum and
+results in alopecia.
+
+Ebel P(1), Imgrund S(1), Vom Dorp K(2), Hofmann K(1), Maier H(3), Drake H(1),
+Degen J(1), Dörmann P(2), Eckhardt M(3), Franz T(4), Willecke K(1).
+
+Author information: 
+(1)*Molecular Genetics, Life and Medical Sciences Institute (LIMES), University
+of Bonn, 53115 Bonn, Germany. (2)†Institute of Molecular Physiology and
+Biotechnology of Plants, University of Bonn, 53115 Bonn, Germany. (3)‡Institute
+of Biochemistry and Molecular Biology, University of Bonn, 53115 Bonn, Germany.
+(4)§Institute of Anatomy, University of Bonn, 53115 Bonn, Germany.
+
+Five ceramide synthases (CerS2-CerS6) are expressed in mouse skin. Although CerS3
+has been shown to fulfill an essential function during skin development, neither 
+CerS6- nor CerS2-deficient mice show an obvious skin phenotype. In order to study
+the role of CerS4, we generated CerS4-deficient mice (Cers4-/-) and
+CerS4-specific antibodies. With these biological tools we analysed the tissue
+distribution and determined the cell-type specific expression of CerS4 in
+suprabasal epidermal layers of footpads as well as in sebaceous glands of the
+dorsal skin. Loss of CerS4 protein leads to an altered lipid composition of the
+sebum, which is more solidified and therefore might cause progressive hair loss
+due to physical blocking of the hair canal. We also noticed a strong decrease in 
+C20 1,2-alkane diols consistent with the decrease of wax diesters in the sebum of
+Cers4-/- mice. Cers4-/- mice at 12 months old display additional epidermal tissue
+destruction due to dilated and obstructed pilary canals. Mass spectrometric
+analyses additionally show a strong decrease in C20-containing sphingolipids.
+
+PMID: 24738593  [PubMed - indexed for MEDLINE]
+
+
+7. PLoS One. 2013 Jun 27;8(6):e67317. Print 2013.
+
+Cooperative Synthesis of Ultra Long-Chain Fatty Acid and Ceramide during
+Keratinocyte Differentiation.
+
+Mizutani Y(1), Sun H, Ohno Y, Sassa T, Wakashima T, Obara M, Yuyama K, Kihara A, 
+Igarashi Y.
+
+Author information: 
+(1)Laboratory of Biomembrane and Biofunctional Chemistry, Faculty of Advanced
+Life Science, Hokkaido University, Sapporo, Japan.
+
+The lipid lamellae in the stratum corneum is important for the epidermal
+permeability barrier. The lipid lamellae component ceramide (CER), comprising an 
+ultra long-chain (ULC) fatty acid (FA) of =26 carbons (ULC CER), plays an
+essential role in barrier formation. ULC acyl-CoAs, produced by the FA elongase
+ELOVL4, are converted to ULC CERs by the CER synthase CERS3. In the presented
+study, we observed that ELOVL4 and CERS3 mRNAs increased during keratinocyte
+differentiation in vivo and in vitro. We also determined that peroxisome
+proliferator-activated receptor ß/d is involved in the up-regulation of the
+mRNAs. Knockdown of CERS3 caused a reduction in the elongase activities toward
+ULC acyl-CoAs, suggesting that CERS3 positively regulates ULCFA. Thus, we reveal 
+that the two key players in ULC CER production in epidermis, CERS3 and ELOVL4,
+are coordinately regulated at both the transcriptional and enzymatic levels.
+
+PMCID: PMC3694974
+PMID: 23826266  [PubMed - as supplied by publisher]
+
+
+8. PLoS Genet. 2013 Jun;9(6):e1003536. doi: 10.1371/journal.pgen.1003536. Epub 2013 
+Jun 6.
+
+Mutations in CERS3 cause autosomal recessive congenital ichthyosis in humans.
+
+Radner FP(1), Marrakchi S, Kirchmeier P, Kim GJ, Ribierre F, Kamoun B, Abid L,
+Leipoldt M, Turki H, Schempp W, Heilig R, Lathrop M, Fischer J.
+
+Author information: 
+(1)Institute for Human Genetics, University Medical Center Freiburg, Freiburg,
+Germany.
+
+Erratum in
+    PLoS Genet. 2013 Jun;9(6):
+doi/10.1371/annotation/df5af830-8e1d-495a-a206-f881ed85e7fe.
+
+Autosomal recessive congenital ichthyosis (ARCI) is a rare genetic disorder of
+the skin characterized by abnormal desquamation over the whole body. In this
+study we report four patients from three consanguineous Tunisian families with
+skin, eye, heart, and skeletal anomalies, who harbor a homozygous contiguous gene
+deletion syndrome on chromosome 15q26.3. Genome-wide SNP-genotyping revealed a
+homozygous region in all affected individuals, including the same microdeletion
+that partially affects two coding genes (ADAMTS17, CERS3) and abolishes a
+sequence for a long non-coding RNA (FLJ42289). Whereas mutations in ADAMTS17 have
+recently been identified in autosomal recessive Weill-Marchesani-like syndrome in
+humans and dogs presenting with ophthalmologic, cardiac, and skeletal
+abnormalities, no disease associations have been described for CERS3 (ceramide
+synthase 3) and FLJ42289 so far. However, analysis of additional patients with
+non-syndromic ARCI revealed a splice site mutation in CERS3 indicating that a
+defect in ceramide synthesis is causative for the present skin phenotype of our
+patients. Functional analysis of patient skin and in vitro differentiated
+keratinocytes demonstrated that mutations in CERS3 lead to a disturbed
+sphingolipid profile with reduced levels of epidermis-specific very long-chain
+ceramides that interferes with epidermal differentiation. Taken together, these
+data present a novel pathway involved in ARCI development and, moreover, provide 
+the first evidence that CERS3 plays an essential role in human sphingolipid
+metabolism for the maintenance of epidermal lipid homeostasis.
+
+PMCID: PMC3675029
+PMID: 23754960  [PubMed - indexed for MEDLINE]
+
+
+9. Mol Cell Biol. 2013 Jul;33(14):2787-96. doi: 10.1128/MCB.00192-13. Epub 2013 May 
+20.
+
+Impaired epidermal permeability barrier in mice lacking elovl1, the gene
+responsible for very-long-chain fatty acid production.
+
+Sassa T(1), Ohno Y, Suzuki S, Nomura T, Nishioka C, Kashiwagi T, Hirayama T,
+Akiyama M, Taguchi R, Shimizu H, Itohara S, Kihara A.
+
+Author information: 
+(1)Laboratory of Biochemistry, Faculty of Pharmaceutical Sciences, Hokkaido
+University, Sapporo, Japan.
+
+The sphingolipid backbone ceramide (Cer) is a major component of lipid lamellae
+in the stratum corneum of epidermis and has a pivotal role in epidermal barrier
+formation. Unlike Cers in other tissues, Cers in epidermis contain extremely long
+fatty acids (FAs). Decreases in epidermal Cer levels, as well as changes in their
+FA chain lengths, cause several cutaneous disorders. However, the molecular
+mechanisms that produce such extremely long Cers and determine their chain
+lengths are poorly understood. We generated mice deficient in the Elovl1 gene,
+which encodes the FA elongase responsible for producing C20 to C28 FAs. Elovl1
+knockout mice died shortly after birth due to epidermal barrier defects. The
+lipid lamellae in the stratum corneum were largely diminished in these mice. In
+the epidermis of the Elovl1-null mice, the levels of Cers with =C26 FAs were
+decreased, while those of Cers with =C24 FAs were increased. In contrast, the
+levels of C24 sphingomyelin were reduced, accompanied by an increase in C20
+sphingomyelin levels. Two ceramide synthases, CerS2 and CerS3, expressed in an
+epidermal layer-specific manner, regulate Elovl1 to produce acyl coenzyme As with
+different chain lengths. Elovl1 is a key determinant of epidermal Cer chain
+length and is essential for permeability barrier formation.
+
+PMCID: PMC3700134
+PMID: 23689133  [PubMed - indexed for MEDLINE]
+
+
+10. J Invest Dermatol. 2013 Sep;133(9):2202-11. doi: 10.1038/jid.2013.153. Epub 2013 
+Apr 2.
+
+Impaired epidermal ceramide synthesis causes autosomal recessive congenital
+ichthyosis and reveals the importance of ceramide acyl chain length.
+
+Eckl KM(1), Tidhar R, Thiele H, Oji V, Hausser I, Brodesser S, Preil ML,
+Onal-Akan A, Stock F, Müller D, Becker K, Casper R, Nürnberg G, Altmüller J,
+Nürnberg P, Traupe H, Futerman AH, Hennies HC.
+
+Author information: 
+(1)Center for Dermatogenetics, University of Cologne, Cologne, Germany.
+
+The barrier function of the human epidermis is supposed to be governed by lipid
+composition and organization in the stratum corneum. Disorders of keratinization,
+namely ichthyoses, are typically associated with disturbed barrier activity.
+Using autozygosity mapping and exome sequencing, we have identified a homozygous 
+missense mutation in CERS3 in patients with congenital ichthyosis characterized
+by collodion membranes at birth, generalized scaling of the skin, and mild
+erythroderma. We demonstrate that the mutation inactivates ceramide synthase 3
+(CerS3), which is synthesized in skin and testis, in an assay of N-acylation with
+C26-CoA, both in patient keratinocytes and using recombinant mutant proteins.
+Moreover, we show a specific loss of ceramides with very long acyl chains from
+C26 up to C34 in terminally differentiating patient keratinocytes, which is in
+line with findings from a recent CerS3-deficient mouse model. Analysis of
+reconstructed patient skin reveals disturbance of epidermal differentiation with 
+an earlier maturation and an impairment of epidermal barrier function. Our
+findings demonstrate that synthesis of very long chain ceramides by CerS3 is a
+crucial early step for the skin barrier formation and link disorders presenting
+with congenital ichthyosis to defects in sphingolipid metabolism and the
+epidermal lipid architecture.
+
+PMID: 23549421  [PubMed - indexed for MEDLINE]
+
+
+11. Hum Mol Genet. 2012 Feb 1;21(3):586-608. doi: 10.1093/hmg/ddr494. Epub 2011 Oct
+28.
+
+Loss of ceramide synthase 3 causes lethal skin barrier disruption.
+
+Jennemann R(1), Rabionet M, Gorgas K, Epstein S, Dalpke A, Rothermel U, Bayerle
+A, van der Hoeven F, Imgrund S, Kirsch J, Nickel W, Willecke K, Riezman H, Gröne 
+HJ, Sandhoff R.
+
+Author information: 
+(1)Cellular & Molecular Pathology, German Cancer Research Center, 69120
+Heidelberg, Germany.
+
+The stratum corneum as the outermost epidermal layer protects against exsiccation
+and infection. Both the underlying cornified envelope (CE) and the intercellular 
+lipid matrix contribute essentially to these two main protective barriers.
+Epidermis-unique ceramides with ultra-long-chain acyl moities (ULC-Cers) are key 
+components of extracellular lipid lamellae (ELL) and are bound to CE proteins,
+thereby contributing to the cornified lipid envelope (CLE). Here, we identified
+human and mouse ceramide synthase 3 (CerS3), among CerS1-6, to be exclusively
+required for the ULC-Cer synthesis in vitro and of mouse CerS3 in vivo.
+Deficiency of CerS3 in mice results in complete loss of ULC-Cers (=C26), lack of 
+continuous ELL and a non-functional CLE. Consequently, newborn mutant mice die
+shortly after birth from transepidermal water loss. Mutant skin is prone to
+Candida albicans infection highlighting ULC-Cers to be pivotal for both barrier
+functions. Persistent periderm, hyperkeratosis and deficient cornification are
+hallmarks of mutant skin demonstrating loss of Cers to trigger a keratinocyte
+maturation arrest at an embryonic pre-barrier stage.
+
+PMID: 22038835  [PubMed - indexed for MEDLINE]
+
+
+12. Autosomal Recessive Congenital Ichthyosis.
+
+Richard G, Bale SJ.
+In: Pagon RA, Adam MP, Ardinger HH, Wallace SE, Amemiya A, Bean LJH, Bird TD,
+Fong CT, Mefford HC, Smith RJH, Stephens K, editors. GeneReviews(®) [Internet].
+Seattle (WA): University of Washington, Seattle; 1993-2016.
+2001 Jan 10.
+
+CLINICAL CHARACTERISTICS: Autosomal recessive congenital ichthyosis (ARCI)
+encompasses several forms of nonsyndromic ichthyosis. Although most neonates with
+ARCI are collodion babies, the clinical presentation and severity of ARCI may
+vary significantly, ranging from harlequin ichthyosis, the most severe and often 
+fatal form, to lamellar ichthyosis (LI) and (nonbullous) congenital ichthyosiform
+erythroderma (CIE). These phenotypes are now recognized to fall on a continuum;
+however, the phenotypic descriptions are clinically useful for clarification of
+prognosis and management. Infants with harlequin ichthyosis are usually born
+prematurely and are encased in thick, hard, armor-like plates of cornified skin
+that severely restrict movement. Life-threatening complications in the immediate 
+postnatal period include respiratory distress, feeding problems, and systemic
+infection. Collodion babies are born with a taut, shiny, translucent or opaque
+membrane that encases the entire body and lasts for days to weeks. LI and CIE are
+seemingly distinct phenotypes: classic, severe lamellar ichthyosis (LI) with dark
+brown, plate-like scale with no erythroderma and CIE with finer whiter scale and 
+underlying generalized redness of the skin. Affected individuals with severe
+involvement can have ectropion, eclabium, scarring alopecia involving the scalp
+and eyebrows, and palmar and plantar keratoderma.
+DIAGNOSIS/TESTING: The diagnosis of nonsyndromic ARCI is established by skin
+findings at birth and in infancy. Skin biopsy is not necessary to establish the
+diagnosis of ARCI. The nine genes known to be associated with ARCI are TGM1,
+ALOXE3, ALOX12B, NIPAL4 (formerly known as ICHTHYIN), ABCA12, CYP4F22, PNPLA1,
+LIPN, and CERS3; at least one gene remains unknown. Pathogenic variants in TGM1
+account for 34%-55% of all ARCI and 90% or more of severe LI. Pathogenic variants
+in the two ALOX genes are present in an estimated 17% of individuals with ARCI,
+typically associated with CIE or intermediate LI/CIE phenotypes; pathogenic
+variants in NIPAL4 and CYP4F22 have been reported in up to 12% and 8%,
+respectively, of individuals with ARCI. The vast majority of individuals with
+harlequin ichthyosis and a few individuals with LI have pathogenic variants in
+ABCA12, including partial-gene deletions. ABCA12 pathogenic variants account for 
+about 5% of ARCI. Least common appear to be pathogenic variants in LIPN, PNPLA1, 
+and CERS3, each reported to date in only a few consanguineous families from
+northern Africa or southern Europe.
+MANAGEMENT: Treatment of manifestations: For neonates, a moist environment in an 
+isolette, hygienic handling to prevent infection, and treatment of infections;
+petrolatum-based creams/ointments to keep the skin soft, supple, and hydrated;
+for older children, humidification with long baths, lubrication, and keratolytic 
+agents such as alpha-hydroxy acid or urea preparations to promote peeling and
+thinning of the stratum corneum; for those with ectropion, lubrication of the
+cornea; for those with severe skin involvement, cautious use of oral retinoids.
+Prevention of secondary complications: Prevention of infection, dehydration,
+corneal drying; when necessary, release of collodion membrane on digits to
+maintain circulation and on the thorax for adequate respiration. Surveillance:
+Regular physical examination for evidence of infection, management of skin
+involvement, as well as for the increased (but still low) risk for skin
+malignancy (squamous cell carcinoma, basal cell carcinoma, atypical melanocytic
+nevi, or malignant melanoma). Agents/circumstances to avoid: Skin irritants;
+overheating.
+GENETIC COUNSELING: ARCI is inherited in an autosomal recessive manner. Each sib 
+of an affected individual has a 25% risk of being affected, a 50% chance of being
+an asymptomatic carrier, and a 25% chance of being unaffected and not a carrier. 
+Carrier testing for at-risk relatives and prenatal testing for pregnancies at
+increased risk are possible if both pathogenic variants have been identified in a
+family.
+
+PMID: 20301593  [PubMed]
+
+
+13. FEBS Lett. 2010 May 3;584(9):1907-13. doi: 10.1016/j.febslet.2009.12.032. Epub
+2009 Dec 24.
+
+Very long chain sphingolipids: tissue expression, function and synthesis.
+
+Sandhoff R(1).
+
+Author information: 
+(1)Cellular and Molecular Pathology, German Cancer Research Center, Heidelberg,
+Germany. r.sandhoff@dkfz.de
+
+Forecort membranes of all mammalian cells contain, in addition to
+phosphoglycerolipids and cholesterol, substantial amounts of sphingolipids. In
+most cells the acyl moieties of these sphingolipids are of long chain type
+(C16-24) and often saturated. However, epidermal keratinocytes and male germ
+cells largely express sphingolipids with very long chain-acyl moieties (C26-C36) 
+during their differentiation and maturation. This expression seems to depend on
+CerS3, one of six ceramide synthases. However, the complex biosynthetic sequence 
+for both epidermal and testicular sphingolipids has not been elucidated
+completely. Whereas it is established that omega-hydroxylated very long
+chain-sphingolipids are essential for proper skin barrier function, the role of
+polyunsaturated very long chain-sphingolipids (ceramides, sphingomyelins and
+glycosphingolipids) in differentiating spermatocytes/spermatids is just beginning
+to be revealed.
+
+Copyright 2009 Federation of European Biochemical Societies. Published by
+Elsevier B.V. All rights reserved.
+
+PMID: 20035755  [PubMed - indexed for MEDLINE]
+
+
+14. J Lipid Res. 2010 Mar;51(3):480-9. doi: 10.1194/jlr.M000984. Epub 2009 Sep 28.
+
+Transcript profiling and lipidomic analysis of ceramide subspecies in mouse
+embryonic stem cells and embryoid bodies.
+
+Park H(1), Haynes CA, Nairn AV, Kulik M, Dalton S, Moremen K, Merrill AH Jr.
+
+Author information: 
+(1)School of Biology & Petit Institute for Bioengineering and Bioscience, Georgia
+Institute of Technology, Atlanta, GA 30332, USA.
+
+Ceramides (Cers) are important in embryogenesis, but no comprehensive analysis of
+gene expression for Cer metabolism nor the Cer amounts and subspecies has been
+conducted with an often used model: mouse embryonic stem cells (mESCs) versus
+embroid bodies (EBs). Measuring the mRNA levels by quantitative RT-PCR and the
+amounts of the respective metabolites by LC-ESI/MS/MS, notable differences
+between R1 mESCs and EBs were: EBs have higher mRNAs for CerS1 and CerS3, which
+synthesize C18- and C>or=24-carbons dihydroceramides (DH)Cer, respectively; EBs
+have higher CerS2 (for C24:0- and C24:1-); and EBs have lower CerS5 + CerS6 (for 
+C16-). In agreement with these findings, EBs have (DH)Cer with higher proportions
+of C18-, C24- and C26- and less C16-fatty acids, and longer (DH)Cer are also seen
+in monohexosyl Cers and sphingomyelins. EBs had higher mRNAs for fatty acyl-CoA
+elongases that produce C18-, C24-, and C26-fatty acyl-CoAs (Elovl3 and Elovl6),
+and higher amounts of these cosubstrates for CerS. Thus, these studies have found
+generally good agreement between genomic and metabolomic data in defining that
+conversion of mESCs to EBs is accompanied by a large number of changes in gene
+expression and subspecies distributions for both sphingolipids and fatty
+acyl-CoAs.
+
+PMCID: PMC2817578
+PMID: 19786568  [PubMed - indexed for MEDLINE]
+
+
+15. Mol Cancer Res. 2009 Jul;7(7):1086-98. doi: 10.1158/1541-7786.MCR-08-0361.
+
+Potentiation of cannabinoid-induced cytotoxicity in mantle cell lymphoma through 
+modulation of ceramide metabolism.
+
+Gustafsson K(1), Sander B, Bielawski J, Hannun YA, Flygare J.
+
+Author information: 
+(1)Department of Laboratory Medicine, Division of Pathology, Karolinska
+Institutet and Karolinska University Hospital Huddinge, Stockholm, Sweden.
+
+Ceramide levels are elevated in mantle cell lymphoma (MCL) cells following
+treatment with cannabinoids. Here, we investigated the pathways of ceramide
+accumulation in the MCL cell line Rec-1 using the stable endocannabinoid analogue
+R(+)-methanandamide (R-MA). We further interfered with the conversion of ceramide
+into sphingolipids that promote cell growth. Treatment with R-MA led to increased
+levels of ceramide species C16, C18, C24, and C(24:1) and transcriptional
+induction of ceramide synthases (CerS) 3 and 6. The effects were attenuated using
+SR141716A, which has high affinity to cannabinoid receptor 1 (CB1). The
+CB1-mediated induction of CerS3 and CerS6 mRNA was confirmed using Win-55,212-2. 
+Simultaneous silencing of CerS3 and CerS6 using small interfering RNA abrogated
+the R-MA-induced accumulation of C16 and C24. Inhibition of either of the enzymes
+serine palmitoyl transferase, CerS, and dihydroceramide desaturase within the de 
+novo ceramide pathway reversed ceramide accumulation and cell death induced by
+R-MA treatment. To enhance the cytotoxic effect R-MA, sphingosine kinase-1 and
+glucosylceramide synthase, enzymes that convert ceramide to the pro-proliferative
+sphingolipids sphingosine-1-phospate and glucosylceramide, respectively, were
+inhibited. Suppression of either enzyme using inhibitors or small interfering RNA
+potentiated the decreased viability, induction of cell death, and ceramide
+accumulation induced by R-MA treatment. Our findings suggest that R-MA induces
+cell death in MCL via CB1-mediated up-regulation of the de novo ceramide
+synthesis pathway. Furthermore, this is the first study were the cytotoxic effect
+of a cannabinoid is enhanced by modulation of ceramide metabolism.
+
+PMCID: PMC3077284
+PMID: 19609004  [PubMed - indexed for MEDLINE]
+
+
+16. J Lipid Res. 2008 Nov;49(11):2356-64. doi: 10.1194/jlr.M800158-JLR200. Epub 2008 
+Jun 9.
+
+2-Hydroxy-ceramide synthesis by ceramide synthase family: enzymatic basis for the
+preference of FA chain length.
+
+Mizutani Y(1), Kihara A, Chiba H, Tojo H, Igarashi Y.
+
+Author information: 
+(1)Laboratory of Biomembrane and Biofunctional Chemistry, Faculty of Advanced
+Life Sciences, Hokkaido University, Sapporo, Japan.
+
+Ceramide is unusually abundant in epidermal stratum corneum and is important for 
+permeability barrier function. Ceramides in epidermis also comprise an unusual
+variety, including 2-hydroxy (alpha-hydroxy)-ceramide. Six mammalian ceramide
+synthase/longevity assurance homologue (CerS/LASS) family members have been
+identified as synthases responsible for ceramide (CER) production. We reveal here
+that of the six, CerS3/LASS3 mRNA is the most predominantly expressed in
+keratinocytes. Moreover, its expression is increased upon differentiation. CerS
+family members have known substrate specificities for fatty acyl-CoA chain length
+and saturation, yet their abilities to produce 2-hydroxy-CER have not been
+examined. In the present study, we demonstrate that all CerS members can produce 
+2-hydroxy-CER when overproduced in HEK 293T cells. Each produced a 2-hydroxy-CER 
+with a chain length similar to that of the respective nonhydroxy-CER produced. In
+HeLa cells overproducing the FA 2-hydroxylase FA2H, knock-down of CerS2 resulted 
+in a reduction in total long-chain 2-hydroxy-CERs, confirming enzyme substrate
+specificity for chain length. In vitro CerS assays confirmed the ability of CerS1
+to utilize 2-hydroxy-stearoyl-CoA as a substrate. These results suggest that all 
+CerS members can synthesize 2-hydroxy-CER with specificity for 2-hydroxy-fatty
+acyl-CoA chain length and that CerS3 may be important in CER and 2-hydroxy-CER
+synthesis in epidermis.
+
+PMID: 18541923  [PubMed - indexed for MEDLINE]
+
+
+17. J Biol Chem. 2008 May 9;283(19):13357-69. doi: 10.1074/jbc.M800870200. Epub 2008 
+Feb 27.
+
+Male germ cells require polyenoic sphingolipids with complex glycosylation for
+completion of meiosis: a link to ceramide synthase-3.
+
+Rabionet M(1), van der Spoel AC, Chuang CC, von Tümpling-Radosta B, Litjens M,
+Bouwmeester D, Hellbusch CC, Körner C, Wiegandt H, Gorgas K, Platt FM, Gröne HJ, 
+Sandhoff R.
+
+Author information: 
+(1)Department of Cellular and Molecular Pathology, German Cancer Research Center,
+INF 280, 69120 Heidelberg, Germany.
+
+Previously, it was found that a novel class of neutral fucosylated
+glycosphingolipids (GSLs) is required for male fertility. These lipids contain
+very long-chain (C26-C32) polyunsaturated (4-6 double bonds) fatty acid residues 
+(VLC-PUFAs). To assess the role of these complex GSLs in spermatogenesis, we have
+now investigated with which of the testicular cell types these lipids are
+associated. During postnatal development, complex glycosylated and simple
+VLC-PUFA sphingolipids were first detectable at day 15, when the most advanced
+germ cells are pachytene spermatocytes. Their synthesis is most likely driven by 
+ceramide synthase-3. This enzyme is encoded by the Cers3/Lass3 gene (longevity
+assurance genes), and out of six members of this gene family, only Cers3 mRNA
+expression was limited to germ cells, where it was up-regulated more than
+700-fold during postnatal testicular maturation. Increasing levels of neutral
+complex VLC-PUFA GSLs also correlated with the progression of spermatogenesis in 
+a series of male sterile mutants with arrests at different stages of
+spermatogenesis. Remarkably, fucosylation of the complex VLC-PUFA GSLs was not
+essential for spermatogenesis, as fucosylation-deficient mice produced
+nonfucosylated versions of the complex testicular VLC-PUFA GSLs, had complete
+spermatogenesis, and were fertile. Nevertheless, sterile Galgt1(-/-) mice, with a
+defective meiotic cytokinesis and a subsequent block in spermiogenesis, lacked
+complex but contained simple VLC-PUFA GSLs, as well as VLC-PUFA ceramides and
+sphingomyelins, indicating that the latter lipids are not sufficient for
+completion of spermatogenesis. Thus, our data imply that both glycans and the
+particular acyl chains of germinal sphingolipids are relevant for proper
+completion of meiosis.
+
+PMCID: PMC2442322
+PMID: 18308723  [PubMed - indexed for MEDLINE]
+
+

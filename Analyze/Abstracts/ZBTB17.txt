@@ -1,0 +1,2503 @@
+
+1. Circ Cardiovasc Genet. 2015 Oct;8(5):643-52. doi:
+10.1161/CIRCGENETICS.113.000690. Epub 2015 Jul 14.
+
+ZBTB17 (MIZ1) Is Important for the Cardiac Stress Response and a Novel Candidate 
+Gene for Cardiomyopathy and Heart Failure.
+
+Buyandelger B, Mansfield C, Kostin S, Choi O, Roberts AM, Ware JS, Mazzarotto F, 
+Pesce F, Buchan R, Isaacson RL, Vouffo J, Gunkel S, Knöll G, McSweeney SJ, Wei H,
+Perrot A, Pfeiffer C, Toliat MR, Ilieva K, Krysztofinska E, López-Olañeta MM,
+Gómez-Salinero JM, Schmidt A, Ng KE, Teucher N, Chen J, Teichmann M, Eilers M,
+Haverkamp W, Regitz-Zagrosek V, Hasenfuss G, Braun T, Pennell DJ, Gould I, Barton
+PJ, Lara-Pezzi E, Schäfer S, Hübner N, Felkin LE, O'Regan DP, Brand T, Milting H,
+Nürnberg P, Schneider MD, Prasad S, Petretto E, Knöll R.
+
+BACKGROUND: Mutations in sarcomeric and cytoskeletal proteins are a major cause
+of hereditary cardiomyopathies, but our knowledge remains incomplete as to how
+the genetic defects execute their effects.
+METHODS AND RESULTS: We used cysteine and glycine-rich protein 3, a known
+cardiomyopathy gene, in a yeast 2-hybrid screen and identified zinc-finger and
+BTB domain-containing protein 17 (ZBTB17) as a novel interacting partner. ZBTB17 
+is a transcription factor that contains the peak association signal (rs10927875) 
+at the replicated 1p36 cardiomyopathy locus. ZBTB17 expression protected cardiac 
+myocytes from apoptosis in vitro and in a mouse model with cardiac
+myocyte-specific deletion of Zbtb17, which develops cardiomyopathy and fibrosis
+after biomechanical stress. ZBTB17 also regulated cardiac myocyte hypertrophy in 
+vitro and in vivo in a calcineurin-dependent manner.
+CONCLUSIONS: We revealed new functions for ZBTB17 in the heart, a transcription
+factor that may play a role as a novel cardiomyopathy gene.
+
+© 2015 American Heart Association, Inc.
+
+PMID: 26175529  [PubMed - in process]
+
+
+2. EMBO J. 2015 Jun 3;34(11):1554-71. doi: 10.15252/embj.201490467. Epub 2015 Apr
+20.
+
+Repression of SRF target genes is critical for Myc-dependent apoptosis of
+epithelial cells.
+
+Wiese KE(1), Haikala HM(2), von Eyss B(1), Wolf E(1), Esnault C(3), Rosenwald
+A(4), Treisman R(3), Klefström J(2), Eilers M(5).
+
+Author information: 
+(1)Biocenter Theodor Boveri Institute University of Würzburg, Würzburg, Germany. 
+(2)Faculty of Medicine, Cancer Cell Circuitry Laboratory, Translational Cancer
+Biology Research Program and Institute of Biomedicine Biomedicum Helsinki
+University of Helsinki, Helsinki, Finland. (3)Cancer Research UK London Research 
+Institute Lincoln's Inn Fields Laboratories Transcription Laboratory, London, UK.
+(4)Institute of Pathology University of Würzburg, Würzburg, Germany Comprehensive
+Cancer Center Mainfranken University of Würzburg, Würzburg, Germany. (5)Biocenter
+Theodor Boveri Institute University of Würzburg, Würzburg, Germany Comprehensive 
+Cancer Center Mainfranken University of Würzburg, Würzburg, Germany
+martin.eilers@biozentrum.uni-wuerzburg.de.
+
+Oncogenic levels of Myc expression sensitize cells to multiple apoptotic stimuli,
+and this protects long-lived organisms from cancer development. How cells
+discriminate physiological from supraphysiological levels of Myc is largely
+unknown. Here, we show that induction of apoptosis by Myc in breast epithelial
+cells requires association of Myc with Miz1. Gene expression and ChIP-Sequencing 
+experiments show that high levels of Myc invade target sites that lack consensus 
+E-boxes in a complex with Miz1 and repress transcription. Myc/Miz1-repressed
+genes encode proteins involved in cell adhesion and migration and include several
+integrins. Promoters of repressed genes are enriched for binding sites of the
+serum-response factor (SRF). Restoring SRF activity antagonizes Myc repression of
+SRF target genes, attenuates Myc-induced apoptosis, and reverts a Myc-dependent
+decrease in Akt phosphorylation and activity, a well-characterized suppressor of 
+Myc-induced apoptosis. We propose that high levels of Myc engage Miz1 in
+repressive DNA binding complexes and suppress an SRF-dependent transcriptional
+program that supports survival of epithelial cells.
+
+© 2015 The Authors.
+
+PMCID: PMC4474530 [Available on 2016-06-03]
+PMID: 25896507  [PubMed - indexed for MEDLINE]
+
+
+3. Biochem J. 2015 Mar 15;466(3):499-509. doi: 10.1042/BJ20141143.
+
+Myc-interacting zinc-finger protein 1 positively regulates Wnt signalling by
+protecting Dishevelled from Dapper1-mediated degradation.
+
+Huang Y(1), Wang P(1), Chen H(1), Ding Y(1), Chen YG(1).
+
+Author information: 
+(1)*The State Key Laboratory of Biomembrane and Membrane Biotechnology,
+Tsinghua-Peking Center for Life Sciences, School of Life Sciences, Tsinghua
+University, Beijing 100084, China.
+
+Wnt signalling regulates embryonic development and tissue homoeostasis by
+modulating cell proliferation, differentiation and migration. Dapper1 (Dpr1) has 
+been shown to be an important key negative regulator of Wnt signalling by
+promoting Dishevelled (Dvl) degradation. In the present study, we found that
+Myc-interacting zinc-finger protein 1 (MIZ1) interacts with Dpr1 and this
+interaction attenuates the ability of Dpr1 to induce Dvl2 degradation, thus
+enhancing Wnt signalling. Mechanistically, MIZ1 is translocated from the nucleus 
+to the cytoplasm upon Wnt3a stimulation or overexpression of Dpr1 and Dvl2,
+disrupting the interaction between Dpr1 and Dvl2. Furthermore, MIZ1 can promote
+the proliferation of breast cancer MDA-MB-231 and BT-549 cells through Wnt
+signalling and reverse the anti-proliferative effect of Dpr1 on colorectal cancer
+Caco-2. Together, our findings establish a novel layer of Wnt signalling
+regulation via the MIZ1-Dpr1-Dvl axis.
+
+PMID: 25558878  [PubMed - indexed for MEDLINE]
+
+
+4. Acta Crystallogr F Struct Biol Commun. 2014 Dec 1;70(Pt 12):1591-6. doi:
+10.1107/S2053230X14023449. Epub 2014 Nov 14.
+
+Structures of heterodimeric POZ domains of Miz1/BCL6 and Miz1/NAC1.
+
+Stead MA(1), Wright SC(1).
+
+Author information: 
+(1)School of Biology, University of Leeds, Leeds LS2 9JT, England.
+
+The POZ domain is an evolutionarily conserved protein-protein interaction domain 
+that is found in approximately 40 mammalian transcription factors. POZ domains
+mediate both homodimerization and the heteromeric interactions of different
+POZ-domain transcription factors with each other. Miz1 is a POZ-domain
+transcription factor that regulates cell-cycle arrest and DNA-damage responses.
+The activities of Miz1 are altered by its interaction with the POZ-domain
+transcriptional repressors BCL6 and NAC1, and these interactions have been
+implicated in tumourigenesis in B-cell lymphomas and in ovarian serous carcinomas
+that overexpress BCL6 and NAC1, respectively. A strategy for the purification of 
+tethered POZ domains that form forced heterodimers is described, and crystal
+structures of the heterodimeric POZ domains of Miz1/BCL6 and of Miz1/NAC1 are
+reported. These structures will be relevant for the design of therapeutics that
+target POZ-domain interaction interfaces.
+
+PMID: 25484205  [PubMed - indexed for MEDLINE]
+
+
+5. Trends Cell Biol. 2015 Apr;25(4):241-8. doi: 10.1016/j.tcb.2014.10.006. Epub 2014
+Dec 1.
+
+Taming of the beast: shaping Myc-dependent amplification.
+
+Wolf E(1), Lin CY(2), Eilers M(3), Levens DL(4).
+
+Author information: 
+(1)Theodor Boveri Institute, Biocenter, and Comprehensive Cancer Center,
+University of Würzburg, Am Hubland, 97074 Würzburg, Germany. (2)Department of
+Medical Oncology, Dana Farber Cancer Institute, Harvard Medical School, Boston,
+MA 02115, USA. Electronic address: Charles_lin@dfci.harvard.edu. (3)Theodor
+Boveri Institute, Biocenter, and Comprehensive Cancer Center, University of
+Würzburg, Am Hubland, 97074 Würzburg, Germany. Electronic address:
+martin.eilers@biozentrum.uni-wuerzburg.de. (4)Laboratory of Pathology, 10 Center 
+Drive, Bethesda, MD 20892-1500, USA. Electronic address: levens@helix.nih.gov.
+
+Myc deregulation is a hallmark oncogenic event where overexpression of the
+transcription factor gives rise to numerous tumorigenic phenotypes. The complex
+consequences of Myc deregulation have prevented clear mechanistic interpretations
+of its function. A synthesis of recent experimental observations offers a
+consensus on the direct transcriptional function of Myc: when overexpressed, Myc 
+broadly engages the established euchromatic cis-regulatory landscape of the cell,
+where the factor generally amplifies transcription. The level of Myc binding at
+target genes and the transcriptional output are differentially modulated by
+additional regulators, including Miz1. Targeting Myc oncogenic activity will
+require an understanding of whether amplification promotes tumorigenesis and the 
+consequences of amplification in tumors adapted to oncogenic Myc.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+PMCID: PMC4380620
+PMID: 25475704  [PubMed - indexed for MEDLINE]
+
+
+6. EMBO Mol Med. 2014 Sep 24;6(12):1525-41. doi: 10.15252/emmm.201403927.
+
+Tumor cell-specific inhibition of MYC function using small molecule inhibitors of
+the HUWE1 ubiquitin ligase.
+
+Peter S(1), Bultinck J(2), Myant K(3), Jaenicke LA(1), Walz S(1), Müller J(4),
+Gmachl M(5), Treu M(5), Boehmelt G(5), Ade CP(1), Schmitz W(1), Wiegering A(6),
+Otto C(6), Popov N(7), Sansom O(3), Kraut N(5), Eilers M(8).
+
+Author information: 
+(1)Theodor Boveri Institute, Biocenter, University of Würzburg, Würzburg,
+Germany. (2)Cytokine Receptor Lab, Department of Biochemistry, Ghent University, 
+Ghent, Belgium. (3)CRUK Beatson Institute, Glasgow, UK. (4)Department of
+Molecular Oncology, Netherlands Cancer Institute, Amsterdam, the Netherlands.
+(5)Department Lead Discovery, Boehringer Ingelheim RCV GmbH & Co KG, Vienna,
+Austria. (6)Department of General, Visceral, Vascular and Paediatric Surgery,
+University Hospital Würzburg, Würzburg, Germany. (7)Theodor Boveri Institute,
+Biocenter, University of Würzburg, Würzburg, Germany Comprehensive Cancer Center 
+Mainfranken, University of Würzburg, Würzburg, Germany. (8)Theodor Boveri
+Institute, Biocenter, University of Würzburg, Würzburg, Germany Comprehensive
+Cancer Center Mainfranken, University of Würzburg, Würzburg, Germany
+martin.eilers@biozentrum.uni-wuerzburg.de.
+
+Comment in
+    EMBO Mol Med. 2014 Dec;6(12):1509-11.
+
+Deregulated expression of MYC is a driver of colorectal carcinogenesis,
+necessitating novel strategies to inhibit MYC function. The ubiquitin ligase
+HUWE1 (HECTH9, ARF-BP1, MULE) associates with both MYC and the MYC-associated
+protein MIZ1. We show here that HUWE1 is required for growth of colorectal cancer
+cells in culture and in orthotopic xenograft models. Using high-throughput
+screening, we identify small molecule inhibitors of HUWE1, which inhibit
+MYC-dependent transactivation in colorectal cancer cells, but not in stem and
+normal colon epithelial cells. Inhibition of HUWE1 stabilizes MIZ1. MIZ1 globally
+accumulates on MYC target genes and contributes to repression of MYC-activated
+target genes upon HUWE1 inhibition. Our data show that transcriptional activation
+by MYC in colon cancer cells requires the continuous degradation of MIZ1 and
+identify a novel principle that allows for inhibition of MYC function in tumor
+cells.
+
+© 2014 The Authors. Published under the terms of the CC BY 4.0 license.
+
+PMCID: PMC4287973
+PMID: 25253726  [PubMed - indexed for MEDLINE]
+
+
+7. Nucleic Acids Res. 2014 Oct;42(18):11447-61. doi: 10.1093/nar/gku857. Epub 2014
+Sep 22.
+
+Two ZNF509 (ZBTB49) isoforms induce cell-cycle arrest by activating transcription
+of p21/CDKN1A and RB upon exposure to genotoxic stress.
+
+Jeon BN(1), Kim MK(1), Yoon JH(1), Kim MY(1), An H(1), Noh HJ(1), Choi WI(1), Koh
+DI(1), Hur MW(2).
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, Brain Korea 21 Plus Project 
+for Medical Science, Severance Biomedical Research Institute, Yonsei University
+School of Medicine, 50-1, Yonsei-Ro, SeoDaeMun-Gu, Seoul 120-752, Korea.
+(2)Department of Biochemistry and Molecular Biology, Brain Korea 21 Plus Project 
+for Medical Science, Severance Biomedical Research Institute, Yonsei University
+School of Medicine, 50-1, Yonsei-Ro, SeoDaeMun-Gu, Seoul 120-752, Korea
+mwhur2@yuhs.ac.
+
+ZNF509 is unique among POK family proteins in that four isoforms are generated by
+alternative splicing. Short ZNF509 (ZNF509S1, -S2 and -S3) isoforms contain one
+or two out of the seven zinc-fingers contained in long ZNF509 (ZNF509L). Here, we
+investigated the functions of ZNF509 isoforms in response to DNA damage, showing 
+isoforms to be induced by p53. Intriguingly, to inhibit proliferation of HCT116
+and HEK293 cells, we found that ZNF509L activates p21/CDKN1A transcription, while
+ZNF509S1 induces RB. ZNF509L binds to the p21/CDKN1A promoter either alone or by 
+interacting with MIZ-1 to recruit the co-activator p300 to activate p21/CDKN1A
+transcription. In contrast, ZNF509S1 binds to the distal RB promoter to interact 
+and interfere with the MIZF repressor, resulting in derepression and
+transcription of RB. Immunohistochemical analysis revealed that ZNF509 is highly 
+expressed in normal epithelial cells, but was completely repressed in tumor
+tissues of the colon, lung and skin, indicating a possible role as a tumor
+suppressor.
+
+© The Author(s) 2014. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+PMCID: PMC4191422
+PMID: 25245946  [PubMed - indexed for MEDLINE]
+
+
+8. Nucleic Acids Res. 2014 Sep;42(15):9700-16. doi: 10.1093/nar/gku697. Epub 2014
+Aug 4.
+
+Epstein-Barr virus nuclear antigen 3A protein regulates CDKN2B transcription via 
+interaction with MIZ-1.
+
+Bazot Q(1), Deschamps T(1), Tafforeau L(2), Siouda M(3), Leblanc P(4),
+Harth-Hertle ML(5), Rabourdin-Combe C(2), Lotteau V(2), Kempkes B(5), Tommasino
+M(3), Gruffat H(1), Manet E(6).
+
+Author information: 
+(1)CIRI, International Center for Infectiology Research, Oncogenic Herpesviruses 
+team, Université de Lyon, Lyon 69364, France Université Lyon 1, Centre
+International de Recherche en Infectiologie, Lyon 69364, France CIRI,
+International Center for Infectiology Research, Cell Biology of Viral Infections 
+team, Université de Lyon, Lyon 69364, France INSERM, U1111, Lyon 69364, France
+CNRS, UMR5308, Lyon 69364, France. (2)Université Lyon 1, Centre International de 
+Recherche en Infectiologie, Lyon 69364, France CIRI, International Center for
+Infectiology Research, Cell Biology of Viral Infections team, Université de Lyon,
+Lyon 69364, France INSERM, U1111, Lyon 69364, France CNRS, UMR5308, Lyon 69364,
+France Ecole Normale Supérieure de Lyon, Lyon 69364, France. (3)International
+Agency for Research on Cancer, World Health Organization, Lyon 69372, France.
+(4)CNRS, UMR5308, Lyon 69364, France CNRS UMR5239, Laboratoire de Biologie de la 
+Cellule, Lyon 69364, France. (5)Department of Gene Vectors, Helmholtz Center
+Munich, German Research Center for Environmental Health, Munich, Germany.
+(6)CIRI, International Center for Infectiology Research, Oncogenic Herpesviruses 
+team, Université de Lyon, Lyon 69364, France Université Lyon 1, Centre
+International de Recherche en Infectiologie, Lyon 69364, France CIRI,
+International Center for Infectiology Research, Cell Biology of Viral Infections 
+team, Université de Lyon, Lyon 69364, France INSERM, U1111, Lyon 69364, France
+CNRS, UMR5308, Lyon 69364, France evelyne.manet@ens-lyon.fr.
+
+The Epstein-Barr virus (EBV) nuclear antigen 3 family of protein is critical for 
+the EBV-induced primary B-cell growth transformation process. Using a yeast
+two-hybrid screen we identified 22 novel cellular partners of the EBNA3s. Most
+importantly, among the newly identified partners, five are known to play direct
+and important roles in transcriptional regulation. Of these, the Myc-interacting 
+zinc finger protein-1 (MIZ-1) is a transcription factor initially characterized
+as a binding partner of MYC. MIZ-1 activates the transcription of a number of
+target genes including the cell cycle inhibitor CDKN2B. Focusing on the
+EBNA3A/MIZ-1 interaction we demonstrate that binding occurs in EBV-infected cells
+expressing both proteins at endogenous physiological levels and that in the
+presence of EBNA3A, a significant fraction of MIZ-1 translocates from the
+cytoplasm to the nucleus. Moreover, we show that a trimeric complex composed of a
+MIZ-1 recognition DNA element, MIZ-1 and EBNA3A can be formed, and that
+interaction of MIZ-1 with nucleophosmin (NPM), one of its coactivator, is
+prevented by EBNA3A. Finally, we show that, in the presence of EBNA3A, expression
+of the MIZ-1 target gene, CDKN2B, is downregulated and repressive H3K27 marks are
+established on its promoter region suggesting that EBNA3A directly counteracts
+the growth inhibitory action of MIZ-1.
+
+© The Author(s) 2014. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+PMCID: PMC4150796
+PMID: 25092922  [PubMed - indexed for MEDLINE]
+
+
+9. Nature. 2014 Jul 24;511(7510):483-7. doi: 10.1038/nature13473. Epub 2014 Jul 9.
+
+Activation and repression by oncogenic MYC shape tumour-specific gene expression 
+profiles.
+
+Walz S(1), Lorenzin F(1), Morton J(2), Wiese KE(3), von Eyss B(3), Herold S(3),
+Rycak L(4), Dumay-Odelot H(5), Karim S(2), Bartkuhn M(6), Roels F(7), Wüstefeld
+T(8), Fischer M(7), Teichmann M(5), Zender L(9), Wei CL(10), Sansom O(2), Wolf
+E(11), Eilers M(12).
+
+Author information: 
+(1)1] Theodor Boveri Institute, Biocenter, University of Würzburg, Am Hubland,
+97074 Würzburg, Germany [2]. (2)CRUK Beatson Institute, Garscube Estate,
+Switchback Road, Glasgow G61 1BD, UK. (3)Theodor Boveri Institute, Biocenter,
+University of Würzburg, Am Hubland, 97074 Würzburg, Germany. (4)Institute for
+Molecular Biology and Tumor Research (IMT), Emil-Mannkopff-Str.2, 35033 Marburg, 
+Germany. (5)University of Bordeaux, IECB, ARNA laboratory, Equipe Labellisée
+Contre le Cancer, 33600 Pessac, France. (6)Institute for Genetics,
+Justus-Liebig-University, Heinrich-Buff-Ring 58, 35390 Giessen, Germany.
+(7)University Children's Hospital of Cologne, and Cologne Center for Molecular
+Medicine (CMMC), University of Cologne, Kerpener Str. 62, 50924 Cologne, Germany.
+(8)University Hospital Tübingen, Division of Translational Gastrointestinal
+Oncology, Department of Internal Medicine I, Otfried-Mueller-Strasse 10, 72076
+Tübingen, Germany. (9)1] University Hospital Tübingen, Division of Translational 
+Gastrointestinal Oncology, Department of Internal Medicine I,
+Otfried-Mueller-Strasse 10, 72076 Tübingen, Germany [2] Translational
+Gastrointestinal Oncology Group within the German Center for Translational Cancer
+Research (DKTK), German Cancer Research Center (DKFZ), 69121 Heidelberg, Germany.
+(10)DOE Joint Genome Institute, 2800 Mitchell Drive, Walnut Creek, California
+94598, USA. (11)1] Theodor Boveri Institute, Biocenter, University of Würzburg,
+Am Hubland, 97074 Würzburg, Germany [2] Rudolf Virchow Center/DFG Research Center
+for Experimental Biomedicine, University of Würzburg, Josef-Schneider-Str.2,
+97080 Würzburg, Germany [3]. (12)1] Theodor Boveri Institute, Biocenter,
+University of Würzburg, Am Hubland, 97074 Würzburg, Germany [2] Comprehensive
+Cancer Center Mainfranken, University of Würzburg, Josef-Schneider-Str. 6, 97080 
+Würzburg, Germany [3].
+
+Erratum in
+    Nature. 2014 Dec 18;516(7531):440.
+
+Comment in
+    Nature. 2014 Jul 24;511(7510):417-8.
+
+In mammalian cells, the MYC oncoprotein binds to thousands of promoters. During
+mitogenic stimulation of primary lymphocytes, MYC promotes an increase in the
+expression of virtually all genes. In contrast, MYC-driven tumour cells differ
+from normal cells in the expression of specific sets of up- and downregulated
+genes that have considerable prognostic value. To understand this discrepancy, we
+studied the consequences of inducible expression and depletion of MYC in human
+cells and murine tumour models. Changes in MYC levels activate and repress
+specific sets of direct target genes that are characteristic of MYC-transformed
+tumour cells. Three factors account for this specificity. First, the magnitude of
+response parallels the change in occupancy by MYC at each promoter. Functionally 
+distinct classes of target genes differ in the E-box sequence bound by MYC,
+suggesting that different cellular responses to physiological and oncogenic MYC
+levels are controlled by promoter affinity. Second, MYC both positively and
+negatively affects transcription initiation independent of its effect on
+transcriptional elongation. Third, complex formation with MIZ1 (also known as
+ZBTB17) mediates repression of multiple target genes by MYC and the ratio of MYC 
+and MIZ1 bound to each promoter correlates with the direction of response.
+
+PMID: 25043018  [PubMed - indexed for MEDLINE]
+
+
+10. Mol Cancer. 2014 Mar 11;13:54. doi: 10.1186/1476-4598-13-54.
+
+Regulation of CDKN2B expression by interaction of Arnt with Miz-1--a basis for
+functional integration between the HIF and Myc gene regulatory pathways.
+
+Aesoy R(1), Gradin K, Aasrud KS, Hoivik EA, Ruas JL, Poellinger L, Bakke M.
+
+Author information: 
+(1)Department of Biomedicine, University of Bergen, Jonas Lies vei 91, N-5009
+Bergen, Norway. Reidun.Asoy@biomed.uib.no.
+
+BACKGROUND: Hypoxia- and Myc-dependent transcriptional regulatory pathways are
+frequently deregulated in cancer cells. These pathways converge in many cellular 
+responses, but the underlying molecular mechanisms are unclear.
+METHODS: The ability of Miz-1 and Arnt to interact was identified in a yeast
+two-hybrid screen. The mode of interaction and the functional consequences of
+complex formation were analyzed by diverse molecular biology methods, in vitro.
+Statistical analyses were performed by Student's t-test and ANOVA.
+RESULTS: In the present study we demonstrate that the aryl hydrocarbon receptor
+nuclear translocator (Arnt), which is central in hypoxia-induced signaling, forms
+a complex with Miz-1, an important transcriptional regulator in Myc-mediated
+transcriptional repression. Overexpression of Arnt induced reporter gene activity
+driven by the proximal promoter of the cyclin-dependent kinase inhibitor 2B gene 
+(CDKN2B), which is an established target for the Myc/Miz-1 complex. In contrast, 
+mutated forms of Arnt, that were unable to interact with Miz-1, had reduced
+capability to activate transcription. Moreover, repression of Arnt reduced
+endogenous CDKN2B expression, and chromatin immunoprecipitation demonstrated that
+Arnt interacts with the CDKN2B promoter. The transcriptional activity of Arnt was
+counteracted by Myc, but not by a mutated variant of Myc that is unable to
+interact with Miz-1, suggesting mutually exclusive interaction of Arnt and Myc
+with Miz-1. Our results also establish CDKN2B as a hypoxia regulated gene, as
+endogenous CDKN2B mRNA and protein levels were reduced by hypoxic treatment of
+U2OS cells.
+CONCLUSIONS: Our data reveal a novel mode of regulation by protein-protein
+interaction that directly ties together, at the transcriptional level, the Myc-
+and hypoxia-dependent signaling pathways and expands our understanding of the
+roles of hypoxia and cell cycle alterations during tumorigenesis.
+
+PMCID: PMC3984710
+PMID: 24618291  [PubMed - indexed for MEDLINE]
+
+
+11. Cold Spring Harb Perspect Med. 2013 Dec 1;3(12):a014290. doi:
+10.1101/cshperspect.a014290.
+
+The role of MIZ-1 in MYC-dependent tumorigenesis.
+
+Wiese KE(1), Walz S, von Eyss B, Wolf E, Athineos D, Sansom O, Eilers M.
+
+Author information: 
+(1)Comprehensive Cancer Center Mainfranken and Theodor Boveri Institute,
+Biocenter, University of Würzburg, 97074 Würzburg, Germany.
+
+A hallmark of MYC-transformed cells is their aberrant response to antimitogenic
+signals. Key examples include the inability of MYC-transformed cells to arrest
+proliferation in response to antimitogenic signals such as TGF-ß or DNA damage
+and their inability to differentiate into adipocytes in response to hormonal
+stimuli. Given the plethora of antimitogenic signals to which a tumor cell is
+exposed, it is likely that the ability to confer resistance to these signals is
+central to the transforming properties of MYC in vivo. At the same time, the
+inability of MYC-transformed cells to halt cell-cycle progression on stress may
+establish a dependence on mutations that impair or disable apoptosis. We propose 
+that the interaction of MYC with the zinc finger protein MIZ-1 mediates
+resistance to antimitogenic signals. In contrast to other interactions of MYC,
+there is currently little evidence that MIZ-1 associates with MYC in normal,
+unperturbed cells. The functional interaction of both proteins becomes apparent
+at oncogenic expression levels of MYC and association with MIZ-1 mediates both
+oncogenic functions of MYC as well as tumor-suppressive responses to oncogenic
+levels of MYC.
+
+PMCID: PMC3839600
+PMID: 24296348  [PubMed - indexed for MEDLINE]
+
+
+12. Cancer Discov. 2013 Jul;3(7):OF32. doi: 10.1158/2159-8290.CD-RW2013-119. Epub
+2013 Jun 6.
+
+The MULE/HUWE1 E3 ubiquitin ligase is a tumor suppressor.
+
+[No authors listed]
+
+MULE/HUWE1 suppresses RAS-driven skin tumorigenesis in vivo by regulating
+c-MYC/MIZ1 stability.
+
+PMID: 23847377  [PubMed - indexed for MEDLINE]
+
+
+13. Eur J Med Res. 2013 Apr 9;18:10. doi: 10.1186/2047-783X-18-10.
+
+Polymorphism of ZBTB17 gene is associated with idiopathic dilated cardiomyopathy:
+a case control study in a Han Chinese population.
+
+Li X(1), Luo R, Mo X, Jiang R, Kong H, Hua W, Wu X.
+
+Author information: 
+(1)Cardiac Arrhythmia Center, Cardiovascular Institute and Fu Wai Hospital,
+Chinese Academy of Medical Sciences, Peking Union Medical College, Beijing,
+100037, China.
+
+BACKGROUND: Dilated cardiomyopathy (DCM) has been extensively investigated for
+many years, but its pathogenesis remains uncertain. The ACTC1 gene was the first 
+sarcomeric gene whose mutation was shown to cause DCM; recent studies have
+indicated that the HSPB7 and ZBTB17 genes are also associated with DCM. To assess
+the potential role of these three genes in DCM, we examined 11 single nucleotide 
+polymorphisms (SNPs) in the ZBTB17, HSPB7 and ACTC1 genes: namely, rs10927875 in 
+ZBTB17; rs1739843, rs7523558, and rs6660685 in HSPB7; rs533021, rs589759,
+rs1370154, rs2070664, rs3759834, rs525720 and rs670957 in ACTC1.
+METHODS: A total of 97 DCM patients and 189 controls were included in the study. 
+All SNPs were genotyped by matrix-assisted laser desorption/ionization
+time-of-flight mass spectrometry (MALDI-TOF-MS).
+RESULTS: The genotype of SNP rs10927875 in ZBTB17 (OR=5.19, 95% CI =1.00 to
+27.03, P=0.05) was associated with DCM in a Han Chinese population. There was no 
+difference in genotype or allele frequencies in ACTC1 or HSPB7 between DCM
+patients and control subjects.
+CONCLUSION: The ZBTB17 polymorphism rs10927875 appears to play a role in the
+susceptibility of the Han Chinese population to DCM.
+
+PMCID: PMC3626695
+PMID: 23570452  [PubMed - indexed for MEDLINE]
+
+
+14. J Biomol NMR. 2012 Nov;54(3):317-23. doi: 10.1007/s10858-012-9670-1. Epub 2012
+Sep 18.
+
+NMR structure note: solution structure of human Miz-1 zinc fingers 8 to 10.
+
+Bédard M(1), Maltais L, Beaulieu ME, Bilodeau J, Bernard D, Lavigne P.
+
+Author information: 
+(1)Institut de Pharmacologie de Sherbrooke, Faculté de Médecine et des Sciences
+de la Santé, Université de Sherbrooke, 3001 12e Avenue Nord, Campus de la santé, 
+Sherbrooke, QC, J1H 5N4, Canada.
+
+PMID: 22986688  [PubMed - indexed for MEDLINE]
+
+
+15. Proc Natl Acad Sci U S A. 2012 Jan 3;109(1):191-6. doi: 10.1073/pnas.1105176108. 
+Epub 2011 Dec 19.
+
+Site-specific ubiquitination is required for relieving the transcription factor
+Miz1-mediated suppression on TNF-a-induced JNK activation and inflammation.
+
+Liu J(1), Yan J, Jiang S, Wen J, Chen L, Zhao Y, Lin A.
+
+Author information: 
+(1)Ben May Department for Cancer Research, University of Chicago, Chicago, IL
+60637, USA.
+
+The transcription factor zinc-finger protein Miz1 represses TNF-a-induced JNK
+activation and the repression is relieved upon TNF-a stimulation. However, the
+underlying mechanism is incompletely understood. Here we report that Miz1
+interferes with the ubiquitin conjugating enzyme (E2) Ubc13 for binding to the
+RING domain of TNF-receptor associated factor 2 (TRAF2), thereby inhibiting the
+ubiquitin ligase (E3) activity of TRAF2 and suppressing TNF-a-induced JNK
+activation. Upon TNF-a stimulation, Miz1 rapidly undergoes K48-linked
+polyubiquitination at Lys388 and Lys472 residues and subsequent proteasomal
+degradation in a TRAF2-dependent manner. Replacement of Lysine 388 and Lysine 472
+by arginines generates a nondegradable Miz1 mutant, which significantly
+suppresses TNF-a-induced JNK1 activation and inflammation. Thus, our results
+reveal a molecular mechanism by which the repression of TNF-a-induced JNK
+activation by Miz1 is de-repressed by its own site-specific ubiquitination and
+degradation, which may account for the temporal control of TNF-a-JNK signaling.
+
+PMCID: PMC3252938
+PMID: 22184250  [PubMed - indexed for MEDLINE]
+
+
+16. Carcinogenesis. 2012 Feb;33(2):294-300. doi: 10.1093/carcin/bgr286. Epub 2011 Dec
+9.
+
+MicroRNA-34a suppresses malignant transformation by targeting c-Myc
+transcriptional complexes in human renal cell carcinoma.
+
+Yamamura S(1), Saini S, Majid S, Hirata H, Ueno K, Chang I, Tanaka Y, Gupta A,
+Dahiya R.
+
+Author information: 
+(1)Department of Urology, San Francisco Veterans Affairs Medical Center and
+University of California, San Francisco, CA 94121, USA.
+
+We investigated the functional effects of microRNA-34a (miR-34a) on c-Myc
+transcriptional complexes in renal cell carcinoma. miR-34a down-regulated
+expression of multiple oncogenes including c-Myc by targeting its 3' untranslated
+region, which was revealed by luciferase reporter assays. miR-34a was also found 
+to repress RhoA expression by suppressing the c-Myc-Skp2-Miz1 transcriptional
+complex that activates RhoA. Overexpression of c-Myc reversed miR-34a suppression
+of RhoA expression and inhibition of cell invasion, suggesting that miR-34a
+inhibits invasion by suppressing RhoA through c-Myc. miR-34a was also found to
+repress the c-Myc-P-TEFb transcription elongation complex, indicating one of the 
+mechanisms by which miR-34a has profound effects on cellular functions. Our
+results demonstrate that miR-34a suppresses assembly and function of the c-Myc
+complex that activates or elongates transcription, indicating a novel role of
+miR-34a in the regulation of transcription by c-Myc.
+
+PMCID: PMC3271269
+PMID: 22159222  [PubMed - indexed for MEDLINE]
+
+
+17. Virology. 2012 Jan 20;422(2):242-53. doi: 10.1016/j.virol.2011.10.027. Epub 2011 
+Nov 17.
+
+The human papillomavirus type 16 E7 oncoprotein targets Myc-interacting
+zinc-finger protein-1.
+
+Morandell D(1), Kaiser A, Herold S, Rostek U, Lechner S, Mitterberger MC,
+Jansen-Dürr P, Eilers M, Zwerschke W.
+
+Author information: 
+(1)Cell Metabolism and Differentiation Research Group, Institute for Biomedical
+Aging Research of the Austrian Academy of Sciences, Innsbruck, Austria.
+
+We demonstrate that HPV-16 E7 forms a complex with Miz-1. UV-induced expression
+of the CDK-inhibitor p21(Cip1) and subsequent cell cycle arrest depends upon
+endogenous Miz-1 in HPV-negative C33A cervical cancer cells containing mutated
+p53. Transient expression of E7 in C33A inhibits UV-induced expression of
+p21(Cip1) and overcomes Miz-1-induced G1-phase arrest. The C-terminal
+E7<U+0394>79LEDLL83-mutant with reduced Miz-1-binding capacity was impaired in its
+capability to repress p21(Cip1) expression; whereas the pRB-binding-deficient
+E7C24G-mutant inhibited p21(Cip1) expression similar to wild-type E7. Using ChIP,
+we demonstrate that endogenous E7 is bound to the endogenous p21(Cip1)
+core-promoter in CaSki cells and RNAi-mediated knock down of Miz-1 abrogates
+E7-binding to the p21(Cip1) promoter. Co-expression of E7 with Miz-1 inhibited
+Miz-1-induced p21(Cip1) expression from the minimal-promoter via Miz-1
+DNA-binding sites. Co-expression of E7<U+0394>79LEDLL83 did not inhibit Miz-1-induced
+p21(Cip1) expression. E7C24G retained E7-wild-type capability to inhibit
+Miz-1-dependent transactivation. These findings suggest that HPV-16 E7 can
+repress Miz-1-induced p21(Cip1) gene expression.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+PMCID: PMC3268862
+PMID: 22099967  [PubMed - indexed for MEDLINE]
+
+
+18. Semin Immunol. 2011 Oct;23(5):379-87. doi: 10.1016/j.smim.2011.09.001. Epub 2011 
+Oct 13.
+
+The role of the transcription factor Miz-1 in lymphocyte development and
+lymphomagenesis-Binding Myc makes the difference.
+
+Möröy T(1), Saba I, Kosan C.
+
+Author information: 
+(1)Institut de recherches cliniques de Montréal - IRCM, 110 Avenue des Pins
+Ouest, Montréal, QC H2W 1R7, Canada. Tarik.Moroy@ircm.qc.ca
+
+The Myc interacting zinc finger protein 1 (Miz-1) is a BTB/POZ domain containing 
+transcription factor that can function as an activator or repressor depending on 
+its binding partners. In a complex with co-factors such as nuclophosmin or p300, 
+Miz-1 stimulates transcription of genes that encode regulators of cell cycle
+progression such as p21(Cip1) or p15(Ink4b) or inhibitors of apoptosis such as
+Bcl-2. In contrast, Miz-1 becomes a transcriptional repressor when it binds to
+c-Myc or Bcl-6, which replace nucleophosmin or p300. During lymphocyte
+development, Miz-1 functions as a regulator of the IL-7 signaling pathway at very
+early steps in the bone marrow and thymus. When the IL-7 receptor (IL-7R)
+recognizes its cognate cytokine, a cascade of events is initiated that involves
+the recruitment of janus kinases (JAK) to the cytoplasmic part of the IL-7R, the 
+phosphorylation of Stat5, its dimerization and relocation to the nucleus,
+enabling a transcriptional programming that governs commitment, survival and
+proliferation of lymphoid lineage cells. Miz-1 is critical in this signal
+transduction pathway, since it controls the expression of Socs1, an inhibitor of 
+JAKs and thus of Stat5 activation and Bcl-2 expression. A lack of Miz-1 blocks
+IL-7 mediated signaling, which is detrimental for early B- and T-lymphoid
+development. These functions of Miz-1 during early lymphocyte development are
+c-Myc-independent. In contrast, when c-Myc is constitutively over-expressed, for 
+instance during c-Myc induced lymphomagenesis, the interaction between Miz-1 and 
+c-Myc becomes important and critical for the initiation and maintenance of
+c-Myc-dependent lymphoid malignancies.
+
+2011 Elsevier Ltd. All rights reserved.
+
+PMID: 22000024  [PubMed - indexed for MEDLINE]
+
+
+19. Clin Cancer Res. 2011 Nov 1;17(21):6681-92. doi: 10.1158/1078-0432.CCR-11-0313.
+Epub 2011 Sep 9.
+
+Expression of NLRR3 orphan receptor gene is negatively regulated by MYCN and
+Miz-1, and its downregulation is associated with unfavorable outcome in
+neuroblastoma.
+
+Akter J(1), Takatori A, Hossain MS, Ozaki T, Nakazawa A, Ohira M, Suenaga Y,
+Nakagawara A.
+
+Author information: 
+(1)Division of Biochemistry and Innovative Cancer Therapeutics, Chiba Cancer
+Center, Chiba, Japan.
+
+PURPOSE: Our previous study showed that expression of NLRR3 is significantly high
+in favorable neuroblastomas (NBL), whereas that of NLRR1 is significantly high in
+unfavorable NBLs. However, the molecular mechanism of transcriptional regulation 
+of NLRR3 remains elusive. This study was undertaken to clarify the
+transcriptional regulation of NLRR3 and its association with the prognosis of
+NBL.
+EXPERIMENTAL DESIGN: NLRR3 and MYCN expressions in NBL cell lines were analyzed
+after induction of cell differentiation, MYCN knockdown, and overexpression. The 
+transcriptional regulation of NLRR3 was analyzed by luciferase reporter and
+chromatin immunoprecipitation assays. Quantitative PCR was used for examining the
+expression of NLRR3, Miz-1, or MYCN in 87 primary NBLs.
+RESULTS: The expression of NLRR3 mRNA was upregulated during differentiation of
+NBL cells induced by retinoic acid, accompanied with reduced expression of MYCN, 
+suggesting that NLRR3 expression was inversely correlated with MYCN in
+differentiation. Indeed, knockdown of MYCN induced NLRR3 expression, whereas
+exogenously expressed MYCN reduced cellular NLRR3 expression. We found that Miz-1
+was highly expressed in favorable NBLs and NLRR3 was induced by Miz-1 expression 
+in NBL cells. MYCN and Miz-1 complexes bound to NLRR3 promoter and showed a
+negative regulation of NLRR3 expression. In addition, a combination of low
+expression of NLRR3 and high expression of MYCN was highly associated with poor
+prognosis.
+CONCLUSIONS: NLRR3 is a direct target of MYCN, which associates with Miz-1 and
+negatively regulates NLRR3 expression. NLRR3 may play a role in NBL
+differentiation and the survival of NBL patients by inversely correlating with
+MYCN amplification.
+
+©2011 AACR
+
+PMID: 21908575  [PubMed - indexed for MEDLINE]
+
+
+20. Oncogene. 2012 Mar 15;31(11):1442-58. doi: 10.1038/onc.2011.331. Epub 2011 Aug 1.
+
+The proto-oncoprotein KR-POK represses transcriptional activation of CDKN1A by
+MIZ-1 through competitive binding.
+
+Lee KM(1), Choi WI, Koh DI, Kim YJ, Jeon BN, Yoon JH, Lee CE, Kim SH, Oh J, Hur
+MW.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, Yonsei University School of 
+Medicine, Seoul, Korea.
+
+The BTB/POZ family of proteins has been implicated in multiple biological
+processes, including tumourigenesis, DNA damage responses and cell cycle
+progression and development. MIZ-1 (Myc-interacting zinc-finger protein 1) is
+known to activate transcription of CDKN1A. We recently found that a kidney
+cancer-related POK transcription factor, KR-POK, is highly expressed in kidney,
+brain and bone marrow cancer tissues and is a potential proto-oncoprotein. Mouse 
+Kr-pok represses transcription of the CDKN1A by acting on the proximal promoter. 
+The BiFC/FRET assay, co-immunoprecipitation and glutathione S-transferase-fusion 
+protein pull-down assay indicate that MIZ-1 and Kr-pok interact via their POZ
+domains. Oligoucleotide pull-down assays and chromatin immunoprecipitation assays
+revealed that MIZ-1 binds to the proximal GC-box#3 (bp, -55 to -63) and the
+MIZ-1-binding elements, MRE-A (bp, -90 to -64) and MRE-B (bp, -27 to -17).
+Interestingly, MIZ-1 also binds to the distal p53-binding elements. Kr-pok binds 
+to the proximal GC-box#1 (bp, -95 to -100) and #3 (bp, -55 to -63) relatively
+strongly. It also shows weak binding to the MREs and the distal p53-binding
+elements. Kr-pok competes with MIZ-1 in binding to these elements and represses
+transcription by inhibiting MIZ-1/p300 recruitment, which decreases the
+acetylation of histones H3 and H4. Our data indicate that Kr-pok stimulates cell 
+proliferation by interfering with the function of MIZ-1 in CDKN1A gene
+transcription using a mechanism that is radically different from other
+MIZ-1-interacting proteins, such as B-cell lymphoma 6, c-Myc and Gfi-1.
+
+PMID: 21804610  [PubMed - indexed for MEDLINE]
+
+
+21. Blood. 2011 Mar 24;117(12):3370-81. doi: 10.1182/blood-2010-09-310680. Epub 2011 
+Jan 21.
+
+IL-7R-dependent survival and differentiation of early T-lineage progenitors is
+regulated by the BTB/POZ domain transcription factor Miz-1.
+
+Saba I(1), Kosan C, Vassen L, Möröy T.
+
+Author information: 
+(1)Institut de recherches cliniques de Montréal, Montréal, QC, Canada.
+
+T cells originate from early T lineage precursors that have entered the thymus
+and differentiate through well-defined steps. Mice deficient for the BTB/POZ
+domain of zinc finger protein-1 (Miz-1) almost entirely lack early T lineage
+precursors and have a CD4(-)CD8(-) to CD4(+)CD8(+) block causing a strong
+reduction in thymic cellularity. Miz-1(<U+0394>POZ) pro-T cells cannot differentiate in 
+vitro and are unable to relay signals from the interleukin-7R (IL-7R). Both STAT5
+phosphorylation and Bcl-2 up-regulation are perturbed. The high expression levels
+of SOCS1 found in Miz-1(<U+0394>POZ) cells probably cause these alterations. Moreover,
+Miz-1 can bind to the SOCS1 promoter, suggesting that Miz-1 deficiency causes a
+deregulation of SOCS1. Transgenic overexpression of Bcl-2 or inhibition of SOCS1 
+restored pro-T cell numbers and their ability to differentiate, supporting the
+hypothesis that Miz-1 is required for the regulation of the
+IL-7/IL-7R/STAT5/Bcl-2 signaling pathway by monitoring the expression levels of
+SOCS1.
+
+PMID: 21258009  [PubMed - indexed for MEDLINE]
+
+
+22. Immunity. 2010 Dec 14;33(6):917-28. doi: 10.1016/j.immuni.2010.11.028.
+
+Transcription factor miz-1 is required to regulate interleukin-7 receptor
+signaling at early commitment stages of B cell differentiation.
+
+Kosan C(1), Saba I, Godmann M, Herold S, Herkert B, Eilers M, Möröy T.
+
+Author information: 
+(1)Institut de recherches cliniques de Montréal (IRCM), Montréal, Quebec H2W 1R7,
+Canada.
+
+B cell development requires the coordinated action of transcription factors and
+cytokines, in particular interleukin-7 (IL-7). We report that mice lacking the
+POZ (Poxvirus and zinc finger) domain of the transcription factor Miz-1
+(Zbtb17(<U+0394>POZ/<U+0394>POZ)) almost entirely lacked follicular B cells, as shown by the
+fact that their progenitors failed to activate the Jak-Stat5 pathway and to
+upregulate the antiapoptotic gene Bcl2 upon IL-7 stimulation. We show that Miz-1 
+exerted a dual role in the interleukin-7 receptor (IL-7R) pathway by directly
+repressing the Janus kinase (Jak) inhibitor suppressor of cytokine signaling 1
+(Socs1) and by activating Bcl2 expression. Zbtb17(<U+0394>POZ/<U+0394>POZ) (Miz-1-deficient) B 
+cell progenitors had low expression of early B cell genes as transcription factor
+3 (Tcf3) and early B cell factor 1 (Ebf1) and showed a propensity for apoptosis. 
+Only the combined re-expression of Bcl2 and Ebf1 could reconstitute the ability
+of Miz-1-deficient precursors to develop into CD19(+) B cells.
+
+PMID: 21167753  [PubMed - indexed for MEDLINE]
+
+
+23. Cancer Res. 2011 Jan 15;71(2):404-12. doi: 10.1158/0008-5472.CAN-10-2627. Epub
+2010 Dec 1.
+
+A SP1/MIZ1/MYCN repression complex recruits HDAC1 at the TRKA and p75NTR
+promoters and affects neuroblastoma malignancy by inhibiting the cell response to
+NGF.
+
+Iraci N(1), Diolaiti D, Papa A, Porro A, Valli E, Gherardi S, Herold S, Eilers M,
+Bernardoni R, Della Valle G, Perini G.
+
+Author information: 
+(1)University of Bologna, Department of Biology, Bologna, Italy.
+
+Neuroblastoma is the most common extracranial solid tumor of childhood. One
+important factor that predicts a favorable prognosis is the robust expression of 
+the TRKA and p75NTR neurotrophin receptor genes. Interestingly, TRKA and p75NTR
+expression is often attenuated in aggressive MYCN-amplified tumors, suggesting a 
+causal link between elevated MYCN activity and the transcriptional repression of 
+TRKA and p75NTR, but the precise mechanisms involved are unclear. Here, we show
+that MYCN acts directly to repress TRKA and p75NTR gene transcription.
+Specifically, we found that MYCN levels were critical for repression and that
+MYCN targeted proximal/core promoter regions by forming a repression complex with
+transcription factors SP1 and MIZ1. When bound to the TRKA and p75NTR promoters, 
+MYCN recruited the histone deacetylase HDAC1 to induce a repressed chromatin
+state. Forced re-expression of endogenous TRKA and p75NTR with exposure to the
+HDAC inhibitor TSA sensitized neuroblastoma cells to NGF-mediated apoptosis. By
+directly connecting MYCN to the repression of TRKA and p75NTR, our findings
+establish a key pathway of clinical pathogenicity and aggressiveness in
+neuroblastoma.
+
+© 2010 AACR.
+
+PMID: 21123453  [PubMed - indexed for MEDLINE]
+
+
+24. BMC Med Genet. 2010 Nov 19;11:165. doi: 10.1186/1471-2350-11-165.
+
+A novel syndrome of paediatric cataract, dysmorphism, ectodermal features, and
+developmental delay in Australian Aboriginal family maps to 1p35.3-p36.32.
+
+Hattersley K(1), Laurie KJ, Liebelt JE, Gecz J, Durkin SR, Craig JE, Burdon KP.
+
+Author information: 
+(1)Department of Ophthalmology, Flinders University, Adelaide, SA, Australia.
+
+BACKGROUND: A novel phenotype consisting of cataract, mental retardation,
+erythematous skin rash and facial dysmorphism was recently described in an
+extended pedigree of Australian Aboriginal descent. Large scale chromosomal
+re-arrangements had previously been ruled out. We have conducted a genome-wide
+scan to map the linkage region in this family.
+METHODS: Genome-wide linkage analysis using Single Nucleotide Polymorphism (SNP) 
+markers on the Affymetrix 10K SNP array was conducted and analysed using MERLIN. 
+Three positional candidate genes (ZBTB17, EPHA2 and EPHB2) were sequenced to
+screen for segregating mutations.
+RESULTS: Under a fully penetrant, dominant model, the locus for this unique
+phenotype was mapped to chromosome 1p35.3-p36.32 with a maximum LOD score of
+2.41. The critical region spans 48.7 cM between markers rs966321 and rs1441834
+and encompasses 527 transcripts from 364 annotated genes. No coding mutations
+were identified in three positional candidate genes EPHA2, EPHB2 or ZBTB17. The
+region overlaps with a previously reported region for Volkmann cataract and the
+phenotype has similarity to that reported for 1p36 monosomy.
+CONCLUSIONS: The gene for this syndrome is located in a 25.6 Mb region on
+1p35.3-p36.32. The known cataract gene in this region (EPHA2) does not harbour
+mutations in this family, suggesting that at least one additional gene for
+cataract is present in this region.
+
+PMCID: PMC2995478
+PMID: 21092079  [PubMed - indexed for MEDLINE]
+
+
+25. Oncogene. 2010 Nov 4;29(44):5923-34. doi: 10.1038/onc.2010.322. Epub 2010 Aug 9.
+
+Transcriptional regulation of Wnt inhibitory factor-1 by Miz-1/c-Myc.
+
+Licchesi JD(1), Van Neste L, Tiwari VK, Cope L, Lin X, Baylin SB, Herman JG.
+
+Author information: 
+(1)Cancer Biology Program, The Sidney Kimmel Comprehensive Cancer Center at Johns
+Hopkins, Baltimore, MD 21231, USA. jlicchesi@yahoo.com
+
+The Wnt signaling pathway is capable of self-regulation through positive and
+negative feedback mechanisms. For example, the oncoprotein c-Myc, which is
+upregulated by Wnt signaling activity, participates in a positive feedback loop
+of canonical Wnt signaling through repression of Wnt antagonists DKK1 and SFRP1. 
+In this study, we investigated the mechanism of Wnt inhibitory factor-1 (WIF-1)
+silencing. Mapping of CpG island methylation of the WIF-1 promoter reveals
+regional methylation (-295 to -95 bp from the transcription start site) that
+correlates with transcriptional silencing. We identified Miz-1 as a direct
+activator of WIF-1 transcriptional activity, which is found at WIF-1 promoter. In
+addition, we show that c-Myc contributes to WIF-1 transcriptional repression in a
+Miz-1-dependent manner. Although the transient repression mediated by Miz-1/c-Myc
+is independent of de novo methylation, the stable repression by this complex is
+associated with CpG island methylation of the critical -295 to -95-bp region of
+the WIF-1 promoter. Importantly, Miz-1 and c-Myc are found at WIF-1 promoter in
+WIF-1 non-expressing cell lines DLD-1 and 209myc. Transient knockdown or somatic 
+knockout of c-Myc in DLD-1 failed to restore WIF-1 expression suggesting that
+c-Myc is involved in initiating rather than maintaining WIF-1 epigenetic
+silencing. In a genome-wide screen, DNAJA4, TGFß-induced and TRIM59 were
+repressed by c-Myc overexpression and DNA promoter hypermethylation. Our data
+reveal novel insights into c-Myc-mediated DNA methylation-dependent
+transcriptional silencing, a mechanism that might contribute to the dysregulation
+of Wnt signaling in cancer.
+
+PMCID: PMC3230129
+PMID: 20697356  [PubMed - indexed for MEDLINE]
+
+
+26. J Mol Biol. 2010 Jul 30;400(5):983-97. doi: 10.1016/j.jmb.2010.05.028. Epub 2010 
+May 21.
+
+Insights into strand exchange in BTB domain dimers from the crystal structures of
+FAZF and Miz1.
+
+Stogios PJ(1), Cuesta-Seijo JA, Chen L, Pomroy NC, Privé GG.
+
+Author information: 
+(1)Department of Medical Biophysics, University of Toronto, Toronto, Ontario,
+Canada.
+
+The BTB domain is a widely distributed protein-protein interaction motif that is 
+often found at the N-terminus of zinc finger transcription factors. Previous
+crystal structures of BTB domains have revealed tightly interwound homodimers,
+with the N-terminus from one chain forming a two-stranded anti-parallel
+beta-sheet with a strand from the other chain. We have solved the crystal
+structures of the BTB domains from Fanconi anemia zinc finger (FAZF) and Miz1
+(Myc-interacting zinc finger 1) to resolutions of 2.0 A and 2.6 A, respectively. 
+Unlike previous examples of BTB domain structures, the FAZF BTB domain is a
+nonswapped dimer, with each N-terminal beta-strand associated with its own chain.
+As a result, the dimerization interface in the FAZF BTB domain is about half as
+large as in the domain-swapped dimers. The Miz1 BTB domain resembles a typical
+swapped BTB dimer, although it has a shorter N-terminus that is not able to form 
+the interchain sheet. Using cysteine cross-linking, we confirmed that the
+promyelocytic leukemia zinc finger (PLZF) BTB dimer is strand exchanged in
+solution, while the FAZF BTB dimer is not. A phylogenic tree of the BTB fold
+based on both sequence and structural features shows that the common ancestor of 
+the BTB domain in BTB-ZF (bric à brac, tramtrack, broad-complex zinc finger)
+proteins was a domain-swapped dimer. The differences in the N-termini seen in the
+FAZF and Miz1 BTB domains appear to be more recent developments in the structural
+evolution of the domain.
+
+Copyright 2010 Elsevier Ltd. All rights reserved.
+
+PMID: 20493880  [PubMed - indexed for MEDLINE]
+
+
+27. Mol Cancer. 2010 Apr 28;9:92. doi: 10.1186/1476-4598-9-92.
+
+Myc interacts with Max and Miz1 to repress C/EBPdelta promoter activity and gene 
+expression.
+
+Si J(1), Yu X, Zhang Y, DeWille JW.
+
+Author information: 
+(1)Department of Veterinary Biosciences, Ohio State University College of
+Veterinary Medicine, Columbus, Ohio 43210, USA.
+
+BACKGROUND: "Loss of function" alterations in CCAAT/Enhancer Binding Proteindelta
+(C/EBPdelta) have been reported in a number of human cancers including breast,
+prostate and cervical cancer, hepatocellular carcinoma and acute myeloid
+leukemia. C/EBPdelta gene transcription is induced during cellular quiescence and
+repressed during active cell cycle progression. C/EBPdelta exhibits tumor
+suppressor gene properties including reduced expression in cancer cell lines and 
+tumors and promoter methylation silencing. We previously reported that C/EBPdelta
+expression is inversely correlated with c-Myc (Myc) expression. Aberrant Myc
+expression is common in cancer and transcriptional repression is a major
+mechanism of Myc oncogenesis. A number of tumor suppressor genes are targets of
+Myc transcriptional repression including C/EBPalpha, p15INK4, p21CIP1, p27KIP1
+and p57KIP2. This study investigated the mechanisms underlying Myc repression of 
+C/EBPdelta expression.
+RESULTS: Myc represses C/EBPdelta promoter activity in nontransformed mammary
+epithelial cells in a dose-dependent manner that requires Myc Box II, Basic
+Region and HLH/LZ domains. Chromatin Immunoprecipitation (ChIP) assays
+demonstrate that Myc, Miz1 and Max are associated with the C/EBPdelta promoter in
+proliferating cells, when C/EBPdelta expression is repressed. EMSAs demonstrate
+that Miz1 binds to a 30 bp region (-100 to -70) of the C/EBPdelta promoter which 
+contains a putative transcription initiator (Inr) element. Miz1 functions
+exclusively as a repressor of C/EBPdelta promoter activity. Miz1 siRNA expression
+or expression of a Miz1 binding deficient Myc (MycV394D) construct reduces Myc
+repression of C/EBPdelta promoter activity. Max siRNA expression, or expression
+of a Myc construct lacking the HLH/LZ (Max interacting) region, also reduces Myc 
+repression of C/EBPdelta promoter activity. Miz1 and Max siRNA treatments
+attenuate Myc repression of endogenous C/EBPdelta expression. Myc Box II
+interacting proteins RuvBl1 (Pontin, TIP49) and RuvBl2 (Reptin, TIP48) enhances
+Myc repression of C/EBPdelta promoter activity.
+CONCLUSION: Myc represses C/EBPdelta expression by associating with the
+C/EBPdelta proximal promoter as a transient component of a repressive complex
+that includes Max and Miz1. RuvBl1 and RuvBl2 enhance Myc repression of
+C/EBPdelta promoter activity. These results identify protein interactions that
+mediate Myc repression of C/EBPdelta, and possibly other tumor suppressor genes, 
+and suggest new therapeutic targets to block Myc transcriptional repression and
+oncogenic function.
+
+PMCID: PMC2879254
+PMID: 20426839  [PubMed - indexed for MEDLINE]
+
+
+28. J Cell Biol. 2010 Mar 22;188(6):905-18. doi: 10.1083/jcb.200908103.
+
+The Arf tumor suppressor protein inhibits Miz1 to suppress cell adhesion and
+induce apoptosis.
+
+Herkert B(1), Dwertmann A, Herold S, Abed M, Naud JF, Finkernagel F, Harms GS,
+Orian A, Wanzel M, Eilers M.
+
+Author information: 
+(1)Theodor-Boveri-Institute and 2 Rudolf-Virchow-Center, University of Würzburg, 
+D-97070 Würzburg, Germany.
+
+Oncogenic stress induces expression of the alternate reading frame (Arf) tumor
+suppressor protein. Arf then stabilizes p53, which leads to cell cycle arrest or 
+apoptosis. The mechanisms that distinguish both outcomes are incompletely
+understood. In this study, we show that Arf interacts with the Myc-associated
+zinc finger protein Miz1. Binding of Arf disrupts the interaction of Miz1 with
+its coactivator, nucleophosmin, induces the sumoylation of Miz1, and facilitates 
+the assembly of a heterochromatic complex that contains Myc and trimethylated
+H3K9 in addition to Miz1. Arf-dependent assembly of this complex leads to the
+repression of multiple genes involved in cell adhesion and signal transduction
+and induces apoptosis. Our data point to a tumor-suppressive pathway that weakens
+cell-cell and cell-matrix interactions in response to expression of Arf and that 
+may thereby facilitate the elimination of cells harboring an oncogenic mutation.
+
+PMCID: PMC2845071
+PMID: 20308430  [PubMed - indexed for MEDLINE]
+
+
+29. Mol Cell Biol. 2010 Apr;30(7):1838-51. doi: 10.1128/MCB.01442-09. Epub 2010 Feb
+1.
+
+Modulation of cellular migration and survival by c-Myc through the downregulation
+of urokinase (uPA) and uPA receptor.
+
+Alfano D(1), Votta G, Schulze A, Downward J, Caputi M, Stoppelli MP, Iaccarino I.
+
+Author information: 
+(1)Institute of Genetics and Biophysics Adriano Buzzati-Traverso, Consiglio
+Nazionale delle Ricerche (CNR), Via P. Castellino 111, 80131 Naples, Italy.
+
+It has been proposed that c-Myc proapoptotic activity accounts for most of its
+restraint of tumor formation. We established a telomerase-immortalized human
+epithelial cell line expressing an activatable c-Myc protein. We found that c-Myc
+activation induces, in addition to increased sensitivity to apoptosis, reductions
+in cell motility and invasiveness. Transcriptome analysis revealed that urokinase
+(uPA) and uPA receptor (uPAR) were strongly downregulated by c-Myc. Evidence is
+provided that the repression of uPA and uPAR may account for most of the
+antimigratory and proapoptotic activities of c-Myc. c-Myc is known to cooperate
+with Ras in cellular transformation. We therefore investigated if this
+cooperation could converge in the control of uPA/uPAR expression. We found that
+Ras is able to block the effects of c-Myc activation on apoptosis and cellular
+motility but not on cell invasiveness. Accordingly, the activation of c-Myc in
+the context of Ras expression had only minor influence on uPAR expression but
+still had a profound repressive effect on uPA expression. Thus, the differential 
+regulation of uPA and uPAR by c-Myc and Ras correlates with the effects of these 
+two oncoproteins on cell motility, invasiveness, and survival. In conclusion, we 
+have discovered a novel link between c-Myc and uPA/uPAR. We propose that
+reductions of cell motility and invasiveness could contribute to the inhibition
+of tumorigenesis by c-Myc and that the regulation of uPA and uPAR expression may 
+be a component of the ability of c-Myc to reduce motility and invasiveness.
+
+PMCID: PMC2838082
+PMID: 20123981  [PubMed - indexed for MEDLINE]
+
+
+30. Oncogene. 2010 Feb 4;29(5):711-22. doi: 10.1038/onc.2009.372. Epub 2009 Nov 9.
+
+ARF antagonizes the ability of Miz-1 to inhibit p53-mediated transactivation.
+
+Miao L(1), Song Z, Jin L, Zhu YM, Wen LP, Wu M.
+
+Author information: 
+(1)Hefei National Laboratory for Physical Sciences at Microscale and School of
+Life Sciences, University of Science and Technology of China, Hefei, Anhui,
+People's Republic of China.
+
+Although Myc-interacting zinc-finger protein-1 (Miz-1) is known to be a poxvirus 
+and zinc-finger (POZ) transcription factor required for Myc transcriptional
+repression, additional regulatory function of Miz-1 is less well understood.
+Using a yeast two-hybrid screen, we identified human alternate reading frame
+(ARF) protein as a novel interaction partner of Miz-1. The zinc-finger domain of 
+Miz-1 is involved in its binding to ARF. In addition, we found that Miz-1 was
+able to interact with p53 through its DNA-binding domain, thus to diminish the
+binding of p53 to its target promoter and inhibit p53-mediated gene
+transcription. Interestingly, the Miz-1-regulated p53 transcriptional suppression
+does not require the presence of ARF or Mdm2. Importantly, ARF and p53 were found
+to competitively bind to Miz-1 in regulating p53-mediated transcription, and this
+conclusion was verified by both in vitro binding assay and competitive chromatin 
+immunoprecipitation assay using a bona fide p53 endogenous Bax and Puma
+promoters. Thus, our study reveals that Miz-1 acts as a p53 suppressor by
+interfering with p53 DNA-binding ability, and ARF is able to counteract the
+suppression of Miz-1 on p53 by direct binding to Miz-1, suggesting that Miz-1 is 
+a novel mediator in the ARF-p53 pathway.
+
+PMID: 19901969  [PubMed - indexed for MEDLINE]
+
+
+31. Proc Natl Acad Sci U S A. 2009 Oct 27;106(43):18279-84. doi:
+10.1073/pnas.0906328106. Epub 2009 Oct 7.
+
+Miz1 is a signal- and pathway-specific modulator or regulator (SMOR) that
+suppresses TNF-alpha-induced JNK1 activation.
+
+Liu J(1), Zhao Y, Eilers M, Lin A.
+
+Author information: 
+(1)Ben May Department for Cancer Research, University of Chicago, Chicago, IL
+60637, USA. jing@northwestern.edu
+
+The proinflammatory cytokine TNF-alpha exerts its pleiotropic functions through
+activation of multiple downstream effectors, including JNK1. Yet, the underlying 
+regulatory mechanism is incompletely understood. Here, we report that the
+transcription factor Myc-interacting zinc-finger protein 1 (Miz1) selectively
+suppresses TNF-alpha-induced JNK1 activation and cell death independently of its 
+transcription activity. Proteomics analysis and yeast two-hybrid screening reveal
+that Miz1 is a JNK-associated protein. The TNF-alpha-induced activation of JNK1
+is augmented in Miz1-deficient mouse embryonic fibroblasts (Miz1(-/-) MEFs), but 
+the augmentation is abrogated by reintroduction of Miz1 or its
+transcription-deficient mutant. The regulation by Miz1 is highly specific,
+because it regulates TNF-alpha-induced TRAF2 K63-linked polyubiquitination.
+Neither JNK1 activation by IL-1beta or UV nor TNF-alpha-induced activation of
+p38, ERK, or IkappaB kinase complex is affected by the loss of Miz1. The
+TNF-alpha-induced cell death also is accelerated in Miz1(-/-) MEFs. Upon
+TNF-alpha stimulation, Miz1 is degraded rapidly by the proteasome, relieving its 
+suppression on JNK1 activation. Thus, our results show that in addition to being 
+a transcription factor Miz1 acts as a signal- and pathway-specific modulator or
+regulator that specifically regulates TNF-alpha-induced JNK1 activation and cell 
+death.
+
+PMCID: PMC2775337
+PMID: 19815509  [PubMed - indexed for MEDLINE]
+
+
+32. Proc Natl Acad Sci U S A. 2009 Feb 3;106(5):1433-8. doi: 10.1073/pnas.0804863106.
+Epub 2009 Jan 22.
+
+Gfi-1 represses CDKN2B encoding p15INK4B through interaction with Miz-1.
+
+Basu S(1), Liu Q, Qiu Y, Dong F.
+
+Author information: 
+(1)Department of Biological Sciences, University of Toledo, Toledo, OH 43606,
+USA.
+
+Gfi-1 is a nuclear zinc finger (ZF) transcriptional repressor that plays an
+important role in hematopoiesis and inner ear development, and has been
+implicated in lymphomagenesis. Gfi-1 represses transcription by directly binding 
+to the consensus DNA sequence in the promoters of its target genes. We report
+here an alternative mechanism by which Gfi-1 represses CDKN2B encoding
+p15(INK4B). Gfi-1 does not directly bind to CDKN2B, but interacts with Miz-1 and,
+via Miz-1, is recruited to the core promoter of CDKN2B. Miz-1 is a POZ-ZF
+transcription factor that has been shown to mediate transcriptional repression by
+c-Myc. Like c-Myc, upon recruitment to the CDKN2B promoter, Gfi-1 represses
+transcriptional activation of CDKN2B by Miz-1 and in response to TGFbeta.
+Consistent with its role in repressing CDKN2B transcription, knockdown of Gfi-1
+in human leukemic cells or deficiency of Gfi-1 in mouse bone marrow cells results
+in augmented expression of p15(INK4B). Notably, Gfi-1 and c-Myc are both
+recruited to the CDKN2B core promoter and act in collaboration to repress CDKN2B.
+Our data reveal a mechanism of transcriptional repression by Gfi-1 and may have
+important implications for understanding the roles of Gfi-1 in normal development
+and tumorigenesis.
+
+PMCID: PMC2635772
+PMID: 19164764  [PubMed - indexed for MEDLINE]
+
+
+33. Mol Vis. 2008;14:1799-804. Epub 2008 Sep 30.
+
+Investigation of eight candidate genes on chromosome 1p36 for autosomal dominant 
+total congenital cataract.
+
+Burdon KP(1), Hattersley K, Lachke SA, Laurie KJ, Maas RL, Mackey DA, Craig JE.
+
+Author information: 
+(1)Department of Ophthalmology, Flinders University, Adelaide, Australia.
+kathryn.burdon@flinders.edu.au
+
+PURPOSE: To identify the causative gene for autosomal dominant total congenital
+cataract in a six-generation Australian family displaying linkage to chromosome
+1p36.
+METHODS: Eight candidate genes (HSPB7, FBXO42, EFHD2, ZBTB17, CAPZB, FBLIM1,
+ALDH4A1, and MFAP2) from within the previously defined linkage interval were
+selected based on expression in lens and their known or putative function. The
+coding exons were sequenced in multiple affected family members and compared to
+the reference sequence.
+RESULTS: No segregating mutations were identified in any of the eight genes.
+Thirty-one polymorphisms were detected, 20 of which were in the exons and 11 in
+the flanking introns.
+CONCLUSIONS: Coding mutations in HSPB7, FBXO42, EFHD2, ZBTB17, CAPZB, FBLIM1,
+ALDH4A1, and MFAP2 do not account for congenital cataract in this family.
+
+PMCID: PMC2563027
+PMID: 18843385  [PubMed - indexed for MEDLINE]
+
+
+34. EMBO J. 2008 Jun 4;27(11):1563-74. doi: 10.1038/emboj.2008.85. Epub 2008 May 1.
+
+Zbtb4 represses transcription of P21CIP1 and controls the cellular response to
+p53 activation.
+
+Weber A(1), Marquardt J, Elzi D, Forster N, Starke S, Glaum A, Yamada D, Defossez
+PA, Delrow J, Eisenman RN, Christiansen H, Eilers M.
+
+Author information: 
+(1)Institute of Molecular Biology and Tumour Research (IMT), Marburg, Germany.
+
+In response to stimuli that activate p53, cells can undergo either apoptosis or
+cell cycle arrest, depending on the precise pattern of p53 target genes that is
+activated. We show here that Zbtb4, a transcriptional repressor protein,
+associates with the Sin3/histone deacetylase co-repressor and represses
+expression of P21CIP1 as part of a heterodimeric complex with Miz1. In vivo,
+expression of ZBTB4 is downregulated in advanced stages of multiple human
+tumours. In cell culture, depletion of ZBTB4 promotes cell cycle arrest in
+response to activation of p53 and suppresses apoptosis through regulation of
+P21CIP1, thereby promoting long-term cell survival. Our data suggest that Zbtb4
+is a critical determinant of the cellular response to p53 activation and
+reinforce the notion that p21Cip1 can provide an essential survival signal in
+cells with activated p53.
+
+PMCID: PMC2426723
+PMID: 18451802  [PubMed - indexed for MEDLINE]
+
+
+35. Clin Cancer Res. 2007 Oct 15;13(20):6001-9.
+
+De novo identification of MIZ-1 (ZBTB17) encoding a MYC-interacting zinc-finger
+protein as a new favorable neuroblastoma gene.
+
+Ikegaki N(1), Gotoh T, Kung B, Riceberg JS, Kim DY, Zhao H, Rappaport EF, Hicks
+SL, Seeger RC, Tang XX.
+
+Author information: 
+(1)Department of Anatomy and Cell Biology, College of Medicine, The University of
+Illinois at Chicago, Chicago, Illinois, USA.
+
+PURPOSE: Neuroblastoma is a childhood cancer that exhibits either a favorable or 
+an unfavorable phenotype. Favorable neuroblastoma genes (EPHB6, EFNB2, EFNB3,
+NTRK1, and CD44) are genes whose high-level expression predicts favorable
+neuroblastoma disease outcome. Accordingly, the forced expression of these genes 
+or their reactivation by gene silencing inhibitors in unfavorable neuroblastoma
+cells results in suppression of tumor growth and metastases. This study was
+undertaken to design an experimental strategy to identify additional favorable
+neuroblastoma genes.
+EXPERIMENTAL DESIGN: Favorable neuroblastoma gene candidates were first
+identified by gene expression profiling analysis on IMR5 neuroblastoma cells
+treated with inhibitors of DNA methylation and histone deacetylase against the
+untreated control cells. Among the candidates, we focused on MIZ-1, which encodes
+a MYC-interacting zinc-finger protein, because it is known to enhance the
+expression of growth suppressive genes, such as CDKN1A.
+RESULTS: High-level MIZ-1 expression was associated with favorable disease
+outcome of neuroblastoma (P = 0.0048). Forced MIZ-1 expression suppressed in
+vitro growth of neuroblastoma cell lines. High MIZ-1 expression was correlated
+with the small-size neuroblastoma xenografts treated with gene silencing
+inhibitors or a glucocorticoid. In addition, forced MIZ-1 expression enhanced the
+expression of CD44 and EFNB2 in neuroblastoma cell lines in vitro. Furthermore,
+MIZ-1 expression was positively correlated with the expression of favorable
+neuroblastoma genes (EFNB2, EFNB3, EPHB6, and NTRK1) in the human neuroblastoma
+xenograft therapeutic models.
+CONCLUSION: MIZ-1 is a new favorable neuroblastoma gene, which may directly or
+indirectly regulate the expression of other favorable neuroblastoma genes.
+
+PMID: 17947461  [PubMed - indexed for MEDLINE]
+
+
+36. J Mol Biol. 2007 Nov 2;373(4):820-6. Epub 2007 Aug 21.
+
+A beta-sheet interaction interface directs the tetramerisation of the Miz-1 POZ
+domain.
+
+Stead MA(1), Trinh CH, Garnett JA, Carr SB, Baron AJ, Edwards TA, Wright SC.
+
+Author information: 
+(1)Molecular Cell Biology Research Group, Institute of Molecular and Cellular
+Biology, Faculty of Biological Sciences, University of Leeds, Garstang/Astbury
+Buildings, Leeds LS2 9JT, UK.
+
+The POZ/BTB domain is an evolutionarily conserved motif found in approximately 40
+zinc-finger transcription factors (POZ-ZF factors). Several POZ-ZF factors are
+implicated in human cancer, and POZ domain interaction interfaces represent an
+attractive target for therapeutic intervention. Miz-1 (Myc-interacting
+zinc-finger protein) is a POZ-ZF factor that regulates DNA-damage-induced cell
+cycle arrest and plays an important role in human cancer by virtue of its
+interaction with the c-Myc and BCL6 oncogene products. The Miz-1 POZ domain
+mediates both self-association and the recruitment of non-POZ partners. POZ-ZF
+factors generally function as homodimers, although higher-order associations and 
+heteromeric interactions are known to be physiologically important; crucially,
+the interaction interfaces in such large complexes have not been characterised.
+We report here the crystal structure of the Miz-1 POZ domain up to 2.1 A
+resolution. The tetrameric organisation of Miz-1 POZ reveals two types of
+interaction interface between subunits; an interface of alpha-helices resembles
+the dimerisation interface of reported POZ domain structures, whereas a novel
+beta-sheet interface directs the association of two POZ domain dimers. We show
+that the beta-sheet interface directs the tetramerisation of the Miz-1 POZ domain
+in solution and therefore represents a newly described candidate interface for
+the higher-order homo- and hetero-oligomerisation of POZ-ZF proteins in vivo.
+
+PMID: 17880999  [PubMed - indexed for MEDLINE]
+
+
+37. J Cell Biochem. 2007 Sep 1;102(1):171-82.
+
+The DNA topoisomerase IIbeta binding protein 1 (TopBP1) interacts with poly
+(ADP-ribose) polymerase (PARP-1).
+
+Wollmann Y(1), Schmidt U, Wieland GD, Zipfel PF, Saluz HP, Hänel F.
+
+Author information: 
+(1)Department of Cell and Molecular Biology, Leibniz Institute for Natural
+Product Research and Infection Biology (Hans Knoell Institute), Beutenbergstrasse
+11a, D-07745 Jena, Germany.
+
+We investigated the physical association of the DNA topoisomerase IIbeta binding 
+protein 1 (TopBP1), involved in DNA replication and repair but also in regulation
+of apoptosis, with poly(ADP-ribose) polymerase-1 (PARP-1). This enzyme plays a
+crucial role in DNA repair and interacts with many DNA replication/repair
+factors. It was shown that the sixth BRCA1 C-terminal (BRCT) domain of TopBP1
+interacts with a protein fragment of PARP-1 in vitro containing the DNA-binding
+and the automodification domains. More significantly, the in vivo interaction of 
+endogenous TopBP1 and PARP-1 proteins could be shown in HeLa-S3 cells by
+co-immunoprecipitation. TopBP1 and PARP-1 are localized within overlapping
+regions in the nucleus of HeLa-S3 cells as shown by immunofluorescence. Exposure 
+to UVB light slightly enhanced the interaction between both proteins.
+Furthermore, TopBP1 was detected in nuclear regions where poly(ADP-ribose) (PAR) 
+synthesis takes place and is ADP-ribosylated by PARP-1. Finally, cellular
+(ADP-ribosyl)ating activity impairs binding of TopBP1 to Myc-interacting zinc
+finger protein-1 (Miz-1). The results indicate an influence of post-translational
+modifications of TopBP1 on its function during DNA repair.
+
+PMID: 17340632  [PubMed - indexed for MEDLINE]
+
+
+38. J Biol Chem. 2007 Jan 5;282(1):5-13. Epub 2006 Nov 1.
+
+BCL2 is a downstream effector of MIZ-1 essential for blocking c-MYC-induced
+apoptosis.
+
+Patel JH(1), McMahon SB.
+
+Author information: 
+(1)Biomedical Graduate Studies, University of Pennsylvania, Philadelphia,
+Pennsylvania 19104, USA.
+
+The c-MYC oncoprotein is among the most potent transforming agents in human
+cells. Ironically, c-MYC is also capable of inducing massive apoptosis under
+certain conditions. A clear understanding of the distinct pathways activated by
+c-MYC during apoptosis induction and transformation is crucial to the design of
+therapeutic strategies aimed at selectively reactivating the apoptotic potential 
+of c-MYC in cancer cells. We recently demonstrated that apoptosis induction in
+primary human cells strictly requires that c-MYC bind and inactivate the
+transcription factor MIZ-1. This presumably blocked the ability of MIZ-1 to
+activate the transcription of an unidentified pro-survival gene. Here we report
+that MIZ-1 activates the transcription of BCL2. More importantly, inhibition of
+the MIZ-1/BCL2 signal is an essential event during the apoptotic response.
+Furthermore, targeting BCL2 with short hairpin RNA or small molecule inhibitors
+restores the apoptotic potential of a c-MYC mutant that is defective for MIZ-1
+inhibition. These observations suggest that repression of BCL2 transcription is
+the single essential consequence of targeting the MIZ-1 pathway during apoptosis 
+induction. These data define a genetic pathway that helps to explain historical
+observations documenting cooperation between c-MYC and BCL2 overexpression in
+human cancer.
+
+PMID: 17082179  [PubMed - indexed for MEDLINE]
+
+
+39. J Biol Chem. 2006 Dec 22;281(51):39159-68. Epub 2006 Oct 18.
+
+The repression of human differentiation-related gene NDRG2 expression by Myc via 
+Miz-1-dependent interaction with the NDRG2 core promoter.
+
+Zhang J(1), Li F, Liu X, Shen L, Liu J, Su J, Zhang W, Deng Y, Wang L, Liu N, Han
+W, Zhang J, Ji S, Yang A, Han H, Yao L.
+
+Author information: 
+(1)Institute of Molecular Biology and the State Key Laboratory of Cancer Biology,
+Fourth Military Medical University, 710032 Xi'an, China.
+
+The N-myc downstream-regulated gene 1 (ndrg1) is highly expressed in N-myc
+knock-out mice through an unknown regulatory mechanism. As one member of the
+human NDRG gene family, NDRG2 encodes a protein highly homologous to Ndrg1.
+However, it is uncertain whether the expression of human NDRG2 is regulated by
+Myc because mouse ndrg2 and -3 are not affected by Myc. In this study, we provide
+the novel evidence that the expression of human NDRG2 is down-regulated by Myc
+via transcriptional repression. A high level of NDRG2 was observed as Myc
+expression was reduced in differentiated cells, whereas a low level of NDRG2 was 
+shown following increased Myc expression upon serum stimulation. The ectopic
+expression of c-Myc dramatically reduces the cellular Ndrg2 protein and mRNA
+level. We further identified the core promoter region of NDRG2 that is required
+for Myc repression on NDRG2 transcription, and we verified the interaction of Myc
+with the core promoter region both in vitro and in vivo. Moreover, the
+c-Myc-mediated repression of NDRG2 requires association with Miz-1, and possibly 
+the recruitment of other epigenetic factors, such as histone deacetylases, to the
+promoter. The regulatory function of Myc on NDRG2 gene expression implicated the 
+role of the Ndrg2 in regulating cell differentiation.
+
+PMID: 17050536  [PubMed - indexed for MEDLINE]
+
+
+40. EMBO J. 2006 Oct 18;25(20):4795-807. Epub 2006 Sep 28.
+
+Regulation of TopBP1 oligomerization by Akt/PKB for cell survival.
+
+Liu K(1), Paik JC, Wang B, Lin FT, Lin WC.
+
+Author information: 
+(1)Division of Hematology and Oncology, Department of Medicine, University of
+Alabama at Birmingham, Birmingham, AL 35294, USA.
+
+Regulation of E2F1-mediated apoptosis is essential for proper cellular growth.
+This control requires TopBP1, a BRCT (BRCA1 carboxyl-terminal) domain-containing 
+protein, which interacts with E2F1 but not other E2Fs and represses its
+proapoptotic activity. We now show that the regulation of E2F1 by TopBP1 involves
+the phosphoinositide 3-kinase (PI3K)-Akt signaling pathway, and is independent of
+pocket proteins. Akt phosphorylates TopBP1 in vitro and in vivo. Phosphorylation 
+by Akt induces oligomerization of TopBP1 through its seventh and eighth BRCT
+domains. The Akt-dependent oligomerization is crucial for TopBP1 to interact with
+and repress E2F1. Akt phosphorylation is also required for interaction between
+TopBP1 and Miz1 or HPV16 E2, and repression of Miz1 transcriptional activity,
+suggesting a general role for TopBP1 oligomerization in the control of
+transcription factors. Together, this study defines a novel pathway involving
+PI3K-Akt-TopBP1 for specific control of E2F1 apoptosis, in parallel with
+cyclin-Cdk-Rb for general control of E2F activities.
+
+PMCID: PMC1618094
+PMID: 17006541  [PubMed - indexed for MEDLINE]
+
+
+41. Mol Cancer Res. 2006 Sep;4(9):645-53. Epub 2006 Aug 28.
+
+Ketogenic HMGCS2 Is a c-Myc target gene expressed in differentiated cells of
+human colonic epithelium and down-regulated in colon cancer.
+
+Camarero N(1), Mascaró C, Mayordomo C, Vilardell F, Haro D, Marrero PF.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, School of Pharmacy,
+University of Barcelona, E-08028 Barcelona, Spain.
+
+HMGCS2, the gene that regulates ketone body production, is expressed in liver and
+several extrahepatic tissues, such as the colon. In CaCo-2 colonic epithelial
+cells, the expression of this gene increases with cell differentiation.
+Accordingly, immunohistochemistry with specific antibodies shows that HMGCS2 is
+expressed mainly in differentiated cells of human colonic epithelium. Here, we
+used a chromatin immunoprecipitation assay to study the molecular mechanism
+responsible for this expression pattern. The assay revealed that HMGCS2 is a
+direct target of c-Myc, which represses HMGCS2 transcriptional activity. c-Myc
+transrepression is mediated by blockade of the transactivating activity of Miz-1,
+which occurs mainly through a Sp1-binding site in the proximal promoter of the
+gene. Accordingly, the expression of human HMGCS2 is down-regulated in 90% of
+Myc-dependent colon and rectum tumors. HMGCS2 protein expression is
+down-regulated preferentially in moderately and poorly differentiated carcinomas.
+In addition, it is also down-regulated in 80% of small intestine Myc-independent 
+tumors. Based on these findings, we propose that ketogenesis is an undesirable
+metabolic characteristic of the proliferating cell, which is down-regulated
+through c-Myc-mediated repression of the key metabolic gene HMGCS2.
+
+PMID: 16940161  [PubMed - indexed for MEDLINE]
+
+
+42. Proc Natl Acad Sci U S A. 2006 Mar 14;103(11):4062-7. Epub 2006 Mar 7.
+
+Sleeping Beauty transposase modulates cell-cycle progression through interaction 
+with Miz-1.
+
+Walisko O(1), Izsvák Z, Szabó K, Kaufman CD, Herold S, Ivics Z.
+
+Author information: 
+(1)Max Delbrück Center for Molecular Medicine, D-13092 Berlin, Germany.
+
+We used the Sleeping Beauty (SB) transposable element as a tool to probe
+transposon-host cell interactions in vertebrates. The Miz-1 transcription factor 
+was identified as an interactor of the SB transposase in a yeast two-hybrid
+screen. Through its association with Miz-1, the SB transposase down-regulates
+cyclin D1 expression in human cells, as evidenced by differential gene expression
+analysis using microarray hybridization. Down-regulation of cyclin D1 results in 
+a prolonged G(1) phase of the cell cycle and retarded growth of
+transposase-expressing cells. G(1) slowdown is associated with a decrease of
+cyclin D1/cdk4-specific phosphorylation of the retinoblastoma protein. Both
+cyclin D1 down-regulation and the G(1) slowdown induced by the transposase
+require Miz-1. A temporary G(1) arrest enhances transposition, suggesting that SB
+transposition is favored in the G(1) phase of the cell cycle, where the
+nonhomologous end-joining pathway of DNA repair is preferentially active. Because
+nonhomologous end-joining is required for efficient SB transposition, the
+transposase-induced G(1) slowdown is probably a selfish act on the transposon's
+part to maximize the chance for a successful transposition event.
+
+PMCID: PMC1449646
+PMID: 16537485  [PubMed - indexed for MEDLINE]
+
+
+43. J Biol Chem. 2006 Feb 10;281(6):3283-9. Epub 2005 Dec 13.
+
+Targeting of Miz-1 is essential for Myc-mediated apoptosis.
+
+Patel JH(1), McMahon SB.
+
+Author information: 
+(1)The Wistar Institute, Philadelphia, Pennsylvania 19104, USA.
+
+The c-Myc oncoprotein plays a central role in human cancer via its ability to
+either activate or repress the transcription of essential downstream targets. For
+many of the repressed target genes, down-regulation by c-Myc relies on its
+ability to bind and inactivate the transcription factor Miz-1. Although Miz-1
+inactivation is suspected to be essential for at least some of the biological
+activities of c-Myc, it has been difficult to demonstrate this requirement
+experimentally. Using a combination of short hairpin RNA-mediated knockdown and a
+previously characterized mutant of c-Myc that is defective for Miz-1
+inactivation, we examined whether this inactivation is critical for three of the 
+most central biological functions of c-Myc, cell cycle progression,
+transformation, and apoptosis. The results of this analysis demonstrated that in 
+the in vitro assays utilized here, Miz-1 inactivation is dispensable for
+c-Myc-induced cell cycle progression and transformation. In marked contrast, the 
+ability of c-Myc to induce apoptosis in primary diploid human fibroblasts in
+response to growth factor withdrawal is entirely dependent on its ability to
+inactivate Miz-1. These data have a significant impact on our understanding of
+the biochemical mechanisms dictating how c-Myc mediates opposing biological
+functions, such as transformation and apoptosis, and demonstrate the first
+requirement for Miz-1 inactivation in any of the biological functions of c-Myc.
+
+PMID: 16352593  [PubMed - indexed for MEDLINE]
+
+
+44. Cell. 2005 Nov 4;123(3):409-21.
+
+The ubiquitin ligase HectH9 regulates transcriptional activation by Myc and is
+essential for tumor cell proliferation.
+
+Adhikary S(1), Marinoni F, Hock A, Hulleman E, Popov N, Beier R, Bernard S,
+Quarto M, Capra M, Goettig S, Kogel U, Scheffner M, Helin K, Eilers M.
+
+Author information: 
+(1)Institute for Molecular Biology and Tumor Research, University of Marburg,
+Emil-Mannkopff-Str.2, 35033 Marburg, Germany.
+
+The Myc oncoprotein forms a binary activating complex with its partner protein,
+Max, and a ternary repressive complex that, in addition to Max, contains the zinc
+finger protein Miz1. Here we show that the E3 ubiquitin ligase HectH9
+ubiquitinates Myc in vivo and in vitro, forming a lysine 63-linked polyubiquitin 
+chain. Miz1 inhibits this ubiquitination. HectH9-mediated ubiquitination of Myc
+is required for transactivation of multiple target genes, recruitment of the
+coactivator p300, and induction of cell proliferation by Myc. HectH9 is
+overexpressed in multiple human tumors and is essential for proliferation of a
+subset of tumor cells. Our results suggest that site-specific ubiquitination
+regulates the switch between an activating and a repressive state of the Myc
+protein, and they suggest a strategy to interfere with Myc function in vivo.
+
+PMID: 16269333  [PubMed - indexed for MEDLINE]
+
+
+45. Cancer Res. 2005 Oct 1;65(19):8927-35.
+
+Src inhibits adriamycin-induced senescence and G2 checkpoint arrest by blocking
+the induction of p21waf1.
+
+Vigneron A(1), Roninson IB, Gamelin E, Coqueret O.
+
+Author information: 
+(1)Institut National de la Sante et de la Recherche Medicale U564, Cancer Center 
+Paul Papin, Angers, France.
+
+DNA-damaging drugs stop tumor cell proliferation by inducing apoptosis, necrosis,
+or senescence. Cyclin-dependent kinase inhibitor p21waf1 is an important
+regulator of these responses, promoting senescence and preventing aberrant
+mitosis that leads to cell death. Because tumors expressing oncogenic tyrosine
+kinases are relatively resistant to DNA-damaging agents, the effects of Src on
+cellular responses to anticancer drug Adriamycin were investigated. Src
+expression increased drug survival in HT1080 fibrosarcoma cells, as measured by
+the colony formation assay, and strongly inhibited Adriamycin-induced senescence.
+Src also decreased the number of apoptotic cells while increasing the fraction of
+cells dying through necrosis. In addition, Src inhibited the G2 and G1
+tetraploidy checkpoints of Adriamycin-treated cells, permitting these cells to
+proceed into mitosis and subsequently double their DNA content. Inhibition of
+senescence and G2-G1 checkpoints in Src-expressing cells was associated with the 
+failure of these cells to up-regulate p21waf1 in response to Adriamycin. The
+failure of p21waf1 induction, despite increased expression of p53 and its binding
+to p21waf1 promoter, was mediated by the up-regulation of c-Myc, a negative
+regulator of p21waf1 transcription. Conversely, ectopic expression of p21waf1
+inhibited Myc transcription in Src-expressing cells, an effect that was
+associated with the interaction of p21waf1 with the STAT3 transcription factor at
+the Myc promoter. These results reveal a complex effect of Src on cellular drug
+responses and provide an explanation for the effect of this oncogene on cellular 
+drug resistance.
+
+PMID: 16204065  [PubMed - indexed for MEDLINE]
+
+
+46. Nat Immunol. 2005 Oct;6(10):964-6.
+
+A-Miz-ing BCL6.
+
+Wu X, Jelinek DF.
+
+Comment on
+    Nat Immunol. 2005 Oct;6(10):1054-60.
+
+PMID: 16177801  [PubMed - indexed for MEDLINE]
+
+
+47. J Cell Biochem. 2005 Dec 1;96(5):1071-85.
+
+c-Myc creates an activation loop by transcriptionally repressing its own
+functional inhibitor, hMad4, in young fibroblasts, a loop lost in replicatively
+senescent fibroblasts.
+
+Marcotte R(1), Chen JM, Huard S, Wang E.
+
+Author information: 
+(1)The Bloomfield Center for Research in Aging, Lady Davis Institute for Medical 
+Research, The Sir Mortimer B. Davis-Jewish General Hospital, and Department of
+Medicine, McGill University, Montréal, Québec, Canada.
+
+c-Myc transcriptional activity in cells is dampened by the Mad family of
+transcriptional repressors. The expression of one member, hMad4, is increased in 
+growth-arrested states such as quiescence or replicative senescence; hMad4 mRNA
+levels in replicatively senescent fibroblasts are about twice those seen in their
+young contact-inhibited quiescent counterparts. Moreover, the repression of hMad4
+transcription following serum stimulation observed in quiescent young fibroblasts
+is lost in senescent cells. This loss results in persistent expression of hMad4, 
+which leads to an inability to switch from an hMad4/Max complex to a c-Myc/Max
+complex on selected c-Myc target genes following serum stimulation. We have
+located an initiator element (Inr), a candidate for Miz-1 binding, in the hMad4
+promoter. In reporter assays, Miz-1 enhances reporter GFP expression; this
+enhancement is inhibited by co-expressing c-Myc. Thus hMad4, as does its murine
+counterpart, contains the Inr element through which Miz-1 activates its
+expression; but this action is inhibited in the presence of c-Myc. This
+inhibition may explain the down-regulation of hMad4, corresponding to the
+up-regulation of c-Myc, in young serum-starved quiescent fibroblasts upon serum
+stimulation. However, this reciprocal change does not occur in replicatively
+senescent fibroblasts upon serum stimulation; instead, hMad4 persists in the
+presence of high levels of c-Myc activation. Our results suggest that: (1)
+replicative senescence-specific factors may block c-Myc inhibition of Miz-1
+activation of hMad4 expression; and (2) the continual presence of hMad4 protein
+may transcriptionally repress selected c-Myc target genes, whose functions are
+key to the signaling pathways leading to apoptosis inhibition and permanent exit 
+of cell cycle traverse in normal human fibroblasts.
+
+2005 Wiley-Liss, Inc.
+
+PMID: 16167342  [PubMed - indexed for MEDLINE]
+
+
+48. Nat Immunol. 2005 Oct;6(10):1054-60. Epub 2005 Sep 4.
+
+BCL6 interacts with the transcription factor Miz-1 to suppress the
+cyclin-dependent kinase inhibitor p21 and cell cycle arrest in germinal center B 
+cells.
+
+Phan RT(1), Saito M, Basso K, Niu H, Dalla-Favera R.
+
+Author information: 
+(1)Institute for Cancer Genetics, Department of Pathology, Herbert Irving
+Comprehensive Cancer Center, Columbia University, New York, New York 10032, USA.
+
+Comment in
+    Nat Immunol. 2005 Oct;6(10):964-6.
+
+The BCL6 proto-oncogene encodes a transcriptional repressor that is required for 
+germinal center formation and has been linked to lymphomagenesis. BCL6 functions 
+by directly binding to specific DNA sequences and suppressing the transcription
+of target genes. Here we report an alternative mechanism by which BCL6 controls
+the transcription of genes lacking a BCL6 binding site and show that this
+mechanism was required for the prevention of tumor suppressor p53-independent
+cell cycle arrest in germinal center B cells. BCL6 interacted with the
+transcriptional activator Miz-1 and, via Miz-1, bound to the promoter and
+suppressed transcription of the cell cycle arrest gene CDKN1A. Through this
+mechanism, BCL6 may facilitate the proliferative expansion of germinal centers
+during the normal immune response and, when deregulated, the pathological
+expansion of B cell lymphomas.
+
+PMID: 16142238  [PubMed - indexed for MEDLINE]
+
+
+49. Biochem Biophys Res Commun. 2005 Oct 14;336(1):274-80.
+
+Six lysine residues on c-Myc are direct substrates for acetylation by p300.
+
+Zhang K(1), Faiola F, Martinez E.
+
+Author information: 
+(1)Department of Chemistry, University of California at Riverside, Riverside, CA 
+92521, USA.
+
+The c-Myc oncoprotein (Myc) functions as a transcription regulator in association
+with an obligatory partner, Max, to control cell growth and differentiation. The 
+Myc:Max complex regulates specific genes by recognizing "E-box" DNA sequences and
+promoter-bound factors such as Miz-1. Myc recruits histone acetyltransferases
+(HATs) to modify chromatin and is, itself, acetylated in mammalian cells by
+several of these HATs including p300/CBP, GCN5, and Tip60. The Myc residues that 
+are directly modified by these different HATs remain unknown. Here, we have
+analyzed the acetylation of recombinant Myc:Max complexes by purified p300 HAT in
+vitro by using MALDI-TOF and LC-ESI-MS/MS mass spectrometry. These analyses
+identify six lysine residues in human Myc (K143, K157, K275, K317, K323, and
+K371) as direct substrates for p300. Our results further indicate that p300 can
+acetylate DNA-bound Myc:Max complexes and that acetylated Myc:Max heterodimers
+efficiently interact with Miz-1.
+
+PMID: 16126174  [PubMed - indexed for MEDLINE]
+
+
+50. Nat Cell Biol. 2005 Jan;7(1):30-41. Epub 2004 Dec 5.
+
+Akt and 14-3-3eta regulate Miz1 to control cell-cycle arrest after DNA damage.
+
+Wanzel M(1), Kleine-Kohlbrecher D, Herold S, Hock A, Berns K, Park J, Hemmings B,
+Eilers M.
+
+Author information: 
+(1)Institute for Molecular Biology and Tumor Research, University of Marburg,
+Emil-Mannkopff-Strasse 2, 35033 Marburg, Germany.
+
+The transcription factor Miz1 is required for DNA-damage-induced cell-cycle
+arrest. We have now identified 14-3-3eta as a gene that inhibits Miz1 function
+through interaction with its DNA binding domain. Binding of 14-3-3eta to Miz1
+depends on phosphorylation by Akt and regulates the recovery of cells from arrest
+after DNA damage. Miz1 has two functions in response to DNA damage: first, it is 
+required for upregulation of a large group of genes, a function that is regulated
+by c-Myc, but not by 14-3-3eta; second, Miz1 represses the expression of many
+genes in response to DNA damage in an Akt- and 14-3-3eta-regulated manner.
+
+PMID: 15580267  [PubMed - indexed for MEDLINE]
+
+
+51. J Biol Chem. 2005 Feb 11;280(6):5004-12. Epub 2004 Nov 23.
+
+Systematic identification and analysis of mammalian small ubiquitin-like modifier
+substrates.
+
+Gocke CB(1), Yu H, Kang J.
+
+Author information: 
+(1)Department of Pharmacology, the University of Texas Southwestern Medical
+Center, Dallas, Texas 75390, USA.
+
+Small ubiquitin-like modifier (SUMO) regulates diverse cellular processes through
+its reversible, covalent attachment to target proteins. Many SUMO substrates are 
+involved in transcription and chromatin structure. Sumoylation appears to
+regulate the functions of target proteins by changing their subcellular
+localization, increasing their stability, and/or mediating their binding to other
+proteins. Using an in vitro expression cloning approach, we have identified 40
+human SUMO1 substrates. The spectrum of human SUMO1 substrates identified in our 
+screen suggests general roles of sumoylation in transcription, chromosome
+structure, and RNA processing. We have validated the sumoylation of 24 substrates
+in living cells. Analysis of this panel of SUMO substrates leads to the following
+observations. 1) Sumoylation is more efficient in vitro than in living cells.
+Polysumoylation occurs on several substrates in vitro. 2) SUMO isopeptidases have
+little substrate specificity. 3) The SUMO ligases, PIAS1 and PIASxbeta, have
+broader substrate specificities than does PIASy. 4) Although SUMO1 and SUMO2 are 
+equally efficiently conjugated to a given substrate in vitro, SUMO1 conjugation
+is more efficient in vivo. 5) Most SUMO substrates localize to the nucleus, and
+sumoylation does not generally affect their subcellular localization. Therefore, 
+sumoylation appears to regulate the functions of its substrates through multiple,
+context-dependent mechanisms.
+
+PMID: 15561718  [PubMed - indexed for MEDLINE]
+
+
+52. J Biol Chem. 2005 Jan 14;280(2):1112-22. Epub 2004 Nov 4.
+
+Myc antagonizes Ras-mediated growth arrest in leukemia cells through the
+inhibition of the Ras-ERK-p21Cip1 pathway.
+
+Vaqué JP(1), Navascues J, Shiio Y, Laiho M, Ajenjo N, Mauleon I, Matallanas D,
+Crespo P, León J.
+
+Author information: 
+(1)Grupo de Biología Molecular del Cáncer, Departamento de Biología Molecular,
+Unidad de Biomedicina del Consejo Superior de Investigaciones Cientiíficas,
+Facultad de Medicina, Universidad de Cantabria, 39011 Santander, Spain.
+
+Even though RAS usually acts as a dominant transforming oncogene, in primary
+fibroblasts and some established cell lines Ras inhibits proliferation. This can 
+explain the virtual absence of RAS mutations in some types of tumors, such as
+chronic myeloid leukemia (CML). We report that in the CML cell line K562 Ras
+induces p21Cip1 expression through the Raf-MEK-ERK pathway. Because K562 cells
+are deficient for p15INK4b, p16INK4a, p14ARF, and p53, this would be the main
+mechanism whereby Ras up-regulates p21 expression in these cells. Accordingly, we
+also found that Ras suppresses K562 growth by signaling through the Raf-ERK
+pathway. Because c-Myc and Ras cooperate in cell transformation and c-Myc is
+up-regulated in CML, we investigated the effect of c-Myc on Ras activity in K562 
+cells. c-Myc antagonized the induction of p21Cip1 mediated by oncogenic H-, K-,
+and N-Ras and by constitutively activated Raf and ERK2. Activation of the p21Cip1
+promoter by Ras was dependent on Sp1/3 binding sites in K562. However, mutational
+analysis of the p21 promoter and the use of a Gal4-Sp1 chimeric protein strongly 
+suggest that c-Myc affects Sp1 transcriptional activity but not the binding of
+Sp1 to the p21 promoter. c-Myc-mediated impairment of Ras activity on p21
+expression required a transactivation domain, a DNA binding region, and a Max
+binding region. Moreover, the effect was independent of Miz1 binding to c-Myc.
+Consistent with its effect on p21Cip1 expression, c-Myc rescued cell growth
+inhibition induced by Ras. The data suggest that in particular tumor types, such 
+as those associated with CML, c-Myc contributes to tumorigenesis by inhibiting
+Ras antiproliferative activity.
+
+PMID: 15528212  [PubMed - indexed for MEDLINE]
+
+
+53. J Cell Biochem. 2004 May 1;92(1):65-76.
+
+Induction of G1 cell cycle arrest and P15INK4b expression by ECRG1 through
+interaction with Miz-1.
+
+Zhao N(1), Wang J, Cui Y, Guo L, Lu SH.
+
+Author information: 
+(1)Department of Etiology and Carcinogenesis, Cancer Institute, Peking Union
+Medical College & Chinese Academy of Medical Sciences, Beijing 100021, P.R.
+China.
+
+ECRG1 is a novel candidate of tumor suppressor gene identified from human
+esophagus. To study the biological role of ECRG1 gene, we performed a GAL4-based 
+yeast two-hybrid screen of a human fetal liver cDNA library. Using the ECRG1 cDNA
+as bait, we identified two putative clones as associated proteins, Miz-1 and FLNA
+(Filamin A). The interaction of ECRG1 and Miz-1 was confirmed by
+glutathione-S-transferase (GST)-pull-down assays in vitro and
+co-immunoprecipitation experiments in vivo. ECRG1 was co-localized with Miz-1 in 
+nucleus, as shown by confocal microscopy. Transfection of ECRG1 gene into the
+esophageal cancer (EC) cells inhibited cell proliferation and induced G1 phase
+arrest of cell cycle. In the co-transfection of ECRG1 and Miz-1 assays, we found 
+inhibition of cell proliferation and G1/S phase in EC cells, but the levels of
+cell proliferation inhibition and G1/S phase arrest were more strongly compared
+with the transfection of ECRG1 or Miz-1 alone. In addition, the interaction of
+ECRG1 and Miz-1 could induce expression of P15(INK4b) gene in esophageal cancer
+9706 (EC9706) cells. However, the transfection of ECRG1 or Miz-1 alone was not
+revealed the expressions of P15(INK4b) gene. When antisense ECRG1 interdicted
+expression of endogenous ECRG1 in Balb/c-3T3 cells, Transfection of Miz-1
+couldn't induce P15(INK4b) expression. The results provide evidences that ECRG1
+and Miz-1 in EC cells may be acting as a co-functional protein associated with
+regulation of cell cycle and induction of P15(INK4b) expression. It suggests that
+ECRG1 may inhibit tumor cell growth by affecting cell cycle, and that expression 
+of P15(INK4b) may be likely to enhance G1 cell cycle arrest during the
+interaction of ECRG1 and Miz-1. The physical interaction of ECRG1 and Miz-1 may
+play an important role in carcinogenesis of EC.
+
+Copyright 2004 Wiley-Liss, Inc.
+
+PMID: 15095404  [PubMed - indexed for MEDLINE]
+
+
+54. Nucleic Acids Res. 2004 Jan 29;32(2):598-610. Print 2004.
+
+Modification of de novo DNA methyltransferase 3a (Dnmt3a) by SUMO-1 modulates its
+interaction with histone deacetylases (HDACs) and its capacity to repress
+transcription.
+
+Ling Y(1), Sankpal UT, Robertson AK, McNally JG, Karpova T, Robertson KD.
+
+Author information: 
+(1)Epigenetic Gene Regulation and Cancer Section, LRBGE/NCI/NIH, Building 41, 41 
+Library Dr., Bethesda, MD 20892, USA.
+
+The de novo DNA methyltransferase Dnmt3a is one of three mammalian DNA
+methyltransferases that has been shown to play crucial roles in embryonic
+development, genomic imprinting and transcriptional silencing. Despite its
+importance, very little is known about how the enzymatic activity and
+transcriptional repression functions of Dnmt3a are regulated. Here we show that
+Dnmt3a interacts with multiple components of the sumoylation machinery, namely
+the E2 sumo conjugating enzyme Ubc9 and the E3 sumo ligases PIAS1 and PIASxalpha,
+all of which are involved in conjugating the small ubiquitin-like modifier
+polypeptide, SUMO-1, to its target proteins. Dnmt3a is modified by SUMO-1 in vivo
+and in vitro and the region of Dnmt3a responsible for interaction maps to the
+N-terminal regulatory domain. Functionally, sumoylation of Dnmt3a disrupts its
+ability to interact with histone deacetylases (HDAC1/2), but not with another
+interaction partner, Dnmt3b. Conditions that enhance the sumoylation of Dnmt3a in
+vivo abolish its capacity to repress transcription. These studies reveal a new
+level of regulation governing Dnmt3a whereby a post-translational modification
+can dramatically regulate its interaction with specific protein partners and
+alter its ability to repress transcription.
+
+PMCID: PMC373322
+PMID: 14752048  [PubMed - indexed for MEDLINE]
+
+
+55. J Biol Chem. 2004 Apr 9;279(15):15505-14. Epub 2004 Jan 22.
+
+A cleaved form of MAGE-A4 binds to Miz-1 and induces apoptosis in human cells.
+
+Sakurai T(1), Itoh K, Higashitsuji H, Nagao T, Nonoguchi K, Chiba T, Fujita J.
+
+Author information: 
+(1)Department of Clinical Molecular Biology, Faculty of Medicine, Kyoto
+University, 54 Shogoin Kawaharacho, Sakyo-ku, Kyoto 606-8507, Japan.
+
+Gankyrin, a recently discovered oncoprotein, is a promising target for drug
+therapy because it is overexpressed in most hepatocellular carcinomas. Since
+gankyrin interacts with MAGE-A4, we made several MAGE-A4 mutants and assessed
+their effects on cell growth. We found that the C-terminal 107 amino acids of
+MAGE-A4 (MAGE-A4DeltaN1) induced p53-dependent and p53-independent apoptosis.
+MAGE-A4DeltaN1 increased the p53 protein level, but decreased the p21(Cip1)
+transcript and protein levels. During apoptosis Bcl-xL was down-regulated and
+mitochondrial integrity was disrupted. A yeast two-hybrid screen identified Miz-1
+as a MAGE-A4DeltaN1-binding protein. MAGE-A4DeltaN1 was recruited through
+association with Miz-1 to the p21(Cip1) promoter and down-regulated transcription
+of p21(Cip1). In 293T cells and U-2 OS cells, full-length MAGE-A4 was processed
+to generate a C-terminal fragment of 104 amino acids with activities similar to
+MAGE-A4DeltaN1. Processing was inhibited with a broad range caspase inhibitor
+Z-VAD-FMK, but not by site-directed mutagenesis of aspartic acids in MAGE-A4,
+suggesting an indirect involvement of caspase(s) in the processing. The amount of
+the processed form was increased by exposure of cells to adriamycin. Transduction
+with a HIV Tat-MAGE-A4DeltaN1 fusion protein suppressed anchorage-independent
+growth of gankyrin-overexpressing cells in vitro and in vivo. These results
+demonstrate that the C-terminal fragment of MAGE-A4 induces apoptosis at least
+partly by binding to Miz-1, and that the fragment may be exploited as an
+anticancer agent. Furthermore, the finding that a C-terminal fragment with
+pro-apoptotic activity is generated from full-length MAGE-A4 after genotoxic
+stress in human cells suggests a novel function for MAGE-A4.
+
+PMID: 14739298  [PubMed - indexed for MEDLINE]
+
+
+56. Proc Natl Acad Sci U S A. 2004 Jan 13;101(2):458-63. Epub 2004 Jan 2.
+
+Myc-interacting protein 1 target gene profile: a link to microtubules,
+extracellular signal-regulated kinase, and cell growth.
+
+Ziegelbauer J(1), Wei J, Tjian R.
+
+Author information: 
+(1)Department of Molecular and Cell Biology, Howard Hughes Medical Institute,
+University of California, Berkeley, CA 94720, USA.
+
+Erratum in
+    Proc Natl Acad Sci U S A. 2004 Mar 30;101(13):4718.
+
+To study the role of the transcription factor Myc-interacting protein 1 (MIZ-1)
+in activating various target genes after induction with the microtubule
+disrupting agent T113242, we have used small interfering RNA duplexes (siRNAs) to
+knockdown the expression of MIZ-1. As expected, depletion of MIZ-1 resulted in
+the inhibition of T113242-dependent activation of the low-density lipoprotein
+receptor (LDLR) gene in hepatocytes. Cells transfected with MIZ-1 siRNAs also
+exhibited growth arrest. In addition, inhibition of the extracellular
+signal-regulated kinase (ERK) pathway inhibited T113242-induced nuclear
+accumulation of MIZ-1 and activation of LDLR. Gene expression microarray analysis
+under various induction conditions identified other T113242-activated genes
+affected by a decrease in MIZ-1 and inhibition of the ERK pathway. We also found 
+that the accumulation of MIZ-1 in the nucleus is influenced by cell-cell contact 
+and/or growth. Taken together, our studies suggest that MIZ-1 regulates a
+specific set of genes that includes LDLR and that the ERK pathway plays a role in
+the activation of target promoters by MIZ-1.
+
+PMCID: PMC327169
+PMID: 14704274  [PubMed - indexed for MEDLINE]
+
+
+57. Mol Cell Biol. 2003 Nov;23(21):7648-57.
+
+Miz1 is required for early embryonic development during gastrulation.
+
+Adhikary S(1), Peukert K, Karsunky H, Beuger V, Lutz W, Elsässer HP, Möröy T,
+Eilers M.
+
+Author information: 
+(1)Institute for Molecular Biology and Tumor Research. Institute for Cytobiology 
+and Cytopathology, University of Marburg, 35033 Marburg, Germany.
+
+Miz1 is a member of the POZ domain/zinc finger transcription factor family. In
+vivo, Miz1 forms a complex with the Myc oncoprotein and recruits Myc to core
+promoter elements. Myc represses transcription through Miz1 binding sites. We now
+show that the Miz1 gene is ubiquitously expressed during mouse embryogenesis. In 
+order to elucidate the physiological function of Miz1, we have deleted the mouse 
+Miz1 gene by homologous recombination. Miz1(+/-) mice are indistinguishable from 
+wild-type animals; in contrast, Miz1(-/-) embryos are not viable. They are
+severely retarded in early embryonic development and do not undergo normal
+gastrulation. Expression of Goosecoid and Brachyury is detectable in Miz1(-/-)
+embryos, suggesting that Miz1 is not required for signal transduction by Nodal.
+Expression of p21Cip1, a target gene of Miz1 is unaltered; in contrast,
+expression of p57Kip2, another target gene of Miz1 is absent in Miz1(-/-)
+embryos. Miz1(-/-) embryos succumb to massive apoptosis of ectodermal cells
+around day 7.5 of embryonic development. Our results show that Miz1 is required
+for early embryonic development during gastrulation.
+
+PMCID: PMC207589
+PMID: 14560010  [PubMed - indexed for MEDLINE]
+
+
+58. J Biol Chem. 2003 Nov 7;278(45):44025-32. Epub 2003 Aug 6.
+
+Nramp1-mediated innate resistance to intraphagosomal pathogens is regulated by
+IRF-8, PU.1, and Miz-1.
+
+Alter-Koltunoff M(1), Ehrlich S, Dror N, Azriel A, Eilers M, Hauser H, Bowen H,
+Barton CH, Tamura T, Ozato K, Levi BZ.
+
+Author information: 
+(1)Department of Food Engineering and Biotechnology, Technion, Haifa 32000,
+Israel.
+
+Natural resistance-associated macrophage protein 1 (Nramp1) is a proton/divalent 
+cation antiporter exclusively expressed in monocyte/macrophage cells with a
+unique role in innate resistance to intraphagosomal pathogens. In humans, it is
+linked to several infectious diseases, including leprosy, pulmonary tuberculosis,
+visceral leishmaniasis, meningococcal meningitis, and human immunodeficiency
+virus as well as to autoimmune diseases such as rheumatoid arthritis and Crohn's 
+disease. Here we demonstrate that the restricted expression of Nramp1 is mediated
+by the macrophage-specific transcription factor IRF-8. This factor exerts its
+activity via protein-protein interaction, which facilitates its binding to target
+DNA. Using yeast two-hybrid screen we identified Myc Interacting Zinc finger
+protein 1 (Miz-1) as new interacting partner. This interaction is restricted to
+immune cells and takes place on the promoter Nramp1 in association with PU.1, a
+transcription factor essential for myelopoiesis. Consistent with these data,
+IRF-8 knockout mice are sensitive to a repertoire of intracellular pathogens.
+Accordingly, IRF-8-/- mice express low levels of Nramp1 that can not be induced
+any further. Thus, our results explain in molecular terms the role of IRF-8 in
+conferring innate resistance to intracellular pathogens and point to its possible
+involvement in autoimmune diseases.
+
+PMID: 12904288  [PubMed - indexed for MEDLINE]
+
+
+59. Trends Cell Biol. 2003 Mar;13(3):146-50.
+
+Transcriptional repression by Myc.
+
+Wanzel M(1), Herold S, Eilers M.
+
+Author information: 
+(1)Institute for Molecular Biology and Tumour Research (IMT), University of
+Marburg, Marburg 35033, Germany.
+
+The Myc oncoprotein is a transcription factor that can both activate and repress 
+genes. Transcriptional activation by Myc is well understood, but, by contrast,
+the mechanisms through which Myc represses transcription have remained elusive.
+Recent evidence suggests that complex formation by Myc with a zinc-finger
+transcription factor, Miz-1, plays an important role in mediating repression by
+Myc. The findings might explain how Myc interferes with cell-cycle arrest in
+response to TGF-beta, APC and DNA damage.
+
+PMID: 12628347  [PubMed - indexed for MEDLINE]
+
+
+60. Oncogene. 2003 Jan 23;22(3):351-60.
+
+Myc represses differentiation-induced p21CIP1 expression via Miz-1-dependent
+interaction with the p21 core promoter.
+
+Wu S(1), Cetinkaya C, Munoz-Alonso MJ, von der Lehr N, Bahram F, Beuger V, Eilers
+M, Leon J, Larsson LG.
+
+Author information: 
+(1)Upsala Genetic Center, Department of Plant Biology, Swedish University of
+Agricultural Sciences.
+
+Inhibition of cellular differentiation is one of the well-known biological
+activities of c-Myc-family proteins. We show here that Myc represses
+differentiation-induced expression of the cyclin-dependent kinase (CDK) inhibitor
+p21CIP1 (CDKN1A, p21), known to play an important role in cell fate decisions
+during growth and differentiation, in hematopoietic cells. Our results
+demonstrate that the c-Myc-responsive region is situated in the p21 core
+promoter. c-Myc binds to this region in vitro and in vivo through interaction
+with the initiator-binding Zn-finger transcription factor Miz-1, which associates
+directly with the promoter. Association of Myc with the promoter in vivo
+correlates inversely with p21 expression. Using mutants of c-Myc with impaired
+binding to Miz-1, our results further show that repression of p21
+promoter/reporters as well as the endogenous p21 gene by Myc depends on
+interaction with Miz-1. Expression of Miz-1 increases during hematopoietic
+differentiation and Miz-1 activates the p21 promoter under conditions of low Myc 
+levels, indicating a positive role for free Miz-1 in this process. In conclusion,
+repression of differentiation-induced p21 expression through Miz-1 may be an
+important mechanism by which Myc blocks differentiation.
+
+PMID: 12545156  [PubMed - indexed for MEDLINE]
+
+
+61. Zhonghua Zhong Liu Za Zhi. 2002 May;24(3):219-21.
+
+[Search for interacting proteins of esophageal cancer related gene-1 encoded
+protein through the yeast two-hybrid system].
+
+[Article in Chinese]
+
+Wang J(1), Fan Y, Guo L, Lu S.
+
+Author information: 
+(1)Department of Chemical Etiology and Carcinogenesis, Cancer Institute
+(Hospital), Chinese Academy of Medical Sciences, Peking Union Medical College,
+Beijing 100021, China.
+
+OBJECTIVE: To understand the role that esophageal cancer related gene-1 (ECRG-1) 
+plays and to search for ECRG-1-interacting proteins.
+METHODS: A DNA fragment encoding the carboxy-terminus of ECRG-1 (amino acids 40 -
+418) was inserted into pGBKT7-DNA-BD vector and fused in-frame to the DNA-binding
+domain of GAL4. Then, it was used as a bait to screen the human fetal liver cDNA 
+library by yeast two-hybrid, with the cDNA fragment inserted into pACT2 vector
+and fused in-frame to the Gal4 activation domain. If ECRG-1 interacted with a
+protein encoded by a cDNA fragmant in the yeast, the transcription of reporter
+Gene could be activated. With the false positive clonies eliminated, the inserts 
+in the positive plasmids were sequenced and compared to those in the GenBank.
+RESULTS: In approximately 3 x 10(6) independent tansformants screened, 23 clonies
+exhibited the expression of reporter gene. After eliminating the false positive
+clonies, two cDNA fragments were obtained. DNA sequencing revealed that one
+encoded Miz-1 (Myc-interacting Zn finger protein-1), and another encoded FLNA
+(actin-binding protein-280), Miz-1, being a Zn finger protein, could be bound to 
+p15 promotor and activated the transcription. FLNA, being an actin-binding
+protein took part in the TGF-beta pathway via interaction with Smad.
+CONCLUSION: ECRG-1 is able to be specifically bound to Miz-1 and FLNA in the
+yeast. It may play a role in the regulation of cell cycle via interaction with
+Miz-1 and FLNA.
+
+PMID: 12515610  [PubMed - indexed for MEDLINE]
+
+
+62. Cancer Cell. 2002 Nov;2(5):351-2.
+
+Switching from life to death: the Miz-ing link between Myc and p53.
+
+Vousden KH(1).
+
+Author information: 
+(1)Beatson Institute for Cancer Research, Garscube Estate, Switchback Road,
+Bearsden, Galsgow G61 1BD, UK. k.vousden@beatson.gla.ac.uk
+
+Cells can respond to the activation of the tumor suppressor protein p53 by
+undergoing cell cycle arrest or apoptosis, and Myc has now been shown to help
+switch the response to apoptosis by repressing the expression of p21(CIP1), a
+cyclin-dependent kinase inhibitor with antiapoptotic activity.
+
+PMID: 12450789  [PubMed - indexed for MEDLINE]
+
+
+63. Biochem J. 2003 Feb 15;370(Pt 1):291-8.
+
+Mad4 is regulated by a transcriptional repressor complex that contains Miz-1 and 
+c-Myc.
+
+Kime L(1), Wright SC.
+
+Author information: 
+(1)School of Biochemistry and Molecular Biology, University of Leeds, Leeds LS2
+9JT, U.K.
+
+Myc and Mad family proteins are central regulators of cellular proliferation and 
+differentiation. We show that various Mad family genes have distinct patterns of 
+expression during the chemically induced differentiation of mouse
+erythroleukaemia (MEL) cells, suggesting that they each serve a different
+function. Mad4 RNA is highly induced and persists in terminally differentiated
+cells, in agreement with observations in other systems. Using reporter gene
+assays in stably transfected MEL cells, we show that induction of Mad4 is
+mediated by a 49 nt core promoter region. We demonstrate that the initiator
+element is required for Mad4 activation, and show that induction is associated
+with the loss from the initiator of a complex that contains Miz-1 and c-Myc.
+Miz-1 activates the Mad4 promoter in transient transfection assays, and this
+effect is antagonized by c-Myc. We therefore identify Mad4 as a novel target of
+transcriptional repression by c-Myc. These data suggest that the expression of
+Mad4 in proliferating undifferentiated cells is suppressed by the binding of a
+c-Myc-Miz-1 repressor complex at the initiator, and that the activation of Mad4
+during differentiation results, at least in part, from a decrease in
+c-Myc-mediated repression.
+
+PMCID: PMC1223147
+PMID: 12418961  [PubMed - indexed for MEDLINE]
+
+
+64. Mol Cell. 2002 Sep;10(3):509-21.
+
+Negative regulation of the mammalian UV response by Myc through association with 
+Miz-1.
+
+Herold S(1), Wanzel M, Beuger V, Frohme C, Beul D, Hillukkala T, Syvaoja J, Saluz
+HP, Haenel F, Eilers M.
+
+Author information: 
+(1)Institute for Molecular Biology and Tumor Research, 35033 Marburg, Germany.
+
+The Myc oncoprotein represses initiator-dependent transcription through the POZ
+domain transcription factor Miz-1. We now show that transactivation by Miz-1 is
+negatively regulated by association with topoisomerase II binding protein
+(TopBP1); UV irradiation downregulates expression of TopBP1 and releases Miz-1.
+Miz-1 binds to the p21Cip1 core promoter in vivo and is required for upregulation
+of p21Cip1 upon UV irradiation. Using both c-myc(-/-) cells and a point mutant of
+Myc that is deficient in Miz-1 dependent repression, we show that Myc negatively 
+regulates transcription of p21Cip1 upon UV irradiation and facilitates recovery
+from UV-induced cell cycle arrest through binding to Miz-1. Our data implicate
+Miz-1 in a pathway that regulates cell proliferation in response to UV
+irradiation.
+
+PMID: 12408820  [PubMed - indexed for MEDLINE]
+
+
+65. Nature. 2002 Oct 17;419(6908):729-34. Epub 2002 Oct 2.
+
+Myc suppression of the p21(Cip1) Cdk inhibitor influences the outcome of the p53 
+response to DNA damage.
+
+Seoane J(1), Le HV, Massagué J.
+
+Author information: 
+(1)Cell Biology Program and Howard Hughes Medical Institute, Memorial
+Sloan-Kettering Cancer Center, New York, NY 10021, USA.
+
+Activation of the tumour suppressor p53 by DNA damage induces either cell cycle
+arrest or apoptotic cell death. The cytostatic effect of p53 is mediated by
+transcriptional activation of the cyclin-dependent kinase (CDK) inhibitor
+p21(Cip1), whereas the apoptotic effect is mediated by transcriptional activation
+of mediators including PUMA and PIG3 (ref. 2). What determines the choice between
+cytostasis and apoptosis is not clear. Here we show that the transcription factor
+Myc is a principal determinant of this choice. Myc is directly recruited to the
+p21(Cip1) promoter by the DNA-binding protein Miz-1. This interaction blocks
+p21(Cip1) induction by p53 and other activators. As a result Myc switches, from
+cytostatic to apoptotic, the p53-dependent response of colon cancer cells to DNA 
+damage. Myc does not modify the ability of p53 to bind to the p21(Cip1) or PUMA
+promoters, but selectively inhibits bound p53 from activating p21(Cip1)
+transcription. By inhibiting p21(Cip1) expression Myc favours the initiation of
+apoptosis, thereby influencing the outcome of a p53 response in favour of cell
+death.
+
+PMID: 12384701  [PubMed - indexed for MEDLINE]
+
+
+66. J Biol Chem. 2002 Nov 8;277(45):43185-93. Epub 2002 Aug 21.
+
+The SUMO ubiquitin-protein isopeptide ligase family member Miz1/PIASxbeta /Siz2
+is a transcriptional cofactor for TFII-I.
+
+Tussie-Luna MI(1), Michel B, Hakre S, Roy AL.
+
+Author information: 
+(1)Department of Pathology, Programs in Immunology and Genetics, Tufts University
+School of Medicine, Boston, Massachusetts 02111, USA.
+
+We have shown previously that a TFII-I-related protein, hMusTRD1/BEN, represses
+transcriptional activity of TFII-I. The repression by hMusTRD1/BEN was
+hypothesized to occur via a two-step competition mechanism involving a
+cytoplasmic shuttling factor and a nuclear cofactor required for transcriptional 
+activation of TFII-I. Employing a two-hybrid approach with both yeast genomic and
+mouse cDNA libraries in parallel, we have identified the RING-like zinc finger
+containing Miz1/PIASxbeta/Siz2, which is a ubiquitin-protein isopeptide ligase in
+the SUMO pathway, as the potential nuclear cofactor that interacts with both
+TFII-I and hMusTRD1/BEN. Our conclusion is based on the following observations.
+First, the interactions are biochemically confirmed in mammalian cells where
+Miz1/mPIASxbeta interacts with both TFII-I and hMusTRD1/BEN when these proteins
+are ectopically co-expressed. Second, co-expression of a nuclear localization
+signal-deficient mutant of Miz1/mPIASxbeta with wild type TFII-I fails to alter
+the subcellular localization of the former. Finally, ectopically expressed
+Miz1/mPIASxbeta augments the transcriptional activity of TFII-I and relieves the 
+repression exerted by a mutant hMusTRD1/BEN that co-localized with TFII-I in the 
+nucleus.
+
+PMID: 12193603  [PubMed - indexed for MEDLINE]
+
+
+67. Mol Cell. 2001 Aug;8(2):339-49.
+
+Transcription factor MIZ-1 is regulated via microtubule association.
+
+Ziegelbauer J(1), Shan B, Yager D, Larabell C, Hoffmann B, Tjian R.
+
+Author information: 
+(1)Department of Molecular and Cell Biology, Howard Hughes Medical Institute,
+University of California, Berkeley 94720, USA.
+
+A synthetic drug, T113242, activates low-density lipoprotein receptor (LDLR)
+transcription in the presence of sterols. T113242 also covalently binds to
+beta-tubulin and induces microtubule depolymerization. The myc-interacting zinc
+finger protein (MIZ-1) associates with microtubules, can bind directly to the
+LDLR promoter, and can activate LDLR transcription. MIZ-1 also binds to the
+promoter and activates transcription of other T113242-induced genes such as
+alpha(2) integrin. Soft X-ray, indirect immunofluorescence, and green fluorescent
+protein time-lapse microscopy reveal that MIZ-1 is largely cytoplasmic but
+accumulates in the nuclei of HepG2 cells upon treatment with T113242. Thus, MIZ-1
+appears to be regulated by association with microtubules and may activate gene
+transcription in response to changes in the cytoskeleton.
+
+PMID: 11545736  [PubMed - indexed for MEDLINE]
+
+
+68. Genes Dev. 2001 Jun 1;15(11):1334-48.
+
+The Drosophila Su(var)2-10 locus regulates chromosome structure and function and 
+encodes a member of the PIAS protein family.
+
+Hari KL(1), Cook KR, Karpen GH.
+
+Author information: 
+(1)Molecular and Cell Biology Laboratories, The Salk Institute for Biological
+Studies, La Jolla, California 92037, USA.
+
+The conserved heterochromatic location of centromeres in higher eukaryotes
+suggests that intrinsic properties of heterochromatin are important for
+chromosome inheritance. Based on this hypothesis, mutations in Drosophila
+melanogaster that alter heterochromatin-induced gene silencing were tested for
+effects on chromosome inheritance. Here we describe the characterization of the
+Su(var)2-10 locus, initially identified as a Suppressor of Position-Effect
+Variegation. Su(var)2-10 is required for viability, and mutations cause both
+minichromosome and endogenous chromosome inheritance defects. Mitotic chromosomes
+are improperly condensed in mutants, and polytene chromosomes are structurally
+abnormal and disorganized in the nucleus. Su(var)2-10 encodes a member of the
+PIAS protein family, a group of highly conserved proteins that control diverse
+functions. SU(VAR)2-10 proteins colocalize with nuclear lamin in interphase, and 
+little to no SU(VAR)2-10 is found on condensed mitotic chromosomes. SU(VAR)2-10
+is present at some polytene chromosome telomeres, and FISH analyses in mutant
+polytene nuclei revealed defects in telomere clustering and
+telomere-nuclear-lamina associations. We propose that Su(var2-10 controls
+multiple aspects of chromosome structure and function by establishing/maintaining
+chromosome organization in interphase nuclei.
+
+PMCID: PMC312712
+PMID: 11390354  [PubMed - indexed for MEDLINE]
+
+
+69. Nat Cell Biol. 2001 May;3(5):E112-3.
+
+Integrating Myc and TGF-beta signalling in cell-cycle control.
+
+Amati B.
+
+PMID: 11331894  [PubMed - indexed for MEDLINE]
+
+
+70. Nat Cell Biol. 2001 Apr;3(4):400-8.
+
+TGFbeta influences Myc, Miz-1 and Smad to control the CDK inhibitor p15INK4b.
+
+Seoane J(1), Pouponnot C, Staller P, Schader M, Eilers M, Massagué J.
+
+Author information: 
+(1)Cell Biology Program and Howard Hughes Medical Institute, Memorial
+Sloan-Kettering Cancer Center, 1275 York Avenue, New York, New York 10021, USA.
+
+Transforming growth factor-beta (TGFbeta) is a cytokine that arrests epithelial
+cell division by switching off the proto-oncogene c-myc and rapidly switching on 
+cyclin-dependent kinase (CDK) inhibitors such as p15INK4b. Gene responses to
+TGFbeta involve Smad transcription factors that are directly activated by the
+TGFbeta receptor. Why downregulation of c-myc expression by TGFbeta is required
+for rapid activation of p15INK4b has remained unknown. Here we provide evidence
+that TGFbeta signalling prevents recruitment of Myc to the p15INK4b
+transcriptional initiator by Myc-interacting zinc-finger protein 1 (Miz-1). This 
+relieves repression and enables transcriptional activation by a TGFbeta-induced
+Smad protein complex that recognizes an upstream p15INK4b promoter region and
+contacts Miz-1. Thus, two separate TGFbeta-dependent inputs - Smad-mediated
+transactivation and relief of repression by Myc - keep tight control over
+p15INK4b activation.
+
+PMID: 11283614  [PubMed - indexed for MEDLINE]
+
+
+71. Nat Cell Biol. 2001 Apr;3(4):392-9.
+
+Repression of p15INK4b expression by Myc through association with Miz-1.
+
+Staller P(1), Peukert K, Kiermaier A, Seoane J, Lukas J, Karsunky H, Möröy T,
+Bartek J, Massagué J, Hänel F, Eilers M.
+
+Author information: 
+(1)Institute of Molecular Biology and Tumour Research, Emil Mannkopff Strabetae
+2, 35033 Marburg, Germany.
+
+Deregulated expression of c-myc can induce cell proliferation in established cell
+lines and in primary mouse embryonic fibroblasts (MEFs), through a combination of
+both transcriptional activation and repression by Myc. Here we show that a
+Myc-associated transcription factor, Miz-1, arrests cells in G1 phase and
+inhibits cyclin D-associated kinase activity. Miz-1 upregulates expression of the
+cyclin-dependent kinases (CDK) inhibitor p15INK4b by binding to the initiator
+element of the p15INK4b promoter. Myc and Max form a complex with Miz-1 at the
+p15 initiator and inhibit transcriptional activation by Miz-1. Expression of Myc 
+in primary cells inhibits the accumulation of p15INK4b that is associated with
+cellular senescence; conversely, deletion of c-myc in an established cell line
+activates p15INK4b expression. Alleles of c-myc that are unable to bind to Miz-1 
+fail to inhibit accumulation of p15INK4b messenger RNA in primary cells and are, 
+as a consequence, deficient in immortalization.
+
+PMID: 11283613  [PubMed - indexed for MEDLINE]
+
+
+72. Gene. 1999 Mar 18;229(1-2):109-16.
+
+Zimp encodes a homologue of mouse Miz1 and PIAS3 and is an essential gene in
+Drosophila melanogaster.
+
+Mohr SE(1), Boswell RE.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Department of Molecular, Cellular and
+Developmental Biology, University of Colorado, Boulder, CO 80309-0347, USA.
+
+The related mouse proteins Miz1 and PIAS3, which have predicted zinc finger
+domains, interact with the transcription factors Msx2 and STAT3, modulating the
+ability of Msx2 and STAT3 to regulate transcription. Here, we describe a
+Drosophila gene, zimp, that encodes a protein with similarity to Miz1 and PIAS3. 
+The zimp gene appears to be post-transcriptionally regulated, as three
+alternatively spliced forms are detected in a cDNA library screen and on an RNA
+blot. In addition, all three zimp transcripts are detected in embryonic mRNA, but
+only two of the transcripts are detected in adult mRNA. The three transcripts
+have the ability to encode two proteins, of 554 and 522 amino acids. The two Zimp
+amino acid sequences share an amino-terminal 515-amino-acid region and differ in 
+their carboxy-termini. These proteins and related proteins in other organisms,
+including mammals, C. elegans, yeast, and plants, share a highly conserved region
+predicted to form a zinc finger. Deletion of the zimp gene or P-element insertion
+in zimp is lethal; thus, zimp is an essential gene in Drosophila. These data
+underscore the potential importance of Zimp-related proteins cross-species, and
+conservation of the putative zinc finger domain suggests that it is functionally 
+important.
+
+PMID: 10095110  [PubMed - indexed for MEDLINE]
+
+
+73. EMBO J. 1999 Feb 1;18(3):717-26.
+
+Destruction of Myc by ubiquitin-mediated proteolysis: cancer-associated and
+transforming mutations stabilize Myc.
+
+Salghetti SE(1), Kim SY, Tansey WP.
+
+Author information: 
+(1)Cold Spring Harbor Laboratory, 1 Bungtown Road, PO Box 100, Cold Spring
+Harbor, NY 11724, USA.
+
+The human proto-oncogene c-myc encodes a highly unstable transcription factor
+that promotes cell proliferation. Although the extreme instability of Myc plays
+an important role in preventing its accumulation in normal cells, little is known
+about how Myc is targeted for rapid destruction. Here, we have investigated
+mechanisms regulating the stability of Myc. We show that Myc is destroyed by
+ubiquitin-mediated proteolysis, and define two elements in Myc that oppositely
+regulate its stability: a transcriptional activation domain that promotes Myc
+destruction, and a region required for association with the POZ domain protein
+Miz-1 that stabilizes Myc. We also show that Myc is stabilized by
+cancer-associated and transforming mutations within its transcriptional
+activation domain. Our data reveal a complex network of interactions regulating
+Myc destruction, and imply that enhanced protein stability contributes to
+oncogenic transformation by mutant Myc proteins.
+
+PMCID: PMC1171164
+PMID: 9927431  [PubMed - indexed for MEDLINE]
+
+
+74. EMBO J. 1997 Sep 15;16(18):5672-86.
+
+An alternative pathway for gene regulation by Myc.
+
+Peukert K(1), Staller P, Schneider A, Carmichael G, Hänel F, Eilers M.
+
+Author information: 
+(1)Hans-Knöll-Institut für Naturstoff-Forschung, Department of Cell and Molecular
+Biology, Beutenbergstrasse 11, 07745 Jena, Germany.
+
+The c-Myc protein activates transcription as part of a heteromeric complex with
+Max. However, Myc-transformed cells are characterized by loss of expression of
+several genes, suggesting that Myc may also repress gene expression. Two-hybrid
+cloning identifies a novel POZ domain Zn finger protein (Miz-1; Myc-interacting
+Zn finger protein-1) that specifically interacts with Myc, but not with Max or
+USF. Miz-1 binds to start sites of the adenovirus major late and cyclin D1
+promoters and activates transcription from both promoters. Miz-1 has a potent
+growth arrest function. Binding of Myc to Miz-1 requires the helix-loop-helix
+domain of Myc and a short amphipathic helix located in the carboxy-terminus of
+Miz-1. Expression of Myc inhibits transactivation, overcomes Miz-1-induced growth
+arrest and renders Miz-1 insoluble in vivo. These processes depend on Myc and
+Miz-1 association and on the integrity of the POZ domain of Miz-1, suggesting
+that Myc binding activates a latent inhibitory function of this domain. Fusion of
+a nuclear localization signal induces efficient nuclear transport of Miz-1 and
+impairs the ability of Myc to overcome transcriptional activation and growth
+arrest by Miz-1. Our data suggest a model for how gene repression by Myc may
+occur in vivo.
+
+PMCID: PMC1170199
+PMID: 9312026  [PubMed - indexed for MEDLINE]
+
+
+75. Mech Dev. 1997 Jul;65(1-2):3-17.
+
+Miz1, a novel zinc finger transcription factor that interacts with Msx2 and
+enhances its affinity for DNA.
+
+Wu L(1), Wu H, Ma L, Sangiorgi F, Wu N, Bell JR, Lyons GE, Maxson R.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, USC Norris Cancer Hospital
+and Research Institute, University of Southern California School of Medicine, Los
+Angeles 90033, USA.
+
+Erratum in
+    Mech Dev 1997 Dec;69(1-2):219.
+
+Msx2 is a homeobox gene with a regulatory role in inductive tissue interactions, 
+including those that pattern the skull. We demonstrated previously that
+individuals affected with an autosomal dominant disorder of skull morphogenesis
+(craniosynostosis, Boston type) bear a mutated form of Msx2 in which a histidine 
+is substituted for a highly conserved proline in position 7 of the N-terminal arm
+of the homeodomain (p148h). The mutation behaves as a dominant positive in
+transgenic mice. The location of the mutation in the N-terminal arm of the
+homeodomain, a region which in other homeodomain proteins plays a key part in
+protein-protein interactions, prompted us to undertake a yeast two hybrid screen 
+for Msx2-interacting proteins. Here we present a functional analysis of one such 
+protein, designated Miz1 (Msx-interacting-zinc finger). Miz1 is a zinc
+finger-containing protein whose amino acid sequence closely resembles that of the
+yeast protein, Nfi-1. Together these proteins define a new, highly conserved
+protein family. Analysis of Miz1 expression by Northern blot and in situ
+hybridization revealed a spatiotemporal pattern that overlaps that of Msx2.
+Further, Miz1 is a sequence specific DNA binding protein, and it can function as 
+a positive-acting transcription factor. Miz1 interacts directly with Msx2 in
+vitro and enhances the DNA binding affinity of Msx2 for a functionally important 
+element in the rat osteocalcin promoter. The p148h mutation in Msx2 augments the 
+Miz1 effect on Msx2 DNA binding, suggesting a reason why this mutation behaves in
+vivo as a dominant positive, and providing a potential explanation of the
+craniosynostosis phenotype.
+
+PMID: 9256341  [PubMed - indexed for MEDLINE]
+
+
+76. Curr Top Microbiol Immunol. 1997;224:137-46.
+
+Association of Myc with the zinc-finger protein Miz-1 defines a novel pathway for
+gene regulation by Myc.
+
+Schneider A(1), Peukert K, Eilers M, Hänel F.
+
+Author information: 
+(1)Zentrum für Molekulare Biologie Heidelberg (ZMBH), Germany.
+
+The Myc protein activates transcription as part of a complex with its partner
+protein, Max. Myc-transformed cells are also characterised by the loss of
+expression of a number of genes and this repressive effect of Myc on gene
+expression may not be mediated by the Myc/Max complex. We recently isolated by
+two-hybrid cloning a novel zinc-finger protein that associates with the
+carboxy-terminus of Myc. We have termed this protein Miz-1 (Myc-interacting zinc 
+finger protein). Some of the properties of Miz-1 suggest that it may be involved 
+in gene repression by Myc in vivo.
+
+PMID: 9308237  [PubMed - indexed for MEDLINE]
+
+

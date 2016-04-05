@@ -1,0 +1,2209 @@
+
+1. Nucleic Acids Res. 2016 Mar 9. pii: gkw146. [Epub ahead of print]
+
+E2F7 regulates transcription and maturation of multiple microRNAs to restrain
+cell proliferation.
+
+Mitxelena J(1), Apraiz A(2), Vallejo-Rodríguez J(1), Malumbres M(3), Zubiaga
+AM(4).
+
+Author information: 
+(1)Department of Genetics, Physical Anthropology and Animal Physiology,
+University of the Basque Country UPV/EHU, 48080 Bilbao, Spain. (2)Department of
+Cell Biology and Histology, University of the Basque Country UPV/EHU, 48080
+Bilbao, Spain. (3)Cell Division and Cancer Group, Spanish National Cancer
+Research Centre (CNIO), 28029 Madrid, Spain. (4)Department of Genetics, Physical 
+Anthropology and Animal Physiology, University of the Basque Country UPV/EHU,
+48080 Bilbao, Spain ana.zubiaga@ehu.es.
+
+E2F transcription factors (E2F1-8) are known to coordinately regulate the
+expression of a plethora of target genes, including those coding for microRNAs
+(miRNAs), to control cell cycle progression. Recent work has described the
+atypical E2F factor E2F7 as a transcriptional repressor of cell cycle-related
+protein-coding genes. However, the contribution of E2F7 to miRNA gene expression 
+during the cell cycle has not been defined. We have performed a genome-wide RNA
+sequencing analysis to identify E2F7-regulated miRNAs and show that E2F7 plays as
+a major role in the negative regulation of a set of miRNAs that promote cellular 
+proliferation. We provide mechanistic evidence for an interplay between E2F7 and 
+the canonical E2F factors E2F1-3 in the regulation of multiple miRNAs. We show
+that miR-25, -26a, -27b, -92a and -7 expression is controlled at the
+transcriptional level by the antagonistic activity of E2F7 and E2F1-3. By
+contrast, let-7 miRNA expression is controlled indirectly through a novel
+E2F/c-MYC/LIN28B axis, whereby E2F7 and E2F1-3 modulate c-MYC and LIN28B levels
+to impact let-7 miRNA processing and maturation. Taken together, our data uncover
+a new regulatory network involving transcriptional and post-transcriptional
+mechanisms controlled by E2F7 to restrain cell cycle progression through
+repression of proliferation-promoting miRNAs.
+
+© The Author(s) 2016. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+PMID: 26961310  [PubMed - as supplied by publisher]
+
+
+2. EMBO Rep. 2016 Mar;17(3):414-27. doi: 10.15252/embr.201540984. Epub 2016 Feb 5.
+
+Feedback regulation between atypical E2Fs and APC/CCdh1 coordinates cell cycle
+progression.
+
+Boekhout M(1), Yuan R(2), Wondergem AP(2), Segeren HA(2), van Liere EA(2), Awol
+N(2), Jansen I(2), Wolthuis RM(1), de Bruin A(3), Westendorp B(4).
+
+Author information: 
+(1)Division of Cell Biology I (B5), The Netherlands Cancer Institute (NKI-AvL),
+Amsterdam, The Netherlands. (2)Department of Pathobiology, Faculty of Veterinary 
+Medicine, Utrecht University, Utrecht, The Netherlands. (3)Department of
+Pathobiology, Faculty of Veterinary Medicine, Utrecht University, Utrecht, The
+Netherlands Department of Pediatrics, Division of Molecular Genetics, University 
+Medical Center Groningen University of Groningen, Groningen, The Netherlands
+a.debruin@uu.nl b.westendorp@uu.nl. (4)Department of Pathobiology, Faculty of
+Veterinary Medicine, Utrecht University, Utrecht, The Netherlands a.debruin@uu.nl
+b.westendorp@uu.nl.
+
+E2F transcription factors control the oscillating expression pattern of multiple 
+target genes during the cell cycle. Activator E2Fs, E2F1-3, induce an upswing of 
+E2F targets, which is essential for the G1-to-S phase transition, whereas
+atypical E2Fs, E2F7 and E2F8, mediate a downswing of the same targets during late
+S, G2, and M phases. Expression of atypical E2Fs is induced by E2F1-3, but it is 
+unknown how atypical E2Fs are inactivated in a timely manner. Here, we
+demonstrate that E2F7 and E2F8 are substrates of the anaphase-promoting
+complex/cyclosome (APC/C). Removal of CDH1, or mutating the CDH1-interacting KEN 
+boxes, stabilized E2F7/8 from anaphase onwards and during G1. Expressing KEN
+mutant E2F7 during G1 impairs S phase entry and eventually results in cell death.
+Furthermore, we show that E2F8, but not E2F7, interacts also with APC/C(C)
+(dc20). Importantly, atypical E2Fs can activate APC/C(C) (dh1) by repressing its 
+inhibitors cyclin A, cyclin E, and Emi1. In conclusion, we discovered a feedback 
+loop between atypical E2Fs and APC/C(C) (dh1), which ensures balanced expression 
+of cell cycle genes and normal cell cycle progression.
+
+© 2016 The Authors.
+
+PMID: 26882548  [PubMed - in process]
+
+
+3. Oncotarget. 2016 Jan 25. doi: 10.18632/oncotarget.7003. [Epub ahead of print]
+
+MiR-129 triggers autophagic flux by regulating a novel Notch-1/ E2F7/Beclin-1
+axis to impair the viability of human malignant glioma cells.
+
+Chen X(1), Zhang Y(1), Shi Y(1), Lian H(2), Tu H(1), Han S(1), Yin J(1), Peng
+B(1,)(3), Zhou B(4), He X(1,)(3), Liu W(1,)(5).
+
+Author information: 
+(1)School of Basic Medical Sciences, Wuhan University, Wuhan 430071, China.
+(2)Department of Neurosurgery, Wuhan University Renmin Hospital, Wuhan 430060,
+China. (3)Hubei Provincial Key Laboratory of Developmentally Originated Disease, 
+Wuhan 430071, China. (4)Department of Veterinary Physiology and Pharmacology,
+College of Veterinary Medicine and Biomedical Sciences, Texas A & M University,
+Texas 77843, USA. (5)Hubei Province Key Laboratory of Allergy and Immunology,
+Wuhan 430071, China.
+
+Abnormalities of autophagy have been implicated in an increasing number of human 
+cancers, including glioma. To date, there is a wealth of evidence indicating that
+microRNAs (miRNAs) contribute significantly to autophagy in a variety of cancers.
+Previous studies have suggested that miR-129 functioned as an important inhibitor
+of the cell cycle and could promote the apoptosis of many cancer cell lines in
+vitro. Here, we reported that miR-129 acted as a potent inducer of autophagy.
+Forced expression of miR-129 could induce autophagic flux by targetedly
+suppressing Notch-1 in glioma cells. The autophagy induced by miR-129 could
+restrain the activity of mammalian target of rapamycin (mTOR) and upregulate
+Beclin-1. Moreover, we demonstrated that E2F transcription factor 7 (E2F7) could 
+also trigger autophagic flux by upregulating Beclin-1 and mediating
+miR-129-induced autophagy. Additionally, knockdown of Notch-1 could upregulate
+the expression of E2F7, whereas downregulation of E2F7 alleviated
+shNotch-1-induced autophagic flux. In particular, knockdown of endogenous
+Beclin-1 could effectively reduce autophagic flux stimulated by miR-129 and E2F7.
+Interestingly, upon attenuation of miR-129- or E2F7-triggered autophagic flux
+rescued cell viability suppressed by them. More importantly, intratumoral
+injection of pHAGE-miR-129 lentivirus in a nude mouse xenograft model
+significantly restrained tumor growth and triggered autophagy. In conclusion,
+these findings identify a new function for miR-129 as a potent inducer of
+autophagy through a novel Notch-1/E2F7/Beclin-1 axis in glioma.
+
+PMID: 26824182  [PubMed - as supplied by publisher]
+
+
+4. Toxicol Appl Pharmacol. 2016 Feb 1;292:65-74. doi: 10.1016/j.taap.2015.12.010.
+Epub 2015 Dec 19.
+
+The ovarian DNA damage repair response is induced prior to phosphoramide
+mustard-induced follicle depletion, and ataxia telangiectasia mutated inhibition 
+prevents PM-induced follicle depletion.
+
+Ganesan S(1), Keating AF(2).
+
+Author information: 
+(1)Department of Animal Science, Iowa State University, Ames, IA 50011, USA.
+Electronic address: shanthig@iastate.edu. (2)Department of Animal Science, Iowa
+State University, Ames, IA 50011, USA. Electronic address: akeating@iastate.edu.
+
+Phosphoramide mustard (PM) is an ovotoxic metabolite of cyclophosphamide and
+destroys primordial and primary follicles potentially by DNA damage induction.
+The temporal pattern by which PM induces DNA damage and initiation of the ovarian
+response to DNA damage has not yet been well characterized. This study
+investigated DNA damage initiation, the DNA repair response, as well as induction
+of follicular demise using a neonatal rat ovarian culture system. Additionally,
+to delineate specific mechanisms involved in the ovarian response to PM exposure,
+utility was made of PKC delta (PKCd) deficient mice as well as an ATM inhibitor
+(KU 55933; AI). Fisher 344 PND4 rat ovaries were cultured for 12, 24, 48 or 96h
+in medium containing DMSO ±60µM PM or KU 55933 (48h; 10nM). PM-induced activation
+of DNA damage repair genes was observed as early as 12h post-exposure. ATM,
+PARP1, E2F7, P73 and CASP3 abundance were increased but RAD51 and BCL2 protein
+decreased after 96h of PM exposure. PKCd deficiency reduced numbers of all
+follicular stages, but did not have an additive impact on PM-induced ovotoxicity.
+ATM inhibition protected all follicle stages from PM-induced depletion. In
+conclusion, the ovarian DNA damage repair response is active post-PM exposure,
+supporting that DNA damage contributes to PM-induced ovotoxicity.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+PMID: 26708502  [PubMed - in process]
+
+
+5. Nucleic Acids Res. 2015 Dec 17. pii: gkv1471. [Epub ahead of print]
+
+Genome-wide analysis reveals NRP1 as a direct HIF1a-E2F7 target in the regulation
+of motorneuron guidance in vivo.
+
+de Bruin A(1), Cornelissen PW(2), Kirchmaier BC(3), Mokry M(4), Iich E(2),
+Nirmala E(2), Liang KH(2), Végh AM(2), Scholman KT(2), Groot Koerkamp MJ(5),
+Holstege FC(5), Cuppen E(6), Schulte-Merker S(7), Bakker WJ(2).
+
+Author information: 
+(1)Department of Pathobiology, Faculty of Veterinary Medicine, Utrecht
+University, 3584 CL Utrecht, The Netherlands Department of Pediatrics, Division
+of Molecular Genetics, University Medical Center Groningen, University of
+Groningen, Groningen 9713 AV, The Netherlands a.debruin@uu.nl. (2)Department of
+Pathobiology, Faculty of Veterinary Medicine, Utrecht University, 3584 CL
+Utrecht, The Netherlands. (3)Hubrecht Institute, Royal Netherlands Academy of
+Arts and Sciences and University Medical Center Utrecht, 3584 CT Utrecht, The
+Netherlands Goethe Universität Frankfurt, Buchmann Institute of Molecular Life
+Sciences (BMLS), Neural and Vascular Guidance group, D-60438 Frankfurt am Main,
+Germany. (4)Division of Pediatrics, Wilhelmina Children's Hospital, University
+Medical Center Utrecht, 3508 AB Utrecht, The Netherlands. (5)Molecular Cancer
+Research, University Medical Center Utrecht, Universiteitsweg 100, Utrecht, 3584 
+CG, The Netherlands. (6)Hubrecht Institute, Royal Netherlands Academy of Arts and
+Sciences and University Medical Center Utrecht, 3584 CT Utrecht, The Netherlands.
+(7)Hubrecht Institute, Royal Netherlands Academy of Arts and Sciences and
+University Medical Center Utrecht, 3584 CT Utrecht, The Netherlands Institute for
+Cardiovascular Organogenesis and Regeneration, Cells-in-Motion Cluster of
+Excellence, University of Münster, 48149 Münster, Germany.
+
+In this study, we explored the existence of a transcriptional network
+co-regulated by E2F7 and HIF1a, as we show that expression of E2F7, like HIF1a,
+is induced in hypoxia, and because of the previously reported ability of E2F7 to 
+interact with HIF1a. Our genome-wide analysis uncovers a transcriptional network 
+that is directly controlled by HIF1a and E2F7, and demonstrates both stimulatory 
+and repressive functions of the HIF1a -E2F7 complex. Among this network we reveal
+Neuropilin 1 (NRP1) as a HIF1a-E2F7 repressed gene. By performing in vitro and in
+vivo reporter assays we demonstrate that the HIF1a-E2F7 mediated NRP1 repression 
+depends on a 41 base pairs 'E2F-binding site hub', providing a molecular
+mechanism for a previously unanticipated role for HIF1a in transcriptional
+repression. To explore the biological significance of this regulation we
+performed in situ hybridizations and observed enhanced nrp1a expression in spinal
+motorneurons (MN) of zebrafish embryos, upon morpholino-inhibition of e2f7/8 or
+hif1a. Consistent with the chemo-repellent role of nrp1a, morpholino-inhibition
+of e2f7/8 or hif1a caused MN truncations, which was rescued in TALEN-induced
+nrp1a(hu10012) mutants, and phenocopied in e2f7/8 mutant zebrafish. Therefore, we
+conclude that repression of NRP1 by the HIF1a-E2F7 complex regulates MN axon
+guidance in vivo.
+
+© The Author(s) 2015. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+PMID: 26681691  [PubMed - as supplied by publisher]
+
+
+6. Nat Commun. 2015 Dec 3;6:10050. doi: 10.1038/ncomms10050.
+
+Structural insights into the DNA-binding specificity of E2F family transcription 
+factors.
+
+Morgunova E(1), Yin Y(1), Jolma A(1), Dave K(1), Schmierer B(1), Popov A(2),
+Eremina N(3), Nilsson L(1), Taipale J(1,)(4).
+
+Author information: 
+(1)Department of Biosciences and Nutrition, Karolinska Institutet, SE 141 83
+Stockholm, Sweden. (2)European Synchrotron Radiation Facility, Division of
+Experiments, 38 000 Grenoble, France. (3)Department of Biochemistry and
+Biophysics, Stockholm University, SE 106 91, Sweden. (4)Genome-Scale Biology
+Research Program, Faculty of Medicine, University of Helsinki, PO Box 63,
+FI-00014 Helsinki, Finland.
+
+The mammalian cell cycle is controlled by the E2F family of transcription
+factors. Typical E2Fs bind to DNA as heterodimers with the related dimerization
+partner (DP) proteins, whereas the atypical E2Fs, E2F7 and E2F8 contain two
+DNA-binding domains (DBDs) and act as repressors. To understand the mechanism of 
+repression, we have resolved the structure of E2F8 in complex with DNA at atomic 
+resolution. We find that the first and second DBDs of E2F8 resemble the DBDs of
+typical E2F and DP proteins, respectively. Using molecular dynamics simulations, 
+biochemical affinity measurements and chromatin immunoprecipitation, we further
+show that both atypical and typical E2Fs bind to similar DNA sequences in vitro
+and in vivo. Our results represent the first crystal structure of an E2F protein 
+with two DBDs, and reveal the mechanism by which atypical E2Fs can repress
+canonical E2F target genes and exert their negative influence on cell cycle
+progression.
+
+PMCID: PMC4686757
+PMID: 26632596  [PubMed - in process]
+
+
+7. Oncotarget. 2015 Oct 13;6(31):31944-57. doi: 10.18632/oncotarget.5128.
+
+E2F7 overexpression leads to tamoxifen resistance in breast cancer cells by
+competing with E2F1 at miR-15a/16 promoter.
+
+Chu J(1,)(2,)(3), Zhu Y(1,)(2), Liu Y(1,)(2), Sun L(1,)(2,)(3), Lv X(1,)(2), Wu
+Y(1,)(2), Hu P(1,)(2,)(3), Su F(1,)(2), Gong C(1,)(2), Song E(1,)(2,)(3), Liu
+B(1,)(2,)(3), Liu Q(1,)(2).
+
+Author information: 
+(1)Breast Tumor Center, Sun Yat-sen Memorial Hospital, Sun Yat-sen University,
+Guangzhou 510120, China. (2)Key Laboratory of Malignant Tumor Gene Regulation and
+Target Therapy of Guangdong Higher Education Institutes, Sun Yat-sen Memorial
+Hospital, Sun Yat-sen University, Guangzhou 510120, China. (3)Key Laboratory of
+Gene Engineering of Ministry of Education, State Key Laboratory of Biocontrol,
+School of Life Sciences, Sun Yat-sen University, Guangzhou 510275, China.
+
+About 50-70% of breast cancers are estrogen receptor a (ERa) positive and most of
+them are sensitive to endocrine therapy including tamoxifen. However, one third
+of these patients will eventually develop resistance and relapse. We found that
+the expression of miR-15a and miR-16 were significantly decreased in tamoxifen
+resistant ER positive breast cancer cell lines. Exogenous expression of
+miR-15a/16 mimics re-sensitized resistant cells to tamoxifen by inhibiting Cyclin
+E1 and B cell lymphoma-2 (Bcl-2) to induce cell growth arrest and apoptosis
+respectively. Further, we identified that a repressive member of E2F family,
+E2F7, was responsible for the suppression of miR-15a/16 cluster by competing with
+E2F1 for E2F binding site at the promoter of their host gene DLEU2. Moreover,
+high expression of E2F7 is correlated with high risk of relapse and poor
+prognosis in breast cancer patients receiving tamoxifen treatment. Together, our 
+results suggest that overexpression of E2F7 represses miR-15a/16 and then
+increases Cyclin E1 and Bcl-2 that result in tamoxifen resistance. E2F7 may be a 
+valuable prognostic marker and a therapeutic target of tamoxifen resistance in
+breast cancer.
+
+PMCID: PMC4741652
+PMID: 26397135  [PubMed - in process]
+
+
+8. J Clin Invest. 2015 Jul 1;125(7):2825-40. doi: 10.1172/JCI78753. Epub 2015 Jun
+22.
+
+Mature T cell responses are controlled by microRNA-142.
+
+Sun Y, Oravecz-Wilson K, Mathewson N, Wang Y, McEachin R, Liu C, Toubai T, Wu J, 
+Rossi C, Braun T, Saunders T, Reddy P.
+
+T cell proliferation is critical for immune responses; however, the molecular
+mechanisms that mediate the proliferative response are poorly understood.
+MicroRNAs (miRs) regulate various molecular processes, including development and 
+function of the immune system. Here, utilizing multiple complementary genetic and
+molecular approaches, we investigated the contribution of a
+hematopoietic-specific miR, miR-142, in regulating T cell responses. T cell
+development was not affected in animals with a targeted deletion of Mir142;
+however, T cell proliferation was markedly reduced following stimulation both in 
+vitro and in multiple murine models of graft-versus-host disease (GVHD).
+miR-142-deficient T cells demonstrated substantial cell-cycling defects, and
+microarray and bioinformatics analyses revealed upregulation of genes involved in
+cell cycling. Moreover, 2 predicted miR-142 target genes, the atypical E2F
+transcription factors E2f7 and E2f8, were most highly upregulated in
+miR-142-deficient cells. Clustered regularly interspaced short palindromic repeat
+interference-mediated (CRISPRi-mediated) silencing of E2F7 and E2F8 in
+miR-142-deficient T cells ameliorated cell-cycling defects and reduced GVHD, and 
+overexpression of these factors in WT T cells inhibited the proliferative
+response. Together, these results identify a link between hematopoietic-specific 
+miR-142 and atypical E2F transcription factors in the regulation of mature T cell
+cycling and suggest that targeting this interaction may be relevant for
+mitigating GVHD.
+
+PMCID: PMC4563679
+PMID: 26098216  [PubMed - indexed for MEDLINE]
+
+
+9. J Natl Cancer Inst. 2015 Jun 18;107(9). pii: djv151. doi: 10.1093/jnci/djv151.
+Print 2015 Sep.
+
+E2F8 as a Novel Therapeutic Target for Lung Cancer.
+
+Park SA(1), Platt J(1), Lee JW(1), López-Giráldez F(1), Herbst RS(1), Koo JS(2).
+
+Author information: 
+(1)Section of Medical Oncology, Department of Internal Medicine (SAP, JWL, RSH,
+JSK) and Translational Research Program (RSH, JSK), Yale Comprehensive Cancer
+Center, Departments of Pathology and Medical Oncology (JP), Yale School of
+Medicine, New Haven, CT; Yale Center for Genome Analysis, Yale University,
+Orange, CT (FLG). (2)Section of Medical Oncology, Department of Internal Medicine
+(SAP, JWL, RSH, JSK) and Translational Research Program (RSH, JSK), Yale
+Comprehensive Cancer Center, Departments of Pathology and Medical Oncology (JP), 
+Yale School of Medicine, New Haven, CT; Yale Center for Genome Analysis, Yale
+University, Orange, CT (FLG). jpeter.koo@yale.edu.
+
+Comment in
+    J Natl Cancer Inst. 2015 Sep;107(9). pii: djv180. doi: 10.1093/jnci/djv180.
+
+BACKGROUND: The E2F members have been divided into transcription activators
+(E2F1-E2F3) and repressors (E2F4-E2F8). E2F8 with E2F7 has been known to play an 
+important physiologic role in embryonic development and cell cycle regulation by 
+repressing E2F1. However, the function of E2F8 in cancer cells is unknown.
+METHODS: E2F8 expression was assessed by immunoblotting or immunofluorescence
+staining in human lung cancer (LC) cells and tissues from LC patients (n = 45).
+Cell proliferation, colony formation, and invasion analysis were performed to
+evaluate the role of E2F8 in LC. Microarray analysis was used to determine the
+target genes of E2F8. The regulation of E2F8 on the expression of ubiquitin-like 
+PHD and RING domain-containing 1 (UHRF1), one of E2F8 target genes, was
+determined using chromatin immunoprecipitation and promoter activity assays.
+Human LC xenograft models were used to determine the effects of inhibiting E2F8
+by siRNAs (n = 7 per group) or antisense morpholino (n = 8 per group) on tumor
+growth. Survival was analyzed using the Kaplan-Meier method and group differences
+by the Student's t test. All statistical tests were two-sided.
+RESULTS: LC tumors overexpressed E2F8 compared with normal lung tissues.
+Depletion of E2F8 inhibited cell proliferation and tumor growth. E2F8 knockdown
+statistically significantly reduced the expression of UHRF1 (~60%-70%, P < .001),
+and the direct binding of E2F8 on the promoter of UHRF1 was identified.
+Kaplan-Meier analysis with a public database showed prognostic significance of
+aberrant E2F8 expression in LC (HR = 1.91 95% CI = 1.21 to 3.01 in chemo-naïve
+patients, P = .0047).
+CONCLUSIONS: We demonstrated that E2F8 is overexpressed in LC and is required for
+the growth of LC cells. These findings implicate E2F8 as a novel therapeutic
+target for LC treatment.
+
+© The Author 2015. Published by Oxford University Press. All rights reserved. For
+Permissions, please e-mail: journals.permissions@oup.com.
+
+PMCID: PMC4651101 [Available on 2016-09-01]
+PMID: 26089541  [PubMed - indexed for MEDLINE]
+
+
+10. BMC Genomics. 2015 Jun 17;16:464. doi: 10.1186/s12864-015-1643-9.
+
+Whole-genome cartography of p53 response elements ranked on transactivation
+potential.
+
+Tebaldi T(1), Zaccara S(2), Alessandrini F(3), Bisio A(4), Ciribilli Y(5), Inga
+A(6).
+
+Author information: 
+(1)Centre for Integrative Biology (CIBIO), University of Trento, via delle Regole
+101, 38123, Mattarello, TN, Italy. t.tebaldi@unitn.it. (2)Centre for Integrative 
+Biology (CIBIO), University of Trento, via delle Regole 101, 38123, Mattarello,
+TN, Italy. sara.zaccara@unitn.it. (3)Centre for Integrative Biology (CIBIO),
+University of Trento, via delle Regole 101, 38123, Mattarello, TN, Italy.
+f.alessandrini@unitn.it. (4)Centre for Integrative Biology (CIBIO), University of
+Trento, via delle Regole 101, 38123, Mattarello, TN, Italy.
+alessandra.bisio@unitn.it. (5)Centre for Integrative Biology (CIBIO), University 
+of Trento, via delle Regole 101, 38123, Mattarello, TN, Italy.
+yari.ciribilli@unitn.it. (6)Centre for Integrative Biology (CIBIO), University of
+Trento, via delle Regole 101, 38123, Mattarello, TN, Italy.
+alberto.inga@unitn.it.
+
+BACKGROUND: Many recent studies using ChIP-seq approaches cross-referenced to
+trascriptome data and also to potentially unbiased in vitro DNA binding selection
+experiments are detailing with increasing precision the p53-directed gene
+regulatory network that, nevertheless, is still expanding. However, most
+experiments have been conducted in established cell lines subjected to specific
+p53-inducing stimuli, both factors potentially biasing the results.
+RESULTS: We developed p53retriever, a pattern search algorithm that maps p53
+response elements (REs) and ranks them according to predicted transactivation
+potentials in five classes. Besides canonical, full site REs, we developed
+specific pattern searches for non-canonical half sites and 3/4 sites and show
+that they can mediate p53-dependent responsiveness of associated coding
+sequences. Using ENCODE data, we also mapped p53 REs in about 44,000 distant
+enhancers and identified a 16-fold enrichment for high activity REs within those 
+sites in the comparison with genomic regions near transcriptional start sites
+(TSS). Predictions from our pattern search were cross-referenced to ChIP-seq,
+ChIP-exo, expression, and various literature data sources. Based on the mapping
+of predicted functional REs near TSS, we examined expression changes of thirteen 
+genes as a function of different p53-inducing conditions, providing further
+evidence for PDE2A, GAS6, E2F7, APOBEC3H, KCTD1, TRIM32, DICER, HRAS, KITLG and
+TGFA p53-dependent regulation, while MAP2K3, DNAJA1 and potentially YAP1 were
+identified as new direct p53 target genes.
+CONCLUSIONS: We provide a comprehensive annotation of canonical and non-canonical
+p53 REs in the human genome, ranked on predicted transactivation potential. We
+also establish or corroborate direct p53 transcriptional control of thirteen
+genes. The entire list of identified and functionally classified p53 REs near all
+UCSC-annotated genes and within ENCODE mapped enhancer elements is provided. Our 
+approach is distinct from, and complementary to, existing methods designed to
+identify p53 response elements. p53retriever is available as an R package at:
+http://tomateba.github.io/p53retriever .
+
+PMCID: PMC4470028
+PMID: 26081755  [PubMed - indexed for MEDLINE]
+
+
+11. Mol Cancer Ther. 2015 Aug;14(8):1939-50. doi: 10.1158/1535-7163.MCT-15-0076. Epub
+2015 May 27.
+
+RacGAP1 Is a Novel Downstream Effector of E2F7-Dependent Resistance to
+Doxorubicin and Is Prognostic for Overall Survival in Squamous Cell Carcinoma.
+
+Hazar-Rethinam M(1), de Long LM(1), Gannon OM(1), Boros S(2), Vargas AC(2),
+Dzienis M(3), Mukhopadhyay P(1), Saenz-Ponce N(1), Dantzic DD(1), Simpson F(1),
+Saunders NA(4).
+
+Author information: 
+(1)Epithelial Pathobiology Group, University of Queensland Diamantina Institute, 
+Princess Alexandra Hospital, Translational Research Institute, Woolloongabba,
+Queensland, Australia. (2)Department of Pathology, Princess Alexandra Hospital,
+Woolloongabba, Queensland, Australia. (3)Department of Medical Oncology, Princess
+Alexandra Hospital, Woolloongabba, Queensland, Australia. (4)Epithelial
+Pathobiology Group, University of Queensland Diamantina Institute, Princess
+Alexandra Hospital, Translational Research Institute, Woolloongabba, Queensland, 
+Australia. nsaunders@uq.edu.au.
+
+We have previously shown that E2F7 contributes to drug resistance in head and
+neck squamous cell carcinoma (HNSCC) cells. Considering that dysregulation of
+responses to chemotherapy-induced cytotoxicity is one of the major reasons for
+treatment failure in HNSCC, identifying the downstream effectors that regulate
+E2F7-dependent sensitivity to chemotherapeutic agents may have direct clinical
+impact. We used transcriptomic profiling to identify candidate pathways that
+contribute to E2F7-dependent resistance to doxorubicin. We then manipulated the
+expression of the candidate pathway using overexpression and knockdown in in
+vitro and in vivo models of SCC to demonstrate causality. In addition, we
+examined the expression of E2F7 and RacGAP1 in a custom tissue microarray (TMA)
+generated from HNSCC patient samples. Transcriptomic profiling identified RacGAP1
+as a potential mediator of E2F7-dependent drug resistance. We validated
+E2F7-dependent upregulation of RacGAP1 in doxorubicin-insensitive SCC25 cells.
+Extending this, we found that selective upregulation of RacGAP1 induced
+doxorubicin resistance in previously sensitive KJDSV40. Similarly, stable
+knockdown of RacGAP1 in insensitive SCC25 cells induced sensitivity to
+doxorubicin in vitro and in vivo. RacGAP1 expression was validated in a TMA, and 
+we showed that HNSCCs that overexpress RacGAP1 are associated with a poorer
+patient overall survival. Furthermore, E2F7-induced doxorubicin resistance was
+mediated via RacGAP1-dependent activation of AKT. Finally, we show that SCC cells
+deficient in RacGAP1 grow slower and are sensitized to the cytotoxic actions of
+doxorubicin in vivo. These findings identify RacGAP1 overexpression as a novel
+prognostic marker of survival and a potential target to sensitize SCC to
+doxorubicin.
+
+©2015 American Association for Cancer Research.
+
+PMID: 26018753  [PubMed - in process]
+
+
+12. PLoS One. 2015 Apr 22;10(4):e0123167. doi: 10.1371/journal.pone.0123167.
+eCollection 2015.
+
+Identification of Cellular Targets of MicroRNA-181a in HepG2 Cells: A New
+Approach for Functional Analysis of MicroRNAs.
+
+Tan JY(1), Habib NA(2), Chuah YW(3), Yau YH(3), Geifman-Shochat S(3), Chen WN(1).
+
+Author information: 
+(1)School of Chemical and Biomedical Engineering, College of Engineering, Nanyang
+Technological University, Singapore, Singapore. (2)Imperial College London,
+Faculty of Medicine, Department of Surgery and Cancer, London, England.
+(3)Division of Structural Biology and Biochemistry, School of Biological
+Sciences, Nanyang Technological University, Singapore, Singapore.
+
+MicroRNAs (miRNAs) are known to play a part in regulating important cellular
+processes. They generally perform their regulatory function through their binding
+with mRNAs, ultimately leading to a repression of target protein expression
+levels. However, their roles in cellular processes are poorly understood due to
+the limited understanding of their specific cellular targets. Aberrant levels of 
+miRNAs have been found in hepatocellular carcinoma (HCC) including miR-181a.
+Using bioinformatics analysis, cyclin-dependent kinase inhibitor 1B (CDKN1ß) and 
+transcriptional factor E2F7 were identified as potential targets of miR-181a.
+Validation analysis using surface plasmon resonance (SPR) showed a positive
+binding between miR-181a and the 3'UTRs of these two potential mRNA targets. In
+vivo luciferase assay further confirmed the positive miR-181a:mRNA bindings,
+where a significant decrease in luciferase activity was detected when HepG2 cells
+were co-transfected with the 3'UTR-containing reporter plasmids and miR-181a. The
+potential impact of miR-181a binding to its specific targets on the general
+cellular behavior was further investigated. Results showed that miR-181a
+significantly activated the MAPK/JNK pathway which regulates cell proliferation, 
+supporting our recently reported findings. Inhibition of miR-181a, on the other
+hand, abolished the observed activation. Our findings open up a new approach in
+designing targeted functional analysis of miRNAs in cellular processes, through
+the identification of their cellular targets.
+
+PMCID: PMC4406611
+PMID: 25901570  [PubMed - indexed for MEDLINE]
+
+
+13. Chem Biol. 2015 Apr 23;22(4):453-9. doi: 10.1016/j.chembiol.2015.03.008. Epub
+2015 Apr 9.
+
+Unbiased proteomic profiling strategy for discovery of bacterial effector
+proteins reveals that Salmonella protein PheA is a host cell cycle regulator.
+
+Na HN(1), Yoo YH(2), Yoon CN(2), Lee JS(3).
+
+Author information: 
+(1)Molecular Recognition Research Center, Korea Institute of Science and
+Technology, 39-1 Hawolgok-dong, Seoul 136-791, South Korea; Department of
+Biological Chemistry, University of Science & Technology, 113 Gwahank-ro,
+Yuseong-gu, Daejeon 305-333, South Korea. (2)Molecular Recognition Research
+Center, Korea Institute of Science and Technology, 39-1 Hawolgok-dong, Seoul
+136-791, South Korea. (3)Molecular Recognition Research Center, Korea Institute
+of Science and Technology, 39-1 Hawolgok-dong, Seoul 136-791, South Korea;
+Department of Biological Chemistry, University of Science & Technology, 113
+Gwahank-ro, Yuseong-gu, Daejeon 305-333, South Korea. Electronic address:
+junseoklee@kist.re.kr.
+
+Comment in
+    Chem Biol. 2015 Apr 23;22(4):434-5.
+
+Salmonella utilizes a type III secretion system to inject bacterial effector
+proteins into the host cell cytosol. Once in the cytosol, these effectors hijack 
+various biochemical pathways to regulate virulence. Despite the importance of
+effector proteins, especially for understanding host-pathogen interactions, a
+potentially large number of effectors are yet to be identified. Here, we
+demonstrate that unbiased chemical proteomic profiling using off-the-shelf
+fluorescent probes leads to the discovery of a host cell cycle regulator encoded 
+in the Salmonella genome. Our profiling combined with bioinformatic analysis
+implicates 29 Salmonella as potential effectors. We follow up on the top
+candidate, chorismate mutase-P/prehenate dehydratase, PheA, and present evidence 
+that PheA is an effector that mimics E2F7 transcription factor of the host cell
+and promotes G1/S cell cycle arrest. This validates our strategy and opens
+opportunities for effector identification in the future.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+PMID: 25865312  [PubMed - indexed for MEDLINE]
+
+
+14. Oncol Rep. 2015 May;33(5):2354-60. doi: 10.3892/or.2015.3812. Epub 2015 Feb 20.
+
+MicroRNA-424 may function as a tumor suppressor in endometrial carcinoma cells by
+targeting E2F7.
+
+Li Q(1), Qiu XM(1), Li QH(1), Wang XY(1), Li L(1), Xu M(1), Dong M(1), Xiao
+YB(1).
+
+Author information: 
+(1)Department of Gynaecology, The First Affiliated Hospital of Zunyi Medical
+College, Zunyi, Guizou 563000, P.R. China.
+
+MicroRNAs (miRNAs) are frequently dysregulated in human cancers and can act as
+potent oncogenes or tumor suppressor genes. Aberrant expression of miR-424 has
+been identified in some types of cancer, however, its expression and potential
+biologic role in endometrial cancer are remains to be determined. In the present 
+study, we demonstrated that miR-424 was downregulated in human endometrial cancer
+and suppressed growth of the human Ishikawa and HEC-1B endometrial cancer cell
+lines. Bioinformatics analysis indicated that E2F7 was a putative target of
+miR-424. In a luciferase reporter system, we confirmed that E2F7 was a direct
+target gene of miR-424. Furthermore, knockdown of E2F7 inhibited Ishikawa and
+HEC-1B cell growth. These findings indicate that miR-424 targets the E2F7
+transcript and suppresses endometrial cancer cell growth, suggesting that miR-424
+has a tumor suppressive role in human endometrial cancer pathogenesis.
+
+PMID: 25708247  [PubMed - indexed for MEDLINE]
+
+
+15. J Cell Sci. 2015 Mar 15;128(6):1166-79. doi: 10.1242/jcs.164103. Epub 2015 Jan
+22.
+
+Downregulation of E2F1 during ER stress is required to induce apoptosis.
+
+Pagliarini V(1), Giglio P(1), Bernardoni P(1), De Zio D(2), Fimia GM(3),
+Piacentini M(4), Corazzari M(5).
+
+Author information: 
+(1)National Institute for Infectious Disease 'L. Spallanzani' IRCCS, 00149 Rome, 
+Italy. (2)Department of Biology, Unit of the Dulbecco Telethon Institute,
+University of Rome 'Tor Vergata', 00133 Rome, Italy Cell Stress and Survival
+Unit, Danish Cancer Society Research Center, Strandboulevarden 49, Copenhagen
+DK-2100, Denmark. (3)National Institute for Infectious Disease 'L. Spallanzani'
+IRCCS, 00149 Rome, Italy Department of Biological and Environmental Science and
+Technology (Di.S.Te.B.A.), University of Salento, 73100 Lecce, Italy. (4)National
+Institute for Infectious Disease 'L. Spallanzani' IRCCS, 00149 Rome, Italy
+Cellular and Developmental Lab, Department of Biology, University of Rome 'Tor
+Vergata', 00133 Rome, Italy. (5)National Institute for Infectious Disease 'L.
+Spallanzani' IRCCS, 00149 Rome, Italy Cellular and Developmental Lab, Department 
+of Biology, University of Rome 'Tor Vergata', 00133 Rome, Italy
+marco.corazzari@uniroma2.it marco.corazzari@inmi.it.
+
+The endoplasmic reticulum (ER) has recently emerged as an alternative target to
+induce cell death in tumours, because prolonged ER stress results in the
+induction of apoptosis even in chemoresistant transformed cells. Here, we show
+that the DNA-damage-responsive pro-apoptotic factor E2F1 is unexpectedly
+downregulated during the ER stress-mediated apoptotic programme. E2F1 decline is 
+a late event during the ER response and is mediated by the two unfolded protein
+response (UPR) sensors ATF6 and IRE1 (also known as ERN1). Whereas ATF6 directly 
+interacts with the E2F1 promoter, IRE1 requires the involvement of the known E2F1
+modulator E2F7, through the activation of its main target Xbp-1. Importantly,
+inhibition of the E2F1 decrease prevents ER-stress-induced apoptosis, whereas
+E2F1 knockdown efficiently sensitises cells to ER stress-dependent apoptosis,
+leading to the upregulation of two main factors in the UPR pro-apoptotic
+execution phase, Puma and Noxa (also known as BBC3 and PMAIP1, respectively). Our
+results point to a novel key role of E2F1 in the cell survival/death decision
+under ER stress, and unveil E2F1 inactivation as a valuable novel potential
+therapeutic strategy to increase the response of tumour cells to ER stress-based 
+anticancer treatments.
+
+© 2015. Published by The Company of Biologists Ltd.
+
+PMID: 25616897  [PubMed - indexed for MEDLINE]
+
+
+16. J Biol Chem. 2015 Feb 13;290(7):4075-85. doi: 10.1074/jbc.M114.602532. Epub 2014 
+Dec 29.
+
+Cyclin E-CDK2 protein phosphorylates plant homeodomain finger protein 8 (PHF8)
+and regulates its function in the cell cycle.
+
+Sun L(1), Huang Y(1), Wei Q(1), Tong X(2), Cai R(1), Nalepa G(3), Ye X(4).
+
+Author information: 
+(1)From the Chinese Academy of Sciences Key Laboratory of Pathogenic Microbiology
+and Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing
+100101, China, the University of the Chinese Academy of Sciences, Beijing 100101,
+China, and. (2)From the Chinese Academy of Sciences Key Laboratory of Pathogenic 
+Microbiology and Immunology, Institute of Microbiology, Chinese Academy of
+Sciences, Beijing 100101, China. (3)the Department of Pediatrics and Division of 
+Pediatric Hematology-Oncology, Herman B. Wells Center for Pediatric Research, and
+Department of Medical and Molecular Genetics, Indiana University School of
+Medicine, Indianapolis, Indiana 46202. (4)From the Chinese Academy of Sciences
+Key Laboratory of Pathogenic Microbiology and Immunology, Institute of
+Microbiology, Chinese Academy of Sciences, Beijing 100101, China, yex@im.ac.cn.
+
+Cyclin E-CDK2 is a key regulator in G1/S transition. Previously, we identified a 
+number of CDK2-interacting proteins, including PHF8 (plant homeodomain finger
+protein 8). In this report, we confirmed that PHF8 is a novel cyclin E-CDK2
+substrate. By taking the approach of mass spectrometry, we identified that PHF8
+Ser-844 is phosphorylated by cyclin E-CDK2. Immunoblotting analysis indicated
+that WT PHF8 demethylates histone H3K9me2 more efficiently than the cyclin E-CDK2
+phosphorylation-deficient PHF8-S844A mutant. Furthermore, flow cytometry analysis
+showed that WT PHF8 promotes S phase progression more robustly than PHF8-S844A.
+Real-time PCR results demonstrated that PHF8 increases transcription of cyclin E,
+E2F3, and E2F7 to significantly higher levels compared with PHF8-S844A. Further
+analysis by ChIP assay indicated that PHF8 binds to the cyclin E promoter
+stronger than PHF8-S844A and reduces the H3K9me2 level at the cyclin E promoter
+more efficiently than PHF8-S844A. In addition, we found that cyclin
+E-CDK2-mediated phosphorylation of PHF8 Ser-844 promotes PHF8-dependent rRNA
+transcription in luciferase reporter assays and real-time PCR. Taken together,
+these results indicate that cyclin E-CDK2 phosphorylates PHF8 to stimulate its
+demethylase activity to promote rRNA transcription and cell cycle progression.
+
+© 2015 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+PMCID: PMC4326817
+PMID: 25548279  [PubMed - indexed for MEDLINE]
+
+
+17. Clin Cancer Res. 2015 Jan 15;21(2):417-27. doi: 10.1158/1078-0432.CCR-14-1962.
+Epub 2014 Nov 19.
+
+A novel E2F/sphingosine kinase 1 axis regulates anthracycline response in
+squamous cell carcinoma.
+
+Hazar-Rethinam M(1), de Long LM(1), Gannon OM(1), Topkas E(1), Boros S(2), Vargas
+AC(2), Dzienis M(3), Mukhopadhyay P(1), Simpson F(1), Endo-Munoz L(1), Saunders
+NA(4).
+
+Author information: 
+(1)Epithelial Pathobiology Group, University of Queensland Diamantina Institute, 
+Princess Alexandra Hospital, Translational Research Institute, Woolloongabba,
+Queensland, Australia. (2)Department of Pathology, Princess Alexandra Hospital,
+Woolloongabba, Queensland, Australia. (3)Department of Medical Oncology, Princess
+Alexandra Hospital, Woolloongabba, Queensland, Australia. (4)Epithelial
+Pathobiology Group, University of Queensland Diamantina Institute, Princess
+Alexandra Hospital, Translational Research Institute, Woolloongabba, Queensland, 
+Australia. nsaunders@uq.edu.au.
+
+PURPOSE: Head and neck squamous cell carcinomas (HNSCC) are frequently drug
+resistant and have a mortality rate of 45%. We have previously shown that E2F7
+may contribute to drug resistance in SCC cells. However, the mechanism and
+pathways involved remain unknown.
+EXPERIMENTAL DESIGN: We used transcriptomic profiling to identify candidate
+pathways that may contribute to E2F7-dependent resistance to anthracyclines. We
+then manipulated the activity/expression of the candidate pathway using
+overexpression, knockdown, and pharmacological inhibitors in in vitro and in vivo
+models of SCC to demonstrate causality. In addition, we examined the expression
+of E2F7 and a downstream effector in a tissue microarray (TMA) generated from
+HNSCC patient samples.
+RESULTS: E2F7-deficient keratinocytes were selectively sensitive to doxorubicin
+and this was reversed by overexpressing E2F7. Transcriptomic profiling identified
+Sphingosine kinase 1 (Sphk1) as a potential mediator of E2F7-dependent drug
+resistance. Knockdown and overexpression studies revealed that Sphk1 was a
+downstream target of E2F7. TMA studies showed that E2F7 overexpression correlated
+with Sphk1 overexpression in human HNSCC. Moreover, inhibition of Sphk1 by shRNA 
+or the Sphk1-specific inhibitor, SK1-I (BML-EI411), enhanced the sensitivity of
+SCC cells to doxorubicin in vitro and in vivo. Furthermore, E2F7-induced
+doxorubicin resistance was mediated via Sphk1-dependent activation of AKT in
+vitro and in vivo.
+CONCLUSION: We identify a novel drugable pathway in which E2F7 directly increases
+the transcription and activity of the Sphk1/S1P axis resulting in activation of
+AKT and subsequent drug resistance. Collectively, this novel combinatorial
+therapy can potentially be trialed in humans using existing agents.
+
+©2014 American Association for Cancer Research.
+
+PMID: 25411162  [PubMed - indexed for MEDLINE]
+
+
+18. Mol Reprod Dev. 2014 Dec;81(12):1103-14. doi: 10.1002/mrd.22429. Epub 2014 Nov
+12.
+
+The miR-302 cluster transcriptionally regulated by POUV, SOX and STAT5B controls 
+the undifferentiated state through the post-transcriptional repression of PBX3
+and E2F7 in early chick development.
+
+Lee SI(1), Jeon MH, Kim JS, Park JK, Park EW, Jeon IS, Byun SJ.
+
+Author information: 
+(1)Animal Biotechnology Division, National Institute of Animal Science, Rural
+Development Administration, Suwon, 441-706, Republic of Korea.
+
+Early chick development is a systematic process governed by the concerted action 
+of multiple mechanisms that regulate transcription and post-transcriptional
+processes. Post-transcriptional microRNA-mediated regulation, with regard to
+lineage specification and differentiation in early chick development, requires
+further investigation. Here, we characterize the transcriptional and
+post-transcriptional regulation mechanisms in undifferentiated chick blastodermal
+cells. Expression of the miR-302 cluster, POUV, SOX2, and STAT5B decreased in a
+time-dependent manner in early chick development. We found that POUV, SOX2, and
+STAT5B regulate the transcription of the miR-302 cluster, as its 5'-flanking
+region contains binding elements for each transcription factor. Additionally,
+POUV, SOX2, and STAT5B maintain pluripotency by regulating genes containing the
+miR-302 cluster target sequence. For example, microRNAs from the miR-302 cluster 
+can bind to PBX3 and E2F7 transcripts, thus acting as a post-transcriptional
+regulator that maintains the undifferentiated state of blastodermal cells by
+balancing the expression of genes related to pluripotency and differentiation.
+Based on these results, we suggest that both transcriptional and
+post-transcriptional regulation of the miR302 cluster is critical for
+intrinsically controlling the undifferentiated state of chick embryonic
+blastodermal cells. These findings may help our understanding of the cellular and
+molecular mechanisms that underlie developmental decisions during early chick
+development.
+
+© 2014 Wiley Periodicals, Inc.
+
+PMID: 25394196  [PubMed - indexed for MEDLINE]
+
+
+19. Genes Cancer. 2014 Apr;5(1-2):31-40.
+
+CtBP2 proteome: Role of CtBP in E2F7-mediated repression and cell proliferation.
+
+Zhao LJ(1), Subramanian T(1), Vijayalingam S(1), Chinnadurai G(1).
+
+Author information: 
+(1)Institute for Molecular Virology Saint Louis University Health Sciences Center
+Doisy Research Center 1100 South Grand Blvd St. Louis, Missouri 63104.
+
+C-terminal binding protein (CtBP) family transcriptional corepressors include
+CtBP1 and CtBP2. While CtBP1 and CtBP2 share significant amino acid sequence
+homology, CtBP2 possesses a unique N-terminal domain that is modified by
+acetylation and contributes to exclusive nuclear localization. Although CtBP1 and
+CtBP2 are functionally redundant for certain activities during vertebrate
+development, they also perform unique functions. Previous studies have identified
+several CtBP1-interacting proteins that included other transcriptional
+corepressors, DNA-binding repressors and histone modifying enzymatic components
+such as the histone deacetylases and the histone demethylase LSD-1. Here, we
+carried out an unbiased proteomic analysis of CtBP2-associated proteins and
+discovered the association of several components of the CtBP1 proteome as well as
+novel interactions. The CtBP2 proteome contained components of the NuRD complex
+and the E2F family member E2F7. E2F7 interacted with the hydrophobic cleft region
+of CtBP1 and CtBP2 through a prototypical CtBP binding motif, PIDLS. E2F7
+repressed E2F1 transcription, inhibited cell proliferation in a CtBP-dependent
+fashion. Our study identified CtBP as a corepressor of E2F7 and as a regulator of
+DNA damage response.
+
+PMCID: PMC4063256
+PMID: 24955216  [PubMed]
+
+
+20. J Cell Biochem. 2014 Oct;115(10):1816-28. doi: 10.1002/jcb.24852.
+
+High-resolution molecular validation of self-renewal and spontaneous
+differentiation in clinical-grade adipose-tissue derived human mesenchymal stem
+cells.
+
+Dudakovic A(1), Camilleri E, Riester SM, Lewallen EA, Kvasha S, Chen X, Radel DJ,
+Anderson JM, Nair AA, Evans JM, Krych AJ, Smith J, Deyle DR, Stein JL, Stein GS, 
+Im HJ, Cool SM, Westendorf JJ, Kakar S, Dietz AB, van Wijnen AJ.
+
+Author information: 
+(1)Department of Orthopedic Surgery, Mayo Clinic, Rochester, Minnesota.
+
+Improving the effectiveness of adipose-tissue derived human mesenchymal
+stromal/stem cells (AMSCs) for skeletal therapies requires a detailed
+characterization of mechanisms supporting cell proliferation and multi-potency.
+We investigated the molecular phenotype of AMSCs that were either actively
+proliferating in platelet lysate or in a basal non-proliferative state. Flow
+cytometry combined with high-throughput RNA sequencing (RNASeq) and RT-qPCR
+analyses validate that AMSCs express classic mesenchymal cell surface markers
+(e.g., CD44, CD73/NT5E, CD90/THY1, and CD105/ENG). Expression of CD90 is
+selectively elevated at confluence. Self-renewing AMSCs express a standard cell
+cycle program that successively mediates DNA replication, chromatin packaging,
+cyto-architectural enlargement, and mitotic division. Confluent AMSCs
+preferentially express genes involved in extracellular matrix (ECM) formation and
+cellular communication. For example, cell cycle-related biomarkers (e.g., cyclins
+E2 and B2, transcription factor E2F1) and histone-related genes (e.g., H4, HINFP,
+NPAT) are elevated in proliferating AMSCs, while ECM genes are strongly
+upregulated (>10-fold) in quiescent AMSCs. AMSCs also express pluripotency genes 
+(e.g., POU5F1, NANOG, KLF4) and early mesenchymal markers (e.g., NES, ACTA2)
+consistent with their multipotent phenotype. Strikingly, AMSCs modulate
+expression of WNT signaling components and switch production of WNT ligands (from
+WNT5A/WNT5B/WNT7B to WNT2/WNT2B), while upregulating WNT-related genes (WISP2,
+SFRP2, and SFRP4). Furthermore, post-proliferative AMSCs spontaneously express
+fibroblastic, osteogenic, chondrogenic, and adipogenic biomarkers when maintained
+in confluent cultures. Our findings validate the biological properties of
+self-renewing and multi-potent AMSCs by providing high-resolution quality control
+data that support their clinical versatility.
+
+© 2014 Wiley Periodicals, Inc.
+
+PMCID: PMC4225070
+PMID: 24905804  [PubMed - indexed for MEDLINE]
+
+
+21. Cell Signal. 2014 May;26(5):1075-81. doi: 10.1016/j.cellsig.2014.01.008. Epub
+2014 Jan 16.
+
+Promising roles of mammalian E2Fs in hepatocellular carcinoma.
+
+Zhan L(1), Huang C(1), Meng XM(1), Song Y(1), Wu XQ(1), Miu CG(1), Zhan XS(1), Li
+J(2).
+
+Author information: 
+(1)School of Pharmacy, Anhui Medical University, Meishan Road, Hefei 230032,
+China; Institute for Liver Diseases of Anhui Medical University (AMU), China.
+(2)School of Pharmacy, Anhui Medical University, Meishan Road, Hefei 230032,
+China; Institute for Liver Diseases of Anhui Medical University (AMU), China.
+Electronic address: lj@ahmu.edu.cn.
+
+In mammalian cells, E2F family of transcription factors (E2Fs) traditionally
+modulates assorted cellular functions related to cell cycle progression,
+proliferation, apoptosis and differentiation. Eight members, E2F1 E2F8 have been 
+recognized of this family so far, and the members of this family are generally
+divided into activator E2F (E2F1--E2F3a), repressor E2F (E2F3b--E2F5) and
+inhibitor E2F (E2F6--E2F8) subclasses based on their structur-e and function.
+Studies have showed that the mammalian E2F family members represent a recent
+evolutionary adaptation to malignancies besides hepatocellular carcinoma (HCC),
+and a growing body of evidence has validated that the individual members of the
+family develop a close relationship with HCC. E2F1 was identified to play
+overlapping roles in HCC, while E2F2--E2F8 (except E2F6 and E2F7) showed to be
+tumor-promoter in HCC. However, the mechanism underlying the mammalian E2Fs
+associated with HCC is still unknown and needs further research. The aim of this 
+review is to sum up the collective knowledge of E2F family and the roles of each 
+member of this family in HCC. Moreover, we will discuss some novel therapeutic
+target for HCC based on the complicated functions of mammalian E2Fs.
+
+Copyright © 2014. Published by Elsevier Inc.
+
+PMID: 24440307  [PubMed - indexed for MEDLINE]
+
+
+22. PLoS One. 2013 Sep 12;8(9):e73693. doi: 10.1371/journal.pone.0073693. eCollection
+2013.
+
+Atypical E2fs control lymphangiogenesis through transcriptional regulation of
+Ccbe1 and Flt4.
+
+Weijts BG(1), van Impel A, Schulte-Merker S, de Bruin A.
+
+Author information: 
+(1)Department of Pathobiology, Faculty of Veterinary Medicine, Utrecht
+University, Utrecht, The Netherlands.
+
+Erratum in
+    PLoS One. 2013;8(9). doi:10.1371/annotation/25c7c486-9e68-4df9-af01-2fe1c5d1a2d4.
+
+Lymphatic vessels are derived from venous endothelial cells and their formation
+is governed by the Vascular endothelial growth factor C (VegfC)/Vegf receptor 3
+(Vegfr3; Flt4) signaling pathway. Recent studies show that Collagen and Calcium
+Binding EGF domains 1 protein (Ccbe1) enhances VegfC-dependent lymphangiogenesis.
+Both Ccbe1 and Flt4 have been shown to be indispensable for lymphangiogenesis.
+However, how these essential players are transcriptionally regulated remains
+poorly understood. In the case of angiogenesis, atypical E2fs (E2f7 and E2f8)
+however have been recently shown to function as transcriptional activators for
+VegfA. Using a genome-wide approach we here identified both CCBE1 and FLT4 as
+direct targets of atypical E2Fs. E2F7/8 directly bind and stimulate the CCBE1
+promoter, while recruitment of E2F7/8 inhibits the FLT4 promoter. Importantly,
+inactivation of e2f7/8 in zebrafish impaired venous sprouting and
+lymphangiogenesis with reduced ccbe1 expression and increased flt4 expression.
+Remarkably, over-expression of e2f7/8 rescued Ccbe1- and Flt4-dependent
+lymphangiogenesis phenotypes. Together these results identified E2f7/8 as novel
+in vivo transcriptional regulators of Ccbe1 and Flt4, both essential genes for
+venous sprouting and lymphangiogenesis.
+
+PMCID: PMC3771987
+PMID: 24069224  [PubMed - indexed for MEDLINE]
+
+
+23. Cell Cycle. 2013 Sep 15;12(18):2992-3000. doi: 10.4161/cc.26030. Epub 2013 Aug
+13.
+
+Unbiased transcriptome signature of in vivo cell proliferation reveals pro- and
+antiproliferative gene networks.
+
+Cohen M(1), Vecsler M, Liberzon A, Noach M, Zlotorynski E, Tzur A.
+
+Author information: 
+(1)The Mina and Everard Goodman Faculty of Life Sciences; Bar-Ilan University;
+Ramat-Gan, Israel; Advanced Materials and Nanotechnology Institute; Bar-Ilan
+University; Ramat-Gan, Israel.
+
+Different types of mature B-cell lymphocytes are overall highly similar.
+Nevertheless, some B cells proliferate intensively, while others rarely do. Here,
+we demonstrate that a simple binary classification of gene expression in
+proliferating vs. resting B cells can identify, with remarkable selectivity,
+global in vivo regulators of the mammalian cell cycle, many of which are also
+post-translationally regulated by the APC/C E3 ligase. Consequently, we discover 
+a novel regulatory network between the APC/C and the E2F transcription factors
+and discuss its potential impact on the G1-S transition of the cell cycle. In
+addition, by focusing on genes whose expression inversely correlates with
+proliferation, we demonstrate the inherent ability of our approach to also
+identify in vivo regulators of cell differentiation, cell survival, and other
+antiproliferative processes. Relying on data sets of wt, non-transgenic animals, 
+our approach can be applied to other cell lineages and human data sets.
+
+PMCID: PMC3875674
+PMID: 23974109  [PubMed - indexed for MEDLINE]
+
+
+24. Cell Cycle. 2013 Sep 15;12(18):3037-51. doi: 10.4161/cc.26078. Epub 2013 Aug 20.
+
+E2F-7 couples DNA damage-dependent transcription with the DNA repair process.
+
+Zalmas LP(1), Coutts AS, Helleday T, La Thangue NB.
+
+Author information: 
+(1)Laboratory of Cancer Biology; Department of Oncology; University of Oxford;
+Oxford, UK.
+
+The cellular response to DNA damage, mediated by the DNA repair process, is
+essential in maintaining the integrity and stability of the genome. E2F-7 is an
+atypical member of the E2F family with a role in negatively regulating
+transcription and cell cycle progression under DNA damage. Surprisingly, we found
+that E2F-7 makes a transcription-independent contribution to the DNA repair
+process, which involves E2F-7 locating to and binding damaged DNA. Further, E2F-7
+recruits CtBP and HDAC to the damaged DNA, altering the local chromatin
+environment of the DNA lesion. Importantly, the E2F-7 gene is a target for
+somatic mutation in human cancer and tumor-derived mutant alleles encode proteins
+with compromised transcription and DNA repair properties. Our results establish
+that E2F-7 participates in 2 closely linked processes, allowing it to directly
+couple the expression of genes involved in the DNA damage response with the DNA
+repair machinery, which has relevance in human malignancy.
+
+PMCID: PMC3875678
+PMID: 23974101  [PubMed - indexed for MEDLINE]
+
+
+25. PLoS Genet. 2013;9(8):e1003726. doi: 10.1371/journal.pgen.1003726. Epub 2013 Aug 
+15.
+
+Characterization of the p53 cistrome--DNA binding cooperativity dissects p53's
+tumor suppressor functions.
+
+Schlereth K(1), Heyl C, Krampitz AM, Mernberger M, Finkernagel F, Scharfe M,
+Jarek M, Leich E, Rosenwald A, Stiewe T.
+
+Author information: 
+(1)Molecular Oncology, Philipps-University, Marburg, Germany.
+
+p53 protects us from cancer by transcriptionally regulating tumor suppressive
+programs designed to either prevent the development or clonal expansion of
+malignant cells. How p53 selects target genes in the genome in a context- and
+tissue-specific manner remains largely obscure. There is growing evidence that
+the ability of p53 to bind DNA in a cooperative manner prominently influences
+target gene selection with activation of the apoptosis program being completely
+dependent on DNA binding cooperativity. Here, we used ChIP-seq to comprehensively
+profile the cistrome of p53 mutants with reduced or increased cooperativity. The 
+analysis highlighted a particular relevance of cooperativity for extending the
+p53 cistrome to non-canonical binding sequences characterized by deletions,
+spacer insertions and base mismatches. Furthermore, it revealed a striking
+functional separation of the cistrome on the basis of cooperativity; with low
+cooperativity genes being significantly enriched for cell cycle and high
+cooperativity genes for apoptotic functions. Importantly, expression of high but 
+not low cooperativity genes was correlated with superior survival in breast
+cancer patients. Interestingly, in contrast to most p53-activated genes,
+p53-repressed genes did not commonly contain p53 binding elements. Nevertheless, 
+both the degree of gene activation and repression were cooperativity-dependent,
+suggesting that p53-mediated gene repression is largely indirect and mediated by 
+cooperativity-dependently transactivated gene products such as CDKN1A, E2F7 and
+non-coding RNAs. Since both activation of apoptosis genes with non-canonical
+response elements and repression of pro-survival genes are crucial for p53's
+apoptotic activity, the cistrome analysis comprehensively explains why
+p53-induced apoptosis, but not cell cycle arrest, strongly depends on the
+intermolecular cooperation of p53 molecules as a possible safeguard mechanism
+protecting from accidental cell killing.
+
+PMCID: PMC3744428
+PMID: 23966881  [PubMed - indexed for MEDLINE]
+
+
+26. J Biol Chem. 2013 Aug 23;288(34):24581-9. doi: 10.1074/jbc.M113.467506. Epub 2013
+Jul 13.
+
+Interaction of E2F7 transcription factor with E2F1 and C-terminal-binding protein
+(CtBP) provides a mechanism for E2F7-dependent transcription repression.
+
+Liu B(1), Shats I, Angus SP, Gatza ML, Nevins JR.
+
+Author information: 
+(1)Duke Institute for Genome Sciences and Policy, Department of Molecular
+Genetics and Microbiology, Duke University Medical Center, Durham, North Carolina
+27708, USA.
+
+Previous work has identified distinct functions for E2F proteins during a
+cellular proliferative response including a role for E2F1-3 in the activation of 
+transcription at G1/S and a role for E2F4-8 in repressing the same group of
+E2F1-3 target genes as cells progress through S phase. We now find that E2F7 and 
+E2F8, which are induced by E2F1-3 at G1/S, can form a heterodimer with E2F1
+through interactions involving the DNA-binding domains of the two proteins. In
+vitro DNA interaction assays demonstrate the formation of an E2F1-E2F7 complex,
+as well as an E2F7-E2F7 complex on adjacent E2F-binding sites. We also show that 
+E2F7 recruits the co-repressor C-terminal-binding protein (CtBP) and that CtBP2
+is essential for E2F7 to repress E2F1 transcription. Taken together, these
+findings suggest a mechanism for the repression of transcription by E2F7.
+
+PMCID: PMC3750156
+PMID: 23853115  [PubMed - indexed for MEDLINE]
+
+
+27. PLoS One. 2013 Jun 18;8(6):e65644. Print 2013.
+
+PPARß Regulates Liver Regeneration by Modulating Akt and E2f Signaling.
+
+Liu HX(1), Fang Y, Hu Y, Gonzalez FJ, Fang J, Wan YJ.
+
+Author information: 
+(1)Department of Medical Pathology and Laboratory Medicine, University of
+California, Sacramento, California, United States of America.
+
+The current study tests the hypothesis that peroxisome proliferator-activated
+receptor ß (PPARß) has a role in liver regeneration due to its effect in
+regulating energy homeostasis and cell proliferation. The role of PPARß in liver 
+regeneration was studied using two-third partial hepatectomy (PH) in Wild-type
+(WT) and PPARß-null (KO) mice. In KO mice, liver regeneration was delayed and the
+number of Ki-67 positive cells reached the peak at 60 hr rather than at 36-48 hr 
+after PH shown in WT mice. RNA-sequencing uncovered 1344 transcriptomes that were
+differentially expressed in regenerating WT and KO livers. About 70% of those
+differentially expressed genes involved in glycolysis and fatty acid synthesis
+pathways failed to induce during liver regeneration due to PPARß deficiency. The 
+delayed liver regeneration in KO mice was accompanied by lack of activation of
+phosphoinositide-dependent kinase 1 (PDK1)/Akt. In addition, cell
+proliferation-associated increase of genes encoding E2f transcription factor
+(E2f) 1-2 and E2f7-8 as well as their downstream target genes were not noted in
+KO livers 36-48 hr after PH. E2fs have dual roles in regulating metabolism and
+proliferation. Moreover, transient steatosis was only found in WT, but not in KO 
+mice 36 hr after PH. These data suggested that PPARß-regulated PDK1/Akt and E2f
+signaling that controls metabolism and proliferation is involved in the normal
+progression of liver regeneration.
+
+PMCID: PMC3688817
+PMID: 23823620  [PubMed - as supplied by publisher]
+
+
+28. Cell Rep. 2013 Apr 25;3(4):1252-65. doi: 10.1016/j.celrep.2013.03.004. Epub 2013 
+Apr 4.
+
+Suppression of nucleotide metabolism underlies the establishment and maintenance 
+of oncogene-induced senescence.
+
+Aird KM(1), Zhang G, Li H, Tu Z, Bitler BG, Garipov A, Wu H, Wei Z, Wagner SN,
+Herlyn M, Zhang R.
+
+Author information: 
+(1)Gene Expression and Regulation Program, The Wistar Institute Cancer Center,
+The Wistar Institute, Philadelphia, PA 19104, USA.
+
+Oncogene-induced senescence is characterized by a stable cell growth arrest, thus
+providing a tumor suppression mechanism. However, the underlying mechanisms for
+this phenomenon remain unknown. Here, we show that a decrease in
+deoxyribonucleotide triphosphate (dNTP) levels underlies oncogene-induced stable 
+senescence-associated cell growth arrest. The decrease in dNTP levels is caused
+by oncogene-induced repression of ribonucleotide reductase subunit M2 (RRM2), a
+rate-limiting protein in dNTP synthesis. This precedes the senescence-associated 
+cell-cycle exit and coincides with the DNA damage response. Consistently, RRM2
+downregulation is both necessary and sufficient for senescence. Strikingly,
+suppression of nucleotide metabolism by RRM2 repression is also necessary for
+maintenance of the stable senescence-associated cell growth arrest. Furthermore, 
+RRM2 repression correlates with senescence status in benign nevi and melanoma,
+and its knockdown drives senescence of melanoma cells. These data reveal the
+molecular basis whereby the stable growth arrest of oncogene-induced senescence
+is established and maintained through suppression of nucleotide metabolism.
+
+Copyright © 2013 The Authors. Published by Elsevier Inc. All rights reserved.
+
+PMCID: PMC3840499
+PMID: 23562156  [PubMed - indexed for MEDLINE]
+
+
+29. Oncogene. 2014 Mar 13;33(11):1407-17. doi: 10.1038/onc.2013.86. Epub 2013 Mar 18.
+
+Downregulation of serine/arginine-rich splicing factor 3 induces G1 cell cycle
+arrest and apoptosis in colon cancer cells.
+
+Kurokawa K(1), Akaike Y(1), Masuda K(1), Kuwano Y(1), Nishida K(1), Yamagishi
+N(1), Kajita K(1), Tanahashi T(1), Rokutan K(1).
+
+Author information: 
+(1)Department of Stress Science, Institute of Health Biosciences, The University 
+of Tokushima Graduate School, Tokushima, Japan.
+
+Serine/arginine-rich splicing factor 3 (SRSF3) likely has wide-ranging roles in
+gene expression and facilitation of tumor cell growth. SRSF3 knockdown induced G1
+arrest and apoptosis in colon cancer cells (HCT116) in association with altered
+expression of 833 genes. Pathway analysis revealed 'G1/S Checkpoint Regulation'
+as the most highly enriched category in the affected genes. SRSF3 knockdown did
+not induce p53 or stimulate phosphorylation of p53 or histone H2A.X in wild-type 
+HCT116 cells. Furthermore, the knockdown induced G1 arrest in p53-null HCT116
+cells, suggesting that p53-dependent DNA damage responses did not mediate the G1 
+arrest. Real-time reverse transcription-polymerase chain reaction and western
+blotting confirmed that SRSF3 knockdown reduced mRNA and protein levels of
+cyclins (D1, D3 and E1), E2F1 and E2F7. The decreased expression of cyclin D and 
+E2F1 likely impaired the G1-to-S-phase progression. Consequently, retinoblastoma 
+protein remained hypophosphorylated in SRSF3 knockdown cells. The knockdown also 
+induced apoptosis in association with reduction of BCL2 protein levels. We also
+found that SRSF3 knockdown facilitated skipping of 81 5'-nucleotides (27 amino
+acids) from exon 8 of homeodomain-interacting protein kinase-2 (HIPK2) and
+produced a HIPK2 <U+0394>e8 isoform. Full-length HIPK2 (HIPK2 FL) is constantly degraded
+through association with an E3 ubiquitin ligase (Siah-1), whereas HIPK2 <U+0394>e8,
+lacking the 27 amino acids, lost Siah-1-binding ability and became resistant to
+proteasome digestion. Interestingly, selective knockdown of HIPK2 FL induced
+apoptosis in various colon cancer cells expressing wild-type or mutated p53.
+Thus, these findings disclose an important role of SRSF3 in the regulation of the
+G1-to-S-phase progression and alternative splicing of HIPK2 in tumor growth.
+
+PMID: 23503458  [PubMed - indexed for MEDLINE]
+
+
+30. Transcription. 2013 Mar-Apr;4(2):62-6. doi: 10.4161/trns.23680. Epub 2013 Feb 14.
+
+HIF proteins connect the RB-E2F factors to angiogenesis.
+
+Bakker WJ(1), Weijts BG, Westendorp B, de Bruin A.
+
+Author information: 
+(1)Department of Pathobiology, Faculty of Veterinary Medicine, Utrecht
+University, Utrecht, The Netherlands.
+
+Recently, we showed that E2F7 and E2F8 (E2F7/8) are critical regulators of
+angiogenesis through transcriptional control of VEGFA in cooperation with HIF.
+(1) Here we investigate the existence of other novel putative angiogenic
+E2F7/8-HIF targets, and discuss the role of the RB-E2F pathway in regulating
+angiogenesis during embryonic and tumor development.
+
+PMCID: PMC3646055
+PMID: 23412359  [PubMed - indexed for MEDLINE]
+
+
+31. Cell Death Dis. 2012 Oct 25;3:e413. doi: 10.1038/cddis.2012.151.
+
+The microRNA-26a target E2F7 sustains cell proliferation and inhibits monocytic
+differentiation of acute myeloid leukemia cells.
+
+Salvatori B(1), Iosue I, Mangiavacchi A, Loddo G, Padula F, Chiaretti S, Peragine
+N, Bozzoni I, Fazi F, Fatica A.
+
+Author information: 
+(1)Department of Biology and Biotechnology 'Charles Darwin' and Institute Pasteur
+Cenci-Bolognetti, Sapienza University of Rome, Rome, Italy.
+
+Blocks in genetic programs required for terminal myeloid differentiation and
+aberrant proliferation characterize acute myeloid leukemia (AML) cells.
+1,25-Dihydroxy-vitamin D3 (VitD3) arrests proliferation of AML cells and induces 
+their differentiation into mature monocytes. In a previous study, we showed that 
+miR-26a was induced upon VitD3-mediated monocytic differentiation. Here, we
+identify E2F7 as a novel target of miR-26a. We show that E2F7 significantly
+promotes cell cycle progression and inhibits monocytic differentiation of AML
+cells. We also demonstrate that E2F7 binds the cyclin-dependent kinase inhibitor 
+p21(CIP1/WAF1) (cyclin-dependent kinase inhibitor 1A) promoter repressing its
+expression. Moreover, interfering with E2F7 expression results in inhibition of
+c-Myc (v-myc myelocytomatosis viral oncogene homolog) transcriptional activity.
+This leads to the downregulation of c-Myc transcriptional target miR-17-92
+cluster, whose expression has a well-defined role in contributing to block
+monocytic differentiation and sustain AML cell proliferation. Finally, we show
+that the expression of E2F7 is upregulated in primary blasts from AML patients.
+Thus, these findings indicate that the newly identified miR-26a target E2F7 might
+have an important role in monocytic differentiation and leukemogenesis.
+
+PMCID: PMC3481138
+PMID: 23096114  [PubMed - indexed for MEDLINE]
+
+
+32. Nat Cell Biol. 2012 Nov;14(11):1192-202. doi: 10.1038/ncb2595. Epub 2012 Oct 14.
+
+Canonical and atypical E2Fs regulate the mammalian endocycle.
+
+Chen HZ(1), Ouseph MM, Li J, Pécot T, Chokshi V, Kent L, Bae S, Byrne M, Duran C,
+Comstock G, Trikha P, Mair M, Senapati S, Martin CK, Gandhi S, Wilson N, Liu B,
+Huang YW, Thompson JC, Raman S, Singh S, Leone M, Machiraju R, Huang K, Mo X,
+Fernandez S, Kalaszczynska I, Wolgemuth DJ, Sicinski P, Huang T, Jin V, Leone G.
+
+Author information: 
+(1)Solid Tumor Biology Program, Department of Molecular Virology, Immunology and 
+Medical Genetics, Department of Molecular Genetics, Comprehensive Cancer Center, 
+The Ohio State University, Columbus, Ohio 43210, USA.
+
+The endocycle is a variant cell cycle consisting of successive DNA synthesis and 
+gap phases that yield highly polyploid cells. Although essential for metazoan
+development, relatively little is known about its control or physiologic role in 
+mammals. Using lineage-specific cre mice we identified two opposing arms of the
+E2F program, one driven by canonical transcription activation (E2F1, E2F2 and
+E2F3) and the other by atypical repression (E2F7 and E2F8), that converge on the 
+regulation of endocycles in vivo. Ablation of canonical activators in the two
+endocycling tissues of mammals, trophoblast giant cells in the placenta and
+hepatocytes in the liver, augmented genome ploidy, whereas ablation of atypical
+repressors diminished ploidy. These two antagonistic arms coordinate the
+expression of a unique G2/M transcriptional program that is critical for mitosis,
+karyokinesis and cytokinesis. These results provide in vivo evidence for a direct
+role of E2F family members in regulating non-traditional cell cycles in mammals.
+
+PMCID: PMC3616487
+PMID: 23064266  [PubMed - indexed for MEDLINE]
+
+
+33. Nat Cell Biol. 2012 Nov;14(11):1181-91. doi: 10.1038/ncb2585. Epub 2012 Oct 14.
+
+E2F8 is essential for polyploidization in mammalian cells.
+
+Pandit SK(1), Westendorp B, Nantasanti S, van Liere E, Tooten PC, Cornelissen PW,
+Toussaint MJ, Lamers WH, de Bruin A.
+
+Author information: 
+(1)Department of Pathobiology, Faculty of Veterinary Medicine, Utrecht
+University, 3584CL Utrecht, The Netherlands.
+
+Polyploidization is observed in all mammalian species and is a characteristic
+feature of hepatocytes, but its molecular mechanism and biological significance
+are unknown. Hepatocyte polyploidization in rodents occurs through incomplete
+cytokinesis, starts after weaning and increases with age. Here, we show in mice
+that atypical E2F8 is induced after weaning and required for hepatocyte
+binucleation and polyploidization. A deficiency in E2f8 led to an increase in the
+expression level of E2F target genes promoting cytokinesis and thereby preventing
+polyploidization. In contrast, loss of E2f1 enhanced polyploidization and
+suppressed the polyploidization defect of hepatocytes deficient for atypical
+E2Fs. In addition, E2F8 and E2F1 were found on the same subset of target
+promoters. Contrary to the long-standing hypothesis that polyploidization
+indicates terminal differentiation and senescence, we show that prevention of
+polyploidization through inactivation of atypical E2Fs has, surprisingly, no
+impact on liver differentiation, zonation, metabolism and regeneration. Together,
+these results identify E2F8 as a repressor and E2F1 as an activator of a
+transcriptional network controlling polyploidization in mammalian cells.
+
+PMID: 23064264  [PubMed - indexed for MEDLINE]
+
+
+34. Invest New Drugs. 2013 Apr;31(2):458-60. doi: 10.1007/s10637-012-9882-y. Epub
+2012 Oct 2.
+
+The non-genotoxic activator of the p53 pathway Nutlin-3 shifts the balance
+between E2F7 and E2F1 transcription factors in leukemic cells.
+
+di Iasio MG(1), Zauli G.
+
+Author information: 
+(1)Department of Morphology and Embryology, University of Ferrara, Ferrara,
+Italy.
+
+The effect of Nutlin-3, a small molecule inhibitor of the MDM2/p53 interaction,
+was investigated on the steady-state mRNA levels of the transcription factors
+E2F1 and E2F7 in a cohort of primary B-chronic lymphocytic leukemia (B-CLL)
+patient samples (n = 15) and normal peripheral blood mononuclear cells (PBMC). A 
+24-h treatment with Nutlin-3 significantly down-regulated E2F1 and promoted the
+concomitant up-regulation of E2F7 in both leukemic and normal cells. Our data
+suggest that the ability of Nutlin-3 to up-regulate E2F7 likely represents an
+important molecular determinant in the anti-proliferative activity of Nutlin-3.
+
+PMID: 23054209  [PubMed - indexed for MEDLINE]
+
+
+35. EMBO J. 2012 Oct 3;31(19):3871-84. doi: 10.1038/emboj.2012.231. Epub 2012 Aug 17.
+
+E2F7 and E2F8 promote angiogenesis through transcriptional activation of VEGFA in
+cooperation with HIF1.
+
+Weijts BG(1), Bakker WJ, Cornelissen PW, Liang KH, Schaftenaar FH, Westendorp B, 
+de Wolf CA, Paciejewska M, Scheele CL, Kent L, Leone G, Schulte-Merker S, de
+Bruin A.
+
+Author information: 
+(1)Department of Pathobiology, Faculty of Veterinary Medicine, Utrecht
+University, Utrecht, The Netherlands.
+
+The E2F family of transcription factors plays an important role in controlling
+cell-cycle progression. While this is their best-known function, we report here
+novel functions for the newest members of the E2F family, E2F7 and E2F8 (E2F7/8).
+We show that simultaneous deletion of E2F7/8 in zebrafish and mice leads to
+severe vascular defects during embryonic development. Using a panel of transgenic
+zebrafish with fluorescent-labelled blood vessels, we demonstrate that E2F7/8 are
+essential for proper formation of blood vessels. Despite their classification as 
+transcriptional repressors, we provide evidence for a molecular mechanism through
+which E2F7/8 activate the transcription of the vascular endothelial growth factor
+A (VEGFA), a key factor in guiding angiogenesis. We show that E2F7/8 directly
+bind and stimulate the VEGFA promoter independent of canonical E2F binding
+elements. Instead, E2F7/8 form a transcriptional complex with the hypoxia
+inducible factor 1 (HIF1) to stimulate VEGFA promoter activity. These results
+uncover an unexpected link between E2F7/8 and the HIF1-VEGFA pathway providing a 
+molecular mechanism by which E2F7/8 control angiogenesis.
+
+PMCID: PMC3463843
+PMID: 22903062  [PubMed - indexed for MEDLINE]
+
+
+36. Genes Dev. 2012 Jul 15;26(14):1546-57. doi: 10.1101/gad.196238.112.
+
+The atypical E2F family member E2F7 couples the p53 and RB pathways during
+cellular senescence.
+
+Aksoy O(1), Chicas A, Zeng T, Zhao Z, McCurrach M, Wang X, Lowe SW.
+
+Author information: 
+(1)Memorial Sloan Kettering Cancer Center, New York, New York 10065, USA.
+
+Oncogene-induced senescence is an anti-proliferative stress response program that
+acts as a fail-safe mechanism to limit oncogenic transformation and is regulated 
+by the retinoblastoma protein (RB) and p53 tumor suppressor pathways. We identify
+the atypical E2F family member E2F7 as the only E2F transcription factor potently
+up-regulated during oncogene-induced senescence, a setting where it acts in
+response to p53 as a direct transcriptional target. Once induced, E2F7 binds and 
+represses a series of E2F target genes and cooperates with RB to efficiently
+promote cell cycle arrest and limit oncogenic transformation. Disruption of RB
+triggers a further increase in E2F7, which induces a second cell cycle checkpoint
+that prevents unconstrained cell division despite aberrant DNA replication.
+Mechanistically, E2F7 compensates for the loss of RB in repressing mitotic E2F
+target genes. Together, our results identify a causal role for E2F7 in cellular
+senescence and uncover a novel link between the RB and p53 pathways.
+
+PMCID: PMC3404383
+PMID: 22802529  [PubMed - indexed for MEDLINE]
+
+
+37. Genes Dev. 2012 Jul 15;26(14):1533-45. doi: 10.1101/gad.184911.111.
+
+E2F7, a novel target, is up-regulated by p53 and mediates DNA damage-dependent
+transcriptional repression.
+
+Carvajal LA(1), Hamard PJ, Tonnessen C, Manfredi JJ.
+
+Author information: 
+(1)Department of Oncological Sciences, Mount Sinai School of Medicine, New York, 
+New York 10029, USA.
+
+The p53 tumor suppressor protein is a transcription factor that exerts its
+effects on the cell cycle via regulation of gene expression. Although the
+mechanism of p53-dependent transcriptional activation has been well-studied, the 
+molecular basis for p53-mediated repression has been elusive. The E2F family of
+transcription factors has been implicated in regulation of cell cycle-related
+genes, with E2F6, E2F7, and E2F8 playing key roles in repression. In response to 
+cellular DNA damage, E2F7, but not E2F6 or E2F8, is up-regulated in a
+p53-dependent manner, with p53 being sufficient to increase expression of E2F7.
+Indeed, p53 occupies the promoter of the E2F7 gene after genotoxic stress,
+consistent with E2F7 being a novel p53 target. Ablation of E2F7 expression
+abrogates p53-dependent repression of a subset of its targets, including E2F1 and
+DHFR, in response to DNA damage. Furthermore, E2F7 occupancy of the E2F1 and DHFR
+promoters is detected, and expression of E2F7 is sufficient to inhibit cell
+proliferation. Taken together, these results show that p53-dependent
+transcriptional up-regulation of its target, E2F7, leads to repression of
+relevant gene expression. In turn, this E2F7-dependent mechanism contributes to
+p53-dependent cell cycle arrest in response to DNA damage.
+
+PMCID: PMC3404382
+PMID: 22802528  [PubMed - indexed for MEDLINE]
+
+
+38. Dev Cell. 2012 Apr 17;22(4):849-62. doi: 10.1016/j.devcel.2012.01.013.
+
+Atypical E2F repressors and activators coordinate placental development.
+
+Ouseph MM(1), Li J, Chen HZ, Pécot T, Wenzel P, Thompson JC, Comstock G, Chokshi 
+V, Byrne M, Forde B, Chong JL, Huang K, Machiraju R, de Bruin A, Leone G.
+
+Author information: 
+(1)Solid Tumor Biology Program, Department of Molecular Virology, Immunology and 
+Medical Genetics, Human Cancer Genetics Program, Comprehensive Cancer Center,
+College of Medicine and Public Health, The Ohio State University, Columbus, OH
+43210, USA.
+
+The evolutionarily ancient arm of the E2f family of transcription factors
+consisting of the two atypical members E2f7 and E2f8 is essential for murine
+embryonic development. However, the critical tissues, cellular processes, and
+molecular pathways regulated by these two factors remain unknown. Using a series 
+of fetal and placental lineage-specific cre mice, we show that E2F7/E2F8
+functions in extraembryonic trophoblast lineages are both necessary and
+sufficient to carry fetuses to term. Expression profiling and biochemical
+approaches exposed the canonical E2F3a activator as a key family member that
+antagonizes E2F7/E2F8 functions. Remarkably, the concomitant loss of E2f3a
+normalized placental gene expression programs, corrected placental defects, and
+fostered the survival of E2f7/E2f8-deficient embryos to birth. In summary, we
+identified a placental transcriptional network tightly coordinated by activation 
+and repression through two distinct arms of the E2F family that is essential for 
+extraembryonic cell proliferation, placental development, and fetal viability.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+PMCID: PMC3483796
+PMID: 22516201  [PubMed - indexed for MEDLINE]
+
+
+39. Blood. 2012 May 10;119(19):4532-42. doi: 10.1182/blood-2011-10-388231. Epub 2012 
+Mar 14.
+
+Concomitant inactivation of Rb and E2f8 in hematopoietic stem cells synergizes to
+induce severe anemia.
+
+Hu T(1), Ghazaryan S, Sy C, Wiedmeyer C, Chang V, Wu L.
+
+Author information: 
+(1)Department of Microbiology and Molecular Genetics, New Jersey Medical
+School-University Hospital Cancer Center, University of Medicine and Dentistry of
+New Jersey, Newark, NJ 07103, USA.
+
+The retinoblastoma (Rb) tumor suppressor plays important roles in regulating
+hematopoiesis, particularly erythropoiesis. In an effort to understand whether Rb
+function can be mediated by E2F transcription factors in a BM-derived
+hematopoietic system in mice, we uncovered a functional synergy between Rb and
+E2F8 to promote erythropoiesis and to prevent anemia. Specifically, whereas
+Mx1-Cre-mediated inactivation of Rb or E2f8 in hematopoietic stem cells only led 
+to mild erythropoietic defects, concomitant inactivation of both genes resulted
+in marked ineffective erythropoiesis and mild hemolysis, leading to severe anemia
+despite the presence of enhanced extramedullary erythropoiesis. Interestingly,
+although ineffective erythropoiesis was already present in the Rb<U+0394>/<U+0394> mice and
+exacerbated in the Rb<U+0394>/<U+0394>;E2f8<U+0394>/<U+0394> mice, hemolysis was exclusively manifested in
+the double-knockout mice. Using an adoptive transfer system and an
+erythroid-specific knockout system, we have shown that the synergy of Rb and E2f8
+deficiency in triggering severe anemia is intrinsic to the erythroid lineage.
+Surprisingly, concomitant inactivation of Rb and E2f7, a close family member of
+E2f8, did not substantially worsen the erythropoietic defect resulted from Rb
+deficiency. The results of the present study reveal the specificity of E2F8 in
+mediating Rb function in erythropoiesis and suggest critical and overlapping
+roles of Rb and E2f8 in maintaining normal erythropoiesis and in preventing
+hemolysis.
+
+PMCID: PMC3362366
+PMID: 22422820  [PubMed - indexed for MEDLINE]
+
+
+40. Lab Invest. 2012 Apr;92(4):571-83. doi: 10.1038/labinvest.2012.10. Epub 2012 Feb 
+13.
+
+Downregulation of microRNAs miR-1, -206 and -29 stabilizes PAX3 and CCND2
+expression in rhabdomyosarcoma.
+
+Li L(1), Sarver AL, Alamgir S, Subramanian S.
+
+Author information: 
+(1)Department of Surgery, University of Minnesota, Minneapolis, MN 55455, USA.
+
+Elevated levels of PAX3 and cell proliferation genes are characteristic features 
+of rhabdomyosarcoma (RMS). We hypothesize that the increased levels of these
+genes are stabilized due to downregulation of specific miRNAs. In this study, we 
+show that downregulation of miR-1, -206 and -29 stabilizes the expression of PAX3
+and CCND2 in both embryonal (ERMS) and alveolar (ARMS) RMS types. Ectopic
+expression of miR-1 and 206 in JR1, an ERMS cell line, show significant
+downregulation of PAX3 protein expression, whereas overexpression of these miRNAs
+in Rh30, an ARMS cell line, did not show any effect in PAX3 protein levels. In
+ARMS, PAX3 forms a fusion transcript with FOXO1 and the resultant loss of PAX3
+3'UTR in the fusion transcript indicate an oncogenic mechanism to evade
+miRNA-mediated regulation of PAX3. Further, we show that miR-1, -206 and -29 can 
+regulate the expression of CCND2, a cell cycle gene. In addition to CCND2, miR-29
+also targets E2F7, another cell cycle regulator. Cell function analysis shows
+that overexpression of miR-29 downregulates the expression of these cell cycle
+genes, induces partial G1 arrest leading to decreased cell proliferation. Taken
+together our data suggest that the RMS state is stabilized by the deregulation of
+multiple miRNAs and their target genes, supporting a tumor suppressor role for
+these miRNA.
+
+PMID: 22330340  [PubMed - indexed for MEDLINE]
+
+
+41. Int J Mol Sci. 2011;12(12):8947-60. doi: 10.3390/ijms12128947. Epub 2011 Dec 6.
+
+The role of the E2F transcription factor family in UV-induced apoptosis.
+
+Hazar-Rethinam M(1), Endo-Munoz L, Gannon O, Saunders N.
+
+Author information: 
+(1)Epithelial Pathobiology Group, University of Queensland Diamantina Institute, 
+Princess Alexandra Hospital, Queensland 4102, Australia. m.rethinam@uq.edu.au
+
+The E2F transcription factor family is traditionally associated with cell cycle
+control. However, recent data has shown that activating E2Fs (E2F1-3a) are potent
+activators of apoptosis. In contrast, the recently cloned inhibitory E2Fs (E2F7
+and 8) appear to antagonize E2F-induced cell death. In this review we will
+discuss (i) the potential role of E2Fs in UV-induced cell death and (ii) the
+implications of this to the development of UV-induced cutaneous malignancies.
+
+PMCID: PMC3257110
+PMID: 22272113  [PubMed - indexed for MEDLINE]
+
+
+42. Nucleic Acids Res. 2012 Apr;40(8):3511-23. doi: 10.1093/nar/gkr1203. Epub 2011
+Dec 17.
+
+E2F7 represses a network of oscillating cell cycle genes to control S-phase
+progression.
+
+Westendorp B(1), Mokry M, Groot Koerkamp MJ, Holstege FC, Cuppen E, de Bruin A.
+
+Author information: 
+(1)Department of Pathobiology, Faculty of Veterinary Medicine, Utrecht
+University, Utrecht, The Netherlands.
+
+E2F transcription factors are known to be important for timely activation of
+G(1)/S and G(2)/M genes required for cell cycle progression, but transcriptional 
+mechanisms for deactivation of cell cycle-regulated genes are unknown. Here, we
+show that E2F7 is highly expressed during mid to late S-phase, occupies promoters
+of G(1)/S-regulated genes and represses their transcription. ChIP-seq analysis
+revealed that E2F7 binds preferentially to genomic sites containing the TTCCCGCC 
+motif, which closely resembles the E2F consensus site. We identified 89 target
+genes that carry E2F7 binding sites close to the transcriptional start site and
+that are directly repressed by short-term induction of E2F7. Most of these target
+genes are known to be activated by E2Fs and are involved in DNA replication,
+metabolism and DNA repair. Importantly, induction of E2F7 during G(0)-G(1)/S
+resulted in S-phase arrest and DNA damage, whereas expression of E2F7 during
+G(2)/M failed to disturb cell cycle progression. These findings provide strong
+evidence that E2F7 directly controls the downswing of oscillating G(1)/S genes
+during S-phase progression.
+
+PMCID: PMC3333892
+PMID: 22180533  [PubMed - indexed for MEDLINE]
+
+
+43. Genetics. 2011 Aug;188(4):897-905. doi: 10.1534/genetics.111.128421. Epub 2011
+May 19.
+
+Hox and a newly identified E2F co-repress cell death in Caenorhabditis elegans.
+
+Winn J(1), Carter M, Avery L, Cameron S.
+
+Author information: 
+(1)Department of Molecular Biology, University of Texas Southwestern Medical
+Center, Dallas, Texas 75235-9148, USA. jennifer.winn@utsouthwestern.edu
+
+The development of an organism depends on individual cells receiving and
+executing their specific fates, although how this process is regulated remains
+largely unknown. Here, we identify a mechanism by which a specific cell fate,
+apoptosis, is determined through the cooperative efforts of Hox and E2F proteins.
+E2F transcription factors are critical, conserved regulators of the cell cycle
+and apoptosis. However, little is known about the two most recently discovered
+mammalian E2Fs-E2F7 and E2F8. In the nematode Caenorhabditis elegans, we identify
+a novel E2F7/8 homolog, EFL-3, and show that EFL-3 functions cooperatively with
+LIN-39, providing the first example in which these two major developmental
+pathways-E2F and Hox-are able to directly regulate the same target gene. Our
+studies demonstrate that LIN-39 and EFL-3 function in a cell type-specific
+context to regulate transcription of the egl-1 BH3-only cell death gene and to
+determine cell fate during development.
+
+PMCID: PMC3176086
+PMID: 21596899  [PubMed - indexed for MEDLINE]
+
+
+44. Gastroenterology. 2011 Jul;141(1):326-37, 337.e1-3. doi:
+10.1053/j.gastro.2011.03.047. Epub 2011 Mar 27.
+
+The promoter of human telomerase reverse transcriptase is activated during liver 
+regeneration and hepatocyte proliferation.
+
+Sirma H(1), Kumar M, Meena JK, Witt B, Weise JM, Lechel A, Ande S, Sakk V,
+Guguen-Guillouzo C, Zender L, Rudolph KL, Günes C.
+
+Author information: 
+(1)Heinrich-Pette-Institute, Hamburg, Germany.
+
+BACKGROUND & AIMS: Telomerase activity has not been detected in healthy human
+liver biopsy samples, but it is up-regulated in most human liver tumors. It is
+not clear whether telomerase is activated in response to acute or chronic liver
+injury. Telomerase activity is closely associated with expression of its
+catalytic subunit, telomerase reverse transcriptase (TERT). We analyzed the
+activity of the human TERT (hTERT) promoter during liver regeneration in vivo and
+hepatocyte proliferation in vitro.
+METHODS: We used hTERTp-lacZ transgenic mice, which contain an 8.0-kilobase pair 
+fragment of the hTERT gene promoter, to study the role of TERT in liver
+regeneration following partial hepatectomy. As an in vitro model, we used the
+HepaRG cell line as a new model system for human hepatocyte proliferation and
+differentiation.
+RESULTS: Activity of the hTERT promoter increased significantly after partial
+hepatectomy; it was also induced in hepatocytes, based on immunohistologic
+analysis. Similar to the in vivo results, telomerase activity and hTERT
+expression were up-regulated in proliferating HepaRG cells and repressed in
+response to growth arrest and differentiation. Promoter mapping revealed that a
+proximal 0.3-kilobase pair fragment contains all elements necessary for
+regulation of hTERT in HepaRG cells. We identified E2F2 and E2F7 as transcription
+factors that control the differential expression of hTERT in proliferating
+hepatocytes, in vitro and in vivo.
+CONCLUSIONS: hTERT is induced in hepatocytes during liver regeneration,
+indicating a functional role for telomerase in human liver.
+
+Copyright © 2011 AGA Institute. Published by Elsevier Inc. All rights reserved.
+
+PMID: 21447332  [PubMed - indexed for MEDLINE]
+
+
+45. J Invest Dermatol. 2011 May;131(5):1077-84. doi: 10.1038/jid.2010.430. Epub 2011 
+Jan 20.
+
+Loss of E2F7 expression is an early event in squamous differentiation and causes 
+derepression of the key differentiation activator Sp1.
+
+Hazar-Rethinam M(1), Cameron SR, Dahler AL, Endo-Munoz LB, Smith L, Rickwood D,
+Saunders NA.
+
+Author information: 
+(1)Epithelial Pathobiology Group, Diamantina Institute, Princess Alexandra
+Hospital, University of Queensland, Brisbane, Queensland, Australia.
+
+Squamous differentiation is controlled by key transcription factors such as Sp1
+and E2F. We have previously shown that E2F1 can suppress transcription of the
+differentiation-specific gene, transglutaminase type 1 (TG1), by an indirect
+mechanism mediated by Sp1. Transient transfection of E2F1-E2F6 indicated that
+E2F-mediated reduction of Sp1 transcription was not responsible for E2F-mediated 
+suppression of squamous differentiation. However, we found that E2F4 and E2F7,
+but not E2Fs 1, 2, 3, 5, or 6, could suppress the activation of the Sp1 promoter 
+in differentiated keratinocytes (KCs). E2F4-mediated suppression could not be
+antagonized by E2Fs 1, 2, 3, 5, or 6 and was localized to a region of the human
+Sp1 promoter spanning -139 to + 35 bp. Chromatin immunoprecipitation analysis, as
+well as transient overexpression and short hairpin RNA knockdown experiments
+indicate that E2F7 binds to a unique binding site located between -139 and -119
+bp of the Sp1 promoter, and knockdown of E2F7 in proliferating KCs leads to a
+derepression of Sp1 expression and the induction of TG1. In contrast, E2F4
+knockdown in proliferating KCs did not alter Sp1 expression. These data indicate 
+that loss of E2F7 during the initiation of differentiation leads to the
+derepression of Sp1 and subsequent transcription of differentiation-specific
+genes such as TG1.
+
+PMID: 21248772  [PubMed - indexed for MEDLINE]
+
+
+46. Toxicol In Vitro. 2010 Oct;24(7):1962-70. doi: 10.1016/j.tiv.2010.08.007. Epub
+2010 Aug 21.
+
+Validation of reference gene stability for APAP hepatotoxicity studies in
+different in vitro systems and identification of novel potential toxicity
+biomarkers.
+
+Fox BC(1), Devonshire AS, Schutte ME, Foy CA, Minguez J, Przyborski S, Maltman D,
+Bokhari M, Marshall D.
+
+Author information: 
+(1)LGC Limited, Queens Road, Teddington, Middlesex TW11 0LY, United Kingdom.
+
+Liver cell lines and primary hepatocytes are becoming increasingly valuable for
+in vitro toxicogenomic studies, with RT-qPCR enabling the analysis of gene
+expression profiles following exposure to potential hepatotoxicants. Supporting
+the accurate normalisation of RT-qPCR data requires the identification of
+reference genes which have stable expression during in vitro toxicology studies. 
+Therefore, we performed a comprehensive analysis of reference gene stability in
+two routinely used cell types, (HepG2 cells and primary rat hepatocytes), and two
+in vitro culture systems, (2D monolayer and 3D scaffolds). A robust reference
+gene validation strategy was performed, consisting of geNorm analysis, to test
+for pair wise variation in gene expression, and statistical analysis using
+analysis of variance. This strategy identified stable reference genes with
+respect to acetaminophen treatment and time in HepG2 cells (GAPDH and PPIA), and 
+with respect to acetaminophen treatment and culture condition in primary
+hepatocytes (18S rRNA and a-tubulin). Following the selection of reference genes,
+the novel target genes E2F7 and IL-11RA were identified as potential toxicity
+biomarkers for acetaminophen treatment. We conclude that accurate quantification 
+of gene expression requires the use of a validated normalisation strategy for
+each species and experimental system employed.
+
+Copyright © 2010 Elsevier Ltd. All rights reserved.
+
+PMID: 20732408  [PubMed - indexed for MEDLINE]
+
+
+47. BMC Med Genomics. 2009 Dec 15;2:68. doi: 10.1186/1755-8794-2-68.
+
+A transcriptomic computational analysis of mastic oil-treated Lewis lung
+carcinomas reveals molecular mechanisms targeting tumor cell growth and survival.
+
+Moulos P(1), Papadodima O, Chatziioannou A, Loutrari H, Roussos C, Kolisis FN.
+
+Author information: 
+(1)Institute of Biological Research and Biotechnology, National Hellenic Research
+Foundation, Athens, Greece. pmoulos@eie.gr
+
+BACKGROUND: Mastic oil from Pistacia lentiscus variation chia, a blend of
+bioactive terpenes with recognized medicinal properties, has been recently shown 
+to exert anti-tumor growth activity through inhibition of cancer cell
+proliferation, survival, angiogenesis and inflammatory response. However, no
+studies have addressed its mechanisms of action at genome-wide gene expression
+level.
+METHODS: To investigate molecular mechanisms triggered by mastic oil, Lewis Lung 
+Carcinoma cells were treated with mastic oil or DMSO and RNA was collected at
+five distinct time points (3-48 h). Microarray expression profiling was performed
+using Illumina mouse-6 v1 beadchips, followed by computational analysis. For a
+number of selected genes, RT-PCR validation was performed in LLC cells as well as
+in three human cancer cell lines of different origin (A549, HCT116, K562). PTEN
+specific inhibition by a bisperovanadium compound was applied to validate its
+contribution to mastic oil-mediated anti-tumor growth effects.
+RESULTS: In this work we demonstrated that exposure of Lewis lung carcinomas to
+mastic oil caused a time-dependent alteration in the expression of 925 genes. GO 
+analysis associated expression profiles with several biological processes and
+functions. Among them, modifications on cell cycle/proliferation, survival and
+NF-kappaB cascade in conjunction with concomitant regulation of genes encoding
+for PTEN, E2F7, HMOX1 (up-regulation) and NOD1 (down-regulation) indicated some
+important mechanistic links underlying the anti-proliferative, pro-apoptotic and 
+anti-inflammatory effects of mastic oil. The expression profiles of Hmox1, Pten
+and E2f7 genes were similarly altered by mastic oil in the majority of test
+cancer cell lines. Inhibition of PTEN partially reversed mastic oil effects on
+tumor cell growth, indicating a multi-target mechanism of action. Finally,
+k-means clustering, organized the significant gene list in eight clusters
+demonstrating a similar expression profile. Promoter analysis in a representative
+cluster revealed shared putative cis-elements suggesting a common regulatory
+transcription mechanism.
+CONCLUSIONS: Present results provide novel evidence on the molecular basis of
+tumor growth inhibition mediated by mastic oil and set a rational basis for
+application of genomics and bioinformatic methodologies in the screening of
+natural compounds with potential cancer chemopreventive activities.
+
+PMCID: PMC2801511
+PMID: 20003503  [PubMed - indexed for MEDLINE]
+
+
+48. Cancer Res. 2009 Mar 1;69(5):1800-8. doi: 10.1158/0008-5472.CAN-08-2725. Epub
+2009 Feb 17.
+
+E2F7 can regulate proliferation, differentiation, and apoptotic responses in
+human keratinocytes: implications for cutaneous squamous cell carcinoma
+formation.
+
+Endo-Munoz L(1), Dahler A, Teakle N, Rickwood D, Hazar-Rethinam M, Abdul-Jabbar
+I, Sommerville S, Dickinson I, Kaur P, Paquet-Fifield S, Saunders N.
+
+Author information: 
+(1)Translational Research Unit, Cancer Collaborative Group, Princess Alexandra
+Hospital, Wooloongabba, Queensland 4102, Australia.
+
+Erratum in
+    Cancer Res. 2009 Sep 1;69(17):7130.
+
+The E2F family of transcription factors plays a crucial role in the regulation of
+genes involved in cell proliferation, differentiation, and apoptosis. In
+keratinocytes, the inhibition of E2F is a key step in the control and initiation 
+of squamous differentiation. Because the product of the recently identified
+E2F7a/E2F7b gene has been shown to repress E2F-regulated promoters, and to be
+abundant in skin, we examined its role in the epidermis. Our results indicate
+that E2F7b mRNA expression is selectively associated with proliferation-competent
+keratinocytes. Moreover, E2F7 was able to antagonize E2F1-induced proliferation
+and apoptosis. In contrast, although E2F7 was able to inhibit proliferation and
+initiate differentiation, it was unable to antagonize the differentiation
+suppression induced by E2F1. These data indicate that E2F7-mediated suppression
+of proliferation and apoptosis acts through E2F1-dependent pathways, whereas
+E2F7-induced differentiation acts through an E2F1-independent pathway. These data
+also suggest that proliferation, differentiation, and survival of primary human
+keratinocytes can be controlled by the relative ratio of E2F1 to E2F7. Because
+deregulated proliferation, differentiation, and apoptosis are hallmarks of
+cancer, we examined the expression levels of E2F1 and E2F7 in cutaneous squamous 
+cell carcinomas (CSCC). We found that both genes were overexpressed in CSCCs
+compared with normal epidermis. Furthermore, inhibition of E2F7 in a SCC cell
+line sensitized the cells to UV-induced apoptosis and doxorubicin-induced
+apoptosis. Combined, these data suggest that the selected disruption of E2F1 and 
+E2F7 in keratinocytes is likely to contribute to CSCC formation and may prove to 
+be a viable therapeutic target.
+
+PMID: 19223542  [PubMed - indexed for MEDLINE]
+
+
+49. Trends Cell Biol. 2009 Mar;19(3):111-8. doi: 10.1016/j.tcb.2009.01.002. Epub 2009
+Feb 7.
+
+Atypical E2Fs: new players in the E2F transcription factor family.
+
+Lammens T(1), Li J, Leone G, De Veylder L.
+
+Author information: 
+(1)Department of Plant Systems Biology, Flanders Institute for Biotechnology
+(VIB), 9052 Gent, Belgium.
+
+As major regulators of the cell cycle, apoptosis and differentiation, E2F
+transcription factors have been studied extensively in a broad range of
+organisms. The recent identification of atypical E2F family members further
+expands our structural, functional and molecular view of the cellular E2F
+activity. Unlike other family members, atypical E2Fs have a duplicated
+DNA-binding domain and control gene expression without heterodimerization with
+dimerization partner proteins. Recently, knockout strategies in plants and
+mammals have pinpointed that atypical E2Fs have a crucial role in plant cell size
+control, endocycle regulation, proliferation and apoptotic response upon DNA
+stress. Their position at the crossroads of proliferation and DNA stress response
+marks these novel E2F proteins as interesting study objects in the field of tumor
+biology.
+
+PMCID: PMC2808192
+PMID: 19201609  [PubMed - indexed for MEDLINE]
+
+
+50. Proc Natl Acad Sci U S A. 2008 Sep 23;105(38):14721-6. doi:
+10.1073/pnas.0806510105. Epub 2008 Sep 11.
+
+Atypical E2F activity restrains APC/CCCS52A2 function obligatory for endocycle
+onset.
+
+Lammens T(1), Boudolf V, Kheibarshekan L, Zalmas LP, Gaamouche T, Maes S,
+Vanstraelen M, Kondorosi E, La Thangue NB, Govaerts W, Inzé D, De Veylder L.
+
+Author information: 
+(1)Department of Plant Systems Biology, Flanders Institute for Biotechnology and 
+Department of Molecular Genetics, Ghent University, 9052 Gent, Belgium.
+
+The endocycle represents an alternative cell cycle that is activated in various
+developmental processes, including placental formation, Drosophila oogenesis, and
+leaf development. In endocycling cells, mitotic cell cycle exit is followed by
+successive doublings of the DNA content, resulting in polyploidy. The timing of
+endocycle onset is crucial for correct development, because polyploidization is
+linked with cessation of cell division and initiation of terminal
+differentiation. The anaphase-promoting complex/cyclosome (APC/C) activator genes
+CDH1, FZR, and CCS52 are known to promote endocycle onset in human, Drosophila,
+and Medicago species cells, respectively; however, the genetic pathways governing
+development-dependent APC/C(CDH1/FZR/CCS52) activity remain unknown. We report
+that the atypical E2F transcription factor E2Fe/DEL1 controls the expression of
+the CDH1/FZR orthologous CCS52A2 gene from Arabidopsis thaliana. E2Fe/DEL1
+misregulation resulted in untimely CCS52A2 transcription, affecting the timing of
+endocycle onset. Correspondingly, ectopic CCS52A2 expression drove cells into the
+endocycle prematurely. Dynamic simulation illustrated that E2Fe/DEL1 accounted
+for the onset of the endocycle by regulating the temporal expression of CCS52A2
+during the cell cycle in a development-dependent manner. Analogously, the
+atypical mammalian E2F7 protein was associated with the promoter of the
+APC/C-activating CDH1 gene, indicating that the transcriptional control of APC/C 
+activator genes by atypical E2Fs might be evolutionarily conserved.
+
+PMCID: PMC2567204
+PMID: 18787127  [PubMed - indexed for MEDLINE]
+
+
+51. EMBO Rep. 2008 Mar;9(3):252-9. doi: 10.1038/sj.embor.7401158. Epub 2008 Jan 18.
+
+DNA-damage response control of E2F7 and E2F8.
+
+Zalmas LP(1), Zhao X, Graham AL, Fisher R, Reilly C, Coutts AS, La Thangue NB.
+
+Author information: 
+(1)Laboratory of Cancer Biology, Medical Sciences Division, John Radcliffe
+Hospital, University of Oxford, Oxon, Oxford OX3 9DU, UK.
+
+Here, we report that the two recently identified E2F subunits, E2F7 and E2F8, are
+induced in cells treated with DNA-damaging agents where they have an important
+role in dictating the outcome of the DNA-damage response. The
+DNA-damage-dependent induction coincides with the binding of E2F7 and E2F8 to the
+promoters of certain E2F-responsive genes, most notably that of the E2F1 gene, in
+which E2F7 and E2F8 coexist in a DNA-binding complex. As a consequence, E2F7 and 
+E2F8 repress E2F target genes, such as E2F1, and reducing the level of each
+subunit results in an increase in E2F1 expression and activity. Importantly,
+depletion of either E2F7 or E2F8 prevents the cell-cycle effects that occur in
+response to DNA damage. Thus, E2F7 and E2F8 act upstream of E2F1, and influence
+the ability of cells to undergo a DNA-damage response. E2F7 and E2F8, therefore, 
+underpin the DNA-damage response.
+
+PMCID: PMC2267382
+PMID: 18202719  [PubMed - indexed for MEDLINE]
+
+
+52. Dev Cell. 2008 Jan;14(1):62-75. doi: 10.1016/j.devcel.2007.10.017.
+
+Synergistic function of E2F7 and E2F8 is essential for cell survival and
+embryonic development.
+
+Li J(1), Ran C, Li E, Gordon F, Comstock G, Siddiqui H, Cleghorn W, Chen HZ,
+Kornacker K, Liu CG, Pandit SK, Khanizadeh M, Weinstein M, Leone G, de Bruin A.
+
+Author information: 
+(1)Department of Molecular Virology, The Ohio State University, Columbus, OH
+43210, USA.
+
+Comment in
+    Dev Cell. 2008 Jan;14(1):1-3.
+
+The E2f7 and E2f8 family members are thought to function as transcriptional
+repressors important for the control of cell proliferation. Here, we have
+analyzed the consequences of inactivating E2f7 and E2f8 in mice and show that
+their individual loss had no significant effect on development. Their combined
+ablation, however, resulted in massive apoptosis and dilation of blood vessels,
+culminating in lethality by embryonic day E11.5. A deficiency in E2f7 and E2f8
+led to an increase in E2f1 and p53, as well as in many stress-related genes.
+Homo- and heterodimers of E2F7 and E2F8 were found on target promoters, including
+E2f1. Importantly, loss of either E2f1 or p53 suppressed the massive apoptosis in
+double-mutant embryos. These results identify E2F7 and E2F8 as a unique
+repressive arm of the E2F transcriptional network that is critical for embryonic 
+development and control of the E2F1-p53 apoptotic axis.
+
+PMCID: PMC2253677
+PMID: 18194653  [PubMed - indexed for MEDLINE]
+
+
+53. Dev Cell. 2008 Jan;14(1):1-3. doi: 10.1016/j.devcel.2007.12.017.
+
+E2F7 and E2F8 keep the E2F family in balance.
+
+Moon NS(1), Dyson N.
+
+Author information: 
+(1)MGH Cancer Center, Charlestown, MA 02129, USA.
+
+Erratum in
+    Dev Cell. 2008 Feb;14(2):312.
+
+Comment on
+    Dev Cell. 2008 Jan;14(1):62-75.
+
+An article by Li and colleagues (in this issue of Developmental Cell) shows that 
+the atypical E2Fs, E2F7 and E2F8, are critical for mouse development. One of the 
+important functions of these family members stems from a negative feedback loop
+in which E2F7 and E2F8 limit the expression of E2F1 and prevent E2F1-dependent
+apoptosis.
+
+PMID: 18194644  [PubMed - indexed for MEDLINE]
+
+
+54. Clin Cancer Res. 2007 Jan 1;13(1):144-51.
+
+Clinical relevance of E2F family members in ovarian cancer--an evaluation in a
+training set of 77 patients.
+
+Reimer D(1), Sadr S, Wiedemair A, Stadlmann S, Concin N, Hofstetter G,
+Müller-Holzner E, Marth C, Zeimet AG.
+
+Author information: 
+(1)Department of Obstetrics and Gynecology, Innsbruck Medical University,
+Innsbruck, Austria.
+
+PURPOSE: The major obstacle in treating ovarian cancer is the rapid development
+of platinum resistance during therapy. Deregulation of members of the E2F family 
+of transcription factors is crucially involved in carcinogenesis and probably in 
+mechanisms underlying platinum resistance. We therefore investigated the
+relevance of the whole set of E2F family members in predicting clinical outcome
+and their significance in predicting platinum resistance.
+EXPERIMENTAL DESIGN: Real-time PCR of all E2F family members was done from 77
+ovarian carcinomas, defined as our training set, and 8 healthy control samples.
+The correlation with clinicopathologic characteristics, platinum resistance, and 
+survival was investigated. Furthermore, the cross-talk of E2F family members was 
+assessed for its value in predicting survival and platinum resistance.
+RESULTS: The proliferation-promoting E2F1 and E2F2 were associated with grade 3
+tumors and residual disease >2 cm in diameter after initial surgery. Survival
+analyses showed low expression of E2F1 or E2F2 to be significantly associated
+with favorable disease-free and overall survival (E2F1, P = 0.039 and 0.047,
+respectively; E2F2, P = 0.009 and 0.006, respectively). In contrast, high
+expression of inhibiting E2F4 or E2F7 predicted favorable disease-free and
+overall survival (E2F4, P = 0.047 and 0.042, respectively; E2F7, P = 0.048 and
+0.042, respectively). A high E2F2 to E2F4 ratio was the most valuable prognostic 
+variable for disease-free survival in multivariate analysis (hazard ratio, 6.494;
+P = 0.002). Tumors considered platinum resistant were associated with lower E2F4 
+and E2F7 expression (P = 0.012 and 0.009, respectively) compared with
+platinum-sensitive tumors. Again, ratios of E2F1 or E2F2 to E2F7 were the most
+favorable variables in predicting platinum resistance.
+CONCLUSIONS: We here show that deregulation of both proliferation-promoting and
+proliferation-inhibiting E2F transcription factors and their cross-talk is
+crucially involved in the tumor biology of ovarian cancer and influences clinical
+outcome. Furthermore, down-regulation of E2F7 may contribute to mechanisms
+underlying platinum resistance, and calculation of ratios of
+proliferation-promoting E2F1 to E2F7 could serve as a putative predictor of
+platinum resistance.
+
+PMID: 17200349  [PubMed - indexed for MEDLINE]
+
+
+55. Nucleic Acids Res. 2005 Sep 22;33(17):5458-70. Print 2005.
+
+Characterization of E2F8, a novel E2F-like cell-cycle regulated repressor of
+E2F-activated transcription.
+
+Christensen J(1), Cloos P, Toftegaard U, Klinkenberg D, Bracken AP, Trinh E,
+Heeran M, Di Stefano L, Helin K.
+
+Author information: 
+(1)Biotech Research & Innovation Centre (BRIC) Fruebjergvej 3, 2100 Copenhagen Ø,
+Denmark.
+
+The E2F family of transcription factors are downstream effectors of the
+retinoblastoma protein, pRB, pathway and are essential for the timely regulation 
+of genes necessary for cell-cycle progression. Here we describe the
+characterization of human and murine E2F8, a new member of the E2F family.
+Sequence analysis of E2F8 predicts the presence of two distinct E2F-related DNA
+binding domains suggesting that E2F8 and, the recently, identified E2F7 form a
+subgroup within the E2F family. We show that E2F transcription factors bind the
+E2F8 promoter in vivo and that expression of E2F8 is being induced at the G1/S
+transition. Purified recombinant E2F8 binds specifically to a consensus
+E2F-DNA-binding site indicating that E2F8, like E2F7, binds DNA without the
+requirement of co-factors such as DP1. E2F8 inhibits E2F-driven promoters
+suggesting that E2F8 is transcriptional repressor like E2F7. Ectopic expression
+of E2F8 in diploid human fibroblasts reduces expression of E2F-target genes and
+inhibits cell growth consistent with a role for repressing E2F transcriptional
+activity. Taken together, these data suggest that E2F8 has an important role in
+turning of the expression of E2F-target genes in the S-phase of the cell cycle.
+
+PMCID: PMC1236722
+PMID: 16179649  [PubMed - indexed for MEDLINE]
+
+
+56. Oncogene. 2005 Jul 21;24(31):5000-4.
+
+E2F-8: an E2F family member with a similar organization of DNA-binding domains to
+E2F-7.
+
+Logan N(1), Graham A, Zhao X, Fisher R, Maiti B, Leone G, La Thangue NB.
+
+Author information: 
+(1)Division of Biochemistry and Molecular Biology, University of Glasgow,
+Glasgow, G12 8QQ, UK.
+
+E2F is a family of transcription factors implicated in cell cycle control. To
+understand the role of E2F in controlling cell cycle progression, it is necessary
+to clarify the breadth of the E2F family. To date, seven E2F subunits have been
+identified. We report here the characterization of a new E2F subunit, E2F-8,
+which resembles the organization of E2F-7 in the presence of two separate
+DNA-binding domains, the integrity of which is required for E2F-8 to bind to DNA.
+Furthermore, like E2F-7, we find that E2F-8 can repress transcription and delay
+cell cycle progression. The similarities between E2F-7 and E2F-8 define a new
+subgroup of the E2F family, and further imply that E2F-7 and E2F-8 may act
+through overlapping mechanisms in mediating cell cycle control.
+
+PMID: 15897886  [PubMed - indexed for MEDLINE]
+
+
+57. J Biol Chem. 2005 May 6;280(18):18211-20. Epub 2005 Feb 18.
+
+Cloning and characterization of mouse E2F8, a novel mammalian E2F family member
+capable of blocking cellular proliferation.
+
+Maiti B(1), Li J, de Bruin A, Gordon F, Timmers C, Opavsky R, Patil K, Tuttle J, 
+Cleghorn W, Leone G.
+
+Author information: 
+(1)Human Cancer Genetics Program, Department of Molecular Virology, Immunology
+and Medical Genetics, and Department of Molecular Genetics, Comprehensive Cancer 
+Center, The Ohio State University, Columbus, Ohio 43210, USA.
+
+The E2F transcription factor family plays a crucial and well established role in 
+cell cycle progression. Deregulation of E2F activities in vivo leads to
+developmental defects and cancer. Based on current evidence in the field,
+mammalian E2Fs can be functionally categorized into either transcriptional
+activators (E2F1, E2F2, and E2F3a) or repressors (E2F3b, E2F4, E2F5, E2F6, and
+E2F7). We have identified a novel E2F family member, E2F8, which is conserved in 
+mice and humans and has its counterpart in Arabidopsis thaliana (E2Ls).
+Interestingly, E2F7 and E2F8 share unique structural features that distinguish
+them from other mammalian E2F repressor members, including the presence of two
+distinct DNA-binding domains and the absence of DP-dimerization,
+retinoblastoma-binding, and transcriptional activation domains. Similar to E2F7, 
+overexpression of E2F8 significantly slows down the proliferation of primary
+mouse embryonic fibroblasts. These observations, together with the fact that E2F7
+and E2F8 can homodimerize and are expressed in the same adult tissues, suggest
+that they may have overlapping and perhaps synergistic roles in the control of
+cellular proliferation.
+
+PMID: 15722552  [PubMed - indexed for MEDLINE]
+
+
+58. Curr Biol. 2005 Jan 11;15(1):59-63.
+
+The DP-E2F-like gene DEL1 controls the endocycle in Arabidopsis thaliana.
+
+Vlieghe K(1), Boudolf V, Beemster GT, Maes S, Magyar Z, Atanassova A, de Almeida 
+Engler J, De Groodt R, Inzé D, De Veylder L.
+
+Author information: 
+(1)Department of Plant Systems Biology, Flanders Interuniversity Institute for
+Biotechnology, Ghent University, Technologiepark 927, Gent B-9052, Belgium.
+
+Endoreduplication or DNA replication without mitosis is widespread in nature.
+Well-known examples are fruit fly polytene chromosomes and cereal endosperm.
+Although endocycles are thought to be driven by the same regulators as those that
+control the G1-S transition of the mitotic cell cycle, the molecular mechanisms
+that differentiate mitotically dividing cells from endoreduplicating ones are
+largely unknown. A novel class of atypical E2F-like proteins has recently been
+identified and is designated E2F7 in mammals and DP-E2F-like (DEL) in Arabidopsis
+thaliana . We demonstrate that loss of DEL1 function resulted in increased ploidy
+levels, whereas ectopic expression of DEL1 reduced endoreduplication. Ploidy
+changes were correlated with altered expression of a subset of E2F target genes
+encoding proteins necessary for DNA replication. Because DEL1 proteins were
+postulated to antagonize the E2F pathway, we generated DEL1-E2Fa-DPa triple
+transgenics. DEL1 inhibited the endoreduplication phenotype, but not the ectopic 
+cell divisions that resulted from the overexpression of both E2Fa and DPa,
+illustrating that DEL1 specifically represses the endocycle. Because DEL1
+transcripts were detected exclusively in mitotically dividing cells, we conclude 
+that DEL1 is an important novel inhibitor of the endocycle and preserves the
+mitotic state of proliferating cells by suppressing transcription of genes that
+are required for cells to enter the DNA endoreduplication cycle.
+
+PMID: 15649366  [PubMed - indexed for MEDLINE]
+
+
+59. Oncogene. 2004 Jul 1;23(30):5138-50.
+
+E2F-7: a distinctive E2F family member with an unusual organization of
+DNA-binding domains.
+
+Logan N(1), Delavaine L, Graham A, Reilly C, Wilson J, Brummelkamp TR, Hijmans
+EM, Bernards R, La Thangue NB.
+
+Author information: 
+(1)Division of Biochemistry and Molecular Biology, Davidson Building, University 
+of Glasgow, Glasgow, G12 8QQ, UK.
+
+The E2F family of transcription factors play an important role in regulating cell
+cycle progression. We report here the characterization and functional properties 
+of a new member of the human E2F family, referred to as E2F-7. E2F-7 has two
+separate DNA-binding domains, a feature that distinguishes E2F-7 from other
+mammalian E2F proteins, but resembling the organization of recently isolated
+E2F-like proteins from Arabidopsis. E2F-7 binds to DNA independently of a DP
+partner and delays cell cycle progression. Interestingly, E2F-7 modulates the
+transcription properties of other E2F proteins. A mutational analysis indicates
+that the integrity of both DNA-binding domains is required for cell cycle delay
+and transcriptional modulation. Biochemical results and protein modelling studies
+suggest that in binding to DNA interactions occur between the two DNA-binding
+domains, most probably as a homodimer, thereby mimicking the organization of an
+E2F/DP heterodimer. These structural and functional properties of E2F-7 imply a
+unique role in regulating cellular proliferation.
+
+PMID: 15133492  [PubMed - indexed for MEDLINE]
+
+
+60. EMBO J. 2003 Dec 1;22(23):6289-98.
+
+E2F7, a novel E2F featuring DP-independent repression of a subset of
+E2F-regulated genes.
+
+Di Stefano L(1), Jensen MR, Helin K.
+
+Author information: 
+(1)European Institute of Oncology, Department of Experimental Oncology, Via
+Ripamonti 435, 20141 Milan, Italy.
+
+The E2F family of transcription factors play an essential role in the regulation 
+of cell cycle progression. In a screen for E2F-regulated genes we identified a
+novel E2F family member, E2F7. Like the recently identified E2F-like proteins of 
+Arabidopsis, E2F7 has two DNA binding domains and binds to the E2F DNA binding
+consensus site independently of DP co-factors. Consistent with being an E2F
+target gene, we found that the expression of E2F7 is cell cycle regulated.
+Ectopic expression of E2F7 results in suppression of E2F target genes and
+accumulation of cells in G1. Furthermore, E2F7 associates with E2F-regulated
+promoters in vivo, and this association increases in S phase. Interestingly,
+however, E2F7 binds only a subset of E2F-dependent promoters in vivo, and in
+agreement with this, inhibition of E2F7 expression results in specific
+derepression of these promoters. Taken together, these data demonstrate that E2F7
+is a unique repressor of a subset of E2F target genes whose products are required
+for cell cycle progression.
+
+PMCID: PMC291854
+PMID: 14633988  [PubMed - indexed for MEDLINE]
+
+
+61. J Biol Chem. 2003 Oct 24;278(43):42041-9. Epub 2003 Jul 31.
+
+Identification and characterization of E2F7, a novel mammalian E2F family member 
+capable of blocking cellular proliferation.
+
+de Bruin A(1), Maiti B, Jakoi L, Timmers C, Buerki R, Leone G.
+
+Author information: 
+(1)Human Cancer Genetics Program, Department of Molecular Virology, Immunology
+and Medical Genetics, The Ohio State University, Columbus, OH 43210, USA.
+
+The mammalian E2F family of transcription factors plays a crucial role in the
+regulation of cellular proliferation, apoptosis, and differentiation. Consistent 
+with its biological role in a number of important cellular processes, E2F
+regulates the expression of genes involved in cell cycle, DNA replication, DNA
+repair, and mitosis. It has proven difficult, however, to determine the specific 
+roles played by the various known family members in these cellular processes. The
+work presented here now extends the complexity of this family even further by the
+identification of a novel E2F family member, which we now term E2F7. Like the
+expression of the known E2F activators, E2F1, E2F2, and E2F3, the expression of
+E2F7 is growth-regulated, at least in part, through E2F binding elements on its
+promoter, and its protein product is localized to the nucleus and associates with
+DNA E2F recognition sites with high affinity. A number of salient features,
+however, make this member unique among the E2F family. First, the E2F7 gene
+encodes a protein that possesses two distinct DNA-binding domains and that lacks 
+a dimerization domain as well as a transcriptional activation and a
+retinoblastoma-binding domain. In contrast to the E2F activators, E2F7 can block 
+the E2F-dependent activation of a subset of E2F target genes as well as mitigate 
+cellular proliferation of mouse embryo fibroblasts. These findings identify E2F7 
+as a novel member of the mammalian E2F transcription factor family that has
+properties of a transcriptional repressor capable of negatively influencing
+cellular proliferation.
+
+PMID: 12893818  [PubMed - indexed for MEDLINE]
+
+

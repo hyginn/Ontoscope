@@ -1,0 +1,1312 @@
+
+1. J Leukoc Biol. 2016 Feb 19. pii: jlb.1A0915-396RR. [Epub ahead of print]
+
+ThPOK represses CXXC5, which induces methylation of histone H3 lysine 9 in Cd40lg
+promoter by association with SUV39H1: implications in repression of CD40L
+expression in CD8+ cytotoxic T cells.
+
+Tsuchiya Y(1), Naito T(2), Tenno M(2), Maruyama M(1), Koseki H(3), Taniuchi I(2),
+Naoe Y(4).
+
+Author information: 
+(1)Department of Mechanism of Aging, National Center for Geriatrics and
+Gerontology, Obu, Aichi, Japan; (2)Laboratory for Transcriptional Regulation,
+RIKEN Center for Integrative Medical Sciences, Yokohama, Kanagawa, Japan; and.
+(3)Laboratory for Developmental Genetics, RIKEN Center for Integrative Medical
+Sciences, Yokohama, Kanagawa, Japan. (4)Department of Mechanism of Aging,
+National Center for Geriatrics and Gerontology, Obu, Aichi, Japan;
+ynaoe@ncgg.go.jp.
+
+CD40 ligand is induced in CD4(+) Th cells upon TCR stimulation and provides an
+activating signal to B cells, making CD40 ligand an important molecule for Th
+cell function. However, the detailed molecular mechanisms, whereby CD40 ligand
+becomes expressed on the cell surface in T cells remain unclear. Here, we showed 
+that CD40 ligand expression in CD8(+) cytotoxic T cells was suppressed by
+combined epigenetic regulations in the promoter region of the Cd40lg gene, such
+as the methylation of CpG dinucleotides, histone H3 lysine 9, histone H3 lysine
+27, and histone H4 lysine 20. As the transcription factor Th-inducing pox virus
+and zinc finger/Kruppel-like factor (encoded by the Zbtb7b gene) is critical in
+Th cell development, we focused on the role of Th-inducing pox virus and zinc
+finger/Kruppel-like factor in CD40 ligand expression. We found that CD40 ligand
+expression is moderately induced by retroviral Thpok transduction into CD8(+)
+cytotoxic T cells, which was accompanied by a reduction of histone H3 lysine 9
+methylation and histone H3 lysine 27 methylation in the promoter region of the
+Cd40lg gene. Th-inducing pox virus and zinc finger/Kruppel-like factor directly
+inhibited the expression of murine CXXC5, a CXXC-type zinc finger protein that
+induced histone H3 lysine 9 methylation, in part, through an interaction with the
+histone-lysine N-methyltransferase SUV39H1. In addition, to inhibit CD40 ligand
+induction in activated CD4(+) T cells by the CXXC5 transgene, our findings
+indicate that CXXC5 was one of the key molecules contributing to repressing CD40 
+ligand expression in CD8(+) cytotoxic T cells.
+
+© Society for Leukocyte Biology.
+
+PMID: 26896487  [PubMed - as supplied by publisher]
+
+
+2. Proc Natl Acad Sci U S A. 2015 Jun 23;112(25):7773-8. doi:
+10.1073/pnas.1424104112. Epub 2015 Jun 8.
+
+Disregulated expression of the transcription factor ThPOK during T-cell
+development leads to high incidence of T-cell lymphomas.
+
+Lee HO(1), He X(2), Mookerjee-Basu J(1), Zhongping D(1), Hua X(1), Nicolas E(1), 
+Sulis ML(3), Ferrando AA(3), Testa JR(1), Kappes DJ(4).
+
+Author information: 
+(1)Fox Chase Cancer Center, Philadelphia, PA 19111; (2)University of Utah, Salt
+Lake City, UT 84112; (3)Institute of Cancer Genetics, Columbia University, New
+York, NY 10032. (4)Fox Chase Cancer Center, Philadelphia, PA 19111;
+Dietmar.Kappes@fccc.edu.
+
+The transcription factor T-helper-inducing POZ/Krueppel-like factor (ThPOK,
+encoded by the Zbtb7b gene) plays widespread and critical roles in T-cell
+development, particularly as the master regulator of CD4 commitment. Here we show
+that mice expressing a constitutive T-cell-specific ThPOK transgene (ThPOK(const)
+mice) develop thymic lymphomas. These tumors resemble human T-cell acute
+lymphoblastic leukemia (T-ALL), in that they predominantly exhibit activating
+Notch1 mutations. Lymphomagenesis is prevented if thymocyte development is
+arrested at the DN3 stage by recombination-activating gene (RAG) deficiency, but 
+restored by introduction of a T-cell receptor (TCR) transgene or by a single
+injection of anti-aßTCR antibody into ThPOK(const) RAG-deficient mice, which
+promotes development to the CD4(+)8(+) (DP) stage. Hence, TCR signals and/or
+traversal of the DN (double negative) > DP (double positive) checkpoint are
+required for ThPOK-mediated lymphomagenesis. These results demonstrate a novel
+link between ThPOK, TCR signaling, and lymphomagenesis. Finally, we present
+evidence that ectopic ThPOK expression gives rise to a preleukemic and
+self-perpetuating DN4 lymphoma precursor population. Our results collectively
+define a novel role for ThPOK as an oncogene and precisely map the stage in
+thymopoiesis susceptible to ThPOK-dependent tumor initiation.
+
+PMCID: PMC4485124
+PMID: 26056302  [PubMed - indexed for MEDLINE]
+
+
+3. Immunity. 2014 Aug 21;41(2):244-56. doi: 10.1016/j.immuni.2014.06.017.
+
+Transcription factor T-bet regulates intraepithelial lymphocyte functional
+maturation.
+
+Reis BS(1), Hoytema van Konijnenburg DP(1), Grivennikov SI(2), Mucida D(3).
+
+Author information: 
+(1)Laboratory of Mucosal Immunology, The Rockefeller University, New York, NY
+10065, USA. (2)Fox Chase Cancer Center, Cancer Prevention & Control Program,
+Philadelphia, PA 19111, USA. (3)Laboratory of Mucosal Immunology, The Rockefeller
+University, New York, NY 10065, USA. Electronic address: mucida@rockefeller.edu.
+
+Comment in
+    Immunity. 2014 Aug 21;41(2):169-71.
+
+The intestinal epithelium harbors large populations of activated and memory
+lymphocytes, yet these cells do not cause tissue damage in the steady state. We
+investigated how intestinal T cell effector differentiation is regulated upon
+migration to the intestinal epithelium. Using gene loss- and gain-of-function
+strategies, as well as reporter approaches, we showed that cooperation between
+the transcription factors T-bet and Runx3 resulted in suppression of conventional
+CD4(+) T helper functions and induction of an intraepithelial lymphocyte (IEL)
+program that included expression of IEL markers such as CD8aa homodimers.
+Interferon-<U+03B3> sensing and T-bet expression by CD4(+) T cells were both required
+for this program, which was distinct from conventional T helper differentiation
+but shared by other IEL populations, including TCRaß(+)CD8aa(+) IELs. We conclude
+that the gut environment provides cues for IEL maturation through the interplay
+between T-bet and Runx3, allowing tissue-specific adaptation of mature T
+lymphocytes.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+PMCID: PMC4287410
+PMID: 25148025  [PubMed - indexed for MEDLINE]
+
+
+4. Semin Immunol. 2013 Nov 15;25(4):273-81. doi: 10.1016/j.smim.2013.10.022. Epub
+2013 Nov 15.
+
+CD4 CTL: living up to the challenge.
+
+Cheroutre H(1), Husain MM.
+
+Author information: 
+(1)Division of Developmental Immunology, La Jolla Institute for Allergy &
+Immunology, La Jolla, CA 92037, USA. Electronic address: hilde@liai.org.
+
+During thymic development, thymocytes expressing a T cell receptor consisting of 
+an alpha and beta chain (TCRaß), commit to either the cytotoxic- or T
+helper-lineage fate. This lineage dichotomy is controlled by key transcription
+factors, including the T helper (Th) lineage master regulator, the Th-inducing
+BTB/POZ domain-containing Kruppel-like zinc-finger transcription factor, ThPOK,
+(formally cKrox or Zfp67; encoded by Zbtb7b), which suppresses the cytolytic
+program in major histocompatibility complex (MHC) class II-restricted CD4(+)
+thymocytes and the Runt related transcription factor 3 (Runx3), which counteracts
+ThPOK in MHC class I restricted precursor cells and promotes the lineage
+commitment of CD8aß(+) cytolytic T lymphocytes (CTL). ThPOK continues to repress 
+the CTL gene program in mature CD4(+) T cells, even as they differentiate into
+effector Th cell subsets. The Th cell fate however is not fixed and two recent
+studies showed that mature, antigen-stimulated CD4(+) T cells have the
+flexibility to terminate the expression of ThPOK and functionally reprogram to
+cytotoxic effector cells. This unexpected plasticity of CD4(+) T cells results in
+the post-thymic termination of the Th lineage fate and the functional
+differentiation of distinct MHC class II-restricted CD4(+) CTL. The recognition
+of CD4 CTL as a defined separate subset of effector cells and the identification 
+of the mechanisms and factors that drive their reprogramming finally create new
+opportunities to explore the physiological relevance of these effector cells in
+vivo and to determine their pivotal roles in both, protective immunity as well as
+in immune-related pathology.
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.
+
+PMCID: PMC3886800
+PMID: 24246226  [PubMed - indexed for MEDLINE]
+
+
+5. Curr Top Microbiol Immunol. 2014;373:113-29. doi: 10.1007/82_2013_323.
+
+The CD4/CD8 lineages: central decisions and peripheral modifications for T
+lymphocytes.
+
+Tanaka H(1), Taniuchi I.
+
+Author information: 
+(1)Laboratory for Transcriptional Regulation, RIKEN Research Center for Allergy
+and Immunology, 1-7-22 Suehiro-cho, Tsurumi-ku, Yokohama, Kanagawa, 230-0045,
+Japan.
+
+CD4(+) helper and CD8(+) cytotoxic T cells, two major subsets of aßTCR expressing
+lymphocytes, are differentiated from common precursor CD4(+)CD8(+)
+double-positive (DP) thymocytes. Bifurcation of the CD4(+)/CD8(+) lineages in the
+thymus is a multilayered process and is thought to culminate in a loss of
+developmental plasticity between these functional subsets. Advances in the last
+decade have deepened our understanding of the transcription control mechanisms
+governing CD4 versus CD8 lineage commitment. Reciprocal expression and
+antagonistic interplay between two transcription factors, ThPOK and Runx3, is
+crucial for driving thymocyte decisions between these two cell fates. Here, we
+first focus on the regulation of ThPOK expression and its role in directing
+helper T cell development. We then discuss a novel aspect of the ThPOK/Runx3 axis
+in modifying CD4(+) T cell function upon exposure to gut microenvironment.
+
+PMID: 23612990  [PubMed - indexed for MEDLINE]
+
+
+6. J Biol Chem. 2013 May 31;288(22):15537-46. doi: 10.1074/jbc.M112.430207. Epub
+2013 Apr 22.
+
+60-kDa Tat-interactive protein (TIP60) positively regulates Th-inducing POK
+(ThPOK)-mediated repression of eomesodermin in human CD4+ T cells.
+
+Li Y(1), Tsun A, Gao Z, Han Z, Gao Y, Li Z, Lin F, Wang Y, Wei G, Yao Z, Li B.
+
+Author information: 
+(1)Key Laboratory of Molecular Virology and Immunology, Unit of Molecular
+Immunology, Institut Pasteur of Shanghai, Shanghai Institutes for Biological
+Sciences, Chinese Academy of Sciences, 411 Hefei Road, Shanghai 200025, China.
+
+The abundant expression of IFN<U+03B3> in Th-inducing POK (ThPOK)-deficient CD4(+) T
+cells requires the activation of Eomesodermin (Eomes); however, the underlying
+mechanism of this phenomenon remains unclear. Here we report that ThPOK binds
+directly to the promoter region of the Eomes gene to repress its expression in
+CD4(+) T cells. We identified the histone acetyltransferase TIP60 as a
+co-repressor of ThPOK-target genes, where ectopically expressed TIP60 increased
+ThPOK protein stability by promoting its acetylation at its Lys(360) residue to
+then augment the transcriptional repression of Eomes. Moreover, knockdown of
+endogenous TIP60 abolished the stabilization of ThPOK in CD4(+) T cells, which
+led to the transcriptional activation of Eomes and increased production of IFN<U+03B3>. 
+Our results reveal a novel pathway by which TIP60 and ThPOK synergistically
+suppresses Eomes function and IFN<U+03B3> production, which could contribute to the
+regulation of inflammation.
+
+PMCID: PMC3668715
+PMID: 23609452  [PubMed - indexed for MEDLINE]
+
+
+7. EMBO J. 2013 Apr 17;32(8):1183-94. doi: 10.1038/emboj.2013.47. Epub 2013 Mar 12.
+
+Epigenetic Thpok silencing limits the time window to choose CD4(+) helper-lineage
+fate in the thymus.
+
+Tanaka H(1), Naito T, Muroi S, Seo W, Chihara R, Miyamoto C, Kominami R, Taniuchi
+I.
+
+Author information: 
+(1)Laboratory for Transcriptional Regulation, RIKEN Research Center for Allergy
+and Immunology, Yokohama, Kanagawa 230-0045, Japan.
+
+CD4(+) helper and CD8(+) cytotoxic T cells differentiate from common precursors
+in the thymus after T-cell receptor (TCR)-mediated selection. Commitment to the
+helper lineage depends on persistent TCR signals and expression of the ThPOK
+transcription factor, whereas a ThPOK cis-regulatory element, ThPOK silencer,
+represses Thpok gene expression during commitment to the cytotoxic lineage. Here,
+we show that silencer-mediated alterations of chromatin structures in
+cytotoxic-lineage thymocytes establish a repressive state that is epigenetically 
+inherited in peripheral CD8(+) T cells even after removal of the silencer. When
+silencer activity is enhanced in helper-lineage cells, by increasing its copy
+number, a similar heritable Thpok silencing occurs. Epigenetic locking of the
+Thpok locus may therefore be an independent event from commitment to the
+cytotoxic lineage. These findings imply that long-lasting TCR signals are needed 
+to establish stable Thpok expression activity to commit to helper T-cell fate and
+that full commitment to the helper lineage requires persistent reversal of
+silencer activity during a particular time window.
+
+PMCID: PMC3630353
+PMID: 23481257  [PubMed - indexed for MEDLINE]
+
+
+8. PLoS One. 2013;8(1):e54488. doi: 10.1371/journal.pone.0054488. Epub 2013 Jan 17.
+
+Th inducing POZ-Kruppel Factor (ThPOK) is a key regulator of the immune response 
+since the early steps of colorectal carcinogenesis.
+
+Mariani F(1), Sena P, Pedroni M, Benatti P, Manni P, Di Gregorio C, Manenti A,
+Palumbo C, de Leon MP, Roncucci L.
+
+Author information: 
+(1)Department of Internal Medicine, University of Modena and Reggio Emilia,
+Modena, Italy.
+
+We purposed to evaluate the role of Th inducing POZ-Kruppel Factor (ThPOK), a
+transcriptional regulator of T cell fate, in tumour-induced immune system
+plasticity in colorectal carcinogenesis. The amounts of CD4+, CD8+ and CD56+ and 
+ThPOK+ cells infiltrate in normal colorectal mucosa (NM), in dysplastic aberrant 
+crypt foci (microadenomas, MA), the earliest detectable lesions in colorectal
+carcinogenesis, and in colorectal carcinomas (CRC), were measured, and the
+colocalization of ThPOK with the above-mentioned markers of immune cells was
+evaluated using confocal microscopy. Interestingly, ThPOK showed a prominent
+increase since MA. A strong colocalization of ThPOK with CD4 both in NM and in MA
+was observed, weaker in carcinomas. Surprisingly, there was a peak in the
+colocalization levels of ThPOK with CD8 in MA, which was evident, although to a
+lesser extent, in carcinomas, too. In conclusion, according to the data of the
+present study, ThPOK may be considered a central regulator of the earliest events
+in the immune system during colorectal cancer development, decreasing the immune 
+response against cancer cells.
+
+PMCID: PMC3547940
+PMID: 23349906  [PubMed - indexed for MEDLINE]
+
+
+9. Comp Biochem Physiol B Biochem Mol Biol. 2013 Feb;164(2):124-32. doi:
+10.1016/j.cbpb.2012.11.006. Epub 2012 Nov 27.
+
+Characterization and expression analysis of Th-POK from the Japanese pufferfish, 
+Takifugu rubripes.
+
+Nagamine R(1), Korenaga H, Sakai M, Secombes CJ, Kono T.
+
+Author information: 
+(1)Interdisciplinary Research Organization, University of Miyazaki, 1-1 Gakuen
+Kibanadai-nishi, Miyazaki 889-2192, Japan.
+
+In fish, T cell lineage commitment has not been studied, although there are
+reports related to CD4 and CD8 positive cells. This study describes the cloning
+and analysis of a master regulator involved in this process, the Th-POK gene in
+Japanese pufferfish, Takifugu rubripes. The Fugu Th-POK cDNA was composed of 1901
+bp, with a 75 bp 5'-UTR, a 131 bp 3'-UTR, and a 1692 bp open reading frame which 
+translates into a peptide of 564 amino acid residues. The deduced Fugu Th-POK
+protein contained a BTB/POZ domain, Krüppel motif (H/C linker) and Krüppel-like
+zinc finger DNA binding domain with C2H2 structure. The homology analysis of Fugu
+Th-POK (ZBTB7B) with other known ZBTB7 members (ZBTB7A, 7C) showed low identity, 
+and the phylogenetic tree analysis showed the Fugu Th-POK clustered with the
+mammalian Th-POK, away from other ZBTB7 members. The analysis of transcriptional 
+control region of Th-POK gene suggested that the 5'-flanking region and intron 1 
+include numerous canonical binding motifs for transcription factors regulating T 
+cell development. The genomic organization of the Fugu Th-POK gene was composed
+of three exons and two introns, and its structure was identical to that of its
+human counterpart. Comparison of the Fugu and human genomes showed that high
+levels of conserved synteny existed around the Th-POK gene. The high expression
+of the Fugu Th-POK gene in unstimulated tissues was seen in head kidney, muscle, 
+skin and gills. Moreover, the expression of the Fugu Th-POK gene in thymic cells 
+was increased by LPS, polyI:C and PHA stimulation.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+PMID: 23195130  [PubMed - indexed for MEDLINE]
+
+
+10. J Immunol. 2012 Dec 1;189(11):5240-9. doi: 10.4049/jimmunol.1201486. Epub 2012
+Oct 26.
+
+ZBTB7B (Th-POK) regulates the development of IL-17-producing CD1d-restricted
+mouse NKT cells.
+
+Enders A(1), Stankovic S, Teh C, Uldrich AP, Yabas M, Juelich T, Altin JA,
+Frankenreiter S, Bergmann H, Roots CM, Kyparissoudis K, Goodnow CC, Godfrey DI.
+
+Author information: 
+(1)Ramaciotti Immunization Genomics Laboratory, Department of Immunology, John
+Curtin School of Medical Research, Australian National University, Canberra,
+Australian Capital Territory 0200, Australia.
+
+CD1d-dependent NKT cells represent a heterogeneous family of effector T cells
+including CD4(+)CD8(-) and CD4(-)CD8(-) subsets that respond to glycolipid Ags
+with rapid and potent cytokine production. NKT cell development is regulated by a
+unique combination of factors, however very little is known about factors that
+control the development of NKT subsets. In this study, we analyze a novel mouse
+strain (helpless) with a mis-sense mutation in the BTB-POZ domain of ZBTB7B and
+demonstrate that this mutation has dramatic, intrinsic effects on development of 
+NKT cell subsets. Although NKT cell numbers are similar in Zbtb7b mutant mice,
+these cells are hyperproliferative and most lack CD4 and instead express CD8.
+Moreover, the majority of ZBTB7B mutant NKT cells in the thymus are retinoic
+acid-related orphan receptor <U+03B3>t positive, and a high frequency produce IL-17
+while very few produce IFN-<U+03B3> or other cytokines, sharply contrasting the profile 
+of normal NKT cells. Mice heterozygous for the helpless mutation also have
+reduced numbers of CD4(+) NKT cells and increased production of IL-17 without an 
+increase in CD8(+) cells, suggesting that ZBTB7B acts at multiple stages of NKT
+cell development. These results reveal ZBTB7B as a critical factor genetically
+predetermining the balance of effector subsets within the NKT cell population.
+
+PMCID: PMC3515659
+PMID: 23105140  [PubMed - indexed for MEDLINE]
+
+
+11. J Immunol. 2012 Aug 1;189(3):1380-90. doi: 10.4049/jimmunol.1201077. Epub 2012
+Jun 22.
+
+Epigenetic silencing of CD8 genes by ThPOK-mediated deacetylation during CD4 T
+cell differentiation.
+
+Rui J(1), Liu H, Zhu X, Cui Y, Liu X.
+
+Author information: 
+(1)State Key Laboratory of Cell Biology, Institute of Biochemistry and Cell
+Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of
+Sciences, Shanghai 200031, China.
+
+Intrathymic CD4/CD8 differentiation is a process that establishes the mutually
+exclusive expression profiles of the CD4 and CD8 T cell lineage. The
+RUNX3-mediated silencing of CD4 in CD8 lineage cells has been well documented;
+however, it is unclear how CD8 is silenced during CD4 lineage differentiation. In
+this study, we report that, by directly binding the CD8 locus, ThPOK works as a
+negative regulator that mediates the deacetylation of Cd8 genes and repositions
+the CD8 alleles close to heterochromatin during the development of the CD4
+lineage. The ectopic expression of ThPOK resulted in increased recruitment of
+histone deacetylases at Cd8 loci; the enhanced deacetylation of Cd8 genes
+eventually led to impaired Cd8 transcription. In the absence of ThPOK, the
+enhanced acetylation and transcription of Cd8 genes were observed. The results of
+these studies showed that Cd8 loci are the direct targets of ThPOK, and, more
+importantly, they provide new insights into CD8 silencing during CD4 lineage
+commitment.
+
+PMID: 22730529  [PubMed - indexed for MEDLINE]
+
+
+12. Hum Mol Genet. 2012 May 1;21(9):1968-78. doi: 10.1093/hmg/dds006. Epub 2012 Jan
+13.
+
+Genetic and epigenetic mechanisms collaborate to control SERPINA3 expression and 
+its association with placental diseases.
+
+Chelbi ST(1), Wilson ML, Veillard AC, Ingles SA, Zhang J, Mondon F,
+Gascoin-Lachambre G, Doridot L, Mignot TM, Rebourcet R, Carbonne B, Concordet JP,
+Barbaux S, Vaiman D.
+
+Author information: 
+(1)Institut Cochin, Université Paris Descartes, CNRS, UMR 8104, Paris, France.
+
+SERPINA3 (Serpin peptidase inhibitor clade A member 3), also known as
+a1-antichymotrypsin, is a serine protease inhibitor involved in a wide range of
+biological processes. Recently, it has been shown to be up-regulated in human
+placental diseases in association with a hypomethylation of the 5' region of the 
+gene. In the present study, we show that the promoter of SERPINA3 is
+transcriptionally activated by three transcription factors (TFs) (SP1, MZF1 and
+ZBTB7B), the level of induction being dependent on the rs1884082 single
+nucleotide polymorphism (SNP) located inside the promoter, the T allele being
+consistently induced to a higher level than the G, with or without added TFs.
+When the promoter was methylated, the response to ZBTB7B was allele specific (the
+G allele was strongly induced, while the T allele was strongly down-regulated).
+We propose an adaptive model to explain the interest of such a regulation for
+placental function and homeostasis. Overexpression of SERPINA3 in JEG-3 cells, a 
+trophoblast cell model, decreased cell adhesion to the extracellular matrix and
+to neighboring cells, but protects them from apoptosis, suggesting a way by which
+this factor could be deleterious at high doses. In addition, we show in different
+human populations that the T allele appears to predispose to Intra Uterine Growth
+Restriction (IUGR), while a G allele at a second SNP located in the second exon
+(rs4634) increases the risk of preeclampsia. Our results provide mechanistic
+views inside the involvement of SERPINA3 in placental diseases, through its
+regulation by a combination of epigenetic, genetic and TF-mediated regulations.
+
+PMID: 22246292  [PubMed - indexed for MEDLINE]
+
+
+13. J Biol Chem. 2012 Jan 27;287(5):3462-78. doi: 10.1074/jbc.M111.286443. Epub 2011 
+Dec 2.
+
+The p65 subunit of NF-<U+03BA>B inhibits COL1A1 gene transcription in human dermal and
+scleroderma fibroblasts through its recruitment on promoter by protein
+interaction with transcriptional activators (c-Krox, Sp1, and Sp3).
+
+Beauchef G(1), Bigot N, Kypriotou M, Renard E, Porée B, Widom R,
+Dompmartin-Blanchere A, Oddos T, Maquart FX, Demoor M, Boumediene K, Galera P.
+
+Author information: 
+(1)Laboratoire Matrice Extracellulaire et Pathologie, IFR ICORE 146, Université
+de Caen/Basse-Normandie, UFR de Médecine, CHU niveau 3, Avenue de la Côte de
+Nacre, 14032 Caen Cedex, France.
+
+Transcriptional mechanisms regulating type I collagen genes expression in
+physiopathological situations are not completely known. In this study, we have
+investigated the role of nuclear factor-<U+03BA>B (NF-<U+03BA>B) transcription factor on type I
+collagen expression in adult normal human (ANF) and scleroderma (SF) fibroblasts.
+We demonstrated that NF-<U+03BA>B, a master transcription factor playing a major role in
+immune response/apoptosis, down-regulates COL1A1 expression by a transcriptional 
+control involving the -112/-61 bp sequence. This 51-bp region mediates the action
+of two zinc fingers, Sp1 (specific protein-1) and Sp3, acting as trans-activators
+of type I collagen expression in ANF and SF. Knockdown of each one of these trans
+factors by siRNA confirmed the trans-activating effect of Sp1/Sp3 and the p65
+subunit of NF-<U+03BA>B trans-inhibiting effect on COL1A1 expression. Despite no
+existing <U+03BA>B consensus sequence in the COL1A1 promoter, we found that
+Sp1/Sp3/c-Krox and NF-<U+03BA>B bind and/or are recruited on the proximal promoter in
+chromatin immunoprecipitation (ChIP) assays. Attempts to elucidate whether
+interactions between Sp1/Sp3/c-Krox and p65 are necessary to mediate the NF-<U+03BA>B
+inhibitory effect on COL1A1 in ANF and SF were carried out; in this regard,
+immunoprecipitation assays revealed that they interact, and this was validated by
+re-ChIP. Finally, the knockdown of Sp1/Sp3/c-Krox prevents the p65 inhibitory
+effect on COL1A1 transcription in ANF, whereas only the siRNAs targeting Sp3 and 
+c-Krox provoked the same effect in SF, suggesting that particular interactions
+are characteristic of the scleroderma phenotype. In conclusion, our findings
+highlight a new mechanism for COL1A1 transcriptional regulation by NF-<U+03BA>B, and
+these data could allow the development of new antifibrotic strategies.
+
+PMCID: PMC3271000
+PMID: 22139845  [PubMed - indexed for MEDLINE]
+
+
+14. Immunity. 2011 Mar 25;34(3):303-14. doi: 10.1016/j.immuni.2011.03.004.
+
+RUNX transcription factor-mediated association of Cd4 and Cd8 enables coordinate 
+gene regulation.
+
+Collins A(1), Hewitt SL, Chaumeil J, Sellars M, Micsinai M, Allinne J, Parisi F, 
+Nora EP, Bolland DJ, Corcoran AE, Kluger Y, Bosselut R, Ellmeier W, Chong MM,
+Littman DR, Skok JA.
+
+Author information: 
+(1)Molecular Pathogenesis Program, The Kimmel Center for Biology and Medicine of 
+the Skirball Institute, New York University School of Medicine, 550 First Avenue,
+New York, NY 10016, USA.
+
+T cell fate is associated with mutually exclusive expression of CD4 or CD8 in
+helper and cytotoxic T cells, respectively. How expression of one locus is
+temporally coordinated with repression of the other has been a long-standing
+enigma, though we know RUNX transcription factors activate the Cd8 locus, silence
+the Cd4 locus, and repress the Zbtb7b locus (encoding the transcription factor
+ThPOK), which is required for CD4 expression. Here we found that nuclear
+organization was altered by interplay among members of this transcription factor 
+circuitry: RUNX binding mediated association of Cd4 and Cd8 whereas ThPOK binding
+kept the loci apart. Moreover, targeted deletions within Cd4 modulated CD8
+expression and pericentromeric repositioning of Cd8. Communication between Cd4
+and Cd8 thus appears to enable long-range epigenetic regulation to ensure that
+expression of one excludes the other in mature CD4 or CD8 single-positive (SP)
+cells.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+PMCID: PMC3101577
+PMID: 21435585  [PubMed - indexed for MEDLINE]
+
+
+15. J Immunol. 2011 Apr 1;186(7):3892-8. doi: 10.4049/jimmunol.1003505. Epub 2011 Feb
+25.
+
+Regulation of GATA-3 expression during CD4 lineage differentiation.
+
+Gimferrer I(1), Hu T, Simmons A, Wang C, Souabni A, Busslinger M, Bender TP,
+Hernandez-Hoyos G, Alberola-Ila J.
+
+Author information: 
+(1)Immunobiology and Cancer Research Program, Oklahoma Medical Research
+Foundation, Oklahoma City, OK 73104, USA.
+
+GATA-3 is necessary for the development of MHC class II-restricted CD4 T cells,
+and its expression is increased during positive selection of these cells. TCR
+signals drive this upregulation, but the signaling pathways that control this
+process are not well understood. Using genetic and pharmacological approaches, we
+show that GATA-3 upregulation during thymocyte-positive selection is the result
+of additive inputs from the Ras/MAPK and calcineurin pathways. This upregulation 
+requires the presence of the transcription factor c-Myb. Furthermore, we show
+that TH-POK can also upregulate GATA-3 in double-positive thymocytes, suggesting 
+the existence of a positive feedback loop that contributes to lock in the initial
+commitment to the CD4 lineage during differentiation.
+
+PMCID: PMC3074202
+PMID: 21357543  [PubMed - indexed for MEDLINE]
+
+
+16. Immunol Rev. 2010 Nov;238(1):182-94. doi: 10.1111/j.1600-065X.2010.00958.x.
+
+Expanding roles for ThPOK in thymic development.
+
+Kappes DJ(1).
+
+Author information: 
+(1)Institute for Cancer Research, Fox Chase Cancer Center, Philadelphia, PA
+19111, USA. dietmar.kappes@fccc.edu
+
+The role of the zinc finger transcription factor ThPOK (T-helper-inducing
+POZ-Kruppel-like factor) in promoting commitment of aß T cells to the CD4 lineage
+is now well established. New results indicate that ThPOK is also important for
+the development and/or acquisition of effector functions by other T cell subsets,
+including several not marked by CD4 expression, i.e. double-negative invariant
+natural killer T (iNKT) cells, <U+03B3>d cells, and even memory CD8(+) T cells. There is
+compelling evidence that ThPOK expression in most or all of these cases is
+dependent on T-cell receptor signaling and that differences in relative TCR
+signal strength/length may induce different levels of ThPOK expression. The
+developmental consequences of ThPOK expression vary according to cell type, which
+may partly reflect differences in ThPOK levels and/or in transcriptional networks
+between cell types.
+
+© 2010 John Wiley & Sons A/S.
+
+PMCID: PMC2970507
+PMID: 20969593  [PubMed - indexed for MEDLINE]
+
+
+17. J Med Invest. 2010 Aug;57(3-4):219-23.
+
+Identification of important regulatory region of Th-POK.
+
+Shamsul Alam M(1).
+
+Author information: 
+(1)Department of Immunology and Parasitology, Institute of Health Biosciences,
+the University of Tokushima Graduate School, Tokushima, Japan.
+
+CD4(+) and CD8(+) T cells develop from CD4(+)CD8(+) thymocytes. Although it has
+been reported that expression of the transcription factor Th-POK is important for
+CD4(+) T cell development, the detailed mechanism regulating Th-POK expression is
+still obscure. By comparing the promoter regions of the Th-POK gene between human
+and mouse, I found that the region 3600 base pairs (bps) upstream from the
+transcription initiation site of the Th-POK gene was highly conserved. To
+identify the important element(s) regulating Th-POK expression in CD4(+) T cells,
+I investigated the promoter activity of this region using a luciferase assay in
+the human T cell line Jurkat. I identified a positive regulatory element in this 
+region 22 bps in length located 600 bp upstream from the transcription initiation
+site. This 22 bp element had a consensus binding sequence for SAP-1, which is
+encoded by the Elk4 gene and is activated by the Erk pathway. These data suggest 
+that the 22 bp element might positively regulate Th-POK expression through
+Erk-SAP-1 signaling.
+
+PMID: 20847520  [PubMed - indexed for MEDLINE]
+
+
+18. J Immunol. 2010 Oct 1;185(7):3960-9. doi: 10.4049/jimmunol.1001462. Epub 2010 Sep
+1.
+
+p300-mediated acetylation stabilizes the Th-inducing POK factor.
+
+Zhang M(1), Zhang J, Rui J, Liu X.
+
+Author information: 
+(1)Laboratory of Molecular Cell Biology, Institute of Biochemistry and Cell
+Biology, Chinese Academy of Sciences, Shanghai, China.
+
+The lineage-specifying factor Th-inducing POK (ThPOK) directs the intrathymic
+differentiation of CD4 T cells. Although the regulation of ThPOK at the
+transcription level has been extensively studied, specific posttranslational
+modifications regulating the activity of ThPOK have not been addressed. In this
+paper, we show that ThPOK is an unstable protein that is more readily degraded in
+CD8 T cells compared with CD4 T cells. Among the various proteins that bind
+ThPOK, acetyltransferase p300 specifically promotes the acetylation of ThPOK at
+K210, K216, and K339, outcompeting ubiquitination, thereby stabilizing the
+protein. In CD4 T cells, attenuation of p300-mediated acetylation promotes the
+degradation of ThPOK. In contrast, mutation of lysines 210, 216, and 339 to
+arginines stabilizes ThPOK and enhances its ability to suppress the expression of
+CD8 molecule and cytotoxic effectors in CD8 T cells. Our results reveal an
+essential role of p300-mediated acetylation in regulating the stability of ThPOK 
+and suggest that such regulation may play a part in CD4/CD8 lineage
+differentiation.
+
+PMID: 20810990  [PubMed - indexed for MEDLINE]
+
+
+19. Eur J Immunol. 2010 Aug;40(8):2143-54. doi: 10.1002/eji.200940258.
+
+Bcl11b represses a mature T-cell gene expression program in immature CD4(+)CD8(+)
+thymocytes.
+
+Kastner P(1), Chan S, Vogel WK, Zhang LJ, Topark-Ngarm A, Golonzhka O, Jost B, Le
+Gras S, Gross MK, Leid M.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire, INSERM U964,
+CNRS UMR7104, Université de Strasbourg, Illkirch, France. kastner@igbmc.fr
+
+Bcl11b is a transcription factor that, within the hematopoietic system, is
+expressed specifically in T cells. Although Bcl11b is required for T-cell
+differentiation in newborn Bcl11b-null mice, and for positive selection in the
+adult thymus of mice bearing a T-cell-targeted deletion, the gene network
+regulated by Bcl11b in T cells is unclear. We report herein that Bcl11b is a
+bifunctional transcriptional regulator, which is required for the correct
+expression of approximately 1000 genes in CD4(+)CD8(+)CD3(lo) double-positive
+(DP) thymocytes. Bcl11b-deficient DP cells displayed a gene expression program
+associated with mature CD4(+)CD8(-) and CD4(-)CD8(+) single-positive (SP)
+thymocytes, including upregulation of key transcriptional regulators, such as
+Zbtb7b and Runx3. Bcl11b interacted with regulatory regions of many dysregulated 
+genes, suggesting a direct role in the transcriptional regulation of these genes.
+However, inappropriate expression of lineage-associated genes did not result in
+enhanced differentiation, as deletion of Bcl11b in DP cells prevented development
+of SP thymocytes, and that of canonical NKT cells. These data establish Bcl11b as
+a crucial transcriptional regulator in thymocytes, in which Bcl11b functions to
+prevent the premature expression of genes fundamental to the SP and NKT cell
+differentiation programs.
+
+PMCID: PMC2942964
+PMID: 20544728  [PubMed - indexed for MEDLINE]
+
+
+20. Sci Signal. 2010 Mar 23;3(114):ra23. doi: 10.1126/scisignal.2000702.
+
+Regulation of Zap70 expression during thymocyte development enables temporal
+separation of CD4 and CD8 repertoire selection at different signaling thresholds.
+
+Saini M(1), Sinclair C, Marshall D, Tolaini M, Sakaguchi S, Seddon B.
+
+Author information: 
+(1)Division of Immune Cell Biology, MRC National Institute for Medical Research, 
+The Ridgeway, Mill Hill, London NW7 1AA, UK.
+
+To investigate the temporal regulation of the commitment of immature thymocytes
+to either the CD4(+) or the CD8(+) lineage in the thymus, we developed a
+transgenic mouse that expressed a tetracycline-inducible gene encoding the
+tyrosine kinase zeta chain-associated protein kinase of 70 kD (Zap70), which
+restored development in Zap70(-/-) thymocytes arrested at the preselection,
+CD4(+)CD8(+) double-positive (DP) stage. After induction of the expression of
+Zap70 and the production of Zap70 protein, CD4(+) single-positive (SP) cells that
+expressed Zbtb7b (which encodes the CD4(+) T cell-associated transcription factor
+ThPOK) became abundant within 30 hours, whereas CD8(+) SP cells were not
+detectable until day 4. We found that mature CD4(+) and CD8(+) cells arose from
+phenotypically distinct subsets of DP thymocytes that developed with different
+kinetics and contrasting sensitivities to stimulation of the T cell antigen
+receptor (TCR). In wild-type mice, expression of endogenous Zap70 progressively
+increased during maturation of the DP subsets, and the abundance of Zap70 protein
+determined the sensitivity of the cells to stimulation of the TCR. This temporal 
+gradient in the amount of Zap70 protein enabled the selection of CD4(+) and
+CD8(+) repertoires in separate temporal windows and at different TCR signaling
+thresholds, thereby facilitating discrimination of distinct positive selection
+signals in these lineages.
+
+PMID: 20332428  [PubMed - indexed for MEDLINE]
+
+
+21. Am J Clin Pathol. 2010 Feb;133(2):281-90. doi: 10.1309/AJCP0SBHYVLY5EML.
+
+Expression of master regulators of helper T-cell differentiation in peripheral
+T-cell lymphoma, not otherwise specified, by immunohistochemical analysis.
+
+Matsumoto Y(1), Horiike S, Ohshiro M, Yamamoto M, Sasaki N, Tsutsumi Y, Kobayashi
+T, Shimizu D, Uchiyama H, Kuroda J, Nomura K, Shimazaki C, Taniwaki M.
+
+Author information: 
+(1)Department of Molecular Hematology and Oncology, Kyoto Prefectural University 
+of Medicine, Graduate School of Medical Science, Kawaramachi Hirokoji,
+Kamigyo-ku, 602-8566, Kyoto, Japan.
+
+The normal counterparts of peripheral T-cell lymphoma, not otherwise specified
+(PTCL-NOS) have not been accurately identified. We immunohistochemically analyzed
+10 PTCL-NOS cases to examine the expression of the master regulators of T-cell
+differentiation and of surface antigens, including chemokine receptors. All cases
+were positive for the master regulator of helper T cells (Th-POK) and the marker 
+of effector T cells (CD45RO). Three cases each were positive for T-Bet and GATA3,
+which are master regulators of helper T cells (T(H) ) type 1 (T(H)1) and 2
+(T(H)2), respectively. Two cases were positive for the surface antigens of
+central memory (Tcm) (CCR7 and CD62L), and 1 case was positive for follicular
+helper T-cell (TFH) phenotype (BCL6, CXCL13, and PD-1). The remaining case was
+negative for all markers of effector T(H) subtypes. These results suggest the
+postulated normal counterparts of PTCL-NOS identified in 9 of the 10 cases
+consist of T(H)1, T(H)2, TCM, and TFH.
+
+PMID: 20093238  [PubMed - indexed for MEDLINE]
+
+
+22. Autoimmunity. 2009;42(8):653-60. doi: 10.3109/08916930903120941.
+
+Regulation of Th-POK and Runx3 in T cell development in human thymoma.
+
+Tokunaga T(1), Hayashi A, Kadota Y, Shiono H, Inoue M, Sawabata N, Okumura M.
+
+Author information: 
+(1)Department of General Thoracic Surgery, Osaka University Graduate School of
+Medicine, Osaka, Japan.
+
+Thymoma is a thymic epithelial neoplasm which induces T cell development.
+However, the frequency of mature CD4(+) T cells in thymomas is lower than in
+normal thymi. Recently, CD4/CD8 lineage commitment has been elucidated in animal 
+model. The zinc finger transcription factor Th-POK is a critical factor to CD4(+)
+T cell development in CD4/CD8 lineage commitment, whereas CD8(+) T cell
+development requires the transcription factor Runx3. These factors antagonize in 
+CD4/CD8 lineage commitment. In this study, we examined Th-POK and Runx3 mRNA
+expression in the T cell subsets of human normal thymus and thymoma. A
+quantitative reverse transcriptase-polymerase chain reaction examination revealed
+that Th-POK expression in normal thymi was higher in the CD4(+)CD8(-) subset than
+in the CD4(+)CD8(+) and CD4(-)CD8(+) subsets. In thymomas, Th-POK expression in
+the CD4(+)CD8(-) subset was significantly lower than that in normal thymi, and
+was significantly correlated with the proportion of CD3(+) cells in the
+CD4(+)CD8(-) subset. However, Th-POK expressions of the CD3(+)CD4(+)CD8(+) and
+CD3(+)CD4(+)CD8(-) subsets were not impaired in thymomas compared to normal
+thymi. These results suggest that thymoma neoplastic epithelial cells can induce 
+Th-POK expression similarly to the normal thymic epithelial cells. In addition,
+there was no significant difference in Runx3 expression between normal thymi and 
+thymomas. Therefore, CD4/CD8 lineage commitment dependent on Th-POK and Runx3
+system seems to be working even in the neoplastic environment formed by human
+thymomas.
+
+PMID: 19886737  [PubMed - indexed for MEDLINE]
+
+
+23. J Immunol. 2009 Oct 15;183(8):4859-70. doi: 10.4049/jimmunol.0900714.
+
+Functionally mature CD4 and CD8 TCRalphabeta cells are generated in OP9-DL1
+cultures from human CD34+ hematopoietic cells.
+
+Van Coppernolle S(1), Verstichel G, Timmermans F, Velghe I, Vermijlen D, De Smedt
+M, Leclercq G, Plum J, Taghon T, Vandekerckhove B, Kerre T.
+
+Author information: 
+(1)Department of Clinical Chemistry, Microbiology and Immunology, Ghent
+University, Ghent, Belgium.
+
+Human CD34(+) hematopoietic precursor cells cultured on delta-like ligand 1
+expressing OP9 (OP9-DL1) stromal cells differentiate to T lineage cells. The
+nature of the T cells generated in these cultures has not been studied in detail.
+Since these cultures do not contain thymic epithelial cells which are the main
+cell type mediating positive selection in vivo, generation of conventional helper
+CD4(+) and cytotoxic CD8(+) TCRalphabeta cells is not expected. Phenotypically
+mature CD27(+)CD1(-) TCRgammadelta as well as TCRalphabeta cells were generated
+in OP9-DL1 cultures. CD8 and few mature CD4 single-positive TCRalphabeta cells
+were observed. Mature CD8 single-positive cells consisted of two subpopulations: 
+one expressing mainly CD8alphabeta and one expressing CD8alphaalpha dimers.
+TCRalphabeta CD8alphaalpha and TCRgammadelta cells both expressed the IL2Rbeta
+receptor constitutively and proliferated on IL-15, a characteristic of
+unconventional T cells. CD8alphabeta(+) and CD4(+) TCRalphabeta cells were
+unresponsive to IL-15, but could be expanded upon TCR stimulation as mature
+CD8alphabeta(+) and CD4(+) T cells. These T cells had the characteristics of
+conventional T cells: CD4(+) cells expressed ThPOK, CD40L, and high levels of
+IL-2 and IL-4; CD8(+) cells expressed Eomes, Runx3, and high levels of granzyme, 
+perforin, and IFN-gamma. Induction of murine or human MHC class I expression on
+OP9-DL1 cells had no influence on the differentiation of mature CD8(+) cells.
+Similarly, the presence of dendritic cells was not required for the generation of
+mature CD4(+) or CD8(+) T cells. These data suggest that positive selection of
+these cells is induced by interaction between T precursor cells.
+
+PMID: 19801512  [PubMed - indexed for MEDLINE]
+
+
+24. J Cell Biochem. 2009 Aug 15;107(6):1037-45. doi: 10.1002/jcb.22212.
+
+Runx and ThPOK: a balancing act to regulate thymocyte lineage commitment.
+
+Egawa T(1).
+
+Author information: 
+(1)Molecular Pathogenesis Program, The Kimmel Center for Biology and Medicine at 
+Skirball Institute for Biomolecular Medicine, New York University School of
+Medicine, New York, New York 10016, USA. Takeshi.Egawa@med.nyu.edu
+
+CD4-positive helper T cells and CD8-positive cytotoxic T cells comprise the
+majority of T lymphocytes present in secondary lymphoid organs and are essential 
+for acquired immunity. These two populations are derived from common precursors
+in the thymus and selected through interaction between their clonal T-cell
+receptors and major histocompatibility complex molecules. Although intensely
+studied as a model system for binary cell fate decisions, the mechanisms
+underlying the helper versus cytotoxic lineage choice in the thymus has been
+elusive. In the past few years, it has been demonstrated that the Runx family of 
+transcription factors, particularly Runx3, is essential for the generation of
+cytotoxic lineage T cells, whereas the ThPOK zinc finger transcription factor
+that plays a crucial role in the differentiation of the helper lineage. Recent
+works have implied that a cross-regulation between Runx and ThPOK contributes to 
+appropriate thymocyte lineage commitment. In this article, recent findings on the
+transcription factor networks governing thymocyte lineage decisions are
+discussed, focusing on the two factors, and provide insights into mechanisms of
+lineage-specific gene regulation in the process of T-cell commitments.
+
+(c) 2009 Wiley-Liss, Inc.
+
+PMID: 19479890  [PubMed - indexed for MEDLINE]
+
+
+25. Blood Cells Mol Dis. 2009 Jul-Aug;43(1):27-9. doi: 10.1016/j.bcmd.2009.03.004.
+Epub 2009 Apr 16.
+
+Antagonistic interplay between ThPOK and Runx in lineage choice of thymocytes.
+
+Egawa T(1), Taniuchi I.
+
+Author information: 
+(1)Kimmel Center for Biology and Medicine, Skirball Institute of Biomolecular
+Medicine, New York University School of Medicine, New York, New York 10016, USA. 
+egawa@saturn.med.nyu.edu
+
+Differentiation of CD4(+)CD8(+) double-positive (DP) thymocytes into either
+CD4(+)-helper or CD8(+)-cytotoxic lineages involves several phases. It has been
+suggested that, following initial specification to one of the lineages by a set
+of lineage-specific genes during positive selection, stable cell identity is
+established during the commitment process by eliminating differentiation
+potential toward the other lineage. While the Runx3 transcription factor fixes
+the Cd4 gene into a silenced state during cytotoxic-lineage cell differentiation,
+the ThPOK transcription factor is both necessary and sufficient to generate a
+CD4(+)CD8(-) phenotype in post-selection thymocytes, regardless of the MHC
+specificity of the TCRs. Recent studies have revealed that a reciprocal
+antagonistic interplay between Runx3 and ThPOK is a central component in the
+transcription factor network governing the helper versus cytotoxic-lineage
+decision.
+
+PMID: 19375362  [PubMed - indexed for MEDLINE]
+
+
+26. Immunity. 2008 Dec 19;29(6):876-87. doi: 10.1016/j.immuni.2008.09.019. Epub 2008 
+Dec 8.
+
+The zinc finger transcription factor Zbtb7b represses CD8-lineage gene expression
+in peripheral CD4+ T cells.
+
+Wang L(1), Wildt KF, Castro E, Xiong Y, Feigenbaum L, Tessarollo L, Bosselut R.
+
+Author information: 
+(1)Laboratory of Immune Cell Biology, Center for Cancer Research (CCR), NCI,
+National Institutes of Health, Bethesda, MD 20892, USA.
+
+How CD4-CD8 differentiation is maintained in mature T cells is largely unknown.
+The present study has examined the role in this process of the zinc finger
+protein Zbtb7b, a critical factor for the commitment of MHC II-restricted
+thymocytes to the CD4+ lineage. We showed that Zbtb7b acted in peripheral CD4+ T 
+cells to suppress CD8-lineage gene expression, including that of CD8 and
+cytotoxic effector genes perforin and Granzyme B, and was important for the
+proper repression of interferon-gamma (IFN-gamma) during effector
+differentiation. The inappropriate expression of IFN-gamma by Zbtb7b-deficient
+CD4+ T cells required the activities of Eomesodermin and Runx transcription
+factors. Runx activity was needed for Granzyme B expression, indicating that Runx
+proteins control expression of the cytotoxic program. We conclude that a key
+function of Zbtb7b in the mature CD4+ T cell compartment is to repress
+CD8-lineage gene expression.
+
+PMCID: PMC3392968
+PMID: 19062319  [PubMed - indexed for MEDLINE]
+
+
+27. Nat Immunol. 2008 Oct;9(10):1113-21. doi: 10.1038/ni.1650. Epub 2008 Sep 7.
+
+Cascading suppression of transcriptional silencers by ThPOK seals helper T cell
+fate.
+
+Muroi S(1), Naoe Y, Miyamoto C, Akiyama K, Ikawa T, Masuda K, Kawamoto H,
+Taniuchi I.
+
+Author information: 
+(1)Laboratory for Transcriptional Regulation, RIKEN Research Center for Allergy
+and Immunology, Yokohama, Japan.
+
+Comment in
+    Immunol Cell Biol. 2009 Feb;87(2):109-12.
+
+CD4 and the transcription factor ThPOK are essential for the differentiation of
+major histocompatibility complex class II-restricted thymocytes into the helper T
+cell lineage; their genes (Cd4 and Zbtb7b (called 'ThPOK' here)) are repressed by
+transcriptional silencer elements in cytotoxic T cells. The molecular mechanisms 
+regulating expression of these genes during helper T cell lineage differentiation
+remain unknown. Here we showed that inefficient upregulation of ThPOK, induced by
+removal of the proximal enhancer from the ThPOK locus, resulted in the
+transdifferentiation of helper lineage-specified cells into the cytotoxic T cell 
+lineage. Furthermore, direct antagonism by ThPOK of the Cd4 and ThPOK silencers
+generated two regulatory loops that initially inhibited Cd4 downregulation and
+later stabilized ThPOK expression. Our results show how an initial
+lineage-specification signal can be amplified and stabilized during the
+lineage-commitment process.
+
+PMID: 18776907  [PubMed - indexed for MEDLINE]
+
+
+28. Toxicol Lett. 2008 Aug 28;180(3):189-95. doi: 10.1016/j.toxlet.2008.06.856. Epub 
+2008 Jun 17.
+
+2,3,7,8-Tetrachlorodibenzo-p-dioxin modulates the expression of cKrox and Runx3, 
+transcription regulatory factors controlling the lineage commitment of CD4+CD8+
+into CD4 and CD8 thymocytes, respectively.
+
+Gill BC(1), Jeon CH, Sung HN, Kim HL, Jin DW, Park JH.
+
+Author information: 
+(1)Department of Biology, Changwon National University, #9 Sarim-dong, Changwon
+641-773, Kyungnam, South Korea.
+
+2,3,7,8-Tetrachlorodibenzo-p-dioxin (TCDD) was reported to skew the lineage
+commitment of thymocytes toward CD4(-)CD8+ T (CD8 T) cells. However, the
+underlying mechanisms are not known. In the present study, we first demonstrated 
+that the expression of transcription regulatory factors such as cKrox and Runx3, 
+which have been shown to be intimately associated with the commitment of CD4+CD8+
+double-positive (DP) to CD4 or CD8 single-positive (SP) thymocyes, was
+down-regulated by TCDD in CD4 SP thymocytes, but up-regulated in DP, CD4+CD8+
+double-negative (DN), and CD8 SP thymocytes. Then, we found that TCDD inhibited
+the differentiation of DPK cells, an immature CD4+CD8+ lymphoma cell line, into
+CD4+CD8(-) T cells, as well as the expression of cKrox and Runx3 upon antigen
+stimulation. Co-treatment with the AhR antagonist alpha-naphthoflavone did not
+completely block the inhibitory action of TCDD on DPK differentiation and the
+expression of cKrox and Runx3 in DPK cells, suggesting that the immunomodulatory 
+abilities of TCDD are produced, at least in part, independently of the AhR
+pathway in DPK cells. Our findings could help in understanding the regulatory
+mechanisms of TCDD on thymocyte development, in particular on the skewed
+differentiation of DP into CD8 SP thymocytes.
+
+PMID: 18602973  [PubMed - indexed for MEDLINE]
+
+
+29. J Cell Mol Med. 2008 Dec;12(6B):2836-47. doi: 10.1111/j.1582-4934.2008.00287.x.
+Epub 2008 Feb 24.
+
+Chondroitin sulphate decreases collagen synthesis in normal and scleroderma
+fibroblasts through a Smad-independent TGF-beta pathway--implication of C-Krox
+and Sp1.
+
+Renard E(1), Chadjichristos C, Kypriotou M, Beauchef G, Bordat P, Dompmartin A,
+Widom RL, Boumediene K, Pujol JP, Galéra P.
+
+Author information: 
+(1)Laboratoire de Biochimie du Tissu Conjonctif, Université de
+Caen/Basse-Normandie, IFR 146 ICORE, Faculté de Médecine, CHU niveau 3, Caen,
+France.
+
+Despite several investigations, the transcriptional mechanisms which regulate the
+expression of both type I collagen genes (COL1A1 and COL1A2) in either
+physiological or pathological situations, such as scleroderma, are not completely
+known. In this study, we determined the effects of both native ichtyan
+chondroïtin sulphate (CS) and its derived hydrolytic fragments (CSf) on human
+normal (NF) and scleroderma (SF) fibroblasts. Here, we demonstrate for the first 
+time that CS and CSf exert an inhibitory effect on type I collagen protein
+synthesis and decrease the corresponding mRNA steady-state levels of COL1A1 and
+COL1A2 in NF and SF. These glycosaminoglycan molecules repress COL1A1 gene
+transcription through a -112/-61 bp sequence upstream the start site of
+transcription and imply hc-Krox and Sp1 transcription factors. In addition, CS
+and CSf induced a down-regulation of TbetaRI expression. As a conclusion, our
+findings highlight a possible new role for CS and CSf as anti-fibrotic molecules 
+and could help in elucidating the mechanisms of action by which CS and CSf exert 
+their inhibitory effect on type I collagen synthesis.
+
+PMCID: PMC3828896
+PMID: 18298657  [PubMed - indexed for MEDLINE]
+
+
+30. J Immunol. 2007 Oct 1;179(7):4405-14.
+
+The transcription factor Zbtb7b promotes CD4 expression by antagonizing
+Runx-mediated activation of the CD4 silencer.
+
+Wildt KF(1), Sun G, Grueter B, Fischer M, Zamisch M, Ehlers M, Bosselut R.
+
+Author information: 
+(1)Laboratory of Immune Cell Biology, Center for Cancer Research, National Cancer
+Institute, National Institutes of Health, Bethesda, MD 20892, USA.
+
+The persistence of CD4 expression is a key event distinguishing the
+differentiation of MHC class II-restricted thymocytes into CD4 T cells from that 
+of MHC class I-restricted thymocytes into CD8 T cells. The zinc finger
+transcription factor Zbtb7b (or cKrox or Thpok) is normally expressed in MHC
+class II-restricted thymocytes and promotes CD4 lineage choice. When expressed in
+MHC class I-restricted cells, Zbtb7b redirects these cells from their normal CD8 
+fate to CD4 differentiation, implying that it promotes, directly or not,
+sustained CD4 expression; the present study has investigated the mechanism of
+this effect. We demonstrate that, although Zbtb7b does not enhance CD4 expression
+on its own, it antagonizes the CD4 repression mediated by the transcription
+factor Runx3, which is normally up-regulated during CD8 differentiation and
+promotes CD4 silencing. Zbtb7b also antagonizes CD4 repression by the related
+protein Runx1, which is expressed in CD4 lineage cells. This antagonism is
+observed both in vitro and in vivo, is transcriptional, and requires domains of
+Zbtb7b that are essential to its ability to promote CD4 differentiation in vivo. 
+Furthermore, Zbtb7b fails to antagonize Runx in cells treated with histone
+deacetylase inhibitors, suggesting that Zbtb7b acts by reducing the expression of
+thus far unknown factors that cooperate with Runx molecules to repress CD4. These
+findings demonstrate that the transcription factor Zbtb7b promotes CD4 expression
+by antagonizing Runx-mediated CD4 repression.
+
+PMID: 17878336  [PubMed - indexed for MEDLINE]
+
+
+31. J Biol Chem. 2007 Nov 2;282(44):32000-14. Epub 2007 Aug 13.
+
+Human collagen Krox up-regulates type I collagen expression in normal and
+scleroderma fibroblasts through interaction with Sp1 and Sp3 transcription
+factors.
+
+Kypriotou M(1), Beauchef G, Chadjichristos C, Widom R, Renard E, Jimenez SA, Korn
+J, Maquart FX, Oddos T, Von Stetten O, Pujol JP, Galéra P.
+
+Author information: 
+(1)Laboratoire de Biochimie du Tissu Conjonctif, Université de
+Caen/Basse-Normandie, IFR ICORE 146, FacultédeMédecine, CHU Niveau 3, Avenue de
+la Côte de Nacre, 14032 Caen Cedex, France.
+
+Despite several investigations, the transcriptional mechanisms that regulate the 
+expression of both type I collagen genes (COL1A1 and COL1A2) in either
+physiological or pathological situations, such as scleroderma, are not completely
+known. We have investigated the role of hc-Krox transcription factor on type I
+collagen expression by human dermal fibroblasts. hc-Krox exerted a stimulating
+effect on type I collagen protein synthesis and enhanced the corresponding mRNA
+steady-state levels of COL1A1 and COL1A2 in foreskin fibroblasts (FF), adult
+normal fibroblasts (ANF), and scleroderma fibroblasts (SF). Forced hc-Krox
+expression was found to up-regulate COL1A1 transcription through a -112/-61-bp
+sequence in FF, ANF, and SF. Knockdown of hc-Krox by short interfering RNA and
+decoy strategies confirmed the transactivating effect of hc-Krox and decreased
+substantially COL1A1 transcription levels in all fibro-blast types. The
+-112/-61-bp sequence bound specifically hc-Krox but also Sp1 and CBF. Attempts to
+elucidate the potential interactions between hc-Krox, Sp1, and Sp3 revealed that 
+all of them co-immunoprecipitate from FF cellular extracts when a c-Krox antibody
+was used and bind to the COL1A1 promoter in chromatin immunoprecipitation assays.
+Moreover, hc-Krox DNA binding activity to its COL1A1-responsive element is
+increased in SF, cells producing higher amounts of type I collagen compared with 
+ANF and FF. These data suggest that the regulation of COL1A1 gene transcription
+in human dermal fibroblasts involves a complex machinery that implicates at least
+three transcription proteins, hc-Krox, Sp1, and Sp3, which could act in concert
+to up-regulate COL1A1 transcriptional activity and provide evidence for a
+pro-fibrotic role of hc-Krox.
+
+PMID: 17698844  [PubMed - indexed for MEDLINE]
+
+
+32. Genomics. 2007 Jun;89(6):673-7. Epub 2007 Apr 16.
+
+Maturational arrest of thymocyte development is caused by a deletion in the
+receptor-like protein tyrosine phosphatase kappa gene in LEC rats.
+
+Kose H(1), Sakai T, Tsukumo S, Wei K, Yamada T, Yasutomo K, Matsumoto K.
+
+Author information: 
+(1)Division of Animal Research Resources, Institute of Health Biosciences, The
+University of Tokushima Graduate School, Tokushima 770-8503, Japan.
+
+The Long-Evans Cinnamon (LEC) rat has a spontaneous mutation, T helper
+immunodeficiency (thid), which causes a markedly reduced CD4(+) thymocyte
+population. Here we positionally clone the locus and identify a deletion in the
+gene encoding a receptor-like protein tyrosine phosphatase kappa (Ptprk) that led
+to complete loss of the transcript. The rat Ptprk gene exhibits 98% identity with
+the human and mouse counterparts and is expressed most abundantly in the
+CD4(-)CD8(-) double-negative stage. The downregulation of Ptprk in mouse immature
+thymocytes by RNA interference mimicked the thid phenotype. These results
+indicate that thid maps to the Ptprk locus and that functional Ptprk is crucial
+for lineage commitment or progression of CD4(+) T cells. We also found that Ptprk
+appears to function in parallel with or downstream of Th-POK/cKrox (also known as
+ZBTB7B), a master regulator of T cell lineage decision.
+
+PMID: 17434290  [PubMed - indexed for MEDLINE]
+
+
+33. Biochem Biophys Res Commun. 2005 Aug 12;333(4):1123-31.
+
+c-Krox down-regulates the expression of UDP-glucose dehydrogenase in
+chondrocytes.
+
+Beauchef G(1), Kypriotou M, Chadjichristos C, Widom RL, Porée B, Renard E,
+Moslemi S, Wegrowski Y, Maquart FX, Pujol JP, Galéra P.
+
+Author information: 
+(1)Laboratory of Connective Tissue Biochemistry, Faculty of Medicine, Caen,
+France.
+
+Chondrocyte glycosaminoglycan (GAG) synthesis is regulated by the availability of
+UDP-glucuronate, the substrate of glucuronosyl transferases which form the GAG
+chains in proteoglycans and hyaluronan. UDP-glucose dehydrogenase (UDPGD) is
+therefore a key enzyme in the synthesis of UDP-glucuronate from glucose. However,
+the mechanisms regulating its expression in chondrocytes are not fully
+understood. We investigated the effect of c-Krox, a zinc-finger transcription
+factor previously shown to modulate several matrix genes, on the synthesis of GAG
+and transcriptional activity of several UDPGD gene promoter constructs, using
+transient transfection and decoy experiments in rabbit articular chondrocytes
+(RACs). We show that overexpression of c-Krox inhibits radiosulfate incorporation
+into neosynthesized GAG and that the effect was mediated by a cis-sequence
+located between +18 and +39bp of the UDPGD gene. Since that sequence can also
+bind Sp1/Sp3 factors, it is likely that c-Krox acts in concert with these
+proteins to modulate the UDPGD gene expression in articular chondrocytes.
+
+PMID: 15982635  [PubMed - indexed for MEDLINE]
+
+
+34. Matrix Biol. 2001 Nov;20(7):451-62.
+
+The hcKrox gene family regulates multiple extracellular matrix genes.
+
+Widom RL(1), Lee JY, Joseph C, Gordon-Froome I, Korn JH.
+
+Author information: 
+(1)Arthritis Center, Boston University School of Medicine, 715 Albany Street,
+Boston, MA 02118, USA. rwidom@medicine.bu.edu
+
+The transcription factor cKrox was originally identified as a protein that bound 
+to a negative transcription regulatory element in the murine alpha1(I) collagen
+promoter. We recently reported the cloning and characterization of human cKrox
+(hcKrox). Overexpression of hcKrox in NIH3T3 fibroblasts efficiently repressed
+the promoters of the fibronectin and alpha1(I) collagen genes (70-90%) in
+transient transfection assays and suppressed the endogenous genes in hcKrox
+expressing permanent cell lines. We have now isolated genomic clones and cDNAs
+encoding two novel transcription factors related to hcKrox termed hcKrox-beta and
+hcKrox-gamma (the original clone is now referred to as hcKrox-alpha). Both
+contain three kruppel-like zinc-finger DNA binding motifs that are 71-78%
+identical to those of hcKrox-alpha. The NH(2)-terminus of all three proteins
+contains a POZ domain, a conserved 120 amino acid motif involved in
+transcriptional repression and protein dimerization. RT-PCR experiments
+demonstrate that all three hcKrox family members are expressed in foreskin and
+dermal fibroblasts. Transient transfection studies in NIH3T3 fibroblasts
+demonstrate that hcKrox-alpha -beta and -gamma, as well as the murine cKrox-beta 
+homologue, LRF, suppress transcription driven by promoters for the alpha1(I) and 
+alpha2(I) collagen, fibronectin and elastin genes. Electrophoretic mobility shift
+assays and coimmunoprecipitation studies suggest that homo- and
+heterodimerization occurs between cKrox family members. Dimer formation is
+influenced by amino acids in the NH(2)-terminal POZ domain and the Zn(+2)-finger 
+region. Immunoprecipitation studies indicate that cKrox can form heterodimers in 
+solution in the absence of DNA. Thus, a multi-gene family exists that can
+coordinately regulate several extracellular matrix genes and has the potential to
+form many heterodimeric transcription factors.
+
+PMID: 11691585  [PubMed - indexed for MEDLINE]
+
+
+35. J Biol Chem. 2000 Sep 1;275(35):27421-38.
+
+Regulation of human COL2A1 gene expression in chondrocytes. Identification of
+C-Krox-responsive elements and modulation by phenotype alteration.
+
+Ghayor C(1), Herrouin JF, Chadjichristos C, Ala-Kokko L, Takigawa M, Pujol JP,
+Galéra P.
+
+Author information: 
+(1)Laboratoire de Biochimie du Tissu Conjonctif, Centre Hospitalier Universitaire
+de Caen, Faculté de Médecine, Avenue de la Côte de Nacre, 14032, Caen Cedex,
+France.
+
+To identify control motifs involved in human type II collagen gene transcription 
+in both differentiated and dedifferentiated rabbit articular chondrocytes,
+transient transfection experiments were performed. A 715-base pair (bp) region of
+the first intron (+2127/+2842), including a 153-bp sequence so far
+uncharacterized (+2689/+2842), was found to mediate enhancer activity. In
+dedifferentiated chondrocytes, this enhancer activity was shown to be less
+effective than in primary cultures but still present. We then demonstrated that a
+zinc finger protein, C-Krox, activates COL2A1 gene transcription in
+differentiated chondrocytes through the enhancer region, whereas in subcultured
+cells, it inhibited the gene activity via a 266-bp promoter. Multicopies of the
+C-Krox binding site were found to mediate transactivation in both primary
+cultures and passaged cells, whereas C-Krox overexpression inhibited
+transcription in dedifferentiated chondrocytes. Additionally, we showed that
+C-Krox binds to several cis sequences that mediate its transcriptional effects.
+During chondrocyte dedifferentiation, the protein levels and binding activity of 
+C-Krox were reduced, whereas those of NF-kappaB were increased. This was not
+associated with variations of mRNA levels, suggesting that post-transcriptional
+regulatory mechanisms could be involved in C-Krox expression. These results
+suggest that C-Krox plays a major role in type II collagen expression and the
+chondrocyte phenotype modulation.
+
+PMID: 10856292  [PubMed - indexed for MEDLINE]
+
+
+36. J Cell Biochem. 1999 Jun 1;73(3):408-22.
+
+Species differences in cis-elements of the proalpha1(I) procollagen promoter and 
+their binding proteins.
+
+Peterkofsky B(1), Gosiewska A, Singh K, Pearlman S, Mahmoodian F.
+
+Author information: 
+(1)Laboratory of Biochemistry, National Cancer Institute, Bethesda, Maryland
+20892-4255, USA. peterkob@exchange.nih.gov
+
+Previous studies suggest that there may be species differences in the utilization
+of cis-elements of the type I collagen genes. The present study was designed to
+examine this possibility by focusing on two regions of the proalpha1(I) collagen 
+promoter. One is the GC-rich A1 region (-194/168) that modulates transcriptional 
+activity of the mouse promoter. The other contains a glucocorticoid response
+element (GRE) implicated in negative glucocorticoid regulation of the rat
+promoter. Unlike mouse A1 probes, probes representing the analogous human
+(-195/-168) and rat (-193/-179) regions failed to bind nuclear proteins in gel
+shift assays. Binding assays with mouse A1 probes containing base substitutions
+indicated that this behavior could be ascribed to five bases in the human, and
+two in the rat sequences. In addition, the pattern of expression of c-Krox, a
+protein that alters transcriptional activity via the mouse A1 element, differed
+in mouse and human tissues. Computer analysis revealed differences in the
+arrangement of GRE half-sites in human and rat proalpha1(I) collagen promoters.
+In a region of the human promoter (-700/673) analogous to the rat (-672/-633),
+there are three half-sites, each separated by two nucleotides, that cooperate in 
+binding of glucocorticoid receptor. There also is a proximal half-site at
+position -335 of the human promoter that binds glucocorticoid receptor, but it is
+not present in the rat promoter. This study has defined several species-specific 
+differences in the sequences and nuclear protein binding activity of regions
+involved in transcriptional activity of the proalpha1(I) collagen promoter. The
+results suggest that the A1 regions of the human and rat promoters examined here 
+are unlikely to function as regulatory cis-elements, and they provide a framework
+for investigating the role of GREs in transcriptional regulation. They also
+suggest that species differences in cis-elements and transcription factors should
+be taken into consideration when using heterologous systems to study collagen
+gene regulation.
+
+PMID: 10321840  [PubMed - indexed for MEDLINE]
+
+
+37. J Bone Miner Res. 1997 Dec;12(12):2050-60.
+
+Functional characterization of the human biglycan 5'-flanking DNA and binding of 
+the transcription factor c-Krox.
+
+Heegaard AM(1), Gehron Robey P, Vogel W, Just W, Widom RL, Schøller J, Fisher LW,
+Young MF.
+
+Author information: 
+(1)Center for Clinical and Basic Research, Ballerup, Denmark.
+
+The transcriptional regulation of human biglycan expression under normal and
+pathological conditions was studied. The 5'-flanking regions of the human and
+mouse genes were isolated and analyzed; the two promoter regions share 81%
+identity. Both promoters are without a TATA and CAT box and contain multiple Sp1 
+sites. Human dermal fibroblasts were transiently transfected with progressive
+deletional human biglycan 5'-flanking DNA-CAT constructs, and a significant
+variation in activity among the individual constructs was found. A small deletion
+in several cases caused a more than 2-fold increase or decrease in promoter
+activity, thereby mapping the target sites for repressors or activators. Human
+biglycan expression is reduced in females with Ullrich-Turner syndrome (45,X) and
+increased in individuals with supernumerary sex chromosomes, and it has been
+speculated that biglycan plays a role in the short stature phenotype of Turner
+syndrome. Analysis of the transcriptional regulation of biglycan in individuals
+with sex chromosome anomalies showed that a -262 to -218 region of the biglycan
+promoter was differentially regulated. This region was extensively analyzed by
+DNAse footprinting and electrophoretic mobility shift assays, and a putative
+binding site for the transcription factor c-Krox was discovered. The binding of
+c-Krox to a site located at approximately -248 to -230 in the human biglycan
+promoter was confirmed by using extracts from COS cells expressing recombinant
+human c-Krox. The expression of c-Krox in bone was then examined by
+reverse-transcribed polymerase chain reaction and Northern blotting analysis; an 
+approximately 3.4 kb transcript was detected in primary osteoblastic cells, in
+MG-63 cells, and in human bone marrow stromal cells. This is the first detection 
+of c-Krox in bone cells, and it suggests that c-Krox, like another member of the 
+Krox family, Krox-20, might play a regulatory role in bone.
+
+PMID: 9421237  [PubMed - indexed for MEDLINE]
+
+
+38. Gene. 1997 Oct 1;198(1-2):407-20.
+
+Cloning and characterization of hcKrox, a transcriptional regulator of
+extracellular matrix gene expression.
+
+Widom RL(1), Culic I, Lee JY, Korn JH.
+
+Author information: 
+(1)Department of Medicine, Arthritis Center, Boston University School of
+Medicine, and Boston V.A. Medical Center, MA 02118, USA. rwidom@med-med1.bu.edu
+
+cKrox is a novel zinc finger-containing transcription factor that binds to the
+alpha1(I) and alpha2(I) collagen gene promoters. The gene coding for cKrox is a
+new member of a family of early growth response genes, that play important roles 
+in development. In the mouse, cKrox is expressed, beginning at 9.5 days of
+gestation and at 10.5 days in regions destined to become skin. In adult animals, 
+expression is predominantly in skin, one of the two major organs where type I
+collagen is expressed. We have isolated cDNA clones for human cKrox. Theoretical 
+translation of the nucleic acid sequence reveals 90% conservation of amino acids 
+between the mouse and human proteins; however, the human gene product contains a 
+117-amino-acid N-terminal extension. The amino acid sequences of the zinc-finger 
+DNA binding domains of mouse and human cKrox are identical. RT-PCR analysis of
+human fibroblasts indicates constitutive low-level expression of cKrox which can 
+be transiently elevated by treatment with retinoic acid. Transient transfection
+assays indicate that hcKrox represses transcription of the alpha1(I) procollagen 
+promoter, and electrophoretic mobility shift assays demonstrate that hcKrox binds
+to both the human and murine promoter DNA. Deletion derivatives of hcKrox
+demonstrate transcription-activating potential that is promoter-dependent. NIH3T3
+cells permanently expressing hcKrox demonstrate a threefold and 10-fold decrease 
+in alpha1(I) procollagen and fibronectin mRNA levels, respectively, compared to
+control cells. Consistent with this finding, a fibronectin promoter reporter
+construct is repressed more than 80% by hcKrox. These data suggest that hcKrox
+represses collagen transcription directly, and it may function as a repressor of 
+fibronectin and possibly other matrix genes.
+
+PMID: 9370309  [PubMed - indexed for MEDLINE]
+
+

@@ -1,0 +1,183 @@
+
+1. Biochem J. 2014 Feb 15;458(1):171-83. doi: 10.1042/BJ20130628.
+
+ZNF16 (HZF1) promotes erythropoiesis and megakaryocytopoiesis via regulation of
+the c-KIT gene.
+
+Chen J(1), Li XB(1), Su R(1), Song L(1), Wang F(1), Zhang JW(1).
+
+Author information: 
+(1)*Key State Laboratory of Medical Molecular Biology, Department of Biochemistry
+and Molecular Biology, Institute of Basic Medical Sciences, Chinese Academy of
+Medical Sciences and Peking Union Medical College, Beijing, 100005, China.
+
+We previously characterized the zinc finger protein gene HZF1 [also known as
+ZNF16 (zinc finger protein 16)] and demonstrated its important roles in erythroid
+and megakaryocytic differentiation of K562 cells. In the present study, we
+investigated its effect on erythroid and megakaryocytic differentiation of HSPCs 
+(haemopoietic stem/progenitor cells). We observed up-regulation of ZNF16 during
+erythroid and megakaryocytic differentiation of the CD34+ HSPCs, and demonstrated
+that ZNF16 promotes erythroid and megakaryocytic differentiation by
+gain-of-function and loss-of-function experiments. Using a luciferase reporter
+and ChIP assays ZNF16 was demonstrated to bind to the c-KIT gene promoter and
+inhibit its expression in K562 cells. Enforced expression and knockdown of ZNF16 
+down-regulated and up-regulated the expression of the c-KIT gene in K562 cells
+and HSPCs respectively. Significantly decreased levels of the c-Kit protein were 
+observed following erythroid and megakaryocytic differentiation of K562 and CD34+
+cells. The knockdown of c-KIT partially rescued the differentiation inhibition
+caused by ZNF16 knockdown. The knockdown of c-KIT also blocked the activity of
+the c-Raf/MEK [MAPK (mitogen-activated protein kinase)/ERK
+(extracellular-signal-regulated kinase) kinase]/ERK/c-Jun signal pathway and
+reduced further the level of HEY1 (hes-related family bHLH transcription factor
+with YRPW motif 1), a repressor of GATA1 (GATA-binding protein 1) transcription, 
+which finally up-regulated the expression of GATA1, a central regulator of
+erythroid and megakaryocytic differentiation. In conclusion the results of the
+present study demonstrate that ZNF16 plays an important role in erythropoiesis
+and megakaryocytopoiesis via its regulation of the
+c-Kit/c-Raf/MEK/ERK/c-Jun/HEY1/GATA1 cascade.
+
+PMID: 24180487  [PubMed - indexed for MEDLINE]
+
+
+2. Mol Med Rep. 2011 Nov-Dec;4(6):1131-7. doi: 10.3892/mmr.2011.564. Epub 2011 Aug
+22.
+
+Zinc finger protein HZF1 promotes K562 cell proliferation by interacting with and
+inhibiting INCA1.
+
+Li XB(1), Chen J, Deng MJ, Wang F, Du ZW, Zhang JW.
+
+Author information: 
+(1)National Laboratory of Medical Molecular Biology, Institute of Basic Medical
+Sciences, Chinese Academy of Medical Sciences and Peking Union Medical College,
+Beijing 100005, PR China.
+
+Previously, we characterized a zinc finger protein gene HZF1 (ZNF16) and
+demonstrated that it played a significant role in the erythroid and
+megakaryocytic differentiation of K562 cells by knockdown of the gene. In this
+study, we examined the effect of HZF1 on the proliferation and apoptosis of K562 
+cells and identified the possible mechanism for this effect. By
+lentivirus-mediated gene transfer, we obtained stable K562 transductants with
+HZF1 overexpression (K562/WPXL-HZF1) and stable control transductants
+(K562/WPXL). Significantly rapid cell amplification was observed in
+K562/WPXL-HZF1 cells compared to K562/WPXL cells. The cell cycles of the two
+transductants were analyzed and the results demonstrated that HZF1 overexpression
+promoted the S to G2/M phase transition. Additionally, we found that the
+overexpression of HZF1 slightly inhibits the apoptosis of K562 cells induced by
+sodium arsenate. Furthermore, using a yeast two-hybrid (Y2H) system we identified
+the HZF1-interacting proteins and screened 29 potential binding partners of HZF1.
+Using a co-immunoprecipitation (Co-IP) assay, we confirmed the interaction
+between HZF1 and the inhibitor of cyclin-dependent kinase (CDK) interacting with 
+cyclin A1 (INCA1), and proved that this interaction leads to the inhibition of
+INCA1 function, which rescued the activity of CDK2 inhibited by INCA1. In
+conclusion, our results identified novel functions of the HZF1 gene and revealed 
+a possible mechanism through which HZF1 affects K562 cell proliferation.
+
+PMID: 21874239  [PubMed - indexed for MEDLINE]
+
+
+3. BMC Genomics. 2010 Mar 26;11:206. doi: 10.1186/1471-2164-11-206.
+
+The ancient mammalian KRAB zinc finger gene cluster on human chromosome 8q24.3
+illustrates principles of C2H2 zinc finger evolution associated with unique
+expression profiles in human tissues.
+
+Lorenz P(1), Dietmann S, Wilhelm T, Koczan D, Autran S, Gad S, Wen G, Ding G, Li 
+Y, Rousseau-Merck MF, Thiesen HJ.
+
+Author information: 
+(1)Institute of Immunology, University of Rostock, Schillingallee 70, 18055
+Rostock, Germany.
+
+BACKGROUND: Expansion of multi-C2H2 domain zinc finger (ZNF) genes, including the
+Krüppel-associated box (KRAB) subfamily, paralleled the evolution of tetrapodes, 
+particularly in mammalian lineages. Advances in their cataloging and
+characterization suggest that the functions of the KRAB-ZNF gene family
+contributed to mammalian speciation.
+RESULTS: Here, we characterized the human 8q24.3 ZNF cluster on the genomic, the 
+phylogenetic, the structural and the transcriptome level. Six (ZNF7, ZNF34,
+ZNF250, ZNF251, ZNF252, ZNF517) of the seven locus members contain exons encoding
+KRAB domains, one (ZNF16) does not. They form a paralog group in which the
+encoded KRAB and ZNF protein domains generally share more similarities with each 
+other than with other members of the human ZNF superfamily. The closest relatives
+with respect to their DNA-binding domain were ZNF7 and ZNF251. The analysis of
+orthologs in therian mammalian species revealed strong conservation and purifying
+selection of the KRAB-A and zinc finger domains. These findings underscore
+structural/functional constraints during evolution. Gene losses in the murine
+lineage (ZNF16, ZNF34, ZNF252, ZNF517) and potential protein truncations in
+primates (ZNF252) illustrate ongoing speciation processes. Tissue expression
+profiling by quantitative real-time PCR showed similar but distinct patterns for 
+all tested ZNF genes with the most prominent expression in fetal brain. Based on 
+accompanying expression signatures in twenty-six other human tissues ZNF34 and
+ZNF250 revealed the closest expression profiles. Together, the 8q24.3 ZNF genes
+can be assigned to a cerebellum, a testis or a prostate/thyroid subgroup. These
+results are consistent with potential functions of the ZNF genes in morphogenesis
+and differentiation. Promoter regions of the seven 8q24.3 ZNF genes display
+common characteristics like missing TATA-box, CpG island-association and
+transcription factor binding site (TFBS) modules. Common TFBS modules partly
+explain the observed expression pattern similarities.
+CONCLUSIONS: The ZNF genes at human 8q24.3 form a relatively old mammalian
+paralog group conserved in eutherian mammals for at least 130 million years. The 
+members persisted after initial duplications by undergoing subfunctionalizations 
+in their expression patterns and target site recognition. KRAB-ZNF mediated
+repression of transcription might have shaped organogenesis in mammalian
+ontogeny.
+
+PMCID: PMC2865497
+PMID: 20346131  [PubMed - indexed for MEDLINE]
+
+
+4. Mol Biotechnol. 2010 Feb;44(2):83-9. doi: 10.1007/s12033-009-9210-8. Epub 2009
+Sep 15.
+
+Identification of the trans-activation domain and the nuclear location signals of
+human zinc finger protein HZF1 (ZNF16).
+
+Deng MJ(1), Li XB, Peng H, Zhang JW.
+
+Author information: 
+(1)Institute of Basic Medical Sciences, Chinese Academy of Medical Sciences and
+Peking Union Medical College, Dong Dan San Tiao, Beijing, People's Republic of
+China.
+
+We previously characterized a C2H2-type zinc finger protein HZF1 (ZNF16) and
+demonstrated its important role in erythroid and megakaryocytic differentiation. 
+This protein was located in nucleus. In this study, we first approved that HZF1
+solely could activate lacZ reporter gene in yeast host Y190. This self-activation
+phenomenon together with structure and distribution of HZF1 suggested it as a
+potential transcription factor. By the auto-activation experiments and the
+luciferase reporter system and deletion mutation analysis, we further located the
+trans-activation domain at amino acid residences 49-197 within the non-zinc
+finger region of HZF1. An acidic residue-rich subregion (amino acids 49-105) was 
+important for the trans-activation effect, but it could not function
+independently. By deletion mutation analysis, we also identified three nuclear
+location signals, which were located in the regions of amino acids 255-280,
+328-360, and 460-490, respectively, and all of them within the zinc finger
+region.
+
+PMID: 19763908  [PubMed - indexed for MEDLINE]
+
+
+5. Cancer Res. 1994 Aug 1;54(15):4183-7.
+
+A homozygous deletion in a small cell lung cancer cell line involving a 3p21
+region with a marked instability in yeast artificial chromosomes.
+
+Kok K(1), van den Berg A, Veldhuis PM, van der Veen AY, Franke M, Schoenmakers
+EF, Hulsbeek MM, van der Hout AH, de Leij L, van de Ven W, et al.
+
+Author information: 
+(1)Department of Medical Genetics, University of Groningen, The Netherlands.
+
+All types of lung carcinoma are characterized by a high frequency of loss of
+sequences from the short arm of chromosome 3, the smallest region of overlap
+containing D3F15S2 in band p21. Here we characterize a 440-kilobase segment from 
+this region, which we found homozygously deleted in one of our small cell lung
+cancer-derived cell lines. The homozygous deletion maps between UBE1L and ZnF16, 
+just centromeric to D3F15S2. Yeast artificial chromosomes with inserts
+originating from the deleted region are very unstable and readily lose parts of
+their insert.
+
+PMID: 8033151  [PubMed - indexed for MEDLINE]
+
+

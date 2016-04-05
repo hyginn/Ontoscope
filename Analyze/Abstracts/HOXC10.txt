@@ -1,0 +1,1459 @@
+
+1. BMC Genomics. 2016 Jan 25;17(1):77. doi: 10.1186/s12864-016-2396-9.
+
+RNA-seq analysis of the gonadal transcriptome during Alligator mississippiensis
+temperature-dependent sex determination and differentiation.
+
+Yatsu R(1), Miyagawa S(2,)(3), Kohno S(4), Parrott BB(5), Yamaguchi K(6), Ogino
+Y(7,)(8), Miyakawa H(9), Lowers RH(10), Shigenobu S(11,)(12), Guillette LJ
+Jr(13), Iguchi T(14,)(15).
+
+Author information: 
+(1)Department of Basic Biology, Faculty of Life Science, SOKENDAI (Graduate
+University for Advanced Studies), 5-1 Higashiyama, Myodaiji, Okazaki, Aichi,
+444-8787, Japan. ryoheiy@nibb.ac.jp. (2)Department of Basic Biology, Faculty of
+Life Science, SOKENDAI (Graduate University for Advanced Studies), 5-1
+Higashiyama, Myodaiji, Okazaki, Aichi, 444-8787, Japan. miyagawa@nibb.ac.jp.
+(3)Okazaki Institute for Integrative Bioscience, National Institute for Basic
+Biology, National Institutes of Natural Sciences, 5-1 Higashiyama, Myodaiji,
+Okazaki, Aichi, 444-8787, Japan. miyagawa@nibb.ac.jp. (4)Department of Obstetrics
+and Gynecology, Medical University of South Carolina, and Marine Biomedicine and 
+Environmental Science Center, Hollings Marine Laboratory, Charleston, SC, 29412, 
+USA. kohnos@gmail.com. (5)Department of Obstetrics and Gynecology, Medical
+University of South Carolina, and Marine Biomedicine and Environmental Science
+Center, Hollings Marine Laboratory, Charleston, SC, 29412, USA.
+benbparrott@gmail.com. (6)National Institute for Basic Biology, National
+Institutes of Natural Sciences, 38 Nishigonaka, Myodaiji, Okazaki, Aichi,
+444-8585, Japan. kyamaguc@nibb.ac.jp. (7)Department of Basic Biology, Faculty of 
+Life Science, SOKENDAI (Graduate University for Advanced Studies), 5-1
+Higashiyama, Myodaiji, Okazaki, Aichi, 444-8787, Japan. ogino@nibb.ac.jp.
+(8)Okazaki Institute for Integrative Bioscience, National Institute for Basic
+Biology, National Institutes of Natural Sciences, 5-1 Higashiyama, Myodaiji,
+Okazaki, Aichi, 444-8787, Japan. ogino@nibb.ac.jp. (9)Center for Bioscience
+Research and Education, Utsunomiya University, 350 Mine-machi, Utsunomiya,
+Tochigi, 321-8505, Japan. h-miya@cc.utsunomiya-u.ac.jp. (10)Innovative Health
+Applications, Kennedy Space Center, Merritt Island, FL, 32899, USA.
+Russell.h.lowers@nasa.gov. (11)Department of Basic Biology, Faculty of Life
+Science, SOKENDAI (Graduate University for Advanced Studies), 5-1 Higashiyama,
+Myodaiji, Okazaki, Aichi, 444-8787, Japan. shige@nibb.ac.jp. (12)National
+Institute for Basic Biology, National Institutes of Natural Sciences, 38
+Nishigonaka, Myodaiji, Okazaki, Aichi, 444-8585, Japan. shige@nibb.ac.jp.
+(13)Department of Obstetrics and Gynecology, Medical University of South
+Carolina, and Marine Biomedicine and Environmental Science Center, Hollings
+Marine Laboratory, Charleston, SC, 29412, USA. kohno@musc.edu. (14)Department of 
+Basic Biology, Faculty of Life Science, SOKENDAI (Graduate University for
+Advanced Studies), 5-1 Higashiyama, Myodaiji, Okazaki, Aichi, 444-8787, Japan.
+taisen@nibb.ac.jp. (15)Okazaki Institute for Integrative Bioscience, National
+Institute for Basic Biology, National Institutes of Natural Sciences, 5-1
+Higashiyama, Myodaiji, Okazaki, Aichi, 444-8787, Japan. taisen@nibb.ac.jp.
+
+BACKGROUND: The American alligator (Alligator mississippiensis) displays
+temperature-dependent sex determination (TSD), in which incubation temperature
+during embryonic development determines the sexual fate of the individual.
+However, the molecular mechanisms governing this process remain a mystery,
+including the influence of initial environmental temperature on the comprehensive
+gonadal gene expression patterns occurring during TSD.
+RESULTS: Our characterization of transcriptomes during alligator TSD allowed us
+to identify novel candidate genes involved in TSD initiation. High-throughput RNA
+sequencing (RNA-seq) was performed on gonads collected from A. mississippiensis
+embryos incubated at both a male and a female producing temperature (33.5 °C and 
+30 °C, respectively) in a time series during sexual development. RNA-seq yielded 
+375.2 million paired-end reads, which were mapped and assembled, and used to
+characterize differential gene expression. Changes in the transcriptome occurring
+as a function of both development and sexual differentiation were extensively
+profiled. Forty-one differentially expressed genes were detected in response to
+incubation at male producing temperature, and included genes such as Wnt
+signaling factor WNT11, histone demethylase KDM6B, and transcription factor
+C/EBPA. Furthermore, comparative analysis of development- and sex-dependent
+differential gene expression revealed 230 candidate genes involved in alligator
+sex determination and differentiation, and early details of the suspected
+male-fate commitment were profiled. We also discovered sexually dimorphic
+expression of uncharacterized ncRNAs and other novel elements, such as unique
+expression patterns of HEMGN and ARX. Twenty-five of the differentially expressed
+genes identified in our analysis were putative transcriptional regulators, among 
+which were MYBL2, MYCL, and HOXC10, in addition to conventional sex
+differentiation genes such as SOX9, and FOXL2. Inferred gene regulatory network
+was constructed, and the gene-gene and temperature-gene interactions were
+predicted.
+CONCLUSIONS: Gonadal global gene expression kinetics during sex determination has
+been extensively profiled for the first time in a TSD species. These findings
+provide insights into the genetic framework underlying TSD, and expand our
+current understanding of the developmental fate pathways during vertebrate sex
+determination.
+
+PMCID: PMC4727388
+PMID: 26810479  [PubMed - in process]
+
+
+2. Obesity (Silver Spring). 2016 Jan;24(1):51-9. doi: 10.1002/oby.21317. Epub 2015
+Dec 9.
+
+Fat depot-specific expression of HOXC9 and HOXC10 may contribute to adverse fat
+distribution and related metabolic traits.
+
+Brune JE(1), Kern M(2), Kunath A(2,)(3), Flehmig G(2,)(3), Schön MR(4), Lohmann
+T(5), Dressler M(5), Dietrich A(1,)(6), Fasshauer M(2), Kovacs P(2), Stumvoll
+M(2), Blüher M(2), Klöting N(1).
+
+Author information: 
+(1)IFB AdiposityDiseases, University of Leipzig, Leipzig, Germany. (2)Department 
+of Medicine, University of Leipzig, Leipzig, Germany. (3)German Center for
+Diabetes Research (DZD), Leipzig, Germany. (4)Städtisches Klinikum Karlsruhe,
+Clinic of Visceral Surgery, Karlsruhe, Germany. (5)Municipal Clinic
+Dresden-Neustadt, Dresden, Germany. (6)Department of Surgery, University of
+Leipzig, Leipzig, Germany.
+
+OBJECTIVE: Independent previous studies in both rodents and humans suggest a role
+of developmental genes in the origin of obesity and body fat distribution. Here, 
+the hypothesis that human adipose tissue (AT) expression of the developmental
+genes homeobox transcription factors C9 (HOXC9) and C10 (HOXC10) is fat
+depot-specific and related to obesity-related traits was tested.
+METHODS: In 636 individuals, HOXC9 and HOXC10 mRNA expression was investigated in
+paired abdominal subcutaneous (SC) and omental AT samples in relation to a wide
+range of age, BMI, fat distribution, and metabolic parameters and in subfractions
+of isolated adipocytes and cells of the stromal vascular fraction (SVF).
+RESULTS: HOXC9 and HOXC10 mRNA expression is significantly higher in SC compared 
+to omental AT. HOXC9 and HOXC10 mRNA expression significantly correlates with
+body fat mass, even after adjustment for age and gender. In smaller subgroups
+(depending on the availability of data), fat depot-related significant gender-
+and BMI-independent associations between HOXC9 and HOXC10 gene expression and
+parameters of glucose metabolism and AT biology were found (e.g., adipocyte
+size).
+CONCLUSIONS: Taken together, these data suggest that HOXC9 and HOXC10 may play an
+important role in the development of obesity, adverse fat distribution, and
+subsequent alterations in whole-body metabolism and AT function.
+
+© 2015 The Obesity Society.
+
+PMID: 26647900  [PubMed - in process]
+
+
+3. Mol Biosyst. 2015 Nov;11(11):2946-54. doi: 10.1039/c5mb00253b.
+
+HOXC10 up-regulation contributes to human thyroid cancer and indicates poor
+survival outcome.
+
+Feng X(1), Li T, Liu Z, Shi Y, Peng Y.
+
+Author information: 
+(1)Department of Endocrinology & Metabolism, Shanghai General Hospital, Shanghai 
+Jiaotong University, 100 Haining Road, Shanghai 200080, China.
+pengyongdewz@126.com.
+
+HOX genes have been well described as important players in development and
+morphogenesis, and more recently, in carcinogenesis. The role and clinical
+implication of homeodomain-containing gene 10 (HOXC10) in human thyroid cancer is
+poorly understood. Real-time PCR and bioinformatics analysis were used to detect 
+the expression of HOXC10 in normal and human thyroid cancer samples from Shanghai
+General Hospital (also known as Shanghai First People's Hospital) and the TCGA
+dataset. The survival time of patients with human thyroid cancer was also
+detected. Cell Count Kit-8 (CCK8) analysis was used to detect cell proliferation,
+and the cell cycle was assessed by flow cytometry. Migration and invasion were
+detected by transwell analysis. Gene set enrichment analysis (GSEA) was used to
+explore the correlation of HOXC10 with signaling pathways. Real-time PCR and
+Western blot analysis were used to detect the expression of signaling pathway
+related genes in human thyroid cancer cells. HOXC10 expression in Shanghai
+General Hospital and the TCGA dataset revealed a significant increase in human
+thyroid cancer tissues and its expression was positively correlated with the
+advanced age, poor pathologic stage, and poor prognosis. HOXC10 knockdown by
+shRNA conferred cell cycle blocking and inhibition of migration and invasion.
+GSEA in the TCGA datasets revealed that HOXC10 expression was positively
+correlated with cytokine-cytokine receptor interaction and chemokine signaling
+pathways. Our data suggest that inhibition of HOXC10 may be a therapeutic
+strategy for human thyroid cancer treatment. This study investigates the role and
+clinical implication of HOXC10 in human thyroid cancer.
+
+PMID: 26279264  [PubMed - in process]
+
+
+4. Mol Med. 2015 Jul 21. doi: 10.2119/molmed.2015.00071. [Epub ahead of print]
+
+An EG-VEGF-dependent decrease in homeobox gene NKX3.1 contributes to
+cytotrophoblast dysfunction: a possible mechanism in human fetal growth
+restriction.
+
+Murthi P(1,)(2), Brouillet S(3,)(4,)(5,)(6), Pratt A(1), Borg A(1), Kalionis
+B(7), Goffin F(7), Tsatsaris V(8), Munaut C(7), Feige J(3,)(4,)(5), Benharouga
+M(9), Fournier T(10), Alfaidy N(3,)(4,)(5).
+
+Author information: 
+(1)Department of Perinatal Medicine Pregnancy Research Centre, The Royal Women's 
+Hospital and The University of Melbourne Department of Obstetrics and
+Gynaecology, The Royal Women's Hospital, Parkville, Victoria 3052, Australia.
+(2)Department of Medicine, Monash University, Clayton, Victoria 3168, Australia. 
+(3)Institut National de la Santé et de la Recherche Médicale, Unité 1036,
+Grenoble. France. (4)Univ. Grenoble-Alpes, 38000, Grenoble, France.
+(5)Commissariat à l'Energie Atomique (CEA), iRTSV-Biology of Cancer and
+infection, Grenoble, France. (6)Centre Hospitalier Universitaire de Grenoble,
+Hôpital Couple-Enfant, Centre Clinique et Biologique d'Assistance Médicale à la
+Procréation, 38700, La Tronche, France. (7)Laboratory of Tumor and Developmental 
+Biology University of Liège, Belgium. (8)Department of Obstetrics and Gynecology,
+Hôpital Cochin, Maternité Port-Royal, Université Rene Descartes, F-75014 Paris,
+France. (9)Centre National de la Recherche Scientifique, Unité Mixte de Recherche
+5249, Laboratoire de Chimie et Biologie des Métaux, Grenoble, France. (10)INSERM,
+U1139, Paris, F-75006, France, Universite Paris Descartes, UMR-S1139, Sorbonne
+Paris Cite, Paris, F-75006, France, PremUp Foundation, Paris, F-75006, France.
+
+Idiopathic fetal growth restriction (FGR) is frequently associated with placental
+insufficiency. Previous reports have provided evidence that EG-VEGF (endocrine
+gland derived-vascular endothelial growth factor), a placental secreted protein, 
+is expressed during the first trimester of pregnancy, controls both trophoblast
+proliferation and invasion, and its increased expression is associated with human
+FGR. In this study, we hypothesise that EG-VEGF-dependent change in placental
+homeobox gene expressions contribute to trophoblast dysfunction in idiopathic
+FGR. The changes in EG-VEGF-dependent homeobox gene expressions were determined
+using a Homeobox gene cDNA array on placental explants of 8-12 weeks' gestation
+after stimulation with EG-VEGF in vitro for 24 hours. The Homeobox gene array
+identified a >5-fold increase in HOXA9, HOXC8, HOXC10, HOXD1, HOXD8, HOXD9 and
+HOXD11, while NKX 3.1 showed a >2 fold-decrease in mRNA expression compared to
+untreated controls. Homeobox gene NKX3.1 was selected as a candidate because it
+is a downstream target of EG-VEGF and its expression and functional role are
+largely unknown in control and idiopathic FGR-affected placentae. Real-time PCR
+and immunoblotting showed a significant decrease in NKX3.1 mRNA and protein
+levels, respectively, in placentae from FGR compared to control pregnancies. Gene
+inactivation in vitro using short-interference RNA specific for NKX3.1
+demonstrated an increase in BeWo cell differentiation and a decrease in
+HTR8-SVneo proliferation. We conclude that the decreased expression of homeobox
+gene NKX3.1 down-stream of EG-VEGF may contribute to the trophoblast dysfunction 
+associated with idiopathic FGR pregnancies.
+
+PMCID: PMC4749495
+PMID: 26208047  [PubMed - as supplied by publisher]
+
+
+5. Sci Transl Med. 2014 Mar 26;6(229):229ra41. doi: 10.1126/scitranslmed.3008326.
+
+Epigenetic reprogramming of HOXC10 in endocrine-resistant breast cancer.
+
+Pathiraja TN(1), Nayak SR, Xi Y, Jiang S, Garee JP, Edwards DP, Lee AV, Chen J,
+Shea MJ, Santen RJ, Gannon F, Kangaspeska S, Jelinek J, Issa JP, Richer JK, Elias
+A, McIlroy M, Young LS, Davidson NE, Schiff R, Li W, Oesterreich S.
+
+Author information: 
+(1)Graduate Program in Translational Biology and Molecular Medicine, Baylor
+College of Medicine, Houston, TX 77030, USA.
+
+Resistance to aromatase inhibitors (AIs) is a major clinical problem in the
+treatment of estrogen receptor (ER)-positive breast cancer. In two breast cancer 
+cell line models of AI resistance, we identified widespread DNA hyper- and
+hypomethylation, with enrichment for promoter hypermethylation of developmental
+genes. For the homeobox gene HOXC10, methylation occurred in a CpG shore, which
+overlapped with a functional ER binding site, causing repression of HOXC10
+expression. Although short-term blockade of ER signaling caused relief of HOXC10 
+repression in both cell lines and breast tumors, it also resulted in concurrent
+recruitment of EZH2 and increased H3K27me3, ultimately transitioning to increased
+DNA methylation and silencing of HOXC10. Reduced HOXC10 in vitro and in
+xenografts resulted in decreased apoptosis and caused antiestrogen resistance.
+Supporting this, we used paired primary and metastatic breast cancer specimens to
+show that HOXC10 was reduced in tumors that recurred during AI treatment. We
+propose a model in which estrogen represses apoptotic and growth-inhibitory genes
+such as HOXC10, contributing to tumor survival, whereas AIs induce these genes to
+cause apoptosis and therapeutic benefit, but long-term AI treatment results in
+permanent repression of these genes via methylation and confers resistance.
+Therapies aimed at inhibiting AI-induced histone and DNA methylation may be
+beneficial in blocking or delaying AI resistance.
+
+PMCID: PMC4277862
+PMID: 24670685  [PubMed - indexed for MEDLINE]
+
+
+6. J Cell Physiol. 2014 Oct;229(10):1405-16. doi: 10.1002/jcp.24577.
+
+Altered histone mark deposition and DNA methylation at homeobox genes in human
+oral squamous cell carcinoma.
+
+Marcinkiewicz KM(1), Gudas LJ.
+
+Author information: 
+(1)Department of Pharmacology, Weill Cornell Medical College and Weill Graduate
+School of Biomedical Sciences of Cornell University, New York, New York.
+
+We recently reported a role of polycomb repressive complex 2 (PRC2) and PRC2
+trimethylation of histone 3 lysine 27 (H3K27me3) in the regulation of homeobox
+(HOX) (Marcinkiewicz and Gudas, 2013, Exp Cell Res) gene transcript levels in
+human oral keratinocytes (OKF6-TERT1R) and tongue squamous cell carcinoma (SCC)
+cells. Here, we assessed both the levels of various histone modifications at a
+subset of homeobox genes and genome wide DNA methylation patterns in OKF6-TERT1R 
+and SCC-9 cells by using ERRBS (enhanced reduced representation bisulfite
+sequencing). We detected the H3K9me3 mark at HOXB7, HOXC10, HOXC13, and HOXD8 at 
+levels higher in OKF6-TERT1R than in SCC-9 cells; at IRX1 and SIX2 the H3K9me3
+levels were conversely higher in SCC-9 than in OKF6-TERT1R. The H3K79me3 mark was
+detectable only at IRX1 in OKF6-TERT1R and at IRX4 in SCC-9 cells. The levels of 
+H3K4me3 and H3K36me3 marks correlate with the transcript levels of the assessed
+homeobox genes in both OKF6-TERT1R and SCC-9. We detected generally lower CpG
+methylation levels on DNA in SCC-9 cells at annotated genomic regions which were 
+differentially methylated between OKF6-TERT1R and SCC-9 cells; however, some
+genomic regions, including the HOX gene clusters, showed DNA methylation at
+higher levels in SCC-9 than OKF6-TERT1R. Thus, both altered histone modification 
+patterns and changes in DNA methylation are associated with dysregulation of
+homeobox gene expression in human oral cavity SCC cells, and this dysregulation
+potentially plays a role in the neoplastic phenotype of oral keratinocytes.
+
+© 2014 Wiley Periodicals, Inc.
+
+PMCID: PMC4206563
+PMID: 24519855  [PubMed - indexed for MEDLINE]
+
+
+7. Hum Mol Genet. 2014 May 1;23(9):2498-510. doi: 10.1093/hmg/ddt626. Epub 2013 Dec 
+17.
+
+Gene-centric meta-analyses for central adiposity traits in up to 57 412
+individuals of European descent confirm known loci and reveal several novel
+associations.
+
+Yoneyama S(1), Guo Y, Lanktree MB, Barnes MR, Elbers CC, Karczewski KJ,
+Padmanabhan S, Bauer F, Baumert J, Beitelshees A, Berenson GS, Boer JM, Burke G, 
+Cade B, Chen W, Cooper-Dehoff RM, Gaunt TR, Gieger C, Gong Y, Gorski M,
+Heard-Costa N, Johnson T, Lamonte MJ, McDonough C, Monda KL, Onland-Moret NC,
+Nelson CP, O'Connell JR, Ordovas J, Peter I, Peters A, Shaffer J, Shen H, Smith
+E, Speilotes L, Thomas F, Thorand B, Monique Verschuren WM, Anand SS, Dominiczak 
+A, Davidson KW, Hegele RA, Heid I, Hofker MH, Huggins GS, Illig T, Johnson JA,
+Kirkland S; Look AHEAD Research Group, König W, Langaee TY, McCaffery J, Melander
+O, Mitchell BD, Munroe P, Murray SS, Papanicolaou G, Redline S, Reilly M, Samani 
+NJ, Schork NJ, Van Der Schouw YT, Shimbo D, Shuldiner AR, Tobin MD, Wijmenga C,
+Yusuf S; GIANT Consortium; CARe IBC Consortium, Hakonarson H, Lange LA, Demerath 
+EW, Fox CS, North KE, Reiner AP, Keating B, Taylor KC.
+
+Author information: 
+(1)Gillings School of Global Public Health.
+
+Waist circumference (WC) and waist-to-hip ratio (WHR) are surrogate measures of
+central adiposity that are associated with adverse cardiovascular events, type 2 
+diabetes and cancer independent of body mass index (BMI). WC and WHR are highly
+heritable with multiple susceptibility loci identified to date. We assessed the
+association between SNPs and BMI-adjusted WC and WHR and unadjusted WC in up to
+57 412 individuals of European descent from 22 cohorts collaborating with the
+NHLBI's Candidate Gene Association Resource (CARe) project. The study population 
+consisted of women and men aged 20-80 years. Study participants were genotyped
+using the ITMAT/Broad/CARE array, which includes ~50 000 cosmopolitan tagged SNPs
+across ~2100 cardiovascular-related genes. Each trait was modeled as a function
+of age, study site and principal components to control for population
+stratification, and we conducted a fixed-effects meta-analysis. No new loci for
+WC were observed. For WHR analyses, three novel loci were significantly
+associated (P < 2.4 × 10(-6)). Previously unreported rs2811337-G near TMCC1 was
+associated with increased WHR (ß ± SE, 0.048 ± 0.008, P = 7.7 × 10(-9)) as was
+rs7302703-G in HOXC10 (ß = 0.044 ± 0.008, P = 2.9 × 10(-7)) and rs936108-C in
+PEMT (ß = 0.035 ± 0.007, P = 1.9 × 10(-6)). Sex-stratified analyses revealed two 
+additional novel signals among females only, rs12076073-A in SHC1 (ß = 0.10 ±
+0.02, P = 1.9 × 10(-6)) and rs1037575-A in ATBDB4 (ß = 0.046 ± 0.01, P = 2.2 ×
+10(-6)), supporting an already established sexual dimorphism of central
+adiposity-related genetic variants. Functional analysis using ENCODE and eQTL
+databases revealed that several of these loci are in regulatory regions or
+regions with differential expression in adipose tissue.
+
+PMCID: PMC3988452
+PMID: 24345515  [PubMed - indexed for MEDLINE]
+
+
+8. Exp Cell Res. 2014 Jan 1;320(1):128-43. doi: 10.1016/j.yexcr.2013.09.011. Epub
+2013 Sep 25.
+
+Altered epigenetic regulation of homeobox genes in human oral squamous cell
+carcinoma cells.
+
+Marcinkiewicz KM(1), Gudas LJ.
+
+Author information: 
+(1)Department of Pharmacology, Weill Cornell Medical College of Cornell
+University, 1300 York Avenue, New York, NY 10065, USA; Department of
+Pharmacology, Weill Cornell Graduate School of Medical Sciences of Cornell
+University, 1300 York Avenue, New York, NY 10065, USA.
+
+To gain insight into oral squamous cell carcinogenesis, we performed deep
+sequencing (RNAseq) of non-tumorigenic human OKF6-TERT1R and tumorigenic SCC-9
+cells. Numerous homeobox genes are differentially expressed between OKF6-TERT1R
+and SCC-9 cells. Data from Oncomine, a cancer microarray database, also show that
+homeobox (HOX) genes are dysregulated in oral SCC patients. The activity of
+Polycomb repressive complexes (PRC), which causes epigenetic modifications, and
+retinoic acid (RA) signaling can control HOX gene transcription. HOXB7, HOXC10,
+HOXC13, and HOXD8 transcripts are higher in SCC-9 than in OKF6-TERT1R cells;
+using ChIP (chromatin immunoprecipitation) we detected PRC2 protein SUZ12 and the
+epigenetic H3K27me3 mark on histone H3 at these genes in OKF6-TERT1R, but not in 
+SCC-9 cells. In contrast, IRX1, IRX4, SIX2 and TSHZ3 transcripts are lower in
+SCC-9 than in OKF6-TERT1R cells. We detected SUZ12 and the H3K27me3 mark at these
+genes in SCC-9, but not in OKF6-TERT1R cells. SUZ12 depletion increased HOXB7,
+HOXC10, HOXC13, and HOXD8 transcript levels and decreased the proliferation of
+OKF6-TERT1R cells. Transcriptional responses to RA are attenuated in SCC-9 versus
+OKF6-TERT1R cells. SUZ12 and H3K27me3 levels were not altered by RA at these HOX 
+genes in SCC-9 and OKF6-TERT1R cells. We conclude that altered activity of PRC2
+is associated with dysregulation of homeobox gene expression in human SCC cells, 
+and that this dysregulation potentially plays a role in the neoplastic
+transformation of oral keratinocytes.
+
+© 2013 Elsevier Inc. All rights reserved.
+
+PMCID: PMC3880227
+PMID: 24076275  [PubMed - indexed for MEDLINE]
+
+
+9. Dev Biol. 2013 Feb 1;374(1):234-44. doi: 10.1016/j.ydbio.2012.11.017. Epub 2012
+Nov 27.
+
+Pitx1 broadly associates with limb enhancers and is enriched on hindlimb
+cis-regulatory elements.
+
+Infante CR(1), Park S, Mihala AG, Kingsley DM, Menke DB.
+
+Author information: 
+(1)Department of Genetics, University of Georgia, Coverdell Building, Room 250A, 
+500 DW Brooks Drive, Athens, GA 30602, USA.
+
+Extensive functional analyses have demonstrated that the pituitary homeodomain
+transcription factor Pitx1 plays a critical role in specifying hindlimb
+morphology in vertebrates. However, much less is known regarding the target genes
+and cis-regulatory elements through which Pitx1 acts. Earlier studies suggested
+that the hindlimb transcription factors Tbx4, HoxC10, and HoxC11 might be
+transcriptional targets of Pitx1, but definitive evidence for direct regulatory
+interactions has been lacking. Using ChIP-Seq on embryonic mouse hindlimbs, we
+have pinpointed the genome-wide location of Pitx1 binding sites during mouse
+hindlimb development and identified potential gene targets for Pitx1. We
+determined that Pitx1 binding is significantly enriched near genes involved in
+limb morphogenesis, including Tbx4, HoxC10, and HoxC11. Notably, Pitx1 is bound
+to the previously identified HLEA and HLEB hindlimb enhancers of the Tbx4 gene
+and to a newly identified Tbx2 hindlimb enhancer. Moreover, Pitx1 binding is
+significantly enriched on hindlimb relative to forelimb-specific cis-regulatory
+features that are differentially marked by H3K27ac. However, our analysis
+revealed that Pitx1 also strongly associates with many functionally verified limb
+enhancers that exhibit similar levels of activity in the embryonic mesenchyme of 
+forelimbs and hindlimbs. We speculate that Pitx1 influences hindlimb morphology
+both through the activation of hindlimb-specific enhancers as well as through the
+hindlimb-specific modulation of enhancers that are active in both sets of limbs.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+PMCID: PMC3640454
+PMID: 23201014  [PubMed - indexed for MEDLINE]
+
+
+10. Dev Dyn. 2012 Nov;241(11):1816-26. doi: 10.1002/dvdy.23861. Epub 2012 Sep 25.
+
+Molecular profiling of synovial joints: use of microarray analysis to identify
+factors that direct the development of the knee and elbow.
+
+Pazin DE(1), Gamer LW, Cox KA, Rosen V.
+
+Author information: 
+(1)Department of Developmental Biology, Harvard School of Dental Medicine, 188
+Longwood Avenue, Boston, MA 02115, USA. dorothy_pazin@hsdm.harvard.edu
+
+BACKGROUND: Synovial joints develop from the interzone, a dense layer of
+mesenchymal progenitor cells that marks the site of the future joint. During the 
+morphogenic events that follow, joints attain their distinct shape and
+organization. The molecular mechanisms controlling the initial specification of
+synovial joints has been studied, but the question of how individual joints
+attain the specific structure required for their unique functions remains largely
+unresolved. Here, we use microarray analysis to compare knee and elbow formation 
+to identify factors involved in the development of specific joints.
+RESULTS: The knee is enriched for the hindlimb patterning genes Hoxc9, Hoxc10,
+and Tbx4 and for Tgfbi, Rspo2, and Sfrp2, factors involved in transforming growth
+factor-beta/bone morphogenetic protein (TGFß/BMP) and Wnt signaling. Consistent
+with these findings, we show that TGFß signaling directs knee morphogenesis, and 
+is necessary for meniscus development. The tissue surrounding the elbow is highly
+enriched for genes involved in muscle specification and differentiation, and in
+splotch-delayed muscleless mutants, elbow, but not knee morphogenesis is
+disrupted.
+CONCLUSIONS: Our results suggest there are fundamental differences in how
+individual joints develop after interzone formation. Our microarray analyses
+provides a new resource for further investigation of the pathways involved in the
+morphogenesis of specific synovial joints.
+
+Copyright © 2012 Wiley Periodicals, Inc.
+
+PMID: 22972626  [PubMed - indexed for MEDLINE]
+
+
+11. PLoS One. 2011;6(12):e28577. doi: 10.1371/journal.pone.0028577. Epub 2011 Dec 16.
+
+Reduction in inflammatory gene expression in skeletal muscle from Roux-en-Y
+gastric bypass patients randomized to omentectomy.
+
+Tamboli RA(1), Hajri T, Jiang A, Marks-Shulman PA, Williams DB, Clements RH,
+Melvin W, Bowen BP, Shyr Y, Abumrad NN, Flynn CR.
+
+Author information: 
+(1)Department of Surgery, Vanderbilt University School of Medicine, Nashville,
+Tennessee, United States of America.
+
+OBJECTIVES: To examine the effects of Roux-en-Y gastric bypass (RYGB) surgery
+with and without laparoscopic removal of omental fat (omentectomy) on the
+temporal gene expression profiles of skeletal muscle.
+DESIGN: Previously reported were the whole-body metabolic effects of a
+randomized, single-blinded study in patients receiving RYGB surgery stratified to
+receive or not receive omentectomy. In this follow up study we report on changes 
+in skeletal muscle gene expression in a subset of 21 patients, for whom biopsies 
+were collected preoperatively and at either 6 months or 12 months
+postoperatively.
+METHODOLOGY/PRINCIPAL FINDINGS: RNA isolated from skeletal muscle biopsies of 21 
+subjects (8 without omentectomy and 13 with omentectomy) taken before RYGB or at 
+6 and 12 months postoperatively were subjected to gene expression profiling via
+Exon 1.0 S/T Array and Taqman Low Density Array. Robust Multichip Analysis and
+gene enrichment data analysis revealed 84 genes with at least a 4-fold expression
+difference after surgery. At 6 and 12 months the RYGB with omentectomy group
+displayed a greater reduction in the expression of genes associated with skeletal
+muscle inflammation (ANKRD1, CDR1, CH25H, CXCL2, CX3CR1, IL8, LBP, NFIL3, SELE,
+SOCS3, TNFAIP3, and ZFP36) relative to the RYGB non-omentectomy group.
+Expressions of IL6 and CCL2 were decreased at all postoperative time points.
+There was differential expression of genes driving protein turnover (IGFN1,
+FBXW10) in both groups over time and increased expression of PAAF1 in the
+non-omentectomy group at 12 months. Evidence for the activation of skeletal
+muscle satellite cells was inferred from the up-regulation of HOXC10. The
+elevated post-operative expression of 22 small nucleolar RNAs and the decreased
+expression of the transcription factors JUNB, FOS, FOSB, ATF3 MYC, EGR1 as well
+as the orphan nuclear receptors NR4A1, NR4A2, NR4A3 suggest dramatic
+reorganizations at both the cellular and genetic levels.
+CONCLUSIONS/SIGNIFICANCE: These data indicate that RYGB reduces skeletal muscle
+inflammation, and removal of omental fat further amplifies this response.
+TRIAL REGISTRATION: ClinicalTrials.gov NCT00212160.
+
+PMCID: PMC3241684
+PMID: 22194858  [PubMed - indexed for MEDLINE]
+
+
+12. J Mol Endocrinol. 2012 Jan 25;48(1):61-75. doi: 10.1530/JME-11-0078. Print 2012
+Feb.
+
+HOXC10 is overexpressed in breast cancer and transcriptionally regulated by
+estrogen via involvement of histone methylases MLL3 and MLL4.
+
+Ansari KI(1), Hussain I, Kasiri S, Mandal SS.
+
+Author information: 
+(1)Department of Chemistry and Biochemistry, The University of Texas at
+Arlington, Arlington, TX 76019, USA.
+
+HOXC10 is a critical player in the development of spinal cord, formation of
+neurons, and associated with human leukemia. We found that HOXC10 is
+overexpressed in breast cancer and transcriptionally regulated by estrogen
+(17ß-estradiol, E(2)). The HOXC10 promoter contains several estrogen response
+elements (ERE1-7, half-sites). A luciferase-based reporter assay showed that ERE1
+and ERE6 of HOXC10 promoter are E(2) responsive. ERa and ERß play critical roles 
+in E(2)-mediated activation of HOXC10. Knockdown of ERa and ERß downregulated
+E(2)-induced HOXC10 expression. ERa and ERß bind to ERE1 and ERE6 regions in an
+E(2)-dependent manner. Additionally, knockdown of histone methylases MLL3 and
+MLL4 (but not MLL1 and MLL2) diminished E(2)-induced expression of HOXC10. MLL3
+and MLL4 were bound to the ERE1 and ERE6 regions of HOXC10 promoter in an
+E(2)-dependent manner. Overall, we demonstrated that HOXC10 is overexpressed in
+breast cancer, and it is an E(2)-responsive gene. Histone methylases MLL3 and
+MLL4, along with ERs, regulate HOXC10 gene expression in the presence of E(2).
+
+PMID: 22143955  [PubMed - indexed for MEDLINE]
+
+
+13. Xi Bao Yu Fen Zi Mian Yi Xue Za Zhi. 2011 Oct;27(10):1110-3.
+
+[The preparation of rabbit antiserum against gekko japonicus Hoxc10 and it's
+property identification].
+
+[Article in Chinese]
+
+Zhou XF(1), Lu RF, Chen Q, Chu YD, Wang XQ, Qian TM, Gu XX.
+
+Author information: 
+(1)Key Laboratory of Neuroregeneration, Nantong University, Nantong, China.
+
+AIM: Prepare the rabbit antiserum against gecko japonicus Hoxc10 and to identify 
+its properties.
+METHODS: Prokaryotic expression vector of g-Hoxc10 were constructed and then
+transform into E.coli (BL21). To make GST-g-Hoxc10 fusion protein in E.coli
+(BL21) under the optimized induction of Isopropyl
+ß-D-1-thiogalactopyranoside(IPTG). The recombination proteins were purified using
+affinity chromatography. The purified fusion protein was inoculated into adult
+rabbits to develop antiserum. Western blot and immunohistochemistry staining were
+then performed to evaluate the feature of the prepared antiserum.
+RESULTS: Prokaryotic expression vectors of g-Hoxc10 were successfully
+constructed. The soluble recombinant protein was highly expressed in E.coli BL21 
+and inoculated into adult rabbits to obtain high titer antiserum. Western blot
+and immunohistochemistry staining were then performed to evaluate the specificity
+of the prepared antiserum.
+CONCLUSION: We successfully amplified and expressed the g-Hoxc10 in E.coli BL21. 
+The purified fusion protein was inoculated into adult rabbits to develop
+antiserum. The obtained antiserum of g-Hoxc10 showed a high titer against Hoxc10 
+proteins. The protein and antiserum prepared in this study can be used for
+further research of the function investigation of Hoxc10.
+
+PMID: 21968313  [PubMed - indexed for MEDLINE]
+
+
+14. Nucleic Acids Res. 2010 Dec;38(22):8105-19. doi: 10.1093/nar/gkq688. Epub 2010
+Aug 6.
+
+Homeotic proteins participate in the function of human-DNA replication origins.
+
+Marchetti L(1), Comelli L, D'Innocenzo B, Puzzi L, Luin S, Arosio D, Calvello M, 
+Mendoza-Maldonado R, Peverali F, Trovato F, Riva S, Biamonti G, Abdurashidova G, 
+Beltram F, Falaschi A.
+
+Author information: 
+(1)NEST, Scuola Normale Superiore and Istituto Nanoscienze-CNR, Laboratorio di
+Biologia Molecolare, Scuola Normale Superiore, Pisa, Italy. l.marchetti@sns.it
+
+Recent evidence points to homeotic proteins as actors in the crosstalk between
+development and DNA replication. The present work demonstrates that HOXC13,
+previously identified as a new member of human DNA replicative complexes, is a
+stable component of early replicating chromatin in living cells: it displays a
+slow nuclear dynamics due to its anchoring to the DNA minor groove via the
+arginine-5 residue of the homeodomain. HOXC13 binds in vivo to the lamin B2
+origin in a cell-cycle-dependent manner consistent with origin function; the
+interaction maps with nucleotide precision within the replicative complex. HOXC13
+displays in vitro affinity for other replicative complex proteins; it interacts
+also in vivo with the same proteins in a cell-cycle-dependent fashion.
+Chromatin-structure modifying treatments, disturbing origin function, reduce also
+HOXC13-origin interaction. The described interactions are not restricted to a
+single origin nor to a single homeotic protein (also HOXC10 binds the lamin B2
+origin in vivo). Thus, HOX complexes probably contribute in a general,
+structure-dependent manner, to origin identification and assembly of replicative 
+complexes thereon, in presence of specific chromatin configurations.
+
+PMCID: PMC3001063
+PMID: 20693533  [PubMed - indexed for MEDLINE]
+
+
+15. Stem Cell Res. 2010 Jul;5(1):40-50. doi: 10.1016/j.scr.2010.03.004. Epub 2010 Mar
+27.
+
+The HOX Code as a "biological fingerprint" to distinguish functionally distinct
+stem cell populations derived from cord blood.
+
+Liedtke S(1), Buchheiser A, Bosch J, Bosse F, Kruse F, Zhao X, Santourlidis S,
+Kögler G.
+
+Author information: 
+(1)Institute for Transplantation Diagnostics and Cell Therapeutics,
+Heinrich-Heine-University Medical Center, Düsseldorf, Germany.
+liedtke@itz.uni-duesseldorf.de
+
+Mesenchymal stem cells (MSC) have been isolated from almost every adult tissue.
+In cord blood (CB), different non-hematopoietic CD45-, CD34- adherent cell
+populations can be generated: the cord blood derived MSC (CB-MSC), that behave
+almost like MSC from bone marrow (BM-MSC), and unrestricted somatic stem cells
+(USSC) which show a distinct differentiation potential into all three germ
+layers. However, distinguishing these populations easily by molecular markers is 
+still a concern. In this study we were able to present the HOX expression pattern
+of USSC, CB-MSC and BM-MSC, which in fact allows a discrimination of these
+populations. Briefly, RT-PCR analysis of the HOX code revealed a high similarity 
+between BM-MSC and CB-MSC, which are both HOX-positive, whereas USSC resembled H9
+embryonic stem cells HOX-negative.Especially HOXA9, HOXB7, HOXC10 and HOXD8 are
+good candidate markers to discriminate MSC from USSC. Thus, our data suggest that
+the "biological fingerprint" based on the HOX code can be used to distinguish
+functionally distinct MSC populations derived from bone marrow and cord blood.
+
+Copyright 2010 Elsevier B.V. All rights reserved.
+
+PMID: 20434420  [PubMed - indexed for MEDLINE]
+
+
+16. BMC Genomics. 2010 Mar 15;11:176. doi: 10.1186/1471-2164-11-176.
+
+The embryonic genes Dkk3, Hoxd8, Hoxd9 and Tbx1 identify muscle types in a
+diet-independent and fiber-type unrelated way.
+
+de Wilde J(1), Hulshof MF, Boekschoten MV, de Groot P, Smit E, Mariman EC.
+
+Author information: 
+(1)Top Institute Food and Nutrition, Nutrigenomics Consortium, Wageningen, the
+Netherlands. j.dewilde@hb.unimaas.nl
+
+BACKGROUND: The mouse skeletal muscle is composed of four distinct fiber types
+that differ in contractile function, number of mitochondria and metabolism. Every
+muscle type has a specific composition and distribution of the four fiber types. 
+To find novel genes involved in specifying muscle types, we used microarray
+analysis to compare the gastrocnemius with the quadriceps from mice fed a low fat
+diet (LFD) or high fat diet (HFD) for 8 weeks. Additional qPCR analysis were
+performed in the gastrocnemius, quadriceps and soleus muscle from mice fed an LFD
+or HFD for 20 weeks.
+RESULTS: In mice fed the 8-week LFD 162 genes were differentially expressed in
+the gastrocnemius vs. the quadriceps. Genes with the strongest differences in
+expression were markers for oxidative fiber types (e.g. Tnni1) and genes which
+are known to be involved in embryogenesis (Dkk3, Hoxd8,Hoxd9 and Tbx1). Also
+Dkk2, Hoxa5, Hoxa10, Hoxc9, Hoxc10, Hoxc6 and Tbx15 were detectably, but not
+differentially expressed in adult muscle tissue. Expression of differentially
+expressed genes was not influenced by an 8-week or 20-week HFD. Comparing
+gastrocnemius, quadriceps and soleus, expression of Hoxd8 and Hoxd9 was not
+related with expression of markers for the four different fiber types. We found
+that the expression of both Hoxd8 and Hoxd9 was much higher in the gastrocnemius 
+than in the quadriceps or soleus, whereas the expression of Dkk3 was high in
+quadriceps, but low in both gastrocnemius and soleus. Finally, expression of Tbx1
+was high in quadriceps, intermediate in soleus and low in gastrocnemius.
+CONCLUSIONS: We found that genes from the Dkk family, Hox family and Tbx family
+are detectably expressed in adult mouse muscle. Interestingly, expression of
+Dkk3, Hoxd8, Hoxd9 and Tbx1 was highly different between gastrocnemius,
+quadriceps and soleus. In fact, every muscle type showed a unique combination of 
+expression of these four genes which was not influenced by diet. Altogether, we
+conclude that genes important for embryogenesis identify mouse muscle types in a 
+diet-independent and fiber type-unrelated manner.
+
+PMCID: PMC2847971
+PMID: 20230627  [PubMed - indexed for MEDLINE]
+
+
+17. Crit Rev Biochem Mol Biol. 2010 Feb;45(1):14-22. doi: 10.3109/10409230903365608.
+
+DNA replication, development and cancer: a homeotic connection?
+
+Falaschi A(1), Abdurashidova G, Biamonti G.
+
+Author information: 
+(1)Scuola Normale Superiore, Pisa, Italy. falaschi@icgeb.org
+
+The homeotic proteins are transcription factors, highly conserved in metazoan
+organisms, exerting a pivotal role in development and differentiation. They
+individually display a loose specificity for the DNA sequence they can bind, but 
+operate mainly in multi-molecular associations that assure their target and
+function specificity. Homeotic proteins are known to play a role in the positive 
+or negative regulation of cell proliferation. Furthermore, many homeotic proteins
+are actually proto-oncogenes, since different translocations involving their
+genes cause tumors, particularly in the hematopoietic system. A one-hybrid screen
+to detect proteins with affinity for the lamin B2 replication origin identified
+three homeotic proteins, namely HoxA13, HoxC10 and HoxC13. Recent data
+demonstrate that the HoxC13 oncoprotein specifically associates with replication 
+foci and binds in vitro and in vivo to several human DNA replication origins.
+Moreover, Hox proteins interact with geminin, a regulator of cell cycle
+progression, and control the interaction of this protein with the DNA replication
+licensing factor Ctd1. Thus, the homeotic proteins, by participating directly in 
+the function of DNA replication origins, may provide a direct link between the
+accurate regulation of DNA replication required by the morphogenetic program and 
+the deregulation of this process typical of cancer.
+
+PMID: 19919294  [PubMed - indexed for MEDLINE]
+
+
+18. Int J Biol Sci. 2009 Jun 3;5(5):397-410.
+
+Axial and appendicular skeletal transformations, ligament alterations, and motor 
+neuron loss in Hoxc10 mutants.
+
+Hostikka SL(1), Gong J, Carpenter EM.
+
+Author information: 
+(1)Department of Psychiatry and Biobehavioral Science, UCLA School of Medicine,
+Los Angeles, CA 90095, USA.
+
+Vertebrate Hox genes regulate many aspects of embryonic body plan development and
+patterning. In particular, Hox genes have been shown to regulate regional
+patterning of the axial and appendicular skeleton and of the central nervous
+system. We have identified patterning defects resulting from the targeted
+mutation of Hoxc10, a member of the Hox10 paralogous family. Hoxc10 mutant mice
+have skeletal transformations in thoracic, lumbar, and sacral vertebrae and in
+the pelvis, along with alterations in the bones and ligaments of the hindlimbs.
+These results suggest that Hoxc10, along with other members of the Hox10
+paralogous gene family, regulates vertebral identity at the transition from
+thoracic to lumbar and lumbar to sacral regions. Our results also suggest a
+general role for Hoxc10 in regulating chondrogenesis and osteogenesis in the
+hindlimb, along with a specific role in shaping femoral architecture. In
+addition, mutant mice have a reduction in lumbar motor neurons and a change in
+locomotor behavior. These results suggest a role for Hoxc10 in generating or
+maintaining the normal complement of lumbar motor neurons.
+
+PMCID: PMC2713654
+PMID: 19623272  [PubMed - indexed for MEDLINE]
+
+
+19. Cloning Stem Cells. 2009 Jun;11(2):269-79. doi: 10.1089/clo.2008.0068.
+
+HOXC10 as a potential marker for discriminating between amnion- and
+decidua-derived mesenchymal stem cells.
+
+Hwang JH(1), Seok OS, Song HR, Jo JY, Lee JK.
+
+Author information: 
+(1)Department of Obstetrics and Gynecology, Korea University Guro Hospital, Korea
+University College of Medicine , Seoul, Korea.
+
+The HOX family of genes plays a fundamental role in the morphogenesis of
+vertebrate embryonic cells. HOX genes are thought to be important for the
+regulation of stem cells. We investigated HOX gene expression in mesenchymal stem
+cells (MSCs) from human placentas. We isolated MSCs from human placentas and
+confirmed stemness by fluorescence-activated cell sorting (FACS) analysis and
+differentiation studies. Using reverse transcription PCR, mRNA expression of 39
+Class I HOX genes was measured in the MSCs. The expression of HOXB6, C4, C8, C10,
+D3, D4, and D10 were measured by Western blot analysis. HOXC10 was expressed in
+10 of 10 amnion-derived MSCs but in only 2 of 10 decidua-derived MSCs. HOXC4 and 
+D10 were expressed in 100% of both amnion-derived MSCs and deciduas-derived MSCs.
+HOXD4 was silent in all amnion-derived MSCs and deciduas-derived MSCs (n = 10).
+HOX gene activation patterns might be a useful indicator for the detection of
+MSCs of different tissue origins. We demonstrated that HOXC10 is a gene that may 
+discriminate between amnion-derived MSCs and decidua-derived MSCs.
+
+PMID: 19522674  [PubMed - indexed for MEDLINE]
+
+
+20. Development. 2008 Jan;135(1):171-82.
+
+Hoxc10 and Hoxd10 regulate mouse columnar, divisional and motor pool identity of 
+lumbar motoneurons.
+
+Wu Y(1), Wang G, Scott SA, Capecchi MR.
+
+Author information: 
+(1)Department of Human Genetics, University of Utah, Salt Lake City, UT 84112,
+USA.
+
+A central question in neural development is how the broad diversity of neurons is
+generated in the vertebrate CNS. We have investigated the function of Hoxc10 and 
+Hoxd10 in mouse lumbar motoneuron development. We show that Hoxc10 and Hoxd10 are
+initially expressed in most newly generated lumbar motoneurons, but subsequently 
+become restricted to the lateral division of the lateral motor column (lLMC).
+Disruption of Hoxc10 and Hoxd10 caused severe hindlimb locomotor defects.
+Motoneurons in rostral lumbar segments were found to adopt the phenotype of
+thoracic motoneurons. More caudally the lLMC and dorsal-projecting axons were
+missing, yet most hindlimb muscles were innervated. The loss of the lLMC was not 
+due to decreased production of motoneuron precursors or increased apoptosis.
+Instead, presumptive lLMC neurons failed to migrate to their normal position, and
+did not differentiate into other motoneurons or interneurons. Together, these
+results show that Hoxc10 and Hoxd10 play key roles in establishing lumbar
+motoneuron columnar, divisional and motor pool identity.
+
+PMID: 18065432  [PubMed - indexed for MEDLINE]
+
+
+21. Cancer Res. 2007 Nov 1;67(21):10163-72.
+
+Gene expression analysis of preinvasive and invasive cervical squamous cell
+carcinomas identifies HOXC10 as a key mediator of invasion.
+
+Zhai Y(1), Kuick R, Nan B, Ota I, Weiss SJ, Trimble CL, Fearon ER, Cho KR.
+
+Author information: 
+(1)Department of Pathology, The University of Michigan Medical School, Ann Arbor,
+MI 48109-2200, USA.
+
+If left untreated, a subset of high-grade squamous intraepithelial lesions (HSIL)
+of the cervix will progress to invasive squamous cell carcinomas (SCC). To
+identify genes whose differential expression is linked to cervical cancer
+progression, we compared gene expression in microdissected squamous epithelial
+samples from 10 normal cervices, 7 HSILs, and 21 SCCs using high-density
+oligonucleotide microarrays. We identified 171 distinct genes at least 1.5-fold
+up-regulated (and P < 0.001) in the SCCs relative to HSILs and normal cervix
+samples. Differential expression of a subset of these genes was confirmed by
+quantitative reverse transcription-PCR and immunohistochemical staining of
+cervical tissue samples. One of the genes up-regulated during progression,
+HOXC10, was selected for functional studies aimed at assessing its role in
+mediating invasive behavior of neoplastic squamous epithelial cells. Elevated
+HOXC10 expression was associated with increased invasiveness of human
+papillomavirus-immortalized keratinocytes and cervical cancer-derived cell lines 
+in both in vitro and in vivo assays. Cervical cancer cells with high endogenous
+levels of HOXC10 were less invasive after short hairpin RNA-mediated knockdown of
+HOXC10 expression. Our findings support a key role for the HOXC10 homeobox
+protein in cervical cancer progression. Other genes with differential expression 
+in invasive SCC versus HSIL may contribute to tumor progression or may be useful 
+as markers for cancer diagnosis or progression risk.
+
+PMID: 17974957  [PubMed - indexed for MEDLINE]
+
+
+22. Mol Cancer Res. 2007 Sep;5(9):881-90.
+
+Breast cancer molecular signatures as determined by SAGE: correlation with lymph 
+node status.
+
+Abba MC(1), Sun H, Hawkins KA, Drake JA, Hu Y, Nunez MI, Gaddis S, Shi T, Horvath
+S, Sahin A, Aldaz CM.
+
+Author information: 
+(1)Department of Carcinogenesis, The University of Texas M. D. Anderson Cancer
+Center, Science Park-Research Division, P.O. Box 389, Smithville, TX 78957, USA.
+
+Global gene expression measured by DNA microarray platforms have been extensively
+used to classify breast carcinomas correlating with clinical characteristics,
+including outcome. We generated a breast cancer Serial Analysis of Gene
+Expression (SAGE) high-resolution database of approximately 2.7 million tags to
+perform unsupervised statistical analyses to obtain the molecular classification 
+of breast-invasive ductal carcinomas in correlation with clinicopathologic
+features. Unsupervised statistical analysis by means of a random forest approach 
+identified two main clusters of breast carcinomas, which differed in their lymph 
+node status (P=0.01); this suggested that lymph node status leads to globally
+distinct expression profiles. A total of 245 (55 up-modulated and 190
+down-modulated) transcripts were differentially expressed between lymph node (+) 
+and lymph node (-) primary breast tumors (fold change, >or=2; P<0.05). Various
+lymph node (+) up-modulated transcripts were validated in independent sets of
+human breast tumors by means of real-time reverse transcription-PCR (RT-PCR). We 
+validated significant overexpression of transcripts for HOXC10 (P=0.001), TPD52L1
+(P=0.007), ZFP36L1 (P=0.011), PLINP1 (P=0.013), DCTN3 (P=0.025), DEK (P=0.031),
+and CSNK1D (P=0.04) in lymph node (+) breast carcinomas. Moreover, the DCTN3
+(P=0.022) and RHBDD2 (P=0.002) transcripts were confirmed to be overexpressed in 
+tumors that recurred within 6 years of follow-up by real-time RT-PCR. In
+addition, meta-analysis was used to compare SAGE data associated with lymph node 
+(+) status with publicly available breast cancer DNA microarray data sets. We
+have generated evidence indicating that the pattern of gene expression in primary
+breast cancers at the time of surgical removal could discriminate those tumors
+with lymph node metastatic involvement using SAGE to identify specific
+transcripts that behave as predictors of recurrence as well.
+
+PMCID: PMC4186709
+PMID: 17855657  [PubMed - indexed for MEDLINE]
+
+
+23. Dev Biol. 2006 Nov 1;299(1):22-34. Epub 2006 Jul 14.
+
+Pitx1 determines the morphology of muscle, tendon, and bones of the hindlimb.
+
+DeLaurier A(1), Schweitzer R, Logan M.
+
+Author information: 
+(1)Division of Developmental Biology, National Institute for Medical Research,
+Mill Hill, London, NW7 1AA, UK.
+
+The vertebrate forelimb and hindlimb are serially homologous structures; however,
+their distinctive morphologies suggest that different mechanisms are associated
+with each limb type to give rise to limb-type identity. Three genes have been
+implicated in this process; T-box transcription factors Tbx5 and Tbx4, which are 
+expressed in the forelimb and hindlimb, respectively, and a paired-type
+homeodomain transcription factor Pitx1, expressed in the hindlimb. To explore the
+roles of Pitx1 and Tbx4 in patterning the hindlimb, we have ectopically
+misexpressed these genes in the mouse forelimb using transgenic methods. We have 
+developed a novel technique for visualising the structure and organisation of
+tissues in limbs in 3D using optical projection tomography (OPT). This approach
+provides unparalleled access to understanding the relationships between
+connective tissues during development of the limb. Misexpression of Pitx1 in the 
+forelimb results in the transformation and translocation of specific muscles,
+tendons, and bones of the forelimb so that they acquire a hindlimb-like
+morphology. Pitx1 also upregulates hindlimb-specific factors in the forelimb,
+including Hoxc10 and Tbx4. In contrast, misexpression of Tbx4 in the forelimb
+does not result in a transformation of limb-type morphology. These results
+demonstrate that Pitx1, but not Tbx4, determines the morphological identity of
+hindlimb tissues.
+
+PMID: 16989801  [PubMed - indexed for MEDLINE]
+
+
+24. Leukemia. 2006 Oct;20(10):1855-62. Epub 2006 Aug 10.
+
+Differential DNA methylation patterns of small B-cell lymphoma subclasses with
+different clinical behavior.
+
+Rahmatpanah FB(1), Carstens S, Guo J, Sjahputera O, Taylor KH, Duff D, Shi H,
+Davis JW, Hooshmand SI, Chitma-Matsiga R, Caldwell CW.
+
+Author information: 
+(1)Department of Pathology and Anatomical Sciences, Ellis Fischel Cancer Center, 
+University of Missouri School of Medicine, Columbia, MO 65203, USA.
+
+Comment in
+    Leukemia. 2006 Oct;20(10):1658-60.
+
+Non-Hodgkin's lymphoma (NHL) is a group of malignancies of the immune system with
+variable clinical behaviors and diverse molecular features. Despite the progress 
+made in classification of NHLs based on classical methods, molecular
+classifications are a work in progress. Toward this goal, we used an array-based 
+technique called differential methylation hybridization (DMH) to study small
+B-cell lymphoma (SBCL) subtypes. A total of 43 genomic DMH experiments were
+performed. From these results, several statistical methods were used to generate 
+a set of differentially methylated genes for further validation. Methylation of
+LHX2, POU3F3, HOXC10, NRP2, PRKCE, RAMP, MLLT2, NKX6.1, LRP1B and ARF4 was
+validated in cell lines and patient samples and demonstrated subtype-related
+preferential methylation patterns. For LHX2 and LRP1B, bisulfite sequencing,
+real-time reverse transcriptase-polymerase chain reaction and induction of gene
+expression following treatment with the demethylating agent,
+5'-aza-2'-deoxycytidine, were confirmed. This new epigenetic information is
+helping to define molecular portraits of distinct subtypes of SBCL that are not
+recognized by current classification systems and provides valuable potential
+insights into the biology of these tumors.
+
+PMID: 16900213  [PubMed - indexed for MEDLINE]
+
+
+25. EMBO Rep. 2006 Aug;7(8):831-7. Epub 2006 Jul 14.
+
+Growth differentiation factor 11 signals through the transforming growth
+factor-beta receptor ALK5 to regionalize the anterior-posterior axis.
+
+Andersson O(1), Reissmann E, Ibáñez CF.
+
+Author information: 
+(1)Department of Neuroscience, Division of Molecular Neurobiology, Karolinska
+Institutet, Berzelius väg 35, Box 285, 17177 Stockholm, Sweden.
+
+Growth differentiation factor 11 (GDF11) contributes to regionalize the mouse
+embryo along its anterior-posterior axis by regulating the expression of Hox
+genes. The identity of the receptors that mediate GDF11 signalling during
+embryogenesis remains unclear. Here, we show that GDF11 can interact with type I 
+receptors ALK4, ALK5 and ALK7, but predominantly uses ALK4 and ALK5 to activate a
+Smad3-dependent reporter gene. Alk5 mutant embryos showed malformations in
+anterior-posterior patterning, including the lack of expression of the posterior 
+determinant Hoxc10, that resemble defects found in Gdf11-null mutants. A
+heterozygous mutation in Alk5, but not in Alk4 or Alk7, potentiated
+Gdf11(-/-)-like phenotypes in vertebral, kidney and palate development in an
+Acvr2b(-/-) background, indicating a genetic interaction between the two receptor
+genes. Thus, the transforming growth factor-beta (TGF-beta) receptor ALK5, which 
+until now has only been associated with the biological functions of TGF-beta1 to 
+TGF-beta3 proteins, mediates GDF11 signalling during embryogenesis.
+
+PMCID: PMC1525155
+PMID: 16845371  [PubMed - indexed for MEDLINE]
+
+
+26. Int J Gynecol Cancer. 2006 May-Jun;16(3):1289-96.
+
+A subgroup of HOX Abd-B gene is differentially expressed in cervical cancer.
+
+López R(1), Garrido E, Vázquez G, Piña P, Pérez C, Alvarado I, Salcedo M.
+
+Author information: 
+(1)Departamento de Genética y Biología Molecular, CINVESTAV-IPN,Unidad de
+Investigación Médica en Enfermedades Oncológicas, Hospital de Oncología, Centro
+Médico Nacional Siglo XXI-IMSS, Av. Cuauhtemoc 330, Col. Doctores, México DF
+07780, Mexico.
+
+The HOX genes are a family of transcription factors that bind to specific
+sequences of DNA in target genes regulating their expression. The role of HOX
+genes in adult cell differentiation is still obscure, but growing evidence
+suggests that they may play an important role in the development of cancer. In
+order to study the role of the HOX Abd-B genes in cervical cancer, we analyzed
+their expression in cervical tissues. Reverse transcription-polymerase chain
+reaction and RNA in situ hybridization were used to detect HOX Abd-B messenger
+RNA expression in nine normal cervical tissues and ten cervical carcinomas. The
+normal tissues were human papillomavirus (HPV) negative, whereas all invasive
+carcinomas included were HPV16 positive. In this study, we show that HOXA9, A10, 
+A11, A13, B9, D11, and D13 genes are expressed in both the epithelium of normal
+tissues and neoplastic cells from squamous cervical carcinomas. Interestingly,
+the HOXC10 and D12 genes were not expressed in any cervical tissues; however,
+HOXB13, C9, C11, C12, C13, D9, and D10 genes were expressed only in the tumoral
+tissues but not in the normal cervix. Our findings suggest that the expression of
+HOXB13, D9, D10, and HOXC cluster (HOXC9, C11-C13) genes might be an important
+step involved in cervical cancer.
+
+PMID: 16803519  [PubMed - indexed for MEDLINE]
+
+
+27. Gene Expr Patterns. 2006 Oct;6(7):730-7. Epub 2006 Feb 21.
+
+Expression patterns of Hox10 paralogous genes during lumbar spinal cord
+development.
+
+Choe A(1), Phun HQ, Tieu DD, Hu YH, Carpenter EM.
+
+Author information: 
+(1)Mental Retardation Research Center, Department of Psychiatry and Biobehavioral
+Science, UCLA School of Medicine, Los Angeles, CA 90095, USA.
+
+We have examined the expression of three paralogous Hox genes from E11.5 through 
+E15.5 in the mouse spinal cord. These ages coincide with major phases of spinal
+cord neurogenesis, neuronal differentiation, cell migration, gliogenesis, and
+motor neuron cell death. The three genes, Hoxa10, Hoxc10, and Hoxd10, are all
+expressed in the lumbar spinal cord and have distinct expression patterns.
+Mutations in these three genes are known to affect motor neuron patterning. All
+three genes show lower levels of expression at the rostral limits of their
+domains, with selective regions of higher expression more caudally. Hoxa10 and
+Hoxd10 expression appears confined to postmitotic cell populations in the
+intermediate and ventral gray, while Hoxc10 is also expressed in proliferating
+cells in the dorsal ventricular zone. Hoxc10 and Hoxd10 expression is clearly
+excluded from the lateral motor columns at rostral lumbar levels but is present
+in this region more caudally. Double labeling demonstrates that Hoxc10 expression
+is correlated with ventrolateral LIM gene expression in the caudal part of the
+lumbar spinal cord.
+
+PMID: 16495162  [PubMed - indexed for MEDLINE]
+
+
+28. Zhonghua Yi Xue Yi Chuan Xue Za Zhi. 2005 Dec;22(6):653-6.
+
+[Analysis of association between 5' HOXD gene and idiopathic congenital talipes
+equinovarus].
+
+[Article in Chinese]
+
+Wang LL(1), Jin CL, Liu LY, Zhang X, Ji SJ, Sun KL.
+
+Author information: 
+(1)Department of Medical Genetics, China Medical University, Shenyang, Liaoning, 
+P. R. China.
+
+OBJECTIVE: Four single nucleotide polymorphisms (SNP) in HOXD10, HOXD12 and
+HOXD13 genes were chosen to investigate SNP and haplotypes distribution in
+idiopathic congenital talipes equinovarus nuclear pedigrees.
+METHODS: Genotypes of 4 SNPs in 84 idiopathic congenital talipes equinovarus
+nuclear pedigrees were analyzed by restriction fragment length polymorphism and
+DNA sequencing. Analysis of association between SNP locus and idiopathic
+congenital talipes equinovarus was performed using ETDT software. Haplotypes and 
+their frequencies in 84 nuclear pedigrees were established and analyzed by
+TRANSMIT software.
+RESULTS: rs847151 polymorphism was not detected; the rs847154 located in 5'
+flanking sequence of HOXD12 gene and the rs13392701 located in exon 1 of HOXD13
+gene were noted to have transmission disequilibrium in 84 nuclear pedigrees (P < 
+0.05).
+CONCLUSION: rs847154 located in 5' flanking sequence of HOXD12 gene and
+rs13392701 located in exon 1 of HOXD13 gene are associated with idiopathic
+congenital talipes equinovarus; HOXD12 andHOXD13 are important susceptible genes 
+of idiopathic congenital talipes equinovarus.
+
+PMID: 16331564  [PubMed - indexed for MEDLINE]
+
+
+29. Dev Biol. 2004 Nov 15;275(2):287-300.
+
+Muscle satellite cell-specific genes identified by genetic profiling of
+MyoD-deficient myogenic cell.
+
+Seale P(1), Ishibashi J, Holterman C, Rudnicki MA.
+
+Author information: 
+(1)Department of Biology, McMaster University, Hamilton, Ontario, Canada L8S 4K1.
+
+Satellite cells are committed myogenic progenitors that give rise to
+proliferating myoblasts during postnatal growth and repair of skeletal muscle. To
+identify genes expressed at different developmental stages in the satellite cell 
+myogenic program, representational difference analysis of cDNAs was employed to
+identify more than 50 unique mRNAs expressed in wild-type myoblasts and MyoD-/-
+myogenic cells. Novel expression patterns for several genes, such as Pax7, Asb5, 
+IgSF4, and Hoxc10, were identified that were expressed in both quiescent and
+activated satellite cells. Several previously uncharacterized genes that
+represent putative MyoD target genes were also identified, including Pw1, Dapk2, 
+Sytl2, and NLRR1. Importantly, many genes such as IgSF4, Neuritin, and Klra18
+that were expressed exclusively in MyoD-/- myoblasts were also expressed by
+satellite cells in undamaged muscle in vivo but were not expressed by primary
+myoblasts. These data are consistent with a biological role for activated
+satellite cells that induce Myf5 but not MyoD. Lastly, additional endothelial and
+hematopoietic markers were identified supporting a nonsomitic developmental
+origin of the satellite cell myogenic lineage.
+
+PMID: 15501219  [PubMed - indexed for MEDLINE]
+
+
+30. Gene. 2004 Apr 28;331:53-63.
+
+Differentiation phenotypes of pancreatic islet beta- and alpha-cells are closely 
+related with homeotic genes and a group of differentially expressed genes.
+
+Mizusawa N(1), Hasegawa T, Ohigashi I, Tanaka-Kosugi C, Harada N, Itakura M,
+Yoshimoto K.
+
+Author information: 
+(1)Department of Pharmacology, School of Dentistry, The University of Tokushima, 
+Tokushima City, Japan.
+
+To identify the genes that determine differentiation phenotypes, we compared gene
+expression of pancreatic islet beta- and alpha-cells, which are derived from the 
+common precursor and secrete insulin and glucagon, respectively. The expression
+levels of homeotic genes including Hox genes known to determine region
+specificity in the antero-posterior (AP) body axis, tissue-specific homeobox
+genes, and other 8,734 genes were compared in a beta- and alpha-cell line of MIN6
+and alpha TC1.6. The expression of homeotic genes were surveyed with reverse
+transcription-polymerase chain reaction (RT-PCR) using degenerate primers
+corresponding to invariant amino acid sequences within the homeodomain and
+subsequently with specific primers. Expression of Hoxc6, Hoxc9, Hoxc10, Pdx1,
+Cdx2, Gbx2, Pax4, and Hlxb9 genes in MIN6 was higher than those in alpha TC1.6,
+while expression of Hoxa2, Hoxa3, Hoxa5, Hoxa6, Hoxa7, Hoxa9, Hoxa10, Hoxa13,
+Hoxb3, Hoxb5, Hoxb6, Hoxb13, Hoxb8, and Brain4 genes in alpha TC1.6 was higher
+than those in MIN6. Out of 8,734 mouse genes screened with high-density mouse
+cDNA microarrays for MIN6- and alpha TC1.6-derived cDNA, 58 and 25 genes were
+differentially over- and under-expressed in MIN6, respectively. GLUTag, which is 
+derived from a large bowel tumor and expresses the proglucagon gene, showed a
+comparatively similar expression profile to that of alpha TC1.6 in both homeotic 
+and other genes analyzed in cDNA microarray. Our results are consistent with the 
+interpretation that not only the tissue-specific homeotic genes, but also Hox
+genes are related to differentiation phenotypes of pancreatic beta- and
+alpha-cells rather than their regional specification of the body in vertebrates.
+
+PMID: 15094191  [PubMed - indexed for MEDLINE]
+
+
+31. Biol Cell. 2003 Dec;95(9):589-94.
+
+The spatial restrictions of 5'HoxC genes expression are maintained in adult newt 
+spinal cord.
+
+Nicolas S(1), Papillon D, Perez Y, Caubit X, Le Parco Y.
+
+Author information: 
+(1)Neurogenèse et Morphogenèse dans le Développement et chez l'Adulte, UMR CNRS
+6156, Laboratoire de génétique et physiologie du développement, UMR 6545, IBDM,
+Parc scientifique de Luminy, 13288 Marseille cedex 9, France.
+
+Urodele amphibians are the only adult vertebrates possessing the capacity to
+regenerate their limbs and tail after amputation. Epimorphic regeneration is
+characterized by the accumulation of undifferentiated and dividing mesenchymal
+cells originating from the tissues of the stump, which form a blastema. It has
+been proposed that the ability to regenerate precisely the amputated structures
+depends on a 'positional memory' of the cells at the level of amputation plane
+and that a continuum of positional value would be present in adult urodeles along
+the appendages able to regenerate. Hox genes are good candidates for playing a
+role in providing the capacity for regeneration and for carrying positional
+information. Here, we report the cloning of four AbdB-like genes (Hoxa9, Hoxc10, 
+Hoxc12 and Hoxc13) in the newt Pleurodeles waltl (Pw). To analyse their
+expression pattern along the antero-posterior (AP) axis of adult urodele central 
+nervous system (CNS), we used the reverse transcription-polymerase chain reaction
+(RT-PCR) and showed that the 5'HoxC genes expression pattern conforms to the
+usual spatial colinearity rule. In addition, the expression level in tail
+regenerates of PwHoxc13, PwHoxc12, and PwHoxc10 was respectively 20, 7 and 2 fold
+higher than in adult tail. These last results suggest that 5'HoxC genes could
+specify positional memory in adult spinal cord (SC) and could be involved in
+axial patterning of the tail during regeneration.
+
+PMID: 14720461  [PubMed - indexed for MEDLINE]
+
+
+32. Development. 2004 Jan;131(2):299-309. Epub 2003 Dec 10.
+
+Multiple roles of Hoxa11 and Hoxd11 in the formation of the mammalian forelimb
+zeugopod.
+
+Boulet AM(1), Capecchi MR.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Department of Human Genetics, University of
+Utah School of Medicine, Salt Lake City, UT 84112, USA.
+
+Mutations in the 5' or posterior murine Hox genes (paralogous groups 9-13)
+markedly affect the formation of the stylopod, zeugopod and autopod of both
+forelimbs and hindlimbs. Targeted disruption of Hoxa11 and Hoxd11 or Hoxa10,
+Hoxc10 and Hoxd10 result in gross mispatterning of the radius and ulna or the
+femur, respectively. Similarly, in mice with disruptions of both Hoxa13 and
+Hoxd13, development of the forelimb and hindlimb autopod is severely curtailed.
+Although these examples clearly illustrate the major roles played by the
+posterior Hox genes, little is known regarding the stage or stages at which Hox
+transcription factors intersect with the limb development program to ensure
+proper patterning of the principle elements of the limb. Moreover, the cellular
+and/or molecular bases for the developmental defects observed in these mutant
+mice have not been described. In this study, we show that malformation of the
+forelimb zeugopod in Hoxa11/Hoxd11 double mutants is a consequence of
+interruption at multiple steps during the formation of the radius and ulna. In
+particular, reductions in the levels of Fgf8 and Fgf10 expression may be related 
+to the observed delay in forelimb bud outgrowth that, in turn, leads to the
+formation of smaller mesenchymal condensations. However, the most significant
+defect appears to be the failure to form normal growth plates at the proximal and
+distal ends of the zeugopod bones. As a consequence, growth and maturation of
+these bones is highly disorganized, resulting in the creation of amorphous bony
+elements, rather than a normal radius and ulna.
+
+PMID: 14668414  [PubMed - indexed for MEDLINE]
+
+
+33. Biol Reprod. 2004 Jan;70(1):39-45. Epub 2003 Sep 3.
+
+HOXC and HOXD gene expression in human endometrium: lack of redundancy with HOXA 
+paralogs.
+
+Akbas GE(1), Taylor HS.
+
+Author information: 
+(1)Department of Obstetrics and Gynecology, Yale University School of Medicine,
+New Haven, Connecticut 06520, USA.
+
+HOXA genes, essential regulators of differentiation in the embryo, are also
+essential for adult cyclic endometrial development and for endometrial
+receptivity. Mice deficient in Hoxa10 or Hoxa11 exhibit reduced fertility because
+of defects in implantation. We hypothesized that HOXC10, HOXC11, HOXD10, and
+HOXD11, paralogs of HOXA10 and HOXA11, might also be involved in endometrial
+development. Here, we showed that the expression of HOXC10, HOXC11, HOXD10, and
+HOXD11 was evident throughout the menstrual cycle in the endometrium by
+semiquantitative reverse transcription-polymerase chain reaction. In the
+secretory phase, expression of HOXC10, HOXC11, and HOXD11 decreased to 4% and
+HOXD10 decreased to 25% of the proliferative phase expression (P < 0.001, P <
+0.001, P < 0.02, P < 0.01, respectively). In situ hybridization demonstrated
+expression of each of these HOX genes primarily in the stroma and confirmed the
+decreased expression in the secretory phase. HOXC10, HOXC11, HOXD10, and HOXD11
+expression was not regulated by sex steroids in primary endometrial stromal cells
+or Ishikawa cells. The expression and regulation of HOXC and HOXD genes varies
+from that of HOXA10 and HOXA11. Whereas HOXA10 and HOXA11 are regulators of
+endometrial differentiation, HOXC and HOXD genes likely regulate endometrial
+proliferation. Paralogous HOX genes typically have a redundant function in
+development; a novel evolutionary divergence of paralogous Hox genes has resulted
+in HOXC and HOXD genes having distinct expression patterns, regulation, and
+likely also distinct functions from HOXA genes. A network of HOX genes may be
+involved in regulating multiple aspects of endometrial development, including
+both proliferation and differentiation.
+
+PMID: 12954737  [PubMed - indexed for MEDLINE]
+
+
+34. EMBO J. 2003 Jul 15;22(14):3715-24.
+
+Early mitotic degradation of the homeoprotein HOXC10 is potentially linked to
+cell cycle progression.
+
+Gabellini D(1), Colaluca IN, Vodermaier HC, Biamonti G, Giacca M, Falaschi A,
+Riva S, Peverali FA.
+
+Author information: 
+(1)Istituto di Genetica Molecolare, CNR, via Abbiategrasso 207,I-27100 Pavia,
+Italy.
+
+Hox proteins are transcription factors involved in controlling axial patterning, 
+leukaemias and hereditary malformations. Here, we show that HOXC10 oscillates in 
+abundance during the cell cycle, being targeted for degradation early in mitosis 
+by the ubiquitin-dependent proteasome pathway. Among abdominal-B subfamily
+members, the mitotic proteolysis of HOXC10 appears unique, since the levels of
+the paralogous HOXD10 and the related homeoprotein HOXC13 are constant throughout
+the cell cycle. When two destruction box motifs (D-box) are mutated, HOXC10 is
+stabilized and cells accumulate in metaphase. HOXC10 appears to be a new
+prometaphase target of the anaphase-promoting complex (APC), since its
+degradation coincides with cyclin A destruction and is suppressed by expression
+of a dominant-negative form of UbcH10, an APC-associated ubiquitin-conjugating
+enzyme. Moreover, HOXC10 co-immunoprecipitates the APC subunit CDC27, and its in 
+vitro degradation is reduced in APC-depleted extracts or by competition with the 
+APC substrate cyclin A. These data imply that HOXC10 is a homeoprotein with the
+potential to influence mitotic progression, and might provide a link between
+developmental regulation and cell cycle control.
+
+PMCID: PMC165610
+PMID: 12853486  [PubMed - indexed for MEDLINE]
+
+
+35. Dev Dyn. 2003 Feb;226(2):349-55.
+
+Regeneration-specific expression pattern of three posterior Hox genes.
+
+Christen B(1), Beck CW, Lombardo A, Slack JM.
+
+Author information: 
+(1)Centre of Regenerative Medicine, Department of Biology and Biochemistry,
+University of Bath, Bath, United Kingdom. bssbc@bath.ac.uk
+
+Homeobox genes encode positional information during primary and secondary axis
+formation during development. For this reason, the Hox genes have attracted
+attention in regeneration research as well. At early stages of regeneration, Hox 
+genes have been implicated in wound healing and the dedifferentiation process and
+at later stages in the patterning of the blastema. We studied the expression of
+three Abdominal B-type Hox genes in Xenopus: XHoxc10, XHoxa13, and XHoxd13 during
+normal limb development and during regeneration of limbs and tails. We compared
+their expression with nonregenerating and with wounded limbs and tails,
+respectively. We show that the temporal and spatial control of these three Hox
+genes in blastemas differs from normal development. All three are specific to
+regeneration, XHoxc10 is up-regulated at the right time and at the site where
+cells dedifferentiate and undifferentiated cells are recruited, whereas XHoxa13
+is reexpressed slightly later in regeneration, when the blastemal cells
+proliferate and remains on during patterning of the blastema. XHoxd13 is not
+expressed until relatively late and appears to be involved only in patterning of 
+the blastema.
+
+PMID: 12557213  [PubMed - indexed for MEDLINE]
+
+
+36. Oncogene. 2001 Feb 15;20(7):874-8.
+
+Upregulation of Meis1 and HoxA9 in acute lymphocytic leukemias with the t(4 : 11)
+abnormality.
+
+Rozovskaia T(1), Feinstein E, Mor O, Foa R, Blechman J, Nakamura T, Croce CM,
+Cimino G, Canaani E.
+
+Author information: 
+(1)Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot
+76100, Israel.
+
+Rearrangements of the human ALL-1 gene are frequently encountered in acute
+lymphocytic leukemias (ALL) and acute myeloid leukemias (AML). These
+rearrangements are mostly due to chromosome translocations and result in
+production of chimeric proteins composed of the N-terminal fragment of ALL-1 and 
+the C-terminal segments of the partner proteins. The most common chromosome
+translocation involving ALL-1 is the t(4 : 11) associated with ALL. ALL-1 is the 
+human homologue of Drosophila trithorax and directly activates transcription of
+multiple Hox genes. A preliminary DNA microarray screen indicated that the Meis1,
+HoxA9 and AC133 genes were overexpressed in ALLs with t(4 : 11), compared to ALLs
+with very similar phenotype but without the chromosomal abnormality. These genes,
+as well as additional five Hox genes, were subjected to comprehensive
+semi-quantitative or quantitative RT-PCR analysis in 57 primary ALL and AML
+tumors. Meis1 and HoxA9 were found expressed in 13/14 of ALLs with the t(4 : 11) 
+and in 8/8 of AMLs with ALL-1 rearrangements. The two genes were not consistently
+transcribed in other types of ALL. AC133 was transcribed in 13/14 of ALLs with
+t(4 : 11), but in only 4/8 of AMLs with ALL-1 rearrangements. HoxA10 was
+expressed in most leukemias with ALL-1 alterations, but was also transcribed in
+PrePreB CD10(-) ALLs lacking the t(4 : 11). Expression of HoxA5, HoxA7, HoxC8 and
+HoxC10 did not correlate with ALL-1 rearrangements. Coexpression of Meis1 and
+HoxA9, overexpression of HoxA10, and overexpression or fusion of HoxA9 were
+previously implicated in certain acute myeloid leukemias in mice and humans. The 
+present work suggests that upregulation of Meis1, HoxA9, and possibly HoxA10
+might also play a role in pathogenesis of acute lymphocytic and acute myeloid
+leukemias associated with ALL-1 fusions.
+
+PMID: 11314021  [PubMed - indexed for MEDLINE]
+
+
+37. Dev Biol. 2001 Jan 15;229(2):396-406.
+
+Expression of Hoxb13 and Hoxc10 in developing and regenerating Axolotl limbs and 
+tails.
+
+Carlson MR(1), Komine Y, Bryant SV, Gardiner DM.
+
+Author information: 
+(1)Developmental Biology Center, University of California, Irvine, California
+92697, USA.
+
+The expression of Hox complex genes in correct spatial and temporal order is
+critical to patterning of the body axis and limbs during embryonic development.
+In order to understand the role such genes play in appendage regeneration, we
+have compared the expression of two 5' Hox complex genes: Hoxb13 and Hoxc10
+during development and regeneration of the body axis and the limbs of axolotls.
+In contrast to higher vertebrates, Hoxb13 is expressed not only in the tip of the
+developing tail, but also in the distal mesenchyme of developing hind limbs, and 
+at low levels in developing forelimbs. Hoxc10 is expressed as two transcripts
+during both development and regeneration. The short transcript (Hoxc10S) is
+expressed in the tip of the developing tail, in developing hind limbs, and at low
+levels in developing forelimbs. The long transcript (Hoxc10L) is expressed in a
+similar pattern, with the exception that no expression in developing forelimbs
+could be detected. Hoxb13 and both transcripts of Hoxc10 are expressed at high
+levels in the regenerating spinal cord during tail regeneration, and in both
+regenerating hind limbs and forelimbs. The up-regulation of expression of these
+genes during forelimb regeneration, relative to the very low levels of expression
+during forelimb development, suggests that they play a critical and perhaps
+unique role in regeneration. This is particularly true for Hoxc10L, which is not 
+expressed during forelimb development, but is expressed during forelimb
+regeneration; thus making it the first truly "regeneration-specific" gene
+transcript identified to date.
+
+Copyright 2001 Academic Press.
+
+PMID: 11150241  [PubMed - indexed for MEDLINE]
+
+
+38. J Mol Biol. 2000 Jun 9;299(3):667-80.
+
+Selection of homeotic proteins for binding to a human DNA replication origin.
+
+de Stanchina E(1), Gabellini D, Norio P, Giacca M, Peverali FA, Riva S, Falaschi 
+A, Biamonti G.
+
+Author information: 
+(1)Istituto di Genetica Biochimica ed Evoluzionistica del CNR, Via Abbiategrasso 
+207, Pavia, 27100, Italy.
+
+We have previously shown that a cell cycle-dependent nucleoprotein complex
+assembles in vivo on a 74 bp sequence within the human DNA replication origin
+associated to the Lamin B2 gene. Here, we report the identification, using a
+one-hybrid screen in yeast, of three proteins interacting with the 74 bp
+sequence. All of them, namely HOXA13, HOXC10 and HOXC13, are orthologues of the
+Abdominal-B gene of Drosophila melanogaster and are members of the homeogene
+family of developmental regulators. We describe the complete open reading frame
+sequence of HOXC10 and HOXC13 along with the structure of the HoxC13 gene. The
+specificity of binding of these two proteins to the Lamin B2 origin is confirmed 
+by both band-shift and in vitro footprinting assays. In addition, the ability of 
+HOXC10 and HOXC13 to increase the activity of a promoter containing the 74 bp
+sequence, as assayed by CAT-assay experiments, demonstrates a direct interaction 
+of these homeoproteins with the origin sequence in mammalian cells. We also show 
+that HOXC10 expression is cell-type-dependent and positively correlates with cell
+proliferation.
+
+Copyright 2000 Academic Press.
+
+PMID: 10835276  [PubMed - indexed for MEDLINE]
+
+
+39. Science. 1999 Mar 12;283(5408):1736-9.
+
+Role of Pitx1 upstream of Tbx4 in specification of hindlimb identity.
+
+Logan M(1), Tabin CJ.
+
+Author information: 
+(1)Department of Genetics, Harvard Medical School, 200 Longwood Avenue, Boston,
+MA 02115, USA.
+
+Comment in
+    Science. 1999 Mar 12;283(5408):1615-6.
+
+In spite of recent breakthroughs in understanding limb patterning, the genetic
+factors determining the differences between the forelimb and the hindlimb have
+not been understood. The genes Pitx1 and Tbx4 encode transcription factors that
+are expressed throughout the developing hindlimb but not forelimb buds.
+Misexpression of Pitx1 in the chick wing bud induced distal expression of Tbx4,
+as well as HoxC10 and HoxC11, which are normally restricted to hindlimb
+expression domains. Wing buds in which Pitx1 was misexpressed developed into
+limbs with some morphological characteristics of hindlimbs: the flexure was
+altered to that normally observed in legs, the digits were more toe-like in their
+relative size and shape, and the muscle pattern was transformed to that of a leg.
+
+PMID: 10073939  [PubMed - indexed for MEDLINE]
+
+

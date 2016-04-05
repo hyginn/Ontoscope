@@ -1,0 +1,3488 @@
+
+1. BMC Genomics. 2015 Oct 28;16(1):874. doi: 10.1186/s12864-015-2022-2.
+
+Prior infection with Type A Francisella tularensis antagonizes the pulmonary
+transcriptional response to an aerosolized Toll-like receptor 4 agonist.
+
+Walters KA(1), Olsufka R(2), Kuestner RE(3), Wu X(4), Wang K(5), Skerrett SJ(6), 
+Ozinsky A(7).
+
+Author information: 
+(1)Institute for Systems Biology, 401 Terry Ave. N, Seattle, WA, 98109, USA.
+Kathie.Walters@systemsbiology.org. (2)Division of Pulmonary and Critical Care
+Medicine, University of Washington, Seattle, WA, 98104, USA.
+rachael.olsufka@uky.edu. (3)Institute for Systems Biology, 401 Terry Ave. N,
+Seattle, WA, 98109, USA. Rolf.Kuestner@systemsbiology.org. (4)Institute for
+Systems Biology, 401 Terry Ave. N, Seattle, WA, 98109, USA.
+Xiagang.Wu@systemsbiology.org. (5)Institute for Systems Biology, 401 Terry Ave.
+N, Seattle, WA, 98109, USA. Kai.Wang@systemsbiology.com. (6)Division of Pulmonary
+and Critical Care Medicine, University of Washington, Seattle, WA, 98104, USA.
+shawn@u.washington.edu. (7)Institute for Systems Biology, 401 Terry Ave. N,
+Seattle, WA, 98109, USA. aozinsky@systemsbiology.org.
+
+BACKGROUND: Francisella infection attenuates immune cell infiltration and
+expression of selected pro-inflammatory cytokines in response to endogenous LPS, 
+suggesting the bacteria is actively antagonizing at least some part of the
+response to Toll-like receptor 4 (TLR4) engagement. The ability of different
+Francisella strains to inhibit the ability of E. coli LPS to induce a pulmonary
+inflammatory response, as measured by gene expression profiling, was examined to 
+define the scope of modulation and identify of inflammatory genes/pathways that
+are specifically antagonized by a virulent F. tularensis infection.
+RESULTS: Prior aerosol exposure to F. tularensis subsp. tularensis, but not the
+live attenuated strain (LVS) of F. tularensis subsp. holarctica or F. novicida,
+significantly antagonized the transcriptional response in the lungs of infected
+mice exposed to aerosolized E. coli LPS. The response to E. coli LPS was not
+completely inhibited, suggesting that the bacteria is targeting further
+downstream of the TLR4 molecule. Analysis of the promotors of LPS-responsive
+genes that were perturbed by Type A Francisella infection identified candidate
+transcription factors that were potentially modulated by the bacteria, including 
+multiple members of the forkhead transcription factor family (FoxA1, Foxa2,
+FoxD1, Foxd3, Foxf2, FoxI1, Fox03, Foxq1), IRF1, CEBPA, and Mef2. The annotated
+functional roles of the affected genes suggested that virulent Francisella
+infection suppressed cellular processes including mRNA processing, antiviral
+responses, intracellular trafficking, and regulation of the actin cytoskeleton.
+Surprisingly, despite the broad overall suppression of LPS-induced genes by
+virulent Francisella, and contrary to what was anticipated from prior studies,
+Type A Francisella did not inhibit the expression of the majority of LPS-induced 
+cytokines, nor the expression of many classic annotated inflammatory genes.
+CONCLUSIONS: Collectively, this analysis demonstrates clear differences in the
+ability of different Francisella strains to modulate TLR4 signaling and
+identifies genes/pathways that are specifically targeted by virulent Type A
+Francisella.
+
+PMCID: PMC4625460
+PMID: 26510639  [PubMed - in process]
+
+
+2. Stem Cells. 2015 Mar;33(3):806-18. doi: 10.1002/stem.1899.
+
+Time point-based integrative analyses of deep-transcriptome identify four signal 
+pathways in blastemal regeneration of zebrafish lower jaw.
+
+Zhang H(1), Wang X, Lyu K, Gao S, Wang G, Fan C, Zhang XA, Yan J.
+
+Author information: 
+(1)Department of Biology, Institute for Marine Biosystem and Neurosciences,
+College of Fisheries and Life Sciences, Shanghai Ocean University Shanghai,
+People's Republic of China.
+
+There has been growing interest in applying tissue engineering to stem cell-based
+regeneration therapies. We have previously reported that zebrafish can faithfully
+regenerate complicated tissue structures through blastemal cell type conversions 
+and tissue reorganization. To unveil the regenerative factors and engineering
+arts of blastemal regeneration, we conducted transcriptomal analyses at four time
+points corresponding to preamputation, re-epitheliation, blastemal formation, and
+respecification. By combining the hierarchical gene ontology term network, the
+DAVID annotation system, and Euclidean distance clustering, we identified four
+signaling pathways: foxi1-foxo1b-pou3f1, pax3a-mant3a-col11/col2,
+pou5f1-cdx4-kdrl, and isl1-wnt11 PCP-sox9a. Results from immunohistochemical
+staining and promoter-driven transgenic fish suggest that these pathways,
+respectively, define wound epidermis reconstitution, cell type conversions,
+blastemal angiogenesis/vasculogenesis, and cartilage matrix-orientation. Foxi1
+morpholino-knockdown caused expansions of Foxo1b- and Pax3a-expression in the
+basal layer-blastemal junction region. Moreover, foxi1 morphants displayed
+increased sox9a and hoxa2b transcripts in the embryonic pharyngeal arches. Thus, 
+a Foxi1 signal switch is required to establish correct tissue patterns, including
+re-epitheliation and blastema formation. This study provides novel insight into a
+blastema regeneration strategy devised by epithelial cell transdifferentiation,
+blood vessel engineering, and cartilage matrix deposition.
+
+© 2014 AlphaMed Press.
+
+PMID: 25420467  [PubMed - indexed for MEDLINE]
+
+
+3. Wiley Interdiscip Rev Dev Biol. 2014 Sep-Oct;3(5):349-63. doi: 10.1002/wdev.142. 
+Epub 2014 Jul 2.
+
+Early embryonic specification of vertebrate cranial placodes.
+
+Schlosser G(1).
+
+Author information: 
+(1)Department of Zoology, School of Natural Sciences & Regenerative Medicine
+Institute (REMEDI), National University of Ireland, Galway, Galway, Ireland.
+
+Cranial placodes contribute to many sensory organs and ganglia of the vertebrate 
+head. The olfactory, otic, and lateral line placodes form the sensory receptor
+cells and neurons of the nose, ear, and lateral line system; the lens placode
+develops into the lens of the eye; epibranchial, profundal, and trigeminal
+placodes contribute sensory neurons to cranial nerve ganglia; and the
+adenohypophyseal placode gives rise to the anterior pituitary, a major endocrine 
+control organ. Despite these differences in fate, all placodes are now known to
+originate from a common precursor, the preplacodal ectoderm (PPE). The latter is 
+a horseshoe-shaped domain of ectoderm surrounding the anterior neural plate and
+neural crest and is defined by expression of transcription factor Six1, its
+cofactor Eya1, and other members of the Six and Eya families. Studies in
+zebrafish, Xenopus, and chick reveal that the PPE is specified together with
+other ectodermal territories (epidermis, neural crest, and neural plate) during
+early embryogenesis. During gastrulation, domains of ventrally (e.g., Dlx3/Dlx5, 
+GATA2/GATA3, AP2, Msx1, FoxI1, and Vent1/Vent2) and dorsally (e.g., Zic1, Sox3,
+and Geminin) restricted transcription factors are established in response to a
+gradient of BMP and help to define non-neural and neural competence territories, 
+respectively. At neural plate stages, the PPE is then induced in the non-neural
+competence territory by signals from the adjacent neural plate and mesoderm
+including FGF, BMP inhibitors, and Wnt inhibitors. Subsequently, signals from
+more localized signaling centers induce restricted expression domains of various 
+transcription factors within the PPE, which specify multiplacodal areas and
+ultimately individual placodes. For further resources related to this article,
+please visit the WIREs website.CONFLICT OF INTEREST: The author has declared no
+conflicts of interest for this article.
+
+© 2014 Wiley Periodicals, Inc.
+
+PMID: 25124756  [PubMed - indexed for MEDLINE]
+
+
+4. Dev Dyn. 2014 Oct;243(10):1338-51. doi: 10.1002/dvdy.24160. Epub 2014 Jul 19.
+
+Dissecting the differentiation process of the preplacodal ectoderm in zebrafish.
+
+Yao D(1), Zhao F, Wu Y, Wang J, Dong W, Zhao J, Zhu Z, Liu D.
+
+Author information: 
+(1)The Education Ministry Key Laboratory of Cell Proliferation and
+Differentiation and the State Key Laboratory of Bio-membrane and Membrane
+Bio-engineering, School of Life Sciences, Peking University, Beijing, China.
+
+BACKGROUND: The preplacodal region (PPR) is a region of specialized ectoderm at
+the border of neural and nonneural ectoderm (NNE). Coordinated Bmp, Fgf, and Wnt 
+signals are known to drive PPR development; however, the underlying mechanism is 
+unknown.
+RESULTS: We identified key components involved in PPR differentiation. The
+mesoderm/marginal Wnts at the early gastrula stage trigger differentiation by
+allowing the adjacent NNE border cells to start adopting caudal PPR fates;
+otherwise, the development of caudal PPR identity is hindered due to the
+persistent presence of gata3 mRNA. The caudal PPR fate dominates when foxi1
+expression is enhanced at the late gastrula stage, and depleting Foxi1 after 6
+hours postfertilization (hpf) reduces the otic-epibranchial placodal domain. When
+the Gata3 level is manipulated at the fertilized egg stage or near 6 hpf, the
+lens is always affected. In establishing PPR polarity, both Gata3 and Foxi1
+inhibit Bmp signaling, whereas Foxi1 inhibits, but Gata3 enhances, Fgf
+sensitivity of the PPR cells.
+CONCLUSIONS: Our study reveals that in zebrafish, (1) the PPR at the shield stage
+may enter a developmental state when the PPR cells preferentially adopt a
+particular placodal fate and (2) a network of genetically linked factors,
+including Wnt/beta-catenin, Fgfr, Bmp, Gata3, and Foxi1, direct the process of
+PPR differentiation.
+
+Copyright © 2014 Wiley Periodicals, Inc.
+
+PMID: 25044691  [PubMed - indexed for MEDLINE]
+
+
+5. J Am Soc Nephrol. 2015 Jan;26(1):149-59. doi: 10.1681/ASN.2013070764. Epub 2014
+Jun 5.
+
+Adam10 mediates the choice between principal cells and intercalated cells in the 
+kidney.
+
+Guo Q(1), Wang Y(2), Tripathi P(2), Manda KR(2), Mukherjee M(3), Chaklader M(3), 
+Austin PF(4), Surendran K(5), Chen F(6).
+
+Author information: 
+(1)Department of Medicine, Department of Cell Biology and Physiology, and
+Division of Pediatric Urology, Department of Surgery, Washington University
+School of Medicine, St. Louis, Missouri; (2)Department of Medicine, Department of
+Cell Biology and Physiology, and. (3)Sanford Children's Health Research Center,
+Sanford Research/USD, Sioux Falls, South Dakota; and. (4)Division of Pediatric
+Urology, Department of Surgery, Washington University School of Medicine, St.
+Louis, Missouri; (5)Sanford Children's Health Research Center, Sanford
+Research/USD, Sioux Falls, South Dakota; and Department of Pediatrics, Sanford
+School of Medicine, University of South Dakota, Sioux Falls, South Dakota
+fchen@dom.wustl.edu kameswaran.surendran@sanfordhealth.org. (6)Department of
+Medicine, Department of Cell Biology and Physiology, and fchen@dom.wustl.edu
+kameswaran.surendran@sanfordhealth.org.
+
+A disintegrin and metalloproteinase domain 10 (Adam10), a member of the ADAM
+family of cell membrane-anchored proteins, has been linked to the regulation of
+the Notch, EGF, E-cadherin, and other signaling pathways. However, it is unclear 
+what role Adam10 has in the kidney in vivo. In this study, we showed that Adam10 
+deficiency in ureteric bud (UB) derivatives leads to a decrease in urinary
+concentrating ability, polyuria, and hydronephrosis in mice. Furthermore, Adam10 
+deficiency led to a reduction in the percentage of aquaporin 2 (Aqp2)(+)
+principal cells (PCs) in the collecting ducts that was accompanied by a
+proportional increase in the percentage of intercalated cells (ICs). This
+increase was more prominent in type A ICs than in type B ICs. Foxi1, a
+transcription factor important for the differentiation of ICs, was upregulated in
+the Adam10 mutants. The observed reduction of Notch activity in Adam10 mutant
+collecting duct epithelium and the similar reduction of PC/IC ratios in the
+collecting ducts in mice deficient for mindbomb E3 ubiquitin protein ligase 1, a 
+key regulator of the Notch and Wnt/receptor-like tyrosine kinase signaling
+pathways, suggest that Adam10 regulates cell fate determination through the
+activation of Notch signaling, probably through the regulation of Foxi1
+expression. However, phenotypic differences between the Adam10 mutants, the Mib1 
+mutants, and the Foxi1 mutants suggest that the functions of Adam10 in
+determining the fate of collecting duct cells are more complex than those of a
+simple upstream factor in a linear pathway involving Notch and Foxi1.
+
+Copyright © 2015 by the American Society of Nephrology.
+
+PMCID: PMC4279728
+PMID: 24904084  [PubMed - indexed for MEDLINE]
+
+
+6. PeerJ. 2014 May 8;2:e384. doi: 10.7717/peerj.384. eCollection 2014.
+
+Mutation analysis of the SLC26A4, FOXI1 and KCNJ10 genes in individuals with
+congenital hearing loss.
+
+Pique LM(1), Brennan ML(2), Davidson CJ(3), Schaefer F(4), Greinwald J Jr(5),
+Schrijver I(6).
+
+Author information: 
+(1)Department of Pathology, Stanford University Medical Center , Stanford, CA ,
+USA. (2)Department of Pediatrics, Stanford University Medical Center , Stanford, 
+CA , USA. (3)Life Technologies , South San Francisco, CA , USA. (4)Molecular
+Genetics, Center for Genetic Testing at Saint Francis Hospital , Tulsa, OK , USA.
+(5)Divisions of Human Genetics and Otolaryngology, Cincinnati Children's Hospital
+Medical Center , Cincinnati, OH , USA. (6)Department of Pathology, Stanford
+University Medical Center , Stanford, CA , USA ; Department of Pediatrics,
+Stanford University Medical Center , Stanford, CA , USA.
+
+Pendred syndrome (PDS) and DFNB4 comprise a phenotypic spectrum of sensorineural 
+hearing loss disorders that typically result from biallelic mutations of the
+SLC26A4 gene. Although PDS and DFNB4 are recessively inherited, sequencing of the
+coding regions and splice sites of SLC26A4 in individuals suspected to be
+affected with these conditions often fails to identify two mutations. We
+investigated the potential contribution of large SLC26A4 deletions and
+duplications to sensorineural hearing loss (SNHL) by screening 107 probands with 
+one known SLC26A4 mutation by Multiplex Ligation-dependent Probe Amplification
+(MLPA). A heterozygous deletion, spanning exons 4-6, was detected in only one
+individual, accounting for approximately 1% of the missing mutations in our
+cohort. This low frequency is consistent with previously published MLPA results. 
+We also examined the potential involvement of digenic inheritance in PDS/DFNB4 by
+sequencing the coding regions of FOXI1 and KCNJ10. Of the 29 probands who were
+sequenced, three carried nonsynonymous variants including one novel sequence
+change in FOXI1 and two polymorphisms in KCNJ10. We performed a review of prior
+studies and, in conjunction with our current data, conclude that the frequency of
+FOXI1 (1.4%) and KCNJ10 (3.6%) variants in PDS/DFNB4 individuals is low. Our
+results, in combination with previously published reports, indicate that large
+SLC26A4 deletions and duplications as well as mutations of FOXI1 and KCNJ10 play 
+limited roles in the pathogenesis of SNHL and suggest that other genetic factors 
+likely contribute to the phenotype.
+
+PMCID: PMC4017815
+PMID: 24860705  [PubMed]
+
+
+7. Dev Biol. 2014 Jun 1;390(1):1-13. doi: 10.1016/j.ydbio.2014.03.004. Epub 2014 Mar
+18.
+
+Foxi transcription factors promote pharyngeal arch development by regulating
+formation of FGF signaling centers.
+
+Edlund RK(1), Ohyama T(2), Kantarci H(3), Riley BB(3), Groves AK(4).
+
+Author information: 
+(1)Program in Developmental Biology, Baylor College of Medicine, BCM295, 1 Baylor
+Plaza, Houston, TX 77030, USA. (2)Division of Cell Biology and Genetics, House
+Research Institute, 2100 W 3rd Street, Los Angeles, CA 90057, USA. (3)Biology
+Department, Texas A&M University, College Station, TX 77843-3258, USA. (4)Program
+in Developmental Biology, Baylor College of Medicine, BCM295, 1 Baylor Plaza,
+Houston, TX 77030, USA; Department of Molecular and Human Genetics, Baylor
+College of Medicine, BCM295, 1 Baylor Plaza, Houston, TX 77030, USA; Department
+of Neuroscience, Baylor College of Medicine, BCM295, 1 Baylor Plaza, Houston, TX 
+77030, USA. Electronic address: akgroves@bcm.edu.
+
+The bones of the vertebrate face develop from transient embryonic branchial
+arches that are populated by cranial neural crest cells. We have characterized a 
+mouse mutant for the Forkhead family transcription factor Foxi3, which is
+expressed in branchial ectoderm and endoderm. Foxi3 mutant mice are not viable
+and display severe branchial arch-derived facial skeleton defects, including
+absence of all but the most distal tip of the mandible and complete absence of
+the inner, middle and external ear structures. Although cranial neural crest
+cells of Foxi3 mutants are able to migrate, populate the branchial arches, and
+display some elements of correct proximo-distal patterning, they succumb to
+apoptosis from embryonic day 9.75 onwards. We show this cell death correlates
+with a delay in expression of Fgf8 in branchial arch ectoderm and a failure of
+neural crest cells in the arches to express FGF-responsive genes. Zebrafish foxi1
+is also expressed in branchial arch ectoderm and endoderm, and morpholino
+knock-down of foxi1 also causes apoptosis of neural crest in the branchial
+arches. We show that heat shock induction of fgf3 in zebrafish arch tissue can
+rescue cell death in foxi1 morphants. Our results suggest that Foxi3 may play a
+role in the establishment of signaling centers in the branchial arches that are
+required for neural crest survival, patterning and the subsequent development of 
+branchial arch derivatives.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+PMCID: PMC4013273
+PMID: 24650709  [PubMed - indexed for MEDLINE]
+
+
+8. Dev Biol. 2014 Jun 1;390(1):51-67. doi: 10.1016/j.ydbio.2014.02.019. Epub 2014
+Feb 26.
+
+Ephrin-B2 governs morphogenesis of endolymphatic sac and duct epithelia in the
+mouse inner ear.
+
+Raft S(1), Andrade LR(2), Shao D(3), Akiyama H(4), Henkemeyer M(5), Wu DK(6).
+
+Author information: 
+(1)Section on Sensory Cell Regeneration and Development, National Institute on
+Deafness and Other Communication Disorders, National Institutes of Health,
+Bethesda, MD 20892, USA. Electronic address: rafts@nidcd.nih.gov. (2)Laboratory
+of Biomineralization, Institute of Biomedical Sciences, CCS, Universidade Federal
+do Rio de Janeiro, RJ 21941-902, Brazil. (3)Department of Otolaryngology,
+University of Texas Southwestern Medical Center, Dallas, TX 75390, USA.
+(4)Department of Orthopedics, Gifu University, Gifu City 501-1194, Japan.
+(5)Department of Developmental Biology, University of Texas Southwestern Medical 
+Center, Dallas, TX 75390, USA. (6)Section on Sensory Cell Regeneration and
+Development, National Institute on Deafness and Other Communication Disorders,
+National Institutes of Health, Bethesda, MD 20892, USA. Electronic address:
+wud@nidcd.nih.gov.
+
+Control over ionic composition and volume of the inner ear luminal fluid
+endolymph is essential for normal hearing and balance. Mice deficient in either
+the EphB2 receptor tyrosine kinase or the cognate transmembrane ligand ephrin-B2 
+(Efnb2) exhibit background strain-specific vestibular-behavioral dysfunction and 
+signs of abnormal endolymph homeostasis. Using various loss-of-function mouse
+models, we found that Efnb2 is required for growth and morphogenesis of the
+embryonic endolymphatic epithelium, a precursor of the endolymphatic sac (ES) and
+duct (ED), which mediate endolymph homeostasis. Conditional inactivation of Efnb2
+in early-stage embryonic ear tissues disrupted cell proliferation, cell survival,
+and epithelial folding at the origin of the endolymphatic epithelium. This
+correlated with apparent absence of an ED, mis-localization of ES ion transport
+cells relative to inner ear sensory organs, dysplasia of the endolymph fluid
+space, and abnormally formed otoconia (extracellular calcite-protein composites) 
+at later stages of embryonic development. A comparison of Efnb2 and Notch
+signaling-deficient mutant phenotypes indicated that these two signaling systems 
+have distinct and non-overlapping roles in ES/ED development. Homozygous deletion
+of the Efnb2 C-terminus caused abnormalities similar to those found in the
+conditional Efnb2 null homozygote. Analyses of fetal Efnb2 C-terminus deletion
+heterozygotes found mis-localized ES ion transport cells only in the genetic
+background exhibiting vestibular dysfunction. We propose that developmental
+dysplasias described here are a gene dose-sensitive cause of the vestibular
+dysfunction observed in EphB-Efnb2 signaling-deficient mice.
+
+Published by Elsevier Inc.
+
+PMCID: PMC4113727
+PMID: 24583262  [PubMed - indexed for MEDLINE]
+
+
+9. Yi Chuan. 2013 Oct;35(10):1198-208.
+
+[Comparative analysis of conservation and regulatory network on core
+transcription factors in mouse inner ear development].
+
+[Article in Chinese]
+
+Chen ZQ(1), Han XH(2), Wei QJ(2), Xing GQ(3), Cao X(2).
+
+Author information: 
+(1)The First Clinical Medical College, Nanjing Medical University, Nanjing
+210029, China. erwin_0108@sina.com (2)School of Basic Medicine, Nanjing Medical
+University, Nanjing 210029, China. (3)The First Clinical Medical College, Nanjing
+Medical University, Nanjing 210029, China.
+
+During vertebrate inner ear development, several core genes, such as Six1, Six4, 
+Pax2, Pax8, Foxi1, Dlx5, Gbx2, Irx2/3, and Msx1, are crucial to the regulation of
+the otic placode induction. In order to get the gene regulatory network during
+inner ear development, bioinformatics methods were adopted to analyze
+conservation and regulation of the core transcription factors in mice. Pax2,
+Pax8, Foxi1, and Dlx5 remained to be the main regulators during inner ear
+development, which was consistent with the gene regulatory network from
+literature. Six1 was regulated by many transcription factors, and Gbx2, Irx2/3,
+and Msx1 played important roles in the regulatory network. The differences in the
+constructed regulatory network were reasonably analyzed. It was predicted that
+Msxl regulated the expression of Six1 and Gbx2. In addition, several
+transcription factors, such as Sox5, Lhx2, Rax, Otx1, Otx2, Pitxl, Pitx2, Nkx2-5,
+Irx4, Irx6, Dlx2, Hmx1/2/3, Pou4f3, Pax4 and Tlx2, were found to be involved in
+the regulatory network. Our results provide an improved understanding of the
+regulatory mechanism during inner ear development.
+
+PMID: 24459893  [PubMed - indexed for MEDLINE]
+
+
+10. Nihon Rinsho. 2013 Dec;71(12):2215-22.
+
+[Current status and perspectives of the research in Pendred syndrome].
+
+[Article in Japanese]
+
+Matsunaga T(1), Fujioka M(2), Hosoya M(1).
+
+Author information: 
+(1)Department of Otolaryngology/Laboratory of Auditory Disorders, National
+Institute of Sensory Organs, National Tokyo Medical Center. (2)Department of
+Otorhinolarygology, Keiyu Hospital.
+
+Pendred syndrome is an autosomal recessive disorder characterized by
+sensorineural hearing loss, goiter, and a partial defect in iodide
+organification, and is the most common syndromic hearing loss. Hearing loss is
+congenital in most cases and is accompanied by an enlarged vestibular aqueduct
+and a Mondini cochlea. Pendred syndrome and autosomal recessive deafness-4
+(DFNB4) with enlarged vestibular aqueduct comprise a phenotypic spectrum caused
+by mutations in SLC26A4. Recently, mutations in FOXI1 and KCNJ10 have also been
+identified in DFNB4. Molecular mechanism of hearing loss and goiter remains to be
+elucidated, and therapies which can reverse or prevent the progression of the
+symptoms are not available. Here, we describe advances in the basic, clinical,
+and translational studies on Pendred syndrome.
+
+PMID: 24437281  [PubMed - indexed for MEDLINE]
+
+
+11. Laryngoscope. 2014 May;124(5):E194-202. doi: 10.1002/lary.24504. Epub 2013 Dec
+13.
+
+Intrafamilial phenotypic variability in families with biallelic SLC26A4
+mutations.
+
+Song MH(1), Shin JW, Park HJ, Lee KA, Kim Y, Kim UK, Jeon JH, Choi JY.
+
+Author information: 
+(1)Department of Otorhinolaryngology, Kwandong University College of Medicine,
+Myongji Hospital, Goyang, South Korea.
+
+OBJECTIVES/HYPOTHESIS: Enlarged vestibular aqueduct (EVA) and hearing loss are
+known to be caused by SLC26A4 mutations, but large phenotypic variability exists 
+among patients with biallelic SLC26A4 mutations. Intrafamilial phenotypic
+variability was analyzed in multiplex EVA families carrying biallelic SLC26A4
+mutations to identify the contribution of SLC26A4 mutations and other genetic or 
+environmental factors influencing the clinical manifestations.
+STUDY DESIGN: Retrospective case series.
+METHODS: Eleven multiplex Korean families with EVA and hearing loss that carry
+biallelic mutations of the SLC26A4 gene were included. Genetic analysis for
+SLC26A4 and other genes including FOXI1, FOXI1-DBD, and KCNJ10 was performed. The
+auditory and other phenotypes were compared among siblings with the same SLC26A4 
+mutations.
+RESULTS: The difference in the auditory phenotypes was identified between
+siblings in approximately half of the EVA families. Families with SLC26A4
+mutations other than H723R homozygous mutations demonstrated more phenotypic
+variability, especially in those carrying IVS7-2A>G splice site mutation.
+Cochlear malformation was a consistent finding among siblings with the same
+SLC26A4 mutations. No mutation was identified in the FOXI1, FOXI1-DBD, and KCNJ10
+genes in the tested families.
+CONCLUSIONS: The possibility of variability concerning auditory phenotype should 
+be considered even within family members carrying the same SLC26A4 mutations when
+providing genetic counseling to multiplex EVA families. Mutations in the
+currently known genes associated with EVA other than SLC26A4 were not found to be
+responsible for the intrafamilial phenotypic variability. Modifier genes or
+environmental factors other than the currently known genes seem to play a role in
+the phenotypic expressions of EVA patients.
+
+© 2013 The American Laryngological, Rhinological and Otological Society, Inc.
+
+PMID: 24338212  [PubMed - indexed for MEDLINE]
+
+
+12. Cell Death Dis. 2013 Oct 31;4:e900. doi: 10.1038/cddis.2013.432.
+
+Gene miles-apart is required for formation of otic vesicle and hair cells in
+zebrafish.
+
+Hu ZY(1), Zhang QY, Qin W, Tong JW, Zhao Q, Han Y, Meng J, Zhang JP.
+
+Author information: 
+(1)Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences and 
+Peking Union Medical College, Beijing, China.
+
+Hearing loss is a serious burden to physical and mental health worldwide.
+Aberrant development and damage of hearing organs are recognized as the causes of
+hearing loss, the molecular mechanisms underlining these pathological processes
+remain elusive. Investigation of new molecular mechanisms involved in
+proliferation, differentiation, migration and maintenance of neuromast primordium
+and hair cells will contribute to better understanding of hearing loss pathology.
+This knowledge will enable the development of protective agents and mechanism
+study of drug ototoxicity. In this study, we demonstrate that the zebrafish gene 
+miles-apart, a homolog of sphingosine-1-phosphate receptor 2 (s1pr2) in mammals, 
+has an important role in the development of otic vesicle, neuromasts and survival
+of hair cells. Whole-mount in situ hybridization of embryos showed that
+miles-apart expression occurred mainly in the encephalic region and the somites
+at 24 h.p.f. (hour post fertilization), in the midbrain/hindbrain boundary, the
+brainstem and the pre-neuromast of lateral line at 48 h.p.f. in a strict
+spatiotemporal regulation. Both up- and downregulation of miles-apart led to
+abnormal otoliths and semicircular canals, excess or few hair cells and
+neuromasts, and their disarranged depositions in the lateral lines. Miles-apart
+(Mil) dysregulation also caused abnormal expression of hearing-associated genes, 
+including hmx2, fgf3, fgf8a, foxi1, otop1, pax2.1 and tmieb during zebrafish
+organogenesis. Moreover, in larvae miles-apart gene knockdown significantly
+upregulated proapoptotic gene zBax2 and downregulated prosurvival gene zMcl1b; in
+contrast, the level of zBax2 was decreased and of zMcl1b enhanced by miles-apart 
+overexpression. Collectively, Mil activity is linked to organization and number
+decision of hair cells within a neuromast, also to deposition of neuromasts and
+formation of otic vesicle during zebrafish organogenesis. At the larva stage, Mil
+as an upstream regulator of bcl-2 gene family has a role in protection of hair
+cells against apoptosis by promoting expression of prosurvival gene zMcl1b and
+suppressing proapoptotic gene zBax2.
+
+PMCID: PMC3920936
+PMID: 24176858  [PubMed - indexed for MEDLINE]
+
+
+13. Alcohol Clin Exp Res. 2014 Mar;38(3):694-703. doi: 10.1111/acer.12286. Epub 2013 
+Oct 24.
+
+A screen of zebrafish mutants identifies ethanol-sensitive genetic loci.
+
+Swartz ME(1), Wells MB, Griffin M, McCarthy N, Lovely CB, McGurk P, Rozacky J,
+Eberhart JK.
+
+Author information: 
+(1)Waggoner Center for Alcohol & Addiction Research, Institute for Cell and
+Molecular Biology, University of Texas at Austin, Austin, Texas.
+
+BACKGROUND: Fetal alcohol spectrum disorders (FASD) are a highly variable set of 
+phenotypes caused by fetal alcohol exposure. Numerous factors influence FASD
+phenotypes, including genetics. The zebrafish is a powerful vertebrate model
+system with which to identify these genetic factors. Many zebrafish mutants are
+housed at the Zebrafish International Resource Center (ZIRC). These mutants are
+readily accessible and an excellent source to screen for ethanol (EtOH)-sensitive
+developmental structural mutants.
+METHODS: We screened mutants obtained from ZIRC for sensitivity to EtOH
+teratogenesis. Embryos were treated with 1% EtOH (41 mM tissue levels) from
+6 hours postfertilization onward. Levels of apoptosis were evaluated at 24 hours 
+postfertilization. At 4 days postfertilization, the craniofacial skeleton,
+peripheral axon projections, and sensory neurons of neuromasts were examined.
+Fish were genotyped to determine whether there were phenotype/genotype
+correlations.
+RESULTS: Five of 20 loci interacted with EtOH. Notable among these was that
+vangl2, involved in convergent extension movements of the embryonic axis,
+interacted strongly with EtOH. Untreated vangl2 mutants had normal craniofacial
+morphology, while severe midfacial defects including synophthalmia and narrowing 
+of the palatal skeleton were found in all EtOH-treated mutants and a low
+percentage of heterozygotes. The cell cycle gene, plk1, also interacted strongly 
+with EtOH. Untreated mutants have slightly elevated levels of apoptosis and loss 
+of ventral craniofacial elements. Exposure to EtOH results in extensive apoptosis
+along with loss of neural tissue and the entire craniofacial skeleton. Phenotypes
+of hinfp, mars, and foxi1 mutants were also exacerbated by EtOH.
+CONCLUSIONS: Our results provide insight into the gene-EtOH interactions that may
+underlie EtOH teratogenesis. They support previous findings that EtOH disrupts
+elongation of the embryonic axis. Importantly, these results show that the
+zebrafish is an efficient model with which to test for gene-EtOH interactions.
+Understanding these interactions will be crucial to understanding of the FASD
+variation.
+
+Copyright © 2013 by the Research Society on Alcoholism.
+
+PMCID: PMC3959233
+PMID: 24164477  [PubMed - indexed for MEDLINE]
+
+
+14. BMC Med Genet. 2013 Aug 21;14:85. doi: 10.1186/1471-2350-14-85.
+
+Lack of significant association between mutations of KCNJ10 or FOXI1 and SLC26A4 
+mutations in Pendred syndrome/enlarged vestibular aqueducts.
+
+Landa P(1), Differ AM, Rajput K, Jenkins L, Bitner-Glindzicz M.
+
+Author information: 
+(1)North East Thames Regional Genetics Service Laboratory, Great Ormond Street
+Hospital for Children NHS Foundation Trust, 37 Queen Square,York House, London
+WC1N 3BH, UK.
+
+BACKGROUND: Pendred syndrome is a common autosomal recessive disorder causing
+deafness. Features include sensorineural hearing impairment, goitre, enlarged
+vestibular aqueducts (EVA) and occasionally Mondini dysplasia. Hearing impairment
+and EVA may occur in the absence of goitre or thyroid dyshormonogensis in a
+condition known as non-syndromic EVA. A significant number of patients with
+Pendred syndrome and non-syndromic EVA show only one mutation in SLC26A4. Two
+genes, KCNJ10, encoding an inwardly rectifying potassium channel and FOXI1, a
+transcriptional factor gene, are thought to play a role in the disease
+phenotypes.
+METHODS: Using Polymerase Chain Reaction and Sanger sequencing, sixty-eight
+patients with monoallelic mutations of SLC26A4 were tested for mutations in
+KCNJ10 and FOXI1.
+RESULTS: Two variants were observed in the KCNJ10 gene, p.Arg271Cys in three
+patients and p.Arg18Gln in one patient; only one variant, p.Arg123Trp was
+observed in the FOXI1 gene in a single patient. Both p.Arg271Cys and p.Arg18Gln
+are likely to be polymorphisms as judged by their frequency in the general
+population.
+CONCLUSION: Therefore we found no evidence for a significant association between 
+mutations of KCNJ10 and FOXI1 with SLC26A4. It was also observed that the
+variant, p.Arg271Cys in KCNJ10, previously thought to have a protective effect
+against seizure susceptibility, was found in a patient with Pendred syndrome with
+co-existing epilepsy.
+
+PMCID: PMC3765178
+PMID: 23965030  [PubMed - indexed for MEDLINE]
+
+
+15. Am J Med Genet A. 2013 Sep;161A(9):2226-33. doi: 10.1002/ajmg.a.36068. Epub 2013 
+Aug 5.
+
+Molecular etiology of hearing impairment associated with nonsyndromic enlarged
+vestibular aqueduct in East China.
+
+Chai Y(1), Huang Z, Tao Z, Li X, Li L, Li Y, Wu H, Yang T.
+
+Author information: 
+(1)Department of Otorhinolaryngology-Head and Neck Surgery, Xinhua Hospital,
+Shanghai Jiaotong University School of Medicine, Shanghai, China.
+
+Recessive mutations in SLC26A4 and in rarer cases double heterozygous mutations
+of FOXI1/SLC26A4 and KCNJ10/SLC26A4 lead to hearing impairment associated with
+enlarged vestibular aqueduct (EVA), the most common inner ear malformation. In
+our large cohort study, we addressed several important questions to the molecular
+etiology of this disorder. The overall prevalence of SLC26A4 mutations in
+nonsyndromic childhood sensorineural hearing loss (11.2%, 37/330) were determined
+by sequencing of SLC26A4 in 330 hearing impaired children who did not undergo
+inner ear radiologic imaging prior to their genetic test. The penetrance of EVA
+in bi-allelic SLC26A4 mutation carriers (100%, 37/37) was determined by follow-up
+computed tomography scanning. Combined with the study of 140 additional probands 
+diagnosed with nonsyndromic EVA, we characterized the mutation spectrum of
+SLC26A4 in East China, which consisted of 19 novel SLC26A4 mutations and differed
+from those reported in other regions of China.
+
+Copyright © 2013 Wiley Periodicals, Inc.
+
+PMID: 23918157  [PubMed - indexed for MEDLINE]
+
+
+16. Am J Physiol Renal Physiol. 2013 Sep 15;305(6):F919-29. doi:
+10.1152/ajprenal.00152.2012. Epub 2013 Jul 3.
+
+Evaluation of cellular plasticity in the collecting duct during recovery from
+lithium-induced nephrogenic diabetes insipidus.
+
+Trepiccione F(1), Capasso G, Nielsen S, Christensen BM.
+
+Author information: 
+(1)The Water and Salt Research Center, Dept. of Biomedicine, Aarhus Univ.,
+Wilhelm Meyers Allé 3, 8000 Aarhus C, Denmark. bmc@ana.au.dk.
+
+The cellular morphology of the collecting duct is altered by chronic lithium
+treatment. We have previously shown that lithium increases the fraction of type-A
+intercalated cells and lowers the fraction of principal cells along the
+collecting duct. Moreover, type-A intercalated cells acquire a long-row
+distribution pattern along the tubules. In the present study, we show that these 
+morphological changes reverse progressively after discontinuation of lithium and 
+finally disappear after 19 days from lithium suspension. In this time frame we
+have identified for the first time, in vivo, a novel cellular type positive for
+both intercalated and principal cells functional markers, as recognized by
+colabeling with H(+)-ATPase/aquaporin-4 (AQP4) and anion exchanger-1 (AE-1)/AQP2 
+and Foxi1/AQP4. This cell type is mainly present after 6 days of lithium washout,
+and it disappears in parallel with the long-row pattern of the type-A
+intercalated cells. It usually localizes either in the middle or at the edge of
+the long-row pattern. Its ultrastructure resembles the intercalated cells as
+shown both by differential interference contrast and by electron microscopy. The 
+time course of appearance, the localization along the collecting duct, and the
+ultrastructure suggest that the cells double labeled for principal and
+intercalated cells markers could represent a transition element driving the
+conversion of intercalated cells into principal cells.
+
+PMID: 23825070  [PubMed - indexed for MEDLINE]
+
+
+17. Am J Med Genet A. 2013 Aug;161A(8):1904-9. doi: 10.1002/ajmg.a.36026. Epub 2013
+Jul 4.
+
+A unique case of de novo 5q33.3-q34 triplication with uniparental isodisomy of
+5q34-qter.
+
+Fujita A(1), Suzumura H, Nakashima M, Tsurusaki Y, Saitsu H, Harada N, Matsumoto 
+N, Miyake N.
+
+Author information: 
+(1)Department of Human Genetics, Yokohama City University Graduate School of
+Medicine, Yokohama, Japan.
+
+De novo triplication together with uniparental disomy (UPD) is a rare genomic
+rearrangement, and, to our knowledge, co-occurrence has previously only been
+reported in two individuals. We encountered a patient with a suspected karyotype 
+of 46,XX,del(5)(q33.1q33.3),dup(5)(q31.3q33.3) or (q33.1q35.1). Genetic analysis 
+revealed tetrasomy of 5q33.3-q34 caused by de novo middle inverted triplication
+and uniparental isodisomy of 5q34-qter. Most clinical features in the patient
+were observed in previously reported cases of duplication overlapping with
+5q33.3-q34, with the exception of hearing loss. The FOXI1 gene, which causes
+autosomal recessive deafness (OMIM 600791, DFNB4) when mutated, was contained
+within the uniparental isodisomy region (5q34-qter). However, no mutations were
+identified following Sanger sequencing of FOXI1. This is the first report of a
+patient with de novo triplication together with uniparental isodisomy of
+chromosome 5q. As segmental isodisomy is a post-fertilization error, it is
+thought to have occurred during mitosis just after fertilization via a U-type
+exchange, while inverted duplication could have occurred during meiosis or
+mitosis. This study reaffirms that the single nucleotide polymorphism (SNP) array
+is a powerful tool to screen for UPD in a single experiment, especially in cases 
+of isodisomy.
+
+Copyright © 2013 Wiley Periodicals, Inc.
+
+PMID: 23824987  [PubMed - indexed for MEDLINE]
+
+
+18. PLoS One. 2013 May 21;8(5):e63835. doi: 10.1371/journal.pone.0063835. Print 2013.
+
+Deletion of the prorenin receptor from the ureteric bud causes renal
+hypodysplasia.
+
+Song R(1), Preston G, Ichihara A, Yosypiv IV.
+
+Author information: 
+(1)Department of Pediatrics, Hypertension and Renal Center of Excellence, Tulane 
+University School of Medicine, New Orleans, Louisiana, United States of America.
+
+The role of the prorenin receptor (PRR) in the regulation of ureteric bud (UB)
+branching morphogenesis is unknown. Here, we investigated whether PRR acts
+specifically in the UB to regulate UB branching, kidney development and function.
+We demonstrate that embryonic (E) day E13.5 mouse metanephroi, isolated intact
+E11.5 UBs and cultured UB cells express PRR mRNA. To study its role in UB
+development, we conditionally ablated PRR in the developing UB (PRR (UB-/-))
+using Hoxb7 (Cre) mice. On E12.5, PRR (UB-/-) mice had decreased UB branching and
+increased UB cell apoptosis. These defects were associated with decreased
+expression of Ret, Wnt11, Etv4/Etv5, and reduced phosphorylation of Erk1/2 in the
+UB. On E18.5, mutants had marked kidney hypoplasia, widespread apoptosis of
+medullary collecting duct cells and decreased expression of Foxi1, AE1 and
+H(+)-ATPase a4 mRNA. Ultimately, they developed occasional small cysts in
+medullary collecting ducts and had decreased nephron number. To test the
+functional consequences of these alterations, we determined the ability of PRR
+(UB-/-) mice to acidify and concentrate the urine on postnatal (P) day P30. PRR
+(UB-/-) mice were polyuric, had lower urine osmolality and a higher urine pH
+following 48 hours of acidic loading with NH4Cl. Taken together, these data show 
+that PRR present in the UB epithelia performs essential functions during UB
+branching morphogenesis and collecting duct development via control of Ret/Wnt11 
+pathway gene expression, UB cell survival, activation of Erk1/2, terminal
+differentiation and function of collecting duct cells needed for maintaining
+adequate water and acid-base homeostasis. We propose that mutations in PRR could 
+possibly cause renal hypodysplasia and renal tubular acidosis in humans.
+
+PMCID: PMC3660567
+PMID: 23704941  [PubMed - indexed for MEDLINE]
+
+
+19. Development. 2013 May;140(9):1936-45. doi: 10.1242/dev.087718.
+
+Zebrafish Foxi1 provides a neuronal ground state during inner ear induction
+preceding the Dlx3b/4b-regulated sensory lineage.
+
+Hans S(1), Irmscher A, Brand M.
+
+Author information: 
+(1)Technische Universität Dresden, Biotechnology Center and DFG-Center for
+Regenerative Therapies Dresden Cluster of Excellence, Tatzberg 47-49, Dresden,
+Germany. stefan.hans@biotec.tu-dresden.de
+
+Vertebrate inner ear development is a complex process that involves the induction
+of a common territory for otic and epibranchial precursors and their subsequent
+segregation into otic and epibranchial cell fates. In zebrafish, the
+otic-epibranchial progenitor domain (OEPD) is induced by Fgf signaling in a
+Foxi1- and Dlx3b/4b-dependent manner, but the functional differences of Foxi1 and
+Dlx3b/4b in subsequent cell fate specifications within the developing inner ear
+are poorly understood. Based on pioneer tracking (PioTrack), a novel
+Cre-dependent genetic lineage tracing method, and genetic data, we show that the 
+competence to embark on a neuronal or sensory fate is provided sequentially and
+very early during otic placode induction. Loss of Foxi1 prevents neuronal
+precursor formation without affecting hair cell specification, whereas loss of
+Dlx3b/4b inhibits hair cell but not neuronal precursor formation. Consistently,
+in Dlx3b/4b- and Sox9a-deficient b380 mutants almost all otic epithelial fates
+are absent, including sensory hair cells, and the remaining otic cells adopt a
+neuronal fate. Furthermore, the progenitors of the anterior lateral line ganglia 
+also arise from the OEPD in a Foxi1-dependent manner but are unaffected in the
+absence of Dlx3b/4b or in b380 mutants. Thus, in addition to otic fate Foxi1
+provides neuronal competence during OEPD induction prior to and independently of 
+the Dlx3b/4b-mediated sensory fate of the developing inner ear.
+
+PMID: 23571216  [PubMed - indexed for MEDLINE]
+
+
+20. J Hypertens. 2013 Jan;31(1):123-33. doi: 10.1097/HJH.0b013e32835b053d.
+
+Heredity and cardiometabolic risk: naturally occurring polymorphisms in the human
+neuropeptide Y(2) receptor promoter disrupt multiple transcriptional response
+motifs.
+
+Wei Z(1), Zhang K, Wen G, Balasubramanian K, Shih PA, Rao F, Friese RS,
+Miramontes-Gonzalez JP, Schmid-Schoenbein GW, Kim HS, Mahata SK, O'Connor DT.
+
+Author information: 
+(1)Department of Medicine, Institute for Genomic Medicine, University of
+California at San Diego, VA San Diego Healthcare System, La Jolla, California
+92093-0838, USA.
+
+OBJECTIVES: The neuropeptide Y(2) G-protein-coupled receptor (NPY2R) relays
+signals from PYY or neuropeptide Y toward satiety and control of body mass.
+Targeted ablation of the NPY2R locus in mice yields obesity, and studies of NPY2R
+promoter genetic variation in more than 10,000 human participants indicate its
+involvement in control of obesity and BMI. Here we searched for genetic variation
+across the human NPY2R locus and probed its functional effects, especially in the
+proximal promoter.
+METHODS AND RESULTS: Twin pair studies indicated substantial heritability for
+multiple cardiometabolic traits, including BMI, SBP, DBP, and PYY, an endogenous 
+agonist at NPY2R. Systematic polymorphism discovery by resequencing across NPY2R 
+uncovered 21 genetic variants, 10 of which were common [minor allele frequency
+(MAF) >5%], creating one to two linkage disequilibrium blocks in multiple
+biogeographic ancestries. In vivo, NPY2R haplotypes were associated with both BMI
+(P<U+200A>=<U+200A>3.75E-04) and PYY (P<U+200A>=<U+200A>4.01E-06). Computational approaches revealed that
+proximal promoter variants G-1606A, C-599T, and A-224G disrupt predicted IRF1
+(A>G), FOXI1 (T>C), and SNAI1 (A>G) response elements. In neuroendocrine cells
+transfected with NPY2R promoter/luciferase reporter plasmids, all three variants 
+and their resulting haplotypes influenced transcription (G-1606A, P<U+200A><<U+200A>2.97E-06;
+C-599T, P<U+200A><<U+200A>1.17E-06; A-224G, P<U+200A><<U+200A>2.04E-06), and transcription was differentially
+augmented or impaired by coexpression of either the cognate full-length
+transcription factors or their specific siRNAs at each site. Endogenous
+expression of transcripts for NPY2R, IRF1, and SNAI1 was documented in
+neuroendocrine cells, and the NPY2R mRNA was differentially expressed in two
+neuroendocrine tissues (adrenal gland, brainstem) of a rodent model of
+hypertension and the metabolic syndrome, the spontaneously hypertensive rat.
+CONCLUSION: We conclude that common genetic variation in the proximal NPY2R
+promoter influences transcription factor binding so as to alter gene expression
+in neuroendocrine cells, and consequently cardiometabolic traits in humans. These
+results unveil a novel control point, whereby cis-acting genetic variation
+contributes to control of complex cardiometabolic traits, and point to new
+transcriptional strategies for intervention into neuropeptide actions and their
+cardiometabolic consequences.
+
+PMCID: PMC3615981
+PMID: 23149563  [PubMed - indexed for MEDLINE]
+
+
+21. Dev Biol. 2013 Jan 1;373(1):107-17. doi: 10.1016/j.ydbio.2012.10.012. Epub 2012
+Oct 16.
+
+A gene network that coordinates preplacodal competence and neural crest
+specification in zebrafish.
+
+Bhat N(1), Kwon HJ, Riley BB.
+
+Author information: 
+(1)Biology Department, Texas A&M University, College Station, TX 77843-3258, USA.
+
+Preplacodal ectoderm (PPE) and neural crest (NC) are specified at the interface
+of neural and nonneural ectoderm and together contribute to the peripheral
+nervous system in all vertebrates. Bmp activates early steps for both fates
+during late blastula stage. Low Bmp activates expression of transcription factors
+Tfap2a and Tfap2c in the lateral neural plate, thereby specifying neural crest
+fate. Elevated Bmp establishes preplacodal competence throughout the ventral
+ectoderm by coinducing Tfap2a, Tfap2c, Foxi1 and Gata3. PPE specification occurs 
+later at the end of gastrulation and requires complete attenuation of Bmp, yet
+expression of PPE competence factors continues well past gastrulation. Here we
+show that competence factors positively regulate each other's expression during
+gastrulation, forming a self-sustaining network that operates independently of
+Bmp. Misexpression of Tfap2a in embryos blocked for Bmp from late blastula stage 
+can restore development of both PPE and NC. However, Tfap2a alone is not
+sufficient to activate any other competence factors nor does it rescue individual
+placodes. On the other hand, misexpression of any two competence factors in
+Bmp-blocked embryos can activate the entire transcription factor network and
+support the development of NC, PPE and some individual placodes. We also show
+that while these factors are partially redundant with respect to PPE
+specification, they later provide non-redundant functions needed for development 
+of specific placodes. Thus, we have identified a gene regulatory network that
+coordinates development of NC, PPE and individual placodes in zebrafish.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+PMCID: PMC3508392
+PMID: 23078916  [PubMed - indexed for MEDLINE]
+
+
+22. Arch Gynecol Obstet. 2013 Mar;287(3):477-85. doi: 10.1007/s00404-012-2580-3. Epub
+2012 Oct 17.
+
+Elucidation of regulatory mechanisms revealed by human promoter sequence analysis
+of genes co-expressed in forskolin-treated theca cells in PCOS.
+
+Sarkar C(1), Maitra A.
+
+Author information: 
+(1)Department of Molecular Endocrinology, National Institute for Research in
+Reproductive Health (ICMR), Jehangir Merwanji Street, Parel, Mumbai 400012,
+India.
+
+PURPOSE: Polycystic ovary syndrome (PCOS) is a reproductive endocrinopathy and is
+the most common cause of anovulatory infertility in women of reproductive age
+group. In PCOS research, there have been several reports which have shown the
+differential expression of genes from various tissue and cell types. However,
+little information can be gained about the regulation of these genes from the
+microarray data itself. Therefore, with the assumption that co-expression can
+also imply co-regulation in high-throughput gene expression studies, we
+investigated the role of various transcription factors by elucidating their
+binding sites (TFBSs) in these genes.
+METHODS: For this purpose, a group of 40 genes altered in a forskolin-treated
+PCOS gene expression study in theca cells were analyzed using in silico tools.
+2,000 bp of the upstream region were extracted from all these genes, and the
+PAINT suite of programs was used to identify over-represented TFBSs in these
+genes.
+RESULTS: We identified three different TFBSs which were over-represented as
+compared with a human promoter background model. These three transcription
+factors (TFs) are Oct, HFH, and neuron-restrictive silencing factor. Each of
+these three TFs and their compatible members can be implicated in the
+pathogenesis of PCOS, as described in detail in this article.
+CONCLUSIONS: These factors might reveal a new insight into the complex
+pathogenesis of PCOS especially with respect to cAMP pathway.
+
+PMID: 23073722  [PubMed - indexed for MEDLINE]
+
+
+23. Dis Model Mech. 2013 Mar;6(2):434-42. doi: 10.1242/dmm.010645. Epub 2012 Oct 12.
+
+Mice deficient in H+-ATPase a4 subunit have severe hearing impairment associated 
+with enlarged endolymphatic compartments within the inner ear.
+
+Lorente-Cánovas B(1), Ingham N, Norgett EE, Golder ZJ, Karet Frankl FE, Steel KP.
+
+Author information: 
+(1)Wellcome Trust Sanger Institute, Hinxton, Cambridge, CB10 1SA, UK.
+
+Mutations in the ATP6V0A4 gene lead to autosomal recessive distal renal tubular
+acidosis in patients, who often show sensorineural hearing impairment. A first
+Atp6v0a4 knockout mouse model that recapitulates the loss of H(+)-ATPase function
+seen in humans has been generated and recently reported (Norgett et al., 2012).
+Here, we present the first detailed analysis of the structure and function of the
+auditory system in Atp6v0a4(-/-) knockout mice. Measurements of the auditory
+brainstem response (ABR) showed significantly elevated thresholds in homozygous
+mutant mice, which indicate severe hearing impairment. Heterozygote thresholds
+were normal. Analysis of paint-filled inner ears and sections from E16.5 embryos 
+revealed a marked expansion of cochlear and endolymphatic ducts in Atp6v0a4(-/-) 
+mice. A regulatory link between Atp6v0a4, Foxi1 and Pds has been reported and we 
+found that the endolymphatic sac of Atp6v0a4(-/-) mice expresses both Foxi1 and
+Pds, which suggests a downstream position of Atp6v0a4. These mutants also showed 
+a lack of endocochlear potential, suggesting a functional defect of the stria
+vascularis on the lateral wall of the cochlear duct. However, the main K(+)
+channels involved in the generation of endocochlear potential, Kcnj10 and Kcnq1, 
+are strongly expressed in Atp6v0a4(-/-) mice. Our results lead to a better
+understanding of the role of this proton pump in hearing function.
+
+PMCID: PMC3597025
+PMID: 23065636  [PubMed - indexed for MEDLINE]
+
+
+24. PLoS One. 2012;7(9):e45380. doi: 10.1371/journal.pone.0045380. Epub 2012 Sep 21.
+
+Two origins of blastemal progenitors define blastemal regeneration of zebrafish
+lower jaw.
+
+Wang X(1), He H, Tang W, Zhang XA, Hua X, Yan J.
+
+Author information: 
+(1)Institute for Marine Biosystems and Neurosciences, Institutes of Marine
+Sciences, Shanghai Ocean University, Shanghai, China.
+
+Zebrafish possess a remarkable ability to regenerate complicated structures by
+formation of a mass of undifferentiated mesenchymal cells called blastema. To
+understand how the blastema retains the original structural form, we investigate 
+cellular transitions and transcriptional characteristics of cell identity genes
+during all stages of regeneration of an amputated lower jaw. We find that
+mesenchymal blastema originates from multiple sources including nucleated blood
+cells, fibroblasts, damaged muscle cells and pigment cells. These cells are
+transformed into two populations of blastemal progenitors: foxi1-expression and
+isl1-expression, before giving rise to cartilage, bone, and muscle. Time point-
+based transcriptomal analysis of 45 annotated Hox genes reveal that five 3'-end
+Hox genes and an equal number of 5'-end Hox genes are activated largely at the
+stage of blastema reformation. RNA in situ hybridization shows that foxi1 and
+pax3a are respectively expressed in the presumptive mandible skeletal region and 
+regenerating muscle at 5 dpa. In contrast, hoxa2b and hoxa11b are widely
+expressed with different domain in chondrogenic blastema and blastema mesenchyme.
+Knockdown foxi1 changes the expression patterns of sox9a and hoxa2b in
+chondrogenic blastema. From these results we propose that two origins of
+blastemal progenitors define blastema skeleton and muscle respecifications
+through distinct signaling pathways. Meanwhile, the positional identity of
+blastema reformation is implicated in mesenchymal segmentation and characteristic
+expression pattern of Hox genes.
+
+PMCID: PMC3448660
+PMID: 23028974  [PubMed - indexed for MEDLINE]
+
+
+25. Int J Pediatr Otorhinolaryngol. 2012 Nov;76(11):1633-6. doi:
+10.1016/j.ijporl.2012.07.035. Epub 2012 Aug 18.
+
+Novel heterozygous mutation c.662_663insG compound with IVS7-2A>G mutation in
+SLC26A4 gene in a Chinese family with Pendred syndrome.
+
+Chen K(1), Zhou W, Zong L, Liu M, Du J, Jiang H.
+
+Author information: 
+(1)Department of Otorhinolaryngology, The First Affiliated Hospital, Sun Yat-Sen 
+University and Institute of Otorhinolaryngology, Sun Yat-Sen University,
+Guangzhou 510080, PR China.
+
+OBJECTIVE: Pendred syndrome is one of the most common hereditary determined
+diseases in patients with syndromic sensorineural hearing impairment. Mutations
+in the SLC26A4 gene are a major cause of Pendred syndrome. However, Pendred
+syndrome is quite rare in China. This investigation aims to identify genetic
+cause of a Chinese family with Pendred syndrome.
+METHODS: Clinical and molecular evaluations were conducted in a Chinese family
+with Pendred syndrome.
+RESULTS: A novel SLC26A4 c.662_663insG mutation was detected in compound
+heterozygosity with IVS7-2A>G. No FOXI1, KCNJ10 or GJB2 pathogenic mutation was
+found. The novel mutation c.662_663insG (p.G221) locates in SLC26A4 gene exon 6, 
+and cause frameshift mutation on pendrin protein transmembrane domain five.
+CONCLUSION: The compound heterozygosity of the novel c.662_663insG and IVS7-2A>G 
+mutations in the SLC26A4 gene was considered to be the cause of Pendred syndrome 
+in the proband. This study also supplemented the mutation spectrum of Pendred
+syndrome.
+
+Copyright © 2012 Elsevier Ireland Ltd. All rights reserved.
+
+PMID: 22906308  [PubMed - indexed for MEDLINE]
+
+
+26. Otolaryngol Head Neck Surg. 2012 Jun;146(6):972-8. doi: 10.1177/0194599812439670.
+Epub 2012 Mar 12.
+
+Screening of SLC26A4, FOXI1, KCNJ10, and GJB2 in bilateral deafness patients with
+inner ear malformation.
+
+Chen K(1), Wang X, Sun L, Jiang H.
+
+Author information: 
+(1)Department of Otorhinolaryngology, the First Affiliated Hospital, Sun Yat-Sen 
+University and Institute of Otorhinolaryngology, Sun Yat-sen University,
+Guangzhou, PR China.
+
+OBJECTIVE: Bilateral nonsyndromic sensorineural hearing loss associated with
+inner ear malformation is closely related to genetics. SLC26A4 is considered to
+be the major involved gene. Recently, FOXI1 and KCNJ10 mutations have been linked
+to enlarged vestibular aqueducts and GJB2 mutations linked to temporal bone
+malformation. The authors aimed to investigate the mutation spectrums of these
+genes in Chinese patients with bilateral hearing impairment associated with inner
+ear malformation.
+STUDY DESIGN: Cross-sectional study.
+SETTING: Affiliated hospital of the university.
+SUBJECTS AND METHODS: The authors analyzed the GJB2, SLC26A4, FOXI1, and KCNJ10
+gene sequences in 43 patients presenting with bilateral hearing impairment
+associated with inner ear malformation using pyrosequencing and direct DNA
+sequencing.
+RESULTS: In total, 74.4% (32/43) of patients carried at least 1 of 14 pathogenic 
+SLC26A4 mutations, including 6 novel mutations and 4 polymorphisms. Patients with
+enlarged vestibular aqueducts had a higher rate of SLC26A4 mutation than Mondini 
+dysplasia patients. No FOXI1 or KCNJ10 potential pathogenic mutation was present,
+and GJB2 biallelic pathogenic mutations were uncommon (2.3%; 1/43). No
+significant correlation was observed between the genotype and phenotype of
+SLC26A4 mutations.
+CONCLUSION: SLC26A4 accounts for 74.4% of inner ear malformations in our cohort, 
+whereas FOXI1, KCNJ10, and GJB2 mutations are not common. Other possible genes or
+external factors may contribute to this multibranch abnormality.
+
+PMID: 22412181  [PubMed - indexed for MEDLINE]
+
+
+27. Dev Biol. 2012 Apr 1;364(1):1-10. doi: 10.1016/j.ydbio.2012.01.022. Epub 2012 Feb
+1.
+
+Conditions that influence the response to Fgf during otic placode induction.
+
+Padanad MS(1), Bhat N, Guo B, Riley BB.
+
+Author information: 
+(1)Biology Department, Texas A&M University, College Station, TX 77843-3258, USA.
+
+Despite the vital importance of Fgf for otic induction, previous attempts to
+study otic induction through Fgf misexpression have yielded widely varying and
+contradictory results. There are also discrepancies regarding the ability of Fgf 
+to induce otic tissue in ectopic locations, raising questions about the
+sufficiency of Fgf and the degree to which other local factors enhance or
+restrict otic potential. Using heat shock-inducible transgenes to misexpress Fgf3
+or Fgf8 in zebrafish, we found that the stage, distribution and level of
+misexpression strongly influence the response to Fgf. Fgf misexpression during
+gastrulation can inhibit or promote otic development, depending on context,
+whereas misexpression after gastrulation leads to expansion of otic markers
+throughout preplacodal ectoderm surrounding the head. Elevated Fgf also expands
+expression of the putative competence factor Foxi1, which is required for Fgf to 
+expand other otic markers. Misexpression of downstream factors Pax2a or Pax8 also
+expands otic markers but cannot bypass the requirement for Fgf or Foxi1.
+Co-misexpression of Pax2/8 with Fgf8 potentiates formation of ectopic otic
+vesicles expressing a full range of otic markers. These findings document the
+variables critically affecting the response to Fgf and clarify the roles of foxi1
+and pax2/8 in the otic response.
+
+© 2012 Elsevier Inc. All rights reserved.
+
+PMCID: PMC4709014
+PMID: 22327005  [PubMed - indexed for MEDLINE]
+
+
+28. J Laryngol Otol. 2012 Apr;126(4):349-55. doi: 10.1017/S002221511100346X. Epub
+2012 Jan 31.
+
+Genetic diagnosis and cochlear implantation for patients with nonsyndromic
+hearing loss and enlarged vestibular aqueduct.
+
+Lai R(1), Hu P, Zhu F, Zhu G, Vivero R, Peng A, Wu W, Xiao Z, Liu X, Xie D.
+
+Author information: 
+(1)Institute of Otology, Department of Otolaryngology and Head and Neck Surgery, 
+Second Xiangya Hospital, Central South University, Changsha, China.
+
+OBJECTIVE: To review the genotype and cochlear implantation outcome of patients
+with nonsyndromic hearing loss and enlarged vestibular aqueduct.
+METHODS: Twenty-one Chinese children with nonsyndromic hearing loss and enlarged 
+vestibular aqueduct underwent genetic examination. A DNA microarray was used to
+screen for the IVS7-2A>G and H723R mutations. Any DNA samples with one or none of
+the two mutant alleles were sequenced to detect other mutations in the SLC26A4
+and FOXI1 genes.
+RESULTS: Twelve SLC26A4 mutations were detected, including three novel mutations.
+The most common mutations detected were IVS7-2A>G and H723R. Twelve patients
+received cochlear implants, and subsequently demonstrated excellent speech
+perception.
+CONCLUSION: Three novel mutations were detected in Chinese patients with
+nonsyndromic hearing loss and enlarged vestibular aqueduct. The SLC26A4 mutation 
+spectrum in the Chinese population is similar to that in other East Asian
+populations. Cochlear implantation is a safe and effective treatment in patients 
+with enlarged vestibular aqueduct.
+
+PMID: 22289209  [PubMed - indexed for MEDLINE]
+
+
+29. Mol Cell Endocrinol. 2012 Apr 4;351(2):342-50. doi: 10.1016/j.mce.2012.01.013.
+Epub 2012 Jan 25.
+
+Molecular and functional studies of 4 candidate loci in Pendred syndrome and
+nonsyndromic hearing loss.
+
+Cirello V(1), Bazzini C, Vezzoli V, Muzza M, Rodighiero S, Castorina P, Maffini
+A, Bottà G, Persani L, Beck-Peccoz P, Meyer G, Fugazzola L.
+
+Author information: 
+(1)Dept. of Medical Sciences, Università degli Studi, Milan, Italy.
+
+Patients with PS or non-syndromic deafness were submitted to genetic/functional
+analyzes of SLC26A4, of its binding domain for FOXI1 (FOXI1-DBD), of the
+transcription activator FOXI1, and of the potassium channel KCNJ10. SLC26A4 was
+the most frequently mutated gene. An altered intracellular localization with
+immunocytochemistry, and a hampered maturation process were demonstrated for two 
+novel SLC26A4 variants. Biochemical and immunocytochemical analyzes led to the
+development of a more sensitive fluorometric functional assay able to reveal the 
+partial loss-of-function of SLC26A4 mutations. A novel missense variant was found
+in FOXI1 gene, though functional analysis showed no significant impairment in the
+transcriptional activation of SLC26A4. Finally, 3 patients were found to harbor a
+variant in KCNJ10, which was classified as polymorphism. The novelty of the study
+resides in the analysis of all the 4 candidate genetic loci linked to
+PS/non-syndromic deafness, and in the precise definition of the thyroid
+phenotype. PS was invariably associated with biallelic mutations of SLC26A4,
+whereas the genetic origin of non-syndromic deafness remained largely
+undetermined, since monoallelic SLC26A4 variants accounted for one fourth of the 
+cases and FOXI1 and KCNJ10 were not involved in this series.
+
+Copyright Â© 2012 Elsevier Ireland Ltd. All rights reserved.
+
+PMID: 22285650  [PubMed - indexed for MEDLINE]
+
+
+30. Cell Physiol Biochem. 2011;28(3):451-66. doi: 10.1159/000335107. Epub 2011 Nov
+18.
+
+Molecular and functional characterization of human pendrin and its allelic
+variants.
+
+Dossena S(1), Nofziger C, Tamma G, Bernardinelli E, Vanoni S, Nowak C, Grabmayer 
+E, Kössler S, Stephan S, Patsch W, Paulmichl M.
+
+Author information: 
+(1)Institute of Pharmacology and Toxicology, Paracelsus Medical University,
+Salzburg, Austria. silvia.dossena@pmu.ac.at
+
+Pendrin (SLC26A4, PDS) is an electroneutral anion exchanger transporting I(-),
+Cl(-), HCO(3)(-), OH(-), SCN(-) and formate. In the thyroid, pendrin is expressed
+at the apical membrane of the follicular epithelium and may be involved in
+mediating apical iodide efflux into the follicle; in the inner ear, it plays a
+crucial role in the conditioning of the pH and ion composition of the endolymph; 
+in the kidney, it may exert a role in pH homeostasis and regulation of blood
+pressure. Mutations of the pendrin gene can lead to syndromic and non-syndromic
+hearing loss with EVA (enlarged vestibular aqueduct). Functional tests of mutated
+pendrin allelic variants found in patients with Pendred syndrome or non-syndromic
+EVA (ns-EVA) revealed that the pathological phenotype is due to the reduction or 
+loss of function of the ion transport activity. The diagnosis of Pendred syndrome
+and ns-EVA can be difficult because of the presence of phenocopies of Pendred
+syndrome and benign polymorphisms occurring in the general population. As a
+consequence, defining whether or not an allelic variant is pathogenic is crucial.
+Recently, we found that the two parameters used so far to assess the pathogenic
+potential of a mutation, i.e. low incidence in the control population, and
+substitution of evolutionary conserved amino acids, are not always reliable for
+predicting the functionality of pendrin allelic variants; actually, we identified
+mutations occurring with the same frequency in the cohort of hearing impaired
+patients and in the control group of normal hearing individuals. Moreover, we
+identified functional polymorphisms affecting highly conserved amino acids. As a 
+general rule however, we observed a complete loss of function for all truncations
+and amino acid substitutions involving a proline. In this view, clinical and
+radiological studies should be combined with genetic and molecular studies for a 
+definitive diagnosis. In performing genetic studies, the possibility that the
+mutation could affect regions other than the pendrin coding region, such as its
+promoter region and/or the coding regions of functionally related genes (FOXI1,
+KCNJ10), should be taken into account. The presence of benign polymorphisms in
+the population suggests that genetic studies should be corroborated by functional
+studies; in this context, the existence of hypo-functional variants and possible 
+differences between the I(-)/Cl(-) and Cl(-)/HCO(3)(-) exchange activities should
+be carefully evaluated.
+
+Copyright © 2011 S. Karger AG, Basel.
+
+PMID: 22116358  [PubMed - indexed for MEDLINE]
+
+
+31. Methods Mol Biol. 2012;786:275-90. doi: 10.1007/978-1-61779-292-2_17.
+
+Using a yeast inverse one-hybrid system to identify functional binding sites of
+transcription factors.
+
+Yan J(1), Burgess SM.
+
+Author information: 
+(1)Institute for Marine Biosystem and Neurosciences, Department of Hydrobiology, 
+Shanghai Ocean University, College of Fisheries and Life Sciences, Lingang New
+City, Shanghai, China.
+
+Binding of transcription factors to promoters is a necessary step to initiate
+transcription. From an evolutionary standpoint, the regulatory proteins and their
+binding sites are considered to have molecularly coevolved. We developed an
+efficient yeast strategy, an "inverse one-hybrid system", to identify binding
+targets of transcription factors globally in a genome of interest. The technique 
+consists of a yeast strain expressing a -transcription factor of interest mated
+to yeast containing a library of random genomic fragments cloned upstream of a
+reporter gene (URA3). Positive growth on media without uracil denotes a fragment 
+being bound by the transcription factor, e.g., zebrafish FoxI1. The bound
+fragments in hundreds of positive clones are sequenced and retested for their
+binding activities using a colony PCR and sequencing strategy. The resulting
+tools allow for rapid and genomic-wide identification of transcriptional binding 
+targets.
+
+PMID: 21938633  [PubMed - indexed for MEDLINE]
+
+
+32. Genet Test Mol Biomarkers. 2011 May;15(5):365-8. doi: 10.1089/gtmb.2010.0177.
+Epub 2011 Mar 2.
+
+Identification of SLC26A4 mutations in patients with hearing loss and enlarged
+vestibular aqueduct using high-resolution melting curve analysis.
+
+Mercer S(1), Mutton P, Dahl HH.
+
+Author information: 
+(1)Murdoch Childrens Research Institute, Royal Children's Hospital, Flemington
+Road, Parkville, Melbourne, Australia.
+
+Mutations in the SLC26A4 gene can cause both Pendred syndrome and nonsyndromic
+enlargement of the vestibular aqueduct, two conditions associated with
+sensorineural hearing loss. We analyzed the SLC26A4 gene in 44 hearing-impaired
+patients by nested polymerase chain reaction followed by high-resolution melt
+analysis. We also used this approach to scan for mutations in KCNJ10 and FOXI1,
+two genes reported to play a role in the pathogenesis of Pendred syndrome and
+enlarged vestibular aqueduct. Seven patients with known SLC26A4 mutations were
+included as controls. All previously identified mutations were detected by
+high-resolution melt analysis. Of the patients with no known mutations, we
+detected two SLC26A4 mutations in 5 probands (12%), one mutation in 9 probands
+(21%), and no mutations in 29 probands (67%). We identified two novel SLC26A4
+mutations, p.T485M and p.F718S, and found no evidence of a digenic contribution
+of KCNJ10 and FOXI1 mutations.
+
+PMID: 21366435  [PubMed - indexed for MEDLINE]
+
+
+33. Development. 2011 Feb;138(4):705-14. doi: 10.1242/dev.055699.
+
+Specification of ion transport cells in the Xenopus larval skin.
+
+Quigley IK(1), Stubbs JL, Kintner C.
+
+Author information: 
+(1)The Salk Institute for Biological Studies, 10010 North Torrey Pines Road, La
+Jolla, CA 92037, USA.
+
+Specialized epithelial cells in the amphibian skin play important roles in ion
+transport, but how they arise developmentally is largely unknown. Here we show
+that proton-secreting cells (PSCs) differentiate in the X. laevis larval skin
+soon after gastrulation, based on the expression of a `kidney-specific' form of
+the H(+)v-ATPase that localizes to the plasma membrane, orthologs of the
+Cl(-)/HCO(-)(3) antiporters ae1 and pendrin, and two isoforms of carbonic
+anhydrase. Like PSCs in other species, we show that the expression of these genes
+is likely to be driven by an ortholog of foxi1, which is also sufficient to
+promote the formation of PSC precursors. Strikingly, the PSCs form in the skin as
+two distinct subtypes that resemble the alpha- and beta-intercalated cells of the
+kidney. The alpha-subtype expresses ae1 and localizes H(+)v-ATPases to the apical
+plasma membrane, whereas the beta-subtype expresses pendrin and localizes the
+H(+)v-ATPase cytosolically or basolaterally. These two subtypes are specified
+during early PSC differentiation by a binary switch that can be regulated by
+Notch signaling and by the expression of ubp1, a transcription factor of the
+grainyhead family. These results have implications for how PSCs are specified in 
+vertebrates and become functionally heterogeneous.
+
+PMCID: PMC3026415
+PMID: 21266406  [PubMed - indexed for MEDLINE]
+
+
+34. Dev Biol. 2011 Mar 1;351(1):90-8. doi: 10.1016/j.ydbio.2010.12.036. Epub 2011 Jan
+4.
+
+Pax2/8 proteins coordinate sequential induction of otic and epibranchial placodes
+through differential regulation of foxi1, sox3 and fgf24.
+
+Padanad MS(1), Riley BB.
+
+Author information: 
+(1)Biology Department, Texas A&M University, College Station, TX 77843-3258, USA.
+
+Erratum in
+    Dev Biol. 2012 Mar 1;363(1):331.
+
+Vertebrate cranial placodes contribute vitally to development of sensory
+structures of the head. Amongst posterior placodes, the otic placode forms the
+inner ear whereas nearby epibranchial placodes produce sensory ganglia within
+branchial clefts. Though diverse in fate, these placodes show striking
+similarities in their early regulation. In zebrafish, both are initiated by
+localized Fgf signaling plus the ubiquitous competence factor Foxi1, and both
+express pax8 and sox3 in response. It has been suggested that Fgf initially
+induces a common otic/epibranchial field, which later subdivides in response to
+other signals. However, we find that otic and epibranchial placodes form at
+different times and by distinct mechanisms. Initially, Fgf from surrounding
+tissues induces otic expression of pax8 and sox3, which cooperate synergistically
+to establish otic fate. Subsequently, pax8 works with related genes pax2a/pax2b
+to downregulate otic expression of foxi1, a necessary step for further otic
+development. Additionally, pax2/8 activate otic expression of fgf24, which
+induces epibranchial expression of sox3. Knockdown of fgf24 or sox3 causes severe
+epibranchial deficiencies but has little effect on otic development. These
+findings clarify the roles of pax8 and sox3 and support a model whereby the otic 
+placode forms first and induces epibranchial placodes through an Fgf-relay.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+PMCID: PMC3039053
+PMID: 21215261  [PubMed - indexed for MEDLINE]
+
+
+35. J Med Genet. 2011 Mar;48(3):152-9. doi: 10.1136/jmg.2010.081851. Epub 2010 Oct
+23.
+
+Variants in CFTR untranslated regions are associated with congenital bilateral
+absence of the vas deferens.
+
+Lopez E(1), Viart V, Guittard C, Templin C, René C, Méchin D, Des Georges M,
+Claustres M, Romey-Chatelain MC, Taulan M.
+
+Author information: 
+(1)Université Montpellier1, UFR de Médecine, Montpellier, France.
+
+BACKGROUND: Congenital bilateral absence of the vas deferens (CBAVD), a frequent 
+cause of obstructive azoospermia, is generated by mutations in the cystic
+fibrosis transmembrane conductance regulator (CFTR) gene. Despite extensive
+testing for point mutations and large rearrangements, a small proportion of
+alleles still remains unidentified in CBAVD patients.
+METHODS AND RESULTS: Mutation scanning analysis of microsatellite variability in 
+the CFTR gene identified two undescribed 4 bp sequence repeats (TAAA)(6) and
+(TAAA)(8) in intron 9 in two CBAVD patients heterozygote for either the -33G<U+2192>A
+promoter transition or the classical [TG12T5] CBAVD mutation. This study explores
+the putative impact of this promoter variant by using a combination of web based 
+prediction tools, reporter gene assays, and DNA/proteins interaction analyses.
+Results of transiently transfected vas deferens cells with either the -33G
+wild-type or the -33A variant CFTR directed luciferase reporter gene confirmed
+that the -33A variant, which alters the FOXI1 (Forkhead box I1) binding,
+significantly decreases the CFTR promoter activity. It was also investigated
+whether regulatory elements located within the intronic tetrarepeat might
+influence the CFTR expression. There was evidence that both the (TAAA)(6) and the
+(TAAA)(8) alleles modulate the CFTR transcription and the binding affinity for
+FOX transcription factors, involved in the chromatin architecture.
+CONCLUSIONS: As the vas deferens seems to be one of the tissues most susceptible 
+to a reduction in the normal CFTR transcripts levels, and as two mild mutations
+are sufficient to induce CBAVD phenotype, these findings raise the possibility
+that these uncommon variants may be a novel cause of CBAVD.
+
+PMID: 20972246  [PubMed - indexed for MEDLINE]
+
+
+36. PLoS Genet. 2010 Sep 23;6(9):e1001133. doi: 10.1371/journal.pgen.1001133.
+
+Identification of early requirements for preplacodal ectoderm and sensory organ
+development.
+
+Kwon HJ(1), Bhat N, Sweet EM, Cornell RA, Riley BB.
+
+Author information: 
+(1)Biology Department, Texas A&M University, College Station, Texas, United
+States of America.
+
+Preplacodal ectoderm arises near the end of gastrulation as a narrow band of
+cells surrounding the anterior neural plate. This domain later resolves into
+discrete cranial placodes that, together with neural crest, produce paired
+sensory structures of the head. Unlike the better-characterized neural crest,
+little is known about early regulation of preplacodal development. Classical
+models of ectodermal patterning posit that preplacodal identity is specified by
+readout of a discrete level of Bmp signaling along a DV gradient. More recent
+studies indicate that Bmp-antagonists are critical for promoting preplacodal
+development. However, it is unclear whether Bmp-antagonists establish the proper 
+level of Bmp signaling within a morphogen gradient or, alternatively, block Bmp
+altogether. To begin addressing these issues, we treated zebrafish embryos with a
+pharmacological inhibitor of Bmp, sometimes combined with heat shock-induction of
+Chordin and dominant-negative Bmp receptor, to fully block Bmp signaling at
+various developmental stages. We find that preplacodal development occurs in two 
+phases with opposing Bmp requirements. Initially, Bmp is required before
+gastrulation to co-induce four transcription factors, Tfap2a, Tfap2c, Foxi1, and 
+Gata3, which establish preplacodal competence throughout the nonneural ectoderm. 
+Subsequently, Bmp must be fully blocked in late gastrulation by dorsally
+expressed Bmp-antagonists, together with dorsally expressed Fgf and Pdgf, to
+specify preplacodal identity within competent cells abutting the neural plate.
+Localized ventral misexpression of Fgf8 and Chordin can activate ectopic
+preplacodal development anywhere within the zone of competence, whereas dorsal
+misexpression of one or more competence factors can activate ectopic preplacodal 
+development in the neural plate. Conversely, morpholino-knockdown of competence
+factors specifically ablates preplacodal development. Our work supports a
+relatively simple two-step model that traces regulation of preplacodal
+development to late blastula stage, resolves two distinct phases of Bmp
+dependence, and identifies the main factors required for preplacodal competence
+and specification.
+
+PMCID: PMC2944784
+PMID: 20885782  [PubMed - indexed for MEDLINE]
+
+
+37. BMC Evol Biol. 2010 Sep 1;10:267. doi: 10.1186/1471-2148-10-267.
+
+African signatures of recent positive selection in human FOXI1.
+
+Moreno-Estrada A(1), Aparicio-Prat E, Sikora M, Engelken J, Ramírez-Soriano A,
+Calafell F, Bosch E.
+
+Author information: 
+(1)Departament de Ciències Experimentals i de la Salut, Universitat Pompeu Fabra,
+Institut de Biologia Evolutiva UPF-CSIC, Parc de Recerca Biomèdica de Barcelona, 
+08003 Barcelona, Spain.
+
+BACKGROUND: The human FOXI1 gene codes for a transcription factor involved in the
+physiology of the inner ear, testis, and kidney. Using three interspecies
+comparisons, it has been suggested that this may be a gene under human-specific
+selection. We sought to confirm this finding by using an extended set of
+orthologous sequences. Additionally, we explored for signals of natural selection
+within humans by sequencing the gene in 20 Europeans, 20 East Asians and 20
+Yorubas and by analysing SNP variation in a 2 Mb region centered on FOXI1 in 39
+worldwide human populations from the HGDP-CEPH diversity panel.
+RESULTS: The genome sequences recently available from other primate and
+non-primate species showed that FOXI1 divergence patterns are compatible with
+neutral evolution. Sequence-based neutrality tests were not significant in
+Europeans, East Asians or Yorubas. However, the Long Range Haplotype (LRH) test, 
+as well as the iHS and XP-Rsb statistics revealed significantly extended tracks
+of homozygosity around FOXI1 in Africa, suggesting a recent episode of positive
+selection acting on this gene. A functionally relevant SNP, as well as several
+SNPs either on the putatively selected core haplotypes or with significant iHS or
+XP-Rsb values, displayed allele frequencies strongly correlated with the absolute
+geographical latitude of the populations sampled.
+CONCLUSIONS: We present evidence for recent positive selection in the FOXI1 gene 
+region in Africa. Climate might be related to this recent adaptive event in
+humans. Of the multiple functions of FOXI1, its role in kidney-mediated
+water-electrolyte homeostasis is the most obvious candidate for explaining a
+climate-related adaptation.
+
+PMCID: PMC2939579
+PMID: 20809947  [PubMed - indexed for MEDLINE]
+
+
+38. Int J Pediatr Otorhinolaryngol. 2010 Sep;74(9):1049-53. doi:
+10.1016/j.ijporl.2010.06.002.
+
+Screening of SLC26A4, FOXI1 and KCNJ10 genes in unilateral hearing impairment
+with ipsilateral enlarged vestibular aqueduct.
+
+Jonard L(1), Niasme-Grare M, Bonnet C, Feldmann D, Rouillon I, Loundon N, Calais 
+C, Catros H, David A, Dollfus H, Drouin-Garraud V, Duriez F, Eliot MM, Fellmann
+F, Francannet C, Gilbert-Dussardier B, Gohler C, Goizet C, Journel H, Mom T,
+Thuillier-Obstoy MF, Couderc R, Garabédian EN, Denoyelle F, Marlin S.
+
+Author information: 
+(1)AP-HP, Centre de Référence des Surdités Généttiques, Hôpital Armand-Trousseau,
+Paris, France.
+
+OBJECTIVE: To investigate the implication of SLC26A4, FOXI and KCNJ10 genes in
+unilateral hearing impairment associated with ipsilateral inner ear malformation 
+(Enlargement of the vestibular aqueduct and/or Mondini dysplasia).
+METHODS: We have gathered 25 patients presenting unilateral hearing impairment
+and ipsilateral enlarged vestibular aqueduct. For each of the patients, we have
+analyzed SLC26A4, FOXI1 and KCNJ10 genes sequences.
+RESULTS: The analysis of SLC26A4 revealed only eight heterozygous SLC26A4
+sequence variants, three of them being novel (p.Met147Ile, p.Asn538Asn and
+p.Leu627Arg). None of the patients carried a second mutation on the other allele.
+Moreover, the SLC26A4 locus was excluded by segregation analysis in two families.
+No mutations were present in FOXI1 and KCNJ10 genes.
+CONCLUSIONS: Together, these data suggest that SLC26A4, FOXI1 and KCNJ10 are not 
+major determinants in unilateral deafness and enlarged vestibular aqueduct
+compared with their implication in Pendred syndrome and non-syndromic bilateral
+enlarged vestibular aqueduct.
+
+Copyright 2010 Elsevier Ireland Ltd. All rights reserved.
+
+PMID: 20621367  [PubMed - indexed for MEDLINE]
+
+
+39. Am J Physiol Lung Cell Mol Physiol. 2010 Aug;299(2):L252-62. doi:
+10.1152/ajplung.00062.2010. Epub 2010 Apr 23.
+
+Transcriptional regulation of SP-B gene expression by nitric oxide in H441 lung
+epithelial cells.
+
+Boggaram V(1), Chandru H, Gottipati KR, Thakur V, Das A, Berhane K.
+
+Author information: 
+(1)Center for Biomedical Research, Univ. of Texas Health Science Center at Tyler,
+TX 75708-3154, USA. vijay.boggaram@uthct.edu
+
+Surfactant protein B (SP-B) is essential for the surface tension-lowering
+function of pulmonary surfactant. Surfactant dysfunction and reduced SP-B levels 
+are associated with elevated nitric oxide (NO) in inflammatory lung diseases,
+such as acute respiratory distress syndrome. We previously found that NO donors
+decreased SP-B expression in H441 and MLE-12 lung epithelial cells by reducing
+SP-B promoter activity. In this study, we determined the roles of DNA elements
+and interacting transcription factors necessary for NO inhibition of SP-B
+promoter activity in H441 cells. We found that the NO donor
+diethylenetriamine-nitric oxide adduct (DETA-NO) decreased SP-B promoter thyroid 
+transcription factor 1 (TTF-1), hepatocyte nuclear factor 3 (HNF-3), and Sp1
+binding activities but increased activator protein 1 (AP-1) binding activity.
+DETA-NO decreased TTF-1, but not Sp1, levels, suggesting that reduced TTF-1
+expression contributes to reduced TTF-1 binding activity. Lack of effect on Sp1
+levels suggested that DETA-NO inhibits Sp1 binding activity per se.
+Overexpression of Sp1, but not TTF-1, blocked DETA-NO inhibition of SP-B promoter
+activity. DETA-NO inhibited SP-B promoter induction by exogenous TTF-1 without
+altering TTF-1 levels. DETA-NO decreased TTF-1 mRNA levels and gene transcription
+rate, indicating that DETA-NO inhibits TTF-1 expression at the transcriptional
+level. We conclude that NO inhibits SP-B promoter by decreasing TTF-1, Sp1, and
+HNF-3 binding activities and increasing AP-1 binding activity. NO inhibits TTF-1 
+levels and activity to decrease SP-B expression. NO inhibition of SP-B expression
+could be a mechanism by which surfactant dysfunction occurs in inflammatory lung 
+diseases.
+
+PMCID: PMC2928609
+PMID: 20418387  [PubMed - indexed for MEDLINE]
+
+
+40. ASN Neuro. 2010 Mar 31;2(2):e00032. doi: 10.1042/AN20100003.
+
+A single nucleotide polymorphism in the Bax gene promoter affects transcription
+and influences retinal ganglion cell death.
+
+Semaan SJ(1), Li Y, Nickells RW.
+
+Author information: 
+(1)Department of Opthalmology and Visual Sciences, University of Wisconsin,
+School of Medicine and Public Health, 1300 University Avenue, Madison, WI 53706, 
+U.S.A.
+
+Pro-apoptotic Bax is essential for RGC (retinal ganglion cell) death. Gene dosage
+experiments in mice, yielding a single wild-type Bax allele, indicated that
+genetic background was able to influence the cell death phenotype. DBA/2J(Bax+/-)
+mice exhibited complete resistance to nerve damage after 2 weeks (similar to
+Bax(-/-) mice), but 129B6(Bax+/-) mice exhibited significant cell loss (similar
+to wild-type mice). The different cell death phenotype was associated with the
+level of Bax expression, where 129B6 neurons had twice the level of endogenous
+Bax mRNA and protein as DBA/2J neurons. Sequence analysis of the Bax promoters
+between these strains revealed a single nucleotide polymorphism (T(129B6) to
+C(DBA/2J)) at position -515. A 1.5- to 2.5-fold increase in transcriptional
+activity was observed from the 129B6 promoter in transient transfection assays in
+a variety of cell types, including RGC5 cells derived from rat RGCs. Since this
+polymorphism occurred in a p53 half-site, we investigated the requirement of p53 
+for the differential transcriptional activity. Differential transcriptional
+activity from either 129B6 or DBA/2J Bax promoters were unaffected in p53(-/-)
+cells, and addition of exogenous p53 had no further effect on this difference,
+thus a role for p53 was excluded. Competitive electrophoretic mobility-shift
+assays identified two DNA-protein complexes that interacted with the polymorphic 
+region. Those forming Complex 1 bound with higher affinity to the 129B6
+polymorphic site, suggesting that these proteins probably comprised a
+transcriptional activator complex. These studies implicated quantitative
+expression of the Bax gene as playing a possible role in neuronal susceptibility 
+to damaging stimuli.
+
+PMCID: PMC2847828
+PMID: 20360947  [PubMed - indexed for MEDLINE]
+
+
+41. Pendred Syndrome/DFNB4.
+
+Alasti F, Van Camp G, Smith RJH.
+In: Pagon RA, Adam MP, Ardinger HH, Wallace SE, Amemiya A, Bean LJH, Bird TD,
+Fong CT, Mefford HC, Smith RJH, Stephens K, editors. GeneReviews(®) [Internet].
+Seattle (WA): University of Washington, Seattle; 1993-2016.
+1998 Sep 28.
+
+CLINICAL CHARACTERISTICS: Pendred syndrome (PDS) and DFNB4 comprise a phenotypic 
+spectrum of hearing loss with or without other findings. Pendred syndrome is
+characterized by: severe-to-profound bilateral sensorineural hearing impairment
+that is usually congenital (or prelingual) and non-progressive; vestibular
+dysfunction; temporal bone abnormalities; and development of euthyroid goiter in 
+late childhood to early adulthood. Variability of findings is considerable, even 
+within the same family. DFNB4 is characterized by nonsyndromic sensorineural
+hearing impairment, vestibular dysfunction, and enlarged vestibular aqueduct
+(EVA). Thyroid defects are not seen in DFNB4.
+DIAGNOSIS/TESTING: PDS and DFNB4 are diagnosed clinically in individuals with (1)
+hearing impairment that is usually congenital and often severe to profound
+(although mild-to-moderate progressive hearing impairment also occurs) and (2)
+bilateral dilation of the vestibular aqueduct (DVA; also called enlarged
+vestibular aqueduct, or EVA) with or without cochlear hypoplasia. The presence of
+both DVA and cochlear hypoplasia is known as Mondini malformation or dysplasia.
+In addition, individuals with PDS have either an abnormal perchlorate discharge
+test or goiter. Pathogenic variants in three known genes account for
+approximately half of PDS/DFNB4 cases: SLC26A4 (~50% of affected individuals),
+FOXI1 (<1%), and KCNJ10 (<1%), suggesting further genetic heterogeneity. Sequence
+analysis of SLC26A4 identifies pathogenic variants in approximately 50% of
+affected individuals from either simplex or multiplex families. These persons are
+usually compound heterozygotes for disease-causing variants in SLC26A4, although 
+not infrequently only a single pathogenic variant is detected.
+MANAGEMENT: Treatment of manifestations: Hearing habituation, hearing aids, and
+educational programs designed for the hearing impaired; consideration of cochlear
+implantation in individuals with severe-to-profound deafness; standard treatment 
+of abnormal thyroid function. Surveillance: Semiannual or annual assessment of
+hearing and endocrine function. Baseline ultrasound of the thyroid with periodic 
+ultrasound surveillance to monitor volumetric changes. Repeat audiometry
+initially every three to six months if hearing loss is progressive.
+Agents/circumstances to avoid: Weightlifting and contact sports.
+GENETIC COUNSELING: Pendred syndrome/DFNB4 is inherited in an autosomal recessive
+manner. At conception, each sib of an affected individual has a 25% chance of
+being affected, a 50% chance of being an asymptomatic carrier, and a 25% chance
+of being unaffected and not a carrier. Carrier testing for at-risk family members
+and prenatal testing for at-risk pregnancies are possible when the
+family-specific pathogenic variants are known.
+
+PMID: 20301640  [PubMed]
+
+
+42. Audiol Neurootol. 2010;15(1):57-66. doi: 10.1159/000231567. Epub 2009 Aug 1.
+
+Phenotypic analyses and mutation screening of the SLC26A4 and FOXI1 genes in 101 
+Taiwanese families with bilateral nonsyndromic enlarged vestibular aqueduct
+(DFNB4) or Pendred syndrome.
+
+Wu CC(1), Lu YC, Chen PJ, Yeh PL, Su YN, Hwu WL, Hsu CJ.
+
+Author information: 
+(1)Department of Otolaryngology, National Taiwan University Hospital, Taipei,
+Taiwan.
+
+Recessive mutations in the SLC26A4 gene are responsible for nonsyndromic enlarged
+vestibular aqueduct (EVA) and Pendred syndrome. However, in some affected
+families, only 1 or 0 mutated allele can be identified, as well as no clear
+correlation between SLC26A4 genotypes and clinical phenotypes, hampering the
+accuracy of genetic counseling. To elucidate the genetic composition of
+nonsyndromic EVA and Pendred syndrome, we screened related genomic fragments,
+including the SLC26A4 coding regions, the SLC26A4 promoter and the FOXI1
+transcription factor gene, in 101 Taiwanese families, and analyzed their
+phenotypic and genotypic results. Mutation screening in the SLC26A4 coding
+regions by direct sequencing and quantitative polymerase chain reaction detected 
+2 mutations in 63 (62%) families, 1 mutation in 24 (24%) families and no mutation
+in 14 (14%) families. The radiological findings, the presence of goiters and the 
+audiological results were not different among probands (i.e. index cases of the
+families) with different SLC26A4 genotypes. Specifically, probands heterozygous
+for SLC26A4 mutations demonstrated clinical features indistinguishable from those
+of probands with 2 mutated alleles, implicating that there might be undetected
+mutations. However, except for a variant (c.-2554G>A of SLC26A4) with possible
+pathological consequences, no definite mutation was detected after extensive
+screening in the SLC26A4 promoter and FOXI1. In other words, in most Taiwanese
+families nonsyndromic EVA or Pendred syndrome might not result from aberrance in 
+the transcriptional control of SLC26A4 by FOXI1. Meanwhile, exploration of
+undetected mutations in the SLC26A4 noncoding regions revealed 9 divergent
+haplotypes among the 21 no-mutation-detected SLC26A4 alleles of the c.919-2A>G
+heterozygotes, indicating that there might be no common and predominant mutations
+in the SLC26A4 introns.
+
+PMID: 19648736  [PubMed - indexed for MEDLINE]
+
+
+43. Hum Mol Genet. 2009 May 15;18(10):1769-78. doi: 10.1093/hmg/ddp089. Epub 2009 Mar
+6.
+
+Requirement for Shh and Fox family genes at different stages in sweat gland
+development.
+
+Kunisada M(1), Cui CY, Piao Y, Ko MS, Schlessinger D.
+
+Author information: 
+(1)Laboratory of Genetics, National Institute on Aging, National Institutes of
+Health, NIH Biomedical Research Center, Baltimore, MD 21224, USA.
+
+Sweat glands play a fundamental role in thermal regulation in man, but the
+molecular mechanism of their development remains unknown. To initiate analyses,
+we compared the model of Eda mutant Tabby mice, in which sweat glands were not
+formed, with wild-type (WT) mice. We inferred developmental stages and critical
+genes based on observations at seven time points spanning embryonic, postnatal
+and adult life. In WT footpads, sweat gland germs were detected at E17.5. The
+coiling of secretory portions started at postnatal day 1 (P1), and sweat gland
+formation was essentially completed by P5. Consistent with a controlled
+morphological progression, expression profiling revealed stage-specific gene
+expression changes. Similar to the development of hair follicles-the other major 
+skin appendage controlled by EDA-sweat gland induction and initial progression
+were accompanied by Eda-dependent up-regulation of the Shh pathway. During the
+further development of sweat gland secretory portions, Foxa1 and Foxi1, not at
+all expressed in hair follicles, were progressively up-regulated in WT but not in
+Tabby footpads. Upon completion of WT development, Shh declined to Tabby levels, 
+but Fox family genes remained at elevated levels in mature sweat glands. The
+results provide a framework for the further analysis of phased down-stream
+regulation of gene action, possibly by a signaling cascade, in response to Eda.
+
+PMCID: PMC2671986
+PMID: 19270025  [PubMed - indexed for MEDLINE]
+
+
+44. Dev Biol. 2009 May 1;329(1):116-29. doi: 10.1016/j.ydbio.2009.02.026. Epub 2009
+Mar 4.
+
+Mechanism of development of ionocytes rich in vacuolar-type H(+)-ATPase in the
+skin of zebrafish larvae.
+
+Esaki M(1), Hoshijima K, Nakamura N, Munakata K, Tanaka M, Ookata K, Asakawa K,
+Kawakami K, Wang W, Weinberg ES, Hirose S.
+
+Author information: 
+(1)Department of Biological Sciences, Tokyo Institute of Technology, Midori-ku,
+Yokohama, Japan.
+
+Mitochondrion-rich cells (MRCs), or ionocytes, play a central role in aquatic
+species, maintaining body fluid ionic homeostasis by actively taking up or
+excreting ions. Since their first description in 1932 in eel gills, extensive
+morphological and physiological analyses have yielded important insights into
+ionocyte structure and function, but understanding the developmental pathway
+specifying these cells remains an ongoing challenge. We previously succeeded in
+identifying a key transcription factor, Foxi3a, in zebrafish larvae by database
+mining. In the present study, we analyzed a zebrafish mutant, quadro (quo),
+deficient in foxi1 gene expression and found that foxi1 is essential for
+development of an MRC subpopulation rich in vacuolar-type H(+)-ATPase (vH-MRC).
+foxi1 acts upstream of Delta-Notch signaling that determines sporadic
+distribution of vH-MRC and regulates foxi3a expression. Through gain- and
+loss-of-function assays and cell transplantation experiments, we further
+clarified that (1) the expression level of foxi3a is maintained by a positive
+feedback loop between foxi3a and its downstream gene gcm2 and (2) Foxi3a
+functions cell-autonomously in the specification of vH-MRC. These observations
+provide a better understanding of the differentiation and distribution of the
+vH-MRC subtype.
+
+PMCID: PMC2751791
+PMID: 19268451  [PubMed - indexed for MEDLINE]
+
+
+45. PLoS One. 2009;4(2):e4471. doi: 10.1371/journal.pone.0004471. Epub 2009 Feb 13.
+
+The forkhead transcription factor Foxi1 is a master regulator of vacuolar
+H-ATPase proton pump subunits in the inner ear, kidney and epididymis.
+
+Vidarsson H(1), Westergren R, Heglind M, Blomqvist SR, Breton S, Enerbäck S.
+
+Author information: 
+(1)Center of Medical Genetics, Institute of Biomedicine, The Sahlgrenska Academy,
+Göteborg University, Göteborg, Sweden.
+
+The vacuolar H(+)-ATPase dependent transport of protons across cytoplasmic
+membranes in FORE (forkhead related) cells of endolymphatic epithelium in the
+inner ear, intercalated cells of collecting ducts in the kidney and in narrow and
+clear cells of epididymis require expression of several subunits that assemble
+into a functional multimeric proton pump. We demonstrate that expression of four 
+such subunits A1, B1, E2 and a4 all co-localize with the forkhead transcription
+factor Foxi1 in a subset of epithelial cells at these three locations. In cells, 
+of such epithelia, that lack Foxi1 we fail to identify any expression of A1, B1, 
+E2 and a4 demonstrating an important role for the transcription factor Foxi1 in
+regulating subunit availability. Promoter reporter experiments, electrophoretic
+mobility shift assays (EMSA) and site directed mutagenesis demonstrate that a
+Foxi1 expression vector can trans-activate an a4-promoter reporter construct in a
+dose dependent manner. Furthermore, we demonstrate using chromatin
+immunoprecipitation (ChIP) assays that Foxi1-dependent activation to a large
+extent depends on cis-elements at position -561/-547 in the a4 promoter. Thus, we
+provide evidence that Foxi1 is necessary for expression of at least four subunits
+in three different epithelia and most likely is a major determinant for proper
+assembly of a functional vacuolar H(+)-ATPase complex at these locations.
+
+PMCID: PMC2637605
+PMID: 19214237  [PubMed - indexed for MEDLINE]
+
+
+46. Biochem J. 2009 Jan 1;417(1):205-12. doi: 10.1042/BJ20080014.
+
+An N-terminally truncated Smad2 protein can partially compensate for loss of
+full-length Smad2.
+
+Das D(1), Randall RA, Hill CS.
+
+Author information: 
+(1)Laboratory of Developmental Signalling, Cancer Research UK London Research
+Institute, 44 Lincoln's Inn Fields, London WC2A3PX, UK.
+
+TGFbeta (transforming growth factor beta) superfamily signalling is critical both
+for early embryonic development and later for tissue homoeostasis in adult
+organisms. The use of gene-disruption techniques in mice has been essential to
+understanding the functional roles of the components of the pathways downstream
+of TGFbeta superfamily ligands, in particular, the receptors and the Smads that
+transduce signals from the plasma membrane to the nucleus. Smad2 functions
+downstream of TGFbeta, Activin and Nodal, and a number of Smad2 mutant mice have 
+been generated by different laboratories. Although in all cases these
+Smad2-deficient mice were embryonic lethal, those created by deletion of the
+first coding exon survived longer than those generated by replacing part of the
+MH (Mad homology) 1 domain or deleting all or part of the MH2 domain. Moreover,
+they displayed a less severe phenotype, as they were capable of transiently
+inducing mesoderm. In the present study, we show that embryonic fibroblasts taken
+from the Smad2 mutant mice created by deletion of the first coding exon express a
+small amount of an N-terminally truncated Smad2 protein. We show this protein
+results from internal initiation at Met(241) and encodes the entire MH2 domain
+and the C-terminal part of the linker. We demonstrate that this protein is
+incorporated into Smad heteromeric complexes, can interact with DNA-binding
+transcription factors and thereby can mediate TGFbeta-induced transcriptional
+activation from a number of TGFbeta-responsive elements. We propose that this
+functional truncated Smad2 protein can partially compensate for the loss of
+full-length Smad2, thereby providing an explanation for the differing phenotypes 
+of Smad2 mutant mice.
+
+PMID: 18764783  [PubMed - indexed for MEDLINE]
+
+
+47. Am J Physiol Renal Physiol. 2008 Jun;294(6):F1273-8. doi:
+10.1152/ajprenal.00562.2007. Epub 2008 Feb 20.
+
+Transcriptional control of terminal nephron differentiation.
+
+El-Dahr SS(1), Aboudehen K, Saifudeen Z.
+
+Author information: 
+(1)Section of Pediatric Nephrology, Department of Pediatrics, SL-37, Tulane Univ.
+Health Sciences Center, 1430 Tulane Ave., New Orleans, LA 70112, USA.
+seldahr@tulane.edu
+
+Terminal differentiation of epithelial cells into more specialized cell types is 
+a critical step in organogenesis. Throughout the process of terminal
+differentiation, epithelial progenitors acquire or upregulate expression of renal
+function genes and cease to proliferate, while expression of embryonic genes is
+repressed. This exquisite coordination of gene expression is accomplished by
+signaling networks and transcription factors which couple the external
+environment with the new functional demands of the cell. While there has been
+much progress in understanding the early steps involved in renal epithelial cell 
+differentiation, a major gap remains in our knowledge of the factors that control
+the steps of terminal differentiation. A number of signaling molecules and
+transcription factors have been recently implicated in determining segmental
+nephron identity and functional differentiation. While some of these factors (the
+p53 gene family, hepatocyte nuclear factor-1beta) promote the terminal epithelial
+differentiation fate, others (Notch, Brn-1, IRX, KLF4, and Foxi1) tend to
+regulate differentiation of specific nephron segments and individual cell types. 
+This review summarizes current knowledge related to these transcription factors
+and discusses how diverse cellular signals are integrated to generate a
+transcriptional output during the process of terminal differentiation. Since
+these transcriptional processes are accompanied by profound changes in nuclear
+chromatin structure involving the genes responsible for creating and maintaining 
+the differentiated cell phenotype, future studies should focus on identifying the
+nature of these epigenetic events and factors, how they are regulated temporally 
+and spatially, and the chromatin environment they eventually reside in.
+
+PMCID: PMC2606293
+PMID: 18287399  [PubMed - indexed for MEDLINE]
+
+
+48. Nucleic Acids Res. 2008 Jan;36(1):e8. Epub 2007 Dec 17.
+
+Genome wide screens in yeast to identify potential binding sites and target genes
+of DNA-binding proteins.
+
+Zeng J(1), Yan J, Wang T, Mosbrook-Davis D, Dolan KT, Christensen R, Stormo GD,
+Haussler D, Lathrop RH, Brachmann RK, Burgess SM.
+
+Author information: 
+(1)Division of Hematology/Oncology, Department of Medicine, University of
+California, Irvine, CA, USA.
+
+Knowledge of all binding sites for transcriptional activators and repressors is
+essential for computationally aided identification of transcriptional networks.
+The techniques developed for defining the binding sites of transcription factors 
+tend to be cumbersome and not adaptable to high throughput. We refined a
+versatile yeast strategy to rapidly and efficiently identify genomic targets of
+DNA-binding proteins. Yeast expressing a transcription factor is mated to yeast
+containing a library of genomic fragments cloned upstream of the reporter gene
+URA3. DNA fragments with target-binding sites are identified by growth of yeast
+clones in media lacking uracil. The experimental approach was validated with the 
+tumor suppressor protein p53 and the forkhead protein FoxI1 using genomic
+libraries for zebrafish and mouse generated by shotgun cloning of short genomic
+fragments. Computational analysis of the genomic fragments recapitulated the
+published consensus-binding site for each protein. Identified fragments were
+mapped to identify the genomic context of each binding site. Our yeast screening 
+strategy, combined with bioinformatics approaches, will allow both detailed and
+high-throughput characterization of transcription factors, scalable to the
+analysis of all putative DNA-binding proteins.
+
+PMCID: PMC2248728
+PMID: 18086703  [PubMed - indexed for MEDLINE]
+
+
+49. Dev Biol. 2007 Jul 15;307(2):408-20. Epub 2007 Apr 24.
+
+Distinct roles of Fgf8, Foxi1, Dlx3b and Pax8/2 during otic vesicle induction and
+maintenance in medaka.
+
+Aghaallaei N(1), Bajoghli B, Czerny T.
+
+Author information: 
+(1)Institute of Animal Breeding and Genetics, University of Veterinary Medicine, 
+Veterinärplatz 1, A-1210 Vienna, Austria.
+
+The development of the vertebrate inner ear is a complex process that has been
+investigated in several model organisms. In this work, we examined genetic
+interactions regulating early development of otic structures in medaka. We
+demonstrate that misexpression of Fgf8, Dlx3b and Foxi1 during early gastrulation
+is sufficient to produce ectopic otic vesicles. Combined misexpression strongly
+increases the appearance of this phenotype. By using a heat-inducible promoter we
+were furthermore able to separate the regulatory interactions among Fgf8, Foxi1, 
+Dlx3b, Pax8 and Pax2 genes, which are active during different stages of early
+otic development. In the preplacodal stage we suggest a central position of Foxi1
+within a regulatory network of early patterning genes including Dlx3b and Pax8.
+Different pathways are active after the placodal stage with Dlx3b playing a
+central role. There Dlx3b regulates members of the Pax-Six-Eya-Dach network and
+also strongly affects the early dorsoventral marker genes Otx1 and Gbx2.
+
+PMID: 17555740  [PubMed - indexed for MEDLINE]
+
+
+50. Development. 2007 Jul;134(13):2449-58. Epub 2007 May 23.
+
+Changes in retinoic acid signaling alter otic patterning.
+
+Hans S(1), Westerfield M.
+
+Author information: 
+(1)Institute of Neuroscience, University of Oregon, Eugene, OR 97403, USA.
+
+Retinoic acid (RA) has pleiotropic functions during embryogenesis. In zebrafish, 
+increasing or blocking RA signaling results in enlarged or reduced otic vesicles,
+respectively. Here we elucidate the mechanisms that underlie these changes and
+show that they have origins in different tissues. Excess RA leads to ectopic
+foxi1 expression throughout the entire preplacodal domain. Foxi1 provides
+competence to adopt an otic fate. Subsequently, pax8, the expression of which
+depends upon Foxi1 and Fgf, is also expressed throughout the preplacodal domain. 
+By contrast, loss of RA signaling does not affect foxi1 expression or otic
+competence, but instead results in delayed onset of fgf3 expression and impaired 
+otic induction. fgf8 mutants depleted of RA signaling produce few otic cells, and
+these cells fail to form a vesicle, indicating that Fgf8 is the primary factor
+responsible for otic induction in RA-depleted embryos. Otic induction is rescued 
+by fgf8 overexpression in RA-depleted embryos, although otic vesicles never
+achieve a normal size, suggesting that an additional factor is required to
+maintain otic fate. fgf3;tcf2 double mutants form otic vesicles similar to
+RA-signaling-depleted embryos, suggesting a signal from rhombomere 5-6 may also
+be required for otic fate maintenance. We show that rhombomere 5 wnt8b expression
+is absent in both RA-signaling-depleted embryos and in fgf3;tcf2 double mutants, 
+and inactivation of wnt8b in fgf3 mutants by morpholino injection results in
+small otic vesicles, similar to RA depletion in wild type. Thus, excess RA
+expands otic competence, whereas the loss of RA impairs the expression of fgf3
+and wnt8b in the hindbrain, compromising the induction and maintenance of otic
+fate.
+
+PMID: 17522161  [PubMed - indexed for MEDLINE]
+
+
+51. J Immunol. 2007 Jun 1;178(11):7302-9.
+
+A novel RBP-J kappa-dependent switch from C/EBP beta to C/EBP zeta at the C/EBP
+binding site on the C-reactive protein promoter.
+
+Singh PP(1), Voleti B, Agrawal A.
+
+Author information: 
+(1)Department of Pharmacology, James H. Quillen College of Medicine, East
+Tennessee State University, Johnson City, TN 37614, USA.
+
+Regulation of basal and cytokine (IL-6 and IL-1beta)-induced expression of
+C-reactive protein (CRP) in human hepatoma Hep3B cells occurs during
+transcription. A critical transcriptional regulatory element on the CRP promoter 
+is a C/EBP binding site overlapping a NF-kappaB p50 binding site. In response to 
+IL-6, C/EBPbeta and p50 occupy the C/EBP-p50 site on the CRP promoter. The aim of
+this study was to identify the transcription factors occupying the C/EBP-p50 site
+in the absence of C/EBPbeta. Accordingly, we treated Hep3B nuclear extract with a
+C/EBP-binding consensus oligonucleotide to generate an extract lacking active
+C/EBPbeta. Such treated nuclei contain only C/EBPzeta (also known as CHOP10 and
+GADD153) because the C/EBP-binding consensus oligonucleotide binds to all C/EBP
+family proteins except C/EBPzeta. EMSA using this extract revealed formation of a
+C/EBPzeta-containing complex at the C/EBP-p50 site on the CRP promoter. This
+complex also contained RBP-Jkappa, a transcription factor known to interact with 
+kappaB sites. RBP-Jkappa was required for the formation of C/EBPzeta-containing
+complex. The RBP-Jkappa-dependent C/EBPzeta-containing complexes were formed at
+the C/EBP-p50 site on the CRP promoter in the nuclei of primary human hepatocytes
+also. In luciferase transactivation assays, overexpressed C/EBPzeta abolished
+both C/EBPbeta-induced and (IL-6 + IL-1beta)-induced CRP promoter-driven
+luciferase expression. These results indicate that under basal conditions,
+C/EBPzeta occupies the C/EBP site, an action that requires RBP-Jkappa. Under
+induced conditions, C/EBPzeta is replaced by C/EBPbeta and p50. We conclude that 
+the switch between C/EBPbeta and C/EBPzeta participates in regulating CRP
+transcription. This process uses a novel phenomenon, that is, the incorporation
+of RBP-Jkappa into C/EBPzeta complexes solely to support the binding of C/EBPzeta
+to the C/EBP site.
+
+PMCID: PMC3831876
+PMID: 17513780  [PubMed - indexed for MEDLINE]
+
+
+52. Am J Hum Genet. 2007 Jun;80(6):1055-63. Epub 2007 Apr 23.
+
+Transcriptional control of SLC26A4 is involved in Pendred syndrome and
+nonsyndromic enlargement of vestibular aqueduct (DFNB4).
+
+Yang T(1), Vidarsson H, Rodrigo-Blomqvist S, Rosengren SS, Enerback S, Smith RJ.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck, University of Iowa, Iowa City, IA 
+52242, USA.
+
+Erratum in
+    Am J Hum Genet. 2007 Sep;81(3):634.
+
+Although recessive mutations in the anion transporter gene SLC26A4 are known to
+be responsible for Pendred syndrome (PS) and nonsyndromic hearing loss associated
+with enlarged vestibular aqueduct (EVA), also known as "DFNB4," a large
+percentage of patients with this phenotype lack mutations in the SLC26A4 coding
+region in one or both alleles. We have identified and characterized a key
+transcriptional regulatory element in the SLC26A4 promoter that binds FOXI1, a
+transcriptional activator of SLC26A4. In nine patients with PS or nonsyndromic
+EVA, a novel c.-103T-->C mutation in this regulatory element interferes with
+FOXI1 binding and completely abolishes FOXI1-mediated transcriptional activation.
+We have also identified six patients with mutations in FOXI1 that compromise its 
+ability to activate SLC26A4 transcription. In one family, the EVA phenotype
+segregates in a double-heterozygous mode in the affected individual who carries
+single mutations in both SLC26A4 and FOXI1. This finding is consistent with our
+observation that EVA occurs in the Slc26a4(+/-); Foxi1(+/-) double-heterozygous
+mouse mutant. These results support a novel dosage-dependent model for the
+molecular pathogenesis of PS and nonsyndromic EVA that involves SLC26A4 and its
+transcriptional regulatory machinery.
+
+PMCID: PMC1867094
+PMID: 17503324  [PubMed - indexed for MEDLINE]
+
+
+53. BMC Dev Biol. 2007 Jan 19;7:5.
+
+Fgf-dependent otic induction requires competence provided by Foxi1 and Dlx3b.
+
+Hans S(1), Christison J, Liu D, Westerfield M.
+
+Author information: 
+(1)Institute of Neuroscience, University of Oregon, Eugene, OR 97403, USA.
+hans@mpi-cbg.de <hans@mpi-cbg.de>
+
+BACKGROUND: The inner ear arises from a specialized set of cells, the otic
+placode, that forms at the lateral edge of the neural plate adjacent to the
+hindbrain. Previous studies indicated that fibroblast growth factors (Fgfs) are
+required for otic induction; in zebrafish, loss of both Fgf3 and Fgf8 results in 
+total ablation of otic tissue. Furthermore, gain-of-function studies suggested
+that Fgf signaling is not only necessary but also sufficient for otic induction, 
+although the amount of induced ectopic otic tissue reported after misexpression
+of fgf3 or fgf8 varies among different studies. We previously suggested that
+Foxi1 and Dlx3b may provide competence to form the ear because loss of both foxi1
+and dlx3b results in ablation of all otic tissue even in the presence of a fully 
+functional Fgf signaling pathway.
+RESULTS: Using a transgenic line that allows us to misexpress fgf8 under the
+control of the zebrafish temperature-inducible hsp70 promoter, we readdressed the
+role of Fgf signaling and otic competence during placode induction. We find that 
+misexpression of fgf8 fails to induce formation of ectopic otic vesicles outside 
+of the endogenous ear field and has different consequences depending upon the
+developmental stage. Overexpression of fgf8 from 1-cell to midgastrula stages
+leads to formation of no or small otic vesicles, respectively. Overexpression of 
+fgf8 at these stages never leads to ectopic expression of foxi1 or dlx3b,
+contrary to previous studies that indicated that foxi1 is activated by Fgf
+signaling. Consistent with our results we find that pharmacological inhibition of
+Fgf signaling has no effect on foxi1 or dlx3b expression, but instead, Bmp
+signaling activates foxi1, directly and dlx3b, indirectly. In contrast to early
+activation of fgf8, fgf8 overexpression at the end of gastrulation, when otic
+induction begins, leads to much larger otic vesicles. We further show that
+application of a low dose of retinoic acid that does not perturb patterning of
+the anterior neural plate leads to expansion of foxi1 and to a massive
+Fgf-dependent otic induction.
+CONCLUSION: These results provide further support for the hypothesis that Foxi1
+and Dlx3b provide competence for cells to respond to Fgf and form an otic
+placode.
+
+PMCID: PMC1794237
+PMID: 17239227  [PubMed - indexed for MEDLINE]
+
+
+54. Dev Biol. 2007 Mar 15;303(2):675-86. Epub 2006 Dec 9.
+
+Epibranchial and otic placodes are induced by a common Fgf signal, but their
+subsequent development is independent.
+
+Sun SK(1), Dee CT, Tripathi VB, Rengifo A, Hirst CS, Scotting PJ.
+
+Author information: 
+(1)Children's Brain Tumour Research Centre, Institute of Genetics, Queen's
+Medical Centre, University of Nottingham, Nottingham, NG7 2UH, UK.
+
+The epibranchial placodes are cranial, ectodermal thickenings that give rise to
+sensory neurons of the peripheral nervous system. Despite their importance in the
+developing animal, the signals responsible for their induction remain unknown.
+Using the placodal marker, sox3, we have shown that the same Fgf signaling
+required for otic vesicle development is required for the development of the
+epibranchial placodes. Loss of both Fgf3 and Fgf8 is sufficient to block placode 
+development. We further show that epibranchial sox3 expression is unaffected in
+mutants in which no otic placode forms, where dlx3b and dlx4b are knocked down,
+or deleted along with sox9a. However, the forkhead factor, Foxi1, is required for
+both otic and epibranchial placode development. Thus, both the otic and
+epibranchial placodes form in a common region of ectoderm under the influence of 
+Fgfs, but these two structures subsequently develop independently. Although
+previous studies have investigated the signals that trigger neurogenesis from the
+epibranchial placodes, this represents the first demonstration of the signaling
+events that underlie the formation of the placodes themselves, and therefore, the
+process that determines which ectodermal cells will adopt a neural fate.
+
+PMID: 17222818  [PubMed - indexed for MEDLINE]
+
+
+55. Development. 2007 Feb;134(3):611-23.
+
+Specification of epibranchial placodes in zebrafish.
+
+Nechiporuk A(1), Linbo T, Poss KD, Raible DW.
+
+Author information: 
+(1)Department of Biological Structure, University of Washington, Seattle, WA
+98195-7420, USA.
+
+In all vertebrates, the neurogenic placodes are transient ectodermal thickenings 
+that give rise to sensory neurons of the cranial ganglia. Epibranchial (EB)
+placodes generate neurons of the distal facial, glossopharyngeal and vagal
+ganglia, which convey sensation from the viscera, including pharyngeal endoderm
+structures, to the CNS. Recent studies have implicated signals from pharyngeal
+endoderm in the initiation of neurogenesis from EB placodes; however, the signals
+underlying the formation of placodes are unknown. Here, we show that zebrafish
+embryos mutant for fgf3 and fgf8 do not express early EB placode markers,
+including foxi1 and pax2a. Mosaic analysis demonstrates that placodal cells must 
+directly receive Fgf signals during a specific crucial period of development.
+Transplantation experiments and mutant analysis reveal that cephalic mesoderm is 
+the source of Fgf signals. Finally, both Fgf3 and Fgf8 are sufficient to induce
+foxi1-positive placodal precursors in wild-type as well as Fgf3-plus
+Fgf8-depleted embryos. We propose a model in which mesoderm-derived Fgf3 and Fgf8
+signals establish both the EB placodes and the development of the pharyngeal
+endoderm, the subsequent interaction of which promotes neurogenesis. The
+coordinated interplay between craniofacial tissues would thus assure proper
+spatial and temporal interactions in the shaping of the vertebrate head.
+
+PMID: 17215310  [PubMed - indexed for MEDLINE]
+
+
+56. Development. 2007 Jan;134(2):295-305. Epub 2006 Dec 13.
+
+Zebrafish atoh1 genes: classic proneural activity in the inner ear and regulation
+by Fgf and Notch.
+
+Millimaki BB(1), Sweet EM, Dhason MS, Riley BB.
+
+Author information: 
+(1)Biology Department, Texas A&M University, College Station, TX 77843-3258, USA.
+
+Hair cells of the inner ear develop from an equivalence group marked by
+expression of the proneural gene Atoh1. In mouse, Atoh1 is necessary for hair
+cell differentiation, but its role in specifying the equivalence group (proneural
+function) has been questioned and little is known about its upstream activators. 
+We have addressed these issues in zebrafish. Two zebrafish homologs, atoh1a and
+atoh1b, are together necessary for hair cell development. These genes
+crossregulate each other but are differentially required during distinct
+developmental periods, first in the preotic placode and later in the otic
+vesicle. Interactions with the Notch pathway confirm that atoh1 genes have early 
+proneural function. Fgf3 and Fgf8 are upstream activators of atoh1 genes during
+both phases, and foxi1, pax8 and dlx genes regulate atoh1b in the preplacode. A
+model is presented in which zebrafish atoh1 genes operate in a complex network
+leading to hair cell development.
+
+PMID: 17166920  [PubMed - indexed for MEDLINE]
+
+
+57. J Neurosci. 2006 Oct 11;26(41):10438-51.
+
+The transcription factor six1 inhibits neuronal and promotes hair cell fate in
+the developing zebrafish (Danio rerio) inner ear.
+
+Bricaud O(1), Collazo A.
+
+Author information: 
+(1)Leslie and Susan Gonda (Goldschmied) Cell and Molecular Biology Department,
+House Ear Institute, Los Angeles, California 90057, USA. obricaud@hei.org
+
+The developmental processes leading to the differentiation of mechanosensory hair
+cells and statoacoustic ganglion neurons from the early otic epithelium remain
+unclear. Possible candidates include members of the Pax-Six-Eya-Dach (paired
+box-sine oculis homeobox-eyes absent-dachshund) gene regulatory network. We
+cloned zebrafish six1 and studied its function in inner ear development. Gain-
+and loss-of-function experiments show that six1 has opposing roles in hair cell
+and neuronal lineages. It promotes hair cell fate and, conversely, inhibits
+neuronal fate by differentially affecting cell proliferation and cell death in
+these lineages. By independently targeting hair cells with atoh1a (atonal homolog
+1a) knockdown or neurons with neurog1 (neurogenin 1) knockdown, we showed that
+the remaining cell population, neurons or hair cells, respectively, is still
+affected by gain or loss of six1 function. six1 interacts with other members of
+the Pax-Six-Eya-Dach regulatory network, in particular dacha and dachb in the
+hair cell but not neuronal lineage. Unlike in mouse, six1 does not appear to be
+dependent on eya1, although it seems to be important for the regulation of eya1
+and pax2b expression in the ventral otic epithelium. Furthermore, six1 expression
+appears to be regulated by pax2b and also by foxi1 (forkhead box I1) as expected 
+for an early inducer of the otic placode. Our results are the first to
+demonstrate a dual role for a member of the Pax-Six-Eya-Dach regulatory network
+in inner ear development.
+
+PMID: 17035528  [PubMed - indexed for MEDLINE]
+
+
+58. Gene Expr Patterns. 2007 Jan;7(3):355-62. Epub 2006 Jul 27.
+
+Expression of marker genes during early ear development in medaka.
+
+Hochmann S(1), Aghaallaei N, Bajoghli B, Soroldoni D, Carl M, Czerny T.
+
+Author information: 
+(1)Institute of Animal Breeding and Genetics, University of Veterinary Medicine, 
+Veterinarplatz 1, A-1210 Vienna, Austria.
+
+Induction of the otic placode involves a number of regulatory interactions. Early
+studies revealed that the induction of this program is initiated by instructive
+signals from the mesendoderm as well as from the adjacent hindbrain. Further
+investigations on the molecular level identified in zebrafish Fgf3, Fgf8, Foxi1, 
+Pax8, Dlx3b and Dlx4b genes as key players during the induction phase. Thereafter
+an increasing number of genes participates in the regulatory interactions finally
+resulting in a highly structured sensory organ. Based on data from zebrafish we
+selected medaka genes with presumptive functions during early ear development for
+an expression analysis. In addition we isolated Foxi1 and Dlx3b gene fragments
+from embryonic cDNA. Altogether we screened the spatio-temporal distribution of
+more than 20 representative marker genes for otic development in medaka embryos, 
+with special emphasis on the early phases. Whereas the spatial distribution of
+these genes is largely conserved between medaka and zebrafish, our comparative
+analysis revealed several differences, in particular for the timing of
+expression.
+
+PMID: 16950663  [PubMed - indexed for MEDLINE]
+
+
+59. EMBO J. 2006 Sep 6;25(17):4131-41. Epub 2006 Aug 24.
+
+Epididymal expression of the forkhead transcription factor Foxi1 is required for 
+male fertility.
+
+Blomqvist SR(1), Vidarsson H, Söder O, Enerbäck S.
+
+Author information: 
+(1)Center of Medical Genetics, Institute of Biomedicine, Göteborg University,
+Göteborg, Sweden.
+
+An essential aspect of male reproductive capacity is the immediate availability
+of fertilization-ready spermatozoa. To ensure this, most mammals rely on
+post-testicular sperm maturation. In epididymis, germ cells are matured and
+stored in a quiescent state that readily can be altered to produce active
+spermatozoa. This depends on active proton secretion into the epididymal lumen.
+We have identified Foxi1 as an important regulator of gene expression in narrow
+and clear cells-the major proton secretory cells of epididymal epithelia. Foxi1
+appears to be required for the expression of the B1-subunit of the vacuolar H+
+-ATPase proton pump and for carbonic anhydrase II as well as the
+chloride/bicarbonate transporter pendrin. Using transfection experiments, we have
+identified a Foxi1 binding cis-element in the ATP6V1B1 (encoding the B1-subunit) 
+promoter that is critical for reporter gene activation. When this site is mutated
+to eliminate Foxi1 binding, activation is also abolished. As a consequence of
+defect Foxi1-dependent epididymal sperm maturation, we demonstrate that
+spermatozoa from Foxi1 null males fail to reach the female genital tract in
+sufficient number to allow fertilization.
+
+PMCID: PMC1560351
+PMID: 16932748  [PubMed - indexed for MEDLINE]
+
+
+60. Dev Dyn. 2006 Sep;235(9):2470-82.
+
+Foxg1 is required for morphogenesis and histogenesis of the mammalian inner ear.
+
+Pauley S(1), Lai E, Fritzsch B.
+
+Author information: 
+(1)Creighton University, Department of Biomedical Sciences, Omaha, Nebraska
+68178, USA.
+
+The forkhead genes are involved in patterning, morphogenesis, cell fate
+determination, and proliferation. Several Fox genes (Foxi1, Foxg1) are expressed 
+in the developing otocyst of both zebrafish and mammals. We show that Foxg1 is
+expressed in most cell types of the inner ear of the adult mouse and that Foxg1
+mutants have both morphological and histological defects in the inner ear. These 
+mice have a shortened cochlea with multiple rows of hair cells and supporting
+cells. Additionally, they demonstrate striking abnormalities in cochlear and
+vestibular innervation, including loss of all crista neurons and numerous fibers 
+that overshoot the organ of Corti. Closer examination shows that some anterior
+crista fibers exist in late embryos. Tracing these fibers shows that they do not 
+project to the brain but, instead, to the cochlea. Finally, these mice completely
+lack a horizontal crista, although a horizontal canal forms but comes off the
+anterior ampulla. Anterior and posterior cristae, ampullae, and canals are
+reduced to varying degrees, particularly in combination with Fgf10
+heterozygosity. Compounding Fgf10 heterozygotic effects suggest an additive
+effect of Fgf10 on Foxg1, possibly mediated through bone morphogenetic protein
+regulation. We show that sensory epithelia formation and canal development are
+linked in the anterior and posterior canal systems. Much of the Foxg1 phenotype
+can be explained by the participation of the protein binding domain in the
+delta/notch/hes signaling pathway. Additional Foxg1 effects may be mediated by
+the forkhead DNA binding domain.
+
+Copyright 2006 Wiley-Liss, Inc.
+
+PMCID: PMC3901532
+PMID: 16691564  [PubMed - indexed for MEDLINE]
+
+
+61. Mol Cell Biol. 2006 Jan;26(1):155-68.
+
+The forkhead transcription factor FoxI1 remains bound to condensed mitotic
+chromosomes and stably remodels chromatin structure.
+
+Yan J(1), Xu L, Crawford G, Wang Z, Burgess SM.
+
+Author information: 
+(1)National Human Genome Research Institute, Genome Technology Branch, NIH, Bldg.
+50, Rm. 5537, 50 South Dr., Bethesda, MD 20892, USA.
+
+All forkhead (Fox) proteins contain a highly conserved DNA binding domain whose
+structure is remarkably similar to the winged-helix structures of histones H1 and
+H5. Little is known about Fox protein binding in the context of higher-order
+chromatin structure in living cells. We created a stable cell line expressing
+FoxI1-green fluorescent protein (GFP) or FoxI1-V5 fusion proteins under control
+of the reverse tetracycline-controlled transactivator doxycycline inducible
+system and found that unlike most transcription factors, FoxI1 remains bound to
+the condensed chromosomes during mitosis. To isolate DNA fragments directly bound
+by the FoxI1 protein within living cells, we performed chromatin
+immunoprecipitation assays (ChIPs) with antibodies to either enhanced GFP or the 
+V5 epitope and subcloned the FoxI1-enriched DNA fragments. Sequence analyses
+indicated that 88% (106/121) of ChIP sequences contain the consensus binding
+sites for all Fox proteins. Testing ChIP sequences with a quantitative DNase I
+hypersensitivity assay showed that FoxI1 created stable DNase I sensitivity
+changes in condensed chromosomes. The majority of ChIP targets and random targets
+increased in resistance to DNase I in FoxI1-expressing cells, but a small number 
+of targets became more accessible to DNase I. Consistently, the accessibility of 
+micrococcal nuclease to chromatin was generally inhibited. Micrococcal nuclease
+partial digestion generated a ladder in which all oligonucleosomes were slightly 
+longer than those observed with the controls. On the basis of these findings, we 
+propose that FoxI1 is capable of remodeling chromatin higher-order structure and 
+can stably create site-specific changes in chromatin to either stably create or
+remove DNase I hypersensitive sites.
+
+PMCID: PMC1317626
+PMID: 16354687  [PubMed - indexed for MEDLINE]
+
+
+62. J Am Soc Nephrol. 2005 Nov;16(11):3235-46. Epub 2005 Sep 21.
+
+Ubiquitous and kidney-specific subunits of vacuolar H+-ATPase are differentially 
+expressed during nephrogenesis.
+
+Jouret F(1), Auzanneau C, Debaix H, Wada GH, Pretto C, Marbaix E, Karet FE,
+Courtoy PJ, Devuyst O.
+
+Author information: 
+(1)Division of Nephrology, Université catholique de Louvain, 10 Avenue
+Hippocrate, Brussels, Belgium B-1200.
+
+The vacuolar H(+)-ATPase (V-ATPase) is a ubiquitous multisubunit pump that is
+responsible for acidification of intracellular organelles. In the kidney, a
+particular form of V-ATPase, made of specific subunits isoforms, has been located
+at the plasma membrane of intercalated cells (IC). Mutations in genes encoding
+IC-specific subunits cause infant distal renal tubular acidosis (dRTA),
+suggesting that the segmental distribution of these subunits is acquired at birth
+or during early infancy. However, the comparative ontogeny of the IC-specific
+versus the ubiquitous subunits of V-ATPase and the mechanisms involved in their
+segmental expression remain unknown. Real-time reverse transcription-PCR, in situ
+hybridization, immunoblotting, immunostaining, and subcellular fractionation
+analyses characterized the expression and distribution of V-ATPase subunits,
+transcription factors, and differentiation markers during mouse nephrogenesis.
+Ubiquitous A, E1, B2, G1, and C1 subunits showed an early (embryonic day 13.5
+[E13.5]) and stable expression throughout nephrogenesis, followed by a slight
+increase around birth. The developmental pattern of a1 was bimodal, with early
+induction, gradual decrease during organogenesis, and neonatal increase. These
+patterns contrasted with the later (from E15.5) and progressive expression of
+IC-specific a4, B1, G3, and C2 subunits, after the induction of the forkhead
+transcription factor Foxi1. From E15.5, Foxi1 mRNA was detected in IC, where it
+co-distributed with B1 in late nephrogenesis. Immunostaining showed that the
+distribution of ubiquitous E1 and B2 was acquired from E15.5, whereas a4 was
+located in IC during late nephrogenesis. Subcellular fractionation showed that in
+both fetal and mature (cortex and medulla) kidneys, E1 and a4 were located in
+endosomes. These data demonstrate a differential expression and a coordinate
+regulation of IC-specific versus ubiquitous V-ATPase subunits during
+nephrogenesis. They provide new insights into the complex regulation of V-ATPase 
+subunits, the maturation of IC along the nephron, and the pathophysiology of
+hereditary dRTA.
+
+PMID: 16177003  [PubMed - indexed for MEDLINE]
+
+
+63. Biochem J. 2006 Jan 1;393(Pt 1):277-83.
+
+The forkhead transcription factor Foxi1 directly activates the AE4 promoter.
+
+Kurth I(1), Hentschke M, Hentschke S, Borgmeyer U, Gal A, Hübner CA.
+
+Author information: 
+(1)Institut für Humangenetik, Universitätsklinikum Hamburg-Eppendorf, Butenfeld
+42, 22529 Hamburg, Germany.
+
+Intercalated cells are highly specialized cells within the renal collecting duct 
+epithelium and play an important role in systemic acid-base homoeostasis. Whereas
+type A intercalated cells secrete protons via an apically localized H+-ATPase,
+type B intercalated cells secrete HCO3-. Type B intercalated cells specifically
+express the HCO3-/Cl- exchanger AE4 (anion exchanger 4), encoded by Slc4a9. Mice 
+with a targeted disruption of the gene for the forkhead transcription factor
+Foxi1 display renal tubular acidosis due to an intercalated cell-differentiation 
+defect. Collecting duct cells in these mice are characterized by the absence of
+inter-calated cell markers including AE4. To test whether Slc4a9 is a direct
+target gene of Foxi1, an AE4 promoter construct was generated for a cell-based
+reporter gene assay. Co-transfection with the Foxi1 cDNA resulted in an approx.
+100-fold activation of the AE4 promoter construct. By truncating the AE4 promoter
+at the 5'-end, we demonstrate that a fragment of approx. 462 bp upstream of the
+transcription start point is sufficient to mediate activation by Foxi1. Sequence 
+analysis of this region revealed at least eight potential binding sites for Foxi1
+in both sense and antisense orientation. Only one element was bound by
+recombinant Foxi1 protein in bandshift assays. Mutation of this site abolished
+both binding in bandshift assays and transcriptional activation by
+co-transfection of Foxi1 in the reporter gene assay. We thus identify the AE4
+promoter as a direct target of Foxi1.
+
+PMCID: PMC1383686
+PMID: 16159312  [PubMed - indexed for MEDLINE]
+
+
+64. Development. 2005 Aug;132(16):3717-30.
+
+Endoderm-derived Fgf3 is necessary and sufficient for inducing neurogenesis in
+the epibranchial placodes in zebrafish.
+
+Nechiporuk A(1), Linbo T, Raible DW.
+
+Author information: 
+(1)Department of Biological Structure, University of Washington, Seattle, WA
+98195-7420, USA.
+
+In vertebrates, epibranchial placodes are transient ectodermal thickenings that
+contribute sensory neurons to the epibranchial ganglia. These ganglia innervate
+internal organs and transmit information on heart rate, blood pressure and
+visceral distension from the periphery to the central nervous system. Despite
+their importance, the molecular mechanisms that govern the induction and
+neurogenesis of the epibranchial placodes are only now being elucidated. In this 
+study, we demonstrate that endoderm is required for neurogenesis of the zebrafish
+epibranchial placodes. Mosaic analyses confirm that endoderm is the source of the
+neurogenic signal. Using a morpholino knockdown approach, we find that fgf3 is
+required for the majority of placode cells to undergo neurogenesis. Tissue
+transplants demonstrate that fgf3 activity is specifically required in the
+endodermal pouches. Furthermore, ectopic fgf3 expression is sufficient for
+inducing phox2a-positive neurons in wild-type and endoderm-deficient embryos.
+Surprisingly, ectodermal foxi1 expression, a marker for the epibranchial placode 
+precursors, is present in both endoderm-deficient embryos and fgf3 morphants,
+indicating that neither endoderm nor Fgf3 is required for initial placode
+induction. Based on these findings, we propose a model for epibranchial placode
+development in which Fgf3 is a major endodermal determinant required for
+epibranchial placode neurogenesis.
+
+PMID: 16077091  [PubMed - indexed for MEDLINE]
+
+
+65. Development. 2005 Jan;132(2):371-82. Epub 2004 Dec 16.
+
+Zebrafish pax8 is required for otic placode induction and plays a redundant role 
+with Pax2 genes in the maintenance of the otic placode.
+
+Mackereth MD(1), Kwak SJ, Fritz A, Riley BB.
+
+Author information: 
+(1)Department of Biology, Emory University, Atlanta, GA 30322, USA.
+
+Vertebrate Pax2 and Pax8 proteins are closely related transcription factors
+hypothesized to regulate early aspects of inner ear development. In zebrafish and
+mouse, Pax8 expression is the earliest known marker of otic induction, and Pax2
+homologs are expressed at slightly later stages of placodal development. Analysis
+of compound mutants has not been reported. To facilitate analysis of zebrafish
+pax8, we completed sequencing of the entire gene, including the 5' and 3' UTRs.
+pax8 transcripts undergo complex alternative splicing to generate at least ten
+distinct isoforms. Two different subclasses of pax8 splice isoforms encode
+different translation initiation sites. Antisense morpholinos (MOs) were designed
+to block translation from both start sites, and four additional MOs were designed
+to target different exon-intron boundaries to block splicing. Injection of MOs,
+individually and in various combinations, generated similar phenotypes. Otic
+induction was impaired, and otic vesicles were small. Regional ear markers were
+expressed correctly, but hair cell production was significantly reduced. This
+phenotype was strongly enhanced by simultaneously disrupting either of the
+co-inducers fgf3 or fgf8, or another early regulator, dlx3b, which is thought to 
+act in a parallel pathway. In contrast, the phenotype caused by disrupting foxi1,
+which is required for pax8 expression, was not enhanced by simultaneously
+disrupting pax8. Disrupting pax8, pax2a and pax2b did not further impair otic
+induction relative to loss of pax8 alone. However, the amount of otic tissue
+gradually decreased in pax8-pax2a-pax2b-deficient embryos such that no otic
+tissue was detectable by 24 hours post-fertilization. Loss of otic tissue did not
+correlate with increased cell death, suggesting that otic cells dedifferentiate
+or redifferentiate as other cell type(s). These data show that pax8 is initially 
+required for normal otic induction, and subsequently pax8, pax2a and pax2b act
+redundantly to maintain otic fate.
+
+PMID: 15604103  [PubMed - indexed for MEDLINE]
+
+
+66. Int J Oncol. 2004 Nov;25(5):1495-500.
+
+Human FOX gene family (Review).
+
+Katoh M(1), Katoh M.
+
+Author information: 
+(1)M&M Medical BioInformatics, Hongo 113-0033, Japan. mkatoh@ncc.go.jp
+
+Human Forkhead-box (FOX) gene family consists of at least 43 members, including
+FOXA1, FOXA2, FOXA3, FOXB1, FOXC1, FOXC2, FOXD1, FOXD2, FOXD3, FOXD4, FOXD5
+(FOXD4L1), FOXD6 (FOXD4L3), FOXE1, FOXE2, FOXE3, FOXF1, FOXF2, FOXG1 (FOXG1B),
+FOXH1, FOXI1, FOXJ1, FOXJ2, FOXJ3, FOXK1, FOXK2, FOXL1, FOXL2, FOXM1, FOXN1,
+FOXN2 (HTLF), FOXN3 (CHES1), FOXN4, FOXN5 (FOXR1), FOXN6 (FOXR2), FOXO1 (FOXO1A),
+FOXO2 (FOXO6), FOXO3 (FOXO3A), FOXO4 (MLLT7), FOXP1, FOXP2, FOXP3, FOXP4, and
+FOXQ1. FOXE3-FOXD2 (1p33), FOXQ1-FOXF2-FOXC1 (6p25.3), and FOXF1-FOXC2-FOXL1
+(16q24.1) loci are FOX gene clusters within the human genome. Members of FOX
+subfamilies A-G, I-L and Q were grouped into class 1 FOX proteins, while members 
+of FOX subfamilies H and M-P were grouped into class 2 FOX proteins. C-terminal
+basic region within the FOX domain was the common feature of class 1 FOX
+proteins. FOXH1 and FOXO1 mRNAs are expressed in human embryonic stem (ES) cells.
+FOXC1, FOXC2, FOXE1, FOXE3, FOXL2, FOXN1, FOXP2 and FOXP3 genes are mutated in
+human congenital disorders. FOXA1 gene is amplified and over-expressed in
+esophageal and lung cancer. FOXM1 gene is up-regulated in pancreatic cancer and
+basal cell carcinoma due to the transcriptional regulation by Sonic Hedgehog
+(SHH) pathway. FOXO1 gene is fused to PAX3 or PAX7 genes in rhabdomyosarcoma.
+FOXO3 and FOXO4 genes are fused to MLL gene in hematological malignancies.
+Deregulation of FOX family genes leads to congenital disorders, diabetes
+mellitus, or carcinogenesis. Expression profiles, genetic alterations and
+epigenetic changes of FOX family genes as well as binding proteins and target
+genes of FOX family transcription factors should be comprehensively investigated 
+to develop novel therapeutics and preventives for human diseases.
+
+PMID: 15492844  [PubMed - indexed for MEDLINE]
+
+
+67. Development. 2004 Oct;131(20):5091-102.
+
+Pax8 and Pax2a function synergistically in otic specification, downstream of the 
+Foxi1 and Dlx3b transcription factors.
+
+Hans S(1), Liu D, Westerfield M.
+
+Author information: 
+(1)Institute of Neuroscience, University of Oregon, Eugene, OR 97403, USA.
+
+The vertebrate inner ear arises from an ectodermal thickening, the otic placode, 
+that forms adjacent to the presumptive hindbrain. Previous studies have suggested
+that competent ectodermal cells respond to Fgf signals from adjacent tissues and 
+express two highly related paired box transcription factors Pax2a and Pax8 in the
+developing placode. We show that compromising the functions of both Pax2a and
+Pax8 together blocks zebrafish ear development, leaving only a few residual otic 
+cells. This suggests that Pax2a and Pax8 are the main effectors downstream of Fgf
+signals. Our results further provide evidence that pax8 expression and pax2a
+expression are regulated by two independent factors, Foxi1 and Dlx3b,
+respectively. Combined loss of both factors eliminates all indications of otic
+specification. We suggest that the Foxi1-Pax8 pathway provides an early
+'jumpstart' of otic specification that is maintained by the Dlx3b-Pax2a pathway.
+
+PMID: 15459102  [PubMed - indexed for MEDLINE]
+
+
+68. Dev Dyn. 2004 Nov;231(3):640-6.
+
+Expression of mouse Foxi class genes in early craniofacial development.
+
+Ohyama T(1), Groves AK.
+
+Author information: 
+(1)Gonda Department of Cell and Molecular Biology, House Ear Institute, 2100 West
+3rd Street, Los Angeles, CA 90057, USA.
+
+Recent models of craniofacial development suggest the existence of a common
+pan-placodal domain lying next to the neural plate, from which all sensory
+placodes will arise. In support of this idea, several genes are expressed in the 
+surface ectoderm of the head adjacent to the neural plate, before the appearance 
+of genes in specific cranial placodes. In this study, we examine the expression
+patterns of the mouse Foxi class genes from embryonic day 6.5 to 10.5. Foxi2 is
+expressed throughout the cranial ectoderm adjacent to the neural plate from the
+4-somite stage, later becoming excluded from the otic placode. Foxi3 is expressed
+in a broad region of the pan-placodal ectoderm adjacent to the neural plate from 
+embryonic day (E) 6.75 to the first somite stage. Its expression becomes
+restricted to the ectoderm and the endoderm of the branchial pouches at E10.5.
+Foxi1 expression is first detected in the endolymphatic duct in the otic vesicle 
+at E10.5. These results suggest that the mouse Foxi class genes may play
+important roles, both during cranial placode specification and in later
+development of individual cranial sensory structures and other organs derived
+from the cranial ectoderm.
+
+(c) 2004 Wiley-Liss, Inc.
+
+PMID: 15376323  [PubMed - indexed for MEDLINE]
+
+
+69. Dev Dyn. 2004 Jul;230(3):419-33.
+
+Genetic interactions underlying otic placode induction and formation.
+
+Solomon KS(1), Kwak SJ, Fritz A.
+
+Author information: 
+(1)Department of Biology, Emory University, Atlanta, Georgia, USA.
+
+The formation of the otic placode is a complex process requiring multiple
+inductive signals. In zebrafish, fgf3 and fgf8, dlx3b and dlx4b, and foxi1 have
+been identified as the earliest-acting genes in this process. fgf3 and fgf8 are
+required as inductive signals, whereas dlx3b, dlx4b, and foxi1 appear to act
+directly within otic primordia. We have investigated potential interactions among
+these genes. Depletion of either dlx3b and dlx4b or foxi1 leads to a delay of
+pax2a expression in the otic primordia and reduction of the otic vesicle.
+Depletion of both foxi1 and dlx3b results in a complete ablation of otic placode 
+formation. A strong synergistic interaction is also observed among foxi1, fgf3,
+and fgf8, and a weaker interaction among dlx3b, fgf3, and fgf8. Misexpression of 
+foxi1 can induce expression of pax8, an early marker for the otic primordia, in
+embryos treated with an inhibitor of fibroblast growth factor (FGF) signaling.
+Conversely, morpholino knockdown of foxi1 blocks ectopic pax8 expression and otic
+vesicle formation induced by misexpression of fgf3 and/or fgf8. The observed
+genetic interactions suggest a model in which foxi1 and dlx3b/dlx4b act in
+independent pathways together with distinct phases of FGF signaling to promote
+otic placode induction and development.
+
+Copyright 2004 Wiley-Liss, Inc.
+
+PMID: 15188428  [PubMed - indexed for MEDLINE]
+
+
+70. J Clin Invest. 2004 Jun;113(11):1560-70.
+
+Distal renal tubular acidosis in mice that lack the forkhead transcription factor
+Foxi1.
+
+Blomqvist SR(1), Vidarsson H, Fitzgerald S, Johansson BR, Ollerstam A, Brown R,
+Persson AE, Bergström G Gö, Enerbäck S.
+
+Author information: 
+(1)Medical Genetics, Department of Medical Biochemistry, Institute of Anatomy and
+Cell Biology, Göteborg University, Sweden.
+
+Comment in
+    J Clin Invest. 2004 Jun;113(11):1528-30.
+
+While macro- and microscopic kidney development appear to proceed normally in
+mice that lack Foxi1, electron microscopy reveals an altered ultrastructure of
+cells lining the distal nephron. Northern blot analyses, cRNA in situ
+hybridizations, and immunohistochemistry demonstrate a complete loss of
+expression of several anion transporters, proton pumps, and anion exchange
+proteins expressed by intercalated cells of the collecting ducts, many of which
+have been implicated in hereditary forms of distal renal tubular acidosis (dRTA).
+In Foxi1-null mutants the normal epithelium with its two major cell types -
+principal and intercalated cells - has been replaced by a single cell type
+positive for both principal and intercalated cell markers. To test the functional
+consequences of these alterations, Foxi1(-/-) mice were compared with WT
+littermates in their response to an acidic load. This revealed an inability to
+acidify the urine as well as a lowered systemic buffer capacity and overt
+acidosis in null mutants. Thus, Foxi1(-/-) mice seem to develop dRTA due to
+altered cellular composition of the distal nephron epithelium, thereby denying
+this epithelium the proper gene expression pattern needed for maintaining
+adequate acid-base homeostasis.
+
+PMCID: PMC419486
+PMID: 15173882  [PubMed - indexed for MEDLINE]
+
+
+71. J Clin Invest. 2004 Jun;113(11):1528-30.
+
+A fork in the road of cell differentiation in the kidney tubule.
+
+Al-Awqati Q(1), Schwartz GJ.
+
+Author information: 
+(1)Department of Medicine, College of Physicians and Surgeons, Columbia
+University, New York, New York 10032, USA. qa1@columbia.edu
+
+Comment on
+    J Clin Invest. 2004 Jun;113(11):1560-70.
+
+The collecting ducts of the kidney are composed of intercalated cells
+(responsible for acid/base transport), principal cells (mediating salt and water 
+absorption), and inner medullary cells, which mediate all three types of
+transport. Forkhead box (Fox) genes are a large family of transcription factors
+that are important in cell-type specification during organogenesis. In this
+issue, Blomqvist et al. find that mice lacking Foxi1 have no intercalated cells
+in the kidney. The collecting ducts of the null mice contained primitive cells
+that expressed both intercalated cell and principal cell proteins, yet the
+acid/base transport function of the kidney was disrupted and the mice exhibited
+distal renal tubular acidosis. These findings suggest that Foxi1 plays a critical
+role in determining cell identity during collecting duct development.
+
+PMCID: PMC419498
+PMID: 15173877  [PubMed - indexed for MEDLINE]
+
+
+72. Dev Biol. 2004 May 15;269(2):552-66.
+
+Analysis of Spemann organizer formation in Xenopus embryos by cDNA macroarrays.
+
+Wessely O(1), Kim JI, Geissert D, Tran U, De Robertis EM.
+
+Author information: 
+(1)Howard Hughes Medical Institute and Department of Biological Chemistry,
+University of California, Los Angeles, CA 90095-1662, USA.
+
+The understanding of vertebrate development has greatly benefited from the study 
+of gastrulation in the Xenopus embryo. Over the years, the molecular dissection
+of the Spemann organizer has proven to be a very fruitful source for gene
+discovery. Here, we report a comprehensive screen of gene expression in the
+Xenopus gastrula using cDNA macroarrays. Nylon filters containing more than 72000
+cDNAs from a gastrula stage library were hybridized with differential probes from
+embryos in which organizer induction had been inhibited by reducing Nodal-related
+or maternal beta-Catenin signaling. Combining the changes in gene expression
+levels caused by these two major signaling pathways in a single graph identified 
+both known and novel dorsoventral regulated genes. The most highly enriched
+organizer-specific genes were the secreted molecules chordin and Xnr-3, followed 
+by the transmembrane protein paraxial protocadherin (PAPC). Ventral-specific
+abundant cDNAs included S10-40-H5, members of the Hyaluronan synthase family,
+Xvent-2 and XFD2/FoxI1. A differential probe of dorsal and ventral lips
+identified many more organizer-specific cDNAs than the screens inhibiting
+Nodal-related and beta-Catenin signaling, suggesting that additional, as yet
+uncharacterized signaling pathways, contribute to organizer formation. Finally,
+extension of this approach to the blastula preorganizer signaling center
+identified the transcription factor pintallavis/FoxA2 as a new preorganizer
+component.
+
+PMID: 15110719  [PubMed - indexed for MEDLINE]
+
+
+73. Dev Dyn. 2003 Nov;228(3):301-7.
+
+Expression and phylogenetic analyses of three zebrafish FoxI class genes.
+
+Solomon KS(1), Logsdon JM Jr, Fritz A.
+
+Author information: 
+(1)Department of Biology, Emory University, Atlanta, Georgia, USA.
+
+We have identified three novel members of the zebrafish forkhead class I gene
+family, which we have named foxi2, foxi3a, and foxi3b. We have reported
+previously the identification of zebrafish foxi1, which is required for otic
+placode and jaw development. Expression analysis shows that foxi2 is expressed
+within the chordamesoderm during early somitogenesis and the retina and
+pharyngeal arches during later stages. The foxi3a and foxi3b genes likely
+represent a recently duplicated pair, and they are similarly expressed in
+epidermal mucous cells throughout embryogenesis and early larval stages. None of 
+these newly identified FoxI genes are expressed in otic precursor cells and,
+therefore, are unlikely to share functional overlap with foxi1 in the development
+of the inner ear. In addition to these zebrafish FoxI paralogs, we have
+identified 16 new FoxI sequences in species ranging from Ciona intestinalis to
+Homo sapiens. We present an extensive phylogenetic analysis of the FoxI class
+that includes these new sequences together with those previously reported. This
+analysis supports the existence of three subfamilies within the FoxI class, each 
+containing at least one zebrafish member.
+
+Copyright 2003 Wiley-Liss, Inc.
+
+PMID: 14579370  [PubMed - indexed for MEDLINE]
+
+
+74. Development. 2003 Jun;130(12):2669-79.
+
+The zebrafish forkhead transcription factor Foxi1 specifies epibranchial
+placode-derived sensory neurons.
+
+Lee SA(1), Shen EL, Fiser A, Sali A, Guo S.
+
+Author information: 
+(1)Department of Biopharmaceutical Sciences, University of California, San
+Francisco, CA 94143-0446, USA.
+
+Vertebrate epibranchial placodes give rise to visceral sensory neurons that
+transmit vital information such as heart rate, blood pressure and visceral
+distension. Despite the pivotal roles they play, the molecular program underlying
+their development is not well understood. Here we report that the zebrafish
+mutation no soul, in which epibranchial placodes are defective, disrupts the fork
+headrelated, winged helix domain-containing protein Foxi1. Foxi1 is expressed in 
+lateral placodal progenitor cells. In the absence of foxi1 activity, progenitor
+cells fail to express the basic helix-loop-helix gene neurogenin that is
+essential for the formation of neuronal precursors, and the paired homeodomain
+containing gene phox2a that is essential for neuronal differentiation and
+maintenance. Consequently, increased cell death is detected indicating that the
+placodal progenitor cells take on an apoptotic pathway. Furthermore, ectopic
+expression of foxi1 is sufficient to induce phox2a-positive and
+neurogenin-positive cells. Taken together, these findings suggest that Foxi1 is
+an important determination factor for epibranchial placodal progenitor cells to
+acquire both neuronal fate and subtype visceral sensory identity.
+
+PMID: 12736211  [PubMed - indexed for MEDLINE]
+
+
+75. Development. 2003 Jun;130(11):2543-54.
+
+Zebrafish foxi one modulates cellular responses to Fgf signaling required for the
+integrity of ear and jaw patterning.
+
+Nissen RM(1), Yan J, Amsterdam A, Hopkins N, Burgess SM.
+
+Author information: 
+(1)Center for Cancer Research and Department of Biology, Massachusetts Institute 
+of Technology, Cambridge, MA 02139, USA.
+
+We identified four insertional alleles of foxi one (foo), an embryonic lethal
+mutation in zebrafish that displays defects in both otic placode and the jaw. In 
+foo/foo embryos the otic placode is split into two smaller placodes and mutant
+embryos show a dorsoventral (DV) cartilage defect manifested as a reduced
+hyomandibular and reduced third and fourth branchial arches. We identified foxi
+one (foo), the zebrafish ortholog of Foxi1 (FREAC6, FKHL10, HFH-3, Fkh10) and a
+member of the forkhead domain transcriptional regulator family, as the gene
+mutated in foo/foo embryos. foo is expressed in otic placode precursor cells, and
+foo/foo embryos lack placodal pax8 expression and have disorganized otic
+expression of pax2.1 and dlx3. Third stream neural crest cell migration, detected
+by dlx2 and krox20 expression, is aberrant in that it invades the otic placode
+territory. foo is expressed in pharyngeal pouch endoderm and is required for
+pouch expression of pax8 and proper patterning of other markers in the pouch such
+as nkx2.3. In foo/foo embryos, we observed a failure to maintain fgf3 expression 
+in the pouches, followed by apoptosis of neural crest cells in adjacent arches.
+We conclude that foo expression is essential for pax8 expression probably
+downstream of Fgf signaling in a conserved pathway jointly required for integrity
+of patterning in the otic placode and pharyngeal pouches. We propose that correct
+placement of survival/proliferation cues is essential for shaping the pharyngeal 
+cartilages and that evolutionary links between jaw and ear formation can be
+traced to Fgf-Foxi1-Pax8 pathways.
+
+PMID: 12702667  [PubMed - indexed for MEDLINE]
+
+
+76. Development. 2003 May;130(9):2013-25.
+
+Lack of pendrin expression leads to deafness and expansion of the endolymphatic
+compartment in inner ears of Foxi1 null mutant mice.
+
+Hulander M(1), Kiernan AE, Blomqvist SR, Carlsson P, Samuelsson EJ, Johansson BR,
+Steel KP, Enerbäck S.
+
+Author information: 
+(1)Medical Genetics, Department of Medical Biochemistry, Institute of Anatomy and
+Cell Biology, Göteborg University, Box 440, SE-405 30 Göteborg, Sweden.
+
+Mice that lack the winged helix/forkhead gene Foxi1 (also known as Fkh10) are
+deaf and display shaker/waltzer behavior, an indication of disturbed balance.
+While Foxi1 is expressed in the entire otic vesicle at E9.5, it becomes gradually
+restricted to the endolymphatic duct/sac epithelium and at E16.5 Foxi1 expression
+in the inner ear is confined to this epithelium. Histological sections, paintfill
+experiments and whole-mount hybridizations reveal no abnormality in inner ear
+development of Foxi1(-/-) mice before E13.5. Between E13.5 and E16.5 the
+membranous labyrinth of inner ears from null mutants starts to expand as can be
+seen in histological sections, paint-fill experiments and three-dimensional
+reconstruction. Postnatally, inner ears of Foxi1(-/-) mice are extremely
+expanded, and large irregular cavities, compressing the cerebellum and the
+otherwise normal middle ear, have replaced the delicate compartments of the
+wild-type inner ear. This phenotype resembles that of the human sensorineural
+deafness syndrome Pendred syndrome, caused by mutations in the PDS gene. In situ 
+hybridization of Foxi1(-/-) endolymphatic duct/sac epithelium shows a complete
+lack of the transcript encoding the chloride/iodide transporter pendrin. Based on
+this, we would like to suggest that Foxi1 is an upstream regulator of pendrin and
+that the phenotype seen in Foxi1 null mice is, at least in part, due to defective
+pendrin-mediated chloride ion resorption in the endolymphatic duct/sac
+epithelium. We show that this regulation could be mediated by absence of a
+specific endolymphatic cell type--FORE (forkhead related) cells--expressing
+Foxi1, Pds, Coch and Jag1. Thus, mutations in FOXI1 could prove to cause a
+Pendred syndrome-like human deafness.
+
+PMID: 12642503  [PubMed - indexed for MEDLINE]
+
+
+77. Development. 2003 Mar;130(5):929-40.
+
+Zebrafish foxi1 mediates otic placode formation and jaw development.
+
+Solomon KS(1), Kudoh T, Dawid IB, Fritz A.
+
+Author information: 
+(1)Department of Biology, Emory University, Atlanta, GA 30322, USA.
+
+The otic placode is a transient embryonic structure that gives rise to the inner 
+ear. Although inductive signals for otic placode formation have been
+characterized, less is known about the molecules that respond to these signals
+within otic primordia. Here, we identify a mutation in zebrafish, hearsay, which 
+disrupts the initiation of placode formation. We show that hearsay disrupts
+foxi1, a forkhead domain-containing gene, which is expressed in otic precursor
+cells before placodes become visible; foxi1 appears to be the earliest marker
+known for the otic anlage. We provide evidence that foxi1 regulates expression of
+pax8, indicating a very early role for this gene in placode formation. In
+addition, foxi1 is expressed in the developing branchial arches, and jaw
+formation is disrupted in hearsay mutant embryos.
+
+PMID: 12538519  [PubMed - indexed for MEDLINE]
+
+
+78. Biochim Biophys Acta. 2002 Apr 12;1574(3):337-44.
+
+Cell-type dependency of two Foxa/HNF3 sites in the regulation of vitronectin
+promoter activity.
+
+Shimizu S(1), Miyamoto Y, Hayashi M.
+
+Author information: 
+(1)Department of Biology, Ochanomizu University, Bunkyo-ku, 112-8610, Tokyo,
+Japan.
+
+The mouse vitronectin promoter has two consensus sequences of the Foxa/hepatocyte
+nuclear factor (HNF) 3-binding site (from -34 to -25, site A, and +15 to +26 base
+pairs (bp), site B). Site-directed mutagenesis of site B inhibited binding of
+nuclear proteins from mouse neuroblastoma Neuro2a and reduced the promoter
+activity to 4.6% in a 101-bp fragment (from -48 to +53 bp) in Neuro2a cells. The 
+nuclear proteins of site B were identified as the Foxa1/HNF3alpha and
+Foxa2/HNF3beta proteins by supershift assay. Next, we examined site A. Mutation
+of site A in Neuro2a cells did not affect the promoter activity, and binding of
+nuclear proteins was not detected. Overexpression of Foxa1 or Foxa2 protein
+activated the mutated site B promoter, but failed to activate the sites A and B
+double-mutated promoter in Neuro2a cells, indicating that site A is a potential
+transcription regulatory site. Recombinant Foxa1 and Foxa2 proteins and nuclear
+extract from mouse liver bound not only to site B, but also to site A. In human
+hepatoma HepG2 cells, mutation of sites A and B decreased the promoter activity
+to 82% and 38%, respectively, in the wild promoter, and double mutation of sites 
+A and B decreased the wild promoter activity to 5%, indicating that sites A and B
+contribute to the promoter activity in HepG2 cells. These results demonstrate
+that the two Foxa-binding sites regulate the vitronectin promoter activity in
+cell type-dependent manner.
+
+PMID: 11997100  [PubMed - indexed for MEDLINE]
+
+
+79. Am J Pathol. 2001 Dec;159(6):2055-69.
+
+Effects of paramyxoviral infection on airway epithelial cell Foxj1 expression,
+ciliogenesis, and mucociliary function.
+
+Look DC(1), Walter MJ, Williamson MR, Pang L, You Y, Sreshta JN, Johnson JE,
+Zander DS, Brody SL.
+
+Author information: 
+(1)Department of Internal Medicine, Washington University School of Medicine, St.
+Louis, Missouri 63110, USA.
+
+To elucidate molecular mechanisms underlying the association between respiratory 
+viral infection and predisposition to subsequent bacterial infection, we used in 
+vivo and in vitro models and human samples to characterize respiratory
+virus-induced changes in airway epithelial cell morphology, gene expression, and 
+mucociliary function. Mouse paramyxoviral bronchitis resulted in airway
+epithelial cell infection and a distinct pattern of epithelial cell morphology
+changes and altered expression of the differentiation markers beta-tubulin-IV,
+Clara cell secretory protein, and Foxj1. Furthermore, changes in gene expression 
+were recapitulated using an in vitro epithelial cell culture system and
+progressed independent of the host inflammatory response. Restoration of mature
+airway epithelium occurred in a pattern similar to epithelial cell
+differentiation and ciliogenesis in embryonic lung development characterized by
+sequential proliferation of undifferentiated cells, basal body production, Foxj1 
+expression, and beta-tubulin-IV expression. The effects of virus-induced
+alterations in morphology and gene expression on epithelial cell function were
+illustrated by decreased airway mucociliary velocity and impaired bacterial
+clearance. Similar changes in epithelial cell Foxj1 expression were also observed
+in human paramyxoviral respiratory infection. Taken together, these model systems
+of paramyxoviral respiratory infection mimic human pathology and identify
+epithelial cell Foxj1 expression as an early marker of epithelial cell
+differentiation, recovery, and function.
+
+PMCID: PMC1850590
+PMID: 11733356  [PubMed - indexed for MEDLINE]
+
+
+80. J Histochem Cytochem. 2001 Dec;49(12):1593-604.
+
+Immunolocalization of sonic hedgehog (Shh) in developing mouse lung.
+
+Miller LA(1), Wert SE, Whitsett JA.
+
+Author information: 
+(1)Children's Hospital Medical Center, Division of Pulmonary Biology, Cincinnati,
+Ohio 45229-3039, USA.
+
+Expression of sonic hedgehog (Shh) is required for normal development of the lung
+during embryogenesis. Loss of Shh expression in mice results in tracheoesophageal
+fistula, lung hypoplasia, and abnormal lung lobulation. To determine whether Shh 
+may play a role later in lung morphogenesis, immunostaining for Shh was performed
+in mouse lung from embryonic day (E) 10.5 to postnatal day (PD) 24. Shh was
+detected in the distal epithelium of the developing mouse lung from E10.5 to
+E16.5. From E16.5 until PD15, Shh was present in epithelial cells in both the
+peripheral and conducting airways. Although all cells of the developing
+epithelium uniformly expressed Shh at E10.5, Shh expression was restricted to
+subsets of epithelial cells by E16.5. Between E16.5 and PD15, non-uniform Shh
+staining of epithelial cells was observed in the conducting airways in a pattern 
+consistent with the distribution of non-ciliated bronchiolar cells (i.e., Clara
+cells) and the Clara cell marker CCSP. Shh did not co-localize with hepatocyte
+nuclear factor/forkhead homologue-4 (HFH-4), beta-tubulin, or with the presence
+of cilia. These results support the concept that Shh plays a distinct regulatory 
+role in the lung later in morphogenesis, when it may influence formation or
+cytodifferentiation of the conducting airways.
+
+PMID: 11724907  [PubMed - indexed for MEDLINE]
+
+
+81. Int J Dev Biol. 2001 Jun;45(4):643-52.
+
+Synergistic action of HNF-3 and Brachyury in the notochord differentiation of
+ascidian embryos.
+
+Shimauchi Y(1), Chiba S, Satoh N.
+
+Author information: 
+(1)Department of Zoology, Graduate School of Science, Kyoto University, Japan.
+
+In vertebrate embryos, the class I subtype forkhead domain gene HNF-3 is
+essential for the formation of the endoderm, notochord and overlying ventral
+neural tube. In ascidian embryos, Brachyury is involved in the formation of the
+notochord. Although the results of previous studies imply a role of HNF-3 in
+notochord differentiation in ascidian embryos, no experiments have been carried
+out to address this issue directly. Therefore the present study examined the
+developmental role of HNF-3 in ascidian notochord differentiation. When embryos
+were injected with a low dose of HNF-3 mRNA, their tails were shortened and when 
+embryos were injected with a high dose of HNF-3 mRNA, which was enough to inhibit
+differentiation of epidermis and muscle, no obvious ectopic differentiation of
+endoderm or notochord cells was observed. However, co-injection of HNF-3 mRNA
+along with Brachyury mRNA resulted in ectopic differentiation of notochord cells 
+in the animal hemisphere, suggesting that HNF-3 acts synergistically with
+Brachyury in ascidian notochord differentiation. Notochord differentiation of the
+A-line precursor cells depends on inducing signal(s) from endodermal cells, which
+can be mimicked by bFGF treatment. Treatment of notochord precursor cells
+isolated from the 32-cell stage embryoswith bFGF resulted in upregulation of both
+the HNF-3 and Brachyury genes.
+
+PMID: 11461000  [PubMed - indexed for MEDLINE]
+
+
+82. Gene. 2000 Dec 23;259(1-2):171-6.
+
+Planaria FoxA (HNF3) homologue is specifically expressed in the pharynx-forming
+cells.
+
+Koinuma S(1), Umesono Y, Watanabe K, Agata K.
+
+Author information: 
+(1)Laboratory of Regeneration Biology, Department of Life Science, Faculty of
+Science, Himeji Institute of Technology, Hyogo 678-1297, Japan.
+
+We have isolated a planarian Forkhead box A (FoxA, a new name for a gene group
+containing HNF3 alpha,beta,gamma)-related gene, DjFoxA, and examined its spatial 
+and temporal distribution in both intact and regenerating planarians by in situ
+hybridization. In intact worms, DjFoxA is specifically expressed in the cells
+participating in pharynx development in the region surrounding the pharynx, which
+is located in the central portion of the body. During regeneration,
+DjFoxA-positive cells appear in the pharynx-forming region and migrate to the
+midline to form a pharynx rudiment. These results suggest that DjFoxA is
+specifically expressed in the cells participating in pharynx formation and has an
+evolutionarily conserved function in digestive tract formation.
+
+PMID: 11163974  [PubMed - indexed for MEDLINE]
+
+
+83. Cytogenet Cell Genet. 2000;90(1-2):119-22.
+
+No deleterious mutations in the FOXJ1 (alias HFH-4) gene in patients with primary
+ciliary dyskinesia (PCD).
+
+Maiti AK(1), Bartoloni L, Mitchison HM, Meeks M, Chung E, Spiden S, Gehrig C,
+Rossier C, DeLozier-Blanchet CD, Blouin J, Gardiner RM, Antonarakis SE.
+
+Author information: 
+(1)Division of Medical Genetics, University of Geneva Medical School and Cantonal
+Hospital, Switzerland.
+
+The transcription factor FOXJ1 (alias HFH-4 or FKHL13) of the
+winged-helix/forkhead family is expressed in cells with cilia or flagella, and
+seems to be involved in the regulation of axonemal structural proteins. The
+knockout mouse Foxj1(-/-) shows abnormalities of organ situs, consistent with
+random determination of left-right asymmetry, and a complete absence of cilia.
+The human FOXJ1 gene which maps to chromosome 17q, is thus an excellent candidate
+gene for Kartagener Syndrome (KS), a subphenotype of Primary Ciliary Dyskinesia
+(PCD), characterized by bronchiectasis, chronic sinusitis and situs inversus. We 
+have collected samples from 61 PCD families, in 31 of which there are at least
+two affected individuals. Two families with complete aciliogenesis, and six
+families, in which the affected members have microsatellite alleles concordant
+for a locus on distal chromosome 17q, were screened for mutations in the two
+exons and intron-exon junctions of the FOXJ1 gene. No sequence abnormalities were
+observed in the DNAs of the affected individuals of the selected families. These 
+results demonstrate that the FOXJ1 gene is not responsible for the PCD/KS
+phenotype in the families examined.
+
+Copyright 2000 S. Karger AG, Basel.
+
+PMID: 11060460  [PubMed - indexed for MEDLINE]
+
+
+84. Mech Dev. 2000 Jul;95(1-2):77-87.
+
+The developmental potentials of the caudalmost part of the neural crest are
+restricted to melanocytes and glia.
+
+Catala M(1), Ziller C, Lapointe F, Le Douarin NM.
+
+Author information: 
+(1)Institut d'Embryologie Cellulaire et Moléculaire du CNRS et du Collège de
+France, 49 bis, Avenue de la belle Gabrielle, 94736 Cedex, Nogent-Sur-Marne,
+France. martin.catala@psl.ap-hop-paris.fr
+
+The avian spinal cord is characterized by an absence of motor nerves and sensory 
+nerves and ganglia at its caudalmost part. Since peripheral sensory neurons
+derive from neural crest cells, three basic mechanisms could account for this
+feature: (i) the caudalmost neural tube does not generate any neural crest cells;
+(ii) neural crest cells originating from the caudal part of the neural tube
+cannot give rise to dorsal root ganglia or (iii) the caudal environment is not
+permissive for the formation of dorsal root ganglia. To solve this problem, we
+have first studied the pattern of expression of ventral (HNF3beta) and dorsal
+(slug) marker genes in the caudal region of the neural tube; in a second
+approach, we have recorded the emergence of neural crest cells using the HNK1
+monoclonal antibody; and finally, we have analyzed the developmental potentials
+of neural crest cells arising from the caudalmost part of the neural tube in
+avian embryo in in vitro culture and by means of heterotopic transplantations in 
+vivo. We show here that neural crest cells arising from the neural tube located
+at the level of somites 47-53 can differentiate both in vitro and in vivo into
+melanocytes and Schwann cells but not into neurons. Furthermore, the neural tube 
+located caudally to the last pair of somites (i.e. the 53rd pair) does not give
+rise to neural crest cells in any of the situations tested. The specific
+anatomical aspect of the avian spinal cord can thus be accounted for by limited
+developmental potentials of neural crest cells arising from the most caudal part 
+of the neural tube.
+
+PMID: 10906452  [PubMed - indexed for MEDLINE]
+
+
+85. Mol Cell. 1999 Dec;4(6):961-9.
+
+An early developmental transcription factor complex that is more stable on
+nucleosome core particles than on free DNA.
+
+Cirillo LA(1), Zaret KS.
+
+Author information: 
+(1)Department of Molecular Biology, Cell Biology, and Biochemistry, Brown
+University, Providence, Rhode Island 02912, USA.
+
+In vivo footprinting studies have shown that transcription factor binding sites
+for HNF3 and GATA-4 are occupied on the albumin gene enhancer in embryonic
+endoderm, prior to the developmental activation of liver gene transcription. We
+have investigated how these factors can stably occupy silent chromatin.
+Remarkably, we find that HNF3, but not GATA-4 or a GAL4 control protein, binds
+far more stably to nucleosome core particles than to free DNA. In the presence of
+HNF3, GATA-4 binds stably to an HNF3-positioned nucleosome. Histone acetylation
+does not affect HNF3 binding. This is evidence for stable nucleosome binding by a
+transcription factor and shows that a winged helix protein is sufficient to
+initiate the assembly of an enhancer complex on nonacetylated nucleosomes.
+
+PMID: 10635321  [PubMed - indexed for MEDLINE]
+
+
+86. Dev Genes Evol. 2000 Jan;210(1):11-7.
+
+Characterization of a hemichordate fork head/HNF-3 gene expression.
+
+Taguchi S(1), Tagawa K, Humphreys T, Nishino A, Satoh N, Harada Y.
+
+Author information: 
+(1)Department of Zoology, Graduate School of Science, Kyoto University, Sakyo-ku,
+Kyoto 606-8502, Japan E-mail: taguchi@ascidian.zool. kyoto-u.ac.jp.
+
+Based on anatomical and developmental similarities, hemichordates are thought to 
+be most closely related to chordates. However, so far very few developmental
+genes have been characterized from hemichordates. To gain molecular insight into 
+the developmental mechanisms involved in the origin and evolution of chordates,
+we investigated the expression of a fork head/HNF-3 (PfHNF3) gene in the acorn
+worm embryo. Chordate fork head genes are implicated in the formation of
+endoderm, notochord and floor plate. We found that a PfHNF3 transcript was first 
+detected at the early blastula stage; the signal of in situ hybridization was
+found in the vegetal plate cells, invaginating endoderm and then in the
+archenteron. By the late gastrula and into the early tornaria larva stages, an
+intense signal remained in the anterior region of the archenteron, while the
+expression in the other regions of archenteron decreased. The intense signal was 
+retained in the pharynx of the tornaria larva. A comparison of the pattern of
+PfHNF3 with that of HNF-3 genes of sea urchin, ascidian, amphioxus and vertebrate
+suggests a possible acquisition of new functions of the gene during deuterostome 
+evolution.
+
+PMID: 10603081  [PubMed - indexed for MEDLINE]
+
+
+87. Nat Genet. 1999 Sep;23(1):71-5.
+
+Pancreas dorsal lobe agenesis and abnormal islets of Langerhans in
+Hlxb9-deficient mice.
+
+Harrison KA(1), Thaler J, Pfaff SL, Gu H, Kehrl JH.
+
+Author information: 
+(1)Laboratory of Immunoregulation National Institute of Allergy and Infectious
+Diseases, National Institutes of Health, Bethesda, Maryland 20892, USA.
+
+In most mammals the pancreas develops from the foregut endoderm as ventral and
+dorsal buds. These buds fuse and develop into a complex organ composed of
+endocrine, exocrine and ductal components. This developmental process depends
+upon an integrated network of transcription factors. Gene targeting experiments
+have revealed critical roles for Pdx1, Isl1, Pax4, Pax6 and Nkx2-2 (refs
+3,4,5,6,7, 8,9,10). The homeobox gene HLXB9 (encoding HB9) is prominently
+expressed in adult human pancreas, although its role in pancreas development and 
+function is unknown. To facilitate its study, we isolated the mouse HLXB9
+orthologue, Hlxb9. During mouse development, the dorsal and ventral pancreatic
+buds and mature beta-cells in the islets of Langerhans express Hlxb9. In mice
+homologous for a null mutation of Hlxb9, the dorsal lobe of the pancreas fails to
+develop. The remnant Hlxb9-/- pancreas has small islets of Langerhans with
+reduced numbers of insulin-producing beta-cells. Hlxb9-/- beta-cells express low 
+levels of the glucose transporter Glut2 and homeodomain factor Nkx 6-1. Thus,
+Hlxb9 is key to normal pancreas development and function.
+
+PMID: 10471502  [PubMed - indexed for MEDLINE]
+
+
+88. Am J Respir Cell Mol Biol. 1999 Aug;21(2):153-4.
+
+Forkhead transcription factor HFH-4 and respiratory epithelial cell
+differentiation.
+
+Whitsett JA(1), Tichelaar JW.
+
+Author information: 
+(1)Division of Pulmonary Biology, Children's Hospital Medical Center, Cincinnati,
+Ohio, USA. whitj0@chmcc.org
+
+PMID: 10423395  [PubMed - indexed for MEDLINE]
+
+
+89. Dev Biol. 1999 May 1;209(1):1-10.
+
+Developmental competence of the gut endoderm: genetic potentiation by GATA and
+HNF3/fork head proteins.
+
+Zaret K(1).
+
+Author information: 
+(1)Department of Molecular Biology, Cell Biology, and Biochemistry, Brown
+University, Providence, Rhode Island 02912, USA.
+
+A long-standing problem in developmental biology has been to understand how the
+embryonic germ layers gain the competence to differentiate into distinct cell
+types. Genetic studies have shown that members of the GATA and HNF3/fork head
+transcription factor families are essential for the formation and differentiation
+of gut endoderm tissues in worms, flies, and mammals. Recent in vivo footprinting
+studies have shown that GATA and HNF3 binding sites in chromatin are occupied on 
+a silent gene in endoderm that has the potential to be activated solely in that
+germ layer. These and other data indicate that these evolutionarily conserved
+factors help impart the competence of a gene to be activated in development, a
+phenomenon called genetic potentiation. The mechanistic implications of genetic
+potentiation and its general significance are discussed.
+
+Copyright 1999 Academic Press.
+
+PMID: 10208738  [PubMed - indexed for MEDLINE]
+
+
+90. DNA Cell Biol. 1999 Feb;18(2):157-64.
+
+Hepatocyte nuclear factor 3 (winged helix domain) activates trefoil factor gene
+TFF1 through a binding motif adjacent to the TATAA box.
+
+Beck S(1), Sommer P, dos Santos Silva E, Blin N, Gött P.
+
+Author information: 
+(1)Division of Molecular Genetics, Institute of Anthropology and Human Genetics, 
+University of Tübingen, Germany.
+
+The winged helix transcription factors HNF-3/FKH (forkhead homologs) activate
+endodermal-derived and acute-phase gene expression and control gut development in
+Drosophila. Trefoil factor family (TFFs) peptides are vertebrate products
+secreted by mucin-producing epithelial cells of the gastrointestinal tract
+involved in restitution and repair of the mucosa. They are positively regulated
+in ulcerative and neoplastic conditions. We describe a consensus sequence in
+human and rodent TFF promoters close to the TATAA box showing striking similarity
+to the binding site of the HNF-3/FKH family. In gel retardation assays, HNF-3
+alpha and beta bound predominantly to the site in TFF1 (formerly pS2) and, to a
+lesser extent, to the sites in TFF2 or TFF3. Mutations generated in this motif
+severely impaired transcription of TFF1 reporter genes. Cotransfection with
+expression vectors of HNF-3alpha and beta, but not the related HFH 11A and B,
+specifically activated the wild-type TFF1 reporter genes. Activation of
+endogenous expression of TFF1 by HNF-3 alpha and beta gene products was more than
+1000 fold in the pancreatic cell line Capan-2 and fivefold in the gastric cell
+line MKN-45, whereas the intestinal cell lines HUTU 80 and HT-29 displayed no
+effect. Thus, HNF-3/FKH factors contribute causally to cell-specific regulation
+of TFF genes and may explain the acute-phase response of TFF peptides.
+
+PMID: 10073575  [PubMed - indexed for MEDLINE]
+
+
+91. Gene. 1998 Dec 11;224(1-2):97-107.
+
+Exon-I is involved in positive as well as negative regulation of human
+angiotensinogen gene expression.
+
+Cui Y(1), Narayanan CS, Zhou J, Kumar A.
+
+Author information: 
+(1)Department of Pathology, New York Medical College, Valhalla, NY 10595, USA.
+
+Angiotensinogen is the glycoprotein precursor of one of the most potent
+vasoactive hormones, angiotensin-II. Angiotensinogen gene is primarily expressed 
+in the liver, and this gene locus is linked with human essential hypertension. We
+show here that a mutation in exon-I reduces the basal expression of the human
+angiotensinogen gene in liver cells. We also show that a nucleotide sequence in
+exon-I binds to liver-enriched transcription factor HNF-3 and a ubiquitous factor
+AP4. Our studies also show that transient transfection of an expression vector
+containing AP4 coding sequence downregulates the expression of reporter
+constructs containing human angiotensinogen gene promoter. By contrast,
+co-transfection of an expression vector containing HNF-3beta coding sequence
+increases the expression of these reporter constructs. The human angiotensinogen 
+gene has a C/A polymorphism located at -20, and we have shown that estrogen
+receptor-alpha binds to this sequence when nucleoside A is present at this site. 
+We show here that co-transfection of an expression vector containing AP4 coding
+sequence reduces estrogen-induced promoter activity of reporter constructs
+containing human angiotensinogen gene promoter (with nucleoside A at -20)
+attached to the CAT gene. These studies partly explain the molecular mechanisms
+involved in tissue-specific expression of the human angiotensinogen gene.
+
+PMID: 9931457  [PubMed - indexed for MEDLINE]
+
+
+92. Endocrinology. 1998 Dec;139(12):4967-75.
+
+A winged-helix family member is involved in a steroid hormone-triggered
+regulatory circuit.
+
+Dean DM(1), Berger RR, Sanders MM.
+
+Author information: 
+(1)Department of Biochemistry, Molecular Biology, and Biophysics, University of
+Minnesota, Minneapolis 55455, USA.
+
+A common theme emerging in eukaryotic gene regulation is that maximal gene
+induction requires several transcription factors acting in concert to regulate
+the activation of critical genes. Increasingly, nuclear receptors play key roles 
+in orchestrating this regulation, often by integrating additional signaling
+pathways, through complex regulatory elements known as hormone response units.
+The ovalbumin gene contains one such unit, known as the steroid-dependent
+regulatory element. The binding of the chicken ovalbumin induced regulatory
+protein-I (Chirp-I) to this element occurs only in response to treatment with
+estrogen and glucocorticoid. Evidence presented herein demonstrates that Chirp-I 
+has many features in common with the winged-helix (W-H) family of transcription
+factors. The binding sites for Chirp-I and for the W-H proteins have similar
+sequence recognition requirements. Northern blots establish that members of the
+W-H family are expressed in oviduct. Most convincing, the Chirp-I complex
+interacts with two different antibodies specific to W-H family members. The
+culmination of this work supports the hypothesis that Chirp-I is a member of the 
+W-H family, and it lends credence to the idea that W-H proteins are essential
+components of some steroid hormone regulatory circuits.
+
+PMID: 9832435  [PubMed - indexed for MEDLINE]
+
+
+93. Dokl Akad Nauk. 1998 Aug;361(5):700-3.
+
+[The effect of o-aminoazotoluene on glucocorticoid induction of tyrosine
+aminotransferase in mice sensitive to its hepatocarcinogenic activity is mediated
+by transcription factor HNF3gamma].
+
+[Article in Russian]
+
+Merkulova TI, Kaledin VI, Kropachev KIu, Kobzev VF, Vasil'ev GV.
+
+PMID: 9785020  [PubMed - indexed for MEDLINE]
+
+
+94. Genes Dev. 1998 Jul 1;12(13):1947-52.
+
+pha-4, an HNF-3 homolog, specifies pharyngeal organ identity in Caenorhabditis
+elegans.
+
+Horner MA(1), Quintin S, Domeier ME, Kimble J, Labouesse M, Mango SE.
+
+Author information: 
+(1)Huntsman Cancer Institute, Center for Children, Department of Oncological
+Sciences, University of Utah, Salt Lake City, Utah 84112 USA.
+
+To build complex organs, embryos have evolved mechanisms that integrate the
+development of cells unrelated to one another by cell type or ancestry. Here we
+show that the pha-4 locus establishes organ identity for the Caenorhabditis
+elegans pharynx. In pha-4 mutants, pharyngeal cells are transformed into
+ectoderm. Conversely, ectopic pha-4 expression produces excess pharyngeal cells. 
+pha-4 encodes an HNF-3 homolog selectively expressed in the nascent digestive
+tract, including all pharynx precursors at the time they are restricted to a
+pharyngeal fate. We suggest that pha-4 is a key component of a
+transcription-based mechanism to endow cells with pharyngeal organ identity.
+
+PMCID: PMC316969
+PMID: 9649499  [PubMed - indexed for MEDLINE]
+
+
+95. J Biol Chem. 1998 Apr 17;273(16):9821-8.
+
+Combinatorial action of HNF3 and Sp family transcription factors in the
+activation of the rabbit uteroglobin/CC10 promoter.
+
+Braun H(1), Suske G.
+
+Author information: 
+(1)Institut für Molekularbiologie und Tumorforschung, Philipps-Universität
+Marburg, Emil-Mannkopff-Strasse 2, D-35037 Marburg, Germany.
+
+It has been reported that respiratory epithelium-specific transcription is
+mediated by thyroid transcription factor 1 and members of the HNF3/forkhead
+family of transcription factors. Here, we show that the uteroglobin/Clara cell
+10-kDa promoters from rabbit and man are regulated by HNF3alpha and HNF3beta but 
+not by HFH-4 and TTF-1. We have identified two HNF3-responsive elements in the
+rabbit uteroglobin/CC10 promoter located around 95 and 130 base pairs upstream of
+the transcriptional start site. Both elements contribute to promoter activity in 
+H441 cells expressing uteroglobin/CC10 and HNF3alpha. Gene transfer experiments
+into Drosophila Schneider cells that lack many mammalian transcription factor
+homologs revealed that HNF3alpha and HNF3beta on their own cannot activate the
+uteroglobin/CC10 promoter. However, HNF3alpha and HNF3beta strongly enhanced
+Sp1-mediated promoter activation. Synergistic activation by HNF3alpha and Sp1 was
+absolutely dependent on the integrity of two Sp1 sites located at around -65 and 
+-230. We show further that multiple activation domains of Sp1 are required for
+cooperativity with HNF3alpha. These studies demonstrate that transcription from
+the rabbit uteroglobin/CC10 promoter in lung epithelium is controlled by the
+combinatorial action of the cell-specific factor HNF3alpha and the ubiquitous
+factor Sp1.
+
+PMID: 9545321  [PubMed - indexed for MEDLINE]
+
+
+96. Mech Dev. 1997 Dec;69(1-2):143-54.
+
+Autonomy of ascidian fork head/HNF-3 gene expression.
+
+Shimauchi Y(1), Yasuo H, Satoh N.
+
+Author information: 
+(1)Department of Zoology, Graduate School of Science, Kyoto University, Japan.
+
+We have characterized the expression pattern of a class I fork head/HNF-3 gene
+(HrHNF3-1) of the ascidian Halocynthia roretzi. Zygotic HrHNF3-1 expression was
+detectable as early as the 16-cell stage, and the transcript was evident in
+blastomeres of the endoderm, notochord and mesenchyme lineages of the early
+embryos. After the late gastrula stage, HrHNF3-1 was also expressed in the
+presumptive spinal cord cells and some brain cells. The spinal cord of the
+ascidian tadpole consists of four layers of cells; the dorsal layer, two lateral 
+layers and the ventral layer, the latter of which simply lies on the notochord.
+Cross-sections of in situ hybridized specimens showed that HrHNF3-1 was expressed
+in cells of the ventral layer, reminiscent of the floor plate of vertebrate
+embryos. In addition, we found autonomy in the initiation of early HrHNF3-1
+expression, because the gene was expressed in blastomeres continuously
+dissociated from the first cleavage until the 16-cell stage.
+
+PMID: 9486537  [PubMed - indexed for MEDLINE]
+
+
+97. J Biol Chem. 1997 May 23;272(21):13725-30.
+
+The winged helix transcriptional activator HFH-3 is expressed in the distal
+tubules of embryonic and adult mouse kidney.
+
+Overdier DG(1), Ye H, Peterson RS, Clevidence DE, Costa RH.
+
+Author information: 
+(1)Department of Biochemistry, University of Illinois, Chicago, Illinois
+60612-7334, USA.
+
+The hepatocyte nuclear factor-3 (HNF-3)/fork head homolog (HFH) proteins are an
+extensive family of transcription factors, which share homology in the winged
+helix DNA binding domain. Members of the HFH/winged helix family have been
+implicated in cell fate determination during pattern formation, in organogenesis,
+and in cell-type-specific gene expression. In this study we isolated a
+full-length HFH-3 cDNA clone from a human kidney library which encoded a
+351-amino acid protein containing a centrally located winged helix DNA binding
+domain. We demonstrate that HFH-3 is a potent transcriptional activator requiring
+138 C-terminal residues for activity. We used in situ hybridization to
+demonstrate that HFH-3 expression is restricted to the epithelium of the renal
+distal convoluted tubules. We determined the HFH-3 DNA binding consensus sequence
+by in vitro DNA binding site selection using recombinant HFH-3 protein and used
+this consensus sequence to identify putative HFH-3 target genes expressed there. 
+These putative HFH-3 target genes include the Na/K-ATPase, Na/H and anion
+exchangers, E-cadherin, and mineralocorticoid receptor genes as well as genes for
+the transcription factors HNF-1, vHNF-1, and HNF-4.
+
+PMID: 9153225  [PubMed - indexed for MEDLINE]
+
+
+98. Genomics. 1997 Mar 15;40(3):462-9.
+
+The human hepatocyte nuclear factor 3/fork head gene FKHL13: genomic structure
+and pattern of expression.
+
+Murphy DB(1), Seemann S, Wiese S, Kirschner R, Grzeschik KH, Thies U.
+
+Author information: 
+(1)Institut für Humangenetik, Gosslerstrasse 12d, Göttingen, 37073, Germany.
+
+We describe the isolation and characterization of the cDNA for FKHL13, the human 
+homologue of the mouse hepatocyte nuclear factor 3/fork head homologue 4 (HFH-4) 
+gene, a member of the HNF-3/fork head (also called winged helix) gene family.
+Members of this gene family contain a conserved DNA binding region of approx. 110
+amino acids and are thought to play an important role in cell-specific
+differentiation. Previous analysis of the mouse and rat HFH-4 cDNAs revealed a
+distinct pattern of expression for this gene, suggesting that the gene plays an
+important role in the differentiation of lung and oviduct/ampulla epithelial
+cells and testicular spermatids. Analysis of the human FKHL13 gene confirmed this
+pattern of expression. We also found expression in adult human brain cortex,
+which we were able to confirm for the mouse. The expression pattern of
+FKHL13/HFH-4, confined to cilia/flagella-producing cells, leads us to believe
+that the gene plays an important role in the regulation of axonemal structural
+proteins. We show that the human gene for FKHL13 lies on chromosome 17
+(comparison with the chromosomal location of the mouse gene strongly suggests
+17q22-q25) and that the gene, which is approx. 6 kb, contains a single intron
+disrupting the fork head DNA binding domain. Such a disruption of a functional
+unit provides strong evidence for the theory of intron insertion during gene
+evolution. The expression of the gene is probably controlled by the CpG island,
+which is located in the promoter region of the gene. We also demonstrate that the
+FKHL13 gene is highly conserved among a wide variety of species, including birds.
+
+PMID: 9073514  [PubMed - indexed for MEDLINE]
+
+

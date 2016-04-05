@@ -1,0 +1,3612 @@
+
+1. P R Health Sci J. 2016 Mar;35(1):3-8.
+
+Pathway Analysis using Gene-expression Profiles of HPV-positive and HPV-negative 
+Oropharyngeal Cancer Patients in a Hispanic Population: Methodological
+Procedures.
+
+Suárez E(1), González L(2), Pérez-Mitchell C(3), Ortiz AP(4), Ramírez-Sola M(5), 
+Acosta J(6), Bernabe-Dones RD(7), González-Aquino C(8), Montes-Rodríguez I(9),
+Cadilla CL(10).
+
+Author information: 
+(1)Department of Biostatistics and Epidemiology, Graduate School of Public
+Health, University of Puerto Rico Medical Sciences Campus, San Juan, PR.
+(2)Puerto Rico Clinical and Translational Research Consortium, University of
+Puerto Rico Medical Sciences Campus, San Juan, PR. (3)Center for Cranial Base,
+Head, and Neck Surgery, HIMA Health San Pablo Group, Caguas, PR; Department of
+Otolaryngology, School of Medicine, University of Puerto Rico Medical Sciences
+Campus, San Juan, PR. (4)Department of Biostatistics and Epidemiology, Graduate
+School of Public Health, University of Puerto Rico Medical Sciences Campus, San
+Juan, PR; University of Puerto Rico Comprehensive Cancer Center, San Juan, PR.
+(5)Cancer Center of HIMA Health San Pablo Group, Caguas, PR. (6)Center for
+Cranial Base, Head, and Neck Surgery, HIMA Health San Pablo Group, Caguas, PR.
+(7)University of Puerto Rico Comprehensive Cancer Center, San Juan, PR; School of
+Health Professions, University of Puerto Rico Medical Sciences Campus, San Juan, 
+PR. (8)Department of Otolaryngology, School of Medicine, University of Puerto
+Rico Medical Sciences Campus, San Juan, PR. (9)Department of Chemistry,
+University of Puerto Rico Mayagüez Campus. (10)Department of Biochemistry, School
+of Medicine and RCMI Center for Genomics in Health Disparities and Rare Diseases,
+University of Puerto Rico Medical Sciences Campus, San Juan, PR.
+
+OBJECTIVE: The incidence of oral cavity and pharyngeal cancer in Puerto Rican men
+is higher than it is in the men of any other ethnic/racial group in the United
+States of America (US). The information regarding the effect of the human
+papilloma virus (HPV) in the gene-expression profile among patients with this
+cancer is limited in Hispanic community. We aim to describe the methodology for
+future studies to identify the molecular networks for determining overrepresented
+signaling and metabolic canonical pathways, based on the differential
+gene-expression profiles of HPV+ and HPV- samples from patients with
+oropharyngeal squamous cell carcinoma in Puerto Rico.
+METHODS: We analyzed the RNA expression of 5 tissue samples from subjects
+diagnosed with oropharyngeal squamous cell carcinoma, 2 HPV+ and 3 HPV-, using
+Affymetrix GeneChips. The relative difference between the average gene
+expressions of the HPV+ and HPV- samples was assessed, based on the fold change
+(log2-scale).
+RESULTS: Our analysis revealed 10 up regulated molecules (Mup1, LRP1, P14KA,
+ALYREF, and BHMT) and 5 down regulated ones (PSME4, KEAP1, ELK3, FAM186B, and
+PRELID1), at a cutoff of 1.5-fold change. Ingenuity Pathway Analysis showed the
+following biological functions to be affected in the HPV+ samples: cancer,
+hematological disease, and RNA post-transcriptional modification. QRT-PCR
+analysis confirmed only the differential regulation of ALYREF, KEAP1, and FAM186B
+genes.
+CONCLUSION: The relevant methodological procedures described are sufficient to
+detect the most significant biological functions and pathways according to the
+HPV status in patients with oropharyngeal cancer in Puerto Rico.
+
+PMID: 26932277  [PubMed - in process]
+
+
+2. Gene Expr. 2015;16(4):197-203. doi: 10.3727/105221615X14399878166276.
+
+ELK3 Expression Correlates With Cell Migration, Invasion, and Membrane Type
+1-Matrix Metalloproteinase Expression in MDA-MB-231 Breast Cancer Cells.
+
+Heo SH(1), Lee JY, Yang KM, Park KS.
+
+Author information: 
+(1)Department of Biomedical Science, College of Life Science, CHA University,
+Seoul, Korea.
+
+ELK3 is a member of the Ets family of transcription factors. Its expression is
+associated with angiogenesis, vasculogenesis, and chondrogenesis. ELK3 inhibits
+endothelial migration and tube formation through the regulation of MT1-MMP
+transcription. This study assessed the function of ELK3 in breast cancer (BC)
+cells by comparing its expression between basal and luminal cells in silico and
+in vitro. In silico analysis showed that ELK3 expression was higher in the more
+aggressive basal BC cells than in luminal BC cells. Similarly, in vitro analysis 
+showed that ELK3 mRNA and protein expression was higher in basal BC cells than in
+normal cells and luminal BC cells. To investigate whether ELK3 regulates basal
+cell migration or invasion, knockdown was achieved by siRNA in the basal BC cell 
+line MDA-MB-231. Inhibition of ELK3 expression decreased cell migration and
+invasion and downregulated MT1-MMP, the expression of which is positively
+correlated with tumor cell invasion. In silico analysis revealed that ELK3
+expression was associated with that of MT1-MMP in several BC cell lines (0.98
+Pearson correlation coefficient). Though MT1-MMP expression was upregulated upon 
+ELK3 nuclear translocation, ELK3 did not directly bind to the 1.3-kb promoter
+region of the MT1-MMP gene. These results suggest that ELK3 plays a positive role
+in the metastasis of BC cells by indirectly regulating MT1-MMP expression.
+
+PMID: 26637400  [PubMed - indexed for MEDLINE]
+
+
+3. Elife. 2015 Nov 21;4. pii: e10870. doi: 10.7554/eLife.10870.
+
+ETS family transcriptional regulators drive chromatin dynamics and malignancy in 
+squamous cell carcinomas.
+
+Yang H(1), Schramek D(1), Adam RC(1), Keyes BE(1), Wang P(2), Zheng D(2,)(3),
+Fuchs E(1).
+
+Author information: 
+(1)Howard Hughes Medical Institute, Robin Chemers Neustein Laboratory of
+Mammalian Cell Biology and Development, The Rockefeller University, New York,
+United States. (2)Department of Neurology, Albert Einstein College of Medicine,
+New York, United States. (3)Departments of Genetics and Neuroscience, Albert
+Einstein College of Medicine, New York, United States.
+
+Tumor-initiating stem cells (SCs) exhibit distinct patterns of transcription
+factors and gene expression compared to healthy counterparts. Here, we show that 
+dramatic shifts in large open-chromatin domain (super-enhancer) landscapes
+underlie these differences and reflect tumor microenvironment. By in vivo
+super-enhancer and transcriptional profiling, we uncover a dynamic
+cancer-specific epigenetic network selectively enriched for binding motifs of a
+transcription factor cohort expressed in squamous cell carcinoma SCs (SCC-SCs).
+Many of their genes, including Ets2 and Elk3, are themselves regulated by SCC-SC 
+super-enhancers suggesting a cooperative feed-forward loop. Malignant progression
+requires these genes, whose knockdown severely impairs tumor growth and prohibits
+progression from benign papillomas to SCCs. ETS2-deficiency disrupts the SCC-SC
+super-enhancer landscape and downstream cancer genes while ETS2-overactivation in
+epidermal-SCs induces hyperproliferation and SCC super-enhancer-associated genes 
+Fos, Junb and Klf5. Together, our findings unearth an essential regulatory
+network required for the SCC-SC chromatin landscape and unveil its importance in 
+malignant progression.
+
+PMCID: PMC4739765
+PMID: 26590320  [PubMed - in process]
+
+
+4. Br J Haematol. 2015 Jun 26. doi: 10.1111/bjh.13543. [Epub ahead of print]
+
+PAX5 alterations in genetically unclassified childhood Precursor B-cell acute
+lymphoblastic leukaemia.
+
+Stasevich I(1,)(2), Inglott S(1), Austin N(1), Chatters S(1), Chalker J(1), Addy 
+D(1), Dryden C(1), Ancliff P(3), Ford A(4), Williams O(2), Kempski H(1,)(2).
+
+Author information: 
+(1)Haematology Cellular and Molecular Diagnostic Service, Great Ormond Street
+Hospital, London, UK. (2)Developmental Biology and Cancer (DBC), University
+College London-Institute of Child Health, London, UK. (3)Department of
+Haematology, Great Ormond Street Hospital, London, UK. (4)Centre for Evolution
+and Cancer, The Institute of Cancer Research, London, UK.
+
+Here, we report a high incidence of PAX5 abnormalities observed in 32/68 (47%) of
+patients with genetically unclassified childhood precursor B-cell acute
+lymphoblastic leukaemia (pre-B ALL). Various deletions, gains, mutations and
+rearrangements of PAX5 comprised 45%, 12%, 29% and 14%, respectively, of the
+abnormalities found. 28% of patients showed more than one abnormality of the
+gene, implying bi-allelic impairment of PAX5. Novel PAX5-RHOXF2, PAX5-ELK3 and
+PAX5-CBFA2T2 rearrangements, which lead to aberrant expression of PAX5, were also
+identified. PAX5 rearrangements demonstrated a complex mechanism of formation
+including concurrent duplications/deletions of PAX5 and its partner genes.
+Finally, the splice variant c.1013-2A>G, seen in two patients with loss of one
+PAX5 allele, was confirmed to be germ-line in one patient and somatic in the
+other. PAX5 alterations were also found to be clinically associated with a higher
+white blood cell count (P = 0·015). These findings contribute to the knowledge of
+PAX5 alterations and their role in the pathogenesis of pre-B ALL.
+
+© 2015 John Wiley & Sons Ltd.
+
+PMID: 26115422  [PubMed - as supplied by publisher]
+
+
+5. Clin Respir J. 2014 Dec 16. doi: 10.1111/crj.12247. [Epub ahead of print]
+
+SMC3 may play an important role in atopic asthma development.
+
+Cheng Q(1), Huang W(1), Chen N(1), Shang Y(1), Zhang H(1).
+
+Author information: 
+(1)Department of Pediatrics, Shengjing Hospital of China Medical University,
+Shenyang, Liaoning, China.
+
+INTRODUCTION: As a common disease with a complex risk, including genetic and
+environmental factors, atopic asthma is prevalent but treatable. The aim of the
+study was to predict the underlying mechanism of asthma and identify target genes
+for the disease.
+METHODS: The affymetrix chip data, GSE18965, were available from Gene Expression 
+Omnibus and the differentially expressed genes (DEGs) between nine atopic
+asthmatic specimens and seven healthy nonatopic samples were identified by R.
+Then Gene Ontology and pathway enrichment analyses were performed to these DEGs. 
+Further, search tool for the retrieval of interacting genes/proteins (STRING) was
+used to select protein-protein interaction (PPI) for DEGs, and then the network
+was visualized by Cytoscape. Finally, transcription factor binding site analysis 
+was conducted to the hot gene.
+RESULTS: Total 565 DEGs were identified, including 535 upregulated and 30
+downregulated genes. The upregulated genes, such as structural maintenance of
+chromosome (SMC)3, significantly affected cellular component of extracellular
+matrix (P<U+2009>=<U+2009>1.56E-04). Otherwise, DEGs were remarkably enriched in three
+pathways, including transforming growth factor-beta signaling pathway
+(P<U+2009>=<U+2009>0.005252649). Further, SMC3 was detected as hot gene in PPI network, and NET
+(Elk3) was predicted as the significant transcription factor for this gene.
+CONCLUSION: SMC3 may play an important role in atopic asthma development;
+therefore, it has the potential to be the target for the disease. Moreover, our
+findings provide more knowledge about the mechanism of atopic asthma and help the
+researchers to explore it in future.
+
+© 2014 John Wiley & Sons Ltd.
+
+PMID: 25515564  [PubMed - as supplied by publisher]
+
+
+6. Physiol Genomics. 2015 Feb;47(2):33-43. doi: 10.1152/physiolgenomics.00107.2014. 
+Epub 2014 Dec 9.
+
+Conditional disruption of miR17-92 cluster in collagen type I-producing
+osteoblasts results in reduced periosteal bone formation and bone anabolic
+response to exercise.
+
+Mohan S(1), Wergedal JE(1), Das S(2), Kesavan C(3).
+
+Author information: 
+(1)Musculoskeletal Disease Center, JLP VA Medical Center, Loma Linda, California;
+and Department of Medicine, Loma Linda University, Loma Linda, California.
+(2)Musculoskeletal Disease Center, JLP VA Medical Center, Loma Linda, California;
+and. (3)Musculoskeletal Disease Center, JLP VA Medical Center, Loma Linda,
+California; and Department of Medicine, Loma Linda University, Loma Linda,
+California Chandrasekhar.Kesavan@va.gov.
+
+In this study, we evaluated the role of the microRNA (miR)17-92 cluster in
+osteoblast lineage cells using a Cre-loxP approach in which Cre expression is
+driven by the entire regulatory region of the type I collagen a2 gene.
+Conditional knockout (cKO) mice showed a 13-34% reduction in total body bone
+mineral content and area with little or no change in bone mineral density (BMD)
+by DXA at 2, 4, and 8 wk in both sexes. Micro-CT analyses of the femur revealed
+an 8% reduction in length and 25-27% reduction in total volume at the diaphyseal 
+and metaphyseal sites. Neither cortical nor trabecular volumetric BMD was
+different in the cKO mice. Bone strength (maximum load) was reduced by 10% with
+no change in bone toughness. Quantitative histomorphometric analyses revealed a
+28% reduction in the periosteal bone formation rate and in the mineral apposition
+rate but with no change in the resorbing surface. Expression levels of periostin,
+Elk3, Runx2 genes that are targeted by miRs from the cluster were decreased by
+25-30% in the bones of cKO mice. To determine the contribution of the miR17-92
+cluster to the mechanical strain effect on periosteal bone formation, we
+subjected cKO and control mice to 2 wk of mechanical loading by four-point
+bending. We found that the periosteal bone response to mechanical strain was
+significantly reduced in the cKO mice. We conclude that the miR17-92 cluster
+expressed in type I collagen-producing cells is a key regulator of periosteal
+bone formation in mice.
+
+PMCID: PMC4313069
+PMID: 25492928  [PubMed - indexed for MEDLINE]
+
+
+7. J Cancer Res Ther. 2014 Nov;10 Suppl:C114-24. doi: 10.4103/0973-1482.145816.
+
+Identification of melanoma biomarkers based on network modules by integrating the
+human signaling network with microarrays.
+
+Huang C, Sheng Y, Jia J, Chen L(1).
+
+Author information: 
+(1)Department of Dermatology, Huashan Hospital, Shanghai Medical College, Fudan
+University, Shanghai, China.
+
+BACKGROUND: Melanoma is a leading cause of cancer death. Thus, accurate
+prognostic biomarkers that will assist rational treatment planning need to be
+identified.
+METHODS: Microarray analysis of melanoma and normal tissue samples was performed 
+to identify differentially expressed modules (DEMs) from the signaling network
+and ultimately detect molecular markers to support histological examination.
+Network motifs were extracted from the human signaling network. Then, significant
+expression-correlation differential modules were identified by comparing the
+network module expression-correlation differential scores under normal and
+disease conditions using the gene expression datasets. Finally, we obtained DEMs 
+by the Wilcoxon rank test and considered the average gene expression level in
+these modules as the classification features for diagnosing melanoma.
+RESULTS: In total, 99 functional DEMs were identified from the signaling network 
+and gene expression profiles. The area under the curve scores for cancer module
+genes, melanoma module genes, and whole network modules are 92.4%, 90.44%, and
+88.45%, respectively. The classification efficiency rates for nonmodule features 
+are 71.04% and 79.38%, which correspond to the features of cancer genes and
+melanoma cancer genes, respectively. Finally, we acquired six significant
+molecular biomarkers, namely, module 10 (CALM3, Ca 2+ , PKC, PDGFRA,
+phospholipase-g, PIB5PA, and phosphatidylinositol-3-kinase), module 14 (SRC, Src 
+homology 2 domain-containing [SHC], SAM68, GIT1, transcription factor-4, CBLB,
+GRB2, VAV2, LCK, YES, PTCH2, downstream of tyrosine kinase [DOK], and KIT),
+module 16 (ELK3, p85beta, SHC, ZFYVE9, TGFBR1, TGFBR2, CITED1, SH3KBP1, HCK, DOK,
+and KIT), module 45 (RB, CCND3, CCNA2, CDK4, and CDK6), module 75 (PCNA, CDK4,
+and CCND1), and module 114 (PSD93, NMDAR, and FYN).
+CONCLUSION: We explored the gene expression profile and signaling network in a
+global view and identified DEMs that can be used as diagnostic or prognostic
+markers for melanoma.
+
+PMID: 25450268  [PubMed - indexed for MEDLINE]
+
+
+8. PLoS One. 2014 Nov 17;9(11):e113050. doi: 10.1371/journal.pone.0113050.
+eCollection 2014.
+
+The oncogenic MicroRNA Hsa-miR-155-5p targets the transcription factor ELK3 and
+links it to the hypoxia response.
+
+Robertson ED(1), Wasylyk C(1), Ye T(1), Jung AC(2), Wasylyk B(1).
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire, Illkirch,
+France; Centre National de la Recherche Scientifique, UMR7104, Illkirch, France; 
+Institut National de la Santé et de la Recherche Médicale, U964, Illkirch,
+France; Université de Strasbourg, Illkirch, France. (2)Laboratoire de Biologie
+Tumorale, Centre Régional de Lutte Contre le Cancer Paul Strauss, EA3430 de
+l'Université de Strasbourg, Strasbourg, France.
+
+The molecular response to hypoxia is a critical cellular process implicated in
+cancer, and a target for drug development. The activity of the major player,
+HIF1a, is regulated at different levels by various factors, including the
+transcription factor ELK3. The molecular mechanisms of this intimate connection
+remain largely unknown. Whilst investigating global ELK3-chromatin interactions, 
+we uncovered an unexpected connection that involves the microRNA hsa-miR-155-5p, 
+a hypoxia-inducible oncomir that targets HIF1a. One of the ELK3 chromatin binding
+sites, detected by Chromatin Immuno-Precipitation Sequencing (ChIP-seq) of normal
+Human Umbilical Vein Endothelial Cells (HUVEC), is located at the transcription
+start site of the MIR155HG genes that expresses hsa-miR-155-5p. We confirmed that
+ELK3 binds to this promoter by ChIP and quantitative polymerase chain reaction
+(QPCR). We showed that ELK3 and hsa-miR-155-5p form a double-negative regulatory 
+loop, in that ELK3 depletion induced hsa-miR-155-5p expression and hsa-miR-155-5p
+expression decreased ELK3 expression at the RNA level through a conserved target 
+sequence in its 3'-UTR. We further showed that the activities of hsa-miR-155-5p
+and ELK3 are functionally linked. Pathway analysis indicates that both factors
+are implicated in related processes, including cancer and angiogenesis.
+Hsa-miR-155-5p expression and ELK3 depletion have similar effects on expression
+of known ELK3 target genes, and on in-vitro angiogenesis and wound closure.
+Bioinformatic analysis of cancer RNA-seq data shows that hsa-miR-155-5p and ELK3 
+expression are significantly anti-correlated, as would be expected from
+hsa-miR-155-5p targeting ELK3 RNA. Finally, hypoxia (0% oxygen) down-regulates
+ELK3 mRNA in a microRNA and hsa-miR-155-5p dependent manner. These results tie
+ELK3 into the hypoxia response pathway through an oncogenic microRNA and into a
+circuit implicated in the dynamics of the hypoxic response. This crosstalk could 
+be important for the development of new treatments for a range of pathologies.
+
+PMCID: PMC4234625
+PMID: 25401928  [PubMed - indexed for MEDLINE]
+
+
+9. J Leukoc Biol. 2015 Jan;97(1):171-80. doi: 10.1189/jlb.4A0214-087R. Epub 2014 Oct
+28.
+
+Elk-3 is a KLF4-regulated gene that modulates the phagocytosis of bacteria by
+macrophages.
+
+Tsoyi K(1), Geldart AM(2), Christou H(2), Liu X(3), Chung SW(4), Perrella MA(5).
+
+Author information: 
+(1)Division of Pulmonary and Critical Care Medicine, Department of Medicine, and.
+(2)Department of Pediatric Newborn Medicine, Brigham and Women's Hospital and
+Harvard Medical School, Boston, Massachusetts, USA; Division of Newborn Medicine,
+Boston Children's Hospital and Harvard Medical School, Boston, Massachusetts,
+USA; and. (3)Division of Pulmonary and Critical Care Medicine, Department of
+Medicine, and Department of Pediatric Newborn Medicine, Brigham and Women's
+Hospital and Harvard Medical School, Boston, Massachusetts, USA; (4)Division of
+Pulmonary and Critical Care Medicine, Department of Medicine, and School of
+Biological Sciences, University of Ulsan, South Korea. (5)Division of Pulmonary
+and Critical Care Medicine, Department of Medicine, and Department of Pediatric
+Newborn Medicine, Brigham and Women's Hospital and Harvard Medical School,
+Boston, Massachusetts, USA; mperrella@rics.bwh.harvard.edu.
+
+ETS family proteins play a role in immune responses. A unique member of this
+family, Elk-3, is a transcriptional repressor that regulates the expression of
+HO-1. Elk-3 is very sensitive to the effects of inflammatory mediators and is
+down-regulated by bacterial endotoxin (LPS). In the present study, exposure of
+mouse macrophages to Escherichia coli LPS resulted in decreased, full-length, and
+splice-variant isoforms of Elk-3. We isolated the Elk-3 promoter and demonstrated
+that LPS also decreased promoter activity. The Elk-3 promoter contains GC-rich
+regions that are putative binding sites for zinc-finger transcription factors,
+such as Sp1 and KLFs. Mutation of the GC-rich region from bp -613 to -603 blunted
+LPS-induced down-regulation of the Elk-3 promoter. Similar to the LPS response,
+coexpression of KLF4 led to repression of Elk-3 promoter activity, whereas
+coexpression of Sp1 increased activity. ChIP assays revealed that KLF4 binding to
+the Elk-3 promoter was increased by LPS exposure, and Sp1 binding was decreased. 
+Thus, down-regulation of Elk-3 by bacterial LPS is regulated, in part, by the
+transcriptional repressor KLF4. Overexpression of Elk-3, in the presence of E.
+coli bacteria, resulted in decreased macrophage phagocytosis. To determine
+whether limited expression of HO-1 may contribute to this response, we exposed
+HO-1-deficient bone marrow-derived macrophages to E. coli and found a comparable 
+reduction in bacterial phagocytosis. These data suggest that down-regulation of
+Elk-3 and the subsequent induction of HO-1 are important for macrophage function 
+during the inflammatory response to infection.
+
+© Society for Leukocyte Biology.
+
+PMCID: PMC4377825
+PMID: 25351511  [PubMed - indexed for MEDLINE]
+
+
+10. PLoS One. 2014 Sep 9;9(9):e107048. doi: 10.1371/journal.pone.0107048. eCollection
+2014.
+
+Elk3 deficiency causes transient impairment in post-natal retinal vascular
+development and formation of tortuous arteries in adult murine retinae.
+
+Weinl C(1), Wasylyk C(2), Garcia Garrido M(3), Sothilingam V(3), Beck SC(3),
+Riehle H(1), Stritt C(1), Roux MJ(2), Seeliger MW(3), Wasylyk B(2), Nordheim
+A(1).
+
+Author information: 
+(1)Department of Molecular Biology, Interfaculty Institute for Cell Biology,
+University of Tuebingen, Tuebingen, Germany. (2)Institut de Génétique et de
+Biologie Moléculaire et Cellulaire, Illkirch, France; Centre National de la
+Recherche Scientifique, Illkirch, France; Institut National de la Santé et de la 
+Recherche Médicale, Illkirch, France; Université de Strasbourg, Illkirch, France.
+(3)Division of Ocular Neurodegeneration, Centre for Ophthalmology, Institute for 
+Ophthalmic Research, University of Tübingen, Tübingen, Germany.
+
+Serum Response Factor (SRF) fulfills essential roles in post-natal retinal
+angiogenesis and adult neovascularization. These functions have been attributed
+to the recruitment by SRF of the cofactors Myocardin-Related Transcription
+Factors MRTF-A and -B, but not the Ternary Complex Factors (TCFs) Elk1 and Elk4. 
+The role of the third TCF, Elk3, remained unknown. We generated a new Elk3
+knockout mouse line and showed that Elk3 had specific, non-redundant functions in
+the retinal vasculature. In Elk3(-/-) mice, post-natal retinal angiogenesis was
+transiently delayed until P8, after which it proceeded normally. Interestingly,
+tortuous arteries developed in Elk3(-/-) mice from the age of four weeks, and
+persisted into late adulthood. Tortuous vessels have been observed in human
+pathologies, e.g. in ROP and FEVR. These human disorders were linked to altered
+activities of vascular endothelial growth factor (VEGF) in the affected eyes.
+However, in Elk3(-/-) mice, we did not observe any changes in VEGF or several
+other potential confounding factors, including mural cell coverage and blood
+pressure. Instead, concurrent with the post-natal transient delay of radial
+outgrowth and the formation of adult tortuous arteries, Elk3-dependent effects on
+the expression of Angiopoietin/Tie-signalling components were observed. Moreover,
+in vitro microvessel sprouting and microtube formation from P10 and adult aortic 
+ring explants were reduced. Collectively, these results indicate that Elk3 has
+distinct roles in maintaining retinal artery integrity. The Elk3 knockout mouse
+is presented as a new animal model to study retinal artery tortuousity in mice
+and human patients.
+
+PMCID: PMC4159304
+PMID: 25203538  [PubMed - indexed for MEDLINE]
+
+
+11. J Neurosci. 2014 Apr 30;34(18):6344-51. doi: 10.1523/JNEUROSCI.2991-13.2014.
+
+Axonal targeting of the serotonin transporter in cultured rat dorsal raphe
+neurons is specified by SEC24C-dependent export from the endoplasmic reticulum.
+
+Montgomery TR(1), Steinkellner T, Sucic S, Koban F, Schüchner S, Ogris E, Sitte
+HH, Freissmuth M.
+
+Author information: 
+(1)Institute of Pharmacology, Center of Physiology and Pharmacology and
+Department of Molecular Genetics, Medical University of Vienna, A-1090 Vienna,
+Austria, and UCD Conway Institute of Biomolecular and Biomedical Research,
+University College Dublin, Belfield, Dublin 4, Ireland.
+
+Export of the serotonin transporter (SERT) from the endoplasmic reticulum (ER) is
+mediated by the SEC24C isoform of the coatomer protein-II complex. SERT must
+enter the axonal compartment and reach the presynaptic specialization to perform 
+its function, i.e., the inward transport of serotonin. Refilling of vesicles is
+contingent on the operation of an efficient relay between SERT and the vesicular 
+monoamine transporter-2 (VMAT2). Here, we visualized the distribution of both
+endogenously expressed SERT and heterologously expressed variants of human SERT
+in dissociated rat dorsal raphe neurons to examine the role of SEC24C-dependent
+ER export in axonal targeting of SERT. We conclude that axonal delivery of SERT
+is contingent on recruitment of SEC24C in the ER. This conclusion is based on the
+following observations. (1) Both endogenous and heterologously expressed SERT
+were delivered to the extensive axonal arborizations and accumulated in
+bouton-like structures. (2) In contrast, SERT-(607)RI(608)-AA, in which the
+binding site of SEC24C is disrupted, remained confined to the
+microtubule-associated protein 2-positive somatodendritic compartment. (3) The
+overexpression of dominant-negative SEC24C-D(796)V/D(797)N (but not of the
+corresponding SEC24D mutant) redirected both endogenous SERT and heterologously
+expressed yellow fluorescent protein-SERT from axons to the somatodendritic
+region. (4) SERT-K(610)Y, which harbors a mutation converting it into an SEC24D
+client, was rerouted from the axonal to the somatodendritic compartment by
+dominant-negative SEC24D. In contrast, axonal targeting of the VMAT2 was
+disrupted by neither dominant-negative SEC24C nor dominant-negative SEC24D. This 
+suggests that SERT and VMAT2 reach the presynaptic specialization by independent 
+routes.
+
+PMCID: PMC4497811
+PMID: 24790205  [PubMed - indexed for MEDLINE]
+
+
+12. Int J Biol Sci. 2014 Mar 27;10(4):438-47. doi: 10.7150/ijbs.8095. eCollection
+2014.
+
+ELK3 suppresses angiogenesis by inhibiting the transcriptional activity of ETS-1 
+on MT1-MMP.
+
+Heo SH(1), Cho JY(1).
+
+Author information: 
+(1)Department of Veterinary Biochemistry, BK21 Plus, Research Institute for
+Veterinary Science, College of Veterinary Medicine, Seoul National University,
+Seoul, Republic of Korea.
+
+Ets transcription factors play important roles in vasculogenesis and
+angiogenesis. Knockout of the Ets gene family members in mice resulted in
+disrupted angiogenesis and malformed vascular systems. In this study, the role
+and mechanism of ELK3, an Ets factor, in angiogenesis was investigated using
+ELK3-specific siRNA in human vascular endothelial cells (HUVECs) and in vivo
+implantation assay. The suppression of ELK3 expression resulted in the
+reinforcement of VEGF-induced tube formation in HUVECs. The in vivo Matrigel plug
+assay also showed that ELK3 knockdown resulted in increased angiogenesis.
+Luciferase activity of the MT1-MMP promoter induced by ETS-1 factor was
+attenuated ELK3 co-transfection. CHIP assay showed the binding of ELK3 on the
+MT1-MMP promoter. MT1-MMP knockdown in the ELK3 knockdowned cells resulted in the
+decrease of tube formation suggesting that MT1-MMP transcriptional repression is 
+required for ELK3-mediated anti-angiogenesis effect. Our data also showed that
+the suppressive effect of ELK3 on the angiogenesis was partly due to the
+inhibitory effect of ELK3 to the ETS-1 transcriptional activity on the MT1-MMP
+promoter rather than direct suppression of ELK3 on the target gene, since the
+expression level of co-repressor Sin3A is low in endothelial cells. Our results
+suggest that ELK3 plays a negative role of VEGF-induced angiogenesis through
+indirectly inhibiting ETS-1 function.
+
+PMCID: PMC3979996
+PMID: 24719561  [PubMed - indexed for MEDLINE]
+
+
+13. Gynecol Oncol. 2014 Jun;133(3):568-74. doi: 10.1016/j.ygyno.2014.03.564. Epub
+2014 Mar 25.
+
+MiR-378 as a biomarker for response to anti-angiogenic treatment in ovarian
+cancer.
+
+Chan JK(1), Kiet TK(2), Blansit K(3), Ramasubbaiah R(4), Hilton JF(5), Kapp
+DS(6), Matei D(4).
+
+Author information: 
+(1)Division of Gynecologic Oncology, Department of Obstetrics, Gynecology, and
+Reproductive Sciences, University of California, San Francisco School of
+Medicine, 1600 Divisadero Street, Box 1702, San Francisco, CA 94143, USA; Palo
+Alto Medical Foundation Research Institute, 795 El Camino Real, Palo Alto, CA
+94301, USA. Electronic address: chanjohn@obgyn.ucsf.edu. (2)Division of
+Gynecologic Oncology, Department of Obstetrics, Gynecology, and Reproductive
+Sciences, University of California, San Francisco School of Medicine, 1600
+Divisadero Street, Box 1702, San Francisco, CA 94143, USA. (3)Division of
+Gynecologic Oncology, Department of Obstetrics, Gynecology, and Reproductive
+Sciences, University of California, San Francisco School of Medicine, 1600
+Divisadero Street, Box 1702, San Francisco, CA 94143, USA; Palo Alto Medical
+Foundation Research Institute, 795 El Camino Real, Palo Alto, CA 94301, USA.
+(4)Department of Epidemiology and Biostatistics, University of California, San
+Francisco School of Medicine, UCSF Helen Diller Family Comprehensive Cancer
+Center, 185 Berry Street, Box 0560, San Francisco, CA 94143, U S A. (5)Department
+of Medicine, Division of Hematology/Oncology, Indiana University School of
+Medicine, 980 W. Walnut Street, R3 C218D, Indianapolis, IN 46202, U S A.
+(6)Department of Radiation Oncology, Stanford University School of Medicine,
+Stanford Cancer Center, 875 Blake Wilbur Drive, Stanford, CA 94305, USA.
+
+OBJECTIVE: To determine the role of miR-378 as a biomarker for anti-angiogenic
+therapy response in ovarian cancer.
+METHODS: Expression of miR-378 was analyzed in ovarian cancer cell lines and
+human tumors vs. normal ovarian epithelial cells by qRT-PCR. After miR-378
+transfection in SKOV3 cells, dysregulated genes were identified using microarray.
+Data from The Cancer Genome Atlas (TCGA) was utilized to correlate miR-378
+expression with progression-free survival (PFS) among patients treated with
+anti-angiogenic therapy by using Kaplan-Meier and Cox proportional hazards.
+RESULTS: MiR-378 was overexpressed in ovarian cancer cells and tumors vs. normal 
+ovarian epithelial cells. Overexpressing miR-378 in ovarian cancer cells altered 
+expression of genes associated with angiogenesis (ALCAM, EHD1, ELK3, TLN1),
+apoptosis (RPN2, HIPK3), and cell cycle regulation (SWAP-70, LSM14A, RDX). In the
+TCGA dataset, low vs. high miR-378 expression was associated with longer PFS in a
+subset of patients with recurrent ovarian cancer treated with bevacizumab (9.2
+vs. 4.2months; p=0.04). On multivariate analysis, miR-378 expression was an
+independent predictor for PFS after anti-angiogenic treatment (HR=2.04, 95% CI:
+1.12-3.72; p=0.02). Furthermore, expression levels of two miR-378 targets (ALCAM 
+and EHD1) were associated with PFS in this subgroup of patients who received
+anti-angiogenic therapy (9.4 vs. 4.2months, p=0.04 for high vs. low ALCAM; 7.9
+vs. 2.3months, p<0.01 for low vs. high EHD1).
+CONCLUSIONS: Our data suggest that miR-378 is overexpressed in ovarian cancer
+cells and tumors vs. normal ovarian epithelial cells. MiR-378 and its downstream 
+targets may serve as markers for response to anti-angiogenic therapy.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+PMID: 24680769  [PubMed - indexed for MEDLINE]
+
+
+14. PLoS Genet. 2013 Aug;9(8):e1003622. doi: 10.1371/journal.pgen.1003622. Epub 2013 
+Aug 29.
+
+Comparative anatomy of chromosomal domains with imprinted and non-imprinted
+allele-specific DNA methylation.
+
+Paliwal A(1), Temkin AM, Kerkel K, Yale A, Yotova I, Drost N, Lax S, Nhan-Chang
+CL, Powell C, Borczuk A, Aviv A, Wapner R, Chen X, Nagy PL, Schork N, Do C,
+Torkamani A, Tycko B.
+
+Author information: 
+(1)Institute for Cancer Genetics, Columbia University Medical Center, New York,
+New York, United States of America.
+
+Allele-specific DNA methylation (ASM) is well studied in imprinted domains, but
+this type of epigenetic asymmetry is actually found more commonly at
+non-imprinted loci, where the ASM is dictated not by parent-of-origin but instead
+by the local haplotype. We identified loci with strong ASM in human tissues from 
+methylation-sensitive SNP array data. Two index regions (bisulfite PCR
+amplicons), one between the C3orf27 and RPN1 genes in chromosome band 3q21 and
+the other near the VTRNA2-1 vault RNA in band 5q31, proved to be new examples of 
+imprinted DMRs (maternal alleles methylated) while a third, between STEAP3 and
+C2orf76 in chromosome band 2q14, showed non-imprinted haplotype-dependent ASM.
+Using long-read bisulfite sequencing (bis-seq) in 8 human tissues we found that
+in all 3 domains the ASM is restricted to single differentially methylated
+regions (DMRs), each less than 2kb. The ASM in the C3orf27-RPN1 intergenic region
+was placenta-specific and associated with allele-specific expression of a long
+non-coding RNA. Strikingly, the discrete DMRs in all 3 regions overlap with
+binding sites for the insulator protein CTCF, which we found selectively bound to
+the unmethylated allele of the STEAP3-C2orf76 DMR. Methylation mapping in two
+additional genes with non-imprinted haplotype-dependent ASM, ELK3 and CYP2A7,
+showed that the CYP2A7 DMR also overlaps a CTCF site. Thus, two features of
+imprinted domains, highly localized DMRs and allele-specific insulator occupancy 
+by CTCF, can also be found in chromosomal domains with non-imprinted ASM. Arguing
+for biological importance, our analysis of published whole genome bis-seq data
+from hES cells revealed multiple genome-wide association study (GWAS) peaks near 
+CTCF binding sites with ASM.
+
+PMCID: PMC3757050
+PMID: 24009515  [PubMed - indexed for MEDLINE]
+
+
+15. Cell Struct Funct. 2013 Jul 6;38(2):145-54. Epub 2013 May 24.
+
+Cell density-dependent nuclear accumulation of ELK3 is involved in suppression of
+PAI-1 expression.
+
+Tanaka S(1), Nakao K, Sekimoto T, Oka M, Yoneda Y.
+
+Author information: 
+(1)Department of Frontier Biosciences, Graduate School of Frontier Biosciences,
+Osaka University, Yamada-oka, Suita, Osaka, Japan.
+
+Cell-cell contact regulates the proliferation and differentiation of
+non-transformed cells, e.g., NIH/3T3 cells show growth arrest at high cell
+density. However, only a few reports described the dynamic behavior of
+transcription factors involved in this process. In this study, we showed that the
+mRNA levels of plasminogen activator inhibitor type 1 (PAI-1) decreased
+drastically at high cell density, and that ELK3, a member of the Ets
+transcription factor family, repressed PAI-1 expression. We also demonstrated
+that while ELK3 was distributed evenly throughout the cell at low cell density,
+it accumulated in the nucleus at high cell density, and that binding of DNA by
+ELK3 at the A domain facilitated its nuclear accumulation. Furthermore, we found 
+that ETS1, a PAI-1 activator, occupied the ELK3-binding site within the PAI-1
+promoter at low cell density, while it was released at high cell density. These
+results suggest that at high cell density, the switching of binding of
+transcription factors from ETS1 to ELK3 occurs at a specific binding site of the 
+PAI-1 promoter, leading to the cell-density dependent suppression of PAI-1
+expression.
+
+PMID: 23708702  [PubMed - indexed for MEDLINE]
+
+
+16. J Biol Chem. 2013 Apr 19;288(16):11047-65. doi: 10.1074/jbc.M112.438473. Epub
+2013 Feb 20.
+
+The ETS domain transcription factor ELK1 directs a critical component of growth
+signaling by the androgen receptor in prostate cancer cells.
+
+Patki M(1), Chari V, Sivakumaran S, Gonit M, Trumbly R, Ratnam M.
+
+Author information: 
+(1)Barbara Ann Karmanos Cancer Institute, Detroit, Michigan 48201-2013, USA.
+
+The androgen receptor (AR) is essential for diverse aspects of prostate
+development and function. Molecular mechanisms by which prostate cancer (PC)
+cells redirect AR signaling to genes that primarily support growth are unclear. A
+systematic search for critical AR-tethering proteins led to ELK1, an ETS
+transcription factor of the ternary complex factor subfamily. Although
+genetically redundant, ELK1 was obligatory for AR-dependent growth and clonogenic
+survival in both hormone-dependent PC and castration-recurrent PC cells but not
+for AR-negative cell growth. AR required ELK1 to up-regulate a major subset of
+its target genes that was strongly and primarily enriched for cell growth
+functions. AR functioned as a coactivator of ELK1 by association through its A/B 
+domain, bypassing the classical mechanism of ELK1 activation by phosphorylation
+and without inducing ternary complex target genes. The ELK1-AR synergy per se was
+ligand-independent, although it required ligand for nuclear localization of AR as
+targeting the AR A/B domain to the nucleus recapitulated the action of hormone;
+accordingly, Casodex was a poor antagonist of the synergy. ELK3, the closest
+substitute for ELK1 in structure/function and genome recognition, did not
+interact with AR. ELK1 thus directs selective and sustained gene induction that
+is a substantial and critical component of growth signaling by AR in PC cells.
+The ELK1-AR interaction offers a functionally tumor-selective drug target.
+
+PMCID: PMC3630885
+PMID: 23426362  [PubMed - indexed for MEDLINE]
+
+
+17. Dev Biol. 2013 Feb 15;374(2):255-63. doi: 10.1016/j.ydbio.2012.12.009. Epub 2012 
+Dec 22.
+
+Elk3 is essential for the progression from progenitor to definitive neural crest 
+cell.
+
+Rogers CD(1), Phillips JL, Bronner ME.
+
+Author information: 
+(1)Division of Biology 139-74, California Institute of Technology, Pasadena, CA
+91125, USA.
+
+Elk3/Net/Sap2 (here referred to as Elk3) is an Ets ternary complex
+transcriptional repressor known for its involvement in angiogenesis during
+embryonic development. Although Elk3 is expressed in various tissues, additional 
+roles for the protein outside of vasculature development have yet to be reported.
+Here, we characterize the early spatiotemporal expression pattern of Elk3 in the 
+avian embryo using whole mount in situ hybridization and quantitative RT-PCR and 
+examine the effects of its loss of function on neural crest development. At early
+stages, Elk3 is expressed in the head folds, head mesenchyme, intersomitic
+vessels, and migratory cranial neural crest (NC) cells. Loss of the Elk3 protein 
+results in the retention of Pax7+ precursors in the dorsal neural tube that fail 
+to upregulate neural crest specifier genes, FoxD3, Sox10 and Snail2, resulting in
+embryos with severe migration defects. The results putatively place Elk3
+downstream of neural plate border genes, but upstream of neural crest specifier
+genes in the neural crest gene regulatory network (NC-GRN), suggesting that it is
+critical for the progression from progenitor to definitive neural crest cell.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+PMCID: PMC3558539
+PMID: 23266330  [PubMed - indexed for MEDLINE]
+
+
+18. PLoS One. 2012;7(11):e48656. doi: 10.1371/journal.pone.0048656. Epub 2012 Nov 14.
+
+Increased adipogenesis in cultured embryonic chondrocytes and in adult bone
+marrow of dominant negative Erg transgenic mice.
+
+Flajollet S(1), Tian TV, Huot L, Tomavo N, Flourens A, Holder-Espinasse M, Le
+Jeune M, Dumont P, Hot D, Mallein-Gerin F, Duterque-Coquillaud M.
+
+Author information: 
+(1)CNRS UMR 8161, Institut de Biologie de Lille, Université de Lille Nord de
+France, Institut Pasteur de Lille/IFR142, Lille, France.
+
+In monolayer culture, primary articular chondrocytes have an intrinsic tendency
+to lose their phenotype during expansion. The molecular events underlying this
+chondrocyte dedifferentiation are still largely unknown. Several transcription
+factors are important for chondrocyte differentiation. The Ets transcription
+factor family may be involved in skeletal development. One family member, the Erg
+gene, is mainly expressed during cartilage formation. To further investigate the 
+potential role of Erg in the maintenance of the chondrocyte phenotype, we
+isolated and cultured chondrocytes from the rib cartilage of embryos of
+transgenic mice that express a dominant negative form of Erg (DN-Erg) during
+cartilage formation. DN-Erg expression in chondrocytes cultured for up to 20 days
+did not affect the early dedifferentiation usually observed in cultured
+chondrocytes. However, lipid droplets accumulated in DN-Erg chondrocytes,
+suggesting adipocyte emergence. Transcriptomic analysis using a DNA microarray,
+validated by quantitative RT-PCR, revealed strong differential gene expression,
+with a decrease in chondrogenesis-related markers and an increase in
+adipogenesis-related gene expression in cultured DN-Erg chondrocytes. These
+results indicate that Erg is involved in either maintaining the chondrogenic
+phenotype in vitro or in cell fate orientation. Along with the in vitro studies, 
+we compared adipocyte presence in wild-type and transgenic mice skeletons.
+Histological investigations revealed an increase in the number of adipocytes in
+the bone marrow of adult DN-Erg mice even though no adipocytes were detected in
+embryonic cartilage or bone. These findings suggest that the Ets transcription
+factor family may contribute to the homeostatic balance in skeleton cell
+plasticity.
+
+PMCID: PMC3498236
+PMID: 23155398  [PubMed - indexed for MEDLINE]
+
+
+19. Curr Biol. 2012 Nov 6;22(21):2017-26. doi: 10.1016/j.cub.2012.08.050. Epub 2012
+Oct 11.
+
+Adhesion regulates MAP kinase/ternary complex factor exchange to control a
+proliferative transcriptional switch.
+
+Wozniak MA(1), Cheng CQ, Shen CJ, Gao L, Olarerin-George AO, Won KJ, Hogenesch
+JB, Chen CS.
+
+Author information: 
+(1)Department of Bioengineering, University of Pennsylvania, Philadelphia, PA
+19104, USA.
+
+BACKGROUND: The ternary complex factors (TCFs; Elk1, Net, and Sap-1) are growth
+factor-responsive transcription cofactors of serum response factor (SRF) and are 
+activated by MAP kinase (MAPK) phosphorylation to regulate immediate early gene
+transcription. Although cell adhesion also can regulate immediate early genes and
+proliferation, the mechanism for this effect has remained unexplored.
+RESULTS: Restricting adhesion and spreading of G(0)-synchronized cells on
+substrates with decreasing size of micropatterned islands of fibronectin
+suppressed serum-induced immediate early gene expression and S phase entry.
+Knockdown of Sap-1 decreased expression of the immediate early genes egr1 and fos
+and subsequent proliferation normally present with high adhesion, whereas
+knockdown of Net rescued egr1 and fos expression and proliferation normally
+suppressed by low adhesion. Chromatin immunoprecipitation studies showed
+increased occupancy of egr1 and fos promoters by Sap-1 with high adhesion,
+whereas low adhesion increased Net occupancy. This switch in TCF promoter binding
+was regulated by an adhesion-mediated switch in MAPK activity. Increasing
+adhesion enhanced serum-induced JNK activity while suppressing p38 activity,
+leading to increased Sap-1 phosphorylation and Net dephosphorylation, and
+switching Net with Sap-1 at egr1 and fos promoters to support proliferation.
+Microarray studies confirmed this switch in TCF regulation of proliferative genes
+and uncovered novel gene targets and functions coregulated by Sap-1 and Net.
+CONCLUSIONS: These data demonstrate a key role for the TCFs in adhesion-induced
+transcription and proliferation and reveal a novel MAPK/TCF transcriptional
+switch that controls this process.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+PMCID: PMC3586562
+PMID: 23063436  [PubMed - indexed for MEDLINE]
+
+
+20. J Neurosci. 2012 Mar 21;32(12):4092-101. doi: 10.1523/JNEUROSCI.5048-11.2012.
+
+Variant brain-derived neurotrophic factor Val66Met polymorphism alters
+vulnerability to stress and response to antidepressants.
+
+Yu H(1), Wang DD, Wang Y, Liu T, Lee FS, Chen ZY.
+
+Author information: 
+(1)Department of Neurobiology, Shandong University, Jinan, Shandong, Peoples
+Republic of China.
+
+Brain-derived neurotrophic factor (BDNF) plays important roles in cell survival, 
+neural plasticity, learning, and stress regulation. However, whether the recently
+found human BDNF Val66Met (BDNF(Met)) polymorphism could alter stress
+vulnerability remains controversial. More importantly, the molecular and
+structural mechanisms underlying the interaction between the BDNF(Met)
+polymorphism and stress are unclear. We found that heterozygous BDNF(+/Met) mice 
+displayed hypothalamic-pituitary-adrenal axis hyperreactivity, increased
+depressive-like and anxiety-like behaviors, and impaired working memory compared 
+with WT mice after 7 d restraint stress. Moreover, BDNF(+/Met) mice exhibited
+more prominent changes in BDNF levels and apical dendritic spine density in the
+prefrontal cortex and amygdala after stress, which correlated with the impaired
+working memory and elevated anxiety-like behaviors. Finally, the depressive-like 
+behaviors in BDNF(+/Met) mice could be selectively rescued by acute
+administration of desipramine but not fluoxetine. These data indicate selective
+behavioral, molecular, and structural deficits resulting from the interaction
+between stress and the human genetic BDNF(Met) polymorphism. Importantly,
+desipramine but not fluoxetine has antidepressant effects on BDNF(+/Met) mice,
+suggesting that specific classes of antidepressant may be a more effective
+treatment option for depressive symptoms in humans with this genetic variant
+BDNF.
+
+PMCID: PMC3319323
+PMID: 22442074  [PubMed - indexed for MEDLINE]
+
+
+21. Front Mol Neurosci. 2012 Feb 10;5:8. doi: 10.3389/fnmol.2012.00008. eCollection
+2012.
+
+Role of transcription factors in peripheral nerve regeneration.
+
+Patodia S(1), Raivich G.
+
+Author information: 
+(1)Centre for Perinatal Brain Protection and Repair, University College London
+London, UK.
+
+Following axotomy, the activation of multiple intracellular signaling cascades
+causes the expression of a cocktail of regeneration-associated transcription
+factors which interact with each other to determine the fate of the injured
+neurons. The nerve injury response is channeled through manifold and parallel
+pathways, integrating diverse inputs, and controlling a complex transcriptional
+output. Transcription factors form a vital link in the chain of regeneration,
+converting injury-induced stress signals into downstream protein expression via
+gene regulation. They can regulate the intrinsic ability of axons to grow, by
+controlling expression of whole cassettes of gene targets. In this review, we
+have investigated the functional roles of a number of different transcription
+factors - c-Jun, activating transcription factor 3, cAMP response element binding
+protein, signal transducer, and activator of transcription-3, CCAAT/enhancer
+binding proteins ß and d, Oct-6, Sox11, p53, nuclear factor
+kappa-light-chain-enhancer of activated B cell, and ELK3 - in peripheral nerve
+regeneration. Studies involving use of conditional mutants, microarrays, promoter
+region mapping, and different injury paradigms, have enabled us to understand
+their distinct as well as overlapping roles in achieving anatomical and
+functional regeneration after peripheral nerve injury.
+
+PMCID: PMC3277281
+PMID: 22363260  [PubMed]
+
+
+22. Clin Calcium. 2011 Jun;21(6):813-9. doi: CliCa1106813819.
+
+[Joint morphogenesis and development of permanent articular cartilage].
+
+[Article in Japanese]
+
+Ohta Y(1), Iwamoto M.
+
+Author information: 
+(1)Department of Surgery, The Children's Hospital of Philadelphia Research
+Institute, PA, USA.
+
+During limb skeletogenesis progenitor mesenchymal cells aggregate at specific
+times and sites to form continuous precartilaginous condensations. With time the 
+condensations undergo chondrogenesis and give rise to cartilaginous anlagen that 
+exhibit incipient synovial joints at each end. A multitude of factors regulates
+subdivision into discrete skeletal elements and the formation, organization,
+morphogenesis and structure of the joints. This review summarizes recent advance 
+of joint morphogenesis and actions of key players of joint and articular
+cartilage formation. In addition, we would like to discuss possible direction to 
+translate basic research findings towards treatment of joint diseases.
+
+PMID: 21628794  [PubMed - indexed for MEDLINE]
+
+
+23. Biochim Biophys Acta. 2010 Aug;1799(8):555-60. doi: 10.1016/j.bbagrm.2010.07.001.
+Epub 2010 Jul 14.
+
+SUMOylation can regulate the activity of ETS-like transcription factor 4.
+
+Kaikkonen S(1), Makkonen H, Rytinki M, Palvimo JJ.
+
+Author information: 
+(1)Institute of Biomedicine/Medical Biochemistry, University of Eastern Finland, 
+Kuopio, FI-70211 Kuopio, Finland.
+
+ETS-like transcription factor 4 (ELK4) (a.k.a. serum response factor accessory
+protein 1) belongs to the ternary complex factor (TCF) subfamily of E twenty-six 
+(ETS) domain transcription factors. Compared to the other TCF subfamily members, 
+ELK1 and ELK3 (NET), there is limited information of the mechanisms regulating
+the ELK4 activity. Here, we show that the ELK4 can be covalently modified
+(SUMOylated) by small ubiquitin-related modifier (SUMO) 1 protein, an important
+regulator of signaling and transcription. SUMOylation of ELK4 was reversed by
+SUMO-specific proteases (SENP) 1 and 2 and stimulated by SUMO E3 ligase PIAS3.
+Conserved lysine residue 167 that is located in the NET inhibitory domain of ELK4
+was identified as the main site of SUMO-1 conjugation. Interestingly, mutation of
+the K167 disrupting the SUMOylation markedly enhanced the transcriptional
+activity of the ELK4, but weakened its repressive function on c-fos promoter. In 
+conclusion, our results suggest that covalent modification by SUMO-1 can regulate
+the activity of ELK4, contributing to the transcriptional repression by the ELK4.
+
+Copyright © 2010 Elsevier B.V. All rights reserved.
+
+PMID: 20637912  [PubMed - indexed for MEDLINE]
+
+
+24. J Immunol. 2010 Jul 15;185(2):1082-92. doi: 10.4049/jimmunol.1000472. Epub 2010
+Jun 16.
+
+Ternary complex factors SAP-1 and Elk-1, but not net, are functionally equivalent
+in thymocyte development.
+
+Costello P(1), Nicolas R, Willoughby J, Wasylyk B, Nordheim A, Treisman R.
+
+Author information: 
+(1)Transcription Laboratory, Cancer Research UK London Research Institute,
+Lincoln's Inn Fields Laboratories, London, United Kingdom.
+
+The ternary complex factors (TCFs; SAP-1, Elk-1, and Net) are serum response
+factor cofactors that share many functional properties and are coexpressed in
+many tissues. SAP-1, the predominant thymus TCF, is required for thymocyte
+positive selection. In this study, we assessed whether the different TCFs are
+functionally equivalent. Elk-1 deletion, but not the hypomorphic Net(delta)
+mutation, exacerbated the SAP-1 positive selection phenotype, but triply
+deficient thymocytes were no more defective than SAP-1(-/-) Elk-1(-/-) cells.
+Inactivation of the other TCFs did not affect SAP-1-independent processes,
+including beta-selection, regulatory T cell selection, and negative selection,
+although reduced marginal zone B cells were observed in SAP-1(-/-) Elk-1(-/-)
+animals. Ectopic expression of Elk-1, but not Net, rescued positive selection of 
+SAP-1(-/-) thymocytes; thus, SAP-1 and Elk-1 are functionally equivalent in this 
+system, and the SAP-1 null selection phenotype reflects only its high expression 
+in the thymus. Array analysis of TCR-stimulated double-positive cells identified 
+SAP-1-dependent inducible genes whose transcription was further impaired in
+SAP-1(-/-) Elk-1(-/-) cells; thus, these genes, which include Egr-1 and Egr-2,
+represent candidate mediators of positive selection. Chromatin
+immunoprecipitation revealed subtly different promoter targeting between the
+different TCFs. Ectopic expression of Egr-1 restored positive selection in SAP-1 
+null thymocytes, establishing it (and possibly other Egr family members) as the
+major effector for ERK-SAP-1 signaling in thymocyte positive selection.
+
+PMID: 20554967  [PubMed - indexed for MEDLINE]
+
+
+25. J Cell Physiol. 2010 Sep;224(3):734-42. doi: 10.1002/jcp.22175.
+
+Expression profiling of ETS and MMP factors in VEGF-activated endothelial cells: 
+role of MMP-10 in VEGF-induced angiogenesis.
+
+Heo SH(1), Choi YJ, Ryoo HM, Cho JY.
+
+Author information: 
+(1)Department of Biochemistry, School of Dentistry, Kyungpook National
+University, Daegu, Korea.
+
+In the process of angiogenesis, working of many transcription factors at the
+proper time is important to activate angiogenesis-related genes such as cytokine,
+matrix protease and adhesion molecules. In this study, we searched for Ets
+transcription factors and matrix metalloproteinases (MMPs) that respond to VEGF
+in endothelial cells. We first analyzed the expression of 27 human Ets factors
+and 15 human MMPs in VEGF-treated human umbilical vein endothelial cells (HUVEC) 
+using quantitative RT-PCR. The most abundant Ets factors in HUVEC were ETS-1,
+Fli-1, ERP/NET/ELK3, and ERG. MMP-1, -2, -10, -11, -14, -15, and -16 were also
+detected in HUVEC. We also found that ETV-1, Fli-1, ERG, MMP-1, -3, -7, -8, -9,
+-10, -13, and -19 expression is up-regulated more than 1.5-fold in HUVEC after 2 
+h of VEGF treatment. In addition, the expression of MMP-10 induced by VEGF
+remained twofold higher for 24 h compared to non-treated control. The elevation
+of MMP10 mRNA and protein levels was confirmed to be both time- and
+dosage-dependent. In addition, MMP-10 transcription was mediated by Ets-1 but not
+ERP/NET/ELK3. The inhibition of PI3K and MAPK inhibited VEGF-induced MMP-10
+expression. Furthermore, transfection of MMP-10 siRNA inhibited VEGF-induced
+migration and tube formation in HUVEC, and it also inhibited vessel formation in 
+matrigel plugs in vivo. In conclusion, our study demonstrated induction of MMP-10
+by VEGF in HUVEC and supports an angiogenic role for MMP-10 in response to VEGF
+stimulation in vitro and in vivo.
+
+(c) 2010 Wiley-Liss, Inc.
+
+PMID: 20432469  [PubMed - indexed for MEDLINE]
+
+
+26. J Biol Chem. 2010 Jul 9;285(28):21223-32. doi: 10.1074/jbc.M110.121723. Epub 2010
+Apr 28.
+
+Involvement of net and Hif1alpha in distinct yet intricately linked
+hypoxia-induced signaling pathways.
+
+Serchov T(1), Dubois-Pot-Schneider H, Charlot C, Rösl F, Wasylyk B.
+
+Author information: 
+(1)Unité Mixte de Recherche 7104 Centre National de la Recherche Scientifique,
+Université de Strasbourg-U, Institut de Génétique et de Biologie Moléculaire et
+Cellulaire, 67404 Illkirch Cedex, Graffenstaden, France.
+
+The present study compares negative Ets transcription factor (Net) and
+hypoxia-inducible factor 1alpha (HIF1alpha) regulation by hypoxia. Their protein 
+stabilities are differently regulated by hypoxia, defining three periods in the
+kinetics: normoxia (high Net levels and low HIF1alpha levels), early hypoxia
+(high levels of Net and HIF1alpha), and late hypoxia (degradation of Net and
+HIF1alpha). Modulators of prolyl hydroxylase domain protein (PHD) activity induce
+a mobility shift of Net, similar to HIF1alpha, suggesting that post-translational
+modifications of both factors depend on PHD activity. The three PHDs have
+different roles in the regulation of Net protein levels; PHD1 and PHD3 are
+involved in the stabilization of Net, whereas PHD2 controls its degradation in
+late hypoxia. Net physically interacts with PHD2 in hypoxia, whereas PHD1 and
+PHD3 bind to Net in normoxia and hypoxia. Under the same conditions, PHD2 and
+PHD3 regulate both HIF1alpha stabilization in early hypoxia and its degradation
+at late hypoxia, whereas PHD1 is involved in HIF1alpha degradation in late
+hypoxia. We describe interconnections between the regulation of both Net and
+HIF1alpha at the protein level. Evidence is provided for a direct physical
+interaction between Net and HIF1alpha and indirect transcriptional regulation
+loops that involve the PHDs. Taken together our results indicate that Net and
+HIF1alpha are components of distinct signaling pathways that are intricately
+linked.
+
+PMCID: PMC2898408
+PMID: 20427288  [PubMed - indexed for MEDLINE]
+
+
+27. Mol Cell Neurosci. 2010 Jun;44(2):165-77. doi: 10.1016/j.mcn.2010.03.005. Epub
+2010 Mar 18.
+
+The expression of ELK transcription factors in adult DRG: Novel isoforms,
+antisense transcripts and upregulation by nerve damage.
+
+Kerr N(1), Pintzas A, Holmes F, Hobson SA, Pope R, Wallace M, Wasylyk C, Wasylyk 
+B, Wynick D.
+
+Author information: 
+(1)Department of Physiology and Pharmacology, School of Medical Sciences,
+University of Bristol, Bristol BS81TD, UK.
+
+ELK transcription factors are known to be expressed in a number of regions in the
+nervous system. We show by RT-PCR that the previously described Elk1,
+Elk3/Elk3b/Elk3c and Elk4 mRNAs are expressed in adult dorsal root ganglia (DRG),
+together with the novel alternatively spliced isoforms Elk1b, Elk3d and
+Elk4c/Elk4d/Elk4e. These isoforms are also expressed in brain, heart, kidney and 
+testis. In contrast to Elk3 protein, the novel Elk3d isoform is cytoplasmic,
+fails to bind ETS binding sites and yet can activate transcription by an indirect
+mechanism. The Elk3 and Elk4 genes are overlapped by co-expressed Pctk2 (Cdk17)
+and Mfsd4 genes, respectively, with the potential formation of Elk3/Pctaire2 and 
+Elk4/Mfsd4 sense-antisense mRNA heteroduplexes. After peripheral nerve injury the
+Elk3 mRNA isoforms are each upregulated approximately 2.3-fold in DRG (P<0.005), 
+whereas the natural antisense Pctaire2 isoforms show only a small increase (21%, 
+P<0.01) and Elk1 and Elk4 mRNAs are unchanged.
+
+2010 Elsevier Inc. All rights reserved.
+
+PMCID: PMC2862884
+PMID: 20304071  [PubMed - indexed for MEDLINE]
+
+
+28. Carcinogenesis. 2009 Aug;30(8):1433-42. doi: 10.1093/carcin/bgp129. Epub 2009 May
+29.
+
+Increased PEA3/E1AF and decreased Net/Elk-3, both ETS proteins, characterize
+human NSCLC progression and regulate caveolin-1 transcription in Calu-1 and
+NCI-H23 NSCLC cell lines.
+
+Sloan KA(1), Marquez HA, Li J, Cao Y, Hinds A, O'Hara CJ, Kathuria S, Ramirez MI,
+Williams MC, Kathuria H.
+
+Author information: 
+(1)Pulmonary Center, Boston University School of Medicine, Boston, MA 02118, USA.
+kasloan@bu.edu
+
+Caveolin-1 protein has been called a 'conditional tumor suppressor' because it
+can either suppress or enhance tumor progression depending on cellular context.
+Caveolin-1 levels are dynamic in non-small-cell lung cancer, with increased
+levels in metastatic tumor cells. We have shown previously that transactivation
+of an erythroblastosis virus-transforming sequence (ETS) cis-element enhances
+caveolin-1 expression in a murine lung epithelial cell line. Based on high
+sequence homology between the murine and human caveolin-1 promoters, we proposed 
+that ETS proteins might regulate caveolin-1 expression in human lung
+tumorigenesis. We confirm that caveolin-1 is not detected in well-differentiated 
+primary lung tumors. Polyoma virus enhancer activator 3 (PEA3), a pro-metastatic 
+ETS protein in breast cancer, is expressed at low levels in well-differentiated
+tumors and high levels in poorly differentiated tumors. Conversely, Net, a known 
+ETS repressor, is expressed at high levels in the nucleus of well-differentiated 
+primary tumor cells. In tumor cells in metastatic lymph node sites, caveolin-1
+and PEA3 are highly expressed, whereas Net is now expressed in the cytoplasm. We 
+studied transcriptional regulation of caveolin-1 in two human lung cancer cell
+lines, Calu-1 (high caveolin-1 expressing) and NCI-H23 (low caveolin-1
+expressing). Chromatin immunoprecipitation-binding assays and small interfering
+RNA experiments show that PEA3 is a transcriptional activator in Calu-1 cells and
+that Net is a transcriptional repressor in NCI-H23 cells. These results suggest
+that Net may suppress caveolin-1 transcription in primary lung tumors and that
+PEA3 may activate caveolin-1 transcription in metastatic lymph nodes.
+
+PMCID: PMC2718075
+PMID: 19483189  [PubMed - indexed for MEDLINE]
+
+
+29. Tohoku J Exp Med. 2008 Oct;216(2):139-47.
+
+Growth inhibitory effect of the ternary complex factor Net on human pancreatic
+carcinoma cell lines.
+
+Li B(1), Ni P, Zhu Q, Cao H, Xu H, Zhang S, Au C, Zhang Y.
+
+Author information: 
+(1)Department of Gastroenterology, Ruijin Hospital, Shanghai Jiaotong University 
+School of Medicine, Shanghai, PR China.
+
+Pancreatic carcinoma is one of the most aggressive malignancies and carries the
+most dismal prognoses of all cancers. A better understanding of the genes
+involving in tumor development may allow us to tackle this rapidly progressive
+disease. The Net gene belongs to the ternary complex transcription factor (TCF)
+family and is regulated by the Ras/mitogen-activated protein kinase-signaling
+pathway. Under basal conditions, Net shows strong repressing function on
+transcription of proto-oncogene gene c-fos. Moreover, the lower expression of Net
+has been noted in some carcinoma cells, such as cervical cancer. To study the
+effect of Net on c-fos expression and its potential role in the growth of
+pancreatic carcinoma, we developed a recombinant plasmid, a pEGFP-N1-Net, which
+codes for Net-EGFP fusion proteins, and stably transfected it into BxPC-3 human
+pancreatic carcinoma cells. Using stable transformants, we were able to show that
+overexpression of Net decreased the expression of c-fos and inhibited pancreatic 
+cancer cell proliferation. Cell cycle analysis demonstrated that Net
+overexpression inhibited cell cycle progression. These findings suggested that
+loss of Net repression could augment c-fos expression and further trigger
+neoplastic cell proliferation, which was involved in the pathogenesis of
+pancreatic cancer. Therefore, Net might be a potential target for the treatment
+of c-fos-positive pancreatic cancer.
+
+PMID: 18832796  [PubMed - indexed for MEDLINE]
+
+
+30. Cancer Res. 2008 Mar 1;68(5):1275-83. doi: 10.1158/0008-5472.CAN-07-2674.
+
+Inhibition of the Ras-Net (Elk-3) pathway by a novel pyrazole that affects
+microtubules.
+
+Wasylyk C(1), Zheng H, Castell C, Debussche L, Multon MC, Wasylyk B.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire, Centre
+National de la Recherche Scientifique/Institut National de la Sante et de la
+Recherche Medicale/Université Louis Pasteur, Illkirch Cedex, France.
+boh@igbmc.u-strasbg.fr
+
+Net (Elk-3/SAP-2/Erp) is a transcription factor that is phosphorylated and
+activated by the Ras-extracellular signal-regulated kinase (Erk) signaling
+pathway and is involved in wound healing, angiogenesis, and tumor growth. In a
+cell-based screen for small molecule inhibitors of Ras activation of Net
+transcriptional activity, we identified a novel pyrazole, XRP44X. XRP44X inhibits
+fibroblast growth factor 2 (FGF-2)-induced Net phosphorylation by the Ras-Erk
+signaling upstream from Ras. It also binds to the colchicine-binding site of
+tubulin, depolymerizes microtubules, stimulates cell membrane blebbing, and
+affects the morphology of the actin skeleton. Interestingly, Combretastin-A4,
+which produces similar effects on the cytoskeleton, also inhibits FGF-2 Ras-Net
+signaling. This differs from other classes of agents that target microtubules,
+which have either little effect (vincristine) or no effect (docetaxel and
+nocodazole) on the Ras-Net pathway. XRP44X inhibits various cellular properties, 
+including cell growth, cell cycle progression, and aortal sprouting, similar to
+other molecules that bind to the tubulin colchicine site. XRP44X has the
+potentially interesting property of connecting two important pathways involved in
+cell transformation and may thereby represent an interesting class of molecules
+that could be developed for cancer treatment.
+
+PMID: 18316589  [PubMed - indexed for MEDLINE]
+
+
+31. Oncogene. 2008 Feb 21;27(9):1333-41. Epub 2007 Aug 20.
+
+The ternary complex factor Net/Elk-3 participates in the transcriptional response
+to hypoxia and regulates HIF-1 alpha.
+
+Gross C(1), Dubois-Pot H, Wasylyk B.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/ULP, Illkirch Cedex, France.
+
+The ternary complex factor Net/Elk3 is downregulated in hypoxia and participates 
+in the induction by hypoxia of several genes, including c-fos, vascular
+endothelial growth factor and egr-1. However, the global role of Net in hypoxia
+remains to be elucidated. We have identified, in a large-scale analysis of RNA
+expression using microarrays, more than 370 genes that are regulated by Net in
+hypoxia. In order to gain insights into the role of Net in hypoxia, we have
+analysed in parallel the genes regulated by HIF-1alpha, the classical factor
+involved in the response to hypoxia. We identified about 190 genes that are
+regulated by HIF-1alpha in hypoxia. Surprisingly, when we compare the genes
+induced by hypoxia that require either Net or HIF-1alpha, the majority are the
+same (75%), suggesting that the functions of both factors are closely linked.
+Interestingly, in hypoxia, Net regulates the expression of several genes known to
+control HIF-1alpha stability, including PHD2, PHD3 and Siah2, suggesting that Net
+regulates the stability of HIF-1alpha. We found that inhibition of Net by RNAi
+leads to decreased HIF-1alpha expression at the protein level in hypoxia. These
+results indicate that Net participates in the transcriptional response to hypoxia
+by regulation of HIF-1alpha protein stability.
+
+PMID: 17704799  [PubMed - indexed for MEDLINE]
+
+
+32. Mol Cell Biol. 2007 Jun;27(11):4133-41. Epub 2007 Apr 2.
+
+The ternary complex factor net is downregulated by hypoxia and regulates
+hypoxia-responsive genes.
+
+Gross C(1), Buchwalter G, Dubois-Pot H, Cler E, Zheng H, Wasylyk B.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/ULP, 1 rue Laurent Fries, BP 10142, Illkirch cedex 67404, France.
+
+Hypoxia and the Net ternary complex factor (TCF) regulate similar processes
+(angiogenesis, wound healing, and cellular migration) and genes (PAI-1, c-fos,
+erg-1, NOS-2, HO-1, and vascular endothelial growth factor genes), suggesting
+that they are involved in related pathways. We show here that hypoxia regulates
+Net differently from the other TCFs and that Net plays a role in the hypoxic
+response in vivo in mice and in cells. Hypoxia induces Net depletion from target 
+promoters, nuclear export, ubiquitylation, and proteasomal degradation. Key
+mediators of the hypoxic response, the prolyl-4-hydroxylases containing domain
+proteins (PHDs), regulate Net. PHD downregulation in normoxia leads to Net
+degradation, and PHD overexpression delays Net downregulation by hypoxia. Net
+inhibition by RNA interference or mutation leads to altered regulation by hypoxia
+of the Net targets PAI-1, c-fos, and egr-1. We propose that hypoxia stimulates
+transcription of target promoters through removal of the repressor function of
+Net. Interestingly, the hematocrit response to a chemical inducer of hypoxia-like
+responses (cobalt chloride) is strongly altered in Net mutant mice. Our results
+show that the Net TCF is part of the biological response to hypoxia, adding a new
+component to an important pathological and physiological process.
+
+PMCID: PMC1900010
+PMID: 17403894  [PubMed - indexed for MEDLINE]
+
+
+33. Cancer Biol Ther. 2007 Jan;6(1):76-82.
+
+Profile of Ets gene expression in human breast carcinoma.
+
+He J(1), Pan Y, Hu J, Albarracin C, Wu Y, Dai JL.
+
+Author information: 
+(1)Department of Molecular Pathology, Unit 951, The University of Texas MD
+Anderson Cancer Center, 25CR4.2026, 7435 Fannin St, Houston, Texas 77054, USA.
+
+Comment in
+    Cancer Biol Ther. 2007 Jan;6(1):83-4.
+
+BACKGROUND: Ets genes encode a family of transcription factors that play key
+roles in cell proliferation, differentiation and apoptosis. Fusions of Ets genes 
+with other targets have been described in Ewing's sarcoma, chronic myelomonocytic
+leukemia and more recently prostate carcinoma. Ets expression in breast carcinoma
+has not been comprehensively studied, and is the focus of this study.
+METHODS: RT-Q-PCR was used to determine the expression of Ets genes in a panel of
+ten common breast cancer cell lines, two immortalized normal breast epithelial
+cell lines, and one primary culture of human mammary epithelial cells. Ets with
+altered expression in cancer cell lines were verified in primary breast tumors.
+RESULTS: Transcripts of 21 of the 27 Ets genes were detected in either normal or 
+cancer cells. Of the 21 detectable genes, 14 were expressed at a similar level in
+both normal and breast cancer cell lines. Four genes, Ehf, Elf3, Elf5 and Pdef,
+were expressed at higher levels in breast cancer cells than normal epithelials.
+Surprisingly, the expression of Elk3, Etsl and Flil was repressed in breast
+cancer cells. The protein status of Ehf, Elf3, Pdef, Elk3, Etsl and Flil,
+strongly correlated with the transcript data, suggesting that Ets expression is
+regulated primarily at the transcriptional level. Similarly, Elf3, Pdef and Tel2 
+were overexpressed, while Elk3, Etsl and Flil were under-expressed in primary
+breast tumor specimens in comparison with normal mammary tissues.
+CONCLUSIONS: Our study identified a subset of Ets genes with altered expression
+in breast carcinoma, implicating their roles in mammary tumorigenesis. While the 
+Ets over-expression pattern is useful to uncover recurrent genetic alterations
+involving Ets genes, the repressed expression of several Ets genes suggests that 
+some Ets proteins may play suppressor roles during breast cancer progression. Our
+results warrant detailed studies of individual Ets activity during mammary gland 
+neoplasia.
+
+PMID: 17172821  [PubMed - indexed for MEDLINE]
+
+
+34. Eur J Neurol. 2006 Dec;13(12):1324-32.
+
+Gene expression profiling in the human middle cerebral artery after cerebral
+ischemia.
+
+Vikman P(1), Edvinsson L.
+
+Author information: 
+(1)Department of Experimental Vascular Research, Institution of Medicine, Lund
+University, Lund, Sweden. petter.vikman@med.lu.se
+
+We have investigated the gene expression in human middle cerebral artery (MCA)
+after ischemia. Ischemic stroke affects the perfusion in the affected area and
+experimental cerebral ischemia results in upregulation of vasopressor receptors
+in the MCA leading to the ischemic area. We obtained human MCA samples
+distributing to the ischemic area, 7-10 days post-stroke. The gene expression was
+examined with real-time polymerase chain reaction (PCR) and microarray, proteins 
+were studied with immunohistochemistry. We investigated genes previously shown to
+be upregulated in animal models of cerebral ischemia (e.g. ET(A), ET(B), AT1,
+AT2, and 5-HT(2A/1B/1D)). Their mRNA expression was increased compared with
+controls, consistent with findings in experimental stroke. Immunohistochemistry
+showed upregulation of the receptors localized on the smooth muscle cells. The
+gene expression was profiled with microarray and seven genes chosen for further
+investigation with real-time PCR; ELK3, LY64, Metallothionin IG, POU3F4, Actin
+alpha2, RhoA and smoothelin. Six of these were regulated the same way when
+confirming array expression with real-time PCR. Gene expression studies in the
+human MCA leading to the ischemic region is similar to that seen after MCA
+occlusion in rats. We found new genes that support the dynamic changes that occur
+in the MCA distributing to the ischemic region.
+
+PMID: 17116215  [PubMed - indexed for MEDLINE]
+
+
+35. Virology. 2006 Sep 15;353(1):1-5. Epub 2006 Jul 24.
+
+Adenovirus-induced alterations in host cell gene expression prior to the onset of
+viral gene expression.
+
+Granberg F(1), Svensson C, Pettersson U, Zhao H.
+
+Author information: 
+(1)Department of Genetics and Pathology, Rudbeck Laboratory, Uppsala University, 
+SE-751 85 Uppsala, Sweden.
+
+In this report, we have studied gene expression profiles in human primary lung
+fibroblasts (IMR-90) during the very early phase of an adenovirus infection.
+Eight out of twelve genes with known functions encoded transcription factors
+linked to two major cellular processes; inhibition of cell growth (ATF3, ATF4,
+KLF4, KLF6 and ELK3) and immune response (NR4A1 and CEBPB), indicating that the
+earliest consequences of an adenovirus infection are growth arrest and induction 
+of an immune response. A time course analysis showed that the induction of these 
+immediate-early response genes was transient and suppressed after the onset of
+the adenovirus early gene expression.
+
+PMID: 16860366  [PubMed - indexed for MEDLINE]
+
+
+36. Gynecol Oncol. 2006 Nov;103(2):654-60. Epub 2006 Jun 22.
+
+Differential expression profiling of genes in a complete hydatidiform mole using 
+cDNA microarray analysis.
+
+Kim SJ(1), Lee SY, Lee C, Kim I, An HJ, Kim JY, Baek KH, Kim EJ, Kim JM, Lee JB, 
+Lee JW, Jung WW, Chun T, Oh YK.
+
+Author information: 
+(1)Comprehensive Gynecologic Cancer Center, CHA General Hospital, Kyonggi-Do,
+South Korea.
+
+OBJECTIVES: To gain a better understanding of the genes involved in the
+pathogenesis of gestational trophoblastic diseases, we evaluated the genome-wide 
+expression levels of genes in complete hydatidiform mole (H-mole) as compared to 
+normal placenta using cDNA microarray technique.
+METHODS: The expression profiles of complete H-mole tissues were compared with
+those of normal placenta using cDNA microarray technique. The data obtained from 
+10,305 human genes were normalized by the print-tip-based LOWESS method.
+Significance analysis of microarray (SAM) was used to identify genes with
+statistically significant changes in expression. The expression levels of genes
+which showed significant differences between normal early placenta and complete
+H-mole tissues were further confirmed by RT-PCR.
+RESULTS: A cDNA microarray analysis consisting of 10,305 human genes revealed
+significant changes in the expression of 213 genes, with 91 genes being
+upregulated and 122 being downregulated. SAM revealed significant changes in gene
+expression, including those associated with signal transduction, cell structure, 
+transcription, and apoptosis. Further RT-PCR analysis of altered gene expression 
+in mole tissues supported the microarray analysis results. We confirmed the
+upregulation of TLE4, CAPZA1, PRSS25, RNF130, and USP1 in complete H-mole
+tissues. Moreover, our study provides the first evidence that ELK3, LAMA3, LNK,
+STAT2, and TNFRSF25 are downregulated in complete H-mole compared to normal early
+placenta tissues.
+CONCLUSIONS: These findings provide a large body of information regarding gene
+expression profiles associated with complete H-mole tumorigenesis and allow the
+identification of potential targets for tumor prevention or therapy.
+
+PMID: 16797685  [PubMed - indexed for MEDLINE]
+
+
+37. Breast Cancer Res Treat. 2006 Oct;99(3):351-64. Epub 2006 Apr 1.
+
+Capsaicin-induced inactivation of sensory neurons promotes a more aggressive gene
+expression phenotype in breast cancer cells.
+
+Erin N(1), Zhao W, Bylander J, Chase G, Clawson G.
+
+Author information: 
+(1)Department of Pathology, Gittlen Cancer Research Foundation, Hershey Medical
+Center, H059, Pennsylvania State University, 500 University drive, Hershey, PA
+17033, USA.
+
+Capsaicin-induced inactivation of sensory neurons has been reported to enhance
+metastasis of a murine breast cancer cell line, specifically enhancing myocardial
+metastases. Here we characterized changes in gene expression patterns in primary 
+tumors which developed in capsaicin-treated vs. control mice. We identified a
+small cohort of genes (17) which all showed significant decreases in expression
+levels. All of the identified genes have been linked to cell growth,
+differentiation, and/or cancer progression. Three representative genes, Caspase-7
+(an executor of apoptosis), ADAM-10 (A Disintegrin and Metalloprotease), and
+Elk-3 (a transcriptional repressor of the ternary factor subfamily of the Ets
+factors) were further investigated. All three showed dramatic downregulation at
+the protein level in primary tumors from capsaicin-treated animals compared with 
+control (vehicle-treated) animals, and their expression was also lost in cell
+culture. Elk-3 and Caspase-7 were not expressed in vitro in cultured cell lines, 
+suggesting that their expression was induced by the tumor microenvironment. Loss 
+of Caspase-7 expression can be expected to result in loss of function of
+apoptotic pathways. At first glance, loss of ADAM-10 expression would be expected
+to result in decreased invasive capability, due to loss of matrix metalloprotease
+activity. However, just the opposite appears to be true. We found that ADAM-10
+actually hydrolyzes Substance P. Specifically ADAM-10 produces the same
+growth-inhibitory products from Substance P (i.e., SP (1-7)) that Neprilysin
+does, so that loss of ADAM-10 expression actually results in loss of production
+of growth inhibitory peptides from Substance P. Similarly, ADAM-10 also
+efficiently hydrolyzes Calcitonin Gene-Related Peptide, which may act in concert 
+with Substance P. Finally, overactivity of Ets transcriptional suppressor
+functions has been linked to inhibition of tumorigenesis (e.g., Erf and Mef), and
+in addition loss of Elk-3 expression might also be be linked to tumorigenesis via
+loss of its putative anti-inflammatory activities. There is anecdotal evidence in
+the literature to indicate that the rest of the down-regulated genes may also
+contribute to development of a more aggressive phenotype in this breast cancer
+model.
+
+PMID: 16583263  [PubMed - indexed for MEDLINE]
+
+
+38. J Immunol. 2006 Feb 15;176(4):2414-20.
+
+Endotoxin-induced down-regulation of Elk-3 facilitates heme oxygenase-1 induction
+in macrophages.
+
+Chung SW(1), Chen YH, Yet SF, Layne MD, Perrella MA.
+
+Author information: 
+(1)Pulmonary and Critical Care Medicine, Brigham and Women's Hospital, Boston, MA
+02115, USA.
+
+Heme oxygenase-1 (HO-1) is a cytoprotective enzyme that is acutely induced by
+inflammatory stimuli, and the products of HO-1-mediated heme degradation have
+anti-inflammatory properties. In many different pathophysiologic states, the
+up-regulation of HO-1 has been shown to be beneficial in combating the
+detrimental consequences of increased inflammation. Ets transcription factors are
+known to be important mediators of inflammatory responses, and the ternary
+complex factor subfamily of Ets proteins has both transcriptional activation and 
+repression activity. The present study demonstrates that of several ternary
+complex factor subfamily members, only Elk-3 represses HO-1 promoter activity in 
+macrophages. Endotoxin administration to macrophages led to a dose-dependent
+decrease in endogenous Elk-3 mRNA levels, and this reduction in Elk-3 preceded
+the LPS-mediated up-regulation of HO-1 message. Analogous results also occurred
+in lung tissue of mice exposed to endotoxin. Two putative Ets binding sites (EBS1
+and EBS2) are present in the downstream region of the murine HO-1 promoter (bp
+-125 and -93, respectively), and we recently showed that the EBS2 site is
+essential for HO-1 induction by endotoxin. In contrast, the present study
+demonstrates that the repressive effect of Elk-3 on HO-1 promoter activity is
+dependent on the EBS1 site. Taken together, our data reveal that Elk-3 serves as 
+an important repressor of HO-1 gene transcription and contributes to the tight
+control of HO-1 gene regulation in the setting of inflammatory stimuli.
+
+PMID: 16456000  [PubMed - indexed for MEDLINE]
+
+
+39. Mol Cell Biol. 2005 Dec;25(24):10853-62.
+
+The ternary complex factor Net regulates cell migration through inhibition of
+PAI-1 expression.
+
+Buchwalter G(1), Gross C, Wasylyk B.
+
+Author information: 
+(1)Institut de Génétique et Biologie Moléculaire et Cellulaire, CNRS, INSERM,
+ULP, Illkirch, France.
+
+Net, Elk-1, and Sap-1 are members of the ternary complex factor (TCF) subfamily
+of Ets transcription factors. They form ternary complexes with serum response
+factor (SRF) on serum response elements of immediate early genes such as c-fos
+and egr-1 and mediate responses to growth factors and mitogen-activated protein
+kinase signaling. Although the TCFs have been extensively studied as
+intermediates in signaling cascades, surprisingly little is known about their
+different target genes and physiological functions. We report that Net homozygous
+mutant mouse embryonic fibroblasts have a defect in cell migration. This defect
+results at least in part from increased expression of plasminogen activator
+inhibitor type 1 (PAI-1), a serine protease inhibitor (serpin) that controls
+extracellular proteolysis and cell matrix adhesion. The defect in cell migration 
+can be reverted by the addition of a PAI-1 blocking antibody. Net represses PAI-1
+promoter activity and binds to a specific region of the promoter containing Ets
+binding sites in the absence of SRF. We conclude that Net is a negative regulator
+of PAI-1 expression and is thereby involved in cell migration.
+
+PMCID: PMC1316955
+PMID: 16314510  [PubMed - indexed for MEDLINE]
+
+
+40. J Biol Chem. 2005 Dec 9;280(49):40857-66. Epub 2005 Sep 12.
+
+Sp1 is a co-activator with Ets-1, and Net is an important repressor of the
+transcription of CTP:phosphocholine cytidylyltransferase alpha.
+
+Sugimoto H(1), Okamura K, Sugimoto S, Satou M, Hattori T, Vance DE, Izumi T.
+
+Author information: 
+(1)Department of Molecular Biochemistry, Gunma University Graduate School of
+Medicine, Maebashi 371-8511, Japan.
+
+Phosphatidylcholine biosynthesis via the CDP-choline pathway is primarily
+regulated by CTP:phosphocholine cytidylyltransferase (CT) encoded by the Pcyt1a
+and Pcyt1b genes. Previously, we identified an Ets-1-binding site located at
+-49/-47 in the promoter of Pcyt1a as an important transcriptional element
+involved in basal CTalpha transcription (Sugimoto, H., Sugimoto, S., Tatei, K.,
+Obinata, H., Bakovic, M., Izumi, T., and Vance, D. E. (2003) J. Biol. Chem. 278, 
+19716-19722). In this study, we determined whether or not there were other
+important elements and binding proteins for basal CTalpha transcription in the
+Pcyt1a promoter, and if other Ets family proteins bind to the Ets-1-binding site.
+The results indicate the formation of a ternary complex with Ets-1 binding at
+-49/-47 and Sp1 binding at -58/-54 of the Pcyt1a promoter that is important for
+activating CTalpha transcription. When nuclear extracts of COS-7 cells expressing
+various Ets family repressors were incubated with DNA probes, binding of Net to
+the probes was observed. Net dose-dependently depressed the promoter-luciferase
+activity by 98%, even when co-expressed with Ets-1. RNA interference targeting
+Net caused an increase of endogenous CTalpha mRNA. After synchronizing the cell
+cycle in NIH3T3 cells, CTalpha mRNA increased at the S-M phase corresponding to
+an increase of Ets-1 mRNA and a decrease of Net mRNA. These results indicated
+that Net is an important endogenous repressor for CTalpha transcription.
+
+PMID: 16157598  [PubMed - indexed for MEDLINE]
+
+
+41. Physiol Genomics. 2005 Jul 14;22(2):257-67. Epub 2005 May 17.
+
+Gene expression analysis of Tek/Tie2 signaling.
+
+Chen SH(1), Babichev Y, Rodrigues N, Voskas D, Ling L, Nguyen VP, Dumont DJ.
+
+Author information: 
+(1)Division of Molecular and Cellular Biology Research, Sunnybrook and Women's
+Research Institute, Toronto, Ontario, Canada.
+
+The elaboration of the vasculature during embryonic development involves
+restructuring of the early vessels into a more complex vascular network. Of
+particular importance to this vascular remodeling process is the requirement of
+the Tek/Tie2 receptor tyrosine kinase. Mouse gene-targeting studies have shown
+that the Tie2-deficient embryos succumb to embryonic death at midgestation due to
+insufficient sprouting and remodeling of the primary capillary plexus. To
+identify the underlying genetic mechanisms regulating the process of vascular
+remodeling, transcriptomes modulated by Tie2 signaling were analyzed utilizing
+serial analysis of gene expression (SAGE). Two libraries were constructed and
+sequenced using embryonic day 8.5 yolk sac tissues from Tie2 wild-type and the
+Tie2-null littermates. After tag extraction, 45,689 and 45,275 SAGE tags were
+obtained for the Tie2 wild-type and Tie2-null libraries, respectively, yielding a
+total of 21,376 distinct tags. Close to 62% of the tags were uniquely annotated, 
+whereas 10% of the total tags were unknown. Using semiquantitative PCR, the
+differential expression of eight genes was confirmed that included Elk3, an
+important angiogenic switch gene which was upregulated in the absence of Tie2
+signaling. The results of this study provide valuable insight into the potential 
+association between Tie2 signaling and other known angiogenic pathways as well as
+genes that might have novel functions in vascular remodeling.
+
+PMID: 15899944  [PubMed - indexed for MEDLINE]
+
+
+42. DNA Cell Biol. 2005 Jan;24(1):35-42.
+
+Elk3 from hamster--a ternary complex factor with strong transcriptional repressor
+activity.
+
+Hjortoe GM(1), Weilguny D, Willumsen BM.
+
+Author information: 
+(1)Department Molecular Cell Biology, Institute of Molecular Biology, University 
+of Copenhagen, Copenhagen, Denmark.
+
+Elk3 belongs to the Ets family of transcription factors, which are regulated by
+the Ras/mitogen-activated protein kinase-signaling pathway. In the absence of
+Ras, this protein is a strong inhibitor of transcription and may be directly
+involved in regulation of growth by downregulating the transcription of genes
+that are activated during entry into G1. We have isolated the Cricetulus griseus 
+Elk3 gene from the Chinese hamster ovary (CHO) cell line and investigated the
+transcriptional potential of this factor. Transient transfections revealed that, 
+in addition to its regulation of the c-fos promoter, Elk3 from CHO cells seems to
+inhibit other promoters controlling expression of proteins involved in G1/S phase
+progression; Cyclin D1 and DHFR. As has been described for the Elk3 homologs Net 
+(Mouse) and Sap-2 (Human), the results of the present study further indicate that
+hamster Elk3 is a target of the Ras-Raf-MAPK pathway, and cotransfections with
+constitutively active H-ras relieves its negative transcriptional activity. No
+cells stably expressing exogenous Elk3 could be obtained, possibly due to an
+unspecified toxic or growth retarding effect. These findings support a possible
+role for Elk3 in growth regulation and reveal a high degree of homology for this 
+protein across species.
+
+PMID: 15684718  [PubMed - indexed for MEDLINE]
+
+
+43. Radiat Res. 2004 Nov;162(5):547-53.
+
+Hypoxia in the androgen-dependent Shionogi model for prostate cancer at three
+stages.
+
+Skov K(1), Adomat H, Bowden M, Dragowska W, Gleave M, Koch CJ, Woo J, Yapp DT.
+
+Author information: 
+(1)Advanced Therapeutics, BC Cancer Research Centre, Vancouver, British Columbia,
+V5Z 1L3, Canada.
+
+The objective of this study was to investigate a possible relationship between
+androgen status and hypoxia in the Shionogi murine prostate tumor model, which is
+widely used to study the effects of androgen withdrawal on hormone resistance and
+radiation response. Binding of the nitroimidazole hypoxia marker EF5 was assessed
+using the Cy3-tagged monoclonal antibody ELK3-51. Three hours after injection of 
+EF5 (30 mg/kg), tumors from the following three stages were excised:
+androgen-dependent, regressed tumors 7 days after castration, and
+androgen-independent. Half of each tumor was disaggregated for analysis by flow
+cytometry and the remainder was flash frozen. Statistically significant
+differences (P < 0.01) were found between androgen-dependent, regressed and
+androgen-dependent tumors: approximately 30, approximately 2 and approximately
+50% hypoxic cells, respectively. Frozen sections from androgen-dependent tumors
+exhibited highly variable EF5 binding; regressed tumors showed very little or no 
+binding; each section from androgen-dependent tumors showed high levels and
+uniformly distributed binding of EF5. There was no correlation between the degree
+of hypoxia and tumor weight (P > 0.1). The results from this preliminary study
+indicate that hypoxia may play an important role with respect to the timing of
+irradiation in prostate cancer treatments and possibly may be a useful prognostic
+tool. In addition, hypoxia may also be relevant to progression in this disease
+after androgen ablation.
+
+PMID: 15624309  [PubMed - indexed for MEDLINE]
+
+
+44. Cancer Biol Ther. 2004 Nov;3(11):1081-9; discussion 1090-1. Epub 2004 Nov 12.
+
+Identification of novel highly expressed genes in pancreatic ductal
+adenocarcinomas through a bioinformatics analysis of expressed sequence tags.
+
+Cao D(1), Hustinx SR, Sui G, Bala P, Sato N, Martin S, Maitra A, Murphy KM,
+Cameron JL, Yeo CJ, Kern SE, Goggins M, Pandey A, Hruban RH.
+
+Author information: 
+(1)Department of Pathology, The Johns Hopkins Medical Institutions, Baltimore,
+Maryland 21231, USA.
+
+In most microarray experiments, a significant fraction of the differentially
+expressed mRNAs identified correspond to expressed sequence tags (ESTs) and are
+generally discarded from further analyses. We used careful bioinformatics
+analyses to characterize those ESTs that were found to be highly overexpressed in
+a series of pancreatic adenocarcinomas. cDNA was prepared from 60 non-neoplastic 
+samples (normal pancreas [n = 20], normal colon [n = 10], or normal duodenal
+mucosal [n = 30]) and from 64 pancreatic cancers (resected cancers [n = 50] or
+cancer cell lines [n = 14]) and hybridized to the complete Affymetrix Human
+Genome U133 GeneChip(R) set (arrays U133A and B) for simultaneous analysis of
+45,000 fragments corresponding to 33,000 known genes and 6,000 ESTs. The
+GeneExpress(R) software system Fold Change Analysis Tool was used and 60 ESTs
+were identified that were expressed at levels at least 3-fold greater in the
+pancreatic cancers as compared to normal tissues. Searches against the human
+genomic sequence and comparative genomic analysis of human and mouse genomes was 
+carried out using basic local alignment search tools (BLAST), BLASTN, and BLASTX,
+for identifying protein coding genes corresponding to the ESTs. Subsequently, in 
+order to pick the most relevant candidate genes for a more detailed analysis, we 
+looked for domains/motifs in the open reading frames using SMART and Pfam
+programs. We were able to definitively map 43 of the 60 ESTs to known or novel
+genes, and 15 of the ESTs could be localized in close proximity to a gene in the 
+human genome although we were unable to establish that the EST was indeed derived
+from those genes. The differential expression of a subset of genes was confirmed 
+at the protein level by immunohistochemical labeling of tissue microarrays
+(inhibin beta A [INHBA] and CD29) and/or at the transcript level by RT-PCR
+(INHBA, AKAP12, ELK3, FOXQ1, EIF5A2, and EFNA5). We conclude that bioinformatics 
+tools can be used to characterize differentially overexpressed ESTs, and that
+some of these ESTs may represent diagnostically and therapeutically useful
+targets that might be missed using data solely from currently annotated
+databases.
+
+PMID: 15467436  [PubMed - indexed for MEDLINE]
+
+
+45. Biochimie. 2004 Jan;86(1):13-9.
+
+Microdissection, mRNA amplification and microarray: a study of pleural
+mesothelial and malignant mesothelioma cells.
+
+Mohr S(1), Bottin MC, Lannes B, Neuville A, Bellocq JP, Keith G, Rihn BH.
+
+Author information: 
+(1)Institut National de Recherche et de Sécurité, Avenue de Bourgogne, BP27,
+54501 Vandoeuvre, France.
+
+The studies of molecular alterations in tumor cells with microarrays are often
+hampered by inherent tissue heterogeneity. The emergence of Laser Capture
+Microdissection (LCM) allowed us to overcome this challenge since it gives
+selective access to cancer cells that are isolated from their native tissue
+environment. In this report, we microdissected mesothelial cells and malignant
+mesothelioma cells of ex vivo resected specimens using LCM. Amplified RNA from
+mesothelial and mesothelioma microdissected cells allowed us to measure global
+gene expression with 10 K-microarrays in four independent experiments. We
+screened 9850 annotated human genes, 1275 of which have satisfied our data
+analysis requirements. They included 302 overexpressed genes and 160
+downregulated genes in mesothelioma microdissected cells as compared to
+mesothelial microdissected cells. Among them, the expression levels of eight
+genes, namely BF, FTL, IGFBP7, RARRES1, RARRES2, RBP1, SAT, and TXN according to 
+HUGO nomenclature, were increased, whereas six: ALOX5AP, CLNS1A, EIF4A2, ELK3,
+REQ and SYPL, were found to be underexpressed in mesothelioma microdissected
+cells. The ferritin light polypeptide (FTL) gene overexpression was confirmed by 
+real time quantitative PCR. Our approach allowed a comprehensive in situ
+examination of mesothelioma and provided an accurate way to find new marker genes
+that may be useful for diagnosis and treatment of malignant pleural mesothelioma.
+
+PMID: 14987796  [PubMed - indexed for MEDLINE]
+
+
+46. Mol Cell Biol. 2004 Feb;24(3):1132-42.
+
+The tumor suppressor p53 inhibits Net, an effector of Ras/extracellular
+signal-regulated kinase signaling.
+
+Nakade K(1), Zheng H, Ganguli G, Buchwalter G, Gross C, Wasylyk B.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/ULP, 67404 Illkirch cedex, France.
+
+The tumor suppressor function of p53 is linked to its ability to repress gene
+expression, but the mechanisms of specific gene repression are poorly understood.
+We report that wild-type p53 inhibits an effector of the Ras
+oncogene/mitogen-activated protein (MAP) kinase pathway, the transcription factor
+Net. Tumor-associated mutant p53s are less efficient inhibitors. p53 inhibits by 
+preventing phosphorylation of Net by MAP kinases. Loss of p53 in vivo leads to
+increased Net phosphorylation in response to wound healing and UV irradiation of 
+skin. Our results show that p53 can repress specific gene expression by
+inhibiting Net, a factor implicated in cell cycle entry.
+
+PMCID: PMC321436
+PMID: 14729959  [PubMed - indexed for MEDLINE]
+
+
+47. Genes Dev. 2003 Sep 15;17(18):2283-97.
+
+The transcription factor Net regulates the angiogenic switch.
+
+Zheng H(1), Wasylyk C, Ayadi A, Abecassis J, Schalken JA, Rogatsch H, Wernert N, 
+Maira SM, Multon MC, Wasylyk B.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/ULP, 67404 Illkirch, France.
+
+Angiogenesis is fundamental to physiological and pathological processes. Despite 
+intensive efforts, little is known about the intracellular circuits that regulate
+angiogenesis. The transcription factor Net is activated by phosphorylation
+induced by Ras, an indirect regulator of angiogenesis. Net is expressed at sites 
+of vasculogenesis and angiogenesis during early mouse development, suggesting
+that it could have a role in blood vessel formation. We show here that
+down-regulation of Net inhibits angiogenesis and vascular endothelial growth
+factor (VEGF) expression in vivo, ex vivo, and in vitro. Ras-activated
+phosphorylated Net (P-Net) stimulates the mouse VEGF promoter through the -80 to 
+-53 region that principally binds Sp1. P-Net and VEGF are coexpressed in
+angiogenic processes in wild-type mouse tissues and in human tumors. We conclude 
+that Net is a regulator of angiogenesis that can switch to an activator following
+induction by pro-angiogenic molecules.
+
+PMCID: PMC196465
+PMID: 12975317  [PubMed - indexed for MEDLINE]
+
+
+48. J Biol Chem. 2003 Nov 7;278(45):44935-48. Epub 2003 Aug 21.
+
+Single-stranded DNA-binding proteins PURalpha and PURbeta bind to a purine-rich
+negative regulatory element of the alpha-myosin heavy chain gene and control
+transcriptional and translational regulation of the gene expression. Implications
+in the repression of alpha-myosin heavy chain during heart failure.
+
+Gupta M(1), Sueblinvong V, Raman J, Jeevanandam V, Gupta MP.
+
+Author information: 
+(1)Hope Children's Hospital, University of Illinois, Chicago, Illinois 60612,
+USA.
+
+The alpha-myosin heavy chain is a principal molecule of the thick filament of the
+sarcomere, expressed primarily in cardiac myocytes. The mechanism for its
+cardiac-restricted expression is not yet fully understood. We previously
+identified a purine-rich negative regulatory (PNR) element in the first intron of
+the gene, which is essential for its cardiac-specific expression (Gupta, M., Zak,
+R., Libermann, T. A., and Gupta, M. P. (1998) Mol. Cell. Biol. 18, 7243-7258). In
+this study we cloned and characterized muscle and non-muscle factors that bind to
+this element. We show that two single-stranded DNA-binding proteins of the PUR
+family, PURalpha and PURbeta, which are derived from cardiac myocytes, bind to
+the plus strand of the PNR element. In functional assays, PURalpha and PURbeta
+repressed alpha-myosin heavy chain (alpha-MHC) gene expression in the presence of
+upstream regulatory sequences of the gene. However, from HeLa cells an Ets family
+of protein, Ets-related protein (ERP), binds to double-stranded PNR element. The 
+ERP.PNR complex inhibited the activity of the basal transcription complex from
+homologous as well as heterologous promoters in a PNR position-independent
+manner, suggesting that ERP acts as a silencer of alpha-MHC gene expression in
+non-muscle cells. We also show that PUR proteins are capable of binding to
+alpha-MHC mRNA and attenuate its translational efficiency. Furthermore, we show
+robust expression of PUR proteins in failing hearts where alpha-MHC mRNA levels
+are suppressed. Together, these results reveal that (i) PUR proteins participate 
+in transcriptional as well as translational regulation of alpha-MHC expression in
+cardiac myocytes and (ii) ERP may be involved in cardiac-restricted expression of
+the alpha-MHC gene by preventing its expression in non-muscle cells.
+
+PMID: 12933792  [PubMed - indexed for MEDLINE]
+
+
+49. J Biol Chem. 2003 Oct 10;278(41):39572-7. Epub 2003 Jul 31.
+
+Elk-3 is a transcriptional repressor of nitric-oxide synthase 2.
+
+Chen YH(1), Layne MD, Chung SW, Ejima K, Baron RM, Yet SF, Perrella MA.
+
+Author information: 
+(1)Pulmonary and Critical Care Division, Brigham and Women's Hospital and Harvard
+Medical School, Boston, Massachusetts 02115, USA.
+
+The inducible isoform of nitric-oxide synthase (NOS2), a key enzyme catalyzing
+the dramatic increase in nitric oxide by lipopolysaccharide (LPS), plays an
+important role in the pathophysiology of endotoxemia and sepsis. Recent evidence 
+suggests that Ets transcription factors may contribute to NOS2 induction by
+inflammatory stimuli. In this study, we investigated the role of Ets
+transcription factors in the regulation of NOS2 by LPS and transforming growth
+factor (TGF)-beta 1. Transient transfection assays in macrophages showed that
+Ets-2 produced an increase in NOS2 promoter activity, whereas the induction by
+Ets-1 was modest and NERF2 had no effect. Elk-3 (Net/Erp/Sap-2a) markedly
+repressed NOS2 promoter activity in a dose-dependent fashion, and overexpression 
+of Elk-3 blunted the induction of endogenous NOS2 message. Mutation of the Net
+inhibitory domain of Elk-3, but not the C-terminal-binding protein interaction
+domain, partially alleviated this repressive effect. We also found that deletion 
+of the Ets domain of Elk-3 completely abolished its repressive effect on the NOS2
+promoter. LPS administration to macrophages led to a dose-dependent decrease in
+endogenous Elk-3 mRNA levels, and this decrease in Elk-3 preceded the induction
+of NOS2 mRNA. In a mouse model of endotoxemia, the expression of Elk-3 in kidney,
+lung, and heart was significantly down-regulated after systemic administration of
+LPS, and this down-regulation also preceded NOS2 induction. Moreover, TGF-beta 1 
+significantly increased endogenous Elk-3 mRNA levels that had been down-regulated
+by LPS in macrophages. This increase in Elk-3 correlated with a TGF-beta
+1-induced down-regulation of NOS2. Taken together, our data suggest that Elk-3 is
+a strong repressor of NOS2 promoter activity and mRNA levels and that endogenous 
+expression of Elk-3 inversely correlates with NOS2. Thus, Elk-3 may serve as an
+important mediator of NOS2 gene expression.
+
+PMID: 12896968  [PubMed - indexed for MEDLINE]
+
+
+50. J Bacteriol. 2002 Aug;184(16):4536-43.
+
+Simultaneous coexpression of Borrelia burgdorferi Erp proteins occurs through a
+specific, erp locus-directed regulatory mechanism.
+
+El-Hage N(1), Stevenson B.
+
+Author information: 
+(1)Department of Microbiology, Immunology and Molecular Genetics, University of
+Kentucky College of Medicine, Lexington, Kentucky 40536-0298, USA.
+
+An individual Borrelia burgdorferi bacterium can encode as many as 13 different
+Erp (OspE/F-related) proteins from mono-and bicistronic loci that are carried on 
+up to 10 separate plasmids. We demonstrate through multilabel immunofluorescence 
+analyses that individual bacteria simultaneously coexpress their entire Erp
+protein repertoire. While it has been proposed that B. burgdorferi controls
+expression of Erp and other plasmid-encoded proteins through changes in DNA
+topology, we observed regulated Erp expression in the absence of detectable
+differences in DNA supercoiling. Likewise, inhibition of DNA gyrase had no
+detectable effect on Erp expression. Furthermore, expression of loci physically
+adjacent to erp loci was observed to be independently regulated. It is concluded 
+that Erp expression is regulated by a mechanism(s) directed at erp loci and not
+by a global, plasmid-wide mechanism.
+
+PMCID: PMC135249
+PMID: 12142424  [PubMed - indexed for MEDLINE]
+
+
+51. Hepatogastroenterology. 2002 May-Jun;49(45):747-51.
+
+Expression of the Ets-1 proto-oncogene is linked to cell differentiation of human
+hepatocellular carcinoma.
+
+Kanda K(1), Nakayama T, Onizuka S, Tomioka T, Kanematsu T.
+
+Author information: 
+(1)Department of Surgery II, Nagasaki University School of Medicine, 1-7-1
+Sakamoto, Nagasaki 852-8501, Japan. kanematu@net.nagasaki-u.ac.jp
+
+BACKGROUND/AIMS: Ets-1 regulates the expression of a number of genes related to
+remodeling of the extracellular matrix. Ets-1 is associated with the occurrence
+of invasive processes, proliferation and differentiation. Less is known about the
+biological functions of Ets-1 in human hepatocellular carcinoma. In an attempt at
+elucidation, we examined immunohistochemically hepatocellular carcinoma followed 
+by application of genetic techniques.
+METHODOLOGY: We performed immunohistochemical analysis on tissue from 59 Japanese
+patients undergoing surgical resection of hepatocellular carcinoma using the
+antibody against human Ets-1. We compared Ets-1 expression in relation to
+clinicopathological findings. In situ hybridization and reverse
+transcription-polymerase chain reaction were also performed to confirm the
+expression of Ets-1 messenger RNA in hepatocellular carcinoma tissues.
+RESULTS: In specimens from 59 patients with hepatocellular carcinoma, 41 (70%)
+showed positive staining for Ets-1 protein. The expression of Ets-1 messenger RNA
+was also observed in hepatocellular carcinoma tissues by in situ hybridization
+and reverse transcription-polymerase chain reaction. The expression of Ets-1
+correlated with histological differentiation of hepatocellular carcinoma (P <
+0.05). Ets-1 was positive in 2 (50%) of the 4 well-differentiated hepatocellular 
+carcinomas and in 28 (64%) of the 44 moderately differentiated hepatocellular
+carcinomas, whereas all the 11 poorly differentiated hepatocellular carcinomas
+were positive for Ets-1 staining. Ets-1 protein was expressed more strongly at
+the peripheral than the central area of the tumor. Otherwise, no particular
+correlation was evident in terms of clinicopathological factors.
+CONCLUSIONS: We found Ets-1 to be expressed in human hepatocellular carcinoma,
+particularly at the peripheral area of the tumor. As this expression is linked to
+cell differentiation, this gene may yield biological information relative to this
+malignant tumor of the liver.
+
+PMID: 12063983  [PubMed - indexed for MEDLINE]
+
+
+52. J Neurol Sci. 2002 May 15;197(1-2):27-35.
+
+Sp1 and the ets-related transcription factor complex GABP alpha/beta functionally
+cooperate to activate the utrophin promoter.
+
+Gyrd-Hansen M(1), Krag TO, Rosmarin AG, Khurana TS.
+
+Author information: 
+(1)Department of Clinical Biochemistry, Glostrup Hospital, University of
+Copenhagen, Glostrup, Denmark.
+
+Duchenne muscular dystrophy (DMD) is a fatal neuromuscular disease caused by the 
+absence of dystrophin. Utrophin is the autosomal homolog of dystrophin and
+capable of compensating for the absence of dystrophin, when overexpressed. In
+skeletal muscle, utrophin plays an important role in the formation of
+neuromuscular junctions. This selective enrichment occurs, in part by
+transcriptional regulation of the utrophin gene at the sub-synaptic nuclei in
+muscle. Utrophin's complex transcriptional regulation is not yet fully
+understood, however, GABP alpha / beta has recently been shown to bind the N box 
+and activate the utrophin promoter in response to heregulin. In this study, we
+show that the transcription factor Sp1 binds and activates the utrophin promoter 
+in Drosophila S2 cells as well as define a Sp1 response element. We demonstrate
+that heregulin treatment of cultured muscle cells activates the ERK pathway and
+phosphorylates serine residue(s) in the consensus ERK recognition site of Sp1.
+Finally, Sp1 is shown to functionally cooperate with GABP alpha / beta and cause 
+a 58-fold increase of de novo utrophin promoter transcription. Taken together,
+these findings help define mechanisms used for transcriptional regulation of
+utrophin expression as well as identify new targets for achieving potentially
+therapeutic upregulation of utrophin in DMD.
+
+PMID: 11997063  [PubMed - indexed for MEDLINE]
+
+
+53. Semin Cell Dev Biol. 2002 Feb;13(1):9-18.
+
+Lymphatic endothelial regulation, lymphoedema, and lymph node metastasis.
+
+Karkkainen MJ(1), Alitalo K.
+
+Author information: 
+(1)Molecular/Cancer Biology Laboratory and Ludwig Institute for Cancer Research, 
+Haartman Institute, Biomedicum Helsinki, Helsinki University Hospital and
+University of Helsinki, 00014 Helsinki, Finland. Marika.Karkkainen@Helsinki.Fl
+
+Vascular endothelial growth factor receptor-3 (VEGFR-3) mediates lymphatic
+endothelial cell (LEC) growth, migration, and survival by binding VEGF-C and
+VEGF-D. Recent studies have revealed new regulators of the lymphatic endothelium,
+such as the transcription factor Prox1, and the cell surface proteins podoplanin 
+and lymphatic vessel endothelial hyaluronan receptor-1 (LYVE-1). Furthermore, the
+isolation of LECs now allows detailed molecular studies of the factors regulating
+the lymphatic vasculature. These studies are aimed at targeting the lymphatic
+vasculature in the treatment of various diseases, such as tumour metastasis and
+lymphoedema.
+
+Copyright 2002 Elsevier Science Ltd. All rights reserved.
+
+PMID: 11969367  [PubMed - indexed for MEDLINE]
+
+
+54. J Neurosci. 2001 Jul 1;21(13):4609-24.
+
+Differential expression of genes encoding subthreshold-operating voltage-gated K+
+channels in brain.
+
+Saganich MJ(1), Machado E, Rudy B.
+
+Author information: 
+(1)Department of Physiology and Neuroscience and Department of Biochemistry, New 
+York University School of Medicine, New York, New York 10016.
+
+The members of the three subfamilies (eag, erg, and elk) of the ether-a-go-go
+(EAG) family of potassium channel pore-forming subunits express currents that,
+like the M-current (I(M)), could have considerable influence on the subthreshold 
+properties of neuronal membranes, and hence the control of excitability. A
+nonradioactive in situ hybridization (NR-ISH) study of the distribution of the
+transcripts encoding the eight known EAG family subunits in rat brain was
+performed to identify neuronal populations in which the physiological roles of
+EAG channels could be studied. These distributions were compared with those of
+the mRNAs encoding the components of the classical M-current (Kcnq2 and Kcnq3).
+NR-ISH was combined with immunohistochemistry to specific neuronal markers to
+help identify expressing neurons. The results show that each EAG subunit has a
+specific pattern of expression in rat brain. EAG and Kcnq transcripts are
+prominent in several types of excitatory neurons in the cortex and hippocampus;
+however, only one of these channel components (erg1) was consistently expressed
+in inhibitory interneurons in these areas. Some neuronal populations express more
+than one product of the same subfamily, suggesting that the subunits may form
+heteromeric channels in these neurons. Many neurons expressed multiple EAG family
+and Kcnq transcripts, such as CA1 pyramidal neurons, which contained Kcnq2,
+Kcnq3, eag1, erg1, erg3, elk2, and elk3. This indicates that the subthreshold
+current in many neurons may be complex, containing different components mediated 
+by a number of channels with distinct properties and neuromodulatory responses.
+
+PMID: 11425889  [PubMed - indexed for MEDLINE]
+
+
+55. Mech Dev. 2001 Apr;102(1-2):205-8.
+
+Net, an Ets ternary complex transcription factor, is expressed in sites of
+vasculogenesis, angiogenesis, and chondrogenesis during mouse development.
+
+Ayadi A(1), Suelves M, Dollé P, Wasylyk B.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/ULP, 1 Rue Laurent Fries, BP 163, 67404 cedex, Illkirch, France.
+
+The Net gene encodes an Ets transcription factor belonging to the ternary complex
+factor subfamily. We studied Net expression during mouse development (E7.5-E18.5)
+by in situ hybridization. Net is expressed at E7.5-8.5 in developing vascular
+primordia, including the allantoic vessels, heart endocardium and dorsal aortae. 
+Vascular endothelial cell expression persists throughout development. Additional 
+sites of expression appear at E9.5-E10.5, especially in facial, branchial arch
+and distal limb-bud mesenchyme. Later, expression is most conspicuous in
+developing cartilage and becomes progressively restricted to perichondrium. Net
+expression during mouse development correlates with vasculogenesis, angiogenesis 
+and cartilage ontogeny.
+
+PMID: 11287193  [PubMed - indexed for MEDLINE]
+
+
+56. J Biol Chem. 2001 May 11;276(19):16207-15. Epub 2001 Jan 17.
+
+DNA binding by the ETS-domain transcription factor PEA3 is regulated by
+intramolecular and intermolecular protein.protein interactions.
+
+Greenall A(1), Willingham N, Cheung E, Boam DS, Sharrocks AD.
+
+Author information: 
+(1)School of Biochemistry and Genetics, The Medical School, University of
+Newcastle Upon Tyne, Newcastle Upon Tyne NE2 4HH, United Kingdom.
+
+The control of DNA binding by eukaryotic transcription factors represents an
+important regulatory mechanism. Many transcription factors are controlled by
+cis-acting autoinhibitory modules that are thought to act by blocking promiscuous
+DNA binding in the absence of appropriate regulatory cues. Here, we have
+investigated the determinants and regulation of the autoinhibitory mechanism
+employed by the ETS-domain transcription factor, PEA3. DNA binding is inhibited
+by a module composed of a combination of two short motifs located on either side 
+of the ETS DNA-binding domain. A second type of protein, Ids, can act in trans to
+mimic the effect of these cis-acting inhibitory motifs and reduce DNA binding by 
+PEA3. By using a one-hybrid screen, we identified the basic
+helix-loop-helix-leucine zipper transcription factor USF-1 as an interaction
+partner for PEA3. PEA3 and USF-1 form DNA complexes in a cooperative manner.
+Moreover, the formation of ternary PEA3.USF-1.DNA complexes requires parts of the
+same motifs in PEA3 that form the autoinhibitory module. Thus the binding of
+USF-1 to PEA3 acts as a switch that modifies the autoinhibitory motifs in PEA3 to
+first relieve their inhibitory action, and second, promote ternary nucleoprotein 
+complex assembly.
+
+PMID: 11278941  [PubMed - indexed for MEDLINE]
+
+
+57. Oncogene. 2000 Dec 18;19(55):6524-32.
+
+Proteins of the ETS family with transcriptional repressor activity.
+
+Mavrothalassitis G(1), Ghysdael J.
+
+Author information: 
+(1)School of Medicine, University of Crete and IMBB-FORTH, Voutes, Heraklion,
+Crete 714-09, Greece.
+
+ETS proteins form one of the largest families of signal-dependent transcriptional
+regulators, mediating cellular proliferation, differentiation and tumorigenesis. 
+Most of the known ETS proteins have been shown to activate transcription.
+However, four ETS proteins (YAN, ERF, NET and TEL) can act as transcriptional
+repressors. In three cases (ERF, NET and TEL) distinct repression domains have
+been identified and there are indications that NET and TEL may mediate
+transcription via Histone Deacetylase recruitment. All four proteins appear to be
+regulated by MAPKs, though for YAN and ERF this regulation seems to be restricted
+to ERKs. YAN, ERF and TEL have been implicated in cellular proliferation although
+there are indications suggesting a possible involvement of YAN and TEL in
+differentiation as well. Other ETS-domain proteins have been shown to repress
+transcription in a context specific manner, and there are suggestions that the
+ETS DNA-binding domain may act as a transcriptional repressor. Transcriptional
+repression by ETS domain proteins adds an other level in the orchestrated
+regulation by this diverse family of transcription factors that often recognize
+similar if not identical binding sites on DNA and are believed to regulate
+critical genes in a variety of biological processes. Definitive assessment of the
+importance of this novel regulatory level will require the identification of ETS 
+proteins target genes and the further analysis of transcriptional control and
+biological function of these proteins in defined pathways.
+
+PMID: 11175368  [PubMed - indexed for MEDLINE]
+
+
+58. Oncogene. 2000 Oct 19;19(44):5063-72.
+
+The ternary complex factor Net contains two distinct elements that mediate
+different responses to MAP kinase signalling cascades.
+
+Ducret C(1), Maira SM, Lutz Y, Wasylyk B.
+
+Author information: 
+(1)Institute de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/ULP, 1 Rue Laurent Fries, BP 163, 67404 Illkirch Cedex, France.
+
+The ternary complex factors (TCFs), Elk-1, Sap-1a and Net, are key integrators of
+the transcriptional response to different signalling pathways. Classically, three
+MAP kinase pathways, involving ERK, JNK, and p38, transduce various extracellular
+stimuli to the nucleus. Net is a repressor that is converted into an activator by
+Ras/ERK signalling. Net is also exported from the nucleus in response to stress
+stimuli transduced through the JNK pathway, leading to relief from repression.
+Here we show that ERK and p38 bind to the D box and that binding is required for 
+phosphorylation of the adjacent C-terminally located C-domain. The D box as well 
+as the phosphorylation sites in the C-domain (the DC element) are required for
+transcription activation by Ras. On the other hand, JNK binds to the J box in the
+middle of the protein, and binding is required for phosphorylation of the
+adjacent EXport motif. Both the binding and phosphorylation sites (the JEX
+element) are important for Net export. In conclusion, specific targeting of Net
+by MAP kinase pathways involves two different docking sites and phosphorylation
+of two different domains. These two elements, DC and JEX, mediate two distinct
+functional responses.
+
+PMID: 11042694  [PubMed - indexed for MEDLINE]
+
+
+59. Biochim Biophys Acta. 2000 Jul 24;1492(2-3):341-52.
+
+Transcription of the catalytic 180-kDa subunit gene of mouse DNA polymerase alpha
+is controlled by E2F, an Ets-related transcription factor, and Sp1.
+
+Izumi M(1), Yokoi M, Nishikawa NS, Miyazawa H, Sugino A, Yamagishi M, Yamaguchi
+M, Matsukage A, Yatagai F, Hanaoka F.
+
+Author information: 
+(1)Division of Radioisotope Technology, RIKEN (The Institute of Physical and
+CHemical Research), Saitama, Japan. mizumi@postman.riken.go.jp
+
+We have isolated a genomic DNA fragment spanning the 5'-end of the gene encoding 
+the catalytic subunit of mouse DNA polymerase alpha. The nucleotide sequence of
+the upstream region was G/C-rich and lacked a TATA box. Transient expression
+assays in cycling NIH 3T3 cells demonstrated that the GC box of 20 bp (at
+nucleotides -112/-93 with respect to the transcription initiation site) and the
+palindromic sequence of 14 bp (at nucleotides -71/-58) were essential for basal
+promoter activity. Electrophoretic mobility shift assays showed that Sp1 binds to
+the GC box. We also purified a protein capable of binding to the palindrome and
+identified it as GA-binding protein (GABP), an Ets- and Notch-related
+transcription factor. Transient expression assays in synchronized NIH 3T3 cells
+revealed that three variant E2F sites near the transcription initiation site (at 
+nucleotides -23/-16, -1/+7 and +17/+29) had no basal promoter activity by
+themselves, but were essential for growth-dependent stimulation of the gene
+expression. These data indicate that E2F, GABP and Sp1 regulate the gene
+expression of this principal replication enzyme.
+
+PMID: 11004506  [PubMed - indexed for MEDLINE]
+
+
+60. EMBO J. 2000 Sep 1;19(17):4565-76.
+
+Ezrin function is required for ROCK-mediated fibroblast transformation by the Net
+and Dbl oncogenes.
+
+Tran Quang C(1), Gautreau A, Arpin M, Treisman R.
+
+Author information: 
+(1)Transcription Laboratory, Room 528, Imperial Cancer Research Fund
+Laboratories, 44 Lincoln's Inn Fields, London WC2A 3PX, UK.
+
+The small G protein RhoA and its GDP/GTP exchange factors (GEFs) Net and Dbl can 
+transform NIH 3T3 fibroblasts, dependent on the activity of the RhoA effector
+kinase ROCK. We investigated the role of the cytoskeletal linker protein ezrin in
+this process. RhoA effector loop mutants which can bind ROCK induce
+relocalization of ezrin to dorsal actin-containing cell surface protrusions, as
+do Net and Dbl. Both processes are inhibited by the ROCK inhibitor Y27632, which 
+also inhibits association of ezrin with the cytoskeleton, and phosphorylation of 
+T567, conserved between ezrin and its relatives radixin and moesin. ROCK can
+phosphorylate the ezrin C-terminus in vitro. The ezrin mutant T567A cannot be
+relocalized by activated RhoA, Net or Dbl or by ROCK itself, and also inhibits
+RhoA-mediated contractility and focal adhesion formation. Moreover, ezrin T567A, 
+but not wild-type ezrin, restores contact inhibition to Net- and Dbl-transformed 
+cells, and inhibits the activity of Net and Ras in focus formation assays. These 
+results implicate ROCK-mediated ezrin C-terminal phosphorylation in
+transformation by RhoGEFs.
+
+PMCID: PMC302055
+PMID: 10970850  [PubMed - indexed for MEDLINE]
+
+
+61. J Neuroendocrinol. 2000 Mar;12(3):263-72.
+
+Expression of mRNA for voltage-dependent and inward-rectifying K channels in
+GH3/B6 cells and rat pituitary.
+
+Wulfsen I(1), Hauber HP, Schiemann D, Bauer CK, Schwarz JR.
+
+Author information: 
+(1)Abteilung für Angewandte Physiologie, Institut für Physiologie,
+Universitätsklinikum Hamburg-Eppendorf, Universität Hamburg, Hamburg, Germany.
+
+The expression of mRNA for voltage-dependent (Kv) and inward-rectifying K
+channels (Kir) was studied in clonal rat somato-mammotroph cells (GH3/B6 cells)
+and rat pituitary using reverse transcription-polymerase chain reaction (RT-PCR).
+In GH3/B6 cells transcripts for 16 different Kv channel alpha-subunits (seven
+Shaker-related: Kv1.2, Kv1.4, Kv1.5, Kv2.1, Kv3.2, Kv4.1, Kv5.1; six EAG: eag1,
+erg1, erg2, elk1-elk3; three KCNQ: KCNQ1-KCNQ3) and for five different Kir
+channel alpha-subunits (Kir1.1, Kir2.3, Kir3.2, Kir3.3, Kir6.2) were found. In
+addition, transcripts for a short isoform of Kvbeta2 and transcripts for Kvbeta3 
+subunits were present. In rat pituitary transcripts for 21 different Kv channel
+alpha-subunits (11 Shaker-related: Kv1.3, Kv1.4, Kv1.6, Kv2.1, Kv2.2, Kv3.2,
+Kv3.4, Kv4.1, Kv4.2, Kv4.3, Kv6.1; seven EAG: eag1, erg1-erg3, elk1-elk3; three
+KCNQ: KCNQ1-KCNQ3) and nine Kir channel alpha-subunits (Kir1.1, Kir2.2,
+Kir3.1-Kir3.4, Kir4.1, Kir6.1, Kir6. 2) were found. In addition, all tested
+auxiliary subunits (Kvbeta1-Kvbeta3, minK, SUR1, SUR2) are expressed in the
+pituitary. The results indicate that the macroscopic K currents in GH3/B6 and
+pituitary cells are presumably mediated by K channels constructed by a larger
+number of K channel alpha-subunits and auxiliary beta-subunits than previously
+distinguished electrophysiologically and pharmacologically.
+
+PMID: 10718922  [PubMed - indexed for MEDLINE]
+
+
+62. Eye (Lond). 1999 Jun;13 ( Pt 3b):438-44.
+
+Mouse models of congenital cataract.
+
+Graw J(1).
+
+Author information: 
+(1)GSF-Forschungszentrum für Umwelt und Gesundheit Institut für Säugetiergenetik,
+Neuherberg Germany. graw@gsf.de
+
+Mouse mutants affecting lens development are excellent models for corresponding
+human disorders. The mutant aphakia has been characterised by bilaterally aphakic
+eyes (Varnum and Stevens, J Hered 1968;59:147-50); the corresponding gene was
+mapped to chromosome 19 (Varnum and Stevens, Mouse News Lett 1975;53:35). Recent 
+investigations in our laboratory refined the linkage of 0.6 cM proximal to the
+marker D19Mit10. Several candidate genes have been excluded (Chuk1, Fgf8, Lbp1,
+Npm3, Pax2, Pitx3). The Cat3 mutations are characterised by vacuolated lenses
+caused by alterations in the initial secondary lens fibre cell differentiation.
+Secondary malformations develop at the cornea and iris, but the retina remains
+unaffected. The mutation has been mapped to chromosome 10 close to the markers
+D10Mit41 and D10Mit95. Several candidate genes have been excluded (Dcn, Elk3,
+Ldc, Mell8, Tr2-11). The series of Cat2 mutations have been mapped close to the
+gamma-crystallin genes (Cryg; Löster et al., Genomics 1994;23:240-2). The Cat2nop
+mutation is characterised by a mutation in the third exon of Crygb leading to a
+truncated gamma B-crystallin and the termination of lens fibre cell
+differentiation. The Cat2 mutants are interesting models for human cataracts
+caused by mutations in the human CRYG genes at chromosome 2q32-35.
+
+PMID: 10627821  [PubMed - indexed for MEDLINE]
+
+
+63. Mol Cell Biol. 1999 Oct;19(10):7076-87.
+
+The net repressor is regulated by nuclear export in response to anisomycin, UV,
+and heat shock.
+
+Ducret C(1), Maira SM, Dierich A, Wasylyk B.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+CNRS/INSERM/ULP, 67404 Illkirch Cedex, France.
+
+The ternary complex factors (TCFs) are targets for Ras/mitogen-activated protein 
+kinase signalling pathways. They integrate the transcriptional response at the
+level of serum response elements in early-response genes, such as the c-fos
+proto-oncogene. An important aim is to understand the individual roles played by 
+the three TCFs, Net, Elk1, and Sap1a. Net, in contrast to Elk1 and Sap1a, is a
+strong repressor of transcription. We now show that Net is regulated by
+nuclear-cytoplasmic shuttling in response to specific signalling pathways. Net is
+mainly nuclear under both normal and basal serum conditions. Net contains two
+nuclear localization signals (NLSs); one is located in the Ets domain, and the
+other corresponds to the D box. Net also has a nuclear export signal (NES) in the
+conserved Ets DNA binding domain. Net is apparently unique among Ets proteins in 
+that a particular leucine in helix 1, a structural element, generates a NES.
+Anisomycin, UV, and heat shock induce active nuclear exclusion of Net through a
+pathway that involves c-Jun N-terminal kinase kinase and is inhibited by
+leptomycin B. Nuclear exclusion relieves transcriptional repression by Net. The
+specific induction of nuclear exclusion of Net by particular signalling pathways 
+shows that nuclear-cytoplasmic transport of transcription factors can add to the 
+specificity of the response to signalling cascades.
+
+PMCID: PMC84702
+PMID: 10490644  [PubMed - indexed for MEDLINE]
+
+
+64. EMBO J. 1999 Jun 15;18(12):3392-403.
+
+Net, a negative Ras-switchable TCF, contains a second inhibition domain, the CID,
+that mediates repression through interactions with CtBP and de-acetylation.
+
+Criqui-Filipe P(1), Ducret C, Maira SM, Wasylyk B.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire,
+ECNRS/INSERM/ULP, 1 Rue Laurent Fries, BP 163, 67404 Illkirch cedex, France.
+
+Signalling cascades are integrated at the transcriptional level by the interplay 
+between factors such as the ternary complex factors (TCFs) that interact with
+serum response factor (SRF) and the serum response element (SRE) of the fos
+promoter. Net is a negative TCF that is switched to a positive regulator by the
+Ras signal. To understand the mechanisms of repression by Net, we used a yeast
+two-hybrid screen to identify factors that interact with its inhibitory domain.
+We isolated mCtBP1, the murine homologue of huCtBP1, a factor implicated in
+negative regulation of transformation by E1A plus Ras. We show that mCtBP1
+interacts strongly with Net both in vitro and in vivo. The CtBP interaction
+domain of Net, the CID, mediates repression independently of the previously
+identified negative element, the NID. The CID inhibits by recruiting the
+co-repressor mCtBP1. The CID and mCtBP1 need to use de-acetylase activity for
+repression, whereas the NID apparently represses by other mechanisms. Finally, we
+provide evidence that CtBP and de-acetylation repress the c-fos SRE in low serum 
+when it is inactive, but not in high serum when it is active. These results
+provide insights into the cross-talk between pathways that inhibit and stimulate 
+transformation at the level of Net, a regulator of gene expression.
+
+PMCID: PMC1171419
+PMID: 10369679  [PubMed - indexed for MEDLINE]
+
+
+65. Neuroscience. 1999;89(4):1357-66.
+
+Detection of hypoxic cells with the 2-nitroimidazole, EF5, correlates with early 
+redox changes in rat brain after perinatal hypoxia-ischemia.
+
+Bergeron M(1), Evans SM, Sharp FR, Koch CJ, Lord EM, Ferriero DM.
+
+Author information: 
+(1)Department of Neurology, University of California at San Francisco,
+94143-0114, USA.
+
+The hypoxia-dependent activation of nitroheterocyclic drugs by cellular
+nitroreductases leads to the formation of intracellular adducts between the drugs
+and cellular macromolecules. Because this covalent binding is maximal in the
+absence of oxygen, detection of bound adducts provides an assay for estimating
+the degree of cellular hypoxia in vivo. Using a pentafluorintated derivative of
+etanidazole called EF5, we studied the distribution of EF5 adducts in
+seven-day-old rats subjected to different treatments which decrease the level of 
+oxygen in the brain. EF5 solution was administered intraperitoneally 30 min prior
+to each treatment. The effect of acute and chronic hypoxia on EF5 adduct
+formation (binding) was studied in the brain of newborn rats exposed to global
+hypoxia (8% O2 for 30, 90 or 150 min) and in the brain of chronically hypoxic rat
+pups with congenital cardiac defects (Wistar Kyoto). The effect of combined
+hypoxia-ischemia was investigated in rat pups subjected to right carotid
+coagulation and concurrent exposure to 8% O2 for 30, 90 or 150 min. Brains were
+frozen immediately at the end of each treatment. Using a Cy3-conjugated
+monoclonal mouse antibody (ELK3-51) raised against EF5 adducts, hypoxic cells
+within brain regions were visualized by fluorescence immunocytochemistry. Brains 
+from controls or vehicle-injected animals showed no EF5 binding. Notably, brains 
+from animals which were chronically hypoxemic as a result of congenital cardiac
+defects also showed no EF5 binding. A short exposure (30 min) to hypoxia or to
+combined hypoxia-ischemia resulted in increased background stain and few
+scattered cells with low-intensity immunostaining. Acute hypoxia exposure of at
+least 90-150 min, which in this age animal does not result in frank cellular
+damage, produced patchy areas of low- to moderate-intensity fluorescence
+scattered throughout the brain. In contrast, 90-150 min of hypoxia-ischemia was
+associated with intense immunofluorescence in the hemisphere ipsilateral to the
+carotid occlusion, with a pattern similar to that reported previously for the
+histological damage seen in this model. This study provides a sensitive method
+for the evaluation of the level of oxygen depletion in brain tissue after
+neonatal hypoxia-ischemia at times much earlier than any method demonstrates
+apoptotic or necrotic cell death Since the level of in vivo formation of
+macromolecular adducts of EF5 depends on the degree of oxygen depletion in a
+tissue, intracellular EF5 binding may serve as a useful marker of regional
+cellular vulnerability and redox state after brain injury resulting from
+hypoxia-ischemia.
+
+PMID: 10362320  [PubMed - indexed for MEDLINE]
+
+
+66. Proc Natl Acad Sci U S A. 1999 May 11;96(10):5575-80.
+
+Differential gene expression between developing queens and workers in the honey
+bee, Apis mellifera.
+
+Evans JD(1), Wheeler DE.
+
+Author information: 
+(1)Department of Entomology, University of Arizona, Tucson, AZ 85721, USA.
+jevans@asrr.arsusda.gov
+
+Comment in
+    Proc Natl Acad Sci U S A. 1999 May 11;96(10):5348-50.
+
+Many insects show polyphenisms, or alternative morphologies, which are based on
+differential gene expression rather than genetic polymorphism. Queens and workers
+are alternative forms of the adult female honey bee and represent one of the best
+known examples of insect polyphenism. Hormonal regulation of caste determination 
+in honey bees has been studied in detail, but little is known about the proximate
+molecular mechanisms underlying this process, or any other such polyphenism. We
+report the success of a molecular-genetic approach for studying queen- and
+worker-specific gene expression in the development of the honey bee (Apis
+mellifera). Numerous genes appear to be differentially expressed between the two 
+castes. Seven differentially expressed loci described here belong to at least
+five distinctly different evolutionary and functional groups. Two are
+particularly promising as potential regulators of caste differentiation. One is
+homologous to a widespread class of proteins that bind lipids and other
+hydrophobic ligands, including retinoic acid. The second locus shows sequence
+similarity to a DNA-binding domain in the Ets family of transcription factors.
+The remaining loci appear to be involved with downstream changes inherent to
+queen- or worker-specific developmental pathways. Caste determination in honey
+bees is typically thought of as primarily queen determination; our results make
+it clear that the process involves specific activation of genes in workers as
+well as in queens.
+
+PMCID: PMC21902
+PMID: 10318926  [PubMed - indexed for MEDLINE]
+
+
+67. Br J Cancer. 1999 Feb;79(3-4):464-71.
+
+Quantification of tumour vasculature and hypoxia by immunohistochemical staining 
+and HbO2 saturation measurements.
+
+Fenton BM(1), Paoni SF, Lee J, Koch CJ, Lord EM.
+
+Author information: 
+(1)Department of Radiation Oncology, University of Rochester School of Medicine, 
+NY, USA.
+
+Despite the possibility that tumour hypoxia may limit radiotherapeutic response, 
+the underlying mechanisms remain poorly understood. A new methodology has been
+developed in which information from several sophisticated techniques is combined 
+and analysed at a microregional level. First, tumour oxygen availability is
+spatially defined by measuring intravascular blood oxygen saturations (HbO2)
+cryospectrophotometrically in frozen tumour blocks. Second, hypoxic development
+is quantified in adjacent sections using immunohistochemical detection of a
+fluorescently conjugated monoclonal antibody (ELK3-51) to a nitroheterocyclic
+hypoxia marker (EF5), thereby providing information relating to both the oxygen
+consumption rates and the effective oxygen diffusion distances. Third, a
+combination of fluorescent (Hoechst 33342 or DiOC7(3)) and immunohistological
+(PECAM-1/CD31) stains is used to define the anatomical vascular densities and the
+fraction of blood vessels containing flow. Using a computer-interfaced microscope
+stage, image analysis software and a 3-CCD colour video camera, multiple images
+are digitized, combined to form a photo-montage and revisited after each of the
+three staining protocols. By applying image registration techniques, the spatial 
+distribution of HbO2 saturations is matched to corresponding hypoxic marker
+intensities in adjacent sections. This permits vascular configuration to be
+related to oxygen availability and allows the hypoxic marker intensities to be
+quantitated in situ.
+
+PMCID: PMC2362405
+PMID: 10027314  [PubMed - indexed for MEDLINE]
+
+
+68. Curr Opin Oncol. 1998 Jul;10(4):334-42.
+
+Ewing's sarcoma and peripheral primitive neuroectodermal tumors after their
+genetic union.
+
+Kovar H(1).
+
+Author information: 
+(1)Children's Cancer Research Institute (CCRI), St. Anna Kinderspital, Vienna,
+Austria.
+
+The Ewing family of tumors has been defined by the presence of an EWS-ets gene
+rearrangement. Using molecular techniques for the visualization of this
+aberration, several tumors of unusual location and histology were recently
+identified and added to this group. Increasing experimental data suggest that
+EWS-ets fusions act as transforming transcription factors. Subtractive screening 
+of transgenic fibroblasts has led to the identification of potential targets. The
+authentic cellular context for these aberrant gene products is still unknown and 
+may be diverse, however. Clinical heterogeneity has stimulated a search for
+genetic factors that may relate to treatment response. The effect of the EWS-ets 
+fusion transcript structure on localized disease has been recently confirmed and 
+frequent p16 tumor suppressor alterations have been described. The presence of
+metastases at diagnosis as the major predictor of outcome has been assessed on a 
+submicroscopic level by reverse transcriptase-polymerase chain reaction. Problems
+arising from these studies are discussed, although the biological basis for
+variable disease extension remains obscure.
+
+PMID: 9702401  [PubMed - indexed for MEDLINE]
+
+
+69. Mol Cell Biol. 1998 Jul;18(7):3851-61.
+
+Differential utilization of Ras signaling pathways by macrophage
+colony-stimulating factor (CSF) and granulocyte-macrophage CSF receptors during
+macrophage differentiation.
+
+Guidez F(1), Li AC, Horvai A, Welch JS, Glass CK.
+
+Author information: 
+(1)Divisions of Endocrinology and Metabolism and Cellular and Molecular Medicine,
+Department of Medicine, University of California, San Diego, La Jolla, California
+92093-0651, USA.
+
+Granulocyte-macrophage colony-stimulating factor (GM-CSF) and macrophage
+colony-stimulating factor (M-CSF) independently stimulate the proliferation and
+differentiation of macrophages from bone marrow progenitor cells. Although the
+GM-CSF and M-CSF receptors are unrelated, both couple to Ras-dependent signal
+transduction pathways, suggesting that these pathways might account for common
+actions of GM-CSF and M-CSF on the expression of macrophage-specific genes. To
+test this hypothesis, we have investigated the mechanisms by which GM-CSF and
+M-CSF regulate the expression of the macrophage scavenger receptor A (SR-A) gene.
+We demonstrate that induction of the SR-A gene by M-CSF is dependent on AP-1 and 
+cooperating Ets domain transcription factors that bind to sites in an
+M-CSF-dependent enhancer located 4.1 to 4.5 kb upstream of the transcriptional
+start site. In contrast, regulation by GM-CSF requires a separate enhancer
+located 4.5 to 4.8 kb upstream of the transcriptional start site that confers
+both immediate-early and sustained transcriptional responses. Results of a
+combination of DNA binding experiments and functional assays suggest that
+immediate transcriptional responses are mediated by DNA binding proteins that are
+constitutively bound to the GM-CSF enhancer and are activated by Ras. At 12 to 24
+h after GM-CSF treatment, the GM-CSF enhancer becomes further occupied by
+additional DNA binding proteins that may contribute to sustained transcriptional 
+responses. In concert, these studies indicate that GM-CSF and M-CSF
+differentially utilize Ras-dependent signal transduction pathways to regulate
+scavenger receptor gene expression, consistent with the distinct functional
+properties of M-CSF- and GM-CSF-derived macrophages.
+
+PMCID: PMC108969
+PMID: 9632769  [PubMed - indexed for MEDLINE]
+
+
+70. Cancer Res. 1998 Apr 1;58(7):1478-85.
+
+Interleukin 2 expression by tumor cells alters both the immune response and the
+tumor microenvironment.
+
+Lee J(1), Fenton BM, Koch CJ, Frelinger JG, Lord EM.
+
+Author information: 
+(1)Department of Microbiology and Immunology, University of Rochester School of
+Medicine and Dentistry, New York 14642, USA.
+
+Microenvironmental conditions within solid tumors can have marked effects on the 
+growth of the tumors and their response to therapies. The disorganized growth of 
+tumors and their attendant vascular systems tends to result in areas of the
+tumors that are deficient in oxygen (hypoxic). Cells within these hypoxic areas
+are more resistant to conventional therapies such as radiation and chemotherapy. 
+Here, we examine the hypoxic state of EMT6 mouse mammary tumors and the location 
+of host cells within the different areas of the tumors to determine whether such 
+microenvironmental conditions might also affect their ability to be recognized by
+the immune system. Hypoxia within tumors was quantified by flow cytometry and
+visualized by immunohistochemistry using a monoclonal antibody (ELK3-51) against 
+cellular adducts of
+2-(2-nitro-1H-imidazol-1-yl)-N-(2,2,3,3,3-pentafluoropropyl)acetam ide (EF5), a
+nitroimidazole compound that binds selectively to hypoxic cells. Thy-1+ cells,
+quantified using a monoclonal antibody, were found only in the well-oxygenated
+areas. The location of these Thy-1+ cells was also examined in EMT6 tumors that
+had been transfected with the gene for interleukin-2 (IL-2) because these tumors 
+contain greatly increased numbers of host cells. Surprisingly, we found that
+IL-2-transfected tumors had significantly decreased hypoxia compared to parental 
+tumors. Furthermore, using the fluorescent dye Hoechst 33342, an in vivo marker
+of perfused vessels, combined with immunochemical staining of PECAM-1 (CD31) as a
+marker of tumor vasculature, we found increased vascularization in the
+IL-2-transfected tumors. Thus, expression of IL-2 at the site of tumor growth may
+enhance tumor immunity not only by inducing the generation of tumor-reactive CTLs
+but also by allowing increased infiltration of activated T cells into the tumors.
+
+PMID: 9537251  [PubMed - indexed for MEDLINE]
+
+
+71. Biochemistry. 1998 Feb 17;37(7):1905-9.
+
+The human LON protease binds to mitochondrial promoters in a single-stranded,
+site-specific, strand-specific manner.
+
+Fu GK(1), Markovitz DM.
+
+Author information: 
+(1)Department of Internal Medicine, University of Michigan Medical Center, Ann
+Arbor 48109-0640, USA.
+
+LON proteases, which are ATP-dependent and exhibit ATPase activity, are found in 
+bacteria, yeast, and humans. In Escherichia coli, LON is known to regulate gene
+expression by targeting specific regulatory proteins for degradation. The yeast
+and human LON proteins are encoded in the nucleus but localize to the
+mitochondrial matrix. In yeast, LON has been shown to be essential for the
+maintenance of the integrity of the mitochondrial genome. E. coli Lon has long
+been known to bind DNA, but we have only recently demonstrated that it binds
+preferentially to a specific TG-rich double-stranded sequence. We now show that
+human LON recognizes a very similar site in both the light and heavy chain
+promoters of the mitochondrial genome, in a region which is involved in
+regulating both DNA replication and transcription. Unlike E. coli Lon, however,
+human LON specifically binds to the TG-rich element only when it is presented in 
+the context of a single DNA strand. These findings suggest that the human LON
+protease might regulate mitochondrial DNA replication and/or gene expression
+using site-specific, single-stranded DNA binding to target the degradation of
+regulatory proteins binding to adjacent sites in mitochondrial promoters.
+
+PMID: 9485316  [PubMed - indexed for MEDLINE]
+
+
+72. J Gerontol A Biol Sci Med Sci. 1998 Jan;53(1):B3-10.
+
+SRF binding to SRE in the rat heart: influence of age.
+
+Lu XG(1), Azhar G, Liu L, Tsou H, Wei JY.
+
+Author information: 
+(1)Gerontology Division, Beth Israel Deaconess Medical Center, New York, New
+York, USA.
+
+One important promoter element at the 5' end of the c-fos gene is the serum
+response element (SRE). SRE is the site of attachment of the 67-kDa protein serum
+response factor (SRF) and several accessory proteins (Elk1, SAP1, SAP2/NET),
+termed the ternary complex factors. The binding of SRF to SRE plays an integral
+role in c-fos transcription and may occur independently of the association of the
+ternary complex factors. In the current study, we found that SRF protein
+expression was increased in the hearts of the old vs young adult rats in the
+basal condition. The hearts of old rats may have posttranslationally modified SRF
+proteins that are different compared to that of the young adults. The SRF
+increase was present both in the cytoplasm as well as in the nucleus in the old
+hearts. To test whether SRF protein levels in response to acute stress might be
+altered with age, we studied hearts of young adult and old rats during myocardial
+infarction. The young adult rat hearts responded to acute ischemic stress with an
+increase in both p62 and p67 SRF. The hearts of the old rats, however, did not
+exhibit a significant change in SRF protein expression. These findings
+demonstrate qualitative as well as quantitative age differences in SRF protein
+levels, both at baseline and following stimulation. The reduced SRF expression in
+response to acute cardiac ischemic stress in the old rats might contribute to the
+observed age-related decrease in the induction of immediate early genes such as
+c-fos in the heart.
+
+PMID: 9467416  [PubMed - indexed for MEDLINE]
+
+
+73. Oncogene. 1997 Dec 18;15(25):3091-102.
+
+Ets transcription factors bind and transactivate the core promoter of the von
+Willebrand factor gene.
+
+Schwachtgen JL(1), Janel N, Barek L, Duterque-Coquillaud M, Ghysdael J, Meyer D, 
+Kerbiriou-Nabias D.
+
+Author information: 
+(1)INSERM U 143, Unité de Recherches sur l'Hémostase et la Thrombose, Hôpital de 
+Bicêtre, France.
+
+von Willebrand factor (vWF) gene expression is restricted to endothelial cells
+and megakaryocytes. Previous results demonstrated that basal transcription of the
+human vWF gene is mediated through a promoter located between base pairs -89 and 
++19 (cap site: +1) which is functional in endothelial and non endothelial cells. 
+Two DNA repeats TTTCCTTT correlating with inverted consensus binding sites for
+the Ets family of transcription factors are present in the -56/-36 sequence. In
+order to analyse whether these DNA elements are involved in transcription, human 
+umbilical vein endothelial cells (HUVEC), bovine calf pulmonary endothelial cell 
+line (CPAE), HeLa and COS cells were transfected with constructs containing
+deletions of the -89/+19 fragment, linked to the chloramphenicol acetyl
+transferase (CAT) reporter gene. The -60/+19 region exhibits significant promoter
+activity in HUVEC and CPAE cells only. The -42/+19 fragment is not active.
+Mutations of the -60/+19 promoter fragment in the 5' (-56/-49) Ets binding site
+abolish transcription in endothelial cells whereas mutations in the 3' (-43/-36) 
+site does not. The -60/-33 fragment forms three complexes with proteins from
+HUVEC nuclear extracts in electrophoretic mobility shift assay which are
+dependent on the presence of the 5' Ets binding site. Binding of recombinant
+Ets-1 protein to the -60/-33 fragment gives a complex which also depends on the
+5' site. The -60/+19 vWF gene core promoter is transactivated in HeLa cells by
+cotransfecting with Ets-1 or Erg (Ets-related gene) expression plasmids. In
+contrast to the wild type construct, transcription of the 5' site mutants is not 
+increased by these expressed proteins. The results indicate that the promoter
+activity of the -60/+19 region of the vWF gene depends on transcription factors
+of the Ets family of which several members like Ets-1, Ets-2 and Erg are
+expressed in endothelium. Cotransfection of Ets-1 and Erg expression plasmids is 
+sufficient to induce the -60/+19 vWF promoter activity in HeLa cells.
+
+PMID: 9444957  [PubMed - indexed for MEDLINE]
+
+
+74. Mol Gen Genet. 1997 Dec;257(1):97-102.
+
+Cat3vl and Cat3vao cataract mutations on mouse chromosome 10: phenotypic
+characterization, linkage studies and analysis of candidate genes.
+
+Löster J(1), Immervoll T, Schmitt-John T, Graw J.
+
+Author information: 
+(1)GSF-National Research Center for Environment and Health, Institute of
+Mammalian Genetics, Neuherberg, Germany. jana.loester@gsf.de
+
+Cat3vl and Cat3vao are two allelic, dominant cataract mutations that arose
+independently in the F1 generation after gamma-irradiation of male mice. The
+cataracts are already present at birth. Examination of the eyes with a slit lamp 
+revealed completely vacuolated lenses in Cat3vl mutants and anteriorly located
+opacity in Cat3vao mutants. The appearance of the opacities does not differ
+between the individuals or between heterozygotes and homozygotes. Penetrance of
+the mutations is complete. Viability and fertility of the mutants are normal
+except in the case of the Cat3vl homozygotes. Cat3vao was assigned to the distal 
+part of mouse chromosome 10, 3.2 +/- 0.9 cM away from the visible marker Steel
+(SlgbH). Using polymorphic markers the following locus order was found:
+D10Mit230-(0.2 +/- 0.1 cM)-Cat3vao-(2.5 +/- 0.6 cM)-D10Mit70. No recombinants
+were found between Cat3vao and the markers D10Mit4l and D10Mit95 among 921
+offspring. The results exclude allelism of Cat3vao with CatLop or To2, which also
+map to chromosome 10. Candidate genes were tested by examination of their
+expression in the eye of newborn mice and by analysis of cDNA sequences. So far, 
+negative results have been obtained for the genes encoding the proteoglycans
+lumican and decorin, the nuclear orphan receptor Tr2-11 and the transcription
+factor Elk3. Based on syntenic homology of the Cat3 region to the human
+chromosome 12q, the Cat3 mutants are discussed as mouse models for cornea plana
+congenita in man. The recovery of the Cat3 mutations demonstrates the importance 
+of the corresponding locus for proper eye development.
+
+PMID: 9439574  [PubMed - indexed for MEDLINE]
+
+
+75. Mol Cell Biol. 1997 Oct;17(10):5667-78.
+
+Net-b, a Ras-insensitive factor that forms ternary complexes with serum response 
+factor on the serum response element of the fos promoter.
+
+Giovane A(1), Sobieszczuk P, Ayadi A, Maira SM, Wasylyk B.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire, CNRS, INSERM, 
+ULP, Illkirch, France.
+
+The Ras signalling pathway targets transcription factors such as the ternary
+complex factors that are recruited by the serum response factor to form complexes
+on the serum response element (SRE) of the fos promoter. We have identified a new
+ternary complex factor, Net-b. We report the features of the net gene and show
+that it produces several splice variants, net-b and net-c. net-b RNA and protein 
+are expressed in a variety of tissues and cell lines. net-c RNA is expressed at
+low levels, and the protein was not detected, raising the possibility that it is 
+a cryptic splice variant. We have studied the composition of ternary complexes
+that form on the SRE of the fos promoter with extracts from fibroblasts (NIH 3T3)
+cultured under various conditions and pre-B cells (70Z/3) before and after
+differentiation with lipopolysaccharide (LPS). The fibroblast complexes contain
+mainly Net-b followed by Sap1 and Elk1. Net-b complexes, as well as Sap1 and
+Elk1, are induced by epidermal growth factor (EGF) stimulation of cells cultured 
+in low serum. Pre-B-cell complexes contain mainly Sap1, with less of Net-b and
+little of Elk1. There is little change upon LPS-induced differentiation compared 
+to the increase with EGF in fibroblasts. We have also found that Net-b is a
+nuclear protein that constitutively represses transcription. Net-b is not
+activated by Ras signalling, in contrast to Net, Sap1a, and Elk1. We have
+previously reported that down-regulation of Net proteins with antisense RNA
+increases SRE activity. The increase in SRE activity is observed at low serum
+levels and is even greater after serum stimulation, showing that the SRE is under
+negative regulation by Net proteins and the level of repression increases during 
+induction. Net-b, the predominant factor in ternary complexes in fibroblasts, may
+both keep the activity of the SRE low in the absence of strong inducing
+conditions and rapidly shut the activity off after stimulation.
+
+PMCID: PMC232415
+PMID: 9315625  [PubMed - indexed for MEDLINE]
+
+
+76. J Virol. 1997 Oct;71(10):7917-22.
+
+A novel transcriptional element in circular DNA monomers of the duck hepatitis B 
+virus.
+
+Beckel-Mitchener A(1), Summers J.
+
+Author information: 
+(1)Department of Cell Biology, University of New Mexico School of Medicine,
+Albuquerque 87131, USA.
+
+We report the presence of two elements, pet and net, that are required for proper
+transcription of the duck hepatitis B virus (DHBV). These regions were previously
+identified by using plasmid clones of the virus in transient expression assays
+(M. Huang and J. Summers, J. Virol. 68:1564-1572, 1994). In this study, we
+further analyzed these regions by using in vitro-synthesized circular DHBV DNA
+monomers to mimic the authentic transcriptional template. We observed that pet
+was required for pregenome transcription from circular viral monomers, and in the
+absence of pet-dependent transcription, expression of the viral envelope genes
+was increased. We found that deletion of net in circularized DNA monomers led to 
+the production of abnormally long transcripts due to a failure to form 3' ends
+during transcription. In addition, we report the presence of a net-like region in
+the mammalian hepadnavirus woodchuck hepatitis virus. These results are
+consistent with a model that net is a region involved in transcription
+termination and that in DHBV, pet is required for transcription complexes to read
+through this region during the first pass through net.
+
+PMCID: PMC192149
+PMID: 9311882  [PubMed - indexed for MEDLINE]
+
+
+77. J Immunol. 1997 Aug 15;159(4):1800-8.
+
+Differential interaction of nuclear factors with the leukocyte-specific pp52
+promoter in B and T cells.
+
+Omori SA(1), Smale S, O'Shea-Greenfield A, Wall R.
+
+Author information: 
+(1)Molecular Biology Institute and Department of Microbiology and Immunology,
+University of California School of Medicine, Los Angeles 90095, USA.
+
+The leukocyte-specific, cytoskeleton-binding pp52 (LSP-1, WP-34) protein is
+widely expressed in multiple leukocyte lineages, including B and T lymphocytes,
+granulocytes, and macrophages. We previously detected a tissue-specific promoter 
+preceding the exon encoding the N terminus of the pp52 leukocyte protein. Here we
+describe the functional characterization of this promoter and identification of
+the factors in B and T cells that regulate its activity. The pp52 promoter
+contains an initiator specifying the unique 5' terminus of pp52 mRNA, tandem
+pairs of Ets and SP1 motifs, and a lone C/EBP motif. All these motifs are
+essential and collectively control transcriptional activity. DNA binding studies 
+and Ab supershift assays revealed that different combinations of factors interact
+with these motifs in B cells vs T cells. The Ets motifs are preferentially bound 
+by PU-1 in B cell extracts from all stages of development, whereas a different
+Ets family member reacts with these motifs in T cell extracts. The C/EBP motif is
+bound by Ig/EBP-1 in pre-B cell and T cell extracts, but is replaced by nuclear
+factor-IL-6beta or a nuclear factor-IL-6beta-Ig/EBP-1 heterodimer in plasmacytoma
+cell extracts. Despite its reported role as a negative regulator of
+transcription, Ig/EBP-1 appears to exert a stimulatory effect on this promoter.
+These findings reveal the features controlling the pp52 promoter in B and T cells
+and provide the foundation for determining the regulation of this promoter in
+other leukocyte lineages.
+
+PMID: 9257843  [PubMed - indexed for MEDLINE]
+
+
+78. Biochem Mol Med. 1997 Aug;61(2):127-35.
+
+Structure-function relationships of the PEA3 group of Ets-related transcription
+factors.
+
+de Launoit Y(1), Baert JL, Chotteau A, Monte D, Defossez PA, Coutte L, Pelczar H,
+Leenders F.
+
+Author information: 
+(1)UMR 319 CNRS, Institut Pasteur de Lille, France. delaunoi@infobiogen.fr
+
+The PEA3 group of transcription factors belongs to the Ets family and is composed
+of PEA3, ERM, and ER81, which are more than 95% identical within the DNA-binding 
+domain--the ETS domain--and which demonstrate 50% aa identity overall. We present
+here a review of the current knowledge of these transcription factors, which
+possess functional domains responsible for DNA-binding, DNA-binding inhibition,
+and transactivation. Recent data suggest that these factors are targets for
+signaling cascades, such as the Ras-dependent ones, and thus may contribute first
+to the nuclear response to cell stimulation and second to Ras-induced cell
+transformation. The expression of the PEA3 group members in numerous developing
+murine organs, and, especially, in epithelial-mesenchymal interaction events,
+suggests a key role in murine organogenesis. Moreover, their expression in
+certain breast cancer cells suggests a possible involvement of these genes in the
+appearance, progression, and invasion of malignant cells.
+
+PMID: 9259977  [PubMed - indexed for MEDLINE]
+
+
+79. EMBO J. 1996 Nov 1;15(21):5849-65.
+
+Net (ERP/SAP2) one of the Ras-inducible TCFs, has a novel inhibitory domain with 
+resemblance to the helix-loop-helix motif.
+
+Maira SM(1), Wurtz JM, Wasylyk B.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire, CNRS, INSERM, 
+ULP, Illkirch, France.
+
+The three ternary complex factors (TCFs), Net (ERP/ SAP-2), ELK-1 and SAP-1, are 
+highly related ets oncogene family members that participate in the response of
+the cell to Ras and growth signals. Understanding the different roles of these
+factors will provide insights into how the signals result in coordinate
+regulation of the cell. We show that Net inhibits transcription under basal
+conditions, in which SAP-1a is inactive and ELK-1 stimulates. Repression is
+mediated by the NID, the Net Inhibitory Domain of about 50 amino acids, which
+autoregulates the Net protein and also inhibits when it is isolated in a
+heterologous fusion protein. Net is particularly sensitive to Ras activation. Ras
+activates Net through the C-domain, which is conserved between the three TCFs,
+and the NID is an efficient inhibitor of Ras activation. The NID, as well as more
+C-terminal sequences, inhibit DNA binding. Net is more refractory to DNA binding 
+than the other TCFs, possibly due to the presence of multiple inhibitory
+elements. The NID may adopt a helix-loop-helix (HLH) structure, as evidenced by
+homology to other HLH motifs, structure predictions, model building and
+mutagenesis of critical residues. The sequence resemblance with myogenic factors 
+suggested that Net may form complexes with the same partners. Indeed, we found
+that Net can interact in vivo with the basic HLH factor, E47. We propose that Net
+is regulated at the level of its latent DNA-binding activity by protein
+interactions and/or phosphorylation. Net may form complexes with HLH proteins as 
+well as SRF on specific promotor sequences. The identification of the novel
+inhibitory domain provides a new inroad into exploring the different roles of the
+ternary complex factors in growth control and transformation.
+
+PMCID: PMC452333
+PMID: 8918463  [PubMed - indexed for MEDLINE]
+
+
+80. J Biol Chem. 1996 Oct 4;271(40):24639-48.
+
+GHF-1/Pit-1 functions as a cell-specific integrator of Ras signaling by targeting
+the Ras pathway to a composite Ets-1/GHF-1 response element.
+
+Bradford AP(1), Conrad KE, Tran PH, Ostrowski MC, Gutierrez-Hartmann A.
+
+Author information: 
+(1)Department of Medicine, Program in Molecular Biology, and Colorado Cancer
+Center, University of Colorado Health Sciences Center, Denver, 80262, USA.
+
+Activation of the rat prolactin (rPRL) promoter by Ras is a prototypical example 
+of tissue-specific transcriptional regulation in a highly differentiated cell
+type. Using a series of site-specific mutations and deletions of the proximal
+rPRL promoter we have mapped the major Ras/Raf response element (RRE) to a
+composite Ets-1/GHF-1 binding site located between positions -217 and -190.
+Mutation of either the Ets-1 or GHF-1 binding sites inhibits Ras and Raf
+activation of the rPRL promoter, and insertion of this RRE into the rat growth
+hormone promoter confers Ras responsiveness. We show that Ets-1 is expressed in
+GH4 cells and, consistent with their functional synergistic interaction, both
+Ets-1 and GHF-1 are able to bind specifically to this bipartite RRE. We confirm
+that Ets-1 or a related Ets factor is the nuclear target of the Ras pathway
+leading to activation of the rPRL promoter and demonstrate that Elk-1 and Net do 
+not mediate the Ras response. Thus, the pituitary-specific POU homeodomain
+transcription factor, GHF-1, serves as a cell-specific signal integrator by
+functionally interacting with an Ets-1-like factor, at uniquely juxtaposed
+binding sites, thereby targeting an otherwise ubiquitous Ras signaling pathway to
+a select subset of cell-specific GHF-1-dependent genes.
+
+PMID: 8798730  [PubMed - indexed for MEDLINE]
+
+
+81. DNA Cell Biol. 1996 Oct;15(10):855-62.
+
+Molecular cloning of Elk-3, a new member of the Ets family expressed during mouse
+embryogenesis and analysis of its transcriptional repression activity.
+
+Nozaki M(1), Onishi Y, Kanno N, Ono Y, Fujimura Y.
+
+Author information: 
+(1)Department of Molecular Embryology, Research Institute for Microbial Diseases,
+Osaka University, Japan.
+
+We isolated a cDNA clone, Elk-3, that encodes a novel Ets transcription factor
+from 16-day mouse embryos. The deduced amino acid sequence of the protein was
+homologous to human ELK-1 and SAP-1. This protein, ELK-1, and SAP-1 shared some
+unique structural properties such as an Ets DNA-binding site in the
+amino-terminal region, a serum response factor interacting domain and
+phosphorylation sites of serine or threonine residues in the carboxy-terminal
+region. Northern blotting weakly revealed that two transcripts of 4 and 2.1 kb
+are expressed in the adult ovary and lung and a 2.1-kb transcript predominated in
+8- to 14-day embryos. We assayed the transcriptional activities of Elk-3 protein 
+on the cytokeratin EndoA enhancer containing Ets binding sites in endodermal
+cells. Elk-3 protein strongly repressed enhancer activity but did not affect the 
+activity of the basal promoter in the absence of the enhancer. Furthermore, Elk-3
+can suppress the activity of Ets-2 as the transcriptional activator on the EndoA 
+enhancer. These data suggested that the Elk-3 gene product plays a role in
+transcriptional regulation during embryogenesis.
+
+PMID: 8892757  [PubMed - indexed for MEDLINE]
+
+
+82. Genes Dev. 1996 Sep 1;10(17):2198-211.
+
+Pax-5 (BSAP) recruits Ets proto-oncogene family proteins to form functional
+ternary complexes on a B-cell-specific promoter.
+
+Fitzsimmons D(1), Hodsdon W, Wheat W, Maira SM, Wasylyk B, Hagman J.
+
+Author information: 
+(1)Division of Basic Immunology, National Jewish Center for Immunology and
+Respiratory Medicine, Denver, Colorado 80206, USA.
+
+The paired box transcription factor Pax-5 (B-cell-specific activator protein) is 
+a key regulator of lineage-specific gene expression and differentiation in
+B-lymphocytes. We show that Pax-5 functions as a cell type-specific docking
+protein that facilitates binding of the early B-cell-specific mb-1 promoter by
+proteins of the Ets proto-oncogene family. Transcriptional activity of the mb-1
+promoter in pre-B-cells is critically dependent on binding sites for Pax-5:Ets
+complexes. Ternary complex assembly requires only the Pax-5 paired box and ETS
+DNA-binding domains. Mutation of a single base pair in the ternary complex
+binding site allows for independent binding by Ets proteins but, conversely,
+inhibits the binding of Pax-5 by itself. Strikingly, the mutation reverses the
+pattern of complex assembly: Ets proteins recruit Pax-5 to bind the mutated
+sequence. Recruitment of Net and Elk-1, but not SAP1a, by Pax-5 defines a
+functional difference between closely related Ets proteins. Replacement of a
+valine (V68) in the ETS domain of SAP1a by aspartic acid (as found in c-Ets-1,
+Elk-1, and Net) enhanced ternary complex formation by more than 60-fold.
+Together, these observations define novel transcription factor interactions that 
+regulate gene expression in B cells.
+
+PMID: 8804314  [PubMed - indexed for MEDLINE]
+
+
+83. J Biol Chem. 1996 Aug 9;271(32):19599-605.
+
+Purification of the pets factor. A nuclear protein that binds to the inducible
+TG-rich element of the human immunodeficiency virus type 2 enhancer.
+
+Fu GK(1), Markovitz DM.
+
+Author information: 
+(1)Department of Internal Medicine, Division of Infectious Diseases, University
+of Michigan Medical Center, Ann Arbor, Michigan 48109-0642, USA.
+
+The peri-ets (pets) site is a TG-rich element found immediately adjacent to two
+binding sites for the ets family member Elf-1 in the human immunodeficiency virus
+type 2 (HIV-2) enhancer. Enhancer activation in response to T cell stimulation by
+phorbol myristate acetate, phytohemagglutinin, soluble or cross-linked antibodies
+to the T cell receptor, or antigen is mediated through this site in conjunction
+with its two adjacent Elf-1 binding sites, PuB1 and PuB2, and a kappaB site.
+Site-specific mutation of the pets element significantly reduces inducible
+activation of this enhancer but does not affect its transactivation by HIV-2 tat 
+or other viral transactivators. Similar TG-rich sequences adjacent to ets-binding
+sites have also been found to be functionally important in the human T-cell
+leukemia virus type I and murine Moloney leukemia virus enhancers. As the
+cellular factor binding to the pets site plays a significant role in regulating
+the HIV-2 enhancer in both T cells and monocytes, we have purified this protein
+from bovine spleens and demonstrate that it is 43 kDa in size. In addition, using
+glycerol gradient centrifugation, Southwestern blotting, electrophoretic mobility
+shift assays employing purified protein eluted from a gel, and a new in solution 
+UV cross-linking competitive assay, we show that the dominant protein binding to 
+the pets site is 43 kDa in size. These results indicate that a nuclear protein of
+43 kDa binds specifically to the pets site of the HIV-2 enhancer and may mediate 
+transcriptional activation of this important human pathogen in response to T cell
+stimulation. As retroviruses generally expropriate important human regulatory
+proteins for their own use, the 43-kDa pets factor is also likely to play a
+significant role in signal transduction in T cells and in other cellular
+processes.
+
+PMID: 8702655  [PubMed - indexed for MEDLINE]
+
+
+84. Int J Cancer. 1996 Jul 29;67(3):372-8.
+
+Direct relationship between radiobiological hypoxia in tumors and monoclonal
+antibody detection of EF5 cellular adducts.
+
+Lee J(1), Siemann DW, Koch CJ, Lord EM.
+
+Author information: 
+(1)Department of Microbiology and Immunology, University of Rochester School of
+Medicine and Dentistry, NY 14642, USA.
+
+While the potential importance of hypoxia in limiting the sensitivity of tumor
+cells to ionizing radiation has long been appreciated, methods for accurately
+quantifying the number of radiation-resistant hypoxic cells within tumors have
+been lacking. We have used the pentafluorinated derivative
+[2-(2-nitro-1H-imidazol-1-yl)-N-(2,2,3,3,3-pentafluoropropyl)-acet amide] of
+etanidazole (EF5), which binds selectively to hypoxic cells. The adducts formed
+between EF5 and cellular proteins in the hypoxic cells were detected using the
+specific monoclonal antibody (MAb), ELK3-51 conjugated to the flurochrome Cy3,
+and the number of hypoxic cells was quantified by flow cytometry. To verify the
+validity of this technique for the detection of hypoxic cells, mice bearing KHT
+sarcomas were treated with various agents to alter tumor oxygenation and hence
+vary the fraction of radiobiologically hypoxic tumor cells. The percentage of EF5
+binding cells was then compared directly with the clonogenic survival of the
+tumor cells following radiation treatment under the various pretreatment
+conditions. The results showed that allowing the mice to breathe carbogen (5%
+CO2/95% O2) prior to irradiation reduced clonogenic cell survival approx. 6-fold 
+and led to an absence of cells binding high levels of EF5. In contrast,
+pretreating the tumor-bearing animals with either hydralazine, which decreased
+tumor blood flow, or phenylhydrazine hydrochloride, which made the mice anemic,
+increased tumor cell survival following irradiation 2- to 4-fold, indicative of
+an increase in the fraction of hypoxic tumor cells. EF5 measurements made under
+identical conditions illustrated a shift in the cells in the tumor to high EF5
+binding. Our results demonstrate that flow cytometric measurement by fluorescent 
+MAb binding to EF5 adducts may relate directly to radiobiological hypoxia in KHT 
+tumors measured by conventional methods.
+
+PMID: 8707411  [PubMed - indexed for MEDLINE]
+
+
+85. Br J Cancer Suppl. 1996 Jul;27:S200-3.
+
+Immunocytochemical labelling of aerobic and hypoxic mammalian cells using a
+platinated derivative of EF5.
+
+Matthews J(1), Adomat H, Farrell N, King P, Koch C, Lord E, Palcic B, Poulin N,
+Sangulin J, Skov K.
+
+Author information: 
+(1)Department of Medical Biophysics, BC Cancer Research Centre, Vancouver,
+Canada.
+
+The monoclonal antibody ELK3-51 was previously developed to detect adducts of the
+2-nitroimidazole EF5. Direct immunofluorescence was used to detect adducts of EF5
+or of a platinated derivative cis-[PtCl2(NH3)EF5] in SCCVII cells treated under
+aerobic or hypoxic conditions. Fluorescence measurements of these cells using
+both image and flow cytometric methods were compared, giving similar profiles.
+Platination significantly decreased immunofluorescence levels (approximately
+4-fold less than EF5) after 3 h in hypoxia, but also increased levels after
+exposure in air (approximately 1.5 x) such that the hypoxic ratio decreased from 
+approximately 50 to approximately 13. Platinated EF5 also showed significantly
+greater cytotoxicity than its parent in both aerobic and hypoxic cells. These
+results are consistent with targeting of EF5 to DNA, which was confirmed
+qualitatively by confocal microscopy.
+
+PMCID: PMC2150041
+PMID: 8763880  [PubMed - indexed for MEDLINE]
+
+
+86. Philos Trans R Soc Lond B Biol Sci. 1996 Apr 29;351(1339):551-9.
+
+Integration of growth factor signals at the c-fos serum response element.
+
+Price MA(1), Hill C, Treisman R.
+
+Author information: 
+(1)Transcription Laboratory, Imperial Cancer Research Fund, London, U.K.
+
+A transcription factor ternary complex composed of serum response factor (SRF)
+and a second factor, ternary complex factor (TCF), mediates the response of the
+c-fos Serum Response Element to growth factors and mitogens. In NIH3T3
+fibroblasts, TCF binding is required for transcriptional activation by the SRE in
+response to activation of the Ras-Raf-ERK pathway. We compared the properties of 
+three members of the TCF family, Elk-1, SAP-1 and SAP-2 (ERP/NET). Although all
+the proteins contain sequences required for ternary complex formation with SRF,
+only Elk-1 and SAP-1 appear to interact with the c-fos SRE efficiently in vivo.
+Each TCF contains a C-terminal activation domain capable of transcriptional
+activation in response to activation of the Ras-Raf-ERK pathway, and this is
+dependent on the integrity of S/T-P motifs conserved between all the TCF family
+members. In contrast, activation of the SRE by whole serum and the mitogenic
+phospholipid LPA requires SRF binding alone. Constitutively activated members of 
+the Rho subfamily of Ras-like GTPases are also capable of inducing activation of 
+the SRE in the absence of TCF; unlike activated Ras itself, these proteins do not
+activate the TCFs in NIH3T3 cells. At the SRE, SRF- and TCF-linked signalling
+pathways act synergistically to potentiate transcription.
+
+PMID: 8735278  [PubMed - indexed for MEDLINE]
+
+
+87. Cancer Res. 1996 Mar 15;56(6):1413-7.
+
+Mutational analysis of the candidate tumor suppressor genes TEL and KIP1 in
+childhood acute lymphoblastic leukemia.
+
+Stegmaier K(1), Takeuchi S, Golub TR, Bohlander SK, Bartram CR, Koeffler HP.
+
+Author information: 
+(1)Division of Hematology/Oncology, Brigham and Women's Hospital, Harvard Medical
+School, Boston, Massachusetts 02115, USA.
+
+We have shown previously that loss of heterozygosity at chromosome band 12p13 is 
+among the most frequent genetic abnormalities identified in acute lymphoblastic
+leukemia (ALL) of childhood. Two known genes map within the critically deleted
+region of 12p: TEL, the gene encoding a new member of the ETS family of
+transcription factors, which is rearranged in a variety of hematological
+malignancies; and KIP1, the gene encoding the cyclin-dependent kinase inhibitor
+p27. Both genes are, therefore, excellent candidate tumor suppressor genes. In
+this report, we determined the exon organization of the TEL gene and performed
+mutational analysis of TEL and KIP1 in 33 childhood ALL patients known to have
+loss of heterozygosity at this locus. No mutations in either TEL or KIP1 were
+found; this suggest that neither TEL nor KIP1 is the critical 12p tumor
+suppressor gene in childhood ALL.
+
+PMID: 8640833  [PubMed - indexed for MEDLINE]
+
+
+88. Curr Biol. 1996 Jan 1;6(1):16-9.
+
+Signalling pathways: jack of all cascades.
+
+Cahill MA(1), Janknecht R, Nordheim A.
+
+Author information: 
+(1)Institute for Molecular Biology, Hannover Medical School, Germany.
+
+The transcription factors that bind the c-fos promoter element SRE are targeted
+by multiple, independent signalling cascades; the identities of these signalling 
+pathways and their modes of activation are being elucidated.
+
+PMID: 8805215  [PubMed - indexed for MEDLINE]
+
+
+89. J Biol Chem. 1995 Nov 17;270(46):27773-9.
+
+A consensus insulin response element is activated by an Ets-related transcription
+factor.
+
+Jacob KK(1), Ouyang L, Stanley FM.
+
+Author information: 
+(1)Department of Medicine, New York University Medical Center, New York 10016,
+USA.
+
+Insulin increases expression of somatostatin-chloramphenicol acetyltransferase
+(CAT) constructs 10-fold and thymidine kinase-CAT constructs 5-fold in GH4 cells.
+These responses are similar to our previously reported data on insulin-increased 
+prolactin-CAT expression. They are also observed in HeLa cells and are thus not
+cell type specific. The evidence suggests that the insulin responsiveness of
+these genes is mediated by an Ets-related transcription factor. First,
+linker-scanning mutations and/or deletions of the prolactin, somatostatin, and
+thymidine kinase promoters suggest that their insulin responsiveness is mediated 
+by the sequence CGGA. This sequence is identical with the response element of the
+Ets-related transcription factors. Second, CGGA-containing sequences placed at
+-88 in the delta MTV-CAT reporter plasmid conferred insulin responsiveness to the
+mammary tumor virus promoter. Third, expression of the DNA-binding domain of
+c-Ets-2, which acts by blocking effects mediated by Ets-related transcription
+factors, inhibits the response of these promoters to insulin. Finally, the
+Ets-related proteins Sap and Elk-1 bind to the prolactin, somatostatin, and
+thymidine kinase insulin-response elements. An Ets-like element was found in all 
+insulin-sensitive promoters examined and may serve a similar function in those
+promoters.
+
+PMID: 7499246  [PubMed - indexed for MEDLINE]
+
+
+90. Oncogene. 1995 Nov 16;11(10):2135-43.
+
+ETS1 transactivates the human GM-CSF promoter in Jurkat T cells stimulated with
+PMA and ionomycin.
+
+Thomas RS(1), Tymms MJ, Seth A, Shannon MF, Kola I.
+
+Author information: 
+(1)Monash University Institute of Reproduction and Development, Monash Medical
+Centre, Clayton, Melbourne, Australia.
+
+Activation of T helper cells results in coordinate expression of a number of
+cytokines involved in differentiation, proliferation and activation of the
+haematopoietic system. Granulocyte-macrophage colony-stimulating factor (GM-CSF) 
+is one such cytokine whose increased expression results partly from increases in 
+transcription. Cis-acting elements with NF kappa B, AP-1 and ETS-like motifs have
+been identified in the promoter region of the GM-CSF gene, which are important
+for transcriptional activity following PMA and ionomycin stimulation. A number of
+the ETS family of transcription factors are expressed in T cells, including ETS1 
+and ELF1. Here we describe the ability of these factors to interact with a site
+(GM5), located within the CLE0 element, -47 to -40 upstream of the GM-CSF
+transcription initiation site. Exogenous ETS1, but not ELF1, can transactivate
+GM-CSF, through the GM5 site, in a PMA/ionomycin dependent manner. Other
+unidentified ETS-like factors present in Jurkat cells are also capable of binding
+GM5. Mutation of the core ETS binding site from -GGAA- to -GGAT- prevents the
+binding of ETS-like factors with the exception of ETS1. The GM-CSF promoter,
+modified in this way to be ETS1 specific, is fully responsive to PMA/ionomycin
+induction, in addition to ETS1 transactivation in the presence of PMA and
+ionomycin. Together these data suggest that ETS1 may be involved in mediating the
+increased GM-CSF production associated with T cell activation.
+
+PMID: 7478534  [PubMed - indexed for MEDLINE]
+
+
+91. Genomics. 1995 Oct 10;29(3):769-72.
+
+Locations of the ets subfamily members net, elk1, and sap1 (ELK3, ELK1, and ELK4)
+on three homologous regions of the mouse and human genomes.
+
+Giovane A(1), Sobieszczuk P, Mignon C, Mattei MG, Wasylyk B.
+
+Author information: 
+(1)Institut de Génétique et de Biologie Moléculaire et Cellulaire, Illkirch,
+France.
+
+Net, Elk1, and Sap1 are related members of the Ets oncoprotein family. We show by
+in situ hybridization on banded chromosomes with specific cDNA probes that their 
+map positions on mouse and human chromosomes (respectively) are net, 10C-D1 and
+12q22-q23 (now called ELK3), sap1, 1E3-G and 1q32 (ELK4), and elk1, XA1-A3 and
+Xp11.2-p11.1 (ELK1), as well as a second locus 14q32 (ELK2) unique to the human
+genome. The results for the mouse net, sap1, and elk1 and human ELK3 genes are
+new. The human elk1 mapping confirms a previous study. The human ELK4
+localization agrees with data published during the preparation of the manuscript.
+Human ELK3 colocalizes with sap2, and we confirm that they are identical. These
+results firmly establish for the first time that Net, Elk1, and Sap1 are distinct
+gene products with different chromosomal localizations in both the mouse and the 
+human genomes. Net, Elk1, and Sap1 are conserved and map to homologous regions of
+the mouse and human chromosomes.
+
+PMID: 8575773  [PubMed - indexed for MEDLINE]
+
+
+92. Br J Cancer. 1995 Oct;72(4):869-74.
+
+Oxygen dependence of cellular uptake of EF5
+[2-(2-nitro-1H-imidazol-1-yl)-N-(2,2,3,3,3-pentafluoropropyl)a cet amide] :
+analysis of drug adducts by fluorescent antibodies vs bound radioactivity.
+
+Koch CJ(1), Evans SM, Lord EM.
+
+Author information: 
+(1)University of Pennsylvania, Philadelphia 19104-6072, USA.
+
+The present studies were initiated to quantitate the oxygen dependence of
+bioreductive metabolism-induced binding of EF5, a pentafluorinated derivative of 
+the 2-nitroimidazole, etanidazole. Two different assays were compared: first,
+radioactive drug incorporation into cell lysates, which provides a direct measure
+of drug metabolism or uptake; second, monoclonal antibody detection of cellular
+macromolecular adducts of EF5 after whole cell permeabilisation and fixing. The
+antibodies (a single clone designated ELK3-51) were conjugated with the
+fluorescent dye Cy3, with fluorescence determined by fluorescence microscopy and 
+flow cytometry. For the two cell lines tested (V79 Chinese hamster fibroblasts
+and 9L rat glioma), the oxygen dependence of binding was found to be the same for
+the two techniques. Using the antibody binding technique, the fluorescence signal
+was highly reproducible between experiments, resistant to light or chemical
+bleaching and stable over time following cell or tissue staining. Flow cytometric
+analysis of cells from rat 9L tumours treated with EF5 in vivo or in vitro showed
+a distribution of fluorescent signal which was very compatible, on both a
+relative and absolute basis, with the in vitro results. Our results indicate that
+immunofluorescent techniques provide a quantitative assay for bioreductive drug
+adducts, and therefore may be able to measure the absolute oxygen concentration
+distribution in cell populations and tissues of interest.
+
+PMCID: PMC2034014
+PMID: 7547233  [PubMed - indexed for MEDLINE]
+
+
+93. Oncogene. 1995 Aug 17;11(4):771-9.
+
+Molecular characterization of the ets-related human transcription factor ER81.
+
+Monté D(1), Coutte L, Baert JL, Angeli I, Stéhelin D, de Launoit Y.
+
+Author information: 
+(1)Unité d'Oncologie Moléculaire, CNRS URA 1160-Institut Pasteur de Lille,
+France.
+
+The PEA3 group is a homogeneous group of the ets transcription factor family and 
+is composed of three known members, PEA3, ERM and ER81, which, on the amino acid 
+(AA) level, are more than 95% identical within the DNA-binding domain (the Ets
+domain), more than 85% within a 32 AA domain (the acidic domain) localized in the
+amino-terminus and almost 50% identical overall. By screening a human kidney cDNA
+library with a specific probe obtained from mouse ER81, we isolated two clones of
+1.6 and 1.5 kb in length encoding a 458 AA open reading frame. When compared to
+mouse ER81, the present human ER81 lacks the last 13 AA of the acidic domain and 
+the 5 AA contiguous to the carboxy-terminal part of the acidic domain. Of the 458
+AA of the human ER81 protein, 97% are identical to mouse ER81. Gel shift analysis
+indicates that the full-length human ER81 protein is able to bind specifically to
+an oligonucleotide containing the binding sites recognized by most of the Ets
+proteins. By transient expression in RK13 mammalian cells, human ER81 protein
+transactivated a reporter plasmid containing Ets binding sites, indicating that
+this molecule is a bonafide transcriptional activator, while by expression in
+Cos-1 transfected cells, we detected the presence of human ER81 protein in the
+nucleus using immunocytochemistry. In human tissues, ER81 mRNA is very highly
+expressed in brain, highly expressed in testis, lung and heart, moderately in
+spleen, small intestine, pancreas and colon, weakly in liver, prostate and
+thymus, very weakly in skeletal muscle, kidney and ovary and not in placenta and 
+peripheral blood leukocytes. Analysis of human solid or haematopoietic tumour
+cell lines showed that most of them did not express ER81 detectably. Database
+searches revealed that ETV1 mRNA is highly similar to human ER81 described here, 
+although it contains the full-length acidic domain present in mouse ER81. By
+screening a genomic DNA library, we characterized the intron-exon junction within
+the acidic domain of human ER81 and we showed that this junction corresponds to
+the site where the remaining AA of the acidic domain of ETV1 or mouse ER81 are
+inserted.
+
+PMID: 7651741  [PubMed - indexed for MEDLINE]
+
+
+94. EMBO J. 1995 Jun 1;14(11):2589-601.
+
+Comparative analysis of the ternary complex factors Elk-1, SAP-1a and SAP-2
+(ERP/NET).
+
+Price MA(1), Rogers AE, Treisman R.
+
+Author information: 
+(1)Transcription Laboratory, Imperial Cancer Research Fund, London, UK.
+
+A transcription factor ternary complex composed of Serum Response Factor (SRF)
+and Ternary Complex Factor (TCF) mediates the response of the c-fos Serum
+Response Element (SRE) to growth factors and mitogens. Three Ets domain proteins,
+Elk-1, SAP-1 and ERP/NET, have been reported to have the properties of TCF. Here 
+we compare Elk-1 and SAP-1a with the human ERP/NET homologue SAP-2. All three TCF
+RNAs are ubiquitously expressed at similar relative levels. All three proteins
+contain conserved regions that interact with SRF and the c-fos SRE with
+comparable efficiency, but in vitro complex formation by SAP-2 is strongly
+inhibited by its C-terminal sequences. Similarly, only Elk-1 and SAP-1a
+efficiently bind the c-fos SRE in vivo; ternary complex formation by SAP-2 is
+weak and is substantially unaffected by serum stimulation or v-ras co-expression.
+All three TCFs contain C-terminal transcriptional activation domains that are
+phosphorylated following growth factor stimulation. Activation requires conserved
+S/T-P motifs found in all the TCF family members. Each TCF activation domain can 
+be phosphorylated in vitro by partially purified ERK2, and ERK activation in vivo
+is sufficient to potentiate transcriptional activation.
+
+PMCID: PMC398373
+PMID: 7540136  [PubMed - indexed for MEDLINE]
+
+
+95. Genomics. 1995 Mar 20;26(2):414-6.
+
+Mouse Elk oncogene maps to chromosome X and a novel Elk oncogene (Elk3) maps to
+chromosome 10.
+
+Tamai Y(1), Taketo M, Nozaki M, Seldin MF.
+
+Author information: 
+(1)Banyu Tsukuba Research Institute (Merck), Japan.
+
+The Elk protein is a member of the Ets family found in both vertebrates and
+invertebrates. Human ELK1 encoded by ELK1 binds alone or together with serum
+response factor to DNA and regulates gene expression in a variety of biological
+processes. Using a panel of interspecific backcross mice, we have mapped the Elk 
+oncogene (Elk) and a novel type Elk oncogene (Elk3), closely related to ELK1. Elk
+maps to Chr X, and Elk3 maps to the proximal region of Chr 10.
+
+PMID: 7601474  [PubMed - indexed for MEDLINE]
+
+
+96. Pathol Biol (Paris). 1995 Mar;43(3):202-7.
+
+[Transcriptional regulators of the Ets family and their implication in normal
+physiological processes and carcinogenesis].
+
+[Article in French]
+
+Ghysdael J.
+
+PMID: 7675547  [PubMed - indexed for MEDLINE]
+
+
+97. Cancer Res. 1994 Nov 1;54(21):5683-8.
+
+Stromal expression of c-Ets1 transcription factor correlates with tumor invasion.
+
+Wernert N(1), Gilles F, Fafeur V, Bouali F, Raes MB, Pyke C, Dupressoir T, Seitz 
+G, Vandenbunder B, Stéhelin D.
+
+Author information: 
+(1)CNRS URA 1160, Institut Pasteur, Lille, France.
+
+The stroma reaction has an important role in tumor growth, invasion, and
+metastasis. In various invasive human carcinomas, as well as in a mouse model for
+tumor invasion, transcripts encoding the transcription factor c-Ets1 were
+detected within stromal fibroblasts, whereas they were absent in epithelial tumor
+cells. This expression of c-Ets1 was often increased in fibroblasts directly
+adjacent to neoplastic cells. Endothelial cells of stromal capillaries were also 
+positive for c-Ets1 expression. In contrast, fibroblasts of corresponding
+noninvasive lesions and of normal tissues were consistently negative. In cultured
+human fibroblasts stimulated by basic fibroblast growth factor and tumor necrosis
+factor alpha, the expression of c-Ets1 correlated with the accumulation of
+transcripts for potential target genes, collagenase-1 and stromelysin-1. The same
+correlation was observed in some of the invasive carcinomas investigated. These
+results suggest that c-Ets1 participates in the regulation of tumor invasion in
+vivo.
+
+PMID: 7923216  [PubMed - indexed for MEDLINE]
+
+
+98. FEBS Lett. 1994 Oct 31;354(1):62-6.
+
+Identification of two ets related genes in a marine worm, the polychaete annelid 
+Nereis diversicolor.
+
+Lelièvre-Chotteau A(1), Laudet V, Flourens A, Bègue A, Leprince D, Fontaine F.
+
+Author information: 
+(1)CNRS ER 87, Bât. SN3, Université des Sciences et Technologies de Lille,
+Villeneuve d'Ascq, France.
+
+The ETS family includes a growing number of transcription factors with a highly
+conserved DNA-binding domain, the ETS domain. We have used PCR amplification with
+degenerated oligonucleotides to isolate two putative ETS DNA-binding coding
+domains in a primitive form of coelomate, the polychaete annelid Nereis
+diversicolor. These sequences are highly related to the ETS and ERG groups of the
+ets gene family. For the erg sequence an adjacent region encoding for 91 amino
+acids has been characterized after library screening, and we show an expression
+in cells isolated from the coelomic cavity of the animal. A phylogenic analysis
+confirms that the ets-1/ets-2 and the erg/fli dichotomy arose specifically in the
+vertebrate lineage.
+
+PMID: 7957902  [PubMed - indexed for MEDLINE]
+
+
+99. Biochemistry. 1994 Oct 11;33(40):12139-48.
+
+Purification and characterization of nuclear factors binding to the negative
+regulatory element D of human apolipoprotein A-II promoter: a negative regulatory
+effect is reversed by GABP, an Ets-related protein.
+
+Cardot P(1), Pastier D, Lacorte JM, Mangeney M, Zannis VI, Chambaz J.
+
+Author information: 
+(1)URA CNRS 1283, Université Pierre et Marie Curie, Paris, France.
+
+We have previously shown that transcription of the human apolipoprotein A-II
+(apoA-II) gene is controlled by a complex set of regulatory elements [Cardot et
+al. (1993) Biochemistry 32, 9080-9093]. We have also identified previously
+described, as well as new activities which bind to these elements and influence
+to varying degrees the transcription of the apoA-II gene. DNA binding and
+competition assays indicated that element D binds three new activities,
+designated AIID1, AIID2, and AIID4, as well as an activity related to C/EBP.
+Activities AIID1, AIID2, and AIID4 were purified and characterized further in
+order to determine their function on the transcriptional regulation of human
+apoA-II gene. SDS-PAGE analysis as well as photoaffinity cross-linking of the
+affinity-purified AIID2 showed that it consists of three proteins with molecular 
+masses ranging between 54 and 63 kDa. The amino acid sequence of tryptic peptides
+obtained from AIID2 protein bands revealed that it is homologous to GABP, an
+Ets-related protein. Similar analysis showed that affinity-purified AIID4 has an 
+apparent molecular mass of 130 kDa. AIID1 activity was purified partially; in
+addition to binding to the apoA-II promoter, AIID1 also binds to the regulatory
+element C of apoCIII and may play a role in the transcriptional regulation of
+both genes. Methylation interference of G residues and permanganate modification 
+of T residues indicated that the binding sites of AIID2 and AIID4 were contiguous
+on element D. However, the binding site of AIID1 overlaps with the binding sites 
+of both AIID2 and AIID4. This suggests that the binding of AIID1 and AIID2 or of 
+AIID1 and AIID4 may be mutually exclusive, whereas AIID2 and AIID4 may bind
+simultaneously. Transcription from a minimal promoter containing elements AB, C, 
+and D of apoA-II increased 1.5- to 1.6-fold when element D is deleted, as well as
+by promoter mutations which eliminated the binding of both AIID1 and/or AIID4 to 
+element D, but permitted the binding of AIID2/GABP. The findings suggest that
+element D has a negative regulatory role on apoA-II gene transcription when it is
+occupied by protein AIID1 and/or AIID4. This negative effect is reversed when
+element D is occupied only by the regulatory factor AIID2/GABP.
+
+PMID: 7918435  [PubMed - indexed for MEDLINE]
+
+
+100. J Biol Chem. 1994 Sep 30;269(39):24335-42.
+
+In vitro interactions between nuclear proteins and uncoupling protein gene
+promoter reveal several putative transactivating factors including Ets1, retinoid
+X receptor, thyroid hormone receptor, and a CACCC box-binding protein.
+
+Cassard-Doulcier AM(1), Larose M, Matamala JC, Champigny O, Bouillaud F, Ricquier
+D.
+
+Author information: 
+(1)Centre de Recherches sur l'Endocrinologie Moléculaire et le Développement,
+CNRS, Meudon, France.
+
+Previous studies of rat ucp (uncoupling protein) gene organization carried out in
+this laboratory identified regulatory sequences located in the 5'-flanking
+region. In this work, DNase I footprint analysis of the enhancer revealed two
+domains at base pairs (bp) -2444 to -2423 and bp -2352 to -2319. The former
+domain can bind in vitro, in a cooperative manner, factors related to nuclear
+factor 1 and Ets1; the latter domain contains a type 3 directly repeated sequence
+that was shown to be able to bind the retinoid X and triiodothyronine receptors. 
+Moreover, a positive effect of retinoic acid on ucp mRNA levels in immortalized
+brown adipocytes was observed. DNase I footprint analysis identified two
+hypersensitive regions, A and B, at bp -509 to -472 and bp -403 to -350,
+respectively; region A contains a repeated CACCC box, and region B can bind
+protein related to Ets1. The A box differentially binds liver and brown adipose
+tissue nuclear proteins and could be involved in uncoupling protein induction.
+Further analysis showed three foot-printed boxes, C-E, at bp -182 to -159, -147
+to -120, and -111 to -85, able to bind in vitro proteins related to nuclear
+factor 1, cAMP response element-binding protein, and Sp1, respectively.
+
+PMID: 7929091  [PubMed - indexed for MEDLINE]
+
+
+101. Eur J Biochem. 1994 Aug 1;223(3):997-1006.
+
+Involvement of Ets-related proteins in hormone-independent mammary cell-specific 
+gene expression.
+
+Welte T(1), Garimorth K, Philipp S, Jennewein P, Huck C, Cato AC, Doppler W.
+
+Author information: 
+(1)Institut für Medizinische Chemie und Biochemie, Innsbruck, Austria.
+
+Regulatory regions have been located in the 5' flanking sequence of the mouse
+whey acidic protein gene which contribute to its tissue- and stage-specific
+expression in the mammary gland. They can be functionally separated into elements
+which mediate the action of lactogenic hormones prolactin and glucocorticoids and
+elements which control mammary cell-specific transcription in the absence of
+hormones. By mutational analysis, we have located a site in the whey acidic
+protein promoter between -120 and -100 which is important for hormone-independent
+promoter function. In stably transfected HC11 mammary epithelial cells, the
+hormone-independent activity of the mutated promoter was reduced 40-fold, whereas
+the capability to respond to lactogenic hormones was retained. The site was
+specifically recognised by two nuclear factors contained in extracts of
+cultivated mammary epithelial cells or mammary glands. Electrophoretic mobility
+shift assay, DNase I footprinting and methylation interference experiments
+indicated a relation of both factors to the Ets family of DNA-binding proteins.
+One of these factors also recognised a functionally important site in the mammary
+cell-specific enhancer of the mouse mammary tumor virus long terminal repeat. The
+results suggest that factors related to the Ets family are important determinants
+in mammary cell-specific gene expression.
+
+PMID: 8055977  [PubMed - indexed for MEDLINE]
+
+
+102. Genes Dev. 1994 Jul 1;8(13):1502-13.
+
+Net, a new ets transcription factor that is activated by Ras.
+
+Giovane A(1), Pintzas A, Maira SM, Sobieszczuk P, Wasylyk B.
+
+Author information: 
+(1)Centre National de la Recherche Scientifique-Laboratoire de Genetique
+Moleculaire des Eucaryotes (CNRS-LGME), Institut National de la Santé et de la
+Recherche Médicale (INSERM)-U. 184, Faculté de Médecine, Strasbourg, France.
+
+Ras signaling appears to be mediated in part by transcription factors that belong
+to the ets gene family. To identify downstream targets for the Ras signal
+transduction pathway, we have used Ras-transformed mouse fibroblasts to isolate a
+new member of the ets gene family, net. Net has sequence similarity in three
+regions with the ets factors Elk1 and SAP1, which have been implicated in the
+serum response of the fos promoter. Net shares various properties with these
+proteins, including the ability to bind to ets DNA motifs through the Ets domain 
+of the protein and form ternary complexes with the serum response factor SRF on
+the fos serum response element, SRE. However, Net differs from Elk1 and SAP1 in a
+number of ways. The pattern of net RNA expression in adult mouse tissues is
+different. Net has negative effects on transcription in a number of assays,
+unlike Elk1. Strikingly, Ras, Src, and Mos expression switch Net activity to
+positive. The study of Net should help in understanding the interplay between Net
+and other members of the Elk subfamily and their contribution to signal
+transduction through Ras to the nucleus.
+
+PMID: 7958835  [PubMed - indexed for MEDLINE]
+
+
+103. Mol Cell Biol. 1994 May;14(5):3292-309.
+
+ERP, a new member of the ets transcription factor/oncoprotein family: cloning,
+characterization, and differential expression during B-lymphocyte development.
+
+Lopez M(1), Oettgen P, Akbarali Y, Dendorfer U, Libermann TA.
+
+Author information: 
+(1)Department of Medicine, Beth Israel Hospital, Boston, Massachusetts 02215.
+
+The ets gene family encodes a group of proteins which function as transcription
+factors under physiological conditions and, if aberrantly expressed, can cause
+cellular transformation. We have recently identified two regulatory elements in
+the murine immunoglobulin heavy-chain (IgH) enhancer, pi and microB, which
+exhibit striking similarity to binding sites for ets-related proteins. To
+identify ets-related transcriptional regulators expressed in pre-B lymphocytes
+that may interact with either the pi or the microB site, we have used a PCR
+approach with degenerate oligonucleotides encoding conserved sequences in all
+members of the ets family. We have cloned the gene for a new ets-related
+transcription factor, ERP (ets-related protein), from the murine pre-B cell line 
+BASC 6C2 and from mouse lung tissue. The ERP protein contains a region of high
+homology with the ETS DNA-binding domain common to all members of the ets
+transcription factor/oncoprotein family. Three additional smaller regions show
+homology to the ELK-1 and SAP-1 genes, a subgroup of the ets gene family that
+interacts with the serum response factor. Full-length ERP expresses only
+negligible DNA-binding activity by itself. Removal of the carboxy terminus
+enables ERP to interact with a variety of ets-binding sites including the E74
+site, the IgH enhancer pi site, and the lck promoter ets site, suggesting a
+carboxy-terminal negative regulatory domain. At least three ERP-related
+transcripts are expressed in a variety of tissues. However, within the B-cell
+lineage, ERP is highly expressed primarily at early stages of B-lymphocyte
+development, and expression declines drastically upon B-cell maturation,
+correlating with the enhancer activity of the IgH pi site. These data suggest
+that ERP might play a role in B-cell development and in IgH gene regulation.
+
+PMCID: PMC358696
+PMID: 7909357  [PubMed - indexed for MEDLINE]
+
+

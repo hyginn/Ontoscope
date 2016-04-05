@@ -1,0 +1,305 @@
+
+1. PLoS One. 2016 Mar 31;11(3):e0152708. doi: 10.1371/journal.pone.0152708.
+
+Isolation of a Genomic Region Affecting Most Components of Metabolic Syndrome in 
+a Chromosome-16 Congenic Rat Model.
+
+Šedová L(1,)(2), Pravenec M(1,)(3), Krenová D(1), Kazdová L(4), Zídek V(3),
+Krupková M(1), Liška F(1), Kren V(1,)(3), Šeda O(1,)(2).
+
+Author information: 
+(1)Institute of Biology and Medical Genetics, First Faculty of Medicine, Charles 
+University and the General Teaching Hospital, Prague, Czech Republic.
+(2)Institute of Molecular Genetics of the Czech Academy of Sciences, Prague,
+Czech Republic. (3)Institute of Physiology of the Czech Academy of Sciences,
+Prague, Czech Republic. (4)Department of Metabolism and Diabetes, Institute for
+Clinical and Experimental Medicine, Prague, Czech Republic.
+
+Metabolic syndrome is a highly prevalent human disease with substantial genomic
+and environmental components. Previous studies indicate the presence of
+significant genetic determinants of several features of metabolic syndrome on rat
+chromosome 16 (RNO16) and the syntenic regions of human genome. We derived the
+SHR.BN16 congenic strain by introgression of a limited RNO16 region from the
+Brown Norway congenic strain (BN-Lx) into the genomic background of the
+spontaneously hypertensive rat (SHR) strain. We compared the morphometric,
+metabolic, and hemodynamic profiles of adult male SHR and SHR.BN16 rats. We also 
+compared in silico the DNA sequences for the differential segment in the BN-Lx
+and SHR parental strains. SHR.BN16 congenic rats had significantly lower weight, 
+decreased concentrations of total triglycerides and cholesterol, and improved
+glucose tolerance compared with SHR rats. The concentrations of insulin, free
+fatty acids, and adiponectin were comparable between the two strains. SHR.BN16
+rats had significantly lower systolic (18-28 mmHg difference) and diastolic
+(10-15 mmHg difference) blood pressure throughout the experiment
+(repeated-measures ANOVA, P < 0.001). The differential segment spans
+approximately 22 Mb of the telomeric part of the short arm of RNO16. The in
+silico analyses revealed over 1200 DNA variants between the BN-Lx and SHR genomes
+in the SHR.BN16 differential segment, 44 of which lead to missense mutations, and
+only eight of which (in Asb14, Il17rd, Itih1, Syt15, Ercc6, RGD1564958, Tmem161a,
+and Gatad2a genes) are predicted to be damaging to the protein product.
+Furthermore, a number of genes within the RNO16 differential segment associated
+with metabolic syndrome components in human studies showed polymorphisms between 
+SHR and BN-Lx (including Lpl, Nrg3, Pbx4, Cilp2, and Stab1). Our novel congenic
+rat model demonstrates that a limited genomic region on RNO16 in the SHR
+significantly affects many of the features of metabolic syndrome.
+
+PMID: 27031336  [PubMed - as supplied by publisher]
+
+
+2. Biochem J. 2015 Jun 1;468(2):345-52. doi: 10.1042/BJ20150030.
+
+The tumour suppressor CHD5 forms a NuRD-type chromatin remodelling complex.
+
+Kolla V(1), Naraparaju K(1), Zhuang T(1), Higashi M(1), Kolla S(1), Blobel GA(2),
+Brodeur GM(1).
+
+Author information: 
+(1)*Division of Oncology, Department of Pediatrics, The Children's Hospital of
+Philadelphia, University of Pennsylvania, Philadelphia 19104, PA, U.S.A.
+(2)†Division of Hematology, Department of Pediatrics, The Children's Hospital of 
+Philadelphia, University of Pennsylvania, Philadelphia 19104, PA, U.S.A.
+
+Eukaryotic gene expression is developmentally regulated, in part by chromatin
+remodelling, and its dysregulation has been linked to cancer. CHD5 (chromodomain 
+helicase DNA-binding protein 5) is a tumour suppressor gene (TSG) that maps to a 
+region of consistent deletion on 1p36.31 in neuroblastomas (NBs) and other tumour
+types. CHD5 encodes a protein with chromatin remodelling, helicase and
+DNA-binding motifs that is preferentially expressed in neural and testicular
+tissues. CHD5 is highly homologous to CHD3 and CHD4, which are the core subunits 
+of nucleosome remodelling and deacetylation (NuRD) complexes. To determine if
+CHD5 forms a similar complex, we performed studies on nuclear extracts from NBLS,
+SY5Y (both with endogenous CHD5 expression), NLF (CHD5 null) and NLF cells stably
+transfected with CHD5 cDNA (wild-type and V5-histidine-tagged).
+Immunoprecipitation (IP) was performed with either CHD5 antibody or antibody to
+V5/histidine-tagged protein. We identified NuRD components both by GST-FOG1
+(Friend Of GATA1) pull-down and by IP. We also performed MS/MS analysis to
+confirm the presence of CHD5 or other protein components of the NuRD complex, as 
+well as to identify other novel proteins. CHD5 was clearly associated with all
+canonical NuRD components, including metastasis-associated protein (MTA)1/2, GATA
+zinc finger domain containing 2A (GATAD2A), histone deacetylase (HDAC)1/2,
+retinoblastoma-binding protein (RBBP)4/7 and methyl DNA-binding domain protein
+(MBD)2/3, as determined by Western blotting and MS/MS. Our data suggest CHD5
+forms a NuRD complex similar to CHD4. However, CHD5-NuRD may also have unique
+protein associations that confer functional specificity and may contribute to
+normal development and to tumour suppression in NB and other cancers.
+
+PMCID: PMC4487910
+PMID: 25825869  [PubMed - indexed for MEDLINE]
+
+
+3. Cell Mol Life Sci. 2015 Jul;72(13):2491-507. doi: 10.1007/s00018-015-1880-8. Epub
+2015 Mar 22.
+
+Structure and function insights into the NuRD chromatin remodeling complex.
+
+Torchy MP(1), Hamiche A, Klaholz BP.
+
+Author information: 
+(1)Department of Integrated Structural Biology, Centre for Integrative Biology
+(CBI), Institute of Genetics and of Molecular and Cellular Biology (IGBMC), 1 rue
+Laurent Fries, Illkirch, France.
+
+Transcription regulation through chromatin compaction and decompaction is
+regulated through various chromatin-remodeling complexes such as nucleosome
+remodeling and histone deacetylation (NuRD) complex. NuRD is a 1 MDa
+multi-subunit protein complex which comprises many different subunits, among
+which histone deacetylases HDAC1/2, ATP-dependent remodeling enzymes CHD3/4,
+histone chaperones RbAp46/48, CpG-binding proteins MBD2/3, the GATAD2a (p66a)
+and/or GATAD2b (p66ß) and specific DNA-binding proteins MTA1/2/3. Here, we review
+the currently known crystal and NMR structures of these subunits, the functional 
+data and their relevance for biomedical research considering the implication of
+NuRD subunits in cancer and various other diseases. The complexity of this
+macromolecular assembly, and its poorly understood mode of interaction with the
+nucleosome, the repeating unit of chromatin, illustrate that this complex is a
+major challenge for structure-function relationship studies which will be tackled
+best by an integrated biology approach.
+
+PMID: 25796366  [PubMed - indexed for MEDLINE]
+
+
+4. FEBS J. 2015 May;282(9):1774-85. doi: 10.1111/febs.12972. Epub 2014 Sep 11.
+
+Towards elucidating the stability, dynamics and architecture of the nucleosome
+remodeling and deacetylase complex by using quantitative interaction proteomics.
+
+Kloet SL(1), Baymaz HI, Makowski M, Groenewold V, Jansen PW, Berendsen M, Niazi
+H, Kops GJ, Vermeulen M.
+
+Author information: 
+(1)Department of Molecular Biology, Faculty of Science, Radboud Institute for
+Molecular Life Sciences, Radboud University Nijmegen, the Netherlands.
+
+The nucleosome remodeling and deacetylase (NuRD) complex is an evolutionarily
+conserved chromatin-associated protein complex. Although the subunit composition 
+of the mammalian complex is fairly well characterized, less is known about the
+stability and dynamics of these interactions. Furthermore, detailed information
+regarding protein-protein interaction surfaces within the complex is still
+largely lacking. Here, we show that the NuRD complex interacts with a number of
+substoichiometric zinc finger-containing proteins. Some of these interactions are
+salt-sensitive (ZNF512B and SALL4), whereas others (ZMYND8) are not. The
+stoichiometry of the core subunits is not affected by high salt concentrations,
+indicating that the core complex is stabilized by hydrophobic interactions.
+Interestingly, the RBBP4 and RBBP7 proteins are sensitive to high nonionic
+detergent concentrations during affinity purification. In a subunit exchange
+assay with stable isotope labeling by amino acids in cell culture (SILAC)-treated
+nuclear extracts, RBBP4 and RBBP7 were identified as dynamic core subunits of the
+NuRD complex, consistent with their proposed role as histone chaperones. Finally,
+using cross-linking MS, we have uncovered novel features of NuRD molecular
+architecture that complement our affinity purification-MS/MS data. Altogether,
+these findings extend our understanding of MBD3-NuRD structure and
+stability.STRUCTURED DIGITAL ABSTRACT: MBD3 physically interacts with ZNF512B,
+HDAC1, ZMYND8, GATAD2B, SALL4, GATAD2A, ZNF592, MTA3, ZNF687, CDK2AP1, CHD3,
+ZNF532, HDAC2, MTA2, CHD4, MTA1, KPNA2, CHD5, RBBP4 and RBBP7 by pull down (View 
+interaction) CDK2AP1 physically interacts with MBD3, MTA3, HDAC2, GATAD2A, CHD4, 
+CDK2AP1, MTA2, HDAC1, MTA1, CHD3, GATAD2B, MBD2, RBBP4 and RBBP7 by pull down
+(View interaction) MBD3 physically interacts with MTA2, MTA3, RBBP4, RBBP7,
+HDAC2, HDAC1, CHD4, CHD3 and MTA1 by cross-linking study (View interaction).
+
+© 2014 FEBS.
+
+PMID: 25123934  [PubMed - indexed for MEDLINE]
+
+
+5. J Biol Chem. 2013 Feb 1;288(5):3419-27. doi: 10.1074/jbc.M112.431346. Epub 2012
+Dec 13.
+
+Unique features of the anti-parallel, heterodimeric coiled-coil interaction
+between methyl-cytosine binding domain 2 (MBD2) homologues and GATA zinc finger
+domain containing 2A (GATAD2A/p66a).
+
+Walavalkar NM(1), Gordon N, Williams DC Jr.
+
+Author information: 
+(1)Integrative Life Sciences Program, Virginia Commonwealth University, Richmond,
+Virginia 23298, USA.
+
+The methyl-cytosine binding domain 2 (MBD2)-nucleosome remodeling and deacetylase
+(NuRD) complex recognizes methylated DNA and silences expression of associated
+genes through histone deacetylase and nucleosome remodeling functions. Our
+previous structural work demonstrated that a coiled-coil interaction between MBD2
+and GATA zinc finger domain containing 2A (GATAD2A/p66a) proteins recruits the
+chromodomain helicase DNA-binding protein (CHD4/Mi2ß) to the NuRD complex and is 
+necessary for MBD2-mediated DNA methylation-dependent gene silencing in vivo
+(Gnanapragasam, M. N., Scarsdale, J. N., Amaya, M. L., Webb, H. D., Desai, M. A.,
+Walavalkar, N. M., Wang, S. Z., Zu Zhu, S., Ginder, G. D., and Williams, D. C.,
+Jr. (2011) p66a-MBD2 coiled-coil interaction and recruitment of Mi-2 are critical
+for globin gene silencing by the MBD2-NuRD complex. Proc. Natl. Acad. Sci. U.S.A.
+108, 7487-7492). The p66a-MBD2 interaction differs from most coiled-coils studied
+to date by forming an anti-parallel heterodimeric complex between two peptides
+that are largely monomeric in isolation. To further characterize unique features 
+of this complex that drive heterodimeric specificity and high affinity binding,
+we carried out biophysical analyses of MBD2 and the related homologues MBD3,
+MBD3-like protein 1 (MBD3L1), and MBD3-like protein 2 (MBD3L2) as well as
+specific mutations that modify charge-charge interactions and helical propensity 
+of the coiled-coil domains. Analytical ultracentrifugation analyses show that the
+individual peptides remain monomeric in isolation even at 300 µM in concentration
+for MBD2. Circular dichroism analyses demonstrate a direct correlation between
+helical content of the coiled-coil domains in isolation and binding affinity for 
+p66a. Furthermore, complementary electrostatic surface potentials and inherent
+helical content of each peptide are necessary to maintain high-affinity
+association. These factors lead to a binding affinity hierarchy of p66a for the
+different MBD2 homologues (MBD2 ˜ MBD3 > MBD3L1 ˜ MBD3L2) and suggest a
+hierarchical regulatory model in tissue and life cycle stage-specific silencing
+by NuRD complexes.
+
+PMCID: PMC3561560
+PMID: 23239876  [PubMed - indexed for MEDLINE]
+
+
+6. Am J Hum Genet. 2012 Mar 9;90(3):410-25. doi: 10.1016/j.ajhg.2011.12.022. Epub
+2012 Feb 9.
+
+Large-scale gene-centric meta-analysis across 39 studies identifies type 2
+diabetes loci.
+
+Saxena R, Elbers CC, Guo Y, Peter I, Gaunt TR, Mega JL, Lanktree MB, Tare A,
+Castillo BA, Li YR, Johnson T, Bruinenberg M, Gilbert-Diamond D, Rajagopalan R,
+Voight BF, Balasubramanyam A, Barnard J, Bauer F, Baumert J, Bhangale T, Böhm BO,
+Braund PS, Burton PR, Chandrupatla HR, Clarke R, Cooper-DeHoff RM, Crook ED,
+Davey-Smith G, Day IN, de Boer A, de Groot MC, Drenos F, Ferguson J, Fox CS,
+Furlong CE, Gibson Q, Gieger C, Gilhuijs-Pederson LA, Glessner JT, Goel A, Gong
+Y, Grant SF, Grobbee DE, Hastie C, Humphries SE, Kim CE, Kivimaki M, Kleber M,
+Meisinger C, Kumari M, Langaee TY, Lawlor DA, Li M, Lobmeyer MT, Maitland-van der
+Zee AH, Meijs MF, Molony CM, Morrow DA, Murugesan G, Musani SK, Nelson CP,
+Newhouse SJ, O'Connell JR, Padmanabhan S, Palmen J, Patel SR, Pepine CJ,
+Pettinger M, Price TS, Rafelt S, Ranchalis J, Rasheed A, Rosenthal E, Ruczinski
+I, Shah S, Shen H, Silbernagel G, Smith EN, Spijkerman AW, Stanton A, Steffes MW,
+Thorand B, Trip M, van der Harst P, van der A DL, van Iperen EP, van Setten J,
+van Vliet-Ostaptchouk JV, Verweij N, Wolffenbuttel BH, Young T, Zafarmand MH,
+Zmuda JM; Look AHEAD Research Group; DIAGRAM consortium, Boehnke M, Altshuler D, 
+McCarthy M, Kao WH, Pankow JS, Cappola TP, Sever P, Poulter N, Caulfield M,
+Dominiczak A, Shields DC, Bhatt DL, Zhang L, Curtis SP, Danesh J, Casas JP, van
+der Schouw YT, Onland-Moret NC, Doevendans PA, Dorn GW 2nd, Farrall M, FitzGerald
+GA, Hamsten A, Hegele R, Hingorani AD, Hofker MH, Huggins GS, Illig T, Jarvik GP,
+Johnson JA, Klungel OH, Knowler WC, Koenig W, März W, Meigs JB, Melander O,
+Munroe PB, Mitchell BD, Bielinski SJ, Rader DJ, Reilly MP, Rich SS, Rotter JI,
+Saleheen D, Samani NJ, Schadt EE, Shuldiner AR, Silverstein R, Kottke-Marchant K,
+Talmud PJ, Watkins H, Asselbergs FW, de Bakker PI, McCaffery J, Wijmenga C,
+Sabatine MS, Wilson JG, Reiner A, Bowden DW, Hakonarson H, Siscovick DS, Keating 
+BJ.
+
+Erratum in
+    Am J Hum Genet. 2012 Apr 6;90(4):753. Sever, Peter [added]; Poulter, Neil [added]
+Bhatt, Deepak [corrected to Bhatt, Deepak L]; Asselbergs, Folkert [corrected to
+Asselbergs, Folkert W].
+
+To identify genetic factors contributing to type 2 diabetes (T2D), we performed
+large-scale meta-analyses by using a custom ~50,000 SNP genotyping array (the
+ITMAT-Broad-CARe array) with ~2000 candidate genes in 39 multiethnic
+population-based studies, case-control studies, and clinical trials totaling
+17,418 cases and 70,298 controls. First, meta-analysis of 25 studies comprising
+14,073 cases and 57,489 controls of European descent confirmed eight established 
+T2D loci at genome-wide significance. In silico follow-up analysis of putative
+association signals found in independent genome-wide association studies
+(including 8,130 cases and 38,987 controls) performed by the DIAGRAM consortium
+identified a T2D locus at genome-wide significance (GATAD2A/CILP2/PBX4; p = 5.7 ×
+10(-9)) and two loci exceeding study-wide significance (SREBF1, and TH/INS; p <
+2.4 × 10(-6)). Second, meta-analyses of 1,986 cases and 7,695 controls from eight
+African-American studies identified study-wide-significant (p = 2.4 × 10(-7))
+variants in HMGA2 and replicated variants in TCF7L2 (p = 5.1 × 10(-15)). Third,
+conditional analysis revealed multiple known and novel independent signals within
+five T2D-associated genes in samples of European ancestry and within HMGA2 in
+African-American samples. Fourth, a multiethnic meta-analysis of all 39 studies
+identified T2D-associated variants in BCL2 (p = 2.1 × 10(-8)). Finally, a
+composite genetic score of SNPs from new and established T2D signals was
+significantly associated with increased risk of diabetes in African-American,
+Hispanic, and Asian populations. In summary, large-scale meta-analysis involving 
+a dense gene-centric approach has uncovered additional loci and variants that
+contribute to T2D risk and suggests substantial overlap of T2D association
+signals across multiple ethnic groups.
+
+Copyright Â© 2012 The American Society of Human Genetics. Published by Elsevier
+Inc. All rights reserved.
+
+PMCID: PMC3309185
+PMID: 22325160  [PubMed - indexed for MEDLINE]
+
+
+7. PLoS One. 2007 Jun 13;2(6):e519.
+
+Mutants in the mouse NuRD/Mi2 component P66alpha are embryonic lethal.
+
+Marino S(1), Nusse R.
+
+Author information: 
+(1)Howard Hughes Medical Institute, Department of Developmental Biology, Beckman 
+Center, Stanford University School of Medicine, Stanford, California, United
+States of America.
+
+BACKGROUND: The NuRD/Mi2 chromatin complex is involved in histone modifications
+and contains a large number of subunits, including the p66 protein. There are two
+mouse and human p66 paralogs, p66alpha and p66beta. The functions of these genes 
+are not clear, in part because there are no mutants available, except in
+invertebrate model systems.
+METHODOLOGY: We made loss of function mutants in the mouse p66alpha gene
+(mp66alpha, official name Gatad2a, MGI:2384585). We found that mp66alpha is
+essential for development, as mutant embryos die around day 10 of embryogenesis. 
+The gene is not required for normal blastocyst development or for implantation.
+The phenotype of mutant embryos and the pattern of gene expression in mutants are
+consistent with a role of mp66alpha in gene silencing.
+CONCLUSION: mp66alpha is an essential gene, required for early mouse development.
+The lethal phenotype supports a role in execution of methylated DNA silencing.
+
+PMCID: PMC1885217
+PMID: 17565372  [PubMed - indexed for MEDLINE]
+
+

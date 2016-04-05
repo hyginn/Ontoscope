@@ -1,0 +1,2176 @@
+
+1. Eur Rev Med Pharmacol Sci. 2016 Feb;20(4):664-72.
+
+Identification of key genes involved in HER2-positive breast cancer.
+
+Zhong BL(1), Bian LJ, Wang GM, Zhou YF, Chen YY, Peng F.
+
+Author information: 
+(1)Department of Pathology, Second People's Hospital of Guangdong
+Province/Guangdong Provincial Emergency Hospital, Guangzhou, P.R. China.
+kejingwangkjw@163.com.
+
+OBJECTIVE: As an invasive cancer, breast cancer is the most common tumour in
+women and is with high mortality. To study the mechanisms of HER2-positive breast
+cancer, we analyzed microarray of GSE52194.
+MATERIALS AND METHODS: GSE52194 was downloaded from Gene Expression Omnibus
+including 5 HER2-positive breast cancer samples and 3 normal breast samples.
+Using cuffdiff software, differentially expressed genes (DEGs) and differentially
+expressed long non-coding RNAs (DE-lncRNAs) were screened. Functions of the DEGs 
+were analyzed by Gene Ontology (GO) and pathway enrichment analyses. Then,
+protein-protein interaction (PPI) network of the DEGs was constructed using
+Cytoscape and modules of the PPI network were screened by CFinder. Moreover,
+lncRNA-DEG pairs were screened.
+RESULTS: Total 209 lncRNA transcriptions were predicted, and 996 differentially
+expressed transcriptions were screened. Besides, FOS had interaction
+relationships with EGR1 and SOD2 separately in module E and F of the PPI network 
+for the DEGs. Moreover, there were many lncRNA-DEG pairs (e.g.
+TCONS_00003876-EGR1, TCONS_00003876-FOS, lnc-HOXC4-3:1-FOS, lnc-HOXC4-3:1-BCL6B, 
+lnc-TEAD4-1:1-FOS and lnc-TEAD4-1:1-BCL6B), meanwhile, co-expressed DEGs of
+TCONS_00003876, lnc-HOXC4-3:1 and lnc-TEAD4-1:1 were enriched in p53 signaling
+pathway, MAPK signaling pathway and cancer-related pathways, respectively.
+CONCLUSIONS: ANXA1, EGR1, BCL6, SOD2, FOS, TCONS_00003876, lnc-HOXC4-3:1 and
+lnc-TEAD4-1:1 might play a role in HER2-positive breast cancer.
+
+PMID: 26957268  [PubMed - in process]
+
+
+2. Hematology. 2016 Feb 27. [Epub ahead of print]
+
+Bioinformatics analysis of molecular mechanism of the expansion of hematopoietic 
+stem cell transduced by HOXB4/HOXC4.
+
+Xin C, Zhao C, Yin X, Wu S, Su Z.
+
+Objectives We aimed to identify the potential HOXB4/HOXC4 downstream effectors
+and elucidate their regulatory mechanism in the expansion of hematopoietic stem
+cell (HSC). Methods The microarray data GSE24379 were downloaded from Gene
+Expression Omnibus database, including 12 human CD34(+) hematopoietic cells with 
+irradiated EGFP-, HOXB4-, or HOXC4-transduced MS-5 cells, respectively. Then
+common differentially expressed genes (DEGs) in HOXB4- and HOXC4-treated
+hematopoietic cells (HOXB4&HOXC4.DEGs) were screened out. Protein-protein
+interaction (PPI) network was constructed and functional modules analysis was
+performed. Pathway enrichment analysis was performed using the Database for
+Annotation Visualization and Integrated Discovery. Besides, transcription
+regulatory network (TRN) was constructed to screen transcription factors (TFs)
+corresponding to HOXB4&HOXC4.DEGs. Results A total of 408 HOXB4&HOXC4.DEGs (373
+up- and 35 down-regulated) in hematopoietic cells were identified. Tumor protein 
+p53 (TP53) had the highest degrees in PPI network. Cyclin B1 (CCNB1) was a hub
+node in Cluster 1. V-myc avian myelocytomatosis viral oncogene homolog (MYC) and 
+MYC-associated factor X (MAX) were important TFs with higher degrees. Meanwhile, 
+MYC, TP53, and CCNB1 were significantly enriched in cell cycle. Conclusion MYC,
+MAX, TP53, and CCNB1 may be crucial HOXB4/HOXC4 downstream molecules potentially 
+involved in HSCs expansion, and HOXB4 and HOXC4 homeoprotein could display
+positive effects on expansion of human HSCs via regulating these genes.
+
+PMID: 26923762  [PubMed - as supplied by publisher]
+
+
+3. Gene Expr Patterns. 2016 Jan 26. pii: S1567-133X(16)30002-3. doi:
+10.1016/j.gep.2016.01.002. [Epub ahead of print]
+
+Fat accumulation in differentiated brown adipocytes is linked with expression of 
+Hox genes.
+
+Singh S(1), Rajput YS(2), Barui AK(3), Sharma R(3), Datta TK(4).
+
+Author information: 
+(1)Animal Biochemistry Division, National Dairy Researikch Institute, Karnal,
+Haryana, 132001, India. (2)Animal Biochemistry Division, National Dairy
+Researikch Institute, Karnal, Haryana, 132001, India. Electronic address:
+ys_rajput@rediffmail.com. (3)Dairy Chemistry Division, National Dairy Research
+Institute, Karnal, Haryana, 132001, India. (4)Animal Biotechnology Centre,
+National Dairy Research Institute, Karnal, Haryana, 132001, India.
+
+Homeobox (Hox) genes are involved in body plan of embryo along the
+anterior-posterior axis. Presence of several Hox genes in white adipose tissue
+(WAT) and brown adipose tissue (BAT) is indicative of involvement of Hox genes in
+adipogenesis. We propose that differentiation inducing agents viz.
+isobutyl-methyl-xanthine (IBMX), indomethacin, dexamethasone (DEX),
+triiodothyronine (T3) and insulin may regulate differentiation in brown adipose
+tissue through Hox genes. In vitro culture of brown fat stromalvascular fraction 
+(SVF) in presence or absence of differentiation inducing agents was used for
+establishing relationship between fat accumulation in differentiated adipocytes
+and expression of Hox genes. Relative expression of Pref1, UCP1 and Hox genes was
+determined in different stages of adipogenesis. Presence or absence of IBMX,
+indomethacin and DEX during differentiation of proliferated pre-adipocytes
+resulted in marked differences in expression of Hox genes and lipid accumulation.
+In presence of these inducing agents, lipid accumulation as well as expression of
+HoxA1, HoxA5, HoxC4 &HoxC8 markedly enhanced. Irrespective of presence or absence
+of T3, insulin down regulates HoxA10. T3 results in over expression of HoxA5,
+HoxC4 and HoxC8 genes, whereas insulin up regulates expression of only HoxC8.
+Findings suggest that accumulation of fat in differentiated adipocytes is linked 
+with expression of Hox genes.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+PMID: 26820751  [PubMed - as supplied by publisher]
+
+
+4. Congenit Anom (Kyoto). 2015 Dec 31. doi: 10.1111/cga.12153. [Epub ahead of print]
+
+Homeobox family Hoxc localization during murine palate formation.
+
+Hirata A(1), Katayama K(2), Tsuji T(3), Imura H(4), Natsume N(4), Sugahara T(4), 
+Kunieda T(3), Nakamura H(5), Otsuki Y(6).
+
+Author information: 
+(1)Department of Anatomy and Cell Biology, Faculty of Medicine, Osaka Medical
+College, 2-7, Daigaku-machi, Takatsuki, Osaka, 569-8686, Japan. (2)Division of
+Functional Morphology, Department of Basic Veterinary Medicine, School of
+Veterinary Medicine, Nippon Veterinary and Life Science University, 1-7-1,
+Kyonancho, Musashino, Tokyo, 180-8602, Japan. (3)Department of Animal Science,
+Graduate School of Environmental and Life Science, Okayama University, 1-1-1,
+Tsushima-naka, kita-ku, Okayama, Okayama, 700-8530, Japan. (4)Division of
+Research and Treatment for Oral and Maxillofacial Congenital Anomalies, School of
+Dentistry, Aichi-Gakuin University, 2-11, Suemori-dori, Chikusa-ku, Nagoya,
+Aichi, 464-8651, Japan. (5)Department of Oral Histology, School of Dentistry,
+Matsumoto Dental University, 1780, Hirooka-gobara, Shiojiri, Nagano, 399-0781,
+Japan. (6)Osaka Medical College, 2-7, Daigaku-machi, Takatsuki, Osaka, 569-8686, 
+Japan.
+
+Homeobox genes play important roles in craniofacial morphogenesis. However, the
+characteristics of the transcription factor Hoxc during palate formation remain
+unclear. We examined the immunolocalization patterns of Hoxc5, Hoxc4, and Hoxc6
+in palatogenesis of cleft palate (Eh/Eh) mice. On the other hand, mutations in
+the FGF/FGFR pathway are exclusively associated with syndromic forms of cleft
+palate. We also examined the immunolocalization of Fgfr1 and Erk1/2 to clarify
+their relationships with Hoxc in palatogenesis. Some palatal epithelial cells
+showed Hoxc5 labeling, while almost no labeling of mesenchymal cells was observed
+in +/+ mice. As palate formation progressed in +/+ mice, Hoxc5, Hoxc4, and Hoxc6 
+were observed in medial epithelial seam cells. Hoxc5 and Hoxc6 were detected in
+the oral epithelium. The palatal mesenchyme also showed intense staining for
+Fgfr1and Erk1/2 with progression of palate formation. In contrast, the palatal
+shelves of Eh/Eh mice exhibited impaired horizontal growth and failed to fuse,
+resulting in a cleft. Hoxc5 was observed in a few epithelial cells and diffusely 
+in the mesenchyme of Eh/Eh palatal shelves. No or little labeling of Fgfr1 and
+Erk1/2 was detected in the cleft palate of Eh/Eh mice. These findings suggest
+that Hoxc genes are involved in palatogenesis. Furthermore, there may be the
+differences in the localization pattern between Hoxc5, Hoxc4, and Hoxc6.
+Additionally, Hoxc distribution in palatal cells during palate development may be
+correlated with FGF signaling. This article is protected by copyright. All rights
+reserved.
+
+This article is protected by copyright. All rights reserved.
+
+PMID: 26718736  [PubMed - as supplied by publisher]
+
+
+5. Int J Biochem Cell Biol. 2015 Nov;68:42-7. doi: 10.1016/j.biocel.2015.08.012.
+Epub 2015 Aug 20.
+
+Estrogen receptor signal in regulation of B cell activation during diverse immune
+responses.
+
+Asaba J(1), Bandyopadhyay M(2), Kindy M(3), Dasgupta S(4).
+
+Author information: 
+(1)Department of Microbiology, Immunology, Saint James School of Medicine, Albert
+Lake Drive, A-I-2640, The Quarter, British West Indies, Anguilla. (2)Department
+of Biological Sciences, Trident Technical College, North Charleston, SC, USA.
+(3)Strom Thurmond Building, Medical University of South Carolina, Charleston, SC,
+USA. (4)Department of Microbiology, Immunology, Saint James School of Medicine,
+Albert Lake Drive, A-I-2640, The Quarter, P.O. Box 318, British West Indies,
+Anguilla; Department of Biochemistry, Saint James School of Medicine, Albert Lake
+Drive, A-I-2640, The Quarter, P.O. Box 318, British West Indies, Anguilla.
+Electronic address: sdasgupta@mail.sjsm.org.
+
+The role of signalling through oestrogen receptors (ERs) in the regulation of B
+cell activation is an area of growing importance not only in terms protective
+immunity but also in the determination of the mechanisms of the onset of
+autoimmune disorders and cancers. The mode of signalling action of this single
+chain nuclear receptor protein molecule depends on its ability to bind to the
+promoters of Pax5, HOXC4 and apolipoprotein B RNA-editing enzyme
+activation-induced cytidine deaminase (AID) genes. ER-mediated transcriptional
+regulation induces class switch recombination of the immunoglobulin heavy chain
+variable (VH) to DH-JH genes and somatic hypermutation in developing B cells. The
+mode of action of ER is associated with BCR-signal pathways that involve the
+regulator proteins BAFF and APRIL. Additionally, the plasma membrane-bound G
+protein-coupled oestrogen receptor-1 (GEPR1) directs diverse cell signalling
+events in B cells that involve the MAPK pathways. These signals are immensely
+important during progenitor and precursor B cell activation. We have focused our 
+goals on the medicinal aspects of ER-signalling mechanisms and their effects on
+polyclonal B cell activation.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+PMID: 26299327  [PubMed - in process]
+
+
+6. Int J Mol Sci. 2015 Jul 24;16(8):16816-32. doi: 10.3390/ijms160816816.
+
+Differential DNA Methylation in Relation to Age and Health Risks of Obesity.
+
+Mansego ML(1), Milagro FI(2), Zulet MÁ(3,)(4), Moreno-Aliaga MJ(1,)(5), Martínez 
+JA(6,)(7).
+
+Author information: 
+(1)CIBERobn, Fisiopatología de la Obesidad y la Nutrición, Institute of Health
+Carlos III, Madrid, Spain and Department of Nutrition, Food Science and
+Physiology, Nutrition Research Center, University of Navarra, Pamplona 31008,
+Spain. mlmansego@unav.es. (2)CIBERobn, Fisiopatología de la Obesidad y la
+Nutrición, Institute of Health Carlos III, Madrid, Spain and Department of
+Nutrition, Food Science and Physiology, Nutrition Research Center, University of 
+Navarra, Pamplona 31008, Spain. fmilagro@unav.es. (3)CIBERobn, Fisiopatología de 
+la Obesidad y la Nutrición, Institute of Health Carlos III, Madrid, Spain and
+Department of Nutrition, Food Science and Physiology, Nutrition Research Center, 
+University of Navarra, Pamplona 31008, Spain. mazulet@unav.es. (4)Navarra
+Institute for Health Research (IdiSNA), Pamplona 31008, Spain. mazulet@unav.es.
+(5)Navarra Institute for Health Research (IdiSNA), Pamplona 31008, Spain.
+mlmansego@unav.es. (6)CIBERobn, Fisiopatología de la Obesidad y la Nutrición,
+Institute of Health Carlos III, Madrid, Spain and Department of Nutrition, Food
+Science and Physiology, Nutrition Research Center, University of Navarra,
+Pamplona 31008, Spain. jalfmartinez@unav.es. (7)Navarra Institute for Health
+Research (IdiSNA), Pamplona 31008, Spain. jalfmartinez@unav.es.
+
+The aim of this study was to evaluate whether genome-wide levels of DNA
+methylation are associated with age and the health risks of obesity (HRO);
+defined according to BMI categories as "Low HRO" (overweight and class 1 obesity)
+versus "High HRO" (class 2 and class 3 obesity). Anthropometric measurements were
+assessed in a subsample of 48 volunteers from the Metabolic Syndrome Reduction in
+Navarra (RESMENA) study and 24 women from another independent study, Effects of
+Lipoic Acid and Eicosapentaenoic Acid in Human Obesity (OBEPALIP study). In the
+pooled population; the methylation levels of 55 CpG sites were significantly
+associated with age after Benjamini-Hochberg correction. In addition, DNA
+methylation of three CpG sites located in ELOVL2; HOXC4 and PI4KB were further
+negatively associated with their mRNA levels. Although no differentially
+methylated CpG sites were identified in relation to HRO after multiple testing
+correction; several nominally significant CpG sites were identified in genes
+related to insulin signaling; energy and lipid metabolism. Moreover,
+statistically significant associations between BMI or mRNA levels and two
+HRO-related CpG sites located in GPR133 and ITGB5 are reported. As a conclusion, 
+these findings from two Spanish cohorts add knowledge about the important role of
+DNA methylation in the age-related regulation of gene expression. In addition; a 
+relevant influence of age on DNA methylation in white blood cells was found, as
+well as, on a trend level, novel associations between DNA methylation and
+obesity.
+
+PMCID: PMC4581172
+PMID: 26213922  [PubMed - in process]
+
+
+7. Clin Cancer Res. 2015 Jul 1;21(13):3061-70. doi: 10.1158/1078-0432.CCR-14-3334.
+Epub 2015 Mar 18.
+
+Identification of a Candidate Gene Panel for the Early Diagnosis of Prostate
+Cancer.
+
+Leyten GH(1), Hessels D(2), Smit FP(2), Jannink SA(2), de Jong H(2), Melchers
+WJ(3), Cornel EB(4), de Reijke TM(5), Vergunst H(6), Kil P(7), Knipscheer BC(8), 
+Hulsbergen-van de Kaa CA(9), Mulders PF(1), van Oort IM(1), Schalken JA(10).
+
+Author information: 
+(1)Radboud University Nijmegen Medical Centre, Department of Urology, Nijmegen,
+the Netherlands. (2)Noviogendix, Department of Research and Development,
+Nijmegen, the Netherlands. (3)Radboud University Nijmegen Medical Centre,
+Department of Urology, Nijmegen, the Netherlands. Noviogendix, Department of
+Research and Development, Nijmegen, the Netherlands. (4)ZGT Hospital, Department 
+of Urology, Hengelo, the Netherlands. (5)AMC University Medical Centre,
+Department of Urology, Amsterdam, the Netherlands. (6)CWZ Hospital, Department of
+Urology, Nijmegen, the Netherlands. (7)St Elisabeth Hospital, Department of
+Urology, Tilburg, the Netherlands. (8)Scheper Hospital, Department of Urology,
+Emmen, the Netherlands. (9)Radboud University Nijmegen Medical Centre, Department
+of Pathology, Nijmegen, the Netherlands. (10)Radboud University Nijmegen Medical 
+Centre, Department of Urology, Nijmegen, the Netherlands. Noviogendix, Department
+of Research and Development, Nijmegen, the Netherlands.
+jack.schalken@radboudumc.nl.
+
+Comment in
+    Nat Rev Urol. 2015 May;12(5):242.
+
+PURPOSE: Serum PSA (sPSA) testing has led to the identification of patients with 
+indolent prostate cancer, and inevitably overtreatment has become a concern.
+Progensa PCA3 urine testing was shown to improve the diagnosis of prostate
+cancer, but its diagnostic value for aggressive prostate cancer is limited.
+Therefore, urinary biomarkers that can be used for prediction of Gleason score =7
+prostate cancer in biopsies are urgently needed.
+EXPERIMENTAL DESIGN: Using gene expression profiling data, 39 prostate cancer
+biomarkers were identified. After quantitative PCR analysis on tissue specimens
+and urinary sediments, eight promising biomarkers for the urinary detection of
+prostate cancer were selected (ONECUT2, HOXC4, HOXC6, DLX1, TDRD1, NKAIN1,
+MS4A8B, PPFIA2). The hypothesis that biomarker combinations improve the
+diagnostic value for aggressive prostate cancer was tested on 358 urinary
+sediments of an intention-to-treat cohort.
+RESULTS: A urinary three-gene panel (HOXC6, TDRD1, and DLX1) had higher accuracy 
+[area under the curve (AUC), 0.77; 95% confidence interval (CI), 0.71-0.83] to
+predict Gleason score =7 prostate cancer in biopsies compared with Progensa PCA3 
+(AUC, 0.68; 95% CI, 0.62-0.75) or sPSA (AUC, 0.72; 95% CI, 0.65-0.78). Combining 
+the three-gene panel with sPSA further improved the predictive accuracy (AUC,
+0.81; 95% CI, 0.75-0.86). The accuracy of the three-gene predictive model was
+maintained in subgroups with low sPSA concentrations.
+CONCLUSIONS: The urinary three-gene panel (HOXC6, TDRD1, and DLX1) represents a
+promising tool to identify patients with aggressive prostate cancer, also in
+those with low sPSA values. The combination of the urinary three-gene panel with 
+sPSA bears great potential for the early diagnosis of patients with clinically
+significant prostate cancer.
+
+©2015 American Association for Cancer Research.
+
+PMID: 25788493  [PubMed - in process]
+
+
+8. J Immunol. 2014 Dec 15;193(12):5933-50. doi: 10.4049/jimmunol.1401702. Epub 2014 
+Nov 12.
+
+Histone deacetylase inhibitors upregulate B cell microRNAs that silence AID and
+Blimp-1 expression for epigenetic modulation of antibody and autoantibody
+responses.
+
+White CA(1), Pone EJ(2), Lam T(1), Tat C(1), Hayama KL(2), Li G(1), Zan H(1),
+Casali P(3).
+
+Author information: 
+(1)Department of Microbiology and Immunology, University of Texas School of
+Medicine, University of Texas Health Science Center at San Antonio, San Antonio, 
+TX 78229; and Institute for Immunology, University of California, Irvine, CA
+92697. (2)Institute for Immunology, University of California, Irvine, CA 92697.
+(3)Department of Microbiology and Immunology, University of Texas School of
+Medicine, University of Texas Health Science Center at San Antonio, San Antonio, 
+TX 78229; and Institute for Immunology, University of California, Irvine, CA
+92697 pcasali@uthscsa.edu.
+
+Class-switch DNA recombination (CSR) and somatic hypermutation (SHM), which
+require activation-induced cytidine deaminase (AID), and plasma cell
+differentiation, which requires B lymphocyte-induced maturation protein-1
+(Blimp-1), are critical for the generation of class-switched and hypermutated
+(mature) Ab and autoantibody responses. We show that histone deacetylase
+inhibitors valproic acid and butyrate dampened AICDA/Aicda (AID) and PRDM1/Prdm1 
+(Blimp-1) mRNAs by upregulating miR-155, miR-181b, and miR-361 to silence
+AICDA/Aicda, and miR-23b, miR-30a, and miR-125b to silence PRDM1/Prdm1, in human 
+and mouse B cells. This led to downregulation of AID, Blimp-1, and X-box binding 
+protein 1, thereby inhibiting CSR, SHM, and plasma cell differentiation without
+altering B cell viability or proliferation. The selectivity of histone
+deacetylase inhibitor-mediated silencing of AICDA/Aicda and PRDM1/Prdm1 was
+emphasized by unchanged expression of HoxC4 and Irf4 (important
+inducers/modulators of AICDA/Aicda), Rev1 and Ung (central elements for CSR/SHM),
+and Bcl6, Bach2, or Pax5 (repressors of PRDM1/Prdm1 expression), as well as
+unchanged expression of miR-19a/b, miR-20a, and miR-25, which are not known to
+regulate AICDA/Aicda or PRDM1/Prdm1. Through these B cell-intrinsic epigenetic
+mechanisms, valproic acid blunted class-switched and hypermutated T-dependent and
+T-independent Ab responses in C57BL/6 mice. In addition, it decreased
+class-switched and hypermutated autoantibodies, ameliorated disease, and extended
+survival in lupus MRL/Fas(lpr/lpr) mice. Our findings outline epigenetic
+mechanisms that modulate expression of an enzyme (AID) and transcription factors 
+(Blimp-1 and X-box binding protein 1) that are critical to the B cell
+differentiation processes that underpin Ab and autoantibody responses. They also 
+provide therapeutic proof-of-principle in autoantibody-mediated autoimmunity.
+
+Copyright © 2014 by The American Association of Immunologists, Inc.
+
+PMCID: PMC4258531
+PMID: 25392531  [PubMed - indexed for MEDLINE]
+
+
+9. Sci Transl Med. 2014 Aug 27;6(251):251ra119. doi: 10.1126/scitranslmed.3009688.
+
+Adult human neural crest-derived cells for articular cartilage repair.
+
+Pelttari K(1), Pippenger B(1), Mumme M(1), Feliciano S(1), Scotti C(2),
+Mainil-Varlet P(3), Procino A(4), von Rechenberg B(5), Schwamborn T(6), Jakob
+M(1), Cillo C(4), Barbero A(1), Martin I(7).
+
+Author information: 
+(1)Departments of Surgery and of Biomedicine, University Hospital Basel,
+University of Basel, Hebelstrasse 20, 4031 Basel, Switzerland. (2)Istituto Di
+Ricovero e Cura a Carattere Scientifico (IRCCS) Istituto Ortopedico Galeazzi, Via
+R. Galeazzi 4, 20161 Milano, Italy. (3)AGINKO Research AG, Route de l'ancienne
+Papeterie, P. O. Box 30, 1723 Marly, Switzerland. (4)Department of Medicine and
+Surgery, Federico II Medical School, Via S. Pansini 5, 80131 Napoli, Italy.
+(5)Musculoskeletal Research Unit, Equine Hospital, University of Zurich,
+Winterthurerstrasse 260, 8057 Zurich, Switzerland. (6)Cross-klinik, Bundesstrasse
+1, 4009 Basel, Switzerland. (7)Departments of Surgery and of Biomedicine,
+University Hospital Basel, University of Basel, Hebelstrasse 20, 4031 Basel,
+Switzerland. ivan.martin@usb.ch.
+
+In embryonic models and stem cell systems, mesenchymal cells derived from the
+neuroectoderm can be distinguished from mesoderm-derived cells by their
+Hox-negative profile--a phenotype associated with enhanced capacity of tissue
+regeneration. We investigated whether developmental origin and Hox negativity
+correlated with self-renewal and environmental plasticity also in differentiated 
+cells from adults. Using hyaline cartilage as a model, we showed that adult human
+neuroectoderm-derived nasal chondrocytes (NCs) can be constitutively
+distinguished from mesoderm-derived articular chondrocytes (ACs) by lack of
+expression of specific HOX genes, including HOXC4 and HOXD8. In contrast to ACs, 
+serially cloned NCs could be continuously reverted from differentiated to
+dedifferentiated states, conserving the ability to form cartilage tissue in vitro
+and in vivo. NCs could also be reprogrammed to stably express Hox genes typical
+of ACs upon implantation into goat articular cartilage defects, directly
+contributing to cartilage repair. Our findings identify previously unrecognized
+regenerative properties of HOX-negative differentiated neuroectoderm cells in
+adults, implying a role for NCs in the unmet clinical challenge of articular
+cartilage repair. An ongoing phase 1 clinical trial preliminarily indicated the
+safety and feasibility of autologous NC-based engineered tissues for the
+treatment of traumatic articular cartilage lesions.
+
+Copyright © 2014, American Association for the Advancement of Science.
+
+PMID: 25163479  [PubMed - indexed for MEDLINE]
+
+
+10. Glia. 2014 Oct;62(10):1559-81. doi: 10.1002/glia.22700. Epub 2014 May 30.
+
+Transcriptional profiling predicts overwhelming homology of Schwann cells,
+olfactory ensheathing cells, and Schwann cell-like glia.
+
+Ulrich R(1), Imbschweiler I, Kalkuhl A, Lehmbecker A, Ziege S, Kegler K, Becker
+K, Deschl U, Wewetzer K, Baumgärtner W.
+
+Author information: 
+(1)Department of Pathology, University of Veterinary Medicine Hannover, Hannover,
+Germany; Center for Systems Neuroscience, Hannover, Hannover, Germany.
+
+Schwann cells (SCs), olfactory ensheathing cells (OECs), and central nervous
+system Schwann cell-like glia (SG) represent a group of nerve growth factor
+receptor p75 (NGFR)-positive cells, originating from different tissues. Because
+of their pro-regenerative capacities, these cells are subjects in experimental
+transplantation-based therapies of spinal cord trauma. The objective of this
+study was to compare the transcriptomes of uninfected and canine distemper
+virus-infected OECs, SCs, SG and fibroblasts (FBs) derived from four beagle dogs 
+and cultured under identical conditions in vitro, employing canine genome 2.0
+arrays (Affymetrix). Here, we observed a complete lack of transcriptional
+differerences between OECs and SG, a high similarity of OECs/SG to SCs, and a
+marked difference of SCs and OECs/SG towards FBs. Differentially expressed genes 
+possibly involved in the maintenance of cell type-specific identity included an
+up-regulation of HOXD8 and HOXC4 in SCs, and an up-regulation of CNTNAP2 and
+EFEMP1 in OECs/SG. We identified cell type-specific biomarkers employing
+supervised clustering with a K-nearest-neighbors algorithm and correlation-based 
+feature selection. Thereby AQP1 and SCRG1 were predicted to be the most powerful 
+biomarkers distinguishing SCs from OECs/SG. Immunofluorescence confirmed a higher
+expression of SCRG1 in OECs and SG, and conversely a higher expression of AQP1 in
+SCs in vitro. Furthermore, canine and murine olfactory nerves showed
+SCRG1-positive, AQP1-negative OECs and/or axons, whereas sciatic nerves displayed
+multifocal non-myelinated, AQP1-positive, SCRG1-negative cells. Conclusively,
+OECs/SG are suggested to be a uniform cell type differing only in the tissue of
+origin and highly related to SCs.
+
+© 2014 Wiley Periodicals, Inc.
+
+PMID: 24889922  [PubMed - indexed for MEDLINE]
+
+
+11. Sichuan Da Xue Xue Bao Yi Xue Ban. 2013 May;44(3):371-4.
+
+[Expression of HOXC4 gene during early development in zebrafish].
+
+[Article in Chinese]
+
+Ma JJ(1), He ZX, Shu LP, Yao DJ, Li L, Li Y.
+
+Author information: 
+(1)Department of Pediatrics, Guiyang Medical University, Guiyang 550004, China.
+
+OBJECTIVE: To investigate the mechanism of HOXC4 gene during early development in
+zebrafish, study it's expression in hematopoiesis system with whole mount in situ
+hybridization (WISH), then make a foundation work for further study of HOXC4 gene
+in hematopoiesis development.
+METHODS: The total RNA of different phases of zebrafish embryos was extracted,
+and a fragment of HOXC4 gene was cloned with RT-PCR, then HOXC4 gene fragment and
+pCS2 was digested with BamH I and Xho I restriction enzyme, after that HOXC4 gene
+fragment was inserted into pCS2+ vector. After confirming the constructed
+plasmid, the digoxingenin-labeled anti-sence mRNA probe of HOXC4 gene was
+synthesized in vitro by using T3 RNA polymerase, the exprression pattern of HOXC4
+during zebrafish embryogenesis using anti-sence probe with WISH was conducted.
+RESULTS: HOXC4 gene was cloned by RT-PCR and HOXC4-pCS2+ plasmid was constructed 
+and confirmed, expression of HOXC4 showed that it was expressed highly in nervous
+system of wild-type (WT) Tuebingen zebrafish. CONCULSION: The expression pattern 
+of HOXC4 during early development in zebrafish was obtained, and it is very
+important for further study of HOXC4 gene function in zebrafish.
+
+PMID: 23898515  [PubMed - indexed for MEDLINE]
+
+
+12. Epigenetics. 2013 Feb;8(2):149-56. doi: 10.4161/epi.23398. Epub 2013 Jan 4.
+
+DNA methylation profiles of long- and short-term glioblastoma survivors.
+
+Shinawi T(1), Hill VK, Krex D, Schackert G, Gentle D, Morris MR, Wei W,
+Cruickshank G, Maher ER, Latif F.
+
+Author information: 
+(1)Centre for Rare Diseases and Personalized Medicine, Department of Medical &
+Molecular Genetics, School of Clinical and Experimental Medicine, University of
+Birmingham College of Medical and Dental Sciences, Birmingham, UK.
+
+Glioblastoma (GBM) is the most common and malignant type of primary brain tumor
+in adults and prognosis of most GBM patients is poor. However, a small percentage
+of patients show a long term survival of 36 mo or longer after diagnosis.
+Epigenetic profiles can provide molecular markers for patient prognosis:
+recently, a G-CIMP positive phenotype associated with IDH1 mutations has been
+described for GBMs with good prognosis. In the present analysis we performed
+genome-wide DNA methylation profiling of short-term survivors (STS; overall
+survival < 1 y) and long-term survivors (LTS; overall survival > 3 y) by
+utilizing the HumanMethylation450K BeadChips to assess quantitative methylation
+at > 480,000 CpG sites. Cluster analysis has shown that a subset of LTS showed a 
+G-CIMP positive phenotype that was tightly associated with IDH1 mutation status
+and was confirmed by analysis of the G-CIMP signature genes. Using high
+stringency criteria for differential hypermethylation between non-cancer brain
+and tumor samples, we identified 2,638 hypermethylated CpG loci (890 genes) in
+STS GBMs, 3,101 hypermethylated CpG loci (1,062 genes) in LTS (wild type IDH1)
+and 11,293 hypermethylated CpG loci in LTS (mutated for IDH1), reflecting the
+CIMP positive phenotype. The location of differentially hypermethylated CpG loci 
+with respect to CpG content, neighborhood context and functional genomic
+distribution was similar in our sample set, with the majority of CpG loci
+residing in CpG islands and in gene promoters. Our preliminary study also
+identified a set of CpG loci differentially hypermethylated between STS and LTS
+cases, including members of the homeobox gene family (HOXD8, HOXD13 and HOXC4),
+the transcription factors NR2F2 and TFAP2A, and Dickkopf 2, a negative regulator 
+of the wnt/ß-catenin signaling pathway.
+
+PMCID: PMC3592900
+PMID: 23291739  [PubMed - indexed for MEDLINE]
+
+
+13. Autoimmunity. 2013 Mar;46(2):83-101. doi: 10.3109/08916934.2012.749244. Epub 2013
+Jan 17.
+
+Regulation of Aicda expression and AID activity.
+
+Zan H(1), Casali P.
+
+Author information: 
+(1)Institute for Immunology and School of Medicine, University of California,
+Irvine, CA 92697-4120, USA. hzan@uci.edu
+
+Activation-induced cytidine deaminase (AID) is expressed in a B cell
+differentiation stage-specific fashion and is essential for immunoglobulin (Ig)
+gene class switch DNA recombination (CSR) and somatic hypermutation (SHM). CSR
+and SHM play a central role in the maturation of antibody and autoantibody
+responses. AID displays a mutagenic activity by catalyzing targeted deamination
+of deoxycytidine (dC) residues in DNA resulting in dU:dG mismatches, which are
+processed into point-mutations in SHM or double-strand breaks (DSBs) in CSR.
+Although AID specifically targets the Ig gene loci (IgH, Ig<U+03BA> and Ig<U+03BB>), it can
+also home into a wide array of non-Ig genes in B-and non-B-cell backgrounds.
+Aberrant expression of AID is associated with multiple diseases such as allergy, 
+inflammation, autoimmunity and cancer. In autoimmune systemic lupus
+erythematosus, dysregulated AID expression underpins increased CSR, SHM and
+autoantibody production. As a potent mutator, AID is under stringent
+transcriptional, post-transcriptional and post-translational regulation. AID is
+also regulated in its targeting and enzymatic function. In resting naïve or
+memory B cells, AID transcripts and protein are undetectable. These, however, are
+readily and significantly up-regulated in B cells induced to undergo CSR and/or
+SHM. Transcription factors, such as HoxC4 and NF-<U+03BA>B, which are up-regulated in a 
+B cell lineage-and/or differentiation stage-specific manner, regulate the
+induction of AID. HoxC4 induces AID expression by directly binding to the AID
+gene promoter through an evolutionarily conserved 5'-ATTT-3' motif. HoxC4 is
+induced by the same stimuli that induce AID and CSR. It is further up-regulated
+by estrogen through three estrogen responsive elements in its promoter region.
+The targeting of AID to switch (S) regions is mediated by 14-3-3 adaptor
+proteins, which specifically bind to 5'-AGCT-3' repeats that are exist at high
+frequency in S region cores. Like HoxC4, 14-3-3 adaptors are induced by the same 
+stimuli that induce AID. These include "primary" inducing stimuli, that is, those
+that play a major role in inducing AID, i.e., engagement of CD40 by CD154,
+engagement of Toll-like receptors (TLRs) by microbial-associated molecular
+patterns (MAMPs) and cross-linking of the BCR, as synergized by "secondary"
+inducing stimuli, that is, those that synergize for AID induction and specify CSR
+to different isotypes, i.e., switch-directing cytokines IL-4, TGF-ß or IFN-<U+03B3>. In 
+this review, we focus on the multi-levels regulation of AID expression and
+activity. We also discuss the dysregulation or misexpression of AID in
+autoimmunity and tumorigenesis.
+
+PMCID: PMC3762583
+PMID: 23181381  [PubMed - indexed for MEDLINE]
+
+
+14. Autoimmunity. 2013 Mar;46(2):128-37. doi: 10.3109/08916934.2012.748752. Epub 2013
+Jan 10.
+
+Hormones and AID: balancing immunity and autoimmunity.
+
+Incorvaia E(1), Sicouri L, Petersen-Mahrt SK, Schmitz KM.
+
+Author information: 
+(1)DNA Editing in Immunity and Epigenetics, IFOM-Fondazione Istituto FIRC di
+Oncologia Molecolare, Milano, Italy.
+
+The human immune system is a complex dynamic network of soluble factors and
+specialized cells that can and need to act in an instance or keep a lifelong
+protection, with the consequence that health has to be maintained through genetic
+and environmental stimuli. Autoimmunity is a multifactorial disease, where this
+combination of genetic predisposition and environmental factors lead to disease
+etiology. As some autoimmune diseases, such as systemic lupus erythematosus
+(SLE), rheumatoid arthritis (RA) or other B cell autoimmunities have a very
+strong female gender bias, hormones, especially estrogen, have been implicated as
+environmental factors in driving the disease. One of the key regulators of B cell
+development is activation-induced deaminase (AID), as its molecular mechanism of 
+cytosine deamination induces immunoglobulin affinity maturation and antibody
+class switching. In this review we will highlight some of the recent findings of 
+how estrogen directly and indirectly activates AID expression, which in turn can 
+lead to immune hyper-stimulation. Those regulatory pathways can be direct when
+the estrogen receptor (ER) binds the AID promoter, or indirect via activation of 
+transcription factors that enhance AID expression (e.g., HoxC4). Estrogen's
+influence on AID will also be discussed in terms of microRNA processing for
+miRNA-155 and miRNA-181b. Important other external stimuli, such as EBV virus, in
+conjunction with estrogen can add another layer of regulation during autoimmune
+disease progression. Understanding these pathways will become more important as
+AID has now been implicated to play an important role in immune tolerance and
+actual elimination of autoantibodies.
+
+PMID: 23181348  [PubMed - indexed for MEDLINE]
+
+
+15. Cytokine. 2013 Feb;61(2):608-13. doi: 10.1016/j.cyto.2012.10.018. Epub 2012 Nov
+21.
+
+APRIL stimulates NF-<U+03BA>B-mediated HoxC4 induction for AID expression in mouse B
+cells.
+
+Park SR(1), Kim PH, Lee KS, Lee SH, Seo GY, Yoo YC, Lee J, Casali P.
+
+Author information: 
+(1)Department of Microbiology, College of Medicine, Konyang University, Daejeon
+302-718, Republic of Korea. srpark@konyang.ac.kr
+
+Activation-induced cytidine deaminase (AID) plays a key role in B cell
+immunoglobulin (Ig) class switch recombination (CSR) and somatic hypermutation
+(SHM). We have previously reported that the highly conserved homeodomain HoxC4
+transcription factor binds to the Aicda (AID gene) promoter to induce AID
+expression. Here, we investigated the regulation of HoxC4 transcription by a
+proliferation-inducing ligand (APRIL) and B cell-activating factor belonging to
+the TNF family (BAFF) in mouse B cells. APRIL substantially increased both HoxC4 
+and AID expression, whereas BAFF induced the expression of AID but not HoxC4. To 
+elucidate the underlying mechanisms, we constructed a HoxC4 gene promoter
+reporter vector and analyzed the promoter induction after APRIL stimulation.
+APRIL enhanced the HoxC4 promoter activity by 2.3-fold, and this increase
+disappeared when the second putative NF-<U+03BA>B-binding promoter element (NBE2) was
+mutated. Based on ChIP assays, we found that NF-<U+03BA>B bound to the HoxC4 promoter
+NBE2 region. Furthermore, the overexpression of NF-<U+03BA>B augmented the APRIL-induced
+HoxC4 promoter activity, while the expression of dominant negative-I<U+03BA>Ba
+suppressed it. Taken together, our findings suggest that NF-<U+03BA>B mediates
+APRIL-induced HoxC4 transcription.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+PMCID: PMC3723325
+PMID: 23178148  [PubMed - indexed for MEDLINE]
+
+
+16. Int J Biol Sci. 2012;8(6):802-10. doi: 10.7150/ijbs.4438. Epub 2012 Jun 6.
+
+Structural dynamics and epigenetic modifications of Hoxc loci along the
+anteroposterior body axis in developing mouse embryos.
+
+Min H(1), Lee JY, Kim MH.
+
+Author information: 
+(1)Department of Anatomy, Embryology Laboratory, Brain Korea 21 project for
+Medical Science, Yonsei University College of Medicine, Seoul 120-752, Korea.
+mhkim1@yuhs.ac
+
+Hox genes are organized as clusters and specify regional identity along the
+anteroposterior body axis by sequential expression at a specific time and region 
+during embryogenesis. However, the precise mechanisms underlying the sequential
+spatio-temporal, collinear expression pattern of Hox genes are not fully
+understood. Since epigenetic modifications such as chromatin architecture and
+histone modifications have become crucial mechanisms for highly coordinated gene 
+expressions, we examined such modifications. E14.5 mouse embryos were dissected
+into three parts along the anteroposterior axis: brain, trunk-anterior, and
+trunk-posterior. Then, structural changes and epigenetic modifications were
+analyzed along the Hoxc cluster using chromosome conformation capture and
+chromatin immunoprecipitation-PCR methods. Hox non-expressing brain tissues had
+more compact, heterochromatin-like structures together with the strong repressive
+mark H3K27me3 than trunk tissues. In the trunk, however, a more loose
+euchromatin-like topology with a reduced amount of H3K27me3 modifications were
+observed along the whole cluster, regardless of their potency in gene activation.
+The active mark H3K4me3 was rather closely associated with the collinear
+expression of Hoxc genes; at trunk-anterior tissues, only 3' anterior Hoxc genes 
+were marked by H3K4me3 upon gene activation, whereas whole Hoxc genes were marked
+by H3K4me3 and showed expression in trunk-posterior tissues. Altogether, these
+results indicated that loosening of the chromatin architecture and removing
+H3K27me3 were not sufficient for, but rather the concomitant acquisition of
+H3K4me3 drove the collinear expression of Hoxc genes.
+
+PMCID: PMC3372884
+PMID: 22719220  [PubMed - indexed for MEDLINE]
+
+
+17. Haematologica. 2012 Feb;97(2):168-78. doi: 10.3324/haematol.2011.051235.
+
+HOXC4 homeoprotein efficiently expands human hematopoietic stem cells and
+triggers similar molecular alterations as HOXB4.
+
+Auvray C(1), Delahaye A, Pflumio F, Haddad R, Amsellem S, Miri-Nezhad A, Broix L,
+Yacia A, Bulle F, Fichelson S, Vigon I.
+
+Author information: 
+(1)Inserm U1016, Institut Cochin, Paris.
+
+BACKGROUND: Expansion of hematopoietic stem cells represents an important
+objective for improving cell and gene therapy protocols. Retroviral transduction 
+of the HoxB4 homeogene in mouse and human hematopoietic stem cells and
+hematopoietic progenitors is known to promote the cells' expansion. A safer
+approach consists in transferring homeobox proteins into hematopoietic stem cells
+taking advantage of the natural ability of homeoproteins to cross cell membranes.
+Thus, HOXB4 protein transfer is operative for expanding human hematopoietic
+cells, but such expansion needs to be improved.
+DESIGN AND METHODS: To that aim, we evaluated the effects of HOXC4, a protein
+encoded by a HOXB4 paralog gene, by co-culturing HOXC4-producing stromal cells
+with human CD34(+) hematopoietic cells. Numbers of progenitors and stem cells
+were assessed by in vitro cloning assays and injection into immuno-deficient
+mice, respectively. We also looked for activation or inhibition of target
+downstream gene expression.
+RESULTS: We show that the HOXC4 homeoprotein expands human hematopoietic immature
+cells by 3 to 6 times ex vivo and significantly improves the level of in vivo
+engraftment. Comparative transcriptome analysis of CD34(+) cells subjected or not
+to HOXB4 or HOXC4 demonstrated that both homeoproteins regulate the same set of
+genes, some of which encode key hematopoietic factors and signaling molecules.
+Certain molecules identified herein are factors reported to be involved in stem
+cell fate or expansion in other models, such as MEF2C, EZH2, DBF4, DHX9, YPEL5
+and Pumilio.
+CONCLUSIONS: The present study may help to identify new HOX downstream key
+factors potentially involved in hematopoietic stem cell expansion or in
+leukemogenesis.
+
+PMCID: PMC3269473
+PMID: 22298821  [PubMed - indexed for MEDLINE]
+
+
+18. J Neurochem. 2011 Oct;119(2):262-74. doi: 10.1111/j.1471-4159.2011.07405.x. Epub 
+2011 Sep 2.
+
+Crx broadly modulates the pineal transcriptome.
+
+Rovsing L(1), Clokie S, Bustos DM, Rohde K, Coon SL, Litman T, Rath MF, Møller M,
+Klein DC.
+
+Author information: 
+(1)Department of Neuroscience and Pharmacology, Panum Institute, University of
+Copenhagen, Copenhagen, Denmark.
+
+Cone-rod homeobox (Crx) encodes Crx, a transcription factor expressed selectively
+in retinal photoreceptors and pinealocytes, the major cell type of the pineal
+gland. In this study, the influence of Crx on the mammalian pineal gland was
+studied by light and electron microscopy and by use of microarray and qRTPCR
+technology, thereby extending previous studies on selected genes (Furukawa et al.
+1999). Deletion of Crx was not found to alter pineal morphology, but was found to
+broadly modulate the mouse pineal transcriptome, characterized by a>2-fold
+down-regulation of 543 genes and a>2-fold up-regulation of 745 genes (p<0.05). Of
+these, one of the most highly up-regulated (18-fold) was Hoxc4, a member of the
+Hox gene family, members of which are known to control gene expression cascades. 
+During a 24-h period, a set of 51 genes exhibited differential day/night
+expression in pineal glands of wild-type animals; only eight of these were also
+day/night expressed in the Crx<U+207B>/<U+207B> pineal gland. However, in the Crx<U+207B>/<U+207B> pineal
+gland 41 genes exhibited differential night/day expression that was not seen in
+wild-type animals. These findings indicate that Crx broadly modulates the pineal 
+transcriptome and also influences differential night/day gene expression in this 
+tissue. Some effects of Crx deletion on the pineal transcriptome might be
+mediated by Hoxc4 up-regulation.
+
+© 2011 The Authors. Journal of Neurochemistry © 2011 International Society for
+Neurochemistry.
+
+PMCID: PMC3422619
+PMID: 21797868  [PubMed - indexed for MEDLINE]
+
+
+19. Autoimmunity. 2011 Dec;44(8):585-98. doi: 10.3109/08916934.2011.577128. Epub 2011
+May 18.
+
+AID dysregulation in lupus-prone MRL/Fas(lpr/lpr) mice increases class switch DNA
+recombination and promotes interchromosomal c-Myc/IgH loci translocations:
+modulation by HoxC4.
+
+White CA(1), Seth Hawkins J, Pone EJ, Yu ES, Al-Qahtani A, Mai T, Zan H, Casali
+P.
+
+Author information: 
+(1)School of Medicine and School of Biological Sciences, Institute for
+Immunology, University of California, 3028 Hewitt Hall, Irvine, CA 92697-4120,
+USA.
+
+Erratum in
+    Autoimmunity. 2011 Dec;44(8):664.
+
+Immunoglobulin gene somatic hypermutation (SHM) and class switch DNA
+recombination (CSR) play important roles in the generation of autoantibodies in
+systemic lupus erythematosus. Systemic lupus is characterized by the production
+of an array of pathogenic high-affinity mutated and class-switched, mainly IgG,
+antibodies to a variety of self-antigens, including nuclear components, such as
+dsDNA, histones, and chromatin. We previously found that MRL/Fas(lpr/lpr) mice,
+which develop a systemic autoimmune syndrome sharing many features with human
+lupus, display greatly upregulated CSR, particularly to IgG2a, in B cells of the 
+spleen, lymph nodes, and Peyer's patches. In MRL/Fas(lpr/lpr) mice, the
+significant upregulation of CSR is associated with increased expression of
+activation-induced cytidine deaminase (AID), which is critical for CSR and SHM.
+We also found that HoxC4 directly activates the promoter of the AID gene to
+induce AID expression, CSR and SHM. Here, we show that in both lupus patients and
+lupus-prone MRL/Fas(lpr/lpr) mice, the expression of HoxC4 and AID is
+significantly upregulated. To further analyze the role of HoxC4 in lupus, we
+generated HoxC4(-/-) MRL/Fas(lpr/lpr) mice. In these mice, HoxC4-deficiency
+resulted in reduced AID expression, impaired CSR, and decreased serum anti-dsDNA 
+IgG, particularly IgG2a, autoantibodies, which were associated with a reduction
+in IgG deposition in kidney glomeruli. In addition, consistent with our previous 
+findings in MRL/Fas(lpr/lpr) mice that upregulated AID expression is associated
+with extensive DNA lesions, comprising deletions and insertions in the IgH locus,
+we found that c-Myc to IgH (c-Myc/IgH) translocations occur frequently in B cells
+of MRL/Fas(lpr/lpr) mice. The frequency of such translocations was significantly 
+reduced in HoxC4(-/-) MRL/Fas(lpr/lpr) mice. These findings suggest that in lupus
+B cells, upregulation of HoxC4 plays a major role in dysregulation of AID
+expression, thereby increasing CSR and autoantibody production and promoting
+c-Myc/IgH translocations.
+
+PMCID: PMC3762595
+PMID: 21585311  [PubMed - indexed for MEDLINE]
+
+
+20. Clin Cancer Res. 2010 Nov 15;16(22):5414-23. doi: 10.1158/1078-0432.CCR-10-0272. 
+Epub 2010 Oct 8.
+
+Differential gene expression in benign prostate epithelium of men with and
+without prostate cancer: evidence for a prostate cancer field effect.
+
+Risk MC(1), Knudsen BS, Coleman I, Dumpit RF, Kristal AR, LeMeur N, Gentleman RC,
+True LD, Nelson PS, Lin DW.
+
+Author information: 
+(1)Departments of Urology and Pathology, University of Washington Medical Center,
+1959 NW Pacific Street, Seattle, WA 98195, USA.
+
+BACKGROUND: Several malignancies are known to exhibit a "field effect," whereby
+regions beyond tumor boundaries harbor histologic or molecular changes that are
+associated with cancer. We sought to determine if histologically benign prostate 
+epithelium collected from men with prostate cancer exhibits features indicative
+of premalignancy or field effect.
+EXPERIMENTAL DESIGN: Prostate needle biopsies from 15 men with high-grade
+(Gleason 8-10) prostate cancer and 15 age- and body mass index-matched controls
+were identified from a biospecimen repository. Benign epithelia from each patient
+were isolated by laser capture microdissection. RNA was isolated, amplified, and 
+used for microarray hybridization. Quantitative PCR was used to determine the
+expression of specific genes of interest. Alterations in protein expression were 
+analyzed through immunohistochemistry.
+RESULTS: Overall patterns of gene expression in microdissected benign
+prostate-associated benign epithelium (BABE) and cancer-associated benign
+epithelium (CABE) were similar. Two genes previously associated with prostate
+cancer, PSMA and SSTR1, were significantly upregulated in the CABE group (false
+discovery rate <1%). Expression of other prostate cancer-associated genes,
+including ERG, HOXC4, HOXC5, and MME, were also increased in CABE by quantitative
+reverse transcription-PCR, although other genes commonly altered in prostate
+cancer were not different between the BABE and CABE samples. The expression of
+MME and PSMA proteins on immunohistochemistry coincided with their mRNA
+alterations.
+CONCLUSION: Gene expression profiles between benign epithelia of patients with
+and without prostate cancer are very similar. However, these tissues exhibit
+differences in the expression levels of several genes previously associated with 
+prostate cancer development or progression. These differences may comprise a
+field effect and represent early events in carcinogenesis.
+
+©2010 AACR.
+
+PMCID: PMC2992073
+PMID: 20935156  [PubMed - indexed for MEDLINE]
+
+
+21. J Biol Chem. 2010 Nov 26;285(48):37797-810. doi: 10.1074/jbc.M110.169086. Epub
+2010 Sep 20.
+
+Estrogen receptors bind to and activate the HOXC4/HoxC4 promoter to potentiate
+HoxC4-mediated activation-induced cytosine deaminase induction, immunoglobulin
+class switch DNA recombination, and somatic hypermutation.
+
+Mai T(1), Zan H, Zhang J, Hawkins JS, Xu Z, Casali P.
+
+Author information: 
+(1)Institute for Immunology, University of California, Irvine, California
+92697-4120, USA.
+
+Estrogen enhances antibody and autoantibody responses through yet to be defined
+mechanisms. It has been suggested that estrogen up-regulates the expression of
+activation-induced cytosine deaminase (AID), which is critical for antibody class
+switch DNA recombination (CSR) and somatic hypermutation (SHM), through direct
+activation of this gene. AID, as we have shown, is induced by the HoxC4
+homeodomain transcription factor, which binds to a conserved HoxC4/Oct site in
+the AICDA/Aicda promoter. Here we show that estrogen-estrogen receptor (ER)
+complexes do not directly activate the AID gene promoter in B cells undergoing
+CSR. Rather, they bind to three evolutionarily conserved and cooperative estrogen
+response elements (EREs) we identified in the HOXC4/HoxC4 promoter. By binding to
+these EREs, ERs synergized with CD154 or LPS and IL-4 signaling to up-regulate
+HoxC4 expression, thereby inducing AID and CSR without affecting B cell
+proliferation or plasmacytoid differentiation. Estrogen administration in vivo
+significantly potentiated CSR and SHM in the specific antibody response to the
+4-hydroxy-3-nitrophenylacetyl hapten conjugated with chicken <U+03B3>-globulin. Ablation
+of HoxC4 (HoxC4(-/-)) abrogated the estrogen-mediated enhancement of AID gene
+expression and decreased CSR and SHM. Thus, estrogen enhances AID expression by
+activating the HOXC4/HoxC4 promoter and inducing the critical AID gene activator,
+HoxC4.
+
+PMCID: PMC2988384
+PMID: 20855884  [PubMed - indexed for MEDLINE]
+
+
+22. BMC Genet. 2009 Sep 22;10:60. doi: 10.1186/1471-2156-10-60.
+
+Characterization of the chromosomal inversion associated with the Koa mutation in
+the mouse revealed the cause of skeletal abnormalities.
+
+Katayama K(1), Miyamoto S, Furuno A, Akiyama K, Takahashi S, Suzuki H, Tsuji T,
+Kunieda T.
+
+Author information: 
+(1)Graduate School of Natural Science and Technology, Okayama University, Okayama
+700-8530, Japan. katayama@nvlu.ac.jp
+
+BACKGROUND: Koala (Koa) is a dominant mutation in mice causing bushy muzzle and
+pinna, and is associated with a chromosomal inversion on the distal half of
+chromosome 15. To identify the gene responsible for the Koa phenotypes, we
+investigated phenotypes of Koa homozygous mice and determined the breakpoints of 
+the inversion with a genetic method using recombination between two different
+chromosomal inversions.
+RESULTS: Skeletal preparation of Koa homozygotes showed marked deformity of the
+ribs and a wider skull with extended zygomatic arches, in addition to a general
+reduction in the lengths of long bones. They also had open eyelids at birth
+caused by a defect in the extension of eyelid anlagen during the embryonic
+stages. The proximal and distal breakpoints of the Koa inversion were determined 
+to be 0.8-Mb distal to the Trsps1 gene and to 0.1-Mb distal to the Hoxc4 gene,
+respectively, as previously reported. The phenotypes of mice with the recombinant
+inverted chromosomes revealed the localization of the gene responsible the Koa
+phenotype in the vicinity of the proximal recombinant breakpoint. Expression of
+the Trsps1 gene in this region was significantly reduced in the Koa homozygous
+and heterozygous embryos.
+CONCLUSION: While no gene was disrupted by the chromosomal inversion, an
+association between the Koa phenotype and the proximal recombinant breakpoint,
+phenotypic similarities with Trps1-deficient mice or human patients with TRSP1
+mutations, and the reduced expression of the Trsps1 gene in Koa mice, indicated
+that the phenotypes of the Koa mice are caused by the altered expression of the
+Trps1 gene.
+
+PMCID: PMC2758895
+PMID: 19772620  [PubMed - indexed for MEDLINE]
+
+
+23. Cloning Stem Cells. 2009 Jun;11(2):269-79. doi: 10.1089/clo.2008.0068.
+
+HOXC10 as a potential marker for discriminating between amnion- and
+decidua-derived mesenchymal stem cells.
+
+Hwang JH(1), Seok OS, Song HR, Jo JY, Lee JK.
+
+Author information: 
+(1)Department of Obstetrics and Gynecology, Korea University Guro Hospital, Korea
+University College of Medicine , Seoul, Korea.
+
+The HOX family of genes plays a fundamental role in the morphogenesis of
+vertebrate embryonic cells. HOX genes are thought to be important for the
+regulation of stem cells. We investigated HOX gene expression in mesenchymal stem
+cells (MSCs) from human placentas. We isolated MSCs from human placentas and
+confirmed stemness by fluorescence-activated cell sorting (FACS) analysis and
+differentiation studies. Using reverse transcription PCR, mRNA expression of 39
+Class I HOX genes was measured in the MSCs. The expression of HOXB6, C4, C8, C10,
+D3, D4, and D10 were measured by Western blot analysis. HOXC10 was expressed in
+10 of 10 amnion-derived MSCs but in only 2 of 10 decidua-derived MSCs. HOXC4 and 
+D10 were expressed in 100% of both amnion-derived MSCs and deciduas-derived MSCs.
+HOXD4 was silent in all amnion-derived MSCs and deciduas-derived MSCs (n = 10).
+HOX gene activation patterns might be a useful indicator for the detection of
+MSCs of different tissue origins. We demonstrated that HOXC10 is a gene that may 
+discriminate between amnion-derived MSCs and decidua-derived MSCs.
+
+PMID: 19522674  [PubMed - indexed for MEDLINE]
+
+
+24. Nat Immunol. 2009 May;10(5):540-50. doi: 10.1038/ni.1725. Epub 2009 Apr 12.
+
+HoxC4 binds to the promoter of the cytidine deaminase AID gene to induce AID
+expression, class-switch DNA recombination and somatic hypermutation.
+
+Park SR(1), Zan H, Pal Z, Zhang J, Al-Qahtani A, Pone EJ, Xu Z, Mai T, Casali P.
+
+Author information: 
+(1)Institute for Immunology, School of Medicine and School of Biological
+Sciences, University of California, Irvine, California, USA.
+
+The cytidine deaminase AID (encoded by Aicda in mice and AICDA in humans) is
+critical for immunoglobulin class-switch recombination (CSR) and somatic
+hypermutation (SHM). Here we show that AID expression was induced by the HoxC4
+homeodomain transcription factor, which bound to a highly conserved HoxC4-Oct
+site in the Aicda or AICDA promoter. This site functioned in synergy with a
+conserved binding site for the transcription factors Sp1, Sp3 and NF-kappaB.
+HoxC4 was 'preferentially' expressed in germinal center B cells and was
+upregulated by engagement of CD40 by CD154, as well as by lipopolysaccharide and 
+interleukin 4. HoxC4 deficiency resulted in impaired CSR and SHM because of lower
+AID expression and not some other putative HoxC4-dependent activity. Enforced
+expression of AID in Hoxc4(-/-) B cells fully restored CSR. Thus, HoxC4 directly 
+activates the Aicda promoter, thereby inducing AID expression, CSR and SHM.
+
+PMCID: PMC2753990
+PMID: 19363484  [PubMed - indexed for MEDLINE]
+
+
+25. Biol Reprod. 2009 Jul;81(1):56-66. doi: 10.1095/biolreprod.108.075358. Epub 2009 
+Apr 1.
+
+Identification of glial cell line-derived neurotrophic factor-regulated genes
+important for spermatogonial stem cell self-renewal in the rat.
+
+Schmidt JA(1), Avarbock MR, Tobias JW, Brinster RL.
+
+Author information: 
+(1)Department of Animal Biology, School of Veterinary Medicine, University of
+Pennsylvania, Philadelphia, Pennsylvania 19104, USA.
+
+Spermatogonial stem cells (SSCs) provide the foundation for spermatogenesis
+throughout the life of a male. Because SSCs of many species can colonize the
+mouse testis, and glial cell line-derived neurotrophic factor (GDNF) is
+responsible for stimulating SSC self-renewal in rodents, we reasoned that
+molecular mechanisms of SSC self-renewal are similar across species.
+GDNF-regulated genes have been identified in mouse SSCs; however, downstream
+targets of GDNF are unknown in other species. The objective of this work was to
+identify GDNF-regulated genes in rat SSCs and to define the biological
+significance of these genes for rat SSC self-renewal. We conducted microarray
+analysis on cultured rat germ cells enriched for SSCs in the presence and absence
+of GDNF. Many GDNF-regulated genes were identified, most notably, Bcl6b and Etv5,
+which are important for mouse SSC self-renewal. Bcl6b was the most highly
+regulated gene in both the rat and mouse. Additionally, we identified three novel
+GDNF-regulated genes in rat SSCs: Bhlhe40, Hoxc4, and Tec. Small interfering RNA 
+treatment for Bcl6b, Etv5, Bhlhe40, Hoxc4, and Tec resulted in a decrease in SSC 
+number, as determined by transplantation, without a change in total cell number
+within the culture. These data indicate that, like in the mouse SSC, Bcl6b and
+Etv5 are important for rat SSC self-renewal, suggesting that these genes may be
+important for SSCs in all mammals. Furthermore, identification of three novel
+GDNF-regulated genes in the rat SSC extends our knowledge of SSC activity and
+broadens the foundation for understanding this process in higher species,
+including humans.
+
+PMCID: PMC3093986
+PMID: 19339709  [PubMed - indexed for MEDLINE]
+
+
+26. Zhongguo Shi Yan Xue Ye Xue Za Zhi. 2009 Feb;17(1):141-5.
+
+[Effect of human cytomegalovirus infection on the expression of hoxc4 and hoxc6
+genes in the proliferation of lymphocytic progenitor cells].
+
+[Article in Chinese]
+
+Feng JQ(1), Liu WJ, Chen HY, Guo QL, Chen A, Chen SQ.
+
+Author information: 
+(1)Department of Pediatrics, Affiliated Hospital, Luzhou Medical College, Luzhou 
+646000, China.
+
+The objective of this study was to observe the expression of hoxc4 and hoxc6
+genes in the process of differentiation of hematopoietic stem cell (HSC) to
+colony forming unit-T Lymphocyte (CFU-TL) in vitro. and to explore the possible
+mechanism of HCMV-induced maldevelopment of human cord blood CFU-TL on genetic
+level through effecting the differentiation progress by human cytomegalovirus
+(HCMV) with and/or all-trans retinoic acid (ATRA), Normal CFU-TL culture was used
+as blank control. After detection with MTT, mRNA expression levels in the human
+cord blood CFU-TL hoxc4 and hoxc6 genes following HCMV infection and ATRA
+treatment were detected by fluorogenic quantitative reserve transcription
+polymerize chain reaction (FQ-RT-PCR) method. HCMV of 10(6) plaque formation unit
+(PFU)/ml was diluted to 0.1 ml 10(5) PFU/ml and added into the infected group.
+The results showed that the expression of hoxc4 and hoxc6 genes in the
+differentiation process increased slightly on day 3, and were up to the most on
+day 7 (p < 0.05), while became lower on day 12 respectively in normal group, HCMV
+group and ATRA group. Compared with the expression of hoxc6, the expression of
+hoxc4 was obviously higher in each group (p < 0.05). Compared with the expression
+of hoxc4 and hoxc6 genes in normal group, the expressions of hoxc4 and hoxc6 in
+ATRA group were up-regulated remarkably (p < 0.05), while the expressions of
+hoxc4 and hoxc6 in group HCMV were down-regulated (p < 0.05). It is concluded
+that the regular expression of hoxc4 and hoxc6 genes mRNA appeared in each group.
+A positive co-relationship exits between hoxc4/hoxc6 genes and lymphocytic
+progenitor hematopoiesis. Compared with the expression of hoxc6 gene, the
+expression of hoxc4 gene is obviously higher in each group. HCMV can
+down-regulate the expression of hoxc4 and hoxc6 genes and lead to suppression
+effect on cell morphology, which confirms that the normal hematopoietic lineage
+determination and maturation rely on the stable and consistent expression of
+homeobox gene. At the same condition, ATRA (6 x 10(-8) mol/L at 60 nmol/ml) can
+up-regulate hoxc4 and hoxc6 genes expression. ATRA can up-regulate the expression
+of hoxc4 and hoxc6 genes.
+
+PMID: 19236766  [PubMed - indexed for MEDLINE]
+
+
+27. Theory Biosci. 2009 May;128(2):109-20. doi: 10.1007/s12064-009-0056-1. Epub 2009 
+Feb 19.
+
+Hox cluster duplication in the basal teleost Hiodon alosoides
+(Osteoglossomorpha).
+
+Chambers KE(1), McDaniell R, Raincrow JD, Deshmukh M, Stadler PF, Chiu CH.
+
+Author information: 
+(1)Department of Genetics, Rutgers University, Piscataway, NJ, USA.
+kchamber@wiley.com
+
+Large-scale--even genome-wide--duplications have repeatedly been invoked as an
+explanation for major radiations. Teleosts, the most species-rich vertebrate
+clade, underwent a "fish-specific genome duplication" (FSGD) that is shared by
+most ray-finned fish lineages. We investigate here the Hox complement of the
+goldeye (Hiodon alosoides), a representative of Osteoglossomorpha, the most basal
+teleostean clade. An extensive PCR survey reveals that goldeye has at least eight
+Hox clusters, indicating a duplicated genome compared to basal actinopterygians. 
+The possession of duplicated Hox clusters is uncoupled to species richness. The
+Hox system of the goldeye is substantially different from that of other teleost
+lineages, having retained several duplicates of Hox genes for which crown
+teleosts have lost at least one copy. A detailed analysis of the PCR fragments as
+well as full length sequences of two HoxA13 paralogs, and HoxA10 and HoxC4 genes 
+places the duplication event close in time to the divergence of Osteoglossomorpha
+and crown teleosts. The data are consistent with-but do not conclusively
+prove-that Osteoglossomorpha shares the FSGD.
+
+PMCID: PMC2683926
+PMID: 19225820  [PubMed - indexed for MEDLINE]
+
+
+28. Vet Dermatol. 2008 Dec;19(6):358-67. doi: 10.1111/j.1365-3164.2008.00709.x. Epub 
+2008 Nov 14.
+
+The mouse hairy ears mutation exhibits an extended growth (anagen) phase in hair 
+follicles and altered Hoxc gene expression in the ears.
+
+Mentzer SE(1), Sundberg JP, Awgulewitsch A, Chao HH, Carpenter DA, Zhang WD,
+Rinchik EM, You Y.
+
+Author information: 
+(1)Mammalian Genetics and Genomics Group, Life Sciences Division, Oak Ridge
+National Laboratory, PO Box 2008, Bethel Valley Road, Oak Ridge, TN 37831-6445,
+USA.
+
+The mouse In(15)2Rl (hairy ears, Eh) mutation is a paracentric inversion of the
+distal half of chromosome 15 (Chr 15). Heterozygous Eh/+ mice display misshaped
+and hairy ears that have more and longer hair than the ears of their wild-type
+littermates. We mapped, cloned and sequenced both inversion breakpoints. No
+protein-coding transcript was disrupted by either breakpoint. The proximal
+breakpoint is located between syntrophin basic 1 (Sntb1) and hyaluronan synthase 
+2 (Has2), and the distal breakpoint maps between homeobox C4 (Hoxc4) and
+single-strand selective monofunctional uracil DNA glycosylase (Smug1), near the
+middle and the telomere ends of Chr 15, respectively. The inversion spans ~47
+megabases. Our genetic analysis suggests that the hairy-ear phenotype is caused
+by the proximal breakpoint of the inversion-bearing Chr 15. Quantitative RNA
+analysis by real-time polymerase chain reaction for the genes flanking the
+breakpoint indicated no changes in expression levels except for some homeobox C
+(Hoxc) genes whose expression was elevated in developing and mature skin of the
+ears but not of other body regions. The increased hair length on the ears of Eh/+
+mice was due to an extension of the anagen stage in the hair cycle, as determined
+by histological analysis. Our data indicate that the Eh phenotype arises from
+mis-expression of Hoxc genes.
+
+PMCID: PMC3061202
+PMID: 19037915  [PubMed - indexed for MEDLINE]
+
+
+29. Cir Pediatr. 2007 Oct;20(4):223-8.
+
+[The etiology of congenital diaphragmatic hernia and esophageal atresia: the Hox 
+genes].
+
+[Article in Spanish]
+
+Martínez L(1), Martínez-Calonge W, Matesanz R, Fernández-Dumont V, Pederiva F,
+Vallejo MT, Salinas J, Tovar JA.
+
+Author information: 
+(1)Departamento de Cirugía Pediátrica, Hospital Universitario La Paz, Madrid.
+lmartinezm.hulp@salud.madrid.org
+
+BACKGROUND: Prenatal administration of adriamycin or nitrofen to pregnant mice
+produce in the embryos, respectively, esophageal atresia/VACTERL association (EA)
+or congenital diaphragmatic hernia (CDH). Various genes and signalling pathways
+like sonic hedgehog, Gli family, retinoic acid and homeotic genes have been
+pointed out in the origin of these malformations. Hox genes are master regulatory
+genes involved in embryo segmentation and other main development processes.
+Hoxa3, Hoxb3, Hoxc3, Hoxc4 and Hoxa5 knock-out mice show cardiac, tracheal, lung 
+and diaphragmatic malformations, EA and phenotypes that resemble that of VACTERL 
+syndrome. We present herein some of our findings in the expression of these genes
+in both experimental models.
+MATERIAL AND METHODS: Pregnant mice were exposed either to 4 mg/kg of adriamycin 
+or vehicle on embryonic days 7,5 and 8,5; embryos were recovered at four
+endpoints (E13 to 16). On the other hand, nitrofen was given to pregnant mice on 
+embryonic day 8th and embryos were recovered at E14, E16 and E19. The embryos or,
+separately, their lungs and hearts, were randomly processed for
+immunohistochemical or molecular biology studies (RT-PCR). We used antibodies for
+Hoxa3, Hoxb3 and Hoxd3 proteins and specific primers for Hoxa3, Hoxa5, Hoxb3,
+Hoxb5, Hoxc4 and Hoxd3 genes.
+RESULTS: EA: Upon immunohistochemistry, adriamycin-exposed embryos showed a
+severe decrease in expression of Hoxa3, Hoxb3 and Hoxb3 proteins in heart, skin, 
+foregut but not in the heart. RT-PCR studies showed a statistically significant
+decrease of the four genes studied in the lungs of OA mice when compared to
+controls. CDH: Upon RT-PCR assessment the expression of Hoxa5 and Hoxb3 were
+higher in nitrofen-exposed mice than in controls on E14 and E19 and weaker on
+E16. As regards immunohistochemical localization, expression of the three genes
+was similar in nitrofen and control animals.
+CONCLUSIONS: Both experimental models exhibit an alteration in the expression of 
+several proximal Hox genes, specially in lung and car- diac tissues. The
+malformations in these organs associated with CDH and EA could be in part caused 
+by these alterations. Due to their specific participation in lung and foregut
+morphogenesis, their study could let us to better understand the mechanisms of
+CDH and EA.
+
+PMID: 18351244  [PubMed - indexed for MEDLINE]
+
+
+30. Crit Rev Immunol. 2007;27(4):367-97.
+
+Regulation of aicda expression and AID activity: relevance to somatic
+hypermutation and class switch DNA recombination.
+
+Xu Z(1), Pone EJ, Al-Qahtani A, Park SR, Zan H, Casali P.
+
+Author information: 
+(1)Center for Immunology, School of Medicine and School of Biological Sciences,
+University of California, Irvine, CA 92697-4120, USA.
+
+Expression and activity of activation-induced cytidine deaminase (AID) encoded by
+the aicda gene are essential for immunoglobulin (Ig) gene somatic hypermutation
+(SHM) and class switch DNA recombination (CSR). SHM and CSR unfold, in general,
+in germinal centers and/are central to the maturation of effective antibody
+responses. AID expression is induced by activated B-cell CD40 signaling, which is
+critical for the germinal center reaction, and is further enhanced by other
+stimuli, including interleukin-4 (IL-4) secreted from CD4+ T cells or Toll-like
+receptor (TLR)-activating bacterial and/or viral molecules. Integration of
+different intracellular signal transduction pathways, as activated by these
+stimuli, leads to a dynamic aicda-regulating program, which involves both
+positively acting trans-factors, such as Pax5, HoxC4, E47, and Irf8, and negative
+modulators, such as Blimp1 and Id2, to restrict aicda expression primarily to
+germinal center B cells. The phosphatidylinositol 3-kinase (PI 3-K), which
+functions downstream of activated B-cell receptor (BCR) signaling, likely plays
+an important role in triggering the downregulation of aicda expression in
+postgerminal center B cells and throughout plasmacytoid differentiation. In B
+cells undergoing SHM and CSR, AID activity, and, possibly, AID targeting to the
+Ig locus are regulated at a posttranslational level, including AID
+dimerization/oligomerization, nuclear/cytoplasmic AID translocation, and
+phosphorylation of the AID Ser38 residue by protein kinase A (PKA). Here, we
+discuss the role of B-cell activation signals, transcription regulation programs,
+and posttranslational modifications in controlling aicda expression and AID
+activity, thereby delineating an integrated model of modulation of SHM and CSR in
+the germinal center reaction.
+
+PMCID: PMC2994649
+PMID: 18197815  [PubMed - indexed for MEDLINE]
+
+
+31. Zhonghua Wei Chang Wai Ke Za Zhi. 2007 Jul;10(4):365-7.
+
+[Expression of 39 HOX genes in esophageal cancer cell lines].
+
+[Article in Chinese]
+
+Gu ZD(1), Chen XM, Zhang W, Gu J, Chen KN.
+
+Author information: 
+(1)Department of Thoracic Surgery, Peking University School of Oncology, Beijing 
+Cancer Hospital, Beijing Institute for Cancer Research, Beijing 100036, China.
+
+OBJECTIVE: To identify whether HOX genes can be used as markers of esophageal
+cancer.
+METHODS: The expression of 39 HOX genes in esophageal cancer cell lines was
+examined. Specific primers were designed and RT- PCR was performed for each HOX
+gene members in above esophageal cancer cell lines, EC109 and CAES.
+RESULTS: Fifteen out of 39 HOX genes were expressed in esophageal cancer cell
+lines. They were HOXA2, HOXA7, HOXA9, HOXA10, HOXA13, HOXB7, HOXB9, HOXC4, HOXC5,
+HOXC6, HOXC8, HOXC9, HOXD9, HOXD10, and HOXD13 respectively. Of them. Eleven
+genes were overlapped with the ones detected in human esophageal squamous cell
+carcinoma(ESCC) in our former study.
+CONCLUSION: This study reconfirms our former that some HOX genes are deregulated 
+expressed in ESCC, which provides more positive evidence for their roles in ESCC.
+
+PMID: 17659465  [PubMed - indexed for MEDLINE]
+
+
+32. Leukemia. 2007 Aug;21(8):1836-9. Epub 2007 May 10.
+
+The HOXB4 homeoprotein improves ex vivo generation of functional human NK-cell
+progenitors.
+
+Haddad R, Caignard A, Visentin G, Vigon I, Fichelson S, Amsellem S.
+
+PMID: 17495974  [PubMed - indexed for MEDLINE]
+
+
+33. J Soc Biol. 2006;200(3):235-41.
+
+[Ex vivo expansion of human hematopoietic stem cells by passive transduction of
+the HOXB4 homeoprotein].
+
+[Article in French]
+
+Amsellem S(1), Fichelson S.
+
+Author information: 
+(1)Institut Cochin, Département d'Hématologie, Inserm U567, CNRS UMR 8104,
+Université Paris 5, Faculté de Médecine René Descartes, UM 3. Paris, F-75014
+France. amsellem@cochin.inserm.fr
+
+Expansion of human hematopoietic stem cells (HSCs) is a challenge for cellular
+therapy. It currently relies on either the use of recombinant cytokines or
+transfer of transcription factor genes. Among these, the HOXB4 homeoprotein is of
+particular interest since it promotes the expansion of mouse HSCs without
+inducing leukemia. To prevent potential deleterious side effects associated with 
+stable HOXB4 gene transfer into the cells, we took advantage of the ability of
+homeoproteins to passively pass through cell membranes. We have shown that, when 
+co-cultured with stromal cells engineered to secrete HOXB4, human stem cells and 
+immature progenitors clearly were expanded. This expansion was associated with
+enhanced stem cell repopulating capacity in vivo and maintenance of
+pluripotentiality. The role that HOXB4 plays on stem cell expansion has also been
+tested on human lymphoid progenitors. We found that our model of protein transfer
+was also able to induce the expansion of the immature lympho-myeloid and pro-T/NK
+progenitors as well as of more mature NK progenitors. We then looked for
+synergistic activities between HOXB4 and other homeoproteins such as HOXC4. We
+found that HOXC4 was able to promote the expansion of human hematopoietic cells
+in vitro roughly as HOXB4 did and that the presence of both HOXB4 and HOXC4
+molecules induced even higher expansion levels of these cells. Our method
+provides a basis for developing cell therapy strategies using expanded HSCs that 
+are not genetically modified.
+
+PMID: 17417138  [PubMed - indexed for MEDLINE]
+
+
+34. Pediatr Surg Int. 2007 May;23(5):419-24.
+
+Expression of homeotic genes Hoxa3, Hoxb3, Hoxd3 and Hoxc4 is decreased in the
+lungs but not in the hearts of adriamycin-exposed mice.
+
+Calonge WM(1), Martinez L, Lacadena J, Fernandez-Dumont V, Matesanz R, Tovar JA.
+
+Author information: 
+(1)Department of Pediatric Surgery, Hospital Universitario La Paz, P. de la
+Castellana 261, 28046 Madrid, Spain.
+
+Exposure of rat and mouse embryos to adriamycin (doxorubicin chlorhydrate)
+induces esophageal atresia (EA) and VACTERL association. Sonic hedgehog (Shh) and
+Gli2/Gli3 pathways are involved in these conditions and knockout mice for
+homeotic Hox genes Hoxa3, Hoxb3, Hoxc3, Hoxc4 and Hoxa5 show phenotypes with some
+of the associated VACTERL features. This study aims at evaluating the possible
+influence of Hoxa3, Hoxb3, Hoxd3 and Hoxc4 as upstream regulators of this complex
+signalling. Pregnant mice were exposed either to 4 mg/kg of adriamycin (EA group)
+or vehicle (controls) on embryonic days 7.5 and 8.5. Embryos were recovered at
+four endpoints (E12.5-E15.5) and randomly assigned for immunohistochemical or
+molecular biology studies. Lungs and hearts were separately harvested and
+processed for Hoxa3, Hoxb3, Hoxd3 and Hoxc4 quantitative RT-PCR measurements.
+Antibodies for Hoxa3, Hoxb3 and Hoxd3 proteins were used for immunohistochemical 
+studies. RT-PCR studies showed a drastic and statistically significant decrease
+of the four genes in the lungs of EA mice when compared to controls, with a
+slight recovery from E15.5. Hearts of both groups showed a similar expression of 
+all the genes throughout gestation. Control embryos expressed the hox3 paralogous
+genes in heart, skin, foregut derivatives and their surrounding mesoderm through 
+E12.5-E15.5 whereas adriamycin-exposed embryos showed a severe decrease in
+expression of these three proteins in the same tissues but not in the heart.
+Adriamycin drastically reduced the expression of Hoxa3, Hoxb3, Hoxd3 and Hoxc4 in
+mice embryonic lungs. Their expression in the heart did not seem to be influenced
+by adriamycin in this experimental setting.
+
+PMID: 17211587  [PubMed - indexed for MEDLINE]
+
+
+35. Biochem Biophys Res Commun. 2005 Dec 30;338(4):1759-65. Epub 2005 Nov 2.
+
+Murine mesenchymal and embryonic stem cells express a similar Hox gene profile.
+
+Phinney DG(1), Gray AJ, Hill K, Pandey A.
+
+Author information: 
+(1)Center for Gene Therapy, Tulane University Health Science Center, New Orleans,
+LA 70112, USA. dphinne@tulane.edu
+
+Using degenerate oligonucleotide primers targeting the homeobox domain, we
+amplified by PCR and sequenced 723 clones from five murine cell populations and
+lines derived from embryonic mesoderm and adult bone marrow. Transcripts from all
+four vertebrate Hox clusters were expressed by the different populations.
+Hierarchical clustering of the data revealed that mesenchymal stem cells (MSCs)
+and the embryonic stem (ES) cell line D3 shared a similar Hox expression profile.
+These populations exclusively expressed Hoxb2, Hoxb5, Hoxb7, and Hoxc4,
+transcripts regulating self-renewal and differentiation of other stem cells.
+Additionally, Hoxa7 transcript quantified by real-time PCR strongly correlated
+(r2=0.89) with the number of Hoxa7 clones identified by sequencing, validating
+that data from the PCR screen reflects differences in Hox mRNA abundance between 
+populations. This is the first study to catalogue Hox transcripts in murine MSCs 
+and by comparative analyses identify specific Hox genes that may contribute to
+their stem cell character.
+
+PMID: 16288716  [PubMed - indexed for MEDLINE]
+
+
+36. Zhonghua Yi Xue Yi Chuan Xue Za Zhi. 2005 Oct;22(5):497-501.
+
+Analysis of single nucleotide polymorphisms and haplotypes in HOXC gene cluster
+within susceptible region 12q13 of simple congenital heart disease.
+
+Gong LG(1), Qiu GR, Jiang H, Xu XY, Zhu HY, Sun KL.
+
+Author information: 
+(1)Department of Medical Genetics, China Medical University, Shenyang, Liaoning, 
+PR China.
+
+OBJECTIVE: In the candidate region 12q13 of simple congenital heart disease(CHD),
+four single nucleotide polymorphisms(SNPs) in HOXC4 gene were chosen in order to 
+investigate the distribution of SNP and haplotypes in simple CHD patients and
+normal people.
+METHODS: The genotype of 4 SNPs in 108 simple CHD patients and 200 normal people 
+were analyzed by restriction fragment length polymorphism(RFLP) and denaturing
+high-performance liquid chromatography(DHPLC). The statistical contingency table 
+method was used to analyze SNP genotype frequency and gene frequency in patients 
+and control group; then, the haplotypes were established and their frequencies in
+the two groups were assessed by PHASE software.
+RESULTS: C16476T polymorphism was not detected; A17860G located in 3' flanking
+sequence of HOXC5 gene displayed significant difference between the two groups.
+The G allele frequency in simple CHD patients was higher than that in healthy
+controls(P < 0.05); the distribution of frequencies of 4 haplotypes showed
+significant difference(P < 0.01).
+CONCLUSION: The A17860G located in 3'flanking sequence of HOXC5 gene is
+associated with simple CHD; the risk of CHD in the persons with G17860 is higher 
+than that in those with A17860. the haplotype of 3 SNPs may be linked with the
+susceptible gene of simple CHD.
+
+PMID: 16215934  [PubMed - indexed for MEDLINE]
+
+
+37. Leuk Lymphoma. 2005 Jul;46(7):1061-6.
+
+Upregulated hoxC4 induces CD14 expression during the differentiation of acute
+promyelocytic leukemia cells.
+
+Kim DY(1), Choi SJ, Kim SH, Chung HY, Yi S, Kim DW, Kim CC, Han TH.
+
+Author information: 
+(1)Department of Molecular Cell Biology, SBRI, Sungkyunkwan University School of 
+Medicine, Suwon, Korea.
+
+Homeobox (hox) genes encode transcription factors which are critically involved
+in embryonic development. The 39 different hox genes are organized into four
+unlinked chromosomal gene clusters (hoxA-D) in mammals and a number of studies
+have suggested that hox genes play important roles in human leukemogenesis. Acute
+promyelocytic leukemia (APL) cells carrying the PML-RARa fusion protein, respond 
+well by differentiating in their response to an all-trans-retinoic acid (ATRA)
+treatment. We examined the expression of the individual hox genes during this
+differentiation. Besides the constitutive expression of hoxA9 and no expression
+of hoxB7, the expression of hoxC4 increased significantly during differentiation 
+of NB4 cells (PML-RAR(alpha)+). We also examined the expression of hoxC4 in bone 
+marrow cells from APL patients and found that the hoxC4 expression was
+reproducibly induced during an ATRA treatment. To further examine this finding,
+HoxC4 was stably expressed in NB4 cells by retroviral transduction. The NB4 cells
+expressing HoxC4 showed differentiated phenotypes including a CD14 expression,
+which strongly suggests that upregulated hoxC4 is functionally involved in NB4
+cell differentiation in response to ATRA. Upregulation of CD14 is at the
+transcription level and mediated by the homeodomain of the HoxC4.
+
+PMID: 16019559  [PubMed - indexed for MEDLINE]
+
+
+38. Dev Cell. 2005 Jan;8(1):75-84.
+
+Tbx5 and Tbx4 are not sufficient to determine limb-specific morphologies but have
+common roles in initiating limb outgrowth.
+
+Minguillon C(1), Del Buono J, Logan MP.
+
+Author information: 
+(1)Division of Developmental Biology, National Institute for Medical Research,
+Mill Hill, London NW7 1AA, United Kingdom.
+
+Morphological differences between forelimbs and hindlimbs are thought to be
+regulated by Tbx5 expressed in the forelimb and Tbx4 and Pitx1 expressed in the
+hindlimb. Gene deletion and misexpression experiments have suggested that these
+factors have two distinct functions during limb development: the initiation
+and/or maintenance of limb outgrowth and the specification of limb-specific
+morphologies. Using genetic methods in the mouse, we have investigated the roles 
+of Tbx5, Tbx4, and Pitx1 in both processes. Our results support a role for Tbx5
+and Tbx4, but not for Pitx1, in initiation of limb outgrowth. In contrast to
+conclusions from gene misexpression experiments in the chick, our results
+demonstrate that Tbx5 and Tbx4 do not determine limb-specific morphologies.
+However, our results support a role for Pitx1 in the specification of
+hindlimb-specific morphology. We propose a model in which positional codes, such 
+as Pitx1 and Hox genes in the lateral plate mesoderm, dictate limb-specific
+morphologies.
+
+PMID: 15621531  [PubMed - indexed for MEDLINE]
+
+
+39. Development. 2004 Aug;131(15):3545-57.
+
+Beta-catenin signaling is required for neural differentiation of embryonic stem
+cells.
+
+Otero JJ(1), Fu W, Kan L, Cuadra AE, Kessler JA.
+
+Author information: 
+(1)Department of Neurology, Northwestern University Feinberg School of Medicine, 
+303 East Chicago Avenue, Chicago, IL 60611, USA. j-otero@northwestern.edu
+
+Culture of embryonic stem (ES) cells at high density inhibits both beta-catenin
+signaling and neural differentiation. ES cell density does not influence
+beta-catenin expression, but a greater proportion of beta-catenin is targeted for
+degradation in high-density cultures. Moreover, in high-density cultures,
+beta-catenin is preferentially localized to the membrane further reducing
+beta-catenin signaling. Increasing beta-catenin signaling by treatment with
+Wnt3a-conditioned medium, by overexpression of beta-catenin, or by overexpression
+of a dominant-negative form of E-cadherin promotes neurogenesis. Furthermore,
+beta-catenin signaling is sufficient to induce neurogenesis in high-density
+cultures even in the absence of retinoic acid (RA), although RA potentiates the
+effects of beta-catenin. By contrast, RA does not induce neurogenesis in
+high-density cultures in the absence of beta-catenin signaling. Truncation of the
+armadillo domain of beta-catenin, but not the C terminus or the N terminus,
+eliminates its proneural effects. The proneural effects of beta-catenin reflect
+enhanced lineage commitment rather than proliferation of neural progenitor cells.
+Neurons induced by beta-catenin overexpression either alone or in association
+with RA express the caudal neuronal marker Hoxc4. However, RA treatment inhibits 
+the beta-catenin-mediated generation of tyrosine hydroxylase-positive neurons,
+suggesting that not all of the effects of RA are dependent upon beta-catenin
+signaling. These observations suggest that beta-catenin signaling promotes neural
+lineage commitment by ES cells, and that beta-catenin signaling may be a
+necessary co-factor for RA-mediated neuronal differentiation. Further,
+enhancement of beta-catenin signaling with RA treatment significantly increases
+the numbers of neurons generated from ES cells, thus suggesting a method for
+obtaining large numbers of neural species for possible use in for ES cell
+transplantation.
+
+PMID: 15262888  [PubMed - indexed for MEDLINE]
+
+
+40. J Biol Chem. 2004 Oct 1;279(40):42258-69. Epub 2004 Jul 13.
+
+The HoxC4 homeodomain protein mediates activation of the immunoglobulin heavy
+chain 3' hs1,2 enhancer in human B cells. Relevance to class switch DNA
+recombination.
+
+Kim EC(1), Edmonston CR, Wu X, Schaffer A, Casali P.
+
+Author information: 
+(1)Center for Immunology, College of Medicine and School of Biological Sciences, 
+University of California, Irvine, California 92697-4120, USA.
+
+The immunoglobulin heavy chain (IgH) 3' regulatory region modulates IgH locus
+transcription, upon induction by specific trans-acting factors, and plays a
+significant role in class switch DNA recombination (CSR) and, perhaps, somatic
+hypermutation (SHM). CSR and SHM are central to the maturation of the antibody
+response. In contrast to the single 5'-hs3a-hs1,2-hs3b-hs4-3 ' mouse IgH 3 '
+regulatory region, the human IgH 3 ' regulatory region exists as a
+5'-hs3-hs1,2-hs4-3' cluster duplicated 3 ' of Calpha1 and Calpha2. We show here
+that the human hs1,2 element is the strongest enhancer of transcription, as
+directed by a V(H)1 or the ECS-Igamma3 promoter, thereby suggesting a dominant
+role for hs1,2 over hs3 and hs4 in the overall activity of the 3 ' regulatory
+region. Within hs1,2, we identified three regions (1, 2, and 3) that are all
+necessary, but individually not sufficient, for enhancement of transcription. In 
+region 2, a HoxC4 site and a HoxC4/embedded octamer (HoxC4/Oct) site are
+conserved across human, mouse, rat, and rabbit. These two sites recruit HoxC4 and
+Oct-1/Oct-2, which act synergistically with the Oca-B coactivator to effect the
+full hs1,2-enhancing activity. HoxC4, Oct-1/Oct-2, and Oca-B recruitment is
+negligible in pro-B cells, moderate in pre-B cells, and maximal in germinal
+center B cells and plasma cells, where HoxC4, Oct-2, and Oca-B expression
+correlates with hs1,2 activation and ongoing CSR. The hs1,2mediated enhancement
+of V(H) and C(H) promoter-driven transcription as induced by HoxC4 and
+Oct-1/Oct-2 suggests an important role of these homeodomain proteins in the
+overall regulation of the IgH locus expression.
+
+PMCID: PMC4631311
+PMID: 15252056  [PubMed - indexed for MEDLINE]
+
+
+41. Genet Mol Res. 2003 Sep 30;2(3):260-70.
+
+Molecular cytogenetic assignment of genes to bovine chromosome 5.
+
+De Donato M(1), Gallagher DS Jr, Lehn C, Gill C, Taylor JF.
+
+Author information: 
+(1)Department of Animal Science, Texas A and M University, College Station, TX
+77843, USA. dedonato@usa.net
+
+Seven genes were assigned by molecular cytogenetic methods to bovine chromosome
+5. To accomplish this, specific primers were either publicly available or were
+designed from highly conserved regions of the publicly available mammalian gene
+sequences. The identity of the amplified segments was verified by sequencing and 
+alignment with the published sequences. The optimized primers that amplified the 
+desired bovine genes were used for screening a bovine bacterial artificial
+chromosome library. The positive clones were localized to a specific band of
+bovine chromosome 5 by fluorescence in situ hybridization. The genes HOXC4, SP1
+and IGFBP6 were localized to band q21, COL2A1 was localized to bands q21-q23,
+IGF1 was localized to band q26, MB to band q31 and the gene CYP2D6 was localized 
+to band q35. The cytogenetic assignment of SP1, IGFBP6, COL2A1, IGF1, MB and
+CYP2D6 is first reported here and the assignment of HOXC4 refines the previous
+assignment of this gene. The identification and localization of these genes
+further support the development of the human to bovine comparative map through
+characterizing the homologous segments conserved in the evolution of these
+species. This information will be useful for the future localization of genes
+that affect economically important traits in bovines.
+
+PMID: 14966674  [PubMed - indexed for MEDLINE]
+
+
+42. Cancer Res. 2003 Sep 15;63(18):5879-88.
+
+Aberrant HOXC expression accompanies the malignant phenotype in human prostate.
+
+Miller GJ(1), Miller HL, van Bokhoven A, Lambert JR, Werahera PN, Schirripa O,
+Lucia MS, Nordeen SK.
+
+Author information: 
+(1)Department of Pathology, University of Colorado Health Sciences Center,
+Denver, Colorado 80262, USA.
+
+Dysregulation of HOX gene expression has been implicated as a factor in
+malignancies for a number of years. However, no consensus has emerged regarding
+specific causative genes. Using a degenerate reverse transcription-PCR technique,
+we show up-regulation of genes from the HOXC cluster in malignant prostate cell
+lines and lymph node metastases. When relative expression levels of the four HOX 
+clusters were examined, lymph node metastases and cell lines derived from lymph
+node metastases exhibited very similar patterns, patterns distinct from those in 
+benign cells or malignant cell lines derived from other tumor sites. Specific
+reverse transcription-PCR for HOXC4, HOXC5, HOXC6, and HOXC8 confirmed
+overexpression of these genes in malignant cell lines and lymph node metastases. 
+Laser capture microdissection and examination of paired tumor/normal prostate
+epithelial cells also indicated overexpression of these HOXC genes in primary
+tumor cells. Our data indicate a possible link between expression of HOXC genes
+and malignancy in prostate cells. Overexpression of HOXC8 in LNCaP prostate
+cancer cells suppressed transactivation by androgen receptors. We speculate that 
+HOXC overexpression may predispose tumor cells to androgen independence by
+necessitating adaptation to diminished androgen signaling.
+
+PMID: 14522913  [PubMed - indexed for MEDLINE]
+
+
+43. J Biol Chem. 2003 Jun 20;278(25):23141-50. Epub 2003 Apr 2.
+
+Selective inhibition of class switching to IgG and IgE by recruitment of the
+HoxC4 and Oct-1 homeodomain proteins and Ku70/Ku86 to newly identified ATTT
+cis-elements.
+
+Schaffer A(1), Kim EC, Wu X, Zan H, Testoni L, Salamon S, Cerutti A, Casali P.
+
+Author information: 
+(1)Division of Molecular Immunology, Department of Pathology and Laboratory
+Medicine, Joan and Sanford I. Weill Medical College, Cornell University, New
+York, New York 10021, USA.
+
+Immunoglobulin (Ig) class switching is central to the maturation of the antibody 
+response as IgG, IgA, and IgE are endowed with more diverse biological effector
+functions than IgM. It is induced upon engagement of CD40 on B lymphocytes by
+CD40L expressed by activated CD4+ T cells and exposure of B cells to T
+cell-secreted cytokines including interleukin-4 and transforming growth
+factor-beta. It begins with germ line IH-CH transcription and unfolds through
+class switch DNA recombination (CSR). We show here that the HoxC4 and Oct-1
+homeodomain proteins together with the Ku70/Ku86 heterodimer bind as a complex to
+newly identified switch (S) regulatory ATTT elements (SREs) in the Igamma and
+Iepsilon promoters and downstream regions to dampen basal germ line Igamma-Cgamma
+and Iepsilon-Cepsilon transcriptions and repress CSR to Cgamma and Cepsilon. This
+mechanism is inactive in the Calpha1/Calpha2 loci because of the lack of SREs in 
+the Ialpha1/Ialpha2 promoters. Accordingly, in resting human IgM+IgD+ B cells,
+HoxC4, Oct-1, and Ku70/Ku86 can be readily identified as bound to the Igamma and 
+Iepsilon promoters but not the Ialpha1/Ialpha2 promoters. CD40 signaling
+dissociates the HoxC4.Oct-1. Ku complex from the Igamma and Iepsilon promoter
+SREs, thereby relieving the IH-CH transcriptional repression and allowing CSR to 
+unfold. Dissociation of HoxC4.Oct-1. Ku from DNA is hampered by CD153 engagement,
+a CD40-signaling inhibitor. Thus, these findings outline a HoxC4.Oct-1.
+Ku-dependent mechanism of selective regulation of class switching to IgG and IgE 
+and further suggest distinct co-evolution and shared CSR activation pathways in
+the Cgamma and Cepsilon as opposed to the Calpha1/Calpha2 loci.
+
+PMID: 12672812  [PubMed - indexed for MEDLINE]
+
+
+44. J Biol Chem. 2001 May 18;276(20):16848-56. Epub 2001 Feb 20.
+
+The binding of Ku antigen to homeodomain proteins promotes their phosphorylation 
+by DNA-dependent protein kinase.
+
+Schild-Poulter C(1), Pope L, Giffin W, Kochan JC, Ngsee JK, Traykova-Andonova M, 
+Haché RJ.
+
+Author information: 
+(1)Department of Medicine, The Loeb Health Research Institute at the Ottawa
+Hospital, University of Ottawa, Ottawa, Ontario K1Y 4E9, Canada.
+
+The Ku antigen (70- and 80-kDa subunits) is a regulatory subunit of DNA-dependent
+protein kinase (DNA-PK) that promotes the recruitment of the catalytic subunit of
+DNA-PK (DNA-PKcs) to DNA ends and to specific DNA sequences from which the kinase
+is activated. Ku and DNA-PKcs plays essential roles in double-stranded DNA break 
+repair and V(D)J recombination and have been implicated in the regulation of
+specific gene transcription. In a yeast two-hybrid screen of a Jurkat T cell cDNA
+library, we have identified a specific interaction between the 70-kDa subunit of 
+Ku heterodimer and the homeodomain of HOXC4, a homeodomain protein expressed in
+the hematopoietic system. Unexpectedly, a similar interaction with Ku was
+observed for several additional homeodomain proteins including octamer
+transcription factors 1 and 2 and Dlx2, suggesting that specific binding to Ku
+may be a property shared by many homeodomain proteins. Ku-homeodomain binding was
+mediated through the extreme C terminus of Ku70 and was abrogated by amino acid
+substitutions at Lys595/Lys596. Ku binding allowed the recruitment of the
+homeodomain to DNA ends and dramatically enhanced the phosphorylation of
+homeodomain-containing proteins by DNA-PK. These results suggest that Ku
+functions as a substrate docking protein for signaling by DNA-PK to homeodomain
+proteins from DNA ends.
+
+PMID: 11279128  [PubMed - indexed for MEDLINE]
+
+
+45. Development. 2000 Dec;127(23):5093-100.
+
+Loss- and gain-of-function mutations show a polycomb group function for Ring1A in
+mice.
+
+del Mar Lorente M(1), Marcos-Gutiérrez C, Pérez C, Schoorlemmer J, Ramírez A,
+Magin T, Vidal M.
+
+Author information: 
+(1)Developmental and Cell Biology, Centro de Investigaciones Biológicas,
+Velázquez 144, Spain.
+
+The products of the Polycomb group (PcG) of genes act as transcriptional
+repressors involved in the maintenance of homeotic gene expression patterns
+throughout development, from flies to mice. Biochemical and molecular evidence
+suggests that the mouse Ring1A gene is a member of the PcG of genes. However,
+genetic evidence is needed to establish PcG function for Ring1A, since contrary
+to all other murine PcG genes, there is no known Drosophila PcG gene encoding a
+homolog of the Ring1A protein. To study Ring1A function we have generated a mouse
+line lacking Ring1A and mouse lines overexpressing Ring1A. Both Ring1A(-/-)and
+Ring1A(+/-) mice show anterior transformations and other abnormalities of the
+axial skeleton, which indicates an unusual sensitivity of axial skeleton
+patterning to Ring1A gene dosage. Ectopic expression of Ring1A also results in
+dose-dependent anterior transformations of vertebral identity, many of which,
+interestingly, are shared by Ring1A(-/-) mice. In contrast, the alterations of
+Hox gene expression observed in both type of mutant mice are subtle and involve a
+reduced number of Hox genes. Taken together, these results provide genetic
+evidence for a PcG function of the mouse Ring1A gene.
+
+PMID: 11060235  [PubMed - indexed for MEDLINE]
+
+
+46. Exp Hematol. 2000 May;28(5):569-74.
+
+The retroviral transduction of HOXC4 into human CD34(+) cells induces an in vitro
+expansion of clonogenic and early progenitors.
+
+Daga A(1), Podesta M, Capra MC, Piaggio G, Frassoni F, Corte G.
+
+Author information: 
+(1)IST National Institute for Cancer Research, Universita di Genova, Genova,
+Italy.
+
+OBJECTIVE: +HOX genes are expressed in the hematopoietic system and increasing
+data point to their involvement in the control of proliferation and/or
+differentiation. Genes belonging to the C cluster are preferentially expressed in
+developing and differentiated lymphoid lineages. However, recent studies
+demonstrated, by RT-PCR, that the HOXC4 gene is also actively transcribed in the 
+most undifferentiated hematopoietic cells (CD34(+)38(low)) and in more mature
+myeloid and erythroid progenitors. We evaluated the expression of HOXC4 protein
+on human CD34(+) cells and the in vitro effect of its overexpression on
+proliferation and differentiation.
+MATERIALS AND METHODS: We assessed the expression of HOXC4 on human CD34(+) cells
+using a polyclonal antibody raised against the C-terminal portion of the protein 
+expressed using the baculovirus system. Overexpression of HOXC4 in human CD34(+) 
+cells was obtained by retroviral gene transfer; its effect on clonogenic (CFU-GM,
+BFU-E, and CFU-GEMM) and early progenitors (LTC-IC) was evaluated.
+RESULTS: The HOXC4 protein is indeed expressed in human CD34(+) cells, and its
+overexpression in human CD34(+) cells increases the proliferation potential of
+clonogenic and early progenitors. CFU-GM showed a median threefold expansion
+(range: 1.1-19.4; p < 0.002) compared with control transduced with the vector
+alone. The increment of BFU-E was higher (median ninefold, range 2.5-35; p < 0.
+0009) and erythroid colonies presented a larger size with normal morphology. An
+even more marked effect was observed on LTC-IC (median 13, onefold; range
+4.1-102.1, p < 0.0001).
+CONCLUSION: We demonstrate that HOXC4 is expressed in CD34(+) cells and that its 
+overexpression induces an in vitro expansion of committed as well as very early
+hematopoietic progenitors. The most striking effect was obtained on LTC-IC with
+an expansion of 13.1-fold. The enforced expression of HOXC4 induced a significant
+increase (p < 0.009) in the number of erythroid colonies compared with CFU-GM,
+although without perturbing, at least in vitro, the maturation program of the
+cells. On the other hand, the effect of the gene overexpression did not induce
+any skewing in the colony types derived from the myeloid lineage.
+
+PMID: 10812247  [PubMed - indexed for MEDLINE]
+
+
+47. Gastroenterology. 1999 Dec;117(6):1339-51.
+
+Coordinated expression of 3' hox genes during murine embryonal gut development:
+an enteric Hox code.
+
+Pitera JE(1), Smith VV, Thorogood P, Milla PJ.
+
+Author information: 
+(1)Gastroenterology Unit, Institute of Child Health, University College London,
+London, England. J.Pitera@ich.ucl.ac.uk
+
+BACKGROUND & AIMS: Hox genes are highly conserved developmental control genes
+that may be organized and expressed in the form of a code required for correct
+morphogenesis. Little is known about their control of the embryonal gut. However,
+Hox paralogues 4 and 5, which are expressed at the sites of origin of vagal
+neural crest cells and splanchnic mesoderm, are likely to be important. We have
+studied the expression domains of these genes in the gut both spatially and
+temporally.
+METHODS: CD1 mice embryos of embryonic days E8.5-E17.5 were studied. The spatial 
+and temporal expression patterns of messenger RNA of Hoxa4, b4, c4, d4, a5, c5,
+and b5 homeoprotein were determined by in situ hybridization and
+immunohistochemistry in whole embryos, whole gastrointestinal tracts, and
+vibratome sections.
+RESULTS: There were different spatial, temporal, and combinatorial expression
+patterns in different morphological regions: foregut, prececal gut, cecum, and
+postcecal gut. Two dynamic gradients, rostral and caudal, were coordinated with
+nested expression domains along the gut primordium. Region-specific domains were 
+present in the stomach and cecum.
+CONCLUSIONS: The expression patterns of genes in paralogous groups 4 and 5
+suggest that they are organized to form a specific enteric Hox code required for 
+correct enteric development.
+
+PMID: 10579975  [PubMed - indexed for MEDLINE]
+
+
+48. Leukemia. 1998 Nov;12(11):1724-32.
+
+Differentiation and cell-type-restricted expression of HOXC4, HOXC5 and HOXC6 in 
+myeloid leukemias and normal myeloid cells.
+
+Bijl JJ(1), van Oostveen JW, Walboomers JM, Brink AT, Vos W, Ossenkoppele GJ,
+Meijer CJ.
+
+Author information: 
+(1)Department of Pathology, Academic Hospital of the Vrije Universiteit,
+Amsterdam, The Netherlands.
+
+HOX genes have shown a lineage-specific expression in hematopoiesis and are
+suggested as being involved in the expression of certain adhesion molecules.
+Recently, we have demonstrated that HOXC4 and HOXC6, but not HOXC5, are expressed
+during lymphoid differentiation. Reports on the expression of these genes in
+myeloid leukemias and normal myeloid cells are still scarce. Therefore, we have
+investigated the expression of HOXC4, HOXC5 and HOXC6 in purified subpopulations 
+of bone marrow in addition to 36 specimens of acute myeloid leukemias (AMLs),
+eight chronic myeloid leukemias (CMLs), several myeloid cell lines and cutaneous 
+localizations of three myelomonocytic leukemias and one granulocytic sarcoma by
+RT-PCR and partly by RNA in situ hybridization (RISH). HOXC4 and HOXC6
+transcripts were both detected by RT-PCR in 22/36 and 24/36 AMLs, respectively.
+The distribution of HOXC4 and HOXC6 gene expression over the different types of
+AML was largely similar and covered all types of AML. In contrast, HOXC5 gene
+expression was found in only 6/32 AMLs. Expression of HOXC5 was restricted to
+AMLs of the granulocytic (FAB M1-M3), early monocytic (FAB M4) and early
+erythroid (FAB M6) lineage. In general, except in one FAB M5b case, no expression
+of HOXC5 was found in AMLs derived from late stages of monocytic (FAB M5) and
+megakaryocytic (FAB M7) lineages. As for HOXC4 and HOXC6, expression of HOXC5 was
+absent in CMLs. Using RISH significant HOXC4, HOXC5 and HOXC6 expression was
+found in a number of additionally studied AML samples of different FAB
+classification (M2, M4, M5b and M5b), (M2 and M5b) (M2, M4, M5b), respectively.
+In tissue localizations of leukemias a different expression pattern of HOXC4,
+HOXC5 and HOXC6 was found. In contrast to mature leukemic stages of myeloid
+differentiation, these skin localizations of leukemias expressed HOXC5 and HOXC6.
+HOXC4 expression was found both in leukemic cells derived from peripheral blood
+and from cutaneous localizations. Besides HOXC4 expression in monocytes no
+expression of HOXC4, HOXC5 and HOXC6 was found in granulocytes and monocytes,
+colonies of growth factor-induced CD34+ bone marrow cells. In earliest
+CD34+/CD38low and high cell fractions of bone marrow only HOXC4 and in
+megakaryocytic cells both HOXC4 and HOXC6 were found. Thus, the expression
+patterns of these HOXC genes found in the limited number of cell fractions of
+normal bone marrow suggest that the expression patterns found in AMLs and CMLs
+might reflect the normal situation. Furthermore, the presence of HOXC5 and HOXC6 
+expression specifically in skin infiltrates of late differentiation stages of
+myeloid leukemias, suggests an additional role for these genes in the positioning
+of these myeloid cells in skin tissue.
+
+PMID: 9823947  [PubMed - indexed for MEDLINE]
+
+
+49. J Invest Dermatol. 1998 Feb;110(2):110-5.
+
+HOX homeobox genes exhibit spatial and temporal changes in expression during
+human skin development.
+
+Stelnicki EJ(1), Kömüves LG, Kwong AO, Holmes D, Klein P, Rozenfeld S, Lawrence
+HJ, Adzick NS, Harrison M, Largman C.
+
+Author information: 
+(1)Department of Surgery, University of California, San Francisco, USA.
+
+The spatial and temporal deployment of HOX homeobox genes along the spinal axis
+and in limb buds during fetal development is a key program in embryonic pattern
+formation. Although we have previously reported that several of the HOX homeobox 
+genes are expressed during murine skin development, there is no information about
+developmental expression of HOX genes in human skin. We have now used reverse
+transcriptase polymerase chain reaction, in conjunction with a set of degenerate 
+oligonucleotide primers, to identify a subset of HOX genes that are expressed
+during human fetal skin development. In situ hybridization analyses demonstrated 
+that there were temporal and spatial shifts in expression of these genes. Strong 
+HOXA4 expression was detected in the basal cell layers of 10 wk fetal epidermis
+and throughout the epidermis and dermis of 17 wk skin, whereas weak signal was
+present in the granular layer of newborn and adult skin. The expression patterns 
+of HOXA5 and HOXA7 were similar, but their expression was weaker. In situ
+hybridization analysis also revealed strong HOXC4 and weaker HOXB7 expression
+throughout fetal development, whereas HOXB4 was expressed at barely detectable
+levels. Differential HOX gene expression was also observed in developing hair
+follicles, and sebaceous and sweat glands. None of the HOX genes examined were
+detected in the adult dermis.
+
+PMID: 9457903  [PubMed - indexed for MEDLINE]
+
+
+50. Blood. 1997 Nov 15;90(10):4116-25.
+
+HOXC4, HOXC5, and HOXC6 expression in non-Hodgkin's lymphoma: preferential
+expression of the HOXC5 gene in primary cutaneous anaplastic T-cell and
+oro-gastrointestinal tract mucosa-associated B-cell lymphomas.
+
+Bijl JJ(1), van Oostveen JW, Walboomers JM, Horstman A, van den Brule AJ,
+Willemze R, Meijer CJ.
+
+Author information: 
+(1)Department of Pathology, Vrije Universiteit Hospital, Amsterdam, The
+Netherlands.
+
+Most of the 39 members of the homeobox (HOX) gene family are believed to control 
+blood cell development. HOXC4 and HOXC6 gene expression levels increase with
+differentiation of lymphoid cells. In contrast, HOXC5 is not expressed in the
+lymphoid lineage, but was found in lymphoid cell lines, representing the
+neoplastic equivalents of various differentiation stages of T and B lymphocytes. 
+In the present study, we investigated the HOXC4, HOXC5, and HOXC6 gene expression
+pattern in 89 non-Hodgkin's lymphomas (NHLs) of different histologic subtypes and
+originating from different sites. Using RNA in situ hybridization and
+semiquantitative reverse transcription-polymerase chain reaction, we found
+expression of HOXC4 in 83 of 88 and HOXC6 in 77 of 88 NHLs and leukemias
+investigated. In contrast, HOXC5 expression was found in only 26 of 87 NHLs and
+appeared to be preferentially expressed by two specific subsets of lymphomas, ie,
+primary cutaneous anaplastic T-cell lymphomas (9 of 9) and extranodal marginal
+zone B-cell lymphomas (maltomas; 7 of 9). These results indicate that, in
+contrast to HOXC4 and HOXC6, HOXC5 shows a type- and site-restricted expression
+pattern in both T- and B-cell NHLs.
+
+PMID: 9354682  [PubMed - indexed for MEDLINE]
+
+
+51. Am J Pathol. 1997 Oct;151(4):1067-74.
+
+HOXC4, HOXC5, and HOXC6 expression in primary cutaneous lymphoid lesions. High
+expression of HOXC5 in anaplastic large-cell lymphomas.
+
+Bijl JJ(1), Rieger E, van Oostveen JW, Walboomers JM, Kreike M, Willemze R,
+Meijer CJ.
+
+Author information: 
+(1)Department of Pathology, Vrije Universiteit Hospital, Amsterdam, The
+Netherlands.
+
+Homeobox (HOX) genes are involved in the lineage-specific differentiation of bone
+marrow stem cells. Recently, we reported a largely similar expression pattern of 
+HOXC4 and HOXC6 in normal and neoplastic cells of the lymphoid lineage. In
+contrast, HOXC5 was specifically expressed in a subset of B-cell non-Hodgkin's
+lymphomas (B-NHL) but not in normal lymphocytes or lymphoid leukemias. This might
+suggest a role for HOXC5 in the pathogenesis of these lymphomas. In the present
+study the expression of HOXC4, HOXC5, and HOXC6 in primary cutaneous lymphomas
+was investigated. Using RNA in situ hybridization (RISH) and semiquantitative
+reverse transcriptase polymerase chain reaction (RT-PCR), we found strong
+expression of HOXC4 and HOXC6 in all, except one, primary cutaneous lymphomas and
+all reactive cutaneous lymphoid infiltrates. Interestingly, a strong expression
+of HOXC5 in primary anaplastic CD30+ large T-cell lymphomas was found. RISH was
+consistently negative for HOXC5 in all other types of primary cutaneous B- and
+T-cell lymphomas. However, by semiquantitative RT-PCR these lymphomas showed a
+weak expression of HOXC5 mRNA. Therefore, we concluded that these lymphomas
+express low constitutive levels of HOXC5 mRNA. Furthermore, HOXC5 expression was 
+consistently absent in reactive cutaneous lymphoid infiltrates, hyperplastic
+tonsils and lymph nodes, and peripheral blood lymphocytes either unstimulated or 
+stimulated by a cocktail of CD3 and CD28 antibodies. As a strong expression of
+HOXC5 in primary cutaneous lymphomas was observed only in anaplastic large T-cell
+lymphomas and reactive control tissues lacked HOXC5 expression, these data
+strongly support a role for HOXC5 in the genesis of anaplastic large-T-cell
+lymphomas.
+
+PMCID: PMC1858029
+PMID: 9327740  [PubMed - indexed for MEDLINE]
+
+
+52. Nat Genet. 1997 May;16(1):79-83.
+
+Organization of the Fugu rubripes Hox clusters: evidence for continuing evolution
+of vertebrate Hox complexes.
+
+Aparicio S(1), Hawker K, Cottage A, Mikawa Y, Zuo L, Venkatesh B, Chen E,
+Krumlauf R, Brenner S.
+
+Author information: 
+(1)Wellcome/CRC Institute for Developmental Biology and Cancer Research,
+Cambridge, UK. saparici@hgmp.mrc.ac.uk
+
+The clustered organization of Hox genes provides a powerful opportunity to
+examine gene gain and loss in evolution because physical linkage is a key
+diagnostic feature which allows homology to be established unambiguously.
+Furthermore, Hox genes play a key role in determination of axial and appendicular
+skeletal morphology and may be a key component of the evolution of diverse
+metazoan body forms. Despite suggestions that changes in Hox gene number played a
+role in evolution of metazoan body plans, there has been a general lack of
+evidence for such variation amongst gnathostomes (or indeed any vertebrate) and
+it has therefore been widely assumed that differential regulation may be the key 
+element in all vertebrate Hox evolution. We have studied the Hox gene clusters of
+a teleost fish, Fugu rubripes, to test the possibility that Hox organization may 
+have varied since the origin of jawed vertebrates. We have identified four Hox
+complexes in Fugu and found an unprecedented degree of variation when compared
+with tetrapod clusters. Our data show that: Fugu clusters are widely variant with
+respect to length; at least nine genes have been lost; there is a new group-2
+paralogue; and pseudo-gene remnants of group-1 and group-3 paralogues were found 
+in the Hoxc complex, when compared with the present mammalian clusters. We show
+that gene loss after duplication of the prototypical vertebrate Hox clusters is a
+key feature of both tetrapod and fish evolution.
+
+PMID: 9140399  [PubMed - indexed for MEDLINE]
+
+
+53. Dev Biol. 1996 Jul 10;177(1):232-49.
+
+Targeted disruption of hoxc-4 causes esophageal defects and vertebral
+transformations.
+
+Boulet AM(1), Capecchi MR.
+
+Author information: 
+(1)Department of Human Genetics, University of Utah School of Medicine, Salt Lake
+City, Utah, 84112, USA.
+
+Mice carrying a nonfunctional allele of hoxc-4 have been generated by gene
+targeting. The phenotype of mice homozygous for this mutation is strikingly
+different from those reported in mice lacking the paralogous genes hoxa-4,
+hoxb-4, and hoxd-4. In contrast to the mutants of the paralogous family members, 
+hoxc-4 homozygotes do not manifest abnormalities in the cervical vertebrae, but
+instead show vertebral defects that extend from the second thoracic vertebra (t2)
+to t11. Therefore, defects do not correspond to the anterior limit of expression 
+of hoxc-4, but rather begin within the region of strong hoxc-4 expression in the 
+prevertebral anlagen (i.e., pv7-14). While hoxc-4 mutant homozygotes that reach
+adulthood are fertile and appear outwardly normal, most die before weaning age.
+The high lethality appears to result from partial or complete blockage of the
+lumen of the esophagus over a large portion of its length, as well as
+disorganization of the esophageal musculature. Although the Drosophila homolog of
+hoxc-4, Deformed, is autoregulated, mutation of the hoxc-4 gene does not affect
+transcription of its paralogous family members. However, in hoxc-4 mutant
+embryos, transcription of both the hoxc-5 and hoxc-6 genes is altered. Employment
+of cissolidustrans analysis showed that the hoxc-4 mutation acts in cis to affect
+the pattern of hoxc-5 expression. Therefore, this mutation is likely to cause a
+reduction of hoxc-5 function as well as complete loss of hoxc-4 function.
+
+PMID: 8660891  [PubMed - indexed for MEDLINE]
+
+
+54. Blood. 1996 Mar 1;87(5):1737-45.
+
+Expression of HOXC4, HOXC5, and HOXC6 in human lymphoid cell lines, leukemias,
+and benign and malignant lymphoid tissue.
+
+Bijl J(1), van Oostveen JW, Kreike M, Rieger E, van der Raaij-Helmer LM,
+Walboomers JM, Corte G, Boncinelli E, van den Brule AJ, Meijer CJ.
+
+Author information: 
+(1)Department of Pathology, Free University Hospital, Amsterdam, The Netherlands.
+
+Besides their regulatory role in embryogenesis, homeobox (HOX) genes are
+expressed in a specific manner in hematopoietic cell lineages, implying a role in
+the molecular regulation of hematopoiesis. Some HOX C cluster genes are found to 
+be expressed in lymphoid cells of mice and humans. Their function and expression 
+in normal hematopoiesis are still largely unknown. We have studied the mRNA
+expression of HOXC4, HOXC5, and HOXC6 in several stages of lymphocyte maturation 
+by reverse transcriptase-polymerase chain reaction (RT-PCR) and RNA in situ
+hybridization (RISH). We examined CD34+/CD38low and CD34+/CD38high cells obtained
+from normal donor bone marrow (BM), a panel of 19 lymphoid cell lines, several
+types of leukemias and non-Hodgkin's lymphomas (NHL), and lymphocytes isolated
+from tonsillar tissue and peripheral blood (PB). HOXC4 and HOXC6 were found to be
+expressed during maturation in B- and T-lymphoid cells. The expression of each
+gene was found to be initiated at different cell maturation stages. HOXC4
+transcripts were present in CD34+/CD38low cells, which are thought to comprise
+stem cells and noncommitted progenitor cells, and in subsequent stages to
+terminally maturated lymphoid cells. HOXC6 expression is initiated in equivalents
+of prothymocyte and pre-pre-B cell stage and remains present in mature cells.
+However, HOXC5 is only expressed in neoplastic cell lines and in neoplastic cells
+of NHL, but not in CD34+ BM cells, nor in resting or activated lymphoid cells
+isolated from tonsil, PB, or in leukemia cells. In cell lines, weak expression of
+HOXC5 is initiated in equivalents of pre-B cell and common thymocyte stage and is
+continuously expressed in mature cell lines. Semi-quantitative RT-PCR showed that
+expression levels of HOXC5 were much lower than those of HOXC4 and HOXC6;
+furthermore an increase of expression of HOXC4, HOXC5, and HOXC6 during lymphoid 
+cell differentiation was demonstrated. Thus, mainly mature lymphoid cell lines
+and neoplastic cells of NHL do express HOXC5, in contrast to the lack of
+expression in normal lymphoid cells and leukemias. These findings suggest
+involvement of HOXC5 in lymphomagenesis.
+
+PMID: 8634419  [PubMed - indexed for MEDLINE]
+
+
+55. Dev Biol. 1996 Feb 25;174(1):55-64.
+
+Targeted disruption in the mouse Hoxc-4 locus results in axial skeleton homeosis 
+and malformation of the xiphoid process.
+
+Saegusa H(1), Takahashi N, Noguchi S, Suemori H.
+
+Author information: 
+(1)Kanagawa Academy of Science and Technology in Meiji Institute of Health
+Science, Japan.
+
+Hoxc-4 is a mouse homeobox gene located at the 3' end of the HoxC cluster. Of the
+HoxC genes, Hoxc-4 is expressed in the most anterior regions of the central
+nervous system and prevertebral column. To investigate its role in mouse
+development, we have generated Hoxc-4 mutant mice by gene targeting. Mice
+homozygous for the Hoxc-4 mutation are viable and fertile. Analysis of the
+skeletal system of homozygous mutants revealed various abnormalities in the
+cervical and thoracic regions. The most frequent abnormality was a partial
+posterior homeotic transformation of the seventh cervical vertebra. Less
+frequently, anterior transformations of the third and eighth thoracic vertebrae
+were observed. Furthermore, the xiphoid process of the sternum was malformed such
+that it had an aperture or a fissure. Although Hoxc-4 is expressed abundantly in 
+the central nervous system, no obvious defects were observed. These results
+suggest that Hoxc-4 is required for specifying cervical and thoracic vertebral
+identity.
+
+PMID: 8626021  [PubMed - indexed for MEDLINE]
+
+
+56. Blood. 1995 Apr 15;85(8):2084-90.
+
+Expression of HOXC4 homeoprotein in the nucleus of activated human lymphocytes.
+
+Meazza R(1), Faiella A, Corsetti MT, Airoldi I, Ferrini S, Boncinelli E, Corte G.
+
+Author information: 
+(1)Istituto Nazionale per la Ricerca sul Cancro, Genova, Italy.
+
+We have analyzed the expression of homeoproteins of the HOX family in resting and
+activated lymphoid cells and in neoplastic lymphoid cell lines by the use of
+monoclonal antibodies (MoAbs) already shown to react with the homeoproteins
+HOXA10, HOXC6, and HOXD4, respectively. Anti-HOXA10 and C6 MoAbs DIDi not show
+any reactivity with the lymphoid cells tested, whereas anti-HOXD4 MoAb stained
+few resting peripheral blood lymphocytes (PBLs) and most phytohemagglutinin
+(PHA)-stimulated PBLs as early as 6 hours after stimulation. The pattern of
+staining of PHA-activated PBLs is reminiscent of the stages of nucleolar
+fragmentation in different phases of the cell cycle. The MoAb reacted also with
+activated or Epstein-Barr virus-transformed B cells, with clonal or polyclonal T 
+and natural killer (NK) cells, with leukemic T-cell lines, and with a Burkitt's
+lymphoma cell line. RNAse protection experiments, per formed with probes specific
+for HOXD4 or for the highly homologous HOXA4, HOXB4, and HOXC4, belonging to the 
+same paralogy group, indicated that only HOXC4 mRNA is present in resting or
+activated PBLs. Northern blot analysis on polyA+ RNA from activated PBLs or Raji 
+cells showed the presence of two different HOXC4 transcripts of 2.8 and 1.9 kb.
+Gel retardation and Southwestern blot assays showed the presence of a 32-kD
+homeoprotein with DNA-binding properties typical of a HOX4 homeoprotein in
+nucleolar extracts of PHA-activated, but not of resting, lymphocytes. Taken
+together, these data indicate that the HOXC4 homeoprotein is expressed in
+activated and/or proliferating lymphocytes of the T-, B-, or NK-cell lineage,
+whereas it is weakly expressed in a minority of resting cells. The early
+expression and the nucleolar localization suggest an involvement of HOXC4 in the 
+regulation of genes controlling lymphocyte activation and/or proliferation.
+
+PMID: 7718879  [PubMed - indexed for MEDLINE]
+
+
+57. J Invest Dermatol. 1994 Sep;103(3):341-6.
+
+Expression of the homeobox gene HOXC4 in keratinocytes of normal skin and
+epithelial skin tumors is correlated with differentiation.
+
+Rieger E(1), Bijl JJ, van Oostveen JW, Soyer HP, Oudejans CB, Jiwa NM, Walboomers
+JM, Meijer CJ.
+
+Author information: 
+(1)Department of Pathology, Free University Hospital, Amsterdam, The Netherlands.
+
+Homeobox (HOX) genes share a highly conserved 183-bp sequence. The encoded
+proteins are capable of binding to specific DNA sequences and functioning as
+transcription factors. HOX genes play a critical role in the temporal and spatial
+differentiation of cells during embryogenesis. In several adult tissues, HOX
+genes are expressed in a constant, tissue-specific pattern, whereas in malignant 
+tumors of these tissues an altered expression pattern was found. We investigated 
+the expression of HOXC4 in adult normal skin by reverse-transcription polymerase 
+chain reaction and non-radioactive RNA in situ hybridization. Moreover, HOXC4
+expression was studied in various epidermal neoplasms (solar keratosis, six
+specimens; Bowen's disease, four; squamous cell carcinoma, nine; basal cell
+carcinoma, three) by RNA in situ hybridization. HOXC4 was found to be expressed
+in the suprabasal layers of the epidermis in normal skin specimens and the
+adjacent non-lesional epidermis of all other specimens. Atypical keratinocytes of
+solar keratoses and Bowen's disease as well as basaloid cells of basal cell
+carcinomas were negative. In squamous cell carcinoma, well differentiated areas
+with keratinization showed HOXC4 expression, whereas poorly differentiated areas 
+were negative. Immunostaining with an antibody against cytokeratin 10, a marker
+of epidermal differentiation, was performed. A good correlation between the
+distribution pattern of HOXC4 and cytokeratin 10 in the lesions examined was
+found. These results suggest that HOXC4 is expressed mainly in differentiated
+keratinocytes. Lack of differentiation (as in neoplastic cells) is accompanied by
+downregulation of HOXC4 expression.
+
+PMID: 7915745  [PubMed - indexed for MEDLINE]
+
+

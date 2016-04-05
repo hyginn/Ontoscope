@@ -1,0 +1,544 @@
+
+1. Inorg Chem. 2015 Dec 21;54(24):11993-2001. doi: 10.1021/acs.inorgchem.5b02387.
+Epub 2015 Dec 4.
+
+Anion-Anion Bonding and Topology in Ternary Iridium Seleno-Stannides.
+
+Trump BA(1), Tutmaher JA(1), McQueen TM(1).
+
+Author information: 
+(1)Department of Chemistry, ‡Institute for Quantum Matter, §Department of Physics
+and Astronomy, and <U+2225>Department of Material Science, Johns Hopkins University ,
+Baltimore, Maryland 21218, United States.
+
+The synthesis and physical properties of two new and one known Ir-Sn-Se compound 
+are reported. Their crystal structures are elucidated with transmission electron 
+microscopy and powder X-ray diffraction. IrSn0.45Se1.55 is a pyrite phase which
+consists of tilted corner-sharing IrX6 octahedra with randomly distributed
+(Sn-Se)(4-) and (Se-Se)(2-) dimers. Ir2Sn3Se3 is a known trigonally distorted
+skutterudite that consists of cooperatively tilted corner-sharing IrSn3Se3
+octahedra with ordered (Sn-Se)2(4-) tetramers. Ir2SnSe5 is a layered, distorted
+ß-MnO2 (pyrolusite) structure consisting of a double IrSe6 octrahedral row,
+corner sharing in the a direction and edge sharing in the b direction. This
+distorted pyrolusite contains (Se-Se)(2-) dimers and Se(2-) anions, and each
+double row is "capped" with a (Sn-Se)n polymeric chain. Resistivity, specific
+heat, and magnetization measurements show that all three have insulating and
+diamagnetic behavior, indicative of low-spin 5d(6) Ir(3+). Electronic structure
+calculations on Ir2Sn3Se3 show a single, spherical, nonspin-orbit split valence
+band and suggest that Ir2Sn3Se3 is topologically nontrivial under tensile strain 
+due to inversion of Ir-d and Se-p states.
+
+PMID: 26636188  [PubMed - in process]
+
+
+2. Nat Genet. 2014 Sep;46(9):957-63. doi: 10.1038/ng.3063. Epub 2014 Aug 10.
+
+Genome-wide association analyses identify variants in developmental genes
+associated with hypospadias.
+
+Geller F(1), Feenstra B(1), Carstensen L(1), Pers TH(2), van Rooij IA(3), Körberg
+IB(4), Choudhry S(5), Karjalainen JM(6), Schnack TH(1), Hollegaard MV(7), Feitz
+WF(8), Roeleveld N(9), Hougaard DM(7), Hirschhorn JN(10), Franke L(6), Baskin
+LS(5), Nordenskjöld A(4), van der Zanden LF(3), Melbye M(11).
+
+Author information: 
+(1)Department of Epidemiology Research, Statens Serum Institut, Copenhagen,
+Denmark. (2)1] Division of Endocrinology, Boston Children's Hospital, Boston,
+Massachusetts, USA. [2] Center for Basic and Translational Obesity Research,
+Boston Children's Hospital, Boston, Massachusetts, USA. [3] Medical and
+Population Genetics Program, Broad Institute of MIT and Harvard, Cambridge,
+Massachusetts, USA. [4] Center for Biological Sequence Analysis, Department of
+Systems Biology, Technical University of Denmark, Lyngby, Denmark. (3)Department 
+for Health Evidence, Radboud University Medical Center, Nijmegen, the
+Netherlands. (4)1] Department of Women's and Children's Health, Karolinska
+Institutet, Stockholm, Sweden. [2] Center of Molecular Medicine, Karolinska
+Institutet, Stockholm, Sweden. (5)Department of Urology, University of
+California, San Francisco, San Francisco, California, USA. (6)Department of
+Genetics, University of Groningen, University Medical Centre Groningen,
+Groningen, the Netherlands. (7)Danish Centre for Neonatal Screening, Department
+of Clinical Biochemistry, Immunology and Genetics, Statens Serum Institut,
+Copenhagen, Denmark. (8)Department of Urology, Pediatric Urology, Amalia
+Children's Hospital, Radboud University Medical Center, Nijmegen, the
+Netherlands. (9)1] Department for Health Evidence, Radboud University Medical
+Center, Nijmegen, the Netherlands. [2] Department of Pediatrics, Amalia
+Children's Hospital, Radboud University Medical Center, Nijmegen, the
+Netherlands. (10)1] Division of Endocrinology, Boston Children's Hospital,
+Boston, Massachusetts, USA. [2] Center for Basic and Translational Obesity
+Research, Boston Children's Hospital, Boston, Massachusetts, USA. [3] Medical and
+Population Genetics Program, Broad Institute of MIT and Harvard, Cambridge,
+Massachusetts, USA. [4] Department of Genetics, Harvard Medical School, Boston,
+Massachusetts, USA. (11)1] Department of Epidemiology Research, Statens Serum
+Institut, Copenhagen, Denmark. [2] Department of Medicine, Stanford School of
+Medicine, Stanford, California, USA.
+
+Comment in
+    Nat Rev Urol. 2014 Oct;11(10):540.
+
+Hypospadias is a common congenital condition in boys in which the urethra opens
+on the underside of the penis. We performed a genome-wide association study on
+1,006 surgery-confirmed hypospadias cases and 5,486 controls from Denmark. After 
+replication genotyping of an additional 1,972 cases and 1,812 controls from
+Denmark, the Netherlands and Sweden, 18 genomic regions showed independent
+association with P < 5 × 10(-8). Together, these loci explain 9% of the liability
+to developing this condition. Several of the identified regions harbor genes with
+key roles in embryonic development (including HOXA4, IRX5, IRX6 and EYA1).
+Subsequent pathway analysis with GRAIL and DEPICT provided additional insight
+into possible genetic mechanisms causing hypospadias.
+
+PMID: 25108383  [PubMed - indexed for MEDLINE]
+
+
+3. Yi Chuan. 2013 Oct;35(10):1198-208.
+
+[Comparative analysis of conservation and regulatory network on core
+transcription factors in mouse inner ear development].
+
+[Article in Chinese]
+
+Chen ZQ(1), Han XH(2), Wei QJ(2), Xing GQ(3), Cao X(2).
+
+Author information: 
+(1)The First Clinical Medical College, Nanjing Medical University, Nanjing
+210029, China. erwin_0108@sina.com (2)School of Basic Medicine, Nanjing Medical
+University, Nanjing 210029, China. (3)The First Clinical Medical College, Nanjing
+Medical University, Nanjing 210029, China.
+
+During vertebrate inner ear development, several core genes, such as Six1, Six4, 
+Pax2, Pax8, Foxi1, Dlx5, Gbx2, Irx2/3, and Msx1, are crucial to the regulation of
+the otic placode induction. In order to get the gene regulatory network during
+inner ear development, bioinformatics methods were adopted to analyze
+conservation and regulation of the core transcription factors in mice. Pax2,
+Pax8, Foxi1, and Dlx5 remained to be the main regulators during inner ear
+development, which was consistent with the gene regulatory network from
+literature. Six1 was regulated by many transcription factors, and Gbx2, Irx2/3,
+and Msx1 played important roles in the regulatory network. The differences in the
+constructed regulatory network were reasonably analyzed. It was predicted that
+Msxl regulated the expression of Six1 and Gbx2. In addition, several
+transcription factors, such as Sox5, Lhx2, Rax, Otx1, Otx2, Pitxl, Pitx2, Nkx2-5,
+Irx4, Irx6, Dlx2, Hmx1/2/3, Pou4f3, Pax4 and Tlx2, were found to be involved in
+the regulatory network. Our results provide an improved understanding of the
+regulatory mechanism during inner ear development.
+
+PMID: 24459893  [PubMed - indexed for MEDLINE]
+
+
+4. Mol Cells. 2013 Apr;35(4):298-304. doi: 10.1007/s10059-013-2302-0. Epub 2013 Feb 
+26.
+
+Hypermethylation of EBF3 and IRX1 genes in synovial fibroblasts of patients with 
+rheumatoid arthritis.
+
+Park SH(1), Kim SK, Choe JY, Moon Y, An S, Park MJ, Kim DS.
+
+Author information: 
+(1)Department of Internal Medicine and Arthritis and Autoimmunity Research
+Center, School of Medicine, Catholic University of Daegu, Daegu 705-718, Korea.
+
+Rheumatoid arthritis (RA) is a chronic, systemic inflammatory disease of unknown 
+origin, which exhibits a complex heterogeneity in its pathophysiological
+background, resulting in differential responses to a range of therapies and poor 
+long-term prognosis. RA synovial fibroblasts (RASFs) are key player cells in RA
+pathogenesis. Identification of DNA methylation biomarkers is a field that
+provides potential for improving the process of diagnosis and prognosis of
+various human diseases. We utilized a genome-wide technique, methylated DNA
+isolation assay (MeDIA), in combination with a high resolution CpG microarray for
+discovery of novel hypermethylated genes in RASFs. Thirteen genes (APEX1, EBF3,
+EGR2, EN1, IRX1, IRX6, KIF12, LHX2, MIPOL1, SGTA, SIN3A, TOLLIP, and ZHX2) with
+three consecutive hypermethylated probes were isolated as candidate genes through
+two CpG microarrays. Pyrosequencing assay was performed to validate the
+methylation status of TGF-ß signaling components, EBF3 and IRX1 genes in RASFs
+and osteoarthritis (OA) SFs. Hypermethylation at CpG sites in the EBF3 and IRX1
+genes was observed with a high methylation index (MI) in RASFs (52.5% and 41.4%, 
+respectively), while a lower MI was observ ed in OASFs and h ealthy SFs (13.2%
+for EBF3 and 4.3% for IRX1). In addition, RT-PCR analysis showed a remarkable
+decrease in their mRNA expression in the RA group, compared with the OA or
+healthy control, and their reduction levels correlated with MI. The current
+findings suggest that methylation-associated down-regulation of EBF3 and IRX1
+genes may play an important role in a pathogenic effect of TGF-ß on RASFs.
+However, further clinical validation with large numbers of patients is needed in 
+order to confirm our findings.
+
+PMCID: PMC3887890
+PMID: 23456299  [PubMed - indexed for MEDLINE]
+
+
+5. Development. 2012 Dec;139(24):4644-55. doi: 10.1242/dev.081729.
+
+Regulation of retinal interneuron subtype identity by the Iroquois homeobox gene 
+Irx6.
+
+Star EN(1), Zhu M, Shi Z, Liu H, Pashmforoush M, Sauve Y, Bruneau BG, Chow RL.
+
+Author information: 
+(1)Department of Biology, University of Victoria, Victoria, BC V8W 3N5, Canada.
+
+Interneuronal subtype diversity lies at the heart of the distinct molecular
+properties and synaptic connections that shape the formation of the neuronal
+circuits that are necessary for the complex spatial and temporal processing of
+sensory information. Here, we investigate the role of Irx6, a member of the
+Iroquois homeodomain transcription factor family, in regulating the development
+of retinal bipolar interneurons. Using a knock-in reporter approach, we show
+that, in the mouse retina, Irx6 is expressed in type 2 and 3a OFF bipolar
+interneurons and is required for the expression of cell type-specific markers in 
+these cells, likely through direct transcriptional regulation. In Irx6 mutant
+mice, presumptive type 3a bipolar cells exhibit an expansion of their axonal
+projection domain to the entire OFF region of the inner plexiform layer, and
+adopt molecular features of both type 2 and 3a bipolar cells, highlighted by the 
+ectopic upregulation of neurokinin 3 receptor (Nk3r) and Vsx1. These findings
+reveal Irx6 as a key regulator of type 3a bipolar cell identity that prevents
+these cells from adopting characteristic features of type 2 bipolar cells.
+Analysis of the Irx6;Vsx1 double null retina suggests that the terminal
+differentiation of type 2 bipolar cells is dependent on the combined expression
+of the transcription factors Irx6 and Vsx1, but also points to the existence of
+Irx6;Vsx1-independent mechanisms in regulating OFF bipolar subtype-specific gene 
+expression. This work provides insight into the generation of neuronal subtypes
+by revealing a mechanism in which opposing, yet interdependent, transcription
+factors regulate subtype identity.
+
+PMCID: PMC3509726
+PMID: 23172916  [PubMed - indexed for MEDLINE]
+
+
+6. Biol Reprod. 2011 May;84(5):1024-32. doi: 10.1095/biolreprod.110.088559. Epub
+2011 Feb 3.
+
+The fused toes locus is essential for somatic-germ cell interactions that foster 
+germ cell maturation in developing gonads in mice.
+
+Kim B(1), Kim Y, Cooke PS, Rüther U, Jorgensen JS.
+
+Author information: 
+(1)Department of Animal Sciences, University of Illinois, Urbana, IL, USA.
+
+Ovarian development absolutely depends on communication between somatic and germ 
+cell components. In contrast, it is not until after birth that interactions
+between somatic and germ cells play an important role in testicular maturation
+and spermatogenesis. Previously, we discovered that Irx3 expression was localized
+specifically to female gonads during embryonic development; therefore, we sought 
+to determine the function of this genetic locus in developing gonads of both
+sexes. The fused toes (Ft) mutant mouse is missing 1.6 Mb of chromosome 8, which 
+includes the entire IrxB cluster (Irx3, Irx5, Irx6), Ftm, Fts, and Fto genes.
+Homozygote Ft mutant embryos die around embryonic day 13.5 (E13.5); therefore, to
+assess later development, we harvested gonads at E11.5 and transplanted them into
+nude mouse hosts. Our results show defects in somatic and germ cell maturation in
+developing gonads of both sexes. Testis development was normal initially;
+however, by 3-wk posttransplantation, expression of Sertoli and peritubular myoid
+cell markers were decreased. In many cases, gonocytes failed to migrate to
+structurally impaired basement membranes of seminiferous cords. Developmental
+abnormalities of the ovary appeared earlier and were more severe. Over time, the 
+Ft mutant ovary formed very few primordial or primary follicles, which contained 
+oocytes that failed to grow and were surrounded by scarce granulosa cells that
+expressed low levels of FOXL2. By 3 wk after transplantation, it was difficult to
+identify ovarian tissue in Ft mutant ovary transplants. In summary, we conclude
+that the Ft locus contains genes essential for somatic-germ cell interactions,
+without which the germ cell niche fails to mature in both sexes.
+
+PMID: 21293032  [PubMed - indexed for MEDLINE]
+
+
+7. Am J Pathol. 2010 Nov;177(5):2609-21. doi: 10.2353/ajpath.2010.100130. Epub 2010 
+Sep 16.
+
+Deletions of 16q in Wilms tumors localize to blastemal-anaplastic cells and are
+associated with reduced expression of the IRXB renal tubulogenesis gene cluster.
+
+Mengelbier LH(1), Karlsson J, Lindgren D, Øra I, Isaksson M, Frigyesi I, Frigyesi
+A, Bras J, Sandstedt B, Gisselsson D.
+
+Author information: 
+(1)Department of Clinical Genetics, University and Regional Laboratories, Lund
+University, Skåne University Hospital, SE 221 85 Lund, Sweden.
+
+Wilms tumor is the most common pediatric renal neoplasm, but few molecular
+prognostic markers have been identified for this tumor. Somatic deletion in the
+long arm of chromosome 16 (16q) is known to predict a less favorable outcome in
+Wilms tumor, but the underlying molecular mechanisms are not known. We show that 
+16q deletions are typically confined to immature anaplastic-blastic tumor
+elements, while deletions are absent in maturing tumor components. The smallest
+region of deletion overlap mapped to a 1.8-Mb segment containing the IRXB gene
+cluster including IRX3, IRX5, and IRX6, of which IRX3 is a recently identified
+regulator of tubular maturation during nephrogenesis. Tumors with 16q deletion
+showed a lower overall mRNA expression of IRXB genes, and 16q-deleted tumor cells
+failed to express IRX3 while it was expressed in differentiating tubular tumor
+elements with intact 16q. Consistent with a role for IRX3 in tubular
+differentiation, gene sets linked to Notch signaling, Rho signaling, and ion
+channel activity were enriched in tumors with high IRX3 expression, while WTs
+with low expression were enriched for gene sets linked to cell cycle progression.
+Low mRNA levels of IRXB genes were associated with diffuse anaplasia, high-stage 
+disease, and death. A disturbed balance between tubular differentiation and
+self-renewal of anaplastic-blastic elements may thus be one mechanism linking 16q
+deletion to adverse outcome in Wilms tumor.
+
+PMCID: PMC2966816
+PMID: 20847289  [PubMed - indexed for MEDLINE]
+
+
+8. J Anat. 2010 Jun;216(6):683-91. doi: 10.1111/j.1469-7580.2010.01233.x. Epub 2010 
+Apr 14.
+
+Comparison of Iroquois gene expression in limbs/fins of vertebrate embryos.
+
+McDonald LA(1), Gerrelli D, Fok Y, Hurst LD, Tickle C.
+
+Author information: 
+(1)Department of Biology & Biochemistry, University of Bath, Somerset, UK.
+
+In Drosophila, Iroquois (Irx) genes have various functions including the
+specification of the identity of wing veins. Vertebrate Iroquois (Irx) genes have
+been reported to be expressed in the developing digits of mouse limbs. Here we
+carry out a phylogenetic analysis of vertebrate Irx genes and compare expression 
+in developing limbs of mouse, chick and human embryos and in zebrafish pectoral
+fin buds. We confirm that the six Irx gene families in vertebrates are well
+defined and that Clusters A and B are duplicates; in contrast, Irx1 and 3, Irx2
+and 5, and Irx4 and 6 are paralogs. All Irx genes in mouse and chick are
+expressed in developing limbs. Detailed comparison of the expression patterns in 
+mouse and chick shows that expression patterns of genes in the same cluster are
+generally similar but paralogous genes have different expression patterns. Mouse 
+and chick Irx1 are expressed in digit condensations, whereas mouse and chick Irx6
+are expressed interdigitally. The timing of Irx1 expression in individual digits 
+in mouse and chick is different. Irx1 is also expressed in digit condensations in
+developing human limbs, thus showing conservation of expression of this gene in
+higher vertebrates. In zebrafish, Irx genes of all but six of the families are
+expressed in early stage pectoral fin buds but not at later stages, suggesting
+that these genes are not involved in patterning distal structures in zebrafish
+fins.
+
+PMCID: PMC2952381
+PMID: 20408909  [PubMed - indexed for MEDLINE]
+
+
+9. Dev Biol. 2009 May 15;329(2):258-68. doi: 10.1016/j.ydbio.2009.02.028. Epub 2009 
+Mar 4.
+
+The Xenopus Irx genes are essential for neural patterning and define the border
+between prethalamus and thalamus through mutual antagonism with the anterior
+repressors Fezf and Arx.
+
+Rodríguez-Seguel E(1), Alarcón P, Gómez-Skarmeta JL.
+
+Author information: 
+(1)Centro Andaluz de Biología del Desarrollo (CABD), Consejo Superior de
+Investigaciones Científicas/Universidad Pablo de Olavide, Carretera de Utrera
+Km1, 41013 Sevilla, Spain.
+
+The Iroquois (Irx) genes encode homeoproteins conserved during evolution.
+Vertebrate genomes contain six Irx genes organized in two clusters, IrxA (which
+harbors Irx1, Irx2 and Irx4) and IrxB (which harbors Irx3, Irx5 and Irx6). To
+determine the precise role of these genes during development and their putative
+redundancies, we conducted a comparative expression analysis and a comprehensive 
+loss-of-function study of all the early expressed Irx genes (Irx1-5) using
+specific morpholinos in Xenopus. We found that the five Irx genes display largely
+overlapping expression patterns and contribute to neural patterning. All Irx
+genes are required for proper formation of posterior forebrain, midbrain,
+hindbrain and, to a lesser an extent, spinal cord. Nevertheless, Irx1 and Irx3
+seem to have a predominant role during regionalization of the neural plate. In
+addition, we find that the common anterior limit of Irx gene expression, which
+will correspond to the future border between the prethalamus and thalamus, is
+defined by mutual repression between Fezf and Irx proteins. This mutual
+repression is likely direct. Finally, we show that Arx, another anteriorly
+expressed repressor, also contribute to delineate the anterior border of Irx
+expression.
+
+PMID: 19268445  [PubMed - indexed for MEDLINE]
+
+
+10. Hand (N Y). 2009 Sep;4(3):294-301. doi: 10.1007/s11552-009-9164-0. Epub 2009 Jan 
+29.
+
+Differential gene expression analysis of subcutaneous fat, fascia, and skin
+overlying a Dupuytren's disease nodule in comparison to control tissue.
+
+Shih B(1), Brown JJ, Armstrong DJ, Lindau T, Bayat A.
+
+Author information: 
+(1)Plastic & Reconstructive Surgery Research, Manchester Interdisciplinary
+Biocentre, University of Manchester, Manchester, UK.
+
+Dupuytren's disease (DD) is a benign fibroproliferative tumor with an unknown
+etiology and high recurrence postsurgery. Several observations suggest the
+possible involvement of skin overlying nodule (SON) and the subcutaneous fat in
+the pathogenesis of DD. This study aims to (1) compare the gene expression levels
+of SON and subcutaneous fat in DD and normal subjects and (2) to compare
+transverse palmar fascia (Skoog's fibers) from DD patients as internal control
+tissue, with palmar fascia (transverse carpal ligament) from patients undergoing 
+carpal tunnel release as external control. Skin, fat, and fascia were obtained
+from five DD patients of Caucasian origin (age = 66 +/- 14) and from five control
+subjects (age = 57 +/- 19) undergoing carpal tunnel release. Total ribonucleic
+acids was extracted from each sample and used for complementary deoxyribonucleic 
+acid synthesis. Real-time quantitative polymerase chain reaction was used to
+assess the gene expression levels of six candidate genes: A disintegrin and
+metalloproteinase domain (ADAM12), aldehyde dehydrogenase 1 family member A1
+(ALDH1A1), iroquois homeoboxprotein 6 (IRX6), periostin, osteoblast specific
+factor, proteoglycan 4, and tenascin C. Using independent t test, ADAM12,
+ALDH1A1, and IRX6 expression levels in DD fats were significantly (p < 0.05)
+higher than those in the controls. There is no significant difference in the gene
+expression levels of all six genes when comparing disease and control fascia and 
+skin. Interestingly, ADAM12 up-regulation has also been observed in several other
+fibrotic and proliferative disorders. In conclusion, this study demonstrates
+potential roles for subcutaneous fat in DD pathogenesis as well as supports the
+use of transverse palmar fascia as appropriate control tissues in DD research.
+
+PMCID: PMC2724615
+PMID: 19184239  [PubMed]
+
+
+11. J Hand Surg Am. 2009 Jan;34(1):124-36. doi: 10.1016/j.jhsa.2008.09.017.
+
+Identification of biomarkers in Dupuytren's disease by comparative analysis of
+fibroblasts versus tissue biopsies in disease-specific phenotypes.
+
+Shih B(1), Wijeratne D, Armstrong DJ, Lindau T, Day P, Bayat A.
+
+Author information: 
+(1)Plastic & Reconstructive Surgery Research, Manchester Interdisciplinary
+Biocentre, University of Manchester, Manchester, UK.
+
+PURPOSE: Biomarkers are molecular mediators that can serve as indicators of
+normal biological processes, pathologic processes, and therapeutic interventions.
+This study aims to identify potential biomarkers in Dupuytren's disease (DD), a
+fibroproliferative benign tumor with an unknown etiology and high recurrence
+after surgery.
+METHODS: Bioinformatic analytical techniques were employed to identify candidate 
+genes that may be differentially expressed in DD, which included gene expression 
+analysis of microarray data and thorough literature searches in genetic linkage
+and other related biomolecular studies. All DD cases were males with advanced DD 
+(n = 5, 66 years +/- 14). RNA was extracted from biopsies and corresponding
+cultures of normal fascia (unaffected transverse palmar fascia), palmar nodule
+and cord from each patient. Real-time reverse transcription-polymerase chain
+reactions were performed to determine the gene expression levels for
+disease-related transcripts.
+RESULTS: The bioinformatic analysis revealed 25 candidate genes, which were
+further short-listed to 6 genes via functional annotation. The 6 selected
+candidate genes included: A disintegrin and metalloproteinase domain (ADAM12),
+aldehyde dehydrogenase 1 family member (ALDH1) A1, Iroquois homeobox protein 6
+(IRX6), proteoglycan 4 (PRG4), tenascin C (TNC), and periostin (POSTN). The
+culturing treatments were shown to have significant impact on the gene expression
+for ALDH1A1, PRG4, and TNC. In tissue biopsies, significant fold changes were
+observed for ADAM12, POSTN, and TNC in the cord and/or nodule when compared with 
+that of normal fascia. ADAM12 and POSTN are associated with accelerated or
+abnormal cell growth, whereas TNC has been associated with fibrotic diseases and 
+cell migration.
+CONCLUSIONS: This study demonstrated differential gene expression results in DD
+tissue biopsies compared with that of their corresponding cultures. ADAM12,
+POSTN, and TNC were identified from the cord and nodule biopsy samples as
+potential biomarkers in relation to DD development.
+
+PMID: 19121738  [PubMed - indexed for MEDLINE]
+
+
+12. Dev Biol. 2007 Apr 1;304(1):208-20. Epub 2006 Dec 15.
+
+Defects in brain patterning and head morphogenesis in the mouse mutant Fused
+toes.
+
+Anselme I(1), Laclef C, Lanaud M, Rüther U, Schneider-Maunoury S.
+
+Author information: 
+(1)Biologie du Développement, CNRS UMR7622, Université Pierre et Marie Curie, 9
+Quai Saint-Bernard, 75252 Paris Cedex 05, France.
+
+During vertebrate development, brain patterning and head morphogenesis are
+tightly coordinated. In this paper, we study these processes in the mouse mutant 
+Fused toes (Ft), which presents severe head defects at midgestation. The Ft line 
+carries a 1.6-Mb deletion on chromosome 8. This deletion eliminates six genes,
+three members of the Iroquois gene family, Irx3, Irx5 and Irx6, which form the
+IrxB cluster, and three other genes of unknown function, Fts, Ftm and Fto. We
+show that in Ft/Ft embryos, both anteroposterior and dorsoventral patterning of
+the brain are affected. As soon as the beginning of somitogenesis, the forebrain 
+is expanded caudally and the midbrain is reduced. Within the expanded forebrain, 
+the most dorsomedial (medial pallium) and ventral (hypothalamus) regions are
+severely reduced or absent. Morphogenesis of the forebrain and optic vesicles is 
+strongly perturbed, leading to reduction of the eyes and delayed or absence of
+neural tube closure. Finally, facial structures are hypoplastic. Given the
+diversity, localisation and nature of the defects, we propose that some of them
+are caused by the elimination of the IrxB cluster, while others result from the
+loss of one or several of the Fts, Ftm and Fto genes.
+
+PMID: 17241623  [PubMed - indexed for MEDLINE]
+
+
+13. Mech Dev. 2001 May;103(1-2):193-5.
+
+Expression of Irx6 during mouse morphogenesis.
+
+Mummenhoff J(1), Houweling AC, Peters T, Christoffels VM, Rüther U.
+
+Author information: 
+(1)Institut für Entwicklungs- und Molekularbiologie der Tiere (EMT),
+Heinrich-Heine-Universität, 40225 Düsseldorf, Germany.
+
+Iroquois (Irx) proteins comprise a family of homeodomain-containing transcription
+factors involved in patterning and regionalization of embryonic tissues in both
+vertebrates and invertebrates. The six murine Irx genes are organized in two
+clusters, each consisting of three genes. Irx1, Irx2 and Irx4 belong to the IrxA 
+cluster on chromosome 13, whereas Irx3, Irx5 and Irx6, comprising the IrxB
+cluster, are located on chromosome 8 (Peters et al., Genome Res. 10 (2000) 1453).
+Developmental expression patterns have so far only been reported for five Irx
+genes. Here, we investigated the expression pattern of Irx6 during mouse
+morphogenesis and early organogenesis. The pattern was found to be much more
+restricted compared to the other five Irx genes, and its level of expression was 
+much lower.
+
+PMID: 11335133  [PubMed - indexed for MEDLINE]
+
+
+14. Genome Res. 2000 Oct;10(10):1453-62.
+
+Organization of mouse Iroquois homeobox genes in two clusters suggests a
+conserved regulation and function in vertebrate development.
+
+Peters T(1), Dildrop R, Ausmeier K, Rüther U.
+
+Author information: 
+(1)Entwicklungs- und Molekularbiologie der Tiere, Heinrich-Heine-Universität,
+40225 Düsseldorf, Germany.
+
+Iroquois proteins comprise a conserved family of homeodomain-containing
+transcription factors involved in patterning and regionalization of embryonic
+tissues in both vertebrates and invertebrates. Earlier studies identified four
+murine Iroquois (Irx) genes. Here we report the isolation of two additional
+members of the murine gene family, Irx5 and Irx6. Phylogenetic analysis of the
+Irx gene family revealed distinct clades for fly and vertebrate genes, and
+vertebrate members themselves were classified into three pairs of cognate genes. 
+Mapping of the murine Irx genes identified two gene clusters located on mouse
+chromosomes 8 and 13, respectively. Each gene cluster is represented by three Irx
+genes whose relative positions within both clusters are strictly conserved.
+Combined results from phylogenetic, linkage, and physical mapping studies provide
+evidence for the evolution of two Irx gene clusters by duplication of a larger
+chromosomal region and dispersion to two chromosomal locations. The maintenance
+of two cognate Irx gene clusters during vertebrate evolution suggests that their 
+genomic organization is important for the regulation, expression, and function of
+Irx genes during embryonic development.
+
+PMCID: PMC310936
+PMID: 11042145  [PubMed - indexed for MEDLINE]
+
+
+15. Mech Dev. 2000 Mar 1;91(1-2):317-21.
+
+Expression of two novel mouse Iroquois homeobox genes during neurogenesis.
+
+Cohen DR(1), Cheng CW, Cheng SH, Hui CC.
+
+Author information: 
+(1)Program in Developmental Biology, The Hospital for Sick Children, Toronto,
+Ontario, Canada.
+
+Members of the Drosophila Iroquois homeobox gene family are implicated in the
+development of peripheral nervous system and the regionalization of wing and eye 
+imaginal discs. Recent studies suggest that Xenopus Iroquois homeobox (Irx) genes
+are also involved in neurogenesis. Three mouse Irx genes, Irx1, Irx2 and Irx3,
+have been previously identified and are expressed with distinct spatio-temporal
+patterns during neurogenesis. We report here the cloning and expression analysis 
+of two novel mouse Irx genes, Irx5 and Irx6. Although Irx5 and Irx6 proteins are 
+structurally more related to one another, we find that Irx5 displays a
+developmental expression pattern strikingly similar to that of Irx3, whereas Irx6
+expression resembles that of Irx1. Consistent with the notion that Mash1 is a
+putative target gene of the Irx proteins, all four Irx genes display an
+overlapping expression pattern with Mash1 in the developing CNS. In contrast, the
+Irx genes and Mash1 are expressed in complementary domains in the developing eye 
+and olfactory epithelium.
+
+PMID: 10704856  [PubMed - indexed for MEDLINE]
+
+

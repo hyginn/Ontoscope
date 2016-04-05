@@ -1,0 +1,1387 @@
+
+1. Nucleic Acids Res. 2015 Aug 18;43(14):6969-82. doi: 10.1093/nar/gkv646. Epub 2015
+Jun 27.
+
+Redefining the transcriptional regulatory dynamics of classically and
+alternatively activated macrophages by deepCAGE transcriptomics.
+
+Roy S(1), Schmeier S(2), Arner E(1), Alam T(3), Parihar SP(4), Ozturk M(4),
+Tamgue O(4), Kawaji H(5), de Hoon MJ(1), Itoh M(5), Lassmann T(1), Carninci P(1),
+Hayashizaki Y(6), Forrest AR(1), Bajic VB(3), Guler R(4); Fantom Consortium(7),
+Brombacher F(8), Suzuki H(9).
+
+Author information: 
+(1)Division of Genomic Technologies, RIKEN Center for Life Science Technologies, 
+1-7-22 Suehiro-cho, Tsurumi-ku, Yokohama 230-0045, Japan Riken Omics Science
+Center, 1-7-22 Suehiro-cho, Tsurumi-ku, Yokohama 230-0045, Japan. (2)Massey
+University, Institute of Natural and Mathematical Sciences, Auckland, New
+Zealand. (3)King Abdullah University of Science and Technology (KAUST),
+Computational Bioscience Research Center (CBRC), Computer, Electrical and
+Mathematical Sciences and Engineering Division (CEMSE), Thuwal, Saudi Arabia.
+(4)International Centre for Genetic Engineering and Biotechnology (ICGEB), Cape
+Town Component, Cape Town, South Africa University of Cape Town, Health Science
+Faculty, Institute of Infectious Diseases and Molecular Medicine (IDM), Division 
+of Immunology, Cape Town, South Africa. (5)Division of Genomic Technologies,
+RIKEN Center for Life Science Technologies, 1-7-22 Suehiro-cho, Tsurumi-ku,
+Yokohama 230-0045, Japan Riken Omics Science Center, 1-7-22 Suehiro-cho,
+Tsurumi-ku, Yokohama 230-0045, Japan Riken Preventive Medicine and Diagnosis
+Innovation Program (PMI), 1-7-22 Suehiro-cho, Tsurumi-ku, Yokohama 230-0045,
+Japan. (6)Riken Omics Science Center, 1-7-22 Suehiro-cho, Tsurumi-ku, Yokohama
+230-0045, Japan Riken Preventive Medicine and Diagnosis Innovation Program (PMI),
+1-7-22 Suehiro-cho, Tsurumi-ku, Yokohama 230-0045, Japan. (7)Division of Genomic 
+Technologies, RIKEN Center for Life Science Technologies, 1-7-22 Suehiro-cho,
+Tsurumi-ku, Yokohama 230-0045, Japan Riken Omics Science Center, 1-7-22
+Suehiro-cho, Tsurumi-ku, Yokohama 230-0045, Japan Massey University, Institute of
+Natural and Mathematical Sciences, Auckland, New Zealand King Abdullah University
+of Science and Technology (KAUST), Computational Bioscience Research Center
+(CBRC), Computer, Electrical and Mathematical Sciences and Engineering Division
+(CEMSE), Thuwal, Saudi Arabia International Centre for Genetic Engineering and
+Biotechnology (ICGEB), Cape Town Component, Cape Town, South Africa University of
+Cape Town, Health Science Faculty, Institute of Infectious Diseases and Molecular
+Medicine (IDM), Division of Immunology, Cape Town, South Africa Riken Preventive 
+Medicine and Diagnosis Innovation Program (PMI), 1-7-22 Suehiro-cho, Tsurumi-ku, 
+Yokohama 230-0045, Japan. (8)International Centre for Genetic Engineering and
+Biotechnology (ICGEB), Cape Town Component, Cape Town, South Africa University of
+Cape Town, Health Science Faculty, Institute of Infectious Diseases and Molecular
+Medicine (IDM), Division of Immunology, Cape Town, South Africa
+harukazu@gsc.riken.jp. (9)Division of Genomic Technologies, RIKEN Center for Life
+Science Technologies, 1-7-22 Suehiro-cho, Tsurumi-ku, Yokohama 230-0045, Japan
+Riken Omics Science Center, 1-7-22 Suehiro-cho, Tsurumi-ku, Yokohama 230-0045,
+Japan harukazu@gsc.riken.jp.
+
+Classically or alternatively activated macrophages (M1 and M2, respectively) play
+distinct and important roles for microbiocidal activity, regulation of
+inflammation and tissue homeostasis. Despite this, their transcriptional
+regulatory dynamics are poorly understood. Using promoter-level expression
+profiling by non-biased deepCAGE we have studied the transcriptional dynamics of 
+classically and alternatively activated macrophages. Transcription factor (TF)
+binding motif activity analysis revealed four motifs, NFKB1_REL_RELA, IRF1,2,
+IRF7 and TBP that are commonly activated but have distinct activity dynamics in
+M1 and M2 activation. We observe matching changes in the expression profiles of
+the corresponding TFs and show that only a restricted set of TFs change
+expression. There is an overall drastic and transient up-regulation in M1 and a
+weaker and more sustainable up-regulation in M2. Novel TFs, such as Thap6, Maff, 
+(M1) and Hivep1, Nfil3, Prdm1, (M2) among others, were suggested to be involved
+in the activation processes. Additionally, 52 (M1) and 67 (M2) novel
+differentially expressed genes and, for the first time, several differentially
+expressed long non-coding RNA (lncRNA) transcriptome markers were identified. In 
+conclusion, the finding of novel motifs, TFs and protein-coding and lncRNA genes 
+is an important step forward to fully understand the transcriptional machinery of
+macrophage activation.
+
+© The Author(s) 2015. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+PMCID: PMC4538831
+PMID: 26117544  [PubMed - indexed for MEDLINE]
+
+
+2. J Virol. 2015 Jan;89(1):713-29. doi: 10.1128/JVI.02570-14. Epub 2014 Oct 29.
+
+High-throughput RNA sequencing-based virome analysis of 50 lymphoma cell lines
+from the Cancer Cell Line Encyclopedia project.
+
+Cao S(1), Strong MJ(1), Wang X(1), Moss WN(2), Concha M(1), Lin Z(1), O'Grady
+T(1), Baddoo M(1), Fewell C(1), Renne R(3), Flemington EK(4).
+
+Author information: 
+(1)Tulane Health Sciences Center and Tulane Cancer Center, New Orleans,
+Louisiana, USA. (2)Department of Molecular Biophysics and Biochemistry, Howard
+Hughes Medical Institute, Yale University School of Medicine, New Haven,
+Connecticut, USA. (3)Department of Molecular Genetics Microbiology, University of
+Florida, Gainesville, Florida, USA. (4)Tulane Health Sciences Center and Tulane
+Cancer Center, New Orleans, Louisiana, USA eflemin@tulane.edu.
+
+Using high-throughput RNA sequencing data from 50 common lymphoma cell culture
+models from the Cancer Cell Line Encyclopedia project, we performed an unbiased
+global interrogation for the presence of a panel of 740 viruses and strains known
+to infect human and other mammalian cells. This led to the findings of previously
+identified infections by Epstein-Barr virus (EBV), Kaposi's sarcoma herpesvirus
+(KSHV), and human T-lymphotropic virus type 1 (HTLV-1). In addition, we also
+found a previously unreported infection of one cell line (DEL) with a murine
+leukemia virus. High expression of murine leukemia virus (MuLV) transcripts was
+observed in DEL cells, and we identified four transcriptionally active
+integration sites, one being in the TNFRSF6B gene. We also found low levels of
+MuLV reads in a number of other cell lines and provided evidence suggesting
+cross-contamination during sequencing. Analysis of HTLV-1 integrations in two
+cell lines, HuT 102 and MJ, identified 14 and 66 transcriptionally active
+integration sites with potentially activating integrations in immune regulatory
+genes, including interleukin-15 (IL-15), IL-6ST, STAT5B, HIVEP1, and IL-9R.
+Although KSHV and EBV do not typically integrate into the genome, we investigated
+a previously identified integration of EBV into the BACH2 locus in Raji cells.
+This analysis identified a BACH2 disruption mechanism involving splice donor
+sequestration. Through viral gene expression analysis, we detected expression of 
+stable intronic RNAs from the EBV BamHI W repeats that may be part of long
+transcripts spanning the repeat region. We also observed transcripts at the EBV
+vIL-10 locus exclusively in the Hodgkin's lymphoma cell line, Hs 611.T, the
+expression of which were uncoupled from other lytic genes. Assessment of the KSHV
+viral transcriptome in BCP-1 cells showed expression of the viral immune
+regulators, K2/vIL-6, K4/vIL-8-like vCCL1, and K5/E2-ubiquitin ligase 1 that was 
+significantly higher than expression of the latency-associated nuclear antigen.
+Together, this investigation sheds light into the virus composition across these 
+lymphoma model systems and provides insights into common viral mechanistic
+principles.IMPORTANCE: Viruses cause cancer in humans. In lymphomas the
+Epstein-Barr virus (EBV), Kaposi's sarcoma herpesvirus (KSHV) and human
+T-lymphotropic virus type 1 are major contributors to oncogenesis. We assessed
+virus-host interactions using a high throughput sequencing method that
+facilitates the discovery of new virus-host associations and the investigation
+into how the viruses alter their host environment. We found a previously unknown 
+murine leukemia virus infection in one cell line. We identified cellular genes,
+including cytokine regulators, that are disrupted by virus integration, and we
+determined mechanisms through which virus integration causes deregulation of
+cellular gene expression. Investigation into the KSHV transcriptome in the BCP-1 
+cell line revealed high-level expression of immune signaling genes. EBV
+transcriptome analysis showed expression of vIL-10 transcripts in a Hodgkin's
+lymphoma that was uncoupled from lytic genes. These findings illustrate unique
+mechanisms of viral gene regulation and to the importance of virus-mediated host 
+immune signaling in lymphomas.
+
+Copyright © 2015, American Society for Microbiology. All Rights Reserved.
+
+PMCID: PMC4301145
+PMID: 25355872  [PubMed - indexed for MEDLINE]
+
+
+3. J Biol Chem. 2014 Apr 9. pii: jbc.M113.516062. [Epub ahead of print]
+
+WITHDRAWN: Modulation of TLR3, TLR4 and TLR7 mediated IFN-ß, Rantes and TNFa
+production by HIVEP1.
+
+Butt AQ(1), Miggin SM(2).
+
+Author information: 
+(1)NUIM, Ireland; (2)Institute of Immunology sinead.miggin@nuim.ie.
+
+The manuscript was withdrawn by the author.
+
+Copyright © 2014, The American Society for Biochemistry and Molecular Biology.
+
+PMID: 24719322  [PubMed - as supplied by publisher]
+
+
+4. J Biol Chem. 2014 Apr 4;289(14):9865-79. doi: 10.1074/jbc.M113.520585. Epub 2014 
+Feb 21.
+
+Human immunodeficiency virus type 1 enhancer-binding protein 3 is essential for
+the expression of asparagine-linked glycosylation 2 in the regulation of
+osteoblast and chondrocyte differentiation.
+
+Imamura K(1), Maeda S, Kawamura I, Matsuyama K, Shinohara N, Yahiro Y, Nagano S, 
+Setoguchi T, Yokouchi M, Ishidou Y, Komiya S.
+
+Author information: 
+(1)From the Departments of Medical Joint Materials and.
+
+Human immunodeficiency virus type 1 enhancer-binding protein 3 (Hivep3)
+suppresses osteoblast differentiation by inducing proteasomal degradation of the 
+osteogenesis master regulator Runx2. In this study, we tested the possibility of 
+cooperation of Hivep1, Hivep2, and Hivep3 in osteoblast and/or chondrocyte
+differentiation. Microarray analyses with ST-2 bone stroma cells demonstrated
+that expression of any known osteochondrogenesis-related genes was not commonly
+affected by the three Hivep siRNAs. Only Hivep3 siRNA promoted osteoblast
+differentiation in ST-2 cells, whereas all three siRNAs cooperatively suppressed 
+differentiation in ATDC5 chondrocytes. We further used microarray analysis to
+identify genes commonly down-regulated in both MC3T3-E1 osteoblasts and ST-2
+cells upon knockdown of Hivep3 and identified asparagine-linked glycosylation 2
+(Alg2), which encodes a mannosyltransferase residing on the endoplasmic
+reticulum. The Hivep3 siRNA-mediated promotion of osteoblast differentiation was 
+negated by forced Alg2 expression. Alg2 suppressed osteoblast differentiation and
+bone formation in cultured calvarial bone. Alg2 was immunoprecipitated with
+Runx2, whereas the combined transfection of Runx2 and Alg2 interfered with Runx2 
+nuclear localization, which resulted in suppression of Runx2 activity.
+Chondrocyte differentiation was promoted by Hivep3 overexpression, in concert
+with increased expression of Creb3l2, whose gene product is the endoplasmic
+reticulum stress transducer crucial for chondrogenesis. Alg2 silencing suppressed
+Creb3l2 expression and chondrogenesis of ATDC5 cells, whereas infection of
+Alg2-expressing virus promoted chondrocyte maturation in cultured cartilage
+rudiments. Thus, Alg2, as a downstream mediator of Hivep3, suppresses
+osteogenesis, whereas it promotes chondrogenesis. To our knowledge, this study is
+the first to link a mannosyltransferase gene to osteochondrogenesis.
+
+PMCID: PMC3975031
+PMID: 24563464  [PubMed - indexed for MEDLINE]
+
+
+5. Brain Behav Immun. 2014 Jul;39:130-41. doi: 10.1016/j.bbi.2013.10.023. Epub 2013 
+Oct 26.
+
+Exhaustive exercise modifies different gene expression profiles and pathways in
+LPS-stimulated and un-stimulated whole blood cultures.
+
+Abbasi A(1), Hauth M(2), Walter M(3), Hudemann J(4), Wank V(5), Niess AM(4),
+Northoff H(6).
+
+Author information: 
+(1)Division of Exercise Immunology & Genetics, Institute of Clinical and
+Experimental Transfusion Medicine (IKET), University Hospital Tuebingen,
+Tuebingen, Germany; Institute of Sports Science, Eberhard Karls University,
+Tuebingen, Germany. Electronic address: ashgar.abbasi@med.uni-tuebingen.de.
+(2)Division of Exercise Immunology & Genetics, Institute of Clinical and
+Experimental Transfusion Medicine (IKET), University Hospital Tuebingen,
+Tuebingen, Germany. (3)Department of Medical Genetics, University Hospital
+Tuebingen, Tuebingen, Germany. (4)Department of Sports Medicine, University
+Hospital Tuebingen, Tuebingen, Germany. (5)Institute of Sports Science, Eberhard 
+Karls University, Tuebingen, Germany. (6)Division of Exercise Immunology &
+Genetics, Institute of Clinical and Experimental Transfusion Medicine (IKET),
+University Hospital Tuebingen, Tuebingen, Germany. Electronic address:
+hinnak.northoff@med.uni-tuebingen.de.
+
+Exhaustive exercise can interfere with immunity, causing transient
+immunosuppression and infections/inflammation in athletes. We used microarray
+technology to analyze the gene expression profiles of whole blood in short time
+(1h) LPS-stimulated and un-stimulated cultures drawn before, 30min after, 3h
+after and 24h after a half-marathon run. Four male and 4 female athletes
+participated. Exercise induced differential expression of genes known to be
+involved in innate immunity/inflammatory response, metabolic response, DNA
+methylation, apoptosis and regulation of brain function. Several genes with
+prominent anti-inflammatory function were up-regulated in un-stimulated cultures,
+including ARG-1, SOCS3, DUSP-1, ORMs, IRAK3, and GJB6. Some of these genes were
+also strongly up-regulated in LPS-stimulated cultures (ARG-1, ORM2, and GJB6).
+Some genes were strongly up-regulated through exercise in LPS-stimulated
+cultures, but not in un-stimulated cultures (TNIP3, PLAU, and HIVEP1). There was 
+also a row of genes, which were strongly down-regulated by exercise in
+LPS-stimulated cultures, notably IFN-ß1 and CXCL10. Exercise also significantly
+changed the expression of genes (OLIG2, TMEM106B) which are known to be related
+to brain function and expression of which has never been documented in peripheral
+blood. In summary, exhaustive exercise, in addition to modifying gene expression 
+in un-stimulated cells, could also interfere with the early gene expression
+response to endotoxin. There was an anti-inflammatory bias of gene regulation by 
+exercise, including genes involved in the negative regulation of TLRs signalling.
+The results of the present study demonstrate that some potentially important
+effects of exercise can only be detected in relation to pathogen stimulation.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+PMID: 24513876  [PubMed - indexed for MEDLINE]
+
+
+6. PLoS One. 2011;6(9):e25581. doi: 10.1371/journal.pone.0025581. Epub 2011 Sep 27.
+
+Genetics of venous thrombosis: insights from a new genome wide association study.
+
+Germain M(1), Saut N, Greliche N, Dina C, Lambert JC, Perret C, Cohen W,
+Oudot-Mellakh T, Antoni G, Alessi MC, Zelenika D, Cambien F, Tiret L, Bertrand M,
+Dupuy AM, Letenneur L, Lathrop M, Emmerich J, Amouyel P, Trégouët DA, Morange PE.
+
+Author information: 
+(1)INSERM UMR_S 937; ICAN Institute, Université Pierre et Marie Curie, Paris 6,
+Paris, France.
+
+BACKGROUND: Venous Thrombosis (VT) is a common multifactorial disease associated 
+with a major public health burden. Genetics factors are known to contribute to
+the susceptibility of the disease but how many genes are involved and their
+contribution to VT risk still remain obscure. We aimed to identify genetic
+variants associated with VT risk.
+METHODOLOGY/PRINCIPAL FINDINGS: We conducted a genome-wide association study
+(GWAS) based on 551,141 SNPs genotyped in 1,542 cases and 1,110 controls. Twelve 
+SNPs reached the genome-wide significance level of 2.0×10(-8) and encompassed
+four known VT-associated loci, ABO, F5, F11 and FGG. By means of haplotype
+analyses, we also provided novel arguments in favor of a role of HIVEP1, PROCR
+and STAB2, three loci recently hypothesized to participate in the susceptibility 
+to VT. However, no novel VT-associated loci came out of our GWAS. Using a
+recently proposed statistical methodology, we also showed that common variants
+could explain about 35% of the genetic variance underlying VT susceptibility
+among which 3% could be attributable to the main identified VT loci. This
+analysis additionally suggested that the common variants left to be identified
+are not uniformly distributed across the genome and that chromosome 20, itself,
+could contribute to ~7% of the total genetic variance.
+CONCLUSIONS/SIGNIFICANCE: This study might also provide a valuable source of
+information to expand our understanding of biological mechanisms regulating
+quantitative biomarkers for VT.
+
+PMCID: PMC3181335
+PMID: 21980494  [PubMed - indexed for MEDLINE]
+
+
+7. Am J Hum Genet. 2010 Apr 9;86(4):592-5. doi: 10.1016/j.ajhg.2010.02.011. Epub
+2010 Mar 11.
+
+A follow-up study of a genome-wide association scan identifies a susceptibility
+locus for venous thrombosis on chromosome 6p24.1.
+
+Morange PE(1), Bezemer I, Saut N, Bare L, Burgos G, Brocheton J, Durand H,
+Biron-Andreani C, Schved JF, Pernod G, Galan P, Drouet L, Zelenika D, Germain M, 
+Nicaud V, Heath S, Ninio E, Delluc A, Münzel T, Zeller T, Brand-Herrmann SM,
+Alessi MC, Tiret L, Lathrop M, Cambien F, Blankenberg S, Emmerich J, Trégouët DA,
+Rosendaal FR.
+
+Author information: 
+(1)INSERM, UMR_S 626, Université de la Méditerranée, Marseille, F-13385 France.
+pierre.morange@ap-hm.fr
+
+Erratum in
+    Am J Hum Genet. 2010 Apr 9;86(4):655.
+
+To identify genetic susceptibility factors conferring increased risk of venous
+thrombosis (VT), we conducted a multistage study, following results of a
+previously published GWAS that failed to detect loci for developing VT. Using a
+collection of 5862 cases with VT and 7112 healthy controls, we identified the
+HIVEP1 locus on chromosome 6p24.1 as a susceptibility locus for VT. Indeed, the
+HIVEP1 rs169713C allele was associated with an increased risk for VT, with an
+odds ratio of 1.20 (95% confidence interval 1.13-1.27, p = 2.86 x 10(-9)). HIVEP1
+codes for a protein that participates in the transcriptional regulation of
+inflammatory target genes by binding specific DNA sequences in their promoter and
+enhancer regions. The current results provide the identification of a locus
+involved in VT susceptibility that lies outside the traditional
+coagulation/fibrinolysis pathway.
+
+(c) 2010 The American Society of Human Genetics. Published by Elsevier Inc. All
+rights reserved.
+
+PMCID: PMC2850428
+PMID: 20226436  [PubMed - indexed for MEDLINE]
+
+
+8. Exp Cell Res. 2009 Nov 1;315(18):3086-98. doi: 10.1016/j.yexcr.2009.08.017. Epub 
+2009 Sep 2.
+
+Cirhin up-regulates a canonical NF-kappaB element through strong interaction with
+Cirip/HIVEP1.
+
+Yu B(1), Mitchell GA, Richter A.
+
+Author information: 
+(1)Génétique Médicale, Centre de Recherche CHU Sainte-Justine, Département de
+Pédiatrie, Université de Montréal, Montréal, QC, Canada.
+
+North American Indian childhood cirrhosis (NAIC/CIRH1A) is a severe autosomal
+recessive intrahepatic cholestasis. All NAIC patients have a homozygous mutation 
+in CIRH1A that changes conserved Arg565 to Trp (R565W) in Cirhin, a nucleolar
+protein of unknown function. Subcellular localization is unaffected by the
+mutation. Yeast two-hybrid screening identified Cirip (Cirhin interaction
+protein) and found that interaction between Cirip and R565W-Cirhin was weakened. 
+Co-immunoprecipitation of the two proteins from nuclear extracts of HeLa cells
+strongly supports the yeast two hybrid results. Cirip has essentially the same
+sequence as the C-terminal of HIVEP1, a regulator of a canonical NF-kappaB
+sequence. Since Cirip has the zinc fingers required for this interaction, we
+developed an in vitro assay based on this element in mammalian cells to
+demonstrate functional Cirhin-Cirip interaction. The strong positive effect of
+Cirip on the NF-kappaB sequence was further increased by both Cirhin and
+R565W-Cirhin. Importantly, the effect of R565W-Cirhin was weaker than that of the
+wild type protein. We observed increased levels of Cirhin-Cirip complex in
+nuclear extracts in the presence of this NF-kappaB sequence. Our hypothesis is
+that Cirhin is a transcriptional regulatory factor of this NF-kappaB sequence and
+could be a participant in the regulation of other genes with NF-kappaB responsive
+elements. Since the activities of genes regulated through NF-kappaB responsive
+elements are especially important during development, this interaction may be a
+key to explain the perinatal appearance of NAIC.
+
+PMID: 19732766  [PubMed - indexed for MEDLINE]
+
+
+9. Med Sci (Paris). 2007 Nov;23(11):1002-7.
+
+[North American Indian childhood cirrhosis (NAIC)].
+
+[Article in French]
+
+Richter A(1), Mitchell GA, Rasquin A.
+
+Author information: 
+(1)Services de Génétique Médicale et de Gastroentérologie, Hôpital Sainte
+Justine, Département de Pédiatrie, Université de Montréal, 3175, chemin de la
+Côte Sainte-Catherine, Montréal (Québec) H3T 1C5, Canada.
+andrea.richter@umontreal.ca
+
+North American Indian childhood cirrhosis is a distinct form of neonatal familial
+cholestasis. To date, it has only been described in aboriginal children from
+northwestern Quebec. The disease rapidly evolves into cirrhosis with early portal
+hypertension and bleeding from esophageal varices. Twelve of 36 children followed
+at l'Hôpital Ste-Justine since 1970 received a liver transplant. As of now, there
+are 17 living NAIC patients, 6 of whom had liver transplantation. We mapped NAIC 
+to chromosome 16q22, and identified mutations in CIRH1A in patients. All are
+homozygous for the R565W mutation in cirhin, a WD40 repeat protein of unknown
+function. We showed that cirhin is a resident in the nucleolus. Cirhin interacts 
+with Cirip, a functional, alternative splice variant of the HIVEP1 protein. Their
+interaction indicates synergistic action. The complete inactivation of mouse
+homolog, tex292 is likely embryonic lethal. The continued collaboration between
+patients, their families, clinicians and researchers that has helped to identify 
+the disease gene and to develop a diagnostic test now focuses on finding a new
+treatment for this unique disease affecting First Nations children from Québec.
+
+PMID: 18021715  [PubMed - indexed for MEDLINE]
+
+
+10. Development. 2006 Oct;133(20):4025-34.
+
+Schnurri transcription factors from Drosophila and vertebrates can mediate Bmp
+signaling through a phylogenetically conserved mechanism.
+
+Yao LC(1), Blitz IL, Peiffer DA, Phin S, Wang Y, Ogata S, Cho KW, Arora K,
+Warrior R.
+
+Author information: 
+(1)Department of Developmental and Cell Biology, and the Developmental Biology
+Center, University of California Irvine, Irvine, CA 92697, USA.
+
+Bone Morphogenetic Proteins (Bmps) are secreted growth factors that play crucial 
+roles in animal development across the phylogenetic spectrum. Bmp signaling
+results in the phosphorylation and nuclear translocation of Smads, downstream
+signal transducers that bind DNA. In Drosophila, the zinc finger protein Schnurri
+(Shn) plays a key role in signaling by the Bmp2/Bmp4 homolog Decapentaplegic
+(Dpp), by forming a Shn/Smad repression complex on defined promoter elements in
+the brinker (brk) gene. Brk is a transcriptional repressor that downregulates Dpp
+target genes. Thus, brk inhibition by Shn results in the upregulation of
+Dpp-responsive genes. We present evidence that vertebrate Shn homologs can also
+mediate Bmp responsiveness through a mechanism similar to Drosophila Shn. We find
+that a Bmp response element (BRE) from the Xenopus Vent2 promoter drives
+Dpp-dependent expression in Drosophila. However, in sharp contrast to its
+activating role in vertebrates, the frog BRE mediates repression in Drosophila.
+Remarkably, despite these opposite transcriptional polarities, sequence changes
+that abolish cis-element activity in Drosophila also affect BRE function in
+Xenopus. These similar cis requirements reflect conservation of trans-acting
+factors, as human Shn1 (hShn1; HIVEP1) can interact with Smad1/Smad4 and assemble
+an hShn1/Smad complex on the BRE. Furthermore, both Shn and hShn1 activate the
+BRE in Xenopus embryos, and both repress brk and rescue embryonic patterning
+defects in shn mutants. Our results suggest that vertebrate Shn proteins function
+in Bmp signal transduction, and that Shn proteins recruit coactivators and
+co-repressors in a context-dependent manner, rather than acting as dedicated
+activators or repressors.
+
+PMID: 17008448  [PubMed - indexed for MEDLINE]
+
+
+11. J Biol Chem. 2005 May 13;280(19):18710-6. Epub 2005 Mar 18.
+
+Mint represses transactivation of the type II collagen gene enhancer through
+interaction with alpha A-crystallin-binding protein 1.
+
+Yang X(1), Li J, Qin H, Yang H, Li J, Zhou P, Liang Y, Han H.
+
+Author information: 
+(1)Department of Medical Genetics and Developmental Biology, State Key Laboratory
+of Cancer Biology, Fourth Military Medical University, Xian 710032, China.
+
+Collagen type II is an extracellular matrix protein important for cartilage and
+bone formation, and its expression is controlled by multiple cis- and
+trans-acting elements, including the zinc finger transcription factor alpha
+A-crystallin-binding protein 1 (CRYBP1). Here we show that MSX2-interacting
+nuclear target protein (MINT), a conserved transcriptional repressor, associates 
+with CRYBP1 and negatively regulates the transactivation of the collagen type II 
+gene (Col2a1) enhancer. We identified CRYBP1 as a binding partner of MINT by
+screening a mouse embryonic cDNA library using the yeast two-hybrid system. We
+demonstrated that the C terminus of MINT interacts with the C terminus of CRYBP1 
+using the mammalian cell two-hybrid assay, glutathione S-transferase pull-down,
+and co-immunoprecipitation analyses. Furthermore, MINT and CRYBP1 form a complex 
+on the Col2a1 enhancer, as shown by chromatin immunoprecipitation and gel shift
+assays. In the presence of CRYBP1, overexpression of MINT or its C-terminal
+fragment in cells repressed a reporter construct driven by the Col2a1 enhancer
+elements. This transcription repression is dependent on histone deacetylase, the 
+main co-repressor recruited by MINT. The present study shows that MINT is
+involved in CRYBP1-mediated Col2a1 gene repression and may play a role in
+regulation of cartilage development.
+
+PMID: 15778499  [PubMed - indexed for MEDLINE]
+
+
+12. Cancer Res. 2005 Feb 1;65(3):718-21.
+
+Carboxyl-terminal repressor domain of MBP-1 is sufficient for regression of
+prostate tumor growth in nude mice.
+
+Ghosh AK(1), Steele R, Ray RB.
+
+Author information: 
+(1)Department of Pathology and Cancer Center, Saint Louis University, 1402 South 
+Grand Boulevard, St. Louis, MO 63104, USA.
+
+Prostate cancer is the most frequently diagnosed cancer in men and the second
+leading cause of male cancer death in the United States. Early detection and
+improved procedures for surgical intervention and radiation therapy have reduced 
+the fatalities; however, there is no effective cure for men with advanced disease
+and additional therapy is urgently needed. We have previously shown that MBP-1
+acts as a general transcriptional repressor and exerts an antiproliferative
+effect on several human cancer cells. MBP-1 possesses two repressor domains,
+located at the amino and carboxyl termini. In this study, we have examined the
+potential of the repressor domains of MBP-1 as a gene therapeutic candidate in
+regression of prostate tumor growth. Our results suggested that
+replication-deficient adenovirus-mediated delivery of amino-terminal (MBP-AR) or 
+carboxyl-terminal (MBP-CR) repressor domain of MBP-1 exerted an antiproliferative
+effect, like the full-length MBP-1, and induced caspase-independent apoptosis in 
+prostate cancer cells. Next, we investigated the therapeutic effectiveness of
+MBP-1 repressor domain on prostate tumors. When tested in human tumor xenografts 
+in nude mice, MBP-CR suppressed prostate tumor growth more effectively than
+full-length MBP-1, whereas MBP-AR delayed prostate tumor growth. Together, these 
+results suggested that MBP-CR expression has an antiproliferative effect in human
+prostate cancer cells, being more effective than the full-length MBP-1 in
+preventing tumor growth.
+
+PMID: 15705866  [PubMed - indexed for MEDLINE]
+
+
+13. Mol Biotechnol. 2004 Sep;28(1):1-8.
+
+Oligonucleotide decoy mimicking alphaA-crystallin-binding protein 1 binding site 
+on mouse Col2a1 enhancer stimulates transcription from the adjacent Col2a1
+promoter in chondrogenic ATDC5 cell.
+
+Yamagiwa H(1), Yamada Y, Bolander ME, Sarkar G.
+
+Author information: 
+(1)Dept. of Orthopedic Surgery, Mayo Clinic, 200 First Street SW, Rochester, MN
+55905, USA.
+
+A 48-bp sequence element in intron 1 of the alpha1(II) collagen gene (Col2a1)
+acts as an enhancer of Col2a1 transcription and contains binding sites for the
+transcription activator SOX9 and repressor alphaA-crystallin-binding protein 1
+(CRYBP1). We hypothesized that abrogating CRYBP1 binding should increase
+transcription from a promoter associated with the Col2a1 enhancer. We tested this
+hypothesis by cotransfecting an oligonucleotide (ODN) decoy for CRYBP1 and a
+luciferase-based reporter vector under the transcriptional control of the Col2a1 
+promoter linked to the 100-bp enhancer in chondrogenic ATDC5 cells. As a control,
+we used decoy ODN corresponding to the SOX9 binding site. Transfection with
+CRYBP1 decoy increased luciferase activity by >2.5-fold in the absence or
+presence of insulin, whereas SOX9 decoy ODN decreased luciferase activity to
+about 50% under similar conditions. In addition, the repressive effect of
+interleukin-1 on Col2a1 transcription through decreasing SOX9 messenger
+ribonucleic acid (mRNA) expression and increasing CRYBP1 mRNA expression, was
+counteracted by CRYBP1 decoy ODN. These results provide a rationale for gene
+therapy in degenerative joint diseases by elevating Col2a1 expression in
+chondrocytes through oligomimetics of repressor binding sites.
+
+PMID: 15456958  [PubMed - indexed for MEDLINE]
+
+
+14. Eur J Biochem. 2004 Mar;271(6):1135-44.
+
+Isolation and characterization of the Xenopus HIVEP gene family.
+
+Dürr U(1), Henningfeld KA, Hollemann T, Knöchel W, Pieler T.
+
+Author information: 
+(1)Abteilung Entwicklungsbiochemie, Universität Göttingen, Germany.
+
+The HIVEP gene family encodes for very large sequence-specific DNA binding
+proteins containing multiple zinc fingers. Three mammalian paralogous genes have 
+been identified, HIVEP1, -2 and -3, as well as the closely related Drosophila
+gene, Schnurri. These genes have been found to directly participate in the
+transcriptional regulation of a variety of genes. Mammalian HIVEP members have
+been implicated in signaling by TNF-alpha and in the positive selection of
+thymocytes, while Schnurri has been shown to be an essential component of the
+TGF-beta signaling pathway. In this study, we describe the isolation of Xenopus
+HIVEP1, as well as partial cDNAs of HIVEP2 and -3. Analysis of the temporal and
+spatial expression of the XHIVEP transcripts during early embryogenesis revealed 
+ubiquitous expression of the transcripts. Assays using Xenopus oocytes mapped
+XHIVEP1 domains that are responsible for nuclear export and import activity. The 
+DNA binding specificity of XHIVEP was characterized using a PCR-mediated
+selection and gel mobility shift assays.
+
+PMID: 15009192  [PubMed - indexed for MEDLINE]
+
+
+15. Curr Protein Pept Sci. 2001 Jun;2(2):107-21.
+
+Fusion proteins from artificial and natural structural modules.
+
+Liu N(1), Caderas G, Deillon C, Hoffmann S, Klauser S, Cui T, Gutte B.
+
+Author information: 
+(1)Biochemisches Institut der Universität Zürich, Winterthurerstrasse 190,
+Switzerland.
+
+The purpose of preparing fusion proteins from designed and natural sequences is
+mainly twofold; it aims at the stabilization of structure and at the modification
+of biological activity. Fusion with beta-galactosidase, for example, can increase
+the intracellular stability and DDT-degrading activity of an artificial
+DDT-binding peptide, and fusions with a leucine zipper produce mono- and
+bifunctional single-chain variable domain antibody fragments or homodimeric and
+heterodimeric DNA-binding proteins like an artificial homodimeric HIV-1
+enhancer-binding protein with increased binding specificity and repressor
+activity. Of importance are also short leader sequences that mediate the
+translocation of proteins across the cytoplasmic and the nuclear membrane. An
+interesting by-product of the leucine zipper-mediated dimerization of an HIV-1
+enhancer-binding protein was the synthesis and the structural as well as
+functional characterization of a retro-leucine zipper.
+
+PMID: 12370019  [PubMed - indexed for MEDLINE]
+
+
+16. Oncogene. 2002 Apr 25;21(18):2775-84.
+
+MBP-1 mediated apoptosis involves cytochrome c release from mitochondria.
+
+Ghosh AK(1), Majumder M, Steele R, Liu TJ, Ray RB.
+
+Author information: 
+(1)Department of Pathology, Saint Louis University, St. Louis, Missouri, MO
+63104, USA.
+
+MBP-1, a cellular factor, appears to be involved in multiple functions, including
+transcriptional modulation, apoptosis and cell growth regulation. In this study, 
+we have investigated the signaling pathway involved in MBP-1 mediated apoptotic
+cell death. Human carcinoma cells infected with a replication deficient
+adenovirus expressing MBP-1 (AdMBP-1) induced apoptosis, when compared with cells
+infected by replication-defective adenovirus (dl312) as a negative control.
+Transduction of MBP-1 in carcinoma cells releases cytochrome c from mitochondria 
+into the cytosol leading to activation of procaspase-9, procaspase-3 and PARP
+cleavage. We previously observed that MBP-1 mediated apoptosis can be protected
+by Bcl-2, although MBP-1 does not share a homology with the BH domain of the
+Bcl-2 family member of proteins. To further understand the mechanism of MBP-1
+mediated apoptosis, we examined whether MBP-1 modulates the Bcl-2 gene family.
+Our results demonstrated that human breast carcinoma cells infected with AdMBP-1 
+selectively reduced Bcl-xL mRNA and protein expression when compared with dl312
+infected negative control cells. An in vitro transient reporter assay also
+suggested repression of the Bcl-x promoter activity by MBP-1. Additional studies 
+indicated that MBP-1 modulates Ets family protein function, thereby
+downregulating Bcl-xL expression. Taken together, our results suggest that MBP-1 
+selectively represses Bcl-xL expression in MCF-7 cells and induces mitochondrial 
+involvement in the apoptotic process.
+
+PMID: 11973636  [PubMed - indexed for MEDLINE]
+
+
+17. Leukemia. 2001 Nov;15(11):1721-8.
+
+Distinct gene expression profiling in chronic lymphocytic leukemia with 11q23
+deletion.
+
+Aalto Y(1), El-Rifa W, Vilpo L, Ollila J, Nagy B, Vihinen M, Vilpo J, Knuutila S.
+
+Author information: 
+(1)Department of Medical Genetics, Haartman Institute and Helsinki University
+Central Hospital, University of Helsinki, Finland.
+
+Chronic lymphocytic leukemia (CLL) is a heterogeneous disease with regard to its 
+clinical course. The limitations of the methods currently available for
+prognostic assessment in CLL do not allow accurate prediction of the risk of
+disease progression in individual patients. The recently developed cDNA array
+technique provides a unique opportunity to study gene expression in various
+malignancies. To identify new molecular markers for prognostication of CLL
+patients, we analyzed cDNA arrays by using hierarchical clustering and standard
+statistic t-test on 34 CLL patients. We found significant expression differences 
+in 78 genes compared to the reference tonsillar B lymphocytes. A cluster of
+genes, LCP1, PARP, BLR1, DEK, NPM, MCL1, SLP76, STAM, HIVEP1, EVI2B, CD25, HTLF, 
+HIVEP2, BCL2, MNDA, PBX3, EB12, TCF1, CGRP, CD14, ILB, GZMK, GPR17 and CD79B, was
+associated (P < 0.05) with the unfavorable 11q deletion and also with the
+unfavorable Binet stages B and C. We present here gene expression profiling that 
+is associated with CLL patients with the 11q23 deletion. Many of the genes in the
+cluster have not previously been shown to be related to the initiation or
+progression of CLL. These novel findings provide fundamental information for
+further attempts to understand the interaction of the clustered genes in the
+leukomogenesis of CLL in order to better design treatments aimed at specific
+molecular target(s).
+
+PMID: 11681413  [PubMed - indexed for MEDLINE]
+
+
+18. Nat Immunol. 2001 Nov;2(11):1048-53.
+
+Murine Schnurri-2 is required for positive selection of thymocytes.
+
+Takagi T(1), Harada J, Ishii S.
+
+Author information: 
+(1)Laboratory of Molecular Genetics, RIKEN Tsukuba Institute, CREST Research
+Project of JST, 3-1-1 Koyadai, Tsukuba, Ibaraki 305-0074, Japan.
+
+Comment in
+    Nat Immunol. 2001 Nov;2(11):989-91.
+
+A key step in T cell development involves the positive selection of cells that
+recognize antigen presented by self-major histocompatibility complex. Yet, the
+signals that are activated by T cell receptor engagement and lead to cell
+survival remain unclear. We show here that mice lacking the transcription factor 
+Schnurri-2 (Shn-2), a large metal-finger protein, had severely defective positive
+selection of CD4+ and CD8+ cells. Drosophila Shn acts as a cofactor of Smad
+homolog and is required for Decapentaplegic signaling. Vertebrates have at least 
+three Shn orthologs (Shn-1, Shn-2 and Shn-3), which are thought to act as nuclear
+targets in the bone morphogenetic protein-transforming growth factor-beta-activin
+signaling pathways. These data raised the possibility that the Smad-Shn-2 complex
+is involved in the thymic selection of T cells.
+
+PMID: 11668343  [PubMed - indexed for MEDLINE]
+
+
+19. Adv Exp Med Biol. 2001;487:219-28.
+
+Neurodegeneration-associated proteins and inflammation in sporadic inclusion-body
+myositis.
+
+Lampe JB(1), Walter MC, Reichmann H.
+
+Author information: 
+(1)Department of Neurology, Technical University of Dresden, Germany.
+
+PMID: 11403162  [PubMed - indexed for MEDLINE]
+
+
+20. Genomics. 2001 Jan 1;71(1):89-100.
+
+Structure of the human zinc finger protein HIVEP3: molecular cloning, expression,
+exon-intron structure, and comparison with paralogous genes HIVEP1 and HIVEP2.
+
+Hicar MD(1), Liu Y, Allen CE, Wu LC.
+
+Author information: 
+(1)Department of Molecular Virology, Immunology, and Medical Genetics, College of
+Medicine and Public Health, The Ohio State University, Columbus, Ohio 43210, USA.
+
+Here we report the cloning and characterization of HIVEP3, the newest member in
+the human immunodeficiency virus type 1 enhancer-binding protein family that
+encodes large zinc finger proteins and regulates transcription via the kappaB
+enhancer motif. The largest open reading frame of HIVEP3 contains 2406 aa. and is
+approximately 80% identical to the mouse counterpart. The HIVEP3 gene is located 
+in the chromosomal region 1p34 and is at least 300 kb with 10 exons. RNA studies 
+show that multiple HIVEP3 transcripts are differentially expressed and regulated.
+Additionally, transcription termination occurs in the ultimate exon, exon 10, or 
+in exon 6. Therefore, HIVEP3 may produce protein isoforms that contain or exclude
+the carboxyl DNA binding domain and the leucine zipper by alternative RNA
+splicing and differential polyadenylation. Sequence homologous to HIVEP3 exon 6
+is not found in mouse nor are the paralogous genes HIVEP1 and HIVEP2. Zoo-blot
+analysis suggests that sequences homologous to the human exon 6 are present only 
+in primates and cow. Therefore, a foreign DNA harboring a termination exon likely
+was inserted into the HIVEP3 locus relatively recently in evolution, resulting in
+the acquisition of novel gene regulatory mechanisms as well as the generation of 
+structural and functional diversity.
+
+Copyright 2001 Academic Press.
+
+PMID: 11161801  [PubMed - indexed for MEDLINE]
+
+
+21. Mol Cell Biol. 2000 Jun;20(12):4428-35.
+
+A zinc finger transcription factor, alphaA-crystallin binding protein 1, is a
+negative regulator of the chondrocyte-specific enhancer of the alpha1(II)
+collagen gene.
+
+Tanaka K(1), Matsumoto Y, Nakatani F, Iwamoto Y, Yamada Y.
+
+Author information: 
+(1)Craniofacial Developmental Biology and Regeneration Branch, National Institute
+of Dental and Craniofacial Research, National Institutes of Health, Bethesda,
+Maryland 20892, USA.
+
+Retraction in
+    Mol Cell Biol. 2009 Jun;29(12):3453.
+
+Comment in
+    NIH Guide Grants Contracts. 2009 Feb 20;:NOT-OD-09-051.
+
+Partial retraction in
+    Mol Cell Biol. 2006 Jul;26(13):5202.
+
+Transcription of the type II collagen gene (Col2a1) is regulated by multiple
+cis-acting sites. The enhancer element, which is located in the first intron, is 
+necessary for high-level and cartilage-specific expression of Col2a1. A mouse
+limb bud cDNA expression library was screened by the Saccharomyces cerevisiae
+one-hybrid screening method to identify protein factors bound to the enhancer. A 
+zinc finger protein, alphaA-crystallin binding protein 1 (CRYBP1), which had been
+reported to bind to the mouse alphaA-crystallin gene promoter, was isolated. We
+herein demonstrate that CRYBP1 is involved in the negative regulation of Col2a1
+enhancer activity. CRYBP1 mRNA expression was downregulated during chondrocyte
+differentiation in vitro. In situ hybridization analysis of developing mouse
+cartilage showed that CRYBP1 mRNA was also downregulated during mesenchymal
+condensation and that CRYBP1 mRNA was highly expressed by hypertrophic
+chondrocytes, but at very low levels by resting and proliferating chondrocytes.
+Expression of recombinant CRYBP1 in a transfected rat chondrosarcoma cell line
+inhibited Col2a1 enhancer activity. Electrophoretic mobility shift assays showed 
+that CRYBP1 bound a specific sequence within the Col2a1 enhancer and inhibited
+the binding of Sox9, an activator for Col2a1, to the enhancer. Cotransfection of 
+CRYBP1 with Sox9 into BALB/c 3T3 cells inhibited activation of the Col2a1
+enhancer by Sox9. These results suggest a novel mechanism that negatively
+regulates cartilage-specific expression of Col2a1.
+
+PMCID: PMC85810
+PMID: 10825206  [PubMed - indexed for MEDLINE]
+
+
+22. Genomics. 1998 Jan 15;47(2):171-9.
+
+Gene hunting without sequencing genomic clones: finding exon boundaries in cDNAs.
+
+Xu G(1), Sze SH, Liu CP, Pevzner PA, Arnheim N.
+
+Author information: 
+(1)Molecular Biology Program, University of Southern California, Los Angeles
+90089-1340, USA.
+
+We propose a new experimental protocol, ExonPCR, which is able to identify exon
+boundaries in a cDNA even in the absence of any genomic clones. ExonPCR can
+bypass the isolation, characterization, and DNA sequencing of subclones of
+genomic DNA to determine exon boundaries: a major effort in the process of
+positional cloning. Given a cDNA sequence, ExonPCR uses a series of "adaptive"
+steps to analyze the PCR products from cDNA and genomic DNA thereby revealing the
+approximate positions of "hidden" exon boundaries in the cDNA. The nucleotide
+sequence of adjacent intronic regions is determined by ligation-mediated PCR.
+Primers adjacent to the "hidden" exon boundaries are used to amplify genomic DNA 
+followed by limited DNA sequencing of the PCR product. The method was
+successfully tested on the 3-kb hMSH2 cDNA with 16 known exons and the 9-kb
+PRDII-BF1 cDNA with a previously unknown number of exons. We subsequently
+developed the ExonPCR algorithm and software to direct the experimental protocol 
+using a strategy that is analogous to that used in the game "Twenty Questions."
+Through the use of ExonPCR, the search for disease-causing mutations can be
+initiated almost immediately after cDNA clones in a genetically mapped region
+become available. This approach would be most valuable in gene discovery
+strategies that focus initially on cDNA isolation.
+
+PMID: 9479489  [PubMed - indexed for MEDLINE]
+
+
+23. J Cell Biochem. 1997 Mar 15;64(4):565-72.
+
+Inhibition of human immunodeficiency virus type 1 replication by a cellular
+transcriptional factor MBP-1.
+
+Ray RB(1), Srinivas RV.
+
+Author information: 
+(1)Department of Internal Medicine, St. Louis University, Missouri 63110-0250,
+USA. Rayrb@sluvca.slu.edu
+
+A cellular transcriptional factor initially identified as the c-myc promoter
+binding protein (MBP-1) was subsequently characterized as a cell regulatory
+protein with multifunctional activities. In this study, the role of MBP-1 on
+human immunodeficiency virus type-1 (HIV-1) transcriptional activity was
+investigated. MBP-1 showed inhibition of HIV-1 long terminal repeat
+(LTR)-directed chloramphenicol acetyl transferase (CAT) activity in a transient
+cotransfection assay. Deletion of upstream elements of the HIV-1 LTR, including
+the nuclear factor kappa B (NF-kappa B) and Sp1 binding sites, did not affect the
+MBP-1 mediated suppression of HIV-1 LTR. The core promoter of the HIV-1 appeared 
+to be the primary sequence involved in MBP-1 mediated inhibition. In the presence
+of HIV-1 TAR sequence and Tat protein, MBP-1 did not inhibit the viral promoter
+activity. In addition, cotransfection experiments with HIV-1 LTR and deletion
+mutants of MBP-1 suggested that the carboxyl terminal half of MBP-1 suppresses
+the HIV-1 promoter activity. Exogenous expression of MBP-1 showed suppression of 
+HIV-1 replication in acutely infected cells and in cells cotransfected with a
+molecular clone of HIV-1. These results suggest that exogenous expression of
+MBP-1 plays an important role in the regulation of HIV-1 replication in infected 
+cells.
+
+PMID: 9093905  [PubMed - indexed for MEDLINE]
+
+
+24. J Biol Chem. 1996 Sep 13;271(37):22528-37.
+
+Multiple signaling pathways control the activation of the CEF-4/9E3 cytokine gene
+by pp60v-src.
+
+Bojovic B(1), Rodrigues N, Dehbi M, Bédard PA.
+
+Author information: 
+(1)Department of Biology, York University, North York, Ontario M3J 1P3, Canada.
+
+The CEF-4/9E3 cytokine gene is expressed aberrantly in chicken embryo fibroblasts
+(CEF) transformed by the Rous sarcoma virus. The expression of CEF-4 is dependent
+on both transcriptional and post-transcriptional mechanisms of regulation. The
+characterization of the promoter region indicated that three distinct regulatory 
+elements corresponding to an AP-1 binding site (or TRE), a PRDII/kappaB domain,
+and a CAAT box are involved in the activation by pp60(v-)src. In this report we
+investigate the signaling pathways controlling the expression of the TRE and
+PRDII domain. The expression of a dominant negative mutant of p21(ras) reduced
+the activity of both elements. In contrast a similar mutant of c-Raf-1 affected
+modestly the activation dependent on the TRE but not PRDII. The stress-activated 
+protein kinase (SAPK)/Jun N-terminal kinase (JNK) pathway was important for the
+activity of PRDII and the TRE but was not markedly stimulated by pp60(v-)src. The
+addition of calphostin C and the inhibition of protein kinase C (PKC) diminished 
+the accumulation of the CEF-4 mRNA and reduced the activity of a TRE-controlled
+promoter. Likewise, the depletion of PKC by chronic treatment with phorbol esters
+inhibited the activation of the TRE. Rous sarcoma virus-transformed CEF treated
+with calphostin C were also flatter, did not display a high degree of
+criss-crossing, and appeared morphologically normal. Hence PKC was important for 
+the activation of AP-1 and the morphological transformation of CEF. The
+constitutive expression of CEF-4 was correlated with transformation only when
+dependent on the TRE. This was not true for PRDII, which was the only element
+required for the constitutive activation to the CEF-4 promoter in nontransformed 
+cells treated chronically with phorbol esters.
+
+PMID: 8798420  [PubMed - indexed for MEDLINE]
+
+
+25. Genes Dev. 1996 Aug 1;10(15):1953-65.
+
+The Caenorhabditis elegans gene sem-4 controls neuronal and mesodermal cell
+development and encodes a zinc finger protein.
+
+Basson M(1), Horvitz HR.
+
+Author information: 
+(1)Howard Hughes, Medical Institute, Massachusetts Institute of Technology,
+Cambridge 02139, USA.
+
+Neuronal and mesodermal cell types are generated in separate cell lineages during
+the larval development of Caenorhabditis elegans. Here we demonstrate that the
+gene sem-4 is required in both types of lineages for the normal development of
+neuronal and mesodermal cell types. The sem-4 gene encodes a protein containing
+seven zinc finger motifs of the C2H2 class, four of which are arranged in two
+pairs widely separated in the primary sequence of the protein. These pairs of
+zinc fingers are similar to pairs of zinc fingers in the protein encoded by the
+Drosophila homeotic gene spalt and in the human transcription factor PRDII-BF1.
+Analysis of sem-4 alleles suggests that different zinc fingers in the SEM-4
+protein may function differentially in neuronal and mesodermal cell types. We
+propose that sem-4 interacts with different transcription factors in different
+cell types to control the transcription of genes that function in the processes
+of neuronal and mesodermal cell development.
+
+PMID: 8756352  [PubMed - indexed for MEDLINE]
+
+
+26. J Med Chem. 1996 Jan 19;39(2):503-7.
+
+Metal-chelating inhibitors of a zinc finger protein HIV-EP1. Remarkable
+potentiation of inhibitory activity by introduction of SH groups.
+
+Fujita M(1), Otsuka M, Sugiura Y.
+
+Author information: 
+(1)Institute for Chemical Research, Kyoto University, Japan.
+
+HIV-EP1 is a C2H2 type zinc finger protein which binds to DNA kappa B site
+present in the long terminal repeat of HIV provirus. Previously we have reported 
+zinc chelators having histidine--pyridine--histidine skeleton and were successful
+in inhibiting the DNA binding of HIV-EP1 by removing zinc from the zinc finger
+domain. Aiming at the potentiation of the inhibitory activity of our previous
+zinc chelators, herein synthesized were novel chelators comprising pyridine and
+aminoalkanethiol. These showed marked inhibitory activity on the DNA binding of
+HIV-EP1. In particular, one of them having a bis(2-mercaptoethyl) amino side
+chain showed inhibitory activity (IC50, approximately 4 microM) 10 times stronger
+than that of the strongest inhibitor that we reported previously. It appeared
+that these inhibited the DNA binding of HIV-EP1 by a mechanism distinct from that
+of the previous histidine-based inhibitors.
+
+PMID: 8558519  [PubMed - indexed for MEDLINE]
+
+
+27. Cell Growth Differ. 1995 Sep;6(9):1089-96.
+
+Induction of cell death in murine fibroblasts by a c-myc promoter binding
+protein.
+
+Ray RB(1).
+
+Author information: 
+(1)Department of Internal Medicine, Saint Louis University, Missouri 63110, USA.
+
+The c-myc promoter binding protein (MBP-1) was identified previously from a human
+cervical carcinoma cell (HeLa) cDNA expression library (R. Ray and D. M. Miller, 
+Mol. Cell. Biol., 11: 2154-2161, 1991). This study demonstrated that MBP-1 binds 
+to the mouse c-myc P2 TATA box sequences and exerts a negative regulatory role on
+c-myc transcription. The role of MBP-1 on cell growth was initially examined by
+transfection of fibroblast cells with MBP-1 cDNA and resulted in rapid cell
+death. Subsequently, MBP-1 cDNA bearing an inducible promoter was introduced in
+murine fibroblast cells (NIH3T3) to control the expression of the exogenous
+MBP-1. Upon induction of exogenous MBP-1 expression, stable transfectants showed 
+reduced c-myc expression, cell death, and DNA fragmentation. To further analyze
+whether c-myc inhibition mediates or complements the effect of MBP-1, the
+exogenous MBP-1 when introduced into NIH3T3 cells expressing deregulated human
+c-myc gene, cell death was interrupted. This study suggested that exogenous
+expression of MBP-1 induces cell death in fibroblasts by blocking cell
+proliferation.
+
+PMID: 8519685  [PubMed - indexed for MEDLINE]
+
+
+28. J Med Chem. 1995 Aug 18;38(17):3264-70.
+
+Novel zinc chelators with dual activity in the inhibition of the kappa B
+site-binding proteins HIV-EP1 and NF-kappa B.
+
+Otsuka M(1), Fujita M, Aoki T, Ishii S, Sugiura Y, Yamamoto T, Inoue J.
+
+Author information: 
+(1)Institute for Chemical Research, Kyoto University, Japan.
+
+Both HIV-EP1 (also called PRDII-BF1 or MBP-1), a zinc finger protein, and
+NF-kappa B, a Rel family protein, bind to kappa B site present in the enhancer of
+multiple cellular and viral genes involved in immune function and inflammatory
+response including HIV-1 LTR and human interferon beta gene. When cells are
+exposed to extracellular stimuli such as virus or phorbol ester, the activity of 
+both HIV-EP1 and NF-kappa B is induced. Thus, kappa B site-directed transcription
+could be regulated by two distinct proteins in a cooperative way. Novel
+heterocyclic compounds comprising (dimethylamino)pyridine and histidine units,
+i.e., 1-4, have been designed and synthesized, aiming at inhibition of these
+kappa B site-binding proteins to discriminate their functions. These compounds
+exhibited remarkable zinc-binding capability as revealed by NMR study. Compounds 
+1 and 2 showed a marked inhibitory effect on the DNA binding activity of HIV-EP1 
+by removing zinc without interfering with the DNA binding activity of NF-kappa B.
+Since it has been demonstrated that zinc somehow influences the DNA binding of
+NF-kappa B, the effect of these heterocyclic compounds and their zinc complexes
+on NF-kappa B was examined. Zinc complexes of 3 and 4 exhibited the inhibitory
+effect on the DNA binding of NF-kappa B and/or homodimeric complexes of p50 and
+p65 subunits of NF-kappa B without affecting HIV-EP1. Thus, it became possible to
+inhibit either one of the two kappa B site-binding proteins without inhibiting
+the other.(ABSTRACT TRUNCATED AT 250 WORDS)
+
+PMID: 7650680  [PubMed - indexed for MEDLINE]
+
+
+29. Cell. 1995 Jun 2;81(5):791-800.
+
+Schnurri is required for Drosophila Dpp signaling and encodes a zinc finger
+protein similar to the mammalian transcription factor PRDII-BF1.
+
+Grieder NC(1), Nellen D, Burke R, Basler K, Affolter M.
+
+Author information: 
+(1)Biozentrum, Universität Basel, Switzerland.
+
+Cytokines of the TGF beta superfamily regulate many aspects of cellular function 
+by activating receptor complexes consisting of two distantly related
+serine/threonine kinases. Previous studies have indicated that Drosophila dpp
+uses similar signaling complexes and strictly requires the punt and thick veins
+receptors to transduce the signal across the membrane. Here, we show that the
+schnurri (shn) gene is required for many aspects of dpp signaling. Genetic
+epistasis experiments indicate that shn functions downstream of the dpp signal
+and its receptors. The shn gene encodes a large protein similar to a family of
+mammalian zinc finger transcription factors. The shn protein might therefore act 
+as a nuclear target in the dpp signaling pathway directly regulating the
+expression of dpp-responsive genes.
+
+PMID: 7774018  [PubMed - indexed for MEDLINE]
+
+
+30. Biochemistry. 1995 Mar 14;34(10):3438-45.
+
+The c-myc promoter binding protein (MBP-1) and TBP bind simultaneously in the
+minor groove of the c-myc P2 promoter.
+
+Chaudhary D(1), Miller DM.
+
+Author information: 
+(1)Department of Medicine, University of Alabama at Birmingham 35294-3300.
+
+The c-myc promoter binding protein (MBP-1) is a DNA binding protein which
+negatively regulates the expression of the human c-myc gene. MBP-1 binds to a
+sequence which overlaps the binding site for the general transcription factor
+TBP, within the c-myc P2 promoter region. Since TBP binds in the minor groove,
+MBP-1 might inhibit c-myc transcription by preventing the formation of a
+functional preinitiation complex. In support of this hypothesis, we have
+demonstrated that MPB-1 is a minor groove binding protein. In order to
+characterize MBP-1 binding, we substituted A-T base pairs in the MBP-1 binding
+site with I-C base pairs, which changes the major groove surface without altering
+the minor groove surface. This substitution did not inhibit the sequence-specific
+binding of MBP-1 and TBP. On the other hand, G-C to I-C substitution within the
+MBP-1 binding site alters the minor groove and prevents MBP-1 binding.
+Competitive electrophoretic mobility shift assays were used to show that berenil,
+distamycin, and mithramycin, all of which bind in the minor groove, compete with 
+MBP-1 for binding to the MPB-1 binding site. These minor groove binding ligands
+also effectively inhibit the simultaneous DNA binding activity of both MBP-1 and 
+TBP. We conclude that both MBP-1 and TBP can bind simultaneously in the minor
+groove of the TATA motif on the c-myc P2 promoter. This suggests that MBP-1 may
+negatively regulate c-myc gene expression by preventing efficient transcription
+initiation.
+
+PMID: 7880838  [PubMed - indexed for MEDLINE]
+
+
+31. J Biol Chem. 1995 Jan 20;270(3):1221-9.
+
+Murine transcription factor alpha A-crystallin binding protein I. Complete
+sequence, gene structure, expression, and functional inhibition via antisense
+RNA.
+
+Brady JP(1), Kantorow M, Sax CM, Donovan DM, Piatigorsky J.
+
+Author information: 
+(1)Laboratory of Molecular and Developmental Biology, NEI, National Institutes of
+Health, Bethesda, Maryland 20892.
+
+alpha A-crystallin binding protein I (alpha A-CRYBP1) is a ubiquitously expressed
+DNA binding protein that was previously identified by its ability to interact
+with a functionally important sequence in the mouse alpha A-crystallin gene
+promoter. Here, we have cloned a single copy gene with 10 exons spanning greater 
+than 70 kb of genomic DNA that encodes alpha A-CRYBP1. The mouse alpha A-CRYBP1
+gene specifies a 2,688-amino acid protein with 72% amino acid identity to its
+human homologue, PRDII-BF1. Both the human and the mouse proteins contain two
+sets of consensus C2H2 zinc fingers at each end as well a central nonconsensus
+zinc finger. The alpha A-CRYBP1 gene produces a 9.5-kb transcript in 11 different
+tissues as well as a testis-specific, 7.7-kb transcript. alpha A-CRYBP1 cDNA
+clones were isolated from adult mouse brain and testis as well as from cell lines
+derived from mouse lens (alpha TN4-1) and muscle (C2C12). A single clone isolated
+from the muscle C2C12 library contains an additional exon near the 5'-end that
+would prevent production of a functional protein if the normal translation start 
+site were utilized; however, there is another potential initiation codon located 
+downstream that is in frame with the rest of the coding region. In addition, we
+identified multiple cDNAs from the testis in which the final intron is still
+present. Finally, we used an antisense expression construct derived from an alpha
+A-CRYBP1 cDNA clone to provide the first functional evidence that alpha A-CRYBP1 
+regulates gene expression. When introduced into the alpha TN4-1 mouse lens cell
+line, the antisense construct significantly inhibited expression from a
+heterologous promoter that utilized the alpha A-CRYBP1 binding site as an
+enhancer.
+
+PMID: 7836383  [PubMed - indexed for MEDLINE]
+
+
+32. J Med Chem. 1994 Dec 9;37(25):4267-9.
+
+Novel zinc chelators which inhibit the binding of HIV-EP1 (HIV enhancer binding
+protein) to NF-kappa B recognition sequence.
+
+Otsuka M(1), Fujita M, Sugiura Y.
+
+Author information: 
+(1)Institute for Chemical Research, Kyoto University, Japan.
+
+PMID: 7996537  [PubMed - indexed for MEDLINE]
+
+
+33. J Virol. 1994 Feb;68(2):1002-9.
+
+Transcription factor PRDII-BF1 activates human immunodeficiency virus type 1 gene
+expression.
+
+Seeler JS(1), Muchardt C, Suessle A, Gaynor RB.
+
+Author information: 
+(1)Department of Medicine, Southwestern Medical School, Dallas, Texas 75235.
+
+Gene expression of human immunodeficiency virus (HIV) is modulated by both
+cellular transcription factors, which bind to cis-acting regulatory elements in
+the HIV-1 long terminal repeat (LTR) and the viral transactivator, tat. The
+enhancer element in the HIV-1 LTR which extends from -103 to -82 is critical for 
+gene expression. This region contains two identical 10-bp direct repeats which
+serve as binding sites for members of the NF-kappa B family of transcription
+factors. However, several other cellular transcription factors, including a group
+of zinc finger DNA-binding proteins, also bind to NF-kappa B and related motifs. 
+A member of this family of transcription factors, designated PRDII-BF1 or MBP-1, 
+is a 300-kDa cellular protein which contains two widely separated zinc finger DNA
+binding domains. Each of these binding domains is capable of binding to NF-kappa 
+B or related recognition motifs. Since no functional role for this protein has
+been demonstrated in the regulation of viral and cellular promoters, we began
+studies to determine whether PRDII-BF1 could modulate HIV-1 gene expression.
+DNase I footprinting of the HIV-1 LTR indicated that PRDII-BF1 bound to both
+NF-kappa B and TAR transactivation response DNA elements. Both in vitro
+translation and vaccinia virus expression of PRDII-BF1 cDNA resulted in the
+synthesis of the full-length 300-kDa PRDII-BF1 protein. Transfection experiments,
+using both eucaryotic expression vectors and antisense constructs, indicated that
+PRDII-BF1 activated HIV-1 gene expression in both the presence and absence of
+tat. These results are consistent with a role for PRDII-BF1 in activating HIV-1
+gene expression.
+
+PMCID: PMC236538
+PMID: 8289330  [PubMed - indexed for MEDLINE]
+
+
+34. Virology. 1993 Oct;196(2):442-50.
+
+Regulatory elements involved in tax-mediated transactivation of the HTLV-I LTR.
+
+Seeler JS(1), Muchardt C, Podar M, Gaynor RB.
+
+Author information: 
+(1)Department of Medicine and Microbiology, Southwestern Medical School, Dallas, 
+Texas 75235.
+
+HTLV-I is the etiologic agent of adult T-cell leukemia. In this study, we
+investigated the regulatory elements and cellular transcription factors which
+function in modulating HTLV-I gene expression in response to the viral
+transactivator protein, tax. Transfection experiments into Jurkat cells of a
+variety of site-directed mutants in the HTLV-1 LTR indicated that each of the
+three motifs A, B, and C within the 21-bp repeats, the binding sites for the Ets 
+family of proteins, and the TATA box all influenced the degree of tax-mediated
+activation. Tax is also able to activate gene expression of other viral and
+cellular promoters. Tax activation of the IL-2 receptor and the HIV-1 LTR is
+mediated through NF-kappa B motifs. Interestingly, sequences in the 21-bp repeat 
+B and C motifs contain significant homology with NF-kappa B regulatory elements. 
+We demonstrated that an NF-kappa B binding protein, PRDII-BF1, but not the rel
+protein, bound to the B and C motifs in the 21-bp repeat. PRDII-BF1 was also able
+to stimulate activation of HTLV-I gene expression by tax. The role of the Ets
+proteins on modulating tax activation was also studied. Ets 1 but not Ets 2 was
+capable of increasing the degree of tax activation of the HTLV-I LTR. These
+results suggest that tax activates gene expression by either direct or indirect
+interaction with several cellular transcription factors that bind to the HTLV-I
+LTR.
+
+PMID: 8372429  [PubMed - indexed for MEDLINE]
+
+
+35. Biochemistry. 1992 Apr 28;31(16):3907-17.
+
+High-resolution solution structure of the double Cys2His2 zinc finger from the
+human enhancer binding protein MBP-1.
+
+Omichinski JG(1), Clore GM, Robien M, Sakaguchi K, Appella E, Gronenborn AM.
+
+Author information: 
+(1)Laboratory of Chemical Physics, National Institute of Diabetes and Digestive
+and Kidney Diseases, National Institutes of Health, Bethesda, Maryland 20892.
+
+The high-resolution three-dimensional structure of a synthetic 57-residue peptide
+comprising the double zinc finger of the human enhancer binding protein MBP-1 has
+been determined in solution by nuclear magnetic resonance spectroscopy on the
+basis of 1280 experimental restraints. A total of 30 simulated annealing
+structures were calculated. The backbone atomic root-mean-square distributions
+about the mean coordinate positions are 0.32 and 0.33 A for the N- and C-terminal
+fingers, respectively, and the corresponding values for all atoms, excluding
+disordered surface side chains, are 0.36 and 0.40 A. Each finger comprises an
+irregular antiparallel sheet and a helix, with the zinc tetrahedrally coordinated
+to two cysteines and two histidines. The overall structure is nonglobular in
+nature, and the angle between the long axes of the helices is 47 +/- 5 degrees.
+The long axis of the antiparallel sheet in the N-terminal finger is approximately
+parallel to that of the helix in the C-terminal finger. Comparison of this
+structure with the X-ray structure of the Zif-268 triple finger complexed with
+DNA indicates that the relative orientation of the individual zinc fingers is
+clearly distinct in the two cases. This difference can be attributed to the
+presence of a long Lys side chain in the C-terminal finger of MBP-1 at position
+40, instead of a short Ala or Ser side chain at the equivalent position in
+Zif-268. This finding suggests that different contacts may be involved in the
+binding of the zinc fingers of MBP-1 and Zif-268 to DNA, consistent with the
+findings from methylation interference experiments that the two fingers of MBP-1 
+contact 10 base pairs, while the three fingers of Zif-268 contact only 9 base
+pairs.
+
+PMID: 1567844  [PubMed - indexed for MEDLINE]
+
+
+36. J Virol. 1992 Jan;66(1):244-50.
+
+Regulation of human immunodeficiency virus enhancer function by PRDII-BF1 and
+c-rel gene products.
+
+Muchardt C(1), Seeler JS, Nirula A, Shurland DL, Gaynor RB.
+
+Author information: 
+(1)Department of Medicine, Southwestern Medical School, Dallas, Texas 75235.
+
+The human immunodeficiency virus (HIV) enhancer element is important in the
+regulation of HIV gene expression. A number of cellular proteins have been
+demonstrated to bind to the NF-kappa B motifs in this element. The genes encoding
+several of these proteins, including members of the rel family and PRDII-BF1,
+have been cloned. We characterized the binding of proteins encoded by the human
+c-rel and PRDII-BF1 genes to HIV NF-kappa B motifs and related enhancer elements.
+Both the human c-rel protein and two proteins derived from the PRDII-BF1 gene by 
+alternative splicing bound specifically to the HIV NF-kappa B motif and related
+enhancer elements found in the immunoglobulin kappa, class I major
+histocompatibility complex, and interleukin-2 receptor genes. To determine the
+role of these factors in regulating HIV gene expression, we fused the cDNAs
+encoding either of the two proteins derived by alternative splicing of the
+PRDII-BF1 gene or the c-rel gene to the DNA binding region of the yeast
+transcription factor GAL4. GAL4 binding sites were inserted in place of the
+native HIV enhancer sequences in an HIV long terminal repeat chloramphenicol
+acetyltransferase construct. Cotransfection of these constructs revealed that
+c-rel was a strong activator of basal HIV gene expression but did not result in
+synergistic effects in the presence of tat. PRDII-BF1-derived cDNAs did not
+result in stimulation of either basal or tat-induced activated gene expression.
+These results indicate that multiple enhancer binding proteins may potentially
+regulate HIV in both a positive and negative manner.
+
+PMCID: PMC238281
+PMID: 1727488  [PubMed - indexed for MEDLINE]
+
+
+37. Nucleic Acids Res. 1991 May 11;19(9):2514.
+
+MspI RFLP detected by a ZNF-40 cDNA sequence.
+
+Fountain JW(1), Dracopoli NC, Housman DE, Baldwin AS.
+
+Author information: 
+(1)Center for Cancer Research, MIT, Cambridge, MA 02139.
+
+PMCID: PMC329482
+PMID: 1710360  [PubMed - indexed for MEDLINE]
+
+
+38. J Biol Chem. 1991 May 5;266(13):8590-4.
+
+HIV-EP2, a new member of the gene family encoding the human immunodeficiency
+virus type 1 enhancer-binding protein. Comparison with HIV-EP1/PRDII-BF1/MBP-1.
+
+Nomura N(1), Zhao MJ, Nagase T, Maekawa T, Ishizaki R, Tabata S, Ishii S.
+
+Author information: 
+(1)Laboratory of Molecular Biology, Nippon Medical School, Kanagawa, Japan.
+
+At least two different types of proteins, NF-kappa B/KBF1 and
+HIV-EP1/PRDII-BF1/MBP-1, which are members of a family of rel oncoproteins and
+metal-finger proteins, respectively, bind to the human immunodeficiency virus
+type (HIV-1) enhancer. As a new member of a HIV-EP1 family that is expressed at a
+high level in T cells, we have isolated cDNA clones of HIV-EP2 by
+cross-hybridization with HIV-EP1 cDNA. HIV-EP2 protein consists of 1,833 amino
+acids and has a molecular weight of 211,000. HIV-EP2 protein is highly homologous
+with HIV-EP1/PRDII-BF1/MBP-1 in three regions. These three regions contain the
+potential nuclear localization signal followed by a Ser/Thr-rich region, the
+DNA-binding domain consisting of a metal-finger structure, and a cluster of
+acidic amino acids. The DNA-binding property of HIV-EP2 was similar to that of
+HIV-EP1. Northern blot analysis of HIV-EP2 mRNA indicated relatively high
+expression in the T cell line Molt-4 and in some tumor cell lines. Furthermore,
+like HIV-EP1, expression of HIV-EP2 mRNA was greatly induced by mitogen and
+phorbol ester treatment of Jurkat T cells, suggesting that HIV-EP2 acts in HIV
+production from latently infected T cells.
+
+PMID: 2022670  [PubMed - indexed for MEDLINE]
+
+
+39. Genomics. 1991 Apr;9(4):758-61.
+
+Localization of the zinc finger DNA-binding protein HIV-EP1/MBP-1/PRDII-BF1 to
+human chromosome 6p22.3-p24.
+
+Gaynor RB(1), Muchardt C, Diep A, Mohandas TK, Sparkes RS, Lusis AJ.
+
+Author information: 
+(1)Department of Medicine, University of California, Los Angeles 90024.
+
+A variety of cellular proteins have been found to bind to related DNA sequences
+in the enhancer elements of the human immunodeficiency virus, the kappa
+immunoglobulin gene, the class I major histocompatibility complex gene, and the
+beta-interferon gene. Recently, lambda gt11 gene expression cloning using ligated
+oligonucleotide probes complementary to these DNA binding motifs has been
+performed. An identical cDNA clone encoding a cellular protein, referred to as
+HIV-EP1, MBP-1, or PRDII-BF1, that binds to each of these sequences has been
+identified. This cDNA potentially encodes a 298-kDa cellular protein with two
+widely separated zinc finger binding domains, each of which binds to the same DNA
+sequence. As part of an effort to examine the chromosomal organization of
+cellular genes encoding transcription factors, we report the chromosomal mapping 
+of the gene encoding this zinc finger protein (ZNF40) to chromosome 6p22.3-24.
+
+PMID: 2037300  [PubMed - indexed for MEDLINE]
+
+
+40. Mol Cell Biol. 1990 Apr;10(4):1406-14.
+
+A large protein containing zinc finger domains binds to related sequence elements
+in the enhancers of the class I major histocompatibility complex and kappa
+immunoglobulin genes.
+
+Baldwin AS Jr(1), LeClair KP, Singh H, Sharp PA.
+
+Author information: 
+(1)Center for Cancer Research, Massachusetts Institute of Technology, Cambridge
+02139.
+
+A cDNA from a B-cell library was previously isolated that encodes a
+sequence-specific DNA-binding protein with affinities for related sites in a
+class I major histocompatibility complex (MHC) and kappa immunoglobulin gene
+enhancers. We report here approximately 6.5 kilobases of sequence of the MBP-1
+(MHC enhancer binding protein 1) cDNA. MBP-1 protein has a molecular weight
+predicted to be greater than 200,000. A DNA-binding domain with high affinity for
+the MHC enhancer sequence TGGGGATTCCCCA was localized to an 118-amino-acid
+protein fragment containing two zinc fingers of the class Cys2-X12-His2. Analysis
+of expression of MBP-1 mRNA revealed relatively high expression in HeLa cells and
+in a human retinal cell line, with lower levels in Jurkat T cells and in two
+B-cell lines. Interestingly, expression of MBP-1 mRNA was inducible by mitogen
+and phorbol ester treatment of Jurkat T cells and by serum treatment of confluent
+serum-deprived human fibroblasts.
+
+PMCID: PMC362243
+PMID: 2108316  [PubMed - indexed for MEDLINE]
+
+
+41. Genes Dev. 1990 Jan;4(1):29-42.
+
+A DNA-binding protein containing two widely separated zinc finger motifs that
+recognize the same DNA sequence.
+
+Fan CM(1), Maniatis T.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, Harvard University,
+Cambridge, Massachusetts 02138.
+
+We have isolated a full-length cDNA clone encoding a protein (PRDII-BF1) that
+binds specifically to a positive regulatory domain (PRDII) of the human IFN-beta 
+gene promoter, and to a similar sequence present in a number of other promoters
+and enhancers. The sequence of this protein reveals two novel structural
+features. First, it is the largest sequence-specific DNA-binding protein reported
+to date (298 kD). Second, it contains two widely separated sets of C2-H2-type
+zinc fingers. Remarkably, each set of zinc fingers binds to the same DNA sequence
+motif with similar affinities and methylation interference patterns. Thus, this
+protein may act by binding simultaneously to reiterated copies of the same
+recognition sequence. Although the function of PRDII-BF1 is not known, the level 
+of its mRNA is inducible by serum and virus, albeit with different kinetics.
+
+PMID: 2106471  [PubMed - indexed for MEDLINE]
+
+
