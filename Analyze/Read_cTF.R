@@ -45,15 +45,18 @@ library ("Biobase")
 
 # ====  ANALYSIS  ====================================================
 
-# Building an ExpressionSet from Scratch
-# Collect Gsx data into a matrix. Assume the Gsx data is in a tab-delimited text file (exported from a spreadsheet).
-cTFFile <- "/Users/amatulah/Desktop/BCB420/dev/Analyze/ReadcTF/TFdata.txt"
+# Collect cTF data into a matrix. Assume the cTF data is in a tab-delimited text file (exported from a spreadsheet).
+
+setwd(paste(DEVDIR, "/Analyze", sep=""))
+
+source("RANK.R")
+
 cTF <- as.matrix(read.table(cTFFile, header=TRUE, sep="\t", #the argument becomes sep=","
                               row.names=1,
                               as.is=TRUE))
 
 # Dermining the top-ranked TFs.
-top <- cTF[cTF>3] # extract all top-ranked TFs. Testing with the value 3 here from the sample dataset.
+top <- cTF[cTF<100] # extract top 100 ranked TFs.
 sorted <- sort(top, decreasing = FALSE) # sort in increasing order. Those with lowest rank are predicted to be involved in a cell conversion.
 cat(sorted,file="top.txt",sep="\t") # write file to .txt
 file.show("top.txt")
