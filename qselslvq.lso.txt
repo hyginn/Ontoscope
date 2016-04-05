@@ -1,0 +1,551 @@
+﻿added first iteration of gene set enrichment using KEGG pathways and input from CONTRAST
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    .Rhistory
+#	deleted:    .gitignore
+#	deleted:    Analyze/Abstracts/.RData
+#	deleted:    Analyze/Abstracts/.Rhistory
+#	deleted:    Analyze/Abstracts/AFF1.txt
+#	deleted:    Analyze/Abstracts/AFF2.txt
+#	deleted:    Analyze/Abstracts/AFF3.txt
+#	deleted:    Analyze/Abstracts/AHR.txt
+#	deleted:    Analyze/Abstracts/AIRE.txt
+#	deleted:    Analyze/Abstracts/ALX1.txt
+#	deleted:    Analyze/Abstracts/ALX4.txt
+#	deleted:    Analyze/Abstracts/AR.txt
+#	deleted:    Analyze/Abstracts/ARID1B.txt
+#	deleted:    Analyze/Abstracts/ARID2.txt
+#	deleted:    Analyze/Abstracts/ARID3A.txt
+#	deleted:    Analyze/Abstracts/ARID4A.txt
+#	deleted:    Analyze/Abstracts/ARNT.txt
+#	deleted:    Analyze/Abstracts/ARNT2.txt
+#	deleted:    Analyze/Abstracts/ARNTL.txt
+#	deleted:    Analyze/Abstracts/ARX.txt
+#	deleted:    Analyze/Abstracts/ASCL1.txt
+#	deleted:    Analyze/Abstracts/ATF2.txt
+#	deleted:    Analyze/Abstracts/ATF3.txt
+#	deleted:    Analyze/Abstracts/ATF4.txt
+#	deleted:    Analyze/Abstracts/ATF5.txt
+#	deleted:    Analyze/Abstracts/ATF7.txt
+#	deleted:    Analyze/Abstracts/ATOH1.txt
+#	deleted:    Analyze/Abstracts/BACH1.txt
+#	deleted:    Analyze/Abstracts/BACH2.txt
+#	deleted:    Analyze/Abstracts/BARX2.txt
+#	deleted:    Analyze/Abstracts/BATF.txt
+#	deleted:    Analyze/Abstracts/BAZ2B.txt
+#	deleted:    Analyze/Abstracts/BCL11A.txt
+#	deleted:    Analyze/Abstracts/BCL3.txt
+#	deleted:    Analyze/Abstracts/BCL6.txt
+#	deleted:    Analyze/Abstracts/BDP1.txt
+#	deleted:    Analyze/Abstracts/BHLHA15.txt
+#	deleted:    Analyze/Abstracts/BHLHB2.txt
+#	deleted:    Analyze/Abstracts/BHLHB3.txt
+#	deleted:    Analyze/Abstracts/BNC1.txt
+#	deleted:    Analyze/Abstracts/BNC2.txt
+#	deleted:    Analyze/Abstracts/BPTF.txt
+#	deleted:    Analyze/Abstracts/CAMTA1.txt
+#	deleted:    Analyze/Abstracts/CAMTA2.txt
+#	deleted:    Analyze/Abstracts/CCNT2.txt
+#	deleted:    Analyze/Abstracts/CDK9.txt
+#	deleted:    Analyze/Abstracts/CDX1.txt
+#	deleted:    Analyze/Abstracts/CDX2.txt
+#	deleted:    Analyze/Abstracts/CEBPA.txt
+#	deleted:    Analyze/Abstracts/CEBPB.txt
+#	deleted:    Analyze/Abstracts/CEBPD.txt
+#	deleted:    Analyze/Abstracts/CEBPE.txt
+#	deleted:    Analyze/Abstracts/CEBPZ.txt
+#	deleted:    Analyze/Abstracts/CERS3.txt
+#	deleted:    Analyze/Abstracts/CIC.txt
+#	deleted:    Analyze/Abstracts/CLOCK.txt
+#	deleted:    Analyze/Abstracts/COPS2.txt
+#	deleted:    Analyze/Abstracts/CREB1.txt
+#	deleted:    Analyze/Abstracts/CREB3.txt
+#	deleted:    Analyze/Abstracts/CREB3L1.txt
+#	deleted:    Analyze/Abstracts/CREB3L3.txt
+#	deleted:    Analyze/Abstracts/CREB3L4.txt
+#	deleted:    Analyze/Abstracts/CREM.txt
+#	deleted:    Analyze/Abstracts/CRX.txt
+#	deleted:    Analyze/Abstracts/CTBP2.txt
+#	deleted:    Analyze/Abstracts/CTCF.txt
+#	deleted:    Analyze/Abstracts/CUX1.txt
+#	deleted:    Analyze/Abstracts/CUX2.txt
+#	deleted:    Analyze/Abstracts/DBP.txt
+#	deleted:    Analyze/Abstracts/DDIT3.txt
+#	deleted:    Analyze/Abstracts/DLX1.txt
+#	deleted:    Analyze/Abstracts/DLX2.txt
+#	deleted:    Analyze/Abstracts/DLX3.txt
+#	deleted:    Analyze/Abstracts/DLX4.txt
+#	deleted:    Analyze/Abstracts/DLX5.txt
+#	deleted:    Analyze/Abstracts/DMBX1.txt
+#	deleted:    Analyze/Abstracts/DMRT2.txt
+#	deleted:    Analyze/Abstracts/DMRTA1.txt
+#	deleted:    Analyze/Abstracts/DMTF1.txt
+#	deleted:    Analyze/Abstracts/DNAJC21.txt
+#	deleted:    Analyze/Abstracts/DRAP1.txt
+#	deleted:    Analyze/Abstracts/DZIP1.txt
+#	deleted:    Analyze/Abstracts/E2F1.txt
+#	deleted:    Analyze/Abstracts/E2F2.txt
+#	deleted:    Analyze/Abstracts/E2F4.txt
+#	deleted:    Analyze/Abstracts/E2F6.txt
+#	deleted:    Analyze/Abstracts/E2F7.txt
+#	deleted:    Analyze/Abstracts/EGR1.txt
+#	deleted:    Analyze/Abstracts/EGR2.txt
+#	deleted:    Analyze/Abstracts/EGR4.txt
+#	deleted:    Analyze/Abstracts/EHF.txt
+#	deleted:    Analyze/Abstracts/ELF1.txt
+#	deleted:    Analyze/Abstracts/ELF2.txt
+#	deleted:    Analyze/Abstracts/ELF3.txt
+#	deleted:    Analyze/Abstracts/ELF4.txt
+#	deleted:    Analyze/Abstracts/ELF5.txt
+#	deleted:    Analyze/Abstracts/ELK1.txt
+#	deleted:    Analyze/Abstracts/ELK3.txt
+#	deleted:    Analyze/Abstracts/ELK4.txt
+#	deleted:    Analyze/Abstracts/EN1.txt
+#	deleted:    Analyze/Abstracts/EN2.txt
+#	deleted:    Analyze/Abstracts/EOMES.txt
+#	deleted:    Analyze/Abstracts/EP300.txt
+#	deleted:    Analyze/Abstracts/EPAS1.txt
+#	deleted:    Analyze/Abstracts/ERF.txt
+#	deleted:    Analyze/Abstracts/ERG.txt
+#	deleted:    Analyze/Abstracts/ESR1.txt
+#	deleted:    Analyze/Abstracts/ESR2.txt
+#	deleted:    Analyze/Abstracts/ESRRA.txt
+#	deleted:    Analyze/Abstracts/ESRRB.txt
+#	deleted:    Analyze/Abstracts/ESRRG.txt
+#	deleted:    Analyze/Abstracts/ETS1.txt
+#	deleted:    Analyze/Abstracts/ETS2.txt
+#	deleted:    Analyze/Abstracts/ETV1.txt
+#	deleted:    Analyze/Abstracts/ETV3.txt
+#	deleted:    Analyze/Abstracts/ETV4.txt
+#	deleted:    Analyze/Abstracts/ETV5.txt
+#	deleted:    Analyze/Abstracts/EVI1.txt
+#	deleted:    Analyze/Abstracts/EVX1.txt
+#	deleted:    Analyze/Abstracts/EWSR1.txt
+#	deleted:    Analyze/Abstracts/EZH2.txt
+#	deleted:    Analyze/Abstracts/FEV.txt
+#	deleted:    Analyze/Abstracts/FIGLA.txt
+#	deleted:    Analyze/Abstracts/FLI1.txt
+#	deleted:    Analyze/Abstracts/FOS.txt
+#	deleted:    Analyze/Abstracts/FOSB.txt
+#	deleted:    Analyze/Abstracts/FOSL1.txt
+#	deleted:    Analyze/Abstracts/FOSL2.txt
+#	deleted:    Analyze/Abstracts/FOXA1.txt
+#	deleted:    Analyze/Abstracts/FOXA2.txt
+#	deleted:    Analyze/Abstracts/FOXB1.txt
+#	deleted:    Analyze/Abstracts/FOXC1.txt
+#	deleted:    Analyze/Abstracts/FOXD1.txt
+#	deleted:    Analyze/Abstracts/FOXD3.txt
+#	deleted:    Analyze/Abstracts/FOXG1.txt
+#	deleted:    Analyze/Abstracts/FOXH1.txt
+#	deleted:    Analyze/Abstracts/FOXI1.txt
+#	deleted:    Analyze/Abstracts/FOXJ2.txt
+#	deleted:    Analyze/Abstracts/FOXK1.txt
+#	deleted:    Analyze/Abstracts/FOXL2.txt
+#	deleted:    Analyze/Abstracts/FOXM1.txt
+#	deleted:    Analyze/Abstracts/FOXP1.txt
+#	deleted:    Analyze/Abstracts/FOXP2.txt
+#	deleted:    Analyze/Abstracts/FOXP3.txt
+#	deleted:    Analyze/Abstracts/FOXP4.txt
+#	deleted:    Analyze/Abstracts/GABPA.txt
+#	deleted:    Analyze/Abstracts/GATA1.txt
+#	deleted:    Analyze/Abstracts/GATA2.txt
+#	deleted:    Analyze/Abstracts/GATA3.txt
+#	deleted:    Analyze/Abstracts/GATA4.txt
+#	deleted:    Analyze/Abstracts/GATA5.txt
+#	deleted:    Analyze/Abstracts/GATA6.txt
+#	deleted:    Analyze/Abstracts/GATAD2A.txt
+#	deleted:    Analyze/Abstracts/GBX2.txt
+#	deleted:    Analyze/Abstracts/GCM1.txt
+#	deleted:    Analyze/Abstracts/GCM2.txt
+#	deleted:    Analyze/Abstracts/GFI1.txt
+#	deleted:    Analyze/Abstracts/GLI1.txt
+#	deleted:    Analyze/Abstracts/GLI2.txt
+#	deleted:    Analyze/Abstracts/GLI3.txt
+#	deleted:    Analyze/Abstracts/GLIS1.txt
+#	deleted:    Analyze/Abstracts/GLIS2.txt
+#	deleted:    Analyze/Abstracts/GMEB1.txt
+#	deleted:    Analyze/Abstracts/GMEB2.txt
+#	deleted:    Analyze/Abstracts/GSC.txt
+#	deleted:    Analyze/Abstracts/GSX1.txt
+#	deleted:    Analyze/Abstracts/GSX2.txt
+#	deleted:    Analyze/Abstracts/GTF2H2.txt
+#	deleted:    Analyze/Abstracts/GTF2I.txt
+#	deleted:    Analyze/Abstracts/GTF3A.txt
+#	deleted:    Analyze/Abstracts/HAND1.txt
+#	deleted:    Analyze/Abstracts/HAND2.txt
+#	deleted:    Analyze/Abstracts/HCFC1.txt
+#	deleted:    Analyze/Abstracts/HDAC1.txt
+#	deleted:    Analyze/Abstracts/HDAC2.txt
+#	deleted:    Analyze/Abstracts/HDAC6.txt
+#	deleted:    Analyze/Abstracts/HELT.txt
+#	deleted:    Analyze/Abstracts/HES2.txt
+#	deleted:    Analyze/Abstracts/HES3.txt
+#	deleted:    Analyze/Abstracts/HES5.txt
+#	deleted:    Analyze/Abstracts/HES6.txt
+#	deleted:    Analyze/Abstracts/HHEX.txt
+#	deleted:    Analyze/Abstracts/HIC1.txt
+#	deleted:    Analyze/Abstracts/HIF1A.txt
+#	deleted:    Analyze/Abstracts/HIVEP1.txt
+#	deleted:    Analyze/Abstracts/HIVEP2.txt
+#	deleted:    Analyze/Abstracts/HIVEP3.txt
+#	deleted:    Analyze/Abstracts/HLF.txt
+#	deleted:    Analyze/Abstracts/HMGA1.txt
+#	deleted:    Analyze/Abstracts/HMGB1.txt
+#	deleted:    Analyze/Abstracts/HMGB2.txt
+#	deleted:    Analyze/Abstracts/HMGN3.txt
+#	deleted:    Analyze/Abstracts/HMX2.txt
+#	deleted:    Analyze/Abstracts/HNF1A.txt
+#	deleted:    Analyze/Abstracts/HNF1B.txt
+#	deleted:    Analyze/Abstracts/HNF4A.txt
+#	deleted:    Analyze/Abstracts/HOPX.txt
+#	deleted:    Analyze/Abstracts/HOXA1.txt
+#	deleted:    Analyze/Abstracts/HOXA10.txt
+#	deleted:    Analyze/Abstracts/HOXA11.txt
+#	deleted:    Analyze/Abstracts/HOXA2.txt
+#	deleted:    Analyze/Abstracts/HOXA3.txt
+#	deleted:    Analyze/Abstracts/HOXA5.txt
+#	deleted:    Analyze/Abstracts/HOXA7.txt
+#	deleted:    Analyze/Abstracts/HOXA9.txt
+#	deleted:    Analyze/Abstracts/HOXB1.txt
+#	deleted:    Analyze/Abstracts/HOXB13.txt
+#	deleted:    Analyze/Abstracts/HOXB2.txt
+#	deleted:    Analyze/Abstracts/HOXB3.txt
+#	deleted:    Analyze/Abstracts/HOXB4.txt
+#	deleted:    Analyze/Abstracts/HOXB5.txt
+#	deleted:    Analyze/Abstracts/HOXB6.txt
+#	deleted:    Analyze/Abstracts/HOXB7.txt
+#	deleted:    Analyze/Abstracts/HOXB8.txt
+#	deleted:    Analyze/Abstracts/HOXB9.txt
+#	deleted:    Analyze/Abstracts/HOXC10.txt
+#	deleted:    Analyze/Abstracts/HOXC11.txt
+#	deleted:    Analyze/Abstracts/HOXC4.txt
+#	deleted:    Analyze/Abstracts/HOXC6.txt
+#	deleted:    Analyze/Abstracts/HOXD10.txt
+#	deleted:    Analyze/Abstracts/HOXD13.txt
+#	deleted:    Analyze/Abstracts/HOXD3.txt
+#	deleted:    Analyze/Abstracts/HOXD4.txt
+#	deleted:    Analyze/Abstracts/HOXD9.txt
+#	deleted:    Analyze/Abstracts/HSF1.txt
+#	deleted:    Analyze/Abstracts/HSF4.txt
+#	deleted:    Analyze/Abstracts/ID3.txt
+#	deleted:    Analyze/Abstracts/ID4.txt
+#	deleted:    Analyze/Abstracts/IKZF1.txt
+#	deleted:    Analyze/Abstracts/IKZF3.txt
+#	deleted:    Analyze/Abstracts/IRF1.txt
+#	deleted:    Analyze/Abstracts/IRF2.txt
+#	deleted:    Analyze/Abstracts/IRF3.txt
+#	deleted:    Analyze/Abstracts/IRF5.txt
+#	deleted:    Analyze/Abstracts/IRF7.txt
+#	deleted:    Analyze/Abstracts/IRF8.txt
+#	deleted:    Analyze/Abstracts/IRF9.txt
+#	deleted:    Analyze/Abstracts/IRX6.txt
+#	deleted:    Analyze/Abstracts/JUN.txt
+#	deleted:    Analyze/Abstracts/KLF11.txt
+#	deleted:    Analyze/Abstracts/L3MBTL4.txt
+#	deleted:    Analyze/Abstracts/LCOR.txt
+#	deleted:    Analyze/Abstracts/LHX5.txt
+#	deleted:    Analyze/Abstracts/LHX8.txt
+#	deleted:    Analyze/Abstracts/LHX9.txt
+#	deleted:    Analyze/Abstracts/LIN28B.txt
+#	deleted:    Analyze/Abstracts/MRPL28.txt
+#	deleted:    Analyze/Abstracts/MYNN.txt
+#	deleted:    Analyze/Abstracts/NEUROG1.txt
+#	deleted:    Analyze/Abstracts/NKX2-2.txt
+#	deleted:    Analyze/Abstracts/NOTO.txt
+#	deleted:    Analyze/Abstracts/NR1D2.txt
+#	deleted:    Analyze/Abstracts/NR2C2.txt
+#	deleted:    Analyze/Abstracts/NR3C2.txt
+#	deleted:    Analyze/Abstracts/PHF20.txt
+#	deleted:    Analyze/Abstracts/POU1F1.txt
+#	deleted:    Analyze/Abstracts/PRDM12.txt
+#	deleted:    Analyze/Abstracts/PRDM14.txt
+#	deleted:    Analyze/Abstracts/PRDM15.txt
+#	deleted:    Analyze/Abstracts/RARA.txt
+#	deleted:    Analyze/Abstracts/RCOR3.txt
+#	deleted:    Analyze/Abstracts/RERE.txt
+#	deleted:    Analyze/Abstracts/SETDB2.txt
+#	deleted:    Analyze/Abstracts/SHOX.txt
+#	deleted:    Analyze/Abstracts/SMARCC1.txt
+#	deleted:    Analyze/Abstracts/SMARCC2.txt
+#	deleted:    Analyze/Abstracts/SOX6.txt
+#	deleted:    Analyze/Abstracts/SOX7.txt
+#	deleted:    Analyze/Abstracts/SOX9.txt
+#	deleted:    Analyze/Abstracts/SP1.txt
+#	deleted:    Analyze/Abstracts/SP100.txt
+#	deleted:    Analyze/Abstracts/SP110.txt
+#	deleted:    Analyze/Abstracts/SP140.txt
+#	deleted:    Analyze/Abstracts/SP2.txt
+#	deleted:    Analyze/Abstracts/SP3.txt
+#	deleted:    Analyze/Abstracts/SP4.txt
+#	deleted:    Analyze/Abstracts/SP5.txt
+#	deleted:    Analyze/Abstracts/SP6.txt
+#	deleted:    Analyze/Abstracts/SP7.txt
+#	deleted:    Analyze/Abstracts/SPDEF.txt
+#	deleted:    Analyze/Abstracts/SPIB.txt
+#	deleted:    Analyze/Abstracts/SPIC.txt
+#	deleted:    Analyze/Abstracts/SPZ1.txt
+#	deleted:    Analyze/Abstracts/SREBF1.txt
+#	deleted:    Analyze/Abstracts/SRF.txt
+#	deleted:    Analyze/Abstracts/SRY.txt
+#	deleted:    Analyze/Abstracts/SSRP1.txt
+#	deleted:    Analyze/Abstracts/STAT1.txt
+#	deleted:    Analyze/Abstracts/STAT3.txt
+#	deleted:    Analyze/Abstracts/STAT4.txt
+#	deleted:    Analyze/Abstracts/STAT5A.txt
+#	deleted:    Analyze/Abstracts/STAT5B.txt
+#	deleted:    Analyze/Abstracts/STAT6.txt
+#	deleted:    Analyze/Abstracts/SUPT5H.txt
+#	deleted:    Analyze/Abstracts/SUZ12.txt
+#	deleted:    Analyze/Abstracts/T.txt
+#	deleted:    Analyze/Abstracts/TAF7.txt
+#	deleted:    Analyze/Abstracts/TAL1.txt
+#	deleted:    Analyze/Abstracts/TBR1.txt
+#	deleted:    Analyze/Abstracts/TBX1.txt
+#	deleted:    Analyze/Abstracts/TBX19.txt
+#	deleted:    Analyze/Abstracts/TBX2.txt
+#	deleted:    Analyze/Abstracts/TBX20.txt
+#	deleted:    Analyze/Abstracts/TBX21.txt
+#	deleted:    Analyze/Abstracts/TBX3.txt
+#	deleted:    Analyze/Abstracts/TBX5.txt
+#	deleted:    Analyze/Abstracts/TBX6.txt
+#	deleted:    Analyze/Abstracts/TCF12.txt
+#	deleted:    Analyze/Abstracts/TCF20.txt
+#	deleted:    Analyze/Abstracts/TCF3.txt
+#	deleted:    Analyze/Abstracts/TCF4.txt
+#	deleted:    Analyze/Abstracts/TCF7.txt
+#	deleted:    Analyze/Abstracts/TCF7L2.txt
+#	deleted:    Analyze/Abstracts/TEAD1.txt
+#	deleted:    Analyze/Abstracts/TEAD2.txt
+#	deleted:    Analyze/Abstracts/TEAD3.txt
+#	deleted:    Analyze/Abstracts/TEAD4.txt
+#	deleted:    Analyze/Abstracts/TEF.txt
+#	deleted:    Analyze/Abstracts/TFAM.txt
+#	deleted:    Analyze/Abstracts/TFAP2A.txt
+#	deleted:    Analyze/Abstracts/TFAP2B.txt
+#	deleted:    Analyze/Abstracts/TFAP2C.txt
+#	deleted:    Analyze/Abstracts/TFDP1.txt
+#	deleted:    Analyze/Abstracts/TFEB.txt
+#	deleted:    Analyze/Abstracts/TGIF1.txt
+#	deleted:    Analyze/Abstracts/TGIF2LX.txt
+#	deleted:    Analyze/Abstracts/THRA.txt
+#	deleted:    Analyze/Abstracts/THRB.txt
+#	deleted:    Analyze/Abstracts/TLX1.txt
+#	deleted:    Analyze/Abstracts/TLX2.txt
+#	deleted:    Analyze/Abstracts/TOPORS.txt
+#	deleted:    Analyze/Abstracts/TP73.txt
+#	deleted:    Analyze/Abstracts/TPRX1.txt
+#	deleted:    Analyze/Abstracts/TRIM28.txt
+#	deleted:    Analyze/Abstracts/TTF1.txt
+#	deleted:    Analyze/Abstracts/TWIST1.txt
+#	deleted:    Analyze/Abstracts/TWIST2.txt
+#	deleted:    Analyze/Abstracts/Transcription Factor List.txt
+#	deleted:    Analyze/Abstracts/UBTF.txt
+#	deleted:    Analyze/Abstracts/USF1.txt
+#	deleted:    Analyze/Abstracts/USF2.txt
+#	deleted:    Analyze/Abstracts/UTF1.txt
+#	deleted:    Analyze/Abstracts/VDR.txt
+#	deleted:    Analyze/Abstracts/VEZF1.txt
+#	deleted:    Analyze/Abstracts/VSX1.txt
+#	deleted:    Analyze/Abstracts/VSX2.txt
+#	deleted:    Analyze/Abstracts/WT1.txt
+#	deleted:    Analyze/Abstracts/XBP1.txt
+#	deleted:    Analyze/Abstracts/YBX1.txt
+#	deleted:    Analyze/Abstracts/ZBTB17.txt
+#	deleted:    Analyze/Abstracts/ZBTB20.txt
+#	deleted:    Analyze/Abstracts/ZBTB33.txt
+#	deleted:    Analyze/Abstracts/ZBTB4.txt
+#	deleted:    Analyze/Abstracts/ZBTB7B.txt
+#	deleted:    Analyze/Abstracts/ZEB1.txt
+#	deleted:    Analyze/Abstracts/ZFP161.txt
+#	deleted:    Analyze/Abstracts/ZFP64.txt
+#	deleted:    Analyze/Abstracts/ZFP90.txt
+#	deleted:    Analyze/Abstracts/ZIC2.txt
+#	deleted:    Analyze/Abstracts/ZIC3.txt
+#	deleted:    Analyze/Abstracts/ZIC5.txt
+#	deleted:    Analyze/Abstracts/ZKSCAN3.txt
+#	deleted:    Analyze/Abstracts/ZNF121.txt
+#	deleted:    Analyze/Abstracts/ZNF143.txt
+#	deleted:    Analyze/Abstracts/ZNF16.txt
+#	deleted:    Analyze/Abstracts/ZNF189.txt
+#	deleted:    Analyze/Abstracts/ZNF195.txt
+#	deleted:    Analyze/Abstracts/ZNF205.txt
+#	deleted:    Analyze/Abstracts/ZNF217.txt
+#	deleted:    Analyze/Abstracts/ZSCAN21.txt
+#	deleted:    Analyze/Abstracts/dataout.txt
+#	deleted:    Analyze/Abstracts/newabs.txt
+#	deleted:    Analyze/PubmedMiner.R
+#	deleted:    Analyze/Read_Gsx.R
+#	deleted:    Analyze/Read_cTF.R
+#	deleted:    Analyze/TF_database.RData
+#	deleted:    Analyze/TFdata.txt
+#	deleted:    Analyze/TRRUST_network.R
+#	deleted:    Analyze/Visualization.R
+#	deleted:    Analyze/fantomTFs.RData
+#	deleted:    Analyze/trrust_rawdata.txt
+#	deleted:    Assess/Assess.R
+#	deleted:    Assess/Transcription Factor List.txt
+#	deleted:    MARA.RData
+#	deleted:    Normalize_TF.rar
+#	deleted:    Normalize_TF/DBD_TFs.csv
+#	deleted:    Normalize_TF/ENCODE_TF_ABDerived.csv
+#	deleted:    Normalize_TF/FANTOM5_TFList.csv
+#	deleted:    Normalize_TF/NormalizeTF.R
+#	deleted:    Normalize_TF/TFCatA.csv
+#	deleted:    Normalize_TF/TFCatB.csv
+#	deleted:    Normalize_TF/Transcription Factor List.txt
+#	deleted:    Ontoscope.Rproj
+#	deleted:    RANK/.RData
+#	deleted:    RANK/.Rhistory
+#	deleted:    RANK/OntoscopeRank.R
+#	deleted:    README.md
+#	deleted:    REGNET/REGNET.R
+#	deleted:    REGNET/REGNET_HIGH_CONF.csv
+#	deleted:    REGNET/REGNET_LOW_CONF.csv
+#	deleted:    REGNET/REGNET_MEDIUM_CONF.csv
+#	deleted:    Read_Gsx.R
+#	deleted:    Read_cTF.R
+#	deleted:    TRRUST_network/README.md
+#	deleted:    TRRUST_network/TRRUST_network.R
+#	deleted:    TRRUST_network/trrust_rawdata.txt
+#	deleted:    TRRUST_network/weave/README.md
+#	deleted:    TRRUST_network/weave/trrust_1.RData
+#	deleted:    TRRUST_network/weave/trrust_2.RData
+#	deleted:    TRRUST_network/workflow/README.md
+#	deleted:    TRRUST_network/workflow/TRRUST_workflow.R
+#	deleted:    TRRUST_network/workflow/ex_2.R
+#	deleted:    TRRUST_network/workflow/ex_3_and_4.R
+#	deleted:    VALIDATE/OntoscopeValidate.R
+#	deleted:    VALIDATE/dDataset.Rdata
+#	deleted:    VALIDATE/maraConversions.RData
+#	deleted:    VALIDATE/mogrifyConversions.RData
+#	deleted:    VALIDATE/publishedConversions.RData
+#	deleted:    VALIDATE/stringConversions.RData
+#	deleted:    WEAVE/9606.protein.links.detailed.v10.txt.gz
+#	deleted:    WEAVE/WEAVE-STRING.R
+#	deleted:    codeTemplate.R
+#	deleted:    contrast/README.md
+#	deleted:    contrast/contrast.R
+#	deleted:    contrast/sample.csv
+#	deleted:    contrast/sample1_contrast.RData
+#	deleted:    enrichr/enrichr.R
+#	deleted:    enrichr/libraries.Rda
+#	deleted:    fantom_import/RData_Samples/README.md
+#	deleted:    fantom_import/RData_Samples/fantomCounts_11.RData
+#	deleted:    fantom_import/RData_Samples/fantomCounts_114.RData
+#	deleted:    fantom_import/RData_Samples/fantomCounts_73.RData
+#	deleted:    fantom_import/RData_Samples/fantomCounts_filtered.RData
+#	deleted:    fantom_import/README.md
+#	deleted:    fantom_import/Sample_DB.txt
+#	deleted:    fantom_import/TF_database.RData
+#	deleted:    fantom_import/fantomOffline/?c=0&c=1&c=4&c=5&c=6&c=57&filename=hg19.cage_peak_phase1and2combined_counts_ann_decoded.osc.txt.gz
+#	deleted:    fantom_import/fantomOffline/?c=0&c=1&c=4&c=5&c=6&c=89&filename=hg19.cage_peak_phase1and2combined_counts_ann_decoded.osc.txt.gz
+#	deleted:    fantom_import/fantomOffline/README.md
+#	deleted:    fantom_import/fantom_main.R
+#	deleted:    fantom_import/getBED/BED_DB.RData
+#	deleted:    fantom_import/getBED/README.md
+#	deleted:    fantom_import/getBED/getBED.R
+#	deleted:    fantom_import/getJaspar/README.md
+#	deleted:    fantom_import/getJaspar/getJaspar.js
+#	deleted:    fantom_import/getJaspar/package.json
+#	deleted:    fantom_import/getJaspar/webpack.config.js
+#	deleted:    gather/README.md
+#	deleted:    gather/gather.R
+#	deleted:    nicePath/README.md
+#	deleted:    nicePath/level1/hot.csv
+#	deleted:    nicePath/level1/level2/cool.csv
+#	deleted:    nicePath/level1/level2/nestee.R
+#	deleted:    nicePath/runner.R
+#	deleted:    normalize/normalizeGenes.R
+#	deleted:    normalize/normalizeRegnetwork.R
+#	deleted:    normalize/normalizeWeave.R
+#	deleted:    phylify/COdat.RData
+#	deleted:    phylify/ID_database.RData
+#	deleted:    phylify/README.md
+#	deleted:    phylify/Sample_DB.txt
+#	deleted:    phylify/fantom_ont_conv/ID_database.RData
+#	deleted:    phylify/fantom_ont_conv/README.md
+#	deleted:    phylify/fantom_ont_conv/fantom_ont_conv.R
+#	deleted:    phylify/ff-phase2-140729.obo
+#	deleted:    phylify/getMogrifyCNhs/README.md
+#	deleted:    phylify/getMogrifyCNhs/get.js
+#	deleted:    phylify/getMogrifyCNhs/mogrify-cellIDs.json
+#	deleted:    phylify/getMogrifyCNhs/package.json
+#	deleted:    phylify/getMogrifyCells/README.md
+#	deleted:    phylify/getMogrifyCells/get.js
+#	deleted:    phylify/getMogrifyCells/mogrify-cellIDs.json
+#	deleted:    phylify/getMogrifyCells/package.json
+#	deleted:    phylify/obo-heuristic.md
+#	deleted:    phylify/ontology-explorer.r
+#	deleted:    phylify/plots/01_DESeqable.png
+#	deleted:    phylify/plots/02_FF*.png
+#	deleted:    phylify/plots/03_FFNums.png
+#	deleted:    phylify/plots/04_FFNums+DESeqable.png
+#	deleted:    phylify/plots/05_mogrifyIDs.png
+#	deleted:    phylify/plots/06_mogrifyIDs+DESqable.png
+#	deleted:    phylify/samples/HumanSamples2.0.sdrf.csv
+#	deleted:    phylify/samples/MouseSamples2.0.sdrf.csv
+#	deleted:    phylify/workflow.r
+#	deleted:    prof_utils.R
+#	deleted:    regnetwork/ENCODE
+#	deleted:    regnetwork/human.node
+#	deleted:    regnetwork/human.source
+#	deleted:    runOntoscope.R
+#	deleted:    trrust_rawdata.txt
+#
+# Untracked files:
+#	.Rhistory
+#	.gitignore
+#	2016-04-05_test-quant_Chromosome_Location.csv
+#	2016-04-05_test-quant_ENCODE_TF_ChIP-seq_2015.csv
+#	2016-04-05_test-quant_GO_Biological_Process_2015.csv
+#	2016-04-05_test-quant_GO_Cellular_Component_2015.csv
+#	2016-04-05_test-quant_GO_Molecular_Function_2015.csv
+#	2016-04-05_test-quant_KEGG_2015.csv
+#	2016-04-05_test-quant_Reactome_2015.csv
+#	2016-04-05_test-quant_TRANSFAC_and_JASPAR_PWMs.csv
+#	2016-04-05_test-quant_Tissue_Protein_Expression_from_Human_Proteome_Map.csv
+#	2016-04-05_test-quant_WikiPathways_2015.csv
+#	2016-04-05_test-reg_Chromosome_Location.csv
+#	2016-04-05_test-reg_ENCODE_TF_ChIP-seq_2015.csv
+#	2016-04-05_test-reg_GO_Biological_Process_2015.csv
+#	2016-04-05_test-reg_GO_Cellular_Component_2015.csv
+#	2016-04-05_test-reg_GO_Molecular_Function_2015.csv
+#	2016-04-05_test-reg_KEGG_2015.csv
+#	2016-04-05_test-reg_Reactome_2015.csv
+#	2016-04-05_test-reg_TRANSFAC_and_JASPAR_PWMs.csv
+#	2016-04-05_test-reg_Tissue_Protein_Expression_from_Human_Proteome_Map.csv
+#	2016-04-05_test-reg_WikiPathways_2015.csv
+#	Analyze/
+#	Assess/
+#	MARA.RData
+#	Normalize_TF.rar
+#	Normalize_TF/
+#	Ontoscope.Rproj
+#	RANK/
+#	README.md
+#	REGNET/
+#	Read_Gsx.R
+#	Read_cTF.R
+#	TRRUST_network/
+#	VALIDATE/
+#	WEAVE/
+#	annotate/
+#	codeTemplate.R
+#	contrast/
+#	enrichr/
+#	fantom_import/
+#	gather/
+#	nicePath/
+#	normalize/
+#	phylify/
+#	prof_utils.R
+#	regnetwork/
+#	runOntoscope.R
+#	trrust_rawdata.txt
+#
+

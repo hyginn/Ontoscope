@@ -20,7 +20,7 @@
 #
 baseURL <- "http://amp.pharm.mssm.edu/Enrichr"  #baseURL
 URL <- sprintf('%s%s', baseURL, "/addList")     #URL
-load("~/DAVIS/libraries.Rda")
+load("./enrichr/libraries.Rda")
 featuregeneset <- c("2","6","10","11","12","25","26","27","55","57")
 
 # ====  PACKAGES  ====================================================
