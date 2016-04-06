@@ -31,73 +31,105 @@ setwd(paste(DEVDIR, "/Assess", sep=""))
 
 # load required data: Transcription factor list, STRGRAPH (for getTFSubgraph()), Gsx score list
 
-TF_List = read.table("Transcription Factor List.txt")
+TF_List <- read.table("Transcription Factor List.txt")
 # read gene scores Gsx TO ADD
 
 load(paste(DEVDIR, "/contrast/sample1_contrast.RData", sep="")) 
+# ====================================================================
+#packages
+
+if (!require(igraph, quietly=TRUE)) {
+  install.packages("igraph")
+  library(igraph)
+}
+
+if (!require(biomaRt)) {
+  source("http://bioconductor.org/biocLite.R")
+  biocLite("biomaRt")
+  library("biomaRt")
+}
 
 # ====================================================================
 #functions
 
 getTFscore <- function(TF, order=1) {
-  
+  TF_score <- 0
   #plot subgraph using tf
-  sub_s = getTFSubgraph(tf)
+  sub_s <- getTFSubgraph(TF)
   #assume that one subgraph is created. Will figure out later for multiple cases
-  sub = sub_s[[1]]
+  sub <- sub_s[[1]]
   #use the subgraph to go through every gene in transcription factor's sphere of influence 
   
   
   for (j in 1:length(V(sub)$name)){
     #find every individual gene
-    gene = V(sub)$name[j]
-    #acquire gene from Gsx score table
-    Gsx = gsx_fantomCounts_500g_5s$gsx[levels(gsx_fantomCounts_500g_5s$gene)== j]
-    #Find the distance away from TF
-    Lrn = shortest.paths(graph = sub, v = gene, to = TF)[1]
-    #Find the parent of gene distance from TF
-    Orn = length(neighbors(sub, tf, mode = 1))
-    #calculate score
-    Gene_score = Gsx * (1/Lrn) * (1/Orn)
+    current_gene <- V(sub)$name[j]
+    if (current_gene != TF){
+      #acquire gene from Gsx score table
+      Gsx <- gsx_fantomCounts_10Kg_6s$gsx[levels(gsx_fantomCounts_10Kg_6s$gene)== current_gene]
+      if (length(Gsx) == 0 | is.null(Gsx)  ){
+        Gsx <- 0
+      }
     
-    #attach the Gene score to subgraph data frame
-    
+      #Find the distance away from TF
+      Lrn <- shortest.paths(graph <- sub, v <- current_gene, to <- TF)[1]
+      if (Lrn == 0 | length(Lrn) == 0 ){
+        warning("Lrn is either length 0 or is 0 itself. Automatically reset Lrn to 1")
+        Lrn <- 1
+        #set Lrn to 1 and print error
+      }
+      #Find the parent of gene distance from TF
+      #Wite an if clause to check for 0 
+      parent <- get.shortest.paths(graph <- sub, from <- current_gene, to <- TF)$vpath[[1]][2]$name
+      #edges are being duplicated
+      Orn <- length(neighbors(sub, parent, mode = "all"))
+      
+      #check if Orn is 0 or length 0. Both impossible
+      if (Orn == 0 | length(Orn) == 0 ){
+        warning("Orn is either length 0 or is 0 itself. Automatically reset Orn to 1")
+        Orn <- 1
+        #set Orn to 1 and print error
+      }
+      
+      #calculate score
+      Gene_score <- Gsx * (1/Lrn) * (1/Orn)
+      if (length(Gene_score) == 0){
+        message("Gene_score equals numeric(0) for ",`current_gene`)
+        Gene_score <- 0
+      }
+      if (is.null(Gene_score)){
+        message("Gene_score equals Null for ",`current_gene`)
+        Gene_score <- 0
+      }
+      if (is.na(Gene_score)){
+        message("Gene_score equals NA for ",`current_gene`)
+        Gene_score <- 0
+      }
+      #print(current_gene)
+      #print(Gene_score)
+      TF_score <- sum(TF_score , Gene_score)
+      #attach the Gene score to subgraph data frame
+    }
   }
-  
+  print( cat("score for transcription factor", TF ,TF_score))
+  return (TF_score)
 }
 
 
 # ====================================================================
 # 
+# create a data frame into which we write transcription factors and their scores
+tf_score.df <- matrix(nrow = length(TF_List[,1]), ncol = 1, dimnames = list(c(levels(TF_List[,1])), c( "SCORE")))
+
+
+
  for (i in 1:length(TF_List[,1])){
    #acquire transcription factor 
-   tf = levels(TF_List[,])[i]
-   #plot subgraph using tf
-   sub_s = getTFSubgraph(tf)
-   #assume that one subgraph is created. Will figure out later for multiple cases
-   sub = sub_s[[1]]
-   #use the subgraph to go through every gene in transcription factor's sphere of influence 
-   
-   for (j in 1:length(V(sub)$name)){
-     #find every individual gene
-     gene = V(sub)$name[j]
-     #acquire gene from Gsx score table
-     Gsx = 1
-     #Find the distance away from TF
-     Lrn = 1
-     #Find the parent of gene distance from TF
-     Orn = 1
-     #calculate score
-     Gene_score = Gsx * (1/Lrn) * (1/Orn)
-     
-     #attach the Gene score to subgraph data frame
-     
-   }
-   
-   # sum the scores of genes (all the Gene_score values) to get a final value of TF
-   
-   #attach the value of the TF to TF_List
-   
+   tf <- levels(TF_List[,])[i]
+   # run get tf on every transcription factor and write score
+   score = getTFscore(tf)
+   #attach the score to the data frame
+   tf_score.df[tf,] = score
 }
 
 
