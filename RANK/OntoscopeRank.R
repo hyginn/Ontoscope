@@ -27,6 +27,11 @@ setwd(paste(DEVDIR, "/RANK", sep=""))
 # ====  FUNCTIONS  ===================================================
 # Define functions or source external files
 
+getTFs <- function(geneDataFrame, TFList){
+  #Retrieves transcription factors for a data frame of gene records
+  return(geneDataFrame[geneDataFrame[1,] %in% TFList,])
+}
+
 rankGenes <- function(geneScoreDataFrame, geneNumber = 100){
   #Input: 2-column Gene data frame whose first column is a gene name/ID
   #       and whose second column is a gene scores (e.g. differential expression, gene-regulatory network influence score)
@@ -81,8 +86,8 @@ rankGeneDataFrame <- function(..., rankGeneNumber = 100){
     #Initialize a new column of zero ranks at zero for every gene that belongs
     outputDataFrame[outputDataFrame$gene %in% geneRankDataFrame[,1], colnames(geneRankDataFrame)[2]] <- 0
     
-    #If a gene does not appear in a particular ranking, then it is given a score of 100
-    outputDataFrame[!(outputDataFrame$gene %in% geneRankDataFrame[,1]), colnames(geneRankDataFrame)[2]] <- 100
+    #If a gene does not appear in a particular ranking, then it is given a score of rankGeneNumber
+    outputDataFrame[!(outputDataFrame$gene %in% geneRankDataFrame[,1]), colnames(geneRankDataFrame)[2]] <- rankGeneNumber
     
     #Iterate through every gene found in the gene rank data frame
     for(gene in outputDataFrame[outputDataFrame$gene %in% geneRankDataFrame[, 1], 1]){
@@ -106,7 +111,10 @@ rankGeneDataFrame <- function(..., rankGeneNumber = 100){
   
 }
 
-compareTFDataFrame <- function(sourceTFDataFrame, targetTFDataFrame, sourceExpressionDataFrame, expressionThreshold = 20){
+compareTFDataFrame <- function(sourceTFDataFrame, 
+                               targetTFDataFrame, 
+                               sourceExpressionDataFrame = data.frame(),
+                               expressionThreshold = 20){
   #Created a "cell reprogramming" TF data frame, which contains TFs to go from the source cell type to the target cell type
   #TFs in the target cell TF data frame that are already in the source TF data frame AND are "highly" expressed (above a certain threshold)
   #are withheld from the final "cell reprogramming" TF data frame
@@ -115,6 +123,11 @@ compareTFDataFrame <- function(sourceTFDataFrame, targetTFDataFrame, sourceExpre
   #        Data frame containing gene expression levels (presumably from GATHER module) for source cell type. Column 1 = gene name. Column 2 = expression level.
   #        Expression threshold, above which a TF is considered "highly" expressed
   #Output: Ranked data frame of "cell reprogramming" TFs
+  
+  #If the expression data is missing, create a dummy set of expression data
+  if(length(sourceExpressionDataFrame) == 0){
+    sourceExpressionDataFrame <- data.frame(gene = unique(c(sourceTFDataFrame$gene, targetTFDataFrame$gene)), expression = 100, stringsAsFactors = FALSE)
+  }
   
   #Set the output "cell reprogramming" data frame as the target cell ranked TF data frame
   outputTFDataFrame <- targetTFDataFrame
@@ -140,7 +153,7 @@ pruneTFDataFrame <- function(TFDataFrame, regNetwork, coverageSimilarity = 0.98)
   rowsToRemove <- c()
   for(i in 2:nrow(TFList)){
     for(j in 1:(i-1)){
-      if(length(intersect(regulatedGenes(TFDataFrame[i,1]), regulatedGenes(TFDataFrame[j,1]))/length(regulatedGenes(TFDataFrame[i,1]))) >= coverageSimilarity){
+      if(length(intersect(regulatedGenes(TFDataFrame[i,1], regNetwork), regulatedGenes(TFDataFrame[j,1], regNetwork))/length(regulatedGenes(TFDataFrame[i,1], regNetwork))) >= coverageSimilarity){
         rowsToRemove <- c(rowsToRemove, i)
       }
     }
@@ -167,36 +180,38 @@ regulatedGenes <- function(TF,regNetwork){
 
 # ====  TESTS  =======================================================
 
-set.seed(1002807448)
+#set.seed(1002807448)
 
-contrastOutputDummySource <- data.frame(gene = paste("gene", sample(1:20,10)), gsx = rnorm(10), stringsAsFactors = FALSE)
+#contrastOutputDummySource <- data.frame(gene = paste("gene", sample(1:20,10)), gsx = rnorm(10), stringsAsFactors = FALSE)
 
-assessOutputDummySource <- data.frame(gene = paste("gene", sample(1:20,10)), tisSTRING = rnorm(10), tisMARA = rnorm(10), stringsAsFactors = FALSE)
+#assessOutputDummySource <- data.frame(gene = paste("gene", sample(1:20,10)), tisSTRING = rnorm(10), tisMARA = rnorm(10), stringsAsFactors = FALSE)
 
-contrastOutputDummyTarget <- data.frame(gene = paste("gene", sample(1:20,10)), gsx = rnorm(10), stringsAsFactors = FALSE)
+#contrastOutputDummyTarget <- data.frame(gene = paste("gene", sample(1:20,10)), gsx = rnorm(10), stringsAsFactors = FALSE)
 
-assessOutputDummyTarget <- data.frame(gene = paste("gene", sample(1:20,10)), tisSTRING = rnorm(10), tisMARA = rnorm(10), stringsAsFactors = FALSE)
+#assessOutputDummyTarget <- data.frame(gene = paste("gene", sample(1:20,10)), tisSTRING = rnorm(10), tisMARA = rnorm(10), stringsAsFactors = FALSE)
 
-sourceExpressionDummy <- data.frame(gene = paste("gene", sample(1:20,20)), expression = rnorm(20, 50, 20))
+#sourceExpressionDummy <- data.frame(gene = paste("gene", sample(1:20,20)), cellExpression = rnorm(20, 50, 20), background1  = rnorm(20, 50, 20), stringsAsFactors = FALSE)
 
-targetExpressionDummy <- data.frame(gene = paste("gene", sample(1:20,20)), expression = rnorm(20, 50, 20))
+#targetExpressionDummy <- data.frame(gene = paste("gene", sample(1:20,20)), cellExpression = rnorm(20, 50, 20), background1  = rnorm(20, 50, 20), stringsAsFactors = FALSE)
 
-cgrdfsource <- rankGenes(contrastOutputDummySource)
+#cgrdfsource <- rankGenes(contrastOutputDummySource, geneNumber = 5)
 
-agrdfsource1 <- rankGenes(assessOutputDummySource[,c(1,2)])
+#agrdfsource1 <- rankGenes(assessOutputDummySource[,c(1,2)], geneNumber = 5)
 
-agrdfsource2 <- rankGenes(assessOutputDummySource[,c(1,3)])
+#agrdfsource2 <- rankGenes(assessOutputDummySource[,c(1,3)], geneNumber = 5)
 
-cgrdftarget <- rankGenes(contrastOutputDummyTarget)
+#cgrdftarget <- rankGenes(contrastOutputDummyTarget, geneNumber = 5)
 
-agrdftarget1 <- rankGenes(assessOutputDummyTarget[,c(1,2)])
+#agrdftarget1 <- rankGenes(assessOutputDummyTarget[,c(1,2)], geneNumber = 5)
 
-agrdftarget2 <- rankGenes(assessOutputDummyTarget[,c(1,3)])
+#agrdftarget2 <- rankGenes(assessOutputDummyTarget[,c(1,3)], geneNumber = 5)
 
-rgdfsource <- rankGeneDataFrame(contrastOutputDummySource, assessOutputDummySource, rankGeneNumber = 5)
+#rgdfsource <- rankGeneDataFrame(contrastOutputDummySource, assessOutputDummySource, rankGeneNumber = 5)
 
-rgdftarget <- rankGeneDataFrame(contrastOutputDummyTarget, assessOutputDummyTarget, rankGeneNumber = 5)
+#rgdftarget <- rankGeneDataFrame(contrastOutputDummyTarget, assessOutputDummyTarget, rankGeneNumber = 5)
 
-cgdf1 <- compareTFDataFrame(rgdfsource, rgdftarget, sourceExpressionDummy, expressionThreshold = 20)
+#cgdf1 <- compareTFDataFrame(rgdfsource, rgdftarget, sourceExpressionDummy, expressionThreshold = 20)
+
+#cgdf2 <- compareTFDataFrame(rgdfsource, rgdftarget, expressionThreshold = 20)
 
 # [END]
