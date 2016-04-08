@@ -2,13 +2,14 @@
 #
 # Purpose:   Assign confidence score to TFs based on their
 #            co-occurrence with target cells in Pubmed abstracts.
-# Version:   1.0
+# Version:   1.1
 # Date:      2016-03-29
 # Authors:   Anam Qudrat and Shivani Kamdar
 #
 # Input:     List of TFs identified by Ontoscope as needed for conversion.
 #            Abstracts for each TF, derived from Pubmed (This step has already
 #            been done for you.)
+#
 # Output:    Confidence rank and score for each TF.
 #            Confidence ranks are computed as follows:
 #            i) Take each output list (ie: A, B, C, D)
@@ -36,6 +37,8 @@
 # Notes:     If anyone has further suggestions on how to rank/score these TFs,
 #            let us know and we will try to implement it!
 #
+# V 1.1:     Script will now check for TFs with no Pubmed hits and will rank
+#            and score them appropriately.
 # V 1.0:     Working version of script.
 # ===================================DEPENDS======================================
 
@@ -44,7 +47,7 @@ if(require(XML) == FALSE) {
 }
 library("XML")
 
-if(require(oubmed.mineR) == FALSE) {
+if(require(pubmed.mineR) == FALSE) {
   install.packages("pubmed.mineR")
 }
 library("pubmed.mineR")
@@ -80,8 +83,8 @@ library("pubmed.mineR")
 #uid <- esearch("AR[tw]", db='pubmed', usehistory=TRUE)
 #efetch(uid, rettype="abstract", retmode="text", outfile="AR.txt")
 
-#Now we have stored all of the abstract files! These have been placed into
-#an Analyze subfolder for convenience.
+#Now we have stored all of the abstract files! Make sure to
+#download them and unzip before using the script.
 
 # ===================================STEPS======================================
 
@@ -90,10 +93,7 @@ library("pubmed.mineR")
 #Step I. Define all variables
 
 #Load TFList
-#TFList <- read.table("top.txt", sep="\t")
-#Since we still don't have an output table, I have included a dummy TFList.
-
-TFList <- c("TP53", "MYC", "TP63", "TP73")
+TFList <- read.table("top.txt", sep="\t")
 
 LengthVals <- as.numeric(vector())
 BGVals <- as.numeric(vector())
@@ -102,9 +102,6 @@ TargetVals <- as.numeric(vector())
 #Step 2. Text mine abstracts from the "Background" section for our origin
 #        and target cell lines.
 
-#Since we don't have these sections from Gather yet, I have used fibroblasts as
-#background and cardiac cells as target.
-
 #Assuming that we have a variable loaded into R for the searches, we will replace
 #these dummy terms with that variable once it is available. If not, we will
 #implement Dmitry's reverse search function for Fantom IDs and keywords from his
@@ -112,14 +109,32 @@ TargetVals <- as.numeric(vector())
 
 setwd("./Abstracts")
 
+#Check that the TFs on the list have abstract files from Pubmed (some do not.)
+#If they don't, we'll be assigning 0 values for them, so we change the names to
+#"Empty".
+
+TFList2 <- TFList
 for (i in 1:length(TFList)) {
+  if (!file.exists(sprintf("%s.txt", TFList[i]))) {
+    TFList[i] <- "Empty"
+  }
+}
+
+for (i in 1:length(TFList)) {
+  if (TFList[i] == "Empty"){
+    BGVals[i] <- 0
+    LengthVals[i] <- 0
+    TargetVals[i] <-  0
+  }
+  else {
   FileNaming <- TFList[i]
   abstracts <- readabs(sprintf("%s.txt", FileNaming))
   LengthVals[i] <- length(abstracts@Abstract)
-  CountOccurrence <- getabs(abstracts, "fibroblast", FALSE)
+  CountOccurrence <- getabs(abstracts, sourcecell, FALSE)
   BGVals[i] <- length(CountOccurrence@Abstract)
-  CounTarget <- getabs(abstracts, "cardiac", FALSE)
+  CounTarget <- getabs(abstracts, target, FALSE)
   TargetVals[i] <- length(CounTarget@Abstract)
+  }
 }
 
 #Step III. Set up the ranked list to determine confidence ranks.
@@ -128,6 +143,8 @@ setwd("../")
 
 RatioVals <- TargetVals/BGVals
 PercentHits <- TargetVals/LengthVals
+
+TFList <- TFList2
 
 ConRank <- data.frame(TFList, BGVals, TargetVals, RatioVals, PercentHits, LengthVals)
 ConRank <- ConRank[order(ConRank$RatioVals, ConRank$LengthVals, decreasing=TRUE),]
@@ -173,3 +190,22 @@ TFConfidence <- data.frame(ConRank$TFList, ConRank$ConfidenceScore)
 write.table(TFConfidence, file="Confidence Scores for TFs.txt", sep="\t")
 
 #And we're done! :)
+
+# ===================================TESTS======================================
+
+#TEST A
+#-------------------------------------------------------------------
+#TFList <- c("TP53", "MYC", "TP63", "TP73", "HIPPO")
+#sourcecell <- "brain"
+#target <- "fibroblast"
+
+#Two have ratio<1, two have ratio>1, and HIPPO is not a real TF.
+
+#Output from running this list should give the following:
+
+#TFList     RatioVals     ConfidenceScore
+#TP63       4.1111111     0.2515406
+#MYC        2.7139364     0.6308100
+#TP53       0.9129213     0.0000000
+#TP73       0.1666667     0.0000000
+#HIPPO      NaN           NA
