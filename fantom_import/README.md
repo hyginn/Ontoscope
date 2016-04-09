@@ -1,6 +1,6 @@
 ﻿## Fantom Import Module
 
-Version: **1.0.1** 
+Version: **1.0.2** 
 
 
 
@@ -278,7 +278,7 @@ fantomKeyword(keywords, online=FALSE)
 fantomOntology(fantom_ids, online=FALSE)
 fantomDirect(ids, online=FALSE)
 
-``
+```
 
 refer to the fantomOffline folder for more details
 
