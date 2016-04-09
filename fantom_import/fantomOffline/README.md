@@ -30,6 +30,9 @@ This also works for fantomDirect and fantomKeyword:
 ```r
 fantomDirect("57, 89", online=FALSE)
 ```
+Downloading
+---------
+Use [thejmazz's](https://github.com/thejmazz/) bash script to download all files: [LINK](https://gist.github.com/thejmazz/3b4ab9e6241d9aed3817)
 
 
 Profiling
