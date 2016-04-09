@@ -1,6 +1,6 @@
 # Purpose:   Access the Fantom Database and Extract the Relevant Counts/Annotation for Requested Cells
-# Version:   1.0.1
-# Date:      2016-04-01
+# Version:   1.0.2
+# Date:      2016-04-09
 # Author(s): Dmitry Horodetsky
 #            Dan Litovitz
 #
@@ -42,8 +42,9 @@
 #               -Offline Mode added to all fantom retrieval functions
 #               -Processing Functions Improved
 #               
-# V 1.0.1   Reverse Search Implemented (Given FF:A-B, return name)
+# V 1.0.1    Reverse Search Implemented (Given FF:A-B, return name)
 #
+# V 1.0.2    Small Bug Fixes
 
 #Libraries Install and Load
 if (!require(iterators, quietly=TRUE)) {
@@ -209,7 +210,7 @@ fantomSearch <- function(query, type){
     }
     return (results)
   }
-
+  
   
 }
 
@@ -227,6 +228,33 @@ fantomList <- function(){
 ###################
 #fantomSummarize()
 ###################
+
+#Description and Explanation of Function:
+
+#This function takes each fantomResult dataframe (ie each sample) and prepares a CBX file out of all of them
+#The first column is Gene and the next colums are the counts for each sample.
+
+#1. Preparation Step
+#Each fantomResult has alot of information. The preperation step extracts the Normalized Gene Names from the first result (column 2) and uses it as a first column of fantomCounts
+
+#2. The Summarization
+#This step takes the counts (column 6) from every sample and appends them to the gene name column made in the Preperation Step
+
+#3. Filtration of Relevant Results
+#Not all genes made from the preparation step are annotated (ie have an HGNC ID). Some have just chromosome number, strand and nucleotide position
+#These genes are removed (since it is (a) computationally intensive to match these genes and (b) we aren't sure whether a match exists)
+
+#4. Preparation of Normalization
+#The normalized gene names have peak numbers attached to them ie "p2@GENE2"
+#This step removes the peak number
+
+#5. Duplication fix
+#Some genes have multiple peaks: p1@GENE2 and p2@GENE2. After Step4 we would have two entries for GENE2
+#To fix this the entries are simply added. An alternative solution would be to take the mean
+
+#6. Threshold
+#Self Explanatory. Genes with counts below a specific threshold are filtered out
+
 
 fantomSummarize <- function(threshold){
   if(length(fantomResults) < 1)
@@ -255,17 +283,26 @@ fantomSummarize <- function(threshold){
   
   message("Filtering Relevant Results. This step takes awhile ...")
   fantomCounts <<- .keep_or_delete(fantomCounts, "short_description", "p@chr", keep_NOTdelete = FALSE)
-
+  
   message("Preparing Normalized Gene Names ...")
   #Shout out to RoyalTS @
   #http://stackoverflow.com/a/22656776
   fantomCounts[1] <<- apply(fantomCounts[1],2,function(x) gsub(".+@",'',x))
   message ("All Genes Normalized!")
+  #(NOTE: Unfortunately
+  #fantomCounts[1] <<- sub("^p\\d@", "", fantomCounts[1])
+  #doesnt't seem to work
+  #)
   
   message("Fixing Duplicates ...")
-  colnames(fantomCounts)[2] <<- "Count"
-  fantomCounts <<- data.table(fantomCounts)[,sum(Count),by=short_description]
-  fantomCounts <<- data.frame(fantomCounts)
+  #Shout out to Ben Bolker @
+  #http://stackoverflow.com/a/10180178
+  fantomCounts <<- ddply(fantomCounts,"short_description",numcolwise(sum))
+  
+  #Experimental "Fix Duplicates". Currently not working.
+  #colnames(fantomCounts)[2] <<- "Count"
+  #fantomCounts <<- data.table(fantomCounts)[,sum(Count),by=short_description]
+  #fantomCounts <<- data.frame(fantomCounts)
   
   message("Applying Threshold ...")
   #Shout out to deseq2 manual and 
@@ -369,7 +406,7 @@ fantomProcess <- function(){
   ID_KEY_VALUE_LINK = ":"
   ANNOTATION_COL = "X00Annotation"
   DESCRIPTION_COL = "short_description"
-
+  
   deleteEmpty(IDENTIFIERS)
   fixID(IDENTIFIERS, ID_KEY_VALUE_LINK)
   fixDescription(DESCRIPTION_COL)
@@ -403,7 +440,7 @@ fantomProcess <- function(){
 #Fantom Access Numbers are simply "columns", which
 #correspond to cells in the Fantom Data Base
 
-#Most other functions just prepare the input for this function
+#Most other functions just prepare the input (ie the relevant column to extract) for this function
 
 .fantomImport <- function(online, raw_fantom_query, get_fantom_access_numbers) {
   #Check Whether Samples_DB is Loaded (in the working Directory)
@@ -458,8 +495,8 @@ fantomProcess <- function(){
         message("#####################")
         message("Reminder: OFFLINE functionality ONLY works if 'ontoscope' is set as the work directory and your offline files are in 'Ontoscope/fantom_import/fantomOffline'")
         message("#####################")
-        }
       }
+    }
   }
   message(paste("All results have been loaded into fantomResults")) 
   
@@ -507,7 +544,7 @@ fantomProcess <- function(){
 .loop_fantom_list <- function(call_func){
   if(length(fantomResults) < 1)
     stop("action skipped: fantomResults cannot be empty")
-
+  
   for(loop_index in 1:length(fantomResults))
     call_func(loop_index)
 }
@@ -546,7 +583,6 @@ fantomProcess <- function(){
   rownames(dataframe) <- NULL
   return(dataframe)
 }
-
 
 
 
