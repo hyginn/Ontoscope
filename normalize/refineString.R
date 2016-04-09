@@ -40,12 +40,17 @@ STRINGdata <- load("./WEAVE/curatedOutput.RData")
 FANTOM5 <- read.csv("./Normalize_TF/FANTOM5_TFList.csv", header=TRUE, fill=TRUE)
 FANTOM5 <- FANTOM5[ , -(3:5)]
 
+# load TF list data
+TFList <- read.table("./Normalize_TF/Transcription Factor List.txt")
 
 # ================== Construct the network =========================
 fantomGene <- FANTOM5$Symbol
+tf <- TFList$x
 
 ptm <- proc.time()
-STRINGnew<-src[src$hgnc_1 %in% fantomGene,]
+STRINGnew<-src[src$hgnc_1 %in% fantomGene,] # 1192824 obs
+STRINGtf<-src[src$hgnc_1 %in% tf,]# 1145696 obs
 proc.time() - ptm #~3secs
 
 save(STRINGnew, file = refinedSTRING)
+#save(STRINGtf, file = refinedSTRING)
