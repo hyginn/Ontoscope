@@ -1,6 +1,6 @@
 # GATHER module: takes in igraph fro phyliphy, 
 # and for each cell-line produces a dataframe with gene expression counts further used in CONTRAST
-# Version:   3.0
+# Version:   3.1
 # Date:      2016-03-22
 # Author: Eugenia Barkova
 
@@ -24,33 +24,14 @@ if (!require(igraph, quietly=TRUE)) {
 .check_CO_DB()
 
 source("~/BCB420/dev/fantom_import/fantom_main.R")
+
+## prepare regexes for FF ids
 FFDashesRegex <- "^FF:[0-9]+-[0-9]+[A-Z][0-9]$"
 FFSimpleRegex <- "^FF:[0-9]{7}"
 
-# Need a function in phylif that returns graph as a tree
-
-gatherResults <- list() # list to hold dataframes with counts
-
+########################### Helper Functions ###########################
 ###
-# GatherCounts(): Returns a dataframe with counts for target cell line and its background in igraph G
-# and a number of first columns in the dataframe are dedicated for target
-### 
-
-gatherCounts <- function(G, target, minPar, maxPar){
-  result <- gatherOne(target, G, minPar, maxPar)
-  cells <- paste(as.character(result[1]), collapse=", ") # format for fantom module
-  ## call fantom and get counts data frame
-  fantomOntology(cells)
-  fantomSummarize() # get counts
-  # update results
-  gatherResults <- fantomCounts
-  print(gatherResults)
-  gatherResults <- c(gatherResults, result[2])
-  return(gatherResults)
-}
-
-###
-# Get ids of all parents
+# Get ids of all imidiate parents of current id
 ###
 parents <- function (G, id) {
   ids <- as_ids(neighbors(G, id, mode="out"))
@@ -59,7 +40,7 @@ parents <- function (G, id) {
 }
 
 ###
-# Get ids of all parents
+# Get ids of all imidiate children
 ###
 children <- function (G, id) {
   ids <- as_ids(neighbors(G, id, mode="in"))
@@ -79,7 +60,6 @@ get_dashed_children <- function(G, id){
 # Get all ids of the form FF:x from list of ids
 ###
 get_simple_ff <- function(ids){
-  #ins <- as_ids(neighbors(G, id, mode="in"))
   no_dash <- ids[grep(FFSimpleRegex, ids)]
   return(no_dash)
 }
@@ -91,14 +71,15 @@ get_simple_ff <- function(ids){
 ###
 get_parents_between_levels <- function(G, in_id, minPar, maxPar){
   
+  # initialize first parent between levels if possible
   if (minPar > 1){
     par_between <- c()
   } else {
     par_between <- parents(G, in_id)
   }
   
-  if (minPar == maxPar){
-    par_between <- parents(G, in_id)
+  # check if only asked for imidiate parents
+  if (minPar == maxPar && maxPar == 1){
     return(par_between)
   }
   
@@ -110,6 +91,8 @@ get_parents_between_levels <- function(G, in_id, minPar, maxPar){
     for (ids in cur){
       prev <- c(prev, parents(G, ids))
     }
+    # if reached minPar (minCellsUp threshold) add parents to the list
+    # of returned parents
     if (i >= minPar){
       par_between <- c(par_between, prev)
     }
@@ -120,25 +103,25 @@ get_parents_between_levels <- function(G, in_id, minPar, maxPar){
 }
 
 ###
-# Get all ids of the tree below parents in the parent_list
+# Get all ids of the trees below parents in the parent_list
 ###
 get_all_children <- function(G, parents_list){
   
   all_children <- c()
   new_cur <- c()
   cur <- c()
-
+  
   # go through the list of parents and get all their children with simple FF ids
   for (par in parents_list){
     cur <- children(G, par)
     cur <- get_simple_ff(cur) # filter out dashes
     for (c in cur){
       if (! c %in% all_children){
-        all_children <- c(all_children, c) # add first children
+        all_children <- c(all_children, c) # add unique children
       } 
     }
     
-    # while there are children left
+    # while there are children left i.e. while not the end of the tree
     while (length(cur) != 0){
       new_cur <- c()
       for (id in cur){
@@ -151,9 +134,47 @@ get_all_children <- function(G, parents_list){
     }
   }
   
-  return(all_children)
+  # return only unique ids 
+  return(unique(all_children))
 }
 
+########################## Helper functions are done here ######################################
+
+
+
+
+###
+# GatherCountsOne(): Returns a dataframe with counts for target cell line and its background in igraph G
+# and a number of first columns in the dataframe are dedicated for target
+### 
+
+gatherCountsOne <- function(G, target, minPar, maxPar){
+  result <- gatherOne(target, G, minPar, maxPar)
+  cells <- result[1:length(result)-1]
+  cells <- paste(as.character(cells), collapse=", ") # format for fantom module
+  ## call fantom and get counts data frame
+  fantomOntology(cells)
+  fantomSummarize() # get counts
+  # update results
+  gatherResults <- fantomCounts
+  gatherResults <- c(gatherResults, tail(result, n=1))
+  return(gatherResults)
+}
+
+###
+# GatherCounts(): Returns a list of dataframes with counts for each target cell line in targets
+# and its background in igraph G along with the number of first 
+# columns in the dataframe are dedicated for target
+### 
+gatherCounts <- function(G, targets, minPar, maxPar){
+  gatherResults <- c()
+  i <- 1
+  for (t in targets){
+    gatherResults[[i]] <- gatherCountsOne(G, t, minPar, maxPar)
+    i <- i+1
+  }
+  return(gatherResults)
+}
 
 ###
 # GatherOne(): background counts for one cell line ####
@@ -182,4 +203,5 @@ gatherOne <- function(target_cell, G, minPar, maxPar){
   return(c(background, length(target_dashed)))
 }
 
-gatherCounts(COdat, "FF:0000592", 2, 4)
+# gatherCounts(COdat, c("FF:0000592", "FF:0000210"), 2, 4)
+
