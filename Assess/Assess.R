@@ -23,16 +23,14 @@
 # ====================================================================
 # PREP
 # set working directory indicate your own directory
-setwd(paste(DEVDIR, "/WEAVE", sep=""))
 
-source("WEAVE-STRING.R") 
 
-setwd(paste(DEVDIR, "/Assess", sep="")) 
+
+
 
 # load required data: Transcription factor list, STRGRAPH (for getTFSubgraph()), Gsx score list
 
-TF_List <- read.table("Transcription Factor List.txt")
-# read gene scores Gsx TO ADD
+
 
 load(paste(DEVDIR, "/contrast/sample1_contrast.RData", sep="")) 
 # ====================================================================
@@ -49,13 +47,34 @@ if (!require(biomaRt)) {
   library("biomaRt")
 }
 
+
+# ====================================================================
+#required files
+
+#load get getTFSubgraph function
+setwd(paste(DEVDIR, "/WEAVE", sep="")) 
+source("WEAVE-STRING.R") 
+
+#Need a set of gene scores from annotate load gsx
+setwd(paste(DEVDIR, "/annotate", sep="")) 
+source("gsea.R") 
+#change file name
+gene_scores = gsx
+
+setwd(paste(DEVDIR, "/Assess", sep="")) 
+#read transcription factor list
+TF_List <- read.table("Transcription Factor List.txt")
+
+#need to load STRGRAPH from WEAVE its currently default in WEAVE
+#defalt is set to STRGRAPH look bellow in sub_s line 77
+
 # ====================================================================
 #functions
 
 getTFscore <- function(TF, order=1) {
   TF_score <- 0
   #plot subgraph using tf
-  sub_s <- getTFSubgraph(TF)
+  sub_s <- getTFSubgraph(TF, GRAPH=STRGRAPH)
   #assume that one subgraph is created. Will figure out later for multiple cases
   sub <- sub_s[[1]]
   #use the subgraph to go through every gene in transcription factor's sphere of influence 
@@ -66,7 +85,7 @@ getTFscore <- function(TF, order=1) {
     current_gene <- V(sub)$name[j]
     if (current_gene != TF){
       #acquire gene from Gsx score table
-      Gsx <- gsx_fantomCounts_10Kg_6s$gsx[levels(gsx_fantomCounts_10Kg_6s$gene)== current_gene]
+      Gsx <- gene_scores$gsx[levels(gene_scores$gene)== current_gene]
       if (length(Gsx) == 0 | is.null(Gsx)  ){
         Gsx <- 0
       }
@@ -80,10 +99,30 @@ getTFscore <- function(TF, order=1) {
       }
       #Find the parent of gene distance from TF
       #Wite an if clause to check for 0 
-      parent <- get.shortest.paths(graph <- sub, from <- current_gene, to <- TF)$vpath[[1]][2]$name
-      #edges are being duplicated
-      Orn <- length(neighbors(sub, parent, mode = "all"))
       
+      #acquire the names of genes leading to the TF recursively. These names will be later used to calculate the edges of the nodes
+      parent1 <- get.shortest.paths(graph <- sub, from <- current_gene, to <- TF)$vpath[[1]][2]$name
+      
+      if (Lrn > 1){
+        parent2 <- get.shortest.paths(graph <- sub, from <- parent2, to <- TF)$vpath[[1]][2]$name
+        
+        if (Lrn > 2){
+          parent3 <- get.shortest.paths(graph <- sub, from <- parent3, to <- TF)$vpath[[1]][2]$name
+        }
+        
+      }
+      #edges are being duplicated
+      if ( length(parent1) != 0) {
+        Orn <- sum(Orn, length(neighbors(sub, parent1, mode = "all")))
+      }
+      #check if parent2 exists if yes add the edges to Orn
+      if (length(parent2) != 0) {
+        Orn <- sum(Orn, length(neighbors(sub, parent2, mode = "all")))
+      }
+      if (length(parent3) != 0) {
+        Orn <- sum(Orn, length(neighbors(sub, parent3, mode = "all")))
+      }
+
       #check if Orn is 0 or length 0. Both impossible
       if (Orn == 0 | length(Orn) == 0 ){
         warning("Orn is either length 0 or is 0 itself. Automatically reset Orn to 1")
