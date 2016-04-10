@@ -1,8 +1,8 @@
 # REGNET.R
 #
 # Purpose:   REGNET: Create GRN using REGNETWORK database
-# Version:   0.2
-# Date:      2016-03-29
+# Version:   0.3
+# Date:      2016-04-10
 # Author:    Zhen Hao (Howard) Wu, Fupan Yao
 #
 # Input:     REGNET_HIGH_CONF - All high confidence edges from REGNETWORK
@@ -20,6 +20,7 @@
 # V 0.1:     Created igraph object using raw REGNETWORK database
 # V 0.2:     Filtered out miRNA data from raw database and created igraph object from it.
 #            Data is already normalized by HGNC symbols as cited in paper, but some symbols are outdated.
+# V 0.3:     Added comments to code
 # ====================================================================
 
 setwd(paste(DEVDIR, "/REGNET", sep="")) # Modify to your working directory
@@ -44,21 +45,6 @@ if (!require(igraph, quietly=TRUE)) {
 }
 
 
-# For future reference on development only...
-# # function example ...
-# wrapString <- function(s, w = 60) {  # give parameters defaults
-#   # Wrap string s into lines of width w.  # comment purpose
-#   # All lines are terminated with a newline "\n"
-#
-#   pattern <- paste(".{1,", w, "}", sep="")
-#   tmp <- paste(unlist(str_match_all(s, pattern)[[1]]),
-#                collapse = "\n")
-#   return(paste(tmp, "\n", sep=""))   # return explicitly
-# }
-
-
-
-
 # ====  FUNCTIONS  ===================================================
 # Define functions or source external files
 # (these are examples ... delete.)
@@ -72,21 +58,27 @@ if (!require(igraph, quietly=TRUE)) {
 
 # example ...
 
+# Puts all high, medium, and low confidence csv files into separate dataframes
+
 HIGHCONF <- read.csv("REGNET_HIGH_CONF.csv", header=TRUE, sep= ",")
 MEDIUMCONF <- read.csv("REGNET_MEDIUM_CONF.csv", header=TRUE, sep= ",")
 LOWCONF <- read.csv("REGNET_LOW_CONF.csv", header=TRUE, sep= ",")
 
+
+# Combines all dataframes into one and reordered the rows, with HGNC symbols of regulator and target
+# in first two columns
 REGNETDB <- rbind(HIGHCONF, MEDIUMCONF, LOWCONF)
 REGNETDB <- REGNETDB[, c(1,3,2,4,5,6,7)]
 
 
-
+# List of sources that contain miRNA interactions that should be removed from raw dataframe
 miRNADB <- c("microT", "miRanda", "miRBase", "miRecords", "miRTarBase", "PicTar", "Tarbase", "TargetScan", "transmir")
 
 filteredDB <- REGNETDB
 
 
-
+# Repeatedly deletes rows from filteredDB with sources mentioned in miRNADB vector
+# Also checks the subsetting function needed to delete rows is behaving correctly and prints a message if not
 for (db in miRNADB) {
   filteredDB<-filteredDB[ grep(db, filteredDB$database, invert=TRUE), ]
   if (nrow(filteredDB) == 0) {
@@ -96,6 +88,7 @@ for (db in miRNADB) {
   }
 }
 
+# Creates an igraph object from the filtered dataframe
 REGNETGRAPH <- graph_from_data_frame(filteredDB, directed = TRUE)
 
 
