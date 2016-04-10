@@ -113,14 +113,14 @@ getTFscore <- function(TF, order=1) {
       }
       #edges are being duplicated
       if ( length(parent1) != 0) {
-        Orn <- sum(Orn, length(neighbors(sub, parent1, mode = "all")))
+        Orn <- sum(Orn, (length(neighbors(sub, parent1, mode = "all"))/2 ))
       }
       #check if parent2 exists if yes add the edges to Orn
       if (length(parent2) != 0) {
-        Orn <- sum(Orn, length(neighbors(sub, parent2, mode = "all")))
+        Orn <- sum(Orn, (length(neighbors(sub, parent2, mode = "all"))/2 ))
       }
       if (length(parent3) != 0) {
-        Orn <- sum(Orn, length(neighbors(sub, parent3, mode = "all")))
+        Orn <- sum(Orn, (length(neighbors(sub, parent3, mode = "all"))/2))
       }
 
       #check if Orn is 0 or length 0. Both impossible
@@ -131,7 +131,7 @@ getTFscore <- function(TF, order=1) {
       }
       
       #calculate score
-      Gene_score <- Gsx * (1/Lrn) * (1/Orn)
+      Gene_score <- Gsx * (1/(Lrn*Lrn)) * (1/Orn)
       if (length(Gene_score) == 0){
         message("Gene_score equals numeric(0) for ",`current_gene`)
         Gene_score <- 0
