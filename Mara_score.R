@@ -31,7 +31,7 @@ gene_scores = gsx
 setwd(DEVDIR)
 load("MARA.RData")
 
-setwd(paste(DEVDIR, "/Mara_score", sep="")) 
+setwd(DEVDIR) 
 
 # ====================================================================
 
