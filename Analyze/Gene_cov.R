@@ -1,6 +1,6 @@
 # Gene_cov.R
 #
-# Purpose:   To plot the cumulative coverage of regulation of for genes by the top ranked TFs.
+# Purpose:   To plot the cumulative coverage of regulatory genes by the top ranked TFs.
 # Version:   0.1
 # Date:      2016-04-11
 # Author:    Anam Qudrat
