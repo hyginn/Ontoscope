@@ -5,7 +5,7 @@
 #
 #Purpose: 1) Generate a heatmap for each critical TF between backgrounds and both
 #            target and cell of origin, showing how expression differs between
-#            cell types.
+#            cell types. 
 #Version: v1.0
 #Date:    2016-03-21
 #Author:  Shivani Kamdar
@@ -18,7 +18,7 @@
 #Output:  Heatmap for each TF of interest.
 #
 #ToDo: Update the file with correct inputs once these are generated.
-#Notes:   
+#Notes:   Source = sourcecell, Target = target, Background = bck
 #         
 #         
 #
@@ -66,7 +66,7 @@ for (i in 1:ncol(fantomTFs)) {
 #As I do not yet have this output data, I assume it will be in an Rdata file as a
 #vector of TF names (HGNC).
 
-#load("./ConversionList.RData")
+#load("./top.txt")
 
 #To test, I have created a short conversion list:
 
