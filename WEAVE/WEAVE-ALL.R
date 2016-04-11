@@ -26,6 +26,7 @@
 #            Code significantly simplified due to preprocessing by STRINGensp2symbol.R
 # V 0.3:     Incorporated REGNET and TRRUST into WEAVE. Module now returns an Rdata file with three igraph objects for
 #            each database
+# V 0.4:     STRGRAPH now contains only high confidence interactions (combined score > 700)
 # ====================================================================
 
 setwd(paste(DEVDIR, "/WEAVE", sep="")) # Modify to your working directory
@@ -76,7 +77,8 @@ getTFSubgraph <- function(TF, order=1, GRAPH=STRGRAPH) {
 # Creates the STRING igraph object from database stored in curatedOutput.Rdata
 # NOTE: Please run normalizeWeave.R in NORMALIZE module BEFORE continuing!!!
 load("curatedOutput.Rdata")
-STRGRAPH <- graph_from_data_frame(src, directed = TRUE)
+high_conf_interactions = src[src$combined_score > 700,]
+STRGRAPH <- graph_from_data_frame(high_conf_interactions, directed = TRUE)
 
 # Creates the REGNET igraph object
 source("../REGNET/REGNET.R")
