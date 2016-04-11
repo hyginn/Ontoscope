@@ -152,3 +152,22 @@ Notes on Functionality
 -------------
 
 For more information about Dmitry's TRRUST network, click [(here) ](https://github.com/hyginn/Ontoscope/tree/master/TRRUST_network).
+
+## Gene coverage
+
+Version: **1.0**
+
+**Features**: 
+ 
+Notes on Variables
+-------------
+This module assumes the following:
+
+1. The fantomCounts file with counts for source, target, and background cells has already been generated.
+2. Source, target, and backgrounds have been identified previously in the workflow.
+
+Usage
+-------------
+Usage of this module, assuming variables and conversion TFs have been defined, is straightforward and requires only the sourcing of the file.
+
+Notes on Functionality
