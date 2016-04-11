@@ -1,4 +1,4 @@
-## Read Modules
+## 1. Read Modules
 
 Version: **1.0**
 
@@ -19,7 +19,7 @@ Notes on Functionality
 -------------
 Both Modules convert imported data into a matrix format, rank/sort the data applying pre-determined or user-defined thresholds and export the data as text files.
 
-## Transcription Factor Validation - Literature Search with Pubmed.MineR
+## 2. Transcription Factor Validation - Literature Search with Pubmed.MineR
 
 Version: **1.1**
 
@@ -130,7 +130,7 @@ have higher confidence in our prediction of Myc than of TP63.
 
 And that's it!
 
-## Visualization
+## 3. Visualization
 
 Version: **1.0**
 
@@ -153,7 +153,7 @@ Notes on Functionality
 
 For more information about Dmitry's TRRUST network, click [(here) ](https://github.com/hyginn/Ontoscope/tree/master/TRRUST_network).
 
-## Gene coverage
+## 4. Gene coverage
 
 Version: **1.0**
 
