@@ -157,17 +157,18 @@ For more information about Dmitry's TRRUST network, click [(here) ](https://gith
 
 Version: **1.0**
 
-**Features**: 
+**Features**: To plot the cumulative coverage of regulatory genes of top ranked TFs. 
  
 Notes on Variables
 -------------
 This module assumes the following:
 
-1. The fantomCounts file with counts for source, target, and background cells has already been generated.
-2. Source, target, and backgrounds have been identified previously in the workflow.
+1. The list of top-ranked TFs has been generated (i.e., "top.txt).
+2. The list of regulatory genes required for the coversion is available. 
 
 Usage
 -------------
-Usage of this module, assuming variables and conversion TFs have been defined, is straightforward and requires only the sourcing of the file.
+Usage of this module, assuming variables and requires sourcing of the file. 
 
-Notes on Functionality
+Workflow
+-------------
