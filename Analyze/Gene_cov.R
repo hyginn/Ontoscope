@@ -12,7 +12,7 @@
 # Depends:   NA
 #
 # ToDo:      Test with working dataset.
-# Notes:
+# Notes:     How to calculate coverage scores?
 #
 # V 0.1:     First code
 # ====================================================================
