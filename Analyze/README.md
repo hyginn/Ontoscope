@@ -168,7 +168,4 @@ This module assumes the following:
 
 Usage
 -------------
-Usage of this module, assuming variables and requires sourcing of the file. 
-
-Workflow
--------------
+This file is a sample of the working code and hence is not usable currently. A way to calculate coverage needs to be determined in order to proceed. 
