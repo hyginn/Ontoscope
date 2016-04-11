@@ -1,3 +1,24 @@
+## Read Modules
+
+Version: **1.0**
+
+**Features**: These modules generate .txt files of organized data for further analysis and visualization. There are two Read               Modules, one for the differential gene expression (Gsx) scores and the other for the transcription factor (TF)               scores. 
+
+Notes on Variables
+-------------
+This module assumes the following:
+
+1. The Gsx scores have been calculated in the Contrast Module. 
+2. The ranked TF list has been generated through the RANK/COMBINE/PRUNE Modules. 
+
+Usage
+-------------
+Usage of this module, assuming variables been defined, requires sourcing the respective files.
+
+Notes on Functionality
+-------------
+Both Modules convert imported data into a matrix format, rank/sort the data applying pre-determined or user-defined thresholds and export the data as text files.
+
 ## Transcription Factor Validation - Literature Search with Pubmed.MineR
 
 Version: **1.1**
