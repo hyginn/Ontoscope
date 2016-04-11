@@ -1,7 +1,7 @@
 # Read_cTF.R
 #
 # Purpose:   To read cTF (combination of transcription data) in R and look at it.
-# Version:   0.2
+# Version:   0.3
 # Date:      2016-03-29
 # Author:    Anam Qudrat
 #

@@ -1,7 +1,7 @@
 # Read_Gsx.R
 #
 # Purpose:   To read gene expression scores (Gsx; s=sample, x=gene) in R, determine cutoff and export as .txt.
-# Version:   0.2
+# Version:   0.3
 # Date:      2016-03-29
 # Author:    Anam Qudrat
 #
