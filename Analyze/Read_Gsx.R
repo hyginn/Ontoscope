@@ -64,7 +64,7 @@ exprs <- as.matrix(read.table(exprsF, header=TRUE, sep="\t", #the argument becom
 cov <- exprsF>2.6 # extract all values greater than cutoff = 2.6.
 Ranked_genes <- sort(exprsF[cov,], decreasing=TRUE) # sort in descending order
 rank_df <- data.frame(Ranked_genes)
-write.table(rank_df, "cov.txt", sep="\t")
+write.table(rank_df, "cov.txt", sep="\t") # write file to text
 file.show("cov.txt")
 
 # ====  TESTS  =======================================================
