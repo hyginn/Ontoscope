@@ -1,5 +1,25 @@
 # phylify
 
+## Design
+
+The overall design of phylify is to create a module which satisfies the following:
+
+- easy OBO parsing without having to look up an OBO parser
+- quick ontology summary
+- ontology as an igraph object
+- easy to customize interative visualization (implemented with visNetwork atm)
+- helper functions to ease filtering ontology data
+- example workflow to illustrate API use
+- concise `COdat` creation script for VCS, Ontoscope purposes
+- implements helper methods for filtering by various heuristics, such as
+  - comparing to Mogrify
+  - using human and mouse samples tables with cell lines, primary cells, time courses, etc
+  - `filterByBad` and `filterByGood`
+
+Summarily:
+- produce COdat while maintaining an API that can be picked up by someone else
+to experiment with and create and alternate COdat
+
 ## COdat
 
 See [workflow](https://github.com/hyginn/Ontoscope/blob/master/phylify/workflow.r)
@@ -12,7 +32,6 @@ having a little more)
 ## OBO Parsing Heuristics
 
 See [here](https://github.com/hyginn/Ontoscope/blob/master/phylify/obo-heuristic.md).
-(Summarized update coming soon)
 
 ## ontology-explorer
 
