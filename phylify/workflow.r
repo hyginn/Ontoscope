@@ -1,3 +1,11 @@
+nicePath <- function (filename) {
+  tryCatch({
+    return(file.path(getwd(), dirname(sys.frame(1)$ofile), filename))
+  }, error = function (error) {
+    return(filename)
+  })
+}
+
 # Example workflow using ontology-explorer.r
 
 # BS> Missing author etc...
@@ -5,6 +13,9 @@
 # BS> create what (kind of) object? Should the output be
 # BS> saved? Loaded later (where)? Why is this necessary? What
 # BS> are the use cases ... etc. etc.
+
+# Author: Julian Mazzitelli <mazzitelli.julian@gmail.com>
+# Purpose: example uses of functions provided by ontology-explorer
 
 # Tools for exploring (via subsetting) ontology
 source("ontology-explorer.r")
@@ -25,21 +36,16 @@ summarizeOBO(fantom, head=TRUE, n=10L)
 # like oboSummary$termIDs for example
 fantomSummary <- summarizeOBO(fantom)
 
-
 # BS> I don't get what's happening below. Whay one or the other? What
 # BS> are the use cases? What are the options? How does one choose?
+# JM> I am deprecating my function due to it mostly just wrapping grep.
 
-# We can use the getTermsMatched function to grab IDs matching a regex
-getTermsMatched(fantom, "^EFO")
-head(getTermsMatched(fantom, "^FF", invert=TRUE))
-# The "pure" alternatives are
-rownames(fantom@.stanza)[which(fantom@.stanza$value == TERM)][grep("^EFO", rownames(fantom@.stanza)[which(fantom@.stanza$value == TERM)])]
-# and
+# We can pull out the term IDs and grep them
 fantomSummary$termIDs[grep("^EFO", fantomSummary$termIDs)]
-# is getTermsMatched good? Or unneccessary grep wrapping leading to requiring extra API knowledge..
 
 # using ontoCAT
 # most useful for getAllTerm(Parents|Children)ById
+# ontoCAT wants an absolute path, hence normalizePath
 fantomCAT <- getOntology(normalizePath(FFP2))
 
 # Term IDs
@@ -79,13 +85,15 @@ bads_mouse <- getFFByCategory(mouseSamples, c("time courses", "fractionations an
 goods_mouse <- getFFByCategory(mouseSamples, c("cell lines", "primary cells"))
 
 # Load up the fantom_import module
-source("../fantom_import/fantom_main.R")
+source(nicePath("../fantom_import/fantom_main.R"))
 # Get all the FFDash IDs that we can pull samples for
 DESeqable <- as.character(fantom_samples[!is.na(fantom_samples[,2]),2])
 # But not everything in there is good!
-length(DESeqable) # 1596
-sum(DESeqable %in% goods_human) # 765
-DESeqable <- DESeqable[DESeqable %in% goods_human]
+length(DESeqable) # 1829
+sum(DESeqable %in% goods_human) # 834
+
+# Not doing this anymore to avoid losing replicates.
+# DESeqable <- DESeqable[DESeqable %in% goods_human]
 
 # igraph
 G <- getIgraph(fantom)
@@ -101,60 +109,30 @@ COdat <- filterByGood(G, DESeqable)
 
 # BS> What does makeVisNetwork() return? Or do?
 # BS> (Not documented in your code.)
-makeVisNetwork(COdat)
+# JM> Documented now.
+makeVisNetwork(COdat, useLabel=FALSE)
 
 # Taking all FFNums and FFDashes
 COdat <- filterByGood(G, termIDs[grep("^FF", termIDs)])
 COdat <- filterByBad(G, termIDs[grep("^FF", termIDs, invert=TRUE)])
-makeVisNetwork(COdat, customLayout="layout_as_tree")
-makeVisNetwork(COdat)
+makeVisNetwork(COdat, cluster=FALSE, useLabel=FALSE)
 
 # Taking all FFNums
 COdat <- filterByGood(G, FFNums)
-makeVisNetwork(COdat)
+makeVisNetwork(COdat, cluster=FALSE, useLabel=FALSE)
 
 # Taking all FFNums and DESeqable FFDashes
 COdat <- filterByGood(G, c(FFNums, DESeqable))
-makeVisNetwork(COdat)
+makeVisNetwork(COdat, cluster=FALSE, useLabel=FALSE)
 
 # Taking only mogrifyIDs
 COdat <- filterByGood(G, mogrifyIDs)
-makeVisNetwork(COdat)
+makeVisNetwork(COdat, cluster=FALSE, useLabel=FALSE)
 
 # Taking mogrifyIDs and DESeqables
 COdat <- filterByGood(G, c(mogrifyIDs, DESeqable))
-makeVisNetwork(COdat)
+makeVisNetwork(COdat, cluster=FALSE, useLabel=FALSE)
 
 save(COdat, file="COdat.RData")
-
-
-# === mini gather ===
-
-# as_ids not working with neighborhood, which is too bad b/c order is nice
-as_ids(neighborhood(COdat, order=2, "FF:0000592", mode="out"))
-# but does with neighbours
-as_ids(neighbors(COdat, "FF:0000592", mode="out"))
-
-makeDashesBg <- function(G, FFID) {
-  # takes one level out
-  makeNumList <- function (G, id, closeDepth, farDepth) {
-    ids <- as_ids(neighbors(G, id, mode="out"))
-
-    return(ids)
-  }
-
-  dashes <- c()
-  for (id in as.list(nums)) {
-    ins <- as_ids(neighbors(COdat, id, mode="in"))
-    insDashes <- ins[grep(FFDashesRegex, ins)]
-
-    dashes <- c(dashes, insDashes)
-  }
-
-  return(dashes)
-}
-
-makeDashesBg(COdat, "FF:0000592")
-
 
 # [End]

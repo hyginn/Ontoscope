@@ -15,7 +15,29 @@ See [here](https://github.com/hyginn/Ontoscope/blob/master/phylify/obo-heuristic
 
 ## ontology-explorer
 
-API overview coming soon..For now read [workflow](https://github.com/hyginn/Ontoscope/blob/master/phylify/workflow.r)
+#### `getOBO(<string>)`
+
+Returns an `OBOCollection`.
+
+#### `summarizeOBO(<OBOCollection>, head=<logical>, n=6L)`
+
+Returns a list with `numTerms`, `numEdges`, `termIDs`, `termTypes`, and `propertyTypes`.
+Use `head=TRUE` to take a glance.
+
+#### `makeVisNetwork(*params)`
+
+Params:
+- `smooth` <logical> whether or not to use curved edges. warning: slower!
+- `useLabel` <logical> whether or not to take label attribute. use false if your nodes don't have a label
+- `cluster` <logical> whether or not to cluster (with clusterAlg)
+- `clusterAlg` <FUN> the igraph function to cluster by
+- `clusterAsUndirected` <logical> whether to cast graph to cluster to be undirected. some algs. only work on undirected
+- `customGroups` <logical> whether or not to use your own custom $group vertex attributes
+- `hierarchicalLayout` <logical> whether or not to let vis.js compute a hierarchical layout
+- `levelSeparation` <number> for vis.js hierarchical layout
+- `direction` <string> direction of tree for hierarchical layout
+- `igraphLayout` <logical> whether or not to compure layout on igraph side vs vis.js side
+- `layout` <string> the name of the igraph layout function to use
 
 ## visNetwork
 
