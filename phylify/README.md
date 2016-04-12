@@ -4,9 +4,10 @@
 
 See [workflow](https://github.com/hyginn/Ontoscope/blob/master/phylify/workflow.r)
 for how to make your own `COdat.RData`. The current version takes all `FF:X` IDs
-from the Mogrify website, plus all "cell lines"+"primary cells" categories
-in humans from the set of `FF:A-B` IDs for which we can pull samples to run
-through DESeq.
+from the Mogrify website, plus all ~~~"cell lines"+"primary cells" categories
+in humans from the set of~~~ `FF:A-B` IDs for which we can pull samples to run
+through DESeq. (Human cell lines + primary cells was too restrictive, and no harm
+having a little more)
 
 ## OBO Parsing Heuristics
 
